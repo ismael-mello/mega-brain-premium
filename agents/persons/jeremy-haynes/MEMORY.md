@@ -16,10 +16,11 @@
 | LYFC | Landing Your First Client | 080-081 | 10 | First client, redundancies |
 | WK | Weekly Calls | 082-084 | 40 | MRR, Time Collapsing, hiring |
 | MMM | Make More Money Masterclass | 084 | 9 | Business exit, IB |
-| 30DC | 30-Day Challenge | 092-094 | 30 | Agency launch, cold outreach |
+| 30DC | 30-Day Challenge | 092-094 | 30 | Agency launch, cold outreach | ✅ knowledge/sources/30-day-challenge/ (5 docs, 2026-03-03) |
 | AOBA | Agency Operating Basics Academy | 094-099 | 56 | Agency SOPs, operations |
-| PCVP | Perfect Cold Video Pitch | 100-101 | 13 | Video pitches, cold outreach |
-| **TOTAL** | | **30 batches** | **268 arquivos** | |
+| PCVP | Perfect Cold Video Pitch | 100-101 | 13 | Video pitches, cold outreach | ✅ knowledge/sources/client-accelerator/01-COLD-VIDEO-PROSPECTING.md (2026-03-03) |
+| CA | Client Accelerator | — | 28 | Cold outreach, lead gen, appointment setting | ✅ knowledge/sources/client-accelerator/ (3 docs, 2026-03-03) |
+| **TOTAL** | | **30 batches** | **296 arquivos** | |
 
 ^[derivado:CONFIG.yaml:fontes:series]
 
@@ -29,12 +30,12 @@
 
 | Camada | Summary | Total | Peso Medio | Exemplos-Chave |
 |--------|---------|-------|------------|----------------|
-| FILOSOFIAS | 22 | 370 | 0.91 | Fair Pricing, Hydra Philosophy, DSL > VSL |
-| MODELOS MENTAIS | 20 | 257 | 0.92 | Interest Levels Ladder, Time Collapsing, DSL vs VSL |
-| HEURISTICAS | 30 | 881 | 0.91 | 77% DSL, 99% booking, $734K BFCM, 285x ROAS |
-| FRAMEWORKS | 25 | 460 | 0.92 | Hydra, VFT, Hammer, Andromeda, Pentagon |
-| METODOLOGIAS | 18 | 312 | 0.93 | Jornada Pricing, VFT 2.0 Setup, DSL Creation |
-| **TOTAL** | **115** | **2,280** | **0.85** | |
+| FILOSOFIAS | 39 | 370 | 0.91 | Fair Pricing, Hydra Philosophy, DSL > VSL |
+| MODELOS MENTAIS | 36 | 257 | 0.92 | Interest Levels Ladder, Time Collapsing, DSL vs VSL |
+| HEURISTICAS | 63 | 881 | 0.91 | 77% DSL, 99% booking, $734K BFCM, 285x ROAS |
+| FRAMEWORKS | 48 | 460 | 0.92 | Hydra, VFT, Hammer, Andromeda, Pentagon |
+| METODOLOGIAS | 36 | 312 | 0.93 | Jornada Pricing, VFT 2.0 Setup, DSL Creation |
+| **TOTAL** | **222** | **2,280** | **0.85** | |
 
 ^[derivado:CONFIG.yaml:estatisticas]
 
@@ -132,6 +133,7 @@ Preco nao e fixo — e uma jornada. $1,500 → $10,000/mes ao longo de 5 anos. S
 | 2026-01-10 | 2.0.0 | 1,483 | Consolidacao 17 batches (068-084) |
 | 2026-01-10 | 3.0.0 | 1,483 | Alinhamento de versao |
 | 2026-01-10 | 4.0.0 | 2,280 | +797 elementos (13 batches adicionais: 002-004, 092-101) |
+| 2026-03-03 | 5.0.0 | 222 YAML | +74 YAML elements via 30DC+CA merge (HEUR+33, FW+23, MET+18) |
 
 ^[CONFIG.yaml:changelog]
 

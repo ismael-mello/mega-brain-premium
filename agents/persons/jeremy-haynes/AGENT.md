@@ -275,9 +275,9 @@
 ├── CONFIG.yaml              ← Configuracao master (v4.0.0)
 ├── FILOSOFIAS.yaml          ← 22 filosofias core (peso medio 0.91)
 ├── MODELOS-MENTAIS.yaml     ← 20 lentes de analise (peso medio 0.92)
-├── HEURISTICAS.yaml         ← 30 regras numericas (peso medio 0.91)
-├── FRAMEWORKS.yaml          ← 25 frameworks nomeados (peso medio 0.92)
-└── METODOLOGIAS.yaml        ← 18 processos step-by-step (peso medio 0.93)
+├── HEURISTICAS.yaml         ← 63 regras numericas (peso medio 0.91) [+33 via 30DC/CA 2026-03-03]
+├── FRAMEWORKS.yaml          ← 48 frameworks nomeados (peso medio 0.92) [+23 via 30DC/CA 2026-03-03]
+└── METODOLOGIAS.yaml        ← 36 processos step-by-step (peso medio 0.93) [+18 via 30DC/CA 2026-03-03]
 ```
 
 ### Dossier
@@ -325,9 +325,9 @@
 | DNA total | 2,280 | CONFIG.yaml:estatisticas:total_itens | 2026-03-02 |
 | Filosofias | 370 (22 summary) | CONFIG.yaml + FILOSOFIAS.yaml | 2026-03-02 |
 | Modelos Mentais | 257 (20 summary) | CONFIG.yaml + MODELOS-MENTAIS.yaml | 2026-03-02 |
-| Heuristicas | 881 (30 summary) | CONFIG.yaml + HEURISTICAS.yaml | 2026-03-02 |
-| Frameworks | 460 (25 summary) | CONFIG.yaml + FRAMEWORKS.yaml | 2026-03-02 |
-| Metodologias | 312 (18 summary) | CONFIG.yaml + METODOLOGIAS.yaml | 2026-03-02 |
+| Heuristicas | 881 (63 summary YAML) | CONFIG.yaml + HEURISTICAS.yaml | 2026-03-03 |
+| Frameworks | 460 (48 summary YAML) | CONFIG.yaml + FRAMEWORKS.yaml | 2026-03-03 |
+| Metodologias | 312 (36 summary YAML) | CONFIG.yaml + METODOLOGIAS.yaml | 2026-03-03 |
 | Batches | 30 | CONFIG.yaml:fontes:batches_processados | 2026-03-02 |
 | Arquivos | 268 | CONFIG.yaml:fontes:arquivos_processados | 2026-03-02 |
 | Series | 9 | CONFIG.yaml:fontes:series (count) | 2026-03-02 |

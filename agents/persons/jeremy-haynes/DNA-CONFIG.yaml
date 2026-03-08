@@ -94,6 +94,13 @@ dna_sources:
         arquivos: 13
         data_processamento: "2026-01-10"
 
+      - id: "CA"
+        titulo: "Client Accelerator (CA)"
+        tipo: "course"
+        arquivos: 28
+        data_processamento: "2026-03-03"
+        nota: "Merge direto nos YAML DNA files (bypassed pipeline)"
+
 # Estatisticas do DNA
 estatisticas:
   total_elementos: 2280
@@ -105,8 +112,9 @@ estatisticas:
   peso_medio: 0.85
   alta_confianca_percent: 92.1
   batches_processados: 30
-  arquivos_fonte: 268
-  series: 9
+  arquivos_fonte: 296
+  series: 10
+  yaml_summary_elements: 222
 
 # Arquivos DNA
 arquivos_dna:

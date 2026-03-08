@@ -123,6 +123,18 @@ NARRATIVES_STATE = READ /processing/narratives/NARRATIVES-STATE.json
 ⛔ DUPLICATE DETECTION - INTERROMPE PROCESSAMENTO SE DUPLICATA ENCONTRADA
 ═══════════════════════════════════════════════════════════════════════════════
 
+# PRE-CHECK: Se for PDF, converter para texto ANTES de qualquer operacao
+IF $ARGUMENTS ends with ".pdf" OR $ARGUMENTS ends with ".PDF":
+  LOG: "📄 PDF detectado na entrada - convertendo para texto..."
+  EXECUTE: python3 ".claude/skills/pdf-to-text/convert_pdf.py" "$ARGUMENTS"
+  TXT_PATH = replace_extension($ARGUMENTS, ".txt")
+  IF TXT_PATH exists:
+    LOG: "✅ PDF convertido. Pipeline continuará com: $TXT_PATH"
+    $ARGUMENTS = TXT_PATH
+  ELSE:
+    LOG ERROR: "❌ Falha na conversão do PDF. Verifique o arquivo."
+    EXIT with status: PDF_CONVERSION_FAILED
+
 # FASE 1: Calcular MD5 do arquivo atual
 CURRENT_MD5 = calculate_md5($ARGUMENTS)
 CURRENT_SIZE = file_size($ARGUMENTS)
@@ -237,6 +249,20 @@ IF found:
 ---
 
 ## PHASE 2: CHUNKING (Prompt 1.1)
+
+### Step 2.0 - PDF Auto-Conversion (Pre-Processing)
+```
+IF $ARGUMENTS ends with ".pdf" OR $ARGUMENTS ends with ".PDF":
+  LOG: "📄 PDF detectado - convertendo para texto antes de processar..."
+  EXECUTE: python3 ".claude/skills/pdf-to-text/convert_pdf.py" "$ARGUMENTS"
+  TXT_PATH = replace_extension($ARGUMENTS, ".txt")
+  IF TXT_PATH exists:
+    LOG: "✅ PDF convertido para: $TXT_PATH"
+    $ARGUMENTS = TXT_PATH  # Redirecionar para o .txt gerado
+  ELSE:
+    LOG ERROR: "❌ Falha na conversão do PDF"
+    EXIT with status: PDF_CONVERSION_FAILED
+```
 
 ### Step 2.1 - Read Full Content
 ```
