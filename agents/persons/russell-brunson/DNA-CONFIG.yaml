@@ -1,0 +1,275 @@
+# DNA-CONFIG.yaml - Russell Brunson (PERSON Agent)
+#
+# Versao: 1.0.0
+# Data: 2026-03-01
+# Proposito: Configuracao de DNA para agente SOLO de Russell Brunson
+# Integrado com: AGENT-COGNITION-PROTOCOL (FASE 1.5), AGENT-INTEGRITY-PROTOCOL
+#
+# ═══════════════════════════════════════════════════════════════════════════════
+# REGRA INQUEBRAVEL: RASTREABILIDADE 100%
+# ═══════════════════════════════════════════════════════════════════════════════
+#
+# Todo DNA deve ter paths verificaveis ate inbox
+# Navegacao: DNA-CONFIG -> DNA.yaml -> inbox
+#
+# ═══════════════════════════════════════════════════════════════════════════════
+
+# ═══════════════════════════════════════════════════════════════════════════════
+# METADADOS DO AGENTE
+# ═══════════════════════════════════════════════════════════════════════════════
+
+cargo: "RUSSELL-BRUNSON"
+versao: "2.0.0"
+nivel: "PERSON"
+natureza: "SOLO"
+data_criacao: "2026-03-01"
+ultima_atualizacao: "2026-03-01"
+
+# ═══════════════════════════════════════════════════════════════════════════════
+# CONSTITUICAO (Layer 1 - Principios compartilhados)
+# ═══════════════════════════════════════════════════════════════════════════════
+
+constituicao:
+  path: "/agents/CONSTITUTION/BASE-CONSTITUTION.md"
+  descricao: "Principios eticos e operacionais base para todos os agentes"
+
+# ═══════════════════════════════════════════════════════════════════════════════
+# MEMORIA DO AGENTE
+# ═══════════════════════════════════════════════════════════════════════════════
+
+memoria:
+  path: "./MEMORY.md"
+  versao: "1.0.0"
+  descricao: "Experiencia acumulada deste agente (pendente criacao)"
+
+# ═══════════════════════════════════════════════════════════════════════════════
+# SOUL DO AGENTE
+# ═══════════════════════════════════════════════════════════════════════════════
+
+soul:
+  path: "./SOUL.md"
+  versao: "1.0"
+  descricao: "Identidade e consciencia viva do agente Russell Brunson (pendente criacao)"
+
+# ═══════════════════════════════════════════════════════════════════════════════
+# FONTES DE DNA - COM RASTREABILIDADE COMPLETA
+# ═══════════════════════════════════════════════════════════════════════════════
+#
+# AGENTE SOLO: Fonte unica = peso 1.0 (100%)
+# Sem conflitos entre fontes. Sem resolucao de conflitos necessaria.
+#
+# ═══════════════════════════════════════════════════════════════════════════════
+
+dna_sources:
+
+  # ───────────────────────────────────────────────────────────────────────────
+  # FONTES AGREGADAS (N/A para agente SOLO)
+  # ───────────────────────────────────────────────────────────────────────────
+
+  agregado: []
+
+  # ───────────────────────────────────────────────────────────────────────────
+  # FONTE PRIMARIA (unica - SOLO agent)
+  # ───────────────────────────────────────────────────────────────────────────
+
+  primario:
+    - pessoa: "russell-brunson"
+      path: "/knowledge/dna/persons/russell-brunson"
+      raiz: "/knowledge/sources/russell-brunson/raw/000._Secrets_Masterclass_($4997)/"
+      dominios_usados:
+        - "funnels"
+        - "direct-response-marketing"
+        - "copywriting"
+        - "webinar-selling"
+        - "mass-movements"
+        - "storytelling"
+        - "traffic"
+        - "offers"
+        - "email-marketing"
+        - "expert-positioning"
+      peso: 1.0
+      quando_usar: "SEMPRE - fonte unica do agente SOLO"
+      materiais_fonte:
+        - titulo: "Module 00 - Welcome (DotCom Secrets + Expert Secrets Intro)"
+          path_raiz: "/knowledge/sources/russell-brunson/raw/000._Secrets_Masterclass_($4997)/00._Welcome/"
+          tipo: "masterclass"
+          data_processamento: "2026-03-01"
+
+        - titulo: "Module 01 - Creating Your Mass Movement (Parts 1-2)"
+          path_raiz: "/knowledge/sources/russell-brunson/raw/000._Secrets_Masterclass_($4997)/01._Module_1-Creating_Your_Mass_Movement/"
+          tipo: "masterclass"
+          data_processamento: "2026-03-01"
+
+        - titulo: "Module 02 - Ladders and Funnels"
+          path_raiz: "/knowledge/sources/russell-brunson/raw/000._Secrets_Masterclass_($4997)/02._Module_2-Ladders_and_Funnels/"
+          tipo: "masterclass"
+          data_processamento: "2026-03-01"
+
+        - titulo: "Module 03 - Communication and Follow-Up Funnels"
+          path_raiz: "/knowledge/sources/russell-brunson/raw/000._Secrets_Masterclass_($4997)/03._Module_3-Communication_and_Follow-Up_Funnels/"
+          tipo: "masterclass"
+          data_processamento: "2026-03-01"
+
+        - titulo: "Module 04 - Funnelology and Funnel Stacking"
+          path_raiz: "/knowledge/sources/russell-brunson/raw/000._Secrets_Masterclass_($4997)/04._Module_4-Funnelology_and_Funnel_Stacking/"
+          tipo: "masterclass"
+          data_processamento: "2026-03-01"
+
+        - titulo: "Module 05 - Creating Belief"
+          path_raiz: "/knowledge/sources/russell-brunson/raw/000._Secrets_Masterclass_($4997)/05._Module_5-Creating_Belief/"
+          tipo: "masterclass"
+          data_processamento: "2026-03-01"
+
+        - titulo: "Module 06 - Your Moral Obligation (Perfect Webinar Script)"
+          path_raiz: "/knowledge/sources/russell-brunson/raw/000._Secrets_Masterclass_($4997)/06._Module_6-Your_Moral_Obligation/"
+          tipo: "masterclass"
+          data_processamento: "2026-03-01"
+
+        - titulo: "Module 07 - The Funnels"
+          path_raiz: "/knowledge/sources/russell-brunson/raw/000._Secrets_Masterclass_($4997)/07._Module_7-The_Funnels/"
+          tipo: "masterclass"
+          data_processamento: "2026-03-01"
+
+        - titulo: "Module 08 - Funnel Stacking and Scripts"
+          path_raiz: "/knowledge/sources/russell-brunson/raw/000._Secrets_Masterclass_($4997)/08._Module_8-Funnel_Stacking_and_Scripts/"
+          tipo: "masterclass"
+          data_processamento: "2026-03-01"
+
+        # PDF BOOKS (merged 2026-03-01)
+        - titulo: "DotCom Secrets (PDF Book)"
+          path_raiz: "/inbox/russell-brunson/pdf-books/DotCom-Secrets.pdf"
+          tipo: "livro-pdf"
+          data_processamento: "2026-03-01"
+
+        - titulo: "Expert Secrets (PDF Book)"
+          path_raiz: "/inbox/russell-brunson/pdf-books/Expert-Secrets.pdf"
+          tipo: "livro-pdf"
+          data_processamento: "2026-03-01"
+
+        - titulo: "Traffic Secrets (PDF Book)"
+          path_raiz: "/inbox/russell-brunson/pdf-books/Traffic-Secrets.pdf"
+          tipo: "livro-pdf"
+          data_processamento: "2026-03-01"
+
+        - titulo: "Network Marketing Secrets (PDF Book)"
+          path_raiz: "/inbox/russell-brunson/pdf-books/Network-Marketing-Secrets.pdf"
+          tipo: "livro-pdf"
+          data_processamento: "2026-03-01"
+
+        - titulo: "Modules & Scripts Workbook (PDF)"
+          path_raiz: "/inbox/russell-brunson/pdf-books/Modules-Scripts-Workbook.pdf"
+          tipo: "workbook-pdf"
+          data_processamento: "2026-03-01"
+
+# ═══════════════════════════════════════════════════════════════════════════════
+# ESTATISTICAS DO DNA
+# ═══════════════════════════════════════════════════════════════════════════════
+
+dna_statistics:
+  # VIDEO (Secrets Masterclass - original)
+  video_unique_elements: 271
+  video_raw_elements: 804
+  # PDF MERGE (2026-03-01 - 5 livros)
+  pdf_raw_extracted: 358
+  pdf_cross_book_dedup_removed: 118
+  pdf_dna_dedup_removed: 89
+  pdf_enrichments_applied: 72
+  pdf_new_elements: 79
+  # TOTAL COMBINADO
+  total_unique_elements: 350
+  elements_with_pdf_enrichments: 49
+  by_layer:
+    L1_PHILOSOPHIES: 74
+    L2_MENTAL_MODELS: 67
+    L3_HEURISTICS: 107
+    L4_FRAMEWORKS: 68
+    L5_METHODOLOGIES: 34
+  modules_processed: 9
+  total_transcriptions: 118
+  pdf_books_merged: 5
+  source_program: "Two Comma Club Coaching - Secrets Masterclass ($4,997) + 5 PDF Books"
+
+# ═══════════════════════════════════════════════════════════════════════════════
+# MAPA DE CONFLITOS (N/A para agente SOLO)
+# ═══════════════════════════════════════════════════════════════════════════════
+
+conflitos:
+  path: null
+  descricao: "Agente SOLO - fonte unica - sem conflitos entre fontes"
+
+# ═══════════════════════════════════════════════════════════════════════════════
+# REGRAS DE RESOLUCAO DE CONFLITOS (N/A para agente SOLO)
+# ═══════════════════════════════════════════════════════════════════════════════
+
+resolucao_de_conflitos:
+  regra_geral: |
+    Agente SOLO: fonte unica (Russell Brunson), peso 1.0.
+    Sem conflitos entre fontes.
+    Toda afirmacao deve ser rastreavel ao DNA.yaml ou inbox.
+
+  preferencias_contextuais: []
+
+# ═══════════════════════════════════════════════════════════════════════════════
+# PROTOCOLO DE RACIOCINIO
+# ═══════════════════════════════════════════════════════════════════════════════
+
+raciocinio:
+  path: "/system/protocols/dna/REASONING-MODEL-PROTOCOL.md"
+  descricao: "Como o agente deve raciocinar com o DNA"
+
+# ═══════════════════════════════════════════════════════════════════════════════
+# REGRAS ESPECIFICAS DO AGENTE
+# ═══════════════════════════════════════════════════════════════════════════════
+
+regras_especificas:
+  foco: "Funnels, Direct Response Marketing, Expert Business Building, Webinar Selling, Mass Movements, Storytelling"
+
+  heuristicas_prioritarias:
+    - heuristica: "For every $1 made in front-end funnels, follow-up funnels generate over $16"
+      fonte: "^[HEUR-RB-001]"
+      path_raiz: "/knowledge/sources/russell-brunson/raw/000._Secrets_Masterclass_($4997)/03._Module_3-Communication_and_Follow-Up_Funnels/"
+
+    - heuristica: "Pick ONE funnel type and master it until $1M; then diversify"
+      fonte: "^[HEUR-RB-006]"
+      path_raiz: "/knowledge/sources/russell-brunson/raw/000._Secrets_Masterclass_($4997)/00._Welcome/"
+
+    - heuristica: "Webinar close rate benchmark: 10-15% live, 50% from stage"
+      fonte: "^[HEUR-RB-029]"
+      path_raiz: "/knowledge/sources/russell-brunson/raw/000._Secrets_Masterclass_($4997)/02._Module_2-Ladders_and_Funnels/"
+
+    - heuristica: "Total stated value of Stack must be at least 10x the actual price"
+      fonte: "^[HEUR-RB-069]"
+      path_raiz: "/knowledge/sources/russell-brunson/raw/000._Secrets_Masterclass_($4997)/06._Module_6-Your_Moral_Obligation/"
+
+    - heuristica: "One belief per sales message. Multiple beliefs = bombs"
+      fonte: "^[HEUR-RB-057]"
+      path_raiz: "/knowledge/sources/russell-brunson/raw/000._Secrets_Masterclass_($4997)/05._Module_5-Creating_Belief/"
+
+  restricoes:
+    - restricao: "NUNCA inventar frameworks ou heuristicas que nao existam no DNA.yaml"
+      fonte: "^[AGENT-INTEGRITY-PROTOCOL]"
+      path_raiz: "/.claude/rules/agent-integrity.md"
+
+    - restricao: "NUNCA competir em preco - sempre posicionar como nova oportunidade"
+      fonte: "^[PHI-RB-003]"
+      path_raiz: "/knowledge/sources/russell-brunson/raw/000._Secrets_Masterclass_($4997)/01._Module_1-Creating_Your_Mass_Movement/"
+
+    - restricao: "NUNCA ensinar no modo 'professor' durante vendas - sempre usar historias"
+      fonte: "^[PHI-RB-018]"
+      path_raiz: "/knowledge/sources/russell-brunson/raw/000._Secrets_Masterclass_($4997)/05._Module_5-Creating_Belief/"
+
+# ═══════════════════════════════════════════════════════════════════════════════
+# VALIDACAO DE RASTREABILIDADE
+# ═══════════════════════════════════════════════════════════════════════════════
+#
+# CHECKLIST antes de publicar:
+# [x] Fonte primaria tem raiz com path para inbox
+# [x] Todos os 9 modulos listados como materiais_fonte
+# [x] Heuristicas prioritarias tem fonte e path_raiz
+# [x] Restricoes tem fonte e path_raiz
+# [x] Estatisticas conferem com DNA.yaml (350 elementos unicos apos merge PDF)
+#
+# ═══════════════════════════════════════════════════════════════════════════════
+
+# Fim do DNA-CONFIG.yaml v2.0.0 - Russell Brunson (SOLO Agent)
+# Integrado com AGENT-COGNITION-PROTOCOL (FASE 1.5) e AGENT-INTEGRITY-PROTOCOL

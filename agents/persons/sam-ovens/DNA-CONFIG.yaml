@@ -1,0 +1,175 @@
+# DNA-CONFIG.yaml - Sam Ovens (PERSON Agent)
+#
+# Versao: 1.0.0
+# Data: 2026-03-02
+# Proposito: Configuracao de DNA para agente SOLO de Sam Ovens
+# Integrado com: AGENT-COGNITION-PROTOCOL (FASE 1.5), AGENT-INTEGRITY-PROTOCOL
+#
+# ═══════════════════════════════════════════════════════════════════════════════
+# REGRA INQUEBRAVEL: RASTREABILIDADE 100%
+# ═══════════════════════════════════════════════════════════════════════════════
+#
+# Todo DNA deve ter paths verificaveis ate inbox
+# Navegacao: DNA-CONFIG -> DNA.yaml -> SOURCES -> DOSSIER
+#
+# ═══════════════════════════════════════════════════════════════════════════════
+
+# ═══════════════════════════════════════════════════════════════════════════════
+# METADADOS DO AGENTE
+# ═══════════════════════════════════════════════════════════════════════════════
+
+cargo: "SAM-OVENS"
+versao: "1.0.0"
+nivel: "PERSON"
+natureza: "SOLO"
+data_criacao: "2026-03-02"
+ultima_atualizacao: "2026-03-02"
+
+# ═══════════════════════════════════════════════════════════════════════════════
+# CONSTITUICAO (Layer 1 - Principios compartilhados)
+# ═══════════════════════════════════════════════════════════════════════════════
+
+constituicao:
+  path: "/agents/CONSTITUTION/BASE-CONSTITUTION.md"
+  descricao: "Principios eticos e operacionais base para todos os agentes"
+
+# ═══════════════════════════════════════════════════════════════════════════════
+# MEMORIA DO AGENTE
+# ═══════════════════════════════════════════════════════════════════════════════
+
+memoria:
+  path: "./MEMORY.md"
+  versao: "1.0.0"
+  descricao: "Experiencia acumulada do agente Sam Ovens"
+
+# ═══════════════════════════════════════════════════════════════════════════════
+# SOUL DO AGENTE
+# ═══════════════════════════════════════════════════════════════════════════════
+
+soul:
+  path: "./SOUL.md"
+  versao: "1.0.0"
+  descricao: "Identidade e consciencia viva do agente Sam Ovens"
+
+# ═══════════════════════════════════════════════════════════════════════════════
+# FONTES DE DNA - COM RASTREABILIDADE COMPLETA
+# ═══════════════════════════════════════════════════════════════════════════════
+#
+# AGENTE SOLO: Fonte unica = peso 1.0 (100%)
+# Sem conflitos entre fontes. Sem resolucao de conflitos necessaria.
+#
+# ═══════════════════════════════════════════════════════════════════════════════
+
+dna_sources:
+
+  # ───────────────────────────────────────────────────────────────────────────
+  # FONTES AGREGADAS (N/A para agente SOLO)
+  # ───────────────────────────────────────────────────────────────────────────
+
+  agregado: []
+
+  # ───────────────────────────────────────────────────────────────────────────
+  # FONTE PRIMARIA (unica - SOLO agent)
+  # ───────────────────────────────────────────────────────────────────────────
+
+  primario:
+    - pessoa: "sam-ovens"
+      path: "/knowledge/dna/persons/sam-oven"
+      dominios_usados:
+        - "ofertas"
+        - "posicionamento"
+        - "modelos-de-negocio"
+        - "pricing"
+      peso: 1.0
+
+      # Fontes processadas com rastreabilidade
+      materiais_fonte:
+        - source_id: "SETTERLUN-OC"
+          titulo: "Offer Creation Module"
+          tipo: "course"
+          chunks: ["SETTERLUN-OC_001", "SETTERLUN-OC_002", "SETTERLUN-OC_003", "SETTERLUN-OC_004"]
+          status: "processado"
+
+        - source_id: "SETTERLUN-PO"
+          titulo: "Purple Ocean Positioning"
+          tipo: "course"
+          chunks: ["SETTERLUN-PO_001", "SETTERLUN-PO_002", "SETTERLUN-PO_003"]
+          status: "processado"
+
+        - source_id: "SETTERLUN-BD"
+          titulo: "Business Model Design"
+          tipo: "course"
+          chunks: ["SETTERLUN-BD_001", "SETTERLUN-BD_002", "SETTERLUN-BD_003"]
+          status: "processado"
+
+      # Materiais pendentes (25 transcricoes)
+      materiais_pendentes:
+        - grupo: "BUSINESS-DNA"
+          modulos: 7
+          titulos: ["Understanding Business Archetypes", "Proximity to Proof", "Choosing the Right Client-Customer Model", "Offer Model Matching", "Monetization Frameworks", "Picking Your Model - The Decision Flow", "Final Considerations Resources"]
+        - grupo: "OFFER-CODE"
+          modulos: 11
+          titulos: ["Start Here", "The DNA of a Winning Offer", "Setting the Scene", "Mapping the Gap", "Laying the Foundation", "Desired Outcomes", "Fighting the Troll", "Pricing Your Offer", "Outshining Other Bridges", "The Final Walk", "DFY Offer Generator Live"]
+        - grupo: "PURPLE-OCEAN"
+          modulos: 7
+          titulos: ["Intro", "The Purple Ocean Method", "The Purple Ocean Formula", "The Pizza Strategy", "Pineapple On Pizza Explained", "4-Step Framework", "Market Domination"]
+
+# ═══════════════════════════════════════════════════════════════════════════════
+# ESTATISTICAS DO DNA
+# ═══════════════════════════════════════════════════════════════════════════════
+
+estatisticas:
+  total_elementos: 21
+  por_camada:
+    L1_FILOSOFIAS: 5
+    L2_MODELOS_MENTAIS: 4
+    L3_HEURISTICAS: 6
+    L4_FRAMEWORKS: 4
+    L5_METODOLOGIAS: 2
+  chunks_totais: 25
+  peso_medio: 0.88
+  percentual_alta_confianca: 100.0
+
+# ═══════════════════════════════════════════════════════════════════════════════
+# TENSOES COM OUTRAS FONTES
+# ═══════════════════════════════════════════════════════════════════════════════
+
+tensoes:
+  - fonte: "Alex Hormozi"
+    topico: "Modelo preferido"
+    sam_ovens: "DWY (Done With You)"
+    outra_fonte: "DFY (Done For You)"
+    tipo: "COMPLEMENTAR"
+    nota: "Sam foca em agencias, Hormozi e mais amplo"
+  - fonte: "Alex Hormozi"
+    topico: "Framework de oferta"
+    sam_ovens: "Bridge Analogy"
+    outra_fonte: "Grand Slam Offer"
+    tipo: "COMPLEMENTAR"
+    nota: "Abordagens diferentes para mesmo objetivo"
+
+# ═══════════════════════════════════════════════════════════════════════════════
+# ARQUIVOS RELACIONADOS
+# ═══════════════════════════════════════════════════════════════════════════════
+
+arquivos_relacionados:
+  dossier: "/knowledge/dossiers/persons/DOSSIER-SAM-OVEN.md"
+  sources_index: "/knowledge/sources/sam-ovens/_INDEX.md"
+  source_pricing: "/knowledge/sources/sam-ovens/07-PRICING-OFERTAS.md"
+  source_purple: "/knowledge/sources/sam-ovens/PURPLE-OCEAN.md"
+
+# ═══════════════════════════════════════════════════════════════════════════════
+# METADADOS
+# ═══════════════════════════════════════════════════════════════════════════════
+
+metadados:
+  criado_em: "2026-03-02"
+  criado_por: "JARVIS Pipeline"
+  protocolo: "AGENT-INTEGRITY-PROTOCOL v1.2.1"
+  template: "DNA-CONFIG-TEMPLATE v2.0.0"
+
+changelog:
+  - data: "2026-03-02"
+    acao: "Criacao inicial do DNA-CONFIG"
+    fonte: "knowledge/dna/persons/sam-oven/CONFIG.yaml"
+    versao: "1.0.0"

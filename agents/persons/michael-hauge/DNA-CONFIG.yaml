@@ -1,0 +1,106 @@
+# DNA-CONFIG.yaml - Michael Hauge
+# Versão: 1.0.0
+# Tipo: SOLO (Pessoa)
+# Última Atualização: 2026-03-03
+
+metadata:
+  person: "Michael Hauge"
+  type: "SOLO"
+  version: "1.0.0"
+  created: "2026-03-03"
+  updated: "2026-03-03"
+
+# Fonte única (SOLO = 100%)
+dna_sources:
+  - person: "Michael Hauge"
+    weight: 1.0
+    path: "knowledge/dna/persons/michael-hauge/DNA.yaml"
+    raiz: "knowledge/sources/michael-hauge/raw/"
+    domains:
+      - storytelling
+      - screenwriting
+      - narrative-structure
+      - character-arc
+      - marketing-stories
+      - persuasion
+    materiais_fonte:
+      - id: "MH-001-pt1"
+        titulo: "The Hero's 2 Journeys - Part 1"
+        tipo: "MASTERCLASS"
+        path_raiz: "knowledge/sources/michael-hauge/raw/transcription_The_Hero_s_2_Journeys__Michael_Hauge_pt.1_.txt"
+        tamanho: "~55KB"
+        status: "processado"
+      - id: "MH-001-pt2"
+        titulo: "The Hero's 2 Journeys - Part 2"
+        tipo: "MASTERCLASS"
+        path_raiz: "knowledge/sources/michael-hauge/raw/transcription_The_Hero_s_2_Journeys__Michael_Hauge_pt.2_.txt"
+        tamanho: "~48KB"
+        status: "processado"
+
+# Contadores DNA
+dna_stats:
+  total_elements: 38
+  by_layer:
+    L1_PHILOSOPHIES: 10
+    L2_MENTAL_MODELS: 8
+    L3_HEURISTICS: 12
+    L4_FRAMEWORKS: 5
+    L5_METHODOLOGIES: 3
+  insight_ids:
+    - MH-FIL-001  # Stories are before and after pictures
+    - MH-FIL-002  # Passion trumps fear every time
+    - MH-FIL-003  # Safe vs happy choice
+    - MH-FIL-004  # Beliefs from wounds: logical but inaccurate
+    - MH-FIL-005  # Death of identity > physical death
+    - MH-FIL-006  # Awareness is first step
+    - MH-FIL-007  # Story not over at goal - aftermath mandatory
+    - MH-FIL-008  # Identities keep us safe brilliantly
+    - MH-FIL-009  # We believe identity IS who we are
+    - MH-FIL-010  # Once lived in essence, identity fails
+    - MH-MM-001   # Two Journeys Model
+    - MH-MM-002   # Identity vs Essence
+    - MH-MM-003   # Wound-Belief-Fear-Identity chain
+    - MH-MM-004   # 6-Stage Story Structure
+    - MH-MM-005   # 5 Turning Points at %
+    - MH-MM-006   # Reflection Character
+    - MH-MM-007   # Cave Points
+    - MH-MM-008   # Empathy-first approach
+    - MH-FW-001   # 6-Stage Outer Journey
+    - MH-FW-002   # 5 Turning Points Framework
+    - MH-FW-003   # Inner Journey Chain
+    - MH-FW-004   # Empathy Framework (4 methods)
+    - MH-FW-005   # Dual Journey Intertwine
+    - MH-MET-001  # Story Creation Methodology
+    - MH-MET-002  # Customer Journey Application
+    - MH-MET-003  # The Blank Test (Personal Transformation)
+
+# Domínios de expertise
+domains:
+  primary:
+    - storytelling
+    - narrative-structure
+    - character-development
+  secondary:
+    - marketing-stories
+    - sales-persuasion
+    - customer-journey
+  tertiary:
+    - screenwriting
+    - hollywood-consulting
+    - personal-transformation
+
+# Conexões com outros agentes
+cross_references:
+  relevant_to_cargo:
+    - "CLOSER"       # Storytelling em vendas, objeções como "cave points"
+    - "CMO"          # Marketing stories, persuasion frameworks
+    - "CRO"          # Customer journey, conversion optimization
+  relevant_to_persons:
+    - "russell-brunson"  # Evento onde apresentou, funnel storytelling
+    - "alex-hormozi"     # Offer storytelling, before/after framing
+  relevant_themes:
+    - "storytelling"
+    - "persuasion"
+    - "customer-journey"
+    - "sales-psychology"
+    - "content-marketing"
