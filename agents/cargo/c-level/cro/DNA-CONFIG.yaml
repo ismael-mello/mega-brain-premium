@@ -1,0 +1,356 @@
+# DNA-CONFIG.yaml - CRO (Chief Revenue Officer)
+# Configuracao de fontes de DNA para este cargo
+#
+# Versao: 2.0.0
+# Data: 2025-12-25
+# Integrado com: AGENT-COGNITION-PROTOCOL (FASE 1.5), AGENT-INTEGRITY-PROTOCOL
+#
+# ═══════════════════════════════════════════════════════════════════════════════
+# REGRA INQUEBRÁVEL: RASTREABILIDADE 100%
+# ═══════════════════════════════════════════════════════════════════════════════
+#
+# Todo DNA deve ter paths verificáveis até inbox
+# Cada pessoa/domínio deve ter insight_ids e chunk_ids rastreáveis
+#
+# Navegação: DNA-CONFIG → PESSOA/DNA.yaml → INSIGHTS-STATE.json → CHUNKS → inbox
+#
+# ═══════════════════════════════════════════════════════════════════════════════
+
+cargo: "CRO"
+versao: "3.2.0"
+nivel: "C-LEVEL"
+natureza: "HIBRIDO"
+data_criacao: "2025-12-23"
+ultima_atualizacao: "2026-03-12"
+
+# CHANGELOG:
+# v3.0.0 (2026-01-10): BUG #1 FIX - Cascateamento completo
+#                      - Removido AGG-SCALING.yaml (não existe)
+#                      - Adicionado AGG-OFFERS.yaml (relevante para revenue)
+#                      - Todos paths validados (INTEGRITY CHECK)
+# v2.0.0 (2025-12-25): Integração AGENT-COGNITION-PROTOCOL
+
+# ═══════════════════════════════════════════════════════════════════════════════
+# CONSTITUICAO (Layer 1 - Principios compartilhados)
+# ═══════════════════════════════════════════════════════════════════════════════
+
+constituicao:
+  path: "/agents/CONSTITUTION/BASE-CONSTITUTION.md"
+  descricao: "Princípios éticos e operacionais base para todos os agentes"
+
+# ═══════════════════════════════════════════════════════════════════════════════
+# MEMORIA DO CARGO
+# ═══════════════════════════════════════════════════════════════════════════════
+
+memoria:
+  path: "./MEMORY.md"
+  versao: "2.0.0"
+  descricao: "Experiência acumulada deste cargo"
+
+# ═══════════════════════════════════════════════════════════════════════════════
+# SOUL DO CARGO
+# ═══════════════════════════════════════════════════════════════════════════════
+
+soul:
+  path: "./SOUL.md"
+  versao: "2.0"
+  descricao: "Identidade e consciência viva do agente"
+
+# ═══════════════════════════════════════════════════════════════════════════════
+# FONTES DE DNA - COM RASTREABILIDADE COMPLETA
+# ═══════════════════════════════════════════════════════════════════════════════
+
+dna_sources:
+
+  # ───────────────────────────────────────────────────────────────────────────
+  # FONTES AGREGADAS (multi-pessoa, por tema)
+  # ───────────────────────────────────────────────────────────────────────────
+
+  agregado:
+    - dominio: "vendas"
+      path: "/knowledge/dna/AGGREGATED/AGG-VENDAS.yaml"
+      peso: 0.90
+      quando_usar: "Perguntas gerais sobre vendas"
+      insight_ids:
+        - "insight_vendas_001"
+        - "insight_vendas_002"
+
+    - dominio: "offers"
+      path: "/knowledge/dna/AGGREGATED/AGG-OFFERS.yaml"
+      peso: 0.85
+
+    # ─── AIOS Domain DNAs (added 2026-03-12) ───
+    - dominio: "executive-leadership"
+      path: "/knowledge/dna/AGGREGATED/AGG-EXECUTIVE-LEADERSHIP.yaml"
+      peso: 0.65
+      quando_usar: "Liderança executiva, alinhamento cross-funcional"
+      justificativa: "CRO é C-level — precisa frameworks de liderança para alinhar sales+marketing"
+      added: "2026-03-12"
+      source: "AIOS C-Level Squad"
+
+    - dominio: "data-growth"
+      path: "/knowledge/dna/AGGREGATED/AGG-DATA-GROWTH.yaml"
+      peso: 0.70
+      quando_usar: "Revenue analytics, growth metrics, customer success data"
+      justificativa: "CRO precisa analytics para otimizar revenue pipeline end-to-end"
+      added: "2026-03-12"
+      source: "AIOS Data Squad"
+
+    - dominio: "traffic"
+      path: "/knowledge/dna/AGGREGATED/AGG-TRAFFIC.yaml"
+      peso: 0.65
+      quando_usar: "Estratégia de tráfego e seu impacto no pipeline de revenue"
+      justificativa: "CRO precisa entender tráfego como input do pipeline de vendas"
+      added: "2026-03-12"
+      source: "AIOS Traffic Masters Squad"
+      quando_usar: "Perguntas sobre construção de ofertas e pricing"
+      insight_ids:
+        - "insight_offers_001"
+
+  # ───────────────────────────────────────────────────────────────────────────
+  # FONTES PRIMÁRIAS (por pessoa)
+  # ───────────────────────────────────────────────────────────────────────────
+
+  primario:
+    - pessoa: "alex-hormozi"
+      path: "/knowledge/dna/persons/alex-hormozi"
+      raiz: "/inbox/alex hormozi/"              # RASTREABILIDADE
+      dominios_usados:
+        - "vendas"
+        - "scaling"
+        - "offers"
+      peso: 0.85
+      quando_usar: "Decisoes de oferta, escala agressiva"
+      insight_ids:                                                    # RASTREABILIDADE
+        - "OF001"
+        - "OF002"
+        - "ES001"
+        - "VE001"
+        - "UE001"
+        - "UE002"
+      chunk_ids:                                                      # RASTREABILIDADE GRANULAR
+        - "chunk_199"
+      materiais_fonte:                                                # RASTREABILIDADE COMPLETA
+        - titulo: "How I Scaled My Sales Team"
+          path_raiz: "/inbox/alex hormozi/MASTERMINDS/HOW I SCALED MY SALES TEAM [TAKI MOORE MASTERMIND].txt"
+          tipo: "masterclass"
+          data_processamento: "2024-12-16"
+        - titulo: "Money Models"
+          path_raiz: "/inbox/alex hormozi/BLUEPRINTS/MONEY MODELS.txt"
+          tipo: "blueprint"
+          data_processamento: "2025-12-16"
+
+    - pessoa: "cole-gordon"
+      path: "/knowledge/dna/persons/cole-gordon"
+      raiz: "/inbox/COLE GORDON/"                    # RASTREABILIDADE
+      dominios_usados:
+        - "vendas"
+        - "compensation"
+        - "hiring"
+      peso: 0.80
+      quando_usar: "Estrutura de time de vendas, compensacao"
+      insight_ids:
+        - "OP001"
+      chunk_ids:
+        - "*pendente CG001*"
+        - "*pendente CG003*"
+      materiais_fonte:
+        - titulo: "Sales Management Progression"
+          path_raiz: "/inbox/COLE GORDON/PODCASTS/SALES MANAGEMENT PROGRESSION.txt"
+          tipo: "podcast"
+          data_processamento: "*aguardando*"
+        - titulo: "Advanced Sales Training"
+          path_raiz: "/inbox/COLE GORDON/COURSES/ADVANCED SALES TRAINING.txt"
+          tipo: "curso"
+          data_processamento: "*aguardando*"
+
+    - pessoa: "russell-brunson"
+      path: "/knowledge/dna/persons/russell-brunson"
+      raiz: "/archive/Two_Comma_Club_Coaching-Russell_Brunson/000._Secrets_Masterclass_($4997)/"
+      dominios_usados:
+        - "funnels"
+        - "webinars"
+        - "copywriting"
+        - "traffic"
+      peso: 0.70
+      quando_usar: "Revenue optimization via funnels, webinar revenue, funnel stacking, Value Ladder monetization"
+      added: "2026-03-01"
+      insight_ids:
+        - "FW-RB-001"   # Perfect Webinar Framework
+        - "FW-RB-005"   # Value Ladder
+        - "MM-RB-053"   # 9 Core Funnels Model
+        - "MM-RB-054"   # Script-To-Funnel Matching
+        - "HEUR-RB-002" # $1 in → $2-3 out ROAS
+        - "HEUR-RB-029" # Webinar close rate benchmarks
+        - "HEUR-RB-087" # High-ticket funnel revenue benchmarks
+        - "HEUR-RB-088" # Order form bump 34% (PDF: DotCom Secrets)
+        - "HEUR-RB-089" # Free+shipping $66 avg revenue (PDF: DotCom Secrets)
+        - "HEUR-RB-090" # Free+shipping 3x customers (PDF: DotCom Secrets)
+        - "HEUR-RB-092" # Downsell 20% acceptance (PDF: DotCom Secrets)
+        - "FW-RB-055"   # Retargeting Framework (PDF: Traffic Secrets)
+        - "MET-RB-030"  # Break-Even Funnel Optimization (PDF: Traffic Secrets)
+      materiais_fonte:
+        - titulo: "Secrets Masterclass ($4,997) - 9 Modules"
+          path_raiz: "/archive/Two_Comma_Club_Coaching-Russell_Brunson/000._Secrets_Masterclass_($4997)/"
+          tipo: "masterclass"
+          data_processamento: "2026-03-01"
+          insights_principais:
+            - "9 Core Funnels = complete revenue architecture"
+            - "Value Ladder = revenue maximization via ascension"
+            - "Perfect Webinar = 10-15% close rate live, $1M+ potential"
+            - "$50-70K/week at 70-75% margin with high-ticket funnel"
+            - "Funnel stacking = modular revenue building"
+        - titulo: "PDF Books (DotCom Secrets + Traffic Secrets)"
+          path_raiz: "/archive/Two_Comma_Club_Coaching-Russell_Brunson/PDFs/"
+          tipo: "pdf-books"
+          data_processamento: "2026-03-01"
+          insights_principais:
+            - "Order form bump 34% take rate at $37"
+            - "Free+shipping generates $66 avg immediate revenue"
+            - "Free+shipping = 3x more customers than selling direct"
+            - "Downsell recaptures 20% of rejected OTOs"
+            - "Retargeting: 3 audiences (Engaged/Landed/Owned) with 3 goals"
+            - "Break-even funnel optimization: ACV > CPA = scale"
+
+    - pessoa: "SAM-OVEN"
+      path: "/knowledge/dna/persons/SAM-OVEN"
+      raiz: "/inbox/SAM OVENS (SETTERLUN UNIVERSITY)/"            # RASTREABILIDADE
+      dominios_usados:
+        - "scaling"
+        - "operations"
+      peso: 0.75
+      quando_usar: "Sistemas e processos"
+      insight_ids:
+        - "SC001"
+      chunk_ids:
+        - "*pendente SU020*"
+
+    - pessoa: "jeremy-haynes"
+      path: "/knowledge/dna/persons/jeremy-haynes"
+      raiz: "/knowledge/sources/jeremy-haynes/raw/"                # RASTREABILIDADE
+      dominios_usados:
+        - "pricing"
+        - "recurring"
+        - "enterprise_value"
+        - "agency_scaling"
+        - "media_buyer_ops"
+      peso: 0.85
+      quando_usar: "Recurring high-ticket, pricing strategy, enterprise value, scaling de agência"
+      added: "2026-03-03"
+      insight_ids:
+        - "JH-HEU-013"  # $1 MRR = $50-80 Enterprise Value
+        - "JH-HEU-018"  # $2M+ EBITDA para IB Exit
+        - "JH-HEU-038"  # $16K Min / $8-12K Mid / $4K Entry / $1K One-Time
+        - "JH-HEU-017"  # Income Qualification $100k+
+        - "JH-HEU-016"  # 99% Booking Rate (Calendly embutido no TypeForm)
+        - "JH-HEU-018"  # $2M+ EBITDA threshold para Investment Banking
+        - "JH-HEU-050"  # 95% Target Bonus Trimestral (Media Buyer KPI)
+        - "JH-FRM-019"  # Investment Banking Exit Framework
+        - "JH-FRM-024"  # Fair Pricing Framework (recurring)
+        - "JH-FRM-030"  # Pirâmide de Pricing (5 Níveis)
+        - "JH-FRM-039"  # Ramp 30-60-90 para Senior Media Buyer
+        - "JH-FRM-037"  # Framework Blackstone Lead Tier (MQL/SQL)
+        - "JH-FRM-036"  # Priorização Needle Mover
+        - "JH-HEU-048"  # 80%+ Liquidation = Scaling Agressivo
+        - "JH-HEU-049"  # 60-100% Liquidation Dia 1 (modelo CA)
+        - "JH-HEU-047"  # ROAS: 2x Lucrativo, 3x+ Excelente, 5x+ Excepcional
+      chunk_ids:
+        - "*aguardando JH001 no Pipeline Jarvis*"
+      materiais_fonte:
+        - titulo: "Recurring High Ticket Revenue"
+          path_raiz: "/knowledge/sources/jeremy-haynes/raw/"
+          tipo: "podcast"
+          data_processamento: "2025-12-18"
+        - titulo: "30-Day Challenge (10 séries)"
+          path_raiz: "/knowledge/sources/jeremy-haynes/raw/30-day-challenge/"
+          tipo: "course"
+          data_processamento: "2026-03-01"
+        - titulo: "Client Accelerator (5 séries)"
+          path_raiz: "/knowledge/sources/jeremy-haynes/raw/client-accelerator/"
+          tipo: "course"
+          data_processamento: "2026-03-03"
+
+# ═══════════════════════════════════════════════════════════════════════════════
+# MAPA DE CONFLITOS
+# ═══════════════════════════════════════════════════════════════════════════════
+
+conflitos:
+  path: "/knowledge/dna/MAPS/MAP-CONFLITOS.yaml"
+  descricao: "Mapa de tensões entre fontes com resoluções documentadas"
+
+# ═══════════════════════════════════════════════════════════════════════════════
+# REGRAS DE RESOLUCAO DE CONFLITOS
+# ═══════════════════════════════════════════════════════════════════════════════
+
+resolucao_de_conflitos:
+  regra_geral: |
+    1. Consenso forte (3+ fontes) → usar sem ressalva
+    2. Consenso parcial (2 fontes) → usar com nota de incerteza
+    3. Conflito mapeado → aplicar regra especifica do MAP-CONFLITOS
+    4. Conflito nao mapeado → apresentar ambas posicoes ao usuario
+
+  preferencias_contextuais:
+    - contexto: "startup early-stage"
+      priorizar: "alex-hormozi"
+      razao: "Foco em velocidade e ROI imediato"
+      fonte: "^[insight_id:VE001]"                                    # RASTREABILIDADE
+
+    - contexto: "empresa estabelecida"
+      priorizar: "SAM-OVEN"
+      razao: "Foco em sistemas e sustentabilidade"
+      fonte: "^[insight_id:SC001]"                                    # RASTREABILIDADE
+
+    - contexto: "time de vendas"
+      priorizar: "cole-gordon"
+      razao: "Especialista em operacoes de vendas"
+      fonte: "^[insight_id:OP001]"                                    # RASTREABILIDADE
+
+# ═══════════════════════════════════════════════════════════════════════════════
+# PROTOCOLO DE RACIOCINIO
+# ═══════════════════════════════════════════════════════════════════════════════
+
+raciocinio:
+  path: "/system/protocols/dna/REASONING-MODEL-PROTOCOL.md"
+  descricao: "Como o agente deve raciocinar com o DNA"
+
+# ═══════════════════════════════════════════════════════════════════════════════
+# REGRAS ESPECIFICAS DO CARGO
+# ═══════════════════════════════════════════════════════════════════════════════
+
+regras_especificas:
+  foco: "Maximizar revenue de forma sustentavel"
+
+  heuristicas_prioritarias:
+    - heuristica: "Sempre quantificar impacto em revenue"
+      fonte: "^[insight_id:RF001]"                                    # RASTREABILIDADE
+      path_raiz: "/inbox/alex hormozi/BLUEPRINTS/MONEY MODELS.txt"
+
+    - heuristica: "Considerar unit economics em toda recomendacao"
+      fonte: "^[insight_id:UE001]"                                    # RASTREABILIDADE
+      path_raiz: "/inbox/alex hormozi/MASTERMINDS/HOW I SCALED MY SALES TEAM [TAKI MOORE MASTERMIND].txt"
+
+    - heuristica: "Priorizar acoes com ROI mensuravel"
+      fonte: "^[insight_id:SC002]"                                    # RASTREABILIDADE
+
+  restricoes:
+    - restricao: "NAO recomendar acoes que sacrifiquem margem sem justificativa clara"
+      fonte: "^[insight_id:UE002]"                                    # RASTREABILIDADE
+
+    - restricao: "SEMPRE considerar capacidade de entrega antes de escalar vendas"
+      fonte: "^[insight_id:SC001]"                                    # RASTREABILIDADE
+
+# ═══════════════════════════════════════════════════════════════════════════════
+# VALIDAÇÃO DE RASTREABILIDADE
+# ═══════════════════════════════════════════════════════════════════════════════
+#
+# CHECKLIST antes de publicar:
+# [✓] Toda fonte primária tem raiz com path para inbox
+# [✓] Insight_ids presentes em fontes primárias
+# [~] Chunk_ids pendentes para algumas fontes (aguardando Pipeline Jarvis)
+# [✓] Heurísticas têm fonte e path_raiz
+# [✓] Preferências contextuais têm fonte
+#
+# ═══════════════════════════════════════════════════════════════════════════════
+
+# Fim do DNA-CONFIG.yaml v2.0.0
+# Integrado com AGENT-COGNITION-PROTOCOL (FASE 1.5) e AGENT-INTEGRITY-PROTOCOL
