@@ -82,6 +82,26 @@ dominios:
     subdominios: ["brand-equity", "brand-identity", "brand-messaging", "naming", "brand-architecture", "brand-culture", "visual-identity"]
     descricao: "Estrategia de marca, identidade, posicionamento e brand equity"
 
+  - id: "storytelling"
+    aliases: ["narrative", "story", "narrativa", "stories"]
+    subdominios: ["hero-journey", "pitch", "presentation", "brand-narrative", "personal-narrative", "movement-narrative", "improv", "screenwriting"]
+    descricao: "Storytelling, estruturas narrativas, pitching e comunicacao persuasiva"
+
+  - id: "traffic"
+    aliases: ["paid-media", "ads", "media-buying", "trafego", "paid-traffic"]
+    subdominios: ["facebook-ads", "google-ads", "youtube-ads", "tiktok-ads", "linkedin-ads", "creative-strategy", "scaling", "tracking", "attribution"]
+    descricao: "Trafego pago, media buying, creative strategy e otimizacao de campanhas"
+
+  - id: "executive-leadership"
+    aliases: ["c-level", "c-suite", "executive", "lideranca-executiva", "estrategia"]
+    subdominios: ["ceo", "coo", "cmo", "cto", "cio", "caio", "vision", "fundraising", "board", "org-design", "okrs"]
+    descricao: "Lideranca executiva, estrategia corporativa, governanca e decisoes C-level"
+
+  - id: "data-growth"
+    aliases: ["analytics", "growth-hacking", "data-analytics", "customer-success", "community"]
+    subdominios: ["web-analytics", "clv", "pmf", "experimentation", "retention", "nrr", "community-led-growth", "audience-building", "cohort-based"]
+    descricao: "Analytics, growth hacking, customer success, community e decisoes baseadas em dados"
+
 # ═══════════════════════════════════════════════════════════════════════════════
 # MAPEAMENTO CARGO → DOMINIOS
 # ═══════════════════════════════════════════════════════════════════════════════
@@ -99,14 +119,29 @@ cargos:
     pessoa_prioritaria_default: "SAM-OVEN"
 
   CMO:
-    dominios_primarios: ["marketing", "offers", "scaling", "copywriting", "brand-strategy"]
-    dominios_secundarios: ["product"]
+    dominios_primarios: ["marketing", "offers", "scaling", "copywriting", "brand-strategy", "traffic", "storytelling"]
+    dominios_secundarios: ["product", "data-growth"]
     pessoa_prioritaria_default: "alex-hormozi"
 
   COO:
     dominios_primarios: ["operations", "scaling", "delivery"]
-    dominios_secundarios: ["management", "hiring"]
+    dominios_secundarios: ["management", "hiring", "executive-leadership"]
     pessoa_prioritaria_default: "SAM-OVEN"
+
+  CEO:
+    dominios_primarios: ["executive-leadership", "scaling", "mindset"]
+    dominios_secundarios: ["operations", "marketing", "hiring"]
+    pessoa_prioritaria_default: "alex-hormozi"
+
+  CTO:
+    dominios_primarios: ["executive-leadership", "product"]
+    dominios_secundarios: ["operations", "scaling"]
+    pessoa_prioritaria_default: null
+
+  GROWTH-LEAD:
+    dominios_primarios: ["data-growth", "marketing", "traffic"]
+    dominios_secundarios: ["operations", "product"]
+    pessoa_prioritaria_default: null
 
   # SALES
   SALES-MANAGER:

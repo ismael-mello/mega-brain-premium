@@ -1,0 +1,1587 @@
+# AGG-DATA-GROWTH.yaml
+# DNA Agregado - Domínio: DATA & GROWTH
+# Consolidação de elementos de analytics, growth hacking, customer centricity,
+# audience building, customer success e community-led growth
+#
+# Versão: 1.0.0
+# Criado: 2026-03-11
+# Tipo: AGGREGATED DNA (single-source: AIOS Data Squad)
+# Fonte: knowledge/sources/aios-squads/06-DATA-SQUAD.md
+# Weight: 0.70 (secondary - curated by Synkra AIOS)
+#
+# ═══════════════════════════════════════════════════════════════════════════════
+# FONTES CONSOLIDADAS
+# ═══════════════════════════════════════════════════════════════════════════════
+
+dominio: "data-growth"
+versao: "1.0.0"
+data_criacao: "2026-03-11"
+ultima_atualizacao: "2026-03-11"
+total_elementos: 178
+peso_global: 0.70
+
+fontes_consolidadas:
+  - fonte: "aios-data-squad"
+    path: "knowledge/sources/aios-squads/06-DATA-SQUAD.md"
+    raw_path: "knowledge/sources/aios-squads/raw/data-squad/"
+    peso_dominio: 0.70
+    elementos_contribuidos: 178
+    especialidade: "Data analytics, growth hacking, customer centricity, audience building, customer success, community-led growth"
+    tipo_fonte: "SECONDARY (curated by Synkra AIOS)"
+    agentes_internos: 7
+
+# ═══════════════════════════════════════════════════════════════════════════════
+# EXPERTS (6 specialists + 1 orchestrator)
+# ═══════════════════════════════════════════════════════════════════════════════
+
+experts:
+  orchestrator:
+    - nome: "Data Chief / Datum"
+      especialidade: "Orchestration & Routing"
+      key_framework: "Routes queries to domain specialists"
+
+  specialists:
+    - nome: "Avinash Kaushik"
+      especialidade: "Web Analytics Evangelist"
+      key_framework: "See-Think-Do-Care, 10/90 Rule, DMMM"
+
+    - nome: "Peter Fader"
+      especialidade: "Customer Centricity"
+      key_framework: "BG/NBD Model, Whale Curves, CBCV"
+
+    - nome: "Sean Ellis"
+      especialidade: "Growth Hacking"
+      key_framework: "40% Test PMF, ICE Scoring, North Star Metric"
+
+    - nome: "Wes Kao"
+      especialidade: "Audience Building"
+      key_framework: "Spiky POV, Rigorous Thinking, CBC Design"
+
+    - nome: "Nick Mehta"
+      especialidade: "Customer Success"
+      key_framework: "10 Laws of CS, Health Score, NRR Framework"
+
+    - nome: "David Spinks"
+      especialidade: "Community-Led Growth"
+      key_framework: "SPACES Model, Community Maturity, Engagement Ladder"
+
+# ═══════════════════════════════════════════════════════════════════════════════
+# L1: FILOSOFIAS (45 elementos)
+# ═══════════════════════════════════════════════════════════════════════════════
+
+filosofias:
+  # --- Avinash Kaushik (Analytics) ---
+  - id: "DG-FIL-001"
+    conteudo: "So what? — every metric must answer this question or it's noise"
+    fonte: "kaushik"
+    conceito: "So What Test"
+    peso: 0.70
+
+  - id: "DG-FIL-002"
+    conteudo: "10% tools, 90% people — invest in brains, not software"
+    fonte: "kaushik"
+    conceito: "10/90 Rule"
+    peso: 0.70
+
+  - id: "DG-FIL-003"
+    conteudo: "Kill vanity metrics with fire — they feel good, teach nothing"
+    fonte: "kaushik"
+    peso: 0.70
+
+  - id: "DG-FIL-004"
+    conteudo: "Segment or die — averages lie, cohorts reveal truth"
+    fonte: "kaushik"
+    peso: 0.70
+
+  - id: "DG-FIL-005"
+    conteudo: "Data without action is just expensive trivia"
+    fonte: "kaushik"
+    peso: 0.70
+
+  - id: "DG-FIL-006"
+    conteudo: "Dashboards that don't drive decisions are digital wallpaper"
+    fonte: "kaushik"
+    peso: 0.70
+
+  - id: "DG-FIL-007"
+    conteudo: "Measure what matters to the business, not what's easy to measure"
+    fonte: "kaushik"
+    peso: 0.70
+
+  - id: "DG-FIL-008"
+    conteudo: "Best analysts are storytellers, not spreadsheet jockeys"
+    fonte: "kaushik"
+    peso: 0.70
+
+  # --- Peter Fader (Customer Centricity) ---
+  - id: "DG-FIL-009"
+    conteudo: "Not all customers are created equal — and that's perfectly fine"
+    fonte: "fader"
+    conceito: "Customer Heterogeneity"
+    peso: 0.70
+
+  - id: "DG-FIL-010"
+    conteudo: "CLV is the single most important metric in any business"
+    fonte: "fader"
+    conceito: "CLV Primacy"
+    peso: 0.70
+
+  - id: "DG-FIL-011"
+    conteudo: "Whale curves don't lie — a tiny fraction of customers drive most profit"
+    fonte: "fader"
+    conceito: "Whale Curves"
+    peso: 0.70
+
+  - id: "DG-FIL-012"
+    conteudo: "Probability models beat heuristics for predicting customer behavior"
+    fonte: "fader"
+    peso: 0.70
+
+  - id: "DG-FIL-013"
+    conteudo: "Customer-centric companies acquire the right customers, not more customers"
+    fonte: "fader"
+    peso: 0.70
+
+  - id: "DG-FIL-014"
+    conteudo: "Product centricity worked in scarcity — customer centricity wins in abundance"
+    fonte: "fader"
+    peso: 0.70
+
+  - id: "DG-FIL-015"
+    conteudo: "Your worst customers are subsidized by your best — know who's who"
+    fonte: "fader"
+    peso: 0.70
+
+  - id: "DG-FIL-016"
+    conteudo: "Customer equity is the true valuation of a company"
+    fonte: "fader"
+    peso: 0.70
+
+  # --- Sean Ellis (Growth Hacking) ---
+  - id: "DG-FIL-017"
+    conteudo: "PMF first — growth without product-market fit is accelerating failure"
+    fonte: "ellis"
+    conceito: "PMF Primacy"
+    peso: 0.70
+
+  - id: "DG-FIL-018"
+    conteudo: "Speed of learning is the ultimate competitive advantage"
+    fonte: "ellis"
+    peso: 0.70
+
+  - id: "DG-FIL-019"
+    conteudo: "Growth is a system, not a hack — sustainable beats viral"
+    fonte: "ellis"
+    conceito: "Growth Machine"
+    peso: 0.70
+
+  - id: "DG-FIL-020"
+    conteudo: "Activation is the most underinvested growth lever in most companies"
+    fonte: "ellis"
+    peso: 0.70
+
+  - id: "DG-FIL-021"
+    conteudo: "Most growth comes from experiments, not grand strategies"
+    fonte: "ellis"
+    peso: 0.70
+
+  - id: "DG-FIL-022"
+    conteudo: "If you can't measure it, you can't grow it"
+    fonte: "ellis"
+    peso: 0.70
+
+  - id: "DG-FIL-023"
+    conteudo: "The Aha Moment is the single most important thing to optimize"
+    fonte: "ellis"
+    conceito: "Aha Moment"
+    peso: 0.70
+
+  - id: "DG-FIL-024"
+    conteudo: "Retention is the foundation — without it, acquisition is a leaky bucket"
+    fonte: "ellis"
+    peso: 0.70
+
+  # --- Wes Kao (Audience Building) ---
+  - id: "DG-FIL-025"
+    conteudo: "If everyone agrees with your point of view, it isn't spiky enough"
+    fonte: "kao"
+    conceito: "Spiky POV"
+    peso: 0.70
+
+  - id: "DG-FIL-026"
+    conteudo: "Rigorous thinking is a competitive advantage most people skip"
+    fonte: "kao"
+    conceito: "Rigorous Thinking"
+    peso: 0.70
+
+  - id: "DG-FIL-027"
+    conteudo: "Content is not education — transformation requires active participation"
+    fonte: "kao"
+    conceito: "Active Learning"
+    peso: 0.70
+
+  - id: "DG-FIL-028"
+    conteudo: "Audience is built through consistent, differentiated insight — not volume"
+    fonte: "kao"
+    peso: 0.70
+
+  - id: "DG-FIL-029"
+    conteudo: "Cohort-based courses unlock social pressure as a learning feature"
+    fonte: "kao"
+    conceito: "CBC Design"
+    peso: 0.70
+
+  - id: "DG-FIL-030"
+    conteudo: "Generic content is invisible — specificity creates authority"
+    fonte: "kao"
+    peso: 0.70
+
+  - id: "DG-FIL-031"
+    conteudo: "Building in public is a distribution strategy, not a personality trait"
+    fonte: "kao"
+    peso: 0.70
+
+  # --- Nick Mehta (Customer Success) ---
+  - id: "DG-FIL-032"
+    conteudo: "In the subscription economy, the sale is just the beginning"
+    fonte: "mehta"
+    peso: 0.70
+
+  - id: "DG-FIL-033"
+    conteudo: "NRR is the North Star — it tells you if your customers are growing or shrinking"
+    fonte: "mehta"
+    conceito: "NRR Primacy"
+    peso: 0.70
+
+  - id: "DG-FIL-034"
+    conteudo: "Customer Success is not a department — it's a company-wide philosophy"
+    fonte: "mehta"
+    peso: 0.70
+
+  - id: "DG-FIL-035"
+    conteudo: "Churn is a lagging indicator — by the time you see it, you've already lost"
+    fonte: "mehta"
+    peso: 0.70
+
+  - id: "DG-FIL-036"
+    conteudo: "Proactive CS beats reactive support every time"
+    fonte: "mehta"
+    peso: 0.70
+
+  - id: "DG-FIL-037"
+    conteudo: "Renewals are earned in the first 90 days"
+    fonte: "mehta"
+    peso: 0.70
+
+  - id: "DG-FIL-038"
+    conteudo: "Your best expansion revenue comes from customers who love you"
+    fonte: "mehta"
+    peso: 0.70
+
+  # --- David Spinks (Community-Led Growth) ---
+  - id: "DG-FIL-039"
+    conteudo: "Community is a business model, not a marketing channel"
+    fonte: "spinks"
+    conceito: "Community as Business Model"
+    peso: 0.70
+
+  - id: "DG-FIL-040"
+    conteudo: "Belonging drives retention in ways product features cannot"
+    fonte: "spinks"
+    conceito: "Belonging as Retention"
+    peso: 0.70
+
+  - id: "DG-FIL-041"
+    conteudo: "The 1% rule is real — most members consume, few create"
+    fonte: "spinks"
+    conceito: "1% Rule"
+    peso: 0.70
+
+  - id: "DG-FIL-042"
+    conteudo: "Community is the ultimate switching cost — people leave products, not tribes"
+    fonte: "spinks"
+    peso: 0.70
+
+  - id: "DG-FIL-043"
+    conteudo: "Scale community by empowering members, not by hiring moderators"
+    fonte: "spinks"
+    peso: 0.70
+
+  - id: "DG-FIL-044"
+    conteudo: "Community health is measured by depth of engagement, not vanity headcount"
+    fonte: "spinks"
+    peso: 0.70
+
+  - id: "DG-FIL-045"
+    conteudo: "Every community needs a shared purpose larger than the product itself"
+    fonte: "spinks"
+    peso: 0.70
+
+# ═══════════════════════════════════════════════════════════════════════════════
+# L2: MODELOS MENTAIS (20 elementos)
+# ═══════════════════════════════════════════════════════════════════════════════
+
+modelos_mentais:
+  # --- Kaushik ---
+  - id: "DG-MM-001"
+    conteudo: "HiPPO (Highest Paid Person's Opinion)"
+    descricao: "Decisões baseadas em opinião do chefe vs dados — identificar e combater"
+    aplicacao: "Diagnosticar se a organização decide por dados ou hierarquia"
+    fonte: "kaushik"
+    peso: 0.70
+
+  - id: "DG-MM-002"
+    conteudo: "Data Puking vs Data Analysis"
+    descricao: "Vomitar dados (relatórios enormes) vs extrair insights acionáveis"
+    aplicacao: "Redesenhar relatórios para focar em decisões, não em volume"
+    fonte: "kaushik"
+    peso: 0.70
+
+  - id: "DG-MM-003"
+    conteudo: "See-Think-Do-Care Intent Clusters"
+    descricao: "Audiência segmentada por intenção: ampla → considerando → comprando → pós-compra"
+    aplicacao: "Alinhar conteúdo, métricas e KPIs por estágio de intenção"
+    fonte: "kaushik"
+    peso: 0.70
+
+  - id: "DG-MM-004"
+    conteudo: "Four Types of Analytics"
+    descricao: "Descriptive (o que aconteceu) → Diagnostic (por quê) → Predictive (o que vai) → Prescriptive (o que fazer)"
+    aplicacao: "Diagnóstico de maturidade analítica da organização"
+    fonte: "kaushik"
+    peso: 0.70
+
+  # --- Fader ---
+  - id: "DG-MM-005"
+    conteudo: "Customer Heterogeneity as Strategic Asset"
+    descricao: "Diferenças entre clientes não são ruído — são a informação mais valiosa"
+    aplicacao: "Segmentação baseada em valor, não em demografia"
+    fonte: "fader"
+    peso: 0.70
+
+  - id: "DG-MM-006"
+    conteudo: "Product-Centric vs Customer-Centric"
+    descricao: "Organizar ao redor de produtos vs organizar ao redor de segmentos de clientes"
+    aplicacao: "Decisão estratégica sobre estrutura organizacional e alocação de recursos"
+    fonte: "fader"
+    peso: 0.70
+
+  - id: "DG-MM-007"
+    conteudo: "Right Customers, Not More Customers"
+    descricao: "Adquirir clientes com alto CLV potencial vs maximizar volume de aquisição"
+    aplicacao: "Calibrar CAC e canais de aquisição por CLV esperado"
+    fonte: "fader"
+    peso: 0.70
+
+  - id: "DG-MM-008"
+    conteudo: "Leaky Bucket Model"
+    descricao: "Toda aquisição é desperdiçada se retenção é ruim — consertar o balde primeiro"
+    aplicacao: "Diagnóstico de prioridade: retenção antes de aquisição"
+    fonte: "fader"
+    peso: 0.70
+
+  # --- Ellis ---
+  - id: "DG-MM-009"
+    conteudo: "Growth as Engineering Discipline"
+    descricao: "Growth não é marketing criativo — é sistema de hipóteses, testes e iteração"
+    aplicacao: "Estruturar time de growth como engenharia, não como marketing"
+    fonte: "ellis"
+    peso: 0.70
+
+  - id: "DG-MM-010"
+    conteudo: "Speed over Precision"
+    descricao: "Velocidade de experimentação supera perfeição de execução"
+    aplicacao: "Definir cadência de experimentos e aceitar imperfeição controlada"
+    fonte: "ellis"
+    peso: 0.70
+
+  # --- Kao ---
+  - id: "DG-MM-011"
+    conteudo: "Steel-Manning"
+    descricao: "Fortalecer o argumento do oponente antes de refutar — demonstra rigor intelectual"
+    aplicacao: "Criar conteúdo que antecipa e responde objeções fortes"
+    fonte: "kao"
+    peso: 0.70
+
+  - id: "DG-MM-012"
+    conteudo: "Spiky vs Generic"
+    descricao: "Conteúdo genérico é invisível; conteúdo com ângulo polêmico/único atrai audiência qualificada"
+    aplicacao: "Filtro para validar se conteúdo é diferenciado o suficiente"
+    fonte: "kao"
+    peso: 0.70
+
+  - id: "DG-MM-013"
+    conteudo: "Active vs Passive Learning"
+    descricao: "Assistir não é aprender — transformação exige participação e execução"
+    aplicacao: "Design de cursos e programas com componentes ativos obrigatórios"
+    fonte: "kao"
+    peso: 0.70
+
+  - id: "DG-MM-014"
+    conteudo: "Social Pressure as Feature"
+    descricao: "Prazos e pares criam accountability que conteúdo sozinho não gera"
+    aplicacao: "Design de cohort-based courses com peer accountability"
+    fonte: "kao"
+    peso: 0.70
+
+  # --- Mehta ---
+  - id: "DG-MM-015"
+    conteudo: "Proactive vs Reactive CS"
+    descricao: "Reagir ao churn vs antecipar e prevenir — proativo ganha sempre"
+    aplicacao: "Estruturar CS com health scores e playbooks preventivos"
+    fonte: "mehta"
+    peso: 0.70
+
+  # --- Spinks ---
+  - id: "DG-MM-016"
+    conteudo: "Community as Switching Cost"
+    descricao: "Relacionamentos na comunidade criam lock-in que features não conseguem"
+    aplicacao: "Investir em community como estratégia de retenção"
+    fonte: "spinks"
+    peso: 0.70
+
+  - id: "DG-MM-017"
+    conteudo: "Community Flywheel"
+    descricao: "Membros ativos atraem novos → novos se ativam → geram conteúdo → atraem mais"
+    aplicacao: "Identificar e acelerar o loop de engajamento da comunidade"
+    fonte: "spinks"
+    peso: 0.70
+
+  - id: "DG-MM-018"
+    conteudo: "1% Rule (90/9/1)"
+    descricao: "90% consomem, 9% participam ocasionalmente, 1% criam conteúdo ativamente"
+    aplicacao: "Expectativas realistas de participação e estratégia de ativação"
+    fonte: "spinks"
+    peso: 0.70
+
+  - id: "DG-MM-019"
+    conteudo: "Belonging as Competitive Moat"
+    descricao: "Senso de pertencimento é barreira competitiva que tecnologia não replica"
+    aplicacao: "Criar rituais, identidade e linguagem compartilhada na comunidade"
+    fonte: "spinks"
+    peso: 0.70
+
+  # --- Cross-expert ---
+  - id: "DG-MM-020"
+    conteudo: "Growth Stage Routing"
+    descricao: "Diferentes estágios do negócio requerem diferentes especialistas e frameworks"
+    aplicacao: "Orchestrator roteia para especialista correto baseado em estágio e contexto"
+    fonte: "datum"
+    peso: 0.70
+
+# ═══════════════════════════════════════════════════════════════════════════════
+# L3: HEURÍSTICAS (60 elementos)
+# ═══════════════════════════════════════════════════════════════════════════════
+
+heuristicas:
+  # --- Sean Ellis (Growth / PMF) ---
+  - id: "DG-HEUR-001"
+    conteudo: "PMF 40% threshold — if <40% say 'very disappointed' without your product, you don't have PMF"
+    fonte: "ellis"
+    metrica: "40%"
+    tipo: "threshold"
+    peso: 0.70
+
+  - id: "DG-HEUR-002"
+    conteudo: "PMF survey requires minimum 30-40 responses to be statistically meaningful"
+    fonte: "ellis"
+    metrica: "30-40 responses"
+    tipo: "minimum"
+    peso: 0.70
+
+  - id: "DG-HEUR-003"
+    conteudo: "ICE Score = Impact (1-10) × Confidence (1-10) × Ease (1-10) — prioritize highest"
+    fonte: "ellis"
+    metrica: "formula"
+    tipo: "scoring"
+    peso: 0.70
+
+  - id: "DG-HEUR-004"
+    conteudo: "Experiment velocity: 2-3 experiments/week minimum, elite teams run 5-10/week"
+    fonte: "ellis"
+    metrica: "2-3/week min, 5-10 elite"
+    tipo: "cadence"
+    peso: 0.70
+
+  - id: "DG-HEUR-005"
+    conteudo: "70-90% of growth experiments will fail — that's expected, not a problem"
+    fonte: "ellis"
+    metrica: "70-90% fail rate"
+    tipo: "expectation"
+    peso: 0.70
+
+  - id: "DG-HEUR-006"
+    conteudo: "Viral coefficient K>1 = exponential growth; K 0.3-0.7 = excellent amplification"
+    fonte: "ellis"
+    metrica: "K>1 exponential, 0.3-0.7 excellent"
+    tipo: "threshold"
+    peso: 0.70
+
+  - id: "DG-HEUR-007"
+    conteudo: "Dropbox grew from 100K to 4M users in 15 months via referral loop"
+    fonte: "ellis"
+    metrica: "100K→4M in 15 months"
+    tipo: "benchmark"
+    peso: 0.70
+
+  - id: "DG-HEUR-008"
+    conteudo: "North Star Metric should be a single number the entire company rallies around"
+    fonte: "ellis"
+    tipo: "principle"
+    peso: 0.70
+
+  - id: "DG-HEUR-009"
+    conteudo: "Aha Moment must be reached within first session or activation drops drastically"
+    fonte: "ellis"
+    tipo: "timing"
+    peso: 0.70
+
+  - id: "DG-HEUR-010"
+    conteudo: "Activation rate improvements compound — 10% better activation can 2x revenue"
+    fonte: "ellis"
+    metrica: "10% → 2x"
+    tipo: "multiplier"
+    peso: 0.70
+
+  # --- Peter Fader (Customer Value) ---
+  - id: "DG-HEUR-011"
+    conteudo: "Whale curve: top 20% of customers typically generate 150-300% of total profits"
+    fonte: "fader"
+    metrica: "top 20% = 150-300% profits"
+    tipo: "distribution"
+    peso: 0.70
+
+  - id: "DG-HEUR-012"
+    conteudo: "CLV tiers: Platinum ~5%, Gold ~15%, Silver ~30%, Bronze ~50% of customer base"
+    fonte: "fader"
+    metrica: "5/15/30/50%"
+    tipo: "segmentation"
+    peso: 0.70
+
+  - id: "DG-HEUR-013"
+    conteudo: "Bottom 20-30% of customers often destroy value — they cost more to serve than they pay"
+    fonte: "fader"
+    metrica: "bottom 20-30% destroy value"
+    tipo: "distribution"
+    peso: 0.70
+
+  - id: "DG-HEUR-014"
+    conteudo: "RFM scoring is a heuristic shortcut — probability models (BG/NBD) are more accurate"
+    fonte: "fader"
+    tipo: "method"
+    peso: 0.70
+
+  - id: "DG-HEUR-015"
+    conteudo: "Customer acquisition cost should be <1/3 of expected CLV for sustainable growth"
+    fonte: "fader"
+    metrica: "CAC < CLV/3"
+    tipo: "ratio"
+    peso: 0.70
+
+  # --- Nick Mehta (Customer Success) ---
+  - id: "DG-HEUR-016"
+    conteudo: "NRR <100% = shrinking revenue base; 110-130% = strong; >130% = elite SaaS"
+    fonte: "mehta"
+    metrica: "<100 shrink, 110-130 strong, >130 elite"
+    tipo: "threshold"
+    peso: 0.70
+
+  - id: "DG-HEUR-017"
+    conteudo: "NRR of 120% means your existing customer base doubles every ~4 years without new sales"
+    fonte: "mehta"
+    metrica: "120% NRR = doubles in ~4yr"
+    tipo: "compound"
+    peso: 0.70
+
+  - id: "DG-HEUR-018"
+    conteudo: "Health Score: Green >70, Yellow 40-70, Red <40 — trigger playbooks by color"
+    fonte: "mehta"
+    metrica: ">70 green, 40-70 yellow, <40 red"
+    tipo: "threshold"
+    peso: 0.70
+
+  - id: "DG-HEUR-019"
+    conteudo: "Health Score weights: Product Usage 30-40%, Support Tickets 15-20%, Engagement 15-20%, Outcomes 20-30%"
+    fonte: "mehta"
+    metrica: "30-40/15-20/15-20/20-30%"
+    tipo: "weights"
+    peso: 0.70
+
+  - id: "DG-HEUR-020"
+    conteudo: "Churn signal: product usage decline >30% month-over-month"
+    fonte: "mehta"
+    metrica: ">30% MoM decline"
+    tipo: "signal"
+    peso: 0.70
+
+  - id: "DG-HEUR-021"
+    conteudo: "Churn signal: no adoption of new features for 60+ days"
+    fonte: "mehta"
+    metrica: "60 days no new features"
+    tipo: "signal"
+    peso: 0.70
+
+  - id: "DG-HEUR-022"
+    conteudo: "First 90 days determine renewal probability — frontload CS investment"
+    fonte: "mehta"
+    metrica: "90 days"
+    tipo: "timing"
+    peso: 0.70
+
+  - id: "DG-HEUR-023"
+    conteudo: "Onboarding completion rate target: >80% within 30 days"
+    fonte: "mehta"
+    metrica: ">80% in 30 days"
+    tipo: "target"
+    peso: 0.70
+
+  - id: "DG-HEUR-024"
+    conteudo: "CS team ratio: 1 CSM per $2-5M ARR (enterprise) or 1 per 50-200 accounts (SMB)"
+    fonte: "mehta"
+    metrica: "1:$2-5M or 1:50-200"
+    tipo: "ratio"
+    peso: 0.70
+
+  - id: "DG-HEUR-025"
+    conteudo: "QBR cadence: quarterly for enterprise, semi-annual for mid-market, digital-only for SMB"
+    fonte: "mehta"
+    tipo: "cadence"
+    peso: 0.70
+
+  # --- Wes Kao (Audience / Education) ---
+  - id: "DG-HEUR-026"
+    conteudo: "Self-paced course completion rate: 3-10% typical vs cohort-based 75-95%"
+    fonte: "kao"
+    metrica: "3-10% self vs 75-95% CBC"
+    tipo: "benchmark"
+    peso: 0.70
+
+  - id: "DG-HEUR-027"
+    conteudo: "CBC pricing: $500-$5,000+ vs self-paced $10-$100 — 50-100x premium possible"
+    fonte: "kao"
+    metrica: "$500-5000 vs $10-100"
+    tipo: "pricing"
+    peso: 0.70
+
+  - id: "DG-HEUR-028"
+    conteudo: "Optimal CBC cohort size: 20-50 students per cohort, run 4-6 cohorts per year"
+    fonte: "kao"
+    metrica: "20-50 students, 4-6x/year"
+    tipo: "sizing"
+    peso: 0.70
+
+  - id: "DG-HEUR-029"
+    conteudo: "CBC completion target: 85%+ completion rate, NPS 70+"
+    fonte: "kao"
+    metrica: "85% completion, NPS 70+"
+    tipo: "target"
+    peso: 0.70
+
+  - id: "DG-HEUR-030"
+    conteudo: "Active learning ratio: 80% practice/participation, 20% passive consumption"
+    fonte: "kao"
+    metrica: "80/20 active/passive"
+    tipo: "ratio"
+    peso: 0.70
+
+  - id: "DG-HEUR-031"
+    conteudo: "A strong Spiky POV should generate 50+ unique content pieces as derivatives"
+    fonte: "kao"
+    metrica: "50+ pieces per POV"
+    tipo: "output"
+    peso: 0.70
+
+  - id: "DG-HEUR-032"
+    conteudo: "Max 2 platforms simultaneously — spread thin = invisible everywhere"
+    fonte: "kao"
+    metrica: "max 2"
+    tipo: "constraint"
+    peso: 0.70
+
+  - id: "DG-HEUR-033"
+    conteudo: "Content pillar: publish 3-5x/week on primary platform for 6+ months before evaluating"
+    fonte: "kao"
+    metrica: "3-5x/week, 6+ months"
+    tipo: "cadence"
+    peso: 0.70
+
+  # --- Avinash Kaushik (Analytics) ---
+  - id: "DG-HEUR-034"
+    conteudo: "Max 15 KPIs total across all dashboards — more than 15 means nothing is a priority"
+    fonte: "kaushik"
+    metrica: "max 15"
+    tipo: "constraint"
+    peso: 0.70
+
+  - id: "DG-HEUR-035"
+    conteudo: "Dashboard 'So what?' test: if >30% of metrics fail the test, burn the dashboard"
+    fonte: "kaushik"
+    metrica: ">30% fail = burn it"
+    tipo: "quality"
+    peso: 0.70
+
+  - id: "DG-HEUR-036"
+    conteudo: "Every report should end with 3 actions — no actions means the report is useless"
+    fonte: "kaushik"
+    metrica: "3 actions minimum"
+    tipo: "output"
+    peso: 0.70
+
+  - id: "DG-HEUR-037"
+    conteudo: "10/90 budget split: 10% on tools, 90% on analysts who know what to do with data"
+    fonte: "kaushik"
+    metrica: "10/90"
+    tipo: "budget"
+    peso: 0.70
+
+  - id: "DG-HEUR-038"
+    conteudo: "Segment at minimum by: new vs returning, source/medium, device, geography"
+    fonte: "kaushik"
+    tipo: "minimum"
+    peso: 0.70
+
+  - id: "DG-HEUR-039"
+    conteudo: "Custom metrics beat default metrics — configure everything, accept nothing as-is"
+    fonte: "kaushik"
+    tipo: "principle"
+    peso: 0.70
+
+  # --- David Spinks (Community) ---
+  - id: "DG-HEUR-040"
+    conteudo: "Community participation: 90% lurk, 9% contribute occasionally, 1% create actively"
+    fonte: "spinks"
+    metrica: "90/9/1"
+    tipo: "distribution"
+    peso: 0.70
+
+  - id: "DG-HEUR-041"
+    conteudo: "Community activity rate <20% = crisis — intervention needed immediately"
+    fonte: "spinks"
+    metrica: "<20% = crisis"
+    tipo: "threshold"
+    peso: 0.70
+
+  - id: "DG-HEUR-042"
+    conteudo: "Community response rate <50% = review engagement strategy and moderation"
+    fonte: "spinks"
+    metrica: "<50% = review"
+    tipo: "threshold"
+    peso: 0.70
+
+  - id: "DG-HEUR-043"
+    conteudo: "Member-to-member interactions should exceed staff-to-member by 3:1 at maturity"
+    fonte: "spinks"
+    metrica: "3:1 member:staff ratio"
+    tipo: "ratio"
+    peso: 0.70
+
+  - id: "DG-HEUR-044"
+    conteudo: "New member activation window: first 48 hours are critical for long-term engagement"
+    fonte: "spinks"
+    metrica: "48 hours"
+    tipo: "timing"
+    peso: 0.70
+
+  - id: "DG-HEUR-045"
+    conteudo: "Community ROI becomes positive typically after 6-12 months of consistent investment"
+    fonte: "spinks"
+    metrica: "6-12 months"
+    tipo: "timeline"
+    peso: 0.70
+
+  # --- Routing / Cross-expert ---
+  - id: "DG-HEUR-046"
+    conteudo: "Analytics questions → route to Kaushik frameworks first"
+    fonte: "datum"
+    tipo: "routing"
+    peso: 0.70
+
+  - id: "DG-HEUR-047"
+    conteudo: "Customer value/segmentation → route to Fader models first"
+    fonte: "datum"
+    tipo: "routing"
+    peso: 0.70
+
+  - id: "DG-HEUR-048"
+    conteudo: "Growth experiments/PMF → route to Ellis frameworks first"
+    fonte: "datum"
+    tipo: "routing"
+    peso: 0.70
+
+  - id: "DG-HEUR-049"
+    conteudo: "Audience/content/courses → route to Kao frameworks first"
+    fonte: "datum"
+    tipo: "routing"
+    peso: 0.70
+
+  - id: "DG-HEUR-050"
+    conteudo: "Retention/churn/CS → route to Mehta frameworks first"
+    fonte: "datum"
+    tipo: "routing"
+    peso: 0.70
+
+  - id: "DG-HEUR-051"
+    conteudo: "Community/engagement → route to Spinks frameworks first"
+    fonte: "datum"
+    tipo: "routing"
+    peso: 0.70
+
+  - id: "DG-HEUR-052"
+    conteudo: "Confidence >85% = route directly; 60-85% = route with caveats; <60% = consult multiple experts"
+    fonte: "datum"
+    metrica: ">85/60-85/<60"
+    tipo: "confidence"
+    peso: 0.70
+
+  - id: "DG-HEUR-053"
+    conteudo: "Never recommend a tool without first asking what question they're trying to answer"
+    fonte: "kaushik"
+    tipo: "process"
+    peso: 0.70
+
+  - id: "DG-HEUR-054"
+    conteudo: "If data contradicts intuition, trust data but investigate why intuition differs"
+    fonte: "kaushik"
+    tipo: "principle"
+    peso: 0.70
+
+  - id: "DG-HEUR-055"
+    conteudo: "Customer segments should be actionable — if you can't treat them differently, don't segment"
+    fonte: "fader"
+    tipo: "principle"
+    peso: 0.70
+
+  - id: "DG-HEUR-056"
+    conteudo: "Growth without retention is a hamster wheel — fix retention before scaling acquisition"
+    fonte: "ellis/fader"
+    tipo: "priority"
+    peso: 0.70
+
+  - id: "DG-HEUR-057"
+    conteudo: "Never launch community without at least 20 founding members committed for 3+ months"
+    fonte: "spinks"
+    metrica: "20 founders, 3 months"
+    tipo: "minimum"
+    peso: 0.70
+
+  - id: "DG-HEUR-058"
+    conteudo: "CBC pricing: charge at least 10x what self-paced equivalent costs — transformation premium"
+    fonte: "kao"
+    metrica: "10x minimum"
+    tipo: "pricing"
+    peso: 0.70
+
+  - id: "DG-HEUR-059"
+    conteudo: "Analytics maturity: most companies are stuck at descriptive — push to diagnostic minimum"
+    fonte: "kaushik"
+    tipo: "maturity"
+    peso: 0.70
+
+  - id: "DG-HEUR-060"
+    conteudo: "Never combine CS metrics with support metrics — they measure different things"
+    fonte: "mehta"
+    tipo: "principle"
+    peso: 0.70
+
+# ═══════════════════════════════════════════════════════════════════════════════
+# L4: FRAMEWORKS (35 elementos)
+# ═══════════════════════════════════════════════════════════════════════════════
+
+frameworks:
+  # --- Avinash Kaushik ---
+  - id: "DG-FW-001"
+    nome: "STDC (See-Think-Do-Care)"
+    descricao: "Framework de intent-based audience clustering: See (broadest qualified audience) → Think (considering) → Do (ready to buy) → Care (existing customers)"
+    aplicacao: "Alinhar conteúdo, KPIs e investimento por cluster de intenção"
+    fonte: "kaushik"
+    peso: 0.70
+
+  - id: "DG-FW-002"
+    nome: "DMMM (Digital Marketing & Measurement Model)"
+    descricao: "Objectives → Goals → KPIs → Targets → Segments — cascata de métricas"
+    aplicacao: "Criar plano de medição antes de lançar qualquer campanha"
+    fonte: "kaushik"
+    peso: 0.70
+
+  - id: "DG-FW-003"
+    nome: "ABO (Acquisition-Behavior-Outcome)"
+    descricao: "Aquisição (de onde vêm) → Comportamento (o que fazem) → Resultado (o que alcançam)"
+    aplicacao: "Estruturar análise web em três dimensões complementares"
+    fonte: "kaushik"
+    peso: 0.70
+
+  - id: "DG-FW-004"
+    nome: "Economic Value Model"
+    descricao: "Macro + micro conversions quantified — value of every user action"
+    aplicacao: "Atribuir valor econômico a ações que não são compra direta"
+    fonte: "kaushik"
+    peso: 0.70
+
+  - id: "DG-FW-005"
+    nome: "Four Types of Analytics"
+    descricao: "Descriptive → Diagnostic → Predictive → Prescriptive — maturidade analítica"
+    aplicacao: "Diagnosticar e evoluir capacidade analítica da organização"
+    fonte: "kaushik"
+    peso: 0.70
+
+  - id: "DG-FW-006"
+    nome: "10/90 Rule"
+    descricao: "Alocar 10% do budget em ferramentas, 90% em pessoas inteligentes que as usam"
+    aplicacao: "Decisão de investimento em analytics: contratar > comprar ferramentas"
+    fonte: "kaushik"
+    peso: 0.70
+
+  # --- Peter Fader ---
+  - id: "DG-FW-007"
+    nome: "BG/NBD Model (Buy Till You Die)"
+    descricao: "Modelo probabilístico que prediz: probabilidade de estar 'vivo', transações futuras, CLV"
+    aplicacao: "Predição de CLV e identificação de clientes inativos vs churned"
+    fonte: "fader"
+    peso: 0.70
+
+  - id: "DG-FW-008"
+    nome: "Whale Curves"
+    descricao: "Curva cumulativa de lucro por cliente — mostra concentração de valor"
+    aplicacao: "Visualizar e comunicar dispersão de valor na base de clientes"
+    fonte: "fader"
+    peso: 0.70
+
+  - id: "DG-FW-009"
+    nome: "CBCV (Customer-Based Corporate Valuation)"
+    descricao: "Valuation da empresa baseado no valor futuro projetado da base de clientes"
+    aplicacao: "Valuation mais preciso para empresas de assinatura e recorrência"
+    fonte: "fader"
+    peso: 0.70
+
+  - id: "DG-FW-010"
+    nome: "Customer Centricity Framework"
+    descricao: "Diagnóstico e transição: product-centric → customer-centric organization"
+    aplicacao: "Roadmap de transformação organizacional para centricidade no cliente"
+    fonte: "fader"
+    peso: 0.70
+
+  - id: "DG-FW-011"
+    nome: "RFM vs Probability Models"
+    descricao: "Comparação: Recency-Frequency-Monetary (heurístico) vs modelos probabilísticos (BG/NBD)"
+    aplicacao: "Decisão de qual approach usar baseado em maturidade e dados disponíveis"
+    fonte: "fader"
+    peso: 0.70
+
+  # --- Sean Ellis ---
+  - id: "DG-FW-012"
+    nome: "Sean Ellis PMF Test (40%)"
+    descricao: "Survey: 'How would you feel if you could no longer use this product?' — 40%+ 'very disappointed' = PMF"
+    aplicacao: "Validação quantitativa de product-market fit"
+    fonte: "ellis"
+    peso: 0.70
+
+  - id: "DG-FW-013"
+    nome: "ICE Scoring"
+    descricao: "Impact × Confidence × Ease = Score — priorização de experimentos de growth"
+    aplicacao: "Ranking de backlog de experimentos por potencial e viabilidade"
+    fonte: "ellis"
+    peso: 0.70
+
+  - id: "DG-FW-014"
+    nome: "North Star Metric"
+    descricao: "Uma métrica que captura o core value delivered to customers"
+    aplicacao: "Alinhamento de toda a empresa em torno de um único indicador de valor"
+    fonte: "ellis"
+    peso: 0.70
+
+  - id: "DG-FW-015"
+    nome: "AARRR Pirate Metrics"
+    descricao: "Acquisition → Activation → Retention → Revenue → Referral — funil de growth"
+    aplicacao: "Diagnóstico de funil: onde está o maior gargalo de crescimento?"
+    fonte: "ellis"
+    peso: 0.70
+
+  - id: "DG-FW-016"
+    nome: "Growth Machine"
+    descricao: "Sistema: Ideation → Prioritization (ICE) → Testing → Analysis → Learning loop"
+    aplicacao: "Implementar processo contínuo de experimentação de growth"
+    fonte: "ellis"
+    peso: 0.70
+
+  - id: "DG-FW-017"
+    nome: "Aha Moment Framework"
+    descricao: "Identificar a ação/experiência que separa usuários retidos de churned"
+    aplicacao: "Otimizar onboarding para guiar usuários ao Aha Moment o mais rápido possível"
+    fonte: "ellis"
+    peso: 0.70
+
+  - id: "DG-FW-018"
+    nome: "Viral Loop Mechanics"
+    descricao: "Invitation trigger → value exchange → K-factor optimization → loop acceleration"
+    aplicacao: "Design de mecânicas virais embutidas no produto"
+    fonte: "ellis"
+    peso: 0.70
+
+  # --- Wes Kao ---
+  - id: "DG-FW-019"
+    nome: "Spiky POV Framework"
+    descricao: "Identify your unique angle → stress-test it → polarize intentionally → build content around it"
+    aplicacao: "Desenvolver ponto de vista diferenciado para authority building"
+    fonte: "kao"
+    peso: 0.70
+
+  - id: "DG-FW-020"
+    nome: "Rigorous Thinking Framework"
+    descricao: "Steel-man → test assumptions → consider edge cases → articulate precisely"
+    aplicacao: "Elevar qualidade do pensamento antes de criar conteúdo ou tomar decisões"
+    fonte: "kao"
+    peso: 0.70
+
+  - id: "DG-FW-021"
+    nome: "CBC Design (Cohort-Based Course)"
+    descricao: "Live sessions + projects + peer interaction + deadlines = transformation"
+    aplicacao: "Design de cursos com alta completion rate e premium pricing"
+    fonte: "kao"
+    peso: 0.70
+
+  - id: "DG-FW-022"
+    nome: "Audience Building Framework"
+    descricao: "Spiky POV → Content Pillars → Platform selection → Consistent publishing → Community"
+    aplicacao: "Roadmap para construir audiência qualificada do zero"
+    fonte: "kao"
+    peso: 0.70
+
+  - id: "DG-FW-023"
+    nome: "Content Pillar System"
+    descricao: "3-5 pilares temáticos → derivar infinitos sub-tópicos de cada pilar"
+    aplicacao: "Criar sistema de conteúdo sustentável sem criatividade infinita"
+    fonte: "kao"
+    peso: 0.70
+
+  # --- Nick Mehta ---
+  - id: "DG-FW-024"
+    nome: "10 Laws of Customer Success"
+    descricao: "Conjunto de princípios fundamentais: sell to right customer, churn is #1 problem, etc."
+    aplicacao: "Fundação filosófica e operacional de CS"
+    fonte: "mehta"
+    peso: 0.70
+
+  - id: "DG-FW-025"
+    nome: "Customer Health Score"
+    descricao: "Multi-dimensional score: Product Usage + Support + Engagement + Outcomes = Health"
+    aplicacao: "Monitoramento proativo de risco e oportunidade por cliente"
+    fonte: "mehta"
+    peso: 0.70
+
+  - id: "DG-FW-026"
+    nome: "NRR Framework (Net Revenue Retention)"
+    descricao: "Starting MRR + Expansion - Contraction - Churn = NRR — viability metric"
+    aplicacao: "Medir e otimizar valor da base existente de clientes"
+    fonte: "mehta"
+    peso: 0.70
+
+  - id: "DG-FW-027"
+    nome: "CS Maturity Model"
+    descricao: "Reactive → Proactive → Predictive → Prescriptive — evolução do CS"
+    aplicacao: "Roadmap de evolução da função de Customer Success"
+    fonte: "mehta"
+    peso: 0.70
+
+  - id: "DG-FW-028"
+    nome: "Customer Journey Map (CS)"
+    descricao: "Onboarding → Adoption → Value Realization → Expansion → Renewal"
+    aplicacao: "Definir touchpoints e playbooks por estágio do lifecycle"
+    fonte: "mehta"
+    peso: 0.70
+
+  # --- David Spinks ---
+  - id: "DG-FW-029"
+    nome: "SPACES Model"
+    descricao: "Support + Product + Acquisition + Contribution + Engagement + Success — 6 types of community value"
+    aplicacao: "Identificar e medir os tipos de valor que a comunidade gera"
+    fonte: "spinks"
+    peso: 0.70
+
+  - id: "DG-FW-030"
+    nome: "Community-Led Growth"
+    descricao: "Community como motor de acquisition, activation, retention, expansion"
+    aplicacao: "Integrar comunidade como canal de growth em todo o funil"
+    fonte: "spinks"
+    peso: 0.70
+
+  - id: "DG-FW-031"
+    nome: "Community Maturity Model"
+    descricao: "Inception → Establishment → Scale → Maturity — estágios de evolução"
+    aplicacao: "Diagnosticar estágio atual e definir próximos passos"
+    fonte: "spinks"
+    peso: 0.70
+
+  - id: "DG-FW-032"
+    nome: "Community Engagement Framework"
+    descricao: "Content + Events + Conversations + Programs = engagement flywheel"
+    aplicacao: "Estruturar atividades de engajamento em múltiplas frentes"
+    fonte: "spinks"
+    peso: 0.70
+
+  - id: "DG-FW-033"
+    nome: "Community Engagement Ladder"
+    descricao: "Lurker → Participant → Contributor → Leader → Ambassador — progression path"
+    aplicacao: "Design de caminho de evolução do membro na comunidade"
+    fonte: "spinks"
+    peso: 0.70
+
+  - id: "DG-FW-034"
+    nome: "Community Metrics Framework"
+    descricao: "Health (activity, retention) + Business (revenue, support deflection) + Member (satisfaction, NPS)"
+    aplicacao: "Dashboard completo de métricas de comunidade"
+    fonte: "spinks"
+    peso: 0.70
+
+  - id: "DG-FW-035"
+    nome: "Community Health Score"
+    descricao: "Active members + engagement depth + retention + growth rate = community health"
+    aplicacao: "Monitoramento contínuo da saúde da comunidade"
+    fonte: "spinks"
+    peso: 0.70
+
+# ═══════════════════════════════════════════════════════════════════════════════
+# L5: METODOLOGIAS (18 elementos)
+# ═══════════════════════════════════════════════════════════════════════════════
+
+metodologias:
+  # --- Kaushik ---
+  - id: "DG-MET-001"
+    nome: "DMMM Implementation"
+    fonte: "kaushik"
+    passos:
+      - "Define: Business objectives (max 3)"
+      - "Map: Goals for each objective"
+      - "Select: KPIs for each goal (max 3 per goal)"
+      - "Set: Targets for each KPI (quantitative)"
+      - "Segment: Define key segments for analysis"
+      - "Implement: Tag and track everything"
+    resultado: "Plano de medição completo antes de gastar qualquer budget"
+    peso: 0.70
+
+  - id: "DG-MET-002"
+    nome: "Kaushik Analysis Process"
+    fonte: "kaushik"
+    passos:
+      - "What: Dados descritivos — o que aconteceu?"
+      - "So What: Análise diagnóstica — por que importa?"
+      - "Now What: Prescrição — o que fazer diferente?"
+      - "Present: 3 ações concretas por relatório"
+    resultado: "Todo relatório termina com ações, não com dados"
+    peso: 0.70
+
+  - id: "DG-MET-003"
+    nome: "Dashboard Design Process"
+    fonte: "kaushik"
+    passos:
+      - "Audit: Listar todas as métricas atuais"
+      - "So What Test: Para cada métrica, perguntar 'e daí?'"
+      - "Kill: Remover todas que falham no teste (>30% = queimar tudo)"
+      - "Prioritize: Max 15 KPIs totais"
+      - "Action: Cada métrica deve ter threshold + ação automática"
+      - "Review: Revisitar mensalmente"
+    resultado: "Dashboard acionável que impulsiona decisões"
+    peso: 0.70
+
+  # --- Fader ---
+  - id: "DG-MET-004"
+    nome: "Fader Customer Analysis Process"
+    fonte: "fader"
+    passos:
+      - "Data Prep: Coletar histórico de transações (recency, frequency, monetary)"
+      - "Model: Aplicar BG/NBD ou Pareto/NBD para probabilidade de vida"
+      - "Score: Calcular CLV projetado por cliente"
+      - "Segment: Criar tiers (Platinum/Gold/Silver/Bronze)"
+      - "Whale Curve: Visualizar concentração de lucro"
+      - "Strategy: Alinhar investimento por tier"
+    resultado: "Segmentação baseada em valor com estratégia diferenciada por tier"
+    peso: 0.70
+
+  # --- Ellis ---
+  - id: "DG-MET-005"
+    nome: "Sean Ellis Growth Process"
+    fonte: "ellis"
+    passos:
+      - "PMF Check: Rodar Sean Ellis Test (40% threshold)"
+      - "North Star: Definir métrica única que captura valor entregue"
+      - "Funnel Map: Mapear AARRR completo com métricas por estágio"
+      - "Bottleneck: Identificar estágio com maior drop-off"
+      - "Ideate: Gerar 10+ hipóteses para resolver bottleneck"
+      - "ICE Score: Priorizar por Impact × Confidence × Ease"
+      - "Test: Executar top 3 experimentos por semana"
+      - "Analyze: Medir resultados e registrar aprendizados"
+      - "Loop: Repetir — velocidade de aprendizado é o jogo"
+    resultado: "Sistema contínuo de experimentação e crescimento"
+    peso: 0.70
+
+  - id: "DG-MET-006"
+    nome: "Aha Moment Optimization"
+    fonte: "ellis"
+    passos:
+      - "Cohort: Separar usuários retidos vs churned"
+      - "Analyze: Quais ações os retidos fazem que churned não fazem?"
+      - "Identify: A ação correlacionada com retenção = Aha Moment"
+      - "Quantify: Definir threshold (ex: Slack = 2000 msgs, Facebook = 7 amigos em 10 dias)"
+      - "Optimize: Redesenhar onboarding para guiar ao Aha Moment"
+      - "Measure: Taxa de ativação como North Star do onboarding"
+    resultado: "Onboarding otimizado que maximiza retenção"
+    peso: 0.70
+
+  - id: "DG-MET-007"
+    nome: "Viral Loop Design"
+    fonte: "ellis"
+    passos:
+      - "Trigger: Identificar momento natural de compartilhamento no produto"
+      - "Mechanism: Definir mecânica (invite, referral, embed, content)"
+      - "Incentive: Valor bilateral (quem convida + quem é convidado)"
+      - "Friction: Minimizar passos entre trigger e ação"
+      - "Measure: Calcular K-factor e viral cycle time"
+      - "Optimize: Testar variações de trigger, copy, incentivo"
+    resultado: "Mecânica viral embutida no produto com K-factor mensurável"
+    peso: 0.70
+
+  # --- Kao ---
+  - id: "DG-MET-008"
+    nome: "Spiky POV Development"
+    fonte: "kao"
+    passos:
+      - "Brainstorm: Listar todas as suas opiniões sobre o tema"
+      - "Filter: Quais são controversas ou contrárias ao consenso?"
+      - "Steel-Man: Fortalecer o argumento contrário ao seu"
+      - "Sharpen: Refinar até que a posição seja clara e polarizante"
+      - "Test: Publicar e medir: gera reação forte (positiva E negativa)?"
+      - "Expand: Derivar 50+ conteúdos a partir do POV central"
+    resultado: "Ponto de vista diferenciado que atrai audiência qualificada"
+    peso: 0.70
+
+  - id: "DG-MET-009"
+    nome: "CBC Design Process"
+    fonte: "kao"
+    passos:
+      - "Outcome: Definir transformação específica que o aluno alcança"
+      - "Curriculum: Organizar em módulos semanais (4-6 semanas ideal)"
+      - "Active: 80% exercícios/projetos, 20% conteúdo passivo"
+      - "Social: Grupos pequenos, peer review, accountability partners"
+      - "Live: Sessões ao vivo com interação, não lectures gravadas"
+      - "Deadline: Prazos rígidos que criam urgência e completion"
+      - "Launch: Cohort de 20-50 alunos, 4-6x por ano"
+    resultado: "Curso com 85%+ completion, NPS 70+, pricing premium"
+    peso: 0.70
+
+  - id: "DG-MET-010"
+    nome: "Audience-to-Cohort Pipeline"
+    fonte: "kao"
+    passos:
+      - "POV: Estabelecer Spiky POV como fundação"
+      - "Content: Publicar consistentemente (3-5x/semana)"
+      - "Capture: Email list como owned audience"
+      - "Nurture: Newsletter/series que demonstra expertise"
+      - "Launch: Abrir inscrições para CBC com waitlist"
+      - "Convert: Audiência → alunos pagantes"
+      - "Alumni: Ex-alunos como evangelistas e prova social"
+    resultado: "Pipeline sustentável de audiência → alunos → evangelistas"
+    peso: 0.70
+
+  - id: "DG-MET-011"
+    nome: "Content Cadence Design"
+    fonte: "kao"
+    passos:
+      - "Pillars: Definir 3-5 pilares temáticos alinhados com Spiky POV"
+      - "Platform: Escolher 1-2 plataformas primárias"
+      - "Cadence: Definir frequência (3-5x/semana mínimo)"
+      - "Format: Variar formatos (thread, essay, video, visual)"
+      - "Repurpose: Um conteúdo longo → 5+ formatos curtos"
+      - "Measure: Engajamento por pilar, não por post individual"
+      - "Iterate: Dobrar no que funciona, abandonar o que não conecta"
+    resultado: "Sistema de conteúdo sustentável e escalável"
+    peso: 0.70
+
+  # --- Mehta ---
+  - id: "DG-MET-012"
+    nome: "CS Operating Process"
+    fonte: "mehta"
+    passos:
+      - "Segment: Classificar clientes por ARR/tier"
+      - "Health Score: Implementar score multidimensional"
+      - "Playbooks: Criar playbooks por score (Green/Yellow/Red)"
+      - "Cadence: Definir touchpoints por segment"
+      - "QBR: Revisar valor entregue trimestralmente (enterprise)"
+      - "Escalation: Definir triggers automáticos de escalação"
+      - "Expansion: Identificar e executar upsell/cross-sell"
+    resultado: "Operação de CS proativa, escalável e focada em NRR"
+    peso: 0.70
+
+  - id: "DG-MET-013"
+    nome: "Churn Prevention Playbook Design"
+    fonte: "mehta"
+    passos:
+      - "Signals: Definir early warning indicators (usage decline >30%, no features 60d)"
+      - "Score: Integrar signals no Health Score"
+      - "Alert: Automatizar alertas por threshold (Yellow/Red)"
+      - "Playbook: Ações específicas por signal type"
+      - "Escalate: Quando CSM → Manager → Executive involvement"
+      - "Save: Last-resort retention offers"
+      - "Post-mortem: Analisar todo churn para prevenir recorrência"
+    resultado: "Sistema proativo de prevenção de churn com playbooks acionáveis"
+    peso: 0.70
+
+  # --- Spinks ---
+  - id: "DG-MET-014"
+    nome: "SPACES Implementation"
+    fonte: "spinks"
+    passos:
+      - "Audit: Qual tipo de valor (S/P/A/C/E/S) a comunidade pode gerar?"
+      - "Prioritize: Escolher 2-3 tipos primários (não todos)"
+      - "Design: Criar programas e atividades para cada tipo"
+      - "Measure: Definir métricas por tipo de valor"
+      - "Report: Conectar valor da comunidade com métricas de negócio"
+      - "Evolve: Expandir para novos tipos conforme comunidade amadurece"
+    resultado: "Comunidade com valor de negócio mensurável e diversificado"
+    peso: 0.70
+
+  - id: "DG-MET-015"
+    nome: "Community Launch Process"
+    fonte: "spinks"
+    passos:
+      - "Purpose: Definir propósito compartilhado (maior que o produto)"
+      - "Founders: Recrutar 20+ founding members comprometidos por 3+ meses"
+      - "Platform: Escolher plataforma adequada ao tipo de interação"
+      - "Rituals: Criar rituais semanais (AMA, showcase, challenge)"
+      - "Onboard: Processo de boas-vindas que conecta novos com existentes"
+      - "Activate: Garantir primeira contribuição em 48 horas"
+      - "Measure: Atividade, retenção, member-to-member ratio"
+    resultado: "Comunidade lançada com massa crítica e rituais de engajamento"
+    peso: 0.70
+
+  - id: "DG-MET-016"
+    nome: "Community Measurement Process"
+    fonte: "spinks"
+    passos:
+      - "Health: Activity rate, retention, growth rate"
+      - "Engagement: DAU/MAU, posts per member, response rate"
+      - "Value: Support deflection, content generated, referrals"
+      - "Business: Revenue influenced, retention lift, NPS delta"
+      - "Dashboard: Consolidar em dashboard semanal"
+      - "Review: Monthly review com stakeholders"
+    resultado: "Medição completa que justifica investimento em comunidade"
+    peso: 0.70
+
+  # --- Cross-expert ---
+  - id: "DG-MET-017"
+    nome: "Retention Optimization Combined"
+    fonte: "fader/mehta"
+    passos:
+      - "Analyze: Whale curve (Fader) — quem são os clientes mais valiosos?"
+      - "Score: Health Score (Mehta) — quais valiosos estão em risco?"
+      - "Prioritize: CLV × Risk = Priority score"
+      - "Playbook: Ações específicas por quadrante (High-Value/At-Risk primeiro)"
+      - "Prevent: Churn prevention para at-risk high-value"
+      - "Expand: Growth plays para healthy high-value"
+      - "Measure: NRR como indicador de sucesso"
+    resultado: "Retenção otimizada combinando customer value com health monitoring"
+    peso: 0.70
+
+  - id: "DG-MET-018"
+    nome: "Data Squad Quality Review"
+    fonte: "datum"
+    passos:
+      - "Receive: Receber análise ou recomendação de qualquer especialista"
+      - "Verify: Dados citados estão corretos e atualizados?"
+      - "Context: Recomendação se aplica ao estágio do negócio?"
+      - "Conflicts: Há contradição com outro especialista? Se sim, apresentar ambos"
+      - "Confidence: Atribuir nível de confiança (high/medium/low)"
+      - "Deliver: Entregar com caveats e próximos passos claros"
+    resultado: "Output validado com nível de confiança e caveats explícitos"
+    peso: 0.70
+
+# ═══════════════════════════════════════════════════════════════════════════════
+# TASK ROUTING: QUAL FRAMEWORK PARA QUAL TAREFA
+# ═══════════════════════════════════════════════════════════════════════════════
+
+task_routing:
+  analytics_setup: ["DG-FW-002", "DG-FW-006"]
+  dashboard_design: ["DG-FW-005", "DG-MET-003"]
+  web_analysis: ["DG-FW-001", "DG-FW-003"]
+  pmf_validation: ["DG-FW-012", "DG-MET-005"]
+  growth_experiments: ["DG-FW-013", "DG-FW-016"]
+  viral_mechanics: ["DG-FW-018", "DG-MET-007"]
+  onboarding_optimization: ["DG-FW-017", "DG-MET-006"]
+  customer_segmentation: ["DG-FW-007", "DG-FW-008", "DG-MET-004"]
+  clv_analysis: ["DG-FW-009", "DG-FW-011"]
+  retention_strategy: ["DG-FW-025", "DG-FW-026", "DG-MET-017"]
+  churn_prevention: ["DG-MET-013", "DG-FW-027"]
+  cs_operations: ["DG-FW-024", "DG-MET-012"]
+  audience_building: ["DG-FW-019", "DG-FW-022", "DG-MET-008"]
+  course_design: ["DG-FW-021", "DG-MET-009"]
+  content_strategy: ["DG-FW-023", "DG-MET-011"]
+  community_launch: ["DG-FW-029", "DG-MET-015"]
+  community_measurement: ["DG-FW-034", "DG-MET-016"]
+  community_engagement: ["DG-FW-032", "DG-FW-033"]
+  nrr_optimization: ["DG-FW-026", "DG-MET-012"]
+  corporate_valuation: ["DG-FW-009", "DG-MET-004"]
+
+# ═══════════════════════════════════════════════════════════════════════════════
+# SIGNATURE VOCABULARY
+# ═══════════════════════════════════════════════════════════════════════════════
+
+vocabulario:
+  kaushik: ["so what?", "10/90", "DMMM", "see-think-do-care", "data puking", "HiPPO", "vanity metrics", "economic value", "segment"]
+  fader: ["CLV", "whale curve", "BG/NBD", "CBCV", "customer centricity", "heterogeneity", "probability model", "platinum/gold/silver/bronze"]
+  ellis: ["PMF", "40% test", "ICE score", "north star metric", "AARRR", "growth machine", "aha moment", "K-factor", "viral loop", "experiment velocity"]
+  kao: ["spiky POV", "rigorous thinking", "CBC", "cohort-based", "active learning", "content pillars", "steel-man", "building in public"]
+  mehta: ["NRR", "health score", "10 laws", "CS maturity", "proactive", "QBR", "onboarding", "expansion revenue", "renewal"]
+  spinks: ["SPACES", "community-led", "engagement ladder", "1% rule", "belonging", "founding members", "rituals", "member-to-member"]
+  datum: ["route to", "confidence level", "cross-reference", "quality review", "stage-appropriate"]
+
+# ═══════════════════════════════════════════════════════════════════════════════
+# METRICS CATALOG
+# ═══════════════════════════════════════════════════════════════════════════════
+
+metrics_catalog:
+  acquisition:
+    - metrica: "CAC (Customer Acquisition Cost)"
+      formula: "Total acquisition spend / New customers"
+      benchmark: "CAC < CLV/3"
+      fonte: "fader/ellis"
+    - metrica: "Viral K-Factor"
+      formula: "Invites per user × Conversion rate"
+      benchmark: "K>1 exponential, 0.3-0.7 excellent"
+      fonte: "ellis"
+    - metrica: "Channel efficiency"
+      formula: "Revenue per channel / Cost per channel"
+      fonte: "kaushik"
+
+  activation:
+    - metrica: "Aha Moment Rate"
+      formula: "Users reaching aha moment / Total new users"
+      benchmark: "Correlates with long-term retention"
+      fonte: "ellis"
+    - metrica: "Onboarding Completion"
+      formula: "Users completing onboarding / Total new users"
+      benchmark: ">80% within 30 days"
+      fonte: "mehta"
+    - metrica: "Time to Value"
+      formula: "Time from signup to first value event"
+      benchmark: "Minimize — ideally within first session"
+      fonte: "ellis"
+
+  retention:
+    - metrica: "NRR (Net Revenue Retention)"
+      formula: "(Starting MRR + Expansion - Contraction - Churn) / Starting MRR"
+      benchmark: "<100% shrinking, 110-130% strong, >130% elite"
+      fonte: "mehta"
+    - metrica: "Customer Health Score"
+      formula: "Product Usage (30-40%) + Support (15-20%) + Engagement (15-20%) + Outcomes (20-30%)"
+      benchmark: "Green >70, Yellow 40-70, Red <40"
+      fonte: "mehta"
+    - metrica: "Churn Rate"
+      formula: "Lost customers / Total customers (period)"
+      benchmark: "Lagging — use health score for leading"
+      fonte: "mehta"
+    - metrica: "CBC Completion Rate"
+      formula: "Students completing / Students enrolled"
+      benchmark: "85%+ target (vs 3-10% self-paced)"
+      fonte: "kao"
+
+  revenue:
+    - metrica: "CLV (Customer Lifetime Value)"
+      formula: "BG/NBD projected or ARPU × Avg Lifetime"
+      benchmark: "CLV > 3× CAC"
+      fonte: "fader"
+    - metrica: "Expansion Revenue"
+      formula: "Upsell + Cross-sell from existing customers"
+      benchmark: "Grows NRR above 100%"
+      fonte: "mehta"
+    - metrica: "Customer Equity"
+      formula: "Sum of all customer CLVs"
+      benchmark: "True company valuation"
+      fonte: "fader"
+
+  referral:
+    - metrica: "Referral Rate"
+      formula: "Customers who refer / Total customers"
+      fonte: "ellis"
+    - metrica: "Viral Cycle Time"
+      formula: "Time from user signup to their referral's signup"
+      benchmark: "Shorter = faster growth"
+      fonte: "ellis"
+
+  community:
+    - metrica: "Activity Rate"
+      formula: "Active members / Total members"
+      benchmark: ">20% healthy, <20% crisis"
+      fonte: "spinks"
+    - metrica: "Response Rate"
+      formula: "Posts with replies / Total posts"
+      benchmark: ">50% healthy, <50% review needed"
+      fonte: "spinks"
+    - metrica: "Member-to-Member Ratio"
+      formula: "Member interactions / Staff interactions"
+      benchmark: "3:1 at maturity"
+      fonte: "spinks"
+    - metrica: "Engagement Depth"
+      formula: "Actions per active member per month"
+      fonte: "spinks"
+
+  education:
+    - metrica: "NPS (Net Promoter Score)"
+      formula: "% Promoters - % Detractors"
+      benchmark: "70+ for CBC"
+      fonte: "kao"
+    - metrica: "Active Learning Ratio"
+      formula: "Active exercises / Total content"
+      benchmark: "80/20 active/passive"
+      fonte: "kao"
+    - metrica: "Cohort Revenue"
+      formula: "Students × Price per cohort"
+      benchmark: "$500-5000+ per student"
+      fonte: "kao"
+
+  customer_value:
+    - metrica: "Whale Curve Concentration"
+      formula: "Revenue from top 20% / Total revenue"
+      benchmark: "Top 20% = 150-300% of profits"
+      fonte: "fader"
+    - metrica: "CLV Tier Distribution"
+      formula: "% of base in Platinum/Gold/Silver/Bronze"
+      benchmark: "5/15/30/50%"
+      fonte: "fader"
+
+# ═══════════════════════════════════════════════════════════════════════════════
+# PRODUCTIVE TENSIONS
+# ═══════════════════════════════════════════════════════════════════════════════
+
+productive_tensions:
+  - tensao: "Acquisition volume vs Customer quality"
+    polo_a: "Ellis — grow fast, optimize later"
+    polo_b: "Fader — acquire right customers, not more customers"
+    resolucao: "Validate PMF first (Ellis), then optimize for high-CLV segments (Fader)"
+
+  - tensao: "Data-driven vs Speed of execution"
+    polo_a: "Kaushik — measure everything, segment deeply"
+    polo_b: "Ellis — speed over precision, ship fast"
+    resolucao: "Ellis for experiments, Kaushik for strategic decisions and reporting"
+
+  - tensao: "Scale vs Intimacy in education"
+    polo_a: "Self-paced scales infinitely but 3-10% completion"
+    polo_b: "CBC transforms deeply but caps at 20-50 per cohort"
+    resolucao: "Kao — use CBC for premium transformation, self-paced for awareness/top-of-funnel"
+
+  - tensao: "Community growth vs Community depth"
+    polo_a: "Grow membership fast for network effects"
+    polo_b: "Deepen engagement with existing members"
+    resolucao: "Spinks — depth first, then growth; belonging precedes scale"
+
+  - tensao: "Proactive CS investment vs Cost efficiency"
+    polo_a: "Mehta — invest heavily in CS proactively"
+    polo_b: "Budget constraints limit CS headcount"
+    resolucao: "Mehta — focus CS investment on high-CLV segments (Fader whale curve); digital-touch for long tail"
+
+  - tensao: "Vanity metrics vs Actionable insights"
+    polo_a: "Reporting everything available (data puking)"
+    polo_b: "Reporting only what drives decisions"
+    resolucao: "Kaushik — kill vanity, max 15 KPIs, every metric must pass 'so what?' test"
+
+  - tensao: "Generic content for reach vs Spiky content for authority"
+    polo_a: "Broad content reaches more people"
+    polo_b: "Spiky POV attracts fewer but more qualified"
+    resolucao: "Kao — spiky always wins; generic is invisible in a crowded market"
