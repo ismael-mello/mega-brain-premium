@@ -6,10 +6,10 @@ fonte: "Russell Brunson"
 # INDEX: Russell Brunson Sources
 
 > **Fonte:** Russell Brunson
-> **Material:** Two Comma Club Coaching + 5 PDF Books + PWS + HTS + 7FS + DCS Ignite + Funnelology + Funnel Immersion + ITH + Webinar Blueprint + Funnel Hackers CookBook + Fast Product Development + Funnel Hacks System + 24hr Expert Story Selling + Funnel University DCS Labs + Funnel University Scripts + Funnel University 2016 Monthly + One Funnel Away Challenge + Funnel Hacker TV + OFA Week 1 Completion + Micro Continuity Course
-> **Programs:** 23 merged | 374 transcriptions + 5 PDFs + Cookbook (307p)
-> **DNA Elements:** 1.241 unique (L1:238 philosophies | L2:219 mental models | L3:374 heuristics | L4:248 frameworks | L5:155 methodologies)
-> **Ultima atualizacao:** 2026-03-10 (v24 - Funnel Hacker TV +100 | OFA W1 Completion +20)
+> **Material:** Two Comma Club Coaching + 5 PDF Books + PWS + HTS + 7FS + DCS Ignite + Funnelology + Funnel Immersion + ITH + Webinar Blueprint + Funnel Hackers CookBook + Fast Product Development + Funnel Hacks System + 24hr Expert Story Selling + Funnel University DCS Labs + Funnel University Scripts + Funnel University 2016 Monthly + One Funnel Away Challenge + Funnel Hacker TV + OFA Week 1 Completion + Micro Continuity Course + OMG Funnels Event
+> **Programs:** 24 merged | 377 transcriptions + 5 PDFs + Cookbook (307p)
+> **DNA Elements:** 1.257 unique (L1:241 philosophies | L2:222 mental models | L3:379 heuristics | L4:251 frameworks | L5:157 methodologies)
+> **Ultima atualizacao:** 2026-03-10 (v25 - OMG Funnels Event +16)
 
 ---
 
@@ -30,6 +30,7 @@ fonte: "Russell Brunson"
 | 06 | [06-HIGH-TICKET-SECRETS](06-HIGH-TICKET-SECRETS.md) | Call Center Setup, Setter-Closer Scripts, Application Funnel, 3-Person Sales Process, 4 Commitments, OPM Framework, Traffic (Email+FB) | PHI-RB-HTS-001/002/003/004/005, MM-RB-HTS-001/002/003/004, HEUR-RB-HTS-001/002/003/004/005/006/007, FW-RB-HTS-001/002/003/004/005/006, MET-RB-HTS-001/002 | 5/5 |
 | 07 | [07-FUNNEL-HACKERS-COOKBOOK](07-FUNNEL-HACKERS-COOKBOOK.md) | 22 Funnel Types Taxonomy, 15 Page Types, Page Element Recipes, Funnel Selection Matrix, Summit/Hero/Daily Deal Funnels, Cookbook Building Method | PHI-RB-FHC-001-005, MM-RB-FHC-001-007, HEUR-RB-FHC-001-011, FW-RB-FHC-001-010, MET-RB-FHC-001-005 | 4/5 |
 | 08 | [16-FUNNEL-HACKS-SYSTEM](16-FUNNEL-HACKS-SYSTEM.md) | Attractive Character (4 Elements, 6 Storylines), 8 Sales Scripts, Inception Selling, Belief Destruction, Supplement Funnels, Coaching App Funnel, Micro Continuity | PHI-RB-FHS-001+, MM-RB-FHS-001+, HEUR-RB-FHS-001+, FW-RB-FHS-001+, MET-RB-FHS-001+ | 5/5 |
+| 29 | [29-OMG-FUNNELS-EVENT](29-OMG-FUNNELS-EVENT.md) | NeuroCell $500K/mo Funnel Anatomy (7-phase evolution), 5-Step Classic Funnel Template, 8-Page Coaching Value Ladder, Whiteboard Planning Methodology, ClickFunnels tech stack replacement economics | PHI-RB-OMG-001/002/003, MM-RB-OMG-001/002/003, HEUR-RB-OMG-001/002/003/004/005, FW-RB-OMG-001/002/003, MET-RB-OMG-001/002 | 4/5 |
 
 ---
 
