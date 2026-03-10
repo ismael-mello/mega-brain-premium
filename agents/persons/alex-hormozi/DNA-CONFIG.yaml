@@ -19,11 +19,11 @@
 # ═══════════════════════════════════════════════════════════════════════════════
 
 cargo: "ALEX-HORMOZI"
-versao: "1.0.0"
+versao: "2.0.0"
 nivel: "PERSON"
 natureza: "SOLO"
 data_criacao: "2026-03-02"
-ultima_atualizacao: "2026-03-02"
+ultima_atualizacao: "2026-03-11"
 
 # ═══════════════════════════════════════════════════════════════════════════════
 # CONSTITUICAO (Layer 1 - Principios compartilhados)
@@ -89,6 +89,14 @@ dna_sources:
         - "closing"
         - "outbound"
         - "leadership"
+        - "advertising"
+        - "content"
+        - "hooks"
+        - "launch"
+        - "retention"
+        - "workshop"
+        - "business-models"
+        - "diagnostics"
       peso: 1.0
       quando_usar: "SEMPRE - fonte unica do agente SOLO"
       materiais_fonte:
@@ -128,20 +136,49 @@ dna_sources:
           tipo: "pipeline-batch"
           chunks_usados: 148
 
+  # ───────────────────────────────────────────────────────────────────────────
+  # FONTE SECUNDARIA (enrichment via AIOS)
+  # ───────────────────────────────────────────────────────────────────────────
+
+  secundario:
+    - pessoa: "alex-hormozi"
+      path: "/knowledge/sources/aios-squads/01-HORMOZI-SQUAD.md"
+      raiz: "/knowledge/sources/aios-squads/raw/hormozi-squad/"
+      dominios_usados:
+        - "advertising"
+        - "content"
+        - "hooks"
+        - "launch"
+        - "retention"
+        - "workshop"
+        - "business-models"
+        - "scaling"
+        - "offers"
+        - "closing"
+        - "operations"
+        - "diagnostics"
+      peso: 0.70
+      quando_usar: "Validação cruzada e domínios não cobertos por fontes primárias"
+      materiais_fonte:
+        - titulo: "AIOS Hormozi-Squad (16 curated agents)"
+          source_id: "AIOS-HORMOZI"
+          tipo: "curated-agent-system"
+          elements: 158
+
 # ═══════════════════════════════════════════════════════════════════════════════
 # ESTATISTICAS DO DNA
 # ═══════════════════════════════════════════════════════════════════════════════
 
 dna_statistics:
-  total_unique_elements: 260
+  total_unique_elements: 418
   by_layer:
-    L1_PHILOSOPHIES: 37
-    L2_MENTAL_MODELS: 30
-    L3_HEURISTICS: 83
-    L4_FRAMEWORKS: 63
-    L5_METHODOLOGIES: 47
+    L1_PHILOSOPHIES: 64
+    L2_MENTAL_MODELS: 61
+    L3_HEURISTICS: 118
+    L4_FRAMEWORKS: 94
+    L5_METHODOLOGIES: 81
   total_chunks_referenciados: 250
-  total_fontes: 7
+  total_fontes: 8
   peso_medio_geral: 0.88
   itens_peso_alto:
     total: 210
@@ -220,11 +257,11 @@ regras_especificas:
 #
 # CHECKLIST antes de publicar:
 # [x] Fonte primaria tem raiz com path para inbox
-# [x] Todos os 7 materiais listados como materiais_fonte
+# [x] Todos os 8 fontes listadas (7 primario + 1 secundario)
 # [x] Heuristicas prioritarias tem fonte e source_id
 # [x] Restricoes tem fonte
-# [x] Estatisticas conferem com CONFIG.yaml (260 elementos)
+# [x] Estatisticas conferem com CONFIG.yaml (418 elementos)
 #
 # ═══════════════════════════════════════════════════════════════════════════════
 
-# Fim do DNA-CONFIG.yaml v1.0.0 - Alex Hormozi (SOLO Agent)
+# Fim do DNA-CONFIG.yaml v2.0.0 - Alex Hormozi (SOLO Agent)

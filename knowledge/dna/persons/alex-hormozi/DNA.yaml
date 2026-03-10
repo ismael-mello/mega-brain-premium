@@ -1,0 +1,2186 @@
+# knowledge/dna/persons/alex-hormozi/DNA.yaml
+# Unified DNA Format v1 - Migrated from legacy 5-yaml format
+# Migration date: 2026-03-02
+# Source: FILOSOFIAS.yaml, MODELOS-MENTAIS.yaml, HEURISTICAS.yaml, FRAMEWORKS.yaml, METODOLOGIAS.yaml, CONFIG.yaml
+# Note: CONFIG.yaml claimed 260 elements but legacy files contained 59 actual items.
+#       The v3.0.0 BATCH-127/128 enrichments were tracked in CONFIG but never written to layer files.
+
+person:
+  name: "Alex Hormozi"
+  source: "Acquisition.com founder, $100M+ portfolio. Sales systems, HR philosophy, scaling frameworks."
+  version: "1.0.0-unified"
+  legacy_version: "3.0.0"
+  migration_date: "2026-03-02"
+
+metadata:
+  total_elements: 59
+  total_insights_processed: 260
+  total_chunks_referenced: 250
+  weight_average: 0.88
+  high_weight_items: 48
+  high_weight_percentage: 81
+
+  sources:
+    - id: "AH-SS001"
+      title: "How I Scaled My Sales Team [Taki Moore Mastermind]"
+      chunks: 30
+    - id: "AH-HR001"
+      title: "The Role of HR"
+      chunks: 5
+    - id: "AH-CP001"
+      title: "$100M Closing Playbook"
+      chunks: 20
+    - id: "AH-ML001"
+      title: "$100M Money Models - MASTER DOC"
+      chunks: 25
+    - id: "AH-YT"
+      title: "Alex Hormozi YouTube (19 videos)"
+      chunks: 19
+      insights: 30
+    - id: "BATCH-127"
+      title: "CLOSER Framework + Team Scaling"
+      chunks: 112
+    - id: "BATCH-128"
+      title: "No-Based Questions + Core Four + Price Raising"
+      chunks: 148
+
+  connections:
+    complements:
+      - person: "Cole Gordon"
+        on: "Inner game e técnicas de fechamento"
+        note: "Cole tem mais profundidade em scripts e tonalidade"
+      - person: "Jeremy Haynes"
+        on: "Show rate optimization"
+        note: "Jeremy tem táticas mais detalhadas de nurturing"
+      - person: "Jeremy Miner"
+        on: "NEPQ objection handling overlaps"
+        note: "Jeremy Miner tem abordagem de perguntas que complementa No-Based Questions"
+    tensions:
+      - person: "Sam Oven"
+        on: "DFY vs DWY"
+        note: "Sam favorece DWY para liberdade, Hormozi favorece DFY para scale"
+    aligns:
+      - person: "Jordan Lee"
+        on: "Hiring philosophy"
+        note: "Ambos preferem competência sobre experiência"
+
+  voice:
+    style: "direto, provocativo, sem rodeios"
+    formality: "informal, conversacional"
+    humor: "ocasional, geralmente auto-depreciativo ou sarcástico"
+    stories: "frequente - pessoal, de sua própria jornada e erros"
+    objection_response: "confronto direto com lógica e dados"
+
+    vocabulary_use:
+      - "Farm System (nunca 'treinar vendedores')"
+      - "The Bigs (nivel de closer)"
+      - "cut their teeth (aprender na dor)"
+      - "channel-independent (nao depender de um canal)"
+      - "the math / the numbers (nunca 'eu acho')"
+      - "pure meritocracy"
+      - "sell the vacation, not the plane"
+      - "numeros EXATOS ($15k, 60%, 12-14 meses)"
+      - "analogias de baseball (Double A, Triple A)"
+
+    vocabulary_avoid:
+      - "'eu acho' ou 'talvez' (sempre certeza com dados)"
+      - "desculpas ou justificativas"
+      - "linguagem suave ou politicamente correta"
+      - "'tentar' (ou faz ou nao faz)"
+      - "eufemismos para incompetencia"
+
+    signature_phrases:
+      - "No killer starts cold and gets good."
+      - "The wealthiest people in the world: 'I've been doing the same thing for 40 years.'"
+      - "Outbound is impossible to break."
+      - "Play to win, not play not to lose."
+      - "What am I holding onto that I need to give up?"
+      - "Pure meritocracy - the numbers don't lie."
+      - "This is a winners' environment. If you are not a winner, you will not be here very long."
+      - "Operators get burned out, business owners get rich."
+
+    argumentation_pattern: |
+      1. Afirmacao provocativa/contrarian (chamar atencao)
+      2. Dado ou numero que comprova (the math)
+      3. Analogia memoravel (Farm System, baseball, etc)
+      4. Implicacao para VOCE (o que isso significa pra acao)
+      5. Chamada de acao direta (faca isso)
+
+  synthesis:
+    one_liner: "Construir máquinas de vendas impossíveis de quebrar através de processos sistemáticos e meritocracia brutal."
+    core_question: "O que estou segurando que preciso largar para crescer?"
+    greatest_contribution: "Farm System - sistema de desenvolvimento de vendedores que transforma close rate de 25% para 60%."
+    blind_spot: "Pode subestimar o custo humano de culturas muito exigentes."
+    declared_bias: "Favorece outbound sobre paid ads por questões de channel-independence e valuation para PE."
+
+  proprietary_terms:
+    - term: "Farm System"
+      meaning: "Sistema de desenvolvimento interno de vendedores, analogia do baseball"
+    - term: "Christmas Tree Structure"
+      meaning: "Estrutura org de vendas outbound (base larga BDRs, meio SDS, topo BC)"
+    - term: "The Bigs"
+      meaning: "Nível de closer no Farm System (equivalente às ligas principais)"
+    - term: "Double A / Triple A"
+      meaning: "Níveis de BDR e SDS no Farm System"
+    - term: "Sell the vacation, not the plane"
+      meaning: "Vender o resultado/destino, não o processo/método"
+    - term: "Cut their teeth"
+      meaning: "Aprender fazendo trabalho difícil no início"
+
+  agents_consuming:
+    - path: "/agents/cargo/c-level/cro/"
+      weight: 0.80
+    - path: "/agents/cargo/c-level/cfo/"
+      weight: 0.65
+    - path: "/agents/cargo/sales/sales-manager/"
+      weight: 0.82
+    - path: "/agents/cargo/sales/closer/"
+      weight: 0.75
+
+# ═══════════════════════════════════════════════════════════════════════════════
+# LAYER 1: PHILOSOPHIES (8 items)
+# ═══════════════════════════════════════════════════════════════════════════════
+
+layers:
+  L1_PHILOSOPHIES:
+    count: 8
+    items:
+      - id: "FIL-AH-001"
+        title: "Outbound é Indestrutível"
+        statement: "Outbound sales é impossível de quebrar. Se Facebook shuts you down, phone still works."
+        weight: 0.95
+        domains: ["sales-structure", "scaling", "exit-strategy"]
+        insight_id: "OB003"
+        implications:
+          do:
+            - "Investir em outbound mesmo que leve 12-14 meses para maturar"
+            - "Construir independência de canal antes de tentar exit"
+            - "Valorizar a estabilidade sobre a velocidade de escala"
+          avoid:
+            - "Desistir de outbound antes dos 12 meses"
+            - "Depender exclusivamente de paid ads"
+            - "Subestimar o valor de PE/acquirers em ter outbound"
+        conflicts: ["Pressão por resultados rápidos pode conflitar com timeline de 12-14 meses"]
+        evidence:
+          - quote: "The outbound process takes significantly longer than most people expect. That being said, it's part of the reason that private equity and potential acquirers will value it - because it is this sturdy machine."
+            chunk_id: "chunk_198"
+            source_id: "AH-SS001"
+          - quote: "The beautiful part about this model is that it takes a long time to build and it also is impossible to break."
+            chunk_id: "chunk_212"
+            source_id: "AH-SS001"
+
+      - id: "FIL-AH-002"
+        title: "HR Serve a Empresa"
+        statement: "O cliente do HR é A EMPRESA, não os funcionários. Funcionários são responsáveis pela própria felicidade."
+        weight: 0.85
+        domains: ["hr-philosophy", "organizational-culture", "compensation"]
+        insight_id: "HR001"
+        implications:
+          do:
+            - "Proteger a empresa em decisões de HR"
+            - "Focar em performance, não em felicidade"
+            - "Deixar claro os três stakeholders (shareholders, customers, employees)"
+          avoid:
+            - "Transformar HR em departamento de felicidade"
+            - "Priorizar conforto do funcionário sobre resultados"
+            - "Confundir role de HR com assistência social"
+        conflicts: ["Pode parecer insensível em culturas mais empáticas", "Risco de burnout se aplicado sem equilíbrio"]
+        evidence:
+          - quote: "Your job is NOT to make employees happy. Employees responsible for own happiness. HR's customer = THE COMPANY, not employees."
+            chunk_id: "AH002_002"
+            source_id: "AH-HR001"
+
+      - id: "FIL-AH-003"
+        title: "Pague o Mínimo pelo Máximo Valor"
+        statement: "Goal = pay as little as possible for as much value as possible. Só pague mais se tiver problema em atrair OU reter."
+        weight: 0.80
+        domains: ["compensation", "hr-philosophy", "unit-economics"]
+        insight_id: "HR003"
+        implications:
+          do:
+            - "Monitorar métricas de atração e retenção"
+            - "Aumentar salário apenas quando dados indicarem necessidade"
+            - "Focar em criar valor desproporcional com star employees"
+          avoid:
+            - "Aumentos automáticos sem análise de mercado"
+            - "Benchmark salarial apenas por benchmark"
+            - "Gastar recursos de compensação de forma uniforme"
+        conflicts: ["Pode perder talentos para concorrentes que pagam mais"]
+        evidence:
+          - quote: "Only pay more if: 1) trouble attracting talent, OR 2) trouble retaining talent. Otherwise, pay is fine."
+            chunk_id: "AH002_004"
+            source_id: "AH-HR001"
+
+      - id: "FIL-AH-004"
+        title: "Meritocracia Pura"
+        statement: "Pure meritocracy - the numbers don't lie. Promoção por HABILIDADE, não por tempo."
+        weight: 0.90
+        domains: ["compensation", "hiring", "organizational-culture"]
+        insight_id: "FS003"
+        implications:
+          do:
+            - "Criar métricas objetivas para promoção"
+            - "Publicar critérios claros de progressão"
+            - "Celebrar resultados, não tempo de casa"
+          avoid:
+            - "Promoções automáticas por tempo"
+            - "Aumentos baseados em política"
+            - "Favoritismo ou nepotismo"
+        conflicts: ["Pode criar ambiente competitivo demais"]
+        evidence:
+          - quote: "What job in the world can you go from zero to $200,000 a year in nine to twelve months with no degree? Here you can because we're pure meritocracy and the numbers don't lie."
+            chunk_id: "chunk_217"
+            source_id: "AH-SS001"
+          - quote: "Get promoted ABILITY, not automatic. 10 deals trial at BC level."
+            chunk_id: "AH001_006"
+            source_id: "AH-SS001"
+
+      - id: "FIL-AH-005"
+        title: "Ambiente de Vencedores"
+        statement: "High performance culture é lugar perigoso pra trabalhar. Se você é winner, vai amar. Se não é, não vai durar."
+        weight: 0.85
+        domains: ["organizational-culture", "hiring", "hr-philosophy"]
+        insight_id: "CC001"
+        implications:
+          do:
+            - "Criar cultura que se auto-reforça via core team"
+            - "Deixar claro expectations na contratação"
+            - "Remover low performers rapidamente"
+          avoid:
+            - "Tolerar mediocridade por medo de turnover"
+            - "Suavizar a cultura para agradar todos"
+            - "Confundir cultura exigente com cultura tóxica sem propósito"
+        conflicts: ["Risco de burnout", "Pode parecer tóxico sem contexto"]
+        evidence:
+          - quote: "Gym Launch é um lugar perigoso pra trabalhar. Se você entra e sobe no trem, vai aprender mais do que nunca. Mas você precisa performar."
+            chunk_id: "AH002_005"
+            source_id: "AH-HR001"
+
+      - id: "FIL-AH-006"
+        title: "Ninguém Começa Matador"
+        statement: "No killer starts cold and gets good. Closers são forjados pelo Farm System, não contratados prontos."
+        weight: 0.90
+        domains: ["hiring", "sales-structure", "training"]
+        insight_id: "FS001"
+        implications:
+          do:
+            - "Construir pipeline interno de talentos"
+            - "Valorizar o training system como asset"
+            - "Deixar novos passarem pelas dificuldades"
+          avoid:
+            - "Contratar closers prontos e caros de fora"
+            - "Poupar novatos das dificuldades"
+            - "Dar inbound leads para quem não cortou os dentes"
+        conflicts: ["Demora mais para ter closers prontos"]
+        evidence:
+          - quote: "The key point here is that the human resource training system itself becomes an asset to the business because we know that when someone works their way up from being a BDR all the way to a BC, they know how to close."
+            chunk_id: "chunk_213"
+            source_id: "AH-SS001"
+
+      - id: "FIL-AH-007"
+        title: "Largar para Crescer"
+        statement: "O que estou segurando que preciso largar? Cada nível de crescimento exige abrir mão de algo."
+        weight: 0.85
+        domains: ["scaling", "leadership", "delegation"]
+        insight_id: "GL002"
+        implications:
+          do:
+            - "Identificar o que você está segurando"
+            - "Delegar antes de estar 100% confortável"
+            - "Aceitar que sua função muda a cada estágio"
+          avoid:
+            - "Acumular funções indefinidamente"
+            - "Ser indispensável em operações"
+            - "Achar que você é a exceção"
+        conflicts: ["Ego pode dificultar o desapego"]
+        evidence:
+          - quote: "'What am I holding onto that I need to give up?' Key question at each growth level."
+            chunk_id: "AH001_012"
+            source_id: "AH-SS001"
+
+      - id: "FIL-AH-008"
+        title: "Consistência Vence Intensidade"
+        statement: "The wealthiest people in the world: 'I've been doing the same thing for 40 years.' That's the secret."
+        weight: 0.85
+        domains: ["wealth-building", "exit-strategy", "long-term-thinking"]
+        insight_id: "EX002"
+        implications:
+          do:
+            - "Escolher um jogo e jogá-lo por décadas"
+            - "Construir para compor, não para vender rápido"
+            - "Resistir à tentação de pivotar constantemente"
+          avoid:
+            - "Pular de oportunidade em oportunidade"
+            - "Vender na primeira oferta boa"
+            - "Confundir movimento com progresso"
+        conflicts: ["Pode parecer contrário à narrativa de exits rápidos"]
+        evidence:
+          - quote: "Buy, build, refinance - don't need to sell. Wealthiest people: 'I've been doing the same thing for 40 years.'"
+            chunk_id: "AH001_010"
+            source_id: "AH-SS001"
+
+  # ═══════════════════════════════════════════════════════════════════════════
+  # LAYER 2: MENTAL MODELS (6 items)
+  # ═══════════════════════════════════════════════════════════════════════════
+
+  L2_MENTAL_MODELS:
+    count: 6
+    items:
+      - id: "MM-AH-001"
+        title: "Christmas Tree Structure"
+        statement: "Visualizar a estrutura de vendas como árvore de Natal - base larga de BDRs, meio de SDS, topo estreito de closers."
+        weight: 0.95
+        domains: ["sales-structure", "hiring", "scaling"]
+        insight_id: "SS001"
+        analogy: "Org chart parece árvore de Natal - cada nível alimenta metade do próximo."
+        mechanism: "A base larga (BDRs) faz volume de calls e filtra. O meio (SDS) qualifica e entrega valor. O topo (closers) apenas fecha deals qualificados. 6 BDRs → 3 SDS → 1 BC."
+        trigger_questions:
+          - "Quantos BDRs preciso para alimentar meus closers?"
+          - "Onde está o gargalo na minha árvore?"
+          - "O topo está recebendo leads qualificados o suficiente?"
+        when_to_apply: ["Desenhando estrutura de time outbound", "Diagnosticando problemas de volume", "Planejando contratações"]
+        when_not_to_apply: ["Times muito pequenos (1-2 pessoas)", "Modelos puramente inbound"]
+        related_philosophy: "FIL-AH-006"
+        evidence:
+          - quote: "This looks like a Christmas tree if you were to look at the org chart. You've got the base of BDRs who feed half as many SDS, who then feed half as many BCs."
+            chunk_id: "chunk_202"
+            source_id: "AH-SS001"
+
+      - id: "MM-AH-002"
+        title: "Farm System (Baseball Analogy)"
+        statement: "Ver o desenvolvimento de vendedores como sistema de ligas menores do baseball - Double A, Triple A, The Bigs."
+        weight: 0.90
+        domains: ["hiring", "training", "sales-structure"]
+        insight_id: "FS001"
+        analogy: "BDRs são Double A, SDS são Triple A, closers são The Bigs."
+        mechanism: "Novatos entram na base (BDR) e são forjados. Sobem para SDS quando provam competência. Só chegam ao BC depois de cut their teeth. O sistema de treinamento vira ASSET."
+        trigger_questions:
+          - "Meu closer cortou os dentes em outbound?"
+          - "Tenho pipeline interno de talentos?"
+          - "Estou contratando prontos ou desenvolvendo?"
+        when_to_apply: ["Construindo time escalável", "Avaliando se closer está pronto", "Justificando investimento em treinamento"]
+        when_not_to_apply: ["Precisa de resultados em menos de 6 meses", "Time muito pequeno para ter níveis"]
+        related_philosophy: "FIL-AH-006"
+        evidence:
+          - quote: "My CEO was an ex-pro baseball player so we used the pro baseball player analogy a lot. We've got Double A, we've got Triple A, and we've got the Bigs."
+            chunk_id: "chunk_213"
+            source_id: "AH-SS001"
+
+      - id: "MM-AH-003"
+        title: "3 Stakeholders"
+        statement: "Ver toda empresa como tendo exatamente 3 stakeholders: shareholders, customers, employees - nessa ordem."
+        weight: 0.85
+        domains: ["hr-philosophy", "organizational-culture", "decision-making"]
+        insight_id: "HR002"
+        analogy: "Triângulo de stakeholders onde shareholders estão no topo, customers no meio, employees na base."
+        mechanism: "HR serve a EMPRESA (shareholders), não os employees. Employees servem os CUSTOMERS. Customers pagam, o que sustenta tudo."
+        trigger_questions:
+          - "Quem estou servindo com essa decisão?"
+          - "Essa ação beneficia shareholders ou employees?"
+          - "Isso melhora a experiência do customer?"
+        when_to_apply: ["Decisões de HR que conflitam com business", "Trade-offs entre felicidade e performance"]
+        when_not_to_apply: ["Contextos de compliance legal", "Situações de segurança do trabalho"]
+        related_philosophy: "FIL-AH-002"
+        evidence:
+          - quote: "HR's customer is THE COMPANY, not employees. 3 stakeholders: shareholders, customers, employees."
+            chunk_id: "AH002_003"
+            source_id: "AH-HR001"
+
+      - id: "MM-AH-004"
+        title: "Growth Levels"
+        statement: "Cada faixa de receita exige largar algo diferente. O founder deve mudar sua função a cada estágio."
+        weight: 0.90
+        domains: ["scaling", "leadership", "delegation"]
+        insight_id: "GL001"
+        analogy: "Escada onde cada degrau exige deixar algo pra trás antes de subir."
+        mechanism: "0-1M: Largar fulfillment. 1-10M: Largar sales. 10-30M: Largar marketing. 30-50M+: Largar liderança."
+        trigger_questions:
+          - "Em que nível estou hoje?"
+          - "O que estou segurando que preciso largar?"
+          - "Já deleguei o que deveria para este estágio?"
+        when_to_apply: ["Planejando próximo estágio de crescimento", "Sentindo sobrecarga como founder"]
+        when_not_to_apply: ["Startup muito early stage", "Negócio lifestyle sem intenção de escalar"]
+        related_philosophy: "FIL-AH-007"
+        evidence:
+          - quote: "Growth Levels: 0-1M (give up fulfillment), 1-10M (give up sales), 10-30M (give up marketing), 30-50M+ (give up leading)."
+            chunk_id: "AH001_012"
+            source_id: "AH-SS001"
+
+      - id: "MM-AH-005"
+        title: "BDR = Advertisement"
+        statement: "Mentalizar o BDR como substituição do anúncio pago. Ele compra atenção com ligações, não com dinheiro."
+        weight: 0.85
+        domains: ["sales-structure", "marketing", "unit-economics"]
+        insight_id: "SS002"
+        analogy: "Se Facebook Ads compra atenção com dólares, BDR compra atenção com dials."
+        mechanism: "BDR faz o que o anúncio faria: gerar interesse. Custo por show = $50 por BDR → equivalente ao CAC de ads. Diferença: outbound é impossível de desligar."
+        trigger_questions:
+          - "Quanto estou pagando por show via ads vs via BDR?"
+          - "Se meus ads pararem, tenho backup?"
+          - "Meus BDRs estão gerando shows a custo competitivo?"
+        when_to_apply: ["Comparando CAC entre canais", "Justificando investimento em outbound"]
+        when_not_to_apply: ["Ticket muito baixo (< $15k)", "Sem infraestrutura para cold calling"]
+        related_philosophy: "FIL-AH-001"
+        evidence:
+          - quote: "If you replace a BDR mentally with what an advertisement used to do, that's exactly how this functions."
+            chunk_id: "chunk_201"
+            source_id: "AH-SS001"
+
+      - id: "MM-AH-006"
+        title: "Venda a Praia, Não o Avião"
+        statement: "Vender o destino (outcome) e não o veículo (método). Cliente quer resultado, não processo."
+        weight: 0.85
+        domains: ["sales-process", "copywriting", "persuasion"]
+        insight_id: "CL002"
+        analogy: "Ninguém compra passagem aérea pelo avião. Compra pela praia, pelo vento, pelo status."
+        mechanism: "Na pitch, falar das árvores, do vento, do status. NÃO falar dos módulos, das calls de Zoom. Limitar a 3 pontos. Emoção vende, lógica justifica."
+        trigger_questions:
+          - "Estou vendendo o avião ou a praia?"
+          - "Minha pitch foca no outcome ou no método?"
+          - "Quantos pontos estou tentando fazer? (máx 3)"
+        when_to_apply: ["Estruturando pitch de vendas", "Criando materiais de marketing", "Treinando closers"]
+        when_not_to_apply: ["Cliente muito técnico que quer detalhes", "Fase de due diligence pós-interesse"]
+        evidence:
+          - quote: "Sell the vacation (trees, wind, status) not the plane (Zoom calls, modules). 3 points max (attention span)."
+            chunk_id: "AH001_005"
+            source_id: "AH-SS001"
+
+  # ═══════════════════════════════════════════════════════════════════════════
+  # LAYER 3: HEURISTICS (28 items)
+  # ═══════════════════════════════════════════════════════════════════════════
+
+  L3_HEURISTICS:
+    count: 28
+    items:
+      # --- NUMERIC THRESHOLD HEURISTICS ---
+      - id: "HEUR-AH-001"
+        title: "Ticket Mínimo Outbound"
+        rule: "Se ticket < $15k, não fazer outbound - unit economics não funcionam."
+        weight: 0.95
+        domains: ["pricing", "outbound", "unit-economics"]
+        insight_id: "OB002"
+        threshold: {value: 15000, operator: "<", unit: "USD"}
+        context: "Decidindo se vale investir em outbound sales."
+        action: "Aumentar ticket ou usar outro canal de aquisição."
+        exceptions: ["Produtos com LTV muito alto podem funcionar com ticket menor", "Upsell pipeline pode justificar CAC maior"]
+        related_philosophy: "FIL-AH-001"
+        evidence:
+          - quote: "If you want to do outbound, your ticket has to be at least 15,000 dollars. The unit economics don't really work otherwise."
+            chunk_id: "chunk_199"
+            source_id: "AH-SS001"
+
+      - id: "HEUR-AH-002"
+        title: "Conversão BDR"
+        rule: "100 dials → 20 pickups → 2 shows. Essa é a conversão esperada de BDR."
+        weight: 0.95
+        domains: ["sales-metrics", "outbound", "performance-management"]
+        insight_id: "SS003"
+        threshold: {value: 100, operator: "=", unit: "dials/dia"}
+        context: "Definindo metas de atividade para BDRs."
+        action: "Se abaixo de 2 shows por 100 dials, revisar script ou lista."
+        exceptions: ["Nichos diferentes podem ter taxas diferentes", "Listas frias vs warm podem variar"]
+        related_model: "MM-AH-001"
+        evidence:
+          - quote: "Those BDRs are required to make 100 calls a day... From those 100 calls they are expected to have two appointments that show."
+            chunk_id: "chunk_203"
+            source_id: "AH-SS001"
+          - quote: "From there you'll get your 100 dials, you'll get 20 to pick up (that's 1 in 5), and from the 20 we will have two who schedule and show."
+            chunk_id: "chunk_204"
+            source_id: "AH-SS001"
+
+      - id: "HEUR-AH-003"
+        title: "Diagnóstico Close Rate Outbound"
+        rule: "Se close rate < 10% em outbound, problema é qualificação (SDS), não closing."
+        weight: 0.90
+        domains: ["sales-metrics", "outbound", "diagnostics"]
+        insight_id: "SS003"
+        threshold: {value: 10, operator: "<", unit: "%"}
+        context: "Diagnosticando por que vendas outbound não estão fechando."
+        action: "Revisar processo de qualificação do SDS antes de treinar closers."
+        exceptions: ["Closers novos podem ter taxa temporariamente menor"]
+        related_model: "MM-AH-001"
+        evidence:
+          - quote: "For us we close 10% of scheduled SDS appointments."
+            chunk_id: "chunk_212"
+            source_id: "AH-SS001"
+
+      - id: "HEUR-AH-004"
+        title: "Call Block de 4 Horas"
+        rule: "4 horas de call block, não 8. Pessoas não conseguem cold call produtivamente por 8h."
+        weight: 0.90
+        domains: ["performance-management", "outbound", "efficiency"]
+        insight_id: "SS004"
+        threshold: {value: 4, operator: "=", unit: "horas"}
+        context: "Estruturando jornada de trabalho de BDRs."
+        action: "Contratar para blocos de 4h e pagar por performance, não por hora."
+        evidence:
+          - quote: "The way that we structure this is that they get four hours to work per day... His experience was that people cannot be productive for eight hours straight cold calling."
+            chunk_id: "chunk_203"
+            source_id: "AH-SS001"
+
+      - id: "HEUR-AH-005"
+        title: "OTE por Role"
+        rule: "BDR OTE = $40k, SDS OTE = $55-70k, BC OTE = $120-220k."
+        weight: 0.90
+        domains: ["compensation", "hiring", "sales-structure"]
+        insight_id: "CM002"
+        threshold: {value_min: 40000, value_max: 220000, operator: "range", unit: "USD/ano"}
+        context: "Definindo faixas salariais para time de vendas outbound."
+        action: "Atrair BDRs com visão do $200k lottery, não com o $40k inicial."
+        exceptions: ["Mercados diferentes podem ter OTEs diferentes"]
+        related_model: "MM-AH-002"
+        related_philosophy: "FIL-AH-004"
+        evidence:
+          - quote: "The BDRs do not get paid very much - on target earnings is 40 grand. How do you attract someone for $40,000? You attract them because the guys who win the lottery make $200,000 a year."
+            chunk_id: "chunk_216"
+            source_id: "AH-SS001"
+
+      - id: "HEUR-AH-006"
+        title: "Steam de Vendedor"
+        rule: "6-8 semanas de steam antes de vendedor desanimar. Criar milestones nesse intervalo."
+        weight: 0.90
+        domains: ["retention", "performance-management", "compensation"]
+        insight_id: "CM001"
+        threshold: {value_min: 6, value_max: 8, operator: "range", unit: "semanas"}
+        context: "Estruturando sistema de progressão para reter vendedores."
+        action: "Criar promoções/milestones a cada 6-8 semanas para manter engajamento."
+        related_model: "MM-AH-002"
+        related_philosophy: "FIL-AH-004"
+        evidence:
+          - quote: "A sales person has like six to eight weeks of steam in them before they start getting disheartened. So we created milestones."
+            chunk_id: "chunk_215"
+            source_id: "AH-SS001"
+
+      - id: "HEUR-AH-007"
+        title: "Timeline Outbound"
+        rule: "12-14 meses para outbound maturar. Desistir antes disso é não ter testado."
+        weight: 0.95
+        domains: ["outbound", "scaling", "patience"]
+        insight_id: "OB001"
+        threshold: {value_min: 12, value_max: 14, operator: "range", unit: "meses"}
+        context: "Avaliando se outbound está funcionando."
+        action: "Comprometer-se com no mínimo 12 meses antes de avaliar."
+        related_philosophy: "FIL-AH-001"
+        evidence:
+          - quote: "The first month we made one sale, second month two sales, third month four sales... We're now at month 14 and now it does about 45 sales a month."
+            chunk_id: "chunk_198"
+            source_id: "AH-SS001"
+
+      - id: "HEUR-AH-008"
+        title: "Estrutura SDS Call"
+        rule: "SDS call = 45min total: 30min value delivery + 15min transição para close."
+        weight: 0.85
+        domains: ["sales-process", "time-management", "scripts"]
+        insight_id: "SD001"
+        threshold: {value: 45, operator: "=", unit: "minutos"}
+        context: "Estruturando call de qualificação/valor."
+        action: "Deixar 15min dead time no final para transicionar para closer."
+        related_model: "MM-AH-001"
+        evidence:
+          - quote: "The SDS call is like 45 minutes - so it's 30 to do the thing, 15 to set the next deal."
+            chunk_id: "chunk_208"
+            source_id: "AH-SS001"
+
+      - id: "HEUR-AH-009"
+        title: "Unit Economics Referência"
+        rule: "$50 por show = CAC de $500 para 10% close rate."
+        weight: 0.90
+        domains: ["unit-economics", "compensation", "outbound"]
+        threshold: {value: 50, operator: "=", unit: "USD/show"}
+        context: "Calculando CAC de outbound."
+        action: "Se custo por show > $50, revisar eficiência de BDRs."
+        exceptions: ["Tickets maiores justificam CAC maior"]
+        related_model: "MM-AH-005"
+        evidence:
+          - quote: "They get 50 bucks for every show, so it's $500 in BDRs per close. Which for a $40,000 LTV is pretty cool."
+            chunk_id: "chunk_212"
+            source_id: "AH-SS001"
+
+      - id: "HEUR-AH-010"
+        title: "Farm System Close Rate"
+        rule: "Close rate 20-25% → 60% quando closer veio do Farm System."
+        weight: 0.95
+        domains: ["training", "sales-metrics", "hiring"]
+        insight_id: "FS002"
+        threshold: {before: 25, after: 60, operator: "improvement", unit: "%"}
+        context: "Avaliando valor do Farm System vs contratar closers prontos."
+        action: "Desenvolver closers internamente pelo Farm System."
+        related_model: "MM-AH-002"
+        related_philosophy: "FIL-AH-006"
+        evidence:
+          - quote: "Our inbound closing percentage went from 20-25% to 60%. Because they cut their teeth at the bottom."
+            chunk_id: "chunk_214"
+            source_id: "AH-SS001"
+
+      - id: "HEUR-AH-011"
+        title: "Star Employee Multiplier"
+        rule: "Star employees valem 3-5x output normal. Pagar desproporcionalmente para reter."
+        weight: 0.85
+        domains: ["compensation", "retention", "hr-philosophy"]
+        insight_id: "HR004"
+        threshold: {value_min: 3, value_max: 5, operator: "multiplier", unit: "x"}
+        context: "Decidindo quanto pagar para reter top performers."
+        action: "Identificar star employees e criar pacote desproporcional."
+        related_philosophy: "FIL-AH-003"
+        evidence:
+          - quote: "Star employees worth 3-5x normal output. Pay them disproportionately to retain."
+            chunk_id: "AH002_004"
+            source_id: "AH-HR001"
+
+      - id: "HEUR-AH-012"
+        title: "Net de Exit"
+        rule: "$100M sale = ~$40M net após seller note, earnout, equity roll, broker 4%, capital gains 20%."
+        weight: 0.90
+        domains: ["exit-strategy", "wealth-building", "financial-planning"]
+        insight_id: "EX001"
+        threshold: {value: 40, operator: "=", unit: "% net"}
+        context: "Planejando exit e entendendo valor real de venda."
+        action: "Calcular net real antes de definir preço-alvo de exit."
+        evidence:
+          - quote: "$100M sale = ~$40M net after: seller note, earnout, equity roll, broker 4%, bonuses, capital gains 20%, escrow."
+            chunk_id: "AH001_010"
+            source_id: "AH-SS001"
+
+      - id: "HEUR-AH-017"
+        title: "MAYBE Bucket"
+        rule: "MAYBE bucket = 60% dos leads = onde o dinheiro é feito."
+        weight: 0.95
+        domains: ["lead-nurturing", "qualification", "sales-strategy"]
+        insight_id: "AH-CP001_004"
+        threshold: {value: 60, operator: "=", unit: "%"}
+        context: "Alocando tempo e esforço de nurture/closing."
+        action: "Focar energia no MAYBE bucket, não no YES que já vai comprar."
+        evidence:
+          - quote: "The MAYBE bucket is 60% of your audience - this is where the money is made."
+            chunk_id: "AH-CP001_004"
+            source_id: "AH-CP001"
+
+      - id: "HEUR-AH-019"
+        title: "Asks por Call"
+        rule: "Top performers pedem fechamento 5-7x por call. Medianos pedem 1-2x."
+        weight: 0.95
+        domains: ["closing", "sales-training", "performance-metrics"]
+        insight_id: "SP-AH010"
+        threshold: {value_min: 5, value_max: 7, operator: "range", unit: "asks/call"}
+        context: "Treinando closers para aumentar taxa de fechamento."
+        action: "Contar asks por call e treinar para aumentar frequência."
+        evidence:
+          - quote: "Vendedores medianos pedem 1-2x, top performers pedem 5-7x por call."
+            chunk_id: "AH-YT007_001"
+            source_id: "AH-YT007"
+
+      - id: "HEUR-AH-020"
+        title: "Cortar Bottom 10%"
+        rule: "Cortar bottom 10% consistentemente. Manter padrão de excelência é mais importante que evitar turnover."
+        weight: 0.90
+        domains: ["performance-management", "team-building", "hr-philosophy"]
+        insight_id: "TS-AH003"
+        threshold: {value: 10, operator: "bottom", unit: "% do time"}
+        context: "Gerenciando performance de time de vendas."
+        action: "Implementar revisão mensal/trimestral e remover consistentemente os 10% piores."
+        exceptions: ["Times muito pequenos usar critério absoluto", "Considerar ramp-up para novos"]
+        related_model: "MM-AH-002"
+        related_philosophy: "FIL-AH-004"
+        evidence:
+          - quote: "Corte do bottom 10%: eliminar consistentemente os piores performers mantém padrão de excelência."
+            chunk_id: "AH-YT011_001"
+            source_id: "AH-YT011"
+
+      - id: "HEUR-AH-021"
+        title: "Gravação 100%"
+        rule: "Gravar 100% das calls. Sem gravação = sem QC, sem treinamento, sem padrões."
+        weight: 0.90
+        domains: ["quality-control", "training", "sales-process"]
+        insight_id: "TS-AH002"
+        threshold: {value: 100, operator: "=", unit: "% das calls"}
+        context: "Estruturando processo de QC e treinamento."
+        action: "Implementar gravação obrigatória de todas as calls. Revisar amostra semanal."
+        exceptions: ["Regulações locais sobre consent podem exigir adaptação"]
+        evidence:
+          - quote: "Gravação de todas as calls é obrigatória - base para QC, treinamento e identificação de padrões."
+            chunk_id: "AH-YT011_001"
+            source_id: "AH-YT011"
+
+      - id: "HEUR-AH-023"
+        title: "Onboarding 2 Semanas"
+        rule: "Primeiras 2 semanas de onboarding definem sucesso. Intensidade máxima nesse período."
+        weight: 0.90
+        domains: ["onboarding", "hiring", "training"]
+        insight_id: "HT-AH002"
+        threshold: {value: 2, operator: "=", unit: "semanas"}
+        context: "Estruturando programa de onboarding para vendedores."
+        action: "Criar onboarding intensivo de 2 semanas. Acompanhamento diário."
+        evidence:
+          - quote: "Onboarding intenso: primeiras 2 semanas definem se o vendedor vai performar ou não."
+            chunk_id: "AH-YT010_001"
+            source_id: "AH-YT010"
+
+      # --- TEXTUAL/QUALITATIVE HEURISTICS ---
+      - id: "HEUR-AH-013"
+        title: "Diagnóstico Salarial"
+        rule: "Se funcionário não está atraindo ou retendo, não pague mais - salário está OK."
+        weight: 0.80
+        domains: ["compensation", "hr-philosophy"]
+        insight_id: "HR003"
+        context: "Decidindo se deve dar aumento para time."
+        action: "Verificar métricas de atração e retenção antes de aumentar."
+        evidence:
+          - quote: "Only pay more if: 1) trouble attracting talent, OR 2) trouble retaining talent. Otherwise, pay is fine."
+            chunk_id: "AH002_004"
+            source_id: "AH-HR001"
+
+      - id: "HEUR-AH-014"
+        title: "SDS = Ex-Cliente"
+        rule: "Se SDS não é ex-cliente ou domain expert, não vai conseguir mostrar expertise."
+        weight: 0.80
+        domains: ["hiring", "sales-structure"]
+        insight_id: "SD001"
+        context: "Contratando para posição de SDS."
+        action: "Buscar ex-clientes de sucesso para SDS roles."
+        evidence:
+          - quote: "The SDS for us almost exclusively is ex-clients. You have to show some domain expertise."
+            chunk_id: "chunk_208"
+            source_id: "AH-SS001"
+
+      - id: "HEUR-AH-015"
+        title: "Core Team Rejeita"
+        rule: "Se core team rejeita novo membro, remover. Cultura se auto-reforça."
+        weight: 0.75
+        domains: ["organizational-culture", "hiring"]
+        insight_id: "CC002"
+        context: "Avaliando fit de novo funcionário após onboarding."
+        action: "Escutar feedback do core team sobre novos membros."
+        evidence:
+          - quote: "Strong core team assimilates or rejects new members. Culture self-enforces."
+            chunk_id: "AH002_005"
+            source_id: "AH-HR001"
+
+      - id: "HEUR-AH-016"
+        title: "Conviction > Technique"
+        rule: "Conviction > Technique. Contratar por convicção, treinar técnica depois."
+        weight: 0.90
+        domains: ["hiring", "closing", "sales-philosophy"]
+        insight_id: "AH-CP001_001"
+        context: "Decidindo critérios para contratar closers."
+        action: "Buscar pessoas que acreditam genuinamente no produto."
+        evidence:
+          - quote: "Conviction beats technique every time. Hire for conviction, train for technique."
+            chunk_id: "AH-CP001_001"
+            source_id: "AH-CP001"
+
+      - id: "HEUR-AH-018"
+        title: "Onion of Blame"
+        rule: "Descartar objeções de 'circumstance' e 'others' - ir direto para o medo 'self'."
+        weight: 0.85
+        domains: ["objection-handling", "psychology", "closing"]
+        insight_id: "AH-CP001_003"
+        context: "Handling de objeções que parecem vagas."
+        action: "Quando prospect culpa circunstâncias ou outras pessoas, escavar mais fundo."
+        evidence:
+          - quote: "Onion of Blame: prospects blame circumstance first, then others, finally self. The real objection is always at the self layer."
+            chunk_id: "AH-CP001_003"
+            source_id: "AH-CP001"
+
+      - id: "HEUR-AH-022"
+        title: "Coachability #1"
+        rule: "Coachability é critério #1 para contratação. Supera experiência prévia."
+        weight: 0.95
+        domains: ["hiring", "sales-training", "team-building"]
+        insight_id: "HT-AH001"
+        context: "Entrevistando candidatos para posições de vendas."
+        action: "Testar coachability durante entrevista: dar feedback e observar reação."
+        related_model: "MM-AH-002"
+        related_philosophy: "FIL-AH-006"
+        evidence:
+          - quote: "Coachability é o critério #1 na seleção: capacidade de receber feedback e mudar supera experiência prévia."
+            chunk_id: "AH-YT010_001"
+            source_id: "AH-YT010"
+
+      - id: "HEUR-AH-024"
+        title: "Feedback em Rituais"
+        rule: "Feedback diário/semanal em rituais > feedback pontual esporádico."
+        weight: 0.80
+        domains: ["coaching", "performance-management", "leadership"]
+        insight_id: "HT-AH003"
+        context: "Estruturando sistema de feedback e coaching."
+        action: "Implementar rituais fixos: daily standup, weekly 1:1, review semanal de calls."
+        evidence:
+          - quote: "Cadência de feedback: rituais diários/semanais de revisão são mais efetivos que feedback pontual."
+            chunk_id: "AH-YT010_001"
+            source_id: "AH-YT010"
+
+      - id: "HEUR-AH-025"
+        title: "Consistência > Paixão"
+        rule: "Consistência > paixão. Tolerância à frustração é o motor real do sucesso."
+        weight: 0.85
+        domains: ["mindset", "performance", "hiring"]
+        insight_id: "MC-AH001"
+        context: "Avaliando candidatos e desenvolvendo mentalidade de time."
+        action: "Buscar histórico de persistência. Desconfiar de entusiasmo sem disciplina."
+        evidence:
+          - quote: "Consistência supera paixão: disciplina e tolerância à frustração são os motores reais do sucesso."
+            chunk_id: "AH-YT005_001"
+            source_id: "AH-YT005"
+
+      - id: "HEUR-AH-026"
+        title: "Manual Antes de Automatizar"
+        rule: "Dominar manualmente antes de automatizar. Proficiência precede escala."
+        weight: 0.85
+        domains: ["scaling", "operations", "systems"]
+        insight_id: "MC-AH002"
+        context: "Decidindo quando automatizar processos."
+        action: "Fazer manualmente até dominar. Só então sistematizar."
+        evidence:
+          - quote: "Proficiência antes de automação: dominar manualmente antes de escalar com sistemas."
+            chunk_id: "AH-YT005_001"
+            source_id: "AH-YT005"
+
+      - id: "HEUR-AH-027"
+        title: "Pricing Progressivo"
+        rule: "Começar gratuito/barato, aumentar preço conforme prova social acumula."
+        weight: 0.85
+        domains: ["pricing", "positioning", "go-to-market"]
+        insight_id: "LG-AH004"
+        context: "Definindo estratégia de pricing para produto novo."
+        action: "Primeiros clientes = gratuito ou barato. Coletar testemunhos. Aumentar progressivamente."
+        evidence:
+          - quote: "Aumento progressivo de preços: começar gratuito/barato, aumentar conforme prova social acumula."
+            chunk_id: "AH-YT008_001"
+            source_id: "AH-YT008"
+
+      - id: "HEUR-AH-028"
+        title: "Ancoragem de Preço"
+        rule: "Ancorar com preço alto antes de revelar preço real. Aumenta percepção de valor."
+        weight: 0.85
+        domains: ["pricing", "closing", "psychology"]
+        insight_id: "PO-AH001"
+        context: "Apresentando preço em call de vendas."
+        action: "Mostrar valor total (ancorar alto). Depois revelar preço real como desconto implícito."
+        evidence:
+          - quote: "Ancoragem e pré-pagamento: apresentar preço mais alto primeiro, depois revelar preço real."
+            chunk_id: "AH-YT014_001"
+            source_id: "AH-YT014"
+
+  # ═══════════════════════════════════════════════════════════════════════════
+  # LAYER 4: FRAMEWORKS (12 items)
+  # ═══════════════════════════════════════════════════════════════════════════
+
+  L4_FRAMEWORKS:
+    count: 12
+    items:
+      - id: "FW-AH-001"
+        title: "CLOSER Framework"
+        type: "sequence"
+        weight: 0.95
+        domains: ["sales-process", "scripts", "closing"]
+        insight_id: "CL001"
+        components:
+          - name: "C - Clarify"
+            description: "Clarificar por que estão na call"
+          - name: "L - Label"
+            description: "Nomear o outcome desejado"
+          - name: "O - Overview"
+            description: "Revisar dores passadas (pain cycle)"
+          - name: "S - Sell"
+            description: "Vender a praia, não o avião"
+          - name: "E - Explain"
+            description: "Explicar e trazer objeções (3 buckets)"
+          - name: "R - Reinforce"
+            description: "Reforçar a decisão após fechamento"
+        usage: "Seguir cada letra na ordem durante call de fechamento. Não pular fases."
+        when_to_use: ["Toda call de fechamento high-ticket", "Treinamento de novos closers"]
+        when_not_to_use: ["Calls de qualificação (SDS)", "Cold calls de BDR"]
+        evidence:
+          - quote: "CLOSER Framework: C-Clarify, L-Label outcome, O-Overview past pain, S-Sell vacation, E-Explain concerns, R-Reinforce decision"
+            chunk_id: "AH001_005"
+            source_id: "AH-SS001"
+
+      - id: "FW-AH-002"
+        title: "3 Buckets de Objeção"
+        type: "list"
+        weight: 0.90
+        domains: ["objection-handling", "sales-process", "closing"]
+        insight_id: "OF001"
+        components:
+          - name: "Decision Maker"
+            description: "Precisa consultar outra pessoa"
+            strategy: "Past agreements + 'ask forgiveness not permission'"
+          - name: "Price"
+            description: "Acha caro ou não tem dinheiro"
+            strategy: "Ancorar no valor, construir convicção"
+          - name: "Delay"
+            description: "Quer pensar, não é o momento"
+            strategy: "Best case/worst case, Decision Framework (3 Yes = go)"
+        usage: "Toda objeção cai em um desses 3 buckets. Identificar qual antes de responder."
+        when_to_use: ["Qualquer objeção em call de vendas", "Análise de calls perdidas"]
+        when_not_to_use: ["Objeções técnicas sobre o produto"]
+        evidence:
+          - quote: "3 Objection Buckets: Decision Maker, Price, Delay. Each has specific handling strategy."
+            chunk_id: "AH001_008"
+            source_id: "AH-SS001"
+
+      - id: "FW-AH-003"
+        title: "4 Levels por Role"
+        type: "progression"
+        weight: 0.90
+        domains: ["compensation", "career-path", "retention"]
+        insight_id: "CM001"
+        components:
+          - name: "Junior"
+            description: "Entrada, aprendendo basics"
+          - name: "Associate"
+            description: "Competente, precisa de supervisão"
+            requirement: "~50 shows (8 semanas)"
+          - name: "[Title]"
+            description: "Proficiente, trabalha independente"
+            requirement: "~100 shows"
+          - name: "Senior"
+            description: "Expert, elegível para promoção de role"
+            requirement: "~150+ shows"
+        usage: "Aplicar a cada role (BDR, SDS, BC). Bumps de título + pequeno bump de pay a cada nível."
+        when_to_use: ["Estruturando plano de carreira", "Definindo quando promover"]
+        evidence:
+          - quote: "Four levels of BDRs: Junior, Associate, BDR, Senior BDR. Same four step system applies to all levels."
+            chunk_id: "chunk_214"
+            source_id: "AH-SS001"
+
+      - id: "FW-AH-004"
+        title: "Growth Levels de Delegação"
+        type: "progression"
+        weight: 0.90
+        domains: ["scaling", "leadership", "delegation"]
+        insight_id: "GL001"
+        components:
+          - name: "0-1M"
+            description: "Dar fulfillment (delivery manual)"
+          - name: "1-10M"
+            description: "Dar sales (ensinar outros)"
+          - name: "10-30M"
+            description: "Dar marketing"
+          - name: "30-50M+"
+            description: "Dar liderança (virar recurso)"
+        usage: "Identificar em qual faixa está. Perguntar: 'O que estou segurando que preciso largar?'"
+        when_to_use: ["Planejando próximo estágio de crescimento", "Sentindo-se sobrecarregado"]
+        when_not_to_use: ["Negócio lifestyle sem intenção de escalar"]
+        evidence:
+          - quote: "Growth Levels: 0-1M (give up fulfillment), 1-10M (give up sales), 10-30M (give up marketing), 30-50M+ (give up leading)."
+            chunk_id: "AH001_012"
+            source_id: "AH-SS001"
+
+      - id: "FW-AH-005"
+        title: "Beta Process (Remover Founder)"
+        type: "sequence"
+        weight: 0.85
+        domains: ["scaling", "exit-strategy", "process-development"]
+        insight_id: "EX003"
+        components:
+          - name: "Ask clients problems"
+            description: "Perguntar aos clientes quais problemas estão tendo"
+          - name: "Top 1% roundtable"
+            description: "Reunir os top 1% clientes em roundtable"
+          - name: "Find common things"
+            description: "Encontrar coisas que TODOS os top performers fazem"
+          - name: "Consolidate solution"
+            description: "Consolidar em solução replicável"
+          - name: "Test on bottom 10%"
+            description: "Testar nos bottom 10% - se funcionar lá, funciona em qualquer lugar"
+        usage: "Criar processos que não dependem do founder. Processo gera inovação, não guru."
+        when_to_use: ["Preparando para exit", "Escalando operação", "Documentando best practices"]
+        when_not_to_use: ["Produto ainda em validação", "Base de clientes muito pequena"]
+        evidence:
+          - quote: "Beta Process for removing founder: top 1% roundtable → find common things ALL do → test on bottom 10%."
+            chunk_id: "AH001_011"
+            source_id: "AH-SS001"
+
+      - id: "FW-AH-006"
+        title: "3 Audience Buckets"
+        type: "list"
+        weight: 0.95
+        domains: ["qualification", "lead-nurturing", "sales-strategy"]
+        insight_id: "AH-CP001_004"
+        components:
+          - name: "YES Bucket (20%)"
+            description: "Já decidiram comprar - só precisam de confirmação"
+          - name: "NO Bucket (20%)"
+            description: "Nunca vão comprar - desqualificar rápido"
+          - name: "MAYBE Bucket (60%)"
+            description: "Não decidiram - AQUI está o dinheiro"
+        usage: "Identificar bucket do prospect ANTES de investir tempo. 60% são MAYBE = trabalho real do closer."
+        when_to_use: ["Qualificação inicial", "Estratégia de nurture", "Análise de pipeline"]
+        evidence:
+          - quote: "3 Audience Buckets: YES (20%), NO (20%), MAYBE (60%). The money is made in the MAYBE bucket."
+            chunk_id: "AH-CP001_004"
+            source_id: "AH-CP001"
+
+      - id: "FW-AH-007"
+        title: "STAR Qualification"
+        type: "list"
+        weight: 0.90
+        domains: ["discovery", "qualification", "sales-process"]
+        insight_id: "AH-CP001_002"
+        components:
+          - name: "S - Situation"
+            description: "Qual a situação atual do prospect?"
+          - name: "T - Task"
+            description: "O que ele está tentando fazer?"
+          - name: "A - Action"
+            description: "O que já tentou?"
+          - name: "R - Result"
+            description: "Qual resultado espera?"
+        usage: "Usar na discovery para mapear completamente o prospect."
+        when_to_use: ["Discovery calls (SDS)", "Início de call de fechamento"]
+        evidence:
+          - quote: "STAR Qualification: Situation, Task, Action, Result - use in discovery to fully map the prospect."
+            chunk_id: "AH-CP001_002"
+            source_id: "AH-CP001"
+
+      - id: "FW-AH-008"
+        title: "Onion of Blame (3 Camadas)"
+        type: "progression"
+        weight: 0.90
+        domains: ["objection-handling", "psychology", "closing"]
+        insight_id: "AH-CP001_003"
+        components:
+          - name: "Circumstance"
+            description: "Primeiro culpam as circunstâncias"
+            examples: ["O mercado está ruim", "A economia está difícil"]
+          - name: "Others"
+            description: "Depois culpam outras pessoas"
+            examples: ["Meu sócio não deixa", "Minha esposa não vai concordar"]
+          - name: "Self"
+            description: "Por último culpam a si mesmos"
+            examples: ["Talvez eu não consiga", "Não sei se tenho disciplina"]
+        usage: "Entender que objeções seguem esse padrão. Não resolver camada superficial - ir até o core."
+        when_to_use: ["Prospect dando desculpas vagas", "Objeção parece não fazer sentido"]
+        when_not_to_use: ["Objeção clara e lógica (preço real, timing genuíno)"]
+        evidence:
+          - quote: "Onion of Blame: 3 layers - Circumstance, Others, Self. Peel until you get to the real fear."
+            chunk_id: "AH-CP001_003"
+            source_id: "AH-CP001"
+
+      - id: "FW-AH-009"
+        title: "Framework 3A para Objeções"
+        type: "sequence"
+        weight: 0.95
+        domains: ["objection-handling", "sales-process", "closing"]
+        insight_id: "SP-AH004"
+        components:
+          - name: "A - Acknowledge"
+            description: "Reconhecer a objeção sem resistir"
+          - name: "A - Associate"
+            description: "Associar a uma experiência ou cliente similar"
+          - name: "A - Ask"
+            description: "Fazer pergunta que avança a conversa"
+        usage: "Usar SEMPRE que surgir objeção. Mantém rapport enquanto avança."
+        when_to_use: ["Qualquer objeção durante call", "Prospect resistente mas engajado"]
+        when_not_to_use: ["Prospect claramente desqualificado"]
+        evidence:
+          - quote: "Framework 3A para objeções: Acknowledge, Associate, Ask - mantém rapport enquanto avança"
+            chunk_id: "AH-YT007_001"
+            source_id: "AH-YT007"
+
+      - id: "FW-AH-010"
+        title: "Ghost Product Technique"
+        type: "tactic"
+        weight: 0.85
+        domains: ["closing", "value-perception", "negotiation"]
+        insight_id: "SP-AH006"
+        components:
+          - name: "Identificar itens não-essenciais"
+            description: "Componentes que custam pouco mas têm valor percebido"
+          - name: "Conceder gratuitamente"
+            description: "Dar de graça ANTES de pedir o fechamento"
+          - name: "Fechar produto principal"
+            description: "Com confiança elevada, fechar o produto core"
+        usage: "Usar quando perceber hesitação sobre valor. Dar algo de graça eleva reciprocidade."
+        when_to_use: ["Prospect hesitante mas interessado", "Objeção de valor/preço"]
+        when_not_to_use: ["Prospect já decidiu que sim"]
+        evidence:
+          - quote: "Técnica 'Ghost Product': conceder itens não essenciais gratuitamente para aumentar confiança e fechar produto principal"
+            chunk_id: "AH-YT006_001"
+            source_id: "AH-YT006"
+
+      - id: "FW-AH-011"
+        title: "9 Princípios de Vendas"
+        type: "list"
+        weight: 0.85
+        domains: ["sales-philosophy", "training", "self-development"]
+        insight_id: "SP-AH011"
+        components:
+          - name: "Autoconfiança"
+            description: "Acreditar em si mesmo antes de pedir que outros acreditem"
+          - name: "Proposta Clara"
+            description: "Saber exatamente o que oferece e por quê"
+          - name: "Ritmo Adequado"
+            description: "Nem rápido demais, nem lento - fluidez"
+          - name: "Posicionamento"
+            description: "Posição de autoridade, não de súplica"
+          - name: "Autoridade"
+            description: "Demonstrar expertise antes de pedir a venda"
+          - name: "Ação Contínua"
+            description: "Nunca parar de pedir, sempre avançar"
+          - name: "Convicção"
+            description: "Acreditar genuinamente que o cliente precisa"
+          - name: "Responsabilidade"
+            description: "Assumir ownership do resultado da conversa"
+          - name: "Persistência"
+            description: "Não desistir na primeira (ou quinta) objeção"
+        usage: "Checklist mental antes de cada call. Avaliar qual princípio falta quando não converte."
+        when_to_use: ["Treinamento de vendedores", "Auto-avaliação", "Diagnóstico de problemas"]
+        evidence:
+          - quote: "9 princípios de vendas: autoconfiança, proposta clara, ritmo adequado, posicionamento, autoridade e ação contínua"
+            chunk_id: "AH-YT016_001"
+            source_id: "AH-YT016"
+
+      - id: "FW-AH-012"
+        title: "Sistema Autossustentável de Leads"
+        type: "cycle"
+        weight: 0.90
+        domains: ["lead-generation", "referrals", "organic-growth"]
+        insight_id: "LG-AH003"
+        components:
+          - name: "Produto Excelente"
+            description: "Entregar resultado que excede expectativa"
+            order: 1
+          - name: "Reviews"
+            description: "Coletar testemunhos e casos de sucesso"
+            order: 2
+          - name: "Referrals"
+            description: "Clientes satisfeitos indicam novos clientes"
+            order: 3
+          - name: "Warm Outreach"
+            description: "Abordar indicações com contexto"
+            order: 4
+          - name: "Loop"
+            description: "Novos clientes alimentam o ciclo"
+            order: 5
+        usage: "Construir cada elemento em ordem. Não pular para paid ads antes de dominar referrals."
+        when_to_use: ["Construindo sistema de leads", "Reduzindo dependência de paid media"]
+        when_not_to_use: ["Produto não entrega resultado consistente"]
+        evidence:
+          - quote: "Sistema autossustentável de leads: produto excelente → reviews → referrals → warm outreach"
+            chunk_id: "AH-YT019_001"
+            source_id: "AH-YT019"
+
+  # ═══════════════════════════════════════════════════════════════════════════
+  # LAYER 5: METHODOLOGIES (5 items)
+  # ═══════════════════════════════════════════════════════════════════════════
+
+  L5_METHODOLOGIES:
+    count: 5
+    items:
+      - id: "MET-AH-001"
+        title: "Processo Outbound Completo (BDR → SDS → BC)"
+        objective: "Gerar vendas de forma previsível através de cold calling."
+        weight: 0.95
+        domains: ["outbound", "sales-process", "scaling"]
+        insight_id: "SS001, SS002, SS003"
+        prerequisites:
+          - "Ticket mínimo de $15k"
+          - "LTV que justifique CAC de ~$500"
+          - "Lista de prospects qualificados"
+          - "PhoneBurner ou similar com wrap de área code local"
+        steps:
+          - step: 1
+            name: "Scrape e Enriquecimento de Lista"
+            description: "VAs nas Filipinas scrapeiam Google e enriquecem dados."
+            success_criteria: "Lista com contatos verificados"
+            pitfalls: ["Listas desatualizadas", "Não verificar números"]
+          - step: 2
+            name: "BDR Cold Calling"
+            description: "100 calls/dia em blocos de 4h. Objetivo: 2 shows por dia."
+            success_criteria: "20 pickups de 100 dials, 2 shows"
+            pitfalls: ["Não usar local area code wrap", "Blocos de 8h"]
+          - step: 3
+            name: "SDS Value Delivery"
+            description: "Call de 45min: 30min valor + 15min transição."
+            success_criteria: "Prospect diz 'esses caras sabem do que falam'"
+            pitfalls: ["SDS não é domain expert", "Não deixar 15min transição"]
+          - step: 4
+            name: "Warm Transfer ao Closer"
+            description: "Speakerphone scriptado + Zoom face-to-face intro."
+            success_criteria: "Closer e prospect se conhecem face-to-face"
+            pitfalls: ["Só texto/email = não funciona"]
+          - step: 5
+            name: "BC Closing Call"
+            description: "CLOSER Framework. Fechar ou qualificar out."
+            success_criteria: "10% close rate de shows"
+            pitfalls: ["Não deixar claro que é call de vendas"]
+        duration: "12-14 meses para maturar"
+        common_errors:
+          - error: "Desistir antes de 12 meses"
+            prevention: "Compromisso mínimo de 12 meses se há progresso no funil"
+          - error: "Compensar BDRs por hora"
+            prevention: "Compensar por show confirmado"
+        evidence:
+          - quote: "Understanding the organizational chart which creates the sale and the actual process of the sale is where we should start."
+            chunk_id: "chunk_201"
+            source_id: "AH-SS001"
+
+      - id: "MET-AH-002"
+        title: "Farm System de Desenvolvimento de Vendedores"
+        objective: "Desenvolver closers internamente com 60% close rate (vs 25% externos)."
+        weight: 0.95
+        domains: ["hiring", "training", "career-path"]
+        insight_id: "FS001, FS002, FS003"
+        prerequisites:
+          - "Volume suficiente para ter níveis (pelo menos 3 BDRs)"
+          - "Commitment de 12+ meses"
+          - "Métricas claras de progressão"
+        steps:
+          - step: 1
+            name: "Contratar para Double A (BDR)"
+            description: "Atrair com visão de $200k, não $40k. 4 níveis por role."
+            pitfalls: ["Atrair pelo salário inicial", "Não mostrar career path"]
+          - step: 2
+            name: "Milestone-Based Progression"
+            description: "Promoção por ABILITY (50→100→150 shows), não por tempo."
+            pitfalls: ["Promoções automáticas por tempo", "Bumps grandes demais"]
+          - step: 3
+            name: "Promoção para Triple A (SDS)"
+            description: "Senior BDR ganha ABILITY de ser promovido. Não automático."
+            pitfalls: ["Promover quem não é domain expert"]
+          - step: 4
+            name: "Trial de 10 Deals no BC"
+            description: "Fechar 10 deals como trial antes de virar BC permanente."
+            pitfalls: ["Promover sem trial", "Dar inbound para novato"]
+        duration: "9-12 meses de BDR para BC"
+        common_errors:
+          - error: "Contratar closer pronto de fora"
+            prevention: "Desenvolver internamente pelo sistema"
+          - error: "Poupar novatos de cold calling"
+            prevention: "Deixar cut their teeth antes de dar inbound"
+        evidence:
+          - quote: "The human resource training system itself becomes an asset to the business... Our inbound closing percentage went from 20-25% to 60%."
+            chunk_id: "chunk_213"
+            source_id: "AH-SS001"
+
+      - id: "MET-AH-003"
+        title: "Warm Transfer Protocol (SDS → BC)"
+        objective: "Garantir que leads qualificados apareçam para call de fechamento."
+        weight: 0.90
+        domains: ["sales-process", "scripts", "show-rates"]
+        insight_id: "SD002"
+        prerequisites:
+          - "SDS e BC trabalhando simultaneamente"
+          - "Script de transição pronto"
+          - "Zoom ou similar"
+        steps:
+          - step: 1
+            name: "Transition no Final do SDS"
+            description: "Deixar 15min no final da call. 'Posso trocar de chapéu?'"
+          - step: 2
+            name: "Highlight Pain Points"
+            description: "Apontar 2-3 coisas que se destacaram."
+          - step: 3
+            name: "Speakerphone Call com Closer"
+            description: "Diálogo SCRIPTADO mas natural. Prospect ouve os dois lados."
+          - step: 4
+            name: "Face-to-Face Zoom Intro"
+            description: "BC entra no Zoom por 5min. Faz intro pessoal."
+        duration: "15-20min SDS + 5min BC"
+        common_errors:
+          - error: "Só mandar email/texto para agendar"
+            prevention: "SEMPRE fazer face-to-face intro"
+        evidence:
+          - quote: "We could not get the SDS to show for the close calls... But if you do the face-to-face where they hop on the call then they're like 'yeah perfect'."
+            chunk_id: "chunk_211"
+            source_id: "AH-SS001"
+
+      - id: "MET-AH-004"
+        title: "HR Value Creation Process"
+        objective: "HR que cria valor para a empresa ao invés de apenas processar papelada."
+        weight: 0.85
+        domains: ["hr-philosophy", "organizational-culture", "compensation"]
+        insight_id: "HR001, HR002, HR003, HR004"
+        steps:
+          - step: 1
+            name: "Proteger a Empresa"
+            description: "Dizer NÃO a contratações desnecessárias."
+          - step: 2
+            name: "Recruit Best Talent"
+            description: "Encontrar, desenvolver e reter os melhores."
+          - step: 3
+            name: "Monitorar Compensation vs Market"
+            description: "Só aumentar se problema de ATRAÇÃO ou RETENÇÃO."
+          - step: 4
+            name: "Criar Cultura de Alta Performance"
+            description: "Ambiente onde winners prosperam e low performers não duram."
+        duration: "Ongoing"
+        common_errors:
+          - error: "HR focado em felicidade"
+            prevention: "Foco em performance e resultados"
+          - error: "Star employees não são retidos"
+            prevention: "Pagar desproporcional (3-5x valor)"
+        evidence:
+          - quote: "Your job is NOT to make employees happy. HR's customer = THE COMPANY, not employees."
+            chunk_id: "AH002_002"
+            source_id: "AH-HR001"
+
+      - id: "MET-AH-005"
+        title: "7 Universal Closes"
+        objective: "Arsenal de técnicas de fechamento para qualquer situação."
+        weight: 0.95
+        domains: ["closing", "sales-process", "objection-handling"]
+        insight_id: "AH-CP001_005"
+        prerequisites:
+          - "Prospect qualificado (passou por discovery)"
+          - "Convicção genuína no produto"
+          - "Entendimento do bucket (YES/NO/MAYBE)"
+        steps:
+          - step: 1
+            name: "The Assumptive Close"
+            description: "Assumir que vai comprar e agir como se já tivesse decidido."
+            example: "'Vamos começar com o premium ou o standard?'"
+          - step: 2
+            name: "The Takeaway Close"
+            description: "Remover a oferta ou criar escassez genuína."
+            example: "'Talvez esse programa não seja ideal pra você...'"
+          - step: 3
+            name: "The Question Close"
+            description: "Fechar fazendo pergunta que leva ao sim."
+            example: "'Se eu resolver [X], tem algo mais que te impediria?'"
+          - step: 4
+            name: "The Now or Never Close"
+            description: "Criar urgência real baseada em custo de esperar."
+            example: "'Cada mês sem isso, você perde [X] - vale esperar?'"
+          - step: 5
+            name: "The Summary Close"
+            description: "Resumir benefícios acordados antes de pedir."
+            example: "'Recapitulando: você quer [A], precisa de [B], isso resolve [C]. Certo?'"
+          - step: 6
+            name: "The Sharp Angle Close"
+            description: "Concordar condicionalmente ao fechamento."
+            example: "'Se eu conseguir [o que pediu], você fecha hoje?'"
+          - step: 7
+            name: "The Puppy Dog Close"
+            description: "Oferecer trial sem risco."
+            example: "'7 dias e se não funcionar, devolvemos tudo.'"
+        duration: "Variar técnicas ao longo de call de 30-60min"
+        common_errors:
+          - error: "Usar sempre o mesmo close"
+            prevention: "Ter repertório de 7 e variar"
+          - error: "Technique > Conviction"
+            prevention: "Closes só funcionam com convicção genuína"
+        evidence:
+          - quote: "7 Universal Closes: Assumptive, Takeaway, Question, Now or Never, Summary, Sharp Angle, Puppy Dog."
+            chunk_id: "AH-CP001_005"
+            source_id: "AH-CP001"
+
+# ═══════════════════════════════════════════════════════════════════════════
+# SECONDARY SOURCE: AIOS HORMOZI-SQUAD (weight: 0.70)
+# ═══════════════════════════════════════════════════════════════════════════
+# Source: knowledge/sources/aios-squads/01-HORMOZI-SQUAD.md
+# Curated by Synkra AIOS from Hormozi's books and public content
+# Weight: 0.70 (secondary source - not direct transcriptions)
+# Added: 2026-03-11
+# Elements: 158 (L1:27 L2:31 L3:35 L4:31 L5:34)
+# NEW domains: Advertising, Content, Hooks, Launch, Retention, Workshop, Business Models
+
+aios_secondary:
+  source: "aios-squads/hormozi-squad"
+  weight: 0.70
+  processed_doc: "knowledge/sources/aios-squads/01-HORMOZI-SQUAD.md"
+  raw_location: "knowledge/sources/aios-squads/raw/hormozi-squad/"
+  total_elements: 158
+  added_date: "2026-03-11"
+
+  philosophies:
+    - id: "FIL-AH-AIOS-001"
+      name: "Paid Ads Amplify Don't Fix"
+      statement: "Paid ads amplify what already works; they don't fix broken offers"
+      domains: ["advertising", "offers"]
+      weight: 0.70
+    - id: "FIL-AH-AIOS-002"
+      name: "The Constraint Is The Opportunity"
+      statement: "The biggest constraint in the business is the biggest growth opportunity"
+      domains: ["scaling", "strategy"]
+      weight: 0.70
+    - id: "FIL-AH-AIOS-003"
+      name: "Volume Negates Luck"
+      statement: "Do enough volume and luck becomes irrelevant; math takes over"
+      domains: ["outbound", "mindset"]
+      weight: 0.70
+    - id: "FIL-AH-AIOS-004"
+      name: "Speed > Perfection"
+      statement: "Speed of implementation beats perfection of planning every time"
+      domains: ["execution", "mindset"]
+      weight: 0.70
+    - id: "FIL-AH-AIOS-005"
+      name: "Boring Consistency Wins"
+      statement: "Boring consistency in execution beats exciting inconsistency"
+      domains: ["execution", "mindset"]
+      weight: 0.70
+    - id: "FIL-AH-AIOS-006"
+      name: "Model = Ceiling"
+      statement: "Your business model determines your ceiling; you can't outwork a bad model"
+      domains: ["business-models", "strategy"]
+      weight: 0.70
+    - id: "FIL-AH-AIOS-007"
+      name: "Client-Financed Acquisition"
+      statement: "Use client money to fund acquisition; never spend your own if possible"
+      domains: ["unit-economics", "scaling"]
+      weight: 0.70
+    - id: "FIL-AH-AIOS-008"
+      name: "Sales Is Belief Transfer"
+      statement: "Selling is transferring your belief in the product to the prospect"
+      domains: ["closing", "sales-philosophy"]
+      weight: 0.70
+    - id: "FIL-AH-AIOS-009"
+      name: "The Offer Is The Business"
+      statement: "The offer IS the business; everything else is distribution"
+      domains: ["offers", "strategy"]
+      weight: 0.70
+    - id: "FIL-AH-AIOS-010"
+      name: "Give Away The Secrets"
+      statement: "Give away the secrets, sell the implementation"
+      domains: ["content", "offers"]
+      weight: 0.70
+    - id: "FIL-AH-AIOS-011"
+      name: "Content Compounds"
+      statement: "Content compounds like interest; every piece builds on the last"
+      domains: ["content", "marketing"]
+      weight: 0.70
+    - id: "FIL-AH-AIOS-012"
+      name: "Price Is Value Transfer"
+      statement: "Price is not about cost; it's about the value transferred to the customer"
+      domains: ["pricing", "offers"]
+      weight: 0.70
+    - id: "FIL-AH-AIOS-013"
+      name: "10x Value Rule"
+      statement: "Deliver 10x more value than the price charged"
+      domains: ["pricing", "offers"]
+      weight: 0.70
+    - id: "FIL-AH-AIOS-014"
+      name: "Premium Prices Attract Premium Clients"
+      statement: "Higher prices attract better clients who do more work and get better results"
+      domains: ["pricing", "client-quality"]
+      weight: 0.70
+    - id: "FIL-AH-AIOS-015"
+      name: "Retention Multiplies Everything"
+      statement: "Retention is the silent multiplier; every point of churn reduction compounds"
+      domains: ["retention", "unit-economics"]
+      weight: 0.70
+    - id: "FIL-AH-AIOS-016"
+      name: "Growth ≠ Scale"
+      statement: "Growth means more revenue with more resources; scale means more revenue with LESS"
+      domains: ["scaling", "strategy"]
+      weight: 0.70
+    - id: "FIL-AH-AIOS-017"
+      name: "Systems Scale People Don't"
+      statement: "People don't scale; systems do. Build systems that make people effective"
+      domains: ["scaling", "operations"]
+      weight: 0.70
+    - id: "FIL-AH-AIOS-018"
+      name: "Workshops Transform Not Entertain"
+      statement: "Workshops should transform participants, not entertain them"
+      domains: ["workshop", "delivery"]
+      weight: 0.70
+    - id: "FIL-AH-AIOS-019"
+      name: "Diagnosis Before Prescription"
+      statement: "Always diagnose before prescribing; selling without understanding is malpractice"
+      domains: ["closing", "consulting"]
+      weight: 0.70
+    - id: "FIL-AH-AIOS-020"
+      name: "Sell Before You Build"
+      statement: "Sell the offer before building it; let the market validate with money"
+      domains: ["offers", "launch"]
+      weight: 0.70
+    - id: "FIL-AH-AIOS-021"
+      name: "Prove At Each Stage"
+      statement: "Prove the model works at each stage before advancing to the next"
+      domains: ["scaling", "business-models"]
+      weight: 0.70
+    - id: "FIL-AH-AIOS-022"
+      name: "Market Votes With Wallets"
+      statement: "The market votes with wallets, not compliments; only money is real feedback"
+      domains: ["offers", "validation"]
+      weight: 0.70
+    - id: "FIL-AH-AIOS-023"
+      name: "Foundations First"
+      statement: "Master the fundamentals before adding complexity"
+      domains: ["execution", "strategy"]
+      weight: 0.70
+    - id: "FIL-AH-AIOS-024"
+      name: "Delayed Gratification Is Competitive Advantage"
+      statement: "Willingness to delay gratification is the ultimate competitive advantage"
+      domains: ["mindset", "strategy"]
+      weight: 0.70
+    - id: "FIL-AH-AIOS-025"
+      name: "Recurring > One-Time"
+      statement: "Recurring revenue is always superior to one-time transactions"
+      domains: ["business-models", "unit-economics"]
+      weight: 0.70
+    - id: "FIL-AH-AIOS-026"
+      name: "Do More Do It Longer Do It Better"
+      statement: "The formula for winning: do more, do it longer, do it better than anyone else"
+      domains: ["execution", "mindset"]
+      weight: 0.70
+    - id: "FIL-AH-AIOS-027"
+      name: "Boredom Is The Enemy"
+      statement: "Boredom, not competition, kills most businesses; entrepreneurs quit what works to chase novelty"
+      domains: ["mindset", "strategy"]
+      weight: 0.70
+
+  mental_models:
+    - id: "MM-AH-AIOS-001"
+      name: "Business Diagnostic Questions"
+      description: "5 questions: How do you get customers? What do you sell? How do you deliver? How do you keep them? What's the model?"
+      domains: ["strategy", "consulting"]
+      weight: 0.70
+    - id: "MM-AH-AIOS-002"
+      name: "Volume x Leverage Matrix"
+      description: "4 stages of business maturity: high volume/low leverage → low volume/high leverage"
+      domains: ["scaling", "strategy"]
+      weight: 0.70
+    - id: "MM-AH-AIOS-003"
+      name: "Three Ways to Grow"
+      description: "Only 3 ways to grow any business: more customers, higher value per customer, more frequency"
+      domains: ["scaling", "strategy"]
+      weight: 0.70
+    - id: "MM-AH-AIOS-004"
+      name: "Value Equation"
+      description: "(Dream Outcome x Perceived Likelihood) / (Time Delay x Effort & Sacrifice)"
+      domains: ["offers", "pricing"]
+      weight: 0.70
+    - id: "MM-AH-AIOS-005"
+      name: "Core 4 Lead Generation"
+      description: "4 channels: Warm Outreach, Cold Outreach, Content, Paid Ads (in that order)"
+      domains: ["lead-generation", "marketing"]
+      weight: 0.70
+    - id: "MM-AH-AIOS-006"
+      name: "CLOSER Sales Framework"
+      description: "Clarify → Label → Overview → Sell vacation → Explain away → Reinforce"
+      domains: ["closing", "sales-process"]
+      weight: 0.70
+    - id: "MM-AH-AIOS-007"
+      name: "Hook-Retain-Reward Content Model"
+      description: "Every piece of content must Hook attention, Retain through value, Reward for staying"
+      domains: ["content", "marketing"]
+      weight: 0.70
+    - id: "MM-AH-AIOS-008"
+      name: "Money Models 3-Stage"
+      description: "Get Cash ($0-100K), Get More ($100K-1M), Get Most ($1M+) - different strategies per stage"
+      domains: ["business-models", "scaling"]
+      weight: 0.70
+    - id: "MM-AH-AIOS-009"
+      name: "LTGP Formula"
+      description: "Lifetime Gross Profit = Gross Profit per Period / Churn Rate"
+      domains: ["unit-economics", "retention"]
+      weight: 0.70
+    - id: "MM-AH-AIOS-010"
+      name: "Four Stages of Scale"
+      description: "Improvise ($0-300K) → Stabilize ($300K-1M) → Systematize ($1M-10M) → Operationalize ($10M+)"
+      domains: ["scaling", "strategy"]
+      weight: 0.70
+    - id: "MM-AH-AIOS-011"
+      name: "Delegation Levels"
+      description: "5 levels: Do it yourself → with checklist → with training → with KPIs → Delegate the delegation"
+      domains: ["operations", "leadership"]
+      weight: 0.70
+    - id: "MM-AH-AIOS-012"
+      name: "Buying Back Time Hierarchy"
+      description: "Audit time → Eliminate → Automate → Delegate; in that order"
+      domains: ["operations", "scaling"]
+      weight: 0.70
+    - id: "MM-AH-AIOS-013"
+      name: "Revenue Math Formula"
+      description: "Revenue = Leads x Conversion Rate x Average Price x Purchase Frequency"
+      domains: ["unit-economics", "strategy"]
+      weight: 0.70
+    - id: "MM-AH-AIOS-014"
+      name: "Churn Diagnosis Categories"
+      description: "5 types: Structural, Onboarding, Delivery, Value, External"
+      domains: ["retention", "diagnostics"]
+      weight: 0.70
+    - id: "MM-AH-AIOS-015"
+      name: "Stage-Appropriate Strategy"
+      description: "What got you here won't get you there; each revenue stage requires different strategy"
+      domains: ["scaling", "strategy"]
+      weight: 0.70
+    - id: "MM-AH-AIOS-016"
+      name: "6M Diagnostic Framework"
+      description: "Man, Machine, Material, Method, Measurement, Mother Nature (Ishikawa adapted)"
+      domains: ["diagnostics", "operations"]
+      weight: 0.70
+    - id: "MM-AH-AIOS-017"
+      name: "Offer Creation Hierarchy"
+      description: "Market → Niche → Avatar → Problem → Solution → Delivery → Offer"
+      domains: ["offers", "strategy"]
+      weight: 0.70
+    - id: "MM-AH-AIOS-018"
+      name: "Grand Slam Offer Components"
+      description: "Dream Outcome + Perceived Likelihood + Time Compression + Effort Reduction"
+      domains: ["offers", "pricing"]
+      weight: 0.70
+    - id: "MM-AH-AIOS-019"
+      name: "Guarantee Types Spectrum"
+      description: "Unconditional → Conditional → Anti-Guarantee → Implied"
+      domains: ["offers", "risk-reversal"]
+      weight: 0.70
+    - id: "MM-AH-AIOS-020"
+      name: "Price-to-Value Ratio"
+      description: "If value/price > 10, the offer sells itself; if < 3, you need heavy sales"
+      domains: ["pricing", "offers"]
+      weight: 0.70
+    - id: "MM-AH-AIOS-021"
+      name: "Ad Creative Lifecycle"
+      description: "Launch (test) → Scale (winner) → Fatigue (decline) → Refresh (iterate)"
+      domains: ["advertising", "content"]
+      weight: 0.70
+    - id: "MM-AH-AIOS-022"
+      name: "Platform Selection Matrix"
+      description: "Match platform to avatar demographics, content format, and buying intent"
+      domains: ["advertising", "marketing"]
+      weight: 0.70
+    - id: "MM-AH-AIOS-023"
+      name: "Ad Funnel Temperature Model"
+      description: "Cold (awareness) → Warm (consideration) → Hot (decision) → Retarget (recovery)"
+      domains: ["advertising", "funnels"]
+      weight: 0.70
+    - id: "MM-AH-AIOS-024"
+      name: "Content Flywheel"
+      description: "Create → Distribute → Engage → Convert → Learn → Create (compounds)"
+      domains: ["content", "marketing"]
+      weight: 0.70
+    - id: "MM-AH-AIOS-025"
+      name: "Hook Psychology Types"
+      description: "Curiosity, Controversy, Contrarian, Celebrity, Counter-Intuitive, Challenge, Community"
+      domains: ["hooks", "content"]
+      weight: 0.70
+    - id: "MM-AH-AIOS-026"
+      name: "Launch Momentum Curve"
+      description: "Pre-launch (build anticipation) → Launch (maximize urgency) → Post-launch (capture stragglers)"
+      domains: ["launch", "marketing"]
+      weight: 0.70
+    - id: "MM-AH-AIOS-027"
+      name: "Objection Origin Map"
+      description: "Every objection maps to a component of the Value Equation that isn't strong enough"
+      domains: ["closing", "offers"]
+      weight: 0.70
+    - id: "MM-AH-AIOS-028"
+      name: "Retention Compound Effect"
+      description: "5% retention improvement = 25-95% profit increase over time"
+      domains: ["retention", "unit-economics"]
+      weight: 0.70
+    - id: "MM-AH-AIOS-029"
+      name: "Workshop Value Delivery"
+      description: "Teach framework → Apply live → Get result → Offer continuation"
+      domains: ["workshop", "delivery"]
+      weight: 0.70
+    - id: "MM-AH-AIOS-030"
+      name: "Business Model Comparison Matrix"
+      description: "Service vs Product vs SaaS vs Marketplace across margin, scale, complexity, capital"
+      domains: ["business-models", "strategy"]
+      weight: 0.70
+    - id: "MM-AH-AIOS-031"
+      name: "Constraint Identification Method"
+      description: "Find the ONE bottleneck limiting throughput; fix that before anything else"
+      domains: ["diagnostics", "operations"]
+      weight: 0.70
+
+  heuristics:
+    - id: "HEUR-AH-AIOS-001"
+      rule: "Se LTGP > 3x CPA, escalar agressivamente; se < 1.5x, parar e consertar oferta"
+      threshold: "LTGP > 3x CPA"
+      domains: ["unit-economics", "scaling"]
+      weight: 0.70
+    - id: "HEUR-AH-AIOS-002"
+      rule: "Mínimo 100 contatos/dia em cold outreach para resultados estatisticamente significativos"
+      threshold: "100/day"
+      domains: ["outbound"]
+      weight: 0.70
+    - id: "HEUR-AH-AIOS-003"
+      rule: "Focar em 1 avatar, 1 oferta, 1 canal até atingir $1M ARR"
+      threshold: "$1M ARR"
+      domains: ["strategy", "focus"]
+      weight: 0.70
+    - id: "HEUR-AH-AIOS-004"
+      rule: "Se alguém faz 80% tão bem quanto você, delegue imediatamente"
+      threshold: "80%"
+      domains: ["operations", "delegation"]
+      weight: 0.70
+    - id: "HEUR-AH-AIOS-005"
+      rule: "Se algo acontece 2x, criar SOP; não esperar a 3a vez"
+      threshold: "2x"
+      domains: ["operations", "systems"]
+      weight: 0.70
+    - id: "HEUR-AH-AIOS-006"
+      rule: "Os primeiros 30 dias determinam se o cliente fica ou sai; front-load o valor"
+      threshold: "30 days"
+      domains: ["retention", "onboarding"]
+      weight: 0.70
+    - id: "HEUR-AH-AIOS-007"
+      rule: "80% das vendas acontecem após o 5o contato; maioria desiste no 2o"
+      threshold: "5th contact"
+      domains: ["outbound", "follow-up"]
+      weight: 0.70
+    - id: "HEUR-AH-AIOS-008"
+      rule: "Testar 5-10 novos criativos por semana; matar em 48-72h se não performar"
+      threshold: "5-10/week, 48-72h kill"
+      domains: ["advertising", "creative"]
+      weight: 0.70
+    - id: "HEUR-AH-AIOS-009"
+      rule: "Mínimo 1-3 short-form/dia + 1-2 long-form/semana para compound effect"
+      threshold: "1-3 short/day + 1-2 long/week"
+      domains: ["content", "marketing"]
+      weight: 0.70
+    - id: "HEUR-AH-AIOS-010"
+      rule: "Show-rate abaixo de 80% indica problema de qualificação ou urgência"
+      threshold: "80%+"
+      domains: ["sales-process", "lead-quality"]
+      weight: 0.70
+    - id: "HEUR-AH-AIOS-011"
+      rule: "Começar com 50-70% do preço final → subir para 70-85% → depois 100%"
+      threshold: "50-70% start"
+      domains: ["launch", "pricing"]
+      weight: 0.70
+    - id: "HEUR-AH-AIOS-012"
+      rule: "Serviços devem ter 80%+ margem; produtos físicos 40%+"
+      threshold: "80% service, 40% product"
+      domains: ["unit-economics", "pricing"]
+      weight: 0.70
+    - id: "HEUR-AH-AIOS-013"
+      rule: "LTV/CAC mínimo 3:1, ideal 8:1+; abaixo de 3:1 insustentável"
+      threshold: "3:1 min, 8:1+ ideal"
+      domains: ["unit-economics"]
+      weight: 0.70
+    - id: "HEUR-AH-AIOS-014"
+      rule: "CPA deve ser recuperado em < 30 dias para crescimento auto-financiado"
+      threshold: "< 30 days"
+      domains: ["unit-economics", "scaling"]
+      weight: 0.70
+    - id: "HEUR-AH-AIOS-015"
+      rule: "Escalar budget de ads em 20-30% a cada 48h; nunca dobrar de uma vez"
+      threshold: "20-30% per 48h"
+      domains: ["advertising", "scaling"]
+      weight: 0.70
+    - id: "HEUR-AH-AIOS-016"
+      rule: "Retenção anual acima de 69% é excelente; abaixo de 50% é emergência"
+      threshold: ">69% excellent, <50% emergency"
+      domains: ["retention"]
+      weight: 0.70
+    - id: "HEUR-AH-AIOS-017"
+      rule: "Fazer 100 warm outreach antes de gastar $1 em ads"
+      threshold: "100 warm first"
+      domains: ["lead-generation", "outbound"]
+      weight: 0.70
+    - id: "HEUR-AH-AIOS-018"
+      rule: "Âncora de preço deve ser 3x-10x o preço real para maximizar valor percebido"
+      threshold: "3x-10x anchor"
+      domains: ["pricing", "offers"]
+      weight: 0.70
+    - id: "HEUR-AH-AIOS-019"
+      rule: "Value stack deve somar pelo menos 10x o preço cobrado"
+      threshold: "10x price"
+      domains: ["offers", "pricing"]
+      weight: 0.70
+    - id: "HEUR-AH-AIOS-020"
+      rule: "Quanto mais longa a garantia, menor o reembolso (paradoxo da garantia)"
+      threshold: "inverse correlation"
+      domains: ["offers", "risk-reversal"]
+      weight: 0.70
+    - id: "HEUR-AH-AIOS-021"
+      rule: "Se você não compraria seu próprio produto, não tente vender"
+      threshold: "conviction check"
+      domains: ["closing", "mindset"]
+      weight: 0.70
+    - id: "HEUR-AH-AIOS-022"
+      rule: "Toda objeção é um componente faltante na Value Equation"
+      threshold: "value equation gap"
+      domains: ["closing", "offers"]
+      weight: 0.70
+    - id: "HEUR-AH-AIOS-023"
+      rule: "Se não capturar atenção em 3 segundos, o conteúdo falhou"
+      threshold: "3 seconds"
+      domains: ["hooks", "content"]
+      weight: 0.70
+    - id: "HEUR-AH-AIOS-024"
+      rule: "Criar pelo menos 7 variações de hook por peça de conteúdo"
+      threshold: "7+ hooks"
+      domains: ["hooks", "content"]
+      weight: 0.70
+    - id: "HEUR-AH-AIOS-025"
+      rule: "Janela de lançamento ideal: 5-14 dias"
+      threshold: "5-14 days"
+      domains: ["launch"]
+      weight: 0.70
+    - id: "HEUR-AH-AIOS-026"
+      rule: "Seed round de 10-50 unidades para validar antes de escalar"
+      threshold: "10-50 units"
+      domains: ["launch", "validation"]
+      weight: 0.70
+    - id: "HEUR-AH-AIOS-027"
+      rule: "Workshops ideais entre 60-90 minutos"
+      threshold: "60-90 min"
+      domains: ["workshop"]
+      weight: 0.70
+    - id: "HEUR-AH-AIOS-028"
+      rule: "Taxa de conversão saudável de workshop para oferta: 20-40%"
+      threshold: "20-40%"
+      domains: ["workshop", "conversion"]
+      weight: 0.70
+    - id: "HEUR-AH-AIOS-029"
+      rule: "Churn mensal acima de 5% é emergência; resolver antes de crescer"
+      threshold: ">5% monthly = emergency"
+      domains: ["retention"]
+      weight: 0.70
+    - id: "HEUR-AH-AIOS-030"
+      rule: "Janela de win-back mais efetiva: 30-90 dias após cancelamento"
+      threshold: "30-90 days"
+      domains: ["retention", "win-back"]
+      weight: 0.70
+    - id: "HEUR-AH-AIOS-031"
+      rule: "Revenue per employee abaixo de $200K indica ineficiência operacional"
+      threshold: ">$200K/employee"
+      domains: ["operations", "unit-economics"]
+      weight: 0.70
+    - id: "HEUR-AH-AIOS-032"
+      rule: "SOP só está pronto quando alguém sem contexto consegue executar"
+      threshold: "stranger test"
+      domains: ["operations", "systems"]
+      weight: 0.70
+    - id: "HEUR-AH-AIOS-033"
+      rule: "Fazer 100 de qualquer coisa antes de julgar se funciona"
+      threshold: "100 reps"
+      domains: ["execution", "mindset"]
+      weight: 0.70
+    - id: "HEUR-AH-AIOS-034"
+      rule: "No 6M Diagnostic, sempre começar por Measurement; sem dados, tudo é opinião"
+      threshold: "Measurement first"
+      domains: ["diagnostics"]
+      weight: 0.70
+    - id: "HEUR-AH-AIOS-035"
+      rule: "Sempre diagnosticar pelo menos 3 problemas antes de prescrever solução"
+      threshold: "3 problems minimum"
+      domains: ["diagnostics", "consulting"]
+      weight: 0.70
+
+  frameworks:
+    - id: "FW-AH-AIOS-001"
+      name: "Ad Funnel Structure"
+      structure: "Cold (awareness) → Warm (consideration) → Hot (decision) → Retarget (recovery)"
+      domains: ["advertising", "funnels"]
+      weight: 0.70
+    - id: "FW-AH-AIOS-002"
+      name: "Platform Selection Matrix"
+      structure: "Avatar demographics x Content format x Buying intent x Competition level"
+      domains: ["advertising", "marketing"]
+      weight: 0.70
+    - id: "FW-AH-AIOS-003"
+      name: "MOSI-6 Diagnostic"
+      structure: "Man → Machine → Material → Method → Measurement → Mother Nature"
+      domains: ["diagnostics", "operations"]
+      weight: 0.70
+    - id: "FW-AH-AIOS-004"
+      name: "Lead Magnet Design (7 Types)"
+      structure: "Checklist, Template, Toolkit, Swipe File, Mini-Course, Calculator, Assessment"
+      domains: ["lead-generation", "content"]
+      weight: 0.70
+    - id: "FW-AH-AIOS-005"
+      name: "CLOSER Framework"
+      structure: "Clarify → Label → Overview → Sell vacation → Explain away → Reinforce"
+      domains: ["closing", "sales-process"]
+      weight: 0.70
+    - id: "FW-AH-AIOS-006"
+      name: "Objection Handling System (HAIRC)"
+      structure: "Hear → Acknowledge → Isolate → Resolve → Close"
+      domains: ["closing", "objection-handling"]
+      weight: 0.70
+    - id: "FW-AH-AIOS-007"
+      name: "Content Machine System"
+      structure: "Pillar content → Derivative pieces → Distribution → Engagement → Optimization"
+      domains: ["content", "marketing"]
+      weight: 0.70
+    - id: "FW-AH-AIOS-008"
+      name: "Content Repurposing Flow"
+      structure: "1 long-form → 3-5 short clips → 10+ social posts → 1 email → 1 blog"
+      domains: ["content", "marketing"]
+      weight: 0.70
+    - id: "FW-AH-AIOS-009"
+      name: "Value Stack Copy Structure"
+      structure: "Anchor price → Core offer → Bonus 1-3 → Guarantee → CTA"
+      domains: ["offers", "copywriting"]
+      weight: 0.70
+    - id: "FW-AH-AIOS-010"
+      name: "Hook Categories (7 Types)"
+      structure: "Curiosity, Controversy, Contrarian, Celebrity, Counter-Intuitive, Challenge, Community"
+      domains: ["hooks", "content"]
+      weight: 0.70
+    - id: "FW-AH-AIOS-011"
+      name: "Launch Sequence Phases"
+      structure: "Seed (validate) → Beta (optimize) → Scale (accelerate)"
+      domains: ["launch"]
+      weight: 0.70
+    - id: "FW-AH-AIOS-012"
+      name: "Grand Slam Offer Steps"
+      structure: "Identify dream outcome → List problems → List solutions → Create delivery → Stack value → Add guarantee"
+      domains: ["offers"]
+      weight: 0.70
+    - id: "FW-AH-AIOS-013"
+      name: "Price Ascension Ladder"
+      structure: "Free lead magnet → Low-ticket ($7-97) → Mid-ticket ($497-2K) → High-ticket ($3K-25K) → Premium ($25K+)"
+      domains: ["pricing", "offers"]
+      weight: 0.70
+    - id: "FW-AH-AIOS-014"
+      name: "Onboarding System (30-Day)"
+      structure: "Day 1: Quick win → Week 1: Core training → Week 2: Implementation → Week 3: Review → Week 4: Results"
+      domains: ["retention", "onboarding"]
+      weight: 0.70
+    - id: "FW-AH-AIOS-015"
+      name: "Churn Diagnosis Framework"
+      structure: "Identify type (5 categories) → Measure cohort → Isolate root cause → Implement fix → Monitor 30 days"
+      domains: ["retention", "diagnostics"]
+      weight: 0.70
+    - id: "FW-AH-AIOS-016"
+      name: "Four Stages of Scaling"
+      structure: "Improvise ($0-300K) → Stabilize ($300K-1M) → Systematize ($1M-10M) → Operationalize ($10M+)"
+      domains: ["scaling"]
+      weight: 0.70
+    - id: "FW-AH-AIOS-017"
+      name: "Hiring Framework"
+      structure: "Define role output → Create scorecard → Source → Structured interview → Trial → Review"
+      domains: ["hiring", "operations"]
+      weight: 0.70
+    - id: "FW-AH-AIOS-018"
+      name: "Workshop Structure"
+      structure: "Open with promise → Teach framework → Live application → Results showcase → Bridge to offer"
+      domains: ["workshop", "delivery"]
+      weight: 0.70
+    - id: "FW-AH-AIOS-019"
+      name: "Creative Testing Protocol"
+      structure: "5-10 new/week → Test 48-72h → Kill losers → Scale winners → Refresh fatigued"
+      domains: ["advertising", "creative"]
+      weight: 0.70
+    - id: "FW-AH-AIOS-020"
+      name: "Warm Outreach Campaign"
+      structure: "List 100 → Personalized message → Value-first → Soft ask → Follow-up sequence"
+      domains: ["outbound", "lead-generation"]
+      weight: 0.70
+    - id: "FW-AH-AIOS-021"
+      name: "Cold Outreach Sequence"
+      structure: "Identify ICP → Build list → Craft offer → 5-touch sequence → Track → Optimize"
+      domains: ["outbound", "lead-generation"]
+      weight: 0.70
+    - id: "FW-AH-AIOS-022"
+      name: "Guarantee Engineering"
+      structure: "Select type → Define conditions → Calculate risk → Set duration → Communicate"
+      domains: ["offers", "risk-reversal"]
+      weight: 0.70
+    - id: "FW-AH-AIOS-023"
+      name: "Sales Page Architecture"
+      structure: "Hook headline → Problem agitation → Solution → Value stack → Social proof → Guarantee → CTA"
+      domains: ["copywriting", "offers"]
+      weight: 0.70
+    - id: "FW-AH-AIOS-024"
+      name: "Business Model Evaluation"
+      structure: "Revenue type x Margin x Scalability x Capital x Complexity x Time to profit"
+      domains: ["business-models", "strategy"]
+      weight: 0.70
+    - id: "FW-AH-AIOS-025"
+      name: "Revenue Optimization Sequence"
+      structure: "Fix churn first → Increase price → Increase conversion → Increase leads (in that order)"
+      domains: ["scaling", "unit-economics"]
+      weight: 0.70
+    - id: "FW-AH-AIOS-026"
+      name: "SOP Creation Framework"
+      structure: "Record → Document → Add decision trees → Test with stranger → Iterate → Version control"
+      domains: ["operations", "systems"]
+      weight: 0.70
+    - id: "FW-AH-AIOS-027"
+      name: "Delegation Roadmap"
+      structure: "Audit tasks → Categorize ($10/h, $100/h, $1000/h) → Delegate lowest → Train → Monitor → Release"
+      domains: ["operations", "delegation"]
+      weight: 0.70
+    - id: "FW-AH-AIOS-028"
+      name: "Retention Stack"
+      structure: "Onboarding → Regular check-ins → Community → Progress tracking → Celebration milestones"
+      domains: ["retention"]
+      weight: 0.70
+    - id: "FW-AH-AIOS-029"
+      name: "Win-Back Campaign"
+      structure: "Segment churned (30/60/90) → Identify reason → Craft re-offer → Multi-channel → Special terms"
+      domains: ["retention", "win-back"]
+      weight: 0.70
+    - id: "FW-AH-AIOS-030"
+      name: "Scarcity & Urgency Engineering"
+      structure: "Real deadline → Limited spots → Price increase → Bonus expiration → Social proof"
+      domains: ["launch", "offers"]
+      weight: 0.70
+    - id: "FW-AH-AIOS-031"
+      name: "Naming & Branding Offer"
+      structure: "Create proprietary name → Define mechanism → Package as system → Differentiate"
+      domains: ["offers", "branding"]
+      weight: 0.70
+
+  methodologies:
+    - id: "MET-AH-AIOS-001"
+      name: "Complete Ad Funnel Build"
+      steps: "1. Define avatar 2. Create offer 3. Build landing page 4. Design creative 5. Set tracking 6. Launch cold 7. Build retargeting 8. Optimize"
+      domains: ["advertising", "funnels"]
+      weight: 0.70
+    - id: "MET-AH-AIOS-002"
+      name: "Creative Testing Methodology"
+      steps: "1. Generate 10 hooks 2. Pair with 3 bodies 3. Launch 5-10 combos 4. Monitor 48h 5. Kill below threshold 6. Scale winners 20% 7. Refresh weekly"
+      domains: ["advertising", "creative"]
+      weight: 0.70
+    - id: "MET-AH-AIOS-003"
+      name: "Business Diagnostic Interview"
+      steps: "1. Ask 5 diagnostic questions 2. Map numbers 3. Run 6M analysis 4. Identify constraint 5. Prioritize fixes 6. Create 90-day plan"
+      domains: ["consulting", "diagnostics"]
+      weight: 0.70
+    - id: "MET-AH-AIOS-004"
+      name: "6M Business Audit Process"
+      steps: "1. Measurement audit 2. Man audit 3. Machine audit 4. Material audit 5. Method audit 6. Mother Nature audit 7. Score 1-10 8. Fix lowest first"
+      domains: ["diagnostics", "operations"]
+      weight: 0.70
+    - id: "MET-AH-AIOS-005"
+      name: "Warm Outreach Campaign"
+      steps: "1. List 100 contacts 2. Personalized message 3. Lead with value 4. Gauge interest 5. Offer help 6. Present solution 7. Follow up 5x 8. Track CRM"
+      domains: ["outbound", "lead-generation"]
+      weight: 0.70
+    - id: "MET-AH-AIOS-006"
+      name: "Cold Outreach Sequence"
+      steps: "1. Define ICP 2. Build 1000+ list 3. Craft offer 4. Write 5-email sequence 5. Send 100/day 6. Track reply 7. Book calls 8. Optimize"
+      domains: ["outbound", "lead-generation"]
+      weight: 0.70
+    - id: "MET-AH-AIOS-007"
+      name: "Lead Magnet Creation"
+      steps: "1. Identify #1 problem 2. Choose format 3. Create quick-win 4. Design delivery 5. Write opt-in 6. Email sequence 7. Test warm 8. Optimize"
+      domains: ["lead-generation", "content"]
+      weight: 0.70
+    - id: "MET-AH-AIOS-008"
+      name: "Content Repurposing Workflow"
+      steps: "1. Record long-form 2. Extract 3-5 clips 3. Write 10+ captions 4. Create email 5. Write blog 6. Schedule 7. Monitor 8. Double down"
+      domains: ["content", "marketing"]
+      weight: 0.70
+    - id: "MET-AH-AIOS-009"
+      name: "Sales Page Writing"
+      steps: "1. 10 headline variants 2. Problem agitation 3. Unique mechanism 4. Value stack 5. Social proof 6. Guarantee 7. Urgency 8. Multiple CTAs 9. Test"
+      domains: ["copywriting", "offers"]
+      weight: 0.70
+    - id: "MET-AH-AIOS-010"
+      name: "Hook Generation Process"
+      steps: "1. Study avatar language 2. Identify pains 3. Generate 7+ per category 4. 3-second test 5. A/B test 6. Measure retention 7. Iterate"
+      domains: ["hooks", "content"]
+      weight: 0.70
+    - id: "MET-AH-AIOS-011"
+      name: "Launch Planning"
+      steps: "1. Define offer 2. Build anticipation (7-14d) 3. Seed round (10-50) 4. Launch window (5-14d) 5. Daily comms 6. Scarcity 7. Close cart 8. Analyze 9. Plan beta"
+      domains: ["launch"]
+      weight: 0.70
+    - id: "MET-AH-AIOS-012"
+      name: "Grand Slam Offer Build"
+      steps: "1. Dream outcome 2. List problems 3. List solutions 4. Trim to highest-leverage 5. Create delivery 6. Stack value 7. Price at 1/10 8. Guarantee 9. Name uniquely 10. Test"
+      domains: ["offers"]
+      weight: 0.70
+    - id: "MET-AH-AIOS-013"
+      name: "Value Stack Creation"
+      steps: "1. Core deliverable 2. Add 3-5 bonuses 3. Assign $ value 4. Calculate total 5. Ensure 10x+ 6. Order excitement 7. Anchor pricing 8. Add guarantee"
+      domains: ["offers", "pricing"]
+      weight: 0.70
+    - id: "MET-AH-AIOS-014"
+      name: "Guarantee Engineering"
+      steps: "1. Assess risk 2. Select type 3. Define conditions 4. Calculate worst-case 5. Set window 6. Write copy 7. Train sales 8. Track refunds"
+      domains: ["offers", "risk-reversal"]
+      weight: 0.70
+    - id: "MET-AH-AIOS-015"
+      name: "Pricing Strategy Session"
+      steps: "1. Calculate delivery cost 2. Research competitors 3. Assess value 4. Apply Value Equation 5. Set initial (50-70%) 6. Test 10 sales 7. Raise until drop 8. Find equilibrium"
+      domains: ["pricing"]
+      weight: 0.70
+    - id: "MET-AH-AIOS-016"
+      name: "Onboarding Sequence Build"
+      steps: "1. Map 30-day journey 2. Day 1 quick win 3. Week 1 training 4. Week 2 implementation 5. Week 3 review 6. Week 4 celebration 7. Automated touchpoints 8. Measure completion"
+      domains: ["retention", "onboarding"]
+      weight: 0.70
+    - id: "MET-AH-AIOS-017"
+      name: "Churn Analysis Process"
+      steps: "1. Segment by type (5) 2. Pull cohort data 3. Identify churn peaks 4. Survey churned 5. Map to Value Equation 6. Design intervention 7. Implement 8. Monitor 30 days"
+      domains: ["retention", "diagnostics"]
+      weight: 0.70
+    - id: "MET-AH-AIOS-018"
+      name: "Win-Back Campaign"
+      steps: "1. Segment by time (30/60/90) 2. Identify reason 3. Fix root cause 4. Craft re-offer 5. Multi-channel outreach 6. Special terms 7. Track rate 8. Prevent repeat"
+      domains: ["retention", "win-back"]
+      weight: 0.70
+    - id: "MET-AH-AIOS-019"
+      name: "Delegation Roadmap"
+      steps: "1. Time audit (1 week) 2. Categorize tasks 3. List $10/h tasks 4. Create SOPs 5. Hire/delegate lowest 6. Train with SOP 7. Monitor KPIs 8. Release control"
+      domains: ["operations", "delegation"]
+      weight: 0.70
+    - id: "MET-AH-AIOS-020"
+      name: "SOP Creation"
+      steps: "1. Record task 2. Transcribe 3. Step-by-step 4. Decision trees 5. Screenshots 6. Stranger test 7. Iterate 8. Version control"
+      domains: ["operations", "systems"]
+      weight: 0.70
+    - id: "MET-AH-AIOS-021"
+      name: "Workshop Design Process"
+      steps: "1. Define transformation 2. Design 60-90min 3. Open with promise 4. Teach framework 5. Live exercise 6. Show results 7. Bridge to offer 8. Q&A as objection handling 9. Close urgency 10. Follow up"
+      domains: ["workshop", "delivery"]
+      weight: 0.70
+    - id: "MET-AH-AIOS-022"
+      name: "Revenue Optimization Process"
+      steps: "1. Fix churn 2. Raise prices 3. Improve conversion 4. Increase leads 5. Add revenue streams 6. Optimize unit economics 7. Monitor LTGP monthly"
+      domains: ["scaling", "unit-economics"]
+      weight: 0.70
+    - id: "MET-AH-AIOS-023"
+      name: "Platform Launch Strategy"
+      steps: "1. Choose platform 2. Study top performers 3. Create 30 pieces 4. Post 30 days 5. Analyze 6. Double down 7. Add second platform after mastery"
+      domains: ["content", "marketing"]
+      weight: 0.70
+    - id: "MET-AH-AIOS-024"
+      name: "Scale Readiness Assessment"
+      steps: "1. Verify organic conversion 2. Check LTGP > 3x CPA 3. Confirm 2x delivery capacity 4. Team trained 5. SOPs exist 6. Test small budget 7. Scale 20-30% per 48h"
+      domains: ["scaling"]
+      weight: 0.70
+    - id: "MET-AH-AIOS-025"
+      name: "Offer Naming & Packaging"
+      steps: "1. Identify mechanism 2. Proprietary name 3. Visual identity 4. Package as system 5. Origin story 6. Comparison chart 7. Test with audience"
+      domains: ["offers", "branding"]
+      weight: 0.70
+    - id: "MET-AH-AIOS-026"
+      name: "Scarcity Campaign"
+      steps: "1. Choose scarcity type 2. Make it REAL 3. Announce deadline 4. Reminder sequence 5. Social proof 6. Final call 7. Honor deadline"
+      domains: ["launch", "offers"]
+      weight: 0.70
+    - id: "MET-AH-AIOS-027"
+      name: "CLOSER Sales Call"
+      steps: "1. Clarify why here 2. Label problem 3. Overview past attempts 4. Sell vacation (outcome) 5. Explain away with Value Equation 6. Reinforce transformation"
+      domains: ["closing", "sales-process"]
+      weight: 0.70
+    - id: "MET-AH-AIOS-028"
+      name: "Scaling Stage Transition"
+      steps: "1. Identify stage 2. Verify mastery 3. Identify bottleneck 4. Stage-appropriate strategy 5. Build systems 6. Hire for next stage 7. Transition gradually"
+      domains: ["scaling"]
+      weight: 0.70
+    - id: "MET-AH-AIOS-029"
+      name: "Business Model Selection"
+      steps: "1. List options 2. Score on 6 dimensions 3. Match to strengths 4. Small test 5. Commit 12+ months 6. Optimize before switching"
+      domains: ["business-models", "strategy"]
+      weight: 0.70
+    - id: "MET-AH-AIOS-030"
+      name: "Constraint Resolution"
+      steps: "1. Map process 2. Find bottleneck 3. Exploit fully 4. Subordinate everything 5. Elevate (invest) 6. Repeat (new constraint)"
+      domains: ["operations", "diagnostics"]
+      weight: 0.70
+    - id: "MET-AH-AIOS-031"
+      name: "Ad Budget Allocation"
+      steps: "1. Set monthly budget 2. 70% proven 3. 20% testing 4. 10% experimental 5. Review weekly 6. Shift to winners 7. Kill below 1.5x ROAS after 7 days"
+      domains: ["advertising"]
+      weight: 0.70
+    - id: "MET-AH-AIOS-032"
+      name: "Hiring & Training Protocol"
+      steps: "1. Define by output 2. Scorecard 3. Source (referral first) 4. Structured interview 5. Paid trial 6. 30-day onboarding 7. 90-day review 8. KPI evaluation"
+      domains: ["hiring", "operations"]
+      weight: 0.70
+    - id: "MET-AH-AIOS-033"
+      name: "Retention System Build"
+      steps: "1. Map lifecycle 2. 30-day onboarding 3. Check-ins 4. Community 5. Progress tracking 6. Milestones 7. At-risk signals 8. Save campaigns 9. Cohort retention"
+      domains: ["retention"]
+      weight: 0.70
+    - id: "MET-AH-AIOS-034"
+      name: "Content Calendar System"
+      steps: "1. Define 3-5 pillars 2. Map to problems 3. Template per format 4. Batch weekly 5. Schedule 6. Monitor 7. Repurpose winners 8. Archive"
+      domains: ["content", "marketing"]
+      weight: 0.70
