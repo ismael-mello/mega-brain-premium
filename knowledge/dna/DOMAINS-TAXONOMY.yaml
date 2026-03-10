@@ -1,0 +1,202 @@
+# DOMAINS-TAXONOMY.yaml
+# Taxonomia de Dominios para Classificacao de DNA Cognitivo
+#
+# Versao: 1.0.0
+# Data: 2025-12-23
+# Proposito: Normalizar dominios para agregacao e busca
+
+versao: "1.0.0"
+
+# ═══════════════════════════════════════════════════════════════════════════════
+# DOMINIOS
+# ═══════════════════════════════════════════════════════════════════════════════
+
+dominios:
+  - id: "vendas"
+    aliases: ["sales", "comercial", "selling"]
+    subdominios: ["qualificacao", "closing", "objecoes", "follow-up", "discovery", "demo"]
+    descricao: "Processo de vendas, fechamento e relacionamento com prospects"
+
+  - id: "outbound"
+    aliases: ["cold-calling", "prospeccao", "cold-outreach"]
+    subdominios: ["cold-call", "cold-email", "linkedin", "referral", "prospecting"]
+    descricao: "Prospeccao ativa e geração de oportunidades outbound"
+
+  - id: "hiring"
+    aliases: ["contratacao", "recrutamento", "recruiting"]
+    subdominios: ["sourcing", "entrevista", "onboarding", "ramp", "farm-system"]
+    descricao: "Contratacao, integracao e desenvolvimento de talentos"
+
+  - id: "compensation"
+    aliases: ["remuneracao", "comissao", "pay"]
+    subdominios: ["fixo", "variavel", "ote", "equity", "bonus", "commission"]
+    descricao: "Estruturas de remuneracao e incentivos"
+
+  - id: "management"
+    aliases: ["gestao", "lideranca", "leadership"]
+    subdominios: ["1-on-1", "feedback", "demissao", "promocao", "coaching", "qc"]
+    descricao: "Gestao de pessoas e desenvolvimento de equipe"
+
+  - id: "scaling"
+    aliases: ["escala", "growth", "scale"]
+    subdominios: ["processos", "automacao", "sistemas", "delegacao", "org-design"]
+    descricao: "Escala de operacoes e crescimento estruturado"
+
+  - id: "operations"
+    aliases: ["operacoes", "ops"]
+    subdominios: ["metricas", "kpis", "dashboards", "reporting", "analytics"]
+    descricao: "Operacoes, metricas e gestao por indicadores"
+
+  - id: "marketing"
+    aliases: ["mkt", "aquisicao", "demand-gen"]
+    subdominios: ["ads", "content", "funnel", "copy", "branding", "positioning"]
+    descricao: "Marketing, posicionamento e geracao de demanda"
+
+  - id: "offers"
+    aliases: ["ofertas", "pricing", "value-proposition"]
+    subdominios: ["garantia", "bonus", "ancoragem", "value-stack", "irresistible-offer"]
+    descricao: "Construcao de ofertas e estrategia de preco"
+
+  - id: "delivery"
+    aliases: ["entrega", "fulfillment", "service"]
+    subdominios: ["suporte", "retencao", "churn", "success", "customer-experience"]
+    descricao: "Entrega de valor e experiencia do cliente"
+
+  - id: "product"
+    aliases: ["produto", "servico"]
+    subdominios: ["desenvolvimento", "iteracao", "mvp", "roadmap", "productization"]
+    descricao: "Desenvolvimento e evolucao de produtos/servicos"
+
+  - id: "mindset"
+    aliases: ["mentalidade", "filosofia", "beliefs"]
+    subdominios: ["crencas", "motivacao", "decisao", "risco", "discipline"]
+    descricao: "Mentalidade, filosofia e tomada de decisao"
+
+  - id: "copywriting"
+    aliases: ["copy", "persuasion", "direct-response-copy", "sales-copy"]
+    subdominios: ["headlines", "vsl", "email-copy", "sales-letter", "webinar-script", "ads-copy", "launch-copy"]
+    descricao: "Copywriting persuasivo, direct response e estruturas de venda escrita"
+
+  - id: "brand-strategy"
+    aliases: ["branding", "brand", "brand-identity", "positioning"]
+    subdominios: ["brand-equity", "brand-identity", "brand-messaging", "naming", "brand-architecture", "brand-culture", "visual-identity"]
+    descricao: "Estrategia de marca, identidade, posicionamento e brand equity"
+
+# ═══════════════════════════════════════════════════════════════════════════════
+# MAPEAMENTO CARGO → DOMINIOS
+# ═══════════════════════════════════════════════════════════════════════════════
+
+cargos:
+  # C-LEVEL
+  CRO:
+    dominios_primarios: ["vendas", "scaling", "operations"]
+    dominios_secundarios: ["offers", "compensation", "hiring"]
+    pessoa_prioritaria_default: "alex-hormozi"
+
+  CFO:
+    dominios_primarios: ["operations", "scaling", "compensation"]
+    dominios_secundarios: ["management"]
+    pessoa_prioritaria_default: "SAM-OVEN"
+
+  CMO:
+    dominios_primarios: ["marketing", "offers", "scaling", "copywriting", "brand-strategy"]
+    dominios_secundarios: ["product"]
+    pessoa_prioritaria_default: "alex-hormozi"
+
+  COO:
+    dominios_primarios: ["operations", "scaling", "delivery"]
+    dominios_secundarios: ["management", "hiring"]
+    pessoa_prioritaria_default: "SAM-OVEN"
+
+  # SALES
+  SALES-MANAGER:
+    dominios_primarios: ["vendas", "management", "compensation", "hiring"]
+    dominios_secundarios: ["operations", "scaling"]
+    pessoa_prioritaria_default: "cole-gordon"
+
+  CLOSER:
+    dominios_primarios: ["vendas", "offers"]
+    dominios_secundarios: ["mindset"]
+    pessoa_prioritaria_default: "cole-gordon"
+
+  BDR:
+    dominios_primarios: ["outbound", "vendas"]
+    dominios_secundarios: ["marketing"]
+    pessoa_prioritaria_default: "JORDAN-LEE"
+
+  SDS:
+    dominios_primarios: ["vendas", "outbound"]
+    dominios_secundarios: ["operations"]
+    pessoa_prioritaria_default: "cole-gordon"
+
+  LNS:
+    dominios_primarios: ["vendas", "operations"]
+    dominios_secundarios: ["delivery"]
+    pessoa_prioritaria_default: "cole-gordon"
+
+  SALES-LEAD:
+    dominios_primarios: ["vendas", "management"]
+    dominios_secundarios: ["compensation"]
+    pessoa_prioritaria_default: "cole-gordon"
+
+  SALES-COORDINATOR:
+    dominios_primarios: ["operations", "vendas"]
+    dominios_secundarios: ["management"]
+    pessoa_prioritaria_default: "cole-gordon"
+
+  CUSTOMER-SUCCESS:
+    dominios_primarios: ["delivery", "vendas"]
+    dominios_secundarios: ["operations"]
+    pessoa_prioritaria_default: "alex-hormozi"
+
+# ═══════════════════════════════════════════════════════════════════════════════
+# MAPEAMENTO PESSOA → DOMINIOS DE EXPERTISE
+# ═══════════════════════════════════════════════════════════════════════════════
+
+pessoas:
+  ALEX-HORMOZI:
+    expertise_primaria: ["offers", "scaling", "vendas", "mindset"]
+    expertise_secundaria: ["hiring", "operations", "delivery"]
+    contexto: "Gym Launch, Acquisition.com, $100M frameworks"
+
+  COLE-GORDON:
+    expertise_primaria: ["vendas", "compensation", "hiring", "management"]
+    expertise_secundaria: ["scaling", "operations"]
+    contexto: "Closers.io, Sales Training, High-Ticket Closing"
+
+  SAM-OVEN:
+    expertise_primaria: ["scaling", "operations", "mindset"]
+    expertise_secundaria: ["offers", "marketing"]
+    contexto: "Consulting.com, Skool, Systems Thinking"
+
+  JORDAN-LEE:
+    expertise_primaria: ["outbound", "vendas", "marketing"]
+    expertise_secundaria: ["scaling"]
+    contexto: "AI Business, Cold Outreach"
+
+  JEREMY-HAYNES:
+    expertise_primaria: ["marketing", "offers", "vendas"]
+    expertise_secundaria: ["scaling"]
+    contexto: "Agency, Digital Marketing"
+
+  # G4-EDUCACAO: excluded persona (layer-rules.yaml)
+  # FULL-SALES-SYSTEM: excluded persona (layer-rules.yaml)
+
+# ═══════════════════════════════════════════════════════════════════════════════
+# REGRAS DE USO
+# ═══════════════════════════════════════════════════════════════════════════════
+
+regras:
+  normalizacao:
+    - "Sempre usar ID do dominio, nao alias"
+    - "Case-insensitive para matching"
+    - "Subdominio herda dominio pai"
+
+  agregacao:
+    - "Agregar apenas dentro do mesmo dominio"
+    - "Conflito cross-domain vai para MAP-CONFLITOS.yaml"
+
+  prioridade:
+    - "Dominio primario > secundario para cargo"
+    - "Expertise primaria > secundaria para pessoa"
+    - "Se empate, usar pessoa_prioritaria_default"

@@ -1,0 +1,940 @@
+# AGG-BRAND-STRATEGY.yaml
+# DNA Agregado - Domínio: BRAND STRATEGY
+# Consolidação de elementos de brand strategy, identity e positioning
+#
+# Versão: 1.0.0
+# Criado: 2026-03-11
+# Tipo: AGGREGATED DNA (single-source: AIOS Brand Squad)
+# Fonte: knowledge/sources/aios-squads/03-BRAND-SQUAD.md
+# Weight: 0.70 (secondary - curated by Synkra AIOS)
+#
+# ═══════════════════════════════════════════════════════════════════════════════
+# FONTES CONSOLIDADAS
+# ═══════════════════════════════════════════════════════════════════════════════
+
+dominio: "brand-strategy"
+versao: "1.0.0"
+data_criacao: "2026-03-11"
+ultima_atualizacao: "2026-03-11"
+total_elementos: 120
+peso_global: 0.70
+
+fontes_consolidadas:
+  - fonte: "aios-brand-squad"
+    path: "knowledge/sources/aios-squads/03-BRAND-SQUAD.md"
+    raw_path: "knowledge/sources/aios-squads/raw/brand-squad/"
+    peso_dominio: 0.70
+    elementos_contribuidos: 120
+    especialidade: "Brand experts - Ries, Aaker, Kapferer, Keller, Sharp, Neumeier, Miller, Wheeler, Heyward, Yohn"
+    tipo_fonte: "SECONDARY (curated by Synkra AIOS)"
+    agentes_internos: 15
+
+# ═══════════════════════════════════════════════════════════════════════════════
+# BRAND EXPERTS (por tier)
+# ═══════════════════════════════════════════════════════════════════════════════
+
+experts:
+  tier_1a:
+    - nome: "Al Ries"
+      especialidade: "Positioning & Differentiation"
+      key_framework: "22 Immutable Laws + Category Creation"
+    - nome: "David Aaker"
+      especialidade: "Brand Equity & Portfolio"
+      key_framework: "Brand Equity Model (5 pillars)"
+    - nome: "Jean-Noel Kapferer"
+      especialidade: "Identity & Luxury"
+      key_framework: "Brand Identity Prism (6 facets)"
+    - nome: "Kevin Lane Keller"
+      especialidade: "Measurement & CBBE"
+      key_framework: "CBBE Pyramid (4 layers)"
+
+  tier_1b:
+    - nome: "Byron Sharp"
+      especialidade: "Evidence-Based Growth"
+      key_framework: "Mental/Physical Availability"
+    - nome: "Marty Neumeier"
+      especialidade: "Radical Differentiation"
+      key_framework: "Brand Gap + Zag + Onlyness"
+    - nome: "Donald Miller"
+      especialidade: "Messaging Clarity"
+      key_framework: "StoryBrand SB7 Framework"
+
+  tier_1c:
+    - nome: "Alina Wheeler"
+      especialidade: "Visual Identity Systems"
+      key_framework: "5-Phase Brand Identity Process"
+    - nome: "Emily Heyward"
+      especialidade: "Startup Branding"
+      key_framework: "Brand from Day One + Why Test"
+    - nome: "Denise Lee Yohn"
+      especialidade: "Brand-Culture Fusion"
+      key_framework: "FUSION + 7 Principles"
+
+  support:
+    - nome: "Archetype Consultant"
+      especialidade: "Brand Personality"
+      key_framework: "12 Jungian Archetypes"
+    - nome: "Naming Strategist"
+      especialidade: "Naming"
+      key_framework: "8-Type Taxonomy + Phonosemantics"
+
+# ═══════════════════════════════════════════════════════════════════════════════
+# PRODUCTIVE TENSIONS (conflitos entre experts)
+# ═══════════════════════════════════════════════════════════════════════════════
+
+tensoes_produtivas:
+  - tensao: "Differentiation vs Distinctiveness"
+    lado_a: "Ries/Neumeier: Seja diferente"
+    lado_b: "Sharp: Seja distintivo (memory structures)"
+    resolucao: "Differentiation para estratégia, distinctiveness para execução"
+
+  - tensao: "Emotional vs Evidence-Based"
+    lado_a: "Miller/Kapferer: Emoção é o driver"
+    lado_b: "Sharp/Keller: Meça tudo"
+    resolucao: "Emoção no criativo, evidência na alocação"
+
+  - tensao: "Brand-as-Asset vs Brand-as-Communication"
+    lado_a: "Aaker: Brand equity é financeiro"
+    lado_b: "Miller: Brand é clareza de story"
+    resolucao: "Ambos verdade em níveis diferentes (corporate vs customer)"
+
+  - tensao: "Precision vs Flexibility"
+    lado_a: "Kapferer/Wheeler: Guidelines rígidas"
+    lado_b: "Neumeier: Flexibilidade radical"
+    resolucao: "Core tight, expressão flexível"
+
+  - tensao: "Narrow Focus vs Broad Reach"
+    lado_a: "Ries: Sacrificar para focar"
+    lado_b: "Sharp: Alcançar todos os category buyers"
+    resolucao: "Focar positioning, ampliar distribuição"
+
+  - tensao: "Rarity vs Growth"
+    lado_a: "Kapferer: Luxo precisa de escassez"
+    lado_b: "Sharp: Growth precisa de penetração"
+    resolucao: "Depende do tipo de brand (luxury vs mass)"
+
+# ═══════════════════════════════════════════════════════════════════════════════
+# L1: FILOSOFIAS (20 elementos)
+# ═══════════════════════════════════════════════════════════════════════════════
+
+filosofias:
+  - id: "AGG-BRAND-F001"
+    conteudo: "Better to be first than to be better"
+    fonte: "ries"
+    conceito: "Law of Leadership"
+    peso: 0.70
+
+  - id: "AGG-BRAND-F002"
+    conteudo: "Own one word in the prospect's mind"
+    fonte: "ries"
+    conceito: "Law of Focus"
+    peso: 0.70
+
+  - id: "AGG-BRAND-F003"
+    conteudo: "A brand is a person's gut feeling about a product, service, or organization"
+    fonte: "neumeier"
+    peso: 0.70
+
+  - id: "AGG-BRAND-F004"
+    conteudo: "Your brand isn't what you say it is — it's what THEY say it is"
+    fonte: "neumeier"
+    peso: 0.70
+
+  - id: "AGG-BRAND-F005"
+    conteudo: "Brand is an asset, not an expense"
+    fonte: "aaker"
+    peso: 0.70
+
+  - id: "AGG-BRAND-F006"
+    conteudo: "Identity precedes image — build from inside out"
+    fonte: "kapferer"
+    peso: 0.70
+
+  - id: "AGG-BRAND-F007"
+    conteudo: "Customer is the hero, brand is the guide"
+    fonte: "miller"
+    conceito: "StoryBrand"
+    peso: 0.70
+
+  - id: "AGG-BRAND-F008"
+    conteudo: "If you confuse, you lose"
+    fonte: "miller"
+    peso: 0.70
+
+  - id: "AGG-BRAND-F009"
+    conteudo: "Grow by penetration, not loyalty"
+    fonte: "sharp"
+    peso: 0.70
+
+  - id: "AGG-BRAND-F010"
+    conteudo: "Distinctiveness matters more than differentiation"
+    fonte: "sharp"
+    peso: 0.70
+
+  - id: "AGG-BRAND-F011"
+    conteudo: "When you try to be everything, you end up being nothing"
+    fonte: "ries"
+    conceito: "Law of Sacrifice"
+    peso: 0.70
+
+  - id: "AGG-BRAND-F012"
+    conteudo: "Line extension destroys brand equity"
+    fonte: "ries"
+    peso: 0.70
+
+  - id: "AGG-BRAND-F013"
+    conteudo: "Brand matters from BEFORE day one"
+    fonte: "heyward"
+    peso: 0.70
+
+  - id: "AGG-BRAND-F014"
+    conteudo: "Great brands start INSIDE the organization"
+    fonte: "yohn"
+    peso: 0.70
+
+  - id: "AGG-BRAND-F015"
+    conteudo: "Your brand is what you DO, not what you SAY"
+    fonte: "yohn"
+    peso: 0.70
+
+  - id: "AGG-BRAND-F016"
+    conteudo: "Luxury brand grows by maintaining rarity, not chasing volume"
+    fonte: "kapferer"
+    peso: 0.70
+
+  - id: "AGG-BRAND-F017"
+    conteudo: "Brand salience trumps brand preference"
+    fonte: "keller"
+    peso: 0.70
+
+  - id: "AGG-BRAND-F018"
+    conteudo: "Building equity requires consistency over time"
+    fonte: "aaker"
+    peso: 0.70
+
+  - id: "AGG-BRAND-F019"
+    conteudo: "People buy solutions to INTERNAL problems, not external"
+    fonte: "miller"
+    peso: 0.70
+
+  - id: "AGG-BRAND-F020"
+    conteudo: "Culture and brand must be aligned or both suffer"
+    fonte: "yohn"
+    peso: 0.70
+
+# ═══════════════════════════════════════════════════════════════════════════════
+# L2: MODELOS MENTAIS (18 elementos)
+# ═══════════════════════════════════════════════════════════════════════════════
+
+modelos_mentais:
+  - id: "AGG-BRAND-MM001"
+    conteudo: "22 Immutable Laws of Branding"
+    descricao: "22 leis que governam como marcas nascem, crescem e morrem"
+    aplicacao: "Checklist estratégico para decisões de marca"
+    fonte: "ries"
+    peso: 0.70
+
+  - id: "AGG-BRAND-MM002"
+    conteudo: "Brand Equity Model (5 pillars)"
+    descricao: "Awareness, Perceived Quality, Associations, Loyalty, Proprietary Assets"
+    aplicacao: "Avaliação de saúde da marca"
+    fonte: "aaker"
+    peso: 0.70
+
+  - id: "AGG-BRAND-MM003"
+    conteudo: "CBBE Pyramid (4 layers)"
+    descricao: "Identity (Salience) → Meaning (Performance + Imagery) → Response (Judgments + Feelings) → Resonance"
+    aplicacao: "Diagnóstico de profundidade de marca no mercado"
+    fonte: "keller"
+    peso: 0.70
+
+  - id: "AGG-BRAND-MM004"
+    conteudo: "Brand Identity Prism (6 facets)"
+    descricao: "Physique, Personality, Culture, Relationship, Reflection, Self-Image"
+    aplicacao: "Design completo de identidade de marca"
+    fonte: "kapferer"
+    peso: 0.70
+
+  - id: "AGG-BRAND-MM005"
+    conteudo: "StoryBrand SB7 Framework (7 elements)"
+    descricao: "Character → Problem (3 levels) → Guide → Plan → CTA → Failure → Success"
+    aplicacao: "Messaging e narrativa de marca"
+    fonte: "miller"
+    peso: 0.70
+
+  - id: "AGG-BRAND-MM006"
+    conteudo: "Mental + Physical Availability"
+    descricao: "Apenas dois verdadeiros drivers de crescimento de marca"
+    aplicacao: "Estratégia de crescimento evidence-based"
+    fonte: "sharp"
+    peso: 0.70
+
+  - id: "AGG-BRAND-MM007"
+    conteudo: "Onlyness Statement"
+    descricao: "'Our [offering] is the only [category] that [differentiation]'"
+    aplicacao: "Teste de diferenciação radical"
+    fonte: "neumeier"
+    peso: 0.70
+
+  - id: "AGG-BRAND-MM008"
+    conteudo: "Brand Vision Model (4 perspectives)"
+    descricao: "Product, Organization, Person, Symbol"
+    aplicacao: "Visão multidimensional da marca"
+    fonte: "aaker"
+    peso: 0.70
+
+  - id: "AGG-BRAND-MM009"
+    conteudo: "Brand Value Chain"
+    descricao: "Investment → Mindset → Performance → Shareholder Value"
+    aplicacao: "Medir ROI de investimento em marca"
+    fonte: "keller"
+    peso: 0.70
+
+  - id: "AGG-BRAND-MM010"
+    conteudo: "Double Jeopardy Law"
+    descricao: "Marcas menores = menos compradores + menos leais"
+    aplicacao: "Entender dinâmica competitiva de marcas"
+    fonte: "sharp"
+    peso: 0.70
+
+  - id: "AGG-BRAND-MM011"
+    conteudo: "Category Entry Points (CEPs)"
+    descricao: "Situações internas que disparam pensamento sobre a categoria"
+    aplicacao: "Mapear momentos de gatilho para compra"
+    fonte: "sharp"
+    peso: 0.70
+
+  - id: "AGG-BRAND-MM012"
+    conteudo: "12 Jungian Archetypes"
+    descricao: "Innocent, Explorer, Sage, Hero, Outlaw, Magician, Everyman, Lover, Jester, Caregiver, Creator, Ruler"
+    aplicacao: "Definir personalidade da marca"
+    fonte: "archetype-consultant"
+    peso: 0.70
+
+  - id: "AGG-BRAND-MM013"
+    conteudo: "Aaker's 5 Personality Dimensions"
+    descricao: "Sincerity, Excitement, Competence, Sophistication, Ruggedness"
+    aplicacao: "Medir e definir personalidade da marca"
+    fonte: "aaker"
+    peso: 0.70
+
+  - id: "AGG-BRAND-MM014"
+    conteudo: "FUSION (Brand + Culture)"
+    descricao: "Brand e cultura organizacional como força unificada"
+    aplicacao: "Alinhamento interno-externo"
+    fonte: "yohn"
+    peso: 0.70
+
+  - id: "AGG-BRAND-MM015"
+    conteudo: "9 Brand Types"
+    descricao: "Disruptive, Conscious, Service, Innovative, Value, Performance, Luxury, Style, Experience"
+    aplicacao: "Classificar e posicionar tipo de marca"
+    fonte: "yohn"
+    peso: 0.70
+
+  - id: "AGG-BRAND-MM016"
+    conteudo: "Mark Types"
+    descricao: "Wordmarks, Letterform, Pictorial, Abstract, Emblems, Dynamic, Characters"
+    aplicacao: "Escolher tipo de logo/identidade visual"
+    fonte: "wheeler"
+    peso: 0.70
+
+  - id: "AGG-BRAND-MM017"
+    conteudo: "9 Brand Identity Ideals"
+    descricao: "Vision, Meaning, Authenticity, Differentiation, Sustainability, Coherence, Flexibility, Commitment, Value"
+    aplicacao: "Checklist de excelência em identidade"
+    fonte: "wheeler"
+    peso: 0.70
+
+  - id: "AGG-BRAND-MM018"
+    conteudo: "Why Test"
+    descricao: "Keep asking 'why' until reaching existential fear/desire"
+    aplicacao: "Encontrar posicionamento emocional profundo"
+    fonte: "heyward"
+    peso: 0.70
+
+# ═══════════════════════════════════════════════════════════════════════════════
+# L3: HEURÍSTICAS (40 elementos)
+# ═══════════════════════════════════════════════════════════════════════════════
+
+heuristicas:
+  # --- POSITIONING ---
+  - id: "AGG-BRAND-H001"
+    conteudo: "Better to be first than to be better"
+    tipo: "qualitativa"
+    fonte: "ries"
+    peso: 0.70
+
+  - id: "AGG-BRAND-H002"
+    conteudo: "Own one word in prospect's mind"
+    tipo: "qualitativa"
+    fonte: "ries"
+    peso: 0.70
+
+  - id: "AGG-BRAND-H003"
+    conteudo: "Strategy comes from marketplace, not boardroom"
+    tipo: "qualitativa"
+    fonte: "ries"
+    peso: 0.70
+
+  - id: "AGG-BRAND-H004"
+    conteudo: "For every category, there are only two viable brands (Law of Duality)"
+    tipo: "quantitativa"
+    fonte: "ries"
+    peso: 0.70
+
+  - id: "AGG-BRAND-H005"
+    conteudo: "Narrow focus beats broad scope (Law of Sacrifice)"
+    tipo: "qualitativa"
+    fonte: "ries"
+    peso: 0.70
+
+  - id: "AGG-BRAND-H006"
+    conteudo: "The essence of a brand is a singular idea (Law of Singularity)"
+    tipo: "qualitativa"
+    fonte: "ries"
+    peso: 0.70
+
+  - id: "AGG-BRAND-H007"
+    conteudo: "Line extension destroys brand equity"
+    tipo: "qualitativa"
+    fonte: "ries"
+    peso: 0.70
+
+  - id: "AGG-BRAND-H008"
+    conteudo: "If not first in category, create new category to be first"
+    tipo: "qualitativa"
+    fonte: "ries"
+    conceito: "Category Creation"
+    peso: 0.70
+
+  # --- IDENTITY & EQUITY ---
+  - id: "AGG-BRAND-H009"
+    conteudo: "Brand is a person's gut feeling about a product"
+    tipo: "qualitativa"
+    fonte: "neumeier"
+    peso: 0.70
+
+  - id: "AGG-BRAND-H010"
+    conteudo: "Your brand isn't what you say — it's what THEY say"
+    tipo: "qualitativa"
+    fonte: "neumeier"
+    peso: 0.70
+
+  - id: "AGG-BRAND-H011"
+    conteudo: "Brand is asset, not expense"
+    tipo: "qualitativa"
+    fonte: "aaker"
+    peso: 0.70
+
+  - id: "AGG-BRAND-H012"
+    conteudo: "Identity precedes image"
+    tipo: "qualitativa"
+    fonte: "kapferer"
+    peso: 0.70
+
+  - id: "AGG-BRAND-H013"
+    conteudo: "Luxury brand grows by maintaining rarity, not volume"
+    tipo: "qualitativa"
+    fonte: "kapferer"
+    peso: 0.70
+
+  - id: "AGG-BRAND-H014"
+    conteudo: "Brand salience trumps brand preference"
+    tipo: "qualitativa"
+    fonte: "keller"
+    peso: 0.70
+
+  - id: "AGG-BRAND-H015"
+    conteudo: "Building equity requires consistency over time"
+    tipo: "qualitativa"
+    fonte: "aaker"
+    peso: 0.70
+
+  - id: "AGG-BRAND-H016"
+    conteudo: "Portfolio brands must have clear roles"
+    tipo: "qualitativa"
+    fonte: "aaker"
+    peso: 0.70
+
+  # --- GROWTH ---
+  - id: "AGG-BRAND-H017"
+    conteudo: "Grow by penetration, not loyalty"
+    tipo: "qualitativa"
+    fonte: "sharp"
+    peso: 0.70
+
+  - id: "AGG-BRAND-H018"
+    conteudo: "Light buyers are the growth engine"
+    tipo: "qualitativa"
+    fonte: "sharp"
+    peso: 0.70
+
+  - id: "AGG-BRAND-H019"
+    conteudo: "Continuous advertising > pulsed advertising"
+    tipo: "qualitativa"
+    fonte: "sharp"
+    peso: 0.70
+
+  - id: "AGG-BRAND-H020"
+    conteudo: "Distinctiveness > differentiation for execution"
+    tipo: "qualitativa"
+    fonte: "sharp"
+    peso: 0.70
+
+  - id: "AGG-BRAND-H021"
+    conteudo: "All brands share most buyers with competitors"
+    tipo: "qualitativa"
+    fonte: "sharp"
+    peso: 0.70
+
+  - id: "AGG-BRAND-H022"
+    conteudo: "Physical availability drives more sales than emotional connection"
+    tipo: "qualitativa"
+    fonte: "sharp"
+    peso: 0.70
+
+  - id: "AGG-BRAND-H023"
+    conteudo: "Reach more people once > few people many times"
+    tipo: "qualitativa"
+    fonte: "sharp"
+    peso: 0.70
+
+  # --- MESSAGING ---
+  - id: "AGG-BRAND-H024"
+    conteudo: "If you confuse, you lose"
+    tipo: "qualitativa"
+    fonte: "miller"
+    peso: 0.70
+
+  - id: "AGG-BRAND-H025"
+    conteudo: "Customer is the hero, brand is the guide"
+    tipo: "qualitativa"
+    fonte: "miller"
+    peso: 0.70
+
+  - id: "AGG-BRAND-H026"
+    conteudo: "People buy solutions to INTERNAL problems"
+    tipo: "qualitativa"
+    fonte: "miller"
+    peso: 0.70
+
+  - id: "AGG-BRAND-H027"
+    conteudo: "Pretty websites don't sell — words sell"
+    tipo: "qualitativa"
+    fonte: "miller"
+    peso: 0.70
+
+  - id: "AGG-BRAND-H028"
+    conteudo: "Show empathy first, then authority"
+    tipo: "qualitativa"
+    fonte: "miller"
+    peso: 0.70
+
+  - id: "AGG-BRAND-H029"
+    conteudo: "Always include a clear call to action"
+    tipo: "qualitativa"
+    fonte: "miller"
+    peso: 0.70
+
+  - id: "AGG-BRAND-H030"
+    conteudo: "Define what's at stake if customer doesn't act"
+    tipo: "qualitativa"
+    fonte: "miller"
+    peso: 0.70
+
+  # --- CULTURE ---
+  - id: "AGG-BRAND-H031"
+    conteudo: "Great brands start INSIDE the organization"
+    tipo: "qualitativa"
+    fonte: "yohn"
+    peso: 0.70
+
+  - id: "AGG-BRAND-H032"
+    conteudo: "Your brand is what you DO, not what you SAY"
+    tipo: "qualitativa"
+    fonte: "yohn"
+    peso: 0.70
+
+  - id: "AGG-BRAND-H033"
+    conteudo: "All the little things you DO > big things you SAY"
+    tipo: "qualitativa"
+    fonte: "yohn"
+    peso: 0.70
+
+  - id: "AGG-BRAND-H034"
+    conteudo: "Culture and brand must be aligned or both suffer"
+    tipo: "qualitativa"
+    fonte: "yohn"
+    peso: 0.70
+
+  # --- STARTUP ---
+  - id: "AGG-BRAND-H035"
+    conteudo: "Brand matters from BEFORE day one"
+    tipo: "qualitativa"
+    fonte: "heyward"
+    peso: 0.70
+
+  - id: "AGG-BRAND-H036"
+    conteudo: "Data can't tell you brand positioning"
+    tipo: "qualitativa"
+    fonte: "heyward"
+    peso: 0.70
+
+  - id: "AGG-BRAND-H037"
+    conteudo: "Familiar problem, unexpected answer"
+    tipo: "qualitativa"
+    fonte: "heyward"
+    peso: 0.70
+
+  - id: "AGG-BRAND-H038"
+    conteudo: "Community is brand's most powerful asset early on"
+    tipo: "qualitativa"
+    fonte: "heyward"
+    peso: 0.70
+
+  # --- NAMING ---
+  - id: "AGG-BRAND-H039"
+    conteudo: "Name = strategic asset, not creative accident"
+    tipo: "qualitativa"
+    fonte: "naming-strategist"
+    peso: 0.70
+
+  - id: "AGG-BRAND-H040"
+    conteudo: "Generate 30-50 name candidates before selecting"
+    tipo: "quantitativa"
+    fonte: "naming-strategist"
+    peso: 0.70
+
+# ═══════════════════════════════════════════════════════════════════════════════
+# L4: FRAMEWORKS (22 elementos)
+# ═══════════════════════════════════════════════════════════════════════════════
+
+frameworks:
+  # --- POSITIONING ---
+  - id: "AGG-BRAND-FW001"
+    nome: "22 Immutable Laws of Branding"
+    fonte: "ries"
+    descricao: "22 leis que governam positioning, naming, category creation e brand growth"
+    aplicacao: "Checklist estratégico para todas decisões de marca"
+    peso: 0.70
+
+  - id: "AGG-BRAND-FW002"
+    nome: "Onlyness Statement"
+    fonte: "neumeier"
+    formula: "'Our [offering] is the only [category] that [differentiation]'"
+    aplicacao: "Teste de diferenciação radical"
+    peso: 0.70
+
+  - id: "AGG-BRAND-FW003"
+    nome: "Category Creation"
+    fonte: "ries"
+    descricao: "Se não é primeiro na categoria, crie nova categoria para ser primeiro"
+    aplicacao: "Estratégia de posicionamento quando mercado está saturado"
+    peso: 0.70
+
+  - id: "AGG-BRAND-FW004"
+    nome: "Mad Libs Positioning"
+    fonte: "heyward"
+    formula: "For [target] who [need], [product] is [category] that [emotional] unlike [alternatives]"
+    aplicacao: "Template rápido de positioning statement"
+    peso: 0.70
+
+  # --- EQUITY ---
+  - id: "AGG-BRAND-FW005"
+    nome: "Aaker Brand Equity Model"
+    fonte: "aaker"
+    etapas: ["Awareness", "Perceived Quality", "Associations", "Loyalty", "Proprietary Assets"]
+    aplicacao: "Avaliação de saúde e valor da marca"
+    peso: 0.70
+
+  - id: "AGG-BRAND-FW006"
+    nome: "CBBE Pyramid"
+    fonte: "keller"
+    etapas: ["Identity (Salience)", "Meaning (Performance + Imagery)", "Response (Judgments + Feelings)", "Resonance (Loyalty + Attachment + Community + Engagement)"]
+    aplicacao: "Diagnóstico de profundidade de relação marca-consumidor"
+    peso: 0.70
+
+  - id: "AGG-BRAND-FW007"
+    nome: "Brand Value Chain"
+    fonte: "keller"
+    etapas: ["Investment", "Mindset", "Performance", "Shareholder Value"]
+    aplicacao: "Medir ROI de investimento em marca"
+    peso: 0.70
+
+  - id: "AGG-BRAND-FW008"
+    nome: "Brand Vision Model"
+    fonte: "aaker"
+    perspectivas: ["Product", "Organization", "Person", "Symbol"]
+    aplicacao: "Visão multidimensional da marca"
+    peso: 0.70
+
+  # --- IDENTITY ---
+  - id: "AGG-BRAND-FW009"
+    nome: "Identity Prism"
+    fonte: "kapferer"
+    facetas: ["Physique", "Personality", "Culture", "Relationship", "Reflection", "Self-Image"]
+    aplicacao: "Design completo de identidade de marca"
+    peso: 0.70
+
+  - id: "AGG-BRAND-FW010"
+    nome: "9 Brand Identity Ideals"
+    fonte: "wheeler"
+    ideais: ["Vision", "Meaning", "Authenticity", "Differentiation", "Sustainability", "Coherence", "Flexibility", "Commitment", "Value"]
+    aplicacao: "Checklist de excelência em identidade"
+    peso: 0.70
+
+  # --- MESSAGING ---
+  - id: "AGG-BRAND-FW011"
+    nome: "StoryBrand SB7"
+    fonte: "miller"
+    etapas: ["Character (customer=hero)", "Problem (external, internal, philosophical)", "Guide (empathy + authority)", "Plan (3 steps)", "CTA (direct + transitional)", "Failure (stakes)", "Success (transformation)"]
+    aplicacao: "Messaging e narrativa de marca"
+    peso: 0.70
+
+  - id: "AGG-BRAND-FW012"
+    nome: "One-Liner"
+    fonte: "miller"
+    formula: "[Problem] + [Solution] + [Result] in 25 words or less"
+    aplicacao: "Elevator pitch e introduções"
+    peso: 0.70
+
+  - id: "AGG-BRAND-FW013"
+    nome: "Grunt Test"
+    fonte: "miller"
+    descricao: "Can a caveman understand what you do in 5 seconds?"
+    aplicacao: "Teste de clareza de website/landing page"
+    peso: 0.70
+
+  # --- GROWTH ---
+  - id: "AGG-BRAND-FW014"
+    nome: "Mental + Physical Availability"
+    fonte: "sharp"
+    descricao: "Os dois únicos drivers reais de crescimento de marca"
+    aplicacao: "Estratégia de crescimento evidence-based"
+    peso: 0.70
+
+  - id: "AGG-BRAND-FW015"
+    nome: "Category Entry Points (CEPs)"
+    fonte: "sharp"
+    descricao: "Internal cues que disparam pensamento sobre a categoria"
+    aplicacao: "Mapear momentos de gatilho para compra"
+    peso: 0.70
+
+  # --- PERSONALITY ---
+  - id: "AGG-BRAND-FW016"
+    nome: "12 Jungian Archetypes"
+    fonte: "archetype-consultant"
+    archetypes: ["Innocent", "Explorer", "Sage", "Hero", "Outlaw", "Magician", "Everyman", "Lover", "Jester", "Caregiver", "Creator", "Ruler"]
+    aplicacao: "Definir personalidade de marca via arquétipos"
+    peso: 0.70
+
+  - id: "AGG-BRAND-FW017"
+    nome: "5 Brand Personality Dimensions"
+    fonte: "aaker"
+    dimensoes: ["Sincerity", "Excitement", "Competence", "Sophistication", "Ruggedness"]
+    aplicacao: "Medir e definir personalidade"
+    peso: 0.70
+
+  # --- CULTURE ---
+  - id: "AGG-BRAND-FW018"
+    nome: "FUSION"
+    fonte: "yohn"
+    descricao: "Brand + Culture = organizational power"
+    aplicacao: "Alinhamento inside-out"
+    peso: 0.70
+
+  - id: "AGG-BRAND-FW019"
+    nome: "7 Brand-Building Principles"
+    fonte: "yohn"
+    principios: ["Start Inside", "Avoid Selling Products", "Ignore Trends", "Don't Chase Customers", "Sweat Small Stuff", "Commit and Stay", "Never Give Back"]
+    aplicacao: "Cultura organizacional orientada à marca"
+    peso: 0.70
+
+  # --- VISUAL ---
+  - id: "AGG-BRAND-FW020"
+    nome: "5-Phase Brand Identity Process"
+    fonte: "wheeler"
+    etapas: ["Research", "Strategy", "Design", "Touchpoints", "Assets"]
+    aplicacao: "Processo completo de identidade visual"
+    peso: 0.70
+
+  # --- NAMING ---
+  - id: "AGG-BRAND-FW021"
+    nome: "8-Type Naming Taxonomy"
+    fonte: "naming-strategist"
+    tipos: ["Descriptive", "Suggestive", "Abstract", "Acronymic", "Founder", "Metaphorical", "Compound", "Altered"]
+    aplicacao: "Gerar candidatos de nome em diversas categorias"
+    peso: 0.70
+
+  - id: "AGG-BRAND-FW022"
+    nome: "Phonosemantics"
+    fonte: "naming-strategist"
+    regras:
+      - "Plosives (b,d,g,k,p,t) = strength"
+      - "Fricatives (f,s,v,z) = speed"
+      - "Nasals (m,n) = warmth"
+      - "Front vowels (e,i) = precision"
+      - "Back vowels (o,u) = power"
+    aplicacao: "Calibrar som do nome para emoção desejada"
+    peso: 0.70
+
+# ═══════════════════════════════════════════════════════════════════════════════
+# L5: METODOLOGIAS (9 sistemas operacionais)
+# ═══════════════════════════════════════════════════════════════════════════════
+
+metodologias:
+  - id: "AGG-BRAND-MET001"
+    nome: "Brand Audit"
+    fonte: "multiple"
+    passos:
+      - "Equity Audit: Medir awareness, quality, associations, loyalty"
+      - "Identity Audit: Avaliar prism facets e ideals"
+      - "Positioning Audit: Verificar consistência de posicionamento"
+      - "Touchpoint Audit: Mapear e avaliar todos pontos de contato"
+    resultado: "Diagnóstico completo de saúde da marca"
+    peso: 0.70
+
+  - id: "AGG-BRAND-MET002"
+    nome: "Create Positioning"
+    fonte: "ries/neumeier/heyward"
+    passos:
+      - "Category Analysis: Mapear categorias e posições ocupadas"
+      - "Strategy Selection: First-in-category, category creation, or repositioning"
+      - "Statement Crafting: Onlyness + Mad Libs + 22 Laws test"
+      - "Activation Plan: Como implementar positioning em todas touchpoints"
+    resultado: "Positioning statement validado e ativado"
+    peso: 0.70
+
+  - id: "AGG-BRAND-MET003"
+    nome: "Build Identity"
+    fonte: "kapferer/wheeler"
+    passos:
+      - "Personality Mapping: Archetypes + 5 Dimensions"
+      - "Visual System: Wheeler 5-Phase + Mark Types"
+      - "Verbal System: Tone of voice + vocabulary + messaging"
+      - "Brand Guidelines: Documento de governança"
+    resultado: "Sistema de identidade completo"
+    peso: 0.70
+
+  - id: "AGG-BRAND-MET004"
+    nome: "Create Brand Story"
+    fonte: "miller"
+    passos:
+      - "BrandScript: Preencher 7 elementos SB7"
+      - "One-Liner: [Problem] + [Solution] + [Result] em 25 palavras"
+      - "Full Narrative: Expandir para storytelling completo"
+      - "Application: Aplicar em website, emails, social, pitch"
+    resultado: "Narrativa de marca clara e consistente"
+    peso: 0.70
+
+  - id: "AGG-BRAND-MET005"
+    nome: "Design Architecture"
+    fonte: "aaker"
+    passos:
+      - "Model Selection: Branded house / House of brands / Endorsed / Hybrid"
+      - "Design: Visual e verbal para cada nível"
+      - "Role Assignment: Papel de cada marca no portfólio"
+      - "Governance: Regras de extensão e criação"
+    resultado: "Arquitetura de marcas organizada"
+    peso: 0.70
+
+  - id: "AGG-BRAND-MET006"
+    nome: "Generate Names"
+    fonte: "naming-strategist"
+    passos:
+      - "Strategy Brief: Personalidade, posicionamento, público-alvo"
+      - "Generation: 30-50 candidatos usando 8-Type Taxonomy"
+      - "8-Criteria Evaluation: Memorability, pronounceability, spellability, distinctiveness, meaning, scalability, protectability, domain"
+      - "Shortlist: Top 3-5 para teste final"
+    resultado: "Nome estratégico validado"
+    peso: 0.70
+
+  - id: "AGG-BRAND-MET007"
+    nome: "Map Archetype"
+    fonte: "archetype-consultant"
+    passos:
+      - "Brand Analysis: Valores, comportamentos, audiência"
+      - "Archetype Identification: Primário + secundário"
+      - "Expression Guide: Como o arquétipo se manifesta"
+      - "Messaging Applications: Tom, linguagem, visual por canal"
+    resultado: "Personalidade de marca definida e aplicável"
+    peso: 0.70
+
+  - id: "AGG-BRAND-MET008"
+    nome: "Diagnose Challenge"
+    fonte: "brand-chief"
+    passos:
+      - "Rapid Triage: Sintomas vs root cause"
+      - "Route to Specialist: Expert mais adequado"
+      - "Prescribe: Framework específico para o desafio"
+    resultado: "Diagnóstico rápido com routing para solução"
+    peso: 0.70
+
+  - id: "AGG-BRAND-MET009"
+    nome: "Review Output (Quality Gate)"
+    fonte: "brand-chief"
+    passos:
+      - "Evaluate: Output contra critérios do brief"
+      - "Decide: Approve / Revise with notes / Reject with rationale"
+      - "Document: Registrar decisão e razões"
+    resultado: "Quality gate para todos outputs de branding"
+    peso: 0.70
+
+# ═══════════════════════════════════════════════════════════════════════════════
+# STAGE-APPROPRIATE ROUTING
+# ═══════════════════════════════════════════════════════════════════════════════
+
+stage_routing:
+  pre_launch:
+    experts: ["heyward", "naming-strategist"]
+    focus: "Name creation, early positioning, community seed"
+  startup_0_1m:
+    experts: ["heyward", "neumeier", "miller"]
+    focus: "Brand personality, messaging clarity, community"
+  growth_1m_10m:
+    experts: ["aaker", "ries", "keller", "miller"]
+    focus: "Equity building, positioning defense, funnel"
+  scale_10m_50m:
+    experts: ["kapferer", "yohn", "aaker", "wheeler"]
+    focus: "Identity depth, culture fusion, visual systems"
+  enterprise_50m_plus:
+    experts: ["kapferer", "aaker", "keller", "wheeler"]
+    focus: "Portfolio strategy, measurement, governance"
+  luxury:
+    experts: ["kapferer", "aaker", "wheeler", "archetype-consultant"]
+    focus: "Rarity management, heritage, premium identity"
+
+# ═══════════════════════════════════════════════════════════════════════════════
+# TASK ROUTING
+# ═══════════════════════════════════════════════════════════════════════════════
+
+task_routing:
+  brand_positioning: ["AGG-BRAND-FW001", "AGG-BRAND-FW002"]
+  brand_equity_assessment: ["AGG-BRAND-FW005", "AGG-BRAND-FW006"]
+  brand_identity_design: ["AGG-BRAND-FW009", "AGG-BRAND-FW020"]
+  brand_messaging: ["AGG-BRAND-FW011", "AGG-BRAND-FW012", "AGG-BRAND-FW013"]
+  brand_growth: ["AGG-BRAND-FW014", "AGG-BRAND-FW015"]
+  brand_personality: ["AGG-BRAND-FW016", "AGG-BRAND-FW017"]
+  brand_culture: ["AGG-BRAND-FW018", "AGG-BRAND-FW019"]
+  visual_identity: ["AGG-BRAND-FW020"]
+  startup_branding: ["AGG-BRAND-FW004", "AGG-BRAND-MM018"]
+  naming: ["AGG-BRAND-FW021", "AGG-BRAND-FW022"]
+  brand_architecture: ["AGG-BRAND-FW005", "AGG-BRAND-FW008"]
+  brand_diagnosis: ["AGG-BRAND-MET008"]
+
+# ═══════════════════════════════════════════════════════════════════════════════
+# SIGNATURE VOCABULARY
+# ═══════════════════════════════════════════════════════════════════════════════
+
+vocabulario:
+  ries: ["positioning", "category", "mind", "sacrifice", "focus", "duality", "line extension"]
+  aaker: ["equity", "awareness", "associations", "loyalty", "portfolio", "brand vision"]
+  kapferer: ["prism", "physique", "culture", "reflection", "self-image", "luxury", "rarity"]
+  keller: ["CBBE", "salience", "resonance", "performance", "imagery", "value chain"]
+  sharp: ["availability", "penetration", "distinctiveness", "double jeopardy", "CEPs"]
+  neumeier: ["onlyness", "zag", "gut feeling", "brand gap", "radical differentiation"]
+  miller: ["StoryBrand", "guide", "hero", "one-liner", "grunt test", "BrandScript"]
+  wheeler: ["touchpoints", "identity", "ideals", "coherence", "mark types"]
+  heyward: ["why test", "day one", "community", "familiar-unexpected"]
+  yohn: ["FUSION", "brand type", "inside-out", "culture alignment"]
