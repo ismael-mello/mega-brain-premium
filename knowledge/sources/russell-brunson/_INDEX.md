@@ -6,10 +6,10 @@ fonte: "Russell Brunson"
 # INDEX: Russell Brunson Sources
 
 > **Fonte:** Russell Brunson
-> **Material:** Two Comma Club Coaching + 5 PDF Books + PWS + HTS + 7FS + DCS Ignite + Funnelology + Funnel Immersion + ITH + Webinar Blueprint + Funnel Hackers CookBook + Fast Product Development + Funnel Hacks System + 24hr Expert Story Selling + Funnel University DCS Labs + Funnel University Scripts + Funnel University 2016 Monthly + One Funnel Away Challenge + Funnel Hacker TV + OFA Week 1 Completion + Micro Continuity Course + OMG Funnels Event
-> **Programs:** 24 merged | 377 transcriptions + 5 PDFs + Cookbook (307p)
-> **DNA Elements:** 1.257 unique (L1:241 philosophies | L2:222 mental models | L3:379 heuristics | L4:251 frameworks | L5:157 methodologies)
-> **Ultima atualizacao:** 2026-03-10 (v25 - OMG Funnels Event +16)
+> **Material:** Two Comma Club Coaching + 5 PDF Books + PWS + HTS + 7FS + DCS Ignite + Funnelology + Funnel Immersion + ITH + Webinar Blueprint + Funnel Hackers CookBook + Fast Product Development + Funnel Hacks System + 24hr Expert Story Selling + Funnel University DCS Labs + Funnel University Scripts + Funnel University 2016 Monthly + One Funnel Away Challenge + Funnel Hacker TV + OFA Week 1 Completion + Micro Continuity Course + OMG Funnels Event + FHL International Main Stage + DotCom Secrets Book + Lead Funnels Book
+> **Programs:** 27 merged | 390+ transcriptions + 5 PDFs + Cookbook (307p) + 3 books
+> **DNA Elements:** 1.312 unique (L1:257 philosophies | L2:239 mental models | L3:398 heuristics | L4:264 frameworks | L5:168 methodologies)
+> **Ultima atualizacao:** 2026-03-10 (v26 - FHL International +19, DotCom Secrets +23, Lead Funnels +13 = +55)
 
 ---
 
