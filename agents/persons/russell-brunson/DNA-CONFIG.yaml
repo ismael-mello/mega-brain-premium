@@ -23,7 +23,7 @@ versao: "17.0.0"
 nivel: "PERSON"
 natureza: "SOLO"
 data_criacao: "2026-03-01"
-ultima_atualizacao: "2026-03-10-v24-ofa-week1-completion"
+ultima_atualizacao: "2026-03-10-v26-fhl-international-dotcom-secrets-lead-funnels"
 
 # ═══════════════════════════════════════════════════════════════════════════════
 # CONSTITUICAO (Layer 1 - Principios compartilhados)
@@ -414,6 +414,36 @@ dna_sources:
             - "03 - Product Development (Creation/Sales) - COMPLETE"
             - "04 - Process and Traffic (Launch/Growth) - COMPLETE"
 
+        # FUNNEL HACKING LIVE INTERNATIONAL (merged 2026-03-10)
+        - titulo: "Funnel Hacking Live International - Main Stage + Funnel Audibles (virtual edition)"
+          path_raiz: "/knowledge/sources/russell-brunson/raw/funnel-hacking-live-international/"
+          tipo: "evento-virtual"
+          data_processamento: "2026-03-10"
+          elementos_extraidos: 19
+          novos: 19
+          by_layer: "L1:4 L2:4 L3:6 L4:4 L5:3"
+          source_doc: "/knowledge/sources/russell-brunson/30-FHL-INTERNATIONAL-MAINSTAGE.md"
+
+        # DOTCOM SECRETS BOOK (merged 2026-03-10)
+        - titulo: "DotCom Secrets: The Underground Playbook (2015 Book)"
+          path_raiz: "/knowledge/sources/russell-brunson/raw/dotcom-secrets-book/"
+          tipo: "livro"
+          data_processamento: "2026-03-10"
+          elementos_extraidos: 23
+          novos: 23
+          by_layer: "L1:5 L2:5 L3:6 L4:5 L5:3"
+          source_doc: "/knowledge/sources/russell-brunson/31-DOTCOM-SECRETS-BOOK.md"
+
+        # LEAD FUNNELS BOOK (merged 2026-03-10)
+        - titulo: "Lead Funnels: 114 Unique Lead Funnels Swipe File"
+          path_raiz: "/knowledge/sources/russell-brunson/raw/lead-funnels-book/"
+          tipo: "livro-swipe-file"
+          data_processamento: "2026-03-10"
+          elementos_extraidos: 13
+          novos: 13
+          by_layer: "L1:3 L2:3 L3:4 L4:3 L5:2"
+          source_doc: "/knowledge/sources/russell-brunson/32-LEAD-FUNNELS-BOOK.md"
+
         # ONE FUNNEL AWAY CHALLENGE (merged 2026-03-10)
         - titulo: "One Funnel Away Challenge - Pre-Training (5 days) + Weeks 1-2 + Stephen Larsen Coaching Calls"
           path_raiz: "/knowledge/sources/russell-brunson/raw/one-funnel-away-challenge/"
@@ -759,14 +789,25 @@ dna_statistics:
   ofa_w1_completion_note: "Week 1 Days 4-5: Physical/Digital Hybrid, eCovers, Content Repurposing, Freelancer Competition"
   ofa_coverage_final: "Pre-Training + Weeks 1-2 complete. Weeks 3-4 RAW NOT AVAILABLE."
   # TOTALS (updated 2026-03-10 post-OFA-w1-completion)
-  total_unique_elements: 1241
+  # FHL INTERNATIONAL (merged 2026-03-10)
+  fhl_international_files: 5
+  fhl_international_new_elements: 19
+  fhl_international_by_layer: "L1:4 L2:4 L3:6 L4:4 L5:3"
+  # DOTCOM SECRETS BOOK (merged 2026-03-10)
+  dcs_book_new_elements: 23
+  dcs_book_by_layer: "L1:5 L2:5 L3:6 L4:5 L5:3"
+  # LEAD FUNNELS BOOK (merged 2026-03-10)
+  lf_book_new_elements: 13
+  lf_book_by_layer: "L1:3 L2:3 L3:4 L4:3 L5:2"
+  # TOTALS (updated 2026-03-10 post-v26 — +55 elements from 3 new sources)
+  total_unique_elements: 1312
   by_layer:
-    L1_PHILOSOPHIES: 238
-    L2_MENTAL_MODELS: 219
-    L3_HEURISTICS: 374
-    L4_FRAMEWORKS: 248
-    L5_METHODOLOGIES: 155
-  modules_processed: 23
+    L1_PHILOSOPHIES: 257
+    L2_MENTAL_MODELS: 239
+    L3_HEURISTICS: 398
+    L4_FRAMEWORKS: 264
+    L5_METHODOLOGIES: 168
+  modules_processed: 26
   total_transcriptions: 374
   pdf_books_merged: 5
   pws_programs_merged: 1
