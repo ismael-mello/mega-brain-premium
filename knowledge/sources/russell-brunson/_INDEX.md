@@ -6,10 +6,10 @@ fonte: "Russell Brunson"
 # INDEX: Russell Brunson Sources
 
 > **Fonte:** Russell Brunson
-> **Material:** Two Comma Club Coaching + 5 PDF Books + PWS + HTS + 7FS + DCS Ignite + Funnelology + Funnel Immersion + ITH + Webinar Blueprint + Funnel Hackers CookBook + Fast Product Development + Funnel Hacks System + 24hr Expert Story Selling + Funnel University DCS Labs + Funnel University Scripts + Funnel University 2016 Monthly + One Funnel Away Challenge + Funnel Hacker TV + OFA Week 1 Completion + Micro Continuity Course + OMG Funnels Event + FHL International Main Stage + DotCom Secrets Book + Lead Funnels Book
-> **Programs:** 27 merged | 390+ transcriptions + 5 PDFs + Cookbook (307p) + 3 books
-> **DNA Elements:** 1.312 unique (L1:257 philosophies | L2:239 mental models | L3:398 heuristics | L4:264 frameworks | L5:168 methodologies)
-> **Ultima atualizacao:** 2026-03-10 (v26 - FHL International +19, DotCom Secrets +23, Lead Funnels +13 = +55)
+> **Material:** Two Comma Club Coaching + 5 PDF Books + PWS + HTS + 7FS + DCS Ignite + Funnelology + Funnel Immersion + ITH + Webinar Blueprint + Funnel Hackers CookBook + Fast Product Development + Funnel Hacks System + 24hr Expert Story Selling + Funnel University DCS Labs + Funnel University Scripts + Funnel University 2016 Monthly + One Funnel Away Challenge + Funnel Hacker TV + OFA Week 1 Completion + Micro Continuity Course + OMG Funnels Event + FHL International Main Stage + DotCom Secrets Book + Lead Funnels Book + Lead Funnels Training
+> **Programs:** 28 merged | 392+ transcriptions + 5 PDFs + Cookbook (307p) + 3 books
+> **DNA Elements:** 1.327 unique (L1:260 philosophies | L2:242 mental models | L3:402 heuristics | L4:267 frameworks | L5:170 methodologies)
+> **Ultima atualizacao:** 2026-03-10 (v27 - Lead Funnels Training +15 = 1.327)
 
 ---
 
@@ -34,6 +34,7 @@ fonte: "Russell Brunson"
 | 30 | [30-FHL-INTERNATIONAL-MAINSTAGE](30-FHL-INTERNATIONAL-MAINSTAGE.md) | Resistência interna (Pressfield), virtual event strategy, webinar funnels, OVO funnel (video series), webinar benchmarks (5/10/15%), $10K offer 122 vendas 80% PIF, Prime Movers identity, friction como inimigo | PHI-RB-FHL2-001/002/003/004, MM-RB-FHL2-001/002/003/004, HEUR-RB-FHL2-001/002/003/004/005/006, FW-RB-FHL2-001/002/003/004, MET-RB-FHL2-001/002/003 | 5/5 |
 | 31 | [31-DOTCOM-SECRETS-BOOK](31-DOTCOM-SECRETS-BOOK.md) | DotCom Secrets 2015 book — origem do Value Ladder, Attractive Character, Soap Opera Sequence, Daily Seinfeld Emails, 9 Core Funnels com scripts, Secret Formula (Who/What/Where/How), 9 elementos de copy | PHI-RB-DCS-001/002/003/004/005, MM-RB-DCS-001/002/003/004/005, HEUR-RB-DCS-001/002/003/004/005/006, FW-RB-DCS-001/002/003/004/005, MET-RB-DCS-001/002/003 | 5/5 |
 | 32 | [32-LEAD-FUNNELS-BOOK](32-LEAD-FUNNELS-BOOK.md) | Lead Funnels swipe file (114 funnels), lista de email como ativo central, anatomia universal Hook+Story+Offer+TY, lead magnets por awareness level, 18 tipos de lead magnets, 3 estágios de maturidade | PHI-RB-LF-001/002/003, MM-RB-LF-001/002/003, HEUR-RB-LF-001/002/003/004, FW-RB-LF-001/002/003, MET-RB-LF-001/002 | 4/5 |
+| 33 | [33-LEAD-FUNNELS-TRAINING](33-LEAD-FUNNELS-TRAINING.md) | Lead Funnels Training vídeo — lista como único ativo vendável (M&A eBay/Instagram), leads como KPI diário, self-liquidating funnel model, 55.63% opt-in rate (148K leads), 3 categorias de lead funnel, FOMO lead magnet (1000+ tickets), 9 métodos mais rápidos de criar lead magnets, email LTV economics, journey documentation funnel | PHI-RB-LFT-001/002/003, MM-RB-LFT-001/002/003, HEUR-RB-LFT-001/002/003/004, FW-RB-LFT-001/002/003, MET-RB-LFT-001/002 | 4/5 |
 
 ---
 
