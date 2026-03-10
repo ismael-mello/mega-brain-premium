@@ -487,6 +487,29 @@ dna_sources:
           contexto: "Welcome: FHL ~90min sobre Seção 1 Expert Secrets - How to Build a Mass Movement; Story-Selling: 7 sessões com Russell + Michael Hauge + Daegan Smith sobre storytelling e venda via histórias"
 
 
+        # DCS LABS FUNNEL REPORTS (merged 2026-03-10)
+        - titulo: "DCS Labs Funnel Reports - Issues 1-8 (Order Form Bump, Invisible Funnel, Bridge Page, PW Funnel, Video Unlocker, Ultimate Stack, Funnel Catcher, Dream 100 Lost Chapter)"
+          path_raiz: "/knowledge/sources/russell-brunson/raw/17._Funnel_University_2016/4. Funnel Hacker - Split Testing/1. DCSLabs Funnel Reports/"
+          tipo: "newsletter-series"
+          data_processamento: "2026-03-10"
+          elementos_extraidos: 60
+          novos: 60
+          enrichments: 0
+          by_layer: "L1:7 L2:6 L3:20 L4:7 L5:5"
+          key_new_elements:
+            - "Dream 100 Lost Chapter (capítulo perdido do DotComSecrets)"
+            - "Order Form Bump - 35-38% take rate, price <$50, max 4 frases"
+            - "F+S vs straight sale - 3x mais buyers"
+            - "Invisible Funnel - 85% show up, 90% billing (550 signups -> $54k)"
+            - "Bridge Page Framework - cold traffic conversion via awareness levels"
+            - "Video Unlocker - stick rate +23.88% (37.81% -> 46.84%)"
+            - "Removing pricing table - +41.91% webinar registrations"
+            - "Dream 100 hack - 49th call = chain reaction (Tellman Knudson $800k)"
+            - "Ultimate Funnel Stack - Perfect Webinar + Product Launch combined"
+            - "Gene Schwartz 5 levels of awareness (Unaware -> Most Aware)"
+          source_doc: "/knowledge/sources/russell-brunson/24-DCS-LABS-FUNNEL-REPORTS.md"
+          era: "~2015 (DotComSecrets Labs Issues 1-8)"
+
         # DCS LABS SPLIT TESTING (merged 2026-03-10)
         - titulo: "Funnel University 2016 - DCS Labs Split Testing (5 files: 108 Split Test Winners + 4 Issues)"
           path_raiz: "/knowledge/sources/russell-brunson/raw/17._Funnel_University_2016/4. Funnel Hacker - Split Testing/2. DCSLabs Split Test Reports/"
@@ -672,13 +695,13 @@ dna_statistics:
   fu_scripts_new_elements: 29
   fu_scripts_by_layer: "L1:5 L2:6 L3:9 L4:6 L5:3"
   fu_scripts_note: "PW + SSS + OTO + WWWH + Seinfeld + PW Funnel; unique benchmarks/tactics vs existing DNA"
-  # TOTALS (updated 2026-03-10 post-FU-Scripts+OFA)
-  total_unique_elements: 1034
+  # TOTALS (updated 2026-03-10 post-DCS-Labs-Funnel-Reports)
+  total_unique_elements: 1094
   by_layer:
-    L1_PHILOSOPHIES: 200
-    L2_MENTAL_MODELS: 182
-    L3_HEURISTICS: 312
-    L4_FRAMEWORKS: 204
+    L1_PHILOSOPHIES: 207
+    L2_MENTAL_MODELS: 188
+    L3_HEURISTICS: 332
+    L4_FRAMEWORKS: 211
     L5_METHODOLOGIES: 120
   modules_processed: 21
   total_transcriptions: 360
