@@ -23,7 +23,7 @@ versao: "17.0.0"
 nivel: "PERSON"
 natureza: "SOLO"
 data_criacao: "2026-03-01"
-ultima_atualizacao: "2026-03-10-v20-DCS-Labs-split-testing"
+ultima_atualizacao: "2026-03-10-v23-funnel-hacker-tv"
 
 # ═══════════════════════════════════════════════════════════════════════════════
 # CONSTITUICAO (Layer 1 - Principios compartilhados)
@@ -510,6 +510,49 @@ dna_sources:
           source_doc: "/knowledge/sources/russell-brunson/24-DCS-LABS-FUNNEL-REPORTS.md"
           era: "~2015 (DotComSecrets Labs Issues 1-8)"
 
+        # FUNNEL HACKER TV (merged 2026-03-10)
+        - titulo: "Funnel Hacker TV - 9 Episodes (9 Funnels Slides + 8 Podcast Episodes)"
+          path_raiz: "/knowledge/sources/russell-brunson/raw/17._Funnel_University_2016/4. Funnel Hacker - Split Testing/3. Funnel Hacker TV/"
+          tipo: "video-series-podcast"
+          data_processamento: "2026-03-10"
+          arquivos_processados: 9
+          elementos_extraidos: 100
+          novos: 100
+          enrichments: 0
+          by_layer: "L1:18 L2:16 L3:24 L4:22 L5:20"
+          key_new_elements:
+            - "Funnel Hacker Code of Ethics (Model Don't Steal)"
+            - "ACV formula (receita total ÷ compradores front-end)"
+            - "Break-even front-end = vantagem competitiva infinita"
+            - "Offer Sequencing Logic (Itch Scratch Model detalhado)"
+            - "Two-step order form (60% fill rate Step 1)"
+            - "Order Form Bump mechanics (30-38% conversão)"
+            - "Trey Model: free gun oil → $400k/month continuity"
+            - "Psicologia dos botões: Receiver vs. Buyer language"
+            - "MouseFlow + live call monitoring metodologia"
+            - "Negative qualifier em No Thanks links"
+            - "Homework Page Architecture (pre-sell de coaching)"
+            - "Instant Opt-in para webinars (bypass de registro)"
+            - "Webinar Indoctrinação 3-vídeo sequence"
+            - "Downsell com curiosity close (+10-12% conversão)"
+            - "Offer Wall na thank you page"
+            - "Walmart Prototype Method (test before manufacture)"
+            - "Coaching application: rejeitar 95% amplifica desejo"
+            - "Webinar pattern interrupt como primeiro elemento"
+          guest_speakers:
+            - "Trey Lewellen (Episode 02): $400k/month blueprint, gun oil continuity model"
+          source_doc: "/knowledge/sources/russell-brunson/27-FUNNEL-HACKER-TV.md"
+          episodios:
+            - "9-Funnels-Slides (12KB) - 9 funnel types + scripts outline"
+            - "DotCom Secrets Ignite Webinar (270KB) - Secret Formula, Value Ladder, Traffic, AC, 7 Phases"
+            - "Funnel Hacks Webinar (60KB) - Funnel hacking 5-step process"
+            - "Episode 01: DCS Book Funnel (37KB) - book funnel anatomy + ACV + offer sequencing"
+            - "Episode 02: Trey Lewellen $400k (48KB) - physical product + continuity + order form"
+            - "Funnelology 101 (28KB) - supplement funnel + VSL vs letter"
+            - "Info Product Funnel (12KB) - info funnel structure + upsell psychology"
+            - "High Ticket Funnel (16KB) - coaching application funnel"
+            - "Webinar Funnel (10KB) - webinar funnel + indoctrinação"
+
         # DCS LABS SPLIT TESTING (merged 2026-03-10)
         - titulo: "Funnel University 2016 - DCS Labs Split Testing (5 files: 108 Split Test Winners + 4 Issues)"
           path_raiz: "/knowledge/sources/russell-brunson/raw/17._Funnel_University_2016/4. Funnel Hacker - Split Testing/2. DCSLabs Split Test Reports/"
@@ -695,16 +738,29 @@ dna_statistics:
   fu_scripts_new_elements: 29
   fu_scripts_by_layer: "L1:5 L2:6 L3:9 L4:6 L5:3"
   fu_scripts_note: "PW + SSS + OTO + WWWH + Seinfeld + PW Funnel; unique benchmarks/tactics vs existing DNA"
-  # TOTALS (updated 2026-03-10 post-DCS-Labs-Funnel-Reports)
-  total_unique_elements: 1094
+  fu_monthly_new_elements: 24
+  fu_monthly_by_layer: "L1:4 L2:5 L3:6 L4:5 L5:4"
+  fu_monthly_note: "FU Welcome + Issues 1-3 (2016): Self-Liquidating, Invisible Funnel, Repel-to-Attract, DM Continuity, Political Bridge"
+  fu_scripts_expanded: 3
+  fu_scripts_expansion_note: "32 extracted vs 29 previously (net +3 new: Webinar Launch Sequence, Pattern Interrupt, Stack details)"
+  # TOTALS (updated 2026-03-10 post-FU-monthly-and-sales-scripts)
+  # FUNNEL HACKER TV (merged 2026-03-10)
+  fhtv_files_processed: 9
+  fhtv_new_elements: 100
+  fhtv_enrichments: 0
+  fhtv_by_layer: "L1:18 L2:16 L3:24 L4:22 L5:20"
+  fhtv_total_bytes: ~493000
+  fhtv_guest_speakers: 1
+  # TOTALS (updated 2026-03-10 post-FTV)
+  total_unique_elements: 1221
   by_layer:
-    L1_PHILOSOPHIES: 207
-    L2_MENTAL_MODELS: 188
-    L3_HEURISTICS: 332
-    L4_FRAMEWORKS: 211
-    L5_METHODOLOGIES: 120
-  modules_processed: 21
-  total_transcriptions: 360
+    L1_PHILOSOPHIES: 234
+    L2_MENTAL_MODELS: 215
+    L3_HEURISTICS: 369
+    L4_FRAMEWORKS: 245
+    L5_METHODOLOGIES: 151
+  modules_processed: 22
+  total_transcriptions: 369
   pdf_books_merged: 5
   pws_programs_merged: 1
   hts_programs_merged: 1
@@ -712,7 +768,7 @@ dna_statistics:
   funnelology_merged: 1
   funnel_immersion_merged: 1
   ofa_merged: 1
-  source_program: "Two Comma Club Coaching - Secrets Masterclass ($4,997) + 5 PDF Books + Perfect Webinar Secrets + High Ticket Secrets + 7 Figure Shortcut + DotCom Secrets Ignite + Funnelology Masterclass + Funnel Immersion + Instant Traffic Hacks + Webinar Blueprint + Funnel Hackers CookBook + Fast Product Development + Funnel Hacks System + One Funnel Away Challenge"
+  source_program: "Two Comma Club Coaching - Secrets Masterclass ($4,997) + 5 PDF Books + Perfect Webinar Secrets + High Ticket Secrets + 7 Figure Shortcut + DotCom Secrets Ignite + Funnelology Masterclass + Funnel Immersion + Instant Traffic Hacks + Webinar Blueprint + Funnel Hackers CookBook + Fast Product Development + Funnel Hacks System + One Funnel Away Challenge + Funnel Hacker TV (9 Episodes)"
   ith_merged: 1
   wb_merged: 1
   fhc_merged: 1
