@@ -19,11 +19,11 @@
 # ═══════════════════════════════════════════════════════════════════════════════
 
 cargo: "RUSSELL-BRUNSON"
-versao: "8.0.0"
+versao: "16.0.0"
 nivel: "PERSON"
 natureza: "SOLO"
 data_criacao: "2026-03-01"
-ultima_atualizacao: "2026-03-08-v11-WB"
+ultima_atualizacao: "2026-03-10-v16-MCC-complete"
 
 # ═══════════════════════════════════════════════════════════════════════════════
 # CONSTITUICAO (Layer 1 - Principios compartilhados)
@@ -368,6 +368,77 @@ dna_sources:
             - PWHandout012015.txt
             - Funnel link.txt
 
+        # FUNNEL HACKERS COOKBOOK (merged 2026-03-08)
+        - titulo: "Funnel Hackers CookBook - Video Training Series + PDF (307 pages)"
+          path_raiz: "/knowledge/sources/russell-brunson/raw/13._Funnel_Hackers_CookBook/"
+          tipo: "cookbook-video-training"
+          data_processamento: "2026-03-08"
+          elementos_extraidos: 38
+          enrichments: 22
+          by_layer: "L1:5 L2:7 L3:11 L4:10 L5:5"
+          key_new_elements:
+            - "22 Funnel Types Taxonomy"
+            - "15 Page Types Taxonomy"
+            - "Funnel Selection Matrix (price-to-funnel)"
+            - "Page Element Recipes (squeeze, VSL, OTO, webinar reg, application)"
+            - "Summit Funnel as Dream 100 Activator"
+            - "Hero Funnel Concept"
+            - "Daily Deal Funnel Model"
+            - "Cookbook Funnel Building Method (10-step)"
+
+        # FAST PRODUCT DEVELOPMENT (merged 2026-03-08)
+        - titulo: "Fast Product Development Workshop (4 transcriptions)"
+          path_raiz: "/knowledge/sources/russell-brunson/raw/15._Fast_Product_Development/"
+          tipo: "workshop-bonus"
+          data_processamento: "2026-03-08"
+          elementos_extraidos: 154
+          novos: 97
+          enrichments: 27
+          by_layer: "L1:14 L2:12 L3:28 L4:28 L5:15"
+          key_new_elements:
+            - "Info Products as Universal Fuel"
+            - "One Chapter Ahead Philosophy"
+            - "Ask Campaign Pipeline (questions-to-content)"
+            - "Flycatcher Page Method"
+            - "12 Modes of Fast Product Creation"
+            - "PLR Enhancement Method ($27->$50K)"
+            - "Congregation/Barrel of Fish Model"
+            - "Four Underachiever Pillars"
+            - "Inverted Product Development (top-down)"
+            - "Public Domain Product Pipeline"
+            - "Microcontinuity Business Model"
+            - "Relationship-First Affiliate Outreach"
+          subprogramas:
+            - "01 - Fast Product Development (Intro/Philosophy) - COMPLETE"
+            - "02 - The Foundation (Ask Campaign/Outlines) - COMPLETE"
+            - "03 - Product Development (Creation/Sales) - COMPLETE"
+            - "04 - Process and Traffic (Launch/Growth) - COMPLETE"
+
+        # FUNNEL HACKS SYSTEM (merged 2026-03-08)
+        - titulo: "Funnel Hacks System - Complete (5 modules, 65 transcriptions)"
+          path_raiz: "/knowledge/sources/russell-brunson/raw/16._Funnel_Hacks_System/"
+          tipo: "programa-completo"
+          data_processamento: "2026-03-08"
+          elementos_extraidos: 212
+          novos: 234
+          enrichments: 47
+          by_layer: "L1:39 L2:38 L3:75 L4:43 L5:28"
+          key_new_elements:
+            - "Attractive Character 4 Elements + 4 Identities + 6 Storylines"
+            - "8 Complete Sales Scripts (Who-What-Why-How, Star-Story-Solution, OTO Bump, Product Launch, Perfect Webinar, Magic Bullet, Invisible Funnel, Two-Step High Ticket)"
+            - "Inception Selling Philosophy + Belief Pattern Destruction"
+            - "Supplement/Physical Product Funnels (Neurocell case study)"
+            - "Coaching Application Funnel (3-page with homework pre-sell)"
+            - "Micro Continuity Model"
+            - "John Alanis 2x/day email system"
+            - "Underachiever Secrets (market validation, Sam Brennan)"
+          subprogramas:
+            - "Attractive Character Secrets (11 files) - COMPLETE"
+            - "Bonus Webinar / 9 Funnels (2 files) - COMPLETE"
+            - "Funnel Hacks Master Class (21 files) - COMPLETE"
+            - "Inception Secrets (30 files) - COMPLETE"
+            - "Supplement Secrets (1 file) - COMPLETE"
+
 # ═══════════════════════════════════════════════════════════════════════════════
 # ESTATISTICAS DO DNA
 # ═══════════════════════════════════════════════════════════════════════════════
@@ -454,24 +525,46 @@ dna_statistics:
     L4: 36
     L5: 27
   # TOTAL COMBINADO (updated 2026-03-07 post-IF-complete)
-  total_unique_elements: 546
+  # FUNNEL HACKERS COOKBOOK (merged 2026-03-08)
+  fhc_files: 4
+  fhc_new_elements: 38
+  fhc_enrichments: 22
+  fhc_by_layer: "L1:5 L2:7 L3:11 L4:10 L5:5"
+  # FAST PRODUCT DEVELOPMENT (merged 2026-03-08)
+  fpd_transcriptions: 4
+  fpd_raw_extracted: 154
+  fpd_new_elements: 97
+  fpd_enrichments: 27
+  fpd_by_layer: "L1:14 L2:12 L3:28 L4:28 L5:15"
+  # FUNNEL HACKS SYSTEM (merged 2026-03-08)
+  fhs_transcriptions: 65
+  fhs_raw_extracted: 212
+  fhs_new_elements: 234
+  fhs_enrichments: 47
+  fhs_by_layer: "L1:39 L2:38 L3:75 L4:43 L5:28"
+  fhs_modules: 5
+  fhs_merged: 1
+  # TOTALS (updated 2026-03-09 post-FHS)
+  total_unique_elements: 915
   by_layer:
-    L1_PHILOSOPHIES: 119
-    L2_MENTAL_MODELS: 102
-    L3_HEURISTICS: 161
-    L4_FRAMEWORKS: 103
-    L5_METHODOLOGIES: 61
-  modules_processed: 10
-  total_transcriptions: 267
+    L1_PHILOSOPHIES: 177
+    L2_MENTAL_MODELS: 159
+    L3_HEURISTICS: 275
+    L4_FRAMEWORKS: 184
+    L5_METHODOLOGIES: 109
+  modules_processed: 16
+  total_transcriptions: 339
   pdf_books_merged: 5
   pws_programs_merged: 1
   hts_programs_merged: 1
   dcs_ignite_merged: 1
   funnelology_merged: 1
   funnel_immersion_merged: 1
-  source_program: "Two Comma Club Coaching - Secrets Masterclass ($4,997) + 5 PDF Books + Perfect Webinar Secrets + High Ticket Secrets + 7 Figure Shortcut + DotCom Secrets Ignite + Funnelology Masterclass + Funnel Immersion + Instant Traffic Hacks + Webinar Blueprint"
+  source_program: "Two Comma Club Coaching - Secrets Masterclass ($4,997) + 5 PDF Books + Perfect Webinar Secrets + High Ticket Secrets + 7 Figure Shortcut + DotCom Secrets Ignite + Funnelology Masterclass + Funnel Immersion + Instant Traffic Hacks + Webinar Blueprint + Funnel Hackers CookBook + Fast Product Development + Funnel Hacks System"
   ith_merged: 1
   wb_merged: 1
+  fhc_merged: 1
+  fpd_merged: 1
 
 # ═══════════════════════════════════════════════════════════════════════════════
 # MAPA DE CONFLITOS (N/A para agente SOLO)

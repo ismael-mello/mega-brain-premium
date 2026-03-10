@@ -1,0 +1,10 @@
+Modo YOLO (Deus):
+
+export IS_SANDBOX=1
+claude --dangerously-skip-permissions
+
+
+Para continuar a sessão mais recente:
+
+export IS_SANDBOX=1
+claude --dangerously-skip-permissions --continue
