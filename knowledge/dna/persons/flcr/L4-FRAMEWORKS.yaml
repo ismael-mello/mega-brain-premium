@@ -1,0 +1,449 @@
+layer: L4
+name: FRAMEWORKS
+person: Wilson Sajr (FLCR / PWR Gestão)
+total: 42
+
+items:
+
+  - id: FW-FLCR-001
+    title: "Framework de Recrutamento e Seleção (5 Etapas)"
+    steps:
+      - "1. Identificar necessidade (movimento interno, turnover, crescimento)"
+      - "2. Definir perfil do cargo (responsabilidades, competências, requisitos mínimos)"
+      - "3. Abertura e atração (divulgação branded, indicações, canais direcionados)"
+      - "4. Filtragem e avaliação (currículo, testes, entrevista técnica, entrevista cultural)"
+      - "5. Contratação e integração (oferta, onboarding, imersão cultural)"
+    source: "MÓDULO 03"
+
+  - id: FW-FLCR-002
+    title: "Framework Primeiro Quem, Depois O Quê"
+    steps:
+      - "1. Defina VALORES (o que você acredita)"
+      - "2. Defina MISSÃO (o que você faz)"
+      - "3. Defina ESTRATÉGIA (como vai vencer)"
+      - "4. Contrate alinhado a VALORES — antes de atribuir estratégia"
+    error: "Erro comum: inverter (primeiro estratégia, depois pessoas)"
+    source: "MÓDULO 03"
+
+  - id: FW-FLCR-003
+    title: "Framework de Definição de Valores (5 Passos)"
+    steps:
+      - "1. Brainstorm: quais 5-10 características você quer nas pessoas?"
+      - "2. Identificar padrão: o que seus 3 melhores colaboradores têm em comum?"
+      - "3. Articular valor: criar frase de fácil memorização"
+      - "4. Operacionalizar: como viver esse valor parece no dia a dia?"
+      - "5. Modelar: como líder, comprometa-se a vivê-lo visivelmente primeiro"
+    source: "MÓDULO 02 - Aulas 4-6"
+
+  - id: FW-FLCR-004
+    title: "Framework de Definição de Propósito (2 Perguntas Core)"
+    questions:
+      - "Se você tivesse R$100M, ainda faria o que faz? (Testa se o propósito é real)"
+      - "O que a sociedade perderia se sua empresa + concorrentes deixassem de existir? (Testa impacto real)"
+    output: "Propósito que toca corações, não apenas preenche papel"
+    source: "MÓDULO 02 - Aula 4"
+
+  - id: FW-FLCR-005
+    title: "Auditoria de Autocredibilidade (Self-Leadership)"
+    questions:
+      - "Faço promessas que cumpro?"
+      - "Pratico o que prego?"
+      - "Corrijo rapidamente quando falho?"
+      - "Sou o exemplo que a equipe deveria seguir?"
+      - "Confronto a realidade com honestidade?"
+    source: "MÓDULO 01 - Aula 2"
+
+  - id: FW-FLCR-006
+    title: "Auditoria da Agenda do Líder (7 Dimensões)"
+    dimensions:
+      - "Metas definidas com base em gaps identificados"
+      - "Promoção de domínio de métodos pela equipe"
+      - "Promoção de aquisição de conhecimento técnico"
+      - "Participação no recrutamento"
+      - "Treinamento da equipe"
+      - "Inspiração das pessoas"
+      - "Coaching / mentoring individual"
+    scoring: "Avalie 1-5 em cada dimensão. Meta: 3+ em todos"
+    source: "MÓDULO 01 - Aula 6"
+
+  - id: FW-FLCR-007
+    title: "Framework de Feedback CVIICS"
+    structure:
+      C: "Contexto (em que situação?)"
+      V: "Valor violado (qual valor isso confronta?)"
+      I_comportamento: "Comportamento (o que fez?)"
+      I_impacto: "Impacto (qual consequência gerou?)"
+      C_expectativa: "Correção esperada (o que precisa mudar?)"
+      S: "Suporte (como vou ajudar?)"
+    source: "MÓDULO 07 - Aula 1"
+
+  - id: FW-FLCR-008
+    title: "Framework de Gestão da Mudança (8 Passos de Kotter)"
+    steps:
+      - "1. Criar urgência (por que mudar agora?)"
+      - "2. Formar coalizão (quem lidera a mudança?)"
+      - "3. Criar visão de mudança (para onde estamos indo?)"
+      - "4. Comunicar a visão (como todos saberão?)"
+      - "5. Remover obstáculos (o que está bloqueando?)"
+      - "6. Criar vitórias de curto prazo (o que mostrar em 90 dias?)"
+      - "7. Construir sobre a mudança (como sustentar o momentum?)"
+      - "8. Ancorar na cultura (como a mudança vira o novo normal?)"
+    source: "MÓDULO 06 - Aula 5"
+
+  - id: FW-FLCR-009
+    title: "Framework de Direcionamento do Colaborador"
+    paths:
+      desenvolvimento: "Mantém, investe, camininho de promoção"
+      realocacao: "Cargo errado, pessoa certa — mover para posição de fit"
+      desligamento: "Pessoa errada para a organização"
+    decision_criteria: "Valores + Competência + Fit Cultural"
+    source: "MÓDULO 07 - Aula 3"
+
+  - id: FW-FLCR-010
+    title: "Matriz de Avaliação por Valores"
+    structure:
+      rows: "Colaboradores"
+      columns: "Valores da empresa (ex: Integridade, Resultados, Inovação, Cliente em 1º lugar)"
+      scoring: "0-10 por pessoa por valor"
+      calculation: "Média dos valores = score de alinhamento cultural"
+    thresholds: "8+ forte | 6-7 coaching | <6 revisar"
+    source: "MÓDULO 02"
+
+  - id: FW-FLCR-011
+    title: "Framework de Onboarding Estruturado"
+    timeline:
+      semana_1: "Imersão cultural (valores, missão, propósito, liderança)"
+      semanas_2_3: "Treinamento técnico do cargo, mentoring"
+      semana_4: "Primeiro checkpoint de feedback (sinais precoces de fit)"
+      dia_30: "Conversa de realidade (isso está funcionando para ambos?)"
+    source: "MÓDULO 05 - Aula 2"
+
+  - id: FW-FLCR-012
+    title: "Sistema de Follow-up em Cadência"
+    cadences:
+      daily: "15 min | operacional, bloqueios do dia"
+      semanal: "1 hora | progresso de metas, prioridades"
+      mensal: "2-3 horas | revisão de indicadores, ajustes"
+      trimestral: "meio dia | estratégia e pessoas"
+    rule: "Cada nível tem propósito distinto. Reunião sem pauta = cancelada"
+    source: "MÓDULO 08"
+
+  - id: FW-FLCR-013
+    title: "Framework de Pesquisa de Clima Organizacional"
+    dimensions:
+      - "Liderança (meu líder me desenvolve?)"
+      - "Comunicação (tenho informações necessárias?)"
+      - "Reconhecimento (me sinto valorizado?)"
+      - "Trabalho em equipe (colaboramos bem?)"
+      - "Condições de trabalho (tenho o que preciso?)"
+      - "Crescimento profissional (há oportunidades para crescer?)"
+      - "Cultura e valores (acredito no que a empresa representa?)"
+    cycle: "Pesquise → Analise → Aja → Comunique o que foi feito"
+    source: "MÓDULO EXTRA - Aula 2"
+
+  - id: FW-FLCR-014
+    title: "Framework de Avaliação de Desempenho 9-Box"
+    axes:
+      x: "Performance (resultados entregues)"
+      y: "Potencial (crescimento futuro)"
+    positions:
+      alto_alto: "Estrelas — investir, acelerar, promover"
+      alto_medio: "Profissionais sólidos — manter, reconhecer"
+      alto_baixo: "Questões de gestão — usar agora, planejar transição"
+      baixo_alto: "Pontos de interrogação — desenvolvimento intensivo"
+      medio_medio: "Core do time — manter engajado"
+      baixo_baixo: "Deadwood — desligar com clareza"
+    source: "MÓDULO 07"
+
+  - id: FW-FLCR-015
+    title: "Framework de Definição de Cargo"
+    components:
+      - "Título e posicionamento no organograma"
+      - "Propósito do cargo (por que existe?)"
+      - "Responsabilidades principais (3-7 máximo)"
+      - "Indicadores de performance (KPIs específicos)"
+      - "Competências técnicas obrigatórias"
+      - "Competências comportamentais desejadas"
+      - "Requisitos mínimos (formação, experiência)"
+      - "Remuneração e benefícios"
+    source: "MÓDULO 05 - Aula 5"
+
+  - id: FW-FLCR-016
+    title: "Framework de Employer Branding (4 Pilares)"
+    pillars:
+      cultura_visivel: "Mostre sua cultura real (não apenas o que é bonito)"
+      verdade_nas_expectativas: "Comunique o que é difícil também"
+      historias_de_pessoas: "Colaboradores contando sua experiência real"
+      proposta_de_valor: "Por que trabalhar aqui vs. concorrentes?"
+    source: "MÓDULO 03 - Aula 2"
+
+  - id: FW-FLCR-017
+    title: "Modelo de Reconhecimento e Recompensa (4 Dimensões)"
+    dimensions:
+      financeiro: "Salário, bônus, PLR, participação nos lucros"
+      nao_financeiro: "Reconhecimento público, título, responsabilidade"
+      desenvolvimento: "Cursos, mentoring, promoção, projetos especiais"
+      autonomia: "Liberdade para decidir, criar, propor"
+    principle: "Mix ideal varia por pessoa e fase de carreira. Pergunte, não assuma."
+    source: "MÓDULO 09"
+
+  - id: FW-FLCR-018
+    title: "Framework de Diagnóstico de Desafios da Equipe"
+    diagnostic_axes:
+      - "Processo (gargalo operacional)"
+      - "Pessoas (pessoa certa no lugar certo?)"
+      - "Cultura (valores praticados vs. declarados?)"
+      - "Liderança (o líder está no caminho?)"
+    action: "Diagnóstico em cada eixo antes de qualquer intervenção"
+    source: "MÓDULO 06 - Aula 4"
+
+  - id: FW-FLCR-019
+    title: "Framework de Programa de Meritocracia"
+    components:
+      criterios: "Critérios claros, públicos e compreendidos"
+      metricas: "Indicadores de resultado + valores"
+      periodicidade: "Revisão regular (semestral ou anual)"
+      recompensas: "Mix financeiro + não-financeiro"
+      transparencia: "Comunicação clara de quem recebe e por quê"
+    source: "MÓDULO 09"
+
+  - id: FW-FLCR-020
+    title: "Framework de Estrutura Organizacional por Fase"
+    phases:
+      startup: "Flat, todos fazem tudo, fundador no centro"
+      crescimento: "Funcional por especialidade (vendas, ops, financeiro)"
+      escala: "Matricial ou por processo (velocidade + especialização)"
+      corporativo: "Divisional por produto/geografia/cliente"
+    principle: "Estrutura serve à estratégia. Quando a estratégia muda, revise a estrutura."
+    source: "MÓDULO 05 - Aula 3"
+
+  - id: FW-FLCR-021
+    title: "Framework de Rotinas de Liderança (Agenda Semanal)"
+    structure:
+      segunda: "Alinhamento de equipe (prioridades da semana)"
+      quarta: "1-a-1 com diretos (30min cada)"
+      sexta: "Review de indicadores (resultados vs. metas)"
+      diario: "15min daily (bloqueios operacionais)"
+    principle: "O que está na agenda acontece. O que não está, fica nos bons intentos."
+    source: "MÓDULO 01 - Aula 6"
+
+  - id: FW-FLCR-022
+    title: "Framework de Integração do Colaborador (4 Elementos)"
+    elements:
+      cultural: "Imersão nos valores, propósito e missão"
+      relacional: "Apresentação às pessoas-chave"
+      tecnico: "Treinamento na função"
+      ferramental: "Acesso a sistemas, processos, ferramentas"
+    source: "MÓDULO 05 - Aula 2"
+
+  - id: FW-FLCR-023
+    title: "Modelo de Entrevista Comportamental (STAR)"
+    structure:
+      S: "Situação (descreva o contexto)"
+      T: "Tarefa (qual era sua responsabilidade?)"
+      A: "Ação (o que você fez especificamente?)"
+      R: "Resultado (qual foi o resultado mensurável?)"
+    use: "Revela comportamentos passados como preditor de comportamentos futuros"
+    source: "MÓDULO 03 - Aula 5"
+
+  - id: FW-FLCR-024
+    title: "Framework de Plano de Desenvolvimento Individual (PDI)"
+    components:
+      - "Strengths (o que tem de melhor)"
+      - "Development areas (o que precisa melhorar)"
+      - "Goals (onde quer chegar em 12-24 meses)"
+      - "Actions (o que vai fazer para desenvolver)"
+      - "Resources (que suporte precisa da empresa)"
+      - "Milestones (checkpoints ao longo do caminho)"
+    frequency: "Revisão semestral com o gestor"
+    source: "MÓDULO 07 - Aula 2"
+
+  - id: FW-FLCR-025
+    title: "Framework de Comunicação de Mudança"
+    elements:
+      - "POR QUÊ mudar (urgência e contexto)"
+      - "O QUÊ vai mudar (escopo claro)"
+      - "COMO vai mudar (processo de transição)"
+      - "QUANDO vai mudar (cronograma realista)"
+      - "O QUE FICA IGUAL (âncora de estabilidade)"
+      - "COMO PODEM CONTRIBUIR (participação ativa)"
+    principle: "Comunicar excessivamente durante mudança. Silêncio cria especulação."
+    source: "MÓDULO 06 - Aula 4"
+
+  - id: FW-FLCR-026
+    title: "Framework de Mapeamento de Processo (AS IS → TO BE)"
+    steps:
+      - "1. Mapear processo atual (AS IS) sem julgamento"
+      - "2. Identificar gargalos e desperdícios"
+      - "3. Definir estado futuro desejado (TO BE)"
+      - "4. Gap analysis (AS IS vs. TO BE)"
+      - "5. Plano de ação para transição"
+      - "6. Indicadores de progresso"
+    source: "MÓDULO 06"
+
+  - id: FW-FLCR-027
+    title: "Sistema de Acompanhamento de Metas (OKR Simplificado)"
+    structure:
+      objective: "O que queremos alcançar (qualitativo, inspirador)"
+      key_results: "Como saberemos que chegamos (3-5 métricas)"
+      cadence: "Review semanal de progresso"
+      blocker_protocol: "Quando bloqueio: identificar, escalar, resolver em 48h"
+    source: "MÓDULO 08"
+
+  - id: FW-FLCR-028
+    title: "Framework de Seleção por Competências (4 Camadas)"
+    layers:
+      conhecimento: "O que sabe (formação, experiência, certificações)"
+      habilidade: "O que sabe fazer (demonstrado, não apenas declarado)"
+      atitude: "Como se comporta (fit cultural, valores, motivação)"
+      potencial: "O que pode vir a ser (capacidade de crescimento)"
+    principle: "Conhecimento e habilidade se desenvolvem. Atitude raramente muda."
+    source: "MÓDULO 03"
+
+  - id: FW-FLCR-029
+    title: "Framework de Gestão do Clima Pós-Pesquisa"
+    steps:
+      - "1. Analisar resultados por área (não só geral)"
+      - "2. Priorizar top 3 dimensões com pior score"
+      - "3. Conduzir grupos focais para entender causas"
+      - "4. Criar plano de ação com responsáveis e prazo"
+      - "5. Comunicar para toda a empresa o que foi planejado"
+      - "6. Executar e monitorar mensalmente"
+      - "7. Pesquisar novamente em 6-12 meses"
+    principle: "Ciclo fechado: pesquise → aja → comunique → meça novamente"
+    source: "MÓDULO EXTRA"
+
+  - id: FW-FLCR-030
+    title: "Framework de Reconhecimento Público (4 R's)"
+    elements:
+      reconhecer: "Identificar comportamento específico (não genérico)"
+      referenciar: "Ancorar ao valor da empresa que foi demonstrado"
+      relatar: "Descrever o impacto que gerou"
+      recompensar: "Forma de reconhecimento (público, bônus, etc.)"
+    rule: "Reconhecimento vago não reforça comportamento. Seja específico."
+    source: "MÓDULO 09"
+
+  - id: FW-FLCR-031
+    title: "Framework de Planejamento de Sucessão"
+    steps:
+      - "1. Mapeie posições críticas (quem pode ser bus por carro?)"
+      - "2. Para cada posição: identifique 1-2 potenciais sucessores"
+      - "3. Avalie prontidão: pronto agora / 1-2 anos / 3-5 anos"
+      - "4. Crie plano de desenvolvimento para cada sucessor"
+      - "5. Exponha ao trabalho do cargo atual gradualmente"
+    source: "MÓDULO 05"
+
+  - id: FW-FLCR-032
+    title: "Framework de Desligamento com Clareza e Humanidade"
+    steps:
+      - "1. Reunião privada, sem surpresas quando possível"
+      - "2. Comunicar com clareza: decisão tomada, não debate"
+      - "3. Explicar motivo (com evidências comportamentais quando possível)"
+      - "4. Agradecer a contribuição genuinamente"
+      - "5. Comunicar processo prático (prazo, acertos, benefícios)"
+      - "6. Perguntar como pode apoiar a transição"
+    principle: "Demissão com dignidade é responsabilidade do líder."
+    source: "MÓDULO 03 - Aula 7"
+
+  - id: FW-FLCR-033
+    title: "Modelo de Reunião 1-a-1 Semanal"
+    structure:
+      abertura: "O que está funcionando bem? (5 min)"
+      blockers: "O que está travando? (10 min)"
+      desenvolvimento: "Onde você quer crescer? (10 min)"
+      feedback: "Uma coisa que você quer de mim / eu dou de você (5 min)"
+    frequency: "Semanal, 30 min, com o mesmo direto"
+    principle: "O 1-1 é do colaborador, não do líder. O líder facilita."
+    source: "MÓDULO 07"
+
+  - id: FW-FLCR-034
+    title: "Framework de Implantação de Cultura (7 Alavancas)"
+    levers:
+      - "1. Exemplo da liderança (modele os valores diariamente)"
+      - "2. Processo de R&S alinhado a valores (filtre desde o início)"
+      - "3. Onboarding cultural estruturado (imersão em valores)"
+      - "4. Rituais e celebrações alinhados a valores"
+      - "5. Feedback e avaliação ancorados em valores"
+      - "6. Decisões difíceis tomadas baseadas em valores"
+      - "7. Remoção de quem viola valores sistematicamente"
+    source: "MÓDULO 02 - Aula 7"
+
+  - id: FW-FLCR-035
+    title: "Framework de Análise de Turnover"
+    questions:
+      - "Por que as pessoas saem? (análise de entrevistas de saída)"
+      - "Quem está saindo? (alto potencial vs. bajo potencial)"
+      - "Quando saem? (primeiros 90 dias vs. longo prazo)"
+      - "Para onde vão? (concorrente vs. mudança de área)"
+    action: "Cada padrão de turnover aponta para problema específico: liderança, cultura, remuneração ou crescimento"
+    source: "MÓDULO 03 - Aula 1"
+
+  - id: FW-FLCR-036
+    title: "Framework de Processo Seletivo por Etapas"
+    stages:
+      triagem_curricular: "Requisitos mínimos + keywords de fit"
+      teste_online: "Capacidade técnica + fit comportamental"
+      entrevista_inicial: "Apresentação, fit cultural, motivações"
+      entrevista_tecnica: "Profundidade em habilidades do cargo"
+      entrevista_cultural: "Valores, estilo, como age em situações-chave"
+      entrevista_gestao: "Com o gestor direto (fit de relação)"
+      proposta: "Oferta com clareza (salário, benefícios, desafios)"
+    source: "MÓDULO 03 - Aula 5"
+
+  - id: FW-FLCR-037
+    title: "Modelo de Rotina de Alta Performance (Agenda do Líder Sênior)"
+    allocation:
+      estrategia: "30% (planejamento, mercado, crescimento)"
+      pessoas: "30% (desenvolvimento, 1-1s, cultura)"
+      clientes: "20% (principais clientes estratégicos)"
+      operacao: "20% (acompanhamento de indicadores, decisões urgentes)"
+    principle: "Se o líder sênior está > 40% no operacional, a empresa tem problema de estrutura ou delegação."
+    source: "MÓDULO 01 - Aula 6"
+
+  - id: FW-FLCR-038
+    title: "Framework de Análise de Potencial (4 Dimensões)"
+    dimensions:
+      inteligencia: "Capacidade cognitiva e aprendizado"
+      motivacao: "Drive intrínseco e ambição"
+      lideranca: "Influência natural sobre outros"
+      resiliencia: "Capacidade de se recuperar de adversidades"
+    source: "MÓDULO 03"
+
+  - id: FW-FLCR-039
+    title: "Modelo de Missão Empresarial (Equação)"
+    formula: "Missão = VERBO DE AÇÃO + PÚBLICO-ALVO + TRANSFORMAÇÃO + DIFERENCIAL"
+    example: "Desenvolver [VERBO] líderes empresariais [PÚBLICO] para construir empresas de alta performance [TRANSFORMAÇÃO] com as melhores práticas de consultoria aplicada [DIFERENCIAL]"
+    source: "MÓDULO 02 - Aula 5"
+
+  - id: FW-FLCR-040
+    title: "Framework de Prevenção de Resistência à Mudança"
+    strategies:
+      incluir_cedo: "Envolva as pessoas-chave antes de decidir (onde possível)"
+      comunicar_razoes: "Explique o PORQUÊ antes do COMO"
+      vitórias_rapidas: "Mostre resultados em 30-90 dias"
+      reconhecer_perda: "Reconheça o que as pessoas perdem, não minimize"
+      escalar_suporte: "Identifique quem precisa de apoio individual"
+    source: "MÓDULO 06 - Aula 4"
+
+  - id: FW-FLCR-041
+    title: "Framework de Implantação de RH do Zero"
+    subsystems:
+      recrutamento: "Processo estruturado de seleção"
+      integracao: "Onboarding cultural e técnico"
+      avaliacao: "Avaliação de desempenho regular"
+      desenvolvimento: "PDI e plano de treinamentos"
+      remuneracao: "Plano de cargos e salários"
+      retencao: "Meritocracia e reconhecimento"
+    principle: "Cada subsistema deve estar conectado e alimentar os outros"
+    source: "MÓDULO 03 - MÓDULO 09"
+
+  - id: FW-FLCR-042
+    title: "Framework de Delegação Eficaz (5 Elementos)"
+    elements:
+      clareza: "Expectativa 100% clara (o quê, até quando, com qual qualidade)"
+      capacidade: "A pessoa tem os recursos para entregar?"
+      autonomia: "Espaço para decidir como fazer"
+      accountability: "Ponto de checagem acordado"
+      suporte: "Como o líder apoia sem fazer no lugar"
+    anti_pattern: "Delegar sem clareza = abandonar. Delegar com micro-controle = não delegou."
+    source: "MÓDULO 01"

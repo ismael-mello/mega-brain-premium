@@ -1,0 +1,215 @@
+layer: L3
+name: HEURISTICS
+person: Wilson Sajr (FLCR / PWR Gestão)
+total: 38
+
+items:
+
+  # === HEURÍSTICAS NUMÉRICAS (PRIORIDADE) ===
+
+  - id: HEUR-FLCR-001
+    title: "Regra 90% para Posições Críticas"
+    content: "Pelo menos 90% das posições críticas devem estar preenchidas com as pessoas certas. Posição crítica = quem toma decisões sobre pessoas ou cujo erro único gera risco organizacional significativo."
+    number: "90%"
+    source: "MÓDULO 03"
+
+  - id: HEUR-FLCR-002
+    title: "13% de Engajamento Real"
+    content: "Apenas 13% dos colaboradores são genuinamente engajados. Esses 13% geram 20% mais vendas e performam 147% melhor que desengajados."
+    numbers: "13% engajados | +20% vendas | +147% performance"
+    source: "MÓDULO 02"
+
+  - id: HEUR-FLCR-003
+    title: "765% de Crescimento de Receita com Cultura Forte"
+    content: "Segundo Harvard, empresas com cultura forte crescem 765% em 10 anos vs. empresas com cultura fraca. ROI direto do investimento em cultura."
+    number: "765% em 10 anos"
+    source: "MÓDULO 02 - Aula 1"
+
+  - id: HEUR-FLCR-004
+    title: "Regra 80/20 de Liderança: Afabilidade vs. Cobrança"
+    content: "80% do tempo: afabilidade, suporte, feedback positivo, relação humana. 20% do tempo: cobrança, desafio, correção. Inverta e a equipe para de entregar."
+    numbers: "80% afabilidade | 20% cobrança"
+    source: "MÓDULO 01 - Aula 3"
+
+  - id: HEUR-FLCR-005
+    title: "Primeiro Erro = Oportunidade, Segundo = Padrão"
+    content: "Primeiro erro pode ser situacional. Segundo erro no mesmo comportamento indica padrão de caráter ou capacidade. Após 2-3 falhas no mesmo item, assuma desalinhamento."
+    number: "2-3 repetições = padrão"
+    source: "MÓDULO 07"
+
+  - id: HEUR-FLCR-006
+    title: "Regra dos 30 Dias para Novos Contratados"
+    content: "Se alguém com fit ruim foi contratado, os sinais aparecem em até 30 dias. Intervenção precoce é muito mais barata do que esperar. Checkpoint obrigatório no dia 30."
+    number: "30 dias"
+    source: "MÓDULO 05 - Aula 2"
+
+  - id: HEUR-FLCR-007
+    title: "Eficiência do Funil de Recrutamento"
+    content: "Cada fase do funil deve eliminar 50-80% dos candidatos. Se não elimina, o filtro é frouxo. Taxa de dropout revela onde o processo está falhando."
+    number: "50-80% eliminados por fase"
+    source: "MÓDULO 03 - Aula 4"
+
+  - id: HEUR-FLCR-008
+    title: "Regra dos 28 Ferramentas FLCR"
+    content: "O programa FLCR contém mais de 28 ferramentas imediatamente aplicáveis, todas testadas em clientes reais da PWR Gestão. Não há nada teórico sem validação prática."
+    number: "28+ ferramentas"
+    source: "MÓDULO 00"
+
+  - id: HEUR-FLCR-009
+    title: "Avaliação por Valores: Score 8+ = Fit Forte"
+    content: "Matrix de avaliação: pessoas × valores, nota 0-10. Média >= 8 = forte fit cultural. 6-7 = precisa coaching. < 6 = considere substituição."
+    numbers: "8+ = fit forte | 6-7 = coaching | <6 = revisar"
+    source: "MÓDULO 02"
+
+  - id: HEUR-FLCR-010
+    title: "Promoção: 90% por Mérito"
+    content: "90% das promoções devem ser por mérito. Nem todos precisam subir — alguns são mais valiosos onde estão. Demitir os 10% de fundo quando genuinamente underperforming."
+    number: "90% mérito"
+    source: "MÓDULO 09"
+
+  - id: HEUR-FLCR-011
+    title: "Feedback: Não Deixe Acumular Mais de 48h"
+    content: "Feedback sobre comportamento específico perde impacto após 48 horas. Dar feedback imediatamente (ou no máximo 48h) enquanto o contexto ainda é fresco para ambos."
+    number: "48 horas máximo"
+    source: "MÓDULO 07"
+
+  - id: HEUR-FLCR-012
+    title: "Reuniões de Follow-up: Cadência por Nível"
+    content: "Daily: 15 min máximo. Semanal: 1 hora. Mensal: 2-3 horas. Trimestral: meio dia. Reunião sem pauta = cancelada."
+    numbers: "Daily 15min | Semanal 1h | Mensal 2-3h | Trimestral meio-dia"
+    source: "MÓDULO 08"
+
+  - id: HEUR-FLCR-013
+    title: "Regra das 3 Informações do Candidato"
+    content: "Todo candidato deve ser avaliado em: (1) competência técnica, (2) fit cultural, (3) histórico de resultados. Peso recomendado: técnica 30%, cultural 40%, resultados 30%."
+    numbers: "técnica 30% | cultural 40% | resultados 30%"
+    source: "MÓDULO 03"
+
+  - id: HEUR-FLCR-014
+    title: "Cultura: 3 Componentes Obrigatórios"
+    content: "Cultura real = Propósito (por quê) + Missão (o quê) + Valores (como). Se falta qualquer componente, a cultura é incompleta. Frequência de violação dos valores > declaração na parede."
+    number: "3 componentes"
+    source: "MÓDULO 02"
+
+  - id: HEUR-FLCR-015
+    title: "Regra do Limite de Diretos por Nível"
+    content: "Um gestor consegue gerenciar bem: 5-8 diretos em ambientes complexos, até 15 em operações mais simples. Acima disso, a qualidade da gestão cai exponencialmente."
+    numbers: "5-8 complexo | até 15 simples"
+    source: "MÓDULO 05"
+
+  # === HEURÍSTICAS QUALITATIVAS ===
+
+  - id: HEUR-FLCR-016
+    title: "Teste do Alívio"
+    content: "Se essa pessoa pedisse demissão amanhã, você sentiria alívio? Se sim, você já deveria ter agido. O alívio é dado de que a decisão de demissão está atrasada."
+    source: "MÓDULO 03 - Aula 7"
+
+  - id: HEUR-FLCR-017
+    title: "Nunca Contrate Quem Você Não Gostaria de Ver Todos os Dias"
+    content: "Habilidade técnica não compensa toxicidade relacional. Se seu instinto de liderança rejeita a pessoa, confie nele — especialmente após entrevista comportamental."
+    source: "MÓDULO 03"
+
+  - id: HEUR-FLCR-018
+    title: "Valores São Comportamentos, Não Palavras"
+    content: "Valor que não se reflete em comportamento diário não é valor — é aspiração decorativa. O teste do valor: qual é a última vez que você fez uma decisão difícil por causa desse valor?"
+    source: "MÓDULO 02 - Aula 6"
+
+  - id: HEUR-FLCR-019
+    title: "Promoção Não é Recompensa, É Responsabilidade"
+    content: "Antes de promover: a pessoa tem as competências para o novo nível? Promover por lealdade ou tempo de casa sem fit para o novo cargo é punir quem é promovido."
+    source: "MÓDULO 09"
+
+  - id: HEUR-FLCR-020
+    title: "Nunca Pague Suborno (O R$300 que Destrói Tudo)"
+    content: "Uma vez que você quebra o valor de integridade por conveniência (ex: R$300 para liberar caminhão), você sinalizou à equipe que valores têm preço. A corrosão é sistêmica a partir daí."
+    source: "MÓDULO 02"
+
+  - id: HEUR-FLCR-021
+    title: "Agenda: Se Não Está Agendado, Não Acontece"
+    content: "Desenvolvimento de equipe, follow-up 1-a-1, reuniões de cultura — se não estão no calendário, serão engolidos pela urgência operacional. O líder agenda o que importa."
+    source: "MÓDULO 01 - Aula 6"
+
+  - id: HEUR-FLCR-022
+    title: "Não Cobre o Que Você Não Modelou"
+    content: "Antes de cobrar qualquer comportamento da equipe, pergunte: estou modelando isso? A incoerência entre o que você exige e o que você pratica destrói sua autoridade moral."
+    source: "MÓDULO 01"
+
+  - id: HEUR-FLCR-023
+    title: "Contratação: Anuncie os Problemas Também"
+    content: "Seja honesto na oferta de emprego: fale das dificuldades, da cultura exigente, das expectativas altas. Quem foge não era o candidato certo. Quem fica, está alinhado com a realidade."
+    source: "MÓDULO 03 - Aula 2"
+
+  - id: HEUR-FLCR-024
+    title: "Problema de Performance = Problema de Clareza ou Capacidade"
+    content: "Antes de demitir por performance, verifique: (1) A pessoa sabia exatamente o que era esperado? (2) Tinha as condições para entregar? Se não a qualquer um, o problema pode ser seu."
+    source: "MÓDULO 07"
+
+  - id: HEUR-FLCR-025
+    title: "Mudança: Nunca Anuncie o Que Você Não Pode Entregar"
+    content: "Prometer mudança e não executar é pior do que não anunciar a mudança. Cada promessa não cumprida destrói sua capital de confiança com a equipe."
+    source: "MÓDULO 06"
+
+  - id: HEUR-FLCR-026
+    title: "Resistência à Mudança é Normal — Gerenciar é Obrigatório"
+    content: "Espere resistência. Trate resistência como dado de diagnóstico, não como inimigo. Resistência revela o que não foi comunicado, o que não foi incluído, o que não está claro."
+    source: "MÓDULO 06"
+
+  - id: HEUR-FLCR-027
+    title: "Integração: Não Deixe o Novo Colaborador Descobrir Sozinho"
+    content: "Cada dia sem estrutura no onboarding é um dia de erosão de confiança. O novo colaborador forma opinião sobre a empresa nas primeiras 2 semanas. Essa opinião é difícil de mudar."
+    source: "MÓDULO 05 - Aula 2"
+
+  - id: HEUR-FLCR-028
+    title: "Meta Sem Follow-up é Desejo"
+    content: "Uma meta não acompanhada semanalmente tem < 10% de chance de ser atingida. O follow-up não é controle — é suporte. Cada check-in é uma oportunidade de destravar obstáculos."
+    source: "MÓDULO 08"
+
+  - id: HEUR-FLCR-029
+    title: "Feedback Positivo em Público, Corretivo em Privado"
+    content: "Reconhecimento público amplifica o comportamento positivo para toda a equipe (modelo a seguir). Correção em público humilha e cria defensividade. Ambos são importantes, mas em contextos diferentes."
+    source: "MÓDULO 07"
+
+  - id: HEUR-FLCR-030
+    title: "Nunca Negocie em Cima de Quebra de Valor"
+    content: "Quando um valor é quebrado, a consequência é clara. Negociar exceções por resultado ('ele entrega muito, então...') cria precedente que destrói toda a estrutura de valores."
+    source: "MÓDULO 02"
+
+  - id: HEUR-FLCR-031
+    title: "Clima Organizacional: Pesquise, Aja, Reporte"
+    content: "Pesquisa de clima sem plano de ação é pior do que não pesquisar. Sinaliza que você pediu opinião e não se importou. O ciclo obrigatório: pesquise → analise → aja → comunique o que foi feito."
+    source: "MÓDULO EXTRA"
+
+  - id: HEUR-FLCR-032
+    title: "Liderança: Foco É Recurso Finito"
+    content: "Capital de liderança (foco, energia, autoridade moral) é finito. Gaste em momentos que importam. Quem gasta tudo em micro-correções não tem capital para as grandes decisões."
+    source: "MÓDULO 01"
+
+  - id: HEUR-FLCR-033
+    title: "Delegue o Que Você Pode Controlar — Não o Que Você Quer Largar"
+    content: "Delegação eficaz = clareza de expectativa + suporte + accountability. Largar uma tarefa sem estrutura não é delegação — é abandono. O líder é responsável pelo resultado do delegado."
+    source: "MÓDULO 01"
+
+  - id: HEUR-FLCR-034
+    title: "Avaliação Anual com Surpresas = Falha do Líder"
+    content: "Se o colaborador fica surpreso com feedback na avaliação anual, o líder falhou no feedback contínuo. Avaliação anual deve ser formalização do que já foi comunicado ao longo do ano."
+    source: "MÓDULO 07"
+
+  - id: HEUR-FLCR-035
+    title: "Meritocracia Exige Critérios Claros e Públicos"
+    content: "Meritocracia opaca é mais prejudicial do que nenhuma meritocracia. Os critérios de avaliação, promoção e recompensa devem ser públicos, compreendidos e percebidos como justos."
+    source: "MÓDULO 09"
+
+  - id: HEUR-FLCR-036
+    title: "Cultura Forte Atrai e Repele Naturalmente"
+    content: "Uma cultura de alta performance com valores claros naturalmente repele quem não quer trabalhar com propósito e exigência. Isso não é um problema — é um filtro."
+    source: "MÓDULO 02"
+
+  - id: HEUR-FLCR-037
+    title: "O Líder Que Resolve Tudo Cria Equipe Que Não Resolve Nada"
+    content: "Toda vez que você resolve um problema que o colaborador deveria resolver, você remove a oportunidade de desenvolvimento dele e cria dependência. Coaches resolvem com perguntas, não com respostas."
+    source: "MÓDULO 01"
+
+  - id: HEUR-FLCR-038
+    title: "Estrutura Serve à Estratégia — Revise Quando Mudar o Negócio"
+    content: "Organograma feito para o estágio anterior da empresa é entrave. Cada vez que a estratégia muda substancialmente, pergunte: nossa estrutura ainda serve? Se não, mude a estrutura."
+    source: "MÓDULO 05 - Aula 3"

@@ -1,0 +1,513 @@
+layer: L5
+name: METHODOLOGIES
+person: Wilson Sajr (FLCR / PWR Gestão)
+total: 40
+
+items:
+
+  - id: MET-FLCR-001
+    title: "Processo Completo de Recrutamento e Seleção (7 Fases)"
+    phases:
+      fase_1: "PLANEJAMENTO: Identificar gap, abrir requisição, aprovar headcount"
+      fase_2: "PERFIL: Definir cargo, competências, requisitos, persona ideal"
+      fase_3: "ATRAÇÃO: Divulgar com employer branding, canais certos, proposta honesta"
+      fase_4: "TRIAGEM: Filtrar por currículo + testes (50-80% eliminação)"
+      fase_5: "ENTREVISTAS: Sequência STAR + Cultural (comportamental + valores)"
+      fase_6: "DECISÃO: Scoring de candidatos, checagem de referências"
+      fase_7: "ONBOARDING: Integração 4 semanas (cultural + técnico + relacional)"
+    source: "MÓDULO 03"
+
+  - id: MET-FLCR-002
+    title: "Implantação de Cultura Organizacional (Passo a Passo)"
+    steps:
+      - "1. Liderança se compromete: o líder define e vive os valores ANTES de comunicar"
+      - "2. Diagnóstico: onde a cultura atual está vs. onde queremos ir"
+      - "3. Definição: Propósito + Missão + Valores (workshops com equipe-chave)"
+      - "4. Comunicação interna: lançamento com cerimônia, significado, contexto"
+      - "5. Incorporação em processos: R&S, onboarding, avaliação, feedback"
+      - "6. Reforço contínuo: rituais, celebrações de valores, reconhecimento"
+      - "7. Coerência nas decisões difíceis: demitir quem viola valores, mesmo sendo bom performer"
+    source: "MÓDULO 02"
+
+  - id: MET-FLCR-003
+    title: "Ciclo de Feedback Contínuo (Semestral Formal + Mensal Informal)"
+    formal_cycle_6mo:
+      - "1. Auto-avaliação do colaborador (formulário estruturado)"
+      - "2. Avaliação do gestor (comportamentos + resultados + valores)"
+      - "3. Calibração entre gestores (evitar inconsistência de notas)"
+      - "4. Reunião de feedback (conversa, não leitura de formulário)"
+      - "5. PDI atualizado (o que vai desenvolver nos próximos 6 meses)"
+      - "6. Follow-up mensal (como está o progresso do PDI?)"
+    informal_monthly:
+      - "1-1 semanal com abertura para feedback bidirecional"
+      - "Feedback imediato em até 48h após comportamento relevante"
+    source: "MÓDULO 07"
+
+  - id: MET-FLCR-004
+    title: "Processo de Gestão da Mudança Organizacional"
+    pre_change:
+      - "1. Diagnóstico: por que mudar? O que está forçando a mudança?"
+      - "2. Impacto: quem é afetado? O que muda para cada grupo?"
+      - "3. Coalizão: quem são os champions da mudança? Quem vai resistir?"
+    during_change:
+      - "4. Comunicação: por quê, o quê, como, quando, o que fica igual"
+      - "5. Capacitação: treinamento para o novo contexto"
+      - "6. Quick wins: primeiras vitórias em 30-90 dias (mostrar que funciona)"
+      - "7. Suporte individual: identificar quem precisa de ajuda especial"
+    post_change:
+      - "8. Ancoragem: o novo jeito vira o jeito normal"
+      - "9. Célébração: reconhecer quem liderou a mudança"
+      - "10. Retrospectiva: o que aprendemos para a próxima mudança?"
+    source: "MÓDULO 06"
+
+  - id: MET-FLCR-005
+    title: "Construção de Programa de Meritocracia"
+    steps:
+      - "1. Definir o que será medido (resultados + comportamentos/valores)"
+      - "2. Criar escala de avaliação clara e objetiva"
+      - "3. Definir ciclo de avaliação (semestral/anual)"
+      - "4. Calibrar entre gestores (evitar inflação/deflação de notas)"
+      - "5. Comunicar critérios para toda a equipe ANTES da avaliação"
+      - "6. Vincular avaliação a consequências reais (promoção, bônus, PDI)"
+      - "7. Garantir transparência: quem recebe o quê e por quê"
+    source: "MÓDULO 09"
+
+  - id: MET-FLCR-006
+    title: "Implantação de Sistema de Follow-up e Acompanhamento"
+    steps:
+      - "1. Definir metas SMART para cada área/pessoa"
+      - "2. Criar painel de indicadores (dashboard simples e visível)"
+      - "3. Implementar cadência de reuniões (daily, semanal, mensal)"
+      - "4. Criar protocolo de escalada de bloqueios"
+      - "5. Documentar decisões e next steps em cada reunião"
+      - "6. Cobrar os combinados no próximo encontro"
+    tools: "Planilha, ClickUp, Trello, Notion — o que a equipe usar de forma consistente"
+    source: "MÓDULO 08"
+
+  - id: MET-FLCR-007
+    title: "Diagnóstico Situacional Organizacional"
+    steps:
+      - "1. Coleta de dados: entrevistas com liderança, colaboradores, clientes"
+      - "2. Análise do organograma atual vs. necessário"
+      - "3. Revisão de processos críticos (gargalos, redundâncias)"
+      - "4. Avaliação cultural (valores declarados vs. praticados)"
+      - "5. Análise de indicadores de RH (turnover, absenteísmo, engajamento)"
+      - "6. Consolidação de diagnóstico com prioridades"
+      - "7. Apresentação para liderança com recomendações"
+    source: "MÓDULO EXTRA - Aula 1"
+
+  - id: MET-FLCR-008
+    title: "Construção de Organograma e Estrutura Organizacional"
+    steps:
+      - "1. Mapear funções existentes (não pessoas — funções)"
+      - "2. Agrupar por afinidade de trabalho (processo vs. especialização)"
+      - "3. Definir níveis hierárquicos (quantos níveis são necessários?)"
+      - "4. Estabelecer span de controle por posição"
+      - "5. Identificar posições a criar vs. eliminar"
+      - "6. Definir responsabilidades por posição (não por pessoa)"
+      - "7. Comunicar estrutura e justificativa para equipe"
+    source: "MÓDULO 05 - Aula 3-4"
+
+  - id: MET-FLCR-009
+    title: "Processo de Integração Cultural Completo (Primeiros 30 Dias)"
+    day_1:
+      - "Boas-vindas pelo gestor direto e/ou CEO"
+      - "Entrega de materiais, acesso a sistemas"
+      - "Tour pela empresa (físico ou virtual)"
+    week_1:
+      - "Apresentação de propósito, missão e valores (com profundidade)"
+      - "Apresentação às pessoas-chave"
+      - "Histórias de cultura (exemplos de decisões baseadas em valores)"
+    weeks_2_3:
+      - "Treinamento técnico do cargo com mentor designado"
+      - "Acompanhamento de reuniões de rotina"
+      - "Primeiras entregas guiadas"
+    day_30:
+      - "Reunião formal de check-in: como está se sentindo?"
+      - "O que falta para se sentir produtivo?"
+      - "Percepções sobre cultura (valioso para o líder também)"
+    source: "MÓDULO 05 - Aula 2"
+
+  - id: MET-FLCR-010
+    title: "Processo de Desligamento com Preservação de Cultura"
+    steps:
+      - "1. Decisão tomada (não em debate — com evidências)"
+      - "2. Comunicação ao RH e preparação logística"
+      - "3. Reunião privada: comunicar de forma clara e direta"
+      - "4. Agradecer contribuição genuinamente"
+      - "5. Explicar motivo com respeito (valores, fit, decisão estratégica)"
+      - "6. Informar processo (prazo, acertos, benefícios)"
+      - "7. Comunicar para equipe (com mensagem cuidadosa, sem exposição)"
+      - "8. Entrevista de desligamento (aprendizados para o líder)"
+    source: "MÓDULO 03"
+
+  - id: MET-FLCR-011
+    title: "Construção de Plano de Cargos e Salários (PCS)"
+    steps:
+      - "1. Inventário de cargos existentes"
+      - "2. Descrição de cada cargo (responsabilidades, competências, KPIs)"
+      - "3. Pesquisa salarial de mercado (por cargo e por região)"
+      - "4. Criação de faixas salariais por nível"
+      - "5. Classificação de cada cargo na faixa"
+      - "6. Política de revisão salarial (frequência, gatilhos)"
+      - "7. Comunicação transparente para a equipe"
+    source: "MÓDULO 09"
+
+  - id: MET-FLCR-012
+    title: "Processo de Avaliação de Fit Cultural na Entrevista"
+    behavioral_questions:
+      - "Conte sobre uma situação em que você teve que tomar uma decisão difícil. O que fez?"
+      - "Descreva um momento em que você discordou de uma decisão. Como agiu?"
+      - "Quando foi a última vez que cometeu um erro sério? O que aprendeu?"
+      - "Como você reage quando alguém critica seu trabalho?"
+      - "Que tipo de ambiente de trabalho te faz performar melhor?"
+    interpretation: "Padrões comportamentais passados são o melhor preditor de comportamento futuro"
+    source: "MÓDULO 03 - Aula 5"
+
+  - id: MET-FLCR-013
+    title: "Rotina de Liderança Semanal de Alta Performance"
+    monday:
+      - "Alinhamento de equipe: prioridades e bloqueios da semana"
+      - "Revisão de indicadores do fim de semana"
+    tuesday_thursday:
+      - "1-1s com diretos (30min cada)"
+      - "Trabalho estratégico e projetos"
+    wednesday:
+      - "Deep work: planejamento, análise, projetos importantes"
+    friday:
+      - "Review de indicadores da semana"
+      - "Reconhecimento de resultados"
+      - "Planejamento da próxima semana"
+    daily:
+      - "Daily 15min (bloqueios operacionais)"
+    source: "MÓDULO 01 - Aula 6"
+
+  - id: MET-FLCR-014
+    title: "Processo de Coaching de Liderança (6 Sessões)"
+    session_1: "Diagnóstico: estilo atual, forças, gaps"
+    session_2: "Metas de desenvolvimento (3-5 áreas prioritárias)"
+    session_3: "Plano de ação detalhado por área"
+    session_4: "Review de progresso, ajustes"
+    session_5: "Deep dive em 1-2 desafios específicos"
+    session_6: "Consolidação, próximos passos, sustentabilidade"
+    source: "MÓDULO 07"
+
+  - id: MET-FLCR-015
+    title: "Metodologia de Pesquisa de Clima (5 Fases)"
+    fase_1_preparacao:
+      - "Definir objetivo da pesquisa"
+      - "Escolher instrumento (questionário, escala Likert)"
+      - "Garantir anonimato"
+    fase_2_aplicacao:
+      - "Comunicar propósito para equipe antes de aplicar"
+      - "Dar prazo de 1-2 semanas para resposta"
+      - "Lembrar sem pressionar"
+    fase_3_analise:
+      - "Analisar por área, nível, tempo de empresa"
+      - "Identificar dimensões críticas e dimensões fortes"
+      - "Grupos focais para aprofundar causas"
+    fase_4_acao:
+      - "Priorizar 3-5 ações de maior impacto"
+      - "Definir responsáveis e prazos"
+      - "Criar plano de comunicação dos resultados"
+    fase_5_comunicacao:
+      - "Divulgar resultados para toda a empresa (honestidade)"
+      - "Apresentar plano de ação"
+      - "Criar canal de acompanhamento"
+    source: "MÓDULO EXTRA - Aula 2"
+
+  - id: MET-FLCR-016
+    title: "Processo de Definição de Missão Empresarial"
+    steps:
+      - "1. Listar o que a empresa FAZ (produtos/serviços)"
+      - "2. Identificar quem se beneficia (público-alvo)"
+      - "3. Articular a TRANSFORMAÇÃO que produz (antes vs. depois do cliente)"
+      - "4. Identificar o DIFERENCIAL (como faz diferente dos outros)"
+      - "5. Redigir: VERBO + PÚBLICO + TRANSFORMAÇÃO + DIFERENCIAL"
+      - "6. Testar: a equipe consegue decorar e explicar?"
+    source: "MÓDULO 02 - Aula 5"
+
+  - id: MET-FLCR-017
+    title: "Implantação de Reuniões 1-a-1 na Organização"
+    steps:
+      - "1. Alinhar com liderança sênior sobre importância e propósito"
+      - "2. Treinar gestores em como facilitar 1-1 eficaz"
+      - "3. Criar template de pauta (o que abordar)"
+      - "4. Implementar primeiro com diretores, depois cascatear"
+      - "5. Monitorar adesão nas primeiras 4 semanas"
+      - "6. Coletar feedback sobre qualidade das reuniões"
+    source: "MÓDULO 07 - Aula 1"
+
+  - id: MET-FLCR-018
+    title: "Processo de Implantação de OKRs Simples"
+    steps:
+      - "1. Definir Objetivos anuais da empresa (3-5 máximo)"
+      - "2. Cascatear para áreas (KRs da empresa viram Os das áreas)"
+      - "3. Cascatear para pessoas (KRs das áreas viram Os das pessoas)"
+      - "4. Review semanal: semáforo (verde/amarelo/vermelho) por KR"
+      - "5. Review mensal: análise de progresso, remoção de bloqueios"
+      - "6. Review trimestral: ajustes de prioridade"
+      - "7. Review anual: retrospectiva + definição do próximo ciclo"
+    source: "MÓDULO 08"
+
+  - id: MET-FLCR-019
+    title: "Construção de Programa de Integração (Buddy System)"
+    structure:
+      buddy: "Colaborador veterano designado para o novo (não o gestor)"
+      mentor: "Referência técnica para dúvidas do cargo"
+      gestor: "Responsável pelo desenvolvimento e feedback"
+    buddy_responsibilities:
+      - "Apresentar a cultura informalmente"
+      - "Apresentar as pessoas-chave"
+      - "Responder dúvidas que o colaborador tem vergonha de fazer ao gestor"
+      - "Check-in semanal nas primeiras 4 semanas"
+    source: "MÓDULO 05 - Aula 2"
+
+  - id: MET-FLCR-020
+    title: "Processo de Calibração de Avaliação de Desempenho"
+    steps:
+      - "1. Cada gestor avalia seus diretos individualmente"
+      - "2. Reunião de calibração entre todos os gestores"
+      - "3. Comparar distribuição de notas entre áreas"
+      - "4. Discutir outliers (nota muito alta ou muito baixa)"
+      - "5. Ajustar para consistência de critérios (não de notas)"
+      - "6. Documentar decisões da calibração"
+    principle: "Calibração elimina viés do gestor, não iguala performance real."
+    source: "MÓDULO 07"
+
+  - id: MET-FLCR-021
+    title: "Rotina Diária de Credibilidade do Líder"
+    morning: "Perguntar: 'Sou o melhor exemplo dos nossos valores hoje?'"
+    throughout_day: "Cumprir cada promessa feita, por menor que seja"
+    feedback_moments: "Ancorar correções aos valores, não à personalidade"
+    hard_decisions: "Defender valores mesmo quando custoso (ex: demitir o high-performer que viola valores)"
+    evening: "Refletir: 'Onde falhei nos valores hoje? Como corrijo amanhã?'"
+    source: "MÓDULO 01 - Aula 2"
+
+  - id: MET-FLCR-022
+    title: "Processo de Desenvolvimento de Plano de Comunicação de Mudança"
+    steps:
+      - "1. Mapear públicos afetados e como cada um é impactado"
+      - "2. Definir mensagem central (o PORQUÊ acima de tudo)"
+      - "3. Definir canal e frequência por público"
+      - "4. Preparar FAQ (perguntas que virão)"
+      - "5. Treinar gestores para comunicar consistentemente"
+      - "6. Abrir canais para perguntas e feedback"
+      - "7. Monitorar rumores e corrigir rapidamente"
+    source: "MÓDULO 06"
+
+  - id: MET-FLCR-023
+    title: "Processo de Coaching Diário (Micro-coaching)"
+    triggers: "Oportunidade de desenvolvimento no dia a dia (não precisa ser reunião formal)"
+    steps:
+      - "1. Identificar momento (erro, decisão importante, comportamento notável)"
+      - "2. Perguntar (não dizer): 'O que você acha que aconteceu?'"
+      - "3. Ouvir completamente a perspectiva do colaborador"
+      - "4. Adicionar perspectiva do líder com contexto"
+      - "5. Acordar o que fazer diferente (comprometimento do colaborador)"
+    principle: "Coaching micro e frequente > reunião de coaching formal e rara."
+    source: "MÓDULO 07"
+
+  - id: MET-FLCR-024
+    title: "Processo de Análise e Resolução de Conflitos na Equipe"
+    steps:
+      - "1. Identificar natureza: conflito interpessoal vs. conflito de processo"
+      - "2. Ouvir cada parte separadamente (sem julgamento)"
+      - "3. Identificar o interesse real por trás das posições"
+      - "4. Reunir as partes quando seguro fazê-lo"
+      - "5. Facilitar acordo focado em comportamentos e processo (não personalidade)"
+      - "6. Documentar acordos e monitorar"
+    principle: "Conflito não resolvido corrói cultura. Agir rápido."
+    source: "MÓDULO 06 - Aula 4"
+
+  - id: MET-FLCR-025
+    title: "Processo de Implantação de Plano de Cargos e Carreira"
+    steps:
+      - "1. Mapear trilhas de carreira possíveis (vertical e lateral)"
+      - "2. Definir competências e requisitos por nível em cada trilha"
+      - "3. Criar critérios de progressão claros e mensuráveis"
+      - "4. Comunicar as trilhas para toda a equipe"
+      - "5. Integrar ao ciclo de avaliação de desempenho"
+      - "6. Revisar anualmente (mercado e empresa mudam)"
+    source: "MÓDULO 09"
+
+  - id: MET-FLCR-026
+    title: "Metodologia de Treinamento Interno de Liderança"
+    modules:
+      modulo_1: "Auto-liderança (Eu como líder)"
+      modulo_2: "Gestão de pessoas (Minha equipe)"
+      modulo_3: "Cultura e valores (Nosso jeito)"
+      modulo_4: "Recrutamento e seleção (As pessoas certas)"
+      modulo_5: "Performance e feedback (Desenvolver pessoas)"
+      modulo_6: "Gestão da mudança (Navegar transformações)"
+      modulo_7: "Meritocracia (Reter e recompensar)"
+    format: "10 encontros, 4h cada, com ferramentas aplicáveis imediatamente"
+    source: "MÓDULO 00"
+
+  - id: MET-FLCR-027
+    title: "Processo de Implantação de Avaliação de Desempenho do Zero"
+    steps:
+      - "1. Definir propósito (desenvolvimento ou promoção/demissão — idealmente ambos)"
+      - "2. Escolher modelo (9-box, MBO, OKR-based)"
+      - "3. Criar formulário simplificado (< 10 perguntas)"
+      - "4. Treinar gestores em como dar feedback"
+      - "5. Comunicar para colaboradores antes de aplicar"
+      - "6. Aplicar piloto com uma área, ajustar"
+      - "7. Expandir para toda empresa"
+    source: "MÓDULO 07 - Aula 2"
+
+  - id: MET-FLCR-028
+    title: "Ciclo de Alta Performance de Equipe"
+    cycle:
+      meta: "Metas claras, desafiadoras e mensuráveis"
+      execucao: "Ritmo de trabalho com suporte do líder"
+      feedback: "Contínuo, imediato, ancorado em valores e dados"
+      ajuste: "Rapidez na correção de desvios"
+      reconhecimento: "Celebração dos resultados e comportamentos certos"
+      nova_meta: "Estira a meta para o próximo nível"
+    principle: "Equipes de alta performance operam neste ciclo continuamente. Interromper em qualquer ponto quebra a performance."
+    source: "MÓDULO 07 - Aula 2"
+
+  - id: MET-FLCR-029
+    title: "Processo de Entrevista de Desligamento"
+    questions:
+      - "Por que você está saindo?"
+      - "O que poderia ter sido feito diferente pela empresa?"
+      - "O que você mais valorizou no tempo aqui?"
+      - "O que você menos valorizou?"
+      - "O seu gestor direto apoiou seu desenvolvimento?"
+      - "Como descreve a cultura da empresa?"
+    use: "Padrões de respostas revelam problemas sistêmicos. Anonimizar e analisar agregado."
+    source: "MÓDULO 03 - Aula 1"
+
+  - id: MET-FLCR-030
+    title: "Metodologia PWR de Implantação de Gestão de Pessoas"
+    pillars:
+      - "ENCONTRAR: Recrutamento e Seleção (pessoas certas)"
+      - "COLOCAR: Alocação e Integração (lugares certos)"
+      - "DESENVOLVER: Treinamento e Feedback (crescimento certo)"
+      - "MANTER: Engajamento e Cultura (motivação certa)"
+      - "REMUNERAR: Meritocracia e Reconhecimento (recompensa certa)"
+    principle: "Todos os 5 pilares precisam estar conectados. Fraqueza em qualquer um comprometem o sistema."
+    source: "MÓDULO 00 - TODOS OS MÓDULOS"
+
+  - id: MET-FLCR-031
+    title: "Processo de Elaboração de Descrição de Cargo"
+    sections:
+      identificacao: "Título, área, subordinação (acima e abaixo), carga horária"
+      proposito: "Por que este cargo existe (contribuição única)"
+      responsabilidades: "3-7 responsabilidades principais (verbos de ação)"
+      indicadores: "KPIs específicos para este cargo"
+      competencias_tecnicas: "Conhecimentos e habilidades obrigatórios"
+      competencias_comportamentais: "Atitudes e comportamentos esperados"
+      requisitos: "Formação, experiência mínima, certificações"
+    source: "MÓDULO 05 - Aula 5"
+
+  - id: MET-FLCR-032
+    title: "Processo de Criação de Manual de Integração"
+    sections:
+      - "Carta de boas-vindas do CEO"
+      - "História da empresa (como chegamos até aqui)"
+      - "Propósito, missão e valores (com exemplos vividos)"
+      - "Estrutura organizacional"
+      - "Benefícios e políticas principais"
+      - "Canais de comunicação interna"
+      - "Rotinas e rituais da empresa"
+      - "Checklist dos primeiros 30 dias"
+    source: "MÓDULO 05"
+
+  - id: MET-FLCR-033
+    title: "Rotina de Gestão de Indicadores de RH"
+    metrics:
+      turnover: "Taxa mensal = (saídas / headcount médio) × 100"
+      turnover_voluntario: "Separe voluntário de involuntário"
+      tempo_para_contratar: "Da abertura ao candidato aceito"
+      tempo_para_produtividade: "Do início ao atingir nível esperado"
+      engajamento: "Score da pesquisa de clima (por dimensão)"
+      absenteismo: "Taxa de faltas não planejadas"
+    cadence: "Revisão mensal dos indicadores com liderança"
+    source: "MÓDULO 03"
+
+  - id: MET-FLCR-034
+    title: "Processo de Implantação de Daily Meeting"
+    structure:
+      duration: "15 minutos máximo (stand-up se possível)"
+      questions:
+        - "O que fiz ontem que contribuiu para a meta?"
+        - "O que farei hoje?"
+        - "Tem algum bloqueio?"
+      rules:
+        - "Começa na hora — sem exceção"
+        - "Não é reunião de solução de problemas (offline depois)"
+        - "Todos participam, ninguém domina"
+    source: "MÓDULO 08"
+
+  - id: MET-FLCR-035
+    title: "Processo de Criação de Plano de Comunicação Interna"
+    steps:
+      - "1. Mapear canais existentes (WhatsApp, email, reuniões, intranet)"
+      - "2. Definir qual informação vai em qual canal"
+      - "3. Criar calendário de comunicações regulares"
+      - "4. Treinar gestores como comunicadores da liderança"
+      - "5. Criar mecanismo de feedback dos colaboradores"
+      - "6. Medir: % dos colaboradores que se sentem bem informados (pesquisa)"
+    source: "MÓDULO 02"
+
+  - id: MET-FLCR-036
+    title: "Metodologia de Cálculo e Revisão Salarial"
+    steps:
+      - "1. Pesquisa salarial de mercado (ao menos 2 fontes)"
+      - "2. Comparar cada cargo à mediana de mercado"
+      - "3. Definir política: queremos pagar na mediana, P75, P90?"
+      - "4. Identificar colaboradores fora da faixa (abaixo ou acima)"
+      - "5. Criar budget de revisão salarial"
+      - "6. Priorizar revisões: performance + tempo sem reajuste + risco de saída"
+      - "7. Comunicar de forma individualizada e com contexto"
+    source: "MÓDULO 09"
+
+  - id: MET-FLCR-037
+    title: "Processo de Análise de Candidato em Entrevista (Scorecard)"
+    dimensions:
+      competencia_tecnica: "Escala 1-5, critérios definidos antes"
+      fit_cultural: "Escala 1-5, baseado em valores da empresa"
+      potencial: "Escala 1-5, capacidade de crescimento"
+      motivacao: "Escala 1-5, fit entre oferta e expectativa"
+    decision: "Score total > threshold predefinido → avança. Abaixo → dispensa."
+    principle: "Scorecard elimina viés do feeling. Usa o feeling como dado complementar, não único."
+    source: "MÓDULO 03 - Aula 5"
+
+  - id: MET-FLCR-038
+    title: "Processo de Alinhamento Cultural com Novo Líder"
+    when: "Quando um novo gestor assume uma equipe existente"
+    steps:
+      - "1. Primeiro mês: observar, ouvir, não mudar — entender a cultura atual"
+      - "2. Mapeamento: quem são as pessoas, quais são as dinâmicas, o que funciona"
+      - "3. Quick wins: identificar 1-2 melhorias rápidas para construir credibilidade"
+      - "4. Comunicação de intenções: compartilhar como você lidera, o que valoriza"
+      - "5. Mudanças graduais: não destrua tudo ao mesmo tempo"
+    source: "MÓDULO 02"
+
+  - id: MET-FLCR-039
+    title: "Processo de Criação de Programa de Reconhecimento"
+    steps:
+      - "1. Definir comportamentos/resultados que serão reconhecidos (ancorados em valores)"
+      - "2. Criar mecanismos de indicação (peer-to-peer, gestor, cliente)"
+      - "3. Definir mix de recompensas (financeiro + não-financeiro)"
+      - "4. Criar momento de celebração (ritual regular)"
+      - "5. Comunicar o programa com clareza (critérios públicos)"
+      - "6. Medir: % de colaboradores reconhecidos por mês"
+    principle: "Todo mundo deve ter chance de ser reconhecido. Não pode ser elitizado."
+    source: "MÓDULO 09"
+
+  - id: MET-FLCR-040
+    title: "Processo de Gestão de Desempenho Baixo (PIP Simplificado)"
+    when: "Colaborador com performance abaixo do esperado persistentemente"
+    steps:
+      - "1. Conversa de alinhamento: a pessoa sabe que está abaixo?"
+      - "2. Diagnóstico: é falta de clareza? capacidade? motivação?"
+      - "3. Plano de melhoria: metas específicas, prazo definido (30-90 dias)"
+      - "4. Suporte oferecido: treinamento, coaching, recursos"
+      - "5. Checkpoints semanais: progresso?"
+      - "6. Decisão ao final do prazo: melhorou (mantém) ou não (desliga)"
+    principle: "PIP justo dá chance real de melhoria. PIP de fachada para justificar demissão é desonesto."
+    source: "MÓDULO 07 - Aula 2"
