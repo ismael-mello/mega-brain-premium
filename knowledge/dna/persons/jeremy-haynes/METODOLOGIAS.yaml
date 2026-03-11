@@ -1,0 +1,756 @@
+# METODOLOGIAS - JEREMY HAYNES
+# Processos passo-a-passo com ORDEM RIGIDA e criterios de sucesso por etapa
+# Versao: 3.0.0 | Atualizado: 2026-03-03 | Fase 5 + 30DC/CA Merge
+
+versao: "3.0.0"
+pessoa: "Jeremy Haynes"
+camada: "METODOLOGIAS"
+total_itens: 36
+
+itens:
+  # ═══════════════════════════════════════════════════════════════
+  # PRICING & BUSINESS METHODOLOGIES
+  # ═══════════════════════════════════════════════════════════════
+  - id: "JH-MET-001"
+    titulo: "Jornada de Pricing"
+    descricao: "Evolucao de $1,500 para $10,000/mes ao longo de 5 anos."
+    peso: 0.95
+    chunks: ["JH001_011"]
+    fontes: ["JH001"]
+    etapas:
+      - passo: 1
+        nome: "Inicio - Validando Sistema"
+        descricao: "$1,500/mes com income qualification $20k/mes"
+        criterio_sucesso: "Sistema funcionando, resultados consistentes"
+        ano: "2019"
+      - passo: 2
+        nome: "Primeira Subida"
+        descricao: "$2,000/mes"
+        criterio_sucesso: "Demanda mantida, resultados consistentes"
+        ano: "2020"
+      - passo: 3
+        nome: "Segunda Subida"
+        descricao: "$3,000/mes"
+        criterio_sucesso: "Demanda mantida"
+        ano: "2020"
+      - passo: 4
+        nome: "Terceira Subida"
+        descricao: "$4,000/mes"
+        criterio_sucesso: "Demanda mantida"
+        ano: "2021"
+      - passo: 5
+        nome: "Qualificacao Rigorosa"
+        descricao: "$5,000/mes com income qualification $100k/mes"
+        criterio_sucesso: "Filtro mais rigoroso"
+        ano: "2021"
+      - passo: 6
+        nome: "Demanda Alta Demais"
+        descricao: "$6,000/mes - durou 60 dias, 15-21 novos/mes"
+        criterio_sucesso: "Sinal para subir preco"
+        ano: "2023"
+      - passo: 7
+        nome: "Preco Atual"
+        descricao: "$10,000/mes com commitment anual obrigatorio"
+        criterio_sucesso: "97% retencao, demanda equilibrada"
+        ano: "2024"
+    aplicacao: "Planejamento de evolucao de preco"
+
+  - id: "JH-MET-002"
+    titulo: "Scaling Math"
+    descricao: "Processo para escalar operacao de calls."
+    peso: 0.90
+    chunks: ["JH002_009"]
+    fontes: ["JH002"]
+    etapas:
+      - passo: 1
+        nome: "Verificar Slots"
+        descricao: "Marketing pergunta: Quantos slots disponiveis?"
+        criterio_sucesso: "Numero claro de slots"
+      - passo: 2
+        nome: "Meta: Maxar Slots"
+        descricao: "Objetivo e preencher todos os slots"
+        criterio_sucesso: "Approaching limit"
+      - passo: 3
+        nome: "Iniciar Hiring"
+        descricao: "Quando approaching limit, sales team inicia hiring"
+        criterio_sucesso: "Hiring iniciado 3-4 semanas antes"
+      - passo: 4
+        nome: "Lead Time"
+        descricao: "3-4 semanas para recruit + train"
+        criterio_sucesso: "Novo closer pronto"
+      - passo: 5
+        nome: "Nao Esperar"
+        descricao: "NUNCA esperar ate maxar - cria gaps de 3-4 semanas"
+        criterio_sucesso: "Scaling continuo sem gaps"
+    aplicacao: "Planejamento de crescimento de time de vendas"
+    benchmark: "TOP RESULTS: $5M/mes com call funnels"
+
+  # ═══════════════════════════════════════════════════════════════
+  # FUNNEL & CAMPAIGN METHODOLOGIES
+  # ═══════════════════════════════════════════════════════════════
+  - id: "JH-MET-003"
+    titulo: "Hydra Strategy Implementation"
+    descricao: "Sistema multi-canal para nutrir e converter leads."
+    peso: 0.95
+    chunks: ["JH068_001"]
+    fontes: ["BATCH-068"]
+    etapas:
+      - passo: 1
+        nome: "Lead Form First"
+        descricao: "Lead form ANTES do VSSL para filtrar nao-qualificados"
+        criterio_sucesso: "Leads pre-qualificados antes de consumir conteudo"
+      - passo: 2
+        nome: "Multi-Channel Setup"
+        descricao: "Configurar Email + SMS + Retargeting simultaneo"
+        criterio_sucesso: "3+ canais ativos"
+      - passo: 3
+        nome: "Hammer Sequences"
+        descricao: "Criar sequencias agressivas em todos os canais"
+        criterio_sucesso: "Touchpoints multiplos por dia"
+      - passo: 4
+        nome: "Track & Optimize"
+        descricao: "Monitorar qual canal converte melhor"
+        criterio_sucesso: "Data-driven optimization"
+    aplicacao: "High-ticket funnels, lead nurturing"
+    resultado: "Reduz cost per call, aumenta lead quality"
+
+  - id: "JH-MET-004"
+    titulo: "Venus Fly Trap 2.0 Setup"
+    descricao: "3-step content funnel com video progression."
+    peso: 0.95
+    chunks: ["JH069_003"]
+    fontes: ["BATCH-069"]
+    etapas:
+      - passo: 1
+        nome: "Step 1 Videos"
+        descricao: "Criar 5 videos de Awareness - hooks e pain points"
+        criterio_sucesso: "5 videos publicados"
+      - passo: 2
+        nome: "Step 2 Videos"
+        descricao: "Criar 5 videos de Education - solution overview"
+        criterio_sucesso: "5 videos publicados"
+      - passo: 3
+        nome: "Step 3 Videos"
+        descricao: "Criar 5 videos de Conversion - offer + CTA"
+        criterio_sucesso: "5 videos publicados"
+      - passo: 4
+        nome: "Audience Rules"
+        descricao: "Configurar progressao: 25% watch = move to next"
+        criterio_sucesso: "Dynamic audiences funcionando"
+      - passo: 5
+        nome: "Retargeting Loop"
+        descricao: "Configurar retargeting entre steps"
+        criterio_sucesso: "Loop automatico ativo"
+    aplicacao: "Content funnel, nurturing sophisticado"
+    resultado: "$12M in 3.5 months case"
+
+  - id: "JH-MET-005"
+    titulo: "DSL (Deck Sales Letter) Creation"
+    descricao: "Criacao de slide deck que substitui VSL."
+    peso: 0.95
+    chunks: ["JH077_008"]
+    fontes: ["BATCH-077"]
+    etapas:
+      - passo: 1
+        nome: "Structure Outline"
+        descricao: "Definir estrutura: Hook → Problem → Solution → Offer → CTA"
+        criterio_sucesso: "Outline aprovado"
+      - passo: 2
+        nome: "Slide Creation"
+        descricao: "Criar slides com copy conciso e visuals"
+        criterio_sucesso: "15-30 slides criados"
+      - passo: 3
+        nome: "Progress Bar"
+        descricao: "Adicionar progress bar visivel"
+        criterio_sucesso: "Usuario sabe onde esta"
+      - passo: 4
+        nome: "Embed & Test"
+        descricao: "Incorporar na landing page e testar navegacao"
+        criterio_sucesso: "Click-through funcionando"
+      - passo: 5
+        nome: "Optimize"
+        descricao: "Analisar drop-off por slide e otimizar"
+        criterio_sucesso: "77%+ chegam ao slide 5"
+    aplicacao: "Sales presentation, funil de vendas"
+    metricas:
+      - "Cost per call DSL: $30-80"
+      - "Cost per call VSL: $90-120"
+      - "DSL: 77% reach slide 5"
+      - "VSL: 5-9% press play"
+
+  - id: "JH-MET-006"
+    titulo: "Mini Webinar 2.0 Launch"
+    descricao: "Webinar curto (5-15 min) com multiplos CTAs."
+    peso: 0.95
+    chunks: ["JH075_010"]
+    fontes: ["BATCH-075"]
+    etapas:
+      - passo: 1
+        nome: "Script Structure"
+        descricao: "Hook → Problem → Solution → Offer (5-15 min)"
+        criterio_sucesso: "Script aprovado"
+      - passo: 2
+        nome: "Record"
+        descricao: "Gravar com multiplos CTAs throughout"
+        criterio_sucesso: "Video finalizado"
+      - passo: 3
+        nome: "Embed"
+        descricao: "Incorporar na landing page direto"
+        criterio_sucesso: "Autoplay funcionando"
+      - passo: 4
+        nome: "Scarcity Layer"
+        descricao: "Adicionar camada de urgencia/escassez"
+        criterio_sucesso: "Deadline ou limite visivel"
+      - passo: 5
+        nome: "Retargeting Loops"
+        descricao: "Configurar retargeting para quem assistiu X%"
+        criterio_sucesso: "Loops ativos"
+    aplicacao: "High-conversion landing pages"
+    resultado: "$12M in 3.5 months"
+
+  # ═══════════════════════════════════════════════════════════════
+  # FOLLOW-UP & SHOW RATE METHODOLOGIES
+  # ═══════════════════════════════════════════════════════════════
+  - id: "JH-MET-007"
+    titulo: "Hammer Strategy (48h Show Rate)"
+    descricao: "Sistema completo de 48h para maximizar show rate."
+    peso: 0.95
+    chunks: ["JH002_007"]
+    fontes: ["JH002"]
+    etapas:
+      - passo: 1
+        nome: "Confirmation Page"
+        descricao: "Tons de conteudo educacional na pagina de confirmacao"
+        criterio_sucesso: "Videos, PDFs, recursos disponiveis"
+      - passo: 2
+        nome: "Email Hammer"
+        descricao: "12 emails em 48h (cada 2h, 6am-6pm)"
+        criterio_sucesso: "12 emails agendados"
+      - passo: 3
+        nome: "Text Reminders"
+        descricao: "4 SMS em 48h"
+        criterio_sucesso: "4 SMS agendados"
+      - passo: 4
+        nome: "Content Ad Hammer"
+        descricao: "25 pecas de conteudo, 11 em 48h"
+        criterio_sucesso: "Retargeting ativo"
+      - passo: 5
+        nome: "Dynamic Custom Audience"
+        descricao: "Rolling 4 dias de audiencia"
+        criterio_sucesso: "Audiencia atualizada diariamente"
+    aplicacao: "Show rate optimization"
+    resultado: "50-80% show rate"
+
+  - id: "JH-MET-008"
+    titulo: "Follow-Up Architecture"
+    descricao: "Little Things → Big Things → Break Glass."
+    peso: 0.95
+    chunks: ["JH078_012"]
+    fontes: ["BATCH-078"]
+    etapas:
+      - passo: 1
+        nome: "Little Things"
+        descricao: "Touchpoints diarios - emails, SMS, content"
+        criterio_sucesso: "Touchpoints consistentes"
+      - passo: 2
+        nome: "Big Things"
+        descricao: "Acoes semanais maiores - calls, videos personalizados"
+        criterio_sucesso: "1 big thing por semana"
+      - passo: 3
+        nome: "Break Glass"
+        descricao: "Taticas de emergencia - 'Sent From iPhone' = 40K+ responses"
+        criterio_sucesso: "Tactic deployed quando necessario"
+      - passo: 4
+        nome: "Escalation Protocol"
+        descricao: "Escalar taticas conforme lead nao responde"
+        criterio_sucesso: "Protocol clear para equipe"
+    aplicacao: "Sales follow-up, closing"
+
+  - id: "JH-MET-009"
+    titulo: "Break Glass Tactics Deployment"
+    descricao: "Taticas de emergencia para re-engajar leads frios."
+    peso: 0.90
+    chunks: ["JH080_014"]
+    fontes: ["BATCH-080"]
+    etapas:
+      - passo: 1
+        nome: "Identify Cold Leads"
+        descricao: "Listar leads sem resposta em X dias"
+        criterio_sucesso: "Lista gerada"
+      - passo: 2
+        nome: "Personal Email"
+        descricao: "Enviar email casual 'Sent from my iPhone'"
+        criterio_sucesso: "Email enviado"
+      - passo: 3
+        nome: "Direct CEO Feel"
+        descricao: "Tom pessoal, como se fosse o dono enviando"
+        criterio_sucesso: "Formato correto"
+      - passo: 4
+        nome: "Urgency Layer"
+        descricao: "Adicionar urgencia genuina na mensagem"
+        criterio_sucesso: "Urgency presente"
+    aplicacao: "Re-engagement, emergency recovery"
+    resultado: "40K+ responses historically"
+
+  # ═══════════════════════════════════════════════════════════════
+  # AD & CREATIVE METHODOLOGIES
+  # ═══════════════════════════════════════════════════════════════
+  - id: "JH-MET-010"
+    titulo: "Tornado Creative Testing"
+    descricao: "High-velocity creative rotation process."
+    peso: 0.90
+    chunks: ["JH070_004"]
+    fontes: ["BATCH-070"]
+    etapas:
+      - passo: 1
+        nome: "Creative Production"
+        descricao: "Produzir 50+ criativos por semana"
+        criterio_sucesso: "Volume atingido"
+      - passo: 2
+        nome: "Multi-Angle Test"
+        descricao: "Testar multiplos angulos simultaneamente"
+        criterio_sucesso: "3+ angulos em teste"
+      - passo: 3
+        nome: "A/B Testing Aggressive"
+        descricao: "A/B testing intenso com KPIs claros"
+        criterio_sucesso: "Winners identificados em 48-72h"
+      - passo: 4
+        nome: "Kill Losers Fast"
+        descricao: "Desligar perdedores rapidamente"
+        criterio_sucesso: "Losers off em 24-48h"
+      - passo: 5
+        nome: "Scale Winners"
+        descricao: "Escalar winners agressivamente"
+        criterio_sucesso: "Budget aumentado em winners"
+    aplicacao: "Scaling ads, creative testing"
+    resultado: "Evita ad fatigue, mantém CPA"
+
+  - id: "JH-MET-011"
+    titulo: "Andromeda Algorithm Approach"
+    descricao: "Producao de 50+ criativos/semana com AI."
+    peso: 0.90
+    chunks: ["JH073_007"]
+    fontes: ["BATCH-073"]
+    etapas:
+      - passo: 1
+        nome: "AI Setup"
+        descricao: "Configurar ferramentas de AI para criacao"
+        criterio_sucesso: "Tools prontas"
+      - passo: 2
+        nome: "Template Creation"
+        descricao: "Criar templates base para variacoes"
+        criterio_sucesso: "5+ templates base"
+      - passo: 3
+        nome: "Rapid Iteration"
+        descricao: "Gerar variacoes rapidamente com AI"
+        criterio_sucesso: "50+ variacoes/semana"
+      - passo: 4
+        nome: "Volume Over Perfection"
+        descricao: "Priorizar quantidade sobre qualidade perfeita"
+        criterio_sucesso: "Mindset shift"
+      - passo: 5
+        nome: "Algorithm Favorability"
+        descricao: "Alimentar algoritmo com volume para favorabilidade"
+        criterio_sucesso: "CPAs melhorando"
+    aplicacao: "Creative production at scale"
+
+  - id: "JH-MET-012"
+    titulo: "Pentagon Solution Implementation"
+    descricao: "5-area AI attack para reputation management."
+    peso: 0.95
+    chunks: ["JH081_015"]
+    fontes: ["BATCH-081"]
+    etapas:
+      - passo: 1
+        nome: "Reddit Management"
+        descricao: "Monitorar e gerenciar presenca no Reddit"
+        criterio_sucesso: "Sentiment positivo"
+      - passo: 2
+        nome: "Trustpilot Optimization"
+        descricao: "Solicitar e gerenciar reviews no Trustpilot"
+        criterio_sucesso: "Rating alto mantido"
+      - passo: 3
+        nome: "Press/PR Coverage"
+        descricao: "Gerar cobertura de imprensa positiva"
+        criterio_sucesso: "Artigos publicados"
+      - passo: 4
+        nome: "Blog/Content Seeding"
+        descricao: "Criar conteudo que rankeia para termos de marca"
+        criterio_sucesso: "Content rankeando"
+      - passo: 5
+        nome: "Authority Building"
+        descricao: "Construir autoridade em multiplas plataformas"
+        criterio_sucesso: "Presenca estabelecida"
+    aplicacao: "Reputation management, AI PR"
+
+  # ═══════════════════════════════════════════════════════════════
+  # LAUNCH & CAMPAIGN METHODOLOGIES
+  # ═══════════════════════════════════════════════════════════════
+  - id: "JH-MET-013"
+    titulo: "Challenge Funnel Launch"
+    descricao: "Timeline de 8 semanas para promocao de challenge."
+    peso: 0.90
+    chunks: ["JH076_011"]
+    fontes: ["BATCH-076"]
+    etapas:
+      - passo: 1
+        nome: "Pre-Launch (Semanas 1-4)"
+        descricao: "Buildup de audiencia e expectativa"
+        criterio_sucesso: "Lista crescendo"
+      - passo: 2
+        nome: "Launch Week (Semana 5)"
+        descricao: "Abertura de inscricoes com urgencia"
+        criterio_sucesso: "Inscricoes atingindo meta"
+      - passo: 3
+        nome: "Challenge Delivery (Semanas 6-7)"
+        descricao: "Entrega do challenge com engagement alto"
+        criterio_sucesso: "Completion rate alto"
+      - passo: 4
+        nome: "Backend Conversion (Semana 8)"
+        descricao: "Oferta de high-ticket para participantes"
+        criterio_sucesso: "Conversao em high-ticket"
+    aplicacao: "Challenge launches"
+    resultado: "$4M case study"
+
+  - id: "JH-MET-014"
+    titulo: "BFCM (Black Friday/Cyber Monday) Launch"
+    descricao: "Protocolo para maximizar revenue em BFCM."
+    peso: 0.95
+    chunks: ["JH076_001"]
+    fontes: ["BATCH-076"]
+    etapas:
+      - passo: 1
+        nome: "Pre-BFCM Warmup"
+        descricao: "2-4 semanas de warmup com conteudo e teasers"
+        criterio_sucesso: "Lista aquecida"
+      - passo: 2
+        nome: "Ad Spend Ramp"
+        descricao: "Aumentar ad spend gradualmente ate BFCM"
+        criterio_sucesso: "$83K spend pronto"
+      - passo: 3
+        nome: "7-Day Blitz"
+        descricao: "7 dias de promocao intensa"
+        criterio_sucesso: "Offers ativos"
+      - passo: 4
+        nome: "Scarcity Real"
+        descricao: "Deadline real com consequencias"
+        criterio_sucesso: "Urgencia percebida"
+      - passo: 5
+        nome: "Post-BFCM Follow"
+        descricao: "Follow-up com nao-compradores"
+        criterio_sucesso: "Conversoes adicionais"
+    aplicacao: "Seasonal launches, major promotions"
+    resultado: "$734K em 7 dias com $83K ad spend"
+
+  # ═══════════════════════════════════════════════════════════════
+  # BUSINESS & EXIT METHODOLOGIES
+  # ═══════════════════════════════════════════════════════════════
+  - id: "JH-MET-015"
+    titulo: "Call Funnel Setup Complete"
+    descricao: "Estrutura completa do funil de calls."
+    peso: 0.90
+    chunks: ["JH002_006"]
+    fontes: ["JH002"]
+    etapas:
+      - passo: 1
+        nome: "Ad Creation"
+        descricao: "Criar ads que atraem audiencia qualificada"
+        criterio_sucesso: "CTR e relevance scores adequados"
+      - passo: 2
+        nome: "Landing Page + Mini Webinar"
+        descricao: "LP com mini webinar 5-15 min embedded"
+        criterio_sucesso: "LP convertendo"
+      - passo: 3
+        nome: "Application (TypeForm)"
+        descricao: "Formulario de aplicacao para qualificar"
+        criterio_sucesso: "Questions qualificando"
+      - passo: 4
+        nome: "Qualify Process"
+        descricao: "Processo de qualificacao manual ou automatica"
+        criterio_sucesso: "Leads qualificados"
+      - passo: 5
+        nome: "Schedule (Calendly)"
+        descricao: "Calendly EMBEDDED na pagina"
+        criterio_sucesso: "Agendamentos fluindo"
+      - passo: 6
+        nome: "Close"
+        descricao: "Call de fechamento"
+        criterio_sucesso: "Deals fechados"
+      - passo: 7
+        nome: "Setter Cleanup"
+        descricao: "Setters lidam com unqualified + no-shows"
+        criterio_sucesso: "Pipeline limpo"
+    aplicacao: "Estruturacao de funil high-ticket"
+
+  - id: "JH-MET-016"
+    titulo: "Investment Banking Exit Process"
+    descricao: "Framework para exit via investment banking."
+    peso: 0.90
+    chunks: ["JH084_018"]
+    fontes: ["BATCH-084"]
+    etapas:
+      - passo: 1
+        nome: "Qualify ($2M+ EBITDA)"
+        descricao: "Verificar se atinge minimo de $2M+ EBITDA"
+        criterio_sucesso: "EBITDA confirmado"
+      - passo: 2
+        nome: "Engage IB"
+        descricao: "Contratar investment banker ($50-100K retainer)"
+        criterio_sucesso: "IB contratado"
+      - passo: 3
+        nome: "Prep Materials"
+        descricao: "Preparar CIM e materiais de venda"
+        criterio_sucesso: "Materiais prontos"
+      - passo: 4
+        nome: "Process (12-18 meses)"
+        descricao: "Processo de venda com multiplos bidders"
+        criterio_sucesso: "Bidders engajados"
+      - passo: 5
+        nome: "Multiple Bidders"
+        descricao: "Criar competicao entre compradores"
+        criterio_sucesso: "Multiple bidders = better price"
+      - passo: 6
+        nome: "Close Deal"
+        descricao: "Fechar deal com melhor oferta"
+        criterio_sucesso: "Deal closed"
+    aplicacao: "Exit strategy, M&A"
+
+  - id: "JH-MET-017"
+    titulo: "Secret Shopping Method"
+    descricao: "Comprar de concorrentes para aprender."
+    peso: 0.95
+    chunks: ["JH088_022"]
+    fontes: ["BATCH-084"]
+    etapas:
+      - passo: 1
+        nome: "Identify Competitors"
+        descricao: "Listar competidores a estudar"
+        criterio_sucesso: "Lista de 3-5 competitors"
+      - passo: 2
+        nome: "Buy Their Product"
+        descricao: "Comprar produto/servico do concorrente"
+        criterio_sucesso: "Compra realizada"
+      - passo: 3
+        nome: "Document Everything"
+        descricao: "Documentar TODO o processo de compra"
+        criterio_sucesso: "Screenshots, emails, calls gravadas"
+      - passo: 4
+        nome: "Note Sales Tactics"
+        descricao: "Anotar todas as taticas de vendas usadas"
+        criterio_sucesso: "Lista de taticas"
+      - passo: 5
+        nome: "Adapt Best Practices"
+        descricao: "Adaptar melhores praticas para seu negocio"
+        criterio_sucesso: "Improvements implementados"
+    aplicacao: "Competitive intelligence, sales training"
+    insight: "Supera qualquer outro metodo de treinamento"
+
+  - id: "JH-MET-018"
+    titulo: "Time Collapsing Execution"
+    descricao: "Exercicio para acelerar resultados drasticamente."
+    peso: 0.95
+    chunks: ["JH082_016"]
+    fontes: ["BATCH-082"]
+    etapas:
+      - passo: 1
+        nome: "Set 90-Day Goal"
+        descricao: "Definir meta para 90 dias"
+        criterio_sucesso: "Meta clara e mensuravel"
+      - passo: 2
+        nome: "Gun to Head Exercise"
+        descricao: "Imaginar: se tivesse que atingir em 7 dias, o que faria?"
+        criterio_sucesso: "Lista de acoes drasticas"
+      - passo: 3
+        nome: "Identify Key Actions"
+        descricao: "Identificar as 3-5 acoes mais impactantes"
+        criterio_sucesso: "Acoes priorizadas"
+      - passo: 4
+        nome: "Execute NOW"
+        descricao: "Executar essas acoes HOJE, nao em 90 dias"
+        criterio_sucesso: "Execucao iniciada"
+      - passo: 5
+        nome: "Compress Timeline"
+        descricao: "Continuar comprimindo timeline ate meta"
+        criterio_sucesso: "Meta atingida antes do prazo"
+    aplicacao: "Produtividade, urgencia, priorizacao"
+    resultado: "$0 → $1M/mes em 2 meses (case)"
+
+  - id: "JH-MET-019"
+    titulo: "Pipeline de Outreach Frio 30 Dias"
+    descricao: "Sistema completo de 30 dias para construir pipeline do zero. Disciplina diaria de 100 comunicacoes. Days 1-5: cold emails orientados a dados. Days 5-10: follow-up one-liners e agendamento. Days 10-15: apresentacoes Zoom, propostas. Days 15-20: docs legais, videos criativos. Days 20-25: props, correio fisico, tecnicas avancadas de video. Days 25-30: escalando, terceirizando, duplicando habilidades."
+    peso: 0.95
+    chunks: ["30DC-all"]
+    fontes: ["30DC-NEW-ELEMENTS"]
+    aplicacao: "Launch de novo negocio, construcao de pipeline, onboarding de equipe de vendas"
+    rating: "★★★★★"
+
+  - id: "JH-MET-020"
+    titulo: "Construcao de Email Orientado a Dados"
+    descricao: "Processo passo a passo: (1) Escolher prospect (deep-not-wide), (2) Verificar SSL/HTTPS, (3) Instalar Facebook Pixel Helper, (4) Usar Google Tag Manager, (5) Verificar SocialBlade para analytics, (6) Usar ferramentas de spy de ads, (7) Verificar plataforma de email marketing, (8) Compilar todos os dados em um email abrangente."
+    peso: 0.92
+    chunks: ["30DC-005"]
+    fontes: ["30DC-NEW-ELEMENTS"]
+    aplicacao: "Criacao de cold email, processo de pesquisa de prospect"
+    rating: "★★★★★"
+
+  - id: "JH-MET-021"
+    titulo: "Rotacao de Follow-Up One-Liner"
+    descricao: "Sistema para follow-up de alto volume: Criar 3 mensagens one-liner diferentes num editor de texto. Rotacionar para evitar filtros de spam. Exemplos: (1) 'Queria acompanhar e ter certeza que viu isso.', (2) 'Tive um tempinho. Queria ver se estava disponivel para uma ligacao agora.', (3) 'Acabei de ver algo sobre seu site no Google.' Distribuir por email, Facebook Messenger e texto."
+    peso: 0.90
+    chunks: ["30DC-022"]
+    fontes: ["30DC-NEW-ELEMENTS"]
+    aplicacao: "Execucao de follow-up em massa, diversificacao de canais"
+    rating: "★★★★★"
+
+  - id: "JH-MET-022"
+    titulo: "Aquisicao de Numero de Celular"
+    descricao: "Scripts para adquirir numero de celular do prospect: Script 1: 'Tinha algo que precisava te enviar por mensagem agora. E uma imagem rapida. Qual e o melhor celular?' Script 2: 'Acabei de ver esse link de artigo. Queria te ligar. Nao tinha acesso ao meu email. Qual e o melhor celular para enviar isso?' Cria urgencia para justificar pedir o numero."
+    peso: 0.88
+    chunks: ["30DC-018"]
+    fontes: ["30DC-NEW-ELEMENTS"]
+    aplicacao: "Enriquecimento de dados de contato, preparacao de follow-up multi-canal"
+    rating: "★★★★"
+
+  - id: "JH-MET-023"
+    titulo: "Superacao de Objecao NDA"
+    descricao: "Quando prospect recusa compartilhar dados proprietarios, usar NDA como ferramenta: (1) Ter NDA pre-formatado no DocuSign, (2) Se presencial, deslizar NDA fisico pela mesa, (3) Script: 'Entendo. Voce tem dados proprietarios. Trouxe um NDA. Nao vou divulgar nada. Se voce tiver um NDA, fico feliz em assinar o seu tambem.' (4) Oferecer assinar o NDA DELES mostra flexibilidade e confianca."
+    peso: 0.85
+    chunks: ["30DC-017"]
+    fontes: ["30DC-NEW-ELEMENTS"]
+    aplicacao: "Gestao de objecoes, remocao de barreiras de fechamento"
+    rating: "★★★★"
+
+  - id: "JH-MET-024"
+    titulo: "Producao de Video Follow-Up"
+    descricao: "Producao de video de follow-up no celular: (1) Abrir camera, selfie mode, (2) Posicionar contra parede de cor solida, (3) Evitar luz de cima (efeito Frankenstein), usar luz lateral suave, (4) Laptop proximo com dados do prospect, (5) Gravar sem rever - se errar, deletar e refazer, (6) Incluir nome do prospect, (7) Referenciar dados especificos, (8) Finalizar com escolha binaria de close, (9) Enviar imediatamente."
+    peso: 0.90
+    chunks: ["30DC-018"]
+    fontes: ["30DC-NEW-ELEMENTS"]
+    aplicacao: "Execucao de follow-up em video, criacao de conteudo"
+    rating: "★★★★★"
+
+  - id: "JH-MET-025"
+    titulo: "Outreach Com Props Fisicos"
+    descricao: "Sistema para usar objetos fisicos no outreach: (1) Comprar itens baratos ($10-20) como bates de beisebol, porta-retratos, peluchas, (2) Escrever mensagem personalizada com Sharpie, (3) Enviar ao endereco comercial do prospect para o decisor, (4) Fazer video follow-up referenciando o prop enviado, (5) Usar brinquedos de criancas como iniciadores de conversa sobre POR QUE estao no negocio."
+    peso: 0.85
+    chunks: ["30DC-024"]
+    fontes: ["30DC-NEW-ELEMENTS"]
+    aplicacao: "Engajamento de prospects de alto valor, marketing fisico"
+    rating: "★★★★"
+
+  - id: "JH-MET-026"
+    titulo: "Exercicio de Decomposicao de Eficiencia"
+    descricao: "Exercicio escrito para identificar e eliminar ineficiencias: (1) Escrever a desculpa para nao atingir 100/dia, (2) Decompor a desculpa em razoes subjacentes, (3) Se razoes ainda sao amplas, decompor mais, (4) Encontrar a dor psicologica ou vulnerabilidade de processo na raiz, (5) Projetar uma eficiencia para eliminar aquela causa raiz."
+    peso: 0.85
+    chunks: ["30DC-011"]
+    fontes: ["30DC-NEW-ELEMENTS"]
+    aplicacao: "Otimizacao de produtividade, eliminacao de desculpas"
+    rating: "★★★★"
+
+  - id: "JH-MET-027"
+    titulo: "Execucao do Launch Plan (Processo 14 Dias)"
+    descricao: "Processo completo de lancamento: Days 1-3: resumo executivo, mapeamento de produto, tier de clientes. Days 4-7: analise de concorrentes, revisao de funil, baseline. Days 8-10: projecoes GERU, estrategia criativa, scripts. Days 11-13: rollout de campanha, configuracao de audiencia, UTM. Day 14: riscos, needle movers, metas mensais. Pos-lancamento: pulse semanal, sessoes mensais de needle mover."
+    peso: 0.94
+    chunks: ["CA-0013"]
+    fontes: ["CA-NEW-ELEMENTS"]
+    aplicacao: "Onboarding de clientes, lancamentos de campanha"
+    rating: "★★★★★"
+
+  - id: "JH-MET-028"
+    titulo: "Processo de Teste e Scale de Conceito"
+    descricao: "Processo em etapas: (1) Definir CPA target e calcular budget por conceito (3.5-4x CPA). (2) Lancar conceitos em ABO com 1% LAL de melhores clientes. (3) Rodar por 7 dias. (4) Definir winner: CPA dentro do target. (5) Calcular win rate (target: 20%). (6) Promover winners para CBO. (7) Medir winners no scale (target: 50%). (8) Criar variacoes dos scale winners."
+    peso: 0.93
+    chunks: ["CA-0013"]
+    fontes: ["CA-NEW-ELEMENTS"]
+    aplicacao: "Teste criativo, media buying, scaling"
+    rating: "★★★★★"
+
+  - id: "JH-MET-029"
+    titulo: "Metodo de Documentacao de Baseline"
+    descricao: "Documentar baseline antes de qualquer otimizacao: (1) Capturar metricas atuais (CPC, CVR, CPA, ROAS, AOV), (2) Gravar Loom como prova do baseline, (3) Documentar fonte dos dados, (4) Criar projecoes GERU com pior/medio/melhor, (5) Apresentar ao cliente para alinhamento, (6) Usar como referencia para medir progresso. Sem baseline = sem prova de melhoria."
+    peso: 0.91
+    chunks: ["CA-0013"]
+    fontes: ["CA-NEW-ELEMENTS"]
+    aplicacao: "Relatorios de clientes, otimizacao de campanha"
+    rating: "★★★★★"
+
+  - id: "JH-MET-030"
+    titulo: "Sessao Mensal de Needle Mover"
+    descricao: "Sessao mensal de priorizacao: (1) Definir hipotese com racional, (2) Identificar metrica especifica, (3) Documentar baseline com Loom, (4) Projetar nova metrica, (5) Calcular impacto financeiro, (6) Estimar horas para completar, (7) Avaliar riscos, (8) ICE scoring, (9) Alocar capital. Tambem avalia capacidade estrategica da equipe."
+    peso: 0.90
+    chunks: ["CA-0013"]
+    fontes: ["CA-NEW-ELEMENTS"]
+    aplicacao: "Estrategia de agencia, otimizacao de clientes, desenvolvimento de equipe"
+    rating: "★★★★★"
+
+  - id: "JH-MET-031"
+    titulo: "Protocolo de Mitigacao de Riscos"
+    descricao: "Protocolo para identificar e mitigar riscos em lancamentos: (1) Listar top 5 riscos por probabilidade x impacto, (2) Para cada risco: categorizar, atribuir owner, definir indicador, avaliar impacto financeiro, (3) Criar estrategia de mitigacao com deadline, (4) Debrief mensal. Forca o time a pensar estrategicamente."
+    peso: 0.89
+    chunks: ["CA-0013"]
+    fontes: ["CA-NEW-ELEMENTS"]
+    aplicacao: "Lancamentos de campanha, gestao de riscos, treinamento de equipe"
+    rating: "★★★★"
+
+  - id: "JH-MET-032"
+    titulo: "Ascensao Low-Ticket para Backend"
+    descricao: "Metodologia para escalar via low-ticket front-end: (1) Front-end $29-$97, (2) Bump offer recorrente ($47/mes), (3) OTOs sequenciais, (4) Medir liquidation e AOV ao longo de day 1/60/90, (5) Nurture compradores para book calls, (6) Backend high-ticket ($8-25K), (7) Track TCV ROAS separadamente. Case Freedom Funders: perda no front-end transformou em $38K/mes de lucro via backend."
+    peso: 0.91
+    chunks: ["CA-0012"]
+    fontes: ["CA-NEW-ELEMENTS"]
+    aplicacao: "Arquitetura de funil, design de oferta, scaling de receita"
+    rating: "★★★★★"
+
+  - id: "JH-MET-033"
+    titulo: "Execucao do Pitch de Video de 60 Segundos"
+    descricao: "Execucao do pitch de 60 segundos: (1) Pesquisar perfil 30-60seg, (2) Gravar vertical no celular, (3) Seguir 6 steps: agreement, qualifying agreement, crisis state, why/how/who, solucao, CTA com 2 opcoes, (4) Enviar via DM no Instagram/Facebook, (5) Usar Iconosquare para encontrar leads, (6) Meta: 100 videos em 2 horas, (7) Usar como cold outreach, warm follow-up, ou pos-pitch."
+    peso: 0.90
+    chunks: ["PCVP-0001"]
+    fontes: ["CA-NEW-ELEMENTS"]
+    aplicacao: "Prospecao de agencia, cold outreach, scaling de vendas"
+    rating: "★★★★★"
+
+  - id: "JH-MET-034"
+    titulo: "Producao do Pitch de Video Frio Completo"
+    descricao: "Producao do pitch de video frio (7-12 min): (1) Pesquisar prospect profundamente, (2) Preparar todos os materiais pre-abertos em tabs, (3) Usar Camtasia (nao Loom) para mover webcam, (4) Imprimir foto do prospect, (5) Abrir com alinhamento cultural, (6) Credenciais em bullet format rapido, (7) Transicao instantanea para PowerPoint, (8) Demo ao vivo no ads manager, (9) Mencionar preco upfront, (10) Empoderar para fazer sozinho."
+    peso: 0.91
+    chunks: ["PCVP-0002"]
+    fontes: ["CA-NEW-ELEMENTS"]
+    aplicacao: "Vendas B2B high-ticket, aquisicao de agencia"
+    rating: "★★★★★"
+
+  - id: "JH-MET-035"
+    titulo: "Metodologia de Teste A/B de Thumbnails"
+    descricao: "Teste sistematico de thumbnails: (1) Criar 3-5 visual hooks diferentes, (2) Parear cada hook com thumbnail correspondente, (3) Manter mesmo text hook em todas variacoes, (4) Rodar como Dynamic Creative Tests com budgets baixos, (5) Analisar engagement velocity, (6) Escalar winner, (7) Medir CTR + AVD, (8) Flash test: mostrar 1 segundo a alguem e perguntar sobre o que e."
+    peso: 0.87
+    chunks: ["CA-0016"]
+    fontes: ["CA-NEW-ELEMENTS"]
+    aplicacao: "YouTube ads, Facebook ads, otimizacao criativa"
+    rating: "★★★★"
+
+  - id: "JH-MET-036"
+    titulo: "Metodo de Comunicacao Adaptado Para Demograficos Tradicionais"
+    descricao: "Adaptar comunicacao de pitch para prospects menos digitalmente savvy: (1) Identificar nivel digital (se nao esta no Google, provavelmente nao e digital-savvy), (2) NAO dizer 'link na descricao', (3) Verbalizar TODAS as informacoes de contato no video, (4) Repetir numero de telefone 2-3 vezes, devagar, (5) Falar mais devagar, (6) Dar tempo para anotar, (7) Reiterar informacoes simples."
+    peso: 0.86
+    chunks: ["PCVP-0009"]
+    fontes: ["CA-NEW-ELEMENTS"]
+    aplicacao: "Negocios tradicionais, marketing local, demograficos mais velhos"
+    rating: "★★★★"
+
+metadados:
+  total_chunks_processados: 36
+  batches_fonte: ["BATCH-068", "BATCH-069", "BATCH-070", "BATCH-073", "BATCH-075", "BATCH-076", "BATCH-077", "BATCH-078", "BATCH-080", "BATCH-081", "BATCH-082", "BATCH-084", "JH001", "JH002", "30DC-NEW-ELEMENTS", "CA-NEW-ELEMENTS"]
+  peso_medio: 0.93
+  criado_em: "2025-12-28T00:00:00Z"
+  atualizado_em: "2026-03-03T12:00:00Z"
+  protocolo: "DNA-EXTRACTION-PROTOCOL v2.0"
+  fase: "Phase 5 + 30DC/CA Merge"
+  changelog:
+    - data: "2026-01-10T18:15:00Z"
+      acao: "Enriquecimento Fase 5 - 16 metodologias adicionadas"
+      fonte: "SOURCE-JH.md + BATCH-068 a BATCH-084"
+      versao: "2.0.0"
+    - data: "2026-03-03T12:00:00Z"
+      acao: "Merge 30DC (8) + CA (10) = 18 metodologias adicionadas"
+      fonte: "30DC-NEW-ELEMENTS.yaml + CA-NEW-ELEMENTS.yaml"
+      versao: "3.0.0"

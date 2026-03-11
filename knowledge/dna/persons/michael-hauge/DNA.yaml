@@ -1,0 +1,849 @@
+# knowledge/dna/persons/michael-hauge/DNA.yaml
+# Unified DNA Format v1
+# Creation date: 2026-03-03
+# Source: "The Hero's 2 Journeys" presentation at Russell Brunson event
+# Person: Michael Hauge - Hollywood story consultant, 30+ years with screenwriters, producers, stars
+
+person:
+  name: "Michael Hauge"
+  source: "Hollywood story consultant, 30+ years. Story structure for screenwriting AND marketing/sales. Presented 'The Hero's 2 Journeys' at Russell Brunson event."
+  version: "1.0.0-unified"
+  creation_date: "2026-03-03"
+
+metadata:
+  total_elements: 42
+  total_insights_processed: 42
+  total_chunks_referenced: 0
+  weight_average: 0.87
+  high_weight_items: 35
+  high_weight_percentage: 83
+
+  sources:
+    - id: "MH-H2J-001"
+      title: "The Hero's 2 Journeys - Russell Brunson Event Presentation"
+      chunks: 0
+      notes: "Primary source - live presentation on story structure for marketing"
+
+  connections:
+    complements:
+      - person: "Russell Brunson"
+        on: "Story-based marketing and sales funnels"
+        note: "Brunson applies Hauge's story structure to funnel architecture and offer creation"
+    tensions: []
+    aligns:
+      - person: "Russell Brunson"
+        on: "Before-and-after transformation as core selling mechanism"
+        note: "Both emphasize transformation stories as the most persuasive marketing tool"
+
+  voice:
+    style: "professorial yet warm, uses Hollywood examples extensively"
+    formality: "semi-formal, academic storyteller"
+    humor: "gentle, self-deprecating, uses movie references for laughs"
+    stories: "constant - draws from famous films (Star Wars, Shrek, Erin Brockovich, Brokeback Mountain)"
+    objection_response: "reframes through story logic and character psychology"
+
+    vocabulary_use:
+      - "identity (always refers to false self/armor)"
+      - "essence (always refers to true self/potential)"
+      - "wound (foundational psychological injury)"
+      - "reflection character (the supporter who forces truth)"
+      - "cave points (moments of maximum resistance)"
+      - "the blank test (diagnostic for identity blocks)"
+      - "before and after picture (the story's purpose)"
+      - "outer journey / inner journey (the two parallel tracks)"
+      - "turning point (structural story beats at specific percentages)"
+      - "aftermath (mandatory final stage showing transformation)"
+
+    vocabulary_avoid:
+      - "vague abstractions without visible examples"
+      - "'theme' as replacement for 'inner journey' (too academic)"
+      - "clinical psychology jargon (keeps it accessible)"
+      - "'happy ending' (prefers 'aftermath' - it's about transformation, not happiness)"
+
+    signature_phrases:
+      - "Every story is a before and after picture."
+      - "Passion trumps fear every time."
+      - "Given a choice between safe and happy, we will pick safe most of the time."
+      - "Beliefs that come from wounds are never accurate but they are always logical."
+      - "Awareness is the first step to transformation."
+      - "I'll do whatever it takes... just don't ask me to ___ because that's just not me."
+      - "Once we've lived in our essence, our identities don't really cut it anymore."
+      - "Don't talk about making somebody rich, talk about a very specific thing they can picture."
+      - "The first thing that pops into your head is what your identity wants you to think your obstacle is."
+
+    argumentation_pattern: |
+      1. State a universal human truth (wound/identity/fear)
+      2. Illustrate with a famous movie scene everyone knows
+      3. Break down the structural mechanics behind it
+      4. Connect to marketing/sales/personal transformation
+      5. Give the audience a tool to apply immediately (the blank test, cave points, etc.)
+
+  synthesis:
+    one_liner: "Every story - in Hollywood and in marketing - is about the hero's transformation from identity (false self) to essence (true self), and the structure is predictable."
+    core_question: "What are you protecting yourself from that is actually keeping you from who you could become?"
+    greatest_contribution: "The Two Journeys model - showing that outer achievement and inner transformation run on the same predictable structure, applicable to both screenwriting and customer journeys."
+    blind_spot: "May underestimate stories that work through collective/ensemble dynamics rather than single-hero arcs."
+    declared_bias: "Favors character-driven transformation stories over plot-driven spectacle; believes inner journey always matters more."
+
+  proprietary_terms:
+    - term: "The Hero's 2 Journeys"
+      meaning: "Model showing outer journey (visible goal) and inner journey (identity to essence) run in parallel on the same 6-stage structure"
+    - term: "Identity"
+      meaning: "False self/armor created to protect from wound - the person we present to the world"
+    - term: "Essence"
+      meaning: "True self/potential - who we could become if we had the courage to drop our armor"
+    - term: "Reflection Character"
+      meaning: "A supporter who helps the hero's outer journey while simultaneously forcing them to confront inner truth"
+    - term: "Cave Points"
+      meaning: "5 predictable points in any journey where people are most likely to back out and retreat to safety"
+    - term: "The Blank Test"
+      meaning: "Diagnostic exercise: 'I'll do whatever it takes... just don't ask me to ___' - reveals identity blocks"
+    - term: "Wound-Belief-Fear-Identity Chain"
+      meaning: "Causal psychological sequence: painful experience -> inaccurate belief -> fear of re-experiencing -> false self as protection"
+    - term: "Aftermath"
+      meaning: "Mandatory final stage of any story showing the 'after' picture and rewards of transformation"
+
+  agents_consuming: []
+
+# ===============================================================================
+# LAYER 1: PHILOSOPHIES (10 items)
+# ===============================================================================
+
+layers:
+  L1_PHILOSOPHIES:
+    count: 10
+    items:
+      - id: "MH-FIL-001"
+        title: "Stories Are the Ultimate Persuasion Tool"
+        statement: "Stories are the most powerful tool for persuasion and connection. No other communication form creates the same level of empathy and emotional investment."
+        weight: 0.95
+        domains: ["storytelling", "marketing", "persuasion", "sales"]
+        insight_id: "MH-INS-001"
+        implications:
+          do:
+            - "Lead with story in every sales presentation and marketing piece"
+            - "Structure pitches as narrative arcs, not feature lists"
+            - "Invest in learning story structure as a core business skill"
+          avoid:
+            - "Relying on logic-only presentations"
+            - "Treating story as decoration rather than the primary vehicle"
+            - "Skipping empathy-building in favor of getting to the offer"
+        conflicts: ["Data-driven marketers may resist narrative-first approaches"]
+        evidence:
+          - quote: "Stories are the most powerful tool for persuasion and connection"
+            source_id: "MH-H2J-001"
+
+      - id: "MH-FIL-002"
+        title: "Every Story Is a Before and After Picture"
+        statement: "Every story is a before and after picture. The entire purpose of narrative is to show transformation from one state to another."
+        weight: 0.95
+        domains: ["storytelling", "marketing", "transformation"]
+        insight_id: "MH-INS-002"
+        implications:
+          do:
+            - "Always define the 'before' state clearly before showing the 'after'"
+            - "Structure testimonials and case studies as before/after narratives"
+            - "Make the contrast between before and after as vivid as possible"
+          avoid:
+            - "Showing only the 'after' without establishing the 'before'"
+            - "Abstract descriptions of transformation without specific pictures"
+            - "Skipping the aftermath stage that shows the 'after' picture"
+        conflicts: []
+        evidence:
+          - quote: "Every story is a before and after picture"
+            source_id: "MH-H2J-001"
+
+      - id: "MH-FIL-003"
+        title: "Identity Protects Us from Our Wound"
+        statement: "Identity (false self) is armor we create to protect ourselves from re-experiencing our wound. It is logical but ultimately limiting."
+        weight: 0.95
+        domains: ["psychology", "character-development", "transformation", "personal-growth"]
+        insight_id: "MH-INS-003"
+        implications:
+          do:
+            - "Recognize that resistance to change is protection, not laziness"
+            - "Address the underlying wound/fear when someone is stuck"
+            - "Show compassion for the identity while still pushing toward essence"
+          avoid:
+            - "Shaming people for their protective behaviors"
+            - "Trying to force identity change without addressing the wound"
+            - "Dismissing identity as weakness rather than survival mechanism"
+        conflicts: ["Quick-fix marketing that ignores psychological depth"]
+        evidence:
+          - quote: "Beliefs that come from wounds are never accurate but they are always logical"
+            source_id: "MH-H2J-001"
+
+      - id: "MH-FIL-004"
+        title: "Passion Trumps Fear Every Time"
+        statement: "Passion trumps fear every time. When the desire for the goal is strong enough, it overcomes the fear that identity creates."
+        weight: 0.90
+        domains: ["motivation", "sales", "transformation", "personal-growth"]
+        insight_id: "MH-INS-004"
+        implications:
+          do:
+            - "Amplify desire for the outcome rather than just minimizing fear"
+            - "At every cave point, re-instill passion for the goal"
+            - "Paint vivid pictures of the aftermath to fuel motivation"
+          avoid:
+            - "Trying to eliminate fear directly (it cannot be removed, only outweighed)"
+            - "Ignoring the role of passion when people stall"
+            - "Using only pain/fear-based motivation without showing the positive vision"
+        conflicts: ["Fear-based sales tactics that rely on scarcity alone"]
+        evidence:
+          - quote: "Passion trumps fear every time"
+            source_id: "MH-H2J-001"
+
+      - id: "MH-FIL-005"
+        title: "Inner Journey Matters More Than Outer Journey"
+        statement: "The inner journey of transformation from identity to essence matters more than the outer journey of achieving the visible goal. The outer goal is just the vehicle."
+        weight: 0.90
+        domains: ["storytelling", "character-development", "transformation"]
+        insight_id: "MH-INS-005"
+        implications:
+          do:
+            - "Design customer journeys that facilitate genuine inner transformation"
+            - "Celebrate identity shifts, not just metric achievements"
+            - "Use the outer goal as a mechanism to force the inner journey"
+          avoid:
+            - "Focusing only on external results without inner change"
+            - "Treating the product/service as the whole story"
+            - "Ignoring the emotional/identity arc of the customer"
+        conflicts: ["ROI-focused marketers who resist 'soft' transformation language"]
+        evidence:
+          - quote: "The inner journey matters more than the outer journey"
+            source_id: "MH-H2J-001"
+
+      - id: "MH-FIL-006"
+        title: "Character Arc Equals Identity to Essence"
+        statement: "Character arc is the transformation from identity (false self/armor) to essence (true self/potential). This is the universal structure of all meaningful stories."
+        weight: 0.90
+        domains: ["storytelling", "character-development", "screenwriting"]
+        insight_id: "MH-INS-006"
+        implications:
+          do:
+            - "Map every character's arc from specific identity to specific essence"
+            - "Apply identity-to-essence arc to customer transformation stories"
+            - "Define both endpoints clearly before building the story"
+          avoid:
+            - "Creating characters without a defined arc"
+            - "Confusing external change with internal transformation"
+            - "Leaving the character the same at the end as at the beginning"
+        conflicts: []
+        evidence:
+          - quote: "Character arc = transformation from identity to essence"
+            source_id: "MH-H2J-001"
+
+      - id: "MH-FIL-007"
+        title: "Safe Over Happy - The Human Default"
+        statement: "Given a choice between safe and happy, we will pick safe most of the time. This is why transformation is so difficult and why stories resonate so deeply."
+        weight: 0.90
+        domains: ["psychology", "human-behavior", "transformation", "sales"]
+        insight_id: "MH-INS-007"
+        implications:
+          do:
+            - "Acknowledge that choosing safety is the human default, not the exception"
+            - "Design systems that make the 'happy' choice feel safer"
+            - "Use stories to show what happens when people choose safe over happy"
+          avoid:
+            - "Judging people for choosing safety"
+            - "Assuming logic alone will overcome the safety instinct"
+            - "Ignoring the powerful pull of the status quo"
+        conflicts: ["Motivational speakers who oversimplify the choice to act"]
+        evidence:
+          - quote: "Given a choice between safe and happy, we will pick safe most of the time"
+            source_id: "MH-H2J-001"
+
+      - id: "MH-FIL-008"
+        title: "Wound-Born Beliefs Are Logical but Inaccurate"
+        statement: "Beliefs that come from wounds are never accurate but they are always logical. The person had a real experience and drew a reasonable conclusion - it just happens to be wrong."
+        weight: 0.85
+        domains: ["psychology", "character-development", "coaching"]
+        insight_id: "MH-INS-008"
+        implications:
+          do:
+            - "Validate the logic of someone's limiting belief before challenging it"
+            - "Trace beliefs back to the originating wound to understand their power"
+            - "Acknowledge that the belief served a protective purpose"
+          avoid:
+            - "Dismissing limiting beliefs as irrational or stupid"
+            - "Trying to argue someone out of a wound-based belief with logic alone"
+            - "Ignoring the emotional weight behind seemingly simple beliefs"
+        conflicts: []
+        evidence:
+          - quote: "Beliefs that come from wounds are never accurate but they are always logical"
+            source_id: "MH-H2J-001"
+
+      - id: "MH-FIL-009"
+        title: "Awareness Is the First Step to Transformation"
+        statement: "Awareness is the first step to transformation. You cannot change what you cannot see. The identity operates unconsciously until it is made visible."
+        weight: 0.85
+        domains: ["transformation", "personal-growth", "coaching"]
+        insight_id: "MH-INS-009"
+        implications:
+          do:
+            - "Create moments of awareness before pushing for action"
+            - "Use diagnostic tools (like the blank test) to surface hidden blocks"
+            - "Help people see their identity patterns before asking them to change"
+          avoid:
+            - "Jumping to solutions before establishing awareness"
+            - "Assuming people already know what is holding them back"
+            - "Skipping the diagnostic phase in coaching or sales"
+        conflicts: []
+        evidence:
+          - quote: "Awareness is the first step to transformation"
+            source_id: "MH-H2J-001"
+
+      - id: "MH-FIL-010"
+        title: "The Story Continues Past the Goal"
+        statement: "A story is not over when the hero achieves the goal. The aftermath is essential - it shows the rewards of transformation and completes the before-and-after picture."
+        weight: 0.85
+        domains: ["storytelling", "marketing", "customer-journey"]
+        insight_id: "MH-INS-010"
+        implications:
+          do:
+            - "Always include the aftermath in every story you tell"
+            - "Show customers what life looks like AFTER the transformation"
+            - "Design post-purchase experiences that reinforce the new identity"
+          avoid:
+            - "Ending stories at the climax without showing the new world"
+            - "Treating the sale as the end of the customer's story"
+            - "Neglecting post-transformation support and celebration"
+        conflicts: []
+        evidence:
+          - quote: "A story is not over when the hero achieves the goal - the aftermath is essential"
+            source_id: "MH-H2J-001"
+
+  # ===============================================================================
+  # LAYER 2: MENTAL MODELS (8 items)
+  # ===============================================================================
+
+  L2_MENTAL_MODELS:
+    count: 8
+    items:
+      - id: "MH-MM-001"
+        title: "The Two Journeys Model"
+        statement: "Every meaningful story has two parallel journeys running on the same structure: the Outer Journey (visible goal pursuit) and the Inner Journey (identity to essence transformation). They intertwine at every stage."
+        weight: 0.95
+        domains: ["storytelling", "screenwriting", "marketing", "customer-journey"]
+        insight_id: "MH-INS-011"
+        applications:
+          - "Map any customer journey on both outer (achievement) and inner (identity shift) tracks"
+          - "Diagnose weak stories by checking if one of the two journeys is missing"
+          - "Use the outer journey as the vehicle that forces the inner journey"
+        evidence:
+          - quote: "The Hero's 2 Journeys - Outer Journey and Inner Journey run in parallel on the same structure"
+            source_id: "MH-H2J-001"
+
+      - id: "MH-MM-002"
+        title: "Identity vs Essence"
+        statement: "Identity is the false self created as armor to protect from wound. Essence is the true self and full potential. All human stories are about the tension between these two states."
+        weight: 0.95
+        domains: ["psychology", "character-development", "transformation"]
+        insight_id: "MH-INS-012"
+        applications:
+          - "Define any character or customer by their identity (who they present as) and essence (who they could be)"
+          - "Recognize resistance as identity protecting itself, not lack of desire"
+          - "Design transformation programs that explicitly move people from identity to essence"
+        evidence:
+          - quote: "Identity = false self created as armor. Essence = true self, who they could become with courage."
+            source_id: "MH-H2J-001"
+
+      - id: "MH-MM-003"
+        title: "Wound-Belief-Fear-Identity Chain"
+        statement: "A causal psychological chain drives all character behavior: a painful past Wound creates an inaccurate but logical Belief, which generates a Fear of re-experiencing the wound, which produces an Identity (false self) as protection."
+        weight: 0.90
+        domains: ["psychology", "character-development", "coaching", "sales"]
+        insight_id: "MH-INS-013"
+        applications:
+          - "Trace any customer's resistance back through the chain to find the root wound"
+          - "Build character backstories by starting with the wound and following the chain forward"
+          - "Address objections at the belief level, not just the surface fear level"
+        evidence:
+          - quote: "Wound -> Belief -> Fear -> Identity - the causal psychological chain"
+            source_id: "MH-H2J-001"
+
+      - id: "MH-MM-004"
+        title: "6-Stage Story Structure"
+        statement: "Every story follows 6 predictable stages: Setup, New Situation, Progress, Complications & Higher Stakes, Final Push, and Aftermath. This structure applies to screenplays, marketing, and customer journeys."
+        weight: 0.90
+        domains: ["storytelling", "screenwriting", "marketing", "funnel-design"]
+        insight_id: "MH-INS-014"
+        applications:
+          - "Structure any presentation, pitch, or sales page on the 6 stages"
+          - "Diagnose pacing problems by identifying which stage is too long or missing"
+          - "Map customer journey touchpoints to the 6 stages"
+        evidence:
+          - quote: "6-Stage Story Structure: Setup, New Situation, Progress, Complications, Final Push, Aftermath"
+            source_id: "MH-H2J-001"
+
+      - id: "MH-MM-005"
+        title: "5 Turning Points at Predictable Percentages"
+        statement: "Stories have 5 major turning points that occur at predictable percentages of the total: Opportunity (10%), Change of Plans (25%), Point of No Return (50%), Major Setback (75%), and Climax (90%)."
+        weight: 0.90
+        domains: ["storytelling", "screenwriting", "pacing", "funnel-design"]
+        insight_id: "MH-INS-015"
+        applications:
+          - "Time key moments in presentations and funnels to these percentage markers"
+          - "Diagnose weak narratives by checking if turning points land at right positions"
+          - "Plan customer journey milestones at these structural percentages"
+        evidence:
+          - quote: "5 turning points at predictable percentages: 10%, 25%, 50%, 75%, 90% of the story"
+            source_id: "MH-H2J-001"
+
+      - id: "MH-MM-006"
+        title: "Reflection Character Model"
+        statement: "A reflection character is a supporter who helps the hero's outer journey while simultaneously forcing them to confront their inner truth. They support the goal but challenge the identity."
+        weight: 0.85
+        domains: ["storytelling", "coaching", "sales", "leadership"]
+        insight_id: "MH-INS-016"
+        applications:
+          - "Position yourself (coach, salesperson, mentor) as the client's reflection character"
+          - "Support the client's stated goal while helping them see the identity block"
+          - "Design coaching programs that serve both outer achievement and inner transformation"
+        evidence:
+          - quote: "Reflection character - supporter who helps outer journey but forces inner truth"
+            source_id: "MH-H2J-001"
+
+      - id: "MH-MM-007"
+        title: "Cave Points Model"
+        statement: "There are 5 predictable points in any journey where people are most likely to back out and retreat to safety. These cave points align with the 5 turning points of story structure."
+        weight: 0.85
+        domains: ["customer-retention", "coaching", "sales", "onboarding"]
+        insight_id: "MH-INS-017"
+        applications:
+          - "Map the 5 cave points in your customer journey and build support systems at each"
+          - "At each cave point, re-instill passion to outweigh the fear"
+          - "Anticipate dropout moments and proactively intervene"
+        evidence:
+          - quote: "5 cave points in any journey where people are most likely to back out"
+            source_id: "MH-H2J-001"
+
+      - id: "MH-MM-008"
+        title: "Empathy-First Approach"
+        statement: "The audience must connect emotionally with the hero before they will root for them. Empathy must come before any plot movement, goal pursuit, or transformation."
+        weight: 0.85
+        domains: ["storytelling", "marketing", "sales", "copywriting"]
+        insight_id: "MH-INS-018"
+        applications:
+          - "Open every sales page, presentation, or story with empathy creation"
+          - "Never jump to the offer or solution before establishing emotional connection"
+          - "Use the 4 empathy methods to ensure audience investment"
+        evidence:
+          - quote: "Audience must connect before they root - empathy first"
+            source_id: "MH-H2J-001"
+
+  # ===============================================================================
+  # LAYER 3: HEURISTICS (12 items)
+  # ===============================================================================
+
+  L3_HEURISTICS:
+    count: 12
+    items:
+      - id: "MH-HEUR-001"
+        title: "Visible Specific Goal Requirement"
+        statement: "A story MUST have a visible, specific goal - not abstract. The audience must be able to picture the hero achieving it."
+        weight: 0.95
+        domains: ["storytelling", "copywriting", "marketing", "sales"]
+        insight_id: "MH-INS-019"
+        rule: "Always make the goal something the audience can picture. Abstract goals kill stories."
+        threshold: "If you can't visualize the hero achieving it, the goal is too abstract."
+        evidence:
+          - quote: "Don't talk about making somebody rich, talk about a very specific thing they can picture"
+            source_id: "MH-H2J-001"
+
+      - id: "MH-HEUR-002"
+        title: "5 Turning Points at Fixed Percentages"
+        statement: "The 5 turning points occur at predictable percentages of any story: 10%, 25%, 50%, 75%, and 90%."
+        weight: 0.90
+        domains: ["storytelling", "screenwriting", "pacing"]
+        insight_id: "MH-INS-020"
+        rule: "Opportunity at 10%, Change of Plans at 25%, Point of No Return at 50%, Major Setback at 75%, Climax at 90%."
+        threshold: "TP1=10%, TP2=25%, TP3=50%, TP4=75%, TP5=90%"
+        evidence:
+          - quote: "5 turning points at predictable percentages: 10%, 25%, 50%, 75%, 90%"
+            source_id: "MH-H2J-001"
+
+      - id: "MH-HEUR-003"
+        title: "Identity to Essence = Victory Rule"
+        statement: "If the hero wins, they MUST have moved from identity to essence. This is a non-negotiable Hollywood rule that applies to all transformation stories."
+        weight: 0.90
+        domains: ["storytelling", "character-development", "screenwriting"]
+        insight_id: "MH-INS-021"
+        rule: "Hero wins = hero in essence. Hero stays in identity = tragedy."
+        threshold: "Binary: moved to essence (win) or stayed in identity (loss/tragedy)."
+        evidence:
+          - quote: "If hero wins, they MUST have moved from identity to essence"
+            source_id: "MH-H2J-001"
+
+      - id: "MH-HEUR-004"
+        title: "Identity Unchanged = Tragedy"
+        statement: "If the hero does NOT leave their identity, the story is a tragedy. The character had the opportunity for transformation but chose safety over growth."
+        weight: 0.85
+        domains: ["storytelling", "screenwriting", "character-development"]
+        insight_id: "MH-INS-022"
+        rule: "No identity shift = tragedy, regardless of external outcome."
+        threshold: "Example: Brokeback Mountain - characters never leave identity, resulting in tragedy."
+        evidence:
+          - quote: "If hero does NOT leave identity, it's a tragedy (e.g., Brokeback Mountain)"
+            source_id: "MH-H2J-001"
+
+      - id: "MH-HEUR-005"
+        title: "Create Empathy First via 4 Methods"
+        statement: "Create empathy for the hero before anything else using 4 methods: undeserved misfortune, jeopardy, likeable personality, or being good at what they do."
+        weight: 0.90
+        domains: ["storytelling", "copywriting", "marketing"]
+        insight_id: "MH-INS-023"
+        rule: "Use at least one of: undeserved misfortune, jeopardy, likeability, competence/humor."
+        threshold: "Minimum 1 of 4 methods must be present before any plot movement."
+        evidence:
+          - quote: "Create empathy first via 4 methods: undeserved misfortune, jeopardy, likeable, good at what they do"
+            source_id: "MH-H2J-001"
+
+      - id: "MH-HEUR-006"
+        title: "Point of No Return = Full Commitment"
+        statement: "The point of no return means full commitment - both feet in. From this point, there is steady progression toward essence. Bridges are burned."
+        weight: 0.85
+        domains: ["storytelling", "sales", "commitment", "customer-journey"]
+        insight_id: "MH-INS-024"
+        rule: "At 50% of the story, the hero must commit fully. No going back."
+        threshold: "50% mark - full commitment, burning bridges."
+        evidence:
+          - quote: "Point of no return = full commitment, both feet in"
+            source_id: "MH-H2J-001"
+
+      - id: "MH-HEUR-007"
+        title: "Major Setback at the Grasp Point"
+        statement: "The major setback always happens just when you think the goal is within grasp. This is the moment of maximum emotional impact."
+        weight: 0.85
+        domains: ["storytelling", "pacing", "screenwriting"]
+        insight_id: "MH-INS-025"
+        rule: "Place the biggest obstacle right after the hero's greatest progress."
+        threshold: "75% mark - worst thing happens when goal seems closest."
+        evidence:
+          - quote: "Major setback always happens just when you think it's within grasp"
+            source_id: "MH-H2J-001"
+
+      - id: "MH-HEUR-008"
+        title: "The Blank Test Diagnostic"
+        statement: "The blank test reveals identity blocks: 'I'll do whatever it takes... just don't ask me to ___ because that's just not me.' The blank is where identity draws its line."
+        weight: 0.90
+        domains: ["coaching", "personal-growth", "transformation", "sales"]
+        insight_id: "MH-INS-026"
+        rule: "Use 'I'll do whatever it takes... just don't ask me to ___' to find the real block."
+        threshold: "First answer = identity's decoy. Keep pushing until it genuinely scares them."
+        evidence:
+          - quote: "I'll do whatever it takes... just don't ask me to ___ because that's just not me"
+            source_id: "MH-H2J-001"
+
+      - id: "MH-HEUR-009"
+        title: "Setup Must Show Identity"
+        statement: "The setup of any story MUST show the character stuck in their identity. The audience needs to see the 'before' state clearly to appreciate the transformation."
+        weight: 0.85
+        domains: ["storytelling", "copywriting", "marketing"]
+        insight_id: "MH-INS-027"
+        rule: "Open by showing the hero trapped in their identity/false self."
+        threshold: "If setup doesn't establish identity clearly, the transformation will feel unearned."
+        evidence:
+          - quote: "Setup MUST show character stuck in their identity"
+            source_id: "MH-H2J-001"
+
+      - id: "MH-HEUR-010"
+        title: "Aftermath Is Mandatory"
+        statement: "The aftermath is MANDATORY. Every story must show the 'after' picture and the rewards of transformation. This is where the before-and-after comparison becomes complete."
+        weight: 0.90
+        domains: ["storytelling", "marketing", "sales", "testimonials"]
+        insight_id: "MH-INS-028"
+        rule: "Never end at the climax. Always show the new world and rewards."
+        threshold: "No aftermath = incomplete story = reduced persuasive power."
+        evidence:
+          - quote: "Aftermath is MANDATORY - show the after picture, the rewards of transformation"
+            source_id: "MH-H2J-001"
+
+      - id: "MH-HEUR-011"
+        title: "First Answer Is Identity's Decoy"
+        statement: "The first thing that pops into your head when asked about your obstacle is what your identity wants you to think the obstacle is. The real obstacle is deeper."
+        weight: 0.85
+        domains: ["coaching", "personal-growth", "sales", "objection-handling"]
+        insight_id: "MH-INS-029"
+        rule: "Never accept the first stated obstacle. Dig deeper - identity is deflecting."
+        threshold: "First answer = decoy. Real answer requires persistent, empathetic probing."
+        evidence:
+          - quote: "The first thing that pops into your head is what your identity wants you to think your obstacle is"
+            source_id: "MH-H2J-001"
+
+      - id: "MH-HEUR-012"
+        title: "Once in Essence, Identity No Longer Suffices"
+        statement: "Once we've lived in our essence, our identities don't really cut it anymore. There is no going back to the old self once the new self has been experienced."
+        weight: 0.85
+        domains: ["transformation", "personal-growth", "customer-retention"]
+        insight_id: "MH-INS-030"
+        rule: "After tasting essence, identity becomes unbearable. Use this for retention."
+        threshold: "One genuine experience of essence = permanent dissatisfaction with identity."
+        evidence:
+          - quote: "Once we've lived in our essence, our identities don't really cut it anymore"
+            source_id: "MH-H2J-001"
+
+  # ===============================================================================
+  # LAYER 4: FRAMEWORKS (5 items)
+  # ===============================================================================
+
+  L4_FRAMEWORKS:
+    count: 5
+    items:
+      - id: "MH-FW-001"
+        title: "The 6-Stage Story Structure (Outer Journey)"
+        statement: "A complete framework for structuring any story's outer journey through 6 predictable stages."
+        weight: 0.95
+        domains: ["storytelling", "screenwriting", "marketing", "funnel-design"]
+        insight_id: "MH-INS-031"
+        stages:
+          - stage: 1
+            name: "Setup"
+            description: "Hero stuck in identity, ordinary world. Establish the 'before' picture."
+            identity_state: "Fully in identity"
+          - stage: 2
+            name: "New Situation"
+            description: "Opportunity creates a new world. Something happens that creates desire."
+            identity_state: "Glimpse of essence"
+          - stage: 3
+            name: "Progress"
+            description: "Pursuing goal, things going well. Hero making visible advancement."
+            identity_state: "Vacillating between identity and essence"
+          - stage: 4
+            name: "Complications & Higher Stakes"
+            description: "Obstacles mount, stakes rise. Everything becomes harder and more dangerous."
+            identity_state: "Committing more to essence"
+          - stage: 5
+            name: "Final Push"
+            description: "All-or-nothing after major setback. Hero must give everything."
+            identity_state: "Must choose: essence or identity"
+          - stage: 6
+            name: "Aftermath"
+            description: "The 'after' picture. New life, rewards of transformation."
+            identity_state: "Living fully in essence"
+        evidence:
+          - quote: "6-Stage Story Structure: Setup, New Situation, Progress, Complications, Final Push, Aftermath"
+            source_id: "MH-H2J-001"
+
+      - id: "MH-FW-002"
+        title: "The 5 Turning Points Framework"
+        statement: "A framework defining the 5 critical structural moments that drive a story forward, each at a predictable percentage of the total."
+        weight: 0.90
+        domains: ["storytelling", "screenwriting", "pacing", "funnel-design"]
+        insight_id: "MH-INS-032"
+        turning_points:
+          - tp: 1
+            name: "Opportunity"
+            percentage: "10%"
+            description: "Something happens that creates desire. A new possibility appears."
+          - tp: 2
+            name: "Change of Plans"
+            percentage: "25%"
+            description: "Hero commits to pursuing the goal. The journey formally begins."
+          - tp: 3
+            name: "Point of No Return"
+            percentage: "50%"
+            description: "Full commitment. Burning bridges. Both feet in."
+          - tp: 4
+            name: "Major Setback"
+            percentage: "75%"
+            description: "Worst thing happens. Hero retreats. All seems lost."
+          - tp: 5
+            name: "Climax"
+            percentage: "90%"
+            description: "Final confrontation. Win or lose. Identity or essence."
+        evidence:
+          - quote: "5 turning points at predictable percentages: 10%, 25%, 50%, 75%, 90%"
+            source_id: "MH-H2J-001"
+
+      - id: "MH-FW-003"
+        title: "The Inner Journey Chain"
+        statement: "A causal framework mapping the psychological architecture of character: from originating wound through to the false self, and the path to the true self."
+        weight: 0.90
+        domains: ["psychology", "character-development", "coaching", "transformation"]
+        insight_id: "MH-INS-033"
+        chain:
+          - element: "Wound"
+            description: "Painful past experience believed to be resolved but still active beneath the surface."
+          - element: "Belief"
+            description: "Logical but inaccurate conclusion about the world drawn from the wound."
+          - element: "Fear"
+            description: "Fear of re-experiencing the wound. Drives all protective behavior."
+          - element: "Identity"
+            description: "False self/armor created for protection. The person we present to the world."
+          - element: "Essence"
+            description: "True self. Who they could become with courage. The destination of transformation."
+        evidence:
+          - quote: "Wound -> Belief -> Fear -> Identity chain. Beliefs from wounds are never accurate but always logical."
+            source_id: "MH-H2J-001"
+
+      - id: "MH-FW-004"
+        title: "The Empathy Framework (4 Methods)"
+        statement: "A framework defining the 4 proven methods for creating audience empathy with a character before any story movement begins."
+        weight: 0.85
+        domains: ["storytelling", "copywriting", "marketing", "sales"]
+        insight_id: "MH-INS-034"
+        methods:
+          - method: 1
+            name: "Undeserved Misfortune"
+            description: "Show the hero suffering something they did not deserve. Activates sympathy."
+          - method: 2
+            name: "Jeopardy / Danger"
+            description: "Put the hero in danger or at risk. Activates protective instinct."
+          - method: 3
+            name: "Likeability"
+            description: "Make the hero likeable through warmth, kindness, or relatability."
+          - method: 4
+            name: "Competence (Funny Counts)"
+            description: "Make the hero good at what they do. Being funny also works as a form of competence."
+        evidence:
+          - quote: "4 ways to create connection: undeserved misfortune, jeopardy, likeable, good at what they do (funny counts)"
+            source_id: "MH-H2J-001"
+
+      - id: "MH-FW-005"
+        title: "The Dual Journey Intertwine"
+        statement: "A framework showing exactly how the outer journey (goal pursuit) and inner journey (identity to essence) map onto each other at every stage."
+        weight: 0.90
+        domains: ["storytelling", "screenwriting", "marketing", "customer-journey"]
+        insight_id: "MH-INS-035"
+        intertwine:
+          - stage: "Setup"
+            outer: "Ordinary world, status quo"
+            inner: "Fully in identity"
+          - stage: "New Situation"
+            outer: "Opportunity appears, new world"
+            inner: "Glimpse of essence"
+          - stage: "Progress"
+            outer: "Pursuing goal, things going well"
+            inner: "Vacillating between identity and essence"
+          - stage: "Point of No Return"
+            outer: "Full commitment to goal, bridges burned"
+            inner: "Committing to essence"
+          - stage: "Major Setback"
+            outer: "Worst obstacle, all seems lost"
+            inner: "Retreating to identity (but it no longer works)"
+          - stage: "Climax"
+            outer: "Final confrontation, win or lose"
+            inner: "Fully in essence = wins / Still in identity = loses"
+          - stage: "Aftermath"
+            outer: "New life, rewards visible"
+            inner: "Reaping rewards of transformation"
+        evidence:
+          - quote: "The Dual Journey Intertwine - outer and inner mapped on same structure"
+            source_id: "MH-H2J-001"
+
+  # ===============================================================================
+  # LAYER 5: METHODOLOGIES (3 items)
+  # ===============================================================================
+
+  L5_METHODOLOGIES:
+    count: 3
+    items:
+      - id: "MH-MET-001"
+        title: "Story Creation Methodology"
+        statement: "A step-by-step methodology for creating a complete story with both outer and inner journeys, applicable to screenwriting, marketing, and sales."
+        weight: 0.95
+        domains: ["storytelling", "screenwriting", "marketing", "copywriting"]
+        insight_id: "MH-INS-036"
+        steps:
+          - step: 1
+            action: "Define visible, specific outer goal"
+            detail: "Must be something the audience can picture. Not abstract. Not 'get rich' but a specific visible achievement."
+            reference: "MH-HEUR-001"
+          - step: 2
+            action: "Create empathy for the hero"
+            detail: "Use at least one of the 4 empathy methods: undeserved misfortune, jeopardy, likeability, competence."
+            reference: "MH-FW-004"
+          - step: 3
+            action: "Map 6 stages with 5 turning points"
+            detail: "Structure the outer journey on the 6 stages, placing turning points at 10%, 25%, 50%, 75%, 90%."
+            reference: "MH-FW-001, MH-FW-002"
+          - step: 4
+            action: "Define wound, belief, fear, identity, essence"
+            detail: "Build the inner journey chain. Start with the wound and trace forward to the identity armor."
+            reference: "MH-FW-003"
+          - step: 5
+            action: "Intertwine outer and inner journeys on same structure"
+            detail: "Map identity-to-essence progression onto the 6 stages. Each stage has both outer and inner movement."
+            reference: "MH-FW-005"
+          - step: 6
+            action: "Show aftermath (before and after picture)"
+            detail: "Complete the story with the aftermath stage. Show the new world, the rewards, the transformation complete."
+            reference: "MH-HEUR-010"
+        evidence:
+          - quote: "Story creation: define goal, create empathy, map structure, define inner chain, intertwine, show aftermath"
+            source_id: "MH-H2J-001"
+
+      - id: "MH-MET-002"
+        title: "Customer Journey Application Methodology"
+        statement: "A methodology for applying story structure to the customer journey, positioning yourself as the reflection character and managing cave points."
+        weight: 0.90
+        domains: ["marketing", "sales", "customer-journey", "coaching", "onboarding"]
+        insight_id: "MH-INS-037"
+        steps:
+          - step: 1
+            action: "Map customer journey to 6 stages"
+            detail: "Identify where the customer is in the story structure: setup, new situation, progress, complications, final push, aftermath."
+            reference: "MH-FW-001"
+          - step: 2
+            action: "Identify the 5 cave points where they'll back out"
+            detail: "Map the predictable dropout moments aligned with the 5 turning points."
+            reference: "MH-MM-007"
+          - step: 3
+            action: "At each cave point, instill passion to overcome fear"
+            detail: "Passion trumps fear every time. Re-ignite desire for the goal at each danger point."
+            reference: "MH-FIL-004"
+          - step: 4
+            action: "Be the reflection character"
+            detail: "Support the customer's outer goal while forcing inner truth. Help them achieve AND transform."
+            reference: "MH-MM-006"
+          - step: 5
+            action: "Show aftermath repeatedly to maintain motivation"
+            detail: "Keep painting the 'after' picture. Testimonials, success stories, vivid outcome descriptions."
+            reference: "MH-HEUR-010"
+          - step: 6
+            action: "Reinforce: passion trumps fear every time"
+            detail: "At every moment of resistance, amplify the desire rather than trying to eliminate the fear."
+            reference: "MH-FIL-004"
+        evidence:
+          - quote: "Customer journey application: map to 6 stages, identify cave points, instill passion, be reflection character"
+            source_id: "MH-H2J-001"
+
+      - id: "MH-MET-003"
+        title: "Personal Transformation Method (The Blank Test)"
+        statement: "A step-by-step method for identifying and overcoming identity blocks using the blank test diagnostic and reflection character support."
+        weight: 0.90
+        domains: ["personal-growth", "coaching", "transformation", "leadership"]
+        insight_id: "MH-INS-038"
+        steps:
+          - step: 1
+            action: "Establish a specific, passionate goal"
+            detail: "Must be visible and specific enough to create genuine desire. Abstract goals won't generate enough passion to overcome fear."
+            reference: "MH-HEUR-001"
+          - step: 2
+            action: "Ask the blank test question"
+            detail: "'I'll do whatever it takes... just don't ask me to ___ because that's just not me.'"
+            reference: "MH-HEUR-008"
+          - step: 3
+            action: "Don't accept first answer (that's identity talking)"
+            detail: "The first thing that pops into your head is what your identity wants you to think the obstacle is. The real block is deeper."
+            reference: "MH-HEUR-011"
+          - step: 4
+            action: "Stay until it scares you (that's the real answer)"
+            detail: "Keep probing with empathy. When genuine fear surfaces, you've found the real identity block."
+            reference: "MH-FIL-003"
+          - step: 5
+            action: "Share with reflection character (trusted person)"
+            detail: "Reveal the block to someone who supports your goal and will hold you accountable to your essence."
+            reference: "MH-MM-006"
+          - step: 6
+            action: "Stay aware - notice when identity stops you"
+            detail: "Awareness is the first step to transformation. Simply noticing identity patterns begins to weaken them."
+            reference: "MH-FIL-009"
+          - step: 7
+            action: "Refocus on goal aftermath each time"
+            detail: "When fear resurfaces, return to the vivid picture of life after transformation. Passion trumps fear."
+            reference: "MH-FIL-004, MH-HEUR-010"
+        evidence:
+          - quote: "The blank test: establish goal, ask the question, don't accept first answer, stay until it scares you, share with reflection character, stay aware, refocus"
+            source_id: "MH-H2J-001"

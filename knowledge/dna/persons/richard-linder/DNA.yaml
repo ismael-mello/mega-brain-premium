@@ -1,0 +1,472 @@
+# Richard Linder - Cognitive DNA (Unified Format)
+# Source: The Scalable Company - Founder First Hiring
+# Expertise: Hiring Methodology, Executive Leadership, Business Scaling
+# Total elements: 24 | Migrated from legacy 5-file format: 2026-03-02
+# Original extraction: 2025-12-28 | Protocol: DNA-EXTRACTION-PROTOCOL v1.0
+
+person:
+  name: "Richard Linder"
+  empresa: "The Scalable Company"
+  cargo: "Co-fundador & Presidente"
+  source: "Founder First Hiring - Lecture (The Scalable Company)"
+  total_chunks: 24
+  track_record:
+    - "17 empresas iniciadas"
+    - "4 exits bem-sucedidos"
+    - "3 empresas na Inc. 500/5000 simultaneamente"
+    - "3,000+ clientes em 47+ países"
+    - "21+ frameworks criados"
+  sintese: |
+    O gênio de Richard Linder está em reformular contratação como OTIMIZAÇÃO DE ENERGIA
+    DO FUNDADOR, não conformidade de RH. Quando a sabedoria convencional diz "contrate
+    grandes pessoas no papel e aprenda a trabalhar com elas", Richard diz "as empresas
+    se movem na velocidade do fundador - contrate pessoas que amplifiquem SUA capacidade,
+    não a drenem." Confiança não é descoberta através de traços abstratos. É engenharia
+    reversa das pessoas em quem você JÁ confia.
+
+layers:
+
+  # ==========================================================================
+  # L1: PHILOSOPHIES (5 items)
+  # ==========================================================================
+  L1_PHILOSOPHIES:
+    count: 5
+    items:
+
+      - id: "RL-FIL-001"
+        title: "Founder First: Contratação Egoísta e Boa"
+        statement: "Contratar para compatibilidade COM o fundador (não apenas fit cultural genérico) é chave para escalar. Se eles te energizam, você os energiza. Cria energia, não déficit."
+        quote: "As empresas se movem na velocidade do fundador. Mesmo que pareça egoísta, é uma boa prática para scale-ups contratarem membros de equipe compatíveis com eles."
+        weight: 0.95
+        chunk_ids: ["RL001_001"]
+        source_ids: ["RL001"]
+        application: "Mindset de contratação, priorização de candidatos"
+
+      - id: "RL-FIL-002"
+        title: "Empresas se Movem na Velocidade do Fundador"
+        statement: "A velocidade de crescimento da empresa é limitada pela energia e capacidade do fundador. Equipe que drena o fundador = empresa estagnada."
+        quote: "Companies move at the speed of the founder."
+        weight: 0.95
+        chunk_ids: ["RL001_002"]
+        source_ids: ["RL001"]
+        application: "Priorização de energia do fundador, filtro de contratação"
+
+      - id: "RL-FIL-003"
+        title: "Nascido do Fracasso, Não do Sucesso"
+        statement: "Frameworks eficazes nascem de falhas repetidas, não de teoria. Scalable criou frameworks porque FALHARAM em contratação antes de acertar."
+        quote: "Não criamos frameworks porque as coisas simplesmente funcionaram. Fizemos errado. Falhamos. Todos os nossos processos nasceram do fracasso."
+        weight: 0.90
+        chunk_ids: ["RL001_003"]
+        source_ids: ["RL001"]
+        application: "Validação de frameworks, ceticismo com teoria"
+
+      - id: "RL-FIL-004"
+        title: "Competência + Compatibilidade (AMBOS)"
+        statement: "Contratação deve ter AMBOS: habilidades brutas (competência) E traços de personalidade que se encaixam. Não é ou/ou."
+        quote: "Não é 'comprar amigos' - ambas as caixas devem estar marcadas."
+        weight: 0.90
+        chunk_ids: ["RL001_004"]
+        source_ids: ["RL001"]
+        application: "Scorecard de contratação, critérios de avaliação"
+
+      - id: "RL-FIL-005"
+        title: "Batteries Included"
+        statement: "Contratar pessoas que não REQUEREM elogio/recompensa constante para ter melhor desempenho. Motivação intrínseca como filtro."
+        quote: "Não precisa de elogio/recompensa para aparecer seu melhor. Não significa que não damos - mas você não REQUER para ter desempenho."
+        weight: 0.85
+        chunk_ids: ["RL001_005"]
+        source_ids: ["RL001"]
+        application: "Filtro de candidatos, avaliação de motivação"
+
+  # ==========================================================================
+  # L2: MENTAL MODELS (4 items)
+  # ==========================================================================
+  L2_MENTAL_MODELS:
+    count: 4
+    items:
+
+      - id: "RL-MM-001"
+        title: "Superávit de Energia vs Déficit de Energia"
+        statement: "Lente para avaliar contratações e interações. Cada pessoa cria superávit ou déficit de energia para o fundador."
+        trigger_question: "Esta pessoa me ENERGIZA ou me DRENA? Saio de interações com mais ou menos capacidade?"
+        weight: 0.90
+        chunk_ids: ["RL001_006"]
+        source_ids: ["RL001"]
+        application: "Avaliação de contratações, gestão de energia"
+        options:
+          superavit:
+            name: "Superávit de Energia"
+            description: "Pessoa amplifica capacidade do fundador"
+            signals: ["Saio de 1:1s com MAIS energia", "Quero delegar mais para ela", "Colaboração é natural"]
+          deficit:
+            name: "Déficit de Energia"
+            description: "Pessoa drena capacidade do fundador"
+            signals: ["Saio de 1:1s exausto", "Evito delegar", "Interações são conflituosas"]
+
+      - id: "RL-MM-002"
+        title: "Trust Builders vs Trust Breakers"
+        statement: "Engenharia reversa de confiança através de cenários reais, não traços abstratos."
+        trigger_question: "QUEM eu já confio? QUEM me drena? Quais TRAÇOS essas pessoas têm em comum?"
+        weight: 0.90
+        chunk_ids: ["RL001_007"]
+        source_ids: ["RL001"]
+        application: "Definição de critérios de contratação"
+        process:
+          - "1. Identificar 3 cenários de confiança (reunião produtiva, tarefa urgente, brainstorm)"
+          - "2. Nomear QUEM você chamaria em cada cenário"
+          - "3. Extrair traços comuns dos WHOs"
+          - "4. Inverter: identificar 3 cenários de quebra de confiança"
+          - "5. Nomear QUEM aparece nesses cenários"
+          - "6. Extrair anti-padrões"
+
+      - id: "RL-MM-003"
+        title: "Os 8 Limitadores de Escala"
+        statement: "Framework diagnóstico: todo problema de negócio se enquadra em uma de oito categorias."
+        trigger_question: "Em qual dos 8 limitadores este problema se enquadra? Estou focando a solução no limitador certo?"
+        weight: 0.85
+        chunk_ids: ["RL001_008"]
+        source_ids: ["RL001"]
+        application: "Diagnóstico de problemas, foco de solução"
+        limiters:
+          - "1. Falta de Clareza - visão pouco inspiradora/pouco clara"
+          - "2. Demanda Insuficiente - não há clientes suficientes"
+          - "3. Estratégia Ruim - coisas erradas, momento errado"
+          - "4. Sistemas - processos não documentados"
+          - "5. Equipe Errada - pessoas erradas ou no lugar errado"
+          - "6. Comunicação Ruim - ninguém sabe o que importa"
+          - "7. Capital Insuficiente - sem fluxo de caixa suficiente"
+          - "8. Desalinhamento de Impacto - objetivos do fundador != objetivos da empresa"
+
+      - id: "RL-MM-004"
+        title: "Efeito Cascata de Sobrecarga"
+        statement: "Ciclo vicioso que a maioria dos fundadores não vê até ser tarde demais."
+        trigger_question: "Estou despejando tudo em uma pessoa competente? High performers estão saindo?"
+        weight: 0.85
+        chunk_ids: ["RL001_009"]
+        source_ids: ["RL001"]
+        application: "Retenção de talentos, gestão de carga"
+        cycle:
+          - "Contratações ruins"
+          - "Fundador fica cético"
+          - "Despeja tudo em uma pessoa competente"
+          - "Essa pessoa fica sobrecarregada"
+          - "High performers saem"
+          - "Substituídos por underperformers"
+          - "Ciclo repete"
+        insight: "Um processo de contratação ineficiente faz suas melhores pessoas saírem E te deixa sem capacidade de conseguir novas boas pessoas."
+
+  # ==========================================================================
+  # L3: HEURISTICS (6 items)
+  # ==========================================================================
+  L3_HEURISTICS:
+    count: 6
+    items:
+
+      - id: "RL-HEU-001"
+        title: "Hell Yes or No (Sem 7s)"
+        statement: "Pontuação de candidato deve ser 8+ (Hell Yes) ou é um 6 (rejeitar). Remover 7 do scorecard."
+        quote: "Setes são BS total. Setes são seis otimistas ou oitos pessimistas. Sete é o número que usamos quando não estamos dispostos a nos comprometer."
+        threshold: "8+ = contratar, 7 = não existe, <7 = rejeitar"
+        weight: 0.95
+        chunk_ids: ["RL001_010"]
+        source_ids: ["RL001"]
+        application: "Scorecard de contratação, tomada de decisão"
+
+      - id: "RL-HEU-002"
+        title: "1-3-1 Escalation Format"
+        statement: "Não pode trazer problemas sem estrutura: 1 problema + 3 soluções + 1 recomendação."
+        quote: "Como fundadores, tudo o que você recebe são os problemas de todos os outros para resolver o dia todo."
+        threshold: "1 problema, 3 soluções, 1 recomendação"
+        weight: 0.90
+        chunk_ids: ["RL001_011"]
+        source_ids: ["RL001"]
+        application: "Cultura de escalação, reuniões, comunicação"
+
+      - id: "RL-HEU-003"
+        title: "Paid Skills Assessment"
+        statement: "Pagar $1-2k por 4-8 horas de trabalho real em problema real."
+        threshold: "$1,000-$2,000 por 4-8 horas"
+        weight: 0.90
+        chunk_ids: ["RL001_012"]
+        source_ids: ["RL001"]
+        application: "Processo de entrevista, avaliação de competência"
+
+      - id: "RL-HEU-004"
+        title: "Phone Screen 10 Minutos"
+        statement: "Primeira ligação deve filtrar básicos em 10 minutos antes de investir tempo."
+        threshold: "10 minutos máximo"
+        weight: 0.85
+        chunk_ids: ["RL001_013"]
+        source_ids: ["RL001"]
+        application: "Triagem inicial, economia de tempo"
+        filters:
+          - "Experiência básica"
+          - "Faixa salarial (OBRIGATÓRIO confirmar)"
+          - "Disponibilidade remoto/viagem"
+          - "Alinhamento de cargo"
+
+      - id: "RL-HEU-005"
+        title: "Pontuação Mínima 8 em Não-Negociáveis"
+        statement: "Para traços definidos como não-negociáveis, pontuação mínima deve ser 8+."
+        threshold: "8+ em todos os não-negociáveis"
+        weight: 0.85
+        chunk_ids: ["RL001_014"]
+        source_ids: ["RL001"]
+        application: "Scorecard, filtro de candidatos"
+
+      - id: "RL-HEU-006"
+        title: "Contratar Ninguém é Resultado Aceitável"
+        statement: "Se Hell Yes não aparecer, não contratar e fazer de novo. Melhor que contratar 'melhor dos ruins'."
+        quote: "Um resultado aceitável de uma contratação aberta é contratar NINGUÉM."
+        threshold: "0 contratações é preferível a contratação ruim"
+        weight: 0.90
+        chunk_ids: ["RL001_015"]
+        source_ids: ["RL001"]
+        application: "Decisão final de contratação, resistir a pressão"
+
+  # ==========================================================================
+  # L4: FRAMEWORKS (6 items)
+  # ==========================================================================
+  L4_FRAMEWORKS:
+    count: 6
+    items:
+
+      - id: "RL-FRM-001"
+        title: "Trindade de Avaliação de Estilo de Trabalho"
+        statement: "Três avaliações para prevenir contratar clones de si mesmo."
+        weight: 0.90
+        chunk_ids: ["RL001_016"]
+        source_ids: ["RL001"]
+        application: "Avaliação de candidatos, autoconhecimento do fundador"
+        warning: "Não construa uma equipe que se parece exatamente com você."
+        components:
+          - name: "DISC"
+            description: "Quadrantes D/I/S/C - estilo de comunicação"
+            usage: "Identifique se há complementaridade ou conflito"
+          - name: "CliftonStrengths"
+            description: "Top 5 + Bottom 5 traços em 4 domínios"
+            usage: "Revela o que compensar nas contratações"
+          - name: "Working Genius"
+            description: "2 genius, 2 frustration, 2 competency"
+            usage: "Alinhamento de fluxo de trabalho"
+
+      - id: "RL-FRM-002"
+        title: "Trust Builders Discovery"
+        statement: "3 cenários para descobrir em quem você já confia."
+        weight: 0.90
+        chunk_ids: ["RL001_017"]
+        source_ids: ["RL001"]
+        application: "Extrair traços comuns dos WHOs reais"
+        output: "Lista de traços não-negociáveis para contratação"
+        components:
+          - name: "Reunião Produtiva"
+            question: "QUEM liderou reunião onde você saiu com MAIS energia?"
+          - name: "Go-To GSD"
+            question: "QUEM você entrega tarefa urgente + importante?"
+          - name: "Colaborador Confiável"
+            question: "QUEM você liga para fazer brainstorm de nova ideia?"
+
+      - id: "RL-FRM-003"
+        title: "Trust Breakers Discovery"
+        statement: "3 cenários invertidos para descobrir anti-padrões."
+        weight: 0.90
+        chunk_ids: ["RL001_018"]
+        source_ids: ["RL001"]
+        application: "Extrair anti-padrões para filtrar OUT"
+        output: "Lista de traços para rejeitar impiedosamente"
+        components:
+          - name: "Reunião Por Que Estamos Aqui"
+            question: "QUEM convocou reunião sem propósito claro que te drenou?"
+          - name: "Vou Fazer Eu Mesmo"
+            question: "QUEM deveria ter lidado mas você escolheu fazer você mesmo?"
+          - name: "Convite Relutante"
+            question: "QUEM te dá sentimento de afundamento quando precisa convidar?"
+
+      - id: "RL-FRM-004"
+        title: "Hiring Scorecard"
+        statement: "Estrutura para avaliação objetiva de candidatos."
+        weight: 0.90
+        chunk_ids: ["RL001_019"]
+        source_ids: ["RL001"]
+        application: "Avaliação estruturada de candidatos"
+        components:
+          - "Seção de competência"
+          - "Seção de compatibilidade"
+          - "Mapeamento de avaliações (DISC, CliftonStrengths, Working Genius)"
+          - "Perguntas baseadas em cenários (trust builders/breakers)"
+          - "Faixa salarial confirmada vs esperada"
+          - "Data de início"
+        rules:
+          - "Remover 7 da pontuação"
+          - "Mínimo 8 em não-negociáveis"
+          - "Decisão final: Perfect Fit / Possible Fit (= não) / Not a Fit"
+
+      - id: "RL-FRM-005"
+        title: "Os 8 Limitadores de Escala"
+        statement: "Framework diagnóstico para categorizar problemas de negócio."
+        weight: 0.85
+        chunk_ids: ["RL001_020"]
+        source_ids: ["RL001"]
+        application: "Diagnóstico de problemas, foco de solução"
+        components:
+          - "1. Falta de Clareza - visão pouco inspiradora"
+          - "2. Demanda Insuficiente - não há clientes suficientes"
+          - "3. Estratégia Ruim - coisas erradas, momento errado"
+          - "4. Sistemas - processos não documentados"
+          - "5. Equipe Errada - pessoas erradas ou no lugar errado"
+          - "6. Comunicação Ruim - ninguém sabe o que importa"
+          - "7. Capital Insuficiente - sem fluxo de caixa suficiente"
+          - "8. Desalinhamento de Impacto - objetivos fundador != empresa"
+
+      - id: "RL-FRM-006"
+        title: "Valores Centrais da Scalable (5 Não-Negociáveis)"
+        statement: "Valores inegociáveis que funcionam como filtro de contratação."
+        weight: 0.85
+        chunk_ids: ["RL001_021"]
+        source_ids: ["RL001"]
+        application: "Filtro de contratação, cultura"
+        richard_non_negotiables: ["Batteries Included", "Lavamos a Louça"]
+        components:
+          - name: "Amamos Empreendedores"
+            description: "Nossa honra ajudá-los a fazer a diferença"
+          - name: "Batteries Included"
+            description: "Não REQUER elogio/recompensa para ter desempenho"
+          - name: "Elevamos o Padrão"
+            description: "Nunca paramos de aprender, contratamos pessoas mais inteligentes"
+          - name: "Lavamos a Louça"
+            description: "Nenhum trabalho está abaixo de nós se serve colegas ou clientes"
+          - name: "Buscamos o Por Quê"
+            description: "'É como sempre fizemos' nunca é aceitável"
+
+  # ==========================================================================
+  # L5: METHODOLOGIES (3 items)
+  # ==========================================================================
+  L5_METHODOLOGIES:
+    count: 3
+    items:
+
+      - id: "RL-MET-001"
+        title: "Processo de Entrevista Multi-Estágio"
+        statement: "5 estágios em ordem rígida para contratação Founder First."
+        weight: 0.95
+        chunk_ids: ["RL001_022"]
+        source_ids: ["RL001"]
+        application: "Processo completo de contratação"
+        steps:
+          - step: 1
+            name: "Phone Screen"
+            who: "HR ou Hiring Manager"
+            duration: "10 minutos"
+            description: "Confirmar experiência, cargo, faixa salarial, remoto/viagem"
+            success_criteria: "AMBAS as partes alinhadas no básico"
+          - step: 2
+            name: "Hiring Manager Interview"
+            who: "Hiring Manager"
+            description: "Mergulho profundo em competência"
+            success_criteria: "Validar habilidades técnicas"
+          - step: 3
+            name: "Paid Skills Assessment"
+            who: "Candidato"
+            value: "$1-2k"
+            duration: "4-8 horas"
+            description: "Trabalho real - codificar feature, escrever campanha"
+            success_criteria: "Output utilizável + prova competência"
+          - step: 4
+            name: "Panel Interview"
+            who: "Membros da equipe que conhecem o fundador"
+            description: "Preencher scorecard, avaliar compatibilidade"
+            success_criteria: "Identificar dinâmicas óleo/água"
+          - step: 5
+            name: "Final Interview"
+            who: "Fundador + 1-2 pessoas-chave"
+            description: "Reduzido a 1-3 candidatos, um passo da oferta"
+            success_criteria: "Decisão Hell Yes or No com scorecard completo"
+
+      - id: "RL-MET-002"
+        title: "Ordem de Implementação Founder First Hiring"
+        statement: "7 passos em ordem para implementar sistema de contratação."
+        weight: 0.90
+        chunk_ids: ["RL001_023"]
+        source_ids: ["RL001"]
+        application: "Implementação do sistema de contratação"
+        steps:
+          - step: 1
+            name: "Autoconhecimento do Fundador"
+            description: "Completar 3 avaliações: DISC, CliftonStrengths, Working Genius"
+            success_criteria: "Fundador conhece seu perfil completo"
+          - step: 2
+            name: "Trust Builders"
+            description: "Executar 3 cenários de construção de confiança"
+            success_criteria: "Lista de traços extraídos dos WHOs"
+          - step: 3
+            name: "Trust Breakers"
+            description: "Executar 3 cenários de quebra de confiança"
+            success_criteria: "Lista de anti-padrões para filtrar"
+          - step: 4
+            name: "Construir Scorecard"
+            description: "Criar scorecard sem 7s, mínimo 8 em não-negociáveis"
+            success_criteria: "Scorecard pronto para uso"
+          - step: 5
+            name: "Processo Multi-Estágio"
+            description: "Implementar phone screen que filtra básicos"
+            success_criteria: "Triagem eficiente funcionando"
+          - step: 6
+            name: "Assessment + Panel"
+            description: "Implementar avaliação paga + entrevista em painel"
+            success_criteria: "Processo validando competência + compatibilidade"
+          - step: 7
+            name: "Hell Yes or Nothing"
+            description: "Tornar 'contratar ninguém' resultado aceitável explícito"
+            success_criteria: "Equipe sabe que pode rejeitar todos"
+
+      - id: "RL-MET-003"
+        title: "Protocolo Fofoca Morre Aqui"
+        statement: "Processo para eliminar fofoca da cultura."
+        quote: "Você sabe quantas pessoas fofocam depois disso? Nenhuma. Muito desconfortável."
+        weight: 0.85
+        chunk_ids: ["RL001_024"]
+        source_ids: ["RL001"]
+        application: "Cultura, eliminação de fofoca"
+        steps:
+          - step: 1
+            name: "Detectar"
+            description: "Alguém traz fofoca para liderança"
+            success_criteria: "Fofoca identificada"
+          - step: 2
+            name: "Reunir"
+            description: "Liderança pega AMBAS as partes (fofoqueiro + assunto)"
+            success_criteria: "Ambas as pessoas na mesma sala"
+          - step: 3
+            name: "Confrontar"
+            description: "Fazer fofoqueiro repetir na cara do assunto"
+            success_criteria: "Fofoca exposta diretamente"
+          - step: 4
+            name: "Resolver"
+            description: "Trabalhar através do conflito (desconfortável)"
+            success_criteria: "Conflito resolvido ou documentado"
+
+# ==========================================================================
+# METADATA
+# ==========================================================================
+metadata:
+  format: "unified-dna-v1"
+  migrated_from: "legacy-5-file-format"
+  migration_date: "2026-03-02"
+  original_extraction: "2025-12-28"
+  protocol: "DNA-EXTRACTION-PROTOCOL v1.0"
+  extractor: "Claude Opus 4.5"
+  weight_average: 0.89
+  high_confidence_items: 18
+  sources:
+    - id: "RL001"
+      title: "Founder First Hiring"
+      type: "lecture"
+      date: "2023-05"
+      empresa: "The Scalable Company"
+      chunks_extracted: 24
+  behavioral_patterns:
+    central_philosophy: "Empresas se movem na velocidade do fundador - contratação egoísta é boa"
+    approach: "Founder First - otimização de energia do fundador, não conformidade de RH"
+    decision_style: "Hell Yes or No - binário, sem meios-termos"
+    communication: "Direto, estruturado (1-3-1), sem fofoca"
+    framework_origin: "Nascido do fracasso, não da teoria"

@@ -1,0 +1,90 @@
+# HEURISTICAS - JEREMY HAYNES
+# Regras com THRESHOLD NUMERICO no formato "Se X entao Y"
+# Versao: 1.0.0 | Criado: 2025-12-28
+
+versao: "1.0.0"
+pessoa: "Jeremy Haynes"
+camada: "HEURISTICAS"
+total_itens: 6
+
+itens:
+  - id: "JH-HEU-001"
+    titulo: "99% Booking Rate"
+    descricao: "Se Calendly EMBUTIDO no TypeForm, booking rate = 99%. Separado = 50%."
+    peso: 0.95
+    chunks:
+      - "JH002_002"
+    fontes:
+      - "JH002"
+    regra: "SE Calendly embutido no TypeForm ENTAO 99% booking vs 50% separado"
+    threshold: "99% vs 50%"
+    aplicacao: "Estruturacao de funil, ferramentas"
+
+  - id: "JH-HEU-002"
+    titulo: "Income Qualification $100k+"
+    descricao: "Se cliente fatura $100k+/mes, esta qualificado para $10k/mes de ticket."
+    peso: 0.90
+    chunks:
+      - "JH001_007"
+    fontes:
+      - "JH001"
+    regra: "SE income >= $100k/mes ENTAO qualificado para $10k/mes"
+    threshold: "$100k/mes"
+    aplicacao: "Qualificacao de leads, filtro de entrada"
+
+  - id: "JH-HEU-003"
+    titulo: "97% Retencao com Annual Commitment"
+    descricao: "Se commitment anual obrigatorio, churn anualizado = 3.4-3.7%."
+    peso: 0.90
+    chunks:
+      - "JH001_008"
+    fontes:
+      - "JH001"
+    regra: "SE annual commitment ENTAO churn = 3-4%"
+    threshold: "3.4-3.7% churn = 97% retencao"
+    aplicacao: "Estruturacao de contrato, reducao de churn"
+
+  - id: "JH-HEU-004"
+    titulo: "12 Emails + 4 Texts em 48h"
+    descricao: "Hammer Strategy: 12 emails + 4 texts + content ads em 48h = 50-80% show rate."
+    peso: 0.90
+    chunks:
+      - "JH002_003"
+    fontes:
+      - "JH002"
+    regra: "SE 12 emails + 4 texts em 48h ENTAO 50-80% show rate"
+    threshold: "12 emails, 4 texts, 11 content ads em 48h"
+    aplicacao: "Show rate optimization, follow-up sequence"
+
+  - id: "JH-HEU-005"
+    titulo: "Email Open Rate 50-80%"
+    descricao: "Se emails com framing content (nao lembretes), open rate = 50-80%."
+    peso: 0.85
+    chunks:
+      - "JH002_004"
+    fontes:
+      - "JH002"
+    regra: "SE framing content (testimonials, objection handling) ENTAO 50-80% open rate"
+    threshold: "50-80% open rate"
+    aplicacao: "Conteudo de emails, estrategia de nurturing"
+
+  - id: "JH-HEU-006"
+    titulo: "Cost per Call Range"
+    descricao: "Cost per call entre $50-$900 e range valido para call funnels."
+    peso: 0.85
+    chunks:
+      - "JH002_005"
+    fontes:
+      - "JH002"
+    regra: "SE cost per call entre $50-$900 ENTAO range valido"
+    threshold: "$50-$900"
+    aplicacao: "Orcamento de marketing, ROI de campanhas"
+
+metadados:
+  total_chunks_processados: 6
+  fontes_utilizadas:
+    - "JH001"
+    - "JH002"
+  peso_medio: 0.89
+  criado_em: "2025-12-28T00:00:00Z"
+  protocolo: "DNA-EXTRACTION-PROTOCOL v1.0"

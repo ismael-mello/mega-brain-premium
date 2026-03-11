@@ -1,0 +1,136 @@
+# FRAMEWORKS - RICHARD LINDER
+# Estruturas nomeadas com componentes definidos (sem ordem rigida)
+# Versao: 1.0.0 | Criado: 2025-12-28
+
+versao: "1.0.0"
+pessoa: "Richard Linder"
+camada: "FRAMEWORKS"
+total_itens: 6
+
+itens:
+  - id: "RL-FRM-001"
+    titulo: "Trindade de Avaliacao de Estilo de Trabalho"
+    descricao: "Tres avaliacoes para prevenir contratar clones de si mesmo."
+    peso: 0.90
+    chunks:
+      - "RL001_016"
+    fontes:
+      - "RL001"
+    componentes:
+      - nome: "DISC"
+        descricao: "Quadrantes D/I/S/C - estilo de comunicacao"
+        uso: "Identifique se ha complementaridade ou conflito"
+      - nome: "CliftonStrengths"
+        descricao: "Top 5 + Bottom 5 tracos em 4 dominios"
+        uso: "Revela o que compensar nas contratacoes"
+      - nome: "Working Genius"
+        descricao: "2 genius, 2 frustration, 2 competency"
+        uso: "Alinhamento de fluxo de trabalho"
+    aplicacao: "Avaliacao de candidatos, autoconhecimento do fundador"
+    aviso: "Nao construa uma equipe que se parece exatamente com voce."
+
+  - id: "RL-FRM-002"
+    titulo: "Trust Builders Discovery"
+    descricao: "3 cenarios para descobrir em quem voce ja confia."
+    peso: 0.90
+    chunks:
+      - "RL001_017"
+    fontes:
+      - "RL001"
+    componentes:
+      - nome: "Reuniao Produtiva"
+        pergunta: "QUEM liderou reuniao onde voce saiu com MAIS energia?"
+      - nome: "Go-To GSD"
+        pergunta: "QUEM voce entrega tarefa urgente + importante?"
+      - nome: "Colaborador Confiavel"
+        pergunta: "QUEM voce liga para fazer brainstorm de nova ideia?"
+    aplicacao: "Extrair tracos comuns dos WHOs reais"
+    output: "Lista de tracos nao-negociaveis para contratacao"
+
+  - id: "RL-FRM-003"
+    titulo: "Trust Breakers Discovery"
+    descricao: "3 cenarios invertidos para descobrir anti-padroes."
+    peso: 0.90
+    chunks:
+      - "RL001_018"
+    fontes:
+      - "RL001"
+    componentes:
+      - nome: "Reuniao Por Que Estamos Aqui"
+        pergunta: "QUEM convocou reuniao sem proposito claro que te drenou?"
+      - nome: "Vou Fazer Eu Mesmo"
+        pergunta: "QUEM deveria ter lidado mas voce escolheu fazer voce mesmo?"
+      - nome: "Convite Relutante"
+        pergunta: "QUEM te da sentimento de afundamento quando precisa convidar?"
+    aplicacao: "Extrair anti-padroes para filtrar OUT"
+    output: "Lista de tracos para rejeitar impiedosamente"
+
+  - id: "RL-FRM-004"
+    titulo: "Hiring Scorecard"
+    descricao: "Estrutura para avaliacao objetiva de candidatos."
+    peso: 0.90
+    chunks:
+      - "RL001_019"
+    fontes:
+      - "RL001"
+    componentes:
+      - "Secao de competencia"
+      - "Secao de compatibilidade"
+      - "Mapeamento de avaliacoes (DISC, CliftonStrengths, Working Genius)"
+      - "Perguntas baseadas em cenarios (trust builders/breakers)"
+      - "Faixa salarial confirmada vs esperada"
+      - "Data de inicio"
+    aplicacao: "Avaliacao estruturada de candidatos"
+    regras:
+      - "Remover 7 da pontuacao"
+      - "Minimo 8 em nao-negociaveis"
+      - "Decisao final: Perfect Fit / Possible Fit (= nao) / Not a Fit"
+
+  - id: "RL-FRM-005"
+    titulo: "Os 8 Limitadores de Escala"
+    descricao: "Framework diagnostico para categorizar problemas de negocio."
+    peso: 0.85
+    chunks:
+      - "RL001_020"
+    fontes:
+      - "RL001"
+    componentes:
+      - "1. Falta de Clareza - visao pouco inspiradora"
+      - "2. Demanda Insuficiente - nao ha clientes suficientes"
+      - "3. Estrategia Ruim - coisas erradas, momento errado"
+      - "4. Sistemas - processos nao documentados"
+      - "5. Equipe Errada - pessoas erradas ou no lugar errado"
+      - "6. Comunicacao Ruim - ninguem sabe o que importa"
+      - "7. Capital Insuficiente - sem fluxo de caixa suficiente"
+      - "8. Desalinhamento de Impacto - objetivos fundador != empresa"
+    aplicacao: "Diagnostico de problemas, foco de solucao"
+
+  - id: "RL-FRM-006"
+    titulo: "Valores Centrais da Scalable (5 Nao-Negociaveis)"
+    descricao: "Valores inegociaveis que funcionam como filtro de contratacao."
+    peso: 0.85
+    chunks:
+      - "RL001_021"
+    fontes:
+      - "RL001"
+    componentes:
+      - nome: "Amamos Empreendedores"
+        descricao: "Nossa honra ajuda-los a fazer a diferenca"
+      - nome: "Batteries Included"
+        descricao: "Nao REQUER elogio/recompensa para ter desempenho"
+      - nome: "Elevamos o Padrao"
+        descricao: "Nunca paramos de aprender, contratamos pessoas mais inteligentes"
+      - nome: "Lavamos a Louca"
+        descricao: "Nenhum trabalho esta abaixo de nos se serve colegas ou clientes"
+      - nome: "Buscamos o Por Que"
+        descricao: "'E como sempre fizemos' nunca e aceitavel"
+    aplicacao: "Filtro de contratacao, cultura"
+    nao_negociaveis_richard: ["Batteries Included", "Lavamos a Louca"]
+
+metadados:
+  total_chunks_processados: 6
+  fontes_utilizadas:
+    - "RL001"
+  peso_medio: 0.88
+  criado_em: "2025-12-28T00:00:00Z"
+  protocolo: "DNA-EXTRACTION-PROTOCOL v1.0"

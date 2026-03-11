@@ -1,0 +1,165 @@
+# MAP-CONFLITOS.yaml
+# Mapa de Conflitos entre Fontes de DNA
+#
+# Versao: 1.0.0
+# Data: 2025-12-23
+# Proposito: Documentar divergencias entre pessoas e regras de resolucao
+
+versao: "1.0.0"
+atualizado_em: "2025-12-23"
+
+# ═══════════════════════════════════════════════════════════════════════════════
+# TIPOS DE CONFLITO
+# ═══════════════════════════════════════════════════════════════════════════════
+#
+# contextual: Ambos corretos em contextos diferentes
+# hierarquica: Uma fonte mais confiavel que outra neste tema
+# complementar: Posicoes complementares, nao contraditorias
+# irresolvivel: Conflito genuino - apresentar ambas posicoes
+#
+# ═══════════════════════════════════════════════════════════════════════════════
+
+conflitos:
+
+  # ═══════════════════════════════════════════════════════════════════════════
+  # CONFLITOS EM COMPENSATION
+  # ═══════════════════════════════════════════════════════════════════════════
+
+  - id: "CONF-COMP-001"
+    tema: "compensation"
+    subtema: "comissao_de_closers"
+    descricao: "Percentual ideal de comissao para closers"
+
+    posicoes:
+      - pessoa: "alex-hormozi"
+        posicao: "10-15% de comissao sobre venda"
+        contexto: "High-ticket $10k+, margem alta"
+        evidencia: "HEUR-AH-XXX"
+
+      - pessoa: "cole-gordon"
+        posicao: "8-12% de comissao + bonus por meta"
+        contexto: "Sales org estruturada, volume medio"
+        evidencia: "HEUR-CG-XXX"
+
+    tipo: "contextual"
+
+    resolucao:
+      regra: |
+        SE ticket > $15k E margem > 60%:
+          USAR: ALEX-HORMOZI (10-15%)
+        SE ticket $5-15k E time > 3 closers:
+          USAR: COLE-GORDON (8-12% + bonus)
+        SE incerto:
+          APRESENTAR: Ambas posicoes com contexto
+
+      nota: "Diferenca e de contexto, nao de principio"
+
+  # ═══════════════════════════════════════════════════════════════════════════
+  # CONFLITOS EM HIRING
+  # ═══════════════════════════════════════════════════════════════════════════
+
+  - id: "CONF-HIRE-001"
+    tema: "hiring"
+    subtema: "experiencia_vs_potencial"
+    descricao: "Priorizar experiencia ou potencial de aprendizado"
+
+    posicoes:
+      - pessoa: "alex-hormozi"
+        posicao: "Contratar por atitude, treinar skill"
+        contexto: "Escala rapida, cultura forte"
+        evidencia: "FIL-AH-XXX"
+
+      - pessoa: "cole-gordon"
+        posicao: "Experiencia em high-ticket e pre-requisito"
+        contexto: "Time maduro, processo estabelecido"
+        evidencia: "FIL-CG-XXX"
+
+    tipo: "contextual"
+
+    resolucao:
+      regra: |
+        SE primeiro closer E fundador ainda vende:
+          USAR: COLE-GORDON (experiencia obrigatoria)
+        SE escala rapida E cultura definida:
+          USAR: ALEX-HORMOZI (atitude > skill)
+        SE incerto:
+          APRESENTAR: Ambas posicoes
+
+      nota: "Ambos concordam em ter processo de onboarding forte"
+
+  # ═══════════════════════════════════════════════════════════════════════════
+  # CONFLITOS EM VENDAS
+  # ═══════════════════════════════════════════════════════════════════════════
+
+  - id: "CONF-VEND-001"
+    tema: "vendas"
+    subtema: "desconto"
+    descricao: "Politica de desconto em fechamento"
+
+    posicoes:
+      - pessoa: "alex-hormozi"
+        posicao: "NUNCA dar desconto - valor > preco"
+        contexto: "Oferta irresistivel, high-margin"
+        evidencia: "FIL-AH-XXX"
+
+      - pessoa: "cole-gordon"
+        posicao: "Desconto estrategico em casos especificos"
+        contexto: "Recuperar deal perdido, cash upfront"
+        evidencia: "HEUR-CG-XXX"
+
+    tipo: "complementar"
+
+    resolucao:
+      regra: |
+        REGRA BASE: Nao dar desconto (ALEX-HORMOZI)
+        EXCECAO: Se lead qualificado e objecao unica e preco E
+                 pode recuperar com cash upfront (COLE-GORDON)
+
+      nota: "Desconto nunca deve ser primeira opcao"
+
+# ═══════════════════════════════════════════════════════════════════════════════
+# TEMPLATE PARA NOVOS CONFLITOS
+# ═══════════════════════════════════════════════════════════════════════════════
+
+#  - id: "CONF-XXX-NNN"
+#    tema: ""
+#    subtema: ""
+#    descricao: ""
+#
+#    posicoes:
+#      - pessoa: ""
+#        posicao: ""
+#        contexto: ""
+#        evidencia: ""
+#
+#      - pessoa: ""
+#        posicao: ""
+#        contexto: ""
+#        evidencia: ""
+#
+#    tipo: "contextual|hierarquica|complementar|irresolvivel"
+#
+#    resolucao:
+#      regra: |
+#        SE [condicao]:
+#          USAR: [pessoa]
+#        SE [outra condicao]:
+#          USAR: [outra pessoa]
+#
+#      nota: ""
+
+# ═══════════════════════════════════════════════════════════════════════════════
+# ESTATISTICAS
+# ═══════════════════════════════════════════════════════════════════════════════
+
+estatisticas:
+  total_conflitos: 3
+  por_tipo:
+    contextual: 2
+    hierarquica: 0
+    complementar: 1
+    irresolvivel: 0
+  por_tema:
+    compensation: 1
+    hiring: 1
+    vendas: 1

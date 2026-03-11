@@ -1,0 +1,428 @@
+# Jordan Lee - Cognitive DNA (Unified Format)
+# Source: AI Acquisition - Podcasts & Masterclasses (9 sources)
+# Expertise: AI-First Sales Scaling, High Performance Culture, Talent Acquisition
+# Total elements: 26 | Migrated from legacy 5-file format: 2026-03-02
+# Original extraction: 2025-12-27 | Protocol: DNA-EXTRACTION-PROTOCOL v1.0
+
+person:
+  name: "Jordan Lee"
+  empresa: "AI Acquisition"
+  localizacao: "Dubai (origem: Newcastle, UK)"
+  source: "Charlie Johnson Show, Max Tornow Podcast, Masterclasses (9 sources)"
+  total_chunks: 52
+  key_people:
+    partner: "Jacob Levine (50/50, Head of Marketing)"
+    cto: "Blaze (21 anos, polonês)"
+    head_sales: "Matt (25 anos, 38/39 close rate)"
+  sintese: |
+    Jordan Lee é fundador da AI Acquisition, escalando de zero a $4-6M/mês em ~3 anos,
+    bootstrapped. Filosofia central: COMPETÊNCIA sobre EXPERIÊNCIA, priorizando jovens
+    com alto potencial. Framework diagnóstico People-Process-Management para categorizar
+    problemas antes de agir. Metodologia Do-Document-Delegate para escalar processos.
+    Destaca-se pelo uso intensivo de AI (substituindo SDRs e PMs, AI Sales Call Analyzer
+    para QC) e cultura de alta performance.
+
+layers:
+
+  # ==========================================================================
+  # L1: PHILOSOPHIES (6 items)
+  # ==========================================================================
+  L1_PHILOSOPHIES:
+    count: 6
+    items:
+
+      - id: "JL-FIL-001"
+        title: "Competency > Experience"
+        statement: "Prefiro contratar jovens competentes a experientes medíocres. Se você tem 40 e não é rico, ou estava trabalhando na coisa errada ou você é ruim."
+        quote: "If you're 40 and you're not rich yet, you either have been working on the wrong thing or you're just shit"
+        weight: 0.90
+        chunk_ids: ["CJ001_005", "CJ001_006"]
+        source_ids: ["CJ001"]
+        application: "Contratação, avaliação de talentos"
+
+      - id: "JL-FIL-002"
+        title: "Urgency = Success"
+        statement: "Elon Musk e Jeff Bezos compartilham uma coisa: urgência extrema. Vamos resolver agora. Não amanhã. Agora. A maioria opera em modo 'eventualmente'. Os melhores operam em modo 'agora'."
+        quote: "We're getting on a call now, solving it now"
+        weight: 0.90
+        chunk_ids: ["CJ001_011"]
+        source_ids: ["CJ001"]
+        application: "Tomada de decisão, cultura organizacional"
+
+      - id: "JL-FIL-003"
+        title: "10x Thinking > 2x Thinking"
+        statement: "Quando dobrar parece boring, você não está pensando grande o suficiente. Cliente em 30-40k/mês disse que estava 'entediado'. Resposta: 'You are far too broke to be bored.'"
+        quote: "You are far too broke to be bored. You're not thinking big enough."
+        weight: 0.85
+        chunk_ids: ["CJ001_008"]
+        source_ids: ["CJ001"]
+        application: "Definição de metas, estratégia de crescimento"
+
+      - id: "JL-FIL-004"
+        title: "Ideas vs Execution"
+        statement: "Ninguém liga para sua ideia. A ideia do Jeff Bezos era uma livraria. Não é grande ideia. É a EXECUÇÃO que faz a diferença."
+        quote: "A ideia do Jeff Bezos era uma livraria. Não é grande ideia. É a EXECUÇÃO."
+        weight: 0.85
+        chunk_ids: ["CJ001_009"]
+        source_ids: ["CJ001"]
+        application: "Avaliação de oportunidades, foco operacional"
+
+      - id: "JL-FIL-005"
+        title: "Play to Win, Not to Not Lose"
+        statement: "Modo defensivo mata crescimento. Cair em play not to lose em 500-700k/mês machucou o crescimento. Jogar para ganhar, não jogar para não perder."
+        weight: 0.80
+        chunk_ids: ["CJ001_011"]
+        source_ids: ["CJ001"]
+        application: "Mentalidade de crescimento, decisões de risco"
+
+      - id: "JL-FIL-006"
+        title: "CEOs Are Unreasonable People"
+        statement: "Os melhores CEOs e atletas são pessoas não razoáveis. Se você está sendo muito razoável, está limitando seu crescimento."
+        quote: "CEOs are unreasonable people. The best sports people are unreasonable people. You are being too reasonable."
+        weight: 0.80
+        chunk_ids: ["CJ001_011"]
+        source_ids: ["CJ001"]
+        application: "Liderança, definição de expectativas"
+
+  # ==========================================================================
+  # L2: MENTAL MODELS (5 items)
+  # ==========================================================================
+  L2_MENTAL_MODELS:
+    count: 5
+    items:
+
+      - id: "JL-MM-001"
+        title: "People-Process-Management Diagnostic"
+        statement: "Todo problema de negócio cai em uma dessas três categorias: PEOPLE (pessoa errada no cargo), PROCESS (sistema não documentado), MANAGEMENT (gestão inadequada). Diagnostique ANTES de agir."
+        trigger_question: "Este problema é de People, Process ou Management?"
+        weight: 0.95
+        chunk_ids: ["CJ001_011"]
+        source_ids: ["CJ001"]
+        application: "Diagnóstico de problemas, priorização de soluções"
+
+      - id: "JL-MM-002"
+        title: "Effectiveness Before Efficiency"
+        statement: "Primeiro seja bom, depois otimize. Não adianta ser eficiente em algo que não funciona. Valide a eficácia antes de escalar."
+        trigger_question: "Isso já está funcionando (eficaz) ou estou otimizando algo quebrado?"
+        weight: 0.80
+        chunk_ids: ["CJ001_009"]
+        source_ids: ["CJ001"]
+        application: "Priorização de melhorias, validação de processos"
+
+      - id: "JL-MM-003"
+        title: "Objections as Buying Signals"
+        statement: "Se não estou interessado, saio da call. Se pergunto, estou interessado. Objeções são sinais de interesse, não de rejeição."
+        trigger_question: "Este prospect está fazendo perguntas ou simplesmente saindo?"
+        quote: "If I'm not interested, I'll just leave the call. If I'm asking questions, I'm interested."
+        weight: 0.85
+        chunk_ids: ["CJ001_012"]
+        source_ids: ["CJ001"]
+        application: "Vendas, qualificação de leads"
+
+      - id: "JL-MM-004"
+        title: "Presence > Pitch"
+        statement: "Pessoas não compram por pitch perfeito. Compram por sua presença. A energia e confiança que você transmite importa mais que as palavras."
+        trigger_question: "Estou focando em presença ou apenas em script?"
+        quote: "People don't buy because of perfect pitch. They buy because of your presence."
+        weight: 0.80
+        chunk_ids: ["CJ001_012"]
+        source_ids: ["CJ001"]
+        application: "Vendas, comunicação, liderança"
+
+      - id: "JL-MM-005"
+        title: "Peak Growth Potential Window"
+        statement: "A-players nos 20s serão multi-milionários/bilionários aos 30-50. É por isso que não vão trabalhar para você depois. Contrate pessoas no PICO do potencial de crescimento."
+        trigger_question: "Esta pessoa está no pico do potencial de crescimento ou já estabilizou?"
+        weight: 0.85
+        chunk_ids: ["CJ001_006"]
+        source_ids: ["CJ001"]
+        application: "Contratação, retenção de talentos"
+
+  # ==========================================================================
+  # L3: HEURISTICS (8 items)
+  # ==========================================================================
+  L3_HEURISTICS:
+    count: 8
+    items:
+
+      - id: "JL-HEU-001"
+        title: "Regra dos 40 Anos"
+        statement: "Se você tem 40 anos e não é rico, ou estava trabalhando na coisa errada ou você é ruim. Use isso como filtro de contratação."
+        quote: "If you're 40 and you're not rich yet, you either have been working on the wrong thing or you're just shit"
+        threshold: "40 anos sem riqueza = red flag"
+        weight: 0.90
+        chunk_ids: ["CJ001_005", "CJ001_006"]
+        source_ids: ["CJ001"]
+        application: "Contratação, avaliação de candidatos sênior"
+
+      - id: "JL-HEU-002"
+        title: "AI Replacement Timeline"
+        statement: "Sales reps serão substituídos por AI em 6-12 meses. Higher level sales (relationship-based enterprise, >$100k) não será substituído."
+        threshold: "6-12 meses para substituição de vendedores por AI"
+        weight: 0.85
+        chunk_ids: ["CJ001_014"]
+        source_ids: ["CJ001"]
+        application: "Planejamento de headcount, investimento em AI"
+        nuance: "Vendas abaixo de $100K são 'low ticket' na perspectiva enterprise"
+
+      - id: "JL-HEU-003"
+        title: "Variable Cost Target"
+        statement: "Manter 70% dos custos como variáveis. Contrate apenas salespeople, consultants e criativos. SDRs e PMs substituídos por AI."
+        threshold: "70% custos variáveis"
+        weight: 0.85
+        chunk_ids: ["CJ001_014"]
+        source_ids: ["CJ001"]
+        application: "Estrutura de custos, decisões de contratação"
+
+      - id: "JL-HEU-004"
+        title: "Top Performer Earning"
+        statement: "Top sales reps podem fazer $45-50k/mês, chegando até $70k com gamificação (Million-dollar club, double commissions)."
+        threshold: "$45-50k/mês para top performers, até $70k com bônus"
+        weight: 0.90
+        chunk_ids: ["CJ001_012"]
+        source_ids: ["CJ001"]
+        application: "Desenho de compensation, atração de talentos"
+
+      - id: "JL-HEU-005"
+        title: "Enterprise Value Factors"
+        statement: "6 fatores que determinam enterprise value: High growth (revenue), Profitability model (reinvestir, não lifestyle), Scalability (productized), Recurring revenue, Proprietary AI/tech, Low dependency on founder."
+        threshold: "6 fatores para maximizar valuation"
+        weight: 0.90
+        chunk_ids: ["CJ001_013"]
+        source_ids: ["CJ001"]
+        application: "Preparação para exit, decisões estratégicas"
+
+      - id: "JL-HEU-006"
+        title: "Scale Capacity"
+        statement: "Com 70 closers, capacidade de 300 calls/dia. Approximately 4.3 calls por closer por dia."
+        threshold: "4-5 calls/closer/dia"
+        weight: 0.85
+        chunk_ids: ["CJ001_003", "CJ001_004"]
+        source_ids: ["CJ001"]
+        application: "Dimensionamento de time, capacity planning"
+
+      - id: "JL-HEU-007"
+        title: "Irreplaceable Core"
+        statement: "Com 240 funcionários, apenas 3 pessoas são irreplaceáveis além do co-fundador. Manter core team pequeno e de alta confiança."
+        threshold: "3 pessoas irreplaceáveis em 240 funcionários (~1.25%)"
+        weight: 0.80
+        chunk_ids: ["CJ001_010"]
+        source_ids: ["CJ001"]
+        application: "Gestão de pessoas-chave, planejamento de sucessão"
+
+      - id: "JL-HEU-008"
+        title: "Closer Close Rate"
+        statement: "Matt (Head of Sales) fechou 38/39 calls sem experiência prévia. Competency e training > experiência."
+        threshold: "97% close rate possível com pessoa certa + training"
+        weight: 0.85
+        chunk_ids: ["CJ001_006", "CJ001_010"]
+        source_ids: ["CJ001"]
+        application: "Seleção de closers, validação de potencial"
+
+  # ==========================================================================
+  # L4: FRAMEWORKS (4 items)
+  # ==========================================================================
+  L4_FRAMEWORKS:
+    count: 4
+    items:
+
+      - id: "JL-FW-001"
+        title: "People-Process-Management Framework"
+        statement: "Todo problema de negócio cai em uma dessas três categorias. Diagnostique ANTES de agir."
+        weight: 0.95
+        chunk_ids: ["CJ001_011"]
+        source_ids: ["CJ001"]
+        application: "Diagnóstico de problemas operacionais"
+        usage_rule: "Diagnostique primeiro. Não assuma."
+        components:
+          - name: "PEOPLE"
+            description: "Pessoa errada no cargo"
+            solution: "Treinar ou substituir"
+          - name: "PROCESS"
+            description: "Sistema não documentado ou quebrado"
+            solution: "Do, Document, Delegate"
+          - name: "MANAGEMENT"
+            description: "Gestão inadequada"
+            solution: "Accountability + feedback"
+
+      - id: "JL-FW-002"
+        title: "Do-Document-Delegate Framework"
+        statement: "Como escalar qualquer processo de forma sustentável."
+        weight: 0.90
+        chunk_ids: ["CJ001_004"]
+        source_ids: ["CJ001"]
+        application: "Escalabilidade, delegação, sistemas"
+        components:
+          - name: "DO"
+            description: "Faça você mesmo primeiro"
+            skip_consequence: "Se pula, não entende"
+          - name: "DOCUMENT"
+            description: "Documente o processo"
+            skip_consequence: "Se pula, não escala"
+          - name: "DELEGATE"
+            description: "Delegue com o documento"
+            skip_consequence: "Se pula, você continua preso"
+
+      - id: "JL-FW-003"
+        title: "Enterprise Value Framework"
+        statement: "6 fatores que determinam o valor de empresa para venda/investimento."
+        weight: 0.90
+        chunk_ids: ["CJ001_013"]
+        source_ids: ["CJ001"]
+        application: "Preparação para exit, decisões de product-market"
+        example: "Wiz: 5 anos, vendida por $32B = $16M/dia de enterprise value"
+        components:
+          - name: "High Growth"
+            description: "Crescimento de revenue"
+          - name: "Profitability Model"
+            description: "Para reinvestir, não lifestyle"
+          - name: "Scalability"
+            description: "Productized approach"
+          - name: "Recurring Revenue"
+            description: "Receita recorrente"
+          - name: "Proprietary AI/Tech"
+            description: "Tecnologia proprietária"
+          - name: "Low Founder Dependency"
+            description: "Baixa dependência do fundador"
+
+      - id: "JL-FW-004"
+        title: "Naval's 3 Factors Framework"
+        statement: "3 fatores que determinam qualidade de vida e sucesso."
+        weight: 0.75
+        chunk_ids: ["CJ001_001"]
+        source_ids: ["CJ001"]
+        application: "Decisões de lifestyle, otimização de ambiente"
+        components:
+          - name: "Onde você vive"
+            example: "Dubai"
+          - name: "O que faz"
+            example: "AI"
+          - name: "Com quem faz"
+            example: "Grandes pessoas"
+
+  # ==========================================================================
+  # L5: METHODOLOGIES (3 items)
+  # ==========================================================================
+  L5_METHODOLOGIES:
+    count: 3
+    items:
+
+      - id: "JL-MET-001"
+        title: "Talent Acquisition VSL Method"
+        statement: "Tratamento de job ads como Video Sales Letters para atrair top talent."
+        weight: 0.85
+        chunk_ids: ["CJ001_004", "CJ001_005"]
+        source_ids: ["CJ001"]
+        application: "Recrutamento, atração de talentos"
+        resources: "Dois recruiters internos + plataformas AI"
+        steps:
+          - step: 1
+            name: "Criar VSL Job Ad"
+            description: "Job ad deve vender o sonho, mostrar a visão"
+            success_criteria: "Candidato quer a visão, não só o salário"
+          - step: 2
+            name: "Título Aspiracional"
+            description: "Postar 'Sales Director' para atrair Sales Managers que querem subir"
+            success_criteria: "Atrai candidatos ambiciosos, não apenas matching"
+          - step: 3
+            name: "Negociação por Valor"
+            description: "Negociar salário baseado em valor entregue"
+            success_criteria: "Alinhamento de expectativas com resultados"
+          - step: 4
+            name: "Onboarding com Visão"
+            description: "Talento compra visão, não só salário"
+            success_criteria: "Retenção de A-players"
+
+      - id: "JL-MET-002"
+        title: "AI Sales Call Analyzer Implementation"
+        statement: "Sistema de análise de calls usando AI para coaching em escala."
+        quote: "É como ter um mentor pessoal para cada closer."
+        weight: 0.90
+        chunk_ids: ["CJ001_016"]
+        source_ids: ["CJ001"]
+        application: "QC de vendas, coaching em escala"
+        result: "Passou de 2 calls/week para EVERY single call reviewed"
+        steps:
+          - step: 1
+            name: "Integrar com Slack"
+            description: "Conectar analyzer ao canal de comunicação do time"
+          - step: 2
+            name: "Rastrear Compliance"
+            description: "Verificar aderência ao script"
+          - step: 3
+            name: "Analisar Tonalidade"
+            description: "Avaliar tom de voz e energia"
+          - step: 4
+            name: "Cross-reference Training"
+            description: "Comparar com centenas de vídeos de treinamento"
+          - step: 5
+            name: "Feedback Personalizado"
+            description: "Gerar feedback automático e específico"
+
+      - id: "JL-MET-003"
+        title: "Sales Team Structure"
+        statement: "Estrutura organizacional para time de vendas high-ticket em escala."
+        weight: 0.85
+        chunk_ids: ["CJ001_010"]
+        source_ids: ["CJ001"]
+        application: "Estruturação de time de vendas"
+        capacity: "300 calls/dia com 70 closers"
+        steps:
+          - step: 1
+            name: "Closers (70)"
+            description: "Base do time, executam as vendas"
+          - step: 2
+            name: "Team Leads"
+            description: "Com overrides sobre performance"
+          - step: 3
+            name: "RevOps"
+            description: "Booking, calendars, CRM, follow-up, payment links"
+          - step: 4
+            name: "Sales Coach"
+            description: "Assiste calls e dá feedback"
+
+# ==========================================================================
+# METADATA
+# ==========================================================================
+metadata:
+  format: "unified-dna-v1"
+  migrated_from: "legacy-5-file-format"
+  migration_date: "2026-03-02"
+  original_extraction: "2025-12-27"
+  protocol: "DNA-EXTRACTION-PROTOCOL v1.0"
+  pipeline: "Jarvis v2.1"
+  weight_average: 0.86
+  high_confidence_items: 26
+  sources:
+    - id: "CJ001"
+      title: "Charlie Johnson Show - Jordan Lee Interview"
+      type: "podcast"
+    - id: "MT001"
+      title: "Max Tornow Podcast - Jordan Lee"
+      type: "podcast"
+    - id: "JL001"
+      title: "Jordan Lee Masterclass 1"
+      type: "masterclass"
+    - id: "JL002"
+      title: "Jordan Lee Masterclass 2"
+      type: "masterclass"
+    - id: "JL003"
+      title: "Jordan Lee Masterclass 3"
+      type: "masterclass"
+    - id: "JL004"
+      title: "Jordan Lee Masterclass 4"
+      type: "masterclass"
+    - id: "JL005"
+      title: "Jordan Lee Masterclass 5"
+      type: "masterclass"
+    - id: "JL006"
+      title: "Jordan Lee Masterclass 6"
+      type: "masterclass"
+    - id: "JL007"
+      title: "Jordan Lee Masterclass 7"
+      type: "masterclass"
+  behavioral_patterns:
+    hiring: "Contratação de jovens com potencial"
+    urgency: "Urgência extrema na resolução"
+    technology: "AI-first approach"
+    culture: "High performance - eventos só para quem bate meta"

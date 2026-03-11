@@ -1,0 +1,84 @@
+# FILOSOFIAS - JORDAN LEE
+# Crencas fundamentais que aparecem 3+ vezes em contextos diferentes
+# Versao: 1.0.0 | Criado: 2025-12-27
+
+versao: "1.0.0"
+pessoa: "Jordan Lee"
+camada: "FILOSOFIAS"
+total_itens: 6
+
+itens:
+  - id: "JL-FIL-001"
+    titulo: "Competency > Experience"
+    descricao: "Prefiro contratar jovens competentes a experientes medíocres. Se você tem 40 e não é rico, ou estava trabalhando na coisa errada ou você é ruim."
+    peso: 0.90
+    chunks:
+      - "CJ001_005"
+      - "CJ001_006"
+    fontes:
+      - "CJ001"
+    aplicacao: "Contratação, avaliação de talentos"
+    citacao: "If you're 40 and you're not rich yet, you either have been working on the wrong thing or you're just shit"
+
+  - id: "JL-FIL-002"
+    titulo: "Urgency = Success"
+    descricao: "Elon Musk e Jeff Bezos compartilham uma coisa: urgência extrema. Vamos resolver agora. Não amanhã. Agora. A maioria opera em modo 'eventualmente'. Os melhores operam em modo 'agora'."
+    peso: 0.90
+    chunks:
+      - "CJ001_011"
+    fontes:
+      - "CJ001"
+    aplicacao: "Tomada de decisão, cultura organizacional"
+    citacao: "We're getting on a call now, solving it now"
+
+  - id: "JL-FIL-003"
+    titulo: "10x Thinking > 2x Thinking"
+    descricao: "Quando dobrar parece boring, você não está pensando grande o suficiente. Cliente em 30-40k/mês disse que estava 'entediado'. Resposta: 'You are far too broke to be bored.'"
+    peso: 0.85
+    chunks:
+      - "CJ001_008"
+    fontes:
+      - "CJ001"
+    aplicacao: "Definição de metas, estratégia de crescimento"
+    citacao: "You are far too broke to be bored. You're not thinking big enough."
+
+  - id: "JL-FIL-004"
+    titulo: "Ideas vs Execution"
+    descricao: "Ninguém liga para sua ideia. A ideia do Jeff Bezos era uma livraria. Não é grande ideia. É a EXECUÇÃO que faz a diferença."
+    peso: 0.85
+    chunks:
+      - "CJ001_009"
+    fontes:
+      - "CJ001"
+    aplicacao: "Avaliação de oportunidades, foco operacional"
+    citacao: "A ideia do Jeff Bezos era uma livraria. Não é grande ideia. É a EXECUÇÃO."
+
+  - id: "JL-FIL-005"
+    titulo: "Play to Win, Not to Not Lose"
+    descricao: "Modo defensivo mata crescimento. Cair em play not to lose em 500-700k/mês machucou o crescimento. Jogar para ganhar, não jogar para não perder."
+    peso: 0.80
+    chunks:
+      - "CJ001_011"
+    fontes:
+      - "CJ001"
+    aplicacao: "Mentalidade de crescimento, decisões de risco"
+
+  - id: "JL-FIL-006"
+    titulo: "CEOs Are Unreasonable People"
+    descricao: "Os melhores CEOs e atletas são pessoas não razoáveis. Se você está sendo muito razoável, está limitando seu crescimento."
+    peso: 0.80
+    chunks:
+      - "CJ001_011"
+    fontes:
+      - "CJ001"
+    aplicacao: "Liderança, definição de expectativas"
+    citacao: "CEOs are unreasonable people. The best sports people are unreasonable people. You are being too reasonable."
+
+metadados:
+  total_chunks_processados: 9
+  fontes_utilizadas:
+    - "CJ001"
+    - "MT001"
+  peso_medio: 0.85
+  criado_em: "2025-12-27T00:00:00Z"
+  protocolo: "DNA-EXTRACTION-PROTOCOL v1.0"

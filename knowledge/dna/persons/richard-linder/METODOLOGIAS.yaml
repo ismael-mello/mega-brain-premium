@@ -1,0 +1,123 @@
+# METODOLOGIAS - RICHARD LINDER
+# Processos passo-a-passo com ORDEM RIGIDA e criterios de sucesso por etapa
+# Versao: 1.0.0 | Criado: 2025-12-28
+
+versao: "1.0.0"
+pessoa: "Richard Linder"
+camada: "METODOLOGIAS"
+total_itens: 3
+
+itens:
+  - id: "RL-MET-001"
+    titulo: "Processo de Entrevista Multi-Estagio"
+    descricao: "5 estagios em ordem rigida para contratacao Founder First."
+    peso: 0.95
+    chunks:
+      - "RL001_022"
+    fontes:
+      - "RL001"
+    etapas:
+      - passo: 1
+        nome: "Phone Screen"
+        quem: "HR ou Hiring Manager"
+        duracao: "10 minutos"
+        descricao: "Confirmar experiencia, cargo, faixa salarial, remoto/viagem"
+        criterio_sucesso: "AMBAS as partes alinhadas no basico"
+      - passo: 2
+        nome: "Hiring Manager Interview"
+        quem: "Hiring Manager"
+        descricao: "Mergulho profundo em competencia"
+        criterio_sucesso: "Validar habilidades tecnicas"
+      - passo: 3
+        nome: "Paid Skills Assessment"
+        quem: "Candidato"
+        valor: "$1-2k"
+        duracao: "4-8 horas"
+        descricao: "Trabalho real - codificar feature, escrever campanha"
+        criterio_sucesso: "Output utilizavel + prova competencia"
+      - passo: 4
+        nome: "Panel Interview"
+        quem: "Membros da equipe que conhecem o fundador"
+        descricao: "Preencher scorecard, avaliar compatibilidade"
+        criterio_sucesso: "Identificar dinamicas oleo/agua"
+      - passo: 5
+        nome: "Final Interview"
+        quem: "Fundador + 1-2 pessoas-chave"
+        descricao: "Reduzido a 1-3 candidatos, um passo da oferta"
+        criterio_sucesso: "Decisao Hell Yes or No com scorecard completo"
+    aplicacao: "Processo completo de contratacao"
+
+  - id: "RL-MET-002"
+    titulo: "Ordem de Implementacao Founder First Hiring"
+    descricao: "7 passos em ordem para implementar sistema de contratacao."
+    peso: 0.90
+    chunks:
+      - "RL001_023"
+    fontes:
+      - "RL001"
+    etapas:
+      - passo: 1
+        nome: "Autoconhecimento do Fundador"
+        descricao: "Completar 3 avaliacoes: DISC, CliftonStrengths, Working Genius"
+        criterio_sucesso: "Fundador conhece seu perfil completo"
+      - passo: 2
+        nome: "Trust Builders"
+        descricao: "Executar 3 cenarios de construcao de confianca"
+        criterio_sucesso: "Lista de tracos extraidos dos WHOs"
+      - passo: 3
+        nome: "Trust Breakers"
+        descricao: "Executar 3 cenarios de quebra de confianca"
+        criterio_sucesso: "Lista de anti-padroes para filtrar"
+      - passo: 4
+        nome: "Construir Scorecard"
+        descricao: "Criar scorecard sem 7s, minimo 8 em nao-negociaveis"
+        criterio_sucesso: "Scorecard pronto para uso"
+      - passo: 5
+        nome: "Processo Multi-Estagio"
+        descricao: "Implementar phone screen que filtra basicos"
+        criterio_sucesso: "Triagem eficiente funcionando"
+      - passo: 6
+        nome: "Assessment + Panel"
+        descricao: "Implementar avaliacao paga + entrevista em painel"
+        criterio_sucesso: "Processo validando competencia + compatibilidade"
+      - passo: 7
+        nome: "Hell Yes or Nothing"
+        descricao: "Tornar 'contratar ninguem' resultado aceitavel explicito"
+        criterio_sucesso: "Equipe sabe que pode rejeitar todos"
+    aplicacao: "Implementacao do sistema de contratacao"
+
+  - id: "RL-MET-003"
+    titulo: "Protocolo Fofoca Morre Aqui"
+    descricao: "Processo para eliminar fofoca da cultura."
+    peso: 0.85
+    chunks:
+      - "RL001_024"
+    fontes:
+      - "RL001"
+    etapas:
+      - passo: 1
+        nome: "Detectar"
+        descricao: "Alguem traz fofoca para lideranca"
+        criterio_sucesso: "Fofoca identificada"
+      - passo: 2
+        nome: "Reunir"
+        descricao: "Lideranca pega AMBAS as partes (fofoqueiro + assunto)"
+        criterio_sucesso: "Ambas as pessoas na mesma sala"
+      - passo: 3
+        nome: "Confrontar"
+        descricao: "Fazer fofoqueiro repetir na cara do assunto"
+        criterio_sucesso: "Fofoca exposta diretamente"
+      - passo: 4
+        nome: "Resolver"
+        descricao: "Trabalhar atraves do conflito (desconfortavel)"
+        criterio_sucesso: "Conflito resolvido ou documentado"
+    aplicacao: "Cultura, eliminacao de fofoca"
+    resultado: "Voce sabe quantas pessoas fofocam depois disso? Nenhuma. Muito desconfortavel."
+
+metadados:
+  total_chunks_processados: 3
+  fontes_utilizadas:
+    - "RL001"
+  peso_medio: 0.90
+  criado_em: "2025-12-28T00:00:00Z"
+  protocolo: "DNA-EXTRACTION-PROTOCOL v1.0"

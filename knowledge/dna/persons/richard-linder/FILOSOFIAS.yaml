@@ -1,0 +1,72 @@
+# FILOSOFIAS - RICHARD LINDER
+# Crencas fundamentais que aparecem 3+ vezes em contextos diferentes
+# Versao: 1.0.0 | Criado: 2025-12-28
+
+versao: "1.0.0"
+pessoa: "Richard Linder"
+camada: "FILOSOFIAS"
+total_itens: 5
+
+itens:
+  - id: "RL-FIL-001"
+    titulo: "Founder First: Contratacao Egoista e Boa"
+    descricao: "Contratar para compatibilidade COM o fundador (nao apenas fit cultural generico) e chave para escalar. Se eles te energizam, voce os energiza. Cria energia, nao deficit."
+    peso: 0.95
+    chunks:
+      - "RL001_001"
+    fontes:
+      - "RL001"
+    aplicacao: "Mindset de contratacao, priorizacao de candidatos"
+    citacao: "As empresas se movem na velocidade do fundador. Mesmo que pareca egoista, e uma boa pratica para scale-ups contratarem membros de equipe compativeis com eles."
+
+  - id: "RL-FIL-002"
+    titulo: "Empresas se Movem na Velocidade do Fundador"
+    descricao: "A velocidade de crescimento da empresa e limitada pela energia e capacidade do fundador. Equipe que drena o fundador = empresa estagnada."
+    peso: 0.95
+    chunks:
+      - "RL001_002"
+    fontes:
+      - "RL001"
+    aplicacao: "Priorizacao de energia do fundador, filtro de contratacao"
+    citacao: "Companies move at the speed of the founder."
+
+  - id: "RL-FIL-003"
+    titulo: "Nascido do Fracasso, Nao do Sucesso"
+    descricao: "Frameworks eficazes nascem de falhas repetidas, nao de teoria. Scalable criou frameworks porque FALHARAM em contratacao antes de acertar."
+    peso: 0.90
+    chunks:
+      - "RL001_003"
+    fontes:
+      - "RL001"
+    aplicacao: "Validacao de frameworks, ceticismo com teoria"
+    citacao: "Nao criamos frameworks porque as coisas simplesmente funcionaram. Fizemos errado. Falhamos. Todos os nossos processos nasceram do fracasso."
+
+  - id: "RL-FIL-004"
+    titulo: "Competencia + Compatibilidade (AMBOS)"
+    descricao: "Contratacao deve ter AMBOS: habilidades brutas (competencia) E tracos de personalidade que se encaixam. Nao e ou/ou."
+    peso: 0.90
+    chunks:
+      - "RL001_004"
+    fontes:
+      - "RL001"
+    aplicacao: "Scorecard de contratacao, criterios de avaliacao"
+    citacao: "Nao e 'comprar amigos' - ambas as caixas devem estar marcadas."
+
+  - id: "RL-FIL-005"
+    titulo: "Batteries Included"
+    descricao: "Contratar pessoas que nao REQUEREM elogio/recompensa constante para ter melhor desempenho. Motivacao intrinseca como filtro."
+    peso: 0.85
+    chunks:
+      - "RL001_005"
+    fontes:
+      - "RL001"
+    aplicacao: "Filtro de candidatos, avaliacao de motivacao"
+    citacao: "Nao precisa de elogio/recompensa para aparecer seu melhor. Nao significa que nao damos - mas voce nao REQUER para ter desempenho."
+
+metadados:
+  total_chunks_processados: 5
+  fontes_utilizadas:
+    - "RL001"
+  peso_medio: 0.91
+  criado_em: "2025-12-28T00:00:00Z"
+  protocolo: "DNA-EXTRACTION-PROTOCOL v1.0"

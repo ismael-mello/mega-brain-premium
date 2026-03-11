@@ -1,0 +1,621 @@
+# Russell Brunson - NEW DNA Elements from PDF Books
+# Source: 5 PDF books (DotCom Secrets, Expert Secrets, Traffic Secrets,
+#         Network Marketing Secrets + Funnel Hacker's Cookbook, Modules/Scripts/Swipe Files)
+# Generated: 2026-03-01
+# Total NEW elements: 79 (genuinely new concepts not in existing DNA.yaml)
+# Next IDs: PHI-RB-063+, MM-RB-056+, HEUR-RB-088+, FW-RB-052+, MET-RB-017+
+# IMPORTANT: Do NOT modify DNA.yaml directly. Review and merge via pipeline.
+
+person:
+  name: "Russell Brunson"
+  source: "PDF Book Extractions (5 books)"
+  dedup_report: "DEDUP-REPORT.md"
+
+layers:
+
+  # ==========================================================================
+  # L1: PHILOSOPHIES (12 new elements: PHI-RB-063 through PHI-RB-074)
+  # ==========================================================================
+  L1_PHILOSOPHIES:
+    count: 12
+    items:
+
+      - id: "PHI-RB-063"
+        statement: "If you don't have continuity, then you don't have a business."
+        context: "David Frey quote. Brunson uses it to argue every Value Ladder must include recurring revenue (software, membership, coaching)."
+        pdf_source: "DotCom Secrets"
+        page_ref: "PAGE 148"
+        original_pdf_id: "DotCom PHI-RB-PDF-004"
+
+      - id: "PHI-RB-064"
+        statement: "If you just send out entertaining emails and don't tie in your products or services, you won't make a dime. EVERY EMAIL and each story must be tied back into some type of offer."
+        context: "Seinfeld Email chapter. Entertainment without commercial intent is charity, not business."
+        pdf_source: "DotCom Secrets"
+        page_ref: "PAGE 78"
+        original_pdf_id: "DotCom PHI-RB-PDF-013"
+
+      - id: "PHI-RB-065"
+        statement: "Logic doesn't sell. Emotion sells. You can't sell anything with logic -- you sell emotionally and justify with logic afterward. True selling is the transference of emotion, not information."
+        context: "Foundation for the Epiphany Bridge concept. People buy based on how they FEEL about the new opportunity, then justify with facts later."
+        pdf_source: "Expert Secrets"
+        page_ref: "p.97-100"
+        original_pdf_id: "Expert PHI-RB-PDF-005"
+
+      - id: "PHI-RB-066"
+        statement: "There are two types of expert businesses: selling information products about your expertise, OR using your expertise to sell products/services in other companies. The second type is where the real leverage is."
+        context: "The distinction between a traditional info-product business and an expert who uses persuasion frameworks to drive any business."
+        pdf_source: "Expert Secrets"
+        page_ref: "p.14-17"
+        original_pdf_id: "Expert PHI-RB-PDF-010"
+
+      - id: "PHI-RB-067"
+        statement: "The growth phase of life is only half of fulfillment. The second half comes from contribution. An expert-based business lets you monetize the transition from growth to contribution."
+        context: "Brunson's framing of why experts build businesses -- the fulfillment comes from teaching others what you learned."
+        pdf_source: "Expert Secrets"
+        page_ref: "p.247-248"
+        original_pdf_id: "Expert PHI-RB-PDF-012"
+
+      - id: "PHI-RB-068"
+        statement: "Don't sell a 'how to' -- sell a 'new opportunity'. The moment your offer is positioned as improvement, you trigger every past failure the prospect has experienced."
+        context: "Four reasons improvement offers fail: (1) requires admitting past failure, (2) compares to existing methods, (3) status quo bias, (4) commodity competition."
+        pdf_source: "Expert Secrets"
+        page_ref: "p.60-61"
+        original_pdf_id: "Expert PHI-RB-PDF-014"
+
+      - id: "PHI-RB-069"
+        statement: "Your mess becomes your message."
+        context: "The Attractive Character concept -- your personal struggles and imperfections are what create connection and trust with your audience."
+        pdf_source: "Traffic Secrets"
+        page_ref: "PAGE 37"
+        original_pdf_id: "Traffic PHI-RB-PDF-004"
+
+      - id: "PHI-RB-070"
+        statement: "When you have your own show, everyone will answer your calls."
+        context: "Creating your own media platform (podcast, YouTube, etc.) gives you leverage and credibility that opens doors to Dream 100 relationships."
+        pdf_source: "Traffic Secrets"
+        page_ref: "PAGE 125"
+        original_pdf_id: "Traffic PHI-RB-PDF-007"
+
+      - id: "PHI-RB-071"
+        statement: "I only take on projects that I know will work with 100 percent certainty, and which I know will work because I already have a distribution channel in place for them."
+        context: "Investment and partnership philosophy. Only engage where you already have the traffic/distribution expertise to guarantee results."
+        pdf_source: "Traffic Secrets"
+        page_ref: "PAGE 305"
+        original_pdf_id: "Traffic PHI-RB-PDF-013"
+
+      - id: "PHI-RB-072"
+        statement: "The more you pay your affiliates, the more likely they are to promote you. They don't need you; you need them."
+        context: "Affiliate compensation philosophy. Pay above market rates to attract the best affiliates. Your commission-based sales team has unlimited options."
+        pdf_source: "Traffic Secrets"
+        page_ref: "PAGE 319"
+        original_pdf_id: "Traffic PHI-RB-PDF-014"
+
+      - id: "PHI-RB-073"
+        statement: "Every day, the first thing I ask myself before I get out of my car is: How can I give myself a raise today?"
+        context: "Daily growth mindset. Every day look for new distribution channels, Dream 100 connections, integration opportunities, and affiliate partnerships."
+        pdf_source: "Traffic Secrets"
+        page_ref: "PAGE 308"
+        original_pdf_id: "Traffic PHI-RB-PDF-015"
+
+      - id: "PHI-RB-074"
+        statement: "Having both branding and direct response blended together is essential in today's world."
+        context: "Evolution from pure direct response to integrating branding. The Funnel Hub concept bridges both worlds -- branding for credibility, funnels for conversion."
+        pdf_source: "Traffic Secrets"
+        page_ref: "PAGE 294"
+        original_pdf_id: "Traffic PHI-RB-PDF-016"
+
+  # ==========================================================================
+  # L2: MENTAL MODELS (12 new elements: MM-RB-056 through MM-RB-067)
+  # ==========================================================================
+  L2_MENTAL_MODELS:
+    count: 12
+    items:
+
+      - id: "MM-RB-056"
+        statement: "The Enquirer Interrupt: Your ads must function like National Enquirer headlines -- strange/unusual image + short punchy headline that interrupts brain patterns and forces attention."
+        context: "Congregation chapter. How to pull prospects away from what they're currently doing online."
+        pdf_source: "DotCom Secrets"
+        page_ref: "PAGE 51"
+        original_pdf_id: "DotCom MM-RB-PDF-006"
+
+      - id: "MM-RB-057"
+        statement: "Searcher vs Scroller: Two types of online behavior that require completely different strategies. Searchers actively look for solutions (Google, YouTube search). Scrollers are passively browsing (Facebook, Instagram feeds)."
+        context: "Different hooks, different funnels required for each behavior type."
+        pdf_source: "Traffic Secrets"
+        page_ref: "PAGE 42-44"
+        original_pdf_id: "Traffic MM-RB-PDF-002"
+
+      - id: "MM-RB-058"
+        statement: "Platform Lifecycle: Adoption (free reach) -> Price Hike (pay to play) -> Slap/Snap (algorithm change destroys businesses). Every platform follows this pattern."
+        context: "Google, Facebook, Instagram, Snapchat all follow this cycle. Understanding it lets you get in early and prepare for the inevitable slap."
+        pdf_source: "Traffic Secrets"
+        page_ref: "PAGE 4-6, 204"
+        original_pdf_id: "Traffic MM-RB-PDF-004"
+
+      - id: "MM-RB-059"
+        statement: "Away from Pain vs Toward Pleasure: Two fundamental motivators that drive all customer behavior. Some customers are motivated to escape pain, others to pursue pleasure."
+        context: "Your messaging must identify which motivator applies to your dream customer."
+        pdf_source: "Traffic Secrets"
+        page_ref: "PAGE 38-39"
+        original_pdf_id: "Traffic MM-RB-PDF-005"
+
+      - id: "MM-RB-060"
+        statement: "The Shadow Funnel: The invisible journey people take researching you after seeing your ad but before buying. They search your name, company, and product in Google."
+        context: "This 'shadow funnel' creates traffic you must capture with a Funnel Hub."
+        pdf_source: "Traffic Secrets"
+        page_ref: "PAGE 297-299"
+        original_pdf_id: "Traffic MM-RB-PDF-006"
+
+      - id: "MM-RB-061"
+        statement: "Producer vs Consumer mindset for social media. Entrepreneurs must approach every platform as producers -- studying Dream 100 patterns, creating content, building distribution."
+        context: "Consuming is wasted time unless it is research. Unfollow everything that is not Dream 100."
+        pdf_source: "Traffic Secrets"
+        page_ref: "PAGE 155"
+        original_pdf_id: "Traffic MM-RB-PDF-008"
+
+      - id: "MM-RB-062"
+        statement: "Interest-Based Congregations vs Search-Based Congregations. Two types of places where dream customers gather."
+        context: "Interest-based: social groups, forums, fan pages (scrollers). Search-based: Google, YouTube keywords (searchers). Need different strategies for each."
+        pdf_source: "Traffic Secrets"
+        page_ref: "PAGE 53-54"
+        original_pdf_id: "Traffic MM-RB-PDF-009"
+
+      - id: "MM-RB-063"
+        statement: "Butterfly Marketing: Tiny changes in marketing can produce huge compounding results. Small viral mechanisms (badges, refer-a-friend, gamification) can compound into massive growth when the copulation rate exceeds 1.0."
+        context: "Via Mike Filsaime. Below 1.0 = dies. At 1.0 = flatlines. Above 1.0 = true viral growth."
+        pdf_source: "Traffic Secrets"
+        page_ref: "PAGE 331-332"
+        original_pdf_id: "Traffic MM-RB-PDF-010"
+
+      - id: "MM-RB-064"
+        statement: "Prospecting Ads vs Retargeting Ads: Two fundamentally different ad types with different goals and budgets. Prospecting = finding new people. Retargeting = following up with people who already engaged."
+        context: "Retargeting converts at much higher rates with much lower cost."
+        pdf_source: "Traffic Secrets"
+        page_ref: "PAGE 168-175"
+        original_pdf_id: "Traffic MM-RB-PDF-013"
+
+      - id: "MM-RB-065"
+        statement: "The Funnel Hub: A brand-centric website that organizes all your funnels, captures shadow traffic, and builds credibility. Bridges branding and direct response."
+        context: "Looks like a traditional website for credibility (press, SEO) but strategically funnels visitors into your value ladder."
+        pdf_source: "Traffic Secrets"
+        page_ref: "PAGE 295-301"
+        original_pdf_id: "Traffic MM-RB-PDF-014"
+
+      - id: "MM-RB-066"
+        statement: "Distribution Channels are the real Midas Touch. Sharks invest based on whether they can plug the product into their existing distribution."
+        context: "Shark Tank analysis. Daymond John (retail), Lori Greiner (QVC/TV), Mark Cuban (media) -- each invests only where their existing distribution channel applies."
+        pdf_source: "Traffic Secrets"
+        page_ref: "PAGE 303-305"
+        original_pdf_id: "Traffic MM-RB-PDF-015"
+
+      - id: "MM-RB-067"
+        statement: "The Brunson Box: Underneath a video sales letter, pull out four elements from the video that cause intrigue and curiosity. This gets people to watch the video longer before clicking 'Add to Cart'."
+        context: "VSL-specific layout technique from Funnel Hacker's Cookbook."
+        pdf_source: "Funnel Hacker's Cookbook"
+        page_ref: "PAGE 118"
+        original_pdf_id: "Network MM-RB-PDF-011"
+
+  # ==========================================================================
+  # L3: HEURISTICS (20 new elements: HEUR-RB-088 through HEUR-RB-107)
+  # ==========================================================================
+  L3_HEURISTICS:
+    count: 20
+    items:
+
+      - id: "HEUR-RB-088"
+        statement: "Order form bump take rate: 34% of customers add $37 product when presented as checkbox on order form."
+        context: "'We found that on average, we were getting about 34% of our customers adding the thirty-seven dollar product to their order.'"
+        pdf_source: "DotCom Secrets"
+        page_ref: "PAGE 125"
+        original_pdf_id: "DotCom HEUR-RB-PDF-003"
+
+      - id: "HEUR-RB-089"
+        statement: "Free-plus-shipping books generate $66 average immediate revenue per book through upsell chain (order bump + OTO + second OTO)."
+        context: "Even giving away a free book, the upsell funnel generates significant immediate revenue per customer."
+        pdf_source: "DotCom Secrets"
+        page_ref: "PAGE 126"
+        original_pdf_id: "DotCom HEUR-RB-PDF-004"
+
+      - id: "HEUR-RB-090"
+        statement: "Free-plus-shipping generates 3x more customers than selling product directly at $37."
+        context: "100-Visitor Test comparison. Lower barrier = higher volume = more backend revenue opportunity."
+        pdf_source: "DotCom Secrets"
+        page_ref: "PAGE 125"
+        original_pdf_id: "DotCom HEUR-RB-PDF-005"
+
+      - id: "HEUR-RB-091"
+        statement: "Order form bump upgrade rate: up to 40% of buyers upgrade when adding complementary product to order form."
+        context: "Building Block: Order Form Bump. Simple checkbox addition can capture 40% attach rate."
+        pdf_source: "DotCom Secrets"
+        page_ref: "PAGE 116"
+        original_pdf_id: "DotCom HEUR-RB-PDF-006"
+
+      - id: "HEUR-RB-092"
+        statement: "Downsell acceptance: up to 20% of people who say no to the OTO say yes to a payment-plan version on the downsell."
+        context: "Building Block: Downsale. Offering payment plan version of rejected OTO recaptures 20% of lost upsells."
+        pdf_source: "DotCom Secrets"
+        page_ref: "PAGE 116-117"
+        original_pdf_id: "DotCom HEUR-RB-PDF-007"
+
+      - id: "HEUR-RB-093"
+        statement: "OTO success formula: 80% offer structure, 20% script. Getting the second yes depends more on WHAT you offer than HOW you present it."
+        context: "Three OTO types: Next Thing, Do It Faster, Need Help."
+        pdf_source: "DotCom Secrets"
+        page_ref: "PAGE 136"
+        original_pdf_id: "DotCom HEUR-RB-PDF-008"
+
+      - id: "HEUR-RB-094"
+        statement: "Consulting price anchor: $25,000 per day for implementing the Secret Formula and funnels."
+        context: "Brunson uses this as price anchor: 'treat this book as if you did invest the full amount.'"
+        pdf_source: "DotCom Secrets"
+        page_ref: "PAGE 31"
+        original_pdf_id: "DotCom HEUR-RB-PDF-016"
+
+      - id: "HEUR-RB-095"
+        statement: "Backend service pricing: $100K retainer + 10% of profits (up to $1M total). This is the top of Brunson's Value Ladder."
+        context: "Going into client's business to build funnels, train sales team, set up lead gen systems."
+        pdf_source: "DotCom Secrets"
+        page_ref: "PAGE 37"
+        original_pdf_id: "DotCom HEUR-RB-PDF-017"
+
+      - id: "HEUR-RB-096"
+        statement: "Scaling via competitor research: product went from $20K/month to $500K/month in two months after finding new demographics through reverse engineering competitors."
+        context: "Pain supplement found diabetic, survival, and natural health websites as new ad placements via competitor analysis."
+        pdf_source: "DotCom Secrets"
+        page_ref: "PAGE 88"
+        original_pdf_id: "DotCom HEUR-RB-PDF-018"
+
+      - id: "HEUR-RB-097"
+        statement: "6-week masterclass is the optimal length for a free lead-generation vehicle. Short enough to maintain commitment, long enough to deliver transformation and build trust for the paid offer."
+        context: "Step #4 of the Opportunity Switch. The masterclass proves your methodology works and creates reciprocity before the pitch."
+        pdf_source: "Expert Secrets"
+        page_ref: "p.81-82"
+        original_pdf_id: "Expert HEUR-RB-PDF-015"
+
+      - id: "HEUR-RB-098"
+        statement: "167 out of 2,000 advertisers controlled 90% of the ad budget in Chet Holmes' industry. The Dream 100 principle: a small number of players control the majority of attention/money in any market."
+        context: "Original Chet Holmes case study that inspired the Dream 100. Focusing on these 167 took the magazine from #16 to #1 in one year."
+        pdf_source: "Expert Secrets"
+        page_ref: "p.239-240"
+        original_pdf_id: "Expert HEUR-RB-PDF-018"
+
+      - id: "HEUR-RB-099"
+        statement: "$250,000 in sales from a 26-minute webinar prepared in 15 minutes using just a whiteboard and the Perfect Webinar framework. Over 100,000 people saw the Facebook Live presentation."
+        context: "Brunson's proof-of-concept for the Perfect Webinar Hack -- the framework works even without slides, with minimal preparation, on free platforms."
+        pdf_source: "Expert Secrets"
+        page_ref: "p.228-232"
+        original_pdf_id: "Expert HEUR-RB-PDF-019"
+
+      - id: "HEUR-RB-100"
+        statement: "$650,000 from ONE Facebook Live presentation by Brandon and Kaelin Poulin, using Perfect Webinar script with no PowerPoint -- just a whiteboard and paper."
+        context: "Third-party validation of the Perfect Webinar Hack. Non-Brunson case study proving the framework is transferable."
+        pdf_source: "Expert Secrets"
+        page_ref: "p.232"
+        original_pdf_id: "Expert HEUR-RB-PDF-020"
+
+      - id: "HEUR-RB-101"
+        statement: "If your webinar fails, it's one of exactly 3 reasons: (1) You picked a bad market, (2) You built an improvement offer instead of a new opportunity, (3) You slipped into teaching mode instead of creating an environment for change."
+        context: "Brunson's diagnostic framework for failed webinars. Only 3 failure modes exist -- all are pre-webinar strategic errors, not presentation errors."
+        pdf_source: "Expert Secrets"
+        page_ref: "p.232"
+        original_pdf_id: "Expert HEUR-RB-PDF-021"
+
+      - id: "HEUR-RB-102"
+        statement: "50% of buyers purchase on emotion, 30% on logic, 20% on fear (urgency/scarcity)."
+        context: "The three closes in follow-up funnels. Structure your follow-up sequences: emotional appeal first, then logical justification, finally urgency/scarcity."
+        pdf_source: "Traffic Secrets"
+        page_ref: "PAGE 120"
+        original_pdf_id: "Traffic HEUR-RB-PDF-003"
+
+      - id: "HEUR-RB-103"
+        statement: "81% of all sales happen after the fifth contact."
+        context: "Most businesses give up after 1-2 contacts. Systematic follow-up through email, retargeting, and multi-channel messaging captures the majority of revenue."
+        pdf_source: "Traffic Secrets"
+        page_ref: "PAGE 109"
+        original_pdf_id: "Traffic HEUR-RB-PDF-004"
+
+      - id: "HEUR-RB-104"
+        statement: "If you ask 100 people to promote as affiliates, 30 will say yes, and only 15 will actually promote."
+        context: "Affiliate recruitment is a numbers game. Don't take rejection personally. Double your ask list to hit your target number of active promoters."
+        pdf_source: "Traffic Secrets"
+        page_ref: "PAGE 314"
+        original_pdf_id: "Traffic HEUR-RB-PDF-005"
+
+      - id: "HEUR-RB-105"
+        statement: "Retargeting window: 5 days for engaged audience, 7 days for landed audience."
+        context: "Custom audience windows for retargeting. Engaged = interacted with your posts (5 days). Landed = clicked through to your page (7 days). Beyond these windows, move them back to prospecting."
+        pdf_source: "Traffic Secrets"
+        page_ref: "PAGE 174-175"
+        original_pdf_id: "Traffic HEUR-RB-PDF-006"
+
+      - id: "HEUR-RB-106"
+        statement: "YouTube CTR benchmarks: 4% = Acceptable, 6% = Good, 9% = Party time (algorithm heavily promotes)."
+        context: "Click-through rate on YouTube thumbnails. Below 4% means your thumbnails need work."
+        pdf_source: "Traffic Secrets"
+        page_ref: "PAGE 266"
+        original_pdf_id: "Traffic HEUR-RB-PDF-010"
+
+      - id: "HEUR-RB-107"
+        statement: "YouTube retention benchmarks: 35% = Acceptable, 40% = Good, 50% = Party time (massive reach boost)."
+        context: "Percentage of viewers who watch to the end. Accounts averaging 50%+ retention get significantly more algorithmic promotion."
+        pdf_source: "Traffic Secrets"
+        page_ref: "PAGE 266-267"
+        original_pdf_id: "Traffic HEUR-RB-PDF-011"
+
+  # ==========================================================================
+  # L4: FRAMEWORKS (17 new elements: FW-RB-052 through FW-RB-068)
+  # ==========================================================================
+  L4_FRAMEWORKS:
+    count: 17
+    items:
+
+      - id: "FW-RB-052"
+        statement: "Hook, Story, Offer: Every piece of marketing must have a hook to grab attention, a story to build connection, and an offer to drive action. The hook stops the scroll, the story creates desire, the offer converts."
+        context: "The universal marketing framework. Applies to ads, posts, emails, videos, landing pages -- every customer touchpoint."
+        pdf_source: "Traffic Secrets"
+        page_ref: "PAGE 60-65"
+        original_pdf_id: "Traffic FW-RB-PDF-002"
+
+      - id: "FW-RB-053"
+        statement: "Fill Your Funnel Framework (6 Steps): 1) Understand history and goal of platform, 2) Find your Dream 100, 3) Identify publishing strategy and create plan, 4) Work your way in, 5) Buy your way in, 6) Fill your funnel."
+        context: "The master framework applied to every traffic platform (Instagram, Facebook, Google, YouTube, podcasts, and any future platform). Repeatable and platform-agnostic."
+        pdf_source: "Traffic Secrets"
+        page_ref: "PAGE 143-146, 272-273"
+        original_pdf_id: "Traffic FW-RB-PDF-003"
+
+      - id: "FW-RB-054"
+        statement: "3 Closes in Follow-Up Funnels: Close #1 Emotion (storytelling, identity), Close #2 Logic (case studies, data, ROI), Close #3 Fear (urgency, scarcity, deadlines)."
+        context: "Structure follow-up sequences with emotion first (50% of buyers), logic second (30%), fear/urgency third (20%). Maps to the buyer psychology distribution."
+        pdf_source: "Traffic Secrets"
+        page_ref: "PAGE 118-120"
+        original_pdf_id: "Traffic FW-RB-PDF-004"
+
+      - id: "FW-RB-055"
+        statement: "Retargeting Framework: 3 Audiences with 3 Goals. Engaged (sell the click) -> Landed (sell the opt-in/purchase) -> Owned (sell the next step)."
+        context: "Systematic retargeting structure. Pixel your funnel, create 3 custom audiences based on engagement depth, show different ads to each audience with appropriate CTAs."
+        pdf_source: "Traffic Secrets"
+        page_ref: "PAGE 174-175"
+        original_pdf_id: "Traffic FW-RB-PDF-007"
+
+      - id: "FW-RB-056"
+        statement: "JK5 Method: Pick 5 personal brand categories and rotate through them when posting content."
+        context: "Via Jenna Kutcher. Russell's 5 categories: Family, Funnels, Faith, Entrepreneurship, Personal Development. Creates a well-rounded brand beyond just what you sell."
+        pdf_source: "Traffic Secrets"
+        page_ref: "PAGE 181-183"
+        original_pdf_id: "Traffic FW-RB-PDF-009"
+
+      - id: "FW-RB-057"
+        statement: "ABCDQ Test for Instagram Posts: Aesthetic, Brand, Consistent, Diversity, Quality."
+        context: "Via Jenna Kutcher. Before posting any image, test against these 5 criteria."
+        pdf_source: "Traffic Secrets"
+        page_ref: "PAGE 183-184"
+        original_pdf_id: "Traffic FW-RB-PDF-010"
+
+      - id: "FW-RB-058"
+        statement: "Instagram Post Goal Framework: Every post must Inspire, Educate, or Entertain. Then choose caption type: Tell a Story, Ask a Question, or Make a List. Always end with a CTA."
+        context: "Decision framework before writing any Instagram caption."
+        pdf_source: "Traffic Secrets"
+        page_ref: "PAGE 184-185"
+        original_pdf_id: "Traffic FW-RB-PDF-011"
+
+      - id: "FW-RB-059"
+        statement: "Highlights Mini Webinar Hack: Script a 15-50 Story presentation following Hook, Story, Offer to sell a product, then save as a Highlight for ongoing passive sales."
+        context: "Once per month, dedicate a full day of Instagram Stories to a mini webinar. 3 yes/no questions (vehicle, internal, external) -> Feel/Felt/Found -> Offer -> Proof -> Recap -> Urgency."
+        pdf_source: "Traffic Secrets"
+        page_ref: "PAGE 193-194"
+        original_pdf_id: "Traffic FW-RB-PDF-012"
+
+      - id: "FW-RB-060"
+        statement: "Facebook 4-Zone Strategy: Personal Profile (home) + Fan Page (show) + Groups (hangout) + Messenger (distribution channel)."
+        context: "Each zone of Facebook has a different purpose and publishing strategy. Personal Profile = work your way in (free). Fan Page = buy your way in (paid). Groups = build tribe."
+        pdf_source: "Traffic Secrets"
+        page_ref: "PAGE 206-221"
+        original_pdf_id: "Traffic FW-RB-PDF-013"
+
+      - id: "FW-RB-061"
+        statement: "Skyscraper Technique: Find top-ranked content, create something 10x better, then reach out to everyone linking to the original to link to yours instead."
+        context: "Via Brian Dean (Backlinko). SEO content strategy for stealing backlinks from inferior content."
+        pdf_source: "Traffic Secrets"
+        page_ref: "PAGE 245-248"
+        original_pdf_id: "Traffic FW-RB-PDF-014"
+
+      - id: "FW-RB-062"
+        statement: "YouTube 2-Type Video Strategy: Discoverable Videos (keyword-based hooks to attract subscribers) + Video Webinars (relationship/sales videos for existing subscribers)."
+        context: "Two different purposes, two different approaches. Discoverable videos rank for dream keywords; Video Webinars sell to existing audience."
+        pdf_source: "Traffic Secrets"
+        page_ref: "PAGE 261-263"
+        original_pdf_id: "Traffic FW-RB-PDF-015"
+
+      - id: "FW-RB-063"
+        statement: "YouTube Discoverable Video Script: 1) Hook (15 sec), 2) Trailer (4-5 sec), 3) Intro (15-30 sec), 4) Story/Content (7-12 min), 5) Offer/CTA."
+        context: "Standardized script for videos designed to rank for keywords. Hook matches the search intent."
+        pdf_source: "Traffic Secrets"
+        page_ref: "PAGE 261-262"
+        original_pdf_id: "Traffic FW-RB-PDF-016"
+
+      - id: "FW-RB-064"
+        statement: "Conversation Domination: Master Show -> Repurpose into native content for each platform. One weekly live master show with segments designed for each platform."
+        context: "Monologue (podcast), Interview (podcast), Q&A Collabs (IGTV), Top 10 List (blog/skyscraper), How-Tos (YouTube), Image Stories (Instagram), Quotes (social)."
+        pdf_source: "Traffic Secrets"
+        page_ref: "PAGE 284-287"
+        original_pdf_id: "Traffic FW-RB-PDF-017"
+
+      - id: "FW-RB-065"
+        statement: "Affiliate Army 5-Step Framework: 1) Recruit from Dream 100, 2) Make them official affiliates, 3) Give them a reason to promote, 4) Train them to become super affiliates, 5) Compensate generously."
+        context: "Building an affiliate army is the most leveraged traffic strategy. Someone else does the SEO, PPC, email marketing for you -- you only pay when they make a sale."
+        pdf_source: "Traffic Secrets"
+        page_ref: "PAGE 313-320"
+        original_pdf_id: "Traffic FW-RB-PDF-019"
+
+      - id: "FW-RB-066"
+        statement: "3 Questions for Any New Platform: 1) What is the goal of the platform? 2) What strategy can I use to help the platform with its goal? 3) What tactics is the platform rewarding people for right now?"
+        context: "Universal framework for approaching any new or changing platform. Align your strategy with the platform's goals and you'll be rewarded with reach."
+        pdf_source: "Traffic Secrets"
+        page_ref: "PAGE 204-205"
+        original_pdf_id: "Traffic FW-RB-PDF-020"
+
+      - id: "FW-RB-067"
+        statement: "The Three Lost Funnels Framework: (1) Bridge Funnel - mimics three-way calls where upline bridges new distributor to prospect, (2) Home Party Funnel - mimics live in-home product demos with FOMO and social proof, (3) Hotel Meeting Funnel - mimics weekly presentation events that recruit leaders not just product lovers."
+        context: "Network Marketing Secrets. Three proven offline selling methods adapted to online funnels."
+        pdf_source: "Network Marketing Secrets"
+        page_ref: "PAGE 22-28"
+        original_pdf_id: "Network FW-RB-PDF-001"
+
+      - id: "FW-RB-068"
+        statement: "Billy Mays Demo Script Framework: (1) Introduce the product, (2) Faster and Easier -- show how YOUR product beats competing alternatives, (3) Eliminate Alternatives -- find unique selling point that makes competitors unappealing, (4) Introduce the Price with anchor comparison, (5) Urgency and Scarcity, (6) Risk Reversal -- explain your guarantee so buyers feel safe."
+        context: "Network Marketing Secrets. Specific demo framework modeled after the late-night infomercial legend."
+        pdf_source: "Network Marketing Secrets"
+        page_ref: "PAGE 44-46"
+        original_pdf_id: "Network FW-RB-PDF-003"
+
+  # ==========================================================================
+  # L5: METHODOLOGIES (18 new elements: MET-RB-017 through MET-RB-034)
+  # ==========================================================================
+  L5_METHODOLOGIES:
+    count: 18
+    items:
+
+      - id: "MET-RB-017"
+        statement: "Trial Closes Script (12 phrases to use throughout webinar): 'Are you ready to get started?' / 'Are you getting all this?' / 'Is this making sense?' / 'Can you imagine if that happened to you?' / 'Who here wants a free copy of _?' / 'Would you like to be our next case study?' / 'You've heard them talk about this before, right?' / 'Isn't that cool?' / 'Isn't that exciting?' / 'Am I right?' / 'Can you see yourself doing _?' / 'I'm sure you've noticed this too, right?'"
+        context: "Module 6 Moral Obligation workbook -- exact trial close phrases to pepper throughout webinar presentation."
+        pdf_source: "Modules/Scripts/Swipe Files"
+        page_ref: "PDF-06-Moral-Obligation PAGE 57"
+        original_pdf_id: "Modules MET-RB-PDF-006"
+
+      - id: "MET-RB-018"
+        statement: "The 16 Webinar Closes (named scripts in order): (1) Money Is Good, (2) Information Alone, (3) Us VS Them, (4) Only Excuses, (5) Disposable Income, (6) Money or Excuses, (7) The Hand Hold, (8) Reluctant Hero, (9) Money Replenishes, (10) Your 2 Choices, (11) Say Goodbye, (12) If You Only Got, (13) Break Old Habits, (14) Their 2 Choices, (15) Now & Later, (16) Close Close."
+        context: "Module 6 workbook + Perfect Webinar Script -- complete list of named closing patterns used in rotation during Q&A."
+        pdf_source: "Modules/Scripts/Swipe Files"
+        page_ref: "PDF-06-Moral-Obligation PAGE 58-62"
+        original_pdf_id: "Modules MET-RB-PDF-007"
+
+      - id: "MET-RB-019"
+        statement: "Star Story Solution Video Sales Letter Script (28 Steps): Pattern Interrupt -> Core Desire Questions -> Agitate Past Failures -> Big Promise (ONE Big Thing) -> Intro Attractive Character -> High Drama -> Backstory & Wall -> Identify Problem -> Epiphany/Declaration of Independence -> Path to Find Ultimate Solution -> First Signs of Success -> Conspiracy -> Big Lie/Not Your Fault -> Common Enemy -> Rapid Growth -> Case Studies -> Formal Introduction -> Pain + Cost -> Ease -> Speed -> Social Proof -> Build Value -> Fake Price -> 'If All's' (Pleasure & Pain) -> Reveal Price -> Guarantee -> Inject Scarcity -> Future Pacing -> CTA."
+        context: "Module 8 Sales Scripts workbook -- complete VSL/long-form video sales letter script template."
+        pdf_source: "Modules/Scripts/Swipe Files"
+        page_ref: "PDF-08A-Sales-Scripts PAGE 15-29"
+        original_pdf_id: "Modules MET-RB-PDF-008"
+
+      - id: "MET-RB-020"
+        statement: "OTO (One Time Offer) Upsell Script (11 Steps): Congrats on ordering -> 3X 2X (triple results, double speed) -> Smart/Why (you made a smart choice because...) -> Question 3X 2X -> Exclusive (NOT for everyone) -> Results/Fast/Speed -> The 1 Thing (cool name for upsell) -> Future Casting -> CTA -> Guarantee -> Value Stacking + Scarcity -> 2nd CTA."
+        context: "Module 8 Sales Scripts workbook -- complete upsell page script template."
+        pdf_source: "Modules/Scripts/Swipe Files"
+        page_ref: "PDF-08A-Sales-Scripts PAGE 29-34"
+        original_pdf_id: "Modules MET-RB-PDF-009"
+
+      - id: "MET-RB-021"
+        statement: "Two-Step Phone Sales Script - SET Script: Intro (Hey this is _ from _) -> Questions (ask based on answers: why is that? how do you mean? anything else?) -> Blast (maybe I can help you) -> Posture (this is exclusive) -> Probe (finding personal info) -> Finding Credit (can they afford high-ticket?)"
+        context: "Module 8 Sales Scripts workbook -- appointment setting script for phone sales team."
+        pdf_source: "Modules/Scripts/Swipe Files"
+        page_ref: "PDF-08A-Sales-Scripts PAGE 49-52"
+        original_pdf_id: "Modules MET-RB-PDF-010"
+
+      - id: "MET-RB-022"
+        statement: "Two-Step Phone Sales Script - CLOSE Script: Goals (where you are vs where you want to be) -> 4 Commitments (Time, Teachable, Investment, Decision Maker) -> Time commitment -> Decision commitment -> Resources/Investment commitment -> Knowledge/Teachability -> What's Included -> Close (finalize the sale)."
+        context: "Module 8 Sales Scripts workbook -- closing script for high-ticket phone sales."
+        pdf_source: "Modules/Scripts/Swipe Files"
+        page_ref: "PDF-08A-Sales-Scripts PAGE 52-55"
+        original_pdf_id: "Modules MET-RB-PDF-011"
+
+      - id: "MET-RB-023"
+        statement: "Post-Webinar Follow-Up Email Sequence (8 Emails): Email 1 (Immediate) = Thank you + download link + enrollment reminder. Email 2 (3 hours) = Social proof of others joining + enrollment link. Email 3 (24 hours) = 2 options: watch replay or sign up ASAP. Email 4 (48 hours) = Special letter/long-form sales page + replay with 24hr expiration. Email 5 (72 hours) = 'Are you in or out?' final warning + replay. Email 6 (96 hours) = Reframe as job opportunity/income angle. Email 7 (120 hours) = Personal request to work together. Email 8 (144 hours) = Payment plan/low barrier option + last replay chance."
+        context: "PDF-10 Post-Webinar Follow-Ups -- complete swipe file with exact timing of each email."
+        pdf_source: "Modules/Scripts/Swipe Files"
+        page_ref: "PDF-10-Post-Webinar-FollowUps PAGE 1-6"
+        original_pdf_id: "Modules MET-RB-PDF-014"
+
+      - id: "MET-RB-024"
+        statement: "Webinar Indoctrination Email Sequence: Between registration and webinar day, send 3 pre-sell videos. Each video pre-sells one of the 3 secrets by (1) talking about the false belief pattern tied to that secret, (2) telling them the webinar will show why that belief isn't true and why the opposite IS true."
+        context: "Module 7 workbook -- Step 3: Indoctrination emails for registered webinar attendees."
+        pdf_source: "Modules/Scripts/Swipe Files"
+        page_ref: "PDF-07-The-Funnels PAGE 14-15"
+        original_pdf_id: "Modules MET-RB-PDF-015"
+
+      - id: "MET-RB-025"
+        statement: "Webinar Reminder Cadence: Day before -> Morning of -> 1 hour before -> 15 minutes before -> 'We're live - join us!'"
+        context: "Module 7 workbook -- Step 4: Send reminders with specific timing."
+        pdf_source: "Modules/Scripts/Swipe Files"
+        page_ref: "PDF-07-The-Funnels PAGE 15"
+        original_pdf_id: "Modules MET-RB-PDF-016"
+
+      - id: "MET-RB-026"
+        statement: "Dream 100 Physical Mail Campaign (4 Letters): Letter 1 = Welcome + introduce opportunity + explain sticky cookies + include comic book. Letter 2 = Funnel walkthrough + commission structure + launch dates + virtual book tour invitation. Letter 3 = Real book copy + affiliate prizes (custom superhero suit for top 10, private mastermind for top 20) + swipe copy/banners. Letter 4 = Final bribe ($20 flat per book sold, doubling commissions) + deadline urgency + $500k cash prize pool."
+        context: "PDFs 11A through 11D -- complete 4-letter Dream 100 physical mail sequence for Expert Secrets book launch."
+        pdf_source: "Modules/Scripts/Swipe Files"
+        page_ref: "PDF-11A through PDF-11D"
+        original_pdf_id: "Modules MET-RB-PDF-017"
+
+      - id: "MET-RB-027"
+        statement: "3 Promotion Strategies for Dream 100: Strategy #1 = Physically mail a newsletter and package every month about promotions they can be part of, then ask them to promote. Strategy #2 = Target specific ads to your Dream 100's followers. Strategy #3 = Integration Marketing -- find the 'holes' in their sales funnel and ask to add your product, co-create a product, or simply add a PS in their emails."
+        context: "Module 7 workbook -- three specific strategies to get Dream 100 to promote your products."
+        pdf_source: "Modules/Scripts/Swipe Files"
+        page_ref: "PDF-07-The-Funnels PAGE 22-23"
+        original_pdf_id: "Modules MET-RB-PDF-018"
+
+      - id: "MET-RB-028"
+        statement: "Epiphany Bridge Story Template (for each of the 3 Secrets): Your Backstory -> Your Desires (External + Internal) -> The Wall -> The Epiphany -> The Plan -> The Conflict -> The Achievement -> The Transformation. Fill in each element per secret to create the narrative arc that breaks false beliefs."
+        context: "FHAT Event worksheet -- Part 6, providing the complete story structure to fill in for each of the 3 secrets in a webinar."
+        pdf_source: "Modules/Scripts/Swipe Files"
+        page_ref: "PDF-12-FHAT-Event PAGE 4"
+        original_pdf_id: "Modules MET-RB-PDF-019"
+
+      - id: "MET-RB-029"
+        statement: "Dream 100 List Building Process: 1) Identify top influencers/brands in your submarket, 2) Follow them on each platform, 3) Study their content daily (3-5 min), 4) Like/comment on 10+ posts daily, 5) DM at least 10 of their videos daily, 6) Build genuine relationship for 60+ days before asking for anything."
+        context: "The tactical execution of the Dream 100 strategy. Requires daily discipline and patience."
+        pdf_source: "Traffic Secrets"
+        page_ref: "PAGE 48-55, 70-78, 177-178"
+        original_pdf_id: "Traffic MET-RB-PDF-001"
+
+      - id: "MET-RB-030"
+        statement: "Break-Even Funnel Optimization: Product price + Order bump + OTO1 + OTO2 = Average Cart Value (ACV). If ACV > Cost Per Acquisition, you win. Example: Book $7.95 + Audiobook bump $37 (16% take) + Masterclass OTO1 $97 (5% take) + Funnel Scripts OTO2 $297 (2% take) = ACV $37.71 vs CPA $23 = $14.71 profit per customer."
+        context: "DotCom Secrets book funnel example with complete ACV calculation."
+        pdf_source: "Traffic Secrets"
+        page_ref: "PAGE 87-89"
+        original_pdf_id: "Traffic MET-RB-PDF-002"
+
+      - id: "MET-RB-031"
+        statement: "Retargeting Setup: 1) Install pixel on all funnel pages, 2) Create Engaged audience (5-day window of post interactions), 3) Create Landed audience (7-day window of page visitors), 4) Create Owned audience (leads and buyers), 5) Run Emotion -> Logic -> Fear ads to each bucket."
+        context: "Technical implementation of the retargeting framework. Each audience gets different ad creative matching their stage."
+        pdf_source: "Traffic Secrets"
+        page_ref: "PAGE 174-175"
+        original_pdf_id: "Traffic MET-RB-PDF-003"
+
+      - id: "MET-RB-032"
+        statement: "Instagram Publishing Plan: Daily: Post 2 JK5 images (hooks), post 10-30 Stories documenting journey, 1 swipe-up CTA Story, engage with Dream 100 (10 comments + 10 DMs). Weekly: 1 IGTV episode. Monthly: 1 Highlights Mini Webinar."
+        context: "Comprehensive Instagram execution plan."
+        pdf_source: "Traffic Secrets"
+        page_ref: "PAGE 196"
+        original_pdf_id: "Traffic MET-RB-PDF-004"
+
+      - id: "MET-RB-033"
+        statement: "Facebook Publishing Plan: Daily: 1 personal profile post (JK5 rotation, Hook->Story->Offer, link in comments not post). Weekly: 2-3 Fan Page value videos + 1 Live Perfect Webinar + 1 Group hangout. Monthly: 1 Messenger conversation. Always: $10-$20 boost on every Fan Page post."
+        context: "Comprehensive Facebook execution plan."
+        pdf_source: "Traffic Secrets"
+        page_ref: "PAGE 222"
+        original_pdf_id: "Traffic MET-RB-PDF-005"
+
+      - id: "MET-RB-034"
+        statement: "Conversation Domination Show Production: 1) Script segments for each platform, 2) Go live on Facebook + Instagram simultaneously, 3) Record segments: Monologue (podcast ep 1), Interview (podcast ep 2), Q&A Collabs (IGTV), Top 10 (blog skyscraper), How-Tos (YouTube), Image Stories (Instagram), Quotes (social cards), 4) Record platform-specific intros/outros, 5) Post-production team creates native content."
+        context: "The master show methodology for achieving omnipresence. One weekly production session generates all content for every platform."
+        pdf_source: "Traffic Secrets"
+        page_ref: "PAGE 284-287"
+        original_pdf_id: "Traffic MET-RB-PDF-010"
+
+# ==========================================================================
+# STATISTICS
+# ==========================================================================
+statistics:
+  total_new_elements: 79
+  by_layer:
+    L1_PHILOSOPHIES: 12    # PHI-RB-063 through PHI-RB-074
+    L2_MENTAL_MODELS: 12   # MM-RB-056 through MM-RB-067
+    L3_HEURISTICS: 20      # HEUR-RB-088 through HEUR-RB-107
+    L4_FRAMEWORKS: 17      # FW-RB-052 through FW-RB-068
+    L5_METHODOLOGIES: 18   # MET-RB-017 through MET-RB-034
+  projected_dna_total: 350 # 271 existing + 79 new
+  source_books:
+    - "DotCom Secrets (190 pages)"
+    - "Expert Secrets (254 pages)"
+    - "Traffic Secrets (352 pages)"
+    - "Network Marketing Secrets + Funnel Hacker's Cookbook"
+    - "Modules, Scripts & Swipe Files (15 PDFs)"

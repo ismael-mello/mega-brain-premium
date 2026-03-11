@@ -1,0 +1,817 @@
+# DNA — Capital Upgrade (Paulo Vito Porto / PWR Gestão)
+# Programa: FLGF — Formação de Líderes e Gestores Financeiros
+# Versão: 2.0.0 (COMPLETO — Módulos 00-10+Bonus)
+# Criado: 2026-03-11
+# Status: COMPLETE — 256 elementos extraídos de 11 módulos + bonus
+# Total: 256 elementos (L1:57 L2:50 L3:70 L4:46 L5:33)
+
+metadata:
+  source_id: "capital-upgrade"
+  person: "Paulo Vito Porto"
+  organization: "PWR Gestão"
+  program: "FLGF - Formação de Líderes e Gestores Financeiros"
+  turma: "07"
+  version: "2.0.0"
+  status: "COMPLETE"
+  created: "2026-03-11"
+  modules_complete: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, "Bonus"]
+  modules_pending: []
+  total_elements: 257
+  layer_counts:
+    L1_PHILOSOPHIES: 57
+    L2_MENTAL_MODELS: 50
+    L3_HEURISTICS: 70
+    L4_FRAMEWORKS: 46
+    L5_METHODOLOGIES: 33
+  - id: PHI-CU-100
+    text: "A DRE conta a historia do negocio em numeros - da receita bruta ate o lucro liquido, cada linha revela uma decisao."
+    source: "M04/transcription_DRE_Estrutura.txt"
+  - id: PHI-CU-101
+    text: "Competencia e caixa sao dois mundos diferentes - um mostra o fato gerador, outro mostra o dinheiro. Confundir os dois e o erro mais comum."
+    source: "M04/transcription_DRE_Estrutura.txt"
+  - id: PHI-CU-102
+    text: "Custo esta ligado a atividade fim do negocio, despesa esta ligado a estrutura. Separar isso e fundamental pra entender margem."
+    source: "M04/transcription_Custos_e_Despesas.txt"
+  - id: PHI-CU-103
+    text: "O EBITDA e o grande equalizador - tira juros, impostos, depreciacao e amortizacao pra mostrar a geracao de caixa operacional pura."
+    source: "M04/transcription_EBITDA.txt"
+  - id: PHI-CU-104
+    text: "Indicador que nao serve pra estrategia, pra tomada de decisao ou pra medir performance da operacao, nao serve pra nada."
+    source: "M05/transcription_Indicadores_Parte_1.txt"
+  - id: PHI-CU-105
+    text: "Se voce nao sabe de cabeca seus principais indicadores, nao e problema de memoria - e sintoma de que nao esta fazendo rotinas sistematicas de gestao."
+    source: "M07/transcription_A_importancia_da_ARM_Analise_de_Resultado_Mensal.txt"
+  - id: PHI-CU-106
+    text: "BI sem acao e decoracao. Nao adianta ter dashboard lindo se ninguem toma decisao com base naquilo."
+    source: "M05/transcription_Indicadores_Parte_1.txt"
+  - id: PHI-CU-107
+    text: "Uma coisa e indicador, outra coisa e gestao de resultado. Indicador mede, gestao transforma."
+    source: "M05/transcription_Indicadores_Parte_2.txt"
+  - id: PHI-CU-108
+    text: "Dinheiro, energia e tempo sao recursos escassos. Gestao financeira e escolher onde alocar esses tres."
+    source: "M05/transcription_Indicadores_Parte_1.txt"
+  - id: PHI-CU-109
+    text: "Prevenir inadimplencia e mais barato e mais eficaz do que cobrar. A regua de cobranca comeca antes do vencimento."
+    source: "M06/transcription_Gestao_Financeira_Follow_up.txt"
+  - id: PHI-CU-110
+    text: "Conciliacao bancaria diaria e inegociavel. Passar de um dia ja abre brecha pra problemas."
+    source: "M06/transcription_Gestao_Financeira_Follow_up.txt"
+  - id: PHI-CU-111
+    text: "O modulo de ARM e o mais importante de todos porque nao traz conteudo novo - traz a pratica de analisar resultado."
+    source: "M07/transcription_A_importancia_da_ARM_Analise_de_Resultado_Mensal.txt"
+  - id: PHI-CU-112
+    text: "Na pratica a teoria e outra. So quando voce tenta montar o quebra-cabeca e que descobre as pecas que faltam."
+    source: "M07/transcription_A_importancia_da_ARM_Analise_de_Resultado_Mensal.txt"
+  - id: PHI-CU-113
+    text: "Empresa nao e so engenharia, e artesanato. Os numeros trazem a engenharia, as perguntas trazem a arte."
+    source: "M07/transcription_Gestao_de_Resultados.txt"
+  - id: PHI-CU-114
+    text: "Gestao sem maturidade e perigoso. Voce pode ter os numeros e tomar decisao errada se nao tem a maturidade de interpretar."
+    source: "M07/transcription_Gestao_de_Resultados.txt"
+  - id: PHI-CU-115
+    text: "Confia na tua opiniao mas traz dado. Opiniao sem dado e achismo, dado sem opiniao e planilha morta."
+    source: "M05/transcription_Indicadores_Parte_2.txt"
+  - id: PHI-CU-116
+    text: "Trazer ritmo importa mais do que trazer conhecimento. Com ritmo voce acaba trazendo conhecimento."
+    source: "M07/transcription_A_importancia_da_ARM_Analise_de_Resultado_Mensal.txt"
+  - id: PHI-CU-117
+    text: "A ignorancia e uma bencao temporaria - voce so nao sofre porque nao sabe o tamanho do problema."
+    source: "M05/transcription_Indicadores_Parte_1.txt"
+  - id: PHI-CU-118
+    text: "Nao e sobre ser acessivel, e sobre estar sendo gerenciado. Ter o dado facil e um passo, usar ele e gestao."
+    source: "M07/transcription_A_importancia_da_ARM_Analise_de_Resultado_Mensal.txt"
+  - id: PHI-CU-200
+    text: "Divida nao e problema - divida mal gerenciada e problema. Emprestimo e ferramenta estrategica de crescimento quando bem utilizado."
+    source: "M08/transcription_Por_que_captar_emprestimos.txt"
+  - id: PHI-CU-201
+    text: "O empreendedor nao deve ter medo de divida; deve ter medo de divida sem controle e sem proposito claro de retorno."
+    source: "M08/transcription_Por_que_captar_emprestimos.txt"
+  - id: PHI-CU-202
+    text: "Toda decisao financeira deve ser baseada em dados e nao em achismo - ferramentas praticas sao o que transformam teoria em resultado."
+    source: "M08/transcription_Ferramenta_Pratica.txt"
+  - id: PHI-CU-203
+    text: "O custo efetivo total (CET) e a unica metrica honesta para comparar emprestimos - taxa nominal engana."
+    source: "M08/transcription_Como_escolher_um_emprestimo.txt"
+  - id: PHI-CU-204
+    text: "Orcamento nao e burocracia - e a bussola que impede a empresa de navegar no escuro."
+    source: "M09/transcription_Tipos_de_orcamentos.txt"
+  - id: PHI-CU-205
+    text: "Orcamento Base Zero (OBZ) e o antidoto contra o piloto automatico financeiro - cada centavo precisa justificar sua existencia."
+    source: "M09/transcription_Tipos_de_orcamentos.txt"
+  - id: PHI-CU-206
+    text: "O acompanhamento orcamentario e mais importante que o orcamento em si - plano sem monitoramento e fantasia."
+    source: "M09/transcription_Acompanhamento_de_Orcamentos.txt"
+  - id: PHI-CU-207
+    text: "Gestao financeira e o alicerce de qualquer negocio - sem ela, crescimento e construir em areia movadica."
+    source: "M10/transcription_Consolidado_Geral_FLGF.txt"
+  - id: PHI-CU-208
+    text: "Pro-labore nao e lucro - misturar remuneracao do socio com resultado da empresa e o erro mais comum e mais fatal."
+    source: "Bonus/transcription_Masterclass_Como_Definir_o_seu_Pr_-labore.txt"
+  - id: PHI-CU-209
+    text: "O preco de venda deve ser calculado, nunca chutado - precificacao errada mata mais empresas que falta de clientes."
+    source: "Bonus/transcription_Masterclass_Como_Definir_o_seu_Pr_-labore.txt"
+  - id: PHI-CU-210
+    text: "Margem de contribuicao e o numero mais importante que um empresario precisa conhecer - e o que realmente sobra para pagar a estrutura."
+    source: "Bonus/transcription_Masterclass_Como_Definir_o_seu_Pr_-labore.txt"
+  - id: PHI-CU-211
+    text: "Cenario macroeconomico nao e assunto de economista - empreendedor que ignora Selic e IPCA toma decisao financeira no escuro."
+    source: "M08/transcription_Impacto_Macroeconomico_nos_emprestimos.txt"
+  - id: PHI-CU-212
+    text: "O metodo GMD (Gestao Matricial de Despesas) transforma orcamento de exercicio teorico em ferramenta de accountability real."
+    source: "M09/transcription_Acompanhamento_de_Orcamentos.txt"
+  - id: PHI-CU-213
+    text: "Liquidez e mais importante que lucratividade no curto prazo - empresa lucrativa sem caixa fecha as portas."
+    source: "M10/transcription_Consolidado_Geral_FLGF.txt"
+  - id: MM-CU-100
+    text: "A DRE e um funil - receita bruta no topo, deducoes, custo, despesas operacionais, resultado financeiro, impostos, ate chegar no lucro liquido la embaixo."
+    source: "M04/transcription_DRE_Estrutura.txt"
+  - id: MM-CU-101
+    text: "Dois regimes, duas lentes - competencia mostra quando aconteceu o fato gerador, caixa mostra quando o dinheiro movimentou. DRE usa competencia, fluxo de caixa usa caixa."
+    source: "M04/transcription_DRE_Estrutura.txt"
+  - id: MM-CU-102
+    text: "Custos se dividem em fixos e variaveis, diretos e indiretos. Despesas se dividem em comerciais, administrativas e gerais. A classificacao define onde aparece na DRE."
+    source: "M04/transcription_Custos_e_Despesas.txt"
+  - id: MM-CU-103
+    text: "Analise vertical e o raio-X de um momento - mostra a representatividade percentual de cada linha sobre a receita liquida."
+    source: "M04/transcription_DRE_Estrutura.txt"
+  - id: MM-CU-104
+    text: "Analise horizontal e o filme - mostra a evolucao de cada linha ao longo do tempo, comparando periodos."
+    source: "M04/transcription_DRE_Estrutura.txt"
+  - id: MM-CU-105
+    text: "EBITDA equaliza empresas de portes, setores e paises diferentes porque remove as distorcoes de juros, impostos, depreciacao e amortizacao."
+    source: "M04/transcription_EBITDA.txt"
+  - id: MM-CU-106
+    text: "Indicadores se dividem em indicadores meio (que medem o processo) e indicadores fim (que medem o resultado). Os dois sao necessarios."
+    source: "M05/transcription_Indicadores_Parte_1.txt"
+  - id: MM-CU-107
+    text: "Indicador serve pra tres coisas: tomar decisao, acompanhar se planos saem do papel, ou medir performance da operacao. Se nao faz nenhuma das tres, descarta."
+    source: "M05/transcription_Indicadores_Parte_1.txt"
+  - id: MM-CU-108
+    text: "Classificacao R1 R2 R3: R1 sao indicadores cruciais que voce monitora semanalmente, R2 sao importantes mas mensais, R3 sao complementares e trimestrais."
+    source: "M05/transcription_Indicadores_Parte_1.txt"
+  - id: MM-CU-109
+    text: "Existem 42 indicadores financeiros organizados em 4 grupos: resultado economico, fluxo de caixa, estrutura patrimonial e atividade operacional."
+    source: "M05/apostila_Indicadores_Financeiros_5_Grupos_parte_1.pdf"
+  - id: MM-CU-110
+    text: "Analogia do carro - o indicador e o painel do carro. Voce pode dirigir sem painel, mas nao sabe a velocidade, o combustivel, nem a temperatura. Vai descobrir o problema quando quebrar."
+    source: "M05/transcription_Indicadores_Parte_1.txt"
+  - id: MM-CU-111
+    text: "Fatores criticos de sucesso sao as variaveis que, se nao estiverem bem, comprometem o resultado independente de todo o resto estar perfeito."
+    source: "M05/transcription_Indicadores_Parte_1.txt"
+  - id: MM-CU-112
+    text: "Inadimplencia tem envelhecimento - curtissimo prazo (1-30 dias), curto prazo (30-60), medio prazo (60-90), longo prazo (90+). Cada faixa tem tratamento diferente."
+    source: "M06/transcription_Gestao_Financeira_Follow_up.txt"
+  - id: MM-CU-113
+    text: "Modelo de tres etapas para pagamentos: ordem de compra (decisao de comprar), ordem de pagamento (decisao de pagar), pastinha de pagamentos (execucao do pagamento)."
+    source: "M06/transcription_Gestao_Financeira_Follow_up.txt"
+  - id: MM-CU-114
+    text: "PCLD - Provisao de Credito de Liquidacao Duvidosa - e a conta na DRE que registra creditos que provavelmente nao serao recuperados."
+    source: "M06/transcription_Gestao_Financeira_Follow_up.txt"
+  - id: MM-CU-115
+    text: "Progressao de gestao: disciplina vira habito, habito vira cultura, cultura permite gestao de resultado. Sem disciplina inicial nao ha habito, sem habito nao ha cultura."
+    source: "M07/transcription_Gestao_de_Resultados.txt"
+  - id: MM-CU-116
+    text: "CMV ideal vs CMV real - o ideal e a ficha tecnica perfeita, o real inclui desperdicio, extravio e erro de input. A distancia entre os dois e o diagnostico."
+    source: "M07/transcription_Gestao_de_Resultados.txt"
+  - id: MM-CU-117
+    text: "Efeito espantalho - as vezes voce nao precisa descobrir a fraude, so precisa espalhar a noticia de que esta olhando. O numero melhora sozinho."
+    source: "M07/transcription_Gestao_de_Resultados.txt"
+  - id: MM-CU-118
+    text: "ARM vai do macro pro micro - primeiro a foto dos indicadores, depois a DRE detalhada, depois as curvas mensais. Cada nivel revela o que o anterior escondeu."
+    source: "M07/transcription_Gestao_de_Resultados.txt"
+  - id: MM-CU-119
+    text: "GAF - Grau de Alavancagem Financeira - quanto maior o GAF, maior o endividamento e o risco. So existe alavancagem quando ha capital de terceiros com juros."
+    source: "M05/apostila_Indicadores_Financeiros_5_Grupos_parte_1.pdf"
+  - id: MM-CU-200
+    text: "Modelo de Alavancagem Consciente: emprestimo so faz sentido quando o retorno projetado supera o custo total do capital captado (ROI > CET)."
+    source: "M08/transcription_Grau_de_alavancagem.txt"
+  - id: MM-CU-201
+    text: "Modelo CET vs Taxa Nominal: nunca compare emprestimos pela taxa de juros anunciada - compare sempre pelo Custo Efetivo Total que inclui IOF, TAC e seguros."
+    source: "M08/transcription_Como_escolher_um_emprestimo.txt"
+  - id: MM-CU-202
+    text: "Modelo de Capacidade de Pagamento: antes de contratar divida, calcular se o fluxo de caixa operacional suporta as parcelas sem comprometer capital de giro."
+    source: "M08/transcription_Grau_de_alavancagem.txt"
+  - id: MM-CU-203
+    text: "Modelo SAC vs PRICE: SAC = parcelas decrescentes com mais amortizacao no inicio; PRICE = parcelas fixas com mais juros no inicio. Escolha depende do fluxo de caixa."
+    source: "M08/transcription_Ferramenta_Pratica.txt"
+  - id: MM-CU-204
+    text: "Modelo de Orcamento como Contrato: o orcamento aprovado e um compromisso entre gestores e direcao - desvio exige justificativa formal."
+    source: "M09/transcription_Montagem_de_orcamentos.txt"
+  - id: MM-CU-205
+    text: "Modelo Top-Down vs Bottom-Up: orcamento top-down gera velocidade mas pouca adesao; bottom-up gera adesao mas demora. Ideal e combinar ambos."
+    source: "M09/transcription_Montagem_de_orcamentos.txt"
+  - id: MM-CU-206
+    text: "Modelo de Variancia Orcamentaria: analisar desvio nao e buscar culpados - e entender causas estruturais vs pontuais para calibrar o proximo ciclo."
+    source: "M09/transcription_Acompanhamento_de_Orcamentos.txt"
+  - id: MM-CU-207
+    text: "Modelo de Ponto de Equilibrio Multicanal: cada produto/servico tem seu proprio break-even - media geral mascara produtos que dao prejuizo."
+    source: "Bonus/transcription_Masterclass_Como_Definir_o_seu_Pr_-labore.txt"
+  - id: MM-CU-208
+    text: "Modelo de Precificacao por Margem de Contribuicao: preco = custos variaveis + margem de contribuicao desejada. Nunca precificar apenas por markup sobre custo."
+    source: "Bonus/transcription_Masterclass_Como_Definir_o_seu_Pr_-labore.txt"
+  - id: MM-CU-209
+    text: "Modelo de Separacao Pessoa Fisica vs Juridica: pro-labore e custo fixo da empresa, nao distribuicao de lucro. Confundir os dois distorce toda a gestao financeira."
+    source: "Bonus/transcription_Masterclass_Como_Definir_o_seu_Pr_-labore.txt"
+  - id: MM-CU-210
+    text: "Modelo de Endividamento Saudavel: indice de endividamento geral (Passivo/Ativo) deve ser monitorado mensalmente - acima de 70%% e sinal de alerta."
+    source: "M08/Apostila-Turma-07-FLGF-Modulo-8-Analise-de-Dividas.txt"
+  - id: MM-CU-211
+    text: "Modelo de Ciclo Orcamentario Continuo: orcamento nao e evento anual - e processo ciclico de planejar, executar, comparar e ajustar."
+    source: "M09/Apostila-Turma-07-FLGF-Modulo-9-Orcamento-Empresarial.txt"
+  - id: MM-CU-212
+    text: "Modelo de Consolidacao Financeira: DRE + Balanco + Fluxo de Caixa formam tripe indissociavel - analisar um sem os outros e ver foto recortada."
+    source: "M10/transcription_Consolidado_Geral_FLGF.txt"
+  - id: HEUR-CU-100
+    text: "Receita bruta = preco x quantidade vendida. E o ponto de partida de toda DRE."
+    source: "M04/transcription_DRE_Estrutura.txt"
+  - id: HEUR-CU-101
+    text: "CMV para comercio, CPV para industria, CSP para servico. O nome muda mas o conceito e o mesmo - custo direto da atividade fim."
+    source: "M04/transcription_Custos_e_Despesas.txt"
+  - id: HEUR-CU-102
+    text: "SGA = Selling, General and Administrative. Sao as despesas comerciais, gerais e administrativas que ficam abaixo do lucro bruto na DRE."
+    source: "M04/transcription_DRE_Estrutura.txt"
+  - id: HEUR-CU-103
+    text: "EBITDA = lucro operacional + depreciacao + amortizacao. Nao inclui juros nem impostos sobre renda."
+    source: "M04/transcription_EBITDA.txt"
+  - id: HEUR-CU-104
+    text: "Depreciacao nao e saida de caixa - e reconhecimento contabil de perda de valor. Por isso o EBITDA adiciona de volta."
+    source: "M04/transcription_EBITDA.txt"
+  - id: HEUR-CU-105
+    text: "Analise vertical: cada linha da DRE dividida pela receita liquida x 100. Mostra o percentual de representatividade."
+    source: "M04/transcription_DRE_Estrutura.txt"
+  - id: HEUR-CU-106
+    text: "Analise horizontal: banana com banana - comparar janeiro-marco deste ano com janeiro-marco do ano passado, nao com o ano inteiro."
+    source: "M07/transcription_Gestao_de_Resultados.txt"
+  - id: HEUR-CU-107
+    text: "Regra do fato gerador: na DRE entra pelo mes em que o servico foi prestado ou produto entregue, no fluxo de caixa entra quando o dinheiro movimentou."
+    source: "M04/transcription_DRE_Estrutura.txt"
+  - id: HEUR-CU-108
+    text: "Margem bruta = lucro bruto / receita liquida. Indica eficiencia operacional pura da atividade fim."
+    source: "M05/apostila_Indicadores_Financeiros_5_Grupos_parte_1.pdf"
+  - id: HEUR-CU-109
+    text: "Lucro operacional = lucro bruto - SGA. Mostra se a operacao e lucrativa ja com toda a estrutura necessaria."
+    source: "M05/apostila_Indicadores_Financeiros_5_Grupos_parte_1.pdf"
+  - id: HEUR-CU-110
+    text: "Qualidade das vendas = caixa gerado pelas vendas / vendas totais. Mede quanto da receita virou dinheiro de fato."
+    source: "M05/apostila_Indicadores_Financeiros_5_Grupos_parte_1.pdf"
+  - id: HEUR-CU-111
+    text: "Qualidade do resultado = fluxo de caixa operacional / lucro operacional EBIT. Mostra quanto do lucro contabil virou caixa real."
+    source: "M05/apostila_Indicadores_Financeiros_5_Grupos_parte_1.pdf"
+  - id: HEUR-CU-112
+    text: "Cobertura de juros com caixa = FCO / despesas financeiras. Se maior que 1, a operacao gera caixa suficiente pra pagar juros."
+    source: "M05/apostila_Indicadores_Financeiros_5_Grupos_parte_1.pdf"
+  - id: HEUR-CU-113
+    text: "Cobertura de dividas = (FCO - dividendos) / divida total. Indica quantos anos para quitar toda a divida com caixa operacional."
+    source: "M05/apostila_Indicadores_Financeiros_5_Grupos_parte_1.pdf"
+  - id: HEUR-CU-114
+    text: "ROIC = FCO antes de juros e impostos / ativo total. Retorno de caixa sobre o investimento total aplicado na empresa."
+    source: "M05/apostila_Indicadores_Financeiros_5_Grupos_parte_1.pdf"
+  - id: HEUR-CU-115
+    text: "Investimento vs financiamento = fluxo de investimento / fluxo de financiamento. Indica se o crescimento esta sendo financiado de forma sustentavel."
+    source: "M05/apostila_Indicadores_Financeiros_5_Grupos_parte_1.pdf"
+  - id: HEUR-CU-116
+    text: "Indicadores de fluxo de caixa sofrem as mesmas limitacoes dos tradicionais - nao devem ser usados isoladamente ou por periodo curto."
+    source: "M05/apostila_Indicadores_Financeiros_5_Grupos_parte_1.pdf"
+  - id: HEUR-CU-117
+    text: "Conciliacao bancaria deve ser feita diariamente. Se passar de um dia, ja comeca a abrir brechas para problemas."
+    source: "M06/transcription_Gestao_Financeira_Follow_up.txt"
+  - id: HEUR-CU-118
+    text: "Consolidar pagamentos em menos dias possiveis - quanto menos dias de pagamento, mais controle e previsibilidade de caixa."
+    source: "M06/transcription_Gestao_Financeira_Follow_up.txt"
+  - id: HEUR-CU-119
+    text: "Quando um pagamento sai do trilho, faca a biopsia - volte ao processo e entenda porque saiu. A causa quase sempre esta na ordem de compra."
+    source: "M06/transcription_Gestao_Financeira_Follow_up.txt"
+  - id: HEUR-CU-120
+    text: "Alinhar dias de pagamento com dias de recebimento. Se recebe mais na primeira quinzena, paga na segunda."
+    source: "M06/transcription_Gestao_Financeira_Follow_up.txt"
+  - id: HEUR-CU-121
+    text: "Taxa prefixada da controle total de previsao e provisionamento. Pos-fixada expoe ao mercado externo e pode duplicar ou triplicar o custo."
+    source: "M06/apostila_Gestao_Financeira.pdf"
+  - id: HEUR-CU-122
+    text: "Inadimplencia de curtissimo prazo (1-30 dias) geralmente e problema de processo, nao de cliente. Buscar as causas antes de cobrar."
+    source: "M06/transcription_Gestao_Financeira_Follow_up.txt"
+  - id: HEUR-CU-123
+    text: "Boleto tem risco especifico - se nao for pago, pode gerar novos indefinidamente. Avaliar aderencia antes de expandir essa linha de recebimento."
+    source: "M06/transcription_Gestao_Financeira_Follow_up.txt"
+  - id: HEUR-CU-124
+    text: "Na ARM, comparar acumulado com acumulado - se passou 3 meses esse ano, comparo com 3 meses do ano passado. Banana com banana."
+    source: "M07/transcription_Gestao_de_Resultados.txt"
+  - id: HEUR-CU-125
+    text: "Quebrar a DRE em trimestres ou meses revela o que o acumulado esconde. O que nao enxerguei em 8 meses, posso enxergar num trimestre."
+    source: "M07/transcription_Gestao_de_Resultados.txt"
+  - id: HEUR-CU-126
+    text: "Distancia entre CMV ideal e real so tem tres causas: desperdicio, informacao imputada errada, ou extravio. Nao tem quarta opcao."
+    source: "M07/transcription_Gestao_de_Resultados.txt"
+  - id: HEUR-CU-127
+    text: "Se o CMV real nao mudou mas a distancia pro ideal aumentou, a ficha tecnica pode estar desatualizada - e o preco tambem."
+    source: "M07/transcription_Gestao_de_Resultados.txt"
+  - id: HEUR-CU-128
+    text: "ARM mensal e o minimo. De tanto repetir os mesmos indicadores todo mes, voce nao esquece mais. Nao e teste de memoria, e consistencia."
+    source: "M07/transcription_A_importancia_da_ARM_Analise_de_Resultado_Mensal.txt"
+  - id: HEUR-CU-200
+    text: "Sempre compare emprestimos pelo CET (Custo Efetivo Total), nunca pela taxa nominal - a diferenca pode chegar a 40%% do custo real."
+    source: "M08/transcription_Como_escolher_um_emprestimo.txt"
+  - id: HEUR-CU-201
+    text: "Comprometimento maximo de fluxo de caixa com divida: 30%% da geracao de caixa operacional. Acima disso, risco de insolvencia."
+    source: "M08/transcription_Grau_de_alavancagem.txt"
+  - id: HEUR-CU-202
+    text: "SAC e melhor para quem tem caixa forte no inicio; PRICE e melhor para quem precisa de previsibilidade nas parcelas."
+    source: "M08/transcription_Ferramenta_Pratica.txt"
+  - id: HEUR-CU-203
+    text: "Indice de endividamento geral acima de 70%% (Passivo Total / Ativo Total) e sinal de alerta - empresa esta excessivamente alavancada."
+    source: "M08/Apostila-Turma-07-FLGF-Modulo-8-Analise-de-Dividas.txt"
+  - id: HEUR-CU-204
+    text: "Antes de captar emprestimo, verificar 3 condicoes: (1) ROI projetado > CET, (2) fluxo de caixa suporta parcelas, (3) existe garantia adequada."
+    source: "M08/transcription_Por_que_captar_emprestimos.txt"
+  - id: HEUR-CU-205
+    text: "Monitorar taxa Selic e IPCA mensalmente - quando Selic sobe, custo de capital aumenta e emprestimos pos-fixados ficam mais caros."
+    source: "M08/transcription_Impacto_Macroeconomico_nos_emprestimos.txt"
+  - id: HEUR-CU-206
+    text: "Em periodos de Selic alta, preferir emprestimos pre-fixados. Em Selic baixa com tendencia de queda, pos-fixados podem ser vantajosos."
+    source: "M08/transcription_Impacto_Macroeconomico_nos_emprestimos.txt"
+  - id: HEUR-CU-207
+    text: "Orcamento Base Zero (OBZ) deve ser usado pelo menos 1x a cada 3 anos para eliminar gastos zumbis que se perpetuam por inércia."
+    source: "M09/transcription_Tipos_de_orcamentos.txt"
+  - id: HEUR-CU-208
+    text: "Variancia orcamentaria acima de 10%% em qualquer centro de custo exige investigacao formal e plano de acao corretivo."
+    source: "M09/transcription_Acompanhamento_de_Orcamentos.txt"
+  - id: HEUR-CU-209
+    text: "Usar GMD (Gestao Matricial de Despesas) para cruzar pacotes de gastos vs entidades - elimina buracos negros orcamentarios."
+    source: "M09/transcription_Acompanhamento_de_Orcamentos.txt"
+  - id: HEUR-CU-210
+    text: "Orcamento deve ser montado com pelo menos 3 cenarios: otimista, realista e pessimista - decidir pelo realista, planejar pelo pessimista."
+    source: "M09/transcription_Montagem_de_orcamentos.txt"
+  - id: HEUR-CU-211
+    text: "Revisar orcamento trimestralmente no minimo - orcamento anual sem revisao e mapa desatualizado."
+    source: "M09/transcription_Acompanhamento_de_Orcamentos.txt"
+  - id: HEUR-CU-212
+    text: "Pro-labore ideal: entre 25%% e 40%% do lucro liquido da empresa. Acima disso, compromete reinvestimento e capital de giro."
+    source: "Bonus/transcription_Masterclass_Como_Definir_o_seu_Pr_-labore.txt"
+  - id: HEUR-CU-213
+    text: "Ponto de equilibrio deve ser calculado por produto/servico, nao pela empresa como um todo - media esconde produtos deficitarios."
+    source: "Bonus/transcription_Masterclass_Como_Definir_o_seu_Pr_-labore.txt"
+  - id: HEUR-CU-214
+    text: "Margem de contribuicao minima saudavel: 40%% para servicos, 25%% para produtos fisicos. Abaixo disso, volume precisa ser altissimo."
+    source: "Bonus/transcription_Masterclass_Como_Definir_o_seu_Pr_-labore.txt"
+  - id: HEUR-CU-215
+    text: "Na formacao de preco, incluir TODOS os custos variaveis (impostos, comissoes, frete, gateway) antes de aplicar margem desejada."
+    source: "Bonus/transcription_Masterclass_Como_Definir_o_seu_Pr_-labore.txt"
+  - id: HEUR-CU-216
+    text: "Indice de cobertura de juros (EBITDA/Despesas Financeiras) deve ser no minimo 2x - abaixo disso, empresa nao gera caixa suficiente para servir a divida."
+    source: "M08/Apostila-Turma-07-FLGF-Modulo-8-Analise-de-Dividas.txt"
+  - id: HEUR-CU-217
+    text: "Caso Brahma/AmBev: OBZ economizou R00 milhoes em 2 anos cortando gastos que ninguem questionava - aplicar mesmo principio em qualquer escala."
+    source: "M09/Turma-07-FLGF-Modulo-09-Orcamento-Empresarial-1.txt"
+  - id: FW-CU-100
+    text: "Estrutura da DRE em 10 niveis: receita bruta, deducoes, receita liquida, custos (CMV/CPV/CSP), lucro bruto, despesas operacionais (SGA), lucro operacional, resultado financeiro, IR/CSLL, lucro liquido."
+    source: "M04/transcription_DRE_Estrutura.txt"
+  - id: FW-CU-101
+    text: "Framework de analise dupla: toda DRE deve ter analise vertical (representatividade percentual) E analise horizontal (evolucao temporal) simultaneamente."
+    source: "M04/transcription_DRE_Estrutura.txt"
+  - id: FW-CU-102
+    text: "Framework EBITDA: parte do lucro operacional, adiciona depreciacao e amortizacao. Serve para comparar geracao de caixa operacional entre empresas de diferentes portes, setores e paises."
+    source: "M04/transcription_EBITDA.txt"
+  - id: FW-CU-103
+    text: "Framework competencia vs caixa: a DRE registra pelo fato gerador (competencia), o fluxo de caixa registra pela movimentacao financeira. Ambos necessarios, nenhum substitui o outro."
+    source: "M04/transcription_DRE_Estrutura.txt"
+  - id: FW-CU-104
+    text: "Plano de contas estruturado: organizar todas as receitas, custos e despesas em contas e subcontas padronizadas. E a base para qualquer analise financeira confiavel."
+    source: "M04/transcription_Custos_e_Despesas.txt"
+  - id: FW-CU-105
+    text: "42 indicadores financeiros organizados em 4 grupos: indicadores de resultado economico, indicadores de fluxo de caixa, indicadores de estrutura patrimonial, indicadores de atividade operacional."
+    source: "M05/apostila_Indicadores_Financeiros_5_Grupos_parte_1.pdf"
+  - id: FW-CU-106
+    text: "Classificacao R1-R2-R3 de indicadores: R1 cruciais (monitoramento semanal com asterisco), R2 importantes (monitoramento mensal), R3 complementares (monitoramento trimestral). Cada negocio define seus R1."
+    source: "M05/transcription_Indicadores_Parte_1.txt"
+  - id: FW-CU-107
+    text: "Indicadores de resultado economico: lucro bruto e margem bruta, lucro operacional e margem operacional, lucro liquido e margem liquida, GAF. Todos derivados da DRE por competencia."
+    source: "M05/apostila_Indicadores_Financeiros_5_Grupos_parte_1.pdf"
+  - id: FW-CU-108
+    text: "Indicadores de fluxo de caixa em 4 subgrupos: suficiencia (cobertura de juros, dividas, dividendos), qualidade (vendas, resultado), dispendios de capital (CAPEX, investimento vs financiamento), retorno (ROIC, retorno sobre PL)."
+    source: "M05/apostila_Indicadores_Financeiros_5_Grupos_parte_1.pdf"
+  - id: FW-CU-109
+    text: "Custo de oportunidade do indicador: para cada indicador, perguntar qual e o custo de NAO ter ele. Se o custo de nao ter e alto, e R1. Se e baixo, pode ser R3 ou descartavel."
+    source: "M05/transcription_Indicadores_Parte_1.txt"
+  - id: FW-CU-110
+    text: "Gestao de inadimplencia: prevencao (regua de credito, analise pre-venda), deteccao (aging report, envelhecimento), acao (cobranca por faixa de atraso), provisao (PCLD na DRE)."
+    source: "M06/transcription_Gestao_Financeira_Follow_up.txt"
+  - id: FW-CU-111
+    text: "Rotina de pagamentos: definir dias fixos de pagamento, alinhar com fluxo de recebimento, consolidar em menos dias possiveis, toda excecao gera biopsia do processo."
+    source: "M06/transcription_Gestao_Financeira_Follow_up.txt"
+  - id: FW-CU-112
+    text: "Analise de endividamento: avaliar tipo de taxa (pre vs pos), simular cenarios de custo da divida na DRE, verificar se operacao banca o endividamento, ter estrategia de contencao."
+    source: "M06/apostila_Gestao_Financeira.pdf"
+  - id: FW-CU-113
+    text: "GAF = LAJIR / LAIR. Quanto maior, maior o endividamento e risco. So existe quando ha capital de terceiros com juros na estrutura."
+    source: "M05/apostila_Indicadores_Financeiros_5_Grupos_parte_1.pdf"
+  - id: FW-CU-114
+    text: "ARM Forma 1: slide com indicadores macro do ano, DRE comparativa acumulado este ano vs acumulado ano passado, com AV e AH. Visao foto."
+    source: "M07/transcription_Gestao_de_Resultados.txt"
+  - id: FW-CU-115
+    text: "ARM Forma 2: mesma DRE quebrada em trimestres ou meses. Comparar trimestre com trimestre, mes com mes. Perspectivas diferentes do mesmo numero."
+    source: "M07/transcription_Gestao_de_Resultados.txt"
+  - id: FW-CU-116
+    text: "Escada da gestao: disciplina (decisao momentanea) gera habito (se torna natural) gera cultura (coletivo adota) gera gestao de resultado (sustentavel)."
+    source: "M07/transcription_Gestao_de_Resultados.txt"
+  - id: FW-CU-117
+    text: "CMV ideal vs real: montar ficha tecnica com custo ideal, comparar com custo real todo mes, medir a distancia, investigar as 3 causas possiveis (desperdicio, erro de input, extravio)."
+    source: "M07/transcription_Gestao_de_Resultados.txt"
+  - id: FW-CU-118
+    text: "Efeito espantalho: quando suspeitar de irregularidade, espalhar a noticia de que esta sendo monitorado. Se o indicador melhora sozinho, confirma a hipotese sem precisar provar."
+    source: "M07/transcription_Gestao_de_Resultados.txt"
+  - id: FW-CU-200
+    text: "Framework de Analise de Emprestimos: (1) Calcular CET real, (2) Comparar CET vs ROI projetado, (3) Simular impacto no fluxo de caixa, (4) Verificar garantias disponiveis, (5) Analisar cenario macro (Selic/IPCA), (6) Decidir tipo de amortizacao (SAC/PRICE)."
+    source: "M08/transcription_Como_escolher_um_emprestimo.txt"
+  - id: FW-CU-201
+    text: "Framework de Painel de Dividas: Consolidar todas as dividas em painel unico com: credor, saldo devedor, taxa efetiva, CET, parcela mensal, prazo restante, tipo (SAC/PRICE), garantia. Atualizar mensalmente."
+    source: "M08/transcription_Ferramenta_Pratica.txt"
+  - id: FW-CU-202
+    text: "Framework de Grau de Alavancagem: Calcular (1) Endividamento Geral = Passivo/Ativo, (2) Composicao do Endividamento = PC/PassivoTotal, (3) Cobertura de Juros = EBITDA/DespFinanceiras. Monitorar mensalmente."
+    source: "M08/transcription_Grau_de_alavancagem.txt"
+  - id: FW-CU-203
+    text: "Framework OBZ (Orcamento Base Zero): (1) Zerar todos os gastos, (2) Cada gestor justifica cada real do zero, (3) Priorizar por impacto no resultado, (4) Eliminar gastos sem justificativa clara, (5) Aprovar novo orcamento bottom-up."
+    source: "M09/transcription_Tipos_de_orcamentos.txt"
+  - id: FW-CU-204
+    text: "Framework de Montagem Orcamentaria: (1) Definir premissas macro (inflacao, cambio, Selic), (2) Projetar receita por canal/produto, (3) Orcamentar custos variaveis como percentual da receita, (4) Orcamentar custos fixos com justificativa, (5) Consolidar DRE projetado, (6) Projetar fluxo de caixa."
+    source: "M09/transcription_Montagem_de_orcamentos.txt"
+  - id: FW-CU-205
+    text: "Framework GMD (Gestao Matricial de Despesas): Cruzar eixo vertical (pacotes de gastos: pessoal, marketing, TI) com eixo horizontal (entidades: departamentos, filiais). Cada celula tem dono e meta. Desvio exige justificativa cruzada."
+    source: "M09/transcription_Acompanhamento_de_Orcamentos.txt"
+  - id: FW-CU-206
+    text: "Framework de Acompanhamento Orcamentario: (1) Fechar mes contabil ate dia 5, (2) Comparar real vs orcado por centro de custo, (3) Calcular variancia percentual, (4) Investigar desvios > 10 por cento, (5) Criar plano de acao corretivo, (6) Ajustar forecast trimestral."
+    source: "M09/transcription_Acompanhamento_de_Orcamentos.txt"
+  - id: FW-CU-207
+    text: "Framework de Definicao de Pro-labore: (1) Calcular lucro liquido medio dos ultimos 12 meses, (2) Definir percentual de pro-labore (25-40 por cento), (3) Verificar se valor cobre necessidades pessoais do socio, (4) Comparar com salario de mercado para funcao equivalente, (5) Formalizar como custo fixo no DRE."
+    source: "Bonus/transcription_Masterclass_Como_Definir_o_seu_Pr_-labore.txt"
+  - id: FW-CU-208
+    text: "Framework de Ponto de Equilibrio: (1) Listar todos os custos fixos mensais, (2) Calcular margem de contribuicao unitaria (preco - custos variaveis), (3) PE = Custos Fixos / Margem de Contribuicao Unitaria, (4) Validar se volume de PE e alcancavel, (5) Calcular por produto/servico individualmente."
+    source: "Bonus/transcription_Masterclass_Como_Definir_o_seu_Pr_-labore.txt"
+  - id: FW-CU-209
+    text: "Framework de Formacao de Preco: (1) Somar todos os custos variaveis unitarios (materia-prima, impostos, comissao, frete, gateway), (2) Definir margem de contribuicao desejada, (3) Preco = Custos Variaveis / (1 - Margem Desejada), (4) Validar contra mercado, (5) Ajustar se necessario sem comprometer margem minima."
+    source: "Bonus/transcription_Masterclass_Como_Definir_o_seu_Pr_-labore.txt"
+  - id: FW-CU-210
+    text: "Framework de Consolidacao Financeira FLGF: (1) DRE - entender lucratividade, (2) Balanco - entender posicao patrimonial, (3) Fluxo de Caixa - entender liquidez, (4) Indicadores - conectar os tres demonstrativos, (5) Analise de Endividamento, (6) Orcamento, (7) Ponto de Equilibrio como indicador de seguranca."
+    source: "M10/transcription_Consolidado_Geral_FLGF.txt"
+  - id: FW-CU-211
+    text: "Framework de Cenarios Orcamentarios: (1) Cenario Pessimista - receita -20 por cento, custos +10 por cento, (2) Cenario Realista - base historica ajustada, (3) Cenario Otimista - receita +15 por cento com eficiencia. Aprovar orcamento no Realista, manter plano de contingencia no Pessimista."
+    source: "M09/transcription_Montagem_de_orcamentos.txt"
+  - id: MET-CU-100
+    text: "Montagem da DRE passo a passo: 1) definir plano de contas, 2) classificar cada gasto como custo ou despesa, 3) alocar por competencia, 4) calcular lucro bruto, operacional e liquido, 5) aplicar AV e AH."
+    source: "M04/transcription_DRE_Estrutura.txt"
+  - id: MET-CU-101
+    text: "Classificacao de custos: perguntar se este gasto esta diretamente ligado a atividade fim. Se sim, e custo. Se nao, e despesa. Segundo nivel: e fixo ou variavel? Direto ou indireto?"
+    source: "M04/transcription_Custos_e_Despesas.txt"
+  - id: MET-CU-102
+    text: "Analise combinada AV+AH: primeiro fazer AV para ver a foto, depois AH para ver o filme. Cruzar os dois revela tendencias que nenhum sozinho mostra."
+    source: "M04/transcription_DRE_Estrutura.txt"
+  - id: MET-CU-103
+    text: "Definicao de indicadores: 1) listar fatores criticos de sucesso do negocio, 2) para cada fator, definir indicador que mede, 3) classificar em R1/R2/R3, 4) definir frequencia de medicao, 5) definir meta."
+    source: "M05/transcription_Indicadores_Parte_1.txt"
+  - id: MET-CU-104
+    text: "Benchmark de indicadores: 1) calcular seus indicadores, 2) buscar benchmark do setor, 3) comparar, 4) se abaixo da media, investigar causa, 5) criar plano de acao para melhorar. Repetir todo mes."
+    source: "M05/apostila_Indicadores_Financeiros_5_Grupos_parte_1.pdf"
+  - id: MET-CU-105
+    text: "Montagem pratica de indicador: definir nome, formula, fonte do dado, frequencia, responsavel, meta, e o custo de oportunidade de nao ter esse indicador."
+    source: "M05/transcription_Indicadores_Parte_2.txt"
+  - id: MET-CU-106
+    text: "Conciliacao bancaria diaria: 1) baixar extrato, 2) comparar com lancamentos do sistema, 3) identificar divergencias, 4) ajustar no mesmo dia, 5) nunca acumular para o dia seguinte."
+    source: "M06/transcription_Gestao_Financeira_Follow_up.txt"
+  - id: MET-CU-107
+    text: "Gestao de inadimplencia: 1) montar aging report por faixas de atraso, 2) identificar causas por faixa, 3) definir acoes por faixa (lembrete, contato, acordo, PCLD), 4) prevenir com regua de credito pre-venda."
+    source: "M06/transcription_Gestao_Financeira_Follow_up.txt"
+  - id: MET-CU-108
+    text: "Avaliacao de emprestimo: 1) simular custo total na DRE, 2) verificar se margem operacional suporta, 3) escolher entre pre e pos-fixado conforme cenario, 4) ter estrategia de contencao se pos-fixado subir."
+    source: "M06/apostila_Gestao_Financeira.pdf"
+  - id: MET-CU-109
+    text: "ARM mensal completa: 1) apresentar indicadores macro do ano, 2) DRE comparativa acumulado vs ano anterior com AV e AH, 3) quebrar em trimestres e meses, 4) abrir curvas de cada indicador, 5) fazer as perguntas."
+    source: "M07/transcription_Gestao_de_Resultados.txt"
+  - id: MET-CU-110
+    text: "Investigacao de CMV: 1) calcular CMV ideal pela ficha tecnica, 2) medir CMV real no periodo, 3) medir distancia, 4) se distancia grande, investigar 3 causas (desperdicio, erro de input, extravio), 5) aplicar efeito espantalho se suspeitar de extravio."
+    source: "M07/transcription_Gestao_de_Resultados.txt"
+  - id: MET-CU-111
+    text: "ARM do zero para quem esta comecando: 1) montar com o que tem, mesmo que incompleto, 2) fazer todo mes sem falta, 3) a cada mes identificar o que falta, 4) ir preenchendo as lacunas, 5) em 3-4 meses a maturidade vem."
+    source: "M07/transcription_A_importancia_da_ARM_Analise_de_Resultado_Mensal.txt"
+  - id: MET-CU-112
+    text: "Diagnostico G5: checklist de mais de 100 itens nos 5 pilares da gestao financeira. Bater foto periodicamente, comparar evolucao, priorizar pelo pilar mais baixo."
+    source: "M07/transcription_A_importancia_da_ARM_Analise_de_Resultado_Mensal.txt"
+  - id: MET-CU-113
+    text: "Analise de perspectivas temporais: 1) ver acumulado do ano, 2) comparar com acumulado do ano anterior, 3) quebrar em trimestres, 4) quebrar em meses, 5) para cada anomalia perguntar por que e tentar replicar se positivo."
+    source: "M07/transcription_Gestao_de_Resultados.txt"
+  - id: MET-CU-200
+    text: "Metodologia de Analise de Viabilidade de Emprestimo: Passo 1 - Definir necessidade de capital e prazo. Passo 2 - Pesquisar 3+ opcoes de credito. Passo 3 - Calcular CET de cada opcao. Passo 4 - Simular SAC e PRICE para cada. Passo 5 - Projetar fluxo de caixa com parcelas incluidas. Passo 6 - Calcular ROI esperado do investimento. Passo 7 - Aprovar apenas se ROI > CET e fluxo de caixa suporta."
+    source: "M08/transcription_Como_escolher_um_emprestimo.txt"
+  - id: MET-CU-201
+    text: "Metodologia de Construcao do Painel de Dividas: Passo 1 - Listar todas as dividas ativas. Passo 2 - Para cada divida registrar: credor, saldo, taxa, CET, parcela, prazo, tipo, garantia. Passo 3 - Classificar por custo (CET decrescente). Passo 4 - Identificar candidatas a renegociacao ou quitacao antecipada. Passo 5 - Atualizar mensalmente no fechamento contabil."
+    source: "M08/transcription_Ferramenta_Pratica.txt"
+  - id: MET-CU-202
+    text: "Metodologia OBZ Completa: Passo 1 - Comunicar a toda empresa que orcamento sera zerado. Passo 2 - Cada gestor prepara proposta justificando cada gasto do zero. Passo 3 - Classificar propostas em: essencial, importante, desejavel. Passo 4 - Aprovar de baixo para cima ate atingir teto orcamentario. Passo 5 - Gastos nao aprovados sao eliminados. Passo 6 - Monitorar mensalmente aderencia ao novo orcamento."
+    source: "M09/transcription_Tipos_de_orcamentos.txt"
+  - id: MET-CU-203
+    text: "Metodologia de Montagem Orcamentaria Anual: Passo 1 - Definir premissas (inflacao, Selic, cambio) em outubro. Passo 2 - Areas projetam receita por produto/canal. Passo 3 - Financeiro valida premissas de custos variaveis. Passo 4 - Gestores orcam custos fixos com justificativa. Passo 5 - Consolidar em DRE projetado. Passo 6 - Projetar fluxo de caixa e necessidade de capital. Passo 7 - Diretoria aprova. Passo 8 - Publicar como compromisso formal."
+    source: "M09/transcription_Montagem_de_orcamentos.txt"
+  - id: MET-CU-204
+    text: "Metodologia GMD Mensal: Passo 1 - Fechar contabilidade do mes (ate dia 5). Passo 2 - Alimentar matriz pacotes x entidades com valores reais. Passo 3 - Calcular variancia real vs orcado por celula. Passo 4 - Gestor de pacote justifica desvios > 10 por cento. Passo 5 - Gestor de entidade valida justificativa. Passo 6 - Plano de acao para desvios nao justificados. Passo 7 - Atualizar forecast do trimestre."
+    source: "M09/transcription_Acompanhamento_de_Orcamentos.txt"
+  - id: MET-CU-205
+    text: "Metodologia de Calculo de Pro-labore: Passo 1 - Levantar lucro liquido medio 12 meses. Passo 2 - Definir percentual (25-40 por cento). Passo 3 - Calcular valor bruto do pro-labore. Passo 4 - Aplicar encargos (INSS, IR). Passo 5 - Verificar se valor liquido atende necessidades pessoais. Passo 6 - Comparar com piso salarial da funcao. Passo 7 - Formalizar em contrato social ou ata. Passo 8 - Registrar como custo fixo mensal no DRE."
+    source: "Bonus/transcription_Masterclass_Como_Definir_o_seu_Pr_-labore.txt"
+  - id: MET-CU-206
+    text: "Metodologia de Calculo do Ponto de Equilibrio: Passo 1 - Listar todos os custos fixos mensais (aluguel, salarios, pro-labore, softwares). Passo 2 - Calcular preco de venda unitario. Passo 3 - Listar custos variaveis unitarios (materia-prima, impostos, comissao). Passo 4 - Margem Contribuicao = Preco - Custos Variaveis. Passo 5 - PE em unidades = Custos Fixos / MC unitaria. Passo 6 - PE em reais = PE unidades x Preco. Passo 7 - Validar se PE e alcancavel com capacidade atual."
+    source: "Bonus/transcription_Masterclass_Como_Definir_o_seu_Pr_-labore.txt"
+  - id: MET-CU-207
+    text: "Metodologia de Formacao de Preco por Margem: Passo 1 - Levantar custo de materia-prima/hora. Passo 2 - Somar impostos sobre venda (Simples/Lucro Presumido). Passo 3 - Somar comissao de venda. Passo 4 - Somar custo de frete/entrega. Passo 5 - Somar taxa de gateway/meio de pagamento. Passo 6 - Total custos variaveis = soma dos passos 1-5. Passo 7 - Definir margem desejada (ex: 40 por cento). Passo 8 - Preco = Custos Variaveis / (1 - 0.40). Passo 9 - Validar contra concorrencia. Passo 10 - Ajustar margem se necessario, nunca abaixo do minimo."
+    source: "Bonus/transcription_Masterclass_Como_Definir_o_seu_Pr_-labore.txt"
+  - id: MET-CU-208
+    text: "Metodologia de Renegociacao de Dividas: Passo 1 - Listar dividas por CET decrescente (mais cara primeiro). Passo 2 - Para a mais cara, pesquisar opcoes de portabilidade. Passo 3 - Calcular economia total com nova taxa. Passo 4 - Negociar com banco atual usando proposta da concorrencia. Passo 5 - Se nao igualar, executar portabilidade. Passo 6 - Repetir para proxima divida mais cara. Passo 7 - Atualizar painel de dividas."
+    source: "M08/Apostila-Turma-07-FLGF-Modulo-8-Analise-de-Dividas.txt"
+  - id: MET-CU-209
+    text: "Metodologia de Revisao Orcamentaria Trimestral: Passo 1 - Consolidar real vs orcado do trimestre encerrado. Passo 2 - Identificar desvios recorrentes (3 meses consecutivos). Passo 3 - Classificar desvios em estruturais vs pontuais. Passo 4 - Para estruturais: ajustar orcamento dos trimestres restantes. Passo 5 - Para pontuais: manter orcamento original com nota explicativa. Passo 6 - Recalcular projecao de fechamento anual. Passo 7 - Comunicar ajustes a gestores envolvidos."
+    source: "M09/transcription_Acompanhamento_de_Orcamentos.txt"
+# ═══════════════════════════════════════════════════════════════
+# L1 — PHILOSOPHIES (57)
+# ═══════════════════════════════════════════════════════════════
+L1_PHILOSOPHIES:
+  - id: PHI-CU-001
+    text: "Gestão tem mais a ver com consistência do que grandes evoluções — fazer 1% todo dia é melhor que 100% vez outra"
+    source: "M00/transcription_Orientacoes_Gerais.txt"
+  - id: PHI-CU-002
+    text: "Os números contam a história, os números denunciam problemas e os números vislumbram oportunidades"
+    source: "M00/transcription_Orientacoes_Gerais.txt"
+  - id: PHI-CU-003
+    text: "O que quebra o teu negócio é justamente aquilo que você não está enxergando"
+    source: "M00/transcription_Orientacoes_Gerais.txt"
+  - id: PHI-CU-004
+    text: "Conteúdo é a metajuda, só a execução resolve — conhecimento sem prática é irrelevante"
+    source: "M00/transcription_Conceitos_Nivelamento_e_Diagnostico.txt"
+  - id: PHI-CU-005
+    text: "Caixa não é lucro — empresas lucrativas quebram por falta de caixa, empresas com caixa podem estar quebrando operacionalmente"
+    source: "M00/transcription_Conceitos_Nivelamento_e_Diagnostico.txt"
+  - id: PHI-CU-006
+    text: "Decoreba é igual a burrice administrativa — entenda a essência, não decore passos que não fazem sentido"
+    source: "M00/transcription_Gastos_Custos_Despesas_e_Investimentos.txt"
+  - id: PHI-CU-007
+    text: "Não dá para fazer gestão com número errado — número errado leva a decisão errada"
+    source: "M00/transcription_Plano_de_Contas_o_detalhe_que_orienta_tudo.txt"
+  - id: PHI-CU-008
+    text: "Se banalizar o plano de contas, o resto dos módulos será tentativa de corrigir o acerto"
+    source: "M00/transcription_Plano_de_Contas_o_detalhe_que_orienta_tudo.txt"
+  - id: PHI-CU-009
+    text: "Tesouraria não é linha de chegada, é linha de partida — contas a pagar/receber, DRE e fluxo de caixa são o básico, não o objetivo final"
+    source: "M01/transcription_O_Jogo_do_Financeiro.txt"
+  - id: PHI-CU-010
+    text: "Somos mais corretivos do que preventivos — na saúde, na segurança, na empresa. A maioria busca HELP, não UP"
+    source: "M01/transcription_O_Jogo_do_Financeiro.txt"
+  - id: PHI-CU-011
+    text: "Quem ganhou o jogo na gestão financeira não é o mais conhecedor de técnicas, é aquele que consegue aplicar as técnicas relevantes de forma constante"
+    source: "M01/transcription_O_Jogo_do_Financeiro.txt"
+  - id: PHI-CU-012
+    text: "O GESTOR toma decisões com base em fatos e dados. O AGITADOR toma decisões com base em sentimentos"
+    source: "M01/Apostila-FLGF-Turma-07-Modulo-1.txt"
+  - id: PHI-CU-013
+    text: "O GESTOR trabalha com consistência (1% todo dia). O AGITADOR trabalha por espasmos (tacada de mestre)"
+    source: "M01/Apostila-FLGF-Turma-07-Modulo-1.txt"
+  - id: PHI-CU-014
+    text: "O GESTOR se coloca como responsável do problema. O AGITADOR se coloca como o dono do sucesso"
+    source: "M01/Apostila-FLGF-Turma-07-Modulo-1.txt"
+  - id: PHI-CU-015
+    text: "Pró-labore deve ser definido pelo valor de mercado meritocrático da cadeira, não pelo estilo de vida do sócio"
+    source: "M00/transcription_Ferramenta_G5_Financeiro_-_Parte_2.txt"
+  - id: PHI-CU-016
+    text: "Proteger a empresa e mimar a empresa são coisas diferentes — receber menos que deveria distorce a DRE e os indicadores"
+    source: "M00/transcription_Ferramenta_G5_Financeiro_-_Parte_2.txt"
+  - id: PHI-CU-017
+    text: "Não é qualquer patamar de lucro que justifica o investimento — rentabilidade importa mais que lucratividade isolada"
+    source: "M02/transcription_Relacao_entre_BP_DRE_DFC.txt"
+  - id: PHI-CU-018
+    text: "O Balanço bate uma foto, a DRE conta um filme — cada pausa de interpretação da DRE permite decisões diferentes"
+    source: "M02/transcription_DRE_-_Demonstracao_do_Resultado_do_Exercicio.txt"
+  - id: PHI-CU-019
+    text: "Façam as perguntas certas e tentem respondê-las — metade do jogo está aí"
+    source: "M02/transcription_DRE_-_Demonstracao_do_Resultado_do_Exercicio.txt"
+  - id: PHI-CU-020
+    text: "Faturamento é vaidade, lucro é verdade, caixa é rei — caixa impede a continuidade ou proporciona oportunidades"
+    source: "M03/transcription_Gerando_Caixa_sem_Rupturas.txt"
+  - id: PHI-CU-021
+    text: "Tudo que é urgente é mais caro — dinheiro urgente é mais caro. Prever rupturas antecipadamente evita custo extra"
+    source: "M03/transcription_Gestao_de_caixa_a_vital_rotina.txt"
+  - id: PHI-CU-022
+    text: "O contrário de descontrole na gestão não é controle total — é controle assistido, atualizado, com F5 constante"
+    source: "M03/transcription_As_premissas_da_Projecao_do_Caixa.txt"
+  - id: PHI-CU-023
+    text: "Problema sênior não admite equipe júnior — gestão complexa não pode ter follow-up simplificado"
+    source: "M03/transcription_As_premissas_da_Projecao_do_Caixa.txt"
+  - id: PHI-CU-024
+    text: "Não complexifique o simples, mas não banalize o complexo"
+    source: "M03/transcription_As_premissas_da_Projecao_do_Caixa.txt"
+
+# ═══════════════════════════════════════════════════════════════
+# L2 — MENTAL MODELS (50)
+# ═══════════════════════════════════════════════════════════════
+L2_MENTAL_MODELS:
+  - id: MM-CU-001
+    text: "Modelo Caixa vs Competência — caixa é ferramenta tangível (pinga na conta), lucro é teoria operacional real. DFC para caixa, DRE para competência"
+    source: "M00/transcription_Conceitos_Nivelamento_e_Diagnostico.txt"
+  - id: MM-CU-002
+    text: "Modelo de Classificação de Gastos: Todo gasto é custo (ligado à operação), despesa (administrativo/suporte), ou investimento (ativado como patrimônio)"
+    source: "M00/transcription_Gastos_Custos_Despesas_e_Investimentos.txt"
+  - id: MM-CU-003
+    text: "Modelo G5 de Maturidade Financeira — 6 níveis: G0=sem dados, G1=construir dados, G2=dados→informação, G3=analisar, G4=controlar PDCA, G5=execução cíclica constante"
+    source: "M00/transcription_Ferramenta_G5_Financeiro_-_Parte_1.txt"
+  - id: MM-CU-004
+    text: "Modelo do Plano de Contas como DNA financeiro — hierarquia que separa custos, despesas e investimentos para alimentar cada peça financeira"
+    source: "M00/transcription_Plano_de_Contas_o_detalhe_que_orienta_tudo.txt"
+  - id: MM-CU-005
+    text: "Modelo da Caixa Preta: Bom resultado + Gestão (caixa preta) = grandes resultados. O diferencial não é técnica, é comportamento consistente"
+    source: "M01/transcription_O_Jogo_do_Financeiro.txt"
+  - id: MM-CU-006
+    text: "Modelo GESTOR vs AGITADOR — Gestor usa fatos/dados, consistência, longo prazo. Agitador usa sentimentos, espasmos, curto prazo"
+    source: "M01/Apostila-FLGF-Turma-07-Modulo-1.txt"
+  - id: MM-CU-007
+    text: "Tríade da Estruturação + Tríade da Execução + Cultura de Resultado — framework de transformação do setor financeiro"
+    source: "M01/Apostila-FLGF-Turma-07-Modulo-1.txt"
+  - id: MM-CU-008
+    text: "Modelo UP vs HELP — maioria busca consultoria por HELP (angústia) e não UP (otimização). Reconhecer posição antes de agir"
+    source: "M01/transcription_O_Jogo_do_Financeiro.txt"
+  - id: MM-CU-009
+    text: "Modelo do Tempo de Forno — cada empresa tem jornada, distância e velocidade próprias. Progresso empilha até transformação"
+    source: "M00/transcription_Orientacoes_Gerais.txt"
+  - id: MM-CU-010
+    text: "4 Perspectivas Financeiras: Econômica (DRE), Caixa (DFC), Previsão (Orçamento), Patrimonial (Balanço)"
+    source: "M02/transcription_Relacao_entre_BP_DRE_DFC.txt"
+  - id: MM-CU-011
+    text: "Modelo Foto vs Filme: Balanço = foto (situação num momento), DRE = filme (jornada com pausas de interpretação)"
+    source: "M02/transcription_DRE_-_Demonstracao_do_Resultado_do_Exercicio.txt"
+  - id: MM-CU-012
+    text: "Modelo Liquidez + Rentabilidade: análise financeira busca 'sou líquido?' e 'sou rentável?' — dois eixos fundamentais"
+    source: "M02/transcription_Relacao_entre_BP_DRE_DFC.txt"
+  - id: MM-CU-013
+    text: "Modelo DFC 3 Atividades: Caixa em Operacional, Investimento e Financiamento — onde gera e onde consome muda tudo"
+    source: "M02/transcription_DFC_-_Demonstracao_de_Fluxo_de_Caixa.txt"
+  - id: MM-CU-014
+    text: "Dados Concretos vs Estimados na projeção: concretos = contas existentes; estimados = vendas futuras, premissas, sazonalidade"
+    source: "M03/transcription_As_premissas_da_Projecao_do_Caixa.txt"
+  - id: MM-CU-015
+    text: "Ciclo Operacional e Financeiro: CO = PME + PMR; CF = CO - PMP. CF = necessidade de capital de giro em dias"
+    source: "M03/transcription_Ciclo_Financeiro_e_Operacional.txt"
+  - id: MM-CU-016
+    text: "Modelo Piscina com Borda: sem DFC, afoga numa piscina sem borda. Com DFC, o problema ganha borda — pode pegar nele"
+    source: "M02/transcription_DFC_-_Demonstracao_de_Fluxo_de_Caixa.txt"
+  - id: MM-CU-017
+    text: "Crescimento que Consome Caixa: empresas crescem mais rápido que geram caixa — NCG cresce com faturamento. 5 lojas pode ser pior que 2"
+    source: "M01/transcription_O_Jogo_do_Financeiro.txt"
+
+# ═══════════════════════════════════════════════════════════════
+# L3 — HEURISTICS (70)
+# ═══════════════════════════════════════════════════════════════
+L3_HEURISTICS:
+  - id: HEUR-CU-001
+    text: "Se custos > 50% da receita e benchmark do setor é 30-35%, há problema de precificação, apuração ou eficiência"
+    source: "M02/transcription_DRE.txt"
+  - id: HEUR-CU-002
+    text: "Varejo com 2-5% de lucro líquido é normal — não comparar com serviços (20-30%+)"
+    source: "M01/transcription_O_Jogo_do_Financeiro.txt"
+  - id: HEUR-CU-003
+    text: "Competência: registrar no fato gerador. Caixa: registrar quando pinga/sai. DRE = competência, DFC = caixa"
+    source: "M00/transcription_Conceitos_Nivelamento_e_Diagnostico.txt"
+  - id: HEUR-CU-004
+    text: "Depreciação = (Valor Aquisição - Valor Residual) / Anos Vida Útil / 12. Ex: câmera 15K, residual 3K, 5 anos = R$200/mês"
+    source: "M00/transcription_Ferramenta_G5_Financeiro_-_Parte_2.txt"
+  - id: HEUR-CU-005
+    text: "Diagnóstico G5: 80+ itens SIM/NÃO/NA. Prioridade 1 (alta), 2 (média), 3 (baixa)"
+    source: "M00/transcription_Ferramenta_G5_Financeiro_-_Parte_1.txt"
+  - id: HEUR-CU-006
+    text: "Cadência: 1 módulo/semana com aplicação prática entre módulos"
+    source: "M00/transcription_Orientacoes_Gerais.txt"
+  - id: HEUR-CU-007
+    text: "CAPEX NÃO entra direto na DRE — entra via depreciação mensal. Confundir distorce o resultado"
+    source: "M00/transcription_Gastos_Custos_Despesas_e_Investimentos.txt"
+  - id: HEUR-CU-008
+    text: "Aluguel do prédio próprio: registrar na DRE mesmo não cobrando. Mesmo para pró-labore abaixo do mercado"
+    source: "M00/transcription_Ferramenta_G5_Financeiro_-_Parte_2.txt"
+  - id: HEUR-CU-009
+    text: "Indicador financeiro só vale se cumprir pelo menos 1 de 3 pré-requisitos — senão é enfeite"
+    source: "M01/transcription_O_Jogo_do_Financeiro.txt"
+  - id: HEUR-CU-010
+    text: "Gestor Financeiro: apurar peças corretamente e tempestivamente, analisar 100% mensalmente, ser DONO dos KPIs"
+    source: "M01/Apostila-FLGF-Turma-07-Modulo-1.txt"
+  - id: HEUR-CU-011
+    text: "Rentabilidade = LL/Investimento(PL). Lucratividade = LL/Receita. 30% lucratividade pode ser ruim se investimento foi desproporcional"
+    source: "M02/transcription_Relacao_entre_BP_DRE_DFC.txt"
+  - id: HEUR-CU-012
+    text: "Giro de Ativos = Vendas/Ativo Total; Liquidez Seca = (AC-Estoques)/PC; Alavancagem = Dívida Líquida/PL"
+    source: "M02/Apostila-Modulo-02.txt"
+  - id: HEUR-CU-013
+    text: "PL: Ano 1 = LL direto. Anos seguintes = acumulado + LL - distribuições"
+    source: "M02/transcription_DRE.txt"
+  - id: HEUR-CU-014
+    text: "DFC com caixa operacional positivo mas consumo por financiamento → priorizar: alongar dívidas, reduzir custo financeiro"
+    source: "M02/transcription_DFC.txt"
+  - id: HEUR-CU-015
+    text: "Premissa inadimplência: medir historicamente (ex: 90% na data, 10% atrasa). Usar como redutor nas projeções"
+    source: "M03/transcription_As_premissas_da_Projecao_do_Caixa.txt"
+  - id: HEUR-CU-016
+    text: "Ciclo Financeiro = PME + PMR - PMP. Ex: 30+30-10 = 50 dias de NCG"
+    source: "M03/transcription_Ciclo_Financeiro_e_Operacional.txt"
+  - id: HEUR-CU-017
+    text: "Serviços sem estoque: CO = PMR. PME=0, então CF = PMR - PMP"
+    source: "M03/transcription_Ciclo_Financeiro_e_Operacional.txt"
+  - id: HEUR-CU-018
+    text: "Conciliação bancária deve ser DIÁRIA (D+1) — 100% transações identificadas e classificadas"
+    source: "M03/transcription_Conciliacao_Bancaria.txt"
+  - id: HEUR-CU-019
+    text: "Ferramentas conciliação automática (Equals, Concil): R$150-300/mês — mais barato que manual"
+    source: "M03/transcription_Conciliacao_Bancaria.txt"
+  - id: HEUR-CU-020
+    text: "Caixa operacional positivo + saldo final negativo → problema em financiamento ou investimento"
+    source: "M03/transcription_DFC_Direto_e_Indireto.txt"
+  - id: HEUR-CU-021
+    text: "Projeção: separar dados concretos (contas existentes) de estimados (vendas futuras com premissas)"
+    source: "M03/transcription_As_premissas_da_Projecao_do_Caixa.txt"
+  - id: HEUR-CU-022
+    text: "Negociação com fornecedor: ser transparente com antecedência, mostrar fluxo de caixa, propor prazo com garantia escrita"
+    source: "M03/transcription_Gestao_de_caixa.txt"
+  - id: HEUR-CU-023
+    text: "DRE: Receitas → (-) Custos → LB → (-) Despesas → LO → (-) Financeiro → LAIR → (-) IR → LL. Cada pausa é uma pergunta"
+    source: "M02/transcription_DRE.txt"
+
+# ═══════════════════════════════════════════════════════════════
+# L4 — FRAMEWORKS (46)
+# ═══════════════════════════════════════════════════════════════
+L4_FRAMEWORKS:
+  - id: FW-CU-001
+    text: "G5 Financeiro (Diagnóstico): 6 níveis maturidade (G0-G5), 80+ itens, 3 níveis prioridade. Gera placar + plano de ação"
+    source: "M00/transcription_Ferramenta_G5_Financeiro_-_Parte_1.txt"
+  - id: FW-CU-002
+    text: "Plano de Contas Estruturado: hierarquia sintéticas/analíticas, separando Custos (CSP/CMV), Despesas (SG&A), Investimentos (CAPEX)"
+    source: "M00/transcription_Plano_de_Contas.txt"
+  - id: FW-CU-003
+    text: "Classificação SDNA: Despesas de Vendas, Gerais Administrativas — energia, sistemas, marketing, comissões, pessoal, terceiros"
+    source: "M00/transcription_Plano_de_Contas.txt"
+  - id: FW-CU-004
+    text: "GESTOR vs AGITADOR: 10 dimensões — decisões, consistência, estratégia, motivação, execução, prazo, responsabilidade, postura, desafios, resolução"
+    source: "M01/Apostila-FLGF-Turma-07-Modulo-1.txt"
+  - id: FW-CU-005
+    text: "6 Responsabilidades do Gestor Financeiro: apurar, analisar 100% mensal, apurar KPIs, ser DONO dos indicadores, foco caixa, foco lucratividade"
+    source: "M01/Apostila-FLGF-Turma-07-Modulo-1.txt"
+  - id: FW-CU-006
+    text: "4 Perspectivas Financeiras: Econômica (DRE), Caixa (DFC), Previsão (Orçamento), Patrimonial (Balanço)"
+    source: "M02/transcription_Relacao_entre_BP_DRE_DFC.txt"
+  - id: FW-CU-007
+    text: "Inter-relação BP/DRE/DFC: LL(DRE) → PL(Balanço). Saldo Final(DFC) = Caixa e Bancos(Balanço). Os 3 devem conciliar"
+    source: "M02/transcription_DRE.txt"
+  - id: FW-CU-008
+    text: "Perguntas da DRE: Origem sustentável? Crescimento receita? Eficiência? EBITDA? Impacto financeiro? Fiscal? Margem líquida? Acionistas?"
+    source: "M02/transcription_DRE.txt"
+  - id: FW-CU-009
+    text: "DFC 3 Atividades: Operacional, Investimento, Financiamento. Onde gera? Onde consome? O que fazer?"
+    source: "M02/transcription_DFC.txt"
+  - id: FW-CU-010
+    text: "Fluxo de Caixa Direto vs Indireto: Direto = base transacional. Indireto = partir do LL e ajustar. Ambos = mesmo resultado"
+    source: "M03/transcription_DFC_Direto_e_Indireto.txt"
+  - id: FW-CU-011
+    text: "Projeção de Caixa: Dados Concretos + Dados Estimados + Cenários (base, otimista, pessimista)"
+    source: "M03/transcription_As_premissas_da_Projecao_do_Caixa.txt"
+  - id: FW-CU-012
+    text: "Ciclo Financeiro: PME + PMR = CO. CO - PMP = CF (necessidade de capital de giro em dias)"
+    source: "M03/transcription_Ciclo_Financeiro_e_Operacional.txt"
+  - id: FW-CU-013
+    text: "Conciliação Bancária: rotina D+1, 100% classificado, ferramentas automáticas quando possível"
+    source: "M03/transcription_Conciliacao_Bancaria.txt"
+  - id: FW-CU-014
+    text: "Check List de Fechamento com Contador: O QUE, EM QUE TEMPO, POR QUEM"
+    source: "M02/transcription_Como_utilizar_o_contador.txt"
+  - id: FW-CU-015
+    text: "Análise de Contas a Receber: Montante, Aging, vencidos vs a vencer, perdas, inadimplentes, régua de cobrança, projeções"
+    source: "M03/Apostila-Turma-05-FLGF-Modulo-03.txt"
+
+# ═══════════════════════════════════════════════════════════════
+# L5 — METHODOLOGIES (33)
+# ═══════════════════════════════════════════════════════════════
+L5_METHODOLOGIES:
+  - id: MET-CU-001
+    text: "Diagnóstico G5: 1) Preencher 80+ itens SIM/NÃO 2) Classificar prioridade 3) Calcular maturidade G0-G5 4) Identificar gaps 5) Plano de ação P1 6) Executar ciclicamente"
+    source: "M00/transcription_Ferramenta_G5_Financeiro_-_Parte_1.txt"
+  - id: MET-CU-002
+    text: "Montagem Plano de Contas: 1) Modelo base (Comércio/Indústria/Serviço) 2) Hierarquias sintéticas/analíticas 3) Separar CSP/SG&A/CAPEX 4) Coluna 'afeta caixa?'/'afeta DRE?' 5) Adaptar à empresa 6) Revisar com contador"
+    source: "M00/transcription_Plano_de_Contas.txt"
+  - id: MET-CU-003
+    text: "Utilizar Contador: 1) Reunião com G5 em mãos 2) Apresentar gaps 3) Check list O QUE/QUANDO/QUEM 4) Revisão tributária (Simples/Presumido/Real) 5) Closing mensal com prazos 6) Contabilidade como fonte de dados"
+    source: "M02/transcription_Como_utilizar_o_contador.txt"
+  - id: MET-CU-004
+    text: "Gestão de Caixa Diária: 1) Conciliação D+1 2) Baixar recebíveis confirmados 3) Baixar pagáveis executados 4) Classificar transações novas 5) Atualizar projeção 6) Identificar rupturas futuras"
+    source: "M03/transcription_Gestao_de_caixa.txt"
+  - id: MET-CU-005
+    text: "Projeção de Caixa: 1) Mapear dados concretos 2) Estimar variáveis (% à vista, parcelado) 3) Premissas inadimplência 4) Cenários base/otimista/pessimista 5) Saldo final 6) Agir preventivamente 7) Revisar mensalmente"
+    source: "M03/transcription_As_premissas_da_Projecao_do_Caixa.txt"
+  - id: MET-CU-006
+    text: "DFC Método Direto: 1) Exportar transações 2) Classificar conforme plano de contas 3) Agrupar em 3 atividades 4) Calcular geração/consumo por atividade 5) Saldo final 6) Validar = Balanço"
+    source: "M03/transcription_DFC_Direto_e_Indireto.txt"
+  - id: MET-CU-007
+    text: "Cálculo Ciclo Financeiro: 1) PME=(Estoque/CMV)×360 2) PMR=(CR/Receita)×360 3) PMP=(Fornecedores/Compras)×360 4) CO=PME+PMR 5) CF=CO-PMP 6) Analisar redução PMR/PME ou aumento PMP 7) Simular cenários"
+    source: "M03/transcription_Ciclo_Financeiro_e_Operacional.txt"
+  - id: MET-CU-008
+    text: "Negociação Preventiva Fornecedores: 1) Identificar ruptura com antecedência 2) Ligar ANTES do vencimento 3) Transparência com boa-fé 4) Novo prazo com garantia formal 5) Compensação se descumprir 6) Não abusar"
+    source: "M03/transcription_Gestao_de_caixa.txt"
+  - id: MET-CU-009
+    text: "Controle Depreciação: 1) Listar ativos 2) Registrar valor/data aquisição 3) Definir valor residual 4) Vida útil em anos 5) Cota mensal = (Aquisição-Residual)/(Anos×12) 6) Lançar na DRE mensalmente"
+    source: "M00/transcription_Ferramenta_G5_Financeiro_-_Parte_2.txt"

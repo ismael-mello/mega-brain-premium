@@ -1,0 +1,1051 @@
+# Cole Gordon - Cognitive DNA (Unified Format)
+# Source: Closers.io / 7 Beliefs Framework / Call Flow / Show Rate / Team Scaling
+# Total elements: 73 | Migrated from legacy 5-file format: 2026-03-02
+# Original extraction: 2025-12-24 | Updated: 2026-01-10 (Fase 5 Consolidation)
+# Version: 3.0.0 | Batches: CG001-CG004, BATCH-005 to BATCH-008
+# Total insights processed: 373 | Total chunks: 373
+
+person:
+  name: "Cole Gordon"
+  empresa: "Closers.io"
+  source: "7 Beliefs Framework, Call Flow Structure, Show Rate Optimization, Team Scaling, Courses, Marketing, Masterminds, Podcasts"
+  modules_processed: 8
+  total_chunks: 373
+  sintese: |
+    Cole Gordon pensa em termos de PREVENÇÃO, não tratamento. Enquanto a maioria
+    dos closers foca em lidar com objeções, ele foca em fazer com que objeções
+    nunca apareçam. A chave são as 7 Beliefs que todo prospect precisa ter para
+    comprar - 6 instaladas no Discovery, 1 no Pitch. Sua abordagem é fortemente
+    influenciada por Cialdini - especialmente o Consistency Bias. Se o prospect
+    DIZ EM VOZ ALTA que acredita algo, ele vai agir de forma consistente. É contra
+    pressão externa (descontos, urgência artificial) e a favor de pressão interna
+    (prospect reconhecer que precisa mudar). Isso cria vendas que não cancelam.
+
+layers:
+
+  # ==========================================================================
+  # L1: PHILOSOPHIES (12 items)
+  # ==========================================================================
+  L1_PHILOSOPHIES:
+    count: 12
+    items:
+
+      - id: "CG-FIL-001"
+        title: "Philosophy Over Tactics"
+        statement: "Filosofia supera táticas. Se você tem os mental models corretos, scripts e técnicas vêm naturalmente."
+        quote: "If you have the right philosophy, the tactics and scripts come naturally."
+        weight: 0.95
+        chunk_ids: ["CG001_001"]
+        source_ids: ["CG001"]
+        domains: ["sales-philosophy", "training", "mastery"]
+        implications:
+          - "Investir mais tempo em entender PORQUE algo funciona"
+          - "Scripts são training wheels - usar no início, abandonar depois"
+          - "Flexibilidade comportamental baseada em princípios"
+          - "Mestres improvisam; novatos seguem roteiro"
+
+      - id: "CG-FIL-002"
+        title: "Objections Are Symptoms"
+        statement: "Objeções são sintomas, não causas. Se você está tratando objeção no final da call, já perdeu."
+        quote: "Objection prevention is upstream, objection handling is downstream."
+        weight: 0.95
+        chunk_ids: ["CG001_002"]
+        source_ids: ["CG001"]
+        domains: ["objection-handling", "discovery", "root-cause"]
+        implications:
+          - "Prevenção upstream é mais efetiva que handling downstream"
+          - "Objeção mapeada a uma das 7 Beliefs = belief não instalada"
+          - "Discovery bem feito elimina 80% das objeções"
+          - "Nunca tratar sintoma - buscar causa raiz"
+
+      - id: "CG-FIL-003"
+        title: "Internal Over External Pressure"
+        statement: "Internal pressure > external pressure. A decisão deve vir de razões internas do prospect, não coerção externa."
+        quote: "Fast action discounts are training wheels. They diminish respect from affluent prospects."
+        weight: 0.90
+        chunk_ids: ["CG001_003"]
+        source_ids: ["CG001"]
+        domains: ["pricing", "urgency", "client-quality"]
+        implications:
+          - "Fast action discounts diminuem respeito de prospects affluent"
+          - "Urgência artificial atrai clientes que cancelam"
+          - "Pressão interna cria vendas que não cancelam"
+          - "Perguntas que fazem prospect reconhecer necessidade de mudar"
+
+      - id: "CG-FIL-004"
+        title: "Conviction Beats Skill"
+        statement: "Conviction beats tactical skill every time. Sua convicção precisa superar a dúvida do prospect."
+        quote: "Conviction beats tactical skill every time. Your conviction needs to overcome their doubt."
+        weight: 0.90
+        chunk_ids: ["CG001_004"]
+        source_ids: ["CG001"]
+        domains: ["inner-game", "conviction", "mindset"]
+        implications:
+          - "Vender algo que você é naturalmente drawn to"
+          - "Estudar produto, clientes, testemunhos constantemente"
+          - "Manter Say/Do Ratio = 1:1"
+          - "Colecionar folder de 'thank you for enrolling me'"
+
+      - id: "CG-FIL-005"
+        title: "Trust Built in Discovery"
+        statement: "Trust é construída no Discovery, não no rapport. Rapport só serve para mostrar que você é normal."
+        quote: "Trust is NOT built in rapport. Rapport is just to show you're a normal human being. TRUST is built in Discovery."
+        weight: 0.85
+        chunk_ids: ["CG001_005"]
+        source_ids: ["CG001"]
+        domains: ["rapport", "trust", "discovery"]
+        implications:
+          - "Não perder tempo excessivo em small talk"
+          - "Discovery profundo demonstra entendimento do problema"
+          - "Se descrever problema melhor que prospect, ele assume solução"
+          - "Rapport overdone é armadilha comum"
+
+      - id: "CG-FIL-006"
+        title: "Different Is Better Than Better"
+        statement: "'Different is better than better.' Posicionamento por diferenciação supera competição direta."
+        quote: "Different is better than better - positioning principle from Ron"
+        weight: 0.90
+        chunk_ids: ["BATCH-005_001"]
+        source_ids: ["BATCH-005"]
+        domains: ["positioning", "strategy", "branding"]
+        implications:
+          - "Encontrar ângulo único ao invés de ser 'melhor' no mesmo"
+          - "Evitar comparações diretas com concorrentes"
+          - "Criar categoria própria quando possível"
+          - "Diferenciação permite premium pricing"
+
+      - id: "CG-FIL-007"
+        title: "Never Trust Closers' Words"
+        statement: "Nunca acredite no que closer diz - acredite apenas se as estatísticas são altas."
+        quote: "Never take a closer at their word unless statistics are high. Closers will lie about how things are going - ALL THE TIME"
+        weight: 0.90
+        chunk_ids: ["BATCH-005_002"]
+        source_ids: ["BATCH-005"]
+        domains: ["management", "leadership", "trust-but-verify"]
+        implications:
+          - "Closers vão mentir sobre como as coisas estão indo - ALWAYS"
+          - "Confiar em dados, não em palavras"
+          - "Sistema de métricas e accountability é obrigatório"
+          - "Secret shopping para verificar comportamento real"
+
+      - id: "CG-FIL-008"
+        title: "Data-Driven Behavioral Reform"
+        statement: "Vendedores reformam comportamento quando mostrados dados inarguáveis."
+        quote: "Salespeople reform behavior when shown inarguable data"
+        weight: 0.85
+        chunk_ids: ["BATCH-005_003"]
+        source_ids: ["BATCH-005"]
+        domains: ["coaching", "behavior-change", "feedback"]
+        implications:
+          - "Feedback abstrato não funciona"
+          - "Gravar calls e mostrar evidências concretas"
+          - "Secret shopping gera dados que não tem como negar"
+          - "Confrontar com fatos, não opiniões"
+
+      - id: "CG-FIL-009"
+        title: "Secret Shopping Supreme"
+        statement: "Secret shopping é a reforma comportamental mais efetiva já vista em times de closers."
+        quote: "Secret shopping is better than video courses, better than handheld training - most effective behavioral reform ever seen"
+        weight: 0.85
+        chunk_ids: ["BATCH-005_004"]
+        source_ids: ["BATCH-005"]
+        domains: ["management", "quality-control", "culture"]
+        implications:
+          - "Melhor que video courses"
+          - "Melhor que handheld training"
+          - "Melhor que 1:1s tradicionais"
+          - "Closers sabendo que PODEM ser testados muda comportamento"
+
+      - id: "CG-FIL-010"
+        title: "Name and Shame Accountability"
+        statement: "Name and shame na frente do time é accountability real. Como arremesso livre no basquete."
+        quote: "Name and shame in front of the team - free throw analogy for individual accountability"
+        weight: 0.80
+        chunk_ids: ["BATCH-005_005"]
+        source_ids: ["BATCH-005"]
+        domains: ["accountability", "team-management", "culture"]
+        implications:
+          - "Accountability individual em público"
+          - "Consequências visíveis para todos"
+          - "Cria pressão social positiva"
+          - "Closers não querem ser expostos"
+
+      - id: "CG-FIL-011"
+        title: "Rapport Before SPIN"
+        statement: "Warmup/Rapport ANTES de SPIN - nunca pule. É o prerequisito."
+        quote: "Warmup/Rapport BEFORE SPIN - never skip. Critical prerequisite"
+        weight: 0.85
+        chunk_ids: ["BATCH-005_006"]
+        source_ids: ["BATCH-005"]
+        domains: ["sales-process", "discovery", "sequencing"]
+        implications:
+          - "SPIN sem rapport causa resistência"
+          - "Prospect precisa se sentir confortável antes de revelar problemas"
+          - "Ordem importa: Rapport → SPIN → Solution"
+          - "Pular etapas custa vendas"
+
+      - id: "CG-FIL-012"
+        title: "Mehrabian Communication Principle"
+        statement: "7% palavras, 38% tonalidade, 55% linguagem corporal. Mehrabian muda tudo sobre como vender."
+        quote: "7-38-55 Principle (Dr. Albert Mehrabian): 7% Words, 38% Tonality, 55% Body language"
+        weight: 0.90
+        chunk_ids: ["BATCH-005_007"]
+        source_ids: ["BATCH-005"]
+        domains: ["communication", "tonality", "body-language"]
+        implications:
+          - "Treinamento de tonalidade é mais importante que scripts"
+          - "Vídeo > phone para high-ticket"
+          - "O QUE você diz importa menos que COMO você diz"
+          - "Postura e expressões impactam resultado"
+
+  # ==========================================================================
+  # L2: MENTAL MODELS (10 items)
+  # ==========================================================================
+  L2_MENTAL_MODELS:
+    count: 10
+    items:
+
+      - id: "CG-MM-001"
+        title: "7 Beliefs as Objection Map"
+        statement: "Qualquer objeção pode ser mapeada para uma das 7 beliefs. Se prospect objeta, uma belief não foi instalada."
+        quote: "Every objection maps to one of the 7 beliefs. If they object, you missed installing one."
+        weight: 0.95
+        chunk_ids: ["CG001_006"]
+        source_ids: ["CG001"]
+        domains: ["objection-mapping", "diagnostics", "discovery"]
+        when_to_apply: "Analisando porque prospect não fechou ou qual belief falta"
+        how_to_use: |
+          1. Prospect apresenta objeção
+          2. Mapear para qual das 7 Beliefs:
+             PAIN, DOUBT, COST, DESIRE, MONEY, SUPPORT, TRUST
+          3. Voltar e instalar belief faltante
+          4. Se estruturou corretamente, objeção desaparece
+        related_to: ["CG-FIL-002"]
+
+      - id: "CG-MM-002"
+        title: "Buying Pocket Spectrum"
+        statement: "Prospect está em algum lugar entre 'impossível para mim' e 'posso fazer sozinho'. Seu trabalho é movê-lo para o meio."
+        quote: "Adjust approach based on where prospect is on the spectrum between 'impossible' and 'can do it myself'."
+        weight: 0.85
+        chunk_ids: ["CG002_003"]
+        source_ids: ["CG002"]
+        domains: ["prospect-assessment", "calibration", "pitch-adjustment"]
+        when_to_apply: "Ajustando abordagem baseado na posição do prospect"
+        how_to_use: |
+          IMPOSSÍVEL <-----> BUYING POCKET <-----> FAZ SOZINHO
+          Se "impossível" → usar PROOF (cases, stats, testimonials)
+          Se "faz sozinho" → usar SKILL QUESTIONS + REFRAMES
+          Zona ideal: "É possível, mas preciso de ajuda"
+
+      - id: "CG-MM-003"
+        title: "Hell Island vs Heaven Island"
+        statement: "Criar clareza extrema entre futuro sem mudança (Hell) e futuro com mudança (Heaven). Quanto mais clareza, mais tensão interna."
+        quote: "The more CLARITY on the difference between Hell Island and Heaven Island, the more internal TENSION."
+        weight: 0.90
+        chunk_ids: ["CG002_004"]
+        source_ids: ["CG002"]
+        domains: ["discovery", "emotional-leverage", "future-pacing"]
+        when_to_apply: "Discovery para criar leverage emocional sem manipulação"
+        how_to_use: |
+          1. Hell Island: "O que acontece em 1, 3, 5, 10 anos se nada mudar?"
+          2. Heaven Island: "Se resolver isso, como seria sua vida?"
+          3. Contraste: Quanto maior a diferença, maior a tensão interna
+        related_to: ["CG-FIL-003"]
+
+      - id: "CG-MM-004"
+        title: "Consistency Bias as Sales Engine"
+        statement: "Se prospect DIZ EM VOZ ALTA que acredita algo, ele vai agir de forma consistente com isso. Perguntas são mais poderosas que afirmações."
+        quote: "The Consistency Bias (Cialdini) is the most powerful in sales. If the prospect SAYS OUT LOUD that they believe something, they will act consistently."
+        weight: 0.90
+        chunk_ids: ["CG001_007"]
+        source_ids: ["CG001"]
+        domains: ["persuasion", "psychology", "questions"]
+        when_to_apply: "Desenhando perguntas de discovery e pitch"
+        how_to_use: |
+          ERRADO: Você afirmar "Nosso produto é o melhor"
+          CERTO: Prospect afirmar via resposta a pergunta
+          "O que acontece se nada mudar nos próximos 12 meses?"
+          Agora prospect se comprometeu verbalmente com necessidade de mudar.
+
+      - id: "CG-MM-005"
+        title: "Resolve vs Pumped Up Energy"
+        statement: "Estado ideal de venda não é energia hype mas calm sense of certainty. Como se já estivesse feito."
+        quote: "Resolve is not pumped up energy. It's a calm sense of certainty, as if it's already done."
+        weight: 0.80
+        chunk_ids: ["CG001_008"]
+        source_ids: ["CG001"]
+        domains: ["inner-game", "state-management", "mindset"]
+        when_to_apply: "Gerenciando estado interno antes e durante calls"
+        how_to_use: |
+          EVITAR (Pumped Up): Tony Robbins "yes yes yes", energia hype
+          BUSCAR (Resolve): Calm sense of certainty, flow state, "as if it's already done"
+        related_to: ["CG-FIL-004"]
+
+      - id: "CG-MM-006"
+        title: "Free Throw Analogy"
+        statement: "Accountability individual na frente do time, como arremesso livre no basquete. Todos veem se você acerta ou erra."
+        quote: "Free Throw Analogy - individual accountability in front of team (basketball → sales)"
+        weight: 0.80
+        chunk_ids: ["BATCH-005_001"]
+        source_ids: ["BATCH-005"]
+        domains: ["accountability", "team-culture", "management"]
+        when_to_apply: "Criando cultura de accountability em times de vendas"
+
+      - id: "CG-MM-007"
+        title: "Farmer vs Hunter"
+        statement: "Closers precisam de ambas skills, não apenas caça. Cultivar pipeline é tão importante quanto fechar."
+        quote: "Farmer vs Hunter - closers need both skills, not just hunting"
+        weight: 0.80
+        chunk_ids: ["BATCH-005_002"]
+        source_ids: ["BATCH-005"]
+        domains: ["closer-development", "pipeline", "skills"]
+        when_to_apply: "Desenvolvendo closers completos"
+        how_to_use: |
+          IDEAL: 60% Hunter (closing skills) + 40% Farmer (pipeline cultivation)
+
+      - id: "CG-MM-008"
+        title: "Unsupervised Behavior"
+        statement: "Performance verdadeira só é visível quando ninguém está olhando. Por isso secret shopping funciona."
+        quote: "True performance only visible when nobody's watching - unsupervised behavior reveals truth"
+        weight: 0.85
+        chunk_ids: ["BATCH-005_003"]
+        source_ids: ["BATCH-005"]
+        domains: ["management", "performance", "truth"]
+        when_to_apply: "Avaliando performance real de vendedores"
+
+      - id: "CG-MM-009"
+        title: "Interest Level Scale (5 Stages)"
+        statement: "Escala de 5 níveis de interesse do lead, do curioso ao comprador. Cada nível requer abordagem diferente."
+        quote: "Interest Level Scale: 5 stages from curious to buying - each requires different approach"
+        weight: 0.85
+        chunk_ids: ["BATCH006_001"]
+        source_ids: ["BATCH-006"]
+        domains: ["qualification", "sales-process", "lead-scoring"]
+        when_to_apply: "Qualificando leads e ajustando abordagem"
+        how_to_use: |
+          1. CURIOUS → Educar, não vender
+          2. INTERESTED → Aprofundar discovery
+          3. CONSIDERING → Diferenciar, resolver objeções
+          4. DECIDING → Fechar, criar urgência interna
+          5. BUYING → Facilitar processo
+
+      - id: "CG-MM-010"
+        title: "VAK System (NLP)"
+        statement: "Pessoas processam informação de 3 formas: Visual, Auditivo, Cinestésico. Adaptar comunicação ao estilo."
+        quote: "VAK System (NLP): Visual, Auditory, Kinesthetic - adapt communication to prospect's processing style"
+        weight: 0.85
+        chunk_ids: ["BATCH006_002"]
+        source_ids: ["BATCH-006"]
+        domains: ["communication", "nlp", "adaptability"]
+        when_to_apply: "Ajustando pitch ao estilo de processamento do prospect"
+        how_to_use: |
+          Visual: "veja", "imagine" → slides, diagramas
+          Auditivo: "ouça", "soa bem" → explicações verbais
+          Cinestésico: "sente", "pega" → experiências hands-on
+
+  # ==========================================================================
+  # L3: HEURISTICS (22 items)
+  # ==========================================================================
+  L3_HEURISTICS:
+    count: 22
+    items:
+
+      # --- NUMERIC THRESHOLD HEURISTICS ---
+
+      - id: "CG-HEUR-001"
+        title: "Double Tie Down Every 45s"
+        rule: "Check-in a cada 45 segundos durante pitch (Double Tie Down). Pitch é diálogo, não monólogo."
+        threshold: {value: 45, operator: "=", unit: "seconds"}
+        quote: "Check-in during pitch every ~45 seconds. 'Does that make sense?' + 'What are your thoughts on that?'"
+        weight: 0.90
+        chunk_ids: ["CG002_005"]
+        source_ids: ["CG002"]
+        domains: ["pitch", "engagement", "dialogue"]
+        usage_context: "Estruturando pitch para manter prospect engajado"
+        recommended_action: "Inserir Double Tie Down a cada 45s"
+
+      - id: "CG-HEUR-002"
+        title: "2-Day Booking Window"
+        rule: "2-day rolling window é optimal para booking. Mais que isso, show rate despenca."
+        threshold: {value: 2, operator: "<=", unit: "days"}
+        quote: "2-day rolling window optimal for booking. Show rate drops significantly beyond that."
+        weight: 0.90
+        chunk_ids: ["CG003_001"]
+        source_ids: ["CG003"]
+        domains: ["show-rate", "calendar", "booking"]
+        usage_context: "Configurando disponibilidade de calendário"
+        recommended_action: "Limitar booking a no máximo 2 dias no futuro"
+
+      - id: "CG-HEUR-003"
+        title: "6-10 Closers Per Manager"
+        rule: "1 Sales Manager para cada 6-10 closers. Menos que 6 não justifica; mais que 10 não consegue gerenciar."
+        threshold: {value_min: 6, value_max: 10, operator: "range", unit: "closers/manager"}
+        quote: "1 Sales Manager per 6-10 closers"
+        weight: 0.85
+        chunk_ids: ["CG004_001"]
+        source_ids: ["CG004"]
+        domains: ["team-structure", "management", "scaling"]
+        usage_context: "Decidindo quando contratar Sales Manager"
+        recommended_action: "Contratar Sales Manager quando tiver 6+ closers; não passar de 10 por manager"
+
+      - id: "CG-HEUR-004"
+        title: "3 Offers Per Day Minimum"
+        rule: "3 OFFERS por closer por dia (não calls, OFFERS). Métrica de produtividade real."
+        threshold: {value: 3, operator: ">=", unit: "offers/day"}
+        quote: "3 OFFERS per closer per day (not calls, OFFERS)"
+        weight: 0.85
+        chunk_ids: ["CG004_002"]
+        source_ids: ["CG004"]
+        domains: ["sales-metrics", "productivity", "performance"]
+        usage_context: "Definindo metas de atividade para closers"
+        recommended_action: "Trackear offers, não apenas calls. Meta mínima: 3 offers/dia"
+
+      - id: "CG-HEUR-005"
+        title: "Double Booking 1.5-2x"
+        rule: "Double booking 1.5-2x capacity esperando no-shows. Melhor ter fila do que closer ocioso."
+        threshold: {value_min: 1.5, value_max: 2.0, operator: "multiplier", unit: "x capacity"}
+        quote: "Double booking 1.5-2x capacity expecting no-shows"
+        weight: 0.85
+        chunk_ids: ["CG003_002"]
+        source_ids: ["CG003"]
+        domains: ["show-rate", "calendar", "capacity"]
+        usage_context: "Gerenciando calendário com no-shows altos"
+        recommended_action: "Bookar 1.5-2x da capacidade real"
+
+      - id: "CG-HEUR-006"
+        title: "Neutral 80-90%, Breaking 5-10%"
+        rule: "Neutral tone 80-90% da call. Breaking rapport apenas 5-10% em momentos-chave."
+        threshold: {neutral: "80-90%", breaking: "5-10%"}
+        quote: "NEUTRAL: 80-90% da call. BREAKING RAPPORT: 5-10% (momentos-chave)"
+        weight: 0.80
+        chunk_ids: ["CG002_006"]
+        source_ids: ["CG002"]
+        domains: ["tonality", "communication", "influence"]
+        usage_context: "Calibrando tonalidade durante call"
+
+      - id: "CG-HEUR-007"
+        title: "Sales Coordinator Under $40k"
+        rule: "Sales Coordinator (<$40k/yr) necessário com 1-3 reps para liberar founder de admin."
+        threshold: {value: 40000, operator: "<", unit: "USD/year"}
+        quote: "Phase 2: + Sales Coordinator (<$40k/yr)"
+        weight: 0.80
+        chunk_ids: ["CG004_003"]
+        source_ids: ["CG004"]
+        domains: ["hiring", "team-structure", "operations"]
+        usage_context: "Decidindo quando contratar primeiro suporte de vendas"
+
+      - id: "CG-HEUR-013"
+        title: "80%+ Close Rate = Undercharging"
+        rule: "Close rate 80%+ significa que está cobrando criminalmente pouco. Precisa subir preço."
+        threshold: {value: 80, operator: ">", unit: "%"}
+        quote: "If you're closing 80%+, you're criminally undercharging"
+        weight: 0.90
+        chunk_ids: ["BATCH-006_001"]
+        source_ids: ["BATCH-006"]
+        domains: ["pricing", "sales-metrics", "optimization"]
+        usage_context: "Avaliando se pricing está correto"
+        recommended_action: "Se close rate > 80%, aumentar preço até chegar em 20-50%"
+
+      - id: "CG-HEUR-014"
+        title: "Healthy Close Rate 20-50%"
+        rule: "Close rate saudável fica entre 20-50%. Abaixo = lead quality ruim. Acima = underpricing."
+        threshold: {value_min: 20, value_max: 50, operator: "range", unit: "%"}
+        quote: "Normal close rate should be 20-50%"
+        weight: 0.85
+        chunk_ids: ["BATCH-006_002"]
+        source_ids: ["BATCH-006"]
+        domains: ["sales-metrics", "benchmarking"]
+        usage_context: "Benchmarking de performance de closers"
+
+      - id: "CG-HEUR-015"
+        title: "Q4 Costs 2.5x"
+        rule: "Q4 inflaciona custos de ads em 2.5x. Planejar budget e expectativas de acordo."
+        threshold: {value: 2.5, operator: "multiplier", unit: "x normal cost"}
+        quote: "Q4 cost inflation 2.5x - expect CPAs to increase significantly"
+        weight: 0.85
+        chunk_ids: ["BATCH-006_003"]
+        source_ids: ["BATCH-006"]
+        domains: ["paid-media", "budgeting", "seasonality"]
+        usage_context: "Planejando budget de ads para Q4"
+
+      - id: "CG-HEUR-016"
+        title: "Follow-Up 24-48h Window"
+        rule: "Follow-up deve acontecer em janela de 24-48 horas. Depois disso, lead esfria drasticamente."
+        threshold: {value_min: 24, value_max: 48, operator: "range", unit: "hours"}
+        quote: "Follow-up window is 24-48 hours - after that, lead goes cold"
+        weight: 0.85
+        chunk_ids: ["BATCH-006_004"]
+        source_ids: ["BATCH-006"]
+        domains: ["follow-up", "lead-management", "time-windows"]
+        usage_context: "Definindo SLAs de follow-up"
+
+      - id: "CG-HEUR-017"
+        title: "Confirmation Page → 85%+ Show Rate"
+        rule: "Confirmation page otimizada leva show rate de 60-65% para 85%+. ROI massivo."
+        threshold: {before: "60-65%", after: "85%+"}
+        quote: "Confirmation page optimization: from 60-65% show rate to 85%+"
+        weight: 0.90
+        chunk_ids: ["BATCH-006_005"]
+        source_ids: ["BATCH-006"]
+        domains: ["show-rate", "conversion", "funnel"]
+        usage_context: "Otimizando show rate"
+
+      - id: "CG-HEUR-018"
+        title: "Sent From iPhone Hack"
+        rule: "Email com assinatura 'Sent from iPhone' gera 40K+ responses. Parece pessoal, não automatizado."
+        threshold: {value: 40000, operator: ">", unit: "responses"}
+        quote: "'Sent from iPhone' email signature generates 40K+ responses"
+        weight: 0.80
+        chunk_ids: ["BATCH-007_001"]
+        source_ids: ["BATCH-007"]
+        domains: ["email", "follow-up", "engagement"]
+
+      - id: "CG-HEUR-019"
+        title: "AI Calibration 3 Months"
+        rule: "AI de call intelligence precisa de 3 meses de calibração antes de ser confiável."
+        threshold: {value: 3, operator: ">=", unit: "months"}
+        quote: "AI calibration period: 3 months before reliable scoring"
+        weight: 0.80
+        chunk_ids: ["BATCH-007_002"]
+        source_ids: ["BATCH-007"]
+        domains: ["ai", "call-review", "implementation"]
+
+      - id: "CG-HEUR-020"
+        title: "1-2 Focus Areas Per Week"
+        rule: "Desenvolver rep em no máximo 1-2 áreas de foco por semana. Mais que isso, nada fixa."
+        threshold: {value_min: 1, value_max: 2, operator: "range", unit: "areas/week"}
+        quote: "Rep development: Max 1-2 focus areas per week - more than that, nothing sticks"
+        weight: 0.85
+        chunk_ids: ["BATCH-007_003"]
+        source_ids: ["BATCH-007"]
+        domains: ["training", "coaching", "development"]
+
+      - id: "CG-HEUR-021"
+        title: "Sizzle Pitch 30-60 Seconds"
+        rule: "Sizzle pitch deve durar 30-60 segundos. Mais longo perde atenção, mais curto não gera interesse."
+        threshold: {value_min: 30, value_max: 60, operator: "range", unit: "seconds"}
+        quote: "Sizzle pitch duration: 30-60 seconds optimal"
+        weight: 0.85
+        chunk_ids: ["BATCH-008_001"]
+        source_ids: ["BATCH-008"]
+        domains: ["pitch", "timing", "engagement"]
+
+      - id: "CG-HEUR-022"
+        title: "Max 3-4 Pitch Pillars"
+        rule: "Máximo de 3-4 pilares no pitch. Mais que isso, prospect não consegue lembrar."
+        threshold: {value_min: 3, value_max: 4, operator: "range", unit: "pillars"}
+        quote: "Max 3-4 pillars in pitch - more and prospect can't remember"
+        weight: 0.85
+        chunk_ids: ["BATCH-008_002"]
+        source_ids: ["BATCH-008"]
+        domains: ["pitch", "structure", "memory"]
+
+      # --- TEXTUAL HEURISTICS ---
+
+      - id: "CG-HEUR-008"
+        title: "Isolate 'Need to Think'"
+        rule: "Se prospect diz 'preciso pensar', isolar primeiro: 'Além disso, você 100% sente que isso é o que precisa?'"
+        quote: "'I Want to Think About It': 1. Diffuse: 'No problem' 2. Isolate: 'Aside from that, do you 100% feel this is what you need?'"
+        weight: 0.85
+        chunk_ids: ["CG002_007"]
+        source_ids: ["CG002"]
+        domains: ["objection-handling", "closing"]
+        recommended_action: "1) Diffuse 2) Isolate 3) Se vago, força específico 4) Se 'sleep on it', 24h follow-up"
+
+      - id: "CG-HEUR-009"
+        title: "Research Objection = Missed Belief"
+        rule: "Se prospect diz 'preciso fazer research', significa que você errou antes. Perguntar o que falta para 100% certeza."
+        quote: "'I Need to Do Research': Usually means you messed up earlier."
+        weight: 0.80
+        chunk_ids: ["CG002_008"]
+        source_ids: ["CG002"]
+        domains: ["objection-handling", "trust"]
+
+      - id: "CG-HEUR-010"
+        title: "Feed the Nervous Label"
+        rule: "Se prospect diz 'estou nervoso', feed the label: 'GOOD. Nervos estão aí por uma razão.' Pattern interrupt."
+        quote: "'I'm Just Nervous': 1. Feed the label 2. Pattern interrupt: 'GOOD. Nerves are there for a reason.'"
+        weight: 0.75
+        chunk_ids: ["CG002_009"]
+        source_ids: ["CG002"]
+        domains: ["objection-handling", "emotion"]
+
+      - id: "CG-HEUR-011"
+        title: "3 Financial Data Points"
+        rule: "Para objeção financeira, coletar 3 Data Points: Net income próximos 30 dias, Cash on hand, Acesso a crédito."
+        quote: "Financial (3 Data Points Method): Net income next 30 days, Cash on hand, Credit access"
+        weight: 0.85
+        chunk_ids: ["CG002_010"]
+        source_ids: ["CG002"]
+        domains: ["objection-handling", "financial", "payment"]
+        recommended_action: "1) 'Money aside, você 100% quer isso?' 2) Coletar 3 data points 3) Só depois oferecer payment plan"
+
+      - id: "CG-HEUR-012"
+        title: "Reciprocity on Terms"
+        rule: "Sempre pedir algo em retorno por melhores terms. Nunca dar desconto/parcelamento sem reciprocidade."
+        quote: "Rule: Always ask for something in return for better terms"
+        weight: 0.80
+        chunk_ids: ["CG002_011"]
+        source_ids: ["CG002"]
+        domains: ["negotiation", "pricing", "value"]
+        recommended_action: "Se der parcelamento, pedir referral ou depoimento"
+
+  # ==========================================================================
+  # L4: FRAMEWORKS (19 items)
+  # ==========================================================================
+  L4_FRAMEWORKS:
+    count: 19
+    items:
+
+      - id: "CG-FW-001"
+        title: "7 Beliefs Framework"
+        statement: "7 crenças que todo prospect precisa ter para comprar. 6 instaladas no Discovery, 1 no Pitch."
+        quote: "Every prospect needs to believe 7 things to buy."
+        weight: 0.95
+        chunk_ids: ["CG001_010"]
+        source_ids: ["CG001"]
+        domains: ["discovery", "objection-mapping", "sales-process"]
+        components:
+          - {name: "1. PAIN", description: "Há problema ou desejo não realizado", install: "Discovery"}
+          - {name: "2. DOUBT", description: "Acredita que é possível resolver", install: "Discovery"}
+          - {name: "3. COST", description: "Custo da inação > Custo do programa", install: "Discovery"}
+          - {name: "4. DESIRE", description: "Quer o resultado específico oferecido", install: "Discovery"}
+          - {name: "5. MONEY", description: "Tem ou consegue recursos", install: "Discovery"}
+          - {name: "6. SUPPORT", description: "Tem apoio das pessoas relevantes", install: "Discovery"}
+          - {name: "7. TRUST", description: "Confia que VOCÊ pode entregar", install: "Pitch"}
+
+      - id: "CG-FW-002"
+        title: "6-Phase Call Flow"
+        statement: "Estrutura completa de uma call de venda em 6 fases distintas."
+        quote: "The complete call structure in 6 phases."
+        weight: 0.95
+        chunk_ids: ["CG002_012"]
+        source_ids: ["CG002"]
+        domains: ["sales-process", "call-structure", "closing"]
+        components:
+          - {name: "FASE 1: INTRODUCTION", description: "Rapport + Frame (clean sheet of paper)"}
+          - {name: "FASE 2: DISCOVERY", description: "Instalar 6 Beliefs, Consistency Bias, Hell/Heaven Island"}
+          - {name: "FASE 3: TRANSITION", description: "Evitar Anvil Drop, prospect PEDE para ouvir pitch"}
+          - {name: "FASE 4: PITCH", description: "4 Pillars + Double Tie Down a cada 45s"}
+          - {name: "FASE 5: COMMITTING", description: "'Where do you want to go from here?'"}
+          - {name: "FASE 6: OBJECTION HANDLING", description: "Raramente necessário se beliefs instalados"}
+
+      - id: "CG-FW-003"
+        title: "4 Pillars Pitch Structure"
+        statement: "Estrutura de pitch que gera paradigm shift + future pacing."
+        quote: "4 Pillars Pitch Structure: High-Level Promise, Paradigm Shift, Future Pacing, Delivery"
+        weight: 0.90
+        chunk_ids: ["CG002_013"]
+        source_ids: ["CG002"]
+        domains: ["pitch", "presentation", "persuasion"]
+        components:
+          - {name: "HIGH-LEVEL PROMISE", description: "Promessa macro do que entrega"}
+          - {name: "PILLAR 1-2", description: "PARADIGM SHIFT - Por que métodos anteriores falharam"}
+          - {name: "PILLAR 3-4", description: "FUTURE PACING - Vida após resolver"}
+          - {name: "DELIVERY", description: "Como entregamos (formato, timeline)"}
+        formula: |
+          "Quando se trata de [DESIRED OUTCOME],
+          a maioria faz [INCORRECT BEHAVIOR],
+          resultando em [PROBLEM] e [CONSEQUENCE].
+          Em vez disso, fazemos [FEATURE]
+          que permite [BENEFIT] e [BENEFIT OF BENEFIT]."
+
+      - id: "CG-FW-004"
+        title: "3 Níveis de Tonalidade"
+        statement: "Framework para calibrar tom de voz durante call."
+        quote: "3 Levels of Tonality: Seeking Rapport (avoid), Neutral (80-90%), Breaking Rapport (5-10%)"
+        weight: 0.85
+        chunk_ids: ["CG002_014"]
+        source_ids: ["CG002"]
+        domains: ["tonality", "communication", "influence"]
+        components:
+          - {name: "SEEKING RAPPORT", description: "Inflexão ascendente - EVITAR (0%)"}
+          - {name: "NEUTRAL", description: "Tom relaxado, confiante (80-90%)"}
+          - {name: "BREAKING RAPPORT", description: "Inflexão descendente em perguntas difíceis (5-10%)"}
+
+      - id: "CG-FW-005"
+        title: "7 Levers for Show Rate"
+        statement: "7 alavancas para otimizar taxa de comparecimento."
+        quote: "Show Rate Optimization - 7 Levers"
+        weight: 0.90
+        chunk_ids: ["CG003_003"]
+        source_ids: ["CG003"]
+        domains: ["show-rate", "operations", "optimization"]
+        components:
+          - {name: "1. Booking Window", description: "2-day rolling window"}
+          - {name: "2. Calendar Availability", description: "Full calendar, todo slot bookable"}
+          - {name: "3. Application Grading", description: "Sistema 1-4, priority booking"}
+          - {name: "4. LNS", description: "Lead Nurture Specialist liga antes da call"}
+          - {name: "5. Personalized Emails", description: "Nome + detalhe da application"}
+          - {name: "6. Double Booking", description: "1.5-2x capacity"}
+          - {name: "7. Re-bookings", description: "Auto-reschedule no-shows"}
+
+      - id: "CG-FW-006"
+        title: "Sales Team 4 Phases"
+        statement: "Framework para escalar time de vendas em 4 fases."
+        quote: "Sales Team Scaling - 4 Phases"
+        weight: 0.85
+        chunk_ids: ["CG004_004"]
+        source_ids: ["CG004"]
+        domains: ["team-structure", "scaling", "leadership"]
+        components:
+          - {name: "PHASE 1: Solo", description: "Founder fecha, treina, admin"}
+          - {name: "PHASE 2: 1-3 reps", description: "+ Sales Coordinator (<$40k/yr)"}
+          - {name: "PHASE 3: 4-6+ reps", description: "+ Sales Lead (player-coach)"}
+          - {name: "PHASE 4: 12-15+ reps", description: "+ Sales Manager (100% management)"}
+
+      - id: "CG-FW-007"
+        title: "Interest Level Scale (5 Stages)"
+        statement: "Escala de 5 níveis de interesse do lead - SDR/Setter move leads UP na escala."
+        quote: "SDR/Setter job is to move leads UP the scale, not close"
+        weight: 0.90
+        chunk_ids: ["BATCH006_001"]
+        source_ids: ["BATCH-006"]
+        domains: ["setter-training", "lead-qualification", "sales-process"]
+        components:
+          - {name: "Stage 1: Curiosity", description: "Hmm, what's this?"}
+          - {name: "Stage 2: General Interest", description: "Tell me more"}
+          - {name: "Stage 3: High Interest", description: "This could work for me"}
+          - {name: "Stage 4: Conviction", description: "I believe this works"}
+          - {name: "Stage 5: Sold", description: "I need this now"}
+
+      - id: "CG-FW-008"
+        title: "VAK System (NLP) for Follow-Up"
+        statement: "Sistema Visual-Auditivo-Kinestésico para follow-up multimodal."
+        quote: "Some people are visual learners, some auditory, some kinesthetic"
+        weight: 0.85
+        chunk_ids: ["BATCH006_005"]
+        source_ids: ["BATCH-006"]
+        domains: ["follow-up", "communication", "lead-nurturing"]
+        components:
+          - {name: "Visual", description: "Videos, imagens, PDFs"}
+          - {name: "Auditory", description: "Voice notes, phone calls"}
+          - {name: "Kinesthetic", description: "In-person, physical materials"}
+
+      - id: "CG-FW-009"
+        title: "Hammer Them Campaign"
+        statement: "Campanha de saturação de pixel e warming pré-call com alto volume de conteúdo."
+        quote: "Similar to Jeremy Haynes Tornado but more specific numbers"
+        weight: 0.90
+        chunk_ids: ["BATCH006_014"]
+        source_ids: ["BATCH-006"]
+        domains: ["advertising", "show-rate", "lead-warming"]
+        components:
+          - {name: "Long-form videos", description: "20-30 videos"}
+          - {name: "Short-form videos", description: "30-50 videos"}
+          - {name: "Frequency before call", description: "15-20 short-form, 10-15 long-form"}
+
+      - id: "CG-FW-010"
+        title: "Priority Buckets System (CRM)"
+        statement: "8 smart views/filters para gestão de pipeline - reps must zero out daily."
+        quote: "Reps must zero out these buckets daily"
+        weight: 0.95
+        chunk_ids: ["BATCH007_003"]
+        source_ids: ["BATCH-007"]
+        domains: ["crm", "pipeline-management", "sales-operations"]
+        components:
+          - {name: "Bucket 1: Tomorrow's Calls", description: "Preparation"}
+          - {name: "Bucket 2: Hot List", description: "High probability, next 7 days"}
+          - {name: "Bucket 3: Expected Close Date Past Due", description: "Revenue leakage #1"}
+          - {name: "Bucket 4: Qualified Not Closed", description: "Pipeline tracking"}
+          - {name: "Bucket 5: Neglected Deals", description: "Days without engagement"}
+          - {name: "Bucket 6: Lost Deals Previously Forecasted", description: "Gotcha bucket"}
+          - {name: "Bucket 7: Lost Deals Low Attempts", description: "Accountability bucket"}
+          - {name: "Reopen Bucket", description: "Assign to competitive reps as spiff"}
+
+      - id: "CG-FW-011"
+        title: "Four-Scorecard System"
+        statement: "4 dimensões de avaliação de calls com AI."
+        quote: "All scored automatically by AI after calibration"
+        weight: 0.90
+        chunk_ids: ["BATCH007_002"]
+        source_ids: ["BATCH-007"]
+        domains: ["call-review", "performance-management", "quality-assurance"]
+        components:
+          - {name: "Sales IQ", description: "Qualitative - how well are they doing"}
+          - {name: "Process Compliance", description: "How specifically following TalkTrack"}
+          - {name: "FTC Compliance", description: "Regulatory adherence"}
+          - {name: "Product Knowledge", description: "Offer-specific mastery"}
+
+      - id: "CG-FW-012"
+        title: "Talk Track vs Script"
+        statement: "Scripts = word-for-word (fail), Talk Track = guided parameters + critical thinking."
+        quote: "Scripts = word-for-word (fail), Talk Track = guided parameters + critical thinking"
+        weight: 0.90
+        chunk_ids: ["BATCH008_001"]
+        source_ids: ["BATCH-008"]
+        domains: ["training", "sales-enablement", "closing"]
+
+      - id: "CG-FW-013"
+        title: "The Big Three (Deal Loss Diagnosis)"
+        statement: "3 razões principais pelas quais pessoas perdem deals."
+        quote: "3 Main Reasons People Lose Deals: Weak Discovery, Weak Pitch, Can't Close"
+        weight: 0.95
+        chunk_ids: ["BATCH008_003"]
+        source_ids: ["BATCH-008"]
+        domains: ["diagnosis", "coaching", "deal-review"]
+        components:
+          - {name: "Weak Discovery", description: "Gap não construído, beliefs não instaladas"}
+          - {name: "Weak Pitch", description: "Pitch não personalizado, sem irresistibilidade"}
+          - {name: "Can't Close", description: "Sem sequência de commitment adequada"}
+
+      - id: "CG-FW-014"
+        title: "Sizzle Pitch"
+        statement: "Elevator pitch diferenciado de 30-60 segundos."
+        quote: "Sizzle Pitch: 30-60 second differentiated elevator pitch"
+        weight: 0.85
+        chunk_ids: ["BATCH008_008"]
+        source_ids: ["BATCH-008"]
+        domains: ["pitch", "communication", "follow-up"]
+
+      - id: "CG-FW-015"
+        title: "6 Types of Questions"
+        statement: "Taxonomia completa de tipos de perguntas em vendas."
+        quote: "6 Types of Questions: Probing, Situational, Gap Awareness, Solution Awareness, Consequence, Commitment"
+        weight: 0.95
+        chunk_ids: ["BATCH008_018"]
+        source_ids: ["BATCH-008"]
+        domains: ["discovery", "questioning", "sales-methodology"]
+        components:
+          - {name: "Probing", description: "Explorar situação atual"}
+          - {name: "Situational", description: "Contexto e background"}
+          - {name: "Gap Awareness", description: "Revelar gap entre atual e desejado"}
+          - {name: "Solution Awareness", description: "Explorar conhecimento de soluções"}
+          - {name: "Consequence", description: "Custo da inação"}
+          - {name: "Commitment", description: "Mover para decisão"}
+
+      - id: "CG-FW-016"
+        title: "Anatomy of Talk Track"
+        statement: "Estrutura completa do talk track de call."
+        quote: "Warm-up → Agenda Frame → Discovery → Info Confirmation → Transition → Pitch → Close"
+        weight: 0.90
+        chunk_ids: ["BATCH008_016"]
+        source_ids: ["BATCH-008"]
+        domains: ["call-structure", "sales-process", "training"]
+        components:
+          - {name: "Warm-up", description: "Rapport inicial"}
+          - {name: "Agenda Frame", description: "Estruturar call"}
+          - {name: "Discovery", description: "Instalar beliefs"}
+          - {name: "Info Confirmation", description: "Validar entendimento"}
+          - {name: "Transition", description: "Para pitch"}
+          - {name: "Pitch", description: "Apresentação da solução"}
+          - {name: "Close", description: "Sequência de commitment"}
+
+      - id: "CG-FW-017"
+        title: "One Call vs Two Call Model"
+        statement: "3 critérios para decidir modelo de call."
+        quote: "If first question is 'what do you do?' = big gap to bridge"
+        weight: 0.85
+        chunk_ids: ["BATCH007_009"]
+        source_ids: ["BATCH-007"]
+        domains: ["funnel-design", "sales-operations", "closing"]
+        components:
+          - {name: "Criterion 1: Show Rate", description: "Low show = long calls → 2 calls"}
+          - {name: "Criterion 2: CPR", description: "Complex offer = 2 calls"}
+          - {name: "Criterion 3: Level of Awareness", description: "High awareness = 1 call"}
+
+      - id: "CG-FW-018"
+        title: "Setter/Closer Complete Separation"
+        statement: "Papéis completamente distintos - mixing them = lose money."
+        quote: "Mixing them = lose money"
+        weight: 0.90
+        chunk_ids: ["BATCH007_010"]
+        source_ids: ["BATCH-007"]
+        domains: ["team-structure", "role-definition", "sales-operations"]
+        components:
+          - {name: "Setters", description: "Speed-to-lead, penetration, qualifying, amplifying interest"}
+          - {name: "Closers", description: "Zoom calls, closing"}
+          - {name: "Dialer usage", description: "Closers have dialer for follow-ups only"}
+
+      - id: "CG-FW-019"
+        title: "6 Factors for Pricing Decisions"
+        statement: "Framework para decisões de precificação."
+        quote: "If there's no friction, double your price"
+        weight: 0.90
+        chunk_ids: ["BATCH008_PRE_001"]
+        source_ids: ["BATCH-008"]
+        domains: ["pricing", "offer-design", "strategy"]
+        components:
+          - {name: "Value capture", description: "Quanto valor você captura"}
+          - {name: "Price signaling", description: "Preço sinaliza qualidade"}
+          - {name: "Incentives", description: "Motivações alinhadas"}
+          - {name: "Friction", description: "Se não há fricção, dobre o preço"}
+          - {name: "Value ceiling", description: "Quando parar de subir preço base"}
+          - {name: "Alignment", description: "Preço alinhado com entrega"}
+
+  # ==========================================================================
+  # L5: METHODOLOGIES (10 items)
+  # ==========================================================================
+  L5_METHODOLOGIES:
+    count: 10
+    items:
+
+      - id: "CG-MET-001"
+        title: "Double Tie Down Technique"
+        statement: "Check-in duplo durante pitch para manter prospect engajado e identificar objeções early."
+        quote: "Double Tie Down: 'Does that make sense?' + 'What are your thoughts on that?' Check-in every ~45 seconds"
+        weight: 0.90
+        chunk_ids: ["CG002_015"]
+        source_ids: ["CG002"]
+        domains: ["pitch", "engagement", "dialogue"]
+        steps:
+          - {order: 1, action: "Apresentar um pillar ou conceito (max 45 segundos)"}
+          - {order: 2, action: "Pergunta 1: 'Does that make sense?'"}
+          - {order: 3, action: "Pergunta 2: 'What are your thoughts on that?'"}
+          - {order: 4, action: "Se positivo, continuar. Se objeção, resolver antes de prosseguir"}
+        success_indicators: ["Prospect engajado e respondendo", "Objeções identificadas em tempo real"]
+        common_mistakes: ["Falar por muito tempo sem check-in", "Fazer apenas uma pergunta"]
+
+      - id: "CG-MET-002"
+        title: "3 Data Points Method for Financial Objections"
+        statement: "Processo para lidar com objeções de dinheiro/preço coletando dados reais."
+        quote: "Financial (3 Data Points Method): 1. 'Money aside...' 2. Net income 3. Cash on hand 4. Credit access"
+        weight: 0.90
+        chunk_ids: ["CG002_016"]
+        source_ids: ["CG002"]
+        domains: ["objection-handling", "financial", "negotiation"]
+        steps:
+          - {order: 1, action: "Isolar dinheiro: 'Money aside, do you 100% want this?'"}
+          - {order: 2, action: "Coletar Data Point 1: Net income próximos 30 dias"}
+          - {order: 3, action: "Coletar Data Point 2: Cash on hand"}
+          - {order: 4, action: "Coletar Data Point 3: Credit access"}
+          - {order: 5, action: "APENAS após coletar os 3, oferecer payment plan"}
+          - {order: 6, action: "Pedir algo em retorno por melhores terms"}
+        common_mistakes: ["Oferecer desconto sem isolar primeiro", "Não coletar os 3 data points"]
+
+      - id: "CG-MET-003"
+        title: "Daily Routine for High-Performance Closer"
+        statement: "Rotina diária estruturada para closers de alta performance."
+        quote: "Daily Routines: Morning (90 min - 3h before calls)... During the Day (9am-5pm)... Evening (after 5pm)"
+        weight: 0.80
+        chunk_ids: ["CG001_012"]
+        source_ids: ["CG001"]
+        domains: ["routine", "performance", "habits"]
+        steps:
+          - {order: 1, action: "MANHÃ: Ler 20-30 min"}
+          - {order: 2, action: "MANHÃ: Treinar + ouvir 1-2 melhores calls (wins)"}
+          - {order: 3, action: "MANHÃ: Podcast/curso para desenvolvimento"}
+          - {order: 4, action: "MANHÃ: Breathwork + meditação"}
+          - {order: 5, action: "MANHÃ: Checar projections + calendário"}
+          - {order: 6, action: "DIA (9am-5pm): Ou gerando calls OU fazendo calls"}
+          - {order: 7, action: "DIA: No-shows → atividade de outbound/follow-up"}
+          - {order: 8, action: "DIA: 30-min almoço, dois breaks de 10-min max"}
+          - {order: 9, action: "NOITE: Batch CRM updates, notas"}
+          - {order: 10, action: "NOITE: Hot list follow-ups"}
+          - {order: 11, action: "NOITE: Report/journal de fim de dia"}
+          - {order: 12, action: "NOITE: Rate yourself em 3 áreas chave"}
+          - {order: 13, action: "NOITE: Horário consistente de dormir (7.5-8.5 horas)"}
+
+      - id: "CG-MET-004"
+        title: "Transition Avoiding Anvil Drop"
+        statement: "Processo para transicionar suavemente do discovery para o pitch sem parecer vendedor."
+        quote: "FASE 3: TRANSITION - EVITAR Anvil Drop. Fazer prospect PEDIR para ouvir o pitch"
+        weight: 0.85
+        chunk_ids: ["CG002_017"]
+        source_ids: ["CG002"]
+        domains: ["sales-process", "transition", "permission"]
+        steps:
+          - {order: 1, action: "Completar Discovery com todas as 6 Beliefs instaladas"}
+          - {order: 2, action: "Pergunta: 'Based on what you've shared, I think I can help. Would you like to hear how?'"}
+          - {order: 3, action: "Prospect deve PEDIR para ouvir, não você oferecendo"}
+          - {order: 4, action: "Iniciar Pitch com permissão concedida"}
+        common_mistakes: ["Anvil Drop: Saltar direto para pitch", "Mudar tom de curioso para vendedor"]
+
+      - id: "CG-MET-005"
+        title: "Secret Shopping System"
+        statement: "Sistema para ver comportamento real dos closers quando não supervisionados."
+        quote: "Secret shopping is the most effective behavioral reform ever seen with closing teams"
+        weight: 0.90
+        chunk_ids: ["BATCH-005_001"]
+        source_ids: ["BATCH-005"]
+        domains: ["management", "quality-control", "accountability"]
+        steps:
+          - {order: 1, action: "Comprar burner phones ($30 Total by Verizon) e SIM ($30/mês)"}
+          - {order: 2, action: "Criar emails falsos e personas"}
+          - {order: 3, action: "Submeter como lead no funil real"}
+          - {order: 4, action: "Fazer a call como prospect comum"}
+          - {order: 5, action: "Documentar tudo: pitch, rapport, objections, follow-up"}
+          - {order: 6, action: "Name and shame na frente do time"}
+        success_indicators: ["Comportamento melhora imediatamente após reveal", "Qualidade sobe mesmo sem supervisão"]
+
+      - id: "CG-MET-006"
+        title: "Priority Buckets Closer Ranking"
+        statement: "Sistema de priorização de closers baseado em performance week-over-week."
+        quote: "Week-over-week priority system: Level 1 prioritized, Level 4 off inbound"
+        weight: 0.85
+        chunk_ids: ["BATCH-005_002"]
+        source_ids: ["BATCH-005"]
+        domains: ["team-management", "incentives", "performance"]
+        steps:
+          - {order: 1, action: "Classificar closers em 4 níveis baseado em stats"}
+          - {order: 2, action: "Level 1 (Top): Prioridade no calendário"}
+          - {order: 3, action: "Level 2: No scheduler mas não priorizado"}
+          - {order: 4, action: "Level 3: Só inbound leads (Hydra)"}
+          - {order: 5, action: "Level 4 (Bottom): Fora do inbound, só pipeline existente"}
+          - {order: 6, action: "Ajustar semanalmente baseado em métricas"}
+
+      - id: "CG-MET-007"
+        title: "Talk Track Building Process"
+        statement: "Processo para criar talk track ao invés de script rígido."
+        quote: "Talk Track vs Script: Talk track is flexible framework, script is word-for-word"
+        weight: 0.85
+        chunk_ids: ["BATCH-008_001"]
+        source_ids: ["BATCH-008"]
+        domains: ["training", "scripting", "flexibility"]
+        steps:
+          - {order: 1, action: "Definir SIZZLE PITCH (30-60 segundos)"}
+          - {order: 2, action: "Estruturar THE BIG THREE - 3-4 pilares max"}
+          - {order: 3, action: "Criar perguntas de discovery baseadas nos 6 tipos"}
+          - {order: 4, action: "Desenvolver rebuttals para objeções comuns"}
+          - {order: 5, action: "Praticar improvisação dentro da estrutura"}
+        common_mistakes: ["Tentar memorizar palavra por palavra", "Mais de 4 pilares"]
+
+      - id: "CG-MET-008"
+        title: "Four-Scorecard Evaluation System"
+        statement: "Sistema de 4 scorecards para avaliar closers em diferentes dimensões."
+        quote: "Four-Scorecard System: Metrics, Process, Skills, Behaviors - max 1-2 focus areas per week"
+        weight: 0.90
+        chunk_ids: ["BATCH-007_001"]
+        source_ids: ["BATCH-007"]
+        domains: ["coaching", "evaluation", "development"]
+        steps:
+          - {order: 1, action: "Scorecard 1: METRICS - Close rate, show rate, offers per day"}
+          - {order: 2, action: "Scorecard 2: PROCESS - Seguiu o talk track?"}
+          - {order: 3, action: "Scorecard 3: SKILLS - Tonalidade, perguntas, handling"}
+          - {order: 4, action: "Scorecard 4: BEHAVIORS - Atitude, pontualidade, coachability"}
+          - {order: 5, action: "Identificar 1-2 gaps por semana para coaching"}
+          - {order: 6, action: "Review semanal com cada closer"}
+
+      - id: "CG-MET-009"
+        title: "Hammer Them Follow-Up Sequence"
+        statement: "Sequência agressiva de follow-up para maximizar show rate e recovery."
+        quote: "Hammer Them Campaign: confirmation page 60-65% → 85%+ show rate"
+        weight: 0.95
+        chunk_ids: ["BATCH-006_001"]
+        source_ids: ["BATCH-006"]
+        domains: ["follow-up", "show-rate", "automation"]
+        steps:
+          - {order: 1, action: "Confirmation page com video, benefícios, instruções claras"}
+          - {order: 2, action: "SMS imediato após booking"}
+          - {order: 3, action: "Email com agenda e valor esperado"}
+          - {order: 4, action: "Lembrete 24h antes"}
+          - {order: 5, action: "Lembrete 1h antes"}
+          - {order: 6, action: "Se no-show: sequência de recovery em 24-48h"}
+          - {order: 7, action: "Email 'Sent from iPhone' para casos difíceis"}
+        success_indicators: ["Show rate 85%+", "Recovery rate de no-shows 30-40%"]
+
+      - id: "CG-MET-010"
+        title: "One-Call vs Two-Call Model Decision"
+        statement: "Framework para decidir entre modelo de uma call ou duas calls."
+        quote: "One Call vs Two Call Model: depends on ticket, complexity, and buyer"
+        weight: 0.85
+        chunk_ids: ["BATCH-008_002"]
+        source_ids: ["BATCH-008"]
+        domains: ["process-design", "strategy", "optimization"]
+        steps:
+          - {order: 1, action: "Avaliar ticket médio - abaixo de $3K geralmente one-call"}
+          - {order: 2, action: "Avaliar complexidade - soluções simples = one-call"}
+          - {order: 3, action: "Avaliar buyer persona - decisores únicos = one-call"}
+          - {order: 4, action: "Se two-call: Call 1 = Discovery + Qualification"}
+          - {order: 5, action: "Se two-call: Call 2 = Presentation + Close"}
+          - {order: 6, action: "Testar ambos modelos por 30 dias com métricas"}

@@ -1,0 +1,82 @@
+# METODOLOGIAS - SAM OVEN
+# Processos passo-a-passo com ORDEM RIGIDA e criterios de sucesso por etapa
+# Versao: 1.0.0 | Criado: 2025-12-27
+
+versao: "1.0.0"
+pessoa: "Sam Oven"
+camada: "METODOLOGIAS"
+total_itens: 2
+
+itens:
+  - id: "SO-MET-001"
+    titulo: "Offer Creation via Bridge Analogy"
+    descricao: "Processo para criar ofertas usando a Bridge Analogy."
+    peso: 0.90
+    chunks:
+      - "SETTERLUN-OC_002"
+      - "SETTERLUN-OC_003"
+    fontes:
+      - "SETTERLUN-OC"
+    etapas:
+      - passo: 1
+        nome: "Definir Current State"
+        descricao: "Identificar exatamente onde o cliente está hoje (dor, problema, situação)"
+        criterio_sucesso: "Cliente se reconhece na descrição"
+      - passo: 2
+        nome: "Definir Desired State"
+        descricao: "Identificar onde o cliente quer chegar (resultado, transformação)"
+        criterio_sucesso: "Cliente deseja genuinamente esse estado"
+      - passo: 3
+        nome: "Construir a Bridge"
+        descricao: "Definir como sua oferta leva do atual ao desejado"
+        criterio_sucesso: "Conexão clara entre oferta e resultado"
+      - passo: 4
+        nome: "Identificar o Troll"
+        descricao: "Mapear objeções que vão surgir"
+        criterio_sucesso: "Respostas prontas para cada objeção"
+      - passo: 5
+        nome: "Definir o Toll"
+        descricao: "Precificar baseado no valor do resultado, não no custo"
+        criterio_sucesso: "Preço justificado pelo valor entregue"
+      - passo: 6
+        nome: "Articular Unique Mechanism"
+        descricao: "Explicar por que SUA ponte é melhor que a dos competidores"
+        criterio_sucesso: "Diferenciação clara e crível"
+    aplicacao: "Criação de ofertas, estruturação de serviços"
+
+  - id: "SO-MET-002"
+    titulo: "Purple Ocean Positioning"
+    descricao: "Processo para encontrar posicionamento Purple Ocean."
+    peso: 0.85
+    chunks:
+      - "SETTERLUN-PO_001"
+      - "SETTERLUN-PO_002"
+    fontes:
+      - "SETTERLUN-PO"
+    etapas:
+      - passo: 1
+        nome: "Identificar Red Ocean"
+        descricao: "Mapear o mercado genérico onde você está"
+        criterio_sucesso: "Categoria clara com competidores conhecidos"
+      - passo: 2
+        nome: "Aplicar Pizza Strategy"
+        descricao: "Fazer tweaks progressivos para diferenciar"
+        criterio_sucesso: "Oferta diferenciada mas ainda reconhecível"
+      - passo: 3
+        nome: "Verificar Purple"
+        descricao: "Confirmar que é diferenciado E em mercado provado"
+        criterio_sucesso: "Não precisa educar o mercado, mas se destaca"
+      - passo: 4
+        nome: "Evitar Blue Ocean"
+        descricao: "Garantir que não está específico demais"
+        criterio_sucesso: "Demanda comprovada existe"
+    aplicacao: "Posicionamento, nicho, diferenciação"
+
+metadados:
+  total_chunks_processados: 5
+  fontes_utilizadas:
+    - "SETTERLUN-OC"
+    - "SETTERLUN-PO"
+  peso_medio: 0.87
+  criado_em: "2025-12-27T00:00:00Z"
+  protocolo: "DNA-EXTRACTION-PROTOCOL v1.0"

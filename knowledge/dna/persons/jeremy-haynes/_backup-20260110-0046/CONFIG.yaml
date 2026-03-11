@@ -1,0 +1,95 @@
+# CONFIG - JEREMY HAYNES DNA COGNITIVO
+# Arquivo central de configuracao e metadados do DNA
+# Versao: 1.0.0 | Criado: 2025-12-28
+
+versao: "1.0.0"
+pessoa: "Jeremy Haynes"
+nome_canonico: "Jeremy Haynes"
+empresa: "Inner Circle"
+localizacao: "Miami, USA"
+
+# Padroes comportamentais identificados
+padroes_comportamentais:
+  - padrao: "Recurring High-Ticket"
+    frequencia: "ALTA"
+    evidencia: "$10k/mes, 97% retencao, commitment anual"
+  - padrao: "Fair Pricing Philosophy"
+    frequencia: "ALTA"
+    evidencia: "Valor excede preco a cada 30 dias"
+  - padrao: "Consumption Rate Theory"
+    frequencia: "ALTA"
+    evidencia: "Preco alto = maior consumo = melhor resultado"
+  - padrao: "Call Funnel Optimization"
+    frequencia: "ALTA"
+    evidencia: "TypeForm+Calendly, Hammer Strategy, 99% booking"
+
+# Sintese narrativa
+sintese_narrativa: |
+  Jeremy Haynes defende recurring high-ticket sobre transactional. Mas so funciona
+  se voce entregar valor que exceda o preco a cada ciclo de 30 dias.
+
+  Fair Pricing nao e sobre cobrar o maximo possivel. E sobre criar uma troca onde
+  ambas as partes reconhecem que o valor excede o custo.
+
+  Sua jornada de $1,500 para $10,000/mes mostra: pricing e reflexo da certeza do
+  seu sistema. Subir preco conforme certeza aumenta.
+
+  Call funnels sao os mais previsiveis. TypeForm + Calendly integrado = 99% booking
+  vs 50% se separados. Hammer Strategy (12 emails + 4 texts + content ads) = 50-80%
+  show rate.
+
+# Estatisticas do DNA
+estatisticas:
+  filosofias: 4
+  modelos_mentais: 3
+  heuristicas: 6
+  frameworks: 5
+  metodologias: 2
+  total_itens: 20
+
+  peso_medio_geral: 0.86
+  itens_peso_acima_070: 20
+  percentual_alta_confianca: 100.0
+
+# Fontes utilizadas
+fontes:
+  processadas:
+    - source_id: "JH001"
+      tipo: "masterclass"
+      titulo: "Recurring High-Ticket"
+    - source_id: "JH002"
+      tipo: "masterclass"
+      titulo: "Call Funnels"
+
+  dossier: "/knowledge/dossiers/persons/DOSSIER-JEREMY-HAYNES.md"
+  insights_totais: 33
+
+# Relacionamentos
+relacionamentos:
+  foco_principal: "Recurring high-ticket coaching/consulting"
+  modelo_recomendado: "Ongoing Results ou Ongoing Access"
+  pricing_approach: "Fair Pricing - valor excede preco a cada 30 dias"
+
+# Tensoes com outras fontes
+tensoes:
+  - fonte: "Alex Hormozi"
+    topico: "Modelo de receita"
+    jeremy_haynes: "Recurring monthly"
+    outra_fonte: "Transactional one-time"
+    tipo: "COMPLEMENTAR"
+    nota: "Modelos diferentes para objetivos diferentes"
+
+# Metadados de extracao
+metadados:
+  criado_em: "2025-12-28T00:00:00Z"
+  atualizado_em: "2025-12-28T00:00:00Z"
+  protocolo: "DNA-EXTRACTION-PROTOCOL v1.0"
+  pipeline: "Jarvis v2.1"
+  extraido_por: "Claude Code"
+
+changelog:
+  - data: "2025-12-28T00:00:00Z"
+    acao: "Criacao inicial do DNA"
+    fonte: "DOSSIER-JEREMY-HAYNES.md"
+    itens_adicionados: 20
+    versao: "1.0.0"

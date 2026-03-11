@@ -1,0 +1,1632 @@
+{
+  "version": "2.0.0",
+  "skills_count": 24,
+  "subagents_count": 0,
+  "total_count": 41,
+  "skills": {
+    "agent-creation": {
+      "path": ".claude\\skills\\agent-creation",
+      "name": "agent-creation",
+      "type": "skill",
+      "auto_trigger": "Criação de agentes, comando /create-agent",
+      "keywords": [
+        "criar agente",
+        "novo agente",
+        "agent",
+        "soul",
+        "role"
+      ],
+      "priority": "ALTA",
+      "description": "Padrões para Criação de Agentes no Mega Brain"
+    },
+    "brainstorming": {
+      "path": ".claude\\skills\\brainstorming",
+      "name": "brainstorming",
+      "type": "skill",
+      "auto_trigger": "Antes de criar playbooks, estruturar agentes, design de conhecimento",
+      "keywords": [
+        "brainstorm",
+        "ideias",
+        "ideação",
+        "playbook",
+        "design",
+        "estrutura",
+        "agentes",
+        "arquitetura"
+      ],
+      "priority": "MÉDIA",
+      "description": ""
+    },
+    "chronicler": {
+      "path": ".claude\\skills\\chronicler",
+      "name": "chronicler",
+      "type": "skill",
+      "auto_trigger": "Briefings de sessão, handoffs, logs visuais elaborados",
+      "keywords": [
+        "briefing",
+        "handoff",
+        "chronicler",
+        "log bonito",
+        "chronicle",
+        "sessão"
+      ],
+      "priority": "ALTA",
+      "description": ""
+    },
+    "code-review": {
+      "path": ".claude\\skills\\code-review",
+      "name": "code-review",
+      "type": "skill",
+      "auto_trigger": "Quando usuário pedir review de código, análise de qualidade, revisão de PR, auditoria de código",
+      "keywords": [
+        "review",
+        "revisar código",
+        "code review",
+        "análise de código",
+        "qualidade de código",
+        "revisar mudanças"
+      ],
+      "priority": "ALTA",
+      "description": ""
+    },
+    "dispatching-parallel-agents": {
+      "path": ".claude\\skills\\dispatching-parallel-agents",
+      "name": "dispatching-parallel-agents",
+      "type": "skill",
+      "auto_trigger": "2+ arquivos INBOX, múltiplos processamentos, paralelização de tarefas",
+      "keywords": [
+        "paralelo",
+        "agents",
+        "dispatch",
+        "múltiplos",
+        "batch",
+        "concorrente",
+        "inbox"
+      ],
+      "priority": "ALTA",
+      "description": ""
+    },
+    "docs-megabrain": {
+      "path": ".claude\\skills\\docs-megabrain",
+      "name": "docs-megabrain",
+      "type": "skill",
+      "auto_trigger": "Criação de qualquer arquivo .md no projeto",
+      "keywords": [
+        "documento",
+        "documentar",
+        "criar md",
+        "playbook",
+        "readme"
+      ],
+      "priority": "ALTA",
+      "description": "Padrões de Documentação do Mega Brain"
+    },
+    "executing-plans": {
+      "path": ".claude\\skills\\executing-plans",
+      "name": "executing-plans",
+      "type": "skill",
+      "auto_trigger": "Executar plano de processamento, implementar pipeline com checkpoints",
+      "keywords": [
+        "executar",
+        "plano",
+        "execução",
+        "pipeline",
+        "checkpoint",
+        "batch",
+        "jarvis"
+      ],
+      "priority": "ALTA",
+      "description": ""
+    },
+    "feature-dev": {
+      "path": ".claude\\skills\\feature-dev",
+      "name": "feature-dev",
+      "type": "skill",
+      "auto_trigger": "Quando usuário pedir nova feature, funcionalidade, implementação estruturada, desenvolvimento guiado",
+      "keywords": [
+        "feature",
+        "nova funcionalidade",
+        "7 fases",
+        "implementar feature",
+        "desenvolvimento estruturado",
+        "feature workflow"
+      ],
+      "priority": "ALTA",
+      "description": ""
+    },
+    "frontend-design": {
+      "path": ".claude\\skills\\frontend-design",
+      "name": "frontend-design",
+      "type": "skill",
+      "auto_trigger": "Quando usuário pedir UI, interface, design, frontend, componente visual, layout, CSS, styling",
+      "keywords": [
+        "frontend",
+        "ui",
+        "interface",
+        "design",
+        "componente",
+        "visual",
+        "css",
+        "layout",
+        "styling",
+        "theme",
+        "aesthetics"
+      ],
+      "priority": "ALTA",
+      "description": ""
+    },
+    "github-workflow": {
+      "path": ".claude\\skills\\github-workflow",
+      "name": "github-workflow",
+      "type": "skill",
+      "auto_trigger": "Quando usuário menciona GitHub, issues, PRs, branches, ou workflow de código",
+      "keywords": [
+        "github",
+        "issue",
+        "pull request",
+        "pr",
+        "branch",
+        "merge",
+        "commit",
+        "workflow"
+      ],
+      "priority": "ALTA",
+      "description": ""
+    },
+    "hookify": {
+      "path": ".claude\\skills\\hookify",
+      "name": "hookify",
+      "type": "skill",
+      "auto_trigger": "Quando usuário quiser criar hook, regra de segurança, validação customizada, lifecycle hook",
+      "keywords": [
+        "hook",
+        "criar hook",
+        "lifecycle",
+        "safety rule",
+        "validação",
+        "regra de segurança",
+        "pre-tool",
+        "post-tool"
+      ],
+      "priority": "ALTA",
+      "description": ""
+    },
+    "jarvis": {
+      "path": ".claude\\skills\\jarvis",
+      "name": "jarvis",
+      "type": "skill",
+      "auto_trigger": "Quando usuário digita `/jarvis` ou precisa de orquestração complexa",
+      "keywords": [
+        "jarvis",
+        "orquestrador",
+        "meta-agente",
+        "contexto",
+        "estado",
+        "checkpoint"
+      ],
+      "priority": "ALTA",
+      "description": ""
+    },
+    "jarvis-briefing": {
+      "path": ".claude\\skills\\jarvis-briefing",
+      "name": "jarvis-briefing",
+      "type": "skill",
+      "auto_trigger": "Inicio de sessao ou quando usuario pede status visual",
+      "keywords": [
+        "briefing",
+        "jarvis briefing",
+        "status visual",
+        "onde estamos",
+        "resumo jarvis"
+      ],
+      "priority": "ALTA",
+      "description": ""
+    },
+    "knowledge-extraction": {
+      "path": ".claude\\skills\\knowledge-extraction",
+      "name": "knowledge-extraction",
+      "type": "skill",
+      "auto_trigger": "Processamento de conteúdo, extração de insights",
+      "keywords": [
+        "extrair",
+        "processar",
+        "insight",
+        "chunk",
+        "conhecimento"
+      ],
+      "priority": "ALTA",
+      "description": "Padrões para Extração de Conhecimento no Mega Brain"
+    },
+    "pdf-to-text": {
+      "path": ".claude\\skills\\pdf-to-text",
+      "name": "pdf-to-text",
+      "type": "skill",
+      "auto_trigger": "Quando usuario pede para ler/analisar arquivo PDF",
+      "keywords": [
+        "pdf",
+        "ler pdf",
+        "analisar pdf",
+        "converter pdf",
+        "extrair pdf",
+        "abrir pdf"
+      ],
+      "priority": "ALTA",
+      "description": ""
+    },
+    "pipeline-jarvis": {
+      "path": ".claude\\skills\\pipeline-jarvis",
+      "name": "pipeline-jarvis",
+      "type": "skill",
+      "auto_trigger": "Processamento de novo material, comando /process",
+      "keywords": [
+        "processar",
+        "pipeline",
+        "jarvis",
+        "novo material",
+        "inbox"
+      ],
+      "priority": "ALTA",
+      "description": "Padrões do Pipeline de Processamento Jarvis"
+    },
+    "plugin-dev": {
+      "path": ".claude\\skills\\plugin-dev",
+      "name": "plugin-dev",
+      "type": "skill",
+      "auto_trigger": "Quando usuário quiser criar plugin, desenvolver extensão, criar skill customizada",
+      "keywords": [
+        "plugin",
+        "desenvolver plugin",
+        "criar plugin",
+        "extensão",
+        "criar skill",
+        "plugin-dev",
+        "create-plugin"
+      ],
+      "priority": "ALTA",
+      "description": ""
+    },
+    "pr-review-toolkit": {
+      "path": ".claude\\skills\\pr-review-toolkit",
+      "name": "pr-review-toolkit",
+      "type": "skill",
+      "auto_trigger": "Quando usuário pedir análise de PR, revisão de pull request, análise de comentários, hunting de falhas",
+      "keywords": [
+        "pr",
+        "pull request",
+        "revisar pr",
+        "análise de pr",
+        "pr review",
+        "comment analyzer",
+        "silent failure"
+      ],
+      "priority": "ALTA",
+      "description": ""
+    },
+    "python-megabrain": {
+      "path": ".claude\\skills\\python-megabrain",
+      "name": "python-megabrain",
+      "type": "skill",
+      "auto_trigger": "Criação/edição de arquivos .py no projeto",
+      "keywords": [
+        "script",
+        "python",
+        "código",
+        "função",
+        "automação"
+      ],
+      "priority": "ALTA",
+      "description": "Padrões de Código Python do Mega Brain"
+    },
+    "skill-creator-internal": {
+      "path": ".claude\\skills\\skill-creator-internal",
+      "name": "skill-creator-internal",
+      "type": "skill",
+      "auto_trigger": "Ativado quando detectar intenção de criar nova skill",
+      "keywords": [
+        "criar skill",
+        "nova skill",
+        "skill para",
+        "automatizar"
+      ],
+      "priority": "ALTA",
+      "description": "Meta-Skill: Guia Automático para Criação de Skills"
+    },
+    "using-superpowers": {
+      "path": ".claude\\skills\\using-superpowers",
+      "name": "using-superpowers",
+      "type": "skill",
+      "auto_trigger": "Qualquer conversa, encontrar e usar skills disponíveis",
+      "keywords": [
+        "superpower",
+        "poder",
+        "avançado",
+        "capability",
+        "skills",
+        "habilidades"
+      ],
+      "priority": "MÉDIA",
+      "description": ""
+    },
+    "verification-before-completion": {
+      "path": ".claude\\skills\\verification-before-completion",
+      "name": "verification-before-completion",
+      "type": "skill",
+      "auto_trigger": "Antes de declarar completo/corrigido, antes de finalizar processamento",
+      "keywords": [
+        "verificar",
+        "validar",
+        "checklist",
+        "finalizar",
+        "completo",
+        "pronto",
+        "concluído"
+      ],
+      "priority": "ALTA",
+      "description": ""
+    },
+    "verify-6-levels": {
+      "path": ".claude\\skills\\verify-6-levels",
+      "name": "verify-6-levels",
+      "type": "skill",
+      "auto_trigger": "Quando usuário pede verificação, validação, ou checagem de qualidade",
+      "keywords": [
+        "verificar",
+        "verify",
+        "verificação",
+        "validar",
+        "validation",
+        "checar",
+        "check",
+        "qualidade",
+        "quality",
+        "6 níveis",
+        "6 levels"
+      ],
+      "priority": "ALTA",
+      "description": ""
+    },
+    "writing-plans": {
+      "path": ".claude\\skills\\writing-plans",
+      "name": "writing-plans",
+      "type": "skill",
+      "auto_trigger": "Spec ou requirements para tarefa multi-step, antes de executar",
+      "keywords": [
+        "plano",
+        "planejamento",
+        "planning",
+        "escrever",
+        "spec",
+        "requirements"
+      ],
+      "priority": "MÉDIA",
+      "description": ""
+    }
+  },
+  "subagents": {},
+  "keyword_map": {
+    "criar agente": [
+      {
+        "name": "agent-creation",
+        "type": "skill",
+        "path": ".claude\\skills\\agent-creation",
+        "priority": "ALTA"
+      }
+    ],
+    "novo agente": [
+      {
+        "name": "agent-creation",
+        "type": "skill",
+        "path": ".claude\\skills\\agent-creation",
+        "priority": "ALTA"
+      }
+    ],
+    "agent": [
+      {
+        "name": "agent-creation",
+        "type": "skill",
+        "path": ".claude\\skills\\agent-creation",
+        "priority": "ALTA"
+      }
+    ],
+    "soul": [
+      {
+        "name": "agent-creation",
+        "type": "skill",
+        "path": ".claude\\skills\\agent-creation",
+        "priority": "ALTA"
+      }
+    ],
+    "role": [
+      {
+        "name": "agent-creation",
+        "type": "skill",
+        "path": ".claude\\skills\\agent-creation",
+        "priority": "ALTA"
+      }
+    ],
+    "brainstorm": [
+      {
+        "name": "brainstorming",
+        "type": "skill",
+        "path": ".claude\\skills\\brainstorming",
+        "priority": "MÉDIA"
+      }
+    ],
+    "ideias": [
+      {
+        "name": "brainstorming",
+        "type": "skill",
+        "path": ".claude\\skills\\brainstorming",
+        "priority": "MÉDIA"
+      }
+    ],
+    "ideação": [
+      {
+        "name": "brainstorming",
+        "type": "skill",
+        "path": ".claude\\skills\\brainstorming",
+        "priority": "MÉDIA"
+      }
+    ],
+    "playbook": [
+      {
+        "name": "brainstorming",
+        "type": "skill",
+        "path": ".claude\\skills\\brainstorming",
+        "priority": "MÉDIA"
+      },
+      {
+        "name": "docs-megabrain",
+        "type": "skill",
+        "path": ".claude\\skills\\docs-megabrain",
+        "priority": "ALTA"
+      }
+    ],
+    "design": [
+      {
+        "name": "brainstorming",
+        "type": "skill",
+        "path": ".claude\\skills\\brainstorming",
+        "priority": "MÉDIA"
+      },
+      {
+        "name": "frontend-design",
+        "type": "skill",
+        "path": ".claude\\skills\\frontend-design",
+        "priority": "ALTA"
+      }
+    ],
+    "estrutura": [
+      {
+        "name": "brainstorming",
+        "type": "skill",
+        "path": ".claude\\skills\\brainstorming",
+        "priority": "MÉDIA"
+      }
+    ],
+    "agentes": [
+      {
+        "name": "brainstorming",
+        "type": "skill",
+        "path": ".claude\\skills\\brainstorming",
+        "priority": "MÉDIA"
+      }
+    ],
+    "arquitetura": [
+      {
+        "name": "brainstorming",
+        "type": "skill",
+        "path": ".claude\\skills\\brainstorming",
+        "priority": "MÉDIA"
+      }
+    ],
+    "briefing": [
+      {
+        "name": "chronicler",
+        "type": "skill",
+        "path": ".claude\\skills\\chronicler",
+        "priority": "ALTA"
+      },
+      {
+        "name": "jarvis-briefing",
+        "type": "skill",
+        "path": ".claude\\skills\\jarvis-briefing",
+        "priority": "ALTA"
+      }
+    ],
+    "handoff": [
+      {
+        "name": "chronicler",
+        "type": "skill",
+        "path": ".claude\\skills\\chronicler",
+        "priority": "ALTA"
+      }
+    ],
+    "chronicler": [
+      {
+        "name": "chronicler",
+        "type": "skill",
+        "path": ".claude\\skills\\chronicler",
+        "priority": "ALTA"
+      }
+    ],
+    "log bonito": [
+      {
+        "name": "chronicler",
+        "type": "skill",
+        "path": ".claude\\skills\\chronicler",
+        "priority": "ALTA"
+      }
+    ],
+    "chronicle": [
+      {
+        "name": "chronicler",
+        "type": "skill",
+        "path": ".claude\\skills\\chronicler",
+        "priority": "ALTA"
+      }
+    ],
+    "sessão": [
+      {
+        "name": "chronicler",
+        "type": "skill",
+        "path": ".claude\\skills\\chronicler",
+        "priority": "ALTA"
+      }
+    ],
+    "review": [
+      {
+        "name": "code-review",
+        "type": "skill",
+        "path": ".claude\\skills\\code-review",
+        "priority": "ALTA"
+      }
+    ],
+    "revisar código": [
+      {
+        "name": "code-review",
+        "type": "skill",
+        "path": ".claude\\skills\\code-review",
+        "priority": "ALTA"
+      }
+    ],
+    "code review": [
+      {
+        "name": "code-review",
+        "type": "skill",
+        "path": ".claude\\skills\\code-review",
+        "priority": "ALTA"
+      }
+    ],
+    "análise de código": [
+      {
+        "name": "code-review",
+        "type": "skill",
+        "path": ".claude\\skills\\code-review",
+        "priority": "ALTA"
+      }
+    ],
+    "qualidade de código": [
+      {
+        "name": "code-review",
+        "type": "skill",
+        "path": ".claude\\skills\\code-review",
+        "priority": "ALTA"
+      }
+    ],
+    "revisar mudanças": [
+      {
+        "name": "code-review",
+        "type": "skill",
+        "path": ".claude\\skills\\code-review",
+        "priority": "ALTA"
+      }
+    ],
+    "paralelo": [
+      {
+        "name": "dispatching-parallel-agents",
+        "type": "skill",
+        "path": ".claude\\skills\\dispatching-parallel-agents",
+        "priority": "ALTA"
+      }
+    ],
+    "agents": [
+      {
+        "name": "dispatching-parallel-agents",
+        "type": "skill",
+        "path": ".claude\\skills\\dispatching-parallel-agents",
+        "priority": "ALTA"
+      }
+    ],
+    "dispatch": [
+      {
+        "name": "dispatching-parallel-agents",
+        "type": "skill",
+        "path": ".claude\\skills\\dispatching-parallel-agents",
+        "priority": "ALTA"
+      }
+    ],
+    "múltiplos": [
+      {
+        "name": "dispatching-parallel-agents",
+        "type": "skill",
+        "path": ".claude\\skills\\dispatching-parallel-agents",
+        "priority": "ALTA"
+      }
+    ],
+    "batch": [
+      {
+        "name": "dispatching-parallel-agents",
+        "type": "skill",
+        "path": ".claude\\skills\\dispatching-parallel-agents",
+        "priority": "ALTA"
+      },
+      {
+        "name": "executing-plans",
+        "type": "skill",
+        "path": ".claude\\skills\\executing-plans",
+        "priority": "ALTA"
+      }
+    ],
+    "concorrente": [
+      {
+        "name": "dispatching-parallel-agents",
+        "type": "skill",
+        "path": ".claude\\skills\\dispatching-parallel-agents",
+        "priority": "ALTA"
+      }
+    ],
+    "inbox": [
+      {
+        "name": "dispatching-parallel-agents",
+        "type": "skill",
+        "path": ".claude\\skills\\dispatching-parallel-agents",
+        "priority": "ALTA"
+      },
+      {
+        "name": "pipeline-jarvis",
+        "type": "skill",
+        "path": ".claude\\skills\\pipeline-jarvis",
+        "priority": "ALTA"
+      }
+    ],
+    "documento": [
+      {
+        "name": "docs-megabrain",
+        "type": "skill",
+        "path": ".claude\\skills\\docs-megabrain",
+        "priority": "ALTA"
+      }
+    ],
+    "documentar": [
+      {
+        "name": "docs-megabrain",
+        "type": "skill",
+        "path": ".claude\\skills\\docs-megabrain",
+        "priority": "ALTA"
+      }
+    ],
+    "criar md": [
+      {
+        "name": "docs-megabrain",
+        "type": "skill",
+        "path": ".claude\\skills\\docs-megabrain",
+        "priority": "ALTA"
+      }
+    ],
+    "readme": [
+      {
+        "name": "docs-megabrain",
+        "type": "skill",
+        "path": ".claude\\skills\\docs-megabrain",
+        "priority": "ALTA"
+      }
+    ],
+    "executar": [
+      {
+        "name": "executing-plans",
+        "type": "skill",
+        "path": ".claude\\skills\\executing-plans",
+        "priority": "ALTA"
+      }
+    ],
+    "plano": [
+      {
+        "name": "executing-plans",
+        "type": "skill",
+        "path": ".claude\\skills\\executing-plans",
+        "priority": "ALTA"
+      },
+      {
+        "name": "writing-plans",
+        "type": "skill",
+        "path": ".claude\\skills\\writing-plans",
+        "priority": "MÉDIA"
+      }
+    ],
+    "execução": [
+      {
+        "name": "executing-plans",
+        "type": "skill",
+        "path": ".claude\\skills\\executing-plans",
+        "priority": "ALTA"
+      }
+    ],
+    "pipeline": [
+      {
+        "name": "executing-plans",
+        "type": "skill",
+        "path": ".claude\\skills\\executing-plans",
+        "priority": "ALTA"
+      },
+      {
+        "name": "pipeline-jarvis",
+        "type": "skill",
+        "path": ".claude\\skills\\pipeline-jarvis",
+        "priority": "ALTA"
+      }
+    ],
+    "checkpoint": [
+      {
+        "name": "executing-plans",
+        "type": "skill",
+        "path": ".claude\\skills\\executing-plans",
+        "priority": "ALTA"
+      },
+      {
+        "name": "jarvis",
+        "type": "skill",
+        "path": ".claude\\skills\\jarvis",
+        "priority": "ALTA"
+      }
+    ],
+    "jarvis": [
+      {
+        "name": "executing-plans",
+        "type": "skill",
+        "path": ".claude\\skills\\executing-plans",
+        "priority": "ALTA"
+      },
+      {
+        "name": "jarvis",
+        "type": "skill",
+        "path": ".claude\\skills\\jarvis",
+        "priority": "ALTA"
+      },
+      {
+        "name": "pipeline-jarvis",
+        "type": "skill",
+        "path": ".claude\\skills\\pipeline-jarvis",
+        "priority": "ALTA"
+      }
+    ],
+    "feature": [
+      {
+        "name": "feature-dev",
+        "type": "skill",
+        "path": ".claude\\skills\\feature-dev",
+        "priority": "ALTA"
+      }
+    ],
+    "nova funcionalidade": [
+      {
+        "name": "feature-dev",
+        "type": "skill",
+        "path": ".claude\\skills\\feature-dev",
+        "priority": "ALTA"
+      }
+    ],
+    "7 fases": [
+      {
+        "name": "feature-dev",
+        "type": "skill",
+        "path": ".claude\\skills\\feature-dev",
+        "priority": "ALTA"
+      }
+    ],
+    "implementar feature": [
+      {
+        "name": "feature-dev",
+        "type": "skill",
+        "path": ".claude\\skills\\feature-dev",
+        "priority": "ALTA"
+      }
+    ],
+    "desenvolvimento estruturado": [
+      {
+        "name": "feature-dev",
+        "type": "skill",
+        "path": ".claude\\skills\\feature-dev",
+        "priority": "ALTA"
+      }
+    ],
+    "feature workflow": [
+      {
+        "name": "feature-dev",
+        "type": "skill",
+        "path": ".claude\\skills\\feature-dev",
+        "priority": "ALTA"
+      }
+    ],
+    "frontend": [
+      {
+        "name": "frontend-design",
+        "type": "skill",
+        "path": ".claude\\skills\\frontend-design",
+        "priority": "ALTA"
+      }
+    ],
+    "ui": [
+      {
+        "name": "frontend-design",
+        "type": "skill",
+        "path": ".claude\\skills\\frontend-design",
+        "priority": "ALTA"
+      }
+    ],
+    "interface": [
+      {
+        "name": "frontend-design",
+        "type": "skill",
+        "path": ".claude\\skills\\frontend-design",
+        "priority": "ALTA"
+      }
+    ],
+    "componente": [
+      {
+        "name": "frontend-design",
+        "type": "skill",
+        "path": ".claude\\skills\\frontend-design",
+        "priority": "ALTA"
+      }
+    ],
+    "visual": [
+      {
+        "name": "frontend-design",
+        "type": "skill",
+        "path": ".claude\\skills\\frontend-design",
+        "priority": "ALTA"
+      }
+    ],
+    "css": [
+      {
+        "name": "frontend-design",
+        "type": "skill",
+        "path": ".claude\\skills\\frontend-design",
+        "priority": "ALTA"
+      }
+    ],
+    "layout": [
+      {
+        "name": "frontend-design",
+        "type": "skill",
+        "path": ".claude\\skills\\frontend-design",
+        "priority": "ALTA"
+      }
+    ],
+    "styling": [
+      {
+        "name": "frontend-design",
+        "type": "skill",
+        "path": ".claude\\skills\\frontend-design",
+        "priority": "ALTA"
+      }
+    ],
+    "theme": [
+      {
+        "name": "frontend-design",
+        "type": "skill",
+        "path": ".claude\\skills\\frontend-design",
+        "priority": "ALTA"
+      }
+    ],
+    "aesthetics": [
+      {
+        "name": "frontend-design",
+        "type": "skill",
+        "path": ".claude\\skills\\frontend-design",
+        "priority": "ALTA"
+      }
+    ],
+    "github": [
+      {
+        "name": "github-workflow",
+        "type": "skill",
+        "path": ".claude\\skills\\github-workflow",
+        "priority": "ALTA"
+      }
+    ],
+    "issue": [
+      {
+        "name": "github-workflow",
+        "type": "skill",
+        "path": ".claude\\skills\\github-workflow",
+        "priority": "ALTA"
+      }
+    ],
+    "pull request": [
+      {
+        "name": "github-workflow",
+        "type": "skill",
+        "path": ".claude\\skills\\github-workflow",
+        "priority": "ALTA"
+      },
+      {
+        "name": "pr-review-toolkit",
+        "type": "skill",
+        "path": ".claude\\skills\\pr-review-toolkit",
+        "priority": "ALTA"
+      }
+    ],
+    "pr": [
+      {
+        "name": "github-workflow",
+        "type": "skill",
+        "path": ".claude\\skills\\github-workflow",
+        "priority": "ALTA"
+      },
+      {
+        "name": "pr-review-toolkit",
+        "type": "skill",
+        "path": ".claude\\skills\\pr-review-toolkit",
+        "priority": "ALTA"
+      }
+    ],
+    "branch": [
+      {
+        "name": "github-workflow",
+        "type": "skill",
+        "path": ".claude\\skills\\github-workflow",
+        "priority": "ALTA"
+      }
+    ],
+    "merge": [
+      {
+        "name": "github-workflow",
+        "type": "skill",
+        "path": ".claude\\skills\\github-workflow",
+        "priority": "ALTA"
+      }
+    ],
+    "commit": [
+      {
+        "name": "github-workflow",
+        "type": "skill",
+        "path": ".claude\\skills\\github-workflow",
+        "priority": "ALTA"
+      }
+    ],
+    "workflow": [
+      {
+        "name": "github-workflow",
+        "type": "skill",
+        "path": ".claude\\skills\\github-workflow",
+        "priority": "ALTA"
+      }
+    ],
+    "hook": [
+      {
+        "name": "hookify",
+        "type": "skill",
+        "path": ".claude\\skills\\hookify",
+        "priority": "ALTA"
+      }
+    ],
+    "criar hook": [
+      {
+        "name": "hookify",
+        "type": "skill",
+        "path": ".claude\\skills\\hookify",
+        "priority": "ALTA"
+      }
+    ],
+    "lifecycle": [
+      {
+        "name": "hookify",
+        "type": "skill",
+        "path": ".claude\\skills\\hookify",
+        "priority": "ALTA"
+      }
+    ],
+    "safety rule": [
+      {
+        "name": "hookify",
+        "type": "skill",
+        "path": ".claude\\skills\\hookify",
+        "priority": "ALTA"
+      }
+    ],
+    "validação": [
+      {
+        "name": "hookify",
+        "type": "skill",
+        "path": ".claude\\skills\\hookify",
+        "priority": "ALTA"
+      }
+    ],
+    "regra de segurança": [
+      {
+        "name": "hookify",
+        "type": "skill",
+        "path": ".claude\\skills\\hookify",
+        "priority": "ALTA"
+      }
+    ],
+    "pre-tool": [
+      {
+        "name": "hookify",
+        "type": "skill",
+        "path": ".claude\\skills\\hookify",
+        "priority": "ALTA"
+      }
+    ],
+    "post-tool": [
+      {
+        "name": "hookify",
+        "type": "skill",
+        "path": ".claude\\skills\\hookify",
+        "priority": "ALTA"
+      }
+    ],
+    "orquestrador": [
+      {
+        "name": "jarvis",
+        "type": "skill",
+        "path": ".claude\\skills\\jarvis",
+        "priority": "ALTA"
+      }
+    ],
+    "meta-agente": [
+      {
+        "name": "jarvis",
+        "type": "skill",
+        "path": ".claude\\skills\\jarvis",
+        "priority": "ALTA"
+      }
+    ],
+    "contexto": [
+      {
+        "name": "jarvis",
+        "type": "skill",
+        "path": ".claude\\skills\\jarvis",
+        "priority": "ALTA"
+      }
+    ],
+    "estado": [
+      {
+        "name": "jarvis",
+        "type": "skill",
+        "path": ".claude\\skills\\jarvis",
+        "priority": "ALTA"
+      }
+    ],
+    "jarvis briefing": [
+      {
+        "name": "jarvis-briefing",
+        "type": "skill",
+        "path": ".claude\\skills\\jarvis-briefing",
+        "priority": "ALTA"
+      }
+    ],
+    "status visual": [
+      {
+        "name": "jarvis-briefing",
+        "type": "skill",
+        "path": ".claude\\skills\\jarvis-briefing",
+        "priority": "ALTA"
+      }
+    ],
+    "onde estamos": [
+      {
+        "name": "jarvis-briefing",
+        "type": "skill",
+        "path": ".claude\\skills\\jarvis-briefing",
+        "priority": "ALTA"
+      }
+    ],
+    "resumo jarvis": [
+      {
+        "name": "jarvis-briefing",
+        "type": "skill",
+        "path": ".claude\\skills\\jarvis-briefing",
+        "priority": "ALTA"
+      }
+    ],
+    "extrair": [
+      {
+        "name": "knowledge-extraction",
+        "type": "skill",
+        "path": ".claude\\skills\\knowledge-extraction",
+        "priority": "ALTA"
+      }
+    ],
+    "processar": [
+      {
+        "name": "knowledge-extraction",
+        "type": "skill",
+        "path": ".claude\\skills\\knowledge-extraction",
+        "priority": "ALTA"
+      },
+      {
+        "name": "pipeline-jarvis",
+        "type": "skill",
+        "path": ".claude\\skills\\pipeline-jarvis",
+        "priority": "ALTA"
+      }
+    ],
+    "insight": [
+      {
+        "name": "knowledge-extraction",
+        "type": "skill",
+        "path": ".claude\\skills\\knowledge-extraction",
+        "priority": "ALTA"
+      }
+    ],
+    "chunk": [
+      {
+        "name": "knowledge-extraction",
+        "type": "skill",
+        "path": ".claude\\skills\\knowledge-extraction",
+        "priority": "ALTA"
+      }
+    ],
+    "conhecimento": [
+      {
+        "name": "knowledge-extraction",
+        "type": "skill",
+        "path": ".claude\\skills\\knowledge-extraction",
+        "priority": "ALTA"
+      }
+    ],
+    "pdf": [
+      {
+        "name": "pdf-to-text",
+        "type": "skill",
+        "path": ".claude\\skills\\pdf-to-text",
+        "priority": "ALTA"
+      }
+    ],
+    "ler pdf": [
+      {
+        "name": "pdf-to-text",
+        "type": "skill",
+        "path": ".claude\\skills\\pdf-to-text",
+        "priority": "ALTA"
+      }
+    ],
+    "analisar pdf": [
+      {
+        "name": "pdf-to-text",
+        "type": "skill",
+        "path": ".claude\\skills\\pdf-to-text",
+        "priority": "ALTA"
+      }
+    ],
+    "converter pdf": [
+      {
+        "name": "pdf-to-text",
+        "type": "skill",
+        "path": ".claude\\skills\\pdf-to-text",
+        "priority": "ALTA"
+      }
+    ],
+    "extrair pdf": [
+      {
+        "name": "pdf-to-text",
+        "type": "skill",
+        "path": ".claude\\skills\\pdf-to-text",
+        "priority": "ALTA"
+      }
+    ],
+    "abrir pdf": [
+      {
+        "name": "pdf-to-text",
+        "type": "skill",
+        "path": ".claude\\skills\\pdf-to-text",
+        "priority": "ALTA"
+      }
+    ],
+    "novo material": [
+      {
+        "name": "pipeline-jarvis",
+        "type": "skill",
+        "path": ".claude\\skills\\pipeline-jarvis",
+        "priority": "ALTA"
+      }
+    ],
+    "plugin": [
+      {
+        "name": "plugin-dev",
+        "type": "skill",
+        "path": ".claude\\skills\\plugin-dev",
+        "priority": "ALTA"
+      }
+    ],
+    "desenvolver plugin": [
+      {
+        "name": "plugin-dev",
+        "type": "skill",
+        "path": ".claude\\skills\\plugin-dev",
+        "priority": "ALTA"
+      }
+    ],
+    "criar plugin": [
+      {
+        "name": "plugin-dev",
+        "type": "skill",
+        "path": ".claude\\skills\\plugin-dev",
+        "priority": "ALTA"
+      }
+    ],
+    "extensão": [
+      {
+        "name": "plugin-dev",
+        "type": "skill",
+        "path": ".claude\\skills\\plugin-dev",
+        "priority": "ALTA"
+      }
+    ],
+    "criar skill": [
+      {
+        "name": "plugin-dev",
+        "type": "skill",
+        "path": ".claude\\skills\\plugin-dev",
+        "priority": "ALTA"
+      },
+      {
+        "name": "skill-creator-internal",
+        "type": "skill",
+        "path": ".claude\\skills\\skill-creator-internal",
+        "priority": "ALTA"
+      }
+    ],
+    "plugin-dev": [
+      {
+        "name": "plugin-dev",
+        "type": "skill",
+        "path": ".claude\\skills\\plugin-dev",
+        "priority": "ALTA"
+      }
+    ],
+    "create-plugin": [
+      {
+        "name": "plugin-dev",
+        "type": "skill",
+        "path": ".claude\\skills\\plugin-dev",
+        "priority": "ALTA"
+      }
+    ],
+    "revisar pr": [
+      {
+        "name": "pr-review-toolkit",
+        "type": "skill",
+        "path": ".claude\\skills\\pr-review-toolkit",
+        "priority": "ALTA"
+      }
+    ],
+    "análise de pr": [
+      {
+        "name": "pr-review-toolkit",
+        "type": "skill",
+        "path": ".claude\\skills\\pr-review-toolkit",
+        "priority": "ALTA"
+      }
+    ],
+    "pr review": [
+      {
+        "name": "pr-review-toolkit",
+        "type": "skill",
+        "path": ".claude\\skills\\pr-review-toolkit",
+        "priority": "ALTA"
+      }
+    ],
+    "comment analyzer": [
+      {
+        "name": "pr-review-toolkit",
+        "type": "skill",
+        "path": ".claude\\skills\\pr-review-toolkit",
+        "priority": "ALTA"
+      }
+    ],
+    "silent failure": [
+      {
+        "name": "pr-review-toolkit",
+        "type": "skill",
+        "path": ".claude\\skills\\pr-review-toolkit",
+        "priority": "ALTA"
+      }
+    ],
+    "script": [
+      {
+        "name": "python-megabrain",
+        "type": "skill",
+        "path": ".claude\\skills\\python-megabrain",
+        "priority": "ALTA"
+      }
+    ],
+    "python": [
+      {
+        "name": "python-megabrain",
+        "type": "skill",
+        "path": ".claude\\skills\\python-megabrain",
+        "priority": "ALTA"
+      }
+    ],
+    "código": [
+      {
+        "name": "python-megabrain",
+        "type": "skill",
+        "path": ".claude\\skills\\python-megabrain",
+        "priority": "ALTA"
+      }
+    ],
+    "função": [
+      {
+        "name": "python-megabrain",
+        "type": "skill",
+        "path": ".claude\\skills\\python-megabrain",
+        "priority": "ALTA"
+      }
+    ],
+    "automação": [
+      {
+        "name": "python-megabrain",
+        "type": "skill",
+        "path": ".claude\\skills\\python-megabrain",
+        "priority": "ALTA"
+      }
+    ],
+    "nova skill": [
+      {
+        "name": "skill-creator-internal",
+        "type": "skill",
+        "path": ".claude\\skills\\skill-creator-internal",
+        "priority": "ALTA"
+      }
+    ],
+    "skill para": [
+      {
+        "name": "skill-creator-internal",
+        "type": "skill",
+        "path": ".claude\\skills\\skill-creator-internal",
+        "priority": "ALTA"
+      }
+    ],
+    "automatizar": [
+      {
+        "name": "skill-creator-internal",
+        "type": "skill",
+        "path": ".claude\\skills\\skill-creator-internal",
+        "priority": "ALTA"
+      }
+    ],
+    "superpower": [
+      {
+        "name": "using-superpowers",
+        "type": "skill",
+        "path": ".claude\\skills\\using-superpowers",
+        "priority": "MÉDIA"
+      }
+    ],
+    "poder": [
+      {
+        "name": "using-superpowers",
+        "type": "skill",
+        "path": ".claude\\skills\\using-superpowers",
+        "priority": "MÉDIA"
+      }
+    ],
+    "avançado": [
+      {
+        "name": "using-superpowers",
+        "type": "skill",
+        "path": ".claude\\skills\\using-superpowers",
+        "priority": "MÉDIA"
+      }
+    ],
+    "capability": [
+      {
+        "name": "using-superpowers",
+        "type": "skill",
+        "path": ".claude\\skills\\using-superpowers",
+        "priority": "MÉDIA"
+      }
+    ],
+    "skills": [
+      {
+        "name": "using-superpowers",
+        "type": "skill",
+        "path": ".claude\\skills\\using-superpowers",
+        "priority": "MÉDIA"
+      }
+    ],
+    "habilidades": [
+      {
+        "name": "using-superpowers",
+        "type": "skill",
+        "path": ".claude\\skills\\using-superpowers",
+        "priority": "MÉDIA"
+      }
+    ],
+    "verificar": [
+      {
+        "name": "verification-before-completion",
+        "type": "skill",
+        "path": ".claude\\skills\\verification-before-completion",
+        "priority": "ALTA"
+      },
+      {
+        "name": "verify-6-levels",
+        "type": "skill",
+        "path": ".claude\\skills\\verify-6-levels",
+        "priority": "ALTA"
+      }
+    ],
+    "validar": [
+      {
+        "name": "verification-before-completion",
+        "type": "skill",
+        "path": ".claude\\skills\\verification-before-completion",
+        "priority": "ALTA"
+      },
+      {
+        "name": "verify-6-levels",
+        "type": "skill",
+        "path": ".claude\\skills\\verify-6-levels",
+        "priority": "ALTA"
+      }
+    ],
+    "checklist": [
+      {
+        "name": "verification-before-completion",
+        "type": "skill",
+        "path": ".claude\\skills\\verification-before-completion",
+        "priority": "ALTA"
+      }
+    ],
+    "finalizar": [
+      {
+        "name": "verification-before-completion",
+        "type": "skill",
+        "path": ".claude\\skills\\verification-before-completion",
+        "priority": "ALTA"
+      }
+    ],
+    "completo": [
+      {
+        "name": "verification-before-completion",
+        "type": "skill",
+        "path": ".claude\\skills\\verification-before-completion",
+        "priority": "ALTA"
+      }
+    ],
+    "pronto": [
+      {
+        "name": "verification-before-completion",
+        "type": "skill",
+        "path": ".claude\\skills\\verification-before-completion",
+        "priority": "ALTA"
+      }
+    ],
+    "concluído": [
+      {
+        "name": "verification-before-completion",
+        "type": "skill",
+        "path": ".claude\\skills\\verification-before-completion",
+        "priority": "ALTA"
+      }
+    ],
+    "verify": [
+      {
+        "name": "verify-6-levels",
+        "type": "skill",
+        "path": ".claude\\skills\\verify-6-levels",
+        "priority": "ALTA"
+      }
+    ],
+    "verificação": [
+      {
+        "name": "verify-6-levels",
+        "type": "skill",
+        "path": ".claude\\skills\\verify-6-levels",
+        "priority": "ALTA"
+      }
+    ],
+    "validation": [
+      {
+        "name": "verify-6-levels",
+        "type": "skill",
+        "path": ".claude\\skills\\verify-6-levels",
+        "priority": "ALTA"
+      }
+    ],
+    "checar": [
+      {
+        "name": "verify-6-levels",
+        "type": "skill",
+        "path": ".claude\\skills\\verify-6-levels",
+        "priority": "ALTA"
+      }
+    ],
+    "check": [
+      {
+        "name": "verify-6-levels",
+        "type": "skill",
+        "path": ".claude\\skills\\verify-6-levels",
+        "priority": "ALTA"
+      }
+    ],
+    "qualidade": [
+      {
+        "name": "verify-6-levels",
+        "type": "skill",
+        "path": ".claude\\skills\\verify-6-levels",
+        "priority": "ALTA"
+      }
+    ],
+    "quality": [
+      {
+        "name": "verify-6-levels",
+        "type": "skill",
+        "path": ".claude\\skills\\verify-6-levels",
+        "priority": "ALTA"
+      }
+    ],
+    "6 níveis": [
+      {
+        "name": "verify-6-levels",
+        "type": "skill",
+        "path": ".claude\\skills\\verify-6-levels",
+        "priority": "ALTA"
+      }
+    ],
+    "6 levels": [
+      {
+        "name": "verify-6-levels",
+        "type": "skill",
+        "path": ".claude\\skills\\verify-6-levels",
+        "priority": "ALTA"
+      }
+    ],
+    "planejamento": [
+      {
+        "name": "writing-plans",
+        "type": "skill",
+        "path": ".claude\\skills\\writing-plans",
+        "priority": "MÉDIA"
+      }
+    ],
+    "planning": [
+      {
+        "name": "writing-plans",
+        "type": "skill",
+        "path": ".claude\\skills\\writing-plans",
+        "priority": "MÉDIA"
+      }
+    ],
+    "escrever": [
+      {
+        "name": "writing-plans",
+        "type": "skill",
+        "path": ".claude\\skills\\writing-plans",
+        "priority": "MÉDIA"
+      }
+    ],
+    "spec": [
+      {
+        "name": "writing-plans",
+        "type": "skill",
+        "path": ".claude\\skills\\writing-plans",
+        "priority": "MÉDIA"
+      }
+    ],
+    "requirements": [
+      {
+        "name": "writing-plans",
+        "type": "skill",
+        "path": ".claude\\skills\\writing-plans",
+        "priority": "MÉDIA"
+      }
+    ]
+  }
+}

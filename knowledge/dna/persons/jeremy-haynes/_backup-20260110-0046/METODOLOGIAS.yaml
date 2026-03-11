@@ -1,0 +1,96 @@
+# METODOLOGIAS - JEREMY HAYNES
+# Processos passo-a-passo com ORDEM RIGIDA e criterios de sucesso por etapa
+# Versao: 1.0.0 | Criado: 2025-12-28
+
+versao: "1.0.0"
+pessoa: "Jeremy Haynes"
+camada: "METODOLOGIAS"
+total_itens: 2
+
+itens:
+  - id: "JH-MET-001"
+    titulo: "Jornada de Pricing"
+    descricao: "Evolucao de $1,500 para $10,000/mes ao longo de 5 anos."
+    peso: 0.90
+    chunks:
+      - "JH001_011"
+    fontes:
+      - "JH001"
+    etapas:
+      - passo: 1
+        nome: "Inicio - Validando Sistema"
+        descricao: "$1,500/mes com income qualification $20k/mes"
+        criterio_sucesso: "Sistema funcionando, resultados consistentes"
+        ano: "2019"
+      - passo: 2
+        nome: "Primeira Subida"
+        descricao: "$2,000/mes"
+        criterio_sucesso: "Demanda mantida, resultados consistentes"
+        ano: "2020"
+      - passo: 3
+        nome: "Segunda Subida"
+        descricao: "$3,000/mes"
+        criterio_sucesso: "Demanda mantida"
+        ano: "2020"
+      - passo: 4
+        nome: "Terceira Subida"
+        descricao: "$4,000/mes"
+        criterio_sucesso: "Demanda mantida"
+        ano: "2021"
+      - passo: 5
+        nome: "Qualificacao Rigorosa"
+        descricao: "$5,000/mes com income qualification $100k/mes"
+        criterio_sucesso: "Filtro mais rigoroso"
+        ano: "2021"
+      - passo: 6
+        nome: "Demanda Alta Demais"
+        descricao: "$6,000/mes - durou 60 dias, 15-21 novos/mes"
+        criterio_sucesso: "Sinal para subir preco"
+        ano: "2023"
+      - passo: 7
+        nome: "Preco Atual"
+        descricao: "$10,000/mes com commitment anual obrigatorio"
+        criterio_sucesso: "97% retencao, demanda equilibrada"
+        ano: "2024"
+    aplicacao: "Planejamento de evolucao de preco"
+
+  - id: "JH-MET-002"
+    titulo: "Scaling Math"
+    descricao: "Processo para escalar operacao de calls."
+    peso: 0.85
+    chunks:
+      - "JH002_009"
+    fontes:
+      - "JH002"
+    etapas:
+      - passo: 1
+        nome: "Verificar Slots"
+        descricao: "Marketing pergunta: Quantos slots disponiveis?"
+        criterio_sucesso: "Numero claro de slots"
+      - passo: 2
+        nome: "Meta: Maxar Slots"
+        descricao: "Objetivo e preencher todos os slots"
+        criterio_sucesso: "Approaching limit"
+      - passo: 3
+        nome: "Iniciar Hiring"
+        descricao: "Quando approaching limit, sales team inicia hiring"
+        criterio_sucesso: "Hiring iniciado 3-4 semanas antes"
+      - passo: 4
+        nome: "Lead Time"
+        descricao: "3-4 semanas para recruit + train"
+        criterio_sucesso: "Novo closer pronto"
+      - passo: 5
+        nome: "Nao Esperar"
+        descricao: "NUNCA esperar ate maxar - cria gaps de 3-4 semanas"
+        criterio_sucesso: "Scaling continuo sem gaps"
+    aplicacao: "Planejamento de crescimento de time de vendas"
+    benchmark: "TOP RESULTS: $5M/mes com call funnels"
+
+metadados:
+  total_chunks_processados: 2
+  fontes_utilizadas:
+    - "JH001"
+    - "JH002"
+  peso_medio: 0.87
+  criado_em: "2025-12-28T00:00:00Z"
+  protocolo: "DNA-EXTRACTION-PROTOCOL v1.0"

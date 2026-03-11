@@ -1,0 +1,595 @@
+# FRAMEWORKS - JEREMY HAYNES
+# Estruturas nomeadas com componentes definidos (sem ordem rigida)
+# Versao: 3.0.0 | Atualizado: 2026-03-03 | Fase 5 + 30DC/CA Merge
+
+versao: "3.0.0"
+pessoa: "Jeremy Haynes"
+camada: "FRAMEWORKS"
+total_itens: 48
+
+itens:
+  # ═══════════════════════════════════════════════════════════════
+  # AD STRATEGIES
+  # ═══════════════════════════════════════════════════════════════
+  - id: "JH-FRM-001"
+    titulo: "Hydra Strategy"
+    descricao: "Lead form ANTES do VSSL para filtrar nao-qualificados. Multi-headed approach."
+    peso: 0.95
+    chunks: ["JH068_001"]
+    fontes: ["BATCH-068"]
+    componentes:
+      - "Lead Form antes do VSSL (filtro)"
+      - "Multi-channel follow-up simultaneo"
+      - "Email + SMS + Retargeting em paralelo"
+      - "Hammer until buy or unsubscribe"
+    aplicacao: "Qualificacao de leads, funil high-ticket"
+    resultado: "Reduz cost per call, aumenta lead quality"
+
+  - id: "JH-FRM-002"
+    titulo: "Venus Fly Trap 1.0"
+    descricao: "3-video content funnel original para nurturing."
+    peso: 0.95
+    chunks: ["JH068_002"]
+    fontes: ["BATCH-068"]
+    componentes:
+      - "Video 1: Hook + Pain Points"
+      - "Video 2: Solution Overview"
+      - "Video 3: Offer + CTA"
+      - "15 videos total (5 por step)"
+      - "25% watch = move to next step"
+    aplicacao: "Content funnel, video ads"
+    resultado: "Nurturing sem ser invasivo"
+
+  - id: "JH-FRM-003"
+    titulo: "Venus Fly Trap 2.0"
+    descricao: "Versao evoluida do VFT com 3-step content funnel."
+    peso: 0.95
+    chunks: ["JH069_003"]
+    fontes: ["BATCH-069"]
+    componentes:
+      - "Step 1: Awareness videos"
+      - "Step 2: Education videos"
+      - "Step 3: Conversion videos"
+      - "Dynamic audience progression"
+      - "Engagement-based sequencing"
+    aplicacao: "Advanced content funnel"
+    resultado: "$12M in 3.5 months case"
+
+  - id: "JH-FRM-004"
+    titulo: "Tornado Ad Strategy"
+    descricao: "High-velocity creative rotation para evitar ad fatigue."
+    peso: 0.90
+    chunks: ["JH070_004"]
+    fontes: ["BATCH-070"]
+    componentes:
+      - "Rotacao rapida de criativos"
+      - "Multiplos angulos simultaneos"
+      - "A/B testing agressivo"
+      - "Kill losers fast, scale winners"
+    aplicacao: "Scaling ads, creative testing"
+    resultado: "Evita ad fatigue, mantém CPA"
+
+  - id: "JH-FRM-005"
+    titulo: "Harvester Ad Strategy"
+    descricao: "Estrategia evergreen para conversao constante."
+    peso: 0.90
+    chunks: ["JH071_005"]
+    fontes: ["BATCH-071"]
+    componentes:
+      - "Evergreen creative assets"
+      - "Long-term optimization"
+      - "Consistent messaging"
+      - "Low maintenance scaling"
+    aplicacao: "Evergreen campaigns, stability"
+    resultado: "Revenue previsivel"
+
+  - id: "JH-FRM-006"
+    titulo: "Forester Ad Strategy"
+    descricao: "Versao upgraded que levou de $8.3M para $46M."
+    peso: 0.95
+    chunks: ["JH072_006"]
+    fontes: ["BATCH-072"]
+    componentes:
+      - "Strategic forest planting"
+      - "Multiple revenue streams"
+      - "Long-term brand building"
+      - "Compound growth approach"
+    aplicacao: "Scale strategy, brand growth"
+    resultado: "$8.3M → $46M growth"
+
+  - id: "JH-FRM-007"
+    titulo: "Andromeda Algorithm"
+    descricao: "50+ criativos/semana vs 3-4 do passado. Nova era de ads."
+    peso: 0.90
+    chunks: ["JH073_007"]
+    fontes: ["BATCH-073"]
+    componentes:
+      - "50+ criativos por semana"
+      - "AI-assisted creation"
+      - "Rapid iteration"
+      - "Volume over perfection"
+    aplicacao: "Creative production, scaling"
+    resultado: "Algorithm favorability"
+
+  # ═══════════════════════════════════════════════════════════════
+  # FUNNEL FRAMEWORKS
+  # ═══════════════════════════════════════════════════════════════
+  - id: "JH-FRM-008"
+    titulo: "DSL (Deck Sales Letter)"
+    descricao: "Slides substituindo VSL. 77% chegam ao slide 5 vs VSL 5-9%."
+    peso: 0.95
+    chunks: ["JH077_008"]
+    fontes: ["BATCH-077"]
+    componentes:
+      - "Slide deck em vez de video"
+      - "Progress bar visivel"
+      - "Click-through engagement"
+      - "Lower barrier to consume"
+    aplicacao: "Sales presentation, funil"
+    resultado: "77% reach slide 5 vs VSL 5-9% press play"
+    metricas:
+      - "Cost per call DSL: $30-80"
+      - "Cost per call VSL: $90-120"
+
+  - id: "JH-FRM-009"
+    titulo: "Mini Webinar 1.0"
+    descricao: "Webinar curto (5-15 min) no funil de vendas."
+    peso: 0.90
+    chunks: ["JH074_009"]
+    fontes: ["BATCH-074"]
+    componentes:
+      - "5-15 minutos de duracao"
+      - "Hook → Problem → Solution → Offer"
+      - "Embedded na landing page"
+      - "Direto para application"
+    aplicacao: "Landing page, qualification"
+
+  - id: "JH-FRM-010"
+    titulo: "Mini Webinar 2.0"
+    descricao: "Versao evoluida que gerou $12M em 3.5 meses."
+    peso: 0.95
+    chunks: ["JH075_010"]
+    fontes: ["BATCH-075"]
+    componentes:
+      - "Structured value delivery"
+      - "Multiple CTAs throughout"
+      - "Scarcity integration"
+      - "Retargeting loops"
+    aplicacao: "High-conversion webinars"
+    resultado: "$12M in 3.5 months"
+
+  - id: "JH-FRM-011"
+    titulo: "Challenge Funnel Mastery"
+    descricao: "Timeline de 8 semanas para promocao de challenge."
+    peso: 0.90
+    chunks: ["JH076_011"]
+    fontes: ["BATCH-076"]
+    componentes:
+      - "8-week promotion timeline"
+      - "Pre-launch buildup"
+      - "Challenge delivery"
+      - "Backend conversion"
+    aplicacao: "Challenge launches"
+    resultado: "$4M case study"
+
+  # ═══════════════════════════════════════════════════════════════
+  # FOLLOW-UP & SALES
+  # ═══════════════════════════════════════════════════════════════
+  - id: "JH-FRM-012"
+    titulo: "Follow-Up Architecture"
+    descricao: "Little Things → Big Things → Break Glass tactics."
+    peso: 0.95
+    chunks: ["JH078_012"]
+    fontes: ["BATCH-078"]
+    componentes:
+      - "Little Things: Daily touchpoints"
+      - "Big Things: Weekly major actions"
+      - "Break Glass: Emergency tactics"
+      - "Escalation protocol"
+    aplicacao: "Sales follow-up, closing"
+
+  - id: "JH-FRM-013"
+    titulo: "Interest Spectrum"
+    descricao: "Curiosity → General → Highly → Convicted."
+    peso: 0.90
+    chunks: ["JH079_013"]
+    fontes: ["BATCH-079"]
+    componentes:
+      - "Curiosity: Just browsing"
+      - "General Interest: Exploring"
+      - "Highly Interested: Comparing"
+      - "Convicted: Ready to buy"
+    aplicacao: "Lead scoring, nurturing"
+
+  - id: "JH-FRM-014"
+    titulo: "Break Glass Tactics"
+    descricao: "Taticas de emergencia - 'Sent From iPhone' = 40K+ responses."
+    peso: 0.90
+    chunks: ["JH080_014"]
+    fontes: ["BATCH-080"]
+    componentes:
+      - "Personal email signatures"
+      - "Casual formatting"
+      - "Urgency messaging"
+      - "Direct CEO outreach feel"
+    aplicacao: "Re-engagement, emergency"
+    resultado: "40K+ responses"
+
+  - id: "JH-FRM-015"
+    titulo: "Pentagon Solution"
+    descricao: "5-area AI attack para reputation management."
+    peso: 0.95
+    chunks: ["JH081_015"]
+    fontes: ["BATCH-081"]
+    componentes:
+      - "Reddit management"
+      - "Trustpilot optimization"
+      - "Press/PR coverage"
+      - "Blog/content seeding"
+      - "Authority building"
+    aplicacao: "Reputation, AI PR"
+
+  - id: "JH-FRM-016"
+    titulo: "Hammer Strategy"
+    descricao: "Sistema completo de 48h para maximizar show rate."
+    peso: 0.95
+    chunks: ["JH002_007"]
+    fontes: ["JH002"]
+    componentes:
+      - "Confirmation Page: Tons de conteudo educacional"
+      - "Email Hammer: 12 emails em 48h (cada 2h, 6am-6pm)"
+      - "Text Reminders: 4 em 48h"
+      - "Content Ad Hammer: 25 pecas, 11 em 48h"
+      - "Dynamic Custom Audience: Rolling 4 dias"
+    aplicacao: "Show rate optimization"
+    resultado: "50-80% show rate"
+
+  # ═══════════════════════════════════════════════════════════════
+  # BUSINESS & MINDSET
+  # ═══════════════════════════════════════════════════════════════
+  - id: "JH-FRM-017"
+    titulo: "Time Collapsing Exercise"
+    descricao: "Gun to head, 7 dias para meta de 90 dias."
+    peso: 0.95
+    chunks: ["JH082_016"]
+    fontes: ["BATCH-082"]
+    componentes:
+      - "Imagine: Gun to head"
+      - "7 days to hit 90-day goal"
+      - "What would you do differently?"
+      - "Execute that NOW"
+    aplicacao: "Produtividade, urgencia"
+    resultado: "$0 → $1M/mês em 2 meses (case)"
+
+  - id: "JH-FRM-018"
+    titulo: "5 Categories Rich People"
+    descricao: "Framework de status signaling para marketing."
+    peso: 0.85
+    chunks: ["JH083_017"]
+    fontes: ["BATCH-083"]
+    componentes:
+      - "Achievers: Results-focused"
+      - "Influencers: Social status"
+      - "Connectors: Network value"
+      - "Luxurians: Quality/exclusivity"
+      - "Adventurers: Experience seekers"
+    aplicacao: "Messaging, targeting"
+
+  - id: "JH-FRM-019"
+    titulo: "Investment Banking Exit"
+    descricao: "Framework para exit via IB - $2M+ EBITDA required."
+    peso: 0.90
+    chunks: ["JH084_018"]
+    fontes: ["BATCH-084"]
+    componentes:
+      - "$2M+ EBITDA minimum"
+      - "$50-100K retainer typical"
+      - "12-18 month process"
+      - "Multiple bidders = better price"
+    aplicacao: "Exit strategy, M&A"
+
+  - id: "JH-FRM-020"
+    titulo: "Value vs Time Paradigm"
+    descricao: "$10K deals vs $15/hour - shift de mentalidade."
+    peso: 0.90
+    chunks: ["JH085_019"]
+    fontes: ["BATCH-084"]
+    componentes:
+      - "Stop selling time"
+      - "Package outcomes"
+      - "Value-based pricing"
+      - "Decouple hours from income"
+    aplicacao: "Pricing, positioning"
+
+  - id: "JH-FRM-021"
+    titulo: "Brown/Green Exercise"
+    descricao: "Tony Robbins selective attention exercise."
+    peso: 0.85
+    chunks: ["JH086_020"]
+    fontes: ["BATCH-084"]
+    componentes:
+      - "Close eyes, think of brown objects"
+      - "Open eyes, notice green objects"
+      - "What you focus on expands"
+      - "Attention = reality filter"
+    aplicacao: "Mindset, focus"
+
+  - id: "JH-FRM-022"
+    titulo: "33% Law"
+    descricao: "33% stick, 33% duds, 33% burnout after 90 days."
+    peso: 0.90
+    chunks: ["JH087_021"]
+    fontes: ["BATCH-084"]
+    componentes:
+      - "33% will stick and perform"
+      - "33% will be duds"
+      - "33% will burnout"
+      - "Plan hiring accordingly"
+    aplicacao: "Hiring, team building"
+
+  - id: "JH-FRM-023"
+    titulo: "Secret Shopping Method"
+    descricao: "Comprar de concorrentes supera qualquer training."
+    peso: 0.95
+    chunks: ["JH088_022"]
+    fontes: ["BATCH-084"]
+    componentes:
+      - "Buy from competitors"
+      - "Document entire process"
+      - "Note sales tactics"
+      - "Adapt best practices"
+    aplicacao: "Competitive intelligence, training"
+
+  - id: "JH-FRM-024"
+    titulo: "Fair Pricing Framework"
+    descricao: "Estrutura para precificacao justa em recurring."
+    peso: 0.95
+    chunks: ["JH001_009"]
+    fontes: ["JH001"]
+    componentes:
+      - "Comecar MENOR - validar sistema antes de subir"
+      - "Subir conforme CERTEZA aumenta"
+      - "Tracking de VALOR obrigatorio"
+      - "Demanda alta = sinal para SUBIR"
+    aplicacao: "Jornada de pricing, decisao de quando subir"
+
+  - id: "JH-FRM-025"
+    titulo: "Call Funnel Structure"
+    descricao: "Estrutura completa do funil de calls."
+    peso: 0.90
+    chunks: ["JH002_006"]
+    fontes: ["JH002"]
+    componentes:
+      - "Ad"
+      - "Landing Page (Mini Webinar 5-15 min)"
+      - "Application (TypeForm)"
+      - "Qualify"
+      - "Schedule (Calendly EMBEDDED)"
+      - "Close"
+      - "Setters: Unqualified + No-shows"
+    aplicacao: "Estruturacao de funil high-ticket"
+
+  - id: "JH-FRM-026"
+    titulo: "Outreach Via Email Orientado a Dados"
+    descricao: "Abordagem de cold email onde ao inves de vender servicos, envia dados detalhados sobre o negocio do prospect: pixel, SSL, analytics, SEO. Email e sobre ELES, nao sobre voce. Ganha interesse psicologico."
+    peso: 0.95
+    chunks: ["30DC-003"]
+    fontes: ["30DC-NEW-ELEMENTS"]
+    aplicacao: "Cold outreach, email prospecting, contato inicial"
+    rating: "★★★★★"
+
+  - id: "JH-FRM-027"
+    titulo: "Prospecao Profunda vs Ampla"
+    descricao: "Deep = poucos prospects com pesquisa extensa e dados personalizados. Wide = muitos prospects com minima personalizacao. JH defende Deep: dados viram combustivel de conversa, beneficia o prospect, cria documentacao para follow-ups."
+    peso: 0.92
+    chunks: ["30DC-003"]
+    fontes: ["30DC-NEW-ELEMENTS"]
+    aplicacao: "Prospecting strategy, research depth, outreach quality"
+    rating: "★★★★★"
+
+  - id: "JH-FRM-028"
+    titulo: "Digital Playbook (6 Secoes)"
+    descricao: "Documento de marca fisico/digital como material de follow-up: (1) Capa, (2) Baseball Card com stats, (3) Battle Plan Blueprint 6 passos, (4) Pagina de processo complexo, (5) Paginas de produto VFP, (6) Pagina de pitch de palestrante."
+    peso: 0.92
+    chunks: ["30DC-014"]
+    fontes: ["30DC-NEW-ELEMENTS"]
+    aplicacao: "Follow-up collateral, materiais de evento, substituto de proposta"
+    rating: "★★★★★"
+
+  - id: "JH-FRM-029"
+    titulo: "VFP - Produto Final de Valor"
+    descricao: "Formato de apresentacao de produto: (1) Nome do produto (3 palavras + acronimo), (2) Descricao estrategica, (3) Bullets de servicos especificos incluidos (NAO resultados), (4) Preco, (5) Icones visuais, (6) Footer com contato."
+    peso: 0.90
+    chunks: ["30DC-014"]
+    fontes: ["30DC-NEW-ELEMENTS"]
+    aplicacao: "Empacotamento de servicos, documentos de pricing, design de proposta"
+    rating: "★★★★★"
+
+  - id: "JH-FRM-030"
+    titulo: "Piramide de Pricing (5 Niveis)"
+    descricao: "Framework visual para estruturar pricing de agencia como piramide: Level 1 = Atencao/gratuito, Level 2 = $1K one-time, Level 3 = $4K/mes, Level 4 = $8-12K/mes, Level 5 = $16K+. Conforme capacidade enche, precos sobem."
+    peso: 0.90
+    chunks: ["30DC-013"]
+    fontes: ["30DC-NEW-ELEMENTS"]
+    aplicacao: "Pricing de servicos, ferramentas visuais de vendas, gestao de capacidade"
+    rating: "★★★★★"
+
+  - id: "JH-FRM-031"
+    titulo: "Steps To Result (6 Passos)"
+    descricao: "Ciclo visualizado para conduzir prospects pelo processo de entrega: (1) Definir Expectativas, (2) Reunir Assets, (3) Mudar/Criar Imagem/Quotes/Conteudo, (4) Sessao de Estrategia, (5) Acao, (6) Relatorio e Mudancas em Tempo Real."
+    peso: 0.88
+    chunks: ["30DC-015"]
+    fontes: ["30DC-NEW-ELEMENTS"]
+    aplicacao: "Visualizacao de entrega, conteudo de proposta, onboarding de cliente"
+    rating: "★★★★"
+
+  - id: "JH-FRM-032"
+    titulo: "Fases de Crescimento e Resultado (4 Fases)"
+    descricao: "Ciclo de crescimento de cliente em 4 fases: (1) Re-engagement - reativar audiencia dormida, (2) Expansao - crescer alcance, (3) Vender e Retargeting - converter e recapturar, (4) Coletar e Analisar - medir e otimizar."
+    peso: 0.85
+    chunks: ["30DC-016"]
+    fontes: ["30DC-NEW-ELEMENTS"]
+    aplicacao: "Fases de entrega ao cliente, visualizacao de estrategia de crescimento"
+    rating: "★★★★"
+
+  - id: "JH-FRM-033"
+    titulo: "Sistema Criativo de Follow-Up Em Video"
+    descricao: "Framework de follow-up em video com multiplos estilos: (1) Video de humanizacao rosto-a-nome, (2) Screen share orientado a dados, (3) 'Classic Hustler' noturno, (4) 'Item mal colocado' casual, (5) Video com props, (6) Video de urgencia 'dormindo junto da impressora'."
+    peso: 0.92
+    chunks: ["30DC-018"]
+    fontes: ["30DC-NEW-ELEMENTS"]
+    aplicacao: "Sequencias de follow-up, re-engajamento de prospect"
+    rating: "★★★★★"
+
+  - id: "JH-FRM-034"
+    titulo: "Posicionamento Trophy On The Shelf"
+    descricao: "Enquadrar o prospect como alguem que VOCE esta qualificando para se tornar SEU cliente, nao o contrario. 'Estamos aceitando alguns heavy hitters, alguns trofeus para colocar em nossa prateleira.' Inverte o script de perseguir para selecionar."
+    peso: 0.90
+    chunks: ["30DC-003"]
+    fontes: ["30DC-NEW-ELEMENTS"]
+    aplicacao: "Posicionamento de prospect, enquadramento premium, design de script"
+    rating: "★★★★★"
+
+  - id: "JH-FRM-035"
+    titulo: "Launch Plan Template (14 Dias)"
+    descricao: "Template estruturado para lancamento de clientes: executive summary, produtos/ofertas, clientes ideais/tiers, analise de concorrentes, revisao de funil, metricas baseline, projecoes (pior/medio/melhor), estrategia criativa, rollout de campanha, riscos."
+    peso: 0.95
+    chunks: ["CA-0013"]
+    fontes: ["CA-NEW-ELEMENTS"]
+    aplicacao: "Onboarding de clientes, lancamentos de campanha, operacoes de agencia"
+    rating: "★★★★★"
+
+  - id: "JH-FRM-036"
+    titulo: "Priorizacao Needle Mover"
+    descricao: "Framework para priorizar ideias de crescimento baseado em: impacto esperado em receita, periodo de payback, retornos compostos, alocacao de capital, tempo para completar, stakeholders, riscos. Diferencia needle movers excelentes (hipotese definida + metrica + baseline) de ruins (vagos, sem metricas)."
+    peso: 0.93
+    chunks: ["CA-0013"]
+    fontes: ["CA-NEW-ELEMENTS"]
+    aplicacao: "Reunioes de estrategia, otimizacao de clientes, crescimento de agencia"
+    rating: "★★★★★"
+
+  - id: "JH-FRM-037"
+    titulo: "Framework Blackstone Lead Tier (MQL/SQL)"
+    descricao: "Sistema de qualificacao de leads em duas camadas: (1) MQL - 2-3 perguntas de qualificacao automaticas (receita, desafio, tempo no negocio) com scoring -1 a +1. (2) SQL - 3-4 perguntas na discovery call. Permite accountability com metricas objetivas."
+    peso: 0.92
+    chunks: ["CA-0013"]
+    fontes: ["CA-NEW-ELEMENTS"]
+    aplicacao: "Alinhamento sales/marketing, lead scoring, gestao de pipeline"
+    rating: "★★★★★"
+
+  - id: "JH-FRM-038"
+    titulo: "Estrutura de Campanha Teste Criativo (ABO para CBO)"
+    descricao: "Estrutura de duas fases: (1) Fase de Teste em ABO com lookalike 1% melhores clientes, testando conceitos individualmente. (2) Fase de Scale em CBO onde apenas winners sao promovidos. KPI criativo: 20% win rate em testes, 50% win rate no scale."
+    peso: 0.94
+    chunks: ["CA-0013"]
+    fontes: ["CA-NEW-ELEMENTS"]
+    aplicacao: "Media buying, teste criativo, gestao de campanha"
+    rating: "★★★★★"
+
+  - id: "JH-FRM-039"
+    titulo: "Ramp 30-60-90 Para Senior Media Buyer"
+    descricao: "Framework de integracao: Days 1-30: aprender sistemas, shadowing, forecasting. Days 31-60: assumir calls, comecar forecasting, gerenciar processo criativo. Days 61-90: atingir targets de bonus, manter margens, escalar funnels."
+    peso: 0.89
+    chunks: ["CA-0009"]
+    fontes: ["CA-NEW-ELEMENTS"]
+    aplicacao: "Contratacao, onboarding, scaling de equipe"
+    rating: "★★★★"
+
+  - id: "JH-FRM-040"
+    titulo: "7 Padroes Universais de Anuncio"
+    descricao: "Sete padroes em ads de alta performance: (1) Social Proof at Scale, (2) Contraste Before/After, (3) Authority Borrowing, (4) Especificidade Matematica, (5) Simplicidade Baseada em Tempo, (6) Aspiracao de Estilo de Vida, (7) Hooks Curiosity-Driven."
+    peso: 0.93
+    chunks: ["CA-0015"]
+    fontes: ["CA-NEW-ELEMENTS"]
+    aplicacao: "Estrategia criativa, copywriting, producao de ads"
+    rating: "★★★★★"
+
+  - id: "JH-FRM-041"
+    titulo: "Framework de Thumbnail 3C (Clareza, Contraste, Curiosidade)"
+    descricao: "3 principios para design de thumbnails: (1) Clareza - compreensao em 0.5 segundo, use o 'flash test'. (2) Contraste - visual, emocional, conceitual. (3) Curiosidade - ambiguidade estrategica, mostrar informacao parcial sem revelar o punchline."
+    peso: 0.88
+    chunks: ["CA-0016"]
+    fontes: ["CA-NEW-ELEMENTS"]
+    aplicacao: "Design de thumbnail, criativos de anuncio, empacotamento de conteudo"
+    rating: "★★★★"
+
+  - id: "JH-FRM-042"
+    titulo: "5 Arquetipos de Gap de Curiosidade"
+    descricao: "Cinco formulas de thumbnail/hook: (1) Before-and-After, (2) Desafio, (3) Contradicao, (4) Novidade, (5) Resultado. Cada um cria tipo diferente de curiosidade psicologica."
+    peso: 0.87
+    chunks: ["CA-0016"]
+    fontes: ["CA-NEW-ELEMENTS"]
+    aplicacao: "Ideacao criativa, escrita de hooks, conceitos de anuncio"
+    rating: "★★★★"
+
+  - id: "JH-FRM-043"
+    titulo: "6 Elementos de Gatilho de Atencao"
+    descricao: "Seis elementos que capturam atencao por padroes cognitivos: (1) Rostos Expressivos, (2) Pessoas Famosas, (3) Numeros Grandes, (4) Visuais Familiares, (5) Estetica, (6) Movimento/Perigo/Drama."
+    peso: 0.86
+    chunks: ["CA-0016"]
+    fontes: ["CA-NEW-ELEMENTS"]
+    aplicacao: "Design criativo, criacao de thumbnails, producao de anuncios"
+    rating: "★★★★"
+
+  - id: "JH-FRM-044"
+    titulo: "Pitch de Video Frio de 60 Segundos (6 Passos)"
+    descricao: "6 passos para pitch de video frio de 60 segundos: (1) Criar Agreement, (2) Qualifying Agreement, (3) Transicao para Crisis State, (4) Ask Why/How/Who, (5) The What - apresentar solucao, (6) CTA com duas opcoes que beneficiam voce."
+    peso: 0.92
+    chunks: ["PCVP-0001"]
+    fontes: ["CA-NEW-ELEMENTS"]
+    aplicacao: "Cold outreach, prospecao de agencia, vendas via DM"
+    rating: "★★★★★"
+
+  - id: "JH-FRM-045"
+    titulo: "Pitch de Video Frio Completo (7-12 min)"
+    descricao: "Framework de pitch completo: (1) Atencao visual unica (imprimir foto do prospect), (2) Alinhamento cultural, (3) Credibilidade em bullet format, (4) Screen share pre-aberto, (5) Demo tecnica, (6) Resultado e empoderamento, (7) Oferta com preco upfront + alternativa DIY."
+    peso: 0.91
+    chunks: ["PCVP-0002"]
+    fontes: ["CA-NEW-ELEMENTS"]
+    aplicacao: "Outreach high-ticket B2B, aquisicao de agencia, consulting"
+    rating: "★★★★★"
+
+  - id: "JH-FRM-046"
+    titulo: "Template de Ideacao Criativa"
+    descricao: "Sistema de ideacao com tracking: idea date, submitter, cliente, categoria criativa, stage of awareness, lead type, angle, core hook, core message, status de aprovacao, proof points, pain points. Permite rastrear winners de volta ao stage of awareness."
+    peso: 0.89
+    chunks: ["CA-0014"]
+    fontes: ["CA-NEW-ELEMENTS"]
+    aplicacao: "Processo criativo, producao de conteudo, gestao de campanha"
+    rating: "★★★★"
+
+  - id: "JH-FRM-047"
+    titulo: "Rede de Referencia Estrategica (Modelo Middleman)"
+    descricao: "Framework para construir rede de fornecedores baratos revendidos com markup significativo: (1) Identificar servico resultado-driven, (2) Encontrar fornecedor barato, (3) Empacotar como servico premium, (4) Vender 50% upfront / 50% apos entrega, (5) Usar como trust-building transaction."
+    peso: 0.90
+    chunks: ["PCVP-0009"]
+    fontes: ["CA-NEW-ELEMENTS"]
+    aplicacao: "Startup de nova agencia, empacotamento de servicos, construcao de confianca"
+    rating: "★★★★★"
+
+  - id: "JH-FRM-048"
+    titulo: "Bundle de Servico Multi-Plataforma"
+    descricao: "Framework para vender pacote de presenca digital: (1) Gap Analysis - mostrar que prospect nao aparece no Google/Yelp/Angie's List, (2) Visual Proof com resultados de competidores, (3) Bundle Pricing $1.000 pelo pacote, (4) Split Payment 50/50, (5) Trust Gateway para servicos maiores."
+    peso: 0.87
+    chunks: ["PCVP-0009"]
+    fontes: ["CA-NEW-ELEMENTS"]
+    aplicacao: "Marketing de negocio local, empacotamento de servicos, cold outreach para oficios"
+    rating: "★★★★"
+
+metadados:
+  total_chunks_processados: 48
+  batches_fonte: ["BATCH-068", "BATCH-069", "BATCH-070", "BATCH-071", "BATCH-072", "BATCH-073", "BATCH-074", "BATCH-075", "BATCH-076", "BATCH-077", "BATCH-078", "BATCH-079", "BATCH-080", "BATCH-081", "BATCH-082", "BATCH-083", "BATCH-084", "JH001", "JH002", "30DC-NEW-ELEMENTS", "CA-NEW-ELEMENTS"]
+  peso_medio: 0.92
+  criado_em: "2025-12-28T00:00:00Z"
+  atualizado_em: "2026-03-03T12:00:00Z"
+  protocolo: "DNA-EXTRACTION-PROTOCOL v2.0"
+  fase: "Phase 5 + 30DC/CA Merge"
+  changelog:
+    - data: "2026-01-10T17:45:00Z"
+      acao: "Enriquecimento Fase 5 - 20 frameworks adicionados"
+      fonte: "SOURCE-JH.md + BATCH-068 a BATCH-084"
+      versao: "2.0.0"
+    - data: "2026-03-03T12:00:00Z"
+      acao: "Merge 30DC (9) + CA (14) = 23 frameworks adicionados"
+      fonte: "30DC-NEW-ELEMENTS.yaml + CA-NEW-ELEMENTS.yaml"
+      versao: "3.0.0"

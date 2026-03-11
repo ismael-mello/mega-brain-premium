@@ -1,0 +1,649 @@
+# ENRICHMENTS-STAGING.yaml
+# Russell Brunson PDF Extractions -> Enrichments for Existing DNA Elements
+# Generated: 2026-03-01
+# Purpose: 72 PDF elements that ADD meaningful new detail to existing DNA.yaml elements
+# Usage: Review each enrichment. Merge "enrichment_text" into the matching DNA element's context/statement.
+# WARNING: Do NOT create new elements. These ENRICH existing ones.
+
+# ==============================================================================
+# STATISTICS
+# ==============================================================================
+# Total Enrichments: 72
+# By Layer:
+#   L1_PHILOSOPHIES: 12 enrichments
+#   L2_MENTAL_MODELS: 13 enrichments
+#   L3_HEURISTICS: 19 enrichments
+#   L4_FRAMEWORKS: 15 enrichments
+#   L5_METHODOLOGIES: 13 enrichments
+
+---
+
+layers:
+
+  # ============================================================================
+  # L1_PHILOSOPHIES - 12 Enrichments
+  # ============================================================================
+  L1_PHILOSOPHIES:
+    enrichment_count: 12
+    items:
+
+      - original_pdf_id: "PHI-RB-PDF-002"
+        pdf_source: "DotCom Secrets"
+        page_ref: "PAGE 33"
+        enriches_dna_id: "PHI-RB-002"
+        enrichment_summary: "Page ref, stronger 'NOT about products' formulation"
+        enrichment_text: "A business is NOT about products and services. A business is about what result you can get for your clients."
+        merge_action: "Add page reference (PAGE 33) and strengthen statement with 'NOT about products and services' phrasing from the book."
+
+      - original_pdf_id: "PHI-RB-PDF-007"
+        pdf_source: "DotCom Secrets"
+        page_ref: "PAGE 25"
+        enriches_dna_id: "PHI-RB-004"
+        enrichment_summary: "'$10K vs $10M' contrast for backend value"
+        enrichment_text: "The difference between a ten-thousand-dollar website and a ten-million-dollar company was all of the things happening AFTER a buyer came into the initial funnel."
+        merge_action: "Add the '$10K website vs $10M company' contrast as a vivid illustration of the backend philosophy."
+
+      - original_pdf_id: "PHI-RB-PDF-011"
+        pdf_source: "DotCom Secrets"
+        page_ref: "PAGE 244"
+        enriches_dna_id: "PHI-RB-006"
+        enrichment_summary: "Diagnostic conclusion from 'thousands of businesses'"
+        enrichment_text: "More often than not, it's a FUNNEL problem -- not a traffic or conversion problem."
+        merge_action: "Add Brunson's diagnostic conclusion after working with thousands of businesses: the problem is almost always the funnel, not traffic."
+
+      - original_pdf_id: "PHI-RB-PDF-014"
+        pdf_source: "DotCom Secrets"
+        page_ref: "PAGE 52"
+        enriches_dna_id: "PHI-RB-017"
+        enrichment_summary: "'Never once ran a Facebook ad' quote"
+        enrichment_text: "Your job as the entrepreneur is to understand the strategy and then hire the Facebook guy to run Facebook ads and the Google guy to run Google ads. 'I've never once run a Google or a Facebook ad, yet I've made millions on both platforms.'"
+        merge_action: "Add the striking personal example: 'I've never once run a Google or a Facebook ad, yet I've made millions on both platforms.'"
+
+      - original_pdf_id: "PHI-RB-PDF-002"
+        pdf_source: "Expert Secrets"
+        page_ref: "p.59-65"
+        enriches_dna_id: "PHI-RB-019"
+        enrichment_summary: "4 reasons improvement offers fail"
+        enrichment_text: "People don't buy improvement offers. They buy new opportunities. An improvement offer asks people to admit failure. Four reasons improvement offers fail: (1) requires admitting past failure, (2) compares to existing methods, (3) status quo bias, (4) commodity competition."
+        merge_action: "Add the 4 explicit reasons improvement offers fail as enumerated detail to the new opportunity philosophy."
+
+      - original_pdf_id: "PHI-RB-PDF-006"
+        pdf_source: "Expert Secrets"
+        page_ref: "p.145-146"
+        enriches_dna_id: "PHI-RB-027"
+        enrichment_summary: "'Stealing from your audience' framing"
+        enrichment_text: "If you're not willing to create an environment for change, then you're stealing from your audience. You have a moral obligation to sell."
+        merge_action: "Add the 'stealing from your audience' framing and 'moral obligation to sell' language from Expert Secrets."
+
+      - original_pdf_id: "PHI-RB-PDF-009"
+        pdf_source: "Expert Secrets"
+        page_ref: "p.248"
+        enriches_dna_id: "PHI-RB-029"
+        enrichment_summary: "Explicit accountability mechanism"
+        enrichment_text: "Getting people to give you money is one of the best ways to hold them accountable to their goals. When people invest financially, they commit psychologically."
+        merge_action: "Add the explicit accountability mechanism: financial investment creates psychological commitment."
+
+      - original_pdf_id: "PHI-RB-PDF-011"
+        pdf_source: "Expert Secrets"
+        page_ref: "p.158-160"
+        enriches_dna_id: "PHI-RB-031"
+        enrichment_summary: "'Kills the sale' + 'illusion they have what they need'"
+        enrichment_text: "Your presentation should NOT teach -- it should INSPIRE and break false beliefs. The moment you start teaching 'how to', you kill the sale. Teaching creates the illusion that they already have what they need."
+        merge_action: "Add the two specific consequences of teaching in presentations: 'kills the sale' and 'creates the illusion they already have what they need.'"
+
+      - original_pdf_id: "PHI-RB-PDF-013"
+        pdf_source: "Expert Secrets"
+        page_ref: "p.29-30"
+        enriches_dna_id: "PHI-RB-033"
+        enrichment_summary: "'Perfectionism kills leadership' formulation"
+        enrichment_text: "If someone always has to be right, nobody will follow them. A charismatic leader is not always right -- they are consistent, clear, and convicted. The crowd follows certainty, not accuracy. Perfectionism kills leadership."
+        merge_action: "Add the 'perfectionism kills leadership' and 'certainty, not accuracy' formulations from Expert Secrets."
+
+      - original_pdf_id: "PHI-RB-PDF-016"
+        pdf_source: "Expert Secrets"
+        page_ref: "p.244"
+        enriches_dna_id: "PHI-RB-046"
+        enrichment_summary: "Complementary vs competitive framing"
+        enrichment_text: "Pick a niche, don't pick a fight. If you CREATE your niche (a new opportunity), you'll be complementary to your Dream 100 instead of competing with them."
+        merge_action: "Add the complementary vs competitive niche framing: creating a niche makes you complementary to Dream 100 rather than competitive."
+
+      - original_pdf_id: "PHI-RB-PDF-003"
+        pdf_source: "Traffic Secrets"
+        page_ref: "PAGE 36"
+        enriches_dna_id: "PHI-RB-018"
+        enrichment_summary: "'Eventually fail' consequence statement"
+        enrichment_text: "Companies that become obsessed with their products will eventually fail. The companies that will thrive are the ones that become obsessed with their customers."
+        merge_action: "Add the explicit consequence: product-obsessed companies 'will eventually fail' vs customer-obsessed companies 'will thrive.'"
+
+      - original_pdf_id: "PHI-RB-PDF-010"
+        pdf_source: "Traffic Secrets"
+        page_ref: "PAGE 3-5"
+        enriches_dna_id: "PHI-RB-039"
+        enrichment_summary: "'Slaps and snaps' platform risk framing"
+        enrichment_text: "There's a storm coming. You need to own your traffic before it hits. Platforms (Google, Facebook) regularly change algorithms ('slaps' and 'snaps') that destroy businesses overnight. The only protection is converting all traffic to traffic you own."
+        merge_action: "Add the 'slaps and snaps' terminology and 'storm coming' urgency framing for platform risk."
+
+  # ============================================================================
+  # L2_MENTAL_MODELS - 13 Enrichments
+  # ============================================================================
+  L2_MENTAL_MODELS:
+    enrichment_count: 13
+    items:
+
+      - original_pdf_id: "MM-RB-PDF-004"
+        pdf_source: "DotCom Secrets"
+        page_ref: "PAGE 47-52"
+        enriches_dna_id: "MM-RB-010"
+        enrichment_summary: "Specific 3 questions + psychographics emphasis"
+        enrichment_text: "Congregations Model: Your dream customers already gather together in existing communities. Three questions: (1) Who is your target market? (beyond demographics, into psychographics), (2) Where are they congregating? (forums, groups, newsletters, blogs), (3) How can you get them to leave and check out your page? (Enquirer Interrupt)."
+        merge_action: "Add the 3 specific congregations questions and the psychographics emphasis to the existing Dream Customer model."
+
+      - original_pdf_id: "MM-RB-PDF-005"
+        pdf_source: "DotCom Secrets"
+        page_ref: "PAGE 119-121"
+        enriches_dna_id: "MM-RB-011"
+        enrichment_summary: "'Bait vs business' explicit framing for SLO model"
+        enrichment_text: "Frontend vs Backend Funnel Psychology: Frontend funnels are about acquiring customers (break even or slight loss acceptable). Backend funnels are where all the profit lives. 'The first offer you see probably isn't the primary offer. It's more likely what gets people in the door.' Frontend is the bait; backend is the business."
+        merge_action: "Add the 'bait vs business' explicit framing and the loss-acceptable philosophy for frontend to the SLO model."
+
+      - original_pdf_id: "MM-RB-PDF-007"
+        pdf_source: "DotCom Secrets"
+        page_ref: "PAGE 137"
+        enriches_dna_id: "MM-RB-030"
+        enrichment_summary: "Applied to OTO pages specifically"
+        enrichment_text: "Open/Close Loops: Keep the sales loop OPEN by saying 'Wait! Your order is not yet complete' instead of 'Congratulations' after purchase. Closing the loop kills upsell momentum."
+        merge_action: "Add the OTO-specific application: 'Wait! Your order is not yet complete' vs 'Congratulations' language for post-purchase pages."
+
+      - original_pdf_id: "MM-RB-PDF-008"
+        pdf_source: "DotCom Secrets"
+        page_ref: "PAGE 86"
+        enriches_dna_id: "FW-RB-023"
+        enrichment_summary: "Adds 'never two unknowns' rule to Five Variables"
+        enrichment_text: "Five Variables Diagnostic: When a campaign fails, it's always one of five things -- Demographics, Offer, Landing Page, Traffic Source, or Ad Copy. Diagnose by isolating variables. Critical rule: never move forward with two unknowns."
+        merge_action: "Add the 'never two unknowns' rule: must know at least 4 of 5 campaign variables before launching."
+
+      - original_pdf_id: "MM-RB-PDF-009"
+        pdf_source: "DotCom Secrets"
+        page_ref: "PAGE 88"
+        enriches_dna_id: "FW-RB-023"
+        enrichment_summary: "Specific risk threshold for launching"
+        enrichment_text: "Never move forward with two unknowns. One unknown in your campaign variables is acceptable. Two unknowns means don't enter that market yet. Must know at least 4 of 5 before launching."
+        merge_action: "Reinforce the risk threshold: one unknown is acceptable, two unknowns means stop. This is a specific application of the Five Variables framework."
+
+      - original_pdf_id: "MM-RB-PDF-002"
+        pdf_source: "Expert Secrets"
+        page_ref: "p.26-28"
+        enriches_dna_id: "MM-RB-007"
+        enrichment_summary: "'Create a NEW niche' emphasis"
+        enrichment_text: "Three Hot Markets -> Submarkets -> Niches hierarchy. Don't start a new market (no demand). Don't compete in an existing niche (commoditized). Create a NEW niche within an existing submarket."
+        merge_action: "Add the 'create a NEW niche' emphasis and the warning against both extremes: new market (no demand) vs existing niche (commoditized)."
+
+      - original_pdf_id: "MM-RB-PDF-006"
+        pdf_source: "Expert Secrets"
+        page_ref: "p.93-94"
+        enriches_dna_id: "MM-RB-003"
+        enrichment_summary: "Formal logic structure for Big Domino"
+        enrichment_text: "Modus Ponens applied to selling: If A, then B. A is true. Therefore B is true. In sales: If [my new opportunity] is the key to [desired result], and [new opportunity is proven valid], then [prospect must buy]. The Big Domino IS proposition A."
+        merge_action: "Add the formal modus ponens logic structure underlying the Big Domino concept."
+
+      - original_pdf_id: "MM-RB-PDF-007"
+        pdf_source: "Expert Secrets"
+        page_ref: "p.28-29"
+        enriches_dna_id: "MM-RB-007"
+        enrichment_summary: "'Empty ocean' warning"
+        enrichment_text: "The Blue Ocean Strategy applied to niches: Don't compete in a red ocean (crowded niche). Create a blue ocean (new niche/opportunity). But you MUST do it WITHIN a proven submarket -- a blue ocean with no demand is just an empty ocean."
+        merge_action: "Add the 'empty ocean' warning: a blue ocean with no demand is just an empty ocean. Must be WITHIN a proven submarket."
+
+      - original_pdf_id: "MM-RB-PDF-009"
+        pdf_source: "Expert Secrets"
+        page_ref: "p.245"
+        enriches_dna_id: "FW-RB-042"
+        enrichment_summary: "20% traffic, ongoing vs one-time distinction for Integration Marketing"
+        enrichment_text: "Integration Marketing: Instead of one-time promotions, integrate your offer into the ongoing sales flow of your Dream 100. Put your product on their thank-you pages, in their PS, co-create products. This creates continuous customer streams, not one-time spikes. Accounts for ~20% of traffic."
+        merge_action: "Add Integration Marketing as a specific Dream 100 technique: accounts for 20% of traffic, ongoing vs one-time distinction."
+
+      - original_pdf_id: "MM-RB-PDF-012"
+        pdf_source: "Expert Secrets"
+        page_ref: "p.117-119"
+        enriches_dna_id: "FW-RB-033"
+        enrichment_summary: "Adds 5-point conflict arc structure"
+        enrichment_text: "Five Turning Points of Conflict in every Epiphany Bridge story: (1) The initial desire, (2) The first wall/obstacle, (3) The epiphany moment, (4) The plan that emerges, (5) The conflict during execution. These 5 points create the emotional arc."
+        merge_action: "Add the 5 Turning Points of Conflict as a structured sub-framework within the Epiphany Bridge."
+
+      - original_pdf_id: "MM-RB-PDF-013"
+        pdf_source: "Expert Secrets"
+        page_ref: "p.123-124"
+        enriches_dna_id: "HEUR-RB-062"
+        enrichment_summary: "Adds 'surface to Level 5' progression example"
+        enrichment_text: "The 'Why' Drill: To find the internal struggle behind any achievement story, ask 'why?' 5-6 times. Surface: 'I wanted to lose weight.' Level 5: 'I wanted my kids to not be ashamed of me at school.' The deep 'why' is the real story."
+        merge_action: "Add the 'Why Drill' technique with the 5-level progression example (weight loss to children's shame) as a practical method."
+
+      - original_pdf_id: "MM-RB-PDF-014"
+        pdf_source: "Expert Secrets"
+        page_ref: "p.234-236"
+        enriches_dna_id: "FW-RB-025"
+        enrichment_summary: "Combines SOS + PW into Email Epiphany format"
+        enrichment_text: "Soap Opera Sequence + Perfect Webinar = Email Epiphany Funnel. Each email corresponds to one section of the Perfect Webinar (Origin Story, Secret 1, Secret 2, Secret 3, Stack). Each email ends with a hook to the next, like a soap opera cliffhanger."
+        merge_action: "Add the Email Epiphany Funnel concept: SOS + PW combined into email format. Also enriches FW-RB-001."
+
+      - original_pdf_id: "MM-RB-PDF-003"
+        pdf_source: "Network Marketing Secrets"
+        page_ref: "PAGE 50-53"
+        enriches_dna_id: "FW-RB-042"
+        enrichment_summary: "Enriches Dream 100 with MLM duplication mechanics"
+        enrichment_text: "Three Levels of Duplication: Level 1 = you sign people up directly. Level 2 = you ask them to bring people into YOUR funnel and you presell for them. Level 3 = you share funnel links so they copy your funnel, replace videos with theirs, and point buttons to their own distributor links."
+        merge_action: "Add the 3 Levels of Duplication as an MLM-specific extension of the Dream 100 relationship building framework."
+
+  # ============================================================================
+  # L3_HEURISTICS - 19 Enrichments
+  # ============================================================================
+  L3_HEURISTICS:
+    enrichment_count: 19
+    items:
+
+      - original_pdf_id: "HEUR-RB-PDF-002"
+        pdf_source: "DotCom Secrets"
+        page_ref: "PAGE 123-124"
+        enriches_dna_id: "FW-RB-031"
+        enrichment_summary: "$197 vs $394 per 100 visitors exact math"
+        enrichment_text: "One-Hundred-Visitor Test: Send 100 visitors to your funnel. 1% conversion at $197 = $197/100 visitors. Compare: 8% free+shipping with 25% upsell at $197 = $394/100 visitors (2x revenue)."
+        merge_action: "Add the exact math comparison: direct sale yields $197/100 visitors vs free+shipping yields $394/100 visitors (2x revenue)."
+
+      - original_pdf_id: "HEUR-RB-PDF-010"
+        pdf_source: "DotCom Secrets"
+        page_ref: "PAGE 160"
+        enriches_dna_id: "FW-RB-045"
+        enrichment_summary: "Adds 550 registrations, $23.5K specific results"
+        enrichment_text: "Invisible Funnel results: 550 registrations, 85% show rate (vs 30% for free webinars), 90% payment rate (only 10% cancel), $23.5K revenue from $47 price point."
+        merge_action: "Add specific Invisible Funnel metrics: 550 registrations, 85% show rate, 90% payment rate, $23.5K revenue."
+
+      - original_pdf_id: "HEUR-RB-PDF-011"
+        pdf_source: "DotCom Secrets"
+        page_ref: "PAGE 173"
+        enriches_dna_id: "FW-RB-050"
+        enrichment_summary: "60 to 2 salespeople efficiency gain metric"
+        enrichment_text: "High-ticket two-step process: reduced from 60 salespeople to 2 with same revenue output by using setter+closer model with application funnel."
+        merge_action: "Add the dramatic efficiency metric: 60 salespeople reduced to 2 with same revenue using setter+closer model."
+
+      - original_pdf_id: "HEUR-RB-PDF-014"
+        pdf_source: "DotCom Secrets"
+        page_ref: "PAGE 78"
+        enriches_dna_id: "FW-RB-026"
+        enrichment_summary: "Revenue increase at each frequency step"
+        enrichment_text: "Daily email frequency maximizes revenue. Progression: monthly, twice monthly, weekly, twice weekly, every other day, daily -- revenue increased at each frequency increase. 'If I don't email my list every day, I lose money every day.'"
+        merge_action: "Add the frequency progression (monthly -> daily) showing revenue increased at EACH step, with the 'lose money every day' quote."
+
+      - original_pdf_id: "HEUR-RB-PDF-015"
+        pdf_source: "DotCom Secrets"
+        page_ref: "PAGE 78"
+        enriches_dna_id: "FW-RB-026"
+        enrichment_summary: "Specific 90/10 ratio for Seinfeld emails"
+        enrichment_text: "Seinfeld emails should be 90% entertainment and 10% content. Readership, opens, clicks, and sales all skyrocketed when switching from 100% content to this ratio."
+        merge_action: "Add the specific 90/10 entertainment-to-content ratio for Seinfeld emails and the performance improvement data."
+
+      - original_pdf_id: "HEUR-RB-PDF-004"
+        pdf_source: "Expert Secrets"
+        page_ref: "p.212"
+        enriches_dna_id: "HEUR-RB-073"
+        enrichment_summary: "Three-tier benchmark with revenue implications"
+        enrichment_text: "5% close rate = good webinar, you'll be profitable. 10% close rate = million-dollar webinar. 15% close rate = potential $10M/year business."
+        merge_action: "Add the three-tier webinar close rate benchmark with revenue implications: 5% = profitable, 10% = million-dollar, 15% = $10M/year."
+
+      - original_pdf_id: "HEUR-RB-PDF-008"
+        pdf_source: "Expert Secrets"
+        page_ref: "p.211"
+        enriches_dna_id: "HEUR-RB-078"
+        enrichment_summary: "'Equal to live event' specificity for replay"
+        enrichment_text: "Double your sales on the replay. Send replay emails to everyone who registered but didn't buy. The replay typically generates sales equal to the live event."
+        merge_action: "Add the specificity: replay 'generates sales equal to the live event' -- effectively doubling webinar revenue."
+
+      - original_pdf_id: "HEUR-RB-PDF-009"
+        pdf_source: "Expert Secrets"
+        page_ref: "p.192-193"
+        enriches_dna_id: "MET-RB-012"
+        enrichment_summary: "74% improvement A/B test result for Trial Closes"
+        enrichment_text: "Trial Closes increased per-registrant earnings from $9.45 to $16.50 -- a 74% improvement."
+        merge_action: "Add the specific A/B test result: $9.45 to $16.50 per registrant (74% improvement) with Trial Closes."
+
+      - original_pdf_id: "HEUR-RB-PDF-010"
+        pdf_source: "Expert Secrets"
+        page_ref: "p.208-209"
+        enriches_dna_id: "HEUR-RB-087"
+        enrichment_summary: "Weekly benchmark for mature webinar model"
+        enrichment_text: "$3,000 ad spend -> $50,000+ revenue per week is the target for a mature webinar model. Run the same webinar every week."
+        merge_action: "Add the specific weekly benchmark: $3K spend -> $50K+ revenue for a mature webinar model."
+
+      - original_pdf_id: "HEUR-RB-PDF-011"
+        pdf_source: "Expert Secrets"
+        page_ref: "p.210, p.218"
+        enriches_dna_id: "HEUR-RB-073"
+        enrichment_summary: "Price-to-mechanism mapping"
+        enrichment_text: "Optimal webinar price range: $297 to $2,997. Below $297, the webinar format is overkill. Above $2,997, you need a different close mechanism (4-Question Close or phone sales)."
+        merge_action: "Add the price-to-mechanism mapping: webinar for $297-$2,997, 4-Question Close for $2,997-$100K."
+
+      - original_pdf_id: "HEUR-RB-PDF-012"
+        pdf_source: "Expert Secrets"
+        page_ref: "p.218"
+        enriches_dna_id: "FW-RB-050"
+        enrichment_summary: "Price threshold for phone close: $2,997-$100K"
+        enrichment_text: "The 4-Question Close is for offers priced $2,997 to $100,000. At these prices, you cannot close on a webinar -- you need a personal conversation."
+        merge_action: "Add the price threshold: 4-Question Close applies to $2,997-$100K range. Clarifies when to transition from webinar to phone."
+
+      - original_pdf_id: "HEUR-RB-PDF-014"
+        pdf_source: "Expert Secrets"
+        page_ref: "p.78-80"
+        enriches_dna_id: "FW-RB-016"
+        enrichment_summary: "100 survey responses statistical threshold"
+        enrichment_text: "Ask Campaign requires 100 survey responses to be statistically meaningful. From those 100 responses, 6-8 core questions/pain points will emerge that form the structure of your masterclass or product."
+        merge_action: "Add the 100-response threshold and the expected output: 6-8 core themes that become module structure."
+
+      - original_pdf_id: "HEUR-RB-PDF-016"
+        pdf_source: "Expert Secrets"
+        page_ref: "p.244-245"
+        enriches_dna_id: "FW-RB-042"
+        enrichment_summary: "Specific traffic distribution: 30/40/10/20"
+        enrichment_text: "30% of traffic from Dream 100 promotions, 40% from paid ads targeting Dream 100 audiences, 10% from organic/SEO, 20% from integration marketing. This is the ideal traffic mix."
+        merge_action: "Add the specific traffic distribution breakdown: 30% D100 promos, 40% paid targeting D100 audiences, 10% organic, 20% integration."
+
+      - original_pdf_id: "HEUR-RB-PDF-017"
+        pdf_source: "Expert Secrets"
+        page_ref: "p.242"
+        enriches_dna_id: "FW-RB-042"
+        enrichment_summary: "Exact 25+25+25+25 list composition formula"
+        enrichment_text: "Dream 100 list composition: 25 list owners + 25 bloggers + 25 podcasters + 25 social media influencers = 100 people who already have your dream customers' attention."
+        merge_action: "Add the exact Dream 100 list composition formula: four categories of 25 each."
+
+      - original_pdf_id: "HEUR-RB-PDF-022"
+        pdf_source: "Expert Secrets"
+        page_ref: "p.240"
+        enriches_dna_id: "FW-RB-042"
+        enrichment_summary: "4 months then Xerox timeline heuristic"
+        enrichment_text: "Dream 100: After 4 months of consistent outreach with zero response, Chet Holmes landed Xerox. By month 6, he had 29 of 167 targets. Patience + pig-headed determination = breakthrough."
+        merge_action: "Add the Chet Holmes timeline: 4 months of silence before first win (Xerox), 6 months to land 29 of 167. Patience heuristic."
+
+      - original_pdf_id: "HEUR-RB-PDF-012"
+        pdf_source: "Network Marketing Secrets"
+        page_ref: "PAGE 173"
+        enriches_dna_id: "HEUR-RB-078"
+        enrichment_summary: "Specific 48-72 hour replay window"
+        enrichment_text: "We see the highest conversion rates on webinar replay pages when we pull down these pages after 48 to 72 hours."
+        merge_action: "Add the specific replay window: 48-72 hours for highest conversion rates on webinar replays."
+
+      - original_pdf_id: "HEUR-RB-PDF-007"
+        pdf_source: "Modules & Scripts"
+        page_ref: "PDF-02-Ladders-Funnels PAGE 6"
+        enriches_dna_id: "HEUR-RB-019"
+        enrichment_summary: "30% conversion, 150 sales, 3000 clicks calculation"
+        enrichment_text: "SLO funnel math: At 30% SLO conversion rate, need 150 front-end sales per month. At 5% opt-in rate, need 3,000 clicks per month (100 per day)."
+        merge_action: "Add the complete SLO funnel math: 30% conversion -> 150 sales -> 3,000 clicks/month -> 100/day."
+
+      - original_pdf_id: "HEUR-RB-PDF-011"
+        pdf_source: "Modules & Scripts"
+        page_ref: "PDF-10-Post-Webinar-FollowUps PAGE 1-6"
+        enriches_dna_id: "MET-RB-013"
+        enrichment_summary: "Exact post-webinar email timing cadence"
+        enrichment_text: "Post-webinar email sequence timing: Immediately after -> 3 hours later -> 24 hours -> 48 hours -> 72 hours -> 96 hours -> 120 hours -> 144 hours -> final day (cart close)."
+        merge_action: "Add the exact post-webinar email timing cadence: immediate, 3hr, 24hr, 48hr, 72hr, 96hr, 120hr, 144hr, final day."
+
+      - original_pdf_id: "HEUR-RB-PDF-002"
+        pdf_source: "Traffic Secrets"
+        page_ref: "PAGE 170-171"
+        enriches_dna_id: "HEUR-RB-080"
+        enrichment_summary: "80/20 ad budget allocation specific to prospect vs retarget"
+        enrichment_text: "80% of your paid ad budget on prospecting will generate only 20% of your results. 20% on retargeting will generate 80% of results."
+        merge_action: "Add the specific 80/20 ad budget allocation: prospecting (80% spend, 20% results) vs retargeting (20% spend, 80% results)."
+
+  # ============================================================================
+  # L4_FRAMEWORKS - 15 Enrichments
+  # ============================================================================
+  L4_FRAMEWORKS:
+    enrichment_count: 15
+    items:
+
+      - original_pdf_id: "FW-RB-PDF-005"
+        pdf_source: "DotCom Secrets"
+        page_ref: "PAGE 86-88"
+        enriches_dna_id: "FW-RB-023"
+        enrichment_summary: "Complete 5-variable framework with diagnostic process"
+        enrichment_text: "Five Variables of Successful Campaigns: (1) Demographics, (2) Offer, (3) Landing Page, (4) Traffic Source, (5) Ad Copy. Must know at least 4 before launching. Diagnostic: isolate variables when campaign fails."
+        merge_action: "Add the complete 5-variable enumeration and the diagnostic application for failing campaigns."
+
+      - original_pdf_id: "FW-RB-PDF-008"
+        pdf_source: "DotCom Secrets"
+        page_ref: "PAGE 136"
+        enriches_dna_id: "FW-RB-051"
+        enrichment_summary: "Three OTO types: Next Thing, Faster, Help"
+        enrichment_text: "Three OTO Structures: (1) The Next Thing -- logical next step, (2) Do It Faster -- speed/shortcut tool, (3) Need Help? -- done-for-you service or coaching."
+        merge_action: "Add the three OTO types as a structured decision framework for upsell architecture."
+
+      - original_pdf_id: "FW-RB-PDF-010"
+        pdf_source: "DotCom Secrets"
+        page_ref: "PAGE 157"
+        enriches_dna_id: "FW-RB-002"
+        enrichment_summary: "'5-10% to 20%' stage closing improvement"
+        enrichment_text: "The Stack improved stage closing from 5-10% to consistently 20%+ of the room. Visual accumulation of value overwhelms price objection."
+        merge_action: "Add the specific performance improvement: 5-10% to 20%+ close rate when using The Stack."
+
+      - original_pdf_id: "FW-RB-PDF-014"
+        pdf_source: "DotCom Secrets"
+        page_ref: "PAGE 55-56"
+        enriches_dna_id: "FW-RB-021"
+        enrichment_summary: "Two distinct funnels for non-owned traffic types"
+        enrichment_text: "Traffic Conversion Funnel: Controlled traffic -> Squeeze Page (one option: give email or leave) -> Owned traffic. Uncontrolled traffic -> Blog with squeeze page as top third -> Owned traffic. Two distinct funnels for the two non-owned traffic types."
+        merge_action: "Add the two specific conversion funnels: squeeze page for controlled traffic, blog-with-squeeze for uncontrolled traffic."
+
+      - original_pdf_id: "FW-RB-PDF-005"
+        pdf_source: "Expert Secrets"
+        page_ref: "p.152-191"
+        enriches_dna_id: "FW-RB-001"
+        enrichment_summary: "Complete 66+ slide-by-slide breakdown"
+        enrichment_text: "Perfect Webinar Structure (4 Parts, 66+ slides): Part 1 -- Introduction/Rapport (slides 1-14), Part 2 -- The One Thing + Origin Story (slides 15-20), Part 3 -- The Three Secrets with Epiphany Bridges (slides 21-48), Part 4 -- The Stack + 16 Closes (slides 49-66+)."
+        merge_action: "Add the complete 66+ slide structure with part-by-part breakdown and slide number ranges."
+
+      - original_pdf_id: "FW-RB-PDF-008"
+        pdf_source: "Expert Secrets"
+        page_ref: "p.75-76"
+        enriches_dna_id: "FW-RB-013"
+        enrichment_summary: "Adds 'even if' third component to headline"
+        enrichment_text: "Opportunity Switch Headline Formula: 'How to [desired result] without [pain point they fear] -- even if [common objection].' The 'without' eliminates the biggest fear. The 'even if' pre-handles the top objection."
+        merge_action: "Add the three-part headline structure with the 'even if' third component that pre-handles the top objection."
+
+      - original_pdf_id: "FW-RB-PDF-009"
+        pdf_source: "Expert Secrets"
+        page_ref: "p.195-205"
+        enriches_dna_id: "FW-RB-039"
+        enrichment_summary: "Expands from If-All to complete 16-close sequence"
+        enrichment_text: "The 16 Closes (in order): (1) Money Is Good, (2) Disposable Income, (3) Money Replenishes, (4) Break Old Habits, (5) Information Alone, (6) Money or Excuses, (7) Your Two Choices, (8) Their Two Choices, (9) Us vs. Them, (10) The Hand Hold, (11) Say Goodbye, (12) Now & Later, (13) Only Excuses, (14) Reluctant Hero, (15) If You Only Got, (16) The Close Close."
+        merge_action: "Expand from the If-All close to the complete 16-close sequence with all names in order."
+
+      - original_pdf_id: "FW-RB-PDF-010"
+        pdf_source: "Expert Secrets"
+        page_ref: "p.218-226"
+        enriches_dna_id: "FW-RB-050"
+        enrichment_summary: "Complete 4-Question Close phase timing"
+        enrichment_text: "The 4-Question Close Script: Phase 1 (5-10 min) -- Build rapport. Phase 2 (20-30 min) -- Ask the 4 Questions, let them talk 80%. Phase 3 (10-15 min) -- Present solution mapped to THEIR words. Phase 4 (5-10 min) -- Handle logistics. Total: 45-60 minutes."
+        merge_action: "Add the complete phase timing: 5-10, 20-30, 10-15, 5-10 minutes per phase, totaling 45-60 minutes."
+
+      - original_pdf_id: "FW-RB-PDF-013"
+        pdf_source: "Expert Secrets"
+        page_ref: "p.232-233"
+        enriches_dna_id: "FW-RB-001"
+        enrichment_summary: "Rapid-deployment 5-question version"
+        enrichment_text: "Perfect Webinar Cheat Sheet (5 Questions): (Q1) What's the new opportunity I'm offering? (Q2) What is the one Big Domino? (Q3) What special offer/stack can I create? (Q4) What is my Epiphany Bridge origin story? (Q5) What are the 3 false beliefs and corresponding stories? Can be completed in 15 minutes."
+        merge_action: "Add the rapid-deployment Cheat Sheet version with 5 questions, completable in 15 minutes."
+
+      - original_pdf_id: "FW-RB-PDF-016"
+        pdf_source: "Expert Secrets"
+        page_ref: "p.244-245"
+        enriches_dna_id: "FW-RB-042"
+        enrichment_summary: "Three specific promotion methods for Dream 100"
+        enrichment_text: "3 Promotion Strategies for Dream 100: Strategy 1 -- Get them to promote your webinar to their audience (30% of traffic). Strategy 2 -- Run paid ads targeting their followers (40% of traffic). Strategy 3 -- Integration marketing into their sales flow (20% of traffic)."
+        merge_action: "Add the 3 specific promotion strategies with traffic percentage contribution for each."
+
+      - original_pdf_id: "FW-RB-PDF-018"
+        pdf_source: "Expert Secrets"
+        page_ref: "p.25-32"
+        enriches_dna_id: "FW-RB-011"
+        enrichment_summary: "Six explicit rules with examples for charismatic leaders"
+        enrichment_text: "6 Rules for Charismatic Leaders: (1) Have an attractive character, (2) Have absolute certainty, (3) Don't try to be all things to all people, (4) Flaws are assets, (5) Use self-deprecating humor, (6) Hold nothing back -- radical transparency."
+        merge_action: "Add the 6 explicit rules for charismatic leaders with the radical transparency and flaws-as-assets principles."
+
+      - original_pdf_id: "FW-RB-PDF-019"
+        pdf_source: "Expert Secrets"
+        page_ref: "p.234-236"
+        enriches_dna_id: "FW-RB-025"
+        enrichment_summary: "PW adapted to email format"
+        enrichment_text: "Email Epiphany Funnel Structure: Email 1 -- Origin Story + hook. Email 2 -- Secret #1 (Vehicle belief). Email 3 -- Secret #2 (Internal belief). Email 4 -- Secret #3 (External belief). Email 5 -- The Stack + CTA. Each email can contain story OR link to video."
+        merge_action: "Add the complete 5-email Epiphany Funnel structure as PW adapted to email format."
+
+      - original_pdf_id: "FW-RB-PDF-004"
+        pdf_source: "Network Marketing Secrets"
+        page_ref: "PAGE 60-64"
+        enriches_dna_id: "FW-RB-029"
+        enrichment_summary: "Specific 2-page Bridge Funnel structure for pre-framing"
+        enrichment_text: "Bridge Funnel Structure: Page 1 = Curiosity squeeze page with 'How to [desire] without [pain]' headline + email capture. Page 2 = Viral Loop video (Epiphany Bridge + Demo + CTA) with button linking to company/distributor page."
+        merge_action: "Add the specific 2-page Bridge Funnel structure as a pre-framing implementation within the 7 Phases framework."
+
+      - original_pdf_id: "FW-RB-PDF-011"
+        pdf_source: "Modules & Scripts"
+        page_ref: "PDF-07-The-Funnels PAGE 4-6"
+        enriches_dna_id: "FW-RB-050"
+        enrichment_summary: "Actual question wording for 4Q Close"
+        enrichment_text: "The 4-Question High-Ticket Close exact language: Q1 = 'If we worked together and I taught you everything, what would make you believe this was the best decision you ever made?' Q2 = 'Why don't you have it yet? What's been holding you back?' Q3 = 'What resources do you have that you're not utilizing 100%?' Q4 = 'Do you want me to help you?' Then stop talking until they answer."
+        merge_action: "Add the actual question wording from the Modules workbook for each of the 4 questions."
+
+      - original_pdf_id: "FW-RB-PDF-014"
+        pdf_source: "Modules & Scripts"
+        page_ref: "PDF-12-FHAT-Event PAGE 1-4"
+        enriches_dna_id: "FW-RB-001"
+        enrichment_summary: "Single-page condensed FHAT implementation worksheet"
+        enrichment_text: "FHAT Event Worksheet (6-Part Implementation): Part 1 = The What and How. Part 2 = The One Thing / Big Domino / Hook. Part 3 = Origin story. Part 4 = False belief patterns and 3 secrets. Part 5 = The Stack Slide. Part 6 = Epiphany bridges for each secret."
+        merge_action: "Add the single-page FHAT Event Worksheet as a condensed implementation version of the Perfect Webinar."
+
+  # ============================================================================
+  # L5_METHODOLOGIES - 13 Enrichments
+  # ============================================================================
+  L5_METHODOLOGIES:
+    enrichment_count: 13
+    items:
+
+      - original_pdf_id: "MET-RB-PDF-003"
+        pdf_source: "DotCom Secrets"
+        page_ref: "PAGE 133-135"
+        enriches_dna_id: "FW-RB-049"
+        enrichment_summary: "Complete page-by-page Who/What/Why/How script"
+        enrichment_text: "Who/What/Why/How Script for Two-Step Free+Shipping Funnel: Page 1: Squeeze page with bait. Page 2: Sales page -- WHO are you? WHAT do you have? WHY do I need it? HOW can I get it? Page 3: Order form with bump. Page 4-5: OTO upsells."
+        merge_action: "Add the complete page-by-page script structure for the Two-Step Free+Shipping Funnel."
+
+      - original_pdf_id: "MET-RB-PDF-004"
+        pdf_source: "DotCom Secrets"
+        page_ref: "PAGE 136-138"
+        enriches_dna_id: "FW-RB-051"
+        enrichment_summary: "'Order not complete' loop technique for OTO"
+        enrichment_text: "OTO Script Structure: (1) 'Wait! Your order is not yet complete!' (keep loop open), (2) Acknowledge smart purchase, (3) One-sentence pitch of next offer, (4) Urgency -- truly one time only, (5) If they say no -> downsell with payment plan."
+        merge_action: "Add the 5-step OTO script with the critical 'order not complete' loop technique."
+
+      - original_pdf_id: "MET-RB-PDF-005"
+        pdf_source: "DotCom Secrets"
+        page_ref: "PAGE 139-147"
+        enriches_dna_id: "FW-RB-048"
+        enrichment_summary: "44-piece breakdown by section for Star/Story/Solution"
+        enrichment_text: "Star/Story/Solution Script (44 pieces in 3 sections): Section 1: STAR (pattern interrupt, core promise, CTA preview). Section 2: STORY (high drama, backstory, wall, epiphany, plan, results). Section 3: SOLUTION (present offer, build value, stack, guarantee, scarcity, final CTA)."
+        merge_action: "Add the complete 44-piece breakdown organized into 3 sections (Star, Story, Solution) with key elements per section."
+
+      - original_pdf_id: "MET-RB-PDF-007"
+        pdf_source: "DotCom Secrets"
+        page_ref: "PAGE 159-165"
+        enriches_dna_id: "FW-RB-045"
+        enrichment_summary: "85% show, 90% payment data for Invisible Funnel method"
+        enrichment_text: "Invisible Funnel Webinar Method: (1) Create 3-4 hour deep-dive training, (2) Attendees register with credit card, (3) 'Try before you buy' -- only charged IF they don't cancel, (4) 85% show rate vs 30% free, (5) 90% payment rate."
+        merge_action: "Add the complete 5-step method with the specific metrics: 85% show rate (vs 30% free) and 90% payment rate."
+
+      - original_pdf_id: "MET-RB-PDF-008"
+        pdf_source: "DotCom Secrets"
+        page_ref: "PAGE 167-170"
+        enriches_dna_id: "FW-RB-046"
+        enrichment_summary: "Specific video purposes per day for Product Launch"
+        enrichment_text: "Product Launch Funnel (4 videos): Video 1: Wow and How (pattern interrupt, big promise). Video 2: Transformational Education (teach, build belief). Video 3: Ownership Experience (let them experience result). Video 4: The Offer (present with Stack). One video per day over 4 days."
+        merge_action: "Add the specific purpose of each of the 4 videos and the one-per-day release cadence."
+
+      - original_pdf_id: "MET-RB-PDF-009"
+        pdf_source: "DotCom Secrets"
+        page_ref: "PAGE 173-184"
+        enriches_dna_id: "FW-RB-050"
+        enrichment_summary: "SET (15-30 min) + CLOSE (45-90 min) timing for High-Ticket"
+        enrichment_text: "High-Ticket Two-Step Script: Step 1 SETTER (15-30 min): Build rapport, ask about situation, identify pain, present application, set appointment. Step 2 CLOSER (45-90 min): Recap application, deep dive into pain, present high-ticket offer with Stack, handle objections, close."
+        merge_action: "Add the complete SET and CLOSE timing and step breakdown for the Two-Step high-ticket sales process."
+
+      - original_pdf_id: "MET-RB-PDF-011"
+        pdf_source: "DotCom Secrets"
+        page_ref: "PAGE 124-126"
+        enriches_dna_id: "FW-RB-043"
+        enrichment_summary: "34% bump, $66 avg revenue economics for Free+Ship"
+        enrichment_text: "Free-Plus-Shipping Order Form Bump Strategy: (1) Free item, (2) Charge shipping $4.95-$9.95, (3) Add bump checkbox at $37, (4) Add OTO at $97-$197, (5) Add downsell. Expected: 34% bump rate, $66 average revenue per free item."
+        merge_action: "Add the complete economics: 34% bump rate at $37, and $66 average revenue per free item through the full upsell chain."
+
+      - original_pdf_id: "MET-RB-PDF-003"
+        pdf_source: "Expert Secrets"
+        page_ref: "p.155-166"
+        enriches_dna_id: "MET-RB-002"
+        enrichment_summary: "Slide-by-slide intro breakdown (slides 1-14)"
+        enrichment_text: "Perfect Webinar Introduction Sequence (Slides 1-14): Slide 1 -- Title. Slides 2-6 -- One Sentence Persuasion (one element per slide). Slides 7-8 -- Ruler and Progression. Slides 9-10 -- Qualify yourself. Slides 11-12 -- Origin Story. Slide 13 -- Liken to Them. Slide 14 -- Case Study."
+        merge_action: "Add the detailed slide-by-slide intro breakdown (slides 1-14) with specific purpose for each slide."
+
+      - original_pdf_id: "MET-RB-PDF-006"
+        pdf_source: "Expert Secrets"
+        page_ref: "p.192-194"
+        enriches_dna_id: "MET-RB-012"
+        enrichment_summary: "Specific placement points for Trial Closes"
+        enrichment_text: "Trial Closes Implementation: Insert at specific points: (1) After the Big Promise, (2) After each Secret, (3) Before revealing the Stack, (4) After each Stack component, (5) Before the price reveal. Track hand raises/chat responses."
+        merge_action: "Add the 5 specific placement points for Trial Closes throughout the webinar presentation."
+
+      - original_pdf_id: "MET-RB-PDF-007"
+        pdf_source: "Expert Secrets"
+        page_ref: "p.218-226"
+        enriches_dna_id: "MET-RB-014"
+        enrichment_summary: "Phase timing (5-10, 20-30, 10-15, 5-10 min) for 4Q Close"
+        enrichment_text: "4-Question Close Methodology: Phase 1 (5-10 min) -- Build rapport. Phase 2 (20-30 min) -- Ask 4 Questions, let them talk 80%. Phase 3 (10-15 min) -- Present solution in THEIR words. Phase 4 (5-10 min) -- Handle logistics. Total: 45-60 minutes."
+        merge_action: "Add the phase-by-phase timing breakdown for the 4-Question Close methodology."
+
+      - original_pdf_id: "MET-RB-PDF-009"
+        pdf_source: "Expert Secrets"
+        page_ref: "p.234-236"
+        enriches_dna_id: "MET-RB-006"
+        enrichment_summary: "PW-to-email conversion process"
+        enrichment_text: "Email Epiphany Funnel Creation: (1) Take your completed PW content. (2) Extract 4 core stories (Origin + 3 Secrets). (3) Write each story as email OR record video and link. (4) Add Stack as final email with CTA. (5) Add soap opera hooks at end of each email. (6) Deploy as automated sequence."
+        merge_action: "Add the 6-step PW-to-email conversion process as a methodology for creating Email Epiphany Funnels."
+
+      - original_pdf_id: "MET-RB-PDF-010"
+        pdf_source: "Expert Secrets"
+        page_ref: "p.237-238"
+        enriches_dna_id: "FW-RB-046"
+        enrichment_summary: "Re-engagement format for no-shows via Epiphany Product Launch"
+        enrichment_text: "Epiphany Product Launch Funnel: (1) Intro video with Origin Story + opt-in. (2) Video #1 = Secret #1. (3) Video #2 = Secret #2. (4) Video #3 = Secret #3. (5) Video #4 = The Stack. (6) Send non-webinar-attendees through this sequence."
+        merge_action: "Add the Epiphany Product Launch Funnel as a re-engagement format for webinar no-shows."
+
+      - original_pdf_id: "MET-RB-PDF-005"
+        pdf_source: "Modules & Scripts"
+        page_ref: "PDF-06-Moral-Obligation PAGE 5-57"
+        enriches_dna_id: "MET-RB-002"
+        enrichment_summary: "Complete 51 slide names and order"
+        enrichment_text: "Perfect Webinar Slide Script (51 Slides): 1-Title, 2-Intro/Rapport, 3-Ruler Goal #1, 4-Ruler Goal #2 Big Domino, 5-Goal Continued, 6-Qualify Yourself, 7-Epiphany Bridge Origin, 8-Liken to Them, 9-Case Study, 10-Transition to Secrets, 11-Delivering Content, 12-State Secret, 13-Share Epiphany Bridge, 14-Show Results, 15-Break Beliefs, 16-Restate New Belief, 17-Repeat Secrets 2&3, 18-The Question, 19-Transition to Sales, 20-The Stack, 21-Deliverables, 22-Recap, 23-Case Studies, 24-Who This Works For, 25-Destroy #1 Reason, 26-Stack Slide #1, 27-Element #2 Tools, 28-You'll Be Able To, 29-Problem Solved, 30-Time/Money Saved, 31-Break Beliefs, 32-Stack Slide #2, 33-Tangible #1, 34-Pain/Cost, 35-Ease/Speed, 36-Break Beliefs, 37-Stack Slide #3, 38-Tangibles #2/#3, 39-Big Stack #5, 40-If/All, 41-Two Choices, 42-What Would It Be Worth, 43-Price Drop, 44-Price Reveal, 45-Price Justification, 46-2 Choices, 47-Guarantee, 48-Real Question, 49-Stack Slide, 50-Urgency/Scarcity, 51-Close/Q&A."
+        merge_action: "Add the complete 51-slide breakdown with named slides from the Modules workbook to the Perfect Webinar methodology."
+
+# ==============================================================================
+# USAGE INSTRUCTIONS
+# ==============================================================================
+# 1. For each enrichment, locate the target DNA element by enriches_dna_id
+# 2. Merge the enrichment_text into the existing element's context field
+# 3. Add the pdf_source and page_ref to the element's module_sources or context
+# 4. Follow merge_action instructions for specific integration guidance
+# 5. Do NOT create new DNA IDs for these -- they enrich existing elements
+# 6. After merging, the enriched element should have richer context without
+#    changing its core statement/identity
+#
+# CROSS-LAYER ENRICHMENTS:
+# Some HEUR/MET PDF elements enrich FW or MET DNA elements (cross-layer).
+# This is intentional -- the PDF element's layer classification differs
+# from the DNA element it enriches. The enrichment target (enriches_dna_id)
+# is the correct destination regardless of source layer.

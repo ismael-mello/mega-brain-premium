@@ -1,0 +1,757 @@
+# ╔══════════════════════════════════════════════════════════════════════════════╗
+# ║                                                                              ║
+# ║   █████╗  ██████╗  ██████╗       ██████╗ ██╗   ██╗████████╗██████╗          ║
+# ║  ██╔══██╗██╔════╝ ██╔════╝      ██╔═══██╗██║   ██║╚══██╔══╝██╔══██╗         ║
+# ║  ███████║██║  ███╗██║  ███╗     ██║   ██║██║   ██║   ██║   ██████╔╝         ║
+# ║  ██╔══██║██║   ██║██║   ██║     ██║   ██║██║   ██║   ██║   ██╔══██╗         ║
+# ║  ██║  ██║╚██████╔╝╚██████╔╝     ╚██████╔╝╚██████╔╝   ██║   ██████╔╝         ║
+# ║  ╚═╝  ╚═╝ ╚═════╝  ╚═════╝       ╚═════╝  ╚═════╝    ╚═╝   ╚═════╝          ║
+# ║                                                                              ║
+# ║               DNA AGREGADO - OUTBOUND & PROSPECÇÃO                          ║
+# ║                                                                              ║
+# ╚══════════════════════════════════════════════════════════════════════════════╝
+#
+# ARQUIVO: AGG-OUTBOUND.yaml
+# DOMÍNIO: Outbound, prospecção ativa, cold calling, SDR/BDR
+# VERSÃO: 1.0.0
+# CRIADO: 2026-01-10
+# PROPÓSITO: Consolidar conhecimento cross-source sobre OUTBOUND
+#
+# FONTES CONSOLIDADAS:
+# - Alex Hormozi (260 elementos) - Farm System, Channel Independence
+# - Jeremy Miner (1,199 elementos) - NEPQ Cold Calling
+# - G4 Educação (229 elementos) - SDR Formation BR
+# - Full Sales System (117 elementos) - 4 Tipos de SDR
+# - Cole Gordon (373 elementos) - Setters, Show Rate
+#
+# ═══════════════════════════════════════════════════════════════════════════════
+
+dominio: "outbound"
+versao: "1.0.0"
+criado_em: "2026-01-10T19:45:00Z"
+atualizado_em: "2026-01-10T19:45:00Z"
+
+# ═══════════════════════════════════════════════════════════════════════════════
+# FONTES CONSOLIDADAS COM PESOS POR DOMÍNIO
+# ═══════════════════════════════════════════════════════════════════════════════
+
+fontes_consolidadas:
+  - fonte: "alex-hormozi"
+    peso_dominio: 0.92  # Farm System é referência
+    path: "/knowledge/dna/persons/alex-hormozi/"
+    contribuicao_principal: "Farm System, Christmas Tree, Channel Independence"
+    elementos_relevantes: 85
+
+  - fonte: "JEREMY-MINER"
+    peso_dominio: 0.95  # NEPQ é o padrão para cold calling
+    path: "/knowledge/dna/persons/JEREMY-MINER/"
+    contribuicao_principal: "NEPQ Cold Calling, Tonality, Question Framework"
+    elementos_relevantes: 320
+
+  # G4-EDUCACAO removido (excluded persona - layer-rules.yaml)
+  # FULL-SALES-SYSTEM removido (excluded persona - layer-rules.yaml)
+
+  - fonte: "cole-gordon"
+    peso_dominio: 0.78  # Setters, Follow-up
+    path: "/knowledge/dna/persons/cole-gordon/"
+    contribuicao_principal: "Setter Framework, Show Rate, 7 Beliefs"
+    elementos_relevantes: 45
+
+# ═══════════════════════════════════════════════════════════════════════════════
+# FILOSOFIAS CONSOLIDADAS (Cross-Source)
+# ═══════════════════════════════════════════════════════════════════════════════
+
+filosofias:
+  # Alex Hormozi - Channel Independence
+  - id: "FIL-OUT-001"
+    filosofia: "Outbound é impossível de quebrar - Se Facebook te bane, o telefone ainda funciona"
+    fonte_primaria: "alex-hormozi"
+    peso: 0.95
+    aplicacao: "Diversificação de canais"
+    batches: ["BATCH-127", "BATCH-128"]
+
+  - id: "FIL-OUT-002"
+    filosofia: "No killer starts cold and gets good - Closers nascem de BDRs que cortaram os dentes"
+    fonte_primaria: "alex-hormozi"
+    peso: 0.92
+    aplicacao: "Farm System, desenvolvimento de time"
+    batches: ["BATCH-127"]
+
+  - id: "FIL-OUT-003"
+    filosofia: "Channel Independence > Dependência de um canal - PE buyers valorizam outbound"
+    fonte_primaria: "alex-hormozi"
+    peso: 0.90
+    aplicacao: "Valuation, estratégia de go-to-market"
+    batches: ["BATCH-128"]
+
+  # Jeremy Miner - NEPQ Philosophy
+  - id: "FIL-OUT-004"
+    filosofia: "Cold calling não é sobre vender - É sobre QUALIFICAR e marcar próximo passo"
+    fonte_primaria: "JEREMY-MINER"
+    peso: 0.95
+    aplicacao: "Mindset de cold call"
+    batches: ["BATCH-052", "BATCH-060"]
+
+  - id: "FIL-OUT-005"
+    filosofia: "Perguntas são a forma mais poderosa de persuasão - Não tente convencer, faça perguntar"
+    fonte_primaria: "JEREMY-MINER"
+    peso: 0.95
+    aplicacao: "Abordagem de cold call"
+    batches: ["BATCH-052"]
+
+  - id: "FIL-OUT-006"
+    filosofia: "Tonalidade é 72% da comunicação - O QUE você diz importa menos que COMO"
+    fonte_primaria: "JEREMY-MINER"
+    peso: 0.92
+    aplicacao: "Execução de cold call"
+    batches: ["BATCH-055", "BATCH-056"]
+
+  - id: "FIL-OUT-007"
+    filosofia: "Two Truths: Prospect tem resposta proteção (1ª) e resposta real (2ª) - Buscar a 2ª"
+    fonte_primaria: "JEREMY-MINER"
+    peso: 0.90
+    aplicacao: "Handling de resistência inicial"
+    batches: ["BATCH-058"]
+
+  # G4 Educação - Calibração BR
+  - id: "FIL-OUT-008"
+    filosofia: "SDR brasileiro ≠ SDR americano - Calibração cultural é obrigatória"
+    fonte_primaria: "G4-EDUCACAO"
+    peso: 0.88
+    aplicacao: "Estruturação de time BR"
+    batches: ["BATCH-026", "BATCH-027"]
+
+  - id: "FIL-OUT-009"
+    filosofia: "Employee Experience → Customer Experience - Funcionário feliz atende melhor"
+    fonte_primaria: "G4-EDUCACAO"
+    peso: 0.85
+    aplicacao: "Gestão de time SDR"
+    batches: ["BATCH-021"]
+
+  # Full Sales System - Especialização
+  - id: "FIL-OUT-010"
+    filosofia: "SDR genérico não existe - São 4 perfis distintos que não se misturam"
+    fonte_primaria: "FULL-SALES-SYSTEM"
+    peso: 0.88
+    aplicacao: "Contratação e alocação"
+    batches: ["BATCH-009", "BATCH-010"]
+
+  # Cole Gordon - Setters
+  - id: "FIL-OUT-011"
+    filosofia: "Setter não é mini-closer - É especialista em gerar urgência e curiosidade"
+    fonte_primaria: "cole-gordon"
+    peso: 0.82
+    aplicacao: "Definição de cargo"
+    batches: ["BATCH-005", "BATCH-008"]
+
+# ═══════════════════════════════════════════════════════════════════════════════
+# FRAMEWORKS CONSOLIDADOS (Cross-Source)
+# ═══════════════════════════════════════════════════════════════════════════════
+
+frameworks:
+  # Alex Hormozi - Estrutura
+  - id: "FW-OUT-001"
+    nome: "Farm System"
+    fonte_primaria: "alex-hormozi"
+    peso: 0.95
+    estrutura:
+      niveis:
+        - nivel: "Single A (Rookies)"
+          funcao: "BDR - Cold calling, agendamento"
+          tempo_medio: "3-6 meses"
+        - nivel: "Double A"
+          funcao: "SDS - Qualificação, discovery leve"
+          tempo_medio: "6-9 meses"
+        - nivel: "Triple A"
+          funcao: "BC Junior - Fechamento supervisionado"
+          tempo_medio: "9-12 meses"
+        - nivel: "The Bigs"
+          funcao: "BC Sênior - Fechamento autônomo, 60%+ close rate"
+          tempo_medio: "12+ meses"
+      filosofia: "Promover de dentro > Contratar experiente de fora"
+      resultado: "Close rate 60% vs 25% de contratados externos"
+    aplicacao: "Estruturação de time outbound"
+    batches: ["BATCH-127"]
+
+  - id: "FW-OUT-002"
+    nome: "Christmas Tree Structure"
+    fonte_primaria: "alex-hormozi"
+    peso: 0.90
+    estrutura: |
+      Estrutura em formato de árvore de natal:
+
+           ★ (Closer Sênior)
+          /|\
+         / | \
+        BC BC BC  (Business Closers)
+       /|\ /|\ /|\
+      SDR SDR SDR (Sales Development Reps)
+      /|\ /|\ /|\
+      BDR BDR BDR (Business Development Reps)
+
+      Proporção típica: 1:3:9 (1 Closer : 3 SDS : 9 BDR)
+    aplicacao: "Scaling de time outbound"
+    batches: ["BATCH-127"]
+
+  # Jeremy Miner - NEPQ
+  - id: "FW-OUT-003"
+    nome: "NEPQ Cold Call Framework"
+    fonte_primaria: "JEREMY-MINER"
+    peso: 0.95
+    fases:
+      - fase: 1
+        nome: "Connecting Questions"
+        objetivo: "Quebrar gelo sem soar vendedor"
+        exemplo: "Rápida pergunta - você é a pessoa que cuida de X?"
+      - fase: 2
+        nome: "Situation Questions"
+        objetivo: "Entender contexto atual"
+        exemplo: "Quando foi a última vez que você avaliou...?"
+      - fase: 3
+        nome: "Problem Awareness Questions"
+        objetivo: "Fazer prospect reconhecer problema"
+        exemplo: "O que está te impedindo de...?"
+      - fase: 4
+        nome: "Solution Awareness Questions"
+        objetivo: "Fazer prospect imaginar solução"
+        exemplo: "Se pudesse resolver isso, como seria?"
+      - fase: 5
+        nome: "Consequence Questions"
+        objetivo: "Criar urgência com dor de não agir"
+        exemplo: "O que acontece se continuar assim por mais 6 meses?"
+      - fase: 6
+        nome: "Commitment Questions"
+        objetivo: "Agendar próximo passo"
+        exemplo: "Faria sentido explorar isso mais a fundo?"
+    aplicacao: "Script de cold call"
+    batches: ["BATCH-052", "BATCH-055", "BATCH-060"]
+
+  - id: "FW-OUT-004"
+    nome: "7 Tonalidades"
+    fonte_primaria: "JEREMY-MINER"
+    peso: 0.92
+    tonalidades:
+      - nome: "Curious"
+        uso: "Perguntas de discovery"
+        como: "Inflexão ascendente suave"
+      - nome: "Confused"
+        uso: "Quando prospect dá objeção"
+        como: "Como se não entendesse, pedir esclarecimento"
+      - nome: "Concern"
+        uso: "Quando prospect minimiza problema"
+        como: "Tom de preocupação genuína"
+      - nome: "Challenging"
+        uso: "Para criar tensão produtiva"
+        como: "Direto, sem agressividade"
+      - nome: "Playful"
+        uso: "Quebrar tensão, criar rapport"
+        como: "Leve, com sorriso na voz"
+      - nome: "Empathetic"
+        uso: "Quando prospect compartilha dor"
+        como: "Baixo, acolhedor"
+      - nome: "Assumptive"
+        uso: "Para commitment questions"
+        como: "Confiante, como se 'sim' fosse óbvio"
+    aplicacao: "Execução de cold call"
+    batches: ["BATCH-055", "BATCH-056"]
+
+  # G4 Educação - SDR BR
+  - id: "FW-OUT-005"
+    nome: "Jornada do SDR G4"
+    fonte_primaria: "G4-EDUCACAO"
+    peso: 0.85
+    etapas:
+      - etapa: "Pré-Qualificação"
+        responsavel: "LDR (Lead Development Rep)"
+        atividade: "Enriquecer lista, pesquisar empresa"
+      - etapa: "Prospecção"
+        responsavel: "BDR (Business Development Rep)"
+        atividade: "Cold call, cold email, LinkedIn"
+      - etapa: "Qualificação"
+        responsavel: "SDR (Sales Development Rep)"
+        atividade: "Discovery call, BANT/SPIN"
+      - etapa: "Agendamento"
+        responsavel: "SDR"
+        atividade: "Marcar call com Closer"
+      - etapa: "Passagem"
+        responsavel: "SDR → Closer"
+        atividade: "Handoff com contexto completo"
+    nomenclatura_br:
+      LDR: "Lead Development Rep"
+      BDR: "Business Development Rep"
+      SDR: "Sales Development Rep"
+      Closer: "Fechador"
+      Farmer: "Pós-venda/Expansão"
+    aplicacao: "Estrutura outbound BR"
+    batches: ["BATCH-026", "BATCH-027", "BATCH-028"]
+
+  # Full Sales System - 4 SDRs
+  - id: "FW-OUT-006"
+    nome: "4 Tipos de SDR"
+    fonte_primaria: "FULL-SALES-SYSTEM"
+    peso: 0.90
+    tipos:
+      - tipo: "SDR1"
+        canal: "Inbound quente"
+        perfil: "Paciência, nurturing"
+        atividade: "Leads que preencheram form, download"
+        nao_funciona_em: "Cold call"
+      - tipo: "SDR2"
+        canal: "Inbound morno"
+        perfil: "Equilíbrio"
+        atividade: "Webinar, ads com intention baixa"
+        nao_funciona_em: "Outbound puro"
+      - tipo: "SDR3"
+        canal: "Outbound ativo"
+        perfil: "Agressividade, resiliência"
+        atividade: "Cold call, cold email"
+        nao_funciona_em: "Nurturing longo"
+      - tipo: "SDR4"
+        canal: "Social Selling"
+        perfil: "Social, networking"
+        atividade: "Instagram receptivo + prospectivo, LinkedIn"
+        nao_funciona_em: "Call frio sem contexto"
+    regra: "NÃO misture tipos. SDR3 não tem paciência pra nurture."
+    aplicacao: "Contratação e alocação de SDR"
+    batches: ["BATCH-009", "BATCH-010"]
+
+  - id: "FW-OUT-007"
+    nome: "Sales Farming"
+    fonte_primaria: "FULL-SALES-SYSTEM"
+    peso: 0.82
+    estrutura: |
+      Repescagem coordenada de leads não convertidos:
+
+      1. Lead entra no funil
+      2. SDR qualifica → não converte
+      3. Vai para "Farm" (não descarta)
+      4. Após X dias (30-90), volta para fila de recontato
+      5. SDR1 ou SDR4 faz nurturing
+      6. Se esquentar, volta para SDR3
+    beneficio: "Recupera 15-25% de leads 'mortos'"
+    aplicacao: "Follow-up sistemático"
+    batches: ["BATCH-011"]
+
+  # Cole Gordon - Setters
+  - id: "FW-OUT-008"
+    nome: "Setter Framework"
+    fonte_primaria: "cole-gordon"
+    peso: 0.80
+    funcao: "Gerar urgência e curiosidade suficientes para agendar call"
+    nao_faz:
+      - "Não faz discovery profundo"
+      - "Não fala de preço"
+      - "Não tenta fechar"
+    faz:
+      - "Identifica problema superficial"
+      - "Cria curiosidade sobre solução"
+      - "Agenda com urgência"
+      - "Confirma que prospect aparecerá"
+    kpis:
+      - "Show rate > 70%"
+      - "Qualificação básica 100%"
+    aplicacao: "Estruturação de equipe setter"
+    batches: ["BATCH-005", "BATCH-008"]
+
+  - id: "FW-OUT-009"
+    nome: "Show Rate Optimization"
+    fonte_primaria: "cole-gordon"
+    peso: 0.85
+    taticas:
+      - tatica: "Confirmation Cascade"
+        descricao: "Múltiplos pontos de confirmação"
+        sequencia:
+          - "1. Email imediato pós-agendamento"
+          - "2. SMS 24h antes"
+          - "3. Email manhã do dia"
+          - "4. SMS 1h antes"
+          - "5. Call 5min antes (se no-show histórico)"
+      - tatica: "Value Preview"
+        descricao: "Enviar mini-value antes da call"
+        exemplos:
+          - "PDF com case study"
+          - "Video de 2min sobre o problema"
+          - "Checklist relevante"
+      - tatica: "Skin in the Game"
+        descricao: "Fazer prospect investir algo"
+        exemplos:
+          - "Preencher formulário pré-call"
+          - "Assistir vídeo obrigatório"
+    benchmark: "70% show rate mínimo, 85%+ excelente"
+    aplicacao: "Redução de no-show"
+    batches: ["BATCH-006", "BATCH-007"]
+
+# ═══════════════════════════════════════════════════════════════════════════════
+# HEURÍSTICAS COM NÚMEROS (Cross-Source)
+# ═══════════════════════════════════════════════════════════════════════════════
+
+heuristicas:
+  # Estrutura de Time
+  - id: "HEU-OUT-001"
+    heuristica: "Proporção 1:3:9 - 1 Closer para 3 SDS para 9 BDR"
+    fonte: "alex-hormozi"
+    numero: "1:3:9"
+    aplicacao: "Dimensionamento de time"
+
+  - id: "HEU-OUT-002"
+    heuristica: "12-14 meses do BDR ao Closer - Não apresse o Farm System"
+    fonte: "alex-hormozi"
+    numero: "12-14 meses"
+    aplicacao: "Timeline de desenvolvimento"
+
+  - id: "HEU-OUT-003"
+    heuristica: "Close rate Farm System: 60% vs 25% de contratados externos"
+    fonte: "alex-hormozi"
+    numero: "60% vs 25%"
+    aplicacao: "Justificativa do sistema"
+
+  - id: "HEU-OUT-004"
+    heuristica: "15-25 leads/dia por SDR é capacidade ideal"
+    fonte: "FULL-SALES-SYSTEM"
+    numero: "15-25"
+    aplicacao: "Dimensionamento de carga"
+
+  # Cold Call
+  - id: "HEU-OUT-005"
+    heuristica: "72% da comunicação é tonalidade - Palavras são 28%"
+    fonte: "JEREMY-MINER"
+    numero: "72%"
+    aplicacao: "Treinamento de cold call"
+
+  - id: "HEU-OUT-006"
+    heuristica: "99% contradizem primeira resposta quando você faz a pergunta certa"
+    fonte: "JEREMY-MINER"
+    numero: "99%"
+    aplicacao: "Two Truths Psychology"
+
+  - id: "HEU-OUT-007"
+    heuristica: "Confused Tone resolve 80% das objeções iniciais"
+    fonte: "JEREMY-MINER"
+    numero: "80%"
+    aplicacao: "Handling de resistência"
+
+  - id: "HEU-OUT-008"
+    heuristica: "Cold call NEPQ: 2-3 minutos máximo para qualificação inicial"
+    fonte: "JEREMY-MINER"
+    numero: "2-3 min"
+    aplicacao: "Duração de cold call"
+
+  # Show Rate
+  - id: "HEU-OUT-009"
+    heuristica: "Show rate mínimo aceitável: 70%, excelente: 85%+"
+    fonte: "cole-gordon"
+    numero: "70-85%"
+    aplicacao: "Benchmark de setter"
+
+  - id: "HEU-OUT-010"
+    heuristica: "4 pontos de confirmação = +15% show rate"
+    fonte: "cole-gordon"
+    numero: "+15%"
+    aplicacao: "Confirmation cascade"
+
+  - id: "HEU-OUT-011"
+    heuristica: "Video pré-call de 2min aumenta show rate em 20%"
+    fonte: "cole-gordon"
+    numero: "2min, +20%"
+    aplicacao: "Value preview"
+
+  # Métricas BR
+  - id: "HEU-OUT-012"
+    heuristica: "SDR BR: R$50-100 por agendamento qualificado (variável)"
+    fonte: "FULL-SALES-SYSTEM"
+    numero: "R$50-100"
+    aplicacao: "Comissionamento"
+
+  - id: "HEU-OUT-013"
+    heuristica: "Cold call BR: 50-80 tentativas/dia por SDR3"
+    fonte: "G4-EDUCACAO"
+    numero: "50-80"
+    aplicacao: "Volume de atividade"
+
+  - id: "HEU-OUT-014"
+    heuristica: "Taxa de conversão cold call BR: 2-5% em agendamento"
+    fonte: "G4-EDUCACAO"
+    numero: "2-5%"
+    aplicacao: "Expectativa realista"
+
+  - id: "HEU-OUT-015"
+    heuristica: "Sales Farming recupera 15-25% de leads 'mortos'"
+    fonte: "FULL-SALES-SYSTEM"
+    numero: "15-25%"
+    aplicacao: "Repescagem"
+
+  # Outbound Scale
+  - id: "HEU-OUT-016"
+    heuristica: "Mês 1: 1 venda, Mês 2: 2, Mês 3: 4... Mês 14: 45 vendas"
+    fonte: "alex-hormozi"
+    numero: "14 meses para 45/mês"
+    aplicacao: "Expectativa de rampa"
+
+  - id: "HEU-OUT-017"
+    heuristica: "Outbound demora para funcionar - Mínimo 12 meses para validar canal"
+    fonte: "alex-hormozi"
+    numero: "12 meses"
+    aplicacao: "Patience threshold"
+
+# ═══════════════════════════════════════════════════════════════════════════════
+# METODOLOGIAS CONSOLIDADAS (Cross-Source)
+# ═══════════════════════════════════════════════════════════════════════════════
+
+metodologias:
+  - id: "MET-OUT-001"
+    nome: "Implementação Farm System"
+    fonte: "alex-hormozi"
+    peso: 0.95
+    passos:
+      - passo: 1
+        acao: "Contratar 3-5 BDRs (entry level)"
+        detalhe: "Foco em coachability, não experiência"
+      - passo: 2
+        acao: "Treinar em cold calling básico (NEPQ)"
+        detalhe: "1-2 semanas de roleplay intensivo"
+      - passo: 3
+        acao: "Botar para produzir com supervisão"
+        detalhe: "Meta: 50 calls/dia, qualquer resultado"
+      - passo: 4
+        acao: "Medir: Calls → Connects → Meetings"
+        detalhe: "Top 20% avança, bottom 10% sai"
+      - passo: 5
+        acao: "Promover top performers para Double A (SDS)"
+        detalhe: "Após 3-6 meses consistentes"
+      - passo: 6
+        acao: "Repetir ciclo até ter Triple A e Bigs"
+        detalhe: "12-14 meses para primeiro Closer interno"
+    regra: "NUNCA contratar Closer externo até ter Farm funcionando"
+    aplicacao: "Montagem de time outbound"
+    batches: ["BATCH-127"]
+
+  - id: "MET-OUT-002"
+    nome: "Cold Call NEPQ (Script)"
+    fonte: "JEREMY-MINER"
+    peso: 0.95
+    passos:
+      - passo: 1
+        acao: "Opener neutro com tom curioso"
+        script: "Oi [Nome], tudo bem? Rápida pergunta - você é a pessoa que cuida de [área]?"
+      - passo: 2
+        acao: "Pattern interrupt se necessário"
+        script: "Entendo que está ocupado. Posso ser breve? 30 segundos."
+      - passo: 3
+        acao: "Situation question"
+        script: "Quando foi a última vez que você avaliou [solução] para [problema]?"
+      - passo: 4
+        acao: "Problem awareness"
+        script: "O que te impede de [resultado desejado] hoje?"
+      - passo: 5
+        acao: "Consequence (se houver abertura)"
+        script: "Se continuar assim por mais 6 meses, como isso impacta você?"
+      - passo: 6
+        acao: "Commitment"
+        script: "Faria sentido conversarmos 15 minutos sobre isso? Quando funciona melhor?"
+    duracao: "2-3 minutos máximo"
+    aplicacao: "Execução de cold call"
+    batches: ["BATCH-052", "BATCH-055", "BATCH-060"]
+
+  - id: "MET-OUT-003"
+    nome: "Confirmation Cascade"
+    fonte: "cole-gordon"
+    peso: 0.88
+    passos:
+      - passo: 1
+        acao: "Imediatamente após agendamento"
+        canal: "Email + SMS"
+        conteudo: "Confirmação + link + o que esperar"
+      - passo: 2
+        acao: "24 horas antes"
+        canal: "SMS"
+        conteudo: "Lembrete + link + pergunta de confirmação"
+      - passo: 3
+        acao: "Manhã do dia"
+        canal: "Email"
+        conteudo: "Agenda da call + value preview"
+      - passo: 4
+        acao: "1 hora antes"
+        canal: "SMS"
+        conteudo: "Estamos te esperando!"
+      - passo: 5
+        acao: "Se no-show histórico"
+        canal: "Call"
+        conteudo: "5 minutos antes, ligar para confirmar"
+    resultado: "+15-25% show rate"
+    aplicacao: "Maximizar comparecimento"
+    batches: ["BATCH-006", "BATCH-007"]
+
+  - id: "MET-OUT-004"
+    nome: "Sales Farming System"
+    fonte: "FULL-SALES-SYSTEM"
+    peso: 0.82
+    passos:
+      - passo: 1
+        acao: "Marcar lead como 'Farm' (não 'Lost')"
+        detalhe: "Nunca descartar lead que não fechou"
+      - passo: 2
+        acao: "Esperar período de cooling (30-90 dias)"
+        detalhe: "Depende do ciclo de venda"
+      - passo: 3
+        acao: "Reentrar fila de SDR1 ou SDR4"
+        detalhe: "Nurturing, não outbound agressivo"
+      - passo: 4
+        acao: "Enviar value content"
+        detalhe: "Case studies, insights, não pitch"
+      - passo: 5
+        acao: "Monitorar engajamento"
+        detalhe: "Abriu email? Clicou? Respondeu?"
+      - passo: 6
+        acao: "Se esquentar, voltar para SDR3 ou Closer"
+        detalhe: "Tratamento de lead quente"
+    resultado: "Recupera 15-25% de leads"
+    aplicacao: "Aproveitamento de pipeline"
+    batches: ["BATCH-011"]
+
+# ═══════════════════════════════════════════════════════════════════════════════
+# TENSÕES E CONFLITOS (Cross-Source)
+# ═══════════════════════════════════════════════════════════════════════════════
+
+tensoes:
+  - topico: "Terminologia SDR"
+    posicoes:
+      - fonte: "alex-hormozi"
+        posicao: "BDR → SDS → BC (terminologia USA)"
+        argumento: "Padrão global, alinhado com investidores"
+      - fonte: "G4-EDUCACAO"
+        posicao: "LDR → BDR → SDR → Closer (terminologia BR)"
+        argumento: "Calibração cultural, time entende melhor"
+    resolucao: |
+      USE A TERMINOLOGIA DO CONTEXTO:
+      - Comunicação interna BR: LDR/BDR/SDR/Closer
+      - Comunicação com investidores: BDR/SDS/BC
+      - Importante: Definir funções claramente, termo é secundário
+    peso_usa: 0.40
+    peso_br: 0.60
+
+  - topico: "Abordagem de Cold Call"
+    posicoes:
+      - fonte: "JEREMY-MINER"
+        posicao: "NEPQ: Perguntas, nunca pitch"
+        argumento: "Self-persuasion é mais poderoso"
+      - fonte: "Vendas Tradicionais"
+        posicao: "Pitch rápido, criar interesse"
+        argumento: "Tempo é curto, vá direto ao ponto"
+    resolucao: |
+      NEPQ É SUPERIOR para high-ticket:
+      - Cold call curta: 2-3 perguntas + commitment
+      - Pitch acontece na call agendada, não no cold call
+      - Exceção: Produtos simples, ticket baixo
+    peso_nepq: 0.85
+    peso_tradicional: 0.15
+
+  - topico: "Contratar experiente vs desenvolver interno"
+    posicoes:
+      - fonte: "alex-hormozi"
+        posicao: "Farm System: Sempre desenvolver interno"
+        argumento: "60% close rate vs 25% de externos"
+      - fonte: "Mercado"
+        posicao: "Contratar Closer pronto acelera"
+        argumento: "Não tenho 12 meses para esperar"
+    resolucao: |
+      DEPENDE DO ESTÁGIO:
+      - 0-$1M: Founder fecha, BDR gera leads
+      - $1M-$5M: Primeiro Closer pode ser externo para template
+      - $5M+: Farm System obrigatório para escala
+      - Híbrido: 1 experiente ensina, 3+ internos aprendem
+    peso_farm: 0.70
+    peso_externo: 0.30
+
+# ═══════════════════════════════════════════════════════════════════════════════
+# AGENTES QUE CONSOMEM ESTE AGREGADO
+# ═══════════════════════════════════════════════════════════════════════════════
+
+agentes_consumidores:
+  cargo:
+    - path: "/agents/cargo/sales/bdr/"
+      peso: 0.95
+      uso: "Framework de cold call, métricas, desenvolvimento"
+
+    - path: "/agents/cargo/sales/sds/"
+      peso: 0.95
+      uso: "Qualificação, handoff, Sales Farming"
+
+    - path: "/agents/cargo/sales/lns/"
+      peso: 0.85
+      uso: "Show rate, nurturing, follow-up"
+
+    - path: "/agents/cargo/sales/sales-manager/"
+      peso: 0.90
+      uso: "Farm System, dimensionamento, KPIs"
+
+    - path: "/agents/cargo/sales/closer/"
+      peso: 0.70
+      uso: "Entender pipeline, qualificação do lead"
+
+    - path: "/agents/cargo/c-level/cro/"
+      peso: 0.85
+      uso: "Estratégia de canal, escala"
+
+    - path: "/agents/cargo/sales/nepq-specialist/"
+      peso: 0.98
+      uso: "Metodologia NEPQ completa"
+
+  persons:
+    - path: "/agents/persons/JEREMY-MINER/"
+      peso: 1.0
+      uso: "Consultas sobre NEPQ e cold calling"
+
+    - path: "/agents/persons/alex-hormozi/"
+      peso: 0.90
+      uso: "Consultas sobre Farm System"
+
+# ═══════════════════════════════════════════════════════════════════════════════
+# METADADOS
+# ═══════════════════════════════════════════════════════════════════════════════
+
+metadados:
+  total_filosofias: 11
+  total_frameworks: 9
+  total_heuristicas: 17
+  total_metodologias: 4
+  total_elementos: 41
+
+  fontes_processadas: 5
+  batches_referenciados:
+    - "BATCH-005"
+    - "BATCH-006"
+    - "BATCH-007"
+    - "BATCH-008"
+    - "BATCH-009"
+    - "BATCH-010"
+    - "BATCH-011"
+    - "BATCH-021"
+    - "BATCH-026"
+    - "BATCH-027"
+    - "BATCH-028"
+    - "BATCH-052"
+    - "BATCH-055"
+    - "BATCH-056"
+    - "BATCH-058"
+    - "BATCH-060"
+    - "BATCH-127"
+    - "BATCH-128"
+
+  protocolo: "DNA-AGGREGATION-PROTOCOL v1.0"
+  pipeline: "JARVIS v3.33.0"
+  missao: "MISSION-2026-001"
+  fase: "PHASE-5-CONSOLIDATION"
+  bug_fix: "BUG #2 - DNA AGGREGATED empty"
+
+changelog:
+  - data: "2026-01-10T19:45:00Z"
+    acao: "Criação inicial do AGG-OUTBOUND.yaml"
+    mudancas:
+      - "Consolidação cross-source de conhecimento sobre OUTBOUND"
+      - "11 filosofias de 5 fontes diferentes"
+      - "9 frameworks incluindo Farm System, NEPQ, 4 Tipos SDR"
+      - "17 heurísticas com números específicos"
+      - "4 metodologias completas passo-a-passo"
+      - "Documentação de 3 tensões/conflitos com resolução"
+      - "Mapeamento de agentes consumidores"
+    versao: "1.0.0"

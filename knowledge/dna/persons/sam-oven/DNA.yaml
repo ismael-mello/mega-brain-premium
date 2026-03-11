@@ -1,0 +1,362 @@
+# Sam Oven - Cognitive DNA (Unified Format)
+# Source: Setterlun University / Consulting.com (3 modules)
+# Modules: Offer Creation, Purple Ocean Positioning, Business Model Design
+# Total elements: 21 | Migrated from legacy 5-file format: 2026-03-02
+# Original extraction: 2025-12-27 | Protocol: DNA-EXTRACTION-PROTOCOL v1.0
+
+person:
+  name: "Sam Oven"
+  empresa: "Setterlun University / Consulting.com"
+  source: "Setterlun University - 3 Course Modules (Offer Creation, Purple Ocean, Business Model)"
+  modules_processed: 3
+  total_chunks: 25
+  sintese: |
+    Sam Oven é fundador da Consulting.com e Setterlun University, focado em
+    ajudar consultores e agências a escalar seus negócios. Sua filosofia central
+    é a Bridge Analogy - toda oferta é uma ponte entre o estado atual e desejado
+    do cliente. Seu framework de posicionamento Purple Ocean combina o melhor de
+    Red Ocean (demanda provada) com Blue Ocean (diferenciação). Defende fortemente
+    o modelo DWY (Done With You) como ideal para agências. Margem líquida target
+    de 30-40%.
+
+layers:
+
+  # ==========================================================================
+  # L1: PHILOSOPHIES (5 items)
+  # ==========================================================================
+  L1_PHILOSOPHIES:
+    count: 5
+    items:
+
+      - id: "SO-FIL-001"
+        title: "Outcome-Driven Selling"
+        statement: "Clientes compram resultados, não serviços. Ninguém quer 'consultoria de marketing' - quer mais clientes. O foco deve ser sempre no resultado final."
+        quote: "Clients buy results, not services. Ninguém quer consultoria - quer o resultado."
+        weight: 0.90
+        chunk_ids: ["SETTERLUN-OC_001"]
+        source_ids: ["SETTERLUN-OC"]
+        application: "Pitch de vendas, criação de ofertas"
+
+      - id: "SO-FIL-002"
+        title: "Bridge Philosophy"
+        statement: "Todo negócio é uma ponte entre o estado atual do cliente e o estado desejado. Features não importam - o que importa é se você leva o cliente de onde está para onde quer ir."
+        quote: "O que o cliente quer saber: Você me leva de onde estou pra onde quero ir?"
+        weight: 0.95
+        chunk_ids: ["SETTERLUN-OC_002", "SETTERLUN-OC_003"]
+        source_ids: ["SETTERLUN-OC"]
+        application: "Estruturação de ofertas, comunicação de valor"
+
+      - id: "SO-FIL-003"
+        title: "Purple Ocean Mindset"
+        statement: "Não reinvente a roda (Blue Ocean arriscado), diferente dentro do provado (Red Ocean lotado). Purple Ocean é a combinação: mercado provado + diferenciação única."
+        quote: "Purple Ocean = proven market + unique differentiation. Best of both worlds."
+        weight: 0.90
+        chunk_ids: ["SETTERLUN-PO_001", "SETTERLUN-PO_002"]
+        source_ids: ["SETTERLUN-PO"]
+        application: "Posicionamento de mercado, nicho"
+
+      - id: "SO-FIL-004"
+        title: "Productizable Business"
+        statement: "Oferta deve ser escalável e repetível. Se você precisa customizar tudo para cada cliente, você não tem empresa - tem emprego como freelancer."
+        quote: "Se você precisa customizar tudo para cada cliente, você não tem empresa - tem emprego como freelancer."
+        weight: 0.85
+        chunk_ids: ["SETTERLUN-BD_001"]
+        source_ids: ["SETTERLUN-BD"]
+        application: "Estruturação de serviços, scaling"
+
+      - id: "SO-FIL-005"
+        title: "High-Leverage Focus"
+        statement: "Só fazer o que move a agulha. 80/20 aplicado em tudo - foque nos 20% de atividades que geram 80% do resultado."
+        weight: 0.85
+        chunk_ids: ["SETTERLUN-BD_002"]
+        source_ids: ["SETTERLUN-BD"]
+        application: "Priorização, gestão de tempo, operações"
+
+  # ==========================================================================
+  # L2: MENTAL MODELS (4 items)
+  # ==========================================================================
+  L2_MENTAL_MODELS:
+    count: 4
+    items:
+
+      - id: "SO-MM-001"
+        title: "Bridge Analogy Lens"
+        statement: "Ver toda oferta como uma ponte. Current State → Bridge (Your Offer) → Desired State. O Troll são as objeções, o Toll Booth é seu preço."
+        trigger_question: "Minha oferta leva claramente o cliente do estado atual ao desejado?"
+        weight: 0.95
+        chunk_ids: ["SETTERLUN-OC_002"]
+        source_ids: ["SETTERLUN-OC"]
+        application: "Estruturação de ofertas, pitch"
+
+      - id: "SO-MM-002"
+        title: "Purple Ocean Analysis"
+        statement: "Analisar se posicionamento é Red (competição demais), Blue (risco de criar mercado), ou Purple (diferenciado em mercado provado)."
+        trigger_question: "Estou em Red Ocean (igual a todos), Blue Ocean (arriscado), ou Purple Ocean (diferenciado em provado)?"
+        weight: 0.90
+        chunk_ids: ["SETTERLUN-PO_001"]
+        source_ids: ["SETTERLUN-PO"]
+        application: "Posicionamento, nicho, messaging"
+
+      - id: "SO-MM-003"
+        title: "Business Archetype Selection"
+        statement: "Classificar modelo de entrega em DFY (Done For You), DWY (Done With You), ou DIY (Do It Yourself). Cada um tem trade-offs de preço, escala e liberdade."
+        trigger_question: "Meu modelo é DFY, DWY ou DIY? Qual seria ideal para meu estágio?"
+        weight: 0.85
+        chunk_ids: ["SETTERLUN-BD_001"]
+        source_ids: ["SETTERLUN-BD"]
+        application: "Modelo de negócio, estrutura de entrega"
+
+      - id: "SO-MM-004"
+        title: "Unique Mechanism Differentiation"
+        statement: "Identificar por que SUA ponte é melhor que as outras. Competidores são outras pontes para a mesma travessia - qual é seu diferencial?"
+        trigger_question: "Por que minha ponte é melhor que as dos competidores?"
+        weight: 0.85
+        chunk_ids: ["SETTERLUN-OC_003"]
+        source_ids: ["SETTERLUN-OC"]
+        application: "Diferenciação, USP, messaging"
+
+  # ==========================================================================
+  # L3: HEURISTICS (6 items)
+  # ==========================================================================
+  L3_HEURISTICS:
+    count: 6
+    items:
+
+      - id: "SO-HEU-001"
+        title: "80/20 Rule"
+        statement: "20% das atividades geram 80% dos resultados. Os outros 80% de esforço geram apenas 20% incremental - não vale o tempo."
+        threshold: "20% esforço = 80% resultados; 80% esforço = 20% incremental"
+        weight: 0.90
+        chunk_ids: ["SETTERLUN-BD_002"]
+        source_ids: ["SETTERLUN-BD"]
+        application: "Priorização de tarefas, alocação de recursos"
+
+      - id: "SO-HEU-002"
+        title: "Net Profit Margin Target"
+        statement: "Meta de lucro líquido para negócios de serviço. Se margem está abaixo de 30%, há problema de pricing ou custo de entrega."
+        threshold: "30-40% net profit target"
+        weight: 0.90
+        chunk_ids: ["SETTERLUN-BD_003"]
+        source_ids: ["SETTERLUN-BD"]
+        application: "Pricing, estrutura de custos"
+
+      - id: "SO-HEU-003"
+        title: "Fulfillment Cost Allocation"
+        statement: "Percentual do revenue que deve ir para custos de fulfillment/entrega."
+        threshold: "60-70% do revenue em fulfillment"
+        weight: 0.85
+        chunk_ids: ["SETTERLUN-BD_003"]
+        source_ids: ["SETTERLUN-BD"]
+        application: "Estrutura de custos, precificação"
+
+      - id: "SO-HEU-004"
+        title: "Marketing/Sales Budget"
+        statement: "Percentual do revenue alocado para marketing e vendas."
+        threshold: "20-30% do revenue em marketing/sales"
+        weight: 0.85
+        chunk_ids: ["SETTERLUN-BD_003"]
+        source_ids: ["SETTERLUN-BD"]
+        application: "Orçamento, alocação de recursos"
+
+      - id: "SO-HEU-005"
+        title: "Client Break-even Timeline"
+        statement: "Tempo esperado para cliente atingir break-even do investimento."
+        threshold: "1-3 meses para break-even do cliente"
+        weight: 0.80
+        chunk_ids: ["SETTERLUN-BD_003"]
+        source_ids: ["SETTERLUN-BD"]
+        application: "Expectativa de resultados, pitch"
+
+      - id: "SO-HEU-006"
+        title: "University Pricing Model"
+        statement: "Modelo de pricing upfront alto justificado por ROI lifetime."
+        threshold: "$40-80k upfront; break-even 1-2 anos; retorno vitalício"
+        weight: 0.85
+        chunk_ids: ["SETTERLUN-OC_004"]
+        source_ids: ["SETTERLUN-OC"]
+        application: "High-ticket pricing, justificativa de valor"
+
+  # ==========================================================================
+  # L4: FRAMEWORKS (4 items)
+  # ==========================================================================
+  L4_FRAMEWORKS:
+    count: 4
+    items:
+
+      - id: "SO-FW-001"
+        title: "Bridge Analogy Framework"
+        statement: "Framework para estruturar qualquer oferta como uma ponte entre estados."
+        weight: 0.95
+        chunk_ids: ["SETTERLUN-OC_002", "SETTERLUN-OC_003"]
+        source_ids: ["SETTERLUN-OC"]
+        application: "Criação de ofertas, pitch, messaging"
+        components:
+          - name: "Current State"
+            description: "Onde o cliente está hoje (dor, problema)"
+          - name: "Desired State"
+            description: "Onde o cliente quer chegar (resultado)"
+          - name: "Bridge (Your Offer)"
+            description: "Como você leva do atual ao desejado"
+          - name: "Troll"
+            description: "Objeções que o prospect levanta"
+          - name: "Toll Booth"
+            description: "Seu preço (pedágio para cruzar)"
+          - name: "Competitors"
+            description: "Outras pontes (mesma travessia)"
+          - name: "Unique Mechanism"
+            description: "Por que SUA ponte é melhor"
+
+      - id: "SO-FW-002"
+        title: "Purple Ocean Framework"
+        statement: "Posicionamento que combina mercado provado com diferenciação única."
+        weight: 0.90
+        chunk_ids: ["SETTERLUN-PO_001", "SETTERLUN-PO_002"]
+        source_ids: ["SETTERLUN-PO"]
+        application: "Posicionamento, nicho, diferenciação"
+        components:
+          - name: "Red Ocean"
+            description: "Competição alta, demanda provada, difícil se destacar"
+          - name: "Blue Ocean"
+            description: "Único no mercado, precisa criar demanda, arriscado"
+          - name: "Purple Ocean"
+            description: "Red + Blue = diferenciado em mercado provado"
+        examples:
+          - "Tesla = Car + Electric"
+          - "iPhone = Phone + Smart"
+          - "Amazon = Store + Online"
+
+      - id: "SO-FW-003"
+        title: "3 Business Archetypes"
+        statement: "Três modelos de entrega com trade-offs distintos."
+        weight: 0.90
+        chunk_ids: ["SETTERLUN-BD_001"]
+        source_ids: ["SETTERLUN-BD"]
+        application: "Modelo de negócio, estrutura de entrega"
+        components:
+          - name: "DFY (Done For You)"
+            description: "Você faz tudo"
+            traits: "Maior preço, menor escala, requer expertise"
+          - name: "DWY (Done With You)"
+            description: "Você guia o processo"
+            traits: "Equilíbrio preço/escala, RECOMENDADO para agências"
+          - name: "DIY (Do It Yourself)"
+            description: "Cliente faz sozinho"
+            traits: "Menor preço, maior escala, cursos/SaaS"
+        recommendation: "DWY é o gold standard para agências e consultorias"
+
+      - id: "SO-FW-004"
+        title: "Pizza Strategy"
+        statement: "Método para encontrar o Purple Ocean através de tweak progressivo."
+        weight: 0.80
+        chunk_ids: ["SETTERLUN-PO_003"]
+        source_ids: ["SETTERLUN-PO"]
+        application: "Refinamento de nicho, messaging"
+        components:
+          - name: "Nivel 1 (Red)"
+            description: "Genérico (ex: 'Pizza')"
+            result: "Milhares de concorrentes"
+          - name: "Nivel 2 (Purple)"
+            description: "Tweak (ex: 'Wood-fired truffle pizza')"
+            result: "Diferenciado mas reconhecível - SWEET SPOT"
+          - name: "Nivel 3 (Blue)"
+            description: "Tweak demais (ex: 'Gourmet pizza for high-performing athletes')"
+            result: "Específico demais, difícil vender"
+
+  # ==========================================================================
+  # L5: METHODOLOGIES (2 items)
+  # ==========================================================================
+  L5_METHODOLOGIES:
+    count: 2
+    items:
+
+      - id: "SO-MET-001"
+        title: "Offer Creation via Bridge Analogy"
+        statement: "Processo para criar ofertas usando a Bridge Analogy."
+        weight: 0.90
+        chunk_ids: ["SETTERLUN-OC_002", "SETTERLUN-OC_003"]
+        source_ids: ["SETTERLUN-OC"]
+        application: "Criação de ofertas, estruturação de serviços"
+        steps:
+          - step: 1
+            name: "Definir Current State"
+            description: "Identificar exatamente onde o cliente está hoje (dor, problema, situação)"
+            success_criteria: "Cliente se reconhece na descrição"
+          - step: 2
+            name: "Definir Desired State"
+            description: "Identificar onde o cliente quer chegar (resultado, transformação)"
+            success_criteria: "Cliente deseja genuinamente esse estado"
+          - step: 3
+            name: "Construir a Bridge"
+            description: "Definir como sua oferta leva do atual ao desejado"
+            success_criteria: "Conexão clara entre oferta e resultado"
+          - step: 4
+            name: "Identificar o Troll"
+            description: "Mapear objeções que vão surgir"
+            success_criteria: "Respostas prontas para cada objeção"
+          - step: 5
+            name: "Definir o Toll"
+            description: "Precificar baseado no valor do resultado, não no custo"
+            success_criteria: "Preço justificado pelo valor entregue"
+          - step: 6
+            name: "Articular Unique Mechanism"
+            description: "Explicar por que SUA ponte é melhor que a dos competidores"
+            success_criteria: "Diferenciação clara e crível"
+
+      - id: "SO-MET-002"
+        title: "Purple Ocean Positioning"
+        statement: "Processo para encontrar posicionamento Purple Ocean."
+        weight: 0.85
+        chunk_ids: ["SETTERLUN-PO_001", "SETTERLUN-PO_002"]
+        source_ids: ["SETTERLUN-PO"]
+        application: "Posicionamento, nicho, diferenciação"
+        steps:
+          - step: 1
+            name: "Identificar Red Ocean"
+            description: "Mapear o mercado genérico onde você está"
+            success_criteria: "Categoria clara com competidores conhecidos"
+          - step: 2
+            name: "Aplicar Pizza Strategy"
+            description: "Fazer tweaks progressivos para diferenciar"
+            success_criteria: "Oferta diferenciada mas ainda reconhecível"
+          - step: 3
+            name: "Verificar Purple"
+            description: "Confirmar que é diferenciado E em mercado provado"
+            success_criteria: "Não precisa educar o mercado, mas se destaca"
+          - step: 4
+            name: "Evitar Blue Ocean"
+            description: "Garantir que não está específico demais"
+            success_criteria: "Demanda comprovada existe"
+
+# ==========================================================================
+# METADATA
+# ==========================================================================
+metadata:
+  format: "unified-dna-v1"
+  migrated_from: "legacy-5-file-format"
+  migration_date: "2026-03-02"
+  original_extraction: "2025-12-27"
+  protocol: "DNA-EXTRACTION-PROTOCOL v1.0"
+  pipeline: "Jarvis v2.1"
+  weight_average: 0.88
+  high_confidence_items: 21
+  sources:
+    - id: "SETTERLUN-OC"
+      title: "Offer Creation Module"
+      type: "course"
+    - id: "SETTERLUN-PO"
+      title: "Purple Ocean Positioning"
+      type: "course"
+    - id: "SETTERLUN-BD"
+      title: "Business Model Design"
+      type: "course"
+  tensions:
+    - source: "Alex Hormozi"
+      topic: "Modelo preferido"
+      sam_oven: "DWY"
+      other: "DFY"
+      type: "COMPLEMENTAR"
+    - source: "Alex Hormozi"
+      topic: "Framework de oferta"
+      sam_oven: "Bridge Analogy"
+      other: "Grand Slam Offer"
+      type: "COMPLEMENTAR"

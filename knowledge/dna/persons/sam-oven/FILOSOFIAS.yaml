@@ -1,0 +1,75 @@
+# FILOSOFIAS - SAM OVEN
+# Crencas fundamentais que guiam decisoes e aparecem 3+ vezes
+# Versao: 1.0.0 | Criado: 2025-12-27
+
+versao: "1.0.0"
+pessoa: "Sam Oven"
+camada: "FILOSOFIAS"
+total_itens: 5
+
+itens:
+  - id: "SO-FIL-001"
+    titulo: "Outcome-Driven Selling"
+    descricao: "Clientes compram resultados, não serviços. Ninguém quer 'consultoria de marketing' - quer mais clientes. O foco deve ser sempre no resultado final."
+    peso: 0.90
+    chunks:
+      - "SETTERLUN-OC_001"
+    fontes:
+      - "SETTERLUN-OC"
+    citacao: "Clients buy results, not services. Ninguém quer consultoria - quer o resultado."
+    aplicacao: "Pitch de vendas, criação de ofertas"
+
+  - id: "SO-FIL-002"
+    titulo: "Bridge Philosophy"
+    descricao: "Todo negócio é uma ponte entre o estado atual do cliente e o estado desejado. Features não importam - o que importa é se você leva o cliente de onde está para onde quer ir."
+    peso: 0.95
+    chunks:
+      - "SETTERLUN-OC_002"
+      - "SETTERLUN-OC_003"
+    fontes:
+      - "SETTERLUN-OC"
+    citacao: "O que o cliente quer saber: Você me leva de onde estou pra onde quero ir?"
+    aplicacao: "Estruturação de ofertas, comunicação de valor"
+
+  - id: "SO-FIL-003"
+    titulo: "Purple Ocean Mindset"
+    descricao: "Não reinvente a roda (Blue Ocean arriscado), diferente dentro do provado (Red Ocean lotado). Purple Ocean é a combinação: mercado provado + diferenciação única."
+    peso: 0.90
+    chunks:
+      - "SETTERLUN-PO_001"
+      - "SETTERLUN-PO_002"
+    fontes:
+      - "SETTERLUN-PO"
+    citacao: "Purple Ocean = proven market + unique differentiation. Best of both worlds."
+    aplicacao: "Posicionamento de mercado, nicho"
+
+  - id: "SO-FIL-004"
+    titulo: "Productizable Business"
+    descricao: "Oferta deve ser escalável e repetível. Se você precisa customizar tudo para cada cliente, você não tem empresa - tem emprego como freelancer."
+    peso: 0.85
+    chunks:
+      - "SETTERLUN-BD_001"
+    fontes:
+      - "SETTERLUN-BD"
+    citacao: "Se você precisa customizar tudo para cada cliente, você não tem empresa - tem emprego como freelancer."
+    aplicacao: "Estruturação de serviços, scaling"
+
+  - id: "SO-FIL-005"
+    titulo: "High-Leverage Focus"
+    descricao: "Só fazer o que move a agulha. 80/20 aplicado em tudo - foque nos 20% de atividades que geram 80% do resultado."
+    peso: 0.85
+    chunks:
+      - "SETTERLUN-BD_002"
+    fontes:
+      - "SETTERLUN-BD"
+    aplicacao: "Priorização, gestão de tempo, operações"
+
+metadados:
+  total_chunks_processados: 7
+  fontes_utilizadas:
+    - "SETTERLUN-OC"
+    - "SETTERLUN-PO"
+    - "SETTERLUN-BD"
+  peso_medio: 0.89
+  criado_em: "2025-12-27T00:00:00Z"
+  protocolo: "DNA-EXTRACTION-PROTOCOL v1.0"

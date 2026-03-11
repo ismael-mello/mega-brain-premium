@@ -1,0 +1,106 @@
+# CONFIG - JORDAN LEE DNA COGNITIVO
+# Arquivo central de configuração e metadados do DNA
+# Versao: 1.0.0 | Criado: 2025-12-27
+
+versao: "1.0.0"
+pessoa: "Jordan Lee"
+nome_canonico: "Jordan Lee"
+empresa: "AI Acquisition"
+localizacao: "Dubai (origem: Newcastle, UK)"
+
+# Padroes comportamentais identificados
+padroes_comportamentais:
+  - padrao: "Contratação de jovens com potencial"
+    frequencia: "ALTA"
+    evidencia: "CTO 21 anos, Head of Sales 25 anos, policy explícita"
+  - padrao: "Urgência extrema na resolução"
+    frequencia: "ALTA"
+    evidencia: "Cita Elon Musk e Bezos como exemplos"
+  - padrao: "AI-first approach"
+    frequencia: "ALTA"
+    evidencia: "SDRs e PMs substituídos por AI, AI Sales Call Analyzer"
+  - padrao: "High performance culture"
+    frequencia: "ALTA"
+    evidencia: "Eventos só para quem bate meta, sink or swim"
+
+# Sintese narrativa
+sintese_narrativa: |
+  Jordan Lee é fundador da AI Acquisition, uma empresa que escala de zero a $4-6M/mês
+  em cerca de 3 anos, bootstrapped. Sua filosofia central gira em torno de COMPETÊNCIA
+  sobre EXPERIÊNCIA, priorizando jovens com alto potencial de crescimento.
+
+  Seu framework diagnóstico People-Process-Management é usado para categorizar qualquer
+  problema de negócio antes de agir. A metodologia Do-Document-Delegate é aplicada para
+  escalar processos sem perder qualidade.
+
+  Destaca-se pelo uso intensivo de AI (substituindo SDRs e PMs, AI Sales Call Analyzer
+  para QC) e pela cultura de alta performance onde apenas quem bate meta participa de
+  eventos e benefícios especiais.
+
+# Estatisticas do DNA
+estatisticas:
+  filosofias: 6
+  modelos_mentais: 5
+  heuristicas: 8
+  frameworks: 4
+  metodologias: 3
+  total_itens: 26
+
+  peso_medio_geral: 0.86
+  itens_peso_acima_070: 26
+  percentual_alta_confianca: 100.0
+
+# Fontes utilizadas
+fontes:
+  processadas:
+    - source_id: "CJ001"
+      tipo: "podcast"
+      titulo: "Charlie Johnson Show - Jordan Lee Interview"
+    - source_id: "MT001"
+      tipo: "podcast"
+      titulo: "Max Tornow Podcast - Jordan Lee"
+    - source_id: "JL001"
+      tipo: "masterclass"
+      titulo: "Jordan Lee content"
+    - source_id: "JL002"
+      tipo: "masterclass"
+      titulo: "Jordan Lee content"
+    - source_id: "JL003"
+      tipo: "masterclass"
+      titulo: "Jordan Lee content"
+    - source_id: "JL004"
+      tipo: "masterclass"
+      titulo: "Jordan Lee content"
+    - source_id: "JL005"
+      tipo: "masterclass"
+      titulo: "Jordan Lee content"
+    - source_id: "JL006"
+      tipo: "masterclass"
+      titulo: "Jordan Lee content"
+    - source_id: "JL007"
+      tipo: "masterclass"
+      titulo: "Jordan Lee content"
+
+  dossier: "/knowledge/dossiers/persons/DOSSIER-JORDAN-LEE.md"
+  chunks_totais: 52
+
+# Relacionamentos
+relacionamentos:
+  parceiro: "Jacob Levine (50/50, Head of Marketing)"
+  cto: "Blaze (21 anos, polonês)"
+  head_sales: "Matt (25 anos, 38/39 close rate)"
+
+# Metadados de extração
+metadados:
+  criado_em: "2025-12-27T00:00:00Z"
+  atualizado_em: "2025-12-27T00:00:00Z"
+  protocolo: "DNA-EXTRACTION-PROTOCOL v1.0"
+  pipeline: "Jarvis v2.1"
+  extraido_por: "Claude Code"
+
+changelog:
+  - data: "2025-12-27T00:00:00Z"
+    acao: "Criação inicial do DNA"
+    fonte: "DOSSIER-JORDAN-LEE.md + INSIGHTS-STATE.json"
+    itens_adicionados: 26
+    versao: "1.0.0"

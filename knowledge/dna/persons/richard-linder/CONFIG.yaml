@@ -1,0 +1,125 @@
+# CONFIG - DNA COGNITIVO: RICHARD LINDER
+# Configuracao e metadados do DNA extraido
+# Versao: 1.0.0 | Criado: 2025-12-28
+
+versao: "1.0.0"
+pessoa: "Richard Linder"
+tipo: "person"
+status: "ATIVO"
+
+# ═══════════════════════════════════════════════════════════════════════════════
+# IDENTIDADE
+# ═══════════════════════════════════════════════════════════════════════════════
+
+identidade:
+  nome_completo: "Richard Linder"
+  empresa: "The Scalable Company"
+  cargo: "Co-fundador & Presidente"
+  expertise:
+    - "Hiring Methodology"
+    - "Executive Leadership"
+    - "Business Scaling"
+  track_record:
+    - "17 empresas iniciadas"
+    - "4 exits bem-sucedidos"
+    - "3 empresas na Inc. 500/5000 simultaneamente"
+    - "3,000+ clientes em 47+ paises"
+    - "21+ frameworks criados"
+  perfil:
+    mbti: "INTJ"
+    working_genius_alto: ["Discernment", "Tenacity"]
+    working_genius_baixo: ["Wonderment", "Enablement"]
+
+# ═══════════════════════════════════════════════════════════════════════════════
+# ESTATISTICAS DO DNA
+# ═══════════════════════════════════════════════════════════════════════════════
+
+estatisticas:
+  total_itens: 24
+  por_camada:
+    filosofias: 5
+    modelos_mentais: 4
+    heuristicas: 6
+    frameworks: 6
+    metodologias: 3
+  peso_medio_geral: 0.89
+  itens_peso_alto: 18  # peso >= 0.85
+  itens_com_threshold_numerico: 6
+
+# ═══════════════════════════════════════════════════════════════════════════════
+# PADROES COMPORTAMENTAIS
+# ═══════════════════════════════════════════════════════════════════════════════
+
+padroes:
+  filosofia_central: "Empresas se movem na velocidade do fundador - contratacao egoista e boa"
+  abordagem: "Founder First - otimizacao de energia do fundador, nao conformidade de RH"
+  decisao: "Hell Yes or No - binario, sem meios-termos"
+  comunicacao: "Direto, estruturado (1-3-1), sem fofoca"
+  origem_frameworks: "Nascido do fracasso, nao da teoria"
+
+# ═══════════════════════════════════════════════════════════════════════════════
+# SINTESE NARRATIVA
+# ═══════════════════════════════════════════════════════════════════════════════
+
+sintese:
+  tese_principal: |
+    O genio de Richard Linder esta em reformular contratacao como OTIMIZACAO DE ENERGIA
+    DO FUNDADOR, nao conformidade de RH. Quando a sabedoria convencional diz "contrate
+    grandes pessoas no papel e aprenda a trabalhar com elas", Richard diz "as empresas
+    se movem na velocidade do fundador - contrate pessoas que amplifiquem SUA capacidade,
+    nao a drenem."
+
+  mudanca_paradigma: |
+    Contratacao egoista para compatibilidade do fundador e BOA, nao ruim. Quando a equipe
+    energiza o fundador, o fundador energiza a equipe - criando energia excedente para
+    crescimento, nao deficit de atrito.
+
+  desbloqueio_central: |
+    Confianca nao e descoberta atraves de tracos abstratos. E engenharia reversa das
+    pessoas em quem voce JA confia. Para quem voce entrega as coisas? Quem voce liga
+    para fazer brainstorm? Extraia seus tracos comuns. Esses se tornam seus nao-negociaveis
+    de contratacao. Depois faca o inverso: quem drena voce? Extraia esses anti-padroes.
+
+  frameworks_distintivos:
+    - "Hell Yes or No - decisao binaria sem 7s"
+    - "Trust Builders/Breakers - engenharia reversa de confianca"
+    - "1-3-1 Escalation - problema + 3 solucoes + 1 recomendacao"
+    - "Fofoca Morre Aqui - confronto imediato"
+    - "8 Limitadores de Escala - diagnostico de problemas"
+
+# ═══════════════════════════════════════════════════════════════════════════════
+# FONTES E RASTREABILIDADE
+# ═══════════════════════════════════════════════════════════════════════════════
+
+fontes:
+  - id: "RL001"
+    titulo: "Founder First Hiring"
+    tipo: "lecture"
+    data: "2023-05"
+    empresa: "The Scalable Company"
+    chunks_extraidos: 24
+
+# ═══════════════════════════════════════════════════════════════════════════════
+# METADADOS DE EXTRACAO
+# ═══════════════════════════════════════════════════════════════════════════════
+
+metadados:
+  criado_em: "2025-12-28T00:00:00Z"
+  atualizado_em: "2025-12-28T00:00:00Z"
+  protocolo: "DNA-EXTRACTION-PROTOCOL v1.0"
+  dossier_fonte: "DOSSIER-RICHARD-LINDER.md"
+  densidade_dossier: "4/5"
+  extrator: "Claude Opus 4.5"
+  validado: false
+
+# ═══════════════════════════════════════════════════════════════════════════════
+# ARQUIVOS DO DNA
+# ═══════════════════════════════════════════════════════════════════════════════
+
+arquivos:
+  - "CONFIG.yaml"
+  - "FILOSOFIAS.yaml"
+  - "MODELOS-MENTAIS.yaml"
+  - "HEURISTICAS.yaml"
+  - "FRAMEWORKS.yaml"
+  - "METODOLOGIAS.yaml"

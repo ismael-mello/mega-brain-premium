@@ -1,0 +1,385 @@
+# FILOSOFIAS - JEREMY HAYNES
+# Crencas fundamentais que aparecem 3+ vezes em contextos diferentes
+# Versao: 2.0.0 | Atualizado: 2026-01-10 | Fase 5 Consolidation
+
+versao: "2.0.0"
+pessoa: "Jeremy Haynes"
+camada: "FILOSOFIAS"
+total_itens: 39
+
+itens:
+  # ═══════════════════════════════════════════════════════════════
+  # PRICING & VALOR
+  # ═══════════════════════════════════════════════════════════════
+  - id: "JH-FIL-001"
+    titulo: "Recurring Superior a Transactional"
+    descricao: "Recurring high-ticket e superior ao transactional. Mas so funciona se entregar valor que exceda preco a cada 30 dias."
+    peso: 0.95
+    chunks: ["JH001_001"]
+    fontes: ["JH001"]
+    aplicacao: "Estruturacao de oferta, modelo de receita"
+    citacao: "You want to charge somebody every 30 days, you have to exceed the value of what they paid."
+
+  - id: "JH-FIL-002"
+    titulo: "Fair Pricing"
+    descricao: "Fair Pricing nao e cobrar o maximo. E criar troca onde ambas partes reconhecem valor > custo."
+    peso: 0.95
+    chunks: ["JH001_002"]
+    fontes: ["JH001"]
+    aplicacao: "Precificacao, proposta de valor"
+    citacao: "Whatever you are going to charge, you have to be able to EXCEED the value of what that counterparty is getting from it BEFORE the next charge comes."
+
+  - id: "JH-FIL-003"
+    titulo: "Consumption Rate Theory"
+    descricao: "Preco alto = Skin in the game = Implementacao rapida = Resultado. Cobrar barato e desservico."
+    peso: 0.90
+    chunks: ["JH001_003"]
+    fontes: ["JH001"]
+    aplicacao: "Justificativa etica para preco alto"
+    citacao: "I deeply believe that I think you're actually doing a big disservice to people by only charging them a one-time transactional amount."
+
+  - id: "JH-FIL-004"
+    titulo: "Pricing = Certeza do Sistema"
+    descricao: "Preco e reflexo da certeza do seu sistema para produzir resultados. Subir conforme certeza aumenta."
+    peso: 0.90
+    chunks: ["JH001_004"]
+    fontes: ["JH001"]
+    aplicacao: "Jornada de pricing, quando subir preco"
+    citacao: "Pricing is reflected with the certainty of your system for producing those ongoing results."
+
+  - id: "JH-FIL-005"
+    titulo: "What You Charge = Your Identity"
+    descricao: "O preco que voce cobra e um reflexo direto da sua identidade e autoconceito como profissional."
+    peso: 0.90
+    chunks: ["JH068_012"]
+    fontes: ["BATCH-068"]
+    aplicacao: "Mentalidade de pricing, posicionamento"
+    citacao: "What you charge is a reflection of your identity."
+
+  # ═══════════════════════════════════════════════════════════════
+  # SALES
+  # ═══════════════════════════════════════════════════════════════
+  - id: "JH-FIL-006"
+    titulo: "Convincing vs Persuading"
+    descricao: "Convincing e para SEU beneficio. Persuading e para o beneficio DELES. Venda etica e persuasao."
+    peso: 0.95
+    chunks: ["JH072_003"]
+    fontes: ["BATCH-072"]
+    aplicacao: "Etica em vendas, abordagem consultiva"
+    citacao: "Convincing = for MY benefit. Persuading = for THEIR benefit."
+
+  - id: "JH-FIL-007"
+    titulo: "Results are EFFECT not CAUSE"
+    descricao: "Resultados sao EFEITO, nao CAUSA. Foque nos inputs corretos e resultados virao."
+    peso: 0.90
+    chunks: ["JH074_008"]
+    fontes: ["BATCH-074"]
+    aplicacao: "Mentalidade de vendas, foco em processo"
+    citacao: "Results are an EFFECT, not a CAUSE."
+
+  - id: "JH-FIL-008"
+    titulo: "Secret Shopping > All Training"
+    descricao: "Secret shopping (comprar de concorrentes) supera qualquer outro metodo de treinamento de vendas."
+    peso: 0.95
+    chunks: ["JH078_015"]
+    fontes: ["BATCH-078"]
+    aplicacao: "Treinamento de vendas, competitive intelligence"
+    citacao: "Secret Shopping > all other training methods."
+
+  # ═══════════════════════════════════════════════════════════════
+  # MARKETING
+  # ═══════════════════════════════════════════════════════════════
+  - id: "JH-FIL-009"
+    titulo: "Consumer Behavior Shifted"
+    descricao: "Comportamento do consumidor mudou - estao cansados de VSLs tradicionais. Adapte-se."
+    peso: 0.90
+    chunks: ["JH069_004"]
+    fontes: ["BATCH-069"]
+    aplicacao: "Estrategia de funil, formato de conteudo"
+    citacao: "Consumer behavior shifted - fed up with VSLs."
+
+  - id: "JH-FIL-010"
+    titulo: "Creative Hit Rate Reality"
+    descricao: "Hit rate de criativos abaixo de 10% e NORMAL. Sucesso vem de VOLUME, nao de acertar sempre."
+    peso: 0.90
+    chunks: ["JH070_006"]
+    fontes: ["BATCH-070"]
+    aplicacao: "Producao de criativos, expectativas"
+    citacao: "Creative hit rate sub-10% is normal—build volume."
+
+  - id: "JH-FIL-011"
+    titulo: "Hydra Philosophy"
+    descricao: "Martelar o lead ate comprar ou descadastrar. Nao ha meio termo. Follow-up agressivo."
+    peso: 0.95
+    chunks: ["JH068_008"]
+    fontes: ["BATCH-068"]
+    aplicacao: "Follow-up, nurturing, persistencia"
+    citacao: "Hydra: hammer until they buy or unsubscribe."
+
+  - id: "JH-FIL-012"
+    titulo: "Follow-Up Heals Everything"
+    descricao: "Follow-up literalmente cura tudo. Qualquer problema no funil pode ser resolvido com mais follow-up."
+    peso: 0.95
+    chunks: ["JH076_011"]
+    fontes: ["BATCH-076"]
+    aplicacao: "Estrategia de vendas, recuperacao de leads"
+    citacao: "Follow-up literally heals everything."
+
+  # ═══════════════════════════════════════════════════════════════
+  # BUSINESS
+  # ═══════════════════════════════════════════════════════════════
+  - id: "JH-FIL-013"
+    titulo: "Redundancies Principle"
+    descricao: "Redundancias = se um canal quebrar, voce ainda nao esta ferrado. Diversifique."
+    peso: 0.90
+    chunks: ["JH080_002"]
+    fontes: ["BATCH-080"]
+    aplicacao: "Gestao de risco, diversificacao"
+    citacao: "Redundancies = if one gets fucked, still not fucked."
+
+  - id: "JH-FIL-014"
+    titulo: "MRR Enterprise Value"
+    descricao: "Cada $1 de MRR adiciona $50-80 de enterprise value. MRR e o multiplicador."
+    peso: 0.95
+    chunks: ["JH082_004"]
+    fontes: ["BATCH-082"]
+    aplicacao: "Valuation, exit strategy, modelo de receita"
+    citacao: "Every $1 MRR adds $50-80 enterprise value."
+
+  - id: "JH-FIL-015"
+    titulo: "School Conditioning"
+    descricao: "Escola condicionou pessoas a vender tempo, nao valor. Desaprender isso e o primeiro passo."
+    peso: 0.85
+    chunks: ["JH084_003"]
+    fontes: ["BATCH-084"]
+    aplicacao: "Mentalidade de precificacao, value-based"
+    citacao: "School conditioned people to sell time, not value."
+
+  # ═══════════════════════════════════════════════════════════════
+  # MINDSET
+  # ═══════════════════════════════════════════════════════════════
+  - id: "JH-FIL-016"
+    titulo: "Time Collapsing Mindset"
+    descricao: "Gun to head - 7 dias para atingir meta de 90 dias. O que voce faria?"
+    peso: 0.95
+    chunks: ["JH079_001"]
+    fontes: ["BATCH-079"]
+    aplicacao: "Produtividade, urgencia, priorizacao"
+    citacao: "Gun to head, 7 days to achieve 90-day goal."
+
+  - id: "JH-FIL-017"
+    titulo: "Niche Will Get You Rich"
+    descricao: "NICHO VAI TE ENRIQUECER - inch wide, mile deep. Especializacao supera generalizacao."
+    peso: 0.95
+    chunks: ["JH081_007"]
+    fontes: ["BATCH-081"]
+    aplicacao: "Posicionamento, especializacao"
+    citacao: "NICHE WILL GET YOU RICH - inch wide, mile deep."
+
+  - id: "JH-FIL-018"
+    titulo: "Different > Better"
+    descricao: "Ser DIFERENTE e melhor do que ser MELHOR. Diferenciacao supera competicao direta."
+    peso: 0.90
+    chunks: ["JH083_005"]
+    fontes: ["BATCH-083"]
+    aplicacao: "Posicionamento, branding, USP"
+    citacao: "Different is better than better."
+
+  - id: "JH-FIL-019"
+    titulo: "Selective Attention"
+    descricao: "Voce so consegue ver o que escolhe ver. Atencao seletiva determina realidade."
+    peso: 0.85
+    chunks: ["JH075_009"]
+    fontes: ["BATCH-075"]
+    aplicacao: "Mindset, foco, percepcao"
+    citacao: "You can only see what you choose to see."
+
+  # ═══════════════════════════════════════════════════════════════
+  # AD STRATEGY
+  # ═══════════════════════════════════════════════════════════════
+  - id: "JH-FIL-020"
+    titulo: "Andromeda Era"
+    descricao: "Estamos na era Andromeda - 50+ criativos por semana vs 3-4 do passado. Volume e rei."
+    peso: 0.90
+    chunks: ["JH071_002"]
+    fontes: ["BATCH-071"]
+    aplicacao: "Producao de criativos, scaling"
+    citacao: "Andromeda Algorithm demands 50+ creatives/week vs old 3-4/week."
+
+  - id: "JH-FIL-021"
+    titulo: "DSL > VSL"
+    descricao: "Deck Sales Letter supera VSL em 2024+. 77% chegam ao slide 5 vs 5-9% clicam play no VSL."
+    peso: 0.95
+    chunks: ["JH077_014"]
+    fontes: ["BATCH-077"]
+    aplicacao: "Formato de funil, conversao"
+    citacao: "DSL gets 77% to slide 5 vs VSL 5-9% press play."
+
+  - id: "JH-FIL-022"
+    titulo: "Pentagon Solution Era"
+    descricao: "AI reputation management e obrigatorio. 5 areas de ataque: Reddit, Trustpilot, Press, Blogs, Authority."
+    peso: 0.90
+    chunks: ["JH073_006"]
+    fontes: ["BATCH-073"]
+    aplicacao: "Reputacao online, AI, PR"
+    citacao: "Pentagon Solution: 5-area AI attack for reputation."
+
+  # ═══════════════════════════════════════════════════════════════
+  # 30-DAY CHALLENGE (30DC) - Merged 2026-03-03
+  # ═══════════════════════════════════════════════════════════════
+  - id: "JH-FIL-023"
+    titulo: "100 Per Day Is Discipline Not Goal"
+    descricao: "Hitting 100 outreach communications per day is not a goal to aspire to - it is a non-negotiable discipline. Goals can be missed; disciplines cannot. Anything below 100 is an F grade. 99 is failure. Only 100 is acceptable."
+    peso: 0.95
+    citacao: "It's a discipline. It's not a goal. Hit a 100 per day. Do not come to your teacher and say something like, 'Oh, hey Jeremy. I hit like 70 the other day.' Cool. You got a C, C minus."
+    aplicacao: "Daily outreach volume, sales team accountability, personal standards"
+    fonte: "[30DC-0016] 16 - DAY 16..txt"
+
+  - id: "JH-FIL-024"
+    titulo: "Data Machine Identity"
+    descricao: "A salesperson must see themselves as a data machine - constantly acquiring, analyzing, and leveraging data about prospects. Every interaction, every website visit, every social media check is data acquisition. This data becomes your weapon, your conversation starter, and your credibility."
+    peso: 0.90
+    citacao: "Figure all this stuff out. Get the data because as you acquire data, you get a heightened viewpoint on all this stuff. You're a data machine."
+    aplicacao: "Prospect research, outreach personalization, building credibility"
+    fonte: "[30DC-0005] 5 - DAY 5.txt"
+
+  - id: "JH-FIL-025"
+    titulo: "Don't Disrespect The Mentor"
+    descricao: "Not executing on what you've been taught is the ultimate form of disrespect to the mentor. If you have access to proven systems and processes and still don't hit your numbers, you are demonstrating that you don't value the knowledge."
+    peso: 0.85
+    citacao: "Don't disrespect the mentor. It's the number one way to show me that you don't give a fuck about what it is that I'm talking about by not actually hitting 100 per day."
+    aplicacao: "Coaching accountability, student commitment, mentorship programs"
+    fonte: "[30DC-0016] 16 - DAY 16..txt"
+
+  - id: "JH-FIL-026"
+    titulo: "Vital Lies Blind Spots"
+    descricao: "From the book 'Vital Lies, Simple Truths' - humans create psychological blind spots around painful experiences. After experiencing pain, the mind buries and almost erases the memory, creating solidified beliefs about why to avoid that thing. Salespeople use these self-created blind spots as justifications for not hitting numbers."
+    peso: 0.85
+    citacao: "Vitalizing simple truths will show you from a psychological perspective that there's blind spots within our memory. If we go through something and we experience any kind of pain through it, our own psychology will not only bury it, it will almost erase it."
+    aplicacao: "Overcoming sales call reluctance, eliminating excuses, self-awareness"
+    fonte: "[30DC-0004] 4 - DAY 4..txt"
+
+  - id: "JH-FIL-027"
+    titulo: "Human To Human (H2H)"
+    descricao: "Sales is not B2B or B2C - it's H2H: Human to Human. Every communication cycle is between two people. Humor, authenticity, and genuine care must be present in follow-up. Don't let prospects think you're just trying to monger their money."
+    peso: 0.88
+    citacao: "It's not B2B. It's not B TO C. It's H2H. It's human to human. You're trying to have fun. Don't just let these other people think you're going to monger them and try to take money from them."
+    aplicacao: "Follow-up strategy, prospect communication, relationship building"
+    fonte: "[30DC-0020] 20 - DAY 20..txt"
+
+  - id: "JH-FIL-028"
+    titulo: "Comfortability Is The Enemy"
+    descricao: "Once you start cashing out and getting results, comfort becomes your biggest threat. The moment you feel comfortable, your output drops. Sustained high performance requires fighting the natural tendency to ease off after wins."
+    peso: 0.88
+    citacao: "If you've already cashed out a little bit from the 30-day challenge... you will need to know comfortability is your enemy."
+    aplicacao: "Post-close motivation, scaling behavior, avoiding plateaus"
+    fonte: "[30DC-0022] 22 - DAY 22..txt"
+
+  - id: "JH-FIL-029"
+    titulo: "Attention Is The Base Of Everything"
+    descricao: "Every business in history is built on attention. Without attention, nothing else works. Even the attention of one person could get you to a billion dollars. Attention is the base of the pricing pyramid - the widest layer where the most people can occupy."
+    peso: 0.90
+    citacao: "Any business in the entirety of any business ever is built on attention. Meaning you literally cannot go up in life at all whatsoever in a business without attention."
+    aplicacao: "Business fundamentals, pricing strategy, lead generation priority"
+    fonte: "[30DC-0013] 13- DAY 13..txt"
+
+  - id: "JH-FIL-030"
+    titulo: "Multi-Purpose Action Efficiency"
+    descricao: "Never do anything for just one reason. Every action should serve multiple purposes simultaneously. A 'Steps to Result' document serves internal staff, external clients, AND outsourcing partners. This multiplied utility is itself an efficiency."
+    peso: 0.85
+    citacao: "I don't just do things for one reason because that's an efficiency in itself. I do things for multiple reasons because you have to have a multi-purpose action."
+    aplicacao: "Process design, asset creation, operational efficiency"
+    fonte: "[30DC-0015] 15 - DAY 15.txt"
+
+  # ═══════════════════════════════════════════════════════════════
+  # CLIENT ACCELERATOR + PCVP (CA) - Merged 2026-03-03
+  # ═══════════════════════════════════════════════════════════════
+  - id: "JH-FIL-031"
+    titulo: "Downside First Investing"
+    descricao: "Antes de qualquer investimento ou decisao de negocios, calcule e mitigue o downside primeiro. Se voce sabe o pior cenario e consegue viver com ele, a decisao se torna muito mais clara."
+    peso: 0.92
+    citacao: "One of the big things that I think has helped me be successful in life is I always look at my downside. Okay, so what is my downside on anything?"
+    aplicacao: "Decisoes de investimento, contratacao, lancamento de campanhas, scaling"
+    fonte: "[CA-0011] 2 - CHERRINGTON MEDIA LAUNCH PLAN.txt"
+
+  - id: "JH-FIL-032"
+    titulo: "Documentation Over Memory"
+    descricao: "Documentar todos os processos operacionais e criar sistemas escritos para duplicacao rapida de skills. Quando nao se documenta, cria-se um caos que leva muito tempo para resolver."
+    peso: 0.90
+    citacao: "I document and I record all my operational processes so I can give them out to my staff to have easy duplicated skills rapidly picked up by the rest of my team."
+    aplicacao: "Onboarding, scaling de equipe, operacoes de agencia"
+    fonte: "[PCVP-0001] 1. POWER OF COLD VIDEO..txt"
+
+  - id: "JH-FIL-033"
+    titulo: "Objectivity Over Subjectivity in Management"
+    descricao: "Tudo em gestao deve ser objetivo, nao subjetivo. Sem metricas claras e KPIs definidos, voce nao consegue dizer a alguem se esta fazendo um bom trabalho ou nao."
+    peso: 0.91
+    citacao: "I'm a very big proponent on everything being objective from a management standpoint and then from a tracking standpoint."
+    aplicacao: "Gestao de equipe, avaliacao de performance, media buying"
+    fonte: "[CA-0013] 4. DEEP DIVE - LAUNCH PLAN TEMPLATE.txt"
+
+  - id: "JH-FIL-034"
+    titulo: "Strategy Over Tactics in Marketing"
+    descricao: "Nao e necessariamente media buying que vai ser o maior needle mover. Entender os metrics, saber quais alavancas puxar, e ter visao estrategica importa mais do que ser o melhor executante tatico."
+    peso: 0.88
+    citacao: "When I first got started, I wasn't that great of a marketer. But I understood the metrics, I understood what levers to pull."
+    aplicacao: "Media buying, planejamento de campanhas, crescimento de agencia"
+    fonte: "[CA-0013] 4. DEEP DIVE - LAUNCH PLAN TEMPLATE.txt"
+
+  - id: "JH-FIL-035"
+    titulo: "Thumbnails Are Psychological Assets"
+    descricao: "Thumbnails nao sao decoracao ou afterthought. Sao ativos psicologicos estrategicos que determinam se o trabalho duro de criar conteudo vai realmente chegar a uma audiencia."
+    peso: 0.85
+    citacao: "Thumbnails are not decorations - they're psychological triggers designed to interrupt patterns and create irresistible curiosity."
+    aplicacao: "Creative strategy, YouTube ads, Facebook ads, organic content"
+    fonte: "[CA-0016] 2. THUMBNAIL PSYCHOLOGY GUIDE.txt"
+
+  - id: "JH-FIL-036"
+    titulo: "Show Don't Tell in Sales"
+    descricao: "Em pitches de venda, demonstrar visualmente o processo e muito mais poderoso do que apenas falar sobre ele. Ter tudo preparado e aberto, fazer transicoes rapidas entre tabs, e mostrar resultados reais na tela cria mais credibilidade do que qualquer claim verbal."
+    peso: 0.89
+    citacao: "Everything that I'm showing I'm making sure that I show and visually demonstrate rather than just talk about it."
+    aplicacao: "Cold video pitches, sales presentations, client onboarding"
+    fonte: "[PCVP-0002] 2. SELLING ADVERTISING..txt"
+
+  - id: "JH-FIL-037"
+    titulo: "Empower Before You Sell"
+    descricao: "Antes de vender seu servico, empodere o prospect mostrando que ele pode fazer sozinho. Quando voce diz 'seu time pode implementar isso', voce remove a barreira de resistencia e o prospect te ve como alguem que realmente quer ajudar."
+    peso: 0.87
+    citacao: "All this stuff that I'm going to talk about, Dan, you can do yourself. I'm empowering him and his team to be able to do this."
+    aplicacao: "Cold outreach, video pitches, consultoria, agency sales"
+    fonte: "[PCVP-0002] 2. SELLING ADVERTISING..txt"
+
+  - id: "JH-FIL-038"
+    titulo: "Ethical Clickability"
+    descricao: "O objetivo de um bom creative/thumbnail nao e enganar alguem para clicar - e convidar alguem que genuinamente vai se beneficiar do conteudo. Curiosidade respeitosa, nao manipulacao."
+    peso: 0.86
+    citacao: "Your thumbnail's job is to identify people who will genuinely benefit from your content and make it irresistible for them to click."
+    aplicacao: "Ad creative strategy, content marketing, thumbnail design"
+    fonte: "[CA-0016] 2. THUMBNAIL PSYCHOLOGY GUIDE.txt"
+
+  - id: "JH-FIL-039"
+    titulo: "Underpromise, Overdeliver"
+    descricao: "Sempre prometer MENOS do que voce sabe que pode entregar. Se o fornecedor garante 550+ canais de distribuicao, prometa 300-400 ao cliente. Quando voce excede expectativas, o cliente fica encantado e se torna evangelista."
+    peso: 0.88
+    citacao: "They guarantee 550 plus channels. What I would suggest doing is you tell the person, 'Hey, I'm going to get you on 300 to 400 channels.'"
+    aplicacao: "Client management, service delivery, agency positioning, reselling"
+    fonte: "[PCVP-0013] 13. PR SERVICES..txt"
+
+metadados:
+  total_chunks_processados: 39
+  batches_fonte: ["BATCH-068", "BATCH-069", "BATCH-070", "BATCH-071", "BATCH-072", "BATCH-073", "BATCH-074", "BATCH-075", "BATCH-076", "BATCH-077", "BATCH-078", "BATCH-079", "BATCH-080", "BATCH-081", "BATCH-082", "BATCH-083", "BATCH-084", "30DC", "CA", "PCVP"]
+  peso_medio: 0.90
+  criado_em: "2025-12-28T00:00:00Z"
+  atualizado_em: "2026-03-03T00:00:00Z"
+  protocolo: "DNA-EXTRACTION-PROTOCOL v2.0"
+  fase: "Phase 5 Consolidation"
+  changelog:
+    - data: "2026-03-03T00:00:00Z"
+      acao: "Merge 30DC (8 filosofias) + CA/PCVP (9 filosofias) = 17 novas, total 39"
+      fonte: "30DC-NEW-ELEMENTS.yaml + CA-NEW-ELEMENTS.yaml"
+      versao: "3.0.0"
+    - data: "2026-01-10T17:30:00Z"
+      acao: "Enriquecimento Fase 5 - 18 filosofias adicionadas"
+      fonte: "SOURCE-JH.md + BATCH-068 a BATCH-084"
+      versao: "2.0.0"

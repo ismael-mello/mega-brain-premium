@@ -1,0 +1,723 @@
+# HEURISTICAS - JEREMY HAYNES
+# Regras com THRESHOLD NUMERICO no formato "Se X entao Y"
+# Versao: 3.0.0 | Atualizado: 2026-03-03 | Fase 5 + 30DC/CA Merge
+
+versao: "3.0.0"
+pessoa: "Jeremy Haynes"
+camada: "HEURISTICAS"
+total_itens: 63
+
+itens:
+  # ═══════════════════════════════════════════════════════════════
+  # REVENUE METRICS ★★★★★
+  # ═══════════════════════════════════════════════════════════════
+  - id: "JH-HEU-001"
+    titulo: "$734K em 7 dias BFCM"
+    descricao: "Black Friday/Cyber Monday: $734K em 7 dias com $83K de ad spend."
+    peso: 0.98
+    chunks: ["JH076_001"]
+    fontes: ["BATCH-076"]
+    regra: "SE BFCM bem executado ENTAO $734K em 7 dias possivel"
+    threshold: "$734K revenue / $83K spend = ~9x ROAS"
+    aplicacao: "Planejamento BFCM, scaling"
+    rating: "★★★★★"
+
+  - id: "JH-HEU-002"
+    titulo: "$12M em 3.5 meses Mini Webinar 2.0"
+    descricao: "Resultado do Mini Webinar 2.0: $12M em 3.5 meses."
+    peso: 0.98
+    chunks: ["JH075_002"]
+    fontes: ["BATCH-075"]
+    regra: "SE Mini Webinar 2.0 bem estruturado ENTAO $12M em 3.5 meses possivel"
+    threshold: "$12M / 3.5 meses = ~$3.4M/mes"
+    aplicacao: "Webinar strategy, high-ticket"
+    rating: "★★★★★"
+
+  - id: "JH-HEU-003"
+    titulo: "$0 para $1M/mes em 2 meses"
+    descricao: "Time Collapsing: De $0 para $1M/mes em apenas 2 meses."
+    peso: 0.95
+    chunks: ["JH079_003"]
+    fontes: ["BATCH-079"]
+    regra: "SE Time Collapsing aplicado ENTAO $0→$1M/mes em 2 meses possivel"
+    threshold: "$0 → $1M/mes em 60 dias"
+    aplicacao: "Escala rapida, urgencia"
+    rating: "★★★★★"
+
+  - id: "JH-HEU-004"
+    titulo: "285x ROAS TikTok"
+    descricao: "TikTok Ads: $500 de spend gerou $210K em vendas = 285x ROAS."
+    peso: 0.95
+    chunks: ["JH074_004"]
+    fontes: ["BATCH-074"]
+    regra: "SE TikTok Ads bem executado ENTAO 285x ROAS possivel"
+    threshold: "$500 spend → $210K revenue = 285x"
+    aplicacao: "TikTok strategy, viral"
+    rating: "★★★★★"
+
+  - id: "JH-HEU-005"
+    titulo: "48x ROAS + 67.8% Close Rate"
+    descricao: "Caso Ron: 48x ROAS com 67.8% de close rate."
+    peso: 0.95
+    chunks: ["JH078_005"]
+    fontes: ["BATCH-078"]
+    regra: "SE funil otimizado ENTAO 48x ROAS + 67.8% close rate possivel"
+    threshold: "48x ROAS, 67.8% close rate"
+    aplicacao: "Benchmark de excelencia"
+    rating: "★★★★★"
+
+  # ═══════════════════════════════════════════════════════════════
+  # AD & FUNNEL METRICS ★★★★★
+  # ═══════════════════════════════════════════════════════════════
+  - id: "JH-HEU-006"
+    titulo: "DSL 77% vs VSL 5-9%"
+    descricao: "DSL: 77% chegam ao slide 5. VSL: apenas 5-9% clicam play."
+    peso: 0.98
+    chunks: ["JH077_006"]
+    fontes: ["BATCH-077"]
+    regra: "SE usar DSL em vez de VSL ENTAO 77% engagement vs 5-9%"
+    threshold: "77% reach slide 5 vs 5-9% press play"
+    aplicacao: "Formato de funil, conversao"
+    rating: "★★★★★"
+
+  - id: "JH-HEU-007"
+    titulo: "Cost per Call DSL vs VSL"
+    descricao: "DSL: $30-80 por call. VSL: $90-120 por call."
+    peso: 0.95
+    chunks: ["JH077_007"]
+    fontes: ["BATCH-077"]
+    regra: "SE usar DSL ENTAO cost per call $30-80 vs $90-120"
+    threshold: "DSL: $30-80 | VSL: $90-120"
+    aplicacao: "Orcamento, ROI"
+    rating: "★★★★★"
+
+  - id: "JH-HEU-008"
+    titulo: "50+ criativos/semana Andromeda"
+    descricao: "Era Andromeda: 50+ criativos/semana vs 3-4 do passado."
+    peso: 0.95
+    chunks: ["JH073_008"]
+    fontes: ["BATCH-073"]
+    regra: "SE na era Andromeda ENTAO 50+ criativos/semana necessarios"
+    threshold: "50+ vs 3-4 criativos/semana"
+    aplicacao: "Producao de criativos"
+    rating: "★★★★★"
+
+  - id: "JH-HEU-009"
+    titulo: "6-7% hit rate realista"
+    descricao: "Hit rate de criativos: 6-7% e realista, sub-10% e normal."
+    peso: 0.90
+    chunks: ["JH070_009"]
+    fontes: ["BATCH-070"]
+    regra: "SE produzindo volume ENTAO 6-7% hit rate e realista"
+    threshold: "6-7% hit rate (sub-10% normal)"
+    aplicacao: "Expectativas, volume"
+    rating: "★★★★★"
+
+  - id: "JH-HEU-010"
+    titulo: "40K+ responses Break Glass"
+    descricao: "'Sent From iPhone' em email: 40K+ responses."
+    peso: 0.95
+    chunks: ["JH080_010"]
+    fontes: ["BATCH-080"]
+    regra: "SE usar 'Sent From iPhone' signature ENTAO 40K+ responses possivel"
+    threshold: "40K+ responses"
+    aplicacao: "Email, re-engagement"
+    rating: "★★★★★"
+
+  # ═══════════════════════════════════════════════════════════════
+  # BUSINESS METRICS ★★★★★
+  # ═══════════════════════════════════════════════════════════════
+  - id: "JH-HEU-011"
+    titulo: "Amazon $3M/minuto"
+    descricao: "Amazon fatura $3M por minuto. Benchmark de escala."
+    peso: 0.85
+    chunks: ["JH082_011"]
+    fontes: ["BATCH-082"]
+    regra: "SE e-commerce em escala ENTAO $3M/minuto e o topo"
+    threshold: "$3M/minuto"
+    aplicacao: "Benchmark, perspectiva"
+    rating: "★★★★★"
+
+  - id: "JH-HEU-012"
+    titulo: "$2M+ EBITDA para IB"
+    descricao: "Investment Banking: Interessam-se a partir de $2M+ EBITDA."
+    peso: 0.95
+    chunks: ["JH084_012"]
+    fontes: ["BATCH-084"]
+    regra: "SE EBITDA >= $2M ENTAO Investment Bankers interessados"
+    threshold: "$2M+ EBITDA"
+    aplicacao: "Exit strategy, M&A"
+    rating: "★★★★★"
+
+  - id: "JH-HEU-013"
+    titulo: "$1 MRR = $50-80 Enterprise Value"
+    descricao: "Cada $1 de MRR adiciona $50-80 de enterprise value."
+    peso: 0.95
+    chunks: ["JH082_013"]
+    fontes: ["BATCH-082"]
+    regra: "SE construir MRR ENTAO cada $1 = $50-80 enterprise value"
+    threshold: "$1 MRR = $50-80 EV"
+    aplicacao: "Valuation, modelo de receita"
+    rating: "★★★★★"
+
+  - id: "JH-HEU-014"
+    titulo: "33% stick, 33% duds, 33% burnout"
+    descricao: "Apos 90 dias: 33% performam, 33% sao ruins, 33% dão burnout."
+    peso: 0.90
+    chunks: ["JH083_014"]
+    fontes: ["BATCH-083"]
+    regra: "SE contratar ENTAO 33% stick, 33% duds, 33% burnout apos 90 dias"
+    threshold: "33%/33%/33% em 90 dias"
+    aplicacao: "Hiring, expectativas"
+    rating: "★★★★★"
+
+  - id: "JH-HEU-015"
+    titulo: "$150K average funding approval"
+    descricao: "Funding para negocios: $150K e a aprovacao media."
+    peso: 0.85
+    chunks: ["JH081_015"]
+    fontes: ["BATCH-081"]
+    regra: "SE buscar funding ENTAO $150K e aprovacao media"
+    threshold: "$150K average"
+    aplicacao: "Capital, growth"
+    rating: "★★★★★"
+
+  # ═══════════════════════════════════════════════════════════════
+  # CALL FUNNEL METRICS
+  # ═══════════════════════════════════════════════════════════════
+  - id: "JH-HEU-016"
+    titulo: "99% Booking Rate"
+    descricao: "Se Calendly EMBUTIDO no TypeForm, booking rate = 99%. Separado = 50%."
+    peso: 0.95
+    chunks: ["JH002_002"]
+    fontes: ["JH002"]
+    regra: "SE Calendly embutido no TypeForm ENTAO 99% booking vs 50% separado"
+    threshold: "99% vs 50%"
+    aplicacao: "Estruturacao de funil, ferramentas"
+
+  - id: "JH-HEU-017"
+    titulo: "Income Qualification $100k+"
+    descricao: "Se cliente fatura $100k+/mes, esta qualificado para $10k/mes de ticket."
+    peso: 0.90
+    chunks: ["JH001_007"]
+    fontes: ["JH001"]
+    regra: "SE income >= $100k/mes ENTAO qualificado para $10k/mes"
+    threshold: "$100k/mes"
+    aplicacao: "Qualificacao de leads, filtro de entrada"
+
+  - id: "JH-HEU-018"
+    titulo: "97% Retencao com Annual Commitment"
+    descricao: "Se commitment anual obrigatorio, churn anualizado = 3.4-3.7%."
+    peso: 0.90
+    chunks: ["JH001_008"]
+    fontes: ["JH001"]
+    regra: "SE annual commitment ENTAO churn = 3-4%"
+    threshold: "3.4-3.7% churn = 97% retencao"
+    aplicacao: "Estruturacao de contrato, reducao de churn"
+
+  - id: "JH-HEU-019"
+    titulo: "12 Emails + 4 Texts em 48h"
+    descricao: "Hammer Strategy: 12 emails + 4 texts + content ads em 48h = 50-80% show rate."
+    peso: 0.90
+    chunks: ["JH002_003"]
+    fontes: ["JH002"]
+    regra: "SE 12 emails + 4 texts em 48h ENTAO 50-80% show rate"
+    threshold: "12 emails, 4 texts, 11 content ads em 48h"
+    aplicacao: "Show rate optimization, follow-up sequence"
+
+  - id: "JH-HEU-020"
+    titulo: "Email Open Rate 50-80%"
+    descricao: "Se emails com framing content (nao lembretes), open rate = 50-80%."
+    peso: 0.85
+    chunks: ["JH002_004"]
+    fontes: ["JH002"]
+    regra: "SE framing content (testimonials, objection handling) ENTAO 50-80% open rate"
+    threshold: "50-80% open rate"
+    aplicacao: "Conteudo de emails, estrategia de nurturing"
+
+  - id: "JH-HEU-021"
+    titulo: "Cost per Call Range"
+    descricao: "Cost per call entre $50-$900 e range valido para call funnels."
+    peso: 0.85
+    chunks: ["JH002_005"]
+    fontes: ["JH002"]
+    regra: "SE cost per call entre $50-$900 ENTAO range valido"
+    threshold: "$50-$900"
+    aplicacao: "Orcamento de marketing, ROI de campanhas"
+
+  # ═══════════════════════════════════════════════════════════════
+  # CONTENT & CREATIVE METRICS
+  # ═══════════════════════════════════════════════════════════════
+  - id: "JH-HEU-022"
+    titulo: "50-100 unique pieces minimum"
+    descricao: "Minimo de 50-100 pecas de conteudo unicas para volume."
+    peso: 0.90
+    chunks: ["JH068_016"]
+    fontes: ["BATCH-068"]
+    regra: "SE quer escala ENTAO minimo 50-100 pecas unicas"
+    threshold: "50-100 pecas"
+    aplicacao: "Content strategy"
+
+  - id: "JH-HEU-023"
+    titulo: "3-12 pieces per week per person"
+    descricao: "Producao: 3-12 pecas por semana por pessoa."
+    peso: 0.85
+    chunks: ["JH069_017"]
+    fontes: ["BATCH-069"]
+    regra: "SE produzindo conteudo ENTAO 3-12 pecas/semana/pessoa"
+    threshold: "3-12 pecas/semana/pessoa"
+    aplicacao: "Content production"
+
+  - id: "JH-HEU-024"
+    titulo: "25% watch = move to next step"
+    descricao: "Venus Fly Trap: Se 25% assistiu, move para proximo step."
+    peso: 0.90
+    chunks: ["JH068_018"]
+    fontes: ["BATCH-068"]
+    regra: "SE 25% assistiu video ENTAO qualificado para proximo step"
+    threshold: "25% watch rate"
+    aplicacao: "Video funnel, qualification"
+
+  - id: "JH-HEU-025"
+    titulo: "15 videos total VFT"
+    descricao: "Venus Fly Trap: 15 videos total (5 por step)."
+    peso: 0.90
+    chunks: ["JH068_019"]
+    fontes: ["BATCH-068"]
+    regra: "SE Venus Fly Trap ENTAO 15 videos (5 por step)"
+    threshold: "15 videos = 5 x 3 steps"
+    aplicacao: "Content planning"
+
+  # ═══════════════════════════════════════════════════════════════
+  # AD SPEND & TESTING
+  # ═══════════════════════════════════════════════════════════════
+  - id: "JH-HEU-026"
+    titulo: "$30K/30 dias para empresa grande"
+    descricao: "Teste de ads para empresa grande: $30K em 30 dias ($1K/dia)."
+    peso: 0.90
+    chunks: ["JH070_020"]
+    fontes: ["BATCH-070"]
+    regra: "SE empresa grande testando ads ENTAO $30K em 30 dias"
+    threshold: "$30K / 30 dias = $1K/dia"
+    aplicacao: "Budget planning"
+
+  - id: "JH-HEU-027"
+    titulo: "$10K/30 dias para empresa pequena"
+    descricao: "Teste de ads para empresa pequena: $10K em 30 dias (~$333/dia)."
+    peso: 0.90
+    chunks: ["JH070_021"]
+    fontes: ["BATCH-070"]
+    regra: "SE empresa pequena testando ads ENTAO $10K em 30 dias"
+    threshold: "$10K / 30 dias = ~$333/dia"
+    aplicacao: "Budget planning"
+
+  - id: "JH-HEU-028"
+    titulo: "250 active ads limit"
+    descricao: "Contas com <$100K/mes: limite de 250 ads ativos."
+    peso: 0.85
+    chunks: ["JH071_022"]
+    fontes: ["BATCH-071"]
+    regra: "SE spend < $100K/mes ENTAO maximo 250 ads ativos"
+    threshold: "250 ads (contas <$100K/mes)"
+    aplicacao: "Account structure"
+
+  - id: "JH-HEU-029"
+    titulo: "Videos 1-3 minutos ideal"
+    descricao: "Duracao ideal de videos para ads: 1-3 minutos."
+    peso: 0.85
+    chunks: ["JH072_023"]
+    fontes: ["BATCH-072"]
+    regra: "SE video ad ENTAO 1-3 minutos ideal"
+    threshold: "1-3 minutos"
+    aplicacao: "Creative production"
+
+  - id: "JH-HEU-030"
+    titulo: "180 dias max retargeting FB"
+    descricao: "Facebook: janela maxima de retargeting e 180 dias."
+    peso: 0.85
+    chunks: ["JH073_024"]
+    fontes: ["BATCH-073"]
+    regra: "SE retargeting FB ENTAO max 180 dias"
+    threshold: "180 dias"
+    aplicacao: "Audience strategy"
+
+  - id: "JH-HEU-031"
+    titulo: "100 Outreach Por Dia Inegociavel"
+    descricao: "Minimo 100 novas comunicacoes ou follow-ups por dia. Disciplina core do 30-Day Challenge. Follow-ups contam. Sem excecoes."
+    peso: 0.95
+    chunks: ["30DC-016"]
+    fontes: ["30DC-NEW-ELEMENTS"]
+    regra: "SE sales activity ENTAO minimo 100/dia, abaixo disso = F"
+    threshold: "100 outreach/dia (99 = reprovado)"
+    aplicacao: "Daily outreach targets, sales team KPIs"
+    rating: "★★★★★"
+
+  - id: "JH-HEU-032"
+    titulo: "8-17 Follow-ups Para Fechar (Atual)"
+    descricao: "A media de fechamentos agora requer 8-17 tentativas de follow-up, acima dos historicos 5-12. Caso extremo: 193 follow-ups para $15K. Caso rapido: 7 follow-ups para $100K/mes."
+    peso: 0.92
+    chunks: ["30DC-003"]
+    fontes: ["30DC-NEW-ELEMENTS"]
+    regra: "SE follow-up ENTAO esperar 8-17 tentativas para fechar"
+    threshold: "8-17 follow-ups (media atual)"
+    aplicacao: "Follow-up persistence, pipeline expectations"
+    rating: "★★★★★"
+
+  - id: "JH-HEU-033"
+    titulo: "193 Follow-ups $15K / 7 Follow-ups $100K"
+    descricao: "Caso extremo: 193 follow-ups para fechar $15K. Caso rapido: $100K/mes com apenas 7 follow-ups. Volume nao tem correlacao direta com tamanho do deal."
+    peso: 0.90
+    chunks: ["30DC-003"]
+    fontes: ["30DC-NEW-ELEMENTS"]
+    regra: "SE persistence ENTAO deals maiores podem fechar mais rapido"
+    threshold: "193 follow-ups (extremo) / 7 follow-ups (rapido)"
+    aplicacao: "Persistence calibration, never giving up"
+    rating: "★★★★★"
+
+  - id: "JH-HEU-034"
+    titulo: "1500-1700 Comunicacoes Ate Dia 18"
+    descricao: "Com 100 comunicacoes/dia por 18 dias, pipeline deve ter 1.500-1.700 comunicacoes acumuladas. Follow-ups devem consumir a maior parte das 100 diarias e 'tsunami' de respostas deve chegar."
+    peso: 0.88
+    chunks: ["30DC-018"]
+    fontes: ["30DC-NEW-ELEMENTS"]
+    regra: "SE dia 18 ENTAO 1.500-1.700 comunicacoes no pipeline"
+    threshold: "1.500-1.700 contatos (dia 18)"
+    aplicacao: "Pipeline forecasting, momentum benchmarks"
+    rating: "★★★★"
+
+  - id: "JH-HEU-035"
+    titulo: "2100-2200 Contatos Ate Dia 22"
+    descricao: "Ate o dia 22, banco de dados deve ter 2.100-2.200 pessoas para follow-up. Em dias de alto volume, meta e 20x os 100 padrao, potencialmente alcancando todos os contatos em 8-9 horas."
+    peso: 0.88
+    chunks: ["30DC-022"]
+    fontes: ["30DC-NEW-ELEMENTS"]
+    regra: "SE dia 22 ENTAO 2.100-2.200 pessoas para follow-up"
+    threshold: "2.100-2.200 contatos (dia 22)"
+    aplicacao: "Database benchmarks, massive follow-up days"
+    rating: "★★★★"
+
+  - id: "JH-HEU-036"
+    titulo: "70-90% Retencao Ao Ensinar"
+    descricao: "Ensinar informacao a outros produce taxa de retencao de 70-90% versus apenas 10% no consumo passivo. Outreach orientado a dados e uma forma de ensino, portanto atividade de vendas simultaneamente constroi expertise."
+    peso: 0.85
+    chunks: ["30DC-005"]
+    fontes: ["30DC-NEW-ELEMENTS"]
+    regra: "SE ensinar ENTAO retencao de 70-90% vs 10% passivo"
+    threshold: "70-90% retencao (ensinando) vs 10% (passivo)"
+    aplicacao: "Training methodology, skill acceleration"
+    rating: "★★★★"
+
+  - id: "JH-HEU-037"
+    titulo: "35% Visual 40% Kinestesico 25% Auditivo"
+    descricao: "Distribuicao global de estilos de aprendizado: 35% visual, 40% kinestesico/tatil, 25% auditivo. Apresentacoes com screen share atingem todos os tres simultaneamente."
+    peso: 0.85
+    chunks: ["30DC-010"]
+    fontes: ["30DC-NEW-ELEMENTS"]
+    regra: "SE sales presentation ENTAO screen share atinge 35%+40%+25%"
+    threshold: "35% visual / 40% kinestesico / 25% auditivo"
+    aplicacao: "Sales presentation design, communication adaptation"
+    rating: "★★★★"
+
+  - id: "JH-HEU-038"
+    titulo: "$16K Min / $8-12K Mid / $4K Entry / $1K One-Time"
+    descricao: "Estrutura de pricing da agencia JH: Level 5 = $16K+ (atual minimo), Level 4 = $8-12K/mes, Level 3 = $4K/mes, Level 2 = $1K one-time. Minimo atual para qualquer servico: $15K."
+    peso: 0.88
+    chunks: ["30DC-013"]
+    fontes: ["30DC-NEW-ELEMENTS"]
+    regra: "SE agency pricing ENTAO estrutura piramidal $1K-$16K+"
+    threshold: "$16K min / $8-12K mid / $4K entry / $1K one-time"
+    aplicacao: "Agency pricing benchmarks, package structuring"
+    rating: "★★★★"
+
+  - id: "JH-HEU-039"
+    titulo: "$5K Fee Minimo Para Palestras"
+    descricao: "Cobrar minimo $5K para engagements de keynote. Incluir pagina de pitch de palestrante no digital playbook para se posicionar como speaker antes de ser conhecido como um."
+    peso: 0.82
+    chunks: ["30DC-014"]
+    fontes: ["30DC-NEW-ELEMENTS"]
+    regra: "SE keynote speaking ENTAO $5K minimo"
+    threshold: "$5K (speaking fee entry point)"
+    aplicacao: "Speaking career, personal brand positioning"
+    rating: "★★★"
+
+  - id: "JH-HEU-040"
+    titulo: "25-5 Pomodoro Para Outreach"
+    descricao: "Trabalhar 25 minutos em alta intensidade, pausa de 5 minutos. Aplicado especificamente a ciclos de outreach e follow-up. De livro de neurologia de alta performance."
+    peso: 0.85
+    chunks: ["30DC-022"]
+    fontes: ["30DC-NEW-ELEMENTS"]
+    regra: "SE intensive outreach day ENTAO ciclos 25-5 (Pomodoro)"
+    threshold: "25 min foco / 5 min pausa"
+    aplicacao: "Daily outreach execution, focus sessions"
+    rating: "★★★★"
+
+  - id: "JH-HEU-041"
+    titulo: "50% Taxa de Abandono Em Webinars"
+    descricao: "Webinars tem aproximadamente 50% de abandono - metade dos inscritos nunca consome o conteudo. Webinars sao 'dificeis de consumir' apesar de gerarem alta expectativa. Considerar formatos de lead magnet mais faceis."
+    peso: 0.85
+    chunks: ["30DC-027"]
+    fontes: ["30DC-NEW-ELEMENTS"]
+    regra: "SE webinar ENTAO esperar 50% attrition"
+    threshold: "50% attrition (webinars)"
+    aplicacao: "Funnel math, lead magnet selection"
+    rating: "★★★★"
+
+  - id: "JH-HEU-042"
+    titulo: "$10-20 Investimento Por Prop Fisico"
+    descricao: "Enviar objetos fisicos (bats, brinquedos, porta-retratos) para prospects de alto valor por $10-20 no total incluindo frete. Escrever mensagens personalizadas com Sharpie. Cria memorabilidade que outreach digital nao consegue."
+    peso: 0.82
+    chunks: ["30DC-024"]
+    fontes: ["30DC-NEW-ELEMENTS"]
+    regra: "SE whale prospect ENTAO $10-20 prop fisico personalizado"
+    threshold: "$10-20/prop incluindo frete"
+    aplicacao: "High-value prospect outreach, physical marketing"
+    rating: "★★★"
+
+  - id: "JH-HEU-043"
+    titulo: "$350M Revenue em 317 Campanhas"
+    descricao: "Client Accelerator gerou mais de $350M em receita para clientes atraves de 317 campanhas em 66 industrias, gerenciando mais de $200M em ad spend."
+    peso: 0.95
+    chunks: ["CA-0015"]
+    fontes: ["CA-NEW-ELEMENTS"]
+    regra: "SE agencia com 317 campanhas ENTAO $350M+ receita possivel"
+    threshold: "$350M / 317 campanhas / 66 industrias / $200M ad spend"
+    aplicacao: "Credibilidade, benchmarking, escala de agencia"
+    rating: "★★★★★"
+
+  - id: "JH-HEU-044"
+    titulo: "CPC: <$5 Forte, <$2 Excepcional"
+    descricao: "Para ads de performance, CPC abaixo de $5 e forte. Abaixo de $2 e excepcional. Facebook recompensa ads com alto engajamento."
+    peso: 0.90
+    chunks: ["CA-0015"]
+    fontes: ["CA-NEW-ELEMENTS"]
+    regra: "SE CPC <$5 ENTAO forte; SE <$2 ENTAO excepcional"
+    threshold: "<$5 forte / <$2 excepcional"
+    aplicacao: "Media buying benchmarks, creative evaluation"
+    rating: "★★★★★"
+
+  - id: "JH-HEU-045"
+    titulo: "CTR: 2%+ Solido, 4%+ Excelente"
+    descricao: "CTR de 2%+ e solido para ads. 4%+ e excelente. CTRs altos indicam forte pattern disruption, ressonancia emocional, ou hooks curiosity-driven."
+    peso: 0.90
+    chunks: ["CA-0015"]
+    fontes: ["CA-NEW-ELEMENTS"]
+    regra: "SE CTR 2%+ ENTAO solido; SE 4%+ ENTAO excelente"
+    threshold: "2%+ solido / 4%+ excelente"
+    aplicacao: "Creative testing, ad performance evaluation"
+    rating: "★★★★★"
+
+  - id: "JH-HEU-046"
+    titulo: "CPA: <$200 HT Forte, <$100 MT Excelente"
+    descricao: "CPA abaixo de $200 para ofertas high-ticket e forte. CPA abaixo de $100 para ofertas mid-ticket e excelente."
+    peso: 0.89
+    chunks: ["CA-0015"]
+    fontes: ["CA-NEW-ELEMENTS"]
+    regra: "SE CPA <$200 HT ENTAO forte; SE <$100 MT ENTAO excelente"
+    threshold: "<$200 HT / <$100 MT"
+    aplicacao: "Campaign planning, financial projections"
+    rating: "★★★★★"
+
+  - id: "JH-HEU-047"
+    titulo: "ROAS: 2x Lucrativo, 3x+ Excelente, 5x+ Excepcional"
+    descricao: "ROAS acima de 2x e lucrativo para a maioria dos negocios. 3x+ e excelente. 5x+ e excepcional."
+    peso: 0.91
+    chunks: ["CA-0015"]
+    fontes: ["CA-NEW-ELEMENTS"]
+    regra: "SE ROAS 2x+ ENTAO lucrativo; 3x+ excelente; 5x+ excepcional"
+    threshold: "2x+ lucrativo / 3x+ excelente / 5x+ excepcional"
+    aplicacao: "Campaign evaluation, scaling decisions"
+    rating: "★★★★★"
+
+  - id: "JH-HEU-048"
+    titulo: "80%+ Liquidation = Scaling Agressivo"
+    descricao: "Para ofertas low-ticket ($29-$97), se recuperar 80%+ do ad spend no front-end, pode escalar agressivamente. 100%+ liquidation = lucrativo no dia 1."
+    peso: 0.92
+    chunks: ["CA-0015"]
+    fontes: ["CA-NEW-ELEMENTS"]
+    regra: "SE liquidation 80%+ ENTAO escalar agressivamente"
+    threshold: "80%+ liquidation (agressivo) / 100%+ (lucrativo D1)"
+    aplicacao: "Low-ticket funnels, scaling decisions"
+    rating: "★★★★★"
+
+  - id: "JH-HEU-049"
+    titulo: "60-100% Liquidation Dia 1 vs 0-30% Tradicional"
+    descricao: "Modelo CA: 60-100% liquidation dia 1 versus modelo tradicional 0-30%. Combinado com retorno de capital em 24 horas versus ciclos de 30-46 dias tradicionais."
+    peso: 0.93
+    chunks: ["CA-0015"]
+    fontes: ["CA-NEW-ELEMENTS"]
+    regra: "SE modelo CA ENTAO 60-100% liquidation D1 vs 0-30% tradicional"
+    threshold: "60-100% D1 (CA) vs 0-30% (tradicional)"
+    aplicacao: "Financial modeling, capital velocity, funnel architecture"
+    rating: "★★★★★"
+
+  - id: "JH-HEU-050"
+    titulo: "95% Target Bonus Trimestral (Media Buyer)"
+    descricao: "Outcome #1 para senior media buyers: atingir 95% do bonus projetado trimestral. Outcome #2: 85% de todos os ROAS e profit goals para clientes."
+    peso: 0.88
+    chunks: ["CA-0009"]
+    fontes: ["CA-NEW-ELEMENTS"]
+    regra: "SE senior media buyer ENTAO 95% do bonus trimestral como KPI #1"
+    threshold: "95% bonus target / 85% ROAS+profit goals"
+    aplicacao: "Media buyer KPIs, compensation structure"
+    rating: "★★★★"
+
+  - id: "JH-HEU-051"
+    titulo: "Churn <8%, 1 Referral/Mes, 25% Creative Win Rate"
+    descricao: "KPIs para senior media buyers: churn mensal de clientes abaixo de 8%, minimo 1 referral por mes, taxa de vitoria criativa em torno de 25%, aderencia a media plan de 90%."
+    peso: 0.89
+    chunks: ["CA-0009"]
+    fontes: ["CA-NEW-ELEMENTS"]
+    regra: "SE media buyer KPIs ENTAO churn <8%, referral 1/mes, win rate 25%"
+    threshold: "churn <8% / 1 referral/mes / 25% win rate / 90% aderencia"
+    aplicacao: "Agency KPIs, media buyer evaluation"
+    rating: "★★★★"
+
+  - id: "JH-HEU-052"
+    titulo: "3.5-4x CPA Como Budget Por Conceito Criativo"
+    descricao: "Se CPA target < $100, gastar 3.5-4x ($350-400) por conceito criativo para significancia estatistica. Se CPA target = $200, gastar ~$600 por conceito."
+    peso: 0.91
+    chunks: ["CA-0013"]
+    fontes: ["CA-NEW-ELEMENTS"]
+    regra: "SE CPA target ENTAO gastar 3.5-4x por conceito para teste"
+    threshold: "3.5-4x CPA por conceito (significancia estatistica)"
+    aplicacao: "Creative testing budget, media buying process"
+    rating: "★★★★★"
+
+  - id: "JH-HEU-053"
+    titulo: "100 Videos Frios Em 2 Horas (60s)"
+    descricao: "Com formato de video pitch de 60 segundos no celular, e possivel enviar 100 videos em 2 horas versus 10-50 por dia com formato tradicional de 7-12 minutos. Respostas comecam em ~1 hora."
+    peso: 0.88
+    chunks: ["PCVP-0001"]
+    fontes: ["CA-NEW-ELEMENTS"]
+    regra: "SE 60s video pitch ENTAO 100 videos em 2 horas"
+    threshold: "100 videos / 2 horas (formato 60s)"
+    aplicacao: "Cold outreach, agency sales, prospecting"
+    rating: "★★★★"
+
+  - id: "JH-HEU-054"
+    titulo: "$5K Consulting para $25K Hands-On (Upsell)"
+    descricao: "Modelo de pricing de agencia: comecar com consulting de $5K (knowledge transfer em 30 dias), upsell para $25K hands-on. Performance deals: $75K/mes se gerar $150K/dia."
+    peso: 0.90
+    chunks: ["PCVP-0002"]
+    fontes: ["CA-NEW-ELEMENTS"]
+    regra: "SE consulting $5K ENTAO upsell para $25K hands-on"
+    threshold: "$5K consulting -> $25K hands-on / $75K/mes se $150K/dia"
+    aplicacao: "Agency pricing, deal structure, upsell strategy"
+    rating: "★★★★★"
+
+  - id: "JH-HEU-055"
+    titulo: "Bump Offer 51% Take Rate Com Recorrente"
+    descricao: "Bump offers com modelo recorrente ($47/mes) atingem take rates de 51%+ com alta retencao. Gera receita recorrente muito superior a bump offers one-time."
+    peso: 0.89
+    chunks: ["CA-0012"]
+    fontes: ["CA-NEW-ELEMENTS"]
+    regra: "SE bump offer recorrente ENTAO 51%+ take rate"
+    threshold: "51%+ take rate ($47/mes bump)"
+    aplicacao: "Funnel architecture, MRR building"
+    rating: "★★★★"
+
+  - id: "JH-HEU-056"
+    titulo: "MrBeast 50 Thumbnails Por Video"
+    descricao: "MrBeast cria 50 conceitos iniciais de thumbnail por video, expandindo para centenas de variacoes. Time de 5-6 criadores dedicados. A/B testa ~20 variacoes por video."
+    peso: 0.85
+    chunks: ["CA-0016"]
+    fontes: ["CA-NEW-ELEMENTS"]
+    regra: "SE thumbnail optimization ENTAO 50+ conceitos iniciais"
+    threshold: "50 conceitos iniciais / 20 variacoes A/B"
+    aplicacao: "Creative process, thumbnail strategy"
+    rating: "★★★★"
+
+  - id: "JH-HEU-057"
+    titulo: "Content-First: $0.01/view vs $0.10-$1.00/click"
+    descricao: "Estrategia content-first gera views a $0.01 cada vs ads diretos que custam $0.10-$1.00 por click. Custo de aquisicao de atencao cai 10-100x com conteudo."
+    peso: 0.89
+    chunks: ["PCVP-0005"]
+    fontes: ["CA-NEW-ELEMENTS"]
+    regra: "SE content-first ENTAO $0.01/view vs $0.10-$1.00/click direto"
+    threshold: "$0.01/view (content) vs $0.10-$1.00/click (direto)"
+    aplicacao: "Social media ads, content strategy, retargeting"
+    rating: "★★★★"
+
+  - id: "JH-HEU-058"
+    titulo: "Video Segmentation: 3s/10s/25%/50%/75%/95%"
+    descricao: "Facebook permite segmentar audiencias por percentual de video assistido: 3s, 10s, 25%, 50%, 75%, 95%. Cada threshold representa nivel diferente de intencao. 95% viewers = leads quentes."
+    peso: 0.90
+    chunks: ["PCVP-0005"]
+    fontes: ["CA-NEW-ELEMENTS"]
+    regra: "SE retargeting por video ENTAO 6 thresholds de intencao"
+    threshold: "3s/10s/25%/50%/75%/95% (segmentacao por engajamento)"
+    aplicacao: "Retargeting strategy, audience segmentation"
+    rating: "★★★★★"
+
+  - id: "JH-HEU-059"
+    titulo: "Restaurante: $4-5K Spend -> $10-20K Retorno"
+    descricao: "Para restaurantes, investimento de $4-5K em ads gera retorno de $10-20K em receita. ROI de 2-5x no setor. Maioria dos restaurantes tem presenca social fraca."
+    peso: 0.87
+    chunks: ["PCVP-0005"]
+    fontes: ["CA-NEW-ELEMENTS"]
+    regra: "SE restaurante com $4-5K em ads ENTAO $10-20K retorno"
+    threshold: "$4-5K spend -> $10-20K revenue (restaurantes)"
+    aplicacao: "Restaurant niche, local business, ROI projections"
+    rating: "★★★★"
+
+  - id: "JH-HEU-060"
+    titulo: "Middleman: 85-95% Margem Em Servicos Terceirizados"
+    descricao: "Modelo middleman: comprar servicos por $10-$100 (thumbnails Fiverr, PR, Google listing) e revender por $1.000-$4.000. Margens de 85-95%. Valor esta no relacionamento e empacotamento."
+    peso: 0.91
+    chunks: ["PCVP-0013"]
+    fontes: ["CA-NEW-ELEMENTS"]
+    regra: "SE middleman model ENTAO margens 85-95%"
+    threshold: "85-95% margem (custo $10-100 / venda $1.000-4.000)"
+    aplicacao: "Agency arbitrage, new agency startup"
+    rating: "★★★★★"
+
+  - id: "JH-HEU-061"
+    titulo: "Chatbot 70-80% vs Email 5-20% Open Rate"
+    descricao: "Chatbots (ManyChat/MiniChat) tem open rates de 70-80% versus email marketing 5-20%. Representa 60-120x mais engajamento. Campanhas de 2-3 semanas comprimidas para 20 minutos."
+    peso: 0.92
+    chunks: ["PCVP-0012"]
+    fontes: ["CA-NEW-ELEMENTS"]
+    regra: "SE chatbot vs email ENTAO 70-80% vs 5-20% open rate"
+    threshold: "70-80% (chatbot) vs 5-20% (email) = 60-120x mais engajamento"
+    aplicacao: "Lead nurturing, sales automation"
+    rating: "★★★★★"
+
+  - id: "JH-HEU-062"
+    titulo: "ClickFunnels 900% Mais Rapido Que WordPress"
+    descricao: "ClickFunnels e 900% mais rapido que WordPress para construir funnels com A/B testing. O que requeria 20+ pessoas com WordPress pode ser feito por 1 pessoa."
+    peso: 0.86
+    chunks: ["PCVP-0011"]
+    fontes: ["CA-NEW-ELEMENTS"]
+    regra: "SE funnel building ENTAO ClickFunnels 900% mais rapido que WP"
+    threshold: "900% mais rapido (CF vs WordPress)"
+    aplicacao: "Technology selection, funnel building"
+    rating: "★★★★"
+
+  - id: "JH-HEU-063"
+    titulo: "Consulting > Agency: $15K > $10K"
+    descricao: "Consulting (skill transfer) pode ser vendido por MAIS que o servico hands-on. Exemplo: funnel build hands-on = $10K, consultoria/skill transfer = $15K. Prospect percebe mais valor em aprender."
+    peso: 0.87
+    chunks: ["PCVP-0011"]
+    fontes: ["CA-NEW-ELEMENTS"]
+    regra: "SE consulting vs done-for-you ENTAO consulting pode valer mais"
+    threshold: "$15K consulting > $10K hands-on"
+    aplicacao: "Pricing strategy, consulting vs done-for-you"
+    rating: "★★★★"
+
+metadados:
+  total_chunks_processados: 63
+  batches_fonte: ["BATCH-068", "BATCH-069", "BATCH-070", "BATCH-071", "BATCH-072", "BATCH-073", "BATCH-074", "BATCH-075", "BATCH-076", "BATCH-077", "BATCH-078", "BATCH-079", "BATCH-080", "BATCH-081", "BATCH-082", "BATCH-083", "BATCH-084", "JH001", "JH002", "30DC-NEW-ELEMENTS", "CA-NEW-ELEMENTS"]
+  peso_medio: 0.89
+  criado_em: "2025-12-28T00:00:00Z"
+  atualizado_em: "2026-03-03T12:00:00Z"
+  protocolo: "DNA-EXTRACTION-PROTOCOL v2.0"
+  fase: "Phase 5 + 30DC/CA Merge"
+  changelog:
+    - data: "2026-01-10T18:00:00Z"
+      acao: "Enriquecimento Fase 5 - 24 heuristicas adicionadas"
+      fonte: "SOURCE-JH.md + BATCH-068 a BATCH-084"
+      versao: "2.0.0"
+    - data: "2026-03-03T12:00:00Z"
+      acao: "Merge 30DC (12) + CA (21) = 33 heuristicas adicionadas"
+      fonte: "30DC-NEW-ELEMENTS.yaml + CA-NEW-ELEMENTS.yaml"
+      versao: "3.0.0"

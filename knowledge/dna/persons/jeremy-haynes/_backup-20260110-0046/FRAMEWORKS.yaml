@@ -1,0 +1,99 @@
+# FRAMEWORKS - JEREMY HAYNES
+# Estruturas nomeadas com componentes definidos (sem ordem rigida)
+# Versao: 1.0.0 | Criado: 2025-12-28
+
+versao: "1.0.0"
+pessoa: "Jeremy Haynes"
+camada: "FRAMEWORKS"
+total_itens: 5
+
+itens:
+  - id: "JH-FRM-001"
+    titulo: "Fair Pricing Framework"
+    descricao: "Estrutura para precificacao justa em recurring."
+    peso: 0.95
+    chunks:
+      - "JH001_009"
+    fontes:
+      - "JH001"
+    componentes:
+      - "Comecar MENOR - validar sistema antes de subir"
+      - "Subir conforme CERTEZA aumenta"
+      - "Tracking de VALOR obrigatorio"
+      - "Demanda alta = sinal para SUBIR"
+    aplicacao: "Jornada de pricing, decisao de quando subir"
+
+  - id: "JH-FRM-002"
+    titulo: "Call Funnel Structure"
+    descricao: "Estrutura completa do funil de calls."
+    peso: 0.90
+    chunks:
+      - "JH002_006"
+    fontes:
+      - "JH002"
+    componentes:
+      - "Ad"
+      - "Landing Page (Mini Webinar 5-15 min)"
+      - "Application (TypeForm)"
+      - "Qualify"
+      - "Schedule (Calendly EMBEDDED)"
+      - "Close"
+      - "Setters: Unqualified + No-shows"
+    aplicacao: "Estruturacao de funil high-ticket"
+
+  - id: "JH-FRM-003"
+    titulo: "Hammer Strategy"
+    descricao: "Sistema completo de 48h para maximizar show rate."
+    peso: 0.90
+    chunks:
+      - "JH002_007"
+    fontes:
+      - "JH002"
+    componentes:
+      - "Confirmation Page: Tons de conteudo educacional"
+      - "Email Hammer: 12 emails em 48h (cada 2h, 6am-6pm)"
+      - "Text Reminders: 4 em 48h"
+      - "Content Ad Hammer: 25 pecas, 11 em 48h"
+      - "Dynamic Custom Audience: Rolling 4 dias"
+    aplicacao: "Show rate optimization"
+
+  - id: "JH-FRM-004"
+    titulo: "Offer Stack (Inner Circle)"
+    descricao: "Componentes do offer stack de Jeremy."
+    peso: 0.85
+    chunks:
+      - "JH001_010"
+    fontes:
+      - "JH001"
+    componentes:
+      - "Jeremy AI: Diario, Chat (13M+ palavras)"
+      - "Course Vault: Semanal, Videos"
+      - "SOPs: 1-2x/mes, Documentos"
+      - "Group Chat: Continuo, Comunidade"
+      - "1:1 Calls: 2x/mes, Acesso direto"
+      - "Masterminds: Trimestral, Presencial Miami"
+    aplicacao: "Estruturacao de offer stack recurring"
+
+  - id: "JH-FRM-005"
+    titulo: "Pixel Conditioning"
+    descricao: "Regras para condicionamento de pixel."
+    peso: 0.80
+    chunks:
+      - "JH002_008"
+    fontes:
+      - "JH002"
+    componentes:
+      - "ENVIAR: APENAS Qualified Scheduled Calls"
+      - "NAO ENVIAR: Applications (mesmo qualificadas)"
+      - "NAO ENVIAR: Leads nao qualificados"
+      - "Cost per Call: $50-$900 range valido"
+    aplicacao: "Otimizacao de campanhas, pixel strategy"
+
+metadados:
+  total_chunks_processados: 5
+  fontes_utilizadas:
+    - "JH001"
+    - "JH002"
+  peso_medio: 0.88
+  criado_em: "2025-12-28T00:00:00Z"
+  protocolo: "DNA-EXTRACTION-PROTOCOL v1.0"

@@ -1,0 +1,63 @@
+# MODELOS MENTAIS - SAM OVEN
+# Lentes de análise que geram perguntas específicas e mudam como você VE
+# Versao: 1.0.0 | Criado: 2025-12-27
+
+versao: "1.0.0"
+pessoa: "Sam Oven"
+camada: "MODELOS-MENTAIS"
+total_itens: 4
+
+itens:
+  - id: "SO-MM-001"
+    titulo: "Bridge Analogy Lens"
+    descricao: "Ver toda oferta como uma ponte. Current State → Bridge (Your Offer) → Desired State. O Troll são as objeções, o Toll Booth é seu preço."
+    peso: 0.95
+    chunks:
+      - "SETTERLUN-OC_002"
+    fontes:
+      - "SETTERLUN-OC"
+    pergunta_gerada: "Minha oferta leva claramente o cliente do estado atual ao desejado?"
+    aplicacao: "Estruturação de ofertas, pitch"
+
+  - id: "SO-MM-002"
+    titulo: "Purple Ocean Analysis"
+    descricao: "Analisar se posicionamento é Red (competição demais), Blue (risco de criar mercado), ou Purple (diferenciado em mercado provado)."
+    peso: 0.90
+    chunks:
+      - "SETTERLUN-PO_001"
+    fontes:
+      - "SETTERLUN-PO"
+    pergunta_gerada: "Estou em Red Ocean (igual a todos), Blue Ocean (arriscado), ou Purple Ocean (diferenciado em provado)?"
+    aplicacao: "Posicionamento, nicho, messaging"
+
+  - id: "SO-MM-003"
+    titulo: "Business Archetype Selection"
+    descricao: "Classificar modelo de entrega em DFY (Done For You), DWY (Done With You), ou DIY (Do It Yourself). Cada um tem trade-offs de preço, escala e liberdade."
+    peso: 0.85
+    chunks:
+      - "SETTERLUN-BD_001"
+    fontes:
+      - "SETTERLUN-BD"
+    pergunta_gerada: "Meu modelo é DFY, DWY ou DIY? Qual seria ideal para meu estágio?"
+    aplicacao: "Modelo de negócio, estrutura de entrega"
+
+  - id: "SO-MM-004"
+    titulo: "Unique Mechanism Differentiation"
+    descricao: "Identificar por que SUA ponte é melhor que as outras. Competidores são outras pontes para a mesma travessia - qual é seu diferencial?"
+    peso: 0.85
+    chunks:
+      - "SETTERLUN-OC_003"
+    fontes:
+      - "SETTERLUN-OC"
+    pergunta_gerada: "Por que minha ponte é melhor que as dos competidores?"
+    aplicacao: "Diferenciação, USP, messaging"
+
+metadados:
+  total_chunks_processados: 5
+  fontes_utilizadas:
+    - "SETTERLUN-OC"
+    - "SETTERLUN-PO"
+    - "SETTERLUN-BD"
+  peso_medio: 0.89
+  criado_em: "2025-12-27T00:00:00Z"
+  protocolo: "DNA-EXTRACTION-PROTOCOL v1.0"

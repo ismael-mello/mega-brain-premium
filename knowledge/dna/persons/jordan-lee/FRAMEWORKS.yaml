@@ -1,0 +1,99 @@
+# FRAMEWORKS - JORDAN LEE
+# Estruturas nomeadas com componentes definidos (NAO tem ordem rigida)
+# Versao: 1.0.0 | Criado: 2025-12-27
+
+versao: "1.0.0"
+pessoa: "Jordan Lee"
+camada: "FRAMEWORKS"
+total_itens: 4
+
+itens:
+  - id: "JL-FW-001"
+    titulo: "People-Process-Management Framework"
+    descricao: "Todo problema de negócio cai em uma dessas três categorias. Diagnostique ANTES de agir."
+    peso: 0.95
+    chunks:
+      - "CJ001_011"
+    fontes:
+      - "CJ001"
+    componentes:
+      - nome: "PEOPLE"
+        descricao: "Pessoa errada no cargo"
+        solucao: "Treinar ou substituir"
+      - nome: "PROCESS"
+        descricao: "Sistema não documentado ou quebrado"
+        solucao: "Do, Document, Delegate"
+      - nome: "MANAGEMENT"
+        descricao: "Gestão inadequada"
+        solucao: "Accountability + feedback"
+    regra_uso: "Diagnostique primeiro. Não assuma."
+    aplicacao: "Diagnóstico de problemas operacionais"
+
+  - id: "JL-FW-002"
+    titulo: "Do-Document-Delegate Framework"
+    descricao: "Como escalar qualquer processo de forma sustentável."
+    peso: 0.90
+    chunks:
+      - "CJ001_004"
+    fontes:
+      - "CJ001"
+    componentes:
+      - nome: "DO"
+        descricao: "Faça você mesmo primeiro"
+        consequencia_pular: "Se pula, não entende"
+      - nome: "DOCUMENT"
+        descricao: "Documente o processo"
+        consequencia_pular: "Se pula, não escala"
+      - nome: "DELEGATE"
+        descricao: "Delegue com o documento"
+        consequencia_pular: "Se pula, você continua preso"
+    aplicacao: "Escalabilidade, delegação, sistemas"
+
+  - id: "JL-FW-003"
+    titulo: "Enterprise Value Framework"
+    descricao: "6 fatores que determinam o valor de empresa para venda/investimento."
+    peso: 0.90
+    chunks:
+      - "CJ001_013"
+    fontes:
+      - "CJ001"
+    componentes:
+      - nome: "High Growth"
+        descricao: "Crescimento de revenue"
+      - nome: "Profitability Model"
+        descricao: "Para reinvestir, não lifestyle"
+      - nome: "Scalability"
+        descricao: "Productized approach"
+      - nome: "Recurring Revenue"
+        descricao: "Receita recorrente"
+      - nome: "Proprietary AI/Tech"
+        descricao: "Tecnologia proprietária"
+      - nome: "Low Founder Dependency"
+        descricao: "Baixa dependência do fundador"
+    aplicacao: "Preparação para exit, decisões de product-market"
+    exemplo: "Wiz: 5 anos, vendida por $32B = $16M/dia de enterprise value"
+
+  - id: "JL-FW-004"
+    titulo: "Naval's 3 Factors Framework"
+    descricao: "3 fatores que determinam qualidade de vida e sucesso."
+    peso: 0.75
+    chunks:
+      - "CJ001_001"
+    fontes:
+      - "CJ001"
+    componentes:
+      - nome: "Onde você vive"
+        exemplo: "Dubai"
+      - nome: "O que faz"
+        exemplo: "AI"
+      - nome: "Com quem faz"
+        exemplo: "Grandes pessoas"
+    aplicacao: "Decisões de lifestyle, otimização de ambiente"
+
+metadados:
+  total_chunks_processados: 5
+  fontes_utilizadas:
+    - "CJ001"
+  peso_medio: 0.87
+  criado_em: "2025-12-27T00:00:00Z"
+  protocolo: "DNA-EXTRACTION-PROTOCOL v1.0"

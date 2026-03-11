@@ -1,0 +1,64 @@
+# MODELOS MENTAIS - JEREMY HAYNES
+# Lentes de analise que geram perguntas especificas
+# Versao: 1.0.0 | Criado: 2025-12-28
+
+versao: "1.0.0"
+pessoa: "Jeremy Haynes"
+camada: "MODELOS_MENTAIS"
+total_itens: 3
+
+itens:
+  - id: "JH-MM-001"
+    titulo: "Ongoing Results vs Ongoing Access"
+    descricao: "Duas justificativas para recurring - se nao consegue nenhuma, nao deveria cobrar recurring."
+    peso: 0.90
+    chunks:
+      - "JH001_005"
+    fontes:
+      - "JH001"
+    pergunta_geradora: "Estou entregando RESULTADOS a cada 30 dias OU dando ACESSO a algo de valor continuo?"
+    opcoes:
+      modelo_1:
+        nome: "Ongoing Results"
+        descricao: "Entrega resultados a cada ciclo"
+        exemplos: ["Mentoria com calls", "Consultoria mensal", "Mastermind"]
+      modelo_2:
+        nome: "Ongoing Access"
+        descricao: "Fornece acesso continuo a algo de valor"
+        exemplos: ["Software (Hyros)", "Comunidade premium", "AI treinada"]
+
+  - id: "JH-MM-002"
+    titulo: "Interest Levels Ladder"
+    descricao: "Escada de interesse do lead - de Curious ate Deal."
+    peso: 0.85
+    chunks:
+      - "JH002_001"
+    fontes:
+      - "JH002"
+    pergunta_geradora: "Onde meu lead esta na escada de interesse? Quantos niveis preciso mover antes da call?"
+    niveis:
+      - "CURIOUS - Sales odeia leads aqui"
+      - "GENERAL INTEREST - Leads tipicamente comecam aqui"
+      - "HIGH INTEREST"
+      - "DEAL - Onde fechamentos acontecem"
+    insight: "Marketing + Sales devem mover leads 2-4 niveis ANTES da call"
+
+  - id: "JH-MM-003"
+    titulo: "Speed to Result"
+    descricao: "Quanto mais rapido entrega resultado, mais pode cobrar."
+    peso: 0.85
+    chunks:
+      - "JH001_006"
+    fontes:
+      - "JH001"
+    pergunta_geradora: "Quanto tempo levo para entregar valor percebido? Se >30 dias, deveria ser transactional."
+    regra: "Se demora muito para entregar valor = modelo transactional e melhor"
+
+metadados:
+  total_chunks_processados: 3
+  fontes_utilizadas:
+    - "JH001"
+    - "JH002"
+  peso_medio: 0.87
+  criado_em: "2025-12-28T00:00:00Z"
+  protocolo: "DNA-EXTRACTION-PROTOCOL v1.0"

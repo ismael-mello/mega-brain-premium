@@ -1,0 +1,91 @@
+# MODELOS MENTAIS - RICHARD LINDER
+# Lentes de analise que geram perguntas especificas
+# Versao: 1.0.0 | Criado: 2025-12-28
+
+versao: "1.0.0"
+pessoa: "Richard Linder"
+camada: "MODELOS_MENTAIS"
+total_itens: 4
+
+itens:
+  - id: "RL-MM-001"
+    titulo: "Superavit de Energia vs Deficit de Energia"
+    descricao: "Lente para avaliar contratacoes e interacoes. Cada pessoa cria superavit ou deficit de energia para o fundador."
+    peso: 0.90
+    chunks:
+      - "RL001_006"
+    fontes:
+      - "RL001"
+    pergunta_geradora: "Esta pessoa me ENERGIZA ou me DRENA? Saio de interacoes com mais ou menos capacidade?"
+    opcoes:
+      superavit:
+        nome: "Superavit de Energia"
+        descricao: "Pessoa amplifica capacidade do fundador"
+        sinais: ["Saio de 1:1s com MAIS energia", "Quero delegar mais para ela", "Colaboracao e natural"]
+      deficit:
+        nome: "Deficit de Energia"
+        descricao: "Pessoa drena capacidade do fundador"
+        sinais: ["Saio de 1:1s exausto", "Evito delegar", "Interacoes sao conflituosas"]
+
+  - id: "RL-MM-002"
+    titulo: "Trust Builders vs Trust Breakers"
+    descricao: "Engenharia reversa de confianca atraves de cenarios reais, nao tracos abstratos."
+    peso: 0.90
+    chunks:
+      - "RL001_007"
+    fontes:
+      - "RL001"
+    pergunta_geradora: "QUEM eu ja confio? QUEM me drena? Quais TRACOS essas pessoas tem em comum?"
+    processo:
+      - "1. Identificar 3 cenarios de confianca (reuniao produtiva, tarefa urgente, brainstorm)"
+      - "2. Nomear QUEM voce chamaria em cada cenario"
+      - "3. Extrair tracos comuns dos WHOs"
+      - "4. Inverter: identificar 3 cenarios de quebra de confianca"
+      - "5. Nomear QUEM aparece nesses cenarios"
+      - "6. Extrair anti-padroes"
+
+  - id: "RL-MM-003"
+    titulo: "Os 8 Limitadores de Escala"
+    descricao: "Framework diagnostico: todo problema de negocio se enquadra em uma de oito categorias."
+    peso: 0.85
+    chunks:
+      - "RL001_008"
+    fontes:
+      - "RL001"
+    pergunta_geradora: "Em qual dos 8 limitadores este problema se enquadra? Estou focando a solucao no limitador certo?"
+    limitadores:
+      - "1. Falta de Clareza - visao pouco inspiradora/pouco clara"
+      - "2. Demanda Insuficiente - nao ha clientes suficientes"
+      - "3. Estrategia Ruim - coisas erradas, momento errado"
+      - "4. Sistemas - processos nao documentados"
+      - "5. Equipe Errada - pessoas erradas ou no lugar errado"
+      - "6. Comunicacao Ruim - ninguem sabe o que importa"
+      - "7. Capital Insuficiente - sem fluxo de caixa suficiente"
+      - "8. Desalinhamento de Impacto - objetivos do fundador != objetivos da empresa"
+
+  - id: "RL-MM-004"
+    titulo: "Efeito Cascata de Sobrecarga"
+    descricao: "Ciclo vicioso que a maioria dos fundadores nao ve ate ser tarde demais."
+    peso: 0.85
+    chunks:
+      - "RL001_009"
+    fontes:
+      - "RL001"
+    pergunta_geradora: "Estou despejando tudo em uma pessoa competente? High performers estao saindo?"
+    ciclo:
+      - "Contratacoes ruins"
+      - "Fundador fica cetico"
+      - "Despeja tudo em uma pessoa competente"
+      - "Essa pessoa fica sobrecarregada"
+      - "High performers saem"
+      - "Substituidos por underperformers"
+      - "Ciclo repete"
+    insight: "Um processo de contratacao ineficiente faz suas melhores pessoas sairem E te deixa sem capacidade de conseguir novas boas pessoas."
+
+metadados:
+  total_chunks_processados: 4
+  fontes_utilizadas:
+    - "RL001"
+  peso_medio: 0.87
+  criado_em: "2025-12-28T00:00:00Z"
+  protocolo: "DNA-EXTRACTION-PROTOCOL v1.0"

@@ -91,11 +91,11 @@ Defined in `AGENT-INDEX.yaml`, activated via slash commands.
 | Type | Count | Purpose |
 |------|-------|---------|
 | CARGO | 14 | Functional roles (Sales, Marketing, Ops) |
-| MINDS | 2 | Expert mind clones (Michael Hauge, Jason Fladlien) |
+| MINDS | 0 | Expert mind clones |
 | CONCLAVE | 3 | Multi-perspective deliberation |
 | SYSTEM | 2 | JARVIS, Agent-Creator |
 
-**Total Active Agents:** 19
+**Total Active Agents:** 17
 ## Configuration
 
 - **`.env`** is the ONLY source of truth for credentials
