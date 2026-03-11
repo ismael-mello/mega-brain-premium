@@ -14,11 +14,11 @@
 # v1.0.0 (2025-12-23): Versão inicial
 
 cargo: "CFO"
-versao: "3.1.0"
+versao: "3.2.0"
 nivel: "C-LEVEL"
 natureza: "HIBRIDO"
 data_criacao: "2025-12-23"
-ultima_atualizacao: "2026-03-12"
+ultima_atualizacao: "2026-03-11"
 
 # ═══════════════════════════════════════════════════════════════════════════════
 # CONSTITUICAO (Layer 1 - Principios compartilhados)
@@ -88,6 +88,15 @@ dna_sources:
       dominios_usados: ["compensation"]
       peso: 0.75
       quando_usar: "Estrutura de comissao"
+
+    - pessoa: "capital-upgrade"
+      path: "/knowledge/dna/persons/capital-upgrade"
+      dominios_usados: ["gestao-financeira", "fluxo-de-caixa", "planejamento", "pricing", "custos"]
+      peso: 0.85
+      quando_usar: "Gestão financeira, fluxo de caixa, planejamento financeiro, análise de custos, pricing"
+      justificativa: "Curso especializado em gestão financeira empresarial — fonte primária para CFO"
+      added: "2026-03-11"
+      source: "Capital Upgrade (Paulo Vito Porto / PWR Gestão)"
 
 # ═══════════════════════════════════════════════════════════════════════════════
 # MAPA DE CONFLITOS

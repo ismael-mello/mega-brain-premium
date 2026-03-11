@@ -27,11 +27,11 @@
 # ═══════════════════════════════════════════════════════════════════════════════
 
 cargo: "COO"
-versao: "3.1.0"
+versao: "3.2.0"
 nivel: "C-LEVEL"
 natureza: "HIBRIDO"
 data_criacao: "2025-12-23"
-ultima_atualizacao: "2026-03-12"
+ultima_atualizacao: "2026-03-11"
 
 # ═══════════════════════════════════════════════════════════════════════════════
 # CONSTITUICAO (Layer 1 - Principios compartilhados)
@@ -224,6 +224,16 @@ dna_sources:
             - "DIY/DWY/DFY: escalabilidade vs ticket"
             - "Setter→Closer→CS (fluxo BR)"
             - "Esteira de produtos impacta ops"
+
+    - pessoa: "capital-upgrade"
+      path: "/knowledge/dna/persons/capital-upgrade"
+      raiz: "/knowledge/sources/capital-upgrade/raw/"
+      dominios_usados: ["gestao-financeira", "planejamento", "custos", "fluxo-de-caixa"]
+      peso: 0.40
+      quando_usar: "Planejamento financeiro operacional, controle de custos, gestão de caixa"
+      justificativa: "COO precisa de visibilidade financeira para decisões operacionais"
+      added: "2026-03-11"
+      source: "Capital Upgrade (Paulo Vito Porto / PWR Gestão)"
 
     - pessoa: "THE-SCALABLE-COMPANY"
       path: "/knowledge/dna/persons/THE-SCALABLE-COMPANY"

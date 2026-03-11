@@ -1,0 +1,127 @@
+# DNA-CONFIG.yaml - Capital Upgrade / Paulo Vito Porto (PERSON Agent)
+#
+# Versao: 1.0.0
+# Data: 2026-03-11
+# Proposito: Configuracao de DNA para agente SOLO de Capital Upgrade
+# Integrado com: AGENT-COGNITION-PROTOCOL (FASE 1.5), AGENT-INTEGRITY-PROTOCOL
+
+# ===============================================================================
+# METADADOS DO AGENTE
+# ===============================================================================
+
+cargo: "CAPITAL-UPGRADE"
+versao: "1.0.0"
+nivel: "PERSON"
+natureza: "SOLO"
+data_criacao: "2026-03-11"
+ultima_atualizacao: "2026-03-11"
+
+# ===============================================================================
+# CONSTITUICAO
+# ===============================================================================
+
+constituicao:
+  path: "/agents/CONSTITUTION/BASE-CONSTITUTION.md"
+  descricao: "Principios eticos e operacionais base para todos os agentes"
+
+# ===============================================================================
+# MEMORIA DO AGENTE
+# ===============================================================================
+
+memoria:
+  path: "./MEMORY.md"
+  versao: "1.0.0"
+  descricao: "Experiencia acumulada do agente Capital Upgrade (Paulo Vito Porto)"
+
+# ===============================================================================
+# SOUL DO AGENTE
+# ===============================================================================
+
+soul:
+  path: "./SOUL.md"
+  versao: "1.0.0"
+  descricao: "Identidade e consciencia viva do agente Capital Upgrade"
+
+# ===============================================================================
+# FONTES DE DNA - COM RASTREABILIDADE COMPLETA
+# ===============================================================================
+#
+# AGENTE SOLO: Fonte unica = peso 1.0 (100%)
+# Sem conflitos entre fontes. Sem resolucao de conflitos necessaria.
+#
+# ===============================================================================
+
+dna_sources:
+
+  agregado: []
+
+  primario:
+    - pessoa: "capital-upgrade"
+      path: "/knowledge/dna/persons/capital-upgrade"
+      raiz: "knowledge/sources/capital-upgrade/raw/flgf/"
+      dominios_usados:
+        - "gestao-financeira"
+        - "controladoria"
+        - "indicadores-financeiros"
+        - "orcamento-empresarial"
+        - "endividamento"
+        - "fluxo-de-caixa"
+        - "demonstrativos-financeiros"
+      peso: 1.0
+      total_elementos: 257
+      por_camada:
+        filosofias: 57
+        modelos_mentais: 50
+        heuristicas: 70
+        frameworks: 46
+        metodologias: 33
+      chunks_processados: 77
+      confianca_media: 0.90
+      materiais_fonte:
+        - source_id: "CU-FLGF-07"
+          titulo: "Formacao de Lideres e Gestores Financeiros - Turma 07"
+          tipo: "programa_completo"
+          path: "knowledge/sources/capital-upgrade/raw/flgf/"
+          data_processamento: "2026-03-11"
+          modulos: ["M00", "M01", "M02", "M03", "M04", "M05", "M06", "M07", "M08", "M09", "M10", "Bonus"]
+
+# ===============================================================================
+# MAPA DE CONFLITOS
+# ===============================================================================
+# AGENTE SOLO: Nenhum conflito entre fontes (fonte unica)
+
+mapa_conflitos: []
+
+# ===============================================================================
+# PROTOCOLO DE RACIOCINIO
+# ===============================================================================
+
+protocolo_raciocinio:
+  cascata: "METODOLOGIA -> FRAMEWORK -> HEURISTICA -> MODELO_MENTAL -> FILOSOFIA"
+  referencia: "/core/protocols/REASONING-MODEL-PROTOCOL.md"
+
+# ===============================================================================
+# REGRAS ESPECIFICAS
+# ===============================================================================
+
+regras_especificas:
+  foco_principal: "Gestao financeira operacional, DRE, indicadores, orcamento, fluxo de caixa, endividamento consciente"
+  heuristicas_numericas:
+    - "EBITDA = lucro operacional + depreciacao + amortizacao"
+    - "Margem bruta = lucro bruto / receita liquida x 100"
+    - "Endividamento geral > 70% = sinal de alerta"
+    - "ROI deve superar CET para emprestimo fazer sentido"
+    - "Conciliacao bancaria diaria: inegociavel"
+    - "R1 = monitorar semanalmente, R2 = mensalmente, R3 = trimestralmente"
+    - "Inadimplencia 1-30 dias = curtissimo; 30-60 = curto; 60-90 = medio; 90+ = longo"
+
+# ===============================================================================
+# VALIDACAO DE RASTREABILIDADE
+# ===============================================================================
+
+validacao:
+  todas_fontes_tem_raiz: true
+  todos_insights_tem_chunk: true
+  dossier_existe: false
+  dossier_path: "/knowledge/dossiers/persons/DOSSIER-CAPITAL-UPGRADE.md"
+  ultima_validacao: "2026-03-11"
