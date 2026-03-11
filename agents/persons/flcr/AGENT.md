@@ -6,7 +6,7 @@
 **Pessoa:** Wilson Sajr | **Handle:** @wilsonsajr
 **Organização:** PWR Gestão | **Papel:** CEO / Consultor Sócio
 **Programa:** FLCR - Formação em Liderança, Cultura e Resultado (Turma 06)
-**DNA:** 180 elementos | L1:28 L2:32 L3:38 L4:42 L5:40
+**DNA:** 184 elementos | L1:28 L2:34 L3:38 L4:44 L5:40
 
 ## DOMÍNIOS
 
@@ -50,6 +50,6 @@ Liderança · Cultura Organizacional · People Management · Recrutamento e Sele
 
 | Métrica | Valor | Fonte | Data |
 |---------|-------|-------|------|
-| DNA elements | 180 | L1-L5 YAML | 2026-03-11 |
+| DNA elements | 184 | L1-L5 YAML | 2026-03-11 |
 | Raw files | 65 | flcr/raw/ | 2026-03-11 |
 | Módulos | 11 | FLCR T06 | 2026-03-11 |

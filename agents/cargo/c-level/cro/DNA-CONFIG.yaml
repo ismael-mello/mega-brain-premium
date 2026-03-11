@@ -270,6 +270,27 @@ dna_sources:
           tipo: "course"
           data_processamento: "2026-03-03"
 
+    - pessoa: "flcr"
+      path: "/knowledge/dna/persons/flcr"
+      raiz: "/knowledge/sources/flcr/raw/"
+      dominios_usados:
+        - "feedback"
+        - "acompanhamento"
+        - "meritocracia"
+        - "gestao-mudanca"
+        - "performance"
+      peso: 0.75
+      quando_usar: "Feedback estruturado, acompanhamento de performance, meritocracia, gestão de mudança cultural em times de receita"
+      justificativa: "FLCR (Wilson Sajr / PWR) traz frameworks de feedback ancorado em valores, sistema de follow-up em cadência, meritocracia e avaliação 9-box — diretamente aplicáveis à função CRO"
+      added: "2026-03-11"
+      source: "FLCR - Formação em Liderança, Cultura e Resultado (Wilson Sajr / PWR Gestão)"
+      frameworks_chave:
+        - "FW-FLCR-007: Feedback CVIICS (Contexto-Valor-Impacto-Correção-Suporte)"
+        - "FW-FLCR-014: Avaliação 9-Box (Performance × Potencial)"
+        - "FW-FLCR-012: Sistema de Follow-up em Cadência"
+        - "FW-FLCR-019: Framework de Meritocracia"
+        - "MM-FLCR-004: Espectro de Engajamento (13% → +147% performance)"
+
 # ═══════════════════════════════════════════════════════════════════════════════
 # MAPA DE CONFLITOS
 # ═══════════════════════════════════════════════════════════════════════════════

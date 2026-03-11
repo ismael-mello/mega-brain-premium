@@ -235,6 +235,27 @@ dna_sources:
       added: "2026-03-11"
       source: "Capital Upgrade (Paulo Vito Porto / PWR Gestão)"
 
+    - pessoa: "flcr"
+      path: "/knowledge/dna/persons/flcr"
+      raiz: "/knowledge/sources/flcr/raw/"
+      dominios_usados:
+        - "gestao-mudanca"
+        - "follow-up"
+        - "acompanhamento"
+        - "cultura-organizacional"
+        - "estrutura-organizacional"
+      peso: 0.75
+      quando_usar: "Gestão de mudança organizacional, cadência de follow-up, acompanhamento de metas, estrutura de equipes"
+      justificativa: "FLCR (Wilson Sajr / PWR) tem frameworks específicos de COO: 8 passos Kotter, sistema de follow-up em cadência, acompanhamento OKR, estrutura org por fase"
+      added: "2026-03-11"
+      source: "FLCR - Formação em Liderança, Cultura e Resultado (Wilson Sajr / PWR Gestão)"
+      frameworks_chave:
+        - "FW-FLCR-008: 8 Passos de Kotter (Gestão da Mudança)"
+        - "FW-FLCR-012: Sistema de Follow-up em Cadência"
+        - "FW-FLCR-027: OKR Simplificado"
+        - "FW-FLCR-020: Estrutura Organizacional por Fase"
+        - "FW-FLCR-043: Matriz GUT de Priorização"
+
     - pessoa: "THE-SCALABLE-COMPANY"
       path: "/knowledge/dna/persons/THE-SCALABLE-COMPANY"
       raiz: "/inbox/THE SCALABLE COMPANY (RYAN DEISS)/"           # RASTREABILIDADE

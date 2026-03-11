@@ -1,7 +1,7 @@
 layer: L4
 name: FRAMEWORKS
 person: Wilson Sajr (FLCR / PWR Gestão)
-total: 42
+total: 44
 
 items:
 
@@ -447,3 +447,45 @@ items:
       suporte: "Como o líder apoia sem fazer no lugar"
     anti_pattern: "Delegar sem clareza = abandonar. Delegar com micro-controle = não delegou."
     source: "MÓDULO 01"
+
+  - id: FW-FLCR-043
+    title: "Matriz GUT de Priorização (Gravidade × Urgência × Tendência)"
+    purpose: "Priorizar problemas/iniciativas com critério multidimensional"
+    axes:
+      gravidade: "Qual o impacto se este problema não for resolvido? (1=sem impacto, 5=catastrófico)"
+      urgencia: "Qual o prazo para resolução antes que o dano seja irreversível? (1=pode esperar, 5=agora)"
+      tendencia: "O problema piora, mantém ou melhora com o tempo? (1=melhora sozinho, 5=piora rapidamente)"
+    formula: "Score GUT = G × U × T (mínimo: 1, máximo: 125)"
+    thresholds:
+      critico: "> 75 — ação imediata, bloqueio de agenda do líder"
+      alto: "50-75 — plano de ação com prazo em 30 dias"
+      medio: "25-49 — monitorar e planejar"
+      baixo: "< 25 — backlog, não urgente"
+    source: "MÓDULO 10"
+
+  - id: FW-FLCR-044
+    title: "Pirâmide das 5 Disfunções de Equipe (Lencioni)"
+    purpose: "Diagnosticar e corrigir disfunções de equipes de alta performance"
+    pyramid:
+      base:
+        disfuncao: "1. Ausência de Confiança"
+        sintoma: "Membros não se vulnerabilizam, evitam admitir fraquezas"
+        cura: "Exercícios de vulnerabilidade, histórias pessoais, feedback positivo"
+      nivel_2:
+        disfuncao: "2. Medo do Conflito"
+        sintoma: "Debates artificiais, harmonia artificial, problemas não resolvidos"
+        cura: "Debates de ideias estruturados, desacordo como norma cultural"
+      nivel_3:
+        disfuncao: "3. Falta de Comprometimento"
+        sintoma: "Saem de reuniões sem clareza ou adesão real às decisões"
+        cura: "Clareza nas decisões, revisão de compromissos ao final de reuniões"
+      nivel_4:
+        disfuncao: "4. Fuga da Responsabilização"
+        sintoma: "Membros evitam cobrar uns aos outros por padrões e comportamentos"
+        cura: "Objetivos públicos, revisão regular de progresso entre pares"
+      topo:
+        disfuncao: "5. Desatenção aos Resultados"
+        sintoma: "Membros priorizam interesses pessoais (status, carreira) acima dos resultados coletivos"
+        cura: "Recompensas baseadas em resultado coletivo, não individual"
+    principle: "A pirâmide é sequencial: impossível resolver nível 2 sem resolver nível 1 primeiro."
+    source: "MÓDULO 10"
