@@ -24,7 +24,7 @@
 # ═══════════════════════════════════════════════════════════════════════════════
 
 cargo: "CMO"
-versao: "3.2.0"
+versao: "3.3.0"
 nivel: "C-LEVEL"
 natureza: "HIBRIDO"
 data_criacao: "2025-12-23"
@@ -146,15 +146,43 @@ dna_sources:
         - "marketing"
         - "scaling"
         - "launch"
+        - "brand-system"       # NOVO ACQ18K 2026-03-12
+        - "content-hooks"      # NOVO ACQ18K 2026-03-12
+        - "content-chunking"   # NOVO ACQ18K 2026-03-12
       peso: 0.90
-      quando_usar: "Ofertas irresistíveis, Grand Slam Offers, launches"
+      quando_usar: "Ofertas irresistíveis, Grand Slam Offers, launches, brand building, hooks, content strategy"
       insight_ids:                                                    # RASTREABILIDADE
         - "OF001"  # Oferta como multiplicador
         - "GSO001" # Grand Slam Offer formula
         - "ICP002" # Dor > Demografia
+        - "AH-ACQ18K-CMO001"  # 6-Step Brand System
+        - "AH-ACQ18K-CMO002"  # Hooks = 80% Performance
+        - "AH-ACQ18K-CMO003"  # Content Chunking Strategy
       chunk_ids:                                                      # RASTREABILIDADE GRANULAR
         - "*pendente MM001*"
+      # ACQ18K highlights (added 2026-03-12)
+      acq18k_highlights:
+        - tema: "6-Step Brand System"
+          descricao: "Framework de 6 passos para construir marca: (1) Nicho, (2) Avatar, (3) Promessa, (4) Prova, (5) Personalidade, (6) Plataforma"
+          aplicacao: "CMO usa como checklist de brand architecture — toda iniciativa de marca passa pelos 6 steps"
+          source: "ACQ Scale Advisory $18K"
+        - tema: "Hooks = 80% da Performance"
+          descricao: "80% do sucesso de qualquer peca de conteudo ou ad vem do hook (primeiros 3-5 segundos) — o restante e delivery"
+          aplicacao: "CMO prioriza teste de hooks antes de otimizar copy ou creative — testar 10+ hooks antes de testar outros elementos"
+          source: "ACQ Scale Advisory $18K"
+        - tema: "Content Chunking"
+          descricao: "Quebrar conteudo longo em pedacos (chunks) de 60-90 segundos para consumo multi-plataforma — um episodio vira 20+ assets"
+          aplicacao: "CMO estrutura producao de conteudo em chunks reutilizaveis — maxima distribuicao por unidade de producao"
+          source: "ACQ Scale Advisory $18K"
       materiais_fonte:                                                # RASTREABILIDADE COMPLETA
+        - titulo: "ACQ Scale Advisory $18K"
+          path_raiz: "/knowledge/sources/alex-hormozi/raw/acq-scale-advisory/"
+          tipo: "masterclass"
+          data_processamento: "2026-03-11"
+          insights_principais:
+            - "6-Step Brand System: Nicho → Avatar → Promessa → Prova → Personalidade → Plataforma"
+            - "Hooks = 80% da performance de qualquer conteudo ou ad"
+            - "Content Chunking: 1 episodio → 20+ assets distribuiveis"
         - titulo: "Money Models"
           path_raiz: "/inbox/alex hormozi/BLUEPRINTS/MONEY MODELS.txt"
           tipo: "blueprint"

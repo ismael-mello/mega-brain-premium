@@ -17,7 +17,7 @@
 # ═══════════════════════════════════════════════════════════════════════════════
 
 cargo: "closer"
-versao: "3.2.0"
+versao: "3.3.0"
 nivel: "SALES"
 natureza: "HIBRIDO"
 data_criacao: "2025-12-23"
@@ -166,15 +166,29 @@ dna_sources:
         - "vendas"
         - "offers"
         - "scaling"
+        - "upsells"                  # NOVO ACQ18K 2026-03-12
+        - "permission-based-selling" # NOVO ACQ18K 2026-03-12
       peso: 0.85
-      quando_usar: "CLOSER framework, perspectiva de escala, unit economics"
+      quando_usar: "CLOSER framework, perspectiva de escala, unit economics, upsell techniques, permission selling"
       insight_ids:                                                    # RASTREABILIDADE
         - "CF001"   # CLOSER Framework
         - "ES001"   # Escala - teste de sistema
         - "MT002"   # Volume is vanity, cash is sanity
+        - "AH-ACQ18K-CL001"  # Anchor Upsell Technique
+        - "AH-ACQ18K-CL002"  # Permission-Based Selling
       chunk_ids:                                                      # RASTREABILIDADE GRANULAR
         - "chunk_199"
         - "chunk_215"
+      # ACQ18K highlights (added 2026-03-12)
+      acq18k_highlights:
+        - tema: "Anchor Upsell"
+          descricao: "Apresentar upsell ancorado no preco original — ex: 'voce ja pagou X, a diferenca para o nivel superior e so Y'"
+          aplicacao: "Closer usa anchor upsell apos fechar deal principal — take rate alvo 80%+"
+          source: "ACQ Scale Advisory $18K"
+        - tema: "Permission-Based Selling"
+          descricao: "Pedir permissao antes de fazer pitch ou apresentar oferta — reduz resistencia e aumenta abertura do prospect"
+          aplicacao: "Antes do pitch: 'Posso te mostrar como isso funcionaria para voce?' — prospect que diz sim esta pre-comprometido"
+          source: "ACQ Scale Advisory $18K"
       materiais_fonte:                                                # RASTREABILIDADE COMPLETA
         - titulo: "How I Scaled My Sales Team"
           path_raiz: "/inbox/alex hormozi/MASTERMINDS/HOW I SCALED MY SALES TEAM [TAKI MOORE MASTERMIND].txt"
@@ -185,6 +199,14 @@ dna_sources:
             - "Volume is vanity, cash collected is sanity"
             - "OTE $120-220k/ano para BC"
             - "BC é 'Big Leagues' do Farm System"
+        - titulo: "ACQ Scale Advisory $18K"
+          path_raiz: "/knowledge/sources/alex-hormozi/raw/acq-scale-advisory/"
+          tipo: "masterclass"
+          data_processamento: "2026-03-11"
+          insights_principais:
+            - "Anchor Upsell — usar preco pago como ancora para diferencial do upsell"
+            - "Permission-Based Selling — pedir permissao antes do pitch aumenta take rate"
+            - "80%+ classic upsell take rate como benchmark"
 
     # ADICIONADO 2026-03-03: EDC como fonte secundária
     - pessoa: "ead-closer"

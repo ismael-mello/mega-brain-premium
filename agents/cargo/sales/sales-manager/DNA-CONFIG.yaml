@@ -6,7 +6,7 @@
 # Template: DNA-CONFIG-V2 (100% rastreabilidade)
 
 cargo: "SALES-MANAGER"
-versao: "3.2.0"
+versao: "3.3.0"
 nivel: "SALES"
 
 # ═══════════════════════════════════════════════════════════════════
@@ -102,9 +102,12 @@ dna_primario:
       - "Volume is Vanity"         # NOVO Phase 5.3
       - "CAC/LTV Discipline"       # NOVO Phase 5.3
       - "9 Ways to Grow"           # NOVO Phase 5.3
+      - "Deprivation Timing (ACQ18K)"      # NOVO ACQ18K 2026-03-12
+      - "3-Stage Nurture System (ACQ18K)"  # NOVO ACQ18K 2026-03-12
     path: "/knowledge/dna/persons/alex-hormozi"
     justificativa: "Framework de escala, contratacao e unit economics como bussola"
     # ENRIQUECIDO Phase 5.3 com SOURCE-AH.md content
+    # ENRIQUECIDO ACQ18K 2026-03-12: deprivation timing, 3-stage nurture
     insights_adicionais:
       - id: "AH-UNIT001"
         tema: "Unit Economics como Bussola"
@@ -126,6 +129,16 @@ dna_primario:
         tema: "LTV:CAC Discipline"
         descricao: "3:1 minimo para escalar. 5:1 para escalar agressivamente."
         aplicacao: "Gate de aprovacao para aumento de budget"
+      - id: "AH-ACQ18K-SM001"
+        tema: "Deprivation Timing"
+        descricao: "Usar privacao percebida (remocao de acesso, deadline real) no momento certo da sequencia de nurture para acelerar decisao de compra"
+        aplicacao: "Sales Manager calibra timing de follow-up e urgencia baseado em momentos de privacao do lead — nao criar urgencia falsa, criar visibilidade do custo de esperar"
+        source: "ACQ Scale Advisory $18K"
+      - id: "AH-ACQ18K-SM002"
+        tema: "3-Stage Nurture System"
+        descricao: "Nurture em 3 estagios: (1) Awareness — educar sobre problema, (2) Consideration — mostrar solucao, (3) Decision — superar objecoes e fechar"
+        aplicacao: "Estruturar sequencia de follow-up do time de vendas por estagio de consciencia do lead — conteudo diferente por estagio"
+        source: "ACQ Scale Advisory $18K"
 
     peso: 0.75
     dominios_absorvidos:
