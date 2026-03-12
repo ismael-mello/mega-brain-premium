@@ -16,18 +16,20 @@
 | Alex Hormozi YouTube (19 videos) | AH-YT | YouTube | 19 | Sales/team/pricing | 2025-12-28 |
 | BATCH-127: CLOSER Framework + Team Scaling | BATCH-127 | Pipeline | 112 | Closing deep-dive | 2026-01-10 |
 | BATCH-128: No-Based Questions + Core Four + Price Raising | BATCH-128 | Pipeline | 148 | Advanced techniques | 2026-01-10 |
+| AIOS Hormozi-Squad (16 curated agents) | AIOS-HORMOZI | Curated | - | Advertising/Content/Hooks/Launch | 2026-03-11 |
+| ACQ Scale Advisory $18k Upsell ($100M Money Models + Workshops) | AH-ACQ001 | Course | 37 | Money Models/CFA/Upsells | 2026-03-11 |
 
-**Total:** 7 fontes | 260 elementos unicos | 250 chunks referenciados
+**Total:** 9 fontes | 402 elementos unicos verificados | 324 chunks referenciados
 
 ### Distribuicao por Camada DNA
 
 | Camada | Quantidade | Exemplos Chave |
 |--------|-----------|----------------|
-| L1 FILOSOFIAS | 37 | Outbound Indestrutivel, Meritocracia Pura, HR Serve a Empresa |
-| L2 MODELOS MENTAIS | 30 | Christmas Tree, Farm System, 3 Stakeholders, Growth Levels |
-| L3 HEURISTICAS | 83 | $50/show BDR, 60% close rate Farm, 12-14 meses timeline |
-| L4 FRAMEWORKS | 63 | CLOSER, Christmas Tree Structure, 5 C's, Core Four |
-| L5 METODOLOGIAS | 47 | BAMFAM, Pull Up Appointments, Farm System progression |
+| L1 FILOSOFIAS | 70 | Outbound Indestrutivel, Meritocracia Pura, HR Serve a Empresa, 4-Prong Money Model |
+| L2 MODELOS MENTAIS | 67 | Christmas Tree, Farm System, 3 Stakeholders, CFA Model |
+| L3 HEURISTICAS | 118 | $50/show BDR, 60% close rate Farm, 2x CAC in 30 days=unlimited scale |
+| L4 FRAMEWORKS | 78 | CLOSER, 5 Attraction Offers, 4 Upsell Types, 3 Continuity Types |
+| L5 METODOLOGIAS | 69 | BAMFAM, Farm System progression, 3-Stage Nurture sequence |
 
 ---
 
@@ -105,6 +107,47 @@ Alex usa analogias memoraveis para fixar conceitos. Baseball (Farm System), arvo
 | 2025-12-28 | 2.2.0 | +$100M Money Models | +26 insights marketing-ops |
 | 2025-12-28 | 2.3.0 | +YouTube 19 videos | +30 insights multi-tema |
 | 2026-01-10 | 3.0.0 | Fase 5 Consolidation (BATCH-127/128) | 52 → 260 (5x aumento) |
+| 2026-03-11 | 4.0.0 | AIOS Hormozi-Squad enrichment | +158 (advertising/content/hooks/launch) → 418 |
+| 2026-03-11 | 5.0.0 | ACQ Scale Advisory $18k Upsell | +185 ACQ18K (money-models/CFA/upsells) → 402 verified |
+
+---
+
+## KEY KNOWLEDGE: ACQ SCALE ADVISORY ($18K UPSELL)
+
+> Processado: 2026-03-11 | Source: AH-ACQ001 | 37 transcricoes | 185 elementos
+
+### Top Heuristicas Numericas (ACQ18K)
+
+| Heuristica | Contexto | ID |
+|------------|----------|----|
+| LTGP:CAC > 3:1 minimum | Unit economics threshold | HEUR-AH-ACQ-001 |
+| 80% GP margin for services | Minimum gross profit | HEUR-AH-ACQ-002 |
+| 30-day breakeven (CFA) | Client Finance Acquisition | HEUR-AH-ACQ-005 |
+| 2x CAC in 30 days = unlimited scale | Core growth formula | HEUR-AH-ACQ-003 |
+| 4,096 customers in 12 months | Compound growth at 2x | HEUR-AH-ACQ-004 |
+| 9x response rate free vs $0.01 | Attraction offer psychology | HEUR-AH-ACQ-010 |
+| 80%+ classic upsell take rate | Same-category upsell | HEUR-AH-ACQ-020 |
+| 5-10x anchor upsell price | Anchor before main offer | HEUR-AH-ACQ-021 |
+| 70-80% take premium over decoy | Decoy pricing effect | HEUR-AH-ACQ-022 |
+| Prepay discounts: Q 10%, SA 15%, A 20-25%, 2Y 30%, LT 40% | Continuity pricing | HEUR-AH-ACQ-035 |
+| 80% of ad performance = hook | Advertising optimization | HEUR-AH-ACQ-040 |
+| 5-min speed to lead | Lead response time | HEUR-AH-ACQ-041 |
+| $1 in → $34 out (gym model ROAS) | Business model math | HEUR-AH-ACQ-050 |
+
+### Top Frameworks (ACQ18K)
+
+| Framework | Descricao | ID |
+|-----------|-----------|-----|
+| Four-Prong Money Model | Attraction → Upsell → Downsell → Continuity | FW-AH-ACQ-001 |
+| CFA (Client Finance Acquisition) | 30-day GP > CAC, fund new clients from existing | FW-AH-ACQ-002 |
+| 5 Attraction Offers | Free, Free+Shipping, SLO, Core, Premium | FW-AH-ACQ-003 |
+| 4 Upsell Types | Classic, Recurring, Bigger, Done-For-You | FW-AH-ACQ-010 |
+| 3 Downsell Types | Discount, Payment plan, Downgrade | FW-AH-ACQ-015 |
+| 3 Continuity Types | Ongoing service, Membership, Retainer | FW-AH-ACQ-020 |
+| 3 Core Beliefs to Break | Circumstances, Others, Self | FW-AH-ACQ-025 |
+| 6-Step Brand Building | Niche → Story → Values → Voice → Visual → Content | FW-AH-ACQ-030 |
+| Deprivation-Based Offer Timing | Give → Take → Give → Sell | FW-AH-ACQ-028 |
+| Level 3 Advertising | 2x CAC compound growth framework | FW-AH-ACQ-035 |
 
 ---
 

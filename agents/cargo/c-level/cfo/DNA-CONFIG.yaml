@@ -79,9 +79,16 @@ dna_sources:
 
     - pessoa: "alex-hormozi"
       path: "/knowledge/dna/persons/alex-hormozi"
-      dominios_usados: ["scaling", "offers"]
+      dominios_usados: ["scaling", "offers", "money-models", "CFA", "upsells", "downsells", "continuity"]
       peso: 0.80
-      quando_usar: "Unit economics de ofertas"
+      quando_usar: "Unit economics, money models (Four-Prong), CFA framework (30-day GP>CAC), upsell/downsell economics"
+      acq18k_highlights:
+        - "FW-AH-ACQ-002: CFA — 30-day GP > CAC, fund new clients from existing"
+        - "FW-AH-ACQ-001: Four-Prong Money Model — Attraction→Upsell→Downsell→Continuity"
+        - "HEUR-AH-ACQ-002: 80% GP margin minimum for services"
+        - "HEUR-AH-ACQ-001: LTGP:CAC > 3:1 minimum threshold"
+        - "HEUR-AH-ACQ-035: Prepay discounts Q:10%, SA:15%, A:20-25%, 2Y:30%, LT:40%"
+      added_acq18k: "2026-03-11"
 
     - pessoa: "cole-gordon"
       path: "/knowledge/dna/persons/cole-gordon"

@@ -13,12 +13,20 @@ person:
   migration_date: "2026-03-02"
 
 metadata:
-  total_elements: 59
-  total_insights_processed: 260
-  total_chunks_referenced: 250
+  total_elements: 402
+  by_layer:
+    L1_PHILOSOPHIES: 70
+    L2_MENTAL_MODELS: 67
+    L3_HEURISTICS: 118
+    L4_FRAMEWORKS: 78
+    L5_METHODOLOGIES: 69
+  total_insights_processed: 447
+  total_chunks_referenced: 324
   weight_average: 0.88
-  high_weight_items: 48
-  high_weight_percentage: 81
+  high_weight_items: 300
+  high_weight_percentage: 75
+  last_updated: "2026-03-11"
+  sources_count: 9
 
   sources:
     - id: "AH-SS001"
@@ -43,6 +51,11 @@ metadata:
     - id: "BATCH-128"
       title: "No-Based Questions + Core Four + Price Raising"
       chunks: 148
+    - id: "AH-ACQ18K"
+      title: "ACQ Scale Advisory $18k Upsell ($100M Money Models + Workshops)"
+      chunks: 37
+      insights: 185
+      raiz: "/knowledge/sources/alex-hormozi/raw/acq-scale-advisory/"
 
   connections:
     complements:
@@ -2184,3 +2197,1050 @@ aios_secondary:
       steps: "1. Define 3-5 pillars 2. Map to problems 3. Template per format 4. Batch weekly 5. Schedule 6. Monitor 7. Repurpose winners 8. Archive"
       domains: ["content", "marketing"]
       weight: 0.70
+
+# ═══════════════════════════════════════════════════════════════════════════════
+# ACQ SCALE ADVISORY $18K UPSELL - $100M MONEY MODELS + WORKSHOPS
+# Source: AH-ACQ18K | 37 transcriptions | 1.56 MB | 185 unique elements
+# Processed: 2026-03-11 via JARVIS FULL AUTO
+# Raiz: /knowledge/sources/alex-hormozi/raw/acq-scale-advisory/
+# ═══════════════════════════════════════════════════════════════════════════════
+
+  ACQ18K_L1_PHILOSOPHIES:
+    count: 35
+    source_id: "AH-ACQ18K"
+    items:
+      - id: "FIL-AH-ACQ-001"
+        title: "Education Is Greatest Legacy"
+        statement: "Amassing knowledge then dying without passing it on is a waste of a life."
+        weight: 0.90
+        domains: ["legacy", "education"]
+      - id: "FIL-AH-ACQ-002"
+        title: "Two Types of Business Owners"
+        statement: "Those who complain about things outside their control (CPMs going up) vs those who figure out how to make more per customer."
+        weight: 0.95
+        domains: ["mindset", "unit-economics"]
+      - id: "FIL-AH-ACQ-003"
+        title: "Skills Over Money"
+        statement: "You don't need money to make money. You need more skills. Someone with fewer skills needs more money."
+        weight: 0.90
+        domains: ["mindset", "scaling"]
+      - id: "FIL-AH-ACQ-004"
+        title: "Marketing Budget Is Ridiculous"
+        statement: "The idea of a marketing budget is ridiculous if you have a properly designed money model."
+        weight: 0.95
+        domains: ["money-models", "advertising"]
+      - id: "FIL-AH-ACQ-005"
+        title: "Ethical Monopoly Through LTV"
+        statement: "He who makes his customer worth more to his business than do his competition wins. You can go infinitely high on LTV."
+        weight: 0.95
+        domains: ["unit-economics", "scaling"]
+      - id: "FIL-AH-ACQ-006"
+        title: "Free Brings Broke People Is False"
+        statement: "Rich people also like free stuff. Close rates are the same between free and paid leads."
+        weight: 0.90
+        domains: ["offers", "lead-gen"]
+      - id: "FIL-AH-ACQ-007"
+        title: "Either Free or Full Price"
+        statement: "Either it's free or it's full price, never discounted. Moderate discounts (10-20%) don't change behavior."
+        weight: 0.90
+        domains: ["pricing", "offers"]
+      - id: "FIL-AH-ACQ-008"
+        title: "Simple Scales"
+        statement: "Simple scales, fancy fails. Have as few moving pieces as possible."
+        weight: 0.95
+        domains: ["scaling", "operations"]
+      - id: "FIL-AH-ACQ-009"
+        title: "You Cannot Lose If You Do Not Quit"
+        statement: "Repeated to self during hardest times. Persistence is the ultimate advantage."
+        weight: 0.90
+        domains: ["mindset"]
+      - id: "FIL-AH-ACQ-010"
+        title: "We Make Sales To Get Customers"
+        statement: "We don't get customers to make a sale, we make sales to get customers."
+        weight: 0.95
+        domains: ["money-models", "unit-economics"]
+      - id: "FIL-AH-ACQ-011"
+        title: "Upsells Make Majority of Profits"
+        statement: "You may sell 10x more front-end but 10x profit comes from the second sale."
+        weight: 0.95
+        domains: ["upsells", "money-models"]
+      - id: "FIL-AH-ACQ-012"
+        title: "Every Offer Opens Door to Upsell"
+        statement: "When an offer solves a problem, another appears. Upsell the solution to the problem your first offer reveals."
+        weight: 0.90
+        domains: ["upsells", "offers"]
+      - id: "FIL-AH-ACQ-013"
+        title: "Same Thing For Less Destroys Trust"
+        statement: "You can offer something different for less, you just can't offer the same thing for less."
+        weight: 0.90
+        domains: ["pricing", "downsells"]
+      - id: "FIL-AH-ACQ-014"
+        title: "All Revenue Not Created Equal"
+        statement: "Recurring revenue is 3-5x more valuable than one-time revenue. Predictable and compounds."
+        weight: 0.95
+        domains: ["continuity", "valuation"]
+      - id: "FIL-AH-ACQ-015"
+        title: "Revenue Solves All Known Problems"
+        statement: "When in doubt between expanding supply or generating demand, always start with generating more revenue first."
+        weight: 0.90
+        domains: ["scaling", "operations"]
+      - id: "FIL-AH-ACQ-016"
+        title: "Hooks Are 80% of the Battle"
+        statement: "In advertising and content. 3-4 hooks carried millions in ad spend for years across portfolio companies."
+        weight: 0.95
+        domains: ["advertising", "content"]
+      - id: "FIL-AH-ACQ-017"
+        title: "Proof Is How You Sell"
+        statement: "If you don't know how to sell, proof is the quick and dirty. An hour-long proof stack will make people buy."
+        weight: 0.90
+        domains: ["sales", "content"]
+      - id: "FIL-AH-ACQ-018"
+        title: "Sales Is Transfer of Conviction"
+        statement: "The salesperson must believe more than the prospect doubts."
+        weight: 0.90
+        domains: ["sales", "closing"]
+      - id: "FIL-AH-ACQ-019"
+        title: "Deprivation Is Key to Selling"
+        statement: "Create a state where the prospect feels the gap. Without deprivation, there's no motivation to buy."
+        weight: 0.95
+        domains: ["sales", "psychology"]
+      - id: "FIL-AH-ACQ-020"
+        title: "Never Follow Up Too Often"
+        statement: "You can never email too often or make content too long. Only too boring or not valuable."
+        weight: 0.85
+        domains: ["marketing", "follow-up"]
+      - id: "FIL-AH-ACQ-021"
+        title: "Consumption Drives Retention"
+        statement: "If people don't consume the stuff, they cancel at a much faster rate."
+        weight: 0.90
+        domains: ["retention", "continuity"]
+      - id: "FIL-AH-ACQ-022"
+        title: "First Offer Doesn't Need Profit"
+        statement: "Your first offer doesn't always have to make a profit. Profit comes from 2nd, 3rd, 4th offers."
+        weight: 0.90
+        domains: ["money-models", "offers"]
+      - id: "FIL-AH-ACQ-023"
+        title: "Give What They Want Now, Need Later"
+        statement: "Give customers what they want now so you can give them what they need later."
+        weight: 0.85
+        domains: ["offers", "psychology"]
+      - id: "FIL-AH-ACQ-024"
+        title: "I'd Rather Redo Than Refund"
+        statement: "Roll over credit toward the right offer instead of giving money back."
+        weight: 0.85
+        domains: ["retention", "offers"]
+      - id: "FIL-AH-ACQ-025"
+        title: "Discounting Is Not Evil, Stupid Discounting Is"
+        statement: "Discounts have costs and people don't understand the math behind them."
+        weight: 0.85
+        domains: ["pricing", "math"]
+      - id: "FIL-AH-ACQ-026"
+        title: "People Hide Behind Complexity"
+        statement: "People hide behind complexity to justify procrastination. If it really is that simple, the only thing you're not doing is doing it."
+        weight: 0.90
+        domains: ["mindset", "execution"]
+      - id: "FIL-AH-ACQ-027"
+        title: "You Haven't Capped Your Market"
+        statement: "Most businesses think they've maximized lead gen but have only explored one method, one platform, one medium."
+        weight: 0.90
+        domains: ["scaling", "lead-gen"]
+      - id: "FIL-AH-ACQ-028"
+        title: "Education at Core of Marketing"
+        statement: "You help people shift their belief so they make a decision to buy. Best way to prove value is give value before they pay."
+        weight: 0.85
+        domains: ["marketing", "content"]
+      - id: "FIL-AH-ACQ-029"
+        title: "Ethical Upselling = Recommendations That Help Both"
+        statement: "Bad salesmanship rooted in deception; good salesmanship rooted in education."
+        weight: 0.85
+        domains: ["sales", "ethics"]
+      - id: "FIL-AH-ACQ-030"
+        title: "Redo > Refund"
+        statement: "I'd rather do a redo than a refund. Roll over credit toward the right offer."
+        weight: 0.85
+        domains: ["retention", "customer-success"]
+      - id: "FIL-AH-ACQ-031"
+        title: "You Design the Game"
+        statement: "The customer thinks they're getting a deal; the offer architecture is intentional. You design the game, they just play it."
+        weight: 0.90
+        domains: ["offers", "psychology"]
+      - id: "FIL-AH-ACQ-032"
+        title: "No One Knows You Exist"
+        statement: "8 billion people exist. Even people who recognize you don't know your offers. The market is vastly larger than anyone thinks."
+        weight: 0.85
+        domains: ["mindset", "scaling"]
+      - id: "FIL-AH-ACQ-033"
+        title: "Meta-Skill > Tactics"
+        statement: "The ability to identify what to do next is more valuable than any single tactic."
+        weight: 0.90
+        domains: ["strategy", "mindset"]
+      - id: "FIL-AH-ACQ-034"
+        title: "Close Is a Process Not a Moment"
+        statement: "Closing starts at the beginning of the conversation, not at the end."
+        weight: 0.90
+        domains: ["sales", "closing"]
+      - id: "FIL-AH-ACQ-035"
+        title: "Speed Game Innovation"
+        statement: "Business models aren't patentable. Leaders make 80% of profits because by the time followers catch up, leaders have already innovated again."
+        weight: 0.85
+        domains: ["scaling", "innovation"]
+
+  ACQ18K_L2_MENTAL_MODELS:
+    count: 30
+    source_id: "AH-ACQ18K"
+    items:
+      - id: "MM-AH-ACQ-001"
+        title: "The Three Numbers (CAC, GP, PPD)"
+        statement: "Low CAC + High GP + Short PPD = more money faster. These three triangulate acquisition."
+        weight: 0.95
+        domains: ["unit-economics", "money-models"]
+      - id: "MM-AH-ACQ-002"
+        title: "Three Levels of Advertising"
+        statement: "Level 1: LTGP > CAC (basic). Level 2: 30-day GP > CAC (never use own money). Level 3: 30-day GP > 2x CAC (unlimited scale, compound)."
+        weight: 0.95
+        domains: ["advertising", "scaling"]
+      - id: "MM-AH-ACQ-003"
+        title: "The Penny Gap"
+        statement: "Free vs $0.01 = 9x more people take free. The gap between free and any price is the biggest behavioral change lever."
+        weight: 0.90
+        domains: ["pricing", "psychology"]
+      - id: "MM-AH-ACQ-004"
+        title: "Hyperactive Buyer Mode"
+        statement: "When someone makes new decision/identity (buys bike), they enter short hyper-buying window for everything related. If you don't offer, someone else will."
+        weight: 0.90
+        domains: ["upsells", "psychology"]
+      - id: "MM-AH-ACQ-005"
+        title: "Steak Stomach vs Dessert Stomach"
+        statement: "After solving one problem (steak), customer doesn't want more of same but may want adjacent (dessert). Create new deprivation to sell next offer."
+        weight: 0.90
+        domains: ["upsells", "offers"]
+      - id: "MM-AH-ACQ-006"
+        title: "Money Model = Series of Offers"
+        statement: "One offer is a unit. A money model is deliberately sequencing multiple offers to maximize GP in 30 days."
+        weight: 0.95
+        domains: ["money-models"]
+      - id: "MM-AH-ACQ-007"
+        title: "The Rental Car Model"
+        statement: "$19/day became $400 through invented fees/policies. Car upgrade, insurance (minimum naming), prepaid gas, late fees. Game maker designs the architecture."
+        weight: 0.90
+        domains: ["money-models", "upsells"]
+      - id: "MM-AH-ACQ-008"
+        title: "CAC Is Tight, GP Is Wide"
+        statement: "Between competitors CAC ranges are surprisingly tight. The massive difference is how much they make per customer. That is the arms race."
+        weight: 0.95
+        domains: ["unit-economics", "competition"]
+      - id: "MM-AH-ACQ-009"
+        title: "Create Flow Then Monetize Then Add Friction"
+        statement: "Start with biggest magnet for maximum flow, then monetize, then add filters/friction to optimize quality."
+        weight: 0.90
+        domains: ["lead-gen", "offers"]
+      - id: "MM-AH-ACQ-010"
+        title: "Burger-Fries-Soda Model"
+        statement: "$2 burger with $1.75 cost = $0.25 profit. Add fries+soda+supersize = $1.75 profit = 8x GP per sale."
+        weight: 0.90
+        domains: ["upsells", "money-models"]
+      - id: "MM-AH-ACQ-011"
+        title: "Price Anchoring / Recategorization"
+        statement: "$16K suit makes $2.2K suit feel like nothing. Price isn't absolute, it's relative to last number considered. Rolls Royce shows at yacht shows."
+        weight: 0.90
+        domains: ["pricing", "upsells"]
+      - id: "MM-AH-ACQ-012"
+        title: "The Seesaw (Downsell)"
+        statement: "More you put down now = less you pay over time. Less you put down = more you pay. Incentivizes bigger down payments."
+        weight: 0.85
+        domains: ["pricing", "downsells"]
+      - id: "MM-AH-ACQ-013"
+        title: "Continuity Math"
+        statement: "$1K one-time to 100: 10 buy = $10K. $50/mo to 100: 40 buy, keep 20mo = $40K + 4x more customers to upsell."
+        weight: 0.90
+        domains: ["continuity", "money-models"]
+      - id: "MM-AH-ACQ-014"
+        title: "Leverage Shift in Free Trials"
+        statement: "After they decline to pay and you offer free, leverage shifts to YOU. Now THEY must prove they deserve free service."
+        weight: 0.85
+        domains: ["downsells", "psychology"]
+      - id: "MM-AH-ACQ-015"
+        title: "The Believability Threshold"
+        statement: "$500/month claims get more opt-ins than $5K/month because more people believe the lower number. Too good to be true kills response."
+        weight: 0.85
+        domains: ["marketing", "offers"]
+      - id: "MM-AH-ACQ-016"
+        title: "Bigger Plane Longer Runway"
+        statement: "Price relative to buyer's power determines trust-building time needed. $20 product = 7-sec ad. $7K to $50M owner = 30-sec. $500+ consumer = phone sales."
+        weight: 0.90
+        domains: ["sales", "pricing"]
+      - id: "MM-AH-ACQ-017"
+        title: "Microwaving the Prospect"
+        statement: "Compress trust-building that normally takes weeks/months into days/hours. In 2 days go from stranger to absolute trust."
+        weight: 0.85
+        domains: ["sales", "events"]
+      - id: "MM-AH-ACQ-018"
+        title: "Demand vs Supply Constraint"
+        statement: "Every business is either demand-constrained (need more customers) or supply-constrained (can't serve more). This determines entire strategy."
+        weight: 0.95
+        domains: ["scaling", "diagnostics"]
+      - id: "MM-AH-ACQ-019"
+        title: "The Pie Table"
+        statement: "Current lead gen is one tiny slice of one tiny pie on a table full of pies. Methods x Platforms x Mediums = massive expansion."
+        weight: 0.90
+        domains: ["lead-gen", "scaling"]
+      - id: "MM-AH-ACQ-020"
+        title: "Equilibrium Trap"
+        statement: "When demand=supply, business feels stuck. Way out: deliberately create imbalance by pushing demand harder, use extra cash to expand supply."
+        weight: 0.90
+        domains: ["scaling", "operations"]
+      - id: "MM-AH-ACQ-021"
+        title: "Content as Proof Compounding"
+        statement: "Every piece of content is a unit of proof. Over time proof compounds. Brand = accumulated proof over time."
+        weight: 0.85
+        domains: ["content", "brand"]
+      - id: "MM-AH-ACQ-022"
+        title: "Deprivation-Satiation Model"
+        statement: "After receiving great value = satiated, won't buy. Make offers after deprivation (unanswered questions). Same pitch, different timing = dramatically different results."
+        weight: 0.95
+        domains: ["sales", "events"]
+      - id: "MM-AH-ACQ-023"
+        title: "External to Internal Motivation"
+        statement: "Use external motivation (money at stake) to create internal motivation (habit). Mom told you to brush teeth (external) → you brush as adult (internal)."
+        weight: 0.85
+        domains: ["psychology", "retention"]
+      - id: "MM-AH-ACQ-024"
+        title: "Participation Trophy Effect"
+        statement: "People who applied and lost feel they almost won. Sunk cost of effort makes them more likely to buy partial scholarship."
+        weight: 0.85
+        domains: ["psychology", "offers"]
+      - id: "MM-AH-ACQ-025"
+        title: "3x Growth Multiplier"
+        statement: "2x customer value × 2x volume × 2x payment speed = 8x growth. Triple each = 27x."
+        weight: 0.90
+        domains: ["scaling", "money-models"]
+      - id: "MM-AH-ACQ-026"
+        title: "Problems Create Problems"
+        statement: "Every offer solves one problem and creates another. Upsell solves the next problem."
+        weight: 0.85
+        domains: ["upsells", "offers"]
+      - id: "MM-AH-ACQ-027"
+        title: "Zealot Model"
+        statement: "Bring the people who love your product most to make content for you. Community of advocates generates ads/content on your behalf."
+        weight: 0.85
+        domains: ["content", "community"]
+      - id: "MM-AH-ACQ-028"
+        title: "Nurture as Selling the Sell"
+        statement: "Between opt-in and sales call, you're not selling the product - selling value of showing up. Three stages: sell scheduling, sell showing, sell program."
+        weight: 0.90
+        domains: ["sales", "nurture"]
+      - id: "MM-AH-ACQ-029"
+        title: "Consumption-Retention Link"
+        statement: "People who don't use what they bought cancel faster. Proactively feature-downselling non-users creates loyal customers."
+        weight: 0.85
+        domains: ["retention", "continuity"]
+      - id: "MM-AH-ACQ-030"
+        title: "Gift Card Play"
+        statement: "Sell $200 gift cards for $20 (90% off), limit 2, can only use on someone else. You get paid $20 for a hot referral lead."
+        weight: 0.85
+        domains: ["referrals", "offers"]
+
+  ACQ18K_L3_HEURISTICS:
+    count: 55
+    source_id: "AH-ACQ18K"
+    items:
+      - id: "HEUR-AH-ACQ-001"
+        title: "LTGP:CAC Minimum 3:1"
+        statement: "LT Gross Profit to CAC ratio must be > 3:1 minimum to have a profitable business."
+        threshold: "3:1"
+        weight: 0.95
+        domains: ["unit-economics"]
+      - id: "HEUR-AH-ACQ-002"
+        title: "Service Business 80% GP Margin"
+        statement: "Service-based businesses need at least 80% gross profit margin to scale."
+        threshold: "80%"
+        weight: 0.95
+        domains: ["unit-economics", "scaling"]
+      - id: "HEUR-AH-ACQ-003"
+        title: "30-Day Breakeven = Level 2"
+        statement: "30-day GP > CAC = never use own money to grow."
+        threshold: "30 days"
+        weight: 0.95
+        domains: ["advertising", "money-models"]
+      - id: "HEUR-AH-ACQ-004"
+        title: "2x CAC in 30 Days = Unlimited Scale"
+        statement: "30-day GP > 2x CAC = compound growth, doubling monthly. 1→4,096 customers in 12 months."
+        threshold: "2x CAC, 4096 in 12mo"
+        weight: 0.95
+        domains: ["advertising", "scaling"]
+      - id: "HEUR-AH-ACQ-005"
+        title: "Penny Gap 9x Response"
+        statement: "Free offers get 9x more response than $0.01 offers."
+        threshold: "9x"
+        weight: 0.90
+        domains: ["offers", "pricing"]
+      - id: "HEUR-AH-ACQ-006"
+        title: "50%+ Discount to Change Behavior"
+        statement: "Discounts must be 50%+ to change buyer behavior. 10-20% off doesn't shift behavior."
+        threshold: "50%+"
+        weight: 0.90
+        domains: ["pricing", "offers"]
+      - id: "HEUR-AH-ACQ-007"
+        title: "Gym Launch 4:1 ROAS 30-Day"
+        statement: "Average across 5,000+ locations. $6K 30-day GP, $500 CAC = 12:1. $48K 12-month = 96:1 LTV."
+        threshold: "4:1 avg, 12:1 actual, 96:1 LTV"
+        weight: 0.90
+        domains: ["money-models", "benchmarks"]
+      - id: "HEUR-AH-ACQ-008"
+        title: "Hormozi First Year 100:1 Return"
+        statement: "$100K spent, $10M made in first year of Gym Launch."
+        threshold: "100:1"
+        weight: 0.85
+        domains: ["benchmarks"]
+      - id: "HEUR-AH-ACQ-009"
+        title: "80/5 Complaint-Profit Rule"
+        statement: "If 80% of complaints come from a product line and only 5% of profits, shut it down."
+        threshold: "80/5"
+        weight: 0.90
+        domains: ["operations", "product"]
+      - id: "HEUR-AH-ACQ-010"
+        title: "Classic Upsell 80%+ Take Rate"
+        statement: "If not getting 80%+ uptake on classic upsells, you're not making it assumed enough."
+        threshold: "80%+"
+        weight: 0.90
+        domains: ["upsells"]
+      - id: "HEUR-AH-ACQ-011"
+        title: "Anchor Upsell 5-10x Price"
+        statement: "Present premium version at 5-10x price of main offer."
+        threshold: "5-10x"
+        weight: 0.90
+        domains: ["upsells", "pricing"]
+      - id: "HEUR-AH-ACQ-012"
+        title: "Rollover Credit 4x Minimum"
+        statement: "Make upsell at least 4x more expensive than rollover credit (25% discount max)."
+        threshold: "4x"
+        weight: 0.85
+        domains: ["upsells", "pricing"]
+      - id: "HEUR-AH-ACQ-013"
+        title: "Win-Back 6+ Months"
+        statement: "Reach out to customers who haven't purchased in 6+ months."
+        threshold: "6 months"
+        weight: 0.85
+        domains: ["retention", "win-back"]
+      - id: "HEUR-AH-ACQ-014"
+        title: "Temperature Check 8/10 Threshold"
+        statement: "On 1-10 scale, 8+ = keep downselling. Below 8, ask 'why not 10?' and pivot."
+        threshold: "8/10"
+        weight: 0.85
+        domains: ["sales", "downsells"]
+      - id: "HEUR-AH-ACQ-015"
+        title: "7-Step Payment Plan Sequence"
+        statement: "Full price → prepay discount → 3rd-party financing → split 2 → split 3 → spread evenly → free trial."
+        threshold: "7 steps"
+        weight: 0.90
+        domains: ["downsells", "payment"]
+      - id: "HEUR-AH-ACQ-016"
+        title: "20% Discount = 25% More Customers Needed"
+        statement: "At 50% margin, 20% discount requires 25% more customers to break even. At 80% margin, 100% more."
+        threshold: "25-100% more"
+        weight: 0.90
+        domains: ["pricing", "math"]
+      - id: "HEUR-AH-ACQ-017"
+        title: "Prepay Discount Tiers"
+        statement: "Monthly 0%, Quarterly 10%, Semi-annual 15%, Annual 20-25%, 2-year 30%, Lifetime 40%."
+        threshold: "0-40%"
+        weight: 0.90
+        domains: ["continuity", "pricing"]
+      - id: "HEUR-AH-ACQ-018"
+        title: "Recurring Revenue 3-5x Valuation"
+        statement: "Recurring revenue businesses worth 3-5x more than one-time revenue businesses."
+        threshold: "3-5x"
+        weight: 0.95
+        domains: ["continuity", "valuation"]
+      - id: "HEUR-AH-ACQ-019"
+        title: "Bonus Cost Under 10% Revenue"
+        statement: "Keep cost of continuity bonus under 10% of revenue it supports."
+        threshold: "<10%"
+        weight: 0.85
+        domains: ["continuity", "pricing"]
+      - id: "HEUR-AH-ACQ-020"
+        title: "Commission on Cash Collected"
+        statement: "Always compensate salespeople off cash collected today, not total contract value."
+        threshold: "cash today"
+        weight: 0.90
+        domains: ["compensation", "sales"]
+      - id: "HEUR-AH-ACQ-021"
+        title: "78% Win-Your-Money-Back Success"
+        statement: "78% of people hit their goal in challenge programs."
+        threshold: "78%"
+        weight: 0.85
+        domains: ["offers", "benchmarks"]
+      - id: "HEUR-AH-ACQ-022"
+        title: "Refund Rate Under 5% to Use WYMB"
+        statement: "Only use Win Your Money Back if refund rate <5%; otherwise fix product first."
+        threshold: "<5%"
+        weight: 0.90
+        domains: ["offers", "product"]
+      - id: "HEUR-AH-ACQ-023"
+        title: "Backend 5x Frontend"
+        statement: "Backend offer should be 5x more expensive than front-end deposit."
+        threshold: "5x"
+        weight: 0.85
+        domains: ["offers", "money-models"]
+      - id: "HEUR-AH-ACQ-024"
+        title: "70-80% Take Premium Over Decoy"
+        statement: "If structured properly, 70-80% take premium version over decoy."
+        threshold: "70-80%"
+        weight: 0.90
+        domains: ["offers", "psychology"]
+      - id: "HEUR-AH-ACQ-025"
+        title: "Virtual Events Convert 2-5%"
+        statement: "Mass market virtual events convert 2-5% of opt-ins."
+        threshold: "2-5%"
+        weight: 0.85
+        domains: ["events", "conversion"]
+      - id: "HEUR-AH-ACQ-026"
+        title: "Webinars Convert 10% of Attendees"
+        statement: "Webinars convert 10% of people who show up live."
+        threshold: "10%"
+        weight: 0.85
+        domains: ["events", "conversion"]
+      - id: "HEUR-AH-ACQ-027"
+        title: "Strategy Calls Convert 25%+"
+        statement: "Strategy calls convert 25%+ of people who attend."
+        threshold: "25%+"
+        weight: 0.90
+        domains: ["sales", "conversion"]
+      - id: "HEUR-AH-ACQ-028"
+        title: "10% of Dinner Attendees Buy High-Ticket"
+        statement: "25% buy $50-100 consult, 33% of those buy $5K-10K program = 10% of dinner attendees."
+        threshold: "10%"
+        weight: 0.85
+        domains: ["events", "conversion"]
+      - id: "HEUR-AH-ACQ-029"
+        title: "Pay Now 20-50% Discount"
+        statement: "Pay less now vs pay more later should provide 20-50% discount for paying now."
+        threshold: "20-50%"
+        weight: 0.85
+        domains: ["pricing", "offers"]
+      - id: "HEUR-AH-ACQ-030"
+        title: ">10% Cancel = Problem"
+        statement: "If >10% of pay-later people cancel, promise too much or price too high."
+        threshold: "10%"
+        weight: 0.85
+        domains: ["offers", "retention"]
+      - id: "HEUR-AH-ACQ-031"
+        title: "Store Credit Over 12 Months"
+        statement: "$600 credit at $50/month over 12 months, never 3 months free upfront."
+        threshold: "$50/mo × 12"
+        weight: 0.90
+        domains: ["retention", "pricing"]
+      - id: "HEUR-AH-ACQ-032"
+        title: "5x Rental Car Upsell"
+        statement: "$19/day car became $100/day with all upsells (5x)."
+        threshold: "5x"
+        weight: 0.85
+        domains: ["upsells", "benchmarks"]
+      - id: "HEUR-AH-ACQ-033"
+        title: "11.6x Burger Shop Profit via Upsells"
+        statement: "$0.25 profit (burger only) → $3.00 (burger+fries+drink+supersize) = 11.6x increase."
+        threshold: "11.6x"
+        weight: 0.85
+        domains: ["upsells", "benchmarks"]
+      - id: "HEUR-AH-ACQ-034"
+        title: "35% Trial-to-Paid Conversion"
+        statement: "Industry average: 35% of trial customers convert to paying members."
+        threshold: "35%"
+        weight: 0.85
+        domains: ["downsells", "conversion"]
+      - id: "HEUR-AH-ACQ-035"
+        title: "$1 In → $34 Out"
+        statement: "Gym model: $5/lead, 50% show, 25% buy $680 = 34x ROAS in 48 hours."
+        threshold: "34x"
+        weight: 0.90
+        domains: ["money-models", "benchmarks"]
+      - id: "HEUR-AH-ACQ-036"
+        title: "Waived Fee Needs 20%+ Lift"
+        statement: "Use waived enrollment fee only when it gets 20%+ more sign-ups."
+        threshold: "20%+"
+        weight: 0.85
+        domains: ["pricing", "offers"]
+      - id: "HEUR-AH-ACQ-037"
+        title: "1 in 20 Customers Is Crazy"
+        statement: "5% crazy rate. Don't avoid making offers to 19 sane people because of 1 crazy person."
+        threshold: "5%"
+        weight: 0.85
+        domains: ["sales", "mindset"]
+      - id: "HEUR-AH-ACQ-038"
+        title: "10% Prepay Cap for Existing Customers"
+        statement: "Cap prepayment offers at 10% of recurring customer base for cash flow safety."
+        threshold: "10%"
+        weight: 0.85
+        domains: ["pricing", "cash-flow"]
+      - id: "HEUR-AH-ACQ-039"
+        title: "30% Headroom at Equilibrium"
+        statement: "If at equilibrium, can almost always handle 30% more volume for 8-12 weeks."
+        threshold: "30% for 8-12 weeks"
+        weight: 0.90
+        domains: ["scaling", "operations"]
+      - id: "HEUR-AH-ACQ-040"
+        title: "80% of Ad Performance Is Hook"
+        statement: "Hook determines 80% of engagement. 3-4 hooks can carry millions in spend."
+        threshold: "80%"
+        weight: 0.95
+        domains: ["advertising", "content"]
+      - id: "HEUR-AH-ACQ-041"
+        title: "45% Increase from Email Sequences"
+        statement: "Spending one day on email follow-up sequences can yield 45% increase in business."
+        threshold: "45%"
+        weight: 0.85
+        domains: ["marketing", "email"]
+      - id: "HEUR-AH-ACQ-042"
+        title: "5 Sentences Per Email Max"
+        statement: "One nugget per email. Three things to say = three separate emails."
+        threshold: "5 sentences"
+        weight: 0.85
+        domains: ["marketing", "email"]
+      - id: "HEUR-AH-ACQ-043"
+        title: "Speed to Lead 5 Minutes"
+        statement: "Contact within 5 minutes of opt-in. Every minute after, conversion drops dramatically."
+        threshold: "5 min"
+        weight: 0.90
+        domains: ["sales", "lead-gen"]
+      - id: "HEUR-AH-ACQ-044"
+        title: "Gym Launch Zero to $4.4M/mo in 20 Months"
+        statement: "Scaling benchmark for Gym Launch."
+        threshold: "$4.4M/mo in 20mo"
+        weight: 0.85
+        domains: ["benchmarks", "scaling"]
+      - id: "HEUR-AH-ACQ-045"
+        title: "$46.2M Exit at 31"
+        statement: "Sold 66% of Gym Launch all-cash. Crossed $100M net worth at age 31."
+        threshold: "$46.2M"
+        weight: 0.85
+        domains: ["benchmarks", "exit"]
+      - id: "HEUR-AH-ACQ-046"
+        title: "2/3 Challenge Buyers Convert to Annual"
+        statement: "2/3 of $600 challenge buyers converted to annual memberships when offered $600 store credit."
+        threshold: "67%"
+        weight: 0.90
+        domains: ["conversion", "retention"]
+      - id: "HEUR-AH-ACQ-047"
+        title: "Anchor Gasp Test"
+        statement: "If customer doesn't gasp at premium price, either didn't go high enough or didn't sell it hard enough."
+        threshold: "must get gasp"
+        weight: 0.85
+        domains: ["upsells", "sales"]
+      - id: "HEUR-AH-ACQ-048"
+        title: "48 Supplement Consults Per Day"
+        statement: "4 per hour, 2 at a time, every 30 min. Peak sales throughput."
+        threshold: "48/day"
+        weight: 0.85
+        domains: ["sales", "operations"]
+      - id: "HEUR-AH-ACQ-049"
+        title: "$3K Lease → Full Gym"
+        statement: "$3K deposit → run ads → sell in empty building → cash funds equipment. New location every 6 months."
+        threshold: "$3K"
+        weight: 0.85
+        domains: ["scaling", "money-models"]
+      - id: "HEUR-AH-ACQ-050"
+        title: "Discount Breakeven Exponential"
+        statement: "At 50% margin: 10% off needs 25% more customers, 20% off needs 67% more, 30% needs 150%, 40% needs 400%, 50% = infinite."
+        threshold: "exponential curve"
+        weight: 0.90
+        domains: ["pricing", "math"]
+      - id: "HEUR-AH-ACQ-051"
+        title: "90% Margin on Storage Insurance"
+        statement: "Insurance upsell on storage units = 90% margin. Pure profit on invented risk."
+        threshold: "90%"
+        weight: 0.85
+        domains: ["upsells", "margins"]
+      - id: "HEUR-AH-ACQ-052"
+        title: "Gift Card 90% Off 5x Minimum"
+        statement: "Sell gift cards for 90% off face value. Make gift card value 20% of what you sell next."
+        threshold: "90% off, 5x min"
+        weight: 0.85
+        domains: ["referrals", "offers"]
+      - id: "HEUR-AH-ACQ-053"
+        title: "Partial Scholarship Convert 5-20%"
+        statement: "Convert 5-20% of non-winners into paying customers via partial scholarships."
+        threshold: "5-20%"
+        weight: 0.85
+        domains: ["offers", "conversion"]
+      - id: "HEUR-AH-ACQ-054"
+        title: "25x Outspend Ratio New vs Old Model"
+        statement: "With new money model, Gym Launch gyms could outspend old-model gyms 25:1."
+        threshold: "25:1"
+        weight: 0.90
+        domains: ["money-models", "competition"]
+      - id: "HEUR-AH-ACQ-055"
+        title: "Giveaway 3-7 Day Window"
+        statement: "Run giveaways for 3-7 days, capped at number of leads you can call within that window."
+        threshold: "3-7 days"
+        weight: 0.85
+        domains: ["offers", "lead-gen"]
+
+  ACQ18K_L4_FRAMEWORKS:
+    count: 35
+    source_id: "AH-ACQ18K"
+    items:
+      - id: "FW-AH-ACQ-001"
+        title: "CFA - Client Finance Acquisition"
+        statement: "Process where 30-day GP from single client > cost of acquiring that customer."
+        components: ["CAC calculation", "30-day GP target", "Credit card float"]
+        weight: 0.95
+        domains: ["money-models", "unit-economics"]
+      - id: "FW-AH-ACQ-002"
+        title: "Four-Prong Money Model"
+        statement: "(1) Attraction Offers - liquidate CAC, (2) Upsell Offers - maximize profit, (3) Downsell Offers - maximize conversion, (4) Continuity Offers - stabilize cash flow."
+        components: ["attraction", "upsell", "downsell", "continuity"]
+        weight: 0.95
+        domains: ["money-models"]
+      - id: "FW-AH-ACQ-003"
+        title: "Five Attraction Offer Types"
+        statement: "(1) Win Your Money Back, (2) Giveaways, (3) Decoy Offer, (4) Buy X Get Y Free, (5) Pay Less Now/Pay More Later."
+        components: 5
+        weight: 0.95
+        domains: ["offers", "attraction"]
+      - id: "FW-AH-ACQ-004"
+        title: "Four Upsell Types"
+        statement: "(1) Classic Upsell (can't have X without Y), (2) Menu Upsell (unsell then prescribe), (3) Anchor Upsell (5-10x gasp then rescue), (4) Rollover Upsell (credit toward bigger offer)."
+        components: 4
+        weight: 0.95
+        domains: ["upsells"]
+      - id: "FW-AH-ACQ-005"
+        title: "Three Downsell Types"
+        statement: "(1) Payment Plan Downsell (7-step sequence), (2) Trial with Penalty (free trial + fees), (3) Feature Downsell (remove features, lower price)."
+        components: 3
+        weight: 0.95
+        domains: ["downsells"]
+      - id: "FW-AH-ACQ-006"
+        title: "Three Continuity Types"
+        statement: "(1) Continuity Bonus (start/stay/pay), (2) Continuity Discount (prepay tiers), (3) Waived Fee (enrollment waiver for commitment)."
+        components: 3
+        weight: 0.90
+        domains: ["continuity"]
+      - id: "FW-AH-ACQ-007"
+        title: "Six Types of Continuity Offers"
+        statement: "(1) Memberships/Subscriptions, (2) Ongoing Services, (3) Consumables, (4) Access, (5) Licenses/Leases, (6) Insurance/Guarantees."
+        components: 6
+        weight: 0.90
+        domains: ["continuity", "offers"]
+      - id: "FW-AH-ACQ-008"
+        title: "Four Discount Display Methods"
+        statement: "(1) % off, (2) $ amount off, (3) Portion off (months free), (4) Crossed-out price. Rotate monthly for freshness."
+        components: 4
+        weight: 0.85
+        domains: ["pricing", "marketing"]
+      - id: "FW-AH-ACQ-009"
+        title: "Three Reasons People Reject Free"
+        statement: "(1) Don't want it - change what/how, (2) Don't believe you - too good to be true, (3) Wrong people seeing it."
+        components: 3
+        weight: 0.85
+        domains: ["offers", "diagnostics"]
+      - id: "FW-AH-ACQ-010"
+        title: "More-Better-New (Improving GP)"
+        statement: "(1) More - sell more quantity/duration, (2) Better - sell premium/upgraded, (3) New - sell additional product. Then supersize."
+        components: 3
+        weight: 0.90
+        domains: ["unit-economics", "growth"]
+      - id: "FW-AH-ACQ-011"
+        title: "Five Upsell Timing Windows"
+        statement: "(1) Immediately after first sale, (2) Next Step 24-72h, (3) After Big Win, (4) Halfway Point, (5) Last Chance/Exit. 4 of 5 before halfway."
+        components: 5
+        weight: 0.90
+        domains: ["upsells", "timing"]
+      - id: "FW-AH-ACQ-012"
+        title: "Three Core Beliefs to Break"
+        statement: "(1) Circumstances (money/time), (2) Other people (spouse/partner), (3) Self (I can't do it). Must break all 3 for sale."
+        components: 3
+        weight: 0.90
+        domains: ["sales", "psychology"]
+      - id: "FW-AH-ACQ-013"
+        title: "Three Doors for Cash Flow"
+        statement: "(1) Burn savings, (2) Raise debt/equity, (3) Make more than CAC in 30 days (CFA = best option)."
+        components: 3
+        weight: 0.90
+        domains: ["money-models", "finance"]
+      - id: "FW-AH-ACQ-014"
+        title: "Gym Launch Full Offer Stack"
+        statement: "Free book/podcast → Free strategy call → $16K fill-your-gym → Supplement course → Free feedback call → $3.2K/mo licensing."
+        components: 6
+        weight: 0.90
+        domains: ["money-models", "offers"]
+      - id: "FW-AH-ACQ-015"
+        title: "Downsell 2-Axis Framework"
+        statement: "Change HOW they pay (now vs later) or WHAT they get (quality, quantity, different)."
+        components: 2
+        weight: 0.85
+        domains: ["downsells"]
+      - id: "FW-AH-ACQ-016"
+        title: "Menu Upsell 4-Step"
+        statement: "(1) Unsell what they don't need, (2) Prescribe what they do need, (3) Ask A or B preference, (4) Card on file payment."
+        components: 4
+        weight: 0.90
+        domains: ["upsells", "sales"]
+      - id: "FW-AH-ACQ-017"
+        title: "Anchor Upsell 5-Step"
+        statement: "(1) Present anchor 5-10x, (2) Get gasp, (3) Come to rescue, (4) Present main offer, (5) Ask how to pay."
+        components: 5
+        weight: 0.90
+        domains: ["upsells", "sales"]
+      - id: "FW-AH-ACQ-018"
+        title: "Trial with Penalty 4-Step"
+        statement: "(1) Get card, (2) Sell long-term commitment, (3) Explain fees after card, (4) Have them initial each fee."
+        components: 4
+        weight: 0.85
+        domains: ["downsells"]
+      - id: "FW-AH-ACQ-019"
+        title: "Discount Math Formula"
+        statement: "Additional customers needed = discount / (margin - discount). At any margin level."
+        components: ["formula"]
+        weight: 0.90
+        domains: ["pricing", "math"]
+      - id: "FW-AH-ACQ-020"
+        title: "Constraint Framework (Workshop)"
+        statement: "Part 1: Frame thinking. Part 2: Constraint Decision Tree. Part 3: Supply solutions. Part 4: AI tools."
+        components: 4
+        weight: 0.90
+        domains: ["scaling", "diagnostics"]
+      - id: "FW-AH-ACQ-021"
+        title: "Scaling = More × More × More"
+        statement: "More Methods × More Platforms × More Mediums. Content x YouTube+IG+TikTok x Short+Long+Live."
+        components: 3
+        weight: 0.90
+        domains: ["scaling", "lead-gen"]
+      - id: "FW-AH-ACQ-022"
+        title: "6-Step Brand Building"
+        statement: "(1) Perfect avatar, (2) Their desires/suffering, (3) Content that delivers value, (4) Proof of skill, (5) Association with result, (6) Volume + Consistency."
+        components: 6
+        weight: 0.90
+        domains: ["brand", "content"]
+      - id: "FW-AH-ACQ-023"
+        title: "3-Stage Nurture Framework"
+        statement: "(1) Sell the scheduling, (2) Sell the showing, (3) Sell the program. Each stage different messaging."
+        components: 3
+        weight: 0.90
+        domains: ["sales", "nurture"]
+      - id: "FW-AH-ACQ-024"
+        title: "Show Rate Improvement Framework"
+        statement: "Immediate confirmation + reminder sequence + personalized video + what-to-expect content + speed to lead."
+        components: 5
+        weight: 0.90
+        domains: ["sales", "show-rates"]
+      - id: "FW-AH-ACQ-025"
+        title: "Deprivation-Based Offer Timing"
+        statement: "Never make offers after delivering massive value (satiation). Make offers when gap between what they got and need is largest."
+        components: ["timing", "testing"]
+        weight: 0.95
+        domains: ["sales", "events"]
+      - id: "FW-AH-ACQ-026"
+        title: "Rollover Who Framework"
+        statement: "4 audiences: (1) Win-back old customers, (2) Save upset customers, (3) Steal competitor's upset customers, (4) Upsell current."
+        components: 4
+        weight: 0.85
+        domains: ["upsells", "retention"]
+      - id: "FW-AH-ACQ-027"
+        title: "Continuity Bonus 3 Categories"
+        statement: "(A) Bonuses for Starting (onboarding), (B) Bonuses for Staying (monthly/milestone), (C) Bonuses for Paying (prepay)."
+        components: 3
+        weight: 0.85
+        domains: ["continuity", "retention"]
+      - id: "FW-AH-ACQ-028"
+        title: "Free-With-Consumption Structure"
+        statement: "(1) Give free content, (2) Break beliefs, (3) Make offer solving next concern, (4) Embed CTAs throughout."
+        components: 4
+        weight: 0.85
+        domains: ["events", "offers"]
+      - id: "FW-AH-ACQ-029"
+        title: "5-Day Challenge Structure"
+        statement: "Day1: Origin+shift. Day2: Internal obstacle. Day3: External obstacle. Day4: Mention offer. Day5: Pitch+repitch+proof."
+        components: 5
+        weight: 0.85
+        domains: ["events", "offers"]
+      - id: "FW-AH-ACQ-030"
+        title: "Business Growth Stages"
+        statement: "(1) Get customers reliably, (2) Pay for themselves in 30d, (3) Pay for OTHER customers, (4) Maximize LTV, (5) Print money."
+        components: 5
+        weight: 0.90
+        domains: ["scaling", "money-models"]
+      - id: "FW-AH-ACQ-031"
+        title: "Fitness Money Model (Hormozi's Own)"
+        statement: "Win Your Money Back → Buy X Get Y Free → Continuity Bonus → Free Trial w/Penalty → Menu Upsell Supplements → Rollover."
+        components: 6
+        weight: 0.90
+        domains: ["money-models", "case-study"]
+      - id: "FW-AH-ACQ-032"
+        title: "Gym Launch Money Model"
+        statement: "Decoy (strategy call) → Classic Upsell → Menu Upsell (service levels) → Payment Plan → Feature Downsell → Free Trial."
+        components: 6
+        weight: 0.90
+        domains: ["money-models", "case-study"]
+      - id: "FW-AH-ACQ-033"
+        title: "Implied Minimum Sale"
+        statement: "Name base package 'minimum' instead of economy/basic. 90% take 'minimum' because word implies they must have it."
+        components: ["naming psychology"]
+        weight: 0.85
+        domains: ["pricing", "psychology"]
+      - id: "FW-AH-ACQ-034"
+        title: "Friction Addition Framework"
+        statement: "After flow: (1) Qualification questions, (2) More steps, (3) Targeting, (4) Force content consumption, (5) Increase ad length."
+        components: 5
+        weight: 0.85
+        domains: ["lead-gen", "quality"]
+      - id: "FW-AH-ACQ-035"
+        title: "Permission-Based Selling Sequence"
+        statement: "Ask: 'Free stuff or lasting results?' If 'results' → premium. If 'free' → decoy then contrast."
+        components: 2
+        weight: 0.85
+        domains: ["sales", "offers"]
+
+  ACQ18K_L5_METHODOLOGIES:
+    count: 30
+    source_id: "AH-ACQ18K"
+    items:
+      - id: "MET-AH-ACQ-001"
+        title: "Building a Money Model"
+        steps: "1. Start with one core offer 2. Add attraction offer to lower CAC 3. Add upsell to maximize GP 4. Add downsell for those who say no 5. Add continuity. Build layers, not all at once."
+        weight: 0.95
+        domains: ["money-models"]
+      - id: "MET-AH-ACQ-002"
+        title: "Win Your Money Back Implementation"
+        steps: "1. Set clear criteria (results/actions/both) 2. Make criteria easy to track 3. Align with customer goals 4. Include advertising actions 5. Build check-in meetings 6. Upsell at each meeting 7. Apply credit over 12 months ($50/mo) 8. Make everyone a winner"
+        weight: 0.90
+        domains: ["offers", "retention"]
+      - id: "MET-AH-ACQ-003"
+        title: "Giveaway Execution"
+        steps: "1. Grand prize = most expensive product 2. Assign monetary value as anchor 3. Promotional offer 10-30% off retail 4. Collect contacts + eligibility questions 5. Run 3-7 day deadline 6. Update daily with countdown 7. Announce winner publicly 8. Contact non-winners privately 9. Book calls for promotional offer 10. 7-day claim expiration"
+        weight: 0.85
+        domains: ["offers", "lead-gen"]
+      - id: "MET-AH-ACQ-004"
+        title: "Decoy Offer Execution"
+        steps: "1. Create stripped-down version of premium 2. Advertise as free/discounted 3. Ask 'Free stuff or lasting results?' 4. If results → premium first 5. If free → decoy then contrast 6. 'Which gets you to goal faster?' 7. Assumed close 8. Surprise decoy buyers with premium features"
+        weight: 0.90
+        domains: ["offers", "sales"]
+      - id: "MET-AH-ACQ-005"
+        title: "Supplement Upsell (Deprivation Selling)"
+        steps: "1. Sell core service 2. 48 hours later bring in for nutrition orientation 3. Walk through their food 4. Identify gaps 5. Recommend supplements. Key: sell at point of greatest deprivation not satisfaction"
+        weight: 0.90
+        domains: ["upsells", "timing"]
+      - id: "MET-AH-ACQ-006"
+        title: "Menu Upsell Sales Process"
+        steps: "1. Prepare products with some they won't need 2. Cross out 2-3 items (unsell) 3. Write detailed prescription 4. Ask 'A or B?' with nudge 5. 'Use card on file?'"
+        weight: 0.90
+        domains: ["upsells", "sales"]
+      - id: "MET-AH-ACQ-007"
+        title: "Anchor Upsell Implementation"
+        steps: "1. Always have premium 5-10x ready 2. Present premium first with conviction 3. Wait for gasp 4. 'Do you care about [secondary feature]?' 5. Present main as rescue 6. Close on payment. No gasp = close the whale"
+        weight: 0.90
+        domains: ["upsells", "sales"]
+      - id: "MET-AH-ACQ-008"
+        title: "Win-Back Campaign via Rollover"
+        steps: "1. Pull list 6+ months no purchase 2. Subject: 'I owe you money' 3. Calculate credit from past purchases 4. Offer credit toward 5x offer 5. One-time-only for urgency"
+        weight: 0.85
+        domains: ["retention", "win-back"]
+      - id: "MET-AH-ACQ-009"
+        title: "Competitor Customer Theft via Rollover"
+        steps: "1. Find 1-star reviews of competitors 2. Message those customers 3. Ask how much they spent 4. Offer to credit toward your service 5. Turn hater into ambassador"
+        weight: 0.85
+        domains: ["acquisition", "retention"]
+      - id: "MET-AH-ACQ-010"
+        title: "Seesaw Downsell Process"
+        steps: "1. Frame: 'Giant monthly or tiny?' 2. State annual with prepay discount 3. More down = lower monthly 4. Pull chair to their side 5. Land on affordable payment"
+        weight: 0.85
+        domains: ["downsells", "sales"]
+      - id: "MET-AH-ACQ-011"
+        title: "Trial with Penalty Full Process"
+        steps: "1. Offer trial after all payment options exhausted 2. Get card on file 3. 'If results, will you stay?' 4. Explain fees AFTER card 5. Initial next to each fee 6. Schedule mandatory check-ins 7. Use 3-scenario follow-up (like/hate/unused)"
+        weight: 0.85
+        domains: ["downsells", "sales"]
+      - id: "MET-AH-ACQ-012"
+        title: "Feature Downsell Sales Process"
+        steps: "1. Start full package 2. Remove one feature → lower price → deal? 3. After 2 changes: temp check 1-10 4. If 8+: continue downselling. <8: pivot to payment plan 5. Use 'minimum' naming 6. Optional: free orientation → DIY"
+        weight: 0.85
+        domains: ["downsells", "sales"]
+      - id: "MET-AH-ACQ-013"
+        title: "Proactive Feature Downsell for Retention"
+        steps: "1. Identify customers using 4 of 6 features 2. Proactively lower price to match usage 3. Frame as 'taking care of them' 4. Result: dramatically lower churn, higher LTV"
+        weight: 0.85
+        domains: ["retention", "continuity"]
+      - id: "MET-AH-ACQ-014"
+        title: "Continuity Bonus Implementation"
+        steps: "1. Starting: welcome gift within 48h, magical first experience 2. Staying: milestone rewards 30/60/90 day 3. Paying: progressive prepay discounts, loyalty tiers"
+        weight: 0.85
+        domains: ["continuity", "retention"]
+      - id: "MET-AH-ACQ-015"
+        title: "Prepay Upsell During Payment Plans"
+        steps: "1. Close on payment plan 2. Mention prepay discount honored 30 more days 3. Check in at 2 weeks 4. Check in at 3 weeks (1 week before expiry) 5. Many convert to paid-in-full after good delivery"
+        weight: 0.85
+        domains: ["pricing", "upsells"]
+      - id: "MET-AH-ACQ-016"
+        title: "Price + Barter Close"
+        steps: "1. Customer says max $400 on $500 thing 2. 'I'll accept under these terms' 3. Require: reviews, testimonials, daily posts, 2 referral intros 4. Trade $100 discount for advertising value"
+        weight: 0.85
+        domains: ["sales", "referrals"]
+      - id: "MET-AH-ACQ-017"
+        title: "Compound Advertising Growth (Level 3)"
+        steps: "1. Spend CAC on credit card 2. Collect 2x+ CAC in GP within 30d 3. Pay back card 4. Reinvest excess 5. Next customer also 2x 6. Doubling cycle. 1→2→4→8→4096 in 12 months"
+        weight: 0.95
+        domains: ["advertising", "scaling"]
+      - id: "MET-AH-ACQ-018"
+        title: "Discount Rotation for Ad Freshness"
+        steps: "1. Month 1: '4 months free' 2. Month 2: '$400 off' 3. Month 3: '$800 (crossed $1200)' 4. Month 4: '66% off'. Same economics, fresh perception."
+        weight: 0.85
+        domains: ["advertising", "marketing"]
+      - id: "MET-AH-ACQ-019"
+        title: "Fee-to-Avoid-Fee Revenue"
+        steps: "1. Create arbitrary policy/fee 2. Offer paid option to avoid fee 3. Customer pays to avoid fee you invented 4. Pure profit on avoidance. Example: rental car late return penalty → sell late checkout."
+        weight: 0.85
+        domains: ["upsells", "money-models"]
+      - id: "MET-AH-ACQ-020"
+        title: "5-Day Challenge Event Structure"
+        steps: "Day1: Origin+shift. Day2: Internal obstacle. Day3: External obstacle. Day4: Mention offer. Day5: Pitch then repitch with Q&A+proof+case studies."
+        weight: 0.85
+        domains: ["events", "offers"]
+      - id: "MET-AH-ACQ-021"
+        title: "Belief Breaking 5 Steps"
+        steps: "1. State what they currently believe 2. Explain why wrong 3. State what's actually right 4. Explain why right 5. Provide proof"
+        weight: 0.85
+        domains: ["sales", "psychology"]
+      - id: "MET-AH-ACQ-022"
+        title: "Beginner 1-on-1 Free With Consumption"
+        steps: "1. Offer 5 free sessions 2. Day1: Frame offer coming, understand goals 3. Days2-4: Overcome beliefs, deliver value 4. Day5: Ask referral, recap value, make offer 5. 'What would working with me for $3K/year look like?'"
+        weight: 0.85
+        domains: ["sales", "events"]
+      - id: "MET-AH-ACQ-023"
+        title: "Gym Opening Playbook"
+        steps: "1. $3K lease deposit 2. Run ads for free 6-week challenge 3. Sell $600 in empty building 4. Cash funds equipment 5. Upsell supplements 6. Credit $600 toward annual 7. 2/3 convert → $20K/mo recurring 8. New location every 6 months"
+        weight: 0.90
+        domains: ["money-models", "scaling"]
+      - id: "MET-AH-ACQ-024"
+        title: "Live Business Constraint Diagnosis"
+        steps: "1. Core offer type 2. Customer acquisition method 3. Who gets leads 4. Ticket level 5. Selling mechanism 6. Team size + revenue 7. Walk constraint tree 8. Prescribe 1-3 solutions"
+        weight: 0.90
+        domains: ["diagnostics", "scaling"]
+      - id: "MET-AH-ACQ-025"
+        title: "Hook Testing Methodology"
+        steps: "1. Keep running hooks that work (don't retire winners) 2. Test new hooks against winners 3. 3-4 hooks can carry millions 4. Don't assume infinite creative needed"
+        weight: 0.85
+        domains: ["advertising", "content"]
+      - id: "MET-AH-ACQ-026"
+        title: "Influencer Whitelisting Process"
+        steps: "1. Identify 2-5 strong influencers 2. Get permission to run ads from their accounts 3. They create content selling your thing 4. You run as paid from their profile 5. Worth its weight in gold in commoditized spaces"
+        weight: 0.85
+        domains: ["advertising", "brand"]
+      - id: "MET-AH-ACQ-027"
+        title: "Deprivation Timing Test"
+        steps: "1. Map event/funnel timeline 2. ID moments of satiation 3. ID moments of deprivation 4. Move offer to deprivation moment 5. Test same offer at different points"
+        weight: 0.90
+        domains: ["sales", "events"]
+      - id: "MET-AH-ACQ-028"
+        title: "3-Stage Nurture Build"
+        steps: "1. Write messaging for 'sell the schedule' 2. Write for 'sell the show' 3. Write for 'sell the program'. Each stage different benefits."
+        weight: 0.85
+        domains: ["sales", "nurture"]
+      - id: "MET-AH-ACQ-029"
+        title: "Speed-to-Lead Implementation"
+        steps: "1. Instant notification on opt-in 2. Call/text within 5 min 3. If no answer, automated sequence 4. Personal follow-up within 24h 5. Track time-to-first-contact as KPI"
+        weight: 0.90
+        domains: ["sales", "lead-gen"]
+      - id: "MET-AH-ACQ-030"
+        title: "Shortening Payback with Payment Structure"
+        steps: "1. Charge first+last month upfront 2. Add initiation/enrollment fee (pure GP) 3. Get card on file during discount 4. Use card for seamless upsell 5. Every 2 customers buys you another 1 before recurring"
+        weight: 0.90
+        domains: ["money-models", "pricing"]

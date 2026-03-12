@@ -19,7 +19,7 @@
 # ═══════════════════════════════════════════════════════════════════════════════
 
 cargo: "ALEX-HORMOZI"
-versao: "2.0.0"
+versao: "3.0.0"
 nivel: "PERSON"
 natureza: "SOLO"
 data_criacao: "2026-03-02"
@@ -97,6 +97,13 @@ dna_sources:
         - "workshop"
         - "business-models"
         - "diagnostics"
+        - "money-models"
+        - "offers"
+        - "upsells"
+        - "downsells"
+        - "continuity"
+        - "CFA"
+        - "constraints"
       peso: 1.0
       quando_usar: "SEMPRE - fonte unica do agente SOLO"
       materiais_fonte:
@@ -136,6 +143,13 @@ dna_sources:
           tipo: "pipeline-batch"
           chunks_usados: 148
 
+
+        - titulo: "ACQ Scale Advisory $18k Upsell ($100M Money Models Course + Workshops)"
+          source_id: "AH-ACQ001"
+          tipo: "premium-course-transcriptions"
+          chunks_usados: 37
+          elements: 185
+          weight: 0.90
   # ───────────────────────────────────────────────────────────────────────────
   # FONTE SECUNDARIA (enrichment via AIOS)
   # ───────────────────────────────────────────────────────────────────────────
@@ -157,6 +171,13 @@ dna_sources:
         - "closing"
         - "operations"
         - "diagnostics"
+        - "money-models"
+        - "offers"
+        - "upsells"
+        - "downsells"
+        - "continuity"
+        - "CFA"
+        - "constraints"
       peso: 0.70
       quando_usar: "Validação cruzada e domínios não cobertos por fontes primárias"
       materiais_fonte:
@@ -170,20 +191,20 @@ dna_sources:
 # ═══════════════════════════════════════════════════════════════════════════════
 
 dna_statistics:
-  total_unique_elements: 418
+  total_unique_elements: 402
   by_layer:
-    L1_PHILOSOPHIES: 64
-    L2_MENTAL_MODELS: 61
+    L1_PHILOSOPHIES: 70
+    L2_MENTAL_MODELS: 67
     L3_HEURISTICS: 118
-    L4_FRAMEWORKS: 94
-    L5_METHODOLOGIES: 81
-  total_chunks_referenciados: 250
-  total_fontes: 8
+    L4_FRAMEWORKS: 78
+    L5_METHODOLOGIES: 69
+  total_chunks_referenciados: 324
+  total_fontes: 9
   peso_medio_geral: 0.88
   itens_peso_alto:
     total: 210
     porcentagem: 81
-  source_program: "Acquisition.com Portfolio (Mastermind + Playbooks + YouTube + Pipeline Batches)"
+  source_program: "Acquisition.com Portfolio (Mastermind + Playbooks + YouTube + Pipeline Batches + ACQ Scale Advisory)"
 
 # ═══════════════════════════════════════════════════════════════════════════════
 # MAPA DE CONFLITOS (N/A para agente SOLO)
@@ -257,11 +278,11 @@ regras_especificas:
 #
 # CHECKLIST antes de publicar:
 # [x] Fonte primaria tem raiz com path para inbox
-# [x] Todos os 8 fontes listadas (7 primario + 1 secundario)
+# [x] Todos os 9 fontes listadas (8 primario + 1 secundario)
 # [x] Heuristicas prioritarias tem fonte e source_id
 # [x] Restricoes tem fonte
-# [x] Estatisticas conferem com CONFIG.yaml (418 elementos)
+# [x] Estatisticas conferem com CONFIG.yaml (603 elementos)
 #
 # ═══════════════════════════════════════════════════════════════════════════════
 
-# Fim do DNA-CONFIG.yaml v2.0.0 - Alex Hormozi (SOLO Agent)
+# Fim do DNA-CONFIG.yaml v3.0.0 - Alex Hormozi (SOLO Agent)

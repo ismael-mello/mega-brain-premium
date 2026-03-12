@@ -114,13 +114,26 @@ dna_sources:
   primario:
     - pessoa: "alex-hormozi"
       path: "/knowledge/dna/persons/alex-hormozi"
-      raiz: "/inbox/alex hormozi/"              # RASTREABILIDADE
+      raiz: "/knowledge/sources/alex-hormozi/raw/"
       dominios_usados:
         - "vendas"
         - "scaling"
         - "offers"
+        - "upsells"
+        - "downsells"
+        - "continuity"
+        - "money-models"
+        - "CFA"
       peso: 0.85
-      quando_usar: "Decisoes de oferta, escala agressiva"
+      quando_usar: "Decisoes de oferta, escala agressiva, upsell/downsell strategy, continuity models, CFA framework"
+      acq18k_highlights:
+        - "FW-AH-ACQ-010: 4 Upsell Types (Classic 80%+, Recurring, Bigger, DFY)"
+        - "FW-AH-ACQ-015: 3 Downsell Types (Discount, Payment Plan, Downgrade)"
+        - "FW-AH-ACQ-020: 3 Continuity Types (Ongoing, Membership, Retainer)"
+        - "HEUR-AH-ACQ-020: 80%+ classic upsell take rate"
+        - "HEUR-AH-ACQ-021: 5-10x anchor upsell price"
+        - "HEUR-AH-ACQ-003: 2x CAC in 30 days = unlimited scale"
+      added_acq18k: "2026-03-11"
       insight_ids:                                                    # RASTREABILIDADE
         - "OF001"
         - "OF002"
