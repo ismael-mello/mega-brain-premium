@@ -11,6 +11,7 @@
 |---|----------|------|----------|--------|
 | 1 | The Copywriting Clinic | MASTERCLASS | 12 transcriptions (01A-06B) | ✅ COMPLETE |
 | 2 | 7-Figure Academy | MASTERCLASS | 152 transcriptions (CD1-CD12) | ✅ COMPLETE |
+| 3 | 12 Business Building Strategies | CONFERENCE | 6 files (4 usable, CD1A primary) | ✅ COMPLETE |
 
 ---
 
@@ -28,6 +29,11 @@
 | 8 | Snowstorm Test: o que dizer para ele dirigir 7h no gelo? | MM-DK-014 | 05B |
 | 9 | Bob Stupak Vegas World letter: word pictures com câmera grátis | FW-DK-008 | 04A |
 | 10 | Damaging admission: Stupak "this ain't Caesars" = mais credibilidade | FW-DK-031 | 05A |
+| 11 | Three Recession Responses: sell to DIFFERENT people, sell DIFFERENTLY, sell something DIFFERENT | FW-DK-050 | 12BBS-CD1A |
+| 12 | Certainty Selling: "the more certain you are, the more power you have" — at dark times desire to believe intensifies | FIL-DK-046, FIL-DK-047 | 12BBS-CD1A |
+| 13 | Harley Garage Parties: Tupperware model for motorcycles, sisterhood, graduation ceremonies → changed entire demographic | MET-DK-040 | 12BBS-CD1A |
+| 14 | Hyundai Job Loss Guarantee flooded dealerships — identify #1 fear, build guarantee around it | HEUR-DK-065 | 12BBS-CD1A |
+| 15 | Robert Collier Principle: step into conversation already in prospect's mind — 3 internal self-talks | MM-DK-044, MM-DK-045 | 12BBS-CD1A |
 
 ---
 
@@ -54,3 +60,7 @@
 - "I mean, you know..."
 - "Here's where America is"
 - "God bless them" (sarcástico)
+- "Somewhere there's somebody always buying everything"
+- "People desperately want to believe"
+- "Whether they back the car over you on purpose or by accident, you're still dead"
+- "Playing blind archery"

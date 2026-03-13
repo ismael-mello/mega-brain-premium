@@ -6,6 +6,7 @@
 # Integrado com: AGENT-COGNITION-PROTOCOL (FASE 1.5), AGENT-INTEGRITY-PROTOCOL
 #
 # CHANGELOG:
+# v3.3.0 (2026-03-13): Adicionado dan-kennedy (0.55) — implementação paralela, gestão de reuniões, especialização de equipe (7FA)
 # v3.0.0 (2026-01-10): BUG #1 FIX - Cascateamento completo
 #                      - Removido AGG-OPERATIONS.yaml (não existe)
 #                      - Removido AGG-SCALING.yaml (não existe)
@@ -27,11 +28,11 @@
 # ═══════════════════════════════════════════════════════════════════════════════
 
 cargo: "COO"
-versao: "3.2.0"
+versao: "3.3.0"
 nivel: "C-LEVEL"
 natureza: "HIBRIDO"
 data_criacao: "2025-12-23"
-ultima_atualizacao: "2026-03-11"
+ultima_atualizacao: "2026-03-13"
 
 # ═══════════════════════════════════════════════════════════════════════════════
 # CONSTITUICAO (Layer 1 - Principios compartilhados)
@@ -255,6 +256,26 @@ dna_sources:
         - "FW-FLCR-027: OKR Simplificado"
         - "FW-FLCR-020: Estrutura Organizacional por Fase"
         - "FW-FLCR-043: Matriz GUT de Priorização"
+
+    - pessoa: "dan-kennedy"
+      peso: 0.55
+      path: "/knowledge/dna/persons/dan-kennedy/"
+      raiz: "/knowledge/sources/dan-kennedy/raw/"
+      dominios_relevantes:
+        - "parallel-execution"
+        - "meeting-management"
+        - "team-specialist-model"
+        - "business-systems"
+      elementos_chave:
+        - "FW-DK-040 (Framework de Implementação Paralela vs Sequencial)"
+        - "HEUR-DK-052 (Reuniões sem Hora de Término São Inacabadas)"
+        - "FW-DK-042 (Framework do Especialista de Equipe vs Estrela Solo)"
+        - "MM-DK-039 (Modelo de Compartimentalização Cognitiva)"
+        - "FIL-DK-035 (Paralelismo como Filosofia de Execução)"
+        - "FIL-DK-040 (Tempo é o Único Recurso Não Renovável)"
+        - "FW-DK-049 (Framework do Modelo de Franquia Evolutivo)"
+      justificativa: "DK 7FA: paralelismo de execução, gestão de tempo/reuniões, especialização de equipe, sistemas replicáveis"
+      adicionado_em: "2026-03-13"
 
     - pessoa: "THE-SCALABLE-COMPANY"
       path: "/knowledge/dna/persons/THE-SCALABLE-COMPANY"

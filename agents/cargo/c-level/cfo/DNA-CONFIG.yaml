@@ -5,6 +5,7 @@
 # Data: 2026-01-10
 #
 # CHANGELOG:
+# v3.3.0 (2026-03-13): Adicionado dan-kennedy (0.60) — pricing psychology, front-end/back-end economics, preeminência (7FA)
 # v3.0.0 (2026-01-10): BUG #1 FIX - Cascateamento completo
 #                      - Removido AGG-COMPENSATION.yaml (não existe)
 #                      - Removido AGG-OPERATIONS.yaml (não existe)
@@ -14,11 +15,11 @@
 # v1.0.0 (2025-12-23): Versão inicial
 
 cargo: "CFO"
-versao: "3.2.0"
+versao: "3.3.0"
 nivel: "C-LEVEL"
 natureza: "HIBRIDO"
 data_criacao: "2025-12-23"
-ultima_atualizacao: "2026-03-11"
+ultima_atualizacao: "2026-03-13"
 
 # ═══════════════════════════════════════════════════════════════════════════════
 # CONSTITUICAO (Layer 1 - Principios compartilhados)
@@ -104,6 +105,24 @@ dna_sources:
       justificativa: "Curso especializado em gestão financeira empresarial — fonte primária para CFO"
       added: "2026-03-11"
       source: "Capital Upgrade (Paulo Vito Porto / PWR Gestão)"
+
+    - pessoa: "dan-kennedy"
+      peso: 0.60
+      path: "/knowledge/dna/persons/dan-kennedy/"
+      raiz: "/knowledge/sources/dan-kennedy/raw/"
+      dominios_relevantes:
+        - "pricing-psychology"
+        - "front-end-back-end-economics"
+        - "preeminence-value-model"
+      elementos_chave:
+        - "MM-DK-043 (Modelo de Preço como Seleção de Cliente)"
+        - "FW-DK-038 (Framework de Preeminência - dar generosamente no front-end)"
+        - "HEUR-DK-060 (100% do front-end para mídia se back-end justifica)"
+        - "MM-DK-031 (3 Formas de Crescer - LTV e frequência)"
+        - "FW-DK-049 (Framework do Modelo de Franquia Evolutivo)"
+        - "HEUR-DK-059 (Eliminar custos sem reduzir valor percebido)"
+      justificativa: "DK 7FA: pricing como seleção de cliente, LTV/front-end economics, modelos de negócio escaláveis"
+      adicionado_em: "2026-03-13"
 
 # ═══════════════════════════════════════════════════════════════════════════════
 # MAPA DE CONFLITOS

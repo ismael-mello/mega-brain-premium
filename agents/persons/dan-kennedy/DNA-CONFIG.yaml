@@ -33,14 +33,23 @@ dna_sources:
     raiz: "knowledge/sources/dan-kennedy/raw/7-figure-academy/Main/Audio/"
     files: 152
     cds: [CD1, CD2, CD3, CD4, CD5, CD6, CD7, CD8, CD9, CD10, CD11, CD12]
+  - source: "12-business-building-strategies"
+    person: "dan-kennedy"
+    weight: 1.0
+    path: "knowledge/dna/persons/dan-kennedy/DNA.yaml"
+    raiz: "knowledge/sources/dan-kennedy/raw/12-business-building-strategies/"
+    files: 6
+    usable_files: 4
+    primary: "CD1A_Confronting_Paganism.txt"
+    context: "GKIC Super Conference ~2008-2009 recession era"
 
-total_elements: 234
+total_elements: 273
 breakdown:
-  L1_FILOSOFIAS: 43
-  L2_MODELOS_MENTAIS: 43
-  L3_HEURISTICAS: 60
-  L4_FRAMEWORKS: 49
-  L5_METODOLOGIAS: 39
+  L1_FILOSOFIAS: 52
+  L2_MODELOS_MENTAIS: 50
+  L3_HEURISTICAS: 71
+  L4_FRAMEWORKS: 56
+  L5_METODOLOGIAS: 44
 
 domains:
   - copywriting
@@ -65,6 +74,12 @@ domains:
   - joint-ventures
   - inner-game
   - authority-creation
+  - recession-proofing
+  - certainty-selling
+  - geographic-expansion
+  - commodity-escape
+  - permission-to-buy
+  - adjacent-products
 
 references:
   - name: "Gary Halbert"

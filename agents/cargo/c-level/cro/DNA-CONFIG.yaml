@@ -17,13 +17,14 @@
 # ═══════════════════════════════════════════════════════════════════════════════
 
 cargo: "CRO"
-versao: "3.2.0"
+versao: "3.3.0"
 nivel: "C-LEVEL"
 natureza: "HIBRIDO"
 data_criacao: "2025-12-23"
-ultima_atualizacao: "2026-03-12"
+ultima_atualizacao: "2026-03-13"
 
 # CHANGELOG:
+# v3.3.0 (2026-03-13): Adicionado dan-kennedy (0.65) — JV, aquisição, preeminência (7FA CDs 6-8, 12)
 # v3.0.0 (2026-01-10): BUG #1 FIX - Cascateamento completo
 #                      - Removido AGG-SCALING.yaml (não existe)
 #                      - Adicionado AGG-OFFERS.yaml (relevante para revenue)
@@ -303,6 +304,25 @@ dna_sources:
         - "FW-FLCR-012: Sistema de Follow-up em Cadência"
         - "FW-FLCR-019: Framework de Meritocracia"
         - "MM-FLCR-004: Espectro de Engajamento (13% → +147% performance)"
+
+    - fonte: "dan-kennedy"
+      peso: 0.65
+      path: "/knowledge/dna/persons/dan-kennedy/"
+      raiz: "/knowledge/sources/dan-kennedy/raw/"
+      dominios_relevantes:
+        - "joint-ventures"
+        - "business-acquisition"
+        - "preeminence-strategy"
+      elementos_chave:
+        - "FW-DK-038 (Framework de Preeminência - Jay Abraham)"
+        - "MM-DK-032 (Modelo Host-Beneficiário)"
+        - "MM-DK-033 (9 Pontos de Alavancagem Jay Abraham)"
+        - "MET-DK-035 (Metodologia de JV / Host-Beneficiário)"
+        - "FW-DK-036 (Framework de Aquisição em 3 Escolhas)"
+        - "FW-DK-047 (Modelagem de Negócios por Analogia Intersetorial)"
+        - "MM-DK-031 (3 Formas de Crescer - Jay Abraham)"
+      justificativa: "DK 7FA: JV estratégia, aquisição de negócios, preeminência como posicionamento de receita"
+      adicionado_em: "2026-03-13"
 
 # ═══════════════════════════════════════════════════════════════════════════════
 # MAPA DE CONFLITOS
