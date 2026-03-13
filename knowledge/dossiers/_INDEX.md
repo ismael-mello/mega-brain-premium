@@ -1,7 +1,7 @@
 # INDEX: DOSSIERS
 
-> **Ultima atualizacao:** 2026-03-01
-> **Total:** 35 dossiers (11 PERSONS + 24 THEMES)
+> **Ultima atualizacao:** 2026-03-13
+> **Total:** 39 dossiers (11 PERSONS + 28 THEMES)
 
 ---
 
@@ -58,6 +58,15 @@
 | [DOSSIER-PERFECT-WEBINAR](themes/DOSSIER-PERFECT-WEBINAR.md) | Perfect Webinar Methodology | RB 100% | **NEW** |
 | [DOSSIER-FUNNEL-ARCHITECTURE](themes/DOSSIER-FUNNEL-ARCHITECTURE.md) | Funnel Architecture & Value Ladder | RB 100% | **NEW** |
 | [DOSSIER-STORYTELLING-PERSUASION](themes/DOSSIER-STORYTELLING-PERSUASION.md) | Storytelling & Persuasion | RB 100% | **NEW** |
+
+### Dan Kennedy — 7-Figure Academy (4)
+
+| Dossier | Tema | Fontes | Status |
+|---------|------|--------|--------|
+| [DOSSIER-STATUS-POSITIONING](themes/DOSSIER-STATUS-POSITIONING.md) | Status, Autoridade e Filosofia Pessoal | DK 7FA 100% | **NEW** |
+| [DOSSIER-WEALTH-PSYCHOLOGY](themes/DOSSIER-WEALTH-PSYCHOLOGY.md) | Psicologia de Riqueza e Resistências a 7 Dígitos | DK 7FA 100% | **NEW** |
+| [DOSSIER-JOINT-VENTURES](themes/DOSSIER-JOINT-VENTURES.md) | Joint Ventures, Host-Beneficiário, 9 Pontos de Alavancagem | DK 7FA 100% | **NEW** |
+| [DOSSIER-BUSINESS-MODELS](themes/DOSSIER-BUSINESS-MODELS.md) | Modelos de Negócio, Aquisição e Inovação por Analogia | DK 7FA 100% | **NEW** |
 
 ### Cascateamento REGRA #22 (5)
 

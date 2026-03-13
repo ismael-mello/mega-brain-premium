@@ -15,8 +15,11 @@ fontes_consolidadas:
     peso_dominio: 0.95
     path: "/knowledge/dna/persons/dan-kennedy/"
     raiz: "/knowledge/sources/dan-kennedy/raw/copywriting-clinic/"
-    contribuicao_principal: "Direct mail salesmanship, headline mastery, pain-pleasure sequence"
-    elementos_relevantes: 156
+    contribuicao_principal: "Direct mail salesmanship, headline mastery, pain-pleasure sequence, hook discovery, pre-framing"
+    elementos_relevantes: 234
+    fontes_incluidas:
+      - "The Copywriting Clinic (156 elementos — core copywriting)"
+      - "7-Figure Academy (78 elementos — business copy, moral obligation, preeminência)"
 
   - fonte: "russell-brunson"
     peso_dominio: 0.85
@@ -77,6 +80,11 @@ filosofias:
     fonte: "dan-kennedy" | ref: "FIL-DK-020"
     peso: 0.85
 
+  - id: "FIL-COPY-009"
+    filosofia: "Obrigação moral de não deixar o prospecto não comprar — se acredita no produto, vender com 100% de esforço é ético"
+    fonte: "dan-kennedy" | ref: "FIL-DK-038 (7FA-CD8)"
+    peso: 0.90
+
 # ═══════════════════════════════════════════════════════════════════════════════
 # HEURÍSTICAS (com números)
 # ═══════════════════════════════════════════════════════════════════════════════
@@ -105,6 +113,14 @@ heuristicas:
   - id: "HEUR-COPY-006"
     heuristica: "$1 front-end = $16 de receita em follow-up"
     tipo: numeric | fonte: "russell-brunson" | ref: "HEUR-RB-001"
+
+  - id: "HEUR-COPY-007"
+    heuristica: "Mínimo 3 semanas de imersão no produto/mercado antes de escrever o hook"
+    tipo: numeric | fonte: "dan-kennedy" | ref: "HEUR-DK-051 (7FA-CD10)"
+
+  - id: "HEUR-COPY-008"
+    heuristica: "Conversão cold-to-prepared pode dobrar vs cold-to-pitch direto (delay deliberado + pacote de pré-aquecimento)"
+    tipo: numeric | fonte: "dan-kennedy" | ref: "MM-DK-041, MET-DK-029 (7FA-CD6)"
 
 # ═══════════════════════════════════════════════════════════════════════════════
 # FRAMEWORKS CORE
@@ -165,6 +181,24 @@ frameworks:
     fonte: "dan-kennedy" | ref: "FW-DK-016, MET-DK-004"
     peso: 0.85
 
+  - id: "FW-COPY-010"
+    nome: "Pre-Framing de Expectativas (DK 7FA)"
+    passos: "1. Identificar resultado menos desejado possível → 2. Pre-calibrar expectativa na comunicação pré-venda → 3. Posicionar resultado médio como sucesso → 4. Criar deslumbramento quando supera o frame"
+    fonte: "dan-kennedy" | ref: "FW-DK-048 (7FA-CD11)"
+    peso: 0.85
+
+  - id: "FW-COPY-011"
+    nome: "Imersão no Mercado para Descoberta do Hook (DK 7FA)"
+    passos: "1. 2-3 semanas com produto/usuários → 2. Entrevistar criadores sobre orgulho → 3. Observação sem filtros → 4. Listar detalhes surpreendentes → 5. 'O que nunca foi dito?' → 6. Headline com detalhe mais surpreendente"
+    fonte: "dan-kennedy" | ref: "MM-DK-037, HEUR-DK-051, MET-DK-036 (7FA-CD10)"
+    peso: 0.90
+
+  - id: "FW-COPY-012"
+    nome: "Venda Fria-para-Preparada com Delay Deliberado (DK 7FA)"
+    passos: "1. Identificar prospecto frio → 2. Não fazer pitch — anunciar pacote de informações → 3. Enviar pacote de pré-aquecimento (cases, depoimentos, FAQ) → 4. Aguardar 5-7 dias → 5. Chamada com prospecto preparado"
+    fonte: "dan-kennedy" | ref: "MM-DK-041, MET-DK-029 (7FA-CD6)"
+    peso: 0.85
+
 # ═══════════════════════════════════════════════════════════════════════════════
 # TENSÕES ENTRE FONTES
 # ═══════════════════════════════════════════════════════════════════════════════
@@ -187,6 +221,13 @@ tensoes:
 # ═══════════════════════════════════════════════════════════════════════════════
 
 changelog:
+  - versao: "1.1.0"
+    data: "2026-03-13"
+    mudancas:
+      - "DK 7FA integrado: elementos_relevantes 156→234 (7FA: hook research, pre-framing, cold-to-prepared, moral obligation)"
+      - "+1 filosofia (FIL-COPY-009: obrigação moral), +2 heurísticas (HEUR-COPY-007-008), +3 frameworks (FW-COPY-010-012)"
+      - "DK fontes_incluidas documentadas (CC + 7FA)"
+
   - versao: "1.0.0"
     data: "2026-03-13"
     mudancas:
