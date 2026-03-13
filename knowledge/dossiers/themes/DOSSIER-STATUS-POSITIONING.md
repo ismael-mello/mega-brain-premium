@@ -1,7 +1,7 @@
 # DOSSIER-STATUS-POSITIONING
 # Tema: Status, Positioning de Autoridade e Filosofia Pessoal
 # Fonte Primária: Dan Kennedy (7-Figure Academy, CDs 1, 12)
-# Versão: 1.0.0 | Criado: 2026-03-13
+# Versão: 2.0.0 | Criado: 2026-03-13 | Atualizado: 2026-03-13 (12BBS commodity escape)
 
 ---
 
@@ -37,6 +37,13 @@ não concedida.
 - Sem filosofia clara, decisões de negócio ficam inconsistentes
 - Fonte: 7FA-CD12-T01
 
+### FIL-DK-045 — Escape da Commodity: Mude a Percepção (12BBS)
+> "If you're in a commodity business, GET OUT — not literally, but change the perception of what you sell"
+- Se o que você vende é percebido como commodity, está em guerra de preço (race to bottom)
+- A solução não é sair do negócio — é mudar a PERCEPÇÃO do que vende
+- Transformar commodity em experiência/aspiração = pricing premium sem competição
+- Fonte: 12BBS-CD1A
+
 ### FIL-DK-032 — Alinhamento Filosófico como Critério de Seleção em Vendas Complexas
 > "What people are really trying to figure out in complex buying is: are we in sync? Do we have shared values, shared philosophy?"
 - Em vendas de alto valor, compradores avaliam alinhamento filosófico, não apenas competência
@@ -54,6 +61,13 @@ não concedida.
 - Preço alto seleciona clientes com mais recursos, mais comprometidos e que dão menos trabalho
 - Preço baixo atrai volume mas também drena energia e tem menor taxa de sucesso
 - Fonte: 7FA-CD1
+
+### MM-DK-046 — Commodity vs. Non-Commodity Perception (12BBS)
+> "You're either selling a commodity (price war, race to bottom) or an aspiration/experience (premium pricing, no competition)"
+- Binário: ou você é commodity (compete por preço) ou não-commodity (compete por percepção)
+- O gap entre os dois é onde o lucro vive
+- Transformação: Harley (motos → aspirações), Rosewood (quartos → experiências literárias)
+- Fonte: 12BBS-CD1A
 
 ---
 
@@ -85,6 +99,15 @@ Componentes:
 4. Manter desdém compassivo pelos que permanecem na mediocridade como motivação
 5. Construir referências concretas de superioridade para ancoragem psicológica
 - Fonte: 7FA-CD12-T04
+
+### FW-DK-055 — Commodity Escape via Experience Wrapping (12BBS)
+Transformar commodity em experiência premium:
+1. Identificar o produto/serviço que é visto como commodity
+2. Wrapping: envolver com experiência aspiracional (Harley → sisterhood, Rosewood → literary dinners)
+3. Pricing premium justificado pela experiência, não pelo produto
+4. Eliminar comparação direta com concorrentes (não-commodity = sem benchmark)
+- Exemplos: relógios $80K (timepiece → racing machine), hotel → author dinner experience
+- Fonte: 12BBS-CD1A
 
 ---
 
@@ -134,3 +157,4 @@ Passos:
 | Versão | Data | Mudança |
 |--------|------|---------|
 | 1.0.0 | 2026-03-13 | Criação — DK 7FA CDs 1, 12 (status, autoridade, filosofia) |
+| 2.0.0 | 2026-03-13 | 12BBS enrichment: commodity escape (FIL-DK-045, MM-DK-046, FW-DK-055) |

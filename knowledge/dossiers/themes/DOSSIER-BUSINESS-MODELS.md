@@ -1,7 +1,7 @@
 # DOSSIER-BUSINESS-MODELS
 # Tema: Modelos de Negócio, Aquisição e Inovação por Analogia
 # Fonte Primária: Dan Kennedy (7-Figure Academy, CDs 7-8)
-# Versão: 1.0.0 | Criado: 2026-03-13
+# Versão: 2.0.0 | Criado: 2026-03-13 | Atualizado: 2026-03-13 (12BBS adjacent products)
 
 ---
 
@@ -91,6 +91,16 @@ Negócios escaláveis seguem uma trajetória de franquia:
 5. Criar barreiras (marca, propriedade intelectual, exclusividade territorial) antes que o concorrente de segunda geração apareça
 - Fonte: 7FA-CD7
 
+### FW-DK-053 — Adjacent Product Expansion Framework (12BBS)
+Use o core business para vender muitas coisas diferentes:
+1. Identificar ativo/capacidade central do negócio
+2. Listar TODAS as experiências/serviços que esse ativo permite
+3. Empacotar como ofertas premium
+4. Vender primeiro para base existente
+- Disney: parks → timeshares, glamping tree houses, cooking schools, business training, Hawaii resort
+- Blue Canyon: restaurant → wine school, casino trips, cooking classes
+- Fonte: 12BBS-CD1A
+
 ### FW-DK-036 — Framework de Aquisição em 3 Escolhas
 Ao adquirir um negócio concorrente, 3 opções estratégicas:
 - A: Preservar como entidade separada (valor de "possuir o próprio concorrente")
@@ -117,6 +127,24 @@ Ao adquirir um negócio concorrente, 3 opções estratégicas:
 ---
 
 ## METODOLOGIAS (L5)
+
+### MET-DK-041 — Adjacent Revenue Stream Launch (12BBS)
+Passos:
+1. Identificar ativo/capacidade central do negócio
+2. Listar todas as experiências/serviços que o ativo permite
+3. Empacotar como ofertas premium com linguagem aspiracional
+4. Vender primeiro para base existente de clientes
+- Blue Canyon: restaurant → wine school + casino day trips + cooking classes
+- Fonte: 12BBS-CD1A
+
+### MET-DK-044 — Experience Monetization Method (12BBS)
+Passos:
+1. Auditar o que o negócio faz excepcionalmente bem
+2. Identificar experiências adjacentes pelas quais clientes pagariam
+3. Criar packaging premium com linguagem aspiracional
+4. Usar acesso low-cost como funil de aquisição
+- Playhouse company: $8/day unlimited play = funnel para vendas de $10K-$80K playhouses
+- Fonte: 12BBS-CD1A
 
 ### MET-DK-039 — Metodologia de Lançamento de Associação Proprietária
 Como criar uma associação de indústria do zero para dominar um nicho:
@@ -146,3 +174,4 @@ Como criar uma associação de indústria do zero para dominar um nicho:
 | Versão | Data | Mudança |
 |--------|------|---------|
 | 1.0.0 | 2026-03-13 | Criação — DK 7FA CDs 7-8 (modelos de negócio, analogia intersetorial, aquisição, franquia) |
+| 2.0.0 | 2026-03-13 | 12BBS enrichment: adjacent products (FW-DK-053, MET-DK-041, MET-DK-044) |

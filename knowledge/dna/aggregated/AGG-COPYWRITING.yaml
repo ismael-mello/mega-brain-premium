@@ -16,10 +16,11 @@ fontes_consolidadas:
     path: "/knowledge/dna/persons/dan-kennedy/"
     raiz: "/knowledge/sources/dan-kennedy/raw/copywriting-clinic/"
     contribuicao_principal: "Direct mail salesmanship, headline mastery, pain-pleasure sequence, hook discovery, pre-framing"
-    elementos_relevantes: 234
+    elementos_relevantes: 273
     fontes_incluidas:
       - "The Copywriting Clinic (156 elementos — core copywriting)"
       - "7-Figure Academy (78 elementos — business copy, moral obligation, preeminência)"
+      - "12 Business Building Strategies (39 elementos — Collier Principle, recession alignment, certainty selling)"
 
   - fonte: "russell-brunson"
     peso_dominio: 0.85
@@ -199,6 +200,24 @@ frameworks:
     fonte: "dan-kennedy" | ref: "MM-DK-041, MET-DK-029 (7FA-CD6)"
     peso: 0.85
 
+  - id: "FW-COPY-013"
+    nome: "Collier Principle — Step Into Existing Conversation (DK 12BBS)"
+    passos: "1. Identificar diálogo interno do prospecto (3 conversas possíveis) → 2. Alinhar headline/abertura a ESSA conversa → 3. Fornecer certeza específica ao contexto → 4. Chamar para ação dentro do frame"
+    fonte: "dan-kennedy" | ref: "MM-DK-044, MM-DK-045, FW-DK-051 (12BBS-CD1A)"
+    peso: 0.90
+
+  - id: "FW-COPY-014"
+    nome: "Recession Message Alignment (DK 12BBS)"
+    passos: "1. Identificar qual das 3 conversas internas o prospecto está tendo → 2. Match da mensagem → 3. Fornecer certeza para agir AGORA → 4. Construir garantia ao redor do medo econômico"
+    fonte: "dan-kennedy" | ref: "MET-DK-042, FW-DK-051 (12BBS-CD1A)"
+    peso: 0.85
+
+  - id: "FW-COPY-015"
+    nome: "Certainty Selling Copy — Conviction Transfer (DK 12BBS)"
+    passos: "1. Escrever com convicção ABSOLUTA (não hedging) → 2. Prospecto empresta confiança do copy → 3. Em incerteza de mercado, certeza na copy = diferenciador"
+    fonte: "dan-kennedy" | ref: "FW-DK-052, FIL-DK-047 (12BBS-CD1A)"
+    peso: 0.85
+
 # ═══════════════════════════════════════════════════════════════════════════════
 # TENSÕES ENTRE FONTES
 # ═══════════════════════════════════════════════════════════════════════════════
@@ -221,6 +240,13 @@ tensoes:
 # ═══════════════════════════════════════════════════════════════════════════════
 
 changelog:
+  - versao: "1.2.0"
+    data: "2026-03-13"
+    mudancas:
+      - "12BBS integrado: elementos_relevantes 234→273 (Collier Principle, recession alignment, certainty selling)"
+      - "+3 frameworks (FW-COPY-013-015: Collier, recession alignment, certainty copy)"
+      - "DK fontes_incluidas: adicionado 12BBS (39 elementos)"
+
   - versao: "1.1.0"
     data: "2026-03-13"
     mudancas:
