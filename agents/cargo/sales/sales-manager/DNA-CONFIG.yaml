@@ -6,7 +6,7 @@
 # Template: DNA-CONFIG-V2 (100% rastreabilidade)
 
 cargo: "SALES-MANAGER"
-versao: "3.3.0"
+versao: "3.4.0"
 nivel: "SALES"
 
 # ═══════════════════════════════════════════════════════════════════
@@ -154,6 +154,40 @@ dna_primario:
       - "Benchmarks BR (metricas, remuneracao)"
       - "4 Tipos de SDR"
     justificativa: "Modelo operacional brasileiro"
+
+  - pessoa: "dan-kennedy"
+    peso: 0.70
+    dominios_absorvidos:
+      - "Objection Draining in Copy"
+      - "Irresistible Offer Construction"
+      - "Urgency Construction (real deadlines)"
+      - "Word Pictures for Sales Pitches"
+      - "Lead Gen Inversion (outbound→inbound)"
+    path: "/knowledge/dna/persons/dan-kennedy"
+    raiz: "/knowledge/sources/dan-kennedy/raw/copywriting-clinic/"
+    justificativa: "Copy de vendas e construção de oferta irresistível — Sales Manager define scripts, pitches e sequências de follow-up"
+    added: "2026-03-13"
+    insights_adicionais:
+      - id: "DK-OBJ001"
+        tema: "Objection Draining"
+        descricao: "Listar TODAS as razões para não comprar → responder cada uma → fechar o loop"
+        aplicacao: "Sales Manager usa para treinar vendedores e revisar scripts de objeção"
+        ref: "FW-DK-007, MET-DK-006"
+      - id: "DK-URG001"
+        tema: "Urgency Construction"
+        descricao: "Deadline REAL + razão REAL para o deadline. Recompensar early responders + penalizar procrastinadores"
+        aplicacao: "Calibrar timing de follow-up e urgência — nunca urgência falsa"
+        ref: "FW-DK-013"
+      - id: "DK-OFF001"
+        tema: "Irresistible Offer"
+        descricao: "Core + bonuses de valor real + garantia outcome-worded + urgência → Snowstorm Test"
+        aplicacao: "Sales Manager usa para avaliar se oferta está strong o suficiente antes de subir volume"
+        ref: "MET-DK-016"
+      - id: "DK-LGINV001"
+        tema: "Lead Gen Inversion"
+        descricao: "Warning ad → 16-page letter → decision-maker LIGA para você (80% inbound vs 80% outbound)"
+        aplicacao: "Modelo de benchmark: vendas inbound com decisão-maker ligando são 3x mais eficientes"
+        ref: "FW-DK-016, HEUR-DK-033"
 
   - pessoa: "jeremy-haynes"
     peso: 0.65

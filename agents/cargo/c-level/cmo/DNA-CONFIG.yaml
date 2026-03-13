@@ -24,11 +24,11 @@
 # ═══════════════════════════════════════════════════════════════════════════════
 
 cargo: "CMO"
-versao: "3.3.0"
+versao: "3.4.0"
 nivel: "C-LEVEL"
 natureza: "HIBRIDO"
 data_criacao: "2025-12-23"
-ultima_atualizacao: "2026-03-12"
+ultima_atualizacao: "2026-03-13"
 
 # ═══════════════════════════════════════════════════════════════════════════════
 # CONSTITUICAO (Layer 1 - Principios compartilhados)
@@ -87,11 +87,11 @@ dna_sources:
     # ─── AIOS Domain DNAs (added 2026-03-12) ───
     - dominio: "copywriting"
       path: "/knowledge/dna/AGGREGATED/AGG-COPYWRITING.yaml"
-      peso: 0.80
-      quando_usar: "Copy de ads, landing pages, emails, headlines"
+      peso: 0.85
+      quando_usar: "Copy de ads, landing pages, emails, headlines, direct response"
       justificativa: "CMO é dono de toda comunicação de marketing — copy é core"
-      added: "2026-03-12"
-      source: "AIOS Copy Squad"
+      updated: "2026-03-13"
+      source: "Dan Kennedy (primário) + Russell Brunson + Alex Hormozi"
 
     - dominio: "brand-strategy"
       path: "/knowledge/dna/AGGREGATED/AGG-BRAND-STRATEGY.yaml"
@@ -309,6 +309,39 @@ dna_sources:
             - "Searcher vs Scroller = two behavior types, two strategies"
             - "Platform Lifecycle = Adoption → Price Hike → Slap"
             - "81% of sales happen after 5th contact"
+
+    - pessoa: "dan-kennedy"
+      path: "/knowledge/dna/persons/dan-kennedy"
+      raiz: "/knowledge/sources/dan-kennedy/raw/copywriting-clinic/"
+      dominios_usados:
+        - "direct-response-copywriting"
+        - "headline-mastery"
+        - "direct-mail"
+        - "pain-pleasure-copy"
+        - "offer-construction"
+      peso: 0.85
+      quando_usar: "Copy de resposta direta, headlines, long-form sales pages, urgência, VSL scripts, objection draining"
+      added: "2026-03-13"
+      insight_ids:
+        - "FIL-DK-003"  # Headline = 70-80% da batalha
+        - "FW-DK-004"   # Pain-Pleasure Sales Sequence
+        - "FW-DK-007"   # Objection Draining in Copy
+        - "FW-DK-013"   # Urgency Construction
+        - "MET-DK-001"  # Complete Copy Creation Process
+        - "MET-DK-002"  # Headline Writing Methodology
+        - "MET-DK-028"  # Copy Self-Audit Checklist
+      materiais_fonte:
+        - titulo: "The Copywriting Clinic (12 transcriptions)"
+          path_raiz: "/knowledge/sources/dan-kennedy/raw/copywriting-clinic/"
+          tipo: "masterclass"
+          data_processamento: "2026-03-13"
+          insights_principais:
+            - "Headline = 70-80% da batalha em direct response"
+            - "Pain before pleasure em toda copy"
+            - "Objection draining: listar TODAS as razões para não comprar e responder"
+            - "Urgência real com deadline real e razão real"
+            - "Copy longa funciona — pessoa interessada lê tudo"
+            - "Lead Gen Inversion: warning ad → 16-page letter → decision-maker liga para você"
 
     - pessoa: "SAM-OVEN"
       path: "/knowledge/dna/persons/SAM-OVEN"
