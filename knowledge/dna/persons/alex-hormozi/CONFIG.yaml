@@ -5,9 +5,9 @@
 # Template: DNA-PERSONS-V2 (100% rastreabilidade)
 
 pessoa: "Alex Hormozi"
-versao: "4.0.0"
+versao: "5.0.0"
 data_extracao: "2025-12-23T12:00:00Z"
-data_atualizacao: "2026-03-11T00:00:00Z"
+data_atualizacao: "2026-03-11T22:00:00Z"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # RASTREABILIDADE
@@ -16,21 +16,22 @@ data_atualizacao: "2026-03-11T00:00:00Z"
 rastreabilidade:
   arquivos_dna:
     - path: "./FILOSOFIAS.yaml"
-      total_itens: 37
+      total_itens: 60
     - path: "./MODELOS-MENTAIS.yaml"
-      total_itens: 30
+      total_itens: 50
     - path: "./HEURISTICAS.yaml"
-      total_itens: 83
+      total_itens: 111
     - path: "./FRAMEWORKS.yaml"
-      total_itens: 63
+      total_itens: 85
     - path: "./METODOLOGIAS.yaml"
-      total_itens: 47
+      total_itens: 65
 
   fontes_originais:
     - path: "/inbox/alex hormozi (acquisition.com)/"
     - path: "/processing/chunks/CHUNKS-STATE.json"
     - path: "/processing/insights/INSIGHTS-STATE.json"
     - path: "/knowledge/sources/aios-squads/01-HORMOZI-SQUAD.md"
+    - path: "knowledge/sources/alex-hormozi/raw/acq-scale-advisory/"
 
   dossiers_relacionados:
     - "/knowledge/dossiers/persons/DOSSIER-ALEX-HORMOZI.md"
@@ -205,7 +206,7 @@ sintese:
 # ═══════════════════════════════════════════════════════════════════════════
 
 metadados:
-  total_insights_processados: 418
+  total_insights_processados: 603
   total_chunks_referenciados: 250
 
   fontes_utilizadas:
@@ -237,12 +238,18 @@ metadados:
       elements: 158
       weight: 0.70
 
+    - source_id: "AH-ACQ001"
+      source_title: "ACQ Scale Advisory $18k Upsell ($100M Money Models Course + Workshops)"
+      chunks_usados: 37
+      elements: 185
+      weight: 0.90
+
   distribuicao_por_camada:
-    filosofias: 64
-    modelos_mentais: 61
-    heuristicas: 118
-    frameworks: 94
-    metodologias: 81
+    filosofias: 99
+    modelos_mentais: 91
+    heuristicas: 173
+    frameworks: 129
+    metodologias: 111
 
   peso_medio_geral: 0.88
 
@@ -287,6 +294,19 @@ conexoes:
 # ═══════════════════════════════════════════════════════════════════════════
 
 changelog:
+  - data: "2026-03-11T22:00:00Z"
+    acao: "Enrichment - ACQ Scale Advisory $18k Upsell (primary source, weight 0.90)"
+    mudancas:
+      - "Added 185 elements from ACQ Scale Advisory ($100M Money Models Course + 3 Workshops)"
+      - "New source: AH-ACQ001 (37 transcriptions, 1.56MB, $18k premium content)"
+      - "New domains: money-models, offers, upsells, downsells, continuity, CFA"
+      - "Filosofias: +23 (total 87), Modelos Mentais: +20 (total 81)"
+      - "Heurísticas: +28 (total 146), Frameworks: +22 (total 116)"
+      - "Metodologias: +18 (total 99). Grand total: 603 elements"
+      - "Weight: 0.90 (primary source - direct $18k course transcriptions)"
+      - "Key concepts: Four-Pronged Money Model, CFA, 16 Offer Types, Mozi Six"
+    versao: "5.0.0"
+
   - data: "2026-03-11T00:00:00Z"
     acao: "Enrichment - AIOS Hormozi-Squad (secondary source, weight 0.70)"
     mudancas:

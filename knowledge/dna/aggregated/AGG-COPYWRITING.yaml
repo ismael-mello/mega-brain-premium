@@ -1,1090 +1,197 @@
 # AGG-COPYWRITING.yaml
-# DNA Agregado - Domínio: COPYWRITING
-# Consolidação de elementos de copywriting e persuasão escrita
+# DOMÍNIO: Copywriting, direct response, persuasão escrita
+# VERSÃO: 1.0.0
+# CRIADO: 2026-03-13
 #
-# Versão: 1.0.0
-# Criado: 2026-03-11
-# Tipo: AGGREGATED DNA (single-source: AIOS Copy Squad)
-# Fonte: knowledge/sources/aios-squads/02-COPY-SQUAD.md
-# Weight: 0.70 (secondary - curated by Synkra AIOS)
-#
-# ═══════════════════════════════════════════════════════════════════════════════
-# FONTES CONSOLIDADAS
+# FONTES: Dan Kennedy (156 el) + Russell Brunson (1327 el) + Alex Hormozi (402 el)
 # ═══════════════════════════════════════════════════════════════════════════════
 
 dominio: "copywriting"
 versao: "1.0.0"
-data_criacao: "2026-03-11"
-ultima_atualizacao: "2026-03-11"
-total_elementos: 160
-peso_global: 0.70
+criado_em: "2026-03-13"
 
 fontes_consolidadas:
-  - fonte: "aios-copy-squad"
-    path: "knowledge/sources/aios-squads/02-COPY-SQUAD.md"
-    raw_path: "knowledge/sources/aios-squads/raw/copy-squad/"
+  - fonte: "dan-kennedy"
+    peso_dominio: 0.95
+    path: "/knowledge/dna/persons/dan-kennedy/"
+    raiz: "/knowledge/sources/dan-kennedy/raw/copywriting-clinic/"
+    contribuicao_principal: "Direct mail salesmanship, headline mastery, pain-pleasure sequence"
+    elementos_relevantes: 156
+
+  - fonte: "russell-brunson"
+    peso_dominio: 0.85
+    path: "/knowledge/dna/persons/russell-brunson/"
+    raiz: "/knowledge/sources/russell-brunson/raw/"
+    contribuicao_principal: "Hook-Story-Offer, Perfect Webinar copy, email sequences"
+    elementos_relevantes: 200
+
+  - fonte: "alex-hormozi"
     peso_dominio: 0.70
-    elementos_contribuidos: 160
-    especialidade: "Copywriting masters - Schwartz, Halbert, Ogilvy, Kennedy, Georgi, Brunson, Sugarman, Collier, Kern"
-    tipo_fonte: "SECONDARY (curated by Synkra AIOS)"
-    agentes_internos: 23
-
-# Nota: Russell Brunson tem sobreposição com knowledge/dna/persons/russell-brunson
-# (Value Ladder, Perfect Webinar, Epiphany Bridge, Hook-Story-Offer existem em ambos)
-# Priorizar person DNA (weight 0.95) sobre este AGG (weight 0.70) em caso de conflito.
+    path: "/knowledge/dna/persons/alex-hormozi/"
+    raiz: "/knowledge/sources/alex-hormozi/raw/"
+    contribuicao_principal: "Hooks = 80% da performance, offer language, content hooks"
+    elementos_relevantes: 80
 
 # ═══════════════════════════════════════════════════════════════════════════════
-# MASTER COPYWRITERS (por tier)
-# ═══════════════════════════════════════════════════════════════════════════════
-
-experts:
-  tier_1a:
-    - nome: "Eugene Schwartz"
-      especialidade: "Market Awareness & Sophistication"
-      key_framework: "5 Levels of Awareness"
-    - nome: "Gary Halbert"
-      especialidade: "Direct Mail & Storytelling"
-      key_framework: "Starving Crowd Principle"
-    - nome: "Robert Collier"
-      especialidade: "Empathy & Mental Movies"
-      key_framework: "Conversation Principle"
-
-  tier_1b:
-    - nome: "Dan Kennedy"
-      especialidade: "Direct Response Business"
-      key_framework: "Message-Market-Media"
-    - nome: "Russell Brunson"
-      especialidade: "Funnels & Webinars"
-      key_framework: "Value Ladder + Perfect Webinar"
-    - nome: "Joe Sugarman"
-      especialidade: "Flow & Triggers"
-      key_framework: "Slippery Slide + 30 Triggers"
-    - nome: "Frank Kern"
-      especialidade: "Intent-Based Marketing"
-      key_framework: "Results In Advance"
-
-  tier_1c:
-    - nome: "Stefan Georgi"
-      especialidade: "Systematic Copy Process"
-      key_framework: "RMBC Method"
-
-  tier_1d:
-    - nome: "David Ogilvy"
-      especialidade: "Research-Driven Branding"
-      key_framework: "Big Idea + Long Copy"
-
-# ═══════════════════════════════════════════════════════════════════════════════
-# L1: FILOSOFIAS (25 elementos)
+# FILOSOFIAS
 # ═══════════════════════════════════════════════════════════════════════════════
 
 filosofias:
-  - id: "AGG-COPY-F001"
-    conteudo: "Market selection beats copy quality every time"
-    fonte: "halbert"
-    conceito: "Starving Crowd"
-    peso: 0.70
+  - id: "FIL-COPY-001"
+    filosofia: "Copy é salesmanship in print — se não saberia vender pessoalmente, não vai saber vender por escrito"
+    fonte: "dan-kennedy" | ref: "FIL-DK-001"
+    peso: 0.95
 
-  - id: "AGG-COPY-F002"
-    conteudo: "Enter the conversation already happening in the prospect's mind"
-    fonte: "collier"
-    conceito: "Conversation Principle"
-    peso: 0.70
+  - id: "FIL-COPY-002"
+    filosofia: "O headline é 70-80% da batalha — se não funcionar, nada mais importa"
+    fonte: "dan-kennedy" | ref: "FIL-DK-003, HEUR-DK-001"
+    peso: 0.95
 
-  - id: "AGG-COPY-F003"
-    conteudo: "Copy is not written, it is assembled from existing desires, capabilities and messaging"
-    fonte: "schwartz"
-    conceito: "Copy Assembly"
-    peso: 0.70
+  - id: "FIL-COPY-003"
+    filosofia: "Pessoas são muito mais responsivas a escapar da dor do que ganhar prazer"
+    fonte: "dan-kennedy" | ref: "FIL-DK-006, MM-DK-011"
+    peso: 0.90
 
-  - id: "AGG-COPY-F004"
-    conteudo: "Every element's only job is to get the next element read"
-    fonte: "sugarman"
-    conceito: "Slippery Slide"
-    peso: 0.70
+  - id: "FIL-COPY-004"
+    filosofia: "Hook-Story-Offer — toda comunicação de marketing tem essa estrutura em sua base"
+    fonte: "russell-brunson" | ref: "FW-RB-052"
+    peso: 0.90
 
-  - id: "AGG-COPY-F005"
-    conteudo: "Sell the concept, not the product"
-    fonte: "sugarman"
-    conceito: "Concept Selling"
-    peso: 0.70
+  - id: "FIL-COPY-005"
+    filosofia: "Se eu só tivesse uma chance de fazer algo funcionar, usaria uma história"
+    fonte: "dan-kennedy" | ref: "FIL-DK-022"
+    peso: 0.90
 
-  - id: "AGG-COPY-F006"
-    conteudo: "Curiosity is the most powerful motivator in reading copy"
-    fonte: "sugarman"
-    conceito: "Seeds of Curiosity"
-    peso: 0.70
+  - id: "FIL-COPY-006"
+    filosofia: "Hooks = 80% da performance — o restante é delivery"
+    fonte: "alex-hormozi" | ref: "AH-ACQ18K-CMO002"
+    peso: 0.85
 
-  - id: "AGG-COPY-F007"
-    conteudo: "Give genuine results before asking for payment"
-    fonte: "kern"
-    conceito: "Results In Advance"
-    peso: 0.70
+  - id: "FIL-COPY-007"
+    filosofia: "Copy longa funciona — a pessoa interessada lê cada palavra, mesmo 16 páginas"
+    fonte: "dan-kennedy" | ref: "FIL-DK-017"
+    peso: 0.85
 
-  - id: "AGG-COPY-F008"
-    conteudo: "Target based on behavior, not demographics"
-    fonte: "kern"
-    conceito: "Intent-Based Branding"
-    peso: 0.70
-
-  - id: "AGG-COPY-F009"
-    conteudo: "Emotion first, logic second — always"
-    fonte: "collier"
-    peso: 0.70
-
-  - id: "AGG-COPY-F010"
-    conteudo: "Fear of loss is always greater than hope of gain"
-    fonte: "multiple"
-    peso: 0.70
-
-  - id: "AGG-COPY-F011"
-    conteudo: "Research is 80% of the work, writing is 20%"
-    fonte: "georgi"
-    conceito: "RMBC Research Phase"
-    peso: 0.70
-
-  - id: "AGG-COPY-F012"
-    conteudo: "The mechanism is what separates good from great copy"
-    fonte: "schwartz/georgi"
-    conceito: "Unique Mechanism"
-    peso: 0.70
-
-  - id: "AGG-COPY-F013"
-    conteudo: "Headline is worth 80% of your ad spend"
-    fonte: "ogilvy"
-    peso: 0.70
-
-  - id: "AGG-COPY-F014"
-    conteudo: "Specificity beats vague claims ($14,537 beats 'a lot of money')"
-    fonte: "multiple"
-    peso: 0.70
-
-  - id: "AGG-COPY-F015"
-    conteudo: "Admitting a flaw builds trust faster than any claim"
-    fonte: "sugarman"
-    peso: 0.70
-
-  - id: "AGG-COPY-F016"
-    conteudo: "Copy creates vivid imagery in the reader's imagination"
-    fonte: "collier"
-    conceito: "Mental Movie"
-    peso: 0.70
-
-  - id: "AGG-COPY-F017"
-    conteudo: "A Big Idea unifies an entire campaign"
-    fonte: "ogilvy"
-    conceito: "Big Idea"
-    peso: 0.70
-
-  - id: "AGG-COPY-F018"
-    conteudo: "Always give a reason WHY for any claim or offer"
-    fonte: "halbert/collier"
-    peso: 0.70
-
-  - id: "AGG-COPY-F019"
-    conteudo: "Build value until saying no feels insane"
-    fonte: "brunson"
-    conceito: "Value Stack"
-    peso: 0.70
-
-  - id: "AGG-COPY-F020"
-    conteudo: "One email, one idea — never dilute"
-    fonte: "multiple"
-    peso: 0.70
-
-  - id: "AGG-COPY-F021"
-    conteudo: "Follow-up can 2-3x sales from the same audience"
-    fonte: "kennedy"
-    peso: 0.70
-
-  - id: "AGG-COPY-F022"
-    conteudo: "Weeks of research before writing a single word"
-    fonte: "ogilvy"
-    conceito: "Research-Driven Creative"
-    peso: 0.70
-
-  - id: "AGG-COPY-F023"
-    conteudo: "Short sentences get read, long ones get skipped"
-    fonte: "multiple"
-    peso: 0.70
-
-  - id: "AGG-COPY-F024"
-    conteudo: "Never go 3+ paragraphs without proof"
-    fonte: "multiple"
-    peso: 0.70
-
-  - id: "AGG-COPY-F025"
-    conteudo: "Urgency must be real — fake urgency destroys trust"
-    fonte: "multiple"
-    peso: 0.70
+  - id: "FIL-COPY-008"
+    filosofia: "Criatividade pela criatividade é desperdício — deve avançar a venda"
+    fonte: "dan-kennedy" | ref: "FIL-DK-020"
+    peso: 0.85
 
 # ═══════════════════════════════════════════════════════════════════════════════
-# L2: MODELOS MENTAIS (20 elementos)
-# ═══════════════════════════════════════════════════════════════════════════════
-
-modelos_mentais:
-  - id: "AGG-COPY-MM001"
-    conteudo: "5 Levels of Market Awareness"
-    descricao: "Unaware → Problem-Aware → Solution-Aware → Product-Aware → Most-Aware"
-    aplicacao: "Diagnóstico de onde o prospect está para calibrar lead e headline"
-    fonte: "schwartz"
-    peso: 0.70
-
-  - id: "AGG-COPY-MM002"
-    conteudo: "5 Levels of Market Sophistication"
-    descricao: "Direct claims → Amplified → Mechanism → Amplified mechanism → Identity"
-    aplicacao: "Diagnóstico de maturidade do mercado para calibrar approach"
-    fonte: "schwartz"
-    peso: 0.70
-
-  - id: "AGG-COPY-MM003"
-    conteudo: "Message-Market-Media Triangle"
-    descricao: "RIGHT message + RIGHT market + RIGHT media = results"
-    aplicacao: "Diagnóstico de campanhas — qual vértice está falhando?"
-    fonte: "kennedy"
-    peso: 0.70
-
-  - id: "AGG-COPY-MM004"
-    conteudo: "Slippery Slide"
-    descricao: "Cada elemento puxa o leitor para o próximo — cadeia de micro-commitments"
-    aplicacao: "Otimização de flow em qualquer peça de copy"
-    fonte: "sugarman"
-    peso: 0.70
-
-  - id: "AGG-COPY-MM005"
-    conteudo: "30 Psychological Triggers"
-    descricao: "Involvement, honesty, authority, belonging, reciprocity, urgency, etc."
-    aplicacao: "Checklist de gatilhos para amplificar persuasão"
-    fonte: "sugarman"
-    peso: 0.70
-
-  - id: "AGG-COPY-MM006"
-    conteudo: "Value Ladder"
-    descricao: "Free → Frontend → Middle → Backend — escada de valor crescente"
-    aplicacao: "Arquitetura de ofertas e funis"
-    fonte: "brunson"
-    peso: 0.70
-
-  - id: "AGG-COPY-MM007"
-    conteudo: "Hook-Story-Offer"
-    descricao: "Pattern interrupt + narrative + irresistible stack"
-    aplicacao: "Framework universal para qualquer peça de comunicação"
-    fonte: "brunson"
-    peso: 0.70
-
-  - id: "AGG-COPY-MM008"
-    conteudo: "Big Domino"
-    descricao: "Uma crença central que, ao cair, derruba todas as objeções"
-    aplicacao: "Identificar a crença-chave para converter"
-    fonte: "brunson"
-    peso: 0.70
-
-  - id: "AGG-COPY-MM009"
-    conteudo: "Attractive Character"
-    descricao: "Backstory + flaws + polarity = conexão profunda com audiência"
-    aplicacao: "Construção de autoridade via vulnerabilidade e personalidade"
-    fonte: "brunson"
-    peso: 0.70
-
-  - id: "AGG-COPY-MM010"
-    conteudo: "Two-Part Unique Mechanism"
-    descricao: "Root cause (por que nada funciona) + Unique solution (por que isso funciona)"
-    aplicacao: "Criação de narrativa de produto diferenciada"
-    fonte: "georgi"
-    peso: 0.70
-
-  - id: "AGG-COPY-MM011"
-    conteudo: "Epiphany Bridge"
-    descricao: "Backstory → Desire → Wall → Epiphany → Plan → Transformation"
-    aplicacao: "Storytelling para criar momentos 'aha' no prospect"
-    fonte: "brunson"
-    peso: 0.70
-
-  - id: "AGG-COPY-MM012"
-    conteudo: "Dream 100"
-    descricao: "Target 100 people/platforms who already have your audience"
-    aplicacao: "Estratégia de distribuição e parcerias"
-    fonte: "brunson"
-    peso: 0.70
-
-  - id: "AGG-COPY-MM013"
-    conteudo: "Starving Crowd Principle"
-    descricao: "Um mercado faminto compra qualquer coisa — market > copy"
-    aplicacao: "Validação de mercado antes de investir em copy"
-    fonte: "halbert"
-    peso: 0.70
-
-  - id: "AGG-COPY-MM014"
-    conteudo: "Conversation Principle"
-    descricao: "Entrar na conversa que já existe na mente do prospect"
-    aplicacao: "Calibrar lead/headline para estado mental atual do leitor"
-    fonte: "collier"
-    peso: 0.70
-
-  - id: "AGG-COPY-MM015"
-    conteudo: "Mental Movie"
-    descricao: "Copy cria imagens vívidas na imaginação do leitor"
-    aplicacao: "Usar linguagem sensorial e específica para gerar visualização"
-    fonte: "collier"
-    peso: 0.70
-
-  - id: "AGG-COPY-MM016"
-    conteudo: "Big Idea Test (5 perguntas)"
-    descricao: "Ideia unificadora de campanha testada contra 5 critérios"
-    aplicacao: "Validar se campanha tem Big Idea antes de executar"
-    fonte: "ogilvy"
-    peso: 0.70
-
-  - id: "AGG-COPY-MM017"
-    conteudo: "Results In Advance"
-    descricao: "Entregar resultado genuíno antes de pedir pagamento"
-    aplicacao: "Estratégia de lead magnet e value-first marketing"
-    fonte: "kern"
-    peso: 0.70
-
-  - id: "AGG-COPY-MM018"
-    conteudo: "Intent-Based Branding"
-    descricao: "Segmentar por comportamento, não por demografia"
-    aplicacao: "Targeting de campanhas e segmentação de audiência"
-    fonte: "kern"
-    peso: 0.70
-
-  - id: "AGG-COPY-MM019"
-    conteudo: "Seeds of Curiosity"
-    descricao: "Open loops que mantêm o leitor engajado e lendo"
-    aplicacao: "Técnica de retenção em copy longo e emails"
-    fonte: "sugarman"
-    peso: 0.70
-
-  - id: "AGG-COPY-MM020"
-    conteudo: "Copy Assembly (não criação)"
-    descricao: "Copy é montado a partir de desejos existentes + capacidades + mensagem"
-    aplicacao: "Mindset de pesquisa-first, não escrita criativa"
-    fonte: "schwartz"
-    peso: 0.70
-
-# ═══════════════════════════════════════════════════════════════════════════════
-# L3: HEURÍSTICAS (45 elementos)
+# HEURÍSTICAS (com números)
 # ═══════════════════════════════════════════════════════════════════════════════
 
 heuristicas:
-  # --- UNIVERSAL ---
-  - id: "AGG-COPY-H001"
-    conteudo: "Headline = 80% do ad spend"
-    tipo: "quantitativa"
-    fonte: "ogilvy"
-    peso: 0.70
+  - id: "HEUR-COPY-001"
+    heuristica: "Headline = 70-80% da batalha em direct response"
+    tipo: numeric | fonte: "dan-kennedy" | ref: "HEUR-DK-001"
 
-  - id: "AGG-COPY-H002"
-    conteudo: "80% research, 20% writing"
-    tipo: "quantitativa"
-    fonte: "georgi"
-    peso: 0.70
+  - id: "HEUR-COPY-002"
+    heuristica: "Repetir o pitch principal 3-6x dentro da mesma peça"
+    tipo: numeric | fonte: "dan-kennedy" | ref: "HEUR-DK-007"
 
-  - id: "AGG-COPY-H003"
-    conteudo: "Market selection > copy quality"
-    tipo: "qualitativa"
-    fonte: "halbert"
-    peso: 0.70
+  - id: "HEUR-COPY-003"
+    heuristica: "Returns esperados em seminário: ~7% (5% imediato, 1% perto deadline, 1% atrasado)"
+    tipo: numeric | fonte: "dan-kennedy" | ref: "HEUR-DK-004"
 
-  - id: "AGG-COPY-H004"
-    conteudo: "Enter conversation already in prospect's mind"
-    tipo: "qualitativa"
-    fonte: "collier"
-    peso: 0.70
+  - id: "HEUR-COPY-004"
+    heuristica: "Garantia mínima 90 dias, idealmente 1 ano com requisito de uso"
+    tipo: numeric | fonte: "dan-kennedy" | ref: "HEUR-DK-006"
 
-  - id: "AGG-COPY-H005"
-    conteudo: "Every element gets reader to read first sentence"
-    tipo: "qualitativa"
-    fonte: "sugarman"
-    peso: 0.70
+  - id: "HEUR-COPY-005"
+    heuristica: "Em B2B, maioria das vendas fecha entre 3º e 7º contato (RB: 81% após 5º)"
+    tipo: numeric | fonte: "dan-kennedy + russell-brunson" | ref: "HEUR-DK-009, HEUR-RB-103"
 
-  - id: "AGG-COPY-H006"
-    conteudo: "Mechanism separates good from great copy"
-    tipo: "qualitativa"
-    fonte: "schwartz/georgi"
-    peso: 0.70
-
-  - id: "AGG-COPY-H007"
-    conteudo: "Never go 3+ paragraphs without proof"
-    tipo: "quantitativa"
-    fonte: "multiple"
-    peso: 0.70
-
-  - id: "AGG-COPY-H008"
-    conteudo: "Specificity beats vague ($14,537 > 'a lot')"
-    tipo: "qualitativa"
-    fonte: "multiple"
-    peso: 0.70
-
-  - id: "AGG-COPY-H009"
-    conteudo: "Emotion first, logic second"
-    tipo: "qualitativa"
-    fonte: "collier"
-    peso: 0.70
-
-  - id: "AGG-COPY-H010"
-    conteudo: "Fear of loss > hope of gain"
-    tipo: "qualitativa"
-    fonte: "multiple"
-    peso: 0.70
-
-  - id: "AGG-COPY-H011"
-    conteudo: "Short sentences get read, long get skipped"
-    tipo: "qualitativa"
-    fonte: "multiple"
-    peso: 0.70
-
-  - id: "AGG-COPY-H012"
-    conteudo: "Sell concept, not product"
-    tipo: "qualitativa"
-    fonte: "sugarman"
-    peso: 0.70
-
-  - id: "AGG-COPY-H013"
-    conteudo: "Admitting flaw builds trust faster than any claim"
-    tipo: "qualitativa"
-    fonte: "sugarman"
-    peso: 0.70
-
-  # --- HEADLINE ---
-  - id: "AGG-COPY-H014"
-    conteudo: "5x more people read headline than body"
-    tipo: "quantitativa"
-    fonte: "ogilvy"
-    peso: 0.70
-
-  - id: "AGG-COPY-H015"
-    conteudo: "Match headline to awareness level"
-    tipo: "qualitativa"
-    fonte: "schwartz"
-    peso: 0.70
-
-  - id: "AGG-COPY-H016"
-    conteudo: "Write 20+ headline alternatives before selecting"
-    tipo: "quantitativa"
-    fonte: "ogilvy"
-    peso: 0.70
-
-  - id: "AGG-COPY-H017"
-    conteudo: "NEWS in headline increases readership"
-    tipo: "qualitativa"
-    fonte: "ogilvy"
-    peso: 0.70
-
-  - id: "AGG-COPY-H018"
-    conteudo: "Short first sentence (max 10 words)"
-    tipo: "quantitativa"
-    fonte: "sugarman"
-    peso: 0.70
-
-  # --- EMAIL ---
-  - id: "AGG-COPY-H019"
-    conteudo: "One email, one idea"
-    tipo: "qualitativa"
-    fonte: "multiple"
-    peso: 0.70
-
-  - id: "AGG-COPY-H020"
-    conteudo: "Subject lines under 50 characters"
-    tipo: "quantitativa"
-    fonte: "multiple"
-    peso: 0.70
-
-  - id: "AGG-COPY-H021"
-    conteudo: "Follow-up can 2-3x sales"
-    tipo: "quantitativa"
-    fonte: "kennedy"
-    peso: 0.70
-
-  - id: "AGG-COPY-H022"
-    conteudo: "Soap opera sequence = can't read out of order"
-    tipo: "qualitativa"
-    fonte: "chaperon/brunson"
-    peso: 0.70
-
-  # --- OFFER ---
-  - id: "AGG-COPY-H023"
-    conteudo: "Build value until 'no' feels insane"
-    tipo: "qualitativa"
-    fonte: "brunson"
-    peso: 0.70
-
-  - id: "AGG-COPY-H024"
-    conteudo: "3-5 bonuses each solving specific problem"
-    tipo: "quantitativa"
-    fonte: "brunson"
-    peso: 0.70
-
-  - id: "AGG-COPY-H025"
-    conteudo: "Anchor high, reveal actual as fraction"
-    tipo: "qualitativa"
-    fonte: "multiple"
-    peso: 0.70
-
-  - id: "AGG-COPY-H026"
-    conteudo: "Urgency must be real, never fabricated"
-    tipo: "qualitativa"
-    fonte: "multiple"
-    peso: 0.70
-
-  - id: "AGG-COPY-H027"
-    conteudo: "Always give reason WHY for any claim or offer"
-    tipo: "qualitativa"
-    fonte: "halbert/collier"
-    peso: 0.70
-
-  # --- VSL/WEBINAR ---
-  - id: "AGG-COPY-H028"
-    conteudo: "RMBC: Research 40% → Mechanism 20% → Brief 20% → Copy 20%"
-    tipo: "quantitativa"
-    fonte: "georgi"
-    peso: 0.70
-
-  - id: "AGG-COPY-H029"
-    conteudo: "Perfect Webinar: 60-90 min selling format"
-    tipo: "quantitativa"
-    fonte: "brunson"
-    peso: 0.70
-
-  - id: "AGG-COPY-H030"
-    conteudo: "VSL lead must hook in first 15 seconds"
-    tipo: "quantitativa"
-    fonte: "georgi"
-    peso: 0.70
-
-  # --- PSYCHOLOGICAL ---
-  - id: "AGG-COPY-H031"
-    conteudo: "Involvement device in first paragraph increases readership"
-    tipo: "qualitativa"
-    fonte: "sugarman"
-    peso: 0.70
-
-  - id: "AGG-COPY-H032"
-    conteudo: "Open loops create compulsion to keep reading"
-    tipo: "qualitativa"
-    fonte: "sugarman"
-    peso: 0.70
-
-  - id: "AGG-COPY-H033"
-    conteudo: "Authority + honesty = highest trust combination"
-    tipo: "qualitativa"
-    fonte: "sugarman"
-    peso: 0.70
-
-  - id: "AGG-COPY-H034"
-    conteudo: "Belonging trigger — people want to be part of a group"
-    tipo: "qualitativa"
-    fonte: "sugarman"
-    peso: 0.70
-
-  - id: "AGG-COPY-H035"
-    conteudo: "Reciprocity — give first, ask second"
-    tipo: "qualitativa"
-    fonte: "sugarman/kern"
-    peso: 0.70
-
-  # --- FORMATTING ---
-  - id: "AGG-COPY-H036"
-    conteudo: "Subheads every 3-5 paragraphs for scannability"
-    tipo: "quantitativa"
-    fonte: "multiple"
-    peso: 0.70
-
-  - id: "AGG-COPY-H037"
-    conteudo: "Bullets outsell paragraphs for features"
-    tipo: "qualitativa"
-    fonte: "multiple"
-    peso: 0.70
-
-  - id: "AGG-COPY-H038"
-    conteudo: "P.S. is the second most-read element after headline"
-    tipo: "qualitativa"
-    fonte: "halbert"
-    peso: 0.70
-
-  - id: "AGG-COPY-H039"
-    conteudo: "A-Pile formatting: personal mail look beats corporate"
-    tipo: "qualitativa"
-    fonte: "halbert"
-    peso: 0.70
-
-  # --- LAUNCH ---
-  - id: "AGG-COPY-H040"
-    conteudo: "4-Day Cash Machine: Value → Value → Offer → Urgency"
-    tipo: "qualitativa"
-    fonte: "kern"
-    peso: 0.70
-
-  - id: "AGG-COPY-H041"
-    conteudo: "Mass Control: 4-phase launch sequence"
-    tipo: "qualitativa"
-    fonte: "kern"
-    peso: 0.70
-
-  # --- TESTING ---
-  - id: "AGG-COPY-H042"
-    conteudo: "Test headline first — biggest lever"
-    tipo: "qualitativa"
-    fonte: "ogilvy"
-    peso: 0.70
-
-  - id: "AGG-COPY-H043"
-    conteudo: "33:33 timer — focused writing sessions avoid overthinking"
-    tipo: "quantitativa"
-    fonte: "schwartz"
-    peso: 0.70
-
-  - id: "AGG-COPY-H044"
-    conteudo: "Swipe file → adapt, never copy verbatim"
-    tipo: "qualitativa"
-    fonte: "halbert"
-    peso: 0.70
-
-  - id: "AGG-COPY-H045"
-    conteudo: "Funnel hack what works, reverse-engineer the best"
-    tipo: "qualitativa"
-    fonte: "brunson"
-    peso: 0.70
+  - id: "HEUR-COPY-006"
+    heuristica: "$1 front-end = $16 de receita em follow-up"
+    tipo: numeric | fonte: "russell-brunson" | ref: "HEUR-RB-001"
 
 # ═══════════════════════════════════════════════════════════════════════════════
-# L4: FRAMEWORKS (40 elementos)
+# FRAMEWORKS CORE
 # ═══════════════════════════════════════════════════════════════════════════════
 
 frameworks:
-  # --- DIAGNOSTIC ---
-  - id: "AGG-COPY-FW001"
-    nome: "5 Levels of Market Awareness"
-    fonte: "schwartz"
-    etapas: ["Unaware", "Problem-Aware", "Solution-Aware", "Product-Aware", "Most-Aware"]
-    aplicacao: "Diagnóstico de awareness para calibrar lead e headline"
-    peso: 0.70
+  - id: "FW-COPY-001"
+    nome: "Pain-Pleasure Sales Sequence (DK)"
+    passos: "1. Dor atual → 2. Medo de perder → 3. Alternativa prazerosa → 4. Oferta irresistível"
+    fonte: "dan-kennedy" | ref: "FW-DK-004"
+    peso: 0.95
 
-  - id: "AGG-COPY-FW002"
-    nome: "5 Levels of Market Sophistication"
-    fonte: "schwartz"
-    etapas: ["Direct claims", "Amplified", "Mechanism", "Amplified mechanism", "Identity"]
-    aplicacao: "Diagnóstico de maturidade do mercado"
-    peso: 0.70
+  - id: "FW-COPY-002"
+    nome: "Hook-Story-Offer (RB)"
+    passos: "Hook (atenção) → Story (conexão + desejo) → Offer (ação)"
+    fonte: "russell-brunson" | ref: "FW-RB-052"
+    peso: 0.90
 
-  - id: "AGG-COPY-FW003"
-    nome: "Message-Market-Media Triangle"
-    fonte: "kennedy"
-    etapas: ["RIGHT message", "RIGHT market", "RIGHT media"]
-    aplicacao: "Diagnóstico de campanhas e estratégia"
-    peso: 0.70
+  - id: "FW-COPY-003"
+    nome: "Objection Draining in Copy (DK)"
+    passos: "Listar TODAS as razões para não comprar → responder cada uma → fechar"
+    fonte: "dan-kennedy" | ref: "FW-DK-007, MET-DK-006"
+    peso: 0.90
 
-  # --- SALES COPY STRUCTURES ---
-  - id: "AGG-COPY-FW004"
-    nome: "AIDA"
-    fonte: "classic"
-    etapas: ["Attention", "Interest", "Desire", "Action"]
-    aplicacao: "Estrutura universal de copy persuasivo"
-    peso: 0.70
+  - id: "FW-COPY-004"
+    nome: "Urgency Construction (DK)"
+    passos: "Deadline REAL + razão REAL. Recompensar early + penalizar procrastinadores"
+    fonte: "dan-kennedy" | ref: "FW-DK-013"
+    peso: 0.90
 
-  - id: "AGG-COPY-FW005"
-    nome: "PAS"
-    fonte: "kennedy"
-    etapas: ["Problem", "Agitate", "Solve"]
-    aplicacao: "Estrutura para copy curto e direto"
-    peso: 0.70
+  - id: "FW-COPY-005"
+    nome: "Customer Avatar Deep Dive (DK)"
+    passos: "Lista exaustiva sobre avatar → Cristalizar em UMA pessoa → Escrever para ela"
+    fonte: "dan-kennedy" | ref: "FW-DK-003, MET-DK-003"
+    peso: 0.90
 
-  - id: "AGG-COPY-FW006"
-    nome: "RMBC Method"
-    fonte: "georgi"
-    etapas: ["Research (40%)", "Mechanism (20%)", "Brief (20%)", "Copy (20%)"]
-    aplicacao: "Processo completo de criação de VSL/sales letter"
-    peso: 0.70
+  - id: "FW-COPY-006"
+    nome: "Headline Formula Bank (DK)"
+    passos: "Build fill-in-the-blank de tablóides + Victor Schwab 100 headlines"
+    fonte: "dan-kennedy" | ref: "FW-DK-001"
+    peso: 0.85
 
-  - id: "AGG-COPY-FW007"
-    nome: "Star-Story-Solution"
-    fonte: "halbert"
-    etapas: ["Star (character)", "Story (journey)", "Solution (product as answer)"]
-    aplicacao: "Narrative selling via carta/email"
-    peso: 0.70
+  - id: "FW-COPY-007"
+    nome: "Irresistible Offer Construction (DK)"
+    passos: "Core + bonuses + guarantee (outcome-worded) + urgência real + penalty → Snowstorm Test"
+    fonte: "dan-kennedy" | ref: "MET-DK-016"
+    peso: 0.90
 
-  - id: "AGG-COPY-FW008"
-    nome: "Six-Step Letter"
-    fonte: "collier"
-    etapas: ["Opening", "Description", "Motive", "Proof", "Snapper", "Close"]
-    aplicacao: "Empathy-first sales structure"
-    peso: 0.70
+  - id: "FW-COPY-008"
+    nome: "Copy Self-Audit 12-Point Checklist (DK)"
+    passos: "Headline classified test? Rapport antes pitch? Story completa? Subheads independentes? Dor antes prazer? Involvement devices? Pitch 3+x? Objeções drenadas? Oferta irresistível? Summary? Snowstorm test?"
+    fonte: "dan-kennedy" | ref: "MET-DK-028"
+    peso: 0.90
 
-  - id: "AGG-COPY-FW009"
-    nome: "BAB"
-    fonte: "classic"
-    etapas: ["Before", "After", "Bridge"]
-    aplicacao: "Estrutura simples de transformação"
-    peso: 0.70
-
-  - id: "AGG-COPY-FW010"
-    nome: "Four Ps"
-    fonte: "hoke"
-    etapas: ["Picture", "Promise", "Prove", "Push"]
-    aplicacao: "Estrutura de copy visual-first"
-    peso: 0.70
-
-  # --- VSL & WEBINAR ---
-  - id: "AGG-COPY-FW011"
-    nome: "7-Section VSL"
-    fonte: "georgi"
-    etapas: ["Lead", "Problem", "Mechanism", "Proof", "Product", "Stack", "Close"]
-    aplicacao: "Estrutura completa de VSL"
-    peso: 0.70
-
-  - id: "AGG-COPY-FW012"
-    nome: "Perfect Webinar"
-    fonte: "brunson"
-    etapas: ["Big Promise", "3 Secrets", "Stack", "Close"]
-    aplicacao: "Webinar de vendas 60-90 min"
-    peso: 0.70
-
-  - id: "AGG-COPY-FW013"
-    nome: "Epiphany Bridge"
-    fonte: "brunson"
-    etapas: ["Backstory", "Desire", "Wall", "Epiphany", "Plan", "Transformation"]
-    aplicacao: "Story format para criar momentos aha"
-    peso: 0.70
-
-  # --- EMAIL ---
-  - id: "AGG-COPY-FW014"
-    nome: "Soap Opera Sequence"
-    fonte: "chaperon/brunson"
-    etapas: ["Day 1: Hook + backstory", "Day 2: Drama", "Day 3: Epiphany", "Day 4: Hidden benefit", "Day 5: Urgency + CTA"]
-    aplicacao: "Sequência de emails serializada"
-    peso: 0.70
-
-  - id: "AGG-COPY-FW015"
-    nome: "4-Day Cash Machine"
-    fonte: "kern"
-    etapas: ["Value", "Value", "Offer", "Urgency"]
-    aplicacao: "Sequência de launch curta"
-    peso: 0.70
-
-  - id: "AGG-COPY-FW016"
-    nome: "Daily Email System"
-    fonte: "settle"
-    descricao: "Personality-driven daily value emails"
-    aplicacao: "Engajamento e nurture de lista"
-    peso: 0.70
-
-  # --- OFFER & POSITIONING ---
-  - id: "AGG-COPY-FW017"
-    nome: "Value Ladder"
-    fonte: "brunson"
-    etapas: ["Free", "Frontend", "Middle", "Backend"]
-    aplicacao: "Arquitetura de ofertas e funis"
-    peso: 0.70
-
-  - id: "AGG-COPY-FW018"
-    nome: "Hook-Story-Offer"
-    fonte: "brunson"
-    etapas: ["Pattern interrupt", "Narrative", "Irresistible stack"]
-    aplicacao: "Framework universal de comunicação"
-    peso: 0.70
-
-  - id: "AGG-COPY-FW019"
-    nome: "Big Domino"
-    fonte: "brunson"
-    descricao: "One core belief to knock over all objections"
-    aplicacao: "Identificar crença-chave para conversão"
-    peso: 0.70
-
-  - id: "AGG-COPY-FW020"
-    nome: "Dream 100"
-    fonte: "brunson"
-    descricao: "Target 100 people/platforms who have your audience"
-    aplicacao: "Estratégia de distribuição e parcerias"
-    peso: 0.70
-
-  - id: "AGG-COPY-FW021"
-    nome: "Attractive Character"
-    fonte: "brunson"
-    etapas: ["Backstory", "Flaws", "Polarity"]
-    aplicacao: "Construção de autoridade e conexão"
-    peso: 0.70
-
-  # --- PSYCHOLOGICAL ---
-  - id: "AGG-COPY-FW022"
-    nome: "Slippery Slide Optimization"
-    fonte: "sugarman"
-    descricao: "Flow engineering — cada elemento puxa para o próximo"
-    aplicacao: "Otimização de copy longo"
-    peso: 0.70
-
-  - id: "AGG-COPY-FW023"
-    nome: "30 Psychological Triggers"
-    fonte: "sugarman"
-    descricao: "Involvement, honesty, authority, belonging, reciprocity, urgency, etc."
-    aplicacao: "Checklist de amplificação persuasiva"
-    peso: 0.70
-
-  - id: "AGG-COPY-FW024"
-    nome: "Two-Part Unique Mechanism"
-    fonte: "georgi"
-    etapas: ["Root Cause (why nothing else works)", "Unique Solution (why THIS works)"]
-    aplicacao: "Criação de narrativa de produto diferenciada"
-    peso: 0.70
-
-  # --- RESEARCH & PROCESS ---
-  - id: "AGG-COPY-FW025"
-    nome: "Funnel Hacking"
-    fonte: "brunson"
-    descricao: "Reverse-engineer what works in the market"
-    aplicacao: "Pesquisa competitiva para copy e funis"
-    peso: 0.70
-
-  - id: "AGG-COPY-FW026"
-    nome: "20+ Headline Method"
-    fonte: "ogilvy"
-    descricao: "Generate and score 20+ headline alternatives"
-    aplicacao: "Processo de criação de headline"
-    peso: 0.70
-
-  - id: "AGG-COPY-FW027"
-    nome: "33:33 Timer System"
-    fonte: "schwartz"
-    descricao: "33-minute focused writing sessions"
-    aplicacao: "Produtividade e foco na escrita"
-    peso: 0.70
-
-  - id: "AGG-COPY-FW028"
-    nome: "A-Pile Strategy"
-    fonte: "halbert"
-    descricao: "Personal mail formatting beats corporate look"
-    aplicacao: "Design de direct mail e emails"
-    peso: 0.70
-
-  - id: "AGG-COPY-FW029"
-    nome: "Intent-Based Branding"
-    fonte: "kern"
-    descricao: "Behavioral targeting over demographics"
-    aplicacao: "Targeting de campanhas"
-    peso: 0.70
-
-  - id: "AGG-COPY-FW030"
-    nome: "Mass Control Launch"
-    fonte: "kern"
-    descricao: "4-phase launch sequence for maximum impact"
-    aplicacao: "Lançamento de produtos/cursos"
-    peso: 0.70
+  - id: "FW-COPY-009"
+    nome: "Lead Gen Inversion (DK)"
+    passos: "Warning ad → 16-page letter → decision-maker LIGA para você"
+    fonte: "dan-kennedy" | ref: "FW-DK-016, MET-DK-004"
+    peso: 0.85
 
 # ═══════════════════════════════════════════════════════════════════════════════
-# L5: METODOLOGIAS (16 sistemas operacionais)
+# TENSÕES ENTRE FONTES
 # ═══════════════════════════════════════════════════════════════════════════════
 
-metodologias:
-  - id: "AGG-COPY-MET001"
-    nome: "RMBC Method"
-    fonte: "georgi"
-    passos:
-      - "Research (40%): Mercado, avatar, concorrentes, mecanismo"
-      - "Mechanism (20%): Root cause + unique solution"
-      - "Brief (20%): Estrutura da peça antes de escrever"
-      - "Copy (20%): Execução seguindo brief"
-    resultado: "VSL ou sales letter completa e persuasiva"
-    peso: 0.70
+tensoes:
+  - id: "TENS-COPY-001"
+    titulo: "Long copy vs Short copy"
+    posicao_dk: "Copy longa sempre funciona — pessoa interessada lê tudo"
+    posicao_digital: "Atenção curta, copy curta converte melhor"
+    resolucao: "Cold traffic = mais copy. Warm/hot = pode encurtar. High-ticket: long copy ganha."
 
-  - id: "AGG-COPY-MET002"
-    nome: "Perfect Webinar Script"
-    fonte: "brunson"
-    passos:
-      - "Big Promise: Uma promessa clara e ousada"
-      - "3 Secrets: Quebrar 3 falsas crenças com stories"
-      - "Stack: Construir valor crescente até oferta"
-      - "Close: CTA claro com urgência real"
-    resultado: "Webinar de vendas 60-90 min"
-    peso: 0.70
-
-  - id: "AGG-COPY-MET003"
-    nome: "Epiphany Bridge Story"
-    fonte: "brunson"
-    passos:
-      - "Backstory: Contexto pessoal"
-      - "Desire: O que queria alcançar"
-      - "Wall: O que impedia"
-      - "Epiphany: Momento de revelação"
-      - "Plan: O que fez diferente"
-      - "Transformation: Resultado"
-    resultado: "Story persuasiva que cria aha moment"
-    peso: 0.70
-
-  - id: "AGG-COPY-MET004"
-    nome: "Six-Step Letter"
-    fonte: "collier"
-    passos:
-      - "Opening: Entrar na conversa mental"
-      - "Description: Pintar o quadro"
-      - "Motive: Conectar com desejo/dor"
-      - "Proof: Demonstrar evidência"
-      - "Snapper: Criar urgência"
-      - "Close: CTA direto"
-    resultado: "Sales letter empathy-first"
-    peso: 0.70
-
-  - id: "AGG-COPY-MET005"
-    nome: "Star-Story-Solution"
-    fonte: "halbert"
-    passos:
-      - "Star: Introduzir personagem/herói"
-      - "Story: Jornada e conflitos"
-      - "Solution: Produto como resposta"
-    resultado: "Narrative selling via carta ou email"
-    peso: 0.70
-
-  - id: "AGG-COPY-MET006"
-    nome: "Funnel Hacking Process"
-    fonte: "brunson"
-    passos:
-      - "Identify: Encontrar top performers no nicho"
-      - "Map: Mapear todo o funil (ads → pages → emails → offers)"
-      - "Adapt: Adaptar para seu contexto (nunca copiar)"
-      - "Test: Implementar e medir"
-    resultado: "Funil validado baseado em modelos provados"
-    peso: 0.70
-
-  - id: "AGG-COPY-MET007"
-    nome: "20+ Headline Method"
-    fonte: "ogilvy"
-    passos:
-      - "Research: Imersão no produto e mercado"
-      - "Generate: Escrever 20+ variações"
-      - "Score: Avaliar contra critérios (clarity, curiosity, specificity)"
-      - "Select: Top 3 para teste"
-    resultado: "Headlines testáveis e otimizadas"
-    peso: 0.70
-
-  - id: "AGG-COPY-MET008"
-    nome: "Mass Control Launch"
-    fonte: "kern"
-    passos:
-      - "Phase 1: Pre-launch (seed desire)"
-      - "Phase 2: Launch content (3 value videos)"
-      - "Phase 3: Open cart (scarcity real)"
-      - "Phase 4: Close cart (final urgency)"
-    resultado: "Launch sequence para produtos digitais"
-    peso: 0.70
-
-  - id: "AGG-COPY-MET009"
-    nome: "Results In Advance Strategy"
-    fonte: "kern"
-    passos:
-      - "Identify: Resultado rápido que produto pode dar"
-      - "Deliver: Entregar gratuitamente (vídeo, template, tool)"
-      - "Bridge: Conectar resultado parcial → resultado completo"
-      - "Offer: Apresentar produto como caminho completo"
-    resultado: "Lead generation com reciprocidade máxima"
-    peso: 0.70
-
-  - id: "AGG-COPY-MET010"
-    nome: "Soap Opera Sequence"
-    fonte: "chaperon/brunson"
-    passos:
-      - "Email 1: Hook + backstory (abrir loop)"
-      - "Email 2: Drama e conflito"
-      - "Email 3: Epiphany (momento de virada)"
-      - "Email 4: Hidden benefit (benefício não óbvio)"
-      - "Email 5: Urgency + CTA final"
-    resultado: "Sequência de emails que vende via narrativa serial"
-    peso: 0.70
-
-  - id: "AGG-COPY-MET011"
-    nome: "Value Ladder Build"
-    fonte: "brunson"
-    passos:
-      - "Free: Lead magnet de alto valor"
-      - "Frontend ($1-$100): Tripwire ou livro"
-      - "Middle ($100-$2K): Curso ou programa"
-      - "Backend ($2K+): High-ticket coaching/consulting"
-    resultado: "Escada de ofertas com ascensão natural"
-    peso: 0.70
-
-  - id: "AGG-COPY-MET012"
-    nome: "4-Day Cash Machine"
-    fonte: "kern"
-    passos:
-      - "Day 1: Pure value (teach something valuable)"
-      - "Day 2: More value (deeper teaching)"
-      - "Day 3: Offer (soft pitch)"
-      - "Day 4: Urgency (deadline or scarcity)"
-    resultado: "Mini-launch de 4 dias"
-    peso: 0.70
-
-  - id: "AGG-COPY-MET013"
-    nome: "Email Sequence Architecture"
-    fonte: "multiple"
-    tipos:
-      - "Soap Opera: Narrativa serial (5 emails)"
-      - "Daily: Personality-driven daily value"
-      - "Nurture: Educação + soft CTA"
-      - "Launch: Pre-launch → Launch → Close"
-      - "Welcome: Onboarding de novos leads"
-      - "Cart Abandon: Recovery de vendas perdidas"
-    resultado: "Biblioteca de sequências para qualquer contexto"
-    peso: 0.70
-
-  - id: "AGG-COPY-MET014"
-    nome: "Slippery Slide Optimization"
-    fonte: "sugarman"
-    passos:
-      - "Audit: Ler copy como prospect (friamente)"
-      - "Identify: Onde paro de ler?"
-      - "Fix: Adicionar curiosity/hook em cada ponto de atrito"
-      - "Test: Reler e medir flow"
-    resultado: "Copy com flow contínuo sem pontos de abandono"
-    peso: 0.70
-
-  - id: "AGG-COPY-MET015"
-    nome: "Conversation Entry"
-    fonte: "collier"
-    passos:
-      - "Research: Qual conversa está na mente do prospect agora?"
-      - "Match: Lead deve espelhar essa conversa"
-      - "Bridge: Conectar conversa existente → seu produto"
-      - "Prove: Evidência que resolve o que eles pensam"
-    resultado: "Copy que conecta instantaneamente com o leitor"
-    peso: 0.70
-
-  - id: "AGG-COPY-MET016"
-    nome: "33:33 Timer System"
-    fonte: "schwartz"
-    passos:
-      - "Set timer: 33 minutos exatos"
-      - "Write: Sem parar, sem editar, sem pesquisar"
-      - "Stop: Quando timer para, PARE (mesmo no meio da frase)"
-      - "Rest: 10 min de descanso total"
-      - "Repeat: Próxima sessão de 33:33"
-    resultado: "Alta produtividade sem overthinking"
-    peso: 0.70
+  - id: "TENS-COPY-002"
+    titulo: "Fórmulas vs Criatividade"
+    posicao_dk: "Usar fórmulas, criar banco de headlines"
+    posicao_brand: "Criatividade diferencia, fórmulas comoditizam"
+    resolucao: "Fórmulas para response, criatividade para brand. Never sacrifice response for cleverness."
 
 # ═══════════════════════════════════════════════════════════════════════════════
-# TASK ROUTING: QUAL FRAMEWORK PARA QUAL TAREFA
+# CHANGELOG
 # ═══════════════════════════════════════════════════════════════════════════════
 
-task_routing:
-  headline_writing: ["AGG-COPY-FW001", "AGG-COPY-FW026"]
-  sales_letter: ["AGG-COPY-FW007", "AGG-COPY-FW008"]
-  vsl_script: ["AGG-COPY-FW006", "AGG-COPY-FW011"]
-  webinar: ["AGG-COPY-FW012"]
-  email_sequence: ["AGG-COPY-FW014", "AGG-COPY-FW015"]
-  offer_creation: ["AGG-COPY-FW017", "AGG-COPY-FW018"]
-  market_diagnosis: ["AGG-COPY-FW001", "AGG-COPY-FW002"]
-  campaign_strategy: ["AGG-COPY-FW003"]
-  copy_flow: ["AGG-COPY-FW022"]
-  copy_research: ["AGG-COPY-FW006", "AGG-COPY-FW026"]
-  launch: ["AGG-COPY-FW030", "AGG-COPY-FW015"]
-  funnel: ["AGG-COPY-FW025", "AGG-COPY-FW017"]
-
-# ═══════════════════════════════════════════════════════════════════════════════
-# SIGNATURE VOCABULARY
-# ═══════════════════════════════════════════════════════════════════════════════
-
-vocabulario:
-  schwartz: ["awareness", "sophistication", "mechanism", "fascinations", "mass desire"]
-  halbert: ["starving crowd", "A-pile", "swipe file", "motion", "P.S."]
-  ogilvy: ["Big Idea", "research", "brand image", "positioning"]
-  kennedy: ["no B.S.", "message-market-media", "magnetic", "direct response"]
-  georgi: ["RMBC", "mechanism", "root cause", "brief", "systematic"]
-  brunson: ["funnel", "value ladder", "stack", "epiphany", "hook-story-offer"]
-  sugarman: ["slippery slide", "triggers", "seeds", "curiosity", "concept"]
-  collier: ["conversation", "mental movie", "imagine", "vivid"]
-  kern: ["intent", "behavioral", "results in advance", "authentic"]
+changelog:
+  - versao: "1.0.0"
+    data: "2026-03-13"
+    mudancas:
+      - "Criação inicial — Dan Kennedy fonte primária (156 elementos, The Copywriting Clinic)"
+      - "Russell Brunson fonte secundária (Hook-Story-Offer, VSL, email)"
+      - "Alex Hormozi fonte terciária (hooks, offer language)"
+      - "8 filosofias, 6 heurísticas, 9 frameworks consolidados"
+      - "Cascateamento: CMO (0.85) + Sales Manager (0.70)"
