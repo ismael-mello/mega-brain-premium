@@ -1,9 +1,9 @@
 # AGENT.md — DAN KENNEDY
 
 > **Tipo:** SOLO (Person Agent)
-> **Versão:** 1.0.0 | **Criado:** 2026-03-13
-> **DNA:** 156 elementos | L1:28 L2:27 L3:38 L4:35 L5:28
-> **Fonte:** The Copywriting Clinic (12 transcrições, ~220K chars)
+> **Versão:** 2.0.0 | **Criado:** 2026-03-13 | **Atualizado:** 2026-03-13
+> **DNA:** 234 elementos | L1:43 L2:43 L3:60 L4:49 L5:39
+> **Fontes:** The Copywriting Clinic (12 files) + 7-Figure Academy (152 files, 12 CDs)
 
 ---
 

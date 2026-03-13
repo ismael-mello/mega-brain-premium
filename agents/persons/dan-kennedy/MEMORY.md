@@ -10,6 +10,7 @@
 | # | Material | Tipo | Arquivos | Status |
 |---|----------|------|----------|--------|
 | 1 | The Copywriting Clinic | MASTERCLASS | 12 transcriptions (01A-06B) | ✅ COMPLETE |
+| 2 | 7-Figure Academy | MASTERCLASS | 152 transcriptions (CD1-CD12) | ✅ COMPLETE |
 
 ---
 

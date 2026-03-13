@@ -7,31 +7,40 @@ person: "Dan Kennedy"
 alias: DK
 
 dna_sources:
-  - person: "dan-kennedy"
+  - source: "copywriting-clinic"
+    person: "dan-kennedy"
     weight: 1.0
     path: "knowledge/dna/persons/dan-kennedy/DNA.yaml"
-    raiz: "knowledge/sources/dan-kennedy/raw/"
+    raiz: "knowledge/sources/dan-kennedy/raw/copywriting-clinic/"
+    files: 12
     materiais_fonte:
-      - "copywriting-clinic/transcription_mp3_01_A_-_Dan_Kennedy_-_Copywrinting_Clinic.txt"
-      - "copywriting-clinic/transcription_mp3_01_B_-_Dan_Kennedy_-_Copywrinting_Clinic.txt"
-      - "copywriting-clinic/transcription_mp3_02_A_-_Dan_Kennedy_-_Copywrinting_Clinic.txt"
-      - "copywriting-clinic/transcription_mp3_02_B_-_Dan_Kennedy_-_Copywrinting_Clinic.txt"
-      - "copywriting-clinic/transcription_mp3_03_A_-_Dan_Kennedy_-_Copywrinting_Clinic.txt"
-      - "copywriting-clinic/transcription_mp3_03_B_-_Dan_Kennedy_-_Copywrinting_Clinic.txt"
-      - "copywriting-clinic/transcription_mp3_04_A_-_Dan_Kennedy_-_Copywrinting_Clinic.txt"
-      - "copywriting-clinic/transcription_mp3_04_B_-_Dan_Kennedy_-_Copywrinting_Clinic.txt"
-      - "copywriting-clinic/transcription_mp3_05_A_-_Dan_Kennedy_-_Copywrinting_Clinic.txt"
-      - "copywriting-clinic/transcription_mp3_05_B_-_Dan_Kennedy_-_Copywrinting_Clinic.txt"
-      - "copywriting-clinic/transcription_mp3_06_A_-_Dan_Kennedy_-_Copywrinting_Clinic.txt"
-      - "copywriting-clinic/transcription_mp3_06_B_-_Dan_Kennedy_-_Copywrinting_Clinic.txt"
+      - "transcription_mp3_01_A_-_Dan_Kennedy_-_Copywrinting_Clinic.txt"
+      - "transcription_mp3_01_B_-_Dan_Kennedy_-_Copywrinting_Clinic.txt"
+      - "transcription_mp3_02_A_-_Dan_Kennedy_-_Copywrinting_Clinic.txt"
+      - "transcription_mp3_02_B_-_Dan_Kennedy_-_Copywrinting_Clinic.txt"
+      - "transcription_mp3_03_A_-_Dan_Kennedy_-_Copywrinting_Clinic.txt"
+      - "transcription_mp3_03_B_-_Dan_Kennedy_-_Copywrinting_Clinic.txt"
+      - "transcription_mp3_04_A_-_Dan_Kennedy_-_Copywrinting_Clinic.txt"
+      - "transcription_mp3_04_B_-_Dan_Kennedy_-_Copywrinting_Clinic.txt"
+      - "transcription_mp3_05_A_-_Dan_Kennedy_-_Copywrinting_Clinic.txt"
+      - "transcription_mp3_05_B_-_Dan_Kennedy_-_Copywrinting_Clinic.txt"
+      - "transcription_mp3_06_A_-_Dan_Kennedy_-_Copywrinting_Clinic.txt"
+      - "transcription_mp3_06_B_-_Dan_Kennedy_-_Copywrinting_Clinic.txt"
+  - source: "7-figure-academy"
+    person: "dan-kennedy"
+    weight: 1.0
+    path: "knowledge/dna/persons/dan-kennedy/DNA.yaml"
+    raiz: "knowledge/sources/dan-kennedy/raw/7-figure-academy/Main/Audio/"
+    files: 152
+    cds: [CD1, CD2, CD3, CD4, CD5, CD6, CD7, CD8, CD9, CD10, CD11, CD12]
 
-total_elements: 156
+total_elements: 234
 breakdown:
-  L1_FILOSOFIAS: 28
-  L2_MODELOS_MENTAIS: 27
-  L3_HEURISTICAS: 38
-  L4_FRAMEWORKS: 35
-  L5_METODOLOGIAS: 28
+  L1_FILOSOFIAS: 43
+  L2_MODELOS_MENTAIS: 43
+  L3_HEURISTICAS: 60
+  L4_FRAMEWORKS: 49
+  L5_METODOLOGIAS: 39
 
 domains:
   - copywriting
@@ -47,6 +56,15 @@ domains:
   - customer-avatar
   - market-immersion
   - split-testing
+  - business-building
+  - pricing-psychology
+  - status-positioning
+  - wealth-mindset
+  - visibility
+  - niche-domination
+  - joint-ventures
+  - inner-game
+  - authority-creation
 
 references:
   - name: "Gary Halbert"

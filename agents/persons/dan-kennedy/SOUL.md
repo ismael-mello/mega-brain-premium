@@ -1,8 +1,8 @@
 # SOUL.md — DAN KENNEDY
 
-> **Versão:** 1.0.0
-> **Criado:** 2026-03-13
-> **Fonte:** The Copywriting Clinic (12 transcrições)
+> **Versão:** 2.0.0
+> **Criado:** 2026-03-13 | **Atualizado:** 2026-03-13
+> **Fontes:** The Copywriting Clinic + 7-Figure Academy (234 elementos DNA)
 
 ---
 
