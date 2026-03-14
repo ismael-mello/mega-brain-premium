@@ -5,8 +5,6 @@ Memory Hints Injector v1.0 (Mega Brain) - Bracket-Aware Agent Memory Enhancement
 Implements MIS (Memory Integration System) for bracket-aware memory injection
 that adapts to context window usage.
 
-Adapted from: aios-core/.claude/hooks/memory_hints_injector.py
-
 BRACKETS:
   FRESH    (60-100% context remaining) -> No extra memory needed
   MODERATE (40-60%)  -> Brief memory reminder (~50 tokens)
@@ -16,7 +14,8 @@ BRACKETS:
 INTEGRATION:
   - Runs at UserPromptSubmit, AFTER skill_router.py
   - Tracks prompt_count in STATE.json (mis.prompt_count)
-  - Reads from .claude/agent-memory/ (our existing data store)
+  - Reads from canonical agent path via AGENT-INDEX.yaml (resolve_agent_path.py)
+  - Fallback to .claude/agent-memory/ for unindexed agents
   - Returns feedback with memory hints when bracket warrants it
 
 FAIL-OPEN: Never blocks user input. Returns {"continue": true} on any error.
@@ -25,21 +24,31 @@ Hook Type: UserPromptSubmit
 """
 
 import json
-import sys
 import os
+import re as _re
+import sys
 import time
 from pathlib import Path
 
-PROJECT_ROOT = Path(os.environ.get('CLAUDE_PROJECT_DIR', '.'))
+PROJECT_ROOT = Path(os.environ.get("CLAUDE_PROJECT_DIR", "."))
 STATE_DIR = PROJECT_ROOT / ".claude" / "jarvis"
 STATE_FILE = STATE_DIR / "STATE.json"
-AGENT_MEMORY_DIR = PROJECT_ROOT / ".claude" / "agent-memory"
+
+# Import canonical path resolver (MOD-001: reads from agent directories, not .claude/agent-memory/)
+try:
+    sys.path.insert(0, str(PROJECT_ROOT / ".claude" / "hooks"))
+    from resolve_agent_path import resolve_memory_path
+
+    _HAS_RESOLVER = True
+except ImportError:
+    _HAS_RESOLVER = False
+    AGENT_MEMORY_DIR = PROJECT_ROOT / ".claude" / "agent-memory"
 
 # Context Brackets
 BRACKET_LAYER_MAP = {
-    "FRESH":    {"layer": 0, "max_tokens": 0,    "max_lines": 0},
-    "MODERATE": {"layer": 1, "max_tokens": 50,   "max_lines": 5},
-    "DEPLETED": {"layer": 2, "max_tokens": 200,  "max_lines": 20},
+    "FRESH": {"layer": 0, "max_tokens": 0, "max_lines": 0},
+    "MODERATE": {"layer": 1, "max_tokens": 50, "max_lines": 5},
+    "DEPLETED": {"layer": 2, "max_tokens": 200, "max_lines": 20},
     "CRITICAL": {"layer": 3, "max_tokens": 1000, "max_lines": 50},
 }
 
@@ -49,6 +58,41 @@ DEFAULTS = {
 }
 
 INTERNAL_TIMEOUT_MS = 80
+
+# ---------------------------------------------------------------------------
+# ADAPTIVE CONTEXT SCORER INTEGRATION (GAP-07)
+# Uses intent-based budget when bracket >= MODERATE.
+# Fails open to existing bracket system if import or classification fails.
+# ---------------------------------------------------------------------------
+_HAS_SCORER = False
+_score_context_budget = None
+try:
+    sys.path.insert(0, str(PROJECT_ROOT))
+    from core.intelligence.context_scorer import score_context_budget as _scb
+
+    _score_context_budget = _scb
+    _HAS_SCORER = True
+except Exception:
+    pass
+
+_INTENT_QUICK_PATTERNS = [
+    ("greeting", _re.compile(r"^(hi|hello|hey|oi|bom dia|boa tarde|boa noite)\b", _re.I)),
+    ("meta", _re.compile(r"(quem .+ voc|what are you|who are you|seu nome)", _re.I)),
+    ("hierarchical", _re.compile(r"(compar|hierarq|priori[tz]|rank|cascad)", _re.I)),
+    ("cross_expert", _re.compile(r"(cross.?expert|todas as fontes|all sources|combin)", _re.I)),
+    ("analytical", _re.compile(r"(anali[sz]|estrat|why|por.?qu[eê]|implic|trade.?off)", _re.I)),
+    ("factual_complex", _re.compile(r"(framework|metodolog|how.+work|como funciona|expli)", _re.I)),
+]
+
+
+def _quick_classify_intent(prompt_text: str) -> str:
+    """Lightweight intent classification (~0.1ms). No heavy imports."""
+    if not prompt_text or len(prompt_text) < 3:
+        return "factual_simple"
+    for intent, pattern in _INTENT_QUICK_PATTERNS:
+        if pattern.search(prompt_text[:200]):
+            return intent
+    return "factual_complex" if len(prompt_text.split()) > 10 else "factual_simple"
 
 
 def calculate_bracket(context_percent):
@@ -84,9 +128,9 @@ def load_state():
     if not STATE_FILE.exists():
         return {}
     try:
-        with open(STATE_FILE, "r", encoding="utf-8") as f:
+        with open(STATE_FILE, encoding="utf-8") as f:
             return json.load(f)
-    except (json.JSONDecodeError, IOError):
+    except (OSError, json.JSONDecodeError):
         return {}
 
 
@@ -120,8 +164,12 @@ def read_agent_memory_hints(agent_slug, max_lines, max_tokens):
     """
     Read memory hints from agent's MEMORY.md, respecting token budget.
     Reads from the END of the file (most recent entries) working backwards.
+    Uses canonical path resolver (AGENT-INDEX.yaml) with .claude/agent-memory/ fallback.
     """
-    memory_path = AGENT_MEMORY_DIR / agent_slug / "MEMORY.md"
+    if _HAS_RESOLVER:
+        memory_path = resolve_memory_path(PROJECT_ROOT, agent_slug)
+    else:
+        memory_path = AGENT_MEMORY_DIR / agent_slug / "MEMORY.md"
     if not memory_path.exists():
         return ""
 
@@ -173,7 +221,15 @@ def main():
     start_time = time.time()
 
     try:
-        input_data = sys.stdin.read()
+        raw_input = sys.stdin.read()
+
+        # Parse hook input for user prompt (needed for intent classification)
+        _user_prompt = ""
+        try:
+            hook_data = json.loads(raw_input) if raw_input.strip() else {}
+            _user_prompt = hook_data.get("query", hook_data.get("prompt", ""))
+        except (json.JSONDecodeError, AttributeError):
+            pass
 
         state = load_state()
         if not state:
@@ -203,6 +259,20 @@ def main():
         layer_config = BRACKET_LAYER_MAP.get(bracket, BRACKET_LAYER_MAP["FRESH"])
         max_tokens = layer_config["max_tokens"]
         max_lines = layer_config["max_lines"]
+
+        # Adaptive scorer override: intent-based budget when bracket >= MODERATE
+        if max_tokens > 0 and _HAS_SCORER and _user_prompt:
+            try:
+                intent = _quick_classify_intent(_user_prompt)
+                scored_chars = _score_context_budget(intent)
+                scored_tokens = scored_chars // 4  # match estimate_tokens ratio
+                if scored_tokens == 0:
+                    max_tokens = 0
+                elif scored_tokens > max_tokens:
+                    max_tokens = min(scored_tokens, BRACKET_LAYER_MAP["CRITICAL"]["max_tokens"])
+                    max_lines = min(scored_tokens // 10, BRACKET_LAYER_MAP["CRITICAL"]["max_lines"])
+            except Exception:
+                pass  # fail open: keep original bracket-based values
 
         if max_tokens <= 0:
             print(json.dumps({"continue": True}))

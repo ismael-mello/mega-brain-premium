@@ -123,18 +123,6 @@ NARRATIVES_STATE = READ /processing/narratives/NARRATIVES-STATE.json
 ⛔ DUPLICATE DETECTION - INTERROMPE PROCESSAMENTO SE DUPLICATA ENCONTRADA
 ═══════════════════════════════════════════════════════════════════════════════
 
-# PRE-CHECK: Se for PDF, converter para texto ANTES de qualquer operacao
-IF $ARGUMENTS ends with ".pdf" OR $ARGUMENTS ends with ".PDF":
-  LOG: "📄 PDF detectado na entrada - convertendo para texto..."
-  EXECUTE: python3 ".claude/skills/pdf-to-text/convert_pdf.py" "$ARGUMENTS"
-  TXT_PATH = replace_extension($ARGUMENTS, ".txt")
-  IF TXT_PATH exists:
-    LOG: "✅ PDF convertido. Pipeline continuará com: $TXT_PATH"
-    $ARGUMENTS = TXT_PATH
-  ELSE:
-    LOG ERROR: "❌ Falha na conversão do PDF. Verifique o arquivo."
-    EXIT with status: PDF_CONVERSION_FAILED
-
 # FASE 1: Calcular MD5 do arquivo atual
 CURRENT_MD5 = calculate_md5($ARGUMENTS)
 CURRENT_SIZE = file_size($ARGUMENTS)
@@ -249,20 +237,6 @@ IF found:
 ---
 
 ## PHASE 2: CHUNKING (Prompt 1.1)
-
-### Step 2.0 - PDF Auto-Conversion (Pre-Processing)
-```
-IF $ARGUMENTS ends with ".pdf" OR $ARGUMENTS ends with ".PDF":
-  LOG: "📄 PDF detectado - convertendo para texto antes de processar..."
-  EXECUTE: python3 ".claude/skills/pdf-to-text/convert_pdf.py" "$ARGUMENTS"
-  TXT_PATH = replace_extension($ARGUMENTS, ".txt")
-  IF TXT_PATH exists:
-    LOG: "✅ PDF convertido para: $TXT_PATH"
-    $ARGUMENTS = TXT_PATH  # Redirecionar para o .txt gerado
-  ELSE:
-    LOG ERROR: "❌ Falha na conversão do PDF"
-    EXIT with status: PDF_CONVERSION_FAILED
-```
 
 ### Step 2.1 - Read Full Content
 ```
@@ -504,7 +478,7 @@ LOG: "Compilando {len(PERSONS)} pessoas e {len(THEMES)} temas"
 FOR each PERSON_NAME in PERSONS_TO_COMPILE:
 
   PERSON_DATA = NARRATIVES_DATA.narratives_state.persons[PERSON_NAME]
-  DOSSIER_PATH = /knowledge/dossiers/persons/DOSSIER-{PERSON_NAME_UPPERCASE}.md
+  DOSSIER_PATH = /knowledge/external/dossiers/persons/DOSSIER-{PERSON_NAME_UPPERCASE}.md
 
   IF DOSSIER_PATH exists:
     READ existing_dossier
@@ -531,7 +505,7 @@ FOR each PERSON_NAME in PERSONS_TO_COMPILE:
 FOR each THEME_NAME in THEMES_TO_COMPILE:
 
   THEME_DATA = NARRATIVES_DATA.narratives_state.themes[THEME_NAME]
-  DOSSIER_PATH = /knowledge/dossiers/THEMES/DOSSIER-{THEME_NAME_UPPERCASE}.md
+  DOSSIER_PATH = /knowledge/external/dossiers/THEMES/DOSSIER-{THEME_NAME_UPPERCASE}.md
 
   IF DOSSIER_PATH exists:
     MODE = "INCREMENTAL"
@@ -742,14 +716,15 @@ JARVIS PIPELINE COMPLETE: $SOURCE_PERSON ($SOURCE_ID)
 ```
 LOG: "Atualizando índice RAG..."
 
-EXECUTE: python scripts/rag_index.py --knowledge --force
+EXECUTE: python3 -m core.intelligence.rag.hybrid_index --bm25-only
+EXECUTE: python3 -m core.intelligence.rag.graph_builder --build
 
--> Re-indexa toda a knowledge base com os novos arquivos
--> Flag --force garante que arquivos modificados sejam reprocessados
--> Esperar conclusão antes de prosseguir
+-> Rebuild BM25 index com todos os chunks da knowledge base
+-> Rebuild Knowledge Graph com entidades e relacoes dos DNAs
+-> Esperar conclusao antes de prosseguir
 
-VERIFY: Output deve mostrar arquivos indexados
-LOG: "RAG index atualizado: {files_indexed} arquivos"
+VERIFY: Output deve mostrar chunks indexados e entities/edges
+LOG: "RAG index atualizado: {chunks} chunks, {entities} entities, {edges} edges"
 ```
 
 ### Step 8.2 - Update File Registry
@@ -1730,8 +1705,8 @@ STEP 7.4.0 - CARREGAR TODOS OS 5 NÍVEIS PARA ENRIQUECIMENTO RICO
 # Agentes devem ser alimentados com a MÁXIMA profundidade disponível
 
 # NÍVEL 5 - DOSSIERS (mais consolidado)
-READ /knowledge/dossiers/persons/DOSSIER-{SOURCE_PERSON}.md as DOSSIER_DATA
-READ /knowledge/dossiers/THEMES/DOSSIER-{RELEVANT_THEMES}.md as THEME_DOSSIERS
+READ /knowledge/external/dossiers/persons/DOSSIER-{SOURCE_PERSON}.md as DOSSIER_DATA
+READ /knowledge/external/dossiers/THEMES/DOSSIER-{RELEVANT_THEMES}.md as THEME_DOSSIERS
 
 # NÍVEL 4 - NARRATIVES
 READ /processing/narratives/NARRATIVES-STATE.json as NARRATIVES_DATA
@@ -1814,8 +1789,8 @@ FOR each AGENT in agents_impacted:
       - **Colabora com:** {agents do mesmo nível}
 
       #### Fontes para Consulta Profunda
-      - DOSSIER: `/knowledge/dossiers/persons/DOSSIER-{PERSON}.md`
-      - THEME: `/knowledge/dossiers/THEMES/DOSSIER-{THEME}.md`
+      - DOSSIER: `/knowledge/external/dossiers/persons/DOSSIER-{PERSON}.md`
+      - THEME: `/knowledge/external/dossiers/THEMES/DOSSIER-{THEME}.md`
       - Chunks: {list of relevant chunk_ids}
 
     WRITE MEMORY_PATH
@@ -1926,20 +1901,21 @@ LOG: "Executando finalizações automáticas..."
 
 LOG: "Executando indexação RAG consolidada..."
 
-# INDEXAR KNOWLEDGE BASE COMPLETA
-EXECUTE: python scripts/rag_index.py --knowledge --force
+# REBUILD BM25 INDEX (todos os chunks da knowledge base)
+EXECUTE: python3 -m core.intelligence.rag.hybrid_index --bm25-only
 CAPTURE output
-LOG: "RAG Knowledge: {files_indexed} arquivos indexados"
+LOG: "RAG BM25: {chunks_count} chunks indexados"
 
-# INDEXAR DOSSIÊS (consolidado de Phase 6.5.4)
-FOR each dossier in DOSSIERS_TO_INDEX.persons:
-  EXECUTE: python scripts/rag_index.py --file {dossier} --collection dossiers_persons
+# REBUILD KNOWLEDGE GRAPH (entidades e relacoes dos DNAs)
+EXECUTE: python3 -m core.intelligence.rag.graph_builder --build
+CAPTURE output
+LOG: "RAG Graph: {entities} entities, {edges} edges"
 
-FOR each dossier in DOSSIERS_TO_INDEX.themes:
-  EXECUTE: python scripts/rag_index.py --file {dossier} --collection dossiers_themes
+# STATS para verificacao
+EXECUTE: python3 -m core.intelligence.rag.chunker --stats
+EXECUTE: python3 -m core.intelligence.rag.graph_builder --stats
 
-LOG: "RAG Dossiês: {persons_count} pessoas, {themes_count} temas"
-LOG: "RAG Index TOTAL: {total_files} arquivos indexados"
+LOG: "RAG Index TOTAL: {chunks_count} chunks, {entities} entities, {edges} edges"
 
 ═══════════════════════════════════════════════════════════════════════════
 9.5.2 - FILE REGISTRY
@@ -2010,8 +1986,8 @@ IF structural_change_occurred (new agent, new protocol, new pattern):
 READ /agents/DISCOVERY/role-tracking.md
 
 # NÍVEL 5 - DOSSIERS (mais consolidado)
-DOSSIERS_PERSONS = LIST /knowledge/dossiers/persons/DOSSIER-*.md
-DOSSIERS_THEMES = LIST /knowledge/dossiers/THEMES/DOSSIER-*.md
+DOSSIERS_PERSONS = LIST /knowledge/external/dossiers/persons/DOSSIER-*.md
+DOSSIERS_THEMES = LIST /knowledge/external/dossiers/THEMES/DOSSIER-*.md
 
 # NÍVEL 4 - NARRATIVES
 READ /processing/narratives/NARRATIVES-STATE.json as NARRATIVES_DATA
@@ -2361,7 +2337,7 @@ IF DNA_BASE_PATH exists:
 
 ELSE:
   # Verificar se há material suficiente para CRIAÇÃO AUTOMÁTICA de DNA
-  PERSON_DOSSIER = /knowledge/dossiers/persons/DOSSIER-{SOURCE_PERSON}.md
+  PERSON_DOSSIER = /knowledge/external/dossiers/persons/DOSSIER-{SOURCE_PERSON}.md
 
   IF PERSON_DOSSIER exists:
     DOSSIER_CONTENT = READ PERSON_DOSSIER
@@ -2574,7 +2550,7 @@ ELSE:
 IF MODE == "UPDATE":
 
   # Navegar DOSSIER → NARRATIVES → INSIGHTS → CHUNKS para extração rica
-  DOSSIER_PATH = /knowledge/dossiers/persons/DOSSIER-{SOURCE_PERSON}.md
+  DOSSIER_PATH = /knowledge/external/dossiers/persons/DOSSIER-{SOURCE_PERSON}.md
   DOSSIER_CONTENT = READ DOSSIER_PATH
 
   # Extrair elementos por camada (seguindo DNA-EXTRACTION-PROTOCOL)

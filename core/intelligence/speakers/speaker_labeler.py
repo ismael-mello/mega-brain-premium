@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 """
 Speaker Labeler — Interactive: show sample phrases, ask user for speaker name.
 Integrates with voice_registry for persistence.
@@ -53,9 +52,13 @@ def label_unknown_speakers(
         print(f"⚠️  Expected {expected_speakers} speaker(s) but detected {total}.")
         print("   Consider re-running diarize() with num_speakers set explicitly.\n")
 
-    confirm = input(f"Does {total} speaker(s) look correct? (Enter=yes / type correct number to retry hint): ").strip()
+    confirm = input(
+        f"Does {total} speaker(s) look correct? (Enter=yes / type correct number to retry hint): "
+    ).strip()
     if confirm.isdigit():
-        print(f"[speaker_labeler] Note: re-run diarize(audio, num_speakers={confirm}) to get better separation.\n")
+        print(
+            f"[speaker_labeler] Note: re-run diarize(audio, num_speakers={confirm}) to get better separation.\n"
+        )
 
     # ── Per-speaker sample phrases ──
     print("\n─── Sample phrases per speaker ───\n")

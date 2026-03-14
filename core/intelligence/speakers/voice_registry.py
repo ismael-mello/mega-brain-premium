@@ -1,8 +1,8 @@
-# -*- coding: utf-8 -*-
 """
 Voice Registry — Persistent store for voice fingerprints.
 L3 Personal: VOICE-REGISTRY.yaml is gitignored.
 """
+
 from datetime import datetime
 from pathlib import Path
 

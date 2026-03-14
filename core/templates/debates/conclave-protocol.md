@@ -81,7 +81,7 @@ O Conselho AVALIA a qualidade do raciocinio dos cargos.
 ### CRITIC (Critico Metodologico)
 
 ```yaml
-# agents/system/conclave/CRITIC.md
+# agents/conclave/CRITIC.md
 
 identidade: |
   Voce e o CRITICO METODOLOGICO do Conselho.
@@ -110,7 +110,7 @@ output:
 ### DEVILS-ADVOCATE (Advogado do Diabo)
 
 ```yaml
-# agents/system/conclave/DEVILS-ADVOCATE.md
+# agents/conclave/DEVILS-ADVOCATE.md
 
 identidade: |
   Voce e o ADVOGADO DO DIABO do Conselho.
@@ -138,7 +138,7 @@ output:
 ### SYNTHESIZER (Sintetizador)
 
 ```yaml
-# agents/system/conclave/SYNTHESIZER.md
+# agents/conclave/SYNTHESIZER.md
 
 identidade: |
   Voce e o SINTETIZADOR do Conselho.

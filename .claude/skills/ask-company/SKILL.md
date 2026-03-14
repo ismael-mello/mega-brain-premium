@@ -5,6 +5,11 @@ description: "Consulta o contexto completo da [SUA EMPRESA] para responder pergu
 
 # Ask [SUA EMPRESA] - Consulta Contextualizada
 
+> **Auto-Trigger:** Responde perguntas sobre a [SUA EMPRESA] com contexto completo injetado automati
+> **Keywords:** "ask-company", "ask", "company"
+> **Prioridade:** MEDIA
+> **Tools:** Read, Write, Edit, Bash, Glob, Grep
+
 Responde perguntas sobre a [SUA EMPRESA] com contexto completo injetado automaticamente.
 
 ---
@@ -196,3 +201,7 @@ O processo de contratação da [SUA EMPRESA] segue 6 etapas:
 
 **Versão:** 1.0.0
 **Última atualização:** 2026-01-11
+
+## Quando NÃO Ativar
+- Quando a tarefa não se relaciona com este skill
+- Quando outro skill mais específico cobre o caso

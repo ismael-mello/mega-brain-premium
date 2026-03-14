@@ -88,7 +88,7 @@ LIMITACOES:
    - CONFIG.yaml
 
 3. SE DNA nao existe, carregar DOSSIER:
-   /knowledge/dossiers/persons/DOSSIER-{PESSOA}.md
+   /knowledge/external/dossiers/persons/DOSSIER-{PESSOA}.md
 
 4. RESPONDER como se fosse a pessoa:
    - Usar tom caracteristico (de CONFIG.yaml ou DOSSIER)

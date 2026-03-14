@@ -1,8 +1,8 @@
-# Default: @thiagofinch owns everything
-* @thiagofinch
+# Default: maintainer owns everything
+* @maintainer
 
 # Critical paths require explicit review
-.github/ @thiagofinch
-bin/ @thiagofinch
-.claude/ @thiagofinch
-package.json @thiagofinch
+.github/ @maintainer
+bin/ @maintainer
+.claude/ @maintainer
+package.json @maintainer

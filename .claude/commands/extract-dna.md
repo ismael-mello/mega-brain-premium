@@ -37,7 +37,7 @@ EXTRACAO DE DNA: {PESSOA}
 
 PASSO 1: VERIFICAR PRE-REQUISITOS
 
-[ ] DOSSIER existe: /knowledge/dossiers/persons/DOSSIER-{PESSOA}.md
+[ ] DOSSIER existe: /knowledge/external/dossiers/persons/DOSSIER-{PESSOA}.md
 [ ] INSIGHTS-STATE.json tem insights desta pessoa
 [ ] CHUNKS-STATE.json tem chunks desta pessoa
 

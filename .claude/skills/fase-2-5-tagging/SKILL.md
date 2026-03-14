@@ -1,5 +1,10 @@
 # SKILL: Fase 2.5 - Tagueamento de Arquivos INBOX
 
+> **Auto-Trigger:** ## Objetivo
+> **Keywords:** "fase-2-5-tagging", "fase", "tagging"
+> **Prioridade:** MEDIA
+> **Tools:** Read, Write, Edit, Bash, Glob, Grep
+
 ## Objetivo
 Renomear arquivos do INBOX com prefixo [TAG] baseado na planilha de controle, permitindo DE-PARA instantâneo entre arquivo e entrada na planilha.
 
@@ -180,3 +185,7 @@ Prefixes:
 ## HISTÓRICO
 
 - **2026-01-07**: Criação inicial. 727 arquivos tagueados com sucesso.
+
+## Quando NÃO Ativar
+- Quando a tarefa não se relaciona com este skill
+- Quando outro skill mais específico cobre o caso

@@ -1,5 +1,10 @@
 # CONVERT TO COMPANY DOCS
 
+> **Auto-Trigger:** ## Trigger
+> **Keywords:** "convert-to-company-docs", "convert", "company", "docs"
+> **Prioridade:** MEDIA
+> **Tools:** Read, Write, Edit, Bash, Glob, Grep
+
 ## Trigger
 `/convert-to-company-docs` ou `/company-docs`
 
@@ -66,3 +71,7 @@ Timestamp: 2026-01-20T...
 
 - [COMPANY-VISUAL-STANDARDS.md](../../../[SUA EMPRESA]-CORE/templates/COMPANY-VISUAL-STANDARDS.md)
 - [config.json](../sync-docs/config.json)
+
+## Quando NÃO Ativar
+- Quando a tarefa não se relaciona com este skill
+- Quando outro skill mais específico cobre o caso

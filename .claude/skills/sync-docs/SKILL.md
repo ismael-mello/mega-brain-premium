@@ -1,5 +1,10 @@
 # SYNC-DOCS - Sincronizacao de Documentos [SUA EMPRESA]
 
+> **Auto-Trigger:** ## Trigger
+> **Keywords:** "sync-docs", "sync", "docs"
+> **Prioridade:** MEDIA
+> **Tools:** Read, Write, Edit, Bash, Glob, Grep
+
 ## Trigger
 `/sync-docs` ou `/sync-docs [caminho-do-arquivo]`
 
@@ -34,8 +39,8 @@ Sincronizar arquivos .md selecionados com:
 ```
 - Listar .md disponiveis em locais comuns:
   - `[SUA EMPRESA]-CORE/templates/`
-  - `[SUA EMPRESA]-CORE/knowledge/playbooks/`
-  - `.aios-core/docs/standards/`
+  - `[SUA EMPRESA]-CORE/knowledge/external/playbooks/`
+  - `.aiox/docs/standards/`
 - Usuario seleciona arquivo(s) para sincronizar
 
 ### 2. Validacao
@@ -133,8 +138,8 @@ Localizado em: `.claude/skills/sync-docs/config.json`
 | Origem Local | Destino Google Drive |
 |--------------|---------------------|
 | `[SUA EMPRESA]-CORE/templates/` | Shared Drive > Templates |
-| `[SUA EMPRESA]-CORE/knowledge/playbooks/` | Shared Drive > Playbooks |
-| `.aios-core/docs/standards/` | Shared Drive > Standards |
+| `[SUA EMPRESA]-CORE/knowledge/external/playbooks/` | Shared Drive > Playbooks |
+| `.aiox/docs/standards/` | Shared Drive > Standards |
 
 ---
 
@@ -191,3 +196,7 @@ pip install google-api-python-client google-auth-httplib2 google-auth-oauthlib
 [ ] Dependencias Python instaladas
 [ ] Git autenticado no repositorio
 ```
+
+## Quando NÃO Ativar
+- Quando a tarefa não se relaciona com este skill
+- Quando outro skill mais específico cobre o caso

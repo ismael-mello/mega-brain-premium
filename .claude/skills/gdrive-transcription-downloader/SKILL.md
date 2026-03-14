@@ -1,5 +1,10 @@
 # GDRIVE TRANSCRIPTION DOWNLOADER SKILL
 
+> **Auto-Trigger:** ---
+> **Keywords:** "gdrive-transcription-downloader", "gdrive", "transcription", "downloader"
+> **Prioridade:** MEDIA
+> **Tools:** Read, Write, Edit, Bash, Glob, Grep
+
 ---
 name: gdrive-download
 description: Baixa transcrições .docx do Google Drive via OAuth e converte para .txt
@@ -247,3 +252,7 @@ Após download, os arquivos .txt estão prontos para:
 
 **JARVIS SKILL v1.0.0**
 *Automatizando downloads do Google Drive para o Mega Brain*
+
+## Quando NÃO Ativar
+- Quando a tarefa não se relaciona com este skill
+- Quando outro skill mais específico cobre o caso

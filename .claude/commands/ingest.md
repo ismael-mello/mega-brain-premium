@@ -84,18 +84,6 @@ SOURCE_ID = Generate hash (ex: CG005, JL010)
 ```
 CREATE directory if not exists: {DESTINATION}
 WRITE content to: {DESTINATION}/{FILENAME}
-
-# PDF AUTO-CONVERSION: Se arquivo for PDF, converter para texto imediatamente
-IF {FILENAME} ends with ".pdf" OR {FILENAME} ends with ".PDF":
-  LOG: "📄 PDF detectado - convertendo para texto na ingestão..."
-  FULL_PATH = {DESTINATION}/{FILENAME}
-  EXECUTE: python3 ".claude/skills/pdf-to-text/convert_pdf.py" "$FULL_PATH"
-  TXT_FILENAME = replace_extension({FILENAME}, ".txt")
-  IF {DESTINATION}/{TXT_FILENAME} exists:
-    LOG: "✅ PDF convertido para: {TXT_FILENAME}"
-    LOG: "📌 O pipeline usará o .txt automaticamente"
-    FILENAME = TXT_FILENAME  # Atualizar referência para o .txt
-
 WORD_COUNT = count words
 ```
 

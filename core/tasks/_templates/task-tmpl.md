@@ -1,7 +1,7 @@
 # TASK TEMPLATE (HO-TP-001)
 
 > **Versão:** 1.0.0
-> **Padrão:** Pedro (aios-core/squad-creator)
+> **Padrão:** Mega Brain
 > **Uso:** Template para criar novos tasks atômicos
 
 ---

@@ -35,63 +35,6 @@ Combina `/ingest` + `/process-jarvis --auto-enrich` em um único comando.
 
 ---
 
-## ESTRATÉGIA DE MODELOS POR FASE
-
-```
-┌─────────────────────────────────────────────────────────────────────────────┐
-│              MODEL ROUTING — /jarvis-full                                   │
-├──────┬────────────────────────────────┬────────────────────────────────────┤
-│ FASE │ NOME                           │ MODELO                             │
-├──────┼────────────────────────────────┼────────────────────────────────────┤
-│  1   │ Initialization                 │ Sonnet  (estrutural)               │
-│  2   │ Chunking                       │ Sonnet  (mecânico)                 │
-├──────┼────────────────────────────────┼────────────────────────────────────┤
-│  3   │ Entity Resolution              │ ★ OPUS  (clone começa aqui)        │
-│  4   │ Insight Extraction             │ ★ OPUS  (DNA 5 camadas)            │
-│  5   │ Narrative Synthesis            │ ★ OPUS  (voz + identidade)         │
-│  6   │ Dossier / Narrative Metabolism │ ★ OPUS  (documento vivo)           │
-├──────┼────────────────────────────────┼────────────────────────────────────┤
-│  7   │ Agent Enrichment               │ Sonnet  (cascateamento)            │
-│  8   │ Finalization                   │ Sonnet  (logs + validação)         │
-└──────┴────────────────────────────────┴────────────────────────────────────┘
-
-Lógica: Opus nas fases 3–6 (onde o clone é construído — identidade, voz, DNA).
-        Sonnet nas fases 1–2 e 7–8 (estruturais/operacionais, sem perda de qualidade).
-Resultado: ~50% Opus + ~50% Sonnet = qualidade máxima no clone, tokens equilibrados.
-```
-
-### ⚠️ REGRA DE TROCA DE MODELO (OBRIGATÓRIA)
-
-**Antes de iniciar qualquer fase que exija modelo diferente do ativo**, o sistema DEVE pausar e exibir:
-
-```
-╔══════════════════════════════════════════════════════════════════════════════╗
-║  ⚠️  TROCA DE MODELO NECESSÁRIA                                              ║
-╠══════════════════════════════════════════════════════════════════════════════╣
-║                                                                              ║
-║  A próxima fase requer: [OPUS / SONNET]                                      ║
-║  Modelo atual:          [MODEL_ATUAL]                                        ║
-║                                                                              ║
-║  Use /model para trocar antes de continuar.                                  ║
-║                                                                              ║
-║  Como deseja prosseguir?                                                     ║
-║  → [1] Vou trocar agora   — execute /model e me avise quando pronto          ║
-║  → [2] Continuar assim mesmo — seguir com modelo atual (qualidade reduzida)  ║
-║                                                                              ║
-╚══════════════════════════════════════════════════════════════════════════════╝
-```
-
-A próxima fase **só executa após a resposta do usuário** (opção 1 ou 2).
-
-**Pontos de troca no pipeline:**
-
-| Transição | De → Para | Motivo |
-|-----------|-----------|--------|
-| Fase 2 → 3 | Sonnet → **Opus** | Clone começa: Entity Resolution |
-| Fase 6 → 7 | **Opus** → Sonnet | Clone concluído: Enrichment operacional |
-
----
-
 ## COMPORTAMENTO
 
 ### Step 1: Ingest (se URL/Path novo)
@@ -115,16 +58,14 @@ EXECUTE /process-jarvis "{SOURCE_ID}" --auto-enrich
 # Voz PERSONS: 1ª pessoa | Voz THEMES: Narrador neutro | Densidade: ◯-◐
 
 SHOW minimal progress:
-  ⏳ Phase 1: Initialization [Sonnet]... ✅
-  ⏳ Phase 2: Chunking ({N} chunks) [Sonnet]... ✅
-  ⚠️  → TROCAR PARA OPUS antes de continuar
-  ⏳ Phase 3: Entity Resolution [Opus]... ✅
-  ⏳ Phase 4: Insight Extraction ({N} insights) [Opus]... ✅
-  ⏳ Phase 5: Narrative Synthesis [Opus]... ✅
-  ⏳ Phase 6: Dossier Compilation (Narrative Metabolism) [Opus]... ✅
-  ⚠️  → TROCAR PARA SONNET antes de continuar
-  ⏳ Phase 7: Agent Enrichment [Sonnet]... ✅
-  ⏳ Phase 8: Finalization [Sonnet]... ✅
+  ⏳ Phase 1: Initialization... ✅
+  ⏳ Phase 2: Chunking ({N} chunks)... ✅
+  ⏳ Phase 3: Entity Resolution... ✅
+  ⏳ Phase 4: Insight Extraction ({N} insights)... ✅
+  ⏳ Phase 5: Narrative Synthesis... ✅
+  ⏳ Phase 6: Dossier Compilation (Narrative Metabolism)... ✅
+  ⏳ Phase 7: Agent Enrichment... ✅
+  ⏳ Phase 8: Finalization... ✅
 ```
 
 ### Step 3: Full Pipeline Report
@@ -237,6 +178,5 @@ DISPLAY report
 
 | Versão | Data | Mudança |
 |--------|------|---------|
-| 1.2.0 | 2026-03-12 | Model routing por fase: Opus fases 3–6, Sonnet fases 1–2 e 7–8. Pause obrigatório nas transições. |
 | 1.1.0 | 2025-12-20 | Integração automática com NARRATIVE-METABOLISM-PROTOCOL |
 | 1.0.0 | 2025-12-19 | Criação inicial |

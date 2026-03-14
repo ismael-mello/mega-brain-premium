@@ -1,7 +1,8 @@
 # PHASE-4-VERIFICATION-CHECKPOINT
 
-> **Versão:** 1.0.0
+> **Versão:** 1.1.0
 > **Criado:** 2026-01-05
+> **Atualizado:** 2026-03-10 (MCE metrics section added)
 > **Status:** OBRIGATÓRIO - NUNCA PULAR
 
 ---
@@ -140,6 +141,80 @@ JARVIS deve:
 1. Verificar existência de DE-PARA-VERIFICACAO.md
 2. Verificar verification_status em MISSION-STATE.json
 3. Se falhar em qualquer check → BLOQUEAR e reportar
+
+---
+
+## MCE EXTRACTION METRICS (conditional)
+
+This section appears in batch output ONLY when MCE extraction was run during the batch.
+If batch was legacy-only (L1-L5 DNA extraction), this section is omitted -- backward compatible.
+
+```markdown
+## MCE EXTRACTION METRICS
+<!-- Only shown when MCE extraction was part of this batch -->
+
+### Behavioral Patterns (BEHAVIORAL-PATTERNS.yaml)
+
+| Metric | Value |
+|--------|-------|
+| Patterns Found | N |
+| With chunk_ids | N/N (XX%) |
+| Categories | [decision, reaction, habit, communication, ...] |
+
+### Values Hierarchy (VALUES-HIERARCHY.yaml)
+
+| Metric | Value |
+|--------|-------|
+| Values Identified | N |
+| With Numeric Score | N/N (XX%) |
+| Obsessions Found | N |
+| Paradoxes Found | N |
+
+### Voice DNA (VOICE-DNA.yaml)
+
+| Metric | Value |
+|--------|-------|
+| Tone Profile | [defined/missing] |
+| Signature Phrases | N |
+| Metaphors | N |
+| Verbal Patterns | N |
+| Catchphrases | N |
+
+### MCE Quality Score
+
+| Check | Status |
+|-------|--------|
+| MCE-01: Behavioral >= 3 entries | PASS/FAIL |
+| MCE-02: Values with scores | PASS/FAIL |
+| MCE-03a: Voice DNA exists | PASS/FAIL |
+| MCE-03b: Tone profile defined | PASS/FAIL |
+| MCE-03c: >= 5 phrases | PASS/FAIL |
+| MCE-04: chunk_ids coverage | XX% |
+
+### MCE Files Generated
+
+| File | Path | Size |
+|------|------|------|
+| BEHAVIORAL-PATTERNS.yaml | knowledge/external/dna/persons/{slug}/ | X KB |
+| VALUES-HIERARCHY.yaml | knowledge/external/dna/persons/{slug}/ | X KB |
+| VOICE-DNA.yaml | knowledge/external/dna/persons/{slug}/ | X KB |
+```
+
+### When to Include MCE Metrics
+
+```
+┌─────────────────────────────────────────────────────────────────────┐
+│  INCLUDE MCE METRICS WHEN:                                          │
+│  - MCE extraction was run via /mce skill or MCE CLI                │
+│  - Batch processing included MCE prompts                           │
+│  - Any of the 3 MCE files were created or updated                  │
+│                                                                     │
+│  OMIT MCE METRICS WHEN:                                             │
+│  - Batch was legacy L1-L5 only                                     │
+│  - No MCE extraction was performed                                 │
+│  - MCE files were not touched                                      │
+└─────────────────────────────────────────────────────────────────────┘
+```
 
 ---
 

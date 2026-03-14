@@ -1,5 +1,10 @@
 # SKILL: Source Sync - Sincronização com Planilha
 
+> **Auto-Trigger:** > **Versão:** 1.0.0
+> **Keywords:** "source-sync", "source", "sync"
+> **Prioridade:** MEDIA
+> **Tools:** Read, Write, Edit, Bash, Glob, Grep
+
 > **Versão:** 1.0.0
 > **Criado:** 2026-01-13
 > **Propósito:** Detectar NOVOS arquivos na planilha, taguear na fonte, baixar organizados.
@@ -238,3 +243,7 @@ O hook verifica no início de cada sessão:
 ---
 
 *Skill criada para MISSION-2026-001 | JARVIS v3.33.0*
+
+## Quando NÃO Ativar
+- Quando a tarefa não se relaciona com este skill
+- Quando outro skill mais específico cobre o caso

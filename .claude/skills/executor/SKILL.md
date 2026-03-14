@@ -14,6 +14,11 @@ auto_trigger: true
 
 # SKILL: Executor - Operacoes Autonomas
 
+> **Auto-Trigger:** ## Proposito
+> **Keywords:** "executor", "executor"
+> **Prioridade:** MEDIA
+> **Tools:** Read, Write, Edit, Bash, Glob, Grep
+
 ## Proposito
 
 Orquestrar e executar acoes autonomas baseadas em decisoes dos agentes TALENT, FINANCE e COUNCIL. Este skill e ativado AUTOMATICAMENTE quando outros agentes produzem outputs acionaveis.
@@ -159,3 +164,7 @@ EXECUTOR notifica: Usuario informado via chat
 
 **Ultima Atualizacao:** 2026-01-11
 **User Story:** US-026
+
+## Quando NÃO Ativar
+- Quando a tarefa não se relaciona com este skill
+- Quando outro skill mais específico cobre o caso

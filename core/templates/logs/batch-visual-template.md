@@ -1,9 +1,15 @@
 # BATCH-VISUAL-PROTOCOL.md
 
-> **Versão:** 2.0.0
+> **Versao:** 2.0.0
 > **Data:** 2026-01-05
-> **Status:** OFICIAL - FONTE DE VERDADE
-> **Decisão:** DEC-2026-0056 (atualizado DEC-2026-0105)
+> **Status:** DEPRECATED for MCE pipeline runs (2026-03-11)
+> **Decisao:** DEC-2026-0056 (atualizado DEC-2026-0105)
+>
+> **DEPRECATION NOTICE:**
+> For MCE pipeline runs, use `core/templates/logs/MCE-PIPELINE-LOG-TEMPLATE.md` instead.
+> This template remains valid ONLY for legacy 5-layer DNA pipeline runs that do not
+> use the MCE extraction steps (behavioral, identity, voice). New pipeline runs
+> MUST use the MCE template which provides progressive fill across all 12 steps.
 
 ---
 
@@ -822,7 +828,7 @@ BATCH-019.md ─┘
 
 **Data:** 2026-02-18 21:32
 **Regra aplicada:** REGRA #22 (Cascateamento Multi-Destino)
-**Sistema:** AIOS Core
+**Sistema:** Mega Brain
 
 ### Resumo
 
@@ -838,4 +844,4 @@ BATCH-019.md ─┘
 
 ---
 
-*Cascateamento automatico via `post_batch_cascading.py` (AIOS Core)*
+*Cascateamento automatico via `post_batch_cascading.py` (Mega Brain)*

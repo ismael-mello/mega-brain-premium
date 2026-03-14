@@ -1,6 +1,6 @@
 # Core Templates
 
-Output templates and structural formats. Following Pedro pattern (aios-core).
+Output templates and structural formats. Following Mega Brain patterns.
 
 ## Structure
 

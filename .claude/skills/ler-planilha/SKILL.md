@@ -1,5 +1,10 @@
 # SKILL: Leitura Inteligente de Planilhas
 
+> **Auto-Trigger:** ## Objetivo
+> **Keywords:** "ler-planilha", "ler", "planilha"
+> **Prioridade:** MEDIA
+> **Tools:** Read, Write, Edit, Bash, Glob, Grep
+
 ## Objetivo
 Ler e interpretar corretamente planilhas de controle do Mega Brain, identificando estrutura, conteúdo, transcrições e materiais complementares.
 
@@ -279,3 +284,7 @@ A: MODULO | B: AULA | C: TEMA | D: DURACAO | E: DRIVE | F: YOUTUBE | G: TRANSCRI
 - Pular rows onde I ja tem arquivo
 
 **Passo 5 - Atualizar schema**
+
+## Quando NÃO Ativar
+- Quando a tarefa não se relaciona com este skill
+- Quando outro skill mais específico cobre o caso

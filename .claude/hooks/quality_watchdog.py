@@ -11,14 +11,13 @@ REGRA #28: META-AGENT QUALITY AWARENESS
 import json
 import os
 import re
-from pathlib import Path
 from datetime import datetime
-from typing import Dict, Optional
+from pathlib import Path
 
-PROJECT_ROOT = Path(os.environ.get('CLAUDE_PROJECT_DIR', '.'))
+PROJECT_ROOT = Path(os.environ.get("CLAUDE_PROJECT_DIR", "."))
 AGENTS_PATH = PROJECT_ROOT / "agents"
 JARVIS_SUBAGENTS = PROJECT_ROOT / ".claude" / "jarvis" / "sub-agents"
-LOGS_PATH = PROJECT_ROOT / "logs"
+LOGS_PATH = PROJECT_ROOT / ".claude" / "logs"
 QUALITY_GAPS_LOG = LOGS_PATH / "quality_gaps.jsonl"
 
 
@@ -28,7 +27,14 @@ QUALITY_GAPS_LOG = LOGS_PATH / "quality_gaps.jsonl"
 
 # Keywords para sub-agents JARVIS
 SUBAGENT_KEYWORDS = {
-    "chronicler": ["log bonito", "log visual", "chronicler", "formatar log", "status formatado", "resumo visual"],
+    "chronicler": [
+        "log bonito",
+        "log visual",
+        "chronicler",
+        "formatar log",
+        "status formatado",
+        "resumo visual",
+    ],
 }
 
 # Dynamic caches (populated on first use)
@@ -36,7 +42,7 @@ _PERSON_KEYWORDS_CACHE = None
 _CARGO_KEYWORDS_CACHE = None
 
 
-def _scan_agents_directory(subdir: str) -> Dict:
+def _scan_agents_directory(subdir: str) -> dict:
     """
     Dynamically scan agents/{subdir}/ to build keyword map.
     Each subdirectory name becomes an agent key, and keywords are
@@ -51,21 +57,21 @@ def _scan_agents_directory(subdir: str) -> Dict:
         if entry.is_dir():
             agent_name = entry.name.lower()
             # Generate keywords from directory name
-            parts = agent_name.replace('-', ' ').replace('_', ' ').split()
-            kws = [agent_name.replace('-', ' ')]  # full name as keyword
+            parts = agent_name.replace("-", " ").replace("_", " ").split()
+            kws = [agent_name.replace("-", " ")]  # full name as keyword
             # Add individual meaningful parts (skip very short ones)
             for part in parts:
                 if len(part) >= 3:
                     kws.append(part)
             # Also add the hyphenated form
-            if '-' in agent_name or '_' in agent_name:
+            if "-" in agent_name or "_" in agent_name:
                 kws.append(agent_name)
             keywords[agent_name] = list(set(kws))
 
     return keywords
 
 
-def _get_person_keywords() -> Dict:
+def _get_person_keywords() -> dict:
     """Lazily load person keywords from agents/external/ directory."""
     global _PERSON_KEYWORDS_CACHE
     if _PERSON_KEYWORDS_CACHE is None:
@@ -73,7 +79,7 @@ def _get_person_keywords() -> Dict:
     return _PERSON_KEYWORDS_CACHE
 
 
-def _get_cargo_keywords() -> Dict:
+def _get_cargo_keywords() -> dict:
     """Lazily load cargo keywords from agents/cargo/ directory (recursive)."""
     global _CARGO_KEYWORDS_CACHE
     if _CARGO_KEYWORDS_CACHE is None:
@@ -84,8 +90,8 @@ def _get_cargo_keywords() -> Dict:
             for agent_md in cargo_path.rglob("AGENT.md"):
                 agent_dir = agent_md.parent
                 agent_name = agent_dir.name.lower()
-                parts = agent_name.replace('-', ' ').replace('_', ' ').split()
-                kws = [agent_name.replace('-', ' ')]
+                parts = agent_name.replace("-", " ").replace("_", " ").split()
+                kws = [agent_name.replace("-", " ")]
                 for part in parts:
                     if len(part) >= 3:
                         kws.append(part)
@@ -93,7 +99,7 @@ def _get_cargo_keywords() -> Dict:
     return _CARGO_KEYWORDS_CACHE
 
 
-def detect_agent_in_prompt(prompt: str) -> Dict:
+def detect_agent_in_prompt(prompt: str) -> dict:
     """
     Detecta qual agente está sendo requisitado no prompt.
 
@@ -124,7 +130,8 @@ def detect_agent_in_prompt(prompt: str) -> Dict:
 # MANDATORY SECTIONS EXTRACTION
 # ═══════════════════════════════════════════════════════════════════════════
 
-def extract_mandatory_sections(agent_path: Path) -> Dict:
+
+def extract_mandatory_sections(agent_path: Path) -> dict:
     """
     Extrai MANDATORY_SECTIONS do header do AGENT.md.
 
@@ -138,49 +145,40 @@ def extract_mandatory_sections(agent_path: Path) -> Dict:
         return {"found": False, "content": "", "lines": 0}
 
     try:
-        content = agent_md.read_text(encoding='utf-8')
+        content = agent_md.read_text(encoding="utf-8")
     except Exception as e:
         return {"found": False, "content": "", "lines": 0, "error": str(e)}
 
     # Método 1: Bloco formal com comentários HTML
     match = re.search(
-        r'<!-- MANDATORY -->(.+?)<!-- End MANDATORY -->',
-        content,
-        re.DOTALL | re.IGNORECASE
+        r"<!-- MANDATORY -->(.+?)<!-- End MANDATORY -->", content, re.DOTALL | re.IGNORECASE
     )
     if match:
         return {
             "found": True,
             "method": "html_comments",
             "content": match.group(1).strip(),
-            "lines": len(match.group(1).split('\n'))
+            "lines": len(match.group(1).split("\n")),
         }
 
     # Método 2: Seção com header markdown
     match = re.search(
-        r'## ⚠️ MANDATORY OUTPUT SECTIONS.*?(?=## [^⚠️]|$)',
-        content,
-        re.DOTALL | re.IGNORECASE
+        r"## ⚠️ MANDATORY OUTPUT SECTIONS.*?(?=## [^⚠️]|$)", content, re.DOTALL | re.IGNORECASE
     )
     if match:
         return {
             "found": True,
             "method": "markdown_header",
             "content": match.group(0).strip(),
-            "lines": len(match.group(0).split('\n'))
+            "lines": len(match.group(0).split("\n")),
         }
 
     # Método 3: Fallback - primeiras 50 linhas (para agents sem MANDATORY formal)
-    lines = content.split('\n')[:50]
-    return {
-        "found": False,
-        "method": "fallback_header",
-        "content": '\n'.join(lines),
-        "lines": 50
-    }
+    lines = content.split("\n")[:50]
+    return {"found": False, "method": "fallback_header", "content": "\n".join(lines), "lines": 50}
 
 
-def resolve_agent_path(agent_info: Dict) -> Optional[Path]:
+def resolve_agent_path(agent_info: dict) -> Path | None:
     """Resolve o caminho do agente baseado no tipo."""
     if not agent_info.get("name"):
         return None
@@ -209,6 +207,7 @@ def resolve_agent_path(agent_info: Dict) -> Optional[Path]:
 # CONTEXT INJECTION
 # ═══════════════════════════════════════════════════════════════════════════
 
+
 def inject_quality_context(prompt: str) -> str:
     """
     Injeta contexto de qualidade se agente detectado.
@@ -229,15 +228,15 @@ def inject_quality_context(prompt: str) -> str:
     # Sempre injeta contexto se agente detectado
     context = f"""
 [QUALITY WATCHDOG ACTIVATED]
-Agent detected: {agent_info['name']}
-Type: {agent_info['type']}
+Agent detected: {agent_info["name"]}
+Type: {agent_info["type"]}
 Path: {agent_path}
 
 """
 
     if mandatory.get("found"):
         context += f"""--- MANDATORY SECTIONS (MUST INCLUDE IN OUTPUT) ---
-{mandatory['content']}
+{mandatory["content"]}
 --- END MANDATORY SECTIONS ---
 
 ⚠️ OUTPUT WILL BE VALIDATED AGAINST THESE REQUIREMENTS
@@ -245,7 +244,7 @@ Path: {agent_path}
 """
     else:
         context += f"""--- AGENT HEADER (First 50 lines) ---
-{mandatory['content']}
+{mandatory["content"]}
 --- END HEADER ---
 
 ℹ️ No formal MANDATORY_SECTIONS found. Using header as reference.
@@ -257,6 +256,7 @@ Path: {agent_path}
 # ═══════════════════════════════════════════════════════════════════════════
 # LOGGING
 # ═══════════════════════════════════════════════════════════════════════════
+
 
 def log_quality_gap(agent: str, score: int, missing: list, agent_type: str = "unknown"):
     """
@@ -274,18 +274,18 @@ def log_quality_gap(agent: str, score: int, missing: list, agent_type: str = "un
         "score": score,
         "missing_sections": missing,
         "status": "gap_detected",
-        "action_taken": "logged_for_review"
+        "action_taken": "logged_for_review",
     }
 
     try:
-        with open(QUALITY_GAPS_LOG, "a", encoding='utf-8') as f:
+        with open(QUALITY_GAPS_LOG, "a", encoding="utf-8") as f:
             f.write(json.dumps(entry, ensure_ascii=False) + "\n")
-    except Exception as e:
+    except Exception:
         # Falha silenciosa - não deve interromper fluxo
         pass
 
 
-def log_watchdog_activation(agent_info: Dict, mandatory_found: bool):
+def log_watchdog_activation(agent_info: dict, mandatory_found: bool):
     """Loga ativação do watchdog para auditoria."""
     log_file = LOGS_PATH / "watchdog_activations.jsonl"
     log_file.parent.mkdir(parents=True, exist_ok=True)
@@ -294,11 +294,11 @@ def log_watchdog_activation(agent_info: Dict, mandatory_found: bool):
         "timestamp": datetime.now().isoformat(),
         "agent": agent_info.get("name"),
         "type": agent_info.get("type"),
-        "mandatory_found": mandatory_found
+        "mandatory_found": mandatory_found,
     }
 
     try:
-        with open(log_file, "a", encoding='utf-8') as f:
+        with open(log_file, "a", encoding="utf-8") as f:
             f.write(json.dumps(entry, ensure_ascii=False) + "\n")
     except Exception:
         pass
@@ -308,7 +308,8 @@ def log_watchdog_activation(agent_info: Dict, mandatory_found: bool):
 # MAIN INTERFACE
 # ═══════════════════════════════════════════════════════════════════════════
 
-def process_prompt(prompt: str) -> Dict:
+
+def process_prompt(prompt: str) -> dict:
     """
     Processa prompt e retorna contexto de qualidade se aplicável.
 
@@ -320,7 +321,7 @@ def process_prompt(prompt: str) -> Dict:
         "agent_detected": agent_info.get("name") is not None,
         "agent_info": agent_info,
         "context": "",
-        "mandatory_found": False
+        "mandatory_found": False,
     }
 
     if agent_info.get("name"):
@@ -338,6 +339,7 @@ def process_prompt(prompt: str) -> Dict:
 # CLI INTERFACE
 # ═══════════════════════════════════════════════════════════════════════════
 
+
 def main():
     """
     Hook entry point for Claude Code UserPromptSubmit event.
@@ -349,22 +351,19 @@ def main():
         input_data = sys.stdin.read()
         hook_input = json.loads(input_data) if input_data else {}
 
-        prompt = hook_input.get('prompt', '')
+        prompt = hook_input.get("prompt", "")
         if not prompt:
-            print(json.dumps({'continue': True}))
+            print(json.dumps({"continue": True}))
             return
 
         result = process_prompt(prompt)
 
-        feedback = result.get('context') if result.get('agent_detected') else None
+        feedback = result.get("context") if result.get("agent_detected") else None
 
-        print(json.dumps({
-            'continue': True,
-            'feedback': feedback if feedback else None
-        }))
+        print(json.dumps({"continue": True, "feedback": feedback if feedback else None}))
 
-    except Exception:
-        print(json.dumps({'continue': True}))
+    except Exception as e:
+        print(json.dumps({"continue": True, "error": str(e)}))
 
 
 def cli_test():
@@ -388,7 +387,8 @@ def cli_test():
 
 if __name__ == "__main__":
     import sys
-    if len(sys.argv) > 1 and sys.argv[1] == '--test':
+
+    if len(sys.argv) > 1 and sys.argv[1] == "--test":
         cli_test()
     else:
         main()

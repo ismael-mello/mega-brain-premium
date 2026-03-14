@@ -11,6 +11,11 @@ triggers:
 
 # GitHub Actions Diagnostics
 
+> **Auto-Trigger:** Diagnóstico automático de falhas em GitHub Actions.
+> **Keywords:** "gha", "gha"
+> **Prioridade:** MEDIA
+> **Tools:** Read, Write, Edit, Bash, Glob, Grep
+
 Diagnóstico automático de falhas em GitHub Actions.
 
 ## Uso
@@ -94,3 +99,7 @@ Quando acionado, JARVIS irá:
 ║  Verificar se o route existe em src/routes/users.ts                          ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
 ```
+
+## Quando NÃO Ativar
+- Quando a tarefa não se relaciona com este skill
+- Quando outro skill mais específico cobre o caso

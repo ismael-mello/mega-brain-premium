@@ -6,6 +6,11 @@ allowed-tools: Read, Grep, Glob, Write, Edit, Bash(mkdir:*), Bash(ls:*)
 
 # Skill Writer
 
+> **Auto-Trigger:** Create well-structured Agent Skills for Claude Code following best practices.
+> **Keywords:** "skill-writer", "skill", "writer"
+> **Prioridade:** MEDIA
+> **Tools:** Read, Write, Edit, Bash, Glob, Grep
+
 Create well-structured Agent Skills for Claude Code following best practices.
 
 ## Quick start
@@ -151,3 +156,7 @@ When creating a Skill, I will:
 4. **Concrete examples** with real code
 5. **Progressive disclosure** for complex Skills
 6. **Under 500 lines** in SKILL.md
+
+## Quando NÃO Ativar
+- Quando a tarefa não se relaciona com este skill
+- Quando outro skill mais específico cobre o caso

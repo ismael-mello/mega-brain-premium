@@ -8,6 +8,7 @@ Runs on session end to clean up agent memories:
 
 Only processes stores that have been modified this session.
 """
+
 import json
 import sys
 from pathlib import Path
@@ -23,9 +24,7 @@ def main():
 
     # Find all agent memory dirs that have a memories.jsonl
     stores = sorted(
-        d.name
-        for d in MEMORY_DIR.iterdir()
-        if d.is_dir() and (d / "memories.jsonl").exists()
+        d.name for d in MEMORY_DIR.iterdir() if d.is_dir() and (d / "memories.jsonl").exists()
     )
 
     if not stores:
@@ -60,12 +59,14 @@ def main():
 
             if c.get("merged", 0) > 0 or p.get("pruned", 0) > 0:
                 agents_processed.append(agent_id)
-        except Exception:
+        except Exception as e:
+            # Log but continue processing other agents
+            agents_processed.append(f"{agent_id}:error:{e!s:.50}")
             continue
 
     result = {
         "message": f"Memory maintenance: {len(agents_processed)} agents, "
-                   f"{total_merged} merged, {total_pruned} pruned",
+        f"{total_merged} merged, {total_pruned} pruned",
         "agents": agents_processed,
         "merged": total_merged,
         "pruned": total_pruned,

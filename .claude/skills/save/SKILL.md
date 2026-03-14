@@ -1,5 +1,10 @@
 # SAVE SESSION - Persistência de Contexto
 
+> **Auto-Trigger:** ## Trigger
+> **Keywords:** "save", "save"
+> **Prioridade:** MEDIA
+> **Tools:** Read, Write, Edit, Bash, Glob, Grep
+
 ## Trigger
 `/save` ou automaticamente ao final de cada tarefa significativa
 
@@ -85,3 +90,7 @@ Responder: "Sessão salva: SESSION-YYYY-MM-DD-HHmm.md"
 
 ## Output
 Arquivo de sessão + confirmação visual
+
+## Quando NÃO Ativar
+- Quando a tarefa não se relaciona com este skill
+- Quando outro skill mais específico cobre o caso

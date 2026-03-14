@@ -1,5 +1,10 @@
 # SKILL: Smart Download & Tagger
 
+> **Auto-Trigger:** ## Descrição
+> **Keywords:** "smart-download-tagger", "smart", "download", "tagger"
+> **Prioridade:** MEDIA
+> **Tools:** Read, Write, Edit, Bash, Glob, Grep
+
 ## Descrição
 Sistema inteligente de download, tagueamento e organização de materiais do Mega Brain.
 Lê a planilha de controle, identifica materiais pendentes, baixa do Drive, gera TAGs e atualiza a planilha.
@@ -146,3 +151,7 @@ Localização: `scripts/smart-download-tagger.py`
 **Skill criada em:** 2026-01-08
 **Autor:** JARVIS
 **Versão:** 1.0
+
+## Quando NÃO Ativar
+- Quando a tarefa não se relaciona com este skill
+- Quando outro skill mais específico cobre o caso

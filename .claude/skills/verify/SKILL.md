@@ -1,5 +1,10 @@
 # /verify - Verification Loop
 
+> **Auto-Trigger:** ## Trigger
+> **Keywords:** "verify", "verify"
+> **Prioridade:** MEDIA
+> **Tools:** Read, Write, Edit, Bash, Glob, Grep
+
 ## Trigger
 `/verify` - Use antes de declarar trabalho completo, corrigido ou passando
 
@@ -152,3 +157,7 @@ Este skill complementa:
 - Reducao de 80% em "bugs pos-entrega"
 - Confianca de 95%+ em trabalho declarado completo
 - Zero retrabalho por falta de verificacao
+
+## Quando NÃO Ativar
+- Quando a tarefa não se relaciona com este skill
+- Quando outro skill mais específico cobre o caso

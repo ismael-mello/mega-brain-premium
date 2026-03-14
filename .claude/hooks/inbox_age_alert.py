@@ -20,18 +20,17 @@ Autor: JARVIS Autonomous System
 Data: 2026-01-11
 """
 
-import os
 import json
+import os
 import sys
-from pathlib import Path
 from datetime import datetime, timedelta
-from typing import List, Dict, Optional
+from pathlib import Path
 
-#==================================
+# ==================================
 # CONFIGURACAO
-#==================================
+# ==================================
 
-PROJECT_ROOT = Path(os.environ.get('CLAUDE_PROJECT_DIR', '.'))
+PROJECT_ROOT = Path(os.environ.get("CLAUDE_PROJECT_DIR", "."))
 INBOX_PATH = PROJECT_ROOT / "inbox"
 MAX_AGE_DAYS = 3
 ALERT_LOG = PROJECT_ROOT / "logs" / "inbox_alerts.jsonl"
@@ -44,12 +43,12 @@ IGNORE_PREFIXES = {"_", ".", "__"}
 IGNORE_FOLDERS = {"_BACKUP", "_OLD", "_ARCHIVE", "__pycache__"}
 
 
-#==================================
+# ==================================
 # FUNCOES PRINCIPAIS
-#==================================
+# ==================================
 
 
-def get_old_files(max_age_days: int = MAX_AGE_DAYS) -> List[Dict]:
+def get_old_files(max_age_days: int = MAX_AGE_DAYS) -> list[dict]:
     """
     Retorna lista de arquivos mais velhos que max_age_days.
 
@@ -70,8 +69,7 @@ def get_old_files(max_age_days: int = MAX_AGE_DAYS) -> List[Dict]:
         dirs[:] = [
             d
             for d in dirs
-            if not any(d.startswith(p) for p in IGNORE_PREFIXES)
-            and d not in IGNORE_FOLDERS
+            if not any(d.startswith(p) for p in IGNORE_PREFIXES) and d not in IGNORE_FOLDERS
         ]
 
         for f in files:
@@ -104,14 +102,14 @@ def get_old_files(max_age_days: int = MAX_AGE_DAYS) -> List[Dict]:
                             "modified_at": mtime.isoformat(),
                         }
                     )
-            except (OSError, PermissionError) as e:
+            except (OSError, PermissionError):
                 # Ignorar arquivos inacessiveis
                 continue
 
     return sorted(old_files, key=lambda x: x["age_days"], reverse=True)
 
 
-def count_by_folder(old_files: List[Dict]) -> Dict[str, int]:
+def count_by_folder(old_files: list[dict]) -> dict[str, int]:
     """Agrupa arquivos antigos por pasta."""
     folder_counts = {}
     for f in old_files:
@@ -120,7 +118,7 @@ def count_by_folder(old_files: List[Dict]) -> Dict[str, int]:
     return dict(sorted(folder_counts.items(), key=lambda x: x[1], reverse=True))
 
 
-def generate_alert(old_files: List[Dict]) -> str:
+def generate_alert(old_files: list[dict]) -> str:
     """
     Gera mensagem de alerta formatada no estilo JARVIS.
 
@@ -172,9 +170,7 @@ ATENCAO, senhor. {len(old_files)} arquivo(s) no INBOX com mais de {MAX_AGE_DAYS}
 """
 
     for f in old_files[:10]:
-        name_display = (
-            f["name"][:50] if len(f["name"]) <= 50 else f["name"][:47] + "..."
-        )
+        name_display = f["name"][:50] if len(f["name"]) <= 50 else f["name"][:47] + "..."
         alert += f"|  [{f['age_days']:>3}d] {name_display:<50}      |\n"
 
     if len(old_files) > 10:
@@ -185,8 +181,7 @@ ATENCAO, senhor. {len(old_files)} arquivo(s) no INBOX com mais de {MAX_AGE_DAYS}
 +------------------------------------------------------------------------------+
 |  ACAO RECOMENDADA                                                            |
 +------------------------------------------------------------------------------+
-|  Executar: python3 SCRIPTS/organize_inbox_to_knowledge.py --execute          |
-|  Ou:       /inbox para ver lista completa                                    |
+|  Executar: /inbox para ver lista e organizar                                 |
 +------------------------------------------------------------------------------+
 
 REGRA #7: INBOX E TEMPORARIO - Organizar, nao acumular.
@@ -195,7 +190,7 @@ REGRA #7: INBOX E TEMPORARIO - Organizar, nao acumular.
     return alert
 
 
-def generate_summary(old_files: List[Dict]) -> str:
+def generate_summary(old_files: list[dict]) -> str:
     """Gera resumo curto para o contexto do JARVIS."""
     if not old_files:
         return ""
@@ -203,7 +198,7 @@ def generate_summary(old_files: List[Dict]) -> str:
     return f"REGRA #7: {len(old_files)} arquivo(s) antigos no INBOX (>{MAX_AGE_DAYS} dias). Mais antigo: {old_files[0]['age_days']} dias."
 
 
-def log_alert(old_files: List[Dict]) -> bool:
+def log_alert(old_files: list[dict]) -> bool:
     """
     Loga alerta em jsonl para historico.
 
@@ -226,7 +221,7 @@ def log_alert(old_files: List[Dict]) -> bool:
             "oldest_file_days": old_files[0]["age_days"] if old_files else 0,
             "folders_affected": count_by_folder(old_files),
             "files": old_files[:20],  # Limitar a 20 arquivos no log
-            "action_suggested": "python3 SCRIPTS/organize_inbox_to_knowledge.py --execute",
+            "action_suggested": "/inbox para organizar",
         }
 
         with open(ALERT_LOG, "a", encoding="utf-8") as f:
@@ -240,7 +235,7 @@ def log_alert(old_files: List[Dict]) -> bool:
         return False
 
 
-def check_inbox_health() -> Dict:
+def check_inbox_health() -> dict:
     """
     Verifica saude geral do INBOX.
 
@@ -258,8 +253,7 @@ def check_inbox_health() -> Dict:
         dirs[:] = [
             d
             for d in dirs
-            if not any(d.startswith(p) for p in IGNORE_PREFIXES)
-            and d not in IGNORE_FOLDERS
+            if not any(d.startswith(p) for p in IGNORE_PREFIXES) and d not in IGNORE_FOLDERS
         ]
 
         for f in files:
@@ -269,7 +263,7 @@ def check_inbox_health() -> Dict:
                 fpath = Path(root) / f
                 total_files += 1
                 total_size += fpath.stat().st_size
-            except:
+            except Exception:
                 continue
 
     old_files = get_old_files()
@@ -292,12 +286,12 @@ def check_inbox_health() -> Dict:
     }
 
 
-#==================================
+# ==================================
 # INTEGRACAO COM SESSION_START
-#==================================
+# ==================================
 
 
-def get_session_context(old_files: List[Dict]) -> Dict:
+def get_session_context(old_files: list[dict]) -> dict:
     """
     Retorna contexto para integracao com session_start.
 
@@ -320,9 +314,9 @@ def get_session_context(old_files: List[Dict]) -> Dict:
     }
 
 
-#==================================
+# ==================================
 # MAIN
-#==================================
+# ==================================
 
 
 def main():
@@ -332,19 +326,19 @@ def main():
     """
     try:
         input_data = sys.stdin.read()
-        hook_input = json.loads(input_data) if input_data else {}
+        json.loads(input_data) if input_data else {}
 
         old_files = get_old_files()
 
         if old_files:
             log_alert(old_files)
             summary = generate_summary(old_files)
-            print(json.dumps({'continue': True, 'feedback': summary}))
+            print(json.dumps({"continue": True, "feedback": summary}))
         else:
-            print(json.dumps({'continue': True}))
+            print(json.dumps({"continue": True}))
 
-    except Exception:
-        print(json.dumps({'continue': True}))
+    except Exception as e:
+        print(json.dumps({"continue": True, "error": str(e)}))
 
 
 def cli_test():
@@ -361,7 +355,7 @@ def cli_test():
 
 
 if __name__ == "__main__":
-    if len(sys.argv) > 1 and sys.argv[1] == '--test':
+    if len(sys.argv) > 1 and sys.argv[1] == "--test":
         cli_test()
     else:
         main()

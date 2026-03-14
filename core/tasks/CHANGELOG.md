@@ -1,6 +1,6 @@
 # TASK CHANGELOG
 
-> **Padrão:** Pedro (aios-core)
+> **Padrão:** Mega Brain
 > **Propósito:** Auditoria de mudanças em tasks
 
 ---

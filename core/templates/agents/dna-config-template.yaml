@@ -1,9 +1,9 @@
 # DNA-CONFIG-TEMPLATE.yaml - Template para Configuração de DNA de Agentes
 #
-# Versao: 2.0.0
-# Data: 2025-12-25
+# Versao: 2.1.0 (MCE-ENHANCED)
+# Data: 2026-03-10
 # Proposito: Template padrao para criacao de DNA-CONFIG.yaml
-# Integrado com: AGENT-COGNITION-PROTOCOL (FASE 1.5), AGENT-INTEGRITY-PROTOCOL
+# Integrado com: AGENT-COGNITION-PROTOCOL (FASE 1.5), AGENT-INTEGRITY-PROTOCOL, MCE Pipeline (L6-L8)
 #
 # ═══════════════════════════════════════════════════════════════════════════════
 # REGRA INQUEBRÁVEL: RASTREABILIDADE 100%
@@ -106,6 +106,32 @@ dna_sources:
           data_processamento: "{DATA}"
 
 # ═══════════════════════════════════════════════════════════════════════════════
+# MCE SOURCES - Mind-Clone Enhancement Layers (L6-L8)
+# ═══════════════════════════════════════════════════════════════════════════════
+#
+# IMPORTANTE: MCE layers are OPTIONAL. If the MCE pipeline has not been
+# executed, these files will not exist and this section should be omitted
+# by the generator. Agents degrade gracefully without MCE data.
+#
+# ═══════════════════════════════════════════════════════════════════════════════
+
+mce_sources:
+  behavioral_patterns:
+    path: "/knowledge/external/dna/persons/{SLUG}/BEHAVIORAL-PATTERNS.yaml"
+    label: "L6: Behavioral Patterns"
+    present: false                       # Set to true when file exists
+
+  values_hierarchy:
+    path: "/knowledge/external/dna/persons/{SLUG}/VALUES-HIERARCHY.yaml"
+    label: "L7: Values Hierarchy"
+    present: false                       # Set to true when file exists
+
+  voice_dna:
+    path: "/knowledge/external/dna/persons/{SLUG}/VOICE-DNA.yaml"
+    label: "L8: Voice DNA"
+    present: false                       # Set to true when file exists
+
+# ═══════════════════════════════════════════════════════════════════════════════
 # MAPA DE CONFLITOS
 # ═══════════════════════════════════════════════════════════════════════════════
 
@@ -177,5 +203,5 @@ regras_especificas:
 #
 # ═══════════════════════════════════════════════════════════════════════════════
 
-# Fim do DNA-CONFIG-TEMPLATE.yaml v2.0.0
-# Integrado com AGENT-COGNITION-PROTOCOL (FASE 1.5) e AGENT-INTEGRITY-PROTOCOL
+# Fim do DNA-CONFIG-TEMPLATE.yaml v2.1.0 (MCE-ENHANCED)
+# Integrado com AGENT-COGNITION-PROTOCOL (FASE 1.5), AGENT-INTEGRITY-PROTOCOL e MCE Pipeline (L6-L8)

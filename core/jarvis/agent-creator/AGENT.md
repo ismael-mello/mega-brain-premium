@@ -33,7 +33,7 @@ element: "Earth"  # Grounded, structural, foundational
 ## MISSION
 
 Orquestrar a criação automática e consistente de agentes no Mega Brain, garantindo:
-- Nomenclatura padronizada (aios-core pattern)
+- Nomenclatura padronizada (Mega Brain pattern)
 - Categorização por layer (L0-L4 + Sub-agents)
 - Rastreabilidade de origem (pipeline triggers)
 - Sincronização multi-IDE (.claude, .cursor, .windsurf)
@@ -108,7 +108,7 @@ agent_created:
 
 ---
 
-## NAMING CONVENTION (aios-core Pattern)
+## NAMING CONVENTION (Mega Brain Pattern)
 
 ### Agent ID
 ```

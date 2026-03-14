@@ -1,5 +1,10 @@
 # SKILL: Leitura de Fontes Híbridas
 
+> **Auto-Trigger:** ## Descrição
+> **Keywords:** "hybrid-source-reading", "hybrid", "source", "reading"
+> **Prioridade:** MEDIA
+> **Tools:** Read, Write, Edit, Bash, Glob, Grep
+
 ## Descrição
 Skill para leitura inteligente de conteúdo proveniente de múltiplas fontes de dados (Google Sheets, Google Docs, arquivos locais).
 
@@ -263,3 +268,7 @@ Formato dos arquivos:
 
 **Skill criada em:** 2026-01-07
 **Autor:** JARVIS
+
+## Quando NÃO Ativar
+- Quando a tarefa não se relaciona com este skill
+- Quando outro skill mais específico cobre o caso

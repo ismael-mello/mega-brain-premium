@@ -10,6 +10,11 @@ triggers:
 
 # Gemini CLI Fallback
 
+> **Auto-Trigger:** Use este skill quando precisar acessar sites que Claude Code não consegue (Reddi
+> **Keywords:** "gemini-fallback", "gemini", "fallback"
+> **Prioridade:** MEDIA
+> **Tools:** Read, Write, Edit, Bash, Glob, Grep
+
 Use este skill quando precisar acessar sites que Claude Code não consegue (Reddit, sites com bloqueio).
 
 ## Pré-requisitos
@@ -65,3 +70,7 @@ Se Gemini CLI não estiver disponível, use:
 - Twitter/X
 - LinkedIn
 - Alguns docs sites
+
+## Quando NÃO Ativar
+- Quando a tarefa não se relaciona com este skill
+- Quando outro skill mais específico cobre o caso

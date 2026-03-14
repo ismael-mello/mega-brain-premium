@@ -130,7 +130,6 @@ Se duas skills têm mesma prioridade → Aplicar em ordem numérica (00, 01, 02.
 | council | `council/` | council, debate | MEDIA | NO |
 | executor | `executor/` | executar, tarefa | MEDIA | NO |
 | fase-2-5-tagging | `fase-2-5-tagging/` | fase, tagging | MEDIA | NO |
-| finance-agent | `finance-agent/` | financeiro, finance | MEDIA | NO |
 | gdrive-transcription | `gdrive-transcription-downloader/` | gdrive, transcricao | MEDIA | NO |
 | gemini-fallback | `gemini-fallback/` | gemini, fallback | MEDIA | NO |
 | gha | `gha/` | github actions, gha | MEDIA | NO |
@@ -146,7 +145,6 @@ Se duas skills têm mesma prioridade → Aplicar em ordem numérica (00, 01, 02.
 | smart-download-tagger | `smart-download-tagger/` | download, tagger | MEDIA | NO |
 | source-sync | `source-sync/` | source, sync | MEDIA | NO |
 | sync-docs | `sync-docs/` | sync, gdrive | MEDIA | NO |
-| talent-agent | `talent-agent/` | talent, rh | MEDIA | NO |
 | verify | `verify/` | verificar, check | MEDIA | NO |
 | verify-6-levels | `verify-6-levels/` | verificar, 6 levels | ALTA | OK |
 

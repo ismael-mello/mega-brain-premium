@@ -5,6 +5,11 @@ description: "Processa arquivos no INBOX [SUA EMPRESA], classifica, extrai insig
 
 # Process [SUA EMPRESA] Inbox
 
+> **Auto-Trigger:** Pipeline de processamento de conteúdo interno da [SUA EMPRESA].
+> **Keywords:** "process-company-inbox", "process", "company", "inbox"
+> **Prioridade:** MEDIA
+> **Tools:** Read, Write, Edit, Bash, Glob, Grep
+
 Pipeline de processamento de conteúdo interno da [SUA EMPRESA].
 
 ---
@@ -181,3 +186,7 @@ Após processamento, entregar relatório:
 
 **Versão:** 1.0.0
 **Última atualização:** 2026-01-11
+
+## Quando NÃO Ativar
+- Quando a tarefa não se relaciona com este skill
+- Quando outro skill mais específico cobre o caso
