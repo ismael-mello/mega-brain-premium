@@ -7,8 +7,9 @@
 # ═══════════════════════════════════════════════════════════════════════════════
 
 dominio: "copywriting"
-versao: "1.0.0"
+versao: "1.3.0"
 criado_em: "2026-03-13"
+atualizado_em: "2026-03-13"
 
 fontes_consolidadas:
   - fonte: "dan-kennedy"
@@ -17,10 +18,12 @@ fontes_consolidadas:
     raiz: "/knowledge/sources/dan-kennedy/raw/copywriting-clinic/"
     contribuicao_principal: "Direct mail salesmanship, headline mastery, pain-pleasure sequence, hook discovery, pre-framing"
     elementos_relevantes: 273
+    elementos_relevantes: 329
     fontes_incluidas:
       - "The Copywriting Clinic (156 elementos — core copywriting)"
       - "7-Figure Academy (78 elementos — business copy, moral obligation, preeminência)"
       - "12 Business Building Strategies (39 elementos — Collier Principle, recession alignment, certainty selling)"
+      - "Advanced Coaching & Consulting (56 elementos — compelling>pretty, DR vs brand, what works not what you like)"
 
   - fonte: "russell-brunson"
     peso_dominio: 0.85
@@ -84,6 +87,16 @@ filosofias:
   - id: "FIL-COPY-009"
     filosofia: "Obrigação moral de não deixar o prospecto não comprar — se acredita no produto, vender com 100% de esforço é ético"
     fonte: "dan-kennedy" | ref: "FIL-DK-038 (7FA-CD8)"
+    peso: 0.90
+
+  - id: "FIL-COPY-010"
+    filosofia: "Compelling > Pretty: pretty doesn't convert. Compelling converts. Direct response needs to get attention, not be beautiful."
+    fonte: "dan-kennedy" | ref: "FIL-DK-145 (ACC-video-DK_9)"
+    peso: 0.90
+
+  - id: "FIL-COPY-011"
+    filosofia: "Marketing is about what works, not what you like. 'I don't like it' — tough. You're in the business of getting customers, not being comfortable."
+    fonte: "dan-kennedy" | ref: "FIL-DK-149 (ACC-video-DK_9)"
     peso: 0.90
 
 # ═══════════════════════════════════════════════════════════════════════════════
@@ -218,6 +231,12 @@ frameworks:
     fonte: "dan-kennedy" | ref: "FW-DK-052, FIL-DK-047 (12BBS-CD1A)"
     peso: 0.85
 
+  - id: "FW-COPY-016"
+    nome: "Direct Response vs Brand Marketing Decision (DK ACC)"
+    passos: "1. DR = compelling, ugly, high-conversion → 2. Brand = pretty, prestigious, low-conversion → 3. Consultant/coach MUST use DR → 4. Test media against 5 requirements"
+    fonte: "dan-kennedy" | ref: "FW-DK-126 (ACC-video-DK_9)"
+    peso: 0.90
+
 # ═══════════════════════════════════════════════════════════════════════════════
 # TENSÕES ENTRE FONTES
 # ═══════════════════════════════════════════════════════════════════════════════
@@ -240,6 +259,13 @@ tensoes:
 # ═══════════════════════════════════════════════════════════════════════════════
 
 changelog:
+  - versao: "1.3.0"
+    data: "2026-03-13"
+    mudancas:
+      - "ACC integrado: elementos_relevantes 273→329 (compelling>pretty, what works not what you like, DR vs brand)"
+      - "+2 filosofias (FIL-COPY-010-011: compelling>pretty, what works), +1 framework (FW-COPY-016: DR vs brand)"
+      - "DK fontes_incluidas: adicionado ACC (56 elementos)"
+
   - versao: "1.2.0"
     data: "2026-03-13"
     mudancas:

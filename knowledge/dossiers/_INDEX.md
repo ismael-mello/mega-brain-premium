@@ -1,11 +1,11 @@
 # INDEX: DOSSIERS
 
 > **Ultima atualizacao:** 2026-03-13
-> **Total:** 39 dossiers (11 PERSONS + 28 THEMES)
+> **Total:** 41 dossiers (12 PERSONS + 29 THEMES)
 
 ---
 
-## PERSON DOSSIERS (11)
+## PERSON DOSSIERS (12)
 
 | Dossier | Fonte Principal | DNA Elements | Status |
 |---------|-----------------|--------------|--------|
@@ -17,11 +17,12 @@
 | [DOSSIER-THE-SCALABLE-COMPANY](persons/DOSSIER-THE-SCALABLE-COMPANY.md) | The Scalable Company | ~393 | COMPLETE |
 | [DOSSIER-JORDAN-LEE](persons/DOSSIER-JORDAN-LEE.md) | Jordan Lee | ~50 | PARTIAL |
 | [DOSSIER-RICHARD-LINDER](persons/DOSSIER-RICHARD-LINDER.md) | Richard Linder | ~30 | PARTIAL |
+| [DOSSIER-DAN-KENNEDY](persons/DOSSIER-DAN-KENNEDY.md) | Dan Kennedy | ~829 | **NEW** |
 | [DOSSIER-SAM-OVEN](persons/DOSSIER-SAM-OVEN.md) | Sam Ovens | ~40 | PARTIAL |
 
 ---
 
-## THEME DOSSIERS (24)
+## THEME DOSSIERS (29)
 
 ### Estrutura Organizacional (5)
 
@@ -68,6 +69,19 @@
 | [DOSSIER-JOINT-VENTURES](themes/DOSSIER-JOINT-VENTURES.md) | Joint Ventures, Host-Beneficiário, 9 Pontos de Alavancagem | DK 7FA 100% | **NEW** |
 | [DOSSIER-BUSINESS-MODELS](themes/DOSSIER-BUSINESS-MODELS.md) | Modelos de Negócio, Aquisição e Inovação por Analogia | DK 7FA 100% | **NEW** |
 
+### Dan Kennedy — Advanced Coaching & Consulting (1)
+
+| Dossier | Tema | Fontes | Status |
+|---------|------|--------|--------|
+| [DOSSIER-COACHING-CONSULTING](themes/DOSSIER-COACHING-CONSULTING.md) | Coaching & Consulting Business Models | DK ACC 100% | **NEW** |
+
+### Dan Kennedy — 12 Business Building Strategies (4)
+
+| Dossier | Tema | Fontes | Status |
+|---------|------|--------|--------|
+| [DOSSIER-RECESSION-PROOFING](themes/DOSSIER-RECESSION-PROOFING.md) | Recession Proofing & Collier Principle | DK 12BBS 100% | **NEW** |
+| [DOSSIER-CERTAINTY-SELLING](themes/DOSSIER-CERTAINTY-SELLING.md) | Certainty Selling & Conviction Transfer | DK 12BBS 100% | **NEW** |
+
 ### Cascateamento REGRA #22 (5)
 
 | Dossier | Tema | Fontes | Status |
@@ -83,9 +97,9 @@
 |                          DOSSIER STATISTICS                                |
 +---------------------------------------------------------------------------+
 |                                                                            |
-|  Total Dossiers:        35                                                 |
-|  +-- Person Dossiers:   11                                                 |
-|  +-- Theme Dossiers:    24                                                 |
+|  Total Dossiers:        41                                                 |
+|  +-- Person Dossiers:   12                                                 |
+|  +-- Theme Dossiers:    29                                                 |
 |                                                                            |
 |  DNA Elements Cobertos: ~6,071+                                            |
 |  +-- Filosofias:        ~587                                               |
@@ -94,7 +108,8 @@
 |  +-- Frameworks:        ~906                                               |
 |  +-- Metodologias:      ~599                                               |
 |                                                                            |
-|  Fontes Primarias:      8                                                  |
+|  Fontes Primarias:      9                                                  |
+|  +-- Dan Kennedy        (~829 elementos)    **NEW**                        |
 |  +-- Jeremy Haynes      (~1,483 elementos)                                 |
 |  +-- Jeremy Miner       (~1,199 elementos)                                 |
 |  +-- The Scalable Co.   (~393 elementos)                                   |

@@ -24,7 +24,7 @@
 # ═══════════════════════════════════════════════════════════════════════════════
 
 cargo: "CMO"
-versao: "3.4.0"
+versao: "3.5.0"
 nivel: "C-LEVEL"
 natureza: "HIBRIDO"
 data_criacao: "2025-12-23"
@@ -354,6 +354,21 @@ dna_sources:
         - "collier-principle"
         - "marketing-pr"
         - "certainty-selling"
+      # ACC enrichment (2026-03-13 Phase 6)
+      elementos_acc:
+        - "FIL-DK-137 (Intentional Reputation Construction: deliberately manage reputation as 'difficult to work with' to increase perceived value)"
+        - "FIL-DK-140 (Strategy of Attachment: attach to famous/credible people to borrow status — Mike Vance/Disney, Trump/Kiyosaki pattern)"
+        - "FIL-DK-142 (Opposition Strategy: named enemy in market accelerates positioning — being opposed by establishment increases credibility)"
+        - "FIL-DK-143 (Fighting Industry Associations Increases Credibility: expulsion by establishment = best marketing for rebels)"
+        - "FIL-DK-145 (Compelling > Pretty: pretty doesn't convert, compelling converts — direct response needs attention, not beauty)"
+        - "FW-DK-120 (Strategy of Attachment Framework: identify big name → create reason for association → joint content → borrow credibility)"
+        - "FW-DK-121 (Opposition Strategy Framework: identify competitor → contrarian position → let attack validate → attract rebels)"
+        - "FW-DK-126 (Direct Response vs Brand Marketing: DR = compelling, ugly, high-conversion; brand = pretty, prestigious, low-conversion)"
+      dominios_acc:
+        - "reputation-construction"
+        - "strategy-of-attachment"
+        - "opposition-strategy"
+        - "direct-response-philosophy"
 
     - pessoa: "SAM-OVEN"
       path: "/knowledge/dna/persons/SAM-OVEN"

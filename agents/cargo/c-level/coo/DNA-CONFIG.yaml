@@ -6,6 +6,7 @@
 # Integrado com: AGENT-COGNITION-PROTOCOL (FASE 1.5), AGENT-INTEGRITY-PROTOCOL
 #
 # CHANGELOG:
+# v3.4.0 (2026-03-13): DK ACC enrichment — FW-DK-117 Gold Plus Architecture, FIL-DK-136 system-not-labor
 # v3.3.0 (2026-03-13): Adicionado dan-kennedy (0.55) — implementação paralela, gestão de reuniões, especialização de equipe (7FA)
 # v3.0.0 (2026-01-10): BUG #1 FIX - Cascateamento completo
 #                      - Removido AGG-OPERATIONS.yaml (não existe)
@@ -28,7 +29,7 @@
 # ═══════════════════════════════════════════════════════════════════════════════
 
 cargo: "COO"
-versao: "3.3.0"
+versao: "3.4.0"
 nivel: "C-LEVEL"
 natureza: "HIBRIDO"
 data_criacao: "2025-12-23"
@@ -287,6 +288,13 @@ dna_sources:
         - "staff-management"
         - "recession-proofing"
         - "commodity-escape"
+      # ACC enrichment (2026-03-13 Phase 6)
+      elementos_acc:
+        - "FW-DK-117 (Gold Plus Telecoaching Architecture: 8-component coaching delivery system — one-on-one analysis, monthly group calls, annual gathering, partner directory, training value-add, support team, awards, recordings)"
+        - "FIL-DK-136 (Leverage Through System Not Labor: system delivers value, not hours — COO designs delivery systems that scale without proportional labor increase)"
+      dominios_acc:
+        - "coaching-delivery-systems"
+        - "leverage-via-system"
 
     - pessoa: "THE-SCALABLE-COMPANY"
       path: "/knowledge/dna/persons/THE-SCALABLE-COMPANY"

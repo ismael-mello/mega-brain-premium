@@ -4,9 +4,9 @@
 
 > **Em resumo:** Pricing por outcome value, não custo (Sam Ovens). Recurring high-ticket justificado por usage/access ou results (Jeremy Haynes). Esteira Front→Back→High (FSS). Preço alto = engagement alto. Brand Story = Pricing Power (Jeremy Haynes). Margens target: 30-40% net.
 >
-> **Versão:** 2.1.0 | **Atualizado:** 2026-03-01
+> **Versão:** 3.0.0 | **Atualizado:** 2026-03-13
 > **Densidade:** ◐◐◐◐◐ (5)
-> **Fontes:** Sam Ovens, Jeremy Haynes, Full Sales System, Jordan Lee, Jeremy Miner, Russell Brunson
+> **Fontes:** Sam Ovens, Jeremy Haynes, Full Sales System, Jordan Lee, Jeremy Miner, Russell Brunson, Dan Kennedy
 
 ---
 
@@ -698,6 +698,108 @@ CITAÇÕES:
 
 ---
 
+## Dan Kennedy — Advanced Coaching & Consulting ^[NEW: 2026-03-13]
+
+> **Fonte:** Advanced Coaching & Consulting (ACC) — Videos DK_8, DK_9, DK_10
+> **DNA:** knowledge/dna/persons/dan-kennedy/DNA.yaml
+
+### Pricing Psychology (DK ACC)
+
+```
+┌─────────────────────────────────────────────────────────────────────────┐
+│           PRICING PSYCHOLOGY (Dan Kennedy — ACC)                        │
+│           ^[FIL-DK-146], ^[FIL-DK-147], ^[FIL-DK-148]                 │
+├─────────────────────────────────────────────────────────────────────────┤
+│                                                                          │
+│  FIL-DK-146: YOUR PRICING IS A VALUE STATEMENT                          │
+│  "The market looks at your price and says 'if they're charging that     │
+│   much, it must be really good.' Pricing too low damages your brand     │
+│   and perception of value."                                              │
+│                                                                          │
+│  FIL-DK-147: COST-PLUS MARKUP IS WRONG                                  │
+│  "Customers don't care about your costs. They care about value.         │
+│   Cost plus markup will often leave you with prices that are too low    │
+│   — 70-80% of the time."                                                │
+│                                                                          │
+│  FIL-DK-148: CHARGING LESS IS UNETHICAL                                 │
+│  "You're cheating yourself. You're not getting paid for the value       │
+│   you're creating. It's unethical to undercharge."                      │
+│                                                                          │
+└─────────────────────────────────────────────────────────────────────────┘
+```
+
+### Trade Volume for Margin (DK ACC)
+
+```
+┌─────────────────────────────────────────────────────────────────────────┐
+│         TRADE VOLUME FOR MARGIN ^[FIL-DK-150]                           │
+├─────────────────────────────────────────────────────────────────────────┤
+│                                                                          │
+│  "Fewer clients at higher prices = better business. Service businesses  │
+│   can't increase volume infinitely. Higher margin with fewer clients    │
+│   wins."                                                                 │
+│                                                                          │
+│  CONVERGÊNCIA COM JEREMY HAYNES:                                        │
+│  ├─ JH: "Think in BRICKS not PEBBLES" (mesma filosofia)               │
+│  └─ DK: "Trade volume for margin" (mesma conclusão, diferente metáfora)│
+│                                                                          │
+└─────────────────────────────────────────────────────────────────────────┘
+```
+
+### Make Your Fee Disappear Via Math (DK ACC)
+
+```
+┌─────────────────────────────────────────────────────────────────────────┐
+│     MAKE YOUR FEE DISAPPEAR VIA MATH ^[FIL-DK-156]                     │
+├─────────────────────────────────────────────────────────────────────────┤
+│                                                                          │
+│  "Show how improvement in transaction size, gross margin, or customer  │
+│   value makes your fee invisible. The fee pays for itself — it's       │
+│   'free.'"                                                               │
+│                                                                          │
+│  APLICAÇÃO:                                                              │
+│  ├─ Calcular ROI do cliente ANTES de apresentar fee                    │
+│  ├─ Mostrar que fee = fração do resultado gerado                       │
+│  └─ Fee "desaparece" quando comparada ao ganho                         │
+│                                                                          │
+└─────────────────────────────────────────────────────────────────────────┘
+```
+
+### Value-Based Pricing Framework (DK ACC)
+
+```
+┌─────────────────────────────────────────────────────────────────────────┐
+│     VALUE-BASED PRICING FRAMEWORK ^[FW-DK-125]                         │
+├─────────────────────────────────────────────────────────────────────────┤
+│                                                                          │
+│  1. Identify value to customer (money made/saved or pain relieved)      │
+│  2. Price as fraction of that value                                      │
+│  3. Ensure costs covered but DON'T use cost-plus                        │
+│  4. Accept losing wrong customers                                        │
+│  5. Attract right customers who see value                                │
+│                                                                          │
+│  CONVERGÊNCIA COM SAM OVENS:                                            │
+│  ├─ SO: "Pricing baseado no Desired Outcome value"                     │
+│  └─ DK: "Price as fraction of customer value"                          │
+│  Mesmo princípio, ambos anti-cost-plus.                                 │
+│                                                                          │
+└─────────────────────────────────────────────────────────────────────────┘
+```
+
+### Convergência: Dan Kennedy vs Outras Fontes
+
+| Aspecto | Dan Kennedy (ACC) | Sam Ovens | Jeremy Haynes |
+|---------|-------------------|-----------|---------------|
+| Base de pricing | Customer value fraction | Desired Outcome value | Brand Story = Pricing Power |
+| Anti-padrão | Cost-plus (70-80% too low) | Cost-based pricing | Commodity positioning |
+| Volume vs margin | Trade volume for margin | N/A | Think in bricks not pebbles |
+| Fee presentation | Make fee disappear via math | Bridge/Toll analogy | Trust Hour reduces resistance |
+| Undercharging | Unethical | Limits upside | Limits positioning |
+
+**Tipo de tensão:** CONVERGENTE — Dan Kennedy, Sam Ovens e Jeremy Haynes convergem fortemente: pricing baseado em valor, não custo. DK adiciona a dimensão ética (undercharging = unethical) e a tática de fazer o fee "desaparecer" via matemática.
+
+---
+
 ## Fontes Relacionadas
 
 - [Person: Sam Oven](../persons/DOSSIER-SAM-OVEN.md)
@@ -711,4 +813,4 @@ CITAÇÕES:
 
 *Compilado via Narrative Metabolism Protocol v1.0*
 *Mega Brain System v3.33.0*
-*Atualizacao: 2026-03-01 por JARVIS - Russell Brunson contributions added*
+*Atualizacao: 2026-03-13 por JARVIS - Dan Kennedy ACC pricing contributions added (v3.0.0)*

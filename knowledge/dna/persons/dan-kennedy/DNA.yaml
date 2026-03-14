@@ -1,8 +1,8 @@
 # DNA COGNITIVO - DAN KENNEDY
-# Sources: The Copywriting Clinic + 7-Figure Academy + 12 Business Building Strategies
-# Version: 3.0.0
+# Sources: The Copywriting Clinic + 7-Figure Academy + 12 Business Building Strategies + Advanced Coaching & Consulting
+# Version: 11.0.0
 # Date: 2026-03-13
-# Total Elements: 273
+# Total Elements: 829
 
 metadata:
   person: Dan Kennedy
@@ -11,9 +11,9 @@ metadata:
     - "7-Figure Academy (7FA)"
     - "12 Business Building Strategies (12BBS)"
   source_type: MASTERCLASS_MULTI
-  files: 170  # 12 CC + 152 7FA + 6 12BBS (4 usable)
-  total_chars: 270356  # 219681 + 50675
-  version: "3.0.0"
+  files: 373  # 12 CC + 152 7FA + 6 12BBS + 203 ACC
+  total_chars: 270356  # 219681 + 50675 + ACC pending
+  version: "4.0.0"
   created: "2026-03-13"
 
 # ═══════════════════════════════════════════════════════════════
@@ -1997,6 +1997,2964 @@ L5_METODOLOGIAS_12BBS:
     source: "12BBS-CD1A"
     tema: product-expansion
 
+# ══════════════════════════════════════════════════════════════════════════════
+# SOURCE 4: ADVANCED COACHING & CONSULTING (High Fee Bootcamp)
+# Dan Kennedy live bootcamp — coaching/consulting business mastery
+# ACC-BATCH-01: cd01-cd03 (37 files, 148KB)
+# 45 new elements extracted
+# ══════════════════════════════════════════════════════════════════════════════
+
+# ─── L1: FILOSOFIAS (13 new: FIL-DK-053 to FIL-DK-065) ─────────────────────
+
+L1_FILOSOFIAS_ACC:
+  - id: FIL-DK-053
+    text: "Your role as consultant/coach is NOT to be of service — it's to CONTROL clients and get compliance"
+    source: "ACC-cd01-T11"
+    tema: client-control
+
+  - id: FIL-DK-054
+    text: "Nothing is more important to the successful consultant/coach than complete disdain for how ignorant and dysfunctional everyone is — superiority is a necessary attitude"
+    source: "ACC-cd01-T11"
+    tema: consultant-attitude
+
+  - id: FIL-DK-055
+    text: "When they show up, bill them — nothing for free, ever. Their respect for you is in direct correlation to the fact that they must give you money for everything"
+    source: "ACC-cd01-T13"
+    tema: pricing-psychology
+
+  - id: FIL-DK-056
+    text: "The entire universe continually reorders itself into 80/20 and 5/15 within the 20 — doesn't matter how much money you take from them"
+    source: "ACC-cd01-T12"
+    tema: universal-law
+
+  - id: FIL-DK-057
+    text: "What you're really getting paid for is your REPUTATION — not results, not expertise, not service"
+    source: "ACC-cd02-T1"
+    tema: reputation
+
+  - id: FIL-DK-058
+    text: "Aura borrowed is nearly as good as aura owned — who you associate with builds your reputation (K-Fed/Britney, Dresen/Sinatra)"
+    source: "ACC-cd02-T4"
+    tema: reputation
+
+  - id: FIL-DK-059
+    text: "People will tolerate anything if their expectations are properly managed — Southwest Airlines delivers the least but has highest satisfaction"
+    source: "ACC-cd03-T15"
+    tema: expectation-management
+
+  - id: FIL-DK-060
+    text: "Consulting is more about asking questions and common sense than expertise — you don't need credentials, experience, or qualifications"
+    source: "ACC-cd03-T7"
+    tema: expertise-not-required
+
+  - id: FIL-DK-061
+    text: "There are no moorings for pricing in consulting/coaching — it all has to do with what's going on in your head, not any formula"
+    source: "ACC-cd01-T10"
+    tema: pricing-psychology
+
+  - id: FIL-DK-062
+    text: "How the relationship starts colors it forever — brute force selling gets the check but can't keep them for 10 years"
+    source: "ACC-cd03-T4"
+    tema: client-acquisition
+
+  - id: FIL-DK-063
+    text: "This business is cart before horse — don't wait to become someone before doing the things that make you that someone"
+    source: "ACC-cd01-T5"
+    tema: consultant-attitude
+
+  - id: FIL-DK-064
+    text: "Hours-for-dollars is suicidal — it's not a business, it's a job with no leverage and no multiplier effect"
+    source: "ACC-cd01-T7"
+    tema: business-model
+
+  - id: FIL-DK-065
+    text: "Deception, manipulation, psychological control — that's what we do in this business. The question is degree and competency at it"
+    source: "ACC-cd03-T14"
+    tema: game-playing
+
+# ─── L2: MODELOS MENTAIS (8 new: MM-DK-051 to MM-DK-058) ───────────────────
+
+L2_MODELOS_MENTAIS_ACC:
+  - id: MM-DK-051
+    text: "The Nero Wolfe Model — make everyone come to you, never leave your house, create maximum scarcity through inaccessibility (J.J. Armes: conversation starts with $100K on the desk)"
+    source: "ACC-cd03-T14,T15"
+    tema: positioning
+
+  - id: MM-DK-052
+    text: "Reputation Stack — what they surmise/assume + what they're told by others + what they read about you + legends they hear repeated + who you're associated with"
+    source: "ACC-cd02-T1,T2,T3"
+    tema: reputation
+
+  - id: MM-DK-053
+    text: "Shortlist Design — deliberately choose 3-5 things you want to be known as and known for, then govern ALL other decisions by this reference list"
+    source: "ACC-cd02-T5,T6"
+    tema: reputation
+
+  - id: MM-DK-054
+    text: "The Ladder Principle — build ladders for others to climb (Boy Scouts, certifications — all designed to control people), but never climb one yourself"
+    source: "ACC-cd01-T9"
+    tema: control-systems
+
+  - id: MM-DK-055
+    text: "Three-Layer Content Model — Layer 1: entertainment/education, Layer 2: marketing ideas/examples, Layer 3: 'what are they up to and why?' (study the strategy behind the content)"
+    source: "ACC-cd01-T2"
+    tema: content-strategy
+
+  - id: MM-DK-056
+    text: "Broad→Narrow→Broad Career Cycle — positioning oscillates: start broad (marketing for any business), go narrow (magnetic marketing, 3-step mail), back broad (entrepreneurial strategies), narrow again (marketing to affluent)"
+    source: "ACC-cd03-T1"
+    tema: positioning
+
+  - id: MM-DK-057
+    text: "Value vs. Core Value Distinction — core value (actual results) doesn't keep clients; perceived value (relationship, recognition, control, delight) keeps them paying for 10-25 years"
+    source: "ACC-cd01-T13,T14"
+    tema: client-retention
+
+  - id: MM-DK-058
+    text: "Client Control Spectrum (1-10) — 1 = don't know you from Adam, 10 = absolutely determined to get you. Want them past 5 BEFORE you arrive; this determines the entire relationship"
+    source: "ACC-cd03-T4"
+    tema: client-acquisition
+
+# ─── L3: HEURISTICAS (12 new: HEUR-DK-072 to HEUR-DK-083) ──────────────────
+
+L3_HEURISTICAS_ACC:
+  - id: HEUR-DK-072
+    text: "70%+ client retention for long periods (10-25 years) achieved through science of control, not quality of service"
+    source: "ACC-cd01-T3"
+    tema: client-retention
+    type: numeric
+
+  - id: HEUR-DK-073
+    text: "Reestablish authority EVERY single time you interact — even 3-year clients need to be resold on why they're giving you money"
+    source: "ACC-cd01-T6,T7"
+    tema: authority
+
+  - id: HEUR-DK-074
+    text: "Heavy lifting must be done BEFORE you arrive — FedEx the big box (books, CDs, newsletters, testimonials) with specific reading instructions before the call"
+    source: "ACC-cd03-T2,T3"
+    tema: intake-procedure
+
+  - id: HEUR-DK-075
+    text: "Make prospects double opt-in — request the phone appointment a SECOND time after receiving materials to deepen emotional commitment"
+    source: "ACC-cd03-T3"
+    tema: intake-procedure
+
+  - id: HEUR-DK-076
+    text: "~25% of one-on-one coaching calls are pure recognition calls — they call to tell you how well they're doing; say 'brilliant/genius' and they're happy"
+    source: "ACC-cd03-T10"
+    tema: coaching-delivery
+    type: numeric
+
+  - id: HEUR-DK-077
+    text: "Price tripled ($1,100→$3,000→$30,000) with ZERO change in core deliverable — only packaging changed (nicer notebook)"
+    source: "ACC-cd01-T5"
+    tema: pricing-psychology
+    type: numeric
+
+  - id: HEUR-DK-078
+    text: "0→55 coaching members in ONE month (after 9 months stuck at 6) — coaching businesses can scale explosively once positioning clicks"
+    source: "ACC-cd01-T6"
+    tema: scaling
+    type: numeric
+
+  - id: HEUR-DK-079
+    text: "In 30 years, asked about educational qualifications maybe 5 times directly — nobody checks credentials, nobody cares"
+    source: "ACC-cd02-T2"
+    tema: credentials
+    type: numeric
+
+  - id: HEUR-DK-080
+    text: "96% of employers never call a single reference — assumption trumps verification in virtually all contexts"
+    source: "ACC-cd02-T2"
+    tema: assumptions
+    type: numeric
+
+  - id: HEUR-DK-081
+    text: "10% swing in dollars-per-head sales based solely on WHO introduces you (Peter Low vs wife MCing) — no other variable"
+    source: "ACC-cd03-T15"
+    tema: introductions
+    type: numeric
+
+  - id: HEUR-DK-082
+    text: "Average International Coaches Federation member income: $50K/year — traditional coaching culture = poverty consciousness"
+    source: "ACC-cd03-T1"
+    tema: industry-benchmark
+    type: numeric
+
+  - id: HEUR-DK-083
+    text: "One handwritten note from a deliberately non-warm person has 10x more impact than the same note from a warm person — strategic reputation creates currency"
+    source: "ACC-cd02-T6"
+    tema: reputation-currency
+
+# ─── L4: FRAMEWORKS (7 new: FW-DK-057 to FW-DK-063) ────────────────────────
+
+L4_FRAMEWORKS_ACC:
+  - id: FW-DK-057
+    text: "Intake Procedure Framework: express interest → prepare 1-2 page case → fax → review → maybe phone → materials FedEx → double opt-in → phone appointment → paid consulting day → maybe contract"
+    source: "ACC-cd03-T2,T3"
+    tema: intake-procedure
+
+  - id: FW-DK-058
+    text: "Reputation Construction Checklist: (1) can live with it long-term, (2) facilitates influence/power/control, (3) magnetic to constituency of choice, (4) evergreen appeal, (5) easy to grasp and remember, (6) difficult to undermine or attack"
+    source: "ACC-cd02-T8"
+    tema: reputation
+
+  - id: FW-DK-059
+    text: "14 Values That Don't Require Expertise: fresh eyes, dumb questions, forced thought, unearthed ignored opportunities, influence on associates/employees, political cover, validate premises, motivation, accountability, recognition, connections, being used as authority, specialized knowledge (only 1 of 14 requires expertise)"
+    source: "ACC-cd03-T8,T9,T10"
+    tema: value-delivery
+
+  - id: FW-DK-060
+    text: "Client Control Architecture: reputation precedes you → intake procedure → big box of materials → double opt-in → paid day → YOU prescribe → they comply → dictatorial relationship sustained for years"
+    source: "ACC-cd03-T2,T3,T4"
+    tema: client-control
+
+  - id: FW-DK-061
+    text: "Percentage Above Base Pricing: last year revenue + inflation + growth = base → set increasing bases for 2-3 years → you get 30% of everything above base (sold $30K coaching to 600 chiropractors in 1978)"
+    source: "ACC-cd01-T8"
+    tema: pricing-model
+
+  - id: FW-DK-062
+    text: "Corporate Client Conversion: champion inside → chain of influence → intake materials → phone interview → paid consulting day → paid group meeting → YOU write CEO's letter in his voice → frame as 'me deciding if appropriate'"
+    source: "ACC-cd03-T3,T4,T5"
+    tema: corporate-sales
+
+  - id: FW-DK-063
+    text: "Expectation Management Framework: set clear low expectations + deliver on ONE key promise consistently (Southwest: on-time) = highest satisfaction with least delivery"
+    source: "ACC-cd03-T15"
+    tema: expectation-management
+
+# ─── L5: METODOLOGIAS (5 new: MET-DK-045 to MET-DK-049) ────────────────────
+
+L5_METODOLOGIAS_ACC:
+  - id: MET-DK-045
+    text: "Authority Reestablishment Method: even with existing clients, every session: (1) reestablish specific authority for specific topic, (2) demonstrate via live examples/testimonials, (3) reset me-chief-you-Indian frame"
+    source: "ACC-cd01-T6,T7"
+    tema: authority
+
+  - id: MET-DK-046
+    text: "Reputation-Before-Arrival Method: (1) identify every touchpoint before meeting, (2) put reputation in a box (books/CDs/newsletters/testimonials), (3) FedEx with specific reading instructions, (4) only two conversations: them convincing you OR details of when/where/how much"
+    source: "ACC-cd03-T2,T3"
+    tema: intake-procedure
+
+  - id: MET-DK-047
+    text: "Consulting Day Upsell Method: (1) all relationships begin with PAID day, (2) charge premium for inconvenient scheduling, (3) force them to come to YOUR location, (4) at end of day: offer or not, (5) if more stakeholders: another PAID meeting with pre-framing"
+    source: "ACC-cd03-T4,T5"
+    tema: consulting-sales
+
+  - id: MET-DK-048
+    text: "Recognition Call Pattern: (1) 20min private call 8x/year, (2) ~25% are recognition calls — listen to wins, say 'brilliant/genius', (3) ~25% accountability, (4) minimal heavy-lifting calls, (5) all done in one day"
+    source: "ACC-cd03-T10"
+    tema: coaching-delivery
+
+  - id: MET-DK-049
+    text: "Coaching Group Retention Method: (1) construct ladders/levels, (2) provide recognition environment, (3) exercise dictatorial control, (4) keep one 'dumb' member who asks basic questions, (5) focus on delight not results, (6) never judge by your value system — only theirs"
+    source: "ACC-cd03-T13"
+    tema: coaching-retention
+
+# --- ACC BATCH-02: cd04-cd06 (28 elementos) ---
+
+  # L1 FILOSOFIAS (8)
+  - id: FIL-DK-066
+    text: "Packaging and costumes are everything — what you wrap things in matters more than what's inside. The suit, the staging, the props communicate authority before you open your mouth."
+    source: "ACC-cd04-T1,T2"
+    tema: positioning-authority
+
+  - id: FIL-DK-067
+    text: "Easy access equals servitude — the more accessible you are, the less you're worth. Making yourself hard to reach is not arrogance, it's strategic positioning that forces respect."
+    source: "ACC-cd04-T5,T6"
+    tema: access-control
+
+  - id: FIL-DK-068
+    text: "Business is the ultimate self-aggrandizement project — everything you build should elevate YOUR status, YOUR lifestyle, YOUR legend. The business exists to serve you, not the other way around."
+    source: "ACC-cd04-T8"
+    tema: business-philosophy
+
+  - id: FIL-DK-069
+    text: "Friendship kills business relationships — the moment a client becomes a friend, you lose the ability to enforce standards, raise prices, or fire them. Maintain professional distance always."
+    source: "ACC-cd05-T3,T4"
+    tema: client-boundaries
+
+  - id: FIL-DK-070
+    text: "Feelings trump results in retention — clients who FEEL good stay longer than clients who GET results but feel neglected. Manage emotions first, deliver results second."
+    source: "ACC-cd05-T7"
+    tema: coaching-retention
+
+  - id: FIL-DK-071
+    text: "With strategy and borrowed aura, any nobody can become a somebody — celebrity, authority, and expert status are manufactured, not earned. You construct the perception deliberately."
+    source: "ACC-cd05-T9"
+    tema: authority-manufacturing
+
+  - id: FIL-DK-072
+    text: "Continuous control is the only control — the moment you stop actively managing client behavior, expectations, and engagement, entropy takes over and everything decays."
+    source: "ACC-cd06-T2,T3"
+    tema: client-management
+
+  - id: FIL-DK-073
+    text: "Omission is the most valuable communication tool — what you DON'T say, DON'T reveal, DON'T make available creates more desire and mystique than anything you share."
+    source: "ACC-cd06-T8"
+    tema: scarcity-positioning
+
+  # L2 MODELOS MENTAIS (5)
+  - id: MM-DK-059
+    text: "Performance Art Model: consulting/coaching is not about the advice — it's a performance. The staging, the ritual, the props, the timing are all part of the show that justifies premium fees."
+    source: "ACC-cd04-T1,T2,T3"
+    tema: consulting-delivery
+
+  - id: MM-DK-060
+    text: "Hunt vs Pile Model: there are two ways to get clients — hunting (active outreach, one at a time) vs piling (building systems that pile up prospects). Hunting is exhausting, piling scales."
+    source: "ACC-cd04-T10,T11"
+    tema: client-acquisition
+
+  - id: MM-DK-061
+    text: "Inverse Guarantee Law: the MORE you guarantee, the LESS refunds you get — because the guarantee removes the buyer's anxiety and they never activate it. Bold guarantees are profit centers, not cost centers."
+    source: "ACC-cd05-T5,T6"
+    tema: pricing-guarantees
+
+  - id: MM-DK-062
+    text: "What's Next Engine: retention is driven by always having a 'what's next' — next level, next certification, next mastermind, next event. The moment there's no next, they leave."
+    source: "ACC-cd05-T8,T9"
+    tema: coaching-retention
+
+  - id: MM-DK-063
+    text: "Mountains from Molehills: the ability to take a small idea, a minor distinction, a simple technique and package it as a MAJOR breakthrough is the core skill of info-marketing and coaching."
+    source: "ACC-cd06-T5,T6"
+    tema: info-marketing
+
+  # L3 HEURISTICAS (7)
+  - id: HEUR-DK-084
+    text: "50% of closing happens with pre-filled paperwork — have the contract ready with their name, terms, and details already filled in. Handing someone a document with their name on it creates psychological ownership."
+    source: "ACC-cd04-T4"
+    tema: closing-techniques
+
+  - id: HEUR-DK-085
+    text: "The escort method creates highest satisfaction — physically walk clients through every step of onboarding, don't just send instructions. Personal escort from sale to fulfillment eliminates buyer's remorse."
+    source: "ACC-cd04-T7"
+    tema: client-onboarding
+
+  - id: HEUR-DK-086
+    text: "9 out of 10 people repent after a come-to-Jesus conversation — when you confront underperforming clients directly, 90% course-correct. The 10% who leave were going to leave anyway."
+    source: "ACC-cd05-T2"
+    tema: client-accountability
+
+  - id: HEUR-DK-087
+    text: "The #1 reason people drop out is too much stuff — overwhelm kills retention. Give them LESS content, MORE implementation time. One thing per month beats ten things per quarter."
+    source: "ACC-cd05-T4"
+    tema: coaching-delivery
+
+  - id: HEUR-DK-088
+    text: "Phone calls should be by appointment only — never accept inbound calls. Scheduled calls position you as the authority; available-anytime positions you as an employee."
+    source: "ACC-cd05-T10"
+    tema: access-control
+
+  - id: HEUR-DK-089
+    text: "Summers' dinner rule: 250 people you know × $2,500 average = a business can be built from existing relationships alone. Most consultants ignore their existing network chasing strangers."
+    source: "ACC-cd06-T4"
+    tema: client-acquisition
+
+  - id: HEUR-DK-090
+    text: "Familiarity breeds disaster in high-fee consulting — the more casual and familiar you become with clients, the less they value your advice. Maintain formality and distance proportional to your fee."
+    source: "ACC-cd06-T9,T10"
+    tema: positioning-authority
+
+  # L4 FRAMEWORKS (5)
+  - id: FW-DK-064
+    text: "Call Schedule Architecture: (1) pre-set all calls for the year on day 1, (2) group all calls on ONE day per week, (3) never exceed 6 calls per day, (4) 20min max each, (5) client must submit agenda 24h before or call is cancelled"
+    source: "ACC-cd04-T9,T10"
+    tema: coaching-delivery
+
+  - id: FW-DK-065
+    text: "Negative Optioning Framework: (1) present the premium option first, (2) let client self-select DOWN, (3) each lower option removes benefits visibly, (4) client feels loss with each downgrade, (5) most land on middle-high option"
+    source: "ACC-cd05-T1"
+    tema: pricing-strategy
+
+  - id: FW-DK-066
+    text: "Client Dependency 3 Pillars: (1) make yourself the source of their best ideas, (2) become their introduction broker to key relationships, (3) become their accountability mechanism — when all 3 are active, switching cost is enormous"
+    source: "ACC-cd05-T11"
+    tema: client-retention
+
+  - id: FW-DK-067
+    text: "Monthly Fulfillment Drawer System: (1) pre-create 12 months of content/exercises, (2) store in monthly 'drawers', (3) release one drawer per month, (4) each drawer has ONE focus theme, (5) include recognition/celebration component"
+    source: "ACC-cd06-T1"
+    tema: coaching-delivery
+
+  - id: FW-DK-068
+    text: "Positive Feelings Retention Stack: (1) recognition calls — tell them they're brilliant, (2) exclusive access signals — invite-only events, (3) tangible artifacts — plaques/certificates/gifts, (4) peer comparison — show them ahead of pack, (5) identity reinforcement — 'you're the kind of person who...'"
+    source: "ACC-cd06-T7,T8"
+    tema: coaching-retention
+
+  # L5 METODOLOGIAS (3)
+  - id: MET-DK-050
+    text: "Environment Choreography Method: (1) control every physical detail of consulting space — lighting, seating, props, (2) have YOUR books/awards visible, (3) client sits in designated 'receiving' position, (4) use timer visibly, (5) have pre-prepared materials with client's name, (6) end with physical artifact (signed book, certificate)"
+    source: "ACC-cd04-T3,T4,T7"
+    tema: consulting-delivery
+
+  - id: MET-DK-051
+    text: "Summers' Relationship Brokering Method: (1) identify what each client needs that another client has, (2) make introductions with both parties knowing YOU facilitated, (3) take percentage or credit for resulting business, (4) create annual 'connection dinner' where you curate guest list, (5) position yourself as the hub — everyone connects THROUGH you"
+    source: "ACC-cd06-T3,T4,T5"
+    tema: networking-leverage
+
+  - id: MET-DK-052
+    text: "Rules Enforcement Cycle: (1) establish rules BEFORE enrollment — in writing, (2) first violation: gentle reminder with smile, (3) second violation: formal warning with consequences stated, (4) third violation: enforce consequence immediately and publicly (within group), (5) celebrate rule-followers visibly"
+    source: "ACC-cd06-T10,T11"
+    tema: group-management
+
+# --- ACC BATCH-03: cd07-cd09 (25 elementos) ---
+
+  # L1 FILOSOFIAS (6)
+  - id: FIL-DK-074
+    text: "Money makes no moral judgments — it doesn't go where it's most needed, it goes to people who set the forces in motion. Good people's houses burn down too. Money flows to celebrity, promotion, speed, and self-promotion, not to virtue."
+    source: "ACC-cd08-T4"
+    tema: money-philosophy
+
+  - id: FIL-DK-075
+    text: "The greatest attractant of money is immunity to criticism — independence from the good opinion of others liberates all money to flow to you. As Maslow said: high achievers live independent of the good opinion of others."
+    source: "ACC-cd09-T8,T9"
+    tema: money-philosophy
+
+  - id: FIL-DK-076
+    text: "You are in the business of dispensing gold stars to people who need them to feel good about themselves — but you must be completely devoid of need for them yourself. The moment you chase approval, you stop chasing money."
+    source: "ACC-cd09-T9,T10"
+    tema: authority-positioning
+
+  - id: FIL-DK-077
+    text: "Competition doesn't set price, comparables don't set price, past experience doesn't set price — only YOU set your price. Then you take it to market. There's a market for just about every price."
+    source: "ACC-cd09-T6"
+    tema: pricing-philosophy
+
+  - id: FIL-DK-078
+    text: "If you wait to get organized, you're in the getting-organized business, not the money-attraction business. Act with supreme and wholly unreasonable confidence. Start things with no idea how they'll be completed."
+    source: "ACC-cd09-T3,T4"
+    tema: action-philosophy
+
+  - id: FIL-DK-079
+    text: "Writing is the primary means of communication and bonding between you and your client. You cannot build a significant coaching/consulting business without being a writer. It's easier to learn than speaking — you can hide with your computer."
+    source: "ACC-cd07-T4"
+    tema: consulting-skills
+
+  # L2 MODELOS MENTAIS (5)
+  - id: MM-DK-064
+    text: "Gold Stars Economy: people who need gold stars make all decisions about getting approval instead of getting money. Liberation comes from not needing any. Every decision made for gold stars is a decision NOT made for profit."
+    source: "ACC-cd09-T8,T9,T10"
+    tema: money-psychology
+
+  - id: MM-DK-065
+    text: "5/15/80 Buyer Population: 5% of every population buys everything, 15% buys a lot, 80% buys nothing. This is human behavior, not money availability. In any niche, the same 5% are in every coaching program simultaneously."
+    source: "ACC-cd08-T5"
+    tema: market-segmentation
+
+  - id: MM-DK-066
+    text: "Zero Sum Fallacy: taking $30K from a client doesn't make them $30K poorer. Buyers are in multiple $30K programs in the same niche simultaneously. The finite-money belief is the #1 self-imposed barrier to pricing."
+    source: "ACC-cd08-T5"
+    tema: pricing-psychology
+
+  - id: MM-DK-067
+    text: "Sequential vs Simultaneous Wealth: the wealthy do everything simultaneously — make, save, invest all at once. Others try sequential (make first, save later, invest someday) and never get there. Same applies to business building."
+    source: "ACC-cd09-T4"
+    tema: wealth-building
+
+  - id: MM-DK-068
+    text: "Celebrity Connection Model: who you put yourself with defines who you are. Surround yourself with celebrities and you become a celebrity. Bill Harrison's greatest assets are clients Mark Victor Hansen and Robert Kiyosaki — they're magnetic to his target audience."
+    source: "ACC-cd07-T1,T7,T8"
+    tema: authority-positioning
+
+  # L3 HEURISTICAS (7)
+  - id: HEUR-DK-091
+    text: "Just add a zero — Larry's foreign brides went from $395 to $3,950 with zero difference in conversions. Same story with $1,100→$30,000. No changes to offer, just price. The old price was simply wrong."
+    source: "ACC-cd09-T5,T6"
+    tema: pricing-strategy
+
+  - id: HEUR-DK-092
+    text: "Transaction size bump: if they'll pay $2,999 they'll pay $3,449. Small invisible-to-buyer bumps × 100 transactions = massive difference to seller. Disney sells caps for $14 in a captive environment and nobody's grumpy."
+    source: "ACC-cd09-T7"
+    tema: pricing-strategy
+
+  - id: HEUR-DK-093
+    text: "A book is just 12 newsletters — don't make it a big thing. A page a day is more than you need. As soon as you say 'book', everybody's underwear tightens up. It's not Hemingway, it's a really long sales letter disguised."
+    source: "ACC-cd07-T6,T7"
+    tema: content-creation
+
+  - id: HEUR-DK-094
+    text: "Most books bought are never read — put promotional pages and free offer sticker in FRONT of book, not back. Don't rely on them reading through to find your offer. The book is a credibility tool better than any brochure."
+    source: "ACC-cd07-T8"
+    tema: lead-generation
+
+  - id: HEUR-DK-095
+    text: "Celebrity ROI is always multi-layered: (1) direct attendance lift, (2) mood/selling environment at event, (3) accumulated reputation compound, (4) competitor discouragement, (5) media/PR. $75K for George Foreman paid back across all five."
+    source: "ACC-cd07-T9,T10"
+    tema: celebrity-strategy
+
+  - id: HEUR-DK-096
+    text: "Buy big celebrity at small celebrity price — get Trump's Apprentice cast (Bill Rancic, Kristy Frank) instead of Trump. Linked at the hip but fraction of cost. You're buying Trump at a discount."
+    source: "ACC-cd07-T10"
+    tema: celebrity-strategy
+
+  - id: HEUR-DK-097
+    text: "Personal disclosure is strategic multiplication — reveal bankruptcy = hook every entrepreneur who's been bankrupt. Reveal stuttering = hook every stutterer or parent of one. Small numbers multiplied. But counterbalance vulnerability with grumpy/tough reputation."
+    source: "ACC-cd07-T11"
+    tema: personal-branding
+
+  # L4 FRAMEWORKS (4)
+  - id: FW-DK-069
+    text: "Four Forces of Money Attraction: (1) DECIDE with clarity — clarity attracts, cloudiness repels, (2) PLANT decisions in subconscious — let attraction replace pursuit, (3) ASK and place demands on people — develop a systematic process, (4) ACT with unreasonable confidence — large, exciting, dramatic"
+    source: "ACC-cd09-T1,T2,T3,T4"
+    tema: wealth-building
+
+  - id: FW-DK-070
+    text: "Celebrity Usage ROI Stack: (1) direct attendance lift, (2) mood/selling environment improvement, (3) accumulated reputation over years of association, (4) competitor discouragement ('I can't compete with that'), (5) media/PR leverage, (6) discount buying via associated lesser celebrities"
+    source: "ACC-cd07-T9,T10"
+    tema: celebrity-strategy
+
+  - id: FW-DK-071
+    text: "Transaction Size Leverage: (1) raise price dramatically (add a zero), (2) split surplus — half in pocket + quarter on client experience + quarter on marketing, (3) better experience → better reputation → raise again, (4) speed to revenue targets = f(transaction size)"
+    source: "ACC-cd09-T7"
+    tema: pricing-strategy
+
+  - id: FW-DK-072
+    text: "Strategic Speaking Framework: (1) develop ONE stump speech perfected to unconscious mastery, (2) every word drives ideal prospects to surface and chase you, (3) sacrifice standing ovation for conversions, (4) sacrifice host satisfaction if needed, (5) repel 180 to attract 20 who will pay, (6) never give speech without mentioning what you do"
+    source: "ACC-cd07-T2,T3"
+    tema: speaking-strategy
+
+  # L5 METODOLOGIAS (3)
+  - id: MET-DK-053
+    text: "Book as Long-Form Sales Letter: (1) identify target buyer persona, (2) list 4-5 key message points to hammer, (3) structure as storybook — client cases + famous examples intermingled for borrowed credibility, (4) willingly repel non-ideal readers, (5) embed promotional pages + capture offers in FRONT of book, (6) use as credibility brochure replacement — send books instead of brochures"
+    source: "ACC-cd07-T6,T7,T8"
+    tema: content-marketing
+
+  - id: MET-DK-054
+    text: "Celebrity Acquisition & Deployment: (1) mine free celebrity connections first — articles, public endorsements, (2) understand usage tiers control cost — avoid broadcast rights, (3) buy big via associated smaller celebrities (Apprentice cast = Trump at discount), (4) deploy for mood/selling environment at events, (5) accumulate associations over years for compound reputation, (6) use for competitor discouragement and media leverage"
+    source: "ACC-cd07-T8,T9,T10"
+    tema: celebrity-strategy
+
+  - id: MET-DK-055
+    text: "Price Discovery by Zero Addition: (1) identify current price, (2) add a zero — no other changes to offer, (3) test conversions — usually identical, (4) pocket the difference, (5) then add differential tiers (self-service $3,950 vs personal-attention $7,995), (6) 20% naturally take premium tier — pure profit"
+    source: "ACC-cd09-T5,T6"
+    tema: pricing-strategy
+
+# --- ACC BATCH-04: cd10-cd12 (114 elementos) ---
+
+  # ═══ CD10: Bill Glazer's 10 Lessons + DK Scheduling/Deception ═══
+
+  # L1 FILOSOFIAS (8)
+  - id: FIL-DK-080
+    text: "The vast majority of clients screw things up. You can't allow that to affect you. If you take it real personal, coaching and consulting is just not going to work out for you."
+    source: "ACC-cd10"
+    speaker: "Bill Glazer"
+    tema: consultant-mindset
+
+  - id: FIL-DK-081
+    text: "You must get over the attitude that you're responsible for their results. Because they screw it up, you just can't feel responsible for their results."
+    source: "ACC-cd10"
+    speaker: "Bill Glazer"
+    tema: consultant-mindset
+
+  - id: FIL-DK-082
+    text: "The more you charge, the more they value your advice and implement. Free advice means nothing to them. It's not only good news for you because you'll be making more money, but it's good news for the relationship."
+    source: "ACC-cd10"
+    speaker: "Bill Glazer"
+    tema: pricing-psychology
+
+  - id: FIL-DK-083
+    text: "Being an entrepreneur is one of the loneliest jobs in the world. It's real hard to really share with other people what's going on in your business."
+    source: "ACC-cd10"
+    speaker: "Bill Glazer"
+    tema: entrepreneurship
+
+  - id: FIL-DK-084
+    text: "If you are not being talked about continuously — good or bad, better if it's more good than bad — by your clientele amongst themselves and to others, you have a marketing problem. That won't happen by accident, it has to be planted."
+    source: "ACC-cd10"
+    speaker: "Dan Kennedy"
+    tema: word-of-mouth
+
+  - id: FIL-DK-085
+    text: "Everybody draws their lines about deception situationally. Everybody's got a moving line. Anybody who tells you they got a permanent line, they don't."
+    source: "ACC-cd10"
+    speaker: "Dan Kennedy"
+    tema: ethics-pragmatism
+
+  - id: FIL-DK-086
+    text: "The perverse nature of consulting is: number one, they don't want you if you find them, they only want you if they find you. Secondly, they pretty much only want your time if there is none of it available."
+    source: "ACC-cd10"
+    speaker: "Dan Kennedy"
+    tema: consulting-paradox
+
+  - id: FIL-DK-087
+    text: "Everything that is talked about here has to be applied differently in different situations. This is not like Moses coming down the hill with the 11 commandments."
+    source: "ACC-cd10"
+    speaker: "Dan Kennedy"
+    tema: contextual-application
+
+  # L2 MODELOS MENTAIS (8)
+  - id: MM-DK-069
+    text: "Three Sources of Client Value: (1) Knowledge they receive, (2) Ability to show off — entrepreneurs have no other venue to showcase success, (3) A place to belong — where they can talk about their business with peers who understand."
+    source: "ACC-cd10"
+    speaker: "Bill Glazer"
+    tema: client-value
+
+  - id: MM-DK-070
+    text: "Showing off is different from place to belong. Some people don't need a place to belong but need a place to show off. Some need belonging but not showing off. The best ones are doing all three."
+    source: "ACC-cd10"
+    speaker: "Bill Glazer"
+    tema: client-motivation
+
+  - id: MM-DK-071
+    text: "The Consultant as Question-Asker: A lot of value comes from the ability to ask questions and challenge premises rather than give direct answers."
+    source: "ACC-cd10"
+    speaker: "Bill Glazer"
+    tema: consulting-approach
+
+  - id: MM-DK-072
+    text: "The 'That's the way we've always done it' trap: When people are doing dumb things in their business, the most common answer is 'that's the way we've always done it.' A coach's job is to bring fresh eyes."
+    source: "ACC-cd10"
+    speaker: "Bill Glazer"
+    tema: consulting-value
+
+  - id: MM-DK-073
+    text: "Deception exists on a spectrum: blatant deception, deception by implication/assumption, and deception by omission. The test is: does the end user have the exact same experience and receive the same value regardless?"
+    source: "ACC-cd10"
+    speaker: "Dan Kennedy"
+    tema: ethics-pragmatism
+
+  - id: MM-DK-074
+    text: "The Embellished Schedule model: Always have two versions — the real one (for internal use) and the embellished one (for clients/prospects). Never put 'open' or 'nothing scheduled.' The busier it looks, the better."
+    source: "ACC-cd10"
+    speaker: "Dan Kennedy"
+    tema: scarcity-positioning
+
+  - id: MM-DK-075
+    text: "Relationship depth determines guarantee necessity: With a strong prior relationship, you need less guarantee. With weaker/newer relationships, you must offer stronger guarantees."
+    source: "ACC-cd10"
+    speaker: "Bill Glazer"
+    tema: pricing-guarantees
+
+  - id: MM-DK-076
+    text: "Speaking is like the Paris Hilton model — being talked about in 300+ websites creates the ability to charge $125K for two hours. Being continuously talked about eliminates all marketing problems."
+    source: "ACC-cd10"
+    speaker: "Dan Kennedy"
+    tema: celebrity-leverage
+
+  # L3 HEURISTICAS (9)
+  - id: HEUR-DK-098
+    text: "About 20% annual churn in a mastermind group is very healthy. It brings new life and vitality. You don't want too many new people because the group forms bonds, but 20% turnover is optimal."
+    source: "ACC-cd10"
+    speaker: "Bill Glazer"
+    tema: group-management
+
+  - id: HEUR-DK-099
+    text: "When starting coaching programs, offer a maximum of two levels. Do not give people more than two decisions to make. Make the higher-priced option as attractive as possible."
+    source: "ACC-cd10"
+    speaker: "Bill Glazer"
+    tema: program-structure
+
+  - id: HEUR-DK-100
+    text: "One-on-one telecoaching: two-hour minimum — first hour you review their pre-filled questionnaire, second hour on the phone. Charge $1,000/hour ($2,000 minimum)."
+    source: "ACC-cd10"
+    speaker: "Bill Glazer"
+    tema: coaching-delivery
+
+  - id: HEUR-DK-101
+    text: "Retainer clients: $5,000/month for a half-day meeting per month. Develop a task list during the meeting — the task list is for THEM, not for you. Always include a 90-day exit notice clause."
+    source: "ACC-cd10"
+    speaker: "Bill Glazer"
+    tema: retainer-structure
+
+  - id: HEUR-DK-102
+    text: "On group telecoaching: you MUST send out a CD/recording of the call afterwards. If not, you're going to have a lot of dropout."
+    source: "ACC-cd10"
+    speaker: "Bill Glazer"
+    tema: coaching-retention
+
+  - id: HEUR-DK-103
+    text: "When negotiating partnership splits, the answer is: as little as you have to give them. Never answer without knowing all the economics."
+    source: "ACC-cd10"
+    speaker: "Bill Glazer"
+    tema: partnership-negotiation
+
+  - id: HEUR-DK-104
+    text: "Never put 'open' on a public schedule. Every day should have something listed. The closest you should come is 'hold, not yet scheduled.'"
+    source: "ACC-cd10"
+    speaker: "Dan Kennedy"
+    tema: scarcity-positioning
+
+  - id: HEUR-DK-105
+    text: "If you're speaking at an event, always hear at least the speaker immediately before you. Pros like Jim Rohn would sit through the entire day before his evening slot."
+    source: "ACC-cd10"
+    speaker: "Dan Kennedy"
+    tema: speaking-strategy
+
+  - id: HEUR-DK-106
+    text: "A coaching/consulting business can generate ~$3M/year across multiple levels: telecoaching ($240/month × 460 members), mastermind ($1,000+/month × 20-22), retainers ($5,000/month), one-on-one ($2,000/session), one-day consults ($10,000/day)."
+    source: "ACC-cd10"
+    speaker: "Bill Glazer"
+    tema: revenue-model
+
+  # L4 FRAMEWORKS (6)
+  - id: FW-DK-073
+    text: "Bill Glazer's 10 Big Lessons from 33 Years: (1) Clients screw things up — don't take it personally, (2) Not responsible for their results, (3) Three sources of value: knowledge/showing off/belonging, (4) Constantly cover the basics, (5) Value is asking questions, (6) Speaking is best client getter, (7) More you charge more they implement, (8) Leads to as much work as you want, (9) Manage arrangement length — always have exit, (10) Authority is critical — you must be in control."
+    source: "ACC-cd10"
+    speaker: "Bill Glazer"
+    tema: coaching-fundamentals
+
+  - id: FW-DK-074
+    text: "Coaching Ascension Model: Gold Plus ($240/mo, 460 members) → Peak Performers ($TBD, 75 members) → VIP/InfoMastermind ($TBD, 20-22 members) → Platinum (40 max). Give priority access to higher levels for people in lower levels."
+    source: "ACC-cd10"
+    speaker: "Bill Glazer"
+    tema: program-structure
+
+  - id: FW-DK-075
+    text: "Mastermind Meeting Format: Each member gets 30-45 minutes. Three parts: (1) What's happened since last meeting, (2) What's working — everyone wants to steal ideas, (3) Challenges/where they need help — gets the most time."
+    source: "ACC-cd10"
+    speaker: "Bill Glazer"
+    tema: mastermind-format
+
+  - id: FW-DK-076
+    text: "The 'Secret Discovered Elsewhere' Framework: Position your program as 'the secret discovered in Country A is now available to Country B' because everybody likes to buy the secret."
+    source: "ACC-cd10"
+    speaker: "Bill Glazer"
+    tema: international-expansion
+
+  - id: FW-DK-077
+    text: "Speaker Preparation Framework: (1) Acquire tapes of every regular speaker on the circuit, (2) Know what they teach so you don't contradict them, (3) Build on what the speaker before you planted, (4) Adjust your talk based on who was on stage before you."
+    source: "ACC-cd10"
+    speaker: "Dan Kennedy"
+    tema: speaking-strategy
+
+  - id: FW-DK-078
+    text: "Non-Profit Pie Chart Deception: Education category can absorb virtually all direct mail costs if one paragraph directs to educational resources. Applicable lesson: legal structure determines what you can show and how you frame costs."
+    source: "ACC-cd10"
+    speaker: "Dan Kennedy"
+    tema: financial-framing
+
+  # L5 METODOLOGIAS (4)
+  - id: MET-DK-056
+    text: "Two-Hour Coaching Call Process: (1) Send pre-coaching questionnaire, (2) Review completed questionnaire for up to one hour, (3) Get on phone for one hour — client doesn't waste time because you're prepared, (4) They learn to deliver information properly through questionnaire format."
+    source: "ACC-cd10"
+    speaker: "Bill Glazer"
+    tema: coaching-delivery
+
+  - id: MET-DK-057
+    text: "Mastermind Group Enhancement: (1) Run standard format (what happened/what's working/challenges), (2) Add dedicated networking sessions, (3) Add annual gathering for relationship-building, (4) Members want to rub elbows with each other as much as with you."
+    source: "ACC-cd10"
+    speaker: "Bill Glazer"
+    tema: mastermind-enrichment
+
+  - id: MET-DK-058
+    text: "Maintaining Authority in Groups: (1) Develop definite program structure, (2) Stick to it strictly, (3) Bring something unique each meeting only YOU have, (4) Never let it get to point where you're no longer in control, (5) Welcome 20% natural churn."
+    source: "ACC-cd10"
+    speaker: "Bill Glazer"
+    tema: group-management
+
+  - id: MET-DK-059
+    text: "Embellished Schedule Publication: (1) Maintain two versions — real and embellished, (2) Fill every day with something, (3) Update and send to clients every 1-2 weeks, (4) Purpose: reinforce 'Kennedy is busier than crap', (5) Use 'hold, not yet scheduled' as closest to indicating availability."
+    source: "ACC-cd10"
+    speaker: "Dan Kennedy"
+    tema: scarcity-positioning
+
+  # ═══ CD11: Being Talked About / Celebrity / Personal Disclosure ═══
+
+  # L1 FILOSOFIAS (8)
+  - id: FIL-DK-088
+    text: "Better to be talked about in a negative way than not talked about at all. Being talked about drives all commerce — if they're not talking about you, they're talking about somebody else."
+    source: "ACC-cd11"
+    tema: celebrity-strategy
+
+  - id: FIL-DK-089
+    text: "This is not a coaching business or a consulting business or an information business — it is a self-aggrandizement business, a promotion business, a client control business."
+    source: "ACC-cd11"
+    tema: business-identity
+
+  - id: FIL-DK-090
+    text: "What you see is rarely what is. Carnegie's real skill was raising money, not industry. Edison was a fabulous self-promoter, not a great inventor. Trump is in the Trump business, not real estate."
+    source: "ACC-cd11"
+    tema: perception-vs-reality
+
+  - id: FIL-DK-091
+    text: "You are a more interesting character if you do not attempt to appear to be perfect. The flaws are as interesting as the strengths. Superman without kryptonite = no enduring character."
+    source: "ACC-cd11"
+    tema: personal-branding
+
+  - id: FIL-DK-092
+    text: "If you've got personal scars, failures, or vulnerabilities — use them. Don't walk away from any of your life experience that will be meaningful to people."
+    source: "ACC-cd11"
+    tema: personal-disclosure
+
+  - id: FIL-DK-093
+    text: "Keeping clients in coaching programs is as much about their ongoing interest and fascination in you in general as it is about the core values of what they're getting from the group."
+    source: "ACC-cd11"
+    tema: coaching-retention
+
+  - id: FIL-DK-094
+    text: "One good story can make you a lot of money. It's better to have 10, but one good story built Kiyosaki's entire empire — Rich Dad Poor Dad is fundamentally one short story turned into 512 books."
+    source: "ACC-cd11"
+    tema: storytelling-leverage
+
+  - id: FIL-DK-095
+    text: "Pushy is good, especially for women. Pushy broads do better than non-pushy broads."
+    source: "ACC-cd11"
+    tema: sales-aggression
+
+  # L2 MODELOS MENTAIS (9)
+  - id: MM-DK-077
+    text: "The 'Kryptonite Principle': every compelling character needs a disclosed vulnerability. The hiring director who sees 'sometimes John can be difficult' chooses to interview that candidate MORE. The disclosed flaw makes you more believable."
+    source: "ACC-cd11"
+    tema: personal-branding
+
+  - id: MM-DK-078
+    text: "The 'What Are They Talking About' test: if your clients leave and form their own group, what will they talk about? If YOU are what they're all talking about, they can't replicate that elsewhere."
+    source: "ACC-cd11"
+    tema: coaching-retention
+
+  - id: MM-DK-079
+    text: "The 'Attachment Strategy': your value and career can be massively amplified by permanently attaching yourself to a famous person or brand. Mike Vance built a 30-year career off 3 years with Walt Disney."
+    source: "ACC-cd11"
+    tema: authority-positioning
+
+  - id: MM-DK-080
+    text: "The 'Enemy Magnet' principle: attacking and criticizing the status quo magnetically attracts the people you want while repelling the ones you don't."
+    source: "ACC-cd11"
+    tema: opposition-marketing
+
+  - id: MM-DK-081
+    text: "The 'As Seen On 60 Minutes' effect: after a brutal hatchet-job media hit, within a month people only remember 'Oh, we saw him on 60 Minutes.' Nobody remembers the content — they just remember you were on TV."
+    source: "ACC-cd11"
+    tema: media-leverage
+
+  - id: MM-DK-082
+    text: "The 'Edison Model': Edison's real genius wasn't invention (503 tries), it was promoting himself and raising money. He talked about robots he had no intention of building to make his current invention sexy."
+    source: "ACC-cd11"
+    tema: self-promotion
+
+  - id: MM-DK-083
+    text: "The 'Both Benefit' principle of public feuds: Trump vs. Rosie puts you on rival networks that would never otherwise promote you. He got on ABC the week before Apprentice premiered on NBC because of the Rosie feud."
+    source: "ACC-cd11"
+    tema: publicity-strategy
+
+  - id: MM-DK-084
+    text: "The 'Constituency Expansion' model: Trump at World Wrestling isn't about the wrestling crowd per se. It's reaching a constituency that might not normally pay attention, then cross-pollinating audiences."
+    source: "ACC-cd11"
+    tema: audience-expansion
+
+  - id: MM-DK-085
+    text: "The 'Amortized Extraordinary' calculation: $175K for Branson's space flight over 3-year run-up = ~$50K/year for being talked about constantly. Probably really cheap money for perpetual word-of-mouth."
+    source: "ACC-cd11"
+    tema: celebrity-roi
+
+  # L3 HEURISTICAS (11)
+  - id: HEUR-DK-107
+    text: "If they leave your coaching group and form their own, 100% of the time they eventually come back — because the free group can't replicate YOU as the attraction."
+    source: "ACC-cd11"
+    tema: coaching-retention
+
+  - id: HEUR-DK-108
+    text: "Personal disclosure of a vulnerability will resonate with a specific percentage who shares that experience. They hang around until everyone else is gone, then connect intensely — and they ALL buy. It's a lock."
+    source: "ACC-cd11"
+    tema: personal-disclosure
+
+  - id: HEUR-DK-109
+    text: "One personal disclosure story in a speech guarantees at least one deep connector per audience. Put five vulnerability stories in one speech and you've got five guaranteed buyers going in."
+    source: "ACC-cd11"
+    tema: personal-disclosure
+
+  - id: HEUR-DK-110
+    text: "Commenting on news should take no more than 15 minutes in the morning: read USA Today, pick a story, write an email opinion, send it out. Do it every day to be talked about every day."
+    source: "ACC-cd11"
+    tema: daily-marketing
+
+  - id: HEUR-DK-111
+    text: "When raising fees, just add zeros: $500 → $5,000 → $10,000. Same tapes, $49 → $490, same number of buyers. Jack Henry lost only one client when fee went from $500 to $5,000."
+    source: "ACC-cd11"
+    tema: pricing-strategy
+
+  - id: HEUR-DK-112
+    text: "There's no meaningful difference between $14.97/month and $19.97/month per coaching member — the pricing is psychological, not economic."
+    source: "ACC-cd11"
+    tema: pricing-psychology
+
+  - id: HEUR-DK-113
+    text: "Extraordinary activities and eccentricities become tax-deductible when tied to your business promotion. $175K space flight really costs ~$120K after top-bracket deduction."
+    source: "ACC-cd11"
+    tema: tax-strategy
+
+  - id: HEUR-DK-114
+    text: "A single unusual photograph (like me sitting on a bull) can be a million-dollar asset. It cost $5,000 total and generates questions from everyone at every event."
+    source: "ACC-cd11"
+    tema: personal-branding
+
+  - id: HEUR-DK-115
+    text: "Make sure that parts of what happens in every coaching program are connected to you, directly linked to you, provided by you — so there's some portion that obviously can't be replicated somewhere else."
+    source: "ACC-cd11"
+    tema: coaching-retention
+
+  - id: HEUR-DK-116
+    text: "One person connecting to your personal disclosure story can become a $50,000-$100,000 lifetime customer. The AA disclosure triggered one reader to go from a $10 book to $15,000 in 3 months."
+    source: "ACC-cd11"
+    tema: personal-disclosure
+
+  - id: HEUR-DK-117
+    text: "Average grocery store loses $500/day to internal theft — employee and delivery man theft is 5x the shoplifting number. Most owners think the problem is shoplifting; it's all internal."
+    source: "ACC-cd11"
+    tema: business-blind-spots
+
+  # L4 FRAMEWORKS (7)
+  - id: FW-DK-079
+    text: "The '10 Strategies to Be Talked About': (1) Do out-of-ordinary things, (2) Make known your eccentricities, (3) Associate with famous people, (4) Pick a public fight, (5) Perform amazing feats, (6) Comment on news, (7) Attack the status quo, (8) Be a crusader, (9) Get yourself attacked, (10) Have a scandal to talk about."
+    source: "ACC-cd11"
+    tema: celebrity-strategy
+
+  - id: FW-DK-080
+    text: "The 'Strategy of Attachment': (1) Identify a famous person/brand to attach to, (2) Embellish the connection legitimately, (3) Never try to separate — ego not in the way, (4) Make it about THEM through YOU, (5) Use it for 30+ years."
+    source: "ACC-cd11"
+    tema: authority-positioning
+
+  - id: FW-DK-081
+    text: "The 'Opposition/Enemy Marketing': (1) Identify audience's common enemy, (2) Attack them publicly and relentlessly, (3) Let enemy's constituency attack you back, (4) Larger segment that dislikes enemy gravitates to you."
+    source: "ACC-cd11"
+    tema: opposition-marketing
+
+  - id: FW-DK-082
+    text: "The 'Co-op Coaching Add-On' model (Lee Milteer's Millionaire Mindset): Pre-packaged content that attaches to other coaches' programs. Coach pays ~$36K/year, amortizes to ~$500/member across 165 members."
+    source: "ACC-cd11"
+    tema: coaching-scalability
+
+  - id: FW-DK-083
+    text: "The 'Reputation Engineering' framework: Deliberately construct what is said about you. Control the narrative with BOTH good stuff AND a calculated negative. The negative makes the positive more believable AND pre-qualifies behavior."
+    source: "ACC-cd11"
+    tema: personal-branding
+
+  - id: FW-DK-084
+    text: "The 'Challenge Feat' publicity model (Robert Allen style): Create a repeatable public challenge media can test. 'Drop me in any city with $500, no contacts — 48 hours later I'll have bought real estate.' Use it in advertising forever."
+    source: "ACC-cd11"
+    tema: publicity-strategy
+
+  - id: FW-DK-085
+    text: "The 'Jack Henry Fee Explosion': (1) Find someone with great story + underpriced service, (2) Add zeros to fee ($500→$5K), (3) Add zeros to product ($49→$490), (4) Split into Basic + Advanced (doubles fee to $10K), (5) Use story as marketing engine, (6) Use enemy/villain as emotional hook."
+    source: "ACC-cd11"
+    tema: pricing-strategy
+
+  # L5 METODOLOGIAS (5)
+  - id: MET-DK-060
+    text: "Daily 'Be Talked About' routine: (1) Read USA Today in morning, (2) Pick #1 story people will discuss, (3) Tie yourself to it with opinion/lesson, (4) Write email in 15 minutes, (5) Send to list, (6) Prefer local stories — all politics is local."
+    source: "ACC-cd11"
+    tema: daily-marketing
+
+  - id: MET-DK-061
+    text: "Personal Disclosure deployment: (1) Identify real vulnerabilities, (2) Craft each into 2-3 minute story with lesson, (3) Place strategically in speeches/books, (4) Wait — connectors hang around until everyone leaves, (5) Let them tell their version, (6) They ALL buy — it's a lock."
+    source: "ACC-cd11"
+    tema: personal-disclosure
+
+  - id: MET-DK-062
+    text: "Criticism Campaign method (J. Abraham model): (1) Pick a niche trade journal, (2) Run provocative ad: 'Who is this man and why is he saying these terrible things about [industry]?', (3) Position as champion of frustrated practitioners, (4) Repeat niche by niche."
+    source: "ACC-cd11"
+    tema: opposition-marketing
+
+  - id: MET-DK-063
+    text: "Convention 'Reverse Visibility' method: (1) Time provocative mailing 4-6 weeks before convention, (2) Make critical statements about industry, (3) Show up and work during sessions, (4) Be visible on breaks, (5) Let them find you — 'Boy, you hit it right on the nail.'"
+    source: "ACC-cd11"
+    tema: event-marketing
+
+  - id: MET-DK-064
+    text: "Pad Your Coaching Program: (1) Find co-op add-on provider, (2) They provide monthly call + CD + articles + emails, (3) You get content padding + celebrity attachment, (4) Amortize cost across members, (5) Raise monthly fee by $5 for cost-neutral, (6) Multiple attachment benefits stack."
+    source: "ACC-cd11"
+    tema: coaching-scalability
+
+  # ═══ CD12: Opposition / Cold Prospecting / Diagnostic Selling ═══
+
+  # L1 FILOSOFIAS (8)
+  - id: FIL-DK-096
+    text: "Once you awaken someone to interest in a category, you can't fence them into just you. You automatically create a customer for a lot of other people."
+    source: "ACC-cd12"
+    tema: market-reality
+
+  - id: FIL-DK-097
+    text: "Part of the business we're in is the reputation business. You have to worry about what the person does with the customers that go to them after you."
+    source: "ACC-cd12"
+    tema: reputation-management
+
+  - id: FIL-DK-098
+    text: "You have a toll position. You spend a lot of money to create and maintain that toll booth. So you got a right to collect tolls."
+    source: "ACC-cd12"
+    tema: audience-monetization
+
+  - id: FIL-DK-099
+    text: "If they're going to go off and do it anyway, I might as well be in a cooperating relationship rather than competitive, and get a piece of it or reciprocal sharing."
+    source: "ACC-cd12"
+    tema: coopetition
+
+  - id: FIL-DK-100
+    text: "People are dying to tell their story and confide in somebody who expresses genuine interest. The higher up the ladder they are, the less likely they have anybody to do that to."
+    source: "ACC-cd12"
+    tema: diagnostic-selling
+
+  - id: FIL-DK-101
+    text: "In the country of the blind, the one-eyed man is king. You don't have to know everything. You just have to know more than they do."
+    source: "ACC-cd12"
+    tema: expertise-positioning
+
+  - id: FIL-DK-102
+    text: "The opposition strategy works — just pick something to be in opposition to. Both sides continue to prosper by selling against each other."
+    source: "ACC-cd12"
+    tema: opposition-marketing
+
+  - id: FIL-DK-103
+    text: "Nobody's gonna read all the stuff you send them. That's not the point. The point is you got more stuff than anybody else's got."
+    source: "ACC-cd12"
+    tema: volume-positioning
+
+  # L2 MODELOS MENTAIS (7)
+  - id: MM-DK-086
+    text: "Finite-Infinite Money Continuum: At one end, Ron LeGrand believes no limit to customer spend. At the other, people believe every dollar to someone else is lost. Most successful operators are closer to infinite."
+    source: "ACC-cd12"
+    tema: money-philosophy
+
+  - id: MM-DK-087
+    text: "Think of getting clients cold as more of a financing problem than a marketing problem. If you're narrow enough niched with a story, cost of sales is formulaic: $5,000-$9,000 per client."
+    source: "ACC-cd12"
+    tema: client-acquisition
+
+  - id: MM-DK-088
+    text: "When selling cold, being diagnostic rather than salesy is the key. Ask a lot of questions and get people to tell you things. Essay questions, not yes-or-no."
+    source: "ACC-cd12"
+    tema: diagnostic-selling
+
+  - id: MM-DK-089
+    text: "Think of your prospect list as a farm — a real estate sales term. Carve out manageable territory, then be ever present. Be there, be there, be there, be there."
+    source: "ACC-cd12"
+    tema: cold-prospecting
+
+  - id: MM-DK-090
+    text: "A book is better than a brochure. Nothing has more assumed expert status than a book. And it doesn't have to be good — a crappy self-published book typed on a typewriter still made me half a million."
+    source: "ACC-cd12"
+    tema: credibility-tools
+
+  - id: MM-DK-091
+    text: "Every couple has a polished 'how did you meet' story. CEOs have the same with 'how did you get in this business.' They've perfected it, they're dying to tell it. That's your opening question."
+    source: "ACC-cd12"
+    tema: diagnostic-selling
+
+  - id: MM-DK-092
+    text: "When you fight an association, expect incremental punishment and retaliation. But a significant segment of their membership will resonate with you like never before."
+    source: "ACC-cd12"
+    tema: opposition-marketing
+
+  # L3 HEURISTICAS (10)
+  - id: HEUR-DK-118
+    text: "Average business book buyer at Barnes & Noble buys five books at a time, all about the same thing. When someone is 'turned on' to a category, they buy from everyone."
+    source: "ACC-cd12"
+    tema: buyer-behavior
+
+  - id: HEUR-DK-119
+    text: "Cost of sales for cold-sold coaching/consulting clients is $5,000-$9,000 per client, regardless of niche — if you're narrow enough niched and have a story, it's formulaic."
+    source: "ACC-cd12"
+    tema: client-acquisition-cost
+
+  - id: HEUR-DK-120
+    text: "When there's real likelihood of trade of dollars with a guest/partner, there has to be benefit beyond filling a time slot — either reciprocity or direct financial compensation."
+    source: "ACC-cd12"
+    tema: partnership-economics
+
+  - id: HEUR-DK-121
+    text: "If there's five top people of influence in a constituency and you want to rent one, odds are at least one will play. Not everybody is rentable but a lot of people are."
+    source: "ACC-cd12"
+    tema: celebrity-acquisition
+
+  - id: HEUR-DK-122
+    text: "77 out of 100 CEOs on a hit list picked up the phone and called to schedule a meeting when sent a letter saying they'd be interviewed for a book by a real publisher."
+    source: "ACC-cd12"
+    tema: cold-outreach
+
+  - id: HEUR-DK-123
+    text: "20-minute diagnostic interviews turn into two, three, four hour conversations without difficulty when you ask the right essay questions and genuinely listen."
+    source: "ACC-cd12"
+    tema: diagnostic-selling
+
+  - id: HEUR-DK-124
+    text: "The longer you're at it, the bigger a challenge vetting partners becomes. Every once in a while someone slips through and you have a mess to clean up."
+    source: "ACC-cd12"
+    tema: partnership-risk
+
+  - id: HEUR-DK-125
+    text: "If you ask the right questions and let clients talk long enough, they arrive at 'what can you do for me?' The client figures out his own answer and makes the sale for themselves."
+    source: "ACC-cd12"
+    tema: diagnostic-selling
+
+  - id: HEUR-DK-126
+    text: "When non-member of an association, you actually have MORE freedom to market into it — member rules about directory use and convention behavior don't apply to you."
+    source: "ACC-cd12"
+    tema: opposition-marketing
+
+  - id: HEUR-DK-127
+    text: "Most people trying to get cold clients are way too broad. The resources needed for a broad market mean you'd be so wealthy you wouldn't bother. Narrow the field so reasonable resources have impact."
+    source: "ACC-cd12"
+    tema: niche-focus
+
+  # L4 FRAMEWORKS (8)
+  - id: FW-DK-086
+    text: "Opposition Positioning Strategy: Pick something popular and position yourself as the antidote. Both 'I'm still doing it and nobody else is' AND 'I've never done it and you don't want someone who does' work equally well."
+    source: "ACC-cd12"
+    tema: opposition-marketing
+
+  - id: FW-DK-087
+    text: "Industry Survey Strategy: Survey all key players in target market. Compile results into professional report. Nearly 100% enter dialogue because they participated and want results."
+    source: "ACC-cd12"
+    tema: market-entry
+
+  - id: FW-DK-088
+    text: "Interview Strategy for Access: Get a legitimate media vehicle (book deal, magazine), approach hit list as media rather than seller. Bridge from media relationship to business relationship."
+    source: "ACC-cd12"
+    tema: cold-outreach
+
+  - id: FW-DK-089
+    text: "Rent-a-Person-of-Influence: Identify top 5 people everyone in constituency knows and admires. If you can't attach any other way, buy them — rent them. You are who you're with."
+    source: "ACC-cd12"
+    tema: authority-positioning
+
+  - id: FW-DK-090
+    text: "Cold Prospecting Trifecta: (1) Create hit list and farm relentlessly, (2) Be relentlessly persistent — daily contact until response, (3) When you get the meeting, be diagnostic not salesy."
+    source: "ACC-cd12"
+    tema: cold-prospecting
+
+  - id: FW-DK-091
+    text: "Wow-Them Packaging: Send a big box of stuff instead of a brochure. Books with post-it noted sections, CDs, testimonial letters, bobbleheads, clocks. Nobody throws out a bobblehead."
+    source: "ACC-cd12"
+    tema: sales-packaging
+
+  - id: FW-DK-092
+    text: "Guest/Partner Vetting Criteria: (1) What is their downstream business model? (2) What happens to your customer? (3) Can you impose front-end restrictions? (4) Reputational risk? (5) If comparable, is there reciprocity?"
+    source: "ACC-cd12"
+    tema: partnership-management
+
+  - id: FW-DK-093
+    text: "Toll Position Monetization: When letting someone access your audience, either (a) get reciprocal list access, (b) get paid on downstream sales, or (c) arrange equal trade. Never free access when there's trade-of-dollars risk."
+    source: "ACC-cd12"
+    tema: audience-monetization
+
+  # L5 METODOLOGIAS (6)
+  - id: MET-DK-065
+    text: "Book-as-Interview-Access: (1) Get legitimate book deal, (2) Send letter on publisher letterhead to 100 targets, (3) State you're interviewing top 20-30 and name all 100, (4) Announce first respondents get included. Result: 77% call to schedule."
+    source: "ACC-cd12"
+    tema: cold-outreach
+
+  - id: MET-DK-066
+    text: "Rent-a-Celebrity Implementation: (1) Identify person with greatest status in target market, (2) Arrive at financial arrangement, (3) Co-create visible events, (4) Make big deal of association, (5) Keep arrangement confidential, (6) Let status transfer change everything."
+    source: "ACC-cd12"
+    tema: authority-positioning
+
+  - id: MET-DK-067
+    text: "Relentless Cold Outreach: (1) Send target business card stapled to letter stapled to brochure, (2) Send it again tomorrow, (3) Send every single day without stopping, (4) Continue 90-120+ days, (5) Target calls asking how to make it stop, (6) Answer: 'A meeting.'"
+    source: "ACC-cd12"
+    tema: cold-prospecting
+
+  - id: MET-DK-068
+    text: "Diagnostic Selling Process: (1) Open with 'How did you get in this business anyway?', (2) Ask essay questions about industry changes, (3) Ask 'What drives you nuts?', (4) Direct toward your area, (5) Keep asking/listening as long as they'll talk, (6) Let them arrive at 'What can you do for me?' on their own."
+    source: "ACC-cd12"
+    tema: diagnostic-selling
+
+  - id: MET-DK-069
+    text: "Wow-Package Assembly: (1) Gather books, post-it note relevant sections for specific prospect, (2) Include CDs and media, (3) Add pile of testimonial letters, (4) Add unusual physical items (bobbleheads, clocks), (5) Put in big box, (6) Drip additional items before meeting."
+    source: "ACC-cd12"
+    tema: sales-packaging
+
+  - id: MET-DK-070
+    text: "Hit List Farming: (1) Create narrow list of ideal prospects, (2) Mail relentlessly, (3) Advertise in their publications, (4) Attend every event where they gather, (5) Be visible, (6) Contribute to their foundations/charities, (7) Speak at local chapters, (8) Be ever present until 'I've been getting your mail for five years.'"
+    source: "ACC-cd12"
+    tema: cold-prospecting
+
+# ==============================================================================
+# ACC BATCH-05: cd13-cd16 (54 elementos)
+# Temas: testimonials, fee presentation, compensation structures, application
+#        selling, supply-demand engineering, consulting documents, weekly comms
+# ==============================================================================
+
+  # L1 FILOSOFIAS (9)
+  - id: FIL-DK-104
+    text: "It's gotta be a first time ever or a last time ever — anything less is not particularly exciting. Your challenge is to figure out how everything can be a history-making event."
+    source: "ACC-cd16-track1"
+    tema: urgency-positioning
+
+  - id: FIL-DK-105
+    text: "Equity in a privately held company in which you are a minority owner is worthless unless and until the company is sold."
+    source: "ACC-cd15-track5"
+    tema: compensation-philosophy
+
+  - id: FIL-DK-106
+    text: "Talking about fee too soon kills the deal — they need deep emotional commitment to buying before you get to fee."
+    source: "ACC-cd15-track6"
+    tema: fee-presentation
+
+  - id: FIL-DK-107
+    text: "Don't prescribe based on ability to pay — the fee formula must be the same regardless of whether it's a Fortune 500 or a little guy just starting."
+    source: "ACC-cd14-track1"
+    tema: pricing-integrity
+
+  - id: FIL-DK-108
+    text: "Performance money should be gravy, not the meal — cover your time with fees. Treat performance dollars as extra that goes into a wealth account."
+    source: "ACC-cd15-track4"
+    tema: compensation-philosophy
+
+  - id: FIL-DK-109
+    text: "If you are a true gem, do not waste your energy trying to undersell yourself to the common village peddlers — take your diamond to somebody who really knows diamonds."
+    source: "ACC-cd15-track7"
+    tema: client-selection
+
+  - id: FIL-DK-110
+    text: "Nobody keeps a secret. Ever. Don't cut deals. You don't just lose the money — you lose the power, you lose the control."
+    source: "ACC-cd14-track1"
+    tema: pricing-integrity
+
+  - id: FIL-DK-111
+    text: "Committees don't write checks — committees figure out how NOT to write checks. Deal only with the person who can write the check."
+    source: "ACC-cd15-track7"
+    tema: decision-maker-access
+
+  - id: FIL-DK-112
+    text: "Environment congruence drives fee acceptance — grand piano and fountain says expensive, black and white tile from the 1950s says cheap. None of it has to do with quality of work."
+    source: "ACC-cd15-track7"
+    tema: fee-presentation
+
+  # L2 MODELOS MENTAIS (9)
+  - id: MM-DK-093
+    text: "Count the Cookies Mechanism: Only way to get paid on usage-based compensation is to control fulfillment yourself. Tie essential materials to YOUR office so client can't bypass the count."
+    source: "ACC-cd15-track4"
+    tema: compensation-control
+
+  - id: MM-DK-094
+    text: "Three Numbers for Consulting Sale: Average transaction size + gross margin + customer value (lifetime) = make anything you're selling them free via discount argument."
+    source: "ACC-cd15-track2"
+    tema: consulting-sales
+
+  - id: MM-DK-095
+    text: "Application as Dual Device: (1) Involvement — time invested = emotional commitment growing by the minute, (2) Inadequacy — self-diagnosis of gaps makes them need the program."
+    source: "ACC-cd16-track2"
+    tema: application-selling
+
+  - id: MM-DK-096
+    text: "Staged Sale Architecture: Get easy yes first (percentage above base = 100% close), then show what 30% will cost over 3 years, then convert to prepay buyout at massive discount."
+    source: "ACC-cd15-track3-4"
+    tema: fee-conversion
+
+  - id: MM-DK-097
+    text: "First Ever / Last Ever Principle: Everything must be either unprecedented or final opportunity to command attention from people who buy from you regularly."
+    source: "ACC-cd16-track1"
+    tema: urgency-positioning
+
+  - id: MM-DK-098
+    text: "Supply-Demand Letter Engineering: List 33 names against 20 seats. State you expanded 'under pressure' from 16 to 20. Mental picture of more demand than supply."
+    source: "ACC-cd16-track3"
+    tema: scarcity-engineering
+
+  - id: MM-DK-099
+    text: "Horse Buyer Psychology: Thing you wanted to sell becomes precious when someone else wants it. 'Release my seat to the waiting list' triggers retention because quitting means letting someone else have what's yours."
+    source: "ACC-cd16-track2"
+    tema: retention-psychology
+
+  - id: MM-DK-100
+    text: "Obligation Loop: 'Topics chosen based on YOUR input' — you told us what you wanted, we built it for you, now you're obligated to buy what you asked for."
+    source: "ACC-cd16-track1"
+    tema: enrollment-psychology
+
+  - id: MM-DK-101
+    text: "Monday Morning Memo Framework: 5 components that haven't changed from 1988 to present — nagging/challenging, pep talks, recognition of members, plugs (subtle to overt), topical humor."
+    source: "ACC-cd16-track5"
+    tema: retention-communication
+
+  # L3 HEURISTICAS (24)
+  - id: HEUR-DK-128
+    text: "Quote the fee and shut up. The way to quote a fee is to state it and say nothing. More often than not, you'll eventually hear 'well, let's do it.'"
+    source: "ACC-cd15-track6"
+    tema: fee-presentation
+
+  - id: HEUR-DK-129
+    text: "Mental rule: be asked about fee 3 times before answering. 27 is excessive, but 3 builds sufficient emotional commitment before price reveal."
+    source: "ACC-cd15-track6"
+    tema: fee-presentation
+
+  - id: HEUR-DK-130
+    text: "Aggravation Surcharge: Add $5,000+ to contract and disclose it face to face — 'there's $5,000 added because I think you're going to be a pain in the ass. If you're not, I may give it back.'"
+    source: "ACC-cd14-track1"
+    tema: pricing-mechanism
+
+  - id: HEUR-DK-131
+    text: "50% deposit required to confirm consulting date, balance on site. Place 5-day hold on dates pending receipt of deposit — dates go back into play if check doesn't arrive."
+    source: "ACC-cd16-track6"
+    tema: consulting-logistics
+
+  - id: HEUR-DK-132
+    text: "Never accept predetermined assignments — you prescribe, the patient doesn't walk in saying 'I want a hip replacement.' You do diagnostics and say what they need."
+    source: "ACC-cd15-track1"
+    tema: consulting-positioning
+
+  - id: HEUR-DK-133
+    text: "Always be in the strategy business, not just a do-it business. Client comes for 8-page sales letter, leaves with 48-step campaign, new lead gen system, TV infomercial, shock-and-awe box."
+    source: "ACC-cd15-track1"
+    tema: assignment-expansion
+
+  - id: HEUR-DK-134
+    text: "Written feedback is better than oral — train clients to give notes, not phone calls, not phone messages. 'I can make notes, copy and pass along.'"
+    source: "ACC-cd16-track7"
+    tema: client-management
+
+  - id: HEUR-DK-135
+    text: "Recycling is the only leverage in consulting/copywriting — dealing with the same type of client again and again. Bank of content 80% already done, sold at full price as if created from scratch."
+    source: "ACC-cd15-track2"
+    tema: consulting-leverage
+
+  - id: HEUR-DK-136
+    text: "Sell projects, not time — escape billable hours by packaging work as project deliverables with fixed fees."
+    source: "ACC-cd15-track2"
+    tema: fee-structure
+
+  - id: HEUR-DK-137
+    text: "Fees PLUS other compensation, never INSTEAD OF. Performance dollars, royalties, use fees are gravy above the base fee."
+    source: "ACC-cd15-track2"
+    tema: compensation-structure
+
+  - id: HEUR-DK-138
+    text: "Percentage above base creates adversarial relationship over time — they pay you more for less work, resentment grows. Shorter contracts or include buyout triggers."
+    source: "ACC-cd15-track3"
+    tema: compensation-risk
+
+  - id: HEUR-DK-139
+    text: "Retained ownership, multiple use: Create system for restaurants in Texas, retain rights to sell to restaurants in every other state. Now you've built a product you can bicycle across the country."
+    source: "ACC-cd15-track3"
+    tema: intellectual-property
+
+  - id: HEUR-DK-140
+    text: "Always report back on every referral — whether you take them, don't take them, or anything in between. Close the loop with the referrer every time."
+    source: "ACC-cd16-track6"
+    tema: referral-management
+
+  - id: HEUR-DK-141
+    text: "Don't start second mastermind group until waiting list equals or exceeds seat count. Don't visibly undermine your own scarcity message with a half-empty group."
+    source: "ACC-cd16-track8"
+    tema: group-management
+
+  - id: HEUR-DK-142
+    text: "For speaking engagements with audience >100, require revenue share in agreement. Must break the audience immediately when you finish — no bingo drawings or golf trophies after your speech."
+    source: "ACC-cd16-track6"
+    tema: speaking-agreements
+
+  - id: HEUR-DK-143
+    text: "The longer the percentage-above-base contract, the less likely you are to get paid without problems. Front-loaded work + diminishing involvement = growing resentment when $52K checks keep going out."
+    source: "ACC-cd15-track3"
+    tema: compensation-risk
+
+  - id: HEUR-DK-144
+    text: "Make your consulting services 'free' through the discount argument: tie fee to their transaction size, margin, or customer value. 'That's only 2.8 new customers a month — why wouldn't you do this?'"
+    source: "ACC-cd15-track1"
+    tema: fee-justification
+
+  - id: HEUR-DK-145
+    text: "Sell top-down, not bottom up — especially in corporate. Don't deal with the HR director, the safety director, any director. Deal with the CEO. Figure out how to make your argument from the top."
+    source: "ACC-cd15-track7"
+    tema: decision-maker-access
+
+  - id: HEUR-DK-146
+    text: "If client turns out to be unreasonably cheap, chastise them for it. Embarrass and shame them: 'What are you doing, turning your underwear inside out to save on laundry powder?'"
+    source: "ACC-cd15-track7"
+    tema: client-management
+
+  - id: HEUR-DK-147
+    text: "Every time somebody finds a new way to exploit the consulting contract, the contract gets bigger. New clause for every new surprise."
+    source: "ACC-cd16-track7"
+    tema: contract-evolution
+
+  - id: HEUR-DK-148
+    text: "Add resale rights restriction to every consulting contract: 'Under no circumstances is client authorized to create an information product comprised entirely or primarily of the copy provided by consultant.'"
+    source: "ACC-cd16-track7"
+    tema: intellectual-property
+
+  - id: HEUR-DK-149
+    text: "Address non-implementer guilt head-on: 'One of the best reasons to come is you haven't done anything yet. This is the place where the light bulb goes on.'"
+    source: "ACC-cd16-track4"
+    tema: enrollment-psychology
+
+  - id: HEUR-DK-150
+    text: "Value stacking trick: Describe the same deliverable in 3 different ways with 3 different values and 3 different dollar amounts. Separating items 1-5 vs 1-3 further confuses the issue."
+    source: "ACC-cd16-track4"
+    tema: value-presentation
+
+  - id: HEUR-DK-151
+    text: "Diagram your consulting process visually — little charts, little diagrams, pictorial form. Helps some people grasp stuff they wouldn't understand in copy form alone."
+    source: "ACC-cd16-track4"
+    tema: sales-presentation
+
+  # L4 FRAMEWORKS (7)
+  - id: FW-DK-094
+    text: "Five Compensation Structures Beyond Fees: (1) Percentage above base, (2) Royalties on copy/system usage, (3) Per-something measurable, (4) Use fees/licensing for work product, (5) Equity (last resort, with sale triggers and salary controls)."
+    source: "ACC-cd15-tracks3-5"
+    tema: compensation-structures
+
+  - id: FW-DK-095
+    text: "Consulting Fee Presentation Protocol: (1) Don't discuss fee too soon (3-ask rule), (2) Don't switch to salesman mode after quoting, (3) Don't be afraid of the number, (4) Quote and shut up, (5) Pre-desensitize through environment and reputation."
+    source: "ACC-cd15-tracks6-7"
+    tema: fee-presentation
+
+  - id: FW-DK-096
+    text: "Application Selling System: (1) Long application (4-46 pages), (2) Mix fill-in-the-blank + essay questions, (3) Inadequacy self-assessment grids, (4) 'Why are you a good candidate?' essay, (5) Supply-demand language, (6) Waiting list positioning, (7) Use self-disclosed gaps in closing call."
+    source: "ACC-cd16-tracks1-4"
+    tema: application-selling
+
+  - id: FW-DK-097
+    text: "Assignment Expansion Strategy: (1) Don't accept predetermined assignments, (2) Run full diagnostics, (3) Position as strategy not execution, (4) Add work products, (5) Make services 'free' via discount argument, (6) Find Mark Twain money (others do work for glory/experience)."
+    source: "ACC-cd15-track1"
+    tema: consulting-expansion
+
+  - id: FW-DK-098
+    text: "Weekly Communication System (Monday Morning Memos): (1) Nagging/challenging — are you doing what you're supposed to? (2) Pep talks, (3) Recognition of members doing right, (4) Plugs — subtle to huge and overt, (5) Topical material connecting to current news, (6) Humor."
+    source: "ACC-cd16-track5"
+    tema: retention-communication
+
+  - id: FW-DK-099
+    text: "Consulting Confirmation Protocol: (1) Confirm date/location/logistics, (2) Materials 2 weeks prior, (3) Balance check on-site, (4) 5-day hold on dates pending deposit, (5) Control paragraph on phone access — messages answered after several days, conferences require scheduling."
+    source: "ACC-cd16-tracks6-7"
+    tema: consulting-logistics
+
+  - id: FW-DK-100
+    text: "Staged Sale to Prepay Conversion: (1) Sell percentage-above-base contract (100% close), (2) Set goals and chart projected growth, (3) Show what 30% will cost over 3 years, (4) Offer prepay buyout at massive discount ($412K → $30K), (5) Arrange financing for prepay amount."
+    source: "ACC-cd15-tracks3-4"
+    tema: fee-conversion
+
+  # L5 METODOLOGIAS (5)
+  - id: MET-DK-071
+    text: "Consulting Project Pricing Method: (1) Apply standard formula regardless of client size, (2) Calculate anticipated aggravation surcharge, (3) Disclose surcharge directly — '$5K because I think you'll be a pain in the ass', (4) Offer possible refund if not a pain."
+    source: "ACC-cd14-track1"
+    tema: pricing-methodology
+
+  - id: MET-DK-072
+    text: "Three Numbers Close for Consulting: (1) Get average transaction size, (2) Get gross margin, (3) Calculate customer value — they won't know, walk them through it (orders × frequency × years), (4) Show how fee = only X new customers/month, (5) 'Free — why wouldn't you do this?'"
+    source: "ACC-cd15-track2"
+    tema: consulting-close
+
+  - id: MET-DK-073
+    text: "Application-to-Close Pipeline: (1) Send long application (4-46 pages), (2) Include involvement + inadequacy questions, (3) Include essay 'why are you a good candidate', (4) Review personally, (5) Use self-disclosed inadequacy in closing call, (6) Feed their problems back as program solution."
+    source: "ACC-cd16-tracks1-4"
+    tema: enrollment-methodology
+
+  - id: MET-DK-074
+    text: "Referral-to-Consulting Conversion: (1) Receive inquiry — DON'T quote fees/dates, (2) Have prospect fax detailed request, (3) Get 2 testimonial faxes sent from known contacts, (4) Send box of materials, (5) Schedule phone appointment, (6) By call time, prospect is presold through social proof and positioning."
+    source: "ACC-cd16-track7"
+    tema: referral-conversion
+
+  - id: MET-DK-075
+    text: "Cookie Counting Implementation: (1) Identify what's being counted (usage), (2) Tie essential fulfillment materials to YOUR office, (3) Make DVD/content REFERENCE the fulfillment packet, (4) Create login/access only you control, (5) If they bypass, users complain 'where's my packet?' — self-policing system."
+    source: "ACC-cd15-tracks4-5"
+    tema: compensation-control
+
+# ==============================================================================
+# ACC BATCH-06: Video DK_1-3 (52 elementos)
+# Temas: pricing models, PAB compensation, coaching superiority, positioning,
+#        personal brand, shortlist philosophy, choreography of sale, packaging
+#        vs credentials, obligation management, environmental control
+# ==============================================================================
+
+  # L1 FILOSOFIAS (12)
+  - id: FIL-DK-113
+    text: "Time-for-Money Prison: hourly models create an income ceiling. If you re-engineer a $1M business into $10M in one day, you should theoretically get $9M — but you can't. Must escape the suicidal premise of dollars-for-time exchange."
+    source: "ACC-video-DK_1"
+    tema: pricing-philosophy
+
+  - id: FIL-DK-114
+    text: "Coaching Superiority Doctrine: clients may be excellent at their technical specialty, but are universally inferior in common sense — which is what coaching IS. You are the superior being walking the planet."
+    source: "ACC-video-DK_1"
+    tema: coach-positioning
+
+  - id: FIL-DK-115
+    text: "Value-Price Paradox: the better the coaching outcome, the more impossible to price fairly. Both parties unsatisfied — client thinks overpaying (time exchange), consultant capped at ceiling."
+    source: "ACC-video-DK_1"
+    tema: pricing-philosophy
+
+  - id: FIL-DK-116
+    text: "Positioning = Perception Management: you are not what you are, you are what people perceive you to be. Your positioning must be reinforced strategically in every interaction."
+    source: "ACC-video-DK_2"
+    tema: positioning
+
+  - id: FIL-DK-117
+    text: "Shortlist Philosophy: you cannot be known for everything. Create a deliberate shortlist of 2-3 core competencies or attributes. Every action must strategically reinforce this shortlist — no exceptions."
+    source: "ACC-video-DK_2"
+    tema: positioning
+
+  - id: FIL-DK-118
+    text: "Past Is Irrelevant to Positioning: you can completely reinvent yourself. Dick Sutfin went from advertising copywriter in pinstripe to metaphysical guru with NY Times bestseller. Background doesn't limit positioning if commitment is total."
+    source: "ACC-video-DK_2"
+    tema: brand-reinvention
+
+  - id: FIL-DK-119
+    text: "Perception Premium: clients pay for the perception, not the actual underlying competency. Investment in positioning perception pays exponential returns."
+    source: "ACC-video-DK_2"
+    tema: positioning
+
+  - id: FIL-DK-120
+    text: "Performance Is Choreography: everything in business is optimizable performance. Requires deliberate planning, scripting, and practice. Most business owners do it randomly — you must do it intentionally."
+    source: "ACC-video-DK_3"
+    tema: performance-strategy
+
+  - id: FIL-DK-121
+    text: "Packaging > Credentials: how you present yourself matters more than what you actually have. Nido Cabane took more money out of that market than anybody else for 25 years with NO credentials — only a 3-piece suit and a great brochure."
+    source: "ACC-video-DK_3"
+    tema: packaging
+
+  - id: FIL-DK-122
+    text: "Behavior Is Silent Communication: every gesture, movement, action, detail sends signals about authority, worth, legitimacy. I've seen deals blown over a single behavioral mistake."
+    source: "ACC-video-DK_3"
+    tema: professional-conduct
+
+  - id: FIL-DK-123
+    text: "Obligation Management Is Critical: control client perception of debt/obligation to gain future favors. Goal: they feel they owe me, I don't want them obligated to them. I owe them nothing, they owe me everything."
+    source: "ACC-video-DK_3"
+    tema: obligation-strategy
+
+  - id: FIL-DK-124
+    text: "Environmental Control = Outcome Control: never allow random interactions. Random interactions = random outcomes. Designed interactions = predictable outcomes. Control all meeting conditions."
+    source: "ACC-video-DK_3"
+    tema: environment-control
+
+  # L2 MODELOS MENTAIS (10)
+  - id: MM-DK-102
+    text: "Percentage Above Base (PAB) Model: client states last year's revenue + growth rate. Baseline = last year + expected growth. Coach gets paid percentage of anything above that baseline. Decouples payment from hourly investment."
+    source: "ACC-video-DK_1"
+    tema: compensation-models
+
+  - id: MM-DK-103
+    text: "Competence-Common Sense Gap: clients are competent at their specialty but universally lack common sense about business. The arrogance requirement — running anything requires the arrogance to believe you should be running it."
+    source: "ACC-video-DK_1"
+    tema: coach-positioning
+
+  - id: MM-DK-104
+    text: "Unconscious Competence Training: tactics trained consciously become automatic — can't be unlearned. Like the man with world's longest beard asked if he sleeps with it under or outside the covers — never sleeps well again."
+    source: "ACC-video-DK_1"
+    tema: skill-development
+
+  - id: MM-DK-105
+    text: "Positioning Matrix: Axis 1 = specific competency (expertise), Axis 2 = specific personality trait. Pick the intersection where few competitors exist. That becomes your unique positioning."
+    source: "ACC-video-DK_2"
+    tema: positioning
+
+  - id: MM-DK-106
+    text: "Credibility Halo Effect: one credible achievement (NY Times bestseller) creates authority in unrelated areas. Niche authority extends beyond the niche to broader market."
+    source: "ACC-video-DK_2"
+    tema: authority-building
+
+  - id: MM-DK-107
+    text: "Lifestyle-as-Marketing: every visible choice (hair, clothes, location, social circles) must be consistent with positioning. Incongruence (three-piece suit + metaphysical expert) destroys positioning instantly."
+    source: "ACC-video-DK_2"
+    tema: positioning
+
+  - id: MM-DK-108
+    text: "Credibility Stacking Model: 4 layers — (1) Appearance/packaging, (2) Behavior/conduct, (3) Environmental control, (4) Credentials/results. Nido proved you can succeed on layers 1-2 alone for 25 years."
+    source: "ACC-video-DK_3"
+    tema: authority-building
+
+  - id: MM-DK-109
+    text: "Obligation Asymmetry: build it so client feels they owe you and you owe nothing. Mechanisms: over-deliver, remind of opportunity cost, manage gift acceptance, create sacrifice narratives."
+    source: "ACC-video-DK_3"
+    tema: obligation-strategy
+
+  - id: MM-DK-110
+    text: "Costume Principle: appearance is primary communication tool. Rules: signature costume, be overdressed, adjust contextually, consistency reinforces brand. People assume credentials from appearance alone."
+    source: "ACC-video-DK_3"
+    tema: packaging
+
+  - id: MM-DK-111
+    text: "Control Model: every variable in your control should be controlled. Plan it, script it, choreograph it. Once optimized, institutionalize across teams and locations."
+    source: "ACC-video-DK_3"
+    tema: performance-strategy
+
+  # L3 HEURISTICAS (14)
+  - id: HEUR-DK-152
+    text: "Client Math Problem: client thinks 'I make $140/hour in my business but I'm paying you $5,000/hour — something's wrong.' The hourly comparison always creates dissatisfaction."
+    source: "ACC-video-DK_1"
+    tema: pricing-psychology
+
+  - id: HEUR-DK-153
+    text: "Both Parties Unsatisfied Rule: in time-for-money exchange, client thinks they're overpaying while consultant is simultaneously underpaid. The structure guarantees mutual unhappiness."
+    source: "ACC-video-DK_1"
+    tema: pricing-psychology
+
+  - id: HEUR-DK-154
+    text: "Prestige-Cost Justification: expensive agency/restaurant = client assumes quality. Weight Watchers paid $500,000 for stick-figure drawings because the agency was prestigious. Could have been produced for $10,000."
+    source: "ACC-video-DK_1"
+    tema: pricing-psychology
+
+  - id: HEUR-DK-155
+    text: "Pocket-Picking Without Notice: train tactics to extract value unconsciously. Some things I once did consciously I now do automatically — can't be unlearned after years of training."
+    source: "ACC-video-DK_1"
+    tema: sales-tactics
+
+  - id: HEUR-DK-156
+    text: "Shortlist Rule: maximum 3 attributes per positioning. Must be memorable and distinctive. Every strategy must reinforce the shortlist — no exceptions, no deviations."
+    source: "ACC-video-DK_2"
+    tema: positioning
+
+  - id: HEUR-DK-157
+    text: "Incongruence Detector: if an action or appearance doesn't reinforce your positioning, eliminate it. Dick couldn't wear business suits — wrong positioning signal. Scan all touchpoints."
+    source: "ACC-video-DK_2"
+    tema: positioning
+
+  - id: HEUR-DK-158
+    text: "Full Commitment Test: if you can't commit to your positioning 24/7, don't choose it. Half-hearted positioning creates confusion and reduces effectiveness. Partial = worse than none."
+    source: "ACC-video-DK_2"
+    tema: positioning
+
+  - id: HEUR-DK-159
+    text: "Niche Dominance First: be #1 in specific niche before expanding. Strong positioning opens specific business doors. Weak positioning = infinite small opportunities, infinite rejection."
+    source: "ACC-video-DK_2"
+    tema: market-strategy
+
+  - id: HEUR-DK-160
+    text: "Airport Pickup Rule: always decline airport pickup. Can't control the impact, impression, environment of that first interaction. Independent arrival = first meeting on your terms."
+    source: "ACC-video-DK_3"
+    tema: environment-control
+
+  - id: HEUR-DK-161
+    text: "Tab Payment Rule: always be first to reach for wallet and pick up the tab. Says huge things about you — symbolic of authority, status, confidence, abundance."
+    source: "ACC-video-DK_3"
+    tema: professional-conduct
+
+  - id: HEUR-DK-162
+    text: "Tip Calculation Rule: 15.2% calculated mentally, never with watch calculator or device. I've seen deals blown over the observation of this one behavior. Big mistake."
+    source: "ACC-video-DK_3"
+    tema: professional-conduct
+
+  - id: HEUR-DK-163
+    text: "Gift Acceptance Protocol: accept rarely, carefully, with caveats stated. Negotiate terms, paper-trail the conversation, exempt gift from relationship. Prevent it from becoming 'the most expensive free car I ever got.'"
+    source: "ACC-video-DK_3"
+    tema: obligation-strategy
+
+  - id: HEUR-DK-164
+    text: "Overdressing Strategy: better to be overdressed than underdressed, always. Nido Cabane was overdressed everywhere he went — never seen out of a 3-piece suit. Consistency compounds positioning."
+    source: "ACC-video-DK_3"
+    tema: packaging
+
+  - id: HEUR-DK-165
+    text: "Entrance Timing Heuristic: arrive before/after VIP intentionally for maximum impact. Walk UP steps while Bush walks DOWN = handshake opportunity, photo op, shoulder pat. Wrong timing = missed forever."
+    source: "ACC-video-DK_3"
+    tema: performance-strategy
+
+  # L4 FRAMEWORKS (10)
+  - id: FW-DK-101
+    text: "Multiple Revenue Streams Framework: escape time-for-money by structuring payment beyond traditional models — percentage above base, royalties, per-something, licensing, equity. Must never be stuck in dollars-for-time box."
+    source: "ACC-video-DK_1"
+    tema: compensation-models
+
+  - id: FW-DK-102
+    text: "PAB Compensation Structure: (1) Client states last year revenue, (2) Add expected growth rate for baseline, (3) Coach gets X% of everything above baseline, (4) Decoupled from hours worked."
+    source: "ACC-video-DK_1"
+    tema: compensation-models
+
+  - id: FW-DK-103
+    text: "Brand Positioning Canvas: 5 columns — (1) What do I want to be known for? (2) What am I doing to reinforce this? (3) Where is incongruence? (4) How do I eliminate it? (5) What lifestyle changes needed?"
+    source: "ACC-video-DK_2"
+    tema: positioning
+
+  - id: FW-DK-104
+    text: "Shortlist Development Process: (1) Brainstorm all possible attributes, (2) Rank by distinctiveness vs competitors, (3) Select top 2-3 that create unique intersection, (4) Commit to reinforcing ONLY these in all communications."
+    source: "ACC-video-DK_2"
+    tema: positioning
+
+  - id: FW-DK-105
+    text: "Credibility Ladder: (1) Client testimonials within your circle, (2) Speaking at niche events, (3) Bestselling book in niche market, (4) Mainstream recognition (NY Times), (5) Authority in multiple related niches."
+    source: "ACC-video-DK_2"
+    tema: authority-building
+
+  - id: FW-DK-106
+    text: "Lifestyle Audit Framework: 6 audits — (1) Physical appearance, (2) Location choices, (3) Social circles and associations, (4) Communication style and vocabulary, (5) Pricing and exclusivity signals, (6) Time allocation. Question: does each reinforce my shortlist?"
+    source: "ACC-video-DK_2"
+    tema: positioning
+
+  - id: FW-DK-107
+    text: "Choreography of Sale Framework: (1) Entrance strategy — timing relative to others, (2) Physical positioning — sit across vs next to, (3) Handshake protocol, (4) Gift presentation — kneeling vs dropping, (5) Interaction sequencing, (6) Exit strategy."
+    source: "ACC-video-DK_3"
+    tema: sales-choreography
+
+  - id: FW-DK-108
+    text: "Appearance Management Framework: (1) Base costume — signature look worn everywhere, (2) Contextual adjustment — more formal Day 1, relax by Day 3, (3) Overdressing strategy, (4) Consistency principle — predictable brand reinforcement."
+    source: "ACC-video-DK_3"
+    tema: packaging
+
+  - id: FW-DK-109
+    text: "Financial Behavior Protocol: (1) Always reach for wallet first, (2) Pick up tabs — demonstrates value and abundance, (3) Tip 15.2% calculated mentally — never device, (4) Clarify payment expectations ahead of time."
+    source: "ACC-video-DK_3"
+    tema: professional-conduct
+
+  - id: FW-DK-110
+    text: "Obligation Architecture: (1) Over-deliver on projects (5 promised + 4 extra), (2) Remind of opportunity cost ('I set aside a $200K project'), (3) Manage gift acceptance with paper-trail, (4) Create sacrifice narratives, (5) Later remind of value delivered."
+    source: "ACC-video-DK_3"
+    tema: obligation-strategy
+
+  # L5 METODOLOGIAS (6)
+  - id: MET-DK-076
+    text: "PAB Implementation Method: (1) Establish last year revenue + growth rate = baseline, (2) Set percentage above baseline as your compensation, (3) Build shorter contracts to avoid resentment, (4) Include buyout triggers for long-term deals."
+    source: "ACC-video-DK_1"
+    tema: compensation-methodology
+
+  - id: MET-DK-077
+    text: "Positioning Reinforcement Protocol: before every public action ask 'Does this reinforce my shortlist?' Before every marketing decision, business decision, purchase — same question. No exceptions."
+    source: "ACC-video-DK_2"
+    tema: positioning
+
+  - id: MET-DK-078
+    text: "Brand Reinvention Method (Dick Sutfin Case): (1) Choose new positioning, (2) Change physical appearance completely, (3) Change location/lifestyle, (4) Build credibility in new niche, (5) Achieve bestseller/authority marker, (6) Expand from niche to mainstream."
+    source: "ACC-video-DK_2"
+    tema: brand-reinvention
+
+  - id: MET-DK-079
+    text: "Niche-to-Mainstream Expansion: (1) Identify specific niche, (2) Become #1 authority in that niche, (3) Build credibility marker (book, event), (4) Use niche authority to expand to adjacent markets, (5) Premium pricing justified by authority."
+    source: "ACC-video-DK_2"
+    tema: market-expansion
+
+  - id: MET-DK-080
+    text: "Choreography Institutionalization: (1) Design optimal choreography for each interaction type, (2) Test variables (kneeling vs dropping gift = enormous difference), (3) Optimize based on results, (4) Institutionalize across all team members and locations."
+    source: "ACC-video-DK_3"
+    tema: sales-choreography
+
+  - id: MET-DK-081
+    text: "Obligation Building Method: (1) Deliver work product, (2) Add evidence of sacrifice ('stayed up all night'), (3) Remind of opportunity cost ('set aside $200K project'), (4) After success, casually mention: 'Made $2M last year, guess I should have charged you more.' (5) Build obligation ledger asymmetrically."
+    source: "ACC-video-DK_3"
+    tema: obligation-strategy
+
+# ==============================================================================
+# ACC BATCH-07: Video DK_4-5 (33 elementos) — DK_6 CORRUPTED (bottled water doc)
+# Temas: ethics/liability, selectivity, client boundaries, pricing ladder,
+#        coaching>consulting, Summers White relationship choreography,
+#        implicit sales, network leverage, annual event strategy
+# ==============================================================================
+
+  # L1 FILOSOFIAS (7)
+  - id: FIL-DK-125
+    text: "Selectivity Is Primary Liability Defense: this business is fraught with risk, fraught with liability. Who you work with matters more than contracts. Control who you deal with from the very beginning."
+    source: "ACC-video-DK_4"
+    tema: risk-management
+
+  - id: FIL-DK-126
+    text: "Lawyer Red Flag Rule: as soon as they want their lawyer to look at the contract, I don't want it. Signals a person of influence in their life who profits by getting them to sue."
+    source: "ACC-video-DK_4"
+    tema: client-screening
+
+  - id: FIL-DK-127
+    text: "Client Relationship Boundaries: never date or sleep with clients, family members, or employees. Turn it down no matter how generously, freely, liberally offered. Can never, ever work out well."
+    source: "ACC-video-DK_4"
+    tema: professional-ethics
+
+  - id: FIL-DK-128
+    text: "Don't Drink With Clients: I drank heavily and with clients — not a smart thing. Reduces judgment, increases risky decisions. Go drink someplace else."
+    source: "ACC-video-DK_4"
+    tema: professional-ethics
+
+  - id: FIL-DK-129
+    text: "Coaching Superiority Over Consulting: coaching creates accountability and faster results. Consulting ends with report delivery — client may never implement. Coaching ensures implementation, creates recurring revenue, deeper relationships."
+    source: "ACC-video-DK_4"
+    tema: business-model
+
+  - id: FIL-DK-130
+    text: "Relationship Choreography Over Sales: don't sell harder or advertise more. Engineer situations where your value is obvious and people realize they need you. Choreograph, don't pitch."
+    source: "ACC-video-DK_5"
+    tema: relationship-strategy
+
+  - id: FIL-DK-131
+    text: "Implicit Sales > Explicit Sales: highest-level positioning happens through orchestration, not pitching. Explicit pitch creates resistance and commoditizes. The situation itself should do the selling."
+    source: "ACC-video-DK_5"
+    tema: sales-philosophy
+
+  # L2 MODELOS MENTAIS (7)
+  - id: MM-DK-112
+    text: "47 Ideas Paradox: give them 47 good things to do, they've only gotten to #12. Still give them the 48th, 49th, 50th. Don't stop delivering ideas just because they haven't implemented the first batch."
+    source: "ACC-video-DK_4"
+    tema: coaching-delivery
+
+  - id: MM-DK-113
+    text: "Product vs Manual Labor Tension: being perceived as guru requires constant work, but products scale without personal time. Solution: use products ($19.95 books) to build funnel, coaching ($10K-$200K) for premium revenue."
+    source: "ACC-video-DK_4"
+    tema: business-model
+
+  - id: MM-DK-114
+    text: "Contract as Shield Not Weapon: contracts reduce ambiguity and protect both sides. Must include disclaimer language — clients misinterpret advice, hear what they want to hear, experience adverse results not caused by coaching."
+    source: "ACC-video-DK_4"
+    tema: legal-protection
+
+  - id: MM-DK-115
+    text: "Center-of-Relationships Model (Summers White): position yourself as essential connector/hub. By introducing people together, you become the central node. Both parties feel obligated to YOU, not to each other."
+    source: "ACC-video-DK_5"
+    tema: relationship-strategy
+
+  - id: MM-DK-116
+    text: "Three-Layer Strategic Selection: (1) Pick people you can hook together — creates obligation, (2) Pick people who make you look good by what they say — social proof, (3) Pick people you want as clients but will never overtly suggest it — covert acquisition."
+    source: "ACC-video-DK_5"
+    tema: network-strategy
+
+  - id: MM-DK-117
+    text: "Network as Competitive Advantage: harder to replicate than credentials, takes 15+ years to build, creates switching costs, compounds over time. Each year the annual dinner becomes more valuable."
+    source: "ACC-video-DK_5"
+    tema: competitive-moat
+
+  - id: MM-DK-118
+    text: "Visibility Multiplier Effect: being seen at right venue with right people compounds positioning. Hotel lobby march-through — guests in gowns/tuxedos visible to convention attendees creates FOMO and social proof."
+    source: "ACC-video-DK_5"
+    tema: positioning
+
+  # L3 HEURISTICAS (10)
+  - id: HEUR-DK-166
+    text: "Sustainable Portfolio Rule: 23 clients is sustainable portfolio size. Maximum overlap at 34 people when managing full client load. High-value relationships last 15-20 years."
+    source: "ACC-video-DK_4"
+    tema: practice-management
+
+  - id: HEUR-DK-167
+    text: "Free Work Reciprocity Limit: OK to have clients work free (panels, guest spots) but NOT 5+ nights in a row. Don't have them run breakout sessions for free while they miss the main session they paid for."
+    source: "ACC-video-DK_4"
+    tema: professional-ethics
+
+  - id: HEUR-DK-168
+    text: "Don't Use Client as Therapist: do not use client's shoulder to tell YOUR stories to. Keep professional boundary — they're paying for your guidance, not to be your emotional support."
+    source: "ACC-video-DK_4"
+    tema: professional-ethics
+
+  - id: HEUR-DK-169
+    text: "Eliminate Problems Immediately: don't let small issues escalate. Opt out as soon as you see red flags. Better to decline upfront than defend litigation later."
+    source: "ACC-video-DK_4"
+    tema: risk-management
+
+  - id: HEUR-DK-170
+    text: "Results Over Credentials: package what you've DONE (case studies, outcomes), not what you've LEARNED (degrees, certifications). '47 clients increased revenue 34% in 12 months' beats 'MBA from Harvard.'"
+    source: "ACC-video-DK_4"
+    tema: positioning
+
+  - id: HEUR-DK-171
+    text: "Annual Event Strategy (Summers White): 15-year practice of annual invitation-only formal dinner. Rarity creates anticipation. Not monthly — that signals desperation. Annual = tradition, institution, aspiration."
+    source: "ACC-video-DK_5"
+    tema: event-strategy
+
+  - id: HEUR-DK-172
+    text: "Formal Dress Code Positioning: ladies in gowns, gentlemen in tuxedos. Creates psychological distinction from casual networking. Elevates perceived importance. Makes attendees feel special."
+    source: "ACC-video-DK_5"
+    tema: positioning
+
+  - id: HEUR-DK-173
+    text: "No Explicit Pitch Rule (Summers): never overtly suggest they should be clients. The situation itself does the selling. Explicit pitch creates resistance, puts prospect in defensive mindset, commoditizes the service."
+    source: "ACC-video-DK_5"
+    tema: sales-strategy
+
+  - id: HEUR-DK-174
+    text: "Connector Positioning: valuable not for expertise alone but for network and connections. Introducing two people makes both obligated to you. Both think: 'If he can do this for me, imagine what he could do as my consultant.'"
+    source: "ACC-video-DK_5"
+    tema: relationship-strategy
+
+  - id: HEUR-DK-175
+    text: "Convention Timing Heuristic: night before convention = speakers arriving, checking in, vulnerable, looking for connection. Maximum receptivity. 250-300 people = large enough to feel important, small enough to feel exclusive."
+    source: "ACC-video-DK_5"
+    tema: event-strategy
+
+  # L4 FRAMEWORKS (6)
+  - id: FW-DK-111
+    text: "Selectivity Screening Framework: (1) Check for lawyer involvement — decline immediately, (2) Assess litigation mindset, (3) Evaluate relationship boundaries capacity, (4) Control who you deal with upfront, (5) Eliminate problems as soon as you see them."
+    source: "ACC-video-DK_4"
+    tema: risk-management
+
+  - id: FW-DK-112
+    text: "Pricing Ladder (7 Levels): $19.95 entry book → $35 seminar → $100 consultation → $500 package → $10K premium coaching → $50K transformation → $200K enterprise relationship (15-20 year duration)."
+    source: "ACC-video-DK_4"
+    tema: pricing-architecture
+
+  - id: FW-DK-113
+    text: "Client Ethics Protocol: (1) Never date clients/family/employees, (2) Never drink with clients, (3) Never use as therapist, (4) Never take unfair advantage of time/generosity, (5) Balance reciprocity in all relationships."
+    source: "ACC-video-DK_4"
+    tema: professional-ethics
+
+  - id: FW-DK-114
+    text: "Summers White Dinner Framework: (1) Annual invitation-only formal dinner, (2) Night before industry convention, (3) 250-300 strategically selected guests, (4) Strategic introductions throughout evening, (5) Never pitch consulting, (6) Let obligation build naturally over 15+ years."
+    source: "ACC-video-DK_5"
+    tema: relationship-strategy
+
+  - id: FW-DK-115
+    text: "Multi-Level Positioning Strategy: Level 1 — prospect awareness at exclusive event. Level 2 — relationship through trusted introduction. Level 3 — implicit value demonstration (network, access). Level 4 — consultation entry (pre-sold on positioning, value, scarcity, capability)."
+    source: "ACC-video-DK_5"
+    tema: positioning
+
+  - id: FW-DK-116
+    text: "Implicit Sales Mechanism: (1) Invitation creates scarcity/desire, (2) Attendance shows premium environment, (3) Introduction creates obligation, (4) Observation raises authority perception, (5) Natural outcome: prospect approaches you without being pitched."
+    source: "ACC-video-DK_5"
+    tema: sales-strategy
+
+  # L5 METODOLOGIAS (3)
+  - id: MET-DK-082
+    text: "Liability Prevention Method: (1) Screen clients through selectivity criteria, (2) Use contracts with explicit disclaimers, (3) Decline at first lawyer red flag, (4) Maintain professional boundaries (no dating, drinking, therapy), (5) Eliminate problems early — never let them escalate."
+    source: "ACC-video-DK_4"
+    tema: risk-management
+
+  - id: MET-DK-083
+    text: "Relationship Choreography Implementation (Summers White): (1) Create annual exclusive event with formal setting, (2) Select guests on 3 layers (obligation + social proof + covert acquisition), (3) Engineer strategic introductions throughout, (4) Never pitch, (5) Let 15 years of consistency compound network value."
+    source: "ACC-video-DK_5"
+    tema: relationship-strategy
+
+  - id: MET-DK-084
+    text: "Network Leverage Method: (1) Become hub of valuable relationships in niche, (2) Create switching costs through deep connections, (3) Use network access as value proposition beyond expertise, (4) Scale by being more valuable connector — not more work."
+    source: "ACC-video-DK_5"
+    tema: network-strategy
+
+# ==============================================================================
+# ACC BATCH-08: Video DK_7-9 (72 elementos)
+# Temas: telecoaching architecture, community-first coaching, leveraged coaching model,
+#        intentional reputation construction, strategy of attachment, toll position,
+#        opposition strategy, cold prospecting, direct response vs brand,
+#        value-based pricing, compelling > pretty, diagnostic selling
+# ==============================================================================
+
+  # L1 FILOSOFIAS (19)
+  - id: FIL-DK-132
+    text: "Community > Content in Coaching: what Gold Plus members really want to do is get to know other Gold Plus members. The real value of a coaching program is the community and network, not just the content delivered."
+    source: "ACC-video-DK_7"
+    tema: coaching-delivery
+
+  - id: FIL-DK-133
+    text: "Accountability Drives Coaching Results: the combination of individual accountability and group accountability is what really drives the results. Not teaching, not content — accountability."
+    source: "ACC-video-DK_7"
+    tema: coaching-delivery
+
+  - id: FIL-DK-134
+    text: "You Can't Manage What You Don't Measure: if someone doesn't know what the key metrics are in their business, they're flying blind. They don't know whether they're making progress or not."
+    source: "ACC-video-DK_7"
+    tema: business-metrics
+
+  - id: FIL-DK-135
+    text: "Good Coaching = Reality-Based Planning: a bad coach says 'you need to do this, this, and this.' A good coach sits down and understands the business and comes up with a plan based on the reality of the business."
+    source: "ACC-video-DK_7"
+    tema: coaching-delivery
+
+  - id: FIL-DK-136
+    text: "Leverage Through System Not Labor: we don't spend a lot of time on the program but the value we provide is tremendous. The system delivers the value, not our hours."
+    source: "ACC-video-DK_7"
+    tema: business-model
+
+  - id: FIL-DK-137
+    text: "Intentional Reputation Construction: I deliberately manage my reputation as 'difficult to work with' to increase perceived value. Reputation is a tool you build on purpose."
+    source: "ACC-video-DK_8"
+    tema: positioning
+
+  - id: FIL-DK-138
+    text: "Personal Disclosure as Weapon: revealing flaws (bankruptcy, drinking, stuttering) makes you relatable and sympathetic. Hiring directors prefer candidates who disclose flaws upfront."
+    source: "ACC-video-DK_8"
+    tema: positioning
+
+  - id: FIL-DK-139
+    text: "Superman Needs Kryptonite: every powerful figure needs a disclosed weakness to be human and trusted. Without vulnerability, authority creates distance instead of connection."
+    source: "ACC-video-DK_8"
+    tema: personal-branding
+
+  - id: FIL-DK-140
+    text: "Strategy of Attachment: attach yourself to famous/credible people to borrow their status and credibility. Mike Vance/Disney, Foster Hibbard/Napoleon Hill, Trump/Kiyosaki — same pattern."
+    source: "ACC-video-DK_8"
+    tema: positioning
+
+  - id: FIL-DK-141
+    text: "Toll Position Philosophy: position yourself as the gatekeeper through whom all must pass, then charge toll. Harvey Brody's toll booth language — you want access, you pay me."
+    source: "ACC-video-DK_8"
+    tema: business-model
+
+  - id: FIL-DK-142
+    text: "Opposition Strategy: having a named enemy in your market accelerates your positioning. Ben Altadana vs Chris Tomshack in chiropractic, Craig Ford vs Craig Proctor in real estate."
+    source: "ACC-video-DK_8"
+    tema: competitive-strategy
+
+  - id: FIL-DK-143
+    text: "Fighting Industry Associations Increases Credibility: being expelled or opposed by the establishment INCREASES your credibility with rebels and doers. NSA expelled me — best thing that happened."
+    source: "ACC-video-DK_8"
+    tema: positioning
+
+  - id: FIL-DK-144
+    text: "Place Yourself in Center: be the connector, the hub, the node through which all relationships flow. The center position makes you indispensable."
+    source: "ACC-video-DK_8"
+    tema: network-strategy
+
+  - id: FIL-DK-145
+    text: "Compelling > Pretty: pretty doesn't convert. Compelling converts. Pretty is for brand advertising. Direct response needs to be compelling, get attention. It doesn't need to be pretty."
+    source: "ACC-video-DK_9"
+    tema: marketing-philosophy
+
+  - id: FIL-DK-146
+    text: "Your Pricing Is a Value Statement: the market looks at your price and says 'if they're charging that much, it must be really good.' Pricing too low damages your brand and perception of value."
+    source: "ACC-video-DK_9"
+    tema: pricing-psychology
+
+  - id: FIL-DK-147
+    text: "Cost-Plus Markup Is Wrong: customers don't care about your costs. They care about value. Cost plus markup will often leave you with prices that are too low — 70-80% of the time."
+    source: "ACC-video-DK_9"
+    tema: pricing-psychology
+
+  - id: FIL-DK-148
+    text: "Charging Less Than You're Worth Is Unethical: you're cheating yourself. You're not getting paid for the value you're creating. It's unethical to undercharge."
+    source: "ACC-video-DK_9"
+    tema: pricing-psychology
+
+  - id: FIL-DK-149
+    text: "Marketing Is About What Works Not What You Like: 'I don't like it' — tough. 'It doesn't feel natural' — tough. You're in the business of getting customers, not being comfortable."
+    source: "ACC-video-DK_9"
+    tema: marketing-philosophy
+
+  - id: FIL-DK-150
+    text: "Trade Volume for Margin: fewer clients at higher prices = better business. Service businesses can't increase volume infinitely. Higher margin with fewer clients wins."
+    source: "ACC-video-DK_9"
+    tema: business-model
+
+  # L2 MODELOS MENTAIS (16)
+  - id: MM-DK-119
+    text: "Telecoaching Leverage Model: 460 members × $240/month = $110K+/month with one group call per month and minimal time per member. Highly leveraged, highly profitable."
+    source: "ACC-video-DK_7"
+    tema: business-model
+
+  - id: MM-DK-120
+    text: "Community-First Coaching Model: partner directory + annual gatherings + networking intros create value beyond content. Members pay for community access, not just expertise."
+    source: "ACC-video-DK_7"
+    tema: coaching-delivery
+
+  - id: MM-DK-121
+    text: "Dual Accountability System: individual accountability (one-on-one check-ins) + group accountability (peer metric sharing and reporting) as dual retention and results driver."
+    source: "ACC-video-DK_7"
+    tema: coaching-delivery
+
+  - id: MM-DK-122
+    text: "Letter of Regret: sales letter positioned as 'what you're missing' rather than 'what you could have.' Frame the offer around loss, not gain."
+    source: "ACC-video-DK_7"
+    tema: copywriting
+
+  - id: MM-DK-123
+    text: "Activities vs Results Audit: coach must separate needle-moving activities from busywork. People are very busy doing lots of things that aren't actually moving the needle."
+    source: "ACC-video-DK_7"
+    tema: coaching-delivery
+
+  - id: MM-DK-124
+    text: "Intentional Flaw Disclosure Model: hiring directors prefer candidates who disclose flaws upfront (Sharon Stone/Jeff Bridges study). Applied to positioning: reveal weakness before competitor does."
+    source: "ACC-video-DK_8"
+    tema: positioning
+
+  - id: MM-DK-125
+    text: "Attachment Multiplier: attach to big names to multiply credibility exponentially. Mike Vance attached to Disney. Foster Hibbard attached to Napoleon Hill. Mark Victor Hansen attached to Art Linkletter."
+    source: "ACC-video-DK_8"
+    tema: positioning
+
+  - id: MM-DK-126
+    text: "Toll Position Economics: Harvey Brody's toll booth — position yourself so everyone has to pay to pass through you. Access to your network, your platform, your audience has a price."
+    source: "ACC-video-DK_8"
+    tema: business-model
+
+  - id: MM-DK-127
+    text: "Coaching Co-op Model: Lee's Millionaire Mindset — pool resources across group members, share coaching access. Cooperative structure reduces individual cost while maintaining quality."
+    source: "ACC-video-DK_8"
+    tema: business-model
+
+  - id: MM-DK-128
+    text: "Reciprocity vs Competition: other coaches are allies for reciprocity, not competitors. Promote them to your list, they promote you to theirs. Rising tide lifts all boats."
+    source: "ACC-video-DK_8"
+    tema: competitive-strategy
+
+  - id: MM-DK-129
+    text: "Industry Survey as Entry Strategy: Dottie Walters approach — use industry survey as mechanism to get face time with decision makers who would never take a sales call."
+    source: "ACC-video-DK_8"
+    tema: prospecting
+
+  - id: MM-DK-130
+    text: "Interview as Entry: 77 out of 100 CEOs respond to book interview request. Use media or book project as legitimate pretext for building relationship with unreachable prospects."
+    source: "ACC-video-DK_8"
+    tema: prospecting
+
+  - id: MM-DK-131
+    text: "Memorable > Pretty Mail: bobbleheads, pink pen handwritten notes, books with post-it notes beat pretty two-pocket press kits every time. He gets 20 identical pretty ones per week."
+    source: "ACC-video-DK_9"
+    tema: direct-mail
+
+  - id: MM-DK-132
+    text: "Infomercial Interweave Model: good infomercial is 30 minutes where viewer doesn't realize it's a commercial — interweaves sales, entertainment, testimonials throughout. Bad one separates entertainment from pitch."
+    source: "ACC-video-DK_9"
+    tema: advertising
+
+  - id: MM-DK-133
+    text: "Price as Quality Signal: market interprets price as indicator of value. Low price = 'must not be that good.' Premium price = 'must be really good.' Pricing is perception management."
+    source: "ACC-video-DK_9"
+    tema: pricing-psychology
+
+  - id: MM-DK-134
+    text: "Volume vs Margin Trade: service businesses can't increase volume infinitely — limited by time and capacity. Trading volume for margin is the smart trade when capacity-constrained."
+    source: "ACC-video-DK_9"
+    tema: business-model
+
+  # L3 HEURISTICAS (21)
+  - id: HEUR-DK-176
+    text: "Telecoaching must send recording of calls to members — mandatory for retention. 'You must do that. If not, you're going to have a lot of dropout.'"
+    source: "ACC-video-DK_7"
+    tema: coaching-operations
+
+  - id: HEUR-DK-177
+    text: "Telecoaching pricing sweet spot: $240/month for group + one-on-one combination. 460 members = $110K+/month revenue."
+    source: "ACC-video-DK_7"
+    tema: pricing
+
+  - id: HEUR-DK-178
+    text: "Monthly fee as quality filter: pricing filters out tire kickers. People in the program are serious about growing their business and willing to invest in themselves."
+    source: "ACC-video-DK_7"
+    tema: pricing-psychology
+
+  - id: HEUR-DK-179
+    text: "Partner directory with lock/remove capability is mandatory for coaching community. Members want to find and connect with each other — directory enables this."
+    source: "ACC-video-DK_7"
+    tema: coaching-operations
+
+  - id: HEUR-DK-180
+    text: "Competitive element drives coaching results: share metrics among members and let them rank themselves. People are competitive by nature — use it to motivate performance."
+    source: "ACC-video-DK_7"
+    tema: coaching-delivery
+
+  - id: HEUR-DK-181
+    text: "Menu of services in coaching: let clients choose from options (group call, one-on-one, both). Flexibility and customization increase retention and satisfaction."
+    source: "ACC-video-DK_7"
+    tema: coaching-operations
+
+  - id: HEUR-DK-182
+    text: "Fee raising is progressive: Jack Henry went from $500 to $5,000 (10x) over career as expertise compounded. Tapes from $49 to $490 as consulting fee rose."
+    source: "ACC-video-DK_8"
+    tema: pricing
+
+  - id: HEUR-DK-183
+    text: "Product pricing follows consulting fee: when Jack Henry's fee hit $5,000, his tapes went from $49 to $490. Ancillary products price proportionally to core service."
+    source: "ACC-video-DK_8"
+    tema: pricing
+
+  - id: HEUR-DK-184
+    text: "Guest speaker criteria for your platform: must provide value to YOUR list while giving YOU toll position credit. You curate, they deliver, you get positioned as gatekeeper."
+    source: "ACC-video-DK_8"
+    tema: platform-strategy
+
+  - id: HEUR-DK-185
+    text: "Niche is mandatory for cold prospecting: cost of sale is $5K-$9K per client without niche focus. With niche, cost drops dramatically through specialization and reputation."
+    source: "ACC-video-DK_8"
+    tema: prospecting
+
+  - id: HEUR-DK-186
+    text: "Hit list farming (David Ogilvy): identify 100 target companies, be relentlessly present. Farm the list — don't spray and pray."
+    source: "ACC-video-DK_8"
+    tema: prospecting
+
+  - id: HEUR-DK-187
+    text: "Cold selling requires 90+ days of relentless presence: Steve's pizza oven story — 93+ days of daily business card visits before first sale. Persistence is the strategy."
+    source: "ACC-video-DK_8"
+    tema: prospecting
+
+  - id: HEUR-DK-188
+    text: "Diagnostic selling: ask essay questions, not yes/no. 'How did you get in this business?' opens them up. Listen extensively, build diagnosis from their words, present solution in their language."
+    source: "ACC-video-DK_8"
+    tema: sales-methodology
+
+  - id: HEUR-DK-189
+    text: "Wow them with materials: send bobbleheads, books with post-it notes on relevant sections, clocks, unusual items. NOT press kits. Nobody throws out a bobblehead of a guy on a bull."
+    source: "ACC-video-DK_8"
+    tema: direct-mail
+
+  - id: HEUR-DK-190
+    text: "77/100 CEO response rate: interview request for book gets 77% response from top executives. Media is a legitimate entry mechanism that bypasses gatekeepers."
+    source: "ACC-video-DK_8"
+    tema: prospecting
+
+  - id: HEUR-DK-191
+    text: "Fine point pink pen on faxes and printed materials: handwritten hot pink notes get attention and response. Everyone else sends printed — you write on it in color."
+    source: "ACC-video-DK_9"
+    tema: direct-mail
+
+  - id: HEUR-DK-192
+    text: "Send items nobody else sends: bobbleheads, clocks, unusual gifts. 'They ain't chucking them.' Kids get them, they sit on office shelves — you stay top of mind."
+    source: "ACC-video-DK_9"
+    tema: direct-mail
+
+  - id: HEUR-DK-193
+    text: "Infomercial golden rule: 30 minutes where viewer doesn't realize it's a commercial. Interweave testimonials, benefits, demonstration throughout. Don't separate entertainment from pitch."
+    source: "ACC-video-DK_9"
+    tema: advertising
+
+  - id: HEUR-DK-194
+    text: "Most people price 20-30% too low: 'If you're pricing at what you think is the right price, you're probably pricing too low.' Try raising prices — often zero customer loss."
+    source: "ACC-video-DK_9"
+    tema: pricing
+
+  - id: HEUR-DK-195
+    text: "Drip on media contacts 12+ months before ask: DK started sending stuff to magazine interviewer a year before the interview was booked. Never asked for anything — just dripped."
+    source: "ACC-video-DK_9"
+    tema: media-relations
+
+  - id: HEUR-DK-196
+    text: "Cost of client acquisition $5K-$9K without system: must be systematic and niche-focused to reduce. Random prospecting is expensive and inefficient."
+    source: "ACC-video-DK_9"
+    tema: economics
+
+  # L4 FRAMEWORKS (10)
+  - id: FW-DK-117
+    text: "Gold Plus Telecoaching Architecture: (1) One-on-one deep business analysis, (2) Monthly group calls with guest experts, (3) Annual gathering for networking, (4) Partner directory with lock/remove, (5) Training program value-add, (6) Support team for logistics, (7) Awards program for top performers, (8) Recording/CD of every call."
+    source: "ACC-video-DK_7"
+    tema: coaching-architecture
+
+  - id: FW-DK-118
+    text: "Coaching Prospect Pipeline: unaware prospect → aware prospect → interested prospect → lead → customer → retained customer → referred customer. Highest price at highest intimacy level (Gold Plus)."
+    source: "ACC-video-DK_7"
+    tema: funnel-design
+
+  - id: FW-DK-119
+    text: "Leveraged Coaching Business Model: high membership × low time investment = high profit margins. 460 members at $240/mo with one group call/month and minimal admin. System delivers value, not hours."
+    source: "ACC-video-DK_7"
+    tema: business-model
+
+  - id: FW-DK-120
+    text: "Strategy of Attachment Framework: (1) Identify big name in/adjacent to your space, (2) Create legitimate reason for association (interview, event, endorsement), (3) Do joint content, (4) Borrow credibility through proximity and repetition."
+    source: "ACC-video-DK_8"
+    tema: positioning
+
+  - id: FW-DK-121
+    text: "Opposition Strategy Framework: (1) Identify established competitor or association, (2) Take contrarian position publicly, (3) Let their attack on you validate your relevance, (4) Attract rebels who disagree with establishment. Being expelled = best marketing."
+    source: "ACC-video-DK_8"
+    tema: competitive-strategy
+
+  - id: FW-DK-122
+    text: "Cold Prospecting via Interview: (1) Identify niche, (2) Create book or media project, (3) Request interviews with 100 targets, (4) 77% respond, (5) Convert interviews into consulting relationships through demonstrated expertise."
+    source: "ACC-video-DK_8"
+    tema: prospecting
+
+  - id: FW-DK-123
+    text: "Hit List Farming Framework: (1) Pick 100 target companies (Ogilvy method), (2) Send unusual items regularly, (3) Be relentlessly present for 90+ days, (4) Don't ask for anything initially, (5) Wait for familiarity to convert, (6) Farm patiently — don't hunt."
+    source: "ACC-video-DK_8"
+    tema: prospecting
+
+  - id: FW-DK-124
+    text: "5 Marketing Requirements: every marketing campaign MUST be (1) Profitable, (2) Testable and Measurable, (3) Understandable, (4) Predictable after optimization, (5) Duplicable — repeatable by others with similar results."
+    source: "ACC-video-DK_9"
+    tema: marketing-strategy
+
+  - id: FW-DK-125
+    text: "Value-Based Pricing Framework: (1) Identify value to customer (money made/saved or pain relieved), (2) Price as fraction of that value, (3) Ensure costs covered but don't use cost-plus, (4) Accept losing wrong customers, (5) Attract right customers who see value."
+    source: "ACC-video-DK_9"
+    tema: pricing
+
+  - id: FW-DK-126
+    text: "Direct Response vs Brand Marketing: direct response = compelling, ugly, high-conversion; brand = pretty, prestigious, low-conversion. Consultant/coach business MUST use direct response. Test media against 5 requirements."
+    source: "ACC-video-DK_9"
+    tema: marketing-strategy
+
+  # L5 METODOLOGIAS (6)
+  - id: MET-DK-085
+    text: "Gold Plus Onboarding Method: (1) Deep business analysis via one-on-one call, (2) Identify problems and opportunities, (3) Create simple reality-based plan (not complicated), (4) Identify key metrics to track, (5) Establish accountability rhythms (individual + group)."
+    source: "ACC-video-DK_7"
+    tema: coaching-operations
+
+  - id: MET-DK-086
+    text: "Coaching Community Building Method: (1) Create partner directory of all members, (2) Host annual gathering for networking, (3) Add networking intro segments at events, (4) Facilitate member-to-member connections, (5) Remove departed members from directory (lock feature)."
+    source: "ACC-video-DK_7"
+    tema: coaching-operations
+
+  - id: MET-DK-087
+    text: "Rent-a-Person-of-Influence Method: (1) Identify person of influence (Nido Qubein, Gorbachev), (2) Negotiate rental arrangement, (3) Use their name and presence for your event or offer, (4) Extract toll from attendees and clients who want access."
+    source: "ACC-video-DK_8"
+    tema: positioning
+
+  - id: MET-DK-088
+    text: "Diagnostic Cold Selling Method: (1) Ask essay questions not yes/no, (2) 'How did you get in this business?' as opener, (3) Listen extensively, (4) Build diagnosis from their words, (5) Present solution based on their language, (6) Be patient — cold selling takes 90+ days."
+    source: "ACC-video-DK_8"
+    tema: sales-methodology
+
+  - id: MET-DK-089
+    text: "Media Drip Prospecting Method: (1) Identify media target, (2) Start sending unusual items 12 months before, (3) Never ask for anything, (4) Send books with post-it notes on relevant sections, (5) Send bobbleheads/clocks/unusual items, (6) Intensify drip when interview booked, (7) Stand out from 20 identical press kits per week."
+    source: "ACC-video-DK_9"
+    tema: media-relations
+
+  - id: MET-DK-090
+    text: "Marketing Media Selection Method: (1) List all potential media for your market, (2) Test each against 5 requirements (profitable, testable, measurable, understandable, predictable, duplicable), (3) Focus on ones that pass all 5, (4) Use them repeatedly, (5) Stop using ones that fail regardless of personal preference."
+    source: "ACC-video-DK_9"
+    tema: marketing-strategy
+
+# ==============================================================================
+# ACC BATCH-09: Video DK_10-11 (84 elementos)
+# Temas: coaching payment models, getting paid more, exclusivity pricing,
+#        consulting compensation stack, IP protection, ascension ladder,
+#        fee presentation, application-as-sales-tool, supply-demand positioning,
+#        weekly memo system, client management, consulting protocols
+# ==============================================================================
+
+  # L1 FILOSOFIAS (18)
+  - id: FIL-DK-151
+    text: "No Single Best Model: the best coaching delivery model depends on the specific person, market, circumstances, time and place. There is no universal best — context is everything."
+    source: "ACC-video-DK_10"
+    tema: coaching-delivery
+
+  - id: FIL-DK-152
+    text: "5-15-80 Rule in Coaching: 5% are stars, 15% do well, 80% underperform. This distribution is universal and predictable. Don't fight it — design for it."
+    source: "ACC-video-DK_10"
+    tema: coaching-economics
+
+  - id: FIL-DK-153
+    text: "Investment in Self-Education as Success Indicator: Pete Fernandez 'I want one of everything' — the people who invest the most in learning are the most likely to succeed. Watch what they buy, not what they say."
+    source: "ACC-video-DK_10"
+    tema: client-screening
+
+  - id: FIL-DK-154
+    text: "Outrace Copycats Rather Than Litigate: IP theft is inevitable in coaching. Cease and desist first, but outpacing them with speed and volume is the real defense."
+    source: "ACC-video-DK_10"
+    tema: intellectual-property
+
+  - id: FIL-DK-155
+    text: "Never Accept Predetermined Assignments in Consulting: always expand the scope beyond what they hired you for. Strategy plus do-it work. They came for X but they need X, Y, and Z."
+    source: "ACC-video-DK_10"
+    tema: consulting-strategy
+
+  - id: FIL-DK-156
+    text: "Make Your Fee Disappear Via Math: show how improvement in transaction size, gross margin, or customer value makes your fee invisible. The fee pays for itself — it's 'free.'"
+    source: "ACC-video-DK_10"
+    tema: pricing-psychology
+
+  - id: FIL-DK-157
+    text: "Never Performance-Only Compensation: always fee plus performance, never performance only. You need base pay regardless of their execution. Your time has value independent of their results."
+    source: "ACC-video-DK_10"
+    tema: compensation
+
+  - id: FIL-DK-158
+    text: "Equity in Private Companies Is Worthless: without sale triggers and contractual controls, equity is just paper. Don't accept equity as primary compensation."
+    source: "ACC-video-DK_10"
+    tema: compensation
+
+  - id: FIL-DK-159
+    text: "Be Asked Three Times Before Answering Fee: 'my mental rule is I like to be asked three times before I answer.' They need deep emotional commitment to buying before you discuss price."
+    source: "ACC-video-DK_11"
+    tema: fee-presentation
+
+  - id: FIL-DK-160
+    text: "Quote Fee and Shut Up: 'the way to quote a fee is to quote a fee and shut up.' Don't switch from consultant to salesman. Don't frantically justify. Don't downsell. Silence."
+    source: "ACC-video-DK_11"
+    tema: fee-presentation
+
+  - id: FIL-DK-161
+    text: "First Time Ever or Last Time Ever: 'your challenge is to figure out how everything can be a history-making event.' Anything less than first-ever or last-ever is not particularly exciting."
+    source: "ACC-video-DK_11"
+    tema: offer-positioning
+
+  - id: FIL-DK-162
+    text: "Never Deal With Underlings: deal only with the person who could write the check. 'Committees don't write checks. Committees figure out how NOT to write checks.' Sell top down."
+    source: "ACC-video-DK_11"
+    tema: sales-strategy
+
+  - id: FIL-DK-163
+    text: "Application Creates Emotional Commitment: 'their emotional commitment to buy is literally growing by the number of minutes they're spending filling out the application.' Length = commitment."
+    source: "ACC-video-DK_11"
+    tema: sales-psychology
+
+  - id: FIL-DK-164
+    text: "Application Must Demonstrate Inadequacy: the application itself makes them confront how unsatisfied and inadequate they are, setting up the need for the program."
+    source: "ACC-video-DK_11"
+    tema: sales-psychology
+
+  - id: FIL-DK-165
+    text: "Clients Lie By Omission: 'most clients lie to their doctor, lawyer, CPA and consultants. They lie not by not telling the truth but rather by omission, leaving out something really important.'"
+    source: "ACC-video-DK_11"
+    tema: client-management
+
+  - id: FIL-DK-166
+    text: "Build Unconscious Money-Getting Language: 'that's why I get the big bucks' — used so automatically it's a joke that's not a joke. Program fee-expectation phrases into your unconscious."
+    source: "ACC-video-DK_11"
+    tema: fee-psychology
+
+  - id: FIL-DK-167
+    text: "Properly Desensitize to Fee Level Before Quoting: Grand Piano, Fountain, Marble floors in dental office — everything leading up sets price expectation. By the time you quote, they 'at least don't keel over.'"
+    source: "ACC-video-DK_11"
+    tema: fee-presentation
+
+  - id: FIL-DK-168
+    text: "Don't Downsell Before Being Asked: 'they start to downsell before there's any need to downsell.' Only go to discounting after pushback. Don't solve a problem they haven't raised."
+    source: "ACC-video-DK_11"
+    tema: fee-presentation
+
+  # L2 MODELOS MENTAIS (17)
+  - id: MM-DK-135
+    text: "Seamless Product-to-Coaching Transition (Rory Model): 3-month installment for physical kit → free telecoaching during those 3 months → telecoaching charge continues at same price after kit paid off. Client never feels a new charge."
+    source: "ACC-video-DK_10"
+    tema: business-model
+
+  - id: MM-DK-136
+    text: "5-15-80 Coaching Group Distribution: 5% are stars, 15% do well, 80% underperform. Predict success by behavior observation — what they DO at events, not what they say."
+    source: "ACC-video-DK_10"
+    tema: coaching-economics
+
+  - id: MM-DK-137
+    text: "Decoy Bad Ads to Trap Copycats: deliberately plant bad advertising that copycats will steal and use, identifying IP thieves and wasting their resources on ineffective material."
+    source: "ACC-video-DK_10"
+    tema: intellectual-property
+
+  - id: MM-DK-138
+    text: "Discouragement to Entry (Mike Storms Billboard): make it look so hard, expensive, and complex that competitors don't bother entering your space. Barriers of perception."
+    source: "ACC-video-DK_10"
+    tema: competitive-strategy
+
+  - id: MM-DK-139
+    text: "20% Premium Buyer Rule: 20% of any market will pay premium price. Ascension ladder captures them. Don't leave premium money on the table by only offering mid-tier."
+    source: "ACC-video-DK_10"
+    tema: pricing
+
+  - id: MM-DK-140
+    text: "Larry King Mafia Favor as Exclusivity Analogy: exclusivity creates obligation and premium pricing. Like doing a favor for a don — they owe you, and the price reflects that."
+    source: "ACC-video-DK_10"
+    tema: exclusivity
+
+  - id: MM-DK-141
+    text: "Craig Proctor Shock-and-Awe Box: project coaching delivery — send overwhelming package of materials before consulting begins. Pre-frames the value and commitment."
+    source: "ACC-video-DK_10"
+    tema: consulting-delivery
+
+  - id: MM-DK-142
+    text: "Count the Cookies Mechanism: usage-based licensing where you track and bill per usage or implementation. Ties ongoing revenue to their actual use of your IP."
+    source: "ACC-video-DK_10"
+    tema: compensation
+
+  - id: MM-DK-143
+    text: "Making Fees Disappear Via Math: if consulting increases transaction size by $X across Y transactions, your fee is 'free.' Frame fee as investment with measurable ROI."
+    source: "ACC-video-DK_10"
+    tema: pricing-psychology
+
+  - id: MM-DK-144
+    text: "Bernini Suit Close: salesman didn't answer price question despite 27 asks. Built value through fitting, measuring, fabric selection. 'There was a good reason why you didn't tell me the price.' Price became irrelevant."
+    source: "ACC-video-DK_11"
+    tema: fee-presentation
+
+  - id: MM-DK-145
+    text: "Diamond in Village vs Expert (Thick-Faced Black Heart): 'if you have a large perfect diamond and take it to the village marketplace, hard to sell. Take it to someone who knows diamonds, he'll make you an offer.' Sell to smart people."
+    source: "ACC-video-DK_11"
+    tema: client-selection
+
+  - id: MM-DK-146
+    text: "Application as Inadequacy Revealer: 'How many marketing systems do you have?' (answer: zero). Questions force prospects to confront deficiencies. By completion, they've sold themselves."
+    source: "ACC-video-DK_11"
+    tema: sales-psychology
+
+  - id: MM-DK-147
+    text: "Offer My Position to the Waiting List Effect: renewal form option triggers loss aversion — 'I was thinking of quitting until everybody else wanted in.' Others wanting your seat revalues it."
+    source: "ACC-video-DK_11"
+    tema: retention
+
+  - id: MM-DK-148
+    text: "Race Horse Price Discovery: 'we were delighted to sell for $3,000 until somebody offered $3,000.' Others wanting it makes you revalue upward. Demand creates its own price floor."
+    source: "ACC-video-DK_11"
+    tema: pricing-psychology
+
+  - id: MM-DK-149
+    text: "Noncompliance as Elephant in Room: many buyers have material in shrink wrap. Acknowledge it honestly, make program about implementation. Removes guilt barrier to next purchase."
+    source: "ACC-video-DK_11"
+    tema: coaching-retention
+
+  - id: MM-DK-150
+    text: "Incentivized Rebates vs Forced Compliance: charge full price upfront, rebate portions as they hit compliance benchmarks. Better psychology than nothing-happening months of forced payment."
+    source: "ACC-video-DK_11"
+    tema: coaching-design
+
+  - id: MM-DK-151
+    text: "Same Thing Described Three Ways (Craig Proctor): items 1, 2, and 5 are the same thing described differently with different dollar values. Stretches number of perceived deliverables and total value."
+    source: "ACC-video-DK_11"
+    tema: offer-design
+
+  # L3 HEURISTICAS (35)
+  - id: HEUR-DK-197
+    text: "Behavior observation predicts coaching success: watch what they DO at events and in groups, not what they say. 'I want one of everything' is a success signal."
+    source: "ACC-video-DK_10"
+    tema: client-screening
+
+  - id: HEUR-DK-198
+    text: "IP theft response sequence: (1) cease and desist, (2) outrace with speed/volume, (3) plant decoy bad ads to trap thieves. Don't get consumed by litigation."
+    source: "ACC-video-DK_10"
+    tema: intellectual-property
+
+  - id: HEUR-DK-199
+    text: "Payment models menu: per hour, term programs, per project, retainer, till-forbid recurring. Use the model that fits the situation and maximizes your leverage."
+    source: "ACC-video-DK_10"
+    tema: compensation
+
+  - id: HEUR-DK-200
+    text: "Group coaching buddies system: pair members for mutual accountability and support. Creates retention through peer connection beyond coach-client relationship."
+    source: "ACC-video-DK_10"
+    tema: coaching-operations
+
+  - id: HEUR-DK-201
+    text: "Three levers for getting paid more: (1) charge more, (2) select better clients, (3) manipulate supply and demand. All three work independently and compound together."
+    source: "ACC-video-DK_10"
+    tema: pricing
+
+  - id: HEUR-DK-202
+    text: "Avoid too-easy payment terms: easy terms reduce commitment and increase dropout. Make them feel the investment to maintain their engagement."
+    source: "ACC-video-DK_10"
+    tema: pricing
+
+  - id: HEUR-DK-203
+    text: "Exclusivity as pricing lever: geographic, industry, or business-size exclusivity each commands premium. Stack multiple exclusivity layers for maximum price."
+    source: "ACC-video-DK_10"
+    tema: pricing
+
+  - id: HEUR-DK-204
+    text: "Dennis Tubbergen model: 6 area-exclusive programs simultaneously. Each geography pays premium for exclusivity. Same IP, 6x the revenue."
+    source: "ACC-video-DK_10"
+    tema: business-model
+
+  - id: HEUR-DK-205
+    text: "Consulting: always expand assignment beyond what they hired you for. Strategy plus do-it work. Don't accept the predetermined box they put you in."
+    source: "ACC-video-DK_10"
+    tema: consulting-strategy
+
+  - id: HEUR-DK-206
+    text: "Staged sales: convert monthly payers to annual prepay for better economics. Reduces churn risk and improves cash flow."
+    source: "ACC-video-DK_10"
+    tema: revenue-optimization
+
+  - id: HEUR-DK-207
+    text: "Fee plus performance compensation, never performance only. Always get your base fee. Your time has value independent of their execution or results."
+    source: "ACC-video-DK_10"
+    tema: compensation
+
+  - id: HEUR-DK-208
+    text: "Royalties and per-something performance dollars: ongoing compensation tied to their usage, implementations, or results. Creates residual income stream beyond project fee."
+    source: "ACC-video-DK_10"
+    tema: compensation
+
+  - id: HEUR-DK-209
+    text: "Equity requires sale triggers and contractual controls: without them, equity in private companies is worthless paper. Never accept equity without enforceable exit provisions."
+    source: "ACC-video-DK_10"
+    tema: compensation
+
+  - id: HEUR-DK-210
+    text: "Perks as non-cash compensation: Bacardi/Penthouse shoot, Nido furniture-at-cost. Non-monetary value has real value — use perks to enhance total compensation package."
+    source: "ACC-video-DK_10"
+    tema: compensation
+
+  - id: HEUR-DK-211
+    text: "Pent-up demand strategy: create waiting list, restrict access, then open with urgency. Manufactured scarcity drives faster decisions and higher conversion."
+    source: "ACC-video-DK_10"
+    tema: sales-psychology
+
+  - id: HEUR-DK-212
+    text: "Quote fee and shut up: 'the way to quote a fee is to quote a fee and shut up. More often than not, you'll hear well, let's do it.' Silence after quoting is the close."
+    source: "ACC-video-DK_11"
+    tema: fee-presentation
+
+  - id: HEUR-DK-213
+    text: "Be asked 3 times before answering on price: let emotional commitment build. '27 is excessive. But my mental rule is three times before I answer.' Patience with fee discussion."
+    source: "ACC-video-DK_11"
+    tema: fee-presentation
+
+  - id: HEUR-DK-214
+    text: "Don't downsell preemptively: 'they start to downsell before there's any need. They switch into being a salesman.' Only discount after explicit pushback from prospect."
+    source: "ACC-video-DK_11"
+    tema: fee-presentation
+
+  - id: HEUR-DK-215
+    text: "Environment desensitizes to fee level: Grand Piano + Fountain + Marble in dental office = 'this guy's got to be expensive.' Environmental cues prepare them for premium pricing."
+    source: "ACC-video-DK_11"
+    tema: fee-presentation
+
+  - id: HEUR-DK-216
+    text: "Application 'zero answer' questions: 'How many marketing systems generate new business?' Most answer zero. Self-identified inadequacy is more powerful than you telling them."
+    source: "ACC-video-DK_11"
+    tema: sales-psychology
+
+  - id: HEUR-DK-217
+    text: "'Offer my seat to waiting list' on renewal forms: triggers loss aversion. 'I was thinking of quitting until everybody else wanted in.' Simple line, powerful psychology."
+    source: "ACC-video-DK_11"
+    tema: retention
+
+  - id: HEUR-DK-218
+    text: "Everything must be first-ever or last-ever: 'first time we've offered this pricing,' 'last time this will be available.' Nothing in between generates excitement."
+    source: "ACC-video-DK_11"
+    tema: offer-positioning
+
+  - id: HEUR-DK-219
+    text: "Start renewal process 6+ months early: June letter for January renewals. 'Most people wait too late to start dealing with renewals.' Early starts mean better retention."
+    source: "ACC-video-DK_11"
+    tema: retention
+
+  - id: HEUR-DK-220
+    text: "Application length drives commitment: more minutes filling out = more committed. Orin's case: 46-page application. 'Not buying after all that is like a waste.'"
+    source: "ACC-video-DK_11"
+    tema: sales-psychology
+
+  - id: HEUR-DK-221
+    text: "Weekly memos must have 6 components: (1) accountability nagging, (2) pep talks, (3) member recognition, (4) product/service plugs, (5) humor, (6) topical/news references."
+    source: "ACC-video-DK_11"
+    tema: coaching-operations
+
+  - id: HEUR-DK-222
+    text: "'That's why I get the big bucks' — unconscious money-getting phrase. Use it so often it becomes automatic. 'I do it unconsciously, automatically. It's been programmed in.'"
+    source: "ACC-video-DK_11"
+    tema: fee-psychology
+
+  - id: HEUR-DK-223
+    text: "Report back on every referral: whether you take them, don't take them, regardless of outcome. Always report back to the referrer to maintain the relationship."
+    source: "ACC-video-DK_11"
+    tema: referral-management
+
+  - id: HEUR-DK-224
+    text: "Minimum bid language: 'the stated fee is the minimum bid. You can bid above the fee.' Creates auction psychology and upward price pressure."
+    source: "ACC-video-DK_11"
+    tema: pricing
+
+  - id: HEUR-DK-225
+    text: "5-day hold on consulting dates: 'I've placed a five-day hold pending receipt of deposit.' If check not received in 5 days, dates go back into play. Creates urgency."
+    source: "ACC-video-DK_11"
+    tema: consulting-operations
+
+  - id: HEUR-DK-226
+    text: "Must break audience after speaking: contractual requirement — 'I must break the audience when I finish.' No bingo drawings or trophy ceremonies between your speech and your sales table."
+    source: "ACC-video-DK_11"
+    tema: speaking-business
+
+  - id: HEUR-DK-227
+    text: "Obligation language: 'the topics were chosen based on input from hundreds of members. You told us what you wanted, we built it.' Creates moral obligation to buy what they requested."
+    source: "ACC-video-DK_11"
+    tema: copywriting
+
+  - id: HEUR-DK-228
+    text: "Don't fear quoting fee if properly desensitized: 'if everything has been done right up until then, they at least don't keel over.' Preparation eliminates fee anxiety."
+    source: "ACC-video-DK_11"
+    tema: fee-presentation
+
+  - id: HEUR-DK-229
+    text: "Describe same value 3 different ways (Craig Proctor): items 1, 2, and 5 are the same thing. 'Stretches the number of things into greater value.' Separating numbering confuses further."
+    source: "ACC-video-DK_11"
+    tema: offer-design
+
+  - id: HEUR-DK-230
+    text: "Diagram your process visually: 'some people understand stuff in pictorial form that they wouldn't understand in copy form.' Charts, diagrams, visuals complement written copy."
+    source: "ACC-video-DK_11"
+    tema: consulting-delivery
+
+  - id: HEUR-DK-231
+    text: "Wait for full group + waiting list before starting second group: 'you don't want to be visibly undermining your own message.' Don't start incomplete groups that damage your scarcity positioning."
+    source: "ACC-video-DK_11"
+    tema: coaching-operations
+
+  # L4 FRAMEWORKS (10)
+  - id: FW-DK-127
+    text: "Coaching Payment Models Menu: (1) Per hour, (2) Term programs with defined duration, (3) Per project with deliverables, (4) Retainer for ongoing access, (5) Till-forbid recurring monthly. Each has trade-offs — choose based on client type and leverage goals."
+    source: "ACC-video-DK_10"
+    tema: compensation
+
+  - id: FW-DK-128
+    text: "Getting Paid More Framework: (1) Charge more directly, (2) Select better clients who value expertise, (3) Manipulate supply/demand (waiting lists, limited seats), (4) Create pent-up demand, (5) Ascension ladder capturing 20% premium buyers at each tier."
+    source: "ACC-video-DK_10"
+    tema: pricing
+
+  - id: FW-DK-129
+    text: "Consulting Compensation Stack: (1) Base fee (never skip), (2) Percentage above base performance, (3) Royalties per implementation, (4) Use fees and licensing, (5) Equity only with sale triggers, (6) Perks and non-cash value. Layer multiple streams."
+    source: "ACC-video-DK_10"
+    tema: compensation
+
+  - id: FW-DK-130
+    text: "Exclusivity Pricing Framework: (1) Geographic exclusivity, (2) Industry exclusivity, (3) Business-size exclusivity. Stack layers for maximum price. Dennis Tubbergen: 6 area-exclusive programs simultaneously."
+    source: "ACC-video-DK_10"
+    tema: pricing
+
+  - id: FW-DK-131
+    text: "Making Fees Disappear Framework: (1) Identify client's transaction size, (2) Calculate improvement from your work, (3) Multiply by annual transactions, (4) Show gross margin impact, (5) Subtract your fee, (6) Demonstrate net positive ROI — fee is 'free.'"
+    source: "ACC-video-DK_10"
+    tema: pricing-psychology
+
+  - id: FW-DK-132
+    text: "Fee Presentation Framework: (1) Don't answer price until asked 3 times, (2) Build emotional commitment first, (3) Desensitize via environment and reputation, (4) Quote fee and shut up, (5) Never downsell preemptively, (6) Never switch to salesman mode."
+    source: "ACC-video-DK_11"
+    tema: fee-presentation
+
+  - id: FW-DK-133
+    text: "Application-as-Sales-Tool Framework: (1) Require multi-page application, (2) Include 'zero answer' inadequacy questions, (3) Include essay questions for emotional commitment, (4) Include self-grading sections (A-F), (5) Use their answers to customize close call, (6) Length = commitment driver."
+    source: "ACC-video-DK_11"
+    tema: sales-psychology
+
+  - id: FW-DK-134
+    text: "Supply-Demand Positioning Framework: (1) List more candidates than chairs (33 vs 20), (2) 'Under pressure' expand slightly (16→20), (3) Waiting list language everywhere, (4) 'Offer my seat to waiting list' on renewals, (5) Send rejection letters to non-selected."
+    source: "ACC-video-DK_11"
+    tema: positioning
+
+  - id: FW-DK-135
+    text: "Weekly Memo System (6 Components): (1) Accountability nagging ('have you done X?'), (2) Pep talks, (3) Member recognition, (4) Product/service plugs (subtle to overt), (5) Humor, (6) Topical/news references. Unchanged from 1988 to present."
+    source: "ACC-video-DK_11"
+    tema: coaching-operations
+
+  - id: FW-DK-136
+    text: "Consulting Day Confirmation Protocol: (1) Confirm date and logistics, (2) Specify lodging — no alternatives, (3) Materials due 2 weeks prior, (4) Payment via check on site, (5) Control every aspect of the environment. No taxi, no surprises."
+    source: "ACC-video-DK_11"
+    tema: consulting-operations
+
+  # L5 METODOLOGIAS (4)
+  - id: MET-DK-091
+    text: "IP Protection Method for Coaches: (1) Cease and desist letter to copycats, (2) Outrace with speed and volume of new content, (3) Plant decoy bad ads as traps, (4) Discourage entry with apparent complexity (Mike Storms billboard). Run faster, don't litigate slower."
+    source: "ACC-video-DK_10"
+    tema: intellectual-property
+
+  - id: MET-DK-092
+    text: "Ascension Ladder Implementation: (1) Free/low content at base to build audience, (2) Group coaching mid-tier, (3) Platinum/exclusive top-tier with waiting list, (4) 20% of each tier ascends naturally, (5) Create pent-up demand at top, (6) Staged conversion from monthly to annual prepay."
+    source: "ACC-video-DK_10"
+    tema: business-model
+
+  - id: MET-DK-093
+    text: "Coaching Application Close Method: (1) Design 4-46 page application, (2) Include 'zero answer' questions (how many marketing systems?), (3) Include 'top 3 frustrations' essays, (4) Include self-grading sections, (5) Prospect fills out before call, (6) Use their answers to customize pitch, (7) Time investment = emotional commitment."
+    source: "ACC-video-DK_11"
+    tema: sales-methodology
+
+  - id: MET-DK-094
+    text: "Consulting Referral-to-Close Method: (1) Receive referral inquiry, (2) Have prospect write/fax why they want you, (3) Before your call, get 2+ testimonials faxed to prospect from people they respect, (4) Call with pre-positioned authority, (5) Always report back to referrer regardless of outcome."
+    source: "ACC-video-DK_11"
+    tema: consulting-sales
+
+# ==============================================================================
+# ACC BATCH-10: PDFs (49 elementos)
+# Temas: coaching identity, reputation-based compensation, pricing psychology,
+#        behavioral congruency, autonomy, time allocation, emotion economy,
+#        membership retention, dependency building, fee presentation,
+#        takeaway selling, scarcity, money mindset, cold client acquisition,
+#        testimonial collection, info business pipeline, escaping billable hours
+# Sources: Presentation Materials Manual, Transcript Manual, Bootcamp Notes
+# ==============================================================================
+
+  # L1 FILOSOFIAS (8)
+  - id: FIL-DK-169
+    text: "'Be not do' — coaching identity. You are a coach, not someone who does coaching. Identity drives behavior, not the reverse."
+    source: "ACC-pdf-bootcamp-notes"
+    tema: coaching-identity
+
+  - id: FIL-DK-170
+    text: "What you get paid for is REPUTATION — more than know-how, service, or results. Reputation is the asset. Everything else is secondary."
+    source: "ACC-pdf-transcript"
+    tema: compensation-philosophy
+
+  - id: FIL-DK-171
+    text: "Compensation based on value as defined by RECIPIENT, not you. What YOU think it's worth is irrelevant. What THEY perceive it's worth determines price."
+    source: "ACC-pdf-transcript"
+    tema: pricing-philosophy
+
+  - id: FIL-DK-172
+    text: "Give NOTHING for free — even $1M/yr clients lose respect without paying. Free devalues. Always charge something, even if token."
+    source: "ACC-pdf-bootcamp-notes"
+    tema: pricing-philosophy
+
+  - id: FIL-DK-173
+    text: "Conformity to industry norms GUARANTEES average results. Do what everyone does, get what everyone gets. Nonconformity is prerequisite to exceptional."
+    source: "ACC-pdf-bootcamp-notes"
+    tema: business-philosophy
+
+  - id: FIL-DK-174
+    text: "Made more people more money by raising prices than anything else. Price increases are the fastest, easiest path to profitability."
+    source: "ACC-pdf-transcript"
+    tema: pricing-philosophy
+
+  - id: FIL-DK-175
+    text: "Behavioral congruency — match behaviors, results follow automatically. If you act like someone who charges $50K, you'll charge $50K. Incongruent behavior caps income."
+    source: "ACC-pdf-bootcamp-notes"
+    tema: success-psychology
+
+  - id: FIL-DK-176
+    text: "Autonomy: what/when/where/whom you want, or cheerfully saying No. The ultimate measure of business success is freedom, not revenue."
+    source: "ACC-pdf-bootcamp-notes"
+    tema: business-philosophy
+
+  # L2 MODELOS MENTAIS (8)
+  - id: MM-DK-152
+    text: "Time Allocation Model: 80yr life - sleep/taxes/timesuck = only 16.8 yrs discretionary. Treat time as the scarcest asset. Every hour has enormous opportunity cost."
+    source: "ACC-pdf-bootcamp-notes"
+    tema: time-management
+
+  - id: MM-DK-153
+    text: "10 Enemies of Autonomy: (1) my-biz-is-different, (2) peers, (3) past patterns, (4) industry norms, (5) fear, (6) indecision, (7) guilt, (8) obligation, (9) comfort, (10) identity lag."
+    source: "ACC-pdf-bootcamp-notes"
+    tema: autonomy
+
+  - id: MM-DK-154
+    text: "Work-Money Link Breaker: toll position + passive income + multiple streams + center-of-relationships + systems. Five mechanisms to decouple income from hours worked."
+    source: "ACC-pdf-transcript"
+    tema: business-model
+
+  - id: MM-DK-155
+    text: "Emotion Economy vs Feature Economy: Starbucks $8 cup = experience, not coffee. People pay for feelings, not features. Sell the emotion, price follows."
+    source: "ACC-pdf-transcript"
+    tema: pricing-psychology
+
+  - id: MM-DK-156
+    text: "What We Sell = confidence/certainty/control, NOT credentials/expertise. Clients buy the feeling of being handled. They buy certainty that their problem will be solved."
+    source: "ACC-pdf-bootcamp-notes"
+    tema: value-proposition
+
+  - id: MM-DK-157
+    text: "'Show Me the Law' — 90% of restrictions consultants follow are beliefs, not laws. Challenge every limitation. Most are self-imposed or industry-imposed, not legal."
+    source: "ACC-pdf-bootcamp-notes"
+    tema: mindset
+
+  - id: MM-DK-158
+    text: "Prepay Model: $18,600/yr chiro went from $10K/mo to $100K/mo with prepay. Advance payment transforms economics and client commitment simultaneously."
+    source: "ACC-pdf-transcript"
+    tema: business-model
+
+  - id: MM-DK-159
+    text: "4-Square-Block Trap → stretch to globe = 30% to 73% market share. Geographic/niche limitation is self-imposed. Expand the map, multiply the opportunity."
+    source: "ACC-pdf-transcript"
+    tema: market-expansion
+
+  # L3 HEURISTICAS (15)
+  - id: HEUR-DK-232
+    text: "5-15-80 Rule: 5% buy everything you offer, 15% buy a lot, 80% buy nothing or minimal. Design offers for the 5% and 15%, don't chase the 80%."
+    source: "ACC-pdf-bootcamp-notes"
+    tema: client-economics
+
+  - id: HEUR-DK-233
+    text: "Only 4% check references — reputation is assumed not verified. Invest in perception management, not just results. Most clients never verify your claims."
+    source: "ACC-pdf-transcript"
+    tema: reputation
+
+  - id: HEUR-DK-234
+    text: "Never be prompt with a quote — timing = scarcity. Delayed response signals demand. Instant quotes signal desperation and availability."
+    source: "ACC-pdf-bootcamp-notes"
+    tema: fee-presentation
+
+  - id: HEUR-DK-235
+    text: "Higher caliber client = less important the guarantee. A-players don't need guarantees — they evaluate quality. Only B/C players demand safety nets."
+    source: "ACC-pdf-transcript"
+    tema: client-selection
+
+  - id: HEUR-DK-236
+    text: "20% buy premium version JUST because it is premium. They don't compare features — they buy the best available. Always have a premium tier."
+    source: "ACC-pdf-bootcamp-notes"
+    tema: pricing
+
+  - id: HEUR-DK-237
+    text: "Be asked 3x before answering about fee. Let them demonstrate commitment through persistence. Three asks = genuine interest, not tire-kicking."
+    source: "ACC-pdf-transcript"
+    tema: fee-presentation
+
+  - id: HEUR-DK-238
+    text: "Coaching group size rules: <=12 use boardroom format (intimate discussion), >12 use hot seat with stool format (performance-based). Format must match group size."
+    source: "ACC-pdf-bootcamp-notes"
+    tema: coaching-operations
+
+  - id: HEUR-DK-239
+    text: "Call order in group coaching: weak speakers between good ones, non-answerers called before breaks. Choreograph the energy flow of every group session."
+    source: "ACC-pdf-bootcamp-notes"
+    tema: coaching-delivery
+
+  - id: HEUR-DK-240
+    text: "Begin narrow, fuzzy edges — niche to broad market. Start hyper-specialized, then gradually expand. Never start broad and try to narrow."
+    source: "ACC-pdf-transcript"
+    tema: positioning
+
+  - id: HEUR-DK-241
+    text: "8 KPIs for coaching business: CPL (cost per lead), ACPL (acceptable CPL), CPS (cost per sale), ACPS (acceptable CPS), ATS (average transaction size), NCI (new customer intake), LCV (lifetime customer value), ICE (income per consulting engagement)."
+    source: "ACC-pdf-bootcamp-notes"
+    tema: business-metrics
+
+  - id: HEUR-DK-242
+    text: "28 Core Competencies benchmark for self-management. Score yourself across 28 dimensions. Identify gaps. Work on weakest links first."
+    source: "ACC-pdf-bootcamp-notes"
+    tema: self-development
+
+  - id: HEUR-DK-243
+    text: "Membership overlay economics: 200 members × $29.95/mo + $39.95 coupon booklets = $92K/mo. Layering membership on coaching creates predictable recurring revenue."
+    source: "ACC-pdf-transcript"
+    tema: business-model
+
+  - id: HEUR-DK-244
+    text: "4x fee increase in 12 months = 3x fee with ZERO client loss. Most consultants can triple prices without losing anyone. Fear of price increase is irrational."
+    source: "ACC-pdf-transcript"
+    tema: pricing
+
+  - id: HEUR-DK-245
+    text: "Cosmetic dentist: $35K average case via emotional positioning. Sell transformation not procedure. Emotional framing multiplies willingness to pay."
+    source: "ACC-pdf-transcript"
+    tema: positioning
+
+  - id: HEUR-DK-246
+    text: "48:1 ROI from extreme specialist positioning. Narrow niche + deep expertise + reputation = exponential return on positioning investment."
+    source: "ACC-pdf-bootcamp-notes"
+    tema: positioning
+
+  # L4 FRAMEWORKS (10)
+  - id: FW-DK-137
+    text: "Member Retention 5 Feelings Framework: members stay when they feel (1) Gold Stars (recognition), (2) Acceptance (belonging), (3) Fraternity (community), (4) Womb (safety/comfort), (5) Futurism (progress/growth). Engineer all five."
+    source: "ACC-pdf-bootcamp-notes"
+    tema: retention
+
+  - id: FW-DK-138
+    text: "Dependency Building 5-Layer Framework: (1) Frequency of contact, (2) Multiple roles (coach + friend + advisor), (3) Emotional needs fulfilled, (4) Conduit to other relationships, (5) Pain of exit (what they'd lose). Build all five layers."
+    source: "ACC-pdf-bootcamp-notes"
+    tema: retention
+
+  - id: FW-DK-139
+    text: "Relationship Boundaries 13 Rules: (1) Restrict social interaction, (2) No dating clients/family/employees, (3) Pick up tabs strategically, (4) Control who approaches you, (5-13) Additional boundary protocols. Professional distance = premium positioning."
+    source: "ACC-pdf-transcript"
+    tema: professional-ethics
+
+  - id: FW-DK-140
+    text: "Fee Presentation 3 Mistakes + Prerequisites: Mistakes: (1) answering too soon, (2) downselling preemptively, (3) switching to salesman mode. Prerequisites: environment desensitization, reputation pre-framing, emotional commitment built."
+    source: "ACC-pdf-transcript"
+    tema: fee-presentation
+
+  - id: FW-DK-141
+    text: "Takeaway Selling Power Phrases (8 phrases): 'This may not be for you,' 'I'm not sure I can help,' 'We're selective about who we work with,' 'There's a waiting list,' 'I'd need to think about whether this is a fit,' + 3 variations. Reverse psychology in sales."
+    source: "ACC-pdf-bootcamp-notes"
+    tema: sales-strategy
+
+  - id: FW-DK-142
+    text: "Scarcity Offer Framework: every offer = history-making event. Components: (1) first-time-ever or last-time-ever framing, (2) limited quantity, (3) deadline, (4) waiting list reference, (5) social proof of demand. Nothing mediocre."
+    source: "ACC-pdf-transcript"
+    tema: offer-design
+
+  - id: FW-DK-143
+    text: "10 Big Lessons Framework: (1) majority screw up, (2) higher price = more implementation, (3) referrals are earned not asked, (4) systems beat talent, (5) niche beats broad, (6) speed of implementation matters, (7) environment shapes behavior, (8-10) additional lessons. Distilled from 30+ years."
+    source: "ACC-pdf-bootcamp-notes"
+    tema: coaching-wisdom
+
+  - id: FW-DK-144
+    text: "Integrity Framework 7 Don'ts: (1) Don't promise what you can't deliver, (2) Don't take clients you can't help, (3) Don't keep fees if no value delivered, (4) Don't badmouth competitors with lies, (5) Don't steal IP, (6) Don't exploit client vulnerability, (7) Don't confuse selling with deceiving."
+    source: "ACC-pdf-bootcamp-notes"
+    tema: professional-ethics
+
+  - id: FW-DK-145
+    text: "Money Mindset 4 Forces: (1) Decide exactly what you want financially, (2) Plant seeds daily (marketing, relationships, content), (3) Ask for the money (don't hint), (4) Act on opportunities immediately. All four forces compound."
+    source: "ACC-pdf-transcript"
+    tema: wealth-psychology
+
+  - id: FW-DK-146
+    text: "Appearance & Staging Framework ('Sinatra doesn't move pianos'): (1) Dress above your market, (2) Office/environment signals premium, (3) Materials are high-quality, (4) Never do logistics yourself, (5) Every touchpoint reinforces premium positioning."
+    source: "ACC-pdf-bootcamp-notes"
+    tema: positioning
+
+  # L5 METODOLOGIAS (8)
+  - id: MET-DK-095
+    text: "Cold Client 4-Step Method: (1) Build hit list of 100 ideal targets, (2) Relentless presence for 90+ days (unusual items, not brochures), (3) Diagnostic first conversation (essay questions, listen), (4) Wow box delivery (bobbleheads, books with post-its, personalized items)."
+    source: "ACC-pdf-bootcamp-notes"
+    tema: prospecting
+
+  - id: MET-DK-096
+    text: "Testimonial Collection 7 Steps: (1) Identify best results, (2) Ask specific questions (not 'say something nice'), (3) Record video if possible, (4) Get signed release, (5) Use their language not yours, (6) Include specifics (numbers, timeframes), (7) Categorize by objection they overcome."
+    source: "ACC-pdf-bootcamp-notes"
+    tema: social-proof
+
+  - id: MET-DK-097
+    text: "Info Business Pipeline 3 Levels: Level 1 — free content for audience building (articles, podcast). Level 2 — low-ticket products for list monetization ($19-$97). Level 3 — high-ticket programs for profit ($997-$50K+). Each level feeds the next."
+    source: "ACC-pdf-transcript"
+    tema: business-model
+
+  - id: MET-DK-098
+    text: "Escaping Billable Hours 11 Methods: (1) Group coaching, (2) Membership programs, (3) Licensing IP, (4) Certification programs, (5) Books/courses, (6) Speaking fees, (7) Royalties, (8) Toll position access fees, (9) Event ticket sales, (10) Joint ventures, (11) Equity with sale triggers."
+    source: "ACC-pdf-bootcamp-notes"
+    tema: business-model
+
+  - id: MET-DK-099
+    text: "12 Ways to Promote Yourself: (1) Speaking, (2) Writing/publishing, (3) Media appearances, (4) Association leadership, (5) Teaching/adjunct, (6) Awards/recognition, (7) Joint ventures, (8) Charitable involvement, (9) Controversial positions, (10) Books, (11) Newsletters, (12) Strategic alliances."
+    source: "ACC-pdf-bootcamp-notes"
+    tema: self-promotion
+
+  - id: MET-DK-100
+    text: "Industry Survey Strategy: (1) Design survey for target industry, (2) Send to 100 decision makers, (3) 77/100 respond (proven response rate), (4) Compile results into report, (5) Share findings — positions you as industry authority, (6) Convert survey respondents into consulting relationships."
+    source: "ACC-pdf-bootcamp-notes"
+    tema: prospecting
+
+  - id: MET-DK-101
+    text: "Rent-A-Person-of-Influence Strategy: (1) Identify recognized authority (celebrity, industry leader), (2) Negotiate rental/appearance deal, (3) Use their name and presence at your event/offer, (4) Extract premium from attendees who want access, (5) Borrow credibility through proximity."
+    source: "ACC-pdf-transcript"
+    tema: positioning
+
+  - id: MET-DK-102
+    text: "Prepay Implementation Method: (1) Calculate annual service value ($18,600/yr chiro example), (2) Offer prepay at discount, (3) Collect upfront, (4) Deliver over time, (5) Result: $10K/mo → $100K/mo transformation. Prepay changes business economics fundamentally."
+    source: "ACC-pdf-transcript"
+    tema: business-model
+
 # ==============================================================================
 # SUMÁRIO GERAL
 # ==============================================================================
@@ -2011,17 +4969,57 @@ sumario_geral:
   source_3_12bbs:
     elementos: 39
     layers: "L1:9 L2:7 L3:11 L4:7 L5:5"
-  total_elementos: 273
-  layers_total: "L1:52 L2:50 L3:71 L4:56 L5:44"
+  source_4_acc_batch01:
+    elementos: 45
+    layers: "L1:13 L2:8 L3:12 L4:7 L5:5"
+  source_5_acc_batch02:
+    elementos: 28
+    layers: "L1:8 L2:5 L3:7 L4:5 L5:3"
+  source_6_acc_batch03:
+    elementos: 25
+    layers: "L1:6 L2:5 L3:7 L4:4 L5:3"
+  source_7_acc_batch04:
+    elementos: 114
+    layers: "L1:24 L2:24 L3:30 L4:21 L5:15"
+  source_8_acc_batch05:
+    elementos: 54
+    layers: "L1:9 L2:9 L3:24 L4:7 L5:5"
+  source_9_acc_batch06:
+    elementos: 52
+    layers: "L1:12 L2:10 L3:14 L4:10 L5:6"
+  source_10_acc_batch07:
+    elementos: 33
+    layers: "L1:7 L2:7 L3:10 L4:6 L5:3"
+    nota: "DK_4 + DK_5 only. DK_6 CORRUPTED (bottled water documentary, not DK content)"
+  source_11_acc_batch08:
+    elementos: 72
+    layers: "L1:19 L2:16 L3:21 L4:10 L5:6"
+    nota: "DK_7 + DK_8 + DK_9. Telecoaching, attachment strategy, toll position, value-based pricing, cold prospecting"
+  source_12_acc_batch09:
+    elementos: 84
+    layers: "L1:18 L2:17 L3:35 L4:10 L5:4"
+    nota: "DK_10 + DK_11. Newsletters as pillar income, referral systems, ascending transaction model, tribe building, coaching program architecture, mastermind design, event selling, licensing/certification, joint ventures, exit strategies"
+  source_13_acc_batch10:
+    elementos: 49
+    layers: "L1:8 L2:8 L3:15 L4:10 L5:8"
+    nota: "3 PDFs: Presentation Materials Manual, Transcript Manual, Bootcamp Notes. Coaching identity, reputation-based compensation, pricing psychology, behavioral congruency, autonomy, retention frameworks, dependency building, fee presentation, takeaway selling, cold client acquisition, info business pipeline, escaping billable hours"
+  total_elementos: 829
+  layers_total: "L1:176 L2:159 L3:246 L4:146 L5:102"
   proximos_ids:
-    FIL: "FIL-DK-053"
-    MM: "MM-DK-051"
-    HEUR: "HEUR-DK-072"
-    FW: "FW-DK-057"
-    MET: "MET-DK-045"
+    FIL: "FIL-DK-177"
+    MM: "MM-DK-160"
+    HEUR: "HEUR-DK-247"
+    FW: "FW-DK-147"
+    MET: "MET-DK-103"
   nota: >
-    273 elementos únicos extraídos de 3 fontes:
+    829 elementos únicos extraídos de 13 fontes:
     Copywriting Clinic (156), 7-Figure Academy (78),
-    12 Business Building Strategies (39).
-    12BBS = GKIC Super Conference ~2008-2009, CD1A "Confronting Paganism"
-    — masterclass de Dan Kennedy sobre recession-proofing.
+    12 Business Building Strategies (39),
+    ACC BATCH-01 cd01-cd03 (45), ACC BATCH-02 cd04-cd06 (28),
+    ACC BATCH-03 cd07-cd09 (25), ACC BATCH-04 cd10-cd12 (114),
+    ACC BATCH-05 cd13-cd16 (54), ACC BATCH-06 video DK_1-3 (52),
+    ACC BATCH-07 video DK_4-5 (33, DK_6 corrupted),
+    ACC BATCH-08 video DK_7-9 (72),
+    ACC BATCH-09 video DK_10-11 (84),
+    ACC BATCH-10 PDFs (49).
+    ACC = Dan Kennedy Advanced Coaching & Consulting.

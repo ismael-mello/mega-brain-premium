@@ -1,17 +1,17 @@
 {
   "version": "2.0.0",
-  "updated_at": "2026-03-10T23:30:00Z",
+  "updated_at": "2026-03-13T22:00:00Z",
   "system": {
     "status": "OPERATIONAL",
     "health_score": 100,
     "health_label": "EXCELLENT"
   },
   "knowledge_base": {
-    "sources_total": 13,
-    "dna_persons_total": 12,
-    "agents_person": 11,
+    "sources_total": 14,
+    "dna_persons_total": 13,
+    "agents_person": 12,
     "agents_cargo": 15,
-    "agents_total": 26,
+    "agents_total": 27,
     "inbox_pending": 0
   },
   "sources": {
@@ -89,23 +89,36 @@
       "dna": true,
       "agent": false,
       "note": "JH program — DNA merged into jeremy-haynes. Cascaded to CMO+CRO. 28 raw files."
+    },
+    "dan-kennedy": {
+      "status": "COMPLETE",
+      "dna": true,
+      "agent": true,
+      "elements": 829,
+      "dna_version": 11,
+      "layers": "L1:176 L2:159 L3:246 L4:146 L5:102",
+      "sources": ["CC (156)", "7FA (78)", "12BBS (39)", "ACC (556)"],
+      "dossiers": ["DOSSIER-DAN-KENNEDY.md", "DOSSIER-COACHING-CONSULTING.md"],
+      "cargo_enriched": ["CRO", "COO", "CMO"],
+      "note": "Pipeline completo (Phases 1-8). 10 batches ACC. DK_6 corrupted (bottled water doc)."
     }
   },
   "git": {
     "branch": "main",
-    "last_commit": "eb33f62",
-    "last_commit_msg": "Add Lead Funnels Training DNA (RB) - +15 elements (v27)",
-    "commits_ahead": 0
+    "last_commit": "91c93b6",
+    "last_commit_msg": "DK 12BBS Phase 6 complete: cargo enrichment + 4 dossiers + AGG-COPYWRITING v1.2.0",
+    "commits_ahead": 0,
+    "pending_commit": "DK ACC Phase 5-8 complete: 829 elements v11.0.0 (4 sources)"
   },
   "session": {
-    "id": "SESSION-2026-03-10-001",
-    "started_at": "2026-03-10T22:00:00Z",
+    "id": "SESSION-2026-03-13-DK-ACC",
+    "started_at": "2026-03-13T00:00:00Z",
     "is_active": true
   },
   "next_action": {
-    "description": "Sistema operacional. Aguardando instruções do senhor.",
+    "description": "DK ACC pipeline completo. Aguardando commit final.",
     "options": [
-      "Expandir RB DNA (mais programas em raw/)",
+      "Commit DK ACC: git commit com todas as mudanças",
       "Ingerir novo material (/ingest)",
       "Ativar Conselho (/conclave)",
       "Consultar agente (/ask)"
@@ -113,8 +126,8 @@
   },
   "mis": {
     "session_id": "",
-    "prompt_count": 81,
-    "bracket": "DEPLETED",
-    "context_percent": 39.2
+    "prompt_count": 132,
+    "bracket": "CRITICAL",
+    "context_percent": 1.0
   }
 }

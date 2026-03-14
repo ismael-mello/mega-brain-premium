@@ -166,6 +166,75 @@ QUANDO O LEAD RESPONDE E AGENDA CALL:
 
 ---
 
-*Dossier v2.0.0 — Cold Outreach — 2026-03-03*
-*Fontes: JH BATCH-100-101 (PCVP) + BATCH-092-094 (30DC) + CA + EDC FW v2.0.0*
+---
+
+## Dan Kennedy — Hit List Farming & Cold Prospecting (ACC)
+
+**Fonte:** Dan Kennedy, Advanced Coaching & Consulting ^[knowledge/dna/persons/dan-kennedy/DNA.yaml]
+
+### MET-DK-095: Cold Client 4-Step Method
+
+```
++------------------------------------------------------------------------------+
+| COLD CLIENT 4-STEP METHOD (Dan Kennedy)                                      |
++------------------------------------------------------------------------------+
+| 1. BUILD HIT LIST    — 100 ideal targets (Ogilvy method)                     |
+| 2. RELENTLESS PRESENCE — 90+ days, unusual items (not brochures)             |
+| 3. DIAGNOSTIC FIRST   — Essay questions, LISTEN (not pitch)                  |
+| 4. WOW BOX DELIVERY   — Bobbleheads, books with post-its, personalized      |
++------------------------------------------------------------------------------+
+| REGRA: Farm patiently — don't hunt. Familiarity converts.                    |
++------------------------------------------------------------------------------+
+```
+
+### FW-DK-123: Hit List Farming Framework
+
+```
+HIT LIST FARMING (Dan Kennedy — ACC):
+
+PASSO 1: Pick 100 target companies (Ogilvy method)
+PASSO 2: Send unusual items REGULARLY (not once)
+PASSO 3: Be relentlessly present for 90+ days
+PASSO 4: DON'T ask for anything initially
+PASSO 5: Wait for familiarity to convert
+PASSO 6: Farm patiently — don't hunt
+
+DIFERENÇA vs JH PCVP:
+- JH: Volume + video personalizado + CTA direto (resposta rápida)
+- DK: Paciência + presença constante + NÃO pede nada (cultivo lento)
+- COMPLEMENTAR: JH para leads quentes/mornos, DK para targets de alto valor
+```
+
+### FW-DK-122: Cold Prospecting via Interview
+
+```
+COLD PROSPECTING VIA INTERVIEW (Dan Kennedy — ACC):
+
+1. Identify niche
+2. Create book or media project (legitimidade)
+3. Request interviews with 100 targets
+4. 77% respond (!) — interview ≠ sales call
+5. Convert interviews into consulting relationships
+   → Demonstrated expertise durante a entrevista
+   → Prospect vê valor ANTES de qualquer pitch
+
+HEURÍSTICA: 77% taxa de resposta via interview request vs ~6-7% cold outreach (JH)
+```
+
+### Cross-Source: DK + JH — Estratégias Complementares
+
+| Aspecto | JH (PCVP/30DC) | DK (Hit List/Interview) |
+|---------|-----------------|-------------------------|
+| Velocidade | Rápido (dias) | Lento (90+ dias) |
+| Volume | Alto (10-20/dia) | Baixo (100 targets fixos) |
+| Abordagem | Direto (video + CTA) | Indireto (presença + valor) |
+| Ticket ideal | $3K-$30K | $50K+ |
+| Taxa resposta | 6-7% (cold video) | 77% (interview request) |
+| Melhor para | Agências, coaches | Enterprise, C-level |
+
+---
+
+*Dossier v3.0.0 — Cold Outreach — 2026-03-13*
+*Fontes: JH BATCH-100-101 (PCVP) + BATCH-092-094 (30DC) + CA + EDC FW + DK ACC v3.0.0*
+*v3.0.0: +DK ACC Hit List Farming (MET-DK-095, FW-DK-123, FW-DK-122), cross-source comparison table*
 *v2.0.0: +30DC Data-Driven Email Framework, heurísticas numéricas, Power of Choice, Trophy Client Positioning*

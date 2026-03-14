@@ -24,6 +24,7 @@ data_criacao: "2025-12-23"
 ultima_atualizacao: "2026-03-13"
 
 # CHANGELOG:
+# v3.4.0 (2026-03-13): Enriquecido dan-kennedy (0.65→0.75) — ACC: fee presentation, toll position, ascension ladder, pricing psychology
 # v3.3.0 (2026-03-13): Adicionado dan-kennedy (0.65) — JV, aquisição, preeminência (7FA CDs 6-8, 12)
 # v3.0.0 (2026-01-10): BUG #1 FIX - Cascateamento completo
 #                      - Removido AGG-SCALING.yaml (não existe)
@@ -306,13 +307,18 @@ dna_sources:
         - "MM-FLCR-004: Espectro de Engajamento (13% → +147% performance)"
 
     - fonte: "dan-kennedy"
-      peso: 0.65
+      peso: 0.75
       path: "/knowledge/dna/persons/dan-kennedy/"
       raiz: "/knowledge/sources/dan-kennedy/raw/"
       dominios_relevantes:
         - "joint-ventures"
         - "business-acquisition"
         - "preeminence-strategy"
+        - "fee-presentation"
+        - "toll-position"
+        - "pricing-psychology"
+        - "ascension-ladder"
+        - "cold-prospecting"
       elementos_chave:
         - "FW-DK-038 (Framework de Preeminência - Jay Abraham)"
         - "MM-DK-032 (Modelo Host-Beneficiário)"
@@ -321,7 +327,18 @@ dna_sources:
         - "FW-DK-036 (Framework de Aquisição em 3 Escolhas)"
         - "FW-DK-047 (Modelagem de Negócios por Analogia Intersetorial)"
         - "MM-DK-031 (3 Formas de Crescer - Jay Abraham)"
-      justificativa: "DK 7FA+12BBS: JV estratégia, aquisição, preeminência, expansão geográfica, recession responses, Collier Principle"
+      # ACC enrichment (2026-03-13 Phase 6)
+      elementos_acc:
+        - "FW-DK-132 (Fee Presentation Protocol — quote and shut up, 3x rule)"
+        - "FIL-DK-156 (Make Fee Disappear Via Math — ROI-based pricing)"
+        - "FW-DK-146 (Ascension Ladder — free→group→platinum→exclusive)"
+        - "FIL-DK-141 (Toll Position — Harvey Brody's gatekeeper model)"
+        - "FIL-DK-146 (Pricing Is a Value Statement — low price damages brand)"
+        - "FIL-DK-147 (Cost-Plus Markup Is Wrong — 70-80% leaves money)"
+        - "FIL-DK-150 (Trade Volume for Margin — fewer clients, higher prices)"
+        - "MET-DK-095 (Hit List Farming — Ogilvy 100 targets, 90+ days)"
+        - "HEUR-DK-232 (5-15-80 Rule — design for top 20%)"
+      justificativa: "DK 7FA+12BBS+ACC: JV estratégia, aquisição, preeminência, fee presentation, toll position, pricing psychology, ascension ladder, cold prospecting"
       adicionado_em: "2026-03-13"
       # 12BBS enrichment (2026-03-13 Phase 6)
       elementos_12bbs:
