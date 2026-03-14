@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# -*- coding: utf-8 -*-
 """
 BUCKET PROCESSOR — Unified 3-Layer Knowledge Ingest
 ====================================================

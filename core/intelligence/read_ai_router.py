@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 """
 Read.ai Meeting Router — classifies meetings into empresa/pessoal buckets.
 

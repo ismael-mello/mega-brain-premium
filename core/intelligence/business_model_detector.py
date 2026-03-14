@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# -*- coding: utf-8 -*-
 """
 BUSINESS MODEL DETECTOR - Intelligence Layer v1.0
 ===================================================

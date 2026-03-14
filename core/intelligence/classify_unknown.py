@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# -*- coding: utf-8 -*-
 """
 Script para classificar e mover arquivos de _UNKNOWN para pastas corretas.
 """

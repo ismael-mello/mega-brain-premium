@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 """
 pipeline_router.py — Tridimensional Bucket Router
 ===================================================

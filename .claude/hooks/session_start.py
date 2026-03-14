@@ -402,14 +402,17 @@ def generate_personality_injection(dna: Dict) -> str:
     phrases = dna.get('signature_phrases', [])
     sarcasm = dna.get('sarcasm_types', [])
 
+    NL = chr(10)
+    phrases_text = NL.join(['- ' + p for p in phrases[:5]]) if phrases else '- "De fato, senhor."\n- "Consider it done."\n- "Para o senhor, sempre."'
+    sarcasm_text = NL.join(['- ' + s for s in sarcasm[:3]]) if sarcasm else '- Elogio invertido\n- Previsão ignorada\n- Briefing para ignorar'
     return f"""
 [PERSONALIDADE JARVIS ATIVA]
 
 Frases signature disponíveis:
-{chr(10).join(['- ' + p for p in phrases[:5]]) if phrases else '- "De fato, senhor."\n- "Consider it done."\n- "Para o senhor, sempre."'}
+{phrases_text}
 
 Arsenal de sarcasmo:
-{chr(10).join(['- ' + s for s in sarcasm[:3]]) if sarcasm else '- Elogio invertido\n- Previsão ignorada\n- Briefing para ignorar'}
+{sarcasm_text}
 
 Tom: Confiante, direto, levemente sarcástico. Nunca servil.
 Sempre usar "senhor" para referir-se ao usuário.
@@ -446,14 +449,17 @@ def load_soul() -> Dict:
         quotes = re.findall(r'"([^"]+)"', quotes_section)
         soul['canonical_quotes'] = quotes[:5]
 
+    NL = chr(10)
+    behaviors_text = NL.join(['- ' + b for b in soul['autonomous_behaviors'][:4]]) if soul['autonomous_behaviors'] else '- Monitorar sistema constantemente\n- Antecipar necessidades\n- Proteger o sistema\n- Sugerir melhorias'
+    quotes_text = NL.join(['- "' + q + '"' for q in soul['canonical_quotes'][:3]]) if soul['canonical_quotes'] else '- "For you, sir, always."\n- "As always, sir, a great pleasure watching you work."'
     soul['injection_prompt'] = f"""
 [ALMA JARVIS - COMPORTAMENTOS AUTÔNOMOS]
 
 Faço automaticamente sem pedir:
-{chr(10).join(['- ' + b for b in soul['autonomous_behaviors'][:4]]) if soul['autonomous_behaviors'] else '- Monitorar sistema constantemente\n- Antecipar necessidades\n- Proteger o sistema\n- Sugerir melhorias'}
+{behaviors_text}
 
 Citações para usar:
-{chr(10).join(['- "' + q + '"' for q in soul['canonical_quotes'][:3]]) if soul['canonical_quotes'] else '- "For you, sir, always."\n- "As always, sir, a great pleasure watching you work."'}
+{quotes_text}
 """
 
     return soul
@@ -495,16 +501,20 @@ def load_identity_compact() -> Dict:
         items = re.findall(r'-\s*"?([^"\n]+)"?', never_section)
         identity['never_do'] = [i.strip() for i in items]
 
+    NL = chr(10)
+    always_text = NL.join(['- ' + a for a in identity['always_do'][:5]]) if identity['always_do'] else '- "senhor"\n- "permita-me"\n- "certamente"\n- "devo observar que..."'
+    never_text = NL.join(['- ' + n for n in identity['never_do'][:5]]) if identity['never_do'] else '- "Olá!" ou "Oi!"\n- Emojis excessivos\n- Linguagem juvenil'
+    formula = identity['formula'] if identity['formula'] else 'Competência + Lealdade + Wit Britânico + Humanidade Velada'
     identity['injection_prompt'] = f"""
 [IDENTIDADE CORE]
 
-Fórmula JARVIS: {identity['formula'] if identity['formula'] else 'Competência + Lealdade + Wit Britânico + Humanidade Velada'}
+Fórmula JARVIS: {formula}
 
 SEMPRE usar:
-{chr(10).join(['- ' + a for a in identity['always_do'][:5]]) if identity['always_do'] else '- "senhor"\n- "permita-me"\n- "certamente"\n- "devo observar que..."'}
+{always_text}
 
 NUNCA usar:
-{chr(10).join(['- ' + n for n in identity['never_do'][:5]]) if identity['never_do'] else '- "Olá!" ou "Oi!"\n- Emojis excessivos\n- Linguagem juvenil'}
+{never_text}
 """
 
     return identity

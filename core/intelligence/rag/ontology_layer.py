@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# -*- coding: utf-8 -*-
 """
 ONTOLOGY LAYER (OG-RAG) - Phase 4.3
 ======================================

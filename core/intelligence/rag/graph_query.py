@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# -*- coding: utf-8 -*-
 """
 GRAPH QUERY ENGINE - Phase 4.5
 ================================

@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# -*- coding: utf-8 -*-
 """
 MEMORY SPLITTER - Phase 2.1
 ============================

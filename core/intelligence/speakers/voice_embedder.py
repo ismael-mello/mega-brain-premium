@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 """
 Voice Embedder — Extracts a unique embedding vector from an audio segment.
 Uses pyannote.audio SpeakerEmbedding when available.

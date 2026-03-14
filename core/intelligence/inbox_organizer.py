@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# -*- coding: utf-8 -*-
 """
 INBOX ORGANIZER — Auto-organize files dropped into bucket inboxes
 =================================================================

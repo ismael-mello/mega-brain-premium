@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# -*- coding: utf-8 -*-
 """
 CHUNKER - Hybrid RAG Phase 3.1
 ================================

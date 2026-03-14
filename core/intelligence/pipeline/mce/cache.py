@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 """
 cache.py -- Two-Level Cache for MCE Pipeline
 =============================================

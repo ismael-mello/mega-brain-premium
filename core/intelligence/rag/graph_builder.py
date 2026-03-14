@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# -*- coding: utf-8 -*-
 """
 KNOWLEDGE GRAPH BUILDER - Phase 4.2 + MCE Extension
 =====================================================

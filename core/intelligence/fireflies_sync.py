@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 """
 Fireflies.ai Transcript Sync Engine -- polls Fireflies GraphQL API,
 downloads new transcripts, classifies them, and writes to the appropriate
@@ -24,7 +25,7 @@ from datetime import datetime, timezone
 from pathlib import Path
 from typing import Any
 
-from core.intelligence.pipeline.fireflies_config import (
+from core.intelligence.fireflies_config import (
     FirefliesConfig,
     load_config,
 )

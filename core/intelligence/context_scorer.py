@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# -*- coding: utf-8 -*-
 """
 ADAPTIVE CONTEXT SCORER - GAP-07 Implementation
 =================================================

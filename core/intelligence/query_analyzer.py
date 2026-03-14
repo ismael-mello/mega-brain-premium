@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# -*- coding: utf-8 -*-
 """
 QUERY ANALYZER - Smart Context Assembly (Phase 1.1)
 ====================================================

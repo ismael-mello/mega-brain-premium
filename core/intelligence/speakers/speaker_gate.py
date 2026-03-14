@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 """
 Speaker Gate — QG-SPEAKER-001
 Validates presence of speaker labels in a text transcript.

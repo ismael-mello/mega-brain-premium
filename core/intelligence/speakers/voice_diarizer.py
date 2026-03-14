@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 """
 Voice Diarizer — Segment audio by speaker using pyannote.audio (local)
 or AssemblyAI (cloud fallback).

@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# -*- coding: utf-8 -*-
 """
 ACTIVATION GENERATOR - IDE Registration Layer v1.0
 ====================================================

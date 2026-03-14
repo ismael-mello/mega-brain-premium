@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# -*- coding: utf-8 -*-
 """
 MCP KNOWLEDGE SERVER - Phase 5.2
 ===================================

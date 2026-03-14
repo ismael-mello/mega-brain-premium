@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# -*- coding: utf-8 -*-
 """
 HYBRID INDEX - Phase 3.2
 =========================
@@ -27,7 +28,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent.parent.parent
 if not os.environ.get("VOYAGE_API_KEY"):
     _env_file = BASE_DIR / ".env"
     if _env_file.exists():
-        for _line in _env_file.read_text().splitlines():
+        for _line in _env_file.read_text(encoding="utf-8", errors="replace").splitlines():
             if _line.startswith("VOYAGE_API_KEY=") and not _line.startswith("#"):
                 os.environ["VOYAGE_API_KEY"] = _line.split("=", 1)[1].strip()
                 break

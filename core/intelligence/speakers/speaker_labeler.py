@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 """
 Speaker Labeler — Interactive: show sample phrases, ask user for speaker name.
 Integrates with voice_registry for persistence.

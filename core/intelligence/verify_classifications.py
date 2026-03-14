@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# -*- coding: utf-8 -*-
 """Spot-check verification for audit_layers.py classifier. Tests known file->layer mappings."""
 import sys
 from pathlib import Path

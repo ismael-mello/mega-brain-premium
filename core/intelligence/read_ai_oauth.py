@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 """
 Read.ai OAuth 2.1 Helper — handles authorization flow and token management.
 
