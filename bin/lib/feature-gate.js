@@ -7,7 +7,7 @@ import { isProInstalled } from '../utils/pro-detector.js';
 const FEATURES = {
   knowledge:  { name: 'Knowledge Base',   description: 'Dossiers, sources, DNAs',            tier: 'pro' },
   playbooks:  { name: 'Playbooks',        description: 'Playbooks operacionais',              tier: 'pro' },
-  persons:    { name: 'Mind Clones',       description: 'agents/persons/ (Hormozi, Cole, etc.)', tier: 'pro' },
+  persons:    { name: 'Mind Clones',       description: 'agents/external/ (Hormozi, Cole, etc.)', tier: 'pro' },
   cargo:      { name: 'C-Level Agents',    description: 'agents/cargo/ (CRO, CFO, CMO)',      tier: 'pro' },
   processing: { name: 'Processing Data',   description: 'Conteudo processado',                 tier: 'pro' },
   cli:        { name: 'CLI + Skills',      description: 'Comandos, skills, hooks, rules',      tier: 'community' },
