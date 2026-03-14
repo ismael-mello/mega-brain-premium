@@ -1,6 +1,6 @@
 # DOSSIÊ: JORDAN LEE
 
-[[HOME|← Home]] | [[MOC-PESSOAS|👤 Pessoas]] | [[MOC-TEMAS|📚 Temas]] | [[knowledge/dna/persons/JORDAN-LEE/CONFIG|⚙️ DNA Config]]
+[[HOME|← Home]] | [[MOC-PESSOAS|👤 Pessoas]] | [[MOC-TEMAS|📚 Temas]] | [[knowledge/external/dna/persons/JORDAN-LEE/CONFIG|⚙️ DNA Config]]
 
 > **Em resumo:** Construí AI Acquisition de zero a $4-6M/mês em ~3 anos, bootstrapped, sem investidores. 70 closers fazendo 300 calls/dia. Saí de fábrica aos 16, retired aos 29. Minha filosofia: Competency > Experience, urgency = success, e pensar 10x em vez de 2x.
 >

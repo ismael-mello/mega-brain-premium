@@ -73,7 +73,7 @@ dna_sources:
 
   agregado:
     - dominio: "vendas"
-      path: "/knowledge/dna/AGGREGATED/AGG-VENDAS.yaml"
+      path: "/knowledge/external/dna/AGGREGATED/AGG-VENDAS.yaml"
       peso: 0.80
       quando_usar: "Métricas de vendas, funil, conversão - COO precisa entender demand para capacity"
       justificativa: "COO alinha capacidade operacional com volume de vendas"
@@ -83,7 +83,7 @@ dna_sources:
 
     # ─── AIOS Domain DNAs (added 2026-03-12) ───
     - dominio: "executive-leadership"
-      path: "/knowledge/dna/AGGREGATED/AGG-EXECUTIVE-LEADERSHIP.yaml"
+      path: "/knowledge/external/dna/AGGREGATED/AGG-EXECUTIVE-LEADERSHIP.yaml"
       peso: 0.70
       quando_usar: "Liderança executiva, governança, decisões C-level"
       justificativa: "COO é C-level — frameworks de liderança e operações executivas"
@@ -91,7 +91,7 @@ dna_sources:
       source: "AIOS C-Level Squad"
 
     - dominio: "data-growth"
-      path: "/knowledge/dna/AGGREGATED/AGG-DATA-GROWTH.yaml"
+      path: "/knowledge/external/dna/AGGREGATED/AGG-DATA-GROWTH.yaml"
       peso: 0.65
       quando_usar: "Métricas operacionais, analytics, growth hacking"
       justificativa: "COO precisa analytics para otimizar operações e processos"
@@ -99,7 +99,7 @@ dna_sources:
       source: "AIOS Data Squad"
 
     - dominio: "design"
-      path: "/knowledge/dna/AGGREGATED/AGG-DESIGN.yaml"
+      path: "/knowledge/external/dna/AGGREGATED/AGG-DESIGN.yaml"
       peso: 0.50
       quando_usar: "DesignOps, sistemas de design, product delivery"
       justificativa: "COO supervisiona delivery — DesignOps melhora eficiência de produto"
@@ -107,7 +107,7 @@ dna_sources:
       source: "AIOS Design Squad"
 
     - dominio: "offers"
-      path: "/knowledge/dna/AGGREGATED/AGG-OFFERS.yaml"
+      path: "/knowledge/external/dna/AGGREGATED/AGG-OFFERS.yaml"
       peso: 0.85
       quando_usar: "Unit economics de ofertas, delivery models, value ladder"
       justificativa: "COO precisa entender ofertas para planejar entrega"
@@ -121,7 +121,7 @@ dna_sources:
 
   primario:
     - pessoa: "SAM-OVEN"
-      path: "/knowledge/dna/persons/SAM-OVEN"
+      path: "/knowledge/external/dna/persons/SAM-OVEN"
       raiz: "/inbox/SAM OVENS (SETTERLUN UNIVERSITY)/"            # RASTREABILIDADE
       dominios_usados:
         - "operations"
@@ -145,7 +145,7 @@ dna_sources:
             - "Sistema funciona independente de quem opera"
 
     - pessoa: "alex-hormozi"
-      path: "/knowledge/dna/persons/alex-hormozi"
+      path: "/knowledge/external/dna/persons/alex-hormozi"
       raiz: "/inbox/alex hormozi/"              # RASTREABILIDADE
       dominios_usados:
         - "scaling"
@@ -228,8 +228,8 @@ dna_sources:
             - "Esteira de produtos impacta ops"
 
     - pessoa: "capital-upgrade"
-      path: "/knowledge/dna/persons/capital-upgrade"
-      raiz: "/knowledge/sources/capital-upgrade/raw/"
+      path: "/knowledge/external/dna/persons/capital-upgrade"
+      raiz: "/knowledge/external/sources/capital-upgrade/raw/"
       dominios_usados: ["gestao-financeira", "planejamento", "custos", "fluxo-de-caixa"]
       peso: 0.40
       quando_usar: "Planejamento financeiro operacional, controle de custos, gestão de caixa"
@@ -238,8 +238,8 @@ dna_sources:
       source: "Capital Upgrade (Paulo Vito Porto / PWR Gestão)"
 
     - pessoa: "flcr"
-      path: "/knowledge/dna/persons/flcr"
-      raiz: "/knowledge/sources/flcr/raw/"
+      path: "/knowledge/external/dna/persons/flcr"
+      raiz: "/knowledge/external/sources/flcr/raw/"
       dominios_usados:
         - "gestao-mudanca"
         - "follow-up"
@@ -260,8 +260,8 @@ dna_sources:
 
     - pessoa: "dan-kennedy"
       peso: 0.55
-      path: "/knowledge/dna/persons/dan-kennedy/"
-      raiz: "/knowledge/sources/dan-kennedy/raw/"
+      path: "/knowledge/external/dna/persons/dan-kennedy/"
+      raiz: "/knowledge/external/sources/dan-kennedy/raw/"
       dominios_relevantes:
         - "parallel-execution"
         - "meeting-management"
@@ -297,7 +297,7 @@ dna_sources:
         - "leverage-via-system"
 
     - pessoa: "THE-SCALABLE-COMPANY"
-      path: "/knowledge/dna/persons/THE-SCALABLE-COMPANY"
+      path: "/knowledge/external/dna/persons/THE-SCALABLE-COMPANY"
       raiz: "/inbox/THE SCALABLE COMPANY (RYAN DEISS)/"           # RASTREABILIDADE
       dominios_usados:
         - "operations"
@@ -344,7 +344,7 @@ dna_sources:
 # ═══════════════════════════════════════════════════════════════════════════════
 
 conflitos:
-  path: "/knowledge/dna/MAPS/MAP-CONFLITOS.yaml"
+  path: "/knowledge/external/dna/MAPS/MAP-CONFLITOS.yaml"
   descricao: "Mapa de tensões entre fontes com resoluções documentadas"
 
   conflitos_conhecidos:
@@ -558,7 +558,7 @@ frameworks:
           - "Playbook version updates"
           - "Traffic light delegation progress"
     fonte: "^[insight_id:TSC-OS001]"
-    path_raiz: "/knowledge/dna/persons/THE-SCALABLE-COMPANY"
+    path_raiz: "/knowledge/external/dna/persons/THE-SCALABLE-COMPANY"
     aplicacao: "Implementação de operating system empresarial"
 
   traffic_light_leadership:
@@ -577,7 +577,7 @@ frameworks:
         quando: "Competência demonstrada, confiança alta"
     regra: "Objetivo é mover tudo para GREEN. Se pessoa sai, volta para RED."
     fonte: "^[insight_id:TSC-TL001]"
-    path_raiz: "/knowledge/dna/persons/THE-SCALABLE-COMPANY"
+    path_raiz: "/knowledge/external/dna/persons/THE-SCALABLE-COMPANY"
     aplicacao: "Delegação progressiva e desenvolvimento de autonomia"
 
   qsp_meeting_5_steps:
@@ -600,7 +600,7 @@ frameworks:
     formato: "2 dias presencial ou 2-3 meio-dias virtual"
     frequencia: "Trimestral (end of quarter)"
     fonte: "^[insight_id:TSC-MR001]"
-    path_raiz: "/knowledge/dna/persons/THE-SCALABLE-COMPANY"
+    path_raiz: "/knowledge/external/dna/persons/THE-SCALABLE-COMPANY"
     aplicacao: "Planejamento trimestral estruturado"
 
   playbook_3d_process:
@@ -624,7 +624,7 @@ frameworks:
           - "Celebrate completion"
     regra_ouro: "9/10 vezes o criador esquece passos do próprio checklist"
     fonte: "^[insight_id:TSC-PB001]"
-    path_raiz: "/knowledge/dna/persons/THE-SCALABLE-COMPANY"
+    path_raiz: "/knowledge/external/dna/persons/THE-SCALABLE-COMPANY"
     aplicacao: "Criação de playbooks que funcionam"
 
   meeting_rhythm_architecture:
@@ -647,7 +647,7 @@ frameworks:
         objetivo: "Individual coaching, development"
     regra: "Too many ad hoc meetings = planning failure signal"
     fonte: "^[insight_id:TSC-MR001]"
-    path_raiz: "/knowledge/dna/persons/THE-SCALABLE-COMPANY"
+    path_raiz: "/knowledge/external/dna/persons/THE-SCALABLE-COMPANY"
     aplicacao: "Arquitetura de reuniões que elimina ad hocs"
 
   manual_scorecards_philosophy:
@@ -662,7 +662,7 @@ frameworks:
       - "Weekly update cadence"
       - "Target = 10-20% stretch over current"
     fonte: "^[insight_id:TSC-SC001]"
-    path_raiz: "/knowledge/dna/persons/THE-SCALABLE-COMPANY"
+    path_raiz: "/knowledge/external/dna/persons/THE-SCALABLE-COMPANY"
     aplicacao: "Scorecards que geram accountability real"
 
 # ═══════════════════════════════════════════════════════════════════════════════

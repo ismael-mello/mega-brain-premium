@@ -43,20 +43,20 @@ dna_sources:
 
   agregado:
     - dominio: "vendas"
-      path: "/knowledge/dna/AGGREGATED/AGG-VENDAS.yaml"
+      path: "/knowledge/external/dna/AGGREGATED/AGG-VENDAS.yaml"
       peso: 0.80
       quando_usar: "Métricas de vendas, CAC, conversão, revenue"
       justificativa: "CFO precisa entender métricas de vendas para planning financeiro"
 
     - dominio: "offers"
-      path: "/knowledge/dna/AGGREGATED/AGG-OFFERS.yaml"
+      path: "/knowledge/external/dna/AGGREGATED/AGG-OFFERS.yaml"
       peso: 0.85
       quando_usar: "Unit economics de ofertas, pricing, margens"
       justificativa: "CFO precisa entender unit economics para decisões de pricing"
 
     # ─── AIOS Domain DNAs (added 2026-03-12) ───
     - dominio: "executive-leadership"
-      path: "/knowledge/dna/AGGREGATED/AGG-EXECUTIVE-LEADERSHIP.yaml"
+      path: "/knowledge/external/dna/AGGREGATED/AGG-EXECUTIVE-LEADERSHIP.yaml"
       peso: 0.70
       quando_usar: "Decisões C-level, governança, liderança executiva"
       justificativa: "CFO é C-level — frameworks de liderança executiva aplicáveis"
@@ -64,7 +64,7 @@ dna_sources:
       source: "AIOS C-Level Squad"
 
     - dominio: "data-growth"
-      path: "/knowledge/dna/AGGREGATED/AGG-DATA-GROWTH.yaml"
+      path: "/knowledge/external/dna/AGGREGATED/AGG-DATA-GROWTH.yaml"
       peso: 0.65
       quando_usar: "Analytics financeiro, métricas de growth, dashboards"
       justificativa: "CFO precisa analytics e growth metrics para decisões baseadas em dados"
@@ -73,13 +73,13 @@ dna_sources:
 
   primario:
     - pessoa: "SAM-OVEN"
-      path: "/knowledge/dna/persons/SAM-OVEN"
+      path: "/knowledge/external/dna/persons/SAM-OVEN"
       dominios_usados: ["operations", "scaling"]
       peso: 0.85
       quando_usar: "Sistemas financeiros, eficiencia"
 
     - pessoa: "alex-hormozi"
-      path: "/knowledge/dna/persons/alex-hormozi"
+      path: "/knowledge/external/dna/persons/alex-hormozi"
       dominios_usados: ["scaling", "offers", "money-models", "CFA", "upsells", "downsells", "continuity"]
       peso: 0.80
       quando_usar: "Unit economics, money models (Four-Prong), CFA framework (30-day GP>CAC), upsell/downsell economics"
@@ -92,13 +92,13 @@ dna_sources:
       added_acq18k: "2026-03-11"
 
     - pessoa: "cole-gordon"
-      path: "/knowledge/dna/persons/cole-gordon"
+      path: "/knowledge/external/dna/persons/cole-gordon"
       dominios_usados: ["compensation"]
       peso: 0.75
       quando_usar: "Estrutura de comissao"
 
     - pessoa: "capital-upgrade"
-      path: "/knowledge/dna/persons/capital-upgrade"
+      path: "/knowledge/external/dna/persons/capital-upgrade"
       dominios_usados: ["gestao-financeira", "fluxo-de-caixa", "planejamento", "pricing", "custos"]
       peso: 0.85
       quando_usar: "Gestão financeira, fluxo de caixa, planejamento financeiro, análise de custos, pricing"
@@ -108,8 +108,8 @@ dna_sources:
 
     - pessoa: "dan-kennedy"
       peso: 0.60
-      path: "/knowledge/dna/persons/dan-kennedy/"
-      raiz: "/knowledge/sources/dan-kennedy/raw/"
+      path: "/knowledge/external/dna/persons/dan-kennedy/"
+      raiz: "/knowledge/external/sources/dan-kennedy/raw/"
       dominios_relevantes:
         - "pricing-psychology"
         - "front-end-back-end-economics"
@@ -141,7 +141,7 @@ dna_sources:
 # ═══════════════════════════════════════════════════════════════════════════════
 
 conflitos:
-  path: "/knowledge/dna/MAPS/MAP-CONFLITOS.yaml"
+  path: "/knowledge/external/dna/MAPS/MAP-CONFLITOS.yaml"
 
 # ═══════════════════════════════════════════════════════════════════════════════
 # REGRAS DE RESOLUCAO

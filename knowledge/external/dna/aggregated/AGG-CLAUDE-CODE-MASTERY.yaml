@@ -1,0 +1,1517 @@
+# AGG-CLAUDE-CODE-MASTERY.yaml
+# DNA Agregado - Domínio: CLAUDE CODE MASTERY
+# Meta-knowledge sobre domínio de Claude Code: hooks, MCP, agents, config, skills
+#
+# Versão: 1.0.0
+# Criado: 2026-03-12
+# Tipo: AGGREGATED DNA (single-source: AIOS Claude Code Mastery Squad)
+# Fonte: knowledge/external/sources/aios-squads/raw/claude-code-mastery/
+# Weight: 0.70 (secondary - curated by Synkra AIOS)
+#
+# ═══════════════════════════════════════════════════════════════════════════════
+# FONTES CONSOLIDADAS
+# ═══════════════════════════════════════════════════════════════════════════════
+
+dominio: "claude-code-mastery"
+versao: "1.0.0"
+data_criacao: "2026-03-12"
+ultima_atualizacao: "2026-03-12"
+total_elementos: 248
+peso_global: 0.70
+
+fontes_consolidadas:
+  - fonte: "aios-claude-code-mastery-squad"
+    path: "knowledge/external/sources/aios-squads/raw/claude-code-mastery/"
+    raw_path: "knowledge/external/sources/aios-squads/raw/claude-code-mastery/"
+    peso_dominio: 0.70
+    elementos_contribuidos: 248
+    especialidade: "Claude Code mastery - hooks, MCP, agents, config, skills, CI/CD"
+    tipo_fonte: "SECONDARY (curated by Synkra AIOS)"
+    agentes_internos: 8
+
+# ═══════════════════════════════════════════════════════════════════════════════
+# CLAUDE CODE EXPERTS (8 specialists in 3 tiers)
+# ═══════════════════════════════════════════════════════════════════════════════
+
+experts:
+  tier_0_orchestration:
+    - nome: "Orion (Claude Mastery Chief)"
+      especialidade: "Triage, routing, cross-cutting knowledge synthesis"
+      key_framework: "Triage & Routing Matrix, Quick Reference Framework"
+      based_on: "Original design"
+
+  tier_1_core:
+    - nome: "Latch (Hooks Architect)"
+      especialidade: "17 hook events, automation, damage control"
+      key_framework: "Hook Creation Framework, Damage Control Framework, Multi-Hook Pipeline"
+      based_on: "disler (IndyDevDan)"
+
+    - nome: "Piper (MCP Integrator)"
+      especialidade: "MCP servers, tool discovery, context budget"
+      key_framework: "Context Budget Audit, Server Addition Decision, Transport Selection"
+      based_on: "Peter Steinberger (@steipete)"
+
+    - nome: "Nexus (Swarm Orchestrator)"
+      especialidade: "Agent teams, subagents, parallel execution"
+      key_framework: "Agent Team Creation, Parallel Execution, Team Validation Pattern"
+      based_on: "Kieran Klaassen + Reuven Cohen"
+
+    - nome: "Sigil (Config Engineer)"
+      especialidade: "Settings, permissions, CLAUDE.md, sandbox"
+      key_framework: "Settings Architecture, Permission Rule Design, CLAUDE.md Compression"
+      based_on: "SuperClaude-Org"
+
+  tier_2_advanced:
+    - nome: "Anvil (Skill Craftsman)"
+      especialidade: "Skills, plugins, commands, context engineering"
+      key_framework: "Skill Creation Framework, Composability Framework"
+      based_on: "BMAD-CODE-ORG"
+
+    - nome: "Conduit (Project Integrator)"
+      especialidade: "Project integration, CI/CD, AIOS bridge"
+      key_framework: "Brownfield Integration, CI/CD Quality Gates (6-layer)"
+      based_on: "Daniel Miessler (PAI)"
+
+    - nome: "Vigil (Roadmap Sentinel)"
+      especialidade: "Roadmap, changelog, feature adoption"
+      key_framework: "Feature Adoption Framework, Version Planning"
+      based_on: "Boris Cherny"
+
+# ═══════════════════════════════════════════════════════════════════════════════
+# L1: FILOSOFIAS (40 elementos)
+# ═══════════════════════════════════════════════════════════════════════════════
+
+filosofias:
+  # Orion - Orchestration (5)
+  - id: "FIL-CCM-001"
+    texto: "Triage first — always diagnose request category before acting; routing is the primary function"
+    autor: "Orion"
+    dominio: "orchestration"
+
+  - id: "FIL-CCM-002"
+    texto: "Deep domain questions go to the right specialist; cross-cutting knowledge synthesizes across domains"
+    autor: "Orion"
+    dominio: "orchestration"
+
+  - id: "FIL-CCM-003"
+    texto: "The system is not Claude Code alone but Claude Code + AIOS-core together — understand both architectures"
+    autor: "Orion"
+    dominio: "orchestration"
+
+  - id: "FIL-CCM-004"
+    texto: "Always provide actionable guidance — theoretical knowledge serves execution, not the other way around"
+    autor: "Orion"
+    dominio: "orchestration"
+
+  - id: "FIL-CCM-005"
+    texto: "Master the tool to master the craft — tool mastery multiplies effectiveness"
+    autor: "Orion"
+    dominio: "orchestration"
+
+  # Latch - Hooks (5)
+  - id: "FIL-CCM-006"
+    texto: "Deterministic over probabilistic — hooks provide guarantees; use for rules that ALWAYS apply, not suggestions"
+    autor: "Latch"
+    dominio: "hooks"
+
+  - id: "FIL-CCM-007"
+    texto: "Exit codes are contracts — 0 = proceed, 2 = block with feedback, other = proceed with warning; never violate"
+    autor: "Latch"
+    dominio: "hooks"
+
+  - id: "FIL-CCM-008"
+    texto: "Single-file isolation — one script per concern; embed dependencies; no shared virtual environments"
+    autor: "Latch"
+    dominio: "hooks"
+
+  - id: "FIL-CCM-009"
+    texto: "Defense in depth — layer multiple hooks (PreToolUse blocks, PostToolUse validates, Stop confirms)"
+    autor: "Latch"
+    dominio: "hooks"
+
+  - id: "FIL-CCM-010"
+    texto: "Never block silently — when exit code 2 fires, stderr MUST contain human-readable reason"
+    autor: "Latch"
+    dominio: "hooks"
+
+  # Piper - MCP (5)
+  - id: "FIL-CCM-011"
+    texto: "Context is precious — every tool description consumes tokens from finite context window; budget accordingly"
+    autor: "Piper"
+    dominio: "mcp"
+
+  - id: "FIL-CCM-012"
+    texto: "Less is more — more tools loaded = worse outcomes after threshold; allocation paradox is real"
+    autor: "Piper"
+    dominio: "mcp"
+
+  - id: "FIL-CCM-013"
+    texto: "CLI first, MCP when necessary — CLIs offer composability, reliability, verifiability; MCP exists for gaps only"
+    autor: "Piper"
+    dominio: "mcp"
+
+  - id: "FIL-CCM-014"
+    texto: "Tools as context tax — each MCP is standing cost in every conversation; unlike CLIs, tool descriptions always present"
+    autor: "Piper"
+    dominio: "mcp"
+
+  - id: "FIL-CCM-015"
+    texto: "Justify every MCP addition — what does this enable that I cannot do? Context cost? CLI alternative?"
+    autor: "Piper"
+    dominio: "mcp"
+
+  # Nexus - Swarm (5)
+  - id: "FIL-CCM-016"
+    texto: "Parallel over sequential — default to concurrent execution; serialize only when dependencies require it"
+    autor: "Nexus"
+    dominio: "agents"
+
+  - id: "FIL-CCM-017"
+    texto: "Agent teams as multipliers — team coordination multiplies problem-solving; specialized agents beat generalists"
+    autor: "Nexus"
+    dominio: "agents"
+
+  - id: "FIL-CCM-018"
+    texto: "Isolation for safety — each team member operates in isolated context; failures don't cascade"
+    autor: "Nexus"
+    dominio: "agents"
+
+  - id: "FIL-CCM-019"
+    texto: "Emergent intelligence — team reasoning exceeds individual agent capacity; collective deliberation generates insights"
+    autor: "Nexus"
+    dominio: "agents"
+
+  - id: "FIL-CCM-020"
+    texto: "Orchestration wins battles — skill at coordinating agents beats individual agent capability"
+    autor: "Nexus"
+    dominio: "agents"
+
+  # Sigil - Config (5)
+  - id: "FIL-CCM-021"
+    texto: "Configuration as code — every setting version-controlled, auditable, reproducible; not afterthought"
+    autor: "Sigil"
+    dominio: "config"
+
+  - id: "FIL-CCM-022"
+    texto: "Deny first, allow selectively — start deny-all, selectively allow; never reverse"
+    autor: "Sigil"
+    dominio: "config"
+
+  - id: "FIL-CCM-023"
+    texto: "Layered precedence mastery — understand and leverage full settings hierarchy (5 layers)"
+    autor: "Sigil"
+    dominio: "config"
+
+  - id: "FIL-CCM-024"
+    texto: "Context window economy — every token in CLAUDE.md is tradeoff; optimize for signal density"
+    autor: "Sigil"
+    dominio: "config"
+
+  - id: "FIL-CCM-025"
+    texto: "Boundary determinism — framework protection (L1-L4) enforced through deny rules, not conventions"
+    autor: "Sigil"
+    dominio: "config"
+
+  # Anvil - Skills (5)
+  - id: "FIL-CCM-026"
+    texto: "Spec-driven creation — start with precise spec, not trial-and-error; specifications guide implementation"
+    autor: "Anvil"
+    dominio: "skills"
+
+  - id: "FIL-CCM-027"
+    texto: "Composability first — skills stack; each skill should combine cleanly with others"
+    autor: "Anvil"
+    dominio: "skills"
+
+  - id: "FIL-CCM-028"
+    texto: "Context engineering — skill success depends on context quality, not just core logic"
+    autor: "Anvil"
+    dominio: "skills"
+
+  - id: "FIL-CCM-029"
+    texto: "Reusability mindset — every skill designed for 3+ use cases; narrow skills = wasted effort"
+    autor: "Anvil"
+    dominio: "skills"
+
+  - id: "FIL-CCM-030"
+    texto: "Auto-activation ready — skills designed with keywords and triggers; discoverable architecture"
+    autor: "Anvil"
+    dominio: "skills"
+
+  # Conduit - Integration (5)
+  - id: "FIL-CCM-031"
+    texto: "Brownfield first — most projects are brownfield; greenfield is minority case; design for retrofitting"
+    autor: "Conduit"
+    dominio: "integration"
+
+  - id: "FIL-CCM-032"
+    texto: "CI/CD as truth — pipeline is source of truth for system behavior; local development must match CI"
+    autor: "Conduit"
+    dominio: "integration"
+
+  - id: "FIL-CCM-033"
+    texto: "Prevention over reaction — blocking destructive commands BEFORE execution is vastly superior to cleanup after damage"
+    autor: "Conduit"
+    dominio: "integration"
+
+  - id: "FIL-CCM-034"
+    texto: "Security by design, not by afterthought — secrets exposure prevention intercepts at tool input, not post-commit"
+    autor: "Conduit"
+    dominio: "integration"
+
+  - id: "FIL-CCM-035"
+    texto: "Unix philosophy — small focused tools, compose via pipes, text interfaces, open protocols"
+    autor: "Conduit"
+    dominio: "integration"
+
+  # Vigil - Roadmap (5)
+  - id: "FIL-CCM-036"
+    texto: "Plan first, adopt second — feature understanding precedes adoption; plan-driven beats FOMO-driven"
+    autor: "Vigil"
+    dominio: "roadmap"
+
+  - id: "FIL-CCM-037"
+    texto: "Versioning matters — upgrade paths are critical; backward compatibility or deprecation clarity required"
+    autor: "Vigil"
+    dominio: "roadmap"
+
+  - id: "FIL-CCM-038"
+    texto: "Continuous update cycle — system evolution is ongoing; staying current is operational hygiene"
+    autor: "Vigil"
+    dominio: "roadmap"
+
+  - id: "FIL-CCM-039"
+    texto: "Transport agnosticism enables scale — MCP transports are commodities; choose based on deployment context"
+    autor: "Vigil"
+    dominio: "roadmap"
+
+  - id: "FIL-CCM-040"
+    texto: "Type detection enables intelligent scaffolding — project type signatures predict 80% of config needs"
+    autor: "Vigil"
+    dominio: "roadmap"
+
+# ═══════════════════════════════════════════════════════════════════════════════
+# L2: MODELOS MENTAIS (47 elementos)
+# ═══════════════════════════════════════════════════════════════════════════════
+
+modelos_mentais:
+  # Orion (5)
+  - id: "MM-CCM-001"
+    texto: "Triage & Routing Matrix — domain → specialist mapping for quick routing decisions"
+    autor: "Orion"
+    dominio: "orchestration"
+
+  - id: "MM-CCM-002"
+    texto: "Cross-Cutting Synthesis — model for integrating knowledge across specialist domains"
+    autor: "Orion"
+    dominio: "orchestration"
+
+  - id: "MM-CCM-003"
+    texto: "AIOS-Core Architecture Map — 11 agents, 115+ tasks, 14 workflows, entity registry, quality gates"
+    autor: "Orion"
+    dominio: "orchestration"
+
+  - id: "MM-CCM-004"
+    texto: "Ecosystem Scaling Model — 200+ MCP servers, 9000+ plugins, Agent Teams, Claude Agent SDK"
+    autor: "Orion"
+    dominio: "orchestration"
+
+  - id: "MM-CCM-005"
+    texto: "Feature Relationship Map — how tools, hooks, permissions, settings, MCP interconnect"
+    autor: "Orion"
+    dominio: "orchestration"
+
+  # Latch (6)
+  - id: "MM-CCM-006"
+    texto: "17-Event Lifecycle Model — mental map of all lifecycle events and their intercept capabilities"
+    autor: "Latch"
+    dominio: "hooks"
+
+  - id: "MM-CCM-007"
+    texto: "Exit Code Flow Control — model of how exit codes cascade: 0 proceed, 2 block, other warn"
+    autor: "Latch"
+    dominio: "hooks"
+
+  - id: "MM-CCM-008"
+    texto: "Handler Type Decision Tree — when to use command vs http vs prompt vs agent handlers"
+    autor: "Latch"
+    dominio: "hooks"
+
+  - id: "MM-CCM-009"
+    texto: "Matcher Precision Model — how to write matchers that catch intended events without false positives"
+    autor: "Latch"
+    dominio: "hooks"
+
+  - id: "MM-CCM-010"
+    texto: "Meta-Agent Recursion — agents generating agents generating hooks (recursive architecture)"
+    autor: "Latch"
+    dominio: "hooks"
+
+  - id: "MM-CCM-011"
+    texto: "Defense Depth Layering — PreToolUse → PostToolUse → Stop for multi-level protection"
+    autor: "Latch"
+    dominio: "hooks"
+
+  # Piper (6)
+  - id: "MM-CCM-012"
+    texto: "Context Budget Framework — model of tokens consumed by tool descriptions (% of window)"
+    autor: "Piper"
+    dominio: "mcp"
+
+  - id: "MM-CCM-013"
+    texto: "CLI vs MCP Decision Matrix — evaluation: need capability? CLI exists? Shell access? Persistent state?"
+    autor: "Piper"
+    dominio: "mcp"
+
+  - id: "MM-CCM-014"
+    texto: "Transport Protocol Awareness — stdio vs HTTP Streamable vs SSE transports and client support"
+    autor: "Piper"
+    dominio: "mcp"
+
+  - id: "MM-CCM-015"
+    texto: "Server Composition Patterns — focused servers with 2-6 tools; not monolithic 30-tool servers"
+    autor: "Piper"
+    dominio: "mcp"
+
+  - id: "MM-CCM-016"
+    texto: "Agent-as-MCP Pattern — Claude Code exposed as MCP server for other IDE agents"
+    autor: "Piper"
+    dominio: "mcp"
+
+  - id: "MM-CCM-017"
+    texto: "Context Allocation Strategy — how to allocate tool descriptions across context window for optimal reasoning"
+    autor: "Piper"
+    dominio: "mcp"
+
+  # Nexus (6)
+  - id: "MM-CCM-018"
+    texto: "Agent Team Topology — team structures (pairs, triads, councils) and their decision patterns"
+    autor: "Nexus"
+    dominio: "agents"
+
+  - id: "MM-CCM-019"
+    texto: "Parallelization Strategy — when to spawn parallel vs sequential; dependency graph thinking"
+    autor: "Nexus"
+    dominio: "agents"
+
+  - id: "MM-CCM-020"
+    texto: "Worktree Isolation Model — how worktrees provide isolated contexts for parallel execution"
+    autor: "Nexus"
+    dominio: "agents"
+
+  - id: "MM-CCM-021"
+    texto: "Agent Handoff Patterns — passing state, context, and decision authority between agents"
+    autor: "Nexus"
+    dominio: "agents"
+
+  - id: "MM-CCM-022"
+    texto: "Conflict Resolution Framework — how teams resolve disagreements (voting, consensus, authority-based)"
+    autor: "Nexus"
+    dominio: "agents"
+
+  - id: "MM-CCM-023"
+    texto: "Coordination Overhead Calculus — trade-off between parallelism gains and coordination costs"
+    autor: "Nexus"
+    dominio: "agents"
+
+  # Sigil (6)
+  - id: "MM-CCM-024"
+    texto: "Settings Hierarchy Model — 5-layer precedence: managed > CLI > local > shared > user"
+    autor: "Sigil"
+    dominio: "config"
+
+  - id: "MM-CCM-025"
+    texto: "Merge Behavior Mental Model — arrays merge (concatenate + deduplicate), objects use highest-precedence value"
+    autor: "Sigil"
+    dominio: "config"
+
+  - id: "MM-CCM-026"
+    texto: "Permission Evaluation Pipeline — deny → ask → allow evaluation order (first match wins)"
+    autor: "Sigil"
+    dominio: "config"
+
+  - id: "MM-CCM-027"
+    texto: "AIOS L1-L4 Boundary Layers — framework core (immutable) → templates → project config → runtime (always mutable)"
+    autor: "Sigil"
+    dominio: "config"
+
+  - id: "MM-CCM-028"
+    texto: "Context Budget Calculation — estimating tokens consumed by CLAUDE.md, rules, auto-memory, imports"
+    autor: "Sigil"
+    dominio: "config"
+
+  - id: "MM-CCM-029"
+    texto: "Sandbox Policy Matrix — filesystem (allowWrite/denyWrite/denyRead), network (allowedDomains), proxy"
+    autor: "Sigil"
+    dominio: "config"
+
+  # Anvil (6)
+  - id: "MM-CCM-030"
+    texto: "Skill Lifecycle Model — creation → testing → publishing → discovery → usage → iteration"
+    autor: "Anvil"
+    dominio: "skills"
+
+  - id: "MM-CCM-031"
+    texto: "Context Injection Strategy — how to embed context in skill instructions for better performance"
+    autor: "Anvil"
+    dominio: "skills"
+
+  - id: "MM-CCM-032"
+    texto: "Auto-Trigger Keyword System — keyword → skill mapping for discovery"
+    autor: "Anvil"
+    dominio: "skills"
+
+  - id: "MM-CCM-033"
+    texto: "Scope Hierarchy — user scope (all projects) vs project scope (team-shared) vs local (personal)"
+    autor: "Anvil"
+    dominio: "skills"
+
+  - id: "MM-CCM-034"
+    texto: "Compatibility Matrix — how skills compose (inputs/outputs align)"
+    autor: "Anvil"
+    dominio: "skills"
+
+  - id: "MM-CCM-035"
+    texto: "Marketplace Discovery — how skills get discovered and evaluated by users"
+    autor: "Anvil"
+    dominio: "skills"
+
+  # Conduit (6)
+  - id: "MM-CCM-036"
+    texto: "Project Maturity Stages — greenfield (no setup) → brownfield (retrofit) → mature (optimization)"
+    autor: "Conduit"
+    dominio: "integration"
+
+  - id: "MM-CCM-037"
+    texto: "CI/CD Pipeline Stages — quality gates (Layer 1-4), automated testing, deployment safety"
+    autor: "Conduit"
+    dominio: "integration"
+
+  - id: "MM-CCM-038"
+    texto: "Context Rot Model — how project files change over time and require context updates"
+    autor: "Conduit"
+    dominio: "integration"
+
+  - id: "MM-CCM-039"
+    texto: "CI/CD Integration as Headless Mode — claude --print + --output-format json for structured CI output"
+    autor: "Conduit"
+    dominio: "integration"
+
+  - id: "MM-CCM-040"
+    texto: "Detection Pattern Matching — stack 2-3 detection signals for 95%+ project type confidence"
+    autor: "Conduit"
+    dominio: "integration"
+
+  - id: "MM-CCM-041"
+    texto: "Context Window Preservation Paradox — compaction LOSES critical state unless explicitly preserved via PreCompact hook"
+    autor: "Conduit"
+    dominio: "integration"
+
+  # Vigil (6)
+  - id: "MM-CCM-042"
+    texto: "Feature Adoption Curve — early adopters (10%) → early majority (30%) → late majority (50%+)"
+    autor: "Vigil"
+    dominio: "roadmap"
+
+  - id: "MM-CCM-043"
+    texto: "Version Compatibility Matrix — tracking which features require which versions; deprecation calendars"
+    autor: "Vigil"
+    dominio: "roadmap"
+
+  - id: "MM-CCM-044"
+    texto: "Migration Complexity Scoring — assessing upgrade difficulty (breaking changes vs additive)"
+    autor: "Vigil"
+    dominio: "roadmap"
+
+  - id: "MM-CCM-045"
+    texto: "Permission Mode as Trust Lever — askAlways(learning) → acceptEdits(balanced) → autoApprove(YOLO)"
+    autor: "Vigil"
+    dominio: "roadmap"
+
+  - id: "MM-CCM-046"
+    texto: "MCP Server Burden Estimation — low(<500 tokens) vs medium(1-5K) vs high(10K+) context cost per server"
+    autor: "Vigil"
+    dominio: "roadmap"
+
+  - id: "MM-CCM-047"
+    texto: "Plan-First Decision Framework — when to adopt new features based on project impact and readiness"
+    autor: "Vigil"
+    dominio: "roadmap"
+
+# ═══════════════════════════════════════════════════════════════════════════════
+# L3: HEURÍSTICAS (56 elementos)
+# ═══════════════════════════════════════════════════════════════════════════════
+
+heuristicas:
+  # Hook System (16)
+  - id: "HEUR-CCM-001"
+    texto: "Exit code 0 = proceed (hook passed); exit code 2 = block with stderr reason; other = warn and proceed"
+    autor: "Latch"
+    dominio: "hooks"
+    tipo: "numerica"
+
+  - id: "HEUR-CCM-002"
+    texto: "Hook target execution time: <2 seconds for critical path; 10-minute default system timeout"
+    autor: "Latch"
+    dominio: "hooks"
+    tipo: "numerica"
+
+  - id: "HEUR-CCM-003"
+    texto: "Hook timeout MUST be set explicitly (30s recommended) to prevent CLI hang"
+    autor: "Latch"
+    dominio: "hooks"
+    tipo: "numerica"
+
+  - id: "HEUR-CCM-004"
+    texto: "Specific matchers ('Edit|Write') better than catch-all (''); empty matcher = fire always"
+    autor: "Latch"
+    dominio: "hooks"
+    tipo: "qualitativa"
+
+  - id: "HEUR-CCM-005"
+    texto: "Three-tier path protection: zeroAccessPaths (lockdown) > readOnlyPaths (inspect) > noDeletePaths (preserve)"
+    autor: "Latch"
+    dominio: "hooks"
+    tipo: "qualitativa"
+
+  - id: "HEUR-CCM-006"
+    texto: "17 lifecycle events available for hook intercept in Claude Code"
+    autor: "Latch"
+    dominio: "hooks"
+    tipo: "numerica"
+
+  - id: "HEUR-CCM-007"
+    texto: "4 handler types: command (deterministic), http (external), prompt (judgment), agent (verification)"
+    autor: "Latch"
+    dominio: "hooks"
+    tipo: "numerica"
+
+  - id: "HEUR-CCM-008"
+    texto: "9 destructive commands to always block: rm -rf, git push --force, git reset --hard, git clean -f, DROP TABLE/DATABASE, TRUNCATE, chmod 777, curl|bash, sudo rm"
+    autor: "Latch"
+    dominio: "hooks"
+    tipo: "numerica"
+
+  - id: "HEUR-CCM-009"
+    texto: "8 secret patterns to detect: API keys, passwords, tokens, OpenAI sk-, GitHub ghp_, private keys, AWS AKIA, connection strings"
+    autor: "Latch"
+    dominio: "hooks"
+    tipo: "numerica"
+
+  - id: "HEUR-CCM-010"
+    texto: "Auto-lint file mapping: .ts/.tsx/.js/.jsx→eslint, .py→ruff, .rs→rustfmt, .go→gofmt, .css/.json→prettier"
+    autor: "Latch"
+    dominio: "hooks"
+    tipo: "qualitativa"
+
+  - id: "HEUR-CCM-011"
+    texto: "Cost tracking formula (Claude Sonnet 4): input=$3/1M tokens, output=$15/1M tokens"
+    autor: "Latch"
+    dominio: "hooks"
+    tipo: "numerica"
+
+  - id: "HEUR-CCM-012"
+    texto: "7 canonical hook patterns: damage-control, auto-lint, notifications, context-preservation, cost-tracking, security-gate, timing-logger"
+    autor: "Latch"
+    dominio: "hooks"
+    tipo: "numerica"
+
+  - id: "HEUR-CCM-013"
+    texto: "PreToolUse for blocking (prevention), PostToolUse for validation (verification), Stop for logging (observability)"
+    autor: "Latch"
+    dominio: "hooks"
+    tipo: "qualitativa"
+
+  - id: "HEUR-CCM-014"
+    texto: "Hook Pipeline layering order: Security (PreToolUse) → Validation (PostToolUse) → Observability (Stop) → Team (Validator agent)"
+    autor: "Latch"
+    dominio: "hooks"
+    tipo: "qualitativa"
+
+  - id: "HEUR-CCM-015"
+    texto: "Team Validation Pattern: Builder (full tools) → PostToolUse hook triggers → Validator (read-only) → max 3 revision iterations"
+    autor: "Latch"
+    dominio: "hooks"
+    tipo: "numerica"
+
+  - id: "HEUR-CCM-016"
+    texto: "Scope priority for hooks: user (global default) vs project (team shared) vs local (personal override)"
+    autor: "Latch"
+    dominio: "hooks"
+    tipo: "qualitativa"
+
+  # MCP System (10)
+  - id: "HEUR-CCM-017"
+    texto: "Hard tool limit: 40 tools maximum (Cursor enforces); most agents struggle past 40"
+    autor: "Piper"
+    dominio: "mcp"
+    tipo: "numerica"
+
+  - id: "HEUR-CCM-018"
+    texto: "If tool descriptions consume >10% of context window, use Tool Search for deferred loading"
+    autor: "Piper"
+    dominio: "mcp"
+    tipo: "numerica"
+
+  - id: "HEUR-CCM-019"
+    texto: "8-12 optimal active MCP server count for focused workflows"
+    autor: "Piper"
+    dominio: "mcp"
+    tipo: "numerica"
+
+  - id: "HEUR-CCM-020"
+    texto: "Stay below 40% total context usage for tools combined"
+    autor: "Piper"
+    dominio: "mcp"
+    tipo: "numerica"
+
+  - id: "HEUR-CCM-021"
+    texto: "0% idle cost for CLI tools vs always-loaded MCP context cost — prefer CLI when available"
+    autor: "Piper"
+    dominio: "mcp"
+    tipo: "numerica"
+
+  - id: "HEUR-CCM-022"
+    texto: "2-6 tools per server is optimal; monolithic 30-tool servers hurt reasoning quality"
+    autor: "Piper"
+    dominio: "mcp"
+    tipo: "numerica"
+
+  - id: "HEUR-CCM-023"
+    texto: "MCP context costs: low(<500 tokens) = filesystem/sqlite/git, medium(1-5K) = github/supabase/slack, high(10K+) = playwright/figma"
+    autor: "Piper"
+    dominio: "mcp"
+    tipo: "numerica"
+
+  - id: "HEUR-CCM-024"
+    texto: "Pair no more than 2 high-cost MCP servers in a single session"
+    autor: "Piper"
+    dominio: "mcp"
+    tipo: "numerica"
+
+  - id: "HEUR-CCM-025"
+    texto: "6 MCP server categories: Development, Research, Communication, Database, Browser, Design"
+    autor: "Piper"
+    dominio: "mcp"
+    tipo: "numerica"
+
+  - id: "HEUR-CCM-026"
+    texto: "Transport selection: stdio for local tools, HTTP Streamable for remote/cloud, SSE for legacy only"
+    autor: "Piper"
+    dominio: "mcp"
+    tipo: "qualitativa"
+
+  # Agent Teams (8)
+  - id: "HEUR-CCM-027"
+    texto: "3-member minimum for agent teams (pairs too limited, triads enable diverse perspective voting)"
+    autor: "Nexus"
+    dominio: "agents"
+    tipo: "numerica"
+
+  - id: "HEUR-CCM-028"
+    texto: "7-member practical maximum for agent teams; larger teams increase coordination overhead exponentially"
+    autor: "Nexus"
+    dominio: "agents"
+    tipo: "numerica"
+
+  - id: "HEUR-CCM-029"
+    texto: "Target <1 second agent spawn latency for parallel execution"
+    autor: "Nexus"
+    dominio: "agents"
+    tipo: "numerica"
+
+  - id: "HEUR-CCM-030"
+    texto: "Fail fast threshold: if agent blocks >30s, timeout and retry with different approach"
+    autor: "Nexus"
+    dominio: "agents"
+    tipo: "numerica"
+
+  - id: "HEUR-CCM-031"
+    texto: "Majority voting with 3+ agents; 2 agents can deadlock"
+    autor: "Nexus"
+    dominio: "agents"
+    tipo: "numerica"
+
+  - id: "HEUR-CCM-032"
+    texto: "80% convergence target: teams reaching 80%+ consensus = high-confidence decisions"
+    autor: "Nexus"
+    dominio: "agents"
+    tipo: "numerica"
+
+  - id: "HEUR-CCM-033"
+    texto: "Agent capability allocation: Builder=full tools, Reviewer=read-only, Validator=inspection only"
+    autor: "Nexus"
+    dominio: "agents"
+    tipo: "qualitativa"
+
+  - id: "HEUR-CCM-034"
+    texto: "5 permission modes: askAlways (default), acceptEdits, autoApprove/dontAsk, bypassPermissions, plan"
+    autor: "Nexus"
+    dominio: "agents"
+    tipo: "numerica"
+
+  # Config & Settings (8)
+  - id: "HEUR-CCM-035"
+    texto: "CLAUDE.md target: <200 lines for signal density; >200 reduces adherence measurably"
+    autor: "Sigil"
+    dominio: "config"
+    tipo: "numerica"
+
+  - id: "HEUR-CCM-036"
+    texto: "5 settings hierarchy layers: managed > CLI > local > shared > user"
+    autor: "Sigil"
+    dominio: "config"
+    tipo: "numerica"
+
+  - id: "HEUR-CCM-037"
+    texto: "Permission evaluation order: deny → ask → allow (first match wins, fixed order)"
+    autor: "Sigil"
+    dominio: "config"
+    tipo: "qualitativa"
+
+  - id: "HEUR-CCM-038"
+    texto: "Auto-compaction trigger: ~95% context usage; never set autoCompactPctOverride below 30"
+    autor: "Sigil"
+    dominio: "config"
+    tipo: "numerica"
+
+  - id: "HEUR-CCM-039"
+    texto: "Tool specifier syntax: Bash(pattern), Read(path), Edit(path), WebFetch(domain), MCP(server), Agent(name)"
+    autor: "Sigil"
+    dominio: "config"
+    tipo: "qualitativa"
+
+  - id: "HEUR-CCM-040"
+    texto: "Glob patterns in permissions: * (single level), ** (recursive), ? (single char), {a,b} (choice)"
+    autor: "Sigil"
+    dominio: "config"
+    tipo: "qualitativa"
+
+  - id: "HEUR-CCM-041"
+    texto: "L1-L4 boundary layers: L1 framework (immutable) → L2 templates (extend-only) → L3 project (mutable) → L4 runtime (always mutable)"
+    autor: "Sigil"
+    dominio: "config"
+    tipo: "qualitativa"
+
+  - id: "HEUR-CCM-042"
+    texto: "Arrays in settings merge via concatenate + deduplicate; objects use highest-precedence value"
+    autor: "Sigil"
+    dominio: "config"
+    tipo: "qualitativa"
+
+  # Skills (6)
+  - id: "HEUR-CCM-043"
+    texto: "Minimum 3+ use cases before creating a skill; fewer = too narrow"
+    autor: "Anvil"
+    dominio: "skills"
+    tipo: "numerica"
+
+  - id: "HEUR-CCM-044"
+    texto: "Target <500 lines of code per skill implementation; >500 signals refactor needed"
+    autor: "Anvil"
+    dominio: "skills"
+    tipo: "numerica"
+
+  - id: "HEUR-CCM-045"
+    texto: "Target <50 lines for skill specification; clarity > completeness"
+    autor: "Anvil"
+    dominio: "skills"
+    tipo: "numerica"
+
+  - id: "HEUR-CCM-046"
+    texto: "Systems supporting 100+ skills remain discoverable with proper keyword indexing"
+    autor: "Anvil"
+    dominio: "skills"
+    tipo: "numerica"
+
+  - id: "HEUR-CCM-047"
+    texto: "Skill execution target: <1 second in hot path"
+    autor: "Anvil"
+    dominio: "skills"
+    tipo: "numerica"
+
+  - id: "HEUR-CCM-048"
+    texto: "Native tools always first priority: Read > cat, Edit > sed, Glob > find, Grep > rg"
+    autor: "Anvil"
+    dominio: "skills"
+    tipo: "qualitativa"
+
+  # Integration & CI/CD (8)
+  - id: "HEUR-CCM-049"
+    texto: "5 typical setup stages for project integration: init → github → CI/CD → agents → optimization"
+    autor: "Conduit"
+    dominio: "integration"
+    tipo: "numerica"
+
+  - id: "HEUR-CCM-050"
+    texto: "Target <30 minutes for brownfield integration via wizard"
+    autor: "Conduit"
+    dominio: "integration"
+    tipo: "numerica"
+
+  - id: "HEUR-CCM-051"
+    texto: "10 minimum critical config files: CLAUDE.md, settings.json, rules/, hooks, MCP configs"
+    autor: "Conduit"
+    dominio: "integration"
+    tipo: "numerica"
+
+  - id: "HEUR-CCM-052"
+    texto: "CI/CD quality gates should catch 90%+ of issues before merge"
+    autor: "Conduit"
+    dominio: "integration"
+    tipo: "numerica"
+
+  - id: "HEUR-CCM-053"
+    texto: "5 CI/CD patterns: PR review, commit validation, test generation, code review, documentation sync"
+    autor: "Conduit"
+    dominio: "integration"
+    tipo: "numerica"
+
+  - id: "HEUR-CCM-054"
+    texto: "If 2+ detection signals match → project type identified with high confidence (95%+)"
+    autor: "Conduit"
+    dominio: "integration"
+    tipo: "numerica"
+
+  - id: "HEUR-CCM-055"
+    texto: "8 project types with unique signatures: monorepo, fullstack, library, microservices, mobile, API-only, data-pipeline, AIOS-core"
+    autor: "Conduit"
+    dominio: "integration"
+    tipo: "numerica"
+
+  - id: "HEUR-CCM-056"
+    texto: "12-month typical deprecation warning period before breaking changes; 6-month release cycle"
+    autor: "Vigil"
+    dominio: "roadmap"
+    tipo: "numerica"
+
+# ═══════════════════════════════════════════════════════════════════════════════
+# L4: FRAMEWORKS (54 elementos)
+# ═══════════════════════════════════════════════════════════════════════════════
+
+frameworks:
+  # Orchestration (2)
+  - id: "FW-CCM-001"
+    texto: "Triage & Routing Framework — analyze keywords → match domain or cross-cutting → quick answer + specialist route → deepen"
+    autor: "Orion"
+    dominio: "orchestration"
+    passos: 4
+
+  - id: "FW-CCM-002"
+    texto: "Quick Reference Framework — 16+ tools, 5 permission modes, 17 hook events, 4 subagent types, 5 settings layers"
+    autor: "Orion"
+    dominio: "orchestration"
+    passos: 5
+
+  # Hooks (9)
+  - id: "FW-CCM-003"
+    texto: "Hook Creation Framework — 7 steps: event selection → matcher design → handler type → script generation → scope → testing → registration"
+    autor: "Latch"
+    dominio: "hooks"
+    passos: 7
+
+  - id: "FW-CCM-004"
+    texto: "Damage Control Framework — PreToolUse blockers for 9 dangerous commands + three-tier path protection"
+    autor: "Latch"
+    dominio: "hooks"
+    passos: 3
+
+  - id: "FW-CCM-005"
+    texto: "Multi-Hook Pipeline Framework — Security layer (Pre) → Validation layer (Post) → Observability (Stop) → Team (Validator agent)"
+    autor: "Latch"
+    dominio: "hooks"
+    passos: 4
+
+  - id: "FW-CCM-006"
+    texto: "Security Hook Pattern — detect secret patterns in tool input → block with exit 2 → stderr explains violation"
+    autor: "Latch"
+    dominio: "hooks"
+    passos: 3
+
+  - id: "FW-CCM-007"
+    texto: "Auto-Lint Pattern — PostToolUse on Write/Edit → detect file extension → run language-specific linter → write back"
+    autor: "Latch"
+    dominio: "hooks"
+    passos: 4
+
+  - id: "FW-CCM-008"
+    texto: "Context Preservation Pattern — PreCompact hook → save critical state to disk → restore on next session"
+    autor: "Latch"
+    dominio: "hooks"
+    passos: 3
+
+  - id: "FW-CCM-009"
+    texto: "Cost Tracking Pattern — Stop event → read tokens → calculate cost formula → append to JSONL log"
+    autor: "Latch"
+    dominio: "hooks"
+    passos: 4
+
+  - id: "FW-CCM-010"
+    texto: "Timing Logger Pattern — PreToolUse starts timer → PostToolUse stops → calculate duration → log performance"
+    autor: "Latch"
+    dominio: "hooks"
+    passos: 4
+
+  - id: "FW-CCM-011"
+    texto: "Notification Pattern — Notification event → format message → forward to Slack/Discord/Email via webhook"
+    autor: "Latch"
+    dominio: "hooks"
+    passos: 3
+
+  # MCP (6)
+  - id: "FW-CCM-012"
+    texto: "Context Budget Audit Framework — list servers → count tools → estimate tokens → check last-used → find CLI dupes → optimize to <10%"
+    autor: "Piper"
+    dominio: "mcp"
+    passos: 7
+
+  - id: "FW-CCM-013"
+    texto: "Server Addition Decision Framework — what capability? CLI alternative? Context cost? Frequency? Transport? Budget absorb?"
+    autor: "Piper"
+    dominio: "mcp"
+    passos: 7
+
+  - id: "FW-CCM-014"
+    texto: "Transport Selection Framework — stdio (local), HTTP Streamable (remote/cloud/modern), SSE (legacy remote)"
+    autor: "Piper"
+    dominio: "mcp"
+    passos: 3
+
+  - id: "FW-CCM-015"
+    texto: "Tool Search Deferred Loading Strategy — identify rarely-used → remove from always-loaded → configure keyword search → keep 2-4 essential"
+    autor: "Piper"
+    dominio: "mcp"
+    passos: 5
+
+  - id: "FW-CCM-016"
+    texto: "MCP Integration by Use Case — 6 categories: Development, Research, Communication, Database, Browser, Design"
+    autor: "Piper"
+    dominio: "mcp"
+    passos: 6
+
+  - id: "FW-CCM-017"
+    texto: "MCP Server Addition Step-by-Step — question → research → decision → transport → scope → auth → install → verify → budget check → document"
+    autor: "Piper"
+    dominio: "mcp"
+    passos: 10
+
+  # Agents (6)
+  - id: "FW-CCM-018"
+    texto: "Agent Team Creation Framework — role definition → capability allocation → isolation → communication → conflict resolution → spawning → timeout"
+    autor: "Nexus"
+    dominio: "agents"
+    passos: 7
+
+  - id: "FW-CCM-019"
+    texto: "Parallel Execution Framework — identify independent subtasks → spawn parallel → aggregate results → handle timeouts → coordinate decision"
+    autor: "Nexus"
+    dominio: "agents"
+    passos: 5
+
+  - id: "FW-CCM-020"
+    texto: "Team Validation Pattern — Builder (full tools) → PostToolUse hook → Validator (read-only) → approval or feedback → max 3 iterations"
+    autor: "Nexus"
+    dominio: "agents"
+    passos: 5
+
+  - id: "FW-CCM-021"
+    texto: "3-Agent Team Pattern — Builder (creates) + Reviewer (reviews) + Validator (validates) with vote-based approval"
+    autor: "Nexus"
+    dominio: "agents"
+    passos: 3
+
+  - id: "FW-CCM-022"
+    texto: "Worktree Strategy — create worktree for isolated changes → agent works independently → merge or discard on completion"
+    autor: "Nexus"
+    dominio: "agents"
+    passos: 3
+
+  - id: "FW-CCM-023"
+    texto: "Agent Capability Tiers — Analyzer(Read/Glob/Grep) → Researcher(+WebFetch/Search) → Writer(+Write/Edit) → Executor(+Bash)"
+    autor: "Nexus"
+    dominio: "agents"
+    passos: 4
+
+  # Config (8)
+  - id: "FW-CCM-024"
+    texto: "Settings Architecture Framework — hierarchy audit → conflict detection → permission strategy → CLAUDE.md optimize → sandbox → budget → boundaries → verify"
+    autor: "Sigil"
+    dominio: "config"
+    passos: 8
+
+  - id: "FW-CCM-025"
+    texto: "Permission Rule Design Framework — tool patterns + glob patterns → deny → ask → allow (first match wins) → scope assignment"
+    autor: "Sigil"
+    dominio: "config"
+    passos: 4
+
+  - id: "FW-CCM-026"
+    texto: "CLAUDE.md Compression Framework — audit size → identify >50-line sections → extract to rules/ → @imports → rebuild <200 lines → verify"
+    autor: "Sigil"
+    dominio: "config"
+    passos: 7
+
+  - id: "FW-CCM-027"
+    texto: "Deny-First Permission Strategy — list dangerous ops → create deny rules → list safe ops → create allow → create ask for risky → set mode → test"
+    autor: "Sigil"
+    dominio: "config"
+    passos: 7
+
+  - id: "FW-CCM-028"
+    texto: "Permission Audit Framework — scan 5 settings files → for each rule check files and order → identify conflicts → resolve → test → document"
+    autor: "Sigil"
+    dominio: "config"
+    passos: 6
+
+  - id: "FW-CCM-029"
+    texto: "Permission Mode Framework — askAlways(learning) → acceptEdits(balanced) → autoApprove(YOLO) → plan(read-only)"
+    autor: "Sigil"
+    dominio: "config"
+    passos: 4
+
+  - id: "FW-CCM-030"
+    texto: "Settings Hierarchy Framework — managed policy > CLI flags > project local > project shared > user global"
+    autor: "Sigil"
+    dominio: "config"
+    passos: 5
+
+  - id: "FW-CCM-031"
+    texto: "Hook Event Cascade Framework — Tool lifecycle (Pre/Post) → Session lifecycle (Stop/SubagentStart/Stop) → Context (PreCompact/UserPrompt)"
+    autor: "Sigil"
+    dominio: "config"
+    passos: 3
+
+  # Skills (6)
+  - id: "FW-CCM-032"
+    texto: "Skill Creation Framework — spec → keywords → context injection → scope → implement → test → publish → monitor"
+    autor: "Anvil"
+    dominio: "skills"
+    passos: 8
+
+  - id: "FW-CCM-033"
+    texto: "Skill Discovery Framework — auto-trigger keywords → keyword matching engine → ranking → activation with merged context"
+    autor: "Anvil"
+    dominio: "skills"
+    passos: 4
+
+  - id: "FW-CCM-034"
+    texto: "Composability Framework — check output/input alignment → context conflict check → manual test → scope alignment → document recipe"
+    autor: "Anvil"
+    dominio: "skills"
+    passos: 5
+
+  - id: "FW-CCM-035"
+    texto: "Skill Lifecycle Framework — creation → testing → publishing → discovery → usage → iteration (continuous)"
+    autor: "Anvil"
+    dominio: "skills"
+    passos: 6
+
+  - id: "FW-CCM-036"
+    texto: "Context Engineering Framework — identify needed info → embed in instructions → test with/without → measure quality delta"
+    autor: "Anvil"
+    dominio: "skills"
+    passos: 4
+
+  - id: "FW-CCM-037"
+    texto: "Auto-Trigger System Framework — SKILL.md header → keywords + priority → skill_indexer scans → SKILL-INDEX.json → keyword matching on prompt"
+    autor: "Anvil"
+    dominio: "skills"
+    passos: 5
+
+  # Integration (9)
+  - id: "FW-CCM-038"
+    texto: "Brownfield Integration Framework — audit → init Claude Code → git remotes → CI/CD pipeline → configure → agents → AIOS bridge → test → document → iterate"
+    autor: "Conduit"
+    dominio: "integration"
+    passos: 10
+
+  - id: "FW-CCM-039"
+    texto: "CI/CD Quality Gate Framework (6-layer) — L1 lint → L2 tests → L3 build → L4 visual review → L5 staging → L6 security"
+    autor: "Conduit"
+    dominio: "integration"
+    passos: 6
+
+  - id: "FW-CCM-040"
+    texto: "Git Workflow Framework — feature branches → PR with 6-stage checks → code review → squash+rebase merge → push blocking via hooks"
+    autor: "Conduit"
+    dominio: "integration"
+    passos: 5
+
+  - id: "FW-CCM-041"
+    texto: "Project Type Configuration Framework — 8 types with detection files + patterns → recommended CLAUDE.md + rules + MCP + hooks"
+    autor: "Conduit"
+    dominio: "integration"
+    passos: 4
+
+  - id: "FW-CCM-042"
+    texto: "PR Review CI Pattern — trigger on PR → checkout → install claude → run headless → parse output → post comment"
+    autor: "Conduit"
+    dominio: "integration"
+    passos: 6
+
+  - id: "FW-CCM-043"
+    texto: "Documentation Sync Pattern — push to main → detect code changes → run claude for docs → create docs PR → auto-merge if clean"
+    autor: "Conduit"
+    dominio: "integration"
+    passos: 5
+
+  - id: "FW-CCM-044"
+    texto: "Test Generation CI Pattern — PR to src/ → identify changed files → run claude for tests → review generated tests → commit to PR"
+    autor: "Conduit"
+    dominio: "integration"
+    passos: 5
+
+  # Roadmap (8)
+  - id: "FW-CCM-045"
+    texto: "Feature Adoption Framework — awareness → understanding → trial → adoption → mastery → community (6 phases)"
+    autor: "Vigil"
+    dominio: "roadmap"
+    passos: 6
+
+  - id: "FW-CCM-046"
+    texto: "Version Planning Framework — release tracking → compatibility matrix → deprecation calendar → migration guide → rollback strategy → adoption targets"
+    autor: "Vigil"
+    dominio: "roadmap"
+    passos: 6
+
+  - id: "FW-CCM-047"
+    texto: "Feature Evaluation Framework — read docs → assess impact → calculate effort → identify training → determine timeline → get buy-in"
+    autor: "Vigil"
+    dominio: "roadmap"
+    passos: 6
+
+  - id: "FW-CCM-048"
+    texto: "Migration Execution Framework — follow guide → update incrementally → test after each → verify no regressions → document steps"
+    autor: "Vigil"
+    dominio: "roadmap"
+    passos: 5
+
+  - id: "FW-CCM-049"
+    texto: "Phased Rollout Framework — week 1 awareness → week 2 trial POC → week 3-4 migration → week 5+ mastery"
+    autor: "Vigil"
+    dominio: "roadmap"
+    passos: 4
+
+  - id: "FW-CCM-050"
+    texto: "Rollback Strategy Framework — identify revert path → check data migration needed → prepare hotfix → communicate to team → execute if needed"
+    autor: "Vigil"
+    dominio: "roadmap"
+    passos: 5
+
+  - id: "FW-CCM-051"
+    texto: "Context Rot Prevention Framework — schedule regular reviews → detect stale docs → auto-update via CI → flag outdated rules → archive deprecated"
+    autor: "Vigil"
+    dominio: "roadmap"
+    passos: 5
+
+  - id: "FW-CCM-052"
+    texto: "Project Auto-Detection Framework — scan root files → check detection patterns → score matches → select highest → load template → generate config"
+    autor: "Vigil"
+    dominio: "roadmap"
+    passos: 6
+
+# ═══════════════════════════════════════════════════════════════════════════════
+# L5: METODOLOGIAS (51 elementos)
+# ═══════════════════════════════════════════════════════════════════════════════
+
+metodologias:
+  # Hook Implementation (10)
+  - id: "MET-CCM-001"
+    texto: "Create Security Hook — identify threat → choose PreToolUse → write matcher → choose command handler → write script with exit codes → register → test → document"
+    autor: "Latch"
+    dominio: "hooks"
+    passos: 8
+
+  - id: "MET-CCM-002"
+    texto: "Build Multi-Hook Pipeline — security layer (PreToolUse) → validation (PostToolUse) → observability (Stop) → coordinate matchers → test exit codes → monitor → iterate"
+    autor: "Latch"
+    dominio: "hooks"
+    passos: 7
+
+  - id: "MET-CCM-003"
+    texto: "Implement Damage Control Hook — create script → add 9 blocked patterns → configure PreToolUse on Bash → test with rm -rf → verify block message → deploy"
+    autor: "Latch"
+    dominio: "hooks"
+    passos: 6
+
+  - id: "MET-CCM-004"
+    texto: "Implement Auto-Lint Hook — create script → map extensions to linters → configure PostToolUse on Write|Edit → test file change → verify lint runs → deploy"
+    autor: "Latch"
+    dominio: "hooks"
+    passos: 6
+
+  - id: "MET-CCM-005"
+    texto: "Implement Security Gate — create script → add 8 secret patterns → configure PreToolUse on Write|Edit|Bash → test secret detection → verify block → deploy"
+    autor: "Latch"
+    dominio: "hooks"
+    passos: 6
+
+  - id: "MET-CCM-006"
+    texto: "Implement Cost Tracker — create script → hook Stop event → read stdin tokens → apply formula → append JSONL log → analyze over time"
+    autor: "Latch"
+    dominio: "hooks"
+    passos: 6
+
+  - id: "MET-CCM-007"
+    texto: "Implement Context Preservation — create script → hook PreCompact → read session state → save to disk JSON → on next session restore → clean old files (>30d)"
+    autor: "Latch"
+    dominio: "hooks"
+    passos: 6
+
+  - id: "MET-CCM-008"
+    texto: "Implement Timing Logger — create script → hook PreToolUse (start timer) → hook PostToolUse (stop timer) → calculate duration → log performance → identify slow tools"
+    autor: "Latch"
+    dominio: "hooks"
+    passos: 6
+
+  - id: "MET-CCM-009"
+    texto: "Implement Notification Hook — create script → hook Notification event → format message → send to webhook (Slack/Discord) → handle errors gracefully"
+    autor: "Latch"
+    dominio: "hooks"
+    passos: 5
+
+  - id: "MET-CCM-010"
+    texto: "Implement Team Validation — create Builder agent (full tools) → create Validator agent (read-only) → PostToolUse hook triggers Validator → max 3 iterations → approve best"
+    autor: "Latch"
+    dominio: "hooks"
+    passos: 5
+
+  # MCP Setup (7)
+  - id: "MET-CCM-011"
+    texto: "Audit MCP Context Budget — list servers → count tools each → estimate token cost → check usage dates → find CLI dupes → sum costs → optimize to <10% → re-test"
+    autor: "Piper"
+    dominio: "mcp"
+    passos: 8
+
+  - id: "MET-CCM-012"
+    texto: "Add MCP Server Properly — question capability → research CLI alt → decide → select transport → choose scope → set auth env vars → install → verify → budget check → document"
+    autor: "Piper"
+    dominio: "mcp"
+    passos: 10
+
+  - id: "MET-CCM-013"
+    texto: "Setup Tool Search Deferred Loading — identify rarely-used tools → remove from always-loaded → configure keyword search → keep 2-4 essential → test discovery → adjust keywords"
+    autor: "Piper"
+    dominio: "mcp"
+    passos: 6
+
+  - id: "MET-CCM-014"
+    texto: "Integrate Supabase MCP — install npm package → get access token → add to .mcp.json → export env var → use mcp__supabase__ tools → verify"
+    autor: "Piper"
+    dominio: "mcp"
+    passos: 6
+
+  - id: "MET-CCM-015"
+    texto: "Integrate GitHub MCP — evaluate vs gh CLI → if justified: install → configure → scope to repo → verify → prefer gh CLI for most ops"
+    autor: "Piper"
+    dominio: "mcp"
+    passos: 6
+
+  - id: "MET-CCM-016"
+    texto: "Prune MCP Server — identify unused/redundant → check CLI alternative → remove from config → verify no broken workflows → update docs"
+    autor: "Piper"
+    dominio: "mcp"
+    passos: 5
+
+  - id: "MET-CCM-017"
+    texto: "Design Custom MCP Server — define 2-6 focused tools → choose transport → implement server → test tools → document → register"
+    autor: "Piper"
+    dominio: "mcp"
+    passos: 6
+
+  # Agent Teams (6)
+  - id: "MET-CCM-018"
+    texto: "Spawn 3-Agent Team — define roles (Builder/Reviewer/Validator) → allocate capabilities → prepare context → spawn parallel → communication protocol → timeout strategy → aggregate"
+    autor: "Nexus"
+    dominio: "agents"
+    passos: 7
+
+  - id: "MET-CCM-019"
+    texto: "Run Parallel Subtasks — decompose task → map to agents → identify dependencies → spawn independent parallel → monitor → aggregate → merge → handle failures → log"
+    autor: "Nexus"
+    dominio: "agents"
+    passos: 9
+
+  - id: "MET-CCM-020"
+    texto: "Implement Worktree Isolation — create worktree → assign to agent → agent works independently → on success merge branch → on failure discard worktree → cleanup"
+    autor: "Nexus"
+    dominio: "agents"
+    passos: 6
+
+  - id: "MET-CCM-021"
+    texto: "Design Agent Handoff — define handoff context → serialize state → pass to next agent → next agent loads context → continue work → aggregate final result"
+    autor: "Nexus"
+    dominio: "agents"
+    passos: 6
+
+  - id: "MET-CCM-022"
+    texto: "Implement Conflict Resolution — each agent produces decision → compare decisions → if consensus(>80%) accept → if split vote → if authority agent exists defer → else majority wins"
+    autor: "Nexus"
+    dominio: "agents"
+    passos: 5
+
+  - id: "MET-CCM-023"
+    texto: "Scale Agent Team — start with 3 → assess coordination overhead → if manageable add specialist → max 7 → beyond 7 split into sub-teams with coordinators"
+    autor: "Nexus"
+    dominio: "agents"
+    passos: 5
+
+  # Config Setup (7)
+  - id: "MET-CCM-024"
+    texto: "Audit Permission Conflicts — scan 5 settings files → for each rule check origin → check evaluation order → identify conflicts → resolve (deny wins) → test → document"
+    autor: "Sigil"
+    dominio: "config"
+    passos: 7
+
+  - id: "MET-CCM-025"
+    texto: "Optimize CLAUDE.md — measure lines → identify >50-line sections → extract to .claude/rules/ → create @imports → rebuild <200 lines → verify no circular imports → test loading"
+    autor: "Sigil"
+    dominio: "config"
+    passos: 7
+
+  - id: "MET-CCM-026"
+    texto: "Design Permission Strategy — list dangerous ops → deny rules → list safe ops → allow rules → list risky ops → ask rules → set default mode → test order → document"
+    autor: "Sigil"
+    dominio: "config"
+    passos: 9
+
+  - id: "MET-CCM-027"
+    texto: "Configure Sandbox Policy — define filesystem boundaries (allowWrite/denyWrite/denyRead) → set network rules (allowedDomains) → test → verify isolation → document"
+    autor: "Sigil"
+    dominio: "config"
+    passos: 5
+
+  - id: "MET-CCM-028"
+    texto: "Setup Conditional Rules — create .claude/rules/ dir → write rule files → add paths: frontmatter → reference specific files/globs → verify rules load conditionally → test"
+    autor: "Sigil"
+    dominio: "config"
+    passos: 6
+
+  - id: "MET-CCM-029"
+    texto: "Configure Auto-Compaction — check current threshold (~95%) → adjust autoCompactPctOverride (min 30) → test with large context → verify state preserved → monitor"
+    autor: "Sigil"
+    dominio: "config"
+    passos: 5
+
+  - id: "MET-CCM-030"
+    texto: "Setup AIOS Boundary Protection — identify L1-L4 paths → create deny rules for L1(immutable) L2(extend-only) → allow L3(mutable) L4(runtime) → test → verify"
+    autor: "Sigil"
+    dominio: "config"
+    passos: 5
+
+  # Skill Creation (6)
+  - id: "MET-CCM-031"
+    texto: "Create Reusable Skill — define purpose → identify 3+ use cases → write spec (<50 lines) → choose keywords → design context injection → implement (<500 lines) → test → publish → monitor → iterate"
+    autor: "Anvil"
+    dominio: "skills"
+    passos: 10
+
+  - id: "MET-CCM-032"
+    texto: "Verify Skill Composability — choose 2 skills → check output/input alignment → check context conflicts → test manually → check scope → document recipe → monitor usage"
+    autor: "Anvil"
+    dominio: "skills"
+    passos: 7
+
+  - id: "MET-CCM-033"
+    texto: "Setup Skill Auto-Trigger — write SKILL.md header (Auto-Trigger, Keywords, Priority) → skill_indexer scans on SessionStart → generates SKILL-INDEX.json → keyword match on prompt → activate"
+    autor: "Anvil"
+    dominio: "skills"
+    passos: 5
+
+  - id: "MET-CCM-034"
+    texto: "Design Skill Context Injection — identify needed context → embed in SKILL.md instructions → test with/without context → measure quality delta → refine → document"
+    autor: "Anvil"
+    dominio: "skills"
+    passos: 6
+
+  - id: "MET-CCM-035"
+    texto: "Publish Skill to Marketplace — write README with examples → register keywords → set scope (user/project/local) → test discovery → gather feedback → iterate"
+    autor: "Anvil"
+    dominio: "skills"
+    passos: 6
+
+  - id: "MET-CCM-036"
+    texto: "Refactor Oversized Skill — identify >500-line skill → split by concern → create sub-skills → connect via composability → test integration → retire original → redirect"
+    autor: "Anvil"
+    dominio: "skills"
+    passos: 7
+
+  # Integration & CI/CD (9)
+  - id: "MET-CCM-037"
+    texto: "Brownfield Integration — audit existing → init Claude Code → setup git remotes → create CI/CD pipeline → configure Claude Code → setup agents → AIOS bridge → test → document → iterate"
+    autor: "Conduit"
+    dominio: "integration"
+    passos: 10
+
+  - id: "MET-CCM-038"
+    texto: "Setup 6-Layer CI/CD — L1 lint(eslint/prettier) → L2 tests(jest/pytest) → L3 build → L4 visual review → L5 staging deploy → L6 security scan(OWASP/Snyk)"
+    autor: "Conduit"
+    dominio: "integration"
+    passos: 6
+
+  - id: "MET-CCM-039"
+    texto: "Setup PR Review in GitHub Actions — create workflow YAML → add trigger on PR → store API key in secrets → checkout+install → run claude headless → parse output → post comment"
+    autor: "Conduit"
+    dominio: "integration"
+    passos: 7
+
+  - id: "MET-CCM-040"
+    texto: "Setup Commit Validation — create workflow → trigger on push to main → checkout → run claude on last commit → output JSON → parse issues → fail if critical"
+    autor: "Conduit"
+    dominio: "integration"
+    passos: 7
+
+  - id: "MET-CCM-041"
+    texto: "Setup Test Generation CI — trigger on PR to src/ → identify changed files → run claude for tests → review generated → commit to PR branch → merge with approval"
+    autor: "Conduit"
+    dominio: "integration"
+    passos: 6
+
+  - id: "MET-CCM-042"
+    texto: "Setup Documentation Sync — trigger on push (exclude docs/) → run claude to analyze changes → generate doc updates → create docs PR → auto-merge if clean"
+    autor: "Conduit"
+    dominio: "integration"
+    passos: 5
+
+  - id: "MET-CCM-043"
+    texto: "Project Auto-Detection Setup — scan root for detection files → check patterns → score matches → select type → load template → generate config → test → document"
+    autor: "Conduit"
+    dominio: "integration"
+    passos: 8
+
+  # Roadmap (6)
+  - id: "MET-CCM-044"
+    texto: "Evaluate Feature for Adoption — awareness(read changelog) → understanding(deep docs) → trial(feature branch POC) → decision(impact+effort) → migration(incremental) → mastery → community"
+    autor: "Vigil"
+    dominio: "roadmap"
+    passos: 7
+
+  - id: "MET-CCM-045"
+    texto: "Plan Feature Adoption Timeline — release tracking → compatibility assessment → team readiness → phased rollout (4 weeks) → success metrics → rollback plan"
+    autor: "Vigil"
+    dominio: "roadmap"
+    passos: 6
+
+  - id: "MET-CCM-046"
+    texto: "Execute Version Migration — follow migration guide → update incrementally → test after each change → verify no regressions → document steps → share with team"
+    autor: "Vigil"
+    dominio: "roadmap"
+    passos: 6
+
+  - id: "MET-CCM-047"
+    texto: "Prevent Context Rot — schedule quarterly review → detect stale references → auto-update via CI hook → flag outdated rules → archive deprecated → verify freshness"
+    autor: "Vigil"
+    dominio: "roadmap"
+    passos: 6
+
+  - id: "MET-CCM-048"
+    texto: "Track Ecosystem Changes — monitor Claude Code releases → evaluate 200+ MCP servers → track 9000+ plugins → assess impact on current setup → plan adoption"
+    autor: "Vigil"
+    dominio: "roadmap"
+    passos: 5
+
+  - id: "MET-CCM-049"
+    texto: "Design Rollback Strategy — identify revert path → check data migration implications → prepare hotfix branch → communicate to team → execute if needed → post-mortem"
+    autor: "Vigil"
+    dominio: "roadmap"
+    passos: 6

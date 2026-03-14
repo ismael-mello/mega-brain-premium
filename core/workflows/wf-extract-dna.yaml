@@ -151,7 +151,7 @@ workflow:
   outputs:
     - name: dna_config
       type: file
-      location: "agents/persons/${source_name}/DNA-CONFIG.yaml"
+      location: "agents/external/${source_name}/DNA-CONFIG.yaml"
     - name: layer_counts
       type: json
     - name: source_citations

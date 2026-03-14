@@ -1666,7 +1666,7 @@ DNA Composition conforme definido em SOUL.md ^[SOUL.md:20-25]:
 │   │  → /knowledge/dossiers/THEMES/DOSSIER-{TEMA}.md                     │  │
 │   │                                                                         │  │
 │   │  Para DNA cognitivo original:                                          │  │
-│   │  → /knowledge/dna/persons/{PESSOA}/                                 │  │
+│   │  → /knowledge/external/dna/persons/{PESSOA}/                                 │  │
 │   │                                                                         │  │
 │   │  ┌──────────────────────────────────────────────────────────────────┐  │  │
 │   │  │  ARQUIVOS MAIS RELEVANTES PARA COO:                             │  │  │

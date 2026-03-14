@@ -97,9 +97,21 @@
       "elements": 829,
       "dna_version": 11,
       "layers": "L1:176 L2:159 L3:246 L4:146 L5:102",
-      "sources": ["CC (156)", "7FA (78)", "12BBS (39)", "ACC (556)"],
-      "dossiers": ["DOSSIER-DAN-KENNEDY.md", "DOSSIER-COACHING-CONSULTING.md"],
-      "cargo_enriched": ["CRO", "COO", "CMO"],
+      "sources": [
+        "CC (156)",
+        "7FA (78)",
+        "12BBS (39)",
+        "ACC (556)"
+      ],
+      "dossiers": [
+        "DOSSIER-DAN-KENNEDY.md",
+        "DOSSIER-COACHING-CONSULTING.md"
+      ],
+      "cargo_enriched": [
+        "CRO",
+        "COO",
+        "CMO"
+      ],
       "note": "Pipeline completo (Phases 1-8). 10 batches ACC. DK_6 corrupted (bottled water doc)."
     }
   },
@@ -126,8 +138,8 @@
   },
   "mis": {
     "session_id": "",
-    "prompt_count": 132,
+    "prompt_count": 180,
     "bracket": "CRITICAL",
-    "context_percent": 1.0
+    "context_percent": 0.0
   }
 }

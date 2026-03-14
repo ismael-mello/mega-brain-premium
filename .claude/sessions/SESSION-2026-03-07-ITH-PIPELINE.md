@@ -6,7 +6,7 @@
 Process 35 transcription files from Russell Brunson's "Instant Traffic Hacks" course through full pipeline and merge into existing DNA (482 elements).
 
 ## COMPLETED
-- [x] Phase 1: Files moved from inbox/ to knowledge/sources/russell-brunson/raw/09._Instant_Traffic_Hacks/
+- [x] Phase 1: Files moved from inbox/ to knowledge/external/sources/russell-brunson/raw/09._Instant_Traffic_Hacks/
 - [x] 35 files confirmed in place
 - [x] Read 17/35 files (Modules 1-2 complete, Module 3 complete, Module 5 SEO complete, Module 6 PPV Part 1, Intro)
 

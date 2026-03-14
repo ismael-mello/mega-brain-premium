@@ -38,7 +38,7 @@
 - 50% minimum budget rule for direct marketing
 
 ## Next Batch: DK-MM-06 (04-midas-touch/03-selling)
-- **Path:** `knowledge/sources/dan-kennedy/raw/magnetic-marketing/04-midas-touch/03-selling/`
+- **Path:** `knowledge/external/sources/dan-kennedy/raw/magnetic-marketing/04-midas-touch/03-selling/`
 - **Files:** 3 files, ~169KB
   - CD 1: 19 Secrets of Exceptional Results Selling (63KB)
   - CD 2: Lying, Cheating, Stealing (63KB)

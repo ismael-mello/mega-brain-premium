@@ -54,7 +54,7 @@ dna_primario:
       - "Black Belt Sequences"
       - "Discovery Architecture"
       - "Resistance Reduction"
-    path: "/knowledge/dna/persons/JEREMY-MINER"
+    path: "/knowledge/external/dna/persons/JEREMY-MINER"
     justificativa: "Fonte unica - metodologia NEPQ e 100% propriedade de Jeremy Miner"
 
 # ═══════════════════════════════════════════════════════════════════════════════
@@ -64,7 +64,7 @@ dna_primario:
 layers:
   filosofias:
     count: 198
-    ref: "/knowledge/dna/persons/JEREMY-MINER/FILOSOFIAS.yaml"
+    ref: "/knowledge/external/dna/persons/JEREMY-MINER/FILOSOFIAS.yaml"
     temas_principais:
       - "People buy because of what you ask, not what you say"
       - "Internal pressure > External pressure"
@@ -74,7 +74,7 @@ layers:
 
   modelos_mentais:
     count: 99
-    ref: "/knowledge/dna/persons/JEREMY-MINER/MODELOS-MENTAIS.yaml"
+    ref: "/knowledge/external/dna/persons/JEREMY-MINER/MODELOS-MENTAIS.yaml"
     destaques:
       - "Doctor-Patient Framework"
       - "Onion Peeling Model"
@@ -84,7 +84,7 @@ layers:
 
   heuristicas:
     count: 535
-    ref: "/knowledge/dna/persons/JEREMY-MINER/HEURISTICAS.yaml"
+    ref: "/knowledge/external/dna/persons/JEREMY-MINER/HEURISTICAS.yaml"
     metricas_chave:
       - nome: "7 Tonalities"
         valor: 7
@@ -101,7 +101,7 @@ layers:
 
   frameworks:
     count: 195
-    ref: "/knowledge/dna/persons/JEREMY-MINER/FRAMEWORKS.yaml"
+    ref: "/knowledge/external/dna/persons/JEREMY-MINER/FRAMEWORKS.yaml"
     principais:
       - "NEPQ Black Belt Sequence"
       - "7 Tonalities Framework"
@@ -113,7 +113,7 @@ layers:
 
   metodologias:
     count: 172
-    ref: "/knowledge/dna/persons/JEREMY-MINER/METODOLOGIAS.yaml"
+    ref: "/knowledge/external/dna/persons/JEREMY-MINER/METODOLOGIAS.yaml"
     processos_chave:
       - "NEPQ Discovery Sequence"
       - "Tonality Calibration"
@@ -326,7 +326,7 @@ statistics:
 traceability:
   source_consolidation: "/logs/SOURCES/SOURCE-JM.md"
   dossier: "/knowledge/dossiers/persons/DOSSIER-JEREMY-MINER.md"
-  config: "/knowledge/dna/persons/JEREMY-MINER/CONFIG.yaml"
+  config: "/knowledge/external/dna/persons/JEREMY-MINER/CONFIG.yaml"
 
 cross_references:
   complementares:

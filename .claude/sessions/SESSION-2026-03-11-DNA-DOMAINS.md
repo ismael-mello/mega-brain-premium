@@ -17,9 +17,9 @@ Usuário retomou sessão anterior (SESSION-2026-03-11-AH-DNA-ENRICHMENT) em yolo
 6. **Commit** — `11bf524` "Add Copywriting + Brand Strategy domain DNAs from AIOS Squads"
 
 ## ARQUIVOS MODIFICADOS
-- `knowledge/dna/aggregated/AGG-COPYWRITING.yaml` — NOVO (160 elementos)
-- `knowledge/dna/aggregated/AGG-BRAND-STRATEGY.yaml` — NOVO (120 elementos)
-- `knowledge/dna/DOMAINS-TAXONOMY.yaml` — +2 domínios, CMO cargo atualizado
+- `knowledge/external/dna/aggregated/AGG-COPYWRITING.yaml` — NOVO (160 elementos)
+- `knowledge/external/dna/aggregated/AGG-BRAND-STRATEGY.yaml` — NOVO (120 elementos)
+- `knowledge/external/dna/DOMAINS-TAXONOMY.yaml` — +2 domínios, CMO cargo atualizado
 
 ## PENDÊNCIAS
 - [ ] Processar squads HIGH priority: storytelling, traffic-masters, c-level, data-squad
@@ -39,7 +39,7 @@ Usuário retomou sessão anterior (SESSION-2026-03-11-AH-DNA-ENRICHMENT) em yolo
 
 ## NOTAS IMPORTANTES
 - Total AGGs no sistema: 5 (vendas, offers, outbound, copywriting, brand-strategy)
-- knowledge/dna/ é gitignored — precisa `git add -f` para commitar
+- knowledge/external/dna/ é gitignored — precisa `git add -f` para commitar
 - AH DNA: 418 elementos (v4.0.0) | RB DNA: 1.327 elementos (v27)
 
 ---

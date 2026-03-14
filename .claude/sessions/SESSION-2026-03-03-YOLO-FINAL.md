@@ -7,13 +7,13 @@
 
 ## CONCLUIDO NESTA SESSAO
 
-1. **EDC DNA YAML** — CRIADO (knowledge/dna/persons/ead-closer/):
+1. **EDC DNA YAML** — CRIADO (knowledge/external/dna/persons/ead-closer/):
    - HEURISTICAS.yaml: 21 itens (EDC-HEUR-001..021)
    - FRAMEWORKS.yaml: 17 itens (EDC-FW-001..017)
    - METODOLOGIAS.yaml: 10 itens (EDC-MET-001..010)
    - CONFIG.yaml: 80 elementos totais
 
-2. **EDC Agent files** — CRIADOS (agents/persons/ead-closer/):
+2. **EDC Agent files** — CRIADOS (agents/external/ead-closer/):
    - AGENT.md (Template V3, 10 partes)
    - SOUL.md (identidade, voz, frameworks chave)
    - MEMORY.md (insights, padroes, historico)
@@ -34,15 +34,15 @@
 
 ## ARQUIVOS MODIFICADOS
 
-- `knowledge/dna/persons/ead-closer/HEURISTICAS.yaml` — CRIADO (21 itens)
-- `knowledge/dna/persons/ead-closer/FRAMEWORKS.yaml` — CRIADO (17 itens)
-- `knowledge/dna/persons/ead-closer/METODOLOGIAS.yaml` — CRIADO (10 itens)
-- `knowledge/dna/persons/ead-closer/CONFIG.yaml` — CRIADO (80 total)
-- `agents/persons/ead-closer/AGENT.md` — CRIADO
-- `agents/persons/ead-closer/SOUL.md` — CRIADO
-- `agents/persons/ead-closer/MEMORY.md` — CRIADO
-- `agents/persons/ead-closer/DNA-CONFIG.yaml` — CRIADO
-- `agents/persons/jeremy-haynes/AGENT.md` — ATUALIZADO (contagens DNA)
+- `knowledge/external/dna/persons/ead-closer/HEURISTICAS.yaml` — CRIADO (21 itens)
+- `knowledge/external/dna/persons/ead-closer/FRAMEWORKS.yaml` — CRIADO (17 itens)
+- `knowledge/external/dna/persons/ead-closer/METODOLOGIAS.yaml` — CRIADO (10 itens)
+- `knowledge/external/dna/persons/ead-closer/CONFIG.yaml` — CRIADO (80 total)
+- `agents/external/ead-closer/AGENT.md` — CRIADO
+- `agents/external/ead-closer/SOUL.md` — CRIADO
+- `agents/external/ead-closer/MEMORY.md` — CRIADO
+- `agents/external/ead-closer/DNA-CONFIG.yaml` — CRIADO
+- `agents/external/jeremy-haynes/AGENT.md` — ATUALIZADO (contagens DNA)
 
 ## ESTADO DO DNA JH (YAML FILES)
 

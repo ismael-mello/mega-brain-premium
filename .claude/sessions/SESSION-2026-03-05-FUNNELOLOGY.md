@@ -18,7 +18,7 @@
 - **Day 3 Agent (a513d4ae82e10eb81):** 45 elements (37 new + 8 enrichments)
 
 ### Phase 4: Consolidation - STARTED
-- Created destination: knowledge/sources/russell-brunson/raw/07._Funnelology_Masterclass/
+- Created destination: knowledge/external/sources/russell-brunson/raw/07._Funnelology_Masterclass/
 - Files NOT yet moved from inbox
 
 ---
@@ -27,7 +27,7 @@
 
 ### Phase 4 (finish): Move files + dedup
 ```bash
-cp inbox/07._Funnelology_Masterclass-Russell_Brunson/* knowledge/sources/russell-brunson/raw/07._Funnelology_Masterclass/
+cp inbox/07._Funnelology_Masterclass-Russell_Brunson/* knowledge/external/sources/russell-brunson/raw/07._Funnelology_Masterclass/
 ```
 
 ### Phase 5: Update MEMORY.md

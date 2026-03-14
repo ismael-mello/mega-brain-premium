@@ -1,0 +1,1380 @@
+# AGG-STORYTELLING.yaml
+# DNA Agregado - Domínio: STORYTELLING
+# Consolidação de elementos de storytelling, narrativa e estrutura dramática
+#
+# Versão: 1.0.0
+# Criado: 2026-03-11
+# Tipo: AGGREGATED DNA (single-source: AIOS Storytelling Squad)
+# Fonte: knowledge/external/sources/aios-squads/04-STORYTELLING-SQUAD.md
+# Weight: 0.70 (secondary - curated by Synkra AIOS)
+#
+# ═══════════════════════════════════════════════════════════════════════════════
+# FONTES CONSOLIDADAS
+# ═══════════════════════════════════════════════════════════════════════════════
+
+dominio: "storytelling"
+versao: "1.0.0"
+data_criacao: "2026-03-11"
+ultima_atualizacao: "2026-03-11"
+total_elementos: 162
+peso_global: 0.70
+
+fontes_consolidadas:
+  - fonte: "aios-storytelling-squad"
+    path: "knowledge/external/sources/aios-squads/04-STORYTELLING-SQUAD.md"
+    raw_path: "knowledge/external/sources/aios-squads/raw/storytelling-squad/"
+    peso_dominio: 0.70
+    elementos_contribuidos: 163
+    especialidade: "Storytelling masters - Campbell, Harmon, Snyder, Coyne, Dicks, Hall, Duarte, Howell, Johnstone, Klaff, Ganz"
+    tipo_fonte: "SECONDARY (curated by Synkra AIOS)"
+    agentes_internos: 11
+
+# Nota: Russell Brunson tem sobreposição com knowledge/external/dna/persons/russell-brunson
+# (Epiphany Bridge, Hook-Story-Offer existem em ambos)
+# Priorizar person DNA (weight 0.95) sobre este AGG (weight 0.70) em caso de conflito.
+
+# ═══════════════════════════════════════════════════════════════════════════════
+# STORYTELLING EXPERTS (11 specialists)
+# ═══════════════════════════════════════════════════════════════════════════════
+
+experts:
+  mythic_narrative:
+    - nome: "Joseph Campbell"
+      especialidade: "Mythic Structure & Comparative Mythology"
+      key_framework: "Hero's Journey 17 stages, 8 Archetypes, Four Functions of Myth"
+    - nome: "Dan Harmon"
+      especialidade: "Practical Story Structure & TV Writing"
+      key_framework: "Story Circle 8 steps, Fractal Narrative, A/B Story thematic rhyming"
+
+  screenwriting_editing:
+    - nome: "Blake Snyder"
+      especialidade: "Screenwriting & Genre Classification"
+      key_framework: "Save the Cat 15-Beat Sheet, 10 Genre Types, The Board 40 cards, Logline Formula"
+    - nome: "Shawn Coyne"
+      especialidade: "Story Analysis & Editorial Diagnosis"
+      key_framework: "Story Grid, Five Commandments, 12 Content Genres, Four-Point Value Spectrum, Foolscap"
+
+  personal_business_story:
+    - nome: "Matthew Dicks"
+      especialidade: "Personal Storytelling & Moth-Style Performance"
+      key_framework: "Five-Second Moment, Homework for Life, 5 Stakes Tools, But/Therefore rule"
+    - nome: "Kindra Hall"
+      especialidade: "Business Storytelling & Brand Narrative"
+      key_framework: "4 Stories Every Business Needs, Story Gap, Normal-Explosion-New Normal, Self-Stories CACI"
+
+  presentation_communication:
+    - nome: "Nancy Duarte"
+      especialidade: "Presentation Design & Visual Storytelling"
+      key_framework: "Sparkline, S.T.A.R. Moment, Audience as Hero, Big Idea, DataStory, 3-second slide rule"
+    - nome: "Park Howell"
+      especialidade: "Brand Storytelling & Narrative Strategy"
+      key_framework: "ABT Framework, Story Cycle System 10 steps, 5 Primal Elements, Narrative Fitness"
+
+  improvisation_performance:
+    - nome: "Keith Johnstone"
+      especialidade: "Improvisation & Spontaneous Narrative"
+      key_framework: "Status Transactions, Yes And, Offers/Blocks, Platform-Tilt-Resolution, Story Cancer"
+
+  pitch_persuasion:
+    - nome: "Oren Klaff"
+      especialidade: "Pitch & Deal-Making Narrative"
+      key_framework: "STRONG Method, Frame Control 5 frames, Crocodile Brain Theory, Hot/Cold Cognition, Prize Frame"
+
+  social_movement:
+    - nome: "Marshall Ganz"
+      especialidade: "Social Movement Narrative & Organizing"
+      key_framework: "Public Narrative Self/Us/Now, Five Organizing Practices, Enabling Leadership, Snowflake Model"
+
+# ═══════════════════════════════════════════════════════════════════════════════
+# L1: FILOSOFIAS (55 elementos)
+# ═══════════════════════════════════════════════════════════════════════════════
+
+filosofias:
+  # --- JOSEPH CAMPBELL ---
+  - id: "ST-FIL-001"
+    conteudo: "Follow your bliss and the universe will open doors where there were only walls"
+    fonte: "campbell"
+    conceito: "Bliss as compass"
+    peso: 0.70
+
+  - id: "ST-FIL-002"
+    conteudo: "The hero's journey is the one great story that all cultures share"
+    fonte: "campbell"
+    conceito: "Monomyth universality"
+    peso: 0.70
+
+  - id: "ST-FIL-003"
+    conteudo: "Myth is the secret opening through which the inexhaustible energies of the cosmos pour into human cultural manifestation"
+    fonte: "campbell"
+    conceito: "Myth as cultural conduit"
+    peso: 0.70
+
+  - id: "ST-FIL-004"
+    conteudo: "The cave you fear to enter holds the treasure you seek"
+    fonte: "campbell"
+    conceito: "Transformation through ordeal"
+    peso: 0.70
+
+  - id: "ST-FIL-005"
+    conteudo: "Every myth is psychologically symbolic — its purpose is to carry forward the spirit"
+    fonte: "campbell"
+    conceito: "Psychological function of myth"
+    peso: 0.70
+
+  # --- DAN HARMON ---
+  - id: "ST-FIL-006"
+    conteudo: "Story is fractal — circles within circles, each containing the same DNA"
+    fonte: "harmon"
+    conceito: "Fractal narrative"
+    peso: 0.70
+
+  - id: "ST-FIL-007"
+    conteudo: "We are hardwired for story — the circle is in our DNA"
+    fonte: "harmon"
+    conceito: "Biological narrative instinct"
+    peso: 0.70
+
+  - id: "ST-FIL-008"
+    conteudo: "Death and rebirth is the engine of every story — you must die to be reborn"
+    fonte: "harmon"
+    conceito: "Death and rebirth engine"
+    peso: 0.70
+
+  - id: "ST-FIL-009"
+    conteudo: "The character must change or the story has no point"
+    fonte: "harmon"
+    conceito: "Mandatory transformation"
+    peso: 0.70
+
+  - id: "ST-FIL-010"
+    conteudo: "A and B stories must rhyme thematically — parallel journeys illuminate each other"
+    fonte: "harmon"
+    conceito: "Thematic rhyming"
+    peso: 0.70
+
+  # --- BLAKE SNYDER ---
+  - id: "ST-FIL-011"
+    conteudo: "Give me the same thing... only different"
+    fonte: "snyder"
+    conceito: "Genre innovation within convention"
+    peso: 0.70
+
+  - id: "ST-FIL-012"
+    conteudo: "The hero must be worth rooting for on page one or you lose the audience"
+    fonte: "snyder"
+    conceito: "Save the Cat moment"
+    peso: 0.70
+
+  - id: "ST-FIL-013"
+    conteudo: "Every story is about transformation — the hero at the end is not the hero at the start"
+    fonte: "snyder"
+    conceito: "Transformation arc"
+    peso: 0.70
+
+  - id: "ST-FIL-014"
+    conteudo: "Structure is not a cage — it is a skeleton that lets the body move"
+    fonte: "snyder"
+    conceito: "Structure as liberation"
+    peso: 0.70
+
+  - id: "ST-FIL-015"
+    conteudo: "Only ONE piece of magic per movie — audience accepts one impossible thing, not two"
+    fonte: "snyder"
+    conceito: "Double Mumbo Jumbo rule"
+    peso: 0.70
+
+  # --- SHAWN COYNE ---
+  - id: "ST-FIL-016"
+    conteudo: "Every scene must turn on a value — if nothing changes, cut it"
+    fonte: "coyne"
+    conceito: "Value shift as story unit"
+    peso: 0.70
+
+  - id: "ST-FIL-017"
+    conteudo: "Genre is a contract with the reader — break it and they leave"
+    fonte: "coyne"
+    conceito: "Genre as contract"
+    peso: 0.70
+
+  - id: "ST-FIL-018"
+    conteudo: "Story works or it doesn't — there is a craft beneath the art and it can be learned"
+    fonte: "coyne"
+    conceito: "Story as craft"
+    peso: 0.70
+
+  - id: "ST-FIL-019"
+    conteudo: "The negation of the negation is the deepest exploration of a value — the worst possible fate"
+    fonte: "coyne"
+    conceito: "Negation of negation"
+    peso: 0.70
+
+  - id: "ST-FIL-020"
+    conteudo: "Editors must diagnose before prescribing — analysis precedes advice"
+    fonte: "coyne"
+    conceito: "Diagnostic-first editing"
+    peso: 0.70
+
+  # --- MATTHEW DICKS ---
+  - id: "ST-FIL-021"
+    conteudo: "Every great story is about a five-second moment of transformation"
+    fonte: "dicks"
+    conceito: "Five-Second Moment"
+    peso: 0.70
+
+  - id: "ST-FIL-022"
+    conteudo: "Your story must begin at the opposite of where it ends — maximum contrast"
+    fonte: "dicks"
+    conceito: "Opposite Beginning"
+    peso: 0.70
+
+  - id: "ST-FIL-023"
+    conteudo: "Stories are not about events — they are about how events change the storyteller"
+    fonte: "dicks"
+    conceito: "Internal over external"
+    peso: 0.70
+
+  - id: "ST-FIL-024"
+    conteudo: "The stakes must be personal — world-ending stakes are less compelling than losing a friendship"
+    fonte: "dicks"
+    conceito: "Personal stakes"
+    peso: 0.70
+
+  - id: "ST-FIL-025"
+    conteudo: "Homework for Life — record one moment daily and you will never run out of stories"
+    fonte: "dicks"
+    conceito: "Daily story mining"
+    peso: 0.70
+
+  # --- KINDRA HALL ---
+  - id: "ST-FIL-026"
+    conteudo: "Data tells, stories sell — numbers inform, narratives transform"
+    fonte: "hall"
+    conceito: "Story over data"
+    peso: 0.70
+
+  - id: "ST-FIL-027"
+    conteudo: "Every business needs four stories: Value, Founder, Purpose, Customer"
+    fonte: "hall"
+    conceito: "Four essential business stories"
+    peso: 0.70
+
+  - id: "ST-FIL-028"
+    conteudo: "The gap between what is and what could be is where story lives"
+    fonte: "hall"
+    conceito: "Story Gap"
+    peso: 0.70
+
+  - id: "ST-FIL-029"
+    conteudo: "Normal-Explosion-New Normal — the simplest story arc that always works"
+    fonte: "hall"
+    conceito: "Simplest arc"
+    peso: 0.70
+
+  - id: "ST-FIL-030"
+    conteudo: "The stories you tell yourself are the most powerful stories of all"
+    fonte: "hall"
+    conceito: "Self-Stories"
+    peso: 0.70
+
+  # --- NANCY DUARTE ---
+  - id: "ST-FIL-031"
+    conteudo: "The audience is the hero — you are the mentor, not the protagonist"
+    fonte: "duarte"
+    conceito: "Audience as Hero"
+    peso: 0.70
+
+  - id: "ST-FIL-032"
+    conteudo: "The most powerful presentations toggle between what is and what could be"
+    fonte: "duarte"
+    conceito: "Sparkline tension"
+    peso: 0.70
+
+  - id: "ST-FIL-033"
+    conteudo: "A presentation is a story with the audience as the hero who adopts your idea"
+    fonte: "duarte"
+    conceito: "Presentation as story"
+    peso: 0.70
+
+  - id: "ST-FIL-034"
+    conteudo: "Data is not the story — data is evidence within the story"
+    fonte: "duarte"
+    conceito: "DataStory principle"
+    peso: 0.70
+
+  - id: "ST-FIL-035"
+    conteudo: "Every great talk has one Big Idea — if you can't state it in one sentence, you're not ready"
+    fonte: "duarte"
+    conceito: "Big Idea clarity"
+    peso: 0.70
+
+  # --- PARK HOWELL ---
+  - id: "ST-FIL-036"
+    conteudo: "And-But-Therefore replaces And-And-And — narrative beats listing every time"
+    fonte: "howell"
+    conceito: "ABT replaces AAA"
+    peso: 0.70
+
+  - id: "ST-FIL-037"
+    conteudo: "The audience is the hero — you are the mentor who guides them"
+    fonte: "howell"
+    conceito: "Audience as Hero (brand context)"
+    peso: 0.70
+
+  - id: "ST-FIL-038"
+    conteudo: "Narrative fitness is a competitive advantage — brands that tell better stories win"
+    fonte: "howell"
+    conceito: "Narrative Fitness"
+    peso: 0.70
+
+  - id: "ST-FIL-039"
+    conteudo: "Every brand interaction is a story moment — consistency across touchpoints"
+    fonte: "howell"
+    conceito: "Story at every touchpoint"
+    peso: 0.70
+
+  - id: "ST-FIL-040"
+    conteudo: "Story is a survival mechanism — our brains are literally wired to process narrative"
+    fonte: "howell"
+    conceito: "Evolutionary narrative"
+    peso: 0.70
+
+  # --- KEITH JOHNSTONE ---
+  - id: "ST-FIL-041"
+    conteudo: "Creativity comes from removing blocks, not adding skills"
+    fonte: "johnstone"
+    conceito: "Unblocking creativity"
+    peso: 0.70
+
+  - id: "ST-FIL-042"
+    conteudo: "Be obvious — the desperate search for originality kills spontaneity"
+    fonte: "johnstone"
+    conceito: "Obviousness as virtue"
+    peso: 0.70
+
+  - id: "ST-FIL-043"
+    conteudo: "Status is the engine of all human interaction — every exchange is a status transaction"
+    fonte: "johnstone"
+    conceito: "Status as universal currency"
+    peso: 0.70
+
+  - id: "ST-FIL-044"
+    conteudo: "Say yes and — block nothing, add everything, and story emerges"
+    fonte: "johnstone"
+    conceito: "Yes And principle"
+    peso: 0.70
+
+  - id: "ST-FIL-045"
+    conteudo: "The internal censor is the enemy of story — it kills ideas before they breathe"
+    fonte: "johnstone"
+    conceito: "Internal Censor"
+    peso: 0.70
+
+  # --- OREN KLAFF ---
+  - id: "ST-FIL-046"
+    conteudo: "Frame control determines outcomes — he who owns the frame owns the conversation"
+    fonte: "klaff"
+    conceito: "Frame Control"
+    peso: 0.70
+
+  - id: "ST-FIL-047"
+    conteudo: "The crocodile brain decides first — if it rejects you, the neocortex never sees your pitch"
+    fonte: "klaff"
+    conceito: "Crocodile Brain Theory"
+    peso: 0.70
+
+  - id: "ST-FIL-048"
+    conteudo: "You are the prize, not the supplicant — never chase, attract"
+    fonte: "klaff"
+    conceito: "Prize Frame"
+    peso: 0.70
+
+  - id: "ST-FIL-049"
+    conteudo: "Attention is earned in the first five minutes or lost forever"
+    fonte: "klaff"
+    conceito: "Attention window"
+    peso: 0.70
+
+  - id: "ST-FIL-050"
+    conteudo: "Hot cognition (desire, excitement) trumps cold cognition (analysis) in decisions"
+    fonte: "klaff"
+    conceito: "Hot vs Cold Cognition"
+    peso: 0.70
+
+  # --- MARSHALL GANZ ---
+  - id: "ST-FIL-051"
+    conteudo: "Stories translate values into action — they are the emotional bridge between belief and behavior"
+    fonte: "ganz"
+    conceito: "Values-to-Action Bridge"
+    peso: 0.70
+
+  - id: "ST-FIL-052"
+    conteudo: "A story of self, a story of us, a story of now — this is how movements are built"
+    fonte: "ganz"
+    conceito: "Public Narrative structure"
+    peso: 0.70
+
+  - id: "ST-FIL-053"
+    conteudo: "Leadership is enabling others to achieve purpose in the face of uncertainty"
+    fonte: "ganz"
+    conceito: "Enabling Leadership"
+    peso: 0.70
+
+  - id: "ST-FIL-054"
+    conteudo: "Narrative is not manipulation — it is the authentic expression of values under pressure"
+    fonte: "ganz"
+    conceito: "Authentic narrative"
+    peso: 0.70
+
+  - id: "ST-FIL-055"
+    conteudo: "The heart of organizing is relationship — narrative builds relationship at scale"
+    fonte: "ganz"
+    conceito: "Narrative as organizing tool"
+    peso: 0.70
+
+# ═══════════════════════════════════════════════════════════════════════════════
+# L2: MODELOS MENTAIS (30 elementos)
+# ═══════════════════════════════════════════════════════════════════════════════
+
+modelos_mentais:
+  # --- CAMPBELL ---
+  - id: "ST-MM-001"
+    conteudo: "Comparative Method / Elementargedanken vs Volkergedanken"
+    descricao: "Universal motifs (elementary ideas) manifest differently across cultures (folk ideas) — same core, different costumes"
+    aplicacao: "Identify universal story patterns beneath surface-level cultural variation"
+    fonte: "campbell"
+    peso: 0.70
+
+  - id: "ST-MM-002"
+    conteudo: "Four Functions of Myth"
+    descricao: "Mystical (awe), Cosmological (universe model), Sociological (social order), Pedagogical (how to live)"
+    aplicacao: "Diagnose which function a narrative is serving or failing to serve"
+    fonte: "campbell"
+    peso: 0.70
+
+  - id: "ST-MM-003"
+    conteudo: "Eight Archetypes"
+    descricao: "Hero, Mentor, Threshold Guardian, Herald, Shapeshifter, Shadow, Trickster, Ally"
+    aplicacao: "Cast characters by archetypal function, not surface personality"
+    fonte: "campbell"
+    peso: 0.70
+
+  # --- HARMON ---
+  - id: "ST-MM-004"
+    conteudo: "Fractal Story Structure"
+    descricao: "The Story Circle pattern repeats at every level — series, season, episode, scene, beat"
+    aplicacao: "Apply the same 8-step circle at any scale of narrative"
+    fonte: "harmon"
+    peso: 0.70
+
+  - id: "ST-MM-005"
+    conteudo: "Death and Rebirth Engine"
+    descricao: "Every complete story requires symbolic death (of old self/beliefs) and rebirth (new understanding)"
+    aplicacao: "Ensure protagonist undergoes genuine transformation, not surface change"
+    fonte: "harmon/campbell"
+    peso: 0.70
+
+  - id: "ST-MM-006"
+    conteudo: "Comfort Zone / Unfamiliar Zone"
+    descricao: "Top half of circle = order/comfort, bottom half = chaos/unfamiliar — crossing is the story"
+    aplicacao: "Map character position on circle to calibrate tension and pacing"
+    fonte: "harmon"
+    peso: 0.70
+
+  # --- SNYDER ---
+  - id: "ST-MM-007"
+    conteudo: "Primal Resonance Test"
+    descricao: "Does the story concept tap into a primal urge (survival, love, fear, belonging)?"
+    aplicacao: "Validate story premise before investing in development"
+    fonte: "snyder"
+    peso: 0.70
+
+  - id: "ST-MM-008"
+    conteudo: "10 Genre Types as Story DNA"
+    descricao: "Monster in the House, Golden Fleece, Out of the Bottle, Dude with a Problem, Rites of Passage, Buddy Love, Whydunit, Fool Triumphant, Institutionalized, Superhero"
+    aplicacao: "Classify story to understand its structural obligations"
+    fonte: "snyder"
+    peso: 0.70
+
+  # --- COYNE ---
+  - id: "ST-MM-009"
+    conteudo: "Genre as Contract"
+    descricao: "Each genre promises specific reader/viewer experiences — violating the contract loses the audience"
+    aplicacao: "Identify genre conventions and obligatory scenes before writing"
+    fonte: "coyne"
+    peso: 0.70
+
+  - id: "ST-MM-010"
+    conteudo: "Value Shift as Story Unit"
+    descricao: "The smallest unit of story is a value change (positive to negative or vice versa)"
+    aplicacao: "Audit every scene for value shift — no shift = no story"
+    fonte: "coyne"
+    peso: 0.70
+
+  - id: "ST-MM-011"
+    conteudo: "Negation of the Negation"
+    descricao: "Beyond the negative lies something worse — the darkest exploration of a theme (e.g., beyond failure is self-destruction)"
+    aplicacao: "Push crisis to the deepest possible value to maximize impact"
+    fonte: "coyne"
+    peso: 0.70
+
+  - id: "ST-MM-012"
+    conteudo: "Four-Point Value Spectrum"
+    descricao: "Positive → Contrary → Contradictory → Negation of Negation — the full range of a value"
+    aplicacao: "Map the complete emotional range of your story's controlling idea"
+    fonte: "coyne"
+    peso: 0.70
+
+  # --- DICKS ---
+  - id: "ST-MM-013"
+    conteudo: "Five-Second Moment Focus"
+    descricao: "Every story aims at one precise moment of realization — the instant of change"
+    aplicacao: "Identify the five-second moment FIRST, then build the story around it"
+    fonte: "dicks"
+    peso: 0.70
+
+  - id: "ST-MM-014"
+    conteudo: "Opposite Beginning"
+    descricao: "Start at the emotional/situational opposite of where you end — maximum arc"
+    aplicacao: "Design opening scene as mirror-opposite of climax"
+    fonte: "dicks"
+    peso: 0.70
+
+  - id: "ST-MM-015"
+    conteudo: "Story Scale Taxonomy"
+    descricao: "Anecdote → Vignette → Story — each has different stakes, length, and transformation depth"
+    aplicacao: "Choose the right scale for the moment and audience"
+    fonte: "dicks"
+    peso: 0.70
+
+  # --- HALL ---
+  - id: "ST-MM-016"
+    conteudo: "Story Gap Diagnostic"
+    descricao: "The gap between where you are and where you could be reveals where story is needed most"
+    aplicacao: "Identify business/personal narrative gaps that need bridging"
+    fonte: "hall"
+    peso: 0.70
+
+  - id: "ST-MM-017"
+    conteudo: "Normal-Explosion-New Normal"
+    descricao: "Simplest story arc: establish status quo, disrupt it, show the new reality"
+    aplicacao: "Quick story structure for any business context"
+    fonte: "hall"
+    peso: 0.70
+
+  # --- DUARTE ---
+  - id: "ST-MM-018"
+    conteudo: "Audience as Hero"
+    descricao: "The presenter/brand is the mentor, the audience is the hero who must transform"
+    aplicacao: "Reframe all communication from audience's perspective"
+    fonte: "duarte/howell"
+    peso: 0.70
+
+  - id: "ST-MM-019"
+    conteudo: "What Is vs What Could Be"
+    descricao: "Alternate between current reality and future possibility to create tension and desire"
+    aplicacao: "Structure presentations as oscillation between states"
+    fonte: "duarte"
+    peso: 0.70
+
+  # --- HOWELL ---
+  - id: "ST-MM-020"
+    conteudo: "ABT vs AAA"
+    descricao: "And-But-Therefore (narrative) vs And-And-And (listing) — narrative always wins engagement"
+    aplicacao: "Diagnose and fix boring communication by replacing AAA with ABT"
+    fonte: "howell"
+    peso: 0.70
+
+  - id: "ST-MM-021"
+    conteudo: "5 Primal Elements of Story"
+    descricao: "Character, intention, obstacle, stakes, transformation — remove any one and story collapses"
+    aplicacao: "Checklist for narrative completeness"
+    fonte: "howell"
+    peso: 0.70
+
+  # --- JOHNSTONE ---
+  - id: "ST-MM-022"
+    conteudo: "Status Seesaw"
+    descricao: "In every interaction, status flows between participants — raising yours lowers theirs and vice versa"
+    aplicacao: "Craft dynamic scenes by consciously shifting status between characters"
+    fonte: "johnstone"
+    peso: 0.70
+
+  - id: "ST-MM-023"
+    conteudo: "Internal Censor"
+    descricao: "The voice that says 'that's not good enough' before an idea can develop — creativity's enemy"
+    aplicacao: "Recognize and silence self-censorship to unlock spontaneous narrative"
+    fonte: "johnstone"
+    peso: 0.70
+
+  - id: "ST-MM-024"
+    conteudo: "Offers and Blocks"
+    descricao: "Every narrative contribution is either an offer (adds possibility) or a block (kills possibility)"
+    aplicacao: "Train collaborators to make offers, not blocks — build on what's given"
+    fonte: "johnstone"
+    peso: 0.70
+
+  # --- KLAFF ---
+  - id: "ST-MM-025"
+    conteudo: "Croc Brain Filter"
+    descricao: "The reptilian brain filters all incoming messages for threat/novelty — boring = threat = ignore"
+    aplicacao: "Design pitch openings that pass the croc brain's novelty filter"
+    fonte: "klaff"
+    peso: 0.70
+
+  - id: "ST-MM-026"
+    conteudo: "Hot vs Cold Cognition"
+    descricao: "Emotional (hot) processing drives decisions; analytical (cold) processing rationalizes them after"
+    aplicacao: "Lead with emotional hooks, provide rational justification second"
+    fonte: "klaff"
+    peso: 0.70
+
+  - id: "ST-MM-027"
+    conteudo: "Frame Collision"
+    descricao: "When two frames meet, only one survives — the stronger frame absorbs the weaker"
+    aplicacao: "Prepare dominant frames before entering high-stakes conversations"
+    fonte: "klaff"
+    peso: 0.70
+
+  - id: "ST-MM-028"
+    conteudo: "Prize Frame Inversion"
+    descricao: "The person who is the prize controls the dynamic — invert buyer/seller frame"
+    aplicacao: "Position yourself as the prize in pitches and negotiations"
+    fonte: "klaff"
+    peso: 0.70
+
+  # --- GANZ ---
+  - id: "ST-MM-029"
+    conteudo: "Values-to-Action Bridge"
+    descricao: "Stories convert abstract values into felt urgency — the emotional catalyst for action"
+    aplicacao: "When audience knows but doesn't act, the missing piece is narrative"
+    fonte: "ganz"
+    peso: 0.70
+
+  - id: "ST-MM-030"
+    conteudo: "Strategic Capacity / Self-Us-Now Escalation"
+    descricao: "Start with personal story (Self), expand to shared identity (Us), then call to immediate action (Now)"
+    aplicacao: "Structure movement-building communication in three expanding circles"
+    fonte: "ganz"
+    peso: 0.70
+
+# ═══════════════════════════════════════════════════════════════════════════════
+# L3: HEURÍSTICAS (24 elementos)
+# ═══════════════════════════════════════════════════════════════════════════════
+
+heuristicas:
+  # --- TIMING & PACING ---
+  - id: "ST-HEUR-001"
+    conteudo: "Elephant within first 30-60 seconds — state the central tension immediately"
+    tipo: "quantitativa"
+    fonte: "dicks"
+    peso: 0.70
+
+  - id: "ST-HEUR-002"
+    conteudo: "Toggle What Is / What Could Be every 45-90 seconds in presentations"
+    tipo: "quantitativa"
+    fonte: "duarte"
+    peso: 0.70
+
+  - id: "ST-HEUR-003"
+    conteudo: "Every slide must be processable in ~3 seconds or it's too complex"
+    tipo: "quantitativa"
+    fonte: "duarte"
+    peso: 0.70
+
+  - id: "ST-HEUR-004"
+    conteudo: "Hookpoint must land in first 5 minutes of any pitch or attention is gone"
+    tipo: "quantitativa"
+    fonte: "klaff"
+    peso: 0.70
+
+  - id: "ST-HEUR-005"
+    conteudo: "Flash Roll: 30-60 seconds of rapid credibility stacking at pitch opening"
+    tipo: "quantitativa"
+    fonte: "klaff"
+    peso: 0.70
+
+  - id: "ST-HEUR-006"
+    conteudo: "Status is established in the first 30 seconds of any meeting — own it or lose it"
+    tipo: "quantitativa"
+    fonte: "klaff"
+    peso: 0.70
+
+  - id: "ST-HEUR-007"
+    conteudo: "A business story should be 60-90 seconds — long enough for arc, short enough for attention"
+    tipo: "quantitativa"
+    fonte: "hall"
+    peso: 0.70
+
+  # --- STRUCTURE ---
+  - id: "ST-HEUR-008"
+    conteudo: "40 cards average for feature film on The Board — each card = one scene"
+    tipo: "quantitativa"
+    fonte: "snyder"
+    peso: 0.70
+
+  - id: "ST-HEUR-009"
+    conteudo: "Only ONE piece of magic per movie — audience accepts one impossible premise, not two"
+    tipo: "qualitativa"
+    fonte: "snyder"
+    peso: 0.70
+
+  - id: "ST-HEUR-010"
+    conteudo: "Break Into Two at page 25 must be a DECISION by the hero, not something that happens to them"
+    tipo: "quantitativa"
+    fonte: "snyder"
+    peso: 0.70
+
+  - id: "ST-HEUR-011"
+    conteudo: "If you can't state your story in ABT form, you don't know your story yet"
+    tipo: "qualitativa"
+    fonte: "howell"
+    peso: 0.70
+
+  - id: "ST-HEUR-012"
+    conteudo: "Every scene must contain all Five Commandments or it fails — Inciting Incident, Progressive Complication, Crisis, Climax, Resolution"
+    tipo: "qualitativa"
+    fonte: "coyne"
+    peso: 0.70
+
+  - id: "ST-HEUR-013"
+    conteudo: "Use But and Therefore to connect story beats — never And (And = listing, not narrative)"
+    tipo: "qualitativa"
+    fonte: "dicks"
+    peso: 0.70
+
+  # --- NARRATIVE CRAFT ---
+  - id: "ST-HEUR-014"
+    conteudo: "Start the story as close to the end as possible — no unnecessary setup"
+    tipo: "qualitativa"
+    fonte: "dicks"
+    peso: 0.70
+
+  - id: "ST-HEUR-015"
+    conteudo: "Begin at the opposite emotional state of the ending — maximum transformation arc"
+    tipo: "qualitativa"
+    fonte: "dicks"
+    peso: 0.70
+
+  - id: "ST-HEUR-016"
+    conteudo: "Platform-Tilt-Resolution: establish normal, disrupt it, reestablish new normal"
+    tipo: "qualitativa"
+    fonte: "johnstone"
+    peso: 0.70
+
+  - id: "ST-HEUR-017"
+    conteudo: "Story Cancer: reincorporation cures it — if you introduced it, bring it back"
+    tipo: "qualitativa"
+    fonte: "johnstone"
+    peso: 0.70
+
+  - id: "ST-HEUR-018"
+    conteudo: "Never cancel a story — accept every offer and build on it"
+    tipo: "qualitativa"
+    fonte: "johnstone"
+    peso: 0.70
+
+  # --- PRESENTATION & PITCH ---
+  - id: "ST-HEUR-019"
+    conteudo: "One Big Idea per presentation — if you have two, you have zero"
+    tipo: "qualitativa"
+    fonte: "duarte"
+    peso: 0.70
+
+  - id: "ST-HEUR-020"
+    conteudo: "End with a S.T.A.R. Moment: Something They'll Always Remember"
+    tipo: "qualitativa"
+    fonte: "duarte"
+    peso: 0.70
+
+  - id: "ST-HEUR-021"
+    conteudo: "When frames collide, the stronger frame wins — always enter with the strongest frame"
+    tipo: "qualitativa"
+    fonte: "klaff"
+    peso: 0.70
+
+  # --- MOVEMENT & LEADERSHIP ---
+  - id: "ST-HEUR-022"
+    conteudo: "Start with Self (personal), expand to Us (shared), then Now (urgent action)"
+    tipo: "qualitativa"
+    fonte: "ganz"
+    peso: 0.70
+
+  - id: "ST-HEUR-023"
+    conteudo: "A movement narrative without Now has no urgency — people agree but don't act"
+    tipo: "qualitativa"
+    fonte: "ganz"
+    peso: 0.70
+
+  - id: "ST-HEUR-024"
+    conteudo: "Story without stakes is just a report — always identify what's at risk"
+    tipo: "qualitativa"
+    fonte: "multiple"
+    peso: 0.70
+
+# ═══════════════════════════════════════════════════════════════════════════════
+# L4: FRAMEWORKS (38 elementos)
+# ═══════════════════════════════════════════════════════════════════════════════
+
+frameworks:
+  # --- MYTHIC & MACRO STRUCTURE ---
+  - id: "ST-FW-001"
+    nome: "Hero's Journey (17 stages)"
+    fonte: "campbell"
+    etapas: ["Departure: Call to Adventure", "Refusal of the Call", "Supernatural Aid", "Crossing the Threshold", "Belly of the Whale", "Initiation: Road of Trials", "Meeting with the Goddess", "Woman as Temptress", "Atonement with the Father", "Apotheosis", "The Ultimate Boon", "Return: Refusal of the Return", "The Magic Flight", "Rescue from Without", "Crossing the Return Threshold", "Master of Two Worlds", "Freedom to Live"]
+    aplicacao: "Master template for epic narrative — adaptable to any transformation story"
+    peso: 0.70
+
+  - id: "ST-FW-002"
+    nome: "Story Circle (8 steps)"
+    fonte: "harmon"
+    etapas: ["You (comfort zone)", "Need (desire)", "Go (unfamiliar situation)", "Search (adapt)", "Find (get what they wanted)", "Take (pay the price)", "Return (go back changed)", "Change (capable of change)"]
+    aplicacao: "Simplified Hero's Journey for TV episodes, scenes, or any narrative unit"
+    peso: 0.70
+
+  - id: "ST-FW-003"
+    nome: "Save the Cat 15-Beat Sheet"
+    fonte: "snyder"
+    etapas: ["Opening Image", "Theme Stated", "Set-Up", "Catalyst", "Debate", "Break Into Two", "B Story", "Fun and Games", "Midpoint", "Bad Guys Close In", "All Is Lost", "Dark Night of the Soul", "Break Into Three", "Finale", "Final Image"]
+    aplicacao: "Complete screenplay/novel structure with page counts"
+    peso: 0.70
+
+  - id: "ST-FW-004"
+    nome: "10 Genre Types"
+    fonte: "snyder"
+    etapas: ["Monster in the House", "Golden Fleece", "Out of the Bottle", "Dude with a Problem", "Rites of Passage", "Buddy Love", "Whydunit", "Fool Triumphant", "Institutionalized", "Superhero"]
+    aplicacao: "Classify any story to understand its structural DNA and audience expectations"
+    peso: 0.70
+
+  - id: "ST-FW-005"
+    nome: "The Board (40 cards)"
+    fonte: "snyder"
+    descricao: "Physical cork board with 40 index cards organized into 4 rows (acts) — visual story mapping"
+    aplicacao: "Plan and restructure stories visually before writing"
+    peso: 0.70
+
+  - id: "ST-FW-006"
+    nome: "Logline Formula"
+    fonte: "snyder"
+    descricao: "On the verge of [stasis=death], a [flawed hero] must [action] or face [worst fear], with [irony/hook]"
+    aplicacao: "Test story premise in one compelling sentence"
+    peso: 0.70
+
+  # --- STORY ANALYSIS & EDITING ---
+  - id: "ST-FW-007"
+    nome: "Story Grid"
+    fonte: "coyne"
+    descricao: "Analytical framework mapping every scene's value shift, turning point, and genre conventions on a spreadsheet-like grid"
+    aplicacao: "Diagnose why a story isn't working at scene level"
+    peso: 0.70
+
+  - id: "ST-FW-008"
+    nome: "Five Commandments of Storytelling"
+    fonte: "coyne"
+    etapas: ["Inciting Incident (causal or coincidental)", "Progressive Complication (turning point)", "Crisis (best bad choice or irreconcilable goods)", "Climax (action taken)", "Resolution (new status quo)"]
+    aplicacao: "Verify every scene, act, and global story has all five elements"
+    peso: 0.70
+
+  - id: "ST-FW-009"
+    nome: "12 Content Genres"
+    fonte: "coyne"
+    etapas: ["Action/Adventure", "Horror", "Crime", "Thriller", "War", "Western", "Love", "Performance", "Society", "Status", "Worldview", "Morality"]
+    aplicacao: "Deep genre classification with specific conventions and obligatory scenes per genre"
+    peso: 0.70
+
+  - id: "ST-FW-010"
+    nome: "Four-Point Value Spectrum"
+    fonte: "coyne"
+    etapas: ["Positive (value at its best)", "Contrary (absence of value)", "Contradictory (opposite of value)", "Negation of Negation (worst possible state)"]
+    aplicacao: "Map the full emotional range a story can explore"
+    peso: 0.70
+
+  - id: "ST-FW-011"
+    nome: "Foolscap Global Story Grid"
+    fonte: "coyne"
+    descricao: "One-page story plan with global genre, conventions, obligatory scenes, and controlling idea"
+    aplicacao: "Plan or diagnose an entire novel/screenplay on a single page"
+    peso: 0.70
+
+  # --- PERSONAL STORYTELLING ---
+  - id: "ST-FW-012"
+    nome: "Five-Second Moment"
+    fonte: "dicks"
+    descricao: "Every great story aims at one precise moment of transformation — find it first, build around it"
+    aplicacao: "Anchor story preparation by identifying the single transformative instant"
+    peso: 0.70
+
+  - id: "ST-FW-013"
+    nome: "Homework for Life"
+    fonte: "dicks"
+    descricao: "Daily practice: record one storyworthy moment per day in a spreadsheet"
+    aplicacao: "Build an infinite story bank through daily observation"
+    peso: 0.70
+
+  - id: "ST-FW-014"
+    nome: "5 Stakes Tools"
+    fonte: "dicks"
+    etapas: ["Elephant (state the problem early)", "Backpack (load the audience with your burden)", "Breadcrumbs (hint at what's coming)", "Hourglass (slow down at climax)", "Crystal Ball (false prediction to create tension)"]
+    aplicacao: "Increase audience engagement and emotional investment throughout story"
+    peso: 0.70
+
+  - id: "ST-FW-015"
+    nome: "But/Therefore Rule"
+    fonte: "dicks"
+    descricao: "Connect story beats with But (complication) or Therefore (consequence), never And (listing)"
+    aplicacao: "Ensure causal progression in storytelling"
+    peso: 0.70
+
+  - id: "ST-FW-016"
+    nome: "Crash and Burn"
+    fonte: "dicks"
+    descricao: "Free-association story mining exercise: speak for 2 minutes without stopping, recording everything"
+    aplicacao: "Uncover hidden stories through stream-of-consciousness recall"
+    peso: 0.70
+
+  # --- BUSINESS STORYTELLING ---
+  - id: "ST-FW-017"
+    nome: "4 Stories Every Business Needs"
+    fonte: "hall"
+    etapas: ["Value Story (why your product matters)", "Founder Story (why you started)", "Purpose Story (why beyond profit)", "Customer Story (transformation proof)"]
+    aplicacao: "Audit and build complete business narrative portfolio"
+    peso: 0.70
+
+  - id: "ST-FW-018"
+    nome: "Story Gap"
+    fonte: "hall"
+    descricao: "Framework for identifying where narrative is missing in business — the gap between data and decision"
+    aplicacao: "Diagnose where in the business cycle story is needed most"
+    peso: 0.70
+
+  - id: "ST-FW-019"
+    nome: "Normal-Explosion-New Normal"
+    fonte: "hall"
+    etapas: ["Normal (establish status quo)", "Explosion (disruptive event)", "New Normal (transformed state)"]
+    aplicacao: "Simplest business story arc for any context"
+    peso: 0.70
+
+  - id: "ST-FW-020"
+    nome: "Self-Stories CACI Framework"
+    fonte: "hall"
+    etapas: ["Catch (the story you tell yourself)", "Analyze (is it true? helpful?)", "Choose (select a better story)", "Install (practice the new story)"]
+    aplicacao: "Rewrite limiting self-narratives for personal development"
+    peso: 0.70
+
+  # --- PRESENTATION ---
+  - id: "ST-FW-021"
+    nome: "Sparkline"
+    fonte: "duarte"
+    descricao: "Presentation structure that alternates between 'What Is' (current reality) and 'What Could Be' (future possibility), creating tension that resolves in a call to action"
+    aplicacao: "Design presentations that create desire for change"
+    peso: 0.70
+
+  - id: "ST-FW-022"
+    nome: "S.T.A.R. Moment"
+    fonte: "duarte"
+    descricao: "Something They'll Always Remember — a dramatic demonstration, visual, or story that makes the presentation unforgettable"
+    aplicacao: "Design one memorable peak moment per presentation"
+    peso: 0.70
+
+  - id: "ST-FW-023"
+    nome: "Big Idea Template"
+    fonte: "duarte"
+    descricao: "One sentence that captures the unique point of view and stakes: 'What if [possibility] because [insight]?'"
+    aplicacao: "Distill presentation to one compelling sentence before building deck"
+    peso: 0.70
+
+  - id: "ST-FW-024"
+    nome: "DataStory"
+    fonte: "duarte"
+    descricao: "Framework for turning data into narrative: context → rising tension → aha moment → action"
+    aplicacao: "Present data in story form so it drives decisions"
+    peso: 0.70
+
+  # --- BRAND STORYTELLING ---
+  - id: "ST-FW-025"
+    nome: "ABT Framework"
+    fonte: "howell"
+    etapas: ["And (setup/agreement)", "But (problem/conflict)", "Therefore (resolution/action)"]
+    aplicacao: "Simplest narrative structure for any communication — from emails to brand positioning"
+    peso: 0.70
+
+  - id: "ST-FW-026"
+    nome: "Story Cycle System (10 steps)"
+    fonte: "howell"
+    etapas: ["Backstory", "Hero/Audience", "Desire", "Problem", "Villain/Antagonist", "Mentor/Guide (you)", "Plan", "Battle", "Climax/Transformation", "Moral/New Normal"]
+    aplicacao: "Complete brand narrative arc from problem identification to transformation"
+    peso: 0.70
+
+  - id: "ST-FW-027"
+    nome: "5 Primal Elements of Story"
+    fonte: "howell"
+    etapas: ["Character (who)", "Intention (want)", "Obstacle (conflict)", "Stakes (why it matters)", "Transformation (change)"]
+    aplicacao: "Minimum viable story checklist — all five must be present"
+    peso: 0.70
+
+  - id: "ST-FW-028"
+    nome: "Narrative Fitness Assessment"
+    fonte: "howell"
+    descricao: "Diagnostic tool measuring how well a brand/person uses narrative across touchpoints"
+    aplicacao: "Audit and improve organizational storytelling capability"
+    peso: 0.70
+
+  # --- IMPROVISATION ---
+  - id: "ST-FW-029"
+    nome: "Status Transactions"
+    fonte: "johnstone"
+    descricao: "Framework for playing high/low status in scenes — status is expressed through body, voice, and attention"
+    aplicacao: "Craft dynamic character interactions and power dynamics"
+    peso: 0.70
+
+  - id: "ST-FW-030"
+    nome: "Yes And System"
+    fonte: "johnstone"
+    descricao: "Accept every offer and add to it — the fundamental rule of collaborative narrative creation"
+    aplicacao: "Collaborative storytelling, brainstorming, and improv performance"
+    peso: 0.70
+
+  - id: "ST-FW-031"
+    nome: "Platform-Tilt-Resolution"
+    fonte: "johnstone"
+    etapas: ["Platform (establish the routine/normal)", "Tilt (disrupt with something unexpected)", "Resolution (new equilibrium or escalation)"]
+    aplicacao: "Simplest improv story structure for scenes"
+    peso: 0.70
+
+  # --- PITCH & PERSUASION ---
+  - id: "ST-FW-032"
+    nome: "STRONG Method"
+    fonte: "klaff"
+    etapas: ["Set the frame", "Tell the story", "Reveal the intrigue", "Offer the prize", "Nail the hookpoint", "Get the deal"]
+    aplicacao: "Complete pitch structure for investment, partnership, or sales"
+    peso: 0.70
+
+  - id: "ST-FW-033"
+    nome: "Frame Control (5 frames)"
+    fonte: "klaff"
+    etapas: ["Power Frame (authority)", "Time Frame (urgency)", "Analyst Frame (detail)", "Prize Frame (you are the prize)", "Moral Authority Frame (ethical high ground)"]
+    aplicacao: "Control conversation dynamics in pitches and negotiations"
+    peso: 0.70
+
+  - id: "ST-FW-034"
+    nome: "Crocodile Brain Theory"
+    fonte: "klaff"
+    descricao: "Three-layer brain model: Croc brain (survival/novelty filter) → Midbrain (meaning) → Neocortex (analysis). Pitch must pass croc brain first."
+    aplicacao: "Design pitch openings that survive the reptilian filter"
+    peso: 0.70
+
+  # --- SOCIAL MOVEMENT ---
+  - id: "ST-FW-035"
+    nome: "Public Narrative (Self/Us/Now)"
+    fonte: "ganz"
+    etapas: ["Story of Self (why I was called to lead)", "Story of Us (shared values and identity)", "Story of Now (urgent challenge requiring action)"]
+    aplicacao: "Build movement narratives that inspire collective action"
+    peso: 0.70
+
+  - id: "ST-FW-036"
+    nome: "Five Organizing Practices"
+    fonte: "ganz"
+    etapas: ["Narrative (public story)", "Relationship (one-on-one)", "Structure (snowflake model)", "Strategy (targeting)", "Action (measurable campaigns)"]
+    aplicacao: "Complete framework for organizing social movements"
+    peso: 0.70
+
+  - id: "ST-FW-037"
+    nome: "Snowflake Model"
+    fonte: "ganz"
+    descricao: "Distributed leadership structure: core team connects to team leaders who connect to members — each node tells the story"
+    aplicacao: "Scale narrative leadership across organizations"
+    peso: 0.70
+
+  - id: "ST-FW-038"
+    nome: "Enabling Leadership"
+    fonte: "ganz"
+    descricao: "Leadership as enabling others to achieve shared purpose under uncertainty — not command and control"
+    aplicacao: "Develop leaders who empower through narrative rather than authority"
+    peso: 0.70
+
+# ═══════════════════════════════════════════════════════════════════════════════
+# L5: METODOLOGIAS (15 elementos)
+# ═══════════════════════════════════════════════════════════════════════════════
+
+metodologias:
+  - id: "ST-MET-001"
+    nome: "Story Analysis via Story Grid"
+    fonte: "coyne"
+    passos:
+      - "Identify global genre and subgenre"
+      - "Map conventions and obligatory scenes for that genre"
+      - "Create scene-by-scene spreadsheet with value shifts"
+      - "Apply Five Commandments to each scene"
+      - "Diagnose gaps: missing turning points, flat values, broken conventions"
+      - "Prescribe fixes based on diagnosis"
+    resultado: "Complete diagnostic and repair plan for any narrative"
+    peso: 0.70
+
+  - id: "ST-MET-002"
+    nome: "Build Narrative (Multi-Framework Routing)"
+    fonte: "multiple"
+    passos:
+      - "Assess story type: personal, brand, pitch, movement, or entertainment"
+      - "Route to primary framework: Dicks (personal), Hall (brand), Klaff (pitch), Ganz (movement), Campbell/Harmon/Snyder (entertainment)"
+      - "Apply framework structure to raw material"
+      - "Layer stakes using Dicks' 5 Stakes Tools"
+      - "Validate with Coyne's Five Commandments"
+      - "Polish with ABT at sentence/paragraph level"
+    resultado: "Complete narrative built with the right framework for the context"
+    peso: 0.70
+
+  - id: "ST-MET-003"
+    nome: "Create Pitch (STRONG + Sparkline hybrid)"
+    fonte: "klaff/duarte"
+    passos:
+      - "Set the frame: establish authority and context (Klaff)"
+      - "Open with What Is vs What Could Be tension (Duarte)"
+      - "Tell the origin story with STRONG intrigue (Klaff)"
+      - "Toggle between current reality and possibility every 45-90 sec (Duarte)"
+      - "Offer the prize: position yourself as the opportunity (Klaff)"
+      - "Land the S.T.A.R. Moment (Duarte)"
+      - "Close with urgency and call to action"
+    resultado: "Pitch that controls frames while maintaining narrative tension"
+    peso: 0.70
+
+  - id: "ST-MET-004"
+    nome: "Create Presentation (Duarte Method)"
+    fonte: "duarte"
+    passos:
+      - "Define Big Idea in one sentence"
+      - "Map audience: who are they, what do they believe, what do they resist?"
+      - "Build Sparkline: alternate What Is / What Could Be"
+      - "Design S.T.A.R. Moment for peak memorability"
+      - "Apply 3-second slide rule to every visual"
+      - "End with New Bliss: paint the transformed future"
+    resultado: "Presentation that positions audience as hero and drives adoption"
+    peso: 0.70
+
+  - id: "ST-MET-005"
+    nome: "Diagnose & Route (Story Chief Method)"
+    fonte: "multiple"
+    passos:
+      - "Listen to the story/problem"
+      - "Classify: entertainment, business, personal, pitch, or movement?"
+      - "Assess scale: anecdote, vignette, or full story?"
+      - "Route to specialist framework"
+      - "Apply framework and validate with Five Commandments"
+      - "Deliver recommendation with rationale"
+    resultado: "Correct framework selection and application for any narrative need"
+    peso: 0.70
+
+  - id: "ST-MET-006"
+    nome: "Creative Unblocking (Johnstone Method)"
+    fonte: "johnstone"
+    passos:
+      - "Identify the block: fear of judgment, perfectionism, or blank mind?"
+      - "Apply 'Be Obvious' — say the first thing that comes to mind"
+      - "Use Yes And to build on any starting point"
+      - "Play status games to unlock character dynamics"
+      - "Practice free-association: accept every offer your mind makes"
+      - "Graduate to Platform-Tilt-Resolution for structured improvisation"
+    resultado: "Restored creative flow and spontaneous narrative generation"
+    peso: 0.70
+
+  - id: "ST-MET-007"
+    nome: "Write Manifesto (Ganz Public Narrative)"
+    fonte: "ganz"
+    passos:
+      - "Story of Self: What personal experience called you to this cause?"
+      - "Story of Us: What values and experiences do we share as a community?"
+      - "Story of Now: What urgent challenge demands action right now?"
+      - "Weave three stories into one escalating narrative"
+      - "End with specific, measurable call to action"
+      - "Distribute through Snowflake Model — equip leaders to retell"
+    resultado: "Movement-building manifesto that converts belief into collective action"
+    peso: 0.70
+
+  - id: "ST-MET-008"
+    nome: "Homework for Life (Daily Practice)"
+    fonte: "dicks"
+    passos:
+      - "At end of each day, ask: What was the most storyworthy moment today?"
+      - "Record in spreadsheet: date, one-line description, emotional core"
+      - "Do NOT write the full story — just capture the seed"
+      - "Review monthly: patterns, recurring themes, connected moments"
+      - "Select strongest seeds for full story development"
+    resultado: "Infinite story bank that grows daily — never run out of stories"
+    peso: 0.70
+
+  - id: "ST-MET-009"
+    nome: "Story Mining: Crash & Burn"
+    fonte: "dicks"
+    passos:
+      - "Set timer for 2 minutes"
+      - "Pick a random prompt (a word, image, or memory)"
+      - "Talk nonstop — no filtering, no editing, no pausing"
+      - "Record everything (phone voice memo)"
+      - "Review: identify moments of genuine emotion or surprise"
+      - "Develop those moments into full stories"
+    resultado: "Rapid discovery of hidden stories through free-association"
+    peso: 0.70
+
+  - id: "ST-MET-010"
+    nome: "Self-Stories Rewriting (CACI Method)"
+    fonte: "hall"
+    passos:
+      - "Catch: Notice a limiting story you tell yourself"
+      - "Analyze: Is it true? Is it helpful? What evidence contradicts it?"
+      - "Choose: Select a new, empowering story that is also true"
+      - "Install: Repeat the new story in key moments until it replaces the old one"
+    resultado: "Transformed self-narrative that enables new behaviors and outcomes"
+    peso: 0.70
+
+  - id: "ST-MET-011"
+    nome: "ABT Diagnostic"
+    fonte: "howell"
+    passos:
+      - "Take any piece of communication (email, pitch, bio, about page)"
+      - "Attempt to reduce it to ABT: [Setup] AND [Setup] BUT [Problem] THEREFORE [Action]"
+      - "If it fails to reduce: the communication lacks narrative structure"
+      - "Rewrite using ABT as skeleton"
+      - "Expand from ABT skeleton to full piece"
+    resultado: "Any communication transformed from listing (AAA) to narrative (ABT)"
+    peso: 0.70
+
+  - id: "ST-MET-012"
+    nome: "Editor's Six Core Questions"
+    fonte: "coyne"
+    passos:
+      - "What is the global genre? (content + style)"
+      - "What are the conventions and obligatory scenes?"
+      - "What is the controlling idea/theme?"
+      - "What is the beginning hook, middle build, ending payoff?"
+      - "Does each scene turn on a value?"
+      - "What is the point of view and narrative device?"
+    resultado: "Complete editorial diagnosis of any manuscript or screenplay"
+    peso: 0.70
+
+  - id: "ST-MET-013"
+    nome: "Frame Stacking for Pitches"
+    fonte: "klaff"
+    passos:
+      - "Identify the default frames in the room (Power, Analyst, etc.)"
+      - "Prepare counter-frames: Prize Frame against Power, Intrigue against Analyst"
+      - "Open with frame disruption — break expectations in first 60 seconds"
+      - "Stack frames: establish Prize Frame → layer Time Frame → add Moral Authority"
+      - "Maintain frame control through Hot Cognition triggers"
+      - "Close from a position of strength — you are the prize"
+    resultado: "Total frame control in high-stakes pitches and negotiations"
+    peso: 0.70
+
+  - id: "ST-MET-014"
+    nome: "Sparkline Presentation Build"
+    fonte: "duarte"
+    passos:
+      - "Research audience deeply — fears, hopes, current beliefs"
+      - "Define Big Idea in one sentence"
+      - "Map What Is (current pain/reality) moments"
+      - "Map What Could Be (future possibility) moments"
+      - "Alternate between the two — creating tension and release"
+      - "Design S.T.A.R. Moment at the emotional peak"
+      - "End with New Bliss: vivid picture of transformed future"
+      - "Apply 3-second slide rule to all visuals"
+    resultado: "Presentation that moves audience from resistance to action"
+    peso: 0.70
+
+  - id: "ST-MET-015"
+    nome: "Story Cycle Brand Narrative"
+    fonte: "howell"
+    passos:
+      - "Define your audience as the hero (not your brand)"
+      - "Identify their backstory and current situation"
+      - "Clarify their desire (what they want)"
+      - "Name the problem/villain (what's in the way)"
+      - "Position your brand as the mentor/guide"
+      - "Offer the plan (your solution)"
+      - "Describe the battle (transformation process)"
+      - "Paint the climax (moment of triumph)"
+      - "Articulate the moral/new normal"
+      - "Test with ABT: does it reduce cleanly?"
+    resultado: "Complete brand narrative that positions customer as hero"
+    peso: 0.70
+
+# ═══════════════════════════════════════════════════════════════════════════════
+# TASK ROUTING: QUAL EXPERT/FRAMEWORK PARA QUAL TAREFA
+# ═══════════════════════════════════════════════════════════════════════════════
+
+task_routing:
+  personal_story: ["ST-FW-012", "ST-FW-013", "ST-FW-014", "ST-FW-015"]
+  business_story: ["ST-FW-017", "ST-FW-018", "ST-FW-019", "ST-FW-025"]
+  brand_narrative: ["ST-FW-025", "ST-FW-026", "ST-FW-027", "ST-FW-028"]
+  pitch_deck: ["ST-FW-032", "ST-FW-033", "ST-FW-021", "ST-FW-023"]
+  presentation: ["ST-FW-021", "ST-FW-022", "ST-FW-023", "ST-FW-024"]
+  screenplay_novel: ["ST-FW-001", "ST-FW-002", "ST-FW-003", "ST-FW-007"]
+  story_diagnosis: ["ST-FW-007", "ST-FW-008", "ST-FW-011", "ST-FW-010"]
+  movement_building: ["ST-FW-035", "ST-FW-036", "ST-FW-037", "ST-FW-038"]
+  creative_unblocking: ["ST-FW-029", "ST-FW-030", "ST-FW-031"]
+  story_mining: ["ST-FW-012", "ST-FW-013", "ST-FW-016"]
+  data_storytelling: ["ST-FW-024", "ST-FW-021"]
+  genre_classification: ["ST-FW-004", "ST-FW-009"]
+
+# ═══════════════════════════════════════════════════════════════════════════════
+# SIGNATURE VOCABULARY
+# ═══════════════════════════════════════════════════════════════════════════════
+
+vocabulario:
+  campbell: ["monomyth", "hero's journey", "bliss", "threshold", "boon", "archetype", "call to adventure", "atonement"]
+  harmon: ["story circle", "fractal", "death and rebirth", "comfort zone", "unfamiliar", "change"]
+  snyder: ["save the cat", "beat sheet", "logline", "fun and games", "double mumbo jumbo", "the board", "genre types"]
+  coyne: ["story grid", "five commandments", "value shift", "turning point", "negation of negation", "foolscap", "obligatory scenes"]
+  dicks: ["five-second moment", "homework for life", "elephant", "backpack", "breadcrumbs", "hourglass", "crystal ball", "crash and burn"]
+  hall: ["story gap", "four stories", "normal-explosion-new normal", "self-stories", "CACI", "data tells stories sell"]
+  duarte: ["sparkline", "S.T.A.R. moment", "what is what could be", "audience as hero", "big idea", "DataStory", "new bliss"]
+  howell: ["ABT", "and-but-therefore", "AAA", "story cycle system", "primal elements", "narrative fitness", "mentor not hero"]
+  johnstone: ["status transactions", "yes and", "offers", "blocks", "platform-tilt", "story cancer", "be obvious", "internal censor"]
+  klaff: ["STRONG", "frame control", "croc brain", "hot cognition", "cold cognition", "prize frame", "flash roll", "hookpoint"]
+  ganz: ["public narrative", "self us now", "enabling leadership", "snowflake model", "strategic capacity", "organizing practices"]
+
+# ═══════════════════════════════════════════════════════════════════════════════
+# PRODUCTIVE TENSIONS (where experts disagree)
+# ═══════════════════════════════════════════════════════════════════════════════
+
+productive_tensions:
+  - tensao: "Structure as liberation vs Structure as cage"
+    lado_a:
+      posicao: "Structure enables creativity — the 15-beat sheet liberates, not constrains"
+      experts: ["snyder", "coyne", "duarte"]
+    lado_b:
+      posicao: "Imposed structure kills spontaneity — be obvious, don't plan ahead"
+      experts: ["johnstone"]
+    resolucao: "Use structure for pre-planned narrative (screenplays, pitches), improvisation for discovery and brainstorming"
+
+  - tensao: "Universal monomyth vs Cultural specificity"
+    lado_a:
+      posicao: "All stories share the same deep structure — the Hero's Journey is universal"
+      experts: ["campbell", "harmon"]
+    lado_b:
+      posicao: "Genre conventions and cultural context create different story obligations"
+      experts: ["coyne", "snyder"]
+    resolucao: "Monomyth provides the emotional skeleton; genre and culture provide the muscles and skin"
+
+  - tensao: "Presenter as hero vs Presenter as mentor"
+    lado_a:
+      posicao: "The pitcher must be the prize — own the room, control the frame"
+      experts: ["klaff"]
+    lado_b:
+      posicao: "The audience is the hero — the presenter is the mentor who guides"
+      experts: ["duarte", "howell"]
+    resolucao: "Context-dependent: in investment pitches, be the prize; in presentations and brand narratives, be the mentor"
+
+  - tensao: "Simplicity vs Complexity of story models"
+    lado_a:
+      posicao: "ABT and Normal-Explosion-New Normal — keep it simple, 3 elements max"
+      experts: ["howell", "hall"]
+    lado_b:
+      posicao: "17-stage Hero's Journey, 15-Beat Sheet, Story Grid — depth requires complexity"
+      experts: ["campbell", "snyder", "coyne"]
+    resolucao: "Match model complexity to story scale — ABT for emails, Story Grid for novels"
+
+  - tensao: "Rational planning vs Emotional intuition"
+    lado_a:
+      posicao: "Frame control, STRONG method — pitch is strategic warfare with planned moves"
+      experts: ["klaff"]
+    lado_b:
+      posicao: "Story comes from the heart — authentic narrative emerges from values and lived experience"
+      experts: ["ganz", "dicks"]
+    resolucao: "Strategy provides the container; authenticity provides the content — both are necessary"

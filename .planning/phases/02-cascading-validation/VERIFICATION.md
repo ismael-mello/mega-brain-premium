@@ -105,7 +105,7 @@ Resolves multiple file formats:
 - AGENT.md (fallback) ✅
 - Playbooks in `knowledge/playbooks/` ✅
 - Dossiers in `knowledge/dossiers/**/` (recursive) ✅
-- DNAs in `knowledge/dna/persons/*/DNA.yaml` ✅
+- DNAs in `knowledge/external/dna/persons/*/DNA.yaml` ✅
 
 ### CLI Interface
 Supports 4 usage modes:

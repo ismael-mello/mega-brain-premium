@@ -232,8 +232,8 @@
 │  ARQUIVOS PROCESSADOS: 64                                                    │
 │  BATCHES: BATCH-085 a BATCH-091 (7 batches)                                  │
 │  SOURCE LOG: /logs/SOURCES/SOURCE-TSC.md                                  │
-│  DNA CONFIG: /knowledge/dna/persons/THE-SCALABLE-COMPANY/CONFIG.yaml      │
-│  AGENT: /agents/persons/THE-SCALABLE-COMPANY/                             │
+│  DNA CONFIG: /knowledge/external/dna/persons/THE-SCALABLE-COMPANY/CONFIG.yaml      │
+│  AGENT: /agents/external/THE-SCALABLE-COMPANY/                             │
 │                                                                              │
 │  DATA PROCESSAMENTO: 2026-01-10                                              │
 │  QUALIDADE: A+ (Frameworks operacionais de alta aplicabilidade)              │

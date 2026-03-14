@@ -1,0 +1,933 @@
+# DNA-CONFIG.yaml - Russell Brunson (PERSON Agent)
+#
+# Versao: 1.0.0
+# Data: 2026-03-01
+# Proposito: Configuracao de DNA para agente SOLO de Russell Brunson
+# Integrado com: AGENT-COGNITION-PROTOCOL (FASE 1.5), AGENT-INTEGRITY-PROTOCOL
+#
+# ═══════════════════════════════════════════════════════════════════════════════
+# REGRA INQUEBRAVEL: RASTREABILIDADE 100%
+# ═══════════════════════════════════════════════════════════════════════════════
+#
+# Todo DNA deve ter paths verificaveis ate inbox
+# Navegacao: DNA-CONFIG -> DNA.yaml -> inbox
+#
+# ═══════════════════════════════════════════════════════════════════════════════
+
+# ═══════════════════════════════════════════════════════════════════════════════
+# METADADOS DO AGENTE
+# ═══════════════════════════════════════════════════════════════════════════════
+
+cargo: "RUSSELL-BRUNSON"
+versao: "17.0.0"
+nivel: "PERSON"
+natureza: "SOLO"
+data_criacao: "2026-03-01"
+ultima_atualizacao: "2026-03-10-v27-lead-funnels-training"
+
+# ═══════════════════════════════════════════════════════════════════════════════
+# CONSTITUICAO (Layer 1 - Principios compartilhados)
+# ═══════════════════════════════════════════════════════════════════════════════
+
+constituicao:
+  path: "/agents/CONSTITUTION/BASE-CONSTITUTION.md"
+  descricao: "Principios eticos e operacionais base para todos os agentes"
+
+# ═══════════════════════════════════════════════════════════════════════════════
+# MEMORIA DO AGENTE
+# ═══════════════════════════════════════════════════════════════════════════════
+
+memoria:
+  path: "./MEMORY.md"
+  versao: "11.0.0"
+  descricao: "Experiencia acumulada deste agente - ATIVO"
+
+# ═══════════════════════════════════════════════════════════════════════════════
+# SOUL DO AGENTE
+# ═══════════════════════════════════════════════════════════════════════════════
+
+soul:
+  path: "./SOUL.md"
+  versao: "1.2"
+  descricao: "Identidade e consciencia viva do agente Russell Brunson - ATIVO"
+
+# ═══════════════════════════════════════════════════════════════════════════════
+# FONTES DE DNA - COM RASTREABILIDADE COMPLETA
+# ═══════════════════════════════════════════════════════════════════════════════
+#
+# AGENTE SOLO: Fonte unica = peso 1.0 (100%)
+# Sem conflitos entre fontes. Sem resolucao de conflitos necessaria.
+#
+# ═══════════════════════════════════════════════════════════════════════════════
+
+dna_sources:
+
+  # ───────────────────────────────────────────────────────────────────────────
+  # FONTES AGREGADAS (N/A para agente SOLO)
+  # ───────────────────────────────────────────────────────────────────────────
+
+  agregado: []
+
+  # ───────────────────────────────────────────────────────────────────────────
+  # FONTE PRIMARIA (unica - SOLO agent)
+  # ───────────────────────────────────────────────────────────────────────────
+
+  primario:
+    - pessoa: "russell-brunson"
+      path: "/knowledge/external/dna/persons/russell-brunson"
+      raiz: "/knowledge/external/sources/russell-brunson/raw/000._Secrets_Masterclass_($4997)/"
+      dominios_usados:
+        - "funnels"
+        - "direct-response-marketing"
+        - "copywriting"
+        - "webinar-selling"
+        - "mass-movements"
+        - "storytelling"
+        - "traffic"
+        - "offers"
+        - "email-marketing"
+        - "expert-positioning"
+        - "high-ticket-closing"
+        - "call-center-operations"
+        - "setter-closer-scripts"
+        - "objection-handling"
+        - "compliance"
+        - "team-management-sales"
+        - "presentation-scripting"
+        - "offline-traffic"
+        - "radio-advertising"
+        - "direct-mail"
+        - "media-buying"
+        - "cpa-networks"
+        - "automated-webinar-operations"
+        - "traffic-systemization"
+        - "bizop-extension"
+        - "funnelology"
+        - "video-sales-letters"
+        - "product-launch-funnels"
+        - "phone-funnel-architecture"
+        - "application-design"
+        - "solo-ads"
+        - "newsletter-marketing"
+        - "ppv-advertising"
+        - "banner-advertising"
+        - "seo-basics"
+        - "webinar-optimization"
+        - "event-selling"
+        - "belief-destruction"
+        - "trial-closing"
+        - "permission-based-selling"
+      peso: 1.0
+      quando_usar: "SEMPRE - fonte unica do agente SOLO"
+      materiais_fonte:
+        - titulo: "Module 00 - Welcome (DotCom Secrets + Expert Secrets Intro)"
+          path_raiz: "/knowledge/external/sources/russell-brunson/raw/000._Secrets_Masterclass_($4997)/00._Welcome/"
+          tipo: "masterclass"
+          data_processamento: "2026-03-01"
+
+        - titulo: "Module 01 - Creating Your Mass Movement (Parts 1-2)"
+          path_raiz: "/knowledge/external/sources/russell-brunson/raw/000._Secrets_Masterclass_($4997)/01._Module_1-Creating_Your_Mass_Movement/"
+          tipo: "masterclass"
+          data_processamento: "2026-03-01"
+
+        - titulo: "Module 02 - Ladders and Funnels"
+          path_raiz: "/knowledge/external/sources/russell-brunson/raw/000._Secrets_Masterclass_($4997)/02._Module_2-Ladders_and_Funnels/"
+          tipo: "masterclass"
+          data_processamento: "2026-03-01"
+
+        - titulo: "Module 03 - Communication and Follow-Up Funnels"
+          path_raiz: "/knowledge/external/sources/russell-brunson/raw/000._Secrets_Masterclass_($4997)/03._Module_3-Communication_and_Follow-Up_Funnels/"
+          tipo: "masterclass"
+          data_processamento: "2026-03-01"
+
+        - titulo: "Module 04 - Funnelology and Funnel Stacking"
+          path_raiz: "/knowledge/external/sources/russell-brunson/raw/000._Secrets_Masterclass_($4997)/04._Module_4-Funnelology_and_Funnel_Stacking/"
+          tipo: "masterclass"
+          data_processamento: "2026-03-01"
+
+        - titulo: "Module 05 - Creating Belief"
+          path_raiz: "/knowledge/external/sources/russell-brunson/raw/000._Secrets_Masterclass_($4997)/05._Module_5-Creating_Belief/"
+          tipo: "masterclass"
+          data_processamento: "2026-03-01"
+
+        - titulo: "Module 06 - Your Moral Obligation (Perfect Webinar Script)"
+          path_raiz: "/knowledge/external/sources/russell-brunson/raw/000._Secrets_Masterclass_($4997)/06._Module_6-Your_Moral_Obligation/"
+          tipo: "masterclass"
+          data_processamento: "2026-03-01"
+
+        - titulo: "Module 07 - The Funnels"
+          path_raiz: "/knowledge/external/sources/russell-brunson/raw/000._Secrets_Masterclass_($4997)/07._Module_7-The_Funnels/"
+          tipo: "masterclass"
+          data_processamento: "2026-03-01"
+
+        - titulo: "Module 08 - Funnel Stacking and Scripts"
+          path_raiz: "/knowledge/external/sources/russell-brunson/raw/000._Secrets_Masterclass_($4997)/08._Module_8-Funnel_Stacking_and_Scripts/"
+          tipo: "masterclass"
+          data_processamento: "2026-03-01"
+
+        # PDF BOOKS (merged 2026-03-01)
+        - titulo: "DotCom Secrets (PDF Book)"
+          path_raiz: "/inbox/russell-brunson/pdf-books/DotCom-Secrets.pdf"
+          tipo: "livro-pdf"
+          data_processamento: "2026-03-01"
+
+        - titulo: "Expert Secrets (PDF Book)"
+          path_raiz: "/inbox/russell-brunson/pdf-books/Expert-Secrets.pdf"
+          tipo: "livro-pdf"
+          data_processamento: "2026-03-01"
+
+        - titulo: "Traffic Secrets (PDF Book)"
+          path_raiz: "/inbox/russell-brunson/pdf-books/Traffic-Secrets.pdf"
+          tipo: "livro-pdf"
+          data_processamento: "2026-03-01"
+
+        - titulo: "Network Marketing Secrets (PDF Book)"
+          path_raiz: "/inbox/russell-brunson/pdf-books/Network-Marketing-Secrets.pdf"
+          tipo: "livro-pdf"
+          data_processamento: "2026-03-01"
+
+        - titulo: "Modules & Scripts Workbook (PDF)"
+          path_raiz: "/inbox/russell-brunson/pdf-books/Modules-Scripts-Workbook.pdf"
+          tipo: "workbook-pdf"
+          data_processamento: "2026-03-01"
+
+        # HIGH TICKET SECRETS (merged 2026-03-03)
+        - titulo: "High Ticket Secrets - Welcome + Call Center Setup + Scripts + Webinars"
+          path_raiz: "/knowledge/external/sources/russell-brunson/raw/high-ticket-secrets/"
+          tipo: "programa-completo"
+          data_processamento: "2026-03-03"
+
+        # PERFECT WEBINAR SECRETS (merged 2026-03-03)
+        - titulo: "Perfect Webinar Secrets - Welcome Module"
+          path_raiz: "/knowledge/external/sources/russell-brunson/raw/01._Perfect_Webinar_Secrets/1._Welcome_To_The_Perfect_Webinar/"
+          tipo: "curso-online"
+          data_processamento: "2026-03-03"
+
+        - titulo: "Perfect Webinar Secrets - The Perfect Webinar (Training)"
+          path_raiz: "/knowledge/external/sources/russell-brunson/raw/01._Perfect_Webinar_Secrets/2._The_Perfect_Webinar/"
+          tipo: "curso-online"
+          data_processamento: "2026-03-03"
+
+        - titulo: "Perfect Webinar Secrets - Ignite Workshop Day 1 (3 sessions)"
+          path_raiz: "/knowledge/external/sources/russell-brunson/raw/01._Perfect_Webinar_Secrets/4._Workshop_Day_1/"
+          tipo: "workshop-ao-vivo"
+          data_processamento: "2026-03-03"
+
+        # 7 FIGURE SHORTCUT (merged 2026-03-04)
+        - titulo: "7 Figure Shortcut Part 1 - Core Webinar, ITS, Traffic Systems"
+          path_raiz: "/knowledge/external/sources/russell-brunson/raw/04._7_Figure_Shortcut/"
+          tipo: "programa-completo"
+          data_processamento: "2026-03-04"
+
+        - titulo: "7 Figure Shortcut Part 2 - Setter/Closer Scripts, 8-Figure Webinar, Sales Process"
+          path_raiz: "/knowledge/external/sources/russell-brunson/raw/04._7_Figure_Shortcut/"
+          tipo: "programa-completo"
+          data_processamento: "2026-03-04"
+
+        - titulo: "7 Figure Shortcut - Building Your Backend"
+          path_raiz: "/knowledge/external/sources/russell-brunson/raw/04._7_Figure_Shortcut/"
+          tipo: "programa-completo"
+          data_processamento: "2026-03-04"
+
+        # FUNNEL HACKING LIVE - TRAFFIC SECRETS (merged 2026-03-05)
+        - titulo: "Funnel Hacking Live - Traffic Secrets Keynote (Day 3)"
+          path_raiz: "/knowledge/external/sources/russell-brunson/raw/06._Funnel_Hacking_Live/Funnel_Hacking_Live-Russell_Brunson/01-The Traffic Secrets Book/"
+          tipo: "keynote-ao-vivo"
+          data_processamento: "2026-03-05"
+
+        - titulo: "Funnel Catcher Newsletter - DotComSecrets Labs Issue 7"
+          path_raiz: "/knowledge/external/sources/russell-brunson/raw/06._Funnel_Hacking_Live/Funnel_Hacking_Live-Russell_Brunson/02-Traffic Secrets Audiobook + MORE/02-Issue_06.txt"
+          tipo: "newsletter"
+          data_processamento: "2026-03-05"
+
+        # DOTCOM SECRETS IGNITE (merged 2026-03-05)
+        # FUNNELOLOGY MASTERCLASS (merged 2026-03-05)
+        - titulo: "Funnelology Masterclass (3 Days + Lander)"
+          path_raiz: "/knowledge/external/sources/russell-brunson/raw/07._Funnelology_Masterclass/"
+          tipo: "masterclass-ao-vivo"
+          data_processamento: "2026-03-05"
+          elementos_extraidos: ~150
+          novos: ~60
+          enrichments: ~40
+
+        - titulo: "DotCom Secrets Ignite - Live Workshop (10 Sessions)"
+          path_raiz: "/knowledge/external/sources/russell-brunson/raw/05._Dotcom_Secrets_Ignite/"
+          tipo: "workshop-ao-vivo"
+          data_processamento: "2026-03-05"
+          sessoes:
+            - "01 - The Secret Formula (4 Questions Framework)"
+            - "02 - The Attractive Character"
+            - "03 - How to Outspend Your Competitor (Value Ladder)"
+            - "04 - Three Types of Traffic"
+            - "05 - 7 Phases of a Lead + 100 Visitor Test"
+            - "06 - The 31 Building Blocks of a Funnel"
+            - "07 - Our 9 Core Funnels"
+            - "08 - Inception Secrets"
+            - "09 - The Scripts"
+            - "10 - Wrap Up"
+            - "DCSIgniteWorkbook (Companion Workbook)"
+
+        # FUNNEL IMMERSION (merged 2026-03-05)
+        # FUNNEL IMMERSION DEEP-DIVE (v8.0.0 - 3 parallel agents, 2026-03-05)
+        - titulo: "Funnel Immersion - DotComSecrets Modules 4-10 Deep-Dive (9 files)"
+          path_raiz: "/knowledge/external/sources/russell-brunson/raw/08._Funnel_Immersion/01._DotComSecrets/"
+          tipo: "programa-completo"
+          data_processamento: "2026-03-05"
+          deep_dive: true
+          elementos_extraidos: 67
+          novos: 42
+          enrichments: 25
+          by_layer: "L1:8 L2:8 L3:15 L4:12 L5:4"
+          key_new_elements:
+            - "Congregation Model"
+            - "5-Point Reverse Engineering"
+            - "Inception Secrets"
+            - "5 Elements of Persuasion"
+            - "Who-What-Why-How Script"
+            - "7 Pre-Frame Building Blocks"
+            - "National Inquirer Headline Method"
+            - "Letter Gold philosophy"
+
+        - titulo: "Funnel Immersion - Invisible Funnel Two Comma Club X (10/35 files)"
+          path_raiz: "/knowledge/external/sources/russell-brunson/raw/08._Funnel_Immersion/02._Invisible_Funnel/"
+          tipo: "programa-completo"
+          data_processamento: "2026-03-05"
+          deep_dive: true
+          files_read: "10/35 (Two Comma Club X only)"
+          remaining: "25 files (IF Workshop 1-15, Scripts x4, Black Box x6)"
+          elementos_extraidos: 67
+          novos: 52
+          enrichments: 15
+          by_layer: "L1:8 L2:9 L3:18 L4:9 L5:8"
+          key_new_elements:
+            - "PTE Framework (Prove-Test-Execute)"
+            - "IF Video Script Architecture 8-step"
+            - "Traffic Scaling Ladder (Email>Authority>Competitor>Retargeting>Facebook)"
+            - "Mini Infomercial (34min beats 3.5hr by 120%)"
+            - "Competitive Intelligence Stack"
+            - "Cookie Trail retargeting"
+          subprogramas:
+            - "Black Box Funnel (11 files) - COMPLETE"
+            - "Two Comma Club X (10 files) - COMPLETE"
+            - "Workshop Sessions (15 files) - COMPLETE"
+            - "Scripts (4 files) - COMPLETE"
+
+        - titulo: "Funnel Immersion - Perfect Webinar + Funnel Catcher + FHL Deep-Dive (26/30 files)"
+          path_raiz: "/knowledge/external/sources/russell-brunson/raw/08._Funnel_Immersion/"
+          tipo: "programa-completo"
+          data_processamento: "2026-03-05"
+          deep_dive: true
+          files_read: "26/30"
+          elementos_extraidos: 87
+          novos: 74
+          enrichments: 13
+          by_layer: "L1:11 L2:14 L3:19 L4:15 L5:15"
+          key_new_elements:
+            - "Full 16 Named Closes list"
+            - "Bridge Funnel System (6 bridges)"
+            - "Post-Webinar 9-Email Sequence"
+            - "Hidden $247 Compassion Price"
+            - "PromoHacking Native Ads"
+            - "Retargeting 3-Layer"
+            - "Generic Focus Targeting"
+            - "Wrestling Setups = Funnel Catchers"
+          subprogramas:
+            - "Perfect Webinar (16 files) - COMPLETE"
+            - "Funnel Catcher (11 files) - COMPLETE"
+            - "Greatest Hits FHL (2 files) - COMPLETE"
+
+        # INSTANT TRAFFIC HACKS (merged 2026-03-08)
+        - titulo: "Instant Traffic Hacks - Complete Course (35 transcriptions, 6 modules)"
+          path_raiz: "/knowledge/external/sources/russell-brunson/raw/09._Instant_Traffic_Hacks/"
+          tipo: "programa-completo"
+          data_processamento: "2026-03-08"
+          elementos_extraidos: 64
+          novos: 64
+          enrichments: 5
+          by_layer: "L1:12 L2:14 L3:21 L4:10 L5:7"
+          era: "~2013-2014 (pre-ClickFunnels)"
+          guest_speakers: ["Igor Kheifets", "Daegan Smith", "Brent Co-Peters", "Scott"]
+          note: "21 highest-value heuristics from 57 extracted. Dated SEO/PPV tactics excluded."
+          subprogramas:
+            - "1 Media Buying (2 files) - COMPLETE"
+            - "2 Facebook Traffic (6 files) - COMPLETE"
+            - "3 Solo Ads (3 files) - COMPLETE"
+            - "4 Solo Ad Secrets - Daegan Smith (14 files) - COMPLETE"
+            - "5 SEO (4 files) - COMPLETE"
+            - "6 PPV (3 files) - COMPLETE"
+            - "Intro (1 file) - COMPLETE"
+
+        # WEBINAR BLUEPRINT (merged 2026-03-08)
+        - titulo: "Webinar Blueprint (com Jason Fladlien)"
+          path_raiz: "/knowledge/external/sources/russell-brunson/raw/10._Webinar_Blueprint/"
+          tipo: "masterclass"
+          data_processamento: "2026-03-08"
+          arquivos:
+            - transcription_Webinar_Blueprint.txt
+            - transcription_Video_1.txt
+            - PWHandout012015.txt
+            - Funnel link.txt
+
+        # FUNNEL HACKERS COOKBOOK (merged 2026-03-08)
+        - titulo: "Funnel Hackers CookBook - Video Training Series + PDF (307 pages)"
+          path_raiz: "/knowledge/external/sources/russell-brunson/raw/13._Funnel_Hackers_CookBook/"
+          tipo: "cookbook-video-training"
+          data_processamento: "2026-03-08"
+          elementos_extraidos: 38
+          enrichments: 22
+          by_layer: "L1:5 L2:7 L3:11 L4:10 L5:5"
+          key_new_elements:
+            - "22 Funnel Types Taxonomy"
+            - "15 Page Types Taxonomy"
+            - "Funnel Selection Matrix (price-to-funnel)"
+            - "Page Element Recipes (squeeze, VSL, OTO, webinar reg, application)"
+            - "Summit Funnel as Dream 100 Activator"
+            - "Hero Funnel Concept"
+            - "Daily Deal Funnel Model"
+            - "Cookbook Funnel Building Method (10-step)"
+
+        # FAST PRODUCT DEVELOPMENT (merged 2026-03-08)
+        - titulo: "Fast Product Development Workshop (4 transcriptions)"
+          path_raiz: "/knowledge/external/sources/russell-brunson/raw/15._Fast_Product_Development/"
+          tipo: "workshop-bonus"
+          data_processamento: "2026-03-08"
+          elementos_extraidos: 154
+          novos: 97
+          enrichments: 27
+          by_layer: "L1:14 L2:12 L3:28 L4:28 L5:15"
+          key_new_elements:
+            - "Info Products as Universal Fuel"
+            - "One Chapter Ahead Philosophy"
+            - "Ask Campaign Pipeline (questions-to-content)"
+            - "Flycatcher Page Method"
+            - "12 Modes of Fast Product Creation"
+            - "PLR Enhancement Method ($27->$50K)"
+            - "Congregation/Barrel of Fish Model"
+            - "Four Underachiever Pillars"
+            - "Inverted Product Development (top-down)"
+            - "Public Domain Product Pipeline"
+            - "Microcontinuity Business Model"
+            - "Relationship-First Affiliate Outreach"
+          subprogramas:
+            - "01 - Fast Product Development (Intro/Philosophy) - COMPLETE"
+            - "02 - The Foundation (Ask Campaign/Outlines) - COMPLETE"
+            - "03 - Product Development (Creation/Sales) - COMPLETE"
+            - "04 - Process and Traffic (Launch/Growth) - COMPLETE"
+
+        # FUNNEL HACKING LIVE INTERNATIONAL (merged 2026-03-10)
+        - titulo: "Funnel Hacking Live International - Main Stage + Funnel Audibles (virtual edition)"
+          path_raiz: "/knowledge/external/sources/russell-brunson/raw/funnel-hacking-live-international/"
+          tipo: "evento-virtual"
+          data_processamento: "2026-03-10"
+          elementos_extraidos: 19
+          novos: 19
+          by_layer: "L1:4 L2:4 L3:6 L4:4 L5:3"
+          source_doc: "/knowledge/external/sources/russell-brunson/30-FHL-INTERNATIONAL-MAINSTAGE.md"
+
+        # DOTCOM SECRETS BOOK (merged 2026-03-10)
+        - titulo: "DotCom Secrets: The Underground Playbook (2015 Book)"
+          path_raiz: "/knowledge/external/sources/russell-brunson/raw/dotcom-secrets-book/"
+          tipo: "livro"
+          data_processamento: "2026-03-10"
+          elementos_extraidos: 23
+          novos: 23
+          by_layer: "L1:5 L2:5 L3:6 L4:5 L5:3"
+          source_doc: "/knowledge/external/sources/russell-brunson/31-DOTCOM-SECRETS-BOOK.md"
+
+        # LEAD FUNNELS BOOK (merged 2026-03-10)
+        - titulo: "Lead Funnels: 114 Unique Lead Funnels Swipe File"
+          path_raiz: "/knowledge/external/sources/russell-brunson/raw/lead-funnels-book/"
+          tipo: "livro-swipe-file"
+          data_processamento: "2026-03-10"
+          elementos_extraidos: 13
+          novos: 13
+          by_layer: "L1:3 L2:3 L3:4 L4:3 L5:2"
+          source_doc: "/knowledge/external/sources/russell-brunson/32-LEAD-FUNNELS-BOOK.md"
+
+        # LEAD FUNNELS TRAINING (merged 2026-03-10)
+        - titulo: "Lead Funnels Training - Vídeo Training + 106 Exemplos Comentados"
+          path_raiz: "/knowledge/external/sources/russell-brunson/raw/lead-funnels-training/"
+          tipo: "video-training"
+          data_processamento: "2026-03-10"
+          elementos_extraidos: 15
+          novos: 15
+          by_layer: "L1:3 L2:3 L3:4 L4:3 L5:2"
+          key_new_elements:
+            - "Lista = Único Ativo Vendável (M&A: eBay+Skype $2.3B, Facebook+Instagram)"
+            - "Leads como KPI #1 diário (1500-1700/dia ClickFunnels)"
+            - "Self-Liquidating Funnel Model (email sequence paga o CPL)"
+            - "55.63% opt-in rate com simplicidade+curiosidade (148K leads em 7-8 meses)"
+            - "$1-3/lead via ads → autofinancia via sequência"
+            - "3 Categorias de Lead Funnel (layout/nurture/push-to-sale)"
+            - "FOMO Lead Magnet (1000+ tickets FHL vendidos antes do evento terminar)"
+            - "9 Fastest Lead Magnet Methods (3x3: written/audio/video)"
+            - "Lead Funnel em 2-5 minutos: velocidade de teste supera perfeição"
+            - "Journey Documentation Funnel"
+          source_doc: "/knowledge/external/sources/russell-brunson/33-LEAD-FUNNELS-TRAINING.md"
+
+        # ONE FUNNEL AWAY CHALLENGE (merged 2026-03-10)
+        - titulo: "One Funnel Away Challenge - Pre-Training (5 days) + Weeks 1-2 + Stephen Larsen Coaching Calls"
+          path_raiz: "/knowledge/external/sources/russell-brunson/raw/one-funnel-away-challenge/"
+          tipo: "30-day-challenge"
+          data_processamento: "2026-03-10"
+          arquivos_processados: 15
+          arquivos_total: 64
+          elementos_extraidos: 38
+          novos: 38
+          enrichments: 0
+          by_layer: "L1:5 L2:5 L3:13 L4:6 L5:4"
+          rb_elementos: 29
+          stephen_larsen_elementos: 9
+          coverage: "Pre-Training Days 1-5 + Week 1 Days 1-3 + Week 2 Days 1-3 (Weeks 3-4 pending)"
+          key_new_elements:
+            - "Belief First Methodology (pre-training before tactics)"
+            - "OFA 4-Week Sequence (Offer→Story→Hook→Funnel, reversed)"
+            - "Offer Hacking Research Framework (10 competitors minimum)"
+            - "Who Not How Decision Framework (Dan Sullivan)"
+            - "Epiphany Bridge Story Framework (full 6-step)"
+            - "Two Introductions Script Structure (category + person)"
+            - "Problems Create Product Sequences (infinite game)"
+            - "Skin in the Game Commitment Device Philosophy"
+            - "Publishing as Safety Net (Stephen Larsen)"
+            - "Entrepreneurship = Sales + Problem Solving (SL)"
+            - "Teach to Retain Learning Multiplier (SL)"
+            - "Leader Moves First Authority Activation (SL)"
+          guest_speakers:
+            - "Stephen Larsen (coaching calls Days 1-3): 9 elements (HEUR-SL-OFA, MM-SL-OFA, MET-SL-OFA)"
+          source_docs:
+            - "/knowledge/external/sources/russell-brunson/23-ONE-FUNNEL-AWAY.md"
+          nota: "Weeks 3-4 (hook, funnel build, traffic) not processed — recommend follow-up extraction"
+
+        # 24HR EXPERT STORY SELLING (merged 2026-03-10, SS complete 2026-03-10)
+        - titulo: "24hr Expert Story Selling - FHL Mass Movement + Story Selling (Welcome + 7 Story-Selling files)"
+          path_raiz: "/knowledge/external/sources/russell-brunson/raw/19._24hr_Expert_Story_Selling/"
+          tipo: "fhl-presentation-bonus"
+          data_processamento: "2026-03-10"
+          arquivos_processados: 8
+          arquivos_vazios: 0
+          modulos:
+            - "1.-Welcome-Expert (1 file - FHL Mass Movement presentation)"
+            - "3.-Story-Selling (7 files - Story Selling Blueprint, Hero's Journey, Epiphany Bridge)"
+          elementos_extraidos_total: 87
+          rb_elementos_novos: 52
+          guest_elementos: 24
+          enrichments: 11
+          by_layer_total: "L1:17 L2:17 L3:23 L4:12 L5:7"
+          rb_only_by_layer: "L1:13 L2:12 L3:16 L4:8 L5:5"
+          key_new_elements:
+            - "Opportunity Switch vs Opportunity Stack (1 switch/ano, depois stack)"
+            - "Status Buying Framework (Perry Belcher) - toda compra = aumento/diminuição de status"
+            - "4 Razões pelas quais pessoas desejam new opportunities"
+            - "Market Hierarchy (3 core markets → submarkets → nicho criado)"
+            - "Dream Vehicle Model (cliente no veículo errado)"
+            - "Dan Kennedy - 2nd lowest price = no strategic advantage"
+            - "1% ambição vs 99% desejo (improvement vs opportunity)"
+            - "Epiphany Bridge Story - 3 core stories (Origin, Parable, Lost Chapter)"
+            - "Big Domino Statement creation method"
+            - "Story Blueprint: Character + Desire + Conflict + Epiphany + Transformation"
+            - "The Role of Conflict in Emotional Engagement"
+            - "Identity vs. Essence framework (Michael Hauge)"
+            - "Hero's Two Journeys model (External + Internal)"
+            - "Story-Selling Email Sequence (Daegan Smith - Soap Opera format)"
+          guest_speakers:
+            - "Michael Hauge (files 4-5): 15 elements (PHI-MH-SS, MM-MH-SS, HEUR-MH-SS, FW-MH-SS, MET-MH-SS)"
+            - "Daegan Smith (files 6-7): 9 elements (PHI-DS-SS, MM-DS-SS, HEUR-DS-SS, FW-DS-SS, MET-DS-SS)"
+          source_docs:
+            - "/knowledge/external/sources/russell-brunson/19-EXPERT-STORY-SELLING.md"
+            - "/knowledge/external/sources/russell-brunson/20-STORY-SELLING.md"
+          contexto: "Welcome: FHL ~90min sobre Seção 1 Expert Secrets - How to Build a Mass Movement; Story-Selling: 7 sessões com Russell + Michael Hauge + Daegan Smith sobre storytelling e venda via histórias"
+
+
+        # DCS LABS FUNNEL REPORTS (merged 2026-03-10)
+        - titulo: "DCS Labs Funnel Reports - Issues 1-8 (Order Form Bump, Invisible Funnel, Bridge Page, PW Funnel, Video Unlocker, Ultimate Stack, Funnel Catcher, Dream 100 Lost Chapter)"
+          path_raiz: "/knowledge/external/sources/russell-brunson/raw/17._Funnel_University_2016/4. Funnel Hacker - Split Testing/1. DCSLabs Funnel Reports/"
+          tipo: "newsletter-series"
+          data_processamento: "2026-03-10"
+          elementos_extraidos: 60
+          novos: 60
+          enrichments: 0
+          by_layer: "L1:7 L2:6 L3:20 L4:7 L5:5"
+          key_new_elements:
+            - "Dream 100 Lost Chapter (capítulo perdido do DotComSecrets)"
+            - "Order Form Bump - 35-38% take rate, price <$50, max 4 frases"
+            - "F+S vs straight sale - 3x mais buyers"
+            - "Invisible Funnel - 85% show up, 90% billing (550 signups -> $54k)"
+            - "Bridge Page Framework - cold traffic conversion via awareness levels"
+            - "Video Unlocker - stick rate +23.88% (37.81% -> 46.84%)"
+            - "Removing pricing table - +41.91% webinar registrations"
+            - "Dream 100 hack - 49th call = chain reaction (Tellman Knudson $800k)"
+            - "Ultimate Funnel Stack - Perfect Webinar + Product Launch combined"
+            - "Gene Schwartz 5 levels of awareness (Unaware -> Most Aware)"
+          source_doc: "/knowledge/external/sources/russell-brunson/24-DCS-LABS-FUNNEL-REPORTS.md"
+          era: "~2015 (DotComSecrets Labs Issues 1-8)"
+
+        # FUNNEL HACKER TV (merged 2026-03-10)
+        - titulo: "Funnel Hacker TV - 9 Episodes (9 Funnels Slides + 8 Podcast Episodes)"
+          path_raiz: "/knowledge/external/sources/russell-brunson/raw/17._Funnel_University_2016/4. Funnel Hacker - Split Testing/3. Funnel Hacker TV/"
+          tipo: "video-series-podcast"
+          data_processamento: "2026-03-10"
+          arquivos_processados: 9
+          elementos_extraidos: 100
+          novos: 100
+          enrichments: 0
+          by_layer: "L1:18 L2:16 L3:24 L4:22 L5:20"
+          key_new_elements:
+            - "Funnel Hacker Code of Ethics (Model Don't Steal)"
+            - "ACV formula (receita total ÷ compradores front-end)"
+            - "Break-even front-end = vantagem competitiva infinita"
+            - "Offer Sequencing Logic (Itch Scratch Model detalhado)"
+            - "Two-step order form (60% fill rate Step 1)"
+            - "Order Form Bump mechanics (30-38% conversão)"
+            - "Trey Model: free gun oil → $400k/month continuity"
+            - "Psicologia dos botões: Receiver vs. Buyer language"
+            - "MouseFlow + live call monitoring metodologia"
+            - "Negative qualifier em No Thanks links"
+            - "Homework Page Architecture (pre-sell de coaching)"
+            - "Instant Opt-in para webinars (bypass de registro)"
+            - "Webinar Indoctrinação 3-vídeo sequence"
+            - "Downsell com curiosity close (+10-12% conversão)"
+            - "Offer Wall na thank you page"
+            - "Walmart Prototype Method (test before manufacture)"
+            - "Coaching application: rejeitar 95% amplifica desejo"
+            - "Webinar pattern interrupt como primeiro elemento"
+          guest_speakers:
+            - "Trey Lewellen (Episode 02): $400k/month blueprint, gun oil continuity model"
+          source_doc: "/knowledge/external/sources/russell-brunson/27-FUNNEL-HACKER-TV.md"
+          episodios:
+            - "9-Funnels-Slides (12KB) - 9 funnel types + scripts outline"
+            - "DotCom Secrets Ignite Webinar (270KB) - Secret Formula, Value Ladder, Traffic, AC, 7 Phases"
+            - "Funnel Hacks Webinar (60KB) - Funnel hacking 5-step process"
+            - "Episode 01: DCS Book Funnel (37KB) - book funnel anatomy + ACV + offer sequencing"
+            - "Episode 02: Trey Lewellen $400k (48KB) - physical product + continuity + order form"
+            - "Funnelology 101 (28KB) - supplement funnel + VSL vs letter"
+            - "Info Product Funnel (12KB) - info funnel structure + upsell psychology"
+            - "High Ticket Funnel (16KB) - coaching application funnel"
+            - "Webinar Funnel (10KB) - webinar funnel + indoctrinação"
+
+        # DCS LABS SPLIT TESTING (merged 2026-03-10)
+        - titulo: "Funnel University 2016 - DCS Labs Split Testing (5 files: 108 Split Test Winners + 4 Issues)"
+          path_raiz: "/knowledge/external/sources/russell-brunson/raw/17._Funnel_University_2016/4. Funnel Hacker - Split Testing/2. DCSLabs Split Test Reports/"
+          tipo: "newsletter-series"
+          data_processamento: "2026-03-10"
+          elementos_extraidos: 42
+          novos: 42
+          enrichments: 0
+          by_layer: "L1:5 L2:6 L3:26 L4:7 L5:4"
+          key_new_elements:
+            - "The Stack (Armand Morin) - 0M framework de fechamento"
+            - "Trial Closes = +74.61% DPL comprovado"
+            - "Formulario imediato = +91.65% receita"
+            - "Micro-commitment squeeze page = +95% optins"
+            - "Headline vermelha = +313% vendas"
+            - "Inbound leads valem 3x mais que outbound (50 vs 50 DPL)"
+            - "Toilet Letter - inbound call gen methodology"
+            - "Three-Category Business Growth Framework (Traffic/Conversion/Backend)"
+            - "Whole Funnel Diagnosis Framework"
+            - "Feature Box vs. PS classico (+63%)"
+          source_doc: "/knowledge/external/sources/russell-brunson/21-DCS-LABS-SPLIT-TESTING.md"
+          era: "~2013 (DotComSecrets Labs newsletters)"
+
+        # FUNNEL HACKS SYSTEM (merged 2026-03-08)
+        - titulo: "Funnel Hacks System - Complete (5 modules, 65 transcriptions)"
+          path_raiz: "/knowledge/external/sources/russell-brunson/raw/16._Funnel_Hacks_System/"
+          tipo: "programa-completo"
+          data_processamento: "2026-03-08"
+          elementos_extraidos: 212
+          novos: 234
+          enrichments: 47
+          by_layer: "L1:39 L2:38 L3:75 L4:43 L5:28"
+          key_new_elements:
+            - "Attractive Character 4 Elements + 4 Identities + 6 Storylines"
+            - "8 Complete Sales Scripts (Who-What-Why-How, Star-Story-Solution, OTO Bump, Product Launch, Perfect Webinar, Magic Bullet, Invisible Funnel, Two-Step High Ticket)"
+            - "Inception Selling Philosophy + Belief Pattern Destruction"
+            - "Supplement/Physical Product Funnels (Neurocell case study)"
+            - "Coaching Application Funnel (3-page with homework pre-sell)"
+            - "Micro Continuity Model"
+            - "John Alanis 2x/day email system"
+            - "Underachiever Secrets (market validation, Sam Brennan)"
+          subprogramas:
+            - "Attractive Character Secrets (11 files) - COMPLETE"
+            - "Bonus Webinar / 9 Funnels (2 files) - COMPLETE"
+            - "Funnel Hacks Master Class (21 files) - COMPLETE"
+            - "Inception Secrets (30 files) - COMPLETE"
+            - "Supplement Secrets (1 file) - COMPLETE"
+
+# ═══════════════════════════════════════════════════════════════════════════════
+# ESTATISTICAS DO DNA
+# ═══════════════════════════════════════════════════════════════════════════════
+
+dna_statistics:
+  # VIDEO (Secrets Masterclass - original)
+  video_unique_elements: 271
+  video_raw_elements: 804
+  # PDF MERGE (2026-03-01 - 5 livros)
+  pdf_raw_extracted: 358
+  pdf_cross_book_dedup_removed: 118
+  pdf_dna_dedup_removed: 89
+  pdf_enrichments_applied: 72
+  pdf_new_elements: 79
+  # PERFECT WEBINAR SECRETS MERGE (2026-03-03)
+  pws_transcriptions: 5
+  pws_pdfs: 5
+  pws_elements_extracted: 60
+  pws_new_elements: 37
+  pws_enrichments: 23
+  # HIGH TICKET SECRETS MERGE (2026-03-03)
+  hts_transcriptions: 10
+  hts_pdfs: 11
+  hts_elements_estimated: 60
+  hts_new_elements_estimated: 60
+  hts_dominios_novos: 6
+  # 7 FIGURE SHORTCUT MERGE (2026-03-04)
+  7fs_transcriptions: 50
+  7fs_batches: 4
+  7fs_raw_extracted: 304
+  7fs_cross_batch_dedup: ~30
+  7fs_new_elements: ~180
+  7fs_enrichments: ~35
+  7fs_speakers: 8
+  7fs_third_party_elements: ~60
+  # DOTCOM SECRETS IGNITE (2026-03-05)
+  dcs_ignite_transcriptions: 13
+  dcs_ignite_new_elements: 10
+  dcs_ignite_l1: 2
+  dcs_ignite_l3: 4
+  dcs_ignite_l4: 3
+  dcs_ignite_l5: 1
+  # FUNNEL HACKING LIVE - TRAFFIC SECRETS (2026-03-05)
+  fhl_transcriptions: 1
+  fhl_newsletters: 1
+  fhl_new_elements: 3
+  fhl_enrichments: 5
+  fhl_l1: 1
+  fhl_l2: 1
+  fhl_l3: 3
+  fhl_l4: 2
+  fhl_l5: 0
+  # FUNNELOLOGY MASTERCLASS (2026-03-05)
+  funnelology_transcriptions: 4
+  funnelology_raw_extracted: ~150
+  funnelology_new_elements: ~60
+  funnelology_enrichments: ~40
+  funnelology_dominios_novos: 5
+  # FUNNEL IMMERSION (initial scan 2026-03-05)
+  fi_transcriptions: 82
+  fi_initial_batches: 3
+  fi_initial_raw_extracted: 104
+  fi_initial_new: ~60
+  fi_initial_enrichments: ~44
+  # FUNNEL IMMERSION DEEP-DIVE (v8.0.0 - 3 parallel agents, 2026-03-05)
+  fi_deep_dive_agents: 3
+  fi_deep_dive_files_read: 45
+  fi_deep_dive_files_total: 74
+  fi_deep_dive_remaining: 0
+  # INVISIBLE FUNNEL - Scripts + Workshop + Black Box (2026-03-07)
+  if_scripts_new_elements: 37
+  if_workshop_new_elements: 45
+  if_blackbox_new_elements: 40
+  if_total_new: 122
+  # TOTALS
+  total_unique_elements: 482
+  fi_deep_dive_new_elements: 168
+  fi_deep_dive_enrichments: 53
+  fi_deep_dive_total_events: 221
+  fi_deep_dive_by_layer:
+    L1: 27
+    L2: 31
+    L3: 52
+    L4: 36
+    L5: 27
+  # TOTAL COMBINADO (updated 2026-03-07 post-IF-complete)
+  # FUNNEL HACKERS COOKBOOK (merged 2026-03-08)
+  fhc_files: 4
+  fhc_new_elements: 38
+  fhc_enrichments: 22
+  fhc_by_layer: "L1:5 L2:7 L3:11 L4:10 L5:5"
+  # FAST PRODUCT DEVELOPMENT (merged 2026-03-08)
+  fpd_transcriptions: 4
+  fpd_raw_extracted: 154
+  fpd_new_elements: 97
+  fpd_enrichments: 27
+  fpd_by_layer: "L1:14 L2:12 L3:28 L4:28 L5:15"
+  # FUNNEL HACKS SYSTEM (merged 2026-03-08)
+  fhs_transcriptions: 65
+  fhs_raw_extracted: 212
+  fhs_new_elements: 234
+  fhs_enrichments: 47
+  fhs_by_layer: "L1:39 L2:38 L3:75 L4:43 L5:28"
+  fhs_modules: 5
+  fhs_merged: 1
+  # DCS LABS SPLIT TESTING (merged 2026-03-10)
+  dcs_labs_files: 5
+  dcs_labs_new_elements: 42
+  dcs_labs_enrichments: 0
+  dcs_labs_by_layer: "L1:5 L2:6 L3:26 L4:7 L5:4"
+  # TOTALS (updated 2026-03-10 post-DCS-Labs)
+  # 24HR EXPERT STORY SELLING - WELCOME (merged 2026-03-10)
+  ess_welcome_files_processed: 1
+  ess_welcome_new_elements: 24
+  ess_welcome_enrichments: 11
+  ess_welcome_by_layer: "L1:6 L2:5 L3:7 L4:4 L5:2"
+  # 24HR EXPERT STORY SELLING - STORY SELLING 7 FILES (merged 2026-03-10)
+  ess_ss_files_processed: 7
+  ess_ss_rb_new_elements: 28
+  ess_ss_guest_elements: 24
+  ess_ss_total_elements: 52
+  ess_ss_by_layer: "L1:11 L2:12 L3:16 L4:8 L5:5"
+  ess_ss_rb_only: "L1:7 L2:7 L3:8 L4:4 L5:2"
+  ess_ss_speakers: "Russell Brunson (28), Michael Hauge (15), Daegan Smith (9)"
+  # ONE FUNNEL AWAY CHALLENGE (merged 2026-03-10)
+  ofa_files_processed: 15
+  ofa_files_total: 64
+  ofa_new_elements: 38
+  ofa_rb_elements: 29
+  ofa_sl_elements: 9
+  ofa_by_layer: "L1:5 L2:5 L3:13 L4:6 L5:4"
+  ofa_coverage: "Pre-Training + Weeks 1-2 (Weeks 3-4 pending)"
+  # FUNNEL UNIVERSITY - SALES SCRIPTS (merged 2026-03-10)
+  fu_scripts_files: 6
+  fu_scripts_new_elements: 29
+  fu_scripts_by_layer: "L1:5 L2:6 L3:9 L4:6 L5:3"
+  fu_scripts_note: "PW + SSS + OTO + WWWH + Seinfeld + PW Funnel; unique benchmarks/tactics vs existing DNA"
+  fu_monthly_new_elements: 24
+  fu_monthly_by_layer: "L1:4 L2:5 L3:6 L4:5 L5:4"
+  fu_monthly_note: "FU Welcome + Issues 1-3 (2016): Self-Liquidating, Invisible Funnel, Repel-to-Attract, DM Continuity, Political Bridge"
+  fu_scripts_expanded: 3
+  fu_scripts_expansion_note: "32 extracted vs 29 previously (net +3 new: Webinar Launch Sequence, Pattern Interrupt, Stack details)"
+  # TOTALS (updated 2026-03-10 post-FU-monthly-and-sales-scripts)
+  # FUNNEL HACKER TV (merged 2026-03-10)
+  fhtv_files_processed: 9
+  fhtv_new_elements: 100
+  fhtv_enrichments: 0
+  fhtv_by_layer: "L1:18 L2:16 L3:24 L4:22 L5:20"
+  fhtv_total_bytes: ~493000
+  fhtv_guest_speakers: 1
+  # OFA WEEK 1 COMPLETION (merged 2026-03-10)
+  ofa_w1_completion_files: 5
+  ofa_w1_completion_new_elements: 20
+  ofa_w1_completion_by_layer: "L1:4 L2:4 L3:5 L4:3 L5:4"
+  ofa_w1_completion_speakers: "Russell Brunson, Stephen Larsen, Julie Stoian"
+  ofa_w1_completion_note: "Week 1 Days 4-5: Physical/Digital Hybrid, eCovers, Content Repurposing, Freelancer Competition"
+  ofa_coverage_final: "Pre-Training + Weeks 1-2 complete. Weeks 3-4 RAW NOT AVAILABLE."
+  # TOTALS (updated 2026-03-10 post-OFA-w1-completion)
+  # FHL INTERNATIONAL (merged 2026-03-10)
+  fhl_international_files: 5
+  fhl_international_new_elements: 19
+  fhl_international_by_layer: "L1:4 L2:4 L3:6 L4:4 L5:3"
+  # DOTCOM SECRETS BOOK (merged 2026-03-10)
+  dcs_book_new_elements: 23
+  dcs_book_by_layer: "L1:5 L2:5 L3:6 L4:5 L5:3"
+  # LEAD FUNNELS BOOK (merged 2026-03-10)
+  lf_book_new_elements: 13
+  lf_book_by_layer: "L1:3 L2:3 L3:4 L4:3 L5:2"
+  # LEAD FUNNELS TRAINING (merged 2026-03-10)
+  lf_training_new_elements: 15
+  lf_training_by_layer: "L1:3 L2:3 L3:4 L4:3 L5:2"
+  lf_training_files: 2
+  # TOTALS (updated 2026-03-10 post-v27 — +15 elements Lead Funnels Training)
+  total_unique_elements: 1327
+  by_layer:
+    L1_PHILOSOPHIES: 260
+    L2_MENTAL_MODELS: 242
+    L3_HEURISTICS: 402
+    L4_FRAMEWORKS: 267
+    L5_METHODOLOGIES: 170
+  modules_processed: 27
+  total_transcriptions: 374
+  pdf_books_merged: 5
+  pws_programs_merged: 1
+  hts_programs_merged: 1
+  dcs_ignite_merged: 1
+  funnelology_merged: 1
+  funnel_immersion_merged: 1
+  ofa_merged: 1
+  source_program: "Two Comma Club Coaching - Secrets Masterclass ($4,997) + 5 PDF Books + Perfect Webinar Secrets + High Ticket Secrets + 7 Figure Shortcut + DotCom Secrets Ignite + Funnelology Masterclass + Funnel Immersion + Instant Traffic Hacks + Webinar Blueprint + Funnel Hackers CookBook + Fast Product Development + Funnel Hacks System + One Funnel Away Challenge (complete) + Funnel Hacker TV (9 Episodes) + DCS Labs Funnel Reports + Funnel University 2016 + Sales Scripts FU + Micro Continuity Course"
+  ith_merged: 1
+  wb_merged: 1
+  fhc_merged: 1
+  fpd_merged: 1
+
+# ═══════════════════════════════════════════════════════════════════════════════
+# MAPA DE CONFLITOS (N/A para agente SOLO)
+# ═══════════════════════════════════════════════════════════════════════════════
+
+conflitos:
+  path: null
+  descricao: "Agente SOLO - fonte unica - sem conflitos entre fontes"
+
+# ═══════════════════════════════════════════════════════════════════════════════
+# REGRAS DE RESOLUCAO DE CONFLITOS (N/A para agente SOLO)
+# ═══════════════════════════════════════════════════════════════════════════════
+
+resolucao_de_conflitos:
+  regra_geral: |
+    Agente SOLO: fonte unica (Russell Brunson), peso 1.0.
+    Sem conflitos entre fontes.
+    Toda afirmacao deve ser rastreavel ao DNA.yaml ou inbox.
+
+  preferencias_contextuais: []
+
+# ═══════════════════════════════════════════════════════════════════════════════
+# PROTOCOLO DE RACIOCINIO
+# ═══════════════════════════════════════════════════════════════════════════════
+
+raciocinio:
+  path: "/system/protocols/dna/REASONING-MODEL-PROTOCOL.md"
+  descricao: "Como o agente deve raciocinar com o DNA"
+
+# ═══════════════════════════════════════════════════════════════════════════════
+# REGRAS ESPECIFICAS DO AGENTE
+# ═══════════════════════════════════════════════════════════════════════════════
+
+regras_especificas:
+  foco: "Funnels, Direct Response Marketing, Expert Business Building, Webinar Selling, Mass Movements, Storytelling"
+
+  heuristicas_prioritarias:
+    - heuristica: "For every $1 made in front-end funnels, follow-up funnels generate over $16"
+      fonte: "^[HEUR-RB-001]"
+      path_raiz: "/knowledge/external/sources/russell-brunson/raw/000._Secrets_Masterclass_($4997)/03._Module_3-Communication_and_Follow-Up_Funnels/"
+
+    - heuristica: "Pick ONE funnel type and master it until $1M; then diversify"
+      fonte: "^[HEUR-RB-006]"
+      path_raiz: "/knowledge/external/sources/russell-brunson/raw/000._Secrets_Masterclass_($4997)/00._Welcome/"
+
+    - heuristica: "Webinar close rate benchmark: 10-15% live, 50% from stage"
+      fonte: "^[HEUR-RB-029]"
+      path_raiz: "/knowledge/external/sources/russell-brunson/raw/000._Secrets_Masterclass_($4997)/02._Module_2-Ladders_and_Funnels/"
+
+    - heuristica: "Total stated value of Stack must be at least 10x the actual price"
+      fonte: "^[HEUR-RB-069]"
+      path_raiz: "/knowledge/external/sources/russell-brunson/raw/000._Secrets_Masterclass_($4997)/06._Module_6-Your_Moral_Obligation/"
+
+    - heuristica: "One belief per sales message. Multiple beliefs = bombs"
+      fonte: "^[HEUR-RB-057]"
+      path_raiz: "/knowledge/external/sources/russell-brunson/raw/000._Secrets_Masterclass_($4997)/05._Module_5-Creating_Belief/"
+
+  restricoes:
+    - restricao: "NUNCA inventar frameworks ou heuristicas que nao existam no DNA.yaml"
+      fonte: "^[AGENT-INTEGRITY-PROTOCOL]"
+      path_raiz: "/.claude/rules/agent-integrity.md"
+
+    - restricao: "NUNCA competir em preco - sempre posicionar como nova oportunidade"
+      fonte: "^[PHI-RB-003]"
+      path_raiz: "/knowledge/external/sources/russell-brunson/raw/000._Secrets_Masterclass_($4997)/01._Module_1-Creating_Your_Mass_Movement/"
+
+    - restricao: "NUNCA ensinar no modo 'professor' durante vendas - sempre usar historias"
+      fonte: "^[PHI-RB-018]"
+      path_raiz: "/knowledge/external/sources/russell-brunson/raw/000._Secrets_Masterclass_($4997)/05._Module_5-Creating_Belief/"
+
+# ═══════════════════════════════════════════════════════════════════════════════
+# VALIDACAO DE RASTREABILIDADE
+# ═══════════════════════════════════════════════════════════════════════════════
+#
+# CHECKLIST antes de publicar:
+# [x] Fonte primaria tem raiz com path para inbox
+# [x] Todos os 9 modulos listados como materiais_fonte
+# [x] Heuristicas prioritarias tem fonte e path_raiz
+# [x] Restricoes tem fonte e path_raiz
+# [x] Estatisticas conferem com DNA.yaml (~660 elementos unicos apos merge DCS-Ignite)
+#
+# ═══════════════════════════════════════════════════════════════════════════════
+
+# Fim do DNA-CONFIG.yaml v5.0.0 - Russell Brunson (SOLO Agent)
+# Integrado com AGENT-COGNITION-PROTOCOL (FASE 1.5) e AGENT-INTEGRITY-PROTOCOL

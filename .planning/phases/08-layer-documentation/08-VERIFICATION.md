@@ -4,8 +4,8 @@ verified: 2026-02-27T00:00:00Z
 status: passed
 score: 3/3 must-haves verified
 human_verification:
-  - test: "Read LAYERS.md and classify a file you have never seen before (e.g., a new file under agents/cargo/ vs agents/conclave/)"
-    expected: "Reader correctly assigns L2 to agents/cargo/ populated content and L1 to agents/conclave/ — distinguishing populated vs template/core"
+  - test: "Read LAYERS.md and classify a file you have never seen before (e.g., a new file under agents/cargo/ vs agents/system/conclave/)"
+    expected: "Reader correctly assigns L2 to agents/cargo/ populated content and L1 to agents/system/conclave/ — distinguishing populated vs template/core"
     why_human: "The distinction between populated L2 and empty-structure L1 within the same agent directory requires judgment that only a human unfamiliar with the codebase can validate"
   - test: "Open any of the three .gitignore templates and use it as an actual .gitignore for a test repo"
     expected: "npm pack with L1 template excludes inbox/, logs/, .env, knowledge/ populated content while keeping core/, bin/, .claude/"
@@ -92,7 +92,7 @@ No TODOs, FIXMEs, placeholders, or empty implementations detected in any of the 
 
 **Test:** Have someone unfamiliar with the project read only `docs/LAYERS.md` and classify these files:
 - `agents/cargo/CLOSER/AGENT.md` (populated agent — L2)
-- `agents/conclave/PROTOCOL.md` (conclave template — L1)
+- `agents/system/conclave/PROTOCOL.md` (conclave template — L1)
 - `agents/minds/.gitkeep` (empty marker — L1)
 
 **Expected:** Reader correctly identifies the conclave/gitkeep distinction from the "Key rule" paragraphs in the Layer Definitions sections.

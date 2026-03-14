@@ -150,8 +150,8 @@ JARVIS: Extração de DNA iniciada.
   Camada L4 - Frameworks .......... OK (2 metodologias)
   Camada L5 - Metodologias ........ OK (1 processo completo)
 
-  DNA salvo em: knowledge/dna/alex-hormozi-dna.md
-  Agente criado: agents/persons/alex-hormozi.md
+  DNA salvo em: knowledge/external/dna/alex-hormozi-dna.md
+  Agente criado: agents/external/alex-hormozi.md
 
   Agora você pode consultar:
     /ask alex-hormozi "Como precificar minha oferta high-ticket?"

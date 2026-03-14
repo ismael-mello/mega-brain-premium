@@ -36,9 +36,14 @@ ROOT: Path = WORKSPACE  # alias used by some scripts
 # ---------------------------------------------------------------------------
 # Knowledge paths
 # ---------------------------------------------------------------------------
-KNOWLEDGE_EXTERNAL: Path = WORKSPACE / "knowledge"
+KNOWLEDGE_ROOT: Path = WORKSPACE / "knowledge"
+KNOWLEDGE_EXTERNAL: Path = WORKSPACE / "knowledge" / "external"
 KNOWLEDGE_PERSONAL: Path = WORKSPACE / "knowledge" / "personal"
-KNOWLEDGE_BUSINESS: Path = KNOWLEDGE_EXTERNAL / "business"
+KNOWLEDGE_BUSINESS: Path = KNOWLEDGE_ROOT / "business"
+
+# DNA + Sources (new locations after Fase 2 migration)
+KNOWLEDGE_DNA: Path = KNOWLEDGE_EXTERNAL / "dna"
+KNOWLEDGE_SOURCES: Path = KNOWLEDGE_EXTERNAL / "sources"
 
 # ---------------------------------------------------------------------------
 # Personal sub-paths (bucket_processor)
@@ -62,8 +67,10 @@ WORKSPACE_TOOLS: Path = WORKSPACE / "workspace" / "tools"
 # Agents
 # ---------------------------------------------------------------------------
 AGENTS: Path = WORKSPACE / "agents"
-AGENTS_EXTERNAL: Path = WORKSPACE / "agents"
+AGENTS_EXTERNAL: Path = WORKSPACE / "agents" / "external"
 AGENTS_CARGO: Path = WORKSPACE / "agents" / "cargo"
+AGENTS_SYSTEM: Path = WORKSPACE / "agents" / "system"
+AGENTS_CONCLAVE: Path = AGENTS_SYSTEM / "conclave"
 AGENTS_BUSINESS: Path = WORKSPACE / "agents" / "business"
 
 # ---------------------------------------------------------------------------

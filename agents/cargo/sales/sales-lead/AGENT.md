@@ -153,7 +153,7 @@
 │  │  COLE GORDON (90%)                                                         ││
 │  │  ════════════════════════════════════════════════════════════════          ││
 │  │  Peso: 0.90 │ Confiança: ALTA                                              ││
-│  │  Path: /knowledge/dna/persons/cole-gordon                               ││
+│  │  Path: /knowledge/external/dna/persons/cole-gordon                               ││
 │  │                                                                            ││
 │  │  Domínios Absorvidos:                                                      ││
 │  │  ├── Player-Coach Model                                                    ││
@@ -173,7 +173,7 @@
 │  │  ALEX HORMOZI (65%)                                                        ││
 │  │  ════════════════════════════════════════════════════════════════          ││
 │  │  Peso: 0.65 │ Confiança: MÉDIA                                             ││
-│  │  Path: /knowledge/dna/persons/alex-hormozi                              ││
+│  │  Path: /knowledge/external/dna/persons/alex-hormozi                              ││
 │  │                                                                            ││
 │  │  Domínios Absorvidos:                                                      ││
 │  │  ├── Benchmark Thinking                                                    ││

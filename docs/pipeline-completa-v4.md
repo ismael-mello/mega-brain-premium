@@ -621,7 +621,7 @@ sao combinados e o sistema grava fisicamente nos destinos.
  ║  │  │   over $100M in sales..." — Alex Hormozi             │           │  ║
  ║  │  └──────────────────────────────────────────────────────┘           │  ║
  ║  │                                                                     │  ║
- ║  │  Registra em: knowledge/dna/_dna-skills-registry.yaml               │  ║
+ ║  │  Registra em: knowledge/external/dna/_dna-skills-registry.yaml               │  ║
  ║  │  530 skills geradas atualmente                                      │  ║
  ║  │                                                                     │  ║
  ║  └─────────────────────────────────────────────────────────────────────┘  ║

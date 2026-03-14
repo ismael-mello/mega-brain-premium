@@ -9,7 +9,7 @@
 ## DESCOBERTA CRITICA (atualizado sessao 2)
 
 ### DNA.yaml atual: 360 elementos (NAO 956)
-O DNA.yaml em `knowledge/dna/persons/russell-brunson/DNA.yaml` esta na versao original:
+O DNA.yaml em `knowledge/external/dna/persons/russell-brunson/DNA.yaml` esta na versao original:
 - L1: 76 items (ultima: PHI-RB-076)
 - L2: 67 items (ultima: MM-RB-067)
 - L3: 111 items (ultima: HEUR-RB-111)
@@ -52,7 +52,7 @@ PHI-RB-085: "People Don't Care About Your Product - They Care About Their Proble
 PHI-RB-086: "Scripts Work Even When You Don't Understand Why" - Psychology embedded in words
 ```
 Source: transcription_Set_Script.txt, transcription_Close_Script.txt, transcription_Compliance_Script.txt, transcription_How_to_Build_a_Call_Center.txt
-Path: knowledge/sources/russell-brunson/raw/08._Funnel_Immersion/Invisible Funnel/
+Path: knowledge/external/sources/russell-brunson/raw/08._Funnel_Immersion/Invisible Funnel/
 
 ### L2 MENTAL MODELS (MM-RB-068 a MM-RB-073)
 ```
@@ -104,21 +104,21 @@ MET-RB-041: Assumptive Card Collection (10-step, never ask "do you want to buy")
 ### Agent-B: IF Workshop (15 sessions) -> IDs: PHI-RB-087 a 098, MM-RB-074 a 082, HEUR-RB-122 a 131, FW-RB-077 a 084, MET-RB-042 a 047
 Arquivos (15):
 ```
-knowledge/sources/russell-brunson/raw/08._Funnel_Immersion/Invisible Funnel/Invisible Funnel Workshop/transcription_Session_1.txt
-knowledge/sources/russell-brunson/raw/08._Funnel_Immersion/Invisible Funnel/Invisible Funnel Workshop/transcription_Session_2.txt
-knowledge/sources/russell-brunson/raw/08._Funnel_Immersion/Invisible Funnel/Invisible Funnel Workshop/transcription_Session_3.txt
-knowledge/sources/russell-brunson/raw/08._Funnel_Immersion/Invisible Funnel/Invisible Funnel Workshop/transcription_Session_4.txt
-knowledge/sources/russell-brunson/raw/08._Funnel_Immersion/Invisible Funnel/Invisible Funnel Workshop/transcription_Session_5.txt
-knowledge/sources/russell-brunson/raw/08._Funnel_Immersion/Invisible Funnel/Invisible Funnel Workshop/transcription_Session_6.txt
-knowledge/sources/russell-brunson/raw/08._Funnel_Immersion/Invisible Funnel/Invisible Funnel Workshop/transcription_Session_7.txt
-knowledge/sources/russell-brunson/raw/08._Funnel_Immersion/Invisible Funnel/Invisible Funnel Workshop/transcription_Session_8.txt
-knowledge/sources/russell-brunson/raw/08._Funnel_Immersion/Invisible Funnel/Invisible Funnel Workshop/transcription_Session_9.txt
-knowledge/sources/russell-brunson/raw/08._Funnel_Immersion/Invisible Funnel/Invisible Funnel Workshop/transcription_Session_10.txt
-knowledge/sources/russell-brunson/raw/08._Funnel_Immersion/Invisible Funnel/Invisible Funnel Workshop/transcription_Session_11.txt
-knowledge/sources/russell-brunson/raw/08._Funnel_Immersion/Invisible Funnel/Invisible Funnel Workshop/transcription_Session_12.txt
-knowledge/sources/russell-brunson/raw/08._Funnel_Immersion/Invisible Funnel/Invisible Funnel Workshop/transcription_Session_13.txt
-knowledge/sources/russell-brunson/raw/08._Funnel_Immersion/Invisible Funnel/Invisible Funnel Workshop/transcription_Session_14.txt
-knowledge/sources/russell-brunson/raw/08._Funnel_Immersion/Invisible Funnel/Invisible Funnel Workshop/transcription_Session_15.txt
+knowledge/external/sources/russell-brunson/raw/08._Funnel_Immersion/Invisible Funnel/Invisible Funnel Workshop/transcription_Session_1.txt
+knowledge/external/sources/russell-brunson/raw/08._Funnel_Immersion/Invisible Funnel/Invisible Funnel Workshop/transcription_Session_2.txt
+knowledge/external/sources/russell-brunson/raw/08._Funnel_Immersion/Invisible Funnel/Invisible Funnel Workshop/transcription_Session_3.txt
+knowledge/external/sources/russell-brunson/raw/08._Funnel_Immersion/Invisible Funnel/Invisible Funnel Workshop/transcription_Session_4.txt
+knowledge/external/sources/russell-brunson/raw/08._Funnel_Immersion/Invisible Funnel/Invisible Funnel Workshop/transcription_Session_5.txt
+knowledge/external/sources/russell-brunson/raw/08._Funnel_Immersion/Invisible Funnel/Invisible Funnel Workshop/transcription_Session_6.txt
+knowledge/external/sources/russell-brunson/raw/08._Funnel_Immersion/Invisible Funnel/Invisible Funnel Workshop/transcription_Session_7.txt
+knowledge/external/sources/russell-brunson/raw/08._Funnel_Immersion/Invisible Funnel/Invisible Funnel Workshop/transcription_Session_8.txt
+knowledge/external/sources/russell-brunson/raw/08._Funnel_Immersion/Invisible Funnel/Invisible Funnel Workshop/transcription_Session_9.txt
+knowledge/external/sources/russell-brunson/raw/08._Funnel_Immersion/Invisible Funnel/Invisible Funnel Workshop/transcription_Session_10.txt
+knowledge/external/sources/russell-brunson/raw/08._Funnel_Immersion/Invisible Funnel/Invisible Funnel Workshop/transcription_Session_11.txt
+knowledge/external/sources/russell-brunson/raw/08._Funnel_Immersion/Invisible Funnel/Invisible Funnel Workshop/transcription_Session_12.txt
+knowledge/external/sources/russell-brunson/raw/08._Funnel_Immersion/Invisible Funnel/Invisible Funnel Workshop/transcription_Session_13.txt
+knowledge/external/sources/russell-brunson/raw/08._Funnel_Immersion/Invisible Funnel/Invisible Funnel Workshop/transcription_Session_14.txt
+knowledge/external/sources/russell-brunson/raw/08._Funnel_Immersion/Invisible Funnel/Invisible Funnel Workshop/transcription_Session_15.txt
 ```
 Speakers: Russell, Dagan Smith, Michael Hauge, TJ Rohleder, John Alanis, Jimmy Davis
 Key highlights: Story Selling Architecture (Dagan), Heroes Two Journeys (Michael Hauge),
@@ -128,17 +128,17 @@ Forced Consumption Philosophy
 ### Agent-A: Black Box Funnel (11 files) -> IDs: PHI-RB-099 a 107, MM-RB-083 a 088, HEUR-RB-132 a 140, FW-RB-085 a 093, MET-RB-048 a 054
 Arquivos (11):
 ```
-knowledge/sources/russell-brunson/raw/08._Funnel_Immersion/Invisible Funnel/Black Box/transcription_1_Blackbox_Introduction.txt
-knowledge/sources/russell-brunson/raw/08._Funnel_Immersion/Invisible Funnel/Black Box/transcription_2_Blackbox_Overview.txt
-knowledge/sources/russell-brunson/raw/08._Funnel_Immersion/Invisible Funnel/Black Box/transcription_Blackbox_Quickstart.txt
-knowledge/sources/russell-brunson/raw/08._Funnel_Immersion/Invisible Funnel/Black Box/transcription_Module_1.txt
-knowledge/sources/russell-brunson/raw/08._Funnel_Immersion/Invisible Funnel/Black Box/transcription_Module_2A.txt
-knowledge/sources/russell-brunson/raw/08._Funnel_Immersion/Invisible Funnel/Black Box/transcription_Module_2B.txt
-knowledge/sources/russell-brunson/raw/08._Funnel_Immersion/Invisible Funnel/Black Box/transcription_Module_3A.txt
-knowledge/sources/russell-brunson/raw/08._Funnel_Immersion/Invisible Funnel/Black Box/transcription_Module_3B.txt
-knowledge/sources/russell-brunson/raw/08._Funnel_Immersion/Invisible Funnel/Black Box/transcription_Module_5.txt
-knowledge/sources/russell-brunson/raw/08._Funnel_Immersion/Invisible Funnel/Black Box/transcription_Not_Getting_Answers_to_Your_Survey.txt
-knowledge/sources/russell-brunson/raw/08._Funnel_Immersion/Invisible Funnel/Black Box/Blackbox Quickstart.txt
+knowledge/external/sources/russell-brunson/raw/08._Funnel_Immersion/Invisible Funnel/Black Box/transcription_1_Blackbox_Introduction.txt
+knowledge/external/sources/russell-brunson/raw/08._Funnel_Immersion/Invisible Funnel/Black Box/transcription_2_Blackbox_Overview.txt
+knowledge/external/sources/russell-brunson/raw/08._Funnel_Immersion/Invisible Funnel/Black Box/transcription_Blackbox_Quickstart.txt
+knowledge/external/sources/russell-brunson/raw/08._Funnel_Immersion/Invisible Funnel/Black Box/transcription_Module_1.txt
+knowledge/external/sources/russell-brunson/raw/08._Funnel_Immersion/Invisible Funnel/Black Box/transcription_Module_2A.txt
+knowledge/external/sources/russell-brunson/raw/08._Funnel_Immersion/Invisible Funnel/Black Box/transcription_Module_2B.txt
+knowledge/external/sources/russell-brunson/raw/08._Funnel_Immersion/Invisible Funnel/Black Box/transcription_Module_3A.txt
+knowledge/external/sources/russell-brunson/raw/08._Funnel_Immersion/Invisible Funnel/Black Box/transcription_Module_3B.txt
+knowledge/external/sources/russell-brunson/raw/08._Funnel_Immersion/Invisible Funnel/Black Box/transcription_Module_5.txt
+knowledge/external/sources/russell-brunson/raw/08._Funnel_Immersion/Invisible Funnel/Black Box/transcription_Not_Getting_Answers_to_Your_Survey.txt
+knowledge/external/sources/russell-brunson/raw/08._Funnel_Immersion/Invisible Funnel/Black Box/Blackbox Quickstart.txt
 ```
 Key highlights: Black Box Funnel 3-Step Ascension (Buyer Magnet -> IF -> Black Box),
 Who-What-Why-How Video Script (John Carlton), 7 Hot Market Indicators,

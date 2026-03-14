@@ -622,9 +622,9 @@ def find_agent_path(agent_name: str) -> Optional[Path]:
     Encontra o caminho de um agente pelo nome.
 
     Busca em:
-    - /agents/persons/
+    - /agents/external/
     - /agents/cargo/
-    - /agents/conclave/
+    - /agents/system/conclave/
     """
     # Normalizar nome
     normalized = agent_name.upper().replace(' ', '-')

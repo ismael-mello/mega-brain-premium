@@ -560,7 +560,7 @@ DNA Composition conforme definido em SOUL.md ^[SOUL.md:20-26]:
 │   │   ║  ALEX HORMOZI                        PESO: 85%  ║│  │
 │   │   ╠═══════════════════════════════════════════════════════════════════╣│  │
 │   │   ║                                                                   ║│  │
-│   │   ║  Path: /knowledge/dna/persons/alex-hormozi/                   ║│  │
+│   │   ║  Path: /knowledge/external/dna/persons/alex-hormozi/                   ║│  │
 │   │   ║  Raiz: /inbox/alex hormozi/                 ║│  │
 │   │   ║                                                                   ║│  │
 │   │   ║  ESPECIALIDADE: Ofertas, Escala, Unit Economics                  ║│  │
@@ -583,7 +583,7 @@ DNA Composition conforme definido em SOUL.md ^[SOUL.md:20-26]:
 │   │   ║  COLE GORDON                              PESO: 80%  ║│  │
 │   │   ╠═══════════════════════════════════════════════════════════════════╣│  │
 │   │   ║                                                                   ║│  │
-│   │   ║  Path: /knowledge/dna/persons/cole-gordon/                    ║│  │
+│   │   ║  Path: /knowledge/external/dna/persons/cole-gordon/                    ║│  │
 │   │   ║  Raiz: /inbox/COLE GORDON/                       ║│  │
 │   │   ║                                                                   ║│  │
 │   │   ║  ESPECIALIDADE: Sales Operations, Compensação                    ║│  │
@@ -604,7 +604,7 @@ DNA Composition conforme definido em SOUL.md ^[SOUL.md:20-26]:
 │   │   ║  SAM OVEN (Setterlun)                                 PESO: 75%  ║│  │
 │   │   ╠═══════════════════════════════════════════════════════════════════╣│  │
 │   │   ║                                                                   ║│  │
-│   │   ║  Path: /knowledge/dna/persons/SAM-OVEN/                       ║│  │
+│   │   ║  Path: /knowledge/external/dna/persons/SAM-OVEN/                       ║│  │
 │   │   ║  Raiz: /inbox/SAM OVENS (SETTERLUN UNIVERSITY)/               ║│  │
 │   │   ║                                                                   ║│  │
 │   │   ║  ESPECIALIDADE: Sistemas, Scaling Sustentável                    ║│  │
@@ -623,7 +623,7 @@ DNA Composition conforme definido em SOUL.md ^[SOUL.md:20-26]:
 │   │   ║  JEREMY HAYNES                                        PESO: 80%  ║│  │
 │   │   ╠═══════════════════════════════════════════════════════════════════╣│  │
 │   │   ║                                                                   ║│  │
-│   │   ║  Path: /knowledge/dna/persons/jeremy-haynes/                  ║│  │
+│   │   ║  Path: /knowledge/external/dna/persons/jeremy-haynes/                  ║│  │
 │   │   ║  Raiz: /inbox/JEREMY HAYNES/                                  ║│  │
 │   │   ║                                                                   ║│  │
 │   │   ║  ESPECIALIDADE: Recurring High Ticket, Pricing                   ║│  │
@@ -931,41 +931,41 @@ DNA Composition conforme definido em SOUL.md ^[SOUL.md:20-26]:
 
 | Camada | Path | Quando Usar |
 |--------|------|-------------|
-| Filosofias | `/knowledge/dna/persons/alex-hormozi/FILOSOFIAS.yaml` | Princípios de ofertas |
-| Modelos Mentais | `/knowledge/dna/persons/alex-hormozi/MODELOS-MENTAIS.yaml` | Value Equation |
-| Heurísticas | `/knowledge/dna/persons/alex-hormozi/HEURISTICAS.yaml` | Regras SE/ENTÃO de pricing |
-| Frameworks | `/knowledge/dna/persons/alex-hormozi/FRAMEWORKS.yaml` | Grand Slam Offers |
-| Metodologias | `/knowledge/dna/persons/alex-hormozi/METODOLOGIAS.yaml` | Esteira de produtos |
+| Filosofias | `/knowledge/external/dna/persons/alex-hormozi/FILOSOFIAS.yaml` | Princípios de ofertas |
+| Modelos Mentais | `/knowledge/external/dna/persons/alex-hormozi/MODELOS-MENTAIS.yaml` | Value Equation |
+| Heurísticas | `/knowledge/external/dna/persons/alex-hormozi/HEURISTICAS.yaml` | Regras SE/ENTÃO de pricing |
+| Frameworks | `/knowledge/external/dna/persons/alex-hormozi/FRAMEWORKS.yaml` | Grand Slam Offers |
+| Metodologias | `/knowledge/external/dna/persons/alex-hormozi/METODOLOGIAS.yaml` | Esteira de produtos |
 
 #### COLE GORDON (OP001, CG001, CG003) - Peso: 80%
 
 | Camada | Path | Quando Usar |
 |--------|------|-------------|
-| Filosofias | `/knowledge/dna/persons/cole-gordon/FILOSOFIAS.yaml` | Princípios de vendas |
-| Modelos Mentais | `/knowledge/dna/persons/cole-gordon/MODELOS-MENTAIS.yaml` | Sales Management Progression |
-| Heurísticas | `/knowledge/dna/persons/cole-gordon/HEURISTICAS.yaml` | QC, Player Coach Fallacy |
-| Frameworks | `/knowledge/dna/persons/cole-gordon/FRAMEWORKS.yaml` | Farm System, OTEs |
-| Metodologias | `/knowledge/dna/persons/cole-gordon/METODOLOGIAS.yaml` | Estrutura de time |
+| Filosofias | `/knowledge/external/dna/persons/cole-gordon/FILOSOFIAS.yaml` | Princípios de vendas |
+| Modelos Mentais | `/knowledge/external/dna/persons/cole-gordon/MODELOS-MENTAIS.yaml` | Sales Management Progression |
+| Heurísticas | `/knowledge/external/dna/persons/cole-gordon/HEURISTICAS.yaml` | QC, Player Coach Fallacy |
+| Frameworks | `/knowledge/external/dna/persons/cole-gordon/FRAMEWORKS.yaml` | Farm System, OTEs |
+| Metodologias | `/knowledge/external/dna/persons/cole-gordon/METODOLOGIAS.yaml` | Estrutura de time |
 
 #### JEREMY HAYNES (PR001, RHT001-007) - Peso: 80%
 
 | Camada | Path | Quando Usar |
 |--------|------|-------------|
-| Filosofias | `/knowledge/dna/persons/jeremy-haynes/FILOSOFIAS.yaml` | Princípios de pricing |
-| Modelos Mentais | `/knowledge/dna/persons/jeremy-haynes/MODELOS-MENTAIS.yaml` | Certainty = Pricing |
-| Heurísticas | `/knowledge/dna/persons/jeremy-haynes/HEURISTICAS.yaml` | Regras de recurring |
-| Frameworks | `/knowledge/dna/persons/jeremy-haynes/FRAMEWORKS.yaml` | Recurring High Ticket |
-| Metodologias | `/knowledge/dna/persons/jeremy-haynes/METODOLOGIAS.yaml` | 200×$5k=$1M/mês |
+| Filosofias | `/knowledge/external/dna/persons/jeremy-haynes/FILOSOFIAS.yaml` | Princípios de pricing |
+| Modelos Mentais | `/knowledge/external/dna/persons/jeremy-haynes/MODELOS-MENTAIS.yaml` | Certainty = Pricing |
+| Heurísticas | `/knowledge/external/dna/persons/jeremy-haynes/HEURISTICAS.yaml` | Regras de recurring |
+| Frameworks | `/knowledge/external/dna/persons/jeremy-haynes/FRAMEWORKS.yaml` | Recurring High Ticket |
+| Metodologias | `/knowledge/external/dna/persons/jeremy-haynes/METODOLOGIAS.yaml` | 200×$5k=$1M/mês |
 
 #### SAM OVEN (SC001) - Peso: 75%
 
 | Camada | Path | Quando Usar |
 |--------|------|-------------|
-| Filosofias | `/knowledge/dna/persons/SAM-OVEN/FILOSOFIAS.yaml` | Princípios de scaling |
-| Modelos Mentais | `/knowledge/dna/persons/SAM-OVEN/MODELOS-MENTAIS.yaml` | Sustentabilidade |
-| Heurísticas | `/knowledge/dna/persons/SAM-OVEN/HEURISTICAS.yaml` | Regras de sistemas |
-| Frameworks | `/knowledge/dna/persons/SAM-OVEN/FRAMEWORKS.yaml` | Documentação |
-| Metodologias | `/knowledge/dna/persons/SAM-OVEN/METODOLOGIAS.yaml` | Processos de scaling |
+| Filosofias | `/knowledge/external/dna/persons/SAM-OVEN/FILOSOFIAS.yaml` | Princípios de scaling |
+| Modelos Mentais | `/knowledge/external/dna/persons/SAM-OVEN/MODELOS-MENTAIS.yaml` | Sustentabilidade |
+| Heurísticas | `/knowledge/external/dna/persons/SAM-OVEN/HEURISTICAS.yaml` | Regras de sistemas |
+| Frameworks | `/knowledge/external/dna/persons/SAM-OVEN/FRAMEWORKS.yaml` | Documentação |
+| Metodologias | `/knowledge/external/dna/persons/SAM-OVEN/METODOLOGIAS.yaml` | Processos de scaling |
 
 ### SOURCES Granulares (Temas Relevantes para CRO)
 

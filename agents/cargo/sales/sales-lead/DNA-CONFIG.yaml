@@ -21,14 +21,14 @@ nivel: "SALES"
 
 dna_agregado:
   - dominio: "vendas"
-    path: "/knowledge/dna/AGGREGATED/AGG-VENDAS.yaml"
+    path: "/knowledge/external/dna/AGGREGATED/AGG-VENDAS.yaml"
     peso: 0.75
     quando_usar: "Perguntas gerais sobre vendas e processos comerciais"
     justificativa: "SALES-LEAD precisa conhecimento cross-fonte para liderar time"
 
   # ─── AIOS Domain DNAs (added 2026-03-12) ───
   - dominio: "storytelling"
-    path: "/knowledge/dna/AGGREGATED/AGG-STORYTELLING.yaml"
+    path: "/knowledge/external/dna/AGGREGATED/AGG-STORYTELLING.yaml"
     peso: 0.50
     quando_usar: "Coaching via storytelling, narrativas de motivação, case studies"
     justificativa: "Sales-Lead usa storytelling para coaching e inspirar time"
@@ -48,7 +48,7 @@ dna_primario:
       - "Coaching Operacional"
       - "Fase 3 Framework"
       - "Leadership Transition"
-    path: "/knowledge/dna/persons/cole-gordon"
+    path: "/knowledge/external/dna/persons/cole-gordon"
     justificativa: "Principal fonte para modelo player-coach e progressao de gestao"
 
   - pessoa: "alex-hormozi"
@@ -57,7 +57,7 @@ dna_primario:
       - "Benchmark Thinking"
       - "Performance Standards"
       - "Team Development"
-    path: "/knowledge/dna/persons/alex-hormozi"
+    path: "/knowledge/external/dna/persons/alex-hormozi"
     justificativa: "Complemento para mentalidade de alta performance"
 
 # ═══════════════════════════════════════════════════════════════════

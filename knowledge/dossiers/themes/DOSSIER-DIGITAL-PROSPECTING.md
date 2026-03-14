@@ -26,7 +26,7 @@
 
 ## Framework Core: 60-Second Video Pitch (6 Passos)
 
-**Fonte:** JH BATCH-100-101 ^[knowledge/sources/client-accelerator/01-COLD-VIDEO-PROSPECTING.md]
+**Fonte:** JH BATCH-100-101 ^[knowledge/external/sources/client-accelerator/01-COLD-VIDEO-PROSPECTING.md]
 
 ```
 +------------------------------------------------------------------------------+
@@ -62,7 +62,7 @@
 
 ## Psicologia do Cold Video
 
-**Fonte:** JH BATCH-100-101 ^[knowledge/sources/client-accelerator/01-COLD-VIDEO-PROSPECTING.md:86-103]
+**Fonte:** JH BATCH-100-101 ^[knowledge/external/sources/client-accelerator/01-COLD-VIDEO-PROSPECTING.md:86-103]
 
 ### Regras de Ouro:
 1. **Desarmamento imediato** — "You likely have no idea who I am"
@@ -81,7 +81,7 @@
 
 ## Precificação por Tipo de Serviço
 
-**Fonte:** JH BATCH-100-101 ^[knowledge/sources/client-accelerator/01-COLD-VIDEO-PROSPECTING.md:28-132]
+**Fonte:** JH BATCH-100-101 ^[knowledge/external/sources/client-accelerator/01-COLD-VIDEO-PROSPECTING.md:28-132]
 
 | Serviço | Hands-On | Consulting | Performance |
 |---------|----------|------------|-------------|

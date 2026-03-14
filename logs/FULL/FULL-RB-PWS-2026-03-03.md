@@ -33,16 +33,16 @@
 
 | File | Type | Size | Destination |
 |------|------|------|-------------|
-| transcription_Perfect Webinar TY Page.txt | Welcome | ~1KB | knowledge/sources/russell-brunson/raw/01._Perfect_Webinar_Secrets/1._Welcome/ |
-| transcription_Perfect Webinar - Split Screen.txt | Main Training | 91KB | knowledge/sources/russell-brunson/raw/01._Perfect_Webinar_Secrets/2._The_Perfect_Webinar/ |
-| transcription_1 Perfect Webinar Session 1.txt | Workshop AM | 81KB | knowledge/sources/russell-brunson/raw/01._Perfect_Webinar_Secrets/4._Workshop_Day_1/ |
-| transcription_3 Ignite - Perfect Webinar Day 1 Afternoon.txt | Live Webinar | 145KB | knowledge/sources/russell-brunson/raw/01._Perfect_Webinar_Secrets/4._Workshop_Day_1/ |
-| transcription_4 Ignite - Perfect Webinar 4.txt | Workshop Debrief | 72KB | knowledge/sources/russell-brunson/raw/01._Perfect_Webinar_Secrets/4._Workshop_Day_1/ |
-| PWHandout012015.pdf | Workbook | PDF | knowledge/sources/russell-brunson/raw/01._Perfect_Webinar_Secrets/2._The_Perfect_Webinar/ |
-| Perfect-Webinar-Manual_NoD.pdf | Manual | PDF | knowledge/sources/russell-brunson/raw/01._Perfect_Webinar_Secrets/4._Workshop_Day_1/ |
-| Post-Webinar-Follow-Ups.pdf | Follow-up Guide | PDF | knowledge/sources/russell-brunson/raw/01._Perfect_Webinar_Secrets/4._Workshop_Day_1/ |
-| The-3-False-Belief-Patterns.pdf | Framework PDF | PDF | knowledge/sources/russell-brunson/raw/01._Perfect_Webinar_Secrets/4._Workshop_Day_1/ |
-| Your-Hot-Offer.pdf | Offer Creation | PDF | knowledge/sources/russell-brunson/raw/01._Perfect_Webinar_Secrets/4._Workshop_Day_1/ |
+| transcription_Perfect Webinar TY Page.txt | Welcome | ~1KB | knowledge/external/sources/russell-brunson/raw/01._Perfect_Webinar_Secrets/1._Welcome/ |
+| transcription_Perfect Webinar - Split Screen.txt | Main Training | 91KB | knowledge/external/sources/russell-brunson/raw/01._Perfect_Webinar_Secrets/2._The_Perfect_Webinar/ |
+| transcription_1 Perfect Webinar Session 1.txt | Workshop AM | 81KB | knowledge/external/sources/russell-brunson/raw/01._Perfect_Webinar_Secrets/4._Workshop_Day_1/ |
+| transcription_3 Ignite - Perfect Webinar Day 1 Afternoon.txt | Live Webinar | 145KB | knowledge/external/sources/russell-brunson/raw/01._Perfect_Webinar_Secrets/4._Workshop_Day_1/ |
+| transcription_4 Ignite - Perfect Webinar 4.txt | Workshop Debrief | 72KB | knowledge/external/sources/russell-brunson/raw/01._Perfect_Webinar_Secrets/4._Workshop_Day_1/ |
+| PWHandout012015.pdf | Workbook | PDF | knowledge/external/sources/russell-brunson/raw/01._Perfect_Webinar_Secrets/2._The_Perfect_Webinar/ |
+| Perfect-Webinar-Manual_NoD.pdf | Manual | PDF | knowledge/external/sources/russell-brunson/raw/01._Perfect_Webinar_Secrets/4._Workshop_Day_1/ |
+| Post-Webinar-Follow-Ups.pdf | Follow-up Guide | PDF | knowledge/external/sources/russell-brunson/raw/01._Perfect_Webinar_Secrets/4._Workshop_Day_1/ |
+| The-3-False-Belief-Patterns.pdf | Framework PDF | PDF | knowledge/external/sources/russell-brunson/raw/01._Perfect_Webinar_Secrets/4._Workshop_Day_1/ |
+| Your-Hot-Offer.pdf | Offer Creation | PDF | knowledge/external/sources/russell-brunson/raw/01._Perfect_Webinar_Secrets/4._Workshop_Day_1/ |
 
 ---
 
@@ -81,15 +81,15 @@
 | Arquivo | Operação |
 |---------|----------|
 | `artifacts/insights/russell-brunson/PERFECT-WEBINAR-SECRETS-EXTRACTION.md` | CRIADO |
-| `agents/persons/russell-brunson/DNA-CONFIG.yaml` | ATUALIZADO (350→410 elementos, 3 novos materiais) |
-| `knowledge/sources/russell-brunson/raw/01._Perfect_Webinar_Secrets/` | CRIADO (10 arquivos) |
+| `agents/external/russell-brunson/DNA-CONFIG.yaml` | ATUALIZADO (350→410 elementos, 3 novos materiais) |
+| `knowledge/external/sources/russell-brunson/raw/01._Perfect_Webinar_Secrets/` | CRIADO (10 arquivos) |
 
 ## PENDENTE (próxima sessão)
 
 - [ ] Atualizar `MEMORY.md` com novos insights PWS
-- [ ] Atualizar `agents/persons/russell-brunson/AGENT.md` com novos elementos
+- [ ] Atualizar `agents/external/russell-brunson/AGENT.md` com novos elementos
 - [ ] Remover `inbox/01._Perfect_Webinar_Secrets-Russell_Brunson/` após confirmar cópia
-- [ ] Atualizar `knowledge/sources/russell-brunson/_INDEX.md` com novo programa
+- [ ] Atualizar `knowledge/external/sources/russell-brunson/_INDEX.md` com novo programa
 - [ ] Limpar temp file: `logs/dna_extraction_temp.txt`
 
 ---

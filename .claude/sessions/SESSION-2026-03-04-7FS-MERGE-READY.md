@@ -28,22 +28,22 @@ Os resultados detalhados elemento-por-elemento estao em:
 ## O QUE FALTA FAZER (PROXIMA SESSAO)
 
 ### 1. DNA-CONFIG.yaml — Adicionar 7FS como material_fonte + atualizar stats
-Arquivo: `agents/persons/russell-brunson/DNA-CONFIG.yaml`
+Arquivo: `agents/external/russell-brunson/DNA-CONFIG.yaml`
 - Adicionar na secao `materiais_fonte` (apos linha 190):
 ```yaml
         # 7 FIGURE SHORTCUT (merged 2026-03-04)
         - titulo: "7 Figure Shortcut Part 1 - Core Webinar, ITS, Traffic Systems"
-          path_raiz: "/knowledge/sources/russell-brunson/raw/04._7_Figure_Shortcut/"
+          path_raiz: "/knowledge/external/sources/russell-brunson/raw/04._7_Figure_Shortcut/"
           tipo: "programa-completo"
           data_processamento: "2026-03-04"
 
         - titulo: "7 Figure Shortcut Part 2 - Setter/Closer Scripts, 8-Figure Webinar, Sales Process"
-          path_raiz: "/knowledge/sources/russell-brunson/raw/04._7_Figure_Shortcut/"
+          path_raiz: "/knowledge/external/sources/russell-brunson/raw/04._7_Figure_Shortcut/"
           tipo: "programa-completo"
           data_processamento: "2026-03-04"
 
         - titulo: "7 Figure Shortcut - Building Your Backend"
-          path_raiz: "/knowledge/sources/russell-brunson/raw/04._7_Figure_Shortcut/"
+          path_raiz: "/knowledge/external/sources/russell-brunson/raw/04._7_Figure_Shortcut/"
           tipo: "programa-completo"
           data_processamento: "2026-03-04"
 ```
@@ -71,7 +71,7 @@ Arquivo: `agents/persons/russell-brunson/DNA-CONFIG.yaml`
 - Atualizar versao para "4.0.0" e ultima_atualizacao para "2026-03-04"
 
 ### 2. MEMORY.md — Adicionar merge #5
-Arquivo: `agents/persons/russell-brunson/MEMORY.md`
+Arquivo: `agents/external/russell-brunson/MEMORY.md`
 - Adicionar na tabela MATERIAIS PROCESSADOS:
 ```
 | 7 Figure Shortcut (Complete Program) | Programa Completo (Video) | 3 partes (Part 1, Part 2, Backend) | 50 | 2026-03-04 |
@@ -88,7 +88,7 @@ Arquivo: `agents/persons/russell-brunson/MEMORY.md`
 
 ### 4. Mover Raw Files
 ```
-inbox/04._7_Figure_Shortcut-Russell_Brunson/ → knowledge/sources/russell-brunson/raw/04._7_Figure_Shortcut/
+inbox/04._7_Figure_Shortcut-Russell_Brunson/ → knowledge/external/sources/russell-brunson/raw/04._7_Figure_Shortcut/
 ```
 
 ### 5. Extraction Files — Consolidar

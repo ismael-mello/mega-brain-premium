@@ -141,7 +141,7 @@ QUANDO O LEAD RESPONDE E AGENDA CALL:
 
 ## Enriquecimento 30DC — Cold Email com Dados (2026-03-03)
 
-**Fonte:** JH BATCH-092-094 (30 Day Challenge) ^[knowledge/sources/30-day-challenge/01-COLD-EMAIL-FOLLOW-UP.md]
+**Fonte:** JH BATCH-092-094 (30 Day Challenge) ^[knowledge/external/sources/30-day-challenge/01-COLD-EMAIL-FOLLOW-UP.md]
 
 ### Data-Driven Email Framework (MET-30DC-001):
 1. **Pesquisa Profunda (Deep vs Wide)** — 1 prospect profundamente vs 100 superficialmente
@@ -170,7 +170,7 @@ QUANDO O LEAD RESPONDE E AGENDA CALL:
 
 ## Dan Kennedy — Hit List Farming & Cold Prospecting (ACC)
 
-**Fonte:** Dan Kennedy, Advanced Coaching & Consulting ^[knowledge/dna/persons/dan-kennedy/DNA.yaml]
+**Fonte:** Dan Kennedy, Advanced Coaching & Consulting ^[knowledge/external/dna/persons/dan-kennedy/DNA.yaml]
 
 ### MET-DK-095: Cold Client 4-Step Method
 

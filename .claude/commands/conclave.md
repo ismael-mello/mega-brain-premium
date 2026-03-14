@@ -28,7 +28,7 @@ Executa o fluxo completo: debate entre cargos + meta-avaliacao pelo conselho (CR
 
 > **Workflow:** `core/workflows/wf-conclave.yaml`
 > **Templates:** `core/templates/debates/`
-> **Agents:** `agents/conclave/`
+> **Agents:** `agents/system/conclave/`
 
 ```
 ═══════════════════════════════════════════════════════════════════════════════
@@ -83,7 +83,7 @@ FASE 1: DEBATE ENTRE CARGOS
 FASE 2: AVALIACAO DO CRITICO
 ═══════════════════════════════════════════════════════════════════════════════
 
-Carregar agents/conclave/critico-metodologico/AGENT.md e aplicar:
+Carregar agents/system/conclave/critico-metodologico/AGENT.md e aplicar:
 
 SCORE DE QUALIDADE: {0-100}/100
 
@@ -104,7 +104,7 @@ RECOMENDACAO: {APROVAR / REVISAR / REJEITAR}
 FASE 3: ADVOGADO DO DIABO
 ═══════════════════════════════════════════════════════════════════════════════
 
-Carregar agents/conclave/advogado-do-diabo/AGENT.md e aplicar:
+Carregar agents/system/conclave/advogado-do-diabo/AGENT.md e aplicar:
 
 PREMISSA MAIS FRAGIL:
 {Qual e por que}
@@ -122,7 +122,7 @@ ALTERNATIVA IGNORADA:
 FASE 4: SINTESE FINAL
 ═══════════════════════════════════════════════════════════════════════════════
 
-Carregar agents/conclave/sintetizador/AGENT.md e aplicar:
+Carregar agents/system/conclave/sintetizador/AGENT.md e aplicar:
 
 DECISAO RECOMENDADA:
 {Recomendacao clara e acionavel}

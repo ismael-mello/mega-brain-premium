@@ -630,19 +630,19 @@ Cleaner atua em:
 ## BATCH INSIGHTS — Client Accelerators Launch Plans (2026-03-03)
 
 **Fonte:** CA-0009 a CA-0015 (Mike Buontempo)
-**Cascateamento:** knowledge/sources/client-accelerator/02-LAUNCH-PLANS-AND-AD-STRATEGY.md
+**Cascateamento:** knowledge/external/sources/client-accelerator/02-LAUNCH-PLANS-AND-AD-STRATEGY.md
 
 ### Novos Insights de Launch Plans e Funil (CA):
 
 | ID | Insight | Métrica | chunk_id | PATH_RAIZ |
 |----|---------|---------|----------|-----------|
-| CRO-CA-001 | Launch Plan com 15 componentes obrigatórios | Exec Summary → Buyer Personas → Competitor Analysis → Tracking → MQL/SQL → Creative → Rollout | *pendente* | knowledge/sources/client-accelerator/02-LAUNCH-PLANS-AND-AD-STRATEGY.md |
-| CRO-CA-002 | Estrutura de funil padrão: FE $29-67 → Order Bump $47/mês (51-80% take rate) → OTO1 $97-297 → OTO2 downsell → Backend $10-25K | Take rate de 80% order bump documentado | *pendente* | knowledge/sources/client-accelerator/02-LAUNCH-PLANS-AND-AD-STRATEGY.md |
-| CRO-CA-003 | Case Cherrington: $474K → $980K/mês (+107%), ROAS 0.27x → 2.10x com funil estruturado | 8-9 agências envolvidas | *pendente* | knowledge/sources/client-accelerator/02-LAUNCH-PLANS-AND-AD-STRATEGY.md |
-| CRO-CA-004 | Case Microbanking: liquidação 34% → 54%, Revenue $118K → $346K, ROAS 2.9x → 6.18x | CPA inicial $236 | *pendente* | knowledge/sources/client-accelerator/02-LAUNCH-PLANS-AND-AD-STRATEGY.md |
-| CRO-CA-005 | Tier 1 compradores = maior LTV e backend — prioridade máxima em targeting | 4 tiers documentados | *pendente* | knowledge/sources/client-accelerator/02-LAUNCH-PLANS-AND-AD-STRATEGY.md |
-| CRO-CA-006 | ABO para teste de criativos → CBO para escala | Sequência de campanha padrão | *pendente* | knowledge/sources/client-accelerator/02-LAUNCH-PLANS-AND-AD-STRATEGY.md |
-| CRO-CA-007 | 30DC: Power of Choice — Nunca Yes/No nas CTAs. "Morning or afternoon?" converte mais | Framework de CTA aplicável em sales e marketing | *pendente* | knowledge/sources/30-day-challenge/01-COLD-EMAIL-FOLLOW-UP.md |
+| CRO-CA-001 | Launch Plan com 15 componentes obrigatórios | Exec Summary → Buyer Personas → Competitor Analysis → Tracking → MQL/SQL → Creative → Rollout | *pendente* | knowledge/external/sources/client-accelerator/02-LAUNCH-PLANS-AND-AD-STRATEGY.md |
+| CRO-CA-002 | Estrutura de funil padrão: FE $29-67 → Order Bump $47/mês (51-80% take rate) → OTO1 $97-297 → OTO2 downsell → Backend $10-25K | Take rate de 80% order bump documentado | *pendente* | knowledge/external/sources/client-accelerator/02-LAUNCH-PLANS-AND-AD-STRATEGY.md |
+| CRO-CA-003 | Case Cherrington: $474K → $980K/mês (+107%), ROAS 0.27x → 2.10x com funil estruturado | 8-9 agências envolvidas | *pendente* | knowledge/external/sources/client-accelerator/02-LAUNCH-PLANS-AND-AD-STRATEGY.md |
+| CRO-CA-004 | Case Microbanking: liquidação 34% → 54%, Revenue $118K → $346K, ROAS 2.9x → 6.18x | CPA inicial $236 | *pendente* | knowledge/external/sources/client-accelerator/02-LAUNCH-PLANS-AND-AD-STRATEGY.md |
+| CRO-CA-005 | Tier 1 compradores = maior LTV e backend — prioridade máxima em targeting | 4 tiers documentados | *pendente* | knowledge/external/sources/client-accelerator/02-LAUNCH-PLANS-AND-AD-STRATEGY.md |
+| CRO-CA-006 | ABO para teste de criativos → CBO para escala | Sequência de campanha padrão | *pendente* | knowledge/external/sources/client-accelerator/02-LAUNCH-PLANS-AND-AD-STRATEGY.md |
+| CRO-CA-007 | 30DC: Power of Choice — Nunca Yes/No nas CTAs. "Morning or afternoon?" converte mais | Framework de CTA aplicável em sales e marketing | *pendente* | knowledge/external/sources/30-day-challenge/01-COLD-EMAIL-FOLLOW-UP.md |
 
 ### Padrões Decisórios Adicionados:
 

@@ -209,7 +209,7 @@ prospect se convence através de perguntas estratégicas.
 ║  ├── Discovery Architecture (estrutura)                                        ║
 ║  └── Resistance Reduction (psicologia)                                         ║
 ║                                                                                ║
-║  PATH: /knowledge/dna/persons/JEREMY-MINER                                  ║
+║  PATH: /knowledge/external/dna/persons/JEREMY-MINER                                  ║
 ║  BATCHES: BATCH-051 a BATCH-067 (17 batches)                                   ║
 ║  ARQUIVOS: JM-0001 a JM-0151                                                   ║
 ║                                                                                ║
@@ -971,12 +971,12 @@ prospect se convence através de perguntas estratégicas.
 │  └── ./MEMORY.md                                                              │
 │                                                                                │
 │  DNA SOURCE:                                                                   │
-│  ├── /knowledge/dna/persons/JEREMY-MINER/CONFIG.yaml                       │
-│  ├── /knowledge/dna/persons/JEREMY-MINER/FILOSOFIAS.yaml                   │
-│  ├── /knowledge/dna/persons/JEREMY-MINER/MODELOS-MENTAIS.yaml              │
-│  ├── /knowledge/dna/persons/JEREMY-MINER/HEURISTICAS.yaml                  │
-│  ├── /knowledge/dna/persons/JEREMY-MINER/FRAMEWORKS.yaml                   │
-│  └── /knowledge/dna/persons/JEREMY-MINER/METODOLOGIAS.yaml                 │
+│  ├── /knowledge/external/dna/persons/JEREMY-MINER/CONFIG.yaml                       │
+│  ├── /knowledge/external/dna/persons/JEREMY-MINER/FILOSOFIAS.yaml                   │
+│  ├── /knowledge/external/dna/persons/JEREMY-MINER/MODELOS-MENTAIS.yaml              │
+│  ├── /knowledge/external/dna/persons/JEREMY-MINER/HEURISTICAS.yaml                  │
+│  ├── /knowledge/external/dna/persons/JEREMY-MINER/FRAMEWORKS.yaml                   │
+│  └── /knowledge/external/dna/persons/JEREMY-MINER/METODOLOGIAS.yaml                 │
 │                                                                                │
 │  DOSSIERS:                                                                     │
 │  ├── /knowledge/dossiers/persons/DOSSIER-JEREMY-MINER.md                   │

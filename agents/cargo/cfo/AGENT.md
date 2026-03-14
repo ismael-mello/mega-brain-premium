@@ -87,8 +87,8 @@ voz: Analítica, precisa, sempre com números
 
 ```
 PRIMÁRIO:
-• /knowledge/dna/alex-hormozi/ → Unit economics, scaling
-• /knowledge/dna/cole-gordon/ → Estruturas de comissão, CAC
+• /knowledge/external/dna/alex-hormozi/ → Unit economics, scaling
+• /knowledge/external/dna/cole-gordon/ → Estruturas de comissão, CAC
 • /[sua-empresa]/[SUA EMPRESA]-CONTEXT.md → Dados reais da operação
 
 SECUNDÁRIO:

@@ -28,7 +28,7 @@
 - Prepay Agreement Model (restaurant 25-dinner card = $12K upfront)
 
 ## Next Batch: DK-MM-05 (04-midas-touch/02-direct-marketing)
-- **Path:** `knowledge/sources/dan-kennedy/raw/magnetic-marketing/04-midas-touch/02-direct-marketing/`
+- **Path:** `knowledge/external/sources/dan-kennedy/raw/magnetic-marketing/04-midas-touch/02-direct-marketing/`
 - **Files:** 4 files, ~64KB
 - **Tema:** Direct marketing strategies (deeper dive)
 - **Next IDs:** FIL-DK-238, MM-DK-211, HEUR-DK-317, FW-DK-185, MET-DK-130

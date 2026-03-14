@@ -127,7 +127,7 @@ Senhor, aqui está o ORGANOGRAMA COMPLETO do /council:
 │         │           │    │    ONDE BUSCAM INFO:        │    │           │                        │
 │         │           │    │                             │    │           │                        │
 │         │           │    │  1. DNA dos especialistas   │    │           │                        │
-│         │           │    │     └── /knowledge/dna/  │    │           │                        │
+│         │           │    │     └── /knowledge/external/dna/  │    │           │                        │
 │         │           │    │                             │    │           │                        │
 │         │           │    │  2. DOSSIERS                │    │           │                        │
 │         │           │    │     └── /knowledge/      │    │           │                        │
@@ -287,9 +287,9 @@ Ordem	Arquivo	Propósito
 3	core/templates/debates/DEBATE-PROTOCOL.md	Regras de debate
 4	core/templates/debates/DEBATE-DYNAMICS-PROTOCOL.md	Timeouts, loops, escalação
 5	/[sua-empresa]/[SUA EMPRESA]-CONTEXT.md	Contexto operacional da empresa
-6	/agents/conclave/critico-metodologico/AGENT.md	Agente do Conselho
-7	/agents/conclave/advogado-do-diabo/AGENT.md	Agente do Conselho
-8	/agents/conclave/sintetizador/AGENT.md	Agente do Conselho
+6	/agents/system/conclave/critico-metodologico/AGENT.md	Agente do Conselho
+7	/agents/system/conclave/advogado-do-diabo/AGENT.md	Agente do Conselho
+8	/agents/system/conclave/sintetizador/AGENT.md	Agente do Conselho
 🔍 ONDE BUSCAM INFORMAÇÃO
 
 ┌─────────────────────────────────────────────────────────────────────────────────────────────────┐
@@ -298,7 +298,7 @@ Ordem	Arquivo	Propósito
 │                                                                                                 │
 │   ┌───────────────────────────────────────────────────────────────────────────────────────────┐│
 │   │  🧬 DNA DOS ESPECIALISTAS                                                                 ││
-│   │  /knowledge/dna/                                                                       ││
+│   │  /knowledge/external/dna/                                                                       ││
 │   │  ├── COLE-GORDON/          → High-ticket, High-ticket Sales, certificação                       ││
 │   │  ├── JEREMY-HAYNES/        → Paid media, funis, scaling                                  ││
 │   │  ├── JEREMY-MINER/         → NEPQ, perguntas, tonalidade                                 ││

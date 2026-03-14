@@ -1,6 +1,6 @@
 # DOSSIÊ: Richard Linder
 
-[[HOME|← Home]] | [[MOC-PESSOAS|👤 Pessoas]] | [[MOC-TEMAS|📚 Temas]] | [[knowledge/dna/persons/RICHARD-LINDER/CONFIG|⚙️ DNA Config]]
+[[HOME|← Home]] | [[MOC-PESSOAS|👤 Pessoas]] | [[MOC-TEMAS|📚 Temas]] | [[knowledge/external/dna/persons/RICHARD-LINDER/CONFIG|⚙️ DNA Config]]
 
 **Versão:** 1.0.0
 **Última Atualização:** 2025-12-21

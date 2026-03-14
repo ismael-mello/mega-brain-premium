@@ -3,7 +3,7 @@
 > **Source Program:** Perfect Webinar Secrets (Standalone Course + Ignite Workshop)
 > **Extraction Date:** 2026-03-03
 > **Source Files:** 5 transcriptions + 5 PDFs
-> **Raw Path:** `/knowledge/sources/russell-brunson/raw/01._Perfect_Webinar_Secrets/`
+> **Raw Path:** `/knowledge/external/sources/russell-brunson/raw/01._Perfect_Webinar_Secrets/`
 > **Elements Extracted:** 60 total (37 NEW + 23 ENRICHMENT)
 > **Status:** COMPLETE — Ready for DNA merge
 

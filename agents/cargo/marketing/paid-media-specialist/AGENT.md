@@ -97,7 +97,7 @@
 ║  │ • Hydra Strategy                                                         │ ║
 ║  │                                                                          │ ║
 ║  │ ELEMENTOS: ~1,483 (17 batches: BATCH-068 a BATCH-084)                    │ ║
-║  │ PATH: /knowledge/dna/persons/jeremy-haynes                            │ ║
+║  │ PATH: /knowledge/external/dna/persons/jeremy-haynes                            │ ║
 ║  └──────────────────────────────────────────────────────────────────────────┘ ║
 ║                                                                                ║
 ║  FONTE SECUNDÁRIA: ALEX HORMOZI                                                ║
@@ -112,7 +112,7 @@
 ║  │ • Lead Gen at Scale                                                      │ ║
 ║  │                                                                          │ ║
 ║  │ ELEMENTOS: ~117 (2 batches: BATCH-127, BATCH-128)                        │ ║
-║  │ PATH: /knowledge/dna/persons/alex-hormozi                             │ ║
+║  │ PATH: /knowledge/external/dna/persons/alex-hormozi                             │ ║
 ║  └──────────────────────────────────────────────────────────────────────────┘ ║
 ║                                                                                ║
 ║  TOTAL DNA: ~1,600 elementos                                                   ║
@@ -124,11 +124,11 @@
 
 | Camada | Quantidade | Fonte Primária |
 |--------|------------|----------------|
-| Filosofias | ~250 | /knowledge/dna/persons/jeremy-haynes/FILOSOFIAS.yaml |
-| Modelos Mentais | ~170 | /knowledge/dna/persons/jeremy-haynes/MODELOS-MENTAIS.yaml |
-| Heurísticas | ~650 | /knowledge/dna/persons/jeremy-haynes/HEURISTICAS.yaml |
-| Frameworks | ~310 | /knowledge/dna/persons/jeremy-haynes/FRAMEWORKS.yaml |
-| Metodologias | ~220 | /knowledge/dna/persons/jeremy-haynes/METODOLOGIAS.yaml |
+| Filosofias | ~250 | /knowledge/external/dna/persons/jeremy-haynes/FILOSOFIAS.yaml |
+| Modelos Mentais | ~170 | /knowledge/external/dna/persons/jeremy-haynes/MODELOS-MENTAIS.yaml |
+| Heurísticas | ~650 | /knowledge/external/dna/persons/jeremy-haynes/HEURISTICAS.yaml |
+| Frameworks | ~310 | /knowledge/external/dna/persons/jeremy-haynes/FRAMEWORKS.yaml |
+| Metodologias | ~220 | /knowledge/external/dna/persons/jeremy-haynes/METODOLOGIAS.yaml |
 
 ---
 
@@ -743,8 +743,8 @@ Ver: `./MEMORY.md` para histórico completo de interações e aprendizados.
 ║                                                                                ║
 ║  DNAs DE REFERÊNCIA                                                            ║
 ║  ┌──────────────────────────────────────────────────────────────────────────┐ ║
-║  │ Jeremy Haynes  │ /knowledge/dna/persons/jeremy-haynes │ ~1,483 elem   │ ║
-║  │ Alex Hormozi   │ /knowledge/dna/persons/alex-hormozi  │ ~117 elem     │ ║
+║  │ Jeremy Haynes  │ /knowledge/external/dna/persons/jeremy-haynes │ ~1,483 elem   │ ║
+║  │ Alex Hormozi   │ /knowledge/external/dna/persons/alex-hormozi  │ ~117 elem     │ ║
 ║  └──────────────────────────────────────────────────────────────────────────┘ ║
 ║                                                                                ║
 ║  DOSSIERS RELACIONADOS                                                         ║

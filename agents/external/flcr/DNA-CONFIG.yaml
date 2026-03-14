@@ -1,0 +1,38 @@
+agent_id: FLCR
+agent_type: SOLO
+person: Wilson Sajr
+handle: "@wilsonsajr"
+organization: PWR Gestão
+role: CEO / Consultor Sócio
+program: FLCR - Formação em Liderança, Cultura e Resultado
+
+dna_source:
+  path: "knowledge/external/dna/persons/flcr/"
+  weight: 1.0
+
+  files:
+    - L1-PHILOSOPHIES.yaml
+    - L2-MENTAL-MODELS.yaml
+    - L3-HEURISTICS.yaml
+    - L4-FRAMEWORKS.yaml
+    - L5-METHODOLOGIES.yaml
+
+raiz: "knowledge/external/sources/flcr/raw/"
+
+total_elements: 180
+domains:
+  - leadership
+  - organizational_culture
+  - people_management
+  - talent_acquisition
+  - performance_management
+  - change_management
+  - meritocracy
+  - feedback_systems
+  - organizational_structure
+  - team_development
+
+related_agents:
+  - id: capital-upgrade
+    relation: "Mesmo ecossistema PWR Gestão — conteúdo complementar (gestão financeira)"
+    overlap: baixo

@@ -1,6 +1,6 @@
 # DOSSIÊ: Jeremy Haynes
 
-[[HOME|← Home]] | [[MOC-PESSOAS|👤 Pessoas]] | [[MOC-TEMAS|📚 Temas]] | [[knowledge/dna/persons/jeremy-haynes/CONFIG|⚙️ DNA Config]]
+[[HOME|← Home]] | [[MOC-PESSOAS|👤 Pessoas]] | [[MOC-TEMAS|📚 Temas]] | [[knowledge/external/dna/persons/jeremy-haynes/CONFIG|⚙️ DNA Config]]
 
 > **Em resumo:** Paid media is math, not art. Hydra Strategy para funis paralelos. Andromeda para 50+ criativos/semana. Hammer Strategy para 50-80% show rate. Venus Fly Trap para automação pre-call. Follow-Up Architecture 3-tier recupera 70-80% dos no-closes.
 >

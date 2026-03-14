@@ -31,7 +31,7 @@ Elements to merge (40 total):
 
 **L5 marker (MET-RB-047 end):**
 ```
-        raw_source: "knowledge/sources/russell-brunson/raw/08._Funnel_Immersion/Invisible Funnel/Invisible Funnel Workshop/transcription_Session_13.txt"
+        raw_source: "knowledge/external/sources/russell-brunson/raw/08._Funnel_Immersion/Invisible Funnel/Invisible Funnel Workshop/transcription_Session_13.txt"
 
 
 # ==========================================================================
@@ -40,7 +40,7 @@ Elements to merge (40 total):
 
 **L4 marker (FW-RB-084 end):**
 ```
-        raw_source: "knowledge/sources/russell-brunson/raw/08._Funnel_Immersion/Invisible Funnel/Invisible Funnel Workshop/transcription_Session_8.txt"
+        raw_source: "knowledge/external/sources/russell-brunson/raw/08._Funnel_Immersion/Invisible Funnel/Invisible Funnel Workshop/transcription_Session_8.txt"
 
 
   # ==========================================================================
@@ -49,7 +49,7 @@ Elements to merge (40 total):
 
 **L3 marker (HEUR-RB-131 end):**
 ```
-        raw_source: "knowledge/sources/russell-brunson/raw/08._Funnel_Immersion/Invisible Funnel/Invisible Funnel Workshop/transcription_Session_7.txt"
+        raw_source: "knowledge/external/sources/russell-brunson/raw/08._Funnel_Immersion/Invisible Funnel/Invisible Funnel Workshop/transcription_Session_7.txt"
 
 
   # ==========================================================================
@@ -59,7 +59,7 @@ NOTE: This marker appears twice (HEUR-RB-121 also ends with Session_7.txt before
 
 **L2 marker (MM-RB-082 end):**
 ```
-        raw_source: "knowledge/sources/russell-brunson/raw/08._Funnel_Immersion/Invisible Funnel/Invisible Funnel Workshop/transcription_Session_7.txt"
+        raw_source: "knowledge/external/sources/russell-brunson/raw/08._Funnel_Immersion/Invisible Funnel/Invisible Funnel Workshop/transcription_Session_7.txt"
 
 
   # ==========================================================================
@@ -68,7 +68,7 @@ NOTE: This marker appears twice (HEUR-RB-121 also ends with Session_7.txt before
 
 **L1 marker (PHI-RB-098 end):**
 ```
-        raw_source: "knowledge/sources/russell-brunson/raw/08._Funnel_Immersion/Invisible Funnel/Invisible Funnel Workshop/transcription_Session_7.txt"
+        raw_source: "knowledge/external/sources/russell-brunson/raw/08._Funnel_Immersion/Invisible Funnel/Invisible Funnel Workshop/transcription_Session_7.txt"
 
 
   # ==========================================================================
@@ -117,16 +117,16 @@ SAFER APPROACH: Use Python script that reads file line by line, finds the line n
 
 ## AFTER ALL MERGES: Update These Files
 
-1. **DNA-CONFIG.yaml** (`agents/persons/russell-brunson/DNA-CONFIG.yaml`)
+1. **DNA-CONFIG.yaml** (`agents/external/russell-brunson/DNA-CONFIG.yaml`)
    - Update total element count to 482
    - Mark Invisible Funnel as COMPLETE
    - Update version
 
-2. **MEMORY.md** (`agents/persons/russell-brunson/MEMORY.md`)
+2. **MEMORY.md** (`agents/external/russell-brunson/MEMORY.md`)
    - Add batch entry for IF Workshop + Black Box
    - Update stats
 
-3. **AGENT.md** (`agents/persons/russell-brunson/AGENT.md`)
+3. **AGENT.md** (`agents/external/russell-brunson/AGENT.md`)
    - Update element counters
 
 ---

@@ -31,13 +31,13 @@ Pipeline completo do Funnel Hacks System (programa 16) de Russell Brunson.
 - L5 Methodologies: 81 → 107 (+26)
 
 ## ARQUIVOS CRIADOS/MODIFICADOS
-- [x] `knowledge/sources/russell-brunson/16-FUNNEL-HACKS-SYSTEM.md` - CRIADO (source doc)
-- [x] `knowledge/sources/russell-brunson/raw/16._Funnel_Hacks_System/` - CRIADO (65 raw files copied)
-- [~] `agents/persons/russell-brunson/DNA-CONFIG.yaml` - PARTIAL (version bumped to v14-FHS-complete)
+- [x] `knowledge/external/sources/russell-brunson/16-FUNNEL-HACKS-SYSTEM.md` - CRIADO (source doc)
+- [x] `knowledge/external/sources/russell-brunson/raw/16._Funnel_Hacks_System/` - CRIADO (65 raw files copied)
+- [~] `agents/external/russell-brunson/DNA-CONFIG.yaml` - PARTIAL (version bumped to v14-FHS-complete)
 - [ ] DNA-CONFIG.yaml - ADD nova fonte material (Funnel Hacks System entry)
 - [ ] DNA-CONFIG.yaml - UPDATE dna_statistics section (681→824, modules 13→14)
-- [ ] `knowledge/sources/russell-brunson/_INDEX.md` - UPDATE (add program 16, update totals)
-- [ ] `agents/persons/russell-brunson/MEMORY.md` - UPDATE (top FHS insights)
+- [ ] `knowledge/external/sources/russell-brunson/_INDEX.md` - UPDATE (add program 16, update totals)
+- [ ] `agents/external/russell-brunson/MEMORY.md` - UPDATE (top FHS insights)
 - [ ] `agents/AGENT-INDEX.yaml` - UPDATE if needed
 - [ ] Limpar inbox (remover `inbox/16._Funnel_Hacks_System-Russell_Brunson/`)
 
@@ -45,7 +45,7 @@ Pipeline completo do Funnel Hacks System (programa 16) de Russell Brunson.
 1. **DNA-CONFIG.yaml** - Adicionar entrada materiais_fonte para Funnel Hacks System:
    ```yaml
    - titulo: "Funnel Hacks System - Complete (5 modules, 65 transcriptions)"
-     path_raiz: "/knowledge/sources/russell-brunson/raw/16._Funnel_Hacks_System/"
+     path_raiz: "/knowledge/external/sources/russell-brunson/raw/16._Funnel_Hacks_System/"
      tipo: "programa-completo"
      data_processamento: "2026-03-08"
      elementos_extraidos: 212

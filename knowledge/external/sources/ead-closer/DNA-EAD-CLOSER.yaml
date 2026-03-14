@@ -1,0 +1,1108 @@
+# ============================================================================
+# DNA COGNITIVO - EAD CLOSER (Full Sales / Vinicius de Sa / Yuri)
+# ============================================================================
+# Fonte: knowledge/external/sources/ead-closer/raw/ (~68 arquivos)
+# Autores Principais: Vinicius de Sa (closer/trainer), Yuri (gestor/leadership),
+#                     Bruno (closer aguia/mod 5), Aline (eventos/mod 4)
+# Idioma: PT-BR (preservado conforme instrucao)
+# Extraido: 2026-03-03
+# Arquivos processados: 60+ transcrições de video
+# Duplicatas identificadas: EDC-0089 (=EDC-0034), EDC-0090 (=EDC-0035),
+#                           EDC-0091 (=EDC-0059), EDC-0058 (=EDC-0055),
+#                           segundo EDC-0051, segundo EDC-0057
+# ============================================================================
+
+# ============================================================================
+# CAMADA L1: FILOSOFIAS (Core beliefs, worldview, principios sobre vendas)
+# ============================================================================
+filosofias:
+
+  - id: EDC-FIL-001
+    name: "Venda e Emocional, Nao Racional"
+    description: >
+      A decisao de compra e fundamentalmente emocional. O cerebro limbico
+      (emocional) decide, e o neocortex (racional) justifica depois. Toda a
+      arquitetura de persuasao da Venda de Alta Performance e construida para
+      ativar gatilhos emocionais e gerar certeza emocional no cliente.
+    source_file: "[EDC-0076] Estrutura da Venda de Impacto.txt"
+    key_quote: "A venda e emocional. Isso aqui tende nessa estrutura a ativar todos os gatilhos necessarios para a pessoa tomar a decisao naquele momento."
+    tags: [venda, emocao, cerebro-limbico, decisao, persuasao]
+
+  - id: EDC-FIL-002
+    name: "Ninguem Compra Produto, Compra Transformacao"
+    description: >
+      O cliente nao compra o produto em si, compra a transformacao que o produto
+      proporciona. O metodo (como transforma) e diferente do produto (como entrega).
+      A apresentacao deve vender a transformacao antes de mostrar o produto.
+    source_file: "[EDC-0007] APRESENTACAO PITCH PADRAO.txt"
+    key_quote: "Metodo e diferente de produto. Metodo e como voce transforma. Produto e como voce entrega."
+    tags: [transformacao, metodo, produto, valor-percebido]
+
+  - id: EDC-FIL-003
+    name: "A Venda e Construida por Microfechamentos"
+    description: >
+      A venda nao acontece em um unico momento de fechamento. Ela e construida
+      ao longo de toda a apresentacao por micropactos, microcompromissos e
+      microfechamentos que o cliente vai fazendo, para que no final passar o
+      cartao fique muito mais proximo.
+    source_file: "[EDC-0077] Pacto Sim ou Nao.txt"
+    key_quote: "A venda e construida a partir de microfechamentos, micropactos, microcompromissos que o cliente vai fazendo com voce ao longo da venda."
+    tags: [microfechamento, pacto, compromisso, construcao-venda]
+
+  - id: EDC-FIL-004
+    name: "Voce Nao Vende Para o Cliente, Voce Vende Com o Cliente"
+    description: >
+      A postura do closer nao e de vendedor empurrando produto. E de consultor
+      que ajuda o cliente a tomar a melhor decisao. A venda e uma parceria,
+      nao uma batalha. O closer guia o cliente pela jornada de decisao.
+    source_file: "[EDC-0003] INTRODUCAO (QUEBRA GELO).txt"
+    key_quote: "Eu nao to aqui pra te vender nada, to aqui pra contribuir com voce. Se fizer sentido la na frente, eu mostro pra ti o que a gente tem de solucao."
+    tags: [consultoria, parceria, postura, closer]
+
+  - id: EDC-FIL-005
+    name: "Quanto Mais Caro, Mais Facil de Vender"
+    description: >
+      Produtos mais caros sao mais faceis de vender porque atraem clientes
+      mais qualificados, geram mais percepcao de valor e permitem melhor
+      entrega. O preco baixo atrai clientes problematicos e desvaloriza o
+      trabalho.
+    source_file: "[EDC-0059] Curso 21 Mod 2 Aula 8.txt"
+    key_quote: "Quanto mais caro, mais facil de vender."
+    tags: [pricing, valor, ticket-alto, qualificacao]
+
+  - id: EDC-FIL-006
+    name: "Brasileiro Compra Parcela, Nao Preco"
+    description: >
+      No contexto brasileiro, o cliente avalia se a parcela cabe no orcamento
+      mensal, nao o valor total. A estrategia de parcelamento e fundamental
+      para viabilizar vendas high-ticket no Brasil.
+    source_file: "[EDC-0049] Curso 21 Aula 3.txt"
+    key_quote: "Brasileiro compra parcela, nao preco."
+    tags: [brasil, parcelamento, pricing, comportamento-compra]
+
+  - id: EDC-FIL-007
+    name: "80% Que Dizem Amanha Nao Pagam"
+    description: >
+      Estatistica interna que demonstra por que o fechamento em call e
+      fundamental. Clientes que saem da call com intencao de pagar depois
+      tem taxa de conversao drasticamente menor. O dominio se perde quando
+      o cliente sai da call.
+    source_file: "[EDC-0019] PEGANDO O PAGAMENTO.txt"
+    key_quote: "80% das pessoas que falam que vao pagar amanha, nao pagam."
+    tags: [fechamento, urgencia, conversao, estatistica]
+
+  - id: EDC-FIL-008
+    name: "Toda Objecao e Emocional"
+    description: >
+      Baseado no livro "Objecoes", toda objecao e fundamentalmente emocional,
+      mesmo quando verbalizada como racional (preco, tempo, socio). O closer
+      deve tratar a raiz emocional, nao apenas o argumento logico.
+    source_file: "[EDC-0055] Curso 21 Mod 2 Aula 7.txt"
+    key_quote: "Toda objecao e emocional."
+    tags: [objecao, emocao, fechamento, psicologia]
+
+  - id: EDC-FIL-009
+    name: "Ser Autoresponsavel Pelo Resultado"
+    description: >
+      O closer e 100% responsavel pelo resultado da venda. Se o cliente
+      disse "vou pensar", e porque o closer nao construiu a venda corretamente.
+      Nao culpar o lead, o mercado ou o preco. A responsabilidade e do closer.
+    source_file: "[EDC-0077] Pacto Sim ou Nao.txt"
+    key_quote: "Voce tem que ser autoresponsavel por isso."
+    tags: [responsabilidade, mindset, closer, resultado]
+
+  - id: EDC-FIL-010
+    name: "Treinar 87% Comportamental, 13% Tecnico"
+    description: >
+      Vendedores que nao performam falham por falta de inteligencia emocional,
+      nao por falta de conhecimento tecnico. O treinamento de equipes deve
+      focar 87% em comportamento/mentalidade e apenas 13% em tecnica de produto.
+    source_file: "[EDC-0073] Curso 16 Aula 6 - Vendedor Novo.txt"
+    key_quote: "87% do seu tempo voce tem que treinar a sua equipe com mentalidade, comportamento, inteligencia emocional, habitos. E 13% do tempo e a tecnica do produto."
+    tags: [treinamento, inteligencia-emocional, comportamento, equipe]
+
+  - id: EDC-FIL-011
+    name: "Demore Para Contratar, Seja Rapido Para Demitir"
+    description: >
+      Principio de gestao de equipe de vendas. A contratacao deve ser criteriosa
+      e lenta, mas a demissao deve ser rapida quando fica claro que o vendedor
+      nao vai performar. Em um mes ja se sabe se o vendedor e bom ou nao.
+    source_file: "[EDC-0073] Curso 16 Aula 6 - Vendedor Novo.txt"
+    key_quote: "Demore para contratar e seja rapido para demitir. Em um mes voce ja tem que saber se ele e bom ou nao."
+    tags: [contratacao, demissao, gestao, equipe]
+
+  - id: EDC-FIL-012
+    name: "Nao Imploro Venda, Deixo Ele Escolher"
+    description: >
+      O closer nunca deve implorar por uma venda ou pressionar de forma
+      desesperada. A postura correta e apresentar as opcoes com clareza,
+      mostrar qual e melhor, e deixar o cliente decidir. A responsabilidade
+      da decisao e transferida para o cliente.
+    source_file: "[EDC-0088] Aula 47 - Objecoes e tira duvidas.txt"
+    key_quote: "Eu nao imploro venda, gente. Eu deixo ele escolher. Mas eu mostro qual e melhor. Mas e ele que escolhe."
+    tags: [postura, autoridade, fechamento, escolha]
+
+  - id: EDC-FIL-013
+    name: "Venda Conversada Tem Conversao Muito Menor"
+    description: >
+      A venda por WhatsApp/email (conversada) tem conversao drasticamente
+      menor que a venda de alta performance (call estruturada). Alem disso,
+      gera imprevisibilidade, frustração e gasta muito mais tempo por cliente.
+    source_file: "[EDC-0076] Estrutura da Venda de Impacto.txt"
+    key_quote: "A venda conversada, ela tem uma conversao muito menor. E ela tem uma imprevisibilidade tamanha e tem muita frustracao."
+    tags: [venda-conversada, conversao, alta-performance, whatsapp]
+
+  - id: EDC-FIL-014
+    name: "Quem Nao Vende Dentro de Um Evento Mata Um Panda"
+    description: >
+      Citacao de Andre Cia. Eventos sao oportunidades de ouro para vendas.
+      Nao vender dentro de um evento e desperdicar um dos melhores canais
+      de conversao existentes no mercado.
+    source_file: "[EDC-0084] Mod 4 Aula 8 - Eventos.txt"
+    key_quote: "Quem nao vende dentro de um evento mata um panda."
+    tags: [eventos, vendas, conversao, oportunidade]
+
+  - id: EDC-FIL-015
+    name: "A Gente Faz o Que a Gente Fala"
+    description: >
+      Principio de integridade e coerencia. Se o closer disse ao cliente que
+      o preco era valido so naquele dia, deve manter a palavra. Incoerencia
+      destrói a credibilidade. Prometer e cumprir, sem excecoes.
+    source_file: "[EDC-0085] Dissertando Vendas 1x1.txt"
+    key_quote: "A gente segue, a gente faz o que a gente fala. Se eu falei pra ele que era so em call, eu ia fazer so em call."
+    tags: [integridade, coerencia, promessa, credibilidade]
+
+  - id: EDC-FIL-016
+    name: "Programas Mentais Moldam o Vendedor"
+    description: >
+      Baseado em neurolinguistica. De 0-7 anos e a fase esponjinha (moldagem).
+      De 7-12 consolidacao. De 12+ repeticao. Os condicionamentos do vendedor
+      (verbal, modelagem, acontecimento especifico) determinam seus limites
+      e crencas sobre vendas.
+    source_file: "[EDC-0033] Gatilhos Mentais 2.txt"
+    key_quote: "De 0 a 7 anos e a fase esponjinha. De 7 a 12 consolidacao. Tres condicionamentos: verbal, modelagem e acontecimento especifico."
+    tags: [programacao-mental, neurolinguistica, mindset, condicionamento]
+
+  - id: EDC-FIL-017
+    name: "60% Apresentacao, 40% Fechamento"
+    description: >
+      A apresentacao (linha) e mais importante que o fechamento em si.
+      Se a apresentacao for bem feita, o fechamento flui naturalmente.
+      A maioria dos closers foca demais no fechamento e negligencia a
+      construcao da venda durante a apresentacao.
+    source_file: "[EDC-0054] Curso 21 Mod 2 Aula 3.txt"
+    key_quote: "60% e a linha, a apresentacao. 40% e o fechamento."
+    tags: [apresentacao, fechamento, proporcao, construcao-venda]
+
+  - id: EDC-FIL-018
+    name: "Nao Existe Almoco Gratis"
+    description: >
+      Principio usado para contornar concorrentes que "nao cobram" taxas.
+      Se alguem nao cobra visivelmente, o custo esta embutido em outro lugar.
+      Transparencia sobre precos gera confianca e diferenciacao competitiva.
+    source_file: "[EDC-0088] Aula 47 - Objecoes e tira duvidas.txt"
+    key_quote: "Ninguem trabalha de graca. Se a pessoa nao esta te cobrando nada pra implementar, onde voce acha que esta esse valor?"
+    tags: [transparencia, pricing, concorrencia, confianca]
+
+
+# ============================================================================
+# CAMADA L2: MODELOS MENTAIS (Thinking and decision frameworks)
+# ============================================================================
+modelos_mentais:
+
+  - id: EDC-MM-001
+    name: "GAP: Ponto A (Inferno) vs Ponto B (Ilha Sagrada)"
+    description: >
+      Modelo mental central do SPIN Selling adaptado. O cliente esta no Ponto A
+      (situacao atual, o "inferno") e precisa ir para o Ponto B (situacao
+      desejada, a "ilha sagrada"). O closer deve amplificar a dor do Ponto A
+      e tornar o Ponto B vividamente desejavel, criando um GAP que so o
+      produto/servico pode preencher.
+    source_file: "[EDC-0054] Curso 21 Mod 2 Aula 3.txt"
+    key_quote: "O GAP e o Ponto A, que e o inferno, ate o Ponto B, que e a ilha sagrada."
+    tags: [gap, spin-selling, dor, desejo, ponto-a, ponto-b]
+
+  - id: EDC-MM-002
+    name: "Sapo na Agua Fervendo"
+    description: >
+      Analogia para clientes que nao percebem a gravidade da propria situacao.
+      Assim como o sapo que nao percebe a agua esquentando gradualmente, o
+      cliente se acostumou com a dor e nao enxerga a urgencia de mudar. O
+      closer deve fazer o cliente perceber que a "agua esta fervendo".
+    source_file: "[EDC-0054] Curso 21 Mod 2 Aula 3.txt"
+    key_quote: "O sapo na agua fervendo. Ele nao percebe que a agua esta esquentando."
+    tags: [analogia, urgencia, consciencia, dor, mudanca]
+
+  - id: EDC-MM-003
+    name: "Certeza Emocional vs Certeza Cognitiva"
+    description: >
+      Existem dois tipos de certeza na venda. Certeza cognitiva (racional,
+      "faz sentido") e certeza emocional ("eu sinto que e certo"). A venda
+      de alta performance trabalha ambas, mas a certeza emocional e o gatilho
+      final da decisao de compra.
+    source_file: "[EDC-0023] PRE-PITCH.txt"
+    key_quote: "Certeza emocional versus certeza cognitiva. A decisao final e emocional."
+    tags: [certeza, emocao, cognicao, decisao, BIT]
+
+  - id: EDC-MM-004
+    name: "Faturamento Por Reuniao (Nao Apenas Conversao %)"
+    description: >
+      Metrica mental que muda o paradigma de avaliacao de closers. Em vez de
+      medir apenas taxa de conversao, medir o faturamento medio por reuniao.
+      Um closer pode ter conversao de 20% mas gerar 25k por reuniao, o que
+      e mais valioso que 40% de conversao com ticket baixo.
+    source_file: "[EDC-0054] Curso 21 Mod 2 Aula 3.txt"
+    key_quote: "Faturamento por reuniao, nao apenas conversao. Full Sales atingindo 22k a 26k por apresentacao."
+    tags: [metrica, faturamento, reuniao, conversao, KPI]
+
+  - id: EDC-MM-005
+    name: "3 Categorias de Objecao"
+    description: >
+      Todo tipo de objecao se encaixa em 3 categorias: (1) Credibilidade/
+      Incerteza - o cliente nao confia ou tem duvida, (2) Financeira - o
+      cliente alega nao ter dinheiro, (3) Socio/Esposa - precisa consultar
+      outra pessoa. A regra fundamental e sempre tratar primeiro como
+      credibilidade, pois e a mais comum e a mais disfarçada.
+    source_file: "[EDC-0055] Curso 21 Mod 2 Aula 7.txt"
+    key_quote: "3 categorias: credibilidade/incerteza, financeira, socio/esposa. Sempre trate primeiro como credibilidade."
+    tags: [objecao, categorias, credibilidade, financeiro, socio]
+
+  - id: EDC-MM-006
+    name: "Contornar, Nao Quebrar Objecoes"
+    description: >
+      Modelo mental sobre como lidar com objecoes. O verbo correto e
+      "contornar" (ir ao redor, respeitar, redirecionar), nao "quebrar"
+      (confrontar, destruir, forcar). Quebrar objecoes gera resistencia.
+      Contornar gera concordancia.
+    source_file: "[EDC-0055] Curso 21 Mod 2 Aula 7.txt"
+    key_quote: "Contornar, nao quebrar. Contornar e ir ao redor, respeitar, redirecionar."
+    tags: [objecao, contorno, respeito, persuasao]
+
+  - id: EDC-MM-007
+    name: "Mindset Presuntivo"
+    description: >
+      O closer entra na call pressupondo que a venda vai acontecer. Nao e
+      arrogancia, e autosugestao positiva. A presuncao de venda transmite
+      confianca e seguranca ao cliente, que sente que esta no lugar certo.
+    source_file: "[EDC-0054] Curso 21 Mod 2 Aula 3.txt"
+    key_quote: "Mindset presuntivo. Voce entra na call pressupondo que a venda vai acontecer."
+    tags: [mindset, presuncao, autosugestao, confianca]
+
+  - id: EDC-MM-008
+    name: "Honda: Vender Emocao Antes de Especificacao"
+    description: >
+      Analogia da venda de carros Honda. O vendedor nao fala de motor e
+      especificacoes. Ele faz voce sentar no carro, sentir o cheiro, imaginar
+      dirigindo. Primeiro a emocao (test drive), depois a especificacao.
+      Aplicado a vendas high-ticket: primeiro o metodo/transformacao, depois
+      o produto/features.
+    source_file: "[EDC-0054] Curso 21 Mod 2 Aula 3.txt"
+    key_quote: "Honda nao vende especificacao, vende emocao. Primeiro faz voce sentar no carro."
+    tags: [analogia, emocao, test-drive, apresentacao]
+
+  - id: EDC-MM-009
+    name: "Pontos de Precedencia"
+    description: >
+      Para closers novos que nao tem track record proprio, usar "pontos de
+      precedencia" - conquistas, associacoes, experiencias anteriores que
+      geram credibilidade. Ex: "trabalhei com empresa X", "ja atendi N
+      clientes no setor Y". Emprestar credibilidade de experiencias passadas.
+    source_file: "[EDC-0059] Curso 21 Mod 2 Aula 8.txt"
+    key_quote: "Pontos de precedencia. Conquistas e associacoes anteriores que geram credibilidade."
+    tags: [credibilidade, precedencia, closer-novo, autoridade]
+
+  - id: EDC-MM-010
+    name: "Transferencia de Autoridade"
+    description: >
+      Tecnica de emprestar credibilidade de uma marca, pessoa ou instituicao
+      conhecida para gerar confianca. Ex: "a empresa que atende a Ambev" ou
+      "o metodo usado pelo Flavio Augusto". A autoridade e transferida por
+      associacao.
+    source_file: "[EDC-0059] Curso 21 Mod 2 Aula 8.txt"
+    key_quote: "Transferencia de autoridade. A autoridade e transferida por associacao."
+    tags: [autoridade, credibilidade, associacao, marca]
+
+  - id: EDC-MM-011
+    name: "Perfil DISC do Vendedor (4 Tipos)"
+    description: >
+      Quatro perfis de vendedores baseados em DISC: (1) Executor/Dominante -
+      direto, resultados, (2) Influente - comunicativo, entusiasmado,
+      (3) Estavel - calmo, consistente, (4) Sistematico - analitico, detalhista.
+      Cada perfil requer abordagem de treinamento diferente.
+    source_file: "[EDC-0070] Tipos de Vendedores.txt"
+    key_quote: "Executor, Influente, Estavel, Sistematico. Cada perfil requer treinamento diferente."
+    tags: [DISC, perfil, vendedor, treinamento, lideranca]
+
+  - id: EDC-MM-012
+    name: "Ganha-Ganha-Ganha"
+    description: >
+      Em negociacao, nao basta ganha-ganha (closer + cliente). Deve ser
+      ganha-ganha-ganha: o cliente ganha (solucao), o closer ganha (comissao),
+      e a empresa ganha (receita). Se algum dos tres perde, a negociacao esta
+      errada.
+    source_file: "[EDC-0043] Negocie como Closer Aguia.txt"
+    key_quote: "Ganha-ganha-ganha: cliente ganha, closer ganha, empresa ganha."
+    tags: [negociacao, ganha-ganha, equilibrio, valor]
+
+  - id: EDC-MM-013
+    name: "Personal Trainer: Overdelivery e Retencao"
+    description: >
+      Analogia do personal trainer para vendas. Assim como o personal que
+      entrega mais do que o esperado e mantem o aluno engajado, o closer e
+      a empresa devem fazer overdelivery e manter acompanhamento constante
+      para reter clientes e gerar indicacoes.
+    source_file: "[EDC-0059] Curso 21 Mod 2 Aula 8.txt"
+    key_quote: "Personal trainer: overdelivery e retencao. Entregar mais do que o esperado."
+    tags: [retencao, overdelivery, acompanhamento, indicacao]
+
+  - id: EDC-MM-014
+    name: "Mercado Mudou de 80/20 para 20/80"
+    description: >
+      Antes o mercado era 80% presencial e 20% digital. Agora inverteu para
+      20% presencial e 80% digital. A equipe de vendas deve ser adaptada:
+      SDR (qualifica), Closer (fecha online), CS (retencao), Social Selling
+      (conteudo).
+    source_file: "[EDC-0020] Como Vender Ingressos.txt"
+    key_quote: "O mercado mudou de 80/20 para 20/80. 80% digital agora."
+    tags: [mercado, digital, presencial, adaptacao, equipe]
+
+
+# ============================================================================
+# CAMADA L3: HEURISTICAS (Regras praticas com NUMEROS especificos)
+# ============================================================================
+heuristicas:
+
+  - id: EDC-HEUR-001
+    name: "Introducao: Maximo 5 Minutos"
+    description: >
+      A fase de introducao (quebra-gelo, rapport, FORM, marketing pessoal)
+      deve durar no maximo 5 minutos. Ultrapassar esse tempo significa que
+      o closer esta enrolando e nao conseguiu conectar rapidamente.
+    source_file: "[EDC-0076] Estrutura da Venda de Impacto.txt"
+    key_quote: "A introducao, ela que gira em torno de 5 minutos."
+    tags: [timing, introducao, rapport, tempo]
+
+  - id: EDC-HEUR-002
+    name: "Warm-Up: 5 a 8 Minutos Maximo"
+    description: >
+      O warm-up (aquecimento, quebra-gelo, rapport) nao pode ultrapassar
+      5 a 8 minutos. Quantidade de tempo nao e sinonimo de qualidade de
+      conexao. Encerrar quando os objetivos forem alcancados (ponto comum,
+      rapport, abertura).
+    source_file: "[EDC-0086] Warm-Up e Emocao.txt"
+    key_quote: "5 a 8 minutos estourando. Quantidade nao e sinonimo de qualidade. Encerre o warm-up depois de todos os objetivos forem alcancados."
+    tags: [warm-up, timing, rapport, eficiencia]
+
+  - id: EDC-HEUR-003
+    name: "SPIN Selling: 15 Minutos"
+    description: >
+      O questionario SPIN Selling deve durar aproximadamente 15 minutos.
+      E o momento de fazer perguntas de Situacao, Problema, Implicacao e
+      Necessidade. Nao apressar, mas tambem nao se estender demais.
+    source_file: "[EDC-0076] Estrutura da Venda de Impacto.txt"
+    key_quote: "Questionario Spin Selling, onde voce vai fazer as perguntas e vai durar cerca de 15 minutos."
+    tags: [spin-selling, timing, questionario, perguntas]
+
+  - id: EDC-HEUR-004
+    name: "Apresentacao B2C: 40-45 Minutos Total"
+    description: >
+      Para vendas B2C, a apresentacao completa (incluindo slides) deve
+      durar entre 40 e 45 minutos. Esse e o tempo otimo para manter
+      atencao e cobrir todos os pontos sem perder o cliente.
+    source_file: "[EDC-0025] TREINAMENTO APRESENTACAO COMERCIAL.txt"
+    key_quote: "B2C 40 a 45 minutos."
+    tags: [b2c, timing, apresentacao, slides]
+
+  - id: EDC-HEUR-005
+    name: "Taxa de Conversao Alvo: 25-40%"
+    description: >
+      A Venda de Alta Performance, quando executada corretamente, deve gerar
+      taxa de conversao entre 25% e 40%. Isso significa fechar 1 em cada 3
+      ou 4 calls. Valores abaixo indicam problemas na execucao. A Full Sales
+      reporta 88.12% em cenarios otimos.
+    source_file: "[EDC-0076] Estrutura da Venda de Impacto.txt"
+    key_quote: "Uma taxa de aproveitamento de 20%, 25%, 30%, ou seja, uma call em cada quatro."
+    tags: [conversao, meta, KPI, performance]
+
+  - id: EDC-HEUR-006
+    name: "88.12% de Conversao (Full Sales Benchmark)"
+    description: >
+      Benchmark interno da Full Sales para taxa de conversao maxima
+      alcancavel com a metodologia completa. Numero mencionado como
+      resultado de caso real usando todas as tecnicas do EAD.
+    source_file: "[EDC-0019] PEGANDO O PAGAMENTO.txt"
+    key_quote: "88.12% de conversao."
+    tags: [benchmark, conversao, full-sales, resultado]
+
+  - id: EDC-HEUR-007
+    name: "Pacto Sim ou Nao: 90% Dizem Sim"
+    description: >
+      Quando o pacto de sim ou nao e feito corretamente, com confianca e
+      construcao previa adequada, 90% dos clientes confirmam positivamente
+      ("pode contar com meu sim ou nao"). Isso cria compromisso psicologico.
+    source_file: "[EDC-0009] Pacto Final.txt"
+    key_quote: "90% das vezes a pessoa diz sim quando o pacto e feito corretamente."
+    tags: [pacto, compromisso, conversao, tecnica]
+
+  - id: EDC-HEUR-008
+    name: "30-35% de Fechamento Apos Pacto Final"
+    description: >
+      Apos o pacto final ser aceito, a taxa de conversao em fechamento real
+      e de aproximadamente 30-35%. O pacto nao garante a venda, mas aumenta
+      drasticamente a probabilidade comparado a nao fazer pacto.
+    source_file: "[EDC-0009] Pacto Final.txt"
+    key_quote: "30 a 35% de taxa de fechamento apos o pacto."
+    tags: [pacto-final, conversao, fechamento, KPI]
+
+  - id: EDC-HEUR-009
+    name: "80% Que Falam Amanha Nao Pagam"
+    description: >
+      Heuristica fundamental que justifica o fechamento em call. Apenas
+      20% dos clientes que saem da call com promessa de pagar no dia
+      seguinte efetivamente pagam. O restante desiste, esfria ou encontra
+      outra opcao.
+    source_file: "[EDC-0019] PEGANDO O PAGAMENTO.txt"
+    key_quote: "80% das pessoas que falam que vao pagar amanha, nao pagam."
+    tags: [conversao, urgencia, follow-up, estatistica]
+
+  - id: EDC-HEUR-010
+    name: "Sinal de Compromisso: Minimo R$1.000"
+    description: >
+      Quando o cliente nao consegue fechar na call mas demonstra intencao
+      real, pedir sinal de compromisso reembolsavel de no minimo R$1.000.
+      Valor abaixo nao gera compromisso suficiente. O sinal garante que o
+      cliente retorna para segunda conversa.
+    source_file: "[EDC-0049] Curso 21 Aula 3.txt"
+    key_quote: "Sinal reembolsavel, minimo R$1.000."
+    tags: [sinal, compromisso, valor-minimo, reembolsavel]
+
+  - id: EDC-HEUR-011
+    name: "Comissao: 5-30% Dependendo do Produto"
+    description: >
+      Faixas de comissao por tipo de produto: Cursos gravados 5-30%,
+      Investimentos 5-20%, Servicos 5-20%, Consultoria 5-20%, Eventos
+      5-30%, Mentorias 5-20%. A porcentagem varia conforme margem,
+      complexidade e envolvimento do closer.
+    source_file: "[EDC-0064] Remuneracao.txt"
+    key_quote: "Cursos gravados 5-30%, Investimentos 5-20%, Servicos 5-20%, Consultoria 5-20%, Eventos 5-30%, Mentorias 5-20%."
+    tags: [comissao, remuneracao, faixa, produto]
+
+  - id: EDC-HEUR-012
+    name: "Faturamento por Reuniao: 22k-26k (Full Sales)"
+    description: >
+      Benchmark interno da Full Sales para faturamento medio por reuniao/
+      apresentacao. Mais relevante que taxa de conversao isolada. Um closer
+      que fecha menos mas com ticket mais alto pode gerar mais receita.
+    source_file: "[EDC-0054] Curso 21 Mod 2 Aula 3.txt"
+    key_quote: "Full Sales atingindo 22k a 26k por apresentacao."
+    tags: [faturamento, reuniao, benchmark, KPI, ticket]
+
+  - id: EDC-HEUR-013
+    name: "Contratar e Avaliar em 1 Mes"
+    description: >
+      Em um mes de trabalho ja e possivel saber se o vendedor novo vai
+      performar ou nao. Nao arrastar a avaliacao. O vendedor ja deve
+      estar vendendo desde o primeiro dia (paralelo ao treinamento).
+    source_file: "[EDC-0073] Curso 16 Aula 6 - Vendedor Novo.txt"
+    key_quote: "Em um mes voce ja tem que saber se ele e bom ou nao."
+    tags: [contratacao, avaliacao, prazo, vendedor-novo]
+
+  - id: EDC-HEUR-014
+    name: "Objecao 'Preciso Pensar': 80% das Vezes e Preco"
+    description: >
+      Quando o cliente diz "preciso pensar", em 80% dos casos a verdadeira
+      objecao e financeira (preco). Nao aceitar a objecao superficial, isolar
+      e descobrir a objecao real. Usar escala de 0 a 10 para identificar.
+    source_file: "[EDC-0055] Curso 21 Mod 2 Aula 7.txt"
+    key_quote: "Se a objecao e 'preciso pensar', 80% das vezes e preco."
+    tags: [objecao, preco, pensar, isolamento]
+
+  - id: EDC-HEUR-015
+    name: "Retencao: Custa 5-7x Mais Adquirir Novo Cliente (Kotler)"
+    description: >
+      Referencia a Philip Kotler: adquirir um novo cliente custa entre
+      5 a 7 vezes mais do que reter um existente. Justifica investimento
+      em pos-vendas, fidelizacao e criacao de promotores da marca.
+    source_file: "[EDC-0045] Pos-vendas.txt"
+    key_quote: "Adquirir um novo cliente custa 5 a 7 vezes mais do que reter um existente. Kotler."
+    tags: [retencao, CAC, kotler, pos-vendas, fidelizacao]
+
+  - id: EDC-HEUR-016
+    name: "Escala 0 a 10 Para Medir Compromisso"
+    description: >
+      Usar perguntas de escala de 0 a 10 para medir o nivel de compromisso
+      e interesse do cliente. Ex: "De 0 a 10, quanto voce quer resolver esse
+      problema?". Se abaixo de 7, o rapport ou SPIN precisam ser refeitos.
+    source_file: "[EDC-0005] Questionario Spin Selling.txt"
+    key_quote: "De 0 a 10, quanto voce quer resolver esse problema?"
+    tags: [escala, compromisso, medicao, spin, qualificacao]
+
+  - id: EDC-HEUR-017
+    name: "Meta: 50% na Primeira Semana, 50% na Segunda"
+    description: >
+      Regra de distribuicao de meta mensal. Buscar atingir 50% da meta
+      na primeira semana do mes e 50% na segunda. O restante e "lucro"
+      (bonus acima da meta). Nao comecar o mes lento.
+    source_file: "[EDC-0086] Warm-Up e Emocao.txt"
+    key_quote: "50% da meta na primeira semana e 50% na segunda semana, o resto e lucro."
+    tags: [meta, distribuicao, semana, ritmo, performance]
+
+  - id: EDC-HEUR-018
+    name: "Ticket de Eventos por Tipo de Audiencia"
+    description: >
+      Faixas de ticket para eventos por temperatura da audiencia:
+      Eventos de entrada (audiencia fria): R$97-497. Eventos mistos:
+      R$997-2997. Eventos de fundo de funil (quente): R$3k-10k+.
+      Masterminds: 30-40 pessoas a R$50k cada.
+    source_file: "[EDC-0084] Mod 4 Aula 8 - Eventos.txt"
+    key_quote: "Entrada R$97-497, Misto R$997-2997, Fundo de funil R$3k-10k+, Mastermind 30 pessoas a 50k."
+    tags: [eventos, ticket, audiencia, frio, quente, mastermind]
+
+  - id: EDC-HEUR-019
+    name: "Cada Bonus Deve Ser Valorizado por 1+ Minuto"
+    description: >
+      Na apresentacao da oferta, cada bonus deve ser apresentado e valorizado
+      por no minimo 1 minuto. Nao listar rapidamente. Dedicar tempo para que
+      o cliente entenda o valor individual de cada bonus.
+    source_file: "[EDC-0042] Oferta Irresistivel.txt"
+    key_quote: "Valorize cada bonus por pelo menos 1 minuto."
+    tags: [bonus, apresentacao, valor, tempo, oferta]
+
+  - id: EDC-HEUR-020
+    name: "3 Cenarios de Negociacao"
+    description: >
+      Antes de entrar na negociacao, preparar 3 cenarios: (1) Cenario Ideal -
+      o melhor resultado possivel, (2) Cenario Possivel - resultado aceitavel,
+      (3) Cenario Impossivel - limite minimo que nao pode ser ultrapassado.
+      Negociar sabendo exatamente esses 3 limites.
+    source_file: "[EDC-0043] Negocie como Closer Aguia.txt"
+    key_quote: "3 cenarios: ideal, possivel e impossivel."
+    tags: [negociacao, cenarios, preparacao, limites]
+
+  - id: EDC-HEUR-021
+    name: "Skills Wheel: 12 Dimensoes do Closer"
+    description: >
+      Radar de 12 habilidades para avaliar o closer: comunicacao, escuta ativa,
+      persuasao, resiliencia, empatia, adaptabilidade, conhecimento do produto,
+      gestao do tempo, inteligencia emocional, storytelling, negociacao,
+      fechamento. Avaliar de 1 a 10 cada dimensao.
+    source_file: "[EDC-0067] Skills Wheel.txt"
+    key_quote: "12 dimensoes do closer avaliadas de 1 a 10."
+    tags: [skills, avaliacao, radar, dimensoes, desenvolvimento]
+
+
+# ============================================================================
+# CAMADA L4: FRAMEWORKS (Structured methodologies with named steps)
+# ============================================================================
+frameworks:
+
+  - id: EDC-FW-001
+    name: "Estrutura da Venda de Alta Performance (Full Sales)"
+    description: >
+      Framework completo da venda de impacto com etapas sequenciais:
+      1. INTRODUCAO (5min) - Recepcao, quebra-gelo, FORM, rapport, marketing pessoal, pacto inicio
+      2. SPIN SELLING (15min) - Situacao, Problema, Implicacao, Necessidade + pacto sim/nao
+      3. APRESENTACAO/PITCH - Credibilidade empresa, Metodo, Produto + pactos intermediarios
+      4. ANCORAGEM - Contraste de valor, comparacao com alternativas
+      5. FECHAMENTO - Valor tabela, sustentacao, valor protagonista, cartas na manga
+      Total: ~1-1.5 horas. Meta conversao: 25-40%.
+    source_file: "[EDC-0076] Estrutura da Venda de Impacto.txt"
+    key_quote: "Primeira etapa introducao 5min, questionario SPIN 15min, apresentacao pitch, ancoragem, fechamento."
+    tags: [venda-alta-performance, estrutura-completa, full-sales, etapas]
+
+  - id: EDC-FW-002
+    name: "SPIN Selling (Adaptacao BR)"
+    description: >
+      Framework de perguntas adaptado para o mercado brasileiro:
+      S - SITUACAO: Perguntas sobre estado atual (faturamento, equipe, processos)
+      P - PROBLEMA: Perguntas sobre dores e desafios
+      I - IMPLICACAO: Perguntas sobre consequencias de nao resolver
+      N - NECESSIDADE: Perguntas que fazem o cliente verbalizar a necessidade
+      Usar mind map enquanto o cliente fala. Incluir escala 0-10 para medir dor.
+      Construir o GAP (Ponto A -> Ponto B) durante o questionario.
+    source_file: "[EDC-0005] Questionario Spin Selling.txt"
+    key_quote: "Situacao, Problema, Implicacao, Necessidade de solucao. Mind map enquanto o cliente fala."
+    tags: [spin-selling, perguntas, questionario, gap, mind-map]
+
+  - id: EDC-FW-003
+    name: "FORM Method (Rapport)"
+    description: >
+      Framework de rapport para construir conexao rapida:
+      F - FAMILIA: Perguntar sobre familia, filhos, situacao pessoal
+      O - OCUPACAO: Perguntar sobre trabalho, cargo, empresa, rotina
+      R - RECRIACAO: Perguntar sobre hobbies, lazer, o que faz pra relaxar
+      M - MOTIVACAO: Perguntar sobre sonhos, objetivos, o que move a pessoa
+      Usar para encontrar PONTO EM COMUM com o cliente.
+    source_file: "[EDC-0003] INTRODUCAO (QUEBRA GELO).txt"
+    key_quote: "Familia, Ocupacao, Recriacao, Motivacao. Achar o ponto em comum."
+    tags: [FORM, rapport, conexao, ponto-comum, introducao]
+
+  - id: EDC-FW-004
+    name: "Sistema de Pactos (Microfechamentos)"
+    description: >
+      Framework de micropactos ao longo da venda:
+      1. PACTO DE INICIO - Apos introducao, transicao para questionario
+      2. PACTO SIM OU NAO - Apos SPIN, compromisso de decisao em call
+      3. PACTOS DE CREDIBILIDADE - Durante pitch, confirmacoes de entendimento
+      4. PACTO DE ORCAMENTO - "Se caber no orcamento, fecha hoje?"
+      5. PACTO FINAL - Antes do preco, compromisso de decisao imediata
+      Cada pacto e um microfechamento sem pegar dinheiro.
+    source_file: "[EDC-0077] Pacto Sim ou Nao.txt"
+    key_quote: "O que e um pacto? E um micro fechamento sem pegar dinheiro."
+    tags: [pacto, microfechamento, compromisso, sistema, sequencia]
+
+  - id: EDC-FW-005
+    name: "6 Passos do Contorno de Objecao"
+    description: >
+      Framework completo para lidar com objecoes:
+      1. DESPRESSURIZAR - Concordar, elogiar, mostrar que entende ("Eu entendo perfeitamente")
+      2. TIE-DOWN/AMARRA - Amarrar a um ponto de concordancia
+      3. ISOLAR A OBJECAO - "De 0 a 10, o que te impede?" Descobrir objecao real
+      4. CONFIRMACAO DUPLA - Confirmar que e ESSA a unica objecao
+      5. LIDAR COM A OBJECAO - Mudar angulo, usar metafora, reframe
+      6. PEDIR PELA VENDA - Voltar ao fechamento ("Entao podemos seguir?")
+      Nao interrumpir o cliente. Usar silencio. Falar devagar.
+    source_file: "[EDC-0055] Curso 21 Mod 2 Aula 7.txt"
+    key_quote: "Despressurizar, tie-down, isolar, confirmacao dupla, lidar com objecao, pedir pela venda."
+    tags: [objecao, contorno, 6-passos, despressurizar, tie-down]
+
+  - id: EDC-FW-006
+    name: "Ancoragem de Valor (Contraste)"
+    description: >
+      Framework de ancoragem para criar contraste de valor:
+      1. ANCORAGEM ALTA - Mostrar quanto custaria fazer sozinho ou por outro caminho
+      2. VALOR DE TABELA - Apresentar preco "normal" do produto/servico
+      3. SUSTENTACAO - Provar que o valor de tabela vale a pena (cases, ROI)
+      4. VALOR PROTAGONISTA - Revelar preco especial para decisao em call
+      5. CAF - Justificar desconto: Custos Administrativos e Financeiros economizados
+      O gatilho mental do contraste faz o preco final parecer muito acessivel.
+    source_file: "[EDC-0008] ANCORAGEM.txt"
+    key_quote: "Proporciona um contraste, um gatilho mental do contraste."
+    tags: [ancoragem, contraste, valor, tabela, protagonista, CAF]
+
+  - id: EDC-FW-007
+    name: "Ritual de Pre-Atendimento (5 Passos)"
+    description: >
+      Framework de preparacao antes de cada call:
+      1. PESQUISA - Verificar Instagram, LinkedIn, site do cliente (3-5 min)
+      2. PREPARACAO MENTAL - Autosugestao, respiracao, mindset presuntivo
+      3. AMBIENTE - Iluminacao, camera, fundo neutro, audio limpo
+      4. MATERIAIS - Slides prontos, CRM aberto, contrato preparado
+      5. OBJETIVO - Definir meta da call (fechamento, 2a reuniao, sinal)
+    source_file: "[EDC-0001] Ritual de Pre-Atendimento.txt"
+    key_quote: "Pesquisa, preparacao mental, ambiente, materiais, objetivo."
+    tags: [pre-atendimento, ritual, preparacao, pesquisa, ambiente]
+
+  - id: EDC-FW-008
+    name: "Mirror Rapport (9 Dimensoes)"
+    description: >
+      Framework avancado de espelhamento para rapport:
+      1. TOM de voz - Espelhar grave/agudo
+      2. VOLUME - Espelhar alto/baixo
+      3. RITMO - Espelhar rapido/lento
+      4. FRASES REPETIDAS - Usar as mesmas palavras do cliente
+      5. ESTADO INTERNO - Espelhar emocao (animado, preocupado)
+      6. EXPRESSOES FACIAIS - Espelhar sorrisos, seriedade
+      7. POSTURA - Espelhar posicao corporal
+      8. MOVIMENTOS - Espelhar gestos
+      9. RESPIRACAO - Espelhar ritmo respiratorio (mais potente de todos)
+    source_file: "[EDC-0040] Rapport Perito.txt"
+    key_quote: "Tom, volume, ritmo, frases repetidas, estado interno, expressoes faciais, postura, movimentos, respiracao."
+    tags: [rapport, mirror, espelhamento, 9-dimensoes, respiracao]
+
+  - id: EDC-FW-009
+    name: "Apresentacao: Empresa -> Metodo -> Produto"
+    description: >
+      Sequencia obrigatoria da apresentacao/pitch:
+      1. EMPRESA - Credibilidade, historia, resultados, provas sociais
+      2. METODO - Como transforma (processo, etapas, diferenciais)
+      3. PRODUTO - Como entrega (features, bonus, formato)
+      "Tudo que voce falar tem que ser soco no queixo."
+      Antecipar objecoes DURANTE a apresentacao, nao esperar o fechamento.
+    source_file: "[EDC-0007] APRESENTACAO PITCH PADRAO.txt"
+    key_quote: "Empresa, metodo e produto. Tudo que voce falar tem que ser soco no queixo."
+    tags: [apresentacao, pitch, empresa, metodo, produto, sequencia]
+
+  - id: EDC-FW-010
+    name: "Closer Aguia Methodology"
+    description: >
+      Framework de gestao de closers por Yuri:
+      PILARES: Preparacao Interna (mindset, emocional) + Preparacao Externa (tecnica, produto)
+      EQUIPE: SDR (qualifica) -> Closer (fecha) -> CS (retem) -> Social Selling (conteudo)
+      SKILLS: Roda de 12 habilidades para avaliacao (Skills Wheel)
+      NEGOCIACAO: 3 cenarios (ideal, possivel, impossivel)
+      PRINCIPIO: Ganha-ganha-ganha (cliente + closer + empresa)
+      LIDERANCA: PTMA (Planejar, Treinar, Motivar+Acompanhar, Cobrar+Feedback)
+    source_file: "[EDC-0061] a [EDC-0068] Serie Closer Aguia"
+    key_quote: "Preparacao Interna + Externa. SDR, Closer, CS, Social Selling."
+    tags: [closer-aguia, yuri, pilares, equipe, skills-wheel, gestao]
+
+  - id: EDC-FW-011
+    name: "Funil de Eventos (Product Ladder)"
+    description: >
+      Framework de escada de produtos usando eventos por Aline:
+      AUDIENCIA: Fria -> Morna -> Quente
+      EVENTOS:
+      - Entrada (fria): workshops, lives, webinars - R$97-497
+      - Mistos (morna): imersoes, seminarios - R$997-2997
+      - Fundo de funil (quente): VIP, mentorias - R$3k-10k+
+      - Mastermind: 30-40 pessoas, R$50k each
+      Cada evento alimenta o proximo nivel. Vender DENTRO do evento e obrigatorio.
+    source_file: "[EDC-0084] Mod 4 Aula 8 - Eventos.txt"
+    key_quote: "Entrada R$97-497, Misto R$997-2997, Fundo de funil R$3k-10k+."
+    tags: [eventos, funil, product-ladder, audiencia, aline]
+
+  - id: EDC-FW-012
+    name: "Framework de Fechamento Completo"
+    description: >
+      Sequencia de tecnicas de fechamento em ordem:
+      1. VALOR DE TABELA - Apresentar e sustentar (silencio apos anunciar)
+      2. SUSTENTACAO - Provar valor com cases, ROI, comparacoes
+      3. PACTO DE ORCAMENTO - "Se couber, fecha hoje?"
+      4. VALOR PROTAGONISTA - Revelar preco especial + justificativa CAF
+      5. DUPLA CONFIRMACAO - Confirmar entendimento antes de cobrar
+      6. CARTAS NA MANGA - Quedas, bonus extras, parcelamento diferenciado
+      7. TIRAR DA MESA - Fingir encerrar negociacao para baixar guarda
+      8. DOWNSELL - Produto menor se cliente verdadeiramente nao pode
+      9. SINAL DE COMPROMISSO - Ultimo recurso, minimo R$1000
+      10. PEGANDO O PAGAMENTO - Enviar link, aguardar comprovante em call
+    source_file: "[EDC-0013] a [EDC-0019] + [EDC-0048] a [EDC-0051]"
+    key_quote: "Valor tabela, sustentacao, pacto orcamento, protagonista, dupla confirmacao, cartas na manga, tirar da mesa, downsell, sinal, pagamento."
+    tags: [fechamento, completo, sequencia, tecnicas, pagamento]
+
+  - id: EDC-FW-013
+    name: "CAF Narrative (Justificativa de Desconto)"
+    description: >
+      Framework narrativo para justificar o desconto do valor protagonista
+      sem desvalorizar o produto:
+      1. Sustentar valor de tabela completamente
+      2. Fazer pacto de fechamento em call
+      3. Explicar: "Normalmente pessoas demoram 30 dias para decidir"
+      4. "Esses 30 dias tem custo comercial, administrativo e financeiro (CAF)"
+      5. "Para pessoas decididas como voce, pego esse custo e dou como bonificacao"
+      6. Revelar valor protagonista
+      "Nao e desconto porque sou legal. E economia que eu passo pra voce."
+    source_file: "[EDC-0049] Curso 21 Aula 3.txt"
+    key_quote: "Custos administrativos e financeiros. Nao e desconto, e economia que eu passo pra voce."
+    tags: [CAF, desconto, justificativa, narrativa, protagonista]
+
+  - id: EDC-FW-014
+    name: "BITs (Belief, Identity, Trust)"
+    description: >
+      Framework para construir certeza no cliente antes do pitch:
+      B - BELIEF (Crenca): Fazer o cliente acreditar que a solucao funciona
+      I - IDENTITY (Identidade): Fazer o cliente se ver como alguem que merece/precisa
+      T - TRUST (Confianca): Fazer o cliente confiar no closer e na empresa
+      Trabalhados no pre-pitch para criar base emocional e cognitiva.
+    source_file: "[EDC-0023] PRE-PITCH.txt"
+    key_quote: "BITs: Belief, Identity, Trust."
+    tags: [BIT, crenca, identidade, confianca, pre-pitch]
+
+  - id: EDC-FW-015
+    name: "Tecnica 'Por Tras dos Panos'"
+    description: >
+      Framework de transparencia para gerar confianca no fechamento:
+      1. Apos cliente demonstrar interesse, "mostrar os bastidores"
+      2. Compartilhar tela mostrando CRM, contrato, plataforma
+      3. "Vou te mostrar como funciona por tras dos panos"
+      4. Preencher dados do cliente no contrato/CRM enquanto conversa
+      5. Naturaliza o processo de compra e reduz ansiedade
+    source_file: "[EDC-0048] Curso 21 Aula 2.txt"
+    key_quote: "Por tras dos panos. Mostrar os bastidores - CRM, contrato, plataforma."
+    tags: [bastidores, transparencia, CRM, contrato, naturalizar]
+
+  - id: EDC-FW-016
+    name: "Tecnica 'Escolha 2 de 3 Bonus'"
+    description: >
+      Framework de fechamento usando paradoxo de escolha controlado:
+      1. Apresentar 3 bonus valiosos
+      2. Dizer ao cliente: "Voce pode escolher 2 dos 3"
+      3. O cliente instintivamente quer os 3
+      4. Oferecer os 3 como "excepcao" ou "condicao especial"
+      5. Cliente sente que ganhou mais do que esperava
+    source_file: "[EDC-0048] Curso 21 Aula 2.txt"
+    key_quote: "Escolha 2 de 3 bonus. O cliente vai querer os 3."
+    tags: [bonus, escolha, paradoxo, fechamento, psicologia]
+
+  - id: EDC-FW-017
+    name: "Estrategia de 2 Calls (Quando Falta Decisor)"
+    description: >
+      Framework para casos sem todos os decisores presentes:
+      1. NUNCA mostrar preco sem todos os decisores
+      2. Fazer toda a apresentacao normalmente
+      3. No final: "Para eu montar a melhor proposta, preciso falar com voce e [decisor]"
+      4. Agendar segunda call com todos
+      5. Se possivel, pegar PIX de honra/compromisso (reembolsavel) para garantir retorno
+      6. Na segunda call, focar em fechamento (apresentacao ja foi feita)
+    source_file: "[EDC-0057] Curso 21 Mod 2 Aula 6.txt"
+    key_quote: "Nunca mostra preco sem todos os decisores. PIX de honra para garantir retorno."
+    tags: [2-calls, decisor, socio, pix-honra, estrategia]
+
+
+# ============================================================================
+# CAMADA L5: METODOLOGIAS (Step-by-step processes, playbooks detalhados)
+# ============================================================================
+metodologias:
+
+  - id: EDC-MET-001
+    name: "Metodologia Completa de Fechamento em Call"
+    description: >
+      Playbook passo-a-passo para fechar na call:
+      STEP 1: Apresentar valor de tabela com confianca e fazer SILENCIO
+      STEP 2: Sustentar valor (cases, ROI, depoimentos) - nao baixar preco
+      STEP 3: Perguntar compromisso de orcamento: "Se caber, fecha hoje?"
+      STEP 4: Revelar valor protagonista + narrativa CAF
+      STEP 5: Dupla confirmacao: "So pra confirmar, o valor e X, o formato e Y"
+      STEP 6: "Anunciar a venda": "Parabens, voce esta entrando para [programa]"
+      STEP 7: Enviar link/pix e aguardar comprovante SEM sair da call
+      STEP 8: Se resistencia, usar cartas na manga (bonus, parcelas, downsell)
+      STEP 9: Se forte resistencia, "tirar da mesa" (simular fim da negociacao)
+      STEP 10: Ultimo recurso: sinal de compromisso (min R$1000, reembolsavel)
+      REGRA: Nunca fechar no protagonista se cliente ja disse sim no tabela.
+      REGRA: "Argumenta, melhora e fecha" - o combo de 3 acoes.
+    source_file: "[EDC-0048] + [EDC-0049] + [EDC-0019]"
+    key_quote: "Argumenta, melhora e fecha. Nunca fechar no protagonista se o cliente ja disse sim no tabela."
+    tags: [fechamento, call, passo-a-passo, protagonista, pagamento]
+
+  - id: EDC-MET-002
+    name: "Metodologia SPIN Selling Completa (BR)"
+    description: >
+      Playbook detalhado do SPIN adaptado:
+      PREPARACAO: Ter mind map pronto. Abrir CRM. Preparar perguntas por nicho.
+      TRANSICAO: Sair do warm-up suavemente: "Agora que nos conhecemos melhor..."
+
+      S - SITUACAO (3-5 perguntas):
+        "Qual seu faturamento atual?"
+        "Quantos funcionarios?"
+        "Como funciona seu processo de vendas hoje?"
+        "Ja tentou algo para melhorar?"
+
+      P - PROBLEMA (3-5 perguntas):
+        "Qual sua maior dificuldade hoje?"
+        "O que te impede de crescer?"
+        "Onde voce sente que perde mais dinheiro?"
+
+      I - IMPLICACAO (2-3 perguntas - AMPLIFICAR DOR):
+        "Se continuar assim por mais 1 ano, o que acontece?"
+        "Quanto dinheiro ja perdeu com isso?"
+        "Como isso afeta sua familia/saude?"
+
+      N - NECESSIDADE (2-3 perguntas - CLIENTE VERBALIZA):
+        "Se tivesse uma solucao, como seria o ideal?"
+        "De 0 a 10, quanto quer resolver isso?"
+        "O que mudaria na sua vida se resolvesse?"
+
+      REGRA: Nao corrigir o cliente durante SPIN. So ouvir e anotar.
+      REGRA: "Quanto mais a pessoa fala, mais ela compra."
+    source_file: "[EDC-0005] + [EDC-0029] + [EDC-0087]"
+    key_quote: "Situacao, Problema, Implicacao, Necessidade. Quanto mais a pessoa fala, mais ela compra."
+    tags: [spin-selling, metodologia, perguntas, mind-map, completo]
+
+  - id: EDC-MET-003
+    name: "Metodologia de Onboarding do Vendedor Novo (8 Semanas)"
+    description: >
+      Playbook de 8 semanas para novos vendedores:
+      SEMANA 1 - ONBOARD: Cultura, organizacao, empresa, produto. O basico.
+      SEMANA 2 - TREINAMENTO TECNICO: Formulacao, produto, especificacoes.
+      SEMANA 3 - TREINAMENTO COMPORTAMENTAL: Mindset, inteligencia emocional, habitos.
+      SEMANA 4 - TREINAMENTO DE CAMPO: Levar para assistir vendas ao vivo. Shadowing.
+      SEMANA 5 - LABORATORIO DE VENDAS: Simular cenarios. "O que faria se...?"
+      SEMANAS 6-8 - AJUSTES: Ajuste tecnico + comportamental + campo.
+      POS 8 SEMANAS - TREINAMENTO MENSAL: Desenvolvimento, planejamento, especializacao.
+      REGRA: Vendedor ja vende desde semana 1 (paralelo ao treinamento).
+      REGRA: Em 1 mes, decidir se fica ou sai.
+    source_file: "[EDC-0073] Curso 16 Aula 6 - Vendedor Novo.txt"
+    key_quote: "Primeira semana onboard, segunda tecnico, terceira comportamental, quarta campo, quinta laboratorio, sexta a oitava ajustes."
+    tags: [onboarding, vendedor-novo, 8-semanas, treinamento, cronograma]
+
+  - id: EDC-MET-004
+    name: "Metodologia PTMA (Ciclo de Gestao)"
+    description: >
+      Ciclo de gestao de equipe de vendas:
+      P - PLANEJAR: Definir metas, KPIs, estrategia, alocacao de recursos
+      T - TREINAR: 87% comportamental + 13% tecnico. Treino diario.
+      M/A - MOTIVAR + ACOMPANHAR: Reconhecer, celebrar, monitorar metricas diarias
+      C/F - COBRAR + FEEDBACK: Cobrar resultados com dados, dar feedback construtivo
+      CICLO: P -> T -> M/A -> C/F -> volta ao P (continuo, nao linear)
+      REGRA: Nao pular etapas. Treinar sem cobrar e omissao. Cobrar sem treinar e injustica.
+    source_file: "[EDC-0072] PTMA.txt"
+    key_quote: "Planejar, Treinar, Motivar+Acompanhar, Cobrar+Feedback. Ciclo continuo."
+    tags: [PTMA, gestao, ciclo, lideranca, equipe]
+
+  - id: EDC-MET-005
+    name: "Metodologia de Contorno de Objecao (Detalhada)"
+    description: >
+      Playbook detalhado para cada tipo de objecao:
+
+      OBJECAO "PRECISO PENSAR":
+      1. Despressurizar: "Entendo perfeitamente, e uma decisao importante"
+      2. Isolar: "Me ajuda a entender, pensar sobre o que exatamente?"
+      3. Se preco: Ir para cartas na manga (parcelamento, downsell)
+      4. Se credibilidade: Voltar a cases e provas sociais
+      5. Pedir pela venda: "Com essa nova informacao, faz sentido seguir?"
+
+      OBJECAO "NAO TENHO DINHEIRO":
+      1. Despressurizar: "Entendo, ninguem quer se comprometer sem ter certeza"
+      2. Isolar: "Se o valor nao fosse um problema, voce fecharia agora?"
+      3. Se SIM: Parcelamento, sinal de compromisso, cartao
+      4. Se NAO: Voltar para credibilidade (a objecao real nao era dinheiro)
+      5. Ultimo recurso: Downsell ou sinal reembolsavel
+
+      OBJECAO "PRECISO FALAR COM SOCIO/ESPOSA":
+      1. Despressurizar: "Claro, decisao em conjunto e muito madura"
+      2. Isolar: "Se dependesse so de voce, fecharia?"
+      3. Se SIM: Agendar 2a call com decisor + PIX de honra
+      4. Se NAO: Tratar como credibilidade (usou socio como desculpa)
+
+      REGRA: Multiplos "nao" sao normais. Persistir sem insistir.
+      REGRA: "Nao" pode significar "nao agora" ou "nao entendi".
+    source_file: "[EDC-0055] + [EDC-0036] + [EDC-0088]"
+    key_quote: "Despressurizar, isolar, lidar, pedir pela venda. Persistir sem insistir."
+    tags: [objecao, contorno, playbook, pensar, dinheiro, socio]
+
+  - id: EDC-MET-006
+    name: "Metodologia de Rapport FORM + Mirror"
+    description: >
+      Playbook completo de rapport combinando FORM e espelhamento:
+      STEP 1: ABERTURA - Cumprimento caloroso, sorriso, postura aberta
+      STEP 2: FORM - Familia, Ocupacao, Recriacao, Motivacao (2-3 perguntas)
+      STEP 3: PONTO COMUM - Identificar e verbalizar semelhanca
+      STEP 4: APRECIACAO SINCERA - Elogiar algo genuino sobre o cliente
+      STEP 5: MIRROR - Espelhar tom, ritmo, volume, postura, respiracao
+      STEP 6: MARKETING PESSOAL - Breve credencial do closer (30 segundos)
+      STEP 7: 3 INTENCOES - "Nao estou aqui pra vender, estou pra contribuir"
+      STEP 8: TRANSICAO - "Agora que nos conhecemos, quero entender melhor sua situacao"
+      TIMING: Maximo 5-8 minutos. Se cliente for direto, ir rapido.
+      REGRA: Se cliente monossilabico, buscar "fio para puxar" e ir no tempo dele.
+    source_file: "[EDC-0003] + [EDC-0040] + [EDC-0086]"
+    key_quote: "FORM para conexao. Mirror para espelhamento. 3 intencoes para abertura."
+    tags: [rapport, FORM, mirror, ponto-comum, marketing-pessoal]
+
+  - id: EDC-MET-007
+    name: "Metodologia de Pegando o Pagamento"
+    description: >
+      Playbook para o momento critico de receber o pagamento em call:
+      STEP 1: DUPLA CONFIRMACAO - Repetir valor, formato e condicoes
+      STEP 2: ANUNCIAR A VENDA - "Parabens! Voce esta entrando para [programa]"
+      STEP 3: ENVIAR LINK - Compartilhar link de pagamento no chat da call
+      STEP 4: MICROACOES - "Recebeu o link? Abriu? Esta certinho?"
+      STEP 5: AGUARDAR - Permanecer na call enquanto cliente preenche/paga
+      STEP 6: CONFIRMAR COMPROVANTE - "Me envia o comprovante aqui"
+      STEP 7: SE TRAVAR - "Se der algum erro, me avisa que eu resolvo aqui"
+      STEP 8: POS-PAGAMENTO - Onboarding imediato, grupo, proximos passos
+      REGRA: NUNCA sair da call antes do comprovante.
+      REGRA: Postura relaxada, voz calma. Naturalidade e fundamental.
+    source_file: "[EDC-0019] PEGANDO O PAGAMENTO.txt"
+    key_quote: "Nunca sair da call antes do comprovante. Postura relaxada, voz calma."
+    tags: [pagamento, comprovante, call, link, microacoes]
+
+  - id: EDC-MET-008
+    name: "Metodologia 'Tirar da Mesa'"
+    description: >
+      Playbook da tecnica de simular fim da negociacao:
+      STEP 1: DIAGNOSTICO - Cliente resistente apos todas as tentativas
+      STEP 2: RECOLHER - "Entendo, nao vou te pressionar. Fico feliz que conheceu"
+      STEP 3: DESPRESSURIZAR - Mudar tom, ficar leve, como se a venda ja acabou
+      STEP 4: CONVERSA CASUAL - Perguntar algo pessoal, leve (fora da venda)
+      STEP 5: REINTRODUZIR - "Antes de irmos, so uma ultima coisa que esqueci de mencionar..."
+      STEP 6: NOVA OFERTA - Apresentar angulo diferente, bonus, ou condicao nova
+      STEP 7: FECHAR - Com a guarda do cliente baixa, o fechamento flui melhor
+      REGRA: So usar depois de esgotar todas as outras tentativas.
+      REGRA: A transicao deve ser natural, nao teatral.
+    source_file: "[EDC-0048] Curso 21 Aula 2.txt"
+    key_quote: "Tirar da mesa. Simular o fim da negociacao para baixar a guarda do cliente."
+    tags: [tirar-da-mesa, tecnica, negociacao, despressurizar, reintroduzir]
+
+  - id: EDC-MET-009
+    name: "Metodologia de Desqualificacao"
+    description: >
+      Playbook para quando o lead nao e qualificado para o produto principal:
+      STEP 1: IDENTIFICAR - Cliente claramente nao tem orcamento/perfil
+      STEP 2: MOSTRAR PRECO - Revelar o valor sabendo que vai "desqualificar"
+      STEP 3: REACAO - Cliente confirma que nao pode
+      STEP 4: DOWNSELL - "Tenho uma opcao menor que pode fazer sentido para voce"
+      STEP 5: ALTERNATIVA - Apresentar produto de entrada com ticket menor
+      STEP 6: FECHAR OU LIBERAR - Se nem downsell funcionar, encerrar com elegancia
+      REGRA: Desqualificacao e um processo, nao um momento.
+      REGRA: Nao insistir em produto que o cliente nao pode pagar.
+    source_file: "[EDC-0057] Curso 21 Mod 2 Aula 6.txt"
+    key_quote: "Desqualificacao e um processo. Mostrar preco para desqualificar."
+    tags: [desqualificacao, downsell, qualificacao, processo]
+
+  - id: EDC-MET-010
+    name: "Metodologia de Upsell (Pos-Fechamento)"
+    description: >
+      Playbook de upsell apos primeira compra:
+      STEP 1: FECHAR VENDA PRINCIPAL - Completar todo o processo de fechamento
+      STEP 2: CELEBRAR - Parabenizar, reforcar a decisao
+      STEP 3: SEPARAR - O upsell NUNCA e apresentado junto com venda principal
+      STEP 4: MOMENTO CERTO - Apos onboarding ou primeira entrega de valor
+      STEP 5: APRESENTAR - "Agora que voce ja esta [resultado], tenho algo que pode potencializar"
+      STEP 6: FECHAR UPSELL - Processo simplificado (cliente ja confia)
+      REGRA: NUNCA oferecer upsell junto da venda principal (paradoxo de escolha).
+      REGRA: Cliente deve ter recebido valor antes do upsell.
+    source_file: "[EDC-0044] Upsell.txt"
+    key_quote: "O upsell nunca e apresentado junto com a venda principal. Paradoxo de escolha."
+    tags: [upsell, pos-venda, paradoxo, timing, valor]
+
+
+# ============================================================================
+# DUPLICATAS IDENTIFICADAS
+# ============================================================================
+duplicatas:
+  - arquivo_duplicado: "[EDC-0089]"
+    original: "[EDC-0034]"
+    nota: "Mesmo conteudo - Construcao da Venda 1a1"
+  - arquivo_duplicado: "[EDC-0090]"
+    original: "[EDC-0035]"
+    nota: "Mesmo conteudo - Pitch de Vendas"
+  - arquivo_duplicado: "[EDC-0091]"
+    original: "[EDC-0059]"
+    nota: "Mesmo conteudo - Curso 21 Mod 2 Aula 8"
+  - arquivo_duplicado: "[EDC-0058] 58. Curso 21 Mod 2 Aula 7"
+    original: "[EDC-0055] 58. Curso 21 Mod 2 Aula 7"
+    nota: "Mesmo conteudo - Objecoes 6 passos"
+  - arquivo_duplicado: "Segundo [EDC-0051] - Curso 21 Aula 5 Como Fechar Contratos"
+    original: "[EDC-0051] 51. CURSO 21 AULA 5"
+    nota: "Mesmo conteudo com nome diferente"
+  - arquivo_duplicado: "Segundo [EDC-0057] - 59. Curso 21 Mod 2 Aula 8 Mestres"
+    original: "[EDC-0059] 59. Curso 21 Mod 2 Aula 8"
+    nota: "Provavelmente mesmo conteudo com tag diferente"
+
+
+# ============================================================================
+# METADADOS
+# ============================================================================
+metadata:
+  total_filosofias: 18
+  total_modelos_mentais: 14
+  total_heuristicas: 21
+  total_frameworks: 17
+  total_metodologias: 10
+  total_elementos: 80
+  duplicatas_identificadas: 6
+  arquivos_processados: 60+
+  data_extracao: "2026-03-03"
+  fonte_principal: "EAD Closer - Full Sales"
+  autores:
+    - nome: "Vinicius de Sa"
+      papel: "Closer/Trainer principal"
+      modulos: "Mod 1-3, Curso 21"
+    - nome: "Yuri"
+      papel: "Gestor/Leadership"
+      modulos: "Curso 16, Closer Aguia (parcial)"
+    - nome: "Bruno"
+      papel: "Closer Aguia / Mod 5 facilitator"
+      modulos: "Mod 5 (Aulas 38-47)"
+    - nome: "Aline"
+      papel: "Especialista em eventos"
+      modulos: "Mod 4 Aula 8"
+  frameworks_chave_encontrados:
+    - "Closer Aguia - ENCONTRADO (EDC-FW-010)"
+    - "SPIN Selling BR - ENCONTRADO (EDC-FW-002, EDC-MET-002)"
+    - "Ancoragem - ENCONTRADO (EDC-FW-006)"
+    - "Pacto Sim ou Nao - ENCONTRADO (EDC-FW-004)"
+    - "Venda de Impacto - ENCONTRADO (EDC-FW-001)"
+    - "Rapport/FORM - ENCONTRADO (EDC-FW-003, EDC-FW-008)"
+    - "Objecoes Handling System - ENCONTRADO (EDC-FW-005, EDC-MET-005)"
+    - "Metodo PTMA - ENCONTRADO (EDC-MET-004)"

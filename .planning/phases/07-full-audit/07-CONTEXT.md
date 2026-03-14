@@ -22,7 +22,7 @@ Varrer 100% do repositório e classificar cada arquivo/pasta em L1 (público), L
 
 **L1 (Community - máquina/casca):**
 - Core engine, templates, hooks, skills
-- bin/, core/, .claude/ (incluindo jarvis/), agents/conclave/, agents/_templates/
+- bin/, core/, .claude/ (incluindo jarvis/), agents/system/conclave/, agents/_templates/
 - Estruturas VAZIAS com .gitkeep (inbox/, knowledge/, agents/minds/, agents/cargo/)
 - docs/ (documentação pública)
 
@@ -30,7 +30,7 @@ Varrer 100% do repositório e classificar cada arquivo/pasta em L1 (público), L
 - INCLUI TUDO DE L1 +
 - DNAs extraídos, dossiers, playbooks reais
 - agents/minds/** populados, agents/cargo/** populados
-- knowledge/dossiers/**, knowledge/playbooks/**, knowledge/dna/**
+- knowledge/dossiers/**, knowledge/playbooks/**, knowledge/external/dna/**
 - artifacts/insights/, artifacts/chunks/
 - Skills premium (source-sync, etc)
 

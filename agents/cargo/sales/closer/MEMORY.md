@@ -7015,27 +7015,27 @@ Transição SDR → Closer: Depende da disposição, pode ir direto se se prepar
 ## BATCH INSIGHTS — Jeremy Haynes PCVP + 30DC (2026-03-03)
 
 **Fonte:** JH BATCH-100-101 (PCVP) + BATCH-092-094 (30DC)
-**Cascateamento:** knowledge/sources/client-accelerator/01-COLD-VIDEO-PROSPECTING.md + knowledge/sources/30-day-challenge/
+**Cascateamento:** knowledge/external/sources/client-accelerator/01-COLD-VIDEO-PROSPECTING.md + knowledge/external/sources/30-day-challenge/
 
 ### Novos Insights de Prospecting e CTA (JH PCVP):
 
 | ID | Insight | Métrica | chunk_id | PATH_RAIZ |
 |----|---------|---------|----------|-----------|
-| CLOSER-JH-PCVP-001 | 60-Second Video Pitch — 6 passos: Create Agreement → Qualifying Agreement → Crisis State → Ask Why/How/Who → The What → Two-Option CTA | Framework completo de cold video | *pendente* | knowledge/sources/client-accelerator/01-COLD-VIDEO-PROSPECTING.md |
-| CLOSER-JH-PCVP-002 | Two-Option CTA: Hands-On (maior valor) vs Consulting (menor valor) — NUNCA Yes/No | Elimina a resposta "não" | *pendente* | knowledge/sources/client-accelerator/01-COLD-VIDEO-PROSPECTING.md |
-| CLOSER-JH-PCVP-003 | Desarmamento imediato: "You likely have no idea who I am" — harmonia antes de qualquer pitch | Psicologia de abertura | *pendente* | knowledge/sources/client-accelerator/01-COLD-VIDEO-PROSPECTING.md |
-| CLOSER-JH-PCVP-004 | Crisis State: tornar real o custo financeiro mensurável da inação para o prospect | "Attention is the foundation to any business" | *pendente* | knowledge/sources/client-accelerator/01-COLD-VIDEO-PROSPECTING.md |
-| CLOSER-JH-PCVP-005 | Pitch rápido: 60s | Pitch com demo ao vivo: 8-15 min | Dois modos de delivery | *pendente* | knowledge/sources/client-accelerator/01-COLD-VIDEO-PROSPECTING.md |
+| CLOSER-JH-PCVP-001 | 60-Second Video Pitch — 6 passos: Create Agreement → Qualifying Agreement → Crisis State → Ask Why/How/Who → The What → Two-Option CTA | Framework completo de cold video | *pendente* | knowledge/external/sources/client-accelerator/01-COLD-VIDEO-PROSPECTING.md |
+| CLOSER-JH-PCVP-002 | Two-Option CTA: Hands-On (maior valor) vs Consulting (menor valor) — NUNCA Yes/No | Elimina a resposta "não" | *pendente* | knowledge/external/sources/client-accelerator/01-COLD-VIDEO-PROSPECTING.md |
+| CLOSER-JH-PCVP-003 | Desarmamento imediato: "You likely have no idea who I am" — harmonia antes de qualquer pitch | Psicologia de abertura | *pendente* | knowledge/external/sources/client-accelerator/01-COLD-VIDEO-PROSPECTING.md |
+| CLOSER-JH-PCVP-004 | Crisis State: tornar real o custo financeiro mensurável da inação para o prospect | "Attention is the foundation to any business" | *pendente* | knowledge/external/sources/client-accelerator/01-COLD-VIDEO-PROSPECTING.md |
+| CLOSER-JH-PCVP-005 | Pitch rápido: 60s | Pitch com demo ao vivo: 8-15 min | Dois modos de delivery | *pendente* | knowledge/external/sources/client-accelerator/01-COLD-VIDEO-PROSPECTING.md |
 
 ### Novos Insights de Follow-Up (JH 30DC):
 
 | ID | Insight | Métrica | chunk_id | PATH_RAIZ |
 |----|---------|---------|----------|-----------|
-| CLOSER-30DC-001 | 8-17 tentativas de follow-up necessárias para fechar (antigo: 5-12) | Caso extremo: 193 follow-ups para $15K deal | *pendente* | knowledge/sources/30-day-challenge/01-COLD-EMAIL-FOLLOW-UP.md |
-| CLOSER-30DC-002 | Power of Choice: Nunca "Quer falar comigo?" — sempre 2 opções: "Manhã ou tarde?" / "10h ou 14h?" | Elimina Yes/No | *pendente* | knowledge/sources/30-day-challenge/01-COLD-EMAIL-FOLLOW-UP.md |
-| CLOSER-30DC-003 | Trophy Client Positioning no follow-up: "We're taking on a few heavy hitters. Looking to see who's qualified." | Inversão de dinâmica prospect escolhe você | *pendente* | knowledge/sources/30-day-challenge/01-COLD-EMAIL-FOLLOW-UP.md |
-| CLOSER-30DC-004 | Tsunami Effect (Day 18): 1.500-1.700 comunicações acumuladas = pipeline sempre cheio | Efeito de volume composto | *pendente* | knowledge/sources/30-day-challenge/01-COLD-EMAIL-FOLLOW-UP.md |
-| CLOSER-30DC-005 | Video follow-up humanizador: "Just wanted to put a face to the name. Are you available now or sometime later today?" | Transição de texto para vídeo | *pendente* | knowledge/sources/30-day-challenge/01-COLD-EMAIL-FOLLOW-UP.md |
+| CLOSER-30DC-001 | 8-17 tentativas de follow-up necessárias para fechar (antigo: 5-12) | Caso extremo: 193 follow-ups para $15K deal | *pendente* | knowledge/external/sources/30-day-challenge/01-COLD-EMAIL-FOLLOW-UP.md |
+| CLOSER-30DC-002 | Power of Choice: Nunca "Quer falar comigo?" — sempre 2 opções: "Manhã ou tarde?" / "10h ou 14h?" | Elimina Yes/No | *pendente* | knowledge/external/sources/30-day-challenge/01-COLD-EMAIL-FOLLOW-UP.md |
+| CLOSER-30DC-003 | Trophy Client Positioning no follow-up: "We're taking on a few heavy hitters. Looking to see who's qualified." | Inversão de dinâmica prospect escolhe você | *pendente* | knowledge/external/sources/30-day-challenge/01-COLD-EMAIL-FOLLOW-UP.md |
+| CLOSER-30DC-004 | Tsunami Effect (Day 18): 1.500-1.700 comunicações acumuladas = pipeline sempre cheio | Efeito de volume composto | *pendente* | knowledge/external/sources/30-day-challenge/01-COLD-EMAIL-FOLLOW-UP.md |
+| CLOSER-30DC-005 | Video follow-up humanizador: "Just wanted to put a face to the name. Are you available now or sometime later today?" | Transição de texto para vídeo | *pendente* | knowledge/external/sources/30-day-challenge/01-COLD-EMAIL-FOLLOW-UP.md |
 
 ### Padrões Decisórios Adicionados:
 

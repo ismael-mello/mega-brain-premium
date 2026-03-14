@@ -1,8 +1,8 @@
 {
   "version": "2.0.0",
-  "skills_count": 24,
+  "skills_count": 30,
   "subagents_count": 0,
-  "total_count": 41,
+  "total_count": 47,
   "skills": {
     "agent-creation": {
       "path": ".claude\\skills\\agent-creation",
@@ -173,6 +173,24 @@
       "priority": "ALTA",
       "description": ""
     },
+    "graph-search": {
+      "path": ".claude\\skills\\graph-search",
+      "name": "graph-search",
+      "type": "skill",
+      "auto_trigger": "When user asks about relationships between concepts, experts, or knowledge graph queries",
+      "keywords": [
+        "graph search",
+        "knowledge graph",
+        "graph-search",
+        "entities",
+        "relationships",
+        "connected to",
+        "related concepts",
+        "graph query"
+      ],
+      "priority": "ALTA",
+      "description": ""
+    },
     "hookify": {
       "path": ".claude\\skills\\hookify",
       "name": "hookify",
@@ -237,6 +255,23 @@
       "priority": "ALTA",
       "description": "Padrões para Extração de Conhecimento no Mega Brain"
     },
+    "memory-search": {
+      "path": ".claude\\skills\\memory-search",
+      "name": "memory-search",
+      "type": "skill",
+      "auto_trigger": "When user asks about agent memories, past decisions, or memory operations",
+      "keywords": [
+        "memory search",
+        "memory-search",
+        "agent memory",
+        "what does the agent remember",
+        "memory stats",
+        "prune memory",
+        "consolidate memory"
+      ],
+      "priority": "ALTA",
+      "description": ""
+    },
     "pdf-to-text": {
       "path": ".claude\\skills\\pdf-to-text",
       "name": "pdf-to-text",
@@ -267,6 +302,25 @@
       ],
       "priority": "ALTA",
       "description": "Padrões do Pipeline de Processamento Jarvis"
+    },
+    "pipeline-mce": {
+      "path": ".claude\\skills\\pipeline-mce",
+      "name": "pipeline-mce",
+      "type": "skill",
+      "auto_trigger": "Processamento MCE, pipeline cognitivo, extraction pipeline",
+      "keywords": [
+        "pipeline-mce",
+        "mce",
+        "pipeline cognitivo",
+        "process-jarvis",
+        "processar fonte",
+        "extrair dna",
+        "cognitive extraction",
+        "voice dna",
+        "behavioral patterns"
+      ],
+      "priority": "ALTA",
+      "description": ""
     },
     "plugin-dev": {
       "path": ".claude\\skills\\plugin-dev",
@@ -317,6 +371,38 @@
       "priority": "ALTA",
       "description": "Padrões de Código Python do Mega Brain"
     },
+    "read-ai-harvester": {
+      "path": ".claude\\skills\\read-ai-harvester",
+      "name": "read-ai-harvester",
+      "type": "skill",
+      "auto_trigger": "When user mentions Read.ai, meeting transcripts, harvest meetings, or bulk download meetings",
+      "keywords": [
+        "read.ai",
+        "read ai",
+        "harvest meetings",
+        "meeting transcripts",
+        "transcript harvester",
+        "download meetings"
+      ],
+      "priority": "MÉDIA",
+      "description": ""
+    },
+    "shared-memory": {
+      "path": ".claude\\skills\\shared-memory",
+      "name": "shared-memory",
+      "type": "skill",
+      "auto_trigger": "When user asks about cross-agent decisions, shared knowledge, or conclave outcomes",
+      "keywords": [
+        "shared memory",
+        "shared-memory",
+        "cross-agent",
+        "conclave decision",
+        "agent agreement",
+        "shared store"
+      ],
+      "priority": "MÉDIA",
+      "description": ""
+    },
     "skill-creator-internal": {
       "path": ".claude\\skills\\skill-creator-internal",
       "name": "skill-creator-internal",
@@ -330,6 +416,18 @@
       ],
       "priority": "ALTA",
       "description": "Meta-Skill: Guia Automático para Criação de Skills"
+    },
+    "teaching": {
+      "path": ".claude\\skills\\teaching",
+      "name": "teaching",
+      "type": "skill",
+      "auto_trigger": "## Objetivo",
+      "keywords": [
+        "teaching",
+        "teaching"
+      ],
+      "priority": "MÉDIA",
+      "description": ""
     },
     "using-superpowers": {
       "path": ".claude\\skills\\using-superpowers",
@@ -1004,6 +1102,70 @@
         "priority": "ALTA"
       }
     ],
+    "graph search": [
+      {
+        "name": "graph-search",
+        "type": "skill",
+        "path": ".claude\\skills\\graph-search",
+        "priority": "ALTA"
+      }
+    ],
+    "knowledge graph": [
+      {
+        "name": "graph-search",
+        "type": "skill",
+        "path": ".claude\\skills\\graph-search",
+        "priority": "ALTA"
+      }
+    ],
+    "graph-search": [
+      {
+        "name": "graph-search",
+        "type": "skill",
+        "path": ".claude\\skills\\graph-search",
+        "priority": "ALTA"
+      }
+    ],
+    "entities": [
+      {
+        "name": "graph-search",
+        "type": "skill",
+        "path": ".claude\\skills\\graph-search",
+        "priority": "ALTA"
+      }
+    ],
+    "relationships": [
+      {
+        "name": "graph-search",
+        "type": "skill",
+        "path": ".claude\\skills\\graph-search",
+        "priority": "ALTA"
+      }
+    ],
+    "connected to": [
+      {
+        "name": "graph-search",
+        "type": "skill",
+        "path": ".claude\\skills\\graph-search",
+        "priority": "ALTA"
+      }
+    ],
+    "related concepts": [
+      {
+        "name": "graph-search",
+        "type": "skill",
+        "path": ".claude\\skills\\graph-search",
+        "priority": "ALTA"
+      }
+    ],
+    "graph query": [
+      {
+        "name": "graph-search",
+        "type": "skill",
+        "path": ".claude\\skills\\graph-search",
+        "priority": "ALTA"
+      }
+    ],
     "hook": [
       {
         "name": "hookify",
@@ -1178,6 +1340,62 @@
         "priority": "ALTA"
       }
     ],
+    "memory search": [
+      {
+        "name": "memory-search",
+        "type": "skill",
+        "path": ".claude\\skills\\memory-search",
+        "priority": "ALTA"
+      }
+    ],
+    "memory-search": [
+      {
+        "name": "memory-search",
+        "type": "skill",
+        "path": ".claude\\skills\\memory-search",
+        "priority": "ALTA"
+      }
+    ],
+    "agent memory": [
+      {
+        "name": "memory-search",
+        "type": "skill",
+        "path": ".claude\\skills\\memory-search",
+        "priority": "ALTA"
+      }
+    ],
+    "what does the agent remember": [
+      {
+        "name": "memory-search",
+        "type": "skill",
+        "path": ".claude\\skills\\memory-search",
+        "priority": "ALTA"
+      }
+    ],
+    "memory stats": [
+      {
+        "name": "memory-search",
+        "type": "skill",
+        "path": ".claude\\skills\\memory-search",
+        "priority": "ALTA"
+      }
+    ],
+    "prune memory": [
+      {
+        "name": "memory-search",
+        "type": "skill",
+        "path": ".claude\\skills\\memory-search",
+        "priority": "ALTA"
+      }
+    ],
+    "consolidate memory": [
+      {
+        "name": "memory-search",
+        "type": "skill",
+        "path": ".claude\\skills\\memory-search",
+        "priority": "ALTA"
+      }
+    ],
     "pdf": [
       {
         "name": "pdf-to-text",
@@ -1231,6 +1449,78 @@
         "name": "pipeline-jarvis",
         "type": "skill",
         "path": ".claude\\skills\\pipeline-jarvis",
+        "priority": "ALTA"
+      }
+    ],
+    "pipeline-mce": [
+      {
+        "name": "pipeline-mce",
+        "type": "skill",
+        "path": ".claude\\skills\\pipeline-mce",
+        "priority": "ALTA"
+      }
+    ],
+    "mce": [
+      {
+        "name": "pipeline-mce",
+        "type": "skill",
+        "path": ".claude\\skills\\pipeline-mce",
+        "priority": "ALTA"
+      }
+    ],
+    "pipeline cognitivo": [
+      {
+        "name": "pipeline-mce",
+        "type": "skill",
+        "path": ".claude\\skills\\pipeline-mce",
+        "priority": "ALTA"
+      }
+    ],
+    "process-jarvis": [
+      {
+        "name": "pipeline-mce",
+        "type": "skill",
+        "path": ".claude\\skills\\pipeline-mce",
+        "priority": "ALTA"
+      }
+    ],
+    "processar fonte": [
+      {
+        "name": "pipeline-mce",
+        "type": "skill",
+        "path": ".claude\\skills\\pipeline-mce",
+        "priority": "ALTA"
+      }
+    ],
+    "extrair dna": [
+      {
+        "name": "pipeline-mce",
+        "type": "skill",
+        "path": ".claude\\skills\\pipeline-mce",
+        "priority": "ALTA"
+      }
+    ],
+    "cognitive extraction": [
+      {
+        "name": "pipeline-mce",
+        "type": "skill",
+        "path": ".claude\\skills\\pipeline-mce",
+        "priority": "ALTA"
+      }
+    ],
+    "voice dna": [
+      {
+        "name": "pipeline-mce",
+        "type": "skill",
+        "path": ".claude\\skills\\pipeline-mce",
+        "priority": "ALTA"
+      }
+    ],
+    "behavioral patterns": [
+      {
+        "name": "pipeline-mce",
+        "type": "skill",
+        "path": ".claude\\skills\\pipeline-mce",
         "priority": "ALTA"
       }
     ],
@@ -1376,6 +1666,102 @@
         "priority": "ALTA"
       }
     ],
+    "read.ai": [
+      {
+        "name": "read-ai-harvester",
+        "type": "skill",
+        "path": ".claude\\skills\\read-ai-harvester",
+        "priority": "MÉDIA"
+      }
+    ],
+    "read ai": [
+      {
+        "name": "read-ai-harvester",
+        "type": "skill",
+        "path": ".claude\\skills\\read-ai-harvester",
+        "priority": "MÉDIA"
+      }
+    ],
+    "harvest meetings": [
+      {
+        "name": "read-ai-harvester",
+        "type": "skill",
+        "path": ".claude\\skills\\read-ai-harvester",
+        "priority": "MÉDIA"
+      }
+    ],
+    "meeting transcripts": [
+      {
+        "name": "read-ai-harvester",
+        "type": "skill",
+        "path": ".claude\\skills\\read-ai-harvester",
+        "priority": "MÉDIA"
+      }
+    ],
+    "transcript harvester": [
+      {
+        "name": "read-ai-harvester",
+        "type": "skill",
+        "path": ".claude\\skills\\read-ai-harvester",
+        "priority": "MÉDIA"
+      }
+    ],
+    "download meetings": [
+      {
+        "name": "read-ai-harvester",
+        "type": "skill",
+        "path": ".claude\\skills\\read-ai-harvester",
+        "priority": "MÉDIA"
+      }
+    ],
+    "shared memory": [
+      {
+        "name": "shared-memory",
+        "type": "skill",
+        "path": ".claude\\skills\\shared-memory",
+        "priority": "MÉDIA"
+      }
+    ],
+    "shared-memory": [
+      {
+        "name": "shared-memory",
+        "type": "skill",
+        "path": ".claude\\skills\\shared-memory",
+        "priority": "MÉDIA"
+      }
+    ],
+    "cross-agent": [
+      {
+        "name": "shared-memory",
+        "type": "skill",
+        "path": ".claude\\skills\\shared-memory",
+        "priority": "MÉDIA"
+      }
+    ],
+    "conclave decision": [
+      {
+        "name": "shared-memory",
+        "type": "skill",
+        "path": ".claude\\skills\\shared-memory",
+        "priority": "MÉDIA"
+      }
+    ],
+    "agent agreement": [
+      {
+        "name": "shared-memory",
+        "type": "skill",
+        "path": ".claude\\skills\\shared-memory",
+        "priority": "MÉDIA"
+      }
+    ],
+    "shared store": [
+      {
+        "name": "shared-memory",
+        "type": "skill",
+        "path": ".claude\\skills\\shared-memory",
+        "priority": "MÉDIA"
+      }
+    ],
     "nova skill": [
       {
         "name": "skill-creator-internal",
@@ -1398,6 +1784,20 @@
         "type": "skill",
         "path": ".claude\\skills\\skill-creator-internal",
         "priority": "ALTA"
+      }
+    ],
+    "teaching": [
+      {
+        "name": "teaching",
+        "type": "skill",
+        "path": ".claude\\skills\\teaching",
+        "priority": "MÉDIA"
+      },
+      {
+        "name": "teaching",
+        "type": "skill",
+        "path": ".claude\\skills\\teaching",
+        "priority": "MÉDIA"
       }
     ],
     "superpower": [

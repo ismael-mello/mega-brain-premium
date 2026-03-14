@@ -101,15 +101,15 @@ Não apenas copywriter — ensina pessoas a chegar a 7 dígitos. O principal obs
 
 | Arquivo | Path |
 |---------|------|
-| Agent | `agents/persons/dan-kennedy/AGENT.md` |
-| Soul | `agents/persons/dan-kennedy/SOUL.md` |
-| Memory | `agents/persons/dan-kennedy/MEMORY.md` |
-| DNA-Config | `agents/persons/dan-kennedy/DNA-CONFIG.yaml` |
-| DNA | `knowledge/dna/persons/dan-kennedy/DNA.yaml` |
-| Raw (CC) | `knowledge/sources/dan-kennedy/raw/copywriting-clinic/` |
-| Raw (7FA) | `knowledge/sources/dan-kennedy/raw/7-figure-academy/` |
-| Raw (12BBS) | `knowledge/sources/dan-kennedy/raw/12-business-building-strategies/` |
-| Raw (ACC) | `knowledge/sources/dan-kennedy/raw/advanced-coaching-consulting/` |
+| Agent | `agents/external/dan-kennedy/AGENT.md` |
+| Soul | `agents/external/dan-kennedy/SOUL.md` |
+| Memory | `agents/external/dan-kennedy/MEMORY.md` |
+| DNA-Config | `agents/external/dan-kennedy/DNA-CONFIG.yaml` |
+| DNA | `knowledge/external/dna/persons/dan-kennedy/DNA.yaml` |
+| Raw (CC) | `knowledge/external/sources/dan-kennedy/raw/copywriting-clinic/` |
+| Raw (7FA) | `knowledge/external/sources/dan-kennedy/raw/7-figure-academy/` |
+| Raw (12BBS) | `knowledge/external/sources/dan-kennedy/raw/12-business-building-strategies/` |
+| Raw (ACC) | `knowledge/external/sources/dan-kennedy/raw/advanced-coaching-consulting/` |
 
 ---
 

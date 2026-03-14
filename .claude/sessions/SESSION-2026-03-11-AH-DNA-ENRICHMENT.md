@@ -17,9 +17,9 @@ Usuário retomou sessão anterior (SESSION-2026-03-11-AIOS-PROCESSING) em yolo m
 6. **MEMORY atualizada** — Status AH DNA + AIOS squads
 
 ## ARQUIVOS MODIFICADOS
-- `knowledge/dna/persons/alex-hormozi/DNA.yaml` — +158 AIOS entries (66→224)
-- `knowledge/dna/persons/alex-hormozi/CONFIG.yaml` — v3.0.0→v4.0.0, 260→418 tracked
-- `agents/persons/alex-hormozi/DNA-CONFIG.yaml` — v1.0.0→v2.0.0, fonte secundária adicionada
+- `knowledge/external/dna/persons/alex-hormozi/DNA.yaml` — +158 AIOS entries (66→224)
+- `knowledge/external/dna/persons/alex-hormozi/CONFIG.yaml` — v3.0.0→v4.0.0, 260→418 tracked
+- `agents/external/alex-hormozi/DNA-CONFIG.yaml` — v1.0.0→v2.0.0, fonte secundária adicionada
 
 ## PENDÊNCIAS
 - [ ] Criar DNA domínios formais (copywriting, brand-strategy) a partir dos docs 02/03-SQUAD
@@ -33,12 +33,12 @@ Usuário retomou sessão anterior (SESSION-2026-03-11-AIOS-PROCESSING) em yolo m
 - **DNA.yaml como source of truth**: Elementos adicionados no unified DNA.yaml, não nos 5 legacy layer files
 
 ## PRÓXIMOS PASSOS PLANEJADOS
-1. Criar DNA domínios: `knowledge/dna/domains/copywriting/` e `knowledge/dna/domains/brand-strategy/`
+1. Criar DNA domínios: `knowledge/external/dna/domains/copywriting/` e `knowledge/external/dna/domains/brand-strategy/`
 2. Processar remaining AIOS squads (storytelling, traffic, c-level, data)
 3. Enriquecer cargo agents existentes com novos domínios
 
 ## NOTAS IMPORTANTES
-- knowledge/dna/persons/ é gitignored — precisa `git add -f` para commitar
+- knowledge/external/dna/persons/ é gitignored — precisa `git add -f` para commitar
 - Legacy 5-YAML files (FILOSOFIAS.yaml etc.) têm apenas 59 entries; DNA.yaml unified tem 224
 - CONFIG.yaml tracks 418 total (contando enrichments que nunca foram escritos nos YAMLs + AIOS)
 

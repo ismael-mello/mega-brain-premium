@@ -1,0 +1,1523 @@
+# AGG-TRAFFIC.yaml
+# DNA Agregado - Domínio: TRAFFIC & PAID MEDIA
+# Consolidação de elementos de tráfego pago, mídia e performance marketing
+#
+# Versão: 1.0.0
+# Criado: 2026-03-11
+# Tipo: AGGREGATED DNA (single-source: AIOS Traffic Masters Squad)
+# Fonte: knowledge/external/sources/aios-squads/
+# Weight: 0.70 (secondary - curated by Synkra AIOS)
+#
+# ═══════════════════════════════════════════════════════════════════════════════
+# FONTES CONSOLIDADAS
+# ═══════════════════════════════════════════════════════════════════════════════
+
+dominio: "traffic"
+versao: "1.0.0"
+data_criacao: "2026-03-11"
+ultima_atualizacao: "2026-03-11"
+total_elementos: 185
+peso_global: 0.70
+
+fontes_consolidadas:
+  - fonte: "aios-traffic-masters-squad"
+    path: "knowledge/external/sources/aios-squads/"
+    raw_path: "knowledge/external/sources/aios-squads/raw/traffic-masters/"
+    peso_dominio: 0.70
+    elementos_contribuidos: 185
+    especialidade: "Traffic masters - Pittman, Burns, Mandalia, Kusmich, Breeze, Aslam, Sobral"
+    tipo_fonte: "SECONDARY (curated by Synkra AIOS)"
+    agentes_internos: 15
+
+# ═══════════════════════════════════════════════════════════════════════════════
+# EXPERTS (7 real persons + 8 functional agents)
+# ═══════════════════════════════════════════════════════════════════════════════
+
+experts:
+  tier_1a:
+    - nome: "Molly Pittman"
+      especialidade: "Traffic Engine, Ad Grid, Traffic Temperature"
+      key_framework: "Traffic Engine 9-Step"
+    - nome: "Ralph Burns"
+      especialidade: "Five Levels of Traffic, Creative Lab, nCAC, MER"
+      key_framework: "Creative Lab 7-Step"
+    - nome: "Depesh Mandalia"
+      especialidade: "BPM Method, AC-4, Graduation Testing"
+      key_framework: "Graduation Testing GT1-GT3"
+
+  tier_1b:
+    - nome: "Nicholas Kusmich"
+      especialidade: "Contextual Congruence, Give-Give-Give-Ask, Four Ms, 4% Rule"
+      key_framework: "Reverse Funnel + Give-Give-Give-Ask"
+    - nome: "Tom Breeze"
+      especialidade: "ADUCATE, Three-Act Ad, YouTube authority"
+      key_framework: "ADUCATE(S) Framework"
+    - nome: "Kasim Aslam"
+      especialidade: "You vs Google, Performance Max, adversarial mindset"
+      key_framework: "Performance Max Strategy"
+    - nome: "Pedro Sobral"
+      especialidade: "Brazilian traffic master, 3 Campaign Types, Passo Anterior"
+      key_framework: "3 Campaign Types + Passo Anterior"
+
+  functional:
+    - nome: "Ad Midas"
+      especialidade: "Creative Matrix, Video Ad Script"
+      role: "Creative strategist"
+    - nome: "Media Buyer"
+      especialidade: "Cross-platform execution"
+      role: "Platform operator"
+    - nome: "Performance Analyst"
+      especialidade: "Metrics Hierarchy"
+      role: "Data analysis"
+    - nome: "Creative Analyst"
+      especialidade: "Creative Decomposition"
+      role: "Creative performance analysis"
+    - nome: "Scale Optimizer"
+      especialidade: "4 Scaling Phases"
+      role: "Scaling specialist"
+    - nome: "Pixel Specialist"
+      especialidade: "Tracking & attribution"
+      role: "Tracking infrastructure"
+    - nome: "Ads Analyst"
+      especialidade: "8-Dimension Audit"
+      role: "Account auditor"
+    - nome: "Fiscal"
+      especialidade: "Budget & Finance"
+      role: "Budget allocation & cash flow"
+
+# ═══════════════════════════════════════════════════════════════════════════════
+# L1: FILOSOFIAS (30 elementos)
+# ═══════════════════════════════════════════════════════════════════════════════
+
+filosofias:
+  - id: "TF-FIL-001"
+    conteudo: "All the traffic in the world doesn't matter if your offer sucks"
+    fonte: "burns"
+    conceito: "Offer-First Traffic"
+    peso: 0.70
+
+  - id: "TF-FIL-002"
+    conteudo: "Creative is the new audience/targeting"
+    fonte: "mandalia/sobral/multiple"
+    conceito: "Creative-First Paradigm"
+    peso: 0.70
+
+  - id: "TF-FIL-003"
+    conteudo: "nCAC is the new ROAS — measure what actually matters"
+    fonte: "burns"
+    conceito: "Net Customer Acquisition Cost"
+    peso: 0.70
+
+  - id: "TF-FIL-004"
+    conteudo: "Give before you ask — value-first advertising"
+    fonte: "kusmich"
+    conceito: "Give-Give-Give-Ask"
+    peso: 0.70
+
+  - id: "TF-FIL-005"
+    conteudo: "YouTube viewers are leaning IN, not leaning back"
+    fonte: "breeze"
+    conceito: "Active Viewer Intent"
+    peso: 0.70
+
+  - id: "TF-FIL-006"
+    conteudo: "Google is not on your side — treat it as an adversary"
+    fonte: "aslam"
+    conceito: "Adversarial Platform Relationship"
+    peso: 0.70
+
+  - id: "TF-FIL-007"
+    conteudo: "Vai lá e faz — execution beats perfection"
+    fonte: "sobral"
+    conceito: "Action Bias"
+    peso: 0.70
+
+  - id: "TF-FIL-008"
+    conteudo: "The skip button is a targeting filter, not a failure"
+    fonte: "breeze"
+    conceito: "Self-Selection Through Skip"
+    peso: 0.70
+
+  - id: "TF-FIL-009"
+    conteudo: "Diminishing returns are still returns — don't stop scaling too early"
+    fonte: "aslam"
+    conceito: "Marginal Return Acceptance"
+    peso: 0.70
+
+  - id: "TF-FIL-010"
+    conteudo: "Traffic is a system, not a hack — build an engine"
+    fonte: "pittman"
+    conceito: "Traffic Engine Philosophy"
+    peso: 0.70
+
+  - id: "TF-FIL-011"
+    conteudo: "You don't find your audience, your creative attracts them"
+    fonte: "mandalia"
+    conceito: "Attraction-Based Targeting"
+    peso: 0.70
+
+  - id: "TF-FIL-012"
+    conteudo: "Cold traffic is the lifeblood of growth — warm is maintenance"
+    fonte: "pittman"
+    conceito: "Cold Traffic Priority"
+    peso: 0.70
+
+  - id: "TF-FIL-013"
+    conteudo: "Test cheap, scale expensive — never scale unproven creative"
+    fonte: "mandalia"
+    conceito: "Graduation Before Scale"
+    peso: 0.70
+
+  - id: "TF-FIL-014"
+    conteudo: "The hook is the ad — everything after is just follow-through"
+    fonte: "burns/ad-midas"
+    conceito: "Hook Supremacy"
+    peso: 0.70
+
+  - id: "TF-FIL-015"
+    conteudo: "Algorithms reward consistency, not brilliance"
+    fonte: "sobral"
+    conceito: "Consistency Over Genius"
+    peso: 0.70
+
+  - id: "TF-FIL-016"
+    conteudo: "Every ad is a conversation with one person, not a broadcast"
+    fonte: "kusmich"
+    conceito: "One-to-One Advertising"
+    peso: 0.70
+
+  - id: "TF-FIL-017"
+    conteudo: "Data without context is noise — always interpret with business lens"
+    fonte: "performance-analyst"
+    conceito: "Contextual Data Reading"
+    peso: 0.70
+
+  - id: "TF-FIL-018"
+    conteudo: "The fastest way to scale is to fix your funnel, not your ads"
+    fonte: "burns"
+    conceito: "Funnel-First Scaling"
+    peso: 0.70
+
+  - id: "TF-FIL-019"
+    conteudo: "Creative fatigue is not failure — it's a sign your system needs feeding"
+    fonte: "creative-analyst"
+    conceito: "Fatigue As Signal"
+    peso: 0.70
+
+  - id: "TF-FIL-020"
+    conteudo: "Match the message to the temperature of the traffic"
+    fonte: "pittman"
+    conceito: "Temperature-Message Match"
+    peso: 0.70
+
+  - id: "TF-FIL-021"
+    conteudo: "Your best ad is the one that educates, not the one that sells"
+    fonte: "breeze"
+    conceito: "Education-Based Ads"
+    peso: 0.70
+
+  - id: "TF-FIL-022"
+    conteudo: "Broad targeting works only when your creative does the targeting"
+    fonte: "mandalia/sobral"
+    conceito: "Creative As Targeting"
+    peso: 0.70
+
+  - id: "TF-FIL-023"
+    conteudo: "Never spend money you can't afford to lose on ads"
+    fonte: "fiscal"
+    conceito: "Risk-Managed Ad Spend"
+    peso: 0.70
+
+  - id: "TF-FIL-024"
+    conteudo: "Platform changes are inevitable — diversify or die"
+    fonte: "aslam"
+    conceito: "Platform Risk Diversification"
+    peso: 0.70
+
+  - id: "TF-FIL-025"
+    conteudo: "Retargeting without strategy is just stalking with a budget"
+    fonte: "kusmich"
+    conceito: "Strategic Retargeting"
+    peso: 0.70
+
+  - id: "TF-FIL-026"
+    conteudo: "The pixel sees everything — treat tracking as sacred infrastructure"
+    fonte: "pixel-specialist"
+    conceito: "Tracking As Foundation"
+    peso: 0.70
+
+  - id: "TF-FIL-027"
+    conteudo: "Winning is a function of iteration speed, not creative genius"
+    fonte: "ad-midas"
+    conceito: "Speed of Iteration"
+    peso: 0.70
+
+  - id: "TF-FIL-028"
+    conteudo: "Budget is a tool, not a constraint — allocate by performance, not feelings"
+    fonte: "fiscal"
+    conceito: "Performance-Based Budgeting"
+    peso: 0.70
+
+  - id: "TF-FIL-029"
+    conteudo: "The best media buyers are the best analysts — obsess over numbers"
+    fonte: "media-buyer"
+    conceito: "Analytical Media Buying"
+    peso: 0.70
+
+  - id: "TF-FIL-030"
+    conteudo: "Scale is not a phase — it's a discipline with its own rules"
+    fonte: "scale-optimizer"
+    conceito: "Scaling Discipline"
+    peso: 0.70
+
+# ═══════════════════════════════════════════════════════════════════════════════
+# L2: MODELOS MENTAIS (20 elementos)
+# ═══════════════════════════════════════════════════════════════════════════════
+
+modelos_mentais:
+  - id: "TF-MM-001"
+    nome: "Traffic Temperature (Cold/Warm/Hot)"
+    descricao: "Classificação de tráfego por nível de awareness — cold (não te conhece), warm (já interagiu), hot (pronto para converter). Cada temperatura exige mensagem, oferta e CTA diferentes."
+    fonte: "pittman"
+    expert: "Molly Pittman"
+    peso: 0.70
+
+  - id: "TF-MM-002"
+    nome: "Five Levels of Awareness (Schwartz via Burns)"
+    descricao: "Unaware → Problem Aware → Solution Aware → Product Aware → Most Aware. Copy e targeting mudam radicalmente por nível. Fundamental para segmentação e messaging."
+    fonte: "burns"
+    expert: "Ralph Burns"
+    peso: 0.70
+
+  - id: "TF-MM-003"
+    nome: "Leaning In vs Leaning Back"
+    descricao: "YouTube = lean-in (busca ativa, intenção). Social = lean-back (scroll passivo, interrupção). Muda radicalmente a estrutura do anúncio e a expectativa do viewer."
+    fonte: "breeze"
+    expert: "Tom Breeze"
+    peso: 0.70
+
+  - id: "TF-MM-004"
+    nome: "Contextual Congruence"
+    descricao: "Ad → Landing Page → Offer devem manter congruência visual, de mensagem e emocional. Quebra de congruência = queda brutal de conversão."
+    fonte: "kusmich"
+    expert: "Nicholas Kusmich"
+    peso: 0.70
+
+  - id: "TF-MM-005"
+    nome: "AC-4 Scoring (Ad Creative 4 Dimensions)"
+    descricao: "Score de 0-5 em 4 dimensões: Hook, Body, CTA, Visual. Total /20. Score >= 17 para escalar. Framework de avaliação objetiva de criativos."
+    fonte: "mandalia"
+    expert: "Depesh Mandalia"
+    peso: 0.70
+
+  - id: "TF-MM-006"
+    nome: "Leaky Bucket"
+    descricao: "Se o funil tem vazamentos (landing page ruim, follow-up fraco), jogar mais tráfego só desperdiça dinheiro mais rápido. Consertar o balde antes de encher."
+    fonte: "mandalia"
+    expert: "Depesh Mandalia"
+    peso: 0.70
+
+  - id: "TF-MM-007"
+    nome: "Iceberg / 10-90 Rule"
+    descricao: "90% do sucesso de tráfego está abaixo da superfície (offer, funnel, backend). Apenas 10% é o ad em si. Otimizar o invisível antes do visível."
+    fonte: "kusmich"
+    expert: "Nicholas Kusmich"
+    peso: 0.70
+
+  - id: "TF-MM-008"
+    nome: "Bidding Garage: Honda / Maserati / Ferrari"
+    descricao: "Honda = lowest cost (aprendizado). Maserati = cost cap (controle). Ferrari = bid cap (máximo controle). Progredir conforme data acumula e confidence aumenta."
+    fonte: "mandalia"
+    expert: "Depesh Mandalia"
+    peso: 0.70
+
+  - id: "TF-MM-009"
+    nome: "Unicorn Ad"
+    descricao: "O ad raro que performa 10x acima da média. Não pode ser engenheirado — mas pode ser encontrado via volume de testes. Quando encontrar, proteger e escalar."
+    fonte: "burns"
+    expert: "Ralph Burns"
+    peso: 0.70
+
+  - id: "TF-MM-010"
+    nome: "Bell Curve / Diminishing Returns"
+    descricao: "Todo ad set tem um sweet spot de budget. Antes = subinvestido. Depois = diminishing returns. Mapear a curva e parar ANTES de cair do penhasco."
+    fonte: "aslam"
+    expert: "Kasim Aslam"
+    peso: 0.70
+
+  - id: "TF-MM-011"
+    nome: "Marginal CPA"
+    descricao: "O custo do PRÓXIMO cliente, não a média. Ao escalar, marginal CPA sobe — se sobe acima do threshold, parar. Métrica de decisão de scaling."
+    fonte: "scale-optimizer"
+    expert: "Scale Optimizer"
+    peso: 0.70
+
+  - id: "TF-MM-012"
+    nome: "MER (Marketing Efficiency Ratio)"
+    descricao: "Total Revenue / Total Ad Spend — visão holística acima de ROAS por campanha. Resolve o problema de atribuição. Métrica north-star de performance."
+    fonte: "burns"
+    expert: "Ralph Burns"
+    peso: 0.70
+
+  - id: "TF-MM-013"
+    nome: "Raposa Problem (Fox Problem)"
+    descricao: "Muitas campanhas (raposas) competindo entre si. Cada uma come pouco. Consolidar em menos campanhas com mais budget = melhores resultados. Simplificar para escalar."
+    fonte: "sobral"
+    expert: "Pedro Sobral"
+    peso: 0.70
+
+  - id: "TF-MM-014"
+    nome: "Four Ms of Marketing"
+    descricao: "Market (quem), Message (o quê), Media (onde), Mechanism (como). Os 4 pilares de qualquer campanha. Falha em qualquer um = campanha morta."
+    fonte: "kusmich"
+    expert: "Nicholas Kusmich"
+    peso: 0.70
+
+  - id: "TF-MM-015"
+    nome: "Creative Lifecycle"
+    descricao: "Todo criativo passa por: Launch → Growth → Peak → Decline → Death. Reconhecer a fase atual é crítico para decisão de manter, refrescar ou matar."
+    fonte: "creative-analyst"
+    expert: "Creative Analyst"
+    peso: 0.70
+
+  - id: "TF-MM-016"
+    nome: "Three Campaign Types"
+    descricao: "Campanha de Conversão (ROI direto), Campanha de Remarketing (recuperar), Campanha de Lookalike (expandir). Cada tipo com budget, métrica e expectativa diferentes."
+    fonte: "sobral"
+    expert: "Pedro Sobral"
+    peso: 0.70
+
+  - id: "TF-MM-017"
+    nome: "Passo Anterior (Previous Step)"
+    descricao: "Quando algo não funciona no funil, o problema é no passo ANTERIOR. Landing page não converte? Problema é no ad (tráfego errado). Sempre olhar para trás."
+    fonte: "sobral"
+    expert: "Pedro Sobral"
+    peso: 0.70
+
+  - id: "TF-MM-018"
+    nome: "You vs Google"
+    descricao: "Google otimiza para seus lucros, não os seus. Entender que a plataforma é um adversário com interesses diferentes muda como você configura campanhas."
+    fonte: "aslam"
+    expert: "Kasim Aslam"
+    peso: 0.70
+
+  - id: "TF-MM-019"
+    nome: "Metrics Hierarchy"
+    descricao: "North Star (Revenue/ROAS) → Leading (CPA, CVR) → Diagnostic (CTR, CPM, CPC) → Vanity (Impressions, Reach). Sempre diagnosticar de cima para baixo."
+    fonte: "performance-analyst"
+    expert: "Performance Analyst"
+    peso: 0.70
+
+  - id: "TF-MM-020"
+    nome: "Creative Decomposition"
+    descricao: "Decompor um ad vencedor em: Hook (0-3s), Body (3-15s), Proof (15-30s), CTA (final). Cada componente testável isoladamente. Isolar o que faz funcionar."
+    fonte: "creative-analyst"
+    expert: "Creative Analyst"
+    peso: 0.70
+
+# ═══════════════════════════════════════════════════════════════════════════════
+# L3: HEURÍSTICAS (51 elementos)
+# ═══════════════════════════════════════════════════════════════════════════════
+
+heuristicas:
+  # --- CREATIVE RULES ---
+  - id: "TF-HEUR-001"
+    conteudo: "AC-4 Score >= 17/20 to scale a creative"
+    fonte: "mandalia"
+    expert: "Depesh Mandalia"
+    metrica: ">=17/20"
+    peso: 0.70
+
+  - id: "TF-HEUR-002"
+    conteudo: "Hook = 80% of ad performance"
+    fonte: "burns/ad-midas"
+    expert: "Ralph Burns"
+    metrica: "80%"
+    peso: 0.70
+
+  - id: "TF-HEUR-003"
+    conteudo: "Write 10 hooks per script — test volume beats guessing"
+    fonte: "ad-midas"
+    expert: "Ad Midas"
+    metrica: "10"
+    peso: 0.70
+
+  - id: "TF-HEUR-004"
+    conteudo: "Launch 5+ new creatives per week to stay ahead of fatigue"
+    fonte: "burns"
+    expert: "Ralph Burns"
+    metrica: "5+/week"
+    peso: 0.70
+
+  - id: "TF-HEUR-005"
+    conteudo: "Refresh 20-30% of creative library monthly"
+    fonte: "creative-analyst"
+    expert: "Creative Analyst"
+    metrica: "20-30%/month"
+    peso: 0.70
+
+  - id: "TF-HEUR-006"
+    conteudo: "Thumb stop ratio target >30%"
+    fonte: "ad-midas"
+    expert: "Ad Midas"
+    metrica: ">30%"
+    peso: 0.70
+
+  # --- BUDGET ALLOCATION ---
+  - id: "TF-HEUR-007"
+    conteudo: "Cold traffic = 70-80% of total ad budget"
+    fonte: "pittman"
+    expert: "Molly Pittman"
+    metrica: "70-80%"
+    peso: 0.70
+
+  - id: "TF-HEUR-008"
+    conteudo: "Budget allocation: Winners 60-70%, Testing 20-30%, Experiments 10%"
+    fonte: "fiscal"
+    expert: "Fiscal"
+    metrica: "60-70/20-30/10"
+    peso: 0.70
+
+  - id: "TF-HEUR-009"
+    conteudo: "Ad spend should be 10-30% of revenue"
+    fonte: "fiscal"
+    expert: "Fiscal"
+    metrica: "10-30%"
+    peso: 0.70
+
+  - id: "TF-HEUR-010"
+    conteudo: "Cash reserve: maintain 30-60 days of ad spend"
+    fonte: "fiscal"
+    expert: "Fiscal"
+    metrica: "30-60 days"
+    peso: 0.70
+
+  - id: "TF-HEUR-011"
+    conteudo: "LTV-based spend: can spend up to 1/3 of LTV on acquisition"
+    fonte: "fiscal"
+    expert: "Fiscal"
+    metrica: "1/3 LTV"
+    peso: 0.70
+
+  - id: "TF-HEUR-012"
+    conteudo: "Min test budget: 3-5x target CPA per ad set"
+    fonte: "mandalia"
+    expert: "Depesh Mandalia"
+    metrica: "3-5x CPA"
+    peso: 0.70
+
+  - id: "TF-HEUR-013"
+    conteudo: "Never increase budget more than 2x in a single day"
+    fonte: "scale-optimizer"
+    expert: "Scale Optimizer"
+    metrica: "max 2x/day"
+    peso: 0.70
+
+  # --- SCALING RULES ---
+  - id: "TF-HEUR-014"
+    conteudo: "Scale vertical: 20-30% budget increase every 48-72h"
+    fonte: "scale-optimizer"
+    expert: "Scale Optimizer"
+    metrica: "20-30% per 48-72h"
+    peso: 0.70
+
+  - id: "TF-HEUR-015"
+    conteudo: "CPA ceiling: kill if CPA exceeds 1.5x target"
+    fonte: "mandalia"
+    expert: "Depesh Mandalia"
+    metrica: "1.5x target"
+    peso: 0.70
+
+  - id: "TF-HEUR-016"
+    conteudo: "Kill rule: no conversions after spending 2x CPA target"
+    fonte: "mandalia"
+    expert: "Depesh Mandalia"
+    metrica: "2x CPA spend"
+    peso: 0.70
+
+  # --- TESTING RULES ---
+  - id: "TF-HEUR-017"
+    conteudo: "100 clicks or 20 conversions minimum before comparing ad sets"
+    fonte: "mandalia"
+    expert: "Depesh Mandalia"
+    metrica: "100 clicks / 20 conv"
+    peso: 0.70
+
+  - id: "TF-HEUR-018"
+    conteudo: "7 days minimum for any test before making decisions"
+    fonte: "media-buyer"
+    expert: "Media Buyer"
+    metrica: "7 days"
+    peso: 0.70
+
+  - id: "TF-HEUR-019"
+    conteudo: "95% statistical confidence required for major budget decisions"
+    fonte: "performance-analyst"
+    expert: "Performance Analyst"
+    metrica: "95%"
+    peso: 0.70
+
+  - id: "TF-HEUR-020"
+    conteudo: "Day 1-3: let algorithm learn. Day 4-7: kill or scale decision"
+    fonte: "media-buyer"
+    expert: "Media Buyer"
+    metrica: "3+4 days"
+    peso: 0.70
+
+  # --- FATIGUE SIGNALS ---
+  - id: "TF-HEUR-021"
+    conteudo: "Frequency >3.0 on cold traffic = creative fatigue"
+    fonte: "creative-analyst"
+    expert: "Creative Analyst"
+    metrica: ">3.0"
+    peso: 0.70
+
+  - id: "TF-HEUR-022"
+    conteudo: "CTR declining >20% WoW = fatigue signal"
+    fonte: "creative-analyst"
+    expert: "Creative Analyst"
+    metrica: ">20% WoW decline"
+    peso: 0.70
+
+  - id: "TF-HEUR-023"
+    conteudo: "CPA increasing >30% from baseline = fatigue signal"
+    fonte: "creative-analyst"
+    expert: "Creative Analyst"
+    metrica: ">30% increase"
+    peso: 0.70
+
+  # --- CPA SPIKE PROTOCOL ---
+  - id: "TF-HEUR-024"
+    conteudo: "CPA spike 20-30%: reduce budget 20%, monitor 48h"
+    fonte: "scale-optimizer"
+    expert: "Scale Optimizer"
+    metrica: "20-30% spike → -20% budget"
+    peso: 0.70
+
+  - id: "TF-HEUR-025"
+    conteudo: "CPA spike 30-50%: pause ad set, diagnose creative and audience"
+    fonte: "scale-optimizer"
+    expert: "Scale Optimizer"
+    metrica: "30-50% spike → pause"
+    peso: 0.70
+
+  - id: "TF-HEUR-026"
+    conteudo: "CPA spike 50%+: kill ad set, launch new creative"
+    fonte: "scale-optimizer"
+    expert: "Scale Optimizer"
+    metrica: ">50% spike → kill"
+    peso: 0.70
+
+  # --- UNIT ECONOMICS ---
+  - id: "TF-HEUR-027"
+    conteudo: "Payback period <30 days = excellent, 30-60 = good, 60-120 = acceptable, >120 = danger"
+    fonte: "fiscal"
+    expert: "Fiscal"
+    metrica: "<30d/30-60d/60-120d/>120d"
+    peso: 0.70
+
+  - id: "TF-HEUR-028"
+    conteudo: "Break-even ROAS = 1 / margin% (e.g., 50% margin = 2.0 ROAS)"
+    fonte: "performance-analyst"
+    expert: "Performance Analyst"
+    metrica: "1/margin%"
+    peso: 0.70
+
+  - id: "TF-HEUR-029"
+    conteudo: "ROAS is misleading across campaigns — nCAC is the real metric"
+    fonte: "burns"
+    expert: "Ralph Burns"
+    metrica: "nCAC > ROAS"
+    peso: 0.70
+
+  # --- PLATFORM-SPECIFIC ---
+  - id: "TF-HEUR-030"
+    conteudo: "4-8 ad sets per campaign ideal; 12+ underperform due to competition"
+    fonte: "sobral"
+    expert: "Pedro Sobral"
+    metrica: "4-8 ideal, 12+ bad"
+    peso: 0.70
+
+  - id: "TF-HEUR-031"
+    conteudo: "YouTube optimal ad length ~2:20 for in-stream"
+    fonte: "breeze"
+    expert: "Tom Breeze"
+    metrica: "~2:20"
+    peso: 0.70
+
+  - id: "TF-HEUR-032"
+    conteudo: "Cascading videos reduce cost per action by up to 75%"
+    fonte: "breeze"
+    expert: "Tom Breeze"
+    metrica: "-75%"
+    peso: 0.70
+
+  - id: "TF-HEUR-033"
+    conteudo: "PMax: create separate campaigns per audience signal"
+    fonte: "aslam"
+    expert: "Kasim Aslam"
+    metrica: "1 PMax per signal"
+    peso: 0.70
+
+  - id: "TF-HEUR-034"
+    conteudo: "4% Rule: your buyers are 20% of 20% of your audience"
+    fonte: "kusmich"
+    expert: "Nicholas Kusmich"
+    metrica: "4%"
+    peso: 0.70
+
+  - id: "TF-HEUR-035"
+    conteudo: "SAGE content: make it consumable in 4-7 minutes"
+    fonte: "kusmich"
+    expert: "Nicholas Kusmich"
+    metrica: "4-7 min"
+    peso: 0.70
+
+  # --- TRACKING ---
+  - id: "TF-HEUR-036"
+    conteudo: "Always use browser + server-side tracking — never browser only"
+    fonte: "pixel-specialist"
+    expert: "Pixel Specialist"
+    metrica: "dual tracking"
+    peso: 0.70
+
+  - id: "TF-HEUR-037"
+    conteudo: "Browser-only tracking loses 30-40% of events on Meta"
+    fonte: "pixel-specialist"
+    expert: "Pixel Specialist"
+    metrica: "-30-40% events"
+    peso: 0.70
+
+  # --- PLATFORM BENCHMARKS: FACEBOOK ---
+  - id: "TF-HEUR-038"
+    conteudo: "Facebook CTR benchmark: avg 0.90%, good 1.5%+"
+    fonte: "performance-analyst"
+    expert: "Performance Analyst"
+    metrica: "avg 0.90% / good 1.5%+"
+    plataforma: "facebook"
+    peso: 0.70
+
+  - id: "TF-HEUR-039"
+    conteudo: "Facebook CPC benchmark: avg $1.72"
+    fonte: "performance-analyst"
+    expert: "Performance Analyst"
+    metrica: "$1.72"
+    plataforma: "facebook"
+    peso: 0.70
+
+  - id: "TF-HEUR-040"
+    conteudo: "Facebook CPM benchmark: avg $14.90"
+    fonte: "performance-analyst"
+    expert: "Performance Analyst"
+    metrica: "$14.90"
+    plataforma: "facebook"
+    peso: 0.70
+
+  - id: "TF-HEUR-041"
+    conteudo: "Facebook CVR benchmark: avg 9.2%, ROAS avg 2:1, good 3:1+"
+    fonte: "performance-analyst"
+    expert: "Performance Analyst"
+    metrica: "CVR 9.2% / ROAS 2:1 good 3:1"
+    plataforma: "facebook"
+    peso: 0.70
+
+  # --- PLATFORM BENCHMARKS: GOOGLE SEARCH ---
+  - id: "TF-HEUR-042"
+    conteudo: "Google Search CTR benchmark: avg 3.17%, good 5%+"
+    fonte: "performance-analyst"
+    expert: "Performance Analyst"
+    metrica: "avg 3.17% / good 5%+"
+    plataforma: "google-search"
+    peso: 0.70
+
+  - id: "TF-HEUR-043"
+    conteudo: "Google Search CPC benchmark: avg $2.69, CVR 3.75%, Quality Score target 7+"
+    fonte: "performance-analyst"
+    expert: "Performance Analyst"
+    metrica: "CPC $2.69 / CVR 3.75% / QS 7+"
+    plataforma: "google-search"
+    peso: 0.70
+
+  # --- PLATFORM BENCHMARKS: YOUTUBE ---
+  - id: "TF-HEUR-044"
+    conteudo: "YouTube view rate benchmark: avg 31.9%, good 40%+"
+    fonte: "performance-analyst"
+    expert: "Performance Analyst"
+    metrica: "avg 31.9% / good 40%+"
+    plataforma: "youtube"
+    peso: 0.70
+
+  - id: "TF-HEUR-045"
+    conteudo: "YouTube CPV benchmark: avg $0.026, 5s retention target 70%+"
+    fonte: "performance-analyst"
+    expert: "Performance Analyst"
+    metrica: "CPV $0.026 / 5s ret 70%+"
+    plataforma: "youtube"
+    peso: 0.70
+
+  # --- PLATFORM BENCHMARKS: TIKTOK ---
+  - id: "TF-HEUR-046"
+    conteudo: "TikTok CTR benchmark: avg 0.84%, good 1.5%+; CPC avg $1.00; Hook 3s retention 30%+"
+    fonte: "performance-analyst"
+    expert: "Performance Analyst"
+    metrica: "CTR 0.84% / CPC $1.00 / Hook 30%+"
+    plataforma: "tiktok"
+    peso: 0.70
+
+  # --- PLATFORM BENCHMARKS: LINKEDIN ---
+  - id: "TF-HEUR-047"
+    conteudo: "LinkedIn CTR benchmark: avg 0.44%, good 0.8%+; CPC avg $5.26; CPM avg $33.80 (highest of all platforms)"
+    fonte: "performance-analyst"
+    expert: "Performance Analyst"
+    metrica: "CTR 0.44% / CPC $5.26 / CPM $33.80"
+    plataforma: "linkedin"
+    peso: 0.70
+
+  # --- INDUSTRY BENCHMARKS ---
+  - id: "TF-HEUR-048"
+    conteudo: "Industry CPA benchmarks: eCommerce $45 ROAS 2.5:1, SaaS $75-$150, Info Products $30-$80, Coaching/HT $100-$300"
+    fonte: "performance-analyst"
+    expert: "Performance Analyst"
+    metrica: "by industry"
+    peso: 0.70
+
+  - id: "TF-HEUR-049"
+    conteudo: "Funnel stage budget split: TOF 50-60%, MOF 20-30%, BOF 15-25%"
+    fonte: "pittman"
+    expert: "Molly Pittman"
+    metrica: "50-60/20-30/15-25"
+    peso: 0.70
+
+  - id: "TF-HEUR-050"
+    conteudo: "Funnel stage CVR expectations: TOF 1-3%, MOF 5-15%, BOF 15-40%"
+    fonte: "performance-analyst"
+    expert: "Performance Analyst"
+    metrica: "TOF 1-3% / MOF 5-15% / BOF 15-40%"
+    peso: 0.70
+
+  - id: "TF-HEUR-051"
+    conteudo: "Attribution lookback: Meta 7-day click / 1-day view; Google 30-day click; TikTok 7-day click"
+    fonte: "pixel-specialist"
+    expert: "Pixel Specialist"
+    metrica: "7d/1d / 30d / 7d"
+    peso: 0.70
+
+# ═══════════════════════════════════════════════════════════════════════════════
+# L4: FRAMEWORKS (17 elementos)
+# ═══════════════════════════════════════════════════════════════════════════════
+
+frameworks:
+  - id: "TF-FW-001"
+    nome: "Traffic Engine 9-Step"
+    fonte: "pittman"
+    expert: "Molly Pittman"
+    peso: 0.70
+    descricao: "Sistema completo de tráfego pago em 9 passos"
+    elementos:
+      - "1. Define Avatar — ICP profundo com dores e desejos"
+      - "2. Map Customer Journey — Cold → Warm → Hot path"
+      - "3. Choose Traffic Source — Baseado em onde o avatar ESTÁ"
+      - "4. Create Ad Grid — Matrix de hooks × audiences × angles"
+      - "5. Build Landing System — Congruência ad → page"
+      - "6. Set Tracking — Pixel, CAPI, UTMs, attribution"
+      - "7. Launch & Test — Budget mínimo, múltiplas variações"
+      - "8. Analyze & Optimize — Métricas por temperatura"
+      - "9. Scale Winners — Vertical e horizontal scaling"
+    aplicacao: "Setup completo de operação de tráfego do zero"
+
+  - id: "TF-FW-002"
+    nome: "Creative Lab 7-Step"
+    fonte: "burns"
+    expert: "Ralph Burns"
+    peso: 0.70
+    descricao: "Processo de produção e teste de criativos em escala"
+    elementos:
+      - "1. Research — Swipe file, competitor analysis, reviews"
+      - "2. Ideation — 10 hooks per concept, angle mapping"
+      - "3. Production — Rapid creation (quantity over perfection)"
+      - "4. Testing — Structured test with control group"
+      - "5. Analysis — AC-4 scoring, metrics review"
+      - "6. Iteration — Winning elements recombined"
+      - "7. Archive — Unicorn Ads cataloged for future reference"
+    aplicacao: "Pipeline de criativos para operação de alta frequência"
+
+  - id: "TF-FW-003"
+    nome: "Graduation Testing GT1-GT3"
+    fonte: "mandalia"
+    expert: "Depesh Mandalia"
+    peso: 0.70
+    descricao: "Sistema de promoção de anúncios por performance comprovada"
+    elementos:
+      - "GT1: Test Phase — $5-10/day, lowest cost bidding, 3-5 ad sets"
+      - "GT2: Validation Phase — $20-50/day, cost cap bidding, winners only"
+      - "GT3: Scale Phase — $100+/day, bid cap, proven performers only"
+    aplicacao: "Progressão controlada de budget baseada em dados"
+
+  - id: "TF-FW-004"
+    nome: "ADUCATE(S) Framework"
+    fonte: "breeze"
+    expert: "Tom Breeze"
+    peso: 0.70
+    descricao: "Estrutura de YouTube ad de alta conversão"
+    elementos:
+      - "A — Aim (target the right viewer in first 5s)"
+      - "D — Difficulty (present the core problem)"
+      - "U — Understanding (show empathy, build rapport)"
+      - "C — Credibility (proof, results, authority)"
+      - "A — Action Plan (clear path to solution)"
+      - "T — Teach (give genuine value/insight)"
+      - "E — Exit (strong CTA with urgency)"
+      - "S — Subscribe (optional: channel growth layer)"
+    aplicacao: "YouTube in-stream ads de 60s-3min"
+
+  - id: "TF-FW-005"
+    nome: "Three-Act Ad Structure"
+    fonte: "breeze"
+    expert: "Tom Breeze"
+    peso: 0.70
+    descricao: "Estrutura narrativa de anúncio em vídeo"
+    elementos:
+      - "Act 1: HOOK — Capture attention, state the problem (0-5s)"
+      - "Act 2: STORY — Build tension, present solution, proof (5s-90s)"
+      - "Act 3: OFFER — CTA, urgency, reason to act now (final 30s)"
+    aplicacao: "Video ads em qualquer plataforma"
+
+  - id: "TF-FW-006"
+    nome: "4-Phase Creative Testing"
+    fonte: "ad-midas"
+    expert: "Ad Midas"
+    peso: 0.70
+    descricao: "Teste estruturado de elementos criativos"
+    elementos:
+      - "Phase 1: Hook Testing — 5-10 hooks, same body/CTA"
+      - "Phase 2: Body Testing — Winning hook, 3-5 body variations"
+      - "Phase 3: CTA Testing — Winning hook+body, 3 CTA variations"
+      - "Phase 4: Format Testing — Winner in different formats (video, image, carousel)"
+    aplicacao: "Isolamento de variáveis em testes criativos"
+
+  - id: "TF-FW-007"
+    nome: "4-Phase Scaling"
+    fonte: "scale-optimizer"
+    expert: "Scale Optimizer"
+    peso: 0.70
+    descricao: "Progressão de scaling com controle de risco"
+    elementos:
+      - "Phase 1: Vertical — Increase budget 20-30% every 48-72h on winners"
+      - "Phase 2: Horizontal — Duplicate winners into new audiences/lookalikes"
+      - "Phase 3: Cross-Platform — Take winners to new platforms"
+      - "Phase 4: International — Expand geography with localized creative"
+    aplicacao: "Scaling de campanhas de $100/day para $10k+/day"
+
+  - id: "TF-FW-008"
+    nome: "8-Dimension Audit"
+    fonte: "ads-analyst"
+    expert: "Ads Analyst"
+    peso: 0.70
+    descricao: "Auditoria completa de conta de ads"
+    elementos:
+      - "1. Account Structure — Campaign hierarchy, naming conventions"
+      - "2. Targeting — Audience overlap, exclusions, LAL quality"
+      - "3. Creative — Variety, freshness, format mix"
+      - "4. Copy — Headlines, descriptions, CTA strength"
+      - "5. Landing Pages — Speed, congruence, conversion elements"
+      - "6. Tracking — Pixel health, CAPI, attribution windows"
+      - "7. Budget — Allocation efficiency, waste identification"
+      - "8. Performance — KPI trends, benchmarks, anomalies"
+    aplicacao: "Diagnóstico completo antes de otimização"
+
+  - id: "TF-FW-009"
+    nome: "APM - Ascension Process Model"
+    fonte: "mandalia"
+    expert: "Depesh Mandalia"
+    peso: 0.70
+    descricao: "Modelo de ascensão do prospect através de awareness stages via ads"
+    elementos:
+      - "Stage 1: Awareness Ads — Content, education, problem agitation"
+      - "Stage 2: Consideration Ads — Social proof, case studies, comparison"
+      - "Stage 3: Conversion Ads — Direct offer, urgency, risk reversal"
+      - "Stage 4: Retention Ads — Upsell, cross-sell, loyalty"
+    aplicacao: "Sequência de ads alinhada com buyer journey"
+
+  - id: "TF-FW-010"
+    nome: "Choose Your Own Adventure"
+    fonte: "breeze"
+    expert: "Tom Breeze"
+    peso: 0.70
+    descricao: "Sistema de retargeting baseado em engajamento com vídeo"
+    elementos:
+      - "Level 1: Viewed 25% — Show deeper content ad"
+      - "Level 2: Viewed 50% — Show case study/proof ad"
+      - "Level 3: Viewed 75% — Show direct offer ad"
+      - "Level 4: Viewed 95% — Show urgency/scarcity ad"
+    aplicacao: "Retargeting progressivo em YouTube e Meta"
+
+  - id: "TF-FW-011"
+    nome: "Cascading Videos"
+    fonte: "breeze"
+    expert: "Tom Breeze"
+    peso: 0.70
+    descricao: "Sequência de vídeos progressivos que reduzem custo por ação"
+    elementos:
+      - "Video 1: Long-form education (2-3 min, cold audience)"
+      - "Video 2: Case study/proof (60-90s, retarget V1 viewers)"
+      - "Video 3: Direct CTA (15-30s, retarget V2 viewers)"
+    aplicacao: "Redução de CPA em até 75% via sequência de nurturing"
+
+  - id: "TF-FW-012"
+    nome: "Reverse Funnel"
+    fonte: "kusmich"
+    expert: "Nicholas Kusmich"
+    peso: 0.70
+    descricao: "Inverter o funil tradicional — começar pelo valor"
+    elementos:
+      - "Step 1: Give — Entregar valor genuíno gratuitamente"
+      - "Step 2: Give — Mais valor, build relationship"
+      - "Step 3: Give — Valor premium, establish authority"
+      - "Step 4: Ask — Agora pode pedir (prospect já confia)"
+    aplicacao: "Campanhas de alto valor com ciclo de venda longo"
+
+  - id: "TF-FW-013"
+    nome: "Ad Grid"
+    fonte: "pittman"
+    expert: "Molly Pittman"
+    peso: 0.70
+    descricao: "Matriz de combinação de audiences × hooks × angles"
+    elementos:
+      - "Rows: Audiences (cold LAL, interest, custom, retarget)"
+      - "Columns: Hooks (pain, desire, curiosity, proof, contrarian)"
+      - "Cells: Specific ad creative for each combination"
+      - "Priority: Fill high-volume cells first"
+    aplicacao: "Planejamento sistemático de criação de anúncios"
+
+  - id: "TF-FW-014"
+    nome: "Give-Give-Give-Ask"
+    fonte: "kusmich"
+    expert: "Nicholas Kusmich"
+    peso: 0.70
+    descricao: "Sequência de ads que entrega valor antes de pedir"
+    elementos:
+      - "Give 1: Educational content (blog post, video, guide)"
+      - "Give 2: Deeper value (webinar, case study, tool)"
+      - "Give 3: Premium insight (exclusive data, framework)"
+      - "Ask: Direct offer to qualified audience"
+    aplicacao: "High-ticket e B2B com ciclo de compra longo"
+
+  - id: "TF-FW-015"
+    nome: "Video Ad Script Structure"
+    fonte: "ad-midas"
+    expert: "Ad Midas"
+    peso: 0.70
+    descricao: "Estrutura de script para anúncio em vídeo"
+    elementos:
+      - "1. Pattern Interrupt (0-3s) — Stop the scroll"
+      - "2. Hook/Problem (3-10s) — Why they should care"
+      - "3. Agitate (10-20s) — Deepen the pain"
+      - "4. Solution (20-35s) — Introduce the answer"
+      - "5. Proof (35-50s) — Social proof, results, credibility"
+      - "6. CTA (50-60s) — Clear, specific next step"
+    aplicacao: "Scripts de 30-90s para Meta, YouTube, TikTok"
+
+  - id: "TF-FW-016"
+    nome: "Daily Optimization Routine"
+    fonte: "media-buyer"
+    expert: "Media Buyer"
+    peso: 0.70
+    descricao: "Rotina diária de otimização de campanhas"
+    elementos:
+      - "1. Morning Check (9am) — Overnight spend, CPA, anomalies"
+      - "2. Kill/Scale Decision — Apply rules (2x CPA kill, 20-30% scale)"
+      - "3. Creative Review — Fatigue signals, new launches needed"
+      - "4. Budget Reallocation — Move from losers to winners"
+      - "5. End-of-Day Report — Daily metrics vs targets"
+    aplicacao: "Operação diária de media buying"
+
+  - id: "TF-FW-017"
+    nome: "Wasted Spend Audit"
+    fonte: "ads-analyst"
+    expert: "Ads Analyst"
+    peso: 0.70
+    descricao: "Auditoria de desperdício em contas de ads"
+    elementos:
+      - "1. Audience Overlap — Find competing ad sets"
+      - "2. Placement Analysis — Remove low-performing placements"
+      - "3. Device Breakdown — Cut underperforming devices"
+      - "4. Time-of-Day — Daypart optimization"
+      - "5. Geography — Cut low-performing geos"
+      - "6. Age/Gender — Exclude non-converting demos"
+    aplicacao: "Recuperar 10-30% de budget desperdiçado"
+
+# ═══════════════════════════════════════════════════════════════════════════════
+# L5: METODOLOGIAS (17 elementos)
+# ═══════════════════════════════════════════════════════════════════════════════
+
+metodologias:
+  - id: "TF-MET-001"
+    nome: "BPM Method (Business Performance Marketing)"
+    fonte: "mandalia"
+    expert: "Depesh Mandalia"
+    peso: 0.70
+    descricao: "Metodologia completa de performance marketing"
+    passos:
+      - "1. Business Analysis — Unit economics, margins, LTV, payback"
+      - "2. Audience Mapping — ICP definition, awareness levels, temperature"
+      - "3. Creative Strategy — AC-4 scoring, angle development, hook library"
+      - "4. Campaign Architecture — GT1/GT2/GT3 structure, naming conventions"
+      - "5. Launch Protocol — Test budget, bidding strategy, timing"
+      - "6. Optimization Cycles — Daily routine, weekly reviews, monthly resets"
+      - "7. Scale Protocol — Graduation criteria, vertical then horizontal"
+      - "8. Reporting — nCAC tracking, MER dashboard, creative performance"
+
+  - id: "TF-MET-002"
+    nome: "Traffic Engine Implementation"
+    fonte: "pittman"
+    expert: "Molly Pittman"
+    peso: 0.70
+    descricao: "Implementação passo-a-passo do Traffic Engine"
+    passos:
+      - "1. Avatar Research — Surveys, reviews, competitor analysis (2-3 days)"
+      - "2. Customer Journey Map — Map every touchpoint cold→hot (1 day)"
+      - "3. Channel Selection — Where is your avatar? Primary + Secondary (1 day)"
+      - "4. Ad Grid Creation — 5 hooks × 3 audiences minimum (1 day)"
+      - "5. Landing Page Build — One page per temperature (2-3 days)"
+      - "6. Tracking Setup — Pixel, CAPI, UTMs, offline events (1 day)"
+      - "7. Campaign Build — Structure per Ad Grid (1 day)"
+      - "8. Launch — $50-100/day test budget, run 7 days minimum"
+      - "9. First Optimization — Kill losers, scale winners, iterate creative"
+
+  - id: "TF-MET-003"
+    nome: "YouTube Ad Campaign Launch (ADUCATE)"
+    fonte: "breeze"
+    expert: "Tom Breeze"
+    peso: 0.70
+    descricao: "Metodologia de lançamento de campanha YouTube"
+    passos:
+      - "1. Script ADUCATE — Write using 7-part framework"
+      - "2. Record — Talking head + B-roll, 90s-3min length"
+      - "3. Edit — Pacing, captions, visual hooks"
+      - "4. Campaign Setup — In-stream, custom intent audiences"
+      - "5. Bidding — Start with target CPA, not max conversions"
+      - "6. Companion Banner — Design for desktop click"
+      - "7. Launch — $30-50/day, 3 ad variations minimum"
+      - "8. Analyze at 7 days — View rate, CTR, CVR, CPA"
+      - "9. Cascade — Winners become V1 of Cascading Video sequence"
+
+  - id: "TF-MET-004"
+    nome: "Performance Max Setup"
+    fonte: "aslam"
+    expert: "Kasim Aslam"
+    peso: 0.70
+    descricao: "Metodologia de implementação de PMax"
+    passos:
+      - "1. Conversion Setup — Define PRIMARY conversion only (not micro)"
+      - "2. Asset Groups — One per audience signal, not per product"
+      - "3. Audience Signals — Customer lists, custom segments, interests"
+      - "4. Creative Assets — 5+ headlines, 5+ descriptions, 15+ images, 5+ videos"
+      - "5. Brand Exclusions — Exclude branded search (run separately)"
+      - "6. URL Expansion — OFF (control landing pages)"
+      - "7. Budget — Min $50/day per asset group"
+      - "8. Wait — 2 weeks learning phase, no changes"
+      - "9. Optimize — Add/remove assets based on performance"
+
+  - id: "TF-MET-005"
+    nome: "Contextual Congruence Implementation"
+    fonte: "kusmich"
+    expert: "Nicholas Kusmich"
+    peso: 0.70
+    descricao: "Metodologia para garantir congruência em todo o funil"
+    passos:
+      - "1. Message Core — Define ONE core message for entire funnel"
+      - "2. Visual Identity — Same colors, fonts, imagery throughout"
+      - "3. Ad → Landing Page Audit — Does headline match? Same promise?"
+      - "4. Landing Page → Thank You — Continuity of message and expectation"
+      - "5. Email Sequence — Same voice, same promise, same visual"
+      - "6. Sales Page/Call — Reinforce same core message"
+      - "7. Test Congruence — Show funnel to 3 people, ask 'Is this the same company?'"
+
+  - id: "TF-MET-006"
+    nome: "Creative Decomposition Analysis"
+    fonte: "creative-analyst"
+    expert: "Creative Analyst"
+    peso: 0.70
+    descricao: "Análise sistemática de por que um criativo funciona (ou não)"
+    passos:
+      - "1. Isolate — Watch ad with sound off (visual impact)"
+      - "2. Timestamp — Mark engagement shifts (hook, drop-off, peak)"
+      - "3. Score — AC-4: Hook (0-5), Body (0-5), CTA (0-5), Visual (0-5)"
+      - "4. Compare — Side-by-side with top performer and worst performer"
+      - "5. Extract — List winning elements (hook type, proof format, CTA style)"
+      - "6. Recombine — Create new variation using winning elements"
+      - "7. Document — Add to Creative Playbook with tags"
+
+  - id: "TF-MET-007"
+    nome: "Scaling Decision Protocol"
+    fonte: "scale-optimizer"
+    expert: "Scale Optimizer"
+    peso: 0.70
+    descricao: "Protocolo de decisão para escalar ou matar campanhas"
+    passos:
+      - "1. Check Volume — 20+ conversions in last 7 days?"
+      - "2. Check CPA — Within 1.5x target? Stable or declining?"
+      - "3. Check Trend — 3-day moving average improving or declining?"
+      - "4. Decision Matrix — Green (all pass) = Scale 20-30%"
+      - "5. Decision Matrix — Yellow (1 fail) = Hold, monitor 48h"
+      - "6. Decision Matrix — Red (2+ fail) = Reduce budget 30% or kill"
+      - "7. Post-Scale Check — Monitor for 72h after any budget change"
+
+  - id: "TF-MET-008"
+    nome: "Account Restructure Protocol"
+    fonte: "ads-analyst"
+    expert: "Ads Analyst"
+    peso: 0.70
+    descricao: "Protocolo de reestruturação de conta bagunçada"
+    passos:
+      - "1. Audit — Run 8-Dimension Audit, document findings"
+      - "2. Identify Waste — Wasted Spend Audit, quantify savings"
+      - "3. Consolidate — Reduce campaigns (Raposa Problem), merge similar"
+      - "4. Rebuild — New naming conventions, clean structure"
+      - "5. Migrate — Move winning ads to new structure (don't lose data)"
+      - "6. Relaunch — 7-day parallel run (old + new), compare"
+      - "7. Sunset — Kill old campaigns after new ones stabilize"
+
+  - id: "TF-MET-009"
+    nome: "Pixel & Tracking Implementation"
+    fonte: "pixel-specialist"
+    expert: "Pixel Specialist"
+    peso: 0.70
+    descricao: "Setup completo de tracking multi-plataforma"
+    passos:
+      - "1. GTM Setup — Google Tag Manager as container for all pixels"
+      - "2. Browser Pixel — Meta, Google, TikTok base codes via GTM"
+      - "3. Server-Side — CAPI (Meta), Enhanced Conversions (Google)"
+      - "4. UTM Strategy — Source/Medium/Campaign/Content/Term standardized"
+      - "5. Event Mapping — Standard events + custom events per funnel stage"
+      - "6. Testing — Use pixel helpers, test mode, real conversions"
+      - "7. Attribution Windows — Configure per platform (7d click Meta, 30d Google)"
+      - "8. Dashboard — Central dashboard combining all platform data"
+
+  - id: "TF-MET-010"
+    nome: "Budget Planning & Cash Flow"
+    fonte: "fiscal"
+    expert: "Fiscal"
+    peso: 0.70
+    descricao: "Planejamento financeiro de operação de tráfego"
+    passos:
+      - "1. Unit Economics — Calculate CAC, LTV, payback period, margin"
+      - "2. Break-Even — Determine break-even ROAS (1/margin%)"
+      - "3. Target CPA — Set max acceptable CPA from unit economics"
+      - "4. Monthly Budget — Based on revenue target / target ROAS"
+      - "5. Cash Reserve — Ensure 30-60 days of ad spend in reserve"
+      - "6. Allocation — Winners 60-70%, Testing 20-30%, Experiments 10%"
+      - "7. Weekly Review — Actual vs Budget, reallocation decisions"
+      - "8. Monthly Report — P&L by channel, ROI by campaign"
+
+  - id: "TF-MET-011"
+    nome: "Hook Writing Workshop"
+    fonte: "ad-midas"
+    expert: "Ad Midas"
+    peso: 0.70
+    descricao: "Processo de criação de hooks de alta conversão"
+    passos:
+      - "1. Research — Collect 50 hooks from swipe file and competitors"
+      - "2. Categorize — Pain, Desire, Curiosity, Proof, Contrarian, Story"
+      - "3. Template — Extract patterns from top performers"
+      - "4. Brainstorm — Write 20 hooks using templates + original ideas"
+      - "5. Filter — Score each hook 1-10 (scroll-stopping power)"
+      - "6. Top 10 — Select best 10 for testing"
+      - "7. Test — Same body/CTA, only hook changes, $5/day each"
+      - "8. Winner — Top 3 hooks become foundation for next round"
+
+  - id: "TF-MET-012"
+    nome: "Competitor Ad Intelligence"
+    fonte: "media-buyer"
+    expert: "Media Buyer"
+    peso: 0.70
+    descricao: "Processo de espionagem e análise de concorrentes"
+    passos:
+      - "1. Identify — List top 10 competitors and aspirational brands"
+      - "2. Meta Ad Library — Screenshot all active ads, note run time"
+      - "3. Google Transparency — Check search and display ads"
+      - "4. SpyFu/SEMrush — Competitor keyword and ad spend estimates"
+      - "5. Analyze — What hooks, angles, offers are they running?"
+      - "6. Long-Running = Working — Ads running 30+ days are winners"
+      - "7. Swipe — Add winning elements to your swipe file"
+      - "8. Differentiate — Create counter-positioning creative"
+
+  - id: "TF-MET-013"
+    nome: "Retargeting Sequence Build"
+    fonte: "kusmich"
+    expert: "Nicholas Kusmich"
+    peso: 0.70
+    descricao: "Construção de sequência de retargeting multi-stage"
+    passos:
+      - "1. Audience Segmentation — Video viewers, page visitors, engagers, ATC"
+      - "2. Recency Windows — 1-3 days (hot), 4-7 days (warm), 8-30 days (cooling)"
+      - "3. Message Mapping — Objection handling per segment"
+      - "4. Creative Per Stage — Testimonial → Case Study → Urgency → Last Chance"
+      - "5. Frequency Cap — Max 2-3 impressions per day per person"
+      - "6. Exclusions — Exclude purchasers, exclude between stages"
+      - "7. Budget — 15-25% of total ad spend to retargeting"
+
+  - id: "TF-MET-014"
+    nome: "Landing Page Optimization Sprint"
+    fonte: "pittman"
+    expert: "Molly Pittman"
+    peso: 0.70
+    descricao: "Sprint de otimização de landing page para tráfego pago"
+    passos:
+      - "1. Baseline — Record current CVR, bounce rate, time on page"
+      - "2. Heatmap — Install heatmap tool, collect 1000+ visits"
+      - "3. Congruence Check — Does page match ad promise exactly?"
+      - "4. Speed Test — Target <3s load time, optimize images"
+      - "5. Above the Fold — Headline, sub-headline, CTA, trust elements"
+      - "6. A/B Test — ONE element at a time, 7+ days, 95% confidence"
+      - "7. Implement Winner — Roll out, set new baseline"
+
+  - id: "TF-MET-015"
+    nome: "Cross-Platform Launch"
+    fonte: "scale-optimizer"
+    expert: "Scale Optimizer"
+    peso: 0.70
+    descricao: "Expandir de uma plataforma para múltiplas"
+    passos:
+      - "1. Master Platform — Ensure primary platform is profitable and stable"
+      - "2. Select Second — Choose based on audience overlap and content format"
+      - "3. Adapt Creative — Reformat winners for new platform specs"
+      - "4. Adjust Expectations — New platform = new learning curve, higher CPA initially"
+      - "5. Test Budget — 20% of primary platform spend as test"
+      - "6. 30-Day Trial — Run for 30 days before judging"
+      - "7. Compare MER — Total MER should improve with diversification"
+
+  - id: "TF-MET-016"
+    nome: "Creative Refresh Cycle"
+    fonte: "creative-analyst"
+    expert: "Creative Analyst"
+    peso: 0.70
+    descricao: "Ciclo contínuo de refresh de criativos para evitar fadiga"
+    passos:
+      - "1. Monitor — Track CTR and CPA trends daily"
+      - "2. Flag — CTR -20% WoW or CPA +30% = fatigue signal"
+      - "3. Analyze — Which element fatigued? (hook, visual, copy, format)"
+      - "4. Refresh — Change fatigued element, keep winning elements"
+      - "5. Launch — New variation alongside original (don't kill yet)"
+      - "6. Compare — 7-day head-to-head comparison"
+      - "7. Archive — Document what fatigued and what replaced it"
+
+  - id: "TF-MET-017"
+    nome: "MER Reporting Dashboard"
+    fonte: "burns"
+    expert: "Ralph Burns"
+    peso: 0.70
+    descricao: "Implementação de dashboard MER para visão holística"
+    passos:
+      - "1. Data Sources — Connect all ad platforms + payment processor + CRM"
+      - "2. Define MER — Total Revenue / Total Ad Spend (all channels)"
+      - "3. Define nCAC — Total Ad Spend / Total New Customers (net of returns)"
+      - "4. Blended Metrics — Don't trust platform-reported ROAS"
+      - "5. Weekly Cadence — Review MER weekly, not daily (too volatile)"
+      - "6. Trend Analysis — 4-week rolling average for decision making"
+      - "7. Action Triggers — MER dropping 2+ weeks = investigate, not panic"
+
+# ═══════════════════════════════════════════════════════════════════════════════
+# TASK ROUTING
+# ═══════════════════════════════════════════════════════════════════════════════
+
+task_routing:
+  - tarefa: "Criar campanha do zero"
+    frameworks: ["TF-FW-001", "TF-FW-013"]
+    metodologias: ["TF-MET-002", "TF-MET-009"]
+    experts: ["pittman", "pixel-specialist"]
+
+  - tarefa: "Escalar campanha lucrativa"
+    frameworks: ["TF-FW-003", "TF-FW-007"]
+    metodologias: ["TF-MET-007"]
+    experts: ["mandalia", "scale-optimizer"]
+
+  - tarefa: "Diagnosticar CPA alto"
+    frameworks: ["TF-FW-008", "TF-FW-017"]
+    metodologias: ["TF-MET-006", "TF-MET-008"]
+    experts: ["ads-analyst", "creative-analyst"]
+
+  - tarefa: "Criar criativos de alta conversão"
+    frameworks: ["TF-FW-002", "TF-FW-006", "TF-FW-015"]
+    metodologias: ["TF-MET-011", "TF-MET-006"]
+    experts: ["ad-midas", "burns"]
+
+  - tarefa: "Lançar YouTube Ads"
+    frameworks: ["TF-FW-004", "TF-FW-005", "TF-FW-010", "TF-FW-011"]
+    metodologias: ["TF-MET-003"]
+    experts: ["breeze"]
+
+  - tarefa: "Configurar Google/PMax"
+    frameworks: []
+    metodologias: ["TF-MET-004"]
+    experts: ["aslam"]
+
+  - tarefa: "Planejar budget de tráfego"
+    frameworks: []
+    metodologias: ["TF-MET-010"]
+    experts: ["fiscal"]
+
+  - tarefa: "Setup de tracking"
+    frameworks: []
+    metodologias: ["TF-MET-009"]
+    experts: ["pixel-specialist"]
+
+  - tarefa: "Retargeting strategy"
+    frameworks: ["TF-FW-010", "TF-FW-012", "TF-FW-014"]
+    metodologias: ["TF-MET-013"]
+    experts: ["kusmich", "breeze"]
+
+  - tarefa: "Otimizar landing page"
+    metodologias: ["TF-MET-014"]
+    experts: ["pittman", "kusmich"]
+
+# ═══════════════════════════════════════════════════════════════════════════════
+# SIGNATURE VOCABULARY
+# ═══════════════════════════════════════════════════════════════════════════════
+
+signature_vocabulary:
+  - termo: "nCAC"
+    definicao: "Net Customer Acquisition Cost — total spend / total new customers net of refunds"
+    expert: "burns"
+
+  - termo: "MER"
+    definicao: "Marketing Efficiency Ratio — total revenue / total ad spend across all channels"
+    expert: "burns"
+
+  - termo: "AC-4"
+    definicao: "Ad Creative 4-Dimension Score — Hook, Body, CTA, Visual scored 0-5 each, total /20"
+    expert: "mandalia"
+
+  - termo: "Graduation Testing"
+    definicao: "GT1→GT2→GT3 progression based on proven performance at each budget level"
+    expert: "mandalia"
+
+  - termo: "Traffic Temperature"
+    definicao: "Cold (stranger), Warm (aware), Hot (ready) — determines ad message and offer"
+    expert: "pittman"
+
+  - termo: "Unicorn Ad"
+    definicao: "Rare ad that performs 10x above average — found through volume, not engineered"
+    expert: "burns"
+
+  - termo: "ADUCATE"
+    definicao: "YouTube ad framework: Aim, Difficulty, Understanding, Credibility, Action, Teach, Exit"
+    expert: "breeze"
+
+  - termo: "Cascading Videos"
+    definicao: "Sequence of progressively shorter videos that nurture viewer toward conversion"
+    expert: "breeze"
+
+  - termo: "Passo Anterior"
+    definicao: "When something isn't working, the problem is in the PREVIOUS step of the funnel"
+    expert: "sobral"
+
+  - termo: "Raposa Problem"
+    definicao: "Too many campaigns (foxes) competing for the same budget — consolidate"
+    expert: "sobral"
+
+  - termo: "Contextual Congruence"
+    definicao: "Visual and message consistency across ad → landing page → offer → email"
+    expert: "kusmich"
+
+  - termo: "4% Rule"
+    definicao: "Your buyers are 20% of 20% of your total audience — focus on them"
+    expert: "kusmich"
+
+  - termo: "Leaky Bucket"
+    definicao: "Fix funnel holes before adding more traffic — more water in a broken bucket = more waste"
+    expert: "mandalia"
+
+  - termo: "SAGE"
+    definicao: "Short, Actionable, Goal-oriented, Easy-to-consume content (4-7 min)"
+    expert: "kusmich"
+
+# ═══════════════════════════════════════════════════════════════════════════════
+# PRODUCTIVE TENSIONS
+# ═══════════════════════════════════════════════════════════════════════════════
+
+productive_tensions:
+  - tensao: "ROAS vs nCAC"
+    lado_a: "Traditional media buyers optimize for per-campaign ROAS"
+    lado_b: "Burns argues nCAC is the only metric that matters holistically"
+    resolucao: "Use ROAS for daily optimization, MER/nCAC for strategic decisions"
+    experts: ["burns", "media-buyer"]
+
+  - tensao: "Broad vs Detailed Targeting"
+    lado_a: "Mandalia/Sobral: let creative do the targeting, go broad"
+    lado_b: "Kusmich: detailed targeting ensures message-audience fit"
+    resolucao: "Broad for Meta (algorithm is good), Detailed for YouTube/Google (intent matters)"
+    experts: ["mandalia", "sobral", "kusmich"]
+
+  - tensao: "Scale Fast vs Scale Safe"
+    lado_a: "Aslam: diminishing returns are still returns, push harder"
+    lado_b: "Mandalia: graduate through GT1→GT3, never skip validation"
+    resolucao: "GT1-GT3 for new creative, aggressive scaling for proven Unicorn Ads"
+    experts: ["aslam", "mandalia"]
+
+  - tensao: "Long-form vs Short-form Ads"
+    lado_a: "Breeze: 2+ min YouTube ads with ADUCATE convert better"
+    lado_b: "TikTok/Reels ecosystem rewards <60s content"
+    resolucao: "Match format to platform — long for YouTube, short for social"
+    experts: ["breeze", "ad-midas"]
+
+  - tensao: "Give First vs Direct Offer"
+    lado_a: "Kusmich: Give-Give-Give-Ask builds trust and reduces CPA long-term"
+    lado_b: "Scale Optimizer: direct offer to hot audiences converts faster"
+    resolucao: "Give-first for cold traffic, direct offer for warm/hot retargeting"
+    experts: ["kusmich", "scale-optimizer"]
+
+# ═══════════════════════════════════════════════════════════════════════════════
+# PLATFORM EXPERTISE MAP
+# ═══════════════════════════════════════════════════════════════════════════════
+
+platform_expertise_map:
+  meta:
+    primary_experts: ["mandalia", "sobral", "pittman", "burns"]
+    key_frameworks: ["TF-FW-003", "TF-FW-006", "TF-FW-013"]
+    key_heuristics: ["TF-HEUR-038", "TF-HEUR-039", "TF-HEUR-040", "TF-HEUR-041"]
+
+  youtube:
+    primary_experts: ["breeze"]
+    key_frameworks: ["TF-FW-004", "TF-FW-005", "TF-FW-010", "TF-FW-011"]
+    key_heuristics: ["TF-HEUR-044", "TF-HEUR-045", "TF-HEUR-031", "TF-HEUR-032"]
+
+  google:
+    primary_experts: ["aslam"]
+    key_frameworks: []
+    key_methodology: ["TF-MET-004"]
+    key_heuristics: ["TF-HEUR-042", "TF-HEUR-043", "TF-HEUR-033"]
+
+  tiktok:
+    primary_experts: ["ad-midas"]
+    key_frameworks: ["TF-FW-006"]
+    key_heuristics: ["TF-HEUR-046"]
+
+  linkedin:
+    primary_experts: ["media-buyer"]
+    key_heuristics: ["TF-HEUR-047"]
+
+  cross_platform:
+    primary_experts: ["media-buyer", "pixel-specialist", "scale-optimizer"]
+    key_frameworks: ["TF-FW-001", "TF-FW-008"]
+    key_methodology: ["TF-MET-015", "TF-MET-009"]
+
+# ═══════════════════════════════════════════════════════════════════════════════
+# METADATA
+# ═══════════════════════════════════════════════════════════════════════════════
+
+metadata:
+  total_elementos: 185
+  por_camada:
+    L1_filosofias: 30
+    L2_modelos_mentais: 20
+    L3_heuristicas: 51
+    L4_frameworks: 17
+    L5_metodologias: 17
+  extras:
+    task_routing: 10
+    signature_vocabulary: 14
+    productive_tensions: 5
+    platform_expertise_map: 6
+  experts_real: 7
+  experts_functional: 8

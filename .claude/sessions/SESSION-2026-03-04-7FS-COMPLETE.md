@@ -41,8 +41,8 @@ Esta sessão executou o merge completo em paralelo.
 7. 2 expressões Matt Bacak adicionadas: "probe for pain" + "iron fist velvet glove"
 
 ### Paralelo 3: Raw Files
-1. 50 arquivos copiados de `inbox/04._7_Figure_Shortcut-Russell_Brunson/` → `knowledge/sources/russell-brunson/raw/04._7_Figure_Shortcut/`
-2. 2 extraction .md movidos para `knowledge/sources/russell-brunson/` (root)
+1. 50 arquivos copiados de `inbox/04._7_Figure_Shortcut-Russell_Brunson/` → `knowledge/external/sources/russell-brunson/raw/04._7_Figure_Shortcut/`
+2. 2 extraction .md movidos para `knowledge/external/sources/russell-brunson/` (root)
 3. ⚠️ Pasta inbox NÃO deletada (rm -rf bloqueado por segurança)
 
 ### Paralelo 4: AGENT.md
@@ -59,13 +59,13 @@ Esta sessão executou o merge completo em paralelo.
 4. 7 Figure Shortcut adicionado na timeline COMO EVOLUI
 
 ## ARQUIVOS MODIFICADOS
-- `agents/persons/russell-brunson/DNA-CONFIG.yaml` — v4.0.0, 7FS stats + materiais + domínios
-- `agents/persons/russell-brunson/MEMORY.md` — v5.0.0, 7FS merge #5 completo
-- `agents/persons/russell-brunson/AGENT.md` — v2.2.0, novos domínios + stats
-- `agents/persons/russell-brunson/SOUL.md` — v1.2, expressões 7FS integradas
-- `knowledge/sources/russell-brunson/raw/04._7_Figure_Shortcut/` — 50 arquivos criados
-- `knowledge/sources/russell-brunson/DNA-EXTRACTION-7FS-PART2-ITS.md` — criado
-- `knowledge/sources/russell-brunson/DNA_EXTRACTION_BUILDING_YOUR_BACKEND.md` — criado
+- `agents/external/russell-brunson/DNA-CONFIG.yaml` — v4.0.0, 7FS stats + materiais + domínios
+- `agents/external/russell-brunson/MEMORY.md` — v5.0.0, 7FS merge #5 completo
+- `agents/external/russell-brunson/AGENT.md` — v2.2.0, novos domínios + stats
+- `agents/external/russell-brunson/SOUL.md` — v1.2, expressões 7FS integradas
+- `knowledge/external/sources/russell-brunson/raw/04._7_Figure_Shortcut/` — 50 arquivos criados
+- `knowledge/external/sources/russell-brunson/DNA-EXTRACTION-7FS-PART2-ITS.md` — criado
+- `knowledge/external/sources/russell-brunson/DNA_EXTRACTION_BUILDING_YOUR_BACKEND.md` — criado
 
 ## PENDÊNCIAS
 - [ ] ⚠️ DELETAR MANUALMENTE: `inbox/04._7_Figure_Shortcut-Russell_Brunson/` (via file explorer)

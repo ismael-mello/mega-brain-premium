@@ -70,7 +70,7 @@ dna_sources:
 
   agregado:
     - dominio: "vendas"
-      path: "/knowledge/dna/AGGREGATED/AGG-VENDAS.yaml"
+      path: "/knowledge/external/dna/AGGREGATED/AGG-VENDAS.yaml"
       peso: 0.90
       quando_usar: "Perguntas gerais sobre vendas"
       insight_ids:
@@ -78,12 +78,12 @@ dna_sources:
         - "insight_vendas_002"
 
     - dominio: "offers"
-      path: "/knowledge/dna/AGGREGATED/AGG-OFFERS.yaml"
+      path: "/knowledge/external/dna/AGGREGATED/AGG-OFFERS.yaml"
       peso: 0.85
 
     # ─── AIOS Domain DNAs (added 2026-03-12) ───
     - dominio: "executive-leadership"
-      path: "/knowledge/dna/AGGREGATED/AGG-EXECUTIVE-LEADERSHIP.yaml"
+      path: "/knowledge/external/dna/AGGREGATED/AGG-EXECUTIVE-LEADERSHIP.yaml"
       peso: 0.65
       quando_usar: "Liderança executiva, alinhamento cross-funcional"
       justificativa: "CRO é C-level — precisa frameworks de liderança para alinhar sales+marketing"
@@ -91,7 +91,7 @@ dna_sources:
       source: "AIOS C-Level Squad"
 
     - dominio: "data-growth"
-      path: "/knowledge/dna/AGGREGATED/AGG-DATA-GROWTH.yaml"
+      path: "/knowledge/external/dna/AGGREGATED/AGG-DATA-GROWTH.yaml"
       peso: 0.70
       quando_usar: "Revenue analytics, growth metrics, customer success data"
       justificativa: "CRO precisa analytics para otimizar revenue pipeline end-to-end"
@@ -99,7 +99,7 @@ dna_sources:
       source: "AIOS Data Squad"
 
     - dominio: "traffic"
-      path: "/knowledge/dna/AGGREGATED/AGG-TRAFFIC.yaml"
+      path: "/knowledge/external/dna/AGGREGATED/AGG-TRAFFIC.yaml"
       peso: 0.65
       quando_usar: "Estratégia de tráfego e seu impacto no pipeline de revenue"
       justificativa: "CRO precisa entender tráfego como input do pipeline de vendas"
@@ -115,8 +115,8 @@ dna_sources:
 
   primario:
     - pessoa: "alex-hormozi"
-      path: "/knowledge/dna/persons/alex-hormozi"
-      raiz: "/knowledge/sources/alex-hormozi/raw/"
+      path: "/knowledge/external/dna/persons/alex-hormozi"
+      raiz: "/knowledge/external/sources/alex-hormozi/raw/"
       dominios_usados:
         - "vendas"
         - "scaling"
@@ -156,7 +156,7 @@ dna_sources:
           data_processamento: "2025-12-16"
 
     - pessoa: "cole-gordon"
-      path: "/knowledge/dna/persons/cole-gordon"
+      path: "/knowledge/external/dna/persons/cole-gordon"
       raiz: "/inbox/COLE GORDON/"                    # RASTREABILIDADE
       dominios_usados:
         - "vendas"
@@ -180,7 +180,7 @@ dna_sources:
           data_processamento: "*aguardando*"
 
     - pessoa: "russell-brunson"
-      path: "/knowledge/dna/persons/russell-brunson"
+      path: "/knowledge/external/dna/persons/russell-brunson"
       raiz: "/archive/Two_Comma_Club_Coaching-Russell_Brunson/000._Secrets_Masterclass_($4997)/"
       dominios_usados:
         - "funnels"
@@ -228,7 +228,7 @@ dna_sources:
             - "Break-even funnel optimization: ACV > CPA = scale"
 
     - pessoa: "SAM-OVEN"
-      path: "/knowledge/dna/persons/SAM-OVEN"
+      path: "/knowledge/external/dna/persons/SAM-OVEN"
       raiz: "/inbox/SAM OVENS (SETTERLUN UNIVERSITY)/"            # RASTREABILIDADE
       dominios_usados:
         - "scaling"
@@ -241,8 +241,8 @@ dna_sources:
         - "*pendente SU020*"
 
     - pessoa: "jeremy-haynes"
-      path: "/knowledge/dna/persons/jeremy-haynes"
-      raiz: "/knowledge/sources/jeremy-haynes/raw/"                # RASTREABILIDADE
+      path: "/knowledge/external/dna/persons/jeremy-haynes"
+      raiz: "/knowledge/external/sources/jeremy-haynes/raw/"                # RASTREABILIDADE
       dominios_usados:
         - "pricing"
         - "recurring"
@@ -273,21 +273,21 @@ dna_sources:
         - "*aguardando JH001 no Pipeline Jarvis*"
       materiais_fonte:
         - titulo: "Recurring High Ticket Revenue"
-          path_raiz: "/knowledge/sources/jeremy-haynes/raw/"
+          path_raiz: "/knowledge/external/sources/jeremy-haynes/raw/"
           tipo: "podcast"
           data_processamento: "2025-12-18"
         - titulo: "30-Day Challenge (10 séries)"
-          path_raiz: "/knowledge/sources/jeremy-haynes/raw/30-day-challenge/"
+          path_raiz: "/knowledge/external/sources/jeremy-haynes/raw/30-day-challenge/"
           tipo: "course"
           data_processamento: "2026-03-01"
         - titulo: "Client Accelerator (5 séries)"
-          path_raiz: "/knowledge/sources/jeremy-haynes/raw/client-accelerator/"
+          path_raiz: "/knowledge/external/sources/jeremy-haynes/raw/client-accelerator/"
           tipo: "course"
           data_processamento: "2026-03-03"
 
     - pessoa: "flcr"
-      path: "/knowledge/dna/persons/flcr"
-      raiz: "/knowledge/sources/flcr/raw/"
+      path: "/knowledge/external/dna/persons/flcr"
+      raiz: "/knowledge/external/sources/flcr/raw/"
       dominios_usados:
         - "feedback"
         - "acompanhamento"
@@ -308,8 +308,8 @@ dna_sources:
 
     - fonte: "dan-kennedy"
       peso: 0.75
-      path: "/knowledge/dna/persons/dan-kennedy/"
-      raiz: "/knowledge/sources/dan-kennedy/raw/"
+      path: "/knowledge/external/dna/persons/dan-kennedy/"
+      raiz: "/knowledge/external/sources/dan-kennedy/raw/"
       dominios_relevantes:
         - "joint-ventures"
         - "business-acquisition"
@@ -359,7 +359,7 @@ dna_sources:
 # ═══════════════════════════════════════════════════════════════════════════════
 
 conflitos:
-  path: "/knowledge/dna/MAPS/MAP-CONFLITOS.yaml"
+  path: "/knowledge/external/dna/MAPS/MAP-CONFLITOS.yaml"
   descricao: "Mapa de tensões entre fontes com resoluções documentadas"
 
 # ═══════════════════════════════════════════════════════════════════════════════

@@ -6,7 +6,7 @@
 ### ✅ Phase 1-3: Completo
 - Source identificado: `RB-DCS-IGNITE` — DotCom Secrets Ignite (Live Workshop, ~2014-2015)
 - 13 arquivos encontrados em `inbox/05._Dotcom_Secrets_Ignite-Russell_Brunson/`
-- Arquivos COPIADOS para: `knowledge/sources/russell-brunson/raw/05._Dotcom_Secrets_Ignite/`
+- Arquivos COPIADOS para: `knowledge/external/sources/russell-brunson/raw/05._Dotcom_Secrets_Ignite/`
 - Inbox original ainda preservado (não apagado)
 - MEMORY.md atualizado → v6.0.0, nova linha na tabela de materiais
 - DNA-CONFIG.yaml atualizado → nova fonte `05._Dotcom_Secrets_Ignite` adicionada com 10 sessões
@@ -14,7 +14,7 @@
 ### ❌ Pendente (interrompido por limite de contexto)
 
 #### Phase 4: DNA Extraction (PRINCIPAL PENDÊNCIA)
-Novos elementos identificados para adicionar ao `knowledge/dna/persons/russell-brunson/DNA.yaml`:
+Novos elementos identificados para adicionar ao `knowledge/external/dna/persons/russell-brunson/DNA.yaml`:
 
 **L1 PHILOSOPHIES (novos):**
 - PHI-RB-DCS-001: "Visual anchoring makes teaching portable. Drawing a concept = owning it forever. If you can recreate the drawing, the concept is yours permanently." (transcription_01)
@@ -35,7 +35,7 @@ Novos elementos identificados para adicionar ao `knowledge/dna/persons/russell-b
 - MET-RB-DCS-001: "Funnel building process: pick ONE building block per phase → build → test → swap only the underperforming block. Don't rebuild the whole funnel — swap the block." (transcription_06)
 
 #### Phase 5-6: Source Document
-Criar: `knowledge/sources/russell-brunson/DCS-IGNITE-WORKSHOP.md`
+Criar: `knowledge/external/sources/russell-brunson/DCS-IGNITE-WORKSHOP.md`
 
 #### Phase 7: Agent Enrichment
 - Verificar se SOUL.md precisa de update (provavelmente não — conteúdo confirma DNA existente)
@@ -49,6 +49,6 @@ Criar: `knowledge/sources/russell-brunson/DCS-IGNITE-WORKSHOP.md`
 
 1. Abrir nova sessão
 2. Rodar: `/resume` para recuperar este estado
-3. Adicionar elementos ao `knowledge/dna/persons/russell-brunson/DNA.yaml` (seção L1, L3, L4, L5)
+3. Adicionar elementos ao `knowledge/external/dna/persons/russell-brunson/DNA.yaml` (seção L1, L3, L4, L5)
 4. Criar source document
 5. Limpar inbox

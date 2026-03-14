@@ -1,5 +1,43 @@
 # Mega Brain - AI Knowledge Management System
 
+---
+
+## 🚨 REGRA MÁXIMA — /jarvis-full: TROCA DE MODELO OBRIGATÓRIA
+
+```
+╔══════════════════════════════════════════════════════════════════════════════╗
+║  REGRA INQUEBRÁVEL — SEM EXCEÇÕES — SEM CONTINUAR SEM CONFIRMAÇÃO          ║
+╠══════════════════════════════════════════════════════════════════════════════╣
+║                                                                              ║
+║  /jarvis-full usa estratégia de modelos por fase:                            ║
+║  • Fases 1-2 (Initialization, Chunking):  SONNET                            ║
+║  • Fases 3-6 (Entity → Dossier):          OPUS  ← CLONE É CONSTRUÍDO AQUI  ║
+║  • Fases 7-8 (Enrichment, Finalization):  SONNET                            ║
+║                                                                              ║
+║  ANTES de iniciar Fase 3, OBRIGATÓRIO pausar e exibir:                      ║
+║  ┌────────────────────────────────────────────────────────────────────────┐  ║
+║  │ ⚠️ TROCA DE MODELO NECESSÁRIA                                          │  ║
+║  │ A próxima fase requer: OPUS                                            │  ║
+║  │ Modelo atual: [MODEL_ATUAL]                                            │  ║
+║  │ Use /model para trocar. Como deseja prosseguir?                        │  ║
+║  │ → [1] Vou trocar agora  → [2] Continuar em Sonnet (qualidade reduzida) │  ║
+║  └────────────────────────────────────────────────────────────────────────┘  ║
+║                                                                              ║
+║  A Fase 3 SÓ EXECUTA após resposta do usuário (opção 1 ou 2).               ║
+║  Mesma pausa obrigatória na Fase 7 (troca Opus → Sonnet).                   ║
+║                                                                              ║
+║  VIOLAÇÃO REGISTRADA: 2026-03-13 (fases 3-4 executadas em Sonnet)           ║
+║                                                                              ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+
+⚠️ TROCA DE MODELO = PARADA OBRIGATÓRIA
+⚠️ SEM CONFIRMAÇÃO = SEM EXECUÇÃO
+⚠️ QUALIDADE DO CLONE DEPENDE DISSO
+⚠️ "O usuário parece com pressa" NÃO É JUSTIFICATIVA
+```
+
+---
+
 ## What is Mega Brain?
 
 AI-powered system that transforms expert materials (videos, PDFs, transcriptions) into structured playbooks, DNA schemas, and mind-clone agents. Powered by JARVIS orchestrator.
@@ -45,7 +83,7 @@ When in plan mode, save the plan file to: `docs/plans/YYYY-MM-DD-description.md`
 
 | Layer | Content | Git Status |
 |-------|---------|------------|
-| L1 (Community) | core/, agents/conclave, .claude/, bin/, docs/ | Tracked (npm package) |
+| L1 (Community) | core/, agents/system/conclave, .claude/, bin/, docs/ | Tracked (npm package) |
 | L2 (Pro) | agents/cargo, agents/sub-agents | Tracked (premium) |
 | L3 (Personal) | .data/, .env, agents/persons | Gitignored |
 

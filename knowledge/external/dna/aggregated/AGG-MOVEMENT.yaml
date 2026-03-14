@@ -1,0 +1,1029 @@
+# AGG-MOVEMENT.yaml
+# DNA Agregado - Domínio: MOVEMENT BUILDING
+# Consolidação de elementos de construção de movimentos, comunidades e impacto social
+#
+# Versão: 1.0.0
+# Criado: 2026-03-12
+# Tipo: AGGREGATED DNA (single-source: AIOS Movement Squad)
+# Fonte: knowledge/external/sources/aios-squads/09-MOVEMENT-SQUAD.md
+# Weight: 0.70 (secondary - curated by Synkra AIOS)
+#
+# ═══════════════════════════════════════════════════════════════════════════════
+# FONTES CONSOLIDADAS
+# ═══════════════════════════════════════════════════════════════════════════════
+
+dominio: "movement-building"
+versao: "1.0.0"
+data_criacao: "2026-03-12"
+ultima_atualizacao: "2026-03-12"
+total_elementos: 203
+peso_global: 0.70
+
+fontes_consolidadas:
+  - fonte: "aios-movement-squad"
+    path: "knowledge/external/sources/aios-squads/09-MOVEMENT-SQUAD.md"
+    raw_path: "knowledge/external/sources/aios-squads/raw/movement/"
+    peso_dominio: 0.70
+    elementos_contribuidos: 203
+    especialidade: "Movement building - synthetic expert system (refs: Chenoweth, Ganz, Millington, Spinks, Meadows)"
+    tipo_fonte: "SECONDARY (curated by Synkra AIOS)"
+    agentes_internos: 7
+    nota: "Synthetic experts — no real person DNAs, draws from academic refs"
+
+# ═══════════════════════════════════════════════════════════════════════════════
+# MOVEMENT AGENTS (7 specialists)
+# ═══════════════════════════════════════════════════════════════════════════════
+
+experts:
+  orchestration:
+    - nome: "Movement Chief"
+      tipo: "orchestrator"
+      especialidade: "Triage, routing, phase diagnosis, cross-phase coordination"
+
+  specialists:
+    - nome: "Movement Architect"
+      especialidade: "Community design, engagement ladders, governance models, flywheels"
+
+    - nome: "Fenomenologo"
+      especialidade: "Phenomenological analysis, tension mapping, lived experience"
+
+    - nome: "Identitario"
+      especialidade: "Identity architecture, tribal markers, in-group/out-group design"
+
+    - nome: "Estrategista de Ciclo"
+      especialidade: "Growth cycles, wave strategy, flywheel optimization"
+
+    - nome: "Manifestador"
+      especialidade: "Manifesto writing, narrative design, memetic propagation"
+
+    - nome: "Analista de Impacto"
+      especialidade: "Impact measurement, vitality index, ripple effect mapping"
+
+# Academic references (not person DNAs):
+# Erica Chenoweth (social movements), Marshall Ganz (organizing), Zeynep Tufekci (movements & tech)
+# Richard Millington (community science), David Spinks (community-led growth)
+# Donella Meadows (systems thinking), Jerome Bruner (narrative psychology)
+
+# ═══════════════════════════════════════════════════════════════════════════════
+# L1: FILOSOFIAS (32 elementos)
+# ═══════════════════════════════════════════════════════════════════════════════
+
+filosofias:
+  - id: "FIL-MV-001"
+    texto: "Movements are born from tension, not from marketing"
+    dominio: "movement-core"
+
+  - id: "FIL-MV-002"
+    texto: "The body already knows before the mind rationalizes"
+    dominio: "phenomenology"
+
+  - id: "FIL-MV-003"
+    texto: "Identity precedes growth. Always."
+    dominio: "identity"
+
+  - id: "FIL-MV-004"
+    texto: "Movements do not grow in lines — they grow in waves"
+    dominio: "growth"
+
+  - id: "FIL-MV-005"
+    texto: "The enemy must always be a system, never a people"
+    dominio: "identity"
+
+  - id: "FIL-MV-006"
+    texto: "Boundaries create belonging"
+    dominio: "identity"
+
+  - id: "FIL-MV-007"
+    texto: "Structure makes behavior inevitable"
+    dominio: "architecture"
+
+  - id: "FIL-MV-008"
+    texto: "A movement without architecture is a crowd"
+    dominio: "architecture"
+
+  - id: "FIL-MV-009"
+    texto: "If you cannot measure it, you cannot improve it"
+    dominio: "impact"
+
+  - id: "FIL-MV-010"
+    texto: "Reach is the least meaningful level of impact"
+    dominio: "impact"
+
+  - id: "FIL-MV-011"
+    texto: "Words create movements"
+    dominio: "manifesto"
+
+  - id: "FIL-MV-012"
+    texto: "The strongest bond is a shared heresy"
+    dominio: "identity"
+
+  - id: "FIL-MV-013"
+    texto: "Manifestos are not written — they are excavated"
+    dominio: "manifesto"
+
+  - id: "FIL-MV-014"
+    texto: "Leadership without power is exploitation"
+    dominio: "governance"
+
+  - id: "FIL-MV-015"
+    texto: "The best architecture is invisible"
+    dominio: "architecture"
+
+  - id: "FIL-MV-016"
+    texto: "Movements begin with a felt truth, not an intellectual argument"
+    dominio: "phenomenology"
+
+  - id: "FIL-MV-017"
+    texto: "Growth without depth is noise"
+    dominio: "growth"
+
+  - id: "FIL-MV-018"
+    texto: "Design for the behavior you want to see"
+    dominio: "architecture"
+
+  - id: "FIL-MV-019"
+    texto: "The difference between a movement and a moment is sustained, measurable change"
+    dominio: "impact"
+
+  - id: "FIL-MV-020"
+    texto: "Numbers without stories are cold. Stories without numbers are anecdotal."
+    dominio: "impact"
+
+  - id: "FIL-MV-021"
+    texto: "Phase diagnosis before specialist prescription"
+    dominio: "movement-core"
+
+  - id: "FIL-MV-022"
+    texto: "Orchestrate the lifecycle, don't force the timeline"
+    dominio: "movement-core"
+
+  - id: "FIL-MV-023"
+    texto: "Simplicity before complexity"
+    dominio: "movement-core"
+
+  - id: "FIL-MV-024"
+    texto: "Belonging over exclusion"
+    dominio: "identity"
+
+  - id: "FIL-MV-025"
+    texto: "Transparency in authority distribution"
+    dominio: "governance"
+
+  - id: "FIL-MV-026"
+    texto: "Measurable impact over vanity metrics"
+    dominio: "impact"
+
+  - id: "FIL-MV-027"
+    texto: "Do not romanticize movements — understand operational rigor required"
+    dominio: "movement-core"
+
+  - id: "FIL-MV-028"
+    texto: "The manifesto must divide to unite"
+    dominio: "manifesto"
+
+  - id: "FIL-MV-029"
+    texto: "Never mistake virality for movement growth"
+    dominio: "growth"
+
+  - id: "FIL-MV-030"
+    texto: "The strongest movements make people feel found, not recruited"
+    dominio: "identity"
+
+  - id: "FIL-MV-031"
+    texto: "Symbols work when insiders recognize instantly, outsiders miss entirely"
+    dominio: "identity"
+
+  - id: "FIL-MV-032"
+    texto: "Movements begin in the body, not in the brand guidelines"
+    dominio: "phenomenology"
+
+# ═══════════════════════════════════════════════════════════════════════════════
+# L2: MODELOS MENTAIS (41 elementos)
+# ═══════════════════════════════════════════════════════════════════════════════
+
+modelos_mentais:
+  - id: "MM-MV-001"
+    nome: "5-Phase Movement Lifecycle"
+    descricao: "Spark → Identity → Ignition → Growth → Impact"
+    dominio: "movement-core"
+
+  - id: "MM-MV-002"
+    nome: "The Identity Stack (5 Layers)"
+    descricao: "L1: Existential Core (origin wound, sacred belief) → L2: Belief System (3-5 convictions) → L3: Behavioral Code (rituals, taboos, language) → L4: Symbolic Layer (visual, verbal, material, gestural, digital markers) → L5: Public Face (origin story, value prop, boundaries)"
+    dominio: "identity"
+
+  - id: "MM-MV-003"
+    nome: "The Impact Pyramid (5 Levels)"
+    descricao: "L1: Awareness (reach) → L2: Engagement (participation) → L3: Commitment (members) → L4: Advocacy (referrals) → L5: Transformation (behavior change, policy, culture)"
+    dominio: "impact"
+
+  - id: "MM-MV-004"
+    nome: "In-Group/Out-Group Architecture"
+    descricao: "Define We (positive identity) → Define They (systemic enemy, not demographic) → Establish boundaries (entry cost, loyalty signals, exit consequences)"
+    dominio: "identity"
+
+  - id: "MM-MV-005"
+    nome: "Tension Mapping Framework (6 types)"
+    descricao: "Structural (systemic forces) + Relational (belonging deficits) + Identity (who you are vs world) + Temporal (urgency) + Somatic (embodied tensions) + Aspirational (longing)"
+    dominio: "phenomenology"
+
+  - id: "MM-MV-006"
+    nome: "Community Flywheel (5 Stages)"
+    descricao: "Attract → Engage → Activate → Lead → Multiply"
+    dominio: "growth"
+
+  - id: "MM-MV-007"
+    nome: "The Ritual Architecture (5 Types)"
+    descricao: "Initiation + Daily + Gathering + Celebration + Storytelling"
+    dominio: "identity"
+
+  - id: "MM-MV-008"
+    nome: "Resonance Testing (4 Levels)"
+    descricao: "Intellectual (low potential) → Emotional (medium) → Somatic (high) → Existential (maximum)"
+    dominio: "phenomenology"
+
+  - id: "MM-MV-009"
+    nome: "Belonging Gradient (5 Levels)"
+    descricao: "Curious → Sympathizer → Member → Advocate → Core Believer"
+    dominio: "identity"
+
+  - id: "MM-MV-010"
+    nome: "Leadership Progression"
+    descricao: "Observer → Participant → Contributor → Leader → Architect"
+    dominio: "governance"
+
+  - id: "MM-MV-011"
+    nome: "Belief System Hierarchy"
+    descricao: "Axioms (1-2 foundational) → Core Convictions (3-5 pillars) → Operational Beliefs (strategy-level) → Tactical Beliefs (practice-level)"
+    dominio: "identity"
+
+  - id: "MM-MV-012"
+    nome: "Activation Trigger Design (5 Types)"
+    descricao: "Emotional (felt tension) + Social (seeing others commit) + Identity (this is who I am) + Urgency (now is the moment) + Capability (you have something to contribute)"
+    dominio: "growth"
+
+  - id: "MM-MV-013"
+    nome: "Wave Strategy"
+    descricao: "Expansion waves (aggressive outward growth) alternating with Consolidation waves (inward deepening)"
+    dominio: "growth"
+
+  - id: "MM-MV-014"
+    nome: "Movement Health Model (6 Vital Signs)"
+    descricao: "Growth health + Engagement health + Belonging health + Leadership health + Narrative health + Tension resonance"
+    dominio: "impact"
+
+  - id: "MM-MV-015"
+    nome: "Manifesto Anatomy (7 Components)"
+    descricao: "Reality Declaration + Statement of Beliefs + Naming the Enemy + Vision of the Future + Call to Identity + Call to Action + Closing Commitment"
+    dominio: "manifesto"
+
+  - id: "MM-MV-016"
+    nome: "Engagement Ladder (5 Levels)"
+    descricao: "Observer (zero commitment) → Participant (low) → Contributor (medium) → Leader (high) → Architect (total)"
+    dominio: "growth"
+
+  - id: "MM-MV-017"
+    nome: "Commitment Escalation"
+    descricao: "Consume → Respond → Create → Organize → Lead"
+    dominio: "growth"
+
+  - id: "MM-MV-018"
+    nome: "Identity Expression Layers"
+    descricao: "Internal → Intimate → Communal → Public → Adversarial"
+    dominio: "identity"
+
+  - id: "MM-MV-019"
+    nome: "Viral Storytelling (5 Elements)"
+    descricao: "Hook + Character + Tension + Turn + Residue"
+    dominio: "manifesto"
+
+  - id: "MM-MV-020"
+    nome: "Meme Propagation (4 Types)"
+    descricao: "Identity memes + Tension memes + Enemy memes + Vision memes"
+    dominio: "manifesto"
+
+  - id: "MM-MV-021"
+    nome: "Rhetoric Patterns Library"
+    descricao: "Anaphora, Antithesis, Tricolon, Anadiplosis, Epistrophe, Chiasmus"
+    dominio: "manifesto"
+
+  - id: "MM-MV-022"
+    nome: "Ripple Effect Mapping (4 Levels)"
+    descricao: "Primary → Secondary → Tertiary → Cultural ripple"
+    dominio: "impact"
+
+  - id: "MM-MV-023"
+    nome: "Social Proof Architecture (5 Types)"
+    descricao: "Numerical + Transformation + Institutional + Systemic + Peer"
+    dominio: "impact"
+
+  - id: "MM-MV-024"
+    nome: "Governance Models Library (5 Options)"
+    descricao: "Benevolent Dictator (fast, fragile) → Council of Elders (insular) → Liquid Democracy (complex) → Do-ocracy (excludes low-capacity) → Sociocracy (distributed, steep learning)"
+    dominio: "governance"
+
+  - id: "MM-MV-025"
+    nome: "Movement Canvas (One-Page Blueprint)"
+    descricao: "Core tension | Identity Stack | Topology | Engagement pathway | Rituals | Governance | Growth engine | Narrative assets | Impact metrics | Sustainability"
+    dominio: "movement-core"
+
+  - id: "MM-MV-026"
+    nome: "Phenomenological Method (Applied)"
+    descricao: "Epoche (bracket assumptions) → Reduction (focus on experience) → Description (rich, sensory) → Essential Structure → Return to Concrete"
+    dominio: "phenomenology"
+
+  - id: "MM-MV-027"
+    nome: "Vitality Index (6 Components)"
+    descricao: "Tension Resonance(20%) + Identity Coherence(20%) + Growth Momentum(15%) + Engagement Depth(15%) + Behavior Change(15%) + Systemic Impact(15%)"
+    dominio: "impact"
+
+  # Additional mental models (28-41)
+  - id: "MM-MV-028"
+    nome: "Attract Mechanics"
+    descricao: "Tension broadcasting + signal recognition + low-friction entry + social proof"
+    dominio: "growth"
+
+  - id: "MM-MV-029"
+    nome: "Activate Mechanics"
+    descricao: "First action design + commitment escalation + identity adoption + aha moment"
+    dominio: "growth"
+
+  - id: "MM-MV-030"
+    nome: "Sustain Mechanics"
+    descricao: "Rhythm design (daily/weekly/monthly/quarterly/annual) + depth pathways + belonging reinforcement + churn prevention"
+    dominio: "growth"
+
+  - id: "MM-MV-031"
+    nome: "Multiply Mechanics"
+    descricao: "Multiplication motivation + equipping multipliers + network activation + chapter architecture"
+    dominio: "growth"
+
+  - id: "MM-MV-032"
+    nome: "Movement Growth Flywheel (4-Phase Cycle)"
+    descricao: "Attract → Activate → Sustain → Multiply"
+    dominio: "growth"
+
+  - id: "MM-MV-033"
+    nome: "Lived Experience Dimensions (5)"
+    descricao: "Spatiality + Temporality + Corporeality + Relationality + Materiality"
+    dominio: "phenomenology"
+
+  - id: "MM-MV-034"
+    nome: "Topology Options"
+    descricao: "Hub-and-spoke, Mesh, Federated, Hybrid — choose based on scale and control"
+    dominio: "architecture"
+
+  - id: "MM-MV-035"
+    nome: "Community Health Dashboard (6 Dimensions)"
+    descricao: "Growth(15%) + Activation(20%) + Retention(25%) + Engagement(20%) + Sentiment(10%) + Advocacy(10%)"
+    dominio: "impact"
+
+  - id: "MM-MV-036"
+    nome: "Entry Cost Design"
+    descricao: "Meaningful but not exclusionary — creates personal investment"
+    dominio: "identity"
+
+  - id: "MM-MV-037"
+    nome: "Three Aha Moments"
+    descricao: "3 aha moments needed before identity adoption (not just one)"
+    dominio: "identity"
+
+  - id: "MM-MV-038"
+    nome: "Narrative Arc Design"
+    descricao: "Origin story + Member journey + Movement mythology"
+    dominio: "manifesto"
+
+  - id: "MM-MV-039"
+    nome: "Battle Cry Design"
+    descricao: "<3 sentences, memorizable, quotable, tattooable"
+    dominio: "manifesto"
+
+  - id: "MM-MV-040"
+    nome: "Thick Description"
+    descricao: "Rich, sensory, first-person phenomenological portrait of lived experience"
+    dominio: "phenomenology"
+
+  - id: "MM-MV-041"
+    nome: "Founder Dependency Assessment"
+    descricao: "When founder dependency creates fragility — succession crisis signal"
+    dominio: "governance"
+
+# ═══════════════════════════════════════════════════════════════════════════════
+# L3: HEURÍSTICAS (58 elementos)
+# ═══════════════════════════════════════════════════════════════════════════════
+
+heuristicas:
+  # Tension & Experience (6)
+  - id: "HEUR-MV-001"
+    texto: "Intensity scale 1-5: use 3+ for movement-grade potential"
+    tipo: "quantitativa"
+    threshold: "intensity >= 3"
+
+  - id: "HEUR-MV-002"
+    texto: "If tension only achieves intellectual resonance → not movement-ready"
+    tipo: "qualitativa"
+
+  - id: "HEUR-MV-003"
+    texto: "If tension resonates across demographics → universal, scale it"
+    tipo: "qualitativa"
+
+  - id: "HEUR-MV-004"
+    texto: "Lived experience must be felt before named"
+    tipo: "qualitativa"
+
+  - id: "HEUR-MV-005"
+    texto: "Name tensions 5+ times before declaring final"
+    tipo: "quantitativa"
+    threshold: "5+ iterations"
+
+  - id: "HEUR-MV-006"
+    texto: "If tension only resonates in one group → dig deeper"
+    tipo: "qualitativa"
+
+  # Identity Architecture (7)
+  - id: "HEUR-MV-007"
+    texto: "Heretical beliefs (what mainstream rejects) = strongest bonding agents"
+    tipo: "qualitativa"
+
+  - id: "HEUR-MV-008"
+    texto: "Entry cost must be meaningful but not exclusionary"
+    tipo: "qualitativa"
+
+  - id: "HEUR-MV-009"
+    texto: "Symbols work when insiders recognize instantly, outsiders miss entirely"
+    tipo: "qualitativa"
+
+  - id: "HEUR-MV-010"
+    texto: "Can a member describe identity without mentioning product/brand/leader? Yes = strong"
+    tipo: "qualitativa"
+
+  - id: "HEUR-MV-011"
+    texto: "At least one belief must make mainstream uncomfortable"
+    tipo: "quantitativa"
+    threshold: "minimum 1 heretical belief"
+
+  - id: "HEUR-MV-012"
+    texto: "Rituals need: clear threshold, shared action, witnessing, symbol, return"
+    tipo: "qualitativa"
+
+  - id: "HEUR-MV-013"
+    texto: "If boundary rules don't mention exclusion criteria → add them"
+    tipo: "qualitativa"
+
+  # Growth Mechanics (9)
+  - id: "HEUR-MV-014"
+    texto: "First action must be completable in <10 minutes"
+    tipo: "quantitativa"
+    threshold: "<10 minutes"
+
+  - id: "HEUR-MV-015"
+    texto: "First action must create personal investment"
+    tipo: "qualitativa"
+
+  - id: "HEUR-MV-016"
+    texto: "First action must connect to ≥1 other member"
+    tipo: "quantitativa"
+    threshold: ">=1 connection"
+
+  - id: "HEUR-MV-017"
+    texto: "Never do 2 expansion waves in a row — movement must breathe"
+    tipo: "qualitativa"
+
+  - id: "HEUR-MV-018"
+    texto: "Organic multiplication > guilt-driven recruitment"
+    tipo: "qualitativa"
+
+  - id: "HEUR-MV-019"
+    texto: "If 2nd generation retention fails → flywheel is broken"
+    tipo: "qualitativa"
+
+  - id: "HEUR-MV-020"
+    texto: "Active member baseline: 40%+ of total"
+    tipo: "quantitativa"
+    threshold: "40%+ active"
+
+  - id: "HEUR-MV-021"
+    texto: "Message fatigue happens after 3+ repetitions without evolution"
+    tipo: "quantitativa"
+    threshold: "3+ repetitions"
+
+  - id: "HEUR-MV-022"
+    texto: "Belonging reinforcement needed every 30 days minimum"
+    tipo: "quantitativa"
+    threshold: "30 days max between reinforcement"
+
+  # Engagement (4)
+  - id: "HEUR-MV-023"
+    texto: "Engagement ladder: observer (zero) → participant (low) → contributor (medium) → leader (high) → architect (total)"
+    tipo: "qualitativa"
+
+  - id: "HEUR-MV-024"
+    texto: "Commitment escalation: consume → respond → create → organize → lead"
+    tipo: "qualitativa"
+
+  - id: "HEUR-MV-025"
+    texto: "Retention warning signals: decreased frequency, passive shift, language drop, belief doubt"
+    tipo: "qualitativa"
+
+  - id: "HEUR-MV-026"
+    texto: "Three aha moments needed before identity adoption (not just one)"
+    tipo: "quantitativa"
+    threshold: "3 aha moments"
+
+  # Manifesto & Narrative (7)
+  - id: "HEUR-MV-027"
+    texto: "Enemy must be system/mindset, never demographic — if it reads as person → rewrite"
+    tipo: "qualitativa"
+
+  - id: "HEUR-MV-028"
+    texto: "Reality declaration: put world before movement"
+    tipo: "qualitativa"
+
+  - id: "HEUR-MV-029"
+    texto: "Beliefs: lead universal → provocative (end on heresy)"
+    tipo: "qualitativa"
+
+  - id: "HEUR-MV-030"
+    texto: "Future vision: write as present/certain tense, not 'hope to'"
+    tipo: "qualitativa"
+
+  - id: "HEUR-MV-031"
+    texto: "Call to identity: 'you already were one of us' not 'join us'"
+    tipo: "qualitativa"
+
+  - id: "HEUR-MV-032"
+    texto: "Call to action must be completable immediately"
+    tipo: "qualitativa"
+
+  - id: "HEUR-MV-033"
+    texto: "Battle cry: <3 sentences, memorizable, quotable, tattooable"
+    tipo: "quantitativa"
+    threshold: "<3 sentences"
+
+  # Impact & Metrics (8)
+  - id: "HEUR-MV-034"
+    texto: "High reach + low engagement = billboard, not movement"
+    tipo: "qualitativa"
+
+  - id: "HEUR-MV-035"
+    texto: "Engagement can be gamed → true engagement driven by meaning"
+    tipo: "qualitativa"
+
+  - id: "HEUR-MV-036"
+    texto: "Behavior change = where real impact begins"
+    tipo: "qualitativa"
+
+  - id: "HEUR-MV-037"
+    texto: "Vitality Index thresholds: 80-100=Thriving, 60-79=Healthy, 40-59=At Risk, 20-39=Critical, 0-19=Failing"
+    tipo: "quantitativa"
+    threshold: "80+=Thriving, 60+=Healthy, 40+=At Risk, 20+=Critical"
+
+  - id: "HEUR-MV-038"
+    texto: "Secondary ripple (family, friends, colleagues) more predictive than primary"
+    tipo: "qualitativa"
+
+  - id: "HEUR-MV-039"
+    texto: "If movement can't prove impact → loses members, allies, credibility"
+    tipo: "qualitativa"
+
+  - id: "HEUR-MV-040"
+    texto: "No more than 5 metrics per pyramid level (overload paralyzes)"
+    tipo: "quantitativa"
+    threshold: "max 5 metrics per level"
+
+  - id: "HEUR-MV-041"
+    texto: "Emotional charge spreads 3x faster than neutral content"
+    tipo: "quantitativa"
+    threshold: "3x faster spread"
+
+  # Community Health (6)
+  - id: "HEUR-MV-042"
+    texto: "Growth diversity: single-source growth = risk signal"
+    tipo: "qualitativa"
+
+  - id: "HEUR-MV-043"
+    texto: "Engagement distribution: few members doing everything = burnout incoming"
+    tipo: "qualitativa"
+
+  - id: "HEUR-MV-044"
+    texto: "NPS target: >50 = healthy belonging"
+    tipo: "quantitativa"
+    threshold: "NPS > 50"
+
+  - id: "HEUR-MV-045"
+    texto: "Conflict resolution pattern: constructive = healthy, toxic = toxic identity emerging"
+    tipo: "qualitativa"
+
+  - id: "HEUR-MV-046"
+    texto: "Leadership pipeline nonexistent? → succession crisis ahead"
+    tipo: "qualitativa"
+
+  - id: "HEUR-MV-047"
+    texto: "Leadership bottleneck: founder dependency = fragility signal"
+    tipo: "qualitativa"
+
+  # Structural (11)
+  - id: "HEUR-MV-048"
+    texto: "3-5 values per movement (not more)"
+    tipo: "quantitativa"
+    threshold: "3-5 values"
+
+  - id: "HEUR-MV-049"
+    texto: "3-5 core beliefs per identity (not more)"
+    tipo: "quantitativa"
+    threshold: "3-5 beliefs"
+
+  - id: "HEUR-MV-050"
+    texto: "5+ rituals minimum (initiation + daily + gathering + celebration + storytelling)"
+    tipo: "quantitativa"
+    threshold: "5+ rituals"
+
+  - id: "HEUR-MV-051"
+    texto: "Belonging gradient: exactly 5 levels"
+    tipo: "quantitativa"
+    threshold: "5 levels"
+
+  - id: "HEUR-MV-052"
+    texto: "Axioms: 1-2 maximum per movement"
+    tipo: "quantitativa"
+    threshold: "1-2 axioms"
+
+  - id: "HEUR-MV-053"
+    texto: "Simplicity target: ideas expressible in <10 words"
+    tipo: "quantitativa"
+    threshold: "<10 words"
+
+  - id: "HEUR-MV-054"
+    texto: "Manifesto length: short(500w), standard(1000w), epic(2000w)"
+    tipo: "quantitativa"
+    threshold: "500-2000 words"
+
+  - id: "HEUR-MV-055"
+    texto: "Expansion wave: 2-6 weeks / Consolidation wave: 4-8 weeks"
+    tipo: "quantitativa"
+    threshold: "2-6wk expansion, 4-8wk consolidation"
+
+  - id: "HEUR-MV-056"
+    texto: "Identity adoption: within 30 days"
+    tipo: "quantitativa"
+    threshold: "30 days"
+
+  - id: "HEUR-MV-057"
+    texto: "Retention benchmarks: 30-day, 90-day, 1-year"
+    tipo: "quantitativa"
+
+  - id: "HEUR-MV-058"
+    texto: "Churn warning: if retention drops, don't do another expansion wave"
+    tipo: "qualitativa"
+
+# ═══════════════════════════════════════════════════════════════════════════════
+# L4: FRAMEWORKS (38 elementos)
+# ═══════════════════════════════════════════════════════════════════════════════
+
+frameworks:
+  # Phase Frameworks (5)
+  - id: "FW-MV-001"
+    nome: "Spark Phase Framework"
+    descricao: "5-step phenomenological method: epoche → reduction → description → essential structure → return to concrete. Tension mapping (6 types). Resonance testing (4 levels)."
+    dominio: "phenomenology"
+
+  - id: "FW-MV-002"
+    nome: "Identity Phase Framework"
+    descricao: "Identity Stack (5 layers) + In-group/out-group architecture + Ritual architecture (5 types) + Identity expression layers + Belief hierarchy"
+    dominio: "identity"
+
+  - id: "FW-MV-003"
+    nome: "Ignition Phase Framework"
+    descricao: "Manifesto anatomy (7 components) + Narrative arc design + Memetic propagation (4 types) + Rhetoric patterns + Viral storytelling (5 elements)"
+    dominio: "manifesto"
+
+  - id: "FW-MV-004"
+    nome: "Growth Phase Framework"
+    descricao: "Movement Growth Flywheel (Attract → Activate → Sustain → Multiply) + Wave strategy + Cycle optimization metrics"
+    dominio: "growth"
+
+  - id: "FW-MV-005"
+    nome: "Impact Phase Framework"
+    descricao: "Impact Pyramid (5 levels) + Community Health Dashboard (6 vital signs) + Vitality Index (6 components) + Ripple Effect Mapping + Social Proof Architecture"
+    dominio: "impact"
+
+  # Cross-Phase (10)
+  - id: "FW-MV-006"
+    nome: "Movement Canvas (One-Page Blueprint)"
+    descricao: "Core tension | Identity Stack | Topology | Engagement pathway | Rituals | Governance | Growth engine | Narrative assets | Impact metrics | Sustainability"
+    dominio: "movement-core"
+
+  - id: "FW-MV-007"
+    nome: "Governance Models Library (5)"
+    descricao: "Benevolent Dictator, Council of Elders, Liquid Democracy, Do-ocracy, Sociocracy"
+    dominio: "governance"
+
+  - id: "FW-MV-008"
+    nome: "Community Flywheel (5-Stage)"
+    descricao: "Attract → Engage → Activate → Lead → Multiply"
+    dominio: "growth"
+
+  - id: "FW-MV-009"
+    nome: "Activation Trigger Design (5 Types)"
+    descricao: "Emotional + Social + Identity + Urgency + Capability"
+    dominio: "growth"
+
+  - id: "FW-MV-010"
+    nome: "Phenomenological Method (Applied)"
+    descricao: "Epoche → Reduction → Description → Essential Structure → Return to Concrete"
+    dominio: "phenomenology"
+
+  - id: "FW-MV-011"
+    nome: "Engagement Ladder (5 Levels)"
+    descricao: "Observer → Participant → Contributor → Leader → Architect"
+    dominio: "growth"
+
+  - id: "FW-MV-012"
+    nome: "Identity Stack Construction"
+    descricao: "L1: Existential Core → L2: Belief System → L3: Behavioral Code → L4: Symbolic Layer → L5: Public Face"
+    dominio: "identity"
+
+  - id: "FW-MV-013"
+    nome: "Tension Mapping (6 Types)"
+    descricao: "Structural + Relational + Identity + Temporal + Somatic + Aspirational"
+    dominio: "phenomenology"
+
+  - id: "FW-MV-014"
+    nome: "Impact Pyramid (5 Levels)"
+    descricao: "Awareness → Engagement → Commitment → Advocacy → Transformation"
+    dominio: "impact"
+
+  - id: "FW-MV-015"
+    nome: "Vitality Index Formula"
+    descricao: "Tension Resonance(20%) + Identity Coherence(20%) + Growth Momentum(15%) + Engagement Depth(15%) + Behavior Change(15%) + Systemic Impact(15%)"
+    dominio: "impact"
+
+  # Specialist Frameworks (23)
+  - id: "FW-MV-016"
+    nome: "Manifesto Anatomy (7 Components)"
+    descricao: "Reality Declaration + Statement of Beliefs + Naming the Enemy + Vision + Call to Identity + Call to Action + Closing Commitment"
+    dominio: "manifesto"
+
+  - id: "FW-MV-017"
+    nome: "Ritual Architecture (5 Types)"
+    descricao: "Initiation + Daily + Gathering + Celebration + Storytelling"
+    dominio: "identity"
+
+  - id: "FW-MV-018"
+    nome: "Wave Strategy Framework"
+    descricao: "Expansion waves (2-6wk) alternating with Consolidation waves (4-8wk)"
+    dominio: "growth"
+
+  - id: "FW-MV-019"
+    nome: "Ripple Effect Mapping"
+    descricao: "Primary → Secondary → Tertiary → Cultural ripple levels"
+    dominio: "impact"
+
+  - id: "FW-MV-020"
+    nome: "Social Proof Architecture (5 Types)"
+    descricao: "Numerical + Transformation + Institutional + Systemic + Peer"
+    dominio: "impact"
+
+  - id: "FW-MV-021"
+    nome: "Community Health Dashboard"
+    descricao: "6 dimensions: Growth(15%) + Activation(20%) + Retention(25%) + Engagement(20%) + Sentiment(10%) + Advocacy(10%)"
+    dominio: "impact"
+
+  - id: "FW-MV-022"
+    nome: "Belonging Gradient (5 Levels)"
+    descricao: "Curious → Sympathizer → Member → Advocate → Core Believer"
+    dominio: "identity"
+
+  - id: "FW-MV-023"
+    nome: "Memetic Propagation (4 Types)"
+    descricao: "Identity memes + Tension memes + Enemy memes + Vision memes"
+    dominio: "manifesto"
+
+  - id: "FW-MV-024"
+    nome: "Viral Storytelling (5 Elements)"
+    descricao: "Hook + Character + Tension + Turn + Residue"
+    dominio: "manifesto"
+
+  - id: "FW-MV-025"
+    nome: "In-Group/Out-Group Architecture"
+    descricao: "Define We + Define They + Boundary Mechanics + Healthy vs Toxic Guardrails"
+    dominio: "identity"
+
+  - id: "FW-MV-026"
+    nome: "Belief Hierarchy (4 Levels)"
+    descricao: "Axioms (1-2) → Core Convictions (3-5) → Operational Beliefs → Tactical Beliefs"
+    dominio: "identity"
+
+  - id: "FW-MV-027"
+    nome: "Movement Growth Flywheel (4 Phases)"
+    descricao: "Attract → Activate → Sustain → Multiply"
+    dominio: "growth"
+
+  - id: "FW-MV-028"
+    nome: "Depth Pathway Design"
+    descricao: "Rhythm design (daily/weekly/monthly/quarterly/annual) + belonging reinforcement"
+    dominio: "growth"
+
+  - id: "FW-MV-029"
+    nome: "Chapter Architecture"
+    descricao: "Multiplication model: equip multipliers → network activation → local chapters"
+    dominio: "growth"
+
+  - id: "FW-MV-030"
+    nome: "Movement Phase Diagnosis"
+    descricao: "Parse intent → Match routing → Quick answer → Route to specialist"
+    dominio: "movement-core"
+
+  - id: "FW-MV-031"
+    nome: "Output Quality Review"
+    descricao: "Context → Checklist → Score → Verdict (APPROVE/REVISE/REJECT)"
+    dominio: "movement-core"
+
+  - id: "FW-MV-032"
+    nome: "Phenomenological Portrait"
+    descricao: "Thick description of lived experience capturing essence of movement tension"
+    dominio: "phenomenology"
+
+  - id: "FW-MV-033"
+    nome: "Tribal Markers Design"
+    descricao: "Language + Visual + Behavioral + Status + Greeting rituals"
+    dominio: "identity"
+
+  - id: "FW-MV-034"
+    nome: "Churn Prevention Framework"
+    descricao: "Monitor signals → Reinforce belonging → Deepen commitment → Activate peer support"
+    dominio: "growth"
+
+  - id: "FW-MV-035"
+    nome: "Succession Planning"
+    descricao: "Leadership pipeline + Founder independence + Authority distribution"
+    dominio: "governance"
+
+  - id: "FW-MV-036"
+    nome: "Cycle Optimization Metrics"
+    descricao: "Discovery rate + Activation rate + Retention rate + Referral rate + Flywheel velocity"
+    dominio: "growth"
+
+  - id: "FW-MV-037"
+    nome: "Theory of Change"
+    descricao: "Articulate how movement creates systemic change — inputs → activities → outputs → outcomes → impact"
+    dominio: "impact"
+
+  - id: "FW-MV-038"
+    nome: "Measurement-Informed Adjustment"
+    descricao: "Data → Diagnosis → Recommendation → Implementation → Re-measure"
+    dominio: "impact"
+
+# ═══════════════════════════════════════════════════════════════════════════════
+# L5: METODOLOGIAS (34 elementos — 7 task methodologies)
+# ═══════════════════════════════════════════════════════════════════════════════
+
+metodologias:
+  build_movement:
+    nome: "Build Movement (MOVEMENT-001)"
+    total_phases: 5
+    phases:
+      - nome: "Phase 1: Spark"
+        steps: ["Identify lived experience", "Map tension", "Uncover narrative", "Articulate spark", "Deliver spark-analysis.md"]
+      - nome: "Phase 2: Identity"
+        steps: ["Define beliefs", "Design markers", "Establish stack", "Create signals", "Define boundary", "Deliver identity-architecture.md"]
+      - nome: "Phase 3: Ignition"
+        steps: ["Draft manifesto", "Define origin story", "Create battle cry", "Design ritual", "Seed founding circle", "Deliver manifesto.md + ignition-plan.md"]
+      - nome: "Phase 4: Growth"
+        steps: ["Design flywheel", "Plan channels", "Create activation", "Build sustain", "Design multiply", "Deliver growth-strategy.md"]
+      - nome: "Phase 5: Impact"
+        steps: ["Define pyramid", "Set metrics", "Design dashboard", "Calculate vitality", "Set cadence", "Deliver impact-framework.md"]
+
+  analyze_phenomenon:
+    nome: "Analyze Phenomenon (MOVEMENT-002)"
+    total_phases: 4
+    phases:
+      - nome: "Phase 1: Identify Lived Experience"
+        steps: ["Name phenomenon", "Bracket assumptions (epoche)", "Collect first-person accounts", "Identify essential structures", "Map emotional landscape"]
+      - nome: "Phase 2: Map Collective Tension"
+        steps: ["Identify gap", "Name frustration", "Map systemic patterns", "Rate intensity (1-5)", "Assess scope"]
+      - nome: "Phase 3: Find Shared Narrative"
+        steps: ["Discover common story", "Identify villain/system", "Find hero archetype", "Locate turning point", "Extract narrative kernel"]
+      - nome: "Phase 4: Articulate Aspiration"
+        steps: ["Describe desired future", "Define transformation", "Quantify potential impact", "Write aspiration statement", "Rate movement potential"]
+
+  create_identity:
+    nome: "Create Identity (MOVEMENT-003)"
+    total_phases: 4
+    phases:
+      - nome: "Phase 1: Define Belief System"
+        steps: ["Extract values", "Translate to beliefs", "Identify central conviction", "Build hierarchy", "Test resonance"]
+      - nome: "Phase 2: Design Tribal Markers"
+        steps: ["Language markers", "Visual markers", "Behavioral markers", "Status markers", "Greeting rituals"]
+      - nome: "Phase 3: Create Rituals"
+        steps: ["Initiation ritual", "Daily ritual", "Gathering ritual", "Celebration ritual", "Storytelling ritual"]
+      - nome: "Phase 4: Establish In-Group Signals"
+        steps: ["Us-vs-them framing", "Recognition signals", "Inside references", "Loyalty markers", "Belonging gradient + boundaries"]
+
+  write_manifesto:
+    nome: "Write Manifesto (MOVEMENT-004)"
+    total_phases: 5
+    phases:
+      - nome: "Phase 1: Declare Reality"
+        steps: ["Undeniable truth", "Current state of world", "Named pain"]
+      - nome: "Phase 2: State Beliefs"
+        steps: ["We believe X", "Central → aspirational order", "Include heresy"]
+      - nome: "Phase 3: Name Enemy"
+        steps: ["Systemic force", "Why it persists", "Cost of inaction", "Show vulnerability"]
+      - nome: "Phase 4: Envision Future"
+        steps: ["Promised land (specific, sensory)", "Individual + collective impact"]
+      - nome: "Phase 5: Call to Action"
+        steps: ["Invitation to identity", "First step", "Commitment definition", "Battle cry"]
+
+  measure_impact:
+    nome: "Measure Impact (MOVEMENT-005)"
+    total_phases: 4
+    phases:
+      - nome: "Phase 1: Define Impact Pyramid"
+        steps: ["Define 5 levels", "Define success per level", "Assess current level", "Set target level", "Map dependencies"]
+      - nome: "Phase 2: Set Metrics"
+        steps: ["3-5 metrics per level", "Define collection methods", "Establish baselines", "Set targets"]
+      - nome: "Phase 3: Community Health"
+        steps: ["6 dimensions assessment", "Collection methods", "Define healthy ranges", "Create pulse templates"]
+      - nome: "Phase 4: Vitality Index"
+        steps: ["Calculate composite (6 components)", "Apply weights", "Set thresholds", "Define cadence", "Configure alert triggers"]
+
+  diagnose_movement:
+    nome: "Diagnose Movement Phase"
+    total_steps: 4
+    steps: ["Parse intent/keywords/phase/complexity", "Match routing (load catalog, score domains)", "Quick answer (2-4 sentences)", "Route to specialist with context"]
+
+  review_output:
+    nome: "Review Output Quality"
+    total_steps: 4
+    steps: ["Understand context (request, specialist, stage, deliverable)", "Apply quality checklist", "Score and decide (APPROVE/REVISE/REJECT)", "Output review report"]
+
+# ═══════════════════════════════════════════════════════════════════════════════
+# BENCHMARKS NUMÉRICOS
+# ═══════════════════════════════════════════════════════════════════════════════
+
+benchmarks:
+  intensity:
+    scale: "1-5 (1=mild annoyance, 5=existential)"
+    movement_grade: ">= 3"
+    resonance_levels: "Intellectual → Emotional → Somatic → Existential"
+
+  timing:
+    first_action: "<10 minutes"
+    identity_adoption: "within 30 days"
+    expansion_wave: "2-6 weeks"
+    consolidation_wave: "4-8 weeks"
+    belonging_reinforcement: "every 30 days"
+
+  rates:
+    active_member_baseline: "40%+"
+    nps_healthy: ">50"
+    message_fatigue: "after 3+ repetitions"
+    aha_moments_for_adoption: 3
+    emotional_vs_neutral_spread: "3x faster"
+
+  structural:
+    values_per_movement: "3-5"
+    core_beliefs: "3-5"
+    axioms: "1-2 maximum"
+    rituals_minimum: "5+"
+    belonging_levels: "exactly 5"
+    metrics_per_level: "max 5"
+    battle_cry_length: "<3 sentences"
+    idea_simplicity: "<10 words"
+
+  vitality_index:
+    weights: "Tension(20%) + Identity(20%) + Growth(15%) + Engagement(15%) + Behavior(15%) + Systemic(15%)"
+    community_health_weights: "Growth(15%) + Activation(20%) + Retention(25%) + Engagement(20%) + Sentiment(10%) + Advocacy(10%)"
+    thresholds: "80-100=Thriving, 60-79=Healthy, 40-59=At Risk, 20-39=Critical, 0-19=Failing"
+
+  manifesto:
+    short: "500 words"
+    standard: "1000 words"
+    epic: "2000 words"
+
+# ═══════════════════════════════════════════════════════════════════════════════
+# PROCESS ORDERING (NEVER VIOLATE)
+# ═══════════════════════════════════════════════════════════════════════════════
+
+process_rules:
+  - "NEVER skip Spark phase"
+  - "NEVER proceed to Identity without validated spark"
+  - "NEVER write manifesto before identity defined"
+  - "NEVER launch growth without manifesto"
+  - "NEVER measure impact without metrics framework"
+  - "NEVER do 2 expansion waves consecutively"
+  - "NEVER approve output with critical failures"
+  - "NEVER name person/demographic as enemy"
+
+# ═══════════════════════════════════════════════════════════════════════════════
+# TASK ROUTING (para CARGO agents)
+# ═══════════════════════════════════════════════════════════════════════════════
+
+task_routing:
+  movement_building: ["FW-MV-001", "FW-MV-002", "FW-MV-003", "FW-MV-004", "FW-MV-005"]
+  community_design: ["FW-MV-006", "FW-MV-008", "FW-MV-011", "FW-MV-022"]
+  identity_architecture: ["FW-MV-012", "FW-MV-017", "FW-MV-025", "FW-MV-026"]
+  manifesto_writing: ["FW-MV-016", "FW-MV-023", "FW-MV-024"]
+  impact_measurement: ["FW-MV-014", "FW-MV-015", "FW-MV-019", "FW-MV-021"]
+  governance: ["FW-MV-007", "FW-MV-035"]

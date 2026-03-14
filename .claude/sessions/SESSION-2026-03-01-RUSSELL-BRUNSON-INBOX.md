@@ -32,22 +32,22 @@ Processing 118 transcription files from Russell Brunson's "Two Comma Club Coachi
 - Dedup files at: `artifacts/insights/russell-brunson/DEDUP-GROUP-{A,B,C}.md`
 
 ### Phase 3: DNA Consolidation
-- DNA.yaml created: `knowledge/dna/persons/russell-brunson/DNA.yaml`
+- DNA.yaml created: `knowledge/external/dna/persons/russell-brunson/DNA.yaml`
 - 271 elements: 62 PHI, 55 MM, 87 HEUR, 51 FW, 16 MET
 
 ### Phase 4: Person Agent Created
-- `agents/persons/russell-brunson/AGENT.md` (Template V3, 11 parts)
-- `agents/persons/russell-brunson/SOUL.md` (v2.0 template)
-- `agents/persons/russell-brunson/MEMORY.md` (v2.0.0 template)
-- `agents/persons/russell-brunson/DNA-CONFIG.yaml`
+- `agents/external/russell-brunson/AGENT.md` (Template V3, 11 parts)
+- `agents/external/russell-brunson/SOUL.md` (v2.0 template)
+- `agents/external/russell-brunson/MEMORY.md` (v2.0.0 template)
+- `agents/external/russell-brunson/DNA-CONFIG.yaml`
 
 ### Phase 5: Knowledge Artifacts
 - `knowledge/dossiers/persons/DOSSIER-RUSSELL-BRUNSON.md` (v1.0.0)
-- `knowledge/sources/russell-brunson/01-FUNNELS-VALUE-LADDER.md`
-- `knowledge/sources/russell-brunson/02-PERFECT-WEBINAR.md`
-- `knowledge/sources/russell-brunson/03-STORYTELLING-PERSUASION.md`
-- `knowledge/sources/russell-brunson/04-TRAFFIC-DREAM-100.md`
-- `knowledge/sources/russell-brunson/_INDEX.md`
+- `knowledge/external/sources/russell-brunson/01-FUNNELS-VALUE-LADDER.md`
+- `knowledge/external/sources/russell-brunson/02-PERFECT-WEBINAR.md`
+- `knowledge/external/sources/russell-brunson/03-STORYTELLING-PERSUASION.md`
+- `knowledge/external/sources/russell-brunson/04-TRAFFIC-DREAM-100.md`
+- `knowledge/external/sources/russell-brunson/_INDEX.md`
 - `knowledge/dossiers/_INDEX.md` updated (32 dossiers, 11 persons, 8 sources)
 
 ## ALL TASKS COMPLETE
@@ -74,17 +74,17 @@ Processing 118 transcription files from Russell Brunson's "Two Comma Club Coachi
 | 11 | DEDUP-GROUP-A.md | artifacts/insights/russell-brunson/ | this session |
 | 12 | DEDUP-GROUP-B.md | artifacts/insights/russell-brunson/ | this session |
 | 13 | DEDUP-GROUP-C.md | artifacts/insights/russell-brunson/ | this session |
-| 14 | DNA.yaml | knowledge/dna/persons/russell-brunson/ | this session |
-| 15 | AGENT.md | agents/persons/russell-brunson/ | this session |
-| 16 | SOUL.md | agents/persons/russell-brunson/ | this session |
-| 17 | MEMORY.md | agents/persons/russell-brunson/ | this session |
-| 18 | DNA-CONFIG.yaml | agents/persons/russell-brunson/ | this session |
+| 14 | DNA.yaml | knowledge/external/dna/persons/russell-brunson/ | this session |
+| 15 | AGENT.md | agents/external/russell-brunson/ | this session |
+| 16 | SOUL.md | agents/external/russell-brunson/ | this session |
+| 17 | MEMORY.md | agents/external/russell-brunson/ | this session |
+| 18 | DNA-CONFIG.yaml | agents/external/russell-brunson/ | this session |
 | 19 | DOSSIER-RUSSELL-BRUNSON.md | knowledge/dossiers/persons/ | this session |
-| 20 | 01-FUNNELS-VALUE-LADDER.md | knowledge/sources/russell-brunson/ | this session |
-| 21 | 02-PERFECT-WEBINAR.md | knowledge/sources/russell-brunson/ | this session |
-| 22 | 03-STORYTELLING-PERSUASION.md | knowledge/sources/russell-brunson/ | this session |
-| 23 | 04-TRAFFIC-DREAM-100.md | knowledge/sources/russell-brunson/ | this session |
-| 24 | _INDEX.md | knowledge/sources/russell-brunson/ | this session |
+| 20 | 01-FUNNELS-VALUE-LADDER.md | knowledge/external/sources/russell-brunson/ | this session |
+| 21 | 02-PERFECT-WEBINAR.md | knowledge/external/sources/russell-brunson/ | this session |
+| 22 | 03-STORYTELLING-PERSUASION.md | knowledge/external/sources/russell-brunson/ | this session |
+| 23 | 04-TRAFFIC-DREAM-100.md | knowledge/external/sources/russell-brunson/ | this session |
+| 24 | _INDEX.md | knowledge/external/sources/russell-brunson/ | this session |
 | 25 | _INDEX.md (updated) | knowledge/dossiers/ | this session |
 
 ## SYSTEM STATUS POST-COMPLETION
@@ -93,7 +93,7 @@ Processing 118 transcription files from Russell Brunson's "Two Comma Club Coachi
 - **Total Person Dossiers:** 11 (was 10 + Russell Brunson)
 - **Total Theme Dossiers:** 21 (unchanged - theme cascading pending)
 - **Total DNA Elements:** ~6,071+ (was ~5,800 + 271 Russell)
-- **Russell Brunson Agent:** ACTIVE in agents/persons/russell-brunson/
+- **Russell Brunson Agent:** ACTIVE in agents/external/russell-brunson/
 
 ## CASCADING COMPLETE (This Session - Phase 2)
 

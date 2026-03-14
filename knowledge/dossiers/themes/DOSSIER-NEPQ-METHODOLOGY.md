@@ -1432,7 +1432,7 @@ Se voce esta falando mais que 10-15%, esta perdendo a venda. 85%+ deve ser o pro
 - [Person: Jeremy Miner](../persons/DOSSIER-JEREMY-MINER.md)
 - [Agent: NEPQ-SPECIALIST](/agents/cargo/sales/nepq-specialist/AGENT.md)
 - [Theme: Objection Handling](DOSSIER-OBJECTION-HANDLING.md)
-- [DNA: Jeremy Miner](/knowledge/dna/persons/JEREMY-MINER/)
+- [DNA: Jeremy Miner](/knowledge/external/dna/persons/JEREMY-MINER/)
 
 ---
 

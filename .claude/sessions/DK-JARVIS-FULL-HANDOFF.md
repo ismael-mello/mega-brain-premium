@@ -59,9 +59,9 @@ CMO e Sales Manager: já enriquecidos na sessão anterior.
 
 ## PENDENTE — Phase 6: Cleanup
 
-- Deletar `knowledge/sources/dan-kennedy/raw/cd2_combined.txt` (arquivo temp)
+- Deletar `knowledge/external/sources/dan-kennedy/raw/cd2_combined.txt` (arquivo temp)
 - Verificar inbox limpo
-- Deletar `knowledge/dna/persons/dan-kennedy/DNA-7FA-EXTRACTED.yaml` (extração raw já merged)
+- Deletar `knowledge/external/dna/persons/dan-kennedy/DNA-7FA-EXTRACTED.yaml` (extração raw já merged)
 
 ---
 

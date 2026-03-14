@@ -140,8 +140,8 @@ O que te paga não é know-how, serviço ou resultado — é REPUTAÇÃO. Trate 
 | Arquivo | Path |
 |---------|------|
 | DK Person Dossier | `knowledge/dossiers/persons/DOSSIER-DAN-KENNEDY.md` |
-| DK DNA | `knowledge/dna/persons/dan-kennedy/DNA.yaml` |
-| ACC Raw | `knowledge/sources/dan-kennedy/raw/advanced-coaching-consulting/` |
+| DK DNA | `knowledge/external/dna/persons/dan-kennedy/DNA.yaml` |
+| ACC Raw | `knowledge/external/sources/dan-kennedy/raw/advanced-coaching-consulting/` |
 | Pricing Dossier | `knowledge/dossiers/themes/DOSSIER-07-PRICING.md` |
 
 ---

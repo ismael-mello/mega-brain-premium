@@ -21,14 +21,14 @@ nivel: "SALES"
 
 dna_agregado:
   - dominio: "vendas"
-    path: "/knowledge/dna/AGGREGATED/AGG-VENDAS.yaml"
+    path: "/knowledge/external/dna/AGGREGATED/AGG-VENDAS.yaml"
     peso: 0.75
     quando_usar: "Perguntas gerais sobre vendas e processos comerciais"
     justificativa: "LNS precisa entender contexto geral de vendas para nutrir leads"
 
   # ─── AIOS Domain DNAs (added 2026-03-12) ───
   - dominio: "copywriting"
-    path: "/knowledge/dna/AGGREGATED/AGG-COPYWRITING.yaml"
+    path: "/knowledge/external/dna/AGGREGATED/AGG-COPYWRITING.yaml"
     peso: 0.75
     quando_usar: "Copy de emails de nurturing, sequences, subject lines"
     justificativa: "LNS escreve emails de nurturing — copy é core da função"
@@ -36,7 +36,7 @@ dna_agregado:
     source: "AIOS Copy Squad"
 
   - dominio: "storytelling"
-    path: "/knowledge/dna/AGGREGATED/AGG-STORYTELLING.yaml"
+    path: "/knowledge/external/dna/AGGREGATED/AGG-STORYTELLING.yaml"
     peso: 0.60
     quando_usar: "Email storytelling, SOAP opera sequences, narrativas de nurturing"
     justificativa: "LNS usa storytelling para manter engajamento em sequences longas"
@@ -55,7 +55,7 @@ dna_primario:
       - "7 Levers Framework"
       - "Follow-up Strategy"
       - "Recovery Sequences"
-    path: "/knowledge/dna/persons/cole-gordon"
+    path: "/knowledge/external/dna/persons/cole-gordon"
     justificativa: "Principal autoridade em show rate e nurturing"
 
   - pessoa: "jeremy-haynes"
@@ -69,7 +69,7 @@ dna_primario:
       - "Venus Fly Trap 2.0"      # NOVO Phase 5.3
       - "Follow-Up Architecture"  # NOVO Phase 5.3
       - "Tornado Ad Strategy"     # NOVO Phase 5.3
-    path: "/knowledge/dna/persons/jeremy-haynes"
+    path: "/knowledge/external/dna/persons/jeremy-haynes"
     justificativa: "Master em elevacao de interesse pre-call e automacao Venus Fly Trap"
     # ENRIQUECIDO Phase 5.3 com Venus Fly Trap e Follow-Up Architecture completo
     insights_adicionais:
@@ -107,7 +107,7 @@ dna_primario:
       - "Communication Funnel Architecture"
       - "Email Frequency Strategy"
       - "Value Ladder Nurturing"
-    path: "/knowledge/dna/persons/russell-brunson"
+    path: "/knowledge/external/dna/persons/russell-brunson"
     justificativa: "Master em follow-up funnels e email nurturing - $1 front-end gera $16 em follow-up"
     added: "2026-03-01"
     insights_adicionais:

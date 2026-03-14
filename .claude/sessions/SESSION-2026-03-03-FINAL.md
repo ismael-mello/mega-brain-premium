@@ -36,8 +36,8 @@
 
 | Arquivo | Tipo | Status |
 |---------|------|--------|
-| `agents/persons/jeremy-haynes/MEMORY.md` | UPDATE | ✅ |
-| `agents/persons/jeremy-haynes/DNA-CONFIG.yaml` | UPDATE | ✅ |
+| `agents/external/jeremy-haynes/MEMORY.md` | UPDATE | ✅ |
+| `agents/external/jeremy-haynes/DNA-CONFIG.yaml` | UPDATE | ✅ |
 | `knowledge/dossiers/themes/DOSSIER-CLOSING-TECHNIQUES.md` | CREATE | ✅ |
 | `knowledge/dossiers/themes/DOSSIER-FOLLOW-UP-SYSTEMS.md` | CREATE | ✅ |
 | `knowledge/dossiers/themes/DOSSIER-COLD-OUTREACH.md` | CREATE | ✅ |
@@ -80,7 +80,7 @@
 - EDC foco: closing BR, objecao handling, pactos, ancoragem CAF
 - JH foco em CLOSER: Follow-Up Architecture, Hammer Strategy, show rate
 - AGENT-INDEX.yaml esta em `agents/AGENT-INDEX.yaml`
-- EDC agent: `agents/persons/ead-closer/` (todos os 4 arquivos criados)
+- EDC agent: `agents/external/ead-closer/` (todos os 4 arquivos criados)
 
 ---
 Session ID: SESSION-2026-03-03-FINAL

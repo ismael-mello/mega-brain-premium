@@ -24,12 +24,12 @@ DNA.yaml tinha sido escrito com 185 novos elementos ACQ18K mas os metadados esta
 11. **Auto-memory**: Atualizada com AH DNA Status correto
 
 ## ARQUIVOS MODIFICADOS
-- `knowledge/dna/persons/alex-hormozi/DNA.yaml` — metadata corrected (total_elements: 402, by_layer, chunks: 324)
-- `agents/persons/alex-hormozi/DNA-CONFIG.yaml` — stats corrected (402 elements, AH-ACQ001 elements: 185)
-- `agents/persons/alex-hormozi/MEMORY.md` — AIOS+ACQ18K fontes, evolução v5.0.0, KEY KNOWLEDGE section
+- `knowledge/external/dna/persons/alex-hormozi/DNA.yaml` — metadata corrected (total_elements: 402, by_layer, chunks: 324)
+- `agents/external/alex-hormozi/DNA-CONFIG.yaml` — stats corrected (402 elements, AH-ACQ001 elements: 185)
+- `agents/external/alex-hormozi/MEMORY.md` — AIOS+ACQ18K fontes, evolução v5.0.0, KEY KNOWLEDGE section
 - `agents/cargo/c-level/cfo/DNA-CONFIG.yaml` — alex-hormozi domains expanded + ACQ18K highlights
 - `agents/cargo/c-level/cro/DNA-CONFIG.yaml` — alex-hormozi domains expanded + ACQ18K highlights
-- `knowledge/dna/aggregated/AGG-MONEY-MODELS.yaml` — CRIADO
+- `knowledge/external/dna/aggregated/AGG-MONEY-MODELS.yaml` — CRIADO
 - `.claude/projects/.../memory/MEMORY.md` — AH DNA Status updated
 
 ## PENDÊNCIAS (próxima sessão)
@@ -37,9 +37,9 @@ DNA.yaml tinha sido escrito com 185 novos elementos ACQ18K mas os metadados esta
 - [ ] Closer DNA-CONFIG: +anchor upsell, permission-based selling (AH peso 0.75)
 - [ ] CMO DNA-CONFIG: +6-step brand, hooks 80%, content chunking (AH peso 0.75)
 - [ ] AGENT-INDEX.yaml: atualizar source count para AH agent
-- [ ] Remover `inbox/FORMAÇÃO EM LIDERANÇA...` (FLCR raw já salvo em knowledge/sources/flcr/raw/)
+- [ ] Remover `inbox/FORMAÇÃO EM LIDERANÇA...` (FLCR raw já salvo em knowledge/external/sources/flcr/raw/)
 - [ ] FLCR pendentes: Matriz Gulti, Lencioni 5 Dysfunctions, Módulo 10 conteúdo adicional
-- [ ] AGG-LIDERANCA.yaml: criar em knowledge/dna/aggregated/
+- [ ] AGG-LIDERANCA.yaml: criar em knowledge/external/dna/aggregated/
 
 ## DECISÕES TOMADAS
 - **402 é o count correto**: DNA.yaml verificado via Python — os 529 e 418 anteriores eram inflados por BATCH-127/128 que foram contados mas nunca escritos (phantom elements)

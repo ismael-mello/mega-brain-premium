@@ -182,7 +182,7 @@ if not voice_config:
 Os agentes devem consultar seu DNA antes de gerar posições:
 
 ```
-DNA Cognitivo (knowledge/dna/persons/{PESSOA}/)
+DNA Cognitivo (knowledge/external/dna/persons/{PESSOA}/)
 │
 ├── CONFIG.yaml      → Metadados e fontes
 ├── PRINCIPIOS.yaml  → Princípios fundamentais

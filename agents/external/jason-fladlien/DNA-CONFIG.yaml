@@ -1,0 +1,39 @@
+cargo: "JASON-FLADLIEN"
+versao: "1.0.0"
+nivel: "PERSON"
+natureza: "SOLO"
+data_criacao: "2026-03-08"
+ultima_atualizacao: "2026-03-08"
+
+dna_sources:
+  - nome: "Jason Fladlien"
+    peso: 1.0
+    path: "/knowledge/external/dna/persons/jason-fladlien"
+    raiz: "/knowledge/external/sources/jason-fladlien/raw/"
+    dominios:
+      - webinar-selling
+      - affiliate-marketing
+      - sales-presentations
+      - belief-destruction
+      - high-ticket-closing
+      - offer-creation
+      - persuasion-psychology
+      - trial-closing
+      - risk-reversal
+      - audience-engagement
+    materiais_fonte:
+      - nome: "Webinar Blueprint (com Russell Brunson)"
+        tipo: "MASTERCLASS"
+        path_raw: "/knowledge/external/sources/jason-fladlien/raw/01._Webinar_Blueprint/transcription_Webinar_Blueprint.txt"
+      - nome: "The Perfect Webinar - Video 2 (Jason's Deep Dive)"
+        tipo: "TRAINING"
+        path_raw: "/knowledge/external/sources/jason-fladlien/raw/01._Webinar_Blueprint/transcription_Video_2.txt"
+
+dna_stats:
+  total_elements: 47
+  by_layer:
+    L1_PHILOSOPHIES: 8
+    L2_MENTAL_MODELS: 9
+    L3_HEURISTICS: 12
+    L4_FRAMEWORKS: 11
+    L5_METHODOLOGIES: 7

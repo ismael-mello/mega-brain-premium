@@ -1,6 +1,6 @@
 # DOSSIÊ: ALEX HORMOZI
 
-[[HOME|← Home]] | [[MOC-PESSOAS|👤 Pessoas]] | [[MOC-TEMAS|📚 Temas]] | [[knowledge/dna/persons/alex-hormozi/CONFIG|⚙️ DNA Config]]
+[[HOME|← Home]] | [[MOC-PESSOAS|👤 Pessoas]] | [[MOC-TEMAS|📚 Temas]] | [[knowledge/external/dna/persons/alex-hormozi/CONFIG|⚙️ DNA Config]]
 
 > **Em resumo:** Construí um portfolio de $85M/ano de receita através do Gym Launch e Prestige Labs. Minha especialidade é outbound sales scaling e preparar negócios para exit. O Christmas Tree Structure e o Farm System são meus frameworks de estrutura de time. O CLOSER framework é como fecho vendas. Minha filosofia de HR é polêmica mas funciona. O $100M Closing Playbook contém meus 28 Rules of Closing e frameworks avançados como STAR Qualification e Onion of Blame. O $100M Money Models documenta minha operação de lançamento que quebrou o recorde mundial do Guinness: 1.5M livros em 24 horas. Meu canal do YouTube (19 vídeos processados) reforça e expande esses frameworks com insights práticos sobre scripts, tom, objeções e gestão de times.
 >
@@ -926,8 +926,8 @@ O $100M Closing Playbook é o catálogo definitivo de técnicas de fechamento. C
 
 ## Fontes Relacionadas
 
-- [Agent: ALEX-HORMOZI](/agents/persons/alex-hormozi/AGENT.md)
-- [DNA: ALEX-HORMOZI](/knowledge/dna/persons/alex-hormozi/)
+- [Agent: ALEX-HORMOZI](/agents/external/alex-hormozi/AGENT.md)
+- [DNA: ALEX-HORMOZI](/knowledge/external/dna/persons/alex-hormozi/)
 - [Theme: ESTRUTURA-TIME](../themes/DOSSIER-01-ESTRUTURA-TIME.md)
 - [Theme: PROCESSO-VENDAS](../themes/DOSSIER-02-PROCESSO-VENDAS.md)
 - [Theme: CONTRATACAO](../themes/DOSSIER-03-CONTRATACAO.md)

@@ -65,7 +65,7 @@
 
 ## File Paths for DK-MM-02
 ```
-knowledge/sources/dan-kennedy/raw/magnetic-marketing/02-brass-balls/
+knowledge/external/sources/dan-kennedy/raw/magnetic-marketing/02-brass-balls/
 ├── transcription_flac_01-CD_1_-_Have_The_Guts_To_Name_Your_Price.txt
 ├── transcription_flac_02-CD_2_-_Do_Or_Die.txt
 ├── transcription_flac_03-CD_3_-_Success_Is_Not_A_Straight_Line.txt

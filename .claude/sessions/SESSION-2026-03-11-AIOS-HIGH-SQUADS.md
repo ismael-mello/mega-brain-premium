@@ -14,15 +14,15 @@
 5. **DOMAINS-TAXONOMY.yaml** — +4 domínios (storytelling, traffic, executive-leadership, data-growth). +3 cargo mappings (CEO, CTO, GROWTH-LEAD). CMO/COO atualizados.
 
 ## ARQUIVOS CRIADOS/MODIFICADOS
-- knowledge/dna/aggregated/AGG-STORYTELLING.yaml — NOVO (162 elem)
-- knowledge/dna/aggregated/AGG-TRAFFIC.yaml — NOVO (185 elem)
-- knowledge/dna/aggregated/AGG-EXECUTIVE-LEADERSHIP.yaml — NOVO (173 elem)
-- knowledge/dna/aggregated/AGG-DATA-GROWTH.yaml — NOVO (178 elem)
-- knowledge/dna/DOMAINS-TAXONOMY.yaml — +4 domínios, +3 cargos
-- knowledge/sources/aios-squads/04-STORYTELLING-SQUAD.md — NOVO
-- knowledge/sources/aios-squads/05-TRAFFIC-MASTERS-SQUAD.md — NOVO
-- knowledge/sources/aios-squads/06-C-LEVEL-SQUAD.md — NOVO
-- knowledge/sources/aios-squads/07-DATA-SQUAD.md — NOVO
+- knowledge/external/dna/aggregated/AGG-STORYTELLING.yaml — NOVO (162 elem)
+- knowledge/external/dna/aggregated/AGG-TRAFFIC.yaml — NOVO (185 elem)
+- knowledge/external/dna/aggregated/AGG-EXECUTIVE-LEADERSHIP.yaml — NOVO (173 elem)
+- knowledge/external/dna/aggregated/AGG-DATA-GROWTH.yaml — NOVO (178 elem)
+- knowledge/external/dna/DOMAINS-TAXONOMY.yaml — +4 domínios, +3 cargos
+- knowledge/external/sources/aios-squads/04-STORYTELLING-SQUAD.md — NOVO
+- knowledge/external/sources/aios-squads/05-TRAFFIC-MASTERS-SQUAD.md — NOVO
+- knowledge/external/sources/aios-squads/06-C-LEVEL-SQUAD.md — NOVO
+- knowledge/external/sources/aios-squads/07-DATA-SQUAD.md — NOVO
 
 ## TOTAIS DO SISTEMA
 - AGGs: 9 (vendas, offers, outbound, copywriting, brand-strategy, storytelling, traffic, executive-leadership, data-growth)

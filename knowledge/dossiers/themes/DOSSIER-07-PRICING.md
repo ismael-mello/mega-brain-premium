@@ -611,7 +611,7 @@ CITAÇÕES:
 ## Russell Brunson - Contribuicoes ^[NEW: 2026-03-01]
 
 > **Fonte:** Two Comma Club Coaching - Secrets Masterclass ($4,997)
-> **DNA:** knowledge/dna/persons/russell-brunson/DNA.yaml
+> **DNA:** knowledge/external/dna/persons/russell-brunson/DNA.yaml
 
 ### Value Ladder Pricing
 
@@ -701,7 +701,7 @@ CITAÇÕES:
 ## Dan Kennedy — Advanced Coaching & Consulting ^[NEW: 2026-03-13]
 
 > **Fonte:** Advanced Coaching & Consulting (ACC) — Videos DK_8, DK_9, DK_10
-> **DNA:** knowledge/dna/persons/dan-kennedy/DNA.yaml
+> **DNA:** knowledge/external/dna/persons/dan-kennedy/DNA.yaml
 
 ### Pricing Psychology (DK ACC)
 

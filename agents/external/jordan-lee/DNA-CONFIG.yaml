@@ -1,0 +1,138 @@
+# DNA-CONFIG.yaml - Jordan Lee (PERSON Agent)
+#
+# Versao: 1.0.0
+# Data: 2026-03-02
+# Proposito: Configuracao de DNA para agente SOLO de Jordan Lee
+# Integrado com: AGENT-COGNITION-PROTOCOL (FASE 1.5), AGENT-INTEGRITY-PROTOCOL
+
+# ===============================================================================
+# METADADOS DO AGENTE
+# ===============================================================================
+
+cargo: "JORDAN-LEE"
+versao: "1.0.0"
+nivel: "PERSON"
+natureza: "SOLO"
+data_criacao: "2026-03-02"
+ultima_atualizacao: "2026-03-02"
+
+# ===============================================================================
+# CONSTITUICAO
+# ===============================================================================
+
+constituicao:
+  path: "/agents/CONSTITUTION/BASE-CONSTITUTION.md"
+  descricao: "Principios eticos e operacionais base para todos os agentes"
+
+# ===============================================================================
+# MEMORIA DO AGENTE
+# ===============================================================================
+
+memoria:
+  path: "./MEMORY.md"
+  versao: "1.0.0"
+  descricao: "Experiencia acumulada do agente Jordan Lee"
+
+# ===============================================================================
+# SOUL DO AGENTE
+# ===============================================================================
+
+soul:
+  path: "./SOUL.md"
+  versao: "1.0.0"
+  descricao: "Identidade e consciencia viva do agente Jordan Lee"
+
+# ===============================================================================
+# FONTES DE DNA - COM RASTREABILIDADE COMPLETA
+# ===============================================================================
+#
+# AGENTE SOLO: Fonte unica = peso 1.0 (100%)
+# Sem conflitos entre fontes. Sem resolucao de conflitos necessaria.
+#
+# ===============================================================================
+
+dna_sources:
+
+  agregado: []
+
+  primario:
+    - pessoa: "jordan-lee"
+      path: "/knowledge/external/dna/persons/jordan-lee"
+      raiz: "/inbox/jordan-lee/"
+      dominios_usados:
+        - "scaling"
+        - "ai-sales"
+        - "hiring"
+        - "high-performance-culture"
+        - "enterprise-value"
+        - "management"
+      peso: 1.0
+      total_elementos: 26
+      por_camada:
+        filosofias: 6
+        modelos_mentais: 5
+        heuristicas: 8
+        frameworks: 4
+        metodologias: 3
+      chunks_processados: 52
+      confianca_media: 0.86
+      materiais_fonte:
+        - source_id: "CJ001"
+          tipo: "podcast"
+          titulo: "Charlie Johnson Show - Jordan Lee Interview"
+          raiz: "/inbox/jordan-lee/"
+        - source_id: "MT001"
+          tipo: "podcast"
+          titulo: "Max Tornow Podcast - Jordan Lee"
+          raiz: "/inbox/jordan-lee/"
+        - source_id: "JL001-JL007"
+          tipo: "masterclass"
+          titulo: "Jordan Lee content (7 videos)"
+          raiz: "/inbox/jordan-lee/"
+
+# ===============================================================================
+# KNOWLEDGE ARTIFACTS
+# ===============================================================================
+
+knowledge_artifacts:
+  dossier: "/knowledge/dossiers/persons/DOSSIER-JORDAN-LEE.md"
+  sources:
+    - "/knowledge/external/sources/jordan-lee/01-ESTRUTURA-TIME.md"
+    - "/knowledge/external/sources/jordan-lee/03-CONTRATACAO.md"
+    - "/knowledge/external/sources/jordan-lee/09-GESTAO.md"
+    - "/knowledge/external/sources/jordan-lee/10-CULTURA.md"
+  dna_files:
+    - "/knowledge/external/dna/persons/jordan-lee/CONFIG.yaml"
+    - "/knowledge/external/dna/persons/jordan-lee/FILOSOFIAS.yaml"
+    - "/knowledge/external/dna/persons/jordan-lee/FRAMEWORKS.yaml"
+    - "/knowledge/external/dna/persons/jordan-lee/HEURISTICAS.yaml"
+    - "/knowledge/external/dna/persons/jordan-lee/METODOLOGIAS.yaml"
+    - "/knowledge/external/dna/persons/jordan-lee/MODELOS-MENTAIS.yaml"
+
+# ===============================================================================
+# TEMAS CONTRIBUIDOS (para cargo agents e theme dossiers)
+# ===============================================================================
+
+temas_contribuidos:
+  - tema: "01-ESTRUTURA-TIME"
+    relevancia: "ALTA"
+    elementos: ["JL-FW-001", "JL-HEU-006", "JL-HEU-007", "JL-MET-003"]
+  - tema: "03-CONTRATACAO"
+    relevancia: "ALTA"
+    elementos: ["JL-FIL-001", "JL-FW-002", "JL-HEU-001", "JL-MET-001", "JL-MM-005"]
+  - tema: "09-GESTAO"
+    relevancia: "ALTA"
+    elementos: ["JL-FIL-002", "JL-FW-001", "JL-MM-001", "JL-MM-002", "JL-MET-002"]
+  - tema: "10-CULTURA"
+    relevancia: "ALTA"
+    elementos: ["JL-FIL-005", "JL-FIL-006", "JL-HEU-004", "JL-MM-003", "JL-MM-004"]
+
+# ===============================================================================
+# CHANGELOG
+# ===============================================================================
+
+changelog:
+  - data: "2026-03-02"
+    acao: "Criacao inicial do Person Agent"
+    fonte: "DNA completo (26 elementos) + Dossier + 4 Sources"
+    versao: "1.0.0"

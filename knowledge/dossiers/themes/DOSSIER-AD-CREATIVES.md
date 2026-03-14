@@ -25,7 +25,7 @@
 
 ## Sistema de Budget de Criativos
 
-**Fonte:** CA ^[knowledge/sources/client-accelerator/02-LAUNCH-PLANS-AND-AD-STRATEGY.md:90-98]
+**Fonte:** CA ^[knowledge/external/sources/client-accelerator/02-LAUNCH-PLANS-AND-AD-STRATEGY.md:90-98]
 
 ```
 +------------------------------------------------------------------------------+
@@ -41,7 +41,7 @@
 
 ## 7 Padrões Universais de Alto Desempenho
 
-**Fonte:** CA ^[knowledge/sources/client-accelerator/02-LAUNCH-PLANS-AND-AD-STRATEGY.md:125-133]
+**Fonte:** CA ^[knowledge/external/sources/client-accelerator/02-LAUNCH-PLANS-AND-AD-STRATEGY.md:125-133]
 
 | # | Padrão | Mecanismo |
 |---|--------|-----------|
@@ -57,7 +57,7 @@
 
 ## 20 Ad Creatives com Melhor Performance
 
-**Fonte:** CA ^[knowledge/sources/client-accelerator/02-LAUNCH-PLANS-AND-AD-STRATEGY.md:100-123]
+**Fonte:** CA ^[knowledge/external/sources/client-accelerator/02-LAUNCH-PLANS-AND-AD-STRATEGY.md:100-123]
 
 | # | Nome | CTR | Métrica Principal |
 |---|------|-----|-------------------|
@@ -88,7 +88,7 @@
 
 ## Thumbnail Psychology — Framework 3C
 
-**Fonte:** CA-0016 ^[knowledge/sources/client-accelerator/03-THUMBNAIL-PSYCHOLOGY.md]
+**Fonte:** CA-0016 ^[knowledge/external/sources/client-accelerator/03-THUMBNAIL-PSYCHOLOGY.md]
 
 ```
 +------------------------------------------------------------------------------+
@@ -150,7 +150,7 @@
 
 ## Estrutura de Time para Escala de Criativos
 
-**Fonte:** CA ^[knowledge/sources/client-accelerator/02-LAUNCH-PLANS-AND-AD-STRATEGY.md:7-24]
+**Fonte:** CA ^[knowledge/external/sources/client-accelerator/02-LAUNCH-PLANS-AND-AD-STRATEGY.md:7-24]
 
 | Role | Função | KPI Principal |
 |------|--------|---------------|

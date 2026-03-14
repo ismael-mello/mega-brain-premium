@@ -10,7 +10,7 @@
 
 1. **INBOX SCAN** - Identificados 10 arquivos (5 .txt + 5 .pdf) de Russell Brunson
 2. **MOVE TO RAW** - Todos os arquivos copiados para:
-   `knowledge/sources/russell-brunson/raw/01._Perfect_Webinar_Secrets/`
+   `knowledge/external/sources/russell-brunson/raw/01._Perfect_Webinar_Secrets/`
    - `1._Welcome_To_The_Perfect_Webinar/` (1 txt - 704B thank you page)
    - `2._The_Perfect_Webinar/` (1 txt 89KB + 1 PDF 11MB handout)
    - `4._Workshop_Day_1/` (3 txt: 80K, 142K, 71K + 4 PDFs)
@@ -48,7 +48,7 @@
    - Adicionar genuinamente novos (workshop exercises, live demos, Q&A insights)
 
 5. **KNOWLEDGE UPDATE**:
-   - Atualizar/criar `05-PERFECT-WEBINAR-SECRETS.md` em knowledge/sources/
+   - Atualizar/criar `05-PERFECT-WEBINAR-SECRETS.md` em knowledge/external/sources/
    - Atualizar `_INDEX.md` com nova source file
    - Atualizar `MEMORY.md` com novos insights e materiais processados
    - Atualizar `AGENT.md` e `SOUL.md` se novos padroes emergirem

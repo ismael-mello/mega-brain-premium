@@ -172,7 +172,7 @@ def resolve_dossier_path(dossier_name: str) -> Optional[Path]:
     return None
 
 def resolve_dna_path(dna_name: str) -> Optional[Path]:
-    """Resolve DNA name to path in knowledge/dna/persons/*/DNA.yaml"""
+    """Resolve DNA name to path in knowledge/external/dna/persons/*/DNA.yaml"""
     if not DNA_PATH.exists():
         return None
 

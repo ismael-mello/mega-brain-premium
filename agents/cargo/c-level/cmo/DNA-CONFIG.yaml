@@ -68,7 +68,7 @@ dna_sources:
 
   agregado:
     - dominio: "vendas"
-      path: "/knowledge/dna/AGGREGATED/AGG-VENDAS.yaml"
+      path: "/knowledge/external/dna/AGGREGATED/AGG-VENDAS.yaml"
       peso: 0.85
       quando_usar: "Métricas de vendas, funil, conversão"
       justificativa: "CMO precisa entender vendas para alinhar marketing com resultados"
@@ -77,7 +77,7 @@ dna_sources:
         - "VD002"
 
     - dominio: "offers"
-      path: "/knowledge/dna/AGGREGATED/AGG-OFFERS.yaml"
+      path: "/knowledge/external/dna/AGGREGATED/AGG-OFFERS.yaml"
       peso: 0.88
       quando_usar: "Construção de ofertas irresistíveis"
       insight_ids:
@@ -86,7 +86,7 @@ dna_sources:
 
     # ─── AIOS Domain DNAs (added 2026-03-12) ───
     - dominio: "copywriting"
-      path: "/knowledge/dna/AGGREGATED/AGG-COPYWRITING.yaml"
+      path: "/knowledge/external/dna/AGGREGATED/AGG-COPYWRITING.yaml"
       peso: 0.85
       quando_usar: "Copy de ads, landing pages, emails, headlines, direct response"
       justificativa: "CMO é dono de toda comunicação de marketing — copy é core"
@@ -94,7 +94,7 @@ dna_sources:
       source: "Dan Kennedy (primário) + Russell Brunson + Alex Hormozi"
 
     - dominio: "brand-strategy"
-      path: "/knowledge/dna/AGGREGATED/AGG-BRAND-STRATEGY.yaml"
+      path: "/knowledge/external/dna/AGGREGATED/AGG-BRAND-STRATEGY.yaml"
       peso: 0.85
       quando_usar: "Posicionamento de marca, brand equity, arquitetura de marca"
       justificativa: "Brand strategy é responsabilidade direta do CMO"
@@ -102,7 +102,7 @@ dna_sources:
       source: "AIOS Brand Squad"
 
     - dominio: "storytelling"
-      path: "/knowledge/dna/AGGREGATED/AGG-STORYTELLING.yaml"
+      path: "/knowledge/external/dna/AGGREGATED/AGG-STORYTELLING.yaml"
       peso: 0.75
       quando_usar: "Narrativa de marketing, brand storytelling, content strategy"
       justificativa: "Storytelling é veículo primário de mensagem de marketing"
@@ -110,7 +110,7 @@ dna_sources:
       source: "AIOS Storytelling Squad"
 
     - dominio: "traffic"
-      path: "/knowledge/dna/AGGREGATED/AGG-TRAFFIC.yaml"
+      path: "/knowledge/external/dna/AGGREGATED/AGG-TRAFFIC.yaml"
       peso: 0.85
       quando_usar: "Paid media strategy, performance marketing, creative testing"
       justificativa: "CMO supervisiona toda aquisição de tráfego"
@@ -118,7 +118,7 @@ dna_sources:
       source: "AIOS Traffic Masters Squad"
 
     - dominio: "executive-leadership"
-      path: "/knowledge/dna/AGGREGATED/AGG-EXECUTIVE-LEADERSHIP.yaml"
+      path: "/knowledge/external/dna/AGGREGATED/AGG-EXECUTIVE-LEADERSHIP.yaml"
       peso: 0.65
       quando_usar: "Liderança executiva, alinhamento C-suite"
       justificativa: "CMO é C-level — precisa frameworks de liderança executiva"
@@ -126,7 +126,7 @@ dna_sources:
       source: "AIOS C-Level Squad"
 
     - dominio: "movement-building"
-      path: "/knowledge/dna/AGGREGATED/AGG-MOVEMENT.yaml"
+      path: "/knowledge/external/dna/AGGREGATED/AGG-MOVEMENT.yaml"
       peso: 0.60
       quando_usar: "Community building, mass movements, brand evangelism"
       justificativa: "CMO lidera construção de comunidade e movimento de marca"
@@ -139,7 +139,7 @@ dna_sources:
 
   primario:
     - pessoa: "alex-hormozi"
-      path: "/knowledge/dna/persons/alex-hormozi"
+      path: "/knowledge/external/dna/persons/alex-hormozi"
       raiz: "/inbox/alex hormozi/"              # RASTREABILIDADE
       dominios_usados:
         - "offers"
@@ -176,7 +176,7 @@ dna_sources:
           source: "ACQ Scale Advisory $18K"
       materiais_fonte:                                                # RASTREABILIDADE COMPLETA
         - titulo: "ACQ Scale Advisory $18K"
-          path_raiz: "/knowledge/sources/alex-hormozi/raw/acq-scale-advisory/"
+          path_raiz: "/knowledge/external/sources/alex-hormozi/raw/acq-scale-advisory/"
           tipo: "masterclass"
           data_processamento: "2026-03-11"
           insights_principais:
@@ -202,8 +202,8 @@ dna_sources:
             - "Time Delay e Effort são denominadores - minimizar"
 
     - pessoa: "jeremy-haynes"
-      path: "/knowledge/dna/persons/jeremy-haynes"
-      raiz: "/knowledge/sources/jeremy-haynes/raw/"                # RASTREABILIDADE
+      path: "/knowledge/external/dna/persons/jeremy-haynes"
+      raiz: "/knowledge/external/sources/jeremy-haynes/raw/"                # RASTREABILIDADE
       dominios_usados:
         - "marketing"
         - "paid_acquisition"
@@ -243,20 +243,20 @@ dna_sources:
         - "*aguardando JH001 no Pipeline Jarvis*"
       materiais_fonte:
         - titulo: "Recurring High Ticket Revenue"
-          path_raiz: "/knowledge/sources/jeremy-haynes/raw/"
+          path_raiz: "/knowledge/external/sources/jeremy-haynes/raw/"
           tipo: "podcast"
           data_processamento: "2025-12-18"
         - titulo: "30-Day Challenge (10 séries)"
-          path_raiz: "/knowledge/sources/jeremy-haynes/raw/30-day-challenge/"
+          path_raiz: "/knowledge/external/sources/jeremy-haynes/raw/30-day-challenge/"
           tipo: "course"
           data_processamento: "2026-03-01"
         - titulo: "Client Accelerator (5 séries)"
-          path_raiz: "/knowledge/sources/jeremy-haynes/raw/client-accelerator/"
+          path_raiz: "/knowledge/external/sources/jeremy-haynes/raw/client-accelerator/"
           tipo: "course"
           data_processamento: "2026-03-03"
 
     - pessoa: "russell-brunson"
-      path: "/knowledge/dna/persons/russell-brunson"
+      path: "/knowledge/external/dna/persons/russell-brunson"
       raiz: "/archive/Two_Comma_Club_Coaching-Russell_Brunson/000._Secrets_Masterclass_($4997)/"
       dominios_usados:
         - "funnels"
@@ -311,8 +311,8 @@ dna_sources:
             - "81% of sales happen after 5th contact"
 
     - pessoa: "dan-kennedy"
-      path: "/knowledge/dna/persons/dan-kennedy"
-      raiz: "/knowledge/sources/dan-kennedy/raw/copywriting-clinic/"
+      path: "/knowledge/external/dna/persons/dan-kennedy"
+      raiz: "/knowledge/external/sources/dan-kennedy/raw/copywriting-clinic/"
       dominios_usados:
         - "direct-response-copywriting"
         - "headline-mastery"
@@ -332,7 +332,7 @@ dna_sources:
         - "MET-DK-028"  # Copy Self-Audit Checklist
       materiais_fonte:
         - titulo: "The Copywriting Clinic (12 transcriptions)"
-          path_raiz: "/knowledge/sources/dan-kennedy/raw/copywriting-clinic/"
+          path_raiz: "/knowledge/external/sources/dan-kennedy/raw/copywriting-clinic/"
           tipo: "masterclass"
           data_processamento: "2026-03-13"
           insights_principais:
@@ -371,7 +371,7 @@ dna_sources:
         - "direct-response-philosophy"
 
     - pessoa: "SAM-OVEN"
-      path: "/knowledge/dna/persons/SAM-OVEN"
+      path: "/knowledge/external/dna/persons/SAM-OVEN"
       raiz: "/inbox/SAM OVENS (SETTERLUN UNIVERSITY)/"            # RASTREABILIDADE
       dominios_usados:
         - "positioning"
@@ -438,7 +438,7 @@ dna_sources:
 # ═══════════════════════════════════════════════════════════════════════════════
 
 conflitos:
-  path: "/knowledge/dna/MAPS/MAP-CONFLITOS.yaml"
+  path: "/knowledge/external/dna/MAPS/MAP-CONFLITOS.yaml"
   descricao: "Mapa de tensões entre fontes com resoluções documentadas"
 
   conflitos_conhecidos:

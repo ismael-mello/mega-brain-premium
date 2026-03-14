@@ -1637,7 +1637,7 @@ DNA Composition conforme definido em SOUL.md ^[SOUL.md:20-25]:
 │   │  → /knowledge/dossiers/THEMES/DOSSIER-{TEMA}.md                     │  │
 │   │                                                                         │  │
 │   │  Para DNA cognitivo original:                                          │  │
-│   │  → /knowledge/dna/persons/{PESSOA}/                                 │  │
+│   │  → /knowledge/external/dna/persons/{PESSOA}/                                 │  │
 │   │                                                                         │  │
 │   │  ┌──────────────────────────────────────────────────────────────────┐  │  │
 │   │  │  ARQUIVOS MAIS RELEVANTES PARA CFO:                             │  │  │
@@ -1774,21 +1774,21 @@ DNA Composition conforme definido em SOUL.md ^[SOUL.md:20-25]:
 
 | Camada | Path | Quando Usar |
 |--------|------|-------------|
-| Filosofias | `/knowledge/dna/persons/alex-hormozi/FILOSOFIAS.yaml` | Princípios de unit economics |
-| Modelos Mentais | `/knowledge/dna/persons/alex-hormozi/MODELOS-MENTAIS.yaml` | Como pensar sobre ROI |
-| Heurísticas | `/knowledge/dna/persons/alex-hormozi/HEURISTICAS.yaml` | Regras SE/ENTÃO financeiras |
-| Frameworks | `/knowledge/dna/persons/alex-hormozi/FRAMEWORKS.yaml` | Esteira de produtos |
-| Metodologias | `/knowledge/dna/persons/alex-hormozi/METODOLOGIAS.yaml` | Processos de scaling |
+| Filosofias | `/knowledge/external/dna/persons/alex-hormozi/FILOSOFIAS.yaml` | Princípios de unit economics |
+| Modelos Mentais | `/knowledge/external/dna/persons/alex-hormozi/MODELOS-MENTAIS.yaml` | Como pensar sobre ROI |
+| Heurísticas | `/knowledge/external/dna/persons/alex-hormozi/HEURISTICAS.yaml` | Regras SE/ENTÃO financeiras |
+| Frameworks | `/knowledge/external/dna/persons/alex-hormozi/FRAMEWORKS.yaml` | Esteira de produtos |
+| Metodologias | `/knowledge/external/dna/persons/alex-hormozi/METODOLOGIAS.yaml` | Processos de scaling |
 
 #### COLE GORDON (CG001-010) - Peso: 75%
 
 | Camada | Path | Quando Usar |
 |--------|------|-------------|
-| Filosofias | `/knowledge/dna/persons/cole-gordon/FILOSOFIAS.yaml` | Princípios de compensação |
-| Modelos Mentais | `/knowledge/dna/persons/cole-gordon/MODELOS-MENTAIS.yaml` | OTE structure |
-| Heurísticas | `/knowledge/dna/persons/cole-gordon/HEURISTICAS.yaml` | Regras de comissão |
-| Frameworks | `/knowledge/dna/persons/cole-gordon/FRAMEWORKS.yaml` | Farm System economics |
-| Metodologias | `/knowledge/dna/persons/cole-gordon/METODOLOGIAS.yaml` | Comp plan design |
+| Filosofias | `/knowledge/external/dna/persons/cole-gordon/FILOSOFIAS.yaml` | Princípios de compensação |
+| Modelos Mentais | `/knowledge/external/dna/persons/cole-gordon/MODELOS-MENTAIS.yaml` | OTE structure |
+| Heurísticas | `/knowledge/external/dna/persons/cole-gordon/HEURISTICAS.yaml` | Regras de comissão |
+| Frameworks | `/knowledge/external/dna/persons/cole-gordon/FRAMEWORKS.yaml` | Farm System economics |
+| Metodologias | `/knowledge/external/dna/persons/cole-gordon/METODOLOGIAS.yaml` | Comp plan design |
 
 
 | Camada | Path | Quando Usar |

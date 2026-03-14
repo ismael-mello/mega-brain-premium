@@ -25,14 +25,14 @@ ultima_atualizacao: "2026-01-10"
 
 dna_agregado:
   - dominio: "vendas"
-    path: "/knowledge/dna/AGGREGATED/AGG-VENDAS.yaml"
+    path: "/knowledge/external/dna/AGGREGATED/AGG-VENDAS.yaml"
     peso: 0.65
     quando_usar: "Métricas de conversão end-to-end, CAC vs LTV, funil completo"
     justificativa: "Paid media precisa entender conversão de vendas para otimizar CAC"
 
   # ─── AIOS Domain DNAs (added 2026-03-12) ───
   - dominio: "traffic"
-    path: "/knowledge/dna/AGGREGATED/AGG-TRAFFIC.yaml"
+    path: "/knowledge/external/dna/AGGREGATED/AGG-TRAFFIC.yaml"
     peso: 0.90
     quando_usar: "Paid media strategy, creative testing, performance marketing, scaling"
     justificativa: "Traffic é o domínio CORE do paid media specialist"
@@ -40,7 +40,7 @@ dna_agregado:
     source: "AIOS Traffic Masters Squad"
 
   - dominio: "copywriting"
-    path: "/knowledge/dna/AGGREGATED/AGG-COPYWRITING.yaml"
+    path: "/knowledge/external/dna/AGGREGATED/AGG-COPYWRITING.yaml"
     peso: 0.80
     quando_usar: "Ad copy, headlines, hooks, landing page copy"
     justificativa: "Paid media depende de copy eficaz para performance de ads"
@@ -48,7 +48,7 @@ dna_agregado:
     source: "AIOS Copy Squad"
 
   - dominio: "data-growth"
-    path: "/knowledge/dna/AGGREGATED/AGG-DATA-GROWTH.yaml"
+    path: "/knowledge/external/dna/AGGREGATED/AGG-DATA-GROWTH.yaml"
     peso: 0.75
     quando_usar: "Analytics de performance, attribution, growth experiments"
     justificativa: "Paid media é data-driven — analytics é fundamental"
@@ -56,7 +56,7 @@ dna_agregado:
     source: "AIOS Data Squad"
 
   - dominio: "brand-strategy"
-    path: "/knowledge/dna/AGGREGATED/AGG-BRAND-STRATEGY.yaml"
+    path: "/knowledge/external/dna/AGGREGATED/AGG-BRAND-STRATEGY.yaml"
     peso: 0.65
     quando_usar: "Brand consistency em ads, posicionamento em criativos"
     justificativa: "Ads precisam alinhar com brand strategy para consistência"
@@ -64,7 +64,7 @@ dna_agregado:
     source: "AIOS Brand Squad"
 
   - dominio: "design"
-    path: "/knowledge/dna/AGGREGATED/AGG-DESIGN.yaml"
+    path: "/knowledge/external/dna/AGGREGATED/AGG-DESIGN.yaml"
     peso: 0.60
     quando_usar: "Design de criativos, landing pages, design systems para ads"
     justificativa: "Paid media depende de design eficaz para performance visual"
@@ -114,7 +114,7 @@ dna_primario:
       - "Show Rate Optimization"
       - "Hammer Strategy"
       - "Follow-Up Architecture"
-    path: "/knowledge/dna/persons/jeremy-haynes"
+    path: "/knowledge/external/dna/persons/jeremy-haynes"
     justificativa: "Principal fonte para paid media e call funnels"
 
   - pessoa: "russell-brunson"
@@ -127,7 +127,7 @@ dna_primario:
       - "Pre-Frame Bridge"
       - "Three Types of Traffic"
       - "Value Ladder Traffic Allocation"
-    path: "/knowledge/dna/persons/russell-brunson"
+    path: "/knowledge/external/dna/persons/russell-brunson"
     justificativa: "Funnel architecture master - Dream 100 traffic strategy, ad copy principles, pre-frame optimization"
     added: "2026-03-01"
     insights_adicionais:
@@ -155,7 +155,7 @@ dna_primario:
       - "Unit Economics"
       - "Volume Metrics"
       - "Lead Gen at Scale"
-    path: "/knowledge/dna/persons/alex-hormozi"
+    path: "/knowledge/external/dna/persons/alex-hormozi"
     justificativa: "Complementa com perspectiva de escala e unit economics"
 
 # ═══════════════════════════════════════════════════════════════════════════════
@@ -165,8 +165,8 @@ dna_primario:
 layers:
   filosofias:
     count: ~250
-    ref_primary: "/knowledge/dna/persons/jeremy-haynes/FILOSOFIAS.yaml"
-    ref_secondary: "/knowledge/dna/persons/alex-hormozi/FILOSOFIAS.yaml"
+    ref_primary: "/knowledge/external/dna/persons/jeremy-haynes/FILOSOFIAS.yaml"
+    ref_secondary: "/knowledge/external/dna/persons/alex-hormozi/FILOSOFIAS.yaml"
     temas_principais:
       - "Paid Media is Math, Not Art"
       - "Testing Volume Wins"
@@ -176,7 +176,7 @@ layers:
 
   modelos_mentais:
     count: ~170
-    ref_primary: "/knowledge/dna/persons/jeremy-haynes/MODELOS-MENTAIS.yaml"
+    ref_primary: "/knowledge/external/dna/persons/jeremy-haynes/MODELOS-MENTAIS.yaml"
     destaques:
       - "Interest Spectrum"
       - "Time Collapsing"
@@ -186,7 +186,7 @@ layers:
 
   heuristicas:
     count: ~650
-    ref_primary: "/knowledge/dna/persons/jeremy-haynes/HEURISTICAS.yaml"
+    ref_primary: "/knowledge/external/dna/persons/jeremy-haynes/HEURISTICAS.yaml"
     metricas_chave:
       - nome: "DSL engagement"
         valor: 77
@@ -203,7 +203,7 @@ layers:
 
   frameworks:
     count: ~310
-    ref_primary: "/knowledge/dna/persons/jeremy-haynes/FRAMEWORKS.yaml"
+    ref_primary: "/knowledge/external/dna/persons/jeremy-haynes/FRAMEWORKS.yaml"
     principais:
       - "Hydra Strategy"
       - "Venus Fly Trap 1.0 & 2.0"
@@ -216,7 +216,7 @@ layers:
 
   metodologias:
     count: ~220
-    ref_primary: "/knowledge/dna/persons/jeremy-haynes/METODOLOGIAS.yaml"
+    ref_primary: "/knowledge/external/dna/persons/jeremy-haynes/METODOLOGIAS.yaml"
     processos_chave:
       - "Call Funnel Setup"
       - "Creative Testing Protocol"

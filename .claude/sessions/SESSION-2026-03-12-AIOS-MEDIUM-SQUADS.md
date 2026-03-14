@@ -21,11 +21,11 @@ Usuário retomou sessão anterior (SESSION-2026-03-11-AIOS-HIGH-SQUADS) em yolo 
 9. **MEMORY.md atualizado** — Squads status: all done, 11 AGGs
 
 ## ARQUIVOS CRIADOS/MODIFICADOS
-- knowledge/dna/aggregated/AGG-DESIGN.yaml — NOVO (180 elem)
-- knowledge/dna/aggregated/AGG-MOVEMENT.yaml — NOVO (203 elem)
-- knowledge/dna/DOMAINS-TAXONOMY.yaml — +2 domínios
-- knowledge/sources/aios-squads/08-DESIGN-SQUAD.md — NOVO
-- knowledge/sources/aios-squads/09-MOVEMENT-SQUAD.md — NOVO
+- knowledge/external/dna/aggregated/AGG-DESIGN.yaml — NOVO (180 elem)
+- knowledge/external/dna/aggregated/AGG-MOVEMENT.yaml — NOVO (203 elem)
+- knowledge/external/dna/DOMAINS-TAXONOMY.yaml — +2 domínios
+- knowledge/external/sources/aios-squads/08-DESIGN-SQUAD.md — NOVO
+- knowledge/external/sources/aios-squads/09-MOVEMENT-SQUAD.md — NOVO
 
 ## TOTAIS DO SISTEMA
 - AGGs: 11 (vendas, offers, outbound, copywriting, brand-strategy, storytelling, traffic, executive-leadership, data-growth, design, movement-building)
@@ -50,7 +50,7 @@ Usuário retomou sessão anterior (SESSION-2026-03-11-AIOS-HIGH-SQUADS) em yolo 
 
 ## NOTAS IMPORTANTES
 - AIOS Squads 100% processados — todos HIGH e MEDIUM concluídos
-- knowledge/dna/ é gitignored — precisa `git add -f` para commitar
+- knowledge/external/dna/ é gitignored — precisa `git add -f` para commitar
 - 4 commits unpushed: fa2e885, 11bf524, 67a425a, 87bd5b7
 
 ---

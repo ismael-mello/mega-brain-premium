@@ -1,6 +1,6 @@
 # DOSSIÊ: Cole Gordon (Closers.io)
 
-[[HOME|← Home]] | [[MOC-PESSOAS|👤 Pessoas]] | [[MOC-TEMAS|📚 Temas]] | [[knowledge/dna/persons/cole-gordon/CONFIG|⚙️ DNA Config]]
+[[HOME|← Home]] | [[MOC-PESSOAS|👤 Pessoas]] | [[MOC-TEMAS|📚 Temas]] | [[knowledge/external/dna/persons/cole-gordon/CONFIG|⚙️ DNA Config]]
 
 > **Em resumo:** Filosofia supera tática. 7 Beliefs instaladas antes do pitch eliminam objeções. Internal pressure > external pressure. Discovery é onde Trust é construída, não no rapport. 6-Phase Call Flow com 4 Pillars Pitch.
 >

@@ -21,14 +21,14 @@ nivel: "SALES"
 
 dna_agregado:
   - dominio: "vendas"
-    path: "/knowledge/dna/AGGREGATED/AGG-VENDAS.yaml"
+    path: "/knowledge/external/dna/AGGREGATED/AGG-VENDAS.yaml"
     peso: 0.70
     quando_usar: "Métricas de vendas, funil, conversão"
     justificativa: "Coordinator precisa entender métricas do time que coordena"
 
   # ─── AIOS Domain DNAs (added 2026-03-12) ───
   - dominio: "data-growth"
-    path: "/knowledge/dna/AGGREGATED/AGG-DATA-GROWTH.yaml"
+    path: "/knowledge/external/dna/AGGREGATED/AGG-DATA-GROWTH.yaml"
     peso: 0.60
     quando_usar: "Sales analytics, CRM dashboards, pipeline metrics"
     justificativa: "Coordinator gerencia dados de vendas — analytics melhora operações"
@@ -48,7 +48,7 @@ dna_primario:
       - "Lead Attribution"
       - "CRM Management"
       - "Sales Management Progression"
-    path: "/knowledge/dna/persons/cole-gordon"
+    path: "/knowledge/external/dna/persons/cole-gordon"
     justificativa: "Principal fonte para estrutura de operacoes de vendas"
 
 # ═══════════════════════════════════════════════════════════════════

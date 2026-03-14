@@ -907,20 +907,20 @@ LAYER 5: Social Proof ($5/day) - 10+ comments target
 ## BATCH INSIGHTS — Client Accelerators / 30DC (2026-03-03)
 
 **Fonte:** CA-0009 a CA-0016 (Mike Buontempo) + JH 30DC
-**Cascateamento:** knowledge/sources/client-accelerator/ + knowledge/sources/30-day-challenge/
+**Cascateamento:** knowledge/external/sources/client-accelerator/ + knowledge/external/sources/30-day-challenge/
 
 ### Novos Insights de Creative Strategy (CA):
 
 | ID | Insight | Métrica | chunk_id | PATH_RAIZ |
 |----|---------|---------|----------|-----------|
-| CMO-CA-001 | 20 ad creatives documentados com performance real | Top CTR: 6.52% (Testimonial Avalanche) | *pendente* | knowledge/sources/client-accelerator/02-LAUNCH-PLANS-AND-AD-STRATEGY.md |
-| CMO-CA-002 | Budget allocation: 60% control, 30% data-driven, 10% innovation | Regra de alocação | *pendente* | knowledge/sources/client-accelerator/02-LAUNCH-PLANS-AND-AD-STRATEGY.md |
-| CMO-CA-003 | 7 padrões universais de alto desempenho em ads | Social Proof, B/A, Authority Borrowing, Math Specificity, Time, Lifestyle, Curiosity | *pendente* | knowledge/sources/client-accelerator/02-LAUNCH-PLANS-AND-AD-STRATEGY.md |
-| CMO-CA-004 | Thumbnail Psychology 3C Framework: Clarity, Contrast, Curiosity | Clareza em < 0.5s | *pendente* | knowledge/sources/client-accelerator/03-THUMBNAIL-PSYCHOLOGY.md |
-| CMO-CA-005 | Thumbnail: 70% das views são mobile — legibilidade é crítica | Flash Test 1s | *pendente* | knowledge/sources/client-accelerator/03-THUMBNAIL-PSYCHOLOGY.md |
-| CMO-CA-006 | Neighbor Effect: pesquisar top 10 thumbnails do tópico e fazer diferente | Diferenciação radical | *pendente* | knowledge/sources/client-accelerator/03-THUMBNAIL-PSYCHOLOGY.md |
-| CMO-CA-007 | Após 5-10 vídeos com padrão consistente: Instant Click Phenomenon | Branding visual = reconhecimento antes do título | *pendente* | knowledge/sources/client-accelerator/03-THUMBNAIL-PSYCHOLOGY.md |
-| CMO-CA-008 | Senior Media Buyer KPIs: 85% metas ROAS, <8% churn, 25% creative win rate | Benchmark de contratação | *pendente* | knowledge/sources/client-accelerator/02-LAUNCH-PLANS-AND-AD-STRATEGY.md |
+| CMO-CA-001 | 20 ad creatives documentados com performance real | Top CTR: 6.52% (Testimonial Avalanche) | *pendente* | knowledge/external/sources/client-accelerator/02-LAUNCH-PLANS-AND-AD-STRATEGY.md |
+| CMO-CA-002 | Budget allocation: 60% control, 30% data-driven, 10% innovation | Regra de alocação | *pendente* | knowledge/external/sources/client-accelerator/02-LAUNCH-PLANS-AND-AD-STRATEGY.md |
+| CMO-CA-003 | 7 padrões universais de alto desempenho em ads | Social Proof, B/A, Authority Borrowing, Math Specificity, Time, Lifestyle, Curiosity | *pendente* | knowledge/external/sources/client-accelerator/02-LAUNCH-PLANS-AND-AD-STRATEGY.md |
+| CMO-CA-004 | Thumbnail Psychology 3C Framework: Clarity, Contrast, Curiosity | Clareza em < 0.5s | *pendente* | knowledge/external/sources/client-accelerator/03-THUMBNAIL-PSYCHOLOGY.md |
+| CMO-CA-005 | Thumbnail: 70% das views são mobile — legibilidade é crítica | Flash Test 1s | *pendente* | knowledge/external/sources/client-accelerator/03-THUMBNAIL-PSYCHOLOGY.md |
+| CMO-CA-006 | Neighbor Effect: pesquisar top 10 thumbnails do tópico e fazer diferente | Diferenciação radical | *pendente* | knowledge/external/sources/client-accelerator/03-THUMBNAIL-PSYCHOLOGY.md |
+| CMO-CA-007 | Após 5-10 vídeos com padrão consistente: Instant Click Phenomenon | Branding visual = reconhecimento antes do título | *pendente* | knowledge/external/sources/client-accelerator/03-THUMBNAIL-PSYCHOLOGY.md |
+| CMO-CA-008 | Senior Media Buyer KPIs: 85% metas ROAS, <8% churn, 25% creative win rate | Benchmark de contratação | *pendente* | knowledge/external/sources/client-accelerator/02-LAUNCH-PLANS-AND-AD-STRATEGY.md |
 
 ### Padrões Decisórios Adicionados:
 

@@ -1,0 +1,483 @@
+# AGG-GESTAO-FINANCEIRA.yaml
+# DNA Agregado - Domínio: GESTÃO FINANCEIRA EMPRESARIAL
+# Consolidação de elementos de gestão financeira, DRE, fluxo de caixa,
+# indicadores, orçamento, endividamento e precificação
+#
+# Versão: 1.0.0
+# Criado: 2026-03-11
+# Tipo: AGGREGATED DNA (single-source: Capital Upgrade)
+# Fonte: knowledge/external/dna/persons/capital-upgrade/DNA.yaml
+# Weight: 0.85 (primary - CFO), 0.40 (secondary - COO)
+#
+# ═══════════════════════════════════════════════════════════════════════════════
+# FONTES CONSOLIDADAS
+# ═══════════════════════════════════════════════════════════════════════════════
+
+dominio: "gestao-financeira"
+versao: "1.0.0"
+data_criacao: "2026-03-11"
+ultima_atualizacao: "2026-03-11"
+total_elementos: 257
+peso_global: 0.85
+
+fontes_consolidadas:
+  - fonte: "capital-upgrade"
+    path: "knowledge/external/dna/persons/capital-upgrade/DNA.yaml"
+    raw_path: "knowledge/external/sources/capital-upgrade/raw/"
+    peso_dominio: 0.85
+    elementos_contribuidos: 257
+    especialidade: "Gestão financeira empresarial, DRE, fluxo de caixa, indicadores, orçamento, endividamento, precificação"
+    tipo_fonte: "PRIMARY (Paulo Vito Porto / PWR Gestão — FLGF Turma 07)"
+    modulos: ["M00", "M01", "M02", "M03", "M04", "M05", "M06", "M07", "M08", "M09", "M10", "Bonus"]
+
+# ═══════════════════════════════════════════════════════════════════════════════
+# EXPERTS (instrutor principal)
+# ═══════════════════════════════════════════════════════════════════════════════
+
+experts:
+  - nome: "Paulo Vito Porto"
+    organizacao: "PWR Gestão"
+    programa: "FLGF — Formação de Líderes e Gestores Financeiros"
+    especialidade: "Gestão financeira prática para PMEs brasileiras"
+    key_frameworks:
+      - "ARM — Análise de Resultado Mensal"
+      - "GMD — Gestão Matricial de Despesas"
+      - "OBZ — Orçamento Base Zero"
+      - "Painel de Dívidas"
+      - "Diagnóstico G5"
+      - "Classificação R1/R2/R3 de indicadores"
+
+# ═══════════════════════════════════════════════════════════════════════════════
+# TEMAS COBERTOS (por módulo)
+# ═══════════════════════════════════════════════════════════════════════════════
+
+temas_cobertos:
+  - tema: "Fundamentos e Diagnóstico"
+    modulos: ["M00", "M01", "M02", "M03"]
+    descricao: "Conceitos base, nivelamento, diagnóstico financeiro"
+
+  - tema: "DRE e Análise de Resultados"
+    modulos: ["M04", "M07"]
+    descricao: "Demonstração de Resultado do Exercício, AV, AH, ARM, gestão de CMV"
+
+  - tema: "Indicadores Financeiros"
+    modulos: ["M05"]
+    descricao: "42 indicadores em 4 grupos, classificação R1/R2/R3, fatores críticos de sucesso"
+
+  - tema: "Gestão de Caixa e Inadimplência"
+    modulos: ["M06"]
+    descricao: "Fluxo de caixa, conciliação bancária, gestão de pagamentos, inadimplência, aging report"
+
+  - tema: "Endividamento e Alavancagem"
+    modulos: ["M08"]
+    descricao: "Análise de dívidas, CET, SAC vs PRICE, grau de alavancagem, impacto macro (Selic/IPCA)"
+
+  - tema: "Orçamento Empresarial"
+    modulos: ["M09"]
+    descricao: "Tipos de orçamento, OBZ, montagem orçamentária, acompanhamento, GMD, variância"
+
+  - tema: "Consolidação e Visão Integrada"
+    modulos: ["M10"]
+    descricao: "DRE + Balanço + Fluxo de Caixa como tripé indissociável"
+
+  - tema: "Precificação e Pro-labore"
+    modulos: ["Bonus"]
+    descricao: "Formação de preço, ponto de equilíbrio, margem de contribuição, pro-labore"
+
+# ═══════════════════════════════════════════════════════════════════════════════
+# L1 — FILOSOFIAS CHAVE (seleção dos mais universais)
+# ═══════════════════════════════════════════════════════════════════════════════
+
+L1_PHILOSOPHIES:
+  - id: PHI-CU-005
+    text: "Caixa não é lucro — empresas lucrativas quebram por falta de caixa, empresas com caixa podem estar quebrando operacionalmente"
+    source: "M00/transcription_Conceitos_Nivelamento_e_Diagnostico.txt"
+
+  - id: PHI-CU-101
+    text: "Competência e caixa são dois mundos diferentes — um mostra o fato gerador, outro mostra o dinheiro. Confundir os dois é o erro mais comum."
+    source: "M04/transcription_DRE_Estrutura.txt"
+
+  - id: PHI-CU-102
+    text: "Custo está ligado à atividade fim do negócio, despesa está ligado à estrutura. Separar isso é fundamental pra entender margem."
+    source: "M04/transcription_Custos_e_Despesas.txt"
+
+  - id: PHI-CU-103
+    text: "O EBITDA é o grande equalizador — tira juros, impostos, depreciação e amortização pra mostrar a geração de caixa operacional pura."
+    source: "M04/transcription_EBITDA.txt"
+
+  - id: PHI-CU-104
+    text: "Indicador que não serve pra estratégia, pra tomada de decisão ou pra medir performance da operação, não serve pra nada."
+    source: "M05/transcription_Indicadores_Parte_1.txt"
+
+  - id: PHI-CU-106
+    text: "BI sem ação é decoração. Não adianta ter dashboard lindo se ninguém toma decisão com base naquilo."
+    source: "M05/transcription_Indicadores_Parte_1.txt"
+
+  - id: PHI-CU-108
+    text: "Dinheiro, energia e tempo são recursos escassos. Gestão financeira é escolher onde alocar esses três."
+    source: "M05/transcription_Indicadores_Parte_1.txt"
+
+  - id: PHI-CU-109
+    text: "Prevenir inadimplência é mais barato e mais eficaz do que cobrar. A régua de cobrança começa antes do vencimento."
+    source: "M06/transcription_Gestao_Financeira_Follow_up.txt"
+
+  - id: PHI-CU-110
+    text: "Conciliação bancária diária é inegociável. Passar de um dia já abre brecha pra problemas."
+    source: "M06/transcription_Gestao_Financeira_Follow_up.txt"
+
+  - id: PHI-CU-115
+    text: "Confia na tua opinião mas traz dado. Opinião sem dado é achismo, dado sem opinião é planilha morta."
+    source: "M05/transcription_Indicadores_Parte_2.txt"
+
+  - id: PHI-CU-116
+    text: "Trazer ritmo importa mais do que trazer conhecimento. Com ritmo você acaba trazendo conhecimento."
+    source: "M07/transcription_A_importancia_da_ARM_Analise_de_Resultado_Mensal.txt"
+
+  - id: PHI-CU-200
+    text: "Dívida não é problema — dívida mal gerenciada é problema. Empréstimo é ferramenta estratégica de crescimento quando bem utilizado."
+    source: "M08/transcription_Por_que_captar_emprestimos.txt"
+
+  - id: PHI-CU-203
+    text: "O custo efetivo total (CET) é a única métrica honesta para comparar empréstimos — taxa nominal engana."
+    source: "M08/transcription_Como_escolher_um_emprestimo.txt"
+
+  - id: PHI-CU-204
+    text: "Orçamento não é burocracia — é a bússola que impede a empresa de navegar no escuro."
+    source: "M09/transcription_Tipos_de_orcamentos.txt"
+
+  - id: PHI-CU-205
+    text: "Orçamento Base Zero (OBZ) é o antídoto contra o piloto automático financeiro — cada centavo precisa justificar sua existência."
+    source: "M09/transcription_Tipos_de_orcamentos.txt"
+
+  - id: PHI-CU-207
+    text: "Gestão financeira é o alicerce de qualquer negócio — sem ela, crescimento é construir em areia movediça."
+    source: "M10/transcription_Consolidado_Geral_FLGF.txt"
+
+  - id: PHI-CU-208
+    text: "Pro-labore não é lucro — misturar remuneração do sócio com resultado da empresa é o erro mais comum e mais fatal."
+    source: "Bonus/transcription_Masterclass_Como_Definir_o_seu_Pr_-labore.txt"
+
+  - id: PHI-CU-210
+    text: "Margem de contribuição é o número mais importante que um empresário precisa conhecer — é o que realmente sobra para pagar a estrutura."
+    source: "Bonus/transcription_Masterclass_Como_Definir_o_seu_Pr_-labore.txt"
+
+  - id: PHI-CU-213
+    text: "Liquidez é mais importante que lucratividade no curto prazo — empresa lucrativa sem caixa fecha as portas."
+    source: "M10/transcription_Consolidado_Geral_FLGF.txt"
+
+# ═══════════════════════════════════════════════════════════════════════════════
+# L2 — MODELOS MENTAIS CHAVE
+# ═══════════════════════════════════════════════════════════════════════════════
+
+L2_MENTAL_MODELS:
+  - id: MM-CU-100
+    text: "A DRE é um funil — receita bruta no topo, deduções, custo, despesas operacionais, resultado financeiro, impostos, até chegar no lucro líquido lá embaixo."
+    source: "M04/transcription_DRE_Estrutura.txt"
+
+  - id: MM-CU-101
+    text: "Dois regimes, duas lentes — competência mostra quando aconteceu o fato gerador, caixa mostra quando o dinheiro movimentou. DRE usa competência, fluxo de caixa usa caixa."
+    source: "M04/transcription_DRE_Estrutura.txt"
+
+  - id: MM-CU-103
+    text: "Análise vertical é o raio-X de um momento — mostra a representatividade percentual de cada linha sobre a receita líquida."
+    source: "M04/transcription_DRE_Estrutura.txt"
+
+  - id: MM-CU-104
+    text: "Análise horizontal é o filme — mostra a evolução de cada linha ao longo do tempo, comparando períodos."
+    source: "M04/transcription_DRE_Estrutura.txt"
+
+  - id: MM-CU-105
+    text: "EBITDA equaliza empresas de portes, setores e países diferentes porque remove as distorções de juros, impostos, depreciação e amortização."
+    source: "M04/transcription_EBITDA.txt"
+
+  - id: MM-CU-107
+    text: "Indicador serve pra três coisas: tomar decisão, acompanhar se planos saem do papel, ou medir performance da operação. Se não faz nenhuma das três, descarta."
+    source: "M05/transcription_Indicadores_Parte_1.txt"
+
+  - id: MM-CU-108
+    text: "Classificação R1 R2 R3: R1 são indicadores cruciais que você monitora semanalmente, R2 são importantes mas mensais, R3 são complementares e trimestrais."
+    source: "M05/transcription_Indicadores_Parte_1.txt"
+
+  - id: MM-CU-110
+    text: "Analogia do carro — o indicador é o painel do carro. Você pode dirigir sem painel, mas não sabe a velocidade, o combustível, nem a temperatura. Vai descobrir o problema quando quebrar."
+    source: "M05/transcription_Indicadores_Parte_1.txt"
+
+  - id: MM-CU-112
+    text: "Inadimplência tem envelhecimento — curtíssimo prazo (1-30 dias), curto prazo (30-60), médio prazo (60-90), longo prazo (90+). Cada faixa tem tratamento diferente."
+    source: "M06/transcription_Gestao_Financeira_Follow_up.txt"
+
+  - id: MM-CU-115
+    text: "Progressão de gestão: disciplina vira hábito, hábito vira cultura, cultura permite gestão de resultado. Sem disciplina inicial não há hábito, sem hábito não há cultura."
+    source: "M07/transcription_Gestao_de_Resultados.txt"
+
+  - id: MM-CU-117
+    text: "Efeito espantalho — às vezes você não precisa descobrir a fraude, só precisa espalhar a notícia de que está olhando. O número melhora sozinho."
+    source: "M07/transcription_Gestao_de_Resultados.txt"
+
+  - id: MM-CU-118
+    text: "ARM vai do macro pro micro — primeiro a foto dos indicadores, depois a DRE detalhada, depois as curvas mensais. Cada nível revela o que o anterior escondeu."
+    source: "M07/transcription_Gestao_de_Resultados.txt"
+
+  - id: MM-CU-200
+    text: "Modelo de Alavancagem Consciente: empréstimo só faz sentido quando o retorno projetado supera o custo total do capital captado (ROI > CET)."
+    source: "M08/transcription_Grau_de_alavancagem.txt"
+
+  - id: MM-CU-201
+    text: "Modelo CET vs Taxa Nominal: nunca compare empréstimos pela taxa de juros anunciada — compare sempre pelo Custo Efetivo Total que inclui IOF, TAC e seguros."
+    source: "M08/transcription_Como_escolher_um_emprestimo.txt"
+
+  - id: MM-CU-203
+    text: "Modelo SAC vs PRICE: SAC = parcelas decrescentes com mais amortização no início; PRICE = parcelas fixas com mais juros no início. Escolha depende do fluxo de caixa."
+    source: "M08/transcription_Ferramenta_Pratica.txt"
+
+  - id: MM-CU-206
+    text: "Modelo de Variância Orçamentária: analisar desvio não é buscar culpados — é entender causas estruturais vs pontuais para calibrar o próximo ciclo."
+    source: "M09/transcription_Acompanhamento_de_Orcamentos.txt"
+
+  - id: MM-CU-208
+    text: "Modelo de Precificação por Margem de Contribuição: preço = custos variáveis + margem de contribuição desejada. Nunca precificar apenas por markup sobre custo."
+    source: "Bonus/transcription_Masterclass_Como_Definir_o_seu_Pr_-labore.txt"
+
+  - id: MM-CU-212
+    text: "Modelo de Consolidação Financeira: DRE + Balanço + Fluxo de Caixa formam tripé indissociável — analisar um sem os outros é ver foto recortada."
+    source: "M10/transcription_Consolidado_Geral_FLGF.txt"
+
+# ═══════════════════════════════════════════════════════════════════════════════
+# L3 — HEURÍSTICAS NUMÉRICAS CHAVE (prioritárias por terem thresholds)
+# ═══════════════════════════════════════════════════════════════════════════════
+
+L3_HEURISTICS:
+  - id: HEUR-CU-103
+    text: "EBITDA = lucro operacional + depreciação + amortização. Não inclui juros nem impostos sobre renda."
+    source: "M04/transcription_EBITDA.txt"
+
+  - id: HEUR-CU-105
+    text: "Análise vertical: cada linha da DRE dividida pela receita líquida x 100. Mostra o percentual de representatividade."
+    source: "M04/transcription_DRE_Estrutura.txt"
+
+  - id: HEUR-CU-106
+    text: "Análise horizontal: banana com banana — comparar janeiro-março deste ano com janeiro-março do ano passado, não com o ano inteiro."
+    source: "M07/transcription_Gestao_de_Resultados.txt"
+
+  - id: HEUR-CU-108
+    text: "Margem bruta = lucro bruto / receita líquida. Indica eficiência operacional pura da atividade fim."
+    source: "M05/apostila_Indicadores_Financeiros_5_Grupos_parte_1.pdf"
+
+  - id: HEUR-CU-117
+    text: "Conciliação bancária deve ser feita diariamente. Se passar de um dia, já começa a abrir brechas para problemas."
+    source: "M06/transcription_Gestao_Financeira_Follow_up.txt"
+
+  - id: HEUR-CU-120
+    text: "Alinhar dias de pagamento com dias de recebimento. Se recebe mais na primeira quinzena, paga na segunda."
+    source: "M06/transcription_Gestao_Financeira_Follow_up.txt"
+
+  - id: HEUR-CU-122
+    text: "Inadimplência de curtíssimo prazo (1-30 dias) geralmente é problema de processo, não de cliente. Buscar as causas antes de cobrar."
+    source: "M06/transcription_Gestao_Financeira_Follow_up.txt"
+
+  - id: HEUR-CU-124
+    text: "Na ARM, comparar acumulado com acumulado — se passou 3 meses esse ano, comparo com 3 meses do ano passado. Banana com banana."
+    source: "M07/transcription_Gestao_de_Resultados.txt"
+
+  - id: HEUR-CU-128
+    text: "ARM mensal é o mínimo. De tanto repetir os mesmos indicadores todo mês, você não esquece mais. Não é teste de memória, é consistência."
+    source: "M07/transcription_A_importancia_da_ARM_Analise_de_Resultado_Mensal.txt"
+
+  - id: HEUR-CU-200
+    text: "Sempre compare empréstimos pelo CET (Custo Efetivo Total), nunca pela taxa nominal — a diferença pode chegar a 40% do custo real."
+    source: "M08/transcription_Como_escolher_um_emprestimo.txt"
+
+  - id: HEUR-CU-201
+    text: "Comprometimento máximo de fluxo de caixa com dívida: 30% da geração de caixa operacional. Acima disso, risco de insolvência."
+    source: "M08/transcription_Grau_de_alavancagem.txt"
+
+  - id: HEUR-CU-203
+    text: "Índice de endividamento geral acima de 70% (Passivo Total / Ativo Total) é sinal de alerta — empresa está excessivamente alavancada."
+    source: "M08/Apostila-Turma-07-FLGF-Modulo-8-Analise-de-Dividas.txt"
+
+  - id: HEUR-CU-204
+    text: "Antes de captar empréstimo, verificar 3 condições: (1) ROI projetado > CET, (2) fluxo de caixa suporta parcelas, (3) existe garantia adequada."
+    source: "M08/transcription_Por_que_captar_emprestimos.txt"
+
+  - id: HEUR-CU-207
+    text: "Orçamento Base Zero (OBZ) deve ser usado pelo menos 1x a cada 3 anos para eliminar gastos zumbis que se perpetuam por inércia."
+    source: "M09/transcription_Tipos_de_orcamentos.txt"
+
+  - id: HEUR-CU-208
+    text: "Variância orçamentária acima de 10% em qualquer centro de custo exige investigação formal e plano de ação corretivo."
+    source: "M09/transcription_Acompanhamento_de_Orcamentos.txt"
+
+  - id: HEUR-CU-210
+    text: "Orçamento deve ser montado com pelo menos 3 cenários: otimista, realista e pessimista — decidir pelo realista, planejar pelo pessimista."
+    source: "M09/transcription_Montagem_de_orcamentos.txt"
+
+  - id: HEUR-CU-212
+    text: "Pro-labore ideal: entre 25% e 40% do lucro líquido da empresa. Acima disso, compromete reinvestimento e capital de giro."
+    source: "Bonus/transcription_Masterclass_Como_Definir_o_seu_Pr_-labore.txt"
+
+  - id: HEUR-CU-213
+    text: "Ponto de equilíbrio deve ser calculado por produto/serviço, não pela empresa como um todo — média esconde produtos deficitários."
+    source: "Bonus/transcription_Masterclass_Como_Definir_o_seu_Pr_-labore.txt"
+
+  - id: HEUR-CU-214
+    text: "Margem de contribuição mínima saudável: 40% para serviços, 25% para produtos físicos. Abaixo disso, volume precisa ser altíssimo."
+    source: "Bonus/transcription_Masterclass_Como_Definir_o_seu_Pr_-labore.txt"
+
+  - id: HEUR-CU-216
+    text: "Índice de cobertura de juros (EBITDA/Despesas Financeiras) deve ser no mínimo 2x — abaixo disso, empresa não gera caixa suficiente para servir a dívida."
+    source: "M08/Apostila-Turma-07-FLGF-Modulo-8-Analise-de-Dividas.txt"
+
+# ═══════════════════════════════════════════════════════════════════════════════
+# L4 — FRAMEWORKS CHAVE
+# ═══════════════════════════════════════════════════════════════════════════════
+
+L4_FRAMEWORKS:
+  - id: FW-CU-100
+    text: "Estrutura da DRE em 10 níveis: receita bruta, deduções, receita líquida, custos (CMV/CPV/CSP), lucro bruto, despesas operacionais (SGA), lucro operacional, resultado financeiro, IR/CSLL, lucro líquido."
+    source: "M04/transcription_DRE_Estrutura.txt"
+
+  - id: FW-CU-101
+    text: "Framework de análise dupla: toda DRE deve ter análise vertical (representatividade percentual) E análise horizontal (evolução temporal) simultaneamente."
+    source: "M04/transcription_DRE_Estrutura.txt"
+
+  - id: FW-CU-105
+    text: "42 indicadores financeiros organizados em 4 grupos: indicadores de resultado econômico, indicadores de fluxo de caixa, indicadores de estrutura patrimonial, indicadores de atividade operacional."
+    source: "M05/apostila_Indicadores_Financeiros_5_Grupos_parte_1.pdf"
+
+  - id: FW-CU-106
+    text: "Classificação R1-R2-R3 de indicadores: R1 cruciais (monitoramento semanal com asterisco), R2 importantes (monitoramento mensal), R3 complementares (monitoramento trimestral). Cada negócio define seus R1."
+    source: "M05/transcription_Indicadores_Parte_1.txt"
+
+  - id: FW-CU-110
+    text: "Gestão de inadimplência: prevenção (régua de crédito, análise pré-venda), detecção (aging report, envelhecimento), ação (cobrança por faixa de atraso), provisão (PCLD na DRE)."
+    source: "M06/transcription_Gestao_Financeira_Follow_up.txt"
+
+  - id: FW-CU-111
+    text: "Rotina de pagamentos: definir dias fixos de pagamento, alinhar com fluxo de recebimento, consolidar em menos dias possíveis, toda exceção gera biópsia do processo."
+    source: "M06/transcription_Gestao_Financeira_Follow_up.txt"
+
+  - id: FW-CU-114
+    text: "ARM Forma 1: slide com indicadores macro do ano, DRE comparativa acumulado este ano vs acumulado ano passado, com AV e AH. Visão foto."
+    source: "M07/transcription_Gestao_de_Resultados.txt"
+
+  - id: FW-CU-115
+    text: "ARM Forma 2: mesma DRE quebrada em trimestres ou meses. Comparar trimestre com trimestre, mês com mês. Perspectivas diferentes do mesmo número."
+    source: "M07/transcription_Gestao_de_Resultados.txt"
+
+  - id: FW-CU-116
+    text: "Escada da gestão: disciplina (decisão momentânea) gera hábito (se torna natural) gera cultura (coletivo adota) gera gestão de resultado (sustentável)."
+    source: "M07/transcription_Gestao_de_Resultados.txt"
+
+  - id: FW-CU-200
+    text: "Framework de Análise de Empréstimos: (1) Calcular CET real, (2) Comparar CET vs ROI projetado, (3) Simular impacto no fluxo de caixa, (4) Verificar garantias disponíveis, (5) Analisar cenário macro (Selic/IPCA), (6) Decidir tipo de amortização (SAC/PRICE)."
+    source: "M08/transcription_Como_escolher_um_emprestimo.txt"
+
+  - id: FW-CU-201
+    text: "Framework de Painel de Dívidas: Consolidar todas as dívidas em painel único com: credor, saldo devedor, taxa efetiva, CET, parcela mensal, prazo restante, tipo (SAC/PRICE), garantia. Atualizar mensalmente."
+    source: "M08/transcription_Ferramenta_Pratica.txt"
+
+  - id: FW-CU-202
+    text: "Framework de Grau de Alavancagem: Calcular (1) Endividamento Geral = Passivo/Ativo, (2) Composição do Endividamento = PC/PassivoTotal, (3) Cobertura de Juros = EBITDA/DespFinanceiras. Monitorar mensalmente."
+    source: "M08/transcription_Grau_de_alavancagem.txt"
+
+  - id: FW-CU-203
+    text: "Framework OBZ (Orçamento Base Zero): (1) Zerar todos os gastos, (2) Cada gestor justifica cada real do zero, (3) Priorizar por impacto no resultado, (4) Eliminar gastos sem justificativa clara, (5) Aprovar novo orçamento bottom-up."
+    source: "M09/transcription_Tipos_de_orcamentos.txt"
+
+  - id: FW-CU-204
+    text: "Framework de Montagem Orçamentária: (1) Definir premissas macro (inflação, câmbio, Selic), (2) Projetar receita por canal/produto, (3) Orçamentar custos variáveis como percentual da receita, (4) Orçamentar custos fixos com justificativa, (5) Consolidar DRE projetado, (6) Projetar fluxo de caixa."
+    source: "M09/transcription_Montagem_de_orcamentos.txt"
+
+  - id: FW-CU-205
+    text: "Framework GMD (Gestão Matricial de Despesas): Cruzar eixo vertical (pacotes de gastos: pessoal, marketing, TI) com eixo horizontal (entidades: departamentos, filiais). Cada célula tem dono e meta. Desvio exige justificativa cruzada."
+    source: "M09/transcription_Acompanhamento_de_Orcamentos.txt"
+
+  - id: FW-CU-208
+    text: "Framework de Ponto de Equilíbrio: (1) Listar todos os custos fixos mensais, (2) Calcular margem de contribuição unitária (preço - custos variáveis), (3) PE = Custos Fixos / Margem de Contribuição Unitária, (4) Validar se volume de PE é alcançável, (5) Calcular por produto/serviço individualmente."
+    source: "Bonus/transcription_Masterclass_Como_Definir_o_seu_Pr_-labore.txt"
+
+  - id: FW-CU-210
+    text: "Framework de Consolidação Financeira FLGF: (1) DRE - entender lucratividade, (2) Balanço - entender posição patrimonial, (3) Fluxo de Caixa - entender liquidez, (4) Indicadores - conectar os três demonstrativos, (5) Análise de Endividamento, (6) Orçamento, (7) Ponto de Equilíbrio como indicador de segurança."
+    source: "M10/transcription_Consolidado_Geral_FLGF.txt"
+
+# ═══════════════════════════════════════════════════════════════════════════════
+# L5 — METODOLOGIAS CHAVE
+# ═══════════════════════════════════════════════════════════════════════════════
+
+L5_METHODOLOGIES:
+  - id: MET-CU-100
+    text: "Montagem da DRE passo a passo: 1) definir plano de contas, 2) classificar cada gasto como custo ou despesa, 3) alocar por competência, 4) calcular lucro bruto, operacional e líquido, 5) aplicar AV e AH."
+    source: "M04/transcription_DRE_Estrutura.txt"
+
+  - id: MET-CU-103
+    text: "Definição de indicadores: 1) listar fatores críticos de sucesso do negócio, 2) para cada fator, definir indicador que mede, 3) classificar em R1/R2/R3, 4) definir frequência de medição, 5) definir meta."
+    source: "M05/transcription_Indicadores_Parte_1.txt"
+
+  - id: MET-CU-106
+    text: "Conciliação bancária diária: 1) baixar extrato, 2) comparar com lançamentos do sistema, 3) identificar divergências, 4) ajustar no mesmo dia, 5) nunca acumular para o dia seguinte."
+    source: "M06/transcription_Gestao_Financeira_Follow_up.txt"
+
+  - id: MET-CU-107
+    text: "Gestão de inadimplência: 1) montar aging report por faixas de atraso, 2) identificar causas por faixa, 3) definir ações por faixa (lembrete, contato, acordo, PCLD), 4) prevenir com régua de crédito pré-venda."
+    source: "M06/transcription_Gestao_Financeira_Follow_up.txt"
+
+  - id: MET-CU-109
+    text: "ARM mensal completa: 1) apresentar indicadores macro do ano, 2) DRE comparativa acumulado vs ano anterior com AV e AH, 3) quebrar em trimestres e meses, 4) abrir curvas de cada indicador, 5) fazer as perguntas."
+    source: "M07/transcription_Gestao_de_Resultados.txt"
+
+  - id: MET-CU-200
+    text: "Metodologia de Análise de Viabilidade de Empréstimo: Passo 1 - Definir necessidade de capital e prazo. Passo 2 - Pesquisar 3+ opções de crédito. Passo 3 - Calcular CET de cada opção. Passo 4 - Simular SAC e PRICE para cada. Passo 5 - Projetar fluxo de caixa com parcelas incluídas. Passo 6 - Calcular ROI esperado do investimento. Passo 7 - Aprovar apenas se ROI > CET e fluxo de caixa suporta."
+    source: "M08/transcription_Como_escolher_um_emprestimo.txt"
+
+  - id: MET-CU-202
+    text: "Metodologia OBZ Completa: Passo 1 - Comunicar a toda empresa que orçamento será zerado. Passo 2 - Cada gestor prepara proposta justificando cada gasto do zero. Passo 3 - Classificar propostas em: essencial, importante, desejável. Passo 4 - Aprovar de baixo para cima até atingir teto orçamentário. Passo 5 - Gastos não aprovados são eliminados. Passo 6 - Monitorar mensalmente aderência ao novo orçamento."
+    source: "M09/transcription_Tipos_de_orcamentos.txt"
+
+  - id: MET-CU-204
+    text: "Metodologia GMD Mensal: Passo 1 - Fechar contabilidade do mês (até dia 5). Passo 2 - Alimentar matriz pacotes x entidades com valores reais. Passo 3 - Calcular variância real vs orçado por célula. Passo 4 - Gestor de pacote justifica desvios > 10%. Passo 5 - Gestor de entidade valida justificativa. Passo 6 - Plano de ação para desvios não justificados. Passo 7 - Atualizar forecast do trimestre."
+    source: "M09/transcription_Acompanhamento_de_Orcamentos.txt"
+
+  - id: MET-CU-205
+    text: "Metodologia de Cálculo de Pro-labore: Passo 1 - Levantar lucro líquido médio 12 meses. Passo 2 - Definir percentual (25-40%). Passo 3 - Calcular valor bruto do pro-labore. Passo 4 - Aplicar encargos (INSS, IR). Passo 5 - Verificar se valor líquido atende necessidades pessoais. Passo 6 - Comparar com piso salarial da função. Passo 7 - Formalizar em contrato social ou ata. Passo 8 - Registrar como custo fixo mensal no DRE."
+    source: "Bonus/transcription_Masterclass_Como_Definir_o_seu_Pr_-labore.txt"
+
+  - id: MET-CU-206
+    text: "Metodologia de Cálculo do Ponto de Equilíbrio: Passo 1 - Listar todos os custos fixos mensais. Passo 2 - Calcular preço de venda unitário. Passo 3 - Listar custos variáveis unitários. Passo 4 - Margem Contribuição = Preço - Custos Variáveis. Passo 5 - PE em unidades = Custos Fixos / MC unitária. Passo 6 - PE em reais = PE unidades x Preço. Passo 7 - Validar se PE é alcançável com capacidade atual."
+    source: "Bonus/transcription_Masterclass_Como_Definir_o_seu_Pr_-labore.txt"
+
+  - id: MET-CU-207
+    text: "Metodologia de Formação de Preço por Margem: Passo 1 - Levantar custo de matéria-prima/hora. Passo 2 - Somar impostos sobre venda. Passo 3 - Somar comissão de venda. Passo 4 - Somar custo de frete/entrega. Passo 5 - Somar taxa de gateway. Passo 6 - Total custos variáveis = soma dos passos 1-5. Passo 7 - Definir margem desejada (ex: 40%). Passo 8 - Preço = Custos Variáveis / (1 - 0.40). Passo 9 - Validar contra concorrência. Passo 10 - Ajustar margem se necessário, nunca abaixo do mínimo."
+    source: "Bonus/transcription_Masterclass_Como_Definir_o_seu_Pr_-labore.txt"
+
+  - id: MET-CU-209
+    text: "Metodologia de Revisão Orçamentária Trimestral: Passo 1 - Consolidar real vs orçado do trimestre encerrado. Passo 2 - Identificar desvios recorrentes (3 meses consecutivos). Passo 3 - Classificar desvios em estruturais vs pontuais. Passo 4 - Para estruturais: ajustar orçamento dos trimestres restantes. Passo 5 - Para pontuais: manter orçamento original com nota explicativa. Passo 6 - Recalcular projeção de fechamento anual. Passo 7 - Comunicar ajustes a gestores envolvidos."
+    source: "M09/transcription_Acompanhamento_de_Orcamentos.txt"
+
+# ═══════════════════════════════════════════════════════════════════════════════
+# AGENTES QUE USAM ESTE AGG
+# ═══════════════════════════════════════════════════════════════════════════════
+
+agentes_consumidores:
+  - agente: "CFO"
+    path: "agents/cargo/c-level/cfo/"
+    peso: 0.85
+    dominios_usados: ["gestao-financeira", "fluxo-de-caixa", "planejamento", "pricing", "custos"]
+
+  - agente: "COO"
+    path: "agents/cargo/c-level/coo/"
+    peso: 0.40
+    dominios_usados: ["gestao-financeira", "planejamento", "custos", "fluxo-de-caixa"]
+
+# ═══════════════════════════════════════════════════════════════════════════════
+# METADADOS DE DERIVAÇÃO
+# ═══════════════════════════════════════════════════════════════════════════════
+
+metadados_derivacao:
+  fonte_primaria: "knowledge/external/dna/persons/capital-upgrade/DNA.yaml"
+  versao_fonte: "2.0.0"
+  data_verificacao: "2026-03-11"
+  elementos_selecionados: 70
+  criterio_selecao: "Elementos de maior universalidade e aplicabilidade — priorizados L3 numéricos e L4/L5 operacionais"
+  nota: "AGG contém seleção representativa. DNA.yaml completo tem 257 elementos em todas as 5 camadas."
+
+# Fim do AGG-GESTAO-FINANCEIRA.yaml v1.0.0

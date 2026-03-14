@@ -1,0 +1,309 @@
+# AGG-MONEY-MODELS.yaml
+# Aggregated DNA: Business Money Models & Revenue Architecture
+#
+# Versao: 1.0.0
+# Data: 2026-03-11
+# Fonte principal: Alex Hormozi - ACQ Scale Advisory ($100M Money Models + Workshops)
+# Dominio: money-models, revenue-architecture, upsells, downsells, continuity, CFA
+#
+# ═══════════════════════════════════════════════════════════════════════════════
+
+domain: "money-models"
+versao: "1.0.0"
+data_criacao: "2026-03-11"
+ultima_atualizacao: "2026-03-11"
+
+descricao: |
+  Frameworks de arquitetura de receita, modelos de negócio, upsell/downsell,
+  continuity programs e Client Finance Acquisition (CFA).
+  Fonte primária: Alex Hormozi (ACQ Scale Advisory $18k Upsell).
+
+fontes:
+  - pessoa: "alex-hormozi"
+    source_id: "AH-ACQ001"
+    peso: 0.90
+    material: "ACQ Scale Advisory $18k Upsell ($100M Money Models + Workshops)"
+    path: "/knowledge/external/sources/alex-hormozi/raw/acq-scale-advisory/"
+    elementos: 185
+
+# ═══════════════════════════════════════════════════════════════════════════════
+# LAYER 1: FILOSOFIAS
+# ═══════════════════════════════════════════════════════════════════════════════
+
+L1_PHILOSOPHIES:
+
+  - id: "FIL-MM-001"
+    title: "Four-Prong Money Model"
+    statement: "Toda empresa saudável tem quatro elementos de receita: Attraction (lead gen), Upsell (ascensão), Downsell (recuperação), e Continuity (retenção). Negócios que têm só o core offer deixam 3x receita na mesa."
+    source: "FIL-AH-ACQ-001"
+    weight: 0.95
+
+  - id: "FIL-MM-002"
+    title: "Client Finance Acquisition (CFA)"
+    statement: "O modelo mais poderoso de scaling: use o lucro do cliente A para pagar a aquisição do cliente B em 30 dias. Quando GP de 30 dias > CAC, você tem escala ilimitada — o negócio financia o próprio crescimento."
+    source: "FIL-AH-ACQ-002"
+    weight: 0.95
+
+  - id: "FIL-MM-003"
+    title: "Upsell Como Obrigação Moral"
+    statement: "Se você acredita que seu produto premium resolve melhor o problema do cliente, NÃO oferecer o upsell é antiético. Você está privando o cliente da melhor solução por medo de ouvir 'não'."
+    source: "FIL-AH-ACQ-010"
+    weight: 0.90
+
+  - id: "FIL-MM-004"
+    title: "Continuity É Fluxo de Caixa Previsível"
+    statement: "Continuity programs (assinatura, membership, retainer) são a fundação de um negócio estável. Eles financiam o custo de aquisição e reduzem a pressão por novas vendas todo mês."
+    source: "FIL-AH-ACQ-020"
+    weight: 0.88
+
+  - id: "FIL-MM-005"
+    title: "Constraining Factor Antes de Scale"
+    statement: "Antes de investir em mais lead gen, identifique o constraining factor (gargalo atual). Adicionar mais clientes ao gargalo não resolve — piora. Fix the constraint first, then scale."
+    source: "FIL-AH-ACQ-050"
+    weight: 0.90
+
+# ═══════════════════════════════════════════════════════════════════════════════
+# LAYER 2: MODELOS MENTAIS
+# ═══════════════════════════════════════════════════════════════════════════════
+
+L2_MENTAL_MODELS:
+
+  - id: "MM-MM-001"
+    title: "Revenue Stack (Pilhas de Receita)"
+    statement: "Cada camada de monetização (attraction, upsell, downsell, continuity) é uma 'pilha' independente. Calcule o LTV por pilha antes de decidir onde investir mais. Pilhas mais profundas = mais LTV por lead."
+    source: "MM-AH-ACQ-001"
+    weight: 0.92
+
+  - id: "MM-MM-002"
+    title: "Anchor Pricing Psychology"
+    statement: "Sempre apresente um anchor (preço mais alto) antes do preço real. O cérebro avalia preço em relação a um referencial. Um anchor 5-10x o preço real faz o produto parecer barato. Ex: $50k anchor → $10k parece razoável."
+    source: "MM-AH-ACQ-021"
+    weight: 0.88
+
+  - id: "MM-MM-003"
+    title: "Decoy Effect em Pricing"
+    statement: "Três opções de preço: Basic, Standard (decoy), Premium. O decoy existe para fazer o Premium parecer uma barganha. 70-80% escolhem Premium quando o decoy está corretamente posicionado."
+    source: "MM-AH-ACQ-022"
+    weight: 0.87
+
+  - id: "MM-MM-004"
+    title: "Deprivation-Based Offer Timing"
+    statement: "Ciclo: Give (valor grátis) → Take (remover acesso ou criar urgência) → Give (mais valor) → Sell (oferta com prazo). A privação temporária aumenta dramaticamente o desejo pela oferta."
+    source: "MM-AH-ACQ-028"
+    weight: 0.90
+
+  - id: "MM-MM-005"
+    title: "Level 3 Advertising (2x CAC)"
+    statement: "Nível 1: gastar em ads. Nível 2: ROI positivo. Nível 3: 2x CAC em 30 dias via CFA, compoundando clientes — 2 clientes viram 4, viram 8... Em 12 meses = 4,096 clientes de 1 investimento."
+    source: "MM-AH-ACQ-035"
+    weight: 0.93
+
+# ═══════════════════════════════════════════════════════════════════════════════
+# LAYER 3: HEURÍSTICAS (com números)
+# ═══════════════════════════════════════════════════════════════════════════════
+
+L3_HEURISTICS:
+
+  - id: "HEUR-MM-001"
+    title: "LTGP:CAC > 3:1 (minimum threshold)"
+    statement: "Para escalar com saúde: Lifetime Gross Profit deve ser > 3x o Custo de Aquisição. Abaixo disso = modelo insustentável. Acima de 5:1 = escala agressiva."
+    source: "HEUR-AH-ACQ-001"
+    weight: 0.95
+    numero: "3:1 minimum | 5:1 scale"
+
+  - id: "HEUR-MM-002"
+    title: "GP Margin Mínima: 80% para serviços"
+    statement: "Serviços digitais e coaching devem ter 80%+ de gross profit margin. Abaixo disso, o modelo tem custo de entrega alto demais para escalar. Recalibrar entrega antes de escalar."
+    source: "HEUR-AH-ACQ-002"
+    weight: 0.92
+    numero: "80% minimum GP for services"
+
+  - id: "HEUR-MM-003"
+    title: "CFA: 30-day breakeven"
+    statement: "Meta do CFA: recuperar todo o CAC em gross profit dentro de 30 dias do cliente entrar. Quando isso acontece, você pode infinitamente escalar reinvestindo o lucro."
+    source: "HEUR-AH-ACQ-005"
+    weight: 0.93
+    numero: "30-day GP > CAC"
+
+  - id: "HEUR-MM-004"
+    title: "Classic Upsell Take Rate: 80%+"
+    statement: "Upsell na mesma categoria (ex: vender mais do mesmo) tem take rate de 80%+ quando oferecido no momento certo (logo após compra). É o upsell mais fácil."
+    source: "HEUR-AH-ACQ-020"
+    weight: 0.88
+    numero: "80%+ take rate classic upsell"
+
+  - id: "HEUR-MM-005"
+    title: "Anchor Upsell: 5-10x o preço core"
+    statement: "O anchor para upsell deve ser 5-10x o preço do produto principal. Isso maximiza o efeito de ancoragem sem parecer absurdo. Ex: core $1k → anchor $5-10k."
+    source: "HEUR-AH-ACQ-021"
+    weight: 0.87
+    numero: "Anchor = 5-10x core price"
+
+  - id: "HEUR-MM-006"
+    title: "Decoy: 70-80% escolhem Premium"
+    statement: "Com 3 opções bem estruturadas (Basic/Standard decoy/Premium), 70-80% dos compradores escolhem o Premium. O decoy eleva a percepção de valor do Premium."
+    source: "HEUR-AH-ACQ-022"
+    weight: 0.85
+    numero: "70-80% premium uptake with decoy"
+
+  - id: "HEUR-MM-007"
+    title: "Compound Growth: 2x CAC = 4,096 em 12 meses"
+    statement: "Se você 2x o CAC em 30 dias via CFA e reinveste tudo: 1→2→4→8... Em 12 ciclos mensais = 4,096 clientes de 1 investimento inicial."
+    source: "HEUR-AH-ACQ-003"
+    weight: 0.90
+    numero: "2x monthly = 4,096 in 12 months"
+
+  - id: "HEUR-MM-008"
+    title: "Prepay Discounts Structure"
+    statement: "Descontos para antecipação de pagamento: Quarterly -10%, Semi-Annual -15%, Annual -20-25%, 2-Year -30%, Lifetime -40%. Isso melhora o cash flow e retém clientes mais tempo."
+    source: "HEUR-AH-ACQ-035"
+    weight: 0.88
+    numero: "Q:10% SA:15% A:20-25% 2Y:30% LT:40%"
+
+  - id: "HEUR-MM-009"
+    title: "Attraction Offer: 9x Response Rate Free vs $0.01"
+    statement: "Uma oferta completamente gratuita (sem cartão) gera 9x mais leads do que a mesma oferta a $0.01. O 'gratuito' remove fricção psicológica completamente."
+    source: "HEUR-AH-ACQ-010"
+    weight: 0.85
+    numero: "9x response rate free vs $0.01"
+
+  - id: "HEUR-MM-010"
+    title: "ROAS referência: $1 in → $34 out (gym model)"
+    statement: "Modelo de academia com lifetime value alto: $1 em ads gera $34 em revenue ao longo do lifetime do cliente. Benchmarks: $1→$3 bom, $1→$10 ótimo, $1→$34 excepcional com LTV alto."
+    source: "HEUR-AH-ACQ-050"
+    weight: 0.83
+    numero: "$1 in → $34 out (high LTV model)"
+
+# ═══════════════════════════════════════════════════════════════════════════════
+# LAYER 4: FRAMEWORKS
+# ═══════════════════════════════════════════════════════════════════════════════
+
+L4_FRAMEWORKS:
+
+  - id: "FW-MM-001"
+    title: "Four-Prong Money Model"
+    components:
+      - "Prong 1 - ATTRACTION: Ofertas de entrada que adquirem clientes (free, SLO, core)"
+      - "Prong 2 - UPSELL: Ascensão imediata pós-compra (classic, recurring, bigger, DFY)"
+      - "Prong 3 - DOWNSELL: Recuperação de não-compradores (discount, payment plan, downgrade)"
+      - "Prong 4 - CONTINUITY: Retenção e receita recorrente (ongoing, membership, retainer)"
+    source: "FW-AH-ACQ-001"
+    weight: 0.95
+
+  - id: "FW-MM-002"
+    title: "5 Attraction Offer Types"
+    components:
+      - "1. Free (lead magnet, trial) — 9x response rate"
+      - "2. Free + Shipping (book, kit) — frontend economics"
+      - "3. SLO (Self-Liquidating Offer) — $7-97, pays for ads"
+      - "4. Core Offer (main product)"
+      - "5. Premium Offer (high-ticket, anchor)"
+    source: "FW-AH-ACQ-003"
+    weight: 0.90
+
+  - id: "FW-MM-003"
+    title: "4 Upsell Types"
+    components:
+      - "1. Classic: Mais do mesmo produto (80%+ take rate)"
+      - "2. Recurring: Transforma one-time em assinatura"
+      - "3. Bigger: Versão premium/expandida"
+      - "4. Done-For-You: Você faz por eles"
+    source: "FW-AH-ACQ-010"
+    weight: 0.90
+
+  - id: "FW-MM-004"
+    title: "3 Downsell Types"
+    components:
+      - "1. Discount: Mesmo produto, preço menor"
+      - "2. Payment Plan: Mesmo preço, parcelado"
+      - "3. Downgrade: Versão menor/limitada do produto"
+    source: "FW-AH-ACQ-015"
+    weight: 0.87
+
+  - id: "FW-MM-005"
+    title: "3 Continuity Types"
+    components:
+      - "1. Ongoing Service: Entrega contínua (coaching mensal, consultoria)"
+      - "2. Membership: Acesso a comunidade/conteúdo"
+      - "3. Retainer: Acesso ao profissional/time"
+    source: "FW-AH-ACQ-020"
+    weight: 0.88
+
+  - id: "FW-MM-006"
+    title: "CFA (Client Finance Acquisition)"
+    components:
+      - "Step 1: Calcule CAC total (ads + time + overhead)"
+      - "Step 2: Calcule GP dos primeiros 30 dias (revenue × margin)"
+      - "Step 3: Se GP > CAC em 30 dias → você tem CFA"
+      - "Step 4: Reinvesta 100% do GP no CAC do próximo cliente"
+      - "Step 5: Compound indefinidamente"
+    source: "FW-AH-ACQ-002"
+    weight: 0.95
+
+# ═══════════════════════════════════════════════════════════════════════════════
+# LAYER 5: METODOLOGIAS
+# ═══════════════════════════════════════════════════════════════════════════════
+
+L5_METHODOLOGIES:
+
+  - id: "MET-MM-001"
+    title: "Build Your Money Model (4 Steps)"
+    steps:
+      - "1. AUDIT: Liste todas as ofertas atuais. Qual prong cada uma pertence? Quantas prongas faltam?"
+      - "2. ATTRACTION: Crie pelo menos 1 oferta de cada tipo (free, SLO, core, premium)"
+      - "3. UPSELL: Imediatamente após compra, ofereça upsell classic (mais do mesmo)"
+      - "4. CONTINUITY: Adicione componente recorrente a qualquer produto one-time"
+    source: "MET-AH-ACQ-001"
+    weight: 0.90
+
+  - id: "MET-MM-002"
+    title: "CFA Implementation Checklist"
+    steps:
+      - "1. Calcule seu CAC real (last 30 days): ad spend + time cost + overhead / new clients"
+      - "2. Calcule GP 30-day: (revenue from clients acquired this month × gross margin %)"
+      - "3. Compare: GP > CAC? Se não, aumentar preço ou reduzir CAC primeiro"
+      - "4. Segmente clientes por cohort de aquisição para medir com precisão"
+      - "5. Quando GP > CAC consistentemente por 3 meses → ative scaling agressivo"
+    source: "MET-AH-ACQ-002"
+    weight: 0.92
+
+  - id: "MET-MM-003"
+    title: "Constraint Analysis Process"
+    steps:
+      - "1. Liste todos os gargalos do negócio (lead gen, show rate, close rate, fulfillment, churn)"
+      - "2. Rank por impacto em revenue se resolvido"
+      - "3. Resolva apenas o #1 primeiro — não paralelize"
+      - "4. Após resolver, reavalie e identifique novo #1"
+      - "5. Só adicione mais leads quando close rate e entrega estiverem otimizados"
+    source: "MET-AH-ACQ-050"
+    weight: 0.88
+
+# ═══════════════════════════════════════════════════════════════════════════════
+# ESTATÍSTICAS
+# ═══════════════════════════════════════════════════════════════════════════════
+
+statistics:
+  total_elements: 23
+  by_layer:
+    L1_PHILOSOPHIES: 5
+    L2_MENTAL_MODELS: 5
+    L3_HEURISTICS: 10
+    L4_FRAMEWORKS: 6
+    L5_METHODOLOGIES: 3
+  primary_source: "alex-hormozi (AH-ACQ001)"
+  weight_average: 0.90
+  agentes_que_consomem:
+    - cargo: "CFO"
+      peso: 0.80
+      dominios: ["money-models", "CFA", "unit-economics"]
+    - cargo: "CRO"
+      peso: 0.85
+      dominios: ["upsells", "downsells", "continuity", "money-models"]
+    - cargo: "Sales Manager"
+      peso: 0.75
+      dominios: ["upsells", "offer-architecture"]
+    - cargo: "CMO"
+      peso: 0.75
+      dominios: ["attraction-offers", "money-models"]
+
+# Fim do AGG-MONEY-MODELS.yaml v1.0.0

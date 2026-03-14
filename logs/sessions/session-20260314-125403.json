@@ -1,0 +1,37 @@
+{
+  "session_id": "a2fea5cc-2e22-4f75-9b08-2c122de1ac09",
+  "started_at": "2026-03-14T12:54:03.214070",
+  "integrity": {
+    "all_ok": false,
+    "missing": [
+      "dna_personality",
+      "soul",
+      "boot_sequence"
+    ],
+    "outdated": [
+      {
+        "name": "memory_owner",
+        "age_days": 3,
+        "max_age_hours": 72
+      },
+      {
+        "name": "pending",
+        "age_days": 12,
+        "max_age_hours": 48
+      }
+    ],
+    "loaded": [
+      "state",
+      "memory_owner",
+      "pending",
+      "latest_session"
+    ],
+    "warnings": [
+      "memory_owner desatualizado há 3 dias",
+      "pending desatualizado há 12 dias"
+    ]
+  },
+  "files_loaded": 4,
+  "pending_count": 0,
+  "current_task": null
+}

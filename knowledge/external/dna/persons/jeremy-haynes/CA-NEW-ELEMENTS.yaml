@@ -1,0 +1,1148 @@
+# ============================================================================
+# JEREMY HAYNES - CLIENT ACCELERATOR & PCVP NEW DNA ELEMENTS
+# ============================================================================
+# Fonte: knowledge/external/sources/client-accelerator/raw/ (28 files)
+# Data de Extracao: 2026-03-03
+# Atualizado: 2026-03-03 (all 28 files read, PCVP 5-13 elements added)
+# Dedup contra: DNA JH existente (22 FIL, 20 MM, 30 HEUR, 25 FW, 18 MET)
+#               + 30DC-NEW-ELEMENTS.yaml (44 elements)
+# Criterio: Apenas elementos GENUINAMENTE NOVOS (nao duplicados)
+# ============================================================================
+#
+# SUMMARY:
+#   FILOSOFIAS:       9 new elements  (+1 from PCVP 5-13)
+#   MODELOS-MENTAIS:  9 new elements  (+2 from PCVP 5-13)
+#   HEURISTICAS:     21 new elements  (+7 from PCVP 5-13)
+#   FRAMEWORKS:      14 new elements  (+2 from PCVP 5-13)
+#   METODOLOGIAS:    10 new elements  (+1 from PCVP 5-13)
+#   TOTAL:           63 new elements  (+13 from PCVP 5-13)
+#
+# NOTES:
+#   - CA-0002 through CA-0008 are CLIENT ad scripts reviewed by JH,
+#     not direct JH teaching. DNA extracted from JH commentary/context only.
+#   - CA-0009 through CA-0016 are direct JH/CA team teaching content.
+#   - PCVP-0001 through PCVP-0013 are cold video pitch training modules.
+#   - PCVP files 5-13 repeat the same pitch framework for different services
+#     but contain unique business model concepts, pricing heuristics, and
+#     communication strategies not present in earlier files.
+#   - All 28 files have been read and processed.
+# ============================================================================
+
+# ============================================================================
+# LAYER 1: FILOSOFIAS (9 new)
+# ============================================================================
+filosofias:
+
+  - id: JH-CA-FIL-001
+    titulo: "Downside First Investing"
+    descricao: >
+      Antes de qualquer investimento ou decisao de negocios, calcule e mitigue
+      o downside primeiro. Se voce sabe o pior cenario e consegue viver com ele,
+      a decisao se torna muito mais clara. Isso se aplica a comprar imoveis,
+      contratar pessoas, investir em ads - sempre entender o pior caso antes.
+    peso: 0.92
+    citacao: >
+      "One of the big things that I think has helped me be successful in life
+      is I always look at my downside. Okay, so what is my downside on anything?"
+    aplicacao: Decisoes de investimento, contratacao, lancamento de campanhas, scaling
+    fonte: "[CA-0011] 2 - CHERRINGTON MEDIA LAUNCH PLAN.txt"
+
+  - id: JH-CA-FIL-002
+    titulo: "Documentation Over Memory"
+    descricao: >
+      Documentar todos os processos operacionais e criar sistemas escritos
+      para duplicacao rapida de skills. Quando nao se documenta, cria-se
+      um caos que leva muito tempo para resolver. Cada processo, cada funnel,
+      cada tracking deve estar documentado em playbooks.
+    peso: 0.90
+    citacao: >
+      "I document and I record all my operational processes so I can give them
+      out to my staff to have easy duplicated skills rapidly picked up by the
+      rest of my team."
+    aplicacao: Onboarding, scaling de equipe, operacoes de agencia
+    fonte: "[PCVP-0001] 1. POWER OF COLD VIDEO..txt"
+
+  - id: JH-CA-FIL-003
+    titulo: "Objectivity Over Subjectivity in Management"
+    descricao: >
+      Tudo em gestao deve ser objetivo, nao subjetivo. Sem metricas claras
+      e KPIs definidos, voce nao consegue dizer a alguem se esta fazendo
+      um bom trabalho ou nao. Definir outcomes claros elimina ambiguidade
+      e facilita accountability.
+    peso: 0.91
+    citacao: >
+      "I'm a very big proponent on everything being objective from a management
+      standpoint and then from a tracking standpoint. It just makes it much
+      easier to see throughout the funnel."
+    aplicacao: Gestao de equipe, avaliacao de performance, media buying
+    fonte: "[CA-0013] 4. DEEP DIVE - LAUNCH PLAN TEMPLATE.txt"
+
+  - id: JH-CA-FIL-004
+    titulo: "Strategy Over Tactics in Marketing"
+    descricao: >
+      Nao e necessariamente media buying que vai ser o maior needle mover.
+      Entender os metrics, saber quais alavancas puxar, e ter visao
+      estrategica importa mais do que ser o melhor executante tatico.
+      Um bom estrategista compensa habilidades medianas em execucao.
+    peso: 0.88
+    citacao: >
+      "When I first got started, I wasn't that great of a marketer. But I
+      understood the metrics, I understood what levers to pull, because I
+      was able to map things out like this."
+    aplicacao: Media buying, planejamento de campanhas, crescimento de agencia
+    fonte: "[CA-0013] 4. DEEP DIVE - LAUNCH PLAN TEMPLATE.txt"
+
+  - id: JH-CA-FIL-005
+    titulo: "Thumbnails Are Psychological Assets"
+    descricao: >
+      Thumbnails nao sao decoracao ou afterthought. Sao ativos
+      psicologicos estrategicos que determinam se o trabalho duro de
+      criar conteudo vai realmente chegar a uma audiencia. Merecem
+      tanta energia criativa quanto o conteudo em si.
+    peso: 0.85
+    citacao: >
+      "Thumbnails are not decorations - they're psychological triggers
+      designed to interrupt patterns and create irresistible curiosity."
+    aplicacao: Creative strategy, YouTube ads, Facebook ads, organic content
+    fonte: "[CA-0016] 2. THUMBNAIL PSYCHOLOGY GUIDE.txt"
+
+  - id: JH-CA-FIL-006
+    titulo: "Show Don't Tell in Sales"
+    descricao: >
+      Em pitches de venda, demonstrar visualmente o processo e muito
+      mais poderoso do que apenas falar sobre ele. Ter tudo preparado
+      e aberto, fazer transicoes rapidas entre tabs, e mostrar resultados
+      reais na tela cria mais credibilidade do que qualquer claim verbal.
+    peso: 0.89
+    citacao: >
+      "Everything that I'm showing I'm making sure that I show and visually
+      demonstrate rather than just talk about it."
+    aplicacao: Cold video pitches, sales presentations, client onboarding
+    fonte: "[PCVP-0002] 2. SELLING ADVERTISING..txt"
+
+  - id: JH-CA-FIL-007
+    titulo: "Empower Before You Sell"
+    descricao: >
+      Antes de vender seu servico, empodere o prospect mostrando que ele
+      pode fazer sozinho. Quando voce diz "seu time pode implementar isso",
+      voce remove a barreira de resistencia e o prospect te ve como alguem
+      que realmente quer ajudar, nao apenas vender. Isso aumenta confianca
+      e close rate.
+    peso: 0.87
+    citacao: >
+      "All this stuff that I'm going to talk about, Dan, you can do yourself.
+      I'm empowering him and his team to be able to do this."
+    aplicacao: Cold outreach, video pitches, consultoria, agency sales
+    fonte: "[PCVP-0002] 2. SELLING ADVERTISING..txt"
+
+  - id: JH-CA-FIL-008
+    titulo: "Ethical Clickability"
+    descricao: >
+      O objetivo de um bom creative/thumbnail nao e enganar alguem para
+      clicar - e convidar alguem que genuinamente vai se beneficiar do
+      conteudo. Curiosidade respeitosa, nao manipulacao. Clickbait
+      destroi confianca a longo prazo enquanto curiosidade etica
+      constroi lealdade composta.
+    peso: 0.86
+    citacao: >
+      "Your thumbnail's job is to identify people who will genuinely benefit
+      from your content and make it irresistible for them to click. It's not
+      about maximizing clicks from everyone."
+    aplicacao: Ad creative strategy, content marketing, thumbnail design
+    fonte: "[CA-0016] 2. THUMBNAIL PSYCHOLOGY GUIDE.txt"
+
+  - id: JH-PCVP-FIL-001
+    titulo: "Underpromise, Overdeliver"
+    descricao: >
+      Sempre prometer MENOS do que voce sabe que pode entregar. Se o fornecedor
+      garante 550+ canais de distribuicao, prometa 300-400 ao cliente. Quando
+      voce excede expectativas, o cliente fica encantado e se torna evangelista.
+      Overpromise destroi confianca; underpromise constroi lealdade composta.
+      Aplicavel a qualquer servico terceirizado onde voce controla a narrativa.
+    peso: 0.88
+    citacao: >
+      "They guarantee 550 plus channels. What I would suggest doing is you tell
+      the person, 'Hey, I'm going to get you on 300 to 400 channels.' And
+      overpromising and underdelivering is a terrible, terrible, terrible way
+      to run your business."
+    aplicacao: Client management, service delivery, agency positioning, reselling
+    fonte: "[PCVP-0013] 13. PR SERVICES..txt"
+
+
+# ============================================================================
+# LAYER 2: MODELOS MENTAIS (9 new)
+# ============================================================================
+modelos_mentais:
+
+  - id: JH-CA-MM-001
+    titulo: "Capital Deployment Mindset"
+    descricao: >
+      Olhar para marketing como um investidor, nao como um marketer.
+      Existem dois tipos de capital sendo alocados: capital monetario
+      e capital humano. O objetivo e maximizar ROI em ambos, focando
+      nos growth ideas que consistentemente geram o maior retorno
+      no menor timeframe.
+    peso: 0.93
+    citacao: >
+      "I look at everything through the lens of, 'Hey, we were investors.
+      We're essentially deploying two types of capital. We have monetary
+      capital and we have human capital.' To maximize our return on
+      investment, we need to focus on identifying and investing in
+      growth ideas that consistently yield the highest ROI within the
+      shortest timeframe."
+    aplicacao: Alocacao de budget, priorizacao de projetos, scaling decisions
+    fonte: "[CA-0013] 4. DEEP DIVE - LAUNCH PLAN TEMPLATE.txt"
+
+  - id: JH-CA-MM-002
+    titulo: "Tier Client Hierarchy"
+    descricao: >
+      Nem todos os clientes sao iguais. Tier 1 tem o maior LTV, menor
+      sales cycle, e melhor ratio LTV/CAC. Tier 2 e bom mas nao ideal.
+      Tier 3 nao escala e nao gera lucro. Se voce esta atraindo Tier 3,
+      esta perdendo dinheiro mesmo com volume. Foco absoluto em Tier 1.
+    peso: 0.94
+    citacao: >
+      "When we bring on Tier 3 type clients, they don't scale, which
+      means we don't make money. Like, we don't make money on our
+      retainer just because of all the effort... We are very hyper-focused
+      on Tier 1 clients."
+    aplicacao: ICP definition, targeting, sales qualification, agency growth
+    fonte: "[CA-0013] 4. DEEP DIVE - LAUNCH PLAN TEMPLATE.txt"
+
+  - id: JH-CA-MM-003
+    titulo: "Curiosity Gap Model"
+    descricao: >
+      A tensao psicologica entre o que sabemos e o que queremos saber
+      e o motor de cada clique. Quando voce apresenta uma historia
+      parcial, uma pergunta sem resposta, ou uma contradicao visual,
+      o cerebro experimenta um desconforto que so e resolvido clicando.
+      Isso nao e manipulacao - e storytelling.
+    peso: 0.88
+    citacao: >
+      "At the heart of every successful thumbnail is something called the
+      curiosity gap - the psychological tension between what we know and
+      what we want to know."
+    aplicacao: Ad creatives, thumbnails, hooks, headlines, email subject lines
+    fonte: "[CA-0016] 2. THUMBNAIL PSYCHOLOGY GUIDE.txt"
+
+  - id: JH-CA-MM-004
+    titulo: "Concept vs Variation Testing"
+    descricao: >
+      Um conceito e um grupo de ads que representam uma IDEIA. Variacoes
+      sao versoes diferentes do mesmo conceito. Voce testa conceitos
+      primeiro para encontrar winners, depois cria variacoes dos winners.
+      Entender essa distincao torna o scaling de criativos muito mais linear.
+    peso: 0.91
+    citacao: >
+      "A concept is essentially a group of ads, which is an idea. This is
+      a very big shift for me once I fully understood it and it made it
+      much more linear in scaling up."
+    aplicacao: Creative testing, media buying, scaling de campanhas
+    fonte: "[CA-0013] 4. DEEP DIVE - LAUNCH PLAN TEMPLATE.txt"
+
+  - id: JH-CA-MM-005
+    titulo: "Neighbor Effect in Content"
+    descricao: >
+      Seu conteudo nao e julgado isoladamente - e comparado com conteudo
+      similar que sua audiencia ja viu. Se voce cria um thumbnail/creative
+      generico, esta competindo contra centenas de thumbnails praticamente
+      identicos. Diferenciacao hiper-especifica na embalagem e o que
+      quebra o ruido.
+    peso: 0.86
+    citacao: >
+      "YouTube doesn't judge your video in isolation - it uses collaborative
+      filtering and co-viewing patterns to compare your content to similar
+      videos your target audience has already seen."
+    aplicacao: YouTube ads, creative strategy, content positioning
+    fonte: "[CA-0016] 2. THUMBNAIL PSYCHOLOGY GUIDE.txt"
+
+  - id: JH-CA-MM-006
+    titulo: "Responsibility Transfer in Sales"
+    descricao: >
+      Em vendas, transferir a responsabilidade do problema para longe
+      do prospect. Fazer o prospect sentir que alguem na equipe dele
+      DEVERIA estar resolvendo isso (mas nao esta). Isso remove culpa,
+      remove objecoes de "eu posso fazer sozinho", e cria urgencia
+      para contratar ajuda externa.
+    peso: 0.90
+    citacao: >
+      "You're making sure that the person doesn't feel guilt, shame, or
+      like they're doing something wrong... you're taking the responsibility
+      of that problem being able to get solved, acting as if it's supposed
+      to be handled by somebody else in their business already."
+    aplicacao: Cold outreach, video pitches, sales calls, objection handling
+    fonte: "[PCVP-0001] 1. POWER OF COLD VIDEO..txt"
+
+  - id: JH-CA-MM-007
+    titulo: "Baseline-Projection-Variance Model"
+    descricao: >
+      Sem baseline documentado, voce nao pode projetar forward nem
+      provar melhoria. O modelo e: (1) documentar baseline com Loom,
+      (2) projetar worst/average/best case, (3) executar, (4) medir
+      variancia. Sem baseline, voce pode dobrar ROAS e o cliente
+      ainda reclamar porque nao tem referencia.
+    peso: 0.92
+    citacao: >
+      "Not really documenting a baseline didn't allow us to show how much
+      we improved results for our clients... if you don't have a baseline
+      of where you're at, you're not going to be able to project forward."
+    aplicacao: Client management, media buying, reporting, expectation setting
+    fonte: "[CA-0013] 4. DEEP DIVE - LAUNCH PLAN TEMPLATE.txt"
+
+  - id: JH-PCVP-MM-001
+    titulo: "Technology Evolution Selling"
+    descricao: >
+      Vender tecnologia nova usando analogia de evolucao tecnologica que o
+      prospect ja vivenciou. HTML era manual -> WordPress facilitou -> ClickFunnels
+      automatizou. Email tinha altos open rates -> agora 5-20% -> Chatbots tem
+      70-80%. Quando o prospect entende o padrao de evolucao, a adocao da nova
+      tecnologia se torna logica, nao arriscada. A analogia transfere a confianca
+      da tecnologia antiga para a nova.
+    peso: 0.88
+    citacao: >
+      "Before WordPress, everything was pretty much built from scratch with code.
+      Before code and after code was WordPress. After WordPress is ClickFunnels.
+      ClickFunnels is 900% faster."
+    aplicacao: SaaS sales, technology pitches, chatbot sales, funnel sales
+    fonte: "[PCVP-0011] 11. SELL FUNNELS..txt"
+
+  - id: JH-PCVP-MM-002
+    titulo: "Trust-Building Transaction as Gateway"
+    descricao: >
+      Um servico transacional de baixo risco e resultado rapido serve como porta
+      de entrada para servicos maiores e recorrentes. O objetivo primario NAO e
+      lucrar no servico inicial, mas sim construir confianca e criar um cliente
+      que ja experimentou trabalhar com voce. A transacao inicial remove a barreira
+      de "nunca trabalhei com esse cara" e abre porta para upsells de alto ticket.
+    peso: 0.90
+    citacao: >
+      "It's something that we do in order to gain your trust. We offer all kinds
+      of other things, but I don't even want to talk about that yet until we get
+      you foundationally set up."
+    aplicacao: Agency sales, service bundling, client acquisition, upsell strategy
+    fonte: "[PCVP-0009] 9. GOOGLE LISTING..txt"
+
+
+# ============================================================================
+# LAYER 3: HEURISTICAS (21 new)
+# ============================================================================
+heuristicas:
+
+  - id: JH-CA-HEUR-001
+    titulo: "$350M Revenue from 317 Campaigns"
+    descricao: >
+      Client Accelerators gerou mais de $350M em receita para clientes
+      atraves de 317 campanhas em 66 industrias, gerenciando mais de
+      $200M em ad spend.
+    peso: 0.95
+    citacao: >
+      "These 20 ad creatives represent the top-performing winners from
+      317 campaigns across 66 industries, managing over $200 million
+      in ad spend."
+    aplicacao: Credibilidade, benchmarking, escala de agencia
+    fonte: "[CA-0015] 1. 20 PROVEN AD CREATIVES.txt"
+
+  - id: JH-CA-HEUR-002
+    titulo: "CPC Benchmarks: <$5 strong, <$2 exceptional"
+    descricao: >
+      Para ads de performance, CPC abaixo de $5 e considerado forte.
+      Abaixo de $2 e excepcional. Facebook recompensa ads com alto
+      engajamento mostrando para mais pessoas por menos dinheiro.
+    peso: 0.90
+    citacao: >
+      "A CPC under $5 is strong; under $2 is exceptional."
+    aplicacao: Media buying benchmarks, creative evaluation
+    fonte: "[CA-0015] 1. 20 PROVEN AD CREATIVES.txt"
+
+  - id: JH-CA-HEUR-003
+    titulo: "CTR Benchmarks: 2%+ solid, 4%+ excellent"
+    descricao: >
+      CTR de 2%+ e solido para ads. 4%+ e excelente. CTRs altos
+      indicam forte pattern disruption, ressonancia emocional,
+      ou hooks curiosity-driven que forcam atencao.
+    peso: 0.90
+    citacao: >
+      "A 2%+ CTR is solid; 4%+ is excellent."
+    aplicacao: Creative testing, ad performance evaluation
+    fonte: "[CA-0015] 1. 20 PROVEN AD CREATIVES.txt"
+
+  - id: JH-CA-HEUR-004
+    titulo: "CPA Benchmarks: <$200 HT strong, <$100 MT excellent"
+    descricao: >
+      CPA abaixo de $200 para ofertas high-ticket e forte.
+      CPA abaixo de $100 para ofertas mid-ticket e excelente.
+    peso: 0.89
+    citacao: >
+      "A CPA under $200 for high-ticket offers is strong; under $100
+      for mid-ticket is excellent."
+    aplicacao: Campaign planning, financial projections
+    fonte: "[CA-0015] 1. 20 PROVEN AD CREATIVES.txt"
+
+  - id: JH-CA-HEUR-005
+    titulo: "ROAS Tiers: 2x profitable, 3x+ excellent, 5x+ exceptional"
+    descricao: >
+      ROAS acima de 2x e lucrativo para a maioria dos negocios.
+      3x+ e excelente. 5x+ e excepcional. Os ads no portfolio
+      CA variam de 1.8x a 6x ROAS.
+    peso: 0.91
+    citacao: >
+      "Anything above 2x is profitable for most businesses; 3x+ is
+      excellent; 5x+ is exceptional."
+    aplicacao: Campaign evaluation, scaling decisions, client reporting
+    fonte: "[CA-0015] 1. 20 PROVEN AD CREATIVES.txt"
+
+  - id: JH-CA-HEUR-006
+    titulo: "80%+ Liquidation = Aggressive Scaling"
+    descricao: >
+      Para ofertas low-ticket ($29-$97), se voce consegue recuperar
+      80%+ do ad spend no front-end, pode escalar agressivamente
+      sabendo que o backend vai entregar lucro. 100%+ liquidation
+      significa lucrativo no dia 1.
+    peso: 0.92
+    citacao: >
+      "If you can recover 80%+ of ad spend upfront, you can scale
+      aggressively knowing your backend will deliver profit."
+    aplicacao: Low-ticket funnels, scaling decisions, financial planning
+    fonte: "[CA-0015] 1. 20 PROVEN AD CREATIVES.txt"
+
+  - id: JH-CA-HEUR-007
+    titulo: "60-100% Day 1 Liquidation vs Traditional 0-30%"
+    descricao: >
+      O modelo CA de liquidation atinge 60-100% no dia 1, versus
+      o modelo tradicional de 0-30%. Combinado com retorno de capital
+      em 24 horas versus ciclos de 30-46 dias tradicionais.
+    peso: 0.93
+    citacao: >
+      "60-100% Day 1 liquidation rates (vs. traditional 0-30%).
+      24-hour capital returns (vs. traditional 30-46 day sales cycles)."
+    aplicacao: Financial modeling, capital velocity, funnel architecture
+    fonte: "[CA-0015] 1. 20 PROVEN AD CREATIVES.txt"
+
+  - id: JH-CA-HEUR-008
+    titulo: "95% Projected Quarterly Bonus Target"
+    descricao: >
+      O outcome #1 para senior media buyers e atingir 95% do
+      bonus projetado trimestral. O outcome #2 e atingir 85%
+      de todos os ROAS e profit goals projetados para clientes.
+    peso: 0.88
+    citacao: >
+      "The number one outcome we care about is achieving 95% of the
+      projected quarterly bonus compensation targets for their assigned
+      clients."
+    aplicacao: Media buyer KPIs, team management, compensation structure
+    fonte: "[CA-0009] 1 - SENIOR MEDIA BUYER.txt"
+
+  - id: JH-CA-HEUR-009
+    titulo: "Churn <8%, 1 Referral/Month, 25% Creative Win Rate"
+    descricao: >
+      KPIs de sub-metricas para senior media buyers: churn mensal
+      de clientes abaixo de 8%, minimo 1 referral por mes, taxa
+      de vitoria criativa em torno de 25%, aderencia a media plan
+      de 90%.
+    peso: 0.89
+    citacao: >
+      "Monthly client churn rate under 8%. At least one referral every
+      single month. Creative win rate about 25%. Media plan adherence
+      rate about 90%."
+    aplicacao: Agency KPIs, media buyer evaluation, team performance
+    fonte: "[CA-0009] 1 - SENIOR MEDIA BUYER.txt"
+
+  - id: JH-CA-HEUR-010
+    titulo: "3.5-4x CPA Spend Per Concept"
+    descricao: >
+      Se o CPA target e menos de $100, gastar 3.5-4x ($350-400)
+      por conceito criativo para ter significancia estatistica.
+      Se CPA target e $200, gastar ~$600 por conceito. Definir
+      gasto por conceito upfront evita sub-investimento em testes.
+    peso: 0.91
+    citacao: >
+      "If CPA is less than a hundred bucks, we're going to probably
+      spend three and a half to four X on that actual concept."
+    aplicacao: Creative testing budget, media buying process
+    fonte: "[CA-0013] 4. DEEP DIVE - LAUNCH PLAN TEMPLATE.txt"
+
+  - id: JH-CA-HEUR-011
+    titulo: "100 Cold Videos in 2 Hours (60-sec format)"
+    descricao: >
+      Com o formato de video pitch de 60 segundos no celular,
+      e possivel enviar 100 videos em 2 horas, versus 10-50 por
+      dia com o formato tradicional de 7-12 minutos. Respostas
+      comecam a chegar em ~1 hora.
+    peso: 0.88
+    citacao: >
+      "Everybody I challenged to send at least a hundred of them.
+      So, it only took two hours to send out about 100 videos."
+    aplicacao: Cold outreach, agency sales, prospecting
+    fonte: "[PCVP-0001] 1. POWER OF COLD VIDEO..txt"
+
+  - id: JH-CA-HEUR-012
+    titulo: "$5K Consulting to $25K Hands-On Upsell Path"
+    descricao: >
+      Modelo de pricing de agencia: comecar com consulting de $5K
+      (knowledge transfer em 30 dias), upsell para $25K hands-on.
+      Para performance deals, $75K/mes se gerar $150K/dia ou
+      $150K/mes se gerar $300K/dia.
+    peso: 0.90
+    citacao: >
+      "It started off as a $5,000 consulting deal that turned into
+      a $25,000 hands-on deal where if we make him 150k a day,
+      he pays us 75k a month."
+    aplicacao: Agency pricing, deal structure, upsell strategy
+    fonte: "[PCVP-0002] 2. SELLING ADVERTISING..txt"
+
+  - id: JH-CA-HEUR-013
+    titulo: "Bump Offer 51% Take Rate with Recurring"
+    descricao: >
+      Bump offers com modelo recorrente ($47/mes) atingem take rates
+      de 51%+ com alta retencao. Isso gera receita recorrente muito
+      superior a bump offers one-time. O case da Freedom Funders
+      comprova.
+    peso: 0.89
+    citacao: >
+      "We have a bump offer at $47 a month. This one has absolutely
+      crushed it. We're at about a 51% take rate, very high. Very high
+      retention rate as well."
+    aplicacao: Funnel architecture, offer design, MRR building
+    fonte: "[CA-0012] 3 - FREEDOM FUNDERS LAUNCH PLAN.txt"
+
+  - id: JH-CA-HEUR-014
+    titulo: "MrBeast 50 Thumbnails Per Video"
+    descricao: >
+      MrBeast cria 50 conceitos iniciais de thumbnail por video, que
+      se expandem para centenas de variacoes atraves de testes
+      sistematicos. Time de 5-6 criadores dedicados a thumbnails.
+      A/B testa ~20 variacoes por video.
+    peso: 0.85
+    citacao: >
+      "MrBeast famously obsesses over thumbnails to the point of creating
+      50 initial concepts per video, which expand to hundreds of variations."
+    aplicacao: Creative process, thumbnail strategy, content marketing
+    fonte: "[CA-0016] 2. THUMBNAIL PSYCHOLOGY GUIDE.txt"
+
+  - id: JH-PCVP-HEUR-001
+    titulo: "Content-First: $0.01/view vs $0.10-$1.00/click"
+    descricao: >
+      Estrategia content-first gera views a $0.01 cada vs ads diretos que custam
+      $0.10-$1.00 por click. Rodar conteudo organico como ad pago, construir
+      retargeting audiences, e depois converter com ads de conversao. O custo
+      de aquisicao de atencao cai 10-100x quando se usa conteudo primeiro.
+    peso: 0.89
+    citacao: >
+      "You can get those video views for a penny. Some of those clicks on the
+      right hand side are going to be anywhere from 10 cents to even a dollar."
+    aplicacao: Social media ads, content strategy, retargeting, restaurant marketing
+    fonte: "[PCVP-0005] 5. FACEBOOK AND INSTAGRAM..txt"
+
+  - id: JH-PCVP-HEUR-002
+    titulo: "Video Threshold Segmentation (3s/10s/25%/50%/75%/95%)"
+    descricao: >
+      Facebook permite segmentar audiencias por percentual de video assistido:
+      3 segundos, 10 segundos, 25%, 50%, 75%, 95%. Cada threshold representa
+      um nivel diferente de intencao e engajamento. 95% viewers sao leads
+      quentes que merecem oferta direta. 3s viewers sao awareness puro.
+      Isso cria um funil de retargeting baseado em engajamento real.
+    peso: 0.90
+    citacao: >
+      "You could retarget people who watched 3 seconds, 10 seconds, 25%, 50%,
+      75%, and 95% of any of these videos."
+    aplicacao: Retargeting strategy, audience segmentation, funnel architecture
+    fonte: "[PCVP-0005] 5. FACEBOOK AND INSTAGRAM..txt"
+
+  - id: JH-PCVP-HEUR-003
+    titulo: "Restaurant Conversion: $4K-$5K spend -> $10K-$20K return"
+    descricao: >
+      Para restaurantes, investimento de $4K-$5K em ads gera retorno de
+      $10K-$20K em receita. ROI de 2-5x no setor de restaurantes, que
+      tradicionalmente nao investe em marketing digital. A maioria dos
+      restaurantes tem presenca social fraca (ex: Cheesecake Factory com
+      5M likes mas apenas 20K organic reach = 0.4%).
+    peso: 0.87
+    citacao: >
+      "If they're spending $4-5K a month, I'd be very surprised if they didn't
+      generate a minimum of $10-20K a month back on that."
+    aplicacao: Restaurant niche, local business marketing, ROI projections
+    fonte: "[PCVP-0005] 5. FACEBOOK AND INSTAGRAM..txt"
+
+  - id: JH-PCVP-HEUR-004
+    titulo: "Middleman Margins: 85-95% on Outsourced Services"
+    descricao: >
+      Modelo middleman para servicos de agencia: comprar servicos por $10-$100
+      (thumbnails no Fiverr, Google listings via GMBB Genie, PR via Fiverr) e
+      revender por $1,000-$4,000. Margens de 85-95%. O valor esta no
+      relacionamento, confianca, e empacotamento do servico, nao na execucao.
+      Exemplos: thumbnails ($10-$50 custo -> $3K-$4K venda), PR ($60-$100
+      custo -> $1,500 venda), Google listing ($150 custo -> $1,000 venda).
+    peso: 0.91
+    citacao: >
+      "Fiverr has some of the best PR submission people ever... between $60
+      and $100. But you sell your service for $1,500 flat. You paid $60 to
+      $100 bucks and you charge them $1,500."
+    aplicacao: Agency arbitrage, service reselling, new agency startup
+    fonte: "[PCVP-0013] 13. PR SERVICES..txt"
+
+  - id: JH-PCVP-HEUR-005
+    titulo: "Chatbot vs Email: 70-80% vs 5-20% Open Rates"
+    descricao: >
+      Chatbots (ManyChat/MiniChat) tem open rates de 70-80% versus email
+      marketing que caiu para 5-20%. Isso representa 60-120x mais engajamento.
+      Campanhas de email que levam 2-3 semanas podem ser comprimidas para
+      20 minutos via chatbot. O chatbot e a evolucao do email como o
+      WordPress foi a evolucao do HTML manual.
+    peso: 0.92
+    citacao: >
+      "The open rates on a messenger-based platform like MiniChat's 70 to 80%
+      open rate. Emails are around a five to 20% open rate. That's 60 to 120
+      times more people opening up your stuff."
+    aplicacao: Lead nurturing, sales automation, chatbot implementation
+    fonte: "[PCVP-0012] 12. CHATBOTS..txt"
+
+  - id: JH-PCVP-HEUR-006
+    titulo: "ClickFunnels 900% Faster Than WordPress"
+    descricao: >
+      ClickFunnels e 900% mais rapido que WordPress para construir funnels
+      com A/B testing e otimizacao. O que requeria equipe de 20+ pessoas
+      com WordPress pode ser feito por 1 pessoa com ClickFunnels. Comparacao
+      metrica: 10/10 em facilidade vs WordPress, 10/10 em A/B testing, 10/10
+      em velocidade de deployment.
+    peso: 0.86
+    citacao: >
+      "ClickFunnels is 900% faster than WordPress. Rather than having a team
+      of 20 plus people, you'll have it all in one platform."
+    aplicacao: Funnel building, technology selection, client consulting
+    fonte: "[PCVP-0011] 11. SELL FUNNELS..txt"
+
+  - id: JH-PCVP-HEUR-007
+    titulo: "Consulting > Agency Pricing ($15K > $10K)"
+    descricao: >
+      Consulting (skill transfer) pode ser vendido por MAIS que o servico
+      hands-on porque o cliente mantem o conhecimento in-house. Exemplo:
+      funnel build hands-on = $10K, consultoria/skill transfer = $15K.
+      O prospect percebe mais valor em aprender a fazer do que em ter
+      alguem fazendo por ele, especialmente organizacoes maiores.
+    peso: 0.87
+    citacao: >
+      "Consulting and skill transfer is something that people love to hear
+      about because it's like, 'Hey, like, cool, you can do it for me, but
+      I'd rather know how to do it in-house.'"
+    aplicacao: Pricing strategy, offer structure, consulting vs done-for-you
+    fonte: "[PCVP-0011] 11. SELL FUNNELS..txt"
+
+
+# ============================================================================
+# LAYER 4: FRAMEWORKS (14 new)
+# ============================================================================
+frameworks:
+
+  - id: JH-CA-FW-001
+    titulo: "Launch Plan Template (14-Day)"
+    descricao: >
+      Template estruturado para lancamento de clientes com: executive
+      summary, product/offers, ideal clients/tiers, competitors analysis,
+      funnel review, baseline metrics, projections (worst/avg/best),
+      creative strategy, campaign rollout, risks/mitigations, monthly
+      targets. Evoluido ao longo de 6-7 anos de uso em agencia.
+    peso: 0.95
+    citacao: >
+      "This launch plan template will really help you get your whole team
+      aligned. Get everybody on the same page."
+    aplicacao: Client onboarding, campaign launches, agency operations
+    fonte: "[CA-0013] 4. DEEP DIVE - LAUNCH PLAN TEMPLATE.txt"
+
+  - id: JH-CA-FW-002
+    titulo: "Needle Mover Prioritization"
+    descricao: >
+      Framework para priorizar growth ideas baseado em: expected revenue
+      impact, payback period, compound returns, capital allocation, time
+      to complete, stakeholders, risks. Classifica ideias em categorias:
+      sales funnel, CRO, media buying, creative, sales, email marketing.
+      Diferencia great needle movers (hipotese definida + metrica + baseline)
+      de poor needle movers (vago, sem metricas, sem baseline).
+    peso: 0.93
+    citacao: >
+      "To maximize our return on investment, we need to focus on identifying
+      and investing in growth ideas that consistently yield the highest ROI
+      within the shortest timeframe."
+    aplicacao: Strategy meetings, client optimization, agency growth
+    fonte: "[CA-0013] 4. DEEP DIVE - LAUNCH PLAN TEMPLATE.txt"
+
+  - id: JH-CA-FW-003
+    titulo: "Blackstone Lead Tier Framework (MQL/SQL)"
+    descricao: >
+      Sistema de qualificacao de leads em duas camadas: (1) MQL -
+      Marketing Qualified Lead com 2-3 perguntas de qualificacao
+      automaticas (revenue, challenge, time in business) e scoring
+      (-1 a +1). (2) SQL - Sales Qualified Lead com 3-4 perguntas
+      na discovery call. Permite accountability entre marketing e
+      sales com metricas objetivas.
+    peso: 0.92
+    citacao: >
+      "There's the marketing side where the marketing team is held to
+      'We need to hit a MQL rate of 70%'. And then from there, you're
+      going to have sales qualified leads."
+    aplicacao: Sales/marketing alignment, lead scoring, pipeline management
+    fonte: "[CA-0013] 4. DEEP DIVE - LAUNCH PLAN TEMPLATE.txt"
+
+  - id: JH-CA-FW-004
+    titulo: "Creative Testing Campaign Structure (ABO to CBO)"
+    descricao: >
+      Estrutura de duas fases para teste de criativos: (1) Fase de
+      Teste em ABO (Ad Set Budget Optimization) com lookalike 1%
+      dos melhores clientes como seed audience, testando conceitos
+      individualmente. (2) Fase de Scale em CBO (Campaign Budget
+      Optimization) onde apenas winners sao promovidos e budget e
+      distribuido automaticamente. KPI de creative strategist: 20%
+      win rate em conceitos, 50% win rate em scale.
+    peso: 0.94
+    citacao: >
+      "Cool. I rolled out 100 concepts. 20% of them were winners in
+      testing. And then we had five of them were winners at scale."
+    aplicacao: Media buying, creative testing, campaign management
+    fonte: "[CA-0013] 4. DEEP DIVE - LAUNCH PLAN TEMPLATE.txt"
+
+  - id: JH-CA-FW-005
+    titulo: "Senior Media Buyer 30-60-90 Ramp"
+    descricao: >
+      Framework de ramp-up para media buyers: Days 1-30: aprender
+      sistemas, shadowing, forecasting. Days 31-60: tomar conta de
+      calls, comecar forecasting, gerenciar processo criativo.
+      Days 61-90: atingir targets de bonus, manter margens, escalar
+      funnels de sucesso, strategic growth planning.
+    peso: 0.89
+    citacao: >
+      "Days one through 30, we're essentially learning the systems and
+      processes. Days 31 through 60, taking over client calls. Days 61
+      through 90, hitting the full bonus targets."
+    aplicacao: Hiring, onboarding, team scaling, performance management
+    fonte: "[CA-0009] 1 - SENIOR MEDIA BUYER.txt"
+
+  - id: JH-CA-FW-006
+    titulo: "7 Universal Ad Patterns"
+    descricao: >
+      Sete padroes recorrentes em ads de alta performance: (1) Social
+      Proof at Scale - multiplos testemunhos, crowd effect. (2) Before/
+      After Contrast - split screen problem/solution. (3) Authority
+      Borrowing - NBA, CNBC, marcas reconhecidas. (4) Mathematical
+      Specificity - numeros especificos criam credibilidade.
+      (5) Time-Based Simplicity - minimizar commitment percebido.
+      (6) Lifestyle Aspiration - vender o sonho, nao os dolares.
+      (7) Curiosity-Driven Hooks - open loops e "what if".
+    peso: 0.93
+    citacao: >
+      "After analyzing these 20 proven winners, seven recurring patterns
+      emerge. These aren't random tactics - they're strategic frameworks
+      you can apply to your own campaigns."
+    aplicacao: Creative strategy, copywriting, ad production
+    fonte: "[CA-0015] 1. 20 PROVEN AD CREATIVES.txt"
+
+  - id: JH-CA-FW-007
+    titulo: "3C Thumbnail Framework (Clarity, Contrast, Curiosity)"
+    descricao: >
+      Framework de 3 principios para design de thumbnails: (1) Clarity -
+      compreensao em 0.5 segundo, use o "flash test". (2) Contrast -
+      visual (cores complementares), emocional (before/after), conceitual
+      (contradicoes). (3) Curiosity - ambiguidade estrategica, mostrar
+      informacao parcial sem revelar o punchline.
+    peso: 0.88
+    citacao: >
+      "One of the most elegant and practical frameworks for thumbnail
+      design comes from understanding three essential psychological
+      principles: Clarity, Contrast, and Curiosity."
+    aplicacao: Thumbnail design, ad creatives, content packaging
+    fonte: "[CA-0016] 2. THUMBNAIL PSYCHOLOGY GUIDE.txt"
+
+  - id: JH-CA-FW-008
+    titulo: "5 Curiosity Gap Archetypes"
+    descricao: >
+      Cinco formulas comprovadas de thumbnail/hook que geram curiosidade:
+      (1) Before-and-After - transformation tease. (2) Challenge -
+      tensao e suspense. (3) Contradiction - cognitive dissonance como
+      trigger. (4) Novelty - "what the heck is that?" factor.
+      (5) Result - proof aspiracional de possibilidade.
+    peso: 0.87
+    citacao: >
+      "While every thumbnail should create curiosity, different formats
+      create different types of curiosity."
+    aplicacao: Creative ideation, hook writing, ad concepts
+    fonte: "[CA-0016] 2. THUMBNAIL PSYCHOLOGY GUIDE.txt"
+
+  - id: JH-CA-FW-009
+    titulo: "6 Attention Trigger Elements"
+    descricao: >
+      Seis elementos que capturam atencao por explorar padroes
+      cognitivos profundos: (1) Expressive Faces - empathy shortcut.
+      (2) Famous People - reconhecimento instantaneo. (3) Big Numbers -
+      valor quantificado. (4) Familiar Visuals - logos e simbolos.
+      (5) Aesthetics - dopamine hit. (6) Movement/Danger/Drama -
+      hooks de atencao primais.
+    peso: 0.86
+    citacao: >
+      "Certain visual elements have disproportionate power to capture
+      attention because they tap into deep, evolutionary patterns in
+      human cognition."
+    aplicacao: Creative design, thumbnail creation, ad production
+    fonte: "[CA-0016] 2. THUMBNAIL PSYCHOLOGY GUIDE.txt"
+
+  - id: JH-PCVP-FW-001
+    titulo: "60-Second Video Pitch (6 Steps)"
+    descricao: >
+      Framework de 6 passos para pitch de video frio de 60 segundos:
+      (1) Create Agreement - mostrar pesquisa personalizada.
+      (2) Qualifying Agreement - identificar vulnerabilidade sem
+      criticar. (3) Transition to Crisis State - usar tonalidade
+      emocional e evidencias externas. (4) Ask Why/How/Who - transferir
+      responsabilidade para equipe do prospect. (5) The What - apresentar
+      solucao. (6) CTA - duas opcoes que beneficiam voce (nao sim/nao).
+    peso: 0.92
+    citacao: >
+      "Two options like, 'Do you want me to help your team solve this?
+      Or should I talk with you about this?' That helps with having
+      two decisions that are not yes and no."
+    aplicacao: Cold outreach, agency prospecting, DM sales
+    fonte: "[PCVP-0001] 1. POWER OF COLD VIDEO..txt"
+
+  - id: JH-PCVP-FW-002
+    titulo: "Perfect Cold Video Pitch (7-12 min)"
+    descricao: >
+      Framework do pitch de video frio completo: (1) Atencao visual
+      unica (imprimir foto do prospect). (2) Alinhamento cultural
+      (usar linguagem do prospect). (3) Credibilidade (clientes
+      anteriores em bullet point format). (4) Screen share com tudo
+      pre-aberto (quick shooter). (5) Demonstracao tecnica na tela.
+      (6) Resultado e empoderamento. (7) Oferta com preco upfront
+      + alternativa de DIY.
+    peso: 0.91
+    citacao: >
+      "I printed off your face so I'd get your attention more than
+      just other people who send you videos. Notice how I have things
+      ready. It's just boom boom."
+    aplicacao: High-ticket cold outreach, agency sales, B2B prospecting
+    fonte: "[PCVP-0002] 2. SELLING ADVERTISING..txt"
+
+  - id: JH-CA-FW-010
+    titulo: "Creative Ideation Template"
+    descricao: >
+      Sistema de ideacao criativa com tracking completo: idea date,
+      submitter, client, creative category (control variations, data-
+      driven tests, innovation tests), stage of awareness, lead type,
+      angle, core hook, core message, approval status, supporting
+      proof points, target pain points. Permite rastrear winners
+      de volta ao stage of awareness e lead type para replicar.
+    peso: 0.89
+    citacao: >
+      "The whole purpose here is to make sure we track this down to key
+      details, so we can trace this back to... whenever we have winners,
+      we trace it back to what was the lead type, what was the stage
+      of awareness."
+    aplicacao: Creative process, content production, campaign management
+    fonte: "[CA-0014] 1 - CREATIVE IDEATION TEMPLATE.txt"
+
+  - id: JH-PCVP-FW-003
+    titulo: "Strategic Referral Network (Middleman Model)"
+    descricao: >
+      Framework para construir rede de fornecedores baratos que entregam
+      servicos que voce revende com markup significativo. Estrutura:
+      (1) Identificar servico resultado-driven com garantia de entrega.
+      (2) Encontrar fornecedor(es) baratos (Fiverr, GMBB Genie, etc.).
+      (3) Empacotar como servico premium com sua marca. (4) Vender com
+      estrutura 50% upfront / 50% apos entrega. (5) Usar como trust-building
+      transaction para abrir porta a servicos maiores. Servicos ideais:
+      Google Listings, PR submissions, thumbnails, Yelp/Angie's List setup.
+    peso: 0.90
+    citacao: >
+      "There are so many different people out there who do these, you know,
+      pay us after we get you listed. I just want to be clear, you can go to
+      this guy, and there's plenty of other people out there who sell, I mean,
+      just dirt cheap the ability to verify people and their business."
+    aplicacao: New agency startup, service bundling, low-risk revenue, trust building
+    fonte: "[PCVP-0009] 9. GOOGLE LISTING..txt"
+
+  - id: JH-PCVP-FW-004
+    titulo: "Multi-Platform Listing Service Bundle"
+    descricao: >
+      Framework para vender pacote de presenca digital multi-plataforma:
+      (1) Gap Analysis - mostrar ao prospect que nao aparece no Google,
+      Yelp, Angie's List, HomeAdvisor. (2) Visual Proof - usar resultados
+      de busca de competidores como demonstracao. (3) Bundle Pricing -
+      cobrar $1,000 por pacote completo (custo real: $150-$650 via
+      fornecedores). (4) Split Payment - 50% upfront, 50% apos entrega.
+      (5) Trust Gateway - posicionar como primeiro passo antes de servicos
+      maiores de marketing. Target: task labor businesses (lawn care,
+      contractors, plumbers) que nao sao digitalmente savvy.
+    peso: 0.87
+    citacao: >
+      "I looked you up on Yelp and I couldn't find you there either. I then
+      went to Angie's List and Home Advisor and flat out, John, I just I
+      couldn't find your information online."
+    aplicacao: Local business marketing, service packaging, cold outreach to trades
+    fonte: "[PCVP-0009] 9. GOOGLE LISTING..txt"
+
+
+# ============================================================================
+# LAYER 5: METODOLOGIAS (10 new)
+# ============================================================================
+metodologias:
+
+  - id: JH-CA-MET-001
+    titulo: "Launch Plan Execution (14-Day Process)"
+    descricao: >
+      Processo completo de lancamento de cliente em 14 dias:
+      Day 1-3: Executive summary, product mapping, tier clients,
+      buyer avatars. Day 4-7: Competitor analysis, funnel review,
+      tracking setup, baseline documentation. Day 8-10: Projections
+      (worst/avg/best via GERU), creative strategy, scripts.
+      Day 11-13: Campaign rollout, audience setup, UTM config.
+      Day 14: Risks/mitigations, needle movers, monthly targets.
+      Post-launch: Weekly pulse, monthly needle mover sessions.
+    peso: 0.94
+    citacao: >
+      "This launch plan doc has been evolved over the past like six or
+      seven years. If you start using it, you will get better, you will
+      have better launches, and you will waste way less money up front."
+    aplicacao: Client onboarding, campaign launches, agency scaling
+    fonte: "[CA-0013] 4. DEEP DIVE - LAUNCH PLAN TEMPLATE.txt"
+
+  - id: JH-CA-MET-002
+    titulo: "Concept Testing & Scale Process"
+    descricao: >
+      Processo de teste de criativos em etapas: (1) Definir CPA target
+      e calcular budget por conceito (3.5-4x CPA). (2) Lancar conceitos
+      em ABO com seed audience (1% LAL best customers). (3) Rodar por
+      7 dias. (4) Definir winner: CPA dentro do target. (5) Calcular
+      concept win rate (target: 20%). (6) Promover winners para CBO.
+      (7) Medir winners at scale (target: 50% of winners). (8) Criar
+      variacoes dos scale winners.
+    peso: 0.93
+    citacao: >
+      "Defining these and understanding what that is. You have variations.
+      You need to define what a winner is and this is going to guide you
+      for making sure everything is statistically significant."
+    aplicacao: Creative testing, media buying, scaling
+    fonte: "[CA-0013] 4. DEEP DIVE - LAUNCH PLAN TEMPLATE.txt"
+
+  - id: JH-CA-MET-003
+    titulo: "Baseline Documentation Method"
+    descricao: >
+      Metodo para documentar baseline antes de qualquer otimizacao:
+      (1) Capturar metricas atuais (CPC, CVR, CPA, ROAS, AOV).
+      (2) Gravar Loom como prova do baseline. (3) Documentar fonte
+      dos dados. (4) Criar projections em GERU com worst/avg/best.
+      (5) Apresentar ao cliente/time para alinhamento. (6) Usar como
+      referencia para medir progresso. Sem baseline = sem prova de
+      melhoria.
+    peso: 0.91
+    citacao: >
+      "We usually shoot a little Loom. Because a platform will make an
+      update or something will change and then you'll be like, 'Oh, I
+      could have sworn it was $655.'"
+    aplicacao: Client reporting, campaign optimization, expectation management
+    fonte: "[CA-0013] 4. DEEP DIVE - LAUNCH PLAN TEMPLATE.txt"
+
+  - id: JH-CA-MET-004
+    titulo: "Needle Mover Session (Monthly)"
+    descricao: >
+      Sessao mensal de priorizacao de growth ideas: (1) Definir
+      hipotese com racional. (2) Identificar metrica especifica
+      a melhorar. (3) Documentar baseline com Loom. (4) Projetar
+      nova metrica. (5) Calcular impacto financeiro. (6) Estimar
+      horas para completar. (7) Avaliar riscos. (8) ICE scoring.
+      (9) Alocar capital. Serve tambem para avaliar capacidade
+      estrategica do time - quem propoe bons needle movers tem
+      potencial para crescer na agencia.
+    peso: 0.90
+    citacao: >
+      "This is a very big prerequisite that I'm looking for. Are people
+      coming up with good needle movers? Do they understand marketing?
+      Are they strategic?"
+    aplicacao: Agency strategy, client optimization, team development
+    fonte: "[CA-0013] 4. DEEP DIVE - LAUNCH PLAN TEMPLATE.txt"
+
+  - id: JH-CA-MET-005
+    titulo: "Risk Mitigation Protocol"
+    descricao: >
+      Protocolo de identificacao e mitigacao de riscos para lancamentos:
+      (1) Listar top 5 riscos por probabilidade x impacto. (2) Para
+      cada risco: categorizar, atribuir owner, definir indicador,
+      avaliar impacto financeiro, definir frequencia de monitoramento.
+      (3) Criar estrategia de mitigacao com deadline. (4) Debrief
+      mensal para revisar. Forca o time a pensar estrategicamente
+      sobre o que pode dar errado.
+    peso: 0.89
+    citacao: >
+      "When you're dealing with newer people on your team, they're not
+      going to see the same things that you see. This allows you to
+      really map it all out and have your team get better."
+    aplicacao: Campaign launches, risk management, team training
+    fonte: "[CA-0013] 4. DEEP DIVE - LAUNCH PLAN TEMPLATE.txt"
+
+  - id: JH-CA-MET-006
+    titulo: "Low-Ticket to Backend Ascension"
+    descricao: >
+      Metodologia para escalar via low-ticket front-end com backend:
+      (1) Front-end $29-$97. (2) Bump offer recorrente ($47/mo).
+      (3) OTOs sequenciais. (4) Medir liquidation rate e AOV
+      ao longo de day 1, day 60, day 90. (5) Nurture buyers para
+      book calls. (6) Backend high-ticket ($8K-$25K). (7) Track
+      TCV (Total Contract Value) ROAS separadamente do front-end.
+      Case Freedom Funders: front-end loss transformou em $38K
+      profit/month via backend.
+    peso: 0.91
+    citacao: >
+      "The primary goal is to liquidate maximum ad spend on day one while
+      funneling leads into the backend offer."
+    aplicacao: Funnel architecture, offer design, revenue scaling
+    fonte: "[CA-0012] 3 - FREEDOM FUNDERS LAUNCH PLAN.txt"
+
+  - id: JH-PCVP-MET-001
+    titulo: "60-Second Video Pitch Execution"
+    descricao: >
+      Execucao do pitch de 60 segundos: (1) Pesquisar perfil 30-60seg.
+      (2) Gravar vertical no celular. (3) Seguir 6 steps: agreement,
+      qualifying agreement, crisis state, why/how/who, solution, CTA
+      com 2 opcoes. (4) Enviar via DM no Instagram/Facebook. (5) Usar
+      Iconosquare para encontrar leads. (6) Meta: 100 videos em 2 horas.
+      (7) Usar como cold outreach, warm follow-up, ou pos-pitch.
+    peso: 0.90
+    citacao: >
+      "That's a 60-second video pitch. You can slang those all day and
+      as soon as you keep doing them, you'll get better and better."
+    aplicacao: Agency prospecting, cold outreach, sales scaling
+    fonte: "[PCVP-0001] 1. POWER OF COLD VIDEO..txt"
+
+  - id: JH-PCVP-MET-002
+    titulo: "Perfect Cold Video Pitch Production"
+    descricao: >
+      Producao do pitch de video frio completo (7-12 min): (1) Pesquisar
+      prospect profundamente (website, videos, social). (2) Preparar
+      todos os materiais pre-abertos em tabs. (3) Usar Camtasia (nao
+      Loom) para mover webcam. (4) Imprimir foto do prospect. (5) Abrir
+      com alinhamento cultural. (6) Credenciais em bullet format rapido.
+      (7) Transicao instantanea para PowerPoint de portfolio. (8) Demo
+      ao vivo no ads manager/SpyFu. (9) Mencionar preco upfront.
+      (10) Empoderar para fazer sozinho. (11) Fechar com elemento
+      memoravel.
+    peso: 0.91
+    citacao: >
+      "Think of those videos where people have the quick shooter on their
+      hip and they just pull it out and go. You want to be as fast as
+      possible in your ability to rotate between tabs."
+    aplicacao: High-ticket B2B sales, agency acquisition, consulting
+    fonte: "[PCVP-0002] 2. SELLING ADVERTISING..txt"
+
+  - id: JH-CA-MET-007
+    titulo: "Thumbnail A/B Testing Methodology"
+    descricao: >
+      Metodologia sistematica para teste de thumbnails: (1) Criar 3-5
+      visual hooks diferentes. (2) Parear cada hook com thumbnail
+      correspondente. (3) Manter mesmo text hook em todas variacoes.
+      (4) Rodar como Dynamic Creative Tests (DCT) com budgets baixos.
+      (5) Analisar qual hook gera melhor engagement velocity. (6)
+      Escalar winner. (7) Medir CTR + AVD (Average View Duration).
+      (8) Flash test: mostrar 1 segundo a alguem e perguntar sobre
+      o que e. Se nao souber, simplificar.
+    peso: 0.87
+    citacao: >
+      "By changing only one element at a time - either visual hook or text
+      hook - you learn precisely what drives performance."
+    aplicacao: YouTube ads, Facebook ads, content marketing, creative optimization
+    fonte: "[CA-0016] 2. THUMBNAIL PSYCHOLOGY GUIDE.txt"
+
+  - id: JH-PCVP-MET-003
+    titulo: "Demographic-Adapted Communication Method"
+    descricao: >
+      Metodologia para adaptar comunicacao de pitch para prospects menos
+      digitalmente savvy (negocios tradicionais, demograficos mais velhos):
+      (1) Identificar nivel digital do prospect (se nao esta no Google,
+      provavelmente nao e digital-savvy). (2) NAO dizer "link na descricao" -
+      eles nao vao saber o que e. (3) Verbalizar TODAS as informacoes de
+      contato no video (telefone, email, nome). (4) Repetir numero de telefone
+      2-3 vezes, devagar, como se estivesse deixando voicemail nos anos 2000.
+      (5) Falar mais devagar do que o normal. (6) Dar tempo para a pessoa
+      anotar. (7) Reiterar informacoes simples que parecem obvias.
+    peso: 0.86
+    citacao: >
+      "When you say it's in the description below, they're likely going to have
+      no idea what the hell you're talking about. Say your phone number like two
+      to three times, nice and slow, as if the person's writing it down."
+    aplicacao: Cold outreach to traditional businesses, local marketing, older demographics
+    fonte: "[PCVP-0009] 9. GOOGLE LISTING..txt"
+
+
+# ============================================================================
+# METADATA
+# ============================================================================
+metadata:
+  versao: "2.0.0"
+  data_extracao: "2026-03-03"
+  data_atualizacao: "2026-03-03"
+  extraido_por: "JARVIS DNA Extractor"
+  total_arquivos_lidos: 28
+  total_arquivos_na_fonte: 28
+  arquivos_lidos_sessao_1: 16
+  arquivos_lidos_sessao_2: 12
+  arquivos_com_conteudo_JH_direto: 28
+  arquivos_client_ad_scripts: 7
+  nota: >
+    All 28 files from Client Accelerator and PCVP programs have been read.
+    CA-0002 through CA-0008 (7 files) are client ad scripts reviewed by JH -
+    DNA extracted from JH commentary/context only. CA-0009 through CA-0016
+    (8 files) are direct JH/CA team teaching content. PCVP-0001 through
+    PCVP-0013 (13 files) are cold video pitch training modules. PCVP files
+    5-13 follow the same pitch framework for different services but contain
+    unique business models (Strategic Referral Network, Middleman Model),
+    unique heuristics (chatbot vs email metrics, technology evolution),
+    and unique communication strategies (demographic-adapted communication).
+    13 genuinely new elements were extracted from PCVP 5-13 in the second
+    reading pass.
+  dedup_against:
+    filosofias: 22
+    modelos_mentais: 20
+    heuristicas: 30
+    frameworks: 25
+    metodologias: 18
+    plus_30dc_new_elements: 44
+  new_elements:
+    filosofias: 9
+    modelos_mentais: 9
+    heuristicas: 21
+    frameworks: 14
+    metodologias: 10
+    total: 63
+  pcvp_5_13_additions:
+    filosofias: 1
+    modelos_mentais: 2
+    heuristicas: 7
+    frameworks: 2
+    metodologias: 1
+    total: 13
+  arquivos_processados:
+    ca_root:
+      - "[CA-0001] 0 - CLIENT ACCELERATOR INTRO.txt"
+      - "[CA-0002] COSS - CHIROPRACTOR ADS.txt"
+      - "[CA-0003] COSS - DENTIST ADS.txt"
+      - "[CA-0004] COSS - ECOMMERCE ADS.txt"
+      - "[CA-0005] COSS - INFO PRODUCT ADS.txt"
+      - "[CA-0006] COSS - LOCAL SERVICE BUSINESS ADS.txt"
+      - "[CA-0007] COSS - REAL ESTATE ADS.txt"
+      - "[CA-0008] COSS - RESTAURANT ADS.txt"
+      - "[CA-0009] 1 - SENIOR MEDIA BUYER.txt"
+      - "[CA-0010] 1 - TEAM STRUCTURE.txt"
+      - "[CA-0011] 2 - CHERRINGTON MEDIA LAUNCH PLAN.txt"
+      - "[CA-0012] 3 - FREEDOM FUNDERS LAUNCH PLAN.txt"
+      - "[CA-0013] 4. DEEP DIVE - LAUNCH PLAN TEMPLATE.txt"
+      - "[CA-0014] 1 - CREATIVE IDEATION TEMPLATE.txt"
+      - "[CA-0015] 1. 20 PROVEN AD CREATIVES.txt"
+      - "[CA-0016] 2. THUMBNAIL PSYCHOLOGY GUIDE.txt"
+    pcvp:
+      - "[PCVP-0001] 1. POWER OF COLD VIDEO..txt"
+      - "[PCVP-0002] 2. SELLING ADVERTISING..txt"
+      - "[PCVP-0003] 3. SELLING MEDIA BUYING..txt"
+      - "[PCVP-0004] 4. SELLING SEO..txt"
+      - "[PCVP-0005] 5. FACEBOOK AND INSTAGRAM..txt"
+      - "[PCVP-0006] 6. LONG FORM CONTENT CREATION..txt"
+      - "[PCVP-0007] 7. ANIMATION..txt"
+      - "[PCVP-0008] 8. GRAPHICS DESIGN..txt"
+      - "[PCVP-0009] 9. GOOGLE LISTING..txt"
+      - "[PCVP-0010] 10. REDOING THUMBNAILS..txt"
+      - "[PCVP-0011] 11. SELL FUNNELS..txt"
+      - "[PCVP-0012] 12. CHATBOTS..txt"
+      - "[PCVP-0013] 13. PR SERVICES..txt"

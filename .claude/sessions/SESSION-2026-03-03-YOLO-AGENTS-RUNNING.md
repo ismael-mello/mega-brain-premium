@@ -31,15 +31,15 @@ Merge 30DC+CA (107 elementos) → JH DNA + Criar EDC DNA (80 elementos) + EDC Ag
 - CONFIG.yaml: Update counts → filosofias:39, mm:36, heur:63, fw:48, met:36, total:222
 
 ### Agente 2 (EDC Create - a93c903bcde74f7cd):
-- Lendo: knowledge/sources/ead-closer/DNA-EAD-CLOSER.yaml
-- Criando: knowledge/dna/persons/ead-closer/HEURISTICAS.yaml
-- Criando: knowledge/dna/persons/ead-closer/FRAMEWORKS.yaml
-- Criando: knowledge/dna/persons/ead-closer/METODOLOGIAS.yaml
-- Criando: knowledge/dna/persons/ead-closer/CONFIG.yaml
-- Criando: agents/persons/ead-closer/AGENT.md
-- Criando: agents/persons/ead-closer/SOUL.md
-- Criando: agents/persons/ead-closer/MEMORY.md
-- Criando: agents/persons/ead-closer/DNA-CONFIG.yaml
+- Lendo: knowledge/external/sources/ead-closer/DNA-EAD-CLOSER.yaml
+- Criando: knowledge/external/dna/persons/ead-closer/HEURISTICAS.yaml
+- Criando: knowledge/external/dna/persons/ead-closer/FRAMEWORKS.yaml
+- Criando: knowledge/external/dna/persons/ead-closer/METODOLOGIAS.yaml
+- Criando: knowledge/external/dna/persons/ead-closer/CONFIG.yaml
+- Criando: agents/external/ead-closer/AGENT.md
+- Criando: agents/external/ead-closer/SOUL.md
+- Criando: agents/external/ead-closer/MEMORY.md
+- Criando: agents/external/ead-closer/DNA-CONFIG.yaml
 
 ---
 
@@ -59,7 +59,7 @@ Merge 30DC+CA (107 elementos) → JH DNA + Criar EDC DNA (80 elementos) + EDC Ag
 | EDC FRAMEWORKS.yaml | ❌ TODO | ✅ criado |
 | EDC METODOLOGIAS.yaml | ❌ TODO | ✅ criado |
 | EDC CONFIG.yaml | ❌ TODO | ✅ criado |
-| agents/persons/ead-closer/ | ❌ TODO (4 files) | ✅ criado |
+| agents/external/ead-closer/ | ❌ TODO (4 files) | ✅ criado |
 
 ---
 
@@ -79,9 +79,9 @@ Merge 30DC+CA (107 elementos) → JH DNA + Criar EDC DNA (80 elementos) + EDC Ag
 1. `/resume` para ver este estado
 2. Verificar agentes:
    ```
-   ls knowledge/dna/persons/jeremy-haynes/HEURISTICAS.yaml
-   grep -c "id:" knowledge/dna/persons/jeremy-haynes/HEURISTICAS.yaml  # esperado: 63
-   ls agents/persons/ead-closer/
+   ls knowledge/external/dna/persons/jeremy-haynes/HEURISTICAS.yaml
+   grep -c "id:" knowledge/external/dna/persons/jeremy-haynes/HEURISTICAS.yaml  # esperado: 63
+   ls agents/external/ead-closer/
    ```
 3. Se agentes falharam: re-executar manualmente os merges
 4. Se agentes OK: continuar com Task 5a (JH agent files update)

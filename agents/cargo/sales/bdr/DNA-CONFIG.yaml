@@ -68,7 +68,7 @@ dna_sources:
 
   agregado:
     - dominio: "outbound"
-      path: "/knowledge/dna/AGGREGATED/AGG-OUTBOUND.yaml"
+      path: "/knowledge/external/dna/AGGREGATED/AGG-OUTBOUND.yaml"
       peso: 0.90
       quando_usar: "Estratégias de prospecção outbound"
       insight_ids:
@@ -76,12 +76,12 @@ dna_sources:
         - "OUT002"
 
     - dominio: "vendas"
-      path: "/knowledge/dna/AGGREGATED/AGG-VENDAS.yaml"
+      path: "/knowledge/external/dna/AGGREGATED/AGG-VENDAS.yaml"
       peso: 0.80
 
     # ─── AIOS Domain DNAs (added 2026-03-12) ───
     - dominio: "copywriting"
-      path: "/knowledge/dna/AGGREGATED/AGG-COPYWRITING.yaml"
+      path: "/knowledge/external/dna/AGGREGATED/AGG-COPYWRITING.yaml"
       peso: 0.55
       quando_usar: "Copy de outreach, cold emails, scripts de prospecção"
       justificativa: "BDR escreve mensagens de prospecção — copy melhora taxa de resposta"
@@ -98,7 +98,7 @@ dna_sources:
 
   primario:
     - pessoa: "JORDAN-LEE"
-      path: "/knowledge/dna/persons/JORDAN-LEE"
+      path: "/knowledge/external/dna/persons/JORDAN-LEE"
       raiz: "/inbox/JORDAN LEE (AI BUSINESS)/"                              # RASTREABILIDADE
       dominios_usados:
         - "outbound"
@@ -124,7 +124,7 @@ dna_sources:
             - "Consistência bate intensidade"
 
     - pessoa: "cole-gordon"
-      path: "/knowledge/dna/persons/cole-gordon"
+      path: "/knowledge/external/dna/persons/cole-gordon"
       raiz: "/inbox/COLE GORDON/"                              # RASTREABILIDADE
       dominios_usados:
         - "qualificacao"
@@ -147,7 +147,7 @@ dna_sources:
             - "50% chance de close mínimo para agendar"
 
     - pessoa: "alex-hormozi"
-      path: "/knowledge/dna/persons/alex-hormozi"
+      path: "/knowledge/external/dna/persons/alex-hormozi"
       raiz: "/inbox/alex hormozi/"                        # RASTREABILIDADE
       dominios_usados:
         - "farm_system"
@@ -221,7 +221,7 @@ dna_sources:
 # ═══════════════════════════════════════════════════════════════════════════════
 
 conflitos:
-  path: "/knowledge/dna/MAPS/MAP-CONFLITOS.yaml"
+  path: "/knowledge/external/dna/MAPS/MAP-CONFLITOS.yaml"
   descricao: "Mapa de tensões entre fontes com resoluções documentadas"
 
   conflitos_conhecidos:

@@ -251,7 +251,7 @@
 │  ├── Churn Elimination                                                       │
 │  ├── LTV Multiplication                                                      │
 │  └── Relationship Thinking                                                   │
-│  Path: /knowledge/dna/persons/alex-hormozi                                │
+│  Path: /knowledge/external/dna/persons/alex-hormozi                                │
 │  Justificativa: Principal fonte para modelo de entrega e retencao            │
 │                                                                              │
 │  ═══════════════════════════════════════════════════════════════════════════ │
@@ -261,7 +261,7 @@
 │  ├── Expansion Revenue                                                       │
 │  ├── Customer Journey                                                        │
 │  └── Account Growth                                                          │
-│  Path: /knowledge/dna/persons/cole-gordon                                 │
+│  Path: /knowledge/external/dna/persons/cole-gordon                                 │
 │  Justificativa: Expertise em expansion revenue e upsell timing               │
 │                                                                              │
 │  ═══════════════════════════════════════════════════════════════════════════ │

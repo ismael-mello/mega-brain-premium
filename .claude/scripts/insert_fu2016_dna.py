@@ -3,7 +3,7 @@ Insert Funnel University 2016 DNA elements into Russell Brunson DNA.yaml
 40 elements: 10 PHI + 7 MM + 12 HEUR + 6 FW + 5 MET
 """
 
-with open('C:/Users/ISMAEL_MELLO/Downloads/mega-brain-premium/knowledge/dna/persons/russell-brunson/DNA.yaml', 'r', encoding='utf-8') as f:
+with open('C:/Users/ISMAEL_MELLO/Downloads/mega-brain-premium/knowledge/external/dna/persons/russell-brunson/DNA.yaml', 'r', encoding='utf-8') as f:
     content = f.read()
 
 fu_phi = """
@@ -14,7 +14,7 @@ fu_phi = """
         tags: ["content-marketing", "slo", "fu2016", "self-liquidating"]
         confidence: 0.95
         module_sources: [FU2016]
-        raw_source: "knowledge/sources/russell-brunson/raw/17._Funnel_University_2016/"
+        raw_source: "knowledge/external/sources/russell-brunson/raw/17._Funnel_University_2016/"
 
       - id: "PHI-RB-121"
         statement: "There are only two reasons to publish content: (1) to find your voice -- even if nobody shows up, you're becoming better; (2) to discover what your audience responds to -- the topics that get engagement tell you what to do more of. Publishing is a feedback loop, not just a broadcast."
@@ -22,7 +22,7 @@ fu_phi = """
         tags: ["content-marketing", "publishing", "fu2016"]
         confidence: 0.92
         module_sources: [FU2016]
-        raw_source: "knowledge/sources/russell-brunson/raw/17._Funnel_University_2016/"
+        raw_source: "knowledge/external/sources/russell-brunson/raw/17._Funnel_University_2016/"
 
       - id: "PHI-RB-122"
         statement: "Cold traffic requires a bridge -- you cannot sell directly from cold interest to your offer. Someone who just voted to impeach Obama won't sign up for ClickFunnels. There's nothing connecting those two things. You must build a bridge that takes them from where they are emotionally to where you need them to be."
@@ -30,7 +30,7 @@ fu_phi = """
         tags: ["cold-traffic", "bridge", "fu2016"]
         confidence: 0.95
         module_sources: [FU2016]
-        raw_source: "knowledge/sources/russell-brunson/raw/17._Funnel_University_2016/"
+        raw_source: "knowledge/external/sources/russell-brunson/raw/17._Funnel_University_2016/"
 
       - id: "PHI-RB-123"
         statement: "The best funnels push people AWAY. Don't try to appeal to everyone -- create a funnel that filters for your dream client. If some people are offended, if some people self-select out, that's working AS DESIGNED. The goal is the core few who are exactly right, not the masses who are sort of right."
@@ -38,7 +38,7 @@ fu_phi = """
         tags: ["filtering", "positioning", "high-ticket", "fu2016"]
         confidence: 0.95
         module_sources: [FU2016]
-        raw_source: "knowledge/sources/russell-brunson/raw/17._Funnel_University_2016/"
+        raw_source: "knowledge/external/sources/russell-brunson/raw/17._Funnel_University_2016/"
 
       - id: "PHI-RB-124"
         statement: "You must sell the desire at every single step. Don't just say give me your email and send you a documentary. Pitch it. Create desire for why they NEED to watch it. If there's no desire, they won't give the email, and they certainly won't watch 2 hours. Every page is a sales page."
@@ -46,7 +46,7 @@ fu_phi = """
         tags: ["desire", "high-ticket", "documentary-funnel", "fu2016"]
         confidence: 0.95
         module_sources: [FU2016]
-        raw_source: "knowledge/sources/russell-brunson/raw/17._Funnel_University_2016/"
+        raw_source: "knowledge/external/sources/russell-brunson/raw/17._Funnel_University_2016/"
 
       - id: "PHI-RB-125"
         statement: "When you have a buyer at a certain price point, you MUST sell them the next thing. A $5,000 buyer has more money to spend. A $10,000 Warrior Week attendee will buy a $50,000 program. If you don't have a next offer, you're leaving massive money on the table. The moment of highest conversion is immediately after an amazing experience."
@@ -54,7 +54,7 @@ fu_phi = """
         tags: ["backend", "offer-stack", "high-ticket", "fu2016"]
         confidence: 0.95
         module_sources: [FU2016]
-        raw_source: "knowledge/sources/russell-brunson/raw/17._Funnel_University_2016/"
+        raw_source: "knowledge/external/sources/russell-brunson/raw/17._Funnel_University_2016/"
 
       - id: "PHI-RB-126"
         statement: "Sell one specific thing from your library, not the whole library. Nobody wants to pay for a library card -- they want the ONE book they need right now. Pull out individual pieces of your membership/content and sell each as its own front-end offer. Different pieces attract different market segments."
@@ -62,7 +62,7 @@ fu_phi = """
         tags: ["continuity", "splinter-offer", "membership", "fu2016"]
         confidence: 0.95
         module_sources: [FU2016]
-        raw_source: "knowledge/sources/russell-brunson/raw/17._Funnel_University_2016/"
+        raw_source: "knowledge/external/sources/russell-brunson/raw/17._Funnel_University_2016/"
 
       - id: "PHI-RB-127"
         statement: "Indoctrination before the sale is the key to high-ticket. Don't sell on the first touch. Build culture, community, belonging FIRST. Let them watch hours of content, fill out applications, go through a process -- by the time they talk to sales, they're already sold. The sale is just the formality."
@@ -70,7 +70,7 @@ fu_phi = """
         tags: ["indoctrination", "high-ticket", "pre-selling", "fu2016"]
         confidence: 0.95
         module_sources: [FU2016]
-        raw_source: "knowledge/sources/russell-brunson/raw/17._Funnel_University_2016/"
+        raw_source: "knowledge/external/sources/russell-brunson/raw/17._Funnel_University_2016/"
 
       - id: "PHI-RB-128"
         statement: "People don't just want to BUY your thing -- they want to BELONG to something. The most powerful funnels create a movement, a tribe, an identity. When they join Warrior Week, they're not buying training -- they're becoming a Warrior. Build your funnel around belonging, not just benefit."
@@ -78,7 +78,7 @@ fu_phi = """
         tags: ["belonging", "tribe", "community", "fu2016"]
         confidence: 0.95
         module_sources: [FU2016]
-        raw_source: "knowledge/sources/russell-brunson/raw/17._Funnel_University_2016/"
+        raw_source: "knowledge/external/sources/russell-brunson/raw/17._Funnel_University_2016/"
 
       - id: "PHI-RB-129"
         statement: "The goal of a continuity self-liquidating offer is to cover ad costs with the backend upsell, not the recurring billing. Build in a $300-400 high-ticket upsell right after the $1 trial. The trial builds the membership. The high ticket pays for the ads. Any continuity revenue is pure profit on top."
@@ -86,7 +86,7 @@ fu_phi = """
         tags: ["continuity", "slo", "fu2016", "economics"]
         confidence: 0.95
         module_sources: [FU2016]
-        raw_source: "knowledge/sources/russell-brunson/raw/17._Funnel_University_2016/"
+        raw_source: "knowledge/external/sources/russell-brunson/raw/17._Funnel_University_2016/"
 """
 
 fu_mm = """
@@ -97,7 +97,7 @@ fu_mm = """
         tags: ["continuity", "membership", "splinter", "fu2016"]
         confidence: 0.95
         module_sources: [FU2016]
-        raw_source: "knowledge/sources/russell-brunson/raw/17._Funnel_University_2016/"
+        raw_source: "knowledge/external/sources/russell-brunson/raw/17._Funnel_University_2016/"
 
       - id: "MM-RB-104"
         name: "Food Court Test (Cold Traffic)"
@@ -105,7 +105,7 @@ fu_mm = """
         tags: ["cold-traffic", "offer-design", "fu2016"]
         confidence: 0.95
         module_sources: [FU2016]
-        raw_source: "knowledge/sources/russell-brunson/raw/17._Funnel_University_2016/"
+        raw_source: "knowledge/external/sources/russell-brunson/raw/17._Funnel_University_2016/"
 
       - id: "MM-RB-105"
         name: "Documentary Funnel Model"
@@ -113,7 +113,7 @@ fu_mm = """
         tags: ["documentary-funnel", "high-ticket", "fu2016"]
         confidence: 0.95
         module_sources: [FU2016]
-        raw_source: "knowledge/sources/russell-brunson/raw/17._Funnel_University_2016/"
+        raw_source: "knowledge/external/sources/russell-brunson/raw/17._Funnel_University_2016/"
 
       - id: "MM-RB-106"
         name: "Self-Liquidating Content Loop"
@@ -121,7 +121,7 @@ fu_mm = """
         tags: ["content-marketing", "slo", "flywheel", "fu2016"]
         confidence: 0.95
         module_sources: [FU2016]
-        raw_source: "knowledge/sources/russell-brunson/raw/17._Funnel_University_2016/"
+        raw_source: "knowledge/external/sources/russell-brunson/raw/17._Funnel_University_2016/"
 
       - id: "MM-RB-107"
         name: "Dream 100 as Content Distribution"
@@ -129,7 +129,7 @@ fu_mm = """
         tags: ["dream-100", "content-distribution", "fu2016"]
         confidence: 0.95
         module_sources: [FU2016]
-        raw_source: "knowledge/sources/russell-brunson/raw/17._Funnel_University_2016/"
+        raw_source: "knowledge/external/sources/russell-brunson/raw/17._Funnel_University_2016/"
 
       - id: "MM-RB-108"
         name: "Controversial Optin Model"
@@ -137,7 +137,7 @@ fu_mm = """
         tags: ["optin", "survey", "cold-traffic", "fu2016"]
         confidence: 0.92
         module_sources: [FU2016]
-        raw_source: "knowledge/sources/russell-brunson/raw/17._Funnel_University_2016/"
+        raw_source: "knowledge/external/sources/russell-brunson/raw/17._Funnel_University_2016/"
 
       - id: "MM-RB-109"
         name: "Positioning by Exclusion"
@@ -145,7 +145,7 @@ fu_mm = """
         tags: ["positioning", "exclusion", "high-ticket", "fu2016"]
         confidence: 0.95
         module_sources: [FU2016]
-        raw_source: "knowledge/sources/russell-brunson/raw/17._Funnel_University_2016/"
+        raw_source: "knowledge/external/sources/russell-brunson/raw/17._Funnel_University_2016/"
 """
 
 fu_heur = """
@@ -155,84 +155,84 @@ fu_heur = """
         tags: ["invisible-funnel", "prepay", "benchmarks", "fu2016"]
         confidence: 0.92
         module_sources: [FU2016]
-        raw_source: "knowledge/sources/russell-brunson/raw/17._Funnel_University_2016/"
+        raw_source: "knowledge/external/sources/russell-brunson/raw/17._Funnel_University_2016/"
 
       - id: "HEUR-RB-163"
         rule: "Invisible Funnel upsell conversion: ~18% of Invisible Funnel buyers will take an upsell offer immediately after registering. Even on a free/pay-if-you-love-it offer, 18% upsell conversion is achievable."
         tags: ["invisible-funnel", "upsell", "benchmarks", "fu2016"]
         confidence: 0.90
         module_sources: [FU2016]
-        raw_source: "knowledge/sources/russell-brunson/raw/17._Funnel_University_2016/"
+        raw_source: "knowledge/external/sources/russell-brunson/raw/17._Funnel_University_2016/"
 
       - id: "HEUR-RB-164"
         rule: "Invisible Funnel show-up rate: 85-90% vs ~30% for standard free webinars. The credit card on file creates accountability. People show up because they feel committed even if they haven't paid yet."
         tags: ["invisible-funnel", "show-rate", "webinar", "fu2016"]
         confidence: 0.92
         module_sources: [FU2016]
-        raw_source: "knowledge/sources/russell-brunson/raw/17._Funnel_University_2016/"
+        raw_source: "knowledge/external/sources/russell-brunson/raw/17._Funnel_University_2016/"
 
       - id: "HEUR-RB-165"
         rule: "Documentary pre-purchase consumption: Average Warrior Week prospect watches 2-hour documentary 4 times before applying = 8-10+ hours of content consumption before becoming a lead. High-ticket buyers self-qualify through consumption, not forms."
         tags: ["documentary-funnel", "high-ticket", "consumption", "fu2016"]
         confidence: 0.90
         module_sources: [FU2016]
-        raw_source: "knowledge/sources/russell-brunson/raw/17._Funnel_University_2016/"
+        raw_source: "knowledge/external/sources/russell-brunson/raw/17._Funnel_University_2016/"
 
       - id: "HEUR-RB-166"
         rule: "High-ticket event close rate: 6 out of 8 Warrior Week attendees (~75%) bought a $50,000 backend program at the end of the 4-day event. Experiential events create extraordinary close rates compared to any other format."
         tags: ["high-ticket", "close-rate", "event", "fu2016"]
         confidence: 0.90
         module_sources: [FU2016]
-        raw_source: "knowledge/sources/russell-brunson/raw/17._Funnel_University_2016/"
+        raw_source: "knowledge/external/sources/russell-brunson/raw/17._Funnel_University_2016/"
 
       - id: "HEUR-RB-167"
         rule: "Political quiz funnels: 2M+ optins per year at near-zero cost. Controversial/polarizing surveys with mandatory double opt-in to confirm your vote can generate massive volume because the emotional hook drives confirmation behavior."
         tags: ["survey-funnel", "cold-traffic", "optins", "fu2016"]
         confidence: 0.90
         module_sources: [FU2016]
-        raw_source: "knowledge/sources/russell-brunson/raw/17._Funnel_University_2016/"
+        raw_source: "knowledge/external/sources/russell-brunson/raw/17._Funnel_University_2016/"
 
       - id: "HEUR-RB-168"
         rule: "Continuity front-end adoption: Less than 10% of continuity members come through the core membership sales page. 90%+ are acquired through splinter front-end offers ($7-10) that pull out one specific piece of the library. This is how Digital Marketer went from hundreds to tens of thousands of members."
         tags: ["continuity", "splinter", "membership", "fu2016"]
         confidence: 0.93
         module_sources: [FU2016]
-        raw_source: "knowledge/sources/russell-brunson/raw/17._Funnel_University_2016/"
+        raw_source: "knowledge/external/sources/russell-brunson/raw/17._Funnel_University_2016/"
 
       - id: "HEUR-RB-169"
         rule: "DCSLabs Two Tiny Words: Adding I Agree checkbox to order confirmation forms increased Dollars Per Lead (DPL) by 74.61%. Getting micro-commitments from buyers before they complete purchase dramatically increases completion rates and LTV."
         tags: ["conversion-optimization", "micro-commitment", "split-test", "fu2016"]
         confidence: 0.95
         module_sources: [FU2016]
-        raw_source: "knowledge/sources/russell-brunson/raw/17._Funnel_University_2016/"
+        raw_source: "knowledge/external/sources/russell-brunson/raw/17._Funnel_University_2016/"
 
       - id: "HEUR-RB-170"
         rule: "Downsell payment plan insight: When you offer a payment plan downsell (e.g. 3x$67 vs $197 pay-in-full), a significant percentage of no-buyers choose to pay IN FULL on the downsell page. They just needed one more push. Don't assume the payment plan is what people want -- the full-pay option on a downsell page converts well."
         tags: ["downsell", "payment-plan", "conversion", "fu2016"]
         confidence: 0.88
         module_sources: [FU2016]
-        raw_source: "knowledge/sources/russell-brunson/raw/17._Funnel_University_2016/"
+        raw_source: "knowledge/external/sources/russell-brunson/raw/17._Funnel_University_2016/"
 
       - id: "HEUR-RB-171"
         rule: "Cold traffic advertorial strategy: Drive freezing cold traffic to advertorial (pre-sell article) then they click to VSL. Drive warm traffic (Facebook, JV) directly to squeeze page then optin then VSL. Same VSL, two entry points, each optimized for traffic temperature."
         tags: ["cold-traffic", "advertorial", "funnel-structure", "fu2016"]
         confidence: 0.92
         module_sources: [FU2016]
-        raw_source: "knowledge/sources/russell-brunson/raw/17._Funnel_University_2016/"
+        raw_source: "knowledge/external/sources/russell-brunson/raw/17._Funnel_University_2016/"
 
       - id: "HEUR-RB-172"
         rule: "Invisible Funnel option pricing: Offer both (1) pay nothing now, pay $X in 5 days if you loved it, and (2) prepay and save $20. Between 70-80% choose prepay. The pay-nothing option acts as a risk-reversal headline, but buyers self-select into prepay at high rates."
         tags: ["invisible-funnel", "pricing", "prepay", "fu2016"]
         confidence: 0.92
         module_sources: [FU2016]
-        raw_source: "knowledge/sources/russell-brunson/raw/17._Funnel_University_2016/"
+        raw_source: "knowledge/external/sources/russell-brunson/raw/17._Funnel_University_2016/"
 
       - id: "HEUR-RB-173"
         rule: "$10 DM splinter offer + $1 trial upsell + $395 self-liquidating backend: This 3-step continuity acquisition funnel is designed so the $395 backend covers ad costs (self-liquidates), the $1 trial converts members, and the $38/mo continuity is pure profit. Front-end ($7-10) is designed to break even or lose money -- it's only a lead magnet for the continuity."
         tags: ["continuity", "economics", "splinter", "fu2016"]
         confidence: 0.93
         module_sources: [FU2016]
-        raw_source: "knowledge/sources/russell-brunson/raw/17._Funnel_University_2016/"
+        raw_source: "knowledge/external/sources/russell-brunson/raw/17._Funnel_University_2016/"
 """
 
 fu_fw = """
@@ -244,7 +244,7 @@ fu_fw = """
         tags: ["content-marketing", "slo", "dream-100", "fu2016"]
         confidence: 0.95
         module_sources: [FU2016]
-        raw_source: "knowledge/sources/russell-brunson/raw/17._Funnel_University_2016/"
+        raw_source: "knowledge/external/sources/russell-brunson/raw/17._Funnel_University_2016/"
 
       - id: "FW-RB-105"
         name: "Political Bridge (Cold Traffic Survey) Funnel"
@@ -254,7 +254,7 @@ fu_fw = """
         tags: ["cold-traffic", "survey", "bridge-funnel", "fu2016"]
         confidence: 0.92
         module_sources: [FU2016]
-        raw_source: "knowledge/sources/russell-brunson/raw/17._Funnel_University_2016/"
+        raw_source: "knowledge/external/sources/russell-brunson/raw/17._Funnel_University_2016/"
 
       - id: "FW-RB-106"
         name: "High-Ticket Documentary Funnel (Warrior Week Model)"
@@ -263,7 +263,7 @@ fu_fw = """
         tags: ["documentary-funnel", "high-ticket", "warrior-week", "fu2016"]
         confidence: 0.95
         module_sources: [FU2016]
-        raw_source: "knowledge/sources/russell-brunson/raw/17._Funnel_University_2016/"
+        raw_source: "knowledge/external/sources/russell-brunson/raw/17._Funnel_University_2016/"
 
       - id: "FW-RB-107"
         name: "Digital Marketer Continuity Splinter Funnel"
@@ -272,7 +272,7 @@ fu_fw = """
         tags: ["continuity", "splinter", "membership", "fu2016"]
         confidence: 0.95
         module_sources: [FU2016]
-        raw_source: "knowledge/sources/russell-brunson/raw/17._Funnel_University_2016/"
+        raw_source: "knowledge/external/sources/russell-brunson/raw/17._Funnel_University_2016/"
 
       - id: "FW-RB-108"
         name: "REO Rockstar VSL Funnel (Cold Traffic Optimized)"
@@ -280,7 +280,7 @@ fu_fw = """
         tags: ["vsl-funnel", "cold-traffic", "advertorial", "fu2016"]
         confidence: 0.92
         module_sources: [FU2016]
-        raw_source: "knowledge/sources/russell-brunson/raw/17._Funnel_University_2016/"
+        raw_source: "knowledge/external/sources/russell-brunson/raw/17._Funnel_University_2016/"
 
       - id: "FW-RB-109"
         name: "Invisible Funnel (Pay Only If You Love It)"
@@ -292,7 +292,7 @@ fu_fw = """
         tags: ["invisible-funnel", "webinar", "fu2016"]
         confidence: 0.95
         module_sources: [FU2016]
-        raw_source: "knowledge/sources/russell-brunson/raw/17._Funnel_University_2016/"
+        raw_source: "knowledge/external/sources/russell-brunson/raw/17._Funnel_University_2016/"
 """
 
 fu_met = """
@@ -304,7 +304,7 @@ fu_met = """
         tags: ["content-marketing", "slo", "dream-100", "fu2016"]
         confidence: 0.95
         module_sources: [FU2016]
-        raw_source: "knowledge/sources/russell-brunson/raw/17._Funnel_University_2016/"
+        raw_source: "knowledge/external/sources/russell-brunson/raw/17._Funnel_University_2016/"
 
       - id: "MET-RB-063"
         name: "Political Bridge Funnel Build Process"
@@ -313,7 +313,7 @@ fu_met = """
         tags: ["survey-funnel", "cold-traffic", "bridge", "fu2016"]
         confidence: 0.92
         module_sources: [FU2016]
-        raw_source: "knowledge/sources/russell-brunson/raw/17._Funnel_University_2016/"
+        raw_source: "knowledge/external/sources/russell-brunson/raw/17._Funnel_University_2016/"
 
       - id: "MET-RB-064"
         name: "Invisible Funnel Launch Sequence"
@@ -321,7 +321,7 @@ fu_met = """
         tags: ["invisible-funnel", "webinar", "fu2016"]
         confidence: 0.95
         module_sources: [FU2016]
-        raw_source: "knowledge/sources/russell-brunson/raw/17._Funnel_University_2016/"
+        raw_source: "knowledge/external/sources/russell-brunson/raw/17._Funnel_University_2016/"
 
       - id: "MET-RB-065"
         name: "Digital Marketer Continuity Machine - Ongoing Operation"
@@ -330,7 +330,7 @@ fu_met = """
         tags: ["continuity", "membership", "splinter", "fu2016"]
         confidence: 0.95
         module_sources: [FU2016]
-        raw_source: "knowledge/sources/russell-brunson/raw/17._Funnel_University_2016/"
+        raw_source: "knowledge/external/sources/russell-brunson/raw/17._Funnel_University_2016/"
 
       - id: "MET-RB-066"
         name: "Documentary Funnel Build Process (for High-Ticket)"
@@ -339,7 +339,7 @@ fu_met = """
         tags: ["documentary-funnel", "high-ticket", "fu2016"]
         confidence: 0.95
         module_sources: [FU2016]
-        raw_source: "knowledge/sources/russell-brunson/raw/17._Funnel_University_2016/"
+        raw_source: "knowledge/external/sources/russell-brunson/raw/17._Funnel_University_2016/"
 """
 
 # Markers to find insertion points
@@ -393,7 +393,7 @@ for c in checks:
         all_ok = False
 
 if all_ok:
-    with open('C:/Users/ISMAEL_MELLO/Downloads/mega-brain-premium/knowledge/dna/persons/russell-brunson/DNA.yaml', 'w', encoding='utf-8') as f:
+    with open('C:/Users/ISMAEL_MELLO/Downloads/mega-brain-premium/knowledge/external/dna/persons/russell-brunson/DNA.yaml', 'w', encoding='utf-8') as f:
         f.write(content)
     print(f'\nFile written successfully! Lines: {content.count(chr(10))}')
 else:

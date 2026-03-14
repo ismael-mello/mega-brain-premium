@@ -17,17 +17,17 @@ Usuário pediu para processar os 3 squads CRITICAL dos aios-squads. Yolo mode.
    - Brand-squad: 120+ elementos (10 FW major + 20 secondary + 40 MET, 15 experts)
    - AH DNA existente: 260 elementos (comparação feita)
 4. **3 agentes de escrita em background** — Criando documentos processados:
-   - `knowledge/sources/aios-squads/01-HORMOZI-SQUAD.md`
-   - `knowledge/sources/aios-squads/02-COPY-SQUAD.md`
-   - `knowledge/sources/aios-squads/03-BRAND-SQUAD.md`
+   - `knowledge/external/sources/aios-squads/01-HORMOZI-SQUAD.md`
+   - `knowledge/external/sources/aios-squads/02-COPY-SQUAD.md`
+   - `knowledge/external/sources/aios-squads/03-BRAND-SQUAD.md`
 
 ## PENDÊNCIAS
 - [ ] Verificar se os 3 docs foram criados (agents em background)
-- [ ] Atualizar `knowledge/sources/aios-squads/_INDEX.md` com os 3 novos docs
+- [ ] Atualizar `knowledge/external/sources/aios-squads/_INDEX.md` com os 3 novos docs
 - [ ] Commit: "Add processed AIOS Squads knowledge (hormozi, copy, brand) — 400+ elements"
 - [ ] Atualizar STATE.json com novos domínios
 - [ ] OPCIONAL: Enriquecer AH DNA-CONFIG.yaml com ~60 novos elementos do hormozi-squad
-- [ ] OPCIONAL: Criar DNA domínios formais em knowledge/dna/domains/ (copywriting, brand-strategy)
+- [ ] OPCIONAL: Criar DNA domínios formais em knowledge/external/dna/domains/ (copywriting, brand-strategy)
 - [ ] Processar squads restantes (HIGH priority): storytelling, traffic-masters, c-level, data-squad
 
 ## DECISÕES TOMADAS

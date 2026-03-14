@@ -1,6 +1,6 @@
 # DOSSIÊ: Sam Oven (Setterlun University)
 
-[[HOME|← Home]] | [[MOC-PESSOAS|👤 Pessoas]] | [[MOC-TEMAS|📚 Temas]] | [[knowledge/dna/persons/SAM-OVEN/CONFIG|⚙️ DNA Config]]
+[[HOME|← Home]] | [[MOC-PESSOAS|👤 Pessoas]] | [[MOC-TEMAS|📚 Temas]] | [[knowledge/external/dna/persons/SAM-OVEN/CONFIG|⚙️ DNA Config]]
 
 > **Em resumo:** Bridge Analogy para ofertas. Purple Ocean = Red + Blue (diferenciação em mercado provado). DWY é o modelo ideal para agências. Pricing baseado no valor do resultado, não no custo. 80/20 rule aplicada agressivamente.
 >

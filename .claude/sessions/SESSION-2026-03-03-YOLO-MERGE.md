@@ -23,29 +23,29 @@
 - Appending 30DC elements (44) with sequential IDs (JH-FIL-023+, JH-MM-021+, etc.)
 - Appending CA elements (63) after 30DC elements
 - Updating CONFIG.yaml to v5.0.0 with new totals (115 → 222)
-- Files: knowledge/dna/persons/jeremy-haynes/*.yaml
+- Files: knowledge/external/dna/persons/jeremy-haynes/*.yaml
 
 **Agent 2 (EDC Create):**
-- Reading DNA-EAD-CLOSER.yaml (knowledge/sources/ead-closer/)
-- Creating 5 separate YAML files in knowledge/dna/persons/ead-closer/
+- Reading DNA-EAD-CLOSER.yaml (knowledge/external/sources/ead-closer/)
+- Creating 5 separate YAML files in knowledge/external/dna/persons/ead-closer/
 - Creating CONFIG.yaml for EDC
-- Creating agent files in agents/persons/ead-closer/ (AGENT.md, SOUL.md, MEMORY.md, DNA-CONFIG.yaml)
+- Creating agent files in agents/external/ead-closer/ (AGENT.md, SOUL.md, MEMORY.md, DNA-CONFIG.yaml)
 
 ### WHEN RESUMING - CHECK THESE
 
 1. **Verify JH Merge completed:**
    ```
-   grep -c "id:" knowledge/dna/persons/jeremy-haynes/FILOSOFIAS.yaml
+   grep -c "id:" knowledge/external/dna/persons/jeremy-haynes/FILOSOFIAS.yaml
    # Expected: 39 (was 22)
-   grep -c "id:" knowledge/dna/persons/jeremy-haynes/HEURISTICAS.yaml
+   grep -c "id:" knowledge/external/dna/persons/jeremy-haynes/HEURISTICAS.yaml
    # Expected: 63 (was 30)
    ```
 
 2. **Verify EDC Creation completed:**
    ```
-   ls agents/persons/ead-closer/
+   ls agents/external/ead-closer/
    # Expected: AGENT.md, SOUL.md, MEMORY.md, DNA-CONFIG.yaml
-   ls knowledge/dna/persons/ead-closer/
+   ls knowledge/external/dna/persons/ead-closer/
    # Expected: CONFIG.yaml, FILOSOFIAS.yaml, MODELOS-MENTAIS.yaml, HEURISTICAS.yaml, FRAMEWORKS.yaml, METODOLOGIAS.yaml
    ```
 
@@ -108,34 +108,34 @@ New knowledge from 30DC+CA+EDC touches these themes:
 | JH FRAMEWORKS.yaml | ❌ TODO | still 25, need 30DC(9)+CA(14)=23 more |
 | JH METODOLOGIAS.yaml | ❌ TODO | still 18, need 30DC(8)+CA(10)=18 more |
 | JH CONFIG.yaml | ❌ TODO | update counts after above |
-| EDC FILOSOFIAS.yaml | ✅ DONE | created in knowledge/dna/persons/ead-closer/ |
+| EDC FILOSOFIAS.yaml | ✅ DONE | created in knowledge/external/dna/persons/ead-closer/ |
 | EDC MODELOS-MENTAIS.yaml | ✅ DONE | created |
 | EDC HEURISTICAS.yaml | ❌ TODO | needs creation |
 | EDC FRAMEWORKS.yaml | ❌ TODO | needs creation |
 | EDC METODOLOGIAS.yaml | ❌ TODO | needs creation |
 | EDC CONFIG.yaml | ❌ TODO | needs creation |
-| agents/persons/ead-closer/ | ❌ TODO | all 4 files needed |
+| agents/external/ead-closer/ | ❌ TODO | all 4 files needed |
 
 ## NEXT /resume INSTRUCTIONS
 
 On resume, do the following IN ORDER (use Sonnet - Opus hits rate limits):
 
 ### Step 1: Complete JH HEURISTICAS merge
-- Read: knowledge/dna/persons/jeremy-haynes/HEURISTICAS.yaml (last ID: JH-HEU-030)
+- Read: knowledge/external/dna/persons/jeremy-haynes/HEURISTICAS.yaml (last ID: JH-HEU-030)
 - Read: 30DC-NEW-ELEMENTS.yaml section heuristicas (12 items: JH-30DC-HEUR-001 to 012)
 - Read: CA-NEW-ELEMENTS.yaml section heuristicas (21 items)
 - Append with IDs JH-HEU-031 through JH-HEU-063
 - Update header total_itens: 63
 
 ### Step 2: Complete JH FRAMEWORKS merge
-- Read: knowledge/dna/persons/jeremy-haynes/FRAMEWORKS.yaml (last ID: JH-FRM-025)
+- Read: knowledge/external/dna/persons/jeremy-haynes/FRAMEWORKS.yaml (last ID: JH-FRM-025)
 - Read: 30DC-NEW-ELEMENTS.yaml section frameworks (9 items)
 - Read: CA-NEW-ELEMENTS.yaml section frameworks (14 items)
 - Append with IDs JH-FRM-026 through JH-FRM-048
 - Update header total_itens: 48
 
 ### Step 3: Complete JH METODOLOGIAS merge
-- Read: knowledge/dna/persons/jeremy-haynes/METODOLOGIAS.yaml (last ID: JH-MET-018)
+- Read: knowledge/external/dna/persons/jeremy-haynes/METODOLOGIAS.yaml (last ID: JH-MET-018)
 - Read: 30DC-NEW-ELEMENTS.yaml section metodologias (8 items)
 - Read: CA-NEW-ELEMENTS.yaml section metodologias (10 items)
 - Append with IDs JH-MET-019 through JH-MET-036
@@ -146,12 +146,12 @@ On resume, do the following IN ORDER (use Sonnet - Opus hits rate limits):
 - Add changelog v5.0.0
 
 ### Step 5: Complete EDC DNA files
-- Source: knowledge/sources/ead-closer/DNA-EAD-CLOSER.yaml
-- Create: heuristicas, frameworks, metodologias YAML files in knowledge/dna/persons/ead-closer/
+- Source: knowledge/external/sources/ead-closer/DNA-EAD-CLOSER.yaml
+- Create: heuristicas, frameworks, metodologias YAML files in knowledge/external/dna/persons/ead-closer/
 - Create: CONFIG.yaml
 
 ### Step 6: Create EDC Agent files
-- agents/persons/ead-closer/AGENT.md, SOUL.md, MEMORY.md, DNA-CONFIG.yaml
+- agents/external/ead-closer/AGENT.md, SOUL.md, MEMORY.md, DNA-CONFIG.yaml
 
 ### Step 7: Update JH Agent files
 - AGENT.md: update DNA count (2280→222 actual, or note both)

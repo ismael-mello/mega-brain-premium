@@ -15,14 +15,14 @@ nivel: "SALES"
 
 dna_agregado:
   - dominio: "vendas"
-    path: "/knowledge/dna/AGGREGATED/AGG-VENDAS.yaml"
+    path: "/knowledge/external/dna/AGGREGATED/AGG-VENDAS.yaml"
     peso: 0.80
     quando_usar: "Perguntas gerais sobre vendas, processos, métricas"
     justificativa: "SALES-MANAGER precisa conhecimento consolidado de todas fontes"
 
   # ─── AIOS Domain DNAs (added 2026-03-12) ───
   - dominio: "data-growth"
-    path: "/knowledge/dna/AGGREGATED/AGG-DATA-GROWTH.yaml"
+    path: "/knowledge/external/dna/AGGREGATED/AGG-DATA-GROWTH.yaml"
     peso: 0.65
     quando_usar: "Performance analytics, sales dashboards, growth metrics"
     justificativa: "Sales Manager precisa analytics para monitorar e otimizar performance do time"
@@ -30,7 +30,7 @@ dna_agregado:
     source: "AIOS Data Squad"
 
   - dominio: "executive-leadership"
-    path: "/knowledge/dna/AGGREGATED/AGG-EXECUTIVE-LEADERSHIP.yaml"
+    path: "/knowledge/external/dna/AGGREGATED/AGG-EXECUTIVE-LEADERSHIP.yaml"
     peso: 0.55
     quando_usar: "Liderança de equipe, gestão de pessoas, desenvolvimento de líderes"
     justificativa: "Sales Manager é líder — frameworks de liderança executiva aplicáveis"
@@ -38,7 +38,7 @@ dna_agregado:
     source: "AIOS C-Level Squad"
 
   - dominio: "traffic"
-    path: "/knowledge/dna/AGGREGATED/AGG-TRAFFIC.yaml"
+    path: "/knowledge/external/dna/AGGREGATED/AGG-TRAFFIC.yaml"
     peso: 0.50
     quando_usar: "Entender origem e qualidade de leads, alinhamento marketing-vendas"
     justificativa: "Sales Manager precisa entender fonte de leads para diagnosticar pipeline"
@@ -66,7 +66,7 @@ dna_primario:
       - "Cronograma 8 Semanas Onboarding"
       - "Processo Contratação 6 Passos"
       - "Heurísticas de Liderança"
-    path: "/knowledge/dna/persons/cole-gordon"
+    path: "/knowledge/external/dna/persons/cole-gordon"
     justificativa: "Principal fonte para gestao de vendas high-ticket + liderança de times"
     # ENRIQUECIDO Phase 5.7 com BATCH-050 content
     insights_adicionais:
@@ -104,7 +104,7 @@ dna_primario:
       - "9 Ways to Grow"           # NOVO Phase 5.3
       - "Deprivation Timing (ACQ18K)"      # NOVO ACQ18K 2026-03-12
       - "3-Stage Nurture System (ACQ18K)"  # NOVO ACQ18K 2026-03-12
-    path: "/knowledge/dna/persons/alex-hormozi"
+    path: "/knowledge/external/dna/persons/alex-hormozi"
     justificativa: "Framework de escala, contratacao e unit economics como bussola"
     # ENRIQUECIDO Phase 5.3 com SOURCE-AH.md content
     # ENRIQUECIDO ACQ18K 2026-03-12: deprivation timing, 3-stage nurture
@@ -163,8 +163,8 @@ dna_primario:
       - "Urgency Construction (real deadlines)"
       - "Word Pictures for Sales Pitches"
       - "Lead Gen Inversion (outbound→inbound)"
-    path: "/knowledge/dna/persons/dan-kennedy"
-    raiz: "/knowledge/sources/dan-kennedy/raw/copywriting-clinic/"
+    path: "/knowledge/external/dna/persons/dan-kennedy"
+    raiz: "/knowledge/external/sources/dan-kennedy/raw/copywriting-clinic/"
     justificativa: "Copy de vendas e construção de oferta irresistível — Sales Manager define scripts, pitches e sequências de follow-up"
     added: "2026-03-13"
     insights_adicionais:
@@ -205,7 +205,7 @@ dna_primario:
       - "Manual Scorecards > Automated"
       - "Traffic Light Leadership"
       - "Meeting Rhythm (1:1s, Weekly)"
-    path: "/knowledge/dna/persons/THE-SCALABLE-COMPANY"
+    path: "/knowledge/external/dna/persons/THE-SCALABLE-COMPANY"
     justificativa: "Accountability systems e scorecards para gestao de vendas"
     # NOVO Phase 5.3 - 2026-01-10
     insights_adicionais:

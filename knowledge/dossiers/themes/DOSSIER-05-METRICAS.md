@@ -588,7 +588,7 @@ Nome simples (David, John) = 60-70% show rate. Nome complexo 10-sílabas = 40% s
 ## Russell Brunson - Contribuicoes ^[NEW: 2026-03-01]
 
 > **Fonte:** Two Comma Club Coaching - Secrets Masterclass ($4,997)
-> **DNA:** knowledge/dna/persons/russell-brunson/DNA.yaml
+> **DNA:** knowledge/external/dna/persons/russell-brunson/DNA.yaml
 
 ### Formula 100 Clicks/Day = $20K/Month
 

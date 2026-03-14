@@ -12,7 +12,7 @@
 - `.claude/hooks/`
 - `.claude/rules/`
 - `.claude/skills/` (públicas)
-- `agents/conclave/` (CONCLAVE!)
+- `agents/system/conclave/` (CONCLAVE!)
 - `agents/_templates/`
 - `agents/boardroom/`
 - Estruturas VAZIAS (inbox/.gitkeep, knowledge/**/.gitkeep, etc)
@@ -31,8 +31,8 @@
 - `agents/cargo/**` (cargo agents POPULADOS)
 - `knowledge/dossiers/**` (dossiers REAIS)
 - `knowledge/playbooks/**` (playbooks REAIS)
-- `knowledge/dna/**` (DNAs extraídos)
-- `knowledge/sources/**` (fontes compiladas)
+- `knowledge/external/dna/**` (DNAs extraídos)
+- `knowledge/external/sources/**` (fontes compiladas)
 - `artifacts/insights/` (INSIGHTS processados)
 - `artifacts/chunks/` (chunks processados)
 - Skills premium

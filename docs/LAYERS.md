@@ -33,7 +33,7 @@
 - Core processing engine (`core/`)
 - CLI binaries (`bin/`)
 - Claude Code integration templates (`.claude/`)
-- Conclave (collaborative agent templates) (`agents/conclave/`)
+- Conclave (collaborative agent templates) (`agents/system/conclave/`)
 - Agent templates (`agents/_templates/`)
 - Documentation (`docs/`)
 - Empty structure markers (`.gitkeep` files anywhere)
@@ -46,7 +46,7 @@ core/intelligence/audit_layers.py → L1 (Core engine)
 bin/                           → L1 (Core engine)
 .claude/                       → L1 (Core engine)
 .claude/rules/RULE-GROUP-1.md  → L1 (Core engine)
-agents/conclave/               → L1 (Core engine)
+agents/system/conclave/               → L1 (Core engine)
 docs/                          → L1 (Core engine)
 inbox/.gitkeep                 → L1 (Empty structure marker)
 knowledge/dossiers/persons/.gitkeep → L1 (Empty structure marker)
@@ -70,8 +70,8 @@ agents/minds/.gitkeep          → L1 (Empty structure marker)
 - Populated cargo agents (`agents/cargo/` with actual profiles)
 - Knowledge dossiers (`knowledge/dossiers/`)
 - Knowledge playbooks (`knowledge/playbooks/`)
-- DNA knowledge base (`knowledge/dna/`)
-- Knowledge sources (`knowledge/sources/`)
+- DNA knowledge base (`knowledge/external/dna/`)
+- Knowledge sources (`knowledge/external/sources/`)
 - Pipeline artifacts with extracted knowledge (`artifacts/insights/`, `artifacts/chunks/`, `artifacts/extractions/`)
 
 **Real examples from Phase 7 audit:**
@@ -81,8 +81,8 @@ agents/cargo/                        → L2 (Premium content — when populated)
 knowledge/dossiers/persons/          → L2 (Premium content)
 knowledge/dossiers/themes/           → L2 (Premium content)
 knowledge/playbooks/                 → L2 (Premium content)
-knowledge/dna/                       → L2 (Premium content)
-knowledge/sources/                   → L2 (Premium content)
+knowledge/external/dna/                       → L2 (Premium content)
+knowledge/external/sources/                   → L2 (Premium content)
 artifacts/insights/                  → L2 (Premium content)
 artifacts/chunks/                    → L2 (Premium content)
 ```
@@ -276,11 +276,11 @@ Follow these steps in order — stop at the first match:
 - If YES → classify as **L3** (unless it's a `.gitkeep`, which is L1)
 
 **Step 4: Check L2 patterns**
-- Does the path start with: `agents/minds/`, `agents/cargo/`, `knowledge/dossiers/`, `knowledge/playbooks/`, `knowledge/dna/`, `knowledge/sources/`, `artifacts/insights/`, `artifacts/chunks/`, `artifacts/extractions/`?
+- Does the path start with: `agents/minds/`, `agents/cargo/`, `knowledge/dossiers/`, `knowledge/playbooks/`, `knowledge/external/dna/`, `knowledge/external/sources/`, `artifacts/insights/`, `artifacts/chunks/`, `artifacts/extractions/`?
 - If YES → classify as **L2** (unless it's a `.gitkeep` or empty directory, which is L1)
 
 **Step 5: Check L1 patterns**
-- Does the path start with: `core/`, `bin/`, `.claude/`, `agents/conclave/`, `agents/_templates/`, `docs/`?
+- Does the path start with: `core/`, `bin/`, `.claude/`, `agents/system/conclave/`, `agents/_templates/`, `docs/`?
 - Is it a `.gitkeep` file anywhere in the repo?
 - If YES → classify as **L1**
 
@@ -303,7 +303,7 @@ These are real paths from the Phase 7 audit with confirmed classifications:
 | `bin/` | L1 | Core engine |
 | `.claude/` | L1 | Core engine |
 | `.claude/rules/RULE-GROUP-1.md` | L1 | Core engine |
-| `agents/conclave/` | L1 | Core engine |
+| `agents/system/conclave/` | L1 | Core engine |
 | `docs/` | L1 | Core engine |
 | `docs/LAYERS.md` | L1 | Core engine documentation |
 | `inbox/.gitkeep` | L1 | Empty structure marker |
@@ -311,7 +311,7 @@ These are real paths from the Phase 7 audit with confirmed classifications:
 | `agents/minds/.gitkeep` | L1 | Empty structure marker |
 | `knowledge/dossiers/persons/ALEX-HORMOZI.md` | L2 | Populated content |
 | `knowledge/playbooks/SALES-PLAYBOOK.md` | L2 | Populated content |
-| `knowledge/dna/` | L2 | Populated content |
+| `knowledge/external/dna/` | L2 | Populated content |
 | `agents/minds/ALEX-HORMOZI/` | L2 | Premium content |
 | `artifacts/insights/` | L2 | Premium content |
 | `inbox/` | L3 | Personal data |

@@ -66,7 +66,7 @@ def _scan_agents_directory(subdir: str) -> Dict:
 
 
 def _get_person_keywords() -> Dict:
-    """Lazily load person keywords from agents/persons/ directory."""
+    """Lazily load person keywords from agents/external/ directory."""
     global _PERSON_KEYWORDS_CACHE
     if _PERSON_KEYWORDS_CACHE is None:
         _PERSON_KEYWORDS_CACHE = _scan_agents_directory("persons")
@@ -107,7 +107,7 @@ def detect_agent_in_prompt(prompt: str) -> Dict:
         if any(kw in prompt_lower for kw in keywords):
             return {"type": "subagent", "name": agent}
 
-    # Detecta PERSON agent (dynamically from agents/persons/ directory)
+    # Detecta PERSON agent (dynamically from agents/external/ directory)
     for agent, keywords in _get_person_keywords().items():
         if any(kw in prompt_lower for kw in keywords):
             return {"type": "person", "name": agent}

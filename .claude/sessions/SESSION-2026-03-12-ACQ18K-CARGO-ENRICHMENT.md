@@ -18,9 +18,9 @@
 
 ## PENDÊNCIAS (próxima sessão)
 - [ ] AGENT-INDEX.yaml: atualizar source count para AH agent (persons section)
-- [ ] Remover `inbox/FORMAÇÃO EM LIDERANÇA...` (FLCR raw já salvo em knowledge/sources/flcr/raw/)
+- [ ] Remover `inbox/FORMAÇÃO EM LIDERANÇA...` (FLCR raw já salvo em knowledge/external/sources/flcr/raw/)
 - [ ] FLCR DNA pendentes: Matriz Gulti (G×U×T), Lencioni 5 Dysfunctions, Módulo 10 conteúdo adicional
-- [ ] AGG-LIDERANCA.yaml: criar em knowledge/dna/aggregated/
+- [ ] AGG-LIDERANCA.yaml: criar em knowledge/external/dna/aggregated/
 - [ ] Enriquecer COO: FLCR change mgmt (peso 0.75)
 - [ ] Enriquecer CRO: FLCR feedback + acompanhamento (peso 0.75, 0.8)
 

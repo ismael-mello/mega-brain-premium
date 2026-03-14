@@ -398,7 +398,7 @@ O ciclo de confiança do vendedor impacta diretamente o show rate:
 ## Russell Brunson - Contribuicoes ^[NEW: 2026-03-01]
 
 > **Fonte:** Two Comma Club Coaching - Secrets Masterclass ($4,997)
-> **DNA:** knowledge/dna/persons/russell-brunson/DNA.yaml
+> **DNA:** knowledge/external/dna/persons/russell-brunson/DNA.yaml
 
 ### Webinar Show-Up Rate Benchmark (~33%)
 

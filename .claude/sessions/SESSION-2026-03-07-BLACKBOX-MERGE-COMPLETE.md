@@ -20,8 +20,8 @@ Key content: Black Box Funnel Architecture, Who-What-Why-How Video Script,
 Free+Shipping 8% conversion, IF 85% attendance, Application Funnel
 
 ### Files Updated
-- `knowledge/dna/persons/russell-brunson/DNA.yaml` - 442 -> 482 elements, YAML VALID
-- `agents/persons/russell-brunson/DNA-CONFIG.yaml` - v9, IF subprograms all COMPLETE, stats updated
+- `knowledge/external/dna/persons/russell-brunson/DNA.yaml` - 442 -> 482 elements, YAML VALID
+- `agents/external/russell-brunson/DNA-CONFIG.yaml` - v9, IF subprograms all COMPLETE, stats updated
 
 ---
 

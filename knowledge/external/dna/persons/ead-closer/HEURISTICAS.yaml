@@ -1,0 +1,230 @@
+# HEURISTICAS - EAD CLOSER
+# Versao: 1.0.0 | Criado: 2026-03-03
+# Fonte: knowledge/external/sources/ead-closer/DNA-EAD-CLOSER.yaml (Camada L3)
+# Autores: Vinicius de Sa, Yuri, Bruno, Aline
+
+versao: "1.0.0"
+pessoa: "EAD Closer"
+camada: "HEURISTICAS"
+total_itens: 21
+
+itens:
+  - id: "EDC-HEUR-001"
+    titulo: "Introducao: Maximo 5 Minutos"
+    descricao: >
+      A fase de introducao (quebra-gelo, rapport, FORM, marketing pessoal)
+      deve durar no maximo 5 minutos. Ultrapassar esse tempo significa que o
+      closer esta enrolando e nao conseguiu conectar rapidamente.
+    peso: 0.80
+    citacao: "A introducao, ela que gira em torno de 5 minutos."
+    fonte: "[EDC-0076] Estrutura da Venda de Impacto.txt"
+
+  - id: "EDC-HEUR-002"
+    titulo: "Warm-Up: 5 a 8 Minutos Maximo"
+    descricao: >
+      O warm-up (aquecimento, quebra-gelo, rapport) nao pode ultrapassar 5 a
+      8 minutos. Quantidade de tempo nao e sinonimo de qualidade de conexao.
+      Encerrar quando os objetivos forem alcancados (ponto comum, rapport,
+      abertura).
+    peso: 0.80
+    citacao: "5 a 8 minutos estourando. Quantidade nao e sinonimo de qualidade. Encerre o warm-up depois de todos os objetivos forem alcancados."
+    fonte: "[EDC-0086] Warm-Up e Emocao.txt"
+
+  - id: "EDC-HEUR-003"
+    titulo: "SPIN Selling: 15 Minutos"
+    descricao: >
+      O questionario SPIN Selling deve durar aproximadamente 15 minutos. E o
+      momento de fazer perguntas de Situacao, Problema, Implicacao e
+      Necessidade. Nao apressar, mas tambem nao se estender demais.
+    peso: 0.80
+    citacao: "Questionario Spin Selling, onde voce vai fazer as perguntas e vai durar cerca de 15 minutos."
+    fonte: "[EDC-0076] Estrutura da Venda de Impacto.txt"
+
+  - id: "EDC-HEUR-004"
+    titulo: "Apresentacao B2C: 40-45 Minutos Total"
+    descricao: >
+      Para vendas B2C, a apresentacao completa (incluindo slides) deve durar
+      entre 40 e 45 minutos. Esse e o tempo otimo para manter atencao e
+      cobrir todos os pontos sem perder o cliente.
+    peso: 0.80
+    citacao: "B2C 40 a 45 minutos."
+    fonte: "[EDC-0025] TREINAMENTO APRESENTACAO COMERCIAL.txt"
+
+  - id: "EDC-HEUR-005"
+    titulo: "Taxa de Conversao Alvo: 25-40%"
+    descricao: >
+      A Venda de Alta Performance, quando executada corretamente, deve gerar
+      taxa de conversao entre 25% e 40%. Isso significa fechar 1 em cada 3
+      ou 4 calls. Valores abaixo indicam problemas na execucao. A Full Sales
+      reporta 88.12% em cenarios otimos.
+    peso: 0.80
+    citacao: "Uma taxa de aproveitamento de 20%, 25%, 30%, ou seja, uma call em cada quatro."
+    fonte: "[EDC-0076] Estrutura da Venda de Impacto.txt"
+
+  - id: "EDC-HEUR-006"
+    titulo: "88.12% de Conversao (Full Sales Benchmark)"
+    descricao: >
+      Benchmark interno da Full Sales para taxa de conversao maxima
+      alcancavel com a metodologia completa. Numero mencionado como
+      resultado de caso real usando todas as tecnicas do EAD.
+    peso: 0.80
+    citacao: "88.12% de conversao."
+    fonte: "[EDC-0019] PEGANDO O PAGAMENTO.txt"
+
+  - id: "EDC-HEUR-007"
+    titulo: "Pacto Sim ou Nao: 90% Dizem Sim"
+    descricao: >
+      Quando o pacto de sim ou nao e feito corretamente, com confianca e
+      construcao previa adequada, 90% dos clientes confirmam positivamente
+      ("pode contar com meu sim ou nao"). Isso cria compromisso psicologico.
+    peso: 0.80
+    citacao: "90% das vezes a pessoa diz sim quando o pacto e feito corretamente."
+    fonte: "[EDC-0009] Pacto Final.txt"
+
+  - id: "EDC-HEUR-008"
+    titulo: "30-35% de Fechamento Apos Pacto Final"
+    descricao: >
+      Apos o pacto final ser aceito, a taxa de conversao em fechamento real
+      e de aproximadamente 30-35%. O pacto nao garante a venda, mas aumenta
+      drasticamente a probabilidade comparado a nao fazer pacto.
+    peso: 0.80
+    citacao: "30 a 35% de taxa de fechamento apos o pacto."
+    fonte: "[EDC-0009] Pacto Final.txt"
+
+  - id: "EDC-HEUR-009"
+    titulo: "80% Que Falam Amanha Nao Pagam"
+    descricao: >
+      Heuristica fundamental que justifica o fechamento em call. Apenas 20%
+      dos clientes que saem da call com promessa de pagar no dia seguinte
+      efetivamente pagam. O restante desiste, esfria ou encontra outra
+      opcao.
+    peso: 0.80
+    citacao: "80% das pessoas que falam que vao pagar amanha, nao pagam."
+    fonte: "[EDC-0019] PEGANDO O PAGAMENTO.txt"
+
+  - id: "EDC-HEUR-010"
+    titulo: "Sinal de Compromisso: Minimo R$1.000"
+    descricao: >
+      Quando o cliente nao consegue fechar na call mas demonstra intencao
+      real, pedir sinal de compromisso reembolsavel de no minimo R$1.000.
+      Valor abaixo nao gera compromisso suficiente. O sinal garante que o
+      cliente retorna para segunda conversa.
+    peso: 0.80
+    citacao: "Sinal reembolsavel, minimo R$1.000."
+    fonte: "[EDC-0049] Curso 21 Aula 3.txt"
+
+  - id: "EDC-HEUR-011"
+    titulo: "Comissao: 5-30% Dependendo do Produto"
+    descricao: >
+      Faixas de comissao por tipo de produto: Cursos gravados 5-30%,
+      Investimentos 5-20%, Servicos 5-20%, Consultoria 5-20%, Eventos 5-30%,
+      Mentorias 5-20%. A porcentagem varia conforme margem, complexidade e
+      envolvimento do closer.
+    peso: 0.80
+    citacao: "Cursos gravados 5-30%, Investimentos 5-20%, Servicos 5-20%, Consultoria 5-20%, Eventos 5-30%, Mentorias 5-20%."
+    fonte: "[EDC-0064] Remuneracao.txt"
+
+  - id: "EDC-HEUR-012"
+    titulo: "Faturamento por Reuniao: 22k-26k (Full Sales)"
+    descricao: >
+      Benchmark interno da Full Sales para faturamento medio por reuniao/
+      apresentacao. Mais relevante que taxa de conversao isolada. Um closer
+      que fecha menos mas com ticket mais alto pode gerar mais receita.
+    peso: 0.80
+    citacao: "Full Sales atingindo 22k a 26k por apresentacao."
+    fonte: "[EDC-0054] Curso 21 Mod 2 Aula 3.txt"
+
+  - id: "EDC-HEUR-013"
+    titulo: "Contratar e Avaliar em 1 Mes"
+    descricao: >
+      Em um mes de trabalho ja e possivel saber se o vendedor novo vai
+      performar ou nao. Nao arrastar a avaliacao. O vendedor ja deve estar
+      vendendo desde o primeiro dia (paralelo ao treinamento).
+    peso: 0.80
+    citacao: "Em um mes voce ja tem que saber se ele e bom ou nao."
+    fonte: "[EDC-0073] Curso 16 Aula 6 - Vendedor Novo.txt"
+
+  - id: "EDC-HEUR-014"
+    titulo: "Objecao 'Preciso Pensar': 80% das Vezes e Preco"
+    descricao: >
+      Quando o cliente diz "preciso pensar", em 80% dos casos a verdadeira
+      objecao e financeira (preco). Nao aceitar a objecao superficial,
+      isolar e descobrir a objecao real. Usar escala de 0 a 10 para
+      identificar.
+    peso: 0.80
+    citacao: "Se a objecao e 'preciso pensar', 80% das vezes e preco."
+    fonte: "[EDC-0055] Curso 21 Mod 2 Aula 7.txt"
+
+  - id: "EDC-HEUR-015"
+    titulo: "Retencao: Custa 5-7x Mais Adquirir Novo Cliente (Kotler)"
+    descricao: >
+      Referencia a Philip Kotler: adquirir um novo cliente custa entre 5 a 7
+      vezes mais do que reter um existente. Justifica investimento em
+      pos-vendas, fidelizacao e criacao de promotores da marca.
+    peso: 0.80
+    citacao: "Adquirir um novo cliente custa 5 a 7 vezes mais do que reter um existente. Kotler."
+    fonte: "[EDC-0045] Pos-vendas.txt"
+
+  - id: "EDC-HEUR-016"
+    titulo: "Escala 0 a 10 Para Medir Compromisso"
+    descricao: >
+      Usar perguntas de escala de 0 a 10 para medir o nivel de compromisso e
+      interesse do cliente. Ex: "De 0 a 10, quanto voce quer resolver esse
+      problema?". Se abaixo de 7, o rapport ou SPIN precisam ser refeitos.
+    peso: 0.80
+    citacao: "De 0 a 10, quanto voce quer resolver esse problema?"
+    fonte: "[EDC-0005] Questionario Spin Selling.txt"
+
+  - id: "EDC-HEUR-017"
+    titulo: "Meta: 50% na Primeira Semana, 50% na Segunda"
+    descricao: >
+      Regra de distribuicao de meta mensal. Buscar atingir 50% da meta na
+      primeira semana do mes e 50% na segunda. O restante e "lucro" (bonus
+      acima da meta). Nao comecar o mes lento.
+    peso: 0.80
+    citacao: "50% da meta na primeira semana e 50% na segunda semana, o resto e lucro."
+    fonte: "[EDC-0086] Warm-Up e Emocao.txt"
+
+  - id: "EDC-HEUR-018"
+    titulo: "Ticket de Eventos por Tipo de Audiencia"
+    descricao: >
+      Faixas de ticket para eventos por temperatura da audiencia: Eventos de
+      entrada (audiencia fria): R$97-497. Eventos mistos: R$997-2997.
+      Eventos de fundo de funil (quente): R$3k-10k+. Masterminds: 30-40
+      pessoas a R$50k cada.
+    peso: 0.80
+    citacao: "Entrada R$97-497, Misto R$997-2997, Fundo de funil R$3k-10k+, Mastermind 30 pessoas a 50k."
+    fonte: "[EDC-0084] Mod 4 Aula 8 - Eventos.txt"
+
+  - id: "EDC-HEUR-019"
+    titulo: "Cada Bonus Deve Ser Valorizado por 1+ Minuto"
+    descricao: >
+      Na apresentacao da oferta, cada bonus deve ser apresentado e
+      valorizado por no minimo 1 minuto. Nao listar rapidamente. Dedicar
+      tempo para que o cliente entenda o valor individual de cada bonus.
+    peso: 0.80
+    citacao: "Valorize cada bonus por pelo menos 1 minuto."
+    fonte: "[EDC-0042] Oferta Irresistivel.txt"
+
+  - id: "EDC-HEUR-020"
+    titulo: "3 Cenarios de Negociacao"
+    descricao: >
+      Antes de entrar na negociacao, preparar 3 cenarios: (1) Cenario Ideal
+      - o melhor resultado possivel, (2) Cenario Possivel - resultado
+      aceitavel, (3) Cenario Impossivel - limite minimo que nao pode ser
+      ultrapassado. Negociar sabendo exatamente esses 3 limites.
+    peso: 0.80
+    citacao: "3 cenarios: ideal, possivel e impossivel."
+    fonte: "[EDC-0043] Negocie como Closer Aguia.txt"
+
+  - id: "EDC-HEUR-021"
+    titulo: "Skills Wheel: 12 Dimensoes do Closer"
+    descricao: >
+      Radar de 12 habilidades para avaliar o closer: comunicacao, escuta
+      ativa, persuasao, resiliencia, empatia, adaptabilidade, conhecimento
+      do produto, gestao do tempo, inteligencia emocional, storytelling,
+      negociacao, fechamento. Avaliar de 1 a 10 cada dimensao.
+    peso: 0.80
+    citacao: "12 dimensoes do closer avaliadas de 1 a 10."
+    fonte: "[EDC-0067] Skills Wheel.txt"
+

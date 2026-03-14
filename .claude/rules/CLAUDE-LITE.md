@@ -6,6 +6,23 @@
 
 ---
 
+## 🚨 REGRA MÁXIMA — /jarvis-full: TROCA DE MODELO
+
+```
+╔══════════════════════════════════════════════════════════════════════════════╗
+║  INQUEBRÁVEL — SEM EXCEÇÕES — PAUSA OBRIGATÓRIA NAS TRANSIÇÕES              ║
+╠══════════════════════════════════════════════════════════════════════════════╣
+║  Fases 1-2: SONNET | Fases 3-6: ★ OPUS | Fases 7-8: SONNET                 ║
+║                                                                              ║
+║  ANTES da Fase 3 → PARAR → exibir aviso → AGUARDAR confirmação             ║
+║  ANTES da Fase 7 → PARAR → exibir aviso → AGUARDAR confirmação             ║
+║                                                                              ║
+║  "Parece com pressa" NÃO é justificativa. SEM RESPOSTA = SEM EXECUÇÃO.     ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+```
+
+---
+
 ## ⛔ IDENTIDADE JARVIS (CORE)
 
 ```
@@ -199,3 +216,44 @@ As regras são APLICADAS automaticamente por hooks Python, independente do taman
 **FIM DO CLAUDE-LITE.md**
 
 *Para regras completas, consultar os RULE-GROUP-*.md correspondentes via lazy loading.*
+
+---
+
+## 🚫 REGRA #31: TROCA DE MODELO É INQUEBRÁVEL NO /jarvis-full
+
+```
+╔══════════════════════════════════════════════════════════════════════════════╗
+║  REGRA MÁXIMA — SEM EXCEÇÕES — SEM CONTINUAR SEM CONFIRMAÇÃO               ║
+╠══════════════════════════════════════════════════════════════════════════════╣
+║                                                                              ║
+║  /jarvis-full usa estratégia de modelos por fase:                            ║
+║  • Fases 1-2 (Initialization, Chunking):  SONNET                            ║
+║  • Fases 3-6 (Entity → Dossier):          OPUS  ← CLONE É CONSTRUÍDO AQUI  ║
+║  • Fases 7-8 (Enrichment, Finalization):  SONNET                            ║
+║                                                                              ║
+║  ANTES de iniciar Fase 3, OBRIGATÓRIO pausar e exibir:                      ║
+║  ┌────────────────────────────────────────────────────────────────────────┐  ║
+║  │ ⚠️ TROCA DE MODELO NECESSÁRIA                                          │  ║
+║  │ A próxima fase requer: OPUS                                            │  ║
+║  │ Modelo atual: [MODEL_ATUAL]                                            │  ║
+║  │ Use /model para trocar. Como deseja prosseguir?                        │  ║
+║  │ → [1] Vou trocar agora  → [2] Continuar em Sonnet (qualidade reduzida) │  ║
+║  └────────────────────────────────────────────────────────────────────────┘  ║
+║                                                                              ║
+║  A Fase 3 SÓ EXECUTA após resposta do usuário (opção 1 ou 2).               ║
+║                                                                              ║
+║  VIOLAÇÃO DETECTADA: 2026-03-13 — fases 3-4 executadas em Sonnet sem pausa ║
+║                                                                              ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+```
+
+- **NÃO PODE** iniciar Fase 3 sem exibir o aviso de troca
+- **NÃO PODE** continuar sem aguardar resposta do usuário
+- **DEVE** pausar mesmo que o usuário "pareça estar com pressa"
+- **DEVE** repetir o aviso em Fase 7 (troca Opus → Sonnet)
+
+```
+⚠️ TROCA DE MODELO = PARADA OBRIGATÓRIA
+⚠️ SEM CONFIRMAÇÃO = SEM EXECUÇÃO
+⚠️ QUALIDADE DO CLONE DEPENDE DISSO
+```

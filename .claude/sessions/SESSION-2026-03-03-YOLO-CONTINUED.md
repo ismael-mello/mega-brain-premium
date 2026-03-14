@@ -20,26 +20,26 @@
 ### AGENTES EM BACKGROUND
 
 1. **EDC Extraction** (a698a2d1f38898a99)
-   - Task: Read 68 files from knowledge/sources/ead-closer/raw/, extract DNA 5 layers
+   - Task: Read 68 files from knowledge/external/sources/ead-closer/raw/, extract DNA 5 layers
    - Output: Will return structured DNA elements for new EDC person
    - Status: Still running, 40+ tool calls so far
 
 2. **30DC Extract+Dedup** (ad638cb031fabc41d)
-   - Task: Read 24 files from knowledge/sources/30-day-challenge/raw/, extract DNA, dedup against existing JH 115 elements
-   - Output: Will write to knowledge/dna/persons/jeremy-haynes/30DC-NEW-ELEMENTS.yaml
+   - Task: Read 24 files from knowledge/external/sources/30-day-challenge/raw/, extract DNA, dedup against existing JH 115 elements
+   - Output: Will write to knowledge/external/dna/persons/jeremy-haynes/30DC-NEW-ELEMENTS.yaml
    - Status: Running, reading files
 
 3. **CA Extract+Dedup** (a8973074ae0427509)
-   - Task: Read 28 files from knowledge/sources/client-accelerator/raw/, extract DNA, dedup against existing JH 115 elements
-   - Output: Will write to knowledge/dna/persons/jeremy-haynes/CA-NEW-ELEMENTS.yaml
+   - Task: Read 28 files from knowledge/external/sources/client-accelerator/raw/, extract DNA, dedup against existing JH 115 elements
+   - Output: Will write to knowledge/external/dna/persons/jeremy-haynes/CA-NEW-ELEMENTS.yaml
    - Status: Running, reading files
 
 ### EXISTING JH DNA (Baseline for Dedup)
-- FILOSOFIAS: 22 items (JH-FIL-001 to 022) - knowledge/dna/persons/jeremy-haynes/FILOSOFIAS.yaml
-- MODELOS-MENTAIS: 20 items (JH-MM-001 to 020) - knowledge/dna/persons/jeremy-haynes/MODELOS-MENTAIS.yaml
-- HEURISTICAS: 30 items (JH-HEU-001 to 030) - knowledge/dna/persons/jeremy-haynes/HEURISTICAS.yaml
-- FRAMEWORKS: 25 items (JH-FRM-001 to 025) - knowledge/dna/persons/jeremy-haynes/FRAMEWORKS.yaml
-- METODOLOGIAS: 18 items (JH-MET-001 to 018) - knowledge/dna/persons/jeremy-haynes/METODOLOGIAS.yaml
+- FILOSOFIAS: 22 items (JH-FIL-001 to 022) - knowledge/external/dna/persons/jeremy-haynes/FILOSOFIAS.yaml
+- MODELOS-MENTAIS: 20 items (JH-MM-001 to 020) - knowledge/external/dna/persons/jeremy-haynes/MODELOS-MENTAIS.yaml
+- HEURISTICAS: 30 items (JH-HEU-001 to 030) - knowledge/external/dna/persons/jeremy-haynes/HEURISTICAS.yaml
+- FRAMEWORKS: 25 items (JH-FRM-001 to 025) - knowledge/external/dna/persons/jeremy-haynes/FRAMEWORKS.yaml
+- METODOLOGIAS: 18 items (JH-MET-001 to 018) - knowledge/external/dna/persons/jeremy-haynes/METODOLOGIAS.yaml
 - **TOTAL: 115 elements**
 
 ### TASKS (from TaskList)
@@ -54,14 +54,14 @@
 | 6 | Cascade to theme dossiers + cargo agents | pending | 5 |
 
 ### DIRECTORIES PREPARED
-- knowledge/dna/persons/ead-closer/ (created, empty)
-- agents/persons/ead-closer/ (created, empty)
+- knowledge/external/dna/persons/ead-closer/ (created, empty)
+- agents/external/ead-closer/ (created, empty)
 
 ### NEXT STEPS WHEN RESUMING
 
 1. **Check agent outputs:**
-   - Look for knowledge/dna/persons/jeremy-haynes/30DC-NEW-ELEMENTS.yaml
-   - Look for knowledge/dna/persons/jeremy-haynes/CA-NEW-ELEMENTS.yaml
+   - Look for knowledge/external/dna/persons/jeremy-haynes/30DC-NEW-ELEMENTS.yaml
+   - Look for knowledge/external/dna/persons/jeremy-haynes/CA-NEW-ELEMENTS.yaml
    - Check if EDC agent completed (will have returned structured results)
 
 2. **If agents completed successfully:**
@@ -82,13 +82,13 @@
    - Task 6: Cascade new knowledge to theme dossiers and cargo agents
 
 ### FILE LOCATIONS
-- Raw 30DC: knowledge/sources/30-day-challenge/raw/ (24 .txt files)
-- Raw CA: knowledge/sources/client-accelerator/raw/ (15 CA + 13 PCVP files)
-- Raw EDC: knowledge/sources/ead-closer/raw/ (68 .txt files across modules)
-- JH DNA: knowledge/dna/persons/jeremy-haynes/ (5 YAML files)
-- EDC DNA (target): knowledge/dna/persons/ead-closer/
-- JH Agent: agents/persons/jeremy-haynes/
-- EDC Agent (target): agents/persons/ead-closer/
+- Raw 30DC: knowledge/external/sources/30-day-challenge/raw/ (24 .txt files)
+- Raw CA: knowledge/external/sources/client-accelerator/raw/ (15 CA + 13 PCVP files)
+- Raw EDC: knowledge/external/sources/ead-closer/raw/ (68 .txt files across modules)
+- JH DNA: knowledge/external/dna/persons/jeremy-haynes/ (5 YAML files)
+- EDC DNA (target): knowledge/external/dna/persons/ead-closer/
+- JH Agent: agents/external/jeremy-haynes/
+- EDC Agent (target): agents/external/ead-closer/
 - Theme Dossiers: knowledge/dossiers/themes/ (27 existing)
 - Cargo Agents: agents/cargo/ (cfo, c-level, marketing, sales)
 

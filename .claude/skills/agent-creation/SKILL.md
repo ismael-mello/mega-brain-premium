@@ -36,7 +36,7 @@ Garantir que todos os agentes do Mega Brain sigam:
 
 ### 1. Agents of Person (Digital Twins)
 ```
-/agents/persons/
+/agents/external/
 ├── DNA-[PESSOA].md        # Essência imutável
 └── AGENT-PERSON-[PESSOA].md  # Comportamento ativo
 ```
@@ -51,7 +51,7 @@ Garantir que todos os agentes do Mega Brain sigam:
 
 ### 3. Conclave (Meta-Avaliadores)
 ```
-/agents/conclave/
+/agents/system/conclave/
 ├── critico-metodologico/AGENT.md
 ├── advogado-do-diabo/AGENT.md
 └── sintetizador/AGENT.md

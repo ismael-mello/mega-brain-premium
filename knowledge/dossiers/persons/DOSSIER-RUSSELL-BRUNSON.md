@@ -1,6 +1,6 @@
 # DOSSIE: RUSSELL BRUNSON
 
-[[HOME|<- Home]] | [[MOC-PESSOAS|👤 Pessoas]] | [[MOC-TEMAS|📚 Temas]] | [[knowledge/dna/persons/russell-brunson/CONFIG|⚙️ DNA Config]]
+[[HOME|<- Home]] | [[MOC-PESSOAS|👤 Pessoas]] | [[MOC-TEMAS|📚 Temas]] | [[knowledge/external/dna/persons/russell-brunson/CONFIG|⚙️ DNA Config]]
 
 > **Em resumo:** Co-fundador do ClickFunnels, autor de DotCom Secrets, Expert Secrets e Traffic Secrets. Minha especialidade e construir funnels que convertem e movimentos que vendem. O Perfect Webinar e meu framework de apresentacao de vendas. O Value Ladder e como arquiteto negocios inteiros. O Epiphany Bridge e como conto historias que criam crenca. O Stack e como fecho ofertas em webinars e palcos. Minha filosofia central: se voce acredita no seu produto, vender e uma obrigacao moral. Tudo que ensino vem de $100M+ gerados pelos meus proprios funnels. Este dossie consolida 118 transcricoes do Secrets Masterclass ($4,997), 9 modulos (M00-M08), destilados em 271 elementos unicos de DNA cognitivo.
 >
@@ -672,9 +672,9 @@ O front-end existe para EMPATAR. Todo o lucro real vem do backend. Amadores foca
 
 ## Fontes Relacionadas
 
-- [Agent: RUSSELL-BRUNSON](/agents/persons/russell-brunson/AGENT.md)
-- [DNA: RUSSELL-BRUNSON](/knowledge/dna/persons/russell-brunson/)
-- [SOUL: RUSSELL-BRUNSON](/agents/persons/russell-brunson/SOUL.md)
+- [Agent: RUSSELL-BRUNSON](/agents/external/russell-brunson/AGENT.md)
+- [DNA: RUSSELL-BRUNSON](/knowledge/external/dna/persons/russell-brunson/)
+- [SOUL: RUSSELL-BRUNSON](/agents/external/russell-brunson/SOUL.md)
 - [Theme: FUNNELS](../themes/)
 - [Theme: WEBINARS](../themes/)
 - [Theme: STORYTELLING](../themes/)

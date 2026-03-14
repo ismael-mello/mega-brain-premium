@@ -9,11 +9,11 @@
 ### Fix 1: session_end.py - COMPLETO
 - Adicionada funcao `sync_metrics_from_filesystem()` que escaneia:
   - artifacts/insights/ (extraction files)
-  - knowledge/dna/persons/ (DNA sources)
-  - agents/persons/ e agents/cargo/ (agents count)
+  - knowledge/external/dna/persons/ (DNA sources)
+  - agents/external/ e agents/cargo/ (agents count)
   - knowledge/dossiers/ (person + theme dossiers)
   - knowledge/playbooks/ (playbooks count)
-  - knowledge/dna/aggregated/ (aggregated DNAs)
+  - knowledge/external/dna/aggregated/ (aggregated DNAs)
 - Adicionada funcao `sync_from_session_log()` que:
   - Le session logs recentes para extrair metricas precisas
   - Busca files_processed, dna_elements, completed missions

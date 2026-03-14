@@ -102,7 +102,7 @@
 │  │  HEU-{ID}-004│ "{TEXTO_DO_INSIGHT_COM_NUMERO}"                       │ L3     │ ███░░ 75%  │ │
 │  │  HEU-{ID}-005│ "{TEXTO_DO_INSIGHT_COM_NUMERO}"                       │ L3     │ ███░░ 72%  │ │
 │  └─────────────┴────────────────────────────────────────────────────────┴────────┴────────────┘ │
-│  └── + {N} outras heurísticas extraídas [Ver: /knowledge/dna/persons/{FONTE}/HEURISTICAS.yaml]│
+│  └── + {N} outras heurísticas extraídas [Ver: /knowledge/external/dna/persons/{FONTE}/HEURISTICAS.yaml]│
 │                                                                                                  │
 │  📐 FRAMEWORKS (Top 3 de {TOTAL}):                                                               │
 │  ┌─────────────────────────────────────────────────────────────────────────────────────────────┐ │
@@ -112,7 +112,7 @@
 │  │  FRA-{ID}-002│ "{NOME_DO_FRAMEWORK}"                                 │   {N}  │ ████░ 85%  │ │
 │  │  FRA-{ID}-003│ "{NOME_DO_FRAMEWORK}"                                 │   {N}  │ ███░░ 80%  │ │
 │  └─────────────┴────────────────────────────────────────────────────────┴────────┴────────────┘ │
-│  └── + {N} outros frameworks extraídos [Ver: /knowledge/dna/persons/{FONTE}/FRAMEWORKS.yaml] │
+│  └── + {N} outros frameworks extraídos [Ver: /knowledge/external/dna/persons/{FONTE}/FRAMEWORKS.yaml] │
 │                                                                                                  │
 │  🧠 FILOSOFIAS (Top 3 de {TOTAL}):                                                               │
 │  ┌─────────────────────────────────────────────────────────────────────────────────────────────┐ │
@@ -122,7 +122,7 @@
 │  │  FIL-{ID}-002│ "{TEXTO_DA_FILOSOFIA}"                                │ {TEXTO} │ ████░ 85% │ │
 │  │  FIL-{ID}-003│ "{TEXTO_DA_FILOSOFIA}"                                │ {TEXTO} │ ███░░ 80% │ │
 │  └─────────────┴────────────────────────────────────────────────────────┴─────────┴───────────┘ │
-│  └── + {N} outras filosofias extraídas [Ver: /knowledge/dna/persons/{FONTE}/FILOSOFIAS.yaml] │
+│  └── + {N} outras filosofias extraídas [Ver: /knowledge/external/dna/persons/{FONTE}/FILOSOFIAS.yaml] │
 │                                                                                                  │
 └──────────────────────────────────────────────────────────────────────────────────────────────────┘
 
@@ -131,7 +131,7 @@
 │  📁 ARTEFATOS CRIADOS                                                                            │
 ├──────────────────────────────────────────────────────────────────────────────────────────────────┤
 │                                                                                                  │
-│  /knowledge/dna/persons/{FONTE}/                                                              │
+│  /knowledge/external/dna/persons/{FONTE}/                                                              │
 │  ├── ✅ CONFIG.yaml              [CRIADO/ATUALIZADO]                                             │
 │  ├── ✅ FILOSOFIAS.yaml          (+{N} elementos)                                                │
 │  ├── ✅ MODELOS-MENTAIS.yaml     (+{N} elementos)                                                │
@@ -230,7 +230,7 @@
 
 
 ┌──────────────────────────────────────────────────────────────────────────────────────────────────┐
-│  📁 /agents/persons/{NOME}/                                                                   │
+│  📁 /agents/external/{NOME}/                                                                   │
 ├──────────────────────────────────────────────────────────────────────────────────────────────────┤
 │                                                                                                  │
 │  ┌────────────────────────────────────────────────────────────────────────────────────────────┐  │
@@ -447,7 +447,7 @@
 │  │  2  │ BDR      │ Métrica divergente: {N}% vs {N}%      │ Usar média ponderada: {N}%        │ │
 │  └─────┴──────────┴───────────────────────────────────────┴───────────────────────────────────┘ │
 │                                                                                                  │
-│  📍 Conflitos registrados em: /knowledge/dna/MAPS/MAP-CONFLITOS.yaml                          │
+│  📍 Conflitos registrados em: /knowledge/external/dna/MAPS/MAP-CONFLITOS.yaml                          │
 │                                                                                                  │
 └──────────────────────────────────────────────────────────────────────────────────────────────────┘
 
@@ -920,7 +920,7 @@
 │  📁 _INDEX.md ATUALIZADOS                                                                        │
 ├──────────────────────────────────────────────────────────────────────────────────────────────────┤
 │                                                                                                  │
-│  [✓] /knowledge/dna/_INDEX.md                                                                 │
+│  [✓] /knowledge/external/dna/_INDEX.md                                                                 │
 │  [✓] /knowledge/dossiers/_INDEX.md                                                            │
 │  [✓] /agents/_INDEX.md                                                                        │
 │  [✓] /agents/ORG-LIVE/_INDEX.md                                                               │
@@ -1031,7 +1031,7 @@
 │  👥 INVENTÁRIO DE AGENTES                                                                        │
 ├──────────────────────────────────────────────────────────────────────────────────────────────────┤
 │                                                                                                  │
-│  📁 /agents/persons/ (PERSON AGENTS - Espelhos)                                               │
+│  📁 /agents/external/ (PERSON AGENTS - Espelhos)                                               │
 │  ┌────────────────────────────────────────────────────────────────────────────────────────────┐  │
 │  │  AGENTE               │ ELEMENTOS │ EXPERTISE PRINCIPAL               │ STATUS            │  │
 │  ├───────────────────────┼───────────┼───────────────────────────────────┼───────────────────┤  │
@@ -1136,7 +1136,7 @@
 │                                                                                                  │
 │  TOTAL: {N} conflitos identificados | {N} resolvidos | {N} pendentes                             │
 │                                                                                                  │
-│  📍 Detalhes em: /knowledge/dna/MAPS/MAP-CONFLITOS.yaml                                       │
+│  📍 Detalhes em: /knowledge/external/dna/MAPS/MAP-CONFLITOS.yaml                                       │
 │                                                                                                  │
 └──────────────────────────────────────────────────────────────────────────────────────────────────┘
 

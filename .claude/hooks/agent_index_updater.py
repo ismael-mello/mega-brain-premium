@@ -20,7 +20,7 @@ UPDATE_LOG = BASE_DIR / "logs" / "agent-index-updates.jsonl"
 # Layer paths
 LAYER_PATHS = {
     "L0": "core/jarvis/",
-    "L1": "agents/conclave/",
+    "L1": "agents/system/conclave/",
     "L2": "agents/boardroom/",
     "L3": "agents/minds/",
     "L4": "agents/cargo/",

@@ -61,15 +61,15 @@ Processing 32 PDFs (26 unique) from Russell Brunson's "Two Comma Club Coaching -
 - Merge unique new elements into DNA.yaml
 
 ### Phase 3: DNA Consolidation
-- Update `knowledge/dna/persons/russell-brunson/DNA.yaml` with new elements
+- Update `knowledge/external/dna/persons/russell-brunson/DNA.yaml` with new elements
 - Re-number IDs (PHI-RB-272+, etc.)
 - Update counts and metadata
 
 ### Phase 4: Agent Update
-- Update `agents/persons/russell-brunson/AGENT.md`
-- Update `agents/persons/russell-brunson/SOUL.md` (new voice patterns from books)
-- Update `agents/persons/russell-brunson/MEMORY.md` (new insights)
-- Update `agents/persons/russell-brunson/DNA-CONFIG.yaml` (add PDF sources)
+- Update `agents/external/russell-brunson/AGENT.md`
+- Update `agents/external/russell-brunson/SOUL.md` (new voice patterns from books)
+- Update `agents/external/russell-brunson/MEMORY.md` (new insights)
+- Update `agents/external/russell-brunson/DNA-CONFIG.yaml` (add PDF sources)
 
 ### Phase 5: Cascading
 - Update relevant theme dossiers (funnels, traffic, webinars, copywriting)
@@ -92,8 +92,8 @@ artifacts/insights/russell-brunson/pdf-extracts/
 
 ## EXISTING DNA STATE
 - 271 elements from video transcriptions (118 files)
-- DNA.yaml at: knowledge/dna/persons/russell-brunson/DNA.yaml
-- Person agent at: agents/persons/russell-brunson/
+- DNA.yaml at: knowledge/external/dna/persons/russell-brunson/DNA.yaml
+- Person agent at: agents/external/russell-brunson/
 
 ---
 Session ID: SESSION-2026-03-01-PDF-PROCESSING

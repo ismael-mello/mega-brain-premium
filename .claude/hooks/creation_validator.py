@@ -72,7 +72,7 @@ class CreationValidator:
 
         path = Path(self.file_path)
 
-        # REGRA: Raw files NUNCA em /archive/ - devem ir para knowledge/sources/{fonte}/raw/
+        # REGRA: Raw files NUNCA em /archive/ - devem ir para knowledge/external/sources/{fonte}/raw/
         self._validate_raw_file_location(path)
 
         # Detectar tipo de criação
@@ -108,7 +108,7 @@ class CreationValidator:
     def _validate_raw_file_location(self, path: Path):
         """
         Valida que arquivos raw/originais NAO sao colocados em /archive/.
-        Padrao: knowledge/sources/{fonte}/raw/
+        Padrao: knowledge/external/sources/{fonte}/raw/
         Regra criada em 2026-03-02 apos inconsistencia detectada.
         """
         path_str = str(path).replace('\\', '/')
@@ -116,7 +116,7 @@ class CreationValidator:
             self.warnings.append(
                 "Escrita em /archive/ detectada! "
                 "Regra RAW-FILES-STANDARD: Arquivos raw DEVEM ficar em "
-                "knowledge/sources/{fonte}/raw/ — NUNCA em archive/. "
+                "knowledge/external/sources/{fonte}/raw/ — NUNCA em archive/. "
                 "Mova para o local correto."
             )
 

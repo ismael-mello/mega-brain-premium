@@ -6,7 +6,7 @@
 ## O que foi feito
 
 1. **Inbox scan:** 13 files (12 MP3 transcriptions + 1 empty PDF)
-2. **Phase 1 (Init):** Criou estrutura dirs, copiou 12 files para `knowledge/sources/dan-kennedy/raw/copywriting-clinic/`
+2. **Phase 1 (Init):** Criou estrutura dirs, copiou 12 files para `knowledge/external/sources/dan-kennedy/raw/copywriting-clinic/`
 3. **Phase 2 (Chunking):** 219K chars, 12 chunks
 4. **Phase 3 (Entity Resolution):** Dan Kennedy identified as primary entity. References: Gary Halbert, Ted Nicholas, Victor Schwab, Bob Stupak, Jeff Paul, Joe Carbo, Tom Monaghan, Loretta Duffy
 5. **Phase 4 (Insight Extraction):** 156 DNA elements extracted (L1:28, L2:27, L3:38, L4:35, L5:28)
@@ -15,12 +15,12 @@
 
 ## Artefatos criados
 
-- `knowledge/dna/persons/dan-kennedy/DNA.yaml` (156 elements)
-- `agents/persons/dan-kennedy/AGENT.md`
-- `agents/persons/dan-kennedy/SOUL.md`
-- `agents/persons/dan-kennedy/MEMORY.md`
-- `agents/persons/dan-kennedy/DNA-CONFIG.yaml`
-- `knowledge/sources/dan-kennedy/raw/copywriting-clinic/` (12 files)
+- `knowledge/external/dna/persons/dan-kennedy/DNA.yaml` (156 elements)
+- `agents/external/dan-kennedy/AGENT.md`
+- `agents/external/dan-kennedy/SOUL.md`
+- `agents/external/dan-kennedy/MEMORY.md`
+- `agents/external/dan-kennedy/DNA-CONFIG.yaml`
+- `knowledge/external/sources/dan-kennedy/raw/copywriting-clinic/` (12 files)
 
 ## PENDENTE (próxima sessão)
 

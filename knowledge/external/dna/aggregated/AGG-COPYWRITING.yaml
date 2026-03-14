@@ -1,0 +1,290 @@
+# AGG-COPYWRITING.yaml
+# DOMÍNIO: Copywriting, direct response, persuasão escrita
+# VERSÃO: 1.0.0
+# CRIADO: 2026-03-13
+#
+# FONTES: Dan Kennedy (156 el) + Russell Brunson (1327 el) + Alex Hormozi (402 el)
+# ═══════════════════════════════════════════════════════════════════════════════
+
+dominio: "copywriting"
+versao: "1.3.0"
+criado_em: "2026-03-13"
+atualizado_em: "2026-03-13"
+
+fontes_consolidadas:
+  - fonte: "dan-kennedy"
+    peso_dominio: 0.95
+    path: "/knowledge/external/dna/persons/dan-kennedy/"
+    raiz: "/knowledge/external/sources/dan-kennedy/raw/copywriting-clinic/"
+    contribuicao_principal: "Direct mail salesmanship, headline mastery, pain-pleasure sequence, hook discovery, pre-framing"
+    elementos_relevantes: 273
+    elementos_relevantes: 329
+    fontes_incluidas:
+      - "The Copywriting Clinic (156 elementos — core copywriting)"
+      - "7-Figure Academy (78 elementos — business copy, moral obligation, preeminência)"
+      - "12 Business Building Strategies (39 elementos — Collier Principle, recession alignment, certainty selling)"
+      - "Advanced Coaching & Consulting (56 elementos — compelling>pretty, DR vs brand, what works not what you like)"
+
+  - fonte: "russell-brunson"
+    peso_dominio: 0.85
+    path: "/knowledge/external/dna/persons/russell-brunson/"
+    raiz: "/knowledge/external/sources/russell-brunson/raw/"
+    contribuicao_principal: "Hook-Story-Offer, Perfect Webinar copy, email sequences"
+    elementos_relevantes: 200
+
+  - fonte: "alex-hormozi"
+    peso_dominio: 0.70
+    path: "/knowledge/external/dna/persons/alex-hormozi/"
+    raiz: "/knowledge/external/sources/alex-hormozi/raw/"
+    contribuicao_principal: "Hooks = 80% da performance, offer language, content hooks"
+    elementos_relevantes: 80
+
+# ═══════════════════════════════════════════════════════════════════════════════
+# FILOSOFIAS
+# ═══════════════════════════════════════════════════════════════════════════════
+
+filosofias:
+  - id: "FIL-COPY-001"
+    filosofia: "Copy é salesmanship in print — se não saberia vender pessoalmente, não vai saber vender por escrito"
+    fonte: "dan-kennedy" | ref: "FIL-DK-001"
+    peso: 0.95
+
+  - id: "FIL-COPY-002"
+    filosofia: "O headline é 70-80% da batalha — se não funcionar, nada mais importa"
+    fonte: "dan-kennedy" | ref: "FIL-DK-003, HEUR-DK-001"
+    peso: 0.95
+
+  - id: "FIL-COPY-003"
+    filosofia: "Pessoas são muito mais responsivas a escapar da dor do que ganhar prazer"
+    fonte: "dan-kennedy" | ref: "FIL-DK-006, MM-DK-011"
+    peso: 0.90
+
+  - id: "FIL-COPY-004"
+    filosofia: "Hook-Story-Offer — toda comunicação de marketing tem essa estrutura em sua base"
+    fonte: "russell-brunson" | ref: "FW-RB-052"
+    peso: 0.90
+
+  - id: "FIL-COPY-005"
+    filosofia: "Se eu só tivesse uma chance de fazer algo funcionar, usaria uma história"
+    fonte: "dan-kennedy" | ref: "FIL-DK-022"
+    peso: 0.90
+
+  - id: "FIL-COPY-006"
+    filosofia: "Hooks = 80% da performance — o restante é delivery"
+    fonte: "alex-hormozi" | ref: "AH-ACQ18K-CMO002"
+    peso: 0.85
+
+  - id: "FIL-COPY-007"
+    filosofia: "Copy longa funciona — a pessoa interessada lê cada palavra, mesmo 16 páginas"
+    fonte: "dan-kennedy" | ref: "FIL-DK-017"
+    peso: 0.85
+
+  - id: "FIL-COPY-008"
+    filosofia: "Criatividade pela criatividade é desperdício — deve avançar a venda"
+    fonte: "dan-kennedy" | ref: "FIL-DK-020"
+    peso: 0.85
+
+  - id: "FIL-COPY-009"
+    filosofia: "Obrigação moral de não deixar o prospecto não comprar — se acredita no produto, vender com 100% de esforço é ético"
+    fonte: "dan-kennedy" | ref: "FIL-DK-038 (7FA-CD8)"
+    peso: 0.90
+
+  - id: "FIL-COPY-010"
+    filosofia: "Compelling > Pretty: pretty doesn't convert. Compelling converts. Direct response needs to get attention, not be beautiful."
+    fonte: "dan-kennedy" | ref: "FIL-DK-145 (ACC-video-DK_9)"
+    peso: 0.90
+
+  - id: "FIL-COPY-011"
+    filosofia: "Marketing is about what works, not what you like. 'I don't like it' — tough. You're in the business of getting customers, not being comfortable."
+    fonte: "dan-kennedy" | ref: "FIL-DK-149 (ACC-video-DK_9)"
+    peso: 0.90
+
+# ═══════════════════════════════════════════════════════════════════════════════
+# HEURÍSTICAS (com números)
+# ═══════════════════════════════════════════════════════════════════════════════
+
+heuristicas:
+  - id: "HEUR-COPY-001"
+    heuristica: "Headline = 70-80% da batalha em direct response"
+    tipo: numeric | fonte: "dan-kennedy" | ref: "HEUR-DK-001"
+
+  - id: "HEUR-COPY-002"
+    heuristica: "Repetir o pitch principal 3-6x dentro da mesma peça"
+    tipo: numeric | fonte: "dan-kennedy" | ref: "HEUR-DK-007"
+
+  - id: "HEUR-COPY-003"
+    heuristica: "Returns esperados em seminário: ~7% (5% imediato, 1% perto deadline, 1% atrasado)"
+    tipo: numeric | fonte: "dan-kennedy" | ref: "HEUR-DK-004"
+
+  - id: "HEUR-COPY-004"
+    heuristica: "Garantia mínima 90 dias, idealmente 1 ano com requisito de uso"
+    tipo: numeric | fonte: "dan-kennedy" | ref: "HEUR-DK-006"
+
+  - id: "HEUR-COPY-005"
+    heuristica: "Em B2B, maioria das vendas fecha entre 3º e 7º contato (RB: 81% após 5º)"
+    tipo: numeric | fonte: "dan-kennedy + russell-brunson" | ref: "HEUR-DK-009, HEUR-RB-103"
+
+  - id: "HEUR-COPY-006"
+    heuristica: "$1 front-end = $16 de receita em follow-up"
+    tipo: numeric | fonte: "russell-brunson" | ref: "HEUR-RB-001"
+
+  - id: "HEUR-COPY-007"
+    heuristica: "Mínimo 3 semanas de imersão no produto/mercado antes de escrever o hook"
+    tipo: numeric | fonte: "dan-kennedy" | ref: "HEUR-DK-051 (7FA-CD10)"
+
+  - id: "HEUR-COPY-008"
+    heuristica: "Conversão cold-to-prepared pode dobrar vs cold-to-pitch direto (delay deliberado + pacote de pré-aquecimento)"
+    tipo: numeric | fonte: "dan-kennedy" | ref: "MM-DK-041, MET-DK-029 (7FA-CD6)"
+
+# ═══════════════════════════════════════════════════════════════════════════════
+# FRAMEWORKS CORE
+# ═══════════════════════════════════════════════════════════════════════════════
+
+frameworks:
+  - id: "FW-COPY-001"
+    nome: "Pain-Pleasure Sales Sequence (DK)"
+    passos: "1. Dor atual → 2. Medo de perder → 3. Alternativa prazerosa → 4. Oferta irresistível"
+    fonte: "dan-kennedy" | ref: "FW-DK-004"
+    peso: 0.95
+
+  - id: "FW-COPY-002"
+    nome: "Hook-Story-Offer (RB)"
+    passos: "Hook (atenção) → Story (conexão + desejo) → Offer (ação)"
+    fonte: "russell-brunson" | ref: "FW-RB-052"
+    peso: 0.90
+
+  - id: "FW-COPY-003"
+    nome: "Objection Draining in Copy (DK)"
+    passos: "Listar TODAS as razões para não comprar → responder cada uma → fechar"
+    fonte: "dan-kennedy" | ref: "FW-DK-007, MET-DK-006"
+    peso: 0.90
+
+  - id: "FW-COPY-004"
+    nome: "Urgency Construction (DK)"
+    passos: "Deadline REAL + razão REAL. Recompensar early + penalizar procrastinadores"
+    fonte: "dan-kennedy" | ref: "FW-DK-013"
+    peso: 0.90
+
+  - id: "FW-COPY-005"
+    nome: "Customer Avatar Deep Dive (DK)"
+    passos: "Lista exaustiva sobre avatar → Cristalizar em UMA pessoa → Escrever para ela"
+    fonte: "dan-kennedy" | ref: "FW-DK-003, MET-DK-003"
+    peso: 0.90
+
+  - id: "FW-COPY-006"
+    nome: "Headline Formula Bank (DK)"
+    passos: "Build fill-in-the-blank de tablóides + Victor Schwab 100 headlines"
+    fonte: "dan-kennedy" | ref: "FW-DK-001"
+    peso: 0.85
+
+  - id: "FW-COPY-007"
+    nome: "Irresistible Offer Construction (DK)"
+    passos: "Core + bonuses + guarantee (outcome-worded) + urgência real + penalty → Snowstorm Test"
+    fonte: "dan-kennedy" | ref: "MET-DK-016"
+    peso: 0.90
+
+  - id: "FW-COPY-008"
+    nome: "Copy Self-Audit 12-Point Checklist (DK)"
+    passos: "Headline classified test? Rapport antes pitch? Story completa? Subheads independentes? Dor antes prazer? Involvement devices? Pitch 3+x? Objeções drenadas? Oferta irresistível? Summary? Snowstorm test?"
+    fonte: "dan-kennedy" | ref: "MET-DK-028"
+    peso: 0.90
+
+  - id: "FW-COPY-009"
+    nome: "Lead Gen Inversion (DK)"
+    passos: "Warning ad → 16-page letter → decision-maker LIGA para você"
+    fonte: "dan-kennedy" | ref: "FW-DK-016, MET-DK-004"
+    peso: 0.85
+
+  - id: "FW-COPY-010"
+    nome: "Pre-Framing de Expectativas (DK 7FA)"
+    passos: "1. Identificar resultado menos desejado possível → 2. Pre-calibrar expectativa na comunicação pré-venda → 3. Posicionar resultado médio como sucesso → 4. Criar deslumbramento quando supera o frame"
+    fonte: "dan-kennedy" | ref: "FW-DK-048 (7FA-CD11)"
+    peso: 0.85
+
+  - id: "FW-COPY-011"
+    nome: "Imersão no Mercado para Descoberta do Hook (DK 7FA)"
+    passos: "1. 2-3 semanas com produto/usuários → 2. Entrevistar criadores sobre orgulho → 3. Observação sem filtros → 4. Listar detalhes surpreendentes → 5. 'O que nunca foi dito?' → 6. Headline com detalhe mais surpreendente"
+    fonte: "dan-kennedy" | ref: "MM-DK-037, HEUR-DK-051, MET-DK-036 (7FA-CD10)"
+    peso: 0.90
+
+  - id: "FW-COPY-012"
+    nome: "Venda Fria-para-Preparada com Delay Deliberado (DK 7FA)"
+    passos: "1. Identificar prospecto frio → 2. Não fazer pitch — anunciar pacote de informações → 3. Enviar pacote de pré-aquecimento (cases, depoimentos, FAQ) → 4. Aguardar 5-7 dias → 5. Chamada com prospecto preparado"
+    fonte: "dan-kennedy" | ref: "MM-DK-041, MET-DK-029 (7FA-CD6)"
+    peso: 0.85
+
+  - id: "FW-COPY-013"
+    nome: "Collier Principle — Step Into Existing Conversation (DK 12BBS)"
+    passos: "1. Identificar diálogo interno do prospecto (3 conversas possíveis) → 2. Alinhar headline/abertura a ESSA conversa → 3. Fornecer certeza específica ao contexto → 4. Chamar para ação dentro do frame"
+    fonte: "dan-kennedy" | ref: "MM-DK-044, MM-DK-045, FW-DK-051 (12BBS-CD1A)"
+    peso: 0.90
+
+  - id: "FW-COPY-014"
+    nome: "Recession Message Alignment (DK 12BBS)"
+    passos: "1. Identificar qual das 3 conversas internas o prospecto está tendo → 2. Match da mensagem → 3. Fornecer certeza para agir AGORA → 4. Construir garantia ao redor do medo econômico"
+    fonte: "dan-kennedy" | ref: "MET-DK-042, FW-DK-051 (12BBS-CD1A)"
+    peso: 0.85
+
+  - id: "FW-COPY-015"
+    nome: "Certainty Selling Copy — Conviction Transfer (DK 12BBS)"
+    passos: "1. Escrever com convicção ABSOLUTA (não hedging) → 2. Prospecto empresta confiança do copy → 3. Em incerteza de mercado, certeza na copy = diferenciador"
+    fonte: "dan-kennedy" | ref: "FW-DK-052, FIL-DK-047 (12BBS-CD1A)"
+    peso: 0.85
+
+  - id: "FW-COPY-016"
+    nome: "Direct Response vs Brand Marketing Decision (DK ACC)"
+    passos: "1. DR = compelling, ugly, high-conversion → 2. Brand = pretty, prestigious, low-conversion → 3. Consultant/coach MUST use DR → 4. Test media against 5 requirements"
+    fonte: "dan-kennedy" | ref: "FW-DK-126 (ACC-video-DK_9)"
+    peso: 0.90
+
+# ═══════════════════════════════════════════════════════════════════════════════
+# TENSÕES ENTRE FONTES
+# ═══════════════════════════════════════════════════════════════════════════════
+
+tensoes:
+  - id: "TENS-COPY-001"
+    titulo: "Long copy vs Short copy"
+    posicao_dk: "Copy longa sempre funciona — pessoa interessada lê tudo"
+    posicao_digital: "Atenção curta, copy curta converte melhor"
+    resolucao: "Cold traffic = mais copy. Warm/hot = pode encurtar. High-ticket: long copy ganha."
+
+  - id: "TENS-COPY-002"
+    titulo: "Fórmulas vs Criatividade"
+    posicao_dk: "Usar fórmulas, criar banco de headlines"
+    posicao_brand: "Criatividade diferencia, fórmulas comoditizam"
+    resolucao: "Fórmulas para response, criatividade para brand. Never sacrifice response for cleverness."
+
+# ═══════════════════════════════════════════════════════════════════════════════
+# CHANGELOG
+# ═══════════════════════════════════════════════════════════════════════════════
+
+changelog:
+  - versao: "1.3.0"
+    data: "2026-03-13"
+    mudancas:
+      - "ACC integrado: elementos_relevantes 273→329 (compelling>pretty, what works not what you like, DR vs brand)"
+      - "+2 filosofias (FIL-COPY-010-011: compelling>pretty, what works), +1 framework (FW-COPY-016: DR vs brand)"
+      - "DK fontes_incluidas: adicionado ACC (56 elementos)"
+
+  - versao: "1.2.0"
+    data: "2026-03-13"
+    mudancas:
+      - "12BBS integrado: elementos_relevantes 234→273 (Collier Principle, recession alignment, certainty selling)"
+      - "+3 frameworks (FW-COPY-013-015: Collier, recession alignment, certainty copy)"
+      - "DK fontes_incluidas: adicionado 12BBS (39 elementos)"
+
+  - versao: "1.1.0"
+    data: "2026-03-13"
+    mudancas:
+      - "DK 7FA integrado: elementos_relevantes 156→234 (7FA: hook research, pre-framing, cold-to-prepared, moral obligation)"
+      - "+1 filosofia (FIL-COPY-009: obrigação moral), +2 heurísticas (HEUR-COPY-007-008), +3 frameworks (FW-COPY-010-012)"
+      - "DK fontes_incluidas documentadas (CC + 7FA)"
+
+  - versao: "1.0.0"
+    data: "2026-03-13"
+    mudancas:
+      - "Criação inicial — Dan Kennedy fonte primária (156 elementos, The Copywriting Clinic)"
+      - "Russell Brunson fonte secundária (Hook-Story-Offer, VSL, email)"
+      - "Alex Hormozi fonte terciária (hooks, offer language)"
+      - "8 filosofias, 6 heurísticas, 9 frameworks consolidados"
+      - "Cascateamento: CMO (0.85) + Sales Manager (0.70)"

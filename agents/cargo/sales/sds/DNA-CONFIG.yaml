@@ -68,7 +68,7 @@ dna_sources:
 
   agregado:
     - dominio: "vendas"
-      path: "/knowledge/dna/AGGREGATED/AGG-VENDAS.yaml"
+      path: "/knowledge/external/dna/AGGREGATED/AGG-VENDAS.yaml"
       peso: 0.88
       quando_usar: "Qualificação e discovery"
       insight_ids:
@@ -76,7 +76,7 @@ dna_sources:
         - "QUAL001"
 
     - dominio: "outbound"
-      path: "/knowledge/dna/AGGREGATED/AGG-OUTBOUND.yaml"
+      path: "/knowledge/external/dna/AGGREGATED/AGG-OUTBOUND.yaml"
       peso: 0.82
       quando_usar: "Prospecção e pipeline"
       insight_ids:
@@ -84,7 +84,7 @@ dna_sources:
 
     # ─── AIOS Domain DNAs (added 2026-03-12) ───
     - dominio: "copywriting"
-      path: "/knowledge/dna/AGGREGATED/AGG-COPYWRITING.yaml"
+      path: "/knowledge/external/dna/AGGREGATED/AGG-COPYWRITING.yaml"
       peso: 0.55
       quando_usar: "Messaging de qualificação, scripts de discovery"
       justificativa: "SDS escreve mensagens de qualificação — copy melhora conversão"
@@ -97,7 +97,7 @@ dna_sources:
 
   primario:
     - pessoa: "cole-gordon"
-      path: "/knowledge/dna/persons/cole-gordon"
+      path: "/knowledge/external/dna/persons/cole-gordon"
       raiz: "/inbox/COLE GORDON/"                                            # RASTREABILIDADE
       dominios_usados:
         - "vendas"
@@ -135,7 +135,7 @@ dna_sources:
             - "Discovery bem feita = maior conversão"
 
     - pessoa: "JORDAN-LEE"
-      path: "/knowledge/dna/persons/JORDAN-LEE"
+      path: "/knowledge/external/dna/persons/JORDAN-LEE"
       raiz: "/inbox/JORDAN LEE (AI BUSINESS)/"                              # RASTREABILIDADE
       dominios_usados:
         - "outbound"
@@ -156,7 +156,7 @@ dna_sources:
             - "Pipeline cheio mantém a máquina funcionando"
 
     - pessoa: "alex-hormozi"
-      path: "/knowledge/dna/persons/alex-hormozi"
+      path: "/knowledge/external/dna/persons/alex-hormozi"
       raiz: "/inbox/alex hormozi/"                        # RASTREABILIDADE
       dominios_usados:
         - "farm_system"
@@ -214,7 +214,7 @@ dna_sources:
 # ═══════════════════════════════════════════════════════════════════════════════
 
 conflitos:
-  path: "/knowledge/dna/MAPS/MAP-CONFLITOS.yaml"
+  path: "/knowledge/external/dna/MAPS/MAP-CONFLITOS.yaml"
   descricao: "Mapa de tensões entre fontes com resoluções documentadas"
 
   conflitos_conhecidos:

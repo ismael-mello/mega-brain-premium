@@ -273,7 +273,7 @@ ENTÃO: Criar DNA completo
 ### Localização
 
 ```
-knowledge/dna/persons/{PESSOA}/
+knowledge/external/dna/persons/{PESSOA}/
 ├── CONFIG.yaml           # Voice, patterns, coverage
 ├── FILOSOFIAS.yaml       # Camada 1
 ├── MODELOS-MENTAIS.yaml  # Camada 2
@@ -448,7 +448,7 @@ Alimentação de agentes de IA com o conhecimento processado.
 
 ### Saída
 - `/agents/cargo/*/MEMORY.md`
-- `/agents/persons/*/SOUL.md`
+- `/agents/external/*/SOUL.md`
 - `/agents/ORG-LIVE/ROLES/*.md`
 
 ### Mapeamento TEMA → AGENTES
@@ -529,7 +529,7 @@ Para cada agente:
 │                     ▼                                                      │
 │  ┌─────────────────────────────────────────────────────────────────────┐   │
 │  │  FASE 5: DNA CONSOLIDATION (se trigger met)                         │   │
-│  │  → knowledge/dna/persons/cole-gordon/                           │   │
+│  │  → knowledge/external/dna/persons/cole-gordon/                           │   │
 │  │     ├─ CONFIG.yaml                                                  │   │
 │  │     ├─ FILOSOFIAS.yaml                                              │   │
 │  │     ├─ MODELOS-MENTAIS.yaml                                         │   │
@@ -557,7 +557,7 @@ Para cada agente:
 │  ┌─────────────────────────────────────────────────────────────────────┐   │
 │  │  FASE 8: AGENT ENRICHMENT                                           │   │
 │  │  → agents/cargo/sales/closer/MEMORY.md                          │   │
-│  │  → agents/persons/cole-gordon/SOUL.md                           │   │
+│  │  → agents/external/cole-gordon/SOUL.md                           │   │
 │  │  → agents/ORG-LIVE/ROLES/ROLE-CLOSER.md                          │   │
 │  └─────────────────────────────────────────────────────────────────────┘   │
 │                                                                             │

@@ -69,7 +69,7 @@ dna_sources:
 
   agregado:
     - dominio: "vendas"
-      path: "/knowledge/dna/AGGREGATED/AGG-VENDAS.yaml"
+      path: "/knowledge/external/dna/AGGREGATED/AGG-VENDAS.yaml"
       peso: 0.92
       quando_usar: "Técnicas de fechamento, discovery, objections"
       insight_ids:
@@ -78,7 +78,7 @@ dna_sources:
         - "OBJ001"  # Objeções
 
     - dominio: "offers"
-      path: "/knowledge/dna/AGGREGATED/AGG-OFFERS.yaml"
+      path: "/knowledge/external/dna/AGGREGATED/AGG-OFFERS.yaml"
       peso: 0.85
       quando_usar: "Apresentação de oferta, pricing"
       insight_ids:
@@ -87,7 +87,7 @@ dna_sources:
 
     # ─── AIOS Domain DNAs (added 2026-03-12) ───
     - dominio: "storytelling"
-      path: "/knowledge/dna/AGGREGATED/AGG-STORYTELLING.yaml"
+      path: "/knowledge/external/dna/AGGREGATED/AGG-STORYTELLING.yaml"
       peso: 0.60
       quando_usar: "Story selling em calls, narrativas de transformação, case studies"
       justificativa: "Closer usa storytelling para criar conexão emocional e fechar"
@@ -95,7 +95,7 @@ dna_sources:
       source: "AIOS Storytelling Squad"
 
     - dominio: "copywriting"
-      path: "/knowledge/dna/AGGREGATED/AGG-COPYWRITING.yaml"
+      path: "/knowledge/external/dna/AGGREGATED/AGG-COPYWRITING.yaml"
       peso: 0.50
       quando_usar: "Scripts de vendas, follow-up copy, mensagens de fechamento"
       justificativa: "Closer escreve mensagens e scripts — copy melhora persuasão"
@@ -108,7 +108,7 @@ dna_sources:
 
   primario:
     - pessoa: "cole-gordon"
-      path: "/knowledge/dna/persons/cole-gordon"
+      path: "/knowledge/external/dna/persons/cole-gordon"
       raiz: "/inbox/COLE GORDON/"                    # RASTREABILIDADE
       dominios_usados:
         - "vendas"
@@ -160,7 +160,7 @@ dna_sources:
             - "Concession em troca de decisão"
 
     - pessoa: "alex-hormozi"
-      path: "/knowledge/dna/persons/alex-hormozi"
+      path: "/knowledge/external/dna/persons/alex-hormozi"
       raiz: "/inbox/alex hormozi/"              # RASTREABILIDADE
       dominios_usados:
         - "vendas"
@@ -200,7 +200,7 @@ dna_sources:
             - "OTE $120-220k/ano para BC"
             - "BC é 'Big Leagues' do Farm System"
         - titulo: "ACQ Scale Advisory $18K"
-          path_raiz: "/knowledge/sources/alex-hormozi/raw/acq-scale-advisory/"
+          path_raiz: "/knowledge/external/sources/alex-hormozi/raw/acq-scale-advisory/"
           tipo: "masterclass"
           data_processamento: "2026-03-11"
           insights_principais:
@@ -210,8 +210,8 @@ dna_sources:
 
     # ADICIONADO 2026-03-03: EDC como fonte secundária
     - pessoa: "ead-closer"
-      path: "/knowledge/dna/persons/ead-closer"
-      raiz: "/knowledge/sources/ead-closer/raw/"          # RASTREABILIDADE
+      path: "/knowledge/external/dna/persons/ead-closer"
+      raiz: "/knowledge/external/sources/ead-closer/raw/"          # RASTREABILIDADE
       dominios_usados:
         - "vendas-high-ticket"
         - "fechamento-call"
@@ -229,7 +229,7 @@ dna_sources:
       chunk_ids: []
       materiais_fonte:
         - titulo: "EAD Closer - Full Sales (Mod 1-5)"
-          path_raiz: "/knowledge/sources/ead-closer/raw/"
+          path_raiz: "/knowledge/external/sources/ead-closer/raw/"
           tipo: "course"
           data_processamento: "2026-03-03"
           insights_principais:
@@ -243,7 +243,7 @@ dna_sources:
     # FIX aplicado em 2026-01-10 - BUG #3
 
     - pessoa: "jeremy-haynes"
-      path: "/knowledge/dna/persons/jeremy-haynes"
+      path: "/knowledge/external/dna/persons/jeremy-haynes"
       raiz: "/inbox/JEREMY HAYNES/"                                # RASTREABILIDADE
       dominios_usados:
         - "recurring"
@@ -276,7 +276,7 @@ dna_sources:
             - "Closers viram 'order takers' quando marketing faz o trabalho"
 
     - pessoa: "SAM-OVEN"
-      path: "/knowledge/dna/persons/SAM-OVEN"
+      path: "/knowledge/external/dna/persons/SAM-OVEN"
       raiz: "/inbox/SAM OVENS (SETTERLUN UNIVERSITY)/"            # RASTREABILIDADE
       dominios_usados:
         - "offers"
@@ -319,7 +319,7 @@ dna_sources:
             - "Sandler: pain funnel"
 
     - pessoa: "russell-brunson"
-      path: "/knowledge/dna/persons/russell-brunson"
+      path: "/knowledge/external/dna/persons/russell-brunson"
       raiz: "/archive/Two_Comma_Club_Coaching-Russell_Brunson/000._Secrets_Masterclass_($4997)/"
       dominios_usados:
         - "funnels"
@@ -374,7 +374,7 @@ dna_sources:
     # ─────────────────────────────────────────────────────────────────────────────
 
     - pessoa: "JEREMY-MINER"
-      path: "/knowledge/dna/persons/JEREMY-MINER"
+      path: "/knowledge/external/dna/persons/JEREMY-MINER"
       raiz: "/inbox/JEREMY MINER/"                     # RASTREABILIDADE
       dominios_usados:
         - "nepq"
@@ -429,7 +429,7 @@ dna_sources:
 # ═══════════════════════════════════════════════════════════════════════════════
 
 conflitos:
-  path: "/knowledge/dna/MAPS/MAP-CONFLITOS.yaml"
+  path: "/knowledge/external/dna/MAPS/MAP-CONFLITOS.yaml"
   descricao: "Mapa de tensões entre fontes com resoluções documentadas"
 
   conflitos_conhecidos:

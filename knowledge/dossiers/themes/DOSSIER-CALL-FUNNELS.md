@@ -386,7 +386,7 @@ Ignorar DSL porque "VSL é mais profissional". DSL tem 77% engagement vs 45% do 
 ## Russell Brunson - Contribuicoes ^[NEW: 2026-03-01]
 
 > **Fonte:** Two Comma Club Coaching - Secrets Masterclass ($4,997)
-> **DNA:** knowledge/dna/persons/russell-brunson/DNA.yaml
+> **DNA:** knowledge/external/dna/persons/russell-brunson/DNA.yaml
 
 ### 9 Core Funnels Model
 

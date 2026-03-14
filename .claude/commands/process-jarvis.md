@@ -1003,7 +1003,7 @@ VERIFY all artifacts exist and are valid:
     LNS MEMORY.md NÃO continha AH-CP001 → FALHA
 
 □ SOUL UPDATE CHECK (se pessoa tem SOUL.md):
-  IF /agents/persons/$SOURCE_PERSON/SOUL.md exists:
+  IF /agents/external/$SOURCE_PERSON/SOUL.md exists:
     -> VERIFY SOUL.md foi atualizado com $SOURCE_ID
     -> IF NOT: LOG WARNING + adicionar à lista de pendências
 
@@ -2343,7 +2343,7 @@ LOG: "Verificando necessidade de atualização de DNA Cognitivo..."
 # ─────────────────────────────────────────────────────────────────────────
 # FASE 1: VERIFICAR SE PESSOA TEM DNA EXISTENTE
 # ─────────────────────────────────────────────────────────────────────────
-DNA_BASE_PATH = /knowledge/dna/persons/{SOURCE_PERSON_NORMALIZED}
+DNA_BASE_PATH = /knowledge/external/dna/persons/{SOURCE_PERSON_NORMALIZED}
 
 IF DNA_BASE_PATH exists:
   MODE = "UPDATE"
@@ -2375,7 +2375,7 @@ ELSE:
       LOG: "🧬 DNA EXTRACTION AUTOMÁTICA: {SOURCE_PERSON} (densidade {DOSSIER_DENSITY}/5)"
 
       # Criar diretório do DNA
-      DNA_BASE_PATH = /knowledge/dna/persons/{SOURCE_PERSON_NORMALIZED}
+      DNA_BASE_PATH = /knowledge/external/dna/persons/{SOURCE_PERSON_NORMALIZED}
       CREATE DIRECTORY DNA_BASE_PATH
 
       # Carregar fontes para extração rica (5 níveis)
@@ -2690,7 +2690,7 @@ LOG: "Verificando necessidade de atualizacao de SOUL.md..."
 # ─────────────────────────────────────────────────────────────────────────
 
 # Para PESSOA (agente isolado)
-PERSON_SOUL_PATH = /agents/persons/{SOURCE_PERSON}/SOUL.md
+PERSON_SOUL_PATH = /agents/external/{SOURCE_PERSON}/SOUL.md
 
 IF PERSON_SOUL_PATH exists:
   LOG: "SOUL de pessoa encontrado: {SOURCE_PERSON}"

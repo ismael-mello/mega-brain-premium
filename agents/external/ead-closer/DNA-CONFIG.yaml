@@ -1,0 +1,104 @@
+# DNA-CONFIG - EAD CLOSER
+# Configuracao de fontes de DNA para agente SOLO
+# Versao: 1.0.0 | Criado: 2026-03-03
+
+versao: "1.0.0"
+agente: "EAD-CLOSER"
+tipo: "SOLO"
+natureza: "PERSON"
+nivel: "L2-PRO"
+
+# Identidade
+pessoa: "EAD Closer (Vinicius de Sa + equipe)"
+empresa: "EAD Closer - Full Sales"
+localizacao: "Brasil"
+
+# Paths do agente
+paths:
+  soul: "./SOUL.md"
+  memory: "./MEMORY.md"
+  agent: "./AGENT.md"
+
+# Fonte unica (SOLO = peso 1.0)
+dna_sources:
+  - pessoa: "ead-closer"
+    peso: 1.0
+    path: "/knowledge/external/dna/persons/ead-closer/"
+    raiz: "/knowledge/external/sources/ead-closer/raw/"
+    dominios_usados:
+      - vendas-high-ticket
+      - fechamento-call
+      - spin-selling
+      - rapport-conexao
+      - tratamento-objecoes
+      - ancoragem-valor
+      - lideranca-closer
+      - eventos-presenciais
+      - apresentacao-comercial
+      - warm-up
+      - follow-up
+
+    materiais_fonte:
+      - id: "EDC-FULL-SALES"
+        titulo: "EAD Closer - Full Sales (Mod 1-5)"
+        tipo: "course"
+        arquivos: "60+"
+        data_processamento: "2026-03-03"
+        autores: ["Vinicius de Sa", "Yuri", "Bruno", "Aline"]
+
+# Estatisticas do DNA
+estatisticas:
+  total_elementos: 80
+  filosofias: 18
+  modelos_mentais: 14
+  heuristicas: 21
+  frameworks: 17
+  metodologias: 10
+  peso_medio: 0.85
+  batches_processados: 1
+  arquivos_fonte: 60
+
+# Arquivos DNA
+arquivos_dna:
+  - "/knowledge/external/dna/persons/ead-closer/CONFIG.yaml"
+  - "/knowledge/external/dna/persons/ead-closer/FILOSOFIAS.yaml"
+  - "/knowledge/external/dna/persons/ead-closer/MODELOS-MENTAIS.yaml"
+  - "/knowledge/external/dna/persons/ead-closer/HEURISTICAS.yaml"
+  - "/knowledge/external/dna/persons/ead-closer/FRAMEWORKS.yaml"
+  - "/knowledge/external/dna/persons/ead-closer/METODOLOGIAS.yaml"
+
+# Fontes agregadas (SOLO = nenhuma)
+dna_sources_agregado: []
+
+# Conflitos (SOLO = nenhum interno)
+mapa_conflitos: []
+
+# Referencias
+referencias:
+  source_log: "/logs/SOURCES/SOURCE-EDC.md"
+  raw_sources: "/knowledge/external/sources/ead-closer/raw/"
+
+# Heuristicas prioritarias (top 5)
+heuristicas_prioritarias:
+  - id: "EDC-HEUR-005"
+    regra: "Taxa de conversao alvo: 25-40% (1 em cada 3-4)"
+    fonte: "[EDC-0065]"
+  - id: "EDC-HEUR-001"
+    regra: "Introducao: maximo 5 minutos"
+    fonte: "[EDC-0076]"
+  - id: "EDC-HEUR-003"
+    regra: "SPIN Selling: 15 minutos"
+    fonte: "[EDC-0076]"
+  - id: "EDC-HEUR-015"
+    regra: "Silencio apos apresentar preco — quem falar primeiro perde"
+    fonte: "[EDC-0048]"
+  - id: "EDC-HEUR-021"
+    regra: "Follow-up minimo 5x antes de desistir de um lead"
+    fonte: "[EDC-0090]"
+
+# Metadados
+metadados:
+  criado_em: "2026-03-03"
+  protocolo: "AGENT-INTEGRITY-PROTOCOL v1.2.1"
+  pipeline: "Jarvis v3.33.0"
+  validado: true

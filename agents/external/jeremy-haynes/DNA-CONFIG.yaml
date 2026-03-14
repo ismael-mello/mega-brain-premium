@@ -1,0 +1,179 @@
+# DNA-CONFIG - JEREMY HAYNES
+# Configuracao de fontes de DNA para agente SOLO
+# Versao: 1.0.0 | Criado: 2026-03-02
+
+versao: "1.0.0"
+agente: "JEREMY-HAYNES"
+tipo: "SOLO"
+natureza: "PERSON"
+nivel: "L2-PRO"
+
+# Identidade
+pessoa: "Jeremy Haynes"
+empresa: "Inner Circle / Paramark / Megalodon Marketing"
+localizacao: "Miami, USA"
+
+# Paths do agente
+paths:
+  soul: "./SOUL.md"
+  memory: "./MEMORY.md"
+  agent: "./AGENT.md"
+
+# Fonte unica (SOLO = peso 1.0)
+dna_sources:
+  - pessoa: "jeremy-haynes"
+    peso: 1.0
+    path: "/knowledge/external/dna/persons/jeremy-haynes/"
+    raiz: "/inbox/jeremy haynes/"
+    dominios_usados:
+      - paid-media-scaling
+      - call-funnels
+      - show-rate-optimization
+      - pricing-recurring
+      - follow-up-architecture
+      - creative-production
+      - funnel-architecture
+      - reputation-management
+      - sales-training
+      - business-exits
+      - mindset-productivity
+      - team-hiring
+
+    materiais_fonte:
+      - id: "JH001"
+        titulo: "Pricing & Recurring Models"
+        tipo: "training"
+        chunks_estimados: 12
+        data_processamento: "2025-12-28"
+
+      - id: "JH002"
+        titulo: "Call Funnel & Hammer Strategy"
+        tipo: "training"
+        chunks_estimados: 10
+        data_processamento: "2025-12-28"
+
+      - id: "BATCH-068-070"
+        titulo: "Sell The Agency (STA)"
+        tipo: "course"
+        arquivos: 29
+        data_processamento: "2026-01-10"
+
+      - id: "BATCH-071-079"
+        titulo: "Inner Circle (IC)"
+        tipo: "mastermind"
+        arquivos: 50
+        data_processamento: "2026-01-10"
+
+      - id: "BATCH-080-081"
+        titulo: "Landing Your First Client (LYFC)"
+        tipo: "course"
+        arquivos: 10
+        data_processamento: "2026-01-10"
+
+      - id: "BATCH-082-084"
+        titulo: "Weekly Calls + Make More Money (WK/MMM)"
+        tipo: "calls"
+        arquivos: 49
+        data_processamento: "2026-01-10"
+
+      - id: "BATCH-092-094"
+        titulo: "30-Day Challenge (30DC)"
+        tipo: "challenge"
+        arquivos: 30
+        data_processamento: "2026-01-10"
+
+      - id: "BATCH-094-099"
+        titulo: "Agency Operating Basics Academy (AOBA)"
+        tipo: "course"
+        arquivos: 56
+        data_processamento: "2026-01-10"
+
+      - id: "BATCH-100-101"
+        titulo: "Perfect Cold Video Pitch (PCVP)"
+        tipo: "training"
+        arquivos: 13
+        data_processamento: "2026-01-10"
+
+      - id: "CA"
+        titulo: "Client Accelerator (CA)"
+        tipo: "course"
+        arquivos: 28
+        data_processamento: "2026-03-03"
+        nota: "Merge direto nos YAML DNA files (bypassed pipeline)"
+
+# Estatisticas do DNA
+estatisticas:
+  total_elementos: 2280
+  filosofias: 370
+  modelos_mentais: 257
+  heuristicas: 881
+  frameworks: 460
+  metodologias: 312
+  peso_medio: 0.85
+  alta_confianca_percent: 92.1
+  batches_processados: 30
+  arquivos_fonte: 296
+  series: 10
+  yaml_summary_elements: 222
+
+# Arquivos DNA
+arquivos_dna:
+  - "/knowledge/external/dna/persons/jeremy-haynes/CONFIG.yaml"
+  - "/knowledge/external/dna/persons/jeremy-haynes/FILOSOFIAS.yaml"
+  - "/knowledge/external/dna/persons/jeremy-haynes/MODELOS-MENTAIS.yaml"
+  - "/knowledge/external/dna/persons/jeremy-haynes/HEURISTICAS.yaml"
+  - "/knowledge/external/dna/persons/jeremy-haynes/FRAMEWORKS.yaml"
+  - "/knowledge/external/dna/persons/jeremy-haynes/METODOLOGIAS.yaml"
+
+# Fontes agregadas (SOLO = nenhuma)
+dna_sources_agregado: []
+
+# Conflitos (SOLO = nenhum interno)
+mapa_conflitos: []
+
+# Tensoes com outras fontes
+tensoes_externas:
+  - fonte: "Alex Hormozi"
+    topico: "Modelo de receita"
+    posicao_jh: "Recurring monthly ($10K/mes)"
+    posicao_outra: "Transactional one-time ($5K-$18K)"
+    tipo: "COMPLEMENTAR"
+    resolucao: "Modelos diferentes para objetivos diferentes"
+
+  - fonte: "Cole Gordon"
+    topico: "Follow-up systems"
+    posicao_jh: "Cleaner Role (2 weeks-1 month)"
+    posicao_outra: "Similar approach"
+    tipo: "ALINHADO"
+
+# Dossier e source log
+referencias:
+  dossier: "/knowledge/dossiers/persons/DOSSIER-JEREMY-HAYNES.md"
+  source_log: "/logs/SOURCES/SOURCE-JH.md"
+  inbox_root: "/inbox/jeremy haynes/"
+  raw_sources: "/knowledge/external/sources/jeremy-haynes/raw/"
+
+# Heuristicas prioritarias (top 5)
+heuristicas_prioritarias:
+  - id: "JH-HEU-006"
+    regra: "DSL 77% reach slide 5 vs VSL 5-9% press play"
+    fonte: "BATCH-077"
+  - id: "JH-HEU-016"
+    regra: "Calendly embutido no TypeForm = 99% booking vs 50% separado"
+    fonte: "JH002"
+  - id: "JH-HEU-019"
+    regra: "12 emails + 4 texts em 48h = 50-80% show rate"
+    fonte: "JH002"
+  - id: "JH-HEU-001"
+    regra: "BFCM bem executado = $734K em 7 dias com $83K spend"
+    fonte: "BATCH-076"
+  - id: "JH-HEU-013"
+    regra: "$1 MRR = $50-80 enterprise value"
+    fonte: "BATCH-082"
+
+# Metadados
+metadados:
+  criado_em: "2026-03-02"
+  protocolo: "AGENT-INTEGRITY-PROTOCOL v1.2.1"
+  pipeline: "Jarvis v3.33.0"
+  validado: true

@@ -374,7 +374,7 @@ Adicionar ao final de cada seção:
 - Total: 482 → ~522
 
 ### Atualizar DNA-CONFIG.yaml:
-Adicionar fonte FU2016 com path: `knowledge/sources/russell-brunson/raw/17._Funnel_University_2016/`
+Adicionar fonte FU2016 com path: `knowledge/external/sources/russell-brunson/raw/17._Funnel_University_2016/`
 
 ### Atualizar MEMORY.md:
 Remover status PENDENTE e atualizar com contagem real

@@ -166,7 +166,7 @@ WRITE structured content to DESTINATION
 ## REGRAS IMPORTANTES
 
 1. **Somente indivíduos identificados viram agentes** — temas viram dossiês, não agentes
-2. **Material sobre pessoa** → roteia para `roles/` ou `jds/` (não para `agents/persons/`)
+2. **Material sobre pessoa** → roteia para `roles/` ou `jds/` (não para `agents/external/`)
 3. **Material sobre processo/operação** → roteia para `operations/`
 4. **Material sobre organograma** → roteia para `org/`
 5. **Material sobre métricas/KPIs** → roteia para `metrics/`

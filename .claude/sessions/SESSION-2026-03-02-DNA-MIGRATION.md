@@ -25,9 +25,9 @@ Migrate 8 legacy DNA sources from separate 5-yaml format to unified DNA.yaml (Ru
 5. Cole Gordon: All 5 layer files READ (output saved to tool-results JSON). Context exhausted before WRITE.
 
 ## ARQUIVOS MODIFICADOS
-- `knowledge/dna/persons/sam-oven/DNA.yaml` - CREATED (unified format, 21 elements)
-- `knowledge/dna/persons/richard-linder/DNA.yaml` - CREATED (unified format, 24 elements)
-- `knowledge/dna/persons/jordan-lee/DNA.yaml` - CREATED (unified format, 26 elements)
+- `knowledge/external/dna/persons/sam-oven/DNA.yaml` - CREATED (unified format, 21 elements)
+- `knowledge/external/dna/persons/richard-linder/DNA.yaml` - CREATED (unified format, 24 elements)
+- `knowledge/external/dna/persons/jordan-lee/DNA.yaml` - CREATED (unified format, 26 elements)
 - `.claude/sessions/SESSION-2026-03-02-DNA-MIGRATION.md` - Updated with progress
 
 ## DECISÕES TOMADAS

@@ -22,7 +22,7 @@ Processar 115 raw files de 3 fontes não processadas:
 ## INVENTÁRIO COMPLETO DE ARQUIVOS
 
 ### 30DC (24 files) - Jeremy Haynes - Cold Email Outreach
-Path: `knowledge/sources/30-day-challenge/raw/`
+Path: `knowledge/external/sources/30-day-challenge/raw/`
 - [30DC-0003] Day 3 - Email Outreach Follow-up Strategy
 - [30DC-0004] Day 4
 - [30DC-0005] Day 5
@@ -49,7 +49,7 @@ Path: `knowledge/sources/30-day-challenge/raw/`
 - [30DC-0030] Day 30
 
 ### CA (28 files) - Jeremy Haynes - Client Accelerator
-Path: `knowledge/sources/client-accelerator/raw/`
+Path: `knowledge/external/sources/client-accelerator/raw/`
 
 **CA Base (15 files):**
 - [CA-0002] Guitar Digital Product - Low Ticket Offer (ad script example)
@@ -84,7 +84,7 @@ Path: `knowledge/sources/client-accelerator/raw/`
 - [PCVP-0013] PR Services
 
 ### EDC (63 files) - Vinícius - EAD Closer (Brazilian)
-Path: `knowledge/sources/ead-closer/raw/`
+Path: `knowledge/external/sources/ead-closer/raw/`
 
 **Curso 1 - Mod 1 (Fundamentos de Vendas):**
 - [EDC-0001] Ritual de Pré-Atendimento

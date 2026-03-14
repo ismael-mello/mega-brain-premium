@@ -9,13 +9,13 @@
 Sessão de retomada após compactação de contexto. O pipeline FLCR havia sido executado na sessão anterior (commit c75e600) com 80% de progresso — DNA criado, person agent criado, mas Phase 7 (enrichment) pendente.
 
 Nesta sessão foi concluído o pipeline completo:
-- Inbox removido (raw seguro em knowledge/sources/)
+- Inbox removido (raw seguro em knowledge/external/sources/)
 - DNA expandido com elementos do background agent (Matriz GUT + Lencioni)
 - COO e CRO enriquecidos com referências FLCR
 
 ## AÇÕES EXECUTADAS
 
-1. **Inbox limpo**: Removido `inbox/FORMAÇÃO EM LIDERANÇA, CULTURA E RESULTADO - FLCR/` — raw já estava seguro em `knowledge/sources/flcr/raw/`
+1. **Inbox limpo**: Removido `inbox/FORMAÇÃO EM LIDERANÇA, CULTURA E RESULTADO - FLCR/` — raw já estava seguro em `knowledge/external/sources/flcr/raw/`
 2. **DNA L2 expandido**: +2 elementos
    - `MM-FLCR-033`: Matriz GUT (Gravidade × Urgência × Tendência) — com scores, thresholds, fórmula
    - `MM-FLCR-034`: 5 Disfunções de Equipe (Lencioni) — pirâmide completa com diagnóstico
@@ -30,16 +30,16 @@ Nesta sessão foi concluído o pipeline completo:
 
 ## ARQUIVOS MODIFICADOS
 
-- `knowledge/dna/persons/flcr/DNA.yaml` — total: 180→184, L2: 32→34, L4: 42→44
-- `knowledge/dna/persons/flcr/L2-MENTAL-MODELS.yaml` — +MM-FLCR-033, +MM-FLCR-034 (total: 34)
-- `knowledge/dna/persons/flcr/L4-FRAMEWORKS.yaml` — +FW-FLCR-043, +FW-FLCR-044 (total: 44)
-- `agents/persons/flcr/AGENT.md` — contador atualizado 180→184
+- `knowledge/external/dna/persons/flcr/DNA.yaml` — total: 180→184, L2: 32→34, L4: 42→44
+- `knowledge/external/dna/persons/flcr/L2-MENTAL-MODELS.yaml` — +MM-FLCR-033, +MM-FLCR-034 (total: 34)
+- `knowledge/external/dna/persons/flcr/L4-FRAMEWORKS.yaml` — +FW-FLCR-043, +FW-FLCR-044 (total: 44)
+- `agents/external/flcr/AGENT.md` — contador atualizado 180→184
 - `agents/cargo/c-level/coo/DNA-CONFIG.yaml` — FLCR adicionado (peso 0.75)
 - `agents/cargo/c-level/cro/DNA-CONFIG.yaml` — FLCR adicionado (peso 0.75)
 
 ## PENDÊNCIAS
 
-- [ ] **AGG-LIDERANCA.yaml** — criar knowledge/dna/aggregated/AGG-LIDERANCA.yaml (14º AGG, refs ao FLCR)
+- [ ] **AGG-LIDERANCA.yaml** — criar knowledge/external/dna/aggregated/AGG-LIDERANCA.yaml (14º AGG, refs ao FLCR)
 - [ ] **CFO enrichment** — meritocracia por indicadores (+0.70), acompanhamento de KPIs (+0.60)
 - [ ] **Avaliar agente RH/People-Ops** — Diagnóstico + Clima + Avaliação + PDI (peso ~0.90 FLCR)
 - [ ] **AGENT-INDEX.yaml** — verificar se FLCR está listado corretamente
@@ -50,11 +50,11 @@ Nesta sessão foi concluído o pipeline completo:
 - **Phase 7 prioridade**: COO e CRO foram enriquecidos (maior sobreposição). CFO ficou para próxima.
 - **AGG-LIDERANCA**: Não criado por limite de contexto. Pode ser feito em sessão dedicada.
 - **RH/People-Ops agent**: Decisão adiada — requer avaliação do AGENT-INDEX para ver se cabe criar novo cargo.
-- **Inbox removido**: Confirmado que todos os 65 arquivos raw estão em knowledge/sources/flcr/raw/ antes de remover.
+- **Inbox removido**: Confirmado que todos os 65 arquivos raw estão em knowledge/external/sources/flcr/raw/ antes de remover.
 
 ## PRÓXIMOS PASSOS PLANEJADOS
 
-1. Criar `knowledge/dna/aggregated/AGG-LIDERANCA.yaml`
+1. Criar `knowledge/external/dna/aggregated/AGG-LIDERANCA.yaml`
    - Fonte principal: flcr (peso 0.90)
    - Domínios: liderança, cultura, people-management, change-management, meritocracia, feedback
    - Referenciar para COO, CRO, e futuro agente RH

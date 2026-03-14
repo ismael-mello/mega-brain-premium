@@ -14,7 +14,7 @@ liderança, cultura organizacional, R&S, onboarding, gestão da mudança, feedba
 ## AÇÕES EXECUTADAS
 
 1. **Phase 1 - Initialization**: Identificado conteúdo como FLCR / Wilson Sajr (@wilsonsajr) / PWR Gestão
-2. **Phase 2 - Chunking**: 65 arquivos copiados para `knowledge/sources/flcr/raw/`
+2. **Phase 2 - Chunking**: 65 arquivos copiados para `knowledge/external/sources/flcr/raw/`
 3. **Phase 3 - Entity Resolution**: Wilson (@wilsonsajr), CEO/Consultor PWR, handle descoberto via `@wilsonsajr` em apresentação pptx
 4. **Phase 4 - Insight Extraction**: DNA completo extraído — 180 elementos
 5. **Phase 5-6 - Synthesis + Dossier**: Person agent criado com SOUL.md, MEMORY.md, AGENT.md
@@ -25,26 +25,26 @@ liderança, cultura organizacional, R&S, onboarding, gestão da mudança, feedba
 ## ARQUIVOS CRIADOS/MODIFICADOS
 
 ### Novos arquivos (75 files no commit c75e600):
-- `agents/persons/flcr/AGENT.md`
-- `agents/persons/flcr/SOUL.md`
-- `agents/persons/flcr/MEMORY.md`
-- `agents/persons/flcr/DNA-CONFIG.yaml`
-- `knowledge/dna/persons/flcr/DNA.yaml`
-- `knowledge/dna/persons/flcr/L1-PHILOSOPHIES.yaml` (28 elementos)
-- `knowledge/dna/persons/flcr/L2-MENTAL-MODELS.yaml` (32 elementos)
-- `knowledge/dna/persons/flcr/L3-HEURISTICS.yaml` (38 elementos)
-- `knowledge/dna/persons/flcr/L4-FRAMEWORKS.yaml` (42 elementos)
-- `knowledge/dna/persons/flcr/L5-METHODOLOGIES.yaml` (40 elementos)
-- `knowledge/sources/flcr/raw/` (65 raw files do curso)
+- `agents/external/flcr/AGENT.md`
+- `agents/external/flcr/SOUL.md`
+- `agents/external/flcr/MEMORY.md`
+- `agents/external/flcr/DNA-CONFIG.yaml`
+- `knowledge/external/dna/persons/flcr/DNA.yaml`
+- `knowledge/external/dna/persons/flcr/L1-PHILOSOPHIES.yaml` (28 elementos)
+- `knowledge/external/dna/persons/flcr/L2-MENTAL-MODELS.yaml` (32 elementos)
+- `knowledge/external/dna/persons/flcr/L3-HEURISTICS.yaml` (38 elementos)
+- `knowledge/external/dna/persons/flcr/L4-FRAMEWORKS.yaml` (42 elementos)
+- `knowledge/external/dna/persons/flcr/L5-METHODOLOGIES.yaml` (40 elementos)
+- `knowledge/external/sources/flcr/raw/` (65 raw files do curso)
 
 ### Atualizado:
 - `memory/MEMORY.md` (status FLCR adicionado)
 
 ## PENDÊNCIAS
 
-- [ ] **CRÍTICO**: Remover `inbox/FORMAÇÃO EM LIDERANÇA, CULTURA E RESULTADO - FLCR/` (raw já está em knowledge/sources/)
+- [ ] **CRÍTICO**: Remover `inbox/FORMAÇÃO EM LIDERANÇA, CULTURA E RESULTADO - FLCR/` (raw já está em knowledge/external/sources/)
 - [ ] Adicionar ao DNA: Matriz Gulti (G×U×T), Lencioni 5 Dysfunctions, conteúdo restante Módulo 10 (148KB, só 30% coberto)
-- [ ] Criar `knowledge/dna/aggregated/AGG-LIDERANCA.yaml`
+- [ ] Criar `knowledge/external/dna/aggregated/AGG-LIDERANCA.yaml`
 - [ ] Enriquecer COO: Gestão da Mudança (FLCR weight +0.75), Follow-up/Acompanhamento (+0.6)
 - [ ] Enriquecer CRO: Feedback (+0.75), Acompanhamento (+0.8), Mudança (+0.6), Meritocracia (+0.7)
 - [ ] Enriquecer CFO: Meritocracia indicadores (+0.7), Acompanhamento KPIs (+0.6)

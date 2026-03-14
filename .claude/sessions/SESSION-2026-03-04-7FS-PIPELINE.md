@@ -48,7 +48,7 @@ Usuario executou `/jarvis-full inbox` para processar 50 transcricoes do curso "7
 ## ACOES EXECUTADAS (Sessao 2 - tentativa de merge)
 1. Relido sessao anterior e DNA-CONFIG.yaml, MEMORY.md, AGENT.md, SOUL.md
 2. Confirmado que 3 arquivos de extracao existem no filesystem:
-   - `knowledge/sources/russell-brunson/07-7-FIGURE-SHORTCUT-DNA.md` (Batch A - ~52KB)
+   - `knowledge/external/sources/russell-brunson/07-7-FIGURE-SHORTCUT-DNA.md` (Batch A - ~52KB)
    - `inbox/04._7_Figure_Shortcut-Russell_Brunson/DNA-EXTRACTION-7FS-PART2-ITS.md` (Batch C)
    - `inbox/04._7_Figure_Shortcut-Russell_Brunson/Russell Brunson - 7 Figure Shortcut/Building Your Backend/DNA_EXTRACTION_BUILDING_YOUR_BACKEND.md` (Batch D)
 3. Context esgotou novamente antes de poder executar merge
@@ -56,7 +56,7 @@ Usuario executou `/jarvis-full inbox` para processar 50 transcricoes do curso "7
 
 ## ARQUIVOS DE EXTRACAO CONFIRMADOS NO FILESYSTEM
 ```
-knowledge/sources/russell-brunson/07-7-FIGURE-SHORTCUT-DNA.md          (Batch A - 70 elementos)
+knowledge/external/sources/russell-brunson/07-7-FIGURE-SHORTCUT-DNA.md          (Batch A - 70 elementos)
 inbox/04._7_Figure_Shortcut-Russell_Brunson/DNA-EXTRACTION-7FS-PART2-ITS.md  (Batch C - 59 elementos)
 inbox/04._7_Figure_Shortcut-Russell_Brunson/Russell Brunson - 7 Figure Shortcut/Building Your Backend/DNA_EXTRACTION_BUILDING_YOUR_BACKEND.md  (Batch D - 102 elementos)
 ```
@@ -88,10 +88,10 @@ Conteudo chave do Batch B que precisa ser recapturado:
 - Key heuristics: 50 leads/week/setter, $150 DPL, 28-day timing, sliding commission 17%→25%
 
 ## ARQUIVOS DO AGENTE ATUAL (estado pre-merge)
-- `agents/persons/russell-brunson/DNA-CONFIG.yaml` - v3.0.0, 470 elementos
-- `agents/persons/russell-brunson/MEMORY.md` - v4.0.0, 2026-03-03
-- `agents/persons/russell-brunson/AGENT.md` - v2.1.0, 85% maturidade
-- `agents/persons/russell-brunson/SOUL.md` - v1.0, 2026-03-01
+- `agents/external/russell-brunson/DNA-CONFIG.yaml` - v3.0.0, 470 elementos
+- `agents/external/russell-brunson/MEMORY.md` - v4.0.0, 2026-03-03
+- `agents/external/russell-brunson/AGENT.md` - v2.1.0, 85% maturidade
+- `agents/external/russell-brunson/SOUL.md` - v1.0, 2026-03-01
 
 ## PENDENCIAS COMPLETAS
 - [ ] **RE-EXTRAIR Batch B** (73 elementos - Sales Scripts + Setter/Closer - NAO salvou arquivo)
@@ -101,7 +101,7 @@ Conteudo chave do Batch B que precisa ser recapturado:
 - [ ] **ATUALIZAR MEMORY.md** v5.0.0 (adicionar merge #5, novos padroes, insights)
 - [ ] **ATUALIZAR AGENT.md** v3.0.0 (novos frameworks, heuristicas, dimensoes)
 - [ ] **ATUALIZAR SOUL.md** v2.0 (novos dominios: setter/closer, traffic modules, backend)
-- [ ] **MOVER RAW FILES** inbox/04._7_Figure_Shortcut-Russell_Brunson/ → knowledge/sources/russell-brunson/raw/04._7_Figure_Shortcut/
+- [ ] **MOVER RAW FILES** inbox/04._7_Figure_Shortcut-Russell_Brunson/ → knowledge/external/sources/russell-brunson/raw/04._7_Figure_Shortcut/
 
 ## RESULTADOS DA EXTRACAO (RESUMO PARA PROXIMA SESSAO)
 
@@ -167,7 +167,7 @@ Conteudo chave do Batch B que precisa ser recapturado:
 
 4. ATUALIZE os arquivos do agente (DNA-CONFIG, MEMORY, AGENT, SOUL) em sequencia
 
-5. MOVA os raw files para knowledge/sources/russell-brunson/raw/
+5. MOVA os raw files para knowledge/external/sources/russell-brunson/raw/
 ```
 
 ---
