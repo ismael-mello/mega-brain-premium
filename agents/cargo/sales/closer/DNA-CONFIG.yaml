@@ -17,12 +17,21 @@
 # ═══════════════════════════════════════════════════════════════════════════════
 
 cargo: "closer"
-versao: "3.3.0"
+versao: "3.6.0"
 nivel: "SALES"
 natureza: "HIBRIDO"
 data_criacao: "2025-12-23"
-ultima_atualizacao: "2026-03-12"
+ultima_atualizacao: "2026-03-15"
 # CHANGELOG:
+# v3.6.0 (2026-03-15): DK-MTBN Phase 8 — closing frameworks, stage closing methodology, psychological selling scripts
+#                      - Added 7 MTBN DK insight_ids (FW-DK-293/294/295/306/307, MET-DK-206/207)
+# v3.5.0 (2026-03-15): DK-MTBN enrichment — psychology of selling, mind control copy, affluent closing, one-to-many stage closing
+#                      - Added dan-kennedy as fonte with MTBN domains (psychology-of-selling, stage-closing, affluent-closing, mind-control)
+#                      - Added 6 MTBN DK insight_ids (MM-DK-360, FIL-DK-420/421/427/437/435)
+# v3.4.0 (2026-03-15): RB-MM enrichment — speak-to-sell, Stack Slide conviction, Emotion Thermometer
+#                      - Added MM domains (magnetic-marketing, presentation-selling, conviction-closing)
+#                      - Added 12 MM-RB insight_ids (MET-RB-110, MM-RB-068-073, MM-RB-040/043)
+#                      - Added MM materiais_fonte entry (Magnetic Marketing programs)
 # v3.1.0 (2026-03-03): Adicionado EAD-CLOSER como fonte secundária (peso 0.4)
 #                      - Técnicas BR: SPIN, warm-up, follow-up, silêncio pós-preço
 # v3.0.0 (2026-01-10): BUG #1 FIX - Cascateamento completo
@@ -320,16 +329,21 @@ dna_sources:
 
     - pessoa: "russell-brunson"
       path: "/knowledge/external/dna/persons/russell-brunson"
-      raiz: "/archive/Two_Comma_Club_Coaching-Russell_Brunson/000._Secrets_Masterclass_($4997)/"
+      raiz: "/knowledge/external/sources/russell-brunson/raw/"
       dominios_usados:
         - "funnels"
         - "webinars"
         - "copywriting"
         - "traffic"
+        - "magnetic-marketing"       # MM enrichment 2026-03-15
+        - "presentation-selling"     # MM enrichment 2026-03-15
+        - "conviction-closing"       # MM enrichment 2026-03-15
       peso: 0.60
-      quando_usar: "Perfect Webinar closing, Stack technique, Trial Closes, belief-based selling, Big Domino"
+      quando_usar: "Perfect Webinar closing, Stack technique, Trial Closes, belief-based selling, Big Domino, Speak-to-Sell recovery, Emotion Thermometer, conviction closing via micro-commitments"
       added: "2026-03-01"
+      updated: "2026-03-15"
       insight_ids:
+        # --- Secrets Masterclass (original) ---
         - "FW-RB-001"   # Perfect Webinar Framework
         - "FW-RB-002"   # Stack Slide Framework
         - "FW-RB-039"   # If-All Close
@@ -345,6 +359,33 @@ dna_sources:
         - "MET-RB-021"  # Two-Step SET Script (PDF: Module 8)
         - "MET-RB-022"  # Two-Step CLOSE Script (PDF: Module 8)
         - "HEUR-RB-102" # 50% emotion, 30% logic, 20% fear (PDF: Traffic Secrets)
+        # --- Magnetic Marketing (added 2026-03-15) ---
+        - "MET-RB-110"  # Speak-to-Sell Recovery Method (5-step fix for presentation selling)
+        - "MET-RB-003"  # Stack Presentation Method (step-by-step closing with Stack Slide)
+        - "MM-RB-068"   # Emotion Thermometer (SET-GAP-CLOSE cycle)
+        - "MM-RB-069"   # Gap Reduction Through Little Yeses (micro-commitments)
+        - "MM-RB-070"   # Funnel as Lead Qualifier (Invisible Funnel replaces BDR army)
+        - "MM-RB-071"   # Football Team Model (Setter vs Closer roles)
+        - "MM-RB-072"   # $3,000 Anchor Model (partial payment = sunk cost + lock)
+        - "MM-RB-073"   # Homework as Commitment Device (time investment = money investment)
+        - "MM-RB-040"   # Open Loop vs Closed Loop Selling (keep loops for upsell momentum)
+        - "MM-RB-043"   # Zeigarnik Effect in Sales (unresolved tension drives action)
+        - "MM-RB-074"   # Belief Installation Model (install belief, product sells itself)
+        - "MM-RB-081"   # Lifeline of a Lead (opt-in → upsell → ascension lifecycle)
+      # MM highlights (added 2026-03-15)
+      mm_highlights:
+        - tema: "Speak-to-Sell Recovery"
+          descricao: "5-step method to fix presentation selling: accept failure → study pitch mechanics → create timed close → practice → deploy 100+ times"
+          aplicacao: "Closer usa para recuperar e melhorar taxas de fechamento em webinars e palco"
+          source: "Magnetic Marketing - Funnel Labs / DCS LIVE"
+        - tema: "Emotion Thermometer (SET-GAP-CLOSE)"
+          descricao: "Manage prospect emotional state through SET (create hope) → GAP (create pain of not having) → CLOSE (bridge with offer)"
+          aplicacao: "Closer calibra emocão do prospect em tempo real durante call — SET antes de pitch, GAP antes de preço, CLOSE após gap"
+          source: "Magnetic Marketing - Invisible Funnel"
+        - tema: "Football Team Model"
+          descricao: "Setter vs Closer = different temperaments. Setter qualifies and warms. Closer converts. 2 closers do what 60 cold-callers do when funnel qualifies."
+          aplicacao: "Closer entende seu papel no sistema — não é cold-caller, é conversor de leads pré-qualificados pelo funil"
+          source: "Magnetic Marketing - Invisible Funnel"
       materiais_fonte:
         - titulo: "Secrets Masterclass ($4,997) - 9 Modules"
           path_raiz: "/archive/Two_Comma_Club_Coaching-Russell_Brunson/000._Secrets_Masterclass_($4997)/"
@@ -368,6 +409,55 @@ dna_sources:
             - "OTO Upsell Script (11 steps)"
             - "Two-Step Phone Sales: SET script + CLOSE script"
             - "Buyer psychology: 50% emotion, 30% logic, 20% fear"
+        - titulo: "Magnetic Marketing (Funnel Labs, DCS LIVE, Invisible Funnel)"
+          path_raiz: "/knowledge/external/sources/russell-brunson/raw/magnetic-marketing/"
+          tipo: "course-bundle"
+          data_processamento: "2026-03-15"
+          insights_principais:
+            - "Speak-to-Sell Recovery: 5-step fix for presentation closing"
+            - "Emotion Thermometer: SET-GAP-CLOSE emotional calibration"
+            - "Football Team Model: Setter vs Closer division of labor"
+            - "Invisible Funnel: 2 closers replace 60 cold-callers"
+            - "$3,000 Anchor: partial payment creates psychological lock"
+            - "Belief Installation: install the belief, product sells itself"
+
+    - pessoa: "dan-kennedy"
+      path: "/knowledge/external/dna/persons/dan-kennedy"
+      raiz: "/knowledge/external/sources/dan-kennedy/raw/make-them-buy-now/"
+      dominios_usados:
+        - "psychology-of-selling"
+        - "stage-closing"
+        - "affluent-closing"
+        - "mind-control-copy"
+        - "one-to-many-selling"
+      peso: 0.55
+      quando_usar: "Psicologia profunda de fechamento, stage/webinar closing, fechar para affluent, emotion triggers, single emotion channel"
+      added: "2026-03-15"
+      insight_ids:
+        - "MM-DK-360"   # Single Emotion Channel — curiosity displaces skepticism
+        - "FIL-DK-420"  # Direct Response = Half Psychology Half Math
+        - "FIL-DK-421"  # Stories Have Equity — proprietary and protected
+        - "FIL-DK-427"  # Dark Greater Than Light — drag to darkness not light
+        - "FIL-DK-437"  # Process Identical Regardless of Price — $47 to $470K same framework
+        - "FIL-DK-435"  # Price Suspension — Their Thing = price objection disappears
+        - "FW-DK-293"   # MTBN closing framework
+        - "FW-DK-294"   # MTBN closing framework
+        - "FW-DK-295"   # MTBN closing framework
+        - "FW-DK-306"   # MTBN stage closing
+        - "FW-DK-307"   # MTBN stage closing
+        - "MET-DK-206"  # MTBN selling methodology
+        - "MET-DK-207"  # MTBN selling methodology
+      materiais_fonte:
+        - titulo: "Make Them Buy Now — MTBN Bundle (OTM, Secrets, Sorcery, Affluent)"
+          path_raiz: "/knowledge/external/sources/dan-kennedy/raw/make-them-buy-now/"
+          tipo: "seminar-bundle"
+          data_processamento: "2026-03-15"
+          insights_principais:
+            - "Single Emotion Channel: if curious, cannot be skeptical — use to displace resistance"
+            - "Stories have equity: proprietary personal story protects positioning"
+            - "Dark > Light: negative motivation outperforms positive in DR"
+            - "Process identical $47→$470K: closing framework doesn't change, patience does"
+            - "Price Suspension: affluent spend freely when positioned in Their Thing"
 
     # ─────────────────────────────────────────────────────────────────────────────
     # ADICIONADO EM PHASE 5.3 - MISSION-2026-001

@@ -24,11 +24,27 @@
 # ═══════════════════════════════════════════════════════════════════════════════
 
 cargo: "CMO"
-versao: "3.5.0"
+versao: "3.9.0"
 nivel: "C-LEVEL"
 natureza: "HIBRIDO"
 data_criacao: "2025-12-23"
-ultima_atualizacao: "2026-03-13"
+ultima_atualizacao: "2026-03-15"
+# CHANGELOG:
+# v3.9.0 (2026-03-15): DK-MTBN Phase 8 — persuasion frameworks, copy sorcery, affluent messaging, mind control copy scripts
+#                      - Added 11 MTBN DK insight_ids (FIL-DK-420/421/422, FW-DK-308/309/310, HEUR-DK-527/528/529, MET-DK-213/214)
+# v3.8.0 (2026-03-15): DK-MTBN enrichment — one-to-many selling, affluent marketing, magnetic marketing 2014, sorcery of persuasion, list building
+#                      - Added MTBN domains (one-to-many-selling, affluent-marketing, magnetic-marketing-2014, mind-control-copy, list-building)
+#                      - Added 8 MTBN DK insight_ids (FIL-DK-409/435/438/449/450/451/427/432)
+#                      - Added MTBN materiais_fonte entry
+# v3.7.0 (2026-03-15): DK-OMC enrichment — opportunity positioning, PLF (Jeff Walker), dissatisfaction gap, Toaster Principle
+#                      - Added OMC domains (opportunity-positioning, dissatisfaction-gap, product-launch-formula, toaster-principle)
+#                      - Added 6 OMC insight_ids (FIL-DK-319/386, MM-DK-280/282/325, FW-DK-range)
+#                      - Added OMC materiais_fonte
+# v3.6.0 (2026-03-15): RB-MM enrichment — Five Fatal Flaws, Pest-to-Guest, SOAP/Seinfeld, lead magnets, direct mail
+#                      - Added MM domains (magnetic-marketing, direct-mail, lead-magnets)
+#                      - Added 13 MM-RB insight_ids (MM-RB-025/030-032/045/056-057/060/062-064, FW-RB-026/027/087)
+#                      - Added MM materiais_fonte + mm_highlights
+# v3.5.0 (2026-03-13): dan-kennedy enrichment (CC + 12BBS + ACC)
 
 # ═══════════════════════════════════════════════════════════════════════════════
 # CONSTITUICAO (Layer 1 - Principios compartilhados)
@@ -257,7 +273,7 @@ dna_sources:
 
     - pessoa: "russell-brunson"
       path: "/knowledge/external/dna/persons/russell-brunson"
-      raiz: "/archive/Two_Comma_Club_Coaching-Russell_Brunson/000._Secrets_Masterclass_($4997)/"
+      raiz: "/knowledge/external/sources/russell-brunson/raw/"
       dominios_usados:
         - "funnels"
         - "webinars"
@@ -266,10 +282,15 @@ dna_sources:
         - "email-marketing"
         - "storytelling"
         - "mass-movements"
+        - "magnetic-marketing"       # MM enrichment 2026-03-15
+        - "direct-mail"              # MM enrichment 2026-03-15
+        - "lead-magnets"             # MM enrichment 2026-03-15
       peso: 0.85
-      quando_usar: "Funnel architecture, webinar selling, copywriting, traffic strategy, email sequences, storytelling for marketing"
+      quando_usar: "Funnel architecture, webinar selling, copywriting, traffic strategy, email sequences, storytelling for marketing, direct mail, lead magnet strategy, follow-up sequences (SOAP/Seinfeld), audience psychology"
       added: "2026-03-01"
+      updated: "2026-03-15"
       insight_ids:
+        # --- Secrets Masterclass + PDFs (original) ---
         - "FW-RB-001"   # Perfect Webinar Framework
         - "FW-RB-004"   # Secret Formula
         - "FW-RB-005"   # Value Ladder
@@ -286,6 +307,37 @@ dna_sources:
         - "HEUR-RB-106" # YouTube CTR benchmarks (PDF: Traffic Secrets)
         - "MET-RB-032"  # Instagram Publishing Plan (PDF: Traffic Secrets)
         - "MET-RB-033"  # Facebook Publishing Plan (PDF: Traffic Secrets)
+        # --- Magnetic Marketing (added 2026-03-15) ---
+        - "FW-RB-026"   # SOAP Opera Sequence (3-part email: High Drama → Backstory → Epiphany)
+        - "FW-RB-027"   # Communication Funnel Architecture (multi-touchpoint follow-up)
+        - "FW-RB-087"   # Perfect Webinar Funnel Sequence (webinar as lead magnet delivery)
+        - "MET-RB-006"  # SOAP Opera Sequence Writing Method
+        - "MET-RB-007"  # Daily Seinfeld Email Writing Method
+        - "MET-RB-016"  # Email Mastery Framework (email frequency = income scaling)
+        - "MM-RB-025"   # Front End vs Back End Offer Psychology
+        - "MM-RB-030"   # Soap Opera = Relationship Builder (story-based email > content)
+        - "MM-RB-031"   # Seinfeld = Perpetual Engagement Engine (daily touchpoints)
+        - "MM-RB-032"   # Email Frequency Scales Income Proportionally (each increase >2x)
+        - "MM-RB-045"   # Story Stacking (multiple stories increase persuasion)
+        - "MM-RB-056"   # The Enquirer Interrupt (National Enquirer headline style for hooks)
+        - "MM-RB-060"   # The Shadow Funnel (invisible prospect research journey)
+        - "MM-RB-062"   # Interest-Based vs Search-Based Congregations
+        - "MM-RB-063"   # Butterfly Marketing (viral mechanisms compound at copulation rate >1.0)
+        - "MM-RB-064"   # Prospecting Ads vs Retargeting Ads (two types, different strategies)
+      # MM highlights (added 2026-03-15)
+      mm_highlights:
+        - tema: "SOAP Opera + Seinfeld Email System"
+          descricao: "Two complementary email systems: SOAP Opera (3-day story-based relationship builder) + Seinfeld (daily content for perpetual engagement). Each frequency increase >2x income."
+          aplicacao: "CMO estrutura automação de email em 2 fases: SOAP para nurture imediato, Seinfeld para engajamento contínuo"
+          source: "Magnetic Marketing - Funnelology / ES LIVE"
+        - tema: "Shadow Funnel + Congregations"
+          descricao: "Prospects research invisibly (Shadow Funnel). They gather in Interest-Based (social) or Search-Based (Google/YouTube) congregations. Capture with Funnel Hub."
+          aplicacao: "CMO mapeia congregações do ICP e cria presença em ambos tipos — retargeting captura shadow funnel"
+          source: "Magnetic Marketing - Traffic Secrets LIVE"
+        - tema: "Enquirer Interrupt + Butterfly Marketing"
+          descricao: "National Enquirer headline style for ad hooks (Enquirer Interrupt). Viral mechanisms compound when copulation rate >1.0 (Butterfly Marketing)."
+          aplicacao: "CMO testa hooks no estilo tabloid para ads + estrutura loops virais em funnels de lead magnet"
+          source: "Magnetic Marketing - Funnel Labs / Greatest Hits"
       materiais_fonte:
         - titulo: "Secrets Masterclass ($4,997) - 9 Modules"
           path_raiz: "/archive/Two_Comma_Club_Coaching-Russell_Brunson/000._Secrets_Masterclass_($4997)/"
@@ -302,13 +354,25 @@ dna_sources:
           path_raiz: "/archive/Two_Comma_Club_Coaching-Russell_Brunson/PDFs/"
           tipo: "pdf-books"
           data_processamento: "2026-03-01"
-          insights_principais:
+          insights_principales:
             - "Hook, Story, Offer = universal marketing formula"
             - "Fill Your Funnel = platform-agnostic 6-step framework"
             - "Conversation Domination = one show → all platforms"
             - "Searcher vs Scroller = two behavior types, two strategies"
             - "Platform Lifecycle = Adoption → Price Hike → Slap"
             - "81% of sales happen after 5th contact"
+        - titulo: "Magnetic Marketing (Funnelology, ES LIVE, TS LIVE, Funnel Labs, Greatest Hits)"
+          path_raiz: "/knowledge/external/sources/russell-brunson/raw/magnetic-marketing/"
+          tipo: "course-bundle"
+          data_processamento: "2026-03-15"
+          insights_principais:
+            - "SOAP Opera Sequence: 3-day story-based email nurture"
+            - "Seinfeld Emails: daily content for perpetual engagement"
+            - "Email frequency scales income proportionally (>2x per increase)"
+            - "Shadow Funnel: invisible prospect research journey"
+            - "Enquirer Interrupt: tabloid-style hooks for ads"
+            - "Butterfly Marketing: viral loops compound at copulation rate >1.0"
+            - "Interest-Based vs Search-Based Congregations"
 
     - pessoa: "dan-kennedy"
       path: "/knowledge/external/dna/persons/dan-kennedy"
@@ -319,8 +383,12 @@ dna_sources:
         - "direct-mail"
         - "pain-pleasure-copy"
         - "offer-construction"
+        - "opportunity-positioning"      # OMC enrichment 2026-03-15
+        - "dissatisfaction-gap"          # OMC enrichment 2026-03-15
+        - "product-launch-formula"       # OMC enrichment 2026-03-15 (Jeff Walker)
+        - "toaster-principle"            # OMC enrichment 2026-03-15
       peso: 0.85
-      quando_usar: "Copy de resposta direta, headlines, long-form sales pages, urgência, VSL scripts, objection draining"
+      quando_usar: "Copy de resposta direta, headlines, long-form sales pages, urgência, VSL scripts, objection draining, reposicionamento de oferta como oportunidade, PLF/sideways sales letter, mental triggers"
       added: "2026-03-13"
       insight_ids:
         - "FIL-DK-003"  # Headline = 70-80% da batalha
@@ -369,6 +437,84 @@ dna_sources:
         - "strategy-of-attachment"
         - "opposition-strategy"
         - "direct-response-philosophy"
+      # OMC enrichment (2026-03-15 Phase 7)
+      elementos_omc:
+        - "FIL-DK-319 (Repair vs Improvement vs Opportunity Spectrum — opportunity linked to desire, highest price elasticity, income-to-price decoupled)"
+        - "FIL-DK-386 (Reposicionar qualquer oferta de repair/improvement para opportunity multiplica conversão e libera price elasticity)"
+        - "MM-DK-280 (11 Agreements for Attainability — prospect precisa concordar 11 pontos sequencialmente antes de comprar oportunidade; cada acordo é um hurdle)"
+        - "MM-DK-282 (Toaster Principle — apresente oportunidade como 'toaster': tangível, com nome, como appliance; não descreva processo, descreva o objeto)"
+        - "MM-DK-325 (PLF Mental Triggers — Jeff Walker: authority, reciprocity, community, social proof, anticipation, scarcity — sideways sales letter em 10-12 dias)"
+        - "FW-DK-231+ (OMC Frameworks range — sideways sales letter, prelaunch sequence, conscious mind bypass, Lucy/Charlie Brown Model)"
+      dominios_omc:
+        - "opportunity-positioning"
+        - "dissatisfaction-gap"
+        - "product-launch-formula"
+        - "toaster-principle"
+        - "conscious-mind-bypass"
+      omc_highlights:
+        - tema: "Repair → Improvement → Opportunity Repositioning"
+          descricao: "Toda oferta existe num espectro: Repair (linked to need, boring, lowest price elasticity) → Improvement (obligation) → Opportunity (linked to desire, exciting, income-to-price decoupled). Reposicionar para opportunity multiplica conversão e libera preço."
+          aplicacao: "CMO usa como framework de posicionamento de campanha — toda mensagem deve parecer oportunidade, não reparo. Reescrita de copy começa aqui."
+          source: "OMC Seminar - Dan Kennedy"
+        - tema: "Toaster Principle + 11 Agreements"
+          descricao: "Presente oportunidade como 'toaster' (tangível, com nome, appliance). Antes de comprar, prospect precisa concordar 11 pontos sequencialmente — cada acordo remove um hurdle de compra."
+          aplicacao: "CMO nomeia a oferta, cria packaging tangível, e estrutura copy para guiar prospect pelos 11 agreements em sequência"
+          source: "OMC Seminar - Dan Kennedy"
+        - tema: "PLF — Sideways Sales Letter (Jeff Walker)"
+          descricao: "Em vez de sales page de 50 páginas, contar a mesma história em 3-4 peças de conteúdo ao longo de 10-12 dias. Mental triggers: authority, reciprocity, community, social proof, anticipation, scarcity. Prelaunch cria viral word of mouth."
+          aplicacao: "CMO usa como arquitetura de lançamento — PLF substitui VSL único por sequência de prelaunch que constrói momentum e antecipação"
+          source: "OMC Seminar - Jeff Walker (Guest)"
+      materiais_fonte_omc:
+        - titulo: "Opportunity Marketing Concepts (20 CDs + 10 DVDs + 10 PDFs)"
+          path_raiz: "/knowledge/external/sources/dan-kennedy/raw/opportunity-marketing-concepts/"
+          tipo: "live-seminar"
+          data_processamento: "2026-03-15"
+          insights_principais:
+            - "Repair vs Improvement vs Opportunity spectrum — repositioning unlocks price elasticity"
+            - "Toaster Principle: name + tangible packaging = appliance-style opportunity"
+            - "11 Agreements for Attainability: sequential prospect hurdles"
+            - "Conscious mind as Belief Fortress — bypass via new opportunity framing"
+            - "PLF Sideways Sales Letter (Jeff Walker): 10-12 day prelaunch sequence"
+            - "Mental Triggers: authority, reciprocity, community, social proof, anticipation, scarcity"
+      # MTBN enrichment (2026-03-15 Phase 7)
+      dominios_mtbn:
+        - "one-to-many-selling"
+        - "affluent-marketing"
+        - "magnetic-marketing-2014"
+        - "mind-control-copy"
+        - "list-building"
+      elementos_mtbn:
+        - "FIL-DK-409 (Group presentation architecture same for stage/webcast/DVD — tighter structure required)"
+        - "FIL-DK-435 (Price Suspension — affluent have Their Thing where price becomes irrelevant; position offer as Their Thing)"
+        - "FIL-DK-438 (Satisfaction does NOT prompt referrals — referrals need trigger events: recognition, status access, wow experience)"
+        - "FIL-DK-449 (You Are in the Marketing Business — everything else is a deliverable)"
+        - "FIL-DK-450 (Good Enough Is Good Enough in deliverable — master marketing instead; 10 highest paid speakers get C/D grades from voice coaches)"
+        - "FIL-DK-451 (No Heart Surgeon Makes Cold Calls — positioning through attraction defines price elasticity)"
+        - "FIL-DK-427 (Dark Greater Than Light — always better off dragging to darkness than showing light; 7 Secrets are dark category)"
+        - "FIL-DK-432 (Excited Consumer Over Informed Consumer — do NOT educate more than necessary to make sale)"
+        - "FIL-DK-420 (Direct Response = Half Psychology Half Math)"
+        - "FIL-DK-421 (Stories Have Equity — proprietary and protected)"
+        - "FIL-DK-422 (MTBN copy element)"
+        - "FW-DK-308 (MTBN framework)"
+        - "FW-DK-309 (MTBN framework)"
+        - "FW-DK-310 (MTBN framework)"
+        - "HEUR-DK-527 (MTBN heuristic)"
+        - "HEUR-DK-528 (MTBN heuristic)"
+        - "HEUR-DK-529 (MTBN heuristic)"
+        - "MET-DK-213 (MTBN methodology)"
+        - "MET-DK-214 (MTBN methodology)"
+      materiais_fonte_mtbn:
+        - titulo: "Make Them Buy Now — Full Bundle (OTM, Secrets, Sorcery, Affluent, Time, MM2014, List Building)"
+          path_raiz: "/knowledge/external/sources/dan-kennedy/raw/make-them-buy-now/"
+          tipo: "seminar-bundle"
+          data_processamento: "2026-03-15"
+          insights_principais:
+            - "One-to-Many architecture: 60-90s open, permission per section, tight structure"
+            - "Marketing to Affluent: Their Thing = price suspension category"
+            - "Referrals need trigger events not satisfaction (DK's most counterintuitive)"
+            - "Magnetic Marketing 2014: attract don't pursue — heart surgeon doesn't cold call"
+            - "Mind Control Copy: excited consumer > informed consumer"
+            - "Good enough at deliverable; great at marketing = income maximizer"
 
     - pessoa: "SAM-OVEN"
       path: "/knowledge/external/dna/persons/SAM-OVEN"

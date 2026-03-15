@@ -6,6 +6,8 @@
 # Integrado com: AGENT-COGNITION-PROTOCOL (FASE 1.5), AGENT-INTEGRITY-PROTOCOL
 #
 # CHANGELOG:
+# v3.5.0 (2026-03-15): DK-MTBN Phase 8 — operational systems, list building ops
+#                      - Added 2 MTBN DK elements (MET-DK-215, MM-DK-362)
 # v3.4.0 (2026-03-13): DK ACC enrichment — FW-DK-117 Gold Plus Architecture, FIL-DK-136 system-not-labor
 # v3.3.0 (2026-03-13): Adicionado dan-kennedy (0.55) — implementação paralela, gestão de reuniões, especialização de equipe (7FA)
 # v3.0.0 (2026-01-10): BUG #1 FIX - Cascateamento completo
@@ -29,11 +31,11 @@
 # ═══════════════════════════════════════════════════════════════════════════════
 
 cargo: "COO"
-versao: "3.4.0"
+versao: "3.5.0"
 nivel: "C-LEVEL"
 natureza: "HIBRIDO"
 data_criacao: "2025-12-23"
-ultima_atualizacao: "2026-03-13"
+ultima_atualizacao: "2026-03-15"
 
 # ═══════════════════════════════════════════════════════════════════════════════
 # CONSTITUICAO (Layer 1 - Principios compartilhados)
@@ -295,6 +297,13 @@ dna_sources:
       dominios_acc:
         - "coaching-delivery-systems"
         - "leverage-via-system"
+      # MTBN enrichment (2026-03-15 Phase 8)
+      elementos_mtbn:
+        - "MET-DK-215 (MTBN operational methodology)"
+        - "MM-DK-362 (MTBN mental model — operations)"
+      dominios_mtbn:
+        - "mtbn-operations"
+        - "list-building-ops"
 
     - pessoa: "THE-SCALABLE-COMPANY"
       path: "/knowledge/external/dna/persons/THE-SCALABLE-COMPANY"

@@ -17,11 +17,26 @@
 # ═══════════════════════════════════════════════════════════════════════════════
 
 cargo: "CRO"
-versao: "3.3.0"
+versao: "3.8.0"
 nivel: "C-LEVEL"
 natureza: "HIBRIDO"
 data_criacao: "2025-12-23"
-ultima_atualizacao: "2026-03-13"
+ultima_atualizacao: "2026-03-15"
+# v3.8.0 (2026-03-15): DK-MTBN Phase 8 — closing systems, affluent revenue, one-to-many revenue ops
+#                      - Added 4 MTBN DK insight_ids (FW-DK-296, MET-DK-209, MM-DK-358/360)
+# v3.7.0 (2026-03-15): DK-MTBN enrichment — one-to-many revenue systems, affluent economics, MTBN sales operations
+#                      - Added MTBN domains (one-to-many-revenue, affluent-economics, mtbn-sales-systems)
+#                      - Added 5 MTBN DK insight_ids (FIL-DK-437/436/438/435/409)
+#                      - Added MTBN materiais_fonte entry
+# v3.6.0 (2026-03-15): DK-OMC enrichment — backend economics, LTV maximization, market capacity wall, Three Drawers Toolbox
+#                      - Added OMC domains (backend-economics, ltv-maximization, market-capacity-wall, three-drawers-toolbox)
+#                      - Added 5 OMC insight_ids (MM-DK-302/320/297, FIL-DK-387, HEUR-DK-range)
+#                      - Added OMC materiais_fonte
+# v3.5.0 (2026-03-15): RB-MM enrichment — funnel stacking, direct mail, 9 Core Funnels, Invisible Funnel
+#                      - RB peso 0.70→0.75 (MM adds funnel stacking, direct mail, multi-channel)
+#                      - Added MM domains (magnetic-marketing, direct-mail, funnel-stacking)
+#                      - Added 14 MM-RB insight_ids (MM-RB-002/020/035-036/050-054/065-066, MET-RB-035/050/064)
+#                      - Added MM materiais_fonte + mm_highlights
 
 # CHANGELOG:
 # v3.4.0 (2026-03-13): Enriquecido dan-kennedy (0.65→0.75) — ACC: fee presentation, toll position, ascension ladder, pricing psychology
@@ -181,16 +196,21 @@ dna_sources:
 
     - pessoa: "russell-brunson"
       path: "/knowledge/external/dna/persons/russell-brunson"
-      raiz: "/archive/Two_Comma_Club_Coaching-Russell_Brunson/000._Secrets_Masterclass_($4997)/"
+      raiz: "/knowledge/external/sources/russell-brunson/raw/"
       dominios_usados:
         - "funnels"
         - "webinars"
         - "copywriting"
         - "traffic"
-      peso: 0.70
-      quando_usar: "Revenue optimization via funnels, webinar revenue, funnel stacking, Value Ladder monetization"
+        - "magnetic-marketing"       # MM enrichment 2026-03-15
+        - "direct-mail"              # MM enrichment 2026-03-15
+        - "funnel-stacking"          # MM enrichment 2026-03-15
+      peso: 0.75
+      quando_usar: "Revenue optimization via funnels, webinar revenue, funnel stacking, Value Ladder monetization, 9 Core Funnels architecture, Invisible Funnel launch, direct mail integration, multi-channel revenue"
       added: "2026-03-01"
+      updated: "2026-03-15"
       insight_ids:
+        # --- Secrets Masterclass + PDFs (original) ---
         - "FW-RB-001"   # Perfect Webinar Framework
         - "FW-RB-005"   # Value Ladder
         - "MM-RB-053"   # 9 Core Funnels Model
@@ -204,6 +224,38 @@ dna_sources:
         - "HEUR-RB-092" # Downsell 20% acceptance (PDF: DotCom Secrets)
         - "FW-RB-055"   # Retargeting Framework (PDF: Traffic Secrets)
         - "MET-RB-030"  # Break-Even Funnel Optimization (PDF: Traffic Secrets)
+        # --- Magnetic Marketing (added 2026-03-15) ---
+        - "FW-RB-020"   # Three Core Funnel Types (Free+Shipping, Tripwire, Micro-Continuity)
+        - "FW-RB-023"   # Funnel Diagnostic Framework (troubleshooting failing funnels)
+        - "FW-RB-030"   # 23 Building Blocks Of A Funnel (modular construction)
+        - "MET-RB-035"  # Funnel Block Testing Methodology (test ONE block per phase)
+        - "MET-RB-050"  # Funnel Stacking Strategy (frontend + mid + backend integration)
+        - "MET-RB-055"  # Funnel Reverse Engineering (document competitor funnels)
+        - "MET-RB-064"  # Invisible Funnel Launch Sequence (complete launch architecture)
+        - "MM-RB-002"   # Value Ladder Mental Model (all profit from middle & backend)
+        - "MM-RB-020"   # Switch vs Stack (new opportunity; frontend=bait, backend=business)
+        - "MM-RB-035"   # Iceberg Model Of Business (visible=small; hidden backend=main revenue)
+        - "MM-RB-036"   # Dam Analogy For Price Points (why certain prices are thresholds)
+        - "MM-RB-050"   # Take The Play On The Road (scale with existing offer to new audiences)
+        - "MM-RB-051"   # Objects In Motion Stay In Motion (small purchase before webinar = momentum)
+        - "MM-RB-052"   # Ad Fatigue And Re-Niching (new frontend hooks; keep webinar same)
+        - "MM-RB-065"   # Funnel Hub (brand website that funnels traffic into value ladder)
+        - "MM-RB-066"   # Distribution Channels = Midas Touch (scale through distribution, not new products)
+        - "MM-RB-081"   # Lifeline of a Lead (complete lifecycle opt-in → upsell → ascension)
+      # MM highlights (added 2026-03-15)
+      mm_highlights:
+        - tema: "9 Core Funnels + Funnel Stacking"
+          descricao: "3×3 matrix: Frontend/Middle/Backend × Free+Shipping/Continuity/High-Ticket. Stack multiple funnels for modular revenue. Test ONE building block per phase."
+          aplicacao: "CRO usa como arquitetura de revenue — mapeia quais funnels estão ativos, quais faltam, onde stackar"
+          source: "Magnetic Marketing - Funnel Labs / Funnelology"
+        - tema: "Invisible Funnel Launch + Funnel Hub"
+          descricao: "Complete launch architecture for Invisible Funnel. Funnel Hub = brand website that strategically funnels traffic into value ladder. Distribution > new products."
+          aplicacao: "CRO usa para lançamentos high-ticket + centraliza tráfego no Funnel Hub como ponto de entrada"
+          source: "Magnetic Marketing - DCS LIVE / Traffic Secrets LIVE"
+        - tema: "Iceberg Model + Dam Analogy"
+          descricao: "Visible revenue (frontend) is tiny; hidden backend is where money lives. Certain price points ($7, $97, $997, $2.5K) are thresholds — understand dam dynamics."
+          aplicacao: "CRO otimiza revenue pipeline sabendo que frontend é isca e backend é negócio — price points calibrados por dam analogy"
+          source: "Magnetic Marketing - Funnelology / Funnel Labs"
       materiais_fonte:
         - titulo: "Secrets Masterclass ($4,997) - 9 Modules"
           path_raiz: "/archive/Two_Comma_Club_Coaching-Russell_Brunson/000._Secrets_Masterclass_($4997)/"
@@ -226,6 +278,18 @@ dna_sources:
             - "Downsell recaptures 20% of rejected OTOs"
             - "Retargeting: 3 audiences (Engaged/Landed/Owned) with 3 goals"
             - "Break-even funnel optimization: ACV > CPA = scale"
+        - titulo: "Magnetic Marketing (Funnel Labs, Funnelology, DCS LIVE, TS LIVE, Invisible Funnel)"
+          path_raiz: "/knowledge/external/sources/russell-brunson/raw/magnetic-marketing/"
+          tipo: "course-bundle"
+          data_processamento: "2026-03-15"
+          insights_principais:
+            - "Funnel Stacking Strategy: frontend + mid + backend integration"
+            - "Invisible Funnel Launch Sequence: complete architecture"
+            - "Funnel Hub: centralize traffic into value ladder"
+            - "Iceberg Model: visible frontend tiny, hidden backend = revenue"
+            - "Dam Analogy: price thresholds at $7/$97/$997/$2.5K+"
+            - "Distribution > new products (Midas Touch)"
+            - "Ad Fatigue: re-niche frontend, keep webinar same"
 
     - pessoa: "SAM-OVEN"
       path: "/knowledge/external/dna/persons/SAM-OVEN"
@@ -319,6 +383,10 @@ dna_sources:
         - "pricing-psychology"
         - "ascension-ladder"
         - "cold-prospecting"
+        - "backend-economics"       # OMC enrichment 2026-03-15
+        - "ltv-maximization"        # OMC enrichment 2026-03-15
+        - "market-capacity-wall"    # OMC enrichment 2026-03-15
+        - "three-drawers-toolbox"   # OMC enrichment 2026-03-15
       elementos_chave:
         - "FW-DK-038 (Framework de Preeminência - Jay Abraham)"
         - "MM-DK-032 (Modelo Host-Beneficiário)"
@@ -353,6 +421,63 @@ dna_sources:
         - "recession-proofing"
         - "sell-differently"
         - "collier-principle"
+      # OMC enrichment (2026-03-15 Phase 7)
+      elementos_omc:
+        - "MM-DK-297 (Three Drawers Toolbox — 3 gavetas: (1) Product/Message — o que vende e como comunica, (2) Process — como faz a venda, (3) Prospects — está investindo nos melhores prospects?)"
+        - "MM-DK-302 (Market Capacity Wall — quando bate a parede de market capacity, não é o creative que precisa mudar, são os economics)"
+        - "MM-DK-320 (LTV Liberation — Craig Simpson: LTV mais alto = addressable market maior = pode gastar mais para adquirir; response lists 40x mais produtivas que compiled)"
+        - "FIL-DK-387 (Backend Economics — LTV mais alto desbloqueia mercado maior; economics da operação determinam quão agressivo pode ser na aquisição)"
+        - "HEUR-DK-398+ (OMC Heuristics range — benchmarks de backend economics, direct mail economics, list productivity)"
+      dominios_omc:
+        - "backend-economics"
+        - "ltv-maximization"
+        - "market-capacity-wall"
+        - "three-drawers-toolbox"
+      omc_highlights:
+        - tema: "Market Capacity Wall + Backend Economics"
+          descricao: "Quando você bate a parede de market capacity, não é o creative ou a oferta que precisa mudar — são os economics. LTV mais alto = addressable market maior = pode pagar mais para adquirir. Esse é o principal alavanca de escala sustentável."
+          aplicacao: "CRO usa como diagnóstico de estagnação de receita — antes de mudar oferta ou criativo, verificar se o problema é economics (LTV, backend, ascension)"
+          source: "OMC Seminar - Dan Kennedy + Craig Simpson"
+        - tema: "Three Drawers Toolbox"
+          descricao: "Framework de diagnóstico de revenue em 3 gavetas: (1) Product/Message — o que vende e como comunica; (2) Process — como faz a venda; (3) Prospects — está investindo nos melhores prospects? A maioria dos problemas está em apenas uma gaveta."
+          aplicacao: "CRO usa como framework de diagnóstico antes de qualquer mudança de revenue strategy — identifica qual gaveta está limitando crescimento"
+          source: "OMC Seminar - Dan Kennedy"
+      materiais_fonte_omc:
+        - titulo: "Opportunity Marketing Concepts (20 CDs + 10 DVDs + 10 PDFs)"
+          path_raiz: "/knowledge/external/sources/dan-kennedy/raw/opportunity-marketing-concepts/"
+          tipo: "live-seminar"
+          data_processamento: "2026-03-15"
+          insights_principais:
+            - "Market Capacity Wall: não é criativo, são os economics — LTV mais alto = mercado maior"
+            - "Three Drawers Toolbox: Product/Message + Process + Prospects"
+            - "LTV Liberation (Craig Simpson): response lists 40x mais produtivas"
+            - "Backend Economics: LTV desbloqueia agressividade na aquisição"
+      # MTBN enrichment (2026-03-15 Phase 7)
+      dominios_mtbn:
+        - "one-to-many-revenue"
+        - "affluent-economics"
+        - "mtbn-sales-systems"
+      elementos_mtbn:
+        - "FIL-DK-437 (Process Is Identical Regardless of Price Level — same framework for $47 or $470K; more patience required, not different process)"
+        - "FIL-DK-436 (Affluent Buy the Person Before They Buy the Product — trust/personal connection precede transaction)"
+        - "FIL-DK-438 (Satisfaction does NOT prompt referrals — need trigger events: recognition, status access, wow experience, cocktail party story)"
+        - "FIL-DK-435 (Price Suspension — everyone has Their Thing; affluent spend without price objection when positioned in Their Thing category)"
+        - "FIL-DK-409 (Group presentation revenue: stage/webinar/DVD architecture same — tight structure required for conversion)"
+        - "FW-DK-296 (MTBN framework)"
+        - "MET-DK-209 (MTBN methodology)"
+        - "MM-DK-358 (MTBN mental model)"
+        - "MM-DK-360 (Single Emotion Channel — curiosity displaces skepticism)"
+      materiais_fonte_mtbn:
+        - titulo: "Make Them Buy Now — Full Bundle (OTM, Affluent, Secrets, Sorcery, MM2014, List Building)"
+          path_raiz: "/knowledge/external/sources/dan-kennedy/raw/make-them-buy-now/"
+          tipo: "seminar-bundle"
+          data_processamento: "2026-03-15"
+          insights_principais:
+            - "Process identical regardless of price: $47 to $470K same framework, more patience"
+            - "Affluent buy person before product — trust is the product"
+            - "Referral engine: trigger events not satisfaction (recognition, status, wow)"
+            - "Price suspension: position offer as Their Thing = price becomes irrelevant"
+            - "One-to-many revenue: group presentation architecture unlocks scale"
 
 # ═══════════════════════════════════════════════════════════════════════════════
 # MAPA DE CONFLITOS
