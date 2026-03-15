@@ -1,6 +1,6 @@
 {
   "version": "2.1.0",
-  "updated_at": "2026-03-15T18:00:00Z",
+  "updated_at": "2026-03-15T18:30:00Z",
   "system": {
     "status": "OPERATIONAL",
     "health_score": 98,
@@ -76,10 +76,7 @@
         "CLOSER",
         "CMO"
       ],
-      "pending_minor": [
-        "AGENT-INDEX.yaml: update source count (9 fontes)"
-      ],
-      "note": "ACQ18K enrichment completo (2026-03-12)."
+      "note": "ACQ18K enrichment completo (2026-03-12). AGENT-INDEX sources:9 ja correto."
     },
     "flcr": {
       "status": "COMPLETE",
@@ -264,8 +261,8 @@
   },
   "mis": {
     "session_id": "",
-    "prompt_count": 61,
+    "prompt_count": 63,
     "bracket": "MODERATE",
-    "context_percent": 54.2
+    "context_percent": 52.8
   }
 }
