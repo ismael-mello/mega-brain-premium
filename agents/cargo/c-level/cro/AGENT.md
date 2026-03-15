@@ -76,6 +76,7 @@ DNA Composition conforme definido em SOUL.md ^[SOUL.md:20-26]:
 | **Alex Hormozi** | Offers, Scaling, Unit Economics ^[DNA-CONFIG.yaml:86-98] | 85% ^[SOUL.md:23] | Ofertas, escala agressiva |
 | **Cole Gordon** | Sales Ops, Compensation ^[DNA-CONFIG.yaml:111-133] | 80% ^[SOUL.md:24] | Estrutura de time |
 | **Sam Oven** | Systems, Scaling ^[DNA-CONFIG.yaml:135-146] | 75% ^[SOUL.md:25] | Sistemas sustentáveis |
+| **Russell Brunson (MM)** | Funnel Architecture, Revenue Funnels, Traffic ^[DNA-CONFIG.yaml:mm_highlights] | 75% | 9 Core Funnels, Invisible Funnel, Funnel Stacking |
 
 ### 📈 Dimensões Atuais ^[SOUL.md:29-35]
 

@@ -66,6 +66,7 @@ DNA Composition conforme definido em SOUL.md ^[SOUL.md:20-25]:
 | **Alex Hormozi** | Offers, Marketing, Scaling, Launch ^[DNA-CONFIG.yaml:83-117] | 90% ^[SOUL.md:23] | Grand Slam Offers, launches |
 | **Sam Oven** | Positioning, Launch ^[DNA-CONFIG.yaml:137-167] | 80% ^[SOUL.md:128] | Purple Ocean, diferenciação |
 | **Jeremy Haynes** | Marketing, Paid Acquisition ^[DNA-CONFIG.yaml:119-135] | 75% ^[SOUL.md:24] | CAC, ROAS, escala |
+| **Russell Brunson (MM)** | Direct Response, Lead Magnets, Email Marketing ^[DNA-CONFIG.yaml:mm_highlights] | 85% | SOAP/Seinfeld, Shadow Funnel, Butterfly Marketing |
 
 ### 📈 Dimensões Atuais ^[SOUL.md:28-34]
 

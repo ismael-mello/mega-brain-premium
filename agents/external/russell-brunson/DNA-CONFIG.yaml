@@ -19,11 +19,11 @@
 # ═══════════════════════════════════════════════════════════════════════════════
 
 cargo: "RUSSELL-BRUNSON"
-versao: "17.0.0"
+versao: "18.0.0"
 nivel: "PERSON"
 natureza: "SOLO"
 data_criacao: "2026-03-01"
-ultima_atualizacao: "2026-03-10-v27-lead-funnels-training"
+ultima_atualizacao: "2026-03-15-v28-magnetic-marketing-complete"
 
 # ═══════════════════════════════════════════════════════════════════════════════
 # CONSTITUICAO (Layer 1 - Principios compartilhados)
@@ -82,6 +82,9 @@ dna_sources:
         - "copywriting"
         - "webinar-selling"
         - "mass-movements"
+        - "magnetic-marketing"
+        - "lead-magnets"
+        - "direct-mail"
         - "storytelling"
         - "traffic"
         - "offers"
@@ -824,15 +827,22 @@ dna_statistics:
   lf_training_new_elements: 15
   lf_training_by_layer: "L1:3 L2:3 L3:4 L4:3 L5:2"
   lf_training_files: 2
-  # TOTALS (updated 2026-03-10 post-v27 — +15 elements Lead Funnels Training)
-  total_unique_elements: 1327
+  # MAGNETIC MARKETING (6 programs via DK-MM cross-DNA, merged 2026-03-15)
+  mm_phase_a_new: 177
+  mm_phase_b_new: 84
+  mm_phase_c_new: 14
+  mm_total_new: 275
+  mm_programs: "Funnel Labs, Funnelology, DCS LIVE, ES LIVE, TS LIVE, Welcome"
+  mm_commits: "a54d636 (Phase A), ab9ae20 (Phase B), 8c07e96 (Phase C)"
+  # TOTALS (updated 2026-03-15 post-v28 — MM recovery complete, Python-verified)
+  total_unique_elements: 1013
   by_layer:
-    L1_PHILOSOPHIES: 260
-    L2_MENTAL_MODELS: 242
-    L3_HEURISTICS: 402
-    L4_FRAMEWORKS: 267
-    L5_METHODOLOGIES: 170
-  modules_processed: 27
+    L1_PHILOSOPHIES: 169
+    L2_MENTAL_MODELS: 150
+    L3_HEURISTICS: 262
+    L4_FRAMEWORKS: 173
+    L5_METHODOLOGIES: 243
+  modules_processed: 28
   total_transcriptions: 374
   pdf_books_merged: 5
   pws_programs_merged: 1

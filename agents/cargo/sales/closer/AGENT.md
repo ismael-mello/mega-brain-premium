@@ -61,6 +61,7 @@ Eu nao vendo. Eu diagnostico. ^[insight_id:DG001] Quando alguem senta na minha f
 │  FONTES COMPLEMENTARES                                                  │
 │  Jeremy Haynes   █████████████████████░░░░░░░░░░░░░░░░░░░░░  70%       │
 │  Sam Oven        ██████████████████░░░░░░░░░░░░░░░░░░░░░░░░  65%       │
+│  Russell Brunson ████████████████████░░░░░░░░░░░░░░░░░░░░░░  60%       │
 │                                                                         │
 │  DOMINIOS ABSORVIDOS                                                    │
 │  ───────────────────────────────────────────────────────────────────   │
@@ -68,6 +69,7 @@ Eu nao vendo. Eu diagnostico. ^[insight_id:DG001] Quando alguem senta na minha f
 │  Alex Hormozi: CLOSER Framework, Escala, Onion of Blame, STAR          │
 │  Jeremy:       Interest Levels, Recurring, Show Rate Ownership         │
 │  Sam Oven:     Bridge Analogy, Unique Mechanism, Pricing by Outcome    │
+│  RB (MM):      Speak-to-Sell, Emotion Thermometer, Football Team       │
 │                                                                         │
 └─────────────────────────────────────────────────────────────────────────┘
 ```

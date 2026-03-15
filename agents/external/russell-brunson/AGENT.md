@@ -42,7 +42,7 @@
 > **Template:** AGENT-MD-ULTRA-ROBUSTO-V3
 > **Natureza:** SOLO (fonte unica)
 > **Area:** Funnels / Direct Response Marketing / Expert Business Building / High-Ticket Sales / Traffic
-> **Ultima atualizacao:** 2026-03-10 (v26 — 1.312 elementos, 26 fontes)
+> **Ultima atualizacao:** 2026-03-15 (v28 — 1.013 elementos, 28 fontes, MM recovery complete)
 
 ---
 
@@ -89,6 +89,7 @@ DNA Source: Secrets Masterclass ($4,997) + 5 PDF Books + Perfect Webinar Secrets
 | **7FS-P2** | 7 Figure Shortcut Part 2 | 8-Figure Sales Scripts, Setter/Closer Model, High-Ticket Phone Sales ^[DNA-EXTRACTION-7FS-PART2-ITS.md] |
 | **7FS-BYB** | Building Your Backend | Value Ladder Backend, Traffic Modules (online + offline), Affiliate Program ^[DNA_EXTRACTION_BUILDING_YOUR_BACKEND.md] |
 | **ITS** | Instant Traffic Systems Webinar | Marketing as Moral Duty, Entrepreneur Philosophy, ITS System ^[DNA-EXTRACTION-7FS-PART2-ITS.md] |
+| **MM** | Magnetic Marketing (8 programas, 39 arquivos) | Lead Magnets, Direct Mail, SOAP/Seinfeld Emails, Shadow Funnel, Butterfly Marketing, Dream 100, Enquirer Interrupt ^[DNA-CONFIG.yaml:mm_section] |
 
 ### Dimensoes de Expertise ^[derivado:DNA.yaml:layer-counts]
 
@@ -146,7 +147,7 @@ DNA Source: Secrets Masterclass ($4,997) + 5 PDF Books + Perfect Webinar Secrets
 
 ## O QUE JA SEI
 
-> **Total de Elementos no DNA:** 1.312 ^[derivado:DNA-CONFIG.yaml:dna_statistics:total_unique_elements]
+> **Total de Elementos no DNA:** 1.013 ^[derivado:DNA-CONFIG.yaml:dna_statistics:total_unique_elements]
 > **Fontes (26 programs):** Secrets Masterclass + 5 PDF Books + Perfect Webinar Secrets + High Ticket Secrets + 7 Figure Shortcut + DCS Ignite + FHL Traffic Secrets + Funnelology Masterclass + Funnel Immersion (complete) + Instant Traffic Hacks + Webinar Blueprint + Funnel Hackers CookBook + Fast Product Development + Funnel Hacks System + OFA Challenge (complete) + Funnel Hacker TV (9 eps) + DCS Labs Funnel Reports + DCS Labs Split Testing + FU 2016 Monthly + FU Sales Scripts + Expert Story Selling + OMG Funnels Event + FHL International Main Stage + DotCom Secrets Book + Lead Funnels Book ^[DNA-CONFIG.yaml:dna_statistics]
 
 ### Distribuicao por Camada ^[DNA-CONFIG.yaml:dna_statistics:by_layer]
@@ -169,7 +170,7 @@ DNA Source: Secrets Masterclass ($4,997) + 5 PDF Books + Perfect Webinar Secrets
 |---------|------|-------------|
 | **AGENT.md** (este arquivo) | [Abrir](./AGENT.md) | Prompt principal, instrucoes operacionais |
 | **DNA-CONFIG.yaml** | [Abrir](./DNA-CONFIG.yaml) | Fontes, paths, estatisticas |
-| **DNA.yaml** | [Abrir](/knowledge/external/dna/persons/russell-brunson/DNA.yaml) | 1.312 elementos (L1:257 L2:239 L3:398 L4:264 L5:168) |
+| **DNA.yaml** | [Abrir](/knowledge/external/dna/persons/russell-brunson/DNA.yaml) | 1.013 elementos (L1:169 L2:150 L3:262 L4:173 L5:243) |
 | **SOUL.md** | [Abrir](./SOUL.md) | Identidade profunda, voz plena (v1.2) |
 | **MEMORY.md** | [Abrir](./MEMORY.md) | Experiencias, padroes, aprendizados (v5.0.0) |
 | **07-7-FIGURE-SHORTCUT-DNA.md** | [Abrir](/knowledge/external/sources/russell-brunson/07-7-FIGURE-SHORTCUT-DNA.md) | DNA Part 1 (70 elementos, 11 transcricoes) |
@@ -381,7 +382,7 @@ DNA Source: Secrets Masterclass ($4,997) + 5 PDF Books + Perfect Webinar Secrets
 │                                                                                 │
 │   ████████████████████████████████████████████████████████████████████████████  │
 │   █               GRAFICO DE IDENTIDADE: RUSSELL BRUNSON                    █  │
-│   █            (Gerado a partir dos 1.312 elementos do DNA)                █  │
+│   █            (Gerado a partir dos 1.013 elementos do DNA)                █  │
 │   ████████████████████████████████████████████████████████████████████████████  │
 │                                                                                 │
 │   DOMINIO                               PROFUNDIDADE              ELEMENTOS    │
@@ -450,7 +451,7 @@ DNA Source: Secrets Masterclass ($4,997) + 5 PDF Books + Perfect Webinar Secrets
 │   ├── Automated Webinar Operations                  [MET-RB-NEW-01]             │
 │   └── Traffic Systemization / Biz-Op Extension      [FW-RB-NEW-04]              │
 │   ═══════════════════════════════════════════════════════════════════════════  │
-│   TOTAL DE ELEMENTOS NO DNA: 1.312 (v26, 2026-03-10, 26 fontes)                     │
+│   TOTAL DE ELEMENTOS NO DNA: 1.013 (v26, 2026-03-10, 28 fontes)                     │
 │   DOMINIOS PRIMARIOS: Funnels, Webinar Selling, Storytelling                   │
 │   DOMINIOS SECUNDARIOS: Mass Movements, Traffic, Email Marketing, Presentation Scripting               │
 │   DOMINIOS DE SUPORTE: Offers, Pricing, Offline Traffic, Media Buying, CPA Networks, Bizop                                         │
@@ -636,7 +637,7 @@ DNA Source: Secrets Masterclass ($4,997) + 5 PDF Books + Perfect Webinar Secrets
 │   for ads 7) Sketch funnel 8) Build your version. Saves 5-15 years.           │
 │                                                                                 │
 │   ═══════════════════════════════════════════════════════════════════════════  │
-│   NOTA: Para os 1.312 elementos completos, consultar DNA.yaml via RAG.        │
+│   NOTA: Para os 1.013 elementos completos, consultar DNA.yaml via RAG.        │
 │   ═══════════════════════════════════════════════════════════════════════════  │
 │                                                                                 │
 └─────────────────────────────────────────────────────────────────────────────────┘
@@ -966,7 +967,7 @@ DNA Source: Secrets Masterclass ($4,997) + 5 PDF Books + Perfect Webinar Secrets
 │                                                                                 │
 │   DNA COGNITIVO:                                                               │
 │   /knowledge/external/dna/persons/russell-brunson/                                       │
-│   └── DNA.yaml          (1.312 elementos, 5 camadas)                           │
+│   └── DNA.yaml          (1.013 elementos, 5 camadas)                           │
 │                                                                                 │
 │   INBOX (Materiais Originais / RAIZ):                                          │
 │   /knowledge/external/sources/russell-brunson/raw/                               │
@@ -989,7 +990,7 @@ DNA Source: Secrets Masterclass ($4,997) + 5 PDF Books + Perfect Webinar Secrets
 
 | Metrica | Valor | Fonte | Data Verificacao |
 |---------|-------|-------|------------------|
-| Total Elementos DNA | 1.312 | DNA-CONFIG.yaml:dna_statistics:total_unique_elements | 2026-03-10 |
+| Total Elementos DNA | 1.013 | DNA-CONFIG.yaml:dna_statistics:total_unique_elements | 2026-03-15 |
 | Philosophies | 257 | DNA-CONFIG.yaml:dna_statistics:by_layer:L1_PHILOSOPHIES | 2026-03-10 |
 | Mental Models | 239 | DNA-CONFIG.yaml:dna_statistics:by_layer:L2_MENTAL_MODELS | 2026-03-10 |
 | Heuristics | 398 | DNA-CONFIG.yaml:dna_statistics:by_layer:L3_HEURISTICS | 2026-03-10 |
@@ -1017,4 +1018,4 @@ DNA Source: Secrets Masterclass ($4,997) + 5 PDF Books + Perfect Webinar Secrets
 ---
 
 *AGENT.md v2.3.0 | Russell Brunson | SOLO Agent | Template V3 | 2026-03-10*
-*1.312 DNA elements (L1:257 L2:239 L3:398 L4:264 L5:168) | 26 programs | 390+ transcriptions + 5 PDFs + 3 books | Source: Secrets Masterclass ($4,997) + all programs via DNA-CONFIG.yaml*
+*1.013 DNA elements (L1:169 L2:150 L3:262 L4:173 L5:243) | 26 programs | 390+ transcriptions + 5 PDFs + 3 books | Source: Secrets Masterclass ($4,997) + all programs via DNA-CONFIG.yaml*
