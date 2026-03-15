@@ -1,0 +1,80 @@
+# DNA-CONFIG — Agent Liam Ottley
+# AI Operating Systems pioneer, Morningside AI founder
+# Version: 1.0.0
+# Last Updated: 2026-03-15
+
+agent:
+  name: "Liam Ottley"
+  slug: "liam-ottley"
+  type: "SOLO"
+  version: "1.0.0"
+
+dna_source:
+  path: "knowledge/external/dna/persons/liam-ottley/"
+  weight: 1.0
+  files:
+    - PHILOSOPHIES.yaml
+    - MENTAL-MODELS.yaml
+    - HEURISTICS.yaml
+    - FRAMEWORKS.yaml
+    - METHODOLOGIES.yaml
+
+dna_elements:
+  total: 27
+  layers:
+    L1_PHILOSOPHIES:
+      count: 7
+      ids: ["FIL-LO-001", "FIL-LO-002", "FIL-LO-003", "FIL-LO-004", "FIL-LO-005", "FIL-LO-006", "FIL-LO-007"]
+    L2_MENTAL_MODELS:
+      count: 5
+      ids: ["MM-LO-001", "MM-LO-002", "MM-LO-003", "MM-LO-004", "MM-LO-005"]
+    L3_HEURISTICS:
+      count: 8
+      ids: ["HEUR-LO-001", "HEUR-LO-002", "HEUR-LO-003", "HEUR-LO-004", "HEUR-LO-005", "HEUR-LO-006", "HEUR-LO-007", "HEUR-LO-008"]
+    L4_FRAMEWORKS:
+      count: 4
+      ids: ["FW-LO-001", "FW-LO-002", "FW-LO-003", "FW-LO-004"]
+    L5_METHODOLOGIES:
+      count: 3
+      ids: ["MET-LO-001", "MET-LO-002", "MET-LO-003"]
+
+source_materials:
+  - id: LO-001
+    title: "The AI Operating System — What It Is and Why You Need One"
+    type: youtube
+    elements_contributed: 15
+    raiz: "knowledge/external/inbox/liam-ottley/"
+  - id: LO-002
+    title: "I Built an AI Workforce — Here's What Happened"
+    type: youtube
+    elements_contributed: 8
+    raiz: "knowledge/external/inbox/liam-ottley/"
+  - id: LO-003
+    title: "How I Made $1M in 7 Days Using AI"
+    type: youtube
+    elements_contributed: 4
+    raiz: "knowledge/external/inbox/liam-ottley/"
+
+domains:
+  - ai-operating-systems
+  - ai-agent-workforces
+  - business-automation
+  - founder-productivity
+  - ai-consulting
+
+cargo_contributions:
+  # Cargo agents que se beneficiam do DNA de Liam Ottley
+  - agent: "agents/cargo/c-level/coo/DNA-CONFIG.yaml"
+    relevance: "AIOS architecture + AI workforce deployment"
+    suggested_weight: 0.65
+    key_ids: ["FW-LO-001", "FW-LO-002", "MET-LO-001", "HEUR-LO-001", "HEUR-LO-008"]
+  - agent: "agents/cargo/c-level/cmo/DNA-CONFIG.yaml"
+    relevance: "AI marketing team + content automation workforce"
+    suggested_weight: 0.55
+    key_ids: ["FW-LO-002", "FIL-LO-007", "MET-LO-003"]
+
+metadata:
+  created: "2026-03-15"
+  last_updated: "2026-03-15"
+  agent_version: "1.0.0"
+  dna_version: "1.0.0"
