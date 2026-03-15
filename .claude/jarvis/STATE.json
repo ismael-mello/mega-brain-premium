@@ -59,12 +59,7 @@
         "CRO"
       ],
       "next_ids": "PHI-RB-201 MM-RB-181 HEUR-RB-306 FW-RB-181 MET-RB-111",
-      "pending_minor": [
-        "AGENT.md cargos: mencionar MM em MINHA FORMACAO (cosmético)",
-        "DNA-CONFIG person: adicionar dominios MM",
-        "AGENT-INDEX.yaml: update source count"
-      ],
-      "note": "MM completo (2026-03-15). Cargo enrichment 6/7 done (Closer, CMO, CRO)."
+      "note": "MM completo (2026-03-15). Cargo enrichment 6/7 done (Closer, CMO, CRO). Cosmético verificado — tudo já estava feito."
     },
     "alex-hormozi": {
       "status": "COMPLETE",
@@ -242,10 +237,10 @@
   },
   "git": {
     "branch": "main",
-    "last_commit": "c43c823",
-    "last_commit_msg": "chore(index): AGENT-INDEX v4.3.0 — add dna_elements+sources for AH (402/9) and RB (1013/28 MM)",
+    "last_commit": "17de040",
+    "last_commit_msg": "feat(dk): Phase 8 COMPLETE — DK 2029 elements, 7 fontes (CC+7FA+12BBS+ACC+MM+OMC+MTBN)",
     "commits_ahead": 0,
-    "pending_commit": "feat(dk): Phase 8 finalization — DK 2029 elements complete (7 fontes: CC+7FA+12BBS+ACC+MM+OMC+MTBN)"
+    "pending_commit": null
   },
   "pending": {
     "upstream_sync": {
@@ -279,8 +274,8 @@
   },
   "mis": {
     "session_id": "",
-    "prompt_count": 59,
+    "prompt_count": 60,
     "bracket": "MODERATE",
-    "context_percent": 55.8
+    "context_percent": 55.0
   }
 }
