@@ -1,11 +1,11 @@
 # INDEX: DOSSIERS
 
-> **Ultima atualizacao:** 2026-03-13
-> **Total:** 41 dossiers (12 PERSONS + 29 THEMES)
+> **Ultima atualizacao:** 2026-01-10
+> **Total:** 31 dossiers (10 PERSONS + 21 THEMES)
 
 ---
 
-## PERSON DOSSIERS (12)
+## PERSON DOSSIERS (10)
 
 | Dossier | Fonte Principal | DNA Elements | Status |
 |---------|-----------------|--------------|--------|
@@ -13,16 +13,14 @@
 | [DOSSIER-COLE-GORDON](persons/DOSSIER-COLE-GORDON.md) | Cole Gordon | ~373 | COMPLETE |
 | [DOSSIER-JEREMY-HAYNES](persons/DOSSIER-JEREMY-HAYNES.md) | Jeremy Haynes | ~1,483 | COMPLETE |
 | [DOSSIER-JEREMY-MINER](persons/DOSSIER-JEREMY-MINER.md) | Jeremy Miner | ~1,199 | COMPLETE |
-| [DOSSIER-RUSSELL-BRUNSON](persons/DOSSIER-RUSSELL-BRUNSON.md) | Russell Brunson | ~271 | **NEW** |
-| [DOSSIER-THE-SCALABLE-COMPANY](persons/DOSSIER-THE-SCALABLE-COMPANY.md) | The Scalable Company | ~393 | COMPLETE |
+| [DOSSIER-THE-SCALABLE-COMPANY](persons/DOSSIER-THE-SCALABLE-COMPANY.md) | The Scalable Company | ~393 | **NEW** |
 | [DOSSIER-JORDAN-LEE](persons/DOSSIER-JORDAN-LEE.md) | Jordan Lee | ~50 | PARTIAL |
 | [DOSSIER-RICHARD-LINDER](persons/DOSSIER-RICHARD-LINDER.md) | Richard Linder | ~30 | PARTIAL |
-| [DOSSIER-DAN-KENNEDY](persons/DOSSIER-DAN-KENNEDY.md) | Dan Kennedy | ~829 | **NEW** |
 | [DOSSIER-SAM-OVEN](persons/DOSSIER-SAM-OVEN.md) | Sam Ovens | ~40 | PARTIAL |
 
 ---
 
-## THEME DOSSIERS (29)
+## THEME DOSSIERS (21)
 
 ### Estrutura Organizacional (5)
 
@@ -52,36 +50,6 @@
 | [DOSSIER-PAID-MEDIA-SCALING](themes/DOSSIER-PAID-MEDIA-SCALING.md) | Paid Media Scaling | JH 80% + AH 20% | **NEW** |
 | [DOSSIER-BUSINESS-OPERATING-SYSTEMS](themes/DOSSIER-BUSINESS-OPERATING-SYSTEMS.md) | Business Operating Systems | TSC 95% + AH 5% | **NEW** |
 
-### Russell Brunson - Exclusive Topics (3)
-
-| Dossier | Tema | Fontes | Status |
-|---------|------|--------|--------|
-| [DOSSIER-PERFECT-WEBINAR](themes/DOSSIER-PERFECT-WEBINAR.md) | Perfect Webinar Methodology | RB 100% | **NEW** |
-| [DOSSIER-FUNNEL-ARCHITECTURE](themes/DOSSIER-FUNNEL-ARCHITECTURE.md) | Funnel Architecture & Value Ladder | RB 100% | **NEW** |
-| [DOSSIER-STORYTELLING-PERSUASION](themes/DOSSIER-STORYTELLING-PERSUASION.md) | Storytelling & Persuasion | RB 100% | **NEW** |
-
-### Dan Kennedy — 7-Figure Academy (4)
-
-| Dossier | Tema | Fontes | Status |
-|---------|------|--------|--------|
-| [DOSSIER-STATUS-POSITIONING](themes/DOSSIER-STATUS-POSITIONING.md) | Status, Autoridade e Filosofia Pessoal | DK 7FA 100% | **NEW** |
-| [DOSSIER-WEALTH-PSYCHOLOGY](themes/DOSSIER-WEALTH-PSYCHOLOGY.md) | Psicologia de Riqueza e Resistências a 7 Dígitos | DK 7FA 100% | **NEW** |
-| [DOSSIER-JOINT-VENTURES](themes/DOSSIER-JOINT-VENTURES.md) | Joint Ventures, Host-Beneficiário, 9 Pontos de Alavancagem | DK 7FA 100% | **NEW** |
-| [DOSSIER-BUSINESS-MODELS](themes/DOSSIER-BUSINESS-MODELS.md) | Modelos de Negócio, Aquisição e Inovação por Analogia | DK 7FA 100% | **NEW** |
-
-### Dan Kennedy — Advanced Coaching & Consulting (1)
-
-| Dossier | Tema | Fontes | Status |
-|---------|------|--------|--------|
-| [DOSSIER-COACHING-CONSULTING](themes/DOSSIER-COACHING-CONSULTING.md) | Coaching & Consulting Business Models | DK ACC 100% | **NEW** |
-
-### Dan Kennedy — 12 Business Building Strategies (4)
-
-| Dossier | Tema | Fontes | Status |
-|---------|------|--------|--------|
-| [DOSSIER-RECESSION-PROOFING](themes/DOSSIER-RECESSION-PROOFING.md) | Recession Proofing & Collier Principle | DK 12BBS 100% | **NEW** |
-| [DOSSIER-CERTAINTY-SELLING](themes/DOSSIER-CERTAINTY-SELLING.md) | Certainty Selling & Conviction Transfer | DK 12BBS 100% | **NEW** |
-
 ### Cascateamento REGRA #22 (5)
 
 | Dossier | Tema | Fontes | Status |
@@ -93,33 +61,29 @@
 ## ESTATISTICAS
 
 ```
-+---------------------------------------------------------------------------+
-|                          DOSSIER STATISTICS                                |
-+---------------------------------------------------------------------------+
-|                                                                            |
-|  Total Dossiers:        41                                                 |
-|  +-- Person Dossiers:   12                                                 |
-|  +-- Theme Dossiers:    29                                                 |
-|                                                                            |
-|  DNA Elements Cobertos: ~6,071+                                            |
-|  +-- Filosofias:        ~587                                               |
-|  +-- Modelos Mentais:   ~390                                               |
-|  +-- Heuristicas:       ~2,282                                             |
-|  +-- Frameworks:        ~906                                               |
-|  +-- Metodologias:      ~599                                               |
-|                                                                            |
-|  Fontes Primarias:      9                                                  |
-|  +-- Dan Kennedy        (~829 elementos)    **NEW**                        |
-|  +-- Jeremy Haynes      (~1,483 elementos)                                 |
-|  +-- Jeremy Miner       (~1,199 elementos)                                 |
-|  +-- The Scalable Co.   (~393 elementos)                                   |
-|  +-- Cole Gordon        (~373 elementos)                                   |
-|  +-- Russell Brunson    (~271 elementos)   **NEW**                         |
-|  +-- Alex Hormozi       (~260 elementos)                                   |
-|  +-- Jordan Lee         (~50 elementos)    PARTIAL                         |
-|  +-- Sam Ovens          (~40 elementos)    PARTIAL                         |
-|                                                                            |
-+---------------------------------------------------------------------------+
+┌─────────────────────────────────────────────────────────────────────────────┐
+│                          DOSSIER STATISTICS                                 │
+├─────────────────────────────────────────────────────────────────────────────┤
+│                                                                             │
+│  Total Dossiers:        31                                                  │
+│  ├── Person Dossiers:   10                                                  │
+│  └── Theme Dossiers:    21                                                  │
+│                                                                             │
+│  DNA Elements Cobertos: ~5,800+                                             │
+│  ├── Filosofias:        ~525                                                │
+│  ├── Modelos Mentais:   ~335                                                │
+│  ├── Heuristicas:       ~2,195                                              │
+│  ├── Frameworks:        ~855                                                │
+│  └── Metodologias:      ~583                                                │
+│                                                                             │
+│  Fontes Primarias:      7                                                   │
+│  ├── Jeremy Miner       (~1,199 elementos)                                  │
+│  ├── Jeremy Haynes      (~1,483 elementos)                                  │
+│  ├── The Scalable Co.   (~393 elementos)   **NEW**                          │
+│  ├── Cole Gordon        (~373 elementos)                                    │
+│  └── Alex Hormozi       (~260 elementos)                                    │
+│                                                                             │
+└─────────────────────────────────────────────────────────────────────────────┘
 ```
 
 ---
@@ -138,9 +102,6 @@
 | CALL-FUNNELS | LNS, PAID-MEDIA-SPECIALIST, CMO |
 | SHOW-RATES | LNS, SALES-COORDINATOR, CLOSER |
 | CLOSER-FRAMEWORK | CLOSER, SALES-MANAGER, NEPQ-SPECIALIST |
-| PERFECT-WEBINAR | CLOSER, CMO, CRO, SALES-MANAGER |
-| FUNNEL-ARCHITECTURE | CMO, CRO, PAID-MEDIA-SPECIALIST, LNS |
-| STORYTELLING-PERSUASION | CMO, CLOSER, LNS |
 | 5-PILARES-PRE-VENDAS | BDR, SDR, SALES-COORDINATOR, SALES-MANAGER |
 | KLT-FRAMEWORK | LNS, PAID-MEDIA-SPECIALIST, CMO, MARKETING-COORDINATOR |
 | FUNIL-RH | HR-AGENT, SALES-MANAGER, BDR |
