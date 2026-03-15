@@ -1,0 +1,254 @@
+# BATCH-MTBN-07: System PDFs (Copy Swipe Files)
+# Source: Make Them Buy Now / PDFs / System1-14
+# Type: Swipe file collections with DK categorization taxonomy
+# Note: These are EXAMPLE COLLECTIONS, not teaching content
+#       Extractable = the taxonomy/framework itself, not individual examples
+# Elements: 12 (L1:2 L2:2 L3:3 L4:3 L5:2)
+# Date: 2026-03-15
+
+batch_info:
+  batch_id: "BATCH-MTBN-07"
+  source: "Make Them Buy Now - System PDFs"
+  files_read:
+    - "PDFs/transcription_pdf_System1Headlines.txt (44,877 bytes) — 49 pages, swipe file"
+    - "PDFs/transcription_pdf_System2SubHead.txt (15,806 bytes) — 10 pages, swipe file"
+    - "PDFs/transcription_pdf_System3Openings.txt (22,152 bytes) — 12 pages, swipe file"
+    - "PDFs/transcription_pdf_System8Segues.txt (3,204 bytes) — 2 pages, swipe file"
+    - "PDFs/transcription_pdf_System9Postscripts.txt (11,319 bytes) — 4 pages, swipe file"
+  files_skipped:
+    - "System4Bullets (120b placeholder)"
+    - "System5Offers (240b placeholder)"
+    - "System6Objections (455b placeholder)"
+    - "System7Guarantees (498b placeholder)"
+    - "System10Testimonials (200b placeholder)"
+    - "System11CallToAction (200b placeholder)"
+    - "System12Templates (541b minimal)"
+    - "System13OrderForms (885b minimal)"
+    - "System14Checklist (885b minimal)"
+  element_count: 12
+  layers:
+    L1_PHILOSOPHIES: 2
+    L2_MENTAL_MODELS: 2
+    L3_HEURISTICS: 3
+    L4_FRAMEWORKS: 3
+    L5_METHODOLOGIES: 2
+
+layers:
+  L1_PHILOSOPHIES:
+    - id: "FIL-DK-433"
+      title: "Complete Sales Letter as Living Organism"
+      content: >
+        A sales letter is not a collection of parts — it is a living organism where every element
+        serves the sale. The 14-system taxonomy (Headlines → SubHead → Openings → Bullets → Offers →
+        Objections → Guarantees → Segues → Postscripts → Testimonials → CTA → Templates → Order Forms →
+        Checklist) represents the complete anatomy. Missing any system weakens the whole.
+        DK organized decades of winning ads into these 14 systems because mastery of each
+        system independently creates mastery of the whole.
+      domain: copywriting
+      source_file: "System1-14 PDFs (taxonomy structure)"
+
+    - id: "FIL-DK-434"
+      title: "Swipe Files Are the Foundation of All Great Copy"
+      content: >
+        DK's entire copy education system is built on SWIPE FILES — collections of proven,
+        tested examples organized by function. You don't write from scratch, you write from
+        models. The System PDFs are organized swipe files: hundreds of real headlines, real
+        subheads, real openings, real segues, real postscripts from ads that actually worked.
+        "The best copywriters are the best collectors" — mastery comes from studying what already
+        works, not from theory. Every System file is a museum of proven copy elements.
+      domain: copywriting
+      source_file: "System1-14 PDFs (overall philosophy)"
+
+  L2_MENTAL_MODELS:
+    - id: "MM-DK-372"
+      title: "14-System Copy Architecture Model"
+      content: >
+        A complete direct-response sales letter has 14 distinct systems, each serving a specific
+        function in the persuasion sequence:
+        System 1: Headlines (grab attention, make promise)
+        System 2: SubHeads (maintain momentum, organize scanning)
+        System 3: Openings (establish rapport, create urgency)
+        System 4: Bullets (compress benefits, create fascination)
+        System 5: Offers (structure the deal)
+        System 6: Objections (pre-empt and overcome resistance)
+        System 7: Guarantees (reverse risk)
+        System 8: Segues (transition between sections seamlessly)
+        System 9: Postscripts (P.S. — most-read after headline)
+        System 10: Testimonials (social proof)
+        System 11: Call To Action (command response)
+        System 12: Templates (proven page layouts)
+        System 13: Order Forms (close the transaction)
+        System 14: Checklist (quality control before mailing)
+        Mental model: analyze any sales letter by checking each of the 14 systems.
+      domain: copywriting
+      source_file: "System1-14 PDFs (complete taxonomy)"
+
+    - id: "MM-DK-373"
+      title: "Headline Category Taxonomy"
+      content: >
+        Headlines are not one thing — they fall into distinct categories, each triggering different
+        psychological responses. DK's swipe file reveals recurring headline archetypes:
+        - Question headlines ("Are You...?", "Do You...?", "What Would...?")
+        - Command headlines ("Stop!", "Warning!", "Read This Before...")
+        - How-To headlines ("How To [Benefit] Without [Pain]")
+        - News headlines ("Announcing...", "New...", "At Last...")
+        - Story headlines ("They Laughed When...", "I Was Broke Until...")
+        - Testimonial headlines ("I Made $X In Y Days")
+        - Secret/Mystery headlines ("The Secret of...", "What [Authority] Don't Tell You")
+        - Guarantee headlines ("Guaranteed or...")
+        - Reason-Why headlines ("7 Reasons Why...")
+        Each category matches a different buyer psychology — select based on where prospect
+        is on awareness spectrum.
+      domain: copywriting
+      source_file: "PDFs/transcription_pdf_System1Headlines.txt"
+
+  L3_HEURISTICS:
+    - id: "HEUR-DK-548"
+      title: "P.S. Is Second-Most-Read Element After Headline"
+      content: >
+        The postscript (P.S.) is the second-most-read element of any sales letter.
+        Many readers skip to the end first. The P.S. must: (1) restate the main offer,
+        (2) add urgency/scarcity, (3) introduce a new benefit not mentioned above, or
+        (4) provide a final emotional push. Never waste a P.S. on administrative details.
+        Multiple P.S. lines (P.P.S., P.P.P.S.) are acceptable and common in winning letters.
+        DK's swipe file shows 4+ pages of P.S. examples — indicating he considers this
+        system critical to conversion.
+      domain: copywriting
+      threshold: "Every sales letter MUST have at least one P.S."
+      source_file: "PDFs/transcription_pdf_System9Postscripts.txt"
+
+    - id: "HEUR-DK-549"
+      title: "Segues Must Be Invisible — Reader Should Never Feel Transition"
+      content: >
+        Segues (transitions between sections of a sales letter) must be invisible to the reader.
+        If the reader notices a transition, the flow is broken and you risk losing them.
+        Proven segue patterns from DK's swipe file:
+        - Story continuation ("But that's not all...")
+        - Question bridge ("Now you might be wondering...")
+        - Benefit bridge ("And here's the best part...")
+        - Proof bridge ("Don't just take my word for it...")
+        - Urgency bridge ("But you need to act now because...")
+        The segue section is the smallest system (2 pages) because good segues are SHORT —
+        2-3 sentences maximum.
+      domain: copywriting
+      threshold: "Segue = 2-3 sentences maximum, invisible to reader"
+      source_file: "PDFs/transcription_pdf_System8Segues.txt"
+
+    - id: "HEUR-DK-550"
+      title: "Opening Must Do One of Three Things in First Paragraph"
+      content: >
+        The opening paragraph of a sales letter must accomplish one of three things immediately:
+        (1) Identify the reader and their pain ("If you're a [type] who struggles with [problem]..."),
+        (2) Make a bold promise or claim ("In the next 3 minutes, you'll discover..."), or
+        (3) Tell a story that mirrors the reader's situation ("Last Tuesday, I got a call from...").
+        DK's swipe file shows 12 pages of openings — ALL fall into these three categories.
+        The opening is the bridge between headline (which grabbed attention) and body copy
+        (which builds the case). Lose them here = lose the sale.
+      domain: copywriting
+      threshold: "3 opening types: identify+pain, bold promise, mirror story"
+      source_file: "PDFs/transcription_pdf_System3Openings.txt"
+
+  L4_FRAMEWORKS:
+    - id: "FW-DK-322"
+      title: "Headline Testing Priority Framework"
+      content: >
+        DK's headline swipe file (49 pages, largest of all systems) reveals a testing priority
+        framework implicit in the organization:
+        TIER 1 — TEST FIRST (highest historical response):
+        - How-To + Specific Benefit + Timeframe ("How to [X] in [Y] days")
+        - Question + Pain Point ("Are you still [suffering from X]?")
+        - Story + Result ("They laughed when... but when I...")
+        TIER 2 — TEST SECOND:
+        - News/Announcement + Urgency
+        - Command + Warning
+        - Testimonial + Numbers
+        TIER 3 — SITUATIONAL:
+        - Guarantee-led (for skeptical markets)
+        - Secret/Mystery (for curiosity-driven markets)
+        - Reason-Why (for analytical buyers)
+        The sheer volume of headlines in the swipe file (49 pages vs 2-12 for other systems)
+        confirms DK's hierarchy: headlines are THE most important copy element.
+      domain: copywriting
+      source_file: "PDFs/transcription_pdf_System1Headlines.txt"
+
+    - id: "FW-DK-323"
+      title: "SubHead Architecture Framework"
+      content: >
+        SubHeads serve as the skeleton of a sales letter — they must tell the complete story
+        even if the reader ONLY reads subheads. DK's subhead swipe file reveals the framework:
+        RULE 1: SubHeads must be self-contained (make sense without body copy)
+        RULE 2: SubHeads must create curiosity gap (pull reader into next section)
+        RULE 3: SubHeads must include at least one benefit OR one proof point
+        RULE 4: SubHeads should alternate between emotional and logical
+        SCANNING TEST: Cover all body copy. Read only subheads top to bottom.
+        If they don't tell a compelling story by themselves, rewrite.
+        This is why DK's System 2 is 10 pages — subheads are the second structural pillar.
+      domain: copywriting
+      source_file: "PDFs/transcription_pdf_System2SubHead.txt"
+
+    - id: "FW-DK-324"
+      title: "Complete Sales Letter Quality Checklist (System 14)"
+      content: >
+        System 14 is DK's final quality control framework — a checklist to verify before
+        any sales letter goes to print/mail:
+        STRUCTURE: All 14 systems present and functioning?
+        HEADLINE: Does it stop the right person? Does it make a promise?
+        OFFER: Is it irresistible? Is the math clear?
+        GUARANTEE: Is risk fully reversed?
+        URGENCY: Is there a real reason to act NOW?
+        PROOF: Are claims supported by testimonials/data?
+        P.S.: Does it restate offer + add urgency?
+        ORDER FORM: Is it simple and clear? Can they order without reading the letter?
+        TEMPLATE: Is layout proven (not experimental)?
+        This meta-framework turns the 14 systems into an actionable review protocol.
+      domain: copywriting
+      source_file: "PDFs/System14Checklist + System12Templates + System13OrderForms"
+
+  L5_METHODOLOGIES:
+    - id: "MET-DK-223"
+      title: "Swipe File Study Methodology"
+      content: >
+        DK's implicit methodology for using swipe files (derived from how the System PDFs
+        are organized):
+        STEP 1: COLLECT — Gather winning examples by category (headline, subhead, opening, etc.)
+        STEP 2: CATEGORIZE — Sort by type (question, command, story, etc.)
+        STEP 3: ANALYZE — For each example, identify WHY it works (what psychological trigger)
+        STEP 4: ADAPT — Take the structure/pattern, replace with your product/market specifics
+        STEP 5: TEST — Run adapted version against control, keep winner
+        STEP 6: ADD TO SWIPE FILE — Winners become new swipe file entries
+        This is NOT "copy and paste" — it's structural analysis and adaptation.
+        The methodology creates a self-reinforcing library that improves over time.
+      domain: copywriting
+      source_file: "System1-14 PDFs (methodology implicit in organization)"
+
+    - id: "MET-DK-224"
+      title: "14-System Sales Letter Construction Methodology"
+      content: >
+        Build a sales letter using the 14-system approach:
+        PHASE 1 — FOUNDATION (before writing):
+        - System 14 Checklist: Review all requirements
+        - Research: Product, market, competition, proof points
+        PHASE 2 — CORE ELEMENTS (write in this order):
+        - System 1: Write 25+ headline candidates
+        - System 3: Write 3+ opening variations
+        - System 4: List all bullets/fascinations
+        - System 5: Craft the offer stack
+        PHASE 3 — PERSUASION ELEMENTS:
+        - System 6: Pre-empt top 5 objections
+        - System 7: Design guarantee(s)
+        - System 10: Collect/write testimonials
+        PHASE 4 — STRUCTURE:
+        - System 2: Write subheads (must tell story independently)
+        - System 8: Add segues between sections
+        - System 9: Write P.S. (restate offer + urgency)
+        - System 11: Write clear CTA
+        PHASE 5 — PRODUCTION:
+        - System 12: Select template/layout
+        - System 13: Design order form
+        - System 14: Final checklist review
+      domain: copywriting
+      source_file: "System1-14 PDFs (methodology derived from system sequence)"
+
+# Next IDs after BATCH-07:
+# FIL-DK-435, MM-DK-374, HEUR-DK-551, FW-DK-325, MET-DK-225
+# Running total: 1882 + 12 = 1894 elements

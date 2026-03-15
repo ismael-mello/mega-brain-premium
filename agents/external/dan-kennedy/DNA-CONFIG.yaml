@@ -53,13 +53,64 @@ dna_sources:
     content: "16 CDs (cd01-cd16) + 11 videos (DK_1-DK_11, DK_6 corrupted) + 3 PDFs"
     elements: 556
 
-total_elements: 829
+  - source: "magnetic-marketing"
+    person: "dan-kennedy"
+    weight: 1.0
+    path: "knowledge/external/dna/persons/dan-kennedy/DNA.yaml"
+    raiz: "knowledge/external/sources/dan-kennedy/raw/magnetic-marketing/"
+    files: 39
+    batches: [DK-MM-01, DK-MM-02, DK-MM-03, DK-MM-04, DK-MM-05, DK-MM-06, DK-MM-07, DK-MM-08]
+    content: "6 programs: Magnetic Marketing System (3 mods + vault), Brass Balls (6 CDs), Renegade Millionaire (3 CDs + articles + PDF), Midas Touch (7 tracks), Greatest Hits (4 CDs), Direct Mail Swipe File (3 CDs + Vol2 PDF) + Funnel Labs (8 PDFs)"
+    elements: 534
+    programs:
+      - "01-magnetic-marketing-system"
+      - "02-brass-balls"
+      - "03-renegade-millionaire"
+      - "04-midas-touch"
+      - "05-greatest-hits"
+      - "06-direct-mail-swipe-file"
+    funnel_labs_pdfs: 8
+    context: "Russell Brunson's licensed collection of DK direct response systems"
+
+  - source: "opportunity-marketing-concepts"
+    person: "dan-kennedy"
+    weight: 1.0
+    path: "knowledge/external/dna/persons/dan-kennedy/DNA.yaml"
+    raiz: "knowledge/external/sources/dan-kennedy/raw/opportunity-marketing-concepts/"
+    files: 133
+    batches: [DK-OMC-01, DK-OMC-02, DK-OMC-03, DK-OMC-04, DK-OMC-05]
+    content: "20 CDs (113 tracks) + 10 DVDs + 10 PDFs (empty placeholders). Live seminar recording."
+    elements: 391
+    guest_speakers: ["Jeff Walker", "Craig Simpson", "George Douglas"]
+    context: "Live seminar on repositioning offers as Opportunity vs Improvement/Repair"
+
+  - source: "make-them-buy-now"
+    person: "dan-kennedy"
+    weight: 1.0
+    path: "knowledge/external/dna/persons/dan-kennedy/DNA.yaml"
+    raiz: "knowledge/external/sources/dan-kennedy/raw/make-them-buy-now/"
+    files: 89
+    batches: [MTBN-01, MTBN-02, MTBN-03, MTBN-04, MTBN-05, MTBN-06, MTBN-07, MTBN-08, MTBN-09, MTBN-10, MTBN-11, MTBN-13, MTBN-14]
+    content: "18 sub-programs: One-to-Many Selling (audio+video+PDFs), Secrets (audio+video+PDFs), Sorcery (audio+video+PDFs), System PDFs (14), Marketing to Affluent, Time Management, Sales Assets+Operations, Cart Closing (guest speakers), Magnetic Marketing 2014, Lords of List Building, Cash Flow Surge Generator"
+    elements: 279
+    guest_speakers: ["Mark Victor Hansen", "Joe Vitale", "Joe Sugarman", "Robert Ringer", "Joe Ross", "Frank Kern"]
+    context: "GKIC multi-program bundle — platform selling, copywriting mastery, affluent marketing, list building, cash flow tactics"
+    extraction_path: "knowledge/external/sources/dan-kennedy/mtbn-extraction/"
+    source_doc: "knowledge/external/sources/dan-kennedy/SOURCE-MTBN.md"
+    dna_ids:
+      FIL: "FIL-DK-409..461"
+      MM: "MM-DK-349..402"
+      HEUR: "HEUR-DK-507..586"
+      FW: "FW-DK-293..347"
+      MET: "MET-DK-206..244"
+
+total_elements: 2029
 breakdown:
-  L1_FILOSOFIAS: 176
-  L2_MODELOS_MENTAIS: 159
-  L3_HEURISTICAS: 246
-  L4_FRAMEWORKS: 146
-  L5_METODOLOGIAS: 102
+  L1_FILOSOFIAS: 460
+  L2_MODELOS_MENTAIS: 401
+  L3_HEURISTICAS: 585
+  L4_FRAMEWORKS: 346
+  L5_METODOLOGIAS: 241
 
 domains:
   - copywriting
@@ -110,3 +161,71 @@ references:
     context: "Domino's — Opportunity Gap Analysis example"
   - name: "Loretta Duffy"
     context: "Cosmetics/skin care copy specialist"
+  - name: "Russell Brunson"
+    context: "Licensed Magnetic Marketing, Funnel Labs, ClickFunnels"
+  - name: "Lee Iacocca"
+    context: "Personality-driven CEO saved Chrysler — personality > corporate"
+  - name: "Earl Nightingale"
+    context: "Do opposite of majority — referenced in Brass Balls"
+  - name: "Maxwell Maltz"
+    context: "Psycho-Cybernetics — guided missile metaphor, self-image thermostat"
+  - name: "Robert Ringer"
+    context: "Just jump up there — self-appointment principle"
+  - name: "Harvey Brody"
+    context: "Toll position originator (also in ACC)"
+  - name: "Todd Brown"
+    context: "Compiled Direct Mail Swipe File volumes"
+  - name: "Jeff Walker"
+    context: "Product Launch Formula creator, guest speaker at OMC seminar"
+  - name: "Craig Simpson"
+    context: "Direct mail expert, Ken Roberts case study, guest speaker at OMC"
+  - name: "George Douglas"
+    context: "76yo DM legend, $52M career, $10K avg sale, guest speaker at OMC"
+
+domains_mtbn:
+  - one-to-many-selling
+  - platform-presentation-architecture
+  - urgency-psychology
+  - scarcity-mechanics
+  - action-triggers
+  - buying-resistance
+  - closing-psychology
+  - impulse-architecture
+  - deadline-strategies
+  - risk-reversal
+  - affluent-marketing
+  - time-leverage
+  - list-building
+  - cash-flow-surge
+  - copywriting-sorcery
+  - sales-assets-creation
+
+domains_omc:
+  - opportunity-marketing
+  - prospect-psychology
+  - attainability-agreements
+  - repositioning-strategies
+  - product-launch-formula
+  - direct-mail-advanced
+  - franchise-certification
+  - backend-economics
+  - ltv-maximization
+  - tangibility-naming
+
+domains_mm:
+  - magnetic-marketing-systems
+  - lead-generation-magnets
+  - direct-mail-mastery
+  - brass-balls-mindset
+  - renegade-millionaire-lifestyle
+  - personality-driven-marketing
+  - celebrity-creation
+  - funnel-architecture
+  - follow-up-sequences
+  - order-bumps
+  - webinar-funnels
+  - testing-culture
+  - net-profit-optimization
+  - self-appointment
+  - immunity-to-criticism
+  - healthy-paranoia
