@@ -1,0 +1,541 @@
+# AGG-LIDERANCA.yaml
+# DNA Agregado - Domínio: LIDERANÇA E GESTÃO DE PESSOAS
+# Consolidação de elementos de liderança, cultura organizacional,
+# gestão de equipes, feedback, mudança e performance
+#
+# Versão: 1.0.0
+# Criado: 2026-03-15
+# Tipo: AGGREGATED DNA (multi-source: FLCR + Capital Upgrade)
+# Fontes: knowledge/external/dna/persons/flcr/ + capital-upgrade/
+# Weight: 0.90 (COO), 0.80 (CRO), 0.75 (CMO), 0.70 (CFO)
+#
+# ═══════════════════════════════════════════════════════════════════════════════
+# FONTES CONSOLIDADAS
+# ═══════════════════════════════════════════════════════════════════════════════
+
+dominio: "lideranca"
+versao: "1.0.0"
+data_criacao: "2026-03-15"
+ultima_atualizacao: "2026-03-15"
+total_elementos: 77
+peso_global: 0.90
+
+fontes_consolidadas:
+  - fonte: "flcr"
+    path: "knowledge/external/dna/persons/flcr/"
+    raw_path: "knowledge/external/sources/flcr/raw/"
+    peso_dominio: 0.90
+    elementos_contribuidos: 75
+    especialidade: "Liderança empresarial, cultura organizacional, gestão de pessoas, recrutamento, feedback, mudança, performance"
+    tipo_fonte: "PRIMARY (Wilson Sajr / PWR Gestão — FLCR Formação em Liderança)"
+    modulos: ["M00", "M01", "M02", "M03", "M04", "M05", "M06", "M07", "M08", "M09", "M10", "EXTRA"]
+
+  - fonte: "capital-upgrade"
+    path: "knowledge/external/dna/persons/capital-upgrade/DNA.yaml"
+    raw_path: "knowledge/external/sources/capital-upgrade/raw/"
+    peso_dominio: 0.50
+    elementos_contribuidos: 2
+    especialidade: "Gestão de resultado — disciplina, hábito, cultura"
+    tipo_fonte: "SECONDARY (Paulo Vito Porto / PWR Gestão — FLGF)"
+    modulos: ["M07"]
+
+# ═══════════════════════════════════════════════════════════════════════════════
+# EXPERTS
+# ═══════════════════════════════════════════════════════════════════════════════
+
+experts:
+  - nome: "Wilson Sajr"
+    organizacao: "PWR Gestão"
+    programa: "FLCR — Formação em Liderança, Cultura e Resultado"
+    especialidade: "Liderança prática para PMEs brasileiras — o tripé Liderança-Cultura-Resultado"
+    key_frameworks:
+      - "Tripé Liderança-Cultura-Resultado"
+      - "Modelo Líder Nível 5 (Jim Collins)"
+      - "Pipeline de Liderança (Ram Charan)"
+      - "Framework de Feedback CVIICS"
+      - "7 Alavancas de Implantação de Cultura"
+      - "Matriz GUT (G×U×T)"
+      - "5 Disfunções de Equipe (Lencioni)"
+      - "Sistema de Follow-up em Cadência"
+      - "9-Box de Avaliação de Desempenho"
+
+  - nome: "Paulo Vito Porto"
+    organizacao: "PWR Gestão"
+    programa: "FLGF — Formação de Líderes e Gestores Financeiros"
+    especialidade: "Progressão disciplina → hábito → cultura → resultado"
+    key_frameworks:
+      - "Escada da Gestão (disciplina → hábito → cultura → resultado)"
+
+# ═══════════════════════════════════════════════════════════════════════════════
+# TEMAS COBERTOS
+# ═══════════════════════════════════════════════════════════════════════════════
+
+temas_cobertos:
+  - tema: "Identidade e Estilo de Liderança"
+    descricao: "Quem é o líder, autocredibilidade, estilo autêntico, nível 5"
+
+  - tema: "Cultura Organizacional"
+    descricao: "Propósito-Missão-Valores, implantação, 7 alavancas, Drucker"
+
+  - tema: "Recrutamento e Seleção"
+    descricao: "Funil, perfil, entrevista comportamental, employer branding"
+
+  - tema: "Integração e Onboarding"
+    descricao: "4 semanas estruturadas, dia 30, imersão cultural"
+
+  - tema: "Feedback e Avaliação de Desempenho"
+    descricao: "CVIICS, 9-Box, 48h, feedback em público vs. privado"
+
+  - tema: "Follow-up e Rotinas de Liderança"
+    descricao: "Cadência daily/semanal/mensal/trimestral, 1-a-1, agenda do líder"
+
+  - tema: "Gestão da Mudança"
+    descricao: "8 passos de Kotter, curva S de resistência, comunicação de mudança"
+
+  - tema: "Engajamento e Reconhecimento"
+    descricao: "13% engajados, 4 dimensões de recompensa, meritocracia"
+
+  - tema: "Estrutura Organizacional"
+    descricao: "Organograma por fase, limite de diretos, sucessão"
+
+  - tema: "Priorização e Tomada de Decisão"
+    descricao: "Matriz GUT, 5 Disfunções Lencioni, diagnóstico situacional"
+
+# ═══════════════════════════════════════════════════════════════════════════════
+# L1 — PHILOSOPHIES (seleção: 10 mais relevantes)
+# ═══════════════════════════════════════════════════════════════════════════════
+
+L1_PHILOSOPHIES:
+
+  - id: FIL-FLCR-001
+    title: "Liderança é Responsabilidade pela Cultura"
+    content: "Líderes não gerenciam tarefas — são guardiões da cultura organizacional. A cultura que existe é a cultura que o líder tolera. Problema de equipe = espelho do líder."
+    quote: "O grande responsável por esses resultados medíocres é você. Está no espelho."
+    source: "MÓDULO 01 - Aula 1"
+    relevancia: "CRÍTICA — princípio fundante do tripé LCR"
+
+  - id: FIL-FLCR-002
+    title: "Autocredibilidade como Alicerce"
+    content: "Credibilidade não se declara, se constrói. A equipe segue o exemplo, não as palavras. Inconsistência entre fala e ação é o maior destruidor de confiança."
+    quote: "Liderança nada mais é do que fazer com que as pessoas queiram fazer algo."
+    source: "MÓDULO 01 - Aula 2"
+
+  - id: FIL-FLCR-004
+    title: "Valores > Resultados (no Longo Prazo)"
+    content: "Quebrar processo é perdoável. Quebrar valores nunca é. Resultado sem valores corrompem o futuro da organização."
+    quote: "Quebrar processo é aceitável. Quebrar valores não tem perdão."
+    source: "MÓDULO 02"
+
+  - id: FIL-FLCR-005
+    title: "Primeiro Quem, Depois O Quê (Jim Collins)"
+    content: "Ter as pessoas certas é mais importante do que ter a estratégia certa. As pessoas certas se adaptam à estratégia; a estratégia errada destrói pessoas certas."
+    quote: "First who, then what."
+    source: "MÓDULO 03"
+
+  - id: FIL-FLCR-008
+    title: "Cultura se Constrói de Cima para Baixo"
+    content: "A cultura não se implementa com cartazes. Se implementa com comportamentos diários do líder. O exemplo é o currículo que a equipe aprende."
+    source: "MÓDULO 02 - Aula 7"
+
+  - id: FIL-FLCR-011
+    title: "A Empresa é um Organismo Vivo"
+    content: "Cultura, liderança e resultado formam um tripé inseparável. Não existe resultado sustentável sem cultura sólida. Não existe cultura sem liderança que a encarne."
+    source: "MÓDULO 00 - Introdução"
+
+  - id: FIL-FLCR-015
+    title: "Feedback é Presente, Não Punição"
+    content: "Feedback bem dado acelera o desenvolvimento. O líder que não dá feedback está roubando do colaborador a chance de melhorar. Silêncio = cumplicidade com o erro."
+    source: "MÓDULO 07"
+
+  - id: FIL-FLCR-019
+    title: "O Líder Não É o Mais Inteligente — É o Que Multiplica"
+    content: "O líder de nível 5 não precisa ser o mais inteligente da sala. Precisa fazer os inteligentes trabalharem juntos melhor do que trabalhariam sozinhos."
+    source: "MÓDULO 01 - Aula 5"
+
+  - id: FIL-FLCR-026
+    title: "Follow-up É Respeito pelo Compromisso"
+    content: "Quem não acompanha, não respeita. O follow-up sistemático é a linguagem do líder que leva a sério o que foi combinado. Sem acompanhamento, metas são desejos."
+    source: "MÓDULO 08"
+
+  - id: FIL-FLCR-028
+    title: "Cultura Come Estratégia no Café da Manhã (Peter Drucker)"
+    content: "A melhor estratégia executada por pessoas com cultura errada produz resultado inferior à estratégia mediana executada por pessoas com cultura certa."
+    quote: "Culture eats strategy for breakfast."
+    source: "MÓDULO 02 - Aula 1"
+    relevancia: "CRÍTICA — citação de ancoragem do domínio"
+
+# ═══════════════════════════════════════════════════════════════════════════════
+# L2 — MENTAL MODELS (seleção: 14 mais relevantes)
+# ═══════════════════════════════════════════════════════════════════════════════
+
+L2_MENTAL_MODELS:
+
+  - id: MM-FLCR-001
+    title: "Modelo Líder Nível 5 (Jim Collins)"
+    content: "5 níveis: (1) Indivíduo capaz, (2) Membro contribuinte, (3) Gestor competente, (4) Líder eficaz, (5) Executivo — humildade pessoal + determinação inabalável + foco institucional."
+    key_insight: "O Nível 5 é paradoxal: humilde pessoalmente, feroz profissionalmente."
+    source: "MÓDULO 01 - Aula 5"
+
+  - id: MM-FLCR-002
+    title: "As Três Maturidades"
+    content: "Infância: guiado pelo prazer imediato. Adolescência: age por princípio condicional. Adulto: age por princípio incondicional — faz porque deve ser feito."
+    key_insight: "Gestão de comportamento = mover pessoas da infância para a maturidade adulta."
+    source: "MÓDULO 01 - Aula 2"
+
+  - id: MM-FLCR-003
+    title: "Janela e Espelho"
+    content: "Diante de problemas: alguns olham pela janela (culpam outros), outros olham no espelho (assumem responsabilidade). Líderes nível 5 invertem: espelho para falhas, janela para elogios."
+    source: "MÓDULO 01"
+
+  - id: MM-FLCR-006
+    title: "Cultura como Sistema Operacional"
+    content: "Cultura define fit de recrutamento, padrões de performance, tomada de decisão. Verdadeiro teste: o que a equipe faz quando o líder não está."
+    key_insight: "Cultura sobrevive quando o líder a encarna, especialmente na ausência dele."
+    source: "MÓDULO 02 - Aula 1"
+
+  - id: MM-FLCR-008
+    title: "Os 7 Elementos do Estilo de Liderança"
+    content: "(1) Autenticidade, (2) Determinação (decida — indecisão é a pior decisão), (3) Foco (gerencie tempo, não trabalho), (4) Participação (relações reais), (5) Habilidade com pessoas (80% afabilidade, 20% cobrança), (6) Olhar para a Frente, (7) Intrepidez."
+    source: "MÓDULO 01 - Aula 3"
+
+  - id: MM-FLCR-009
+    title: "Tripé Liderança-Cultura-Resultado"
+    content: "Os três elementos são codependentes. Liderança sem cultura = autoritarismo. Cultura sem resultado = clube social. Resultado sem cultura = prazo de validade curto."
+    source: "MÓDULO 00"
+    relevancia: "CRÍTICA — modelo central do FLCR"
+
+  - id: MM-FLCR-011
+    title: "Modelo de Pipeline de Liderança (Ram Charan)"
+    content: "6 passagens: (1) gerenciar a si mesmo, (2) gerenciar outros, (3) gerenciar gestores, (4) gestor funcional, (5) gestor de negócios, (6) gestor corporativo. Cada passagem exige novas habilidades e mentalidade."
+    source: "MÓDULO 01 - Apostila"
+
+  - id: MM-FLCR-012
+    title: "Modelo de Liderança Situacional"
+    content: "Diferente nível de maturidade do colaborador = diferente estilo necessário. Alto direcionamento + baixo suporte (iniciante) → baixo direcionamento + alto suporte (competente comprometido) → baixo/baixo (expert autônomo)."
+    source: "MÓDULO 01 - Aula 7"
+
+  - id: MM-FLCR-013
+    title: "Estrutura de Cultura: Propósito-Missão-Valores"
+    content: "Propósito = Por quê existimos. Missão = O que fazemos. Valores = Como nos comportamos. A ordem importa: Propósito → Missão → Valores."
+    source: "MÓDULO 02 - Aulas 4-6"
+
+  - id: MM-FLCR-017
+    title: "Modelo de Avaliação de Desempenho 9-Box"
+    content: "Eixo X = Performance. Eixo Y = Potencial. Estrelas (alto/alto), profissionais sólidos (alto/médio), questões de gestão (alto/baixo), pontos de interrogação (baixo/alto), deadwood (baixo/baixo)."
+    source: "MÓDULO 07"
+
+  - id: MM-FLCR-032
+    title: "Líder Como Multiplicador de Talentos"
+    content: "Multiplicador: amplifica a inteligência, cria espaço para contribuição. Diminuidor: centraliza decisões, cria dependência. O multiplicador faz mais com os mesmos recursos."
+    source: "MÓDULO 01"
+
+  - id: MM-FLCR-033
+    title: "Matriz GUT — Priorização de Problemas (G×U×T)"
+    content: "G = Gravidade, U = Urgência, T = Tendência. Score 1-5 em cada eixo. GUT = G×U×T. Máximo = 125 (5×5×5). Priorizar tudo com GUT > 50."
+    key_insight: "Problemas com alta Gravidade + alta Urgência + tendência de PIORA demandam ação imediata."
+    source: "MÓDULO 10"
+
+  - id: MM-FLCR-034
+    title: "As 5 Disfunções de uma Equipe (Patrick Lencioni)"
+    content: "Pirâmide base→topo: (1) Ausência de confiança, (2) Medo do conflito, (3) Falta de comprometimento, (4) Fuga da responsabilização, (5) Desatenção aos resultados. Sem confiança, nada mais funciona."
+    key_insight: "A disfunção mais fundamental é a ausência de confiança."
+    source: "MÓDULO 10"
+
+  - id: MM-CU-115
+    title: "Progressão: Disciplina → Hábito → Cultura → Resultado"
+    content: "Disciplina vira hábito, hábito vira cultura, cultura permite gestão de resultado. Sem disciplina inicial não há hábito, sem hábito não há cultura."
+    source: "Capital Upgrade — M07"
+    relevancia: "Complementa o tripé FLCR com a progressão temporal de construção de cultura"
+
+# ═══════════════════════════════════════════════════════════════════════════════
+# L3 — HEURISTICS (seleção: 14 mais relevantes)
+# ═══════════════════════════════════════════════════════════════════════════════
+
+L3_HEURISTICS:
+
+  # NUMÉRICAS (prioridade)
+
+  - id: HEUR-FLCR-001
+    title: "Regra 90% para Posições Críticas"
+    content: "Pelo menos 90% das posições críticas devem estar preenchidas com as pessoas certas. Posição crítica = quem toma decisões sobre pessoas ou cujo erro gera risco organizacional significativo."
+    number: "90%"
+    source: "MÓDULO 03"
+
+  - id: HEUR-FLCR-002
+    title: "13% de Engajamento Real"
+    content: "Apenas 13% dos colaboradores são genuinamente engajados. Esses 13% geram 20% mais vendas e performam 147% melhor que desengajados."
+    numbers: "13% engajados | +20% vendas | +147% performance"
+    source: "MÓDULO 02"
+
+  - id: HEUR-FLCR-003
+    title: "765% de Crescimento com Cultura Forte"
+    content: "Empresas com cultura forte crescem 765% em 10 anos vs. empresas com cultura fraca (Harvard). ROI direto do investimento em cultura."
+    number: "765% em 10 anos"
+    source: "MÓDULO 02 - Aula 1"
+
+  - id: HEUR-FLCR-004
+    title: "Regra 80/20 de Liderança: Afabilidade vs. Cobrança"
+    content: "80% do tempo: afabilidade, suporte, feedback positivo, relação humana. 20% do tempo: cobrança, desafio, correção. Inverta e a equipe para de entregar."
+    numbers: "80% afabilidade | 20% cobrança"
+    source: "MÓDULO 01 - Aula 3"
+
+  - id: HEUR-FLCR-005
+    title: "Primeiro Erro = Oportunidade, Segundo = Padrão"
+    content: "Primeiro erro pode ser situacional. Segundo erro no mesmo comportamento indica padrão de caráter ou capacidade. Após 2-3 falhas no mesmo item, assuma desalinhamento."
+    number: "2-3 repetições = padrão"
+    source: "MÓDULO 07"
+
+  - id: HEUR-FLCR-009
+    title: "Avaliação por Valores: Score 8+ = Fit Forte"
+    content: "Matrix pessoa × valores, nota 0-10. Média >= 8 = forte fit cultural. 6-7 = precisa coaching. < 6 = considere substituição."
+    numbers: "8+ = fit forte | 6-7 = coaching | <6 = revisar"
+    source: "MÓDULO 02"
+
+  - id: HEUR-FLCR-011
+    title: "Feedback: Não Deixe Acumular Mais de 48h"
+    content: "Feedback sobre comportamento específico perde impacto após 48 horas. Dar feedback imediatamente (ou no máximo 48h) enquanto o contexto ainda é fresco para ambos."
+    number: "48 horas máximo"
+    source: "MÓDULO 07"
+
+  - id: HEUR-FLCR-012
+    title: "Reuniões de Follow-up: Cadência por Nível"
+    content: "Daily: 15 min máximo. Semanal: 1 hora. Mensal: 2-3 horas. Trimestral: meio dia. Reunião sem pauta = cancelada."
+    numbers: "Daily 15min | Semanal 1h | Mensal 2-3h | Trimestral meio-dia"
+    source: "MÓDULO 08"
+
+  - id: HEUR-FLCR-013
+    title: "Regra das 3 Informações do Candidato"
+    content: "Todo candidato avaliado em: competência técnica (30%), fit cultural (40%), histórico de resultados (30%)."
+    numbers: "técnica 30% | cultural 40% | resultados 30%"
+    source: "MÓDULO 03"
+
+  - id: HEUR-FLCR-015
+    title: "Regra do Limite de Diretos por Nível"
+    content: "Um gestor consegue gerenciar bem: 5-8 diretos em ambientes complexos, até 15 em operações mais simples. Acima disso, qualidade da gestão cai exponencialmente."
+    numbers: "5-8 complexo | até 15 simples"
+    source: "MÓDULO 05"
+
+  # QUALITATIVAS
+
+  - id: HEUR-FLCR-016
+    title: "Teste do Alívio"
+    content: "Se essa pessoa pedisse demissão amanhã, você sentiria alívio? Se sim, você já deveria ter agido. O alívio é dado de que a decisão de demissão está atrasada."
+    source: "MÓDULO 03 - Aula 7"
+
+  - id: HEUR-FLCR-022
+    title: "Não Cobre o Que Você Não Modelou"
+    content: "Antes de cobrar qualquer comportamento da equipe, pergunte: estou modelando isso? A incoerência entre o que exige e o que pratica destrói sua autoridade moral."
+    source: "MÓDULO 01"
+
+  - id: HEUR-FLCR-028
+    title: "Meta Sem Follow-up é Desejo"
+    content: "Uma meta não acompanhada semanalmente tem < 10% de chance de ser atingida. O follow-up não é controle — é suporte. Cada check-in é uma oportunidade de destravar obstáculos."
+    source: "MÓDULO 08"
+
+  - id: HEUR-FLCR-029
+    title: "Feedback Positivo em Público, Corretivo em Privado"
+    content: "Reconhecimento público amplifica o comportamento positivo para toda a equipe. Correção em público humilha e cria defensividade."
+    source: "MÓDULO 07"
+
+# ═══════════════════════════════════════════════════════════════════════════════
+# L4 — FRAMEWORKS (seleção: 12 mais relevantes)
+# ═══════════════════════════════════════════════════════════════════════════════
+
+L4_FRAMEWORKS:
+
+  - id: FW-FLCR-007
+    title: "Framework de Feedback CVIICS"
+    structure:
+      C: "Contexto (em que situação?)"
+      V: "Valor violado (qual valor isso confronta?)"
+      I1: "Comportamento (o que fez?)"
+      I2: "Impacto (qual consequência gerou?)"
+      C2: "Correção esperada (o que precisa mudar?)"
+      S: "Suporte (como vou ajudar?)"
+    source: "MÓDULO 07 - Aula 1"
+
+  - id: FW-FLCR-008
+    title: "Framework de Gestão da Mudança (8 Passos de Kotter)"
+    steps:
+      - "1. Criar urgência (por que mudar agora?)"
+      - "2. Formar coalizão (quem lidera a mudança?)"
+      - "3. Criar visão de mudança (para onde estamos indo?)"
+      - "4. Comunicar a visão (como todos saberão?)"
+      - "5. Remover obstáculos (o que está bloqueando?)"
+      - "6. Criar vitórias de curto prazo (o que mostrar em 90 dias?)"
+      - "7. Construir sobre a mudança (como sustentar o momentum?)"
+      - "8. Ancorar na cultura (como a mudança vira o novo normal?)"
+    source: "MÓDULO 06 - Aula 5"
+
+  - id: FW-FLCR-012
+    title: "Sistema de Follow-up em Cadência"
+    cadences:
+      daily: "15 min | operacional, bloqueios do dia"
+      semanal: "1 hora | progresso de metas, prioridades"
+      mensal: "2-3 horas | revisão de indicadores, ajustes"
+      trimestral: "meio dia | estratégia e pessoas"
+    rule: "Cada nível tem propósito distinto. Reunião sem pauta = cancelada."
+    source: "MÓDULO 08"
+
+  - id: FW-FLCR-014
+    title: "Framework de Avaliação de Desempenho 9-Box"
+    axes:
+      x: "Performance (resultados entregues)"
+      y: "Potencial (crescimento futuro)"
+    positions:
+      alto_alto: "Estrelas — investir, acelerar, promover"
+      alto_medio: "Profissionais sólidos — manter, reconhecer"
+      alto_baixo: "Questões de gestão — usar agora, planejar transição"
+      baixo_alto: "Pontos de interrogação — desenvolvimento intensivo"
+      medio_medio: "Core do time — manter engajado"
+      baixo_baixo: "Deadwood — desligar com clareza"
+    source: "MÓDULO 07"
+
+  - id: FW-FLCR-021
+    title: "Framework de Rotinas de Liderança (Agenda Semanal)"
+    structure:
+      segunda: "Alinhamento de equipe (prioridades da semana)"
+      quarta: "1-a-1 com diretos (30min cada)"
+      sexta: "Review de indicadores (resultados vs. metas)"
+      diario: "15min daily (bloqueios operacionais)"
+    principle: "O que está na agenda acontece. O que não está, fica nos bons intentos."
+    source: "MÓDULO 01 - Aula 6"
+
+  - id: FW-FLCR-033
+    title: "Modelo de Reunião 1-a-1 Semanal"
+    structure:
+      abertura: "O que está funcionando bem? (5 min)"
+      blockers: "O que está travando? (10 min)"
+      desenvolvimento: "Onde você quer crescer? (10 min)"
+      feedback: "Uma coisa que você quer de mim / eu dou de você (5 min)"
+    frequency: "Semanal, 30 min"
+    principle: "O 1-1 é do colaborador, não do líder. O líder facilita."
+    source: "MÓDULO 07"
+
+  - id: FW-FLCR-034
+    title: "Framework de Implantação de Cultura (7 Alavancas)"
+    levers:
+      - "1. Exemplo da liderança (modele os valores diariamente)"
+      - "2. Processo de R&S alinhado a valores (filtre desde o início)"
+      - "3. Onboarding cultural estruturado (imersão em valores)"
+      - "4. Rituais e celebrações alinhados a valores"
+      - "5. Feedback e avaliação ancorados em valores"
+      - "6. Decisões difíceis tomadas baseadas em valores"
+      - "7. Remoção de quem viola valores sistematicamente"
+    source: "MÓDULO 02 - Aula 7"
+    relevancia: "CRÍTICA — framework operacional de construção de cultura"
+
+  - id: FW-FLCR-037
+    title: "Modelo de Rotina de Alta Performance (Alocação do Líder Sênior)"
+    allocation:
+      estrategia: "30% (planejamento, mercado, crescimento)"
+      pessoas: "30% (desenvolvimento, 1-1s, cultura)"
+      clientes: "20% (principais clientes estratégicos)"
+      operacao: "20% (acompanhamento de indicadores, decisões urgentes)"
+    principle: "Se o líder sênior está > 40% no operacional, a empresa tem problema de estrutura ou delegação."
+    source: "MÓDULO 01 - Aula 6"
+
+  - id: FW-FLCR-042
+    title: "Framework de Delegação Eficaz (5 Elementos)"
+    elements:
+      clareza: "Expectativa 100% clara (o quê, até quando, com qual qualidade)"
+      capacidade: "A pessoa tem os recursos para entregar?"
+      autonomia: "Espaço para decidir como fazer"
+      accountability: "Ponto de checagem acordado"
+      suporte: "Como o líder apoia sem fazer no lugar"
+    anti_pattern: "Delegar sem clareza = abandonar. Delegar com micro-controle = não delegou."
+    source: "MÓDULO 01"
+
+  - id: FW-FLCR-043
+    title: "Matriz GUT de Priorização (G×U×T)"
+    axes:
+      gravidade: "Impacto se não resolver (1=nenhum, 5=catastrófico)"
+      urgencia: "Prazo antes do dano irreversível (1=pode esperar, 5=agora)"
+      tendencia: "O problema piora, mantém ou melhora? (1=melhora, 5=piora)"
+    formula: "Score GUT = G × U × T (mín: 1, máx: 125)"
+    thresholds:
+      critico: "> 75 — ação imediata, bloqueio de agenda"
+      alto: "50-75 — plano de ação, prazo 30 dias"
+      medio: "25-49 — monitorar e planejar"
+      baixo: "< 25 — backlog"
+    source: "MÓDULO 10"
+
+  - id: FW-FLCR-044
+    title: "Pirâmide das 5 Disfunções de Equipe (Lencioni)"
+    pyramid:
+      base:
+        disfuncao: "1. Ausência de Confiança"
+        cura: "Vulnerabilidade, histórias pessoais, feedback positivo"
+      nivel_2:
+        disfuncao: "2. Medo do Conflito"
+        cura: "Debates estruturados, desacordo como norma cultural"
+      nivel_3:
+        disfuncao: "3. Falta de Comprometimento"
+        cura: "Clareza nas decisões, revisão de compromissos ao final de reuniões"
+      nivel_4:
+        disfuncao: "4. Fuga da Responsabilização"
+        cura: "Objetivos públicos, revisão regular de progresso entre pares"
+      topo:
+        disfuncao: "5. Desatenção aos Resultados"
+        cura: "Recompensas baseadas em resultado coletivo"
+    principle: "A pirâmide é sequencial: impossível resolver nível 2 sem resolver nível 1."
+    source: "MÓDULO 10"
+
+  - id: FW-CU-116
+    title: "Escada da Gestão (Capital Upgrade)"
+    steps:
+      - "1. Disciplina (decisão momentânea — escolha consciente)"
+      - "2. Hábito (se torna natural — repetição automatizada)"
+      - "3. Cultura (coletivo adota — normalização organizacional)"
+      - "4. Gestão de Resultado (sustentável — fruto da cultura)"
+    source: "Capital Upgrade — M07"
+    relevancia: "Complementa o FLCR com a sequência temporal de maturação cultural"
+
+# ═══════════════════════════════════════════════════════════════════════════════
+# CARGO WEIGHTS (quem usa este AGG e com qual peso)
+# ═══════════════════════════════════════════════════════════════════════════════
+
+cargo_weights:
+  COO:
+    peso: 0.90
+    dominios: ["gestao-mudanca", "cultura-organizacional", "estrutura-organizacional", "follow-up", "acompanhamento"]
+    justificativa: "COO é o principal executor do tripé LCR — opera a cultura no dia a dia"
+
+  CRO:
+    peso: 0.80
+    dominios: ["gestao-equipe-comercial", "feedback", "acompanhamento", "performance", "follow-up"]
+    justificativa: "CRO lidera equipe de vendas — feedback e follow-up são críticos"
+
+  CMO:
+    peso: 0.75
+    dominios: ["lideranca-marketing", "cultura-criativa", "engajamento-equipe"]
+    justificativa: "CMO lidera time criativo — cultura e engajamento impactam qualidade de output"
+
+  CFO:
+    peso: 0.70
+    dominios: ["lideranca-financeira", "meritocracia", "gestao-performance"]
+    justificativa: "CFO lidera área financeira — meritocracia e avaliação de desempenho são relevantes"
+
+# ═══════════════════════════════════════════════════════════════════════════════
+# METADADOS DE DERIVAÇÃO
+# ═══════════════════════════════════════════════════════════════════════════════
+
+metadados_derivacao:
+  total_elementos_contados:
+    L1: 10
+    L2: 13
+    L3: 14
+    L4: 12
+    total: 49
+  nota: "Seleção curada dos 49 elementos mais relevantes do total de 180 (FLCR) + 257 (Capital Upgrade). Prioriza elementos de alta aplicabilidade para cargos C-Level e gestores."
+  fontes_verificadas:
+    - arquivo: "knowledge/external/dna/persons/flcr/L1-PHILOSOPHIES.yaml"
+      data_verificacao: "2026-03-15"
+    - arquivo: "knowledge/external/dna/persons/flcr/L2-MENTAL-MODELS.yaml"
+      data_verificacao: "2026-03-15"
+    - arquivo: "knowledge/external/dna/persons/flcr/L3-HEURISTICS.yaml"
+      data_verificacao: "2026-03-15"
+    - arquivo: "knowledge/external/dna/persons/flcr/L4-FRAMEWORKS.yaml"
+      data_verificacao: "2026-03-15"
+    - arquivo: "knowledge/external/dna/persons/capital-upgrade/DNA.yaml"
+      data_verificacao: "2026-03-15"
