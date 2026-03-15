@@ -1,6 +1,6 @@
 {
   "version": "2.0.0",
-  "skills_count": 30,
+  "skills_count": 47,
   "subagents_count": 0,
   "total_count": 47,
   "skills": {
@@ -18,6 +18,19 @@
       ],
       "priority": "ALTA",
       "description": "Padrões para Criação de Agentes no Mega Brain"
+    },
+    "ask-company": {
+      "path": ".claude\\skills\\ask-company",
+      "name": "ask-company",
+      "type": "skill",
+      "auto_trigger": "Responde perguntas sobre a [SUA EMPRESA] com contexto completo injetado automati",
+      "keywords": [
+        "ask-company",
+        "ask",
+        "company"
+      ],
+      "priority": "MÉDIA",
+      "description": ""
     },
     "brainstorming": {
       "path": ".claude\\skills\\brainstorming",
@@ -69,6 +82,20 @@
       "priority": "ALTA",
       "description": ""
     },
+    "convert-to-company-docs": {
+      "path": ".claude\\skills\\convert-to-company-docs",
+      "name": "convert-to-company-docs",
+      "type": "skill",
+      "auto_trigger": "## Trigger",
+      "keywords": [
+        "convert-to-company-docs",
+        "convert",
+        "company",
+        "docs"
+      ],
+      "priority": "MÉDIA",
+      "description": ""
+    },
     "dispatching-parallel-agents": {
       "path": ".claude\\skills\\dispatching-parallel-agents",
       "name": "dispatching-parallel-agents",
@@ -118,6 +145,31 @@
       "priority": "ALTA",
       "description": ""
     },
+    "executor": {
+      "path": ".claude\\skills\\executor",
+      "name": "executor",
+      "type": "skill",
+      "auto_trigger": "## Proposito",
+      "keywords": [
+        "executor",
+        "executor"
+      ],
+      "priority": "MÉDIA",
+      "description": ""
+    },
+    "fase-2-5-tagging": {
+      "path": ".claude\\skills\\fase-2-5-tagging",
+      "name": "fase-2-5-tagging",
+      "type": "skill",
+      "auto_trigger": "## Objetivo",
+      "keywords": [
+        "fase-2-5-tagging",
+        "fase",
+        "tagging"
+      ],
+      "priority": "MÉDIA",
+      "description": ""
+    },
     "feature-dev": {
       "path": ".claude\\skills\\feature-dev",
       "name": "feature-dev",
@@ -153,6 +205,45 @@
         "aesthetics"
       ],
       "priority": "ALTA",
+      "description": ""
+    },
+    "gdrive-transcription-downloader": {
+      "path": ".claude\\skills\\gdrive-transcription-downloader",
+      "name": "gdrive-transcription-downloader",
+      "type": "skill",
+      "auto_trigger": "---",
+      "keywords": [
+        "gdrive-transcription-downloader",
+        "gdrive",
+        "transcription",
+        "downloader"
+      ],
+      "priority": "MÉDIA",
+      "description": ""
+    },
+    "gemini-fallback": {
+      "path": ".claude\\skills\\gemini-fallback",
+      "name": "gemini-fallback",
+      "type": "skill",
+      "auto_trigger": "Use este skill quando precisar acessar sites que Claude Code não consegue (Reddi",
+      "keywords": [
+        "gemini-fallback",
+        "gemini",
+        "fallback"
+      ],
+      "priority": "MÉDIA",
+      "description": ""
+    },
+    "gha": {
+      "path": ".claude\\skills\\gha",
+      "name": "gha",
+      "type": "skill",
+      "auto_trigger": "Diagnóstico automático de falhas em GitHub Actions.",
+      "keywords": [
+        "gha",
+        "gha"
+      ],
+      "priority": "MÉDIA",
       "description": ""
     },
     "github-workflow": {
@@ -209,6 +300,20 @@
       "priority": "ALTA",
       "description": ""
     },
+    "hybrid-source-reading": {
+      "path": ".claude\\skills\\hybrid-source-reading",
+      "name": "hybrid-source-reading",
+      "type": "skill",
+      "auto_trigger": "## Descrição",
+      "keywords": [
+        "hybrid-source-reading",
+        "hybrid",
+        "source",
+        "reading"
+      ],
+      "priority": "MÉDIA",
+      "description": ""
+    },
     "jarvis": {
       "path": ".claude\\skills\\jarvis",
       "name": "jarvis",
@@ -254,6 +359,19 @@
       ],
       "priority": "ALTA",
       "description": "Padrões para Extração de Conhecimento no Mega Brain"
+    },
+    "ler-planilha": {
+      "path": ".claude\\skills\\ler-planilha",
+      "name": "ler-planilha",
+      "type": "skill",
+      "auto_trigger": "## Objetivo",
+      "keywords": [
+        "ler-planilha",
+        "ler",
+        "planilha"
+      ],
+      "priority": "MÉDIA",
+      "description": ""
     },
     "memory-search": {
       "path": ".claude\\skills\\memory-search",
@@ -356,6 +474,20 @@
       "priority": "ALTA",
       "description": ""
     },
+    "process-company-inbox": {
+      "path": ".claude\\skills\\process-company-inbox",
+      "name": "process-company-inbox",
+      "type": "skill",
+      "auto_trigger": "Pipeline de processamento de conteúdo interno da [SUA EMPRESA].",
+      "keywords": [
+        "process-company-inbox",
+        "process",
+        "company",
+        "inbox"
+      ],
+      "priority": "MÉDIA",
+      "description": ""
+    },
     "python-megabrain": {
       "path": ".claude\\skills\\python-megabrain",
       "name": "python-megabrain",
@@ -383,6 +515,33 @@
         "meeting transcripts",
         "transcript harvester",
         "download meetings"
+      ],
+      "priority": "MÉDIA",
+      "description": ""
+    },
+    "resume": {
+      "path": ".claude\\skills\\resume",
+      "name": "resume",
+      "type": "skill",
+      "auto_trigger": "Quando usuário quer retomar sessão anterior",
+      "keywords": [
+        "resume",
+        "retomar",
+        "onde paramos",
+        "última sessão",
+        "continuar"
+      ],
+      "priority": "ALTA",
+      "description": ""
+    },
+    "save": {
+      "path": ".claude\\skills\\save",
+      "name": "save",
+      "type": "skill",
+      "auto_trigger": "## Trigger",
+      "keywords": [
+        "save",
+        "save"
       ],
       "priority": "MÉDIA",
       "description": ""
@@ -416,6 +575,59 @@
       ],
       "priority": "ALTA",
       "description": "Meta-Skill: Guia Automático para Criação de Skills"
+    },
+    "skill-writer": {
+      "path": ".claude\\skills\\skill-writer",
+      "name": "skill-writer",
+      "type": "skill",
+      "auto_trigger": "Create well-structured Agent Skills for Claude Code following best practices.",
+      "keywords": [
+        "skill-writer",
+        "skill",
+        "writer"
+      ],
+      "priority": "MÉDIA",
+      "description": ""
+    },
+    "smart-download-tagger": {
+      "path": ".claude\\skills\\smart-download-tagger",
+      "name": "smart-download-tagger",
+      "type": "skill",
+      "auto_trigger": "## Descrição",
+      "keywords": [
+        "smart-download-tagger",
+        "smart",
+        "download",
+        "tagger"
+      ],
+      "priority": "MÉDIA",
+      "description": ""
+    },
+    "source-sync": {
+      "path": ".claude\\skills\\source-sync",
+      "name": "source-sync",
+      "type": "skill",
+      "auto_trigger": "> **Versão:** 1.0.0",
+      "keywords": [
+        "source-sync",
+        "source",
+        "sync"
+      ],
+      "priority": "MÉDIA",
+      "description": ""
+    },
+    "sync-docs": {
+      "path": ".claude\\skills\\sync-docs",
+      "name": "sync-docs",
+      "type": "skill",
+      "auto_trigger": "## Trigger",
+      "keywords": [
+        "sync-docs",
+        "sync",
+        "docs"
+      ],
+      "priority": "MÉDIA",
+      "description": ""
     },
     "teaching": {
       "path": ".claude\\skills\\teaching",
@@ -460,6 +672,18 @@
         "concluído"
       ],
       "priority": "ALTA",
+      "description": ""
+    },
+    "verify": {
+      "path": ".claude\\skills\\verify",
+      "name": "verify",
+      "type": "skill",
+      "auto_trigger": "## Trigger",
+      "keywords": [
+        "verify",
+        "verify"
+      ],
+      "priority": "MÉDIA",
       "description": ""
     },
     "verify-6-levels": {
@@ -540,6 +764,42 @@
         "type": "skill",
         "path": ".claude\\skills\\agent-creation",
         "priority": "ALTA"
+      }
+    ],
+    "ask-company": [
+      {
+        "name": "ask-company",
+        "type": "skill",
+        "path": ".claude\\skills\\ask-company",
+        "priority": "MÉDIA"
+      }
+    ],
+    "ask": [
+      {
+        "name": "ask-company",
+        "type": "skill",
+        "path": ".claude\\skills\\ask-company",
+        "priority": "MÉDIA"
+      }
+    ],
+    "company": [
+      {
+        "name": "ask-company",
+        "type": "skill",
+        "path": ".claude\\skills\\ask-company",
+        "priority": "MÉDIA"
+      },
+      {
+        "name": "convert-to-company-docs",
+        "type": "skill",
+        "path": ".claude\\skills\\convert-to-company-docs",
+        "priority": "MÉDIA"
+      },
+      {
+        "name": "process-company-inbox",
+        "type": "skill",
+        "path": ".claude\\skills\\process-company-inbox",
+        "priority": "MÉDIA"
       }
     ],
     "brainstorm": [
@@ -720,6 +980,36 @@
         "priority": "ALTA"
       }
     ],
+    "convert-to-company-docs": [
+      {
+        "name": "convert-to-company-docs",
+        "type": "skill",
+        "path": ".claude\\skills\\convert-to-company-docs",
+        "priority": "MÉDIA"
+      }
+    ],
+    "convert": [
+      {
+        "name": "convert-to-company-docs",
+        "type": "skill",
+        "path": ".claude\\skills\\convert-to-company-docs",
+        "priority": "MÉDIA"
+      }
+    ],
+    "docs": [
+      {
+        "name": "convert-to-company-docs",
+        "type": "skill",
+        "path": ".claude\\skills\\convert-to-company-docs",
+        "priority": "MÉDIA"
+      },
+      {
+        "name": "sync-docs",
+        "type": "skill",
+        "path": ".claude\\skills\\sync-docs",
+        "priority": "MÉDIA"
+      }
+    ],
     "paralelo": [
       {
         "name": "dispatching-parallel-agents",
@@ -786,6 +1076,12 @@
         "type": "skill",
         "path": ".claude\\skills\\pipeline-jarvis",
         "priority": "ALTA"
+      },
+      {
+        "name": "process-company-inbox",
+        "type": "skill",
+        "path": ".claude\\skills\\process-company-inbox",
+        "priority": "MÉDIA"
       }
     ],
     "documento": [
@@ -896,6 +1192,44 @@
         "type": "skill",
         "path": ".claude\\skills\\pipeline-jarvis",
         "priority": "ALTA"
+      }
+    ],
+    "executor": [
+      {
+        "name": "executor",
+        "type": "skill",
+        "path": ".claude\\skills\\executor",
+        "priority": "MÉDIA"
+      },
+      {
+        "name": "executor",
+        "type": "skill",
+        "path": ".claude\\skills\\executor",
+        "priority": "MÉDIA"
+      }
+    ],
+    "fase-2-5-tagging": [
+      {
+        "name": "fase-2-5-tagging",
+        "type": "skill",
+        "path": ".claude\\skills\\fase-2-5-tagging",
+        "priority": "MÉDIA"
+      }
+    ],
+    "fase": [
+      {
+        "name": "fase-2-5-tagging",
+        "type": "skill",
+        "path": ".claude\\skills\\fase-2-5-tagging",
+        "priority": "MÉDIA"
+      }
+    ],
+    "tagging": [
+      {
+        "name": "fase-2-5-tagging",
+        "type": "skill",
+        "path": ".claude\\skills\\fase-2-5-tagging",
+        "priority": "MÉDIA"
       }
     ],
     "feature": [
@@ -1024,6 +1358,76 @@
         "type": "skill",
         "path": ".claude\\skills\\frontend-design",
         "priority": "ALTA"
+      }
+    ],
+    "gdrive-transcription-downloader": [
+      {
+        "name": "gdrive-transcription-downloader",
+        "type": "skill",
+        "path": ".claude\\skills\\gdrive-transcription-downloader",
+        "priority": "MÉDIA"
+      }
+    ],
+    "gdrive": [
+      {
+        "name": "gdrive-transcription-downloader",
+        "type": "skill",
+        "path": ".claude\\skills\\gdrive-transcription-downloader",
+        "priority": "MÉDIA"
+      }
+    ],
+    "transcription": [
+      {
+        "name": "gdrive-transcription-downloader",
+        "type": "skill",
+        "path": ".claude\\skills\\gdrive-transcription-downloader",
+        "priority": "MÉDIA"
+      }
+    ],
+    "downloader": [
+      {
+        "name": "gdrive-transcription-downloader",
+        "type": "skill",
+        "path": ".claude\\skills\\gdrive-transcription-downloader",
+        "priority": "MÉDIA"
+      }
+    ],
+    "gemini-fallback": [
+      {
+        "name": "gemini-fallback",
+        "type": "skill",
+        "path": ".claude\\skills\\gemini-fallback",
+        "priority": "MÉDIA"
+      }
+    ],
+    "gemini": [
+      {
+        "name": "gemini-fallback",
+        "type": "skill",
+        "path": ".claude\\skills\\gemini-fallback",
+        "priority": "MÉDIA"
+      }
+    ],
+    "fallback": [
+      {
+        "name": "gemini-fallback",
+        "type": "skill",
+        "path": ".claude\\skills\\gemini-fallback",
+        "priority": "MÉDIA"
+      }
+    ],
+    "gha": [
+      {
+        "name": "gha",
+        "type": "skill",
+        "path": ".claude\\skills\\gha",
+        "priority": "MÉDIA"
+      },
+      {
+        "name": "gha",
+        "type": "skill",
+        "path": ".claude\\skills\\gha",
+        "priority": "MÉDIA"
       }
     ],
     "github": [
@@ -1230,6 +1634,44 @@
         "priority": "ALTA"
       }
     ],
+    "hybrid-source-reading": [
+      {
+        "name": "hybrid-source-reading",
+        "type": "skill",
+        "path": ".claude\\skills\\hybrid-source-reading",
+        "priority": "MÉDIA"
+      }
+    ],
+    "hybrid": [
+      {
+        "name": "hybrid-source-reading",
+        "type": "skill",
+        "path": ".claude\\skills\\hybrid-source-reading",
+        "priority": "MÉDIA"
+      }
+    ],
+    "source": [
+      {
+        "name": "hybrid-source-reading",
+        "type": "skill",
+        "path": ".claude\\skills\\hybrid-source-reading",
+        "priority": "MÉDIA"
+      },
+      {
+        "name": "source-sync",
+        "type": "skill",
+        "path": ".claude\\skills\\source-sync",
+        "priority": "MÉDIA"
+      }
+    ],
+    "reading": [
+      {
+        "name": "hybrid-source-reading",
+        "type": "skill",
+        "path": ".claude\\skills\\hybrid-source-reading",
+        "priority": "MÉDIA"
+      }
+    ],
     "orquestrador": [
       {
         "name": "jarvis",
@@ -1338,6 +1780,30 @@
         "type": "skill",
         "path": ".claude\\skills\\knowledge-extraction",
         "priority": "ALTA"
+      }
+    ],
+    "ler-planilha": [
+      {
+        "name": "ler-planilha",
+        "type": "skill",
+        "path": ".claude\\skills\\ler-planilha",
+        "priority": "MÉDIA"
+      }
+    ],
+    "ler": [
+      {
+        "name": "ler-planilha",
+        "type": "skill",
+        "path": ".claude\\skills\\ler-planilha",
+        "priority": "MÉDIA"
+      }
+    ],
+    "planilha": [
+      {
+        "name": "ler-planilha",
+        "type": "skill",
+        "path": ".claude\\skills\\ler-planilha",
+        "priority": "MÉDIA"
       }
     ],
     "memory search": [
@@ -1626,6 +2092,22 @@
         "priority": "ALTA"
       }
     ],
+    "process-company-inbox": [
+      {
+        "name": "process-company-inbox",
+        "type": "skill",
+        "path": ".claude\\skills\\process-company-inbox",
+        "priority": "MÉDIA"
+      }
+    ],
+    "process": [
+      {
+        "name": "process-company-inbox",
+        "type": "skill",
+        "path": ".claude\\skills\\process-company-inbox",
+        "priority": "MÉDIA"
+      }
+    ],
     "script": [
       {
         "name": "python-megabrain",
@@ -1714,6 +2196,60 @@
         "priority": "MÉDIA"
       }
     ],
+    "resume": [
+      {
+        "name": "resume",
+        "type": "skill",
+        "path": ".claude\\skills\\resume",
+        "priority": "ALTA"
+      }
+    ],
+    "retomar": [
+      {
+        "name": "resume",
+        "type": "skill",
+        "path": ".claude\\skills\\resume",
+        "priority": "ALTA"
+      }
+    ],
+    "onde paramos": [
+      {
+        "name": "resume",
+        "type": "skill",
+        "path": ".claude\\skills\\resume",
+        "priority": "ALTA"
+      }
+    ],
+    "última sessão": [
+      {
+        "name": "resume",
+        "type": "skill",
+        "path": ".claude\\skills\\resume",
+        "priority": "ALTA"
+      }
+    ],
+    "continuar": [
+      {
+        "name": "resume",
+        "type": "skill",
+        "path": ".claude\\skills\\resume",
+        "priority": "ALTA"
+      }
+    ],
+    "save": [
+      {
+        "name": "save",
+        "type": "skill",
+        "path": ".claude\\skills\\save",
+        "priority": "MÉDIA"
+      },
+      {
+        "name": "save",
+        "type": "skill",
+        "path": ".claude\\skills\\save",
+        "priority": "MÉDIA"
+      }
+    ],
     "shared memory": [
       {
         "name": "shared-memory",
@@ -1784,6 +2320,92 @@
         "type": "skill",
         "path": ".claude\\skills\\skill-creator-internal",
         "priority": "ALTA"
+      }
+    ],
+    "skill-writer": [
+      {
+        "name": "skill-writer",
+        "type": "skill",
+        "path": ".claude\\skills\\skill-writer",
+        "priority": "MÉDIA"
+      }
+    ],
+    "skill": [
+      {
+        "name": "skill-writer",
+        "type": "skill",
+        "path": ".claude\\skills\\skill-writer",
+        "priority": "MÉDIA"
+      }
+    ],
+    "writer": [
+      {
+        "name": "skill-writer",
+        "type": "skill",
+        "path": ".claude\\skills\\skill-writer",
+        "priority": "MÉDIA"
+      }
+    ],
+    "smart-download-tagger": [
+      {
+        "name": "smart-download-tagger",
+        "type": "skill",
+        "path": ".claude\\skills\\smart-download-tagger",
+        "priority": "MÉDIA"
+      }
+    ],
+    "smart": [
+      {
+        "name": "smart-download-tagger",
+        "type": "skill",
+        "path": ".claude\\skills\\smart-download-tagger",
+        "priority": "MÉDIA"
+      }
+    ],
+    "download": [
+      {
+        "name": "smart-download-tagger",
+        "type": "skill",
+        "path": ".claude\\skills\\smart-download-tagger",
+        "priority": "MÉDIA"
+      }
+    ],
+    "tagger": [
+      {
+        "name": "smart-download-tagger",
+        "type": "skill",
+        "path": ".claude\\skills\\smart-download-tagger",
+        "priority": "MÉDIA"
+      }
+    ],
+    "source-sync": [
+      {
+        "name": "source-sync",
+        "type": "skill",
+        "path": ".claude\\skills\\source-sync",
+        "priority": "MÉDIA"
+      }
+    ],
+    "sync": [
+      {
+        "name": "source-sync",
+        "type": "skill",
+        "path": ".claude\\skills\\source-sync",
+        "priority": "MÉDIA"
+      },
+      {
+        "name": "sync-docs",
+        "type": "skill",
+        "path": ".claude\\skills\\sync-docs",
+        "priority": "MÉDIA"
+      }
+    ],
+    "sync-docs": [
+      {
+        "name": "sync-docs",
+        "type": "skill",
+        "path": ".claude\\skills\\sync-docs",
+        "priority": "MÉDIA"
       }
     ],
     "teaching": [
@@ -1917,6 +2539,18 @@
       }
     ],
     "verify": [
+      {
+        "name": "verify",
+        "type": "skill",
+        "path": ".claude\\skills\\verify",
+        "priority": "MÉDIA"
+      },
+      {
+        "name": "verify",
+        "type": "skill",
+        "path": ".claude\\skills\\verify",
+        "priority": "MÉDIA"
+      },
       {
         "name": "verify-6-levels",
         "type": "skill",
