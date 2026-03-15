@@ -436,7 +436,7 @@ RESULTADO: Nenhum arquivo fica "órfão" de atualizações.
 │   /knowledge/SOURCES/* ────→ MAPA DE NAVEGACAO GRANULAR                 │
 │   │                             └── SOURCES Granulares                     │
 │   │                                                                         │
-│   /knowledge/dossiers/* ───→ MAPA DE NAVEGACAO GRANULAR                 │
+│   /knowledge/external/dossiers/* ───→ MAPA DE NAVEGACAO GRANULAR                 │
 │                                 └── Dossiês Consolidados                   │
 │                                                                             │
 └─────────────────────────────────────────────────────────────────────────────┘

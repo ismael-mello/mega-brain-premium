@@ -2335,9 +2335,9 @@ DNA Composition conforme definido em SOUL.md ^[SOUL.md:20-25]:
 
 | Pessoa | Tema | Path | Quando Usar |
 |--------|------|------|-------------|
-| {PESSOA} | {TEMA} | `/knowledge/SOURCES/{PESSOA}/{CODIGO}-{TEMA}.md` | {CONTEXTO} |
-| {PESSOA} | {TEMA} | `/knowledge/SOURCES/{PESSOA}/{CODIGO}-{TEMA}.md` | {CONTEXTO} |
-| {PESSOA} | {TEMA} | `/knowledge/SOURCES/{PESSOA}/{CODIGO}-{TEMA}.md` | {CONTEXTO} |
+| {PESSOA} | {TEMA} | `/knowledge/external/sources/{PESSOA}/{CODIGO}-{TEMA}.md` | {CONTEXTO} |
+| {PESSOA} | {TEMA} | `/knowledge/external/sources/{PESSOA}/{CODIGO}-{TEMA}.md` | {CONTEXTO} |
+| {PESSOA} | {TEMA} | `/knowledge/external/sources/{PESSOA}/{CODIGO}-{TEMA}.md` | {CONTEXTO} |
 
 > ⚠️ **Esta tabela cresce conforme novos materiais são processados pelo Pipeline Jarvis**
 
@@ -2345,8 +2345,8 @@ DNA Composition conforme definido em SOUL.md ^[SOUL.md:20-25]:
 
 | Tipo | Path | Conteúdo |
 |------|------|----------|
-| **PESSOA** | `/knowledge/dossiers/persons/DOSSIER-{PESSOA}.md` | {DESCRICAO} |
-| **TEMA** | `/knowledge/dossiers/THEMES/DOSSIER-{TEMA}.md` | {DESCRICAO} |
+| **PESSOA** | `/knowledge/external/dossiers/persons/DOSSIER-{PESSOA}.md` | {DESCRICAO} |
+| **TEMA** | `/knowledge/external/dossiers/THEMES/DOSSIER-{TEMA}.md` | {DESCRICAO} |
 
 > ⚠️ **Dossiês são compilados automaticamente pelo Pipeline Jarvis Phase 4.0/4.1**
 
