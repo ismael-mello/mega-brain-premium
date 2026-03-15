@@ -1,7 +1,7 @@
 layer: L4
 name: FRAMEWORKS
 person: Wilson Sajr (FLCR / PWR Gestão)
-total: 44
+total: 49
 
 items:
 
@@ -488,4 +488,44 @@ items:
         sintoma: "Membros priorizam interesses pessoais (status, carreira) acima dos resultados coletivos"
         cura: "Recompensas baseadas em resultado coletivo, não individual"
     principle: "A pirâmide é sequencial: impossível resolver nível 2 sem resolver nível 1 primeiro."
+    source: "MÓDULO 10"
+
+  - id: FW-FLCR-045
+    name: "PCCR — 9 Passos de Implementação"
+    description: "1. Definir visão de futuro (10-20 anos); 2. Metas curto prazo (1-2 anos) alinhadas à visão; 3. Levantamento do organograma atual; 4. Construir organograma ideal; 5. Organograma de transição (atual→ideal); 6. Premissas dos níveis hierárquicos (pré-requisitos por nível); 7. Descrições de cargo para cada posição; 8. Pesquisa salarial de mercado (CATO, concorrentes, terceiros); 9. Tabela salarial + enquadramento + modelo de avaliação de desempenho."
+    domains: ["people_management", "organizational_structure", "meritocracy"]
+    source: "MÓDULO 10 - PCCR Passo a Passo"
+
+  - id: FW-FLCR-046
+    name: "DISC — Guia de Comunicação por Perfil"
+    description: "D (Dominante): comece pelo resultado, seja direto, mostre oportunidades, evite excesso de detalhe, abordagem lógica. I (Influente): peça opinião e ouça, seja amistoso e informal, forneça reconhecimento público, dê tempo para socializar. S (Estável): use sequência lógica, apresente plano claro com prazos, convide ideias, demonstre benefícios das mudanças, seja paciente e construa confiança. C (Conforme): use fatos e dados, exponha argumentos detalhados, seja paciente no ritmo, evite imprevistos, discorde do fato não da pessoa."
+    domains: ["leadership", "organizational_culture", "team_development"]
+    source: "MÓDULO 10 - DISC"
+
+  - id: FW-FLCR-047
+    name: "Cerimônias de Gestão — R1, R2, R3"
+    description: "R1 (Estratégico): mensal, diretoria+, indicadores globais (lucro líquido, faturamento, satisfação cliente, clima). R2 (Tático): semanal ou quinzenal, gerência+supervisão, resultados setoriais (DRE, ROI, metas, ponto equilíbrio, turnover). R3 (Operacional): diário, supervisão+operação, resultados do dia (meta, inadimplência, ticket médio). Fluxo: problema detectado no R1 → desdobrado no R2 → chegando até o time no R3. Sem os três níveis, a informação não desce."
+    domains: ["leadership", "organizational_structure", "performance_management"]
+    source: "MÓDULO 10 - Cerimônias de Gestão"
+
+  - id: FW-FLCR-048
+    name: "KPIs — 3 Tipos e Como Definir"
+    description: "Tipos: Primários (estratégicos, R1, diretoria — lucro líquido, margem, NPS); Secundários (táticos, R2, gerência — DRE, ROI, turnover por setor); Práticos (operacionais, R3, supervisão — venda por vendedor, meta do dia). Como definir: (1) Definir visão; (2) Mapear objetivos estratégicos; (3) Definir KPIs para cada objetivo; (4) Verificar se mensurável e confiável; (5) Definir periodicidade. Diferença: Métrica = dado bruto (visitantes no site). KPI = métrica atrelada a objetivo (taxa de conversão do site). Evitar obesidade de indicadores."
+    domains: ["performance_management", "leadership", "organizational_structure"]
+    source: "MÓDULO 10 - KPIs e Indicadores"
+
+  - id: FW-FLCR-049
+    title: "Matriz Gulti — Priorização de Atividades do Líder"
+    purpose: "Priorizar atividades e delegações com base em comprometimento, urgência e tempo disponível"
+    axes:
+      G: "Grau de comprometimento (do colaborador com a tarefa/entrega)"
+      U: "Urgência (prazo e impacto se não feito agora)"
+      T: "Tempo disponível (líder ou colaborador tem bandwidth para executar?)"
+    formula: "Score = G × U × T"
+    application:
+      - "Alta G + Alta U + Alta T → Executar ou delegar imediatamente"
+      - "Baixa G + Alta U → Líder intervém diretamente ou escalona"
+      - "Alta G + Baixa U → Planejar, não urgente mas comprometimento garantido"
+      - "Baixo T em todos → Repriorizar agenda do líder ou reorganizar alocação"
+    principle: "Comprometimento sem urgência vira planejamento. Urgência sem comprometimento vira crise."
     source: "MÓDULO 10"

@@ -1,8 +1,8 @@
 # SOUL: RUSSELL BRUNSON
 
-> **Versao:** 1.3
+> **Versao:** 1.4
 > **Nascido em:** 2026-03-01
-> **Ultima evolucao:** 2026-03-08
+> **Ultima evolucao:** 2026-03-15
 > **Natureza:** ISOLADO
 > **DNA:** Russell Brunson 100%
 
@@ -265,6 +265,15 @@ You are NOT allowed to do anything else until that ONE presentation has made you
             │ permission-based close. +15 elements. ClickFunnels scaled
             │ Y1=$10M, Y2=$30M, Y3=$70M via webinars. 70+ live
             │ webinars before automating.
+            │
+2026-03-15  │ MAGNETIC MARKETING (v1.4)
+            │ 6 programs via DK-MM cross-DNA recovery: Funnel Labs,
+            │ Funnelology, DCS LIVE, ES LIVE, TS LIVE, Welcome.
+            │ +275 elements. Key concepts: Speak-to-Sell (ES LIVE),
+            │ Five Fatal Flaws of Follow-Up (Funnel Labs),
+            │ Pest-to-Guest Sequence (TS LIVE),
+            │ Stack Slide Architecture (DCS LIVE).
+            │ DNA total: 1013 elements verified.
             │
    ?        │ PROXIMO
             │ One Funnel Away Challenge, FHL keynotes, Marketing

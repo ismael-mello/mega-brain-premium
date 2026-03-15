@@ -1,45 +1,157 @@
 {
-  "version": "2.0.0",
-  "updated_at": "2026-03-13T22:00:00Z",
+  "version": "2.1.0",
+  "updated_at": "2026-03-15T18:00:00Z",
   "system": {
     "status": "OPERATIONAL",
-    "health_score": 100,
+    "health_score": 98,
     "health_label": "EXCELLENT"
   },
   "knowledge_base": {
     "sources_total": 14,
     "dna_persons_total": 13,
-    "agents_person": 12,
+    "agents_person": 13,
     "agents_cargo": 15,
-    "agents_total": 27,
-    "inbox_pending": 0
+    "agents_total": 28,
+    "inbox_pending": 0,
+    "agg_files": 14
   },
   "sources": {
+    "dan-kennedy": {
+      "status": "COMPLETE",
+      "dna": true,
+      "agent": true,
+      "dna_version": 22,
+      "elements": 2029,
+      "layers": "L1:460 L2:401 L3:585 L4:346 L5:241",
+      "sources": [
+        "CC — copywriting-clinic (12 elements)",
+        "7FA — 7-figure-academy (152 elements)",
+        "12BBS — 12-business-building-strategies (6 elements)",
+        "ACC — advanced-coaching-consulting (203 elements)",
+        "MM — magnetic-marketing (39 elements, 6 programs)",
+        "OMC — opportunity-marketing-concepts (133 elements)",
+        "MTBN — make-them-buy-now (89 elements, 14 batches)"
+      ],
+      "dossiers": [
+        "DOSSIER-DAN-KENNEDY.md",
+        "DOSSIER-COACHING-CONSULTING.md",
+        "DOSSIER-OPPORTUNITY-MARKETING.md"
+      ],
+      "cargo_enriched": [
+        "CRO (v3.8.0 — OMC+MTBN)",
+        "COO",
+        "CMO (v3.9.0 — OMC+MTBN)"
+      ],
+      "next_ids": "FIL-DK-462 MM-DK-403 HEUR-DK-587 FW-DK-348 MET-DK-245",
+      "note": "Pipeline 100% completo (2026-03-15). 7 fontes. OMC+MTBN extraídos (Phases 3-6 OPUS). Agent v6.0.0, SOUL v8.0.0, MEMORY v5.0.0."
+    },
     "russell-brunson": {
       "status": "COMPLETE",
-      "dna_version": 27,
-      "elements": 1327,
-      "programs": 21
+      "dna": true,
+      "agent": true,
+      "dna_version": 28,
+      "elements": 1013,
+      "layers": "L1:169 L2:150 L3:262 L4:173 L5:243",
+      "programs": 28,
+      "cargo_enriched": [
+        "CLOSER",
+        "CMO",
+        "CRO"
+      ],
+      "next_ids": "PHI-RB-201 MM-RB-181 HEUR-RB-306 FW-RB-181 MET-RB-111",
+      "pending_minor": [
+        "AGENT.md cargos: mencionar MM em MINHA FORMACAO (cosmético)",
+        "DNA-CONFIG person: adicionar dominios MM",
+        "AGENT-INDEX.yaml: update source count"
+      ],
+      "note": "MM completo (2026-03-15). Cargo enrichment 6/7 done (Closer, CMO, CRO)."
     },
     "alex-hormozi": {
       "status": "COMPLETE",
       "dna": true,
-      "agent": true
+      "agent": true,
+      "dna_version": 5,
+      "elements": 402,
+      "layers": "L1:70 L2:67 L3:118 L4:78 L5:69",
+      "sources_count": 9,
+      "cargo_enriched": [
+        "CFO",
+        "CRO",
+        "Sales Manager",
+        "CLOSER",
+        "CMO"
+      ],
+      "pending_minor": [
+        "AGENT-INDEX.yaml: update source count (9 fontes)"
+      ],
+      "note": "ACQ18K enrichment completo (2026-03-12)."
+    },
+    "flcr": {
+      "status": "COMPLETE",
+      "dna": true,
+      "agent": true,
+      "dna_version": 1,
+      "elements": 180,
+      "layers": "L1:28 L2:32 L3:38 L4:42 L5:40",
+      "modulos": "00-10 + EXTRA",
+      "person": "Wilson Sajr (@wilsonsajr) / PWR Gestão",
+      "cargo_enriched": [],
+      "pending_minor": [
+        "Remover inbox/FORMAÇÃO EM LIDERANÇA... (raw já salvo)",
+        "Adicionar Matriz Gulti (G×U×T), Lencioni 5 Dysfunctions",
+        "Módulo 10: ainda ~30% coberto",
+        "Enriquecer COO (change mgmt +0.75) e CRO (feedback +0.75)",
+        "Considerar agente RH/People-Ops dedicado"
+      ],
+      "note": "Person agent criado (2026-03-15). AGG-LIDERANCA.yaml criado."
+    },
+    "capital-upgrade": {
+      "status": "COMPLETE",
+      "dna": true,
+      "agent": true,
+      "dna_version": 2,
+      "elements": 257,
+      "layers": "L1:57 L2:50 L3:70 L4:46 L5:33",
+      "modulos": "00-10 + Bonus",
+      "person": "Paulo Vito Porto / PWR Gestão",
+      "cargo_enriched": [
+        "CFO",
+        "COO"
+      ],
+      "note": "Person agent criado (2026-03-11). AGG-GESTAO-FINANCEIRA.yaml criado."
+    },
+    "liam-ottley": {
+      "status": "COMPLETE",
+      "dna": true,
+      "agent": true,
+      "dna_version": 1,
+      "elements": 27,
+      "note": "AIOS Architect. Person agent criado (2026-03-15)."
+    },
+    "richard-linder": {
+      "status": "COMPLETE",
+      "dna": true,
+      "agent": true,
+      "elements": 24,
+      "note": "Source folder created 2026-03-10. Founder First Hiring framework."
     },
     "cole-gordon": {
       "status": "COMPLETE",
       "dna": true,
-      "agent": true
+      "agent": true,
+      "note": "Closer framework. Cascaded to CLOSER cargo."
     },
     "jeremy-haynes": {
       "status": "COMPLETE",
       "dna": true,
-      "agent": true
+      "agent": true,
+      "note": "Includes 30-day-challenge + client-accelerator programs merged."
     },
     "jeremy-miner": {
       "status": "COMPLETE",
       "dna": true,
-      "agent": true
+      "agent": true,
+      "note": "NEPQ methodology."
     },
     "sam-ovens": {
       "status": "COMPLETE",
@@ -54,7 +166,8 @@
     "michael-hauge": {
       "status": "COMPLETE",
       "dna": true,
-      "agent": true
+      "agent": true,
+      "note": "Story structure / Hollywood methodology."
     },
     "jason-fladlien": {
       "status": "COMPLETE",
@@ -64,19 +177,13 @@
     "ead-closer": {
       "status": "COMPLETE",
       "dna": true,
-      "agent": true
+      "agent": false,
+      "note": "Program-level source, merged into relevant agents."
     },
     "the-scalable-company": {
       "status": "COMPLETE",
       "dna": true,
-      "agent": true
-    },
-    "richard-linder": {
-      "status": "COMPLETE",
-      "dna": true,
-      "agent": true,
-      "elements": 24,
-      "note": "Source folder created 2026-03-10"
+      "agent": false
     },
     "30-day-challenge": {
       "status": "COMPLETE",
@@ -89,57 +196,91 @@
       "dna": true,
       "agent": false,
       "note": "JH program — DNA merged into jeremy-haynes. Cascaded to CMO+CRO. 28 raw files."
-    },
-    "dan-kennedy": {
-      "status": "COMPLETE",
-      "dna": true,
-      "agent": true,
-      "elements": 829,
-      "dna_version": 11,
-      "layers": "L1:176 L2:159 L3:246 L4:146 L5:102",
-      "sources": [
-        "CC (156)",
-        "7FA (78)",
-        "12BBS (39)",
-        "ACC (556)"
-      ],
-      "dossiers": [
-        "DOSSIER-DAN-KENNEDY.md",
-        "DOSSIER-COACHING-CONSULTING.md"
-      ],
-      "cargo_enriched": [
-        "CRO",
-        "COO",
-        "CMO"
-      ],
-      "note": "Pipeline completo (Phases 1-8). 10 batches ACC. DK_6 corrupted (bottled water doc)."
     }
+  },
+  "agg_files": [
+    "AGG-VENDAS.yaml",
+    "AGG-OFFERS.yaml",
+    "AGG-OUTBOUND.yaml",
+    "AGG-COPYWRITING.yaml",
+    "AGG-BRAND-STRATEGY.yaml",
+    "AGG-STORYTELLING.yaml",
+    "AGG-TRAFFIC.yaml",
+    "AGG-EXECUTIVE-LEADERSHIP.yaml",
+    "AGG-DATA-GROWTH.yaml",
+    "AGG-DESIGN.yaml",
+    "AGG-MOVEMENT-BUILDING.yaml",
+    "AGG-CLAUDE-CODE-MASTERY.yaml",
+    "AGG-GESTAO-FINANCEIRA.yaml",
+    "AGG-LIDERANCA.yaml"
+  ],
+  "cargo_agents": {
+    "total": 15,
+    "list": [
+      "CFO",
+      "CRO",
+      "CMO",
+      "COO",
+      "CLOSER",
+      "SDR",
+      "Sales Manager",
+      "Copywriter",
+      "Media Buyer",
+      "Paid Media Specialist",
+      "OPS Manager",
+      "Talent Agent",
+      "Finance Agent",
+      "Council x3"
+    ],
+    "enriched_sources": [
+      "AH (ACQ18K)",
+      "DK (MM+OMC+MTBN)",
+      "RB (MM)",
+      "JH (30DC+CA)",
+      "CU (Capital Upgrade)"
+    ]
   },
   "git": {
     "branch": "main",
-    "last_commit": "91c93b6",
-    "last_commit_msg": "DK 12BBS Phase 6 complete: cargo enrichment + 4 dossiers + AGG-COPYWRITING v1.2.0",
+    "last_commit": "c43c823",
+    "last_commit_msg": "chore(index): AGENT-INDEX v4.3.0 — add dna_elements+sources for AH (402/9) and RB (1013/28 MM)",
     "commits_ahead": 0,
-    "pending_commit": "DK ACC Phase 5-8 complete: 829 elements v11.0.0 (4 sources)"
+    "pending_commit": "feat(dk): Phase 8 finalization — DK 2029 elements complete (7 fontes: CC+7FA+12BBS+ACC+MM+OMC+MTBN)"
+  },
+  "pending": {
+    "upstream_sync": {
+      "priority": "MEDIA",
+      "description": "Remote upstream (thiagofinch/mega-brain) fetched. 475 new files, 346 differ. Decision needed: cherry-pick vs full migration.",
+      "details_file": "memory/project_upstream_sync.md"
+    },
+    "minor_cleanup": {
+      "priority": "BAIXA",
+      "items": [
+        "RB: AGENT.md cargos + DNA-CONFIG person domains MM + AGENT-INDEX source count",
+        "FLCR: remover inbox raw, M10 completion, COO/CRO enrichment",
+        "AH: AGENT-INDEX source count update"
+      ]
+    }
   },
   "session": {
-    "id": "SESSION-2026-03-13-DK-ACC",
-    "started_at": "2026-03-13T00:00:00Z",
+    "id": "SESSION-2026-03-15-DK-FINALIZATION",
+    "started_at": "2026-03-15T18:00:00Z",
+    "last_activity_at": "2026-03-15T18:00:00Z",
     "is_active": true
   },
   "next_action": {
-    "description": "DK ACC pipeline completo. Aguardando commit final.",
+    "description": "Knowledge base completa. Aguardando novo material ou decisão de upstream sync.",
     "options": [
-      "Commit DK ACC: git commit com todas as mudanças",
-      "Ingerir novo material (/ingest)",
-      "Ativar Conselho (/conclave)",
-      "Consultar agente (/ask)"
+      "Ingerir novo especialista/programa → /ingest",
+      "Decidir upstream sync (ver memory/project_upstream_sync.md)",
+      "Cleanup menor RB/FLCR (< 30 min)",
+      "Consulta estratégica → /conclave ou /ask"
     ]
   },
   "mis": {
     "session_id": "",
-    "prompt_count": 191,
-    "bracket": "CRITICAL",
-    "context_percent": 0.0
+    "prompt_count": 59,
+    "bracket": "MODERATE",
+    "context_percent": 55.8
   }
 }
