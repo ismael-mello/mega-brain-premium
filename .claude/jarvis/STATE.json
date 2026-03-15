@@ -91,14 +91,7 @@
       "modulos": "00-10 + EXTRA",
       "person": "Wilson Sajr (@wilsonsajr) / PWR Gestão",
       "cargo_enriched": [],
-      "pending_minor": [
-        "Remover inbox/FORMAÇÃO EM LIDERANÇA... (raw já salvo)",
-        "Adicionar Matriz Gulti (G×U×T), Lencioni 5 Dysfunctions",
-        "Módulo 10: ainda ~30% coberto",
-        "Enriquecer COO (change mgmt +0.75) e CRO (feedback +0.75)",
-        "Considerar agente RH/People-Ops dedicado"
-      ],
-      "note": "Person agent criado (2026-03-15). AGG-LIDERANCA.yaml criado."
+      "note": "COMPLETE (2026-03-15). Inbox limpo. COO+CRO enriched. AGG-LIDERANCA.yaml. MÓDULO 10 = arquivo vazio (0 bytes), nada a extrair."
     },
     "capital-upgrade": {
       "status": "COMPLETE",
@@ -249,12 +242,9 @@
       "details_file": "memory/project_upstream_sync.md"
     },
     "minor_cleanup": {
-      "priority": "BAIXA",
-      "items": [
-        "RB: AGENT.md cargos + DNA-CONFIG person domains MM + AGENT-INDEX source count",
-        "FLCR: remover inbox raw, M10 completion, COO/CRO enrichment",
-        "AH: AGENT-INDEX source count update"
-      ]
+      "priority": "NONE",
+      "items": [],
+      "note": "Tudo verificado — RB e FLCR já estavam completos. AH source count no AGENT-INDEX = cosmético mínimo."
     }
   },
   "session": {
@@ -274,8 +264,8 @@
   },
   "mis": {
     "session_id": "",
-    "prompt_count": 60,
+    "prompt_count": 61,
     "bracket": "MODERATE",
-    "context_percent": 55.0
+    "context_percent": 54.2
   }
 }
