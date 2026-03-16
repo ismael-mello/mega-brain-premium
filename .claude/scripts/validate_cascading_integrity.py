@@ -31,9 +31,9 @@ PROJECT_ROOT = SCRIPT_DIR.parent.parent
 LOGS_PATH = PROJECT_ROOT / "logs"
 BATCHES_PATH = LOGS_PATH / "batches"
 AGENTS_PATH = PROJECT_ROOT / "agents"
-PLAYBOOKS_PATH = PROJECT_ROOT / "knowledge" / "playbooks"
-DOSSIERS_PATH = PROJECT_ROOT / "knowledge" / "dossiers"
-DNA_PATH = PROJECT_ROOT / "knowledge" / "dna"
+PLAYBOOKS_PATH = PROJECT_ROOT / "knowledge" / "external" / "playbooks"
+DOSSIERS_PATH = PROJECT_ROOT / "knowledge" / "external" / "dossiers"
+DNA_PATH = PROJECT_ROOT / "knowledge" / "external" / "dna"
 VERIFIED_LOG = LOGS_PATH / "cascading-verified.jsonl"
 
 # ============================================================================
