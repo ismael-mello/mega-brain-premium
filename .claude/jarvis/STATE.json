@@ -1,15 +1,15 @@
 {
   "version": "2.2.0",
-  "updated_at": "2026-03-16T15:40:00Z",
+  "updated_at": "2026-03-16T18:00:00Z",
   "system": {
     "status": "OPERATIONAL",
     "health_score": 98,
     "health_label": "EXCELLENT"
   },
   "knowledge_base": {
-    "sources_total": 15,
-    "dna_persons_total": 14,
-    "agents_person": 14,
+    "sources_total": 16,
+    "dna_persons_total": 16,
+    "agents_person": 16,
     "agents_cargo": 15,
     "agents_total": 29,
     "inbox_pending": 0,
@@ -20,9 +20,9 @@
       "status": "COMPLETE",
       "dna": true,
       "agent": true,
-      "dna_version": 25,
-      "elements": 2414,
-      "layers": "L1:389 L2:349 L3:503 L4:293 L5:880",
+      "dna_version": 26,
+      "elements": 2482,
+      "layers": "L1:407 L2:361 L3:518 L4:303 L5:890",
       "sources": [
         "CC — copywriting-clinic (12 elements)",
         "7FA — 7-figure-academy (152 elements)",
@@ -32,7 +32,8 @@
         "OMC — opportunity-marketing-concepts (133 elements)",
         "MTBN — make-them-buy-now (89 elements, 14 batches)",
         "LLF — living-legend-formula (106 elements)",
-        "MH — mind-hijacking (335 elements)"
+        "MH — mind-hijacking (335 elements)",
+        "RM — referral-machine (65 elements)"
       ],
       "dossiers": [
         "DOSSIER-DAN-KENNEDY.md",
@@ -41,12 +42,13 @@
         "DOSSIER-MIND-HIJACKING.md"
       ],
       "cargo_enriched": [
-        "CLOSER (v2.23.0 — +8 MH insights)",
-        "CMO (v2.4.0 — +9 MH insights)",
-        "CRO (v3.2.0 — +8 MH insights)"
+        "CLOSER (v2.23.0 — +6 RM insights)",
+        "CMO (v2.4.0 — +18 RM insights)",
+        "CRO (v3.3.0 — +9 RM insights)",
+        "Sales Manager (v2.14.0 — +8 RM insights)"
       ],
-      "next_ids": "FIL-DK-559 MM-DK-495 HEUR-DK-728 FW-DK-533 MET-DK-612",
-      "note": "Pipeline 100% completo (2026-03-16). 9 fontes incl MH. Agent v7.0.0, SOUL v9.0.0, MEMORY v6.0.0. AGG-VENDAS v1.1.0 + AGG-COPYWRITING v1.4.0 atualizados. Commit c3c58c0. Inbox cleanup pendente (manual)."
+      "next_ids": "FIL-DK-578 MM-DK-572 HEUR-DK-744 FW-DK-739 MET-DK-623",
+      "note": "Pipeline 100% completo (2026-03-16). 10 fontes (MH+RM). v26.0.0. AGG-VENDAS v1.1.0 + AGG-COPYWRITING v1.4.0. Commits c3c58c0 (MH) + 4d844ee (RM). Inbox limpo. Zero pendências."
     },
     "russell-brunson": {
       "status": "COMPLETE",
@@ -231,7 +233,7 @@
     ],
     "enriched_sources": [
       "AH (ACQ18K)",
-      "DK (MM+OMC+MTBN+LLF+MH)",
+      "DK (MM+OMC+MTBN+LLF+MH+RM)",
       "RB (MM)",
       "JH (30DC+CA)",
       "CU (Capital Upgrade)"
@@ -239,8 +241,8 @@
   },
   "git": {
     "branch": "main",
-    "last_commit": "c3c58c0",
-    "last_commit_msg": "feat(dk-mh): Phase 8 complete — AGG update + cargo enrichment + dossiers",
+    "last_commit": "8ec001b",
+    "last_commit_msg": "chore: session state sync + DK raw files + pipeline scripts",
     "commits_ahead": 0,
     "pending_commit": null
   },
@@ -264,14 +266,14 @@
     }
   },
   "session": {
-    "id": "SESSION-2026-03-16-DK-MH-COMPLETE",
-    "started_at": "2026-03-16T15:00:00Z",
-    "last_activity_at": "2026-03-16T15:40:00Z",
+    "id": "SESSION-2026-03-16-FINAL-SYNC",
+    "started_at": "2026-03-16T18:00:00Z",
+    "last_activity_at": "2026-03-16T18:10:00Z",
     "is_active": true
   },
   "next_action": {
-    "description": "DK MH 100% completo. Aguardando nova missão.",
-    "pending_manual": "Deletar inbox/Dan Kennedy - Mind Hijacking/ (36 arquivos)",
+    "description": "DK 100% completo (MH+RM). Todas pendências resolvidas. Aguardando nova missão.",
+    "pending_manual": null,
     "options": [
       "Ingerir novo especialista/programa → /jarvis-full [material]",
       "Consulta estratégica → /conclave ou /ask"
