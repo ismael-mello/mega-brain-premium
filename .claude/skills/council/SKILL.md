@@ -1,18 +1,9 @@
----
-name: council
-version: 1.0.0
-description: Sessao completa do Conselho (debate + CRITIC + ADVOCATE + SYNTHESIZER)
-triggers:
-  - conselho
-  - council
-  - debate
-  - decisao
-  - war room
-  - multiplas perspectivas
-user_invocable: true
----
-
 # SKILL: Council - Conselho de Especialistas
+
+> **Auto-Trigger:** Quando usuário pede decisão estratégica, debate, conselho, war room ou múltiplas perspectivas
+> **Keywords:** "conselho", "council", "debate", "decisao", "war room", "multiplas perspectivas", "/conclave", "conclave"
+> **Prioridade:** ALTA
+> **Tools:** Read, Glob
 
 ## Proposito
 

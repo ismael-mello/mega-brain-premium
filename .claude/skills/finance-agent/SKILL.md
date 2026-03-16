@@ -1,22 +1,9 @@
----
-name: finance-agent
-version: 1.0.0
-description: Ativa o AGENT-FINANCE para analise financeira da [SUA EMPRESA]. Calcula metricas, projeta cenarios, analisa investimentos.
-triggers:
-  - financeiro
-  - mrr
-  - custos
-  - roi
-  - investimento
-  - runway
-  - burn rate
-  - projecao
-  - caixa
-  - orcamento
-user_invocable: true
----
-
 # SKILL: Finance Agent - Analise Financeira
+
+> **Auto-Trigger:** Quando usuário pergunta sobre finanças, métricas financeiras, ROI, runway, projeções ou orçamento
+> **Keywords:** "financeiro", "mrr", "custos", "roi", "investimento", "runway", "burn rate", "projecao", "caixa", "orcamento", "/finance-agent", "unit economics"
+> **Prioridade:** ALTA
+> **Tools:** Read, Glob
 
 ## Proposito
 

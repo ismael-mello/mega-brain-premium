@@ -1,20 +1,9 @@
----
-name: talent-agent
-version: 1.0.0
-description: Ativa o AGENT-TALENT para consultoria de recrutamento e contratacao
-triggers:
-  - contratar
-  - recrutamento
-  - candidato
-  - vaga
-  - hiring
-  - selecao
-  - talent
-  - /talent
-user_invocable: true
----
-
 # SKILL: Talent Agent - Recrutamento Estrategico
+
+> **Auto-Trigger:** Quando usuário fala sobre contratar, recrutar, candidato, vaga ou hiring
+> **Keywords:** "contratar", "recrutamento", "candidato", "vaga", "hiring", "selecao", "talent", "/talent", "hell yes", "scorecard"
+> **Prioridade:** ALTA
+> **Tools:** Read, Glob
 
 ## Proposito
 

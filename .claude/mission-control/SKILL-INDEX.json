@@ -1,8 +1,8 @@
 {
   "version": "2.0.0",
-  "skills_count": 47,
-  "subagents_count": 0,
-  "total_count": 47,
+  "skills_count": 50,
+  "subagents_count": 4,
+  "total_count": 54,
   "skills": {
     "agent-creation": {
       "path": ".claude\\skills\\agent-creation",
@@ -96,6 +96,24 @@
       "priority": "MÉDIA",
       "description": ""
     },
+    "council": {
+      "path": ".claude\\skills\\council",
+      "name": "council",
+      "type": "skill",
+      "auto_trigger": "Quando usuário pede decisão estratégica, debate, conselho, war room ou múltiplas perspectivas",
+      "keywords": [
+        "conselho",
+        "council",
+        "debate",
+        "decisao",
+        "war room",
+        "multiplas perspectivas",
+        "/conclave",
+        "conclave"
+      ],
+      "priority": "ALTA",
+      "description": ""
+    },
     "dispatching-parallel-agents": {
       "path": ".claude\\skills\\dispatching-parallel-agents",
       "name": "dispatching-parallel-agents",
@@ -182,6 +200,28 @@
         "implementar feature",
         "desenvolvimento estruturado",
         "feature workflow"
+      ],
+      "priority": "ALTA",
+      "description": ""
+    },
+    "finance-agent": {
+      "path": ".claude\\skills\\finance-agent",
+      "name": "finance-agent",
+      "type": "skill",
+      "auto_trigger": "Quando usuário pergunta sobre finanças, métricas financeiras, ROI, runway, projeções ou orçamento",
+      "keywords": [
+        "financeiro",
+        "mrr",
+        "custos",
+        "roi",
+        "investimento",
+        "runway",
+        "burn rate",
+        "projecao",
+        "caixa",
+        "orcamento",
+        "/finance-agent",
+        "unit economics"
       ],
       "priority": "ALTA",
       "description": ""
@@ -629,6 +669,26 @@
       "priority": "MÉDIA",
       "description": ""
     },
+    "talent-agent": {
+      "path": ".claude\\skills\\talent-agent",
+      "name": "talent-agent",
+      "type": "skill",
+      "auto_trigger": "Quando usuário fala sobre contratar, recrutar, candidato, vaga ou hiring",
+      "keywords": [
+        "contratar",
+        "recrutamento",
+        "candidato",
+        "vaga",
+        "hiring",
+        "selecao",
+        "talent",
+        "/talent",
+        "hell yes",
+        "scorecard"
+      ],
+      "priority": "ALTA",
+      "description": ""
+    },
     "teaching": {
       "path": ".claude\\skills\\teaching",
       "name": "teaching",
@@ -724,7 +784,84 @@
       "description": ""
     }
   },
-  "subagents": {},
+  "subagents": {
+    "DEVOPS": {
+      "path": ".claude\\jarvis\\sub-agents\\DEVOPS",
+      "name": "DEVOPS",
+      "type": "sub-agent",
+      "auto_trigger": "Quando JARVIS precisa de automação, infraestrutura, scripts, CI/CD ou configuração de ambiente",
+      "keywords": [
+        "devops",
+        "alfred",
+        "infraestrutura",
+        "script automacao",
+        "deploy",
+        "ci/cd",
+        "ambiente",
+        "dependencias",
+        "backup"
+      ],
+      "priority": "MÉDIA",
+      "description": "",
+      "has_soul": false
+    },
+    "PIPELINE-MASTER": {
+      "path": ".claude\\jarvis\\sub-agents\\PIPELINE-MASTER",
+      "name": "PIPELINE-MASTER",
+      "type": "sub-agent",
+      "auto_trigger": "Quando usuário processa batches, faz de-para, avança fases do pipeline ou valida regras de processamento",
+      "keywords": [
+        "pipeline master",
+        "prometheus",
+        "proximo batch",
+        "posso avancar",
+        "fazer de-para",
+        "falta o que",
+        "regras pipeline",
+        "fase bloqueante"
+      ],
+      "priority": "ALTA",
+      "description": "",
+      "has_soul": false
+    },
+    "SENTINEL-ORG": {
+      "path": ".claude\\jarvis\\sub-agents\\SENTINEL-ORG",
+      "name": "SENTINEL-ORG",
+      "type": "sub-agent",
+      "auto_trigger": "Sempre ativo — valida nomenclatura, pastas e duplicatas em qualquer criação de arquivo ou workflow",
+      "keywords": [
+        "sentinela",
+        "sentinel",
+        "nomenclatura",
+        "organizar arquivo",
+        "prefixo",
+        "duplicata",
+        "pasta errada",
+        "padrao de nome"
+      ],
+      "priority": "MÉDIA",
+      "description": "",
+      "has_soul": false
+    },
+    "STATUS-TRIGGER": {
+      "path": ".claude\\jarvis\\sub-agents\\STATUS-TRIGGER",
+      "name": "STATUS-TRIGGER",
+      "type": "sub-agent",
+      "auto_trigger": "Quando há mudanças de status no ClickUp ou N8N que precisam disparar ações automáticas",
+      "keywords": [
+        "status trigger",
+        "mudanca de status",
+        "clickup status",
+        "task atrasada",
+        "task bloqueada",
+        "webhook status",
+        "automacao status"
+      ],
+      "priority": "MÉDIA",
+      "description": "",
+      "has_soul": false
+    }
+  },
   "keyword_map": {
     "criar agente": [
       {
@@ -1010,6 +1147,70 @@
         "priority": "MÉDIA"
       }
     ],
+    "conselho": [
+      {
+        "name": "council",
+        "type": "skill",
+        "path": ".claude\\skills\\council",
+        "priority": "ALTA"
+      }
+    ],
+    "council": [
+      {
+        "name": "council",
+        "type": "skill",
+        "path": ".claude\\skills\\council",
+        "priority": "ALTA"
+      }
+    ],
+    "debate": [
+      {
+        "name": "council",
+        "type": "skill",
+        "path": ".claude\\skills\\council",
+        "priority": "ALTA"
+      }
+    ],
+    "decisao": [
+      {
+        "name": "council",
+        "type": "skill",
+        "path": ".claude\\skills\\council",
+        "priority": "ALTA"
+      }
+    ],
+    "war room": [
+      {
+        "name": "council",
+        "type": "skill",
+        "path": ".claude\\skills\\council",
+        "priority": "ALTA"
+      }
+    ],
+    "multiplas perspectivas": [
+      {
+        "name": "council",
+        "type": "skill",
+        "path": ".claude\\skills\\council",
+        "priority": "ALTA"
+      }
+    ],
+    "/conclave": [
+      {
+        "name": "council",
+        "type": "skill",
+        "path": ".claude\\skills\\council",
+        "priority": "ALTA"
+      }
+    ],
+    "conclave": [
+      {
+        "name": "council",
+        "type": "skill",
+        "path": ".claude\\skills\\council",
+        "priority": "ALTA"
+      }
+    ],
     "paralelo": [
       {
         "name": "dispatching-parallel-agents",
@@ -1277,6 +1478,102 @@
         "name": "feature-dev",
         "type": "skill",
         "path": ".claude\\skills\\feature-dev",
+        "priority": "ALTA"
+      }
+    ],
+    "financeiro": [
+      {
+        "name": "finance-agent",
+        "type": "skill",
+        "path": ".claude\\skills\\finance-agent",
+        "priority": "ALTA"
+      }
+    ],
+    "mrr": [
+      {
+        "name": "finance-agent",
+        "type": "skill",
+        "path": ".claude\\skills\\finance-agent",
+        "priority": "ALTA"
+      }
+    ],
+    "custos": [
+      {
+        "name": "finance-agent",
+        "type": "skill",
+        "path": ".claude\\skills\\finance-agent",
+        "priority": "ALTA"
+      }
+    ],
+    "roi": [
+      {
+        "name": "finance-agent",
+        "type": "skill",
+        "path": ".claude\\skills\\finance-agent",
+        "priority": "ALTA"
+      }
+    ],
+    "investimento": [
+      {
+        "name": "finance-agent",
+        "type": "skill",
+        "path": ".claude\\skills\\finance-agent",
+        "priority": "ALTA"
+      }
+    ],
+    "runway": [
+      {
+        "name": "finance-agent",
+        "type": "skill",
+        "path": ".claude\\skills\\finance-agent",
+        "priority": "ALTA"
+      }
+    ],
+    "burn rate": [
+      {
+        "name": "finance-agent",
+        "type": "skill",
+        "path": ".claude\\skills\\finance-agent",
+        "priority": "ALTA"
+      }
+    ],
+    "projecao": [
+      {
+        "name": "finance-agent",
+        "type": "skill",
+        "path": ".claude\\skills\\finance-agent",
+        "priority": "ALTA"
+      }
+    ],
+    "caixa": [
+      {
+        "name": "finance-agent",
+        "type": "skill",
+        "path": ".claude\\skills\\finance-agent",
+        "priority": "ALTA"
+      }
+    ],
+    "orcamento": [
+      {
+        "name": "finance-agent",
+        "type": "skill",
+        "path": ".claude\\skills\\finance-agent",
+        "priority": "ALTA"
+      }
+    ],
+    "/finance-agent": [
+      {
+        "name": "finance-agent",
+        "type": "skill",
+        "path": ".claude\\skills\\finance-agent",
+        "priority": "ALTA"
+      }
+    ],
+    "unit economics": [
+      {
+        "name": "finance-agent",
+        "type": "skill",
+        "path": ".claude\\skills\\finance-agent",
         "priority": "ALTA"
       }
     ],
@@ -2408,6 +2705,86 @@
         "priority": "MÉDIA"
       }
     ],
+    "contratar": [
+      {
+        "name": "talent-agent",
+        "type": "skill",
+        "path": ".claude\\skills\\talent-agent",
+        "priority": "ALTA"
+      }
+    ],
+    "recrutamento": [
+      {
+        "name": "talent-agent",
+        "type": "skill",
+        "path": ".claude\\skills\\talent-agent",
+        "priority": "ALTA"
+      }
+    ],
+    "candidato": [
+      {
+        "name": "talent-agent",
+        "type": "skill",
+        "path": ".claude\\skills\\talent-agent",
+        "priority": "ALTA"
+      }
+    ],
+    "vaga": [
+      {
+        "name": "talent-agent",
+        "type": "skill",
+        "path": ".claude\\skills\\talent-agent",
+        "priority": "ALTA"
+      }
+    ],
+    "hiring": [
+      {
+        "name": "talent-agent",
+        "type": "skill",
+        "path": ".claude\\skills\\talent-agent",
+        "priority": "ALTA"
+      }
+    ],
+    "selecao": [
+      {
+        "name": "talent-agent",
+        "type": "skill",
+        "path": ".claude\\skills\\talent-agent",
+        "priority": "ALTA"
+      }
+    ],
+    "talent": [
+      {
+        "name": "talent-agent",
+        "type": "skill",
+        "path": ".claude\\skills\\talent-agent",
+        "priority": "ALTA"
+      }
+    ],
+    "/talent": [
+      {
+        "name": "talent-agent",
+        "type": "skill",
+        "path": ".claude\\skills\\talent-agent",
+        "priority": "ALTA"
+      }
+    ],
+    "hell yes": [
+      {
+        "name": "talent-agent",
+        "type": "skill",
+        "path": ".claude\\skills\\talent-agent",
+        "priority": "ALTA"
+      }
+    ],
+    "scorecard": [
+      {
+        "name": "talent-agent",
+        "type": "skill",
+        "path": ".claude\\skills\\talent-agent",
+        "priority": "ALTA"
+      }
+    ],
     "teaching": [
       {
         "name": "teaching",
@@ -2659,6 +3036,262 @@
         "name": "writing-plans",
         "type": "skill",
         "path": ".claude\\skills\\writing-plans",
+        "priority": "MÉDIA"
+      }
+    ],
+    "devops": [
+      {
+        "name": "DEVOPS",
+        "type": "sub-agent",
+        "path": ".claude\\jarvis\\sub-agents\\DEVOPS",
+        "priority": "MÉDIA"
+      }
+    ],
+    "alfred": [
+      {
+        "name": "DEVOPS",
+        "type": "sub-agent",
+        "path": ".claude\\jarvis\\sub-agents\\DEVOPS",
+        "priority": "MÉDIA"
+      }
+    ],
+    "infraestrutura": [
+      {
+        "name": "DEVOPS",
+        "type": "sub-agent",
+        "path": ".claude\\jarvis\\sub-agents\\DEVOPS",
+        "priority": "MÉDIA"
+      }
+    ],
+    "script automacao": [
+      {
+        "name": "DEVOPS",
+        "type": "sub-agent",
+        "path": ".claude\\jarvis\\sub-agents\\DEVOPS",
+        "priority": "MÉDIA"
+      }
+    ],
+    "deploy": [
+      {
+        "name": "DEVOPS",
+        "type": "sub-agent",
+        "path": ".claude\\jarvis\\sub-agents\\DEVOPS",
+        "priority": "MÉDIA"
+      }
+    ],
+    "ci/cd": [
+      {
+        "name": "DEVOPS",
+        "type": "sub-agent",
+        "path": ".claude\\jarvis\\sub-agents\\DEVOPS",
+        "priority": "MÉDIA"
+      }
+    ],
+    "ambiente": [
+      {
+        "name": "DEVOPS",
+        "type": "sub-agent",
+        "path": ".claude\\jarvis\\sub-agents\\DEVOPS",
+        "priority": "MÉDIA"
+      }
+    ],
+    "dependencias": [
+      {
+        "name": "DEVOPS",
+        "type": "sub-agent",
+        "path": ".claude\\jarvis\\sub-agents\\DEVOPS",
+        "priority": "MÉDIA"
+      }
+    ],
+    "backup": [
+      {
+        "name": "DEVOPS",
+        "type": "sub-agent",
+        "path": ".claude\\jarvis\\sub-agents\\DEVOPS",
+        "priority": "MÉDIA"
+      }
+    ],
+    "pipeline master": [
+      {
+        "name": "PIPELINE-MASTER",
+        "type": "sub-agent",
+        "path": ".claude\\jarvis\\sub-agents\\PIPELINE-MASTER",
+        "priority": "ALTA"
+      }
+    ],
+    "prometheus": [
+      {
+        "name": "PIPELINE-MASTER",
+        "type": "sub-agent",
+        "path": ".claude\\jarvis\\sub-agents\\PIPELINE-MASTER",
+        "priority": "ALTA"
+      }
+    ],
+    "proximo batch": [
+      {
+        "name": "PIPELINE-MASTER",
+        "type": "sub-agent",
+        "path": ".claude\\jarvis\\sub-agents\\PIPELINE-MASTER",
+        "priority": "ALTA"
+      }
+    ],
+    "posso avancar": [
+      {
+        "name": "PIPELINE-MASTER",
+        "type": "sub-agent",
+        "path": ".claude\\jarvis\\sub-agents\\PIPELINE-MASTER",
+        "priority": "ALTA"
+      }
+    ],
+    "fazer de-para": [
+      {
+        "name": "PIPELINE-MASTER",
+        "type": "sub-agent",
+        "path": ".claude\\jarvis\\sub-agents\\PIPELINE-MASTER",
+        "priority": "ALTA"
+      }
+    ],
+    "falta o que": [
+      {
+        "name": "PIPELINE-MASTER",
+        "type": "sub-agent",
+        "path": ".claude\\jarvis\\sub-agents\\PIPELINE-MASTER",
+        "priority": "ALTA"
+      }
+    ],
+    "regras pipeline": [
+      {
+        "name": "PIPELINE-MASTER",
+        "type": "sub-agent",
+        "path": ".claude\\jarvis\\sub-agents\\PIPELINE-MASTER",
+        "priority": "ALTA"
+      }
+    ],
+    "fase bloqueante": [
+      {
+        "name": "PIPELINE-MASTER",
+        "type": "sub-agent",
+        "path": ".claude\\jarvis\\sub-agents\\PIPELINE-MASTER",
+        "priority": "ALTA"
+      }
+    ],
+    "sentinela": [
+      {
+        "name": "SENTINEL-ORG",
+        "type": "sub-agent",
+        "path": ".claude\\jarvis\\sub-agents\\SENTINEL-ORG",
+        "priority": "MÉDIA"
+      }
+    ],
+    "sentinel": [
+      {
+        "name": "SENTINEL-ORG",
+        "type": "sub-agent",
+        "path": ".claude\\jarvis\\sub-agents\\SENTINEL-ORG",
+        "priority": "MÉDIA"
+      }
+    ],
+    "nomenclatura": [
+      {
+        "name": "SENTINEL-ORG",
+        "type": "sub-agent",
+        "path": ".claude\\jarvis\\sub-agents\\SENTINEL-ORG",
+        "priority": "MÉDIA"
+      }
+    ],
+    "organizar arquivo": [
+      {
+        "name": "SENTINEL-ORG",
+        "type": "sub-agent",
+        "path": ".claude\\jarvis\\sub-agents\\SENTINEL-ORG",
+        "priority": "MÉDIA"
+      }
+    ],
+    "prefixo": [
+      {
+        "name": "SENTINEL-ORG",
+        "type": "sub-agent",
+        "path": ".claude\\jarvis\\sub-agents\\SENTINEL-ORG",
+        "priority": "MÉDIA"
+      }
+    ],
+    "duplicata": [
+      {
+        "name": "SENTINEL-ORG",
+        "type": "sub-agent",
+        "path": ".claude\\jarvis\\sub-agents\\SENTINEL-ORG",
+        "priority": "MÉDIA"
+      }
+    ],
+    "pasta errada": [
+      {
+        "name": "SENTINEL-ORG",
+        "type": "sub-agent",
+        "path": ".claude\\jarvis\\sub-agents\\SENTINEL-ORG",
+        "priority": "MÉDIA"
+      }
+    ],
+    "padrao de nome": [
+      {
+        "name": "SENTINEL-ORG",
+        "type": "sub-agent",
+        "path": ".claude\\jarvis\\sub-agents\\SENTINEL-ORG",
+        "priority": "MÉDIA"
+      }
+    ],
+    "status trigger": [
+      {
+        "name": "STATUS-TRIGGER",
+        "type": "sub-agent",
+        "path": ".claude\\jarvis\\sub-agents\\STATUS-TRIGGER",
+        "priority": "MÉDIA"
+      }
+    ],
+    "mudanca de status": [
+      {
+        "name": "STATUS-TRIGGER",
+        "type": "sub-agent",
+        "path": ".claude\\jarvis\\sub-agents\\STATUS-TRIGGER",
+        "priority": "MÉDIA"
+      }
+    ],
+    "clickup status": [
+      {
+        "name": "STATUS-TRIGGER",
+        "type": "sub-agent",
+        "path": ".claude\\jarvis\\sub-agents\\STATUS-TRIGGER",
+        "priority": "MÉDIA"
+      }
+    ],
+    "task atrasada": [
+      {
+        "name": "STATUS-TRIGGER",
+        "type": "sub-agent",
+        "path": ".claude\\jarvis\\sub-agents\\STATUS-TRIGGER",
+        "priority": "MÉDIA"
+      }
+    ],
+    "task bloqueada": [
+      {
+        "name": "STATUS-TRIGGER",
+        "type": "sub-agent",
+        "path": ".claude\\jarvis\\sub-agents\\STATUS-TRIGGER",
+        "priority": "MÉDIA"
+      }
+    ],
+    "webhook status": [
+      {
+        "name": "STATUS-TRIGGER",
+        "type": "sub-agent",
+        "path": ".claude\\jarvis\\sub-agents\\STATUS-TRIGGER",
+        "priority": "MÉDIA"
+      }
+    ],
+    "automacao status": [
+      {
+        "name": "STATUS-TRIGGER",
+        "type": "sub-agent",
+        "path": ".claude\\jarvis\\sub-agents\\STATUS-TRIGGER",
         "priority": "MÉDIA"
       }
     ]
