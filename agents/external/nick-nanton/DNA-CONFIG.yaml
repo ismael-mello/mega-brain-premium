@@ -1,0 +1,62 @@
+# DNA-CONFIG — NICK NANTON
+# Version: 1.0.0
+# Created: 2026-03-15
+
+agent_type: SOLO
+person: "Nick Nanton"
+alias: NN
+
+dna_sources:
+  - source: "celebrity-branding-blueprint"
+    person: "nick-nanton"
+    weight: 1.0
+    path: "knowledge/external/dna/persons/nick-nanton/DNA.yaml"
+    raiz: "knowledge/external/sources/nick-nanton/raw/celebrity-branding-blueprint/"
+    files: 8
+    content: "5-Stage CBB (Introduction + Stages 1-5), X-Factors bonus (Greg Rollett), Online Legend bonus (Lindsay Dicks)"
+    elements: 178
+    context: "Celebrity branding methodology: Celebrity Expert Triangle, 5-Stage Blueprint, 8 X-Factors, Story Selling, Ascension Ladder"
+  - source: "story-selling"
+    person: "nick-nanton"
+    weight: 1.0
+    path: "knowledge/external/dna/persons/nick-nanton/DNA.yaml"
+    raiz: "knowledge/external/sources/dan-kennedy/raw/living-legend-formula/bonus/"
+    files: 1
+    content: "Story Selling methodology — 7 plots, oxytocin, brand narratives"
+    note: "File located in DK LLF bonus folder but content is 100% Nick Nanton"
+
+total_elements: 178
+breakdown:
+  L1_FILOSOFIAS: 52
+  L2_MODELOS_MENTAIS: 32
+  L3_HEURISTICAS: 42
+  L4_FRAMEWORKS: 28
+  L5_METODOLOGIAS: 24
+
+domains:
+  - celebrity-branding
+  - storytelling
+  - brand-positioning
+  - media-production
+  - online-branding
+  - business-strategy
+  - sales-psychology
+  - community-building
+
+references:
+  - name: "Greg Rollett"
+    context: "Business partner at DNA Agency, X-Factors co-presenter"
+  - name: "Lindsay Dicks"
+    context: "Daughter of Jack Dicks, Online Legend content creator"
+  - name: "Dan Kennedy"
+    context: "Mentor, LLF co-creator, newsletter philosophy influence"
+  - name: "Jack Dicks"
+    context: "Business partner at DNA Agency"
+  - name: "Christopher Booker"
+    context: "Author of The Seven Basic Plots — adapted for business storytelling"
+  - name: "Simon Sinek"
+    context: "Golden Circle (Why/How/What) referenced in Core Story Formula"
+  - name: "Dan Sullivan"
+    context: "Four Freedoms framework referenced in Stage 3"
+  - name: "Walt Disney"
+    context: "Legend model referenced in Stage 5 — legacy building"

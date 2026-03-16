@@ -104,13 +104,29 @@ dna_sources:
       FW: "FW-DK-293..347"
       MET: "MET-DK-206..244"
 
-total_elements: 2029
+  - source: "living-legend-formula"
+    person: "dan-kennedy"
+    weight: 1.0
+    path: "knowledge/external/dna/persons/dan-kennedy/DNA.yaml"
+    raiz: "knowledge/external/sources/dan-kennedy/raw/living-legend-formula/"
+    files: 4
+    content: "Part 1 (Golden Threads 1-6), Part 2 (Golden Threads 7-16), Media Strategies, Q&A Manual"
+    elements: 106
+    context: "Legend-building methodology: 16 Golden Threads, Media Purpose Matrix, Omnipresence, Feeder Systems, DEFIANCE philosophy"
+    dna_ids:
+      FIL: "FIL-DK-462..491"
+      MM: "MM-DK-403..424"
+      HEUR: "HEUR-DK-587..611"
+      FW: "FW-DK-348..363"
+      MET: "MET-DK-245..257"
+
+total_elements: 2135
 breakdown:
-  L1_FILOSOFIAS: 460
-  L2_MODELOS_MENTAIS: 401
-  L3_HEURISTICAS: 585
-  L4_FRAMEWORKS: 346
-  L5_METODOLOGIAS: 241
+  L1_FILOSOFIAS: 490
+  L2_MODELOS_MENTAIS: 423
+  L3_HEURISTICAS: 610
+  L4_FRAMEWORKS: 362
+  L5_METODOLOGIAS: 254
 
 domains:
   - copywriting

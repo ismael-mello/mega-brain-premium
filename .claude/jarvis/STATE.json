@@ -7,11 +7,11 @@
     "health_label": "EXCELLENT"
   },
   "knowledge_base": {
-    "sources_total": 14,
-    "dna_persons_total": 13,
-    "agents_person": 13,
+    "sources_total": 15,
+    "dna_persons_total": 14,
+    "agents_person": 14,
     "agents_cargo": 15,
-    "agents_total": 28,
+    "agents_total": 29,
     "inbox_pending": 0,
     "agg_files": 14
   },
@@ -20,8 +20,8 @@
       "status": "COMPLETE",
       "dna": true,
       "agent": true,
-      "dna_version": 22,
-      "elements": 2029,
+      "dna_version": 24,
+      "elements": 2135,
       "layers": "L1:460 L2:401 L3:585 L4:346 L5:241",
       "sources": [
         "CC — copywriting-clinic (12 elements)",
@@ -30,7 +30,8 @@
         "ACC — advanced-coaching-consulting (203 elements)",
         "MM — magnetic-marketing (39 elements, 6 programs)",
         "OMC — opportunity-marketing-concepts (133 elements)",
-        "MTBN — make-them-buy-now (89 elements, 14 batches)"
+        "MTBN — make-them-buy-now (89 elements, 14 batches)",
+        "LLF — living-legend-formula (106 elements)"
       ],
       "dossiers": [
         "DOSSIER-DAN-KENNEDY.md",
@@ -42,8 +43,8 @@
         "COO",
         "CMO (v3.9.0 — OMC+MTBN)"
       ],
-      "next_ids": "FIL-DK-462 MM-DK-403 HEUR-DK-587 FW-DK-348 MET-DK-245",
-      "note": "Pipeline 100% completo (2026-03-15). 7 fontes. OMC+MTBN extraídos (Phases 3-6 OPUS). Agent v6.0.0, SOUL v8.0.0, MEMORY v5.0.0."
+      "next_ids": "FIL-DK-492 MM-DK-425 HEUR-DK-612 FW-DK-364 MET-DK-258",
+      "note": "Pipeline 100% completo (2026-03-15). 8 fontes incl LLF. OMC+MTBN+LLF extraídos (Phases 3-6 OPUS). Agent v6.0.0, SOUL v8.0.0, MEMORY v5.0.0."
     },
     "russell-brunson": {
       "status": "COMPLETE",
@@ -104,6 +105,15 @@
         "COO"
       ],
       "note": "Person agent criado (2026-03-11). AGG-GESTAO-FINANCEIRA.yaml criado."
+    },
+    "nick-nanton": {
+      "status": "COMPLETE",
+      "dna": true,
+      "agent": true,
+      "dna_version": 1,
+      "elements": 178,
+      "layers": "L1:52 L2:32 L3:42 L4:28 L5:24",
+      "note": "CBB + Story Selling. 178 elements. Pipeline complete (2026-03-15)."
     },
     "liam-ottley": {
       "status": "COMPLETE",
@@ -261,8 +271,8 @@
   },
   "mis": {
     "session_id": "",
-    "prompt_count": 63,
-    "bracket": "MODERATE",
-    "context_percent": 52.8
+    "prompt_count": 89,
+    "bracket": "DEPLETED",
+    "context_percent": 33.2
   }
 }
