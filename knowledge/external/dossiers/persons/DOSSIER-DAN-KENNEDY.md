@@ -1,10 +1,10 @@
 # DOSSIER: DAN KENNEDY
 
-> **Version:** 1.0.0
+> **Version:** 1.1.0
 > **Created:** 2026-03-15
 > **Last Updated:** 2026-03-15
-> **Sources Processed:** 8 (CC, 7FA, 12BBS, ACC, MM, OMC, MTBN)
-> **DNA Elements:** 2029 (L1:460 L2:401 L3:585 L4:346 L5:241)
+> **Sources Processed:** 8 (CC, 7FA, 12BBS, ACC, MM, OMC, MTBN, LLF)
+> **DNA Elements:** 2135 (L1:490 L2:423 L3:635 L4:348 L5:243)
 > **DNA Path:** `knowledge/external/dna/persons/dan-kennedy/DNA.yaml`
 > **Agent Path:** `agents/external/dan-kennedy/`
 
@@ -37,7 +37,7 @@ His content is uniquely valuable because it spans **both strategic thinking and 
 
 ---
 
-## SOURCES OVERVIEW (7 Programs)
+## SOURCES OVERVIEW (8 Programs)
 
 ### 1. The Copywriting Clinic (CC) — 12 files
 
@@ -146,6 +146,30 @@ His content is uniquely valuable because it spans **both strategic thinking and 
 
 **DNA IDs:** FIL-DK-319→408, MM-DK-266→348, HEUR-DK-398→506, FW-DK-231→292, MET-DK-159→205
 **Elements:** 391 (includes 3 guest speakers: Jeff Walker, Craig Simpson, George Douglas)
+
+---
+
+### 8. Living Legend Formula (LLF) — 4 files
+
+**Focus:** Legend status vs celebrity, 16 Golden Threads, omnipresence architecture, media purpose matrix, upstream feeder systems, school of thought construction, prolific publishing, obligation creation.
+
+**Key Contributions:**
+- Legend vs Celebrity: legends have school of thought + organized funnel ^[FIL-DK-462]
+- DEFIANCE: single-word answer separating legends from everyone else ^[FIL-DK-468]
+- Cannot be prophet without being heretic first ^[FIL-DK-464]
+- Omnipresence: 162+ touches/year minimum; inescapable to target audience ^[HEUR-DK-587, FIL-DK-475]
+- Center of Universe Strategy: constituencies orbit around you ^[MM-DK-405]
+- Feeder System: spawn niche leaders who filter and send you the best ^[MM-DK-412, HEUR-DK-597]
+- Media Purpose Matrix: print=credibility, broadcast=celebrity, products=everything ^[MM-DK-414]
+- Stick Gift Psychology: 300K copies of free booklet = 300K lead sources ^[HEUR-DK-603]
+- Amazon is a search engine, not a store ^[MM-DK-416]
+- Fame without funnels creates broke celebrities ^[FIL-DK-474]
+- Better to be prolific than good ^[FIL-DK-465]
+- Obligation Creation (Summers White: one dinner fills entire year's book) ^[MM-DK-413, HEUR-DK-606]
+- Piracy and theft as media strategy (embed pathways in everything stolen) ^[FIL-DK-476, HEUR-DK-601]
+
+**DNA IDs:** FIL-DK-462→491, MM-DK-403→424, HEUR-DK-587→636, FW-DK-348→349, MET-DK-243→244
+**Elements:** 106
 
 ---
 
@@ -346,9 +370,9 @@ Step-by-step processes: avatar construction, headline formula application, hit l
 | Agent Path | `agents/external/dan-kennedy/` |
 | Dossier Path | `knowledge/external/dossiers/persons/DOSSIER-DAN-KENNEDY.md` |
 | Source Docs | SOURCE-OMC.md, SOURCE-MTBN.md (`knowledge/external/sources/dan-kennedy/`) |
-| Total Sources | 8 programs (CC + 7FA + 12BBS + ACC + MM + OMC + MTBN) |
-| Total Raw Files | 634 (12 + 152 + 6 + 203 + 39 + 133 + 89) |
-| Total DNA Elements | 2029 |
+| Total Sources | 8 programs (CC + 7FA + 12BBS + ACC + MM + OMC + MTBN + LLF) |
+| Total Raw Files | 638 (12 + 152 + 6 + 203 + 39 + 133 + 89 + 4) |
+| Total DNA Elements | 2135 |
 | Extraction Period | 2026-03-13 → 2026-03-15 |
 
 ---
