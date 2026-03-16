@@ -78,5 +78,7 @@ _audit.ps1
 *.tmp
 
 # === INBOX (raw materials - L3 personal) ===
-inbox/
+# Ignorar CONTEÚDO do inbox, mas manter a pasta no repo (essencial para ingest)
+inbox/*
 !inbox/.gitkeep
+!inbox/README.md
