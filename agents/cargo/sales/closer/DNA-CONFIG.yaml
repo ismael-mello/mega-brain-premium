@@ -17,12 +17,14 @@
 # ═══════════════════════════════════════════════════════════════════════════════
 
 cargo: "closer"
-versao: "3.6.0"
+versao: "3.7.0"
 nivel: "SALES"
 natureza: "HIBRIDO"
 data_criacao: "2025-12-23"
 ultima_atualizacao: "2026-03-15"
 # CHANGELOG:
+# v3.7.0 (2026-03-15): Phase 7-8 — Added nick-nanton (story-selling, oxytocin-trust) peso 0.50
+#                      - Added IDs: FIL-NN-004/009/019/020/028
 # v3.6.0 (2026-03-15): DK-MTBN Phase 8 — closing frameworks, stage closing methodology, psychological selling scripts
 #                      - Added 7 MTBN DK insight_ids (FW-DK-293/294/295/306/307, MET-DK-206/207)
 # v3.5.0 (2026-03-15): DK-MTBN enrichment — psychology of selling, mind control copy, affluent closing, one-to-many stage closing
@@ -458,6 +460,32 @@ dna_sources:
             - "Dark > Light: negative motivation outperforms positive in DR"
             - "Process identical $47→$470K: closing framework doesn't change, patience does"
             - "Price Suspension: affluent spend freely when positioned in Their Thing"
+
+    - pessoa: "nick-nanton"
+      path: "/knowledge/external/dna/persons/nick-nanton"
+      raiz: "/knowledge/external/sources/nick-nanton/raw/"
+      dominios_usados:
+        - "story-selling"
+        - "oxytocin-trust"
+      peso: 0.50
+      quando_usar: "Story selling em calls, oxytocin-based trust building, narrative closing techniques"
+      added: "2026-03-15"
+      insight_ids:
+        - "FIL-NN-004"  # Stories Trigger Oxytocin — The Trust Chemical
+        - "FIL-NN-009"  # Story Creates Emotional Connection Before Logic
+        - "FIL-NN-019"  # Origin Story Disarms Skepticism
+        - "FIL-NN-020"  # Transformation Story Sells the After
+        - "FIL-NN-028"  # Story Selling Framework (Story → Connection → Offer)
+      materiais_fonte:
+        - titulo: "Story Selling + Celebrity Branding Blueprint"
+          path_raiz: "/knowledge/external/sources/nick-nanton/raw/"
+          tipo: "masterclass-multi"
+          data_processamento: "2026-03-15"
+          insights_principais:
+            - "Oxytocin trigger: stories chemically build trust before any pitch"
+            - "Origin story disarms skepticism: vulnerability creates connection"
+            - "Story → Connection → Offer: sequence matters in closing"
+            - "Transformation story sells the after: client sees themselves in the story"
 
     # ─────────────────────────────────────────────────────────────────────────────
     # ADICIONADO EM PHASE 5.3 - MISSION-2026-001

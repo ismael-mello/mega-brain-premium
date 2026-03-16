@@ -24,12 +24,15 @@
 # ═══════════════════════════════════════════════════════════════════════════════
 
 cargo: "CMO"
-versao: "3.9.0"
+versao: "4.0.0"
 nivel: "C-LEVEL"
 natureza: "HIBRIDO"
 data_criacao: "2025-12-23"
 ultima_atualizacao: "2026-03-15"
 # CHANGELOG:
+# v4.0.0 (2026-03-15): Phase 7-8 — Added nick-nanton (celebrity-branding, storytelling, brand-positioning, legend-building) + DK LLF domains (legend-building, publishing, school-of-thought)
+#                      - Added nick-nanton IDs: FIL-NN-001/002/004/005/007/008/026/033
+#                      - Added DK LLF IDs: FIL-DK-462/463/464/465/466/468
 # v3.9.0 (2026-03-15): DK-MTBN Phase 8 — persuasion frameworks, copy sorcery, affluent messaging, mind control copy scripts
 #                      - Added 11 MTBN DK insight_ids (FIL-DK-420/421/422, FW-DK-308/309/310, HEUR-DK-527/528/529, MET-DK-213/214)
 # v3.8.0 (2026-03-15): DK-MTBN enrichment — one-to-many selling, affluent marketing, magnetic marketing 2014, sorcery of persuasion, list building
@@ -387,6 +390,10 @@ dna_sources:
         - "dissatisfaction-gap"          # OMC enrichment 2026-03-15
         - "product-launch-formula"       # OMC enrichment 2026-03-15 (Jeff Walker)
         - "toaster-principle"            # OMC enrichment 2026-03-15
+        - "legend-building"              # LLF enrichment 2026-03-15
+        - "publishing"                   # LLF enrichment 2026-03-15
+        - "school-of-thought"            # LLF enrichment 2026-03-15
+        - "omnipresence"                 # LLF enrichment 2026-03-15
       peso: 0.85
       quando_usar: "Copy de resposta direta, headlines, long-form sales pages, urgência, VSL scripts, objection draining, reposicionamento de oferta como oportunidade, PLF/sideways sales letter, mental triggers"
       added: "2026-03-13"
@@ -515,6 +522,63 @@ dna_sources:
             - "Magnetic Marketing 2014: attract don't pursue — heart surgeon doesn't cold call"
             - "Mind Control Copy: excited consumer > informed consumer"
             - "Good enough at deliverable; great at marketing = income maximizer"
+      # LLF enrichment (2026-03-15 Phase 7-8)
+      dominios_llf:
+        - "legend-building"
+        - "publishing"
+        - "school-of-thought"
+        - "omnipresence"
+      elementos_llf:
+        - "FIL-DK-462 (Legend vs Celebrity Distinction — legend has depth, school of thought, lasting legacy; celebrity famous but no system; legends build systems)"
+        - "FIL-DK-463 (School of Thought Is Mandatory — you must have your own school of thought to reach legendary status; naming it distinctively matters)"
+        - "FIL-DK-464 (Cannot Be Prophet Without Being Heretic First — challenge orthodoxy, create controversy, be contrarian; foundational to legend building)"
+        - "FIL-DK-465 (Better to Be Prolific Than Good — sum of author strategy: prolific > perfect; having a lot out there > having the best thing out there)"
+        - "FIL-DK-466 (Publish or Perish — being published matters enormously; not published + not on TV = irrelevant; can get away with one but not both)"
+        - "FIL-DK-468 (The Single-Word Answer Is DEFIANCE — what separates legends: defiance of norms, conventional wisdom, what everyone else does)"
+      materiais_fonte_llf:
+        - titulo: "Living Legend Formula (Part 1, Part 2, Media Strategies, Q&A Manual)"
+          path_raiz: "/knowledge/external/sources/dan-kennedy/raw/living-legend-formula/"
+          tipo: "seminar-multi"
+          data_processamento: "2026-03-15"
+          insights_principais:
+            - "Legend vs Celebrity: legend has school of thought + lasting legacy; celebrity has traffic but no system"
+            - "Prolific > Perfect: publishing quantity beats quality for legend status"
+            - "Heretic → Prophet arc: must challenge orthodoxy to establish school of thought"
+            - "DEFIANCE: single word separating legends from everyone else"
+            - "16 Golden Thread: controversy is one of the threads weaving legend status"
+
+    - pessoa: "nick-nanton"
+      path: "/knowledge/external/dna/persons/nick-nanton"
+      raiz: "/knowledge/external/sources/nick-nanton/raw/"
+      dominios_usados:
+        - "celebrity-branding"
+        - "storytelling"
+        - "brand-positioning"
+        - "legend-building"
+      peso: 0.75
+      quando_usar: "Celebrity brand building, brand-as-person positioning, storytelling para marketing, legend-building strategy, oxytocin trust via stories"
+      added: "2026-03-15"
+      source: "Celebrity Branding Blueprint (CBB) + Story Selling + X-Factors + Online Legend"
+      insight_ids:
+        - "FIL-NN-001"  # People Buy People, Not Products
+        - "FIL-NN-002"  # Brand Is Your Story, Branding Is Storytelling
+        - "FIL-NN-004"  # Stories Trigger Oxytocin — The Trust Chemical
+        - "FIL-NN-005"  # Marketing Is the Business Everyone Is Really In
+        - "FIL-NN-007"  # Celebrity Expert = Highest Paid Position in Any Market
+        - "FIL-NN-008"  # Celebrity Brand Is Recession-Proof
+        - "FIL-NN-026"  # Brand Is Not a Logo, It Is an Experience
+        - "FIL-NN-033"  # Story Selling Is the Most Powerful Sales Tool
+      materiais_fonte:
+        - titulo: "Celebrity Branding Blueprint + Story Selling + X-Factors + Online Legend"
+          path_raiz: "/knowledge/external/sources/nick-nanton/raw/"
+          tipo: "masterclass-multi"
+          data_processamento: "2026-03-15"
+          insights_principais:
+            - "People Buy People: know-like-trust precede transaction"
+            - "Brand = Your Story: branding is storytelling at its core"
+            - "Celebrity Expert = highest paid position in any market"
+            - "Stories trigger oxytocin — the trust chemical"
+            - "Celebrity Brand is recession-proof: premium positioning survives downturns"
 
     - pessoa: "SAM-OVEN"
       path: "/knowledge/external/dna/persons/SAM-OVEN"

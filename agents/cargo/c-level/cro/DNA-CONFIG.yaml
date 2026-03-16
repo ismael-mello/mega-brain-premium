@@ -17,11 +17,14 @@
 # ═══════════════════════════════════════════════════════════════════════════════
 
 cargo: "CRO"
-versao: "3.8.0"
+versao: "3.9.0"
 nivel: "C-LEVEL"
 natureza: "HIBRIDO"
 data_criacao: "2025-12-23"
 ultima_atualizacao: "2026-03-15"
+# v3.9.0 (2026-03-15): Phase 7-8 — Added nick-nanton (celebrity-branding, premium-pricing, legacy-dollars) + DK LLF (legend-economics, feeder-systems)
+#                      - Added nick-nanton IDs: FIL-NN-003/008/013/014/015
+#                      - Added DK LLF IDs: FIL-DK-462/463, MM-DK-425/426
 # v3.8.0 (2026-03-15): DK-MTBN Phase 8 — closing systems, affluent revenue, one-to-many revenue ops
 #                      - Added 4 MTBN DK insight_ids (FW-DK-296, MET-DK-209, MM-DK-358/360)
 # v3.7.0 (2026-03-15): DK-MTBN enrichment — one-to-many revenue systems, affluent economics, MTBN sales operations
@@ -478,6 +481,41 @@ dna_sources:
             - "Referral engine: trigger events not satisfaction (recognition, status, wow)"
             - "Price suspension: position offer as Their Thing = price becomes irrelevant"
             - "One-to-many revenue: group presentation architecture unlocks scale"
+      # LLF enrichment (2026-03-15 Phase 7-8)
+      dominios_llf:
+        - "legend-economics"
+        - "feeder-systems"
+      elementos_llf:
+        - "FIL-DK-462 (Legend vs Celebrity — legend builds systems to monetize traffic; celebrity has traffic but no organized monetization system)"
+        - "FIL-DK-463 (School of Thought = Revenue Moat — named school of thought creates defensible positioning that competitors cannot easily replicate)"
+        - "MM-DK-425 (LLF feeder systems mental model — TBD pending full DNA extraction)"
+        - "MM-DK-426 (Legend economics mental model — TBD pending full DNA extraction)"
+
+    - pessoa: "nick-nanton"
+      path: "/knowledge/external/dna/persons/nick-nanton"
+      raiz: "/knowledge/external/sources/nick-nanton/raw/"
+      dominios_usados:
+        - "celebrity-branding"
+        - "premium-pricing"
+        - "legacy-dollars"
+      peso: 0.55
+      quando_usar: "Celebrity brand premium pricing justification, legacy revenue models, personal brand as revenue multiplier"
+      added: "2026-03-15"
+      insight_ids:
+        - "FIL-NN-003"  # You Get Paid for Who You Are, Not What You Do
+        - "FIL-NN-008"  # Celebrity Brand Is Recession-Proof
+        - "FIL-NN-013"  # Celebrity Commands Premium Pricing
+        - "FIL-NN-014"  # Personal Brand Multiplies Revenue Per Lead
+        - "FIL-NN-015"  # Brand Equity Compounds Like Interest
+      materiais_fonte:
+        - titulo: "Celebrity Branding Blueprint + Story Selling"
+          path_raiz: "/knowledge/external/sources/nick-nanton/raw/"
+          tipo: "masterclass-multi"
+          data_processamento: "2026-03-15"
+          insights_principais:
+            - "Paid for who you are: celebrity commands premium over commodity"
+            - "Celebrity brand is recession-proof: personal brand survives market downturns"
+            - "Brand equity compounds: personal brand multiplies revenue per lead over time"
 
 # ═══════════════════════════════════════════════════════════════════════════════
 # MAPA DE CONFLITOS
