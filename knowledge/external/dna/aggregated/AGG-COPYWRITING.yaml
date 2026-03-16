@@ -7,7 +7,7 @@
 # ═══════════════════════════════════════════════════════════════════════════════
 
 dominio: "copywriting"
-versao: "1.4.0"
+versao: "2.0.0"
 criado_em: "2026-03-13"
 atualizado_em: "2026-03-16"
 
@@ -17,13 +17,15 @@ fontes_consolidadas:
     path: "/knowledge/external/dna/persons/dan-kennedy/"
     raiz: "/knowledge/external/sources/dan-kennedy/raw/copywriting-clinic/"
     contribuicao_principal: "Direct mail salesmanship, headline mastery, pain-pleasure sequence, hook discovery, pre-framing"
-    elementos_relevantes: 410
+    elementos_relevantes: 540
     fontes_incluidas:
       - "The Copywriting Clinic (156 elementos — core copywriting)"
       - "7-Figure Academy (78 elementos — business copy, moral obligation, preeminência)"
       - "12 Business Building Strategies (39 elementos — Collier Principle, recession alignment, certainty selling)"
       - "Advanced Coaching & Consulting (56 elementos — compelling>pretty, DR vs brand, what works not what you like)"
       - "Mind Hijacking (335 elementos — villain/enemy framing, big idea, proof by numbers, optics, free offers, new/improved cycle)"
+      - "Magnetic Email Marketing (59 elementos — subject line frameworks, email copywriting, sequential agreement, cash flow surge templates)"
+      - "Business of Copywriting (71 elementos — strategy>copy, positioning, client-attraction, fee-presentation, niche-segmentation)"
 
   - fonte: "russell-brunson"
     peso_dominio: 0.85
@@ -295,7 +297,7 @@ tensoes:
 # ═══════════════════════════════════════════════════════════════════════════════
 
 changelog:
-  - versao: "1.4.0"
+  - versao: "2.0.0"
     data: "2026-03-16"
     mudancas:
       - "Mind Hijacking integrado: elementos_relevantes 329→410 (villain/enemy, big idea, proof by numbers, optics, free, new/improved)"
@@ -333,3 +335,12 @@ changelog:
       - "Alex Hormozi fonte terciária (hooks, offer language)"
       - "8 filosofias, 6 heurísticas, 9 frameworks consolidados"
       - "Cascateamento: CMO (0.85) + Sales Manager (0.70)"
+
+  - versao: "2.0.0"
+    data: "2026-03-16"
+    mudancas:
+      - "BOC integrado (+71 elementos — business of copywriting, strategy vs copy)"
+      - "Novos domínios: client-attraction, positioning, fee-presentation, consulting"
+      - "Key insight: Strategy > Copy — mudar segmento/mídia/envelope bate qualquer controle de copy"
+      - "Key insight: Niche segmentation — 7 pacotes para 7 segmentos bate 1 para todos"
+      - "DK elementos relevantes: 469 → 540"

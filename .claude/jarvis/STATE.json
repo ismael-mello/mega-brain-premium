@@ -1,6 +1,6 @@
 {
   "version": "2.2.0",
-  "updated_at": "2026-03-16T18:00:00Z",
+  "updated_at": "2026-03-16T19:21:00Z",
   "system": {
     "status": "OPERATIONAL",
     "health_score": 98,
@@ -20,9 +20,9 @@
       "status": "COMPLETE",
       "dna": true,
       "agent": true,
-      "dna_version": 26,
-      "elements": 2482,
-      "layers": "L1:407 L2:361 L3:518 L4:303 L5:890",
+      "dna_version": 27,
+      "elements": 2541,
+      "layers": "L1:422 L2:371 L3:538 L4:311 L5:896",
       "sources": [
         "CC — copywriting-clinic (12 elements)",
         "7FA — 7-figure-academy (152 elements)",
@@ -33,22 +33,25 @@
         "MTBN — make-them-buy-now (89 elements, 14 batches)",
         "LLF — living-legend-formula (106 elements)",
         "MH — mind-hijacking (335 elements)",
-        "RM — referral-machine (65 elements)"
+        "RM — referral-machine (65 elements)",
+        "MEM — magnetic-email-marketing (59 elements)"
       ],
       "dossiers": [
         "DOSSIER-DAN-KENNEDY.md",
         "DOSSIER-COACHING-CONSULTING.md",
         "DOSSIER-OPPORTUNITY-MARKETING.md",
-        "DOSSIER-MIND-HIJACKING.md"
+        "DOSSIER-MIND-HIJACKING.md",
+        "SOURCE-MEM.md"
       ],
       "cargo_enriched": [
         "CLOSER (v2.23.0 — +6 RM insights)",
         "CMO (v2.4.0 — +18 RM insights)",
         "CRO (v3.3.0 — +9 RM insights)",
-        "Sales Manager (v2.14.0 — +8 RM insights)"
+        "Sales Manager (v2.14.0 — +8 RM insights)",
+        "CMO (v2.5.0 — +17 MEM insights)"
       ],
-      "next_ids": "FIL-DK-578 MM-DK-572 HEUR-DK-744 FW-DK-739 MET-DK-623",
-      "note": "Pipeline 100% completo (2026-03-16). 10 fontes (MH+RM). v26.0.0. AGG-VENDAS v1.1.0 + AGG-COPYWRITING v1.4.0. Commits c3c58c0 (MH) + 4d844ee (RM). Inbox limpo. Zero pendências."
+      "next_ids": "FIL-DK-593 MM-DK-582 HEUR-DK-764 FW-DK-747 MET-DK-629",
+      "note": "Pipeline 100% completo (2026-03-16). 11 fontes. v27.0.0. AGG-COPYWRITING v1.5.0. CMO v2.5.0. Inbox MEM em raw. Zero pendencias."
     },
     "russell-brunson": {
       "status": "COMPLETE",
@@ -266,14 +269,14 @@
     }
   },
   "session": {
-    "id": "SESSION-2026-03-16-FINAL-SYNC",
-    "started_at": "2026-03-16T18:00:00Z",
-    "last_activity_at": "2026-03-16T18:10:00Z",
+    "id": "SESSION-2026-03-16-003",
+    "started_at": "2026-03-16T19:21:00Z",
+    "last_activity_at": "2026-03-16T21:00:00Z",
     "is_active": true
   },
   "next_action": {
-    "description": "DK 100% completo (MH+RM). Todas pendências resolvidas. Aguardando nova missão.",
-    "pending_manual": null,
+    "description": "DK MEM pipeline COMPLETE (59 elements, 11 fontes, v27). CMO enriched. Aguardando nova missao.",
+    "pending_manual": "Remover inbox/Dan Kennedy - Magnetic Email Marketing/ (ja copiado para raw)",
     "options": [
       "Ingerir novo especialista/programa → /jarvis-full [material]",
       "Consulta estratégica → /conclave ou /ask"
@@ -281,7 +284,7 @@
   },
   "mis": {
     "session_id": "",
-    "prompt_count": 155,
+    "prompt_count": 168,
     "bracket": "CRITICAL",
     "context_percent": 0.0
   }

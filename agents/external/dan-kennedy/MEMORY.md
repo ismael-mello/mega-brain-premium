@@ -1,6 +1,6 @@
 # MEMORY.md — DAN KENNEDY
 
-> **Versão:** 6.0.0
+> **Versão:** 7.0.0
 > **Criado:** 2026-03-13 | **Atualizado:** 2026-03-16
 
 ---
@@ -19,6 +19,9 @@
 | 7 | Make Them Buy Now (MTBN) | MULTI-PROGRAM | 89 files (18 sub-programs) | ✅ COMPLETE |
 | 8 | Living Legend Formula (LLF) | MASTERCLASS | 4 files (Part 1, Part 2, Media Strategies, Q&A) | ✅ COMPLETE |
 | 9 | Mind Hijacking (MH) | SEMINAR | 36 videos (psychological persuasion) | ✅ COMPLETE |
+| 10 | Referral Machine (RM) | SYSTEM | 3 CDs + articles + PDF | ✅ COMPLETE |
+| 11 | Magnetic Email Marketing (MEM) | WORKSHOP | 4 sessions + ICFSG + guests | ✅ COMPLETE |
+| 12 | Business of Copywriting (BOC) | ACADEMY | 41 files (5 modules + extras + bonuses) | ✅ COMPLETE |
 
 ---
 
@@ -202,3 +205,19 @@
 - "Seducing stubborn virgins is hard, agonizing, long, painful, and usually expensive work." ^[FIL-DK-371]
 - "Everything looks better from a distance. And it really looks better in dim light, close to closing time." ^[FIL-DK-368]
 - "The money is in marketing to the most likely buyer. Screw them. Leave them in the bottom of the pyramid." ^[FIL-DK-367]
+
+### Business of Copywriting (BOC)
+- "You can be paid for doing something. You have to be somebody to be very well paid." ^[FIL-DK-593]
+- "We're in the self-aggrandizement business." ^[FIL-DK-594] (quoting Halbert)
+- "Ogilvy advertised Ogilvy." ^[FIL-DK-595]
+- "Price lists are for pizza shops, not for professionals." ^[FIL-DK-597]
+- "The word 'negotiate' should never be spoken." ^[FIL-DK-600]
+- "If you insist on investing effort only in the message, you lose." ^[FIL-DK-601]
+- "I do projects, not pieces." ^[FIL-DK-605]
+- "Kill it and drag it back." ^[MM-DK-584] (display effort for obligation)
+- "Good Enough Spot — move to the bigger opportunity." ^[MM-DK-585]
+- "Celebrity Buried in the Closet — Miracle Air/Ken Dalvorkin." ^[MM-DK-587]
+- "Start narrow, go broad — never start broad." ^[HEUR-DK-773]
+- "As you probably know — they probably don't, that's why you're telling them." ^[HEUR-DK-766]
+- "I rarely prospect for clients. Actually I do it all the time." ^[HEUR-DK-783]
+- "Famous person nobody's ever heard of." ^[HEUR-DK-785]

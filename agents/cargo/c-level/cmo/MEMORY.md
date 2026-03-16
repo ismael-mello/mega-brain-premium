@@ -1044,4 +1044,55 @@ LAYER 5: Social Proof ($5/day) - 10+ comments target
 | PD-RM-CMO-005 | Aumentar referrals sem pedir diretamente | Special Report of Month como stealth referral | FW-DK-731 | ALTA |
 
 *Atualização: 2026-03-16 — DK Referral Machine Source #10 Enrichment*
-*MEMORY.md v2.4.0*
+
+---
+
+## DK Magnetic Email Marketing (MEM) — Source #11 Enrichment
+
+> **Fonte:** Dan Kennedy + Dave Dee — Magnetic Email Marketing System & Toolkit
+> **Elementos MEM:** 59 (FIL:15 MM:10 HEUR:20 FW:8 MET:6)
+> **Data:** 2026-03-16
+
+### Frameworks MEM Críticos para CMO
+
+| Data | Insight | chunk_id | PATH_RAIZ | Confiança |
+|------|---------|----------|-----------|-----------|
+| 2026-03-16 | **4-Session Email Recipe**: Collection > Attention > Conversion > Monetization. Sistema completo. | FW-DK-739 | knowledge/external/sources/dan-kennedy/raw/magnetic-email-marketing/ | ALTA |
+| 2026-03-16 | **7 Subject Line Types**: Question, How-To, Secrets, News, Personal, Command, Controversy. Rotacionar tipos. | FW-DK-741 | knowledge/external/sources/dan-kennedy/raw/magnetic-email-marketing/ | ALTA |
+| 2026-03-16 | **Lead Capture Architecture**: Verify > Restate > Instruct > Reassure. 4 elementos obrigatórios. | FW-DK-742 | knowledge/external/sources/dan-kennedy/raw/magnetic-email-marketing/ | ALTA |
+| 2026-03-16 | **Follow-up Architecture**: Intense short > Maintenance forever > Re-trigger by behavior. | FW-DK-743 | knowledge/external/sources/dan-kennedy/raw/magnetic-email-marketing/ | ALTA |
+| 2026-03-16 | **Cash Flow Surge 3-Day System**: Day 1 offer, Day 2 resell, Day 3 urgency+deadline. GKIC $250K+ com 5 templates. | FW-DK-740 | knowledge/external/sources/dan-kennedy/raw/magnetic-email-marketing/ | ALTA |
+| 2026-03-16 | **Segmentation via LGM**: Múltiplos lead magnets para diferentes interesses. Segmentar por clicks e respostas. | FW-DK-746 | knowledge/external/sources/dan-kennedy/raw/magnetic-email-marketing/ | ALTA |
+
+### Filosofias MEM para CMO
+
+| Data | Insight | chunk_id | PATH_RAIZ | Confiança |
+|------|---------|----------|-----------|-----------|
+| 2026-03-16 | **Relationship > Cleverness**: Com relacionamento, subject line vira secundário. Sem relacionamento, precisa de craft. | FIL-DK-582 | knowledge/external/sources/dan-kennedy/raw/magnetic-email-marketing/ | ALTA |
+| 2026-03-16 | **Sequential Agreement**: Leitura é acordo sequencial — linha a linha decidem se continuam. Cada frase precisa ganhar a próxima. | FIL-DK-587 | knowledge/external/sources/dan-kennedy/raw/magnetic-email-marketing/ | ALTA |
+| 2026-03-16 | **Personal > Corporate**: Voz pessoal e conversacional sempre ganha. Corporate speak mata engagement. | FIL-DK-586 | knowledge/external/sources/dan-kennedy/raw/magnetic-email-marketing/ | ALTA |
+| 2026-03-16 | **Tactic Known = Tactic Blown**: Não repetir táticas demais. Calendário de marketing com variação. | FIL-DK-585 | knowledge/external/sources/dan-kennedy/raw/magnetic-email-marketing/ | ALTA |
+
+### Heurísticas MEM para CMO
+
+| Data | Insight | chunk_id | PATH_RAIZ | Confiança |
+|------|---------|----------|-----------|-----------|
+| 2026-03-16 | **Email + Direct Mail**: Fazer AMBOS para amplificar resultado. Muita gente não lê email por semanas. | HEUR-DK-749 | knowledge/external/sources/dan-kennedy/raw/magnetic-email-marketing/ | ALTA |
+| 2026-03-16 | **No Deadline = No Urgency**: Sempre deadline de tempo ou quantidade. Sem isso, difícil mover para ação. | HEUR-DK-748 | knowledge/external/sources/dan-kennedy/raw/magnetic-email-marketing/ | ALTA |
+| 2026-03-16 | **Intriguing Question entertra claims**: Perguntas permitem fazer claims que afirmações não podem. Maior fator de intriga. | HEUR-DK-752 | knowledge/external/sources/dan-kennedy/raw/magnetic-email-marketing/ | ALTA |
+| 2026-03-16 | **Follow-up é RESELLING não reminding**: Nunca "lembra que você se inscreveu?" — Resell, persuadir, motivar. | HEUR-DK-758 | knowledge/external/sources/dan-kennedy/raw/magnetic-email-marketing/ | ALTA |
+| 2026-03-16 | **Desconto excessivo destrói valor**: Problema Kohl's/Macy's. Usar com moderação no calendário. | HEUR-DK-763 | knowledge/external/sources/dan-kennedy/raw/magnetic-email-marketing/ | ALTA |
+
+### Padrões Decisórios MEM Adicionados
+
+| ID | Situação | Decisão Padrão | Ref | Confiança |
+|----|----------|----------------|-----|-----------|
+| PD-MEM-CMO-001 | Criar campanha de email | Seguir 4-Session Recipe: Coletar > Atenção > Conversão > Monetização | FW-DK-739 | ALTA |
+| PD-MEM-CMO-002 | Melhorar open rates | Rotacionar 7 tipos de subject lines. Testar intriguing question e personal. | FW-DK-741 + HEUR-DK-751 | ALTA |
+| PD-MEM-CMO-003 | Criar landing page de captura | Verificar > Reafirmar > Instruir > Reassegurar | FW-DK-742 + HEUR-DK-760 | ALTA |
+| PD-MEM-CMO-004 | Precisa de cash flow rápido | Cash Flow Surge 3-Day System para lista existente | FW-DK-740 + MET-DK-623 | ALTA |
+| PD-MEM-CMO-005 | Estruturar follow-up | Short intense (3-5 emails) + maintenance forever + re-trigger by LGM response | FW-DK-743 + MM-DK-576 | ALTA |
+| PD-MEM-CMO-006 | Segmentar lista de email | Múltiplos LGMs por interesse. Segmentar por clicks e respostas. Narrowcast > broadcast. | FW-DK-746 + MM-DK-578 | ALTA |
+
+*Atualização: 2026-03-16 — DK Magnetic Email Marketing Source #11 Enrichment*
+*MEMORY.md v2.5.0*

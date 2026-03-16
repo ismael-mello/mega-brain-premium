@@ -137,6 +137,34 @@ dna_sources:
       FW: "FW-DK-364..417"
       MET: "MET-DK-258..285"
 
+  - source: "magnetic-email-marketing"
+    person: "dan-kennedy"
+    weight: 1.0
+    path: "knowledge/external/dna/persons/dan-kennedy/DNA.yaml"
+    raiz: "knowledge/external/sources/dan-kennedy/raw/magnetic-email-marketing/"
+    files: 53
+    batches: [MEM-001, MEM-002, MEM-003, MEM-004, MEM-005, MEM-006, MEM-007, MEM-008]
+    content: "Instant Cash Flow Surge Generator (CD-01 + DVD-01 + 2 PDFs) + System and Toolkit: 4 sessions (CD01-04 + DVD-01-04) + Bonus (Bonus-CD-01, Bonus-CD-02, Bonus-DVD) + 37 email templates (4 sessions: Collection, Attention, Conversion, Monetization)"
+    status: "COMPLETE"
+    elements: 59
+    co_hosts: ["Dave Dee (GKIC Chief Marketing Driver)"]
+    context: "GKIC email marketing complete system — lead generation, subject lines, follow-up sequences, monetization campaigns, holiday promotions, referral emails. Includes 37 copyright-free template files."
+    next_ids:
+      FIL: "FIL-DK-578"
+      MM: "MM-DK-572"
+      HEUR: "HEUR-DK-744"
+      FW: "FW-DK-739"
+      MET: "MET-DK-623"
+    batch_plan:
+      MEM-001: "ICFSG — CD-01 + DVD-01 + PDF (instant cash flow surge system)"
+      MEM-002: "Session 1 — CD01 + DVD-01 (Collection: lead gen, email capture)"
+      MEM-003: "Session 2 — CD02 + DVD-02 (Attention: subject lines)"
+      MEM-004: "Session 3 — CD03 + DVD-03 (Conversion: follow-up sequences)"
+      MEM-005: "Session 4 — CD04 + DVD-04 (Monetization: campaign types)"
+      MEM-006: "Bonus — Bonus-CD-01 + Bonus-DVD"
+      MEM-007: "Bonus — Bonus-CD-02 (74KB, largest file)"
+      MEM-008: "Templates — all 37 email template files"
+
   - source: "referral-machine"
     person: "dan-kennedy"
     weight: 1.0
@@ -155,13 +183,13 @@ dna_sources:
       FW: "FW-DK-729..738"
       MET: "MET-DK-613..622"
 
-total_elements: 2482
+total_elements: 2541
 breakdown:
-  L1_PHILOSOPHIES: 407
-  L2_MENTAL_MODELS: 361
-  L3_HEURISTICS: 518
-  L4_FRAMEWORKS: 303
-  L5_METHODOLOGIES: 890
+  L1_PHILOSOPHIES: 422
+  L2_MENTAL_MODELS: 371
+  L3_HEURISTICS: 538
+  L4_FRAMEWORKS: 311
+  L5_METHODOLOGIES: 896
 
 domains:
   - copywriting
@@ -309,3 +337,29 @@ domains_mm:
   - self-appointment
   - immunity-to-criticism
   - healthy-paranoia
+
+  - source: "business-of-copywriting"
+    person: "dan-kennedy"
+    weight: 1.0
+    path: "knowledge/external/dna/persons/dan-kennedy/DNA.yaml"
+    raiz: "knowledge/external/sources/dan-kennedy/raw/business-of-copywriting/"
+    files: 41
+    usable_files: 16
+    elements: 71
+    content: "5 modules (Client Management, Client Attraction, Copywriter Toolbox, Special Opportunities, Ah Ha Moments) + Extras (Academy Manual, Samples, Recession Rescue, Teleconferences) + Bonuses (AWAI materials). Academy 2010 with AWAI."
+    context: "AWAI Business of Copywriting Academy 2010 - Meta-business of being a copywriter/consultant"
+
+
+domains_boc:
+  - client-management
+  - client-attraction
+  - pricing-fees
+  - positioning-self-marketing
+  - consulting-methodology
+  - ghostwriting-books
+  - copywriting-strategy
+  - contracts-agreements
+  - referral-handling
+  - niche-market-farming
+  - takeaway-selling
+  - fee-resistance-prevention
