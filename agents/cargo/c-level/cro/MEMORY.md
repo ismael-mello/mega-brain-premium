@@ -656,3 +656,57 @@ Cleaner atua em:
 
 *Atualização: 2026-03-03 — Cascateamento CA (Client Accelerators)*
 *MEMORY.md v3.1.0*
+
+---
+
+## DK MIND HIJACKING ENRICHMENT (2026-03-16)
+
+> **Fonte:** Dan Kennedy — Mind Hijacking Seminar (Source #9)
+> **Versão:** +8 insights adicionados
+> **Relevância:** Estratégia de revenue, posicionamento afluente, urgência, upsell
+
+### Insights MH por Tema
+
+| Data | Insight | ID | PATH_RAIZ | Confiança |
+|------|---------|-----|-----------|-----------|
+| 2026-03-16 | **Three Levers for Affluent Selling**: Mais caro + mais exclusivo + mais simbólico. Afluentes compram para refletir self-image E para bragging rights. Hard to get = stories they tell. | MM-DK-447 | knowledge/external/sources/dan-kennedy/raw/mind-hijacking/transcription_mp4_video_14.txt | ALTA |
+| 2026-03-16 | **Positional Status Rules Everything**: Pessoas comparam constantemente com outras no mesmo grupo. Remove comparação (sem ranking, sem comissão, sem prêmio) → performance despenca. Crie tiers visíveis de status. | MM-DK-446 | knowledge/external/sources/dan-kennedy/raw/mind-hijacking/transcription_mp4_video_14.txt | ALTA |
+| 2026-03-16 | **Loss > Gain (Urgência Orgânica)**: Pessoas mais relutantes a sofrer perda do que motivadas por ganho. Disney: "Você NUNCA mais pode entrar nessa fila." Scarcity real de loss > promise de gain. | FIL-DK-520 | knowledge/external/sources/dan-kennedy/raw/mind-hijacking/transcription_mp4_video_17.txt | ALTA |
+| 2026-03-16 | **Optimistic Bias Cycle (Reativação)**: Compra → falha → decepção breve → optimistic bias novamente → recompra. 92% compram segundo diet após primeiro falhar. 30% de WW em 3º-5º ciclo. O ciclo É o business model de reativação. | MM-DK-449 | knowledge/external/sources/dan-kennedy/raw/mind-hijacking/transcription_mp4_video_16.txt | ALTA |
+| 2026-03-16 | **Sunk Cost Leverage (Upsell)**: Quanto mais investido (financeiro, emocional, tempo, ego), mais suscetível a comprar tudo relacionado. Venda para os que já investiram muito — eles têm mais a perder em parar. | MM-DK-450 | knowledge/external/sources/dan-kennedy/raw/mind-hijacking/transcription_mp4_video_16.txt | ALTA |
+| 2026-03-16 | **Comparative Choice Switch**: Trocar frame de "quero isso ou não?" para "qual devo pegar?" Três mecanismos: choice of items, timing, differential benefit. Williams-Sonoma: pão $270 só = zero vendas; ao lado do $400 = skyrocket. | MM-DK-442 | knowledge/external/sources/dan-kennedy/raw/mind-hijacking/transcription_mp4_video_11.txt | ALTA |
+| 2026-03-16 | **Greed Is Visceral, Stimulatable**: 95% das pessoas têm greed não-opcional. É estimulável em qualquer pessoa — pobre, rico, inteligente, educado. Um cachorro saciado ainda come um bife no chão. | FIL-DK-512 | knowledge/external/sources/dan-kennedy/raw/mind-hijacking/transcription_mp4_video_13.txt | ALTA |
+| 2026-03-16 | **Nobody Operates In Vacuum (Comp Design)**: Joe's Crab Shack eliminou gorjeta → performance despencou. Saturn eliminou comissão → falhou. Sempre incluir visibilidade comparativa em comp plans. | FIL-DK-516 | knowledge/external/sources/dan-kennedy/raw/mind-hijacking/transcription_mp4_video_14.txt | ALTA |
+
+### Framework: Affluent Selling Levers (DK-MH)
+```
+┌─────────────────────────────────────────────────────────────────────┐
+│  THREE LEVERS FOR AFFLUENT SELLING — DAN KENNEDY (MM-DK-447)        │
+├─────────────────────────────────────────────────────────────────────┤
+│                                                                     │
+│  1. MAIS CARO        → Preço alto = quality signal                  │
+│  2. MAIS EXCLUSIVO   → Hard to get = stories they tell              │
+│  3. MAIS SIMBÓLICO   → Compra reflecte quem eles SÃO               │
+│                                                                     │
+│  Bill Murray Principle: "O travail de me conseguir É o valor"       │
+│                                                                     │
+│  Aplicação high-ticket:                                             │
+│  • Processo seletivo visível (não aceitar todo mundo)               │
+│  • Preço mais alto do mercado com justificativa de exclusividade    │
+│  • Símbolos de pertencimento (certificados, comunidades fechadas)   │
+│                                                                     │
+└─────────────────────────────────────────────────────────────────────┘
+```
+
+### Padrões Decisórios MH Adicionados
+
+| ID | Situação | Decisão Padrão | Ref | Confiança |
+|----|----------|----------------|-----|-----------|
+| PD-MH-CRO-001 | Posicionar oferta high-ticket | Aplicar Three Levers: mais caro + mais exclusivo + mais simbólico | MM-DK-447 | ALTA |
+| PD-MH-CRO-002 | Reativar leads frios | Explorar Optimistic Bias Cycle: nova oferta = nova chance de sucesso | MM-DK-449 | ALTA |
+| PD-MH-CRO-003 | Urgência em deal estagnado | Loss Frame > Gain Frame: "Você perde [X] se não decidir" | FIL-DK-520 | ALTA |
+| PD-MH-CRO-004 | Estruturar comp plan de vendas | Nunca remover comparação de status — leaderboard, tiers, símbolos visíveis | MM-DK-446 | ALTA |
+| PD-MH-CRO-005 | Upsell para cliente investido | Sunk Cost: quanto mais investiram, mais suscetíveis. Oferecer "protect your investment" | MM-DK-450 | ALTA |
+
+*Atualização: 2026-03-16 — DK Mind Hijacking Source #9 Enrichment*
+*MEMORY.md v3.2.0*

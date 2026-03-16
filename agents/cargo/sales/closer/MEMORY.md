@@ -7050,3 +7050,56 @@ Transição SDR → Closer: Depende da disposição, pode ir direto se se prepar
 
 *Atualização: 2026-03-03 — Cascateamento JH PCVP + 30DC*
 *MEMORY.md v2.44.0*
+
+---
+
+## DK MIND HIJACKING ENRICHMENT (2026-03-16)
+
+> **Fonte:** Dan Kennedy — Mind Hijacking Seminar (Source #9)
+> **Versão:** +8 insights adicionados
+> **Relevância:** Técnicas psicológicas de fechamento e rapport
+
+### Insights MH por Tema
+
+| Data | Insight | ID | PATH_RAIZ | Confiança |
+|------|---------|-----|-----------|-----------|
+| 2026-03-16 | **False Choice/Forced Choice**: "I don't care, you pick" → 2 opções pré-selecionadas. Prospect sente que escolheu mas você controlou o frame. | MM-DK-441 | knowledge/external/sources/dan-kennedy/raw/mind-hijacking/transcription_mp4_video_11.txt | ALTA |
+| 2026-03-16 | **Threshold Resistance**: Prospects têm thresholds muito altos que subestimamos (ligar, aparecer, dar dados financeiros). Criar threshold alternativo baixo (free report, vídeo) para capturar "almost persuaded". | MM-DK-440 | knowledge/external/sources/dan-kennedy/raw/mind-hijacking/transcription_mp4_video_10.txt | ALTA |
+| 2026-03-16 | **Loss > Gain para urgência**: "Você pode NUNCA mais ter essa oportunidade" gera mais compliance do que ganho. Disney usa "você talvez nunca rode isso de novo" — loss creates urgency organically. | FIL-DK-520 | knowledge/external/sources/dan-kennedy/raw/mind-hijacking/transcription_mp4_video_17.txt | ALTA |
+| 2026-03-16 | **Certitude = Effectiveness**: Doutrina eficaz vem de certeza, não de significado. Vender com convicção absoluta ("este é o único caminho") converte mais do que apresentar opções. Eric Hoffer: "The effectiveness of a doctrine comes from its certitude." | FIL-DK-526 | knowledge/external/sources/dan-kennedy/raw/mind-hijacking/transcription_mp4_video_22.txt | ALTA |
+| 2026-03-16 | **Feel In Control (não ter controle)**: Prospects não querem controle — querem SENTIR que têm controle. Técnica: "Você decide" → apresentar 2 opções pré-escolhidas. | FIL-DK-511 | knowledge/external/sources/dan-kennedy/raw/mind-hijacking/transcription_mp4_video_11.txt | ALTA |
+| 2026-03-16 | **Gaslighting para prospects superiores**: Quando prospect se sente superior a você, knock them off their perch — crie incerteza onde havia certeza. "Talvez não tão simples quanto parece." Abre para aceitar orientação. | MM-DK-451 | knowledge/external/sources/dan-kennedy/raw/mind-hijacking/transcription_mp4_video_17.txt | MÉDIA |
+| 2026-03-16 | **Repeat Command 3x + Strong Word**: "If it doesn't fit, you must acquit" × 3. 'Must' mais forte que 'have to'. Repetição + palavra de comando forte = embedado na memória. | HEUR-DK-621 | knowledge/external/sources/dan-kennedy/raw/mind-hijacking/transcription_mp4_video_5.txt | ALTA |
+| 2026-03-16 | **Affinity Bridge Building**: F.O.R.M. (Family → Occupation → Recreation → Money). Para cada tópico: disclosure + declaração + pergunta + follow-up. 30% do conteúdo deve ser empathetic statements. | MET-DK-258 | knowledge/external/sources/dan-kennedy/raw/mind-hijacking/transcription_mp4_video_2.txt | ALTA |
+
+### Framework: Four Affinity Builders (DK-MH)
+```
+┌─────────────────────────────────────────────────────────────────────┐
+│  FOUR AFFINITY BUILDERS — DAN KENNEDY MIND HIJACKING (FW-DK-365)    │
+├─────────────────────────────────────────────────────────────────────┤
+│                                                                     │
+│  1. EMPATHETIC STATEMENTS  → 30% do conteúdo da call               │
+│     "Eu entendo exatamente o que você está sentindo..."             │
+│                                                                     │
+│  2. AFFINITY STATEMENTS    → "Sou um de vocês"                     │
+│     Compartilhar algo em comum (indústria, situação, background)    │
+│                                                                     │
+│  3. ADVOCACY STATEMENTS    → "Estou do seu lado contra X"          │
+│     Posicionar o enemy/villain comum                                │
+│                                                                     │
+│  4. PERMISSION SLIPS       → "É OK sentir/pensar assim"            │
+│     Validar o que eles sentem mas não ousam dizer                  │
+│                                                                     │
+└─────────────────────────────────────────────────────────────────────┘
+```
+
+### Padrões Decisórios MH Adicionados
+
+| ID | Situação | Decisão Padrão | Ref | Confiança |
+|----|----------|----------------|-----|-----------|
+| PD-MH-CLOSER-001 | Prospect indeciso após pitch | Aplicar False Choice: "Você prefere começar [opção A] ou [opção B]?" — nunca Yes/No | MM-DK-441 | ALTA |
+| PD-MH-CLOSER-002 | Prospect parece superior/arrogante | Gaslighting suave: criar incerteza com pergunta que ele não sabe responder | MM-DK-451 | MÉDIA |
+| PD-MH-CLOSER-003 | Urgência fraca | Usar Loss Frame em vez de Gain Frame: "Você pode perder [benefício] se não decidir agora" | FIL-DK-520 | ALTA |
+
+*Atualização: 2026-03-16 — DK Mind Hijacking Source #9 Enrichment*
+*MEMORY.md v2.23.0*

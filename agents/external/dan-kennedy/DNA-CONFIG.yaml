@@ -120,13 +120,30 @@ dna_sources:
       FW: "FW-DK-348..363"
       MET: "MET-DK-245..257"
 
-total_elements: 2135
+  - source: "mind-hijacking"
+    person: "dan-kennedy"
+    weight: 1.0
+    path: "knowledge/external/dna/persons/dan-kennedy/DNA.yaml"
+    raiz: "knowledge/external/sources/dan-kennedy/raw/mind-hijacking/"
+    files: 36
+    batches: [MH-W1, MH-W2, MH-W3, MH-W4, MH-W5, MH-W6, MH-W7, MH-W8]
+    content: "Mind Hijacking seminar — 36 videos. Psychological influence, persuasion mechanics, rapport bridges, disclosure, permission slips, ritualistic recognition, forced choice, mouse trapping, positional status, conspiracy, embedded commands, agreement frames, social proof, cold reading, euphemisms, stories as weapons"
+    elements: 335
+    context: "Dan Kennedy's deep dive on psychological persuasion and mind control techniques for ethical selling"
+    dna_ids:
+      FIL: "FIL-DK-492..558"
+      MM: "MM-DK-425..494"
+      HEUR: "HEUR-DK-612..727"
+      FW: "FW-DK-364..417"
+      MET: "MET-DK-258..285"
+
+total_elements: 2414
 breakdown:
-  L1_FILOSOFIAS: 490
-  L2_MODELOS_MENTAIS: 423
-  L3_HEURISTICAS: 610
-  L4_FRAMEWORKS: 362
-  L5_METODOLOGIAS: 254
+  L1_PHILOSOPHIES: 389
+  L2_MENTAL_MODELS: 349
+  L3_HEURISTICS: 503
+  L4_FRAMEWORKS: 293
+  L5_METHODOLOGIES: 880
 
 domains:
   - copywriting
@@ -215,6 +232,28 @@ domains_mtbn:
   - cash-flow-surge
   - copywriting-sorcery
   - sales-assets-creation
+
+domains_mh:
+  - mind-hijacking
+  - psychological-persuasion
+  - rapport-bridges
+  - disclosure-strategy
+  - permission-slips
+  - ritualistic-recognition
+  - forced-choice
+  - mouse-trapping
+  - positional-status
+  - affluent-psychology
+  - conspiracy-framing
+  - embedded-commands
+  - agreement-frames
+  - cold-reading
+  - euphemisms
+  - social-proof-engineering
+  - sequential-submission
+  - problem-creation
+  - certainty-manufacture
+  - stories-as-weapons
 
 domains_omc:
   - opportunity-marketing

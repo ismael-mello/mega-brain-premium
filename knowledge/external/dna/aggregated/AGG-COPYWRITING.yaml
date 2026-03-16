@@ -7,9 +7,9 @@
 # ═══════════════════════════════════════════════════════════════════════════════
 
 dominio: "copywriting"
-versao: "1.3.0"
+versao: "1.4.0"
 criado_em: "2026-03-13"
-atualizado_em: "2026-03-13"
+atualizado_em: "2026-03-16"
 
 fontes_consolidadas:
   - fonte: "dan-kennedy"
@@ -17,13 +17,13 @@ fontes_consolidadas:
     path: "/knowledge/external/dna/persons/dan-kennedy/"
     raiz: "/knowledge/external/sources/dan-kennedy/raw/copywriting-clinic/"
     contribuicao_principal: "Direct mail salesmanship, headline mastery, pain-pleasure sequence, hook discovery, pre-framing"
-    elementos_relevantes: 273
-    elementos_relevantes: 329
+    elementos_relevantes: 410
     fontes_incluidas:
       - "The Copywriting Clinic (156 elementos — core copywriting)"
       - "7-Figure Academy (78 elementos — business copy, moral obligation, preeminência)"
       - "12 Business Building Strategies (39 elementos — Collier Principle, recession alignment, certainty selling)"
       - "Advanced Coaching & Consulting (56 elementos — compelling>pretty, DR vs brand, what works not what you like)"
+      - "Mind Hijacking (335 elementos — villain/enemy framing, big idea, proof by numbers, optics, free offers, new/improved cycle)"
 
   - fonte: "russell-brunson"
     peso_dominio: 0.85
@@ -99,6 +99,16 @@ filosofias:
     fonte: "dan-kennedy" | ref: "FIL-DK-149 (ACC-video-DK_9)"
     peso: 0.90
 
+  - id: "FIL-COPY-012"
+    filosofia: "Toda boa carta de vendas tem um villain — o inimigo claramente identificado torna o herói mais heroico, o problema mais urgente e o produto mais necessário"
+    fonte: "dan-kennedy" | ref: "FIL-DK-372 (MH)"
+    peso: 0.90
+
+  - id: "FIL-COPY-013"
+    filosofia: "Optics > Reality in marketing: como o produto PARECE importa mais do que o que ele É. A percepção é a realidade do prospect — design para a percepção certa"
+    fonte: "dan-kennedy" | ref: "FIL-DK-381 (MH)"
+    peso: 0.85
+
 # ═══════════════════════════════════════════════════════════════════════════════
 # HEURÍSTICAS (com números)
 # ═══════════════════════════════════════════════════════════════════════════════
@@ -135,6 +145,14 @@ heuristicas:
   - id: "HEUR-COPY-008"
     heuristica: "Conversão cold-to-prepared pode dobrar vs cold-to-pitch direto (delay deliberado + pacote de pré-aquecimento)"
     tipo: numeric | fonte: "dan-kennedy" | ref: "MM-DK-041, MET-DK-029 (7FA-CD6)"
+
+  - id: "HEUR-COPY-009"
+    heuristica: "Números específicos e incomuns ('247 clientes em 31 dias', '$14.237 em resultados') são 3-7x mais críveis que números redondos ou vagos"
+    tipo: numeric | fonte: "dan-kennedy" | ref: "HEUR-DK-612 (MH)"
+
+  - id: "HEUR-COPY-010"
+    heuristica: "'Free' nunca morre como trigger psicológico — oferta com componente gratuito bem posicionado supera equivalente pago em 3-10x em resposta imediata"
+    tipo: numeric | fonte: "dan-kennedy" | ref: "HEUR-DK-618 (MH)"
 
 # ═══════════════════════════════════════════════════════════════════════════════
 # FRAMEWORKS CORE
@@ -237,6 +255,24 @@ frameworks:
     fonte: "dan-kennedy" | ref: "FW-DK-126 (ACC-video-DK_9)"
     peso: 0.90
 
+  - id: "FW-COPY-017"
+    nome: "Villain/Enemy Framework (DK Mind Hijacking)"
+    passos: "1. Identificar o inimigo do prospect (sistema, indústria, concorrente, crença falsa) → 2. Nomear e personificar o villain claramente → 3. Posicionar prospect como herói que resiste → 4. Produto = arma que derrota o villain → 5. Us-vs-them narrative acima de feature-listing"
+    fonte: "dan-kennedy" | ref: "FW-DK-448 (MH)"
+    peso: 0.90
+
+  - id: "FW-COPY-018"
+    nome: "Big Idea Construction (DK Mind Hijacking)"
+    passos: "1. Identificar insight contrarian que inverte crença estabelecida → 2. Formular como afirmação chocante mas defensável → 3. Headline captura a ideia completa (curiosidade + benefício) → 4. Body explica com proof por números específicos → 5. Big Idea = âncora de toda a campanha"
+    fonte: "dan-kennedy" | ref: "FW-DK-453 (MH)"
+    peso: 0.90
+
+  - id: "FW-COPY-019"
+    nome: "New/Improved Cycle (DK Mind Hijacking)"
+    passos: "1. Identificar conceito vencedor já comprovado → 2. Adicionar 'New', 'Improved', 'Revised', 'Updated' → 3. Manter benefício central mas reembalar → 4. Adicionar pequeno elemento genuinamente novo → 5. Relançar com urgência de novidade — prospect percebe como descoberta, não repetição"
+    fonte: "dan-kennedy" | ref: "FW-DK-461 (MH)"
+    peso: 0.85
+
 # ═══════════════════════════════════════════════════════════════════════════════
 # TENSÕES ENTRE FONTES
 # ═══════════════════════════════════════════════════════════════════════════════
@@ -259,6 +295,15 @@ tensoes:
 # ═══════════════════════════════════════════════════════════════════════════════
 
 changelog:
+  - versao: "1.4.0"
+    data: "2026-03-16"
+    mudancas:
+      - "Mind Hijacking integrado: elementos_relevantes 329→410 (villain/enemy, big idea, proof by numbers, optics, free, new/improved)"
+      - "+2 filosofias (FIL-COPY-012: villain/enemy, FIL-COPY-013: optics>reality)"
+      - "+2 heurísticas (HEUR-COPY-009: specific numbers 3-7x, HEUR-COPY-010: free 3-10x)"
+      - "+3 frameworks (FW-COPY-017: Villain/Enemy, FW-COPY-018: Big Idea, FW-COPY-019: New/Improved Cycle)"
+      - "DK fontes_incluidas: adicionado Mind Hijacking (335 elementos)"
+
   - versao: "1.3.0"
     data: "2026-03-13"
     mudancas:

@@ -1,10 +1,10 @@
 # AGENT.md — DAN KENNEDY
 
 > **Tipo:** SOLO (Person Agent)
-> **Versão:** 6.0.0 | **Criado:** 2026-03-13 | **Atualizado:** 2026-03-15
-> **DNA:** 2029 elementos | L1:446 L2:386 L3:555 L4:326 L5:233 (+ BATCH-04 reintegration pending: +27)
-> **Fontes:** The Copywriting Clinic (12) + 7-Figure Academy (152) + 12 Business Building Strategies (6) + Advanced Coaching & Consulting (203) + Magnetic Marketing (39) + Opportunity Marketing Concepts (133) + Make Them Buy Now (279)
-> **SOUL:** v7.0.0 (enriched with CC + 7FA + 12BBS + ACC + MM + OMC)
+> **Versão:** 7.0.0 | **Criado:** 2026-03-13 | **Atualizado:** 2026-03-16
+> **DNA:** 2414 elementos | L1:389 L2:349 L3:503 L4:293 L5:880
+> **Fontes:** The Copywriting Clinic (12) + 7-Figure Academy (152) + 12 Business Building Strategies (6) + Advanced Coaching & Consulting (203) + Magnetic Marketing (39) + Opportunity Marketing Concepts (133) + Make Them Buy Now (89) + Living Legend Formula (4) + Mind Hijacking (36)
+> **SOUL:** v9.0.0 (enriched with CC + 7FA + 12BBS + ACC + MM + OMC + MTBN + LLF + MH)
 
 ---
 
@@ -30,6 +30,12 @@ O marketplace te aceita no preço que você cobra de si mesmo. Brass balls — a
 
 **Opportunity Marketing Concepts (OMC):** Opportunity vs Repair vs Improvement Positioning | Prospect Psychology (11 Agreements, Gullibility Axis) | Toaster Principle (Tangibility) | Conscious Mind as Belief Fortress | Lucy/Charlie Brown Model | Three Drawers Toolbox | Product Launch Formula (Jeff Walker) | Direct Mail Advanced (Craig Simpson) | Trust-Based Distance Selling (George Douglas) | Backend Economics & LTV Maximization | Franchise/Certification as Opportunity Vehicle | Exclusivity & Price Elasticity | Reinvention Positioning | Dissatisfaction Gap | Market Capacity Wall
 
+**Make Them Buy Now (MTBN):** One-to-Many Selling | Platform Presentation Architecture | Urgency Psychology | Scarcity Mechanics | Action Triggers | Buying Resistance | Closing Psychology | Impulse Architecture | Deadline Strategies | Risk Reversal | Affluent Marketing | Time Leverage | List Building | Cash Flow Surge | Copywriting Sorcery | Sales Assets Creation
+
+**Living Legend Formula (LLF):** Legend Building | 16 Golden Threads | Media Purpose Matrix | Omnipresence | Feeder Systems | DEFIANCE Philosophy | School of Thought Creation | Center of Universe Construction | Prolific Publishing
+
+**Mind Hijacking (MH):** Psychological Persuasion | Rapport Bridges | Disclosure Strategy | Permission Slips | Ritualistic Recognition | Forced Choice | Mouse Trapping | Positional Status | Affluent Psychology | Conspiracy Framing | Embedded Commands | Agreement Frames | Cold Reading | Euphemisms | Social Proof Engineering | Sequential Submission | Problem Creation | Certainty Manufacture | Stories as Weapons
+
 ## ARQUIVOS
 
 | Arquivo | Path |
@@ -44,6 +50,10 @@ O marketplace te aceita no preço que você cobra de si mesmo. Brass balls — a
 | Raw (ACC) | `knowledge/external/sources/dan-kennedy/raw/advanced-coaching-consulting/` (203 files) |
 | Raw (MM) | `knowledge/external/sources/dan-kennedy/raw/magnetic-marketing/` (39 files, 6 programs) |
 | Raw (OMC) | `knowledge/external/sources/dan-kennedy/raw/opportunity-marketing-concepts/` (133 files: 20 CDs + 10 DVDs + 10 PDFs) |
+| Raw (MTBN) | `knowledge/external/sources/dan-kennedy/raw/make-them-buy-now/` (89 files, 18 sub-programs) |
+| Raw (LLF) | `knowledge/external/sources/dan-kennedy/raw/living-legend-formula/` (4 files) |
+| Raw (MH) | `knowledge/external/sources/dan-kennedy/raw/mind-hijacking/` (36 files) |
 | SOURCE-OMC.md | `knowledge/external/sources/dan-kennedy/SOURCE-OMC.md` |
 | DOSSIER (person) | `knowledge/external/dossiers/persons/DOSSIER-DAN-KENNEDY.md` |
 | DOSSIER (theme) | `knowledge/external/dossiers/themes/DOSSIER-OPPORTUNITY-MARKETING.md` |
+| DOSSIER (MH) | `knowledge/external/dossiers/themes/DOSSIER-MIND-HIJACKING.md` |

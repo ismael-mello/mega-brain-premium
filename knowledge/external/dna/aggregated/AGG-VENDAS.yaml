@@ -11,9 +11,9 @@
 # ═══════════════════════════════════════════════════════════════════════════════
 
 dominio: "vendas"
-versao: "1.0.0"
+versao: "1.1.0"
 data_criacao: "2026-01-10"
-ultima_atualizacao: "2026-01-10"
+ultima_atualizacao: "2026-03-16"
 
 fontes_consolidadas:
   - fonte: "cole-gordon"
@@ -46,6 +46,13 @@ fontes_consolidadas:
     elementos_contribuidos: 200
     especialidade: "Recurring High-Ticket, Interest Levels, Show Rate"
     batches: ["BATCH-001 a BATCH-004", "BATCH-068 a BATCH-084", "BATCH-092 a BATCH-101"]
+
+  - fonte: "dan-kennedy"
+    path: "/knowledge/external/dna/persons/dan-kennedy"
+    peso_dominio: 0.85
+    elementos_contribuidos: 42
+    especialidade: "Mind Hijacking, Forced Choice, Threshold Psychology, Certitude Selling, Affinity Bridge"
+    batches: ["MH Wave 1-8 (Mind Hijacking Source — 2026-03-16)"]
 
 # ═══════════════════════════════════════════════════════════════════════════════
 # FILOSOFIAS CONSOLIDADAS (Top 15)
@@ -111,6 +118,20 @@ filosofias:
     fonte_primaria: "JEREMY-MINER"
     peso: 0.90
     consenso: ["JEREMY-MINER", "cole-gordon"]
+
+  - id: "AGG-VEN-F011"
+    conteudo: "Certitude transfers — quando você está absolutamente certo, o prospect toma confiança emprestada da sua certeza. Dúvida do vendedor = dúvida do prospect"
+    fonte_primaria: "dan-kennedy"
+    peso: 0.95
+    ref: "FIL-DK-358 (MH)"
+    consenso: ["dan-kennedy", "cole-gordon"]
+
+  - id: "AGG-VEN-F012"
+    conteudo: "People don't change until threshold pain exceeds threshold inertia — o trabalho do vendedor é acelerar a chegada ao threshold, não empurrar a decisão"
+    fonte_primaria: "dan-kennedy"
+    peso: 0.90
+    ref: "MM-DK-388 (MH)"
+    consenso: ["dan-kennedy", "JEREMY-MINER"]
 
 # ═══════════════════════════════════════════════════════════════════════════════
 # FRAMEWORKS CONSOLIDADOS (Top 10)
@@ -214,6 +235,35 @@ frameworks:
       - "4. Deal Level - Pronto para fechar"
     aplicacao: "Classificar leads, ajustar approach"
     batch_source: ["BATCH-068", "BATCH-069"]
+
+  - id: "AGG-VEN-FW008"
+    nome: "Forced Choice Frame (DK Mind Hijacking)"
+    fonte_primaria: "dan-kennedy"
+    peso: 0.90
+    ref: "FW-DK-436 (MH)"
+    descricao: "Elimina 'maybe' mudando a pergunta de 'compra ou não' para 'A ou B'"
+    elementos:
+      - "1. Identificar o binary trap (sim/não) que paralisa a decisão"
+      - "2. Criar duas opções de avanço — ambas assumem a compra"
+      - "3. Apresentar como escolha de customização, não de compra"
+      - "4. 'Você prefere começar na segunda ou na quinta?' > 'Quer começar?'"
+      - "5. Qualquer escolha confirma a decisão de avançar"
+    aplicacao: "Fechamento de alta conversão — retira a decisão binária da equação"
+    batch_source: ["MH Wave 4-5"]
+
+  - id: "AGG-VEN-FW009"
+    nome: "Affinity Bridge (DK Mind Hijacking)"
+    fonte_primaria: "dan-kennedy"
+    peso: 0.85
+    ref: "FW-DK-441 (MH)"
+    descricao: "Conectar nova ideia a crença já existente no prospect — resistência cai porque 'você já acredita nisso'"
+    elementos:
+      - "1. Identificar crença ou valor já estabelecido no prospect"
+      - "2. Mostrar que sua proposta é extensão natural dessa crença"
+      - "3. 'Como você já acredita em X, faz sentido que Y...'"
+      - "4. O novo se torna familiar — resistência psicológica dissolve"
+    aplicacao: "Superar resistência a novas ideias em discovery e pitch"
+    batch_source: ["MH Wave 6-7"]
 
 # ═══════════════════════════════════════════════════════════════════════════════
 # HEURÍSTICAS CONSOLIDADAS (Top 20)
@@ -324,6 +374,22 @@ heuristicas:
     peso: 0.85
     metrica: "7"
     batch_source: "BATCH-053"
+
+  - id: "AGG-VEN-H016"
+    conteudo: "Loss Frame: prospect é 3-5x mais motivado a evitar perder R$10k do que a ganhar R$10k — posicionar como prevenção de perda, não ganho"
+    fonte_primaria: "dan-kennedy"
+    peso: 0.90
+    ref: "HEUR-DK-596 (MH)"
+    metrica: "3-5x"
+    batch_source: "MH Wave 3"
+
+  - id: "AGG-VEN-H017"
+    conteudo: "Threshold Resistance: prospect não age até dor acumular acima do threshold — 80% da decisão é construída por conversas anteriores, não pela call final"
+    fonte_primaria: "dan-kennedy"
+    peso: 0.85
+    ref: "HEUR-DK-601 (MH)"
+    metrica: "80%"
+    batch_source: "MH Wave 2"
 
 # ═══════════════════════════════════════════════════════════════════════════════
 # METODOLOGIAS CONSOLIDADAS (Top 5)
@@ -473,12 +539,31 @@ consumidores:
 # ═══════════════════════════════════════════════════════════════════════════════
 
 estatisticas:
-  total_elementos_consolidados: 1333
-  fontes_contribuintes: 4  # 6 - 2 excluded personas (FSS, G4)
-  filosofias: 10
-  frameworks: 7
-  heuristicas: 15
+  total_elementos_consolidados: 1375
+  fontes_contribuintes: 5  # 7 - 2 excluded personas (FSS, G4) + dan-kennedy (MH)
+  filosofias: 12
+  frameworks: 9
+  heuristicas: 17
   metodologias: 4
   conflitos_documentados: 2
 
-# Fim do AGG-VENDAS.yaml v1.0.0
+# ═══════════════════════════════════════════════════════════════════════════════
+# CHANGELOG
+# ═══════════════════════════════════════════════════════════════════════════════
+
+changelog:
+  - versao: "1.1.0"
+    data: "2026-03-16"
+    mudancas:
+      - "Dan Kennedy adicionado como fonte (Mind Hijacking, 42 elementos de persuasão/psicologia)"
+      - "+2 filosofias (AGG-VEN-F011: Certitude Transfers, AGG-VEN-F012: Threshold Resistance)"
+      - "+2 frameworks (AGG-VEN-FW008: Forced Choice Frame, AGG-VEN-FW009: Affinity Bridge)"
+      - "+2 heurísticas (AGG-VEN-H016: Loss Frame 3-5x, AGG-VEN-H017: Threshold 80%)"
+      - "Fontes contribuintes: 4 → 5"
+
+  - versao: "1.0.0"
+    data: "2026-01-10"
+    mudancas:
+      - "Criação inicial — cole-gordon, JEREMY-MINER, alex-hormozi, jeremy-haynes"
+
+# Fim do AGG-VENDAS.yaml v1.1.0

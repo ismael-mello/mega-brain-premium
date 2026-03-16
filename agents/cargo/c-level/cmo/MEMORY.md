@@ -934,3 +934,56 @@ LAYER 5: Social Proof ($5/day) - 10+ comments target
 
 *Atualização: 2026-03-03 — Cascateamento CA (Client Accelerators)*
 *MEMORY.md v2.4.0*
+
+---
+
+## DK MIND HIJACKING ENRICHMENT (2026-03-16)
+
+> **Fonte:** Dan Kennedy — Mind Hijacking Seminar (Source #9)
+> **Versão:** +9 insights adicionados
+> **Relevância:** Psicologia de marketing, posicionamento, villains, big idea
+
+### Insights MH por Tema
+
+| Data | Insight | ID | PATH_RAIZ | Confiança |
+|------|---------|-----|-----------|-----------|
+| 2026-03-16 | **Enemy/Villain Creation**: Nenhum movimento sobe sem um devil. Excitement proporcional à vivacidade do villain. Deve ser tangível, não abstrato. Idealmente "invader externo" não insider. Fracassos = culpa do villain (get-out-of-jail-free card). | FW-DK-372 | knowledge/external/sources/dan-kennedy/raw/mind-hijacking/transcription_mp4_video_9.txt | ALTA |
+| 2026-03-16 | **Big Idea Sales Engine**: Criar big idea que drive automatic purchasing. Music room→piano. Man cave→gear. Website→services. Uma vez que a norma é aceita, você compete só em brand/modelo. | FW-DK-373 | knowledge/external/sources/dan-kennedy/raw/mind-hijacking/transcription_mp4_video_9.txt | ALTA |
+| 2026-03-16 | **Optics Design Protocol**: Sound-Off Test para todo visual (o que diz sem áudio?). Triple shot Disney (wide/medium/close-up). Stage: chegada com motorista, escort com clipboard, símbolos de poder em abundância. | FW-DK-369 | knowledge/external/sources/dan-kennedy/raw/mind-hijacking/transcription_mp4_video_5.txt | ALTA |
+| 2026-03-16 | **90% Marketing = Features (Errado)**: Todos os maus marketers defaultam para features + preço + oferta. É a coisa MENOS importante. "All this other stuff moves a lot more merchandise." | FIL-DK-509 | knowledge/external/sources/dan-kennedy/raw/mind-hijacking/transcription_mp4_video_9.txt | ALTA |
+| 2026-03-16 | **Free Never Dies**: Cada 3-5 anos, "free" é declarado morto. Depois ressuscita e funciona. Hardwired, visceral. Mesmo quando intelectualmente sabem que é truque, funciona. | FIL-DK-513 | knowledge/external/sources/dan-kennedy/raw/mind-hijacking/transcription_mp4_video_13.txt | ALTA |
+| 2026-03-16 | **New/Improved Cycle (P&G Tide)**: Fatigue com o velho supera satisfação com o que funciona. Tide muda a cada 6 semanas (aroma, embalagem, booster). Trump a cada 2-3 dias. Manter cadência de renovação mesmo sem mudar produto. | MM-DK-444 | knowledge/external/sources/dan-kennedy/raw/mind-hijacking/transcription_mp4_video_13.txt | ALTA |
+| 2026-03-16 | **Proof By Numbers Framework**: 3 tipos — Social Proof Numbers (2M clientes), Trend Numbers (87% concordam), Stretch Numbers (Forbes 500 = 'real estate investors'). Stack 5-6 números boom-boom-boom = gone. | FW-DK-371 | knowledge/external/sources/dan-kennedy/raw/mind-hijacking/transcription_mp4_video_8.txt | ALTA |
+| 2026-03-16 | **Demo Construction**: Never do a demo you don't control the outcome of. Make demo EASY, not hard (Houdini principle). Use analogia familiar, spotlight similarities, obscure differences, emotionally resonant. | FW-DK-370 | knowledge/external/sources/dan-kennedy/raw/mind-hijacking/transcription_mp4_video_6.txt | ALTA |
+| 2026-03-16 | **Flexibility = Repulsion**: Loosenning up e ficando mais flexível NÃO atrai mais pessoas. Quanto mais rígido e exclusivo, mais seguidores. Atkins dominou sendo absoluto. Pope Francis liberalizou e perdeu. | FIL-DK-527 | knowledge/external/sources/dan-kennedy/raw/mind-hijacking/transcription_mp4_video_22.txt | ALTA |
+
+### Framework: Enemy/Villain 7 Points (DK-MH)
+```
+┌─────────────────────────────────────────────────────────────────────┐
+│  ENEMY/VILLAIN CREATION — DAN KENNEDY (FW-DK-372)                  │
+├─────────────────────────────────────────────────────────────────────┤
+│                                                                     │
+│  1. Todo movimento precisa de um devil                              │
+│  2. Excitement proporcional à vivacidade do villain                 │
+│  3. Deve ser TANGÍVEL, não abstrato                                 │
+│  4. Consolidar múltiplos inimigos em um só                          │
+│  5. Foco em UM villain principal                                    │
+│  6. Falhas = culpa do villain (Get-Out-Of-Jail-Free Card)           │
+│  7. Ideal: invader externo, não insider                             │
+│                                                                     │
+│  Exemplos: Big Pharma, Médico Tradicional, Concorrente genérico     │
+│                                                                     │
+└─────────────────────────────────────────────────────────────────────┘
+```
+
+### Padrões Decisórios MH Adicionados
+
+| ID | Situação | Decisão Padrão | Ref | Confiança |
+|----|----------|----------------|-----|-----------|
+| PD-MH-CMO-001 | Posicionar produto no mercado | Criar villain claro + big idea que force purchasing automático | FW-DK-372, FW-DK-373 | ALTA |
+| PD-MH-CMO-002 | Campanha de lançamento | Stack 5-6 números sociais boom-boom-boom no creative | FW-DK-371 | ALTA |
+| PD-MH-CMO-003 | Produto perdendo engajamento | Disparar New/Improved Cycle: mudança superficial + comunicar como novo | MM-DK-444 | ALTA |
+| PD-MH-CMO-004 | Lead gen estagnada | Revisar Sound-Off Test em todos os visuais. O que diz sem áudio? | FW-DK-369 | ALTA |
+
+*Atualização: 2026-03-16 — DK Mind Hijacking Source #9 Enrichment*
+*MEMORY.md v2.4.0*

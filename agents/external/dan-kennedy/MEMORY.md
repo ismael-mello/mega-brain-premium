@@ -1,7 +1,7 @@
 # MEMORY.md — DAN KENNEDY
 
-> **Versão:** 5.0.0
-> **Criado:** 2026-03-13 | **Atualizado:** 2026-03-15
+> **Versão:** 6.0.0
+> **Criado:** 2026-03-13 | **Atualizado:** 2026-03-16
 
 ---
 
@@ -17,6 +17,8 @@
 | 6 | Opportunity Marketing Concepts | LIVE SEMINAR | 133 files (20 CDs + 10 DVDs + 10 PDFs) | ✅ COMPLETE |
 
 | 7 | Make Them Buy Now (MTBN) | MULTI-PROGRAM | 89 files (18 sub-programs) | ✅ COMPLETE |
+| 8 | Living Legend Formula (LLF) | MASTERCLASS | 4 files (Part 1, Part 2, Media Strategies, Q&A) | ✅ COMPLETE |
+| 9 | Mind Hijacking (MH) | SEMINAR | 36 videos (psychological persuasion) | ✅ COMPLETE |
 
 ---
 
@@ -79,6 +81,16 @@
 | 53 | Houdini Demonstration: use demonstrações físicas dramáticas como metáforas para benefícios intangíveis. Daily Cash in the Mailbox — abra cheques reais ao vivo. Prova física > toda claim verbal. | MM-DK-350, MM-DK-351 | MTBN-OTM-CD3 |
 | 54 | Marketing to Affluent: psicologia diferente — status signals, exclusividade, não competir em preço mas em acesso e identidade. Affluent compram para QUEM ELES SÃO, não para o que precisam. | FIL-DK-430+ | MTBN-Affluent |
 | 55 | Cash Flow Surge: táticas de monetização imediata — reativação de lista, flash sales, deadline stacking. Quando precisa de cash AGORA, não quando pode esperar 90 dias. | FW-DK-340+ | MTBN-CashFlow |
+| 56 | Trust enables ABDICATION — people don't just trust, they abdicate choice and responsibility to trusted figures. Build trust bridges and they stop thinking critically. | FIL-DK-492 | MH-video_2 |
+| 57 | Disclosure is the ultimate disarmer — DK's bankruptcy admission gave instant cred with people who'd been through hardship. "Dog whistle" heard only by those who share the experience. | FIL-DK-493, FIL-DK-494 | MH-video_3 |
+| 58 | Permission slips are an entire business model — Limbaugh and Stern are highest-paid radio people because they let people think what they're ashamed to think. | FIL-DK-495 | MH-video_2 |
+| 59 | Ritualistic recognition is baked in since childhood and EASY to trigger — Pete Fernandez "knights of round table" for chiropractors. 90% of MLM people aren't there for money — they're there for recognition. | FIL-DK-496, FIL-DK-497 | MH-video_4 |
+| 60 | Optics beat substance — what sticks is what they SEE. OJ glove beats 50 min expert testimony. Trump escalator descent. Dukakis in tank. | FIL-DK-499, FIL-DK-501 | MH-video_5 |
+| 61 | Sequential submission — start with tiny commitments, each makes the next easier. By the time they realize the pattern, they're already committed. Agreement frames build incremental yes-ladder. | FW-DK-390+ | MH-video_23-24 |
+| 62 | Cold reading creates perceived omniscience — get enough small details right and they believe you know EVERYTHING. Psychics, mentalists, and great salespeople all use this. | FW-DK-400+ | MH-video_29 |
+| 63 | Embedded commands wrapped in stories bypass conscious mind — "you might FIND YOURSELF wanting to..." delivered mid-story goes straight to subconscious. | HEUR-DK-700+ | MH-video_33 |
+| 64 | Problem creation: the most powerful position is creating the problem that only you can solve. Consultants who diagnose AND treat are the most profitable. | MM-DK-470+ | MH-video_28 |
+| 65 | Conspiracy framing works on EVERYONE — us vs them, insider knowledge, "what they don't want you to know." Creates intense loyalty and urgency. | FIL-DK-530+ | MH-video_19-20 |
 
 ---
 
@@ -112,6 +124,14 @@
 - Buying opportunities é HOBBY de prospect — dissatisfactions são hobbies, não pararam de comprar ^[FIL-DK-362, FIL-DK-363]
 - Backend economics > creative quando bate wall de market capacity — mude economics, não ad ^[FIL-DK-387, MM-DK-302]
 - Exclusividade cria urgência AUTÊNTICA — fear of competitor, pride, price elasticity, conveyed equity ^[FIL-DK-383, MM-DK-324]
+- Pensa em HIJACK, não persuasão — bypassing o conscious mind, não argumentando com ele ^[FIL-DK-492]
+- Rapport bridges ANTES de tudo — multiple bridges são melhor que um, cada ponto em comum é uma bridge ^[MM-DK-425]
+- Disclosure como arma — admitir fraqueza desativa defesas mais rápido que demonstrar força ^[FIL-DK-493]
+- Permission slips como modelo de negócio — dar permissão para pensar o proibido cria seguidor perpétuo ^[FIL-DK-495]
+- Sequential submission em tudo — micro-compromissos levam a macro-compromissos sem resistência ^[FW-DK-390+]
+- Optics beat substance SEMPRE — OJ glove > expert testimony, Trump escalator > policy speech ^[FIL-DK-499]
+- Cold reading para criar omnisciência percebida — acertar detalhes cria crença que você sabe TUDO ^[FW-DK-400+]
+- Embedded commands dentro de histórias — bypass fortress do conscious mind ^[HEUR-DK-700+]
 - Delayed sale pode ser MELHOR sale — menos remorse, mais conversão, prospect melhor preparado ^[FIL-DK-391, FIL-DK-405]
 - One-to-many = tighter architecture — sem rapport luxury, 60-90s no open, permission a cada transição ^[MM-DK-353, HEUR-DK-507]
 - Copy Platform Model — base script geral → derive versões especializadas por audiência, diferenças significativas em todo o script ^[MM-DK-349, MM-DK-352]
