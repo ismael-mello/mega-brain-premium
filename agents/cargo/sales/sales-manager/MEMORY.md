@@ -2846,3 +2846,38 @@ cada caso de sucesso ou fracasso - tudo e integrado aqui.*
 ---
 
 *Ultima atualizacao: 2026-01-13*
+
+
+---
+
+## DK REFERRAL MACHINE ENRICHMENT (2026-03-16)
+
+> **Fonte:** Dan Kennedy — The Ultimate No BS Referral Machine (Source #10)
+> **Versão:** +8 insights adicionados → v2.14.0
+> **Relevância:** Staff training, referral culture, compliance system, internal marketing
+
+### Insights RM para SALES MANAGER — Staff e Cultura de Referral
+
+| Data | Insight | ID | PATH_RAIZ | Confiança |
+|------|---------|-----|-----------|-----------|
+| 2026-03-16 | **Staff Hostage Mode**: Staff em modo de refém perpetuo é a maior ameaça interna à implementação de referral. Resolver antes de treinar. | FIL-DK-573 | knowledge/external/sources/dan-kennedy/raw/referral-machine/ | ALTA |
+| 2026-03-16 | **Staff Refers First**: Staff deve referir da própria rede primeiro — só assim motiva clientes. Quem não pratica não prega. | HEUR-DK-741 | knowledge/external/sources/dan-kennedy/raw/referral-machine/ | ALTA |
+| 2026-03-16 | **Recognize & Reward = Mais Comportamento**: Reconhecer e recompensar gera mais do comportamento. Ignorar elimina. | FIL-DK-565 | knowledge/external/sources/dan-kennedy/raw/referral-machine/ | ALTA |
+| 2026-03-16 | **Foundation Before Machine**: 4 camadas antes do sistema de referral — WOW service, WOW package, gifting, cultura interna. | MM-DK-563 | knowledge/external/sources/dan-kennedy/raw/referral-machine/ | ALTA |
+| 2026-03-16 | **Referral Culture Building**: 6 componentes para cultura visível de referrals — leaderboard, tiers, símbolos, reconhecimento público. | FW-DK-732 | knowledge/external/sources/dan-kennedy/raw/referral-machine/ | ALTA |
+| 2026-03-16 | **Staff Referral Training Cycle**: Teach → Coach → Monitor → Enforce → Reward → Punish. Ciclo completo, não treinamento único. | MET-DK-617 | knowledge/external/sources/dan-kennedy/raw/referral-machine/ | ALTA |
+| 2026-03-16 | **Referral Toolkit Deployment**: Tools + Training + Monthly Restocking. Sistema físico que staff usa no ponto de contato. | MET-DK-616 + FW-DK-729 | knowledge/external/sources/dan-kennedy/raw/referral-machine/ | ALTA |
+| 2026-03-16 | **Mindset de Implementação**: "Como posso fazer isso funcionar?" vs "não vai funcionar para mim". Aplicar ao onboarding. | FIL-DK-567 | knowledge/external/sources/dan-kennedy/raw/referral-machine/ | ALTA |
+
+### Padrões Decisórios RM Adicionados
+
+| ID | Situação | Decisão Padrão | Ref | Confiança |
+|----|----------|----------------|-----|-----------|
+| PD-RM-SM-001 | Implementar sistema de referral com equipe | Verificar se staff está em hostage mode antes de treinar. Resolver primeiro. | FIL-DK-573 | ALTA |
+| PD-RM-SM-002 | Treinar staff para referrals | Ciclo completo: Teach → Coach → Monitor → Enforce → Reward → Punish | MET-DK-617 | ALTA |
+| PD-RM-SM-003 | Staff não está motivando clientes a referir | Staff deve referir da própria rede primeiro — credibilidade vem do exemplo | HEUR-DK-741 | ALTA |
+| PD-RM-SM-004 | Medir performance de referrals do time | Criar leaderboard visível + reconhecimento público + tiers | FIL-DK-565 + FW-DK-732 | ALTA |
+| PD-RM-SM-005 | Onboarding de novo membro do time | Apresentar mindset DK: "Como faço isso funcionar?" não "por que não vai funcionar" | FIL-DK-567 | ALTA |
+
+*Atualização: 2026-03-16 — DK Referral Machine Source #10 Enrichment*
+*MEMORY.md v2.14.0*

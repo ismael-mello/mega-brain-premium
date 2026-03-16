@@ -137,13 +137,31 @@ dna_sources:
       FW: "FW-DK-364..417"
       MET: "MET-DK-258..285"
 
-total_elements: 2414
+  - source: "referral-machine"
+    person: "dan-kennedy"
+    weight: 1.0
+    path: "knowledge/external/dna/persons/dan-kennedy/DNA.yaml"
+    raiz: "knowledge/external/sources/dan-kennedy/raw/referral-machine/"
+    files: 62
+    content: "5 CDs (52 tracks) + 4 DVD sessions + 6 bonus files. Complete referral marketing system with WOW packages, gift-of-month, newsletter strategy, special reports, endorsed mailings, client events, testimonial systems."
+    elements: 65
+    co_hosts: ["Dave Dee"]
+    guest_speakers: ["Sean Buck (Newsletter Pro)", "Dr. Dustin Burleson (Orthodontist)", "Ben Glass (Attorney)", "Dr. Darryl Oph (Dentist)"]
+    context: "GKIC product — complete referral machine system covering internal marketing, referral culture, customer gifting, newsletter as referral tool, stealth referrals via information, lost customer reactivation"
+    dna_ids:
+      FIL: "FIL-DK-560..577"
+      MM: "MM-DK-560..571"
+      HEUR: "HEUR-DK-729..743"
+      FW: "FW-DK-729..738"
+      MET: "MET-DK-613..622"
+
+total_elements: 2482
 breakdown:
-  L1_PHILOSOPHIES: 389
-  L2_MENTAL_MODELS: 349
-  L3_HEURISTICS: 503
-  L4_FRAMEWORKS: 293
-  L5_METHODOLOGIES: 880
+  L1_PHILOSOPHIES: 407
+  L2_MENTAL_MODELS: 361
+  L3_HEURISTICS: 518
+  L4_FRAMEWORKS: 303
+  L5_METHODOLOGIES: 890
 
 domains:
   - copywriting
@@ -169,6 +187,13 @@ domains:
   - inner-game
   - authority-creation
   - recession-proofing
+  - referral-marketing
+  - internal-marketing
+  - customer-gifting
+  - newsletter-strategy
+  - testimonials
+  - client-events
+  - lost-customer-reactivation
   - certainty-selling
   - geographic-expansion
   - commodity-escape

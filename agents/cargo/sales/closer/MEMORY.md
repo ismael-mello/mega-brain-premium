@@ -7103,3 +7103,34 @@ Transição SDR → Closer: Depende da disposição, pode ir direto se se prepar
 
 *Atualização: 2026-03-16 — DK Mind Hijacking Source #9 Enrichment*
 *MEMORY.md v2.23.0*
+
+
+---
+
+## DK REFERRAL MACHINE ENRICHMENT (2026-03-16)
+
+> **Fonte:** Dan Kennedy — The Ultimate No BS Referral Machine (Source #10)
+> **Versão:** +6 insights adicionados → v2.23.0
+> **Relevância:** Referral selling dynamics, testimonials, pricing psychology
+
+### Insights RM para CLOSER
+
+| Data | Insight | ID | PATH_RAIZ | Confiança |
+|------|---------|-----|-----------|-----------|
+| 2026-03-16 | **Referred Customer: Less Resistance**: Leads por referral têm menos resistência de preço e vendas — fecha mais rápido, com menos objeções. | HEUR-DK-729 | knowledge/external/sources/dan-kennedy/raw/referral-machine/ | ALTA |
+| 2026-03-16 | **Satisfaction ≠ Referral**: Cliente satisfeito não refere em abundância. Satisfação é passiva — não gera venda ativa. Exige sistema, não esperança. | FIL-DK-572 | knowledge/external/sources/dan-kennedy/raw/referral-machine/ | ALTA |
+| 2026-03-16 | **Testimonials = Prova Mais Crível**: Testemunhos são o tipo de prova mais acreditável. Usar em toda apresentação de vendas. | FIL-DK-576 | knowledge/external/sources/dan-kennedy/raw/referral-machine/ | ALTA |
+| 2026-03-16 | **Write Testimonial Yourself**: Escreva o testemunho pelo cliente e peça aprovação — raramente mudam uma palavra. Elimina friction, gera prova usável. | HEUR-DK-743 | knowledge/external/sources/dan-kennedy/raw/referral-machine/ | ALTA |
+| 2026-03-16 | **Great Testimonial Framework**: 5 elementos — before/after drama + detalhes específicos + erasure de objeção + multimídia + credibilidade do autor. | FW-DK-737 | knowledge/external/sources/dan-kennedy/raw/referral-machine/ | ALTA |
+| 2026-03-16 | **Information Easier to Refer**: Referir informação (relatório, guia) é dramaticamente mais fácil que referir um prestador. Usar reports como entrada. | FIL-DK-571 | knowledge/external/sources/dan-kennedy/raw/referral-machine/ | ALTA |
+
+### Padrões Decisórios RM Adicionados
+
+| ID | Situação | Decisão Padrão | Ref | Confiança |
+|----|----------|----------------|-----|-----------|
+| PD-RM-CLOSER-001 | Prospect referenciado vs cold | Tratar diferente — menos qualifying friction, fechar mais direto | HEUR-DK-729 | ALTA |
+| PD-RM-CLOSER-002 | Precisa de prova social rápida | Usar testemunho com 5 elementos DK — escrever você mesmo, pedir aprovação | FW-DK-737 + HEUR-DK-743 | ALTA |
+| PD-RM-CLOSER-003 | Pedir referral após fechamento | Nunca pedir diretamente ao cliente — educar sobre sistema, apresentar Special Report | FIL-DK-571 | ALTA |
+
+*Atualização: 2026-03-16 — DK Referral Machine Source #10 Enrichment*
+*MEMORY.md v2.23.0*

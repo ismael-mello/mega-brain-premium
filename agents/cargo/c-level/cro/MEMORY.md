@@ -710,3 +710,39 @@ Cleaner atua em:
 
 *Atualização: 2026-03-16 — DK Mind Hijacking Source #9 Enrichment*
 *MEMORY.md v3.2.0*
+
+
+---
+
+## DK REFERRAL MACHINE ENRICHMENT (2026-03-16)
+
+> **Fonte:** Dan Kennedy — The Ultimate No BS Referral Machine (Source #10)
+> **Versão:** +9 insights adicionados → v3.3.0
+> **Relevância:** Referral ROI math, customer retention, churn economics, reactivation
+
+### Insights RM para CRO — Revenue e Retenção
+
+| Data | Insight | ID | PATH_RAIZ | Confiança |
+|------|---------|-----|-----------|-----------|
+| 2026-03-16 | **Customer Replacement Costs Double**: Perder 1 cliente exige 2 novos para compensar (LTV + aquisição). Retenção é o ROI mais alto. | FIL-DK-575 | knowledge/external/sources/dan-kennedy/raw/referral-machine/ | ALTA |
+| 2026-03-16 | **Single-Digit Referral Rate Default**: Maioria das empresas que afirma ter bons referrals mede <5%. Sistema intencional chega a 15-60%. | HEUR-DK-730 | knowledge/external/sources/dan-kennedy/raw/referral-machine/ | ALTA |
+| 2026-03-16 | **Referral ROI Math**: Cold CAC = $6k → pagar $5k por referral ainda economiza $1k + mais qualidade + velocidade de fechamento. | HEUR-DK-731 | knowledge/external/sources/dan-kennedy/raw/referral-machine/ | ALTA |
+| 2026-03-16 | **Referral Budget = Math First**: Budget de referral começa no CAC cold. Decisão financeira, não criativa. | MM-DK-564 | knowledge/external/sources/dan-kennedy/raw/referral-machine/ | ALTA |
+| 2026-03-16 | **Indifference = 68% Churn**: Preço é razão #6 de perda de cliente — indiferença é 68%. Omnipresence é anti-churn. | HEUR-DK-742 | knowledge/external/sources/dan-kennedy/raw/referral-machine/ | ALTA |
+| 2026-03-16 | **Closed Loop Retention**: Quem refere fica. Ato de referir cria compromisso psicológico (Cialdini) — referrer é mais difícil de perder. | MM-DK-561 | knowledge/external/sources/dan-kennedy/raw/referral-machine/ | ALTA |
+| 2026-03-16 | **6-Month Non-Referral Trigger**: Cliente que não referiu em 6 meses precisa de conversa direta — proativo, não passivo. | HEUR-DK-740 | knowledge/external/sources/dan-kennedy/raw/referral-machine/ | ALTA |
+| 2026-03-16 | **WOW Box ROI**: Burleson: $170 no WOW box em cliente de $6-7K → referrals 15% → 60%. Math claro. | HEUR-DK-739 | knowledge/external/sources/dan-kennedy/raw/referral-machine/ | ALTA |
+| 2026-03-16 | **Lost Customer Reactivation**: 6 razões de saída endereçadas com campanha multi-step. Mais barato que cold acquisition. | MET-DK-621 | knowledge/external/sources/dan-kennedy/raw/referral-machine/ | ALTA |
+
+### Padrões Decisórios RM Adicionados
+
+| ID | Situação | Decisão Padrão | Ref | Confiança |
+|----|----------|----------------|-----|-----------|
+| PD-RM-CRO-001 | Calcular budget de referral | CAC cold é o teto — referral < CAC cold = ROI positivo garantido | MM-DK-564 + HEUR-DK-731 | ALTA |
+| PD-RM-CRO-002 | Cliente não referiu em 6+ meses | Trigger: conversa direta. Identificar razão (5 motivos DK) e remover barreira. | HEUR-DK-740 + MM-DK-570 | ALTA |
+| PD-RM-CRO-003 | Avaliar custo de churn | Cada cliente perdido = 2 novos para compensar. Calcular antes de ignorar retenção. | FIL-DK-575 | ALTA |
+| PD-RM-CRO-004 | Reativar clientes perdidos | Campanha multi-step endereçando 6 razões de saída. Mais barato que cold. | MET-DK-621 | ALTA |
+| PD-RM-CRO-005 | Medir taxa de referral | Baseline: <5% sem sistema. Meta com sistema: 15-60%. Benchmark Burleson: $170 → 60%. | HEUR-DK-730 + HEUR-DK-739 | ALTA |
+
+*Atualização: 2026-03-16 — DK Referral Machine Source #10 Enrichment*
+*MEMORY.md v3.3.0*

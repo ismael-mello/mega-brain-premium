@@ -1,10 +1,10 @@
 # DOSSIER: DAN KENNEDY
 
-> **Version:** 1.1.0
+> **Version:** 3.0.0
 > **Created:** 2026-03-15
-> **Last Updated:** 2026-03-15
-> **Sources Processed:** 8 (CC, 7FA, 12BBS, ACC, MM, OMC, MTBN, LLF)
-> **DNA Elements:** 2135 (L1:490 L2:423 L3:635 L4:348 L5:243)
+> **Last Updated:** 2026-03-16
+> **Sources Processed:** 10 (CC, 7FA, 12BBS, ACC, MM, OMC, MTBN, LLF, MH, RM)
+> **DNA Elements:** 2482 (L1:407 L2:361 L3:518 L4:303 L5:890)
 > **DNA Path:** `knowledge/external/dna/persons/dan-kennedy/DNA.yaml`
 > **Agent Path:** `agents/external/dan-kennedy/`
 
@@ -24,7 +24,7 @@ He is blunt, irreverent, intentionally colloquial ("it don't work"), and has zer
 
 ## WHY RELEVANT TO MEGA BRAIN
 
-Dan Kennedy is the **densest knowledge source** in the Mega Brain system — 2,029 DNA elements from 8 distinct programs spanning copywriting, wealth psychology, coaching economics, direct mail, and opportunity marketing. His content forms the philosophical backbone for multiple cargo agents:
+Dan Kennedy is the **densest knowledge source** in the Mega Brain system — 2,482 DNA elements from 10 distinct programs spanning copywriting, wealth psychology, coaching economics, direct mail, opportunity marketing, psychological persuasion, and referral marketing. His content forms the philosophical backbone for multiple cargo agents:
 
 | Cargo Agent | DK Contribution | Key Areas |
 |-------------|----------------|-----------|
@@ -37,7 +37,7 @@ His content is uniquely valuable because it spans **both strategic thinking and 
 
 ---
 
-## SOURCES OVERVIEW (8 Programs)
+## SOURCES OVERVIEW (10 Programs)
 
 ### 1. The Copywriting Clinic (CC) — 12 files
 
@@ -256,6 +256,22 @@ DK treats authority not as something earned passively but as something deliberat
 | MM | Celebrity creation in your niche | FIL-DK-270 |
 | OMC | Exclusivity creates authentic urgency | FIL-DK-383 |
 
+### 10. The Ultimate No BS Referral Machine (RM) — 62 files
+
+**Focus:** Complete referral marketing system — WOW packages, gifting, newsletters, stealth referrals, events, testimonials, reactivation.
+
+**Key Contributions:**
+- Almost nothing happens automatically except bad things ^[FIL-DK-560]
+- Referral Machine = Intentional + Invested + Integrated ^[MM-DK-560]
+- Referred customers: less sales resistance + less price resistance ^[HEUR-DK-729]
+- Gift of the Month: appear random, schedule every 6 weeks ^[HEUR-DK-735]
+- Special Report of the Month: refer to INFORMATION not provider ^[FW-DK-536]
+- Burleson WOW box: $170 on $6-7K value → referrals 15% to 60% ^[HEUR-DK-739]
+- Price is reason #6 not #1 why customers leave — indifference is 68% ^[HEUR-DK-742]
+- 9-component Comprehensive Internal Marketing System ^[FW-DK-538]
+- Disney D23 as referral machine model ^[MET-DK-622]
+- Lost Customer Reactivation: 6 reasons framework ^[MET-DK-621]
+
 ---
 
 ## SIGNATURE PHRASES (Top 30)
@@ -297,9 +313,9 @@ DK treats authority not as something earned passively but as something deliberat
 
 ## DNA SUMMARY BY LAYER
 
-### L1 PHILOSOPHIES (407 elements)
+### L1 PHILOSOPHIES (389 elements)
 
-Core beliefs spanning: copy > advertising, selling > marketing, psychology > technique, self-created authority, brass balls as separator, opportunity > repair, testing mindset, pricing as identity statement, personality > corporation.
+Core beliefs spanning: copy > advertising, selling > marketing, psychology > technique, self-created authority, brass balls as separator, opportunity > repair, testing mindset, pricing as identity statement, personality > corporation, trust enables abdication, disclosure disarms, permission slips as business model.
 
 **Top philosophies by source:**
 - CC: Copy is selling, not advertising. Embarrassment means it's working. ^[FIL-DK-001→017]
@@ -308,22 +324,23 @@ Core beliefs spanning: copy > advertising, selling > marketing, psychology > tec
 - ACC: Reputation > know-how. Behavioral congruency. Be, not do. ^[FIL-DK-064→176]
 - MM: Brass balls. Self-appointment. Immunity to criticism. ^[FIL-DK-177→318]
 - OMC: Opportunity liberates price. Conscious mind is enemy. Pyramid never changes. ^[FIL-DK-319→408]
+- MH: Trust enables abdication. Disclosure is disarming. Permission slips. Optics beat substance. ^[FIL-DK-492→558]
 
-### L2 MENTAL MODELS (347 elements)
+### L2 MENTAL MODELS (349 elements)
 
-Thinking frameworks: income thermostat, prospect self-talk, toll position, strategy of attachment, 11 Agreements, Gullibility Axis, Three Drawers Toolbox, Toaster Principle, Lucy/Charlie Brown, market capacity wall, dissatisfaction gap.
+Thinking frameworks: income thermostat, prospect self-talk, toll position, strategy of attachment, 11 Agreements, Gullibility Axis, Three Drawers Toolbox, Toaster Principle, Lucy/Charlie Brown, market capacity wall, dissatisfaction gap, rapport bridges, F.O.R.M. conversation template, psyche shortlist, problem creation model.
 
-### L3 HEURISTICS (505 elements)
+### L3 HEURISTICS (503 elements)
 
-Practical rules with numbers: NSA $100K/yr from 4400 (HEUR-DK-002), returns 7% total (HEUR-DK-004), Gold Plus 460×$240 (HEUR-DK-177), 5-15-80 Rule (HEUR-DK-232), specialization 3-7x (HEUR-DK-337), 72-for-1 (HEUR-DK-338), George Douglas $52M/$10K avg (HEUR-DK-423), franchise 1400→300→1-2 (HEUR-DK-400).
+Practical rules with numbers: NSA $100K/yr from 4400 (HEUR-DK-002), returns 7% total (HEUR-DK-004), Gold Plus 460×$240 (HEUR-DK-177), 5-15-80 Rule (HEUR-DK-232), specialization 3-7x (HEUR-DK-337), 72-for-1 (HEUR-DK-338), George Douglas $52M/$10K avg (HEUR-DK-423), franchise 1400→300→1-2 (HEUR-DK-400). MH adds embedded commands, euphemism substitution rules, social proof thresholds, cold reading patterns.
 
-### L4 FRAMEWORKS (291 elements)
+### L4 FRAMEWORKS (293 elements)
 
-Structured methodologies: damaging admission, three recession responses, telecoaching architecture, ascension ladder, member retention 5 feelings, fee presentation flow, 9 core funnels, direct mail rotation, PLF sideways sales letter.
+Structured methodologies: damaging admission, three recession responses, telecoaching architecture, ascension ladder, member retention 5 feelings, fee presentation flow, 9 core funnels, direct mail rotation, PLF sideways sales letter. MH adds forced choice, mouse trapping, sequential submission, agreement frames, cold reading framework.
 
-### L5 METHODOLOGIES (204 elements)
+### L5 METHODOLOGIES (880 elements)
 
-Step-by-step processes: avatar construction, headline formula application, hit list farming, authority creation sequence, wow box prospecting, PLF prelaunch sequence, franchise structure design.
+Step-by-step processes: avatar construction, headline formula application, hit list farming, authority creation sequence, wow box prospecting, PLF prelaunch sequence, franchise structure design. MH adds demonstration methodology, conspiracy framing methodology, embedded command delivery, ritualistic recognition setup.
 
 ---
 
@@ -370,10 +387,10 @@ Step-by-step processes: avatar construction, headline formula application, hit l
 | Agent Path | `agents/external/dan-kennedy/` |
 | Dossier Path | `knowledge/external/dossiers/persons/DOSSIER-DAN-KENNEDY.md` |
 | Source Docs | SOURCE-OMC.md, SOURCE-MTBN.md (`knowledge/external/sources/dan-kennedy/`) |
-| Total Sources | 8 programs (CC + 7FA + 12BBS + ACC + MM + OMC + MTBN + LLF) |
-| Total Raw Files | 638 (12 + 152 + 6 + 203 + 39 + 133 + 89 + 4) |
-| Total DNA Elements | 2135 |
-| Extraction Period | 2026-03-13 → 2026-03-15 |
+| Total Sources | 9 programs (CC + 7FA + 12BBS + ACC + MM + OMC + MTBN + LLF + MH) |
+| Total Raw Files | 674 (12 + 152 + 6 + 203 + 39 + 133 + 89 + 4 + 36) |
+| Total DNA Elements | 2414 |
+| Extraction Period | 2026-03-13 → 2026-03-16 |
 
 ---
 
