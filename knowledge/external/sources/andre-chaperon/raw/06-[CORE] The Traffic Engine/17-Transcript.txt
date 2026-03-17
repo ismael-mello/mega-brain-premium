@@ -1,0 +1,970 @@
+
+
+André (00:00:00):
+All right.
+
+Shawn (00:00:00):
+We’ll start with some housekeeping. Welcome everybody. I appreciate having you on the call live. For those of you who are listening later to the Q&A, thanks for doing that as well. From a housekeeping perspective, just a couple of questions to answer, and a couple of observations to share.
+
+Shawn (00:00:15):
+First to everybody, thank you for the feedback. Every time I send emails, I get great feedback in response. Interestingly, the last feedback about updates to, about version two of the traffic engine, but sort of the upcoming, when I make my way from beginning to end through it. I got some feedback about whether or not people wanted a condensed version at the top, or an outline. And the split was exactly the same as the split that I’d been getting from previous commentary. So I’m going to do that. Overwhelmingly, the response was that people wanted deeper content and not to make it more focused and shorter.
+
+Shawn (00:00:56):
+It’s just funny because the emails that I get very rarely, but they seem to be very emotional and very enthusiastic about the content being too long. But when I ask the question, overwhelmingly, you all answered and said the content should be long, so it will continue to get both. And I will add some sort of an outline at the top, will interlink some things, but we’re not going to take away from the content itself.
+
+Shawn (00:01:21):
+Two questions that I want to answer quickly before we get into the deep questions. These are two questions that happen. I just get them all the time. One of those questions is, what do I do if I haven’t even started yet? First thing you do is give yourself a break, right? Who cares? It doesn’t matter if you haven’t started. It’s that whole saying, you know the saying, when’s the best time to plant a tree was 50 years ago, second best is today. I mean, if you haven’t started yet, just dive in. Don’t beat yourself up about it. It’s there, it’ll continue to be there, and it will continue to get better. So jump in wherever you are, whenever you’re ready.
+
+Shawn (00:01:58):
+Second question. What do I do if I didn’t get the result I wanted the first time? First of all, welcome to the club. None of us do. That’s why we iterate our way to a success. Some of today’s questions, and there are some questions that I’ve received by email that have this underlying theme. Like I did the thing you said, and I didn’t get the exact result I wanted. That’s the game. This is a way of seeing the world. It’s not a tactic that you just do when it works.
+
+Shawn (00:02:27):
+So first of all, all of you who did something and got a result, congratulations. Many of you are sending emails too saying that you did it and wow, you get this incredible result, and others are sending saying you did it, and you didn’t. What matters is the fact that you took action. That’s what’s ultimately going to pay dividends. That’s what’s ultimately going to create the success that you’re looking for. So if you did something, got less than the result that you wanted, didn’t get any result, whatever happened, go back, do it again, and keep doing it over and over again. That’s what all of us who do this day in and day out do. Some days we have home runs, some days we can’t get on base. So welcome. You’re now part of the club. Right, Loren?
+
+Shawn (00:03:13):
+You’ve never had that experience, Loren, of trying something and it didn’t work?
+
+Loren Pinilis (00:03:16):
+I’m just trying to think of if I tried… It’s rare when you try something and it does work the first time.
+
+Shawn (00:03:21):
+That’s right.
+
+Loren Pinilis (00:03:23):
+Oh man.
+
+Shawn (00:03:23):
+The first time, it just doesn’t. It just, that’s the name of the game, unfortunately. The worst thing actually that can happen is you can have incredible success the first time you try something, because then you don’t realize how hard it actually is. So we’ll talk about some of that today, some of the questions.
+
+Shawn (00:03:39):
+André, anything to add before we get started about today’s call, before we dive into some questions?
+
+André (00:03:45):
+No, I’m excited. Let’s do it.
+
+Shawn (00:03:49):
+All right. We’re going to start with sort of a broadly applicable question. And then we have some very, very technical, specific questions. And then a couple of people volunteered for hot seats, so we’ll do some hot seats as well.
+
+Shawn (00:04:00):
+If you have questions, go ahead and ask in the question functionality. I think that’s, there’s under Q&A, just drop your question there. Don’t feel like you have to have… It doesn’t have to be super detailed. If there’s something on your mind, ask the question, we’ll talk about it. We’ll have plenty of time today. There are 10 of you on the call, so you’ll have lots of time, and we’re in no rush.
+
+Shawn (00:04:22):
+All right. First question is from Mateo. The question said, I’m just going to read it and then we’ll go back through and answer the parts. I have a question for Shawn or Loren about what’s taught in module 6.5, Facebook offer and messaging testing framework. I’ve already done the work included in the audience and offer masterclass, and I think I’ve found an audience with specific jobs, pains, gains, et cetera. The fact is that I came up with only one theme for my ad, meaning that I’ve had some difficulties in creating two plus alternative ads to compare and test, as per the mentioned framework.
+
+Shawn (00:04:54):
+What should I do? How does this framework change in this case? Can I run a single ad trying to understand what matters most to my audience, and possibly defining different themes based on the feedback? I hope to receive from people joining my mailing list. In this case, when should I ask for the actual opt-in? Right after the Facebook ad by redirecting people straight to an opt-in page, or should I send them to a very lean multipage presale site, two to three pages, which I haven’t created yet.
+
+Shawn (00:05:19):
+Also, should I create a very lean SOS? And obviously inspired by an arm here. At the end of it ask for feedback from subscribers, or should I ask for it in the very first email people receive after they opt-in?
+
+Shawn (00:05:37):
+And then Mateo added, in the followup email, I forgot to say that I have these questions because I’d like to test and validate a new idea, which I haven’t implemented yet. For such a reason when Shawn says, if you already have a proven offer test two to three different themes to see which generates the most customers. It does not apply to my case. Actually it does.
+
+Shawn (00:05:57):
+All right, let’s go right back to the beginning. And let’s talk about the point of the audience and offer. Or I’m sorry, the Facebook offer and messaging testing framework. Facebook is, I think it’s unique, and someone I’m sure will tell me later, there’s this other platform that kind of does it. But from a sense of scale and accessibility and others, Facebook is unique in that you can write really long copy, long, long copy, and lots of different variations of that copy. So yes, you can AB test Google ads, you can AB test lots of other ads. But Facebook is unique in that you can really put almost a mini sales letter, or a mini multi page presale site, sort of the architecture of it. You can put a lot of copy in an ad to see what resonates with people. And you can also test out the high leverage components. Like the first two lines.
+
+Shawn (00:06:53):
+There’s so much potential in the Facebook ad because of the amount of copy that we can put in it and be cut, and other factors too, like people comment on it. So we can see. You can’t comment on a Google ad. It’s not part of that architecture in that environment. But you can comment on a Facebook ad. You can interact with it. And it’s a social environment that, it’s just conducive to that. So let’s go through some of these questions with that framework in mind.
+
+Shawn (00:07:23):
+First of all, he says he’s done the audience and offer masterclass, and he only has one theme for the ad. Then the work isn’t done, plain and simple. I mean, that’s the quick answer. If you sit down and you come up with only one idea, then there’s nothing really to test other than to put that idea out in the wild and see what happens. Is that really testing? I mean, maybe. It’s certainly, it’s kind of in the spirit of the offer and messaging testing framework, because rather than create an entire funnel, you’re putting an idea out in the world and you’re seeing, what happens. The first thought about this is, if you truly can only come up with one theme, then test that theme before building out all of the other architecture, because the reality is you don’t really know if that theme is going to resonate.
+
+Shawn (00:08:20):
+Then, the question is, well, what do you do after that? If you’re trying to understand what matters to your audience and you want feedback, do they need to join an email list? Not necessarily. I mean, they could, you can look at the comments, you could direct to a landing page that has comments enabled with sort of like a one page manifesto. You could do an email sign up. I mean, there’s lots that you could do, the question is what are you optimizing for? Are you hoping that this idea generates leads? And if it does, then ask for an opt-in. If you’re looking to get feedback on the ad itself, to see how many people click on the idea, to see how many people comment, what they say, how a conversation goes, then the ad is really what matters, it’s less about the opt-in.
+
+Shawn (00:09:05):
+But what’s important is that you are using… It’s the leanest possible way to present an idea to an audience that doesn’t then require all of the other infrastructure that follows. When Mateo was asked about, do I need a multi page presale site, and do I need a soap opera sequence? Do I… And this is where it gets complicated. You don’t want to do all of that work, if the idea itself hasn’t been validated. Or you want to do the least amount of that work possible in tandem with validating the idea. So I’ll have Loren speak to this in a moment too.
+
+Shawn (00:09:44):
+But one of the examples we’ll give them, we can’t share the client. It’s a large client in a very competitive space. For that client, what we’re really trying to figure out is like in an ideal setup, what we really want to be able to do is say, okay, they have an offer. It’s a front end offer. That offer could be described in 10, 15, 20, 30 different ways. And we don’t really know what’s going to resonate with the audience most.
+
+Shawn (00:10:16):
+There are, we could make it like a lot of the other offers that are out there. We could make it totally different than the offers that are out there. We have so many different ideas, and the way that they traditionally have tested those ideas is that they have to build all the infrastructure and then put it out into the world, and then most of those ideas fail. And what we are suggesting instead is, use Facebook’s ability to do long form copy and just present the idea in the ad. Direct people to a landing page that’s sort of nondescript enough that it’s not going to mess up your results. We call them plain vanilla landing pages. Ideally, if you don’t have one, do the best that you can.
+
+Shawn (00:10:59):
+But what you’re trying to figure out is the response to the idea in the ad, so that you then build the rest of the funnel with the language and with the ideas and with the themes, that most resonated with the audience based on their behavior with the ad. So, if you put up an idea and you think this is the greatest thing in the world, and nobody comments, nobody clicks on it, then the market’s told you. The idea, it doesn’t, it’s just not hitting home.
+
+Shawn (00:11:27):
+So I’ll use an example from the sample offer and sort of how I’m going to approach this. So the example offer, I think I’ve mentioned in an email for all of you who haven’t seen it, it’s a course on creativity, essentially. It’s basically me taking 20 years of banging my head against the wall, trying to figure out how to reverse engineer the creative process, having been exposed to Lord knows how many books and trainings and courses, you name it, and realizing that there actually is within all of that, a method that works. And it works consistently well for generating ideas and that’s sort of the basics of creativity.
+
+Shawn (00:12:08):
+So I could create a Facebook ad that speaks entirely to my 20 year journey, in sort of a story format, because I might think that the audience is just like me and they want to be able to reverse engineer creativity on demand, and they just want a method to follow. And I might put that out in an ad and get zero response. Does that mean the whole idea of the offer is worthless? No, it means the expression of the idea didn’t resonate. So that would be an opportunity to go back, or to simultaneously do something maybe a lot more tactical.
+
+Shawn (00:12:48):
+The theme is, 60 minutes to dependable creativity. Okay. And then it’s just, it’s a process who cares about my journey? It’s not that, it’s the outcome. And then I might discover, well, the audience really cares about the outcome, that 60 minutes to creativity. Excellent. Well, now I know that all of the assets that I build that follow, should focus much more on the 60 minutes to creativity, then my journey to finding the information, which I’m much more inclined to do. That’s a very simplistic example, but that’s how we use this testing framework to get an audience, to tell us what they’re most interested in. Get them to raise their hand and say, this is exciting based on their behavior, which is actually clicking on it and doing things.
+
+Shawn (00:13:35):
+One last thing before I hand it over to Loren. The last part where Mateo said for Shawn says, if you already have a proven offer test two to three different themes to see which generates the most outcomes. That doesn’t apply to his case. Well, it does and it doesn’t. It doesn’t matter. That was added just because, if you already have an offer, that doesn’t mean that the way you are expressing the offer is optimal. It just means you’ve presented the offer a certain way. So I could build an entire funnel. I could have an entire funnel that presents something that I’m, some value I’m contributing to the world a certain way. And I could just assume that’s the way that works best because I’ve been getting a result.
+
+Shawn (00:14:24):
+But what I don’t know is maybe two or three other different ways. There might be an entirely new way to get a better result. So I could take an existing offer and present it differently and see what happens. And then I could update the companion material, that may have a multipage presale side, or if it’s email. That’s the idea if you have an existing offer. It applies just as well if the offer doesn’t exist, if you’re doing it in advance.
+
+Shawn (00:14:51):
+The entire idea, the entire rationale behind this framework is to minimize risk. We know, and I’ve stated this over and over and over again, in the traffic engine and elsewhere, 80% of offers fail. In general, 80% of offers fail. You hear this over and over. So what we’re trying to do with a testing framework is to fail fast and fail forward, minimally. With a minimal investment of time, energy, and dollars. So instead of building out a multipage presale site, a soap opera sequence, and everything around an idea, that we have no idea if the market will respond to it. We use the ad to get a sense of what the market will respond to, then we build the infrastructure to follow.
+
+Shawn (00:15:37):
+All right, Loren, up to you now.
+
+Loren Pinilis (00:15:41):
+I think it’s hard to add too terribly much to what you just said. I would say as a brainstorming exercise, if you’re having problems coming up with additional themes, just think of your avatars, think of the various benefits that your product or service offers, think of the pain points that you’re relieving, and then combine them in different ways. Think of maybe expressing one benefit, particularly, to a particular avatar, and then comparing that to another.
+
+Loren Pinilis (00:16:15):
+Your themes don’t necessarily have to be like these huge massively overarching long copy, 800, 1000 words. It could be that there’s somewhat subtle differences between the two. But from a copy perspective, they may be subtle differences, but from how you would construct everything after that, might be pretty profound. So just maybe that helps with some different brainstorming, when you’re trying to determine next steps for what to test.
+
+Shawn (00:16:51):
+And one thing to add, for Mateo specifically, and for others who’ve used the audience and offer masterclass, right? When you use the value proposition design canvas, you are orienting yourself to three, you sort of have three things that you are focusing on; jobs, pains, and gains. And within the jobs, there are functional jobs, then there are emotional jobs, and there are social jobs, right? Or you can think of them as emotional needs, or social needs, or functional transactional needs. The example I use a lot. I teach a class on entrepreneurship at Vermont Technical College. And I use my, I think the students get unending humor from the examples I use of my own stupidity. So one of the examples I use and I may have used this on a previous call, and I apologize if I have, but I’ll just sort of add some nuance to the different types of jobs.
+
+Shawn (00:17:43):
+I drive a Toyota Tundra. From a functional perspective, if you were to evaluate the Tundra functionally, you would ask questions about miles per gallon. And maybe is it comfortable when you get from point A to point B? But it’s really, does it do, or how big is the bed of the truck? Does it get you from point A to B? Does it get the number of passengers and anything you might want to carry from point A to point B? Those are all functional needs, and it’s very easy to evaluate those things. But if you try to sell me a Tundra, because, certainly because of its gas mileage, which is horrible, I’m not going to buy the truck because of a functional need. I know it gets from point A to point B. I know there are lots of other things that will get me from point A to point B. So if I see an ad that talks about the Tundra’s functional abilities, or a competitor’s functional abilities, I don’t care. That doesn’t matter to me.
+
+Shawn (00:18:44):
+What matters to me. There’s sort of a… I’m terrified that there’s a social component, because that makes me feel bad about myself, but there’s social, emotional components about it. The Tundra I have is the TRD Pro, every dealer only gets two, they’re a lot more rare. There’s the paint colors are unique, there’s just a lot about that truck that speaks to me. Now, does that, is it right or wrong? No, but it speaks to me as a consumer. So when I see an ad, and again, this is for the specific example of, I’m not seeing ads in my Facebook feed, but it’s the same idea.
+
+Shawn (00:19:24):
+That what’s going to sell me on the Tundra, and this particular one, are not the functional things. It’s how I feel about the fact that I care about things that are not the functional things. I care about the fact that this is there aren’t, I don’t see these on the road a lot. That they’re unique in many ways, and for whatever reason that matters to me in that context. It doesn’t matter to me in most contexts, in that context, it seems to.
+
+Shawn (00:19:54):
+So when we apply this to ad testing and message testing, we have built in lots of ideas that we can test from the perspective of themes. So you can test jobs. Like just speak to the top three things, functional, social, emotional. Or speak to the top three, emotional, social, whatever it is. Write your copy, even if it’s 250 words. Who cares? Speak to those needs. Or, speak to gains, or speak to pains. Just try those three different things and you’ll get wildly different results.
+
+Shawn (00:20:29):
+From that, you start to understand that, wow, in this particular market, speaking to pains versus gains outperforms two to one. Or speaking to gains versus pains. Every audience has that distribution in it. It’s really, the testing framework allows you to find it. Okay. That’s a long question.
+
+Shawn (00:20:51):
+I hope that’s helpful Mateo. If you have followup questions, just shoot those by email, please. I don’t see Mateo on the call. So I think he might have not been planning just to listen to the recording. So feel free to follow up by email Mateo, if you have any other specific questions.
+
+Shawn (00:21:07):
+All right. Question number two. This is a long one. Loren, I sent this to you last night. This is the one from Gustavo. I’m going to read the question and then I’m going to let Loren just riff on it. Because, it’s pretty technical, there’s some fascinating stuff in here. That’s me handing off the ball. Sorry. All right. Hey Shawn and Loren, my questions are about Facebook campaigns. Number one, I’ve been running a campaign for traffic since December 2019, with low investment, $10 a day. I was selling two to five courses, $97 each with that campaign, so the ROI was awesome. When I tried the strategy we talked about a couple of weeks ago, Loren and I, the sales simply began to stop. What mistake have I made? First. I scaled the campaign for traffic objections to $ 20, the traffic objective to $20 a day doubling. Would it be possible that Facebook thought that’s strange?
+
+Shawn (00:22:08):
+Then I created a new campaign for conversions. First for leads, just after I began to have more than 50 initiate checkout events per week. I created a new campaign with the objective for initiate checkout marked by a custom conversion, the fueling the page and the checkout page. I had very good metrics, but absolutely no sales. So I stopped the two conversion campaigns, but even the first campaign is still ongoing, began to perform very badly. Now it’s been 19 days without a single sale. What could be happening?
+
+Shawn (00:22:40):
+I want to interject. There’s a lot of technical questions that Loren will answer here. I want to interject one thing, very important to understand with Facebook. And I mentioned this in one of the modules, that Zen idea that you can’t step into the same stream twice.
+
+Shawn (00:22:57):
+Google is different. Realize this is a fundamental thing that I want all of you to really understand. Google is different with search, in that the inventory of people searching renews every day. And it’s very similar, in general. So, when someone, the example I use all the time is your roof is leaking, and you look for roof repair near me, or roofing contractors near me. The intent of that day, after day, after day, pretty much the same. It’s expressed in the search intent. There’s a certain amount of volume for that day in and day out. And yes, there are fluctuations, but the volume is, and it’s a finite resource, right? When you tap into that search stream, you’re getting the same thing.
+
+Shawn (00:23:43):
+Facebook is not like that at all. Facebook exists in the context of the broader world with an audience that’s not looking for what you have to offer. So because they’re not looking, context matters way more than it matters with Google. Because the world is changing. And there been a few things I think many of you pay attention to the news, but a few things going on in 2020 so far, that are changing the nature of the dynamics. So if you are seeing weird things happening with any campaign, with any offer, anything; recognize that context matters and you are most likely in some ways affected by it. It doesn’t mean that it’s not a way to rationalize poor performance, but just be aware that with Facebook in particular, context matters a lot. And what’s going on in the world, politically, geopolitically, a global pandemic, all of those things are factors that we need to be aware of.
+
+Shawn (00:24:37):
+All right, that’s the end of my rant. Next question, Loren, do you want to do… Why don’t you do those questions first, and then we’ll jump to the second one, so it’s not quite so long.
+
+Loren Pinilis (00:24:47):
+Yeah. Yeah. That makes sense. So, first of all, he said that he made some changes and then he saw 19 days without a single sale. Anytime that I see a goose egg, I am wondering about the tech. I doubt that’s the issue here, because it was working and then it stopped, but that’s just the first thing. Double check that that’s working, that everything’s firing, that your checkout system is working. Anytime I see a zero, I just want to eliminate that.
+
+Loren Pinilis (00:25:18):
+After that, it sounds like, as I recall talking with him and as I’m reading his question, he had a $10 a day traffic campaign that was working, and working well pretty regularly, but he wanted to scale up. And now that he’s tried to scale up, we’ve done a few different things, and it’s kind of gone off the rails.
+
+Loren Pinilis (00:25:40):
+One thing you need to understand about Facebook is that particularly, it seems he’s been running this campaign for a long time. Facebook gets good at finding that low hanging fruit. It’s good news that you’re just sending traffic and you’re getting conversions that are giving you insane ROI. That’s great. But what Facebook is doing is, it’s going out and finding the low hanging fruit. It’s going out and finding the cheap traffic that it thinks is going to head over to the landing page that you’re sending traffic to. Now, that means if you’re seeing a certain ROI at $10 per day, you can’t necessarily expect to have that same ROI once you scale up to $20, $30, $50, $100 a day, or more. You pretty much would expect that you would not see the same CPA, the same cost per acquisition.
+
+Loren Pinilis (00:26:37):
+The reason is just that you’re, you’re running out of low hanging fruit for Facebook to grab. As you scale up, for that to go up, what would be expected now? Would I expect that it would just drop to zero? No. I’m wondering, one potential question would be, what about your creative? What I’ve noticed time and time again is, and this is true of campaigns that I’ve run that were doing $5 a day, accounts that were doing $5 a day, on up to accounts that were doing tens of thousands of dollars a day. A lot of times people talk about CBO and ABO, and optimizing for this, and what audience, and technical setup, but really a massive, massive mover is your creative. You can get away with a lot when your creative is amazing.
+
+Loren Pinilis (00:27:35):
+Now, if you’re showing the same creative to your audience again and again, and again, and again, you might expect to see results drop off, because they’re seeing that ad again, and again, and you’re getting ad fatigue. Now you did say, Gustavo did say that his metrics were still very good. So I would think that ad fatigue might not be the issue then.
+
+Loren Pinilis (00:27:58):
+I would be curious about what his creative looks like now. He did mention that he was getting 50 initiate checkouts per week and no sales. That’s a little strange to me because I’d be curious what his… You could look into the numbers and see when you were running that traffic campaign, what was your conversion from initiate checkout to actually completing the purchase? Going 0 for 50, makes me think that something’s going strange.
+
+Loren Pinilis (00:28:29):
+Again, I would eliminate the tech as an issue, just to make sure that’s not the issue. Make sure that every, all the pixel events are installed correctly and everything like that. That your checkout system is not, for some reason, loading really slowly. There’s so many technical issues that can cause it to have an issue. But, if that is eliminated, if that’s ruled out, I would think about your creative.
+
+Loren Pinilis (00:28:56):
+I could see a situation where you are really driving those curiosity clicks, unqualified clicks. People are engaging with your ad because they think they’re going to see something, or they’re curious about something, that your landing page is not actually congruent with. So then, you would see great engagement with the ad. Great metrics on the ad, but then it wouldn’t convert to sales. That might be something that I would investigate.
+
+Loren Pinilis (00:29:24):
+But something is a little strange going on. And that’s just the case when you kind of dig into the numbers and you see what’s happening. If you are noticing this happening across all of your campaigns, even your old traffic campaign, it would make me think that perhaps it’s a creative issue, maybe it’s the ad fatigue. And when you say your metrics are still good, I’d be curious exactly what that is. What your KPI is there. It’s worthy of a deeper look. And based on the information, I didn’t see anything that stood out. When you just see results, purchases drop off, a lot of times, because that’s the final event, you’ve got to go all the way back up the river and track it down and see where the breakdown is. So that’s kind of, I think that was most of the first question.
+
+Shawn (00:30:24):
+One thing I’ll add to this too. That is I want everybody to really, really, really internalize this. It’s a conversation that I’ve had with Loren. It’s a conversation I’ve had with several people who run a lot of Facebook traffic. It’s not obvious. I don’t want to present it like this as a secret thing, but it’s an insight that when you internalize it, it’s very powerful. So, forever ago back and everything’s back in the day. But the way we learn to optimize in digital advertising is that, the expectation is the performance is worst in the beginning. And then, you AB test, I’m thinking in particular of Google advertising, you AB test, and you get better results. Then you constantly play beat the control. Over time, you get this really high performing ad and you get great performance, but it takes a while. The expectation is initially performance will be worse. Over time, performance will get exponentially better. That’s just the mindset, the underlying mindset of paid traffic.
+
+Shawn (00:31:37):
+Facebook’s algorithm has become so good that it’s beginning to feel like, and the data is beginning to show pretty clearly, that Facebook actually is opposite. That your performance is way better in the beginning, to borrow Loren’s phrase, because Facebook can use its data and its algorithm to go find the low hanging fruit. But our underlying expectation is, that once Facebook learns and gets more data, it will get even better. But I think we’ve passed the point, it seems to me, that we’ve passed that point a while ago. It seems like a year or more ago I started to think more about this.
+
+Shawn (00:32:24):
+That if you constructed a campaign well, and your objective is clear, and you’re giving Facebook the data it needs, when that campaign starts, the first performance tends to be better than later performance. Because within a large audience, there’s only a small number, a small fraction are going to take the action that you want. They’re not actively looking. So Facebook has become really good at finding those people. And those people are a finite resource. There’s only a certain number of them in a large audience. And when they’re found first, it becomes harder and harder to find other-
+
+Shawn (00:33:03):
+… on first it becomes harder and harder to find others to convert with the same creative, the same approach, the same everything. So from a strategic perspective, I can’t overstate how important this is, that we can’t expect to create… We are looking at search, we should expect that search will behave similarly over time, and that we can improve our performance over time. That’s the nature of that type of paid traffic. Facebook, I think the opposite has become true, that we can expect far better performance in the beginning and then we need to expect that performance will begin to taper, and when it does, we need to look to the highest leverage points, which really is around the creative, it’s around the messaging, it’s around the expression of the offer. Because the people who might respond to the way you presented the offer initially, have been found. Facebook is very good at finding them. And once they’re exhausted, they’re gone, and it becomes much harder to convert that next group of people. So just keep that in mind. Any thoughts on that, Loren? Does that sync up with what your current thinking is about Facebook?
+
+Loren Pinilis (00:34:20):
+It is almost humorous how sometimes you launch something new and it does well, just because it’s new. There’s something about… Really, at the end of the day, we can talk about algorithms and we can talk about optimization events, but it’s one person selling something to another person, communicating with another person. And when they’re seeing the same message over and over and over again, all of a sudden they get a different message in their feed, sometimes they take notice. So yeah, absolutely. I have noticed that before. And that’s one of the tricky parts of creative, is it’s not necessarily finding something that works amazing now, it’s finding something that works amazing now and it’s still going to work amazing in a week or week and a half, or two weeks.
+
+Shawn (00:35:09):
+Cool. Let’s move on to the next question, also from Gustavo.
+
+Shawn (00:35:15):
+“For another course priced at $397, I created a new conversion campaign for page view. Custom conversion for everybody who’ve used the sales page with three ad sets for three different audiences,” I think. ” Video views, 75% for the last 90 days, then for Instagram and Facebook engagement for the last 90 days. And then a look-alike of 1% based on audience who viewed 95% of the videos in the last 60 days. As you can see, those audiences are highly engaged. I’m spending $6 a day for each ad set, $18 per day for that campaign.” And he sent screenshots that didn’t come through so we don’t have that data.
+
+Shawn (00:36:02):
+But I’m actually curious about one question before we continue, Loren. Would you define those audiences as highly engaged based on those criteria? So for everybody’s view, again, these audiences are people who have seen 75% of a video or videos, Instagram and Facebook engagement in the last 90 days. And a 1% look alike. Before you answer, so I don’t put you entirely on the spot, I would not be, now I’m really curious. I don’t think those are highly engaged. If someone’s seen your Instagram or Facebook in the last 90 days, who cares.
+
+Loren Pinilis (00:36:47):
+I think he was referencing that he could tell they were highly engaged by the screenshot results that you didn’t see.
+
+Shawn (00:36:55):
+That’s right. That’s why I ask you the questions.
+
+Loren Pinilis (00:36:58):
+Yeah. I would agree with you. The video, I mean you could make an argument if every single one of your videos was an hour long and someone watched 75% in the last 90 days, but that’s probably not the case. They’re worthwhile audiences, but no, I wouldn’t say they’re highly engaged. But that’s kind of a subjective criteria. When did they cross from highly engaged to engaged?
+
+Shawn (00:37:24):
+Absolutely. Yeah. Now we’ll add the big kicker here. This is the most important thing. We didn’t see the actual screenshots but he mentions that the metrics are stunning, as you can see in the attached images. Click-through rate in one ad set is more than 10%, which is outstanding. With low CPM and CPC in all ad sets. So excellent work. But here’s the kicker. But, had absolutely no sales, not even one. What am I doing wrong? So let me just throw a couple of things out. I want to throw an example out and I want to be very cautious because I don’t want to give away who it is. This was not a client, this was someone who was in a group that I was in, who was advertising something and getting abysmal results and couldn’t figure out why, and there’s a lesson in that.
+
+Shawn (00:38:10):
+So this person has a successful multimillion dollar business selling a magazine. That magazine is for a specific, and I don’t want to give this away, specific recreation in the United States. That’s broad enough so it doesn’t give it away. However, that type of recreation, people are just interested in without actually participating in it. They don’t have to go to the place to do it. They’re just interested in it. And people who have gone to the place to do it, often, they like to think about it later as a nice vacation, but they’re not going back. So they can participate by clicking on ads that are interesting about that recreation, but that doesn’t mean they’re going to actually buy anything. And this is something to be very careful about. Because we think it is such an easy mistake to make. We think that if… I’ll just use a… This is not an accurate, this is not a real example but I’ll just use this as an example. Let’s assume that we sell a product that is for German car enthusiasts. It’s very specific to certain types of German cars, and ultimately we want people to buy that product. And we think, well, what is it that people who buy German products like? Well, they like German cars. And they certainly like to see pictures of modified, beautiful German cars.
+
+Shawn (00:39:43):
+So what are we going to do on Facebook to get their attention? Let’s show them pictures of German cars, and then they can click on our ad and see a whole page with pictures of German cars. So what happens? Lots of people click. We gave them great content. And then nobody buys. Well, why didn’t they buy? Because just being interested in pictures of German cars doesn’t mean you’re going to buy stuff for a German car. It’s not the same thing. And not being clear about that in your advertising and trying to be clever, right? And I don’t mean this in a negative sense. But it is, it’s trying to be clever. You’re like, “Whoa, I may overthink this.” If you sell something for German cars, put in an ad on Facebook about what you sell for German cars, period. It’s no simpler than that. Don’t try to get super crafty with the content. And I know… It’s funny. I’m thinking about what André is thinking about right now. In other words, he’s like, I know he’s thinking, “Wait a minute, dumbass. There are lots of reasons to do this.” And he’s right. I love having a conversation with André when André’s not speaking. This is kind of fun. We’re going to get you to weigh in, in a second, André.
+
+Shawn (00:40:56):
+But there’s a fine line. What I’m not suggesting is that it’s all selling all the time. It just needs to be close enough, like contextually close enough so that it’s not, hey, everybody who’s interested in this thing, click here, and because of that I think you’re engaged so I’m going to show you something else that’s the thing I want you to buy. It has to be much closer. We have to engineer it a much better way to say I’m going to take you on this journey that is going to lead you to the value that I have for the world, but I’m not going to start so far away from that point that I’m going to lose 95% of you, 98% of you along the way, because you weren’t really interested in the thing that I’m talking about. I hope that makes sense. But André, anything to add to that from your perspective?
+
+André (00:41:56):
+So I’ve got one story. I’m not sure if it’s relevant, but I’ll share it anyway because I think there’s elements of it that could be relevant. This wasn’t a Facebook Ads example, but it’s a human example of, on one side you’ve got people seeking a solution, and then on the other side you’re selling something that’s a… My friend, Steve Gray and myself, a few years ago we decided to test out what all the fuss was about with a certain person selling solo ads. So we bought some inventory, I don’t know, maybe $2,000 worth of inventory so there was X-many clicks. And we just did that as a fun test. We wanted to see what was going to happen. And we got the clicks that the person who’s selling the inventory to us said we would. And all the numbers looked amazing.
+
+André (00:42:58):
+So just like Gustavo’s example here, I mean, there was… I don’t remember what the numbers were exactly because this was a few years ago, but all the stats, the stats was just amazing. However, nobody purchased anything. Like zero, nothing, crickets. So we changed things up and we sent an email out asking people to raise their hands for an interview so we could jump on the phone with them and just, you know, Steve and I were just curious. Everything was just perfect but there was no sales and this just confused us. We had some assumptions however.
+
+André (00:43:36):
+So we ended up speaking to a handful of these folks, and it became crystal clear very, very quickly that everyone we had spoken to, almost everyone we had spoken to were people that were waiting for government checks. I don’t know what that’s called in the U.S., but they’re unemployed. They get a pension I think sent from the government and they were trying to cobble together these checks and our timing was just out of sync for them and they didn’t have the bucks at the moment, and that was what they were communicating to us. And it was a stark reminder that having good stats is not always a proxy for anything else. It can sometimes be very misleading.
+
+André (00:44:29):
+So, that’s probably not super helpful because it still doesn’t shine a light as to why something’s not working, but, end of the day, it’s about the sales. And if you use your ad copy to prequalify people as much as possible, I think you have a far better chance of getting the right people, as opposed to going to wide and trying to attract too many people at the top end of the funnel, and then these weird things can happen. So, that’s my story.
+
+Shawn (00:45:06):
+Yeah and we see that always. In 21 years running an agency, one of the biggest complaints I’ve had about competitors and about clients is this, it’s misplaced precision. You get into meanings and the questions are what was the click-through rate on our ads? And I just sit there and I just pound my head against the wall. Like, that is so not relevant. The question that matters is, how many did you sell? Whatever it is, what’s the thing we’re doing here, and it’s shocking to me how often that’s overlooked.
+
+Shawn (00:45:39):
+So the lesson in that, and really the thought for Gustavo here is… Loren mentioned this a moment ago. You really have to go to the thing that you want to happen most, like really the point of what you’re doing. And when I say that, I guess it’s not quite that far, right? You’re optimizing for something. Outcome and experience, other things. If you’re optimizing for happy customers, well, the precursor to getting a happy customer is to get a customer, so that’s where I would start. Okay, did this ad campaign that I created get me a customer? If it is or isn’t, what’s the thing that happens before that? And if it’s, lots of people are starting the checkout process, and then, in the previous example, but they’re not checking out, well, why? What right there is happening? Is there confusing language? Or could they not see the price on the sales page and they had to add it to their cart to see the price? So, you’re distorting the numbers that way. They’re just trying to find out how much the thing cost. There’s so many things that you can pick up as you work backwards.
+
+Shawn (00:46:50):
+And when you get really close to the ad, what you start to see is the connection between the ad and the thing that happens next, can get really vague, accidentally. You can have something that in your mind as the expert, because you know all of the details, the ad to the landing page makes perfect sense in your mind, but to your prospect who doesn’t have all of that knowledge that you have, there’s an enormous disconnect. And that’s really where to look. Or there’s a logical break where the thing that you got them interested in the ad, isn’t really what you’re ultimately going to sell them or convince them of or whatever. So just be aware of that disconnect.
+
+Shawn (00:47:33):
+All right, let’s go to… Okay. So I want to finish this one. Loren, your thoughts on Gustavo’s 397 offer, three different gauged audiences, great ad performance, no sales. What would you suggest to them?
+
+Loren Pinilis (00:47:52):
+Sure. So again, anytime I see a zero, I would double-check the tech. Rule that out. He said he’s getting a 10% click-through rate, which is like, ridiculous. That’s outstanding. And this is not a note for him. This is a note really for other people. Make sure that you are double-checking, you’re not looking at your CTR (All) instead of your CTR. There are two different metrics. One is any click on the ad at all, that’s CTR (All), that’s going to be much higher than your CTR, which is clicking to the link. Ultimately, that doesn’t matter. Even if your CTR is a hundred percent, if you’re seeing zero sales, I can’t pay my mortgage bill with CTR and I don’t think you can’t either. So something needs to be fixed.
+
+Loren Pinilis (00:48:41):
+I would look at, kind of to what Shawn was saying, I would look at the conversions. Where is the breakdown in the process? I would look and say, okay, these are how many people are seeing my ad. These are how many people are clicking on it. From what Gustavo was saying he has excellent CTR. All right. So then, these are the people seeing the sales page. How many of those add to cart? How many of those end up becoming purchasers? And where is the breakdown? Now, I would suspect that… As I read and thought about it, it kind of popped out and of course, his product is $397 and he’s advertising that to people who have… One is a look-alike audience, which is cold traffic, and the other might be someone who saw a video 90 days ago. And the other one is someone that engaged with your Facebook or Instagram 90 days ago.
+
+Loren Pinilis (00:49:32):
+So not a terribly qualified traffic. A $397 sale to not terribly qualified traffic on Facebook is going to be pretty difficult, so it might not be surprising that you’re getting tons of clicks and then not getting any sales. I would imagine that you don’t have the price listed in the ad. I’m not recommending that you do that, but it would make sense. You probably have a pretty engaging ad. You probably have an ad that certainly makes people want to click judging by your high CTR. But for whatever reason, when they get there and they see a product for 397, that loses them. That was not what they were expecting.
+
+Loren Pinilis (00:50:10):
+So you could try some different retargeting. You could try to warm up the audience before dropping them with a $397 product. You may make drastic changes to your funnel and put a front end before that of maybe a $27 product or something leading up to the 397. There’s lots you can do. But ultimately, I think cold traffic and loosely engaged traffic to a 397 offer, that’s probably what I would imagine is the smoking gun.
+
+Loren Pinilis (00:50:41):
+He did have a question at the end. He said something like, “Is my Facebook data, is my pixel just bad?” Let me see the phrase. He said, “Do you think the pixel could be compromised with bad data? Would it be better to start all over?” No. Emphatically no. I mean, we want to give the pixel good data, but ultimately I think Facebook really doesn’t like it to have a bunch of new accounts. Just keep writing out what you’ve got and keep with it and Facebook will figure it out, so don’t worry.
+
+Shawn (00:51:17):
+One quick thing to add, and thank you for that, Loren, that’s great stuff. So this is not a shameless plug for sphere of influence. I mean, it’ll sound that way and I love sphere of influence. But the part of sphere of influence that spoke to me when I went through at first, I was in that first beta group, and the part that just really grabbed me by the neck was this idea that people need to have internalized a set of beliefs before they can take action. And it’s our job… If you take the sales approach, the hard sell, then you’re thinking like a prosecutor. What do I have to prove to this person to convince them that they need to buy this thing that I have? And that’s how you see most offers are presented. And the path feels that way. It almost feels like you’re being accosted by a prosecutor.
+
+Shawn (00:52:17):
+In sphere of influences, it’s pull versus push, and it’s around beliefs. So that… And the way I’ve done this, I’ve written many, many multipage presale sites and all the components for them, and the way I approach, and I’ll very quickly explain the method [inaudible 00:00:52:32], and then tie it to the Facebook advertising. I sit down and I just brainstorm. What’s everything somebody has to believe before they can accept this offer that I’m going to make, whenever I’m going to make it? And that’s usually 10, 12, 15, sometimes 20 beliefs that I then reorganize and combine. Because what I think is 15 things usually is seven or five, like main overarching beliefs. Always in there, the one that gets forgotten a lot, is that they need to believe that they can do it. So don’t forget that part. It’s easy to be like, “Oh, of course you could do it. You’ve got this and you’ve got that, but me, I can’t do it.” So that’s one of the beliefs that you have to get to.
+
+Shawn (00:53:13):
+But the real value here of this idea when we get to the context of Facebook advertising is, we have to do the work before we write the ad. And the work is sitting down and saying, “What does somebody need to believe, really accept, in order to accept this offer that I’m going to make?” So if it’s a $397 offer, that’s a pretty high bar for traffic. So you need to do one of two things, broadly speaking. One, you need to make a very compelling case about why that $397 is going to get them a result that’s well worth $397. And that could be a multi page presale site. It could be a long sales page, it could be, whatever it is. It could be an opt in with a soap opera sequence. But that’s work. $397 is real money. That’s work to do it. And then when you get to the ad, the ad needs to be congruent with the beliefs that you’re establishing and whatever follows. The ad isn’t a way to get somebody to go see the page with all the beliefs.
+
+Shawn (00:54:32):
+And that’s sort of been the foundation of digital advertising, having paid traffic for a long time, is the job of the ad is to sell the landing page, the job of the landing page is to sell the product or the opt in. And that’s not true. That is a reductionist, linear way to think about the process. The job of the ad is to set up the frame of mind that somebody needs to establish in order to accept and internalize and believe the things that they need to believe before they accept your offer. That’s it. The ad does that too. The ad is part of the system that does that from which these results emerge. So if your ad just speaks to some high level curiosity-based thing to get them to the landing page, systemically, that’s not producing the best result. And you want to go back to the ad and be willing to have far “worse” ad performance, but the people who are going to the landing page, or who are seeing what’s next, have been exposed to and accepted this initial set of beliefs.
+
+Shawn (00:55:44):
+I can’t stress that enough, that the ad is part of a larger system. It is not just a step in the journey of that system. And what we do in the ad has tremendous impact on what happens after the ad. So if you see a lot of great ad performance, and then poor performance after that, look at the ad in the context of everything that you’re trying to do and I think it’s going to just stand out at you immediately. Like, wow. I tried to get the ad to get people to the landing page. I didn’t try to get the ad to sell the offer, ultimately, and whatever part of that there is. So I can’t stress enough how important it is to see your ad as part of a holistic system, not a component of a linear step-by-step funnel.
+
+Loren Pinilis (00:56:38):
+And one more quick tactical point I’ll add in real quick, is pay attention to the ratio between your CTR (All) and your CTR. If your CTR (All), say, for instance is 5% and your CTR is 4%, if they’re very close, what that tells you is that people are not clicking on See More and reading your ad. In that case, you may be setting context in your ad. You may be establishing those beliefs in your ad, but no one’s reading it. In that case, what you need to do is look at your image and look at the copy that appears before they click See More, make sure that that either establishes the context that you want to establish and incentivizes them to click on See More.
+
+Shawn (00:57:20):
+Cool. André, anything to throw in here now that I’m talking about your creation?
+
+André (00:57:28):
+I’m just going to keep bleating on about the stuff that I’ve always bleated on about and that’s about the audience. Not all customers are created equal, not all prospects are created equal. And because of how Facebook allows people to do targeting and reach groups of people, it’s probably easy to, and I’m no Facebook pro so that’s why I’m saying it’s probably easy to attract an audience you may think is relevant for your offer, but it could be very different.
+
+André (00:58:03):
+And one of the things I’m doing currently, is I’m researching… I’m about to purchase, but everything’s out of stock at the moment, but I’m going to be building a racing rig. Now there’s a world of difference between somebody that wants to dip their toe in this idea of racing simulation and bought a little cheap version because they aren’t quite sure what they wanted for their kid, and there’s a budget and they don’t want to spend more than a certain amount, and someone who is a “professional” sim racer, whereas they came from a completely different league of sim racing. So, everything from the components upwards, everything is different for those different categories of people. And just because you think you’ve attracted some group of sim racers, well that doesn’t, I mean, you could have the completely incorrect audience and nothing you say is going to work because it’s a complete disconnect. So again, it comes back down to know your audience, and then also prequalify as much as you can. It’s not the ad. The ads not at all, you know, all your… If you’re a professional sim racer then, and then off you go and then you can disqualify people pretty quickly. But yeah, I think that’s it really.
+
+Shawn (00:59:34):
+Yeah that’s a great example of this phenomenon too. We didn’t… For everyone who wonder, we didn’t plan this, so it’s interesting. But my best friend of, I don’t know, 34, 35 years, has an Xbox. All he does are driving simulation stuff. He bought the high-end pedals and steering wheel and the rack. He’s got the big screen. But the difference between him and what André is talking about, just from a pricing perspective, is orders of magnitude. 15, 16, 17 times more investment in the really high-end world here. So, if someone were to target my… From the outside, my friend looks like he belongs in that group. It’s like, wow. I mean, if you look at it, like, wait, he does the thing. No he doesn’t. Not at all. He’s never going to spend 16, $17,000 on a high-end gaming rig. It’s not even a consideration. There is no ad, no offer, no chain of beliefs that’s ever going to get him there. That’s not the level of engagement that he’s at.
+
+Shawn (01:00:46):
+So that’s kind of a microcosm of this phenomenon, to think, well people who are interested in this thing that I do might be, a lot of them started this way and it’s like, that’s not the same. It looks like the same audience, but it’s not the same audience. And just because from an external view there’s this little bit of what looks like overlap, don’t mistake that for being the same audience. And it’s so common for that to happen. And the only way to find this out really is to experiment. So just be aware of that. All right, let’s jump into-
+
+André (01:01:24):
+I’ll add one extra nuance because you mentioned Xbox. Initially, when I was doing my research, I wasn’t fully immersed in this world, but the more that I understood and I got into this world, all the nuances presented themselves to me in crystal HD clarity, as to what I need to get if I want to take this seriously. And any person that’s considering a PlayStation or an Xbox, that’s the wrong category of person, because you can’t get to the level of simulation with a $300 X-Box compared to a $10, 000 PC that’s got completely different components inside it. So again, you really need to understand an audience and go so deep that you become part of that audience. I mean, I’m obviously this audience, so that’s I’ve got to where I needed to get to. But I didn’t know what I knew, so I didn’t know what I didn’t know until I got immersed in this world. And now I know infinitely more, even though I haven’t purchased anything yet because I can’t. But yes, the more you get immersed in a certain thing, from the perspective of a customer, not from the perspective of a marketer, things become very different and in many cases you get all the clarity you ever needed.
+
+Shawn (01:03:08):
+All right. Let’s move on to the third question. This is from Robin. This is pretty detailed too so I will go… Loren, you saw this in advance. Do you want to do these one at a time? That seems to make the most sense. We’ll go one, two and three?
+
+Loren Pinilis (01:03:24):
+Sure.
+
+Shawn (01:03:24):
+All right.
+
+Loren Pinilis (01:03:24):
+Yeah, that works.
+
+Shawn (01:03:25):
+I’ll be the narrator. Okay, so Robin’s first question. “When would you use CBO campaign budget optimization? A couple of days ago I threw caution to the wind and launched a campaign with seven look-alike audiences in it. The combined estimated audience size was 780,000 people.” And he’s putting 70 pounds a day, I think. “I have optimized for purchase. It is for a product that has been a proven seller using Facebook before. I’m just trying to make more sales for it, as it seems to be running out of audiences and can’t figure out how to scale. Each look-alike is its own separate ad set. I have CBO turned off. Facebook is telling me ad sets aren’t generating enough optimization events to exit the learning phase because their budgets may be too low for their setups. As a result, the delivery system can’t optimize performance to spend your budget most effectively. Consider increasing each ad set’s budget to help improve performance. What would you do in this shit scenario? Should I put them all into one ad set and turn on CBO? How does this get played out?” Loren, thoughts on this?
+
+Loren Pinilis (01:04:30):
+So the issue that, running into, is learning. And this is a very common. I think we had a few questions actually about this, related to this. The way that Facebook operates is they tell you, “Hey, you should get 50 conversions a week for whatever optimizing event and you’re optimizing for. Get 50 conversions a week per ad set. That’s per ad set. So, if you’re doing seven ad sets, Facebook likes to see 50 optimization events, 50 conversions per week in each of those seven ad sets. If you don’t get that, after some point… When you initially launch an ad, Facebook will give it a little indication that says it’s learning. And it’ll count down and it’ll say, “Hey, you’ve got this many conversions out of 50 that you need to get.” And at some point, Facebook will decide, “All right, we’re going to declare this Learning Limited. We’re going to say that we’re not getting enough conversions.” I’ve never really figured out, I don’t think anyone has because I’ve been talking to people about this, when Facebook decides to give you that Learning Limited indication, but does that matter? Sometimes it does, and sometimes it doesn’t. Sometimes I’ve seen Learning Limited crop up and performance has just fallen off a cliff. Other times, I’ve seen that Learning Limited message pop up and performance is fine and I just ignore it and everything continues, and then it’s not an issue.
+
+Loren Pinilis (01:06:03):
+`… and everything continues and then it’s not an issue. So just seeing that message alone is not necessarily an indication that there’s a problem, it’s an indication that there might be a problem. As long as you’re hitting your key performance indicators, your KPIs, and as long as you’re happy with how your ads are performing, then just keep going. As far as what to do with these seven ad sets that you’ve got, do you use CBO? Do you combine them into one ad set?
+
+Loren Pinilis (01:06:31):
+CBO, the way that works is if you have multiple ad sets, like seven ad sets within a campaign and you’re using CBO, Facebook will apportion the budget between those ad sets how it feels appropriate. You can say, “All right, I want to spend a hundred dollars a day for this campaign,” and then Facebook is going to decide on any given day how much each of those seven ad sets is going to get from that hundred dollars. And it’s going to apportion out the budget to give you theoretically the maximum results.
+
+Loren Pinilis (01:07:02):
+Otherwise, if you set a ad set budget, you’re telling Facebook, “All right, in this ad set I want you to spend $10. In this one, I want you to spend 20. In this one I want you to spend $10.” So you mentioned putting all of the audiences into one ad set and turning on CBO. See there’s no reason to use CBO if you have one ad set. The whole benefit of CBO is if you have multiple ad sets and Facebook can apportion budgets between them. If you’re going to put all the audiences into one ad set you can just go with ad set budget, CBO, it’s all the same thing.
+
+Loren Pinilis (01:07:33):
+Now would you put them all into one ad set? Because you’ve got seven different audiences, you could put all those seven audiences into one ad set. What I would do is actually since you’ve run this maybe you’ve got a little data. Maybe you have enough spend and enough impressions to see the performance among these seven ad sets. Maybe five of them did really well and two of them absolutely did horribly. In that case, I would go and take the winners and put those into one ad set and put all of your budget into that.
+
+Loren Pinilis (01:08:04):
+That would give Facebook more to work with because instead of all of these different pools that Facebook has to go look in, you’re just saying, “All right everyone, we’re going to put you into one big pool and then Facebook can just go crazy there.” It also makes your budget easier, your learning easier, because all of your budget is just going for that one ad set. That’s what I would recommend doing for that particular case.
+
+Shawn (01:08:31):
+This is a good time to mention too… This is a mistake I see a lot, which is the assumption that what you’re optimizing for is magic. It’s not magic, it’s data. And the only way that you… The point of specifying what you’re optimizing for is to tell Facebook the thing that matters. But that’s the first part of the equation. You then need to, yourself, make that happen or Facebook doesn’t get enough data.
+
+Shawn (01:09:04):
+Loren and I both work with a client where, and there’s been this back and forth with one member of the team asking us to optimize for conversions. Loren knows which one I’m talking about and it makes me insane. And I’ve had the conversation about three times now. And the rationale is, “Well, we want people to convert, so why wouldn’t we optimize for conversions?” Makes sense. The problem is this particular client isn’t going to get enough conversions that it’s going to give Facebook enough data to act on anything.
+
+Shawn (01:09:45):
+There’s a relationship between you the advertiser and Facebook, the advertising platform. Simply saying what you want to optimize for doesn’t tell Facebook to go do something magical on its end. It tells Facebook the thing that you have determined that matters, which Facebook is then going to watch and then use that to inform the decisions it makes later. And if we don’t give Facebook much data, then Facebook can’t do its job. So the algorithm can’t do its job.
+
+Shawn (01:10:17):
+So one way this goes haywire is if we have a budget that we spread out over lots of things. So each of those things gets a little bit, which means none of those things produces a strong signal. Which means we don’t give Facebook enough data that it can use its algorithm on our behalf. One thing I would recommend in general to think about is if you want to test seven things with a certain amount of budget, I would be more inclined to test two or three and get a result faster. Produce quicker results faster and see what happens.
+
+Shawn (01:10:55):
+But when we divide our budget over lots of different tests, we weaken the signal that each of those tests produce, in general. And then that signal, when it’s weak gives us suboptimal results. That’s just a thought to add here. All right. And to be clear Robin, I just saw your chat, I’m not sure that’s specific to your example. That is just something I’m thinking about out loud. It’s probably the most common mistake… If I had to pick one thing that in 20 plus years that has sabotaged more campaigns, more paid traffic campaigns…
+
+Shawn (01:11:38):
+Be aware a lot of that 20 years is heavily weighted toward Google just because that’s been around much longer. But the thing that most often sabotages campaigns is when we weaken the positive signal, we dilute it. And we do it for the right reasons, it makes perfect sense. “Why just limit myself to two things? I might not get those two things right. If I try 20 I can see where the signal is.”
+
+Shawn (01:12:06):
+Maybe, but somewhere there’s a magic sort of optimal amount to test based on the budget. If you have $5,000 a day to test, yeah, then test 20 things, or 25, whatever it is. But if you have 20, 40, 50, then it’s always better to narrow the scope, get a result, act on the result, initiate a new test and cycle that process really fast. 72 hours versus five weeks or whatever, especially on Facebook. Because when we get back to that earlier point, Facebook is a never ending stream that we never step into the same one twice.
+
+Shawn (01:12:44):
+So what we think is a result today… Or let’s just say for the sake of [inaudible 01:12:50] we run a test that runs over the course of a month and we have a winner. We think, “Ah, here’s my control.” Really? That control happened in a context and that context is now changing. In the United States for example, we’re entering a competitive volatile election season. Anyone who thinks that advertising in the United States in October of this year is going to be the same as advertising in the United States next October or next February, whatever it is, it’s crazy. It’s not the same world.
+
+Shawn (01:13:26):
+And that [inaudible 01:13:27] that social environment. So that’s sort of a tangent on testing on Facebook, but just narrow your focus as much as possible, whenever possible. Know the result you’re trying to get. Get that result, be willing to declare a winner and then do your next test and just keep giving data and keep getting and acting on data. It’s a little different with Facebook because Facebook is optimizing on your behalf, but try to get the strong signal as fast as you can so that Facebook can run with that strong signal. That’s I think the better idea here.
+
+Shawn (01:13:59):
+All right. Second question also from Robin. When targeting interests, what do you recommend the audience size to be when targeting the UK? I’ve heard everything from 1 to 2 million down to keep each campaign at around 100,000. There’s a second part of this question but let’s answer that one first. Loren, ideal audience size. No one’s ever asked you [inaudible 01:14:20] that’s about Facebook before I’m sure. Ideal audience size?
+
+Loren Pinilis (01:14:22):
+I would always stick in whatever country you’re operating in, I think a 1% Lookalike is a safe place to start with. For most of the big countries, the UK, Australia, U.S., Canada. So I don’t even know what the size of a 1% Lookalike Audience is in the UK but I think that’s a good place to start. You can probably still do fine with much smaller and much larger. It’s just seemed to kind of be a trend that Facebook has… Oh, 400,000, okay, is the size of a 1% Lookalike she says.
+
+Loren Pinilis (01:15:03):
+Anyway, I tend to notice that Facebook has gotten better and better with variable audience sizes, where I’ve done really small ones and I’ve done some pretty big ones and it’s done all right. I haven’t really noticed a drastic difference veering away from that 1% look alike. The exception is if you’re just starting with a brand new account, brand new pixel, brand new product, everything, you want to quote unquote train your pixel, then I might err on the side of being much smaller and much more qualified.
+
+Shawn (01:15:39):
+Yeah. To put this in perspective, we had a client… This may have been before your time Loren. We had a client that had an audience of 18,000 people and had a very successful business. That was her whole Facebook audience, what she did was very specialized. So I think the audience size question can be a bit of a red herring. It’s really who’s in the audience? What factors do they have that are more likely to increase the probability that they’re interested in your and what you have to offer?
+
+Shawn (01:16:12):
+Now Robin, I know you were having a broadly applicable interest, so maybe not as relevant for you. The next part of this question that I think is really fascinating to talk about. I can’t wait to hear your perspective on this Loren, which is Robin mentioned he’s currently testing interest layering. So just do a quick riff on interest layering, just curious where that leads.
+
+Loren Pinilis (01:16:36):
+Oh, so Robin’s a he. Well, I apologize. My name is Loren so believe me I feel your pain. But anyway, I think I said Robin was a she previously, so I apologize for that. But interest layering. I think it’s great. I think it’s definitely great. I particularly like layering when it is done intelligently. When for instance, a client we’re working with, you target maybe the type of person and then the situation they’re in. The who they are and what they’re dealing with. For some difficult situations, it’s probably needed.
+
+Loren Pinilis (01:17:17):
+For some, you may not need it. If you’re targeting something pretty simple that’s just an open shut case for this particular interest targeting, you may not need to get fancy with it. But interest layering is very good if it is done intelligently and if it’s called for. And one quick point, I do want to add when we talk about audience size.
+
+Loren Pinilis (01:17:42):
+Even though smaller audiences, you may notice the same immediate performance and they may work very well, you probably will have to refresh your creative a lot more. The larger your audience, particularly if it’s a broadly appealing product, the larger your audience, the longer that you can go with the same creative.
+
+Shawn (01:18:05):
+A couple thoughts on interest layering too. I like interest layering. In one of the examples Loren mentioned context in person. Classic example is say women, whatever, a certain age. And then the context is they just became engaged. They just changed their status on Facebook to engaged, right? Well now you know a lot about that person.
+
+Shawn (01:18:28):
+So if you have a wedding venue or you sell something related to wedding services, the fact that all of your customers are young women… If you sell specifically to brides, the fact that all of your customers are women between 25 and 30 is interesting, it’s necessary but it’s not sufficient. But when you know that they just became engaged, that extra layer of information, that’s wildly valuable.
+
+Shawn (01:18:53):
+So it’s not always that easy of course. The way I’ve thought about layering in the past and we’ve done some projects this way, where let’s just for the sake of argument say that you interview some of your customers or whatever or you’ve had conversations with them and you notice that many of your customers are interested in Mindvalley, personal development. You think, “Oh, that’s interesting.’ And then you target Mindvalley.
+
+Shawn (01:19:23):
+Well, you sort of got one layer of information about that audience, but then you’ve talked to a few others and you notice someone mentions, “Oh, they heard this podcast.” And it was really interesting and it was a Tim Ferriss podcast. And you think, “Okay, well, that’s interesting.” I wonder what the difference would be in an audience that is interested in Mindvalley or interested in Tim Ferriss versus an audience that’s interested in both, much smaller audience that’s interested in both.
+
+Shawn (01:19:58):
+Now you have more information about that person on the other side of the screen who you’re speaking to. And yes you can overdo this. Ask me how I know? Because I’ve done this in the past where we’ve had too many layers of things to get really focused, where you know the person’s interested in Dave Asprey and Tim Ferriss, in Mindvalley. And you put this picture in your mind of the person, but there just isn’t enough there.
+
+Shawn (01:20:29):
+And there are ways to approach layering that are fascinating. You can do one layer is kind of the person and another layer is the geography and then you can layer on a context. There aren’t right answers, there are right answers for you. So you need to look at your product and dissect the ideal customer. Think about who is she demographically? Who is she psychographically? And where are the inflection points?
+
+Shawn (01:21:08):
+Is it really like a combination of a life event and the person herself? They just became engaged and they’re a young woman. Like that… Okay. We’ve done this in the past with colleges where we know… And there’s sort of two audiences for colleges. They’re 16 to 17- year-olds who are thinking about college and then there are the parents of 16 or 17-year-olds who are thinking about colleges.
+
+Shawn (01:21:36):
+So you layer on different things together to, and I think I refer to this in the traffic engine, I refer to it internally as you’re baking the cake. What are the characteristics that would go into that? And what parts are independent, right? What tends to happen is everything gets thrown in. And when you throw everything into an audience, what you’re doing is you’re saying any of these will trigger the ad.
+
+Shawn (01:22:02):
+When you use layering, you’re saying each of these together, they all need to be present. And you can do that individually, this and this and this. Or you can do it, anything from this group. Let’s say your ideal audience was interested in personal development and fitness. It was just those two. So you can do in this category, they need to be interested in one of these personal development categories, Mindvalley, Tim Ferriss, whatever it is and they need to be interested in, there’s a set of a fitness characteristics. Something like CrossFit needs to be in there.
+
+Shawn (01:22:40):
+It doesn’t have to be all of those things, but it’s one from each group needs to be present. That tells you a lot about the person you’re speaking to. That’s really the idea here is you’re just getting better information, but not getting so narrow that there are nine people and you hope all nine of them buy, right? All right. Let’s move on to… All right. I think we have two hot seat candidates-
+
+Loren Pinilis (01:23:05):
+Did you want to do the third part of Robin’s question?
+
+Shawn (01:23:09):
+Oh hey, what a great idea. That’s why Loren’s running the show. Sure Loren, let’s try doing all three questions. All right. Question number three from Robin. On bidding. When is it advisable to choose from the following? This is taken from the AdEspresso dashboard.
+
+Shawn (01:23:29):
+Lowest cost to get the most link clicks from your budget. Lowest cost with bid cap. So insert a target price you want to pay for each action. And target cost, maintain a stable average cost per result for each ad set as you raise your budget, set the average cost per result. It seems everyone recommends lowest costs, but in what scenarios would you use the other options?
+
+Loren Pinilis (01:23:52):
+So lowest cost is the default option. If you don’t go in there and choose another option, you’re going to do lowest cost. Lowest cost is probably what 99% of advertisers will exclusively use all the time and almost everyone uses for the most part. I wouldn’t worry about really manual bidding situations, unless you… There’s two instances where I think you could play with it.
+
+Loren Pinilis (01:24:22):
+One is if you are spending a fair amount, I mean, I’m talking 1,000, 2,000, 3,000 a day or more, then you might be able to have some tactical manual bidding strategies that you use. Sometimes people do that as a supplement to their lowest cost bidding. Other people may just go totally towards manual bidding. Manual bidding is kind of in vogue for a lot of the e-comm people who are doing high spends.
+
+Loren Pinilis (01:24:54):
+But the only real time I would recommend it would be except for if you have a lot of spend and you just want to maybe do some tactical stuff that it would kind of be beyond the scope of what we could talk about here in this timeframe. But if for some reason you’re not getting delivery which occasionally might happen. An ad set or ads just will not be delivered, you won’t be getting your full amount of spend. In that time you may find it advantageous to go in there, to take your bid cap and adjust that up so that you’re once again getting delivery. But for the most part, I really wouldn’t pay too much attention… the average Facebook advertisers shouldn’t pay too much attention to manual bidding. It kind of gets distracting because it’s one of those sexy tactics that people think is really going to help them out. But I mean I… Gosh, probably 99.9% of the stuff I do is lowest cost.
+
+Shawn (01:25:52):
+Pretty sure there aren’t any sexy tactics that we do Loren just so you know. Just throwing that out there. All right. Okay. That was all of Robin’s questions. We have two hot seats. We’ll do Valentina, you’ll be up first. But before we do that, I want to look at some of the Q&A questions here, so… All right. Francis, I think we answered your question about layering. If we didn’t, I’m going to go ahead and… Okay, I’m going to go ahead and assume we did. If not, just put in the chat.
+
+Shawn (01:26:27):
+The question you asked in the interface here is, “Can you elaborate on the layering part where you said who they are and what their situation…” I think I did that. Okay, good. Thank you. All right, so let’s go through… There are two questions in here. Loren, I think this is going to be for you. So what happens when the CTA click… I think he means CTR? CTR click is less than one but the [CTR (All) 00:20:52] complies with the rule of multiplying two or three, even four times. How can we interpret that? Loren, thoughts on that? Understand the question?
+
+Loren Pinilis (01:27:03):
+Yes. My internet messed up on me for a minute, so hopefully I’ll be all right. But CTR is less than one, but CTR (All) is a good ratio. That just means that… I mean the good news is that you are properly setting context with your image and with your initial intro copy so that people are incentivized to click on see more and read. The bad news is it’s just not an engaging ad that is really attracting good clicks.
+
+Loren Pinilis (01:27:31):
+That may not be a problem. That may be desired if you really want high quality, highly qualified traffic and your conversions are going where you want it to be. If they’re not though, then you can maybe just try some different creative that will be more engaging.
+
+Shawn (01:27:50):
+So Loren just said something that is enormously important, just ridiculously important. Which is appropriately setting context with your image and ad. Again, this is one of those things I can’t overstate how important this is. We have a client… and it was such a funny situation where we had this client, very sophisticated client and Loren wrote really good ad copy. I think this was even… I don’t know if this was when it was tested, I can’t remember exactly the way this worked out.
+
+Shawn (01:28:25):
+But it got [inaudible 00:22:28]… So we went to the agency, we were not the agency of record, there was another agency. We have a consulting role and we created content for this agency. So the agency took this ad copy. And it makes sense how he did this, but that’s not at all how they advertise. They advertise 100% curiosity only. Old school advertising. So somebody on the team’s like, “Oh, we need an image. What should we use? Well, let’s just use our best performing image from other ads and we’ll put it on here. Really to kind of do these guys a favor.”
+
+Shawn (01:29:06):
+Well, their best performing image ad, or their best performing image was all about curiosity. So they completely set the wrong context with the ad that Loren had written. And it still tested very well, but it completely undermined the test because the context that was set by that image did not match the context of the ad at all. And it’s not just the images where this happens, this is sort of a meta lesson. And we talked about this earlier. And it’s a great question to ask yourself. What context am I setting with this ad?
+
+Shawn (01:29:43):
+Is it the context that’s going drive the results that I want? If the context is, “Hey, bright and shiny curiosity, click here,” and then nobody buys, well, right. You got them to click on the ad because it was curiosity and they satisfied their curiosity. And that’s an extreme example of course. But it’s the nuance where this will really help you. And you have to look at it for some distance, really look at your ads. “What if when I look at this ad, what context am I setting up for what comes next?”
+
+Shawn (01:30:17):
+“Have I started telling a story that I continue telling later? Have I agitated a problem I suspect my audience has maybe with some dialogue or a question or something? And once agitated, I’m going to take them and show them sort of conventional wisdom. So this is how most people deal with this agitation, but I have this different way and it’s better for this reason.” Like that’s context. Or, “Did I just get anything to get them to click on the damn ad so that I could then give them my sales message or my next message.”
+
+Shawn (01:30:50):
+And that context, that’s what drives ad performance. And when you see wonky performance. When these weird ratios with CTR click and CTR (All) that looks like it should be right but you’re not getting the result that you want. Or whatever the weirdness is, in my experience it’s almost always a disconnect in that context. And the metrics make it obvious. And the real obvious metrics are when you’re getting a lot of engagement with an ad and nobody’s buying. Then there’s some contextual disconnect.
+
+Shawn (01:31:26):
+Sometimes that context is you’ve just asked too much. You’ve had one minor engagement with this person, they’ve done something in a long period of time. And then you’re saying, “Hey, I’ve got this thing for 400 bucks.” That’s not how life works in general. Some markets it does. Some markets pay $400, get rich quick, the biz op stuff. $400 to make a thousand times tomorrow… Sure. That market responds to, that market spends a lot of money. But most markets don’t spend $400 after a minor engagement. That context is important to understand.
+
+Shawn (01:32:04):
+All right, next question. A second part, I believe to the first question. After testing the offer in Facebook, I want to scale and the first problem that appears to me in two, three days is that the ad set will not pass the learning stage. How can I solve this? Loren?
+
+Loren Pinilis (01:32:20):
+So, first of all is that even a problem? As I was saying in a previous question, sometimes you hit that Learning Limited, sometimes you hit your limitations of learning and you will notice performance drop off, you’ll notice that you have a downturn. Sometimes though performance goes fine. And it’s just I have yet to figure out the rhyme or reason why it works that way. But Learning Limited is not necessarily a siren, it’s more of a notice to pay attention, but not necessarily an emergency.
+
+Loren Pinilis (01:32:57):
+As far as how to get out of that, unfortunately there’s not a real easy answer. One is just to spend more per day so that you’re getting the necessary optimizing events to get you out of learning. The other is to change your optimizing event. If you were optimizing for purchase, you could optimize for add-to-cart or sales page visits or something further down the funnel.
+
+Loren Pinilis (01:33:22):
+But what I would do, what I would recommend is just stay the course, even if it says Learning Limited, stay the course and see if performance is okay. As long as you’re meeting your KPIs and you’re happy with it, just keep going and eventually you’ll get out of the Learning Limited.
+
+Shawn (01:33:40):
+All right, so we have two hot seats next. I want… Valentina, we’re going to start with you. Before we dive into the hot seat, I want to cover, I want to give everyone kind of a quick overview, I’m going to skim through the information that you sent, because I think it’s very important and then might get into a couple of things at the end of it because you asked some really interesting questions at the end and then we’ll go back and we’ll get you live and we’ll just have some fun.
+
+Shawn (01:34:09):
+So here’s the overview from Valentina. My main question is about what to start testing first, how to gather meaningful data when there are many possibilities and of course with the additional complication of having a low budget. This is such a broadly useful topic. This is the question we get so much and the difficulty we get so much. Which is I understand that testing is valuable, I believe that I can use it to my benefit. There are so many ways I could do things and I’m not spending a fortune every day. What do I do?
+
+Shawn (01:34:50):
+That is such a broadly applicable question so thank you for the question. Some background here, my business is a coaching business, specializes in anxiety and consciousness. Coaching is unique in the process it uses, she combines three therapeutical frameworks with guided visualizations. If it’s important you can speak to the coaching business in more detail.
+
+Shawn (01:35:21):
+So far she has two main products. One is a coaching package at a thousand dollars which is five sessions, a few other details. There’s a membership, which is a hundred dollars a month. So very… Let me point out there just quickly, two very different business models, two very different price points for the two initial products. I also have two products I use… And she mentioned that she loves that work, under the two main products, the membership and coaching.
+
+Shawn (01:35:46):
+She also has two products she uses to provide value and get people to know her. One is a one hour workshop on anxiety and also a few creative visualizations. I don’t know if these are paid products, I’m assuming they are. So we might have a relationship here where we have a front-end product and then… we might have the two products mentioned that could be front-end and the others could be back-end. So there is some relationship here already beginning to establish itself.
+
+Shawn (01:36:17):
+So far I have found my people by being in two different communities. They usually see a recorded anxiety workshop and join our weekly free call which is inside one of our communities. It works, but it’s time consuming. Mostly she doesn’t get enough people. And so this is what she’s done so far. Two tests… First of all, congratulations for taking action, that’s huge. So two tests, live workshop on anxiety, long copy ad, four different audiences, she’s got some numbers around that. Lots of people registered, nobody showed up.
+
+Shawn (01:36:51):
+This is very common. This is sadly common. It’s common for virtually everything where somebody can commit and then not have to do the thing. So lots of people sign up for workshops, lots of people sign up for webinars, lots of people sign up for phone consultation strategy calls, and enormous percentages of them do not show up. So just so you know, it is not you, this is an issue that is widespread. It’s very easy to put your name in and fill something out.
+
+Shawn (01:37:25):
+It’s a lot different… and it feels good. You get a little dopamine hit. “Hey I did that thing, I’m going to finally take action.” But then the next thing is a little bit harder. Four of the 20 people registered wrote and asked for the replay. The question of course, the numbers seem okay but the numbers aren’t telling the full story. I have many more ideas on what I potentially could do instead: ads straight to the recorded workshop, ad to a four part video series [inaudible 01:37:53] workshop parts. Ad to a seven day challenge for more direct contact, ad to live workshop on a different topic, these are just a few.
+
+Shawn (01:38:00):
+Main question is how do I know where to start? Which one has more chances to work? If I should test by offering the main products directly or offer the free workshop for a fee? This to me is the part that really jumped out as being critically important: I get flooded by all the different possibilities even though right now I have created a funnel for number one, creating the ad as I write this email.
+
+Shawn (01:38:27):
+What’s your advice on testing so many fundamentally different possibilities with low budgets? Do you have any strategy process on what to start with in a way that collects data that still makes sense? Okay. So before we get you in the conversation, I’m going to give Loren a chance to throw a couple of ideas but I want to answer this question that you asked at the end, which is how do you figure this stuff out?
+
+Shawn (01:38:54):
+This is the hardest question… This is the question. What in the world do I do? I would love to tell you that I came up…
+
+Shawn (01:39:03):
+What in the world do I do? I would love to tell you that I came up with the answer. I didn’t come up with this answer, but it is by far the most reliable thing that I do. I do this every day. I do it for every aspect of my life. I do it with every client that I have. I’m staring at a legal pad on my desk now that is just pages and pages and pages of evidence of me doing this. It is an idea that I got from Josh Waitzkin and he’s done several interviews with Tim Ferriss. Josh Waitzkin was a chess prodigy, he is the subject of the book and the movie, “Searching for Bobby Fisher.” A phenomenally intelligent person, very interesting person, incredible avid learner, and he does super high-end coaching with ultra high performers, like hedge fund managers and other things.
+
+Shawn (01:39:51):
+He has this exercise he does, or it’s sort of a discipline he does, with his coaching clients, which he calls the most important question. The idea behind this is in any situation, whatever it is, there is the most important question that needs to be answered. Oftentimes we think we know the question that we’re answering, but it either it’s not sharp enough, we haven’t done the work to really narrow in on a very specific question that’s the most important thing that we need to do. Or we’re answering a question, but our gut, deep down, we know really that’s not actually the question we’re supposed to be answering, and when we know instinctively, intuitively that’s not the right question, our motivation to answer the question drops.
+
+Shawn (01:40:47):
+The way I do, and my method is not, the method I don’t think matters as much. My method is, I sit down with a pencil, for some reason the pencil is lower barrier to me, it’s just a pencil, who cares? I’m just scratching on a page. I sit down with a legal pad, or a stack of paper, or post-it, or whatever I’ve got. I write whatever the question is that comes to my mind. Sometimes it’s just me orienting myself. Like I will say, “What do I need to know about X?”
+
+Shawn (01:41:16):
+In this example, Valentina, if I were you in this example, I might sit down and I might write this main question, “How do I know where to start?” Then I just let whatever shows up, appear on the page, at first, this isn’t like a free writing exercise, but what I begin to realize is that that question I have has a lot of questions associated with it. I have a dialogue with myself. I might write something like, “How do I know which offer to start from? Well, I have such and such for this offer, but, I don’t really love that offer, or I’m worried about that offer being too expensive.” Then I might reorient to a new question, “How do I know if that offer is too expensive?” I look at this, and that’s not really the most important question, but I just keep doing that and doing that. And for whatever reason, or however this works from a creative process, at some point I start getting on the trail.
+
+Shawn (01:42:24):
+I’ll find myself, I’ll write a question, and I’m like, “That’s it.” Then sometimes I think, “Well, that’s almost it.” Then I rewrite it. I do that in 10 minutes, be aware I’ve done this thousands of times. At first, it wasn’t 10 minutes, 15, 20, 30, 40 minutes, whatever, but I don’t let myself get up from that session until I have written what I believe is the question I have to answer next. Sometimes maybe it wasn’t the most important question, but it is the question that is preventing me from taking action, the question that is preventing me from moving forward toward the thing that I’m trying to solve. I’ve now written it down with clarity and all of my effort then goes into solving that question, into focusing on that question. When I get my answer, I set in motion a process, and things start to happen. This, it is the most reliable thing that I do. It is so effective. So for you, and I don’t know, and we can talk about this when we get you in [inaudible 01:43:35] a second here, but I don’t know where you would approach this. I can’t do your stream of consciousness, but you have a lot of products, so I would be asking questions about, “Which product do I feel like has the most opportunity? What about this scares me the most?” That’s a great question to ask yourself because often what I find is that there is a resistance underneath. There’s something that’s not allowing us to take action, and that something is based on fear. It doesn’t have to be fear like I’m terrified that the world’s going to end, it can be fear of embarrassment. It can be fear of I don’t know, it could be fear of wasting money. It can be fear of wasting time.
+
+Shawn (01:44:16):
+You might, when you go down the fear road, you might realize that I’m just really concerned about making a mistake and putting a lot of time and energy into the wrong thing. How do I know? How do I address that fear? The answer is take action. Wondering about what’s going to happen isn’t going to tell you what’s going to happen. For me, sometimes just seeing that that’s holding me back becomes the thing that allows me to move forward. I’m like, “Oh, I get it. I’m scared. I’m just kind of scared to take action.” Or, “I get it. I’m thinking about 10 things at once, and I can’t concentrate on this one thing.”
+
+Shawn (01:44:55):
+Once I’ve named it, it is now object, instead of me being subject to it. It is something I can look at it and say, “Oh, that’s the self doubt thing showing up. I’m not sure this thing that I’m writing is the best thing I’ve ever created. I don’t like how that feels. Oh, all right, now I know what that is.” Now that I’ve named it, I am no longer subject to it. It is now object to me.
+
+Shawn (01:45:22):
+So, with all of that as background, let’s have you jump on Valentina. I think André, if you can unmute her, and we can just sort of run whatever direction you want to run with, and ask whatever questions you want to ask. Loren and I, and André, will just start having fun.
+
+André (01:45:43):
+Go for it.
+
+Valentina Manini (01:45:43):
+Hello.
+
+Shawn (01:45:46):
+Hi, welcome. [crosstalk 00:01:45:51].
+
+Valentina Manini (01:45:51):
+Okay. Thank you so much. This was already very, very powerful. I’m a visual person, I love to grab paper, and usually actually different colors, so I’m definitely going to try that show of consciousness exercise.
+
+Shawn (01:46:11):
+And when do you do that, it’s just you. Just be comfortable with it, just kind of run with it. Whatever comes up, comes up. You’ve given some great examples here, and Loren, we can get you, I’m curious what you think, I’ll tell you how I would approach this, and then Loren, I’d be curious how Loren would approach this.
+
+Shawn (01:46:38):
+It’s very hard to sell a thousand dollar coaching package to cold traffic. At the same time, it’s wildly valuable, and you can build an entire business selling a thousand dollar coaching package. I’m of two minds. One of them is, if you know, because you capitalize, you say you love this work. If you know you love this work, and your heart’s in it, that will come through in whatever assets you create for it.
+
+Shawn (01:47:13):
+I would probably try to do a minimally effective, multi-page presale site. A manifesto style, similar to the ones that André has written or I’ve written, that really speaks to the ideal client for that coaching package. I would also write the continuation of that through five to seven emails in a soap opera sequence that leads up to the sale, because we know you need to do some work to sell a thousand dollar product. You just know that. So, say three pages of great content, plus five to seven emails. That’s a lot of work, but that’s what it takes to sell a thousand dollar product, and a great ad. I think I would start there, and I would focus my entire budget on that.
+
+Shawn (01:48:06):
+Or, just because I’m not wanting to give a definitive example, if I thought it took less to do the hundred dollar membership, I might try to do a scaled down version of what I just described. Two to three page multi-page presale site, four to six emails, sell the hundred dollar membership, and then I would sell the thousand dollar coaching package to the people who have signed up for the membership, maybe. I would try to use the membership as a front end, I think.
+
+Shawn (01:48:42):
+Loren, your thoughts on that?
+
+Loren Pinilis (01:48:46):
+Yeah. So, you said that there were lots of products that you have Valentina?
+
+Valentina Manini (01:48:52):
+Sorry. You said lots of?
+
+Loren Pinilis (01:48:54):
+Lots of products? I think Shawn was saying you had lots of different products.
+
+Shawn (01:48:58):
+There’s a one hour workshop and some creative visualizations. Those are free. Then she has the two paid for products, her coaching package at a thousand dollars, and then a hundred dollar a month membership. Sorry about that.
+
+Valentina Manini (01:49:14):
+The workshop, that’s what has brought me clients so far because my people who watched that workshop come to knock at my door without me doing anything actively. The problem is getting more people to see it, and through ads, I didn’t find a way yet to do that.
+
+Loren Pinilis (01:49:37):
+How long is the workshop?
+
+Valentina Manini (01:49:39):
+It’s one hour.
+
+Loren Pinilis (01:49:44):
+Okay. For high ticket, it sounds to me like it may be the type of thing where just getting a lead might work because they might not be ready for a thousand dollar commitment now, but maybe they will be in a few months.
+
+Valentina Manini (01:50:04):
+Just to specify, I’m more interested in driving people to the membership than to the one-on-one work because the one-on-one work is very energy draining in the way that I do it, and it’s not scalable. I’m more interested to drive people to the membership, and then to have one or two clients a month who work on the one-on-one.
+
+Loren Pinilis (01:50:25):
+Yeah. You obviously know your market. If I were coming into a brand new, like if I were wanting to work with you or something, I would really want to understand your customer. I’m a proponent of, get on the phone with them, pitch some different ideas to them, see what they’re thinking with their feelings so that you know the pain points. It sounds like you’ve nailed that down. I don’t have that in my mind. You obviously do in yours, you know your market. I would be thinking, of those front ends that you’ve used, where any of them very successful? Did any of them seem like they would lead naturally into the membership? Did any of them seem like they really don’t lead into the membership?
+
+Valentina Manini (01:51:20):
+I have the impression that it’s more about budget because almost everyone would like to work one-on-one with me. Of course, of the people that I find, which is not enough, but of the people that I find, almost everyone would like to work one-on-one, and the ones who would decide to go for the membership it’s because they cannot afford the one-on-one.
+
+Loren Pinilis (01:51:43):
+I got you. So, the membership is basically a down sell to your one-on-one coaching, but you-
+
+Valentina Manini (01:51:52):
+It just naturally works pretty well like that, but it actually provides a lot of value.
+
+Loren Pinilis (01:51:58):
+Yeah. I would be thinking any of those free ways that you got people into your list, is that something you could bundle, you could turn into a digital product that you could sell for a front end? That might be something that would allow you to pay for your traffic. Then you would be getting leads, essentially for free, that you could drive into your membership and your one-on-one workshop. That might help ease the financial issues of paying for paid traffic.
+
+Valentina Manini (01:52:42):
+Yes.
+
+Loren Pinilis (01:52:44):
+That’s just one potential avenue. I think what I would be looking at, to think of the biggest question to ask, and to go back to Shawn’s framework, I would be looking at, what could you offer as a front end, whether that is a paid front end or whether that’s a free front end, what could you offer as a front end that would, as powerfully as possible, set up a connection to your membership? What would provide real value as a front end, but yet be incomplete enough that someone would want to pay to complete that offering by upgrading to your membership? I would think that is the biggest question to answer because you get that offer down and everything else takes care of itself.
+
+Valentina Manini (01:53:43):
+Yeah. I do believe that the workshop does that, even though it looks like it’s really hard to get people to show up in a live workshop. I do believe that the challenge would do that even better because they would be able to work with me for a week and see how that feels, and see that they actually made progress in their life, and then that’s very hard then to step away from that, it is a connection.
+
+Loren Pinilis (01:54:11):
+Does the workshop need to be live?
+
+Valentina Manini (01:54:14):
+No, it doesn’t need to be live. Right now I’m creating a funnel in which it is ever [inaudible 00:15:24]. It’s a long copy ad, straight to the page in which there is a one hour workshop, and then there is just a very straight question, ” Where is your journey out of anxiety leading you?” Then they can start the application to take it further. They have a questionnaire to fill out, and then I would get back to them when they fill out the questionnaires, just to pre-qualify people.
+
+Loren Pinilis (01:54:53):
+I got you.
+
+Shawn (01:54:54):
+[crosstalk 01:54:54] that they opt in to see the presentation?
+
+Valentina Manini (01:54:58):
+No, they don’t opt in, it’s all free. They don’t need to opt in. When they fill out the questionnaire, then they are opting in.
+
+Shawn (01:55:11):
+One of the things, and I think you’re on track to do this, but we had a client that did this years ago and it made such a huge difference. They created really great content, and people who saw the content just raved about it. It was a video, it was presentation format. The problem was they put the content behind an opt in wall, and it was just a nightmare to get people to opt in. We just switched the order, you see the content first, opt in for more after. That changed everything for them. And I think for you, if you know you have this device, this workshop, that is a precursor to creating customers, then make that available for free and encourage the consumption of it. We want people to watch that. That is effectively your multi-page presale site.
+
+Valentina Manini (01:55:58):
+Yes.
+
+Shawn (01:55:58):
+Does doing that work for you?
+
+Valentina Manini (01:56:00):
+Yeah.
+
+Shawn (01:56:01):
+There’s a couple of different ways you can approach it after that. What we’re trying to do is we’re trying to increase the price of engagement gradually, instead of increasing the price of engagement in a way that feels uncomfortable. Very easy to click on an ad. You read an ad, they’re just giving attention. That’s very low engagement. We’re now sending somebody to a one hour presentation. That’s significantly more engagement, but we haven’t put any barriers in the way. This is just the next logical step.
+
+Shawn (01:56:43):
+After that, now we can increase the requirements for engagement a little bit. I wouldn’t necessarily go to an application at that point, I would do something more that is, continue the journey. So you might say you’ve got a seven day challenge or whatever the next thing is that builds on what they’ve already consumed. So they’ve already engaged with the ad, they’ve already engaged with your workshop, what’s the next thing that’s going to move them closer to you? Whatever that is, and I wouldn’t do an application at this point, you haven’t built up enough trust and authority with them yet to move to asking those questions.
+
+Valentina Manini (01:57:27):
+Yes.
+
+Shawn (01:57:27):
+I get that you can, and then a lot of people say that’s appropriate. I’m not suggesting that that’s not true. I’m just saying that I think for you, you’re doing the show and tell version, and I love that. Where it’s let me just show you what I do, how it can help you, give them ways to participate in that, and then at some point the transition is going to happen where the next thing there is a financial investment. You could do their loss of business models for this. I’m thinking of Jonathan, André, and his model is interesting here where you could do a low cost month one trial. After that, there are a couple of ways you can do it after that.
+
+Shawn (01:58:10):
+If you know that getting people into month one creates lots of customers, lower the barrier to getting people into month one. So have them watch the webinar, show them the opportunity to maybe do a $10 first month free trial, or a $10 seven day trial, whatever it is for the membership. You can get more sophisticated over time. You can do, when they sign up for that, you can make an offer right then they can upgrade to some version that’s paid at a discounted rate.
+
+Shawn (01:58:43):
+Say you give them the first month for $10, and it’s going to be a hundred dollars a month after that. You can do month one is $10, and immediately after they can lock in the price for $75 a month if they want to purchase that right now. You don’t need to do that. That’s just all business model stuff that you can do.
+
+Valentina Manini (01:59:08):
+Yes.
+
+Shawn (01:59:11):
+Think about stairs. There are lots of different ways you can build a staircase. You can make a staircase really steep, and you can also make a staircase with really high steps, or you can make a nice gradual, almost a ramp, where it doesn’t even feel like you’re climbing the stairs. You engage with an ad, you watched, and you might even break out that one hour workshop into three parts, for example. Whatever it takes, but get people to move closer and closer to you where you are pulling them closer and closer to you so that when it is appropriate, when you’ve earned their trust, and they see the value, because you’ve led with value, that then you make the offer for the thing that costs money. That’s a very powerful way to approach this. Loren, any thoughts? Or Valentina, any more questions along that line. We’re here to help, so please ask.
+
+Valentina Manini (02:00:08):
+It makes a lot of sense. I like the idea of a guiding them through a journey in which they take initiative every time. So they click on the ad, then if I split up the video in different parts, then they choose whether they want to continue with that. Even though I really like the fact that the workshop is there, it’s all there. It takes a minimum of rock bottom, of having reached rock bottom to actually watch through it. I know that people who watch the first time may not stand, they stop watching it. You’ve got to get to the right people, of course, if they’re not, then it’s good that they keep going elsewhere. It’s about the people who actually finish this workshop and really feel that this spoke to them, and they’ve cried because I know that that’s what happens when it’s really the right people. They really feel that I can help them.
+
+Valentina Manini (02:01:13):
+Does that make sense to give them, in the same page, two options? One is to actually fill out the questionnaire to start the application process, and the other one, just to say not ready yet, look, I have this visualization to get in touch with your anxiety and blah, blah, blah, so that you can understand yourself better. Then I continue, basically always give the option to start the application, or to go to the next thing.
+
+Shawn (02:01:44):
+I think I would put those in sequence. I get why you’re doing this, and it makes a lot of sense. Lots of people have a different opinion on this. I’m starting to see the whole structure. I think I would go ad, to a short video of you talking about what they’re going to get from the longer video.
+
+Valentina Manini (02:02:10):
+Yes.
+
+Shawn (02:02:10):
+And really hinting. Now we’re on a nice ramp. They’ve engaged with the ad, and I feel a little dissonance going from ad to one hour workshop. I think ad, to three to five minute video, where you just speak exactly like you just spoke. You’ve just sold me on the video. So talk about what’s going to happen in the video. I would even mention that if in the first 10 minutes it doesn’t resonate with you, you’ll know and that’s okay. But if it does, then it’s really important to watch rest of it.
+
+Shawn (02:02:46):
+Then you can talk about that people email me, they’re crying, this is finally the thing that has helped, speak openly about that.
+
+Valentina Manini (02:02:53):
+Yes.
+
+Shawn (02:02:53):
+Because now I’m one step closer. Then they watch the video. Then I wouldn’t put the application next, I would put whatever the opt in is next, it’s the continue the journey. When they do, when they opt in, I would, right after the opt in, give them the ability right there to fill out an application, or I would have it in one of the initial emails. I might even have it both places, one, they could do it when the next page that loads, they could say, “If you’re ready to apply now, you can. If you’re not, don’t worry. We’re going to go through seven days of…” whatever. Then when they get the first email, maybe in the PS of every email that they get for the next X number of days, I might have the link in there saying that, “If at any time you would like to apply, it’s right here. You can do that.”
+
+Shawn (02:03:50):
+You don’t have to layer on a bunch of sophisticated tech where if they’ve applied, it takes them out of that. Don’t worry about that stuff. Just have it in there, “If you haven’t applied already and are interested in applying, you can click here.” Everybody can see it, and then walk them through that seven part email series leading up to the monthly program. That’s how I would build this funnel. I think it’s-
+
+Valentina Manini (02:04:12):
+I like that. It’s gentle and it’s organic somehow. It’s just natural, it flows very well.
+
+Shawn (02:04:22):
+It feels very generous. That’s a word you don’t hear often in our little corner of the world. How can we be generous to our audiences? One form of generosity and respect is to tell the wrong people, “It’s not for them.” That’s kind, and that’s what we would hope people would do for us.
+
+Shawn (02:04:43):
+Then once someone says, “I think I’m interested in this,” it’s also generous to say, “Here’s what you’re going to get. Here’s what’s required, this is an hour long workshop. If after 10 minutes, it really hasn’t drawn you in, that’s a good signal that it’s not for you.” That’s also a generous act. It works in your favor and the audience’s favor. I love that structure. André, you’re being quiet in the background, you always make me nervous when you’re quiet. Any thoughts to add here?
+
+André (02:05:22):
+Something that Seth said a long time ago, that I’ve internalized to the point where it’s now a signature on all of our support emails, is motivating the committed at performance, persuading, then committed. It’s something that I’m always thinking of whenever I’m deciding to build in. I only want committed people and I want to filter out those people that are uncommitted. The reality is most people are uncommitted. They can talk the talk, but as soon as action is required, they’re uncommitted, and there’s a lot of those people. So everything I do, from the free stuff, especially with free stuff, is about pulling committed people forward and filtering out uncommitted. It’s fairly easy to filter out uncommitted. They just fall away pretty quickly, and then what you’re left with, all those people that are committed. Those committed people are going to lean in at different times, at different places, in the funnel, for lack of a better word.
+
+André (02:06:33):
+So with that said, I liked the idea of an ad going to a video. I liked the idea of, and I’m just thinking out loud here, I liked the idea that the video isn’t too long, it’s just long enough. The only job of that first video, or that part of video, is to get people to nod their heads and lean in. That’s the first signal of the committed person, and the uncommitted people just disappear. But, it would need to deliver some sort of result, something meaningful to those people that are committed.
+
+André (02:07:22):
+At this point, there’s a lot of different paths you can take. Again, thinking out loud, one version could be that, some way at the end of that first video, that’s delivered something of value, for that committed person to take the next step, you could have a link. Again, this is also about creating small barriers along the way because that’s one way to pull committed people over the fence, so to speak, and for those uncommitted people to disappear. The easy version is when you hit 90% of time of the video, this little button appears, and they click the button, and it goes to the next page. I think that’s the easy version, but maybe the better version would be that in the actual video, physically on the screen is a link to go to.
+
+André (02:08:22):
+Let’s say that link is [inaudible 02:08:25] for example. It’s something that somebody has to see visually because obviously you want them to be paying attention to the video. And they have to physically go and write that down somewhere and type into the internet browser, into a new tab, and go to this page.
+
+André (02:08:43):
+Again, this is where things could change. But at this point, if you’re thinking about this as a net drive view, you’ve just attracted this next cohort of committed people. I think on that next page, you could have a few different options, one of which could be three buttons, and the three buttons could be your thousand dollar one-on-one with a little message. It’s grayed out, underneath it says, “currently fully committed.” So there’s no way that somebody could take that option, even if they wanted to. First of all, these are people that you haven’t yet got a relationship with, and you want them to feel that even if they want something and they’re willing to pay for it, they can’t have it just yet. There needs to be that cat and mouse thing. The cat with a wad of string, if the string is moving, the cat’s interested, if the string stops, then they’re not. So, all the options can’t be available.
+
+André (02:09:55):
+You could also add a waiting list underneath the fully committed one, where it’s sold out, but if you’re really interested in this, pop your name and email address, and I’ll add you to the queue. That would be a signal that that person is committed, and even though it’s unavailable, they’ve added themself to the list. The next button along could be the hundred dollar a month membership. You could find the people that they’ve heard enough, they’ve seen enough, and they’re good to go, so they will just sign up right there.
+
+André (02:10:27):
+Then the third option could be the free option, which is a video, which is maybe the hour long presentation with some preamble of text that just frames the video, and it’s like, “It’s free, it’s not going to cost you anything. If you’re still on the fence, go listen to that. It’s some of my best stuff, it does this, that, and the next thing.” When they click the play button to try and watch the video, it just pops up a little pop up saying, you don’t have to remodel this because there’s also an associated short email sequence that’s paired with this video for these reasons, so it doesn’t seem jarring, it’s seen as completely congruent. That the video is paired with five emails, for example, that’s part of this thing and it costs you nothing, it’s free. Again, there’s a level of commitment that’s required now, because anything that you list it in is trying to attract these people, that affinity.
+
+André (02:11:31):
+So, now you’ve got the button that’s unavailable, you’ve got one that is available, which is a hundred dollars a month, then you get another one which is available but needs a small level of commitment for them to see it and to receive the emails. I think that could be a version. That’s what I’m thinking.
+
+Valentina Manini (02:11:53):
+Thank you very much. I have one question. You said that the first video, the short one, should provide some kind of value. Now, usually what I provide-
+
+Valentina Manini (02:12:03):
+View. Now, usually what I provide in a very superficial initial relationship with someone is insights. So does it make sense to take one of the big topics of the workshop and… Because it seems like that to provide value I would not be able to do the version that’s shown, which by the way, I would totally test both of them. Both the funnel that you described and the one that Shaun describes, so that’s a no brainer.
+
+Valentina Manini (02:12:32):
+But of course, if I need to provide value in, let’s say three to five minutes, I cannot do that by genuinely telling people what they’re going to get out of the workshop. It’s more about providing one of those, let’s call them reframe, or new beliefs that they need to have in order to proceed further. In that sense, I guess it would make sense to just take one of the big topics of the workshop and make it three minutes long and then say, “Hey, there’s much more of this kind of stuff, and the reason why you didn’t progress the way that you wanted in the past. You can click here to continue this, this journey kind of thing.” Does that make sense?
+
+Shawn (02:13:21):
+Mm-hmm (affirmative).
+
+Shawn (02:13:22):
+I think I’d probably do something slightly different. Maybe I’d make the video 15 minutes, like a Ted video. So what’s Ted videos, 18 or 19 minutes, right? So it’s enough time that it’s not too long and you can be respectful of their time. It still requires commitment, but it’s short enough that you can deliver the message pretty quickly. Again, just thinking out loud, I probably wouldn’t script it in a way that says, “I have this longer thing. You can see it on the next page. If you’re interested, just go to this link.” I would probably focus on delivering something that’s meaningful in that short piece of time, I would want them nodding their heads, thinking that this is amazing and I want more of this thing.
+
+Valentina Manini (02:14:33):
+They’re saying, “I know how to do that”, so that sounds good.
+
+Shawn (02:14:37):
+Good. Then you could mention in that thing, that there’s this other longer thing where you talk about this other thing, where you go into more depth and then you just move on. Just like drop it out there as a thing, and then just move on. But don’t back to that and say, “Well, if you do this thing, then you will get that longer thing.” You just want to mention this thing because people then… Now it’s an open loop. They leaning in and now they’re thinking, “Shit, how can I get this thing?”. Because suddenly, now they want it. And it’s not obvious.
+
+Shawn (02:15:14):
+So the video ends and there’s this link that says, “If you’re interested in more of my services, just go to this link and you can.” So it doesn’t talk about more video, but then when they get there, they see it and then they get excited because now they’ve got this sort of narrative running in their head that this stuff’s good and they’re leaning forward, but they can’t get it all. It’s not all there. You’re giving them two plus two and they’ve got to figure out four on their own. You’re not giving them four, you’re not spending an app for them.
+
+Shawn (02:15:58):
+So they have to do a little bit of work to connect the dots, not too much work, but just enough work where they’ve got to connect the dots themselves. And they feel internally rewarded. Although, they aren’t consciously thinking that way. They’re getting their dopamine sparks and their little squirts.
+
+Valentina Manini (02:16:20):
+It all makes a lot of sense, yes, I understand. Okay.
+
+Shawn (02:16:20):
+That’s about it.
+
+Valentina Manini (02:16:21):
+Okay, thank you so much.
+
+Shawn (02:16:24):
+You’re welcome.
+
+Loren (02:16:24):
+Excellent, thank you Valentina. I appreciate you being willing to do with a hot seat. Let’s do one more hot seat and see if we have any more questions. So we’ll do one more hot seat. That is… Francis, are you still with us? Where is, there’s Francis. I’ll do a quick… Actually, I don’t know that we need to read this one. Francis, this is more narrative, so why don’t you just jump on, give us the 60, 92 second overview of what you want to talk about and we’ll just kind of jam with it a little bit.
+
+Francis (02:17:02):
+Oh.
+
+Loren (02:17:04):
+Welcome.
+
+Francis (02:17:07):
+Yes, so the main thing is that we sell a course to advanced practice nurses. So like nurse anesthetists, nurse practitioners, things like that, on how to open up their own ketamine infusion clinics, basically it’s new treatment for depression, PTSD, chronic pain, and our organic stuff does very, very well. I would say two thirds, three quarters of our sales come from organic and our Facebook ads just barely a little over break even, in general. Then we’ve had a guy that’s been kind of our media buyer, running ads for us late last, almost a year now trying that out. And I think with his fees, I don’t think we’re quite breaking even with that. I don’t know, I guess I’m kind of like at a loss on things that we can do to kind of move the needle a little bit more for Facebook ad stuff and see how we can kind of increase those margins a little bit.
+
+Shawn (02:18:26):
+So couple of questions, what’s the price point? Who’s the actual audience like who buys the course and is this… I assume it’s entirely legal. You’re not running into any restrictions. I mean, ketamine is a controlled substance. So just kind of give me a quick overview of those three questions?
+
+Francis (02:18:48):
+The price point is, it’s a 3,000 hour course. It’s medical professionals, it’s doctors, or advanced practice nurses who do have… The course goes through kind of all the legal stuff of how to get the proper license in your state, how to legally order everything, stuff like that. So, yes, we don’t have any issues with that. What was the third question? I’m sorry.
+
+Shawn (02:19:16):
+That’s just whether or not ketamine’s a controlled substance, but you obviously just answered that part and you’re dealing with that. How do you sell? Webinar? Straight to offer? What’s the mechanism to sell?
+
+Francis (02:19:31):
+We have a two hour webinar and then it’s a 14 day email series after that.
+
+Shawn (02:19:39):
+And that is exactly what organic traffic goes through that converts, is that correct? There’s no difference in the organic funnel?
+
+Francis (02:19:47):
+Correct.
+
+Shawn (02:19:49):
+Okay. So couple of things to point out here, just for everybody’s benefit, that are very important. This is a proven offer. That’s great news. This is a nuance that gets lost a lot, which is, we can’t seem to make the offer work with paid traffic. That’s the issue. Sometimes that’s not the issue. Sometimes the issue is the offer. Like it wouldn’t sell anywhere, but you know it sells, you’re selling it to an organic audience. So that’s where the clues are to figure out how to sell it with paid traffic. So with an organic audience, I’m assuming that is an audience. So define for me, when you say organic, what does that mean? So I don’t make any assumptions.
+
+Francis (02:20:40):
+So we use [Hyros 02:20:42] to do all of our tracking. When I say organic, that means they found our website. They did some kind of Google search and they came to our website and that’s marked as the first source. For a lot of these people, the only source.
+
+Shawn (02:21:00):
+Okay. So right there as the first clue to me, where to look, your organic traffic is coming from searches, active interests, active intent. Facebook is passive, not active. So I would not start with Facebook. That’s sort of broadly speaking tell you where I would start. Knowing that organic traffic is converting, I would first start with retargeting and work backwards from retargeting. So what are the main inflection points? You’ve got people signing up for a webinar and the people who didn’t show up for the webinar. So immediately getting people who didn’t show up to go to the replay and that’s high value. You’ve got people who saw the webinar, but didn’t take the offer. You can retarget them with a different expression of the offer, the opportunity for a consultative call, to answer any questions that they have, lots of ways to… For the traffic you’re already getting, to extract more value from that.
+
+Shawn (02:22:07):
+After retargeting, I would go set all… The bank robber, Willie Sutton, you know that the judge asked him when he was getting I think it was in an initial part of the trial, ask him, “Willie, why do you Rob banks?”, that’s where the money is. Well, your data tells you that the money is in search. So I would go to Google and figure out what are the terms. I mean, it’s hard because now the term data is being hidden by Google, but what is it that people are searching for organically? And how do you replicate that with paid traffic? Because that’s where your big opportunity is. I wouldn’t do anything with Facebook yet, frankly. I mean, you’ve experimented with Facebook. You’re seeing you’re barely breaking even or worse.
+
+Shawn (02:22:52):
+You have some data, but you know that you have search traffic that’s converting. So I would be putting all of my energy and attention on trying to figure out what were people searching for specifically? What was the chain of the search? What did they look for first? What do they look for second? What else have they looked at? And the way to find out this information is to interview people. If you don’t mind answering approximately plus or minus 30, 40%, how many customers do you have total?
+
+Francis (02:23:26):
+Let me tell you, in the last six months, 73.
+
+Shawn (02:23:32):
+Okay. So nice chunk of people.
+
+Francis (02:23:38):
+All in all like 800.
+
+Shawn (02:23:39):
+So that’s a great body of people to go talk to. I would just send them an email. I wouldn’t do mass emails. It’s 73 people, it’s not going to take forever. I would do individual emails from the owner of the company, if possible, or whoever the public facing person is, who they would recognize like the person who did the presentation. I would just reach out and say, “May I have 10 minutes of your time.”, or-
+
+Francis (02:24:06):
+Can I do the interviews at least? Because he is not going to.
+
+Shawn (02:24:11):
+Okay. Yes, I mean, you can. Whatever, as long as you get the data. And you can say in the… Give them two choices, and I would be very clear, I would love to get 10 minutes of your time to ask you a few questions on the phone. If you’re unable to do that, would you mind answering these three questions? Whatever it is. But what you really want to do is get them on the phone and you really want to figure out how in the world did they find you?
+
+Shawn (02:24:43):
+Self-reporting is not going to be 100% accurate, but you’re going to hear nuances. You’re going to hear nuances like, “Oh, I saw this thing on TV about accident, got me thinking I should do that.” It’s stuff like that you just aren’t aware of. Or, “I was on such and such a site and I noticed whatever and I searched for it and I saw your link”, and it might be, and I’ve seen this happen with competitors a lot where someone like a competitor is doing a lot of advertising and the competitor, especially with GDN advertising and Facebook, and the competitor introduces the idea. But there’s something about the competitor that doesn’t resonate with, something like they go to it, it feels too sales-y or too like, “Ooh, this isn’t quite it.”
+
+Shawn (02:25:34):
+So then the person decides instead to search for the thing, like, who else does this? And then they search, ivy ketamine, ketamine therapy set up or clinic or whatever. But they were exposed because of the competitor. And so now you know their frame of mind, like, Oh, these are people who are… They saw like whoever’s doing this. And I’m making this up, but that’s what the interviews will reveal.
+
+Shawn (02:26:02):
+What you don’t want to do when you interview is ask like 10 scripted questions. You want to ask one to two questions that are easy to answer, to kind of get the conversation going. Then you want to ask open ended questions and really let them tell you. You’ve got to build a little rapport and trust first.
+
+Shawn (02:26:21):
+So ask, kind of build a little momentum, ask maybe two, maybe three straightforward questions, easy to answer that you care about. Then… And one of those questions might be, how has your experience been since whatever? What has your experience been since you, purchase the course? Did you set it up? Did all these other things. Because what you might find is they might tell you benefits that you had no idea were benefits, which allows you to speak to that audience. But this is like a week of work, maybe 10 days. Don’t make this a, and I’m saying this to myself not to you, don’t make this an excuse to procrastinate, but get the emails out, send them personally from you each time, ask for no more than 10 minutes of their time.
+
+Shawn (02:27:12):
+Many people will talk to you for 30 minutes, but make the ask small, don’t say five minutes. They won’t believe it. Say 10. Can I get 10 minutes of your time to talk about whatever, if you prefer not to speak on the phone, and I’d be very clear, I’d love to ask you a few questions on the phone. If you would prefer Skype or zoom, whatever, if you prefer not to do that, and then ask three open ended questions and thank them or whatever else.
+
+Shawn (02:27:38):
+But you will find so much gold in these conversations. You will not believe the insights you get from these conversations. You’re going to hear the language they use, the process they use. The thing that inspired them, much of this will be useful later when you do Facebook, but the audience that you’re speaking to searched, so have them tell you how to construct your search campaigns. And if you ask, they’ll tell you. I’ve seen it happen a thousand times. This works incredibly well. Keep interrupt, for more questions out. Does that make sense? Do you see where, where you can run with that?
+
+Francis (02:28:18):
+Yeah, no, that makes absolutely a ton of sense. I mean, the only question I really had was, how do I figure out what they’re searching for? But that whole thing answered it. Do you have any-
+
+Shawn (02:28:29):
+I think you can-
+
+Francis (02:28:30):
+Go ahead.
+
+Loren (02:28:31):
+Sorry. I was just going to interject there quickly. You can also use tools like [Ahrefs 00:02:28:36]. If your website is ranking for organic search terms, although you can’t extract that search data from your analytics, because it’s been stripped out, you can use third party tools like Ahrefs that will do a pretty good job of figuring out what keyword phrases you’re ranking for. Then it’ll tell you where you’re ranking for it. And then with a bit of deductive reasoning, you can figure out which pool of keywords are the ones that are probably driving most of your organic traffic. And then you just spin up your Google ads campaign and stick those keywords and then give it a go, see if you can scale it up. So that’s another quick way, I think, easy win, perhaps.
+
+Francis (02:29:23):
+Cool. I’ll do that. Then I thought, I remember you guys talking about in early on the traffic engine, you don’t want to send like Google search traffic straight to kind of like a webinar opt-in page. Is, that true?
+
+Shawn (02:29:38):
+Yes. So this is the challenge with opt-ins and search. The thing that Google is looking at most to determine your quality score is, click through rate is huge, the quality of your ad, but then what happens when somebody gets there? So if you think about, if you’re Google and you don’t see a person and all you see is an ad is shown. There’s a click on an ad, there’s a landing page. And then you know how long somebody stays and that then tells you, that’s all you can, and obviously Google has more information, but those are the big pieces of data. And that you notice that somebody is bidding on this term. Then the behavior that follows after is the person hits the page and then a few seconds has gone, which is very common with an opt-in, 80% or more that they’re going to bail. A 20% opt-in rate on a webinar opt-in page is pretty decent.
+
+Shawn (02:30:41):
+So that signal that goes back to Google basically says, this is a low quality match because, this term that the advertiser said I’m relevant for this term, but the user behavior says, no, they’re not. And that’s how Google’s regular search works too. If lots of people search for, how to grow a garden indoors and they click on the number one link and they bail. But that link stops being number one very quickly, because Google is like, okay, that’s obviously not the right match. We’ve kind of got something wrong. So when you put an opt-in, you’re introducing a barrier to Google getting a good signal that will drive your advertising costs down and get you more traffic.
+
+Shawn (02:31:25):
+So there are two ways to handle this. Version number one is, you put the opt-in low on the page and you sell the opt-in on the landing page with really valuable… This is what you’re going to expect, this is what we’re going to cover. You put an Easter egg or two in that, like did you know kind of stuff. Don’t make overblown financial claims or other things. But you put a thousand words of content, 800 words of content whatever, on the landing page, that explains what it is that you’re going to be offering them, kind of the overview of what they’re going to get.
+
+Shawn (02:32:04):
+One kind of neat trick I’ve seen other people use is before the opt-in, you make available the workbook that they use and you let them see it. They can just download the PDF. Like here’s the workbook for the webinar or whatever you call it, masterclass, whatever overview. The workbook is actually a sales piece. It’s not an overt sales piece, but it’ll say things like, page one will be, the question might say something like the top three most common questions we get are about an ivy nutritional clinic are one, two and three. No, that’s a bad example. Let me give a better example. It’s more like insights. So you’re telling them what you’re going to tell them, the top three most important things to know about XR. And then you put one, two, three, and then there’s a blank line next to each where the implication is, they’re going to fill that out themselves. So what the PDF becomes is a guidebook that says implicitly, these are all the things we’re going to cover in this two hour class or whatever it is.
+
+Shawn (02:33:22):
+Those are all the things that they really care about. You might break it into sections, however your webinar’s broken out. You might have, the benefits and expectations, a financial calculator, legal considerations, like the checklist of things that you need to do. All of that is in the PDF. The PDF is available for free before the opt-in. You can note paranthetically that they’ll also get it after they opt-in. But then what will happen, and I’ve seen this happen a bunch, it’s really interesting. People hit the landing page. They they read the content and it’s good. They get to the part where there’s the PDF link. They open the PDF, you have it open in a new tab, opens a new tab. They haven’t left the other page though, so that they look at it quickly and are like, “Oh, this looks really interesting.” They go back to the other page. Then they go down and they opt-in.
+
+Shawn (02:34:21):
+So they’ve stayed longer on that page. It’s not gaming the system because you’re giving them good content, but you’re keeping them on that page. That’s a long answer to a short question, but that’s a really good way to avoid the penalty of search ad to opt-in. You need to put content in there, wrap the content to give context, to give out to give value, increase the value and the desire by showing them what they’re going to get in the webinar, which also has a service to them because if it’s not interesting, they can bail. Then give the webinar and you will amplify your signup rates for the webinar. That’s how I would orchestrate that.
+
+Francis (02:35:03):
+That’s really interesting. So you just say, to just put a link on there. Here’s the ebook, because we actually have an ebook that we would retarget website visitors with, that’s gotten a five X ROI in the last six months. So maybe we can just use that. It’s not in the same like workbook format that you’re talking about, but we have a ton of people read it. We have people download even after they sign up for the course.
+
+Shawn (02:35:36):
+Yes. I would probably… Is this a live presentation or is it recorded?
+
+Francis (02:35:42):
+It’s prerecorded.
+
+Shawn (02:35:43):
+Okay. So is it just like, I can do it on demand anytime, is that?
+
+Francis (02:35:48):
+Yes, we have an option to like, watch it using like the webinar jam software [crosstalk 02:35:53].
+
+Shawn (02:35:53):
+Okay, gotcha.
+
+Shawn (02:35:55):
+Yes. I wouldn’t mix those two things as being the same thing. So, I wouldn’t offer the ebook on that landing page because then it becomes a distraction. What I would do… The reason I was asking about if it’s just in time is if there’s any lag between when they sign up in the webinar, I would make it available then. So, okay, your webinar’s in two days, and in the meantime, here’s a free you ebook that you’re going to find interesting. That’s one way to do it.
+
+Shawn (02:36:27):
+But really you’re trying to do two things with the PDF workbook. The first is you’re trying to amplify desire, and you’re doing this very ethically. I don’t want to have anyone think that this is like some persuasion hack, it’s not. You’re making an outline of the… It could be five pages, six pages, 15 pages. You’re making an outline of what you’re going to go over that you believe is what they care about most, and you’re forcing, you’re giving them an opportunity where they have a resource where they can take notes, but you’ve structured it in a way so that they don’t have to take 50 pages of notes. They can just fill in the things that you’re already saying are most important.
+
+Shawn (02:37:12):
+That has the dual effect of building desire and being a service to the customer where they can look. Because if I look at that, I’m like, this isn’t really what I’m looking for. Well, then you’ve told me I don’t need to sit through the webinar to find that out. But if I look at that workbook and I think this is exactly what I’m looking for. Then that has done a service to me effectively, that has told me to stay and given me a reason to stay. I think that’s better, in this example, than the ebook thing. If you know someone ops-in, they don’t watch the webinar, show them the ebook, get them interested again. Get a second bite at the apple. But I wouldn’t mix those two things. That workbook idea I’ve seen that work a lot and it works.
+
+Shawn (02:37:58):
+I’ve also seen it abused and I’ve seen it in ways that are gross. You’re just like, ugh it’s just super cheesy and it’s very sales-y. Err more toward on the side of like, if you were sitting down with the person across the table and they said, “Yes, I’m not really sure about this. Here’s what I’m really interested in. What is this thing all about?”. It’s that. It’s like, okay, these are the things we’re going to cover. There are three main benefits you need to be aware of why you would even consider nutritional clinic, one, two, three. Three big hurdles that you’ve got to deal with one, two, three. Here’s how you deal with the first hurdle, one, two, three. Second hurdle, one, two, three.
+
+Shawn (02:38:41):
+That’s really valuable. Because then if I look at that, I’m like, “All right, yes, great. You don’t have to tell me all the details. This is exactly what I’m looking for. I’ll watch the webinar. Thank you.” That’s what we’re going for. That’s incredibly valuable. And that’s one of the things that it seems subtle, but when you look at it from a linear reductionist point of view, you’re like, yes, what difference is that going to make?
+
+Shawn (02:39:02):
+This is something that I’ve seen make seismic changes in funnels. Where that one addition just unlocked so much because it signals in a way to your audience, a depth of interest in their wellbeing, a depth of concern in their wellbeing. That you’re also not trying to get everybody under the sun to go to the next step. You’re really making sure it’s right for them.
+
+Shawn (02:39:28):
+That has an emergent effect far beyond the amount of time it takes to create, I can’t stress that enough. I think you’ve got a fun project here. I’m a little jealous, actually. It sounds like a lot of fun.
+
+Francis (02:39:39):
+You can do if you want.
+
+Shawn (02:39:42):
+More than welcome to help. Hey, keep us posted on this though. Reach out to me by email, I’d love to. If you want to do a case study on this one, let’s talk about that. Just shoot me an email. Actually, I have your email. So, I’ll reply back to you. This will be a fun case study to do. I’m happy to give you some ideas and give you some feedback when I see you take action on this. Because I know you’re doing the work and I’m happy to have some commentary about that, but I think this would be a really interesting one to use as a case study.
+
+Francis (02:40:06):
+Yes, I agree. I think it’s a really good idea, a really cool idea. I like that a lot and it’s definitely something I’ll do.
+
+Shawn (02:40:17):
+Cool. Excellent. Thanks man. I appreciate it Francis.
+
+Francis (02:40:20):
+Yes, I appreciate the insights, way more than what I was expecting to get. This is super helpful because yes, we’ve been kind of stuck on getting more with this and just really kind of just like, “Eh”, puttering along with this one. We also have a course on ivy nutrition, opening one of those clinics so I think this would be super cool to help out with that because I think that’s got a lot more scalability.
+
+Shawn (02:40:47):
+Yes, I mean the underlying model for either of those, I think the structure is really the same, right? And that’s not always true, it’s not the model. My experience, there’s no causal relationship between the model and the outcomes. But in this example, when you already have, you’ve built out a webinar model, and it’s proven, and it’s proven with the type of traffic that you can pay for, like the stars are aligning. The evidence is there, what you need to do, and now it’s just a matter of, do that and then include some performance enhancers. I think you’ll find the PDF workbook is a really interesting performance enhancer. This is a great point, too. It’s hard to… That’s not always true. So it’s not one of the things that I can just, put in the traffic and it’s like, “Oh, everybody needs to do X.” Because sometimes it wouldn’t any difference whatsoever. Sometimes it might even be a deterrent for action. But for your example, that’s why I really liked this as a case study. In your example, it’s a powerful lever that you can pull. I’m really excited to hear what happens when you do that. Keep me posted please. I’ll follow up with you, we’ll talk.
+
+Francis (02:42:00):
+Perfect. Sounds good. I will definitely do that.
+
+Shawn (02:42:02):
+Thanks Francis.
+
+Francis (02:42:03):
+Yes, thank you.
+
+Shawn (02:42:05):
+All right, so we have, we don’t have any questions left. We still have people on the call. Thank you all for staying on the call. We’ll do Loren, André and me any final words, today’s call? This is our shortest Q&A call, ever.
+
+Loren (02:42:20):
+It was fun taking everyone’s questions and hit us up on the modules if you have any additional ones or email or however.
+
+Shawn (02:42:29):
+Cool. André, what do you think [crosstalk 02:42:31]?
+
+André (02:42:32):
+We almost made three hours. We can try again. Next time.
+
+Shawn (02:42:37):
+Is it 11? You’re right, sorry. For some reason I got the time wrong. What I always say, five out of four people are bad at math? Any, final parting words for today, André?
+
+André (02:42:50):
+I don’t. This is good. I’ve drawn pictures and I’ve even taken notes. This has been great.
+
+Shawn (02:42:59):
+Excellent. Well, thank you everybody. For those of you who submitted questions and volunteered to be hot seats, thank you very much. That’s what really makes these calls useful. Without that there’s nothing for us to do. As always very special thank you to Loren. It is just, it continues to be a great privilege of my life to work with Loren just as a craftsman and as a wonderful human being. And of course my collaboration with André is the pinnacle of my career. So I can’t appreciate the two of them enough.
+
+Shawn (02:43:31):
+Thank you all. Please continue to send any ideas you have for the traffic engine, things that you want to see, questions that you have, please keep sending those. The goal is to always make it better and better, and that means better and better for you, not for me. So please let me know how that can be made better for you. Thanks everybody.
+
+André (02:43:52):
+Thanks everyone. Thanks, Loren.
+
+Loren (02:43:53):
+Thank you all.

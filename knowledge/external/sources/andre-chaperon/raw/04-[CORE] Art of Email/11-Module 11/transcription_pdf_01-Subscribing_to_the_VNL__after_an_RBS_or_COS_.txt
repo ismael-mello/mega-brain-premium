@@ -1,0 +1,157 @@
+5 min read
+Every entry point onto our email list should be allowed to do its
+job of orienting a new subscriber or customer to our world and for
+a relationship to have the time to take hold and be nurtured.
+Subscribing to the VNL (after
+an RBS/COS)
+www.getwsodo.com
+
+-- 1 of 12 --
+
+Whether your business has a single-entry RBS, multiple RBSs, or
+the addition of direct purchases (Customer Onboarding Series),
+we need mechanisms in place that will “subscribe” someone to the
+VNL loop at the appropriate time.
+Making this happen can be a simple process — RBS VNL — or
+made a little more challenging when there are multiple entry
+points of varying lengths.
+The best way to tackle this problem is to use custom �elds instead
+of tags because, unlike tags that are binary (added or not), custom
+�elds support “state changes” — meaning a single custom �eld
+can hold any number of values that represents different states.
+There is no one objective “best way” to set up your automations,
+but we recommend that you use “best practices,” which will allow
+for growth minus the potential headaches later.
+Note: Even if you don’t yet have a VNL, we recommend you build
+the logic into your automations from the get-go. That way, you’ll
+be all set to introduce a VNL whenever it makes sense to you,
+knowing the logic is already in place.
+Step 1 — Create a Custom Field
+The �rst thing we do is create a custom �eld vnl_status (you can
+name this anything), which we’ll use to hold vales of Muted and
+Subscribed , and any other state variation you need.
+www.getwsodo.com
+
+-- 2 of 12 --
+
+Step 2 — Create ‘New Subscriber’ Automation
+Now we create an automation that captures all our entry points,
+free and/or paid. We have our RBS entry point (far left) and one
+for each paid course in this example.
+This represents every possible way someone can enter our email
+world.
+The next thing we need to do is check if a value already exists for
+vnl_status . If this is a new subscriber, the custom �eld will be
+blank. We now want to write Muted to the �eld, then end the
+automation.
+But if vnl_status is not blank, this means it’s either already set to
+www.getwsodo.com
+
+-- 3 of 12 --
+
+Muted or Subscribed , states we use elsewhere, so the automation
+can also be allowed to end.
+Step 3 — RBS Automation
+www.getwsodo.com
+
+-- 4 of 12 --
+
+The automation to control an RBS is simple. In this example, you
+can see our ‘Emergent Marketing Series’ RBS. It’s triggered when
+the RBS - Emergent Marketing Series (EMS) tag is added.
+(Remember, at this point, as seen in Step 2, vnl_status is set to Muted .)
+The subscriber is added to the RBS - Emergent Marketing Series
+(EMS) sequence. Our sequence is seven emails long, at which
+www.getwsodo.com
+
+-- 5 of 12 --
+
+point the subscriber is unsubscribed from the sequence and
+continues through the automation.
+At this point we set the vnl_status custom �eld to Subscribed ,
+indicating that the subscriber can now receive our VNL.
+(Once set to Subscribed , the value of the custom �eld will not be
+changed again UNLESS you decide you want to “mute”
+subscribers from your VNL in certain circumstances. We’ll cover
+this in a separate section.)
+Step 4 — Create VNL Broadcast Segment
+www.getwsodo.com
+
+-- 6 of 12 --
+
+The example above is a segment that targets:
+�. all subscribers , AND
+�. has the custom �eld vnl_status set to Subscribed .
+Meaning: every subscriber that relieves a VNL broadcast would
+have completed our RBS (or any other RBS).
+But what happens when if someone makes a purchase as their
+�rst entry point into our email world and enters one of our COSs?
+Let’s tackle that next.
+Step 5 — COS Automations
+The simple version of a Customer Onboarding Series would
+behave no different to an RBS. First, the sequence runs, then when
+�nished, writes Subscribed to the vnl_status custom �eld.
+However, a typical COS is longer than an RBS/SOS. And in some
+cases, a lot longer.
+For example, ARM2 was a six-week COS. ARM3 had a four-week
+COS. Some COSs that have ‘check-ins’ components could cause
+the COS to run for months.
+www.getwsodo.com
+
+-- 7 of 12 --
+
+For these longer COSs, we’ll most likely not want to wait for a COS
+to “end” before we can write Subscribed to the vnl_status custom
+�eld. Otherwise, these new customers would not receive our
+VNLs for, well, many weeks or even months.
+To get around this, we need automation that will write
+Subscribed to the vnl_status custom �eld after a predetermined
+delay.
+Here’s an example for our Functions — COS — AoE automation:
+www.getwsodo.com
+
+-- 8 of 12 --
+
+Let’s go through this automation.
+First, we have a condition where we check the value of the
+vnl_status custom �eld. If it already has the value Subscribed ,
+the automation ends. In this case, the customer was already
+“subscribed” from a previous entry point.
+If the value is not Subscribed (if it’s set to Muted , which is the only
+other value we use), a delay is started. In our example above,
+Subscribed is written after a week. The length of the delay would
+www.getwsodo.com
+
+-- 9 of 12 --
+
+be something you need to decide based on your COS.
+The question to ask is: When should a new customer be added to the
+VNL broadcast segment?
+The delay may be different depending on the length and intensity
+of COS. But, again, only you can decide this based on factors
+unique to you.
+Note: This automation doesn’t kickoff off the COS sequence. We
+have a separate automation, like this:
+www.getwsodo.com
+
+-- 10 of 12 --
+
+You may wonder why we didn’t combine the two automations
+into a single one. Wouldn’t that be easier and cleaner?
+In the examples above, yes. But our live automations have a lot
+more going on than this. We prefer to keep automations as simple
+as possible, where they don’t try and do too much.
+There’s nothing worse at staring down the barrel of an
+automation that is doing too much. Automations can get unruly
+quickly.
+Please ask questions and leave comments below if you don’t
+www.getwsodo.com
+
+-- 11 of 12 --
+
+understand something.
+—André & Shawn
+www.getwsodo.com
+
+-- 12 of 12 --
+

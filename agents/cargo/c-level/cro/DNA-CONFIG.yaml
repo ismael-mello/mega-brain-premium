@@ -17,11 +17,33 @@
 # ═══════════════════════════════════════════════════════════════════════════════
 
 cargo: "CRO"
-versao: "4.0.0"
+versao: "10.0.0"
 nivel: "C-LEVEL"
 natureza: "HIBRIDO"
 data_criacao: "2025-12-23"
-ultima_atualizacao: "2026-03-16"
+ultima_atualizacao: "2026-03-17"
+# v10.0.0 (2026-03-17): Updated john-carlton with SWS2 — 261 el DNA total (was 97), peso 0.70
+#                      - NEW source: Simple Writing System (164 new elements)
+#                      - Key new frameworks: 17-Step Formula, So What? Test, Incongruous Juxtaposition, 4-Part Sales Message, Grease Slide, Appealometer
+#                      - Total JC contribution: 261 elements (Best Ads 97 + SWS2 164)
+# v9.0.0 (2026-03-17): Added john-carlton (sales-letter-conversion, price-anchoring, risk-reversal, testimonial-integration) — 97 el DNA, peso 0.70
+#                      - Key frameworks: Triple-Layer Price Justification, Risk-Reversal Stack, Testimonial Integration
+#                      - Key IDs: FIL-JC-005/006/007, FW-JC-005/006/008, HEUR-JC-005/010/012
+#                      - Unique contribution: conversion through dramatic storytelling, price justification via narrative comparison
+# v8.0.0 (2026-03-17): Added ry-schwartz (enrollment-sales, launch-strategy, conversion-copywriting, application-funnels) — 405 el DNA, peso 0.80
+#                      - Key frameworks: 100% Close, Earned Enrollment, 3 Meta-States, MVL 2.0, AFA 15-Point
+#                      - Key IDs: FIL-RS-006/007/036, FW-RS-004/007/008/022, MM-RS-007, HEUR-RS-014
+#                      - Unique contribution: coaching-based enrollment, empathy-first sales, launch revenue optimization
+# v7.0.0 (2026-03-17): Updated david-deutsch with Idea Power (IPWR) — 218 el total (was 104), peso 0.75
+#                      - NEW: problem reframing for revenue, idea monetization 6-path framework, 15 Boxes for offer/product ideation
+#                      - Key new IDs: FIL-DD-027/034, FW-DD-021/037/039, MET-DD-016/019/025
+# v6.0.0 (2026-03-17): Added david-deutsch (peso 0.75) — buying psychology, close architecture, offer construction, conversion copy
+#                      - Key frameworks: 10 Buying Motivators (FW-DD-009), Close Architecture (FW-DD-012), Dual Journey (MM-DD-001)
+#                      - Key IDs: FW-DD-009/012, MM-DD-001/004/013, FIL-DD-012/017/018/021, HEUR-DD-003/019/022
+#                      - Unique contribution: conversion copy, close construction, buying psychology framework, guarantee optimization
+# v5.0.0 (2026-03-17): Added andre-chaperon (peso 0.80) — VPDC/JTBD offer-revenue alignment, email lifecycle revenue (AoE), SOI conversion architecture, durable business revenue design
+#                      - Key frameworks: VPDC (audience-offer fit), AoE (email revenue lifecycle), SOI (conversion via relationship), TDB (sustainable revenue)
+#                      - Key IDs: FIL-AC-010/011/025/027/029/031, MM-AC-006/007/009/010/031/033, FW-AC-003/005/036/037/038
 # v4.0.0 (2026-03-16): Added eugene-schwartz (peso 0.75) — market awareness, market sophistication, product-market fit, campaign intensification, strategic messaging
 #                      - FW-ES-001, FW-ES-002, MM-ES-010, FIL-ES-002, FIL-ES-007, MET-ES-003, MET-ES-004, FW-ES-011
 # v3.9.0 (2026-03-15): Phase 7-8 — Added nick-nanton (celebrity-branding, premium-pricing, legacy-dollars) + DK LLF (legend-economics, feeder-systems)
@@ -576,6 +598,60 @@ dna_sources:
       domains: ["direct-response", "sales-psychology", "offers", "pricing", "testing"]
       contribution: "Arithmetic validation framework, CTO model, testing methodology, backend marketing, price justification, guarantee psychology, door-to-door sales ratios"
 
+    - pessoa: "john-carlton"
+      path: "/knowledge/external/dna/persons/john-carlton"
+      raiz: "/knowledge/external/sources/john-carlton/raw/"
+      dominios_usados:
+        - "sales-letter-conversion"
+        - "price-anchoring"
+        - "risk-reversal"
+        - "testimonial-integration"
+        - "story-driven-selling"
+        - "systematic-copywriting"       # SWS2 enrichment 2026-03-17
+        - "offer-appeal-testing"         # SWS2 enrichment 2026-03-17
+      peso: 0.70
+      quando_usar: "Conversion optimization through dramatic storytelling, price justification via narrative comparison, risk-reversal stack construction, testimonial integration in sales letters, long-form sales letter conversion architecture, systematic copywriting process for conversion-focused copy, Appealometer for pre-launch offer testing, So What? Test for conversion copy editing"
+      justificativa: "John Carlton (Halbert protege) adds story-driven conversion methodology + systematic writing process — price anchoring through dramatic comparison, risk reversal as closing mechanism, testimonial integration patterns, and SWS2 17-step formula complement CRO's revenue optimization toolkit"
+      added: "2026-03-17"
+      updated: "2026-03-17"
+      insight_ids:
+        # --- Best Ads (original) ---
+        - "FIL-JC-005"   # Price anchoring philosophy
+        - "FIL-JC-006"   # Risk reversal as revenue driver
+        - "FIL-JC-007"   # Testimonial credibility transfer
+        - "FW-JC-005"    # Triple-Layer Price Justification
+        - "FW-JC-006"    # Risk-Reversal Stack
+        - "FW-JC-008"    # Testimonial Integration Framework
+        - "HEUR-JC-005"  # Price anchor ratio benchmarks
+        - "HEUR-JC-010"  # Risk reversal conversion lift
+        - "HEUR-JC-012"  # Testimonial placement impact
+        # --- SWS2 (added 2026-03-17) ---
+        - "FW-JC-021"    # 17-Step Systematic Copywriting Formula
+        - "FW-JC-022"    # So What? Test (conversion copy editing)
+        - "FW-JC-024"    # 4-Part Sales Message Template
+        - "FW-JC-025"    # Grease Slide (friction-free conversion path)
+        - "FW-JC-026"    # Appealometer (pre-launch offer appeal testing)
+      materiais_fonte:
+        - titulo: "Best Ads Collection (The One-Legged Golfer + The Nickel Letter)"
+          path_raiz: "/knowledge/external/sources/john-carlton/raw/best-ads/"
+          tipo: "classic-sales-letters"
+          data_processamento: "2026-03-17"
+          insights_principais:
+            - "Price anchoring via dramatic comparison: make price seem trivial vs alternative cost"
+            - "Risk reversal as closing mechanism: remove all barriers to purchase decision"
+            - "Testimonial integration: third-party narrator creates believability"
+            - "Story-driven conversion: narrative arc moves prospect from skepticism to action"
+        - titulo: "Simple Writing System (SWS2)"
+          path_raiz: "/knowledge/external/sources/john-carlton/raw/sws2/"
+          tipo: "copywriting-course"
+          data_processamento: "2026-03-17"
+          insights_principais:
+            - "17-Step Formula: systematic process for conversion-focused copy"
+            - "So What? Test: ruthless editing filter improves conversion by eliminating weak claims"
+            - "4-Part Sales Message Template: universal conversion copy structure"
+            - "Grease Slide: zero-friction path from headline to close"
+            - "Appealometer: systematic pre-launch testing of offer appeal before committing to full copy"
+
 # ═══════════════════════════════════════════════════════════════════════════════
 # MAPA DE CONFLITOS
 # ═══════════════════════════════════════════════════════════════════════════════
@@ -610,6 +686,43 @@ resolucao_de_conflitos:
       priorizar: "cole-gordon"
       razao: "Especialista em operacoes de vendas"
       fonte: "^[insight_id:OP001]"                                    # RASTREABILIDADE
+
+    - pessoa: "ry-schwartz"
+      path: "/knowledge/external/dna/persons/ry-schwartz"
+      raiz: "/knowledge/external/sources/ry-schwartz/raw/"
+      dominios_usados:
+        - "enrollment-sales"
+        - "launch-strategy"
+        - "conversion-copywriting"
+        - "application-funnels"
+      peso: 0.80
+      quando_usar: "Enrollment-based selling, launch revenue optimization, application funnel conversion, coaching-based enrollment calls, 100% Close methodology"
+      justificativa: "Ry Schwartz provides enrollment-based revenue frameworks -- complements Cole Gordon (sales scripts) with coaching-first enrollment approach and launch revenue optimization"
+      added: "2026-03-17"
+      insight_ids:
+        - "FIL-RS-006"   # 100% Close
+        - "FIL-RS-007"   # Earned Enrollment
+        - "FIL-RS-036"   # Revenue = conversations
+        - "FW-RS-004"    # 3 Meta-States
+        - "FW-RS-007"    # MVL 2.0
+        - "FW-RS-008"    # AFA 15-Point
+        - "FW-RS-022"    # 100% Close Framework
+        - "MM-RS-007"    # Enrollment vs Closing
+        - "HEUR-RS-014"  # Sales call 30-50% vs funnel 3-5%
+      materiais_fonte:
+        - titulo: "CTC Circle"
+          path_raiz: "/knowledge/external/sources/ry-schwartz/raw/"
+          tipo: "course"
+          data_processamento: "2026-03-17"
+          insights_principais:
+            - "100% Close -- yes or no never maybe; coaching into decisiveness"
+            - "Earned Enrollment -- earn through coaching not pressure"
+            - "Revenue = function of enrollment conversations with qualified prospects"
+            - "3 Meta-States enrollment (Before-During-After)"
+            - "MVL 2.0 launch revenue -- 5 strategies, 39-email bank"
+            - "AFA 15-point application funnel for high-ticket"
+            - "Sales call 30-50% vs funnel 3-5% -- Automated Intimacy bridges gap"
+            - "Seize Before Scale -- capture existing EP before expanding"
 
 # ═══════════════════════════════════════════════════════════════════════════════
 # PROTOCOLO DE RACIOCINIO

@@ -1,0 +1,59 @@
+# DNA-CONFIG — ANDRÉ CHAPERON
+# Versão: v1.0.0
+# Atualizado: 2026-03-17
+
+agent_type: "SOLO"
+person: "André Chaperon"
+dna_path: "knowledge/external/dna/persons/andre-chaperon/DNA.yaml"
+dna_version: "v1.0.0"
+total_elements: 380
+
+co_authors:
+  - name: "Shawn Twing"
+    weight: 0.40
+    modules: ["TTE", "Audience & Offer", "AoE Live Workshop", "Momentum Builder"]
+
+layers_summary:
+  L1_PHILOSOPHIES: 82
+  L2_MENTAL_MODELS: 68
+  L3_HEURISTICS: 98
+  L4_FRAMEWORKS: 78
+  L5_METHODOLOGIES: 54
+
+dna_sources:
+  - id: "MMS"
+    name: "Modern Marketing System"
+    type: "COURSE"
+    weight: 1.0
+    modules: 9
+    files: 217
+    size_mb: 6.3
+    elements: 380
+    raiz: "knowledge/external/sources/andre-chaperon/raw/"
+
+domains:
+  primary:
+    - "email-marketing"
+    - "sphere-of-influence"
+    - "systems-thinking"
+    - "relationship-marketing"
+    - "offers"
+    - "durable-business"
+  secondary:
+    - "paid-traffic"
+    - "content-marketing"
+    - "copywriting"
+    - "writing"
+    - "campaign-design"
+    - "buyer-psychology"
+    - "audience"
+    - "business-design"
+    - "economics"
+    - "goal-setting"
+
+next_ids:
+  FIL: "FIL-AC-083"
+  MM: "MM-AC-069"
+  HEUR: "HEUR-AC-099"
+  FW: "FW-AC-079"
+  MET: "MET-AC-055"

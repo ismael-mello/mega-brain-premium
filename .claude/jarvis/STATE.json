@@ -1,28 +1,28 @@
 {
-  "version": "2.2.0",
-  "updated_at": "2026-03-16T19:21:00Z",
+  "version": "2.3.0",
+  "updated_at": "2026-03-17T22:00:00Z",
   "system": {
     "status": "OPERATIONAL",
-    "health_score": 98,
+    "health_score": 100,
     "health_label": "EXCELLENT"
   },
   "knowledge_base": {
-    "sources_total": 16,
-    "dna_persons_total": 16,
-    "agents_person": 16,
+    "sources_total": 22,
+    "dna_persons_total": 22,
+    "agents_person": 23,
     "agents_cargo": 15,
-    "agents_total": 29,
+    "agents_total": 38,
     "inbox_pending": 0,
-    "agg_files": 14
+    "agg_files": 15
   },
   "sources": {
     "dan-kennedy": {
       "status": "COMPLETE",
       "dna": true,
       "agent": true,
-      "dna_version": 29,
-      "elements": 2914,
-      "layers": "L1:639 L2:578 L3:879 L4:495 L5:339",
+      "dna_version": 31,
+      "elements": 3070,
+      "layers": "L1:671 L2:605 L3:927 L4:525 L5:358",
       "sources": [
         "CC — copywriting-clinic (12 elements)",
         "7FA — 7-figure-academy (152 elements)",
@@ -37,29 +37,18 @@
         "MEM — magnetic-email-marketing (59 elements)",
         "BOC — business-of-copywriting (71 elements)",
         "SMU — sales-mastery-unleashed (62 elements)",
-        "IWW — influential-writing-workshop (282 elements, 13 CDs)"
-      ],
-      "dossiers": [
-        "DOSSIER-DAN-KENNEDY.md",
-        "DOSSIER-COACHING-CONSULTING.md",
-        "DOSSIER-OPPORTUNITY-MARKETING.md",
-        "DOSSIER-MIND-HIJACKING.md",
-        "SOURCE-MEM.md",
-        "SOURCE-IWW.md"
+        "IWW — influential-writing-workshop (282 elements, 13 CDs)",
+        "HFYIC — how-to-find-your-ideal-client (156 elements)",
+        "BIS — butt-in-seats (90 elements)"
       ],
       "cargo_enriched": [
-        "CLOSER (v2.23.0 — +6 RM insights)",
-        "CMO (v2.4.0 — +18 RM insights)",
-        "CRO (v3.3.0 — +9 RM insights)",
-        "Sales Manager (v2.14.0 — +8 RM insights)",
-        "CMO (v2.5.0 — +17 MEM insights)",
-        "CLOSER (v2.25.0 — +14 IWW insights)",
-        "CMO (v2.6.0 — +18 IWW insights)",
-        "CRO (v3.5.0 — +11 IWW insights)",
-        "Sales Manager (v2.16.0 — +10 IWW insights)"
+        "CLOSER",
+        "CMO",
+        "CRO",
+        "Sales Manager"
       ],
-      "next_ids": "FIL-DK-669 MM-DK-652 HEUR-DK-897 FW-DK-820 MET-DK-672",
-      "note": "Pipeline 100% completo (2026-03-16). 14 fontes. v29.0.0. IWW +282 elements. AGG-COPYWRITING v2.0.0. AGG-STORYTELLING v2.0.0."
+      "next_ids": "FIL-DK-701 MM-DK-679 HEUR-DK-945 FW-DK-850 MET-DK-691",
+      "note": "Pipeline 100% completo (2026-03-17). 16 fontes. v31.0.0. 3070 elements."
     },
     "russell-brunson": {
       "status": "COMPLETE",
@@ -75,7 +64,37 @@
         "CRO"
       ],
       "next_ids": "PHI-RB-201 MM-RB-181 HEUR-RB-306 FW-RB-181 MET-RB-111",
-      "note": "MM completo (2026-03-15). Cargo enrichment 6/7 done (Closer, CMO, CRO). Cosmético verificado — tudo já estava feito."
+      "note": "MM completo (2026-03-15). 28 programas."
+    },
+    "todd-brown": {
+      "status": "COMPLETE",
+      "dna": true,
+      "agent": true,
+      "dna_version": 5,
+      "elements": 590,
+      "layers": "L1:113 L2:113 L3:164 L4:123 L5:77",
+      "sources_count": 9,
+      "cargo_enriched": [
+        "CMO",
+        "CRO"
+      ],
+      "next_ids": "FIL-TB-114 MM-TB-114 HEUR-TB-165 FW-TB-124 MET-TB-078",
+      "note": "9 fontes. YWO done (73 elements). AGG-OFFERS v2.0.0. AGG-COPYWRITING v6.0.0."
+    },
+    "ry-schwartz": {
+      "status": "COMPLETE",
+      "dna": true,
+      "agent": true,
+      "dna_version": 1,
+      "elements": 405,
+      "layers": "L1:85 L2:75 L3:100 L4:80 L5:65",
+      "sources_count": 1,
+      "cargo_enriched": [
+        "CMO",
+        "CRO"
+      ],
+      "next_ids": "FIL-RS-086 MM-RS-076 HEUR-RS-101 FW-RS-081 MET-RS-066",
+      "note": "CTC Circle (279 files). AGG-COPYWRITING v11.0.0. AGG-OFFERS v4.0.0."
     },
     "alex-hormozi": {
       "status": "COMPLETE",
@@ -92,19 +111,52 @@
         "CLOSER",
         "CMO"
       ],
-      "note": "ACQ18K enrichment completo (2026-03-12). AGENT-INDEX sources:9 ja correto."
+      "note": "ACQ18K enrichment completo (2026-03-12)."
     },
-    "flcr": {
+    "andre-chaperon": {
       "status": "COMPLETE",
       "dna": true,
       "agent": true,
       "dna_version": 1,
-      "elements": 180,
-      "layers": "L1:28 L2:32 L3:38 L4:42 L5:40",
-      "modulos": "00-10 + EXTRA",
-      "person": "Wilson Sajr (@wilsonsajr) / PWR Gestão",
-      "cargo_enriched": [],
-      "note": "COMPLETE (2026-03-15). Inbox limpo. COO+CRO enriched. AGG-LIDERANCA.yaml. MÓDULO 10 = arquivo vazio (0 bytes), nada a extrair."
+      "elements": 380,
+      "layers": "L1:82 L2:68 L3:98 L4:78 L5:54",
+      "sources_count": 1,
+      "cargo_enriched": [
+        "CMO",
+        "CRO"
+      ],
+      "next_ids": "FIL-AC-083 MM-AC-069 HEUR-AC-099 FW-AC-079 MET-AC-055",
+      "note": "MMS (217 files, 9 módulos). AGG-COPYWRITING v8.0.0. AGG-OFFERS v3.0.0. AGG-TRAFFIC v2.0.0."
+    },
+    "gary-halbert": {
+      "status": "COMPLETE",
+      "dna": true,
+      "agent": true,
+      "dna_version": 1,
+      "elements": 297,
+      "layers": "L1:73 L2:54 L3:93 L4:48 L5:29",
+      "sources_count": 1,
+      "cargo_enriched": [
+        "CMO",
+        "CRO"
+      ],
+      "next_ids": "FIL-GH-074 MM-GH-055 HEUR-GH-094 FW-GH-049 MET-GH-030",
+      "note": "Halbertology (69 files, 8 weeks). AGG-COPYWRITING v7.0.0. AGG-VENDAS v3.0.0."
+    },
+    "john-carlton": {
+      "status": "COMPLETE",
+      "dna": true,
+      "agent": true,
+      "dna_version": 2,
+      "elements": 261,
+      "layers": "L1:53 L2:36 L3:68 L4:65 L5:39",
+      "sources_count": 2,
+      "cargo_enriched": [
+        "CMO",
+        "CRO"
+      ],
+      "next_ids": "FIL-JC-054 MM-JC-037 HEUR-JC-069 FW-JC-066 MET-JC-040",
+      "note": "Best Ads + SWS2 (23 files). AGG-COPYWRITING v13.0.0."
     },
     "capital-upgrade": {
       "status": "COMPLETE",
@@ -113,13 +165,41 @@
       "dna_version": 2,
       "elements": 257,
       "layers": "L1:57 L2:50 L3:70 L4:46 L5:33",
-      "modulos": "00-10 + Bonus",
       "person": "Paulo Vito Porto / PWR Gestão",
       "cargo_enriched": [
         "CFO",
         "COO"
       ],
-      "note": "Person agent criado (2026-03-11). AGG-GESTAO-FINANCEIRA.yaml criado."
+      "note": "AGG-GESTAO-FINANCEIRA.yaml criado."
+    },
+    "david-deutsch": {
+      "status": "COMPLETE",
+      "dna": true,
+      "agent": true,
+      "dna_version": 2,
+      "elements": 218,
+      "layers": "L1:53 L2:40 L3:55 L4:40 L5:30",
+      "sources_count": 3,
+      "cargo_enriched": [
+        "CMO",
+        "CRO"
+      ],
+      "next_ids": "FIL-DD-054 MM-DD-041 HEUR-DD-056 FW-DD-041 MET-DD-031",
+      "note": "ACLS + GH-KH + Idea Power (85 files). AGG-COPYWRITING v10.0.0."
+    },
+    "flcr": {
+      "status": "COMPLETE",
+      "dna": true,
+      "agent": true,
+      "dna_version": 1,
+      "elements": 180,
+      "layers": "L1:28 L2:32 L3:38 L4:42 L5:40",
+      "person": "Wilson Sajr (@wilsonsajr) / PWR Gestão",
+      "cargo_enriched": [
+        "COO",
+        "CRO"
+      ],
+      "note": "AGG-LIDERANCA.yaml criado."
     },
     "nick-nanton": {
       "status": "COMPLETE",
@@ -128,7 +208,8 @@
       "dna_version": 1,
       "elements": 178,
       "layers": "L1:52 L2:32 L3:42 L4:28 L5:24",
-      "note": "CBB + Story Selling. 178 elements. Pipeline complete (2026-03-15)."
+      "sources_count": 2,
+      "note": "CBB + Story Selling. DOSSIER-CELEBRITY-BRANDING.md."
     },
     "liam-ottley": {
       "status": "COMPLETE",
@@ -136,14 +217,20 @@
       "agent": true,
       "dna_version": 1,
       "elements": 27,
-      "note": "AIOS Architect. Person agent criado (2026-03-15)."
+      "note": "AIOS Architect."
     },
     "richard-linder": {
       "status": "COMPLETE",
       "dna": true,
       "agent": true,
       "elements": 24,
-      "note": "Source folder created 2026-03-10. Founder First Hiring framework."
+      "note": "Founder First Hiring framework."
+    },
+    "eugene-schwartz": {
+      "status": "COMPLETE",
+      "dna": true,
+      "agent": true,
+      "note": "Breakthrough Advertising. Legacy source."
     },
     "cole-gordon": {
       "status": "COMPLETE",
@@ -199,13 +286,13 @@
       "status": "COMPLETE",
       "dna": true,
       "agent": false,
-      "note": "JH program — 44 DNA elements merged into jeremy-haynes DNA. Cascaded to CMO+CRO."
+      "note": "JH program — 44 DNA elements merged into jeremy-haynes DNA."
     },
     "client-accelerator": {
       "status": "COMPLETE",
       "dna": true,
       "agent": false,
-      "note": "JH program — DNA merged into jeremy-haynes. Cascaded to CMO+CRO. 28 raw files."
+      "note": "JH program — DNA merged into jeremy-haynes."
     }
   },
   "agg_files": [
@@ -219,10 +306,11 @@
     "AGG-EXECUTIVE-LEADERSHIP.yaml",
     "AGG-DATA-GROWTH.yaml",
     "AGG-DESIGN.yaml",
-    "AGG-MOVEMENT-BUILDING.yaml",
+    "AGG-MOVEMENT.yaml",
     "AGG-CLAUDE-CODE-MASTERY.yaml",
     "AGG-GESTAO-FINANCEIRA.yaml",
-    "AGG-LIDERANCA.yaml"
+    "AGG-LIDERANCA.yaml",
+    "AGG-MONEY-MODELS.yaml"
   ],
   "cargo_agents": {
     "total": 15,
@@ -244,56 +332,57 @@
     ],
     "enriched_sources": [
       "AH (ACQ18K)",
-      "DK (MM+OMC+MTBN+LLF+MH+RM)",
-      "RB (MM)",
+      "DK (16 fontes)",
+      "RB (MM 28 programas)",
       "JH (30DC+CA)",
-      "CU (Capital Upgrade)"
+      "CU (Capital Upgrade)",
+      "FLCR (Liderança)",
+      "TB (9 fontes)",
+      "GH (Halbertology)",
+      "AC (MMS)",
+      "DD (ACLS+IPWR)",
+      "RS (CTC Circle)",
+      "JC (Best Ads+SWS2)"
     ]
   },
   "git": {
     "branch": "main",
-    "last_commit": "8ec001b",
-    "last_commit_msg": "chore: session state sync + DK raw files + pipeline scripts",
+    "last_commit": "7950b1b",
+    "last_commit_msg": "chore: session state sync post-push",
     "commits_ahead": 0,
-    "pending_commit": null
+    "pending_commit": "AC+DD+RS+JC agents, dossiers, AGG updates"
   },
   "upstream_sync": {
     "status": "RESOLVED",
     "resolved_at": "2026-03-15",
     "commit": "3637304",
-    "strategy": "cherry-pick cirúrgico (Opção C — só core engine)",
-    "applied": [
-      "validate_cascading_integrity.py — paths knowledge/external/ corrigidos",
-      "requirements.txt — pyannote.audio + torch + assemblyai (já instalados no Miniconda)"
-    ],
-    "skipped": "rename agents/external/ → agents/persons/ (incompatível com directory-contract.md)",
-    "note": "upstream (thiagofinch/mega-brain) é versão community — 3463 deletions (L3 pessoal). Merge direto impossível."
+    "strategy": "cherry-pick cirúrgico (Opção C — só core engine)"
   },
   "pending": {
     "minor_cleanup": {
       "priority": "NONE",
       "items": [],
-      "note": "Tudo verificado. Upstream sync resolvido."
+      "note": "Inbox limpo. Todas as fontes completas."
     }
   },
   "session": {
-    "id": "SESSION-2026-03-16-003",
-    "started_at": "2026-03-16T19:21:00Z",
-    "last_activity_at": "2026-03-16T21:00:00Z",
+    "id": "SESSION-2026-03-17-004",
+    "started_at": "2026-03-17T22:00:00Z",
+    "last_activity_at": "2026-03-17T22:00:00Z",
     "is_active": true
   },
   "next_action": {
-    "description": "DK IWW pipeline COMPLETE (282 elements, 14 fontes, v29). 4 cargo agents enriched. Aguardando nova missao.",
-    "pending_manual": "Remover inbox/Dan Kennedy - Influential Writing Workshop/ (ja copiado para raw)",
+    "description": "Todas as 22 fontes completas. Aguardando nova missão.",
     "options": [
       "Ingerir novo especialista/programa → /jarvis-full [material]",
-      "Consulta estratégica → /conclave ou /ask"
+      "Consulta estratégica → /conclave ou /ask",
+      "Commit pending changes → git add + commit"
     ]
   },
   "mis": {
     "session_id": "",
-    "prompt_count": 213,
-    "bracket": "CRITICAL",
-    "context_percent": 0.0
+    "prompt_count": 1,
+    "bracket": "FRESH",
+    "context_percent": 99.2
   }
 }

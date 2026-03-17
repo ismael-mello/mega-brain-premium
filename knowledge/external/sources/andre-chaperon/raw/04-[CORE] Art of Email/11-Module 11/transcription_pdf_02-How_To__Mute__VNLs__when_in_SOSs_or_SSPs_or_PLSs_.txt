@@ -1,0 +1,44 @@
+2 min read
+Outside of our RBS, we don’t ‘suppress’ subscribers from receiving
+our VNLs when they self-select to receive an SOS/SSP/PLS, but we
+appreciate there are use cases where this could be useful.
+Let’s look at how to make this happen.
+As described in the previous section, there are a few ways to do
+this. We think using a custom �eld is the best approach.
+As with an entry-point RBS, all we need to do is change the value
+of our vnl_status custom �eld to Muted (or whatever value
+you’ve chosen to use to signify that a subscriber should be
+suppress from receiving a VNL), like this:
+How To “Mute” VNLs (when in
+SOSs/SSPs/PLSs)
+www.getwsodo.com
+
+-- 1 of 5 --
+
+www.getwsodo.com
+
+-- 2 of 5 --
+
+In this example, we set the vnl_status 	custom �eld to Muted
+just before adding the subscriber to the SOS -- TDB Showcase
+Series sequence. Once the series is �nished, the vnl_status
+custom �eld is changed back to Subscribed .
+In this scenario, when a subscriber is receiving the ‘SOS — TDB
+Showcase Series,’ they will be omitted from all VNL broadcasts.
+www.getwsodo.com
+
+-- 3 of 5 --
+
+If you want to focus your audience’s attention, this same logic can
+be applied to any series.
+If you have a question about this, please leave comments below.
+Please ask questions and leave comments below.
+—André & Shawn
+www.getwsodo.com
+
+-- 4 of 5 --
+
+www.getwsodo.com
+
+-- 5 of 5 --
+

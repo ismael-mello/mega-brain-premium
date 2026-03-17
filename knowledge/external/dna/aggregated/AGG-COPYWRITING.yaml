@@ -1,14 +1,14 @@
 # AGG-COPYWRITING.yaml
 # DOMÍNIO: Copywriting, direct response, persuasão escrita
-# VERSÃO: 4.0.0
+# VERSÃO: 5.0.0
 # CRIADO: 2026-03-13
 # ATUALIZADO: 2026-03-17
 #
-# FONTES: Dan Kennedy (822 el) + Eugene Schwartz (115 el) + Russell Brunson (200 el) + Alex Hormozi (80 el) + Todd Brown (292 el) + Gary Halbert (297 el)
+# FONTES: Dan Kennedy (822 el) + Eugene Schwartz (115 el) + Russell Brunson (200 el) + Alex Hormozi (80 el) + Todd Brown (292 el) + Gary Halbert (297 el) + André Chaperon (120 el) + David Deutsch (218 el) + Ry Schwartz (150 el) + John Carlton (261 el)
 # ═══════════════════════════════════════════════════════════════════════════════
 
 dominio: "copywriting"
-versao: "7.0.0"
+versao: "13.0.0"
 criado_em: "2026-03-13"
 atualizado_em: "2026-03-17"
 
@@ -72,6 +72,44 @@ fontes_consolidadas:
     elementos_relevantes: 297
     fontes_incluidas:
       - "Halbertology (297 elementos — 1996 Copywriting Seminar Parts 1-17, Kevin Halbert Course, Base Trilogy, guest experts: Dan Kennedy Grabbers, David Deutsch Headlines, David Garfinkel Water Ad, Craig Clemens 7 Secrets, Michel Fortin $100M Man, Joe Sugarman 30-Day, John Carlton Dark Side, Michael Gerber Fighter Pilot, Nader Anise Cardboard Hero, Mark McRae Business Course)"
+
+  - fonte: "andre-chaperon"
+    peso_dominio: 0.80
+    path: "/knowledge/external/dna/persons/andre-chaperon/"
+    raiz: "/knowledge/external/sources/andre-chaperon/raw/"
+    contribuicao_principal: "Email copywriting mastery — story-powered sequences, thematic arcs, empathy-authority-plan, open loops, beat sheet method, Rule of Three, shitty first draft discipline, 500-800w Facebook ads, 1200-1800w landing pages, narrative-driven promotional copy"
+
+  - fonte: "david-deutsch"
+    peso_dominio: 0.90
+    path: "/knowledge/external/dna/persons/david-deutsch/"
+    raiz: "/knowledge/external/sources/david-deutsch/raw/"
+    contribuicao_principal: "A-list copywriting craft — BULLETS fascination framework, Dual Journey (intellectual+emotional), 10 Buying Motivators, Close Architecture, Hook Discovery, Mom Test, Fantasy→Reality headlines, magalog structure, Stage 5 indirect method + Systematic creativity via 15 Boxes (Idea Power) — Powering Persuasion with Creativity, Million Dollar Title Process, Copy Creativity Through Boxes"
+    elementos_relevantes: 218
+    fontes_incluidas:
+      - "A-List Copywriting Secrets (104 elementos — AIDA/SSS/PAS, 4C's+2H's, BULLETS, 10 Buying Motivators, Hero's Journey, Close Architecture, 5 Lead Types, Magalogs, Creative Brief, 100 Headlines, 6W Prospect Research)"
+      - "Idea Power (114 elementos — 15 Boxes systematic creativity, Powering Persuasion with Creativity, Million Dollar Title Process, Copy Creativity Through Boxes, cross-pollination, rapid ideation sprints)"
+    elementos_relevantes: 218
+    fontes_incluidas:
+      - "Modern Marketing System (120 elementos — Art of Email writing frameworks, Momentum Builder campaign copy, SOI presell site copywriting, thematic arc structure, open loop technique, promotional email sequences, landing page framework)"
+
+  - fonte: "ry-schwartz"
+    peso_dominio: 0.88
+    path: "/knowledge/external/dna/persons/ry-schwartz/"
+    raiz: "/knowledge/external/sources/ry-schwartz/raw/"
+    contribuicao_principal: "Coaching-based conversion copywriting — Themeplate system (34+ named email frameworks), Gap Method for sales pages, ACE Model for webinars, MVL 2.0 launch system, marketing-as-coaching philosophy, identity-level selling, emotional state progression, Automated Intimacy, 100% Close methodology"
+    elementos_relevantes: 150
+    fontes_incluidas:
+      - "CTC Circle (150 elementos — 6 Six Figure Email Themeplates, 7 Pillars of Empire Engineering, Gap Method sales pages, 3 Meta-States enrollment, MVL 2.0 launch strategies, ACE webinar model, AFA application funnels, Automated Intimacy framework)"
+
+  - fonte: "john-carlton"
+    peso_dominio: 0.90
+    path: "/knowledge/external/dna/persons/john-carlton/"
+    raiz: "/knowledge/external/sources/john-carlton/raw/"
+    contribuicao_principal: "Story-driven sales letter mastery + systematic copywriting methodology — third-party narrator technique, amazing discovery narrative arc, fascination bullet writing, long-form direct mail architecture, Nickel Letter attention device, price anchoring via dramatic comparison, risk reversal as closing mechanism, 17-step systematic copywriting formula, So What? Test, Incongruous Juxtaposition hook formula, Grease Slide, Appealometer"
+    elementos_relevantes: 261
+    fontes_incluidas:
+      - "Best Ads Collection (97 elementos — The One-Legged Golfer, The Nickel Letter, story-driven selling, fascinating character method, third-party narrator, fascination bullets, 8-Part Sales Letter Architecture)"
+      - "Simple Writing System (164 elementos — 17-Step Systematic Copywriting Formula, So What? Test, Incongruous Juxtaposition hook formula, 4-Part Sales Message Template, Grease Slide, Appealometer, Anti-Writer's-Block Protocol)"
 
 # ═══════════════════════════════════════════════════════════════════════════════
 # FILOSOFIAS
@@ -479,6 +517,14 @@ tensoes:
 # ═══════════════════════════════════════════════════════════════════════════════
 
 changelog:
+  - versao: "13.0.0"
+    data: "2026-03-17"
+    mudancas:
+      - "John Carlton SWS2 integrado: elementos 97→261 (+164 novos elementos do Simple Writing System)"
+      - "SWS2 = 17-Step Systematic Copywriting Formula, So What? Test, Incongruous Juxtaposition hook formula, 4-Part Sales Message Template, Grease Slide, Appealometer, Anti-Writer's-Block Protocol"
+      - "JC fontes_incluidas: adicionado Simple Writing System (164 elementos)"
+      - "Total JC contribution agora 261 elementos (2 fontes: Best Ads + SWS2)"
+
   - versao: "3.0.0"
     data: "2026-03-16"
     mudancas:

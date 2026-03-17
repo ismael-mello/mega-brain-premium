@@ -24,12 +24,37 @@
 # ═══════════════════════════════════════════════════════════════════════════════
 
 cargo: "CMO"
-versao: "5.0.0"
+versao: "11.0.0"
 nivel: "C-LEVEL"
 natureza: "HIBRIDO"
 data_criacao: "2025-12-23"
-ultima_atualizacao: "2026-03-16"
+ultima_atualizacao: "2026-03-17"
 # CHANGELOG:
+# v11.0.0 (2026-03-17): Updated john-carlton with SWS2 — 261 el DNA total (was 97), peso 0.80
+#                      - NEW source: Simple Writing System (164 new elements)
+#                      - Key new frameworks: 17-Step Systematic Copywriting Formula, So What? Test, Incongruous Juxtaposition, 4-Part Sales Message Template, Grease Slide, Appealometer, Anti-Writer's-Block Protocol
+#                      - Total JC contribution: 261 elements (Best Ads 97 + SWS2 164)
+# v10.0.0 (2026-03-17): Added john-carlton (story-driven-selling, long-form-copy, fascination-bullets, third-party-narrator) — 97 el DNA, peso 0.80
+#                      - Key frameworks: 8-Part Sales Letter Architecture, Amazing Discovery Formula, Fascination Bullet Battery, Triple-Layer Price Justification
+#                      - Key IDs: FIL-JC-001/002/003, FW-JC-001/002/003/007, HEUR-JC-001/003/009, MET-JC-001/002
+#                      - Unique contribution: story-driven selling methodology, third-party narrator technique, physical attention device strategy
+# v9.0.0 (2026-03-17): Added ry-schwartz (conversion-copywriting, email-marketing, launch-strategy, enrollment-sales, webinar, AFA, automation) — 405 el DNA, peso 0.85
+#                      - Key frameworks: Themeplate System (34+), Gap Method, ACE Model, MVL 2.0, 3 Meta-States, 100% Close, Automated Intimacy, AFA 15-Point
+#                      - Key IDs: FIL-RS-001/011/012, FW-RS-002/003/005/007, MM-RS-001/004, HEUR-RS-001
+#                      - Unique contribution: coaching-based conversion copy, empathy-first enrollment, pop-culture framework naming
+# v8.0.0 (2026-03-17): Updated david-deutsch with Idea Power (IPWR) — 218 el DNA total (was 104), peso 0.85
+#                      - NEW domains: creativity, idea-generation, systematic-thinking, problem-solving, innovation
+#                      - Key new frameworks: 15 Boxes System (FW-DD-021-036), 4-Step Idea Selection (FW-DD-037), Powering Persuasion with Creativity (FW-DD-040)
+#                      - Key new IDs: FIL-DD-027/028/030/034, FW-DD-021/037/038/040, MET-DD-016/017/018/021/022
+#                      - Unique IPWR contribution: systematic creativity applied to marketing — constrained search, problem reframing, rapid ideation, copy creativity through boxes
+# v7.0.0 (2026-03-17): Added david-deutsch (copywriting-craft, headlines, fascinations, buying-psychology, magalogs, close-architecture) — 104 el DNA, peso 0.85
+#                      - Key frameworks: BULLETS (B-U-L-L-E-T-S), 4C's+2H's, 10 Buying Motivators, Close Architecture, Fantasy→Reality Headlines
+#                      - Key IDs: FW-DD-007/005/006/009/012/015, MM-DD-001/002/006, HEUR-DD-001/002/004, MET-DD-001/002/005
+#                      - Unique contribution: fascination writing methodology, headline mass production, copy improvement process, creative brief framework
+# v6.0.0 (2026-03-17): Added andre-chaperon (email-marketing, sphere-of-influence, systems-thinking, content-marketing, campaign-design) — 380 el DNA, peso 0.85
+#                      - Key frameworks: AoE (RBS/VNL/SOS/PLS/COS), SOI, VPDC, TDB, Momentum Builder
+#                      - Key IDs: FIL-AC-006/007/009/017/018/021/028/042, MM-AC-001/011/019/035, FW-AC-001/002/003/007/042/044
+#                      - Unique contribution: systems-based marketing, relationship-first email, organic traffic empire
 # v5.0.0 (2026-03-16): Added eugene-schwartz (market-awareness, market-sophistication, breakthrough-advertising, headline-mastery) — 12 landmark IDs
 # v4.0.0 (2026-03-15): Phase 7-8 — Added nick-nanton (celebrity-branding, storytelling, brand-positioning, legend-building) + DK LLF domains (legend-building, publishing, school-of-thought)
 #                      - Added nick-nanton IDs: FIL-NN-001/002/004/005/007/008/026/033
@@ -724,6 +749,113 @@ dna_sources:
           insights_principais:
             - "Social Selling: $1 → $5 ROI"
             - "LinkedIn como canal de autoridade B2B"
+
+    - pessoa: "ry-schwartz"
+      path: "/knowledge/external/dna/persons/ry-schwartz"
+      raiz: "/knowledge/external/sources/ry-schwartz/raw/"
+      dominios_usados:
+        - "conversion-copywriting"
+        - "email-marketing"
+        - "launch-strategy"
+        - "enrollment-sales"
+        - "webinar-optimization"
+        - "application-funnels"
+        - "automation"
+      peso: 0.85
+      quando_usar: "Email marketing como coaching, Themeplates, launch sequences, sales pages (Gap Method), enrollment conversations, webinar ACE Model, application funnels, Automated Intimacy"
+      justificativa: "Ry Schwartz redefine conversion copywriting como coaching -- complementa Kennedy/Halbert (direct response craft) com empathy-first enrollment approach"
+      added: "2026-03-17"
+      insight_ids:
+        - "FIL-RS-001"   # Marketing IS Coaching
+        - "FIL-RS-011"   # Themeplates Over Templates
+        - "FIL-RS-012"   # 7 Pillars of Empire Engineering
+        - "FW-RS-002"    # Themeplate System (34+)
+        - "FW-RS-005"    # Gap Method
+        - "FW-RS-007"    # MVL 2.0
+        - "FW-RS-003"    # ACE Model
+        - "MM-RS-001"    # Marketing as Coaching
+        - "MM-RS-004"    # Emotional State Progression
+        - "HEUR-RS-001"  # 5 emails > 47
+      materiais_fonte:
+        - titulo: "CTC Circle"
+          path_raiz: "/knowledge/external/sources/ry-schwartz/raw/"
+          tipo: "course"
+          data_processamento: "2026-03-17"
+          insights_principais:
+            - "Marketing IS coaching -- every email is micro-coaching session"
+            - "34+ Themeplates (pop culture named email frameworks)"
+            - "Gap Method for sales pages (Establish-Explore-Exit-Escape)"
+            - "ACE Model for webinars (Authority-Connection-Enrollment)"
+            - "MVL 2.0 -- 5 strategic emails beat 47 generic ones"
+            - "3 Meta-States (Before-During-After) govern all conversion"
+            - "100pct Close -- yes or no never maybe"
+            - "Automated Intimacy -- automation empowers human connection"
+
+    - pessoa: "john-carlton"
+      path: "/knowledge/external/dna/persons/john-carlton"
+      raiz: "/knowledge/external/sources/john-carlton/raw/"
+      dominios_usados:
+        - "story-driven-selling"
+        - "long-form-copy"
+        - "fascination-bullets"
+        - "third-party-narrator"
+        - "direct-mail"
+        - "sales-letter-architecture"
+        - "systematic-copywriting"       # SWS2 enrichment 2026-03-17
+        - "hook-formulas"                # SWS2 enrichment 2026-03-17
+        - "copy-process"                 # SWS2 enrichment 2026-03-17
+      peso: 0.80
+      quando_usar: "Story-driven sales letters, fascination bullet writing, third-party narrator technique, long-form direct mail copy, amazing discovery narrative arc, physical attention devices (Nickel Letter), price anchoring through dramatic comparison, 17-step systematic copywriting formula, So What? Test, Incongruous Juxtaposition hook formula, Grease Slide methodology, Appealometer, Anti-Writer's-Block Protocol"
+      justificativa: "John Carlton (Gary Halbert protege) brings story-driven selling mastery + systematic copywriting process — complements Halbert (fundamentals), Kennedy (direct response systems), and Schwartz (market awareness) with narrative-based conversion methodology and a complete step-by-step writing system"
+      added: "2026-03-17"
+      updated: "2026-03-17"
+      insight_ids:
+        # --- Best Ads (original) ---
+        - "FIL-JC-001"   # Story-driven selling
+        - "FIL-JC-002"   # Third-party narrator technique
+        - "FIL-JC-003"   # Fascinating character method
+        - "FW-JC-001"    # 8-Part Sales Letter Architecture
+        - "FW-JC-002"    # Amazing Discovery Formula
+        - "FW-JC-003"    # Fascination Bullet Battery
+        - "FW-JC-007"    # Triple-Layer Price Justification
+        - "HEUR-JC-001"  # Long-form letter conversion
+        - "HEUR-JC-003"  # Fascination bullet density
+        - "HEUR-JC-009"  # Price anchoring ratio
+        - "MET-JC-001"   # Story-driven sales letter method
+        - "MET-JC-002"   # Nickel Letter attention device
+        # --- SWS2 (added 2026-03-17) ---
+        - "FW-JC-021"    # 17-Step Systematic Copywriting Formula
+        - "FW-JC-022"    # So What? Test
+        - "FW-JC-023"    # Incongruous Juxtaposition hook formula
+        - "FW-JC-024"    # 4-Part Sales Message Template
+        - "FW-JC-025"    # Grease Slide
+        - "FW-JC-026"    # Appealometer
+        - "MET-JC-016"   # Anti-Writer's-Block Protocol
+      materiais_fonte:
+        - titulo: "Best Ads Collection (The One-Legged Golfer + The Nickel Letter)"
+          path_raiz: "/knowledge/external/sources/john-carlton/raw/best-ads/"
+          tipo: "classic-sales-letters"
+          data_processamento: "2026-03-17"
+          insights_principais:
+            - "Story-driven selling: third-party narrator creates believability and emotional investment"
+            - "Amazing discovery narrative arc: ordinary person discovers extraordinary solution"
+            - "Fascination bullet mastery: each bullet must sell independently"
+            - "8-Part Sales Letter Architecture: complete long-form structure"
+            - "Nickel Letter physical attention device: tangible object disrupts pattern"
+            - "Price anchoring via dramatic comparison: make price seem trivial"
+            - "Risk reversal as closing mechanism: remove all barriers to action"
+        - titulo: "Simple Writing System (SWS2)"
+          path_raiz: "/knowledge/external/sources/john-carlton/raw/sws2/"
+          tipo: "copywriting-course"
+          data_processamento: "2026-03-17"
+          insights_principais:
+            - "17-Step Systematic Copywriting Formula: complete step-by-step process from blank page to finished copy"
+            - "So What? Test: ruthless self-editing filter for every claim and sentence"
+            - "Incongruous Juxtaposition: hook formula that creates curiosity through unexpected combinations"
+            - "4-Part Sales Message Template: universal structure for any sales communication"
+            - "Grease Slide: every element must pull reader forward — zero friction"
+            - "Appealometer: systematic measurement of offer appeal before writing"
+            - "Anti-Writer's-Block Protocol: systematic process to overcome creative paralysis"
 
 # ═══════════════════════════════════════════════════════════════════════════════
 # MAPA DE CONFLITOS

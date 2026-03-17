@@ -1,0 +1,1590 @@
+# DNA COGNITIVO — DAVID DEUTSCH
+# Versão: 2.0.0
+# Fontes: ACLS (14 Lessons + 3 Bonuses) + Killer Headlines (GH) + Idea Power (IPWR)
+# Arquivos: 85 | ~1.16MB | 3 programas
+# Elementos: 218 total | L1:53 L2:40 L3:55 L4:40 L5:30
+# Atualizado: 2026-03-17
+# Next IDs: FIL-DD-054, MM-DD-041, HEUR-DD-056, FW-DD-041, MET-DD-031
+
+meta:
+  person: David Deutsch
+  version: "2.0.0"
+  total_elements: 218
+  sources:
+    - id: ACLS
+      name: "A-List Copywriting Secrets"
+      type: COURSE
+      files: 28
+      bytes: 631915
+      year: ~2015
+      context: "Workshop presencial para editores europeus (Boardroom/Bottom Line affiliates)"
+    - id: GH-KH
+      name: "Killer Headlines (Halbertology WEEK2 bonus)"
+      type: AUDIO
+      files: 1
+      bytes: ~45000
+      year: ~2005
+      context: "David Deutsch lendo e comentando newsletter de Gary Halbert sobre headlines"
+    - id: IPWR
+      name: "Idea Power"
+      type: COURSE
+      files: 56
+      bytes: 525594
+      year: ~2023
+      context: "Online course on systematic idea generation using 15 Boxes (TRIZ/SIT adapted for marketing). Story-driven (bookstore turnaround narrative). Guests: Parris Lampropoulos, Sam Woods."
+
+layers:
+
+  L1_PHILOSOPHIES:
+
+    - id: "FIL-DD-001"
+      title: "Writing Is Thinking, Not Technique"
+      content: "Writing is not about rules or numbered things. It's about how you think. It's about connecting to that part of you that already knows how to talk to people, persuade, sell."
+      source: ACLS
+      file: "01-Lesson1"
+      domains: [copywriting, creative-process]
+
+    - id: "FIL-DD-002"
+      title: "Heart to Heart Communication"
+      content: "Good copy comes from your heart and goes to their heart. It's not about facts to the head. It's about making them feel you care, you understand, you have their best interests at heart."
+      source: ACLS
+      file: "02-Lesson2"
+      domains: [copywriting, persuasion]
+
+    - id: "FIL-DD-003"
+      title: "The Reader Is Always Leaving"
+      content: "The reader is always ready to leave. Always ready to check their phone, their email. Unless you're constantly saying 'here's more interesting stuff coming,' the reader just leaves."
+      source: ACLS
+      file: "01-Lesson1"
+      domains: [copywriting, attention]
+
+    - id: "FIL-DD-004"
+      title: "Truth Is More Powerful Than Embellishment"
+      content: "We underestimate how powerful the truth is. A real true story that the writer feels is true, they write about it differently. Sometimes a smaller truthful claim is more powerful than a big unbelievable one."
+      source: ACLS
+      file: "02-Lesson2"
+      domains: [copywriting, credibility]
+
+    - id: "FIL-DD-005"
+      title: "The Mom Test"
+      content: "Write as if writing to your mother. You'd be honest. You wouldn't use BS. You'd say real things. Your prospects feel it when you're not being real, just like your mother would."
+      source: ACLS
+      file: "02-Lesson2"
+      domains: [copywriting, authenticity]
+
+    - id: "FIL-DD-006"
+      title: "Volume Beats Quality of Ideas"
+      content: "Creative people don't have better ideas. They have MORE ideas. They may only have good ideas 10% of the time, but they do 100 ideas, so they have 10 really good ones."
+      source: ACLS
+      file: "03-Lesson3"
+      domains: [creative-process, ideation]
+
+    - id: "FIL-DD-007"
+      title: "Your Need to Explain ≠ Reader's Need to Read"
+      content: "Your need to explain something is not the reader's need to read it. Just because you need to tell them how your product works doesn't mean they want or need that information."
+      source: ACLS
+      file: "13-Lesson13"
+      domains: [copywriting, editing]
+
+    - id: "FIL-DD-008"
+      title: "Headlines Exist Only to Get Reading Started"
+      content: "The purpose of the headline is not to sell. It's only to get them to read what's underneath. We're not trying to close the sale in the headline."
+      source: ACLS
+      file: "08-Lesson8"
+      domains: [copywriting, headlines]
+
+    - id: "FIL-DD-009"
+      title: "Good Copy Is Just Arranging"
+      content: "Gene Schwartz liked to say 'all I do is arrange things. I take this information, put it here. It's stronger here.' The best copy comes from arranging real material, not inventing."
+      source: ACLS
+      file: "12-Lesson12"
+      domains: [copywriting, creative-process]
+
+    - id: "FIL-DD-010"
+      title: "The Letter Should Benefit Even Non-Buyers"
+      content: "I want my letter to be so good that they will be better just because they read it. They'll learn things, get tips, even if they don't buy. That's how strongly I want to help."
+      source: ACLS
+      file: "02-Lesson2"
+      domains: [copywriting, value-creation]
+
+    - id: "FIL-DD-011"
+      title: "Great Copywriters Are Story Collectors"
+      content: "Always be a collector of stories. The best copywriters collect stories. They listen, they ask editors, customers, telemarketers. Be a storyteller all the time, not just when writing."
+      source: ACLS
+      file: "07-Lesson7"
+      domains: [storytelling, copywriting]
+
+    - id: "FIL-DD-012"
+      title: "Resistance Is the Enemy of Sales"
+      content: "As soon as someone starts selling, you meet them with resistance. If you never push against them with selling, there's never resistance. They can be convinced because they don't push back."
+      source: ACLS
+      file: "04-Lesson4"
+      domains: [sales-psychology, copywriting]
+
+    - id: "FIL-DD-013"
+      title: "Making Copy Better > Writing Great First Drafts"
+      content: "David Ogilvy said 'I'm not a very good writer, but I'm really good at making copy better.' Great copy comes from revision, not from brilliant first drafts."
+      source: ACLS
+      file: "13-Lesson13"
+      domains: [copywriting, editing]
+
+    - id: "FIL-DD-014"
+      title: "Simple Language Beats Sophisticated Language"
+      content: "Copy must be caveman simple. People aren't reading carefully. Their kids are screaming, phones ringing. If it's not instantly understandable, they won't get it. Simple words, simple sentences."
+      source: ACLS
+      file: "13-Lesson13"
+      domains: [copywriting, clarity]
+
+    - id: "FIL-DD-015"
+      title: "Every Paragraph Must Have Life"
+      content: "Great copy never has anything in it that's only for getting from point A to point B. No dead transitions. Every paragraph must have energy, selling, proving, explaining. People doing stuff."
+      source: ACLS
+      file: "13-Lesson13"
+      domains: [copywriting, energy]
+
+    - id: "FIL-DD-016"
+      title: "Transformation Over Improvement"
+      content: "Don't just show their life will be a little better. Show they'll be an entirely new person. Not just 'make a little more money' but 'you'll be the investor other people come to for advice.'"
+      source: ACLS
+      file: "02-Lesson2"
+      domains: [copywriting, persuasion]
+
+    - id: "FIL-DD-017"
+      title: "Fear Drives Action More Than Desire"
+      content: "People act out of fear more than desire. The first thing we all want is to be safe. Not die, not be sick, not have no money. Safety comes before gain."
+      source: ACLS
+      file: "06-Lesson6"
+      domains: [buying-psychology, copywriting]
+
+    - id: "FIL-DD-018"
+      title: "The Solution Is Not Your Product"
+      content: "Sometimes the solution isn't your product first. The solution is better information, alternative medicine, a new approach. The product is what helps get that solution more easily. Bring product in too soon and people resist."
+      source: ACLS
+      file: "01-Lesson1"
+      domains: [copywriting, sales-psychology]
+
+    - id: "FIL-DD-019"
+      title: "At Saturation, Go Indirect"
+      content: "When there's so much noise that nobody believes anything, you can't just make claims or talk mechanisms. You must come at it indirectly. 'Why French Women Never Get Fat' — not a claim, not a mechanism."
+      source: ACLS
+      file: "04-Lesson4"
+      domains: [market-sophistication, copywriting]
+
+    - id: "FIL-DD-020"
+      title: "Dual Journey Is Non-Negotiable"
+      content: "The emotional journey is as important as the intellectual journey. Without emotion, copy is empty, boring, incomplete. Always ensure the reader FEELS something along the way."
+      source: ACLS
+      file: "04-Lesson4"
+      domains: [copywriting, persuasion]
+
+    - id: "FIL-DD-021"
+      title: "Pain Must Be Reminded"
+      content: "When prospects start reading, they're not thinking about their pain. They're going through their day. It's our job to remind them their pain exists, how bad it is, and then offer the solution."
+      source: ACLS
+      file: "01-Lesson1"
+      domains: [copywriting, sales-psychology]
+
+    - id: "FIL-DD-022"
+      title: "It's About THEM, Not About YOU"
+      content: "Copy must be about the prospect, not about you or your product. Their struggles, their feelings, their pain, their dreams. Not 'my wonderful product' but 'your painful mornings.'"
+      source: ACLS
+      file: "08-Lesson8"
+      domains: [copywriting, prospect-focus]
+
+    - id: "FIL-DD-023"
+      title: "Bad Ideas Are Seeds for Good Ideas"
+      content: "Take the brakes off. Come up with crazy stuff. Write down bad ideas because sometimes bad ideas aren't bad and sometimes good ideas come from bad ideas."
+      source: ACLS
+      file: "02-Lesson2"
+      domains: [creative-process, ideation]
+
+    - id: "FIL-DD-024"
+      title: "Don't Write Lists — Write Conversations"
+      content: "People's eyes glaze over at lists of benefits. You'd never sit in a bar listing features. Turn every list into a conversation with the person. Write how you'd actually talk."
+      source: ACLS
+      file: "11-Lesson11"
+      domains: [copywriting, conversational-writing]
+
+    - id: "FIL-DD-025"
+      title: "Proof Is the Foundation of Persuasion"
+      content: "You can't prove enough. Think of readers as judges in court. They want real proof — statistics, testimonials, studies, logic. Without proof, anyone can say anything."
+      source: ACLS
+      file: "02-Lesson2"
+      domains: [copywriting, credibility]
+
+    - id: "FIL-DD-026"
+      title: "The Guarantee Expresses Confidence, Not Weakness"
+      content: "The guarantee should come from your confidence that the product works. Never present it negatively ('if you hate it'). Present it positively ('you've got to love it, or your money back')."
+      source: ACLS
+      file: "10-Lesson10"
+      domains: [offers, guarantees]
+
+    # === IDEA POWER (IPWR) — 27 new philosophies ===
+
+    - id: "FIL-DD-027"
+      title: "Ideas Are What Sell"
+      content: "It's not the best writing that sells, or the nicest layout, or even necessarily the best offer. Over and over, I've seen that ideas are what sell."
+      source: IPWR
+      file: "01-Introduction"
+      domains: [creativity, business, copywriting]
+
+    - id: "FIL-DD-028"
+      title: "Think Inside the Box, Not Outside"
+      content: "Instead of thinking outside the box and giving yourself a vast area to look in, I prefer to think inside the box. 15 specific predefined boxes — thought starters that get you looking for solutions in places you might not otherwise think to look."
+      source: IPWR
+      file: "01-Adventure1"
+      domains: [creativity, systematic-thinking, problem-solving]
+
+    - id: "FIL-DD-029"
+      title: "Constraints Boost Creativity"
+      content: "The biggest problem to creativity is when you have unlimited options. Adding constraints actually makes you more creative. The stress of coming up with ideas comes from having a big, vast area to look through."
+      source: IPWR
+      file: "Bonus2-Parris"
+      domains: [creativity, systematic-thinking]
+
+    - id: "FIL-DD-030"
+      title: "Creativity Is Systematic, Not Mystical"
+      content: "I didn't just come out of the womb being creative. I use a system. A systematic method that unfailingly generates an abundance of good ideas in any field or situation."
+      source: IPWR
+      file: "01-Introduction"
+      domains: [creativity, systematic-thinking]
+
+    - id: "FIL-DD-031"
+      title: "No Pessimism — Only What Is Possible"
+      content: "I'm going to have to ask you to not use the word 'impossible' in my workshop. Using words like that only eliminates possibilities that might hold valuable solutions. In this room, there is only what is possible."
+      source: IPWR
+      file: "01-Adventure1"
+      domains: [creativity, mindset, problem-solving]
+
+    - id: "FIL-DD-032"
+      title: "Application > Contemplation"
+      content: "Applying what you learn not only puts what you learned to work immediately, it also keeps you from forgetting it by securing it to a web of actual applications. Always apply what you want to retain immediately."
+      source: IPWR
+      file: "09-Adventure9"
+      domains: [learning, creativity, productivity]
+
+    - id: "FIL-DD-033"
+      title: "Motivation Amplifies Creativity"
+      content: "When I'm stuck on a problem, I often pretend my life depends on solving it. I ask myself, what would I do if my life depended on solving this problem? Lo and behold, I become much more resourceful and innovative."
+      source: IPWR
+      file: "09-Adventure9"
+      domains: [creativity, mindset, productivity]
+
+    - id: "FIL-DD-034"
+      title: "Problem Definition Is 80% of Solution"
+      content: "The problem with the way most people go about solving problems is that they aren't clear what the problem really is. Define the problem slightly differently and suddenly a much easier solution appears."
+      source: IPWR
+      file: "01-Adventure1"
+      domains: [problem-solving, systematic-thinking]
+
+    - id: "FIL-DD-035"
+      title: "Ideas Are the New Currency of Business"
+      content: "Human creativity is the ultimate resource. The ability to come up with new ideas and better ways of doing things is ultimately what raises productivity. Ideas are the key to the financial success you desire."
+      source: IPWR
+      file: "Bonus1-IdeasToDollars"
+      domains: [business, creativity, innovation]
+
+    - id: "FIL-DD-036"
+      title: "Anyone Can Be Creative With a System"
+      content: "The technique is known only to a select few. Mostly in highly technical fields such as engineering. Never before has it been presented in such an accessible way. If children can invent products, surely you can too."
+      source: IPWR
+      file: "01-Introduction"
+      domains: [creativity, systematic-thinking]
+
+    - id: "FIL-DD-037"
+      title: "There Are Enough Ideas for Everyone"
+      content: "Please don't hesitate to share the techniques you found here with them. There are more than enough good ideas and solutions for everyone. The world needs as many good ideas as possible."
+      source: IPWR
+      file: "01-Introduction"
+      domains: [creativity, abundance-mindset]
+
+    - id: "FIL-DD-038"
+      title: "Humor Is Essential to the Creative Process"
+      content: "Humor loosens up the mind. Makes unexpected connections. Makes the process more enjoyable. Even a seemingly off-the-cuff remark could lead to good ideas."
+      source: IPWR
+      file: "02-Adventure2"
+      domains: [creativity, mindset]
+
+    - id: "FIL-DD-039"
+      title: "Every Negative Can Be Converted to a Benefit"
+      content: "Turn any negative into a positive. Whatever seems like a disadvantage can be reframed as a benefit with creative thinking. So you're the owner, and that's a negative? Let's make it a benefit."
+      source: IPWR
+      file: "05-Adventure5"
+      domains: [creativity, problem-solving, reframing]
+
+    - id: "FIL-DD-040"
+      title: "Small Improvements Yield Big Results"
+      content: "Set aside just a few minutes a day to come up with new ideas. If you want to start with just a minute or two today, that's fine. Small improvements yield big results."
+      source: IPWR
+      file: "Bonus1-IdeasToDollars"
+      domains: [productivity, creativity]
+
+    - id: "FIL-DD-041"
+      title: "Ideas Recycle Endlessly for Profit"
+      content: "You can make a lot of money with an idea. But you can make even more if you recycle your ideas over and over again. License, sell, course, coach, spec, percentage — six paths to monetize any idea."
+      source: IPWR
+      file: "Bonus1-IdeasToDollars"
+      domains: [business, monetization, innovation]
+
+    - id: "FIL-DD-042"
+      title: "Never Dismiss Absurd Ideas"
+      content: "Don't be afraid to be absurd. It may lead you somewhere brilliant. Nothing, absolutely anything, can lead you to a good idea. Even 'take the shoplifters out and shoot them' leads somewhere useful."
+      source: IPWR
+      file: "02-Adventure2"
+      domains: [creativity, ideation]
+
+    - id: "FIL-DD-043"
+      title: "The Word 'Impossible' Is Forbidden"
+      content: "That word is forbidden here. It means something isn't possible. I learned a long time ago that using words like that only eliminates possibilities that might hold valuable solutions."
+      source: IPWR
+      file: "01-Adventure1"
+      domains: [mindset, creativity, problem-solving]
+
+    - id: "FIL-DD-044"
+      title: "Ideas Love Speed"
+      content: "Ideas love speed. It gets them moving, gives them momentum, enables you to get feedback. Take your best idea and implement it as soon as you can, however you can. Don't stew — do!"
+      source: IPWR
+      file: "Bonus5-ChooseImplement"
+      domains: [productivity, innovation, execution]
+
+    - id: "FIL-DD-045"
+      title: "Ideas Have No Value Without Action"
+      content: "Ideas have no inherent value on their own. They are only valuable when harnessed to action. Don't let your ideas gather dust — start putting them to work NOW."
+      source: IPWR
+      file: "Bonus5-ChooseImplement"
+      domains: [execution, productivity]
+
+    - id: "FIL-DD-046"
+      title: "The Problem With 'Outside the Box' Is Overwhelm"
+      content: "By trying to think outside the box, all you do is give yourself such a vast area to look in that you're overwhelmed right from the get-go. Constrained search spaces are more productive."
+      source: IPWR
+      file: "01-Adventure1"
+      domains: [creativity, systematic-thinking]
+
+    - id: "FIL-DD-047"
+      title: "Prototyping Beats Planning"
+      content: "You don't have to commit to it forever. Try it for a day or two. In Silicon Valley, they call it MVP — a minimum viable product. This concept works for ideas too."
+      source: IPWR
+      file: "02-Adventure2"
+      domains: [innovation, execution, testing]
+
+    - id: "FIL-DD-048"
+      title: "Ideas Can Build or Save a Business"
+      content: "McDonald's was built on one simple idea. Microsoft's MS-DOS was nothing more than a better idea. While he ran out of money, Trump never ran out of ideas. Ideas rescue businesses."
+      source: IPWR
+      file: "01-Introduction"
+      domains: [business, innovation]
+
+    - id: "FIL-DD-049"
+      title: "Cross-Pollination From Random Fields"
+      content: "Pick up a magazine about a field you know nothing about. Read it. You'll find ideas you can adapt to your own business. A horse farm ad inspired a bookstore's Top 10 Reasons list."
+      source: IPWR
+      file: "05-Adventure5"
+      domains: [creativity, innovation, cross-pollination]
+
+    - id: "FIL-DD-050"
+      title: "Two Heads Are Better Than One for Ideas"
+      content: "Get help. Discuss your top ideas with anyone who will listen. This is definitely a case where two or more heads are a LOT better than one. Assemble a regular idea group."
+      source: IPWR
+      file: "Bonus5-ChooseImplement"
+      domains: [creativity, collaboration]
+
+    - id: "FIL-DD-051"
+      title: "Quality of Livelihood Depends on Quality of Ideas"
+      content: "When I realized that the quality of my reputation and livelihood depended not just on my ability to write, but rather on my ability to come up with good ideas, I set out to find the secret."
+      source: IPWR
+      file: "01-Introduction"
+      domains: [career, creativity, business]
+
+    - id: "FIL-DD-052"
+      title: "Never Run Out of Ideas, Never Run Out of Money"
+      content: "If you can come up with ideas, if you have imagination, you will never want for money or success. George Baker had 36 different money-making methods from the mountains."
+      source: IPWR
+      file: "Bonus1-IdeasToDollars"
+      domains: [business, creativity, abundance-mindset]
+
+    - id: "FIL-DD-053"
+      title: "Pessimism and Idea Drought Are a Vicious Circle"
+      content: "My inability to come up with ideas was making me more pessimistic. And my pessimism was preventing me from coming up with ideas. It was a vicious circle. The boxes break that circle."
+      source: IPWR
+      file: "01-Adventure1"
+      domains: [mindset, creativity, problem-solving]
+
+  L2_MENTAL_MODELS:
+
+    - id: "MM-DD-001"
+      title: "Dual Journey Model"
+      content: "Every piece of copy must take the prospect on TWO journeys simultaneously: an intellectual journey (facts, logic, reasons) and an emotional journey (feelings, desires, fears, longing)."
+      source: ACLS
+      file: "04-Lesson4"
+      domains: [copywriting, persuasion]
+
+    - id: "MM-DD-002"
+      title: "5 Stages of Market Sophistication (Schwartz/Deutsch)"
+      content: "Stage 1: Simple claim. Stage 2: Bigger claims. Stage 3: Mechanism (HOW). Stage 4: Better mechanisms. Stage 5: Saturation — go indirect, acknowledge skepticism."
+      source: ACLS
+      file: "04-Lesson4"
+      domains: [market-sophistication, strategy]
+
+    - id: "MM-DD-003"
+      title: "The Always-Leaving Reader"
+      content: "Model every reader as perpetually about to leave. Every sentence must earn the next sentence. One moment of boredom = exit. Write with constant 'hey, look here!' energy."
+      source: ACLS
+      file: "01-Lesson1"
+      domains: [copywriting, attention]
+
+    - id: "MM-DD-004"
+      title: "Crossroads Close"
+      content: "At the end, present two paths: continue suffering (current life) or transform (with product). Force a binary life choice, not a purchasing decision. 'It's your responsibility now.'"
+      source: ACLS
+      file: "10-Lesson10"
+      domains: [closing, copywriting]
+
+    - id: "MM-DD-005"
+      title: "Court Analogy for Proof"
+      content: "Picture readers as judges in court. You're the attorney proving your case. You need evidence, testimony, statistics, expert opinions. Judges demand real proof — so do readers."
+      source: ACLS
+      file: "02-Lesson2"
+      domains: [credibility, copywriting]
+
+    - id: "MM-DD-006"
+      title: "BULLETS Mnemonic"
+      content: "B=Benefit, U=Unexpected, L=Loads of detail, L=Limited, E=Extreme, T=Testimonial/proof, S=Supersize with emotion. Seven layers that make irresistible fascinations."
+      source: ACLS
+      file: "08-Lesson8"
+      domains: [bullets, fascinations]
+
+    - id: "MM-DD-007"
+      title: "Hero's Journey for Copy"
+      content: "Ordinary World → Call → Obstacles/Enemies → Allies (mentors, newsletters) → Turning Point → Victory/Transformation → Return with Knowledge. Works for origin stories and testimonials."
+      source: ACLS
+      file: "07-Lesson7"
+      domains: [storytelling, copywriting]
+
+    - id: "MM-DD-008"
+      title: "Story Arc vs Straight Line"
+      content: "Stories must have an arc (beginning-conflict-resolution), not a straight line. Conflict creates curiosity. Where's the drama? Where's the 'I have to keep reading' moment?"
+      source: ACLS
+      file: "07-Lesson7"
+      domains: [storytelling]
+
+    - id: "MM-DD-009"
+      title: "Fantasy Headline Method"
+      content: "Ask: if I could promise ANYTHING, what would it be? 'Pay zero taxes.' 'Never be sick.' Then work backward: how close can I actually come to that promise?"
+      source: ACLS
+      file: "09-Lesson9"
+      domains: [headlines, ideation]
+
+    - id: "MM-DD-010"
+      title: "6W Prospect Deep Dive"
+      content: "Who (they are/want to be), What (read/love/hate/fear), When (timing, important dates), Where (live, hang out), Why (motivations), How (worldview, decision-making)."
+      source: ACLS
+      file: "05-Lesson5"
+      domains: [prospect-research, copywriting]
+
+    - id: "MM-DD-011"
+      title: "Hook Fishing Analogy"
+      content: "Find the 'one-legged golfer' in every product. Dig until you find that unique hook — the unexpected angle that makes prospects bite. Most products have one; you just have to find it."
+      source: ACLS
+      file: "08-Lesson8"
+      domains: [headlines, hooks]
+
+    - id: "MM-DD-012"
+      title: "80/20 Rule for Copy Perfection"
+      content: "80% of results come from 20% of effort. Don't struggle for the last 5% of perfection. Know when good enough is good enough. Better to write a new promotion than over-polish."
+      source: ACLS
+      file: "13-Lesson13"
+      domains: [copywriting, productivity]
+
+    - id: "MM-DD-013"
+      title: "Indirect vs Direct Copy"
+      content: "Direct: 'I have a great product, here it is.' Indirect: 'You have problems, here's a solution approach, it's hard to do alone... now let me show you a product that makes it easy.'"
+      source: ACLS
+      file: "11-Lesson11"
+      domains: [copywriting, sales-psychology]
+
+    - id: "MM-DD-014"
+      title: "Body on the Floor Principle"
+      content: "Start with the most dramatic, attention-grabbing element. A body on the floor. A disaster. An explosion. Then explain. Don't build up to the interesting part — lead with it."
+      source: ACLS
+      file: "14-Lesson14"
+      domains: [copywriting, attention]
+
+    - id: "MM-DD-015"
+      title: "Three Story Types"
+      content: "Origin Story (how product/editor came to be), Nightmare Story (worst-case without solution), Transformation Story (how someone's life changed with the product)."
+      source: ACLS
+      file: "07-Lesson7"
+      domains: [storytelling, copywriting]
+
+    - id: "MM-DD-016"
+      title: "Copy Weaving Model"
+      content: "The best copy interweaves benefit, proof, and mechanism in the same paragraph — not in separate blocks. Like conversation, not a textbook."
+      source: ACLS
+      file: "11-Lesson11"
+      domains: [copywriting, structure]
+
+    - id: "MM-DD-017"
+      title: "Objection-Based Copy Generator"
+      content: "List every objection to buying. Answer each one. The answers become your copy. If a prospect has no objections, they'll buy. Remove objections = make the sale."
+      source: ACLS
+      file: "01-Lesson1"
+      domains: [copywriting, objection-handling]
+
+    - id: "MM-DD-018"
+      title: "Simple Math for Ideas"
+      content: "Take any idea and apply: ADD (what can I add?), SUBTRACT (what if I removed X?), DIVIDE (split into separate pieces), OPPOSITE (reverse it completely)."
+      source: ACLS
+      file: "03-Lesson3"
+      domains: [ideation, creative-process]
+
+    # === IDEA POWER (IPWR) — 22 new mental models ===
+
+    - id: "MM-DD-019"
+      title: "The 15 Boxes System (Constrained Search Spaces)"
+      content: "Instead of infinite creative space, narrow search to 15 predefined boxes. Each box is a thought-starter that directs attention to specific types of solutions. Constrained search always outperforms unconstrained."
+      source: IPWR
+      file: "01-Adventure1"
+      domains: [creativity, systematic-thinking, problem-solving]
+
+    - id: "MM-DD-020"
+      title: "Problem Reframing (Acid Tank Model)"
+      content: "They thought the problem was designing a measuring device. But by reframing to 'how can the tank TELL US when it's empty?' the solution became trivially simple: hollow steel balls that rattle."
+      source: IPWR
+      file: "01-Adventure1"
+      domains: [problem-solving, reframing]
+
+    - id: "MM-DD-021"
+      title: "'What Does This Make You Think Of?' (Association Chain)"
+      content: "What does P.T. Barnum make you think of? Circus. Side show. 'Sucker born every minute.' Follow the association chain until you find the golden overlap with your product."
+      source: IPWR
+      file: "Bonus6-MillionDollarIdea"
+      domains: [creativity, ideation, association]
+
+    - id: "MM-DD-022"
+      title: "Prototype Before Committing"
+      content: "You don't have to commit forever. Try it for a day or two. As we say in the lab, maybe it's worth an experiment. Build a rough model to see if it'll work."
+      source: IPWR
+      file: "02-Adventure2"
+      domains: [innovation, testing, execution]
+
+    - id: "MM-DD-023"
+      title: "The Vicious Circle of Pessimism"
+      content: "Inability to generate ideas → pessimism → further inability. The 15 boxes break this cycle by providing a systematic starting point regardless of emotional state."
+      source: IPWR
+      file: "01-Adventure1"
+      domains: [mindset, creativity]
+
+    - id: "MM-DD-024"
+      title: "Infallible Gold Detector for Ideas"
+      content: "The 15 boxes function like an infallible gold detector — systematic scanning of predefined zones instead of random prospecting in unlimited territory."
+      source: IPWR
+      file: "01-Adventure1"
+      domains: [creativity, systematic-thinking]
+
+    - id: "MM-DD-025"
+      title: "Life-Depends-On-It Mode"
+      content: "When I'm stuck, I pretend my life depends on solving the problem. This mental hack forces resourcefulness and innovation that comfortable circumstances never produce."
+      source: IPWR
+      file: "09-Adventure9"
+      domains: [creativity, mindset, productivity]
+
+    - id: "MM-DD-026"
+      title: "Matryoshka Principle (Nesting Solutions)"
+      content: "Put one thing inside another — like Russian nesting dolls. The nursing home genius who put the food-grabber with the poison-accuser: each solved the other's problem."
+      source: IPWR
+      file: "03-Adventure3"
+      domains: [problem-solving, creativity, combination]
+
+    - id: "MM-DD-027"
+      title: "Vegematic Metaphor (Slice and Dice)"
+      content: "Boxes 2-5 are the 'Vegematic' or 'Slice and Dice' boxes: Do the Opposite, Divide Something Up, Take Something Out, Bring Things Together. Simple operations that transform any concept."
+      source: IPWR
+      file: "02-Adventure2"
+      domains: [creativity, systematic-thinking]
+
+    - id: "MM-DD-028"
+      title: "Dirty Windows (See Needs Others Miss)"
+      content: "Don't just look for a job — look for dirty windows. Employers don't want employees per se. They want needs filled. Find the dirty windows and clean them."
+      source: IPWR
+      file: "Bonus1-IdeasToDollars"
+      domains: [business, opportunity-recognition]
+
+    - id: "MM-DD-029"
+      title: "Intrapreneur Model"
+      content: "Don't envy entrepreneurs. Become an entrepreneur inside the company you work for — an intrapreneur. Use the company's resources to make more money for them and yourself."
+      source: IPWR
+      file: "Bonus1-IdeasToDollars"
+      domains: [business, career, innovation]
+
+    - id: "MM-DD-030"
+      title: "Ideas as Currency (Trade, Recycle, License)"
+      content: "Ideas are tradeable assets. One successful idea can be sold, licensed, turned into a course, coached, offered on spec, or percentage-based. Six monetization paths per idea."
+      source: IPWR
+      file: "Bonus1-IdeasToDollars"
+      domains: [business, monetization]
+
+    - id: "MM-DD-031"
+      title: "Machine Metaphor for Business"
+      content: "A business is so much like a machine, with all the parts and processes and interactions. Stocking, ordering, staffing, advertising, selling. Watch the gears turn to find improvement points."
+      source: IPWR
+      file: "05-Adventure5"
+      domains: [business, systems-thinking]
+
+    - id: "MM-DD-032"
+      title: "Speed Creates Lift (Water Skiing Principle)"
+      content: "Go slow and you sink. Go faster and something magical happens — pressure builds and keeps you elevated. Same physics that keeps an airplane in the sky. Speed in ideation creates lift."
+      source: IPWR
+      file: "05-Adventure5"
+      domains: [creativity, productivity, momentum]
+
+    - id: "MM-DD-033"
+      title: "Constrained Search > Unconstrained Search"
+      content: "Looking in one tiny little box is less stressful than searching the entire universe of possibilities. Constraints reduce anxiety and increase creative output simultaneously."
+      source: IPWR
+      file: "01-Adventure1"
+      domains: [creativity, systematic-thinking]
+
+    - id: "MM-DD-034"
+      title: "The Familiar + Twist Formula"
+      content: "'There's a sucker born every minute' becomes 'There's a customer born every minute.' The delight of recognition plus the relevance of new meaning. Combination of familiar and fresh."
+      source: IPWR
+      file: "Bonus6-MillionDollarIdea"
+      domains: [creativity, copywriting, headlines]
+
+    - id: "MM-DD-035"
+      title: "Adventures as Learning Containers"
+      content: "Each lesson is an Adventure. Adventures build on each other. Story-driven learning with immediate application secures knowledge to a web of actual applications."
+      source: IPWR
+      file: "01-Introduction"
+      domains: [learning, pedagogy, creativity]
+
+    - id: "MM-DD-036"
+      title: "Cross-Pollination From Random Fields"
+      content: "Read magazines in unrelated fields. A horse farm advertisement inspired a bookstore's marketing strategy. The less obvious the connection, the more creative the result."
+      source: IPWR
+      file: "05-Adventure5"
+      domains: [creativity, innovation, cross-pollination]
+
+    - id: "MM-DD-037"
+      title: "Self-Service as Innovation (D.I.I.)"
+      content: "Do It Itself. Instead of trying to make a better oven cleaner, let the oven clean itself. Instead of a stronger tire, a self-sealing one. Let the system solve its own problem."
+      source: IPWR
+      file: "05-Adventure5"
+      domains: [innovation, automation, problem-solving]
+
+    - id: "MM-DD-038"
+      title: "Intermittent vs Continuous as Design Choice"
+      content: "Drilling in pulses rather than continuously can be more effective. Doing something in short bursts can outperform plugging away continuously, and vice versa."
+      source: IPWR
+      file: "05-Adventure5"
+      domains: [productivity, systems-thinking, rhythm]
+
+    - id: "MM-DD-039"
+      title: "The Bookstore Turnaround Model"
+      content: "Complete business transformation through systematic application of 15 boxes: new revenue streams, better customer retention, operational improvement, competitive differentiation — all from structured ideation."
+      source: IPWR
+      file: "01-09-Adventures"
+      domains: [business, innovation, transformation]
+
+    - id: "MM-DD-040"
+      title: "Equity Transfer for Buy-In"
+      content: "Give the person you're selling to a feeling of ownership in the idea. Get their input on refining it. Show them how their feedback shaped it. People support what they helped create."
+      source: IPWR
+      file: "Bonus5-ChooseImplement"
+      domains: [persuasion, leadership, collaboration]
+
+  L3_HEURISTICS:
+
+    - id: "HEUR-DD-001"
+      title: "100 Headlines Minimum"
+      content: "Write 100 headlines per promotion. Not 10, not 50. Don't stop at 5 — you'll have zero good ideas. Do 100 and you'll have 10 great ones."
+      source: ACLS
+      file: "03-Lesson3"
+      threshold: "100 headlines minimum"
+      domains: [headlines, ideation]
+
+    - id: "HEUR-DD-002"
+      title: "Headlines = 80% of Ad Success"
+      content: "Headlines account for 80% of an ad's success. If the headline doesn't work, nothing else matters."
+      source: GH-KH
+      file: "Killer-Headlines"
+      threshold: "80%"
+      domains: [headlines]
+
+    - id: "HEUR-DD-003"
+      title: "Price Trivialization"
+      content: "Always make price seem inconsequential. Compare to: a cup of coffee per day, one hour with a consultant, cost of NOT having the solution."
+      source: ACLS
+      file: "10-Lesson10"
+      domains: [pricing, offers]
+
+    - id: "HEUR-DD-004"
+      title: "One Bullet = One Sale"
+      content: "Each bullet should be so powerful someone would buy the entire product just to find out the answer to that one bullet."
+      source: ACLS
+      file: "08-Lesson8"
+      domains: [bullets, fascinations]
+
+    - id: "HEUR-DD-005"
+      title: "Cut Explanations First"
+      content: "When tightening copy, the first thing to cut is explanations of how things work. Readers don't want to understand the mechanism — they want to know what it does for them."
+      source: ACLS
+      file: "11-Lesson11"
+      domains: [editing, copywriting]
+
+    - id: "HEUR-DD-006"
+      title: "Test Short vs Long Headlines"
+      content: "Sometimes the best headline is just 2 words: 'Had enough?' 'I can.' 'Wrong.' Short headlines go directly into the brain without requiring a decision to read."
+      source: ACLS
+      file: "09-Lesson9"
+      domains: [headlines, testing]
+
+    - id: "HEUR-DD-007"
+      title: "Read Copy Aloud"
+      content: "Always read copy out loud. You hear things you can't see — which paragraphs sing, where it gets boring, where energy drops."
+      source: ACLS
+      file: "13-Lesson13"
+      domains: [editing, quality]
+
+    - id: "HEUR-DD-008"
+      title: "Set the Page on Fire"
+      content: "If you bore for one second, they leave. Every paragraph must have 'page on fire' energy. Zulu warriors, explosions, people fighting — anything that creates visual excitement."
+      source: ACLS
+      file: "13-Lesson13"
+      domains: [copywriting, attention]
+
+    - id: "HEUR-DD-009"
+      title: "20 Minutes + 50 Headlines"
+      content: "Set a timer for 20 minutes and write 50 headline ideas without self-editing. A great idea may be waiting at number 50. Stop at 49 and you'll never know."
+      source: ACLS
+      file: "03-Lesson3"
+      threshold: "20min / 50 headlines"
+      domains: [headlines, process]
+
+    - id: "HEUR-DD-010"
+      title: "Never Disconnect From Headline"
+      content: "The first mistake after a headline: starting body copy that doesn't connect to what the headline promised. If you said 'make a million,' immediately address making a million."
+      source: ACLS
+      file: "11-Lesson11"
+      domains: [copywriting, flow]
+
+    - id: "HEUR-DD-011"
+      title: "Have Others Read TO You"
+      content: "Even better than reading aloud yourself: have someone else read your copy TO you. You experience it as a reader does. Boring parts become painfully obvious."
+      source: ACLS
+      file: "13-Lesson13"
+      domains: [editing, quality]
+
+    - id: "HEUR-DD-012"
+      title: "Study Losers More Than Winners"
+      content: "Study what failed promotions have in common, not just winners. What's missing from losers tells you what you MUST include. Clients hide failures — demand to see them."
+      source: ACLS
+      file: "12-Lesson12"
+      domains: [testing, research]
+
+    - id: "HEUR-DD-013"
+      title: "FAQ as Mini Sales Pitch"
+      content: "Don't use FAQ just for answering questions. Each answer should loop back to a sales message and end with a CTA. FAQ section is bonus selling space."
+      source: ACLS
+      file: "10-Lesson10"
+      domains: [closing, copywriting]
+
+    - id: "HEUR-DD-014"
+      title: "Stock Photo Page 500"
+      content: "When searching stock photos, skip pages 1-3. Go to page 500. Competitors are lazy — they use the obvious photos. Find unique, unexpected imagery deeper in the results."
+      source: ACLS
+      file: "14-Lesson14"
+      domains: [design, visual]
+
+    - id: "HEUR-DD-015"
+      title: "Apply Opposite Technique to Headlines"
+      content: "Take any headline and reverse it. 'How to make money' → 'How to LOSE money.' 'Why you should invest in gold' → 'Why you should NOT invest in gold.' Opposites grab attention."
+      source: ACLS
+      file: "03-Lesson3"
+      domains: [headlines, ideation]
+
+    - id: "HEUR-DD-016"
+      title: "At Stage 5, Acknowledge Skepticism"
+      content: "When market is saturated, don't claim. Instead: 'If you've tried everything and failed, I can tell you why.' Acknowledge the noise. Show you understand their disbelief."
+      source: ACLS
+      file: "04-Lesson4"
+      domains: [market-sophistication, copywriting]
+
+    - id: "HEUR-DD-017"
+      title: "Smaller Truth > Bigger Lie"
+      content: "Make $10,000 is more powerful than Make $1 million. The smaller number is believable. The bigger number triggers disbelief. Honest, realistic claims convert better."
+      source: ACLS
+      file: "02-Lesson2"
+      domains: [credibility, copywriting]
+
+    - id: "HEUR-DD-018"
+      title: "Use Prospect's Own Language"
+      content: "Research Amazon reviews, forums, Quora to find exact words prospects use about their pain. Use those words in your copy. They'll feel you're one of them."
+      source: ACLS
+      file: "05-Lesson5"
+      domains: [prospect-research, copywriting]
+
+    - id: "HEUR-DD-019"
+      title: "Exclusion Sells"
+      content: "Always include who your product is NOT for. 'It's not for people who aren't willing to learn.' The reader doesn't want to be that loser — so they must buy to prove they're not."
+      source: ACLS
+      file: "11-Lesson11"
+      domains: [copywriting, persuasion]
+
+    - id: "HEUR-DD-020"
+      title: "Interweave, Never Separate"
+      content: "Never write separate blocks of benefits, then proof, then mechanism. Weave all three into every paragraph. 'This exercise helps you lose 3 sizes (benefit) by raising metabolism (mechanism) — just as thousands of women have proven (proof).'"
+      source: ACLS
+      file: "11-Lesson11"
+      domains: [copywriting, structure]
+
+    - id: "HEUR-DD-021"
+      title: "Good Enough Is Good Enough"
+      content: "Know when copy is at the 80/20 point. To get the last 5% could take hours. Better to write another promotion than over-polish. Send it out."
+      source: ACLS
+      file: "13-Lesson13"
+      domains: [productivity, editing]
+
+    - id: "HEUR-DD-022"
+      title: "Guarantee in Positive Language"
+      content: "Never say 'if you're unhappy, get your money back.' Say 'you've GOT to love it. You've GOT to make money. If you don't, I insist you ask for a refund.' Confidence, not apology."
+      source: ACLS
+      file: "10-Lesson10"
+      domains: [guarantees, offers]
+
+    - id: "HEUR-DD-023"
+      title: "Body on Floor = Instant Attention"
+      content: "Start with the most dramatic element. 'I walked into my office and there was a body on the floor.' Don't build up. Lead with the explosion, then explain."
+      source: ACLS
+      file: "14-Lesson14"
+      domains: [copywriting, leads]
+
+    - id: "HEUR-DD-024"
+      title: "Let Writers Talk to Editors Directly"
+      content: "When copywriter talks to the editor directly, magical things happen. The writer gets the editor's voice. The editor understands why 'hype' is necessary. Never put a wall between them."
+      source: ACLS
+      file: "12-Lesson12"
+      domains: [process, collaboration]
+
+    - id: "HEUR-DD-025"
+      title: "Lift All Paragraphs to Best Level"
+      content: "When you find the one paragraph with energy and life, go back and lift all other paragraphs to that level. The best of your copy is the standard — everything else must match."
+      source: ACLS
+      file: "13-Lesson13"
+      domains: [editing, quality]
+
+    # === IDEA POWER (IPWR) — 30 new heuristics ===
+
+    - id: "HEUR-DD-026"
+      title: "Always Define the Problem Before Solving It"
+      content: "The first thing I did was define the problem. Most people fail because they aren't clear what the problem really is. Define it differently and suddenly a much easier solution appears."
+      source: IPWR
+      file: "01-Adventure1"
+      domains: [problem-solving, systematic-thinking]
+
+    - id: "HEUR-DD-027"
+      title: "Use 5 Senses as Dimension Checklist"
+      content: "When adding a new dimension, systematically check: sight, sound, feel, smell. Then: movement (stationary↔moving), time (changing↔fixed), order (random↔ordered)."
+      source: IPWR
+      file: "01-Adventure1"
+      threshold: "5 senses + 3 dimensions"
+      domains: [creativity, systematic-thinking]
+
+    - id: "HEUR-DD-028"
+      title: "Time-Pressured Ideation Produces More Ideas"
+      content: "Set a timer for 5 minutes and generate as many ideas as possible. The speed pushes you beyond what you thought possible. A dozen ideas in 5 minutes is typical."
+      source: IPWR
+      file: "05-Adventure5"
+      threshold: "5-minute sprints, 12+ ideas"
+      domains: [creativity, productivity]
+
+    - id: "HEUR-DD-029"
+      title: "Test Ideas as Experiments, Not Commitments"
+      content: "You don't have to commit forever. Try it for a day or two. Build a rough model. Do an experiment. More is learned from implementation than contemplation."
+      source: IPWR
+      file: "02-Adventure2"
+      domains: [innovation, testing, execution]
+
+    - id: "HEUR-DD-030"
+      title: "Apply What You Learn Immediately"
+      content: "Application secures learning to a web of actual applications. If you don't apply immediately, you forget. Always use new techniques on a real problem the same day."
+      source: IPWR
+      file: "09-Adventure9"
+      domains: [learning, productivity]
+
+    - id: "HEUR-DD-031"
+      title: "Keep a Pad/Recorder to Capture Ideas Always"
+      content: "How many truly great ideas have vanished because someone thought 'I'll remember that'? Keep a pad and pen with you at all times. Keep one by your bed. Recording apps for driving."
+      source: IPWR
+      file: "Bonus1-IdeasToDollars"
+      domains: [productivity, creativity]
+
+    - id: "HEUR-DD-032"
+      title: "Have an Idea Quota"
+      content: "If you're an employer, insist employees come to meetings with at least three ideas. If self-employed, at least one good idea every day. James Altucher suggests 10 ideas a day."
+      source: IPWR
+      file: "Bonus1-IdeasToDollars"
+      threshold: "minimum 1/day, ideal 10/day"
+      domains: [productivity, creativity, discipline]
+
+    - id: "HEUR-DD-033"
+      title: "Run Any Problem Through All 15 Boxes"
+      content: "Take any problem, any product, any promotion and systematically run it through each of the 15 boxes. Unexpected solutions emerge in boxes you wouldn't have thought to check."
+      source: IPWR
+      file: "Bonus4-PoweringPersuasion"
+      domains: [creativity, systematic-thinking, problem-solving]
+
+    - id: "HEUR-DD-034"
+      title: "More Ideas = Better Odds"
+      content: "If you'll soon be generating ideas faster than you can use them, that's the goal. What's important is the boxes and getting into the habit of using them."
+      source: IPWR
+      file: "02-Adventure2"
+      domains: [creativity, ideation]
+
+    - id: "HEUR-DD-035"
+      title: "Never Dismiss an Absurd Idea"
+      content: "Take the shoplifters out and shoot them? Excellent! Humor is essential. Even such a seemingly off-the-cuff remark could lead to ideas on prosecuting shoplifters more vigorously."
+      source: IPWR
+      file: "02-Adventure2"
+      domains: [creativity, ideation, humor]
+
+    - id: "HEUR-DD-036"
+      title: "Don't Be Quick to Dismiss Challenging Ideas"
+      content: "Don't be so quick to dismiss an idea as inapplicable just because it seems challenging. If the question is 'can I do X exactly?' the answer is probably not. But ask 'what ABOUT X can improve Y?' and mind opens."
+      source: IPWR
+      file: "05-Adventure5"
+      domains: [creativity, problem-solving, reframing]
+
+    - id: "HEUR-DD-037"
+      title: "Ask 'How Can the Object Tell Us?'"
+      content: "When you need to measure or monitor something, reframe from 'how do we detect X?' to 'how can X tell us itself?' This shifts from external measurement to self-reporting systems."
+      source: IPWR
+      file: "01-Adventure1"
+      domains: [problem-solving, reframing, innovation]
+
+    - id: "HEUR-DD-038"
+      title: "Add a Sensory Dimension When Stuck"
+      content: "When stuck on any problem, systematically add sight, sound, feel, or smell. TV in the bookstore (sight), live music (sound), fireplace (feel), popcorn (smell). Each sense opens new solution paths."
+      source: IPWR
+      file: "01-Adventure1"
+      domains: [creativity, problem-solving]
+
+    - id: "HEUR-DD-039"
+      title: "Try the Opposite When Standard Fails"
+      content: "What if customers didn't pay before taking books home? What if the food cooked from top instead of bottom? Reversing the standard process often reveals the breakthrough."
+      source: IPWR
+      file: "02-Adventure2"
+      domains: [creativity, innovation]
+
+    - id: "HEUR-DD-040"
+      title: "Divide Price to Remove Objections"
+      content: "$1,000 amounts to just $3 a day. General Motors pioneered installment plans when they couldn't compete with Ford on price. Divide the price or the product."
+      source: IPWR
+      file: "Bonus4-PoweringPersuasion"
+      domains: [pricing, sales, persuasion]
+
+    - id: "HEUR-DD-041"
+      title: "Convert Every Negative to a Benefit"
+      content: "How a pickpocket can cure your back pain. The high price means competitors can't afford it — you'll have unique advantage. Turn any negative into a positive by reframing."
+      source: IPWR
+      file: "Bonus4-PoweringPersuasion"
+      domains: [creativity, reframing, copywriting]
+
+    - id: "HEUR-DD-042"
+      title: "Speed Up or Slow Down to Find Solutions"
+      content: "Water skiing: go slow and you sink. Go fast and pressure keeps you elevated. Many things that won't work at one speed will work at a different speed."
+      source: IPWR
+      file: "05-Adventure5"
+      domains: [problem-solving, systems-thinking]
+
+    - id: "HEUR-DD-043"
+      title: "Switch Continuous↔Intermittent When Stuck"
+      content: "Storeroom always messy? Stop trying continuous tidiness. Make it intermittent: twice daily cleanups at 11 and 4. Drilling through rock? Pulse instead of continuous."
+      source: IPWR
+      file: "05-Adventure5"
+      domains: [productivity, problem-solving, rhythm]
+
+    - id: "HEUR-DD-044"
+      title: "Let the System Fix/Serve Itself"
+      content: "Bird seed instead of rice at weddings: birds clean it up. Self-cleaning oven. Self-sealing tire. Self-inflating mattress. Pastries in open display: customers serve themselves."
+      source: IPWR
+      file: "05-Adventure5"
+      domains: [innovation, automation, problem-solving]
+
+    - id: "HEUR-DD-045"
+      title: "Change Intensity to Change Results"
+      content: "Get your reader angry about being unfairly kept from benefits. Few things convince someone you're on their side more quickly than sharing their anger."
+      source: IPWR
+      file: "Bonus4-PoweringPersuasion"
+      domains: [persuasion, copywriting, emotion]
+
+    - id: "HEUR-DD-046"
+      title: "Add an Intermediary to Change the Interaction"
+      content: "Tape your message inside the cover of a pizza delivered before lunch. Come endorsed by someone the company trusts. An endorsement changes the interaction entirely."
+      source: IPWR
+      file: "Bonus1-IdeasToDollars"
+      domains: [sales, persuasion, creativity]
+
+    - id: "HEUR-DD-047"
+      title: "Cross-Pollinate by Reading in Unrelated Fields"
+      content: "Pick up a magazine about a field you know nothing about. A horse farm ad inspired a bookstore's Top 10 Reasons list. The less obvious the connection, the more creative the result."
+      source: IPWR
+      file: "05-Adventure5"
+      domains: [creativity, innovation, learning]
+
+    - id: "HEUR-DD-048"
+      title: "Bank All Ideas — Never Lose Them"
+      content: "Have a centralized, organized place to put all your ideas. Spreadsheet, notebook, Word doc — whatever works. Ideas are useless if you can't find them later."
+      source: IPWR
+      file: "Bonus5-ChooseImplement"
+      domains: [productivity, organization]
+
+    - id: "HEUR-DD-049"
+      title: "Wait a Day Before Evaluating Ideas"
+      content: "Take a step back. Wait a day or two. Pretend someone else came up with the ideas. Evaluate as if you're someone whose opinion you respect. Fresh eyes see clearer."
+      source: IPWR
+      file: "Bonus5-ChooseImplement"
+      domains: [creativity, decision-making]
+
+    - id: "HEUR-DD-050"
+      title: "Rank: Worth / Maybe / Not Worth — Keep All Three"
+      content: "Divide ideas into three groups: Worth considering, Maybe, Not worth considering. Don't throw away the 'not worth' pile — they may spark better ideas later."
+      source: IPWR
+      file: "Bonus5-ChooseImplement"
+      domains: [creativity, decision-making, organization]
+
+    - id: "HEUR-DD-051"
+      title: "Agree on Top 3, Then MVP the Best"
+      content: "Pick the three ideas with the most potential. Don't overthink it. Take the best one and implement as MVP immediately. If it falls flat, move to idea number two."
+      source: IPWR
+      file: "Bonus5-ChooseImplement"
+      threshold: "3 finalists, MVP the best"
+      domains: [execution, innovation, testing]
+
+    - id: "HEUR-DD-052"
+      title: "Sell to the Right Person"
+      content: "Is the person you're about to sell to likely to say yes? Do they have authority? Does it make more sense to sell to someone else? Wrong audience is the biggest reason ideas flop."
+      source: IPWR
+      file: "Bonus5-ChooseImplement"
+      domains: [persuasion, sales, strategy]
+
+    - id: "HEUR-DD-053"
+      title: "Make It Urgent — Ideas on Shelves Die"
+      content: "It's not hard to convince someone an idea is good. It's another thing to convince them it should be implemented immediately. Sell the urgency. Emphasize the high price of procrastination."
+      source: IPWR
+      file: "Bonus5-ChooseImplement"
+      domains: [persuasion, execution, urgency]
+
+    - id: "HEUR-DD-054"
+      title: "Give Away Equity to Get Buy-In"
+      content: "Give the person a feeling of ownership in the idea. Get their input. Show how their feedback shaped it. Then actually make changes based on feedback. People support what they co-created."
+      source: IPWR
+      file: "Bonus5-ChooseImplement"
+      domains: [leadership, persuasion, collaboration]
+
+    - id: "HEUR-DD-055"
+      title: "Saving Money > Making Money (for employers)"
+      content: "If you make a company $1, they pay 50% taxes, so they keep 50 cents. If you save them $1, that's a full untaxed dollar to the bottom line. Cost savings are worth twice revenue."
+      source: IPWR
+      file: "Bonus1-IdeasToDollars"
+      threshold: "Savings = 2x the value of equivalent revenue"
+      domains: [business, finance, value-creation]
+
+  L4_FRAMEWORKS:
+
+    - id: "FW-DD-001"
+      title: "AIDA Framework"
+      content: "Attention → Interest → Desire → Action. The foundational structure. Attention: drag reader onto page. Interest: keep giving them reasons to stay. Desire: make them WANT it for their life. Action: convince now is the time."
+      source: ACLS
+      file: "01-Lesson1"
+      domains: [copywriting, structure]
+
+    - id: "FW-DD-002"
+      title: "Star, Story, Solution (SSS)"
+      content: "Star = personality/spokesperson/editor. Story = their background, journey, credibility. Solution = what they offer. Makes copy personality-driven and credible."
+      source: ACLS
+      file: "01-Lesson1"
+      domains: [copywriting, structure]
+
+    - id: "FW-DD-003"
+      title: "Problem, Agitate, Solution (PAS)"
+      content: "Problem: identify the pain. Agitate: press the problem, remind them how painful it is, make it worse. Solution: first the general approach, THEN the product. Don't bring product in too soon."
+      source: ACLS
+      file: "01-Lesson1"
+      domains: [copywriting, structure]
+
+    - id: "FW-DD-004"
+      title: "Objection-Based Copy Structure"
+      content: "List all objections to buying. Answer each one. Objections become subheads: 'Too expensive?' → answer. 'Too hard?' → answer. 'Not for me?' → answer. Each answer is copy."
+      source: ACLS
+      file: "01-Lesson1"
+      domains: [copywriting, structure]
+
+    - id: "FW-DD-005"
+      title: "4 C's of Great Copy"
+      content: "Clarity: Is it easy to understand? Compelling: Does it grab head AND heart? Credible: Is everything backed with proof? Change: Does it show life transformation?"
+      source: ACLS
+      file: "02-Lesson2"
+      domains: [copywriting, quality]
+
+    - id: "FW-DD-006"
+      title: "2 H's of Copy"
+      content: "Honest: Truth is more powerful than embellishment. Heart-to-heart: Write from your heart to their heart. Criminally underestimated by most copywriters."
+      source: ACLS
+      file: "02-Lesson2"
+      domains: [copywriting, authenticity]
+
+    - id: "FW-DD-007"
+      title: "BULLETS Framework (B-U-L-L-E-T-S)"
+      content: "Benefit (up front), Unexpected (surprise element), Loads of detail (specifics, numbers), Limited (not common knowledge), Extreme (never/always/worst/best), Testimonial (proof), Supersize (emotional kicker at end)."
+      source: ACLS
+      file: "08-Lesson8"
+      domains: [bullets, fascinations]
+
+    - id: "FW-DD-008"
+      title: "Hero's Journey for Copy"
+      content: "Ordinary World → Call to Action → Obstacles & Enemies → Allies (mentors/products) → Turning Point → Victory → Return with Knowledge/Transformation. Works for origin stories and testimonials."
+      source: ACLS
+      file: "07-Lesson7"
+      domains: [storytelling, structure]
+
+    - id: "FW-DD-009"
+      title: "10 Buying Motivators"
+      content: "Fear, Gain, Ease, Edge/Advantage, Absolution (not your fault), Insider access, Freedom, Recognition, Payback/Revenge, Transformation. Map each to your product."
+      source: ACLS
+      file: "06-Lesson6"
+      domains: [buying-psychology, persuasion]
+
+    - id: "FW-DD-010"
+      title: "6W Prospect Analysis"
+      content: "Who (identity/aspirations), What (reads/loves/hates/fears/vocabulary), When (timing/dates/buying moments), Where (live/browse/hang out), Why (motivations/deep drivers), How (worldview/decision process)."
+      source: ACLS
+      file: "05-Lesson5"
+      domains: [prospect-research]
+
+    - id: "FW-DD-011"
+      title: "Creative Brief Framework"
+      content: "Background (product, market, individual prospect), Competition (direct + indirect), Objectives, What Worked + What Didn't, Copy Points (benefits, features, language), Resources (books, articles, people, photos, testimonials)."
+      source: ACLS
+      file: "12-Lesson12"
+      domains: [process, planning]
+
+    - id: "FW-DD-012"
+      title: "Close Architecture"
+      content: "Offer (price trivialized) → Bonuses (fill gaps) → Guarantee (positive, confident) → Scarcity (time + quantity limits) → Future Pace ('imagine...') → Crossroads (two paths) → FAQ (mini sales pitches) → Exact Instructions."
+      source: ACLS
+      file: "10-Lesson10"
+      domains: [closing, offers]
+
+    - id: "FW-DD-013"
+      title: "Copy Weaving Technique"
+      content: "In every paragraph, interweave: benefit (what you get), mechanism (how it works), and proof (evidence). Never separate into distinct blocks. Write like conversation, not textbook."
+      source: ACLS
+      file: "11-Lesson11"
+      domains: [copywriting, structure]
+
+    - id: "FW-DD-014"
+      title: "Simple Math for Ideas"
+      content: "Four operations on any concept: ADD (what else can I include?), SUBTRACT (what if I removed this?), DIVIDE (split into separate pieces), OPPOSITE (reverse completely). Apply to headlines, angles, stories."
+      source: ACLS
+      file: "03-Lesson3"
+      domains: [ideation, creative-process]
+
+    - id: "FW-DD-015"
+      title: "Fantasy → Reality Headline Method"
+      content: "Step 1: What's the most outrageous promise? (Pay zero taxes, never be sick). Step 2: How close can I actually get? Step 3: Build headline from the achievable version. Bigger dream → stronger reality."
+      source: ACLS
+      file: "09-Lesson9"
+      domains: [headlines]
+
+    - id: "FW-DD-016"
+      title: "Promotion Structure (Hook → Lead → Body → Close)"
+      content: "Hook: attention-grabbing headline/concept. Lead: shocking fact, story, empathy, or promise+proof. Body: bullets, solution, product, objections, weaving. Close: offer, guarantee, scarcity, crossroads, FAQ."
+      source: ACLS
+      file: "11-Lesson11"
+      domains: [copywriting, structure]
+
+    - id: "FW-DD-017"
+      title: "Five Lead Types"
+      content: "Shocking Fact (stats they didn't know), Story (nightmare/origin), Empathy ('I know what it's like'), Promise + Proof (claim + immediate evidence), Myth/Big Lie (what they believe that's wrong)."
+      source: ACLS
+      file: "11-Lesson11"
+      domains: [leads, copywriting]
+
+    - id: "FW-DD-018"
+      title: "Magalog Architecture (from Breakdowns)"
+      content: "Double readership path, fascination-heavy structure, soft offer strategy, curiosity-driven headlines, multi-fascination pages, 5-step benefit organization, sample newsletter credibility inserts."
+      source: ACLS
+      file: "Bonus-Breakdowns"
+      domains: [direct-mail, magalogs]
+
+    - id: "FW-DD-019"
+      title: "Headline Formula Bank"
+      content: "How to X. How to X with Y. How to X even if Z. How to X without Y. Best/Only/Wrong way to. What never to. Got X? Biggest mistake. Why you should. [Statement] — Wrong! Want X? Here's why you must."
+      source: ACLS
+      file: "09-Lesson9"
+      domains: [headlines, formulas]
+
+    - id: "FW-DD-020"
+      title: "Headline Type Taxonomy"
+      content: "Bullet-as-headline (specific curiosity), Hook headline (one-legged golfer), Umbrella headline (hidden weakness), Empathy headline (understanding prospect), Short-shock headline (2 words)."
+      source: ACLS
+      file: "08-Lesson8"
+      domains: [headlines, classification]
+
+    # === IDEA POWER (IPWR) — 20 new frameworks ===
+
+    - id: "FW-DD-021"
+      title: "15 Boxes Complete System (Systematic Idea Generation)"
+      content: "15 predefined thought-starters organized in groups. Vegematic (2-5): Opposite, Divide, Remove, Combine. Nesting (6-8): Embed, Pre-empt, Reframe. Action (9-11): Speed, Rhythm, Self-Service. Interaction (12-15): Intensity, Add Intermediary, Reshape, Relook."
+      source: IPWR
+      file: "01-09-Adventures"
+      domains: [creativity, systematic-thinking, innovation]
+
+    - id: "FW-DD-022"
+      title: "Box 1 — Add a New Dimension"
+      content: "Add sight, sound, feel, or smell. Make stationary things move or moving things stationary. Make unchanging things change or changing things stable. Go from random to ordered or ordered to random."
+      source: IPWR
+      file: "01-Adventure1"
+      domains: [creativity, innovation]
+
+    - id: "FW-DD-023"
+      title: "Box 2 — Do the Opposite"
+      content: "Reverse, flip, invert any object or process. What if customers didn't pay before taking products home? Food cooking from top instead of bottom? The opposite often reveals the breakthrough."
+      source: IPWR
+      file: "02-Adventure2"
+      domains: [creativity, innovation]
+
+    - id: "FW-DD-024"
+      title: "Box 3 — Divide It Up"
+      content: "Section, segment, subdivide any object or process. Baby carrots from misshapen carrots. Divide business into profit centers. Divide a 5-reason ad into five single-reason ads."
+      source: IPWR
+      file: "02-Adventure2"
+      domains: [creativity, business, copywriting]
+
+    - id: "FW-DD-025"
+      title: "Box 4 — Take Something Out"
+      content: "Remove, extract, eliminate. What can you remove that's keeping you from results? Or: extract only the part you really want. 'Shoplifters will be shot' — take out the shoplifters."
+      source: IPWR
+      file: "02-Adventure2"
+      domains: [creativity, simplification]
+
+    - id: "FW-DD-026"
+      title: "Box 5 — Bring Some Things Together"
+      content: "Combine, partner, merge. Ben Franklin combined reading + distance glasses = bifocals. Joint promotions with neighbors. Combine current events with your product. Put food-grabber with poison-accuser."
+      source: IPWR
+      file: "02-Adventure2"
+      domains: [creativity, combination, partnership]
+
+    - id: "FW-DD-027"
+      title: "Box 6 — Put One Thing Inside Another"
+      content: "Nest, embed, matryoshka. Put one thing inside another. Put your message inside a pizza delivery. Put a book concierge service inside a bookstore. Nested solutions."
+      source: IPWR
+      file: "03-Adventure3"
+      domains: [creativity, nesting, innovation]
+
+    - id: "FW-DD-028"
+      title: "Box 7 — Do It Beforehand"
+      content: "Pre-empt, prevent, anticipate. What can be done in advance to save money or prevent problems? Prepare calls before customers enter the store. Pre-call to know their interests."
+      source: IPWR
+      file: "04-Adventure4"
+      domains: [creativity, prevention, planning]
+
+    - id: "FW-DD-029"
+      title: "Box 8 — Convert into a Benefit"
+      content: "Turn any negative into a positive. 'High price means competitors can't afford it — unique advantage.' 'How a pickpocket can cure your back pain.' Reframe the liability as the asset."
+      source: IPWR
+      file: "04-Adventure4"
+      domains: [creativity, reframing, copywriting]
+
+    - id: "FW-DD-030"
+      title: "Box 9 — Switch Gears"
+      content: "Change speed or quantity. Speed up (express delivery), slow down (longer browsing = more purchases), do more (more training), do less (owner back on sales floor). Each gear shift reveals new solutions."
+      source: IPWR
+      file: "05-Adventure5"
+      domains: [creativity, productivity, optimization]
+
+    - id: "FW-DD-031"
+      title: "Box 10 — Revise the Rhythm"
+      content: "Change from continuous to intermittent or vice versa. Intermittent drilling is more effective in certain rock. Continuous training (daily) beats intermittent (annual seminar). Just-in-time delivery."
+      source: IPWR
+      file: "05-Adventure5"
+      domains: [creativity, rhythm, systems-thinking]
+
+    - id: "FW-DD-032"
+      title: "Box 11 — Do It Itself (D.I.I.)"
+      content: "Self-cleaning oven. Self-sealing tire. Self-inflating mattress. Bird seed that birds clean up. Open pastry display where customers serve themselves. Let the system solve its own problem."
+      source: IPWR
+      file: "05-Adventure5"
+      domains: [innovation, automation, self-service]
+
+    - id: "FW-DD-033"
+      title: "Box 12 — Change the Intensity"
+      content: "Increase or decrease force, emotion, attention. Get reader angry about injustice. Increase the sensory vividness. Decrease complexity. Intensity changes the entire dynamic of an interaction."
+      source: IPWR
+      file: "06-Adventure6"
+      domains: [persuasion, creativity, communication]
+
+    - id: "FW-DD-034"
+      title: "Box 13 — Add Something to the Interaction"
+      content: "Add an intermediary, endorsement, third party. 'Honey, why are my new shoes in the freezer?!' Turning a statement into a first-person story adds a human intermediary and makes it compelling."
+      source: IPWR
+      file: "07-Adventure7"
+      domains: [persuasion, creativity, copywriting]
+
+    - id: "FW-DD-035"
+      title: "Box 14 — Change the Shape"
+      content: "Reconfigure, restructure. Snowboard was invented by an 8th grader changing the shape of a ski. Circular bookstore format instead of rectangular. Physical or conceptual reshaping."
+      source: IPWR
+      file: "08-Adventure8"
+      domains: [innovation, design, creativity]
+
+    - id: "FW-DD-036"
+      title: "Box 15 — Change the Look"
+      content: "Visual transformation, repackaging. The TV remote control was invented by Philo Farnsworth at 14 observing plowed field rows. Repackage misshapen carrots into 'baby carrots.' Change how people see it."
+      source: IPWR
+      file: "08-Adventure8"
+      domains: [innovation, design, marketing]
+
+    - id: "FW-DD-037"
+      title: "4-Step Idea Selection Process"
+      content: "Step 1: Bank (centralized storage). Step 2: Rank (Worth / Maybe / Not Worth — keep all). Step 3: Agree on Top 3 (gut + feedback). Step 4: Don't Stew, Do (MVP the best one immediately)."
+      source: IPWR
+      file: "Bonus5-ChooseImplement"
+      domains: [decision-making, execution, creativity]
+
+    - id: "FW-DD-038"
+      title: "10 Ways to Get Buy-In for Ideas"
+      content: "1. Solve a Problem. 2. Agitate the Pain. 3. Tell Stories. 4. Paint Pictures. 5. Sell to the Right Person. 6. Benefits for THEM. 7. Give Away Equity. 8. Make It Easy. 9. Demonstrate. 10. Make It Urgent."
+      source: IPWR
+      file: "Bonus5-ChooseImplement"
+      domains: [persuasion, leadership, selling]
+
+    - id: "FW-DD-039"
+      title: "Ideas-to-Dollars Monetization Framework"
+      content: "6 paths: 1. Sell outright. 2. Write book/report/course. 3. License. 4. Create seminar/online course. 5. Offer for percentage of increased profits. 6. Coach individually or in groups."
+      source: IPWR
+      file: "Bonus1-IdeasToDollars"
+      domains: [business, monetization, entrepreneurship]
+
+    - id: "FW-DD-040"
+      title: "Powering Persuasion with Creativity (15 Boxes Applied to Copy)"
+      content: "Box 1: Paint vivid benefit pictures. Box 2: Do opposite of expected. Box 3: Divide message for simplicity. Box 4: Remove hard-to-believe or boring elements. Box 5: Combine with pop culture. Apply all 15 to headlines, bullets, close."
+      source: IPWR
+      file: "Bonus4-PoweringPersuasion"
+      domains: [copywriting, creativity, persuasion]
+
+  L5_METHODOLOGIES:
+
+    - id: "MET-DD-001"
+      title: "100 Headlines Methodology"
+      content: "Step 1: Write 100 raw headlines (20min timer batches). Step 2: Apply Simple Math (add, subtract, divide, opposite) to each. Step 3: Apply Opposite technique to top 15. Step 4: Test best as subject lines. Step 5: Show to people for gut reaction. Step 6: Select top 3-5 for testing."
+      source: ACLS
+      file: "03-Lesson3, 14-Lesson14"
+      domains: [headlines, process]
+
+    - id: "MET-DD-002"
+      title: "BULLETS Writing Method"
+      content: "Step 1: Find interesting fact in product. Step 2: Add Benefit (up front). Step 3: Add Unexpected element. Step 4: Add specific details/numbers. Step 5: Add scarcity/exclusivity. Step 6: Push to extreme. Step 7: Add proof. Step 8: Supersize with emotional kicker at end."
+      source: ACLS
+      file: "08-Lesson8"
+      domains: [bullets, fascinations]
+
+    - id: "MET-DD-003"
+      title: "Prospect Research Methodology"
+      content: "Step 1: Apply 6W framework. Step 2: Research Amazon (book titles, descriptions, reviews). Step 3: Mine forums/Quora for exact language. Step 4: Google 'what it's like to have [condition].' Step 5: Interview customers/editors. Step 6: Study competition (direct + indirect). Step 7: Compile vocabulary list of prospect's own words."
+      source: ACLS
+      file: "05-Lesson5"
+      domains: [prospect-research]
+
+    - id: "MET-DD-004"
+      title: "Creative Brief Creation Method"
+      content: "Step 1: Gather product background (features, components, how made). Step 2: Research market (size, demographics, psychographics). Step 3: Analyze competition (direct + indirect). Step 4: Define objectives. Step 5: Collect what worked AND didn't. Step 6: List copy points. Step 7: Compile resources (books, people, photos, testimonials)."
+      source: ACLS
+      file: "12-Lesson12"
+      domains: [process, planning]
+
+    - id: "MET-DD-005"
+      title: "Copy Improvement Process"
+      content: "Step 1: Read copy aloud. Step 2: Have someone read it TO you. Step 3: Simplify language (caveman test). Step 4: Find the best paragraph — lift all others to that level. Step 5: Remove all dead transitions. Step 6: Ensure every paragraph has 'people doing stuff.' Step 7: Apply 80/20 — know when to stop."
+      source: ACLS
+      file: "13-Lesson13"
+      domains: [editing, quality]
+
+    - id: "MET-DD-006"
+      title: "Story Collection System"
+      content: "Step 1: Interview editors (origin, background, journey). Step 2: Talk to telemarketers (customer stories). Step 3: Read customer mail/testimonials. Step 4: Mine Amazon reviews. Step 5: Attend events, listen for stories. Step 6: Compile in notebook/loose-leaf for each product."
+      source: ACLS
+      file: "07-Lesson7"
+      domains: [storytelling, research]
+
+    - id: "MET-DD-007"
+      title: "Fascination Writing Method"
+      content: "Step 1: Read source material deeply. Step 2: Find the unexpected angle (pen that cures cancer). Step 3: Frame as curiosity gap. Step 4: Add specificity (numbers, details). Step 5: Add scarcity (most doctors don't know). Step 6: Add emotional consequence. Step 7: Test as bullet AND as potential headline."
+      source: ACLS
+      file: "08-Lesson8, Bonus-Healing-Remedies"
+      domains: [fascinations, copywriting]
+
+    - id: "MET-DD-008"
+      title: "Magalog Breakdown Method"
+      content: "Step 1: Analyze headline strategy (curiosity vs benefit). Step 2: Map fascination structure. Step 3: Identify soft offer mechanism. Step 4: Note double readership path. Step 5: Study credibility inserts (sample issues). Step 6: Analyze close/offer structure. Step 7: Extract reusable patterns."
+      source: ACLS
+      file: "Bonus-Breakdowns"
+      domains: [direct-mail, analysis]
+
+    - id: "MET-DD-009"
+      title: "Indirect Copy Method for Stage 5"
+      content: "Step 1: Acknowledge market saturation. Step 2: Don't claim, don't mechanism. Step 3: Find fresh angle (French Women/one-legged golfer). Step 4: Address prospect's skepticism directly. Step 5: Present solution as discovery, not product. Step 6: Let reader arrive at product conclusion themselves."
+      source: ACLS
+      file: "04-Lesson4"
+      domains: [market-sophistication, copywriting]
+
+    - id: "MET-DD-010"
+      title: "Close Construction Method"
+      content: "Step 1: Present offer (price trivialized). Step 2: Stack bonuses (fill gaps). Step 3: Present guarantee (positive framing, confidence-based). Step 4: Create scarcity (time + quantity). Step 5: Future pace ('imagine...'). Step 6: Crossroads (two life paths). Step 7: FAQ (each = mini sales pitch). Step 8: Exact step-by-step instructions to order."
+      source: ACLS
+      file: "10-Lesson10"
+      domains: [closing, offers]
+
+    - id: "MET-DD-011"
+      title: "Dual Journey Construction"
+      content: "Step 1: Map intellectual journey (facts, logic, evidence). Step 2: Map emotional journey (indifference → interest → pain → longing → desire). Step 3: Ensure both tracks run simultaneously throughout copy. Step 4: Check that emotional elements exist in EVERY section, not just close."
+      source: ACLS
+      file: "04-Lesson4"
+      domains: [copywriting, structure]
+
+    - id: "MET-DD-012"
+      title: "Hook Discovery Process"
+      content: "Step 1: Interview editor/product creator extensively. Step 2: Keep digging when they say 'nothing new.' Step 3: Ask about background, origin, unusual details. Step 4: Find the 'one-legged golfer' — the unexpected detail. Step 5: Build headline around the hook. Step 6: Connect hook to product benefits."
+      source: ACLS
+      file: "08-Lesson8"
+      domains: [headlines, hooks]
+
+    - id: "MET-DD-013"
+      title: "Double Readership Path Design"
+      content: "Step 1: Structure main reading flow (sequential). Step 2: Create scannable path (headlines, subheads, bullets, callouts). Step 3: Ensure scanners get core promise and proof. Step 4: Each path should independently motivate action."
+      source: ACLS
+      file: "Bonus-Healing-Remedies"
+      domains: [direct-mail, design]
+
+    - id: "MET-DD-014"
+      title: "Headline Swipe and Transform"
+      content: "Step 1: Collect famous headlines. Step 2: Take word-for-word version for your product. Step 3: Extract underlying CONCEPT. Step 4: Apply concept to your product without using same words. Step 5: Apply opposite technique. Step 6: Apply simple math (add, subtract, divide)."
+      source: ACLS
+      file: "14-Lesson14"
+      domains: [headlines, creative-process]
+
+    - id: "MET-DD-015"
+      title: "Pre-Association Headline Technique"
+      content: "Step 1: Collect headlines from National Enquirer, magazines, tabloids on index cards. Step 2: Read through cards before writing. Step 3: Let existing headlines 'spark' new associations. Step 4: Combine unexpected associations with your product angle. Neurological benefit of hand-writing."
+      source: GH-KH
+      file: "Killer-Headlines"
+      domains: [headlines, creative-process]
+
+    # === IDEA POWER (IPWR) — 15 new methodologies ===
+
+    - id: "MET-DD-016"
+      title: "Define-the-Problem-First Methodology"
+      content: "Step 1: State the problem as you see it. Step 2: Reframe: ask 'how can [object] tell/fix/solve itself?' Step 3: Compare original vs reframed problem. Step 4: The reframed version usually has a much simpler solution. Step 5: Apply appropriate box(es) to the reframed problem."
+      source: IPWR
+      file: "01-Adventure1"
+      domains: [problem-solving, systematic-thinking]
+
+    - id: "MET-DD-017"
+      title: "Rapid Ideation Sprint"
+      content: "Step 1: Define specific problem. Step 2: Set timer for 5 minutes. Step 3: Generate ideas as fast as possible, one person scribbles while other speaks. Step 4: No judgment, no filtering during sprint. Step 5: Review and rank after timer ends. Produces 12+ ideas per sprint."
+      source: IPWR
+      file: "05-Adventure5"
+      domains: [creativity, productivity]
+
+    - id: "MET-DD-018"
+      title: "Box-by-Box Systematic Exploration"
+      content: "Step 1: State the problem. Step 2: Open Box 1, apply all sub-dimensions (senses, movement, time, order). Step 3: Move to Box 2, apply to same problem. Step 4: Continue through all 15 boxes. Step 5: Bank all ideas. Step 6: Rank and select top 3. Step 7: MVP the best."
+      source: IPWR
+      file: "01-09-Adventures"
+      domains: [creativity, systematic-thinking, problem-solving]
+
+    - id: "MET-DD-019"
+      title: "Idea Monetization 6-Step Pathway"
+      content: "Step 1: Identify successful idea. Step 2: Package it (book, course, report, system). Step 3: Choose monetization: sell outright, license, course, coach, spec/percentage, approach other businesses. Step 4: Sell to similar businesses in other areas. Step 5: Sell to non-competitive businesses locally. Step 6: Recycle and repeat across markets."
+      source: IPWR
+      file: "Bonus1-IdeasToDollars"
+      domains: [business, monetization, entrepreneurship]
+
+    - id: "MET-DD-020"
+      title: "Intrapreneur 5-Step Method"
+      content: "Step 1: Come up with new product/service ideas for your company. Step 2: Find ways to save money (savings = 2x revenue). Step 3: Improve marketing/promotion. Step 4: Keep careful track of quantifiable results. Step 5: If company is reluctant, offer to head a separate business unit — become a true intrapreneur."
+      source: IPWR
+      file: "Bonus1-IdeasToDollars"
+      domains: [career, innovation, business]
+
+    - id: "MET-DD-021"
+      title: "Copy Creativity Through 15 Boxes"
+      content: "Step 1: Take headline/bullet/close element. Step 2: Run through each of 15 boxes. Step 3: Box 1 adds sensory dimension ('standing ovation every time you speak'). Step 4: Box 2 does opposite ('what's good for you is bad'). Step 5: Box 5 combines with pop culture. Step 6: Box 13 adds intermediary ('Honey, why are my shoes in the freezer?!'). Produces breakthrough copy."
+      source: IPWR
+      file: "Bonus4-PoweringPersuasion"
+      domains: [copywriting, creativity, headlines]
+
+    - id: "MET-DD-022"
+      title: "Million Dollar Title Process"
+      content: "Step 1: Ask 'what does this make you think of?' Step 2: Follow association chain (Barnum → circus → sucker born every minute). Step 3: Find golden overlap between associations and product benefit. Step 4: Create play on familiar phrase. Step 5: Validate: delight (recognition) + relevance (benefit) = million dollar title."
+      source: IPWR
+      file: "Bonus6-MillionDollarIdea"
+      domains: [copywriting, creativity, naming]
+
+    - id: "MET-DD-023"
+      title: "Idea Recycling System"
+      content: "Step 1: Identify successful idea that generated profit. Step 2: List similar businesses outside your area. Step 3: List non-competitive businesses locally. Step 4: List individuals who could benefit. Step 5: Package and sell via 6 monetization paths. Step 6: Approach others' successful ideas and offer to market for them."
+      source: IPWR
+      file: "Bonus1-IdeasToDollars"
+      domains: [business, monetization, scaling]
+
+    - id: "MET-DD-024"
+      title: "Cross-Pollination Method"
+      content: "Step 1: Select a random magazine/field you know nothing about. Step 2: Read it cover to cover. Step 3: Extract any principle that catches your attention. Step 4: Ask 'how does this apply to my problem?' Step 5: The less obvious the connection, the more creative the result."
+      source: IPWR
+      file: "05-Adventure5"
+      domains: [creativity, innovation, learning]
+
+    - id: "MET-DD-025"
+      title: "Prototype Testing Protocol"
+      content: "Step 1: Take your best idea. Step 2: Create MVP (minimum viable version). Step 3: Test for a day or two in small way. Step 4: Collect feedback and observe results. Step 5: If flat, move to idea #2. Step 6: If promising, iterate and expand."
+      source: IPWR
+      file: "Bonus5-ChooseImplement"
+      domains: [innovation, testing, execution]
+
+    - id: "MET-DD-026"
+      title: "'What If My Life Depended On It?' Method"
+      content: "Step 1: State the problem. Step 2: Imagine your life literally depends on solving it. Step 3: Notice how resourcefulness and innovation surge. Step 4: Channel that energy into systematic box exploration. Step 5: Use heightened motivation to push past 'good enough' into 'breakthrough.'"
+      source: IPWR
+      file: "09-Adventure9"
+      domains: [creativity, mindset, problem-solving]
+
+    - id: "MET-DD-027"
+      title: "Dirty Windows Job Hunting Method"
+      content: "Step 1: Research potential employers deeply. Step 2: Use boxes to identify their needs (dirty windows). Step 3: Prepare ideas/solutions for those needs. Step 4: Stand out (Box 1: add sensory dimension to resume). Step 5: Change the interaction (Box 13: get endorsed by someone they trust). Step 6: Sell urgency (show up tomorrow)."
+      source: IPWR
+      file: "Bonus1-IdeasToDollars"
+      domains: [career, creativity, sales]
+
+    - id: "MET-DD-028"
+      title: "Idea Group Assembly Method"
+      content: "Step 1: Assemble regular group of friends/associates (online or off). Step 2: Bring problems to brainstorm together. Step 3: Use boxes as structured exploration. Step 4: Evaluate ideas collectively. Step 5: Two or more heads are a LOT better than one for idea evaluation."
+      source: IPWR
+      file: "Bonus5-ChooseImplement"
+      domains: [collaboration, creativity, leadership]
+
+    - id: "MET-DD-029"
+      title: "AI-Enhanced Ideation Method"
+      content: "Step 1: Define problem. Step 2: Apply boxes to generate initial ideas. Step 3: Use AI tools (ChatGPT, etc.) to multiply and expand on your box-generated ideas. Step 4: Use AI for rapid prototyping of ideas. Step 5: Human judgment for final selection. Boxes + AI = multiplied creative power."
+      source: IPWR
+      file: "Bonus3-AI"
+      domains: [creativity, AI, innovation]
+
+    - id: "MET-DD-030"
+      title: "Narrative Teaching Method"
+      content: "Step 1: Embed lessons inside compelling stories (bookstore turnaround). Step 2: Each story demonstrates 1-3 boxes in action. Step 3: Reader identifies with protagonist's problem. Step 4: Immediate application within the story. Step 5: Reader mirrors application to their own situation. Stories as vehicle for systematic learning."
+      source: IPWR
+      file: "01-09-Adventures"
+      domains: [pedagogy, storytelling, creativity]

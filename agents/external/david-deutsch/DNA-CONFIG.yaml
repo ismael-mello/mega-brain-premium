@@ -1,0 +1,72 @@
+# DNA-CONFIG — DAVID DEUTSCH (SOLO Agent)
+# Versão: 2.0.0
+# Tipo: SOLO (fonte única = 100%)
+
+meta:
+  agent_type: SOLO
+  person: David Deutsch
+  version: "2.0.0"
+  total_elements: 218
+
+dna_sources:
+  - person: david-deutsch
+    weight: 1.0
+    path: "knowledge/external/dna/persons/david-deutsch/DNA.yaml"
+    elements: 218
+    layers:
+      L1_PHILOSOPHIES: 53
+      L2_MENTAL_MODELS: 40
+      L3_HEURISTICS: 55
+      L4_FRAMEWORKS: 40
+      L5_METHODOLOGIES: 30
+
+  dominios:
+    primary:
+      - copywriting
+      - direct-response
+      - headlines
+      - fascinations
+      - creativity
+      - idea-generation
+      - systematic-thinking
+      - storytelling
+    secondary:
+      - buying-psychology
+      - market-sophistication
+      - creative-process
+      - prospect-research
+      - offers
+      - closing
+      - problem-solving
+      - innovation
+      - business-ideation
+      - magalogs
+      - persuasion
+      - monetization
+
+  raiz: "knowledge/external/sources/david-deutsch/raw/"
+
+  materiais_fonte:
+    - id: ACLS
+      nome: "A-List Copywriting Secrets"
+      tipo: COURSE
+      arquivos: 28
+      path_raw: "knowledge/external/sources/david-deutsch/raw/"
+      modulos:
+        - "01-Lessons (14 lições)"
+        - "02-Bonuses (3 módulos: Design, Breakdowns, copyTHINKING)"
+    - id: GH-KH
+      nome: "Killer Headlines (Halbertology bonus)"
+      tipo: AUDIO
+      arquivos: 1
+      path_raw: "knowledge/external/sources/gary-halbert/raw/WEEK2/David Deutsch Audio/"
+    - id: IPWR
+      nome: "Idea Power"
+      tipo: COURSE
+      arquivos: 56
+      path_raw: "knowledge/external/sources/david-deutsch/raw/idea-power/"
+      modulos:
+        - "01-Introduction (2 lições)"
+        - "02-Idea Power Adventures (9 adventures + 15 boxes + resources)"
+        - "03-Idea Power Bonuses (6 bônus: Ideas to Dollars, Parris Lampropoulos, AI, Persuasion, Implementation, Million Dollar Idea)"
+        - "04-Appendix (Pocket Idea Generator + Feedback)"

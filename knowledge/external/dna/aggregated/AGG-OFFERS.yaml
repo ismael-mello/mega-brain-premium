@@ -23,11 +23,12 @@
 # - Cole Gordon (373 elementos) - 7 Beliefs & Value Perception
 # - Full Sales System (117 elementos) - Esteira de Produtos BR
 # - The Scalable Company (393 elementos) - Value Engines
+# - André Chaperon (45 elementos) - VPDC/JTBD offer creation, audience-offer fit
 #
 # ═══════════════════════════════════════════════════════════════════════════════
 
 dominio: "offers"
-versao: "2.0.0"
+versao: "4.0.0"
 criado_em: "2026-01-10T19:30:00Z"
 atualizado_em: "2026-03-17T00:00:00Z"
 
@@ -69,6 +70,22 @@ fontes_consolidadas:
     elementos_relevantes: 73
     source: "YWO"
     note: "Added 2026-03-17. Todd Brown's Your Winning Offer is the most systematic offer construction methodology — complements Hormozi's Grand Slam with precise engineering frameworks."
+
+  - fonte: "andre-chaperon"
+    peso_dominio: 0.75  # VPDC/JTBD systematic offer creation
+    path: "/knowledge/external/dna/persons/andre-chaperon/"
+    contribuicao_principal: "Value Proposition Design Canvas (VPDC), Jobs to Be Done framework, Offer Venn Diagram, Skills-Hobbies-Experience Inventory, Strategic Messaging Brief"
+    elementos_relevantes: 45
+    source: "MMS"
+    note: "Added 2026-03-17. André Chaperon's VPDC is the most audience-centric offer creation framework — complements Hormozi's value equation with deep audience empathy via JTBD."
+
+  - fonte: "ry-schwartz"
+    peso_dominio: 0.75
+    path: "/knowledge/external/dna/persons/ry-schwartz/"
+    contribuicao_principal: "Earned Enrollment offer framing, Exclusive Empowerment pricing, identity-shift offer positioning, Gap Method offer presentation, coaching-based offer architecture"
+    elementos_relevantes: 40
+    source: "CTC Circle"
+    note: "Added 2026-03-17. Ry Schwartz brings enrollment-based offer framing — offers positioned as coaching invitations not transactions. Complements Hormozi/Brown with empathy-first approach."
 
 # ═══════════════════════════════════════════════════════════════════════════════
 # FILOSOFIAS CONSOLIDADAS (Cross-Source)

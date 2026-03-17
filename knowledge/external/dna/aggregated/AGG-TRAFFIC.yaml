@@ -13,10 +13,10 @@
 # ═══════════════════════════════════════════════════════════════════════════════
 
 dominio: "traffic"
-versao: "1.0.0"
+versao: "2.0.0"
 data_criacao: "2026-03-11"
-ultima_atualizacao: "2026-03-11"
-total_elementos: 185
+ultima_atualizacao: "2026-03-17"
+total_elementos: 255
 peso_global: 0.70
 
 fontes_consolidadas:
@@ -28,6 +28,15 @@ fontes_consolidadas:
     especialidade: "Traffic masters - Pittman, Burns, Mandalia, Kusmich, Breeze, Aslam, Sobral"
     tipo_fonte: "SECONDARY (curated by Synkra AIOS)"
     agentes_internos: 15
+
+  - fonte: "andre-chaperon"
+    path: "knowledge/external/dna/persons/andre-chaperon/"
+    raw_path: "knowledge/external/sources/andre-chaperon/raw/"
+    peso_dominio: 0.80
+    elementos_contribuidos: 70
+    especialidade: "Organic traffic empire, SOI multi-step pull-click, content syndication, guest blogging, paid+SOI hybrid, multi-touch contextual advertising, TTE (co-created with Shawn Twing)"
+    tipo_fonte: "PRIMARY"
+    note: "Added 2026-03-17. André Chaperon + Shawn Twing bring a uniquely SYSTEMS-BASED approach to traffic — organic-first, relationship-driven, evergreen content empire. Counterbalances the paid-heavy approach of AIOS squad."
 
 # ═══════════════════════════════════════════════════════════════════════════════
 # EXPERTS (7 real persons + 8 functional agents)

@@ -1,0 +1,471 @@
+12 min read + videos
+In Part 2 we’re going to cover how to set up the automation that
+will power your SPPs.
+There are many ways to create an SPP along with the supporting
+automation, so we’re going to show three versions, each a little
+different. Through this lens, you’ll learn the building blocks that
+will equip you to build an expression of SPP that �ts your needs
+and time resources.
+▪ Basic SPP (single SPP in the Stack)
+▪ Upgraded Basic SPP (single SPPs in the Stack)
+▪ Workhorse SPP (three SPPs in the Stack)
+Once you know how to set up a single stack SPP, how to upgrade
+it, and understand how to build a multi-SPP Stack, you’ll have
+everything you need to construct any size SPP Stack.
+One more thing before we get started.
+There are hundreds of ESPs (email service providers), and we can’t
+Story-Powered Promotions
+(SPPs) — Part 2
+www.getwsodo.com
+
+-- 1 of 30 --
+
+cover every variation and nuance. We use ConvertKit. Having
+used a handful of ESPs over the past two decades, we can say
+without hesitation, that ConvertKit represents what we refer to as
+an expression of ‘elegant simplicity.’
+It’s a perfect balance of useful features which are easily accessible,
+minus the bloat of some of the larger ESPs, trying to be all things
+to all marketers.
+“I would not give a �g for the simplicity this side of complexity; but I
+would give my life for the simplicity the other side of complexity.” —
+Oliver Wendell Holmes, U.S. Supreme Court Justice
+We’ll use ConvertKit to demonstrate how to set up the
+automations that power SPPs. It’ll be relatively easy to model the
+set up in any decent ESP on the market. If the ESP you use doesn’t
+support this level of relatively basic automation, consider
+jumping ship.
+www.getwsodo.com
+
+-- 2 of 30 --
+
+For context, let’s start by unpacking a basic set up, then expand to
+where we need to get to from there.
+Simplistic
+The most basic version of an SPP, is a simple follow-up sequence
+with a link trigger that subscribes someone (Called a ‘Sequence’ in
+CK).
+Someone clicks a link to indicate active intent, and they’re
+subscribed, at which point they receive the sequence. Simple. This
+is exactly how we set up an SOS. No need for fancy automation.
+However, there are two problems with this simplistic version of a
+SPP, which is why we don’t recommend you set an SPP in the
+same way we do for an SOS.
+�. What happens if/when subscriber 1234 clicks the link again
+— or another link trigger for the same SPP — an hour later,
+day later, month later, year later?
+�. CK, and most other ESPs will give you the option of
+www.getwsodo.com
+
+-- 3 of 30 --
+
+preventing a subscriber from re-subscribing to a sequence,
+or it’ll reset them, sending them through again (starting
+from email #1).
+Neither of these are optimal scenarios.
+Clicking a link only for nothing to happen (say they had been
+through the sequence six months earlier), would be frustrating.
+Or for a sequence to reset, and the exact same emails resent,
+perhaps just as bad.
+The best automation doesn’t look like automation. It feels organic
+and personal, not a dumb machine sending the same stuff.
+For this reason, we always set up a baseline automation to control
+every SPP, even if you only have a single SPP.
+The same automation can handle a single SPP, or multiple SPPs.
+As you write a new one, you add it to the automation, and you’re
+all set.
+For context, let’s look at this hypothetical scenario which we
+shared in a previous module.
+www.getwsodo.com
+
+-- 4 of 30 --
+
+From this illustration, it’s easy to think of an SPP as the same as
+an SOS, but with the purpose to promote an offer. But this is not
+the case.
+To demonstrate this point, let’s modify the above scenario slightly
+(see bottom-right).
+It’s the SAME potential lead �ow, but now extended. SPP (A) can
+represent any product offer — but we’ll use AoE because it’s a
+frame of reference we all know. SPP (A) is a promotion for AoE.
+www.getwsodo.com
+
+-- 5 of 30 --
+
+Now look at the last VNL (far right). Maybe a prospect doesn’t
+respond to the link in the previous VNL, which leads to the SOS.
+But she clicks the Hard Bridge link in the P.S. area of the last VNL.
+But it’s the same SPP!
+In this scenario you wouldn’t want to send the exact same SPP to
+her, right? So we need a “smart” mechanism to account for this
+eventuality.
+This is why every SPP is controlled by a higher-order automation,
+that will make sure that an SPP will never be sent to the same
+person twice (unless you want it to).
+Remember, SPPs are reusable assets. We create them, add them to
+a “stack,” and leave it to the automation to manage.
+Before we look at this, it’ll be helpful to zoom out and look at a
+wide angle perspective, and talk about SPP Stacks.
+SPP Stacks
+We’re going to build three versions of an SPP Stack, and by
+observing these, you’ll have everything you need to build an SPP
+Stack that matches your needs of any size.
+To reiterate, unlike with a Soap Opera Series, which is only a
+simple Sequence (in CK), an SPP needs a controlling automation
+to add the functionality we need.
+www.getwsodo.com
+
+-- 6 of 30 --
+
+Zoomed out, here are two single-stack SPPs.
+(The yellow dot under the tag trigger represents the automation that
+controls all SPPs within the stack.)
+We will always recommend you build an “upgraded” SPP Stack —
+regardless of size — even when it’s only to control a single SPP.
+Now let’s look at much larger SPP Stack, each with three SPPs.
+www.getwsodo.com
+
+-- 7 of 30 --
+
+Each SPP Stack is triggered by the same link trigger (which we’ll
+cover in Part 3), which applies a tag, and triggers the automation
+for that Stack.
+For us, as an example — SPP Stack A could be for Art of Email, SPP
+Stack B for Sphere of In�uence, SPP Stack C for The Traf�c
+Engine, and SPP Stack D for The Durable Business.
+Within each stack can be any number of SPPs for that product.
+Our automation (yellow dot in the image), will automatically send
+a subscriber the �rst SPP they’ve not received before.
+If it’s their �rst time in SPP Stack A, for example, they’ll receive
+SPP A1. If they received SPP A1 the last time they triggered this
+SPP, they’ll receive SPP A2, etc. You can keep adding new SPPs to a
+Stack over time, expanding your opportunities to convert
+someone from prospect to customer for a product. With that said,
+there’s a point of diminishing returns, hence the SPP (VIP), an
+optional SPP we’ll cover later.
+Before we build the three versions of an SPP Stack, let’s look at the
+ingredients we need for construction.
+www.getwsodo.com
+
+-- 8 of 30 --
+
+Ingredients of an SPP
+Outside of writing an SPP, there are a list of prerequisite
+ingredients you’ll need to bake your SPP cake.
+▪ One Sequence per SPP (In Drip it’s called a Campaign,
+AWeber a Follow-Up, etc.)
+▪ Appropriate Tags
+▪ Appropriate Custom Fields
+▪ Appropriate Rules (for Link Triggers)
+▪ Automation (one per SPP Stack)
+SPP Stack Tags & Custom Fields
+Tags are used by ESPs to trigger simple ‘if this then that’-style
+rules and more complex automations, and custom �elds to track
+state changes.
+For this reason, having a robust tagging taxonomy or style guide
+will serve you well. God knows, this stuff can easily get out of
+control when tag naming is made up on the �y.
+Tags:
+Taxonomy: ACTION - NAME - META
+ACTION is something that’s happened, like: Triggered, Interested,
+www.getwsodo.com
+
+-- 9 of 30 --
+
+Purchased, Muted, Flagged, etc.
+NAME is what it is: product, course, campaign name, etc.
+META is anything extra that can identify a different version of
+NAME, or when (date), or what for (Black Friday), etc.
+Examples:
+▪ 	SPP - AoE
+▪ 	SPP - TTE
+▪ 	Interested - AoE - Oct 2021
+▪ 	Purchased - AoE
+▪ 	Purchased - AoE Workshop - Live Cohort
+▪ 	Purchased - AoE Workshop - Evergreen
+▪ 	Enrolled - Emergent Marketing Series - RBS
+▪ 	Internal - TDB -- add to new COS
+▪ 	Waiting List - SOI - Version 2
+▪ 	Refunded - AoE
+▪ Etc.
+Keep in mind that tags are typically sorted in alphabetical order
+(they are in ConvertKit), like this:
+▪ 	Purchased - AoE
+www.getwsodo.com
+
+-- 10 of 30 --
+
+▪ 	Purchased - AoE Workshop
+▪ 	Purchased - TTE
+▪ 	Purchased - SOI
+▪ 	Purchased - TDB
+▪ 	Purchased - MBW-LE
+For this reason, you may prefer to group NAMES instead of ACTION ,
+in which case you should swap ACTION and NAME around, which
+would then list your tags like this:
+▪ 	AoE - Interested - PLS (Oct 2021)
+▪ 	AoE - Muted - PLS (Oct 2021)
+▪ 	AoE - Purchased
+▪ 	AoE - Refunded
+▪ 	TTE - Interested - PLS (Fall 2020)
+▪ 	TTE - Muted - PLS (Fall 2020)
+▪ 	TTE - Purchased
+▪ 	TTE - Refunded
+Pick the taxonomy that works for you. There is no right or wrong
+method, unless you change your naming convention along the
+way, or have no system at all. Pick one, then stick with it.
+Note (worth mentioning): Some ESPs make it easy to rename tags,
+www.getwsodo.com
+
+-- 11 of 30 --
+
+and some do not (without terrible implications). With CK, ‘pretty
+names’ are not used by the underlying codebase (IDs are), it’s just for
+the humans. So we can rename a tag, and all uses and references of
+that tag will be changed/updated, causing no harm. When we used
+Drip, renaming a tag would break all rules and automations
+associated with said tag. Nightmare! Perhaps this has changed. But
+the point is, the best time to create a naming convention is in the
+beginning.
+Custom Fields:
+For the purposes of SPPs, we use custom �elds to track state
+changes (example: which, if any, SPP has someone been through).
+More broadly, custom �elds can be used for segmentation, to
+identify purchase details, and other uses cases outside of the
+scope of this module.
+When using custom �elds, sticking to these “rules” will,
+regardless of your ESP, avoid any potential downstream issues:
+▪ No spaces. Use underscores.
+▪ All lowercase.
+▪ No special characters.
+▪ The �rst character shouldn’t be a number.
+Examples:
+www.getwsodo.com
+
+-- 12 of 30 --
+
+▪ 	spp_aoe
+▪ 	spp_tte
+▪ 	spp_tdb
+▪ 	spp_soi
+We use a custom �eld to indicate the SPP status for a subscriber.
+The value will be blank if they’ve never triggered the SPP before,
+or it’ll contain the value of which SPP they’ve completed.
+How to Build an SPP Stack (Basic,
+Upgraded, and Workhorse)
+We’ll start with the most basic SPP Stack containing a single SPP.
+Then we’ll “upgrade” it to include a SPP VIP element. Finally, we’ll
+construct a full SPP Stack with three SPPs and an SPP VIP
+element.
+Basic SPP Stack
+The order in which we build an SPP Stack is:
+�. create appropriate tags and custom �elds,
+�. create all the sequences you’ll need,
+�. create automation (last).
+www.getwsodo.com
+
+-- 13 of 30 --
+
+Once the appropriate tags and custom �elds have been created, it’s
+time to create an SPP Sequence.
+Dashboard Send Sequences
+Next, we can build the automation �ow that will control this basic
+SPP Stack. This automation can be modeled as a template. If you
+already use ConvertKit, you can copy this directly to your account
+here (please do not share this automation in public).
+www.getwsodo.com
+
+-- 14 of 30 --
+
+www.getwsodo.com
+
+-- 15 of 30 --
+
+www.getwsodo.com
+
+-- 16 of 30 --
+
+When you look at the automation, what becomes obvious is that
+it’s constructed in such a way that someone can only receive the
+SPP once. This is by design, as already mentioned. Of course, if
+you did want people to be able go through it multiple times, it’s an
+easy change.
+www.getwsodo.com
+
+-- 17 of 30 --
+
+However, we suggest you rather upgrade this SPP Stack to include
+one more special SPP, which we call an SPP VIP.
+This is a single email that communicates a speci�c message to
+someone (based on the context they’re receiving it). This message
+will be different based on the size of your SPP Stack. At the most
+basic level, it’ll prevent:
+�. nothing from happening (e.g. when someone triggers a
+single SPP Stack which they have already been through),
+�. or from looping someone back through the same SPP
+(multiple times).
+A SPP VIP message can be as simple as this:
+Subject: Houston, we have a problem!
+Hey FNAME,
+Whoops, hold on there, tiger!
+Looks like you’ve already been sent this promotion before. So I want to
+make 100% sure you would like to receive it again.
+If so, click here, and I’ll send it to you.
+Hit me up anytime if you have a speci�c question about this PRODUCT,
+okay?
+www.getwsodo.com
+
+-- 18 of 30 --
+
+This is a respectful way of adding meaningful nuance to your
+email system. Let’s add one of these now.
+Adding an SPP VIP
+First we need to create a Link Trigger that’ll “reset” the spp_aoe
+(or whatever your SPP Stack custom �eld is named) custom �eld,
+which will allow the SPP to be resent to said subscriber.
+Here’s an example of his. All Link Triggers need to have a
+destination URL. Unlike in the example below, yours should go to
+a landing page con�rming you’re just resent the promotion, and
+they should go check their inbox.
+Next we rewrite the appropriate custom �eld, spp_aoe in this
+example, with a value of reset that will trigger a resend
+automation.
+(Swap out reset with whatever makes sense for you.)
+Best, YOUR-NAME
+www.getwsodo.com
+
+-- 19 of 30 --
+
+… which triggers this automation:
+The automation then “blanks” the custom �eld (which can’t be
+done directly from a Rule in CK) — allowing said subscriber to be
+resent the SPP they’ve already been through — and then adds the
+trigger tag — SPP AoE in this example — which will trigger, and
+add the subscriber back into the SPP Stack for AoE in our example.
+www.getwsodo.com
+
+-- 20 of 30 --
+
+Once this Rule and Automation is set up, we can create the “VIP”
+sequence. Same as before — Dashboard Send Sequences — create a
+new Sequence for your SPP Stack, like the example below.
+www.getwsodo.com
+
+-- 21 of 30 --
+
+Next, allow the sequence to be resent. In ConvertKit, this is
+disabled by default. Set it to Yes, then save. Do the same for your
+SPP sequence that you would like to be resent to subscribers —
+SPP - AoE - 1 in our example.
+www.getwsodo.com
+
+-- 22 of 30 --
+
+… and now we’re all set to “upgrade” our Basic SPP Stack to this
+enhanced version.
+The only addition to the previous automation, is that now, instead
+of the automation just ending, we send the SPP - AoE - VIP
+sequence to a subscriber who does not have a blank custom �eld:
+www.getwsodo.com
+
+-- 23 of 30 --
+
+The VIP email will be sent, giving the subscriber the option of
+receiving the same SPP again.
+Simple.
+Okay, now with those building block out of the way, let’s build the
+big SPP Stack.
+www.getwsodo.com
+
+-- 24 of 30 --
+
+Whether you have one, two, or three SPPs to set up as a Stack, you
+don’t need to have already written your SPP sequence(s).
+However, in order to set up the SPP Stack automation, you do
+need to at least create blank sequences. Once the automation is set
+up, you can add the emails to the sequence(s) at any point before
+putting it live.
+Example: If we were to create a three SPP Stack for AoE, we create
+the empty sequence containers �rst (with the �rst email set to no
+delay and published), like this:
+Here are the blank containers for three SPPs within the AoE SPP
+Stack.
+SPP Stack Automation
+Let’s look at an SPP Stack for AoE that has three SPPs. This
+www.getwsodo.com
+
+-- 25 of 30 --
+
+automation can be modeled as a template. If you already use
+ConvertKit, you can copy this to your account here (please do not
+share this automation in public).
+www.getwsodo.com
+
+-- 26 of 30 --
+
+Tags (T), Custom Fields (CF) & Sequences (S) used in this SPP
+Stack
+▪ (T) SPP - AoE
+▪ (T) Purchased - AoE
+▪ (T) Flag - SPP - AoE - Complete
+▪ (CF) spp_aoe
+▪ (S) SPP - AoE - 1
+▪ (S) SPP - AoE - 2
+▪ (S) SPP - AoE - 3
+▪ (S) SPP - AoE - VIP
+www.getwsodo.com
+
+-- 27 of 30 --
+
+Now let’s look at the SPP VIP for a SPP Stack made up of 3 or 4
+SPPs.
+SPP VIP (for 3 or 4 SPP Stacks)
+The �rst thing we need to consider, is why has someone been
+exposed to 3 (or 4) SPPs for a particular product, yet has not
+purchased? Context matters.
+They’ve already indicated their active intent to receive every
+single SPP for said product. However, there remains a mismatch
+between our offer, the themes and angles we’re using, and the
+motivation, needs or desire of this prospect.
+There are many ways to approach solving this problem, and we’re
+not going to prescribe any as “best” to use.
+Again: context matters, and your context will differ from ours.
+www.getwsodo.com
+
+-- 28 of 30 --
+
+That said, let’s explore a few options:
+This is about rewarding someone as a feedback loop, not for their
+unwillingness to purchase. It’s about discovering what the
+“disconnect” between their needs and our ability to serve those
+needs.
+Offering a 50% coupon seem like a fair trade in this context.
+At this point, we suggest manually reaching out to the prospect in
+Subject: FNAME, can we jump on a call?
+Hey FNAME,
+I would love to jump on a Zoom or Skype call with you and see whether we
+can help.
+At four separate times, you’ve requested that I send you a promotion for
+PRODUCT, yet you’re still not a customer.
+If you’re open to chatting with me, I would love to try and discover where
+the disconnect is between your needs and my value proposition.
+To thank you for your time, I’ll give you a 50% coupon you can use for any
+of my products and redeem it anytime. It won’t expire, so no pressure.
+Best, YOUR-NAME
+www.getwsodo.com
+
+-- 29 of 30 --
+
+question from a ‘regular’ email account (not an email created by
+our ESP). We want this email to be (and feel) personal to the
+recipient.
+We use this “VIP” idea in other creative ways which we’ll discuss
+in Module 11: Advanced Ideas.
+This lesson my be overwhelming if you’re less technical inclined.
+We’re happy to create additional videos if we need a need. Please
+ask questions and leave comments below.
+—André & Shawn
+www.getwsodo.com
+
+-- 30 of 30 --
+
