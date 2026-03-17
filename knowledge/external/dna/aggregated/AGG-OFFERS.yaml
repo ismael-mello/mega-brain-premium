@@ -27,9 +27,9 @@
 # ═══════════════════════════════════════════════════════════════════════════════
 
 dominio: "offers"
-versao: "1.0.0"
+versao: "2.0.0"
 criado_em: "2026-01-10T19:30:00Z"
-atualizado_em: "2026-01-10T19:30:00Z"
+atualizado_em: "2026-03-17T00:00:00Z"
 
 # ═══════════════════════════════════════════════════════════════════════════════
 # FONTES CONSOLIDADAS COM PESOS POR DOMÍNIO
@@ -61,6 +61,14 @@ fontes_consolidadas:
     path: "/knowledge/external/dna/persons/THE-SCALABLE-COMPANY/"
     contribuicao_principal: "Value Engine Mapping"
     elementos_relevantes: 25
+
+  - fonte: "todd-brown"
+    peso_dominio: 0.90  # YWO = definitive offer engineering
+    path: "/knowledge/external/dna/persons/todd-brown/"
+    contribuicao_principal: "SIN Proposition, Attractive Panacea, E5 Method, Offer Architecture, Price Positioning, Premium Engineering"
+    elementos_relevantes: 73
+    source: "YWO"
+    note: "Added 2026-03-17. Todd Brown's Your Winning Offer is the most systematic offer construction methodology — complements Hormozi's Grand Slam with precise engineering frameworks."
 
 # ═══════════════════════════════════════════════════════════════════════════════
 # FILOSOFIAS CONSOLIDADAS (Cross-Source)

@@ -356,7 +356,7 @@ dna_sources:
 
     - pessoa: "flcr"
       path: "/knowledge/external/dna/persons/flcr"
-      raiz: "/knowledge/external/sources/flcr/raw/"
+      raiz: "/knowledge/external/sources/capital-upgrade/raw/flcr/"
       dominios_usados:
         - "feedback"
         - "acompanhamento"
@@ -569,6 +569,12 @@ dna_sources:
             - "Product Analysis Method — systematic product-market fit analysis"
             - "Campaign Intensification Method — systematic campaign scaling framework"
             - "Headline Planning Process — strategic messaging architecture"
+
+    - person: "gary-halbert"
+      path: "knowledge/external/dna/persons/gary-halbert/DNA.yaml"
+      weight: 0.75
+      domains: ["direct-response", "sales-psychology", "offers", "pricing", "testing"]
+      contribution: "Arithmetic validation framework, CTO model, testing methodology, backend marketing, price justification, guarantee psychology, door-to-door sales ratios"
 
 # ═══════════════════════════════════════════════════════════════════════════════
 # MAPA DE CONFLITOS

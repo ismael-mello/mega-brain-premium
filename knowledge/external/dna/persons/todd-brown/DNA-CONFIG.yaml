@@ -1,0 +1,95 @@
+# DNA-CONFIG.yaml - Todd Brown
+# Version: 2.0.0
+# Created: 2026-03-16
+# Updated: 2026-03-17 (A-Z Copywriting Workshop merge)
+# Pipeline: /jarvis-full (yolo mode, Opus)
+
+person: Todd Brown
+slug: todd-brown
+type: SOLO
+weight: 1.0
+
+domains:
+  - marketing-funnels
+  - customer-acquisition
+  - lead-generation
+  - offer-creation
+  - order-form-optimization
+  - transaction-maximization
+  - email-autoresponders
+  - conversion-optimization
+  - marketing-metrics
+  - split-testing
+  - backend-marketing
+  - product-engineering
+  - funnel-mapping
+  - copywriting-craft
+  - hooks-themes-ideas
+  - language-patterns
+  - sentence-structure
+  - storytelling
+  - persuasion-rhetoric
+  - word-choice
+  - research-process
+  - framing
+
+sources:
+  - id: SFFF
+    name: "Six Figure Funnel Formula"
+    type: COURSE
+    modules: 12
+    files: 100
+    status: COMPLETE
+    raiz: "knowledge/external/sources/todd-brown/raw/Six-Figure-Funnel-Formula/"
+
+  - id: EPP
+    name: "Engineering Profitable Products"
+    type: BONUS
+    files: 2
+    status: COMPLETE
+    raiz: "knowledge/external/sources/todd-brown/raw/Engineering Profitable Products/"
+
+  - id: MMHG
+    name: "Marketing Masters Mega-Hangout"
+    type: BONUS
+    files: 1
+    status: COMPLETE
+    raiz: "knowledge/external/sources/todd-brown/raw/Marketing Masters Mega-Hangout/"
+
+  - id: NLMFM
+    name: "Next Level Marketing Funnel Maps"
+    type: UPSELL
+    files: 2
+    status: COMPLETE
+    raiz: "knowledge/external/sources/todd-brown/raw/Six-Figure-Funnel-Formula/Upsell #1 Next Level Marketing Funnel Maps/"
+
+  - id: MFU
+    name: "Marketing Funnels Uncensored"
+    type: UPSELL
+    files: 10
+    status: COMPLETE
+    raiz: "knowledge/external/sources/todd-brown/raw/Six-Figure-Funnel-Formula/Upsell #2 Marketing Funnels Uncensored/"
+
+  - id: AZCW
+    name: "A-Z Copywriting Workshop"
+    type: WORKSHOP
+    files: 13
+    status: COMPLETE
+    raiz: "knowledge/external/sources/todd-brown/raw/A-Z-Copywriting-Workshop/"
+
+dna_path: "knowledge/external/dna/persons/todd-brown/DNA.yaml"
+
+layer_counts:
+  L1_PHILOSOPHIES: 58
+  L2_MENTAL_MODELS: 67
+  L3_HEURISTICS: 100
+  L4_FRAMEWORKS: 87
+  L5_METHODOLOGIES: 54
+  total: 366
+
+next_ids:
+  FIL-TB: "059"
+  MM-TB: "068"
+  HEUR-TB: "101"
+  FW-TB: "088"
+  MET-TB: "055"

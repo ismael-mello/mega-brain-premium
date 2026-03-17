@@ -11,9 +11,9 @@
 # ═══════════════════════════════════════════════════════════════════════════════
 
 dominio: "vendas"
-versao: "2.0.0"
+versao: "3.0.0"
 data_criacao: "2026-01-10"
-ultima_atualizacao: "2026-03-16"
+ultima_atualizacao: "2026-03-17"
 
 fontes_consolidadas:
   - fonte: "cole-gordon"
@@ -53,6 +53,13 @@ fontes_consolidadas:
     elementos_contribuidos: 160
     especialidade: "Mind Hijacking, Forced Choice, Threshold Psychology, Certitude Selling, Affinity Bridge, No BS Sales Process, Scripting Methodology, Objection Pre-emption, Assumptive Closing, Post-Sale Romance, Whale Hunting, Place Strategy, Hit List Method, Whale Bait Lead Gen, Event Sales Psychology, Attendance Multipliers, Pre-Registration Selling, Celebrity ROI, Seminar Choreography for Revenue"
     batches: ["MH Wave 1-8 (Mind Hijacking Source)", "SMU DVD 1-4 + 19 Secrets + Bonus Call (Sales Mastery Unleashed — 2026-03-16)", "HFYIC — How to Find Your Ideal Customer (Whale Hunting — 2026-03-16)", "BIS — Butt In Seats (Event Marketing — 2026-03-16)"]
+
+  - fonte: "gary-halbert"
+    path: "/knowledge/external/dna/persons/gary-halbert"
+    peso_dominio: 0.80
+    elementos_contribuidos: 60
+    especialidade: "Direct mail salesmanship, door-to-door sales conversion ratios, phone-to-copy concert pitch, arithmetic-driven selling, price justification frameworks, backend marketing, guarantee psychology"
+    batches: ["GH-HALBERTOLOGY (Halbertology — 69 files)"]
 
 # ═══════════════════════════════════════════════════════════════════════════════
 # FILOSOFIAS CONSOLIDADAS (Top 15)

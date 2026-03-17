@@ -1,0 +1,142 @@
+# DNA-CONFIG.yaml - Todd Brown
+# Version: 5.0.0
+# Created: 2026-03-16
+# Updated: 2026-03-17 (Your Winning Offer merge)
+# Pipeline: /jarvis-full (yolo mode, Opus)
+
+person: Todd Brown
+slug: todd-brown
+type: SOLO
+weight: 1.0
+
+domains:
+  - marketing-funnels
+  - customer-acquisition
+  - lead-generation
+  - offer-creation
+  - winning-offer-engineering
+  - sin-proposition
+  - attractive-panacea
+  - e5-method
+  - order-form-optimization
+  - transaction-maximization
+  - email-autoresponders
+  - conversion-optimization
+  - marketing-metrics
+  - split-testing
+  - backend-marketing
+  - product-engineering
+  - funnel-mapping
+  - copywriting-craft
+  - hooks-themes-ideas
+  - language-patterns
+  - sentence-structure
+  - storytelling
+  - persuasion-rhetoric
+  - word-choice
+  - research-process
+  - framing
+  - big-ideas
+  - believability
+  - empathy-in-copy
+  - competitive-analysis
+  - field-testing
+  - diagnostic-copy
+  - market-sophistication
+  - ad-copy
+  - upsell-strategy
+  - unique-mechanism
+  - education-based-marketing
+  - mechanism-interrogation
+  - mechanism-naming
+  - transubstantiation
+  - campaign-architecture
+  - celebrity-positioning
+  - personal-branding
+  - marketplace-positioning
+  - pricing-psychology
+
+sources:
+  - id: SFFF
+    name: "Six Figure Funnel Formula"
+    type: COURSE
+    modules: 12
+    files: 100
+    status: COMPLETE
+    raiz: "knowledge/external/sources/todd-brown/raw/Six-Figure-Funnel-Formula/"
+
+  - id: EPP
+    name: "Engineering Profitable Products"
+    type: BONUS
+    files: 2
+    status: COMPLETE
+    raiz: "knowledge/external/sources/todd-brown/raw/Engineering Profitable Products/"
+
+  - id: MMHG
+    name: "Marketing Masters Mega-Hangout"
+    type: BONUS
+    files: 1
+    status: COMPLETE
+    raiz: "knowledge/external/sources/todd-brown/raw/Marketing Masters Mega-Hangout/"
+
+  - id: NLMFM
+    name: "Next Level Marketing Funnel Maps"
+    type: UPSELL
+    files: 2
+    status: COMPLETE
+    raiz: "knowledge/external/sources/todd-brown/raw/Six-Figure-Funnel-Formula/Upsell #1 Next Level Marketing Funnel Maps/"
+
+  - id: MFU
+    name: "Marketing Funnels Uncensored"
+    type: UPSELL
+    files: 10
+    status: COMPLETE
+    raiz: "knowledge/external/sources/todd-brown/raw/Six-Figure-Funnel-Formula/Upsell #2 Marketing Funnels Uncensored/"
+
+  - id: AZCW
+    name: "A-Z Copywriting Workshop"
+    type: WORKSHOP
+    files: 13
+    status: COMPLETE
+    raiz: "knowledge/external/sources/todd-brown/raw/A-Z-Copywriting-Workshop/"
+
+  - id: CLLR
+    name: "Copy Legends Lock-In Recordings"
+    type: MASTERMIND
+    files: 2
+    status: COMPLETE
+    raiz: "knowledge/external/sources/todd-brown/raw/Copy-Legends-Lock-In-Recordings/"
+    notes: "Private mastermind Oct 2023, Orlando. Todd hosts 12+ elite copywriters. 204-page transcript + Todd's private notes."
+
+  - id: UMW
+    name: "Unique Mechanism Workshop"
+    type: WORKSHOP
+    files: 9
+    status: COMPLETE
+    raiz: "knowledge/external/sources/todd-brown/raw/unique-mechanism-workshop/"
+    notes: "Complete workshop on identifying, naming, and deploying unique mechanisms. 6 videos + 1 bonus (celebrity positioning) + 2 PDFs (slides + workbook). 99 DNA elements extracted."
+
+  - id: YWO
+    name: "Your Winning Offer"
+    type: WORKSHOP
+    files: 4
+    status: COMPLETE
+    raiz: "knowledge/external/sources/todd-brown/raw/your-winning-offer/"
+    notes: "Accelerated intensive on building winning offers. SIN Proposition, Attractive Panacea, E5 Method, offer architecture, price positioning, premium engineering, deliverable naming/framing. 73 DNA elements extracted."
+
+dna_path: "knowledge/external/dna/persons/todd-brown/DNA.yaml"
+
+layer_counts:
+  L1_PHILOSOPHIES: 113
+  L2_MENTAL_MODELS: 113
+  L3_HEURISTICS: 164
+  L4_FRAMEWORKS: 123
+  L5_METHODOLOGIES: 77
+  total: 590
+
+next_ids:
+  FIL-TB: "114"
+  MM-TB: "114"
+  HEUR-TB: "165"
+  FW-TB: "124"
+  MET-TB: "078"

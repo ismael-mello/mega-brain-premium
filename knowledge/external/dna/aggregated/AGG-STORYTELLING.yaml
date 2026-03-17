@@ -13,10 +13,10 @@
 # ═══════════════════════════════════════════════════════════════════════════════
 
 dominio: "storytelling"
-versao: "3.0.0"
+versao: "4.0.0"
 data_criacao: "2026-03-11"
-ultima_atualizacao: "2026-03-16"
-total_elementos: 462
+ultima_atualizacao: "2026-03-17"
+total_elementos: 492
 peso_global: 0.70
 
 fontes_consolidadas:
@@ -60,6 +60,21 @@ fontes_consolidadas:
       - "Three Levels of Creativity (product→market→breakthrough)"
       - "Architecture of Belief (bridge from accepted beliefs to new claim)"
     nota: "Schwartz's storytelling contribution is INDIRECT — he uses narrative techniques in service of copy, not story for story's sake. His metaphor/symbolism frameworks complement Dicks (personal story) and Hall (business story) by showing how narrative elements SELL."
+
+  - fonte: "gary-halbert-halbertology"
+    path: "knowledge/external/dna/persons/gary-halbert/"
+    raw_path: "knowledge/external/sources/gary-halbert/raw/"
+    peso_dominio: 0.85
+    elementos_contribuidos: 30
+    especialidade: "Story-driven sales letters, personal ad storytelling method, Water Ad investor narrative, Rewind Story Structure, Can't Make This Up technique, problem-solution letter flow, element assembly for storytelling, strumming their pain, death-or-glory story selection"
+    tipo_fonte: "PRIMARY (direct from expert)"
+    key_frameworks:
+      - "Problem-Solution Letter Flow (story arc in sales letters)"
+      - "Rewind Story Structure (start at dream, rewind to pain)"
+      - "Element Assembly Method (Hollywood model for marketing)"
+      - "Personal Ad Writing Method (total honesty as story)"
+      - "Water Ad Structure (build desire without direct ask)"
+      - "Can't Make This Shit Up (provably true bizarre stories)"
 
 # Nota: Russell Brunson tem sobreposição com knowledge/external/dna/persons/russell-brunson
 # (Epiphany Bridge, Hook-Story-Offer existem em ambos)

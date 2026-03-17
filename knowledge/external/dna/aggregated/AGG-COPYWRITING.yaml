@@ -1,15 +1,16 @@
 # AGG-COPYWRITING.yaml
 # DOMÍNIO: Copywriting, direct response, persuasão escrita
-# VERSÃO: 3.0.0
+# VERSÃO: 4.0.0
 # CRIADO: 2026-03-13
+# ATUALIZADO: 2026-03-17
 #
-# FONTES: Dan Kennedy (822 el) + Eugene Schwartz (115 el) + Russell Brunson (200 el) + Alex Hormozi (80 el)
+# FONTES: Dan Kennedy (822 el) + Eugene Schwartz (115 el) + Russell Brunson (200 el) + Alex Hormozi (80 el) + Todd Brown (292 el) + Gary Halbert (297 el)
 # ═══════════════════════════════════════════════════════════════════════════════
 
 dominio: "copywriting"
-versao: "3.0.0"
+versao: "7.0.0"
 criado_em: "2026-03-13"
-atualizado_em: "2026-03-16"
+atualizado_em: "2026-03-17"
 
 fontes_consolidadas:
   - fonte: "dan-kennedy"
@@ -51,6 +52,26 @@ fontes_consolidadas:
     raiz: "/knowledge/external/sources/alex-hormozi/raw/"
     contribuicao_principal: "Hooks = 80% da performance, offer language, content hooks"
     elementos_relevantes: 80
+
+  - fonte: "todd-brown"
+    peso_dominio: 0.92
+    path: "/knowledge/external/dna/persons/todd-brown/"
+    raiz: "/knowledge/external/sources/todd-brown/raw/"
+    contribuicao_principal: "Copywriting craft methodology — verb-driven writing, 15+ language patterns, Hook Rule of One, Promise+Curiosity, Categorical Imperative, Big Idea development, research methods, believability, OLOF upsell, diagnostic copy, unique mechanism strategy, campaign thesis, education-based marketing"
+    elementos_relevantes: 292
+    fontes_incluidas:
+      - "A-Z Copywriting Workshop (141 elementos — hooks/themes/ideas, writing craft, language patterns, persuasion rhetoric, research process, sentence structure, storytelling, framing, word choice)"
+      - "Copy Legends Lock-In Recordings (52 elementos — collective wisdom from 12+ elite copywriters: big idea hierarchy, research methods, believability, OLOF upsell, root cause→UM, empathy in copy, taste vs tease, mechanism naming, field testing)"
+      - "Unique Mechanism Workshop (99 elementos — mechanism identification, 4 types of UM, 13Q interrogation, campaign thesis, 2 argument models, naming strategy, education-based marketing, transubstantiation, celebrity positioning, marketplace maven status)"
+
+  - fonte: "gary-halbert"
+    peso_dominio: 0.95
+    path: "/knowledge/external/dna/persons/gary-halbert/"
+    raiz: "/knowledge/external/sources/gary-halbert/raw/"
+    contribuicao_principal: "Direct mail copywriting foundations — arithmetic validation, letter structure, swipe file methodology, neurological imprinting, headline psychology, list selection > copy, grabbers, segues, testing frameworks, market selection via SRDS, concert pitch capture"
+    elementos_relevantes: 297
+    fontes_incluidas:
+      - "Halbertology (297 elementos — 1996 Copywriting Seminar Parts 1-17, Kevin Halbert Course, Base Trilogy, guest experts: Dan Kennedy Grabbers, David Deutsch Headlines, David Garfinkel Water Ad, Craig Clemens 7 Secrets, Michel Fortin $100M Man, Joe Sugarman 30-Day, John Carlton Dark Side, Michael Gerber Fighter Pilot, Nader Anise Cardboard Hero, Mark McRae Business Course)"
 
 # ═══════════════════════════════════════════════════════════════════════════════
 # FILOSOFIAS

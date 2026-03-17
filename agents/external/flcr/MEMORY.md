@@ -37,5 +37,5 @@
 |---------|-------|-------|
 | Total de elementos DNA | 180 | L1-L5 YAML files |
 | Módulos processados | 11 | FLCR Turma 06 |
-| Arquivos raw | 65 | knowledge/external/sources/flcr/raw/ |
+| Arquivos raw | 65 | knowledge/external/sources/capital-upgrade/raw/flcr/ |
 | Data de processamento | 2026-03-11 | Pipeline Jarvis |

@@ -42,7 +42,7 @@ Liderança · Cultura Organizacional · People Management · Recrutamento e Sele
 ## NAVEGAÇÃO
 
 - **DNA:** `knowledge/external/dna/persons/flcr/`
-- **Raw:** `knowledge/external/sources/flcr/raw/`
+- **Raw:** `knowledge/external/sources/capital-upgrade/raw/flcr/`
 - **Soul:** `agents/external/flcr/SOUL.md`
 - **Memory:** `agents/external/flcr/MEMORY.md`
 
