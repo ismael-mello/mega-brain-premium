@@ -11,7 +11,7 @@
 # ═══════════════════════════════════════════════════════════════════════════════
 
 dominio: "vendas"
-versao: "1.1.0"
+versao: "2.0.0"
 data_criacao: "2026-01-10"
 ultima_atualizacao: "2026-03-16"
 
@@ -49,10 +49,10 @@ fontes_consolidadas:
 
   - fonte: "dan-kennedy"
     path: "/knowledge/external/dna/persons/dan-kennedy"
-    peso_dominio: 0.85
-    elementos_contribuidos: 42
-    especialidade: "Mind Hijacking, Forced Choice, Threshold Psychology, Certitude Selling, Affinity Bridge"
-    batches: ["MH Wave 1-8 (Mind Hijacking Source — 2026-03-16)"]
+    peso_dominio: 0.90
+    elementos_contribuidos: 160
+    especialidade: "Mind Hijacking, Forced Choice, Threshold Psychology, Certitude Selling, Affinity Bridge, No BS Sales Process, Scripting Methodology, Objection Pre-emption, Assumptive Closing, Post-Sale Romance, Whale Hunting, Place Strategy, Hit List Method, Whale Bait Lead Gen, Event Sales Psychology, Attendance Multipliers, Pre-Registration Selling, Celebrity ROI, Seminar Choreography for Revenue"
+    batches: ["MH Wave 1-8 (Mind Hijacking Source)", "SMU DVD 1-4 + 19 Secrets + Bonus Call (Sales Mastery Unleashed — 2026-03-16)", "HFYIC — How to Find Your Ideal Customer (Whale Hunting — 2026-03-16)", "BIS — Butt In Seats (Event Marketing — 2026-03-16)"]
 
 # ═══════════════════════════════════════════════════════════════════════════════
 # FILOSOFIAS CONSOLIDADAS (Top 15)
@@ -133,8 +133,29 @@ filosofias:
     ref: "MM-DK-388 (MH)"
     consenso: ["dan-kennedy", "JEREMY-MINER"]
 
+  - id: "AGG-VEN-F013"
+    conteudo: "Top salespeople are writers — scripts são o fundamento, não a prisão. Comedians write, memorize, rehearse, lock in. False freedom é roaming sem script."
+    fonte_primaria: "dan-kennedy"
+    peso: 0.90
+    ref: "FIL-DK-610, FIL-DK-611, MM-DK-596, MM-DK-601 (SMU)"
+    consenso: ["dan-kennedy", "cole-gordon"]
+
+  - id: "AGG-VEN-F014"
+    conteudo: "Overcome objections in advance — smart people have money. Pre-empt in marketing, use damaging admission, get all stakeholders on the call."
+    fonte_primaria: "dan-kennedy"
+    peso: 0.90
+    ref: "FIL-DK-613, FW-DK-761, MM-DK-597 (SMU)"
+    consenso: ["dan-kennedy", "cole-gordon"]
+
+  - id: "AGG-VEN-F015"
+    conteudo: "Entire presentation should be assumptive close — seamless, not jarring. Begin with end in mind. Don't drag across imaginary line."
+    fonte_primaria: "dan-kennedy"
+    peso: 0.85
+    ref: "FIL-DK-614, FW-DK-762 (SMU)"
+    consenso: ["dan-kennedy", "alex-hormozi"]
+
 # ═══════════════════════════════════════════════════════════════════════════════
-# FRAMEWORKS CONSOLIDADOS (Top 10)
+# FRAMEWORKS CONSOLIDADOS (Top 12)
 # ═══════════════════════════════════════════════════════════════════════════════
 
 frameworks:
@@ -265,8 +286,57 @@ frameworks:
     aplicacao: "Superar resistência a novas ideias em discovery e pitch"
     batch_source: ["MH Wave 6-7"]
 
+  - id: "AGG-VEN-FW010"
+    nome: "No BS Sales Process — 6 Steps (DK SMU)"
+    fonte_primaria: "dan-kennedy"
+    peso: 0.90
+    ref: "FW-DK-759 (SMU)"
+    descricao: "Processo completo de vendas em 6 etapas sequenciais"
+    elementos:
+      - "1. Foundations / Positioning — scripts, mindset, profissionalismo"
+      - "2. Irresistible Offer — risk reversal + money at discount + emotional value"
+      - "3. Presentation — inverted pyramid (12→6→2 hot buttons)"
+      - "4. Objection Pre-emption — handle in advance, damaging admission"
+      - "5. Assumptive Close — seamless, begin with end in mind"
+      - "6. Post-Sale Romance — shock & awe box, ongoing relationship"
+    aplicacao: "Framework macro para processo de vendas completo"
+    batch_source: ["SMU DVD 1-4"]
+
+  - id: "AGG-VEN-FW011"
+    nome: "Script Development — Comedy Method (DK SMU)"
+    fonte_primaria: "dan-kennedy"
+    peso: 0.85
+    ref: "FW-DK-763 (SMU)"
+    descricao: "Desenvolvimento de scripts como comedians desenvolvem material"
+    elementos:
+      - "1. Record current salespeople → transcribe (confront the horror)"
+      - "2. Write optimal composite script from best sequences"
+      - "3. Memorize completely"
+      - "4. Rehearse in safe environments (open mic equivalent)"
+      - "5. Lock in winning version — never deviate"
+      - "6. Perform consistently forever more"
+    aplicacao: "Treinamento de vendedores, padronização de pitches"
+    batch_source: ["SMU DVD 1"]
+
+  - id: "AGG-VEN-FW012"
+    nome: "Benefits Inverted Pyramid (DK SMU)"
+    fonte_primaria: "dan-kennedy"
+    peso: 0.85
+    ref: "MM-DK-593, MET-DK-640 (SMU)"
+    descricao: "Narrowing progressivo de benefícios até hot buttons"
+    elementos:
+      - "1. Present 12 benefits during presentation"
+      - "2. Observe reactions (verbal + body language)"
+      - "3. Filter to 6 most resonant"
+      - "4. Probe deeper on those 6"
+      - "5. Identify 2 hot buttons"
+      - "6. At close, only discuss those 2"
+      - "Advanced: Use pre-info/questionnaire to start at step 5"
+    aplicacao: "Apresentações de vendas, pitches personalizados"
+    batch_source: ["SMU DVD 2"]
+
 # ═══════════════════════════════════════════════════════════════════════════════
-# HEURÍSTICAS CONSOLIDADAS (Top 20)
+# HEURÍSTICAS CONSOLIDADAS (Top 22)
 # ═══════════════════════════════════════════════════════════════════════════════
 
 heuristicas:
@@ -391,8 +461,48 @@ heuristicas:
     metrica: "80%"
     batch_source: "MH Wave 2"
 
+  - id: "AGG-VEN-H018"
+    conteudo: "94% of all commerce occurs offline — marketing alone can't close"
+    fonte_primaria: "dan-kennedy"
+    peso: 0.85
+    ref: "HEUR-DK-787 (SMU)"
+    metrica: "94%"
+    batch_source: "SMU DVD 1"
+
+  - id: "AGG-VEN-H019"
+    conteudo: "Top producer: 80% of sales by appointment (not walk-ins) — control who you see"
+    fonte_primaria: "dan-kennedy"
+    peso: 0.85
+    ref: "HEUR-DK-788 (SMU)"
+    metrica: "80%"
+    batch_source: "SMU DVD 4"
+
+  - id: "AGG-VEN-H020"
+    conteudo: "12 benefits → narrow to 6 → close on 2 hot buttons. Advanced: pre-qualify to start narrow"
+    fonte_primaria: "dan-kennedy"
+    peso: 0.85
+    ref: "HEUR-DK-793 (SMU)"
+    metrica: "12→6→2"
+    batch_source: "SMU DVD 2"
+
+  - id: "AGG-VEN-H021"
+    conteudo: "New salesperson should be productive by day 2-3 with scripts — burning money until then"
+    fonte_primaria: "dan-kennedy"
+    peso: 0.80
+    ref: "HEUR-DK-798 (SMU)"
+    metrica: "Day 2-3"
+    batch_source: "SMU DVD 3-4"
+
+  - id: "AGG-VEN-H022"
+    conteudo: "Promise statement opening: specific time + specific outcome + immediate payoff hook"
+    fonte_primaria: "dan-kennedy"
+    peso: 0.80
+    ref: "HEUR-DK-800 (SMU)"
+    metrica: "55min + 90 days + 15 days"
+    batch_source: "SMU CD 3"
+
 # ═══════════════════════════════════════════════════════════════════════════════
-# METODOLOGIAS CONSOLIDADAS (Top 5)
+# METODOLOGIAS CONSOLIDADAS (Top 6)
 # ═══════════════════════════════════════════════════════════════════════════════
 
 metodologias:
@@ -449,6 +559,31 @@ metodologias:
       - "D7: Última tentativa"
     batch_source: "BATCH-019"
 
+  - id: "AGG-VEN-M005"
+    nome: "Objection Pre-emption Methodology (DK SMU)"
+    fonte_primaria: "dan-kennedy"
+    peso: 0.90
+    ref: "MET-DK-639, FW-DK-761 (SMU)"
+    etapas:
+      - "1. List ALL possible objections for your product"
+      - "2. Address as many as possible in marketing BEFORE the sales event"
+      - "3. Use Damaging Admission for remaining (purple elephant technique)"
+      - "4. Ensure ALL stakeholders are present (never let 'talk to CPA' happen)"
+      - "5. At close, only 2-3 objections remain to handle"
+    batch_source: "SMU DVD 3"
+
+  - id: "AGG-VEN-M006"
+    nome: "Think It Over Handling (DK SMU)"
+    fonte_primaria: "dan-kennedy"
+    peso: 0.85
+    ref: "MET-DK-638 (SMU)"
+    etapas:
+      - "1. Isolate real reason — ask about other quick purchase decisions"
+      - "2. Pre-date the PO — get paperwork done, predate 2-3 days"
+      - "3. Takeaway — respect time, not running all over town"
+      - "4. Conditional — 'if I call tomorrow, leaning yes or no?'"
+    batch_source: "SMU DVD 3, Bonus Call"
+
 # ═══════════════════════════════════════════════════════════════════════════════
 # CONFLITOS CONHECIDOS
 # ═══════════════════════════════════════════════════════════════════════════════
@@ -504,6 +639,14 @@ regras_de_uso:
       priorizar: "G4-EDUCACAO"
       razao: "SPIN, MEDDIC, metodologias formais"
 
+    - contexto: "sales team scaling / scripts"
+      priorizar: "dan-kennedy"
+      razao: "No BS Sales Process + Script Development Comedy Method (SMU)"
+
+    - contexto: "presentation / offer construction"
+      priorizar: "dan-kennedy"
+      razao: "Irresistible Offer + Inverted Pyramid + Promise Statement (SMU)"
+
 # ═══════════════════════════════════════════════════════════════════════════════
 # CONSUMIDORES (CARGO AGENTS)
 # ═══════════════════════════════════════════════════════════════════════════════
@@ -539,12 +682,12 @@ consumidores:
 # ═══════════════════════════════════════════════════════════════════════════════
 
 estatisticas:
-  total_elementos_consolidados: 1375
-  fontes_contribuintes: 5  # 7 - 2 excluded personas (FSS, G4) + dan-kennedy (MH)
-  filosofias: 12
-  frameworks: 9
-  heuristicas: 17
-  metodologias: 4
+  total_elementos_consolidados: 1437
+  fontes_contribuintes: 5  # 7 - 2 excluded personas (FSS, G4) + dan-kennedy (MH+SMU)
+  filosofias: 15
+  frameworks: 12
+  heuristicas: 22
+  metodologias: 6
   conflitos_documentados: 2
 
 # ═══════════════════════════════════════════════════════════════════════════════
@@ -552,6 +695,17 @@ estatisticas:
 # ═══════════════════════════════════════════════════════════════════════════════
 
 changelog:
+  - versao: "2.0.0"
+    data: "2026-03-16"
+    mudancas:
+      - "DK Sales Mastery Unleashed (SMU) integrado — 62 novos elementos de vendas pura"
+      - "+3 filosofias (F013: Scripts/Comedy, F014: Objection Pre-emption, F015: Assumptive Close)"
+      - "+3 frameworks (FW010: No BS 6 Steps, FW011: Script Comedy Method, FW012: Inverted Pyramid)"
+      - "+5 heurísticas (H018: 94% offline, H019: 80% by appointment, H020: 12→6→2, H021: Day 2-3, H022: Promise Statement)"
+      - "+2 metodologias (M005: Objection Pre-emption, M006: Think It Over Handling)"
+      - "+2 regras de uso (sales team scaling, presentation/offers)"
+      - "DK elementos contribuídos: 42 → 104"
+
   - versao: "1.1.0"
     data: "2026-03-16"
     mudancas:
@@ -566,4 +720,4 @@ changelog:
     mudancas:
       - "Criação inicial — cole-gordon, JEREMY-MINER, alex-hormozi, jeremy-haynes"
 
-# Fim do AGG-VENDAS.yaml v1.1.0
+# Fim do AGG-VENDAS.yaml v2.0.0

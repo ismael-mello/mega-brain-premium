@@ -1,10 +1,10 @@
 # MEMORY: SALES-MANAGER (Gerente de Vendas)
 
-> **Versao:** 2.13.0
+> **Versao:** 2.16.0
 > **Template:** MEMORY-V2 (100% rastreabilidade)
 > **Agente:** [AGENT.md](./AGENT.md)
 > **Criada:** 2024-12-15
-> **Ultima atualizacao:** 2026-01-13
+> **Ultima atualizacao:** 2026-03-16
 
 ---
 
@@ -2881,3 +2881,107 @@ cada caso de sucesso ou fracasso - tudo e integrado aqui.*
 
 *Atualização: 2026-03-16 — DK Referral Machine Source #10 Enrichment*
 *MEMORY.md v2.14.0*
+
+---
+
+## DK SALES MASTERY UNLEASHED ENRICHMENT (2026-03-16)
+
+> **Fonte:** Dan Kennedy — Sales Mastery Unleashed (Source #13, with Dave Dee & Nick Loise)
+> **Versão:** +8 insights adicionados → v2.15.0
+> **Relevância:** Sales Force Scaling, Script Training, No BS Sales Process, Team Productivity
+
+### Insights SMU para SALES MANAGER
+
+| Data | Insight | ID | PATH_RAIZ | Confiança |
+|------|---------|-----|-----------|-----------|
+| 2026-03-16 | **Salesperson Burns Money Until Productive**: Get them productive day 2-3 via scripts. Script book = fastest scaling tool. | FIL-DK-620, FW-DK-768 | knowledge/external/sources/dan-kennedy/raw/sales-mastery-unleashed/ | ALTA |
+| 2026-03-16 | **Script Development Comedy Method**: Record current team → Transcribe → Write optimal script → Memorize → Rehearse → Lock in → Perform. Same as Seinfeld. | FW-DK-763, MET-DK-641 | knowledge/external/sources/dan-kennedy/raw/sales-mastery-unleashed/ | ALTA |
+| 2026-03-16 | **Recording Salespeople Is Horrifying But Essential**: 3 presentations from same person unrecognizable. Transcription reveals dysfunction. | FIL-DK-626, HEUR-DK-799 | knowledge/external/sources/dan-kennedy/raw/sales-mastery-unleashed/ | ALTA |
+| 2026-03-16 | **False Freedom Model**: Unscripted selling = dysfunction. Non-scripted trainers have short careers. Hopkins, Sandler, Edwards = script guys with longevity. | FIL-DK-611, MM-DK-601 | knowledge/external/sources/dan-kennedy/raw/sales-mastery-unleashed/ | ALTA |
+| 2026-03-16 | **Top 1%/5%/10% Pyramid**: Top 10% hit quota. Top 5% control prospects (80% by appointment). Top 1% own the script + hate losing more than like winning. | MM-DK-599, HEUR-DK-788 | knowledge/external/sources/dan-kennedy/raw/sales-mastery-unleashed/ | ALTA |
+| 2026-03-16 | **No BS Sales Process 6 Steps**: Foundation → Offer → Presentation → Objections → Close → Post-Sale. Training structure for entire team. | FW-DK-759 | knowledge/external/sources/dan-kennedy/raw/sales-mastery-unleashed/ | ALTA |
+| 2026-03-16 | **Sales Force Training Deployment**: Watch program → Study scripts → Modify for business → Memorize → Role-play → Deploy day 2-3 → Ongoing QC via recording. | MET-DK-645 | knowledge/external/sources/dan-kennedy/raw/sales-mastery-unleashed/ | ALTA |
+| 2026-03-16 | **Locked Scripts for Junior, Flexible for Pros**: Junior = locked-in offer. Professional = flexible pieces. Match rigidity to skill level. | FW-DK-760 | knowledge/external/sources/dan-kennedy/raw/sales-mastery-unleashed/ | ALTA |
+
+### Padrões Decisórios SMU Adicionados
+
+| ID | Situação | Decisão Padrão | Ref | Confiança |
+|----|----------|----------------|-----|-----------|
+| PD-SMU-SM-001 | Onboarding novo vendedor | Script book + program → productive day 2-3. Record from day 1. | FW-DK-768, MET-DK-645 | ALTA |
+| PD-SMU-SM-002 | Vendedor resiste a scripts | Comedy Method — Seinfeld in open mics. False Freedom = dysfunction. | FIL-DK-611, MM-DK-596 | ALTA |
+| PD-SMU-SM-003 | Auditoria de calls | Record → Transcribe → Compare against locked script. | HEUR-DK-799, MET-DK-641 | ALTA |
+| PD-SMU-SM-004 | Nível de flexibilidade | Junior = locked. Senior = flexible. Top 1% = natural ownership. | FW-DK-760, MM-DK-599 | ALTA |
+
+*Atualização: 2026-03-16 — DK Sales Mastery Unleashed Source #13 Enrichment*
+*MEMORY.md v2.15.0*
+
+---
+
+## DK INFLUENTIAL WRITING WORKSHOP ENRICHMENT (2026-03-16)
+
+> **Fonte:** Dan Kennedy — Influential Writing Workshop (Source #14, IWW)
+> **Versão:** +10 insights adicionados → v2.16.0
+> **Relevância:** Story-based selling, training through stories, influence signals, repetition discipline, sales material creation
+
+### Insights IWW para SALES MANAGER — Stories, Training & Influence
+
+| Data | Insight | ID | PATH_RAIZ | Confiança |
+|------|---------|-----|-----------|-----------|
+| 2026-03-16 | **Four Stories Before Every Trial Close**: Howard Bonnell (VP World Book): best salesmen tell four stories before every trial close. Hold yourself back until you've told all four. Until you got them there, the presentation didn't work. Discipline for influence. | HEUR-DK-872 | knowledge/external/sources/dan-kennedy/raw/influential-writing-workshop/ | ALTA |
+| 2026-03-16 | **Story Formula — Inciting Incident To Resolution**: 1) Inciting incident, 2) Complications, 3) Crisis, 4) Climax, 5) Resolution, 6) Point. Pin entire story to ONE point for maximum imprint. Same structure as effective sales letters. Train team on this formula. | MET-DK-659 | knowledge/external/sources/dan-kennedy/raw/influential-writing-workshop/ | ALTA |
+| 2026-03-16 | **Dale Carnegie Story-Point-Benefit Formula**: Story → Point → Benefit. In every newsletter, every article, every call. People do not get bored with formula — Perry Mason ran 9 years with identical story structure. One formula that works beats twenty you rotate through. | MET-DK-661 | knowledge/external/sources/dan-kennedy/raw/influential-writing-workshop/ | ALTA |
+| 2026-03-16 | **Stories Are Infinitely More Powerful Than Teaching (Piss In Pool Model)**: The piss in the pool story is infinitely better than all the diagrams and lists. People six months later say "Harriet was pissing in the pool." Ideas that stick are visual stories. Training through stories > training through frameworks. | FIL-DK-661 | knowledge/external/sources/dan-kennedy/raw/influential-writing-workshop/ | ALTA |
+| 2026-03-16 | **Same Story Used For Five Or Six Different Purposes**: Jim Rohn's recruiting stories became teaching stories. Glenn Turner's sales stories became motivation stories. One well-crafted story = asset deployed across media and contexts. Build team's story arsenal. | HEUR-DK-876 | knowledge/external/sources/dan-kennedy/raw/influential-writing-workshop/ | ALTA |
+| 2026-03-16 | **Being A Broken Record Is A Performance (Yul Brynner Model)**: Like Yul Brynner doing The King and I for twenty years. Repetition is not failure — it is performance. Get warmed up to repeating from here to eternity. Never underestimate their ability to ignore us. | FIL-DK-668, FIL-DK-662 | knowledge/external/sources/dan-kennedy/raw/influential-writing-workshop/ | ALTA |
+| 2026-03-16 | **If You Are Going To Be A Writer You Must Write (Sales Material Discipline)**: The fact that you write speeds you up. Makes you less dependent on checklists. The business we are in is influencing people by words in print. Apply: hour every morning writing sales materials, scripts, follow-ups. | FIL-DK-655 | knowledge/external/sources/dan-kennedy/raw/influential-writing-workshop/ | ALTA |
+| 2026-03-16 | **Greatest Influence Comes From Certainty And Concreteness**: The less wiggle room, the firmer you are, the more influence. People look for concrete positions. Train closers: definitive recommendations, not waffling. "Here's exactly what I would do." | FIL-DK-634 | knowledge/external/sources/dan-kennedy/raw/influential-writing-workshop/ | ALTA |
+| 2026-03-16 | **The Higher The Price Point The More They Buy The Story**: Nobody buys three days in a room. They buy aspirations. Best way to present aspirations = through stories. Implication for high-ticket: train team to sell through stories, not features. | FIL-DK-665 | knowledge/external/sources/dan-kennedy/raw/influential-writing-workshop/ | ALTA |
+| 2026-03-16 | **$800 Shill Sale — Cheapest Retention Investment (Howard Bonnell)**: Howard Bonnell bought first set from every new salesperson via shill couple. Odds of second sale went up 20x. Cheapest $800 spent again and again. First win = momentum for sales rep confidence. | HEUR-DK-678 | knowledge/external/sources/dan-kennedy/raw/influential-writing-workshop/ | ALTA |
+
+### Framework: Story-Based Sales Training (DK-IWW)
+```
+┌─────────────────────────────────────────────────────────────────────┐
+│  STORY-BASED SALES TRAINING — DAN KENNEDY (IWW)                     │
+├─────────────────────────────────────────────────────────────────────┤
+│                                                                     │
+│  STEP 1: BUILD STORY ARSENAL                                        │
+│  └─ Collect 20-30 stories from team's best calls                   │
+│  └─ Categorize by: pain point, objection, aspiration               │
+│  └─ Each story pinned to ONE point (MET-DK-659)                    │
+│                                                                     │
+│  STEP 2: FOUR STORIES PER TRIAL CLOSE (HEUR-DK-872)                │
+│  └─ Story 1: Pain recognition ("I was just like you...")           │
+│  └─ Story 2: Failed alternative ("I tried everything...")           │
+│  └─ Story 3: Transformation ("Then this happened...")              │
+│  └─ Story 4: Proof ("Now look at these results...")                │
+│  └─ THEN trial close — not before                                  │
+│                                                                     │
+│  STEP 3: FORMULA LOCK (MET-DK-661)                                  │
+│  └─ Story → Point → Benefit (Carnegie formula)                     │
+│  └─ One formula beats twenty rotated                               │
+│  └─ Perry Mason: 9 years, identical structure                      │
+│                                                                     │
+│  STEP 4: REPETITION AS PERFORMANCE (FIL-DK-668)                    │
+│  └─ Yul Brynner: King and I for 20 years                           │
+│  └─ Rep repeats same stories happily + regularly                   │
+│  └─ Never underestimate their ability to ignore us                 │
+│                                                                     │
+│  STEP 5: DAILY WRITING DISCIPLINE (FIL-DK-655)                     │
+│  └─ Hour every morning: scripts, follow-ups, objection handles     │
+│  └─ Writing speeds you up + reduces checklist dependency            │
+│                                                                     │
+└─────────────────────────────────────────────────────────────────────┘
+```
+
+### Padrões Decisórios IWW Adicionados
+
+| ID | Situação | Decisão Padrão | Ref | Confiança |
+|----|----------|----------------|-----|-----------|
+| PD-IWW-SM-001 | Team fecha cedo demais sem construir rapport | Four Stories Before Trial Close: disciplinar para contar 4 stories antes de qualquer trial close. | HEUR-DK-872 | ALTA |
+| PD-IWW-SM-002 | Training não cola / esquecido em semanas | Treinar via stories, não via diagrams. Piss in pool > lista de pontos. Uma story visual vale 10 frameworks. | FIL-DK-661 | ALTA |
+| PD-IWW-SM-003 | Closer indeciso / sem convicção no pitch | Certeza e concretude = influência. "Here's exactly what I'd do." Sem wiggle room. | FIL-DK-634 | ALTA |
+| PD-IWW-SM-004 | Onboarding novo rep: primeira venda | Shill sale model (Bonnell): engenheirar primeira vitória. Odds de segunda venda = 20x. | HEUR-DK-678 | ALTA |
+| PD-IWW-SM-005 | Sales materials fracos / genéricos | Implementar hora diária de escrita: scripts, follow-ups, objection handles. Writing = speed + proficiency. | FIL-DK-655 | ALTA |
+
+*Atualização: 2026-03-16 — DK Influential Writing Workshop Source #14 Enrichment*
+*MEMORY.md v2.16.0*

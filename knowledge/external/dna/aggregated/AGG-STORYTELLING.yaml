@@ -13,13 +13,31 @@
 # ═══════════════════════════════════════════════════════════════════════════════
 
 dominio: "storytelling"
-versao: "1.0.0"
+versao: "3.0.0"
 data_criacao: "2026-03-11"
-ultima_atualizacao: "2026-03-11"
-total_elementos: 162
+ultima_atualizacao: "2026-03-16"
+total_elementos: 462
 peso_global: 0.70
 
 fontes_consolidadas:
+  - fonte: "dan-kennedy-iww"
+    path: "knowledge/external/dna/persons/dan-kennedy/"
+    raw_path: "knowledge/external/sources/dan-kennedy/raw/influential-writing-workshop/"
+    peso_dominio: 0.95
+    elementos_contribuidos: 282
+    especialidade: "Influential writing, story architecture, personal narrative, legend building, 31 Principles of Influential Writing, story-first formula, story cataloging, multi-purposing, fascination, cult mechanics through story"
+    tipo_fonte: "PRIMARY (direct from expert)"
+    key_frameworks:
+      - "31 Principles of Influential Writing checklist"
+      - "4 Story Event Categories (conflict, adversity, discovery, mentor)"
+      - "Story Purpose Catalog (13 purposes)"
+      - "Story-First Formula (inciting→complications→crisis→climax→resolution→point)"
+      - "Story Multi-Purposing (same story, 5-10 different points)"
+      - "Personal Narrative Asset List (min 10-20 items)"
+      - "Legend Building Method (8 steps)"
+      - "Place Creation Framework (door, Bizarro Planet, consistency)"
+      - "Howard Bonnell Four Stories Per Trial Close rule"
+
   - fonte: "aios-storytelling-squad"
     path: "knowledge/external/sources/aios-squads/04-STORYTELLING-SQUAD.md"
     raw_path: "knowledge/external/sources/aios-squads/raw/storytelling-squad/"
@@ -28,6 +46,20 @@ fontes_consolidadas:
     especialidade: "Storytelling masters - Campbell, Harmon, Snyder, Coyne, Dicks, Hall, Duarte, Howell, Johnstone, Klaff, Ganz"
     tipo_fonte: "SECONDARY (curated by Synkra AIOS)"
     agentes_internos: 11
+
+  - fonte: "eugene-schwartz-bb"
+    path: "knowledge/external/dna/persons/eugene-schwartz/"
+    raw_path: "knowledge/external/sources/eugene-schwartz/raw/brilliance-breakthrough/"
+    peso_dominio: 0.80
+    elementos_contribuidos: 18
+    especialidade: "Narrative through copy — metaphor as persuasion tool, symbolism in written communication, discourse architecture, rhetoric as storytelling, word rhythm and cadence"
+    tipo_fonte: "PRIMARY (direct from expert)"
+    key_frameworks:
+      - "Symbolism & Metaphor Framework (abstract→concrete via prospect's world)"
+      - "Discourse Building Method (paragraph earns next paragraph)"
+      - "Three Levels of Creativity (product→market→breakthrough)"
+      - "Architecture of Belief (bridge from accepted beliefs to new claim)"
+    nota: "Schwartz's storytelling contribution is INDIRECT — he uses narrative techniques in service of copy, not story for story's sake. His metaphor/symbolism frameworks complement Dicks (personal story) and Hall (business story) by showing how narrative elements SELL."
 
 # Nota: Russell Brunson tem sobreposição com knowledge/external/dna/persons/russell-brunson
 # (Epiphany Bridge, Hook-Story-Offer existem em ambos)
@@ -79,6 +111,12 @@ experts:
     - nome: "Oren Klaff"
       especialidade: "Pitch & Deal-Making Narrative"
       key_framework: "STRONG Method, Frame Control 5 frames, Crocodile Brain Theory, Hot/Cold Cognition, Prize Frame"
+
+  copy_narrative:
+    - nome: "Eugene Schwartz"
+      especialidade: "Narrative as Persuasion Tool — Metaphor, Symbolism & Discourse Architecture in Copy"
+      key_framework: "Symbolism & Metaphor Framework, Discourse Building Method, Architecture of Belief, Three Levels of Creativity"
+      nota: "Schwartz uses storytelling TECHNIQUES in service of copy — his contribution is how narrative elements (metaphor, symbolism, discourse flow) create persuasion"
 
   social_movement:
     - nome: "Marshall Ganz"
@@ -1091,6 +1129,35 @@ frameworks:
     aplicacao: "Develop leaders who empower through narrative rather than authority"
     peso: 0.70
 
+  # --- COPY NARRATIVE (Schwartz) ---
+  - id: "ST-FW-039"
+    nome: "Symbolism & Metaphor in Persuasive Writing"
+    fonte: "schwartz"
+    descricao: "Transform abstract concepts into concrete, visceral images from the prospect's own world — metaphor is the bridge between the unknown (your product) and the known (their experience)"
+    aplicacao: "Make intangible benefits tangible through systematic metaphor construction in sales copy and brand narratives"
+    peso: 0.80
+
+  - id: "ST-FW-040"
+    nome: "Discourse Architecture"
+    fonte: "schwartz"
+    descricao: "Structure written narrative so each paragraph EARNS the right to the next — creating an unbreakable chain of logic and emotion that pulls the reader forward inevitably"
+    aplicacao: "Build long-form narratives (sales letters, manifestos, brand stories) that maintain engagement across thousands of words"
+    peso: 0.80
+
+  - id: "ST-FW-041"
+    nome: "Architecture of Belief (Narrative Bridge)"
+    fonte: "schwartz"
+    descricao: "Build narrative bridge from prospect's existing beliefs to your new claim — never attack beliefs, extend them. Each proof point reinforces the bridge."
+    aplicacao: "Construct persuasive narratives that change minds without triggering resistance"
+    peso: 0.80
+
+  - id: "ST-FW-042"
+    nome: "Three Levels of Narrative Creativity"
+    fonte: "schwartz"
+    descricao: "Level 1: Describe what exists (product story). Level 2: Match desires and beliefs (market story). Level 3: Redefine the entire conversation (breakthrough story). Level 3 is where legends are made."
+    aplicacao: "Assess and elevate the creative level of any business narrative"
+    peso: 0.80
+
 # ═══════════════════════════════════════════════════════════════════════════════
 # L5: METODOLOGIAS (15 elementos)
 # ═══════════════════════════════════════════════════════════════════════════════
@@ -1311,6 +1378,9 @@ task_routing:
   story_mining: ["ST-FW-012", "ST-FW-013", "ST-FW-016"]
   data_storytelling: ["ST-FW-024", "ST-FW-021"]
   genre_classification: ["ST-FW-004", "ST-FW-009"]
+  persuasive_narrative: ["ST-FW-039", "ST-FW-040", "ST-FW-041", "ST-FW-042"]
+  metaphor_construction: ["ST-FW-039", "ST-FW-041"]
+  long_form_narrative: ["ST-FW-040", "ST-FW-042"]
 
 # ═══════════════════════════════════════════════════════════════════════════════
 # SIGNATURE VOCABULARY
@@ -1328,6 +1398,7 @@ vocabulario:
   johnstone: ["status transactions", "yes and", "offers", "blocks", "platform-tilt", "story cancer", "be obvious", "internal censor"]
   klaff: ["STRONG", "frame control", "croc brain", "hot cognition", "cold cognition", "prize frame", "flash roll", "hookpoint"]
   ganz: ["public narrative", "self us now", "enabling leadership", "snowflake model", "strategic capacity", "organizing practices"]
+  schwartz: ["discourse architecture", "symbolism", "metaphor", "architecture of belief", "three levels of creativity", "breakthrough", "verbalization", "intensification", "prospect's mind"]
 
 # ═══════════════════════════════════════════════════════════════════════════════
 # PRODUCTIVE TENSIONS (where experts disagree)
@@ -1378,3 +1449,12 @@ productive_tensions:
       posicao: "Story comes from the heart — authentic narrative emerges from values and lived experience"
       experts: ["ganz", "dicks"]
     resolucao: "Strategy provides the container; authenticity provides the content — both are necessary"
+
+  - tensao: "Story as art vs Story as selling mechanism"
+    lado_a:
+      posicao: "Story has intrinsic value — the five-second moment, the transformation, the human connection IS the point"
+      experts: ["dicks", "campbell", "ganz"]
+    lado_b:
+      posicao: "Story and metaphor are TOOLS for persuasion — every narrative element must advance the sale or be cut"
+      experts: ["schwartz"]
+    resolucao: "Context-dependent: personal/movement stories value meaning (lado_a). Sales/copy narratives value conversion (lado_b). Brand stories need BOTH — meaning that sells."

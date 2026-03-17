@@ -1,0 +1,68 @@
+# DNA-CONFIG — EUGENE M. SCHWARTZ
+# Version: 1.0.0
+# Created: 2026-03-16
+
+agent_type: SOLO
+person: "Eugene M. Schwartz"
+alias: ES
+
+dna_sources:
+  - source: "breakthrough-advertising"
+    person: "eugene-schwartz"
+    weight: 1.0
+    path: "knowledge/external/dna/persons/eugene-schwartz/DNA.yaml"
+    raiz: "knowledge/external/sources/eugene-schwartz/raw/breakthrough-advertising/"
+    files: 1
+    content: "Breakthrough Advertising (1966) — 239 pages. THE legendary copywriting book. 5 Levels of Awareness, 5 Stages of Sophistication, 7 Techniques of Breakthrough Copy, Mass Desire theory, 38 Headline Verbalization Techniques."
+    elements: 64
+    context: "Copywriting strategy, headline creation, market analysis, persuasion architecture, body copy techniques"
+  - source: "the-brilliance-breakthrough"
+    person: "eugene-schwartz"
+    weight: 1.0
+    path: "knowledge/external/dna/persons/eugene-schwartz/DNA.yaml"
+    raiz: "knowledge/external/sources/eugene-schwartz/raw/the-brilliance-breakthrough/"
+    files: 1
+    content: "The Brilliance Breakthrough (1994) — 280 pages. How to talk and write so people never forget you. Picture Words vs Connecting Words, Simplification Procedure, Pivot Words, Search Commands, 12 Implication Devices."
+    elements: 51
+    context: "Writing mastery, communication psychology, rhetoric, sentence construction, discourse building, wit and impact"
+
+total_elements: 115
+breakdown:
+  L1_FILOSOFIAS: 17
+  L2_MODELOS_MENTAIS: 21
+  L3_HEURISTICAS: 37
+  L4_FRAMEWORKS: 26
+  L5_METODOLOGIAS: 14
+
+domains:
+  - copywriting
+  - advertising-strategy
+  - persuasion
+  - market-analysis
+  - writing-mastery
+  - communication-psychology
+  - rhetoric
+  - creativity
+  - consumer-psychology
+  - brand-positioning
+
+references:
+  - name: "Martin Edelston"
+    context: "Founder of Boardroom Inc., republished Breakthrough Advertising, hired Schwartz as business consultant"
+  - name: "Brian Kurtz"
+    context: "VP at Boardroom, wrote foreword to BA reprint, protege and colleague"
+  - name: "Barbara Schwartz"
+    context: "Wife, interior designer and art collector"
+  - name: "Ogden Nash"
+    context: "Quoted in Brilliance Breakthrough as example of wit and punch"
+  - name: "Ernest Hemingway"
+    context: "Film-strip time analysis in Brilliance Breakthrough"
+  - name: "Samuel Johnson"
+    context: "Epigram examples in Brilliance Breakthrough"
+
+next_ids:
+  FIL: "FIL-ES-018"
+  MM: "MM-ES-022"
+  HEUR: "HEUR-ES-038"
+  FW: "FW-ES-027"
+  MET: "MET-ES-015"

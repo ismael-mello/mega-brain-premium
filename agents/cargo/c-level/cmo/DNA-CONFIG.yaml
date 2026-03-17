@@ -24,12 +24,13 @@
 # ═══════════════════════════════════════════════════════════════════════════════
 
 cargo: "CMO"
-versao: "4.0.0"
+versao: "5.0.0"
 nivel: "C-LEVEL"
 natureza: "HIBRIDO"
 data_criacao: "2025-12-23"
-ultima_atualizacao: "2026-03-15"
+ultima_atualizacao: "2026-03-16"
 # CHANGELOG:
+# v5.0.0 (2026-03-16): Added eugene-schwartz (market-awareness, market-sophistication, breakthrough-advertising, headline-mastery) — 12 landmark IDs
 # v4.0.0 (2026-03-15): Phase 7-8 — Added nick-nanton (celebrity-branding, storytelling, brand-positioning, legend-building) + DK LLF domains (legend-building, publishing, school-of-thought)
 #                      - Added nick-nanton IDs: FIL-NN-001/002/004/005/007/008/026/033
 #                      - Added DK LLF IDs: FIL-DK-462/463/464/465/466/468
@@ -579,6 +580,81 @@ dna_sources:
             - "Celebrity Expert = highest paid position in any market"
             - "Stories trigger oxytocin — the trust chemical"
             - "Celebrity Brand is recession-proof: premium positioning survives downturns"
+
+    - pessoa: "eugene-schwartz"
+      path: "/knowledge/external/dna/persons/eugene-schwartz"
+      raiz: "/knowledge/external/sources/eugene-schwartz/raw/"    # RASTREABILIDADE
+      dominios_usados:
+        - "market-awareness"
+        - "market-sophistication"
+        - "breakthrough-advertising"
+        - "headline-mastery"
+        - "mass-desire"
+        - "copy-mechanics"
+      peso: 0.90
+      quando_usar: "Estratégia de campanha baseada em awareness/sophistication do mercado, headlines, direct response advertising, mass desire channeling, copy breakthroughs"
+      added: "2026-03-16"
+      justificativa: "Breakthrough Advertising é o texto fundacional de toda publicidade de resposta direta. Market Awareness + Sophistication são os dois eixos que determinam COMO e O QUE comunicar em qualquer campanha — frameworks CRÍTICOS para CMO em qualquer mercado."
+      insight_ids:
+        - "FW-ES-001"   # 5 Levels of Market Awareness (CRITICAL — determina o approach de toda campanha)
+        - "FW-ES-002"   # 5 Stages of Market Sophistication (CRITICAL — determina o mecanismo de diferenciação)
+        - "FIL-ES-001"  # Copy Cannot Create Desire — só canalizar desejo existente
+        - "FIL-ES-004"  # The Headline Is 90% of the Ad
+        - "MM-ES-003"   # The Awareness Spectrum (modelo mental de onde prospect está na jornada)
+        - "MM-ES-004"   # The Sophistication Lifecycle (como o mercado evolui ao longo do tempo)
+        - "FW-ES-003"   # 7 Techniques of Breakthrough Copy
+        - "FW-ES-011"   # The Headline Planning Process
+        - "MET-ES-001"  # The Complete Ad Creation Process
+        - "MET-ES-006"  # Headline Selection Process
+        - "FW-ES-022"   # The Pivot Word System (para messaging e headline construction)
+        - "FW-ES-024"   # The 12 Implication Devices (para campaign messaging)
+      chunk_ids:
+        - "*pendente ES001 no Pipeline Jarvis*"
+      es_highlights:
+        - tema: "5 Levels of Market Awareness"
+          descricao: |
+            O prospect está em 1 de 5 níveis de consciência: (1) Unaware — não sabe que tem problema;
+            (2) Problem Aware — sabe do problema, não da solução; (3) Solution Aware — sabe que há soluções,
+            não conhece a sua; (4) Product Aware — conhece seu produto, não está convicto; (5) Most Aware —
+            está pronto para comprar, só precisa da oferta. Cada nível exige uma entrada de copy diferente.
+          aplicacao: "CMO usa como primeiro diagnóstico de qualquer campanha. Erro #1 de CMOs: falar com mercado no nível errado (falar para Problem Aware como se fosse Most Aware). Determina headline, lead e estrutura completa da peça."
+          source: "Breakthrough Advertising — Eugene Schwartz"
+        - tema: "5 Stages of Market Sophistication"
+          descricao: |
+            O mercado evolui por 5 estágios de sofisticação: (1) First Claim — claim direto funciona;
+            (2) Enlarged Claim — claims maiores e mais específicos; (3) Unique Mechanism — mecanismo
+            diferenciador; (4) Elaborated Mechanism — detalhar e provar o mecanismo; (5) Identification/Sensation
+            — apelar para identidade ou sensação quando tudo foi dito. Entrar no estágio errado = copy que não converte.
+          aplicacao: "CMO usa para calibrar o nível de diferenciação necessário. Mercado saturado (Stage 4-5) precisa de mecanismo único ou identidade — não apenas claims. Crítico para lançamentos em mercados maduros."
+          source: "Breakthrough Advertising — Eugene Schwartz"
+        - tema: "Copy Cannot Create Desire"
+          descricao: |
+            Copy não cria desejo — canaliza e direciona o desejo que já existe no mercado. O papel
+            do copywriter é encontrar o desejo de massa mais forte disponível e conectá-lo ao produto.
+            Tentar criar desejo novo é batalha impossível.
+          aplicacao: "CMO usa como princípio de posicionamento de campanha. Primeiro: identificar qual desejo de massa o produto atende. Segundo: construir toda a campanha ao redor desse desejo existente."
+          source: "Breakthrough Advertising — Eugene Schwartz"
+        - tema: "7 Techniques of Breakthrough Copy"
+          descricao: |
+            7 técnicas para criar copy breakthrough: (1) Headline como bridge entre mass desire e produto;
+            (2) Extension de claim do concorrente; (3) Mecanismo único; (4) Elaboração do mecanismo;
+            (5) Identificação de mercado; (6) Sensation; (7) Story approach. Aplicar a técnica correta
+            para o estágio de sofisticação do mercado.
+          aplicacao: "CMO usa como menu de abordagens de copy. Cada campanha recebe análise: qual técnica é adequada para ESTE mercado, NESTE estágio, para ESTE nível de awareness?"
+          source: "Breakthrough Advertising — Eugene Schwartz"
+      materiais_fonte:
+        - titulo: "Breakthrough Advertising"
+          path_raiz: "/knowledge/external/sources/eugene-schwartz/raw/"
+          tipo: "book-masterwork"
+          data_processamento: "2026-03-16"
+          insights_principais:
+            - "5 Levels of Market Awareness: Unaware → Problem → Solution → Product → Most Aware"
+            - "5 Stages of Market Sophistication: Claim → Enlarged → Mechanism → Elaboration → Identification"
+            - "Copy Cannot Create Desire — only channel and direct existing mass desire"
+            - "Headline Is 90% of the Ad — if headline fails, nothing else matters"
+            - "7 Techniques of Breakthrough Copy — menu by sophistication stage"
+            - "Pivot Word System: transition words that shift prospect from current state to desired state"
+            - "12 Implication Devices: amplify implication of benefit in headlines and copy"
 
     - pessoa: "SAM-OVEN"
       path: "/knowledge/external/dna/persons/SAM-OVEN"

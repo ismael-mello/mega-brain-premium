@@ -20,9 +20,9 @@
       "status": "COMPLETE",
       "dna": true,
       "agent": true,
-      "dna_version": 27,
-      "elements": 2541,
-      "layers": "L1:422 L2:371 L3:538 L4:311 L5:896",
+      "dna_version": 29,
+      "elements": 2914,
+      "layers": "L1:639 L2:578 L3:879 L4:495 L5:339",
       "sources": [
         "CC — copywriting-clinic (12 elements)",
         "7FA — 7-figure-academy (152 elements)",
@@ -34,24 +34,32 @@
         "LLF — living-legend-formula (106 elements)",
         "MH — mind-hijacking (335 elements)",
         "RM — referral-machine (65 elements)",
-        "MEM — magnetic-email-marketing (59 elements)"
+        "MEM — magnetic-email-marketing (59 elements)",
+        "BOC — business-of-copywriting (71 elements)",
+        "SMU — sales-mastery-unleashed (62 elements)",
+        "IWW — influential-writing-workshop (282 elements, 13 CDs)"
       ],
       "dossiers": [
         "DOSSIER-DAN-KENNEDY.md",
         "DOSSIER-COACHING-CONSULTING.md",
         "DOSSIER-OPPORTUNITY-MARKETING.md",
         "DOSSIER-MIND-HIJACKING.md",
-        "SOURCE-MEM.md"
+        "SOURCE-MEM.md",
+        "SOURCE-IWW.md"
       ],
       "cargo_enriched": [
         "CLOSER (v2.23.0 — +6 RM insights)",
         "CMO (v2.4.0 — +18 RM insights)",
         "CRO (v3.3.0 — +9 RM insights)",
         "Sales Manager (v2.14.0 — +8 RM insights)",
-        "CMO (v2.5.0 — +17 MEM insights)"
+        "CMO (v2.5.0 — +17 MEM insights)",
+        "CLOSER (v2.25.0 — +14 IWW insights)",
+        "CMO (v2.6.0 — +18 IWW insights)",
+        "CRO (v3.5.0 — +11 IWW insights)",
+        "Sales Manager (v2.16.0 — +10 IWW insights)"
       ],
-      "next_ids": "FIL-DK-593 MM-DK-582 HEUR-DK-764 FW-DK-747 MET-DK-629",
-      "note": "Pipeline 100% completo (2026-03-16). 11 fontes. v27.0.0. AGG-COPYWRITING v1.5.0. CMO v2.5.0. Inbox MEM em raw. Zero pendencias."
+      "next_ids": "FIL-DK-669 MM-DK-652 HEUR-DK-897 FW-DK-820 MET-DK-672",
+      "note": "Pipeline 100% completo (2026-03-16). 14 fontes. v29.0.0. IWW +282 elements. AGG-COPYWRITING v2.0.0. AGG-STORYTELLING v2.0.0."
     },
     "russell-brunson": {
       "status": "COMPLETE",
@@ -275,8 +283,8 @@
     "is_active": true
   },
   "next_action": {
-    "description": "DK MEM pipeline COMPLETE (59 elements, 11 fontes, v27). CMO enriched. Aguardando nova missao.",
-    "pending_manual": "Remover inbox/Dan Kennedy - Magnetic Email Marketing/ (ja copiado para raw)",
+    "description": "DK IWW pipeline COMPLETE (282 elements, 14 fontes, v29). 4 cargo agents enriched. Aguardando nova missao.",
+    "pending_manual": "Remover inbox/Dan Kennedy - Influential Writing Workshop/ (ja copiado para raw)",
     "options": [
       "Ingerir novo especialista/programa → /jarvis-full [material]",
       "Consulta estratégica → /conclave ou /ask"
@@ -284,7 +292,7 @@
   },
   "mis": {
     "session_id": "",
-    "prompt_count": 168,
+    "prompt_count": 183,
     "bracket": "CRITICAL",
     "context_percent": 0.0
   }

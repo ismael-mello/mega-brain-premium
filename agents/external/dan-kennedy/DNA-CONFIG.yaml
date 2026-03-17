@@ -183,13 +183,13 @@ dna_sources:
       FW: "FW-DK-729..738"
       MET: "MET-DK-613..622"
 
-total_elements: 2541
+total_elements: 3070
 breakdown:
-  L1_PHILOSOPHIES: 422
-  L2_MENTAL_MODELS: 371
-  L3_HEURISTICS: 538
-  L4_FRAMEWORKS: 311
-  L5_METHODOLOGIES: 896
+  L1_PHILOSOPHIES: 671
+  L2_MENTAL_MODELS: 605
+  L3_HEURISTICS: 927
+  L4_FRAMEWORKS: 525
+  L5_METHODOLOGIES: 358
 
 domains:
   - copywriting
@@ -350,6 +350,24 @@ domains_mm:
     context: "AWAI Business of Copywriting Academy 2010 - Meta-business of being a copywriter/consultant"
 
 
+  - source: "sales-mastery-unleashed"
+    person: "dan-kennedy"
+    weight: 1.0
+    path: "knowledge/external/dna/persons/dan-kennedy/DNA.yaml"
+    raiz: "knowledge/external/sources/dan-kennedy/raw/sales-mastery-unleashed/"
+    files: 49
+    usable_files: 8
+    elements: 62
+    content: "4 DVDs (Main Course: Foundations, Presentation Magic, Objections, Closing) + 3 CDs (19 Secrets of Exceptional Selling) + 1 Bonus Call with Nick Loise. GKIC No BS Sales System."
+    co_hosts: ["Dave Dee", "Nick Loise (GKIC Sales Manager)"]
+    context: "Complete GKIC sales training program — No BS Sales Process 6 steps, scripting methodology, objection pre-emption, assumptive closing, post-sale romance"
+    dna_ids:
+      FIL: "FIL-DK-609..627"
+      MM: "MM-DK-593..602"
+      HEUR: "HEUR-DK-787..801"
+      FW: "FW-DK-759..768"
+      MET: "MET-DK-638..645"
+
 domains_boc:
   - client-management
   - client-attraction
@@ -363,3 +381,118 @@ domains_boc:
   - niche-market-farming
   - takeaway-selling
   - fee-resistance-prevention
+
+domains_smu:
+  - sales-process
+  - scripting
+  - objection-handling
+  - closing
+  - presentation
+  - offer-construction
+  - sales-management
+  - sales-psychology
+  - b2b-sales
+  - prospecting
+  - positioning
+  - post-sale
+  - sales-excellence
+  - sales-mindset
+
+  - source: "influential-writing-workshop"
+    person: "dan-kennedy"
+    weight: 1.0
+    path: "knowledge/external/dna/persons/dan-kennedy/DNA.yaml"
+    raiz: "knowledge/external/sources/dan-kennedy/raw/influential-writing-workshop/"
+    files: 78
+    cds: [CD01, CD02, CD03, CD04, CD05, CD06, CD07, CD08, CD09, CD10, CD11, CD12, CD13]
+    elements: 282
+    content: "13 CDs (78 tracks). Live workshop on influential writing — storytelling, personal narrative, cult-building, newsletter strategy, typography, niche specialization, 31 Principles of Influential Writing"
+    context: "Dan Kennedy's deep workshop on building influence through writing — personal branding, story architecture, cult mechanics, newsletter optimization"
+    dna_ids:
+      FIL: "FIL-DK-593..668"
+      MM: "MM-DK-603..651"
+      HEUR: "HEUR-DK-802..896"
+      FW: "FW-DK-769..819"
+      MET: "MET-DK-646..671"
+
+domains_iww:
+  - influence
+  - storytelling
+  - personal-branding
+  - copywriting
+  - cult-building
+  - newsletter
+  - marketing
+  - persuasion
+  - niche-specialization
+  - typography
+  - fascination
+  - legend-building
+
+  - source: "how-to-find-your-ideal-customer"
+    person: "dan-kennedy"
+    weight: 1.0
+    path: "knowledge/external/dna/persons/dan-kennedy/DNA.yaml"
+    raiz: "knowledge/external/sources/dan-kennedy/raw/how-to-find-your-ideal-customer/"
+    files: 21
+    usable_files: 19
+    elements: 66
+    content: "2 CDs (18 tracks) + 1 DVD + 2 PDFs (empty). GKIC live evening seminar on whale hunting — finding, defining, and attracting high-value customers."
+    context: "Dan Kennedy's complete whale hunting methodology — Vegas whale definition, three hunting methods, place strategy, whale bait, customer intelligence stack, affinity link positioning"
+    dna_ids:
+      FIL: "FIL-DK-669..680"
+      MM: "MM-DK-652..663"
+      HEUR: "HEUR-DK-897..919"
+      FW: "FW-DK-820..831"
+      MET: "MET-DK-672..678"
+
+domains_hfyic:
+  - whale-hunting
+  - customer-avatar
+  - place-strategy
+  - lead-generation
+  - prospecting
+  - hit-list
+  - psychographics
+  - positioning
+  - affinity-links
+  - copywriting
+  - direct-mail
+  - list-building
+  - affluent-marketing
+  - demographics
+  - alarm-copy
+  - match-up-copy
+
+  - source: "butt-in-seats"
+    person: "dan-kennedy"
+    weight: 1.0
+    path: "knowledge/external/dna/persons/dan-kennedy/DNA.yaml"
+    raiz: "knowledge/external/sources/dan-kennedy/raw/butt-in-seats/"
+    files: 6
+    elements: 90
+    content: "2 CDs (Bill Glazer), 2 DVDs (DK + BG), 1 Exhibits Manual (147 pages), 1 Full Transcript (60 pages). Complete event marketing system."
+    co_presenters: ["Bill Glazer"]
+    context: "Glazer-Kennedy Info Summit bonus session — comprehensive seminar/event marketing system covering psychology of attendance, 39 marketing boosters, event logistics, choreography, unique experience design"
+    dna_ids:
+      FIL: "FIL-DK-681..700"
+      MM: "MM-DK-664..678"
+      HEUR: "HEUR-DK-920..944"
+      FW: "FW-DK-832..849"
+      MET: "MET-DK-679..690"
+
+domains_bis:
+  - event-marketing
+  - seminar-business
+  - attendance-psychology
+  - list-management
+  - marketing-funnels
+  - event-logistics
+  - event-choreography
+  - celebrity-marketing
+  - content-repurposing
+  - unique-experience-design
+  - segmentation
+  - negotiation
+  - speaker-management
+  - revenue-maximization

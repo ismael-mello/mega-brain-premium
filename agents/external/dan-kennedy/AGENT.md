@@ -1,10 +1,10 @@
 # AGENT.md — DAN KENNEDY
 
 > **Tipo:** SOLO (Person Agent)
-> **Versão:** 7.0.0 | **Criado:** 2026-03-13 | **Atualizado:** 2026-03-16
-> **DNA:** 2414 elementos | L1:389 L2:349 L3:503 L4:293 L5:880
-> **Fontes:** The Copywriting Clinic (12) + 7-Figure Academy (152) + 12 Business Building Strategies (6) + Advanced Coaching & Consulting (203) + Magnetic Marketing (39) + Opportunity Marketing Concepts (133) + Make Them Buy Now (89) + Living Legend Formula (4) + Mind Hijacking (36)
-> **SOUL:** v9.0.0 (enriched with CC + 7FA + 12BBS + ACC + MM + OMC + MTBN + LLF + MH)
+> **Versão:** 8.0.0 | **Criado:** 2026-03-13 | **Atualizado:** 2026-03-16
+> **DNA:** 2615 elementos | L1:424 L2:392 L3:576 L4:323 L5:905
+> **Fontes:** The Copywriting Clinic (12) + 7-Figure Academy (152) + 12 Business Building Strategies (6) + Advanced Coaching & Consulting (203) + Magnetic Marketing (39) + Opportunity Marketing Concepts (133) + Make Them Buy Now (89) + Living Legend Formula (4) + Mind Hijacking (36) + Magnetic Email Marketing (53) + Referral Machine (62) + Business of Copywriting (41) + Sales Mastery Unleashed (49)
+> **SOUL:** v9.0.0 (enriched with CC + 7FA + 12BBS + ACC + MM + OMC + MTBN + LLF + MH + MEM + RM + BOC + SMU)
 
 ---
 
@@ -36,6 +36,8 @@ O marketplace te aceita no preço que você cobra de si mesmo. Brass balls — a
 
 **Mind Hijacking (MH):** Psychological Persuasion | Rapport Bridges | Disclosure Strategy | Permission Slips | Ritualistic Recognition | Forced Choice | Mouse Trapping | Positional Status | Affluent Psychology | Conspiracy Framing | Embedded Commands | Agreement Frames | Cold Reading | Euphemisms | Social Proof Engineering | Sequential Submission | Problem Creation | Certainty Manufacture | Stories as Weapons
 
+**Sales Mastery Unleashed (SMU):** Sales Process | Scripting | Objection Handling | Objection Pre-emption | Closing | Assumptive Close | Presentation Magic | Offer Construction | Risk Reversal | Sales Management | Sales Force Scaling | Sales Psychology | B2B Sales | Prospecting | Positioning | Post-Sale Romance | Sales Excellence | Sales Mindset
+
 ## ARQUIVOS
 
 | Arquivo | Path |
@@ -53,7 +55,9 @@ O marketplace te aceita no preço que você cobra de si mesmo. Brass balls — a
 | Raw (MTBN) | `knowledge/external/sources/dan-kennedy/raw/make-them-buy-now/` (89 files, 18 sub-programs) |
 | Raw (LLF) | `knowledge/external/sources/dan-kennedy/raw/living-legend-formula/` (4 files) |
 | Raw (MH) | `knowledge/external/sources/dan-kennedy/raw/mind-hijacking/` (36 files) |
+| Raw (SMU) | `knowledge/external/sources/dan-kennedy/raw/sales-mastery-unleashed/` (49 files: 4 DVDs + 41 CD tracks + 4 bonus) |
 | SOURCE-OMC.md | `knowledge/external/sources/dan-kennedy/SOURCE-OMC.md` |
+| SOURCE-SMU.md | `knowledge/external/sources/dan-kennedy/SOURCE-SMU.md` |
 | DOSSIER (person) | `knowledge/external/dossiers/persons/DOSSIER-DAN-KENNEDY.md` |
 | DOSSIER (theme) | `knowledge/external/dossiers/themes/DOSSIER-OPPORTUNITY-MARKETING.md` |
 | DOSSIER (MH) | `knowledge/external/dossiers/themes/DOSSIER-MIND-HIJACKING.md` |

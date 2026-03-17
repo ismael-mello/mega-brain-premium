@@ -17,12 +17,14 @@
 # ═══════════════════════════════════════════════════════════════════════════════
 
 cargo: "closer"
-versao: "3.7.0"
+versao: "3.8.0"
 nivel: "SALES"
 natureza: "HIBRIDO"
 data_criacao: "2025-12-23"
-ultima_atualizacao: "2026-03-15"
+ultima_atualizacao: "2026-03-16"
 # CHANGELOG:
+# v3.8.0 (2026-03-16): Added eugene-schwartz (peso 0.70) — verbal selling, belief-building, desire intensification, objection reframing
+#                      - FW-ES-003, FW-ES-004, MET-ES-002, MET-ES-007, FW-ES-006, MM-ES-002, HEUR-ES-015, FW-ES-013
 # v3.7.0 (2026-03-15): Phase 7-8 — Added nick-nanton (story-selling, oxytocin-trust) peso 0.50
 #                      - Added IDs: FIL-NN-004/009/019/020/028
 # v3.6.0 (2026-03-15): DK-MTBN Phase 8 — closing frameworks, stage closing methodology, psychological selling scripts
@@ -486,6 +488,43 @@ dna_sources:
             - "Origin story disarms skepticism: vulnerability creates connection"
             - "Story → Connection → Offer: sequence matters in closing"
             - "Transformation story sells the after: client sees themselves in the story"
+
+    - pessoa: "eugene-schwartz"
+      path: "/knowledge/external/dna/persons/eugene-schwartz"
+      raiz: "/knowledge/external/sources/eugene-schwartz/raw/"
+      dominios_usados:
+        - "verbal-selling"
+        - "belief-building"
+        - "desire-intensification"
+        - "objection-reframing"
+        - "inclusion-questions"
+      peso: 0.70
+      quando_usar: "Técnicas de persuasão verbal, construção de crença para superar ceticismo, intensificação de desejo, reframing de objeções com lógica transitional, inclusion questions (yes-agreements)"
+      added: "2026-03-16"
+      insight_ids:
+        - "FW-ES-003"   # 7 Techniques of Breakthrough Copy (applies to verbal selling)
+        - "FW-ES-004"   # 13 Ways to Intensify Desire (intensification = closing)
+        - "MET-ES-002"  # Gradualization Architecture (building belief = handling objections)
+        - "MET-ES-007"  # Belief-Building Sequence (overcoming skepticism)
+        - "FW-ES-006"   # Three Redefinition Strategies (reframing objections)
+        - "MM-ES-002"   # Three Dimensions of the Prospect's Mind (desires, identifications, beliefs)
+        - "HEUR-ES-015" # Use Transitional Logic Words (language of inevitability)
+        - "FW-ES-013"   # The Inclusion Question (forcing yes-agreements)
+      chunk_ids: []
+      materiais_fonte:
+        - titulo: "Breakthrough Advertising"
+          path_raiz: "/knowledge/external/sources/eugene-schwartz/raw/"
+          tipo: "book"
+          data_processamento: "2026-03-16"
+          insights_principais:
+            - "7 Techniques of Breakthrough Copy — applies to verbal selling and call structure"
+            - "13 Ways to Intensify Desire — prospect desire intensification is the engine of closing"
+            - "Gradualization Architecture — building belief incrementally overcomes resistance"
+            - "Belief-Building Sequence — systematic skepticism demolition before ask"
+            - "Three Redefinition Strategies — reframe objections via language, not argument"
+            - "Three Dimensions of Prospect's Mind — desires, identifications, beliefs as closing levers"
+            - "Transitional Logic Words — language of inevitability guides prospect to yes"
+            - "Inclusion Question — force yes-agreements that commit prospect before price"
 
     # ─────────────────────────────────────────────────────────────────────────────
     # ADICIONADO EM PHASE 5.3 - MISSION-2026-001

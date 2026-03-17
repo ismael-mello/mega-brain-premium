@@ -2,8 +2,8 @@
 
 > **Agente:** `/agents/cargo/C-LEVEL/CMO/AGENT.md`
 > **Criada:** 2024-12-15
-> **Última atualização:** 2026-01-13T08:50:00
-> **Versão:** 2.3.0
+> **Última atualização:** 2026-03-16T00:00:00
+> **Versão:** 2.7.0
 > **Rastreabilidade:** AGENT-COGNITION-PROTOCOL (FASE 1.5), AGENT-INTEGRITY-PROTOCOL
 
 ---
@@ -1095,4 +1095,162 @@ LAYER 5: Social Proof ($5/day) - 10+ comments target
 | PD-MEM-CMO-006 | Segmentar lista de email | Múltiplos LGMs por interesse. Segmentar por clicks e respostas. Narrowcast > broadcast. | FW-DK-746 + MM-DK-578 | ALTA |
 
 *Atualização: 2026-03-16 — DK Magnetic Email Marketing Source #11 Enrichment*
-*MEMORY.md v2.5.0*
+
+---
+
+## DK Influential Writing Workshop (IWW) — Source #13 Enrichment
+
+> **Fonte:** Dan Kennedy — Influential Writing Workshop (13 CDs)
+> **Elementos IWW:** 204 (FIL:58 MM:48 HEUR:94 FW:50 MET:25)
+> **Data:** 2026-03-16
+
+### 2026-03-16 — IWW (Influential Writing Workshop) Insights
+
+| # | Insight | DNA ID | Relevance |
+|---|---------|--------|-----------|
+| 1 | **Newsletter priority: Connection > Entertainment > Reinforcement > Promotion > Value.** Take-away value is LOW on the list. Retention e belonging superam conteúdo técnico. | FIL-DK-606 | Newsletter strategy — inverte prioridade comum de "entregar valor" para "criar conexão primeiro" |
+| 2 | **People want miracles, not how-to.** Prayers outsold lessons 20-to-1. Posicionar ofertas como transformação, não educação. | FIL-DK-605 | Messaging e positioning — guia tom de toda comunicação de marketing |
+| 3 | **Self-aggrandizement is required, not optional.** Status precisa ser declarado e reforçado em CADA peça de comunicação. | FIL-DK-603 | Personal branding + authority marketing — fundamento de thought leadership |
+| 4 | **Everybody wants to be an insider.** Belonging é o narcótico mais poderoso. Explorar linguagem codificada, rituais, senso de comunidade. | FIL-DK-596 | Community building e membership — drive principal de retenção |
+| 5 | **Communication must be intimate, not just business.** Competir com forças de intimidade que já existem na vida do prospect. | FIL-DK-594 | Content strategy — elevar tom de comunicação além do transacional |
+| 6 | **Information does NOT equal influence.** Dar coisas para acreditar constrói influência. Dar informação não. | FIL-DK-598 | Content marketing philosophy — muda o que produzir e como |
+| 7 | **The higher the price, the more they buy the story.** Em high-ticket, story selling é obrigatório, não opcional. | FIL-DK-665 | High-ticket positioning — diretamente aplicável ao contexto B2B premium |
+| 8 | **Newsletter Emotional Objectives Checklist**: 9 prioridades ordenadas — connection, interest, entertainment, reinforcement, promotion, variety, value, involvement, satisfaction. | FW-DK-786 | Newsletter design — framework operacional para cada edição |
+| 9 | **31 Principles of Influential Writing**: Framework completo para escrita persuasiva e construção de influência via texto. | FW-DK-797 | Copywriting mastery — referência central para todo conteúdo de marketing |
+| 10 | **Status Demonstration Multi-Channel System**: Demonstrar status em TODA peça — testemunhos, credenciais, demanda, busy schedule. Repetir 8-12x por peça. | FW-DK-780 | Authority positioning — sistema para todo material de marketing |
+| 11 | **Niche Splintering Framework**: Mesmo produto, wrapper específico por nicho. Criar negócios paralelos com identidade de nicho. | FW-DK-813 | Market expansion — multiplicar receita sem criar produtos novos |
+| 12 | **Use same proof in 50-60 different places.** Reutilizar testemunhos e provas em múltiplos canais e formatos. | HEUR-DK-819 | Social proof strategy — maximizar ROI de cada depoimento coletado |
+| 13 | **State value constantly — 1000x per year.** Valor do que entrega precisa ser declarado repetidamente, não assumido. | HEUR-DK-826 | Retention + perceived value — previne churn por "não percebo o valor" |
+| 14 | **Who you present yourself as determines who shows up.** Posicionamento atrai público correspondente. Mudar posição = mudar audiência. | HEUR-DK-841 | Brand positioning — consequência direta de como se apresenta ao mercado |
+| 15 | **Self-identification belongs everywhere, repeatedly.** O prospect deve se auto-identificar em cada peça. Rope in + deny negatives. | HEUR-DK-808 | Targeting + copy — filtro natural que qualifica e repele simultaneamente |
+| 16 | **Read what your prospect reads to get their words.** Pesquisar linguagem do prospect nos canais que eles consomem. | HEUR-DK-825 | Research methodology — fundamento para copy que ressoa |
+| 17 | **Content Recycling Across Media Methodology**: Newsletter → email → social → book → course. Mesmo conteúdo repurposed across all channels. | MET-DK-665 | Content operations — maximizar output sem criar do zero |
+| 18 | **Dan Kennedy 31-Point Newsletter Content Checklist**: Checklist operacional para validar cada newsletter antes de publicar. | MET-DK-652 | Newsletter QA — controle de qualidade para publicações recorrentes |
+
+### Padrões Decisórios IWW Adicionados
+
+| ID | Situação | Decisão Padrão | Ref | Confiança |
+|----|----------|----------------|-----|-----------|
+| PD-IWW-CMO-001 | Criar newsletter/conteúdo recorrente | Seguir 9 prioridades: Connection > Entertainment > Reinforcement > Promotion > Value. NÃO liderar com conteúdo técnico. | FW-DK-786 + FIL-DK-606 | ALTA |
+| PD-IWW-CMO-002 | Posicionar oferta high-ticket | Story selling obrigatório. Quanto maior o preço, mais compram a história, não o produto. | FIL-DK-665 + FW-DK-790 | ALTA |
+| PD-IWW-CMO-003 | Expandir para novos nichos | Niche Splintering: mesmo produto, wrapper específico por nicho. Identidade separada, produto idêntico. | FW-DK-813 + MET-DK-667 | ALTA |
+| PD-IWW-CMO-004 | Construir autoridade/thought leadership | Status Demonstration Multi-Channel: declarar status em TODA peça, 8-12x por comunicação. Self-aggrandizement é obrigatório. | FW-DK-780 + FIL-DK-603 | ALTA |
+| PD-IWW-CMO-005 | Reter membros/assinantes | Priorizar CONNECTION e BELONGING sobre conteúdo. Linguagem codificada, rituais, insider status. | FIL-DK-596 + FIL-DK-639 + HEUR-DK-834 | ALTA |
+
+*Atualização: 2026-03-16 — DK Influential Writing Workshop Source #13 Enrichment*
+*MEMORY.md v2.6.0*
+
+---
+
+## Eugene Schwartz — Breakthrough Advertising Enrichment
+
+> **Fonte:** Eugene Schwartz — Breakthrough Advertising
+> **Peso no CMO:** 0.90 (massive contribution — texto fundacional de direct response)
+> **Elementos adicionados:** 12 landmark IDs
+> **Data:** 2026-03-16
+
+### Por que Schwartz é CRÍTICO para o CMO
+
+Breakthrough Advertising (1966) é o texto fundacional de toda publicidade de resposta direta. Os dois
+frameworks de Awareness + Sophistication são os únicos eixos que determinam **como e o que comunicar**
+em qualquer campanha. CMOs que não dominam esses dois frameworks cometem o erro #1: falar com o mercado
+no nível errado (tratando um prospect Problem Aware como se fosse Most Aware).
+
+### 5 Levels of Market Awareness — Framework Central
+
+```
+┌─────────────────────────────────────────────────────────────────────┐
+│  5 LEVELS OF MARKET AWARENESS (Eugene Schwartz)                     │
+├─────────────────────────────────────────────────────────────────────┤
+│                                                                     │
+│  NÍVEL 1: UNAWARE                                                   │
+│  └── Não sabe que tem problema. Entry: story, mass desire, pain.    │
+│                                                                     │
+│  NÍVEL 2: PROBLEM AWARE                                             │
+│  └── Sabe do problema, não da solução. Entry: amplificar a dor.     │
+│                                                                     │
+│  NÍVEL 3: SOLUTION AWARE                                            │
+│  └── Sabe que há soluções, não conhece a sua. Entry: diferenciar.   │
+│                                                                     │
+│  NÍVEL 4: PRODUCT AWARE                                             │
+│  └── Conhece seu produto, não está convicto. Entry: provar e demo.  │
+│                                                                     │
+│  NÍVEL 5: MOST AWARE                                                │
+│  └── Pronto para comprar. Entry: oferta direta, preço, deal.        │
+│                                                                     │
+│  ERRO #1 DO CMO: Entrar no nível errado.                            │
+│  Campanha de produto → Prospect Problem Aware = zero conversão.     │
+│                                                                     │
+└─────────────────────────────────────────────────────────────────────┘
+```
+
+### 5 Stages of Market Sophistication — Framework de Diferenciação
+
+```
+┌─────────────────────────────────────────────────────────────────────┐
+│  5 STAGES OF MARKET SOPHISTICATION (Eugene Schwartz)                │
+├─────────────────────────────────────────────────────────────────────┤
+│                                                                     │
+│  STAGE 1: FIRST CLAIM                                               │
+│  └── Primeiro no mercado. Claim direto funciona. Ex: "Lose weight!" │
+│                                                                     │
+│  STAGE 2: ENLARGED CLAIM                                            │
+│  └── Claim maior, mais específico. "Lose 30 lbs in 30 days!"        │
+│                                                                     │
+│  STAGE 3: UNIQUE MECHANISM                                          │
+│  └── Não é o claim, é o mecanismo. "The Lipozene formula that..."   │
+│                                                                     │
+│  STAGE 4: ELABORATED MECHANISM                                      │
+│  └── Detalhar e provar o mecanismo. Patent, science, proof.         │
+│                                                                     │
+│  STAGE 5: IDENTIFICATION / SENSATION                                │
+│  └── Tudo foi dito. Apelar para identidade ou sensação pura.        │
+│                                                                     │
+│  PARA O CMO BRASILEIRO HT:                                          │
+│  Mercados de info/consultoria estão em Stage 3-4.                   │
+│  Entrando Stage 3? Naming do mecanismo é obrigatório.               │
+│                                                                     │
+└─────────────────────────────────────────────────────────────────────┘
+```
+
+### Insights Schwartz — Tabela
+
+| Data | Insight | DNA ID | Confiança |
+|------|---------|--------|-----------|
+| 2026-03-16 | **Copy Cannot Create Desire** — só canalizar desejo de massa existente. Primeiro identificar o desejo, depois conectar o produto. | FIL-ES-001 | ALTA |
+| 2026-03-16 | **The Headline Is 90% of the Ad** — se o headline falha, o resto não importa. Teste de headline precede tudo. | FIL-ES-004 | ALTA |
+| 2026-03-16 | **5 Levels of Market Awareness** — framework para diagnosticar onde o prospect está e qual é o ponto de entrada correto da copy. | FW-ES-001 | ALTA |
+| 2026-03-16 | **5 Stages of Market Sophistication** — framework para diagnosticar o nível de saturação do mercado e o mecanismo de diferenciação necessário. | FW-ES-002 | ALTA |
+| 2026-03-16 | **The Awareness Spectrum** — modelo mental da jornada completa do prospect. Cada campanha deve ser posicionada num ponto específico do espectro. | MM-ES-003 | ALTA |
+| 2026-03-16 | **The Sophistication Lifecycle** — o mercado sempre evolui de Claim para Identification ao longo do tempo. Entender em qual estágio o mercado está hoje. | MM-ES-004 | ALTA |
+| 2026-03-16 | **7 Techniques of Breakthrough Copy** — menu de abordagens por estágio de sofisticação. Técnica errada para o estágio errado = copy que não converte. | FW-ES-003 | ALTA |
+| 2026-03-16 | **The Headline Planning Process** — processo sistemático para desenvolver e selecionar headlines com base em awareness e desejo de massa. | FW-ES-011 | ALTA |
+| 2026-03-16 | **The Complete Ad Creation Process** — metodologia completa de criação de anúncio: de mass desire → awareness diagnosis → mechanism → headline → body copy. | MET-ES-001 | ALTA |
+| 2026-03-16 | **Headline Selection Process** — testar múltiplos headlines antes de escalar. Processo sistemático de eliminação e refinamento. | MET-ES-006 | ALTA |
+| 2026-03-16 | **The Pivot Word System** — palavras de transição que movem o prospect do estado atual para o estado desejado dentro da copy. Crítico para fluência de persuasão. | FW-ES-022 | ALTA |
+| 2026-03-16 | **The 12 Implication Devices** — mecanismos para amplificar a implicação do benefício em headlines e copy. Cada device mapeia para um tipo de desejo de massa. | FW-ES-024 | ALTA |
+
+### Cross-References com Outras Fontes do CMO
+
+| Schwartz Framework | Fonte Convergente | Sinergia |
+|-------------------|-------------------|----------|
+| 5 Levels of Awareness | DK (FIL-DK-003, Headline = 70-80% da batalha) | Schwartz define ONDE entrar; DK define COMO entrar com headline |
+| Market Sophistication Stage 3 | RB (Purple Ocean / Sam Ovens) | Unique Mechanism = equivalente ao Purple Ocean. Nomeação do mecanismo. |
+| Copy Cannot Create Desire | AH (Grand Slam Offer) | AH: dream outcome × desire. Schwartz: canalizar desejo existente. Complementares. |
+| 5 Levels of Awareness | RB (Hook, Story, Offer) | RB Hook funciona diferente para cada nível. Awareness Level 1-2 precisa de story hook. |
+| Sophistication Stage 5 | NN (Celebrity Branding) | Stage 5 = Identification. NN: people buy people. Ambos apontam para brand como diferenciador final. |
+| Headline Is 90% | JH (Hooks = 80% da Performance via AH) | Convergência: AH/JH = 80% do resultado vem do hook. Schwartz: headline é 90% do ad. Mesma tese, dois séculos. |
+
+### Padrões Decisórios Schwartz Adicionados
+
+| ID | Situação | Decisão Padrão | Ref | Confiança |
+|----|----------|----------------|-----|-----------|
+| PD-ES-CMO-001 | Antes de criar qualquer campanha | Diagnosticar Awareness Level do prospect-alvo. Determina headline, lead e entrada de copy. | FW-ES-001 + MM-ES-003 | ALTA |
+| PD-ES-CMO-002 | Campanha não convertendo em mercado saturado | Diagnosticar Sophistication Stage. Se Stage 3+, naming de mecanismo único é obrigatório antes de qualquer copy. | FW-ES-002 + MM-ES-004 | ALTA |
+| PD-ES-CMO-003 | Criar headline para ad/landing page | Seguir Headline Planning Process. Testar via Headline Selection Process antes de escalar budget. | FW-ES-011 + MET-ES-006 | ALTA |
+| PD-ES-CMO-004 | Posicionar nova oferta no mercado | Verificar se desejo de massa existe. Copy não cria desejo. Se desejo não existe, mudar target ou produto antes de escrever copy. | FIL-ES-001 + FW-ES-001 | ALTA |
+| PD-ES-CMO-005 | Copy com baixa conversão, mercado Level 3-4 | Aplicar 7 Techniques: verificar qual técnica corresponde ao estágio. Tentar Unique Mechanism se ainda em Stage 3. | FW-ES-003 + FW-ES-002 | ALTA |
+| PD-ES-CMO-006 | Melhorar fluência e persuasão de copy existente | Aplicar Pivot Word System + 12 Implication Devices para transições mais suaves e implicações mais fortes. | FW-ES-022 + FW-ES-024 | ALTA |
+
+*Atualização: 2026-03-16 — Eugene Schwartz / Breakthrough Advertising Enrichment*
+*MEMORY.md v2.7.0*

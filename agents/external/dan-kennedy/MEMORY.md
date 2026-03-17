@@ -1,6 +1,6 @@
 # MEMORY.md — DAN KENNEDY
 
-> **Versão:** 7.0.0
+> **Versão:** 10.0.0
 > **Criado:** 2026-03-13 | **Atualizado:** 2026-03-16
 
 ---
@@ -22,6 +22,10 @@
 | 10 | Referral Machine (RM) | SYSTEM | 3 CDs + articles + PDF | ✅ COMPLETE |
 | 11 | Magnetic Email Marketing (MEM) | WORKSHOP | 4 sessions + ICFSG + guests | ✅ COMPLETE |
 | 12 | Business of Copywriting (BOC) | ACADEMY | 41 files (5 modules + extras + bonuses) | ✅ COMPLETE |
+| 13 | Sales Mastery Unleashed (SMU) | COURSE | 49 files (4 DVDs + 41 CD tracks + 4 bonus) | ✅ COMPLETE |
+| 14 | Influential Writing Workshop (IWW) | WORKSHOP | 78 transcriptions (13 CDs) | ✅ COMPLETE |
+| 15 | How to Find Your Ideal Customer (HFYIC) | SEMINAR | 21 files (2 CDs + 1 DVD + 2 PDFs) | ✅ COMPLETE |
+| 16 | Butt In Seats (BIS) | LIVE PRESENTATION | 6 files (2 CDs + 2 DVDs + 2 PDFs) | ✅ COMPLETE |
 
 ---
 
@@ -94,6 +98,13 @@
 | 63 | Embedded commands wrapped in stories bypass conscious mind — "you might FIND YOURSELF wanting to..." delivered mid-story goes straight to subconscious. | HEUR-DK-700+ | MH-video_33 |
 | 64 | Problem creation: the most powerful position is creating the problem that only you can solve. Consultants who diagnose AND treat are the most profitable. | MM-DK-470+ | MH-video_28 |
 | 65 | Conspiracy framing works on EVERYONE — us vs them, insider knowledge, "what they don't want you to know." Creates intense loyalty and urgency. | FIL-DK-530+ | MH-video_19-20 |
+| 66 | Vegas Whale Definition: 5x-50x average customer value. Most businesses never define their whale — they take "anybody they can get." | HEUR-DK-897, MM-DK-652 | HFYIC-CD1 |
+| 67 | Three Ways To Get Whales: 1) Hit List (small pond), 2) Place Strategy (let whales find you), 3) Lead Gen (whale bait). Only three. | MM-DK-653, FW-DK-821 | HFYIC-CD1 |
+| 68 | Minneapolis Hit List: 100 CEOs → 63 interviews → 38 follow-ups → 16 clients (wanted 5). Fake book cover + newspaper ad + bookstore letter as credibility assets. | HEUR-DK-899, MET-DK-672 | HFYIC-CD1 |
+| 69 | Sidney Barrows Financial Times: only escort service there — 4-7x average client value. "Show up alone" is the most powerful place strategy. | HEUR-DK-905, FIL-DK-672 | HFYIC-CD1 |
+| 70 | Whales want INFORMATION not EDUCATION. They want to trust you know how, not learn how themselves. Inform, don't teach. | FIL-DK-671 | HFYIC-CD1A |
+| 71 | Customer Intelligence Stack: 6 layers — Demographics → Psychographics → Emotional Background → Current State of Mind → Vulnerabilities → Language. | FW-DK-828 | HFYIC-CD1A |
+| 72 | Affinity links beat credentials every time. Ted's outhouse photos sold more than his 56 certifications. Whales mate with whales. | FIL-DK-677, FW-DK-827 | HFYIC-CD1A |
 
 ---
 
@@ -121,6 +132,9 @@
 - Diversidade de métodos > bala de prata — 72 coisas para 1 cliente beats 1 coisa para 72 ^[HEUR-DK-338]
 - Pensa em ESPECTRO repair→improvement→opportunity — reposicionar oferta de repair para opportunity multiplica conversão e libera price elasticity ^[FIL-DK-319, FIL-DK-386]
 - Conscious mind como fortaleza — cada pitch é ameaça, opportunity bypassa mostrando algo fundamentalmente diferente ^[FIL-DK-326, MM-DK-270]
+- Whale hunting como sistema — define whale primeiro, depois escolhe método (hit list, place, lead gen), e monta 3-step process (intelligence→positioning→outreach) ^[MM-DK-653, MET-DK-673]
+- Place strategy é show up alone — vá onde ninguém do seu mercado vai, mas o whale frequenta (chiropractor Yellow Pages, car collector magazines) ^[FIL-DK-672, MM-DK-659]
+- Affinity > credentials — whales matam com whales, mostre shared biography antes de qualquer certificação ^[FIL-DK-670, FW-DK-827]
 - Toaster Principle em tudo — apresente como appliance (nome, tangível, push-button), não como processo ^[MM-DK-282]
 - 11 Agreements sequenciais antes de comprar — cada um é hurdle que pode derrubar ^[MM-DK-280]
 - Pyramid nunca muda desde 1954 — business model deve refletir realidade, não utopia ^[FIL-DK-364, MM-DK-299]

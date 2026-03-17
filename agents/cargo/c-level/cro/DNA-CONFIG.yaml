@@ -17,11 +17,13 @@
 # ═══════════════════════════════════════════════════════════════════════════════
 
 cargo: "CRO"
-versao: "3.9.0"
+versao: "4.0.0"
 nivel: "C-LEVEL"
 natureza: "HIBRIDO"
 data_criacao: "2025-12-23"
-ultima_atualizacao: "2026-03-15"
+ultima_atualizacao: "2026-03-16"
+# v4.0.0 (2026-03-16): Added eugene-schwartz (peso 0.75) — market awareness, market sophistication, product-market fit, campaign intensification, strategic messaging
+#                      - FW-ES-001, FW-ES-002, MM-ES-010, FIL-ES-002, FIL-ES-007, MET-ES-003, MET-ES-004, FW-ES-011
 # v3.9.0 (2026-03-15): Phase 7-8 — Added nick-nanton (celebrity-branding, premium-pricing, legacy-dollars) + DK LLF (legend-economics, feeder-systems)
 #                      - Added nick-nanton IDs: FIL-NN-003/008/013/014/015
 #                      - Added DK LLF IDs: FIL-DK-462/463, MM-DK-425/426
@@ -516,6 +518,57 @@ dna_sources:
             - "Paid for who you are: celebrity commands premium over commodity"
             - "Celebrity brand is recession-proof: personal brand survives market downturns"
             - "Brand equity compounds: personal brand multiplies revenue per lead over time"
+
+    - pessoa: "eugene-schwartz"
+      path: "/knowledge/external/dna/persons/eugene-schwartz"
+      raiz: "/knowledge/external/sources/eugene-schwartz/raw/"
+      dominios_usados:
+        - "market-awareness"
+        - "market-sophistication"
+        - "product-market-fit"
+        - "campaign-intensification"
+        - "strategic-messaging"
+        - "permanent-forces"
+      peso: 0.75
+      quando_usar: "Diagnóstico de awareness de mercado (5 níveis), análise de sofisticação de mercado (5 estágios), product-market fit analysis, escalonamento de campanhas, headline strategy, market timing via forças permanentes vs forças de mudança"
+      added: "2026-03-16"
+      insight_ids:
+        - "FW-ES-001"   # 5 Levels of Market Awareness (determines funnel strategy)
+        - "FW-ES-002"   # 5 Stages of Market Sophistication (determines market approach)
+        - "MM-ES-010"   # Permanent Forces vs Forces of Change (market timing)
+        - "FIL-ES-002"  # The Market Is the Master (market-first revenue strategy)
+        - "FIL-ES-007"  # Advertising Makes Markets (revenue through market creation)
+        - "MET-ES-003"  # Product Analysis Method (product-market fit analysis)
+        - "MET-ES-004"  # Campaign Intensification Method (scaling campaigns)
+        - "FW-ES-011"   # The Headline Planning Process (strategic messaging)
+      chunk_ids: []
+      es_highlights:
+        - tema: "5 Levels of Market Awareness"
+          descricao: "Unaware → Problem Aware → Solution Aware → Product Aware → Most Aware. CRO uses this to design funnel entry points — wrong awareness level = dead funnel."
+          aplicacao: "CRO diagnoses where the market is before choosing ad creative, funnel type, or sales script — determines how much education vs. selling is needed"
+          source: "Breakthrough Advertising"
+        - tema: "5 Stages of Market Sophistication"
+          descricao: "Stage 1 (first claim) → Stage 2 (enlarged claim) → Stage 3 (mechanism) → Stage 4 (elaborated mechanism) → Stage 5 (identification/community). Late-stage markets need niche identity or new mechanism."
+          aplicacao: "CRO uses to determine whether to compete on offer, mechanism, identity, or create a new category — critical for positioning in saturated markets"
+          source: "Breakthrough Advertising"
+        - tema: "Permanent Forces vs Forces of Change"
+          descricao: "Permanent forces (human desires that never change) vs. forces of change (trends, events, novelty). Great campaigns ride permanent forces and harness forces of change."
+          aplicacao: "CRO uses to evaluate campaign longevity — short-term trend or permanent demand? Determines budget allocation and scaling confidence"
+          source: "Breakthrough Advertising"
+      materiais_fonte:
+        - titulo: "Breakthrough Advertising"
+          path_raiz: "/knowledge/external/sources/eugene-schwartz/raw/"
+          tipo: "book"
+          data_processamento: "2026-03-16"
+          insights_principais:
+            - "5 Levels of Market Awareness — determines funnel entry and offer positioning"
+            - "5 Stages of Market Sophistication — determines market approach and mechanism strategy"
+            - "Permanent Forces vs Forces of Change — market timing and campaign durability"
+            - "The Market Is the Master — revenue follows market desire, not product features"
+            - "Advertising Makes Markets — proactive market creation as revenue strategy"
+            - "Product Analysis Method — systematic product-market fit analysis"
+            - "Campaign Intensification Method — systematic campaign scaling framework"
+            - "Headline Planning Process — strategic messaging architecture"
 
 # ═══════════════════════════════════════════════════════════════════════════════
 # MAPA DE CONFLITOS

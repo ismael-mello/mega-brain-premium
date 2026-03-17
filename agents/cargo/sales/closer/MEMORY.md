@@ -2,8 +2,8 @@
 
 > **Agente:** `/agents/cargo/SALES/closer/AGENT.md`
 > **Criada:** 2024-12-15
-> **Última atualização:** 2026-01-13T14:40:00Z
-> **Versão:** 2.22.0
+> **Última atualização:** 2026-03-16
+> **Versão:** 2.24.0
 > **Rastreabilidade:** AGENT-COGNITION-PROTOCOL (FASE 1.5), AGENT-INTEGRITY-PROTOCOL
 
 ---
@@ -1393,6 +1393,101 @@ PERSONAL CHECK:
 
 ---
 
+## EUGENE SCHWARTZ ENRICHMENT (2026-03-16)
+
+> **Fonte:** Eugene Schwartz — Breakthrough Advertising
+> **Versão:** +8 elementos adicionados → v2.24.0
+> **Relevância:** Verbal selling via copy psychology, belief-building, desire intensification, objection reframing, inclusion questions
+
+### Insights ES para CLOSER — Persuasão Verbal e Belief-Building
+
+| Data | Insight | ID | PATH_RAIZ | Confiança |
+|------|---------|-----|-----------|-----------|
+| 2026-03-16 | **7 Techniques of Breakthrough Copy (Verbal Selling)**: Copy principles map directly to verbal selling — each technique (intensification, identification, belief-installation, mechanism, claim, elaboration, community) applies to call structure and pitch language. | FW-ES-003 | /knowledge/external/sources/eugene-schwartz/raw/ | ALTA |
+| 2026-03-16 | **13 Ways to Intensify Desire**: Desire intensification is the engine of closing. Prospect's desire must be amplified to the point where inaction is more painful than the investment. 13 specific levers: specificity, size, speed, certainty, ease, completeness, uniqueness, newness, exclusivity, social proof, authority, scarcity, identity. | FW-ES-004 | /knowledge/external/sources/eugene-schwartz/raw/ | ALTA |
+| 2026-03-16 | **Gradualization Architecture**: Belief is built incrementally, not in one leap. Every claim must be gradual — start where prospect already agrees, advance to where they don't. Objections are proof that a belief step was skipped. | MET-ES-002 | /knowledge/external/sources/eugene-schwartz/raw/ | ALTA |
+| 2026-03-16 | **Belief-Building Sequence**: Systematic sequence to demolish skepticism — (1) establish shared problem, (2) demonstrate why past solutions failed, (3) introduce mechanism, (4) prove mechanism works, (5) prove it works for THIS prospect. Each step is a belief gate that must be crossed before the next. | MET-ES-007 | /knowledge/external/sources/eugene-schwartz/raw/ | ALTA |
+| 2026-03-16 | **Three Redefinition Strategies**: Objections are not facts — they are frames. Three ways to reframe: (1) redefine the product (it's not what they think it is), (2) redefine the risk (risk is in NOT acting), (3) redefine the cost (true cost is the status quo). Language wins the frame war, not argument. | FW-ES-006 | /knowledge/external/sources/eugene-schwartz/raw/ | ALTA |
+| 2026-03-16 | **Three Dimensions of Prospect's Mind**: Every prospect has (1) Desires — what they want; (2) Identifications — who they want to be; (3) Beliefs — what they accept as true. Closing requires addressing all three. Desires drive motivation. Identifications drive identity-frame alignment. Beliefs gate conviction. | MM-ES-002 | /knowledge/external/sources/eugene-schwartz/raw/ | ALTA |
+| 2026-03-16 | **Transitional Logic Words (Language of Inevitability)**: Words like "because", "therefore", "which means", "and so", "naturally", "of course" create logical flow that guides prospect from agreement to conclusion without resistance. Each transition feels inevitable, not pushed. | HEUR-ES-015 | /knowledge/external/sources/eugene-schwartz/raw/ | ALTA |
+| 2026-03-16 | **The Inclusion Question (Forcing Yes-Agreements)**: Phrasing questions so that the prospect's answer naturally includes agreement with your premise — "When you start seeing results in the first 30 days, which area do you want to tackle first?" Prospect answers about area, but implicitly agrees results will come. Serial inclusion questions build momentum to the ask. | FW-ES-013 | /knowledge/external/sources/eugene-schwartz/raw/ | ALTA |
+
+### Frameworks Schwartz para Closing
+
+```
+┌─────────────────────────────────────────────────────────────────────┐
+│  BELIEF-BUILDING SEQUENCE — EUGENE SCHWARTZ (MET-ES-007)            │
+├─────────────────────────────────────────────────────────────────────┤
+│                                                                     │
+│  GATE 1: Shared Problem                                             │
+│          "Você já sentiu que [problema]?"                           │
+│          → Prospect nods. You are on the same side.                 │
+│                                                                     │
+│  GATE 2: Why Past Solutions Failed                                  │
+│          "Por que [abordagem comum] não funcionou?"                 │
+│          → Validates their experience. Seeds doubt in competitors.  │
+│                                                                     │
+│  GATE 3: Introduce Mechanism                                        │
+│          "A razão é [mechanism]. Sem isso, nada funciona."          │
+│          → New frame. You own the mechanism.                        │
+│                                                                     │
+│  GATE 4: Prove Mechanism Works                                      │
+│          Evidence: cases, data, testimonials                        │
+│          → Belief now attached to mechanism, not just claim.        │
+│                                                                     │
+│  GATE 5: Prove It Works For THIS Prospect                           │
+│          "Empresas como a sua tiveram [resultado específico]."      │
+│          → Identity match. They see themselves in the outcome.      │
+│                                                                     │
+│  OBJECTION = SKIPPED GATE. Go back and install the missing belief.  │
+│                                                                     │
+└─────────────────────────────────────────────────────────────────────┘
+```
+
+```
+┌─────────────────────────────────────────────────────────────────────┐
+│  THREE DIMENSIONS OF PROSPECT MIND — EUGENE SCHWARTZ (MM-ES-002)    │
+├─────────────────────────────────────────────────────────────────────┤
+│                                                                     │
+│  DIMENSION 1: DESIRES                                               │
+│  → What they want to achieve, gain, feel, become                    │
+│  → Use 13 Ways to Intensify (FW-ES-004) to amplify                  │
+│  → Tool: Discovery questions that surface desire intensity          │
+│                                                                     │
+│  DIMENSION 2: IDENTIFICATIONS                                       │
+│  → Who they want to be — the identity they aspire to                │
+│  → "Pessoas como você que [fazem X] sabem que..."                   │
+│  → Tool: Identity frames before price reveal                        │
+│                                                                     │
+│  DIMENSION 3: BELIEFS                                               │
+│  → What they accept as true — the gates to conviction              │
+│  → Gradualization: start agreed, advance step by step              │
+│  → Tool: Belief-Building Sequence (MET-ES-007)                      │
+│                                                                     │
+│  CLOSER CHECKLIST:                                                  │
+│  □ Desejo intensificado suficientemente?                            │
+│  □ Identidade do prospect ativada?                                  │
+│  □ Todas as belief gates instaladas?                                │
+│  Se NÃO em qualquer um → NÃO apresentar preço                       │
+│                                                                     │
+└─────────────────────────────────────────────────────────────────────┘
+```
+
+### Padrões Decisórios ES Adicionados (CLOSER)
+
+| ID | Situação | Decisão Padrão | Ref | Confiança |
+|----|----------|----------------|-----|-----------|
+| PD-ES-CL-001 | Objeção surge durante call | Diagnosticar: qual belief gate foi pulada? Voltar e instalar a crença faltante antes de qualquer reframe. | MET-ES-007 | ALTA |
+| PD-ES-CL-002 | Prospect resistente, não engaja | Verificar Three Dimensions: Desire intensificado? Identification ativada? Beliefs instaladas? Tratar a dimensão fraca. | MM-ES-002 | ALTA |
+| PD-ES-CL-003 | Prospect concorda mas não age | Usar Inclusion Questions serial — série de yes-agreements que criam momentum até o ask natural. | FW-ES-013 | ALTA |
+| PD-ES-CL-004 | Objeção "não acredito que funciona" | Aplicar Belief-Building Sequence: voltar ao Gate 2 (why past solutions failed) e rebuildar até Gate 5. | MET-ES-007 | ALTA |
+| PD-ES-CL-005 | Prospect argumenta objeção racionalmente | Usar Three Redefinition Strategies + Transitional Logic Words — reframe sem entrar em argumento lógico. | FW-ES-006 + HEUR-ES-015 | ALTA |
+
+*Atualização: 2026-03-16 — Eugene Schwartz / Breakthrough Advertising Enrichment*
+*MEMORY.md v2.24.0*
+
+---
+
 ## HISTÓRICO DE ATUALIZAÇÕES
 
 | Data | Tipo | Descrição | Origem |
@@ -1407,6 +1502,7 @@ PERSONAL CHECK:
 | 2025-12-27 | **MAJOR** | AH-CP001 Closing Playbook: +20 insights (Onion of Blame, STAR, Audience Buckets, 28 Rules) | Pipeline Jarvis STRESS TEST |
 | **2026-01-11** | **MASSIVE** | **Batches 050-128: +85 frameworks/heurísticas de CLOSING** (NEPQ Tonality, 3 Commitment Qs, 9 Gatilhos, 3A Framework, No-Based Qs, Kill Zombies, etc.) | JARVIS Batch Extraction |
 | **2026-01-13** | **MAJOR** | **BATCH-056: NEPQ Completo + Identity Frames** (N-E-P-Q breakdown, 4 Objetivos, Deframe→Reframe, 6 Layers Deep, Gap Math, Consequence Loop, Russell Brunson Identity) | FASE 5.7 Cascateamento |
+| **2026-03-16** | **MAJOR** | **Eugene Schwartz: +8 elementos** (Belief-Building Sequence, Three Dimensions, Desire Intensification, Inclusion Questions, Redefinition Strategies, Transitional Logic) | ES Enrichment |
 
 ---
 
@@ -7134,3 +7230,79 @@ Transição SDR → Closer: Depende da disposição, pode ir direto se se prepar
 
 *Atualização: 2026-03-16 — DK Referral Machine Source #10 Enrichment*
 *MEMORY.md v2.23.0*
+
+---
+
+## DK SALES MASTERY UNLEASHED ENRICHMENT (2026-03-16)
+
+> **Fonte:** Dan Kennedy — Sales Mastery Unleashed (Source #13, with Dave Dee & Nick Loise)
+> **Versão:** +10 insights adicionados → v2.24.0
+> **Relevância:** No BS Sales Process, Scripting, Objection Pre-emption, Assumptive Closing, Offer Construction
+
+### Insights SMU para CLOSER
+
+| Data | Insight | ID | PATH_RAIZ | Confiança |
+|------|---------|-----|-----------|-----------|
+| 2026-03-16 | **Script Mastery = Comedy Method**: Top salespeople write, memorize, rehearse in safe venues, lock in winning version. False freedom to roam = dysfunction. Same method as Seinfeld, Joan Rivers. | FIL-DK-610, MM-DK-596 | knowledge/external/sources/dan-kennedy/raw/sales-mastery-unleashed/ | ALTA |
+| 2026-03-16 | **Assumptive Close — Seamless Not Jarring**: Entire presentation should be assumptive. No abrupt "call to action." Begin with end in mind. Tone stays consistent — no cadence change, no tensing. | FIL-DK-614, FW-DK-762 | knowledge/external/sources/dan-kennedy/raw/sales-mastery-unleashed/ | ALTA |
+| 2026-03-16 | **Overcome Objections IN ADVANCE**: Smart people have money. Pre-empt in marketing, use damaging admission (purple elephant), get ALL stakeholders on one call. At close only 2-3 objections remain. | FIL-DK-613, FW-DK-761 | knowledge/external/sources/dan-kennedy/raw/sales-mastery-unleashed/ | ALTA |
+| 2026-03-16 | **Inverted Pyramid Benefits**: Present 12 → feedback narrows to 6 → identify 2 hot buttons → close ONLY on those 2. Advanced: pre-qualify via questionnaire to start narrow. | MM-DK-593, MET-DK-640 | knowledge/external/sources/dan-kennedy/raw/sales-mastery-unleashed/ | ALTA |
+| 2026-03-16 | **Think It Over Handling**: Isolate real reason via other purchase decisions → Pre-date PO → Takeaway → Conditional ("leaning yes or no?"). Never let "talk to CPA" happen — should have been on the call. | MET-DK-638 | knowledge/external/sources/dan-kennedy/raw/sales-mastery-unleashed/ | ALTA |
+| 2026-03-16 | **Irresistible Offer Construction**: Risk Reversal (guarantee/trial) + Money at Discount ($100 for $85) + Emotional Value ratio. Flexible pieces for pros, locked for junior reps. | FW-DK-760 | knowledge/external/sources/dan-kennedy/raw/sales-mastery-unleashed/ | ALTA |
+| 2026-03-16 | **Promise Statement Opening**: Specific time commitment + specific measurable outcome + immediate payoff. "55 min, double income in 90 days, one strategy for 15 days." | MET-DK-643, HEUR-DK-800 | knowledge/external/sources/dan-kennedy/raw/sales-mastery-unleashed/ | ALTA |
+| 2026-03-16 | **Don't Sell Your Way Out of a Sale**: Know when to shut up. Many prospects ready before full presentation. When ready, wrap it up. But don't quit too easily either. | FIL-DK-619 | knowledge/external/sources/dan-kennedy/raw/sales-mastery-unleashed/ | ALTA |
+| 2026-03-16 | **Post-Sale Romance**: Shock and awe box (big box with bow, morning after). Ongoing relationship nurture. Romance the relationship OR the value added. Works even in unsexy B2B. | FW-DK-767, HEUR-DK-797 | knowledge/external/sources/dan-kennedy/raw/sales-mastery-unleashed/ | ALTA |
+| 2026-03-16 | **110% Belief Required**: Don't sell if you're not 110% sold on truth and superiority of product. Look elsewhere if not. Don't pre-judge prospects regardless of appearance. | FIL-DK-617, FIL-DK-618 | knowledge/external/sources/dan-kennedy/raw/sales-mastery-unleashed/ | ALTA |
+
+### Padrões Decisórios SMU Adicionados
+
+| ID | Situação | Decisão Padrão | Ref | Confiança |
+|----|----------|----------------|-----|-----------|
+| PD-SMU-CLOSER-001 | Prospect diz "preciso pensar" | Isolar razão real → Pre-date PO → Takeaway → Conditional. Nunca aceitar passivamente. | MET-DK-638 | ALTA |
+| PD-SMU-CLOSER-002 | Apresentação de benefícios | Usar Inverted Pyramid — começar largo (12), estreitar por feedback, fechar nos 2 hot buttons. | MM-DK-593, MET-DK-640 | ALTA |
+| PD-SMU-CLOSER-003 | Prospect com stakeholders ausentes | NUNCA deixar "preciso falar com meu sócio/contador" acontecer no close — resolver antes, conference call | FW-DK-761, HEUR-DK-789 | ALTA |
+| PD-SMU-CLOSER-004 | Construir script de vendas | Comedy Method — escrever, memorizar, rehearsar em safe venue, lock in. Gravar calls atuais e transcrever primeiro. | FW-DK-763, MET-DK-641 | ALTA |
+| PD-SMU-CLOSER-005 | Prospect pronto antes do final | Don't sell your way out. Quando pronto, wrap up. Mas não desistir fácil se há resistência leve. | FIL-DK-619 | ALTA |
+
+*Atualização: 2026-03-16 — DK Sales Mastery Unleashed Source #13 Enrichment*
+*MEMORY.md v2.24.0*
+
+---
+
+## DK INFLUENTIAL WRITING WORKSHOP ENRICHMENT (2026-03-16)
+
+> **Fonte:** Dan Kennedy — Influential Writing Workshop (IWW, Source #14, 13 CDs)
+> **Versão:** +14 insights adicionados → v2.25.0
+> **Relevância:** Influence foundations, storytelling as sales tool, persuasion mechanics, proof/authority, self-identification, trust via personal narrative
+
+### 2026-03-16 — IWW (Influential Writing Workshop) Insights
+
+| # | Insight | DNA ID | Relevance |
+|---|---------|--------|-----------|
+| 1 | **Authenticity Is The Core Buying Decision**: People make buying decisions by trying to decide if the person is real or faking it. At the core, the prospect is evaluating authenticity, not features. Build every sales interaction around being genuine. | FIL-DK-651 | Closer must project genuine belief and authenticity — prospects detect fakeness instantly. Aligns with FIL-DK-617 (110% belief required). |
+| 2 | **Fascination > Interest — Fascinated Buyers Have Enormous Value**: People casually interested don't have enormous value. People fascinated with you do. Interest is passive; fascination drives retention, referrals, and repeat purchase. | FIL-DK-641 | On calls, move from "they're interested" to "they're fascinated." Fascinated prospects close easier and stay longer. |
+| 3 | **Four Essentials Of Influence**: 1) They must be fascinated with you, 2) Feel they share common values, 3) Believe you care about them personally, 4) Get value as THEY define it. All four must be present for true influence. | MM-DK-621 | Framework for every sales call — check all 4 boxes before attempting close. Missing any one = weak close. |
+| 4 | **Stories Bypass Fact-Filtering — Facts Get Dismissed, Stories Lodge**: Facts get filtered through preconceptions and dismissed. Stories bypass that filtering mechanism and lodge in memory. Understanding this distinction separates influential selling from mere information delivery. | FIL-DK-667 | Use stories, not data dumps, in sales presentations. When prospect resists facts ("I've heard that before"), switch to story mode. |
+| 5 | **Disclosure/Holdback Model**: Disclose enough to create curiosity, then deliberately withhold enough to maintain mystery. The model is serial fiction characters who readers can't stop thinking about. Balance transparency with strategic mystery. | MM-DK-623 | On calls, don't reveal everything upfront. Tease outcomes, share enough to build trust, hold back enough to maintain momentum toward close. |
+| 6 | **Full Disclosure Of Ugly Things Makes Good Claims Credible**: If you tell them the embarrassing stuff — the bet, the failure, the mistake — then the good stuff must be real too. There is never a need for due diligence because the ugly disclosure makes everything credible. | FIL-DK-665 | Damaging admission technique on calls. Share a genuine failure or limitation BEFORE making bold claims. Credibility skyrockets. Aligns with SMU's purple elephant approach. |
+| 7 | **Oversimplification = More Influence**: The more you oversimplify and are willing to be criticized by experts, the MORE influence you have over the people who matter. People want concrete positions and to be told exactly what to do. | FIL-DK-634, HEUR-DK-846 | On calls, don't overcomplicate. Give simple, decisive answers. "Here's exactly what to do." Prospects want certainty, not nuance. |
+| 8 | **Belonging As Narcotic — Place Where They Are Understood**: People feel like odd man out — underappreciated, disrespected, misunderstood. When you provide a place where they are understood, you immediately have enormous influence. | FIL-DK-640 | Create belonging on the call. "I totally get where you are." Make them feel THIS is where they belong. Self-identification trigger. |
+| 9 | **Self-Identification — Prospect Recognizes They're In Right Place**: Prospects are really trying to figure out: do we agree on core beliefs? When values alignment is clear, price becomes relatively unimportant. Operate on level of aspirations, not features. | FIL-DK-636, HEUR-DK-859 | Lead with values and philosophy before pitch. When prospect says "that's exactly how I think" — close is 80% done. |
+| 10 | **Story-First Formula — Stories Per Trial Close**: The higher the price point, the more people are buying the story. Nobody buys three days in a room. They buy aspirations. Best way to present aspirations is through stories. Use multiple stories before each trial close. | FIL-DK-663, MET-DK-661 | For high-ticket: 3-4 stories per trial close. Each story plants an aspiration. Carnegie formula: Story → Point → Benefit → Trial Close. Repeat. |
+| 11 | **50% Of Price Objections Are Really Legacy/Elephant Objections**: From The Culture Code — the only way to understand a customer is to ignore what they're saying. Miracle-Ear: 50% of "price objections" were really guilt about spending $8K on themselves when grandkids need money. Sales teams misread every one. | HEUR-DK-812, MM-DK-610 | When prospect says "too expensive" — dig deeper. Real objection is often emotional (guilt, fear, spouse). Same principle as SMU's isolate-real-reason approach. |
+| 12 | **Proof Principle — Name-Dropping By Audience Recognition**: Reorder name-dropping based on audience recognition, not universal fame. If going to dentists, lead with the dental celebrity. If going to real estate, lead with their industry hero. Context-specific proof > generic proof. | HEUR-DK-819, HEUR-DK-820 | On calls, tailor social proof to prospect's world. Don't use generic testimonials. Match proof to their industry, role, or situation. Reframe aging credentials to feel current. |
+| 13 | **Consistency Principle — Story Must Match Everything**: Pick a story and be rigorously consistent with it in everything you do. Inconsistency destroys the value of your story. John Edwards had a great working class story destroyed by a $26K sq ft house and $400 haircuts. | FIL-DK-643 | Your positioning on the call must match post-sale reality. Promise must align with delivery. One inconsistency and trust collapses. |
+| 14 | **Pre-Frame Against Opposing Voices**: Alert prospects that most people around them will hate everything you tell them to do and will try to stop them. They have to pick a side — them or us. Inoculate BEFORE the negative influence hits. | FIL-DK-628, HEUR-DK-858 | On high-ticket calls, pre-frame: "Your accountant/spouse/friend will question this. Here's why they're wrong." Same principle as SMU's stakeholder pre-emption but applied to post-sale retention. |
+
+### Padrões Decisórios IWW Adicionados
+
+| ID | Situação | Decisão Padrão | Ref | Confiança |
+|----|----------|----------------|-----|-----------|
+| PD-IWW-CLOSER-001 | Prospect parece interessado mas não fascinado | Mudar de data/features para stories pessoais + valores compartilhados. Fascination > Interest. | MM-DK-621, FIL-DK-641 | ALTA |
+| PD-IWW-CLOSER-002 | Prospect resiste a claims/promessas | Damaging admission primeiro — compartilhar falha genuína, DEPOIS fazer o claim. Ugly disclosure = credibilidade. | FIL-DK-665 | ALTA |
+| PD-IWW-CLOSER-003 | Objeção de preço que parece irracional | Ignorar o que dizem, cavar objeção emocional real (guilt, legacy, medo). 50% das objeções de preço são elephant objections. | HEUR-DK-812, MM-DK-610 | ALTA |
+| PD-IWW-CLOSER-004 | High-ticket close precisa de mais persuasão | Story-first: 3-4 stories antes de cada trial close. Carnegie formula (Story→Point→Benefit). Aspirações > features. | FIL-DK-663, MET-DK-661 | ALTA |
+| PD-IWW-CLOSER-005 | Prospect preocupado com opinião de terceiros | Pre-frame contra opposing voices. "Pessoas ao seu redor vão questionar. Aqui está porque..." Inocular ANTES. | FIL-DK-628, HEUR-DK-858 | ALTA |
+
+*Atualização: 2026-03-16 — DK Influential Writing Workshop Source #14 Enrichment*
+*MEMORY.md v2.25.0*

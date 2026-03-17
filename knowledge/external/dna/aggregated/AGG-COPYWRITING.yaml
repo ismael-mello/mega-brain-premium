@@ -1,13 +1,13 @@
 # AGG-COPYWRITING.yaml
 # DOMÍNIO: Copywriting, direct response, persuasão escrita
-# VERSÃO: 1.0.0
+# VERSÃO: 3.0.0
 # CRIADO: 2026-03-13
 #
-# FONTES: Dan Kennedy (156 el) + Russell Brunson (1327 el) + Alex Hormozi (402 el)
+# FONTES: Dan Kennedy (822 el) + Eugene Schwartz (115 el) + Russell Brunson (200 el) + Alex Hormozi (80 el)
 # ═══════════════════════════════════════════════════════════════════════════════
 
 dominio: "copywriting"
-versao: "2.0.0"
+versao: "3.0.0"
 criado_em: "2026-03-13"
 atualizado_em: "2026-03-16"
 
@@ -17,7 +17,7 @@ fontes_consolidadas:
     path: "/knowledge/external/dna/persons/dan-kennedy/"
     raiz: "/knowledge/external/sources/dan-kennedy/raw/copywriting-clinic/"
     contribuicao_principal: "Direct mail salesmanship, headline mastery, pain-pleasure sequence, hook discovery, pre-framing"
-    elementos_relevantes: 540
+    elementos_relevantes: 822
     fontes_incluidas:
       - "The Copywriting Clinic (156 elementos — core copywriting)"
       - "7-Figure Academy (78 elementos — business copy, moral obligation, preeminência)"
@@ -26,6 +26,7 @@ fontes_consolidadas:
       - "Mind Hijacking (335 elementos — villain/enemy framing, big idea, proof by numbers, optics, free offers, new/improved cycle)"
       - "Magnetic Email Marketing (59 elementos — subject line frameworks, email copywriting, sequential agreement, cash flow surge templates)"
       - "Business of Copywriting (71 elementos — strategy>copy, positioning, client-attraction, fee-presentation, niche-segmentation)"
+      - "Influential Writing Workshop (282 elementos — 31 principles of influential writing, typography as communication, newsletter checklist, content recycling, word choice, rhythm in copy, niche specialization, story-driven copywriting)"
 
   - fonte: "russell-brunson"
     peso_dominio: 0.85
@@ -33,6 +34,16 @@ fontes_consolidadas:
     raiz: "/knowledge/external/sources/russell-brunson/raw/"
     contribuicao_principal: "Hook-Story-Offer, Perfect Webinar copy, email sequences"
     elementos_relevantes: 200
+
+  - fonte: "eugene-schwartz"
+    peso_dominio: 0.95
+    path: "/knowledge/external/dna/persons/eugene-schwartz/"
+    raiz: "/knowledge/external/sources/eugene-schwartz/raw/"
+    contribuicao_principal: "Market awareness levels, market sophistication stages, headline verbalization techniques, desire intensification, breakthrough copy techniques — the most comprehensive copywriting SYSTEM in the Mega Brain"
+    elementos_relevantes: 115
+    fontes_incluidas:
+      - "Breakthrough Advertising (64 elementos — 5 Levels of Awareness, 5 Stages of Sophistication, 38 Headline Techniques, 13 Ways to Intensify Desire, 7 Techniques of Breakthrough Copy, Two-Product Model, Architecture of Belief)"
+      - "The Brilliance Breakthrough (51 elementos — writing mastery, communication rhetoric, discourse building, symbolism, metaphor frameworks, writing methodologies)"
 
   - fonte: "alex-hormozi"
     peso_dominio: 0.70
@@ -111,6 +122,36 @@ filosofias:
     fonte: "dan-kennedy" | ref: "FIL-DK-381 (MH)"
     peso: 0.85
 
+  - id: "FIL-COPY-014"
+    filosofia: "Copy cannot create desire — it can only take the hopes, dreams, fears and desires that already exist in the hearts of millions of people, and focus those existing desires onto a particular product"
+    fonte: "eugene-schwartz" | ref: "FIL-ES-001"
+    peso: 0.95
+
+  - id: "FIL-COPY-015"
+    filosofia: "Innovation over formula — the copywriter who relies on formulas alone is lost. Breakthrough copy comes from understanding the MARKET, not from fill-in-the-blank templates"
+    fonte: "eugene-schwartz" | ref: "FIL-ES-003"
+    peso: 0.90
+
+  - id: "FIL-COPY-016"
+    filosofia: "The headline is 90% of the ad — if you have ten hours, spend nine on the headline"
+    fonte: "eugene-schwartz" | ref: "FIL-ES-004"
+    peso: 0.95
+
+  - id: "FIL-COPY-017"
+    filosofia: "Long copy outsells short copy — every time, in every test. The interested prospect will read every word"
+    fonte: "eugene-schwartz" | ref: "FIL-ES-008"
+    peso: 0.90
+
+  - id: "FIL-COPY-018"
+    filosofia: "Every word must sell — there is no room for words that do not advance the sale. Every sentence earns the right to the next sentence"
+    fonte: "eugene-schwartz" | ref: "FIL-ES-010"
+    peso: 0.90
+
+  - id: "FIL-COPY-019"
+    filosofia: "Writing mastery requires treating language as a precision instrument — every word, rhythm, and symbol carries meaning beyond its dictionary definition"
+    fonte: "eugene-schwartz" | ref: "FIL-ES-011 (BB)"
+    peso: 0.85
+
 # ═══════════════════════════════════════════════════════════════════════════════
 # HEURÍSTICAS (com números)
 # ═══════════════════════════════════════════════════════════════════════════════
@@ -155,6 +196,26 @@ heuristicas:
   - id: "HEUR-COPY-010"
     heuristica: "'Free' nunca morre como trigger psicológico — oferta com componente gratuito bem posicionado supera equivalente pago em 3-10x em resposta imediata"
     tipo: numeric | fonte: "dan-kennedy" | ref: "HEUR-DK-618 (MH)"
+
+  - id: "HEUR-COPY-011"
+    heuristica: "Headline = 90% do ad (Schwartz) vs 70-80% (Kennedy) — convergência: headline é a parte mais importante, 70-90% do resultado"
+    tipo: numeric | fonte: "eugene-schwartz" | ref: "FIL-ES-004, HEUR-ES-001"
+
+  - id: "HEUR-COPY-012"
+    heuristica: "Market awareness tem 5 níveis — cada nível requer headline completamente diferente. Usar headline de nível errado = zero response"
+    tipo: qualitative | fonte: "eugene-schwartz" | ref: "FW-ES-001, HEUR-ES-003"
+
+  - id: "HEUR-COPY-013"
+    heuristica: "Market sophistication tem 5 estágios — quando mercado atinge estágio 5 (saturação total), mecanismo único é a ÚNICA saída"
+    tipo: qualitative | fonte: "eugene-schwartz" | ref: "FW-ES-002, HEUR-ES-005"
+
+  - id: "HEUR-COPY-014"
+    heuristica: "38 técnicas de verbalização de headline — o maior banco de ferramentas de headline jamais compilado, cada uma com aplicação específica por awareness/sophistication"
+    tipo: numeric | fonte: "eugene-schwartz" | ref: "FW-ES-005, HEUR-ES-008"
+
+  - id: "HEUR-COPY-015"
+    heuristica: "13 formas de intensificar desejo no body copy — cada técnica multiplica o impacto emocional sem inventar desejo novo"
+    tipo: numeric | fonte: "eugene-schwartz" | ref: "FW-ES-004, HEUR-ES-010"
 
 # ═══════════════════════════════════════════════════════════════════════════════
 # FRAMEWORKS CORE
@@ -275,6 +336,93 @@ frameworks:
     fonte: "dan-kennedy" | ref: "FW-DK-461 (MH)"
     peso: 0.85
 
+  # ═══════════════════════════════════════════════════════════════════════════
+  # EUGENE SCHWARTZ FRAMEWORKS (the most comprehensive copywriting system)
+  # ═══════════════════════════════════════════════════════════════════════════
+
+  - id: "FW-COPY-020"
+    nome: "5 Levels of Market Awareness (ES — Breakthrough Advertising)"
+    passos: "1. Most Aware (knows product, needs deal) → 2. Product-Aware (knows product, not convinced) → 3. Solution-Aware (knows solution exists, not your product) → 4. Problem-Aware (feels problem, no solution known) → 5. Completely Unaware (no problem recognition)"
+    fonte: "eugene-schwartz" | ref: "FW-ES-001"
+    peso: 0.95
+    nota: "FOUNDATIONAL — determines entire headline strategy. Wrong awareness level = dead ad."
+
+  - id: "FW-COPY-021"
+    nome: "5 Stages of Market Sophistication (ES — Breakthrough Advertising)"
+    passos: "1. Be First (simple direct claim) → 2. Enlarge the Claim (bigger, bolder promises) → 3. Introduce Mechanism (HOW it works) → 4. Enlarge Mechanism (bigger, better mechanism) → 5. Identification (prospect identifies with ad, not claims)"
+    fonte: "eugene-schwartz" | ref: "FW-ES-002"
+    peso: 0.95
+    nota: "FOUNDATIONAL — determines entire copy approach. Stage 5 markets need completely different strategy."
+
+  - id: "FW-COPY-022"
+    nome: "7 Techniques of Breakthrough Copy (ES)"
+    passos: "1. Intensification (amplify existing desire) → 2. Identification (prospect sees self in ad) → 3. Gradualization (step-by-step belief building) → 4. Redefinition (reframe what product IS) → 5. Mechanization (explain HOW product works) → 6. Concentration (focus on single overwhelming claim) → 7. Camouflage (hide selling behind content)"
+    fonte: "eugene-schwartz" | ref: "FW-ES-003"
+    peso: 0.90
+
+  - id: "FW-COPY-023"
+    nome: "13 Ways to Intensify Desire (ES — Breakthrough Advertising)"
+    passos: "Includes: add sensory detail, future-pace the experience, compare to known pleasure, use specific numbers, escalate the promise, reverse the risk, add social proof of desire, create urgency through scarcity, name the enemy, use metaphor to make abstract concrete, stack benefits, dramatize the transformation, use the language of the prospect"
+    fonte: "eugene-schwartz" | ref: "FW-ES-004"
+    peso: 0.90
+
+  - id: "FW-COPY-024"
+    nome: "38 Headline Verbalization Techniques (ES — Breakthrough Advertising)"
+    passos: "The largest headline toolkit ever compiled — 38 specific techniques for verbalizing headlines matched to awareness level and sophistication stage. Includes: question headlines, how-to headlines, reason-why headlines, command headlines, news headlines, identification headlines, mechanization headlines, etc."
+    fonte: "eugene-schwartz" | ref: "FW-ES-005"
+    peso: 0.90
+    nota: "Cross-reference with DK's Headline Formula Bank (FW-COPY-006). Schwartz provides the SYSTEM, Kennedy provides the PRACTICE."
+
+  - id: "FW-COPY-025"
+    nome: "The Two-Product Model (ES)"
+    passos: "1. Product of the product (what it physically IS) → 2. Product of the prospect (what it MEANS to buyer) — always sell the second product, never the first"
+    fonte: "eugene-schwartz" | ref: "MM-ES-001"
+    peso: 0.90
+
+  - id: "FW-COPY-026"
+    nome: "Three Dimensions of the Prospect's Mind (ES)"
+    passos: "1. Desires (what they want) → 2. Identifications (who they want to be) → 3. Beliefs (what they accept as true) — copy must address all three dimensions"
+    fonte: "eugene-schwartz" | ref: "MM-ES-002"
+    peso: 0.90
+
+  - id: "FW-COPY-027"
+    nome: "The Awareness Spectrum (ES)"
+    passos: "Map prospect position on awareness spectrum → Choose headline type accordingly → Craft body copy that moves prospect from current awareness to Most Aware → Each step must earn the next step"
+    fonte: "eugene-schwartz" | ref: "MM-ES-003"
+    peso: 0.90
+
+  - id: "FW-COPY-028"
+    nome: "The Sophistication Lifecycle (ES)"
+    passos: "1. Assess market stage (1-5) → 2. If stage 1-2: simple direct claims work → 3. If stage 3-4: need unique mechanism → 4. If stage 5: need identification/story approach → 5. When current stage exhausted, pioneer the NEXT stage"
+    fonte: "eugene-schwartz" | ref: "MM-ES-004"
+    peso: 0.90
+
+  - id: "FW-COPY-029"
+    nome: "Three Levels of Creativity (ES)"
+    passos: "1. Product level (describe features) → 2. Market level (match desires and beliefs) → 3. Breakthrough level (redefine the entire conversation) — Level 3 is where legends are made"
+    fonte: "eugene-schwartz" | ref: "MM-ES-007"
+    peso: 0.85
+
+  - id: "FW-COPY-030"
+    nome: "The Architecture of Belief (ES)"
+    passos: "1. Identify current belief system of prospect → 2. Find beliefs compatible with your claim → 3. Build bridge from accepted beliefs to new claim → 4. Each proof point reinforces the bridge → 5. Never attack existing beliefs — extend them"
+    fonte: "eugene-schwartz" | ref: "MM-ES-008"
+    peso: 0.90
+
+  # --- Brilliance Breakthrough Frameworks ---
+
+  - id: "FW-COPY-031"
+    nome: "Discourse Building Method (ES — Brilliance Breakthrough)"
+    passos: "Structure written communication as a systematic building of argument — each paragraph EARNS the right to the next, creating an unbreakable chain of logic and emotion"
+    fonte: "eugene-schwartz" | ref: "FW-ES-015 (BB)"
+    peso: 0.85
+
+  - id: "FW-COPY-032"
+    nome: "Symbolism & Metaphor in Copy (ES — Brilliance Breakthrough)"
+    passos: "1. Identify abstract concept to communicate → 2. Find concrete symbol/metaphor from prospect's world → 3. Use symbol to make abstract tangible → 4. Extend metaphor through entire piece for coherence"
+    fonte: "eugene-schwartz" | ref: "FW-ES-019 (BB)"
+    peso: 0.85
+
 # ═══════════════════════════════════════════════════════════════════════════════
 # TENSÕES ENTRE FONTES
 # ═══════════════════════════════════════════════════════════════════════════════
@@ -289,14 +437,39 @@ tensoes:
   - id: "TENS-COPY-002"
     titulo: "Fórmulas vs Criatividade"
     posicao_dk: "Usar fórmulas, criar banco de headlines"
+    posicao_es: "Innovation over formula — formulas alone make you lost. Understand the MARKET."
     posicao_brand: "Criatividade diferencia, fórmulas comoditizam"
-    resolucao: "Fórmulas para response, criatividade para brand. Never sacrifice response for cleverness."
+    resolucao: "Kennedy provides fill-in-the-blank practice. Schwartz provides the WHY behind each technique via awareness/sophistication mapping. Both agree: formulas without market understanding = failure."
+
+  - id: "TENS-COPY-003"
+    titulo: "Headline importance: 70-80% (DK) vs 90% (ES)"
+    posicao_dk: "Headline = 70-80% da batalha em direct response"
+    posicao_es: "The headline is 90% of the ad — spend 9 of 10 hours on it"
+    resolucao: "Both agree headline is overwhelmingly dominant. ES's 90% reflects his pure-copy context (print ads). DK's 70-80% accounts for offer/medium variations. Synthesis: headline is 70-90% depending on medium."
+
+  - id: "TENS-COPY-004"
+    titulo: "Copy cannot create desire (ES) vs Copy creates urgency (DK)"
+    posicao_es: "Copy CANNOT create desire — it can only channel existing desire onto a product"
+    posicao_dk: "Urgency construction, villain framing, and pain amplification CREATE motivation to act"
+    resolucao: "No real conflict: Schwartz addresses DESIRE (pre-existing want). Kennedy addresses URGENCY (motivation to act NOW). Both are needed: channel desire (ES) + create urgency to act (DK)."
 
 # ═══════════════════════════════════════════════════════════════════════════════
 # CHANGELOG
 # ═══════════════════════════════════════════════════════════════════════════════
 
 changelog:
+  - versao: "3.0.0"
+    data: "2026-03-16"
+    mudancas:
+      - "Eugene Schwartz integrado como fonte primária (peso 0.95) — 115 elementos de 2 fontes"
+      - "Breakthrough Advertising (64 elementos): 5 Levels of Awareness, 5 Stages of Sophistication, 38 Headline Techniques, 13 Ways to Intensify Desire, 7 Techniques of Breakthrough Copy, Two-Product Model, Architecture of Belief"
+      - "The Brilliance Breakthrough (51 elementos): writing mastery, discourse building, symbolism/metaphor frameworks"
+      - "+6 filosofias (FIL-COPY-014 to 019): copy cannot create desire, innovation over formula, headline=90%, long copy wins, every word must sell, writing mastery"
+      - "+5 heurísticas (HEUR-COPY-011 to 015): headline 90%, 5 awareness levels, 5 sophistication stages, 38 headline techniques, 13 desire intensifiers"
+      - "+13 frameworks (FW-COPY-020 to 032): 5 Levels Awareness, 5 Stages Sophistication, 7 Techniques, 13 Ways Intensify, 38 Headlines, Two-Product Model, Three Dimensions, Awareness Spectrum, Sophistication Lifecycle, Three Levels Creativity, Architecture of Belief, Discourse Building, Symbolism/Metaphor"
+      - "+3 tensões (TENS-COPY-002 updated, TENS-COPY-003-004 added): formula debate with ES, headline % convergence, desire vs urgency"
+      - "Schwartz = LARGEST concentration of copywriting frameworks in Mega Brain: 5+5+7+13+38 = most comprehensive system"
+
   - versao: "2.0.0"
     data: "2026-03-16"
     mudancas:

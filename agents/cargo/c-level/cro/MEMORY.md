@@ -2,9 +2,9 @@
 
 > **Agente:** `/agents/cargo/C-LEVEL/CRO/AGENT.md`
 > **Criada:** 2024-12-15
-> **Última atualização:** 2026-01-11T00:58:00
-> **Total de registros:** 41 insights originais + 89 elementos dos batches
-> **Versão:** 3.0.0
+> **Última atualização:** 2026-03-16
+> **Total de registros:** 41 insights originais + 89 elementos dos batches + IWW enrichment + ES enrichment
+> **Versão:** 3.6.0
 > **Rastreabilidade:** AGENT-COGNITION-PROTOCOL (FASE 1.5), AGENT-INTEGRITY-PROTOCOL
 
 ---
@@ -746,3 +746,201 @@ Cleaner atua em:
 
 *Atualização: 2026-03-16 — DK Referral Machine Source #10 Enrichment*
 *MEMORY.md v3.3.0*
+
+---
+
+## DK SALES MASTERY UNLEASHED ENRICHMENT (2026-03-16)
+
+> **Fonte:** Dan Kennedy — Sales Mastery Unleashed (Source #13)
+> **Versão:** +6 insights adicionados → v3.4.0
+> **Relevância:** Sales Process Architecture, Sales Force Productivity, Offer Strategy
+
+### Insights SMU para CRO
+
+| Data | Insight | ID | PATH_RAIZ | Confiança |
+|------|---------|-----|-----------|-----------|
+| 2026-03-16 | **94% Commerce Offline**: Marketing alone can't close. Every business needs a functioning sales end-game. Infinitely better marketing + dysfunctional sales = exposed problem. | FIL-DK-609, HEUR-DK-787 | knowledge/external/sources/dan-kennedy/raw/sales-mastery-unleashed/ | ALTA |
+| 2026-03-16 | **No BS Sales Process 6 Steps**: Foundation → Offer → Presentation → Objections → Close → Post-Sale. Architectural framework for entire revenue engine. | FW-DK-759 | knowledge/external/sources/dan-kennedy/raw/sales-mastery-unleashed/ | ALTA |
+| 2026-03-16 | **Sales Force Scaling Day 2-3**: Salesperson burns money until productive. Scripts = fastest scaling tool. Target day 2-3 productivity with script book + training program. | FW-DK-768, HEUR-DK-798 | knowledge/external/sources/dan-kennedy/raw/sales-mastery-unleashed/ | ALTA |
+| 2026-03-16 | **Top 1%/5%/10% Pyramid**: 10% hit quota, 5% control prospect flow (80% by appointment), 1% own everything. Revenue org design should support each tier differently. | MM-DK-599 | knowledge/external/sources/dan-kennedy/raw/sales-mastery-unleashed/ | ALTA |
+| 2026-03-16 | **Irresistible Offer as CRO Strategy**: Risk Reversal + Money at Discount + Emotional Value. Give closers the best possible proposition. Flexible pieces for pros, locked for junior. | FW-DK-760 | knowledge/external/sources/dan-kennedy/raw/sales-mastery-unleashed/ | ALTA |
+| 2026-03-16 | **Pre-empt Objections in Marketing**: Reduce close-time friction by handling objections upstream (in marketing). Closers should face only 2-3 at decision point, not 15-20. | FW-DK-761, MM-DK-597 | knowledge/external/sources/dan-kennedy/raw/sales-mastery-unleashed/ | ALTA |
+
+### Padrões Decisórios SMU Adicionados
+
+| ID | Situação | Decisão Padrão | Ref | Confiança |
+|----|----------|----------------|-----|-----------|
+| PD-SMU-CRO-001 | Scaling sales team fast | Script book + day 2-3 target. Record from day 1. Comedy Method training. | FW-DK-768, MET-DK-645 | ALTA |
+| PD-SMU-CRO-002 | High objection rate at close | Audit marketing — are objections being pre-empted? Reduce from 15 to 2-3. | FW-DK-761, MM-DK-597 | ALTA |
+| PD-SMU-CRO-003 | Revenue architecture design | Follow No BS 6 Steps as macro framework. Each step is a system, not a person. | FW-DK-759 | ALTA |
+
+*Atualização: 2026-03-16 — DK Sales Mastery Unleashed Source #13 Enrichment*
+*MEMORY.md v3.4.0*
+
+---
+
+## DK INFLUENTIAL WRITING WORKSHOP ENRICHMENT (2026-03-16)
+
+> **Fonte:** Dan Kennedy — Influential Writing Workshop (Source #14, IWW)
+> **Versão:** +11 insights adicionados → v3.5.0
+> **Relevância:** Revenue retention, ascension strategy, cult-building for retention, niche revenue, newsletter ROI, tiered incentives
+
+### Insights IWW para CRO — Retention, Ascension & Revenue Architecture
+
+| Data | Insight | ID | PATH_RAIZ | Confiança |
+|------|---------|-----|-----------|-----------|
+| 2026-03-16 | **8 Purposes of Influential Writing**: Attract → Connect → Accept → Sell → Involve → Loyalty → Retain → Ascend. Revenue org should map each purpose to a system. Selling is only purpose #4 — retention, loyalty, and ascension are separate revenue levers. | MM-DK-619 | knowledge/external/sources/dan-kennedy/raw/influential-writing-workshop/ | ALTA |
+| 2026-03-16 | **Three Stages of Cult Brand Building**: 1) Curious consumer crosses members-only firewall, 2) Hand-picked consumer gets brand-washed (source matters), 3) Dedicated tribe member creates parallel social universe. Revenue implication: each stage = different pricing tier and communication. | MM-DK-636 | knowledge/external/sources/dan-kennedy/raw/influential-writing-workshop/ | ALTA |
+| 2026-03-16 | **Bizarro Planet Model (Retention)**: Your world glorifies and validates exactly what audience is disrespected for in their outside world. What they are criticized for elsewhere is what you applaud. Naturally they want to be in your place more than any other. Churn drops when place identity is strong. | MM-DK-632 | knowledge/external/sources/dan-kennedy/raw/influential-writing-workshop/ | ALTA |
+| 2026-03-16 | **Promise of Belonging = Most Powerful Narcotic**: Most valuable customers feel like odd man out — underappreciated, disrespected, misunderstood. When you provide a place where they are understood, you immediately have enormous influence and retention. | FIL-DK-639 | knowledge/external/sources/dan-kennedy/raw/influential-writing-workshop/ | ALTA |
+| 2026-03-16 | **Newsletter Priority Order (Retention)**: (1) Connection with place, (2) Members' connection with me, (3) Interest/entertainment, (4) Reinforcement, (5) Promotion, (6) Variety, (7) Take-away value, (8) Involvement, (9) Satisfying experience. Take-away value is LOW on the list — connection and reinforcement drive retention more than content. | FIL-DK-606 | knowledge/external/sources/dan-kennedy/raw/influential-writing-workshop/ | ALTA |
+| 2026-03-16 | **Niche Splintering for Revenue**: Identical product + niche-specific wrapper = higher pricing (20-100% premium). Step: Identify top 1-2 niches by revenue → Create parallel brand → Replace stories, testimonials, title with niche-specific → Product stays the same → Price up. | FW-DK-813, MM-DK-646 | knowledge/external/sources/dan-kennedy/raw/influential-writing-workshop/ | ALTA |
+| 2026-03-16 | **Communication Frequency Escalation**: Match intensity to relationship depth. Weekly fax for committed members (can be chiding). Email for non-members (gentle, topical). Monthly newsletter for broad base. Tele-seminars for front-end. Wrong intensity = churn or conversion failure. | FW-DK-819 | knowledge/external/sources/dan-kennedy/raw/influential-writing-workshop/ | ALTA |
+| 2026-03-16 | **Persistent Non-Member Value**: Non-member list now worth MORE than member list. They won't join but keep buying at irregular intervals. In internet era, talk to them forever. Old rule "get rid of them" was wrong — they are a revenue asset. | MM-DK-648 | knowledge/external/sources/dan-kennedy/raw/influential-writing-workshop/ | ALTA |
+| 2026-03-16 | **Tiered Gift Incentives for AOV Increase**: Gifts at $149, $275, $380 benchmarks create three decision points. Buyer needing $29 more to reach next tier goes back through entire catalog. Irrelevant gifts (sweatshirts, statues) outperform relevant ones (more of same product). | HEUR-DK-879, HEUR-DK-880 | knowledge/external/sources/dan-kennedy/raw/influential-writing-workshop/ | ALTA |
+| 2026-03-16 | **They Got It All In Year One But Stay For Other Reasons**: Content retention = fatally flawed. Personal disclosure = real retention driver. After first year, why they stay is connection, not content. More personal you go, more it becomes retention issue. | FIL-DK-663 | knowledge/external/sources/dan-kennedy/raw/influential-writing-workshop/ | ALTA |
+| 2026-03-16 | **Second Business Inside Existing Customer Base**: 10% of customers are entrepreneurial — business wisdom needs worth 10-30x average. That 10% in a "second business" could do same volume as 100% in first business. Find the hidden revenue layer inside existing clients. | MM-DK-649 | knowledge/external/sources/dan-kennedy/raw/influential-writing-workshop/ | ALTA |
+
+### Framework: 8 Purposes Revenue Architecture (DK-IWW)
+```
+┌─────────────────────────────────────────────────────────────────────┐
+│  8 PURPOSES REVENUE ARCHITECTURE — DAN KENNEDY (MM-DK-619)          │
+├─────────────────────────────────────────────────────────────────────┤
+│                                                                     │
+│  1. ATTRACT    → Right people, not just quantity                   │
+│  2. CONNECT    → Feelings beyond monetary transactions              │
+│  3. ACCEPT     → Advocated positions adopted                       │
+│  4. SELL       → Sales and purchases                               │
+│  5. INVOLVE    → Interactive not passive                           │
+│  6. LOYALTY    → Defending you and dragging people back             │
+│  7. RETAIN     → Keeping them longer                               │
+│  8. ASCEND     → Moving up commitment and spending ladders          │
+│                                                                     │
+│  CRO Application:                                                   │
+│  • Each purpose = separate system + metrics                        │
+│  • Selling (#4) is mid-funnel — retention/ascension (#7-8) = LTV   │
+│  • Most orgs optimize only #4 and ignore #5-8                      │
+│                                                                     │
+└─────────────────────────────────────────────────────────────────────┘
+```
+
+### Padrões Decisórios IWW Adicionados
+
+| ID | Situação | Decisão Padrão | Ref | Confiança |
+|----|----------|----------------|-----|-----------|
+| PD-IWW-CRO-001 | Churn alto apesar de bom produto | Diagnosticar: connection > content. Newsletter priority order — place identity antes de conteúdo. | FIL-DK-606 + FIL-DK-663 | ALTA |
+| PD-IWW-CRO-002 | Revenue por niche flat | Niche Splintering: mesmo produto + wrapper niche-specific = 20-100% premium. | FW-DK-813 + MM-DK-646 | ALTA |
+| PD-IWW-CRO-003 | Non-members descartados | Persistent Non-Member Value: manter na lista, falar com eles forever. Revenue irregular mas real. | MM-DK-648 | ALTA |
+| PD-IWW-CRO-004 | AOV estagnado | Tiered gift incentives em 3 benchmarks acima do AOV atual. Gifts irrelevantes > relevantes. | HEUR-DK-879 + HEUR-DK-880 | ALTA |
+| PD-IWW-CRO-005 | Communication frequency para diferentes tiers | Escalonar: weekly (committed) → monthly (broad base) → gentle email (non-members). | FW-DK-819 | ALTA |
+| PD-IWW-CRO-006 | Hidden revenue in existing base | Identificar 10% entrepreneurial: second business worth 10-30x average customer value. | MM-DK-649 | ALTA |
+
+*Atualização: 2026-03-16 — DK Influential Writing Workshop Source #14 Enrichment*
+*MEMORY.md v3.5.0*
+
+---
+
+## EUGENE SCHWARTZ ENRICHMENT (2026-03-16)
+
+> **Fonte:** Eugene Schwartz — Breakthrough Advertising
+> **Versão:** +8 elementos adicionados → v3.6.0
+> **Relevância:** Market awareness diagnosis, market sophistication strategy, product-market fit, campaign scaling, strategic messaging architecture
+
+### Insights ES para CRO — Estratégia de Mercado e Revenue
+
+| Data | Insight | ID | PATH_RAIZ | Confiança |
+|------|---------|-----|-----------|-----------|
+| 2026-03-16 | **5 Levels of Market Awareness**: Unaware → Problem Aware → Solution Aware → Product Aware → Most Aware. The funnel entry point, offer type, and copy angle are entirely determined by which awareness level the market is at. Wrong level = dead funnel. CRO must diagnose awareness level before choosing acquisition strategy. | FW-ES-001 | /knowledge/external/sources/eugene-schwartz/raw/ | ALTA |
+| 2026-03-16 | **5 Stages of Market Sophistication**: Stage 1 (first claim wins) → Stage 2 (enlarged claim) → Stage 3 (unique mechanism) → Stage 4 (elaborated mechanism) → Stage 5 (niche identity/community). Late-stage saturated markets cannot compete on claim — must own a mechanism or create a tribe. Most Brazilian digital markets are Stage 3-4. | FW-ES-002 | /knowledge/external/sources/eugene-schwartz/raw/ | ALTA |
+| 2026-03-16 | **Permanent Forces vs Forces of Change**: Permanent forces = enduring human desires (status, security, health, belonging, revenge, love). Forces of change = trends, news cycles, viral moments. Great revenue campaigns are anchored in permanent forces and amplified by forces of change. Campaign built on forces of change alone expires. | MM-ES-010 | /knowledge/external/sources/eugene-schwartz/raw/ | ALTA |
+| 2026-03-16 | **The Market Is the Master (Revenue Implication)**: Product features are irrelevant unless they satisfy a desire the market already has. Revenue strategy starts with what the market desperately wants — not what the product does. "Don't find customers for your product. Find products for your customers." | FIL-ES-002 | /knowledge/external/sources/eugene-schwartz/raw/ | ALTA |
+| 2026-03-16 | **Advertising Makes Markets (Proactive Revenue Creation)**: Advertising does not just reflect existing demand — it creates and channels mass desire. CROs who understand this can create new revenue categories by educating the market on a desire they didn't know they had. Creates monopoly positioning before competition appears. | FIL-ES-007 | /knowledge/external/sources/eugene-schwartz/raw/ | ALTA |
+| 2026-03-16 | **Product Analysis Method**: Systematic method to extract every product attribute, then identify which attributes match the deepest desires at each awareness level. Forces the CRO to stop guessing about positioning and derive it structurally from product-market alignment. | MET-ES-003 | /knowledge/external/sources/eugene-schwartz/raw/ | ALTA |
+| 2026-03-16 | **Campaign Intensification Method**: Campaigns don't die — they plateau. Intensification path: (1) strengthen mechanism claim, (2) add proof layers, (3) niche the message, (4) add identity layer, (5) create community. Each step extends campaign life and revenue. Most campaigns are abandoned too early. | MET-ES-004 | /knowledge/external/sources/eugene-schwartz/raw/ | ALTA |
+| 2026-03-16 | **The Headline Planning Process**: Headline is a strategic message, not a creative exercise. Process: identify awareness level → determine what prospect already believes → find the exact thought in their mind → enter that conversation → advance it one step. Headline = awareness advancement tool, not just hook. | FW-ES-011 | /knowledge/external/sources/eugene-schwartz/raw/ | ALTA |
+
+### Framework: Market Awareness × Revenue Strategy (ES)
+
+```
+┌─────────────────────────────────────────────────────────────────────┐
+│  5 LEVELS OF MARKET AWARENESS — EUGENE SCHWARTZ (FW-ES-001)         │
+│  CRO Revenue Strategy Implications                                   │
+├─────────────────────────────────────────────────────────────────────┤
+│                                                                     │
+│  LEVEL 1: UNAWARE                                                   │
+│  Prospect: Doesn't know they have a problem                         │
+│  Revenue: Story-first funnels, education-based offers               │
+│  Funnel cost: High (long nurture needed)                            │
+│                                                                     │
+│  LEVEL 2: PROBLEM AWARE                                             │
+│  Prospect: Knows the problem, doesn't know solutions exist          │
+│  Revenue: Problem-agitation offers, content-to-call funnels         │
+│  Funnel cost: Medium                                                │
+│                                                                     │
+│  LEVEL 3: SOLUTION AWARE                                            │
+│  Prospect: Knows solutions exist, doesn't know your product         │
+│  Revenue: Mechanism-based offers, comparison ads                    │
+│  Funnel cost: Medium-low                                            │
+│                                                                     │
+│  LEVEL 4: PRODUCT AWARE                                             │
+│  Prospect: Knows your product, hasn't bought                        │
+│  Revenue: Direct offer, scarcity/urgency, proof-heavy ads           │
+│  Funnel cost: Low                                                   │
+│                                                                     │
+│  LEVEL 5: MOST AWARE                                                │
+│  Prospect: Loyal customer / fan                                     │
+│  Revenue: Ascension, upsell, referral programs                      │
+│  Funnel cost: Lowest (highest ROI)                                  │
+│                                                                     │
+│  CRO RULE: Budget allocation follows awareness — spend more where   │
+│  awareness is highest. Educating Level 1 is expensive and slow.     │
+│                                                                     │
+└─────────────────────────────────────────────────────────────────────┘
+```
+
+```
+┌─────────────────────────────────────────────────────────────────────┐
+│  5 STAGES OF MARKET SOPHISTICATION — EUGENE SCHWARTZ (FW-ES-002)    │
+│  CRO Positioning Decisions                                           │
+├─────────────────────────────────────────────────────────────────────┤
+│                                                                     │
+│  STAGE 1: First Claim                                               │
+│  "Lose weight fast!" — First to market owns this                    │
+│  CRO: Be first to a category or find virgin niches                  │
+│                                                                     │
+│  STAGE 2: Enlarged Claim                                            │
+│  "Lose 10 lbs in 10 days!" — Competition escalated the claim       │
+│  CRO: Bigger numbers, bolder guarantees                             │
+│                                                                     │
+│  STAGE 3: Unique Mechanism                                          │
+│  "This enzyme burns fat while you sleep" — Mechanism differentiates │
+│  CRO: Own a named mechanism (proprietary process/system)            │
+│                                                                     │
+│  STAGE 4: Elaborated Mechanism                                      │
+│  "Here's exactly why this enzyme works and others don't"            │
+│  CRO: Deep mechanism education, proof, authority                    │
+│                                                                     │
+│  STAGE 5: Identification / Community                                │
+│  "Join the people who refuse to let age stop them"                  │
+│  CRO: Identity and tribe-building as revenue strategy               │
+│                                                                     │
+│  DIAGNOSTIC: What stage is YOUR market at?                          │
+│  → Competing at wrong stage = money left on table                   │
+│  → Brazilian high-ticket markets: mostly Stage 3-4                  │
+│                                                                     │
+└─────────────────────────────────────────────────────────────────────┘
+```
+
+### Padrões Decisórios ES Adicionados (CRO)
+
+| ID | Situação | Decisão Padrão | Ref | Confiança |
+|----|----------|----------------|-----|-----------|
+| PD-ES-CRO-001 | Funil com CTR alto mas low conversion | Diagnosticar awareness level mismatch — oferta pode ser para Nível 4 mas tráfego está no Nível 2. Realinhar entrada do funil. | FW-ES-001 | ALTA |
+| PD-ES-CRO-002 | Mercado saturado, difícil diferenciar | Identificar stage de sofisticação (provavelmente Stage 3-4). Necessidade de mecanismo proprietário ou identidade de tribo (Stage 5). | FW-ES-002 | ALTA |
+| PD-ES-CRO-003 | Campaign performance caindo no tempo | Não abandonar — aplicar Campaign Intensification: fortalecer mecanismo → adicionar prova → nichar → adicionar identidade → criar comunidade. | MET-ES-004 | ALTA |
+| PD-ES-CRO-004 | Novo produto, posicionamento incerto | Aplicar Product Analysis Method: extrair todos os atributos → mapear para desejos do mercado por nível de awareness → derivar posicionamento estruturalmente. | MET-ES-003 | ALTA |
+| PD-ES-CRO-005 | Headline/creative não converte | Usar Headline Planning Process: identificar awareness → encontrar pensamento exato na mente do prospect → entrar nessa conversa → avançar um passo. | FW-ES-011 | ALTA |
+| PD-ES-CRO-006 | Revenue strategy baseada em trend | Verificar permanência: trend ou força permanente? Budget maior para campanhas em forças permanentes (status, segurança, pertencimento). | MM-ES-010 | ALTA |
+
+*Atualização: 2026-03-16 — Eugene Schwartz / Breakthrough Advertising Enrichment*
+*MEMORY.md v3.6.0*
