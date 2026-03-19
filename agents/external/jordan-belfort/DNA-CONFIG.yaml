@@ -1,0 +1,184 @@
+# DNA-CONFIG — JORDAN BELFORT
+# Tipo: SOLO (pessoa unica)
+# Versao: v5.0.0
+# Data: 2026-03-18
+
+agent_type: SOLO
+person: jordan-belfort
+display_name: "Jordan Belfort"
+alias: "The Wolf of Wall Street"
+
+dna_source:
+  path: "knowledge/external/dna/persons/jordan-belfort/DNA.yaml"
+  version: "5.0.0"
+  weight: 1.0
+  total_elements: 658
+  source_count: 5
+
+layers_summary:
+  L1_PHILOSOPHIES: 135
+  L2_MENTAL_MODELS: 112
+  L3_HEURISTICS: 178
+  L4_FRAMEWORKS: 125
+  L5_METHODOLOGIES: 108
+
+primary_domains:
+  - straight-line-system
+  - sales-psychology
+  - tonality
+  - looping
+  - objection-handling
+  - state-management
+  - prospecting
+  - scripting
+  - body-language
+  - unconscious-communication
+  - closing
+  - customer-retention
+  - vision
+  - standards
+  - beliefs
+  - NLP
+  - rebuttals
+  - sales-team-training
+  - wealth-psychology
+  - digital-marketing
+  - sales-funnels
+  - traffic-acquisition
+  - copywriting
+  - email-marketing
+  - retargeting
+  - competitive-intelligence
+  - customer-avatar
+  - funnel-economics
+  - hybrid-marketing
+  - persuasion-science
+  - trigger-words
+  - fear-management
+  - personal-branding
+  - gender-dynamics
+  - proxemics
+  - abundance-mindset
+  - diagnostics
+  - self-assessment
+  - inner-game
+  - rapport
+  - learning
+
+sources:
+  - id: "SLSC4"
+    name: "Straight Line Certification 4.0"
+    type: "COURSE"
+    files: 505
+    stubs: 154
+    total_size_mb: 12
+    sections:
+      - name: "Main Course"
+        modules: 14
+        files: 226
+        content: "Core curriculum (Cracking the Code through Customers for Life)"
+      - name: "SLSC Weekly"
+        weeks: 12
+        files: 106
+        content: "Weekly membership content with daily videos"
+      - name: "Weekly Training"
+        sessions: 105
+        files: 105
+        content: "Live training deep dives, Q&A, role plays"
+      - name: "Rebuttals Guide"
+        files: 1
+        size_kb: 160
+        content: "102-page comprehensive rebuttal guide with 50+ categories"
+      - name: "Script Builder"
+        files: 35
+        content: "Script building workshop (SB1-SB6 + videos)"
+      - name: "Inner Game of Wealth"
+        files: 2
+        content: "Wealth psychology, beliefs, values, standards"
+      - name: "Daily Motivations"
+        files: 30
+        content: "Daily motivational + skills training"
+
+  - id: "SLM"
+    name: "Straight Line Marketing"
+    type: "COURSE"
+    files: 50
+    total_size_mb: 1.5
+    co_presenter: "David Ayad (CAG Digital Agency)"
+    sections:
+      - name: "Introduction"
+        files: 3
+        content: "Course overview, SLM philosophy, marketing as $1000/hr gig"
+      - name: "Module 1-10"
+        modules: 10
+        files: 47
+        content: "Complete digital marketing system: funnels, traffic, email, retargeting, competitive intelligence, customer avatar, copywriting, funnel economics"
+
+  - id: "SLP"
+    name: "Straight Line Persuasion"
+    type: "COURSE"
+    files: 11
+    total_size_kb: 668
+    sections:
+      - name: "Video Modules"
+        modules: 9
+        files: 9
+        content: "Core SLP system (Three Tenets, Prospecting, Tonality, Vision, Inner Game, SLP System, Three 10s, Language, Influence)"
+      - name: "PDF Materials"
+        files: 2
+        content: "Flash Cards (distilled principles) + SLP Action Book (comprehensive workbook)"
+
+  - id: "SLPFT"
+    name: "Straight Line Persuasion Fast Track"
+    type: "COURSE"
+    files: 28
+    total_size_kb: 382
+    sections:
+      - name: "Module 1 - Introduction"
+        files: 7
+        content: "Straight Line overview, Genesis story, eBook, Action Worksheet, Summary Graphic. First 4 seconds, 29 tonal patterns, 12-step sales syntax"
+      - name: "Module 2 - Rapport"
+        files: 7
+        content: "Keys to Rapport, Ultimate Goal (Live), eBook, Action Worksheet, Summary Graphic. 5 elements of influence, Three 10s, action/pain thresholds"
+      - name: "Module 3 - Inner Game"
+        files: 6
+        content: "Inner Game of Sales, 4 Elements (Live), eBook, Action Worksheet. 4 Cs, NLP anchoring, state management, Reason vs Results People"
+      - name: "Module 4 - Outer Game"
+        files: 7
+        content: "Outer Game of Sales, Strategies (Live), eBook, Action Worksheet, Summary Graphic. Scripting, looping, closing patterns, certainty decay"
+      - name: "Module 5 - Resources"
+        files: 1
+        content: "10 Reasons People Are Broke — diagnostic self-assessment framework"
+
+  - id: "SLSP"
+    name: "Straight Line Sales Psychology"
+    type: "COURSE"
+    files: 123
+    total_size_kb: 730
+    sections:
+      - name: "Section 1 - Inner World"
+        modules: 4
+        files: 35
+        content: "Beliefs (table/legs model, timeline regression), Standards (4 levels, ducks/eagles), State Management (anchoring, 4 C's), Vision Focus (vision triad, dream stompers)"
+      - name: "Section 2 - Outer World"
+        modules: 5
+        files: 64
+        content: "5 Elements (Three 10s, action/pain thresholds), Body Language (matching/pacing/leading), Looping (3-loop sequence, deflection), Scripting (script building, language patterns), Tonality (8 patterns, anchoring)"
+      - name: "Section 3 - Customers"
+        modules: 2
+        files: 24
+        content: "Customers for Life (6 strategies, referral system), Prospecting & Qualifying (4 archetypes, qualifying questions)"
+
+raiz:
+  SLSC4: "knowledge/external/sources/jordan-belfort/raw/straight-line-sales-certification/"
+  SLM: "knowledge/external/sources/jordan-belfort/raw/straight-line-marketing/"
+  SLP: "knowledge/external/sources/jordan-belfort/raw/straight-line-persuasion/"
+  SLPFT: "knowledge/external/sources/jordan-belfort/raw/straight-line-persuasion-fast-track/"
+  SLSP: "knowledge/external/sources/jordan-belfort/raw/straight-line-sales-psychology/"
+
+next_ids:
+  FIL: "FIL-JB-136"
+  MM: "MM-JB-113"
+  HEUR: "HEUR-JB-179"
+  FW: "FW-JB-126"
+  MET: "MET-JB-109"

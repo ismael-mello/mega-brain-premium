@@ -28,9 +28,9 @@
 # ═══════════════════════════════════════════════════════════════════════════════
 
 dominio: "offers"
-versao: "4.0.0"
+versao: "11.0.0"  # Robert Cialdini EIPP added
 criado_em: "2026-01-10T19:30:00Z"
-atualizado_em: "2026-03-17T00:00:00Z"
+atualizado_em: "2026-03-19"
 
 # ═══════════════════════════════════════════════════════════════════════════════
 # FONTES CONSOLIDADAS COM PESOS POR DOMÍNIO
@@ -79,6 +79,22 @@ fontes_consolidadas:
     source: "MMS"
     note: "Added 2026-03-17. André Chaperon's VPDC is the most audience-centric offer creation framework — complements Hormozi's value equation with deep audience empathy via JTBD."
 
+  - fonte: "frank-kern"
+    peso_dominio: 0.80  # Irresistible offers + countdown promotions
+    path: "/knowledge/external/dna/persons/frank-kern/"
+    contribuicao_principal: "Irresistible Offer Framework (pay-for-performance guarantee), Countdown Promotions, Loss-Leader Funnels, Supersystem Offer Architecture, Bumps/Upsells engineering, Slack Adjuster concept"
+    elementos_relevantes: 40
+    source: "RC"
+    note: "Added 2026-03-18. Frank Kern's irresistible offer (refund difference + 20%) is a uniquely practical guarantee framework. Countdown promotion methodology generated $21K from imperfect execution — proves offer > execution."
+
+  - fonte: "jordan-belfort"
+    peso_dominio: 0.75
+    path: "/knowledge/external/dna/persons/jordan-belfort/"
+    contribuicao_principal: "Step-Down Sale architecture, Energy In/Out offer calibration, Action Threshold lowering through risk reversal, value positioning via Three Tens certainty, urgency through cost-of-inaction framing, SLO (Self-Liquidating Offers), upsell/downsell funnel strategies, opt-in bribe engineering, break-even pricing strategy, Golden Rule (whoever spends most to acquire wins)"
+    elementos_relevantes: 40
+    source: "SLC4 + SLM"
+    note: "Updated 2026-03-18 with SLM (+20 offer elements). SLM adds digital offer architecture: SLO strategy (break-even front-end), upsell/downsell sequencing, opt-in bribe engineering, funnel offer stack design. Golden Rule: 'Whoever can spend the most to acquire a customer wins' — complements Hormozi's Grand Slam with practical funnel offer economics."
+
   - fonte: "ry-schwartz"
     peso_dominio: 0.75
     path: "/knowledge/external/dna/persons/ry-schwartz/"
@@ -86,6 +102,40 @@ fontes_consolidadas:
     elementos_relevantes: 40
     source: "CTC Circle"
     note: "Added 2026-03-17. Ry Schwartz brings enrollment-based offer framing — offers positioned as coaching invitations not transactions. Complements Hormozi/Brown with empathy-first approach."
+
+  - fonte: "oren-klaff"
+    peso_dominio: 0.70
+    path: "/knowledge/external/dna/persons/oren-klaff/"
+    contribuicao_principal: "Four-Frame Hot Cognition Stack for pricing, Prize Frame positioning, Value Proposition Template, Intrigue Frame for price delivery, Time Frame for deadlines, Moral Authority Frame"
+    elementos_relevantes: 30
+    source: "PM"
+    note: "Added 2026-03-18. Oren Klaff's Hot Cognition Stack reframes pricing as status play — complements Hormozi's value equation with neurofinance-based frame control for price delivery."
+
+  - fonte: "donald-miller"
+    peso_dominio: 0.65
+    path: "/knowledge/external/dna/persons/donald-miller/"
+    contribuicao_principal: "Lead Generator Architecture (5 PDF types), Campaign Stacking (BrandScript → One-Liner → Lead Gen → Nurture → Sales), Reciprocity Engine (give value first → earn the sale), PASTOR offer presentation, Sales Funnel Architecture, 12-email campaign sequence"
+    elementos_relevantes: 25
+    source: "SWS + SBMR"
+    note: "Added 2026-03-18. Donald Miller's offer approach is CLARITY-FIRST — structure the offer so the customer understands it in seconds. Lead Generator Architecture and Campaign Stacking provide the funnel architecture that turns StoryBrand messaging into revenue. Complements Hormozi (value equation) with accessibility and Chaperon (audience empathy) with execution simplicity."
+
+  - fonte: "russell-brunson"
+    peso_dominio: 0.85  # 10XS = high-confidence offer engineering in event/webinar context
+    path: "/knowledge/external/dna/persons/russell-brunson/"
+    contribuicao_principal: "Offer Stack Construction (6-layer stacking: core + bonuses + guarantee + urgency + price anchor + payment plan), de-commoditization framework via niche positioning, Pain-Cost/Ease-Speed pattern for offer presentation, Secret Title Formula ('[outcome] even if [fear]'), Affiliate Bonus Architecture (Fladlien: bonuses > main product in perceived value), Bonus Dimensionalization (make bonus feel BIG through naming/framing), Two Choices Close (buy or leave — no middle ground), If/All Close (3 conditional yeses before price), Product Pricing Ladder (Childers: ladder from free to $25k)"
+    elementos_relevantes: 55
+    source: "10XS"
+    fontes_incluidas:
+      - "10x Secrets Masterclass (55 elementos — offer stacking, event/webinar offer architecture, price anchoring, bonus engineering)"
+    note: "Added 2026-03-19. Russell Brunson's 10XS offer system is STAGE/WEBINAR SPECIFIC — designed to maximize revenue from group selling events. The Offer Stack Construction and Bonus Dimensionalization are the most practical offer-stacking methodologies in the system for event contexts. Complements Hormozi (value equation) with actionable engineering for group-selling scenarios. Pain-Cost/Ease-Speed and Secret Title Formula apply universally."
+
+  - fonte: "robert-cialdini"
+    peso_dominio: 0.75  # Scientific influence applied to offer design
+    path: "/knowledge/external/dna/persons/robert-cialdini/"
+    contribuicao_principal: "Concession Architecture (Gold/Silver/Bronze), Gift Amplification (MUC), Scarcity Double Whammy, Contrast Phenomenon, Loss Framing"
+    elementos_relevantes: 40
+    source: "EIPP"
+    note: "Added 2026-03-19. Robert Cialdini adds the SCIENTIFIC foundation of why offers work — scarcity engineering, loss framing, contrast pricing, concession architecture (reject-then-retreat), and gift-vs-reward psychology (MUC). Complements Hormozi (value equation) and Brown (offer engineering) with the underlying behavioral science of decision-making."
 
 # ═══════════════════════════════════════════════════════════════════════════════
 # FILOSOFIAS CONSOLIDADAS (Cross-Source)
@@ -166,6 +216,21 @@ filosofias:
     peso: 0.82
     aplicacao: "Design de ofertas escaláveis"
     batches: ["BATCH-085", "BATCH-086"]
+
+  # Jordan Belfort - SLM Offer Economics
+  - id: "FIL-OFF-011"
+    filosofia: "Whoever can spend the most to acquire a customer wins — the Golden Rule of marketing. Break-even on front-end via SLO, profit on back-end via upsells and email sequences."
+    fonte_primaria: "jordan-belfort"
+    peso: 0.85
+    aplicacao: "Funnel offer economics, SLO strategy"
+    batches: ["JB-SLM"]
+
+  - id: "FIL-OFF-012"
+    filosofia: "Every funnel needs a Step-Down offer — when the main offer is resisted, offer a lower-priced alternative that still gets the customer in the door. The customer who says no to $997 may say yes to $197."
+    fonte_primaria: "jordan-belfort"
+    peso: 0.80
+    aplicacao: "Downsell strategy, offer stack architecture"
+    batches: ["JB-SLC4", "JB-SLM"]
 
 # ═══════════════════════════════════════════════════════════════════════════════
 # FRAMEWORKS CONSOLIDADOS (Cross-Source)
@@ -352,6 +417,41 @@ frameworks:
     aplicacao: "Design de ofertas escaláveis"
     batches: ["BATCH-085", "BATCH-086"]
 
+  # Jordan Belfort - SLM Offer Frameworks
+  - id: "FW-OFF-012"
+    nome: "SLO (Self-Liquidating Offer) Funnel Architecture"
+    fonte_primaria: "jordan-belfort"
+    peso: 0.80
+    estrutura:
+      front_end:
+        - "Opt-in bribe (free report, video, tool) to capture lead"
+        - "SLO offer ($7-$47) to recover ad spend immediately"
+        - "Goal: break-even on acquisition, not profit"
+      upsells:
+        - "Upsell 1: Natural complement to SLO ($97-$297)"
+        - "Upsell 2: Premium version or bundle ($497-$997)"
+        - "Step-Down: If main upsell refused, offer lighter version"
+      back_end:
+        - "Email sequence sells core offer ($997-$2997+)"
+        - "Phone sales for high-ticket (Straight Line in person)"
+    regra: "Front-end MUST at least break-even. All profit comes from upsells + back-end."
+    aplicacao: "Digital funnel offer stack design"
+    batches: ["JB-SLM"]
+
+  - id: "FW-OFF-013"
+    nome: "Opt-In Bribe Engineering (JB SLM)"
+    fonte_primaria: "jordan-belfort"
+    peso: 0.75
+    componentes:
+      - "High perceived value (looks like $297+ worth of content)"
+      - "Immediately consumable (not a 200-page ebook nobody reads)"
+      - "Solves ONE specific pain point (not everything)"
+      - "Creates desire for the paid offer (teases the full solution)"
+      - "Demonstrates your expertise (builds certainty on YOU)"
+    regra: "Bribe quality = funnel quality. Garbage bribe = garbage leads."
+    aplicacao: "Lead magnet design for funnel entry"
+    batches: ["JB-SLM"]
+
 # ═══════════════════════════════════════════════════════════════════════════════
 # HEURÍSTICAS COM NÚMEROS (Cross-Source)
 # ═══════════════════════════════════════════════════════════════════════════════
@@ -450,6 +550,25 @@ heuristicas:
     fonte: "FULL-SALES-SYSTEM"
     numero: "3-5x LTV"
     aplicacao: "Arquitetura de ofertas"
+
+  # Jordan Belfort SLM Offer Heuristics
+  - id: "HEU-OFF-016"
+    heuristica: "SLO pricing sweet spot: $7-$47 front-end to self-liquidate ad spend. Higher = fewer buyers, lower = not enough to cover CPA."
+    fonte: "jordan-belfort"
+    numero: "$7-$47"
+    aplicacao: "SLO pricing strategy"
+
+  - id: "HEU-OFF-017"
+    heuristica: "Upsell take rate: 20-30% on first upsell, 10-15% on second. Step-down recovers 15-25% of those who decline main upsell."
+    fonte: "jordan-belfort"
+    numero: "20-30% / 10-15% / 15-25%"
+    aplicacao: "Upsell/downsell conversion expectations"
+
+  - id: "HEU-OFF-018"
+    heuristica: "Golden Rule: whoever can spend the most to acquire a customer wins. If your funnel allows $100 CPA and competitor allows $50, you win every auction."
+    fonte: "jordan-belfort"
+    numero: "2x CPA advantage"
+    aplicacao: "Competitive offer economics"
 
 # ═══════════════════════════════════════════════════════════════════════════════
 # METODOLOGIAS CONSOLIDADAS (Cross-Source)
@@ -647,13 +766,13 @@ agentes_consumidores:
 # ═══════════════════════════════════════════════════════════════════════════════
 
 metadados:
-  total_filosofias: 10
-  total_frameworks: 11
-  total_heuristicas: 15
+  total_filosofias: 12
+  total_frameworks: 13
+  total_heuristicas: 18
   total_metodologias: 4
-  total_elementos: 40
+  total_elementos: 47
 
-  fontes_processadas: 5
+  fontes_processadas: 13  # updated — counts all active entries in fontes_consolidadas (+ robert-cialdini)
   batches_referenciados:
     - "BATCH-005"
     - "BATCH-006"
@@ -676,6 +795,45 @@ metadados:
   bug_fix: "BUG #2 - DNA AGGREGATED empty"
 
 changelog:
+  - data: "2026-03-19T00:00:00Z"
+    acao: "Robert Cialdini EIPP offer elements integrated"
+    mudancas:
+      - "RC added as new fonte: 40 offer elements (scarcity-engineering, loss-framing, contrast-pricing, exclusive-information, gift-vs-reward, concession-architecture)"
+      - "RC peso_dominio: 0.75 (scientific influence applied to offer design)"
+      - "Key frameworks: Concession Architecture (Gold/Silver/Bronze reject-then-retreat), Gift Amplification (MUC), Scarcity Double Whammy, Contrast Phenomenon, Loss Framing"
+      - "Complements Hormozi (value equation) and Brown (offer engineering) with behavioral science foundations"
+      - "fontes_processadas: 12 → 13"
+    versao: "11.0.0"
+
+  - data: "2026-03-19T00:00:00Z"
+    acao: "Russell Brunson 10x Secrets offer elements integrated"
+    mudancas:
+      - "RB added as new fonte: 55 offer elements (Offer Stack Construction, Bonus Architecture, de-commoditization, Secret Title Formula, pricing frameworks)"
+      - "RB peso_dominio: 0.85 (10XS = highest-confidence offer stacking system for event/webinar contexts)"
+      - "Key frameworks added: Offer Stack Construction (6-layer), Pain-Cost/Ease-Speed pattern, Secret Title Formula '[outcome] even if [fear]', Affiliate Bonus Architecture (Fladlien), Bonus Dimensionalization, Two Choices Close, If/All Close, Product Pricing Ladder (Childers)"
+      - "Complements Hormozi (value equation) with actionable stage/webinar offer engineering"
+    versao: "10.0.0"
+
+  - data: "2026-03-18T00:00:00Z"
+    acao: "Donald Miller SBMR offer elements integrated"
+    mudancas:
+      - "DM added as new fonte: 25 offer elements (Lead Generator Architecture, Campaign Stacking, Reciprocity Engine)"
+      - "DM peso_dominio: 0.65 (clarity-first offer structuring)"
+      - "Key frameworks: Lead Generator Architecture (5 PDF types), Campaign Stacking, PASTOR offer presentation, 12-email campaign sequence"
+      - "Case studies: FITZEE 118%, Legacy 1300 enrollments, StoryBrand $250K→$1.3M, Concierge $800K→$2.3M"
+    versao: "9.0.0"
+
+  - data: "2026-03-18T00:00:00Z"
+    acao: "Jordan Belfort SLM offer elements integrated"
+    mudancas:
+      - "JB SLM integrated: +20 offer elements (SLO strategy, upsell/downsell, opt-in bribes, break-even pricing, Golden Rule)"
+      - "+2 filosofias (FIL-OFF-011: Golden Rule/SLO, FIL-OFF-012: Step-Down offers)"
+      - "+2 frameworks (FW-OFF-012: SLO Funnel Architecture, FW-OFF-013: Opt-In Bribe Engineering)"
+      - "+3 heurísticas (HEU-OFF-016: SLO $7-$47, HEU-OFF-017: upsell take rates, HEU-OFF-018: Golden Rule CPA)"
+      - "JB elementos_relevantes: 20 → 40 (SLC4 + SLM)"
+      - "JB peso_dominio: 0.70 → 0.75 (SLM adds significant offer architecture)"
+    versao: "7.0.0"
+
   - data: "2026-01-10T19:30:00Z"
     acao: "Criação inicial do AGG-OFFERS.yaml"
     mudancas:

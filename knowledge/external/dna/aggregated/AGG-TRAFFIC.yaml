@@ -13,10 +13,10 @@
 # ═══════════════════════════════════════════════════════════════════════════════
 
 dominio: "traffic"
-versao: "2.0.0"
+versao: "5.0.0"  # OK Russell Brunson 10XS webinar traffic system added
 data_criacao: "2026-03-11"
-ultima_atualizacao: "2026-03-17"
-total_elementos: 255
+ultima_atualizacao: "2026-03-19"
+total_elementos: 475
 peso_global: 0.70
 
 fontes_consolidadas:
@@ -37,6 +37,35 @@ fontes_consolidadas:
     especialidade: "Organic traffic empire, SOI multi-step pull-click, content syndication, guest blogging, paid+SOI hybrid, multi-touch contextual advertising, TTE (co-created with Shawn Twing)"
     tipo_fonte: "PRIMARY"
     note: "Added 2026-03-17. André Chaperon + Shawn Twing bring a uniquely SYSTEMS-BASED approach to traffic — organic-first, relationship-driven, evergreen content empire. Counterbalances the paid-heavy approach of AIOS squad."
+
+  - fonte: "frank-kern"
+    path: "knowledge/external/dna/persons/frank-kern/"
+    raw_path: "knowledge/external/sources/frank-kern/raw/"
+    peso_dominio: 0.90
+    elementos_contribuidos: 150
+    especialidade: "Facebook Ads (Level 1-3 campaigns, seed testing, CBO, cost cap, bid cap, automation rules), YouTube Ads (ad scripting, audience targeting, keyword/topic layering, TCPA bidding, automated scaling), Media Strategy (5-layer model), Retargeting, Campaign Diagnostics, Ad Automation (Hyros, Madgicx, native rules)"
+    tipo_fonte: "PRIMARY"
+    note: "Added 2026-03-18. Frank Kern is the most COMPLETE paid traffic source — covers both Facebook AND YouTube in depth with systematic Level 1→2→3 scaling methodology. Most practical, data-driven approach to ad management."
+
+  - fonte: "jordan-belfort"
+    path: "knowledge/external/dna/persons/jordan-belfort/"
+    raw_path: "knowledge/external/sources/jordan-belfort/raw/"
+    peso_dominio: 0.75
+    elementos_contribuidos: 30
+    especialidade: "Traffic Secrets (dedicated module), Traffic Channel Selection Framework (11 channels), Customer Avatar Template for targeting, retargeting strategy (online looping), competitive intelligence for traffic, offline-to-online hybrid traffic, Dan Kennedy's Marketing Triangle applied to traffic"
+    tipo_fonte: "PRIMARY"
+    note: "Added 2026-03-18. Jordan Belfort SLM has DEDICATED traffic modules (M5: Traffic Secrets, M7: Retargeting, M8: Competitive Intelligence, M9: Offline-to-Online Hybrid). Brings a STRATEGIC approach to traffic — channel selection framework with 11 channels, customer avatar for targeting, and Marketing Triangle (message-market-media match)."
+
+  - fonte: "russell-brunson"
+    path: "knowledge/external/dna/persons/russell-brunson/"
+    raw_path: "knowledge/external/sources/russell-brunson/raw/"
+    peso_dominio: 0.80
+    elementos_contribuidos: 40
+    especialidade: "Weekly webinar promotion cycle (Mon/Tue/Wed Facebook ads → Thu live webinar), Facebook ad cost benchmarks ($3-5/registrant for webinar), No Sunday ad rule (Sunday registrants have lowest show rate — forget by Thursday), Jay Boyer thank-you page monetization (immediate post-registration revenue offset), Negative Customer Acquisition Cost model (thank-you page OTO covers ad spend before webinar), FB Live as traffic+conversion hybrid (organic + paid amplification of live events), Comment moderation impact on ad cost (-50% CPC when comments managed), Perfect Webinar traffic-to-funnel architecture"
+    tipo_fonte: "PRIMARY"
+    fontes_incluidas:
+      - "10x Secrets Masterclass (40 elementos — webinar traffic system, Facebook ad benchmarks, promotion cycle, thank-you page monetization, Negative CAC model, FB Live hybrid strategy)"
+    note: "Added 2026-03-19. Russell Brunson 10XS brings a WEBINAR-CENTRIC traffic model — specific, tested heuristics for driving paid traffic to weekly webinars. The Negative CAC model (thank-you page OTOs covering ad spend) and No Sunday ads rule are uniquely actionable. Complements Frank Kern's Facebook/YouTube depth with RB's funnel-traffic integration perspective."
 
 # ═══════════════════════════════════════════════════════════════════════════════
 # EXPERTS (7 real persons + 8 functional agents)
@@ -278,6 +307,29 @@ filosofias:
     fonte: "scale-optimizer"
     conceito: "Scaling Discipline"
     peso: 0.70
+
+  # --- Jordan Belfort SLM Traffic Filosofias ---
+
+  - id: "TF-FIL-031"
+    conteudo: "Traffic is the lifeblood of any business — without eyeballs, nothing else matters. Master traffic FIRST, optimize everything else second."
+    fonte: "jordan-belfort"
+    conceito: "Traffic Primacy"
+    peso: 0.75
+    ref: "FIL-JB-SLM (SLM M5)"
+
+  - id: "TF-FIL-032"
+    conteudo: "Message-Market-Media match is everything — Dan Kennedy's Marketing Triangle applied to traffic. Wrong message to right market on right media = zero results."
+    fonte: "jordan-belfort"
+    conceito: "Marketing Triangle"
+    peso: 0.75
+    ref: "FIL-JB-SLM (SLM M5)"
+
+  - id: "TF-FIL-033"
+    conteudo: "Retargeting is online looping — the same principle that works in person (loop back to build certainty) works in ads. Follow non-buyers with certainty-building content."
+    fonte: "jordan-belfort"
+    conceito: "Online Looping = Retargeting"
+    peso: 0.75
+    ref: "FIL-JB-SLM (SLM M7)"
 
 # ═══════════════════════════════════════════════════════════════════════════════
 # L2: MODELOS MENTAIS (20 elementos)
@@ -811,6 +863,48 @@ heuristicas:
     metrica: "7d/1d / 30d / 7d"
     peso: 0.70
 
+  # --- Jordan Belfort SLM Traffic Heuristics ---
+
+  - id: "TF-HEUR-052"
+    conteudo: "11 traffic channels to evaluate — paid search, paid social, display, native, YouTube, SEO, email, affiliate, JV, offline events, direct mail. Score each on cost, speed, scalability, targeting precision."
+    fonte: "jordan-belfort"
+    expert: "Jordan Belfort"
+    metrica: "11 channels"
+    peso: 0.75
+    ref: "HEUR-JB-SLM (SLM M5)"
+
+  - id: "TF-HEUR-052B"
+    conteudo: "Customer Avatar Template: demographics + psychographics + pain points + desired outcome + media consumption + buying triggers. Traffic targeting is only as good as your avatar specificity."
+    fonte: "jordan-belfort"
+    expert: "Jordan Belfort"
+    metrica: "6 dimensions"
+    peso: 0.75
+    ref: "HEUR-JB-SLM (SLM M5)"
+
+  - id: "TF-HEUR-053"
+    conteudo: "Retargeting = online looping: show non-buyers ads that build certainty on the weakest of their Three Tens. Segment retargeting by page visited (opt-in page = low certainty, checkout = high certainty, different messages)."
+    fonte: "jordan-belfort"
+    expert: "Jordan Belfort"
+    metrica: "3 segments"
+    peso: 0.75
+    ref: "HEUR-JB-SLM (SLM M7)"
+
+  - id: "TF-HEUR-054"
+    conteudo: "Competitive intelligence for traffic: analyze competitor ads (Facebook Ad Library), landing pages, funnel structure, offer stack, and retargeting sequences. Reverse-engineer what's working, then improve with your Straight Line principles."
+    fonte: "jordan-belfort"
+    expert: "Jordan Belfort"
+    metrica: "5 analysis dimensions"
+    peso: 0.70
+    ref: "HEUR-JB-SLM (SLM M8)"
+
+  - id: "TF-HEUR-055"
+    conteudo: "Offline-to-online hybrid: use events, seminars, and direct mail to drive traffic to online funnels. Offline credibility + online scalability = best of both worlds."
+    fonte: "jordan-belfort"
+    expert: "Jordan Belfort"
+    metrica: "hybrid model"
+    peso: 0.70
+    ref: "HEUR-JB-SLM (SLM M9)"
+
 # ═══════════════════════════════════════════════════════════════════════════════
 # L4: FRAMEWORKS (17 elementos)
 # ═══════════════════════════════════════════════════════════════════════════════
@@ -1054,6 +1148,40 @@ frameworks:
       - "5. Geography — Cut low-performing geos"
       - "6. Age/Gender — Exclude non-converting demos"
     aplicacao: "Recuperar 10-30% de budget desperdiçado"
+
+  # --- Jordan Belfort SLM Traffic Frameworks ---
+
+  - id: "TF-FW-018"
+    nome: "Traffic Channel Selection Framework (JB SLM)"
+    fonte: "jordan-belfort"
+    expert: "Jordan Belfort"
+    peso: 0.75
+    ref: "FW-JB-SLM (SLM M5)"
+    descricao: "Systematic evaluation of 11 traffic channels using 4 scoring criteria"
+    elementos:
+      - "1. List all 11 channels: paid search, paid social, display, native, YouTube, SEO, email, affiliate, JV, offline events, direct mail"
+      - "2. Score each on COST (1-10, lower = cheaper)"
+      - "3. Score each on SPEED (1-10, higher = faster results)"
+      - "4. Score each on SCALABILITY (1-10, higher = more scalable)"
+      - "5. Score each on TARGETING PRECISION (1-10, higher = more precise)"
+      - "6. Rank by total score — start with top 2-3 channels"
+      - "7. Master one channel before adding another (Hormozi Core Four alignment)"
+    aplicacao: "Traffic strategy for new funnels, channel prioritization"
+
+  - id: "TF-FW-019"
+    nome: "Dan Kennedy Marketing Triangle (JB SLM)"
+    fonte: "jordan-belfort"
+    expert: "Jordan Belfort"
+    peso: 0.75
+    ref: "FW-JB-SLM (SLM M5)"
+    descricao: "Message-Market-Media match — all three must align for traffic to convert"
+    elementos:
+      - "1. MARKET: Who exactly are you targeting? (Customer Avatar)"
+      - "2. MESSAGE: What exactly are you saying? (aligned to their pain/desire)"
+      - "3. MEDIA: Where exactly are you reaching them? (channel selection)"
+      - "4. All three must match — wrong message to right market on right media = zero results"
+      - "5. Test by changing ONE variable at a time"
+    aplicacao: "Traffic campaign strategy, diagnosis of underperforming campaigns"
 
 # ═══════════════════════════════════════════════════════════════════════════════
 # L5: METODOLOGIAS (17 elementos)
@@ -1516,17 +1644,53 @@ platform_expertise_map:
 # ═══════════════════════════════════════════════════════════════════════════════
 
 metadata:
-  total_elementos: 185
+  total_elementos: 215
   por_camada:
-    L1_filosofias: 30
+    L1_filosofias: 33
     L2_modelos_mentais: 20
-    L3_heuristicas: 51
-    L4_frameworks: 17
+    L3_heuristicas: 55
+    L4_frameworks: 19
     L5_metodologias: 17
   extras:
     task_routing: 10
     signature_vocabulary: 14
     productive_tensions: 5
     platform_expertise_map: 6
-  experts_real: 7
+  experts_real: 9  # +jordan-belfort +russell-brunson
   experts_functional: 8
+
+# ═══════════════════════════════════════════════════════════════════════════════
+# CHANGELOG
+# ═══════════════════════════════════════════════════════════════════════════════
+
+changelog:
+  - versao: "5.0.0"
+    data: "2026-03-19"
+    mudancas:
+      - "Russell Brunson 10x Secrets Masterclass (10XS) added as new fonte (40 traffic elements — webinar-centric traffic model)"
+      - "RB especialidade: Weekly webinar promotion cycle (Mon/Tue/Wed ads → Thu live), Facebook ad cost benchmarks ($3-5/registrant), No Sunday ad rule (Sunday registrants forget by Thursday = lowest show rate), Jay Boyer thank-you page monetization (immediate post-registration revenue), Negative CAC model (thank-you page OTOs cover ad spend before webinar even runs), FB Live as traffic+conversion hybrid (organic + paid amplification), Comment moderation impact (-50% CPC when comments managed), Perfect Webinar traffic-to-funnel architecture"
+      - "RB peso_dominio: 0.80 (webinar-specific, tested heuristics — uniquely actionable benchmarks)"
+      - "RB fontes_incluidas: 10XS (40 elementos)"
+      - "total_elementos: 435 → 475"
+      - "fontes_consolidadas count: 4 → 5"
+      - "experts_real: 8 → 9"
+
+  - versao: "4.0.0"
+    data: "2026-03-18"
+    mudancas:
+      - "Jordan Belfort (SLM) added as new fonte (30 traffic elements — Traffic Secrets modules, Channel Selection Framework, Marketing Triangle)"
+      - "Frank Kern (Rainmaker Certification) added as new fonte (150 traffic elements — Facebook Level 1-3, YouTube, Media Strategy, Automation)"
+      - "total_elementos: 255 → 435"
+      - "fontes_consolidadas count: 2 → 4"
+
+  - versao: "3.0.0"
+    data: "2026-03-17"
+    mudancas:
+      - "André Chaperon (MMS) added as new fonte (70 traffic elements — SOI, organic empire, paid+SOI hybrid, TTE)"
+      - "total_elementos: 185 → 255"
+      - "fontes_consolidadas count: 1 → 2"
+
+  - versao: "1.0.0"
+    data: "2026-03-11"
+    mudancas:
+      - "Initial creation — AIOS Traffic Masters Squad (185 elementos, 15 internal agents)"

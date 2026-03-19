@@ -4,13 +4,13 @@
 # CRIADO: 2026-03-13
 # ATUALIZADO: 2026-03-17
 #
-# FONTES: Dan Kennedy (822 el) + Eugene Schwartz (115 el) + Russell Brunson (200 el) + Alex Hormozi (80 el) + Todd Brown (292 el) + Gary Halbert (297 el) + André Chaperon (120 el) + David Deutsch (218 el) + Ry Schwartz (150 el) + John Carlton (261 el)
+# FONTES: Dan Kennedy (822 el) + Eugene Schwartz (115 el) + Russell Brunson (240 el) + Alex Hormozi (80 el) + Todd Brown (292 el) + Gary Halbert (297 el) + André Chaperon (120 el) + David Deutsch (218 el) + Ry Schwartz (150 el) + John Carlton (261 el) + Clayton Makepeace (633 el) + Jordan Belfort (45 el) + Donald Miller (90 el) + Robert Cialdini (50 el)
 # ═══════════════════════════════════════════════════════════════════════════════
 
 dominio: "copywriting"
-versao: "13.0.0"
+versao: "21.0.0"  # OK Robert Cialdini persuasion-psychology added
 criado_em: "2026-03-13"
-atualizado_em: "2026-03-17"
+atualizado_em: "2026-03-19"
 
 fontes_consolidadas:
   - fonte: "dan-kennedy"
@@ -33,8 +33,11 @@ fontes_consolidadas:
     peso_dominio: 0.85
     path: "/knowledge/external/dna/persons/russell-brunson/"
     raiz: "/knowledge/external/sources/russell-brunson/raw/"
-    contribuicao_principal: "Hook-Story-Offer, Perfect Webinar copy, email sequences"
-    elementos_relevantes: 200
+    contribuicao_principal: "Hook-Story-Offer framework, Perfect Webinar copy architecture (webinar slide copy: headline structure, transition language, stack slide scripts), OTO copy structure (one-time offer sequencing and urgency language), trial close language patterns (embedded yeses throughout presentation copy), subconscious selling phrases (NLP-adjacent patterns — 'all you need to do', 'the only question is'), 'You're probably thinking' objection copy (mirror-and-lead objection language pre-emption), Include/Exclude slide copy (build vs don't-build contrast stack), earnings disclaimer as rapport-building (transparency as conversion tool), email sequences, Secret Title Formula ('[outcome] even if [fear]'), affiliate promo copy"
+    elementos_relevantes: 240
+    fontes_incluidas:
+      - "Legacy sources (190 elementos — Hook-Story-Offer, Perfect Webinar framework, email sequences, Secret Title Formula, affiliate promo copy architecture)"
+      - "10x Secrets Masterclass (50 elementos — webinar/stage copy: slide headline structures, trial close language, subconscious selling phrases, You're Probably Thinking objection copy, Include/Exclude contrast copy, earnings disclaimer as rapport, OTO copy sequencing)"
 
   - fonte: "eugene-schwartz"
     peso_dominio: 0.95
@@ -110,6 +113,53 @@ fontes_consolidadas:
     fontes_incluidas:
       - "Best Ads Collection (97 elementos — The One-Legged Golfer, The Nickel Letter, story-driven selling, fascinating character method, third-party narrator, fascination bullets, 8-Part Sales Letter Architecture)"
       - "Simple Writing System (164 elementos — 17-Step Systematic Copywriting Formula, So What? Test, Incongruous Juxtaposition hook formula, 4-Part Sales Message Template, Grease Slide, Appealometer, Anti-Writer's-Block Protocol)"
+
+  - fonte: "clayton-makepeace"
+    peso_dominio: 0.95
+    path: "/knowledge/external/dna/persons/clayton-makepeace/"
+    raiz: "/knowledge/external/sources/clayton-makepeace/raw/"
+    contribuicao_principal: "Complete copywriting mastery — CRAFT (QSCS: 30% Solution, 3 Research Keys, 13 Proof Strategies, Big Selling Idea, A-B-C Process, 6-Step Master Closer In Print, 21 Fascination Formulas, 19 Emotional Triggers, Gene Schwartz cheat sheet, 24 Lead Starters, 11 Momentum Factors) + BUSINESS (BYCB: royalty/partnership model, $4M/year methodology, Makepeace Business System, four revenue models, killer product selection, client acquisition, direct response marketing metrics mastery)"
+    elementos_relevantes: 633
+    fontes_incluidas:
+      - "Quick Start Copywriting System (245 elementos — DR 101, 3 Research Keys, offers, benefits, 13 proof strategies, Big Selling Idea (7 steps), A-B-C copy structure, headlines (6 maxims + Gene Schwartz cheat sheet), 24 lead starters, creativity, body copy, 11 momentum factors, 21 fascination bullet formulas, 6-step Master Closer In Print, 10 guarantee boosters, lift notes/sidebars/emails, swipe file system, bonding, info marketing, 19 emotional triggers (Tony Flores), colloquial expression mastery, Lessons with Masters (Carlton, Deutsch, Rutz, Petersen), Copy Autopsy video critiques)"
+      - "Building Your Copywriting Business Main Course (160 elementos — copy creation process, craft perfection, writing speed optimization, client attraction, marketer's mindset, deal structuring, contracts, lifetime client methodology)"
+      - "Six-Figure Copywriting Business (103 elementos — business-first philosophy, self-promotion as copy, fee structures, royalty negotiation, client evaluation, portfolio building, reputation leverage)"
+      - "Makepeace Business System (125 elementos — freelance vs partner model, four revenue streams, marketing metrics mastery, killer product finding, internet marketing models, business owner mindset, LTV/CPA economics)"
+
+  - fonte: "donald-miller"
+    peso_dominio: 0.85
+    path: "/knowledge/external/dna/persons/donald-miller/"
+    raiz: "/knowledge/external/sources/donald-miller/raw/"
+    contribuicao_principal: "Story-based messaging for business — BrandScript (SB7), One-Liner Formula, Landing Page Wireframe, Sales Letter Formula, PASTOR Framework (Ray Edwards), 15 Building Blocks of Sales Copy, 7 Persuasion Principles, 12-email campaign architecture, clarity-first copywriting philosophy, value stacking, grunt test, cocktail party test"
+    elementos_relevantes: 90
+    fontes_incluidas:
+      - "Sell With Story (40 elementos — BrandScript 7-element copy grid, One-Liner formula, Landing Page Wireframe 8 sections, Sales Letter structure, Email Campaign Types 5 templates, Pink Highlighter Audit, Red Sharpie Brand Audit, cut-in-half editing rule)"
+      - "StoryBrand Marketing Report (50 elementos — PASTOR Framework, 7 Persuasion Principles, 15 Building Blocks of Sales Copy, 12-email campaign structure, lead generator architecture, 5 PDF types, reciprocity engine, campaign execution sequence, case studies: FITZEE 118%, Legacy 1300 enrollments, StoryBrand $250K→$1.3M, Concierge $800K→$2.3M)"
+
+  - fonte: "jordan-belfort"
+    peso_dominio: 0.80
+    path: "/knowledge/external/dna/persons/jordan-belfort/"
+    raiz: "/knowledge/external/sources/jordan-belfort/raw/"
+    contribuicao_principal: "Sales letter copywriting via Straight Line principles — 6-Step Sales Letter Formula, Pre-Writing Framework (SLP-to-Copy Translation), Story Formula for copy, Script-to-Letter Conversion methodology, headline writing, 3 Pain Points Rule, 3 Objections Rule, Done-For-You Sales Scripts (9 scripts across Forex, Hedge Fund, Solar, Stock Market) + SLPFT copywriting-adjacent: scripting methodology, Power Language Patterns, tonality-enhanced delivery"
+    elementos_relevantes: 45
+    fontes_incluidas:
+      - "Straight Line Marketing (35 elementos — 6-Step Sales Letter Formula, Pre-Writing Framework, SLP-to-Copy Translation, Story Formula, Script-to-Letter Conversion, 3 Pain Points Rule, 3 Objections Rule, DFY Scripts: Forex/Hedge Fund/Solar/Stock Market)"
+      - "Straight Line Persuasion Fast Track (10 elementos — scripting methodology, Power Language Patterns, tonality-enhanced delivery as written formatting principles)"
+
+  - fonte: "robert-cialdini"
+    peso_dominio: 0.70
+    path: "/knowledge/external/dna/persons/robert-cialdini/"
+    raiz: "/knowledge/external/sources/robert-cialdini/raw/"
+    contribuicao_principal: "Persuasion psychology applied to copy — headline contrast, social proof copy formulas, authority signals, weakness-first copy strategy, scarcity language, loss framing conversion"
+    elementos_relevantes: 50
+    fontes_incluidas:
+      - "Ethical Influence Practitioner Program (50 elementos — persuasion-psychology, headline-contrast, social-proof-copy, authority-signals, weakness-first-copy, scarcity-language, loss-framing-copy)"
+    key_frameworks:
+      - "Weakness-First Strategy (weakness→but→strength — presenting weakness before strength increases credibility)"
+      - "Loss Framing Conversion (framing offers in terms of what prospect stands to lose)"
+      - "Social Proof 3-Part Formula (structured social proof deployment in copy)"
+      - "Review Optimization (4.2-4.7 star / 89% optimal — imperfect proof outperforms perfect)"
+    nota: "Added 2026-03-19. Cialdini's contribution is PSYCHOLOGICAL — he provides the scientific evidence behind why copy techniques work. His Weakness-First Strategy and Review Optimization data give copywriters evidence-based rules for credibility and proof. Complements Schwartz (awareness levels), Makepeace (proof strategies), and Halbert (arithmetic validation) by adding behavioral science rigor."
 
 # ═══════════════════════════════════════════════════════════════════════════════
 # FILOSOFIAS
@@ -211,6 +261,16 @@ filosofias:
     fonte: "eugene-schwartz" | ref: "FIL-ES-011 (BB)"
     peso: 0.85
 
+  - id: "FIL-COPY-020"
+    filosofia: "A sales letter IS a Straight Line presentation in written form — the same Three Tens certainty, the same looping, the same tonality (via word choice and formatting). The 6-Step Sales Letter Formula translates the Straight Line Persuasion system into copy."
+    fonte: "jordan-belfort" | ref: "FIL-JB-SLM (SLM)"
+    peso: 0.85
+
+  - id: "FIL-COPY-021"
+    filosofia: "Every sales letter must address exactly 3 pain points and pre-empt exactly 3 objections — fewer = incomplete persuasion, more = diluted focus. The Rule of Three is the copywriter's discipline."
+    fonte: "jordan-belfort" | ref: "FIL-JB-SLM (SLM)"
+    peso: 0.80
+
 # ═══════════════════════════════════════════════════════════════════════════════
 # HEURÍSTICAS (com números)
 # ═══════════════════════════════════════════════════════════════════════════════
@@ -275,6 +335,18 @@ heuristicas:
   - id: "HEUR-COPY-015"
     heuristica: "13 formas de intensificar desejo no body copy — cada técnica multiplica o impacto emocional sem inventar desejo novo"
     tipo: numeric | fonte: "eugene-schwartz" | ref: "FW-ES-004, HEUR-ES-010"
+
+  - id: "HEUR-COPY-016"
+    heuristica: "6-Step Sales Letter Formula: Headline → Story/Hook → 3 Pain Points → Solution Presentation → 3 Objection Pre-emptions → Close with urgency. Follows Straight Line sequence in print."
+    tipo: numeric | fonte: "jordan-belfort" | ref: "FW-JB-SLM (SLM)"
+
+  - id: "HEUR-COPY-017"
+    heuristica: "3 Pain Points + 3 Objections Rule: every sales letter MUST address exactly 3 core pains and pre-empt exactly 3 likely objections — the Rule of Three for maximum persuasion density"
+    tipo: numeric | fonte: "jordan-belfort" | ref: "HEUR-JB-SLM (SLM)"
+
+  - id: "HEUR-COPY-018"
+    heuristica: "9 Done-For-You Scripts across verticals (Forex, Hedge Fund, Solar, Stock Market) — templates for translating Straight Line Persuasion into specific niche sales copy"
+    tipo: numeric | fonte: "jordan-belfort" | ref: "MET-JB-SLM (SLM)"
 
 # ═══════════════════════════════════════════════════════════════════════════════
 # FRAMEWORKS CORE
@@ -482,6 +554,31 @@ frameworks:
     fonte: "eugene-schwartz" | ref: "FW-ES-019 (BB)"
     peso: 0.85
 
+  # ═══════════════════════════════════════════════════════════════════════════
+  # JORDAN BELFORT FRAMEWORKS (SLM — Straight Line in copy form)
+  # ═══════════════════════════════════════════════════════════════════════════
+
+  - id: "FW-COPY-033"
+    nome: "6-Step Sales Letter Formula (JB SLM)"
+    passos: "1. Headline (pattern-interrupt + curiosity + benefit) → 2. Story/Hook (establish rapport via narrative, build certainty on YOU) → 3. Three Pain Points (identify, agitate, make visceral) → 4. Solution Presentation (build certainty on PRODUCT) → 5. Three Objection Pre-emptions (handle before they arise) → 6. Close (urgency + guarantee + clear CTA)"
+    fonte: "jordan-belfort" | ref: "FW-JB-SLM (SLM)"
+    peso: 0.85
+    nota: "The Straight Line Persuasion system translated into sales copy. Each step maps to a phase of the in-person Straight Line."
+
+  - id: "FW-COPY-034"
+    nome: "Pre-Writing Framework / SLP-to-Copy Translation (JB SLM)"
+    passos: "1. Map your Straight Line Presentation script → 2. Identify the Three Tens for your product → 3. List 3 pain points (from qualification) → 4. List 3 likely objections (from looping experience) → 5. Write Story/Hook that builds certainty on YOU → 6. Translate each SLP section into sales letter section"
+    fonte: "jordan-belfort" | ref: "MET-JB-SLM (SLM)"
+    peso: 0.80
+    nota: "Bridge methodology — turns a phone/in-person script into a sales letter. Unique to JB's system."
+
+  - id: "FW-COPY-035"
+    nome: "Script-to-Letter Conversion (JB SLM)"
+    passos: "1. Take existing sales script (phone/video) → 2. Convert spoken tonality markers to written formatting (bold, italics, caps) → 3. Convert verbal looping to written objection pre-emptions → 4. Convert verbal Three Tens building to written proof/testimonials → 5. Add written urgency elements (countdown, scarcity, bonuses)"
+    fonte: "jordan-belfort" | ref: "MET-JB-SLM (SLM)"
+    peso: 0.80
+    nota: "Practical conversion methodology for teams that sell by phone and want to add sales letters."
+
 # ═══════════════════════════════════════════════════════════════════════════════
 # TENSÕES ENTRE FONTES
 # ═══════════════════════════════════════════════════════════════════════════════
@@ -517,6 +614,56 @@ tensoes:
 # ═══════════════════════════════════════════════════════════════════════════════
 
 changelog:
+  - versao: "20.0.0"
+    data: "2026-03-19"
+    mudancas:
+      - "Russell Brunson 10x Secrets Masterclass (10XS) copy elements integrated — +50 copy elements"
+      - "RB contribuicao_principal expanded with 10XS specifics: webinar slide copy (headline structures, transition language, stack slide scripts), OTO copy structure, trial close language patterns (embedded yeses), subconscious selling phrases (NLP-adjacent: 'all you need to do', 'the only question is'), 'You're probably thinking' objection copy, Include/Exclude slide copy (build vs don't-build contrast stack), earnings disclaimer as rapport-building"
+      - "RB elementos_relevantes: 200 → 240"
+      - "RB fontes_incluidas added: legacy sources (190 el) + 10XS (50 el)"
+      - "Header comment updated: Russell Brunson 200 → 240"
+
+  - versao: "19.0.0"
+    data: "2026-03-18"
+    mudancas:
+      - "Donald Miller SBMR (StoryBrand Marketing Report) integrated — +50 copywriting elements"
+      - "DM elementos_relevantes: 40 → 90 (SWS + SBMR)"
+      - "DM peso_dominio: 0.80 → 0.85 (PASTOR Framework + Ray Edwards adds significant copy methodology)"
+      - "New frameworks: PASTOR Framework (Ray Edwards), 7 Persuasion Principles, 15 Building Blocks of Sales Copy"
+      - "New email methodology: 12-email campaign structure, 7 sins/7 needs/7 keys of email marketing"
+      - "Case studies: FITZEE 118%, Legacy Traditional 1300 enrollments, StoryBrand $250K→$1.3M, Concierge $800K→$2.3M"
+
+  - versao: "17.0.0"
+    data: "2026-03-18"
+    mudancas:
+      - "Jordan Belfort SLPFT (Straight Line Persuasion Fast Track) copywriting-adjacent elements integrated"
+      - "JB DNA v3.0.0→v4.0.0, total elements 483→528 (+45 SLPFT elements)"
+      - "SLPFT adds: scripting methodology, Power Language Patterns, tonality-enhanced delivery (translates to written formatting principles)"
+      - "JB copywriting elements: 35→45 (+10 from SLPFT)"
+      - "JB fontes_incluidas: added SLPFT (10 copywriting-relevant elements)"
+
+  - versao: "16.0.0"
+    data: "2026-03-18"
+    mudancas:
+      - "Jordan Belfort SLM (Straight Line Marketing) integrado como nova fonte (35 copywriting elements)"
+      - "JB SLM = sales letter copywriting via Straight Line principles: 6-Step Sales Letter Formula, Pre-Writing Framework, SLP-to-Copy Translation, Script-to-Letter Conversion, 3 Pain Points Rule, 3 Objections Rule, 9 DFY Scripts"
+      - "+2 filosofias (FIL-COPY-020: SL=copy translated, FIL-COPY-021: Rule of Three)"
+      - "+3 heurísticas (HEUR-COPY-016: 6-Step formula, HEUR-COPY-017: 3+3 rule, HEUR-COPY-018: 9 DFY scripts)"
+      - "+3 frameworks (FW-COPY-033: 6-Step Sales Letter Formula, FW-COPY-034: Pre-Writing/SLP-to-Copy, FW-COPY-035: Script-to-Letter Conversion)"
+      - "JB peso_dominio: 0.80 (strong on sales letter copywriting, less on editorial/brand copy)"
+      - "Total fontes: 11 → 12"
+
+  - versao: "15.0.0"
+    data: "2026-03-17"
+    mudancas:
+      - "Clayton Makepeace QSCS integrado: elementos 388→633 (+245 novos elementos do Quick Start Copywriting System)"
+      - "QSCS = complete copywriting CRAFT course: 30% Solution, 3 Research Keys, 13 Proof Strategies, Big Selling Idea (7 steps), A-B-C Copy Process, 6 Headline Maxims + Gene Schwartz cheat sheet, 24 Lead Starters, 11 Momentum Factors, 21 Fascination Bullet Formulas, 6-Step Master Closer In Print, 10 Guarantee Boosters, 19 Emotional Triggers (Tony Flores), Swipe File System"
+      - "CM peso_dominio increased 0.90→0.95 (QSCS is a complete copywriting system — highest weighted for craft alongside DK, GH, ES)"
+      - "CM fontes_incluidas: adicionado QSCS (245 elementos), total now 4 sub-sources"
+      - "Lessons with the Masters: John Carlton, David Deutsch, Jim Rutz, Brad Petersen interviews"
+      - "Video Training: Copy Autopsy (3 live critiques), Graphic Design Secrets, Getting Inside Prospect's Brain (with Carlton)"
+      - "Swipe Files: Brad Petersen, Carline Anglade-Cole, Kent Komae, Parris Lampropoulos, Robert Hutchinson"
+
   - versao: "13.0.0"
     data: "2026-03-17"
     mudancas:

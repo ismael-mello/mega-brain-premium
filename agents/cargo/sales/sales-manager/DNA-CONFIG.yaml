@@ -6,8 +6,26 @@
 # Template: DNA-CONFIG-V2 (100% rastreabilidade)
 
 cargo: "SALES-MANAGER"
-versao: "3.4.0"
+versao: "4.4.0"
 nivel: "SALES"
+# v4.4.0 (2026-03-19): Added robert-cialdini (team-influence, ethical-persuasion, commitment-psychology, coaching-persuasion) — EIPP pipeline, peso 0.75
+#   Key RC for SM: 6 Principles of Influence (train teams on influence principles), Commitment & Consistency (coaching framework),
+#   Ethical Persuasion (ensure reps use influence ethically), Pre-Suasion (pre-call framing methodology)
+# v4.3.0 (2026-03-19): Added russell-brunson (10XS — webinar-team-operations, repitch-methodology, weekly-webinar-cycle, event-choreography) — 1013 el DNA, peso 0.65
+# v4.2.0 (2026-03-18): Added chris-voss (negotiation-training, tactical-empathy-coaching, team-methodology) — 93 el DNA, peso 0.70
+#   Key CV for SM: Ackerman Model (train reps on structured bargaining), Behavioral Change Stairway (coaching framework),
+#   Accusation Audit (train for objection prevention), 5 Voice Types (call quality coaching), Calibrated Questions (discovery training),
+#   3 Negotiator Types (profile reps and prospects), Rule of Three (implementation coaching), Deception Detection (pipeline quality)
+# v4.1.0 (2026-03-18): Added donald-miller (PASTOR-framework, email-nurture, persuasion-principles, sales-letters) — 75 el DNA, peso 0.60
+#   Key DM for SM: PASTOR Framework (train reps on structured sales letter writing), 7 Persuasion Principles (coaching framework),
+#   12-Email Campaign Architecture (email nurture methodology for follow-up sequences), 85% Nurture Conversion heuristic
+# v4.0.0 (2026-03-18): Added oren-klaff (STRONG-method-training, pitch-deck-optimization, pre-pitch-checklist, SCARF-leadership, coaching-methodology) — 272 el DNA, peso 0.70
+#   Key OK for SM: STRONG method training (teach reps to pitch), Pitch Deck Optimization, Pre-Pitch Checklist,
+#   SCARF leadership model (Status/Certainty/Autonomy/Relatedness/Fairness), coaching methodology for pitch skills
+# v3.9.0 (2026-03-18): jordan-belfort DNA v5.0.0 (SLSP added — 658 el, 5 sources)
+#   Key SLSP for SM: Sales Team State Management (Stratton Model), 4 Levels of Standards (team assessment),
+#   Ducks vs Eagles (team profiling), Script Building Methodology, Sales Funnel Diagnostic,
+#   Referral System, Customer for Life strategies, 4 Buying Archetypes (lead qualification)
 
 # ═══════════════════════════════════════════════════════════════════
 # DNA AGREGADO (multi-fonte) - ADICIONADO BUG #1 FIX 2026-01-10
@@ -189,6 +207,119 @@ dna_primario:
         aplicacao: "Modelo de benchmark: vendas inbound com decisão-maker ligando são 3x mais eficientes"
         ref: "FW-DK-016, HEUR-DK-033"
 
+  - pessoa: "jordan-belfort"
+    peso: 0.90
+    dominios_absorvidos:
+      - "Sales Team Training (Straight Line)"
+      - "Diagnostics (Three Tens Assessment)"
+      - "Scripting Methodology (Straight Line Scripts)"
+      - "Standards (Close Rate Benchmarks)"
+      - "Vision & State Management"
+      - "Tonality Training (29 Tonal Patterns)"
+      - "Sales Funnel Management (SLM)"           # SLM 2026-03-18
+      - "Traffic ROI Analysis (SLM)"               # SLM 2026-03-18
+      - "SLP-to-Copy Training (SLM)"               # SLM 2026-03-18
+      - "Competitive Intelligence Methodology (SLM)" # SLM 2026-03-18
+      - "Prospecting Training (SLP)"              # SLP 2026-03-18
+      - "Sales Metrics & Performance (SLP)"        # SLP 2026-03-18
+      - "Skill Acquisition Framework (SLP)"        # SLP 2026-03-18
+      - "Fast Track Spaced Repetition (SLPFT)"      # SLPFT 2026-03-18
+      - "Reason vs Results People Diagnostic (SLPFT)" # SLPFT 2026-03-18
+      - "4 Universal Obstacles (SLPFT)"              # SLPFT 2026-03-18
+      - "State Management Pre-Call Ritual (SLPFT)"   # SLPFT 2026-03-18
+      - "10-Point Broke Diagnostic (SLPFT)"          # SLPFT 2026-03-18
+    path: "/knowledge/external/dna/persons/jordan-belfort"
+    raiz: "/knowledge/external/sources/jordan-belfort/raw/"
+    justificativa: "Straight Line System é o framework de treinamento de vendas mais estruturado — Sales Manager usa para onboarding, scripting, QC, diagnostics, funnel management, traffic ROI, team training on SLP-to-copy, prospecting training, skill acquisition, performance metrics, AND Fast Track spaced repetition training, Reason vs Results diagnostic, 4 Universal Obstacles, state management pre-call ritual, 10-Point Broke Diagnostic for team assessment"
+    added: "2026-03-18"
+    updated: "2026-03-18"
+    insights_adicionais:
+      # --- SLSC4 (original) ---
+      - id: "JB-SLS001"
+        tema: "Straight Line Training System"
+        descricao: "Sistema completo de treinamento de vendedores: scripts → tonalidade → looping → rebuttals → state management"
+        aplicacao: "Onboarding de novos vendedores em 2-3 semanas usando SLC4 curriculum"
+      - id: "JB-DIAG001"
+        tema: "Three Tens Diagnostics"
+        descricao: "Diagnosticar performance do vendedor verificando qual dos Three Tens (product/you/company) está fraco"
+        aplicacao: "QC de calls — identificar onde o vendedor perde o prospect na escala de certeza"
+      - id: "JB-SCRIPT001"
+        tema: "Scripting via Straight Line"
+        descricao: "Scripts são a fundação — memorizar, praticar, internalizar. Liberdade só depois de dominar o script."
+        aplicacao: "Sales Manager define scripts baseados no Straight Line, vendedor pratica até naturalidade"
+      - id: "JB-STATE001"
+        tema: "State Management Training"
+        descricao: "Olfactory anchoring, physiology, vision board, certainty anchoring — treinar estado ANTES de ligar"
+        aplicacao: "Ritual matinal do time de vendas — anchoring + estado antes das calls"
+      # --- SLM (added 2026-03-18) ---
+      - id: "JB-SLM-FUNNEL001"
+        tema: "Sales Funnel Management"
+        descricao: "6-Step SLM Funnel aplicado a gestão de pipeline — Awareness→Interest→Desire→Action→Retention→Referral como framework de pipeline stages"
+        aplicacao: "Sales Manager mapeia pipeline do time usando estágios SLM — diagnóstico de onde prospects travam"
+        source: "Straight Line Marketing (SLM)"
+      - id: "JB-SLM-ROI001"
+        tema: "Traffic ROI Analysis"
+        descricao: "Análise de ROI por canal de tráfego — qual canal gera leads mais qualificados para o time de vendas"
+        aplicacao: "Sales Manager alinha com marketing sobre quality de leads por canal — dados para pedir reallocation de budget"
+        source: "Straight Line Marketing (SLM)"
+      - id: "JB-SLM-COPY001"
+        tema: "SLP-to-Copy Training"
+        descricao: "Treinar vendedores a aplicar princípios SLP em copy de follow-up, proposals, e mensagens escritas"
+        aplicacao: "Sales Manager treina time para escrever follow-ups que vendem — SLP tonalidade traduzida para texto"
+        source: "Straight Line Marketing (SLM)"
+      - id: "JB-SLM-CI001"
+        tema: "Competitive Intelligence Methodology"
+        descricao: "Swipe → Analyze → Adapt → Differentiate — processo sistemático de análise competitiva"
+        aplicacao: "Sales Manager usa para treinar time em conhecimento de mercado — saber o que concorrentes oferecem"
+        source: "Straight Line Marketing (SLM)"
+      # --- SLP (added 2026-03-18) ---
+      - id: "JB-SLP-PROSP001"
+        tema: "Prospecting Training System"
+        descricao: "Systematic prospecting methodology — qualifying in 90 seconds, gatekeeper penetration, intelligence gathering loop"
+        aplicacao: "Sales Manager trains SDRs/BDRs on SLP prospecting: qualify fast, penetrate gatekeepers, gather intelligence before handoff"
+        source: "Straight Line Persuasion (SLP)"
+      - id: "JB-SLP-METRICS001"
+        tema: "Sales Metrics & Performance Diagnostics"
+        descricao: "Three Tens diagnostic applied to team performance — identify which dimension (product/rep/company) each rep is weak on"
+        aplicacao: "Sales Manager uses Three Tens as QC diagnostic: listen to calls, score each dimension, targeted coaching per rep"
+        source: "Straight Line Persuasion (SLP)"
+      - id: "JB-SLP-SKILL001"
+        tema: "Skill Acquisition Framework"
+        descricao: "SLP skill-building progression: script mastery → tonality calibration → inner game → looping → advanced closing"
+        aplicacao: "Sales Manager structures onboarding curriculum using SLP progression — each skill builds on previous"
+        source: "Straight Line Persuasion (SLP)"
+      - id: "JB-SLP-PERF001"
+        tema: "Performance Improvement Protocol"
+        descricao: "Diagnose → Drill → Deploy — identify weakness via Three Tens, drill specific skill, deploy in live calls with QC monitoring"
+        aplicacao: "Sales Manager uses for underperforming reps — targeted intervention instead of generic training"
+        source: "Straight Line Persuasion (SLP)"
+      # --- SLPFT (added 2026-03-18) ---
+      - id: "JB-SLPFT-SPACED001"
+        tema: "Fast Track Spaced Repetition"
+        descricao: "Spaced repetition training method for accelerated sales skill internalization — short, repeated drills over days vs marathon sessions"
+        aplicacao: "Sales Manager structures daily 15-min drill sessions using spaced repetition — faster skill retention than multi-hour training blocks"
+        source: "Straight Line Persuasion Fast Track (SLPFT)"
+      - id: "JB-SLPFT-RVSR001"
+        tema: "Reason vs Results People Diagnostic"
+        descricao: "Diagnostic to classify reps as 'Reason People' (excuse-makers) vs 'Results People' (outcome-focused) — determines coaching approach"
+        aplicacao: "Sales Manager uses to diagnose underperformers: Reason People get accountability + mindset work, Results People get advanced tactics"
+        source: "Straight Line Persuasion Fast Track (SLPFT)"
+      - id: "JB-SLPFT-4UO001"
+        tema: "4 Universal Obstacles"
+        descricao: "4 obstacles every salesperson faces — identify which obstacle is blocking each rep for targeted intervention"
+        aplicacao: "Sales Manager uses as diagnostic checklist in 1:1s — which of the 4 obstacles is this rep stuck on?"
+        source: "Straight Line Persuasion Fast Track (SLPFT)"
+      - id: "JB-SLPFT-PRECALL001"
+        tema: "State Management Pre-Call Ritual"
+        descricao: "Structured pre-call state management ritual — anchoring + physiology + visualization sequence before every sales session"
+        aplicacao: "Sales Manager implements mandatory pre-call ritual for team — 5-min anchoring sequence before daily call blocks"
+        source: "Straight Line Persuasion Fast Track (SLPFT)"
+      - id: "JB-SLPFT-BROKE001"
+        tema: "10-Point Broke Diagnostic"
+        descricao: "10-point diagnostic checklist to assess why a rep is underperforming — covers mindset, skills, habits, environment, and systems"
+        aplicacao: "Sales Manager uses as comprehensive assessment tool for struggling reps — systematic diagnosis before prescribing fix"
+        source: "Straight Line Persuasion Fast Track (SLPFT)"
+
   - pessoa: "jeremy-haynes"
     peso: 0.65
     dominios_absorvidos:
@@ -225,6 +356,132 @@ dna_primario:
         tema: "Meeting Rhythm para Sales Team"
         descricao: "QSP trimestral + Weekly Check-in + 1:1 semanal. Ad hoc meetings = planning failure."
         aplicacao: "Se time pede muita reunião fora do ritmo, algo está errado no sistema."
+
+  - pessoa: "oren-klaff"
+    peso: 0.70
+    dominios_absorvidos:
+      - "STRONG Method Training"
+      - "Pitch Deck Optimization"
+      - "Pre-Pitch Checklist"
+      - "SCARF Leadership Model"
+      - "Coaching Methodology (Pitch Skills)"
+      - "Frame Control Training"
+    path: "/knowledge/external/dna/persons/oren-klaff"
+    raiz: "/knowledge/external/sources/oren-klaff/raw/"
+    justificativa: "STRONG method for training reps to pitch effectively, pitch deck optimization for sales presentations, pre-pitch checklist for call prep, SCARF model for team leadership (Status/Certainty/Autonomy/Relatedness/Fairness), coaching methodology for developing pitch skills across the team"
+    added: "2026-03-18"
+    insights_adicionais:
+      - id: "OK-STRONG001"
+        tema: "STRONG Method Training"
+        descricao: "Set frame → Tell story → Reveal intrigue → Offer prize → Nail hookpoint → Get decision — teachable framework for rep pitching skills"
+        aplicacao: "Sales Manager trains reps on STRONG method as structured pitch framework — each step is drillable in role play"
+      - id: "OK-PITCH001"
+        tema: "Pitch Deck Optimization"
+        descricao: "Systematic pitch deck architecture — frame → hook → intrigue → prize framing → decision architecture"
+        aplicacao: "Sales Manager reviews and optimizes team pitch decks using Klaff's structure — standardize deck flow"
+      - id: "OK-PREPITCH001"
+        tema: "Pre-Pitch Checklist"
+        descricao: "Structured pre-pitch preparation — status alignment, frame selection, hook identification, intrigue points, prize framing"
+        aplicacao: "Sales Manager implements mandatory pre-pitch checklist for team — every call prep follows this structure"
+      - id: "OK-SCARF001"
+        tema: "SCARF Leadership Model"
+        descricao: "Status, Certainty, Autonomy, Relatedness, Fairness — 5 domains of social threat/reward that drive team behavior"
+        aplicacao: "Sales Manager uses SCARF to diagnose team dynamics — which domain is threatened when performance drops?"
+      - id: "OK-COACH001"
+        tema: "Pitch Coaching Methodology"
+        descricao: "Coaching reps on frame control, status alignment, and hook point delivery — observable and measurable pitch skills"
+        aplicacao: "Sales Manager uses in 1:1s and QC reviews — score rep pitches on frame control, hook clarity, status dynamics"
+
+  - pessoa: "donald-miller"
+    peso: 0.60
+    dominios_absorvidos:
+      - "PASTOR Framework (Sales Letter Training)"
+      - "7 Persuasion Principles (Coaching)"
+      - "Email Nurture Methodology"
+      - "Sales Copy Structure"
+      - "Objection Handling via Email"
+    path: "/knowledge/external/dna/persons/donald-miller"
+    raiz: "/knowledge/external/sources/donald-miller/raw/"
+    justificativa: "PASTOR Framework for training reps on structured sales letter writing, 7 Persuasion Principles as coaching framework for sales conversations, email nurture methodology for follow-up sequences, sales copy structure for proposals and written communication"
+    added: "2026-03-18"
+    insights_adicionais:
+      - id: "DM-PASTOR001"
+        tema: "PASTOR Framework for Sales Training"
+        descricao: "Problem → Amplify → Story → Transformation → Offer → Response — structured framework for sales letter and email writing"
+        aplicacao: "Sales Manager trains reps to write follow-up emails and proposals using PASTOR structure — consistent, story-driven sales communication"
+        ref: "FW-DM-013"
+      - id: "DM-7PERS001"
+        tema: "7 Persuasion Principles"
+        descricao: "Reciprocity, commitment, social proof, authority, liking, scarcity, urgency — systematic persuasion framework"
+        aplicacao: "Sales Manager uses as coaching framework — teach reps to identify and apply persuasion principles in calls and follow-ups"
+        ref: "FW-DM-014"
+      - id: "DM-NURTURE001"
+        tema: "12-Email Campaign Architecture"
+        descricao: "Complete 12-email nurture sequence using StoryBrand framework — from welcome to close"
+        aplicacao: "Sales Manager implements as standard follow-up sequence — reps use email templates aligned with nurture methodology"
+        ref: "FW-DM-015"
+      - id: "DM-85PCT001"
+        tema: "85% Nurture Conversion"
+        descricao: "Email nurture campaigns convert 85% of eventual buyers — most won't buy on first touch"
+        aplicacao: "Sales Manager uses as benchmark — train reps that follow-up IS the sale, not the first call"
+        ref: "HEUR-DM-020"
+
+  - pessoa: "russell-brunson"
+    peso: 0.65
+    dominios_absorvidos:
+      # 10XS enrichment 2026-03-19
+      - "webinar-team-operations"
+      - "repitch-methodology"
+      - "weekly-webinar-cycle"
+      - "event-choreography"
+    path: "/knowledge/external/dna/persons/russell-brunson"
+    raiz: "/knowledge/external/sources/russell-brunson/raw/"
+    justificativa: "10X Secrets stage/event selling methodology — Sales Manager trains and operationalizes webinar teams, manages weekly webinar cycles, runs repitch sequences for unconverted attendees, and choreographs live events for maximum closing performance"
+    added: "2026-03-19"
+    insights_adicionais:
+      - id: "RB-10XS-SM001"
+        tema: "Weekly Webinar Cycle Operations"
+        descricao: "Operational cadence for running weekly webinars: registration pipeline, show-rate optimization, live delivery, repitch sequences for no-shows and unconverted attendees"
+        aplicacao: "Sales Manager owns the weekly webinar ops cycle — from registration to close to repitch follow-up"
+        source: "10X Secrets"
+      - id: "RB-10XS-SM002"
+        tema: "Repitch Methodology"
+        descricao: "Structured repitch sequence for webinar attendees who didn't buy — tiered follow-up by engagement level (watched live vs replay vs no-show)"
+        aplicacao: "Sales Manager implements repitch playbook for the team — different tracks per attendee segment"
+        source: "10X Secrets"
+      - id: "RB-10XS-SM003"
+        tema: "Event Choreography for Closing"
+        descricao: "Stage environment design, energy management, closing window timing, and team roles during live events for maximum conversion"
+        aplicacao: "Sales Manager coordinates team roles during live events — who handles the floor, order forms, and buyer urgency"
+        source: "10X Secrets"
+
+  - pessoa: "robert-cialdini"
+    peso: 0.75
+    dominios_absorvidos:
+      - "team-influence"
+      - "ethical-persuasion"
+      - "commitment-psychology"
+      - "coaching-persuasion"
+    path: "/knowledge/external/dna/persons/robert-cialdini"
+    raiz: "/knowledge/external/sources/robert-cialdini/raw/"
+    justificativa: "Sales managers need to train teams on influence principles and ensure ethical application — Cialdini's 6 Principles as coaching framework, commitment & consistency for rep accountability, pre-suasion for pre-call methodology"
+    added: "2026-03-19"
+    insights_adicionais:
+      - id: "RC-SM001"
+        tema: "6 Principles as Coaching Framework"
+        descricao: "Train reps to identify and ethically apply reciprocity, commitment, social proof, authority, liking, and scarcity in sales conversations"
+        aplicacao: "Sales Manager uses 6 Principles as structured coaching curriculum — each principle is drillable in role play and QC-reviewable"
+        source: "Ethical Influence Practitioner Program (EIPP)"
+      - id: "RC-SM002"
+        tema: "Commitment & Consistency for Accountability"
+        descricao: "Use commitment psychology to build rep accountability — public commitments, written goals, voluntary participation drive consistency"
+        aplicacao: "Sales Manager uses commitment principle in 1:1s and team meetings — reps who commit publicly perform more consistently"
+        source: "Ethical Influence Practitioner Program (EIPP)"
+      - id: "RC-SM003"
+        tema: "Ethical Persuasion Governance"
+        descricao: "Framework for ensuring team uses influence ethically — distinguish between informing and manipulating, sustainable persuasion builds trust"
+        aplicacao: "Sales Manager monitors QC for ethical influence — flag manipulative tactics, reinforce principle-based selling"
+        source: "Ethical Influence Practitioner Program (EIPP)"
 
 # ═══════════════════════════════════════════════════════════════════
 # MATERIAIS ABSORVIDOS
@@ -520,6 +777,49 @@ rastreabilidade:
 # ═══════════════════════════════════════════════════════════════════
 
 changelog:
+  - versao: "4.3.0"
+    data: "2026-03-19"
+    mudancas:
+      - "Added russell-brunson (10X Secrets) — 1013 el DNA, peso 0.65"
+      - "NOVO: webinar-team-operations (weekly webinar cycle ops)"
+      - "NOVO: repitch-methodology (tiered repitch sequence per attendee segment)"
+      - "NOVO: weekly-webinar-cycle (registration pipeline to repitch)"
+      - "NOVO: event-choreography (team roles for live event closing)"
+      - "3 new RB-10XS insights added (RB-10XS-SM001, RB-10XS-SM002, RB-10XS-SM003)"
+
+  - versao: "3.8.0"
+    data: "2026-03-18"
+    mudancas:
+      - "Updated jordan-belfort with SLPFT — 528 el DNA v4.0.0 (was 483 v3.0.0), 4 sources (was 3)"
+      - "NOVO: Fast Track Spaced Repetition training method"
+      - "NOVO: Reason vs Results People diagnostic for team assessment"
+      - "NOVO: 4 Universal Obstacles diagnostic checklist"
+      - "NOVO: State Management Pre-Call Ritual (mandatory team ritual)"
+      - "NOVO: 10-Point Broke Diagnostic for comprehensive rep assessment"
+      - "5 new SLPFT insights added (JB-SLPFT-SPACED001, JB-SLPFT-RVSR001, JB-SLPFT-4UO001, JB-SLPFT-PRECALL001, JB-SLPFT-BROKE001)"
+      - "NEW domains: fast-track-spaced-repetition, reason-vs-results-diagnostic, universal-obstacles, state-management-ritual, broke-diagnostic"
+
+  - versao: "3.7.0"
+    data: "2026-03-18"
+    mudancas:
+      - "Updated jordan-belfort with SLP — ~436 el total (was 406)"
+      - "NOVO: Prospecting Training System (SLP qualifying, gatekeeper penetration)"
+      - "NOVO: Sales Metrics & Performance Diagnostics (Three Tens as QC diagnostic)"
+      - "NOVO: Skill Acquisition Framework (SLP progression for onboarding)"
+      - "NOVO: Performance Improvement Protocol (Diagnose→Drill→Deploy)"
+      - "NEW domains: sales-metrics, skill-acquisition, performance-improvement"
+      - "4 new SLP insights added (JB-SLP-PROSP001, JB-SLP-METRICS001, JB-SLP-SKILL001, JB-SLP-PERF001)"
+
+  - versao: "3.6.0"
+    data: "2026-03-18"
+    mudancas:
+      - "Updated jordan-belfort with SLM — 406 el DNA total (was 250)"
+      - "NOVO: Sales Funnel Management (6-Step SLM Funnel applied to pipeline)"
+      - "NOVO: Traffic ROI Analysis (channel quality analysis for lead allocation)"
+      - "NOVO: SLP-to-Copy Training (SLP tonality translated to written follow-ups)"
+      - "NOVO: Competitive Intelligence Methodology (Swipe→Analyze→Adapt→Differentiate)"
+      - "4 new SLM insights added (JB-SLM-FUNNEL001, JB-SLM-ROI001, JB-SLM-COPY001, JB-SLM-CI001)"
+
   - versao: "3.1.0"
     data: "2026-01-13"
     mudancas:

@@ -1,0 +1,105 @@
+cargo: "FRANK-KERN"
+versao: "1.0.0"
+nivel: "PERSON"
+natureza: "SOLO"
+data_criacao: "2026-03-18"
+ultima_atualizacao: "2026-03-18"
+
+constituicao:
+  path: "/agents/CONSTITUTION/BASE-CONSTITUTION.md"
+
+memoria:
+  path: "/agents/external/frank-kern/MEMORY.md"
+
+soul:
+  path: "/agents/external/frank-kern/SOUL.md"
+
+dna_sources:
+  - pessoa: "Frank Kern"
+    peso: 1.0
+    path_dna: "/knowledge/external/dna/persons/frank-kern/DNA.yaml"
+    dominios:
+      - marketing-funnels
+      - paid-advertising
+      - facebook-ads
+      - youtube-ads
+      - email-marketing
+      - scaling
+      - supersystem-architecture
+      - countdown-promotions
+      - ad-automation
+      - irresistible-offers
+      - campaign-troubleshooting
+      - retargeting
+      - audience-testing
+      - data-driven-decisions
+      - sales-processes
+      - consulting-methodology
+    raiz: "/knowledge/external/sources/frank-kern/raw/"
+    materiais_fonte:
+      - "Rainmaker Certification (105 files, 10 weeks + intro)"
+
+dna_summary:
+  total_elementos: 269
+  versao_dna: "1.0.0"
+  camadas:
+    L1_PHILOSOPHIES: 54
+    L2_MENTAL_MODELS: 48
+    L3_HEURISTICS: 72
+    L4_FRAMEWORKS: 56
+    L5_METHODOLOGIES: 39
+  proximos_ids:
+    FIL: "FIL-FK-055"
+    MM: "MM-FK-049"
+    HEUR: "HEUR-FK-073"
+    FW: "FW-FK-057"
+    MET: "MET-FK-040"
+
+dominios_primarios:
+  - paid-advertising
+  - marketing-funnels
+  - facebook-ads
+  - email-marketing
+  - youtube-ads
+
+dominios_secundarios:
+  - scaling
+  - supersystem-architecture
+  - ad-automation
+  - retargeting
+  - irresistible-offers
+  - countdown-promotions
+  - audience-testing
+  - data-driven-decisions
+  - campaign-troubleshooting
+  - sales-processes
+  - consulting-methodology
+
+dimensoes:
+  paid_advertising: 10
+  marketing_funnels: 10
+  facebook_ads: 10
+  email_marketing: 9
+  youtube_ads: 9
+  scaling_strategy: 9
+  supersystem_architecture: 8
+  ad_automation: 8
+  copywriting_ads: 8
+  client_acquisition: 7
+
+contexto_autor:
+  nome_completo: "Frank Kern"
+  atuacao_desde: 1999
+  estilo: "ultra-casual, self-deprecating, data-driven, anti-perfectionist"
+  programa_principal: "Rainmaker Certification"
+  especialidade_core: "internet marketing, paid ads, email marketing, funnels"
+
+conflitos_conhecidos: []
+
+mapa_navegacao:
+  dna: "/knowledge/external/dna/persons/frank-kern/DNA.yaml"
+  soul: "/agents/external/frank-kern/SOUL.md"
+  memory: "/agents/external/frank-kern/MEMORY.md"
+  agent: "/agents/external/frank-kern/AGENT.md"
+  dossier: "/knowledge/external/dossiers/persons/DOSSIER-FRANK-KERN.md"
+  raw: "/knowledge/external/sources/frank-kern/raw/"

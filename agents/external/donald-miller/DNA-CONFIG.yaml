@@ -1,0 +1,93 @@
+# DNA-CONFIG: DONALD MILLER
+# Versão: v2.0.0
+# Tipo: SOLO (pessoa)
+
+metadata:
+  agent_name: "Donald Miller"
+  agent_type: "SOLO"
+  version: "v2.0.0"
+  last_updated: "2026-03-18"
+
+dna_sources:
+  - person: "donald-miller"
+    weight: 1.0
+    path: "knowledge/external/dna/persons/donald-miller/DNA.yaml"
+    raiz: "knowledge/external/sources/donald-miller/raw/"
+    elements: 127
+    domains:
+      - messaging
+      - storytelling
+      - brand-strategy
+      - copywriting
+      - sales-funnel
+      - conversion
+      - web-design
+      - email-marketing
+      - positioning
+      - lead-generation
+      - sales-copy
+      - persuasion
+      - campaign-strategy
+      - testimonials
+
+sources_processed:
+  - id: "SWS"
+    name: "Sell With Story — StoryBrand Workshop"
+    type: "WORKSHOP"
+    files: 15
+    size_kb: 244
+    date_processed: "2026-03-18"
+    elements_extracted: 75
+    path_raw: "knowledge/external/sources/donald-miller/raw/sell-with-story/"
+    path_source: "knowledge/external/sources/donald-miller/SOURCE-SWS.md"
+  - id: "SBMR"
+    name: "StoryBrand Marketing RoadMap"
+    type: "COURSE"
+    files: 24
+    size_kb: 370
+    date_processed: "2026-03-18"
+    elements_extracted: 52
+    path_raw: "knowledge/external/sources/donald-miller/raw/storybrand-marketing-roadmap/"
+    path_source: "knowledge/external/sources/donald-miller/SOURCE-SBMR.md"
+    co_teachers:
+      - name: "Ray Edwards"
+        weight: 0.60
+        contribution: "PASTOR Framework, 7 Persuasion Principles, email copy mastery"
+      - name: "Francis Jones"
+        weight: 0.20
+        contribution: "Email automation, Infusionsoft, nurture campaign architecture"
+
+layer_summary:
+  L1_PHILOSOPHIES: 30
+  L2_MENTAL_MODELS: 23
+  L3_HEURISTICS: 40
+  L4_FRAMEWORKS: 20
+  L5_METHODOLOGIES: 14
+  total: 127
+
+primary_domains:
+  - messaging
+  - storytelling
+  - brand-strategy
+  - copywriting
+  - sales-funnel
+  - conversion
+  - email-marketing
+  - lead-generation
+  - sales-copy
+  - persuasion
+  - campaign-strategy
+  - testimonials
+
+key_frameworks:
+  - "FW-DM-001: BrandScript Framework (SB7)"
+  - "FW-DM-002: One-Liner Formula"
+  - "FW-DM-003: Landing Page Wireframe"
+  - "FW-DM-004: Sales Funnel Architecture"
+  - "FW-DM-009: Sales Letter Formula"
+  - "FW-DM-013: PASTOR Framework (Ray Edwards)"
+  - "FW-DM-014: 7 Persuasion Principles"
+  - "FW-DM-015: 12-Email StoryBrand Campaign"
+  - "FW-DM-016: Lead Generator Architecture"
+  - "FW-DM-019: Marketing Roadmap Execution Sequence"
+  - "FW-DM-020: 10-Section Website Architecture"

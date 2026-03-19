@@ -1,17 +1,17 @@
 {
-  "version": "2.3.0",
-  "updated_at": "2026-03-17T22:00:00Z",
+  "version": "2.5.0",
+  "updated_at": "2026-03-19T22:00:00Z",
   "system": {
     "status": "OPERATIONAL",
     "health_score": 100,
     "health_label": "EXCELLENT"
   },
   "knowledge_base": {
-    "sources_total": 22,
-    "dna_persons_total": 22,
-    "agents_person": 23,
+    "sources_total": 32,
+    "dna_persons_total": 32,
+    "agents_person": 29,
     "agents_cargo": 15,
-    "agents_total": 38,
+    "agents_total": 44,
     "inbox_pending": 0,
     "agg_files": 15
   },
@@ -54,17 +54,19 @@
       "status": "COMPLETE",
       "dna": true,
       "agent": true,
-      "dna_version": 28,
-      "elements": 1013,
-      "layers": "L1:169 L2:150 L3:262 L4:173 L5:243",
-      "programs": 28,
+      "dna_version": 29,
+      "elements": 1117,
+      "layers": "L1:194 L2:170 L3:292 L4:198 L5:263",
+      "programs": 29,
       "cargo_enriched": [
         "CLOSER",
         "CMO",
-        "CRO"
+        "CRO",
+        "Sales Manager",
+        "SDS"
       ],
-      "next_ids": "PHI-RB-201 MM-RB-181 HEUR-RB-306 FW-RB-181 MET-RB-111",
-      "note": "MM completo (2026-03-15). 28 programas."
+      "next_ids": "PHI-RB-226 MM-RB-201 HEUR-RB-336 FW-RB-206 MET-RB-131",
+      "note": "29 programas. 10XS done (2026-03-19, +120 elements). AGGs: VENDAS, OFFERS, STORYTELLING, COPYWRITING, TRAFFIC."
     },
     "todd-brown": {
       "status": "COMPLETE",
@@ -293,6 +295,85 @@
       "dna": true,
       "agent": false,
       "note": "JH program — DNA merged into jeremy-haynes."
+    },
+    "clayton-makepeace": {
+      "status": "COMPLETE",
+      "dna": true,
+      "agent": true,
+      "dna_version": 2,
+      "elements": 633,
+      "layers": "L1:130 L2:110 L3:170 L4:130 L5:93",
+      "sources_count": 2,
+      "cargo_enriched": [
+        "CMO",
+        "CRO"
+      ],
+      "note": "BYCB + QSCS (69 files). AGG-COPYWRITING enriched."
+    },
+    "frank-kern": {
+      "status": "COMPLETE",
+      "dna": true,
+      "agent": true,
+      "dna_version": 1,
+      "elements": 269,
+      "layers": "L1:55 L2:48 L3:72 L4:54 L5:40",
+      "sources_count": 1,
+      "cargo_enriched": [
+        "CMO",
+        "CRO"
+      ],
+      "note": "Rainmaker Certification (105 files). AGG-COPYWRITING enriched."
+    },
+    "jordan-belfort": {
+      "status": "COMPLETE",
+      "dna": true,
+      "agent": true,
+      "dna_version": 5,
+      "elements": 658,
+      "layers": "L1:130 L2:118 L3:175 L4:135 L5:100",
+      "sources_count": 5,
+      "cargo_enriched": [
+        "CRO",
+        "CLOSER",
+        "Sales Manager"
+      ],
+      "note": "5 fontes: SLSC4+SLM+SLP+SLPFT+SLSP (717 files). AGG-VENDAS + AGG-OFFERS enriched."
+    },
+    "chris-voss": {
+      "status": "COMPLETE",
+      "dna": true,
+      "agent": true,
+      "dna_version": 1,
+      "elements": 93,
+      "sources_count": 1,
+      "note": "NSTD (297 files). Negotiation tactics."
+    },
+    "donald-miller": {
+      "status": "COMPLETE",
+      "dna": true,
+      "agent": true,
+      "dna_version": 1,
+      "elements": 75,
+      "sources_count": 1,
+      "note": "Sell With Story (15 files). StoryBrand framework."
+    },
+    "oren-klaff": {
+      "status": "COMPLETE",
+      "dna": true,
+      "agent": true,
+      "dna_version": 1,
+      "elements": 272,
+      "sources_count": 1,
+      "note": "Pitch Mastery (64 files). Frame control methodology."
+    },
+    "robert-cialdini": {
+      "status": "COMPLETE",
+      "dna": true,
+      "agent": true,
+      "dna_version": 1,
+      "elements": 175,
+      "sources_count": 1,
+      "note": "EIPP (259 files). 7 principles of persuasion."
     }
   },
   "agg_files": [
@@ -333,7 +414,7 @@
     "enriched_sources": [
       "AH (ACQ18K)",
       "DK (16 fontes)",
-      "RB (MM 28 programas)",
+      "RB (29 programas incl. 10XS)",
       "JH (30DC+CA)",
       "CU (Capital Upgrade)",
       "FLCR (Liderança)",
@@ -342,13 +423,16 @@
       "AC (MMS)",
       "DD (ACLS+IPWR)",
       "RS (CTC Circle)",
-      "JC (Best Ads+SWS2)"
+      "JC (Best Ads+SWS2)",
+      "CM (BYCB+QSCS)",
+      "FK (Rainmaker Certification)",
+      "JB (SLSC4)"
     ]
   },
   "git": {
     "branch": "main",
-    "last_commit": "84759a5",
-    "last_commit_msg": "chore: session state sync + handoff logs (S17)",
+    "last_commit": "b30960b",
+    "last_commit_msg": "chore: session state sync + logs update",
     "commits_ahead": 0,
     "pending_commit": null
   },
@@ -366,23 +450,23 @@
     }
   },
   "session": {
-    "id": "SESSION-2026-03-17-004",
-    "started_at": "2026-03-17T22:00:00Z",
-    "last_activity_at": "2026-03-17T22:00:00Z",
+    "id": "SESSION-2026-03-19-001",
+    "started_at": "2026-03-19T22:00:00Z",
+    "last_activity_at": "2026-03-19T22:00:00Z",
     "is_active": true
   },
   "next_action": {
-    "description": "Todas as 22 fontes completas. Aguardando nova missão.",
+    "description": "Todas as 32 fontes completas (29 agents). Aguardando nova missão.",
     "options": [
       "Ingerir novo especialista/programa → /jarvis-full [material]",
       "Consulta estratégica → /conclave ou /ask",
-      "Commit pending changes → git add + commit"
+      "Consultar expert específico → /ask [pessoa] [pergunta]"
     ]
   },
   "mis": {
     "session_id": "",
-    "prompt_count": 16,
+    "prompt_count": 23,
     "bracket": "FRESH",
-    "context_percent": 88.0
+    "context_percent": 82.8
   }
 }

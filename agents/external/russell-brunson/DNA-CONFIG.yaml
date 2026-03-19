@@ -19,11 +19,11 @@
 # ═══════════════════════════════════════════════════════════════════════════════
 
 cargo: "RUSSELL-BRUNSON"
-versao: "18.0.0"
+versao: "29.0.0"
 nivel: "PERSON"
 natureza: "SOLO"
 data_criacao: "2026-03-01"
-ultima_atualizacao: "2026-03-15-v28-magnetic-marketing-complete"
+ultima_atualizacao: "2026-03-19-v29-10x-secrets-complete"
 
 # ═══════════════════════════════════════════════════════════════════════════════
 # CONSTITUICAO (Layer 1 - Principios compartilhados)
@@ -120,6 +120,14 @@ dna_sources:
         - "belief-destruction"
         - "trial-closing"
         - "permission-based-selling"
+        - "stage-selling"
+        - "platform-selling"
+        - "price-psychology"
+        - "affiliate-webinars"
+        - "fb-live-selling"
+        - "physical-product-webinars"
+        - "mass-movement-building"
+        - "repitch-methodology"
       peso: 1.0
       quando_usar: "SEMPRE - fonte unica do agente SOLO"
       materiais_fonte:
@@ -654,6 +662,24 @@ dna_sources:
             - "Funnel Hacks Master Class (21 files) - COMPLETE"
             - "Inception Secrets (30 files) - COMPLETE"
             - "Supplement Secrets (1 file) - COMPLETE"
+
+        # 10X SECRETS (merged 2026-03-19)
+        - titulo: "10x Secrets - Course + FHAT + Pitches + Childers Chunks + Masterclass"
+          path_raiz: "/knowledge/external/sources/russell-brunson/raw/10x-secrets/"
+          tipo: "programa-completo"
+          data_processamento: "2026-03-19"
+          elementos_extraidos: 125
+          speakers:
+            - "Russell Brunson"
+            - "John Childers"
+            - "Ted Thomas"
+            - "Myron Golden"
+            - "Jason Fladlien"
+            - "Armand Morin"
+            - "Kaelin Poulin"
+            - "Jaime Cross"
+            - "Jay Boyer"
+            - "Stephen Larsen"
 
 # ═══════════════════════════════════════════════════════════════════════════════
 # ESTATISTICAS DO DNA

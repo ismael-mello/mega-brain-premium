@@ -1,0 +1,55 @@
+# DNA-CONFIG — Robert Cialdini
+# Versão: v1.0.0
+# Tipo: SOLO (pessoa única)
+# Última Atualização: 2026-03-19
+
+agent_type: "SOLO"
+person: "Robert Cialdini"
+person_id: "RC"
+
+dna_sources:
+  - person: "Robert Cialdini"
+    person_id: "RC"
+    weight: 1.0
+    path: "knowledge/external/dna/persons/robert-cialdini/DNA.yaml"
+    raiz: "knowledge/external/sources/robert-cialdini/raw/"
+    materiais_fonte:
+      - "knowledge/external/sources/robert-cialdini/raw/ethical-influence-practitioner-program/"
+
+domains:
+  primary:
+    - "influence"
+    - "persuasion"
+    - "social-psychology"
+    - "ethical-influence"
+    - "behavioral-science"
+  secondary:
+    - "sales-psychology"
+    - "negotiation"
+    - "decision-science"
+    - "pre-suasion"
+    - "organizational-ethics"
+    - "marketing-psychology"
+
+programs_processed:
+  - id: "EIPP"
+    name: "Ethical Influence Practitioner Program"
+    type: "CERTIFICATION_PROGRAM"
+    files: 259
+    bytes: 1573281
+    modules: 11
+    speakers:
+      - "Robert Cialdini"
+      - "Bas Wouters"
+      - "Gregory Neidert"
+      - "Stephen Jay Martin"
+      - "Chris Phelps"
+      - "Eily Cartwright"
+    status: "COMPLETE"
+
+next_ids:
+  FIL: "FIL-RC-036"
+  MM: "MM-RC-031"
+  HEUR: "HEUR-RC-056"
+  FW: "FW-RC-031"
+  MET: "MET-RC-026"

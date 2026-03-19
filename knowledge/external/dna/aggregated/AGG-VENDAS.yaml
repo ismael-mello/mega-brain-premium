@@ -11,9 +11,9 @@
 # ═══════════════════════════════════════════════════════════════════════════════
 
 dominio: "vendas"
-versao: "3.0.0"
+versao: "15.0.0"  # Robert Cialdini EIPP added
 data_criacao: "2026-01-10"
-ultima_atualizacao: "2026-03-17"
+ultima_atualizacao: "2026-03-19"
 
 fontes_consolidadas:
   - fonte: "cole-gordon"
@@ -60,6 +60,65 @@ fontes_consolidadas:
     elementos_contribuidos: 60
     especialidade: "Direct mail salesmanship, door-to-door sales conversion ratios, phone-to-copy concert pitch, arithmetic-driven selling, price justification frameworks, backend marketing, guarantee psychology"
     batches: ["GH-HALBERTOLOGY (Halbertology — 69 files)"]
+
+  - fonte: "clayton-makepeace"
+    path: "/knowledge/external/dna/persons/clayton-makepeace"
+    peso_dominio: 0.70
+    elementos_contribuidos: 50
+    especialidade: "Consultative selling of high-value services, royalty-based deal structuring, client lifetime value maximization, win-win deal frameworks, fee negotiation, service pricing psychology, turning clients into lifetime partners"
+    batches: ["CM-BYCB (Building Your Copywriting Business — 42 files)"]
+
+  - fonte: "frank-kern"
+    path: "/knowledge/external/dna/persons/frank-kern"
+    peso_dominio: 0.80
+    elementos_contribuidos: 55
+    especialidade: "Sales process architecture, loss-leader funnels, phone sales, webinar sales, e-com processes, countdown promotions, radical transparency selling, irresistible offers, follow-up systems, consultation selling"
+    batches: ["FK-RC (Rainmaker Certification — 105 files, 11 weeks — 2026-03-18)"]
+
+  - fonte: "jordan-belfort"
+    path: "/knowledge/external/dna/persons/jordan-belfort"
+    peso_dominio: 0.95
+    elementos_contribuidos: 310
+    especialidade: "Straight Line System, Three Tens (product/you/company certainty), Looping Framework, Five Core Elements of closing, Tonality Mastery (29 tonal patterns, 8 crucial), Prospecting Funnels, Art of Qualifying, Scripting Methodology, Inner Game/State Management, Olfactory Anchoring, Threshold-Based Closing, Rebuttal Architecture, 6-Step Sales Funnel, Conversion Optimization, Upsell/Downsell Strategies, Email Sales Sequences, Online Retargeting/Looping, Gold Prospector Model, Sales Funnel Reverse Engineering, Micro-Agreement Chaining, Physiological Trigger System, Five Trigger Words, Offsetting Language Patterns, Boxing In Framework, Customer for Life (6 strategies), Pain-Pleasure Dual Anchor, Vision Quest Goal-Setting, 12-Step Sales Syntax, Good Enough Factor, Certainty Decay Prevention, Permission-Based Intelligence Gathering, Energy In = Benefits Out, Action/Pain Threshold Dynamics, 4 Super Powers of Persuasion, No Pain No Gain Scenario, Three 10s Alignment Check, Power Language Pattern Deployment, Table/Legs Model of Beliefs, 4 Levels of Standards (Poor/Good/Excellent/Extraordinary), Ducks vs Eagles Archetype, Timeline Regression Methodology, Standards Raising Process, Shoulds vs Musts Reframe, 3-Loop Closing Sequence, Deflection Framework, 4 Buying Archetypes, Referral System (6-step), Post-Sale Certainty Maintenance, Script Building Methodology, Pacing-Leading Framework, Charisma Formula, Dream Stomper Defense"
+    batches: ["JB-SLC4 (Straight Line Certification 4.0 — 250 elements — 2026-03-18)", "JB-SLM (Straight Line Marketing — 156 elements — 2026-03-18)", "JB-SLP (Straight Line Persuasion — 77 elements — 2026-03-18)", "JB-SLPFT (Straight Line Persuasion Fast Track — 45 elements — 2026-03-18)", "JB-SLSP (Straight Line Sales Psychology — 130 elements — 2026-03-18)"]
+
+  - fonte: "oren-klaff"
+    path: "/knowledge/external/dna/persons/oren-klaff"
+    peso_dominio: 0.85
+    elementos_contribuidos: 80
+    especialidade: "STRONG Method, Frame Control, Hot Cognition Stack, 14 Waypoint System, Hook Point Recognition, Deal Closing Autonomy, Concession Handling, Buying Temperature Calibration, Prize Frame, Status Dynamics"
+    batches: ["OK-PM (Pitch Mastery — 272 elements — 2026-03-18)"]
+
+  - fonte: "donald-miller"
+    path: "/knowledge/external/dna/persons/donald-miller"
+    peso_dominio: 0.70
+    elementos_contribuidos: 40
+    especialidade: "PASTOR Framework (sales letter methodology), 7 Persuasion Principles, sales funnel architecture, BrandScript-to-sales pipeline, lead generation via reciprocity, 12-email campaign sales sequence, clarity-first selling, guide positioning"
+    batches: ["DM-SWS (Sell With Story — 15 files)", "DM-SBMR (StoryBrand Marketing Report — ~15 files — 2026-03-18)"]
+
+  - fonte: "chris-voss"
+    path: "/knowledge/external/dna/persons/chris-voss"
+    peso_dominio: 0.85
+    elementos_contribuidos: 93
+    especialidade: "Tactical Empathy, Ackerman Bargaining Model, Accusation Audit, Calibrated Questions, Behavioral Change Stairway, Loss Aversion selling, No-oriented questions, Deception Detection (Pinocchio Effect), Black Swan discovery, 5 Voice Types, Summary Formula (thats right), Rule of Three implementation"
+    batches: ["CV-NSTD (Never Split the Difference Beyond the Book — 297 files, 10 modules — 2026-03-18)"]
+
+  - fonte: "russell-brunson"
+    path: "/knowledge/external/dna/persons/russell-brunson"
+    peso_dominio: 0.85
+    elementos_contribuidos: 65
+    especialidade: "Stage selling/event selling (Event Choreography Framework), Perfect Webinar adapted for stage, trial closing system (Ted Thomas 100+ closes per 90 min), Price Marinade (Myron Golden), Selection Close for high-ticket events, Repitch Framework (Emotion→Logic→Urgency), table rush mechanics, 'You're Probably Thinking' objection pre-emption close (Jason Fladlien), QVC Closing (30 min FAQ-based close), Weekly Webinar Model cycle (traffic→show→close), Stage Presentation Formula (HSO applied to live stage)"
+    batches: ["RB-10XS (10x Secrets Masterclass — stage selling, event sales psychology — 2026-03-19)"]
+    nota: "RB contribuição é principalmente em EVENT SELLING e WEBINAR/STAGE SALES — venda em grandes grupos via apresentação ao vivo ou webinar. Peso 0.85 porque o sistema é específico e testado em escala (FHL stages). Não concorre com CG/JM no high-ticket 1-on-1 — é uma dimensão distinta de selling."
+
+  - fonte: "robert-cialdini"
+    path: "/knowledge/external/dna/persons/robert-cialdini"
+    peso_dominio: 0.90
+    elementos_contribuidos: 100
+    especialidade: "influence-psychology, ethical-persuasion, decision-triggers, pre-suasion, reciprocity, social-proof, authority, scarcity, consistency, contrast"
+    batches: ["RC-EIPP (Ethical Influence Practitioner Program — 2026-03-19)"]
+    key_frameworks: "7 Universal Principles, Activator-Amplifier Model, Weakness-First Strategy, Core Motive Model, Scarcity Double Whammy"
+    nota: "RC é o cientista fundacional da influência/persuasão. Peso 0.90 porque os 7 Princípios Universais são a base científica subjacente a todas as outras metodologias de vendas — Belfort, Miner, Gordon, Hormozi todos aplicam princípios Cialdini implicitamente. RC adiciona a dimensão ÉTICA e CIENTÍFICA que falta nos outros."
 
 # ═══════════════════════════════════════════════════════════════════════════════
 # FILOSOFIAS CONSOLIDADAS (Top 15)
@@ -160,6 +219,48 @@ filosofias:
     peso: 0.85
     ref: "FIL-DK-614, FW-DK-762 (SMU)"
     consenso: ["dan-kennedy", "alex-hormozi"]
+
+  - id: "AGG-VEN-F016"
+    conteudo: "The sale is a straight line — every word, every action moves the prospect from open to close along a straight line. Deviate and you lose control."
+    fonte_primaria: "jordan-belfort"
+    peso: 0.95
+    ref: "FIL-JB-001 (SLC4)"
+    consenso: ["jordan-belfort", "cole-gordon", "dan-kennedy"]
+
+  - id: "AGG-VEN-F017"
+    conteudo: "Three Tens = Three Certainties — prospect must be at 10/10 certainty on your product, you personally, and your company before they buy. Missing even one = no sale."
+    fonte_primaria: "jordan-belfort"
+    peso: 0.95
+    ref: "FIL-JB-002 (SLC4)"
+    consenso: ["jordan-belfort", "cole-gordon"]
+
+  - id: "AGG-VEN-F018"
+    conteudo: "State management is everything — you must control your own emotional state before you can influence the prospect's. Anchoring, physiology, and certainty are trainable skills."
+    fonte_primaria: "jordan-belfort"
+    peso: 0.90
+    ref: "FIL-JB-003 (SLC4)"
+    consenso: ["jordan-belfort", "cole-gordon", "JEREMY-MINER"]
+
+  - id: "AGG-VEN-F019"
+    conteudo: "Online selling is offline selling translated — every principle of the Straight Line applies to funnels, emails, and landing pages. The 6-Step Funnel IS the Straight Line in digital form."
+    fonte_primaria: "jordan-belfort"
+    peso: 0.90
+    ref: "FIL-JB-SLM (SLM)"
+    consenso: ["jordan-belfort", "russell-brunson", "frank-kern"]
+
+  - id: "AGG-VEN-F020"
+    conteudo: "Whoever can spend the most to acquire a customer wins — the golden rule of marketing. Break-even on front-end, profit on back-end via upsells and email sequences."
+    fonte_primaria: "jordan-belfort"
+    peso: 0.90
+    ref: "FIL-JB-SLM (SLM)"
+    consenso: ["jordan-belfort", "dan-kennedy", "alex-hormozi"]
+
+  - id: "AGG-VEN-F021"
+    conteudo: "The only thing that stops you from getting what you want in life is the bullshit story you tell yourself of why you can't have it. The story is a circuit breaker for fear."
+    fonte_primaria: "jordan-belfort"
+    peso: 0.90
+    ref: "FIL-JB-094 (SLP)"
+    consenso: ["jordan-belfort"]
 
 # ═══════════════════════════════════════════════════════════════════════════════
 # FRAMEWORKS CONSOLIDADOS (Top 12)
@@ -342,6 +443,149 @@ frameworks:
     aplicacao: "Apresentações de vendas, pitches personalizados"
     batch_source: ["SMU DVD 2"]
 
+  - id: "AGG-VEN-FW013"
+    nome: "Straight Line System (Jordan Belfort)"
+    fonte_primaria: "jordan-belfort"
+    peso: 0.95
+    ref: "FW-JB-001 (SLC4)"
+    descricao: "Complete sales system — every sale follows a straight line from open to close, with systematic looping when prospect deflects"
+    elementos:
+      - "1. Take immediate control of the sale (first 4 seconds)"
+      - "2. Massive intelligence gathering (qualifying + building rapport)"
+      - "3. Build Three Tens certainty (product, you, company)"
+      - "4. Present with embedded tonality patterns (29 tones)"
+      - "5. First close attempt after building certainty"
+      - "6. Loop back when objection surfaces (don't answer, build more certainty)"
+      - "7. Lower action threshold through reversals and energy-in"
+      - "8. Close again with increased certainty"
+    aplicacao: "Complete sales call structure — works for phone, in-person, and virtual"
+    batch_source: ["JB-SLC4"]
+
+  - id: "AGG-VEN-FW014"
+    nome: "Looping Framework (Jordan Belfort)"
+    fonte_primaria: "jordan-belfort"
+    peso: 0.95
+    ref: "FW-JB-002 (SLC4)"
+    descricao: "When prospect objects, don't handle the objection directly — loop back and build more certainty on the Three Tens"
+    elementos:
+      - "1. Deflect the objection with a pattern (Let me ask you a question...)"
+      - "2. Loop back to build more certainty on the weakest of the Three Tens"
+      - "3. Add new benefit or proof point"
+      - "4. Re-close — ask for the order again"
+      - "5. If new objection → loop again (max 3-4 loops)"
+      - "6. Each loop builds incremental certainty"
+    aplicacao: "Objection handling without confrontation — build certainty instead of arguing"
+    batch_source: ["JB-SLC4"]
+
+  - id: "AGG-VEN-FW015"
+    nome: "Five Core Elements of Straight Line (Jordan Belfort)"
+    fonte_primaria: "jordan-belfort"
+    peso: 0.90
+    ref: "FW-JB-003 (SLC4)"
+    descricao: "Five elements that must be present in every sale"
+    elementos:
+      - "1. Love your product (absolute certainty and belief)"
+      - "2. Be a world-class communicator (tonality + body language)"
+      - "3. Identify pain and create vision (future-pace the result)"
+      - "4. Master the art of qualifying (sort the buyers from the non-buyers)"
+      - "5. Create urgency (ethical urgency based on real cost of inaction)"
+    aplicacao: "Foundation elements — without any one, the system fails"
+    batch_source: ["JB-SLC4"]
+
+  - id: "AGG-VEN-FW016"
+    nome: "6-Step Sales Funnel (Jordan Belfort SLM)"
+    fonte_primaria: "jordan-belfort"
+    peso: 0.90
+    ref: "FW-JB-SLM (SLM)"
+    descricao: "The Straight Line translated to online funnels — 6 sequential steps that mirror the in-person sales process"
+    elementos:
+      - "1. Traffic Source → targeted visitors (paid + organic + retargeting)"
+      - "2. Opt-In Page → capture leads with irresistible bribe"
+      - "3. Sales Letter/Video → build Three Tens certainty in copy form"
+      - "4. Order Page → streamlined, objection-pre-empted checkout"
+      - "5. Upsell/Downsell Sequence → maximize customer value immediately"
+      - "6. Email Follow-Up → continue looping via email (online retargeting)"
+    aplicacao: "Complete digital sales funnel architecture — Straight Line principles applied online"
+    batch_source: ["JB-SLM"]
+
+  - id: "AGG-VEN-FW017"
+    nome: "Online Looping via Email (Jordan Belfort SLM)"
+    fonte_primaria: "jordan-belfort"
+    peso: 0.85
+    ref: "FW-JB-SLM (SLM)"
+    descricao: "Email retargeting as digital looping — each email builds more certainty on the Three Tens, mirrors the in-person loop technique"
+    elementos:
+      - "1. Non-buyers enter email sequence automatically"
+      - "2. Each email addresses one of the Three Tens (product, you, company)"
+      - "3. Use stories, testimonials, and proof to build certainty incrementally"
+      - "4. Include new offer angle or scarcity element in each loop"
+      - "5. Max 7-10 emails in sequence before moving to nurture"
+    aplicacao: "Email follow-up strategy for funnel non-converters"
+    batch_source: ["JB-SLM"]
+
+  - id: "AGG-VEN-FW018"
+    nome: "Sales Funnel Reverse Engineering (JB SLP)"
+    fonte_primaria: "jordan-belfort"
+    peso: 0.90
+    ref: "FW-JB-076 (SLP)"
+    descricao: "Reverse-engineer income goal into daily activity: Annual goal → commission per sale → weekly sales needed → pitches needed → appointments needed → connects needed → daily dials. The ONLY thing you control is dials."
+    elementos:
+      - "1. Define annual income goal"
+      - "2. Divide by average commission"
+      - "3. Calculate weekly sales needed"
+      - "4. Calculate pitches per sale (track for 90 days)"
+      - "5. Calculate appointments per pitch"
+      - "6. Calculate connects per appointment"
+      - "7. Calculate dials per connect"
+      - "8. That's your daily dial number — the ONE thing you control"
+    aplicacao: "Pipeline management, prospecting discipline, performance diagnostics"
+    batch_source: ["JB-SLP"]
+
+  - id: "AGG-VEN-FW019"
+    nome: "Five Trigger Words Framework (JB SLP)"
+    fonte_primaria: "jordan-belfort"
+    peso: 0.85
+    ref: "FW-JB-082 (SLP)"
+    descricao: "Five power words that influence buying behavior"
+    elementos:
+      - "1. 'Virtually' = bold claims without absolutes"
+      - "2. 'Only' = minimizer for price"
+      - "3. 'Because' = justifier (works even without real reason)"
+      - "4. 'Cash outlay' = reframe from cost to investment"
+      - "5. 'I would be glad to' = rapport builder"
+    aplicacao: "Script writing, closing language, objection handling"
+    batch_source: ["JB-SLP"]
+
+  - id: "AGG-VEN-FW020"
+    nome: "Boxing In Framework (JB SLP)"
+    fonte_primaria: "jordan-belfort"
+    peso: 0.90
+    ref: "FW-JB-085 (SLP)"
+    descricao: "Systematically eliminate all reasons not to buy — prospect has to go against their own stated beliefs to say no"
+    elementos:
+      - "1. They admitted they love the product (asked and confirmed)"
+      - "2. They trust you (confirmed via rapport)"
+      - "3. They trust the company (confirmed via credibility)"
+      - "4. Their own words painted why they need it now (qualification confirmed)"
+      - "Now they must contradict themselves to say no"
+    aplicacao: "Advanced closing, loop architecture"
+    batch_source: ["JB-SLP"]
+
+  - id: "AGG-VEN-FW021"
+    nome: "Five Ways to Create Customers for Life (JB SLP)"
+    fonte_primaria: "jordan-belfort"
+    peso: 0.85
+    ref: "FW-JB-086 (SLP)"
+    descricao: "Post-sale relationship building for lifetime value"
+    elementos:
+      - "1. Never duck a phone call — deliver bad news immediately"
+      - "2. Send them to competitor if you genuinely can't help"
+      - "3. Remember their family details after closing"
+      - "4. Use gifts correctly (specific, appreciated)"
+      - "5. Write effective thank-you notes (personal, emotional, specific)"
+    aplicacao: "Customer retention, LTV optimization, referral generation"
+    batch_source: ["JB-SLP"]
+
 # ═══════════════════════════════════════════════════════════════════════════════
 # HEURÍSTICAS CONSOLIDADAS (Top 22)
 # ═══════════════════════════════════════════════════════════════════════════════
@@ -508,6 +752,134 @@ heuristicas:
     metrica: "55min + 90 days + 15 days"
     batch_source: "SMU CD 3"
 
+  - id: "AGG-VEN-H023"
+    conteudo: "First 4 seconds determine the sale — prospect decides in 4 seconds if you are sharp, enthusiastic, and an expert. Blow the opening, lose the sale."
+    fonte_primaria: "jordan-belfort"
+    peso: 0.95
+    ref: "HEUR-JB-001 (SLC4)"
+    metrica: "4 seconds"
+    batch_source: "JB-SLC4"
+
+  - id: "AGG-VEN-H024"
+    conteudo: "Three Tens scale: prospect must be at 10/10 certainty on product, you, and company. Anything below 8 on any = no close."
+    fonte_primaria: "jordan-belfort"
+    peso: 0.95
+    ref: "HEUR-JB-002 (SLC4)"
+    metrica: "10/10 on 3 dimensions"
+    batch_source: "JB-SLC4"
+
+  - id: "AGG-VEN-H025"
+    conteudo: "29 tonal patterns control 90% of influence — words are only 10%. Master tonality and you master persuasion."
+    fonte_primaria: "jordan-belfort"
+    peso: 0.90
+    ref: "HEUR-JB-003 (SLC4)"
+    metrica: "29 tones / 90% influence"
+    batch_source: "JB-SLC4"
+
+  - id: "AGG-VEN-H026"
+    conteudo: "Max 3-4 loops per objection — after 4 loops, if prospect still resists, lower action threshold or qualify out."
+    fonte_primaria: "jordan-belfort"
+    peso: 0.90
+    ref: "HEUR-JB-004 (SLC4)"
+    metrica: "3-4 loops max"
+    batch_source: "JB-SLC4"
+
+  - id: "AGG-VEN-H027"
+    conteudo: "Action threshold: some people buy with 7/10 certainty, others need 10/10. Lower the threshold by removing risk (money-back, trial, energy-in)."
+    fonte_primaria: "jordan-belfort"
+    peso: 0.85
+    ref: "HEUR-JB-005 (SLC4)"
+    metrica: "7-10/10 threshold"
+    batch_source: "JB-SLC4"
+
+  - id: "AGG-VEN-H028"
+    conteudo: "6-Step Funnel mirrors the Straight Line — opt-in = opening, sales letter = presentation, upsell = step-down, email = looping. Every step builds certainty."
+    fonte_primaria: "jordan-belfort"
+    peso: 0.85
+    ref: "HEUR-JB-SLM (SLM)"
+    metrica: "6 steps"
+    batch_source: "JB-SLM"
+
+  - id: "AGG-VEN-H029"
+    conteudo: "Break-even on front-end, profit on upsells + email sequences — SLO (Self-Liquidating Offer) recovers ad spend, real profit comes from back-end."
+    fonte_primaria: "jordan-belfort"
+    peso: 0.85
+    ref: "HEUR-JB-SLM (SLM)"
+    metrica: "0 ROAS front-end OK"
+    batch_source: "JB-SLM"
+
+  - id: "AGG-VEN-H030"
+    conteudo: "7-10 email follow-up sequences for non-buyers — each email loops on a different Ten (product/you/company), max 10 before moving to nurture."
+    fonte_primaria: "jordan-belfort"
+    peso: 0.80
+    ref: "HEUR-JB-SLM (SLM)"
+    metrica: "7-10 emails"
+    batch_source: "JB-SLM"
+
+  - id: "AGG-VEN-H031"
+    conteudo: "In any room of 100 prospects: 30 ready to buy now, 30 shopping, 30 looky-loos, 10 never buy. Focus 100% on the top 60."
+    fonte_primaria: "jordan-belfort"
+    peso: 0.90
+    ref: "HEUR-JB-112 (SLP)"
+    metrica: "30/30/30/10 split"
+    batch_source: "JB-SLP"
+
+  - id: "AGG-VEN-H032"
+    conteudo: "72% of the time you must make direct eye contact. Below 72% and trust drops dramatically."
+    fonte_primaria: "jordan-belfort"
+    peso: 0.85
+    ref: "HEUR-JB-115 (SLP)"
+    metrica: "72% eye contact"
+    batch_source: "JB-SLP"
+
+  - id: "AGG-VEN-H033"
+    conteudo: "The Cialdini 'because' experiment: adding 'because' to any request raises compliance from 25% to 75%, even without a real reason."
+    fonte_primaria: "jordan-belfort"
+    peso: 0.85
+    ref: "HEUR-JB-128 (SLP)"
+    metrica: "25% → 75% with 'because'"
+    batch_source: "JB-SLP"
+
+  - id: "AGG-VEN-H034"
+    conteudo: "One ducked phone call kills the relationship forever. Bad news delivered fast is forgiven. Bad news left to fester is fatal."
+    fonte_primaria: "jordan-belfort"
+    peso: 0.90
+    ref: "HEUR-JB-127 (SLP)"
+    metrica: "1 ducked call = relationship dead"
+    batch_source: "JB-SLP"
+
+  - id: "AGG-VEN-H035"
+    conteudo: "It takes 3-4 weeks of forced repetition to become unconsciously competent. First month: 30-50% bump. By month two: double."
+    fonte_primaria: "jordan-belfort"
+    peso: 0.85
+    ref: "HEUR-JB-119 (SLP)"
+    metrica: "3-4 weeks → 30-50% bump, 2 months → 2x"
+    batch_source: "JB-SLP"
+
+  - id: "AGG-VEN-H036"
+    conteudo: "Stage close rate benchmark: 10% in room is a good close rate for high-ticket offers ($2k-$25k) from stage. Myron Golden: 60%+ possible with constraint/release mechanism."
+    fonte_primaria: "russell-brunson"
+    peso: 0.85
+    ref: "HEUR-RB-10XS (10XS)"
+    metrica: "10% benchmark / 60%+ with constraint release"
+    batch_source: "RB-10XS"
+
+  - id: "AGG-VEN-H037"
+    conteudo: "Webinar show rate benchmark: 25% of registrants show live. With reminder sequence and urgency, can push to 35-40%. Sunday registrants have lowest show rate — don't start ads on weekends."
+    fonte_primaria: "russell-brunson"
+    peso: 0.85
+    ref: "HEUR-RB-10XS (10XS)"
+    metrica: "25% baseline / 35-40% optimized"
+    batch_source: "RB-10XS"
+
+  - id: "AGG-VEN-H038"
+    conteudo: "Table rush mechanics: the first 5-10 buyers running to the table/order form triggers herd behavior in the room — creates permission structure for everyone else to buy. Seed with your team if needed for the first event."
+    fonte_primaria: "russell-brunson"
+    peso: 0.80
+    ref: "HEUR-RB-10XS (10XS)"
+    metrica: "first 5-10 buyers = social proof trigger"
+    batch_source: "RB-10XS"
+
 # ═══════════════════════════════════════════════════════════════════════════════
 # METODOLOGIAS CONSOLIDADAS (Top 6)
 # ═══════════════════════════════════════════════════════════════════════════════
@@ -591,6 +963,21 @@ metodologias:
       - "4. Conditional — 'if I call tomorrow, leaning yes or no?'"
     batch_source: "SMU DVD 3, Bonus Call"
 
+  - id: "AGG-VEN-M007"
+    nome: "Straight Line Prospecting & Qualifying (JB SLC4)"
+    fonte_primaria: "jordan-belfort"
+    peso: 0.90
+    ref: "MET-JB-001 (SLC4)"
+    etapas:
+      - "1. Qualify FAST — sift the buyers from the curious in first 90 seconds"
+      - "2. Gather intelligence — pain, needs, values, financial situation, decision timeline"
+      - "3. Build rapport through active listening (matching, mirroring, backtracking)"
+      - "4. Identify the Three Tens gap — which certainty is lowest?"
+      - "5. Present in the order of the gap — build weakest certainty first"
+      - "6. Close — ask for the order directly, with certainty in your voice"
+      - "7. Loop if needed — deflect objection, build more certainty, re-close"
+    batch_source: "JB-SLC4"
+
 # ═══════════════════════════════════════════════════════════════════════════════
 # CONFLITOS CONHECIDOS
 # ═══════════════════════════════════════════════════════════════════════════════
@@ -654,6 +1041,22 @@ regras_de_uso:
       priorizar: "dan-kennedy"
       razao: "Irresistible Offer + Inverted Pyramid + Promise Statement (SMU)"
 
+    - contexto: "straight line closing / looping objections"
+      priorizar: "jordan-belfort"
+      razao: "Straight Line System + Looping Framework + Three Tens (SLC4)"
+
+    - contexto: "tonality and state management"
+      priorizar: "jordan-belfort"
+      razao: "29 tonal patterns + olfactory anchoring + state management (SLC4)"
+
+    - contexto: "online sales funnels / digital selling"
+      priorizar: "jordan-belfort"
+      razao: "6-Step Funnel + Online Looping + SLO strategy (SLM)"
+
+    - contexto: "upsell/downsell architecture"
+      priorizar: "jordan-belfort"
+      razao: "Upsell/downsell sequencing + break-even front-end strategy (SLM)"
+
 # ═══════════════════════════════════════════════════════════════════════════════
 # CONSUMIDORES (CARGO AGENTS)
 # ═══════════════════════════════════════════════════════════════════════════════
@@ -689,12 +1092,12 @@ consumidores:
 # ═══════════════════════════════════════════════════════════════════════════════
 
 estatisticas:
-  total_elementos_consolidados: 1437
-  fontes_contribuintes: 5  # 7 - 2 excluded personas (FSS, G4) + dan-kennedy (MH+SMU)
-  filosofias: 15
-  frameworks: 12
-  heuristicas: 22
-  metodologias: 6
+  total_elementos_consolidados: 1872
+  fontes_contribuintes: 9  # 10 - 2 excluded personas (FSS, G4) + dan-kennedy (MH+SMU) + jordan-belfort (SLC4+SLM+SLP+SLPFT) + donald-miller (SWS+SBMR) + russell-brunson (10XS) + robert-cialdini (EIPP)
+  filosofias: 21
+  frameworks: 21
+  heuristicas: 38
+  metodologias: 7
   conflitos_documentados: 2
 
 # ═══════════════════════════════════════════════════════════════════════════════
@@ -702,6 +1105,80 @@ estatisticas:
 # ═══════════════════════════════════════════════════════════════════════════════
 
 changelog:
+  - versao: "15.0.0"
+    data: "2026-03-19"
+    mudancas:
+      - "Robert Cialdini EIPP (Ethical Influence Practitioner Program) added as new fonte (100 vendas elements — influence psychology, ethical persuasion)"
+      - "RC especialidade: 7 Universal Principles of Influence, Activator-Amplifier Model, Weakness-First Strategy, Core Motive Model, Scarcity Double Whammy, Pre-Suasion, decision-triggers, reciprocity, social-proof, authority, consistency, contrast"
+      - "RC peso_dominio: 0.90 (foundational influence science — underlies ALL other sales methodologies)"
+      - "Key frameworks: 7 Universal Principles, Activator-Amplifier Model, Weakness-First Strategy, Core Motive Model, Scarcity Double Whammy"
+      - "total_elementos_consolidados: 1772 → 1872"
+      - "fontes_contribuintes: 8 → 9"
+
+  - versao: "14.0.0"
+    data: "2026-03-19"
+    mudancas:
+      - "Russell Brunson 10x Secrets (10XS) added as new fonte (65 vendas elements — event selling, stage sales)"
+      - "RB especialidade: stage selling, Event Choreography Framework, Perfect Webinar for stage, trial closing system, Price Marinade (Myron Golden), Selection Close, Repitch Framework, table rush mechanics, 'You're Probably Thinking' objection close, QVC Closing, Weekly Webinar Model"
+      - "RB peso_dominio: 0.85 (specific and tested system — FHL stages), dimensão distinta de CG/JM (group/event vs 1-on-1)"
+      - "+3 heurísticas: H036 (10% stage close / 60%+ constraint-release), H037 (25% webinar show rate / 35-40% optimized, no Sunday ads), H038 (table rush mechanics: first 5-10 buyers = herd trigger)"
+      - "total_elementos_consolidados: 1707 → 1772"
+      - "fontes_contribuintes: 7 → 8"
+
+  - versao: "12.0.0"
+    data: "2026-03-18"
+    mudancas:
+      - "Donald Miller added as new fonte (40 vendas elements from SWS + SBMR)"
+      - "SBMR adds: PASTOR Framework (sales letter methodology), 7 Persuasion Principles, 12-email sales campaign, lead generation architecture"
+      - "DM peso_dominio: 0.70 (clarity-first selling + guide positioning complement consultative/high-pressure approaches)"
+      - "Case studies: FITZEE 118% leads, Legacy 1300 enrollments, StoryBrand $250K→$1.3M, Concierge $800K→$2.3M"
+      - "total_elementos_consolidados: 1667 → 1707"
+
+  - versao: "9.0.0"
+    data: "2026-03-18"
+    mudancas:
+      - "Jordan Belfort SLPFT (Straight Line Persuasion Fast Track) integrated — +40 vendas elements"
+      - "JB DNA total: 483 → 528 elements (v3.0.0 → v4.0.0, +45 SLPFT elements)"
+      - "JB elementos contribuídos vendas: 190 → 230 (SLC4 + SLM + SLP + SLPFT)"
+      - "New heuristics: 12-Step Sales Syntax, Good Enough Factor, Certainty Decay, Permission Before Questions, Energy In = Benefits Out, Meaning of No as Progress, Action/Pain Threshold dynamics"
+      - "New frameworks: 4 Super Powers of Persuasion, No Pain No Gain Scenario, Three 10s Alignment Check"
+      - "New methodologies: Certainty Building with Decay Prevention, Permission-Based Intelligence Gathering, Power Language Pattern Deployment"
+      - "JB especialidade expanded with: 12-Step Sales Syntax, Good Enough Factor, Certainty Decay Prevention, Permission-Based Intelligence Gathering, 4 Super Powers of Persuasion, Three 10s Alignment Check, Power Language Pattern Deployment"
+      - "total_elementos_consolidados: 1627 → 1667"
+
+  - versao: "8.0.0"
+    data: "2026-03-18"
+    mudancas:
+      - "Jordan Belfort SLP (Straight Line Persuasion) integrated — +70 vendas elements"
+      - "+1 filosofia (F021: Bullshit story circuit breaker)"
+      - "+4 frameworks (FW018: Funnel Reverse Engineering, FW019: Five Trigger Words, FW020: Boxing In, FW021: Customers for Life)"
+      - "+5 heurísticas (H031: 30/30/30/10 split, H032: 72% eye contact, H033: 'because' compliance, H034: ducked call kills, H035: 3-4 weeks competence)"
+      - "JB elementos contribuídos: 120 → 190 (SLC4 + SLM + SLP vendas)"
+      - "JB especialidade expanded with: Gold Prospector Model, Sales Funnel Reverse Engineering, Micro-Agreement Chaining, Physiological Trigger System, Five Trigger Words, Offsetting Language Patterns, Boxing In Framework, Customer for Life, Pain-Pleasure Dual Anchor, Vision Quest Goal-Setting"
+
+  - versao: "7.0.0"
+    data: "2026-03-18"
+    mudancas:
+      - "Jordan Belfort SLM (Straight Line Marketing) integrated — +40 vendas elements from digital sales funnels"
+      - "+2 filosofias (F019: Online=Offline translated, F020: Whoever spends most wins)"
+      - "+2 frameworks (FW016: 6-Step Sales Funnel, FW017: Online Looping via Email)"
+      - "+3 heurísticas (H028: 6-step funnel, H029: SLO break-even, H030: 7-10 email loops)"
+      - "+2 regras de uso (online funnels, upsell/downsell architecture)"
+      - "JB elementos contribuídos: 80 → 120 (SLC4 + SLM vendas)"
+      - "JB especialidade expanded with: 6-Step Sales Funnel, Conversion Optimization, Upsell/Downsell Strategies, Email Sales Sequences, Online Retargeting/Looping"
+
+  - versao: "6.0.0"
+    data: "2026-03-18"
+    mudancas:
+      - "Jordan Belfort adicionado como fonte (Straight Line Certification 4.0, 80 elementos de vendas pura)"
+      - "+3 filosofias (F016: Straight Line, F017: Three Tens, F018: State Management)"
+      - "+3 frameworks (FW013: Straight Line System, FW014: Looping Framework, FW015: Five Core Elements)"
+      - "+5 heurísticas (H023: 4 seconds, H024: Three Tens 10/10, H025: 29 tones, H026: 3-4 loops, H027: Action Threshold)"
+      - "+1 metodologia (M007: Straight Line Prospecting & Qualifying)"
+      - "+2 regras de uso (straight line closing, tonality/state management)"
+      - "JB peso_dominio: 0.95 (definitive sales system creator)"
+      - "Fontes contribuintes: 5 → 6"
+
   - versao: "2.0.0"
     data: "2026-03-16"
     mudancas:
@@ -727,4 +1204,4 @@ changelog:
     mudancas:
       - "Criação inicial — cole-gordon, JEREMY-MINER, alex-hormozi, jeremy-haynes"
 
-# Fim do AGG-VENDAS.yaml v2.0.0
+# Fim do AGG-VENDAS.yaml v8.0.0

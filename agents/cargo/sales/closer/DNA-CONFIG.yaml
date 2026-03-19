@@ -17,12 +17,60 @@
 # ═══════════════════════════════════════════════════════════════════════════════
 
 cargo: "closer"
-versao: "3.8.0"
+versao: "4.8.0"
 nivel: "SALES"
 natureza: "HIBRIDO"
 data_criacao: "2025-12-23"
-ultima_atualizacao: "2026-03-16"
+ultima_atualizacao: "2026-03-19"
 # CHANGELOG:
+# v4.8.0 (2026-03-19): Added robert-cialdini (influence, reciprocity, commitment, scarcity, contrast, authority, social-proof) — EIPP pipeline, peso 0.80
+#                      - Key frameworks: 6 Principles of Influence, Reciprocity (concessions), Commitment & Consistency, Scarcity, Contrast Principle, Authority, Social Proof
+#                      - Key domains: influence, reciprocity, commitment, scarcity, contrast, authority, social-proof
+#                      - Unique contribution: foundational influence psychology for closing — reciprocity (concessions), commitment (consistency), scarcity (urgency), contrast (price anchoring), authority (credibility)
+# v4.7.0 (2026-03-19): Updated russell-brunson with 10XS domains — trial-closing, platform-selling, price-psychology, objection-marathon, table-rush-mechanics, selection-close
+# v4.6.0 (2026-03-18): Added chris-voss (tactical-empathy, ackerman-model, accusation-audit, calibrated-questions, labeling, mirroring, deception-detection, black-swans) — 93 el DNA, peso 0.85
+#                      - Key frameworks: Ackerman Model (6-step bargaining), Accusation Audit, Calibrated Questions, 5 Voice Types, Summary Formula, Rule of Three
+#                      - Key domains: negotiation, tactical-empathy, bargaining, anchoring, deception-detection, loss-aversion, behavioral-change
+#                      - Key heuristics: 65% anchor, 20/10/5 raises, precise numbers, 4s silence, 70% loss-driven, FM DJ voice, "have you given up?" email
+#                      - Unique contribution: FBI-proven negotiation methodology for high-stakes closing, objection handling via empathy not force
+# v4.5.0 (2026-03-18): Added donald-miller (PASTOR-sales-methodology, tension-relief, persuasion-principles, email-objection-handling) — 75 el DNA, peso 0.55
+#                      - Key frameworks: PASTOR Framework (structured sales letter methodology), Tension-Relief sales methodology, 7 Persuasion Principles
+#                      - Key domains: sales-copy, persuasion, email-objection-handling, tension-relief
+#                      - Unique contribution: story-driven sales methodology, tension-based closing, email-based objection handling
+# v4.4.0 (2026-03-18): Added oren-klaff (frame-control, neediness-eradication, concession-handling, four-frame-stack, buying-temperature, 14-waypoints, deal-closing) — 272 el DNA, peso 0.80
+#                      - Key frameworks: Frame Control, Four-Frame Stack (pricing), 14 Waypoints, Buying Temperature, Neediness Eradication, Concession Handling
+#                      - Key domains: frame-control, pitching, neuroscience, social-dynamics, hot-cognition, buying-temperature, immersion, deal-closing
+#                      - Unique contribution: frame control for closing calls, neediness eradication, concession handling methodology, buying temperature calibration
+# v4.3.0 (2026-03-18): Updated jordan-belfort with SLSP — 658 el DNA total (was 528), peso 0.95 (unchanged)
+#                      - JB DNA now v5.0.0 (was v4.0.0), sources: 5 (was 4)
+#                      - NEW source: Straight Line Sales Psychology (SLSP) — 130 new elements
+#                      - Key SLSP for CLOSER: Complete Looping Process (end-to-end), Track Record Hypothetical,
+#                        3-Loop Sequence (product→you→company), Deflection Framework, Safe Cracker Metaphor,
+#                        Pacing-Leading Implementation, 8 Crucial Tonal Patterns (with anchoring),
+#                        Script Building Methodology, Opening/Close Language Pattern Sequences,
+#                        Pain Amplification Technique, Qualifying Process (10-step), 4 Buying Archetypes,
+#                        State Management (Anchoring Exercise), Charisma Formula
+# v4.2.0 (2026-03-18): Updated jordan-belfort with SLPFT — 528 el DNA total (was 483), peso 0.95 (unchanged)
+#                      - JB DNA now v4.0.0 (was v3.0.0), sources: 4 (was 3)
+#                      - NEW source: Straight Line Persuasion Fast Track (SLPFT) — 45 new elements
+#                      - Key SLPFT for CLOSER: Certainty Decay model, Good Enough Factor, Three 10s Alignment Check,
+#                        Permission-Based Intelligence Gathering, Power Language Pattern Deployment,
+#                        Energy In = Benefits Out, Certainty Building with Decay Prevention methodology
+#                      - NEW domains: certainty-decay, permission-intelligence, power-language-patterns
+# v4.1.0 (2026-03-18): Updated jordan-belfort with SLP — ~456 el total (was 406), peso 0.95 (unchanged)
+#                      - NEW source: Straight Line Persuasion (SLP) — prospecting, tonality (29 patterns), inner game/NLP, closing, language patterns, body language, retention
+#                      - ~50 new closer-relevant elements (closing frameworks, tonality mastery, fear management, trigger words, proxemics, customer retention)
+#                      - NEW domains: fear-management, persuasion-science, trigger-words, customer-retention, proxemics
+#                      - Key SLP: fear/pain management in closing, trigger word sequences, proxemics for in-person, customer retention via certainty, NLP anchoring for state
+# v4.0.0 (2026-03-18): Updated jordan-belfort with SLM — 406 el DNA total (was 250), peso 0.95 (unchanged)
+#                      - NEW source: Straight Line Marketing (10 Modules, 50 files, 156 new elements)
+#                      - NEW domains: copywriting-as-closing, script-templates, online-looping, deflection-patterns, true-beauty-language
+#                      - Key new: Done-For-You script templates, copywriting as applied closing (SLP in text), online looping/retargeting, "True Beauty" language pattern
+#                      - Closer-relevant SLM: copy scripts that close in print, DFY templates for follow-up, retargeting as online looping
+# v3.9.0 (2026-03-18): Added jordan-belfort (straight-line-system, looping, objection-handling, closing, tonality, rebuttals, scripting, state-management) — 250 el DNA, peso 0.95
+#                      - Key frameworks: Straight Line System, Looping Framework, Three Tens, Five Core Elements, 29 Tonal Patterns, Action Threshold, Step-Down Sale
+#                      - Key IDs: FIL-JB-001/002/003, FW-JB-001/002/003, HEUR-JB-001/002/003/004/005, MET-JB-001
+#                      - Unique contribution: THE definitive closing system — systematic looping replaces ad-hoc objection handling
 # v3.8.0 (2026-03-16): Added eugene-schwartz (peso 0.70) — verbal selling, belief-building, desire intensification, objection reframing
 #                      - FW-ES-003, FW-ES-004, MET-ES-002, MET-ES-007, FW-ES-006, MM-ES-002, HEUR-ES-015, FW-ES-013
 # v3.7.0 (2026-03-15): Phase 7-8 — Added nick-nanton (story-selling, oxytocin-trust) peso 0.50
@@ -342,10 +390,17 @@ dna_sources:
         - "magnetic-marketing"       # MM enrichment 2026-03-15
         - "presentation-selling"     # MM enrichment 2026-03-15
         - "conviction-closing"       # MM enrichment 2026-03-15
+        # 10XS enrichment 2026-03-19
+        - "trial-closing"
+        - "platform-selling"
+        - "price-psychology"
+        - "objection-marathon"
+        - "table-rush-mechanics"
+        - "selection-close"
       peso: 0.60
-      quando_usar: "Perfect Webinar closing, Stack technique, Trial Closes, belief-based selling, Big Domino, Speak-to-Sell recovery, Emotion Thermometer, conviction closing via micro-commitments"
+      quando_usar: "Perfect Webinar closing, Stack technique, Trial Closes, belief-based selling, Big Domino, Speak-to-Sell recovery, Emotion Thermometer, conviction closing via micro-commitments, platform selling, price psychology, objection marathon, table rush mechanics, selection close"
       added: "2026-03-01"
-      updated: "2026-03-15"
+      updated: "2026-03-19"
       insight_ids:
         # --- Secrets Masterclass (original) ---
         - "FW-RB-001"   # Perfect Webinar Framework
@@ -526,6 +581,179 @@ dna_sources:
             - "Transitional Logic Words — language of inevitability guides prospect to yes"
             - "Inclusion Question — force yes-agreements that commit prospect before price"
 
+    - pessoa: "jordan-belfort"
+      path: "/knowledge/external/dna/persons/jordan-belfort"
+      raiz: "/knowledge/external/sources/jordan-belfort/raw/"
+      dominios_usados:
+        - "straight-line-system"
+        - "looping"
+        - "objection-handling"
+        - "closing"
+        - "tonality"
+        - "rebuttals"
+        - "scripting"
+        - "state-management"
+        - "copywriting-as-closing"     # SLM 2026-03-18
+        - "script-templates"           # SLM 2026-03-18
+        - "online-looping"             # SLM 2026-03-18
+        - "deflection-patterns"        # SLM 2026-03-18
+        - "fear-management"            # SLP 2026-03-18
+        - "persuasion-science"         # SLP 2026-03-18
+        - "trigger-words"              # SLP 2026-03-18
+        - "customer-retention"         # SLP 2026-03-18
+        - "proxemics"                  # SLP 2026-03-18
+        - "certainty-decay"              # SLPFT 2026-03-18
+        - "permission-intelligence"      # SLPFT 2026-03-18
+        - "power-language-patterns"      # SLPFT 2026-03-18
+      peso: 0.95
+      quando_usar: "Straight Line closing system, looping objections, Three Tens certainty building, tonality mastery (29 patterns), state management, script development, action threshold lowering, copywriting as applied closing, DFY script templates, retargeting as online looping, True Beauty language pattern, fear/pain management in closing, trigger word sequences, proxemics for in-person sales, customer retention via certainty, NLP anchoring, certainty decay prevention, Good Enough Factor, Three 10s Alignment Check, permission-based intelligence gathering, power language pattern deployment, Energy In = Benefits Out"
+      added: "2026-03-18"
+      updated: "2026-03-18"
+      insight_ids:
+        # --- SLSC4 (original) ---
+        - "FIL-JB-001"   # The Straight Line — every sale follows a straight line
+        - "FIL-JB-002"   # Three Tens — product/you/company certainty
+        - "FIL-JB-003"   # State Management is everything
+        - "FW-JB-001"    # Straight Line System (8-step)
+        - "FW-JB-002"    # Looping Framework (deflect → build certainty → re-close)
+        - "FW-JB-003"    # Five Core Elements
+        - "HEUR-JB-001"  # First 4 seconds determine the sale
+        - "HEUR-JB-002"  # Three Tens scale (10/10 on 3 dimensions)
+        - "HEUR-JB-003"  # 29 tonal patterns control 90% of influence
+        - "HEUR-JB-004"  # Max 3-4 loops per objection
+        - "HEUR-JB-005"  # Action threshold (7-10/10)
+        - "MET-JB-001"   # Straight Line Prospecting & Qualifying
+        # --- SLM (added 2026-03-18) ---
+        - "FW-JB-SLM-002"   # 6-Step Sales Letter (copywriting as closing in print)
+        - "FW-JB-SLM-010"   # Done-For-You Script Templates
+        - "FW-JB-SLM-011"   # True Beauty Language Pattern (written deflection)
+        # --- SLP (added 2026-03-18) ---
+        - "FW-JB-SLP-001"   # Straight Line Persuasion closing architecture
+        - "FW-JB-SLP-002"   # Fear/Pain Management Framework (convert fear into buying motivation)
+        - "FW-JB-SLP-003"   # Trigger Word Sequences (language patterns that bypass resistance)
+        - "MET-JB-SLP-001"  # 29 Tonal Patterns Applied (SLP-specific tonality drills)
+        - "HEUR-JB-SLP-001" # Proxemics in closing (body language, distance, mirroring)
+        - "FW-JB-SLP-004"   # Customer Retention via Certainty (post-close certainty maintenance)
+        - "MM-JB-SLP-001"   # NLP Anchoring for State Management (olfactory + kinesthetic anchors)
+        # --- SLPFT (added 2026-03-18) ---
+        - "MM-JB-SLPFT-001"  # Certainty Decay Model (certainty fades over time without reinforcement)
+        - "HEUR-JB-SLPFT-001" # Good Enough Factor (prospect settles for "good enough" if certainty drops)
+        - "FW-JB-SLPFT-001"  # Three 10s Alignment Check (systematic certainty verification before close)
+        - "MET-JB-SLPFT-001" # Permission-Based Intelligence Gathering (ethical info extraction through permission frames)
+        - "FW-JB-SLPFT-002"  # Power Language Pattern Deployment (high-impact language sequences for closing)
+        - "FIL-JB-SLPFT-001" # Energy In = Benefits Out (effort invested correlates to benefits received)
+        - "MET-JB-SLPFT-002" # Certainty Building with Decay Prevention (methodology to build AND maintain certainty)
+      chunk_ids: []
+      # SLM highlights (added 2026-03-18)
+      slm_highlights:
+        - tema: "Copywriting as Applied Closing"
+          descricao: "SLP principles translated to written copy — 6-Step Sales Letter uses same persuasion architecture as verbal closing"
+          aplicacao: "Closer uses for follow-up copy, proposal letters, email sequences that close in print"
+          source: "Straight Line Marketing (SLM)"
+        - tema: "Done-For-You Script Templates"
+          descricao: "Pre-built script templates for common closing scenarios — SLP structure in fill-in-the-blank format"
+          aplicacao: "Closer uses as starting point for call scripts, follow-up templates, objection handling scripts"
+          source: "Straight Line Marketing (SLM)"
+        - tema: "Online Looping / Retargeting"
+          descricao: "Retargeting as digital looping — multi-touch sequences that mirror verbal looping process"
+          aplicacao: "Closer understands how retargeting supports their closing process — prospects pre-warmed by digital loops"
+          source: "Straight Line Marketing (SLM)"
+      # SLP highlights (added 2026-03-18)
+      slp_highlights:
+        - tema: "Fear/Pain Management"
+          descricao: "Convert prospect's fear and pain into buying motivation — manage emotional state through the close, not just before it"
+          aplicacao: "Closer uses fear management to guide emotional trajectory: acknowledge fear → reframe as cost of inaction → channel into decisive action"
+          source: "Straight Line Persuasion (SLP)"
+        - tema: "Trigger Words & Language Patterns"
+          descricao: "Specific word sequences that bypass conscious resistance — embedded commands, presuppositions, temporal language shifts"
+          aplicacao: "Closer embeds trigger words naturally in pitch: 'when you start' (not 'if'), 'as you begin to see results', 'the moment you decide'"
+          source: "Straight Line Persuasion (SLP)"
+        - tema: "Proxemics & Body Language"
+          descricao: "Physical distance, mirroring, eye contact patterns, hand gestures — non-verbal persuasion for in-person closes"
+          aplicacao: "Closer uses proxemics for in-person meetings: lean in during commitment, mirror posture, manage personal space for trust"
+          source: "Straight Line Persuasion (SLP)"
+        - tema: "Customer Retention via Certainty"
+          descricao: "Post-close certainty maintenance — prevent buyer's remorse by reinforcing Three Tens after the sale"
+          aplicacao: "Closer follows up post-close to reinforce certainty: confirmation call, welcome sequence, early wins celebration"
+          source: "Straight Line Persuasion (SLP)"
+      # SLPFT highlights (added 2026-03-18)
+      slpft_highlights:
+        - tema: "Certainty Decay Model"
+          descricao: "Certainty fades over time without active reinforcement — prospect who was 9/10 today may be 6/10 tomorrow"
+          aplicacao: "Closer must close within the certainty window or actively reinforce; follow-up timing is critical to prevent decay below action threshold"
+          source: "Straight Line Persuasion Fast Track (SLPFT)"
+        - tema: "Good Enough Factor"
+          descricao: "When certainty decays, prospects settle for 'good enough' alternatives or status quo — lower-quality competitor wins by default"
+          aplicacao: "Closer uses urgency framing tied to decay: 'the longer you wait, the more likely you settle for less than you deserve'"
+          source: "Straight Line Persuasion Fast Track (SLPFT)"
+        - tema: "Three 10s Alignment Check"
+          descricao: "Systematic certainty verification across all three dimensions (product/you/company) before attempting the close"
+          aplicacao: "Closer runs alignment check mid-call: 'On a scale of 1-10, how confident are you that...' for each dimension before closing"
+          source: "Straight Line Persuasion Fast Track (SLPFT)"
+        - tema: "Permission-Based Intelligence Gathering"
+          descricao: "Ethical information extraction through permission frames — prospect feels in control while revealing decision criteria"
+          aplicacao: "Closer asks 'Would it be okay if I asked you a few questions to see if this is even right for you?' — lowers guard, gathers intel"
+          source: "Straight Line Persuasion Fast Track (SLPFT)"
+        - tema: "Power Language Pattern Deployment"
+          descricao: "High-impact language sequences designed for closing moments — specific word choices that trigger commitment"
+          aplicacao: "Closer deploys power patterns at key moments: transition phrases, commitment language, certainty-building word sequences"
+          source: "Straight Line Persuasion Fast Track (SLPFT)"
+        - tema: "Energy In = Benefits Out"
+          descricao: "The effort and energy a prospect invests in the process correlates directly to the benefits they receive"
+          aplicacao: "Closer frames investment of time/energy as proof of commitment: 'The fact that you've invested this time tells me you're serious'"
+          source: "Straight Line Persuasion Fast Track (SLPFT)"
+        - tema: "Certainty Building with Decay Prevention"
+          descricao: "Methodology that not only builds certainty but actively prevents its decay — combines building techniques with reinforcement loops"
+          aplicacao: "Closer builds certainty AND installs reinforcement anchors: recap agreements, future-pace benefits, schedule next touchpoint before certainty decays"
+          source: "Straight Line Persuasion Fast Track (SLPFT)"
+      materiais_fonte:
+        - titulo: "Straight Line Certification 4.0"
+          path_raiz: "/knowledge/external/sources/jordan-belfort/raw/straight-line-sales-certification/"
+          tipo: "certification-program"
+          data_processamento: "2026-03-18"
+          insights_principais:
+            - "Straight Line System: every sale follows a straight line from open to close"
+            - "Three Tens: 10/10 certainty on product, you, and company"
+            - "Looping: deflect objection → build more certainty → re-close (max 3-4 loops)"
+            - "29 tonal patterns control 90% of influence"
+            - "First 4 seconds: sharp, enthusiastic, expert"
+            - "Action Threshold: lower through risk reversal, energy-in, guarantees"
+            - "State Management: olfactory anchoring, physiology, certainty"
+            - "Step-Down Sale: offer lower-priced alternative when main offer resisted"
+        - titulo: "Straight Line Marketing (10 Modules)"
+          path_raiz: "/knowledge/external/sources/jordan-belfort/raw/straight-line-marketing/"
+          tipo: "certification-program"
+          data_processamento: "2026-03-18"
+          insights_principais:
+            - "Copywriting as closing: SLP persuasion architecture applied to written copy"
+            - "Done-For-You script templates: fill-in-the-blank SLP scripts"
+            - "True Beauty language pattern: written deflection for objections"
+            - "Retargeting as online looping: multi-touch sequences mirror verbal loops"
+        - titulo: "Straight Line Persuasion (SLP)"
+          path_raiz: "/knowledge/external/sources/jordan-belfort/raw/straight-line-persuasion/"
+          tipo: "training-program"
+          data_processamento: "2026-03-18"
+          insights_principais:
+            - "Fear/pain management: convert fear into buying motivation during close"
+            - "29 tonal patterns with SLP-specific application drills"
+            - "Trigger word sequences: embedded commands, presuppositions, temporal shifts"
+            - "Proxemics: body language, mirroring, personal space management"
+            - "Customer retention: post-close certainty reinforcement prevents buyer's remorse"
+            - "NLP anchoring: olfactory + kinesthetic anchors for state management"
+            - "Inner game: certainty stack, vision boarding, morning ritual protocols"
+        - titulo: "Straight Line Persuasion Fast Track (SLPFT)"
+          path_raiz: "/knowledge/external/sources/jordan-belfort/raw/straight-line-persuasion-fast-track/"
+          tipo: "training-program"
+          data_processamento: "2026-03-18"
+          insights_principais:
+            - "Certainty Decay model: certainty fades over time, must close within window or reinforce"
+            - "Good Enough Factor: decayed certainty makes prospects settle for inferior alternatives"
+            - "Three 10s Alignment Check: systematic certainty verification before close attempt"
+            - "Permission-Based Intelligence Gathering: ethical info extraction through permission frames"
+            - "Power Language Pattern Deployment: high-impact word sequences for closing moments"
+            - "Energy In = Benefits Out: effort invested correlates to benefits received"
+            - "Certainty Building with Decay Prevention: build certainty AND install reinforcement loops"
+
     # ─────────────────────────────────────────────────────────────────────────────
     # ADICIONADO EM PHASE 5.3 - MISSION-2026-001
     # ─────────────────────────────────────────────────────────────────────────────
@@ -580,6 +808,133 @@ dna_sources:
             - "Dimensionamento de time comercial"
             - "Metricas BR: 15-30% conversao, 60-80% show rate"
             - "Remuneracao BR calibrada"
+
+    - pessoa: "oren-klaff"
+      path: "/knowledge/external/dna/persons/oren-klaff"
+      raiz: "/knowledge/external/sources/oren-klaff/raw/"
+      dominios_usados:
+        - "frame-control"
+        - "neediness-eradication"
+        - "concession-handling"
+        - "four-frame-stack"
+        - "buying-temperature"
+        - "14-waypoints"
+        - "deal-closing"
+        - "hot-cognition"
+        - "immersion"
+        - "pitching"
+        - "neuroscience"
+        - "social-dynamics"
+      peso: 0.80
+      quando_usar: "Frame control in closing calls, neediness eradication (killing the deal-killer), concession handling methodology, four-frame stack for pricing objections, buying temperature calibration, 14 waypoints for deal progression, deal closing autonomy"
+      added: "2026-03-18"
+      insight_ids:
+        - "FIL-OK-001"   # Frame control — whoever holds the frame wins
+        - "FW-OK-001"    # STRONG Method
+        - "FW-OK-004"    # Four-Frame Stack (pricing/concession)
+        - "FW-OK-005"    # 14 Waypoints (deal progression)
+        - "FW-OK-006"    # Neediness Eradication Framework
+        - "FW-OK-007"    # Concession Handling
+        - "MM-OK-001"    # Crocodile Brain (hot cognition)
+        - "HEUR-OK-001"  # Buying temperature thresholds
+        - "HEUR-OK-002"  # Immersion point recognition
+      chunk_ids: []
+      materiais_fonte:
+        - titulo: "Pitch Mastery"
+          path_raiz: "/knowledge/external/sources/oren-klaff/raw/"
+          tipo: "training-program"
+          data_processamento: "2026-03-18"
+          insights_principais:
+            - "Frame control: whoever controls the frame controls the close"
+            - "Neediness eradication: neediness is the #1 deal killer — eliminate before pitch"
+            - "Four-frame stack: systematic approach to pricing objections using 4 reframes"
+            - "Buying temperature: calibrate prospect heat level before asking for decision"
+            - "14 waypoints: structured deal progression checkpoints"
+            - "Concession handling: strategic concessions that increase perceived value"
+            - "Crocodile brain: pitch to hot cognition first, logic second"
+
+    - pessoa: "donald-miller"
+      path: "/knowledge/external/dna/persons/donald-miller"
+      raiz: "/knowledge/external/sources/donald-miller/raw/"
+      dominios_usados:
+        - "sales-copy"
+        - "persuasion"
+        - "tension-relief"
+        - "email-objection-handling"
+        - "storytelling"
+      peso: 0.55
+      quando_usar: "PASTOR Framework for structured sales proposals, tension-relief methodology for objection handling, 7 Persuasion Principles for call structure, email-based objection handling using StoryBrand messaging"
+      justificativa: "Donald Miller provides story-driven sales methodology — CLOSER uses PASTOR for proposal writing, tension-relief for natural objection handling, and StoryBrand messaging for post-call email follow-ups"
+      added: "2026-03-18"
+      insight_ids:
+        - "FW-DM-013"    # PASTOR Framework
+        - "FW-DM-014"    # 7 Persuasion Principles
+        - "FIL-DM-002"   # Story = survival mechanism
+        - "FW-DM-001"    # BrandScript Framework (SB7)
+        - "MM-DM-002"    # Story-driven sales
+        - "HEUR-DM-020"  # 85% nurture conversion
+      chunk_ids: []
+      # SBMR highlights for CLOSER (added 2026-03-18)
+      sbmr_highlights:
+        - tema: "PASTOR Sales Methodology"
+          descricao: "Problem → Amplify → Story → Transformation → Offer → Response — structured framework for sales conversations and written proposals"
+          aplicacao: "CLOSER uses PASTOR as structure for discovery calls, proposals, and follow-up emails — story-driven selling methodology"
+          source: "StoryBrand Marketing Roadmap (SBMR)"
+        - tema: "Tension-Relief Sales Methodology"
+          descricao: "Create tension by amplifying the gap between current state and desired state, then offer relief through the solution — natural objection resolution"
+          aplicacao: "CLOSER uses tension-relief as objection handling technique — amplify cost of inaction before presenting solution"
+          source: "StoryBrand Marketing Roadmap (SBMR)"
+        - tema: "Email-Based Objection Handling"
+          descricao: "Use StoryBrand email sequences to handle common objections asynchronously — send targeted story-driven content addressing specific concerns"
+          aplicacao: "CLOSER sends PASTOR-structured follow-up emails targeting specific objections identified on calls — 85% of buyers need nurture"
+          source: "StoryBrand Marketing Roadmap (SBMR)"
+      materiais_fonte:
+        - titulo: "Sell With Story (Building a StoryBrand)"
+          path_raiz: "/knowledge/external/sources/donald-miller/raw/"
+          tipo: "course"
+          data_processamento: "2026-03-18"
+          insights_principais:
+            - "BrandScript SB7: messaging clarity for sales conversations"
+            - "Story-driven selling: customer as hero, closer as guide"
+        - titulo: "StoryBrand Marketing Roadmap (SBMR)"
+          path_raiz: "/knowledge/external/sources/donald-miller/raw/"
+          tipo: "course"
+          data_processamento: "2026-03-18"
+          insights_principais:
+            - "PASTOR Framework: structured sales methodology for calls and proposals"
+            - "Tension-Relief: amplify gap then offer resolution — natural closing"
+            - "7 Persuasion Principles: systematic persuasion in sales calls"
+            - "Email objection handling: story-driven follow-up sequences"
+
+    - pessoa: "robert-cialdini"
+      path: "/knowledge/external/dna/persons/robert-cialdini"
+      raiz: "/knowledge/external/sources/robert-cialdini/raw/"
+      dominios_usados:
+        - "influence"
+        - "reciprocity"
+        - "commitment"
+        - "scarcity"
+        - "contrast"
+        - "authority"
+        - "social-proof"
+      peso: 0.80
+      quando_usar: "Reciprocity for concession-based closing, commitment & consistency for micro-commitments during calls, scarcity for urgency creation, contrast principle for price anchoring, authority for credibility building, social proof for case studies and testimonials"
+      justificativa: "Cialdini's principles are foundational for closing — reciprocity (concessions), commitment (consistency), scarcity (urgency), contrast (price anchoring), authority (credibility)"
+      added: "2026-03-19"
+      insight_ids: []
+      chunk_ids: []
+      materiais_fonte:
+        - titulo: "Ethical Influence Practitioner Program (EIPP)"
+          path_raiz: "/knowledge/external/sources/robert-cialdini/raw/"
+          tipo: "course"
+          data_processamento: "2026-03-19"
+          insights_principais:
+            - "6 Principles of Influence: reciprocity, commitment, social proof, authority, liking, scarcity"
+            - "Reciprocity: concessions in negotiation create obligation to reciprocate"
+            - "Commitment & Consistency: micro-commitments build momentum toward close"
+            - "Scarcity: genuine scarcity creates urgency without manipulation"
+            - "Contrast Principle: price anchoring through contrast frames value perception"
+            - "Authority: credibility signals (expertise, credentials) reduce resistance"
 
 # ═══════════════════════════════════════════════════════════════════════════════
 # MAPA DE CONFLITOS

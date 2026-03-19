@@ -17,11 +17,68 @@
 # ═══════════════════════════════════════════════════════════════════════════════
 
 cargo: "CRO"
-versao: "10.0.0"
+versao: "24.0.0"
 nivel: "C-LEVEL"
 natureza: "HIBRIDO"
 data_criacao: "2025-12-23"
-ultima_atualizacao: "2026-03-17"
+ultima_atualizacao: "2026-03-19"
+# v24.0.0 (2026-03-19): Added robert-cialdini (influence-psychology, ethical-persuasion, social-proof-engineering, decision-science, pre-suasion) — EIPP pipeline, peso 0.85
+#                      - Key frameworks: 6 Principles of Influence, Pre-Suasion, Ethical Influence, Social Proof Engineering, Decision Science
+#                      - Key domains: influence-psychology, ethical-persuasion, social-proof-engineering, decision-science, pre-suasion
+#                      - Unique contribution: system-level understanding of persuasion across the entire revenue funnel
+# v23.0.0 (2026-03-19): Updated russell-brunson with 10XS domains — stage-selling, event-selling, trial-closing, price-psychology, repitch-methodology, high-ticket-closing, webinar-optimization
+# v22.0.0 (2026-03-18): Added chris-voss (negotiation-strategy, deal-structure, leverage-types, loss-aversion) — 93 el DNA, peso 0.70
+#                      - Key frameworks: Ackerman Model (deal pricing), 3 Types of Leverage, Black Swan Discovery, Behavioral Change Stairway
+#                      - Key domains: negotiation, deal-closing, leverage, stakeholder-mapping, implementation
+#                      - Key heuristics: 65% anchor, precise non-rounded pricing, loss-framing (70%), Rule of Three for implementation
+#                      - Unique contribution: FBI negotiation methodology for C-level deal-making, leverage identification, implementation assurance
+# v21.0.0 (2026-03-18): Updated donald-miller with SBMR — 95 el total (was 75), peso 0.80
+#                      - NEW source: StoryBrand Marketing Roadmap (SBMR)
+#                      - NEW domains: sales-copy, conversion-optimization, campaign-strategy
+#                      - Key new frameworks: PASTOR Framework, Campaign Stacking Model, 7 Persuasion Principles
+#                      - Total DM contribution: 95 elements (SB7 75 + SBMR 20)
+# v20.0.0 (2026-03-18): Added donald-miller (messaging, brand-strategy, sales-funnel, conversion) — 75 el DNA, peso 0.80
+#                      - Key frameworks: BrandScript SB7, One-Liner Formula, Sales Funnel Architecture, Grunt Test, Guide Positioning, Value Stacking
+#                      - Key IDs: FIL-DM-002/008, FW-DM-001/004, MM-DM-002/012, HEUR-DM-005/007/020
+#                      - Unique contribution: clarity-first revenue messaging, story-based sales funnel design, conversion-focused website wireframe
+# v19.0.0 (2026-03-18): Added oren-klaff (deal-closing, pitching, status-dynamics, hook-point, STRONG-method) — 272 el DNA, peso 0.75
+#                      - Key frameworks: STRONG method, Frame Control, Hook Point, Pitch Deck Architecture, Status Alignment
+#                      - Key domains: frame-control, pitching, neuroscience, social-dynamics, status, deal-closing, persuasion, hot-cognition, hook-point
+#                      - Unique contribution: neuroscience-based pitching, frame control for high-stakes deals, status dynamics in C-level negotiations
+# v18.0.0 (2026-03-18): Updated jordan-belfort with SLSP — 658 el DNA v5.0.0 (was 528 v4.0.0), 5 sources (was 4)
+#                      - NEW source: Straight Line Sales Psychology (SLSP) — 130 new elements
+#                      - Key SLSP for CRO: 4 Buying Archetypes (segmentation), Sales Funnel Reverse Engineering,
+#                        Customer for Life (6 strategies), Referral System (6-step), Post-Sale Certainty Maintenance,
+#                        Sales Team State Management (Stratton Model), Standards framework (team performance),
+#                        Prospecting & Qualifying depth, Qualifying Questions Hierarchy, Sales Funnel Diagnostic
+# v17.0.0 (2026-03-18): Updated jordan-belfort with SLPFT — 528 el DNA v4.0.0 (was 483 v3.0.0), 4 sources (was 3)
+#                      - NEW source: Straight Line Persuasion Fast Track (SLPFT)
+#                      - Safe Cracker model for pipeline analysis, Certainty Decay model for sales cycle optimization
+#                      - 4 Cs Inner Game for team development, Sales & Marketing Integration Model
+# v16.0.0 (2026-03-18): Updated jordan-belfort with SLP — ~426 el total (was 406), peso 0.80 (unchanged)
+#                      - NEW source: Straight Line Persuasion (SLP) — sales strategy, funnel metrics, prospecting methodology, team diagnostics
+#                      - ~20 new CRO-relevant elements (sales funnel metrics, conversion diagnostics, team performance frameworks)
+#                      - Key SLP: Three Tens as org-wide diagnostic, action threshold as conversion metric, prospecting pipeline architecture
+# v15.0.0 (2026-03-18): Updated jordan-belfort with SLM — 406 el DNA total (was 250), peso 0.85→0.80
+#                      - NEW source: Straight Line Marketing (10 Modules, 50 files, 156 new elements)
+#                      - NEW domains: conversion-optimization, funnel-architecture, split-testing, retargeting, customer-value-optimization, upsell-downsell
+#                      - Key new frameworks: 6-Step SLM Funnel, Traffic Channel Selection, 4 Steps to Online Domination, Customer Value Optimization
+#                      - CRO-relevant SLM: funnel conversion optimization, split testing methodology, retargeting for re-engagement, upsell/downsell strategies
+# v14.0.0 (2026-03-18): Added jordan-belfort (sales-systems, sales-metrics, team-building, straight-line-system, closing-methodology) — 250 el DNA, peso 0.85
+#                      - Key frameworks: Straight Line System (sales process architecture), Three Tens (diagnostic tool), Looping (objection methodology)
+#                      - Key IDs: FIL-JB-001/002/003, FW-JB-001/002/003, HEUR-JB-001/002/003
+#                      - Unique contribution: THE definitive sales system architecture — CRO uses for sales process design, team training standards, performance diagnostics
+# v13.0.0 (2026-03-18): Added frank-kern (sales-processes, irresistible-offers, follow-up-systems, countdown-promotions, funnel-optimization, supersystem-revenue) — 269 el DNA, peso 0.80
+#                      - Key frameworks: Supersystem (revenue engine), Loss-Leader Process, Irresistible Offer (refund difference +20%), Countdown Promotion, Diagnostic Funnel Checklist
+#                      - Key IDs: FIL-FK-001/002/092/097, FW-FK-001/010/063/070, HEUR-FK-001/099, MET-FK-001/060
+#                      - Unique contribution: Supersystem as holistic revenue engine, irresistible guarantee math, countdown promotion revenue psychology
+# v12.0.0 (2026-03-17): Updated clayton-makepeace with QSCS — 633 el DNA total (was 388), peso 0.70→0.75
+#                      - NEW source: Quick Start Copywriting System (245 new elements)
+#                      - CRO-relevant QSCS: 30% Solution (5 revenue metrics), 13 Proof Strategies, conversion-focused frameworks, closing methodology
+#                      - Total CM contribution: 633 elements (BYCB 388 + QSCS 245)
+# v11.0.0 (2026-03-17): Added clayton-makepeace (deal-structuring, client-ltv, revenue-models, marketing-metrics, partnership-model) — 388 el DNA, peso 0.70
+#                      - Key: four revenue models progression, royalty-based deals, LTV/CPA mastery, client lifetime value
+#                      - Key IDs: FIL-CM-201, FIL-CM-202, FW-CM-201, HEUR-CM-201, MM-CM-201, MET-CM-201
 # v10.0.0 (2026-03-17): Updated john-carlton with SWS2 — 261 el DNA total (was 97), peso 0.70
 #                      - NEW source: Simple Writing System (164 new elements)
 #                      - Key new frameworks: 17-Step Formula, So What? Test, Incongruous Juxtaposition, 4-Part Sales Message, Grease Slide, Appealometer
@@ -232,10 +289,18 @@ dna_sources:
         - "magnetic-marketing"       # MM enrichment 2026-03-15
         - "direct-mail"              # MM enrichment 2026-03-15
         - "funnel-stacking"          # MM enrichment 2026-03-15
+        # 10XS enrichment 2026-03-19
+        - "stage-selling"
+        - "event-selling"
+        - "trial-closing"
+        - "price-psychology"
+        - "repitch-methodology"
+        - "high-ticket-closing"
+        - "webinar-optimization"
       peso: 0.75
-      quando_usar: "Revenue optimization via funnels, webinar revenue, funnel stacking, Value Ladder monetization, 9 Core Funnels architecture, Invisible Funnel launch, direct mail integration, multi-channel revenue"
+      quando_usar: "Revenue optimization via funnels, webinar revenue, funnel stacking, Value Ladder monetization, 9 Core Funnels architecture, Invisible Funnel launch, direct mail integration, multi-channel revenue, stage selling, event selling, trial closing, price psychology, repitch methodology, high-ticket closing, webinar optimization"
       added: "2026-03-01"
-      updated: "2026-03-15"
+      updated: "2026-03-19"
       insight_ids:
         # --- Secrets Masterclass + PDFs (original) ---
         - "FW-RB-001"   # Perfect Webinar Framework
@@ -723,6 +788,304 @@ resolucao_de_conflitos:
             - "AFA 15-point application funnel for high-ticket"
             - "Sales call 30-50% vs funnel 3-5% -- Automated Intimacy bridges gap"
             - "Seize Before Scale -- capture existing EP before expanding"
+
+    - pessoa: "clayton-makepeace"
+      path: "/knowledge/external/dna/persons/clayton-makepeace"
+      raiz: "/knowledge/external/sources/clayton-makepeace/raw/"
+      dominios_usados:
+        - "deal-structuring"
+        - "client-ltv"
+        - "revenue-models"
+        - "marketing-metrics"
+        - "partnership-model"
+        - "conversion-optimization"
+        - "proof-strategies"
+        - "closing-methodology"
+      peso: 0.75
+      quando_usar: "Revenue model design, deal structuring, client LTV maximization, royalty/partnership agreements, service pricing, marketing ROI metrics, conversion optimization (30% Solution), proof-driven selling, closing methodology"
+      added: "2026-03-17"
+      insight_ids:
+        - "FIL-CM-201"   # The Freelance Model is Insane
+        - "FIL-CM-202"   # Six Figures is Chump Change
+        - "FIL-CM-301"   # The 30% Solution Mindset
+        - "FW-CM-201"    # Makepeace Business System
+        - "FW-CM-301"    # 30% Solution (5 metrics x 30%)
+        - "FW-CM-304"    # 13 Proof Strategies
+        - "FW-CM-310"    # Master Closer In Print (6-Step)
+        - "HEUR-CM-201"  # Royalty rates and fee structures
+        - "HEUR-CM-301"  # 30% x 5 = 3.7x
+        - "MM-CM-201"    # Four Revenue Models
+        - "MET-CM-201"   # LTV/CPA-based deal structuring
+      materiais_fonte:
+        - titulo: "Quick Start Copywriting System (QSCS)"
+          path_raiz: "/knowledge/external/sources/clayton-makepeace/raw/"
+          tipo: "masterclass"
+          data_processamento: "2026-03-17"
+          insights_principais:
+            - "30% Solution: 5 metrics x 30% = 371% total increase (traffic, conversion, avg order, frequency, retention)"
+            - "13 Proof Strategies: comprehensive believability toolkit for higher conversion"
+            - "6-Step Master Closer In Print: systematic closing methodology"
+            - "Customer Lifecycle Marketing: acquisition → conversion → retention → reactivation"
+        - titulo: "Building Your Copywriting Business (BYCB)"
+          path_raiz: "/knowledge/external/sources/clayton-makepeace/raw/"
+          tipo: "masterclass"
+          data_processamento: "2026-03-17"
+          insights_principais:
+            - "Four revenue models: jobs → freelancing → partnering → ownership (progression to 7-figures)"
+            - "Royalty-based deals tie service provider income to client revenue growth"
+            - "Win-win deal structure: advance + royalty with client upside protection"
+            - "LTV/CPA mastery: understanding allowable per order, break-even, back-end revenue"
+            - "Client lifetime value: turn one deal into recurring revenue stream"
+
+    - pessoa: "jordan-belfort"
+      path: "/knowledge/external/dna/persons/jordan-belfort"
+      raiz: "/knowledge/external/sources/jordan-belfort/raw/"
+      dominios_usados:
+        - "sales-systems"
+        - "sales-metrics"
+        - "team-building"
+        - "straight-line-system"
+        - "closing-methodology"
+        - "conversion-optimization"       # SLM 2026-03-18
+        - "funnel-architecture"           # SLM 2026-03-18
+        - "split-testing"                 # SLM 2026-03-18
+        - "retargeting"                   # SLM 2026-03-18
+        - "customer-value-optimization"   # SLM 2026-03-18
+        - "upsell-downsell"               # SLM 2026-03-18
+        - "safe-cracker-pipeline"          # SLPFT 2026-03-18
+        - "certainty-decay-optimization"   # SLPFT 2026-03-18
+        - "4cs-inner-game"                 # SLPFT 2026-03-18
+        - "sales-marketing-integration"    # SLPFT 2026-03-18
+      peso: 0.80
+      quando_usar: "Sales process architecture, Three Tens diagnostics, closing methodology standardization, funnel conversion optimization, split testing methodology, retargeting for re-engagement, upsell/downsell strategies, customer value optimization, Safe Cracker pipeline analysis, Certainty Decay sales cycle optimization, 4 Cs Inner Game team development, Sales & Marketing Integration"
+      added: "2026-03-18"
+      updated: "2026-03-18"
+      insight_ids:
+        # --- SLSC4 (original) ---
+        - "FIL-JB-001"   # Straight Line — sales process architecture
+        - "FIL-JB-002"   # Three Tens — diagnostic framework
+        - "FW-JB-001"    # Straight Line System (organizational standard)
+        - "FW-JB-002"    # Looping Framework (objection methodology)
+        - "FW-JB-003"    # Five Core Elements (hiring criteria)
+        - "HEUR-JB-001"  # 4-second test (QA metric)
+        - "HEUR-JB-002"  # Three Tens scale (performance diagnostic)
+        - "HEUR-JB-003"  # 29 tonal patterns (training standard)
+        # --- SLM (added 2026-03-18) ---
+        - "FW-JB-SLM-001"   # 6-Step SLM Funnel (funnel architecture)
+        - "FW-JB-SLM-005"   # 4 Steps to Online Domination (Build→Drive→Convert→Optimize)
+        - "FW-JB-SLM-008"   # Split Testing Methodology
+        - "FW-JB-SLM-009"   # Customer Value Optimization (upsell/downsell/retention)
+        # --- SLP (added 2026-03-18) ---
+        - "FW-JB-SLP-007"   # Three Tens as Org-Wide Sales Diagnostic
+        - "HEUR-JB-SLP-003" # Action Threshold as Conversion Metric (7-10/10 benchmark)
+        - "FW-JB-SLP-008"   # Prospecting Pipeline Architecture (qualify → present → close flow)
+        - "MM-JB-SLP-002"   # Sales Process Standardization via Straight Line
+        # --- SLPFT (added 2026-03-18) ---
+        - "FW-JB-SLPFT-001"   # Safe Cracker Model (pipeline analysis)
+        - "MM-JB-SLPFT-001"   # Certainty Decay Model (sales cycle optimization)
+        - "FW-JB-SLPFT-002"   # 4 Cs Inner Game (team development)
+        - "FW-JB-SLPFT-003"   # Sales & Marketing Integration Model
+      chunk_ids: []
+      # SLM highlights (added 2026-03-18)
+      slm_highlights:
+        - tema: "Funnel Conversion Optimization"
+          descricao: "6-Step SLM Funnel + 4 Steps to Online Domination — systematic funnel architecture with conversion optimization at each stage"
+          aplicacao: "CRO uses for designing and optimizing revenue funnels — conversion metrics at each funnel stage"
+          source: "Straight Line Marketing (SLM)"
+        - tema: "Split Testing & Retargeting"
+          descricao: "Systematic split testing methodology + multi-touch retargeting sequences — data-driven optimization"
+          aplicacao: "CRO uses for A/B testing funnels, retargeting for abandoned prospects, frequency optimization"
+          source: "Straight Line Marketing (SLM)"
+        - tema: "Customer Value Optimization"
+          descricao: "Upsell/downsell strategies, customer lifecycle optimization, retention through value stacking"
+          aplicacao: "CRO uses for maximizing revenue per customer — upsell sequences, downsell recovery, LTV optimization"
+          source: "Straight Line Marketing (SLM)"
+      # SLPFT highlights (added 2026-03-18)
+      slpft_highlights:
+        - tema: "Safe Cracker Pipeline Analysis"
+          descricao: "Safe Cracker model — systematic pipeline analysis framework to identify and unlock stuck deals at each stage"
+          aplicacao: "CRO uses for pipeline reviews — diagnose where deals stall, apply targeted interventions per stage"
+          source: "Straight Line Persuasion Fast Track (SLPFT)"
+        - tema: "Certainty Decay Sales Cycle Optimization"
+          descricao: "Certainty Decay model — prospect certainty degrades over time, requiring calibrated re-engagement to prevent pipeline leakage"
+          aplicacao: "CRO uses for sales cycle optimization — set max time-in-stage thresholds, trigger re-engagement before certainty drops below action threshold"
+          source: "Straight Line Persuasion Fast Track (SLPFT)"
+        - tema: "4 Cs Inner Game for Team Development"
+          descricao: "4 Cs Inner Game framework — Certainty, Clarity, Confidence, Courage as diagnostic for sales team development"
+          aplicacao: "CRO uses for team development strategy — assess which C each rep needs to develop, design training programs accordingly"
+          source: "Straight Line Persuasion Fast Track (SLPFT)"
+        - tema: "Sales & Marketing Integration Model"
+          descricao: "Sales & Marketing Integration Model — systematic alignment between marketing messaging and sales process for consistent prospect experience"
+          aplicacao: "CRO uses for cross-functional alignment — ensure marketing promises match sales delivery, unified certainty building across touchpoints"
+          source: "Straight Line Persuasion Fast Track (SLPFT)"
+      materiais_fonte:
+        - titulo: "Straight Line Certification 4.0"
+          path_raiz: "/knowledge/external/sources/jordan-belfort/raw/straight-line-sales-certification/"
+          tipo: "certification-program"
+          data_processamento: "2026-03-18"
+          insights_principais:
+            - "Straight Line System: complete sales process architecture for org-wide deployment"
+            - "Three Tens: diagnostic tool for identifying sales team weaknesses"
+            - "Looping: standardized objection handling methodology"
+            - "Five Core Elements: hiring criteria for new sales reps"
+            - "29 tonal patterns: trainable skill for QC measurement"
+        - titulo: "Straight Line Marketing (10 Modules)"
+          path_raiz: "/knowledge/external/sources/jordan-belfort/raw/straight-line-marketing/"
+          tipo: "certification-program"
+          data_processamento: "2026-03-18"
+          insights_principais:
+            - "6-Step SLM Funnel: funnel architecture for conversion optimization"
+            - "4 Steps to Online Domination: Build → Drive → Convert → Optimize"
+            - "Split testing methodology: systematic A/B testing at each funnel stage"
+            - "Retargeting: multi-touch re-engagement sequences"
+            - "Upsell/downsell strategies: maximize customer value post-conversion"
+        - titulo: "Straight Line Persuasion (SLP)"
+          path_raiz: "/knowledge/external/sources/jordan-belfort/raw/straight-line-persuasion/"
+          tipo: "training-program"
+          data_processamento: "2026-03-18"
+          insights_principais:
+            - "Three Tens as org-wide diagnostic: score each rep on product/self/company certainty"
+            - "Action threshold as conversion metric: org must lower threshold to 7-10/10 range"
+            - "Prospecting pipeline architecture: systematic qualify → present → close flow"
+            - "Sales process standardization: Straight Line as company-wide selling methodology"
+        - titulo: "Straight Line Persuasion Fast Track (SLPFT)"
+          path_raiz: "/knowledge/external/sources/jordan-belfort/raw/straight-line-persuasion-fast-track/"
+          tipo: "training-program"
+          data_processamento: "2026-03-18"
+          insights_principais:
+            - "Safe Cracker model: pipeline analysis framework to unlock stuck deals at each stage"
+            - "Certainty Decay model: prospect certainty degrades over time, requires calibrated re-engagement"
+            - "4 Cs Inner Game: Certainty, Clarity, Confidence, Courage as team development diagnostic"
+            - "Sales & Marketing Integration: systematic alignment between marketing messaging and sales process"
+
+    - pessoa: "oren-klaff"
+      path: "/knowledge/external/dna/persons/oren-klaff"
+      raiz: "/knowledge/external/sources/oren-klaff/raw/"
+      dominios_usados:
+        - "deal-closing"
+        - "pitching"
+        - "status-dynamics"
+        - "hook-point"
+        - "frame-control"
+        - "neuroscience"
+        - "social-dynamics"
+        - "hot-cognition"
+        - "STRONG-method"
+      peso: 0.75
+      quando_usar: "High-stakes deal closing, pitching methodology, status alignment in C-level negotiations, hook point recognition, STRONG method for deal architecture, frame control in revenue conversations"
+      added: "2026-03-18"
+      insight_ids:
+        - "FIL-OK-001"   # Frame control as power dynamic
+        - "FW-OK-001"    # STRONG Method (Set frame, Tell story, Reveal intrigue, Offer prize, Nail hookpoint, Get decision)
+        - "FW-OK-002"    # Pitch Deck Architecture
+        - "FW-OK-003"    # Status Alignment Framework
+        - "MM-OK-001"    # Crocodile Brain (hot cognition)
+        - "HEUR-OK-001"  # Hook Point recognition
+      chunk_ids: []
+      materiais_fonte:
+        - titulo: "Pitch Mastery"
+          path_raiz: "/knowledge/external/sources/oren-klaff/raw/"
+          tipo: "training-program"
+          data_processamento: "2026-03-18"
+          insights_principais:
+            - "STRONG method: Set frame → Tell story → Reveal intrigue → Offer prize → Nail hookpoint → Get decision"
+            - "Frame control: whoever controls the frame controls the deal"
+            - "Status dynamics: align or elevate status before pitching"
+            - "Hook point recognition: identify the moment attention is captured"
+            - "Crocodile brain: all decisions pass through hot cognition first"
+
+    - pessoa: "donald-miller"
+      path: "/knowledge/external/dna/persons/donald-miller"
+      raiz: "/knowledge/external/sources/donald-miller/raw/"
+      dominios_usados:
+        - "messaging"
+        - "conversion"
+        - "sales-funnel"
+        - "brand-strategy"
+        - "sales-copy"               # SBMR 2026-03-18
+        - "conversion-optimization"  # SBMR 2026-03-18
+        - "campaign-strategy"        # SBMR 2026-03-18
+      peso: 0.80
+      quando_usar: "Clarity-first revenue messaging, BrandScript for funnel messaging, One-Liner for positioning, Sales Funnel Architecture, Grunt Test for conversion pages, PASTOR Framework for sales copy, Campaign Stacking for multi-touch revenue, 7 Persuasion Principles for conversion optimization"
+      justificativa: "Donald Miller provides clarity-first messaging that directly impacts conversion — CRO uses BrandScript for funnel messaging alignment, PASTOR for sales copy, and campaign stacking for multi-touch revenue optimization"
+      added: "2026-03-18"
+      updated: "2026-03-18"
+      insight_ids:
+        # --- SB7 / Sell With Story (original) ---
+        - "FIL-DM-002"   # Story = survival mechanism
+        - "FIL-DM-008"   # Confusion kills conversion
+        - "FW-DM-001"    # BrandScript Framework (SB7)
+        - "FW-DM-004"    # Sales Funnel Architecture
+        - "MM-DM-002"    # Story-driven sales
+        - "MM-DM-012"    # Conversion through clarity
+        - "HEUR-DM-005"  # Grunt Test 5-second rule
+        - "HEUR-DM-007"  # Value stacking
+        - "HEUR-DM-020"  # 85% nurture conversion
+        # --- SBMR (added 2026-03-18) ---
+        - "FW-DM-013"    # PASTOR Framework
+        - "FW-DM-014"    # 7 Persuasion Principles
+        - "FW-DM-017"    # Campaign Stacking Model
+      chunk_ids: []
+      # SBMR highlights (added 2026-03-18)
+      sbmr_highlights:
+        - tema: "PASTOR Framework for Sales Copy"
+          descricao: "Problem → Amplify → Story → Transformation → Offer → Response — systematic sales copy framework that drives conversion"
+          aplicacao: "CRO uses PASTOR as standard for all revenue-critical copy — sales pages, proposals, follow-up sequences"
+          source: "StoryBrand Marketing Roadmap (SBMR)"
+        - tema: "7 Persuasion Principles"
+          descricao: "Seven principles that drive buying decisions — reciprocity, commitment, social proof, authority, liking, scarcity, urgency — mapped to funnel stages"
+          aplicacao: "CRO maps persuasion principles to each funnel stage — ensuring every touchpoint builds conversion momentum"
+          source: "StoryBrand Marketing Roadmap (SBMR)"
+        - tema: "Campaign Stacking Model"
+          descricao: "Multi-campaign stacking strategy for sustained revenue growth — email, retargeting, direct, events layered together"
+          aplicacao: "CRO uses for multi-touch revenue architecture — layer campaigns for compounding conversion effect"
+          source: "StoryBrand Marketing Roadmap (SBMR)"
+      materiais_fonte:
+        - titulo: "Sell With Story (Building a StoryBrand)"
+          path_raiz: "/knowledge/external/sources/donald-miller/raw/"
+          tipo: "course"
+          data_processamento: "2026-03-18"
+          insights_principais:
+            - "BrandScript SB7: messaging framework that drives conversion through clarity"
+            - "Sales Funnel Architecture: story-based funnel design"
+            - "Grunt Test: 5-second conversion clarity check"
+            - "Value Stacking: systematic value communication"
+        - titulo: "StoryBrand Marketing Roadmap (SBMR)"
+          path_raiz: "/knowledge/external/sources/donald-miller/raw/"
+          tipo: "course"
+          data_processamento: "2026-03-18"
+          insights_principais:
+            - "PASTOR Framework: systematic sales copy for conversion"
+            - "7 Persuasion Principles: mapped to funnel stages"
+            - "Campaign Stacking: multi-touch revenue architecture"
+            - "85% nurture conversion: email campaigns convert 85% of eventual buyers"
+
+    - pessoa: "robert-cialdini"
+      path: "/knowledge/external/dna/persons/robert-cialdini"
+      raiz: "/knowledge/external/sources/robert-cialdini/raw/"
+      dominios_usados:
+        - "influence-psychology"
+        - "ethical-persuasion"
+        - "social-proof-engineering"
+        - "decision-science"
+        - "pre-suasion"
+      peso: 0.85
+      quando_usar: "System-level persuasion architecture across the revenue funnel, social proof engineering for conversion optimization, pre-suasion for funnel priming, ethical influence governance, decision science for pricing and offer design"
+      justificativa: "CRO needs Cialdini's system-level understanding of persuasion across the entire revenue funnel — influence principles applied to every touchpoint from first contact to close"
+      added: "2026-03-19"
+      insight_ids: []
+      chunk_ids: []
+      materiais_fonte:
+        - titulo: "Ethical Influence Practitioner Program (EIPP)"
+          path_raiz: "/knowledge/external/sources/robert-cialdini/raw/"
+          tipo: "course"
+          data_processamento: "2026-03-19"
+          insights_principais:
+            - "6 Principles of Influence applied to revenue systems"
+            - "Pre-Suasion: priming attention before persuasion attempts"
+            - "Social Proof Engineering: designing proof systems at scale"
+            - "Ethical Influence: sustainable persuasion that builds trust"
+            - "Decision Science: understanding how buyers make decisions across funnel stages"
 
 # ═══════════════════════════════════════════════════════════════════════════════
 # PROTOCOLO DE RACIOCINIO

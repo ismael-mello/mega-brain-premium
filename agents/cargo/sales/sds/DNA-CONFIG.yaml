@@ -17,13 +17,39 @@
 # ═══════════════════════════════════════════════════════════════════════════════
 
 cargo: "SDS"
-versao: "3.1.0"
+versao: "3.8.0"
 nivel: "SALES"
+# v3.8.0 (2026-03-19): Added robert-cialdini (social-proof, authority, liking, rapport-building, pre-suasion) — EIPP pipeline, peso 0.70
+#   Key RC for SDS: Social Proof (outreach credibility), Authority (credentializing), Liking (rapport-building),
+#   Pre-Suasion (pre-call framing), Reciprocity (value-first outreach)
+# v3.7.0 (2026-03-19): Added russell-brunson (10XS — trial-closing, rapport-building-tactics) — 1013 el DNA, peso 0.45
+# v3.6.0 (2026-03-18): Added chris-voss (mirroring, labeling, no-oriented-questions, email-reactivation, tactical-empathy) — 93 el DNA, peso 0.60
+#   Key CV for SDS: 4-Step Mirror (rapport building in cold calls), Labeling (emotional discovery on first call),
+#   No-Oriented Questions (schedule meetings without pushing), "Have you given up?" email (reactivation — 3min response),
+#   5 Voice Types (positive/playful 80%, FM DJ for authority), Calibrated Questions (qualify without interrogating)
+# v3.5.0 (2026-03-18): jordan-belfort DNA v5.0.0 (SLSP added — 658 el, 5 sources)
+#   Key SLSP for SDS: 4 Buying Archetypes (qualify leads immediately), Gold Prospector Model,
+#   Qualifying Questions Hierarchy (big picture → specific), Pain Preservation Model,
+#   Sales Funnel Reverse Engineering (120 dials → 2 sales), Justifier Principle (300% compliance),
+#   Prospecting & Qualifying depth (3 Keys framework)
 natureza: "HIBRIDO"
 data_criacao: "2025-12-23"
-ultima_atualizacao: "2026-03-12"
+ultima_atualizacao: "2026-03-19"
 
 # CHANGELOG:
+# v3.4.0 (2026-03-18): Updated jordan-belfort with SLP — ~431 el total (was 406), peso 0.65 (unchanged)
+#                      - NEW source: Straight Line Persuasion (SLP) — prospecting, opening, qualification, tonality, intelligence gathering
+#                      - ~25 new SDS-relevant elements (prospecting methodology, opening techniques, qualification speed, tonality for cold calls)
+#                      - Key SLP: 90-second qualification, First 4 Seconds mastery, intelligence gathering loop, tonality calibration for prospecting
+# v3.3.0 (2026-03-18): Updated jordan-belfort with SLM — 406 el DNA total (was 250), peso 0.85→0.65
+#                      - NEW source: Straight Line Marketing (10 Modules, 50 files, 156 new elements)
+#                      - NEW domains: online-funnel-prospecting, lead-capture, email-nurture, customer-avatar-targeting
+#                      - Key new: prospecting via online funnels, lead capture optimization, email sequences for nurturing, customer avatar targeting
+#                      - SDS-relevant SLM: online lead generation, email nurture sequences, avatar-based targeting for prospecting
+# v3.2.0 (2026-03-18): Added jordan-belfort (prospecting, qualifying, gatekeepers, phone-sales, opening, intelligence-gathering) — 250 el DNA, peso 0.85
+#                      - Key frameworks: Art of Qualifying (sift buyers from curious in 90 seconds), First 4 Seconds (sharp/enthusiastic/expert), Intelligence Gathering Loop
+#                      - Key IDs: FIL-JB-001, FW-JB-003, HEUR-JB-001, MET-JB-001
+#                      - Unique contribution: systematic qualifying methodology, tonality-first opening, gatekeeping penetration
 # v3.0.0 (2026-01-10): BUG #1/#3 FIX - Cascateamento completo
 #                      - Verificado AGG-OUTBOUND.yaml (existe)
 #                      - Verificado AGG-VENDAS.yaml (existe)
@@ -208,6 +234,134 @@ dna_sources:
           insights_principais:
             - "SPIN Selling para discovery"
             - "Inside Sales como modelo operacional"
+
+    - pessoa: "jordan-belfort"
+      path: "/knowledge/external/dna/persons/jordan-belfort"
+      raiz: "/knowledge/external/sources/jordan-belfort/raw/"
+      dominios_usados:
+        - "prospecting"
+        - "qualifying"
+        - "gatekeepers"
+        - "phone-sales"
+        - "opening"
+        - "intelligence-gathering"
+        - "online-funnel-prospecting"    # SLM 2026-03-18
+        - "lead-capture"                 # SLM 2026-03-18
+        - "email-nurture"                # SLM 2026-03-18
+        - "customer-avatar-targeting"    # SLM 2026-03-18
+      peso: 0.65
+      quando_usar: "Prospecting methodology, qualifying in 90 seconds, gatekeeper penetration, phone opening, intelligence gathering, tonality for SDS calls, online funnel prospecting, lead capture optimization, email nurture sequences, customer avatar targeting, SLP opening techniques, inner game for cold calls, language patterns for qualification"
+      added: "2026-03-18"
+      updated: "2026-03-18"
+      insight_ids:
+        # --- SLSC4 (original) ---
+        - "FIL-JB-001"   # Straight Line — control from first second
+        - "FW-JB-003"    # Five Core Elements (qualifying is #4)
+        - "HEUR-JB-001"  # First 4 seconds (sharp, enthusiastic, expert)
+        - "MET-JB-001"   # Straight Line Prospecting & Qualifying
+        # --- SLM (added 2026-03-18) ---
+        - "FW-JB-SLM-001"   # 6-Step SLM Funnel (online prospecting funnel)
+        - "FW-JB-SLM-004"   # SLM Email Formula (nurture sequences)
+        - "FW-JB-SLM-006"   # Customer Avatar Methodology (targeting)
+        # --- SLP (added 2026-03-18) ---
+        - "FW-JB-SLP-005"   # SLP Opening Framework (First 4 Seconds applied to prospecting)
+        - "MET-JB-SLP-002"  # 90-Second Qualification Method (sift buyers from curious)
+        - "FW-JB-SLP-006"   # Intelligence Gathering Loop (pain, needs, values, financials)
+        - "HEUR-JB-SLP-002" # Tonality calibration for cold/warm prospecting calls
+      chunk_ids: []
+      # SLM highlights (added 2026-03-18)
+      slm_highlights:
+        - tema: "Online Funnel Prospecting"
+          descricao: "Prospecting via online funnels — lead capture pages, landing pages, opt-in sequences that pre-qualify before human contact"
+          aplicacao: "SDS understands how online funnels generate and pre-qualify leads — context for when prospect arrives from funnel vs cold"
+          source: "Straight Line Marketing (SLM)"
+        - tema: "Email Nurture Sequences"
+          descricao: "SLM Email Formula applied to lead nurturing — curiosity subjects, pattern interrupt openings, SLP tonality in text, single CTAs"
+          aplicacao: "SDS uses for follow-up email sequences that nurture leads toward booking calls"
+          source: "Straight Line Marketing (SLM)"
+        - tema: "Customer Avatar Targeting"
+          descricao: "Demographics + Psychographics + Pain Points + Dream State — SLP Intelligence Gathering applied to prospecting targeting"
+          aplicacao: "SDS uses avatar methodology to prioritize prospects and personalize outreach"
+          source: "Straight Line Marketing (SLM)"
+      materiais_fonte:
+        - titulo: "Straight Line Certification 4.0"
+          path_raiz: "/knowledge/external/sources/jordan-belfort/raw/straight-line-sales-certification/"
+          tipo: "certification-program"
+          data_processamento: "2026-03-18"
+          insights_principais:
+            - "Qualify in 90 seconds — sift buyers from curious fast"
+            - "First 4 seconds: sharp, enthusiastic, expert"
+            - "Intelligence gathering: pain, needs, values, financial situation"
+            - "Tonality controls 90% of first impression"
+            - "Gatekeeper penetration through authority and certainty"
+        - titulo: "Straight Line Marketing (10 Modules)"
+          path_raiz: "/knowledge/external/sources/jordan-belfort/raw/straight-line-marketing/"
+          tipo: "certification-program"
+          data_processamento: "2026-03-18"
+          insights_principais:
+            - "Online funnel prospecting: lead capture and pre-qualification via funnels"
+            - "SLM Email Formula: nurture sequences using SLP tonality in text"
+            - "Customer Avatar Methodology: demographics + psychographics + pain + dream state"
+            - "Lead capture optimization: opt-in pages, value offers, qualification filters"
+        - titulo: "Straight Line Persuasion (SLP)"
+          path_raiz: "/knowledge/external/sources/jordan-belfort/raw/straight-line-persuasion/"
+          tipo: "training-program"
+          data_processamento: "2026-03-18"
+          insights_principais:
+            - "Opening: First 4 Seconds mastery — sharp, enthusiastic, expert tone sets frame"
+            - "90-second qualification: sift buyers from curious fast, don't waste time"
+            - "Intelligence gathering loop: pain → needs → values → financial situation"
+            - "Tonality calibration: match tonality to prospect temperature (cold vs warm)"
+            - "Inner game for prospecting: certainty anchoring before calls, manage rejection state"
+
+    - pessoa: "russell-brunson"
+      path: "/knowledge/external/dna/persons/russell-brunson"
+      raiz: "/knowledge/external/sources/russell-brunson/raw/"
+      dominios_usados:
+        # 10XS enrichment 2026-03-19
+        - "trial-closing"
+        - "rapport-building-tactics"
+      peso: 0.45
+      quando_usar: "Trial close techniques during qualification and booking calls, rapport-building tactics from Perfect Webinar and 10X Secrets to increase show rate and commitment"
+      added: "2026-03-19"
+      insight_ids:
+        - "MM-RB-049"   # Trial Close Cascade
+        - "MET-RB-017"  # Trial Closes Script 12 phrases
+      materiais_fonte:
+        - titulo: "10X Secrets Masterclass"
+          path_raiz: "/knowledge/external/sources/russell-brunson/raw/10x-secrets/"
+          tipo: "course"
+          data_processamento: "2026-03-19"
+          insights_principais:
+            - "Trial closes build micro-commitment and momentum during qualification"
+            - "Rapport-building via story and identity alignment before asking for time commitment"
+
+    - pessoa: "robert-cialdini"
+      path: "/knowledge/external/dna/persons/robert-cialdini"
+      raiz: "/knowledge/external/sources/robert-cialdini/raw/"
+      dominios_usados:
+        - "social-proof"
+        - "authority"
+        - "liking"
+        - "rapport-building"
+        - "pre-suasion"
+      peso: 0.70
+      quando_usar: "Social proof for outreach credibility, authority for credentializing in cold outreach, liking principle for rapport-building, pre-suasion for pre-call framing, reciprocity for value-first outreach sequences"
+      justificativa: "SDRs/SDS need rapport-building (liking), credentializing (authority), and social proof for outreach — Cialdini's principles are foundational for cold outreach conversion"
+      added: "2026-03-19"
+      insight_ids: []
+      chunk_ids: []
+      materiais_fonte:
+        - titulo: "Ethical Influence Practitioner Program (EIPP)"
+          path_raiz: "/knowledge/external/sources/robert-cialdini/raw/"
+          tipo: "course"
+          data_processamento: "2026-03-19"
+          insights_principais:
+            - "Social Proof: leveraging testimonials and case studies in outreach"
+            - "Authority: credentializing through expertise signals in cold messages"
+            - "Liking: rapport-building through similarity, compliments, and cooperation"
+            - "Pre-Suasion: framing attention before the ask in outreach sequences"
+            - "Reciprocity: value-first outreach creates obligation to engage"
 
 # ═══════════════════════════════════════════════════════════════════════════════
 # MAPA DE CONFLITOS

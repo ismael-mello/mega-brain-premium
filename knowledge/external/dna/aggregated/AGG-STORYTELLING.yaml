@@ -13,10 +13,10 @@
 # ═══════════════════════════════════════════════════════════════════════════════
 
 dominio: "storytelling"
-versao: "4.0.0"
+versao: "9.0.0"  # OK Robert Cialdini case-study-methodology added
 data_criacao: "2026-03-11"
-ultima_atualizacao: "2026-03-17"
-total_elementos: 492
+ultima_atualizacao: "2026-03-19"
+total_elementos: 642
 peso_global: 0.70
 
 fontes_consolidadas:
@@ -76,9 +76,75 @@ fontes_consolidadas:
       - "Water Ad Structure (build desire without direct ask)"
       - "Can't Make This Shit Up (provably true bizarre stories)"
 
-# Nota: Russell Brunson tem sobreposição com knowledge/external/dna/persons/russell-brunson
-# (Epiphany Bridge, Hook-Story-Offer existem em ambos)
-# Priorizar person DNA (weight 0.95) sobre este AGG (weight 0.70) em caso de conflito.
+  - fonte: "oren-klaff-pm"
+    path: "knowledge/external/dna/persons/oren-klaff/"
+    raw_path: "knowledge/external/sources/oren-klaff/raw/pitch-mastery/"
+    peso_dominio: 0.75
+    elementos_contribuidos: 25
+    especialidade: "Tell the Story (STRONG Module 2), Compelling Character Building, Intrigue Pings, Open Loops, Narrative Anchoring, Big Idea Formula"
+    tipo_fonte: "PRIMARY (direct from expert)"
+    key_frameworks:
+      - "Tell the Story (STRONG Module 2 — narrative pitch structure)"
+      - "Compelling Character Building (status alignment + vulnerability)"
+      - "Intrigue Pings (micro open-loops to maintain attention)"
+      - "Narrative Anchoring (frame-setting before story delivery)"
+      - "Big Idea Formula (novelty + desire + intellectual curiosity)"
+    nota: "Added 2026-03-18. Klaff's storytelling is APPLIED — stories in service of pitching and deal-making. His Intrigue Pings and Compelling Character frameworks complement Dicks (personal story) and Hall (business story) by showing how narrative elements create DEAL MOMENTUM."
+
+  - fonte: "donald-miller"
+    path: "knowledge/external/dna/persons/donald-miller/"
+    raw_path: "knowledge/external/sources/donald-miller/raw/"
+    peso_dominio: 0.85
+    elementos_contribuidos: 55
+    especialidade: "Story-based business messaging — SB7 BrandScript (7 story elements for brands), Hero vs Guide positioning, 3 levels of problems (ext/int/phil), climactic scene psychology, survival algorithm narrative, calorie conservation model, exercise in memorization, cocktail party test, PASTOR narrative structure (Story/Solution element), Tension-Relief Cycle in email campaigns, political storytelling analysis (Jeb Bush case)"
+    tipo_fonte: "PRIMARY (direct from expert)"
+    fontes_incluidas:
+      - "Sell With Story (35 elementos — SB7 BrandScript, Hero vs Guide, Three Levels of Problems, Survival Algorithm, Climactic Scene)"
+      - "StoryBrand Marketing Report (20 elementos — PASTOR narrative structure, Tension-Relief Cycle in 12-email campaigns, political storytelling cases, story-driven lead generators, campaign narrative arc)"
+    key_frameworks:
+      - "SB7 BrandScript (7-element story grid for business)"
+      - "Hero vs Guide Positioning (guide = empathy + authority)"
+      - "Three Levels of Problems (external + internal + philosophical)"
+      - "Obligatory/Climactic Scene (resolve all 3 problems in one moment = serotonin)"
+      - "Story-As-Guide Method (tell 'your story' as empathy + authority)"
+      - "Survival Algorithm (associate product with survival or be ignored)"
+      - "PASTOR Narrative Arc (Story/Solution element — story bridges problem to solution)"
+      - "Tension-Relief Cycle (12-email campaign builds narrative tension across sequence)"
+      - "Political Storytelling Analysis (Jeb Bush 'Fix It' = hero positioning failure vs Trump = memorization exercise)"
+    nota: "Updated 2026-03-18 with SBMR source. Miller's storytelling is STRUCTURAL — he applies the 2,000-year-old narrative formula (Aristotle → Campbell → screenwriters) to business messaging. SBMR adds PASTOR's narrative element (Ray Edwards), the Tension-Relief Cycle across email sequences, and political storytelling case studies. His SB7 BrandScript is the most accessible story-to-business bridge in the system."
+
+  - fonte: "russell-brunson"
+    path: "knowledge/external/dna/persons/russell-brunson/"
+    raw_path: "knowledge/external/sources/russell-brunson/raw/"
+    peso_dominio: 0.85
+    elementos_contribuidos: 70
+    especialidade: "Hero's Two Journeys (External Achievement + Internal Transformation simultaneous arcs), Epiphany Bridge Script (origin story → epiphany → bridge to prospect), Hook-Story-Offer story framework, Story Inventory building methodology (catalog all key stories per objection), Story Stacking technique (2-3 stories per belief/objection), Status-driven story positioning (rags-to-riches arc as social proof), Story Selling FHL 2017 framework, FHAT (Future History As Truth) live demonstration technique"
+    tipo_fonte: "PRIMARY (direct from expert)"
+    fontes_incluidas:
+      - "10x Secrets Masterclass (70 elementos — stage storytelling, Epiphany Bridge in practice, Hero's Two Journeys, story cataloging methodology, story stacking, status positioning)"
+    key_frameworks:
+      - "Hero's Two Journeys (external: goal achievement arc + internal: identity/belief transformation arc — both must resolve)"
+      - "Epiphany Bridge Script (your backstory → journey → wall → epiphany → results → bridge to prospect's situation)"
+      - "Story Inventory Methodology (catalog every story by: objection it handles, belief it installs, emotion it creates)"
+      - "Story Stacking (use 2-3 different stories per key objection — stack proof through narrative repetition)"
+      - "Status Story Positioning (frame personal story to create status gap that prospect wants to close)"
+      - "FHAT — Future History As Truth (describe prospect's future as if it already happened — story from the future)"
+    nota: "Added 2026-03-19. RB storytelling is SELLING-SPECIFIC — every story serves a belief installation purpose. His Story Inventory and Story Stacking methodologies are the most systematic approaches to story-as-sales-tool. The Epiphany Bridge is the most copied story framework in online marketing. Priorizar person DNA (weight 0.95) sobre este AGG (weight 0.85) em caso de conflito direto."
+
+  - fonte: "robert-cialdini"
+    path: "knowledge/external/dna/persons/robert-cialdini/"
+    raw_path: "knowledge/external/sources/robert-cialdini/raw/"
+    peso_dominio: 0.60
+    elementos_contribuidos: 25
+    especialidade: "Case study methodology, research storytelling, ethical narrative construction, contrast storytelling, pre-suasion narrative sequencing"
+    tipo_fonte: "PRIMARY (direct from expert)"
+    fontes_incluidas:
+      - "Ethical Influence Practitioner Program (25 elementos — case-study-methodology, research-storytelling, ethical-narrative, contrast-storytelling, pre-suasion-narrative)"
+    key_frameworks:
+      - "Case Study Method (hot tub salesman, Australian beef industry, etc. — real-world persuasion stories as teaching vehicle)"
+      - "Contrast Narrative (before/after framing via sequential story structure)"
+      - "Pre-suasion Sequence (narrative priming — the story BEFORE the story sets the frame)"
+    nota: "Added 2026-03-19. Cialdini's storytelling is EVIDENTIAL — he uses real-world case studies and research findings AS stories to teach persuasion principles. His Case Study Method (hot tub, Australian beef, etc.) makes abstract psychology concrete through narrative. Complements Dicks (personal story), Hall (business story), and Campbell (mythic structure) by adding RESEARCH-BASED narrative — stories that prove rather than perform."
 
 # ═══════════════════════════════════════════════════════════════════════════════
 # STORYTELLING EXPERTS (11 specialists)
@@ -1473,3 +1539,34 @@ productive_tensions:
       posicao: "Story and metaphor are TOOLS for persuasion — every narrative element must advance the sale or be cut"
       experts: ["schwartz"]
     resolucao: "Context-dependent: personal/movement stories value meaning (lado_a). Sales/copy narratives value conversion (lado_b). Brand stories need BOTH — meaning that sells."
+
+# ═══════════════════════════════════════════════════════════════════════════════
+# CHANGELOG
+# ═══════════════════════════════════════════════════════════════════════════════
+
+changelog:
+  - versao: "8.0.0"
+    data: "2026-03-19"
+    mudancas:
+      - "Russell Brunson 10x Secrets Masterclass (10XS) added as new fonte (70 storytelling elements — stage storytelling, Epiphany Bridge in practice, Hero's Two Journeys)"
+      - "RB especialidade: Hero's Two Journeys (external + internal arcs), Epiphany Bridge Script, Story Inventory Methodology (catalog stories by objection/belief/emotion), Story Stacking (2-3 stories per objection), Status Story Positioning (rags-to-riches as social proof), FHAT (Future History As Truth), Story Selling FHL 2017 framework"
+      - "RB key_frameworks: 6 frameworks added (Hero's Two Journeys, Epiphany Bridge Script, Story Inventory, Story Stacking, Status Story Positioning, FHAT)"
+      - "RB peso_dominio: 0.85 (selling-specific story system — most copied frameworks in online marketing)"
+      - "Replaced 3-line comment about RB overlap with full fontes_consolidadas entry"
+      - "total_elementos: 547 → 617"
+      - "fontes_consolidadas count: 6 → 7"
+
+  - versao: "7.0.0"
+    data: "2026-03-18"
+    mudancas:
+      - "Oren Klaff (pitch-mastery) added as new fonte (25 storytelling elements — Tell the Story STRONG module, Intrigue Pings, Narrative Anchoring)"
+      - "Donald Miller updated with SBMR source — +20 elements (PASTOR narrative element, Tension-Relief Cycle, political storytelling cases)"
+      - "DM elementos_contribuidos: 35 → 55, fontes_incluidas updated with SBMR"
+      - "total_elementos: 547 → 547 (Klaff +25 offset by corrections)"
+
+  - versao: "6.0.0"
+    data: "2026-03-17"
+    mudancas:
+      - "Gary Halbert (Halbertology) added as new fonte (30 storytelling elements)"
+      - "GH specialties: story-driven sales letters, Rewind Story Structure, Element Assembly Method, Can't Make This Up technique"
+      - "total_elementos: 517 → 547"

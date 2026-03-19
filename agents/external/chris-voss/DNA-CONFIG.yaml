@@ -1,0 +1,63 @@
+# DNA-CONFIG — CHRIS VOSS
+# Tipo: SOLO (fonte unica)
+# Versao: v1.0.0
+
+agent_type: SOLO
+person: chris-voss
+display_name: "Chris Voss"
+version: "v1.0.0"
+
+dna_path: "knowledge/external/dna/persons/chris-voss/DNA.yaml"
+dna_version: "v1.0.0"
+total_elements: 93
+
+layers_summary:
+  L1_PHILOSOPHIES: 23
+  L2_MENTAL_MODELS: 18
+  L3_HEURISTICS: 30
+  L4_FRAMEWORKS: 15
+  L5_METHODOLOGIES: 7
+
+dna_sources:
+  - id: CV-NSTD
+    name: "Never Split the Difference Negotiation Course (Beyond the Book)"
+    type: COURSE
+    files: 297
+    chars: 285368
+    modules: 10
+    weight: 1.0
+    raiz: "knowledge/external/sources/chris-voss/raw/"
+    processed_date: "2026-03-18"
+
+domains:
+  primary:
+    - negotiation
+    - tactical-empathy
+    - bargaining
+    - influence
+    - deception-detection
+  secondary:
+    - sales
+    - conflict-resolution
+    - salary-negotiation
+    - communication
+    - leadership
+    - behavioral-change
+    - stakeholder-management
+
+key_frameworks:
+  - "Ackerman Model (FW-CV-001)"
+  - "Behavioral Change Stairway (FW-CV-010)"
+  - "Accusation Audit (FW-CV-003)"
+  - "Calibrated Questions (FW-CV-004)"
+  - "5 Voice Types (FW-CV-005)"
+  - "Labeling Framework (FW-CV-006)"
+  - "Summary Formula (FW-CV-007)"
+  - "3 Types of Leverage (FW-CV-008)"
+  - "Rule of Three (FW-CV-014)"
+
+insight_ids: []
+chunk_ids: []
+
+materiais_fonte:
+  - "inbox/Chris Voss - Never Split the Difference Negotiation Course (Beyond the Book)/"

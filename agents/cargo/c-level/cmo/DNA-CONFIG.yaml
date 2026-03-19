@@ -24,12 +24,62 @@
 # ═══════════════════════════════════════════════════════════════════════════════
 
 cargo: "CMO"
-versao: "11.0.0"
+versao: "23.0.0"
+# v23.0.0 (2026-03-19): Added robert-cialdini (persuasion-psychology, social-proof, pre-suasion, review-optimization, loss-framing, marketing-psychology) — EIPP pipeline, peso 0.80
+#                      - Key frameworks: 6 Principles of Influence, Pre-Suasion, Social Proof at Scale, Loss Framing, Review Optimization
+#                      - Key domains: persuasion-psychology, social-proof, pre-suasion, review-optimization, loss-framing, marketing-psychology
+#                      - Unique contribution: Cialdini's principles operationalized at marketing scale — social proof engineering, pre-suasion for campaigns, loss framing for conversion
+# v22.0.0 (2026-03-19): Updated russell-brunson with 10XS domains — mass-movement-building, culture-building, fb-live-selling, affiliate-webinars, physical-product-webinars
+# v21.0.0 (2026-03-18): Added chris-voss (messaging-psychology, loss-framing, empathy-based-communication) — 93 el DNA, peso 0.45
+#   Key CV for CMO: Loss Aversion framing (70% decisions loss-driven), 5 Voice Types (brand voice calibration),
+#   Labeling Framework (emotional resonance in copy), "Fair" as power word, Accusation Audit (marketing objection prevention),
+#   No-Oriented Questions (landing page design), Deadline Psychology (campaign urgency design)
 nivel: "C-LEVEL"
 natureza: "HIBRIDO"
 data_criacao: "2025-12-23"
-ultima_atualizacao: "2026-03-17"
+ultima_atualizacao: "2026-03-19"
 # CHANGELOG:
+# v20.0.0 (2026-03-18): Updated donald-miller with SBMR — 105 el total (was 75), peso 0.85
+#                      - NEW source: StoryBrand Marketing Roadmap (SBMR)
+#                      - NEW domains: email-marketing, lead-generation, campaign-strategy, content-marketing, web-design
+#                      - Key new frameworks: PASTOR Framework, 12-Email StoryBrand Campaign, Lead Generator Architecture, 10-Section Website Architecture, Marketing Roadmap Execution Sequence
+#                      - Total DM contribution: 105 elements (SB7 75 + SBMR 30)
+# v19.0.0 (2026-03-18): Added donald-miller (messaging, storytelling, brand-strategy, copywriting, sales-funnel, conversion) — 75 el DNA, peso 0.85
+#                      - Key frameworks: BrandScript SB7, One-Liner Formula, Landing Page Wireframe, Sales Funnel Architecture, Grunt Test, Guide Positioning
+#                      - Key IDs: FIL-DM-001/002/005, FW-DM-001/002/003/004, MM-DM-001/004, HEUR-DM-001/005/007
+#                      - Unique contribution: clarity-first messaging framework, story-to-business bridge, website grunt test, value stacking, cocktail party test
+# v18.0.0 (2026-03-18): Updated jordan-belfort with SLSP — 658 el DNA v5.0.0 (was 528 v4.0.0), 5 sources (was 4)
+#                      - NEW source: Straight Line Sales Psychology (SLSP) — 130 new elements
+#                      - Key SLSP for CMO: Charisma Formula, 8 Crucial Tonal Patterns (with anchoring for video content),
+#                        Script Building Methodology (applicable to VSL/webinar scripts), Pacing-Leading for messaging,
+#                        Matching vs Mirroring (audience rapport), Vision Triad (brand storytelling),
+#                        Customer for Life strategies (retention marketing), Referral System (growth marketing)
+# v17.0.0 (2026-03-18): Updated jordan-belfort with SLP — ~416 el total (was 406), peso 0.85 (unchanged)
+#                      - NEW source: Straight Line Persuasion (SLP) — language patterns, persuasion science, influence techniques
+#                      - ~10 new CMO-relevant elements (language patterns for copy/ads, persuasion frameworks for messaging, influence techniques for campaigns)
+#                      - Key SLP: trigger words for ad copy, embedded commands for VSLs, persuasion architecture for landing pages
+# v16.0.0 (2026-03-18): Updated jordan-belfort with SLM — 406 el DNA total (was 250), peso 0.70→0.85
+#                      - NEW source: Straight Line Marketing (10 Modules, 50 files, 156 new elements)
+#                      - Co-presenter: David Ayad (CAG, 320% SLP performance increase)
+#                      - NEW domains: copywriting, email-marketing, traffic-strategy, customer-avatar, competitive-intelligence, funnel-design, retargeting
+#                      - Key new frameworks: 6-Step SLM Funnel, 6-Step Sales Letter, Traffic Channel Selection, SLM Email Formula, 4 Steps to Online Domination, Customer Avatar Methodology, Competitive Intelligence Framework
+#                      - Total JB contribution: 406 elements (SLSC4 250 + SLM 156) — SLM is heavily marketing-focused
+# v15.0.0 (2026-03-18): Added jordan-belfort (tonality, persuasion, unconscious-communication, scripting) — 250 el DNA, peso 0.70
+#                      - Key frameworks: 29 Tonal Patterns (unconscious communication for ads/videos), Three Tens (messaging certainty), Straight Line Script Architecture
+#                      - Key IDs: FIL-JB-001/002, FW-JB-001, HEUR-JB-003/005
+#                      - Unique contribution: tonality science for video ads/webinars, unconscious persuasion patterns for marketing scripts
+# v14.0.0 (2026-03-18): Added frank-kern (paid-advertising, youtube-ads, facebook-ads, marketing-funnels, supersystem-architecture, email-marketing, ad-automation, scaling) — 269 el DNA, peso 0.85
+#                      - Key frameworks: Supersystem Architecture, Level 1-2-3 Campaign Scaling, 7 Building Blocks, Video Ad Framework (8-step), Three Ad Script Frameworks, Diagnostic Funnel Checklist, Three-Rule Ad Automation
+#                      - Key IDs: FIL-FK-001/080/150, FW-FK-001/060/110, MM-FK-001/060/110, HEUR-FK-001/080/150, MET-FK-001/050/080
+#                      - Unique contribution: COMPLETE paid traffic system (Facebook + YouTube), systematic Level 1→2→3 scaling, practical ad automation
+# v13.0.0 (2026-03-17): Updated clayton-makepeace with QSCS — 633 el DNA total (was 388), peso 0.80→0.90
+#                      - NEW source: Quick Start Copywriting System (245 new elements)
+#                      - Key new frameworks: 30% Solution, 3 Research Keys, 13 Proof Strategies, Big Selling Idea (7 steps), A-B-C Process, 6-Step Master Closer In Print, 21 Fascination Formulas, 19 Emotional Triggers, Gene Schwartz cheat sheet, 24 Lead Starters, 11 Momentum Factors
+#                      - Total CM contribution: 633 elements (BYCB 388 + QSCS 245)
+#                      - CM is now highest-weighted copywriting source (complete CRAFT + BUSINESS system)
+# v12.0.0 (2026-03-17): Added clayton-makepeace (copywriting-business, direct-response, client-acquisition, deal-structuring, marketing-systems) — 388 el DNA, peso 0.80
+#                      - Key: royalty/partnership model, $4M/year methodology, copy creation process, Makepeace Business System, four revenue models, marketing metrics mastery
+#                      - Key IDs: FIL-CM-001, FIL-CM-201, FW-CM-001, FW-CM-201, HEUR-CM-001, MM-CM-001, MET-CM-001
 # v11.0.0 (2026-03-17): Updated john-carlton with SWS2 — 261 el DNA total (was 97), peso 0.80
 #                      - NEW source: Simple Writing System (164 new elements)
 #                      - Key new frameworks: 17-Step Systematic Copywriting Formula, So What? Test, Incongruous Juxtaposition, 4-Part Sales Message Template, Grease Slide, Appealometer, Anti-Writer's-Block Protocol
@@ -314,10 +364,16 @@ dna_sources:
         - "magnetic-marketing"       # MM enrichment 2026-03-15
         - "direct-mail"              # MM enrichment 2026-03-15
         - "lead-magnets"             # MM enrichment 2026-03-15
+        # 10XS enrichment 2026-03-19
+        - "mass-movement-building"
+        - "culture-building"
+        - "fb-live-selling"
+        - "affiliate-webinars"
+        - "physical-product-webinars"
       peso: 0.85
-      quando_usar: "Funnel architecture, webinar selling, copywriting, traffic strategy, email sequences, storytelling for marketing, direct mail, lead magnet strategy, follow-up sequences (SOAP/Seinfeld), audience psychology"
+      quando_usar: "Funnel architecture, webinar selling, copywriting, traffic strategy, email sequences, storytelling for marketing, direct mail, lead magnet strategy, follow-up sequences (SOAP/Seinfeld), audience psychology, mass movement building, culture building, FB live selling, affiliate webinars, physical product webinars"
       added: "2026-03-01"
-      updated: "2026-03-15"
+      updated: "2026-03-19"
       insight_ids:
         # --- Secrets Masterclass + PDFs (original) ---
         - "FW-RB-001"   # Perfect Webinar Framework
@@ -856,6 +912,273 @@ dna_sources:
             - "Grease Slide: every element must pull reader forward — zero friction"
             - "Appealometer: systematic measurement of offer appeal before writing"
             - "Anti-Writer's-Block Protocol: systematic process to overcome creative paralysis"
+
+    - pessoa: "clayton-makepeace"
+      path: "/knowledge/external/dna/persons/clayton-makepeace"
+      raiz: "/knowledge/external/sources/clayton-makepeace/raw/"
+      dominios_usados:
+        - "copywriting"
+        - "copywriting-craft"
+        - "copywriting-business"
+        - "direct-response"
+        - "client-acquisition"
+        - "deal-structuring"
+        - "marketing-systems"
+        - "headline-writing"
+        - "proof-strategies"
+        - "emotional-copy"
+        - "research-methodology"
+      peso: 0.90
+      quando_usar: "Copywriting craft and business strategy, DR copywriting methodology, headline writing, proof stacking, emotional copy, fascination bullets, closing methodology, research process, client/copywriter deal structuring, royalty models, direct response marketing metrics, partnership approach to marketing relationships"
+      added: "2026-03-17"
+      insight_ids:
+        - "FIL-CM-001"   # Money Is the Root of ALL
+        - "FIL-CM-201"   # The Freelance Model is Insane
+        - "FIL-CM-301"   # The 30% Solution Mindset
+        - "FW-CM-001"    # Copy Creation Process
+        - "FW-CM-201"    # Makepeace Business System
+        - "FW-CM-301"    # 30% Solution
+        - "FW-CM-304"    # 13 Proof Strategies
+        - "FW-CM-310"    # Master Closer In Print (6-Step)
+        - "HEUR-CM-001"  # $4M/year peak income
+        - "HEUR-CM-301"  # 30% x 5 = 3.7x
+        - "MM-CM-001"    # Royalty Writer vs Fee Writer distinction
+        - "MET-CM-001"   # Platform approach to copy projects
+      materiais_fonte:
+        - titulo: "Quick Start Copywriting System (QSCS)"
+          path_raiz: "/knowledge/external/sources/clayton-makepeace/raw/"
+          tipo: "masterclass"
+          data_processamento: "2026-03-17"
+          insights_principais:
+            - "30% Solution: 5 metrics x 30% = 371% increase (3.7x sales)"
+            - "3 Research Keys: Product → Prospect → Market before writing"
+            - "13 Proof Strategies: comprehensive believability toolkit"
+            - "Big Selling Idea (7 steps): ONE controlling idea per promotion"
+            - "A-B-C Copy Process: Attract → Bridge → Close"
+            - "6 Headline Maxims + Gene Schwartz cheat sheet"
+            - "24 Lead Starters for sales letters"
+            - "21 Fascination Bullet Formulas for curiosity-driven copy"
+            - "6-Step Master Closer In Print: systematic closing methodology"
+            - "19 Emotional Triggers x word banks (Tony Flores)"
+            - "11 Momentum Factors to keep readers engaged"
+            - "10 Guarantee Boosters for stronger risk reversal"
+        - titulo: "Building Your Copywriting Business (BYCB)"
+          path_raiz: "/knowledge/external/sources/clayton-makepeace/raw/"
+          tipo: "masterclass"
+          data_processamento: "2026-03-17"
+          insights_principais:
+            - "Copy creation process: exploratory → launch call → platform → draft → revision"
+            - "Freelance vs Partnership: six figures is chump change, seven figures requires partnership model"
+            - "Four revenue models: jobs, freelancing, partnering, ownership"
+            - "Royalty model: tie income to client success for exponential earnings"
+            - "Client lifetime value: turn every client into lifetime revenue stream"
+            - "Marketing metrics mastery: LTV, CPA, conversion rates, allowable per order"
+
+    - pessoa: "jordan-belfort"
+      path: "/knowledge/external/dna/persons/jordan-belfort"
+      raiz: "/knowledge/external/sources/jordan-belfort/raw/"
+      dominios_usados:
+        - "tonality"
+        - "persuasion"
+        - "unconscious-communication"
+        - "scripting"
+        - "copywriting"              # SLM 2026-03-18
+        - "email-marketing"          # SLM 2026-03-18
+        - "traffic-strategy"         # SLM 2026-03-18
+        - "customer-avatar"          # SLM 2026-03-18
+        - "competitive-intelligence" # SLM 2026-03-18
+        - "funnel-design"            # SLM 2026-03-18
+        - "retargeting"              # SLM 2026-03-18
+      peso: 0.85
+      quando_usar: "Tonality science for video ads/webinars; unconscious persuasion patterns for copy; Three Tens certainty messaging; script architecture for funnels; copywriting frameworks (6-Step Sales Letter); email marketing (SLM Email Formula); traffic channel selection; customer avatar methodology; competitive intelligence; retargeting strategies; funnel design (6-Step SLM Funnel)"
+      added: "2026-03-18"
+      updated: "2026-03-18"
+      insight_ids:
+        # --- SLSC4 (original) ---
+        - "FIL-JB-001"   # Straight Line (script architecture for marketing)
+        - "FIL-JB-002"   # Three Tens (messaging certainty framework)
+        - "FW-JB-001"    # Straight Line System (script structure)
+        - "HEUR-JB-003"  # 29 tonal patterns (video/webinar delivery)
+        - "HEUR-JB-005"  # Action threshold (funnel conversion)
+        # --- SLM (added 2026-03-18) ---
+        - "FW-JB-SLM-001"   # 6-Step SLM Funnel (Awareness→Interest→Desire→Action→Retention→Referral)
+        - "FW-JB-SLM-002"   # 6-Step Sales Letter (Headline→Story→Offer→Proof→Close→PS)
+        - "FW-JB-SLM-003"   # Traffic Channel Selection Framework
+        - "FW-JB-SLM-004"   # SLM Email Formula (Subject→Opening→Body→CTA)
+        - "FW-JB-SLM-005"   # 4 Steps to Online Domination (Build→Drive→Convert→Optimize)
+        - "FW-JB-SLM-006"   # Customer Avatar Methodology (Demographics+Psychographics+Pain+Dream)
+        - "FW-JB-SLM-007"   # Competitive Intelligence Framework (Swipe→Analyze→Adapt→Differentiate)
+        # --- SLP (added 2026-03-18) ---
+        - "FW-JB-SLP-009"   # Trigger Words for Ad Copy (embedded commands, presuppositions)
+        - "FW-JB-SLP-010"   # Persuasion Architecture for Landing Pages (SLP certainty in text)
+        - "HEUR-JB-SLP-004" # 29 Tonal Patterns applied to video ads & webinar scripts
+      chunk_ids: []
+      # SLM highlights (added 2026-03-18)
+      slm_highlights:
+        - tema: "Copywriting Frameworks"
+          descricao: "6-Step Sales Letter structure + Done-For-You templates — SLP tonality principles applied to written copy"
+          aplicacao: "CMO uses for landing page copy, VSL scripts, ad copy — SLP persuasion in text form"
+          source: "Straight Line Marketing (SLM)"
+        - tema: "Email Marketing"
+          descricao: "SLM Email Formula: Subject (curiosity) → Opening (pattern interrupt) → Body (SLP tonality in text) → CTA (single action)"
+          aplicacao: "CMO uses for email sequences, broadcast campaigns, nurture flows"
+          source: "Straight Line Marketing (SLM)"
+        - tema: "Traffic & Retargeting"
+          descricao: "Traffic Channel Selection + multi-touch retargeting + pixel strategies + frequency optimization"
+          aplicacao: "CMO uses for media buying strategy, retargeting architecture, channel allocation"
+          source: "Straight Line Marketing (SLM)"
+        - tema: "Competitive Intelligence"
+          descricao: "Swipe file methodology, competitor funnel analysis, market positioning — systematic approach to competitive analysis"
+          aplicacao: "CMO uses for market research, positioning strategy, competitive differentiation"
+          source: "Straight Line Marketing (SLM)"
+      materiais_fonte:
+        - titulo: "Straight Line Certification 4.0"
+          path_raiz: "/knowledge/external/sources/jordan-belfort/raw/straight-line-sales-certification/"
+          tipo: "certification-program"
+          data_processamento: "2026-03-18"
+          insights_principais:
+            - "29 tonal patterns for video ads and webinar delivery"
+            - "Three Tens: product/person/company certainty in all marketing messaging"
+            - "Unconscious communication: 90% influence is non-verbal"
+            - "Script architecture: Straight Line structure applicable to VSLs and webinars"
+            - "Action Threshold: marketing must lower threshold before sales call"
+        - titulo: "Straight Line Marketing (10 Modules)"
+          path_raiz: "/knowledge/external/sources/jordan-belfort/raw/straight-line-marketing/"
+          tipo: "certification-program"
+          data_processamento: "2026-03-18"
+          insights_principais:
+            - "6-Step SLM Funnel: complete digital acquisition funnel"
+            - "6-Step Sales Letter: headline, story, offer, proof, close, PS"
+            - "Traffic Channel Selection: paid, organic, social, email, affiliate"
+            - "SLM Email Formula: curiosity subject, pattern interrupt opening, SLP tonality body, single CTA"
+            - "Customer Avatar: demographics + psychographics + pain + dream state"
+            - "Competitive Intelligence: swipe, analyze, adapt, differentiate"
+            - "Retargeting: multi-touch sequences, pixel strategies, frequency optimization"
+            - "4 Steps to Online Domination: Build → Drive → Convert → Optimize (continuous loop)"
+        - titulo: "Straight Line Persuasion (SLP)"
+          path_raiz: "/knowledge/external/sources/jordan-belfort/raw/straight-line-persuasion/"
+          tipo: "training-program"
+          data_processamento: "2026-03-18"
+          insights_principais:
+            - "Trigger words: embedded commands and presuppositions for ad copy and VSLs"
+            - "Persuasion architecture: SLP certainty-building applied to landing page structure"
+            - "29 tonal patterns: application to video ads, webinar scripts, voiceover direction"
+
+    - pessoa: "donald-miller"
+      path: "/knowledge/external/dna/persons/donald-miller"
+      raiz: "/knowledge/external/sources/donald-miller/raw/"
+      dominios_usados:
+        - "messaging"
+        - "storytelling"
+        - "brand-strategy"
+        - "copywriting"
+        - "sales-funnel"
+        - "conversion"
+        - "email-marketing"          # SBMR 2026-03-18
+        - "lead-generation"          # SBMR 2026-03-18
+        - "campaign-strategy"        # SBMR 2026-03-18
+        - "web-design"               # SBMR 2026-03-18
+        - "content-marketing"        # SBMR 2026-03-18
+      peso: 0.85
+      quando_usar: "Clarity-first messaging, BrandScript framework, One-Liner formula, sales funnel architecture, Grunt Test, Guide Positioning, PASTOR Framework for sales copy, 12-email StoryBrand campaigns, lead generator architecture, 10-section website design, Marketing Roadmap execution"
+      justificativa: "Donald Miller provides the clarity-first messaging system that bridges story and business — CMO uses BrandScript as foundational messaging framework, PASTOR for sales copy, and SBMR for complete marketing execution roadmap"
+      added: "2026-03-18"
+      updated: "2026-03-18"
+      insight_ids:
+        # --- SB7 / Sell With Story (original) ---
+        - "FIL-DM-001"   # Clarity is king
+        - "FIL-DM-002"   # Story = survival mechanism
+        - "FIL-DM-005"   # Customer is the hero
+        - "FW-DM-001"    # BrandScript Framework (SB7)
+        - "FW-DM-002"    # One-Liner Formula
+        - "FW-DM-003"    # Landing Page Wireframe
+        - "FW-DM-004"    # Sales Funnel Architecture
+        - "MM-DM-001"    # Grunt Test
+        - "MM-DM-004"    # Guide Positioning
+        - "HEUR-DM-001"  # Clarity conversion impact
+        - "HEUR-DM-005"  # Grunt Test 5-second rule
+        - "HEUR-DM-007"  # Value stacking
+        # --- SBMR (added 2026-03-18) ---
+        - "FW-DM-013"    # PASTOR Framework
+        - "FW-DM-015"    # 12-Email StoryBrand Campaign
+        - "FW-DM-019"    # Marketing Roadmap Execution Sequence
+        - "FW-DM-020"    # 10-Section Website Architecture
+        - "FW-DM-016"    # Lead Generator Architecture
+        - "HEUR-DM-020"  # 85% nurture conversion
+      chunk_ids: []
+      # SBMR highlights (added 2026-03-18)
+      sbmr_highlights:
+        - tema: "PASTOR Framework"
+          descricao: "Problem → Amplify → Story → Transformation → Offer → Response — complete sales copy framework for emails, landing pages, and campaigns"
+          aplicacao: "CMO uses PASTOR as standard framework for all sales copy — emails, landing pages, VSLs, webinar scripts"
+          source: "StoryBrand Marketing Roadmap (SBMR)"
+        - tema: "12-Email StoryBrand Campaign"
+          descricao: "Complete 12-email nurture campaign architecture using StoryBrand framework — from welcome to sale"
+          aplicacao: "CMO deploys as standard email campaign template — reduces email creation time while maintaining story-driven messaging"
+          source: "StoryBrand Marketing Roadmap (SBMR)"
+        - tema: "Lead Generator Architecture"
+          descricao: "Systematic lead magnet creation using StoryBrand principles — problem-solution PDF, checklist, or video"
+          aplicacao: "CMO uses for top-of-funnel lead capture — every lead gen asset follows StoryBrand clarity principles"
+          source: "StoryBrand Marketing Roadmap (SBMR)"
+        - tema: "10-Section Website Architecture"
+          descricao: "Complete website wireframe with 10 sections — header, stakes, value proposition, guide, plan, explanatory, stats, junk drawer, CTA, footer"
+          aplicacao: "CMO uses as standard website template — every page follows StoryBrand messaging hierarchy"
+          source: "StoryBrand Marketing Roadmap (SBMR)"
+        - tema: "Marketing Roadmap Execution Sequence"
+          descricao: "Step-by-step marketing implementation sequence — BrandScript first, then one-liner, website, lead generator, email campaign, in that order"
+          aplicacao: "CMO uses as marketing build-out sequence — never skip steps, always start with BrandScript clarity"
+          source: "StoryBrand Marketing Roadmap (SBMR)"
+      materiais_fonte:
+        - titulo: "Sell With Story (Building a StoryBrand)"
+          path_raiz: "/knowledge/external/sources/donald-miller/raw/"
+          tipo: "course"
+          data_processamento: "2026-03-18"
+          insights_principais:
+            - "BrandScript SB7: 7-part messaging framework (Character, Problem, Guide, Plan, CTA, Failure, Success)"
+            - "One-Liner Formula: problem + solution + result in one sentence"
+            - "Grunt Test: 5-second website clarity check"
+            - "Guide Positioning: brand is the guide, customer is the hero"
+            - "Sales funnel architecture with story-based messaging"
+        - titulo: "StoryBrand Marketing Roadmap (SBMR)"
+          path_raiz: "/knowledge/external/sources/donald-miller/raw/"
+          tipo: "course"
+          data_processamento: "2026-03-18"
+          insights_principais:
+            - "PASTOR Framework: Problem → Amplify → Story → Transformation → Offer → Response"
+            - "12-Email StoryBrand Campaign: complete nurture sequence architecture"
+            - "Lead Generator Architecture: systematic lead magnet creation"
+            - "10-Section Website Architecture: complete wireframe template"
+            - "Marketing Roadmap Execution Sequence: build-out order for marketing assets"
+            - "85% nurture conversion: email nurture converts 85% of eventual buyers"
+
+    - pessoa: "robert-cialdini"
+      path: "/knowledge/external/dna/persons/robert-cialdini"
+      raiz: "/knowledge/external/sources/robert-cialdini/raw/"
+      dominios_usados:
+        - "persuasion-psychology"
+        - "social-proof"
+        - "pre-suasion"
+        - "review-optimization"
+        - "loss-framing"
+        - "marketing-psychology"
+      peso: 0.80
+      quando_usar: "Social proof at scale for campaigns, pre-suasion for ad creative and landing page priming, loss framing for conversion copy, review optimization for trust signals, persuasion psychology for campaign strategy, authority signaling in brand positioning"
+      justificativa: "Marketing is where Cialdini's principles get operationalized at scale — social proof engineering, pre-suasion for campaigns, loss framing for conversion optimization"
+      added: "2026-03-19"
+      insight_ids: []
+      chunk_ids: []
+      materiais_fonte:
+        - titulo: "Ethical Influence Practitioner Program (EIPP)"
+          path_raiz: "/knowledge/external/sources/robert-cialdini/raw/"
+          tipo: "course"
+          data_processamento: "2026-03-19"
+          insights_principais:
+            - "6 Principles of Influence operationalized for marketing at scale"
+            - "Pre-Suasion: attention priming before marketing messages"
+            - "Social Proof: engineering proof systems for campaigns and landing pages"
+            - "Loss Framing: framing offers around what prospects lose by not acting"
+            - "Review Optimization: leveraging testimonials and social proof signals"
+            - "Authority Signaling: credibility construction in brand positioning"
 
 # ═══════════════════════════════════════════════════════════════════════════════
 # MAPA DE CONFLITOS

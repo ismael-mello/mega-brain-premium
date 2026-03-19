@@ -1,0 +1,1101 @@
+# ============================================================================
+# DNA COGNITIVO: ROBERT CIALDINI
+# ============================================================================
+# Versão: v1.0.0
+# Elementos: 175
+# Fontes: 1 (EIPP - Ethical Influence Practitioner Program)
+# Última atualização: 2026-03-19
+# Next IDs: FIL-RC-036, MM-RC-031, HEUR-RC-056, FW-RC-031, MET-RC-026
+# L1: 35 | L2: 30 | L3: 55 | L4: 30 | L5: 25
+# ============================================================================
+
+metadata:
+  person: "Robert Cialdini"
+  person_id: "RC"
+  version: "v1.0.0"
+  total_elements: 175
+  sources: 1
+  last_updated: "2026-03-19"
+  next_ids:
+    L1: "FIL-RC-036"
+    L2: "MM-RC-031"
+    L3: "HEUR-RC-056"
+    L4: "FW-RC-031"
+    L5: "MET-RC-026"
+  layer_counts:
+    philosophies: 35
+    mental_models: 30
+    heuristics: 55
+    frameworks: 30
+    methodologies: 25
+  source_details:
+    - id: "RC-EIPP"
+      name: "Ethical Influence Practitioner Program"
+      type: "COURSE"
+
+layers:
+
+  L1_PHILOSOPHIES:
+    count: 35
+    items:
+      - id: "FIL-RC-001"
+        title: "Science-Based Persuasion Over Intuition"
+        content: "Persuasion was once only art, now it is also science that can be taught. Science-based influence outperforms intuition, folk wisdom, and war stories every time."
+        domains: ["influence-science", "persuasion-philosophy"]
+        source: "EIPP"
+
+      - id: "FIL-RC-002"
+        title: "Ethics and Effectiveness Are a Perfect Marriage"
+        content: "Ethics and effectiveness are not mutually exclusive — they are a perfect marriage. Ethical influence produces lasting results while unethical shortcuts destroy trust."
+        domains: ["ethics", "influence-philosophy"]
+        source: "EIPP"
+
+      - id: "FIL-RC-003"
+        title: "The Sleuth Mindset"
+        content: "The optimal practitioner is the Sleuth — one who detects principles of influence naturally present in situations rather than fabricating or smuggling them in."
+        domains: ["practitioner-identity", "ethics"]
+        source: "EIPP"
+
+      - id: "FIL-RC-004"
+        title: "Education as Kindling Not Filling"
+        content: "Education is not filling of a vessel, it is kindling of a flame. True influence educates others into a yes without any threats or manipulation."
+        domains: ["education-philosophy", "influence-philosophy"]
+        source: "EIPP"
+
+      - id: "FIL-RC-005"
+        title: "Gifts Before Rewards"
+        content: "Proactive giving activates reciprocity far more powerfully than conditional rewards. A gift given before the request signals trust and generosity; a reward after signals transaction."
+        domains: ["reciprocity", "generosity"]
+        source: "EIPP"
+
+      - id: "FIL-RC-006"
+        title: "Like Them FIRST — Rule Number One"
+        content: "Rule #1 of influence: like them first. Before trying to get someone to like you, genuinely find something to like about them. The sequence matters."
+        domains: ["liking", "relationship-building"]
+        source: "EIPP"
+
+      - id: "FIL-RC-007"
+        title: "Unity Is Of Us Not Like Us"
+        content: "Unity is deeper than similarity. It is not about shared traits (liking) but about shared identity — being 'of us' rather than merely 'like us.'"
+        domains: ["unity", "identity", "belonging"]
+        source: "EIPP"
+
+      - id: "FIL-RC-008"
+        title: "Losses Are Twice as Powerful as Gains"
+        content: "People are motivated 2x more by the prospect of losing something than by the prospect of gaining the equivalent. Loss aversion is a fundamental driver of human decision-making."
+        domains: ["loss-aversion", "cognitive-psychology", "scarcity"]
+        source: "EIPP"
+
+      - id: "FIL-RC-009"
+        title: "Triple Tumor of Organizational Dishonesty"
+        content: "Unethical influence creates a Triple Tumor that destroys organizations from within: poor performance, high turnover, and eventual fraud."
+        domains: ["ethics", "organizational-health"]
+        source: "EIPP"
+
+      - id: "FIL-RC-010"
+        title: "Entitled and Honorable to Use Principles Ethically"
+        content: "When influence principles are naturally present in a situation, you are not only entitled but honorable to call attention to them. The Sleuth operates with integrity."
+        domains: ["ethics", "practitioner-identity"]
+        source: "EIPP"
+
+      - id: "FIL-RC-011"
+        title: "Pre-suasion Changes Everything That Follows"
+        content: "What you do first changes everything that follows. The moment before the message is delivered is the moment of greatest influence — pre-suasion shapes receptivity."
+        domains: ["pre-suasion", "persuasion-sequence"]
+        source: "EIPP"
+
+      - id: "FIL-RC-012"
+        title: "Small Bigs Principle"
+        content: "The smallest change produces the biggest impact. The best ROI in influence comes from identifying the smallest modification that yields disproportionate results."
+        domains: ["optimization", "influence-roi"]
+        source: "EIPP"
+
+      - id: "FIL-RC-013"
+        title: "System 1 Makes 95 Percent of Decisions"
+        content: "System 1 (fast, automatic, emotional) makes 95% of human decisions. Rational arguments alone miss the mark because they target the 5% channel."
+        domains: ["cognitive-psychology", "decision-making"]
+        source: "EIPP"
+
+      - id: "FIL-RC-014"
+        title: "Voluntary Commitment Over Forced Compliance"
+        content: "He who complies against his will is of the same opinion still. Lasting influence requires voluntary commitment, not coerced compliance."
+        domains: ["consistency", "commitment", "ethics"]
+        source: "EIPP"
+
+      - id: "FIL-RC-015"
+        title: "Technology Must Be Humanized"
+        content: "Technology must be humanized — human connection drives assent. Digital channels lose persuasive power when they strip away human presence and warmth."
+        domains: ["digital-influence", "humanization"]
+        source: "EIPP"
+
+      - id: "FIL-RC-016"
+        title: "People Dont Know What Influences Them"
+        content: "People do not know what actually influences their behavior. The principles operate below conscious awareness, which is precisely why understanding them is essential."
+        domains: ["influence-science", "cognitive-psychology"]
+        source: "EIPP"
+
+      - id: "FIL-RC-017"
+        title: "Process Optimization Isnt Always the Answer"
+        content: "Process optimization is not always the answer. Houston Airport reduced baggage complaints not by speeding up luggage delivery but by increasing walking distance to the carousel — perception matters more than reality."
+        domains: ["perception-management", "problem-solving"]
+        source: "EIPP"
+
+      - id: "FIL-RC-018"
+        title: "Scarcity Changes Desire Not Experience"
+        content: "Scarcity does not change the experience of a product or service — it only changes the desire for it. The item itself remains the same; only its perceived value shifts."
+        domains: ["scarcity", "perception-management"]
+        source: "EIPP"
+
+      - id: "FIL-RC-019"
+        title: "Personal Relationships Are Fertile Soil"
+        content: "Personal relationships are the fertile soil from which all achievement grows. Investment in relationships precedes and enables all other forms of influence."
+        domains: ["relationship-building", "influence-philosophy"]
+        source: "EIPP"
+
+      - id: "FIL-RC-020"
+        title: "Compliance vs Agreement"
+        content: "Compliance (power-based) produces temporary behavior change. Agreement (persuasion-based) produces lasting attitude change. Persuasion creates durable influence."
+        domains: ["influence-philosophy", "leadership"]
+        source: "EIPP"
+
+      - id: "FIL-RC-021"
+        title: "Great Influencers Educate Into Yes"
+        content: "Great influencers educate others into a yes without any threats. They illuminate the genuine reasons to say yes rather than manufacturing artificial pressure."
+        domains: ["influence-philosophy", "ethics"]
+        source: "EIPP"
+
+      - id: "FIL-RC-022"
+        title: "Seven Principles as Decision Triggers"
+        content: "The 7 Principles of Persuasion are decision triggers — cognitive shortcuts that guide decisions in complex, information-overloaded environments."
+        domains: ["decision-making", "cognitive-psychology"]
+        source: "EIPP"
+
+      - id: "FIL-RC-023"
+        title: "Persuasion Is Now Science Not Just Art"
+        content: "Persuasion was once only art — now it is also science that can be taught, learned, and systematically applied with predictable results."
+        domains: ["influence-science", "education-philosophy"]
+        source: "EIPP"
+
+      - id: "FIL-RC-024"
+        title: "Unethical Enterprise Draws a Viper"
+        content: "An unethical enterprise will draw under its coat a viper. Organizations that use deceptive influence eventually suffer the consequences of their own dishonesty."
+        domains: ["ethics", "organizational-health"]
+        source: "EIPP"
+
+      - id: "FIL-RC-025"
+        title: "Reciprocity Binds Societies Across Generations"
+        content: "Reciprocity binds individuals, organizations, and entire societies across generations. It is the foundational principle that enables human cooperation at scale."
+        domains: ["reciprocity", "social-psychology"]
+        source: "EIPP"
+
+      - id: "FIL-RC-026"
+        title: "Information Overload Makes Shortcuts Critical"
+        content: "Information overload makes decision shortcuts more critical than ever. In a world of infinite options and limited attention, people increasingly rely on heuristic cues."
+        domains: ["decision-making", "cognitive-psychology"]
+        source: "EIPP"
+
+      - id: "FIL-RC-027"
+        title: "Contrast Is Always Available"
+        content: "If you cannot find contrast, you are not looking hard enough. Every situation contains a comparison that can be leveraged — the question is always 'compared to what?'"
+        domains: ["contrast", "persuasion-technique"]
+        source: "EIPP"
+
+      - id: "FIL-RC-028"
+        title: "The Golden Rule of Influence"
+        content: "Give unto others as you would have them give to you — and be FIRST. The initiator of generosity gains the reciprocity advantage."
+        domains: ["reciprocity", "generosity"]
+        source: "EIPP"
+
+      - id: "FIL-RC-029"
+        title: "The Platinum Rule"
+        content: "Give unto others as THEY would like — customize. The highest form of giving is tailored to the recipient's specific needs and preferences."
+        domains: ["reciprocity", "customization"]
+        source: "EIPP"
+
+      - id: "FIL-RC-030"
+        title: "Gift vs Reward Distinction"
+        content: "A gift is proactive and unconditional; a reward is reactive and conditional. Timing and conditionality define the distinction and determine the persuasive power."
+        domains: ["reciprocity", "influence-mechanics"]
+        source: "EIPP"
+
+      - id: "FIL-RC-031"
+        title: "Cooperation Promotes Liking Promotes Agreement"
+        content: "Cooperation promotes liking which promotes agreement. The chain is sequential — collaborative action creates affinity which enables influence."
+        domains: ["liking", "cooperation", "relationship-building"]
+        source: "EIPP"
+
+      - id: "FIL-RC-032"
+        title: "Shared Identity Trumps Shared Traits"
+        content: "Shared identity (unity) trumps shared traits (liking). Being 'one of us' creates a bond deeper and more durable than being 'similar to us.'"
+        domains: ["unity", "identity"]
+        source: "EIPP"
+
+      - id: "FIL-RC-033"
+        title: "Co-Creation Is Most Effective Marketing"
+        content: "Co-creation is the most effective marketing approach of the last 20 years. Inviting customers to shape products creates ownership, loyalty, and advocacy simultaneously."
+        domains: ["co-creation", "marketing", "unity"]
+        source: "EIPP"
+
+      - id: "FIL-RC-034"
+        title: "Scarcity Is Always Available Through Uniqueness"
+        content: "Scarcity is always available because every offering has unique features or unique combinations. If nothing else is scarce, the unique value proposition always is."
+        domains: ["scarcity", "positioning"]
+        source: "EIPP"
+
+      - id: "FIL-RC-035"
+        title: "Expertise Without Trustworthiness Fails"
+        content: "Even experts will not be fully credible unless also trustworthy. Authority requires both expertise and trustworthiness — knowledge without trust is dismissed."
+        domains: ["authority", "credibility", "trust"]
+        source: "EIPP"
+
+  L2_MENTAL_MODELS:
+    count: 30
+    items:
+      - id: "MM-RC-001"
+        title: "Neidert Core Motive Model"
+        content: "Three fundamental goals drive all persuasion: Relationship (reciprocity, liking, unity), Uncertainty Reduction (social proof, authority), and Action (consistency, scarcity). The 7 principles map to these 3 goals."
+        domains: ["influence-architecture", "persuasion-theory"]
+        source: "EIPP"
+
+      - id: "MM-RC-002"
+        title: "System 1 vs System 2"
+        content: "Kahneman's dual-process model: System 1 is fast, automatic, emotional, always on; System 2 is slow, deliberate, rational, requires effort. System 1 handles 95% of decisions. Effective influence targets System 1."
+        domains: ["cognitive-psychology", "decision-making"]
+        source: "EIPP"
+
+      - id: "MM-RC-003"
+        title: "Activator Plus Amplifier Architecture"
+        content: "Each principle of influence has both an Activator (on-switch that triggers the principle) and an Amplifier (dial that increases its intensity). Mastery requires knowing both per principle."
+        domains: ["influence-mechanics", "persuasion-architecture"]
+        source: "EIPP"
+
+      - id: "MM-RC-004"
+        title: "Three Types of Practitioners"
+        content: "Bungler: leaves principles on the table by not recognizing them. Smuggler: fabricates principles dishonestly. Sleuth: detects principles genuinely present and ethically highlights them."
+        domains: ["practitioner-identity", "ethics"]
+        source: "EIPP"
+
+      - id: "MM-RC-005"
+        title: "Triple Tumor Structure"
+        content: "Organizational dishonesty creates a Triple Tumor: first poor performance (people disengage), then high turnover (good people leave), then fraud (remaining people rationalize cheating). The sequence is predictable."
+        domains: ["organizational-health", "ethics"]
+        source: "EIPP"
+
+      - id: "MM-RC-006"
+        title: "Decision Triggers"
+        content: "Decision triggers are single reliable cues that guide decisions without full analysis. In complex environments, people use these shortcuts to make good-enough decisions efficiently."
+        domains: ["decision-making", "cognitive-psychology"]
+        source: "EIPP"
+
+      - id: "MM-RC-007"
+        title: "Pre-suasion Model"
+        content: "Pre-suasion is the practice of arranging for recipients to be receptive to a message BEFORE they encounter it. Background imagery, priming words, and context shape interpretation of everything that follows."
+        domains: ["pre-suasion", "persuasion-sequence"]
+        source: "EIPP"
+
+      - id: "MM-RC-008"
+        title: "Contrast Phenomenon"
+        content: "Sequential presentation changes perception. The same item appears more or less valuable depending on what was presented immediately before it. Always present the comparison point before the target."
+        domains: ["contrast", "perception-management"]
+        source: "EIPP"
+
+      - id: "MM-RC-009"
+        title: "Loss Aversion and Prospect Theory"
+        content: "Kahneman's Prospect Theory: losses are psychologically 2x more powerful than equivalent gains. People will take greater risks to avoid losses than to achieve gains of the same magnitude."
+        domains: ["loss-aversion", "cognitive-psychology", "scarcity"]
+        source: "EIPP"
+
+      - id: "MM-RC-010"
+        title: "The Small Big"
+        content: "The smallest change often produces the biggest impact. The highest ROI in influence comes from identifying the minimal modification that yields disproportionate results — efficiency over effort."
+        domains: ["optimization", "influence-roi"]
+        source: "EIPP"
+
+      - id: "MM-RC-011"
+        title: "Stacking Principles Model"
+        content: "Optimal influence uses 2 principles per message; maximum is 3. Beyond 3 principles triggers reactance — the audience feels manipulated and pushes back."
+        domains: ["influence-mechanics", "persuasion-architecture"]
+        source: "EIPP"
+
+      - id: "MM-RC-012"
+        title: "Future Social Proof"
+        content: "Social proof is most powerful when projected forward as a trend. Three or more data points showing increasing adoption create the perception of inevitable momentum."
+        domains: ["social-proof", "trend-projection"]
+        source: "EIPP"
+
+      - id: "MM-RC-013"
+        title: "Credible Communicator Dual Requirement"
+        content: "A credible communicator requires both Expertise (knowledge, credentials) AND Trustworthiness (honesty, reliability). Missing either one undermines the other entirely."
+        domains: ["authority", "credibility"]
+        source: "EIPP"
+
+      - id: "MM-RC-014"
+        title: "Gift vs Reward Timing Model"
+        content: "A gift is given before the request (proactive, unconditional, trust-signaling). A reward is given after compliance (reactive, conditional, transactional). The timing transforms the psychological meaning."
+        domains: ["reciprocity", "influence-mechanics"]
+        source: "EIPP"
+
+      - id: "MM-RC-015"
+        title: "Compliance vs Agreement Distinction"
+        content: "Compliance is behavior change through power — temporary and requires ongoing enforcement. Agreement is attitude change through persuasion — lasting and self-sustaining."
+        domains: ["influence-philosophy", "leadership"]
+        source: "EIPP"
+
+      - id: "MM-RC-016"
+        title: "Satisficing Model"
+        content: "Herbert Simon's satisficing: in complex environments, people choose the first good-enough option rather than the optimal one. Decision triggers enable satisficing by providing reliable shortcuts."
+        domains: ["decision-making", "cognitive-psychology"]
+        source: "EIPP"
+
+      - id: "MM-RC-017"
+        title: "Convert Communicator"
+        content: "A convert communicator — someone who publicly changed their position — is maximally persuasive because they demonstrate both the strength of evidence and personal integrity."
+        domains: ["authority", "credibility", "persuasion-technique"]
+        source: "EIPP"
+
+      - id: "MM-RC-018"
+        title: "Humanizing Technology"
+        content: "The presence of a human element in digital interactions (photos, handwriting, personal names) increases conversion because it activates relationship-based decision-making."
+        domains: ["digital-influence", "humanization"]
+        source: "EIPP"
+
+      - id: "MM-RC-019"
+        title: "Scarcity Double Whammy"
+        content: "When both the product AND the information about the product are scarce, persuasive impact multiplies. Exclusive information about a scarce item creates compounded urgency."
+        domains: ["scarcity", "information-exclusivity"]
+        source: "EIPP"
+
+      - id: "MM-RC-020"
+        title: "AN Authority vs IN Authority"
+        content: "AN authority has expertise and knowledge (credible). IN authority has positional power (compliance-based). The most effective influencer is AN authority who need not rely on being IN authority."
+        domains: ["authority", "leadership"]
+        source: "EIPP"
+
+      - id: "MM-RC-021"
+        title: "Specified vs Unspecified Yes"
+        content: "A specified yes is actively stated and publicly committed. An unspecified yes is passive and internal. Only the specified yes reliably predicts follow-through behavior."
+        domains: ["consistency", "commitment"]
+        source: "EIPP"
+
+      - id: "MM-RC-022"
+        title: "Entitlement vs Gift"
+        content: "Automatic access (entitlement) does not activate reciprocity because it lacks personal investment. A gift must be perceived as personal, voluntary, and meaningful to trigger obligation."
+        domains: ["reciprocity", "influence-mechanics"]
+        source: "EIPP"
+
+      - id: "MM-RC-023"
+        title: "Moment of Power"
+        content: "The moment immediately after a rejection is the Moment of Power — the window when a concession is most effective because the other party feels obligation to reciprocate flexibility."
+        domains: ["reciprocity", "negotiation"]
+        source: "EIPP"
+
+      - id: "MM-RC-024"
+        title: "Three Persuasive Goals Sequencing"
+        content: "The three goals must be addressed in order: first build Relationship (reciprocity, liking, unity), then reduce Uncertainty (social proof, authority), then drive Action (consistency, scarcity)."
+        domains: ["influence-architecture", "persuasion-sequence"]
+        source: "EIPP"
+
+      - id: "MM-RC-025"
+        title: "Feasibility Factor in Social Proof"
+        content: "Social proof works not only because others chose it, but because their choice signals feasibility — if they did it, I can too. It reduces perceived risk simultaneously."
+        domains: ["social-proof", "risk-reduction"]
+        source: "EIPP"
+
+      - id: "MM-RC-026"
+        title: "Trait vs Behavior Praise"
+        content: "Praising a trait ('you are generous') creates identity-level change that persists. Praising a behavior ('that was generous') creates situational acknowledgment that fades."
+        domains: ["consistency", "behavioral-psychology"]
+        source: "EIPP"
+
+      - id: "MM-RC-027"
+        title: "Commitment vs Progress Praise"
+        content: "Praising commitment ('look how committed you are') drives forward action. Praising progress ('look how far you have come') invites resting on achievements."
+        domains: ["consistency", "motivation"]
+        source: "EIPP"
+
+      - id: "MM-RC-028"
+        title: "Pre-suasion Priming"
+        content: "Background stimuli prime subsequent decisions: fluffy clouds on a furniture site increase comfort preferences; pennies on a pricing page increase price sensitivity. The frame precedes the picture."
+        domains: ["pre-suasion", "cognitive-psychology"]
+        source: "EIPP"
+
+      - id: "MM-RC-029"
+        title: "Similarity at Identity Level"
+        content: "Similarity at the identity level (belonging to a shared group) is qualitatively different from surface similarity (shared preferences). Identity-level similarity activates unity, not just liking."
+        domains: ["unity", "identity"]
+        source: "EIPP"
+
+      - id: "MM-RC-030"
+        title: "Sold Out Reframing"
+        content: "Saying 'sold out' instead of 'out of stock' combines scarcity with social proof — it signals both limited supply AND high demand simultaneously, multiplying persuasive impact."
+        domains: ["scarcity", "social-proof", "framing"]
+        source: "EIPP"
+
+  L3_HEURISTICS:
+    count: 55
+    items:
+      - id: "HEUR-RC-001"
+        title: "Optimal Review Score Range"
+        content: "The most persuasive review score is 4.2-4.7 out of 5 stars. Perfect 5.0 ratings trigger skepticism; slightly imperfect ratings signal authenticity."
+        domains: ["social-proof", "credibility"]
+        source: "EIPP"
+
+      - id: "HEUR-RC-002"
+        title: "Most Persuasive Review Percentage"
+        content: "89% positive reviews are more persuasive than 90% or 100%. The slight imperfection signals authenticity and reduces suspicion of manipulation."
+        domains: ["social-proof", "credibility"]
+        source: "EIPP"
+
+      - id: "HEUR-RC-003"
+        title: "Max Principles Per Message"
+        content: "Use maximum 2-3 principles of influence per message. Beyond 3 triggers reactance — the audience feels manipulated and actively resists."
+        domains: ["influence-mechanics", "persuasion-architecture"]
+        source: "EIPP"
+
+      - id: "HEUR-RC-004"
+        title: "Max Concessions Rule"
+        content: "Maximum 2 concessions total: the initial offer plus 1 retreat, then a final position if needed. More concessions signal desperation and erode credibility."
+        domains: ["negotiation", "reciprocity"]
+        source: "EIPP"
+
+      - id: "HEUR-RC-005"
+        title: "Optimal Options to Present"
+        content: "Present 3 options (Gold/Silver/Bronze). Fewer limits choice; more creates analysis paralysis. Three options enable contrast and guide toward the middle."
+        domains: ["contrast", "decision-architecture"]
+        source: "EIPP"
+
+      - id: "HEUR-RC-006"
+        title: "Like Them First Rule"
+        content: "Rule #1: Like them first. Rule #2: Get them to like you. The sequence is non-negotiable — genuine appreciation must precede any attempt to be appreciated."
+        domains: ["liking", "relationship-building"]
+        source: "EIPP"
+
+      - id: "HEUR-RC-007"
+        title: "Loss Aversion Ratio"
+        content: "Losses are 2x more motivating than equivalent gains. Frame benefits in terms of what will be lost by not acting, not what will be gained by acting."
+        domains: ["loss-aversion", "framing"]
+        source: "EIPP"
+
+      - id: "HEUR-RC-008"
+        title: "Ask for Advice Not Opinion"
+        content: "Ask for ADVICE not OPINION — advice creates a collaborative partner, opinion creates a detached critic. This works only in private 1-on-1 settings."
+        domains: ["unity", "relationship-building"]
+        source: "EIPP"
+
+      - id: "HEUR-RC-009"
+        title: "Praise Trait Not Behavior"
+        content: "Praise the TRAIT not the behavior. 'You are a generous person' creates lasting identity change. 'That was generous' creates a fleeting acknowledgment."
+        domains: ["consistency", "behavioral-psychology"]
+        source: "EIPP"
+
+      - id: "HEUR-RC-010"
+        title: "Praise Commitment Not Progress"
+        content: "Praise COMMITMENT not progress. 'You are so committed' drives forward action. 'Look how far you have come' invites complacency and resting on achievements."
+        domains: ["consistency", "motivation"]
+        source: "EIPP"
+
+      - id: "HEUR-RC-011"
+        title: "Mention Weakness Early Then Bridge"
+        content: "Mention your weakness EARLY in the presentation, then bridge immediately with 'but' or 'however' to your strongest arguments. Early disclosure builds trust; late disclosure destroys it."
+        domains: ["authority", "credibility", "persuasion-sequence"]
+        source: "EIPP"
+
+      - id: "HEUR-RC-012"
+        title: "Use Precise Numbers Not Round"
+        content: "Use precise numbers not round ones ($25,112 not $25,000). Precise numbers signal expertise and careful calculation; round numbers signal estimation and guesswork."
+        domains: ["authority", "credibility"]
+        source: "EIPP"
+
+      - id: "HEUR-RC-013"
+        title: "Say Sold Out Not Out of Stock"
+        content: "Say 'sold out' not 'out of stock.' Sold out adds social proof to scarcity — it communicates that many others wanted it, not just that supply ran out."
+        domains: ["scarcity", "social-proof", "framing"]
+        source: "EIPP"
+
+      - id: "HEUR-RC-014"
+        title: "Three Data Points for Trend Social Proof"
+        content: "Show 3 or more data points to establish trend-based social proof. A single data point is an anecdote; three create a convincing trajectory of momentum."
+        domains: ["social-proof", "trend-projection"]
+        source: "EIPP"
+
+      - id: "HEUR-RC-015"
+        title: "Will You Plus Pause for Commitment"
+        content: "'Will you [specific action]?' + pause = active commitment elicitation. The pause forces a verbal response, converting passive agreement into active commitment."
+        domains: ["consistency", "commitment"]
+        source: "EIPP"
+
+      - id: "HEUR-RC-016"
+        title: "Face to Face Superiority Hierarchy"
+        content: "Face-to-face is more persuasive than phone/video, which is more persuasive than email. The richer the communication channel, the stronger the influence."
+        domains: ["communication-channels", "influence-mechanics"]
+        source: "EIPP"
+
+      - id: "HEUR-RC-017"
+        title: "Start with Highest Price First"
+        content: "Always start with the highest price first to establish a high anchor. Everything presented afterward appears more reasonable by contrast."
+        domains: ["contrast", "pricing", "anchoring"]
+        source: "EIPP"
+
+      - id: "HEUR-RC-018"
+        title: "Exclusive Info Is Like Bread"
+        content: "Exclusive information is like bread — fresh is far more valuable than stale. Deliver exclusive information immediately; delay kills its persuasive power."
+        domains: ["scarcity", "information-exclusivity"]
+        source: "EIPP"
+
+      - id: "HEUR-RC-019"
+        title: "Third Party Credential Introduction"
+        content: "Have someone ELSE introduce your credentials. Self-promotion in person triggers skepticism; third-party endorsement activates both authority and social proof."
+        domains: ["authority", "credibility"]
+        source: "EIPP"
+
+      - id: "HEUR-RC-020"
+        title: "Public Goals 86 vs 14 Percent"
+        content: "Public goals achieve 86% success rate vs 14% for private goals. Making commitments public activates consistency pressure and social accountability."
+        domains: ["consistency", "commitment", "goal-setting"]
+        source: "EIPP"
+
+      - id: "HEUR-RC-021"
+        title: "Gift Before Request Not Reward After"
+        content: "Give the gift before making the request, not as a reward after compliance. Proactive giving creates obligation; conditional rewards create transaction."
+        domains: ["reciprocity", "influence-sequence"]
+        source: "EIPP"
+
+      - id: "HEUR-RC-022"
+        title: "Reciprocity Future Tense Response"
+        content: "When leveraging reciprocity, use future tense ('would do') not past tense ('would have done'). Future tense maintains ongoing obligation; past tense closes the account."
+        domains: ["reciprocity", "language-patterns"]
+        source: "EIPP"
+
+      - id: "HEUR-RC-023"
+        title: "Dont Dismiss Gratitude"
+        content: "Do not dismiss gratitude with 'it was nothing.' Acknowledge it and set the norm for exchange: 'It is what partners do for one another, right?' This creates ongoing reciprocity."
+        domains: ["reciprocity", "relationship-building"]
+        source: "EIPP"
+
+      - id: "HEUR-RC-024"
+        title: "Separate Gifting from Selling"
+        content: "Separate gifting from selling entirely. When a gift is connected to a sales request, it becomes a bribe. Temporal and contextual separation preserves the gift's power."
+        domains: ["reciprocity", "ethics"]
+        source: "EIPP"
+
+      - id: "HEUR-RC-025"
+        title: "Frequency of Contact Increases Unity"
+        content: "Frequency of contact increases the feeling of unity. Regular interaction builds shared identity and belonging more effectively than intensity of single interactions."
+        domains: ["unity", "relationship-building"]
+        source: "EIPP"
+
+      - id: "HEUR-RC-026"
+        title: "Simple Language for System 1"
+        content: "Communicate as if to a 7-year-old for System 1 engagement. Simple language bypasses analytical resistance and reaches the automatic decision-making system."
+        domains: ["communication", "cognitive-psychology"]
+        source: "EIPP"
+
+      - id: "HEUR-RC-027"
+        title: "Visual Over Words for System 1"
+        content: "Visual communication engages System 1 more effectively than words alone. Images bypass analytical processing and create immediate emotional responses."
+        domains: ["communication", "cognitive-psychology"]
+        source: "EIPP"
+
+      - id: "HEUR-RC-028"
+        title: "Emotional Over Rational for System 1"
+        content: "Emotional appeals activate System 1 more effectively than rational arguments. Lead with emotion, then support with logic for the small System 2 audience."
+        domains: ["communication", "cognitive-psychology"]
+        source: "EIPP"
+
+      - id: "HEUR-RC-029"
+        title: "Freedom to Decline Increases Compliance 400 Percent"
+        content: "'You are free to decline' increases compliance by 400% based on a 42-study meta-analysis. Acknowledging freedom reduces reactance and paradoxically increases agreement."
+        domains: ["consistency", "reactance-management"]
+        source: "EIPP"
+
+      - id: "HEUR-RC-030"
+        title: "No-Show Reduction Will You vs Please Call"
+        content: "'Will you call if you need to cancel?' reduces no-shows from 30% to 10%. The shift from passive request to active commitment question transforms follow-through."
+        domains: ["consistency", "commitment"]
+        source: "EIPP"
+
+      - id: "HEUR-RC-031"
+        title: "Five Minutes Early Plus Research Plus One Topic"
+        content: "Arrive 5 minutes early + research the person beforehand + raise 1 common topic = instant rapport. Preparation is the foundation of liking-based influence."
+        domains: ["liking", "rapport-building"]
+        source: "EIPP"
+
+      - id: "HEUR-RC-032"
+        title: "Skilled Negotiators 40 Percent on Shared Interests"
+        content: "Skilled negotiators spend 40% of their time on shared interests vs average negotiators at 10%. Investing time in commonality yields disproportionate returns in agreement."
+        domains: ["negotiation", "liking"]
+        source: "EIPP"
+
+      - id: "HEUR-RC-033"
+        title: "KPMG Relationship Win Rate"
+        content: "KPMG data: weak relationship = 30% win rate, strong relationship = 65-70% win rate. Relationship quality is the single largest predictor of competitive wins."
+        domains: ["relationship-building", "sales"]
+        source: "EIPP"
+
+      - id: "HEUR-RC-034"
+        title: "Managers 80 Percent Time in Persuasion"
+        content: "Managers spend 80% of their time in verbal communication and persuasion. Influence skills are not optional for leaders — they are the primary activity."
+        domains: ["leadership", "influence-roi"]
+        source: "EIPP"
+
+      - id: "HEUR-RC-035"
+        title: "Similar Names Double Compliance"
+        content: "Similar names produce 2x compliance rate. Even incidental name similarity activates liking and perceived kinship, increasing willingness to help."
+        domains: ["liking", "cognitive-psychology"]
+        source: "EIPP"
+
+      - id: "HEUR-RC-036"
+        title: "Email Personal Info Reduces Deadlock"
+        content: "In email negotiation, exchanging personal information drops deadlock from 30% to 6%. Humanizing digital communication transforms adversarial dynamics into collaborative ones."
+        domains: ["negotiation", "digital-influence"]
+        source: "EIPP"
+
+      - id: "HEUR-RC-037"
+        title: "Neidert Consultation 10-30M Savings"
+        content: "Neidert consultation: $10-30M in savings resulted from just minutes of rapport-building before business discussion. The ROI of relationship investment is extraordinary."
+        domains: ["relationship-building", "influence-roi"]
+        source: "EIPP"
+
+      - id: "HEUR-RC-038"
+        title: "Gift 5 Dollar vs Reward 50 Dollar"
+        content: "A $5 gift upfront produces 52% compliance vs a $50 reward after produces only 23%. The timing of giving matters 10x more than the amount."
+        domains: ["reciprocity", "influence-mechanics"]
+        source: "EIPP"
+
+      - id: "HEUR-RC-039"
+        title: "Hotel Towel Reuse Reciprocity vs Environment"
+        content: "Hotel towel reuse rates: reciprocity framing 45.2% vs environmental appeal 35.1% vs reward offer 30.7%. Reciprocity outperforms both altruistic and transactional appeals."
+        domains: ["reciprocity", "social-proof"]
+        source: "EIPP"
+
+      - id: "HEUR-RC-040"
+        title: "Restaurant Tipping Mint Effect"
+        content: "Restaurant tipping: 1 mint increases tips +3.3%, 2 mints +14.1%, personalized return with extra mint +23%. Customization and unexpectedness amplify reciprocity."
+        domains: ["reciprocity", "customization"]
+        source: "EIPP"
+
+      - id: "HEUR-RC-041"
+        title: "Concession Retreat Nearly Doubles Compliance"
+        content: "Concession retreat (rejection-then-retreat) nearly doubles compliance from 25% to 44%. The concession itself becomes a gift that triggers reciprocal flexibility."
+        domains: ["reciprocity", "negotiation"]
+        source: "EIPP"
+
+      - id: "HEUR-RC-042"
+        title: "Hot Tub Contrast 520 Percent Sales Increase"
+        content: "Hot tub sales increased 520% by showing the deluxe model first. Contrast makes the standard model appear far more affordable by comparison."
+        domains: ["contrast", "sales"]
+        source: "EIPP"
+
+      - id: "HEUR-RC-043"
+        title: "Joe Gerrard 5 Cars Per Day Record"
+        content: "Joe Gerrard sold 5+ cars per day for 12 consecutive years as #1 salesperson, sending 13,000+ monthly greeting cards. Consistent relationship maintenance drives extraordinary results."
+        domains: ["liking", "relationship-building", "sales"]
+        source: "EIPP"
+
+      - id: "HEUR-RC-044"
+        title: "Negotiators Miss Shared Interests 50 Percent"
+        content: "Negotiators miss shared interests 50% of the time. Half of all negotiation value is left on the table because parties fail to discover mutual benefits."
+        domains: ["negotiation", "liking"]
+        source: "EIPP"
+
+      - id: "HEUR-RC-045"
+        title: "Tax Compliance Social Proof Escalation"
+        content: "Tax compliance escalation via social proof: base rate 67%, 'many comply' 72%, 'your region' 79%, 'your town' 83%. The more local and specific, the more powerful."
+        domains: ["social-proof", "compliance"]
+        source: "EIPP"
+
+      - id: "HEUR-RC-046"
+        title: "Five Billion Pound Letter Social Proof"
+        content: "HM Revenue's '5 Billion Pound Letter' used social proof to recover billions in unpaid taxes. A single sentence about neighbors' compliance changed behavior at national scale."
+        domains: ["social-proof", "compliance"]
+        source: "EIPP"
+
+      - id: "HEUR-RC-047"
+        title: "Jaywalking 350 Percent More Followers in Suit"
+        content: "Jaywalking study: 350% more followers when the jaywalker wore a business suit. Authority cues change behavior even in trivial, anonymous situations."
+        domains: ["authority", "social-psychology"]
+        source: "EIPP"
+
+      - id: "HEUR-RC-048"
+        title: "Real Estate Credentializing 16 Percent More Contracts"
+        content: "Real estate agents who had receptionists mention their credentials before calls signed 16% more contracts. Third-party credentializing works even when obviously arranged."
+        domains: ["authority", "credibility", "sales"]
+        source: "EIPP"
+
+      - id: "HEUR-RC-049"
+        title: "Weakness First Charity 36 Percent More Donations"
+        content: "Charity that led with weakness ('we know times are tough, but...') received 36% more donations during the 2008-2010 recession. Honesty about weakness builds trust."
+        domains: ["authority", "credibility"]
+        source: "EIPP"
+
+      - id: "HEUR-RC-050"
+        title: "Avis We Are Number 2 Market Share 700 Percent"
+        content: "Avis 'We are #2 but we try harder' produced a 700% market share increase. Admitting weakness then bridging to strength is one of the most powerful persuasion patterns."
+        domains: ["authority", "positioning"]
+        source: "EIPP"
+
+      - id: "HEUR-RC-051"
+        title: "LOreal Expensive But Worth It 300 Percent"
+        content: "L'Oreal 'Because I am worth it' (expensive but worth it) produced a 300% market share jump. Framing high price as evidence of quality transforms a weakness into strength."
+        domains: ["authority", "positioning", "pricing"]
+        source: "EIPP"
+
+      - id: "HEUR-RC-052"
+        title: "Drive Safely Billboard Prior Commitment 400 Percent"
+        content: "Drive Safely billboard acceptance: prior small commitment yielded 76% vs 17% without (roughly 400% increase). Small initial commitments pave the way for large ones."
+        domains: ["consistency", "commitment"]
+        source: "EIPP"
+
+      - id: "HEUR-RC-053"
+        title: "Public Goals 86 vs 14 Percent UNC Study"
+        content: "UNC Probation study: students with public goals achieved 86% success vs 14% for private goals. Public declaration activates consistency pressure and social accountability."
+        domains: ["consistency", "commitment", "goal-setting"]
+        source: "EIPP"
+
+      - id: "HEUR-RC-054"
+        title: "Healthcare Cancellation Voluntary Choices 50 to 5 Percent"
+        content: "Healthcare cancellation dropped from 50% to 5% when patients made voluntary choices about their treatment schedule. Active choice creates binding commitment."
+        domains: ["consistency", "commitment"]
+        source: "EIPP"
+
+      - id: "HEUR-RC-055"
+        title: "Australian Beef Scarcity Plus Exclusive Info 6x Sales"
+        content: "Australian beef study: scarcity alone increased sales 2.4x; scarcity plus exclusive information about the scarcity increased sales 6x. The Double Whammy multiplies impact."
+        domains: ["scarcity", "information-exclusivity"]
+        source: "EIPP"
+
+  L4_FRAMEWORKS:
+    count: 30
+    items:
+      - id: "FW-RC-001"
+        title: "7 Universal Principles of Persuasion"
+        content: "The complete architecture of ethical influence: Reciprocity (give first), Liking (find commonality), Unity (shared identity), Social Proof (evidence of others), Authority (expertise + trust), Consistency (commitment), Scarcity (loss framing)."
+        domains: ["influence-architecture", "persuasion-theory"]
+        source: "EIPP"
+
+      - id: "FW-RC-002"
+        title: "Activator Plus Amplifier Architecture"
+        content: "Complete map per principle: each has Activators (on-switches that trigger the principle) and Amplifiers (dials that increase intensity). Mastery = knowing both for all 7 principles."
+        domains: ["influence-mechanics", "persuasion-architecture"]
+        source: "EIPP"
+
+      - id: "FW-RC-003"
+        title: "4-Step Influence Process"
+        content: "Step 1: Step Back 5 minutes (identify situation). Step 2: Think 7 minutes (map principles present). Step 3: Solicit 2.5 minutes per person (get input). Step 4: Plan 10-15 minutes (design approach). Total: ~25 minutes per influence challenge."
+        domains: ["influence-process", "methodology"]
+        source: "EIPP"
+
+      - id: "FW-RC-004"
+        title: "3 Criteria for Ethical Influence"
+        content: "Three questions determine ethical use: Is it TRUE (principle genuinely present)? Is it NATURAL (not fabricated)? Is it WISE (produces lasting benefit)? All three must be YES."
+        domains: ["ethics", "decision-making"]
+        source: "EIPP"
+
+      - id: "FW-RC-005"
+        title: "Neidert Core Motive Model Framework"
+        content: "Maps 7 principles to 3 goals: Relationship (Reciprocity + Liking + Unity) → Uncertainty Reduction (Social Proof + Authority) → Action (Consistency + Scarcity). Sequence matters."
+        domains: ["influence-architecture", "persuasion-sequence"]
+        source: "EIPP"
+
+      - id: "FW-RC-006"
+        title: "Weakness-First Strategy"
+        content: "Present weakness early in the message, then bridge immediately with 'but' or 'however' to your strongest arguments. Structure: Weakness → Connector → Strength. Builds trust through vulnerability."
+        domains: ["authority", "credibility", "persuasion-technique"]
+        source: "EIPP"
+
+      - id: "FW-RC-007"
+        title: "Personal Action Plan"
+        content: "5-question assessment → Map all 7 principles to situation → Identify available activators and amplifiers → Prioritize by availability and impact (rank 1-9) → Implement top 2-3."
+        domains: ["influence-process", "personal-development"]
+        source: "EIPP"
+
+      - id: "FW-RC-008"
+        title: "Message Map 6.0"
+        content: "Complete reference document mapping all 7 principles with their activators, amplifiers, implementation notes, and real-world examples. The master reference for ethical influence design."
+        domains: ["influence-architecture", "reference-tool"]
+        source: "EIPP"
+
+      - id: "FW-RC-009"
+        title: "Stacking Protocol"
+        content: "Optimal: use 2 principles per influence message. Maximum: 3 principles. Sequence: Relationship-building principle first, then uncertainty-reducing, then action-moving. Beyond 3 = reactance."
+        domains: ["influence-mechanics", "persuasion-architecture"]
+        source: "EIPP"
+
+      - id: "FW-RC-010"
+        title: "Pre-suasion Landing Page"
+        content: "Background imagery aligned to desired association + welcoming statement creating relationship + testimonials providing social proof. The page itself is a pre-suasive frame before any content."
+        domains: ["pre-suasion", "digital-influence"]
+        source: "EIPP"
+
+      - id: "FW-RC-011"
+        title: "Concession Architecture"
+        content: "Present 3 options: Gold (highest/aspirational), Silver (target/desired), Bronze (minimum/anchor). Start with Gold → retreat to Silver on pushback → Bronze as floor. Contrast + reciprocity combined."
+        domains: ["negotiation", "pricing", "contrast"]
+        source: "EIPP"
+
+      - id: "FW-RC-012"
+        title: "3 Digital Ethics Rules"
+        content: "Rule 1: No fake patterns (no manufactured social proof or false scarcity). Rule 2: No confusion (no dark patterns or misleading UI). Rule 3: No hiding (no buried terms or hidden costs). Digital influence must meet same ethical standards."
+        domains: ["ethics", "digital-influence"]
+        source: "EIPP"
+
+      - id: "FW-RC-013"
+        title: "Triple Tumor Diagnosis"
+        content: "Diagnostic framework for organizational dishonesty: Stage 1 — Poor Performance (disengagement). Stage 2 — High Turnover (talent flight). Stage 3 — Fraud (rationalized cheating). Each stage feeds the next."
+        domains: ["organizational-health", "ethics", "leadership"]
+        source: "EIPP"
+
+      - id: "FW-RC-014"
+        title: "Humanizing Technology Checklist"
+        content: "4-point checklist for digital channels: Include real photos of people. Use handwritten elements. Add welcoming personal statement. Feature real team members not stock photos. Each element increases conversion."
+        domains: ["digital-influence", "humanization"]
+        source: "EIPP"
+
+      - id: "FW-RC-015"
+        title: "Convert Communicator Strategy"
+        content: "Find someone who publicly changed their position on the topic. Their testimony is maximally persuasive because it demonstrates: the strength of evidence that changed their mind + personal integrity in admitting change."
+        domains: ["authority", "credibility", "persuasion-technique"]
+        source: "EIPP"
+
+      - id: "FW-RC-016"
+        title: "Future Social Proof Framework"
+        content: "Collect 3+ data points showing increasing adoption over time. Present as trajectory, not snapshot. Frame: 'X in year 1, Y in year 2, Z in year 3 — the trend is clear.' Momentum is self-reinforcing."
+        domains: ["social-proof", "trend-projection"]
+        source: "EIPP"
+
+      - id: "FW-RC-017"
+        title: "Sold Out Reframing Protocol"
+        content: "Replace 'out of stock' language with 'sold out' language across all channels. Ensure waitlists reference demand. Each 'sold out' signal combines scarcity + social proof simultaneously."
+        domains: ["scarcity", "social-proof", "framing"]
+        source: "EIPP"
+
+      - id: "FW-RC-018"
+        title: "Scarcity Double Whammy Protocol"
+        content: "Step 1: Establish genuine product scarcity (limited quantity or time). Step 2: Frame the information ABOUT the scarcity as itself exclusive ('I just learned this, not public yet'). Both layers compound."
+        domains: ["scarcity", "information-exclusivity"]
+        source: "EIPP"
+
+      - id: "FW-RC-019"
+        title: "Gift Amplification Framework"
+        content: "Three amplifiers for maximum reciprocity: Meaningful (relevant to recipient's needs), Unexpected (not anticipated or required), Customized (tailored specifically to this person). All three multiply obligation."
+        domains: ["reciprocity", "customization"]
+        source: "EIPP"
+
+      - id: "FW-RC-020"
+        title: "Reciprocity Activator Map"
+        content: "Two activators: Gifts (proactive, unconditional giving) and Concessions (retreat from initial position). Both create Moments of Power — windows of heightened receptivity to requests."
+        domains: ["reciprocity", "influence-mechanics"]
+        source: "EIPP"
+
+      - id: "FW-RC-021"
+        title: "Liking Activator Map"
+        content: "Three activators: Similarity (find genuine commonalities), Praise (compliment traits not just behaviors), Cooperation (work together toward shared goals). Rule #1: Like them FIRST."
+        domains: ["liking", "relationship-building"]
+        source: "EIPP"
+
+      - id: "FW-RC-022"
+        title: "Unity Activator Map"
+        content: "Three activators: Localism (shared geography or group), Acting Together (synchronized or collaborative activity), Co-creation (invite participation in creation). Amplifier: Ask for advice (private only)."
+        domains: ["unity", "identity"]
+        source: "EIPP"
+
+      - id: "FW-RC-023"
+        title: "Social Proof Activator Map"
+        content: "Primary activator: Evidence of many similar others choosing the desired behavior. Amplifiers: specificity (exact numbers), locality (similar demographics), uncertainty (highest impact when audience is uncertain)."
+        domains: ["social-proof", "influence-mechanics"]
+        source: "EIPP"
+
+      - id: "FW-RC-024"
+        title: "Authority Activator Map"
+        content: "Two components: Expertise cues (credentials, experience, knowledge) and Trustworthiness signals (weakness-first strategy, convert communicator). Both required for full credibility."
+        domains: ["authority", "credibility"]
+        source: "EIPP"
+
+      - id: "FW-RC-025"
+        title: "Consistency Activator Map"
+        content: "Primary activator: Commitment that is Active (stated, not passive), Public (witnessed by others), Voluntary (freely chosen, not coerced). All three amplify follow-through dramatically."
+        domains: ["consistency", "commitment"]
+        source: "EIPP"
+
+      - id: "FW-RC-026"
+        title: "Scarcity Activator Map"
+        content: "Two activators: Rare/Dwindling supply (quantity or time limited) and Loss framing (what you will miss). Amplifiers: Competition (others want it too), Exclusive information (scarce knowledge about scarcity)."
+        domains: ["scarcity", "loss-aversion"]
+        source: "EIPP"
+
+      - id: "FW-RC-027"
+        title: "Contrast Application Framework"
+        content: "Three rules: Contrast is always available ('compared to what?'). Never save the best for last (present strongest first). Sequential presentation changes perception of everything that follows."
+        domains: ["contrast", "persuasion-sequence"]
+        source: "EIPP"
+
+      - id: "FW-RC-028"
+        title: "Credentializing Protocol"
+        content: "Two methods: Method 1 — Have respected third party introduce credentials verbally before the meeting. Method 2 — Send written credentials (bio, publications, awards) ahead of the meeting. Both work even when obviously arranged."
+        domains: ["authority", "credibility"]
+        source: "EIPP"
+
+      - id: "FW-RC-029"
+        title: "Active Commitment Elicitation Framework"
+        content: "Structure: 'Will you [specific action]?' + deliberate pause for verbal response. The pause is critical — it forces active stated commitment rather than passive implied agreement."
+        domains: ["consistency", "commitment"]
+        source: "EIPP"
+
+      - id: "FW-RC-030"
+        title: "Social Proof 3-Part Formula"
+        content: "Three components in every social proof statement: (1) Describe similar others specifically, (2) Name the desired behavior explicitly, (3) Use exact numbers, not vague quantities. Specificity multiplies impact."
+        domains: ["social-proof", "communication"]
+        source: "EIPP"
+
+  L5_METHODOLOGIES:
+    count: 25
+    items:
+      - id: "MET-RC-001"
+        title: "EIPP Personal Action Plan"
+        content: "Step 1: Answer 5 diagnostic questions about the influence challenge. Step 2: Map all 7 principles to the situation. Step 3: Identify available activators and amplifiers per principle. Step 4: Rank all options 1-9 by availability and expected impact. Step 5: Select top 2-3 and design implementation sequence."
+        domains: ["influence-process", "personal-development"]
+        source: "EIPP"
+
+      - id: "MET-RC-002"
+        title: "4-Step Influence Process Execution"
+        content: "Step 1: Step Back — 5 minutes to identify the influence situation and key stakeholders. Step 2: Think — 7 minutes to map which principles are naturally present. Step 3: Solicit — 2.5 minutes per person gathering perspectives and input. Step 4: Plan — 10-15 minutes designing the influence approach. Roles: assign host, timekeeper, and notetaker."
+        domains: ["influence-process", "team-methodology"]
+        source: "EIPP"
+
+      - id: "MET-RC-003"
+        title: "Weakness-First Sequence"
+        content: "Step 1: Identify your genuine weakness or limitation relevant to the audience. Step 2: Present the weakness early in the message (not late). Step 3: Bridge immediately with 'but' or 'however.' Step 4: Present your strongest arguments immediately after the bridge. The trust built by the weakness amplifies the strength."
+        domains: ["authority", "credibility", "persuasion-sequence"]
+        source: "EIPP"
+
+      - id: "MET-RC-004"
+        title: "Concession Retreat Method"
+        content: "Step 1: Make an ambitious but defensible initial request (Gold option). Step 2: If rejected, retreat to your actual target (Silver option). Step 3: The retreat itself is a concession that triggers reciprocal flexibility. Step 4: If needed, present floor position (Bronze). Result: compliance nearly doubles (25% to 44%)."
+        domains: ["negotiation", "reciprocity"]
+        source: "EIPP"
+
+      - id: "MET-RC-005"
+        title: "Gift Amplification Method"
+        content: "Step 1: Identify what would be genuinely meaningful to the recipient (not generic). Step 2: Deliver it unexpectedly (not at an expected moment like holidays). Step 3: Customize it specifically to the individual (personalized, not mass-produced). Step 4: Give it before any request, with no strings attached. All three amplifiers multiply reciprocity."
+        domains: ["reciprocity", "customization"]
+        source: "EIPP"
+
+      - id: "MET-RC-006"
+        title: "Credentializing Protocol Execution"
+        content: "Method A (verbal): Identify a respected person to introduce you. Provide them with 3-5 key credential points. Have them mention credentials naturally before your meeting/call begins. Method B (written): Send a bio or one-page credential summary ahead of the meeting via email. Include specific achievements, not just titles. Both methods produce measurable results even when the arrangement is obvious."
+        domains: ["authority", "credibility"]
+        source: "EIPP"
+
+      - id: "MET-RC-007"
+        title: "Active Commitment Elicitation"
+        content: "Step 1: Formulate request as a 'Will you...?' question with a specific action. Step 2: Ask the question clearly and directly. Step 3: Pause deliberately — do not fill the silence. Step 4: Wait for a verbal 'yes' response. Step 5: Acknowledge the commitment ('Thank you, I appreciate that'). Result: no-shows drop from 30% to 10%."
+        domains: ["consistency", "commitment"]
+        source: "EIPP"
+
+      - id: "MET-RC-008"
+        title: "Public Goal Setting Protocol"
+        content: "Step 1: Have the person write down their specific goal. Step 2: Have them sign the written commitment. Step 3: Share the commitment publicly (team meeting, announcement, visible posting). Step 4: Create accountability check-ins. Result: 86% success rate vs 14% for private goals."
+        domains: ["consistency", "commitment", "goal-setting"]
+        source: "EIPP"
+
+      - id: "MET-RC-009"
+        title: "Review Optimization Methodology"
+        content: "Step 1: Target an aggregate review score of 4.2-4.7 (not 5.0). Step 2: Aim for approximately 89% positive reviews (not 100%). Step 3: Include testimonials from similar others (demographic match to target audience). Step 4: Feature specific outcomes and numbers, not vague praise. Step 5: Display reviews prominently before purchase decision point."
+        domains: ["social-proof", "digital-influence"]
+        source: "EIPP"
+
+      - id: "MET-RC-010"
+        title: "Loss Framing Conversion"
+        content: "Step 1: Identify all current gain-framed statements in your materials. Step 2: Rewrite each as a loss statement ('save $1/day' becomes 'stop losing $1/day'). Step 3: Test loss-framed versions against gain-framed originals. Step 4: Apply to headlines, CTAs, email subject lines, and sales conversations. Loss framing consistently outperforms gain framing by 2x."
+        domains: ["loss-aversion", "framing", "copywriting"]
+        source: "EIPP"
+
+      - id: "MET-RC-011"
+        title: "Exclusive Information Delivery"
+        content: "Step 1: Obtain genuinely exclusive or early information. Step 2: Frame the exclusivity explicitly: 'I just got this, no one else has it yet.' Step 3: Deliver immediately while freshness is maximum — delay kills the effect. Step 4: Connect the exclusive information to a relevant scarcity or decision. Fresh exclusive info is like fresh bread — value depreciates rapidly."
+        domains: ["scarcity", "information-exclusivity"]
+        source: "EIPP"
+
+      - id: "MET-RC-012"
+        title: "Similarity Discovery Method"
+        content: "Step 1: Research the person online before meeting (LinkedIn, social media, publications). Step 2: During informal interaction (before business talk), explore personal topics. Step 3: Find at least 1 genuine commonality (background, interests, values, experiences). Step 4: Mention the commonality naturally in conversation. Even small genuine similarities produce measurable increases in liking and compliance."
+        domains: ["liking", "rapport-building"]
+        source: "EIPP"
+
+      - id: "MET-RC-013"
+        title: "Co-creation Implementation"
+        content: "Step 1: Identify an aspect of your product/service that customers can meaningfully shape. Step 2: Invite customers to evaluate, test, or contribute ideas. Step 3: Implement visible changes based on their input. Step 4: Acknowledge their contribution publicly. Result: increased brand affinity, loyalty, and advocacy. Co-creation activates unity through shared creation."
+        domains: ["co-creation", "unity", "marketing"]
+        source: "EIPP"
+
+      - id: "MET-RC-014"
+        title: "Scarcity Enhancement Methodology"
+        content: "Step 1: Identify the genuinely unique feature or unique combination of features in your offering. Step 2: Frame scarcity around what the prospect will MISS by not acting (loss frame). Step 3: If applicable, add time or quantity limits that are real (not manufactured). Step 4: Combine with social proof if available ('only 3 left — 47 people viewed today'). Scarcity is always available through uniqueness."
+        domains: ["scarcity", "positioning"]
+        source: "EIPP"
+
+      - id: "MET-RC-015"
+        title: "Pre-suasion Implementation"
+        content: "Step 1: Choose background imagery aligned to the desired association (comfort = clouds, nature; precision = grids, clean lines). Step 2: Write a welcoming statement that creates immediate relationship. Step 3: Place testimonials from similar others before the main content. Step 4: Ensure the entire experience primes the desired frame before the ask arrives."
+        domains: ["pre-suasion", "digital-influence"]
+        source: "EIPP"
+
+      - id: "MET-RC-016"
+        title: "Rapport-Building Protocol"
+        content: "Step 1: Arrive 5 minutes early (signals respect and preparation). Step 2: Prepare 1-page bullet points on the counterpart (background, interests, recent achievements). Step 3: Raise 1 common topic during the first 2-3 minutes of informal conversation. Step 4: Transition naturally to business after rapport is established. This protocol applies to sales calls, negotiations, and any influence interaction."
+        domains: ["liking", "rapport-building"]
+        source: "EIPP"
+
+      - id: "MET-RC-017"
+        title: "Ethical Influence Audit"
+        content: "For every influence tactic being considered, ask 3 questions: Question 1 — Is it True? (Is the principle genuinely present in the situation?) Question 2 — Is it Natural? (Am I detecting it, not fabricating it?) Question 3 — Is it Wise? (Will it produce lasting benefit for both parties?) All three must be YES to proceed. Any NO = stop and redesign."
+        domains: ["ethics", "decision-making"]
+        source: "EIPP"
+
+      - id: "MET-RC-018"
+        title: "Gratitude Leverage Method"
+        content: "Step 1: When thanked for a favor, do NOT dismiss it ('it was nothing'). Step 2: Acknowledge the gratitude warmly. Step 3: Set the norm for ongoing exchange: 'It is what partners do for one another, right?' Step 4: The 'right?' at the end invites verbal agreement, creating a reciprocity norm. This converts a one-time favor into an ongoing relationship of mutual exchange."
+        domains: ["reciprocity", "relationship-building"]
+        source: "EIPP"
+
+      - id: "MET-RC-019"
+        title: "Social Proof Sentence Construction"
+        content: "Step 1: Describe the reference group specifically (similar others to the target audience). Step 2: Name the desired behavior explicitly (what they did). Step 3: Use exact numbers, not vague quantities ('1,247 customers' not 'many customers'). Template: '[Exact number] of [specific similar group] have [desired behavior].' Specificity multiplies persuasive impact."
+        domains: ["social-proof", "communication", "copywriting"]
+        source: "EIPP"
+
+      - id: "MET-RC-020"
+        title: "Contrast Presentation Method"
+        content: "Step 1: Show the highest-priced or most premium option first (establish high anchor). Step 2: Present the target option second (appears favorable by contrast). Step 3: Show the minimum option last (makes target appear balanced). Never save the best for last. Sequential order determines perceived value of everything that follows."
+        domains: ["contrast", "pricing", "sales"]
+        source: "EIPP"
+
+      - id: "MET-RC-021"
+        title: "Tax and Compliance Letter Optimization"
+        content: "Step 1: Identify the specific locale of the target audience. Step 2: Add social proof stating that the majority in their specific locale already comply. Step 3: Use progressively specific geography for maximum impact (country < region < city < neighborhood). Template: 'The majority of [specific locale] residents have already [desired compliance].' More local = more persuasive."
+        domains: ["social-proof", "compliance", "communication"]
+        source: "EIPP"
+
+      - id: "MET-RC-022"
+        title: "Principle Stacking Method"
+        content: "Step 1: Identify 2-3 aligned principles that naturally apply to the situation (no fabrication). Step 2: Sequence them correctly: relationship-building principle first (reciprocity, liking, or unity), then uncertainty-reducing principle (social proof or authority), then action-moving principle (consistency or scarcity). Step 3: Apply each through its strongest available activator. Maximum 3 principles — beyond triggers reactance."
+        domains: ["influence-mechanics", "persuasion-architecture"]
+        source: "EIPP"
+
+      - id: "MET-RC-023"
+        title: "Restaurant and Appointment No-Show Reduction"
+        content: "Step 1: Replace passive request ('Please call if you need to cancel') with active commitment question ('Will you please call if you need to cancel?'). Step 2: Pause deliberately after asking. Step 3: Wait for verbal 'yes.' Step 4: Record the commitment in visible notes if possible. Result: no-shows drop from 30% to 10%. Works for restaurants, medical appointments, and all bookings."
+        domains: ["consistency", "commitment"]
+        source: "EIPP"
+
+      - id: "MET-RC-024"
+        title: "Advice-Seeking Protocol"
+        content: "Step 1: Ensure the setting is private and 1-on-1 (not group — groups trigger critic mode). Step 2: Frame the request as seeking advice, not opinion ('What would you advise?' not 'What do you think?'). Step 3: Listen genuinely and take notes. Step 4: Implement visibly and report back. Advice-seeking creates a collaborative partner invested in the outcome; opinion-seeking creates a detached critic."
+        domains: ["unity", "relationship-building"]
+        source: "EIPP"
+
+      - id: "MET-RC-025"
+        title: "Bose Loss Frame Ad Method"
+        content: "Step 1: Identify the key benefit of the product or service. Step 2: Reframe the headline as what the prospect is currently MISSING ('Hear what you have been missing'). Step 3: Support with expert testimonials (authority principle stacked). Step 4: Include specific performance data. Result: Bose achieved 60% sales increase with loss-framed + authority-stacked campaign. Loss frame + authority = high-impact combination."
+        domains: ["loss-aversion", "authority", "advertising"]
+        source: "EIPP"

@@ -1,0 +1,53 @@
+Saw Pitch But Didn't Apply Process: This process is for what happens after someone sees offer for consult on a webinar or VSL, but doesn't apply.
+Saw
+Pitch But Didn't
+Apply
+Go Apply
+Sequence
+Yes 	Apply?
+Yes
+No 	Survey Sequence 	Take Survey? 	Yes 	Interested? 	Yes 	Qualified? 	Yes 	Apply At The
+End? No 	Tier One Phone
+Outreach
+Tier One SMS
+Go SCHEDULE
+Email Sequence
+Schedule?
+Yes
+Close?
+Yes
+Terminator
+No
+Schedule?
+Yes
+No
+Yes
+No
+Goodwill 1 With
+Re-Pitch Click
+Sequence
+Click?	See Pitch?	Yes	Apply?
+No
+Yes
+Yes
+Goodwill 2 With
+Re-Pitch Click
+Sequence
+Click?	Yes	See Pitch?
+Yes
+Go Finish
+Sequence No	See Pitch?
+Yes
+No
+Different
+Campaign No
+Follow Up	Close?
+Yes
+No
+No
+No
+No
+www.getwsodo.com
+
+-- 1 of 1 --
+
