@@ -1,5 +1,4 @@
 #!/usr/bin/env python3
-# -*- coding: utf-8 -*-
 """
 DOSSIER TRACER - Phase 2.2
 ============================

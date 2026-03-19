@@ -1,10 +1,8 @@
 #!/usr/bin/env python3
-# -*- coding: utf-8 -*-
 """
 Script para classificar e mover arquivos de _UNKNOWN para pastas corretas.
 """
 
-import os
 import re
 import shutil
 import sys
@@ -269,7 +267,7 @@ def main():
         return
 
     # Estatísticas
-    stats = {k: 0 for k in DESTINATIONS.keys()}
+    stats = {k: 0 for k in DESTINATIONS}
     stats["UNKNOWN"] = 0
     moved = []
     failed = []

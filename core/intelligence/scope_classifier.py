@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 """
 scope_classifier.py -- Unified Content-Aware Bucket Classifier
 ===============================================================

@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 """
 Read.ai Pessoal Gardener — organizes personal meeting transcripts into subfolders.
 

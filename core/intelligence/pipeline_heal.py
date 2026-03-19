@@ -1,5 +1,4 @@
 #!/usr/bin/env python3
-# -*- coding: utf-8 -*-
 """Pipeline Auto-Heal Detection Engine.
 
 Detects missed pipeline steps for any source_id and reports gaps

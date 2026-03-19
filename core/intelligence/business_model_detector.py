@@ -1,5 +1,4 @@
 #!/usr/bin/env python3
-# -*- coding: utf-8 -*-
 """
 BUSINESS MODEL DETECTOR - Intelligence Layer v1.0
 ===================================================
@@ -24,12 +23,12 @@ Data: 2026-02-26
 import json
 import re
 import sys
-from pathlib import Path
-from datetime import datetime, timezone
 from collections import defaultdict
+from datetime import UTC, datetime
+from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).parent))
-from entity_normalizer import load_registry, save_registry, normalize_text
+from entity_normalizer import load_registry, save_registry
 
 # ---------------------------------------------------------------------------
 # PATHS
@@ -49,7 +48,7 @@ DEPARTMENT_PATTERNS = [
 ]
 
 TEAM_SIZE_PATTERNS = [
-    r"(\d+)\s*[-–]?\s*(?:person|people|member|pessoa|funcionario|employee)\s+(?:team|equipe|company|empresa)",
+    r"(\d+)\s*[-\-]?\s*(?:person|people|member|pessoa|funcionario|employee)\s+(?:team|equipe|company|empresa)",
     r"(?:team|equipe)\s+(?:of|de|com)\s+(\d+)",
     r"(?:we\s+have|temos|there(?:'s| are))\s+(\d+)\s+(?:people|employees|team members|pessoas|funcionarios)",
     r"(\d+)\s+(?:full[- ]time|part[- ]time|contractors?|freelancers?)",
@@ -180,7 +179,7 @@ def detect_business_model(text, source_id=None):
 def detect_in_file(filepath, registry=None):
     """Detect business model patterns across all chunks in a file."""
     filepath = Path(filepath)
-    with open(filepath, "r", encoding="utf-8") as f:
+    with open(filepath, encoding="utf-8") as f:
         data = json.load(f)
 
     source_id = data.get("source_id", data.get("source_hash", filepath.stem))
@@ -330,7 +329,7 @@ def _update_registry_business_models(person_models, registry):
             "role_chain": role_chain,
             "role_consolidation": consolidations[:10],
             "sources_analyzed": len(model_data["sources"]),
-            "updated_at": datetime.now(timezone.utc).isoformat(),
+            "updated_at": datetime.now(UTC).isoformat(),
         }
 
 
@@ -453,7 +452,7 @@ def main():
         print(f"Persons with models:    {result['persons_with_models']}")
 
         if result["person_details"]:
-            print(f"\n--- Person Business Models ---")
+            print("\n--- Person Business Models ---")
             for person, details in result["person_details"].items():
                 print(f"  {person}:")
                 print(f"    Departments: {details['departments']}")

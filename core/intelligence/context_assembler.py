@@ -1,5 +1,4 @@
 #!/usr/bin/env python3
-# -*- coding: utf-8 -*-
 """
 CONTEXT ASSEMBLER - Smart Context Assembly (Phase 1.2)
 ======================================================

@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 """
 Read.ai Transcript Harvester — bulk downloads meeting transcripts from Read.ai API.
 
@@ -16,7 +15,6 @@ Architecture:
                                                     [GARDENER] reorganizes
 """
 
-import base64
 import json
 import re
 import sys
@@ -28,9 +26,9 @@ from datetime import datetime
 from pathlib import Path
 from typing import Any
 
-from core.intelligence.read_ai_config import ReadAIConfig, load_config
 from core.intelligence.pipeline.read_ai_gardener import PessoalGardener
 from core.intelligence.pipeline.read_ai_router import MeetingRouter
+from core.intelligence.read_ai_config import ReadAIConfig, load_config
 
 # ============================================================================
 # Constants

@@ -1,5 +1,4 @@
 #!/usr/bin/env python3
-# -*- coding: utf-8 -*-
 """
 SOP DETECTOR — Auto-detect process descriptions in meeting insights.
 ====================================================================

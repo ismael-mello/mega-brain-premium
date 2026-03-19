@@ -1,5 +1,4 @@
 #!/usr/bin/env python3
-# -*- coding: utf-8 -*-
 """
 INBOX ORGANIZER — Auto-organize files dropped into bucket inboxes
 =================================================================
@@ -111,7 +110,6 @@ ENTITY_ALIASES: dict[str, str] = {
     "chat lendario": "bilhon",
     "alan nicolas": "alan-nicolas",
     "alannicolas": "alan-nicolas",
-    "pedro valerio": "pedro-valerio",
     "diego monteiro": "diego-monteiro",
     "diegomonteiro": "diego-monteiro",
     "diego monet": "diego-monet",

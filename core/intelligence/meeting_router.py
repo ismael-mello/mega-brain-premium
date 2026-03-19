@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 """
 Generalized Meeting Router -- classifies meetings into empresa/pessoal buckets.
 

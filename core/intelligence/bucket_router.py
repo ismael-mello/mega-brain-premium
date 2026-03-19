@@ -1,5 +1,4 @@
 #!/usr/bin/env python3
-# -*- coding: utf-8 -*-
 """
 BUCKET ROUTER — Cross-Bucket Access Control
 =============================================

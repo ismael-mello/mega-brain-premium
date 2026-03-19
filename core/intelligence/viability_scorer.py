@@ -25,12 +25,13 @@ Data: 2026-02-26
 
 import json
 import sys
-import yaml
+from datetime import UTC, datetime
 from pathlib import Path
-from datetime import datetime, timezone
+
+import yaml
 
 sys.path.insert(0, str(Path(__file__).parent))
-from entity_normalizer import load_registry, save_registry, load_taxonomy
+from entity_normalizer import load_registry, load_taxonomy, save_registry
 
 # ---------------------------------------------------------------------------
 # PATHS
@@ -46,7 +47,7 @@ VIABILITY_LOG_PATH = BASE_DIR / "logs" / "viability_scoring.jsonl"
 def load_quality_config():
     """Load quality gates config including viability scoring rules."""
     if QUALITY_GATES_PATH.exists():
-        with open(QUALITY_GATES_PATH, "r", encoding="utf-8") as f:
+        with open(QUALITY_GATES_PATH, encoding="utf-8") as f:
             return yaml.safe_load(f)
     return {}
 
@@ -263,8 +264,6 @@ def _score_persona_clarity(person_name, person_data):
 
 def _score_evolution(person_name, person_data):
     """E - Temporal coverage and evolution."""
-    created_at = person_data.get("created_at", "")
-    last_seen = person_data.get("last_seen", "")
     sources = person_data.get("sources", [])
 
     # Heuristic: more sources over longer time = more evolution
@@ -358,7 +357,7 @@ def _score_strategic_fit(person_name, person_data, taxonomy):
         evidence = f"{domain_overlap} core domain (partial fit)"
     else:
         score = 3
-        evidence = f"No core domain overlap (tangential)"
+        evidence = "No core domain overlap (tangential)"
 
     return {
         "score": score,
@@ -439,7 +438,6 @@ def check_quality_gates(entity_type, entity_data, phase, registry=None):
 def _evaluate_gate(gate, entity_data, registry):
     """Evaluate a single quality gate."""
     phase = gate.get("phase", "")
-    criteria = gate.get("criteria", [])
 
     if phase == "entity_detection":
         ws = entity_data.get("weighted_score", 0)
@@ -530,7 +528,7 @@ def _evaluate_veto(veto, entity_data):
 def _log_scores(results):
     """Log viability scores to JSONL."""
     VIABILITY_LOG_PATH.parent.mkdir(parents=True, exist_ok=True)
-    now = datetime.now(timezone.utc).isoformat()
+    now = datetime.now(UTC).isoformat()
     for result in results:
         log_entry = {
             "timestamp": now,

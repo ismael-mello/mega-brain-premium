@@ -1,5 +1,4 @@
 #!/usr/bin/env python3
-# -*- coding: utf-8 -*-
 """
 AGENT GENERATOR - Intelligence Layer v2.0
 ==========================================

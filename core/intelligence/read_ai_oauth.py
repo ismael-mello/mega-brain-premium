@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 """
 Read.ai OAuth 2.1 Helper — handles authorization flow and token management.
 
@@ -23,12 +22,11 @@ import json
 import os
 import secrets
 import sys
-import threading
 import urllib.error
 import urllib.parse
 import urllib.request
 import webbrowser
-from datetime import datetime, timezone
+from datetime import UTC, datetime
 from pathlib import Path
 
 from core.intelligence.pipeline.read_ai_config import load_config
@@ -64,7 +62,7 @@ def _generate_pkce() -> tuple[str, str]:
 def _save_tokens(tokens: dict) -> None:
     """Save tokens to secure location."""
     TOKENS_PATH.parent.mkdir(parents=True, exist_ok=True)
-    tokens["saved_at"] = datetime.now(timezone.utc).isoformat() + "Z"
+    tokens["saved_at"] = datetime.now(UTC).isoformat() + "Z"
     with open(TOKENS_PATH, "w") as f:
         json.dump(tokens, f, indent=2)
 
@@ -150,7 +148,7 @@ def cmd_authorize() -> None:
     print("=" * 60)
     print()
     print("Opening browser for authorization...")
-    print("(Waiting for callback on localhost:{})".format(CALLBACK_PORT))
+    print(f"(Waiting for callback on localhost:{CALLBACK_PORT})")
     print()
 
     server = http.server.HTTPServer(("127.0.0.1", CALLBACK_PORT), CallbackHandler)

@@ -204,7 +204,8 @@ class TestCallSS:
             mod.call_ss(["skill-seekers-pdf", "test.pdf"])
 
         env = captured_kwargs["env"]
-        assert str(venv / "bin") in env["PATH"]
+        # Source code uses forward-slash path (f"{venv}/bin")
+        assert f"{venv}/bin" in env["PATH"]
         assert env["VIRTUAL_ENV"] == str(venv)
         assert "PYTHONHOME" not in env
 

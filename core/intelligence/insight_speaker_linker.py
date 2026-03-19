@@ -1,5 +1,4 @@
 #!/usr/bin/env python3
-# -*- coding: utf-8 -*-
 """
 INSIGHT SPEAKER LINKER — Link insights to speakers and timestamps.
 ==================================================================
