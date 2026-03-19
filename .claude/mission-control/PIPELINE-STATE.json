@@ -3,7 +3,7 @@
   "current_phase": "ingest",
   "phases": {
     "ingest": {
-      "status": "complete",
+      "status": "in_progress",
       "files": [
         "C:\\Users\\ISMAEL_MELLO\\Downloads\\mega-brain-premium\\.claude\\settings.local.json",
         "C:\\Users\\ISMAEL_MELLO\\Downloads\\mega-brain-premium\\.env",
@@ -676,9 +676,19 @@
         "C:/Users/ISMAEL_MELLO/Downloads/mega-brain-premium/knowledge/external/dossiers/persons/DOSSIER-ROBERT-CIALDINI.md",
         "C:/Users/ISMAEL_MELLO/Downloads/mega-brain-premium/agents/external/robert-cialdini/SOUL.md",
         "C:/Users/ISMAEL_MELLO/Downloads/mega-brain-premium/knowledge/external/dna/persons/robert-cialdini/DNA.yaml",
-        "C:/Users/ISMAEL_MELLO/Downloads/mega-brain-premium/agents/external/robert-cialdini/AGENT.md"
+        "C:/Users/ISMAEL_MELLO/Downloads/mega-brain-premium/agents/external/robert-cialdini/AGENT.md",
+        "C:\\Users\\ISMAEL_MELLO\\.claude\\projects\\C--Users-ISMAEL-MELLO-Downloads-mega-brain-premium\\memory\\feedback_always_push.md",
+        "C:/Users/ISMAEL_MELLO/Downloads/mega-brain-premium/core/intelligence/agent_trigger.py",
+        "C:/Users/ISMAEL_MELLO/Downloads/mega-brain-premium/core/intelligence/autonomous_processor.py",
+        "C:/Users/ISMAEL_MELLO/Downloads/mega-brain-premium/core/intelligence/business_model_detector.py",
+        "C:/Users/ISMAEL_MELLO/Downloads/mega-brain-premium/core/intelligence/de_para_completo.py",
+        "C:/Users/ISMAEL_MELLO/Downloads/mega-brain-premium/core/intelligence/dossier_trigger.py",
+        "C:/Users/ISMAEL_MELLO/Downloads/mega-brain-premium/core/intelligence/inbox_organizer.py",
+        "C:/Users/ISMAEL_MELLO/Downloads/mega-brain-premium/core/intelligence/skill_generator.py",
+        "C:/Users/ISMAEL_MELLO/Downloads/mega-brain-premium/core/intelligence/viability_scorer.py",
+        "C:\\Users\\ISMAEL_MELLO\\Downloads\\mega-brain-premium\\tests\\python\\test_pipeline\\test_ss_bridge.py"
       ],
-      "timestamp": "2026-03-19T07:55:03.263477",
+      "timestamp": "2026-03-19T08:17:40.891471",
       "checkpoint_id": "CP_INGEST"
     },
     "chunk": {
@@ -696,9 +706,9 @@
   },
   "last_checkpoint": {
     "phase": "ingest",
-    "status": "complete",
-    "timestamp": "2026-03-19T07:55:03.263477",
-    "file_count": 672
+    "status": "in_progress",
+    "timestamp": "2026-03-19T08:17:40.891471",
+    "file_count": 682
   },
   "history": [
     {
@@ -5290,6 +5300,66 @@
       "status": "complete",
       "timestamp": "2026-03-19T07:55:03.263477",
       "files_count": 0
+    },
+    {
+      "phase": "ingest",
+      "status": "in_progress",
+      "timestamp": "2026-03-19T08:05:35.871128",
+      "files_count": 1
+    },
+    {
+      "phase": "ingest",
+      "status": "in_progress",
+      "timestamp": "2026-03-19T08:12:12.960905",
+      "files_count": 1
+    },
+    {
+      "phase": "ingest",
+      "status": "in_progress",
+      "timestamp": "2026-03-19T08:12:14.251071",
+      "files_count": 1
+    },
+    {
+      "phase": "ingest",
+      "status": "in_progress",
+      "timestamp": "2026-03-19T08:12:20.531475",
+      "files_count": 1
+    },
+    {
+      "phase": "ingest",
+      "status": "in_progress",
+      "timestamp": "2026-03-19T08:12:21.318028",
+      "files_count": 1
+    },
+    {
+      "phase": "ingest",
+      "status": "in_progress",
+      "timestamp": "2026-03-19T08:12:23.742818",
+      "files_count": 1
+    },
+    {
+      "phase": "ingest",
+      "status": "in_progress",
+      "timestamp": "2026-03-19T08:12:25.019108",
+      "files_count": 1
+    },
+    {
+      "phase": "ingest",
+      "status": "in_progress",
+      "timestamp": "2026-03-19T08:12:26.482134",
+      "files_count": 1
+    },
+    {
+      "phase": "ingest",
+      "status": "in_progress",
+      "timestamp": "2026-03-19T08:12:27.892479",
+      "files_count": 1
+    },
+    {
+      "phase": "ingest",
+      "status": "in_progress",
+      "timestamp": "2026-03-19T08:17:40.891471",
+      "files_count": 1
     }
   ],
   "retry_enabled": true
