@@ -2016,8 +2016,24 @@ def main(batch_path: str = None):
         # Processar batch
         result = process_batch(batch_path)
 
+        # --- TEAM CREATION TRIGGER (auto-create teams after cascading) ---
+        team_feedback = None
+        try:
+            team_trigger_path = BASE_DIR / "core" / "intelligence" / "roles" / "team_creation_trigger.py"
+            if team_trigger_path.exists():
+                import importlib.util
+                spec = importlib.util.spec_from_file_location("team_creation_trigger", team_trigger_path)
+                team_mod = importlib.util.module_from_spec(spec)
+                spec.loader.exec_module(team_mod)
+                team_result = team_mod.check_and_create_teams(dry_run=False)
+                created = team_result.get("agents_created", [])
+                if created:
+                    team_feedback = f"[JARVIS] TEAM TRIGGER: {len(created)} novos agentes criados: {', '.join(created)}"
+        except Exception as te:
+            team_feedback = f"[JARVIS] TEAM TRIGGER: erro - {te!s}"
+
         # Preparar output do hook
-        feedback = None
+        feedback_parts = []
         if result["success"]:
             total_cascaded = (
                 len(result["agents"])
@@ -2026,10 +2042,15 @@ def main(batch_path: str = None):
                 + len(result["dossiers"])
             )
             if total_cascaded > 0:
-                feedback = f"[JARVIS] REGRA #22: Cascateamento executado - {total_cascaded} destinos processados"
+                feedback_parts.append(f"[JARVIS] REGRA #22: Cascateamento executado - {total_cascaded} destinos processados")
         else:
             if result["errors"]:
-                feedback = f"[JARVIS] REGRA #22: Erro no cascateamento - {result['errors'][0]}"
+                feedback_parts.append(f"[JARVIS] REGRA #22: Erro no cascateamento - {result['errors'][0]}")
+
+        if team_feedback:
+            feedback_parts.append(team_feedback)
+
+        feedback = " | ".join(feedback_parts) if feedback_parts else None
 
         output = {"continue": True, "feedback": feedback, "result": result}
 

@@ -251,6 +251,42 @@ HEALTH SCORE RANGES:
 └──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┘
 
 ┌──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┐
+│  § TEAM CREATION STATUS                                                                                              │
+├──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┤
+│                                                                                                                      │
+│  Para gerar esta secao, executar o team_creation_trigger.py em modo dry-run:                                         │
+│                                                                                                                      │
+│  python3 core/intelligence/roles/team_creation_trigger.py --dry-run                                                  │
+│                                                                                                                      │
+│  OU ler diretamente .claude/mission-control/TEAM-CREATION-STATE.json                                                 │
+│  E escanear AGG files em knowledge/external/dna/aggregated/AGG-*.yaml                                                │
+│                                                                                                                      │
+│  EXIBIR:                                                                                                             │
+│                                                                                                                      │
+│  ┌─ EQUIPES PRONTAS (threshold atingido: 50+ elementos, 2+ fontes) ────────────────────────────────────────────┐    │
+│  │                                                                                                              │    │
+│  │   DOMINIO              │ ELEMENTOS │ FONTES │ EQUIPE                  │ STATUS                              │    │
+│  │   ─────────────────────────────────────────────────────────────────────────────────────────────              │    │
+│  │   [domain]             │ [N]       │ [N]    │ [team_name]             │ [READY / CREATED / SCAFFOLD]        │    │
+│  │                                                                                                              │    │
+│  │   Para cada equipe READY (nao criada), listar roles que seriam criados.                                      │    │
+│  │   Para cada equipe CREATED, listar roles existentes.                                                         │    │
+│  │                                                                                                              │    │
+│  └──────────────────────────────────────────────────────────────────────────────────────────────────────────────┘    │
+│                                                                                                                      │
+│  ┌─ DOMINIOS ABAIXO DO THRESHOLD ──────────────────────────────────────────────────────────────────────────────┐    │
+│  │                                                                                                              │    │
+│  │   [domain]: [N] elementos, [N] fontes -- faltam [X] elementos / [Y] fontes                                   │    │
+│  │                                                                                                              │    │
+│  └──────────────────────────────────────────────────────────────────────────────────────────────────────────────┘    │
+│                                                                                                                      │
+│  NOTA: Se houver equipes com status READY (prontas para criar mas nao criadas),                                      │
+│        sinalizar como ALERTA: "N equipes prontas para criacao automatica.                                            │
+│        Execute: python3 core/intelligence/roles/team_creation_trigger.py"                                            │
+│                                                                                                                      │
+└──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┘
+
+┌──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┐
 │  § KNOWLEDGE OPS SQUAD                                                                                               │
 ├──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┤
 │                                                                                                                      │

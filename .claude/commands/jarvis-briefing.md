@@ -24,8 +24,24 @@ Ler os seguintes arquivos:
 .claude/jarvis/JARVIS-MEMORY.md   # Memória relacional
 .claude/jarvis/CURRENT-TASK.md    # Tarefa atual
 .claude/mission-control/MISSION-STATE.json  # Estado da missão
+.claude/mission-control/TEAM-CREATION-STATE.json  # Equipes auto-criadas
 processing/insights/INSIGHTS-STATE.json  # Insights acumulados
 ```
+
+### 1b. Team Creation Check (dry-run scan)
+
+Executar o team creation trigger em modo dry-run para detectar equipes prontas:
+
+```bash
+python3 core/intelligence/roles/team_creation_trigger.py --dry-run
+```
+
+Incluir no briefing a seção TEAM CREATION STATUS com:
+- Equipes já criadas (do TEAM-CREATION-STATE.json)
+- Equipes prontas para criar (dry-run detectou threshold atingido)
+- Domínios abaixo do threshold (quanto falta)
+
+Se houver equipes prontas para criar, sinalizar como ALERTA.
 
 ### 2. Calcular Health Score (0-100)
 
