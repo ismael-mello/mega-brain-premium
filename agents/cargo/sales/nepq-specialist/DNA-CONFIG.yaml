@@ -1,17 +1,18 @@
 # DNA-CONFIG.yaml - NEPQ-SPECIALIST
 # Configuracao de fontes de DNA para este cargo
 #
-# Versao: 1.0.0
-# Data: 2026-01-09
+# v1.1.0 (2026-03-21): Added AGG references (vendas, outbound) — SOLO design preserved
+# Versao: 1.1.0
+# Data: 2026-03-21
 # Template: DNA-CONFIG-V2 (100% rastreabilidade)
 # Missao: MISSION-2026-001 Phase 5.3
 
 cargo: "NEPQ-SPECIALIST"
-versao: "1.0.0"
+versao: "1.1.0"
 nivel: "SALES"
 natureza: "ISOLADO"
 data_criacao: "2026-01-09"
-ultima_atualizacao: "2026-01-09"
+ultima_atualizacao: "2026-03-21"
 
 # ═══════════════════════════════════════════════════════════════════════════════
 # CONSTITUICAO (Layer 1 - Principios compartilhados)
@@ -38,6 +39,25 @@ soul:
   path: "./SOUL.md"
   versao: "1.0.0"
   descricao: "Identidade e consciencia viva do agente"
+
+# ═══════════════════════════════════════════════════════════════════════════════
+# DNA AGREGADO (referência cruzada — não altera fonte primária)
+# ═══════════════════════════════════════════════════════════════════════════════
+
+dna_agregado:
+  - dominio: "vendas"
+    path: "/knowledge/external/dna/AGGREGATED/AGG-VENDAS.yaml"
+    peso: 0.40
+    quando_usar: "Contexto geral de vendas para complementar NEPQ"
+    justificativa: "Referência cruzada — fonte primária permanece 100% Jeremy Miner"
+    added: "2026-03-21"
+
+  - dominio: "outbound"
+    path: "/knowledge/external/dna/AGGREGATED/AGG-OUTBOUND.yaml"
+    peso: 0.35
+    quando_usar: "Estratégias de prospecção outbound onde NEPQ se aplica"
+    justificativa: "NEPQ é usado em contextos outbound — AGG complementa"
+    added: "2026-03-21"
 
 # ═══════════════════════════════════════════════════════════════════════════════
 # COMPOSICAO DO DNA - 100% JEREMY MINER

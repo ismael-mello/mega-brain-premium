@@ -19,11 +19,11 @@
 # ═══════════════════════════════════════════════════════════════════════════════
 
 cargo: "ALEX-HORMOZI"
-versao: "3.0.0"
+versao: "6.0.0"
 nivel: "PERSON"
 natureza: "SOLO"
 data_criacao: "2026-03-02"
-ultima_atualizacao: "2026-03-11"
+ultima_atualizacao: "2026-03-19"
 
 # ═══════════════════════════════════════════════════════════════════════════════
 # CONSTITUICAO (Layer 1 - Principios compartilhados)
@@ -150,6 +150,32 @@ dna_sources:
           chunks_usados: 37
           elements: 185
           weight: 0.90
+
+        - titulo: "Gym Launch (Complete Program — 5 Modules, 1390 files)"
+          source_id: "AH-GL"
+          tipo: "complete-training-system"
+          chunks_usados: 1121
+          elements: 565
+          weight: 0.95
+          raiz: "/knowledge/external/sources/alex-hormozi/raw/gym-launch/"
+          dominios_novos:
+            - "diagnostic-sale"
+            - "closer-framework"
+            - "lead-gen-scrambler"
+            - "gym-launch-operations"
+            - "owner-training"
+            - "emotional-intelligence"
+            - "hiring-firing-onboarding"
+            - "communication-cycles"
+            - "retention-systems"
+            - "staffing-models"
+            - "challenge-playbook"
+            - "supplement-sales"
+            - "fulfillment-systems"
+            - "lead-nurture-cadence"
+            - "business-intelligence-metrics"
+            - "partnerships-relationships"
+            - "weaponized-community"
   # ───────────────────────────────────────────────────────────────────────────
   # FONTE SECUNDARIA (enrichment via AIOS)
   # ───────────────────────────────────────────────────────────────────────────

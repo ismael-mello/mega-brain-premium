@@ -7,17 +7,18 @@
 # Missao: MISSION-2026-001 Phase 5.3
 #
 # CHANGELOG:
+# v3.0.0 (2026-03-21): Premium enrichment — Added 8 expert sources (frank-kern, dan-kennedy, gary-halbert, david-deutsch, ry-schwartz, clayton-makepeace, john-carlton, todd-brown)
 # v2.0.0 (2026-01-10): BUG #1 FIX - Cascateamento completo
 #                      - Adicionado dna_agregado com AGG-VENDAS.yaml
 #                      - Todos paths validados (INTEGRITY CHECK)
 # v1.0.0 (2026-01-09): Criacao inicial do agente
 
 cargo: "PAID-MEDIA-SPECIALIST"
-versao: "2.1.0"
+versao: "3.0.0"
 nivel: "MARKETING"
 natureza: "HIBRIDO"
 data_criacao: "2026-01-09"
-ultima_atualizacao: "2026-01-10"
+ultima_atualizacao: "2026-03-21"
 
 # ═══════════════════════════════════════════════════════════════════════════════
 # DNA AGREGADO (multi-fonte)
@@ -157,6 +158,95 @@ dna_primario:
       - "Lead Gen at Scale"
     path: "/knowledge/external/dna/persons/alex-hormozi"
     justificativa: "Complementa com perspectiva de escala e unit economics"
+
+  - pessoa: "frank-kern"
+    peso: 0.85
+    dominios_absorvidos:
+      - "Paid Traffic Scaling"
+      - "YouTube Ads"
+      - "Facebook Ads"
+      - "Rainmaker Methodology"
+      - "Results in Advance"
+    path: "/knowledge/external/dna/persons/frank-kern"
+    justificativa: "Master em paid traffic scaling e Results in Advance — 269 elementos DNA"
+    added: "2026-03-21"
+
+  - pessoa: "dan-kennedy"
+    peso: 0.70
+    dominios_absorvidos:
+      - "Direct Response Advertising"
+      - "Ad Copy Psychology"
+      - "Lead Generation Funnels"
+      - "Media Buying Philosophy"
+    path: "/knowledge/external/dna/persons/dan-kennedy"
+    justificativa: "3070 elementos DNA — fundamentos de direct response advertising e psicologia de ads"
+    added: "2026-03-21"
+
+  - pessoa: "gary-halbert"
+    peso: 0.75
+    dominios_absorvidos:
+      - "Direct Response Copy"
+      - "Headlines"
+      - "Ad Testing"
+      - "Market Selection"
+    path: "/knowledge/external/dna/persons/gary-halbert"
+    justificativa: "297 elementos DNA — headlines e copy para ads de resposta direta"
+    added: "2026-03-21"
+
+  - pessoa: "david-deutsch"
+    peso: 0.70
+    dominios_absorvidos:
+      - "Creative Ad Copy"
+      - "Fascinations"
+      - "Headlines"
+      - "Buying Psychology"
+    path: "/knowledge/external/dna/persons/david-deutsch"
+    justificativa: "218 elementos DNA — BULLETS framework e criatividade para copy de ads"
+    added: "2026-03-21"
+
+  - pessoa: "ry-schwartz"
+    peso: 0.65
+    dominios_absorvidos:
+      - "Conversion Copywriting"
+      - "Sales Pages"
+      - "Email Sequences"
+      - "Launch Copy"
+    path: "/knowledge/external/dna/persons/ry-schwartz"
+    justificativa: "405 elementos DNA — CTC conversion copy para landing pages de ads"
+    added: "2026-03-21"
+
+  - pessoa: "clayton-makepeace"
+    peso: 0.65
+    dominios_absorvidos:
+      - "Headlines"
+      - "Bullets"
+      - "Direct Response"
+      - "Sales Copy"
+    path: "/knowledge/external/dna/persons/clayton-makepeace"
+    justificativa: "633 elementos DNA — headlines e bullets para ads de alto impacto"
+    added: "2026-03-21"
+
+  - pessoa: "john-carlton"
+    peso: 0.60
+    dominios_absorvidos:
+      - "Ad Copy"
+      - "Hooks"
+      - "Conversion Copy"
+      - "Simple Writing System"
+    path: "/knowledge/external/dna/persons/john-carlton"
+    justificativa: "261 elementos DNA — hooks e copy de conversão para ads"
+    added: "2026-03-21"
+
+  - pessoa: "todd-brown"
+    peso: 0.60
+    dominios_absorvidos:
+      - "Offer Positioning"
+      - "E5 Method"
+      - "Unique Mechanism"
+      - "Ad Angles"
+    path: "/knowledge/external/dna/persons/todd-brown"
+    justificativa: "590 elementos DNA — posicionamento de oferta e unique mechanism para ads"
+    added: "2026-03-21"
 
 # ═══════════════════════════════════════════════════════════════════════════════
 # LAYERS DNA COM ESTATISTICAS

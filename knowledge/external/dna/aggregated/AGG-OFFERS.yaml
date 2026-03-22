@@ -28,7 +28,7 @@
 # ═══════════════════════════════════════════════════════════════════════════════
 
 dominio: "offers"
-versao: "11.0.0"  # Robert Cialdini EIPP added
+versao: "12.0.0"  # Gym Launch GL added (AH challenge playbook + pricing)
 criado_em: "2026-01-10T19:30:00Z"
 atualizado_em: "2026-03-19"
 
@@ -40,8 +40,9 @@ fontes_consolidadas:
   - fonte: "alex-hormozi"
     peso_dominio: 0.95  # O MESTRE das ofertas
     path: "/knowledge/external/dna/persons/alex-hormozi/"
-    contribuicao_principal: "Grand Slam Offer, $100M Offers framework"
-    elementos_relevantes: 95
+    contribuicao_principal: "Grand Slam Offer, $100M Offers, Challenge Playbook (6-week/42-day/28-day/12-week HTP), Value Ladder, Pricing Psychology, Supplement Sales"
+    elementos_relevantes: 180
+    sources: ["legacy", "AH-ACQ18K", "AH-GL (Gym Launch — challenge architecture, pricing tiers, no-sale-sale)"]
 
   - fonte: "jeremy-haynes"
     peso_dominio: 0.85  # Fair Pricing & Recurring

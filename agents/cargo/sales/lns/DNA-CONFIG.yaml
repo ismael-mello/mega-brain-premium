@@ -1,18 +1,19 @@
 # DNA-CONFIG.yaml - LNS (Lead Nurture Specialist)
 # Configuracao de fontes de DNA para este cargo
 #
-# Versao: 3.0.0
-# Data: 2026-01-10
+# Versao: 4.0.0
+# Data: 2026-03-21
 # Template: DNA-CONFIG-V2 (100% rastreabilidade)
 #
 # CHANGELOG:
+# v4.0.0 (2026-03-21): Premium enrichment — Added andre-chaperon (email mastery), ry-schwartz (conversion email)
 # v3.0.0 (2026-01-10): BUG #1 FIX - Cascateamento completo
 #                      - Adicionado seção dna_agregado com AGG-VENDAS.yaml
 #                      - Todos paths validados (INTEGRITY CHECK)
 # v2.0.0 (2025-12-26): Integração AGENT-COGNITION-PROTOCOL
 
 cargo: "LNS"
-versao: "3.1.0"
+versao: "4.0.0"
 nivel: "SALES"
 
 # ═══════════════════════════════════════════════════════════════════
@@ -97,6 +98,31 @@ dna_primario:
       - "Calibracao Brasil"
       - "WhatsApp Strategy"
     justificativa: "Fonte de adaptacao cultural BR e reativacao"
+
+  - pessoa: "andre-chaperon"
+    peso: 0.80
+    dominios_absorvidos:
+      - "Email Sequences"
+      - "SOAP Opera Nurturing"
+      - "Sphere of Influence"
+      - "Chain of Beliefs"
+      - "Thematic Arc Email"
+    path: "/knowledge/external/dna/persons/andre-chaperon"
+    justificativa: "380 elementos DNA — master em email nurturing e SOAP opera sequences"
+    added_by: "premium-enrichment v3.0"
+    added_date: "2026-03-21"
+
+  - pessoa: "ry-schwartz"
+    peso: 0.70
+    dominios_absorvidos:
+      - "Conversion Email Copy"
+      - "Enrollment Sequences"
+      - "Automated Intimacy"
+      - "Gap Method"
+    path: "/knowledge/external/dna/persons/ry-schwartz"
+    justificativa: "405 elementos DNA — CTC email copy e automated intimacy para nurturing"
+    added_by: "premium-enrichment v3.0"
+    added_date: "2026-03-21"
 
   - pessoa: "russell-brunson"
     peso: 0.75

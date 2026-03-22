@@ -13,11 +13,11 @@
 # ═══════════════════════════════════════════════════════════════════════════════
 
 dominio: "executive-leadership"
-versao: "1.0.0"
+versao: "2.0.0"  # Gym Launch Owner Training + Leila Hormozi added
 data_criacao: "2026-03-11"
-ultima_atualizacao: "2026-03-11"
-total_elementos: 173
-peso_global: 0.70
+ultima_atualizacao: "2026-03-19"
+total_elementos: 443
+peso_global: 0.80
 
 fontes_consolidadas:
   - fonte: "aios-clevel-squad"
@@ -28,6 +28,15 @@ fontes_consolidadas:
     especialidade: "C-Level executives - CEO, COO, CMO, CTO, CIO, CAIO"
     tipo_fonte: "SECONDARY (curated by Synkra AIOS)"
     agentes_internos: 6
+
+  - fonte: "alex-hormozi"
+    path: "/knowledge/external/dna/persons/alex-hormozi"
+    peso_dominio: 0.90
+    elementos_contribuidos: 270
+    especialidade: "Owner Training, Emotional Intelligence, Hiring/Firing, Communication Cycles, Delegation, Staffing Models, Scaling, Culture, Partnerships, Retention Systems"
+    tipo_fonte: "PRIMARY (Gym Launch Owner Training + Presentations)"
+    speakers: ["Alex Hormozi", "Leila Hormozi", "Alex Charfen", "Mimi (COO)"]
+    source_id: "AH-GL"
 
 # ═══════════════════════════════════════════════════════════════════════════════
 # C-LEVEL EXPERTS (6 roles)

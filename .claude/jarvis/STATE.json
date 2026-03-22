@@ -431,10 +431,11 @@
   },
   "git": {
     "branch": "main",
-    "last_commit": "b30960b",
-    "last_commit_msg": "chore: session state sync + logs update",
+    "last_commit": "16bfb39e",
+    "last_commit_msg": "fix: resolve 10 invalid YAML files for quality gate",
     "commits_ahead": 0,
-    "pending_commit": null
+    "pending_commit": null,
+    "gh_cli": "2.88.1"
   },
   "upstream_sync": {
     "status": "RESOLVED",
@@ -465,8 +466,8 @@
   },
   "mis": {
     "session_id": "",
-    "prompt_count": 37,
-    "bracket": "FRESH",
-    "context_percent": 72.2
+    "prompt_count": 70,
+    "bracket": "MODERATE",
+    "context_percent": 47.5
   }
 }

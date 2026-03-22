@@ -17,13 +17,14 @@
 # ═══════════════════════════════════════════════════════════════════════════════
 
 cargo: "BDR"
-versao: "3.1.0"
+versao: "4.0.0"
 nivel: "SALES"
 natureza: "HIBRIDO"
 data_criacao: "2025-12-23"
-ultima_atualizacao: "2026-03-12"
+ultima_atualizacao: "2026-03-21"
 
 # CHANGELOG:
+# v4.0.0 (2026-03-21): Premium enrichment — Added chris-voss, robert-cialdini, jeremy-miner, russell-brunson
 # v3.0.0 (2026-01-10): BUG #1/#3 FIX - Cascateamento completo
 #                      - Verificado AGG-OUTBOUND.yaml (existe)
 #                      - Verificado AGG-VENDAS.yaml (existe)
@@ -78,6 +79,10 @@ dna_sources:
     - dominio: "vendas"
       path: "/knowledge/external/dna/AGGREGATED/AGG-VENDAS.yaml"
       peso: 0.80
+      quando_usar: "Qualificação inicial e handoff"
+      insight_ids:
+        - "VEND001"
+        - "QUAL001"
 
     # ─── AIOS Domain DNAs (added 2026-03-12) ───
     - dominio: "copywriting"
@@ -87,10 +92,13 @@ dna_sources:
       justificativa: "BDR escreve mensagens de prospecção — copy melhora taxa de resposta"
       added: "2026-03-12"
       source: "AIOS Copy Squad"
-      quando_usar: "Qualificação inicial e handoff"
-      insight_ids:
-        - "VEND001"
-        - "QUAL001"
+
+    - dominio: "outbound"
+      path: "/knowledge/external/dna/AGGREGATED/AGG-OUTBOUND.yaml"
+      peso: 0.90
+      quando_usar: "Outbound strategies, cadências, cold approach"
+      justificativa: "Core domain — já existia, reforçando referência"
+      added: "2026-03-21"
 
   # ───────────────────────────────────────────────────────────────────────────
   # FONTES PRIMÁRIAS (por pessoa)
@@ -215,6 +223,57 @@ dna_sources:
             - "CX = diferencial competitivo (89% brasileiros consideram tão importante quanto produto)"
             - "Terminologia BR: LDR, Closer, Executivo de Vendas (não SDS, BC, AE)"
             - "Jornada Ampulheta: Awareness → Consideration → Purchase → Onboarding → Usage → Advocacy"
+
+    - pessoa: "chris-voss"
+      path: "/knowledge/external/dna/persons/chris-voss"
+      raiz: "/knowledge/external/sources/chris-voss/raw/"
+      dominios_usados:
+        - "tactical-empathy"
+        - "mirroring"
+        - "labeling"
+        - "cold-call-rapport"
+      peso: 0.70
+      quando_usar: "Tactical empathy para cold calls, mirroring para rapport rápido, labeling para qualificação"
+      added_by: "premium-enrichment v3.0"
+      added_date: "2026-03-21"
+
+    - pessoa: "robert-cialdini"
+      path: "/knowledge/external/dna/persons/robert-cialdini"
+      raiz: "/knowledge/external/sources/robert-cialdini/raw/"
+      dominios_usados:
+        - "social-proof"
+        - "authority"
+        - "reciprocity"
+        - "credibility-building"
+      peso: 0.65
+      quando_usar: "Social proof para credibilidade em cold outreach, authority positioning, reciprocity em follow-up"
+      added_by: "premium-enrichment v3.0"
+      added_date: "2026-03-21"
+
+    - pessoa: "jeremy-miner"
+      path: "/knowledge/external/dna/persons/jeremy-miner"
+      raiz: "/knowledge/external/sources/jeremy-miner/raw/"
+      dominios_usados:
+        - "nepq-discovery"
+        - "tonality"
+        - "objection-prevention"
+        - "rapport-questions"
+      peso: 0.75
+      quando_usar: "NEPQ discovery questions para qualificação, tonalidade em cold calls, prevenção de objeções"
+      added_by: "premium-enrichment v3.0"
+      added_date: "2026-03-21"
+
+    - pessoa: "russell-brunson"
+      path: "/knowledge/external/dna/persons/russell-brunson"
+      raiz: "/knowledge/external/sources/russell-brunson/raw/"
+      dominios_usados:
+        - "hook-story-offer"
+        - "dream-100-outbound"
+        - "value-first-approach"
+      peso: 0.55
+      quando_usar: "Hook-Story-Offer para mensagens de outreach, Dream 100 para targeting, value-first em cold approach"
+      added_by: "premium-enrichment v3.0"
+      added_date: "2026-03-21"
 
 # ═══════════════════════════════════════════════════════════════════════════════
 # MAPA DE CONFLITOS
@@ -398,5 +457,5 @@ frameworks:
 #
 # ═══════════════════════════════════════════════════════════════════════════════
 
-# Fim do DNA-CONFIG.yaml v2.0.0
+# Fim do DNA-CONFIG.yaml v4.0.0
 # Integrado com AGENT-COGNITION-PROTOCOL (FASE 1.5) e AGENT-INTEGRITY-PROTOCOL

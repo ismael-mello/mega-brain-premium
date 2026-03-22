@@ -24,8 +24,16 @@ v2.1.0: Integra REGRA #26 - Valida integridade antes de marcar completo.
         So marca batch como completo se destinos existem e foram atualizados.
 
 Autor: JARVIS
-Versao: 2.1.0
-Data: 2026-01-13
+Versao: 3.0.0
+Data: 2026-03-21
+
+v3.0.0 (2026-03-21): Auto-enriquecimento de DNA-CONFIG.yaml de cargo agents
+    - Quando batch cascateia para cargo agent, automaticamente adiciona expert
+      na secao dna_sources.primario se ainda nao estiver la
+    - Peso determinado por numero de frameworks (5+ = 0.85, 3-4 = 0.75, 1-2 = 0.65)
+    - Dominios extraidos automaticamente dos nomes dos frameworks
+    - Versao do DNA-CONFIG incrementada automaticamente
+v2.1.0 (2026-01-13): Integra REGRA #26 - Valida integridade antes de marcar completo
 """
 
 import json
@@ -589,8 +597,10 @@ def cascade_to_agents(
     1. Verifica se existe em /agents/
     2. Se NAO existe -> registra para criacao futura
     3. Se EXISTE -> atualiza MEMORY.md com novos elementos E CONTEUDO REAL
+    4. Se CARGO -> tambem atualiza DNA-CONFIG.yaml com expert source (v3.0)
 
     IMPORTANTE v2.0: Passa batch_content para extrair conteudo real.
+    IMPORTANTE v3.0: Auto-enriquece DNA-CONFIG.yaml de cargo agents.
 
     Returns:
         Lista de acoes executadas
@@ -646,6 +656,24 @@ def cascade_to_agents(
                         "success": create_result,
                     }
                 )
+
+            # v3.0: Auto-enriquecer DNA-CONFIG.yaml de cargo agents
+            dna_config_path = agent_path / "DNA-CONFIG.yaml"
+            if dna_config_path.exists() and _is_cargo_agent(agent_path):
+                enrich_result = auto_enrich_cargo_dna_config(
+                    dna_config_path, batch_id, metadata, frameworks
+                )
+                if enrich_result:
+                    actions.append(
+                        {
+                            "action": "auto_enrich_dna_config",
+                            "agent": agent_name,
+                            "path": str(dna_config_path),
+                            "expert_added": enrich_result.get("expert", ""),
+                            "already_present": enrich_result.get("already_present", False),
+                            "success": enrich_result.get("success", False),
+                        }
+                    )
         else:
             # Agente nao existe - registrar para criacao futura
             actions.append(
@@ -667,6 +695,201 @@ def cascade_to_agents(
         )
 
     return actions
+
+
+def _is_cargo_agent(agent_path: Path) -> bool:
+    """Verifica se o agente e do tipo CARGO (nao PERSON/EXTERNAL)."""
+    return "cargo" in str(agent_path).lower()
+
+
+def auto_enrich_cargo_dna_config(
+    config_path: Path, batch_id: str, metadata: dict, frameworks: list[str]
+) -> dict:
+    """
+    Auto-enriquece DNA-CONFIG.yaml de um cargo agent com novo expert source.
+
+    v3.0: Quando um batch cascateia para um cargo agent, automaticamente
+    adiciona o expert na secao dna_sources.primario se ainda nao estiver la.
+
+    Determina peso baseado no numero de frameworks relevantes:
+    - 5+ frameworks -> peso 0.85
+    - 3-4 frameworks -> peso 0.75
+    - 1-2 frameworks -> peso 0.65
+
+    Returns:
+        Dict com resultado da operacao
+    """
+    result = {"success": False, "expert": "", "already_present": False}
+
+    try:
+        # Extrair nome do expert da fonte do batch
+        source_name = metadata.get("source", "").strip()
+        if not source_name:
+            return result
+
+        # Normalizar nome do expert para formato kebab-case
+        expert_kebab = source_name.lower().replace(" ", "-").replace("_", "-")
+        expert_upper = source_name.upper().replace(" ", "-").replace("_", "-")
+        result["expert"] = expert_kebab
+
+        # Ler conteudo do arquivo como texto (preservar comentarios YAML)
+        content = config_path.read_text(encoding="utf-8")
+
+        # Verificar se expert ja existe no arquivo (case-insensitive)
+        if expert_kebab in content.lower() or expert_upper in content.lower():
+            result["already_present"] = True
+            result["success"] = True
+            return result
+
+        # Determinar peso baseado em frameworks
+        fw_count = len(frameworks)
+        if fw_count >= 5:
+            peso = 0.85
+        elif fw_count >= 3:
+            peso = 0.75
+        else:
+            peso = 0.65
+
+        # Determinar dominios do expert a partir dos frameworks
+        dominios = _extract_domains_from_frameworks(frameworks, metadata)
+
+        # Construir bloco YAML para o novo expert
+        now = datetime.now().strftime("%Y-%m-%d")
+        new_entry = f"""
+    - pessoa: "{expert_kebab}"
+      path: "/knowledge/external/dna/persons/{expert_kebab}"
+      raiz: "/knowledge/external/sources/{expert_kebab}/raw/"
+      dominios_usados:
+{chr(10).join(f'        - "{d}"' for d in dominios)}
+      peso: {peso}
+      quando_usar: "Auto-added via cascading {batch_id}"
+      added_by: "post_batch_cascading v3.0"
+      added_date: "{now}"
+      batch_source: "{batch_id}"
+      frameworks_count: {fw_count}
+"""
+
+        # Inserir antes da secao de conflitos ou no final da secao primario
+        # Procurar marcador de fim da secao primario
+        insert_markers = [
+            "\n# ═══════════════════════════════════════════════════════════════════════════════\n# MAPA DE CONFLITOS",
+            "\nconflitos:",
+            "\nresolucao_de_conflitos:",
+            "\nraciocinio:",
+        ]
+
+        inserted = False
+        for marker in insert_markers:
+            if marker in content:
+                content = content.replace(marker, new_entry + marker)
+                inserted = True
+                break
+
+        if not inserted:
+            # Fallback: append ao final
+            content += new_entry
+
+        # Atualizar versao e timestamp
+        # Incrementar versao minor
+        version_match = re.search(r'versao:\s*"(\d+)\.(\d+)\.(\d+)"', content)
+        if version_match:
+            major, minor, patch = int(version_match.group(1)), int(version_match.group(2)), int(version_match.group(3))
+            new_version = f"{major}.{minor + 1}.{patch}"
+            content = content.replace(
+                f'versao: "{version_match.group(1)}.{version_match.group(2)}.{version_match.group(3)}"',
+                f'versao: "{new_version}"',
+            )
+
+        # Atualizar ultima_atualizacao
+        content = re.sub(
+            r'ultima_atualizacao:\s*"[^"]*"',
+            f'ultima_atualizacao: "{now}"',
+            content,
+        )
+
+        # Salvar
+        config_path.write_text(content, encoding="utf-8")
+
+        result["success"] = True
+
+        log_cascading_action(
+            {
+                "type": "auto_enrich_dna_config",
+                "config_path": str(config_path),
+                "expert": expert_kebab,
+                "peso": peso,
+                "frameworks_count": fw_count,
+                "batch_id": batch_id,
+            }
+        )
+
+        return result
+
+    except Exception as e:
+        log_cascading_action(
+            {
+                "type": "error",
+                "action": "auto_enrich_cargo_dna_config",
+                "path": str(config_path),
+                "error": str(e),
+            }
+        )
+        return result
+
+
+def _extract_domains_from_frameworks(frameworks: list[str], metadata: dict) -> list[str]:
+    """
+    Extrai dominios a partir dos nomes dos frameworks.
+
+    Usa heuristica simples: palavras-chave dos nomes de frameworks
+    mapeadas para dominios conhecidos.
+    """
+    domain_keywords = {
+        "sales": "vendas",
+        "sell": "vendas",
+        "close": "closing",
+        "closing": "closing",
+        "objection": "objection-handling",
+        "pitch": "pitching",
+        "persuasion": "persuasion",
+        "negotiation": "negotiation",
+        "copy": "copywriting",
+        "email": "email-marketing",
+        "funnel": "funnels",
+        "offer": "offers",
+        "price": "pricing",
+        "pricing": "pricing",
+        "lead": "lead-generation",
+        "prospect": "prospecting",
+        "outbound": "outbound",
+        "traffic": "traffic",
+        "ads": "paid-media",
+        "brand": "brand-strategy",
+        "story": "storytelling",
+        "influence": "influence",
+        "team": "team-management",
+        "hire": "hiring",
+        "scale": "scaling",
+        "metric": "metrics",
+        "kpi": "metrics",
+        "revenue": "revenue-operations",
+        "compensation": "compensation",
+        "webinar": "webinar-strategy",
+    }
+
+    domains = set()
+    all_text = " ".join(frameworks).lower()
+
+    for keyword, domain in domain_keywords.items():
+        if keyword in all_text:
+            domains.add(domain)
+
+    # Fallback: usar source name como dominio generico
+    if not domains:
+        source = metadata.get("source", "general").lower().replace(" ", "-")
+        domains.add(source)
+
+    return sorted(domains)[:5]  # Max 5 dominios
 
 
 def find_agent_path(agent_name: str) -> Path | None:

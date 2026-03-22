@@ -11,7 +11,7 @@
 # ═══════════════════════════════════════════════════════════════════════════════
 
 dominio: "vendas"
-versao: "15.0.0"  # Robert Cialdini EIPP added
+versao: "16.0.0"  # Gym Launch GL added (AH +280 elements)
 data_criacao: "2026-01-10"
 ultima_atualizacao: "2026-03-19"
 
@@ -35,9 +35,10 @@ fontes_consolidadas:
 
   - fonte: "alex-hormozi"
     path: "/knowledge/external/dna/persons/alex-hormozi"
-    peso_dominio: 0.75
-    elementos_contribuidos: 80
-    especialidade: "CLOSER Framework, Escala, Unit Economics"
+    peso_dominio: 0.90
+    elementos_contribuidos: 360
+    especialidade: "CLOSER Framework, Diagnostic Sale, Pain Cycle, Obstacle Overcomes, Abandoned Hope, No-Sale Sale, Green Play, Benchmarks (4-tier), Lead Nurture Cadence, Supplement Sales, Phone Sales"
+    sources: ["legacy", "AH-ACQ18K", "AH-GL (Gym Launch — 565 elements)"]
     batches: ["BATCH-029 a BATCH-032", "BATCH-127, BATCH-128"]
 
   - fonte: "jeremy-haynes"

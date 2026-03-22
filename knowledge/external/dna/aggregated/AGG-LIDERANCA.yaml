@@ -14,10 +14,10 @@
 # ═══════════════════════════════════════════════════════════════════════════════
 
 dominio: "lideranca"
-versao: "1.0.0"
+versao: "2.0.0"  # Gym Launch Owner Training added (AH + Leila — 270 leadership elements)
 data_criacao: "2026-03-15"
-ultima_atualizacao: "2026-03-15"
-total_elementos: 77
+ultima_atualizacao: "2026-03-19"
+total_elementos: 347
 peso_global: 0.90
 
 fontes_consolidadas:
@@ -38,6 +38,16 @@ fontes_consolidadas:
     especialidade: "Gestão de resultado — disciplina, hábito, cultura"
     tipo_fonte: "SECONDARY (Paulo Vito Porto / PWR Gestão — FLGF)"
     modulos: ["M07"]
+
+  - fonte: "alex-hormozi"
+    path: "knowledge/external/dna/persons/alex-hormozi/"
+    raw_path: "knowledge/external/sources/alex-hormozi/raw/gym-launch/05-Resources/06-Owner Training/"
+    peso_dominio: 0.90
+    elementos_contribuidos: 270
+    especialidade: "Emotional Intelligence (5 components), Delegation Levels, Communication Cycles, Hiring Pipeline, 4R Job Descriptions, Firing Protocol, Scaling Growing Pains, Culture of Empowerment, Tolerance Audit, Accountability Paradox, Impossible Balance, CEO Skills, Staffing Classes, Partnerships, COO Framework"
+    tipo_fonte: "PRIMARY (Alex Hormozi + Leila Hormozi — Gym Launch Owner Training + Presentations)"
+    speakers: ["Alex Hormozi", "Leila Hormozi", "Alex Charfen", "Mimi (COO)"]
+    source_id: "AH-GL"
 
 # ═══════════════════════════════════════════════════════════════════════════════
 # EXPERTS

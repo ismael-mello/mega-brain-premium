@@ -1,18 +1,19 @@
 # DNA-CONFIG.yaml - SALES-LEAD (Player-Coach)
 # Configuracao de fontes de DNA para este cargo
 #
-# Versao: 3.0.0
-# Data: 2026-01-10
+# Versao: 4.0.0
+# Data: 2026-03-21
 # Template: DNA-CONFIG-V2 (100% rastreabilidade)
 #
 # CHANGELOG:
+# v4.0.0 (2026-03-21): Premium enrichment — Added jordan-belfort (sales leadership), chris-voss (coaching empathy)
 # v3.0.0 (2026-01-10): BUG #1 FIX - Cascateamento completo
 #                      - Adicionado seção dna_agregado com AGG-VENDAS.yaml
 #                      - Todos paths validados (INTEGRITY CHECK)
 # v2.0.0 (2025-12-26): Template V2
 
 cargo: "SALES-LEAD"
-versao: "3.1.0"
+versao: "4.0.0"
 nivel: "SALES"
 
 # ═══════════════════════════════════════════════════════════════════
@@ -59,6 +60,29 @@ dna_primario:
       - "Team Development"
     path: "/knowledge/external/dna/persons/alex-hormozi"
     justificativa: "Complemento para mentalidade de alta performance"
+
+  - pessoa: "jordan-belfort"
+    peso: 0.70
+    dominios_absorvidos:
+      - "Sales Team Leadership"
+      - "Inner Game Coaching"
+      - "Standards Framework"
+      - "State Management"
+    path: "/knowledge/external/dna/persons/jordan-belfort"
+    justificativa: "658 elementos DNA — leadership de time de vendas, coaching de inner game"
+    added_by: "premium-enrichment v3.0"
+    added_date: "2026-03-21"
+
+  - pessoa: "chris-voss"
+    peso: 0.55
+    dominios_absorvidos:
+      - "Coaching via Questions"
+      - "Tactical Empathy for Leadership"
+      - "Active Listening"
+    path: "/knowledge/external/dna/persons/chris-voss"
+    justificativa: "93 elementos DNA — tactical empathy aplicada a coaching de vendedores"
+    added_by: "premium-enrichment v3.0"
+    added_date: "2026-03-21"
 
 # ═══════════════════════════════════════════════════════════════════
 # MATERIAIS ABSORVIDOS

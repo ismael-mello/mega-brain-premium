@@ -7,26 +7,26 @@
 
 person:
   name: "Alex Hormozi"
-  source: "Acquisition.com founder, $100M+ portfolio. Sales systems, HR philosophy, scaling frameworks."
-  version: "1.0.0-unified"
+  source: "Acquisition.com founder, $100M+ portfolio. Sales systems, HR philosophy, scaling frameworks, gym launch operations."
+  version: "6.0.0"
   legacy_version: "3.0.0"
   migration_date: "2026-03-02"
 
 metadata:
-  total_elements: 402
+  total_elements: 967
   by_layer:
-    L1_PHILOSOPHIES: 70
-    L2_MENTAL_MODELS: 67
-    L3_HEURISTICS: 118
-    L4_FRAMEWORKS: 78
-    L5_METHODOLOGIES: 69
-  total_insights_processed: 447
-  total_chunks_referenced: 324
-  weight_average: 0.88
-  high_weight_items: 300
-  high_weight_percentage: 75
-  last_updated: "2026-03-11"
-  sources_count: 9
+    L1_PHILOSOPHIES: 195
+    L2_MENTAL_MODELS: 167
+    L3_HEURISTICS: 278
+    L4_FRAMEWORKS: 178
+    L5_METHODOLOGIES: 149
+  total_insights_processed: 1568
+  total_chunks_referenced: 1445
+  weight_average: 0.87
+  high_weight_items: 720
+  high_weight_percentage: 74
+  last_updated: "2026-03-19"
+  sources_count: 10
 
   sources:
     - id: "AH-SS001"
@@ -56,6 +56,41 @@ metadata:
       chunks: 37
       insights: 185
       raiz: "/knowledge/external/sources/alex-hormozi/raw/acq-scale-advisory/"
+    - id: "AH-GL"
+      title: "Gym Launch (Complete Program — 5 Modules, 1390 files)"
+      chunks: 1121
+      insights: 565
+      raiz: "/knowledge/external/sources/alex-hormozi/raw/gym-launch/"
+      modules:
+        - "01-Gym Launch 2.0 (125 files)"
+        - "02-Quick Launch (51 files)"
+        - "03-Hybrid (442 files)"
+        - "04-In-GYM Launch (368 files)"
+        - "05-Resources (404 files)"
+      speakers:
+        - "Alex Hormozi (primary)"
+        - "Leila Hormozi (Owner Training, 5 Core Functions)"
+        - "Alex Charfen (Billionaire Code)"
+        - "Mimi (COO Operations)"
+        - "Nik Elliot (Sales)"
+      domains_new:
+        - "gym-launch-operations"
+        - "diagnostic-sale"
+        - "closer-framework"
+        - "lead-gen-scrambler"
+        - "owner-training"
+        - "emotional-intelligence"
+        - "hiring-firing-onboarding"
+        - "communication-cycles"
+        - "retention-systems"
+        - "staffing-models"
+        - "challenge-playbook"
+        - "supplement-sales"
+        - "fulfillment-systems"
+        - "lead-nurture-cadence"
+        - "business-intelligence-metrics"
+        - "partnerships-relationships"
+        - "weaponized-community"
 
   connections:
     complements:
@@ -3244,3 +3279,503 @@ aios_secondary:
         steps: "1. Charge first+last month upfront 2. Add initiation/enrollment fee (pure GP) 3. Get card on file during discount 4. Use card for seamless upsell 5. Every 2 customers buys you another 1 before recurring"
         weight: 0.90
         domains: ["money-models", "pricing"]
+
+# ═══════════════════════════════════════════════════════════════════════════════
+# GYM LAUNCH (GL) — Source #10 — 565 elements extracted
+# 5 Modules: GL 2.0, Quick Launch, Hybrid, In-GYM Launch, Resources
+# Speakers: Alex Hormozi, Leila Hormozi, Alex Charfen, Mimi (COO)
+# Extraction date: 2026-03-19
+# ═══════════════════════════════════════════════════════════════════════════════
+
+# --- L1 PHILOSOPHIES (GL) ---
+# Next IDs: FIL-AH-071 to FIL-AH-195
+
+  GL_L1_PHILOSOPHIES:
+    # SALES PHILOSOPHY
+    - id: "FIL-AH-GL-001"
+      content: "Sales is a transfer of enthusiasm. If you are not enthusiastic about the product, you cannot transfer anything."
+      weight: 0.95
+      domains: ["sales", "mindset", "closing"]
+    - id: "FIL-AH-GL-002"
+      content: "The war of sales is won or lost on whether who believes more — do you believe in your product more than they believe in their excuse?"
+      weight: 0.95
+      domains: ["sales", "conviction"]
+    - id: "FIL-AH-GL-003"
+      content: "The pain is the pitch. The pitch is not the pitch. If the pain is high enough, someone will sign up."
+      weight: 0.95
+      domains: ["sales", "pain-selling"]
+    - id: "FIL-AH-GL-004"
+      content: "People will ALWAYS find a way to get money if they see sufficient value. The issue is never the money — it's the perceived value."
+      weight: 0.90
+      domains: ["sales", "pricing", "value-perception"]
+    - id: "FIL-AH-GL-005"
+      content: "Don't live by contracts. Fulfill so well that they never want to leave. If someone truly wants their money back, give it to them."
+      weight: 0.90
+      domains: ["sales", "refunds", "retention"]
+    - id: "FIL-AH-GL-006"
+      content: "75% of the sale comes down to belief, energy, and rapport — not technical scripts or zingers."
+      weight: 0.90
+      domains: ["sales", "mindset", "rapport"]
+    - id: "FIL-AH-GL-007"
+      content: "Free converts best. The power of free is deeply ingrained in psychology."
+      weight: 0.85
+      domains: ["sales", "offers", "lead-generation"]
+    # LEAD GEN PHILOSOPHY
+    - id: "FIL-AH-GL-008"
+      content: "Revenue is directly proportional to how much you spend on marketing. If something creates a 4:1 return, spend more."
+      weight: 0.90
+      domains: ["ad-spend", "marketing-investment"]
+    - id: "FIL-AH-GL-009"
+      content: "Failure and invention are inseparable twins. Three quarters of ads won't be winners, but once you have winners, you can scale."
+      weight: 0.85
+      domains: ["testing-mindset", "advertising"]
+    - id: "FIL-AH-GL-010"
+      content: "You are not your customer. Don't project what YOU would opt into. It's about ROI and what converts."
+      weight: 0.90
+      domains: ["advertising-psychology", "customer-empathy"]
+    - id: "FIL-AH-GL-011"
+      content: "He who can spend the most to acquire a customer will win."
+      weight: 0.95
+      domains: ["customer-acquisition", "competitive-advantage"]
+    - id: "FIL-AH-GL-012"
+      content: "Learning to make it rain (generate demand) is the most valuable skill above sales."
+      weight: 0.90
+      domains: ["skill-hierarchy", "entrepreneurship"]
+    # FULFILLMENT PHILOSOPHY
+    - id: "FIL-AH-GL-013"
+      content: "Fulfillment is everything that happens between getting money and getting more money."
+      weight: 0.90
+      domains: ["fulfillment-philosophy", "revenue-generation"]
+    - id: "FIL-AH-GL-014"
+      content: "The more people pay, the more they pay attention. More skin in the game = better results."
+      weight: 0.90
+      domains: ["investment-psychology", "pricing"]
+    - id: "FIL-AH-GL-015"
+      content: "Speed is king in lead nurture. The faster you contact the lead from opt-in, the greater the proximity to their pain."
+      weight: 0.95
+      domains: ["lead-nurture", "speed-to-lead"]
+    - id: "FIL-AH-GL-016"
+      content: "Volume is king — the number of reach outs is the number one predictor of how much money you will make."
+      weight: 0.90
+      domains: ["lead-nurture", "volume-discipline"]
+    - id: "FIL-AH-GL-017"
+      content: "Systematize everything, automate nothing. Build a Q&A database for YOU the practitioner, not for the clients."
+      weight: 0.85
+      domains: ["systems-thinking", "coaching-fulfillment"]
+    # LEADERSHIP PHILOSOPHY
+    - id: "FIL-AH-GL-018"
+      content: "People do not leave jobs, they leave bosses — leadership quality is the #1 retention lever for employees."
+      weight: 0.90
+      domains: ["leadership", "retention"]
+    - id: "FIL-AH-GL-019"
+      content: "Emotions do not equal reactions — you choose how to react, no one makes you feel anything."
+      weight: 0.85
+      domains: ["emotional-intelligence", "leadership"]
+    - id: "FIL-AH-GL-020"
+      content: "In order to scale your business, the old business must die — these are growing pains not failure."
+      weight: 0.90
+      domains: ["scaling", "leadership"]
+    - id: "FIL-AH-GL-021"
+      content: "Tolerance is the silent killer of culture — what you tolerate, you endorse."
+      weight: 0.90
+      domains: ["culture", "leadership", "standards"]
+    - id: "FIL-AH-GL-022"
+      content: "The only thing worse than firing someone is keeping them on the team because of your emotions."
+      weight: 0.90
+      domains: ["leadership", "firing", "decision-making"]
+    - id: "FIL-AH-GL-023"
+      content: "Unspoken expectations are the death of relationships."
+      weight: 0.85
+      domains: ["partnerships", "communication"]
+    - id: "FIL-AH-GL-024"
+      content: "Results don't matter — experience matters. People stay for the experience, not the transformation alone."
+      weight: 0.90
+      domains: ["retention", "customer-experience"]
+    - id: "FIL-AH-GL-025"
+      content: "Business is like a garden, NOT a machine — it requires constant tending, nurturing, weeding, and patience."
+      weight: 0.85
+      domains: ["business-philosophy", "operations"]
+    - id: "FIL-AH-GL-026"
+      content: "Retention is the measure of how good your business actually is and how much impact you actually make."
+      weight: 0.90
+      domains: ["retention", "business-quality"]
+    - id: "FIL-AH-GL-027"
+      content: "Full responsibility means everything is your fault — even the things that aren't. This is the only mindset that gives you power to change outcomes."
+      weight: 0.90
+      domains: ["ownership", "leadership"]
+    - id: "FIL-AH-GL-028"
+      content: "Weaponized community creates sticky customers, allows price premiums, massively increases referrals, and provides inoculation against competition."
+      weight: 0.90
+      domains: ["community", "brand", "retention"]
+    - id: "FIL-AH-GL-029"
+      content: "Your work works on you more than you work on it — the discipline of doing creates the person capable of achieving."
+      weight: 0.85
+      domains: ["self-development", "consistency"]
+    - id: "FIL-AH-GL-030"
+      content: "The most difficult CEO skill to master is the ability to have uncomfortable conversations quickly and directly."
+      weight: 0.90
+      domains: ["leadership", "ceo-skills"]
+
+# --- L2 MENTAL MODELS (GL) ---
+
+  GL_L2_MENTAL_MODELS:
+    # SALES MODELS
+    - id: "MM-AH-GL-001"
+      content: "Three Pillar Diagnostic — Every failed fitness attempt is missing one of three pillars: Fitness, Nutrition, or Accountability."
+      weight: 0.95
+      domains: ["sales", "diagnostic-sale"]
+    - id: "MM-AH-GL-002"
+      content: "The Vacation vs. The Flight — Sell the vacation (the dream result), not the flight (the features and work)."
+      weight: 0.90
+      domains: ["sales", "pitch-technique"]
+    - id: "MM-AH-GL-003"
+      content: "Epiphany Bridge — Lead the prospect through questions so THEY arrive at the conclusion. You cannot say it. They must say it."
+      weight: 0.90
+      domains: ["sales", "questioning", "persuasion"]
+    - id: "MM-AH-GL-004"
+      content: "TKAD — Time Kills All Deals. Always close in the moment. 1% of people who leave ever come back."
+      weight: 0.95
+      domains: ["sales", "closing", "urgency"]
+    - id: "MM-AH-GL-005"
+      content: "Value Ladder Multiplier — Adding upsells allows you to spend 7x more on customer acquisition than competitors with one offer."
+      weight: 0.90
+      domains: ["sales", "pricing", "unit-economics"]
+    # LEAD GEN MODELS
+    - id: "MM-AH-GL-006"
+      content: "Lead Gen Scrambler — A matrix of all ad variables (headlines, copy, page names, images, videos) that you mix-match for infinite ad variations."
+      weight: 0.95
+      domains: ["advertising", "creative-testing"]
+    - id: "MM-AH-GL-007"
+      content: "Funnel Algebra (EPC Model) — Revenue = Impressions × CTR × Opt-in Rate × Close Rate × Avg Ticket."
+      weight: 0.90
+      domains: ["funnel-math", "unit-economics"]
+    - id: "MM-AH-GL-008"
+      content: "Three Funnel Types: 1) Opt-in (volume), 2) Application (quality), 3) Widget + Application (free magnet → application)."
+      weight: 0.85
+      domains: ["funnel-strategy", "lead-qualification"]
+    - id: "MM-AH-GL-009"
+      content: "Synchrony Effect — Groups doing the same exercise in unison draws attention at subconscious level. 75-80% of top-performing ad videos are this style."
+      weight: 0.85
+      domains: ["advertising-psychology", "video-strategy"]
+    # FULFILLMENT MODELS
+    - id: "MM-AH-GL-010"
+      content: "Investment-Results Correlation — The more people invest, the more they pay attention, the better results they get, the longer they stay."
+      weight: 0.90
+      domains: ["investment-psychology", "retention"]
+    - id: "MM-AH-GL-011"
+      content: "Revenue Generating Unit (RGU) — One coach per 75 clients at $250/mo avg = $225K/yr service + $74K supplement commissions. Net $248K/yr per coach."
+      weight: 0.95
+      domains: ["unit-economics", "fulfillment-economics"]
+    - id: "MM-AH-GL-012"
+      content: "Speed-Volume Twin Pillars — Lead nurture success driven by speed (proximity to pain) and volume (number of reach outs). Both are king."
+      weight: 0.90
+      domains: ["lead-nurture", "sales-math"]
+    - id: "MM-AH-GL-013"
+      content: "Assumed Close with A-B Options — Present supplements as part of toolkit. Option A: 90-day bundle. Option B: month-to-month. Never zero options."
+      weight: 0.90
+      domains: ["supplement-sales", "closing-technique"]
+    - id: "MM-AH-GL-014"
+      content: "Crossout Downsell — Physically cross out products one by one. People hate losing things, so they keep most."
+      weight: 0.85
+      domains: ["downsell-technique", "loss-aversion"]
+    # OPERATIONS MODELS
+    - id: "MM-AH-GL-015"
+      content: "5 Components of Emotional Intelligence: Understanding, Allowing, Not Indulging, Not Hiding, Creating on Purpose."
+      weight: 0.90
+      domains: ["emotional-intelligence", "leadership"]
+    - id: "MM-AH-GL-016"
+      content: "Levels of Delegation: L1(Do as I say) → L2(Research+report) → L3(Research+recommend) → L4(Decide+inform) → L5(Decide+act)."
+      weight: 0.90
+      domains: ["delegation", "leadership"]
+    - id: "MM-AH-GL-017"
+      content: "5 Internal Core Functions (mirror external): Lead Gen→Applicants, Lead Nurture→Screening, Sales→Selling vision, Fulfillment→Treatment, Resell→Management."
+      weight: 0.90
+      domains: ["team-building", "organizational-design"]
+    - id: "MM-AH-GL-018"
+      content: "4 Growing Pains of Scaling: 1) CEO holding too tightly, 2) Wrong people, 3) Over-emphasis on acquisition vs retention, 4) Not tracking metrics."
+      weight: 0.85
+      domains: ["scaling", "growing-pains"]
+    - id: "MM-AH-GL-019"
+      content: "Staffing Classes Model: Class A (0-100) → B (100-200) → C (200-350) → D (350-500+) — each with specific staffing requirements."
+      weight: 0.90
+      domains: ["staffing", "scaling"]
+    - id: "MM-AH-GL-020"
+      content: "Gas vs Brakes Dynamic — Entrepreneur = gas (vision, speed). Operator = brakes (implementation, quality). Both essential."
+      weight: 0.85
+      domains: ["operations", "partnerships"]
+
+# --- L3 HEURISTICS (GL) ---
+
+  GL_L3_HEURISTICS:
+    # SALES BENCHMARKS
+    - id: "HEUR-AH-GL-001"
+      content: "Scheduling rate: 60% avg, 70% good, 80% great, 90%+ elite."
+      weight: 0.95
+      domains: ["sales", "benchmarks"]
+    - id: "HEUR-AH-GL-002"
+      content: "Show rate: 50% avg, 60% good, 70% great, 80% elite."
+      weight: 0.95
+      domains: ["sales", "benchmarks"]
+    - id: "HEUR-AH-GL-003"
+      content: "Close rate (in-person): 50% baseline, 60% good, 70% great, 80% elite."
+      weight: 0.95
+      domains: ["sales", "benchmarks"]
+    - id: "HEUR-AH-GL-004"
+      content: "Back-out rate: 0% elite, <5% great, <10% good, <15% avg. Above 15% = pressure-closing issues."
+      weight: 0.90
+      domains: ["sales", "benchmarks"]
+    - id: "HEUR-AH-GL-005"
+      content: "Refund rate: 0-2.5% elite, 2.5-5% great, 5-7.5% good, 7.5-10% avg. Above 10% = fulfillment issues."
+      weight: 0.90
+      domains: ["sales", "benchmarks"]
+    - id: "HEUR-AH-GL-006"
+      content: "Total conversion (leads to close): 10% avg, 15% good, 20% great, 25%+ phenomenal. Hormozi personal: 28%."
+      weight: 0.95
+      domains: ["sales", "conversion-metrics"]
+    - id: "HEUR-AH-GL-007"
+      content: "Satisfaction guarantee: Out of 4,000 sales over 5 years, only 2 people ever asked for money back."
+      weight: 0.85
+      domains: ["guarantees", "risk-reversal"]
+    - id: "HEUR-AH-GL-008"
+      content: "Abandoned Hope close rate target: 70-80% of front-end customers should convert at halfway-point resell."
+      weight: 0.90
+      domains: ["retention", "resell"]
+    - id: "HEUR-AH-GL-009"
+      content: "Six-week challenge duration converts best. Tested extensively over 6.5+ years."
+      weight: 0.90
+      domains: ["offers", "conversion-optimization"]
+    - id: "HEUR-AH-GL-010"
+      content: "Assumed close pushes to 90%+ vs 70-80% with traditional close."
+      weight: 0.90
+      domains: ["closing", "assumed-close"]
+    # LEAD GEN BENCHMARKS
+    - id: "HEUR-AH-GL-011"
+      content: "CPL target: Under $25 = great. $8-13 good range. $15+ consider pausing."
+      weight: 0.90
+      domains: ["ad-optimization", "benchmarks"]
+    - id: "HEUR-AH-GL-012"
+      content: "72-Hour Rule: Never judge an ad before 72 hours. Facebook needs ~8,000 impressions to learn."
+      weight: 0.90
+      domains: ["ad-optimization", "testing"]
+    - id: "HEUR-AH-GL-013"
+      content: "Ad testing volume: Test 300 ads when spending $50K. Make 5 new ads every week minimum."
+      weight: 0.85
+      domains: ["creative-testing", "ad-volume"]
+    - id: "HEUR-AH-GL-014"
+      content: "Recommended daily ad spend: $100/day minimum across 6-10 ad sets."
+      weight: 0.85
+      domains: ["ad-budget", "scaling"]
+    - id: "HEUR-AH-GL-015"
+      content: "85% of people watch Facebook videos without sound. Always add subtitles."
+      weight: 0.85
+      domains: ["video-advertising", "creative"]
+    - id: "HEUR-AH-GL-016"
+      content: "Sales availability: Going from 6→5 days/week caused 30% decrease in scheduled appointments."
+      weight: 0.90
+      domains: ["sales-operations", "scheduling"]
+    # FULFILLMENT BENCHMARKS
+    - id: "HEUR-AH-GL-017"
+      content: "Double dial is your new single dial. Pick-up rates significantly higher with double dial."
+      weight: 0.90
+      domains: ["lead-nurture", "call-technique"]
+    - id: "HEUR-AH-GL-018"
+      content: "ROI per call = $10. 50 calls/hour. $50K launch = 5,000 calls over 30 days = 4 hrs/day."
+      weight: 0.90
+      domains: ["lead-nurture", "sales-math"]
+    - id: "HEUR-AH-GL-019"
+      content: "Day 1-2: 3 contact attempts each. Day 3-5: 1 per day. Day 10: Last push. After Day 10: done."
+      weight: 0.90
+      domains: ["contact-cadence", "lead-nurture"]
+    - id: "HEUR-AH-GL-020"
+      content: "Supplement close rate: 90%+ if you follow assumed close system."
+      weight: 0.85
+      domains: ["supplement-sales", "close-rate"]
+    - id: "HEUR-AH-GL-021"
+      content: "Coach capacity: 75 clients per coach. Bi-weekly check-ins 15 min each = 40 hrs/month fulfillment."
+      weight: 0.90
+      domains: ["fulfillment-operations", "capacity-planning"]
+    - id: "HEUR-AH-GL-022"
+      content: "Send appointment reminder at 8-9pm night before (people plan next day at night)."
+      weight: 0.85
+      domains: ["show-rates", "behavioral-psychology"]
+    # OPERATIONS BENCHMARKS
+    - id: "HEUR-AH-GL-023"
+      content: "7% attrition rate = max 143 EFTs; 3% attrition = max 333 EFTs. Each % point = 2-3x business size."
+      weight: 0.95
+      domains: ["retention", "business-math"]
+    - id: "HEUR-AH-GL-024"
+      content: "$150-200/month sweet spot for group training EFT. Below = leaving money. Above $300 = no-man's land."
+      weight: 0.90
+      domains: ["pricing", "revenue"]
+    - id: "HEUR-AH-GL-025"
+      content: "Class A (0-100): Owner + 1-2 trainers. Class B (100-200): Add sales mgr. Class C (200-350): Add retention + ops. Class D (350+): Full mgmt team."
+      weight: 0.90
+      domains: ["staffing", "scaling"]
+    - id: "HEUR-AH-GL-026"
+      content: "Re-sign rate target: 75% of trial members should convert to full membership."
+      weight: 0.90
+      domains: ["retention", "conversion"]
+    - id: "HEUR-AH-GL-027"
+      content: "Monthly meetings: 90 min. First 30-40 min = vision/culture. Remaining = business review."
+      weight: 0.85
+      domains: ["meetings", "communication"]
+    - id: "HEUR-AH-GL-028"
+      content: "Daily huddle: 10-15 min max, standing. Weekly 1:1s: 30 min max. Quarterly review: formal + written."
+      weight: 0.85
+      domains: ["operations", "communication"]
+    - id: "HEUR-AH-GL-029"
+      content: "Declining attendance is #1 churn predictor. Reach out at 3 days, 7 days, 14 days."
+      weight: 0.90
+      domains: ["retention", "early-warning"]
+    - id: "HEUR-AH-GL-030"
+      content: "When firing: end of day, 5-10 min max, have final check ready, tell team within 24 hours."
+      weight: 0.85
+      domains: ["firing", "management"]
+
+# --- L4 FRAMEWORKS (GL) ---
+
+  GL_L4_FRAMEWORKS:
+    - id: "FW-AH-GL-001"
+      content: "C-L-O-S-E-R Framework: Clarify why → Label problem → Overview past pain → Sell vacation → Explain concerns → Reinforce sale."
+      weight: 0.95
+      domains: ["sales", "closing-framework"]
+    - id: "FW-AH-GL-002"
+      content: "Three-Pillar Pitch: Assess each past failure against Fitness/Nutrition/Accountability. Show your program has all three."
+      weight: 0.95
+      domains: ["sales", "diagnostic-sale"]
+    - id: "FW-AH-GL-003"
+      content: "Pain Cycle Questioning Loop: What did you do? How did that work? How long? → Calculate total waste → Key question: Why unable on your own?"
+      weight: 0.95
+      domains: ["sales", "discovery", "pain-selling"]
+    - id: "FW-AH-GL-004"
+      content: "Obstacle Overcome System: 4 categories — Stall (decision framework), Spouse (agreement stacking), Money (best/worst case), Fitness-specific (modifications)."
+      weight: 0.95
+      domains: ["sales", "objection-handling"]
+    - id: "FW-AH-GL-005"
+      content: "No-Sale Sale: After full pitch + no → Offer same program at $0 down from home → Schedule orientation → Sell supplements → +33% more closes."
+      weight: 0.90
+      domains: ["sales", "revenue-recovery"]
+    - id: "FW-AH-GL-006"
+      content: "Abandoned Hope Sale: Week 3 of 6-week, assumed close, credit deposit forward + next challenge free. Target 70-80%."
+      weight: 0.90
+      domains: ["retention", "resell"]
+    - id: "FW-AH-GL-007"
+      content: "Lead Gen Scrambler Matrix: 5 variable categories (Headline × Copy × Page Name × Image/Video × Meme Treatment) for infinite ad variations."
+      weight: 0.95
+      domains: ["advertising", "creative-testing"]
+    - id: "FW-AH-GL-008"
+      content: "Ad Optimization Decision Tree: Morning = find losers (pause high CPR). Evening = find winners (increase budget). Check 3-7 day window."
+      weight: 0.90
+      domains: ["ad-optimization", "facebook-ads"]
+    - id: "FW-AH-GL-009"
+      content: "Messenger Setter Script (8-Step Organic): Open → Relate → Transition → Clarify Goals → Label Problem → Overview Past Pain → Create Curiosity → Phone Call."
+      weight: 0.90
+      domains: ["organic-lead-gen", "messaging"]
+    - id: "FW-AH-GL-010"
+      content: "Four Pillars of Fulfillment: 1) Fitness, 2) Nutrition, 3) Supplementation, 4) Accountability."
+      weight: 0.90
+      domains: ["fulfillment-framework", "program-design"]
+    - id: "FW-AH-GL-011"
+      content: "5-Day Lead Nurture Contact Sequence: Day 1-2: DD+T, DD, DD+T. Day 3-5: DD+T each. Day 10: Last push SMS."
+      weight: 0.90
+      domains: ["lead-nurture", "contact-sequence"]
+    - id: "FW-AH-GL-012"
+      content: "Supplement Sales A-B Close: Present orientation → Show phase supplements → Option A: 90-day PIF → Option B: Ultimate month-to-month."
+      weight: 0.85
+      domains: ["supplement-sales", "closing-framework"]
+    - id: "FW-AH-GL-013"
+      content: "Reminder Sequence: Night before (8-9pm) → Morning of (call → video text) → 1 hour before (text + address). Three touchpoints."
+      weight: 0.90
+      domains: ["show-rates", "lead-nurture"]
+    - id: "FW-AH-GL-014"
+      content: "Communication Cycle Architecture: Daily Huddle → Weekly Meeting + Reports + 1:1s → Monthly Meeting + Surveys → Quarterly Review."
+      weight: 0.90
+      domains: ["communication", "operations"]
+    - id: "FW-AH-GL-015"
+      content: "Hiring Pipeline: Recruiting → Resume + Phone Screen → Interview → Skill Testing → References → Offer → Onboarding."
+      weight: 0.85
+      domains: ["hiring", "process"]
+    - id: "FW-AH-GL-016"
+      content: "Employee Coaching: Performance Diagnosis (skill vs will) → Write-Up Escalation → Toxic Handling → Promotions → Raises."
+      weight: 0.85
+      domains: ["coaching", "management"]
+    - id: "FW-AH-GL-017"
+      content: "Retention System: Client Tracking → Reach Outs → Attendance Tracking → Handwritten Cards → Member Events → Exit Interviews."
+      weight: 0.90
+      domains: ["retention", "systems"]
+    - id: "FW-AH-GL-018"
+      content: "Profit Multiplication: Raise EFT to $150-200 → Raise prices → Add bolt-on revenue → Optimize delivery cost → Reduce churn below 5%."
+      weight: 0.90
+      domains: ["profit", "scaling"]
+    - id: "FW-AH-GL-019"
+      content: "Weaponized Community: Build identity → Shared enemy → Rituals → Origin story → Insider language → Members as heroes."
+      weight: 0.85
+      domains: ["community", "brand"]
+    - id: "FW-AH-GL-020"
+      content: "Challenge Playbook Architecture: 6-Week Challenge + 42-Day Detox + 28-Day Challenge + 12-Week HTP + Reactivation Play."
+      weight: 0.90
+      domains: ["challenge-types", "offer-architecture"]
+
+# --- L5 METHODOLOGIES (GL) ---
+
+  GL_L5_METHODOLOGIES:
+    - id: "MET-AH-GL-001"
+      content: "State Management Ritual: Do goofy movement → Read 3 testimonials → Remind yourself program changes lives → Hit prospect with energy."
+      weight: 0.85
+      domains: ["sales", "state-management"]
+    - id: "MET-AH-GL-002"
+      content: "Pain Cycle Amplification: For each attempt ask what/how/how long → Tag missing pillars → Calculate waste → Ask KEY question → Bridge to program."
+      weight: 0.95
+      domains: ["sales", "discovery"]
+    - id: "MET-AH-GL-003"
+      content: "Money Objection Stack: Best/worst case → Expensive clothing analogy → Identity swap → Gonna-spend-anyway → Have you ever bought unaffordable? → Delayed payment."
+      weight: 0.90
+      domains: ["objection-handling", "money-objection"]
+    - id: "MET-AH-GL-004"
+      content: "Think About It Stack: Isolate → 3-Question Framework → Scale Close → Same-Day Policy → Unicorn Close."
+      weight: 0.90
+      domains: ["objection-handling", "stall-overcome"]
+    - id: "MET-AH-GL-005"
+      content: "Phone Sales Open: Name with energy → Pause → Your name UP tonality → Gym + location → Signed up on Facebook → Not taking your time."
+      weight: 0.85
+      domains: ["phone-sales", "opening-technique"]
+    - id: "MET-AH-GL-006"
+      content: "Weekly Ad Creation: Choose 3 headlines → Write 2 copy versions → Capture 6-8 videos daily → Select best → Create 5+ ads → Launch $5-10/day → 72hr review → Kill/scale."
+      weight: 0.90
+      domains: ["advertising", "content-creation"]
+    - id: "MET-AH-GL-007"
+      content: "Cold Messenger Process: Exhaust warm leads → Search hashtags → Message normal people → Follow 8-step setter script → Get on phone THAT DAY. 25-50/day."
+      weight: 0.85
+      domains: ["organic-lead-gen", "outreach"]
+    - id: "MET-AH-GL-008"
+      content: "Lead Nurture Contact Process: Day 1-2: DD+T × 3 attempts. Day 3-5: DD+T × 1. Day 10: Last push SMS. After Day 10: only campaigns."
+      weight: 0.90
+      domains: ["lead-nurture", "methodology"]
+    - id: "MET-AH-GL-009"
+      content: "Supplement Sale Execution: Nutrition orientation → Present phase supplements → 90-day bundle → If no: Ultimate subscription → If no: Crossout downsell."
+      weight: 0.85
+      domains: ["supplement-sales", "methodology"]
+    - id: "MET-AH-GL-010"
+      content: "Weigh-In Day: Pull contract → Scale → Body fat → Record → Meal plan → Social follows → Download Voxer → Join FB group."
+      weight: 0.85
+      domains: ["weigh-in-day", "operations"]
+    - id: "MET-AH-GL-011"
+      content: "Daily Accountability: Client sends scale photo via Voxer. Coach segments MWF/TTS. On-days: themed question. Off-days: quick acknowledge."
+      weight: 0.85
+      domains: ["coaching-methodology", "accountability"]
+    - id: "MET-AH-GL-012"
+      content: "Hiring Process: Write 4Rs → Post → Collect resumes 1 week → Phone screen top 10 → Interview top 5 → Skill test top 3 → References top 2 → Offer."
+      weight: 0.85
+      domains: ["hiring", "process"]
+    - id: "MET-AH-GL-013"
+      content: "Firing Execution: Decide → Prepare paperwork → End-of-day meeting 5-10 min → Direct + brief → Hand check → Collect property → Team meeting within 24hrs."
+      weight: 0.85
+      domains: ["firing", "implementation"]
+    - id: "MET-AH-GL-014"
+      content: "Emotional Intelligence Daily Practice: 15 min alone → Name feeling → Ask why → Allow without acting → Choose productive thought → Repeat 30 days."
+      weight: 0.85
+      domains: ["emotional-intelligence", "daily-practice"]
+    - id: "MET-AH-GL-015"
+      content: "Delegation Transfer: List everything → Categorize love/hate × great/suck → Delegate hate+suck → Write SOP → Train → Shadow → Let go → Check weekly."
+      weight: 0.85
+      domains: ["delegation", "implementation"]

@@ -1,18 +1,19 @@
 # DNA-CONFIG.yaml - CUSTOMER-SUCCESS
 # Configuracao de fontes de DNA para este cargo
 #
-# Versao: 3.0.0
-# Data: 2026-01-10
+# Versao: 4.0.0
+# Data: 2026-03-21
 # Template: DNA-CONFIG-V2 (100% rastreabilidade)
 #
 # CHANGELOG:
+# v4.0.0 (2026-03-21): Premium enrichment — Added russell-brunson (value ladder), dan-kennedy (retention), robert-cialdini (influence)
 # v3.0.0 (2026-01-10): BUG #1 FIX - Cascateamento completo
 #                      - Adicionado seção dna_agregado com AGG-VENDAS.yaml
 #                      - Todos paths validados (INTEGRITY CHECK)
 # v2.0.0 (2025-12-26): Template V2
 
 cargo: "CUSTOMER-SUCCESS"
-versao: "3.1.0"
+versao: "4.0.0"
 nivel: "SALES"
 
 # ═══════════════════════════════════════════════════════════════════
@@ -66,6 +67,41 @@ dna_primario:
       - "Account Growth"
     path: "/knowledge/external/dna/persons/cole-gordon"
     justificativa: "Expertise em expansion revenue e upsell timing"
+
+  - pessoa: "russell-brunson"
+    peso: 0.70
+    dominios_absorvidos:
+      - "Value Ladder"
+      - "Ascension Model"
+      - "Community Building"
+      - "Customer Journey"
+    path: "/knowledge/external/dna/persons/russell-brunson"
+    justificativa: "1117 elementos DNA — value ladder para expansão e community building"
+    added_by: "premium-enrichment v3.0"
+    added_date: "2026-03-21"
+
+  - pessoa: "dan-kennedy"
+    peso: 0.55
+    dominios_absorvidos:
+      - "Retention Psychology"
+      - "Customer Reactivation"
+      - "Referral Systems"
+      - "Lifetime Value Maximization"
+    path: "/knowledge/external/dna/persons/dan-kennedy"
+    justificativa: "3070 elementos DNA — psicologia de retenção e sistemas de referral"
+    added_by: "premium-enrichment v3.0"
+    added_date: "2026-03-21"
+
+  - pessoa: "robert-cialdini"
+    peso: 0.60
+    dominios_absorvidos:
+      - "Commitment-Consistency"
+      - "Social Proof for Retention"
+      - "Reciprocity in CS"
+    path: "/knowledge/external/dna/persons/robert-cialdini"
+    justificativa: "175 elementos DNA — princípios de influência aplicados a retenção"
+    added_by: "premium-enrichment v3.0"
+    added_date: "2026-03-21"
 
     peso: 0.75
     dominios_absorvidos:

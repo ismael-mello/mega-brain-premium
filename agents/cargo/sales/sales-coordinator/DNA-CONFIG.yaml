@@ -1,18 +1,19 @@
 # DNA-CONFIG.yaml - SALES-COORDINATOR
 # Configuracao de fontes de DNA para este cargo
 #
-# Versao: 3.0.0
-# Data: 2026-01-10
+# Versao: 4.0.0
+# Data: 2026-03-21
 # Template: DNA-CONFIG-V2 (100% rastreabilidade)
 #
 # CHANGELOG:
+# v4.0.0 (2026-03-21): Premium enrichment — Added alex-hormozi (ops metrics), sam-ovens (CRM/systems)
 # v3.0.0 (2026-01-10): BUG #1 FIX - Cascateamento completo
 #                      - Adicionado dna_agregado com AGG-VENDAS.yaml
 #                      - Todos paths validados (INTEGRITY CHECK)
 # v2.0.0 (2025-12-26): Template V2
 
 cargo: "SALES-COORDINATOR"
-versao: "3.1.0"
+versao: "4.0.0"
 nivel: "SALES"
 
 # ═══════════════════════════════════════════════════════════════════
@@ -50,6 +51,28 @@ dna_primario:
       - "Sales Management Progression"
     path: "/knowledge/external/dna/persons/cole-gordon"
     justificativa: "Principal fonte para estrutura de operacoes de vendas"
+
+  - pessoa: "alex-hormozi"
+    peso: 0.65
+    dominios_absorvidos:
+      - "Sales Operations Metrics"
+      - "Farm System Tracking"
+      - "Volume Metrics"
+    path: "/knowledge/external/dna/persons/alex-hormozi"
+    justificativa: "967 elementos DNA — métricas de operações e farm system para tracking de pipeline"
+    added_by: "premium-enrichment v3.0"
+    added_date: "2026-03-21"
+
+  - pessoa: "sam-ovens"
+    peso: 0.55
+    dominios_absorvidos:
+      - "CRM Architecture"
+      - "Sales Process Design"
+      - "Systems Thinking"
+    path: "/knowledge/external/dna/persons/sam-ovens"
+    justificativa: "Sistemas de vendas e arquitetura de CRM para operações"
+    added_by: "premium-enrichment v3.0"
+    added_date: "2026-03-21"
 
 # ═══════════════════════════════════════════════════════════════════
 # MATERIAIS ABSORVIDOS
