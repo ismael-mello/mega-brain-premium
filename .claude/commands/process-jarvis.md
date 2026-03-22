@@ -978,7 +978,7 @@ VERIFY all artifacts exist and are valid:
     LNS MEMORY.md NÃO continha AH-CP001 → FALHA
 
 □ SOUL UPDATE CHECK (se pessoa tem SOUL.md):
-  IF /agents/external/$SOURCE_PERSON/SOUL.md exists:
+  IF /agents/persons/$SOURCE_PERSON/SOUL.md exists:
     -> VERIFY SOUL.md foi atualizado com $SOURCE_ID
     -> IF NOT: LOG WARNING + adicionar à lista de pendências
 
@@ -2666,7 +2666,7 @@ LOG: "Verificando necessidade de atualizacao de SOUL.md..."
 # ─────────────────────────────────────────────────────────────────────────
 
 # Para PESSOA (agente isolado)
-PERSON_SOUL_PATH = /agents/external/{SOURCE_PERSON}/SOUL.md
+PERSON_SOUL_PATH = /agents/persons/{SOURCE_PERSON}/SOUL.md
 
 IF PERSON_SOUL_PATH exists:
   LOG: "SOUL de pessoa encontrado: {SOURCE_PERSON}"

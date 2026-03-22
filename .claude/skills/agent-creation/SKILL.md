@@ -36,7 +36,7 @@ Garantir que todos os agentes do Mega Brain sigam:
 
 ### 1. Agents of Person (Digital Twins)
 ```
-/agents/external/
+/agents/persons/
 ├── DNA-[PESSOA].md        # Essência imutável
 └── AGENT-PERSON-[PESSOA].md  # Comportamento ativo
 ```

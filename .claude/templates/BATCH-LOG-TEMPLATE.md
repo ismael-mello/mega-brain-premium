@@ -202,7 +202,7 @@
 
 **Data:** 2026-02-18 21:27
 **Regra aplicada:** REGRA #22 (Cascateamento Multi-Destino)
-**Sistema:** AIOS Core
+**Sistema:** Mega Brain
 
 ### Resumo
 
@@ -218,4 +218,4 @@
 
 ---
 
-*Cascateamento automatico via `post_batch_cascading.py` (AIOS Core)*
+*Cascateamento automatico via `post_batch_cascading.py` (Mega Brain)*

@@ -218,6 +218,6 @@ workflow:
       location: "logs/batches/"
     - name: dna_config
       type: file
-      location: "agents/external/{source}/DNA-CONFIG.yaml"
+      location: "agents/persons/{source}/DNA-CONFIG.yaml"
     - name: validation_report
       type: json

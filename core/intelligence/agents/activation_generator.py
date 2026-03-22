@@ -277,6 +277,32 @@ _ARCHETYPE_CLOSINGS: dict[str, str] = {
 }
 
 
+def _load_agent_nicknames() -> None:
+    """Scan agents/ directories for additional nicknames not in OFFICIAL_NICKNAMES.
+
+    Discovers agent slugs from agents/external/, agents/business/, and
+    agents/personal/ and auto-generates nickname entries for any that are
+    not already registered. This keeps OFFICIAL_NICKNAMES free of
+    hardcoded personal/business names.
+    """
+    for category_dir in ("external", "business", "personal"):
+        category_path = AGENTS / category_dir
+        if not category_path.exists():
+            continue
+        for child in category_path.iterdir():
+            if child.is_dir() and child.name not in OFFICIAL_NICKNAMES:
+                auto_name = child.name.replace("-", " ").title().split()[0]
+                OFFICIAL_NICKNAMES[child.name] = {
+                    "name": auto_name,
+                    "icon": "\U0001f464",
+                    "archetype": "Builder",
+                    "tagline": f"Agent: {child.name}",
+                }
+
+
+_load_agent_nicknames()
+
+
 # ---------------------------------------------------------------------------
 # CATEGORY RESOLUTION
 # ---------------------------------------------------------------------------

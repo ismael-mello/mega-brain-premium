@@ -37,9 +37,9 @@ template: "reference/templates/phase5/MOGA-BRAIN-PHASE5-TEMPLATES.md#5.2"
 
 | Output | Type | Location | Description |
 |--------|------|----------|-------------|
-| agent_md | markdown | agents/external/{name}/AGENT.md | Agent atualizado |
-| soul_md | markdown | agents/external/{name}/SOUL.md | Soul atualizado |
-| memory_md | markdown | agents/external/{name}/MEMORY.md | Memory com novos insights |
+| agent_md | markdown | agents/persons/{name}/AGENT.md | Agent atualizado |
+| soul_md | markdown | agents/persons/{name}/SOUL.md | Soul atualizado |
+| memory_md | markdown | agents/persons/{name}/MEMORY.md | Memory com novos insights |
 | template_5_2 | display | chat | Template visual obrigatório |
 
 ---
@@ -50,7 +50,7 @@ template: "reference/templates/phase5/MOGA-BRAIN-PHASE5-TEMPLATES.md#5.2"
 
 **Quality Gate:** QG-P5-010
 
-1. Verificar se AGENT.md existe em `agents/external/{source}/`
+1. Verificar se AGENT.md existe em `agents/persons/{source}/`
 2. Se não existe → criar com template V3 (REGRA #24)
 3. Se existe → carregar para atualização
 
