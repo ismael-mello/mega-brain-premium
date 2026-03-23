@@ -17,11 +17,23 @@
 # ═══════════════════════════════════════════════════════════════════════════════
 
 cargo: "CRO"
-versao: "24.0.0"
+versao: "29.0.0"
+# v29.0.0 (2026-03-23): Jon Benson TCB enrichment — persuasion fundamentals, HEX framework, Samurai Q&A, Tsunami Close, conversion copywriting
+#                      - New TCB domains: persuasion-fundamentals, hex-framework, empathy-copywriting, samurai-close, tsunami-close, word-alchemy, speedwriting
+#                      - Key frameworks: HEX Framework, Samurai Q&A, Tsunami Close, Empathy Copywriting, Word Alchemy
+# v28.0.0 (2026-03-22): Jon Benson CVSL enrichment — NLP close architecture, 3 Choices decision architecture, faux pricing, $120 AOV threshold, buy button timing
+#                      - New CVSL domains: pricing-psychology, decision-architecture, attention-engineering
+#                      - Key frameworks: Grand Offer 6-Part (enhanced), NLP Close Sequence, Faux Price Architecture, 3 Choices, 9 Attention Frames
+# v27.0.0 (2026-03-22): Jon Benson 3XVSL enrichment — VSL conversion architecture, grand offer close system, decision-to-desire psychology
+#                      - New JB domains: vsl-conversion, offer-construction, desire-psychology
+#                      - Key frameworks: Grand Offer 6-Part Close, Even-If Objection Technique, Conspiracy Cycle, Tire Kicker Elimination
 nivel: "C-LEVEL"
 natureza: "HIBRIDO"
 data_criacao: "2025-12-23"
-ultima_atualizacao: "2026-03-19"
+ultima_atualizacao: "2026-03-22"
+# v25.0.0 (2026-03-22): JH DMM enrichment — CPR Framework, Deep Selling, 5 Objection Handlers, Conviction Principle, 5-Tier Pricing Pyramid
+#                      - New DMM domains: deep-selling, objection-handling-dmm, conviction-selling, pricing-architecture
+#                      - Key frameworks: CPR (Cost Per Result), Deep Selling, 5 Objection Handlers, Conviction Principle, 5-Tier Pricing Pyramid
 # v24.0.0 (2026-03-19): Added robert-cialdini (influence-psychology, ethical-persuasion, social-proof-engineering, decision-science, pre-suasion) — EIPP pipeline, peso 0.85
 #                      - Key frameworks: 6 Principles of Influence, Pre-Suasion, Ethical Influence, Social Proof Engineering, Decision Science
 #                      - Key domains: influence-psychology, ethical-persuasion, social-proof-engineering, decision-science, pre-suasion
@@ -405,9 +417,42 @@ dna_sources:
         - "enterprise_value"
         - "agency_scaling"
         - "media_buyer_ops"
+        # DMM enrichment (2026-03-22)
+        - "deep-selling"
+        - "objection-handling-dmm"
+        - "conviction-selling"
+        - "pricing-architecture"
+        # DSP enrichment (2026-03-22)
+        - "funnel-architecture"
+        - "conversion-psychology"
+        - "retargeting-hierarchy"
       peso: 0.85
-      quando_usar: "Recurring high-ticket, pricing strategy, enterprise value, scaling de agência"
+      quando_usar: "Recurring high-ticket, pricing strategy, enterprise value, scaling de agência, CPR framework, deep selling, conviction-based closing, funnel architecture, conversion psychology, retargeting hierarchy"
       added: "2026-03-03"
+      # DMM enrichment (2026-03-22)
+      elementos_dmm:
+        - "CPR Framework (Cost Per Result) — pricing by outcome, not hours"
+        - "Deep Selling — multi-touchpoint conviction building across sales cycle"
+        - "5 Objection Handlers — systematic objection resolution methodology"
+        - "Conviction Principle — certainty transfer from seller to buyer"
+        - "5-Tier Pricing Pyramid — Entry/Low/Mid/High/Ultra pricing architecture"
+      dominios_dmm:
+        - "deep-selling"
+        - "objection-handling-dmm"
+        - "conviction-selling"
+        - "pricing-architecture"
+      # DSP enrichment (2026-03-22)
+      elementos_dsp:
+        - "22 Funnel Types — comprehensive funnel taxonomy for revenue optimization"
+        - "Conversion Psychology — micro-commitments, dummy buy, progressive disclosure"
+        - "Retargeting Audience Hierarchy — 7-level audience quality framework"
+        - "Venus Flytrap Funnel — 3-video → 75% watch → pitch (revenue funnel)"
+        - "Brand Building 7-Phase Revenue Model — Cold → Customer Bridge → Upsells"
+      dominios_dsp:
+        - "funnel-architecture"
+        - "conversion-psychology"
+        - "retargeting-hierarchy"
+        - "revenue-funnel-design"
       insight_ids:
         - "JH-HEU-013"  # $1 MRR = $50-80 Enterprise Value
         - "JH-HEU-018"  # $2M+ EBITDA para IB Exit
@@ -440,6 +485,18 @@ dna_sources:
           path_raiz: "/knowledge/external/sources/jeremy-haynes/raw/client-accelerator/"
           tipo: "course"
           data_processamento: "2026-03-03"
+        - titulo: "Digital Marketing Manuscript (DMM)"
+          path_raiz: "/knowledge/external/sources/jeremy-haynes/raw/digital-marketing-manuscript/"
+          tipo: "book"
+          data_processamento: "2026-03-22"
+          elementos: 15
+          dominios: ["pricing", "sales", "revenue-model", "deep-selling", "conviction-selling"]
+        - titulo: "Digital Skill Pack (DSP)"
+          path_raiz: "/knowledge/external/sources/jeremy-haynes/raw/digital-skill-pack/"
+          tipo: "course"
+          data_processamento: "2026-03-22"
+          elementos: 15
+          dominios: ["funnel-architecture", "conversion-psychology", "retargeting-hierarchy", "revenue-funnel-design"]
 
     - pessoa: "flcr"
       path: "/knowledge/external/dna/persons/flcr"
@@ -1086,6 +1143,40 @@ resolucao_de_conflitos:
             - "Social Proof Engineering: designing proof systems at scale"
             - "Ethical Influence: sustainable persuasion that builds trust"
             - "Decision Science: understanding how buyers make decisions across funnel stages"
+
+    - pessoa: "jon-benson"
+      path: "/knowledge/external/dna/persons/jon-benson"
+      raiz: "/knowledge/external/sources/jon-benson/raw/"
+      dominios_usados:
+        - "persuasion-fundamentals"
+        - "hex-framework"
+        - "empathy-copywriting"
+        - "samurai-close"
+        - "tsunami-close"
+        - "word-alchemy"
+        - "speedwriting"
+        - "vsl-conversion"
+        - "offer-construction"
+        - "desire-psychology"
+        - "pricing-psychology"
+      peso: 0.80
+      quando_usar: "Conversion copy architecture, funnel closing strategy, objection neutralization via Samurai Q&A, layered close sequences (Tsunami), VSL conversion optimization, empathy-driven funnel messaging, HEX framework for every funnel touchpoint"
+      justificativa: "CRO maximizes revenue across every funnel stage — Jon Benson's TCB provides the persuasion architecture (HEX), the objection system (Samurai Q&A), and the close infrastructure (Tsunami Close) that directly impact conversion rates"
+      added: "2026-03-23"
+      insight_ids: []
+      chunk_ids: []
+      materiais_fonte:
+        - titulo: "The Copywriter Blueprint (TCB)"
+          path_raiz: "/knowledge/external/sources/jon-benson/raw/"
+          tipo: "course"
+          data_processamento: "2026-03-23"
+          insights_principais:
+            - "HEX Framework: Hook/Emotion/Xtra Value — conversion-optimized copy structure"
+            - "Samurai Q&A: objection neutralization through strategic question sequencing"
+            - "Tsunami Close: multi-layer urgency and value stack close for high-ticket conversions"
+            - "Empathy Copywriting: conversion through emotional mirroring before the pitch"
+            - "Word Alchemy: power word substitution to increase conversion copy response rates"
+            - "Speedwriting: systematic high-volume copy production for A/B testing at scale"
 
 # ═══════════════════════════════════════════════════════════════════════════════
 # PROTOCOLO DE RACIOCINIO

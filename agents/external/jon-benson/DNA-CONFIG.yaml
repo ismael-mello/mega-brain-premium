@@ -1,0 +1,141 @@
+# DNA-CONFIG: Jon Benson
+# Tipo: SOLO (single person)
+# Versao: 1.0.0
+# Criado: 2026-03-22
+
+metadata:
+  agent_type: "SOLO"
+  person: "Jon Benson"
+  version: "4.0.0"
+  created: "2026-03-22"
+  updated: "2026-03-23"
+
+dna_sources:
+  - person: "jon-benson"
+    weight: 1.0
+    path: "knowledge/external/dna/persons/jon-benson/DNA.yaml"
+    raiz: "knowledge/external/sources/jon-benson/raw/"
+    domains:
+      - vsl-copywriting
+      - video-sales-letters
+      - persuasion-psychology
+      - nlp-selling
+      - direct-response
+      - offer-construction
+      - storytelling-for-sales
+      - pattern-interrupts
+      - conversion-optimization
+      - ai-copywriting
+      - prompt-engineering
+      - funnel-design
+      - pricing-psychology
+      - community-building
+      - attention-engineering
+      - dimensionalization
+      - product-creation
+      - traffic-strategy
+      - media-buying
+      - facebook-traffic
+      - youtube-traffic
+      - seo
+      - affiliate-marketing
+      - list-building
+      - checkout-optimization
+      - neuroscience-marketing
+      - lead-generation
+    materiais_fonte:
+      - id: "3XVSL"
+        title: "3X VSL Formula"
+        type: "COURSE"
+        files: 120
+        size_mb: 2.5
+        status: "PROCESSED"
+        date_processed: "2026-03-22"
+        sections:
+          - "Section 1: The USP Factory"
+          - "Section 2: The 1-2-3 Formula"
+          - "Section 3: The 5-Step VSL Process"
+          - "Section 4: Recording & Uploading"
+          - "Bonus: The Connection Zone"
+      - id: "CVSL"
+        title: "Chat VSL"
+        type: "COURSE"
+        files: 30
+        size_mb: 0.6
+        status: "PROCESSED"
+        date_processed: "2026-03-22"
+        sections:
+          - "01: Getting Started"
+          - "02-04: Building Your Buyers Roadmap (3 Parts)"
+          - "05: Snap Suggestion - Pattern Interrupt and Lead"
+          - "06: Vital Connection - Nightmare Story"
+          - "07: Big Problem - Negative Hook"
+          - "08: Bigger Solution - Positive Hook"
+          - "09: Grand Offer - Perfect Pitch"
+          - "10: Prompts and Assets"
+          - "11: Bonus Training (Q&A, Metabolic Dissection, $100M Funnel, YouTube Ads)"
+      - id: "3XBONUS-100M"
+        title: "100M Conversion Secrets"
+        type: "WORKSHOP"
+        files: 17
+        size_mb: 0.34
+        status: "PROCESSED"
+        date_processed: "2026-03-23"
+        sections:
+          - "Live workshop at Boardroom event (6 videos, 17 parts)"
+        speakers: ["Jon Benson", "Brian Kurtz"]
+      - id: "3XBONUS-28DAY"
+        title: "28-Day Product Creation Formula"
+        type: "COURSE"
+        files: 7
+        size_mb: 0.49
+        status: "PROCESSED"
+        date_processed: "2026-03-23"
+        sections:
+          - "Week 1: Topic Selection & Research"
+          - "Week 2: Outline & Writing"
+          - "Week 3: Recording & Outsourcing"
+          - "Week 4: Launch & Monetization (Miles Baker - ClickBank)"
+        speakers: ["Jon Benson", "Miles Baker"]
+      - id: "3XBONUS-FT"
+        title: "3X VSL Fast Track"
+        type: "WORKSHOP"
+        files: 5
+        size_mb: 0.10
+        status: "PROCESSED"
+        date_processed: "2026-03-23"
+        sections:
+          - "Accelerated VSL creation workshop (2 videos)"
+      - id: "3XBONUS-TP"
+        title: "Traffic Pros"
+        type: "NEWSLETTER"
+        files: 19
+        size_mb: 0.79
+        status: "PROCESSED"
+        date_processed: "2026-03-23"
+        sections:
+          - "10 issues covering Facebook, YouTube, SEO, Banner, Email traffic"
+        speakers: ["Jon Benson", "Bret Gregory", "Dan Rose", "Dean Jackson", "Nate Mohr", "Keith Baxter", "Jeff Johnson"]
+
+      - id: "TCB"
+        title: "The Copywriter Blueprint"
+        type: "COURSE"
+        files: 67
+        size_mb: 2.68
+        status: "PROCESSED"
+        date_processed: "2026-03-23"
+        sections:
+          - "Sessions 01-02: Empathy Formula, Love Letter Marketing, Persuasion Quadrant, Word Alchemy"
+          - "Sessions 03-04: The Hex Side 1 (Avatars, Complaints, Rapport), Speedwriting"
+          - "Sessions 05-06: The Hex Side 2 (Mistaken Beliefs, Enemy, Primary Cause)"
+          - "Sessions 07-08: The Hex Side 3 (Goals, Future Pacing, NLP)"
+          - "Sessions 09-10: The Hex Side 4 (False Solutions, Primary Solution, Unique Mechanism)"
+          - "Sessions 11-12: The Hex Side 5 (USPs, Sales Bullets, Testimonials, Triple Guarantee)"
+          - "Sessions 13-14: The Hex Side 6 (CTAs, Tsunami Close, Samurai PS/Q&A)"
+          - "Sessions 15-16: Advanced Q&A, Ethics, Print Ads, CopyPro Academy"
+          - "Bonus: CopyPro Session, Love Letter Marketing Essay, 4-Day Thyroid VSL Example"
+        speakers: ["Jon Benson"]
+        elements_extracted: 338
+
+# Resolucao de conflitos: N/A (mesmo autor, fontes complementares)
+# Peso: 1.0 (SOLO agent — sem ponderacao)

@@ -1,0 +1,1981 @@
+# DNA Cognitivo: Jon Benson
+# Fontes: 3XVSL + CVSL + 3XBONUS + TCB (The Copywriter Blueprint)
+# Versao: v4.0.0
+# Elementos: 884
+# Ultima atualizacao: 2026-03-23
+
+metadata:
+  person: "Jon Benson"
+  version: "4.0.0"
+  total_elements: 884
+  sources: 7
+  last_updated: "2026-03-23"
+  next_ids:
+    L1_PHILOSOPHIES: "FIL-JB-592"
+    L2_MENTAL_MODELS: "MM-JB-586"
+    L3_HEURISTICS: "HEUR-JB-626"
+    L4_FRAMEWORKS: "FW-JB-586"
+    L5_METHODOLOGIES: "MET-JB-548"
+
+layers:
+  L1_PHILOSOPHIES:
+      - id: "FIL-JB-001"
+        title: "USP as Foundation"
+        description: "If you do not get your USP right, everything crumbles. The USP is the single most important element of any sales message."
+        domains: ["copywriting", "vsl-creation", "positioning"]
+        source: "3XVSL"
+      - id: "FIL-JB-002"
+        title: "Sell Wants Not Needs"
+        description: "Sell what people want, not what you think people need. The market decides what matters, not the marketer."
+        domains: ["sales-psychology", "offer-design", "market-awareness"]
+        source: "3XVSL"
+      - id: "FIL-JB-003"
+        title: "USP Through Buyer Eyes"
+        description: "Your true USP is best defined as how your buyers view your business, not how you view it yourself."
+        domains: ["positioning", "market-awareness", "brand-perception"]
+        source: "3XVSL"
+      - id: "FIL-JB-004"
+        title: "Freedom as Core Craving"
+        description: "People crave freedom more than anything. Freedom from pain, freedom from limitation, freedom to live the life they want."
+        domains: ["sales-psychology", "persuasion", "human-motivation"]
+        source: "3XVSL"
+      - id: "FIL-JB-005"
+        title: "Enter the Existing Conversation"
+        description: "Enter a conversation already going on in your prospect's mind. Never start a new conversation — join the one they are already having internally."
+        domains: ["copywriting", "market-awareness", "persuasion"]
+        source: "3XVSL"
+      - id: "FIL-JB-006"
+        title: "Expert from Necessity"
+        description: "Your job is to convince readers you are only slightly better off than they are. Expert from necessity, not from superiority."
+        domains: ["authority-building", "rapport", "storytelling"]
+        source: "3XVSL"
+      - id: "FIL-JB-007"
+        title: "Fear Breeds Attention"
+        description: "Fear breeds attention. The human brain is wired to pay more attention to threats than rewards. Use this ethically in marketing."
+        domains: ["sales-psychology", "attention-capture", "persuasion"]
+        source: "3XVSL"
+      - id: "FIL-JB-008"
+        title: "Decision to Desire Transformation"
+        description: "The core selling transformation is moving prospects from Decision mode to Desire mode. Decision mode is logical resistance; Desire mode is emotional openness."
+        domains: ["sales-psychology", "vsl-creation", "persuasion"]
+        source: "3XVSL"
+      - id: "FIL-JB-009"
+        title: "Bonding Through Feeling"
+        description: "You bond through feeling, not through logic. Emotional connection precedes intellectual agreement in every sale."
+        domains: ["rapport", "storytelling", "sales-psychology"]
+        source: "3XVSL"
+      - id: "FIL-JB-010"
+        title: "Emotional Buying, Logical Justification"
+        description: "People buy emotionally, justify logically. 85% of buying decisions are emotional. The 15% logical is post-purchase rationalization."
+        domains: ["sales-psychology", "persuasion", "buyer-behavior"]
+        source: "3XVSL"
+      - id: "FIL-JB-011"
+        title: "Reciprocity Through Free Value"
+        description: "When you deliver benefits for free, prospects want to reciprocate. Give real value in the VSL and the sale becomes natural."
+        domains: ["persuasion", "reciprocity", "vsl-creation"]
+        source: "3XVSL"
+      - id: "FIL-JB-012"
+        title: "Their Dream Not Yours"
+        description: "Don't give your dream, give THEIR dream. The prospect's vision of success is the only one that matters in the sales message."
+        domains: ["copywriting", "market-awareness", "empathy"]
+        source: "3XVSL"
+      - id: "FIL-JB-013"
+        title: "Grand Offer as Make or Break"
+        description: "If you fail at the grand offer, the video fails. Everything in the VSL leads to and supports the grand offer."
+        domains: ["offer-design", "vsl-creation", "closing"]
+        source: "3XVSL"
+      - id: "FIL-JB-014"
+        title: "Position as Done-For-You"
+        description: "Position product as having done the work for them. Buyers want the shortcut, the done path, the already-figured-out solution."
+        domains: ["offer-design", "positioning", "value-framing"]
+        source: "3XVSL"
+      - id: "FIL-JB-015"
+        title: "Exclusivity as Desire Driver"
+        description: "Everyone wants to be a member of an exclusive club. Exclusivity signals value and triggers belonging desire."
+        domains: ["sales-psychology", "scarcity", "community"]
+        source: "3XVSL"
+      - id: "FIL-JB-016"
+        title: "VSL as Psychological Journey"
+        description: "VSL is a psychological journey, not a sales pitch. Each section transitions the prospect's emotional state toward readiness to buy."
+        domains: ["vsl-creation", "sales-psychology", "persuasion"]
+        source: "3XVSL"
+      - id: "FIL-JB-017"
+        title: "Invisible Selling"
+        description: "The best copy is when the reader doesn't know they're being sold to. Seamless integration of selling into valuable content."
+        domains: ["copywriting", "persuasion", "vsl-creation"]
+        source: "3XVSL"
+      - id: "FIL-JB-018"
+        title: "Rapport Before Pitch"
+        description: "Rapport before pitch. Always. Without emotional connection, no logical argument will land."
+        domains: ["rapport", "sales-psychology", "vsl-structure"]
+        source: "3XVSL"
+      - id: "FIL-JB-019"
+        title: "Stories Sell, Facts Tell"
+        description: "Stories create emotional engagement that facts alone cannot. Stories are the vehicle that carries the sale."
+        domains: ["storytelling", "copywriting", "persuasion"]
+        source: "3XVSL"
+      - id: "FIL-JB-020"
+        title: "Specificity Creates Believability"
+        description: "Specific details make stories believable. Dates, weather, clothing, location — the more specific, the more real it feels."
+        domains: ["storytelling", "copywriting", "credibility"]
+        source: "3XVSL"
+      - id: "FIL-JB-021"
+        title: "You is the Most Powerful Word"
+        description: "The word 'You' is the most powerful word in copy. It makes every sentence personal and direct."
+        domains: ["copywriting", "persuasion", "engagement"]
+        source: "3XVSL"
+      - id: "FIL-JB-022"
+        title: "Cause Over Effect"
+        description: "Address the cause of the problem, not just the symptoms. Prospects are tired of band-aid solutions."
+        domains: ["problem-framing", "positioning", "sales-psychology"]
+        source: "3XVSL"
+      - id: "FIL-JB-023"
+        title: "Open Loops Drive Action"
+        description: "Create curiosity gaps that can only be closed by purchasing the product. Open loops are the engine of engagement."
+        domains: ["persuasion", "engagement", "vsl-creation"]
+        source: "3XVSL"
+      - id: "FIL-JB-024"
+        title: "Three Universal Cravings"
+        description: "People crave three things above all else: freedom, release from pain, and love. All effective copy taps into at least one."
+        domains: ["human-motivation", "sales-psychology", "copywriting"]
+        source: "3XVSL"
+      - id: "FIL-JB-025"
+        title: "Conspiracy Amplifies Engagement"
+        description: "A conspiracy (Big Lie) creates a common enemy bigger than the individual problem. It shifts blame and builds solidarity with the prospect."
+        domains: ["persuasion", "problem-framing", "engagement"]
+        source: "3XVSL"
+      - id: "FIL-JB-026"
+        title: "Never Assume Reader Thinking"
+        description: "Never assume what the reader is thinking. Use the 'may or' technique to offer multiple entry points into agreement."
+        domains: ["copywriting", "empathy", "persuasion"]
+        source: "3XVSL"
+      - id: "FIL-JB-027"
+        title: "Paraphrase Cycle for Retention"
+        description: "Paraphrase key points every 5-15 slides. Repetition through variation ensures the message sticks without boring the viewer."
+        domains: ["vsl-creation", "engagement", "retention"]
+        source: "3XVSL"
+      - id: "FIL-JB-028"
+        title: "Tips Build Trust Bridges"
+        description: "Free tips in the VSL build trust bridges that make the eventual pitch feel earned, not forced."
+        domains: ["reciprocity", "trust-building", "vsl-creation"]
+        source: "3XVSL"
+      - id: "FIL-JB-029"
+        title: "Nightmare Before Dream"
+        description: "Always establish the nightmare before painting the dream. Pain creates the vacuum that desire fills."
+        domains: ["storytelling", "sales-psychology", "vsl-structure"]
+        source: "3XVSL"
+      - id: "FIL-JB-030"
+        title: "Numbers Are Magical"
+        description: "Numbers are magical in headlines and promises. They create specificity, credibility, and a sense of concreteness."
+        domains: ["copywriting", "headlines", "credibility"]
+        source: "3XVSL"
+      - id: "FIL-JB-031"
+        title: "Pattern Interrupt Resets Attention"
+        description: "Breaking expected patterns resets the prospect's attention clock. Pattern interrupts are not gimmicks — they are attention management."
+        domains: ["attention-capture", "vsl-creation", "engagement"]
+        source: "3XVSL"
+      - id: "FIL-JB-032"
+        title: "Inclusion Over Exclusion in Copy"
+        description: "Inclusion statements build social proof subconsciously. People want to feel they are part of the majority who are making smart choices."
+        domains: ["social-proof", "persuasion", "copywriting"]
+        source: "3XVSL"
+      - id: "FIL-JB-033"
+        title: "Video Scarcity Creates Urgency"
+        description: "Framing the VSL itself as scarce (limited availability, may be taken down) increases engagement and watch-through rates."
+        domains: ["scarcity", "engagement", "vsl-creation"]
+        source: "3XVSL"
+      - id: "FIL-JB-034"
+        title: "Savvy Buyer Positioning"
+        description: "Position the buyer as savvy and intelligent for choosing your solution. People buy identities, not just products."
+        domains: ["buyer-psychology", "positioning", "identity"]
+        source: "3XVSL"
+      - id: "FIL-JB-035"
+        title: "Not Your Fault Absolution"
+        description: "Absolving the prospect of blame for their current situation opens them to the solution. Blame creates defensiveness; absolution creates receptivity."
+        domains: ["sales-psychology", "persuasion", "rapport"]
+        source: "3XVSL"
+      - id: "FIL-JB-036"
+        title: "Tire Kicker Elimination Builds Trust"
+        description: "Telling unqualified prospects to leave (if you want magic pill, leave) paradoxically builds trust and exclusivity with qualified buyers."
+        domains: ["trust-building", "qualification", "persuasion"]
+        source: "3XVSL"
+      - id: "FIL-JB-037"
+        title: "Hero Study as Proof Engine"
+        description: "Analyzing experts' patterns and showing that 'their success can be your success' creates aspirational proof without self-aggrandizing."
+        domains: ["social-proof", "authority-building", "storytelling"]
+        source: "3XVSL"
+      - id: "FIL-JB-038"
+        title: "Two Choices Close Psychology"
+        description: "Presenting two choices (do nothing and suffer vs. take action now) reframes the buying decision from 'should I?' to 'which path?'"
+        domains: ["closing", "persuasion", "decision-framing"]
+        source: "3XVSL"
+      - id: "FIL-JB-039"
+        title: "Subliminal Anchoring Through Color"
+        description: "Red text on key words (Decide, Freedom, Secret, Now) creates subliminal anchoring that reinforces urgency and desire."
+        domains: ["vsl-creation", "persuasion", "visual-psychology"]
+        source: "3XVSL"
+      - id: "FIL-JB-040"
+        title: "Future Pacing as Present Tense"
+        description: "Walk prospects into the future using present tense as if it has already happened. Future pacing collapses the gap between desire and reality."
+        domains: ["persuasion", "storytelling", "sales-psychology"]
+        source: "3XVSL"
+      - id: "FIL-JB-041"
+        title: "With Without Creates Strongest Desire"
+        description: "The with/without comparison creates the strongest close desire because it makes the cost of inaction visceral and real."
+        domains: ["closing", "comparison", "persuasion"]
+        source: "3XVSL"
+      - id: "FIL-JB-042"
+        title: "Avoid Word But"
+        description: "Avoid the word 'but' as it negates everything before it. Use 'yet', 'however', 'and' instead to maintain positive momentum."
+        domains: ["copywriting", "linguistics", "persuasion"]
+        source: "3XVSL"
+      - id: "FIL-JB-043"
+        title: "Even If as Objection Killer"
+        description: "The 'Even If' technique pre-emptively handles objections before they form. It removes excuses before the prospect can voice them."
+        domains: ["objection-handling", "copywriting", "persuasion"]
+        source: "3XVSL"
+      - id: "FIL-JB-044"
+        title: "All Four Buyer Types"
+        description: "Only speaking to one buyer modality means losing 75% of your audience. Every VSL must address all four: Why, What, How-To, What-If."
+        domains: ["buyer-psychology", "vsl-creation", "persuasion"]
+        source: "3XVSL"
+      - id: "FIL-JB-045"
+        title: "Declaration of Independence Moment"
+        description: "Every nightmare story must have a Declaration of Independence — the moment the protagonist decides 'enough is enough' and commits to change."
+        domains: ["storytelling", "transformation", "engagement"]
+        source: "3XVSL"
+      # === CHAT VSL (CVSL) — 25 new philosophies ===
+      - id: "FIL-JB-046"
+        title: "AI is Rewriter Not Writer"
+        description: "AI is a better rewriter than it is a writer. The key insight is using AI to refine and enhance human-created frameworks, not to generate copy from scratch."
+        domains: ["ai-copywriting", "workflow-design", "copy-quality"]
+        source: "CVSL"
+      - id: "FIL-JB-047"
+        title: "Pre-Prompting Supremacy"
+        description: "Pre-prompting and formula is super important. If you don't do that, you're not going to get the quality of output that you want. The data you feed AI before prompting determines 80% of output quality."
+        domains: ["ai-copywriting", "prompt-engineering", "systems-thinking"]
+        source: "CVSL"
+      - id: "FIL-JB-048"
+        title: "Chunked Creativity Principle"
+        description: "If I give you too much to think about, if I ask you to create too much all at once, you're going to be less creative than if I ask you to create in chunks and blocks. Break creative work into focused segments."
+        domains: ["ai-copywriting", "creativity", "workflow-design"]
+        source: "CVSL"
+      - id: "FIL-JB-049"
+        title: "Movie Scripts for AI"
+        description: "Chat has read tons and tons of movie scripts. It has not read tons and tons of video sales letters. Prompt AI using formats it knows well (movie scenes) to get VSL-quality output."
+        domains: ["ai-copywriting", "prompt-engineering", "pattern-interrupt"]
+        source: "CVSL"
+      - id: "FIL-JB-050"
+        title: "Editing as Core Skill"
+        description: "Editing is one of the most important parts of copywriting in general. The ability to refine, cut, and dimensionalize copy separates professionals from amateurs."
+        domains: ["copywriting", "quality-assurance", "skill-development"]
+        source: "CVSL"
+      - id: "FIL-JB-051"
+        title: "Soft Selling is Unethical"
+        description: "If you believe in your product, selling softly is actually unethical. You owe it to your prospect to make the strongest possible case for transformation."
+        domains: ["sales-ethics", "persuasion", "conviction"]
+        source: "CVSL"
+      - id: "FIL-JB-052"
+        title: "80% After First Pitch"
+        description: "80% of your sales happen after the first pitch. Most marketers give up too early. Keep writing long after the first CTA — the real selling happens in the second half."
+        domains: ["closing", "persistence", "vsl-structure"]
+        source: "CVSL"
+      - id: "FIL-JB-053"
+        title: "Community Drives Purchase"
+        description: "People buy things because they want to be a part of something. Inclusion — making the buyer feel they are joining a tribe — is one of the most powerful sales levers."
+        domains: ["sales-psychology", "community-building", "belonging"]
+        source: "CVSL"
+      - id: "FIL-JB-054"
+        title: "Dimensionalization as Quality Metric"
+        description: "Dimensionalization means: can I see this? Can I feel it when I read it? If the copy doesn't create a vivid mental picture, it's not dimensional enough."
+        domains: ["copywriting", "sensory-writing", "quality-assurance"]
+        source: "CVSL"
+      - id: "FIL-JB-055"
+        title: "AI Verification Mandatory"
+        description: "Chat can lie. Always double-check Chat's facts. Never trust AI output without human verification, especially for claims, statistics, and testimonials."
+        domains: ["ai-copywriting", "quality-assurance", "fact-checking"]
+        source: "CVSL"
+      - id: "FIL-JB-056"
+        title: "Systems Over Memorization"
+        description: "The future is having somebody talk to AI for you. Don't memorize prompts — build systems. The prompt library is a machine, not a checklist."
+        domains: ["ai-copywriting", "systems-thinking", "automation"]
+        source: "CVSL"
+      - id: "FIL-JB-057"
+        title: "Hands on Steering Wheel"
+        description: "Just because chat can write copy doesn't mean you should take your hands off the steering wheel. AI is Tesla autopilot — you still need to be alert and ready to intervene."
+        domains: ["ai-copywriting", "quality-assurance", "human-ai-collaboration"]
+        source: "CVSL"
+      - id: "FIL-JB-058"
+        title: "Open Loops Must Close"
+        description: "Every open loop you create must be closed before the end of the VSL. Unclosed loops create frustration, not curiosity. The art is opening them strategically and closing them at peak moments."
+        domains: ["vsl-structure", "engagement", "narrative-design"]
+        source: "CVSL"
+      - id: "FIL-JB-059"
+        title: "More Data Less Hallucination"
+        description: "The more data you give AI, the less it has to create on the fly and the better the copy that surrounds it can be. Data richness is the antidote to AI hallucination."
+        domains: ["ai-copywriting", "prompt-engineering", "data-quality"]
+        source: "CVSL"
+      - id: "FIL-JB-060"
+        title: "No Exclamation Marks Ever"
+        description: "Exclamation marks scream desperation. Professional copy never uses them. Every VSL prompt explicitly instructs: no exclamation marks, no ALL CAPS, no hype language."
+        domains: ["copywriting", "tone-control", "professionalism"]
+        source: "CVSL"
+      - id: "FIL-JB-061"
+        title: "Anchor Object Continuity"
+        description: "A physical anchor object (box, rock, ticket, hospital gown) introduced in the pattern interrupt must reappear throughout the VSL. It creates subconscious continuity and emotional recall."
+        domains: ["nlp-selling", "storytelling", "pattern-interrupt"]
+        source: "CVSL"
+      - id: "FIL-JB-062"
+        title: "Permission to Be Noticed"
+        description: "The hero must give the prospect psychological permission to succeed. N3 in the attention framework — the prospect needs to feel they DESERVE the transformation before they'll buy it."
+        domains: ["sales-psychology", "rapport", "transformation"]
+        source: "CVSL"
+      - id: "FIL-JB-063"
+        title: "Modest Introduction Principle"
+        description: "Your job is to convince readers you are only slightly better off than they are. Expert from necessity, not from superiority. The modest hero is more persuasive than the guru."
+        domains: ["authority-building", "rapport", "trust"]
+        source: "CVSL"
+      - id: "FIL-JB-064"
+        title: "Formula Beats Freestyle in AI"
+        description: "With AI copywriting, formula-driven prompting produces 10x better results than open-ended requests. The formula constrains AI creativity into productive channels."
+        domains: ["ai-copywriting", "prompt-engineering", "systems-thinking"]
+        source: "CVSL"
+      - id: "FIL-JB-065"
+        title: "Hyperlink Plus Button Always"
+        description: "30% of buyers click hyperlinks instead of buttons. Always include both a button AND a text hyperlink for every CTA. Never assume everyone clicks the same way."
+        domains: ["conversion-optimization", "ux-design", "cta-strategy"]
+        source: "CVSL"
+      - id: "FIL-JB-066"
+        title: "Unique Mechanism Naming Art"
+        description: "Hook names must be 3-4 words, Title Case, mysterious and scientific-sounding. Examples: Metabolic Adaptation, Leptin Resistance, Blank Page Paralysis, Opposition Obedience. The name IS the sale."
+        domains: ["offer-construction", "branding", "copywriting"]
+        source: "CVSL"
+      - id: "FIL-JB-067"
+        title: "In-Context Training Over Rigid Prompts"
+        description: "Pre-prompts are so much cooler than prompts. Instead of telling AI WHAT to write with rigid instructions, show it 2-3 examples and let it learn the PATTERN. Two-shot training produces more natural copy."
+        domains: ["ai-copywriting", "prompt-engineering", "nlp-selling"]
+        source: "CVSL"
+      - id: "FIL-JB-068"
+        title: "VSL Revenue Proof: $4 Billion+"
+        description: "My VSL formula has sold over $4 billion for my customers. The Metabolic Sherpa VSL alone has generated $50 million and is still running since 2015. Results prove methodology."
+        domains: ["social-proof", "vsl-copywriting", "credibility"]
+        source: "CVSL"
+      - id: "FIL-JB-069"
+        title: "90 Seconds of Desire"
+        description: "Immediately after the pattern interrupt, you need 90 seconds of pure desire — a benefit stack so vivid the prospect is physically leaning forward. No selling yet, just want-creation."
+        domains: ["vsl-structure", "persuasion", "engagement"]
+        source: "CVSL"
+      - id: "FIL-JB-070"
+        title: "Three Choices Close"
+        description: "Every offer presentation must give exactly 3 choices: (1) Do nothing and stay stuck, (2) Try to figure it out alone (expensive), (3) Take the smart path with this offer. Choice architecture makes buying feel logical."
+        domains: ["closing", "offer-design", "decision-architecture"]
+        source: "CVSL"
+
+  L2_MENTAL_MODELS:
+      - id: "MM-JB-001"
+        title: "Three States of Mind"
+        description: "Prospects move through 3 mental states: Disbelief (skeptical wall) -> Decision (weighing options logically) -> Desire (emotional readiness to act). The VSL must guide them through all three."
+        domains: ["sales-psychology", "buyer-journey", "vsl-creation"]
+        source: "3XVSL"
+      - id: "MM-JB-002"
+        title: "Expert Paradox"
+        description: "Must demonstrate expertise while maintaining relatability. Too much authority creates distance; too little loses credibility. The sweet spot is 'expert from necessity' — someone who found answers through their own struggle."
+        domains: ["authority-building", "rapport", "positioning"]
+        source: "3XVSL"
+      - id: "MM-JB-003"
+        title: "Conspiracy Cycle"
+        description: "A bigger enemy (conspiracy/Big Lie) is more powerful than an individual problem. It shifts blame from the prospect, creates solidarity, and makes the solution feel like a revelation rather than a purchase."
+        domains: ["persuasion", "problem-framing", "engagement"]
+        source: "3XVSL"
+      - id: "MM-JB-004"
+        title: "Open Loop Psychology"
+        description: "Create curiosity gaps (open loops) that can only be closed by purchasing the product. The brain craves completion — unresolved loops create psychological tension that drives action."
+        domains: ["engagement", "persuasion", "retention"]
+        source: "3XVSL"
+      - id: "MM-JB-005"
+        title: "Pattern Interrupt Receptivity"
+        description: "Breaking expected patterns (visual or linguistic) resets the prospect's attention and increases receptivity to new information. Pattern interrupts bypass the brain's auto-pilot filtering."
+        domains: ["attention-capture", "vsl-creation", "engagement"]
+        source: "3XVSL"
+      - id: "MM-JB-006"
+        title: "Future Pacing Model"
+        description: "Walking prospects into their future as if it has already happened makes the desired outcome feel real and achievable. Present tense future pacing collapses temporal distance."
+        domains: ["persuasion", "storytelling", "visualization"]
+        source: "3XVSL"
+      - id: "MM-JB-007"
+        title: "Inclusion Psychology"
+        description: "People want to be part of the majority making smart decisions. Inclusion statements (thousands have already, you're not alone) trigger belonging instinct and reduce perceived risk."
+        domains: ["social-proof", "persuasion", "community"]
+        source: "3XVSL"
+      - id: "MM-JB-008"
+        title: "Cause Over Effect Thinking"
+        description: "Addressing the root cause of a problem rather than symptoms positions you as the deep expert. Prospects are tired of surface-level solutions and respond to someone who understands the real source."
+        domains: ["problem-framing", "positioning", "credibility"]
+        source: "3XVSL"
+      - id: "MM-JB-009"
+        title: "Emotional Anchoring"
+        description: "Bind specific emotions to product features through story. When a prospect hears a story that triggers emotion, that emotion gets anchored to whatever comes next — ideally your product."
+        domains: ["sales-psychology", "storytelling", "persuasion"]
+        source: "3XVSL"
+      - id: "MM-JB-010"
+        title: "Tips as Funnel"
+        description: "Tips build progressively toward the product as the unified solution. Each tip solves a piece; the product solves everything. The funnel makes the pitch feel like a natural conclusion."
+        domains: ["vsl-structure", "reciprocity", "persuasion"]
+        source: "3XVSL"
+      - id: "MM-JB-011"
+        title: "Nightmare-Dream Emotional Arc"
+        description: "The nightmare story creates emotional low point; the dream story creates emotional high. The distance between the two is the perceived value of your solution."
+        domains: ["storytelling", "emotional-design", "vsl-structure"]
+        source: "3XVSL"
+      - id: "MM-JB-012"
+        title: "Buyer Modality Spectrum"
+        description: "Four types of buyers exist: Why buyers (need reason), What buyers (need information), How-To buyers (need process), What-If buyers (need possibility). Missing any one loses 25% of audience."
+        domains: ["buyer-psychology", "copywriting", "market-awareness"]
+        source: "3XVSL"
+      - id: "MM-JB-013"
+        title: "Reciprocity Ladder"
+        description: "Each free tip climbs a reciprocity ladder. By the time the pitch arrives, the prospect feels psychologically indebted. The product becomes the natural way to 'even the score.'"
+        domains: ["reciprocity", "persuasion", "trust-building"]
+        source: "3XVSL"
+      - id: "MM-JB-014"
+        title: "Scarcity-Value Equation"
+        description: "Perceived value increases proportionally with perceived scarcity. Video scarcity (may be taken down), time scarcity (limited offer), and access scarcity (exclusive group) all multiply perceived worth."
+        domains: ["scarcity", "value-framing", "urgency"]
+        source: "3XVSL"
+      - id: "MM-JB-015"
+        title: "Declaration Moment"
+        description: "Every transformation story requires a 'Declaration of Independence' moment — the point where the protagonist decides everything changes. This mirrors the prospect's own decision to buy."
+        domains: ["storytelling", "transformation", "buyer-journey"]
+        source: "3XVSL"
+      - id: "MM-JB-016"
+        title: "Blame Shifting as Rapport"
+        description: "Shifting blame from the prospect to an external enemy (industry, system, establishment) creates instant rapport. It says 'I understand and it's not your fault' simultaneously."
+        domains: ["rapport", "persuasion", "problem-framing"]
+        source: "3XVSL"
+      - id: "MM-JB-017"
+        title: "Comparison as Closing Mechanism"
+        description: "Comparisons (competition, with/without, general, specific-to-tip) are closing mechanisms disguised as information. Each type of comparison eliminates a different category of objection."
+        domains: ["closing", "objection-handling", "comparison"]
+        source: "3XVSL"
+      - id: "MM-JB-018"
+        title: "Let's Make a Deal Framing"
+        description: "Framing the VSL as a mutual exchange (I'll give you value, you give me attention) creates a micro-commitment at the start that increases watch-through rates."
+        domains: ["engagement", "commitment", "vsl-structure"]
+        source: "3XVSL"
+      - id: "MM-JB-019"
+        title: "Subliminal Command Architecture"
+        description: "Red-highlighted words, action drops (Today, Now, Listen), and anchor drops (yet, because, guess what) create a subliminal command layer beneath the conscious narrative."
+        domains: ["persuasion", "visual-psychology", "vsl-creation"]
+        source: "3XVSL"
+      - id: "MM-JB-020"
+        title: "Moral as Mini Close"
+        description: "The moral of the nightmare story is a mini close — it seeds the solution before the explicit pitch. It bridges story to sell without breaking the narrative spell."
+        domains: ["storytelling", "closing", "vsl-structure"]
+        source: "3XVSL"
+      - id: "MM-JB-021"
+        title: "General They vs Specific You"
+        description: "In dream stories, use general 'they' (people who use this) not specific 'you' (you will get this). General claims feel safer and more believable than direct promises."
+        domains: ["copywriting", "credibility", "persuasion"]
+        source: "3XVSL"
+      - id: "MM-JB-022"
+        title: "Identity Purchase Model"
+        description: "Buyers purchase identities, not products. They buy who they want to become. The product is the vehicle; the identity is the destination."
+        domains: ["buyer-psychology", "positioning", "identity"]
+        source: "3XVSL"
+      - id: "MM-JB-023"
+        title: "Pain-Pleasure Oscillation"
+        description: "The VSL oscillates between pain and pleasure points. This emotional oscillation prevents habituation and keeps engagement high throughout the entire video."
+        domains: ["engagement", "emotional-design", "vsl-creation"]
+        source: "3XVSL"
+      - id: "MM-JB-024"
+        title: "Q&A as Objection Mop"
+        description: "The Q&A section at the end of the Grand Offer is not informational — it is an objection mop that catches every remaining doubt the prospect might have."
+        domains: ["objection-handling", "closing", "vsl-structure"]
+        source: "3XVSL"
+      - id: "MM-JB-025"
+        title: "Focal Point as Turning Point"
+        description: "In the nightmare story, the Focal Point is the lowest moment — the rock bottom. It creates maximum empathy and makes the Declaration of Independence feel earned."
+        domains: ["storytelling", "emotional-design", "engagement"]
+        source: "3XVSL"
+      - id: "MM-JB-026"
+        title: "Vital Connection as Trust Bridge"
+        description: "The Vital Connection section creates the emotional bridge between the pattern interrupt opening and the problem section. Without it, the VSL feels like two disconnected halves."
+        domains: ["vsl-structure", "rapport", "trust-building"]
+        source: "3XVSL"
+      - id: "MM-JB-027"
+        title: "Follow the Leader Principle"
+        description: "Starting dream stories with 'Follow the Leader' (referencing authority figures who use similar approaches) creates aspirational credibility before making any personal claims."
+        domains: ["social-proof", "authority-building", "storytelling"]
+        source: "3XVSL"
+      - id: "MM-JB-028"
+        title: "Transition Phrase Architecture"
+        description: "Strategic transition phrases between VSL sections maintain flow and prevent the prospect from feeling section breaks. Smooth transitions keep the trance state intact."
+        domains: ["vsl-creation", "engagement", "copywriting"]
+        source: "3XVSL"
+      - id: "MM-JB-029"
+        title: "I've Done the Work for You"
+        description: "Positioning the product as having already done the research, testing, and organization for the buyer transforms price from cost into time saved."
+        domains: ["offer-design", "value-framing", "positioning"]
+        source: "3XVSL"
+      - id: "MM-JB-030"
+        title: "Linchpin Tip Strategy"
+        description: "The How-To tip (third tip) is the linchpin — it provides the most actionable value, creates the strongest reciprocity, and serves as the bridge to the product pitch."
+        domains: ["vsl-structure", "reciprocity", "persuasion"]
+        source: "3XVSL"
+      - id: "MM-JB-031"
+        title: "Heavy vs Light Comparisons"
+        description: "Heavy comparisons (competition, with/without) carry more emotional weight and should come first. Light comparisons (general, specific-to-tip) reinforce without pressure."
+        domains: ["comparison", "persuasion", "vsl-structure"]
+        source: "3XVSL"
+      - id: "MM-JB-032"
+        title: "Slide Readability Model"
+        description: "VSL slides must use Title Case and be scannable at a glance. The viewer is watching, not reading — every slide must communicate in 2-3 seconds."
+        domains: ["vsl-creation", "visual-design", "readability"]
+        source: "3XVSL"
+      - id: "MM-JB-033"
+        title: "Product Name as Anchor"
+        description: "Delaying the product name until the 'It's Called...' moment creates maximum curiosity and makes the reveal feel like a reward for watching."
+        domains: ["engagement", "vsl-structure", "branding"]
+        source: "3XVSL"
+      - id: "MM-JB-034"
+        title: "Actions and Results Close"
+        description: "The Actions/Results section of the Grand Offer shows what the buyer will DO and what they will GET, making the abstract product tangible and real."
+        domains: ["closing", "offer-design", "value-framing"]
+        source: "3XVSL"
+      - id: "MM-JB-035"
+        title: "Big Truth as Solution Seed"
+        description: "After the Big Lie (conspiracy), the Big Truth plants the seed of the real solution. It reframes the entire problem space and makes the product the obvious answer."
+        domains: ["persuasion", "problem-framing", "solution-framing"]
+        source: "3XVSL"
+      # === CHAT VSL (CVSL) — 20 new mental models ===
+      - id: "MM-JB-036"
+        title: "Buyer's Roadmap Pre-Prompting"
+        description: "Before writing any copy, build a complete Buyer's Roadmap: 12 data fields (niche, avatar, goals, complaints, promises, benefits, objections, fears, false solutions, mistaken beliefs, expensive alternatives) that feed every subsequent prompt."
+        domains: ["ai-copywriting", "market-research", "systems-thinking"]
+        source: "CVSL"
+      - id: "MM-JB-037"
+        title: "5-Step ChatVSL Formula"
+        description: "Complete VSL = 5 sequential steps: (1) Snap Suggestion (pattern interrupt + lead, ~1000w), (2) Vital Connection (nightmare story, ~1500w), (3) Big Problem (negative hook, ~500w), (4) Bigger Solution (positive hook + tips, ~800w), (5) Grand Offer (perfect pitch with 6 sub-parts, ~2200w). Total ~6000 words, ~40 minutes."
+        domains: ["vsl-structure", "copywriting", "methodology"]
+        source: "CVSL"
+      - id: "MM-JB-038"
+        title: "9 Attention Frames System"
+        description: "Nine attention frames that structure a VSL: N1 (first 7 seconds, notice the VSL), N2 (notice the hero), N3 (permission to be noticed), O1 (negative hook reveal), O2 (positive hook reveal), W3 (killer wants + works even if), plus 90 Seconds of Desire, future pacing, and NLP close."
+        domains: ["vsl-structure", "attention-engineering", "nlp-selling"]
+        source: "CVSL"
+      - id: "MM-JB-039"
+        title: "Dimensionalization Model"
+        description: "Copy quality is measured by one metric: can you SEE it and FEEL it? Dimensional copy creates vivid mental images. Flat copy just informs. The refiner prompt exists specifically to convert flat copy into dimensional copy."
+        domains: ["copywriting", "sensory-writing", "quality-metric"]
+        source: "CVSL"
+      - id: "MM-JB-040"
+        title: "Two-Shot In-Context Training"
+        description: "Instead of rigid instructions, provide AI with 2-3 complete examples of the desired output pattern. AI learns the pattern implicitly rather than following explicit rules. Best technique for nightmare stories and emotional copy."
+        domains: ["ai-copywriting", "prompt-engineering", "pattern-learning"]
+        source: "CVSL"
+      - id: "MM-JB-041"
+        title: "Anchor Object Architecture"
+        description: "A physical object introduced in the pattern interrupt becomes the emotional anchor for the entire VSL. It appears in the pattern interrupt, nightmare story, and Grand Offer. Creates subconscious thread that ties the VSL together."
+        domains: ["nlp-selling", "storytelling", "vsl-structure"]
+        source: "CVSL"
+      - id: "MM-JB-042"
+        title: "Positive-Negative Hook Duality"
+        description: "Every offer needs TWO hooks: a Negative Hook (root cause of pain, 3 words, scientific-sounding) and a Positive Hook (secret solution, 3 words, aspirational). Together they create the complete problem-solution narrative."
+        domains: ["offer-construction", "copywriting", "positioning"]
+        source: "CVSL"
+      - id: "MM-JB-043"
+        title: "Faux Pricing Psychology"
+        description: "Show a higher price first (retail value, competitor cost, DIY cost), then reveal the real lower price. The contrast creates perceived value. 'On this page only' adds exclusivity. Must feel genuine, not manipulative."
+        domains: ["pricing-psychology", "offer-design", "closing"]
+        source: "CVSL"
+      - id: "MM-JB-044"
+        title: "Nested Prompt Architecture"
+        description: "Prompts embedded within formula templates. The formula has blank slots where AI generates content, but the surrounding structure is fixed. Like fill-in-the-blank meets AI creativity. Controls output while allowing creative flexibility."
+        domains: ["ai-copywriting", "systems-thinking", "prompt-engineering"]
+        source: "CVSL"
+      - id: "MM-JB-045"
+        title: "Open Loop Architecture"
+        description: "A high-performing VSL maintains 10-12 open loops simultaneously. Each loop is a question or promise that hasn't been resolved. Loops must be opened strategically (front-loaded) and closed at peak emotional moments."
+        domains: ["engagement", "vsl-structure", "attention-engineering"]
+        source: "CVSL"
+      - id: "MM-JB-046"
+        title: "Snap Suggestion Mechanism"
+        description: "The Snap Suggestion is an NLP pattern interrupt that 'scratches the brain' — creating a moment of cognitive surprise that bypasses the prospect's mental filters. Movie-scene format works best because AI excels at cinematic writing."
+        domains: ["pattern-interrupt", "nlp-selling", "opening-strategy"]
+        source: "CVSL"
+      - id: "MM-JB-047"
+        title: "Vital Connection Bridge"
+        description: "The nightmare story creates a Vital Connection between hero and prospect. The hero's struggle MUST mirror the prospect's struggle. The Declaration of Independence moment transforms the hero, making the prospect believe they can transform too."
+        domains: ["storytelling", "rapport", "transformation"]
+        source: "CVSL"
+      - id: "MM-JB-048"
+        title: "Grand Offer Sequencing"
+        description: "The Grand Offer has exactly 6 parts in fixed order: (1) 3 Choices intro, (2) Product features as benefits, (3) Faux pricing + real price, (4) Dimensional bonus descriptions, (5) Guarantee + community, (6) NLP close with future pacing + presupposition."
+        domains: ["offer-design", "closing", "vsl-structure"]
+        source: "CVSL"
+      - id: "MM-JB-049"
+        title: "NLP Close Architecture"
+        description: "The final close uses layered NLP: future pacing (7 days from now + 30 days from now), presupposition language (assuming the sale), the Click Anchor (embedding 'click' as a command word), and direct CTA. Each layer deepens the buying commitment."
+        domains: ["nlp-selling", "closing", "persuasion"]
+        source: "CVSL"
+      - id: "MM-JB-050"
+        title: "Yes Reflex Chaining"
+        description: "Build a chain of 'yes' responses before the close. Agreement statements, rhetorical questions the prospect answers internally with 'yes', and confirmation of pain points create momentum toward the purchase decision."
+        domains: ["nlp-selling", "persuasion", "closing"]
+        source: "CVSL"
+      - id: "MM-JB-051"
+        title: "Future Pacing Template"
+        description: "Future pacing in present tense at two time horizons: 7 days from now (immediate quick wins) and 30 days from now (life transformation). Speak as if it has already happened. The prospect visualizes themselves in the desired state."
+        domains: ["nlp-selling", "closing", "visualization"]
+        source: "CVSL"
+      - id: "MM-JB-052"
+        title: "Presupposition Language Model"
+        description: "Language that assumes the purchase has already happened: 'after you click the order button', 'when you open the program', 'as you go through module one'. Removes the decision friction by bypassing the 'should I buy?' question."
+        domains: ["nlp-selling", "closing", "language-patterns"]
+        source: "CVSL"
+      - id: "MM-JB-053"
+        title: "Avatar Diary Deep Research"
+        description: "The deepest market research is reading your prospect's 'diary' — forums, Reddit, Amazon reviews, support tickets. Their exact language becomes your copy language. Don't invent pain points; document the ones they already express."
+        domains: ["market-research", "empathy", "copywriting"]
+        source: "CVSL"
+      - id: "MM-JB-054"
+        title: "Radio Voice Elimination"
+        description: "AI default output sounds like a radio announcer — generic, hype-filled, surface-level. The refiner prompt specifically targets 'radio voice' and converts it to conversational, dimensional, human-sounding copy."
+        domains: ["ai-copywriting", "quality-assurance", "tone-control"]
+        source: "CVSL"
+      - id: "MM-JB-055"
+        title: "Superbonus Reveal Strategy"
+        description: "After the initial CTA, reveal an additional surprise bonus with a countdown timer. The superbonus creates a second buying impulse for prospects who hesitated on the first CTA. It's the safety net for the undecided."
+        domains: ["offer-design", "urgency", "closing"]
+        source: "CVSL"
+
+  L3_HEURISTICS:
+      - id: "HEUR-JB-001"
+        title: "USP Word Limit"
+        description: "USP must be 20 words or fewer. Power Phrase + Prime Benefit + Enabler Phrase compressed into a single scannable sentence."
+        domains: ["copywriting", "positioning", "brevity"]
+        source: "3XVSL"
+      - id: "HEUR-JB-002"
+        title: "Optimal VSL Length"
+        description: "Optimal VSL length is 28-32 minutes. Shorter loses persuasion depth; longer loses attention."
+        domains: ["vsl-creation", "timing", "engagement"]
+        source: "3XVSL"
+      - id: "HEUR-JB-003"
+        title: "Title Case for VSL Slides"
+        description: "Use Title Case for all VSL slide text. Never all-caps (screaming), never lowercase (weak). Title Case is authoritative yet readable."
+        domains: ["vsl-creation", "visual-design", "readability"]
+        source: "3XVSL"
+      - id: "HEUR-JB-004"
+        title: "Paraphrase Every 5-15 Slides"
+        description: "Repeat key points in different words every 5-15 slides. This ensures retention without monotony."
+        domains: ["vsl-creation", "retention", "engagement"]
+        source: "3XVSL"
+      - id: "HEUR-JB-005"
+        title: "85/15 Emotional-Logical Split"
+        description: "15% of buyers are logical, 85% buy emotionally. Weight your copy 85% emotional, 15% logical support."
+        domains: ["copywriting", "sales-psychology", "buyer-behavior"]
+        source: "3XVSL"
+      - id: "HEUR-JB-006"
+        title: "Never Pitch After Nightmare"
+        description: "Never put the pitch right after the nightmare story. The prospect is in pain mode, not buying mode. Insert tips and dream story first."
+        domains: ["vsl-structure", "timing", "emotional-design"]
+        source: "3XVSL"
+      - id: "HEUR-JB-007"
+        title: "Avoid the Word But"
+        description: "Never use 'but' in copy — it negates everything before it. Substitute with 'yet', 'however', 'and' to maintain positive momentum."
+        domains: ["copywriting", "linguistics", "persuasion"]
+        source: "3XVSL"
+      - id: "HEUR-JB-008"
+        title: "May Or Technique"
+        description: "Never assume what the reader is thinking. Use 'may or may not' to offer multiple entry points: 'You may or may not have heard of...' covers all bases."
+        domains: ["copywriting", "empathy", "inclusion"]
+        source: "3XVSL"
+      - id: "HEUR-JB-009"
+        title: "Specificity in Story Details"
+        description: "Include specific details in stories: exact dates, weather conditions, clothing worn, exact locations. Specificity equals believability."
+        domains: ["storytelling", "credibility", "engagement"]
+        source: "3XVSL"
+      - id: "HEUR-JB-010"
+        title: "One Buyer Modality Loses 75%"
+        description: "Speaking to only one buyer modality (Why, What, How-To, What-If) means losing 75% of your potential audience. Address all four."
+        domains: ["buyer-psychology", "copywriting", "vsl-creation"]
+        source: "3XVSL"
+      - id: "HEUR-JB-011"
+        title: "Action Drops for Present Moment"
+        description: "Use Action Drop words (Today, Now, You See, Listen, Actually) to keep the viewer in present-moment awareness. These words prevent mental drifting."
+        domains: ["engagement", "copywriting", "vsl-creation"]
+        source: "3XVSL"
+      - id: "HEUR-JB-012"
+        title: "Subliminal Red Text Highlighting"
+        description: "Highlight key words in red text on VSL slides: Decide, Now, Freedom, Secret, You, Today. Creates subliminal urgency anchoring."
+        domains: ["vsl-creation", "visual-psychology", "persuasion"]
+        source: "3XVSL"
+      - id: "HEUR-JB-013"
+        title: "Anchor Drop Forward Momentum"
+        description: "Use Anchor Drop words (yet, because, guess what) to create forward momentum. These words signal that something important is coming next."
+        domains: ["copywriting", "engagement", "persuasion"]
+        source: "3XVSL"
+      - id: "HEUR-JB-014"
+        title: "Open Loops Only Product Closes"
+        description: "Create open loops that can ONLY be closed by buying the product. If the loop can be closed by free content, it fails as a selling mechanism."
+        domains: ["engagement", "persuasion", "vsl-creation"]
+        source: "3XVSL"
+      - id: "HEUR-JB-015"
+        title: "Numbers in Headlines and Promises"
+        description: "Numbers are magical in headlines and promises. '3 Secrets' beats 'Some Secrets'. '28 Minutes' beats 'A Short Time'. Numbers create concrete expectations."
+        domains: ["copywriting", "headlines", "specificity"]
+        source: "3XVSL"
+      - id: "HEUR-JB-016"
+        title: "Dream Story General They Rule"
+        description: "In dream stories, always use general 'they' (people who tried this), never specific 'you' (you will get this). General feels honest; specific feels like a guarantee."
+        domains: ["storytelling", "copywriting", "credibility"]
+        source: "3XVSL"
+      - id: "HEUR-JB-017"
+        title: "With/Without Creates Strongest Close"
+        description: "The with/without comparison creates the strongest close desire among all 4 comparison types. It makes inaction feel like a conscious choice to suffer."
+        domains: ["closing", "comparison", "persuasion"]
+        source: "3XVSL"
+      - id: "HEUR-JB-018"
+        title: "Inclusion Statements Build Social Proof"
+        description: "Inclusion statements (thousands already, most people agree, you're joining) build social proof subconsciously without explicit testimonials."
+        domains: ["social-proof", "copywriting", "persuasion"]
+        source: "3XVSL"
+      - id: "HEUR-JB-019"
+        title: "Avoid Tip First in Bigger Solution"
+        description: "In the Bigger Solution section, always lead with the Avoid Tip (fear-based) before the Enjoy Tip and How-To Tip. Fear creates the vacuum; tips fill it."
+        domains: ["vsl-structure", "emotional-design", "persuasion"]
+        source: "3XVSL"
+      - id: "HEUR-JB-020"
+        title: "Nightmare Story Image Object"
+        description: "Pick one physical object from the nightmare story to use as the visual pattern interrupt. It connects the emotional story to the visual opening."
+        domains: ["vsl-creation", "visual-design", "storytelling"]
+        source: "3XVSL"
+      - id: "HEUR-JB-021"
+        title: "Two Heavy Two Light Comparisons"
+        description: "Use exactly 2 heavy comparisons (competition + with/without) and 2 light comparisons (general + specific-to-tip). This ratio provides balanced persuasion."
+        domains: ["comparison", "vsl-structure", "persuasion"]
+        source: "3XVSL"
+      - id: "HEUR-JB-022"
+        title: "Tire Kicker Elimination Placement"
+        description: "Place tire kicker elimination early: 'If you want a magic pill, leave now.' This filters unqualified viewers and increases commitment of remaining viewers."
+        domains: ["qualification", "engagement", "trust-building"]
+        source: "3XVSL"
+      - id: "HEUR-JB-023"
+        title: "Grand Offer Six Parts Rule"
+        description: "Grand Offer must contain exactly 6 parts: Product, Price, CTA, Pain/Pleasure, Actions/Results, Q&A. Missing any part leaves objections unaddressed."
+        domains: ["offer-design", "closing", "vsl-structure"]
+        source: "3XVSL"
+      - id: "HEUR-JB-024"
+        title: "Present Tense in Dream Stories"
+        description: "Dream stories must use present tense promise (as if already happening), not future tense. Present tense feels real; future tense feels hypothetical."
+        domains: ["storytelling", "copywriting", "persuasion"]
+        source: "3XVSL"
+      - id: "HEUR-JB-025"
+        title: "Even If for Preemptive Objections"
+        description: "Use 'Even If' technique to handle objections before they form: 'Even if you have no experience...' removes excuses before the prospect can voice them."
+        domains: ["objection-handling", "copywriting", "persuasion"]
+        source: "3XVSL"
+      - id: "HEUR-JB-026"
+        title: "Snap Suggestion Optional Intro"
+        description: "The Snap Suggestion can start with an optional intro (brief context) before the pattern interrupt. The intro must be under 3 slides."
+        domains: ["vsl-structure", "engagement", "opening"]
+        source: "3XVSL"
+      - id: "HEUR-JB-027"
+        title: "Big Promise Specificity"
+        description: "The Big Promise in the Snap Suggestion must be specific and tangible: '3 secrets to X' not 'learn how to improve'. Vague promises get vague attention."
+        domains: ["copywriting", "headlines", "engagement"]
+        source: "3XVSL"
+      - id: "HEUR-JB-028"
+        title: "Lets Make a Deal Early"
+        description: "Include 'Let's Make a Deal' (I give value, you give attention) in the first 2 minutes. This micro-commitment increases watch-through by setting expectations."
+        domains: ["engagement", "commitment", "vsl-structure"]
+        source: "3XVSL"
+      - id: "HEUR-JB-029"
+        title: "Conspiracy Before Solution"
+        description: "Always present the Big Lie/conspiracy BEFORE introducing the solution. The conspiracy creates the problem frame; the solution fills it."
+        domains: ["persuasion", "problem-framing", "vsl-structure"]
+        source: "3XVSL"
+      - id: "HEUR-JB-030"
+        title: "Big Truth Opens Solution Loop"
+        description: "The Big Truth must open the Bigger Solution loop, not close it. It teases the answer without fully delivering, maintaining curiosity into the next section."
+        domains: ["engagement", "persuasion", "vsl-structure"]
+        source: "3XVSL"
+      - id: "HEUR-JB-031"
+        title: "Transition to Grand Offer Flow"
+        description: "The transition to Grand Offer follows a strict sequence: Two Choices, Savvy Choice, I've Done Work For You, It's Called... Any deviation breaks the closing momentum."
+        domains: ["closing", "vsl-structure", "persuasion"]
+        source: "3XVSL"
+      - id: "HEUR-JB-032"
+        title: "Hero Study Before Personal Claims"
+        description: "Present Hero Study (analysis of experts) before making personal claims. Borrowed credibility is more believable than self-proclaimed credibility."
+        domains: ["authority-building", "social-proof", "credibility"]
+        source: "3XVSL"
+      - id: "HEUR-JB-033"
+        title: "Tip Benefit-First Structure"
+        description: "Every tip must lead with the benefit before explaining the what or how. Benefit creates curiosity; explanation satisfies it."
+        domains: ["vsl-structure", "copywriting", "engagement"]
+        source: "3XVSL"
+      - id: "HEUR-JB-034"
+        title: "Mini Dream Story in Tips"
+        description: "Each tip should end with a mini dream story that paints the result. This keeps the emotional momentum high between the main story sections."
+        domains: ["storytelling", "vsl-structure", "engagement"]
+        source: "3XVSL"
+      - id: "HEUR-JB-035"
+        title: "Nightmare Intro Specifics Strategy"
+        description: "Start the nightmare story intro with the Specifics Strategy: exact date, time, weather, location. This signals 'this is a real story, not a script.'"
+        domains: ["storytelling", "credibility", "engagement"]
+        source: "3XVSL"
+      - id: "HEUR-JB-036"
+        title: "Focal Point as Rock Bottom"
+        description: "The focal point of the nightmare story must be the absolute rock bottom moment. If it doesn't make the viewer cringe or feel empathy, go deeper."
+        domains: ["storytelling", "emotional-design", "engagement"]
+        source: "3XVSL"
+      - id: "HEUR-JB-037"
+        title: "Moral Bridges Story to Sale"
+        description: "The nightmare story moral must bridge directly to the product solution without feeling like a pitch. If the transition feels jarring, the moral is wrong."
+        domains: ["storytelling", "closing", "vsl-structure"]
+        source: "3XVSL"
+      - id: "HEUR-JB-038"
+        title: "Price After Value Stack"
+        description: "Never reveal price until after the full value stack has been presented. Price before value creates sticker shock; price after value creates 'that's it?'"
+        domains: ["pricing", "offer-design", "persuasion"]
+        source: "3XVSL"
+      - id: "HEUR-JB-039"
+        title: "CTA Repetition Rule"
+        description: "Repeat the CTA (Call to Action) at least 3 times in the Grand Offer section. Once is informational; three times is directional."
+        domains: ["closing", "cta-design", "vsl-structure"]
+        source: "3XVSL"
+      - id: "HEUR-JB-040"
+        title: "Pain Pleasure Alternation in Close"
+        description: "In the Grand Offer Pain/Pleasure section, alternate between pain of inaction and pleasure of action. Do not stack all pain or all pleasure together."
+        domains: ["closing", "emotional-design", "persuasion"]
+        source: "3XVSL"
+      - id: "HEUR-JB-041"
+        title: "1-2-3 as Universal Structure"
+        description: "1 USP + 2 Stories + 3 Tips + 4 Comparisons = the complete content backbone of any VSL. This ratio provides optimal persuasion density."
+        domains: ["vsl-structure", "copywriting", "framework"]
+        source: "3XVSL"
+      - id: "HEUR-JB-042"
+        title: "Three Tip Type Sequence"
+        description: "Tips must follow the sequence: Avoid Tip (fear/why) -> Enjoy Tip (what-if) -> How-To Tip (linchpin). This sequence mirrors the emotional arc from fear to desire to action."
+        domains: ["vsl-structure", "emotional-design", "persuasion"]
+        source: "3XVSL"
+      - id: "HEUR-JB-043"
+        title: "Video Scarcity in Opening"
+        description: "Include video scarcity statement in the Snap Suggestion (this video may be taken down). This must appear before the big promise to create urgency to watch."
+        domains: ["scarcity", "engagement", "vsl-structure"]
+        source: "3XVSL"
+      - id: "HEUR-JB-044"
+        title: "Verbal Pattern Interrupt Types"
+        description: "Two types of pattern interrupts exist: Image Interrupt (visual from nightmare story) and Linguistic/Verbal Interrupt (unexpected statement). Use at least one."
+        domains: ["attention-capture", "vsl-creation", "engagement"]
+        source: "3XVSL"
+      - id: "HEUR-JB-045"
+        title: "Blame This External Target"
+        description: "In the Conspiracy Cycle, 'Blame This' must point to an external target (industry, system, establishment), never the prospect or their close circle."
+        domains: ["problem-framing", "rapport", "persuasion"]
+        source: "3XVSL"
+      - id: "HEUR-JB-046"
+        title: "Not Your Fault Before Big Truth"
+        description: "'Not Your Fault' must come before the Big Truth in the Conspiracy Cycle. Absolution must precede revelation for maximum receptivity."
+        domains: ["persuasion", "vsl-structure", "rapport"]
+        source: "3XVSL"
+      - id: "HEUR-JB-047"
+        title: "Two Choices as False Dichotomy"
+        description: "The 'Two Choices' close (do nothing vs. act now) is a strategic false dichotomy that reframes the buying decision from optional to binary."
+        domains: ["closing", "decision-framing", "persuasion"]
+        source: "3XVSL"
+      - id: "HEUR-JB-048"
+        title: "Savvy Choice After Two Choices"
+        description: "Immediately after presenting two choices, label the buying choice as the 'savvy' choice. This flatters the buyer's identity and makes purchasing feel intelligent."
+        domains: ["closing", "identity", "persuasion"]
+        source: "3XVSL"
+      - id: "HEUR-JB-049"
+        title: "It's Called Reveal Timing"
+        description: "The product name reveal ('It's Called...') should come only after Two Choices + Savvy Choice + I've Done the Work for You. This sequence maximizes the reveal impact."
+        domains: ["vsl-structure", "engagement", "branding"]
+        source: "3XVSL"
+      - id: "HEUR-JB-050"
+        title: "Follow the Leader in Dream Story"
+        description: "Begin dream stories with 'Follow the Leader' (citing known authorities who use similar principles). This creates aspirational framework before personal claims."
+        domains: ["social-proof", "storytelling", "authority-building"]
+        source: "3XVSL"
+      - id: "HEUR-JB-051"
+        title: "Specific You General They Rule"
+        description: "In dream stories: be specific about yourself (I did X) but general about prospects (people who try this tend to). Specific claims about others invite skepticism."
+        domains: ["copywriting", "credibility", "storytelling"]
+        source: "3XVSL"
+      - id: "HEUR-JB-052"
+        title: "Transition Phrase Between Sections"
+        description: "Every major VSL section must end with a transition phrase that flows into the next section. Abrupt section breaks lose viewers."
+        domains: ["vsl-creation", "engagement", "flow"]
+        source: "3XVSL"
+      - id: "HEUR-JB-053"
+        title: "Benefit Then What Is It"
+        description: "In tip structure: always state the benefit FIRST, then explain what the tip is. Never start with the tip name or category."
+        domains: ["copywriting", "vsl-structure", "engagement"]
+        source: "3XVSL"
+      - id: "HEUR-JB-054"
+        title: "Q&A as Final Objection Sweep"
+        description: "The Q&A section must address the top 5-7 objections remaining after the main close. Structure as questions the buyer would ask, not generic FAQs."
+        domains: ["objection-handling", "closing", "vsl-structure"]
+        source: "3XVSL"
+      - id: "HEUR-JB-055"
+        title: "Power Phrase Plus Prime Benefit"
+        description: "USP structure: Power Phrase (emotional hook) + Prime Benefit (what they get) + Enabler Phrase (how they get it). All three must be present."
+        domains: ["copywriting", "positioning", "usp-design"]
+        source: "3XVSL"
+      # === CHAT VSL (CVSL) — 25 new heuristics ===
+      - id: "HEUR-JB-056"
+        title: "40 Minutes Ideal VSL Length"
+        description: "The ideal classic long-form VSL runs approximately 40 minutes (~6000 words). This gives enough time for all 5 steps plus the complete Grand Offer with bonuses and NLP close."
+        domains: ["vsl-structure", "production", "conversion-optimization"]
+        source: "CVSL"
+      - id: "HEUR-JB-057"
+        title: "6000 Words Target"
+        description: "A complete ChatVSL outputs approximately 6000 words across all 5 steps: ~1000 (Snap) + ~1500 (Vital) + ~500 (Problem) + ~800 (Solution) + ~2200 (Offer)."
+        domains: ["vsl-structure", "copywriting", "production"]
+        source: "CVSL"
+      - id: "HEUR-JB-058"
+        title: "5-12 Iterations for Hooks"
+        description: "Run the branding/hook generation prompt 5-12 times minimum. Each iteration produces different hook name options. The best hooks emerge after multiple iterations, not the first try."
+        domains: ["offer-construction", "branding", "ai-copywriting"]
+        source: "CVSL"
+      - id: "HEUR-JB-059"
+        title: "3 Words Max for Hook Names"
+        description: "Unique mechanism hook names must be 3 words or less, Title Case, mysterious and scientific-sounding. Examples: Metabolic Adaptation, Leptin Resistance, Blank Page Paralysis."
+        domains: ["branding", "offer-construction", "copywriting"]
+        source: "CVSL"
+      - id: "HEUR-JB-060"
+        title: "2-4 Words Max for Niche"
+        description: "Niche description in the Buyer's Roadmap must be 2-4 words maximum. Forces clarity. If you can't describe your niche in 4 words, you don't know your niche well enough."
+        domains: ["market-research", "positioning", "clarity"]
+        source: "CVSL"
+      - id: "HEUR-JB-061"
+        title: "Retail Price >2x Offer Price"
+        description: "The displayed retail/comparison price should be more than double the actual offer price. Creates perceived discount of 50%+ which triggers the bargain-hunting instinct."
+        domains: ["pricing-psychology", "offer-design", "conversion-optimization"]
+        source: "CVSL"
+      - id: "HEUR-JB-062"
+        title: "$120 AOV Minimum for Traffic"
+        description: "Average Order Value of $120+ is the minimum threshold for scalable paid traffic acquisition. Below $120 AOV, the math rarely works for profitable paid advertising."
+        domains: ["unit-economics", "traffic", "offer-design"]
+        source: "CVSL"
+      - id: "HEUR-JB-063"
+        title: "20-25 Min Buy Button Drop"
+        description: "In modern VSLs, the sweet spot to drop the buy button is at the 20-25 minute mark. Earlier feels pushy; later loses the undecided."
+        domains: ["vsl-structure", "conversion-optimization", "timing"]
+        source: "CVSL"
+      - id: "HEUR-JB-064"
+        title: "30% Click Hyperlinks Not Buttons"
+        description: "30% of buyers click text hyperlinks instead of buttons. Always include BOTH a button AND a hyperlink for every CTA. Missing either loses conversions."
+        domains: ["conversion-optimization", "ux-design", "cta-strategy"]
+        source: "CVSL"
+      - id: "HEUR-JB-065"
+        title: "10-12 Open Loops Per VSL"
+        description: "A high-performing VSL maintains 10-12 simultaneous open loops. Fewer and the prospect loses curiosity; more and they feel overwhelmed. All must be closed before the end."
+        domains: ["engagement", "vsl-structure", "attention-engineering"]
+        source: "CVSL"
+      - id: "HEUR-JB-066"
+        title: "Unique Mechanism at 1/3 Through"
+        description: "The unique mechanism (negative hook) should be revealed approximately 1/3 through the VSL. The Metabolic Sherpa ($50M) reveals its mechanism at page 25 of 75."
+        domains: ["vsl-structure", "pacing", "revelation-timing"]
+        source: "CVSL"
+      - id: "HEUR-JB-067"
+        title: "1000 Words Pattern Interrupt+Lead"
+        description: "Step 1 (Snap Suggestion) targets approximately 1000 words: movie-scene pattern interrupt (~300w) + 90 seconds of desire/benefit stack (~400w) + lead with promises (~300w)."
+        domains: ["vsl-structure", "copywriting", "pacing"]
+        source: "CVSL"
+      - id: "HEUR-JB-068"
+        title: "1500 Words Nightmare Story"
+        description: "Step 2 (Vital Connection) targets approximately 1500 words: nightmare story with anchor object, struggle details, Declaration of Independence moment, and bridge to solution."
+        domains: ["vsl-structure", "storytelling", "pacing"]
+        source: "CVSL"
+      - id: "HEUR-JB-069"
+        title: "500 Words Big Problem"
+        description: "Step 3 (Big Problem) targets approximately 500 words: negative hook reveal, root cause explanation, why false solutions fail, and conspiracy/Big Lie framing."
+        domains: ["vsl-structure", "problem-framing", "pacing"]
+        source: "CVSL"
+      - id: "HEUR-JB-070"
+        title: "800 Words Bigger Solution"
+        description: "Step 4 (Bigger Solution) targets approximately 800 words: positive hook reveal, 2-3 tips using the mechanism, each tip following the Benefit→WhatIsIt→HowTo→Result formula."
+        domains: ["vsl-structure", "solution-framing", "pacing"]
+        source: "CVSL"
+      - id: "HEUR-JB-071"
+        title: "2200 Words Grand Offer"
+        description: "Step 5 (Grand Offer) targets approximately 2200 words across 6 sub-parts: intro, features, pricing, bonuses, guarantee, NLP close."
+        domains: ["vsl-structure", "closing", "pacing"]
+        source: "CVSL"
+      - id: "HEUR-JB-072"
+        title: "GPT-4 Mandatory Not GPT-3.5"
+        description: "ChatVSL requires GPT-4 Plus ($20/month). GPT-3.5 produces dramatically inferior copy quality. The investment in GPT-4 is non-negotiable for professional-grade output."
+        domains: ["ai-copywriting", "quality-assurance", "tool-selection"]
+        source: "CVSL"
+      - id: "HEUR-JB-073"
+        title: "88% Perceived Discount Target"
+        description: "Stack bonus values to create 80-90% perceived discount. Demo example: $27 offer vs $232 total value = 88% off. The discount percentage must feel overwhelming but believable."
+        domains: ["pricing-psychology", "offer-design", "value-stacking"]
+        source: "CVSL"
+      - id: "HEUR-JB-074"
+        title: "Copy All Roadmap Before Prompting"
+        description: "Before running any prompt, copy ALL relevant Buyer's Roadmap data into the chat. Do not reference external documents. AI needs the data in-context for maximum quality."
+        domains: ["ai-copywriting", "prompt-engineering", "workflow"]
+        source: "CVSL"
+      - id: "HEUR-JB-075"
+        title: "90 Seconds of Desire Post-Interrupt"
+        description: "Immediately after the pattern interrupt, deliver 90 seconds (~300 words) of pure desire content — benefit stack, promise stack, aspiration imagery. No selling, no features, just want-creation."
+        domains: ["vsl-structure", "persuasion", "pacing"]
+        source: "CVSL"
+      - id: "HEUR-JB-076"
+        title: "Movie Scene Format for Pattern Interrupt"
+        description: "Always prompt AI to write pattern interrupts as movie scenes — opening with visual setting, introducing a character in action, building tension, ending with a twist/cliffhanger. AI writes movies better than ads."
+        domains: ["ai-copywriting", "pattern-interrupt", "storytelling"]
+        source: "CVSL"
+      - id: "HEUR-JB-077"
+        title: "Remove Radio Voice from AI Output"
+        description: "After every AI generation, run the refiner prompt to eliminate 'radio voice' — generic, hype-filled, surface-level AI default tone. Replace with conversational, dimensional, human-sounding copy."
+        domains: ["ai-copywriting", "quality-assurance", "editing"]
+        source: "CVSL"
+      - id: "HEUR-JB-078"
+        title: "Physical Anchor Object Required"
+        description: "Every pattern interrupt must include a physical anchor object (box, rock, ticket, hospital gown). The object creates emotional resonance and reappears in the nightmare story."
+        domains: ["nlp-selling", "storytelling", "vsl-structure"]
+        source: "CVSL"
+      - id: "HEUR-JB-079"
+        title: "Tilde Key for AI Parsing"
+        description: "Use the tilde/backtick character to separate multiple values in AI prompts (bonus names, prices, descriptions). AI parses tilde-separated values more reliably than commas or semicolons."
+        domains: ["ai-copywriting", "prompt-engineering", "formatting"]
+        source: "CVSL"
+      - id: "HEUR-JB-080"
+        title: "So Rather Than Formula"
+        description: "Benefit blocks use the formula: 'So rather than [old painful way], you get to [new desirable way].' This contrast structure makes every benefit feel like relief from pain."
+        domains: ["copywriting", "benefit-writing", "contrast-framing"]
+        source: "CVSL"
+
+  L4_FRAMEWORKS:
+      - id: "FW-JB-001"
+        title: "USP Factory"
+        description: "Three-part formula for creating a Unique Selling Proposition: Power Phrase (emotional hook, 3-5 words) + Prime Benefit (the main outcome, 5-8 words) + Enabler Phrase (the mechanism, 5-7 words). Total must be 20 words or fewer."
+        domains: ["copywriting", "positioning", "usp-design"]
+        source: "3XVSL"
+      - id: "FW-JB-002"
+        title: "1-2-3 Formula"
+        description: "The complete content backbone of any VSL: 1 USP + 2 Stories (nightmare + dream) + 3 Tips (avoid + enjoy + how-to) + 4 Comparisons (2 heavy + 2 light). This ratio creates optimal persuasion density."
+        domains: ["vsl-structure", "copywriting", "persuasion"]
+        source: "3XVSL"
+      - id: "FW-JB-003"
+        title: "5-Step VSL Process"
+        description: "The complete VSL architecture in 5 sequential steps: (1) Snap Suggestion -> (2) Vital Connection -> (3) Big Problem -> (4) Bigger Solution -> (5) Grand Offer. Each step transitions the prospect's emotional state."
+        domains: ["vsl-creation", "sales-psychology", "copywriting"]
+        source: "3XVSL"
+      - id: "FW-JB-004"
+        title: "Nightmare Story Formula"
+        description: "6-part story structure for creating empathy and pain awareness: (1) Transition -> (2) Intro with Specifics Strategy (date, weather, clothing, location) -> (3) Bad Part (escalation) -> (4) Focal Point (rock bottom) -> (5) Declaration of Independence -> (6) Moral (bridges to solution)."
+        domains: ["storytelling", "copywriting", "emotional-design"]
+        source: "3XVSL"
+      - id: "FW-JB-005"
+        title: "Dream Story Formula"
+        description: "4-part story structure for creating desire and aspiration: (1) Follow the Leader (cite authorities) -> (2) Specific You/General They (be specific about self, general about others) -> (3) Transition Phrase -> (4) Present Tense Promise (future pacing as if already real)."
+        domains: ["storytelling", "copywriting", "persuasion"]
+        source: "3XVSL"
+      - id: "FW-JB-006"
+        title: "Tip Formula"
+        description: "5-part structure for value-delivering tips in the VSL: (1) Benefit (what they get) -> (2) What Is It (name/explain) -> (3) How To (application) -> (4) Result (what happens) -> (5) Mini Dream Story (paint the outcome). Each tip must be self-contained yet connect to the whole."
+        domains: ["vsl-structure", "copywriting", "reciprocity"]
+        source: "3XVSL"
+      - id: "FW-JB-007"
+        title: "3 Tip Types Framework"
+        description: "Three types of tips in strict sequence: (1) Avoid Tip (fear/why-based: what to avoid and why) -> (2) Enjoy Tip (what-if-based: what they could enjoy) -> (3) How-To Tip (linchpin: most actionable, bridges to product). Sequence mirrors fear -> desire -> action arc."
+        domains: ["vsl-structure", "emotional-design", "persuasion"]
+        source: "3XVSL"
+      - id: "FW-JB-008"
+        title: "4 Buyer Modalities Framework"
+        description: "Four types of buyers that must all be addressed in every VSL: (1) Why Buyer (needs reason and context) -> (2) What Buyer (needs information and details) -> (3) How-To Buyer (needs process and steps) -> (4) What-If Buyer (needs possibilities and vision). Missing any one = losing 25% of audience."
+        domains: ["buyer-psychology", "copywriting", "vsl-creation"]
+        source: "3XVSL"
+      - id: "FW-JB-009"
+        title: "4 Comparisons Framework"
+        description: "Four comparison types in two tiers: HEAVY (high emotional impact): (1) Competition Comparison (why you beat alternatives) + (2) With/Without Comparison (life with vs without product). LIGHT (reinforcement): (3) General Comparison (broad market context) + (4) Specific-to-Tip Comparison (connects back to tips given)."
+        domains: ["comparison", "closing", "persuasion"]
+        source: "3XVSL"
+      - id: "FW-JB-010"
+        title: "Snap Suggestion Framework"
+        description: "5-part opening sequence for maximum attention capture: (1) Optional Intro (brief context, under 3 slides) -> (2) Pattern Interrupt (image or linguistic) -> (3) Big Promise (specific, tangible) -> (4) Video Scarcity (may be taken down) -> (5) Let's Make a Deal (value exchange agreement)."
+        domains: ["vsl-structure", "attention-capture", "engagement"]
+        source: "3XVSL"
+      - id: "FW-JB-011"
+        title: "Pattern Interrupt Types"
+        description: "Two categories of pattern interrupts: (1) Image Interrupt (physical object from nightmare story used as visual hook) and (2) Linguistic/Verbal Interrupt (unexpected statement that breaks expected patterns). At least one must be used in the Snap Suggestion."
+        domains: ["attention-capture", "vsl-creation", "engagement"]
+        source: "3XVSL"
+      - id: "FW-JB-012"
+        title: "Conspiracy Cycle (Big Problem)"
+        description: "5-step framework for establishing the problem through conspiracy: (1) Big Lie (industry conspiracy) -> (2) Not Your Fault (absolve prospect) -> (3) Blame This (external enemy) -> (4) Big Truth (the real answer) -> (5) Open Bigger Solution Loop (tease without revealing)."
+        domains: ["problem-framing", "persuasion", "vsl-structure"]
+        source: "3XVSL"
+      - id: "FW-JB-013"
+        title: "Bigger Solution Architecture"
+        description: "4-part solution section structure: (1) Avoid Tip (fear/why) -> (2) Enjoy Tip (what-if) -> (3) How-To Tip (linchpin) -> (4) Transition to Grand Offer via: Two Choices -> Savvy Choice -> I've Done Work For You -> It's Called..."
+        domains: ["vsl-structure", "closing", "persuasion"]
+        source: "3XVSL"
+      - id: "FW-JB-014"
+        title: "Grand Offer 6 Parts"
+        description: "Complete Grand Offer structure: (1) Product (what it is) -> (2) Price (value-stacked) -> (3) CTA (clear, repeated 3x minimum) -> (4) Pain/Pleasure (alternating) -> (5) Actions/Results (what they DO and GET) -> (6) Q&A (objection mop, top 5-7 remaining doubts)."
+        domains: ["offer-design", "closing", "vsl-structure"]
+        source: "3XVSL"
+      - id: "FW-JB-015"
+        title: "Transition to Grand Offer Sequence"
+        description: "Strict 4-step transition from tips to offer: (1) Two Choices (do nothing vs. act) -> (2) Savvy Choice (flatter the buyer) -> (3) I've Done Work For You (position product as shortcut) -> (4) It's Called... (product reveal). Order is non-negotiable."
+        domains: ["closing", "vsl-structure", "persuasion"]
+        source: "3XVSL"
+      - id: "FW-JB-016"
+        title: "Even If Technique"
+        description: "Pre-emptive objection handling framework: Add 'Even if...' clauses after key claims to address doubts before they form. Example: 'You can achieve X, even if you have no experience, even if you've tried before, even if you think it's too late.'"
+        domains: ["objection-handling", "copywriting", "persuasion"]
+        source: "3XVSL"
+      - id: "FW-JB-017"
+        title: "Hero Study Framework"
+        description: "Analyze successful experts to create aspirational proof: (1) Identify relevant authorities -> (2) Extract their patterns/methods -> (3) Show parallels to your approach -> (4) Conclude: 'Their success can be your success.' Builds credibility without self-promotion."
+        domains: ["authority-building", "social-proof", "credibility"]
+        source: "3XVSL"
+      - id: "FW-JB-018"
+        title: "Tire Kicker Elimination"
+        description: "Early qualification framework: State clearly 'If you want a magic pill, leave now.' This: (1) Filters unqualified viewers -> (2) Builds trust with remaining viewers -> (3) Creates exclusivity -> (4) Increases commitment through self-selection."
+        domains: ["qualification", "trust-building", "engagement"]
+        source: "3XVSL"
+      - id: "FW-JB-019"
+        title: "Subliminal Command System"
+        description: "Three layers of subliminal influence in VSL slides: (1) Red Text Highlighting (Decide, Freedom, Secret, Now, You, Today) -> (2) Action Drops (Today, Now, You See, Listen, Actually) -> (3) Anchor Drops (yet, because, guess what). All three layers work simultaneously beneath conscious awareness."
+        domains: ["persuasion", "vsl-creation", "visual-psychology"]
+        source: "3XVSL"
+      - id: "FW-JB-020"
+        title: "Vital Connection Architecture"
+        description: "The bridge between opening (Snap Suggestion) and problem (Big Problem): Creates emotional rapport by showing understanding of the prospect's world. Establishes 'I know what you're going through' before revealing the conspiracy."
+        domains: ["rapport", "vsl-structure", "trust-building"]
+        source: "3XVSL"
+      - id: "FW-JB-021"
+        title: "3 States of Mind Progression"
+        description: "Complete prospect journey framework: (1) Disbelief (skeptical wall — overcome with pattern interrupt + vital connection) -> (2) Decision (logical weighing — overcome with tips + comparisons) -> (3) Desire (emotional readiness — achieved through stories + grand offer)."
+        domains: ["buyer-journey", "sales-psychology", "vsl-creation"]
+        source: "3XVSL"
+      - id: "FW-JB-022"
+        title: "Nightmare Story Specifics Strategy"
+        description: "Opening technique for nightmare stories: Include 4 specific details in the first 3-5 sentences: (1) Exact date or time period -> (2) Weather or environmental condition -> (3) Clothing or physical detail -> (4) Specific location or setting. Specificity signals authenticity."
+        domains: ["storytelling", "credibility", "engagement"]
+        source: "3XVSL"
+      - id: "FW-JB-023"
+        title: "Declaration of Independence Formula"
+        description: "The turning point in the nightmare story: After the Focal Point (rock bottom), the protagonist makes a declaration: 'Enough is enough' / 'I decided that day...' This mirrors the buying decision the prospect must make."
+        domains: ["storytelling", "transformation", "buyer-journey"]
+        source: "3XVSL"
+      - id: "FW-JB-024"
+        title: "Follow the Leader Opening"
+        description: "Dream story opening technique: Reference 2-3 known authorities who embody the promise or use similar principles. Structure: 'You know how [authority] always says/does [principle]? Well...' Creates borrowed credibility."
+        domains: ["social-proof", "storytelling", "authority-building"]
+        source: "3XVSL"
+      - id: "FW-JB-025"
+        title: "Pain/Pleasure Alternation Close"
+        description: "Closing technique within Grand Offer: Alternate between pain points (what happens if they don't buy) and pleasure points (what happens if they do). Pattern: Pain -> Pleasure -> Pain -> Pleasure. Never stack same emotion consecutively."
+        domains: ["closing", "emotional-design", "persuasion"]
+        source: "3XVSL"
+      - id: "FW-JB-026"
+        title: "Actions/Results Tangibility Framework"
+        description: "Grand Offer section that makes abstract products concrete: List specific ACTIONS the buyer will take (Step 1, Step 2...) paired with specific RESULTS they will achieve. Transforms 'digital product' into 'clear path with outcomes.'"
+        domains: ["offer-design", "value-framing", "closing"]
+        source: "3XVSL"
+      - id: "FW-JB-027"
+        title: "Q&A Objection Architecture"
+        description: "Final Grand Offer section structured as strategic objection handling: Identify top 5-7 remaining objections (price, time, complexity, trust, uniqueness, guarantee, alternatives). Frame as prospect's questions; answer each to eliminate final resistance."
+        domains: ["objection-handling", "closing", "vsl-structure"]
+        source: "3XVSL"
+      - id: "FW-JB-028"
+        title: "Open Loop Architecture"
+        description: "Strategic curiosity management throughout VSL: (1) Open major loop in Snap Suggestion -> (2) Open micro-loops within each section -> (3) Close micro-loops to build trust -> (4) Keep major loop open until product reveal -> (5) Product is the ONLY way to close the major loop."
+        domains: ["engagement", "persuasion", "vsl-creation"]
+        source: "3XVSL"
+      - id: "FW-JB-029"
+        title: "Emotional Arc Design"
+        description: "Complete emotional trajectory of the VSL: Curiosity (Snap Suggestion) -> Connection (Vital Connection) -> Anger (Big Problem/Conspiracy) -> Empathy (Nightmare Story) -> Hope (Dream Story) -> Trust (Tips) -> Desire (Comparisons) -> Action (Grand Offer)."
+        domains: ["emotional-design", "vsl-creation", "sales-psychology"]
+        source: "3XVSL"
+      - id: "FW-JB-030"
+        title: "Comparison Placement Strategy"
+        description: "Where each comparison type goes: (1) Competition Comparison — after tips, before Grand Offer -> (2) With/Without — within Grand Offer close -> (3) General Comparison — sprinkled through Vital Connection -> (4) Specific-to-Tip — immediately after each relevant tip."
+        domains: ["comparison", "vsl-structure", "persuasion"]
+        source: "3XVSL"
+      - id: "FW-JB-031"
+        title: "Reciprocity Escalation Ladder"
+        description: "Progressive value delivery to build reciprocity: (1) Small value in Snap Suggestion (big promise) -> (2) Medium value in Tips (actionable content) -> (3) High value in How-To Tip (linchpin) -> (4) Full value requires purchase. Each rung increases psychological debt."
+        domains: ["reciprocity", "trust-building", "vsl-structure"]
+        source: "3XVSL"
+      - id: "FW-JB-032"
+        title: "USP Testing Matrix"
+        description: "How to validate your USP: (1) Is it 20 words or fewer? -> (2) Does it contain a Power Phrase? -> (3) Does it state the Prime Benefit clearly? -> (4) Does it include an Enabler Phrase? -> (5) Would your buyer say it describes why they buy? If any answer is no, rewrite."
+        domains: ["usp-design", "positioning", "validation"]
+        source: "3XVSL"
+      - id: "FW-JB-033"
+        title: "Nightmare-to-Moral Bridge"
+        description: "Connecting nightmare story ending to the solution: (1) State the moral of the story -> (2) Generalize to the prospect's situation -> (3) Hint at the existence of a solution -> (4) Do NOT name the product yet. The moral is a bridge, not a destination."
+        domains: ["storytelling", "vsl-structure", "persuasion"]
+        source: "3XVSL"
+      - id: "FW-JB-034"
+        title: "Buyer Identity Positioning"
+        description: "Position the buyer as: (1) Savvy (smart enough to watch) -> (2) Action-oriented (willing to take steps) -> (3) Exclusive (part of a select group) -> (4) Deserving (earned the right to succeed). Product becomes the vehicle for this already-established identity."
+        domains: ["buyer-psychology", "identity", "positioning"]
+        source: "3XVSL"
+      - id: "FW-JB-035"
+        title: "Let's Make a Deal Agreement"
+        description: "Early micro-commitment framework: (1) Acknowledge their time is valuable -> (2) Promise specific value (3 secrets, step-by-step, etc.) -> (3) Ask only for their attention -> (4) Frame as fair exchange. This agreement increases watch-through by 20-40%."
+        domains: ["engagement", "commitment", "vsl-structure"]
+        source: "3XVSL"
+      - id: "FW-JB-036"
+        title: "Competition Comparison Structure"
+        description: "How to compare against competitors: (1) Acknowledge alternatives exist -> (2) Identify their key weaknesses -> (3) Show how your approach is different -> (4) Never badmouth by name — compare approaches, not companies. Ethical differentiation."
+        domains: ["comparison", "positioning", "ethics"]
+        source: "3XVSL"
+      - id: "FW-JB-037"
+        title: "With/Without Comparison Format"
+        description: "Most powerful comparison format: Create two-column view — (1) WITHOUT Product: List 3-5 continuing pain points -> (2) WITH Product: List 3-5 resolved outcomes. Mirror each pain with its resolution. Makes inaction feel like choosing suffering."
+        domains: ["comparison", "closing", "emotional-design"]
+        source: "3XVSL"
+      - id: "FW-JB-038"
+        title: "Video Scarcity Execution"
+        description: "How to implement video scarcity in Snap Suggestion: (1) State the video may not be available long -> (2) Give a believable reason (controversial content, limited offer, legal concerns) -> (3) Recommend watching now -> (4) Do NOT use countdown timers in VSL — they break credibility."
+        domains: ["scarcity", "engagement", "credibility"]
+        source: "3XVSL"
+      - id: "FW-JB-039"
+        title: "Paraphrase Cycle System"
+        description: "Systematic approach to key point repetition: (1) Identify the 3-5 core messages -> (2) Restate each using different words every 5-15 slides -> (3) Use analogies, examples, and reframes as paraphrase vehicles -> (4) Each paraphrase must ADD value, not just repeat."
+        domains: ["retention", "engagement", "copywriting"]
+        source: "3XVSL"
+      - id: "FW-JB-040"
+        title: "Present Tense Promise Technique"
+        description: "Dream story closing technique: Describe the desired future using present tense verbs — 'You wake up and check your phone. Sales notifications from overnight. Your calendar is clear because systems handle the work.' Makes the future feel inevitable."
+        domains: ["storytelling", "persuasion", "visualization"]
+        source: "3XVSL"
+      # === CHAT VSL (CVSL) — 20 new frameworks ===
+      - id: "FW-JB-041"
+        title: "Buyer's Roadmap 3-Part System"
+        description: "Complete pre-prompting framework in 3 parts: Part 1 (SEARCH 1 — 12 data fields: niche, avatar, goals, complaints, promises, benefits, objections, fears, false solutions, mistaken beliefs, expensive alternatives), Part 2 (Unique Mechanisms — positive hook + negative hook, each 3 words, with detail expansions), Part 3 (Offer Branding — name, price, guarantee, bonuses with values, testimonials)."
+        domains: ["ai-copywriting", "market-research", "systems-thinking"]
+        source: "CVSL"
+      - id: "FW-JB-042"
+        title: "ChatVSL 5-Step Formula"
+        description: "The complete ChatVSL formula: Step 1 Snap Suggestion (pattern interrupt + lead, ~1000w) -> Step 2 Vital Connection (nightmare story + bridge, ~1500w) -> Step 3 Big Problem (negative hook reveal, ~500w) -> Step 4 Bigger Solution (positive hook + tips, ~800w) -> Step 5 Grand Offer (6-part perfect pitch, ~2200w). Total ~6000 words."
+        domains: ["vsl-structure", "copywriting", "methodology"]
+        source: "CVSL"
+      - id: "FW-JB-043"
+        title: "Grand Offer 6-Part Structure"
+        description: "The Grand Offer (Step 5) has exactly 6 parts: (1) Offer Introduction with 3 Choices, (2) Product Features as benefit blocks with So-Rather-Than formula, (3) Faux pricing + real price reveal, (4) Dimensional bonus descriptions with That-Means-You-Get-To formula, (5) Guarantee + community inclusion, (6) NLP Close with future pacing + presupposition + click anchor."
+        domains: ["offer-design", "closing", "vsl-structure"]
+        source: "CVSL"
+      - id: "FW-JB-044"
+        title: "12-Prompt Library System"
+        description: "Complete reusable prompt library: (1) Buyer's Roadmap, (2) Refiner, (3) Branding, (4) Expansion, (5) Rewrite Sections, (6) Offer Branding, (7) Pattern Interrupt, (8) Pattern Interrupt Refiner, (9) Lead, (10) Different Goals, (11) Get Specific, (12) Bullet Expander, (13) Create Returns/Slides."
+        domains: ["ai-copywriting", "systems-thinking", "prompt-engineering"]
+        source: "CVSL"
+      - id: "FW-JB-045"
+        title: "NLP Close Sequence"
+        description: "Layered NLP closing sequence: (1) Future pacing at 7 days (quick wins), (2) Future pacing at 30 days (life transformation), (3) Presupposition language (assuming purchase), (4) Click Anchor (embedding the word 'click'), (5) Direct CTA command, (6) Inclusion statement (joining community)."
+        domains: ["nlp-selling", "closing", "persuasion"]
+        source: "CVSL"
+      - id: "FW-JB-046"
+        title: "Pattern Interrupt Prompt Template"
+        description: "Prompt structure for AI pattern interrupts: instruct AI to write a 'movie scene' opening with (1) visual setting, (2) character in action, (3) anchor object, (4) building tension, (5) twist/cliffhanger. Must include: no exclamation marks, no hype, conversational tone, open loop at end."
+        domains: ["ai-copywriting", "pattern-interrupt", "prompt-engineering"]
+        source: "CVSL"
+      - id: "FW-JB-047"
+        title: "Nightmare Story In-Context Template"
+        description: "Two-shot training for nightmare stories: provide 3 complete example stories (different niches) that follow the pattern: (1) normal life, (2) inciting incident, (3) anchor object appears, (4) escalating struggle, (5) rock bottom, (6) Declaration of Independence, (7) discovery of solution. AI learns the emotional arc without rigid instructions."
+        domains: ["ai-copywriting", "storytelling", "prompt-engineering"]
+        source: "CVSL"
+      - id: "FW-JB-048"
+        title: "Benefit Block Formula"
+        description: "Each benefit block follows the structure: 'So rather than [old painful way], you get to [new desirable way].' Followed by dimensional expansion: What does that LOOK like? What does that FEEL like? What does that MEAN for your daily life?"
+        domains: ["copywriting", "benefit-writing", "sensory-writing"]
+        source: "CVSL"
+      - id: "FW-JB-049"
+        title: "Faux Price Architecture"
+        description: "Pricing reveal structure: (1) State the 'real' retail value of each component, (2) Stack to impressive total, (3) Acknowledge the total, (4) Reveal 'on this page only' discount, (5) Show real price with 80%+ perceived savings, (6) Justify the discount (no catch, just smart business)."
+        domains: ["pricing-psychology", "offer-design", "closing"]
+        source: "CVSL"
+      - id: "FW-JB-050"
+        title: "SEARCH 1 Data Fields"
+        description: "The 12 required data fields for Part 1 of the Buyer's Roadmap: [Niche], [Avatar], [Primary Goal], [Primary Complaint], [Secondary Goals], [Secondary Complaints], [Promises], [Benefits], [Objections], [Ultimate Fear], [False Solutions], [Mistaken Beliefs], plus [Expensive Alternatives]."
+        domains: ["market-research", "ai-copywriting", "data-architecture"]
+        source: "CVSL"
+      - id: "FW-JB-051"
+        title: "Dimensional Bonus Description"
+        description: "Each bonus follows the formula: Name + 'valued at $X' + What It Is (1 sentence) + 'That means you get to...' (3-5 dimensional benefits showing what it LOOKS and FEELS like to use the bonus)."
+        domains: ["offer-design", "benefit-writing", "copywriting"]
+        source: "CVSL"
+      - id: "FW-JB-052"
+        title: "Guarantee + Community Close"
+        description: "Guarantee structure: (1) Name the guarantee (e.g., 'Iron-Clad 60-Day Guarantee'), (2) State terms simply, (3) Remove all risk language, (4) Immediately follow with community inclusion ('You're about to join X members who...'), (5) Social proof embedded in the guarantee section."
+        domains: ["risk-reversal", "community-building", "closing"]
+        source: "CVSL"
+      - id: "FW-JB-053"
+        title: "Refiner Prompt Framework"
+        description: "The refiner prompt converts flat AI copy into dimensional copy: (1) Identify generic/radio-voice language, (2) Replace with sensory language (see, feel, hear, taste, touch), (3) Add specific details and examples, (4) Remove exclamation marks and hype, (5) Make it conversational and relatable."
+        domains: ["ai-copywriting", "editing", "quality-assurance"]
+        source: "CVSL"
+      - id: "FW-JB-054"
+        title: "3 Choices Offer Introduction"
+        description: "Open the Grand Offer with exactly 3 choices: Choice 1 (do nothing — consequences, pain continues), Choice 2 (DIY — expensive, time-consuming, uncertain), Choice 3 (the smart path — this offer). Choice architecture makes buying feel like the rational decision."
+        domains: ["decision-architecture", "offer-design", "closing"]
+        source: "CVSL"
+      - id: "FW-JB-055"
+        title: "Metabolic Dissection Framework"
+        description: "Advanced VSL analysis method from $50M Metabolic Sherpa: dissect every line to understand WHY it works. 9 attention frames mapped, open loop placement tracked, NLP techniques identified, transition triggers marked. Teaches pattern recognition, not just pattern following."
+        domains: ["copywriting-education", "analysis", "vsl-mastery"]
+        source: "CVSL"
+      - id: "FW-JB-056"
+        title: "Expansion Prompt Framework"
+        description: "Takes a bullet point or short concept and expands it to ~200 words of dimensional copy. Structure: (1) Restate the core concept, (2) Explain WHY it matters, (3) Give a specific example, (4) Paint the before/after picture, (5) Connect to the prospect's daily life."
+        domains: ["ai-copywriting", "copywriting", "expansion"]
+        source: "CVSL"
+      - id: "FW-JB-057"
+        title: "Get Specific Prompt Framework"
+        description: "Forces AI to cite studies, statistics, and facts instead of vague claims. Structure: (1) Take the claim, (2) Find or create supporting evidence, (3) Add specific numbers, dates, institutions, (4) Remove weasel words (some, many, often), (5) Make every claim verifiable."
+        domains: ["ai-copywriting", "credibility", "fact-based-selling"]
+        source: "CVSL"
+      - id: "FW-JB-058"
+        title: "Simple VSL Funnel Architecture"
+        description: "The $100M Baby Simple Funnel (via Jeff Johnson/Entra): squeeze page -> VSL page -> order form -> OTO1 -> OTO2 -> thank you page. Minimum viable funnel for scaling with paid traffic. Keep it simple, test the offer, then optimize."
+        domains: ["funnel-design", "conversion-optimization", "traffic"]
+        source: "CVSL"
+      - id: "FW-JB-059"
+        title: "YouTube Ad Script Framework"
+        description: "Via John Mulry (E5 Agency): Perfect Persona Prompting for YouTube ads. Structure: Hook (pattern interrupt) -> Pain Point -> Solution Introduction -> Authority/Proof -> CTA. Optimized for skippable format (first 5 seconds critical)."
+        domains: ["ad-scripting", "youtube-ads", "traffic"]
+        source: "CVSL"
+      - id: "FW-JB-060"
+        title: "Copy Collective Community Model"
+        description: "Jon's mastermind model at $769/month: all products included + live calls + AI tools + community. Premium community model where the product catalog IS the community benefit. Recurring revenue through ongoing value delivery, not content dripping."
+        domains: ["business-model", "community-building", "recurring-revenue"]
+        source: "CVSL"
+
+  L5_METHODOLOGIES:
+      - id: "MET-JB-001"
+        title: "Complete VSL Creation Process"
+        description: "End-to-end methodology for creating a VSL: (1) Research: Identify USP using USP Factory -> (2) Story: Write Nightmare + Dream stories -> (3) Tips: Create 3 tips (Avoid, Enjoy, How-To) -> (4) Comparisons: Build 4 comparisons (2 heavy, 2 light) -> (5) Structure: Assemble using 5-Step VSL Process -> (6) Subliminals: Add red text, action drops, anchor drops -> (7) Review: Check against 4 Buyer Modalities -> (8) Polish: Paraphrase cycle + transitions."
+        domains: ["vsl-creation", "copywriting", "production"]
+        source: "3XVSL"
+      - id: "MET-JB-002"
+        title: "USP Creation Methodology"
+        description: "Step-by-step USP development: (1) List all product benefits -> (2) Identify the PRIME benefit (what buyers care most about) -> (3) Create 5 Power Phrases (emotional hooks) -> (4) Craft 3 Enabler Phrases (mechanisms) -> (5) Combine best Power Phrase + Prime Benefit + best Enabler -> (6) Test: Is it 20 words or fewer? -> (7) Test: Would your buyer say this is why they buy? -> (8) Iterate until both tests pass."
+        domains: ["copywriting", "positioning", "usp-design"]
+        source: "3XVSL"
+      - id: "MET-JB-003"
+        title: "Nightmare Story Writing Process"
+        description: "How to write the nightmare story: (1) Identify your (or your client's) lowest point related to the problem -> (2) Open with Specifics Strategy (date, weather, clothing, location) -> (3) Escalate the Bad Part (make it progressively worse) -> (4) Hit the Focal Point (absolute rock bottom) -> (5) Write the Declaration of Independence (turning point) -> (6) Craft the Moral (bridge to solution without pitching) -> (7) Review: Does it create empathy, not pity?"
+        domains: ["storytelling", "copywriting", "emotional-design"]
+        source: "3XVSL"
+      - id: "MET-JB-004"
+        title: "Dream Story Writing Process"
+        description: "How to write the dream story: (1) Identify 2-3 authorities who exemplify the outcome -> (2) Write Follow the Leader opening referencing them -> (3) Share personal specifics (what you did, achieved) -> (4) Generalize results to 'they' (people who use this approach) -> (5) Write transition phrase to next section -> (6) Close with Present Tense Promise (future as if already real) -> (7) Review: Is the dream THEIRS, not yours?"
+        domains: ["storytelling", "copywriting", "persuasion"]
+        source: "3XVSL"
+      - id: "MET-JB-005"
+        title: "Tip Writing Process"
+        description: "How to write each tip: (1) Start with the BENEFIT (what they get from this tip) -> (2) Name the tip (What Is It) -> (3) Explain How To apply it (actionable steps) -> (4) State the Result (what happens when they apply it) -> (5) Add Mini Dream Story (paint the specific outcome) -> (6) Ensure tip type matches position: Avoid first, Enjoy second, How-To third."
+        domains: ["vsl-structure", "copywriting", "engagement"]
+        source: "3XVSL"
+      - id: "MET-JB-006"
+        title: "Snap Suggestion Assembly"
+        description: "How to build the opening: (1) Write optional intro (under 3 slides, context only) -> (2) Choose Pattern Interrupt type (image from nightmare story OR linguistic surprise) -> (3) Craft Big Promise (specific, numbered, tangible) -> (4) Add Video Scarcity (believable reason) -> (5) Write Let's Make a Deal (value exchange) -> (6) Review: Does it stop scrolling within 5 seconds?"
+        domains: ["vsl-structure", "attention-capture", "production"]
+        source: "3XVSL"
+      - id: "MET-JB-007"
+        title: "Conspiracy Cycle Construction"
+        description: "How to build the Big Problem section: (1) Identify the industry Big Lie (what everyone is told that isn't true) -> (2) Write Not Your Fault (absolve the prospect) -> (3) Identify external Blame Target (system, industry, establishment) -> (4) Reveal the Big Truth (the real answer) -> (5) Open Bigger Solution loop (tease without revealing product) -> (6) Review: Does it make the prospect angry at the system, not at themselves?"
+        domains: ["problem-framing", "persuasion", "vsl-creation"]
+        source: "3XVSL"
+      - id: "MET-JB-008"
+        title: "Grand Offer Assembly"
+        description: "How to build the Grand Offer: (1) Describe the Product clearly -> (2) Stack value before revealing Price -> (3) Write CTA (repeat 3+ times) -> (4) Alternate Pain/Pleasure points -> (5) List specific Actions buyer will take -> (6) List specific Results they will get -> (7) Write Q&A addressing top 5-7 objections -> (8) Review: Does every section move toward the click/purchase?"
+        domains: ["offer-design", "closing", "vsl-structure"]
+        source: "3XVSL"
+      - id: "MET-JB-009"
+        title: "Comparison Writing Process"
+        description: "How to create all 4 comparisons: (1) Competition: Research alternatives, identify weaknesses, position your approach as different -> (2) With/Without: Mirror 3-5 pain points with 3-5 resolutions -> (3) General: Broad market statements that position your category -> (4) Specific-to-Tip: Connect each comparison to a specific tip already delivered. Heavy comparisons go before Grand Offer; light comparisons are sprinkled throughout."
+        domains: ["comparison", "copywriting", "persuasion"]
+        source: "3XVSL"
+      - id: "MET-JB-010"
+        title: "Subliminal Layer Implementation"
+        description: "How to add subliminal influence: (1) Identify 5-8 power words for red text highlighting (Decide, Freedom, Secret, Now, You, Today) -> (2) Place Action Drops every 3-5 slides (Today, Now, You See, Listen, Actually) -> (3) Add Anchor Drops at transition points (yet, because, guess what) -> (4) Review: Are subliminals natural or forced? If forced, remove."
+        domains: ["vsl-creation", "persuasion", "visual-psychology"]
+        source: "3XVSL"
+      - id: "MET-JB-011"
+        title: "4 Buyer Modalities Integration"
+        description: "How to address all 4 buyer types: (1) Why Buyers: Include reason and context in Vital Connection and Big Problem -> (2) What Buyers: Include detailed information in Tips and Product description -> (3) How-To Buyers: Include step-by-step in How-To Tip and Actions section -> (4) What-If Buyers: Include possibilities in Dream Story and Future Pacing. Review each section for modality coverage."
+        domains: ["buyer-psychology", "copywriting", "vsl-creation"]
+        source: "3XVSL"
+      - id: "MET-JB-012"
+        title: "Even If Technique Implementation"
+        description: "How to use Even If for objection handling: (1) List top 10 objections prospects have -> (2) Rank by frequency -> (3) Convert each to 'Even if...' statement -> (4) Place top 3 in Grand Offer CTA area -> (5) Sprinkle remaining through Tips and Comparisons -> (6) Test: Does each 'Even if' address a REAL objection, not an imagined one?"
+        domains: ["objection-handling", "copywriting", "persuasion"]
+        source: "3XVSL"
+      - id: "MET-JB-013"
+        title: "Hero Study Execution"
+        description: "How to build Hero Study: (1) Identify 3-5 respected authorities in your space -> (2) Research their methods and results -> (3) Extract 2-3 patterns that align with your approach -> (4) Write 'their success can be your success' narrative -> (5) Position your product as embodying these proven patterns -> (6) Never claim to BE them — claim to have LEARNED from them."
+        domains: ["authority-building", "social-proof", "credibility"]
+        source: "3XVSL"
+      - id: "MET-JB-014"
+        title: "Vital Connection Building"
+        description: "How to create the Vital Connection: (1) Acknowledge the prospect's current situation -> (2) Demonstrate understanding of their frustrations -> (3) Share a brief 'I've been there' statement -> (4) Bridge to 'what I discovered' -> (5) Transition smoothly to Big Problem section -> (6) Review: Does the viewer feel 'this person gets me'?"
+        domains: ["rapport", "trust-building", "vsl-structure"]
+        source: "3XVSL"
+      - id: "MET-JB-015"
+        title: "Transition to Grand Offer Execution"
+        description: "How to execute the closing transition: (1) After How-To Tip, pause — acknowledge they've received value -> (2) Present Two Choices (do nothing vs. act) -> (3) Label acting as 'the savvy choice' -> (4) State 'I've done the work for you' -> (5) Reveal product: 'It's called...' -> (6) Immediately describe what it is and does -> (7) Review: Does the transition feel earned, not forced?"
+        domains: ["closing", "vsl-structure", "persuasion"]
+        source: "3XVSL"
+      - id: "MET-JB-016"
+        title: "Paraphrase Cycle Execution"
+        description: "How to implement paraphrase cycles: (1) Identify 3-5 core messages of the VSL -> (2) After every 5-15 slides, check if a core message needs reinforcing -> (3) Choose a paraphrase vehicle: analogy, example, reframe, or different angle -> (4) Write the paraphrase so it adds NEW insight, not just repetition -> (5) Ensure paraphrases use different vocabulary than originals."
+        domains: ["retention", "engagement", "copywriting"]
+        source: "3XVSL"
+      - id: "MET-JB-017"
+        title: "Open Loop Management"
+        description: "How to manage curiosity loops: (1) Open major loop in Snap Suggestion (the big secret/revelation) -> (2) Open 2-3 micro-loops in each section (teases of upcoming content) -> (3) Close micro-loops within their section to build trust -> (4) Keep major loop open until product reveal -> (5) Make product the ONLY way to fully close the major loop -> (6) Test: Can viewer close any loop without buying? If yes, redesign."
+        domains: ["engagement", "persuasion", "vsl-creation"]
+        source: "3XVSL"
+      - id: "MET-JB-018"
+        title: "Tire Kicker Elimination Execution"
+        description: "How to implement tire kicker filter: (1) Place early in VSL (within first 3 minutes) -> (2) State clearly: 'If you're looking for a magic pill or get-rich-quick scheme, please close this video now' -> (3) Follow with: 'But if you're serious about...' -> (4) This self-selects committed viewers -> (5) Review: Does it feel genuine, not manipulative?"
+        domains: ["qualification", "engagement", "trust-building"]
+        source: "3XVSL"
+      - id: "MET-JB-019"
+        title: "VSL Slide Design Process"
+        description: "How to design VSL slides: (1) Use Title Case for all text -> (2) One key idea per slide -> (3) Highlight power words in red -> (4) Keep background simple (solid color or subtle gradient) -> (5) Use large, readable font -> (6) Add Action Drop words naturally -> (7) Test readability at smallest expected viewing size."
+        domains: ["vsl-creation", "visual-design", "production"]
+        source: "3XVSL"
+      - id: "MET-JB-020"
+        title: "Q&A Section Construction"
+        description: "How to build the Q&A objection sweep: (1) List every objection you've ever heard about this type of product -> (2) Rank top 5-7 by frequency -> (3) Frame each as a question: 'You might be wondering...' -> (4) Answer each concisely (2-3 sentences) -> (5) End each answer with a mini push toward the CTA -> (6) Close Q&A section with final CTA."
+        domains: ["objection-handling", "closing", "vsl-structure"]
+        source: "3XVSL"
+      - id: "MET-JB-021"
+        title: "Price Reveal Methodology"
+        description: "How to present price for maximum acceptance: (1) Build complete value stack first -> (2) Anchor with higher comparison price -> (3) Reveal actual price as contrast -> (4) Follow immediately with guarantee/risk reversal -> (5) Restate value received vs. price paid -> (6) CTA immediately after. Never allow price to sit alone without value context."
+        domains: ["pricing", "offer-design", "closing"]
+        source: "3XVSL"
+      - id: "MET-JB-022"
+        title: "Nightmare Story Object Selection"
+        description: "How to choose the pattern interrupt image: (1) List all physical objects mentioned in nightmare story -> (2) Choose the one with strongest emotional association -> (3) Use it as the opening visual of the VSL -> (4) This connects the emotional story to the visual hook before the viewer even hears the story -> (5) Test: Does seeing this object trigger curiosity or emotional response?"
+        domains: ["vsl-creation", "visual-design", "storytelling"]
+        source: "3XVSL"
+      - id: "MET-JB-023"
+        title: "Buyer Modality Audit"
+        description: "How to verify all 4 modalities are addressed: (1) Highlight all Why content in blue -> (2) Highlight all What content in green -> (3) Highlight all How-To content in yellow -> (4) Highlight all What-If content in purple -> (5) If any color is absent from a major section, add content for that modality -> (6) Ensure no single modality dominates more than 35% of total content."
+        domains: ["buyer-psychology", "copywriting", "quality-assurance"]
+        source: "3XVSL"
+      - id: "MET-JB-024"
+        title: "Emotional Arc Verification"
+        description: "How to verify the VSL emotional arc is correct: (1) Map each section to its target emotion -> (2) Verify sequence: Curiosity -> Connection -> Anger -> Empathy -> Hope -> Trust -> Desire -> Action -> (3) Check for emotional dead zones (sections that don't evoke anything) -> (4) Ensure no emotion is sustained for more than 3-4 minutes -> (5) Add emotional transitions between sections if abrupt."
+        domains: ["emotional-design", "vsl-creation", "quality-assurance"]
+        source: "3XVSL"
+      - id: "MET-JB-025"
+        title: "Competition Research for Comparisons"
+        description: "How to research for competition comparison: (1) Identify top 3-5 alternatives prospects consider -> (2) List their key features and claims -> (3) Identify gaps or weaknesses in their approach -> (4) Map your unique advantages against those gaps -> (5) Write comparison that highlights your differentiation WITHOUT naming competitors -> (6) Test: Is it ethical? Could you say it if they were in the room?"
+        domains: ["comparison", "research", "positioning"]
+        source: "3XVSL"
+      - id: "MET-JB-026"
+        title: "With/Without Comparison Construction"
+        description: "How to build the most powerful comparison: (1) List 5 current pain points of life WITHOUT product -> (2) For each, write the corresponding state WITH product -> (3) Mirror them: pain #1 -> resolution #1, pain #2 -> resolution #2 -> (4) Present as two-column or alternating format -> (5) End with strongest pair last (escalation) -> (6) Follow immediately with CTA."
+        domains: ["comparison", "closing", "emotional-design"]
+        source: "3XVSL"
+      - id: "MET-JB-027"
+        title: "Dream Story Present Tense Writing"
+        description: "How to write present tense future pacing: (1) Choose 3-5 desired outcomes of using the product -> (2) Write each as if happening right now: 'You wake up and...' / 'You check your...' -> (3) Include sensory details (what they see, feel, hear) -> (4) Make it a 60-90 second narrative, not a bullet list -> (5) Close with an emotional peak moment."
+        domains: ["storytelling", "persuasion", "copywriting"]
+        source: "3XVSL"
+      - id: "MET-JB-028"
+        title: "Bigger Solution Section Assembly"
+        description: "How to assemble the Bigger Solution: (1) Start with Avoid Tip (fear-based, addresses the 'why' modality) -> (2) Follow with Enjoy Tip (aspiration-based, addresses 'what-if' modality) -> (3) Close with How-To Tip (actionable, linchpin — strongest reciprocity builder) -> (4) After How-To Tip, begin Transition to Grand Offer sequence -> (5) Each tip follows the Tip Formula (Benefit -> What Is It -> How To -> Result -> Mini Dream Story)."
+        domains: ["vsl-structure", "persuasion", "production"]
+        source: "3XVSL"
+      - id: "MET-JB-029"
+        title: "Actions/Results Section Writing"
+        description: "How to write the Actions/Results section: (1) List 5-7 specific actions the buyer will take with the product -> (2) For each action, state the result -> (3) Format: 'First, you'll [ACTION], which gives you [RESULT]' -> (4) Escalate — start with easy actions, end with transformative ones -> (5) Final action/result pair should mirror the Big Promise from Snap Suggestion."
+        domains: ["offer-design", "closing", "copywriting"]
+        source: "3XVSL"
+      - id: "MET-JB-030"
+        title: "Pain/Pleasure Close Execution"
+        description: "How to execute pain/pleasure in Grand Offer: (1) Write 3 pain statements (consequences of not buying) -> (2) Write 3 pleasure statements (benefits of buying) -> (3) Alternate: Pain #1 -> Pleasure #1 -> Pain #2 -> Pleasure #2 -> Pain #3 -> Pleasure #3 -> (4) End on pleasure (final image should be positive) -> (5) Follow immediately with CTA."
+        domains: ["closing", "emotional-design", "persuasion"]
+        source: "3XVSL"
+      - id: "MET-JB-031"
+        title: "VSL Review Checklist"
+        description: "Final quality review before publishing: (1) USP present and under 20 words? -> (2) Both stories (nightmare + dream) present? -> (3) All 3 tip types in correct order? -> (4) All 4 comparisons present (2 heavy, 2 light)? -> (5) Grand Offer has all 6 parts? -> (6) All 4 buyer modalities addressed? -> (7) Subliminals natural (not forced)? -> (8) Transitions smooth between sections? -> (9) Total length 28-32 minutes? -> (10) Paraphrase cycles present?"
+        domains: ["quality-assurance", "vsl-creation", "production"]
+        source: "3XVSL"
+      - id: "MET-JB-032"
+        title: "Inclusion Statement Placement"
+        description: "How to place inclusion statements throughout VSL: (1) In Vital Connection: 'You're not alone in feeling...' -> (2) After Tips: 'Thousands have already discovered...' -> (3) In Grand Offer: 'Join the growing community of...' -> (4) In Q&A: 'Most of our members found...' -> (5) Never use fake numbers. Vague inclusion ('many', 'thousands') is better than specific lies."
+        domains: ["social-proof", "copywriting", "trust-building"]
+        source: "3XVSL"
+      # === CHAT VSL (CVSL) — 16 new methodologies ===
+      - id: "MET-JB-033"
+        title: "Complete Buyer's Roadmap Build Process"
+        description: "Step-by-step roadmap creation: (1) Open ChatGPT-4 Plus, (2) Input niche in 2-4 words, (3) Run SEARCH 1 prompt to generate 12 data fields, (4) Review and refine each field manually, (5) Run branding prompt 5-12 times for positive and negative hooks, (6) Select best hooks based on mystery and scientific sound, (7) Run offer branding prompt for name, price, guarantee, bonuses, (8) Copy entire roadmap data before any VSL prompt."
+        domains: ["ai-copywriting", "market-research", "methodology"]
+        source: "CVSL"
+      - id: "MET-JB-034"
+        title: "Pattern Interrupt Creation (Movie Scene)"
+        description: "Pattern interrupt creation methodology: (1) Write movie-scene prompt with visual setting and anchor object, (2) Include all buyer roadmap data in prompt, (3) Specify: no exclamation marks, no hype, conversational tone, (4) Generate pattern interrupt, (5) Run pattern interrupt REFINER to add anchor object and remove sales language, (6) Review for dimensionalization, (7) Ensure open loop at end leading to lead section."
+        domains: ["ai-copywriting", "pattern-interrupt", "vsl-creation"]
+        source: "CVSL"
+      - id: "MET-JB-035"
+        title: "Two-Shot AI Training for Nightmare Stories"
+        description: "In-context training methodology: (1) Gather 3 example nightmare stories from different niches, (2) Paste all 3 examples BEFORE the prompt, (3) Add buyer roadmap data, (4) Instruct AI to write a nightmare story in the STYLE of the examples, (5) Do NOT give rigid structural instructions — let AI learn the pattern from examples, (6) Refine for dimensionalization and anchor object continuity."
+        domains: ["ai-copywriting", "storytelling", "prompt-engineering"]
+        source: "CVSL"
+      - id: "MET-JB-036"
+        title: "Hook Generation Process"
+        description: "Unique mechanism naming methodology: (1) Run branding prompt with buyer roadmap data, (2) Review 4-6 options generated, (3) Re-run prompt 5-12 more times, (4) Collect 20-50+ hook name options, (5) Filter: must be 3-4 words max, Title Case, scientific/mysterious sounding, (6) Test: does it sound like something you'd Google?, (7) Select best positive hook and best negative hook."
+        domains: ["branding", "offer-construction", "ai-copywriting"]
+        source: "CVSL"
+      - id: "MET-JB-037"
+        title: "Grand Offer Assembly (6 Parts)"
+        description: "Step-by-step Grand Offer creation: (1) Write 3 Choices intro (do nothing / DIY / smart path), (2) Write product features using So-Rather-Than formula for each benefit, (3) Build faux price stack with retail values > 2x offer price, (4) Write dimensional bonus descriptions with That-Means-You-Get-To formula, (5) Write guarantee with immediate community inclusion, (6) Write NLP close: future pacing (7d + 30d) + presupposition + click anchor + CTA."
+        domains: ["offer-design", "closing", "vsl-creation"]
+        source: "CVSL"
+      - id: "MET-JB-038"
+        title: "VSL Editing and Refinement Process"
+        description: "Post-generation editing methodology: (1) Read full output aloud — mark anything that sounds like 'radio voice', (2) Run refiner prompt on flagged sections, (3) Check dimensionalization: can you SEE and FEEL every claim?, (4) Remove ALL exclamation marks, (5) Verify anchor object appears in interrupt + nightmare + offer, (6) Ensure all open loops are closed, (7) Check facts — AI lies, (8) Final pass for tone consistency."
+        domains: ["editing", "quality-assurance", "ai-copywriting"]
+        source: "CVSL"
+      - id: "MET-JB-039"
+        title: "Refiner Prompt Methodology"
+        description: "Copy refinement process: (1) Identify flat/generic sections in AI output, (2) Paste section into refiner prompt, (3) Specify: make more dimensional, add sensory language, remove hype, (4) Compare original vs refined, (5) Take best parts of both, (6) Re-run refiner on still-flat sections, (7) Maximum 3 refinement passes per section — diminishing returns after that."
+        domains: ["ai-copywriting", "editing", "dimensionalization"]
+        source: "CVSL"
+      - id: "MET-JB-040"
+        title: "Offer Branding Process"
+        description: "Complete offer branding methodology: (1) Start with buyer roadmap data, (2) Generate offer name options (5+ iterations), (3) Generate bonus names and values using tilde-separated format, (4) Assign retail values that stack to 4-8x the real price, (5) Write guarantee name and terms, (6) Compile testimonial data for social proof sections."
+        domains: ["branding", "offer-design", "ai-copywriting"]
+        source: "CVSL"
+      - id: "MET-JB-041"
+        title: "Bullet Expansion Methodology"
+        description: "Converting bullet points to dimensional paragraphs: (1) Take a single bullet/benefit, (2) Run through expansion prompt targeting ~200 words, (3) Structure: restate concept + why it matters + specific example + before/after picture + connect to daily life, (4) Check for sensory language, (5) Ensure no generic claims remain."
+        domains: ["copywriting", "expansion", "ai-copywriting"]
+        source: "CVSL"
+      - id: "MET-JB-042"
+        title: "Returns/Slides Formatting"
+        description: "Converting VSL copy to slide format: (1) Take completed VSL text, (2) Run create returns prompt, (3) Break into 1-2 sentence slides, (4) Each slide = one thought or image, (5) Add slide transition markers, (6) Include red text markers for subliminal emphasis words, (7) Timing: average 2-3 seconds per slide."
+        domains: ["vsl-production", "formatting", "production"]
+        source: "CVSL"
+      - id: "MET-JB-043"
+        title: "Different Goals Prompt Usage"
+        description: "Preventing AI repetition methodology: (1) When AI generates similar goals/complaints/benefits repeatedly, (2) Use the Different Goals prompt which explicitly says 'do NOT repeat any of the following: [paste existing]', (3) Force AI into new creative territory, (4) Run 3-4 times to build a diverse pool, (5) Select best from each run."
+        domains: ["ai-copywriting", "variety-generation", "prompt-engineering"]
+        source: "CVSL"
+      - id: "MET-JB-044"
+        title: "Get Specific Prompt Usage"
+        description: "Fact-based selling methodology: (1) Identify vague claims in copy (some, many, often), (2) Run Get Specific prompt on each claim, (3) AI finds or creates supporting statistics, studies, dates, (4) CRITICAL: verify every fact AI provides — it lies, (5) Replace vague claims with specific, verifiable data, (6) Add attribution where possible."
+        domains: ["credibility", "fact-checking", "ai-copywriting"]
+        source: "CVSL"
+      - id: "MET-JB-045"
+        title: "Simple VSL Funnel Build"
+        description: "Minimum viable funnel methodology (via Jeff Johnson/$100M Funnel): (1) Create squeeze page with single opt-in, (2) VSL page with delayed buy button at 20-25 min, (3) Include both button AND text hyperlink CTA, (4) Simple order form, (5) One-Time Offer 1, (6) One-Time Offer 2, (7) Thank you page with superbonus countdown, (8) Test with $50-100/day traffic before scaling."
+        domains: ["funnel-design", "traffic", "conversion-optimization"]
+        source: "CVSL"
+      - id: "MET-JB-046"
+        title: "YouTube Ad Script with AI"
+        description: "AI-powered YouTube ad creation (via John Mulry/E5): (1) Define perfect persona using AI prompts, (2) Script hook for first 5 seconds (skippable threshold), (3) Establish pain point in seconds 5-15, (4) Introduce solution with proof, (5) Direct CTA, (6) Shoot in 'talking head' format, (7) Test 3-5 script variations, (8) Scale winners with broad targeting."
+        domains: ["ad-scripting", "youtube-ads", "ai-copywriting"]
+        source: "CVSL"
+      - id: "MET-JB-047"
+        title: "Unique Mechanism Naming"
+        description: "Complete hook naming methodology: (1) Review buyer roadmap for root cause (negative) and secret sauce (positive), (2) Run branding prompt with data, (3) Generate 4-6 options per run, (4) Repeat 5-12 runs, (5) Build list of 20-50 candidates, (6) Filter: 3-4 words max, Title Case, mysterious, scientific, (7) Test: would you Google this?, (8) Select best negative + best positive hook."
+        domains: ["branding", "naming", "offer-construction"]
+        source: "CVSL"
+      - id: "MET-JB-048"
+        title: "Metabolic Dissection Analysis"
+        description: "Advanced VSL reverse-engineering methodology (from Bonus 2): (1) Take a proven high-revenue VSL, (2) Map all 9 attention frames, (3) Identify and number every open loop, (4) Mark where each loop opens and closes, (5) Identify NLP techniques line by line, (6) Map transition triggers between sections, (7) Note pricing psychology architecture, (8) Document the emotional journey curve, (9) Extract reusable patterns for your own VSL."
+        domains: ["copywriting-education", "analysis", "pattern-recognition"]
+        source: "CVSL"
+
+    # === 3X VSL SELLERATOR BONUS (233 elements, 2026-03-23) ===
+    # Sources: 100M Conversion Secrets, 28-Day Product Creation, Fast Track, Traffic Pros
+    # Full extraction in agent transcripts. Key elements below (condensed).
+
+    # -- 100M CONVERSION SECRETS (73 el) --
+      - id: "FIL-JB-350"
+        title: "Nobody Cares About Your Product"
+        description: "They care about themselves. What they buy has nothing to do with your product."
+        domains: ["sales-psychology"]
+        source: "3XBONUS-100M"
+      - id: "FIL-JB-353"
+        title: "Negative Motivation 100x Positive"
+        description: "Mammalian brain responds to fear first."
+        domains: ["sales-psychology"]
+        source: "3XBONUS-100M"
+      - id: "FIL-JB-355"
+        title: "Imagine Is Most Powerful Word"
+        description: "Puts user into imagination. You give them an order."
+        domains: ["copywriting", "nlp-techniques"]
+        source: "3XBONUS-100M"
+      - id: "FIL-JB-357"
+        title: "Simple But Not Easy"
+        description: "Cuts refunds in half. Correct expectations."
+        domains: ["offer-positioning"]
+        source: "3XBONUS-100M"
+      - id: "FIL-JB-361"
+        title: "Make Reader Feel Understood"
+        description: "People buy because they feel understood."
+        domains: ["copywriting"]
+        source: "3XBONUS-100M"
+      - id: "FIL-JB-364"
+        title: "Not Your Fault Then Your Responsibility"
+        description: "First empathy, then transfer responsibility."
+        domains: ["persuasion-psychology"]
+        source: "3XBONUS-100M"
+      - id: "MM-JB-350"
+        title: "Honey Badger Syndrome"
+        description: "Make customer believe ONE thing only."
+        domains: ["offer-positioning"]
+        source: "3XBONUS-100M"
+      - id: "MM-JB-352"
+        title: "Hero and Villain Narrative"
+        description: "Villain never a person. You RELUCTANT hero."
+        domains: ["storytelling"]
+        source: "3XBONUS-100M"
+      - id: "MM-JB-354"
+        title: "Three Tip Modalities"
+        description: "AVOID ENJOY HOW-TO in that order."
+        domains: ["persuasion-psychology"]
+        source: "3XBONUS-100M"
+      - id: "MM-JB-358"
+        title: "Seven Why Drill-Down"
+        description: "Ask why 7 times for real emotional core."
+        domains: ["market-research"]
+        source: "3XBONUS-100M"
+      - id: "MM-JB-359"
+        title: "Brain Layer Persuasion"
+        description: "Amygdala > mammalian > prefrontal. Start fear."
+        domains: ["neuroscience-marketing"]
+        source: "3XBONUS-100M"
+      - id: "MM-JB-360"
+        title: "Cost of Inaction vs Price"
+        description: "Cost of NOT acting should dwarf the price."
+        domains: ["pricing-psychology"]
+        source: "3XBONUS-100M"
+      - id: "HEUR-JB-350"
+        title: "6% Fitness = Exceptional"
+        description: "1.2% cold = rich. PersonalDev can get 30%."
+        domains: ["conversion-benchmarks"]
+        source: "3XBONUS-100M"
+      - id: "HEUR-JB-353"
+        title: "Q&A 20-30% More Conversions"
+        description: "People click buy 1-6 min into Q&A."
+        domains: ["conversion-optimization"]
+        source: "3XBONUS-100M"
+      - id: "HEUR-JB-354"
+        title: "Checkout Walkthrough 21% Lift"
+        description: "Show exact checkout process."
+        domains: ["checkout-optimization"]
+        source: "3XBONUS-100M"
+      - id: "HEUR-JB-359"
+        title: "Slide Pacing 70 BPM"
+        description: "Match resting heart rate."
+        domains: ["vsl-production"]
+        source: "3XBONUS-100M"
+      - id: "HEUR-JB-360"
+        title: "Lower Volume 25% More Conversions"
+        description: "Forces leaning in. Ryan Deiss test."
+        domains: ["conversion-optimization"]
+        source: "3XBONUS-100M"
+      - id: "HEUR-JB-361"
+        title: "Red Words Subliminal Sentences"
+        description: "Red highlights form hidden messages across slides."
+        domains: ["subliminal-copywriting"]
+        source: "3XBONUS-100M"
+      - id: "HEUR-JB-366"
+        title: "Faux Price 75% Success"
+        description: "Always give REASON for discount."
+        domains: ["pricing-psychology"]
+        source: "3XBONUS-100M"
+      - id: "HEUR-JB-368"
+        title: "4-5 CTAs Not 1-2"
+        description: "Same copy word-for-word at different points."
+        domains: ["conversion-optimization"]
+        source: "3XBONUS-100M"
+      - id: "FW-JB-350"
+        title: "5-Step VSL Live"
+        description: "SNAP + Vital Connection + Big Problem + Bigger Solution + Grand Offer."
+        domains: ["vsl-creation"]
+        source: "3XBONUS-100M"
+      - id: "FW-JB-352"
+        title: "Grand Offer 6x13"
+        description: "Product Price CTA Pain&Pleasure Actions&Results Q&A."
+        domains: ["offer-construction"]
+        source: "3XBONUS-100M"
+      - id: "FW-JB-353"
+        title: "Triple Guarantee"
+        description: "30-day 60-day anytime."
+        domains: ["guarantee-design"]
+        source: "3XBONUS-100M"
+      - id: "FW-JB-354"
+        title: "Nightmare Story Construction"
+        description: "Specific date + sensory detail + rock bottom + VOW."
+        domains: ["storytelling"]
+        source: "3XBONUS-100M"
+      - id: "FW-JB-355"
+        title: "Three Trust Keys"
+        description: "MODESTY + HONESTY + DETERMINATION."
+        domains: ["rapport-building"]
+        source: "3XBONUS-100M"
+      - id: "FW-JB-358"
+        title: "Two Choices Transition"
+        description: "ALONE vs SAVVY. Make DIY impossible."
+        domains: ["offer-transition"]
+        source: "3XBONUS-100M"
+      - id: "FW-JB-362"
+        title: "Cause-Based Discount"
+        description: "Mission-driven generosity reason."
+        domains: ["pricing-psychology"]
+        source: "3XBONUS-100M"
+      - id: "MET-JB-350"
+        title: "SNAP Suggestion Method"
+        description: "Image interrupt + 3 promises + scarcity + yes-question."
+        domains: ["vsl-creation"]
+        source: "3XBONUS-100M"
+      - id: "MET-JB-352"
+        title: "Frictionless Checkout"
+        description: "Show screenshot, seals, exact button. 21% lift."
+        domains: ["checkout-optimization"]
+        source: "3XBONUS-100M"
+      - id: "MET-JB-354"
+        title: "Future Pacing"
+        description: "Future > present tense drift. Specific daily life. No photos."
+        domains: ["copywriting"]
+        source: "3XBONUS-100M"
+      - id: "MET-JB-356"
+        title: "NLP Anchor Drops"
+        description: "NOW Remember In-order-to. Every 5-10 slides."
+        domains: ["nlp-techniques"]
+        source: "3XBONUS-100M"
+      - id: "MET-JB-358"
+        title: "Three Emotional Triggers Close"
+        description: "PAIN/LOSS + FREEDOM/PLEASURE + VALIDATION."
+        domains: ["closing-techniques"]
+        source: "3XBONUS-100M"
+
+    # -- 28-DAY PRODUCT CREATION (78 el) --
+      - id: "FIL-JB-400"
+        title: "Perfection Enemy Of Progress"
+        description: "Good is good enough. Update later."
+        domains: ["product-creation"]
+        source: "3XBONUS-28DAY"
+      - id: "FIL-JB-405"
+        title: "Anti-Guru More Relatable"
+        description: "Journey > arrived success."
+        domains: ["product-creation"]
+        source: "3XBONUS-28DAY"
+      - id: "FIL-JB-408"
+        title: "Sell Before You Create"
+        description: "Pre-sold webinar, future bonus, upsell."
+        domains: ["product-launch"]
+        source: "3XBONUS-28DAY"
+      - id: "FIL-JB-413"
+        title: "The List Is Gold"
+        description: "Qualified buyer email list = ultimate asset."
+        domains: ["list-building"]
+        source: "3XBONUS-28DAY"
+      - id: "MM-JB-400"
+        title: "Passion x Demand"
+        description: "Love + value intersection."
+        domains: ["product-creation"]
+        source: "3XBONUS-28DAY"
+      - id: "MM-JB-407"
+        title: "Record-First Triple Product"
+        description: "Audio + ebook + video from one recording."
+        domains: ["product-creation"]
+        source: "3XBONUS-28DAY"
+      - id: "MM-JB-408"
+        title: "Amazon-as-Ad"
+        description: "Kindle = free advertising platform."
+        domains: ["traffic"]
+        source: "3XBONUS-28DAY"
+      - id: "HEUR-JB-400"
+        title: "25% First Pass Rule"
+        description: "25% first pass = success."
+        domains: ["product-creation"]
+        source: "3XBONUS-28DAY"
+      - id: "HEUR-JB-402"
+        title: "28-Day Timeline"
+        description: "Wk1 research Wk2 outline Wk3 record Wk4 launch."
+        domains: ["product-creation"]
+        source: "3XBONUS-28DAY"
+      - id: "HEUR-JB-406"
+        title: "75% Affiliate Commission"
+        description: "Under $100 always 75%."
+        domains: ["affiliate-marketing"]
+        source: "3XBONUS-28DAY"
+      - id: "HEUR-JB-408"
+        title: "25-35% Kindle-to-OptIn"
+        description: "Free Kindle = top list builder."
+        domains: ["list-building"]
+        source: "3XBONUS-28DAY"
+      - id: "HEUR-JB-411"
+        title: "Custom Billing 50% Fewer Refunds"
+        description: "Product name not CLICKBANK."
+        domains: ["refund-reduction"]
+        source: "3XBONUS-28DAY"
+      - id: "HEUR-JB-412"
+        title: "Video Walkthrough 30-40% Income"
+        description: "Most profitable upsell."
+        domains: ["upsells"]
+        source: "3XBONUS-28DAY"
+      - id: "FW-JB-400"
+        title: "28-Day Formula"
+        description: "4 weeks: topic outline record launch."
+        domains: ["product-creation"]
+        source: "3XBONUS-28DAY"
+      - id: "FW-JB-401"
+        title: "3-Section Book"
+        description: "12 chapters: intro + info + tactics."
+        domains: ["product-creation"]
+        source: "3XBONUS-28DAY"
+      - id: "FW-JB-407"
+        title: "Opt-In Page Formula"
+        description: "Benefit WITHOUT pain + fake video + name+email."
+        domains: ["lead-generation"]
+        source: "3XBONUS-28DAY"
+      - id: "FW-JB-409"
+        title: "Get Paid To Create"
+        description: "Sell before product exists."
+        domains: ["product-launch"]
+        source: "3XBONUS-28DAY"
+      - id: "FW-JB-410"
+        title: "Kindle Free Book Funnel"
+        description: "Mini free Kindle > opt-in > email > VSL."
+        domains: ["traffic", "list-building"]
+        source: "3XBONUS-28DAY"
+      - id: "MET-JB-400"
+        title: "Week 1 Topic Research"
+        description: "What teach free + survey + passion x demand."
+        domains: ["product-creation"]
+        source: "3XBONUS-28DAY"
+      - id: "MET-JB-403"
+        title: "Week 4 Launch"
+        description: "Opt-in Kindle ClickBank 75% video upsell."
+        domains: ["product-launch"]
+        source: "3XBONUS-28DAY"
+
+    # -- 3X VSL FAST TRACK (35 el) --
+      - id: "FIL-JB-450"
+        title: "Ugly Always Wins"
+        description: "Raw aesthetic > polished production."
+        domains: ["vsl-copywriting"]
+        source: "3XBONUS-FT"
+      - id: "HEUR-JB-455"
+        title: "Investment Not Price"
+        description: "Investment implies return."
+        domains: ["pricing-psychology"]
+        source: "3XBONUS-FT"
+      - id: "FW-JB-450"
+        title: "13-Part Grand Offer"
+        description: "Full structure with all sub-elements."
+        domains: ["vsl-structure"]
+        source: "3XBONUS-FT"
+      - id: "FW-JB-451"
+        title: "Triple Price Drop-Down"
+        description: "Faux > not half > not $67 > one payment."
+        domains: ["pricing-psychology"]
+        source: "3XBONUS-FT"
+      - id: "FW-JB-452"
+        title: "Pain-Pleasure-Action Close"
+        description: "Restate pain + future-pace pleasure + responsibility."
+        domains: ["vsl-structure"]
+        source: "3XBONUS-FT"
+
+    # -- TRAFFIC PROS (47 el) --
+      - id: "FIL-JB-500"
+        title: "Great VSL Attracts Traffic"
+        description: "Converting VSL attracts affiliates and organic."
+        domains: ["traffic-strategy"]
+        source: "3XBONUS-TP"
+      - id: "FIL-JB-501"
+        title: "Small Targeted Beats Mass"
+        description: "2500 targeted = $7000+."
+        domains: ["traffic-strategy"]
+        source: "3XBONUS-TP"
+      - id: "MM-JB-500"
+        title: "Three Traffic Types"
+        description: "TOLL BOOTH DIRECT DISTRACTION."
+        domains: ["traffic-strategy"]
+        source: "3XBONUS-TP"
+      - id: "MM-JB-501"
+        title: "Horoscope Effect"
+        description: "Smallest sub-segments. Speak specifically."
+        domains: ["ad-targeting"]
+        source: "3XBONUS-TP"
+      - id: "MM-JB-503"
+        title: "Rule Of Ones"
+        description: "$1 CPC x 1% conv x $100 = break even."
+        domains: ["media-buying"]
+        source: "3XBONUS-TP"
+      - id: "MM-JB-505"
+        title: "Conversions Before Traffic"
+        description: "Double conversions easier than double traffic."
+        domains: ["conversion-optimization"]
+        source: "3XBONUS-TP"
+      - id: "HEUR-JB-500"
+        title: "3 Cents Per Like"
+        description: "$6000 = 200K Facebook likes."
+        domains: ["facebook-traffic"]
+        source: "3XBONUS-TP"
+      - id: "HEUR-JB-509"
+        title: "50% OptIn Congruent Ads"
+        description: "100% congruent ad-to-page."
+        domains: ["facebook-traffic"]
+        source: "3XBONUS-TP"
+      - id: "HEUR-JB-514"
+        title: "Hidden Button 83% Increase"
+        description: "Hide buy until price reveal."
+        domains: ["conversion-optimization"]
+        source: "3XBONUS-TP"
+      - id: "HEUR-JB-515"
+        title: "Countdown 2x Conversions"
+        description: "White/black horizontal 72h max."
+        domains: ["conversion-optimization"]
+        source: "3XBONUS-TP"
+      - id: "FW-JB-500"
+        title: "Facebook Article Stack"
+        description: "Fan page + cumulative like + content + ads + chat."
+        domains: ["facebook-traffic"]
+        source: "3XBONUS-TP"
+      - id: "FW-JB-501"
+        title: "YouTube To VSL Pipeline"
+        description: "10 videos validate 10K In-Search ads CTA."
+        domains: ["youtube-traffic"]
+        source: "3XBONUS-TP"
+      - id: "FW-JB-504"
+        title: "Ad-To-Page Congruency"
+        description: "Same everything = 3% CTR + 50% opt-in."
+        domains: ["facebook-traffic"]
+        source: "3XBONUS-TP"
+      - id: "FW-JB-505"
+        title: "VSL Conversion Stack"
+        description: "Test headline button countdown cart."
+        domains: ["conversion-optimization"]
+        source: "3XBONUS-TP"
+      - id: "MET-JB-500"
+        title: "Facebook Revenue Pipeline"
+        description: "Like ads > blog > promos > chat > webinars."
+        domains: ["facebook-traffic"]
+        source: "3XBONUS-TP"
+      - id: "MET-JB-501"
+        title: "YouTube Revenue System"
+        description: "Sub-niche validate AdWords banner CTA."
+        domains: ["youtube-traffic"]
+        source: "3XBONUS-TP"
+      - id: "MET-JB-502"
+        title: "Lead Scoring Automation"
+        description: "Score engagement personalize progressive button."
+        domains: ["conversion-optimization"]
+        source: "3XBONUS-TP"

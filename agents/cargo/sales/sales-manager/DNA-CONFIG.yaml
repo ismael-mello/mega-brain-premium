@@ -6,8 +6,17 @@
 # Template: DNA-CONFIG-V2 (100% rastreabilidade)
 
 cargo: "SALES-MANAGER"
-versao: "4.4.0"
+versao: "4.9.0"
+# v4.9.0 (2026-03-23): Jon Benson TCB enrichment — pitch construction training, Samurai Q&A coaching, Tsunami Close for team playbooks
+#                      - New TCB domains: persuasion-fundamentals, samurai-close, tsunami-close, pitch-construction, word-alchemy, speedwriting
+#                      - Key frameworks: Samurai Q&A (train reps), Tsunami Close (team close playbook), HEX for pitch training, Word Alchemy for call QC
+# v4.8.0 (2026-03-22): Jon Benson CVSL enrichment — AI copywriting for sales teams, $120 AOV threshold, Simple VSL Funnel architecture
+#                      - Key: Simple VSL Funnel Build, $120 AOV for paid traffic, 20-25min buy button, hyperlink+button CTAs
+# v4.7.0 (2026-03-22): Jon Benson 3XVSL enrichment — VSL funnel architecture, conversion optimization, buyer modality coverage
 nivel: "SALES"
+# v4.5.0 (2026-03-22): JH DMM enrichment — Deep Selling, Aggressive Follow-Up Cadence, Video Follow-Up, Commission Framework (20%/8%)
+#                      - New DMM domains: deep-selling, follow-up-cadence, video-follow-up, commission-framework
+#                      - Key frameworks: Deep Selling, Aggressive Follow-Up Cadence, Video Follow-Up Method, Commission Framework (20% first-time / 8% recurring)
 # v4.4.0 (2026-03-19): Added robert-cialdini (team-influence, ethical-persuasion, commitment-psychology, coaching-persuasion) — EIPP pipeline, peso 0.75
 #   Key RC for SM: 6 Principles of Influence (train teams on influence principles), Commitment & Consistency (coaching framework),
 #   Ethical Persuasion (ensure reps use influence ethically), Pre-Suasion (pre-call framing methodology)
@@ -321,13 +330,55 @@ dna_primario:
         source: "Straight Line Persuasion Fast Track (SLPFT)"
 
   - pessoa: "jeremy-haynes"
-    peso: 0.65
+    peso: 0.75
     dominios_absorvidos:
       - "Scaling Math"
       - "Capacity-Based Hiring"
       - "Marketing-Sales Coordination"
+      # DMM enrichment (2026-03-22)
+      - "Deep Selling"
+      - "Aggressive Follow-Up Cadence"
+      - "Video Follow-Up"
+      - "Commission Framework (20%/8%)"
+      # DSP enrichment (2026-03-22)
+      - "Ad Automation Rules"
+      - "Team Scaling Methods"
+      - "Content Team Building"
     path: "/knowledge/dossiers/persons/DOSSIER-JEREMY-HAYNES.md"
-    justificativa: "Coordenacao de escala marketing-vendas"
+    justificativa: "Coordenacao de escala marketing-vendas, deep selling methodology, follow-up cadence, commission structure, ad automation rules for team scaling, content team building"
+    # DMM enrichment (2026-03-22)
+    elementos_dmm:
+      - "Deep Selling — multi-touchpoint conviction building methodology for sales teams"
+      - "Aggressive Follow-Up Cadence — structured follow-up sequence (daily video + text + email)"
+      - "Video Follow-Up Method — personalized video messages to increase response rates"
+      - "Commission Framework — 20% first-time close / 8% recurring commission structure"
+    dominios_dmm:
+      - "deep-selling"
+      - "follow-up-cadence"
+      - "video-follow-up"
+      - "commission-framework"
+    # DSP enrichment (2026-03-22)
+    elementos_dsp:
+      - "Ad Automation Rules — Facebook rules framework (pause/scale/ROAS guard) for team-managed campaigns"
+      - "Team Scaling Methods — Bully/Surf methods as teachable frameworks for media buying teams"
+      - "Content Team Building — hiring and managing content creators, editors, designers for sales support"
+    dominios_dsp:
+      - "ad-automation-team"
+      - "scaling-methods"
+      - "content-team-building"
+    materiais_fonte:
+      - titulo: "Digital Marketing Manuscript (DMM)"
+        path_raiz: "/knowledge/external/sources/jeremy-haynes/raw/digital-marketing-manuscript/"
+        tipo: "book"
+        data_processamento: "2026-03-22"
+        elementos: 10
+        dominios: ["team-management", "compensation", "hiring", "follow-up", "deep-selling"]
+      - titulo: "Digital Skill Pack (DSP)"
+        path_raiz: "/knowledge/external/sources/jeremy-haynes/raw/digital-skill-pack/"
+        tipo: "course"
+        data_processamento: "2026-03-22"
+        elementos: 10
+        dominios: ["ad-automation", "team-scaling", "content-team-building"]
 
   - pessoa: "THE-SCALABLE-COMPANY"
     peso: 0.70
@@ -482,6 +533,37 @@ dna_primario:
         descricao: "Framework for ensuring team uses influence ethically — distinguish between informing and manipulating, sustainable persuasion builds trust"
         aplicacao: "Sales Manager monitors QC for ethical influence — flag manipulative tactics, reinforce principle-based selling"
         source: "Ethical Influence Practitioner Program (EIPP)"
+
+  - pessoa: "jon-benson"
+    peso: 0.75
+    dominios_absorvidos:
+      - "persuasion-fundamentals"
+      - "samurai-close"
+      - "tsunami-close"
+      - "pitch-construction"
+      - "word-alchemy"
+      - "speedwriting"
+      - "empathy-copywriting"
+    path: "/knowledge/external/dna/persons/jon-benson"
+    raiz: "/knowledge/external/sources/jon-benson/raw/"
+    justificativa: "Sales Manager trains and QCs the team — Jon Benson's TCB provides the Samurai Q&A system as a drillable objection-handling framework, the Tsunami Close as a team close playbook, HEX for pitch construction training, and Word Alchemy for call quality coaching"
+    added: "2026-03-23"
+    insights_adicionais:
+      - id: "JB-TCB-SM001"
+        tema: "Samurai Q&A as Team Training Framework"
+        descricao: "Answer every objection with a question — train reps to neutralize resistance without pushing, letting the prospect defeat their own objections through guided questioning"
+        aplicacao: "Sales Manager drills Samurai Q&A in role plays and QC reviews — score reps on question-first objection responses vs statement-based responses"
+        source: "The Copywriter Blueprint (TCB)"
+      - id: "JB-TCB-SM002"
+        tema: "Tsunami Close as Team Close Playbook"
+        descricao: "Layered urgency and value stacking close architecture — wave after wave of reinforced value until the prospect makes a decision, preventing fence-sitting"
+        aplicacao: "Sales Manager installs Tsunami Close as the standard closing sequence for the team — each layer is scriptable, coachable, and QC-reviewable"
+        source: "The Copywriter Blueprint (TCB)"
+      - id: "JB-TCB-SM003"
+        tema: "Word Alchemy for Call QC"
+        descricao: "Systematic word-level language calibration — specific word substitutions that reduce resistance and increase receptivity during sales conversations"
+        aplicacao: "Sales Manager uses Word Alchemy as a QC checklist — flag resistance-triggering words in call recordings and coach reps on higher-resonance substitutions"
+        source: "The Copywriter Blueprint (TCB)"
 
 # ═══════════════════════════════════════════════════════════════════
 # MATERIAIS ABSORVIDOS

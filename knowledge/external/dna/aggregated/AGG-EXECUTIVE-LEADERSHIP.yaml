@@ -13,10 +13,10 @@
 # ═══════════════════════════════════════════════════════════════════════════════
 
 dominio: "executive-leadership"
-versao: "2.0.0"  # Gym Launch Owner Training + Leila Hormozi added
+versao: "4.0.0"  # Jeremy Haynes DSP added (+15 elements: personality brand philosophy, content team building, outsourcing heuristics)
 data_criacao: "2026-03-11"
-ultima_atualizacao: "2026-03-19"
-total_elementos: 443
+ultima_atualizacao: "2026-03-22"
+total_elementos: 503
 peso_global: 0.80
 
 fontes_consolidadas:
@@ -37,6 +37,15 @@ fontes_consolidadas:
     tipo_fonte: "PRIMARY (Gym Launch Owner Training + Presentations)"
     speakers: ["Alex Hormozi", "Leila Hormozi", "Alex Charfen", "Mimi (COO)"]
     source_id: "AH-GL"
+
+  - fonte: "jeremy-haynes"
+    path: "/knowledge/external/dna/persons/jeremy-haynes"
+    peso_dominio: 0.80
+    elementos_contribuidos: 60
+    especialidade: "Agency Leadership, 3-Phase Interview Hiring Process, Compensation Architecture (Base + Commission + Bonus), Firing Framework (One Warning Policy), Team Scaling for Digital Agencies, Role Definition, KPI-Based Management, Agency Operations, Financial Management, Lifestyle Design, Personality Brand Philosophy, Content Team Building, Outsourcing Heuristics, SEO Team Management, Ad Team Scaling"
+    tipo_fonte: "PRIMARY (Digital Marketing Millionaire + Digital Skill Pack)"
+    source_id: "JH-DMM+DSP"
+    note: "Updated 2026-03-22 with DSP (+15 elements). DMM provides agency-specific executive leadership (hiring/firing/compensation). DSP adds Personality Brand Philosophy (building team around founder brand), Content Team Building (hiring content creators, editors, designers), Outsourcing Heuristics (when to outsource vs hire in-house), SEO Team Management (managing SEO specialists and content writers), Ad Team Scaling (scaling media buying team with automation rules). Combined DMM+DSP = 60 leadership elements covering hiring, firing, team-building, content operations, outsourcing decisions, and brand-centric leadership."
 
 # ═══════════════════════════════════════════════════════════════════════════════
 # C-LEVEL EXPERTS (6 roles)

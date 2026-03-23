@@ -17,12 +17,22 @@
 # ═══════════════════════════════════════════════════════════════════════════════
 
 cargo: "closer"
-versao: "4.8.0"
+versao: "5.3.0"
+# v5.3.0 (2026-03-23): Jon Benson TCB enrichment — Samurai Q&A close system, Tsunami Close architecture, empathy-driven objection handling
+#                      - New TCB domains: samurai-close, tsunami-close, empathy-copywriting, persuasion-fundamentals, word-alchemy
+#                      - Key frameworks: Samurai Q&A, Tsunami Close, HEX for pitch construction, Word Alchemy for language calibration
+# v5.2.0 (2026-03-22): Jon Benson CVSL enrichment — NLP close (future pacing + presupposition), 3 Choices architecture, open loop psychology, 80% sales after first pitch
+#                      - Key: NLP Close Sequence, 3 Choices, Future Pacing 7d+30d, Presupposition Language, Click Anchor, inclusion close
+# v5.1.0 (2026-03-22): Jon Benson 3XVSL enrichment — VSL close psychology, desire-over-decision selling, rapport-before-pitch
+#                      - Key: Grand Offer 6-Part Close, Even-If Objection Technique, Pain/Pleasure close, Tire Kicker Elimination
 nivel: "SALES"
 natureza: "HIBRIDO"
 data_criacao: "2025-12-23"
-ultima_atualizacao: "2026-03-19"
+ultima_atualizacao: "2026-03-22"
 # CHANGELOG:
+# v4.9.0 (2026-03-22): JH DMM enrichment — 5 Objection Handlers, Agree-and-Redirect, 3-Way Call Close, Conviction Principle
+#                      - New DMM domains: objection-handling-dmm, agree-redirect, three-way-close, conviction-selling
+#                      - Key frameworks: 5 Objection Handlers, Agree-and-Redirect Method, 3-Way Call Close, Conviction Principle
 # v4.8.0 (2026-03-19): Added robert-cialdini (influence, reciprocity, commitment, scarcity, contrast, authority, social-proof) — EIPP pipeline, peso 0.80
 #                      - Key frameworks: 6 Principles of Influence, Reciprocity (concessions), Commitment & Consistency, Scarcity, Contrast Principle, Authority, Social Proof
 #                      - Key domains: influence, reciprocity, commitment, scarcity, contrast, authority, social-proof
@@ -309,8 +319,41 @@ dna_sources:
       dominios_usados:
         - "recurring"
         - "call_funnels"
-      peso: 0.70
-      quando_usar: "Recurring high-ticket, Interest Levels, Show Rate"
+        # DMM enrichment (2026-03-22)
+        - "objection-handling-dmm"
+        - "agree-redirect"
+        - "three-way-close"
+        - "conviction-selling"
+        # DSP enrichment (2026-03-22)
+        - "sales-page-architecture"
+        - "order-form-psychology"
+        - "oto-sequencing"
+        - "micro-commitments"
+      peso: 0.80
+      quando_usar: "Recurring high-ticket, Interest Levels, Show Rate, 5 Objection Handlers, Agree-and-Redirect, 3-Way Call Close, Conviction Principle, Sales Page Psychology, Order Form Optimization, OTO Sequencing, Micro-Commitments"
+      # DMM enrichment (2026-03-22)
+      elementos_dmm:
+        - "5 Objection Handlers — systematic methodology for top 5 sales objections"
+        - "Agree-and-Redirect Method — absorb objection, redirect to value"
+        - "3-Way Call Close — leverage authority figure to close resistant prospects"
+        - "Conviction Principle — certainty transfer, closer's belief drives prospect's belief"
+      dominios_dmm:
+        - "objection-handling-dmm"
+        - "agree-redirect"
+        - "three-way-close"
+        - "conviction-selling"
+      # DSP enrichment (2026-03-22)
+      elementos_dsp:
+        - "Sales Page Frameworks — 37 page types with conversion-optimized architecture"
+        - "Order Form Psychology — reducing friction, micro-commitments, dummy buy technique"
+        - "OTO Sequencing — one-time-offer psychology post-purchase for revenue maximization"
+        - "Micro-Commitment Ladder — progressive disclosure to build buying momentum"
+        - "Conversion Psychology — neuro-marketing principles applied to closing environments"
+      dominios_dsp:
+        - "sales-page-architecture"
+        - "order-form-psychology"
+        - "oto-sequencing"
+        - "micro-commitments"
       insight_ids:
         - "RHT001"  # Recurring justificado por ongoing results
         - "IL001"   # Interest Levels Ladder
@@ -335,6 +378,18 @@ dna_sources:
             - "Interest Levels Ladder: Curious → General → High → Deal"
             - "Show Rate é responsabilidade do MARKETING"
             - "Closers viram 'order takers' quando marketing faz o trabalho"
+        - titulo: "Digital Marketing Manuscript (DMM)"
+          path_raiz: "/knowledge/external/sources/jeremy-haynes/raw/digital-marketing-manuscript/"
+          tipo: "book"
+          data_processamento: "2026-03-22"
+          elementos: 15
+          dominios: ["objection-handling", "sales", "conviction-selling", "follow-up"]
+        - titulo: "Digital Skill Pack (DSP)"
+          path_raiz: "/knowledge/external/sources/jeremy-haynes/raw/digital-skill-pack/"
+          tipo: "course"
+          data_processamento: "2026-03-22"
+          elementos: 15
+          dominios: ["sales-page-architecture", "order-form-psychology", "oto-sequencing", "micro-commitments"]
 
     - pessoa: "SAM-OVEN"
       path: "/knowledge/external/dna/persons/SAM-OVEN"
@@ -935,6 +990,37 @@ dna_sources:
             - "Scarcity: genuine scarcity creates urgency without manipulation"
             - "Contrast Principle: price anchoring through contrast frames value perception"
             - "Authority: credibility signals (expertise, credentials) reduce resistance"
+
+    - pessoa: "jon-benson"
+      path: "/knowledge/external/dna/persons/jon-benson"
+      raiz: "/knowledge/external/sources/jon-benson/raw/"
+      dominios_usados:
+        - "samurai-close"
+        - "tsunami-close"
+        - "empathy-copywriting"
+        - "persuasion-fundamentals"
+        - "word-alchemy"
+        - "desire-psychology"
+        - "nlp-selling"
+        - "objection-handling"
+      peso: 0.85
+      quando_usar: "Objection handling via Samurai Q&A, layered close sequences (Tsunami Close), empathy-first closing language, NLP closing techniques (future pacing, presupposition), word-level language calibration for high-ticket calls, desire-over-decision psychology"
+      justificativa: "Closer's core job is to handle objections and close — Jon Benson's TCB adds the Samurai Q&A system for objection neutralization through questions, the Tsunami Close for layered urgency, and word alchemy for precise language calibration on calls"
+      added: "2026-03-23"
+      insight_ids: []
+      chunk_ids: []
+      materiais_fonte:
+        - titulo: "The Copywriter Blueprint (TCB)"
+          path_raiz: "/knowledge/external/sources/jon-benson/raw/"
+          tipo: "course"
+          data_processamento: "2026-03-23"
+          insights_principais:
+            - "Samurai Q&A: answer objections with questions — let prospect defeat their own objections"
+            - "Tsunami Close: layered urgency close — wave after wave of stacked value until decision"
+            - "Empathy Copywriting applied to sales calls: mirror internal dialogue before presenting solution"
+            - "Word Alchemy: precise word substitution to neutralize resistance language on calls"
+            - "Persuasion Fundamentals: psychological drivers behind buying decisions — desire vs logic hierarchy"
+            - "NLP Close refinements from CVSL: future pacing, presupposition language, click anchors for momentum"
 
 # ═══════════════════════════════════════════════════════════════════════════════
 # MAPA DE CONFLITOS

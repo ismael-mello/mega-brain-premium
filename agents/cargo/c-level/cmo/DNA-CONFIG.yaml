@@ -24,7 +24,19 @@
 # ═══════════════════════════════════════════════════════════════════════════════
 
 cargo: "CMO"
-versao: "23.0.0"
+versao: "28.0.0"
+# v28.0.0 (2026-03-23): Jon Benson TCB enrichment — persuasion fundamentals, HEX framework, empathy copywriting, word alchemy, speedwriting methodology
+#                      - New TCB domains: persuasion-fundamentals, hex-framework, empathy-copywriting, word-alchemy, speedwriting, email-copywriting, headline-mastery
+#                      - Key frameworks: HEX Framework (Hook/Emotion/Xtra Value), Samurai Q&A, Tsunami Close, AIDA Evolution, Word Alchemy System
+# v27.0.0 (2026-03-22): Jon Benson CVSL enrichment — AI copywriting, Buyer's Roadmap pre-prompting, 12-Prompt Library, dimensionalization, 9 Attention Frames
+#                      - New CVSL domains: ai-copywriting, prompt-engineering, dimensionalization, attention-engineering
+#                      - Key frameworks: ChatVSL 5-Step Formula, Buyer's Roadmap 3-Part, 12-Prompt Library, 9 Attention Frames, Metabolic Dissection
+# v26.0.0 (2026-03-22): Jon Benson 3XVSL enrichment — VSL architecture, pattern interrupts, NLP selling, storytelling formulas
+#                      - New JB domains: vsl-copywriting, video-sales-letters, pattern-interrupts, nlp-selling
+#                      - Key frameworks: 5-Step VSL Process, 1-2-3 Formula, USP Factory, Nightmare/Dream Story, Conspiracy Cycle, Grand Offer 6-Part Close
+# v24.0.0 (2026-03-22): JH DMM enrichment — Omnipresent Advertising, Core Content Model, 4x Personality Brand, Education-First Funnel
+#                      - New DMM domains: omnipresent-advertising, core-content-model, personality-brand, education-first-funnel
+#                      - Key frameworks: Omnipresent Advertising Strategy, Core Content Model, 4x Personality Brand Architecture, Education-First Funnel
 # v23.0.0 (2026-03-19): Added robert-cialdini (persuasion-psychology, social-proof, pre-suasion, review-optimization, loss-framing, marketing-psychology) — EIPP pipeline, peso 0.80
 #                      - Key frameworks: 6 Principles of Influence, Pre-Suasion, Social Proof at Scale, Loss Framing, Review Optimization
 #                      - Key domains: persuasion-psychology, social-proof, pre-suasion, review-optimization, loss-framing, marketing-psychology
@@ -37,7 +49,7 @@ versao: "23.0.0"
 nivel: "C-LEVEL"
 natureza: "HIBRIDO"
 data_criacao: "2025-12-23"
-ultima_atualizacao: "2026-03-19"
+ultima_atualizacao: "2026-03-22"
 # CHANGELOG:
 # v20.0.0 (2026-03-18): Updated donald-miller with SBMR — 105 el total (was 75), peso 0.85
 #                      - NEW source: StoryBrand Marketing Roadmap (SBMR)
@@ -305,9 +317,50 @@ dna_sources:
         - "ad_strategy"
         - "content_funnels"
         - "creative_production"
-      peso: 0.85
-      quando_usar: "Ads, aquisição paga, CAC optimization, estratégia criativa, funis de conteúdo"
+        # DMM enrichment (2026-03-22)
+        - "omnipresent-advertising"
+        - "core-content-model"
+        - "personality-brand"
+        - "education-first-funnel"
+        # DSP enrichment (2026-03-22)
+        - "seo-strategy"
+        - "neuro-marketing"
+        - "messenger-marketing"
+        - "ad-automation"
+        - "page-architecture"
+        - "brand-building"
+      peso: 0.90
+      quando_usar: "Ads, aquisição paga, CAC optimization, estratégia criativa, funis de conteúdo, omnipresent advertising, personality brand, education-first funnels, SEO strategy, neuro-marketing, messenger marketing, ad automation"
       added: "2026-03-03"
+      # DMM enrichment (2026-03-22)
+      elementos_dmm:
+        - "Omnipresent Advertising — multi-platform retargeting strategy for brand omnipresence"
+        - "Core Content Model — content pillar strategy feeding all ad channels"
+        - "4x Personality Brand Architecture — personal brand as marketing moat"
+        - "Education-First Funnel — lead with education to build trust before sale"
+      dominios_dmm:
+        - "omnipresent-advertising"
+        - "core-content-model"
+        - "personality-brand"
+        - "education-first-funnel"
+      # DSP enrichment (2026-03-22)
+      elementos_dsp:
+        - "Bully Method — outbid competitors via manual bidding (max bid = net profit per customer)"
+        - "Surf Method — +20% budget scaling with midnight reset cycling"
+        - "Venus Flytrap Implementation — 3-video sequence → 75% watch → pitch"
+        - "Brand Building 7-Phase Model — Cold → Customer Bridge → Upsells"
+        - "SEO Competitive Creation Process — systematic SEO content strategy"
+        - "Neuro-Marketing Principles — psychological triggers in ad creative and page design"
+        - "Messenger Marketing — $0.25 CPL via Facebook Messenger automation"
+        - "37 Page Types Architecture — comprehensive page type taxonomy for funnels"
+        - "Ad Automation Rules — Facebook rules for pause/scale/ROAS guard"
+      dominios_dsp:
+        - "seo-strategy"
+        - "neuro-marketing"
+        - "messenger-marketing"
+        - "ad-automation"
+        - "page-architecture"
+        - "brand-building"
       insight_ids:
         - "JH-FRM-001"  # Hydra Strategy (lead form antes do VSSL)
         - "JH-FRM-002"  # Venus Fly Trap 1.0 (3-video content funnel)
@@ -349,6 +402,18 @@ dna_sources:
           path_raiz: "/knowledge/external/sources/jeremy-haynes/raw/client-accelerator/"
           tipo: "course"
           data_processamento: "2026-03-03"
+        - titulo: "Digital Marketing Manuscript (DMM)"
+          path_raiz: "/knowledge/external/sources/jeremy-haynes/raw/digital-marketing-manuscript/"
+          tipo: "book"
+          data_processamento: "2026-03-22"
+          elementos: 15
+          dominios: ["omnipresent-advertising", "content-marketing", "personal-branding", "agency-marketing"]
+        - titulo: "Digital Skill Pack (DSP)"
+          path_raiz: "/knowledge/external/sources/jeremy-haynes/raw/digital-skill-pack/"
+          tipo: "course"
+          data_processamento: "2026-03-22"
+          elementos: 25
+          dominios: ["seo-strategy", "neuro-marketing", "messenger-marketing", "ad-automation", "page-architecture", "brand-building", "personality-branding"]
 
     - pessoa: "russell-brunson"
       path: "/knowledge/external/dna/persons/russell-brunson"
@@ -1179,6 +1244,41 @@ dna_sources:
             - "Loss Framing: framing offers around what prospects lose by not acting"
             - "Review Optimization: leveraging testimonials and social proof signals"
             - "Authority Signaling: credibility construction in brand positioning"
+
+    - pessoa: "jon-benson"
+      path: "/knowledge/external/dna/persons/jon-benson"
+      raiz: "/knowledge/external/sources/jon-benson/raw/"
+      dominios_usados:
+        - "persuasion-fundamentals"
+        - "hex-framework"
+        - "empathy-copywriting"
+        - "word-alchemy"
+        - "speedwriting"
+        - "email-copywriting"
+        - "headline-mastery"
+        - "vsl-copywriting"
+        - "video-sales-letters"
+        - "ai-copywriting"
+        - "dimensionalization"
+      peso: 0.85
+      quando_usar: "Copywriting strategy, email campaigns, VSL scripting, headline construction, empathy-driven messaging, AI-assisted copy production, word alchemy for brand voice, speedwriting systems for high-volume output"
+      justificativa: "CMO owns all marketing communication — Jon Benson's TCB provides the persuasion fundamentals, HEX framework, and word alchemy system that elevate copy quality across ads, emails, landing pages, and VSLs"
+      added: "2026-03-23"
+      insight_ids: []
+      chunk_ids: []
+      materiais_fonte:
+        - titulo: "The Copywriter Blueprint (TCB)"
+          path_raiz: "/knowledge/external/sources/jon-benson/raw/"
+          tipo: "course"
+          data_processamento: "2026-03-23"
+          insights_principais:
+            - "HEX Framework: Hook/Emotion/Xtra Value — universal copy structure for any format"
+            - "Word Alchemy: systematic word substitution to amplify emotional resonance"
+            - "Empathy Copywriting: mirror prospect's internal dialogue before presenting solution"
+            - "Speedwriting Methodology: high-output copy system for email, ads, and VSL sequences"
+            - "Samurai Q&A: objection neutralization through question-based re-framing"
+            - "Tsunami Close: layered urgency and value stacking close architecture"
+            - "Headline Mastery: formula-driven headline construction for maximum CTR"
 
 # ═══════════════════════════════════════════════════════════════════════════════
 # MAPA DE CONFLITOS

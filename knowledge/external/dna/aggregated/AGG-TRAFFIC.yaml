@@ -13,10 +13,10 @@
 # ═══════════════════════════════════════════════════════════════════════════════
 
 dominio: "traffic"
-versao: "5.0.0"  # OK Russell Brunson 10XS webinar traffic system added
+versao: "8.0.0"  # Jon Benson Traffic Pros added (+47 elements: Facebook Article Stack, YouTube Pipeline, SEO Affiliate System, RTB Banner, Ad-To-Page Congruency 3%CTR/50%opt-in, 3cents/like, hidden button 83%, countdown 2x, Rule Of Ones)
 data_criacao: "2026-03-11"
-ultima_atualizacao: "2026-03-19"
-total_elementos: 475
+ultima_atualizacao: "2026-03-23"
+total_elementos: 622
 peso_global: 0.70
 
 fontes_consolidadas:
@@ -66,6 +66,18 @@ fontes_consolidadas:
     fontes_incluidas:
       - "10x Secrets Masterclass (40 elementos — webinar traffic system, Facebook ad benchmarks, promotion cycle, thank-you page monetization, Negative CAC model, FB Live hybrid strategy)"
     note: "Added 2026-03-19. Russell Brunson 10XS brings a WEBINAR-CENTRIC traffic model — specific, tested heuristics for driving paid traffic to weekly webinars. The Negative CAC model (thank-you page OTOs covering ad spend) and No Sunday ads rule are uniquely actionable. Complements Frank Kern's Facebook/YouTube depth with RB's funnel-traffic integration perspective."
+
+  - fonte: "jeremy-haynes"
+    path: "knowledge/external/dna/persons/jeremy-haynes/"
+    raw_path: "knowledge/external/sources/jeremy-haynes/raw/"
+    peso_dominio: 0.90
+    elementos_contribuidos: 100
+    especialidade: "Omnipresent Advertising, Bully Method (outbid competitors via manual bidding), Surf Method (+20% budget scaling with midnight reset), Venus Flytrap full implementation (3-video → 75% watch → pitch), Brand Building 7-Phase Model (Cold → Customer Bridge → Upsells), Retargeting Audience Hierarchy (7 levels), Lookalike Quality Optimization (scum bucket exclusion), Facebook Rules Automation (pause/scale/ROAS guard), Core Content Model, ConnectIO Suite, Messenger Marketing ($0.25 CPL), SEO Competitive Creation Process"
+    tipo_fonte: "PRIMARY"
+    fontes_incluidas:
+      - "Digital Marketing Manuscript (40 elementos — Omnipresent Advertising, Core Content Model)"
+      - "Digital Skill Pack (60 elementos — Bully Method, Surf Method, Venus Flytrap Implementation, Brand Building 7-Phase, Retargeting Hierarchy, Facebook Rules Automation, SEO Framework, Messenger Marketing)"
+    note: "Updated 2026-03-22 with DSP. Jeremy Haynes is now the MOST COMPLETE paid media source for TACTICAL EXECUTION — covers Facebook ad bidding (Bully/Surf), audience quality optimization (scum bucket, qualified lookalikes), video sequencing (Venus Flytrap), automated rules framework, AND SEO. The Bully Method (max bid = net profit, 5x daily budget) and Surf Method (+20% cycling with midnight reset) are UNIQUE to JH. Complements Frank Kern's systematic approach with JH's aggressive execution methodology."
 
 # ═══════════════════════════════════════════════════════════════════════════════
 # EXPERTS (7 real persons + 8 functional agents)
@@ -1664,6 +1676,15 @@ metadata:
 # ═══════════════════════════════════════════════════════════════════════════════
 
 changelog:
+  - versao: "6.0.0"
+    data: "2026-03-22"
+    mudancas:
+      - "Jeremy Haynes DMM (Digital Marketing Millionaire) added as new fonte (30 traffic elements — Omnipresent Advertising, Core Content Model)"
+      - "JH especialidade: Omnipresent Advertising (multi-platform saturation), Core Content Model (1→30+), paid+organic hybrid, retargeting architecture, content repurposing system"
+      - "JH peso_dominio: 0.85 (primary source — agency traffic pioneer)"
+      - "total_elementos: 475 → 505"
+      - "fontes_consolidadas count: 5 → 6"
+
   - versao: "5.0.0"
     data: "2026-03-19"
     mudancas:

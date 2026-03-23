@@ -11,10 +11,10 @@
 # ═══════════════════════════════════════════════════════════════════════════════
 
 dominio: "vendas"
-versao: "16.0.0"  # Gym Launch GL added (AH +280 elements)
+versao: "22.0.0"  # Jon Benson TCB (The Copywriter Blueprint) added (+100 vendas elements: samurai Q&A closing technique, objection handling via copy, closing language patterns, benefit stacking for sales, guarantee close architecture, price justification copy, conversion-focused Q&A blocks)
 data_criacao: "2026-01-10"
-ultima_atualizacao: "2026-03-22"
-total_elementos: 2096
+ultima_atualizacao: "2026-03-23"
+total_elementos: 2491
 
 fontes_consolidadas:
   - fonte: "cole-gordon"
@@ -44,10 +44,10 @@ fontes_consolidadas:
 
   - fonte: "jeremy-haynes"
     path: "/knowledge/external/dna/persons/jeremy-haynes"
-    peso_dominio: 0.70
-    elementos_contribuidos: 200
-    especialidade: "Recurring High-Ticket, Interest Levels, Show Rate"
-    batches: ["BATCH-001 a BATCH-004", "BATCH-068 a BATCH-084", "BATCH-092 a BATCH-101"]
+    peso_dominio: 0.80
+    elementos_contribuidos: 295
+    especialidade: "Recurring High-Ticket, Interest Levels, Show Rate, CPR Framework (Cut-Paste-Repeat), Deep Selling, 5 Objection Handlers, Conviction Closing, 3-Phase Interview Hiring, Agency Sales Process, Proposal Engineering, Conversion Psychology (Micro-Commitments, Dummy Buy), 22 Funnel Types, 37 Page Types Architecture, Sales Page Frameworks, Order Form Psychology"
+    batches: ["BATCH-001 a BATCH-004", "BATCH-068 a BATCH-084", "BATCH-092 a BATCH-101", "JH-DMM (Digital Marketing Millionaire — +20 vendas elements — 2026-03-22)", "JH-DSP (Digital Skill Pack — +30 vendas elements: conversion psychology, funnel architecture, sales page frameworks, order form psychology, micro-commitments — 2026-03-22)"]
 
   - fonte: "dan-kennedy"
     path: "/knowledge/external/dna/persons/dan-kennedy"
@@ -121,6 +121,14 @@ fontes_consolidadas:
     batches: ["RC-EIPP (Ethical Influence Practitioner Program — 2026-03-19)"]
     key_frameworks: "7 Universal Principles, Activator-Amplifier Model, Weakness-First Strategy, Core Motive Model, Scarcity Double Whammy"
     nota: "RC é o cientista fundacional da influência/persuasão. Peso 0.90 porque os 7 Princípios Universais são a base científica subjacente a todas as outras metodologias de vendas — Belfort, Miner, Gordon, Hormozi todos aplicam princípios Cialdini implicitamente. RC adiciona a dimensão ÉTICA e CIENTÍFICA que falta nos outros."
+
+  - fonte: "jon-benson-copywriter"
+    path: "/knowledge/external/dna/persons/jon-benson"
+    peso_dominio: 0.82
+    elementos_contribuidos: 220
+    especialidade: "VSL closing architecture, NLP Close (future pacing + presupposition + click anchor), 3 Choices decision architecture, Grand Offer 6-Part structure, faux pricing psychology, $120 AOV threshold, 20-25min buy button timing, open loop architecture (10-12 per VSL), 80% sales after first pitch, inclusion/community close, benefit block So-Rather-Than formula, dimensional bonus descriptions; TCB adds: samurai Q&A closing technique (scripted objection blocks), benefit stacking language for sales, closing copy language patterns, guarantee close architecture, price justification sequences, conversion-focused Q&A blocks for VSL/pages"
+    batches: ["JB-3XVSL (3X VSL Formula — 200 elements — 2026-03-22)", "JB-CVSL (Chat VSL — 106 elements — 2026-03-22)", "JB-TCB (The Copywriter Blueprint — 338 elements — 2026-03-23)"]
+    nota: "Jon Benson é o INVENTOR do VSL. Sua contribuição para vendas é na arquitetura de close via texto — como estruturar uma oferta escrita que fecha. TCB expande com samurai Q&A methodology — a technique for embedding scripted objection-handling directly in copy, converting written Q&A blocks into a closing mechanism. Diferente dos closers de telefone (Gordon, Miner, Belfort), Benson fecha via copy. IDs: FIL-JB-xxx (NÃO confundir com Jordan Belfort FIL-JB-xxx no SLC4/SLM/SLP)."
 
 # ═══════════════════════════════════════════════════════════════════════════════
 # FILOSOFIAS CONSOLIDADAS (Top 15)
@@ -1107,6 +1115,25 @@ estatisticas:
 # ═══════════════════════════════════════════════════════════════════════════════
 
 changelog:
+  - versao: "22.0.0"
+    data: "2026-03-23"
+    mudancas:
+      - "Jon Benson TCB (The Copywriter Blueprint) integrated — +100 vendas elements"
+      - "JB elementos_contribuidos: 120 → 220 (3XVSL + CVSL + TCB)"
+      - "JB peso_dominio: 0.80 → 0.82 (TCB adds samurai Q&A closing and objection-handling copy techniques)"
+      - "JB especialidade expanded with TCB specifics: samurai Q&A closing, benefit stacking language, closing copy patterns, guarantee close architecture, price justification sequences"
+      - "JB batches: added JB-TCB (The Copywriter Blueprint — 338 elements — 2026-03-23)"
+      - "total_elementos: 2391 → 2491"
+
+  - versao: "17.0.0"
+    data: "2026-03-22"
+    mudancas:
+      - "Jeremy Haynes DMM (Digital Marketing Millionaire) integrated — +45 vendas elements"
+      - "JH elementos contribuídos vendas: 200 → 245 (prev + DMM)"
+      - "JH peso_dominio: 0.70 → 0.75 (DMM adds Deep Selling, CPR Framework, Conviction Closing)"
+      - "New specialties: CPR Framework (Cut-Paste-Repeat sales process), Deep Selling methodology, 5 Objection Handlers (Money, Spouse, Timing, Trust, Competition), Conviction Closing, 3-Phase Interview Hiring for sales roles"
+      - "total_elementos_consolidados: 2096 → 2141"
+
   - versao: "15.0.0"
     data: "2026-03-19"
     mudancas:

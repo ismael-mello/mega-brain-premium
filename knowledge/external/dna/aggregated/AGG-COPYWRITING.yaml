@@ -4,14 +4,14 @@
 # CRIADO: 2026-03-13
 # ATUALIZADO: 2026-03-17
 #
-# FONTES: Dan Kennedy (822 el) + Eugene Schwartz (115 el) + Russell Brunson (240 el) + Alex Hormozi (80 el) + Todd Brown (292 el) + Gary Halbert (297 el) + André Chaperon (120 el) + David Deutsch (218 el) + Ry Schwartz (150 el) + John Carlton (261 el) + Clayton Makepeace (633 el) + Jordan Belfort (45 el) + Donald Miller (90 el) + Robert Cialdini (50 el)
+# FONTES: Dan Kennedy (822 el) + Eugene Schwartz (115 el) + Russell Brunson (240 el) + Alex Hormozi (80 el) + Todd Brown (292 el) + Gary Halbert (297 el) + André Chaperon (120 el) + David Deutsch (218 el) + Ry Schwartz (150 el) + John Carlton (261 el) + Clayton Makepeace (633 el) + Jordan Belfort (45 el) + Donald Miller (90 el) + Robert Cialdini (50 el) + Jon Benson (586 el)
 # ═══════════════════════════════════════════════════════════════════════════════
 
 dominio: "copywriting"
-versao: "21.0.0"  # OK Robert Cialdini persuasion-psychology added
+versao: "25.0.0"  # Jon Benson TCB (The Copywriter Blueprint) added (+280 elements: headline architecture, storytelling for direct response, fascination bullets, lead writing, VSL-to-page conversion, offer presentation copy, email copy sequences, samurai Q&A copy, guarantee copywriting, bonus copy framing)
 criado_em: "2026-03-13"
-atualizado_em: "2026-03-19"
-total_elementos: 3293
+atualizado_em: "2026-03-23"
+total_elementos: 4112
 
 fontes_consolidadas:
   - fonte: "dan-kennedy"
@@ -158,9 +158,40 @@ fontes_consolidadas:
     key_frameworks:
       - "Weakness-First Strategy (weakness→but→strength — presenting weakness before strength increases credibility)"
       - "Loss Framing Conversion (framing offers in terms of what prospect stands to lose)"
+
+  - fonte: "jon-benson"
+    peso_dominio: 0.92
+    path: "/knowledge/external/dna/persons/jon-benson/"
+    raiz: "/knowledge/external/sources/jon-benson/raw/"
+    contribuicao_principal: "VSL architecture (inventor of the format), 5-Step VSL Process, pattern interrupt system, NLP action drops, subliminal highlighting, nightmare/dream story formulas, conspiracy cycle, open loop psychology, tip formula with buyer modality coverage, grand offer 6-part close, USP factory, vocal tonality techniques, AI copywriting methodology, Buyer's Roadmap pre-prompting, 12-Prompt Library, dimensionalization, two-shot in-context training, 9 Attention Frames, ChatVSL 5-Step Formula, refiner prompts, radio voice elimination; TCB adds: headline writing mastery, lead architecture (6 lead types), fascination bullet systems, story-selling frameworks, direct-response email copy, samurai Q&A copywriting, guarantee copy engineering, offer presentation language, benefit-feature-proof sequencing, persuasion stacking in print"
+    elementos_relevantes: 586
+    fontes_incluidas:
+      - "3X VSL Formula (200 elementos — VSL architecture, pattern interrupts, NLP selling, storytelling formulas, offer construction, buyer psychology, conversion optimization)"
+      - "Chat VSL (106 elementos — AI copywriting, Buyer's Roadmap 3-Part pre-prompting, 12-Prompt Library, ChatVSL 5-Step Formula, dimensionalization, two-shot in-context training, 9 Attention Frames, refiner prompts, radio voice elimination, NLP close architecture, faux pricing, Grand Offer 6-Part structure, anchor object system, open loop architecture, Metabolic Dissection)"
+      - "The Copywriter Blueprint (280 elementos — headline architecture, lead writing (6 types), fascination bullet systems, story-selling for direct response, VSL-to-page conversion, offer presentation copy, email sequences, samurai Q&A copy methodology, guarantee copywriting, bonus copy framing, benefit-feature-proof sequencing, persuasion stacking in print)"
+    key_frameworks:
+      - "5-Step VSL Process (Snap Suggestion → Vital Connection → Big Problem → Bigger Solution → Grand Offer)"
+      - "1-2-3 Formula (1 USP + 2 Stories + 3 Tips + 4 Comparisons)"
+      - "USP Factory (Power Phrase + Prime Benefit + Enabler Phrase ≤20 words)"
+      - "Nightmare Story Formula (Transition → Specifics Strategy → Bad Part → Focal Point → Declaration → Moral)"
+      - "Conspiracy Cycle (Big Lie → Not Your Fault → Blame This → Big Truth → Open Loop)"
+      - "Buyer's Roadmap 3-Part System (SEARCH 1 — 12 data fields + Unique Mechanisms + Offer Branding)"
+      - "ChatVSL 5-Step Formula (~6000 words: Snap Suggestion + Vital Connection + Big Problem + Bigger Solution + Grand Offer)"
+      - "12-Prompt Library (Roadmap, Refiner, Branding, Expansion, Rewrite, Offer Branding, Pattern Interrupt x2, Lead, Different Goals, Get Specific, Bullet Expander, Returns)"
+      - "9 Attention Frames (N1, N2, N3, O1, O2, W3 + 90 Seconds of Desire + Future Pacing + NLP Close)"
+      - "Metabolic Dissection (line-by-line reverse-engineering of $50M VSL)"
+      - "Grand Offer 6-Part Close (Product → Price → CTA → Pain/Pleasure → Actions/Results → Q&A)"
+      - "Pattern Interrupt System (Image + Linguistic — 5-object method from nightmare story)"
+      - "Action Drop Technique (Today, Now, Listen, See, Actually — present-moment NLP words)"
+      - "Subliminal Highlighting (red text for subconscious programming: Decide Now, Freedom, Secret)"
       - "Social Proof 3-Part Formula (structured social proof deployment in copy)"
       - "Review Optimization (4.2-4.7 star / 89% optimal — imperfect proof outperforms perfect)"
-    nota: "Added 2026-03-19. Cialdini's contribution is PSYCHOLOGICAL — he provides the scientific evidence behind why copy techniques work. His Weakness-First Strategy and Review Optimization data give copywriters evidence-based rules for credibility and proof. Complements Schwartz (awareness levels), Makepeace (proof strategies), and Halbert (arithmetic validation) by adding behavioral science rigor."
+      - "TCB Headline Architecture (6 headline types + emotional trigger matrix for direct response)"
+      - "TCB Lead Writing System (6 lead types: problem, secret, story, prediction, conviction, offer-lead)"
+      - "TCB Fascination Bullet System (numbered fascinations + benefit-curiosity gap formula)"
+      - "Samurai Q&A Copywriting (objection pre-emption via scripted Q&A blocks in VSL/page copy)"
+      - "TCB Guarantee Engineering (risk-reversal language stacks + conditional guarantee architecture)"
+    nota: "Updated 2026-03-23 with TCB (The Copywriter Blueprint) — +280 copywriting elements. TCB is JB's systematic copywriting course covering print/page copy from headline through close. Complements 3XVSL (video sales letters) and ChatVSL (AI copy) by adding foundational direct-response writing craft: leads, headlines, bullets, story-selling, email, and guarantee copy. Total JB contribution: 586 elements across 3 sources — making JB one of the TOP copywriting contributors in the system."
 
 # ═══════════════════════════════════════════════════════════════════════════════
 # FILOSOFIAS
@@ -615,6 +646,18 @@ tensoes:
 # ═══════════════════════════════════════════════════════════════════════════════
 
 changelog:
+  - versao: "25.0.0"
+    data: "2026-03-23"
+    mudancas:
+      - "Jon Benson TCB (The Copywriter Blueprint) integrated — +280 copywriting elements"
+      - "JB elementos_relevantes: 306 → 586 (3XVSL + ChatVSL + TCB)"
+      - "JB peso_dominio: 0.90 → 0.92 (TCB elevates JB to top-tier direct response copywriting authority)"
+      - "JB contribuicao_principal expanded with TCB specifics: headline architecture, 6 lead types, fascination bullet systems, story-selling for DR, VSL-to-page conversion, email copy, samurai Q&A, guarantee copy, benefit-feature-proof sequencing"
+      - "JB fontes_incluidas: added The Copywriter Blueprint (280 elementos)"
+      - "New frameworks: TCB Headline Architecture, TCB Lead Writing System (6 types), TCB Fascination Bullet System, Samurai Q&A Copywriting, TCB Guarantee Engineering"
+      - "Header comment updated: Jon Benson 200 → 586"
+      - "total_elementos: 3832 → 4112"
+
   - versao: "20.0.0"
     data: "2026-03-19"
     mudancas:

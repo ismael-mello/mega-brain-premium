@@ -28,10 +28,10 @@
 # ═══════════════════════════════════════════════════════════════════════════════
 
 dominio: "offers"
-versao: "12.0.0"  # Gym Launch GL added (AH challenge playbook + pricing)
-total_elementos: 758
+versao: "16.0.0"  # Jon Benson TCB (The Copywriter Blueprint) added (+60 offer elements: bonus copy framing, guarantee architecture, Grand Offer sequencing, offer presentation language, price anchoring via copy, faux pricing psychology, benefit stacking for offer design, VSL offer structure, Kindle Funnel method, product creation pipeline)
+total_elementos: 918
 criado_em: "2026-01-10T19:30:00Z"
-atualizado_em: "2026-03-19"
+atualizado_em: "2026-03-23"
 
 # ═══════════════════════════════════════════════════════════════════════════════
 # FONTES CONSOLIDADAS COM PESOS POR DOMÍNIO
@@ -46,10 +46,12 @@ fontes_consolidadas:
     sources: ["legacy", "AH-ACQ18K", "AH-GL (Gym Launch — challenge architecture, pricing tiers, no-sale-sale)"]
 
   - fonte: "jeremy-haynes"
-    peso_dominio: 0.85  # Fair Pricing & Recurring
+    peso_dominio: 0.85  # Fair Pricing & Recurring + DMM pricing + DSP info product ecosystem
     path: "/knowledge/external/dna/persons/jeremy-haynes/"
-    contribuicao_principal: "Fair Pricing Philosophy, Recurring Model"
-    elementos_relevantes: 120
+    contribuicao_principal: "Fair Pricing Philosophy, Recurring Model, 5-Tier Pricing Pyramid, Service Fee + Success Fee model, Transaction-to-Recurring Ladder, Proposal Engineering, Value-Based Pricing, Info Product Ecosystem, OTO Frameworks, Dummy Buy Psychology, Micro-Commitment Pricing"
+    elementos_relevantes: 190
+    sources: ["legacy", "JH-DMM (Digital Marketing Millionaire — pricing/offer architecture)", "JH-DSP (Digital Skill Pack — info product ecosystem, OTO frameworks, dummy buy pricing)"]
+    note: "Updated 2026-03-22 with DSP (+20 offer elements). DSP adds Info Product Ecosystem (digital skills as productized offers), OTO frameworks (one-time-offer sequencing post-purchase), Dummy Buy psychology (low-barrier entry offers that qualify buyers), Micro-Commitment Pricing (graduated commitment ladder). Combined with DMM's 5-Tier Pricing Pyramid and Service Fee + Success Fee model. Complements Hormozi's Grand Slam with agency-specific recurring + info product offer architecture."
 
   - fonte: "cole-gordon"
     peso_dominio: 0.75  # Value Perception & Beliefs
@@ -138,6 +140,16 @@ fontes_consolidadas:
     elementos_relevantes: 40
     source: "EIPP"
     note: "Added 2026-03-19. Robert Cialdini adds the SCIENTIFIC foundation of why offers work — scarcity engineering, loss framing, contrast pricing, concession architecture (reject-then-retreat), and gift-vs-reward psychology (MUC). Complements Hormozi (value equation) and Brown (offer engineering) with the underlying behavioral science of decision-making."
+
+  - fonte: "jon-benson"
+    peso_dominio: 0.85  # VSL inventor + TCB offer presentation mastery
+    path: "/knowledge/external/dna/persons/jon-benson/"
+    contribuicao_principal: "Grand Offer 6-Part structure (Product → Price → CTA → Pain/Pleasure → Actions/Results → Q&A), faux pricing psychology (75% faux price strategy), Triple Guarantee architecture, bonus copy framing (dimensional bonus descriptions), offer presentation language (benefit block So-Rather-Than formula), price anchoring via copy, VSL offer sequencing, Kindle Funnel method (low-price entry → VSL upsell), 28-Day Product Formula, Triple Product Method, Sell Before Create methodology, product creation pipeline (Get Paid To Create)"
+    elementos_relevantes: 60
+    source: "TCB"
+    fontes_incluidas:
+      - "The Copywriter Blueprint (60 offer elementos — Grand Offer architecture, Triple Guarantee, faux pricing, bonus framing, VSL offer sequencing, Kindle Funnel, 28-Day Product Formula, Triple Product Method, Sell Before Create, Get Paid To Create, price anchoring copy, offer presentation language)"
+    note: "Added 2026-03-23. Jon Benson's TCB offer contribution is PRESENTATION-FOCUSED — how to frame, sequence, and write an offer so it converts. As VSL inventor, JB provides the deepest methodology for offer copy inside a video or page. Grand Offer 6-Part structure is a complete close architecture. Faux Pricing (75% strategy) and Triple Guarantee are actionable conversion techniques. Kindle Funnel and Sell Before Create add product launch/creation methodology. Complements Hormozi (value equation), Brown (offer engineering), and Brunson (stacking) with the copywriting layer that makes offers convert."
 
 # ═══════════════════════════════════════════════════════════════════════════════
 # FILOSOFIAS CONSOLIDADAS (Cross-Source)
@@ -796,6 +808,27 @@ metadados:
   bug_fix: "BUG #2 - DNA AGGREGATED empty"
 
 changelog:
+  - data: "2026-03-23T00:00:00Z"
+    acao: "Jon Benson TCB (The Copywriter Blueprint) offer elements integrated — NEW fonte"
+    mudancas:
+      - "JB added as new fonte: 60 offer elements (Grand Offer architecture, Triple Guarantee, faux pricing, bonus framing, VSL offer sequencing, Kindle Funnel, 28-Day Product Formula)"
+      - "JB peso_dominio: 0.85 (VSL inventor + TCB offer presentation mastery)"
+      - "JB contribuicao_principal: Grand Offer 6-Part structure, faux pricing 75% strategy, Triple Guarantee, bonus copy framing, Kindle Funnel, Sell Before Create, Get Paid To Create"
+      - "New methodology: Kindle Funnel (low-price entry → VSL upsell), 28-Day Product Formula, Triple Product Method, Sell Before Create, Get Paid To Create"
+      - "total_elementos: 858 → 918"
+      - "fontes_processadas: 13 → 14"
+    versao: "16.0.0"
+
+  - data: "2026-03-22T00:00:00Z"
+    acao: "Jeremy Haynes DMM offer/pricing elements integrated"
+    mudancas:
+      - "JH DMM integrated: +35 offer elements (5-Tier Pricing Pyramid, Service Fee + Success Fee, Transaction-to-Recurring Ladder, Proposal Engineering, Value-Based Pricing)"
+      - "JH elementos_relevantes: 120 → 155 (legacy + DMM)"
+      - "New frameworks: 5-Tier Pricing Pyramid (trial→monthly→quarterly→semi-annual→annual), Service Fee + Success Fee model, Transaction-to-Recurring Ladder"
+      - "total_elementos: 758 → 793"
+      - "fontes_processadas: 13 (unchanged count, JH updated)"
+    versao: "13.0.0"
+
   - data: "2026-03-19T00:00:00Z"
     acao: "Robert Cialdini EIPP offer elements integrated"
     mudancas:
