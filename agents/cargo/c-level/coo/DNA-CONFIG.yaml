@@ -6,6 +6,9 @@
 # Integrado com: AGENT-COGNITION-PROTOCOL (FASE 1.5), AGENT-INTEGRITY-PROTOCOL
 #
 # CHANGELOG:
+# v3.6.0 (2026-03-22): Added jeremy-haynes (0.70) — DMM enrichment: 6 Conditions of Statistics, Self-Sustaining Accountability, Stats-Based Firing, MARK Values, Sequential Hiring
+#                      - New domains: stats-based-management, accountability-systems, values-hiring, sequential-hiring
+#                      - Key frameworks: 6 Conditions of Statistics, Self-Sustaining Accountability System, Stats-Based Firing Protocol, MARK Values, Sequential Hiring
 # v3.5.0 (2026-03-15): DK-MTBN Phase 8 — operational systems, list building ops
 #                      - Added 2 MTBN DK elements (MET-DK-215, MM-DK-362)
 # v3.4.0 (2026-03-13): DK ACC enrichment — FW-DK-117 Gold Plus Architecture, FIL-DK-136 system-not-labor
@@ -31,11 +34,11 @@
 # ═══════════════════════════════════════════════════════════════════════════════
 
 cargo: "COO"
-versao: "3.5.0"
+versao: "3.6.0"
 nivel: "C-LEVEL"
 natureza: "HIBRIDO"
 data_criacao: "2025-12-23"
-ultima_atualizacao: "2026-03-15"
+ultima_atualizacao: "2026-03-22"
 
 # ═══════════════════════════════════════════════════════════════════════════════
 # CONSTITUICAO (Layer 1 - Principios compartilhados)
@@ -304,6 +307,38 @@ dna_sources:
       dominios_mtbn:
         - "mtbn-operations"
         - "list-building-ops"
+
+    - pessoa: "jeremy-haynes"
+      path: "/knowledge/external/dna/persons/jeremy-haynes"
+      raiz: "/knowledge/external/sources/jeremy-haynes/raw/"
+      dominios_usados:
+        - "stats-based-management"
+        - "accountability-systems"
+        - "values-hiring"
+        - "sequential-hiring"
+      peso: 0.70
+      quando_usar: "Stats-based management, accountability systems, values-driven hiring, sequential hiring strategy"
+      justificativa: "JH DMM: 6 Conditions of Statistics for operational metrics, Self-Sustaining Accountability for team autonomy, Stats-Based Firing for data-driven HR, MARK Values for culture, Sequential Hiring for growth stages"
+      added: "2026-03-22"
+      source: "Jeremy Haynes - Digital Marketing Manuscript (DMM)"
+      elementos_dmm:
+        - "6 Conditions of Statistics — comprehensive stats framework for operational visibility"
+        - "Self-Sustaining Accountability System — team accountability without micromanagement"
+        - "Stats-Based Firing Protocol — data-driven termination decisions"
+        - "MARK Values — Mission, Accountability, Results, Knowledge — cultural hiring framework"
+        - "Sequential Hiring — hire in correct sequence based on business stage"
+      dominios_dmm:
+        - "stats-based-management"
+        - "accountability-systems"
+        - "values-hiring"
+        - "sequential-hiring"
+      materiais_fonte:
+        - titulo: "Digital Marketing Manuscript (DMM)"
+          path_raiz: "/knowledge/external/sources/jeremy-haynes/raw/digital-marketing-manuscript/"
+          tipo: "book"
+          data_processamento: "2026-03-22"
+          elementos: 25
+          dominios: ["operations", "hiring", "team-building", "delivery", "capacity-planning", "stats-based-management"]
 
     - pessoa: "THE-SCALABLE-COMPANY"
       path: "/knowledge/external/dna/persons/THE-SCALABLE-COMPANY"

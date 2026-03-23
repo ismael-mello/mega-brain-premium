@@ -5,6 +5,9 @@
 # Data: 2026-01-10
 #
 # CHANGELOG:
+# v3.5.0 (2026-03-22): Added jeremy-haynes (0.75) — DMM enrichment: Profit First, Auto-Distribution, Affluence Trap, 90-10 Expense, Staggered Billing
+#                      - New domains: profit-first, auto-distribution, affluence-trap, expense-management, billing-strategy
+#                      - Key frameworks: Profit First Distribution, Auto-Distribution System, Affluence Trap Awareness, 90-10 Expense Rule, Staggered Billing
 # v3.4.0 (2026-03-15): DK peso 0.60→0.65 + MTBN enrichment — fee psychology, owner compensation, specialization premium
 # v3.3.0 (2026-03-13): Adicionado dan-kennedy (0.60) — pricing psychology, front-end/back-end economics, preeminência (7FA)
 # v3.0.0 (2026-01-10): BUG #1 FIX - Cascateamento completo
@@ -16,11 +19,11 @@
 # v1.0.0 (2025-12-23): Versão inicial
 
 cargo: "CFO"
-versao: "3.4.0"
+versao: "3.5.0"
 nivel: "C-LEVEL"
 natureza: "HIBRIDO"
 data_criacao: "2025-12-23"
-ultima_atualizacao: "2026-03-15"
+ultima_atualizacao: "2026-03-22"
 
 # ═══════════════════════════════════════════════════════════════════════════════
 # CONSTITUICAO (Layer 1 - Principios compartilhados)
@@ -152,6 +155,33 @@ dna_sources:
         - "owner-compensation"
         - "profit-optimization"
         - "pricing-psychology-advanced"
+
+    - pessoa: "jeremy-haynes"
+      path: "/knowledge/external/dna/persons/jeremy-haynes"
+      raiz: "/knowledge/external/sources/jeremy-haynes/raw/"
+      dominios_usados:
+        - "profit-first"
+        - "auto-distribution"
+        - "affluence-trap"
+        - "expense-management"
+        - "billing-strategy"
+      peso: 0.75
+      quando_usar: "Profit First distribution, auto-distribution of profits, affluence trap awareness, expense control, staggered billing strategy"
+      justificativa: "JH DMM: Profit First methodology for agency finances, Auto-Distribution for systematic profit extraction, Affluence Trap for lifestyle creep awareness, 90-10 Expense Rule for cost control, Staggered Billing for cash flow optimization"
+      added: "2026-03-22"
+      source: "Jeremy Haynes - Digital Marketing Manuscript (DMM)"
+      elementos_dmm:
+        - "Profit First Distribution — allocate profit before expenses, not after"
+        - "Auto-Distribution System — automated profit extraction on billing cycles"
+        - "Affluence Trap — awareness framework for lifestyle creep as revenue grows"
+        - "90-10 Expense Rule — 90% of expenses should be revenue-generating"
+        - "Staggered Billing — billing strategy to smooth cash flow and reduce churn"
+      dominios_dmm:
+        - "profit-first"
+        - "auto-distribution"
+        - "affluence-trap"
+        - "expense-management"
+        - "billing-strategy"
 
 # ═══════════════════════════════════════════════════════════════════════════════
 # MAPA DE CONFLITOS
