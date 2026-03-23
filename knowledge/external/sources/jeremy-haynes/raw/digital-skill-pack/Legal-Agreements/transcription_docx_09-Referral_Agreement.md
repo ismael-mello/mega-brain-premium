@@ -1,0 +1,234 @@
+# Extração: 09-Referral_Agreement
+
+- **Fonte:** 09-Referral_Agreement.docx
+- **Tipo:** DOCX
+- **Tamanho:** 0.02 MB
+
+---
+
+# Extração: 09-Referral_Agreement
+
+- **Fonte:** 09-Referral_Agreement.docx
+- **Tipo:** DOCX
+- **Tamanho:** 19.7 KB
+
+---
+
+REFERRAL FEE AGREEMENT
+
+This REFERRAL FEE AGREEMENT (“Agreement”) is made as of this ___ day of ___________, 20XX (“Effective Date”), by and between [YOURCOMPANY] LLC., a Georgia corporation, with a place of business at [ADDRESS] (“[YOURCOMPANY]”), and ____________________, having a principal place of business at __________________ (“Referrer”).
+
+
+
+
+
+Definitions.
+
+“Designated Prospect” means a prospect as set forth on Exhibit A. The list of Designated Prospects on Exhibit A may be modified by mutual written agreement of both parties. Each Designated Prospect will have a Registration Date which will be the date that the prospect is accepted by [YOURCOMPANY].
+
+“Decision Maker” means an employee or duly authorized representative of a Designated Prospect, as applicable, who is empowered to negotiate on such Designated Prospect’s behalf relating to the execution of a Services Agreement.
+
+“Services Agreement” means an agreement between [YOURCOMPANY] and a Designated Prospect pursuant to which [YOURCOMPANY] will provide [YOURCOMPANY] services (as defined in such Services Agreement).
+
+Appointment of Referrer. [YOURCOMPANY] hereby authorizes Referrer to refer Designated Prospects to [YOURCOMPANY] pursuant to the terms of this Agreement. 
+
+Services and Introductions to Designated Prospects. During the term of this Agreement, Referrer agrees to use diligent efforts to solicit, develop and introduce [YOURCOMPANY] to Designated Prospects who wish to use [YOURCOMPANY]’s services as described in Appendix C. [YOURCOMPANY] reserves the right to modify pricing or discontinue any or all of the services upon 30 days written notice. Except as expressly set forth in this Agreement, [YOURCOMPANY] shall have no obligation to pay any referral fees or other compensation to Referrer for any prospect which has not been designated by [YOURCOMPANY] as a Designated Prospect on Exhibit A (“Designated Prospects”). A Designated Prospect shall cease to be a Designated Prospect for all purposes hereof, and shall no longer be deemed a Designated Prospect following ninety (90) days from the Registration Date unless (i) such Designated Prospect is in active negotiations with [YOURCOMPANY] regarding a Services Agreement at the end of such  registration period or (ii) such Designated Prospect has executed a Services Agreement within such registration period, in which case, [YOURCOMPANY] shall pay to Referrer a referral fee (“Referral Fee”) as designated on Exhibit B hereto. 
+
+Restriction. Referrer shall not make any representations or warranties regarding [YOURCOMPANY]. Referrer agrees to indemnify, defend and hold harmless [YOURCOMPANY] from any and all claims arising from any representations or warranties made by Referrer regarding [YOURCOMPANY].
+
+Services Agreements. All Services Agreements and the negotiation thereof shall be solely between [YOURCOMPANY] and the Designated Prospects. Nothing contained in this Agreement or to be inferred herefrom shall be deemed to impose upon [YOURCOMPANY] any obligation to enter into any Services Agreement.
+
+Independent Contractor. Referrer is not an employee of [YOURCOMPANY] for any purpose. Referrer understands and agrees that Referrer’s relationship to [YOURCOMPANY] is one of an independent contractor. As such, Referrer agrees that Referrer is not an agent of [YOURCOMPANY] and is not authorized to make any representation, contract, or commitment on behalf of [YOURCOMPANY] unless specifically requested and authorized in writing to do so by [YOURCOMPANY]. [YOURCOMPANY] agrees that it is not an agent of Referrer and is not authorized to make any representation, contract, or commitment on behalf of Referrer unless specifically requested and authorized in writing to do so by Referrer. Referrer shall be solely responsible for any expenses incurred in conducting its business and in performance of this Agreement.
+
+Notice of Agreement and Payments. Within thirty (30) days after the end of the month in which any Designated Prospect executes a Services Agreement, [YOURCOMPANY] shall notify Referrer of such execution, and will provide the name of the Customer, formerly Designated Prospect, and the effective date of the applicable Services Agreement. Referrer agrees to keep such information confidential and agrees not to disclose it to any third party. [YOURCOMPANY] shall pay Referrer all due Referral Fees within thirty (30) days after close of month in which payment is received from Customer. An account summary shall be provided along with such payment. Referrer shall have sixty (60) days from receipt of any Referral Fees to dispute in writing such Referral Fees, otherwise such dispute shall be deemed to be waived.
+
+Disclaimer. [YOURCOMPANY] PROVIDES ALL INFORMATION TO REFERRER HEREUNDER “AS IS.” [YOURCOMPANY] MAKES NO WARRANTIES WITH RESPECT TO THE ACCURACY OF ANY INFORMATION PROVIDED BY [YOURCOMPANY] TO REFERRER, EXPRESS OR IMPLIED, AND [YOURCOMPANY] EXPRESSLY DISCLAIMS ALL WARRANTIES, INCLUDING, THE IMPLIED WARRANTIES OF NON-INFRINGEMENT OF THIRD PARTY RIGHTS, MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.
+
+Limitation of Liability. [YOURCOMPANY] SHALL HAVE NO LIABILITY TO REFERRER, BY REASON OF THE TERMINATION OF THIS AGREEMENT OR OTHERWISE, FOR ANY SPECIAL, INCIDENTAL OR CONSEQUENTIAL DAMAGES OF ANY KIND, SUCH AS COMPENSATION FOR LOSS OF PRESENT OR PROSPECTIVE PROFITS OR REVENUES OR LOSS OF ACTUAL OR ANTICIPATED FEES, WHETHER OR NOT [YOURCOMPANY] WAS ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+Term and Termination. The initial term of this Agreement is for ninety (90) days from the Effective Date, unless earlier terminated in accordance with its terms. This Agreement may be extended upon mutual written agreement of the parties. Either party may also terminate this Agreement for the other party’s material breach of this Agreement if such breach has not been cured within ten (10) days of the date of the non-breaching party’s written notice of such breach. Any termination of this Agreement shall not, however, terminate: (i) Referrer’s obligation to keep the information disclosed under the terms of Section 7 in confidence; (ii) The nondisclosure and nonuse of Confidential Information obligation of both parties in accordance with Section 10; or (iii) The provisions of Section 11.
+
+Confidential Information. The terms of this Agreement are confidential and proprietary information of both parties and any other information that one party provides to the other party in connection with this Agreement during the term of this Agreement that the other party would consider confidential information shall be confidential information (all of the foregoing collectively are referred to as “Confidential Information”) of the disclosing party (the “Disclosing Party”). Neither party (the “Receiving Party”) will disclose or cause to be disclosed any Confidential Information of the Disclosing Party, except (a) to those employees, representatives, or contractors of the Receiving Party who require access to the Confidential Information to perform under this Agreement and who are bound by written agreement not to disclose third-party confidential or proprietary information disclosed to such party, or (b) as such disclosure may be required by law or governmental regulation, subject to the Receiving Party providing to the Disclosing Party written notice to allow the Disclosing Party to seek a protective order or otherwise prevent the disclosure. Nothing in this Agreement will prohibit or limit either party’s use of information (a) previously known to it without obligation of confidence, (b) independently developed by or for it without use of or access to the other party’s Confidential Information, (c) acquired by it from a third party which is not under an obligation of confidence with respect to such information, or (d) which is or becomes publicly available through no breach of this Agreement. Each party acknowledges that damages for improper disclosure of Confidential Information may be irreparable; therefore, notwithstanding any terms to the contrary in this Agreement, the injured party is entitled to seek equitable relief, including temporary restraining order(s) or preliminary or permanent injunction, in addition to all other remedies, for any violation or threatened violation of this Section 10. Within five (5) days after a Disclosing Party’s request, the Receiving Party shall return or destroy the Disclosing Party’s Confidential Information. 
+
+General Provisions. Referrer may not assign, transfer, or sell any of its rights, or delegate any of its responsibilities under this Agreement without [YOURCOMPANY]’s prior written consent. All assignments of rights are prohibited by this Section 11, whether they are voluntary or involuntary, by merger, consolidation, dissolution, operation of law, or any other manner. For purposes of this Section 11, a “change of control” is deemed an assignment of rights and a “merger” refers to any merger in which Referrer participates, regardless of whether it is the surviving or disappearing corporation. Referrer may not delegate any performance under this Agreement. Any purported assignment of rights or delegation of performance in violation of this Section 11 is void. The failure of either party to enforce at any time or for any period any of the provisions of this Agreement will not be construed to be a waiver of those provisions or of the right of that party thereafter to enforce each and every provision hereof. All notices which a party to this Agreement may be required or may wish to give may be given by addressing them to the other party at the addresses first set forth above (or at such other addresses as may be designated by written notice given in the manner designated herein) by: (i) personal delivery; (ii) commercial overnight courier; (iii) confirmed facsimile; or (iv) certified or registered mail. If so mailed or otherwise delivered, such notices will be deemed to have been given on the earlier of the date of actual receipt or three (3) days after mailing or authorized form of delivery. If any provision hereof is found invalid or unenforceable, that part shall be amended to achieve as nearly as possible the same effect as the original provision and the remainder of this Agreement shall remain in full force and effect. This Agreement shall be construed in accordance with the laws of the State of Georgia, without regard to that body of law controlling conflicts of law. The parties hereby submit to the jurisdiction of, and waive any venue objections against, the courts in Georgia, in any litigation arising out of this Agreement. Except as provided below, the parties agree to submit disputes between them that cannot be resolved after negotiating in good faith for no less than fifteen (15) business days relating to this Agreement and its formation, breach, performance, interpretation and application to arbitration as follows: Arbitration will be conducted in Atlanta, Georgia pursuant to the Rules of the American Arbitration Association (“AAA”), as modified herein. The arbitration shall be conducted by one (1) arbitrator chosen in accordance with the rules of the AAA and, to the extent possible; such arbitrator will have knowledge of and experience regarding the industry. Unless the arbitrator finds that exceptional circumstances require otherwise, the arbitrator will grant the prevailing party in arbitration its costs of arbitration and reasonable attorneys’ fees as part of the arbitration award. The resulting arbitration award may be enforced by all lawful remedies, including, injunctive or other equitable relief in any court of competent jurisdiction. Neither party will be required to arbitrate any dispute relating to actual or threatened (i) unauthorized disclosure of Confidential Information or (ii) violation of either party's intellectual property rights. Either party will be entitled to receive in any court of competent jurisdiction injunctive, preliminary or other equitable relief, in addition to damages, including court costs and fees of attorneys and other professionals, to remedy any actual or threatened violation of its rights with respect to which arbitration is not required hereunder. The federal and state courts of Georgia are courts of competent jurisdiction. The parties agree to submit to the jurisdiction of those courts for all purposes concerning any arbitration. This Agreement may be executed in two counterparts, each of which will be deemed an original but both of which will constitute one and the same agreement. This Agreement sets forth the entire understanding and agreement of the parties as to the subject matter hereof and all prior or collateral proposals, negotiations, and representations are merged into and superseded by this Agreement. It may not be changed orally but only by a writing signed by duly authorized representatives of each party. In this Agreement and all Exhibits hereto, unless otherwise expressly indicated or required by the context: (i) reference to and the definition of any document shall be deemed a reference to such document as it may be amended, supplemented, revised, or modified, in writing, from time to time but disregarding any amendment, supplement, replacement or novation made in breach of this Agreement; (ii) reference to any statute, decree or regulation shall be construed as a reference to such statute, law, decree or regulation as re-enacted, redesignated, amended or extended from time to time; (iii) defined terms in the singular shall include the plural and vice versa, and the masculine, feminine or neuter gender shall include all genders; (iv) the words “including” or “includes” shall be deemed to mean “including without limitation” and “including but not limited to” (or “includes without limitation” and “includes but is not limited to”) regardless of whether the words “without limitation” or “but not limited to” actually follow the term; and (v) the words “hereof,” “herein” and “hereunder” and words of similar import when used in this Agreement shall refer to this Agreement as a whole and not to any particular provision hereof or thereof, as the case may be.
+
+
+
+
+
+
+
+[COMPANYNAME]:
+
+
+
+
+
+
+
+By:	
+
+
+
+	
+
+Name
+
+	
+
+Title
+
+Referrer:
+
+
+
+	
+
+
+
+By:	
+
+
+
+	
+
+Name
+
+	
+
+Title
+
+
+
+
+
+
+
+
+
+EXHIBIT A
+
+
+
+Designated Prospects
+
+
+
+
+
+#
+
+Designated Prospect
+
+Registration Date
+
+1.
+
+
+
+
+
+2.
+
+
+
+
+
+3.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+EXHIBIT B
+
+
+
+Referral Fee Schedule
+
+
+
+
+
+
+
+Referrer’s Fees
+
+For each Designated Prospect that executes a Services Agreement within the Registration Period and under the conditions set forth in this Agreement, [YOURCOMPANY] shall pay Referrer, a Referrer’s Fee of 10% of the Net Revenues received by [YOURCOMPANY] attributable to the applicable Services Agreement. “Net Revenues” means actual cash receipts, less returns, taxes, discounts and allowances received.
+
+
+
+The payment of Referrer’s Fees shall continue for the initial term and any renewal terms of such Services Agreement, provided that such payment of such fees shall not continue for more than one (1) year. Payment of Referrer’s Fees for qualifying Customers shall terminate if the Customer ceases to be a paying Customer of [YOURCOMPANY].
+
+
+
+Note that all revenue generated by [YOURCOMPANY] through setup fees, custom application development, custom integration, moderation or consulting services is explicitly excluded from consideration for Referrer’s Fees.
+
+
+
+
+
+
+
+
+
+
+
+EXHIBIT C
+
+
+
+Available Services
+
+
+
+
+
+Web Design
+
+Flash Development
+
+Print Design
+
+Logo Design
+
+Marketing
+
+Custom applications
+
+System integrations
+
+Web hosting
+
+Search engine marketing
+
+Email Marketing
+
+Content management system
+
+Ecommerce 
+
+Consulting
+

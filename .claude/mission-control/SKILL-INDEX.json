@@ -1,8 +1,8 @@
 {
   "version": "2.0.0",
-  "skills_count": 50,
+  "skills_count": 51,
   "subagents_count": 4,
-  "total_count": 54,
+  "total_count": 55,
   "skills": {
     "agent-creation": {
       "path": ".claude\\skills\\agent-creation",
@@ -697,6 +697,29 @@
       "keywords": [
         "teaching",
         "teaching"
+      ],
+      "priority": "MÉDIA",
+      "description": ""
+    },
+    "team-diagnostic": {
+      "path": ".claude\\skills\\team-diagnostic",
+      "name": "team-diagnostic",
+      "type": "skill",
+      "auto_trigger": "Quando usuario faz pergunta operacional que envolve diagnostico, problema, ou decisao que beneficia de multiplas perspectivas de cargo",
+      "keywords": [
+        "campanha caiu",
+        "o que fazer",
+        "meu closer",
+        "como resolver",
+        "diagnostico",
+        "equipe",
+        "team",
+        "minha taxa",
+        "meu custo",
+        "nao ta convertendo",
+        "como melhorar",
+        "ta dando errado",
+        "problema com"
       ],
       "priority": "MÉDIA",
       "description": ""
@@ -2796,6 +2819,110 @@
         "name": "teaching",
         "type": "skill",
         "path": ".claude\\skills\\teaching",
+        "priority": "MÉDIA"
+      }
+    ],
+    "campanha caiu": [
+      {
+        "name": "team-diagnostic",
+        "type": "skill",
+        "path": ".claude\\skills\\team-diagnostic",
+        "priority": "MÉDIA"
+      }
+    ],
+    "o que fazer": [
+      {
+        "name": "team-diagnostic",
+        "type": "skill",
+        "path": ".claude\\skills\\team-diagnostic",
+        "priority": "MÉDIA"
+      }
+    ],
+    "meu closer": [
+      {
+        "name": "team-diagnostic",
+        "type": "skill",
+        "path": ".claude\\skills\\team-diagnostic",
+        "priority": "MÉDIA"
+      }
+    ],
+    "como resolver": [
+      {
+        "name": "team-diagnostic",
+        "type": "skill",
+        "path": ".claude\\skills\\team-diagnostic",
+        "priority": "MÉDIA"
+      }
+    ],
+    "diagnostico": [
+      {
+        "name": "team-diagnostic",
+        "type": "skill",
+        "path": ".claude\\skills\\team-diagnostic",
+        "priority": "MÉDIA"
+      }
+    ],
+    "equipe": [
+      {
+        "name": "team-diagnostic",
+        "type": "skill",
+        "path": ".claude\\skills\\team-diagnostic",
+        "priority": "MÉDIA"
+      }
+    ],
+    "team": [
+      {
+        "name": "team-diagnostic",
+        "type": "skill",
+        "path": ".claude\\skills\\team-diagnostic",
+        "priority": "MÉDIA"
+      }
+    ],
+    "minha taxa": [
+      {
+        "name": "team-diagnostic",
+        "type": "skill",
+        "path": ".claude\\skills\\team-diagnostic",
+        "priority": "MÉDIA"
+      }
+    ],
+    "meu custo": [
+      {
+        "name": "team-diagnostic",
+        "type": "skill",
+        "path": ".claude\\skills\\team-diagnostic",
+        "priority": "MÉDIA"
+      }
+    ],
+    "nao ta convertendo": [
+      {
+        "name": "team-diagnostic",
+        "type": "skill",
+        "path": ".claude\\skills\\team-diagnostic",
+        "priority": "MÉDIA"
+      }
+    ],
+    "como melhorar": [
+      {
+        "name": "team-diagnostic",
+        "type": "skill",
+        "path": ".claude\\skills\\team-diagnostic",
+        "priority": "MÉDIA"
+      }
+    ],
+    "ta dando errado": [
+      {
+        "name": "team-diagnostic",
+        "type": "skill",
+        "path": ".claude\\skills\\team-diagnostic",
+        "priority": "MÉDIA"
+      }
+    ],
+    "problema com": [
+      {
+        "name": "team-diagnostic",
+        "type": "skill",
+        "path": ".claude\\skills\\team-diagnostic",
         "priority": "MÉDIA"
       }
     ],

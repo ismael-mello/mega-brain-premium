@@ -2,7 +2,7 @@
 # Configuracao de fontes de DNA para agente SOLO
 # Versao: 1.0.0 | Criado: 2026-03-02
 
-versao: "1.0.0"
+versao: "2.0.0"
 agente: "JEREMY-HAYNES"
 tipo: "SOLO"
 natureza: "PERSON"
@@ -38,6 +38,19 @@ dna_sources:
       - business-exits
       - mindset-productivity
       - team-hiring
+      - agency-operations
+      - financial-management
+      - client-management
+      - delivery
+      - personality-branding
+      - conversion-psychology
+      - neuro-marketing
+      - page-architecture
+      - seo-strategy
+      - ad-automation
+      - messenger-marketing
+      - content-distribution
+      - affiliate-marketing
 
     materiais_fonte:
       - id: "JH001"
@@ -101,20 +114,56 @@ dna_sources:
         data_processamento: "2026-03-03"
         nota: "Merge direto nos YAML DNA files (bypassed pipeline)"
 
+      - id: "DMM"
+        titulo: "Digital Marketing Manuscript (DMM)"
+        tipo: "course"
+        arquivos: 91
+        data_processamento: "2026-03-22"
+        nota: "8 phases + 4 bonus modules (Profit & Prosper, Startup, Resources, Legal)"
+        elementos_extraidos: 125
+        dominios_novos:
+          - agency-operations
+          - financial-management
+          - client-management
+          - legal-protection
+          - delivery
+          - lifestyle-design
+          - content-marketing
+          - agency-startup
+
+      - id: "DSP"
+        titulo: "Digital Skill Pack (DSP)"
+        tipo: "course"
+        arquivos: 137
+        data_processamento: "2026-03-22"
+        nota: "10 modules (Ads, Chatbot, ClickFunnels x5, Branding, SEO, Dropshipping) + Legal + Resources"
+        elementos_extraidos: 204
+        dominios_novos:
+          - personality-branding
+          - funnel-architecture
+          - conversion-psychology
+          - neuro-marketing
+          - page-architecture
+          - seo-strategy
+          - ad-automation
+          - messenger-marketing
+          - affiliate-marketing
+          - content-distribution
+
 # Estatisticas do DNA
 estatisticas:
-  total_elementos: 2280
-  filosofias: 370
-  modelos_mentais: 257
-  heuristicas: 881
-  frameworks: 460
-  metodologias: 312
-  peso_medio: 0.85
-  alta_confianca_percent: 92.1
-  batches_processados: 30
-  arquivos_fonte: 296
-  series: 10
-  yaml_summary_elements: 222
+  total_elementos: 2609
+  filosofias: 432
+  modelos_mentais: 313
+  heuristicas: 980
+  frameworks: 523
+  metodologias: 361
+  peso_medio: 0.87
+  alta_confianca_percent: 92.0
+  batches_processados: 31
+  arquivos_fonte: 524
+  series: 12
+  yaml_summary_elements: 551
 
 # Arquivos DNA
 arquivos_dna:
@@ -174,6 +223,7 @@ heuristicas_prioritarias:
 # Metadados
 metadados:
   criado_em: "2026-03-02"
+  atualizado_em: "2026-03-22"
   protocolo: "AGENT-INTEGRITY-PROTOCOL v1.2.1"
-  pipeline: "Jarvis v3.33.0"
+  pipeline: "Jarvis v3.33.0 + DMM Full Pipeline"
   validado: true

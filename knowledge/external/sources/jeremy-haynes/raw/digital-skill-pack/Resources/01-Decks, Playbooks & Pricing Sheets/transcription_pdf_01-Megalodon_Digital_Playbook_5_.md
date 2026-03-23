@@ -1,0 +1,208 @@
+# Extração: 01-Megalodon_Digital_Playbook_5_
+
+- **Fonte:** 01-Megalodon_Digital_Playbook_5_.pdf
+- **Tipo:** PDF
+- **Páginas:** 0
+- **Tamanho:** 1.07 MB
+
+---
+
+7904 West Drive | Miami Beach, FL 33141
+jeremy@megalodon.marketing | sheelah@megalodon.marketing	megalodonmarketing.net
+Digital Playbook
+www.getwsodo.com	www.getwsodo.com
+
+-- 1 of 7 --
+
+STAT CARD	Jeremy Haynes
+Advertising Director/Founder
+7904 West Drive | Miami Beach, FL 33141
+jeremy@megalodon.marketing | sheelah@megalodon.marketing	megalodonmarketing.net
+Jeremy Haynes is known as the go-to millennial
+for all marketing automation and advertising
+needs for businesses in dozens of industries.
+He is the CEO/Founder of Megalodon Marketing
+based in Miami Beach, FL.
+He’s known for creating some of the highest
+grossing Digital Marketing sales campaigns
+in the history of Grant Cardone™’s digital
+advertising. Doing so as his ‘Digital Marketing
+Specialist’ with the help of a creative team to
+produce MASSIVE results!
+He has customers and clients across the globe
+and regularly acts as a marketing/advertising
+advisor to celebrity personalities, NY Times Best
+Selling Authors, and entrepreneurs.
+923KOur Average ClientÕs
+Social Reach
+Average
+User Reach
+500 - 5K Followers
+5K - 90K Followers
+90K - 5M Followers
+Popular
+User Reach
+Public Figure/
+Brand Reach
+Ads Created Per Month
+From 2015 - 2016
+Number of Ads Created
+Jun - Aug 	Sep - Nov 	Dec - Feb 	Mar - May 	Jun - Aug	
+9%Average Conversion Rate.
+Industry standard is 2-4%
+9% Conversion Rate
+2-4% Industry Standard
+Average Amount of Emails Sent Per Month
+From 2015 - 2016
+Emails Sent Per Month
+Leads Generated Per Month
+From 2015 - 2016
+Leads Generated Per Month
+Average Gross Monthly Client Return
+From 2015 - 2016
+Gross Monthly Client Return
+My Statistics
+@TheLifeof Haynes 	Jeremy Haynes 	@TheJeremyHaynes	@TheJeremyHaynes	/T heJeremyHaynes
+My Social Media
+www.getwsodo.com	www.getwsodo.com
+
+-- 2 of 7 --
+
+BATTLE PLAN BLUEPRINT
+7904 West Drive | Miami Beach, FL 33141
+jeremy@megalodon.marketing | sheelah@megalodon.marketing	megalodonmarketing.net
+Design
+We envision and then create a dynamic advertising and
+follow-up sales model into motion for you within 72 business
+hours of you becoming a client with Megalodon. We ensure all
+of our strategies, ideas and execution plans align with your
+company's internal goals.
+Develop
+Analyze
+Optimize
+Deploy
+Strategize
+As each phase of these real-time changes are made, everything
+is documented to calibrate and optimize future campaigns for
+the highest probability of success. This means all of the failures
+and successes achieved will be recorded for future usage when
+building out the next advertising and marketing system.
+www.getwsodo.com	www.getwsodo.com
+
+-- 3 of 7 --
+
+FUNNEL OPTIMIZATION FLOW
+7904 West Drive | Miami Beach, FL 33141
+jeremy@megalodon.marketing | sheelah@megalodon.marketing	megalodonmarketing.net
+www.getwsodo.com	www.getwsodo.com
+
+-- 4 of 7 --
+
+*Ad spend to distribute content is included in the monthly retainer.
+Social Media Package
+Social Media Package Includes*
+• 	Social Media Strategy Development
+• 	Social Media Consulting
+• 	Community Management
+• 	Crisis Management
+• 	Measurement & Monitoring
+• 	Social Listening
+• 	Article Creation & Distribution
+• 	Megalodon Content & Promotion Calendar
+(compatible with Google Calendar & Outlook Calendar)
+• 	Social Selling Consulting & Execution
+• 	Confidence Consulting
+(for Video & Content Creation)
+• 	YouTube Views/Subscribers Growth
+(15% subscribers growth per month & 25% lift in likes per month)
+TOTAL: $4,000.00
+With a well-thought-out reverse engineered strategy, we help determine what social media channels your brand should be using,
+ways to increase audience engagement and awareness, and establish measurable goals and benchmarks to track your social media
+marketing progress. We then execute content creation and distribution, and are always moving towards established benchmarks
+and goals.
+Social Media Package Posts Per Month
+60
+Posts
+60
+Posts
+90
+Tweets
+8
+Articles
+8
+Articles
+15% Subs
+Growth &
+25% Likes Lift
+PRICE SHEET
+7904 West Drive | Miami Beach, FL 33141
+jeremy@megalodon.marketing | sheelah@megalodon.marketing	megalodonmarketing.net
+www.getwsodo.com	www.getwsodo.com
+
+-- 5 of 7 --
+
+Digital Advertising Packages
+*Package retainer can fluctuate dependant on clients advertising budget.
+Package is subjuct to a 2 month contract and is renewed on a 2 month contract basis unless otherwised agreed upon.
+We utilize in the most cost-effective channels to connect with the people you care about most to drive short and long term results.
+Our media strategies and ad creative is fine-tuned using careful tracking and analytics, ensuring every advertising dollar and every
+organic action goes farther. In the simplest terms, we take timeless data driven action to achieve company milestones and goals.
+Dedicated Account Manager
+Account Review & Goal Setting
+Keyword Research
+Account Structure & Restructure
+Text Ad Creation & Optimization
+Dynamic Keyword Insertion
+Google Display Network & Remarketing
+Geo-targeting
+Conversion Tracking
+Detailed Performance Reporting
+Unlimited Google PPC Ad Campaigns Optimized for Conversions
+Unlimited Facebook Ad Campaigns Optimized for Conversions
+Ad Campaigns on other Social Mediums if need is present
+Unlimited Retargeting Campaigns
+Maintenance & monitoring every other day for optimization
+Mass Email Blasts
+Personal Automated Email & Text Message Campaigns
+Follow-up Campaigns with the intent to Close Leads or Schedule Appts.
+Referral campaigns
+Review campaigns
+Social following Campaigns to drive Social Engagement
+Content Engagement Campaigns (drive traffic to blogs, videos, offers, etc.)
+Landing Page Creation
+Social Media Strategy Development
+Social Media Consulting
+Community Management
+Crisis Management
+Measurement & Monitoring
+Social Listening
+Article Creation
+Legacy Package $12,000*
+PRICE SHEET
+7904 West Drive | Miami Beach, FL 33141
+jeremy@megalodon.marketing | sheelah@megalodon.marketing	megalodonmarketing.net
+www.getwsodo.com	www.getwsodo.com
+
+-- 6 of 7 --
+
+Jeremy Haynes Speaking Engagement: $5,000.00
+Jeremy has spoken at Inc 500 corporations and small businesses alike to motivate, inspire and drive results in
+companies through the actionable information delivered in each dynamically created keynote presentation. If you’re
+looking to re-engage your team, motivate your company with the lightning energy levels of an expert level millennial
+living and breathing his passion everyday, or feature a prodigious young speaker at your event, choose Jeremy.
+Jeremy is known as the go-to millennial for all marketing and advertising needs for businesses in dozens of industries.
+He is the CEO/Founder of his Advertising Agency, Megalodon Marketing based in Miami Beach, FL.
+He’s recognized for creating some of the highest grossing Digital Marketing sales campaigns in the history of Grant
+Cardone™’s digital advertising. Doing so as his ‘Digital Marketing Specialist’ with the help of a creative team to produce
+MASSIVE results! He now is responsible for millions in gross revenue per month in advertising returns for his client
+base.
+He has customers and clients across the globe and regularly acts as a marketing/advertising advisor to celebrity
+personalities, NY Times Best Selling Authors, and entrepreneurs.
+Inquire by emailing Jeremy@megalodon.marketing.
+KEYNOTE SPEAKER
+7904 West Drive | Miami Beach, FL 33141
+jeremy@megalodon.marketing | sheelah@megalodon.marketing	megalodonmarketing.net
+www.getwsodo.com	www.getwsodo.com
+
+-- 7 of 7 --
+

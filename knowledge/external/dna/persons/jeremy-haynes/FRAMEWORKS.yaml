@@ -2,7 +2,7 @@
 # Estruturas nomeadas com componentes definidos (sem ordem rigida)
 # Versao: 3.0.0 | Atualizado: 2026-03-03 | Fase 5 + 30DC/CA Merge
 
-versao: "3.0.0"
+versao: "4.0.0"
 pessoa: "Jeremy Haynes"
 camada: "FRAMEWORKS"
 total_itens: 48
@@ -576,6 +576,159 @@ itens:
     aplicacao: "Marketing de negocio local, empacotamento de servicos, cold outreach para oficios"
     rating: "★★★★"
 
+
+  # === DMM (Digital Marketing Manuscript) — 25 frameworks ===
+  - id: "JH-FRM-049"
+    nome: "Battle Plan Blueprint"
+    descricao: "6-step client engagement: Strategize-Design-Optimize-Develop-Deploy-Analyze"
+    dominio: "agency-operations"
+    fonte: "DMM-P3"
+    confianca: 0.95
+  - id: "JH-FRM-050"
+    nome: "Transaction-to-Recurring Ladder"
+    descricao: "Migrate clients from one-time project fees to recurring monthly retainers"
+    dominio: "pricing"
+    fonte: "DMM-P3"
+    confianca: 0.90
+  - id: "JH-FRM-051"
+    nome: "Staggered Billing Framework"
+    descricao: "Split payment collection across milestone dates to smooth cash flow"
+    dominio: "financial-management"
+    fonte: "DMM-P3"
+    confianca: 0.90
+  - id: "JH-FRM-052"
+    nome: "Law of Expansion vs Contraction"
+    descricao: "Alternate between growth phases and consolidation phases strategically"
+    dominio: "agency-strategy"
+    fonte: "DMM-P3"
+    confianca: 0.90
+  - id: "JH-FRM-053"
+    nome: "Package-Team Alignment"
+    descricao: "Map each service package to required team members and capacity limits"
+    dominio: "agency-operations"
+    fonte: "DMM-P3"
+    confianca: 0.90
+  - id: "JH-FRM-054"
+    nome: "6 Conditions of Statistics"
+    descricao: "Six states a metric can be in with specific response protocols per condition"
+    dominio: "analytics"
+    fonte: "DMM-P3"
+    confianca: 0.90
+  - id: "JH-FRM-055"
+    nome: "Affluence Trap"
+    descricao: "Rapid revenue growth leads to lifestyle inflation that outpaces profit — detection and prevention"
+    dominio: "financial-management"
+    fonte: "DMM-P3"
+    confianca: 0.90
+  - id: "JH-FRM-056"
+    nome: "PM Hat Document"
+    descricao: "Comprehensive responsibility matrix defining every PM hat per client lifecycle stage"
+    dominio: "agency-operations"
+    fonte: "DMM-P3"
+    confianca: 0.85
+  - id: "JH-FRM-057"
+    nome: "Key Position Bonus System"
+    descricao: "Structured bonus tiers tied to KPIs for key roles without giving equity"
+    dominio: "compensation"
+    fonte: "DMM-P3"
+    confianca: 0.90
+  - id: "JH-FRM-058"
+    nome: "Auto-Distribution Framework"
+    descricao: "Automatic allocation of revenue into Profit/Tax/OpEx buckets before spending"
+    dominio: "financial-management"
+    fonte: "DMM-P3"
+    confianca: 0.90
+  - id: "JH-FRM-059"
+    nome: "CPR Framework (Clear Process to Revenue)"
+    descricao: "Show prospect exact path from current state to revenue generation with timeline"
+    dominio: "sales"
+    fonte: "DMM-P4"
+    confianca: 0.95
+  - id: "JH-FRM-060"
+    nome: "Bridge Framework"
+    descricao: "Position your service as the bridge between prospects current and desired state"
+    dominio: "sales"
+    fonte: "DMM-P4"
+    confianca: 0.90
+  - id: "JH-FRM-061"
+    nome: "Agree-and-Redirect"
+    descricao: "Handle objections by first agreeing, then redirecting to a reframed perspective"
+    dominio: "sales"
+    fonte: "DMM-P4"
+    confianca: 0.90
+  - id: "JH-FRM-062"
+    nome: "Bluff Objection Detection"
+    descricao: "Distinguish real objections from bluff stalls using probing questions"
+    dominio: "sales"
+    fonte: "DMM-P4"
+    confianca: 0.90
+  - id: "JH-FRM-063"
+    nome: "Known/Unknown Matrix"
+    descricao: "2x2 matrix for operational risk management and consultant hiring decisions"
+    dominio: "operations"
+    fonte: "DMM-P5"
+    confianca: 0.90
+  - id: "JH-FRM-064"
+    nome: "Production vs Execution Lines"
+    descricao: "Separate delivery into production (creative) and execution (deployment) tracks"
+    dominio: "agency-operations"
+    fonte: "DMM-P6"
+    confianca: 0.90
+  - id: "JH-FRM-065"
+    nome: "Position-Specific KPI Framework"
+    descricao: "Each role has 3-5 non-negotiable KPIs measured weekly with threshold triggers"
+    dominio: "team-management"
+    fonte: "DMM-P7"
+    confianca: 0.90
+  - id: "JH-FRM-066"
+    nome: "VAK Training Model"
+    descricao: "Train using Visual, Auditory, and Kinesthetic methods simultaneously"
+    dominio: "team-management"
+    fonte: "DMM-P7"
+    confianca: 0.85
+  - id: "JH-FRM-067"
+    nome: "Compensation Framework (Salary+Commission)"
+    descricao: "Base salary for stability + commission on results as optimal pay structure"
+    dominio: "compensation"
+    fonte: "DMM-P7"
+    confianca: 0.90
+  - id: "JH-FRM-068"
+    nome: "MARK Core Values"
+    descricao: "Mastery, Articulation, Results, Creativity — cultural alignment system"
+    dominio: "culture"
+    fonte: "DMM-P7"
+    confianca: 0.90
+  - id: "JH-FRM-069"
+    nome: "Crisis Manipulation Framework"
+    descricao: "Use crisis moments as leverage to implement systemic organizational changes (Duhigg/ONeill)"
+    dominio: "leadership"
+    fonte: "DMM-P7"
+    confianca: 0.85
+  - id: "JH-FRM-070"
+    nome: "5-Tier Pricing Pyramid"
+    descricao: "Service pricing from 1K to 16K/month with defined deliverables per tier"
+    dominio: "pricing"
+    fonte: "DMM-BONUS"
+    confianca: 0.90
+  - id: "JH-FRM-071"
+    nome: "Omnipresent Advertising Model"
+    descricao: "Multi-platform content distribution ensuring prospect sees your brand everywhere"
+    dominio: "advertising"
+    fonte: "DMM-BONUS"
+    confianca: 0.90
+  - id: "JH-FRM-072"
+    nome: "Efficiencies Trifecta"
+    descricao: "Three domains of optimization: Business, Personal, Material — all must be balanced"
+    dominio: "lifestyle-design"
+    fonte: "DMM-BONUS-PP"
+    confianca: 0.85
+  - id: "JH-FRM-073"
+    nome: "Power Retention Model"
+    descricao: "Client retention through results, relationships, and intellectual property lock-in"
+    dominio: "client-management"
+    fonte: "DMM-P8"
+    confianca: 0.90
+
 metadados:
   total_chunks_processados: 48
   batches_fonte: ["BATCH-068", "BATCH-069", "BATCH-070", "BATCH-071", "BATCH-072", "BATCH-073", "BATCH-074", "BATCH-075", "BATCH-076", "BATCH-077", "BATCH-078", "BATCH-079", "BATCH-080", "BATCH-081", "BATCH-082", "BATCH-083", "BATCH-084", "JH001", "JH002", "30DC-NEW-ELEMENTS", "CA-NEW-ELEMENTS"]
@@ -585,6 +738,10 @@ metadados:
   protocolo: "DNA-EXTRACTION-PROTOCOL v2.0"
   fase: "Phase 5 + 30DC/CA Merge"
   changelog:
+    - data: "2026-03-22T00:00:00Z"
+      acao: "DMM (Digital Marketing Manuscript) — 25 frameworks adicionados, total 73"
+      fonte: "DMM (91 files, 8 phases + bonus)"
+      versao: "4.0.0"
     - data: "2026-01-10T17:45:00Z"
       acao: "Enriquecimento Fase 5 - 20 frameworks adicionados"
       fonte: "SOURCE-JH.md + BATCH-068 a BATCH-084"

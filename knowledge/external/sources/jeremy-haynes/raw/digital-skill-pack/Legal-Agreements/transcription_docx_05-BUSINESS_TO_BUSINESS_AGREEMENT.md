@@ -1,0 +1,152 @@
+# Extração: 05-BUSINESS_TO_BUSINESS_AGREEMENT
+
+- **Fonte:** 05-BUSINESS_TO_BUSINESS_AGREEMENT.docx
+- **Tipo:** DOCX
+- **Tamanho:** 0.02 MB
+
+---
+
+# Extração: 05-BUSINESS_TO_BUSINESS_AGREEMENT
+
+- **Fonte:** 05-BUSINESS_TO_BUSINESS_AGREEMENT.docx
+- **Tipo:** DOCX
+- **Tamanho:** 17.7 KB
+
+---
+
+BUSINESS TO BUSINESS AGREEMENT
+
+THIS BUSINESS TO BUSINESS AGREEMENT (the "Agreement") dated this 21st day of April, 2017BETWEEN: AMIN EMAMI, OF AMIN EMAMI LLC HEREIN REFERRED TO AS THE CLIENT
+
+_______________________________________________________ (the "client") 
+
+
+
+- AND –
+
+JEREMY HAYNES OF MEGALODON HEREIN REFERRED TO AS THE CONTRACTOR
+
+___________________________________________________________ (the "Contractor")
+
+BACKGROUND:
+
+The client is of the opinion that the Contractor has the necessary qualifications, experience and abilities to provide services to the client
+
+The Contractor is agreeable to providing such services to the client on the terms and conditions set out in this Agreement.
+
+IN CONSIDERATION OF the matters described above and of the mutual benefits and obligations set forth in this Agreement, the receipt and sufficiency of which consideration is hereby acknowledged, the client and the Contractor (individually the "Party" and collectively the "Parties" to this Agreement) agree as follows: 		
+
+Services Provided 
+
+The contractor shall be providing and performing audits, direct consult, training and will also be delivering resource services to the client and the contractor shall be training other staffs of the client
+
+
+
+The contractor shall be showing the client some advanced strategy on how to make more revenue, drive more leads into his business, and create a larger and higher level of expert perception of his brand on social media
+
+The contractor shall also be training one of the client’s digital marketers on a tool called click funnel to create landing pages, funnels and basic marketing automation to use for the client continuously
+
+The Services will also include any other tasks which the Parties may agree on. The Contractor hereby agrees to provide such Services to the client
+
+Termination
+
+This service agreement between the client and the contractor shall be for a period of 2 days and 7 hours for each day in the state of Kansas. This termination date must be strictly adhered to under this agreement.  
+
+Term of Agreement
+
+The term of this Agreement (the "Term") will begin on the date of this Agreement and will remain in full force and effect until the completion of the Services, subject to earlier termination as provided in this Agreement. The Term of this Agreement may be extended with the written consent of the Parties.
+
+In the event that either Party breaches a material provision under this Agreement, the non-defaulting Party may terminate this Agreement and require the defaulting Party to indemnify the non-defaulting Party against all reasonable damages. 
+
+Performance
+
+The Parties agree to do everything necessary to ensure that the terms of this Agreement take effect.
+
+Payment
+
+For the services rendered by the Contractor as required by this Agreement, Client will provide a fixed rate payment (the "Payment") to the Contractor of a fixed amount of $2,500 for each day
+
+Confidentiality
+
+Confidential information (the "Confidential Information") refers to any data or information relating to the client, whether business or personal, which would reasonably be considered to be private or proprietary to the client and that is not generally known and where the release of that Confidential Information could reasonably be expected to cause harm to the client.
+
+The Contractor agrees that they will not disclose, divulge, reveal, report or use, for any purpose, any Confidential Information which the Contractor has obtained, except as authorized by the client or as required by law. The obligations of confidentiality will apply during the term of this Agreement and will survive indefinitely upon termination of this Agreement.
+
+All written and oral information and material disclosed or provided by the client to the Contractor under this Agreement is Confidential Information regardless of whether it was provided before or after the date of this Agreement or how it was provided to the Contractor.
+
+Ownership of Intellectual Property
+
+All intellectual property and related material (the "Intellectual Property") that is produced under this Agreement will be the sole property of the client. The use of the Intellectual Property by the client will not be restricted in any manner.
+
+The Contractor may not use the Intellectual Property for any purpose other than that contracted for in this Agreement except with the written consent of the client. The Contractor will be responsible for any and all damages resulting from the unauthorized use of the Intellectual Property.
+
+Return of Property
+
+Upon the expiry or termination of this Agreement, the Contractor will return to the client any documentation, records, or Confidential Information which is the property of the client
+
+Capacity/Independent Contractor
+
+In providing the Services under this Agreement it is expressly agreed that the Contractor is acting as an independent contractor and not as an employee. The Contractor and the client acknowledge that this Agreement does not create a partnership or joint venture between them, and is exclusively a contract for service.
+
+Indemnification
+
+Each Party agrees to indemnify and hold harmless the other Party, and its respective affiliates, officers, agents, employees, and permitted successors and assigns against any and all claims, losses, damages, liabilities, penalties, punitive damages, expenses, reasonable legal fees and costs of any kind or amount whatsoever, which result from or arise out of any act or omission of the indemnifying party, its respective affiliates, officers, agents, employees, and permitted successors and assigns that occurs in connection with this Agreement. This indemnification will survive the termination of this Agreement.
+
+Dispute Resolution
+
+In the event a dispute arises out of or in connection with this Agreement, the Parties will attempt to resolve the dispute through friendly consultation.
+
+If the dispute is not resolved within a reasonable period then any or all outstanding issues may be submitted to mediation in accordance with any statutory rules of mediation. If mediation is unavailable or is not successful in resolving the entire dispute, any outstanding issues will be submitted to final and binding arbitration in accordance with the laws of the state of Kansas. The arbitrator's award will be final, and judgment may be entered upon it by any court having jurisdiction within the state of Kansas
+
+Modification of Agreement
+
+Any amendment or modification of this Agreement or additional obligation assumed by either Party in connection with this Agreement will only be binding if evidenced in writing signed by each Party or an authorized representative of each Party.
+
+Time of the Essence
+
+Time is of the essence in this Agreement. No extension or variation of this Agreement will operate as a waiver of this provision.
+
+Force Majeure
+
+The contractor shall not be liable for failure to perform, nor be deemed to be in default under this agreement for any delay or failure in performance resulting from causes beyond its reasonable control including but not limited to failure of performance by the other party, acts of state or governmental authorities, acts of terrorism, natural catastrophe, storm, flood, earthquake, riot, insurrection, civil disturbance, sabotage, embargo, blockade, acts of war, or power failure. In the event of such delay, the date of delivery or time of completion will be extended by a period of time reasonably necessary to overcome the effect of any such delay.
+
+Assignment
+
+The Contractor will not voluntarily or by operation of law assign or otherwise transfer its obligations under this Agreement without the prior written consent of the client.
+
+Entire Agreement
+
+It is agreed that there is no representation, warranty, collateral agreement or condition affecting this Agreement except as expressly provided in this Agreement.
+
+Inurnment
+
+This Agreement will inure to the benefit of and be binding on the Parties and their respective heirs, executors, administrators and permitted successors and assigns.
+
+Titles/Headings
+
+Headings are inserted for the convenience of the Parties only and are not to be considered when interpreting this Agreement.
+
+Governing Law
+
+It is the intention of the Parties to this Agreement that this Agreement and the performance under this Agreement, and all suits and special proceedings under this Agreement, be construed in accordance with and governed, to the exclusion of the law of any other forum, by the laws of the state of Kansas without regard to the jurisdiction in which any action or special proceeding may be instituted.
+
+Severability
+
+In the event that any of the provisions of this Agreement are held to be invalid or unenforceable in whole or in part, all other provisions will nevertheless continue to be valid and enforceable with the invalid or unenforceable parts severed from the remainder of this Agreement.
+
+Waiver
+
+The waiver by either Party of a breach, default, delay or omission of any of the provisions of this Agreement by the other Party will not be construed as a waiver of any subsequent breach of the same or other provisions.
+
+IN WITNESS WHEREOF the Parties has duly affixed their signatures under hand and seal on this 21st day of April, 2017.
+
+CLIENT							CONTRACTOR
+
+
+
+__________________					____________________
+
+(Signature)							(Signature)
+
+
+

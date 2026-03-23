@@ -2,7 +2,7 @@
 # Processos passo-a-passo com ORDEM RIGIDA e criterios de sucesso por etapa
 # Versao: 3.0.0 | Atualizado: 2026-03-03 | Fase 5 + 30DC/CA Merge
 
-versao: "3.0.0"
+versao: "4.0.0"
 pessoa: "Jeremy Haynes"
 camada: "METODOLOGIAS"
 total_itens: 36
@@ -737,6 +737,216 @@ itens:
     aplicacao: "Negocios tradicionais, marketing local, demograficos mais velhos"
     rating: "★★★★"
 
+
+  # === DMM (Digital Marketing Manuscript) -- 20 metodologias ===
+  - id: "JH-MET-037"
+    nome: "3-Phase Interview Process"
+    passos:
+      - "Phase 1: Behavioral interview with Two Bad Habits question"
+      - "Phase 2: IQ/EQ/Aptitude test ($60)"
+      - "Phase 3: Paid test week ($500-750)"
+    dominio: "hiring"
+    fonte: "DMM-P7"
+    confianca: 0.95
+  - id: "JH-MET-038"
+    nome: "Milestone Agreement Process"
+    passos:
+      - "Define milestones at onboarding"
+      - "2-Day Approval Window per milestone"
+      - "Auto-approve if no response"
+      - "Bill based on milestone completion"
+    dominio: "client-management"
+    fonte: "DMM-P3"
+    confianca: 0.90
+  - id: "JH-MET-039"
+    nome: "Profit First Implementation"
+    passos:
+      - "Open Profit, Tax, OpEx bank accounts"
+      - "Set allocation percentages (10-30% profit)"
+      - "Auto-distribute every deposit"
+      - "Only spend from OpEx"
+      - "Quarterly profit distribution"
+    dominio: "financial-management"
+    fonte: "DMM-P3"
+    confianca: 0.95
+  - id: "JH-MET-040"
+    nome: "Deep Selling Methodology"
+    passos:
+      - "Research prospect deeply"
+      - "Build custom CPR for their situation"
+      - "Present Bridge from current to desired state"
+      - "Handle objections with Agree-and-Redirect"
+      - "Lock down appointment with calendar commitment"
+    dominio: "sales"
+    fonte: "DMM-P4"
+    confianca: 0.90
+  - id: "JH-MET-041"
+    nome: "3-Way Call Close"
+    passos:
+      - "Identify gatekeeper scenario"
+      - "Convert gatekeeper to advocate"
+      - "Schedule 3-way call with DM"
+      - "Gatekeeper endorses; you close"
+    dominio: "sales"
+    fonte: "DMM-P4"
+    confianca: 0.90
+  - id: "JH-MET-042"
+    nome: "Aggressive Follow-Up Cadence"
+    passos:
+      - "Day 0: Call + proposal"
+      - "Day 1: Video follow-up"
+      - "Day 3: Value-add email"
+      - "Day 5: Second video"
+      - "Day 7: Final call with Timing Reframe"
+      - "Day 14+: Wait-and-Strike"
+    dominio: "sales"
+    fonte: "DMM-P4"
+    confianca: 0.90
+  - id: "JH-MET-043"
+    nome: "Sequential Hiring for Delivery"
+    passos:
+      - "Hire 1: Graphic Designer"
+      - "Hire 2: Copywriter"
+      - "Hire 3: Social Media Manager"
+      - "Hire 4: Project Manager"
+      - "Hire 5: Digital Marketing Manager"
+      - "Hire 6: Sales and Marketing Manager"
+    dominio: "hiring"
+    fonte: "DMM-P6"
+    confianca: 0.90
+  - id: "JH-MET-044"
+    nome: "Perfect Team Sequential Hiring (8 Positions)"
+    passos:
+      - "PM > GD > Copywriter > Media Buyer > SMM > Editor > Sales > Ops"
+    dominio: "hiring"
+    fonte: "DMM-P7"
+    confianca: 0.90
+  - id: "JH-MET-045"
+    nome: "Stats-Based Firing Process"
+    passos:
+      - "Identify KPI underperformance"
+      - "2-week warning with targets"
+      - "Daily check-ins"
+      - "Resignation-First if no improvement"
+      - "Same-day if toxic"
+    dominio: "team-management"
+    fonte: "DMM-P7"
+    confianca: 0.90
+  - id: "JH-MET-046"
+    nome: "Self-Sustaining Accountability System"
+    passos:
+      - "End-of-Day Report template per role"
+      - "Daily reports with KPI actuals vs targets"
+      - "Manager batch review (10 min/day)"
+      - "Weekly auto scorecard"
+      - "Monthly 1-on-1 from scorecard"
+    dominio: "team-management"
+    fonte: "DMM-P7"
+    confianca: 0.90
+  - id: "JH-MET-047"
+    nome: "Non-Compete Strategy"
+    passos:
+      - "Include non-compete in all agreements"
+      - "Define restricted activities and scope"
+      - "Strategic transparency"
+      - "Route all client relationships through company"
+    dominio: "legal-protection"
+    fonte: "DMM-P7"
+    confianca: 0.85
+  - id: "JH-MET-048"
+    nome: "Education-First Sales Funnel"
+    passos:
+      - "Create educational content solving real problem"
+      - "Deliver genuine value"
+      - "Position paid service as done-for-you version"
+      - "Apply Conviction Principle"
+      - "Ethical Duty framing"
+    dominio: "sales"
+    fonte: "DMM-P8"
+    confianca: 0.90
+  - id: "JH-MET-049"
+    nome: "4-Phase Client Onboarding"
+    passos:
+      - "Kickoff: set expectations, collect assets"
+      - "Strategy via Battle Plan Blueprint"
+      - "Asset production"
+      - "Launch and first optimization cycle"
+    dominio: "agency-operations"
+    fonte: "DMM-BONUS"
+    confianca: 0.90
+  - id: "JH-MET-050"
+    nome: "Phases of Growth Campaign"
+    passos:
+      - "Re-engage warm audience"
+      - "Expand with cold traffic"
+      - "Analyze: deep analytics"
+      - "Sell/Retarget engaged audiences"
+    dominio: "advertising"
+    fonte: "DMM-BONUS"
+    confianca: 0.90
+  - id: "JH-MET-051"
+    nome: "3-Step Difficult Conversations"
+    passos:
+      - "Approach: set frame, state purpose"
+      - "Delivery: facts and data, no emotions"
+      - "Close: next actions + timeline + document"
+    dominio: "leadership"
+    fonte: "DMM-BONUS-PP"
+    confianca: 0.90
+  - id: "JH-MET-052"
+    nome: "No Report Report System"
+    passos:
+      - "Automate dashboards"
+      - "Direct client access"
+      - "Weekly 15-min loom"
+      - "Eliminate PDF/slide reports"
+    dominio: "agency-operations"
+    fonte: "DMM-P3"
+    confianca: 0.85
+  - id: "JH-MET-053"
+    nome: "Core Content Model"
+    passos:
+      - "One long-form pillar content per week"
+      - "Extract 5-10 micro-content pieces"
+      - "Distribute across all platforms"
+      - "Boost top organic with paid"
+      - "Retarget engaged with conversion content"
+    dominio: "content-marketing"
+    fonte: "DMM-BONUS"
+    confianca: 0.90
+  - id: "JH-MET-054"
+    nome: "Gatekeeper-to-Advocate Conversion"
+    passos:
+      - "Recognize gatekeeper"
+      - "Deliver value to them"
+      - "Silver Platter: pre-packaged pitch for DM"
+      - "3-way call with gatekeeper vouching"
+    dominio: "sales"
+    fonte: "DMM-P4"
+    confianca: 0.90
+  - id: "JH-MET-055"
+    nome: "Startup Cost Staging"
+    passos:
+      - "Calculate setup costs"
+      - "Calculate operating costs (3 months min)"
+      - "Finance each stage separately"
+      - "Additional income through Year 1"
+      - "Full-time when recurring >= 1.5x salary"
+    dominio: "agency-startup"
+    fonte: "DMM-BONUS-STARTUP"
+    confianca: 0.90
+  - id: "JH-MET-056"
+    nome: "Elon/Jobs 50% Time Reduction"
+    passos:
+      - "Audit time per task category"
+      - "Identify delegatable/automatable tasks"
+      - "Set 50% reduction target"
+      - "Hire/train replacements"
+      - "Reinvest into highest-leverage activities"
+    dominio: "leadership"
+    fonte: "DMM-P7"
+    confianca: 0.85
+
 metadados:
   total_chunks_processados: 36
   batches_fonte: ["BATCH-068", "BATCH-069", "BATCH-070", "BATCH-073", "BATCH-075", "BATCH-076", "BATCH-077", "BATCH-078", "BATCH-080", "BATCH-081", "BATCH-082", "BATCH-084", "JH001", "JH002", "30DC-NEW-ELEMENTS", "CA-NEW-ELEMENTS"]
@@ -746,6 +956,10 @@ metadados:
   protocolo: "DNA-EXTRACTION-PROTOCOL v2.0"
   fase: "Phase 5 + 30DC/CA Merge"
   changelog:
+    - data: "2026-03-22T00:00:00Z"
+      acao: "DMM (Digital Marketing Manuscript) -- 20 metodologias adicionadas, total 56"
+      fonte: "DMM (91 files, 8 phases + bonus)"
+      versao: "4.0.0"
     - data: "2026-01-10T18:15:00Z"
       acao: "Enriquecimento Fase 5 - 16 metodologias adicionadas"
       fonte: "SOURCE-JH.md + BATCH-068 a BATCH-084"

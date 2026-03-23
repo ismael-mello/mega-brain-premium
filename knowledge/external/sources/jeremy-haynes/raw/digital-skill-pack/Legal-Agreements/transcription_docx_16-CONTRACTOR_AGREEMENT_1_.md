@@ -1,0 +1,158 @@
+# Extração: 16-CONTRACTOR_AGREEMENT_1_
+
+- **Fonte:** 16-CONTRACTOR_AGREEMENT_1_.docx
+- **Tipo:** DOCX
+- **Tamanho:** 0.02 MB
+
+---
+
+# Extração: 16-CONTRACTOR_AGREEMENT_1_
+
+- **Fonte:** 16-CONTRACTOR_AGREEMENT_1_.docx
+- **Tipo:** DOCX
+- **Tamanho:** 15.8 KB
+
+---
+
+DISCLAIMER: I AM NOT AN ATTORNEY AND THIS IS ONLY THE DOCUMENT THAT WE USED. YOU SHOULD HAVE AN ATTORNEY REVIEW BEFORE USING THIS DOCUMENT. DISCLAIMER - MEGALODON MARKETING, LLC IS NOT RESPONSIBLE FOR ANY LIABILITY OF THE USE OF THIS DOCUMENT.
+
+
+
+
+
+This AGREEMENT is entered into by and between [YOURCOMPANY], LLC (“[YOURCOMPANY]”) and [CONTRACTOR] (“Independent Contractor”).
+
+
+
+STATEMENT OF FACTS
+
+[YOURCOMPANY] is engaged in the business of providing Web Design, Web Programming, or other such related Web development services; and
+
+Independent Contractor has expertise, knowledge, and skills in Web Programming, or other such related Web development services; and 
+
+[YOURCOMPANY] seeks to engage Independent Contractor to assist in providing Web Programming services, all as provided herein.
+
+
+
+NOW, THEREFORE, for good and valuable consideration the receipt and sufficiency of which are hereby acknowledged, the parties enter into this Agreement.
+
+Services.  Independent Contractor is hereby engaged to perform the services identified under Section 1.a (the “Services”).  The Services shall be performed at [YOURCOMPANY]’s place of business.
+
+Description of services to be performed:  [SERVICES DESCRIPTION].
+
+Independent Contractor agrees and represents that they have the technical expertise to perform the services required to accomplish the assignment professionally and that all services performed by Independent Contractor will be of professional quality.
+
+Independent Contractor agrees that all program material or work designed, furnished, written, supervised, or produced shall be in accordance with [YOURCOMPANY]’s policies, as may be applicable.  Furthermore, Independent Contractor shall make any changes in said material or work required by [YOURCOMPANY] in order to conform to applicable policies.
+
+Compensation.  [YOURCOMPANY] shall pay compensation to Independent Contractor for the Services to be provided hereunder at the rate of $0.00 per hour.  Independent Contractor shall submit a timesheet summarization document identifying the daily tasks accomplished for the prior pay period, which will be paid on the 1st and the 15th of each month. Independent Contractor agrees not to accept any compensation in any form including, but not limited to, bonuses or commissions, from any third party not selected and hired by [YOURCOMPANY] for performing any service requested by [YOURCOMPANY].Except for reimbursable expenses as provided herein, Independent Contractor shall be responsible for all of its own costs and expenses.  [YOURCOMPANY] shall reimburse Independent Contractor only for such specific out-of-pocket expenses incurred by Independent Contractor in the discharge of its obligations under this Agreement as have been previously approved by [YOURCOMPANY].
+
+Other Engagements.  [YOURCOMPANY] agrees that during the term hereof, Independent Contractor shall not be prohibited from rendering services to any other individual or entity; provided, however, that such additional duties or services do not adversely affect Independent Contractor’s ability to perform all duties and obligations owed to [YOURCOMPANY] pursuant hereto.
+
+Term.  The initial term of this Agreement shall commence on December 1th, 2007 and shall continue through March 1th, 2008, renewal by [YOURCOMPANY].  Either party may, however, terminate this Agreement at any time by furnishing the other party two weeks written notice of termination.  [YOURCOMPANY] may terminate the agreement at any time without cause.  Notwithstanding termination of this Agreement, however, those provisions which provide for a longer effect period, such as the confidentiality provisions, shall remain in full force and effect as provided therein.
+
+Trade Secrets and Confidentiality.  For purposes of this Agreement, the following definitions shall apply:
+
+“Trade Secrets” shall mean any and all information [YOURCOMPANY], including, but not limited to, technical or non-technical data, formulas, patterns, compilations, programs, devices, methods techniques, drawings, processes, financial data, financial plans, product plans or lists of actual or potential customers or suppliers, which: (a) derive economic value, actual or potential, from not being generally known to, and not being readily ascertainable by proper means by, other persons who can obtain economic value from their disclosure or use; and (b) are the subject of efforts that are reasonably under the circumstances to maintain their secrecy.
+
+As to any item constituting all or any portion of the Trade Secrets, the applicable “Nondisclosure Period” shall be the term of this Agreement and all times thereafter during which such item continues to constitute a trade secret under applicable law.
+
+“Confidential Information” shall mean any and all proprietary and confidential data or information of [YOURCOMPANY], other than Trade Secrets, which is of tangible or intangible value to [YOURCOMPANY] and is not public information or is not generally known or available to [YOURCOMPANY]’s competitors but is known only to [YOURCOMPANY] and those of its employees, independent contractors, customers or agents to whom must be confided in order to apply it to the uses intended.
+
+In recognition of the need of [YOURCOMPANY] to protect its legitimate business interests, Independent Contractor hereby covenants and agrees that:  (i) with regard to each item constituting all or any portion of the Trade Secrets, at all times during the applicable Nondisclosure Period; and (ii) with regard to any Confidential Information, at all times during the term hereof and for a period of two (2) years following the termination for any reason of this Agreement, Independent Contractor shall regard and treat each item constituting all or any portion of the Trade Secrets and all Confidential Information as strictly confidential and wholly owned by [YOURCOMPANY], and will not, for any reason in any fashion, either directly or indirectly use, sell, lend, lease, distribute, give, transfer, assign, show, disclose, disseminate, copy, misappropriate, or otherwise communicate any such item or information to any third party for any purpose other than in accordance with this Agreement.The terms and covenants of this agreement shall survive any termination of this agreement, and upon termination hereof, Independent Contractor agrees to immediately return to [YOURCOMPANY] any and all tangible or written expressions of any trade secrets, confidential information or proprietary information of [YOURCOMPANY].
+
+Ownership of Work Product.  To the greatest extent possible, all work product, property, data, documentation or information of any kind, prepared, conceived, discovered, developed or created as a result of Independent Contractor’s services performed pursuant to this Agreement (collectively, the “work product”) shall be deemed to be “work made for hire” (as defined in the Copyright Act, 17 U.S.C.A.  101 et seg., as amended) and owned exclusively by [YOURCOMPANY].  Independent Contractor hereby unconditionally and irrevocably transfers and assigns to [YOURCOMPANY], all rights, titles, and interests Independent Contractor may have in or to any and all Work Product, including without limitation, all patents, copyrights, trademarks, service marks and other intellectual property rights.  Independent Contractor agrees to execute and deliver to [YOURCOMPANY], any transfers, assignments, documents, or other instruments which [YOURCOMPANY] may deem necessary or appropriate to vest complete title and ownership of any and all Work Product, and all rights therein, exclusively in [YOURCOMPANY], as [YOURCOMPANY] may deem appropriate in its sole discretion.It is understood that the rights granted to [YOURCOMPANY] and the duties and agreements of Independent Contractor set forth in this paragraph shall continue in effect after any termination or expiration of this Agreement to the extent necessary for [YOURCOMPANY]’s full enjoyment of such rights.
+
+Relationship.  The parties acknowledge that Independent Contractor shall perform the Services hereunder as an independent contractor and nothing contained herein shall be deemed to create any joint venture, partnership, or agency or employee relationship between the parties hereto, nor shall either party have the right, power, or authority whether express or implied, to incur any liability on behalf of the other party.  The parties further acknowledge that [YOURCOMPANY] will have no obligation whatsoever to provide any employee benefits or privileges of any kind or nature to Independent Contractor, including, without limitation, insurance benefits or pension benefits.  Further, Independent Contractor acknowledges that [YOURCOMPANY] is not responsible to collect or withhold federal, state, or local taxes, including income taxes and social security taxes, and that any and all such taxes imposed as a result of this Agreement shall be paid by Independent Contractor.
+
+Non-solicitation.  Independent Contractor agrees that during the term of this Agreement and for one (1) year following the termination of the agreement with [YOURCOMPANY], Independent Contractor will not, without prior written consent from [YOURCOMPANY], for any reason solicit, or attempt to solicit, any client or prospective client of [YOURCOMPANY] whose account with [YOURCOMPANY] was serviced or actively solicited by or under the supervision of Independent Contractor during the one (1) year preceding the termination of the relationship with [YOURCOMPANY], for the purpose of providing or having such provided with products competitive with those that have been offered by [YOURCOMPANY].Independent Contractor agrees that during the term of the Agreement and for two (2) years following the termination of this agreement with [YOURCOMPANY], Independent Contractor will not, without the prior written consent from [YOURCOMPANY], either for themselves or any person or entity, solicit, recruit, or attempt to recruit, directly or indirectly, any employee, prospective employee, Independent Contractor or others who are hired to perform services for [YOURCOMPANY], for the purpose of encouraging person to leave or to refrain from employment with [YOURCOMPANY].  However, this shall only apply to those whom Independent Contractor had business contact during his/her relationship with [YOURCOMPANY].
+
+Indemnity.  Independent Contractor shall indemnify, save, and hold [YOURCOMPANY] harmless from any claims, actions, damages, judgments, costs, or expenses, including attorney’s fees, arising out of the acts or omissions of Independent Contractor in connection with the Services to be rendered hereunder.
+
+Breach of Agreement.  In the event of a breach or threatened breach by Independent Contractor of the provisions contained in this Agreement, [YOURCOMPANY], without the necessity of posting bond, shall be entitled to temporary and permanent injunctive relief  restraining Independent Contractor from further injury to [YOURCOMPANY].  [YOURCOMPANY] shall have the right to retain all compensation earned by Independent Contractor prior to breach of this Agreement as liquated damages.  [YOURCOMPANY]’s exercise of its rights hereunder shall not preclude [YOURCOMPANY] from exercising any other rights or seeking any other damages provided herein or under applicable Georgia law.
+
+Arbitration.  Any and all disputes and disagreements between the parties arising out of this agreement or any prior agreement between them shall be decided by arbitration and in accordance with the procedural rules of the American Arbitration Association as presently published and existing. The parties agree to be bound by the decision of the arbitrator(s). The arbitration proceeding shall be a condition precedent to any other court proceeding and shall take place in the office of [YOURCOMPANY] unless another location is identified by [YOURCOMPANY].  The prevailing party shall be entitled to attorney fees, expenses, and any other damages as allowable by law.
+
+Notice.  Any notice to be provided hereunder shall be delivered by certified mail, return receipt requested, or by reputable overnight courier to the following addresses:
+
+[YOURCOMPANY]
+
+[ADDRESS]
+
+____________________________________________________________________________________________________________
+
+
+
+
+
+
+
+Agreement.  The Agreement contains the complete agreement of the parties and supersedes any other agreements, written or oral, between the parties.
+
+Severability.  If any provision of the Agreement shall be held to be invalid or unenforceable for any reason, the remaining provisions shall continue to be valid and enforceable.
+
+Non-waiver.  The failure of either party to enforce any provision of the Agreement shall not be construed as a waiver or limitation of that party’s right to subsequently enforce and compel strict compliance with every provision of this Agreement.
+
+Applicable Law.  This Agreement shall be governed by the laws of the State of Georgia.
+
+Binding.  This Agreement shall be binding upon, and inure to the benefit of, the parties and their respective heirs, successors, and assigns.
+
+Captions.  The captions appearing herein are for convenience of reference only and shall not affect the meaning or interpretation of this Agreement or any Clause or provision hereof.
+
+
+
+Independent Contractor herewith covenants and agrees that they have read and fully understand the contents and the effect of this Agreement.  Independent Contractor warrants and agrees that they have had a reasonable opportunity to review and consider the content and effect.  Independent Contractor accepts each and every provision, condition, and term of this Agreement, and does so voluntarily without duress or pressure from [YOURCOMPANY] and with full knowledge and understanding of the contents, nature, and effect of this Agreement.
+
+
+
+
+
+“[YOURCOMPANY]”
+
+
+
+[YOURCOMPANY], LLC
+
+
+
+Name:  ____________________________
+
+
+
+Signature:  _________________________
+
+
+
+Title:  _____________________________
+
+
+
+Date:  _____________________________
+
+“Independent Contractor”
+
+
+
+__________________________________
+
+
+
+Name:  ____________________________
+
+
+
+Signature:  _________________________
+
+
+
+Title:  _____________________________
+
+
+
+Date:  _____________________________
+
+
+
+
+
+
+

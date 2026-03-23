@@ -1,0 +1,64 @@
+# Extração: 13-Non-Disclosure_Agreement
+
+- **Fonte:** 13-Non-Disclosure_Agreement.docx
+- **Tipo:** DOCX
+- **Tamanho:** 0.01 MB
+
+---
+
+# Extração: 13-Non-Disclosure_Agreement
+
+- **Fonte:** 13-Non-Disclosure_Agreement.docx
+- **Tipo:** DOCX
+- **Tamanho:** 10.0 KB
+
+---
+
+	NON-DISCLOSURE AGREEMENT
+
+THIS AGREEMENT is made and effective as of the last date of execution by the undersigned, by and between _______________________________, whose address is _______________________________________________,  (hereinafter referred to as the DISCLOSER), and [YOURCOMPANY], whose address is [ADDRESS] (hereinafter referred to as the RECIPIENT), jointly referred to herein as the PARTIES.
+
+WHEREAS, the DISCLOSER has developed and/or owns certain trade secrets, secret processes, secret designs, and/or other confidential information relating to the client project. (hereinafter referred to as the PROPRIETARY INFORMATION) and whereas the RECIPIENT desires to examine the PROPRIETARY INFORMATION for purposes of evaluating certain commercial and/or technical aspects thereof, the PARTIES hereby agree that the DISCLOSER shall make to the RECIPIENT and the RECIPIENT shall receive from the DISCLOSER confidential disclosure of the PROPRIETARY INFORMATION on the terms and conditions herein set forth and solely for the purposes stated above.
+
+In consideration of the disclosures to be made by the DISCLOSER to the RECIPIENT and the mutual promises and covenants herein contained, the PARTIES further agree as follows:
+
+1.	For the sole purpose of enabling the RECIPIENT to evaluate certain commercial and/or technical aspects of the PROPRIETARY INFORMATION, the DISCLOSER agrees to disclose to the RECIPIENT said PROPRIETARY INFORMATION.
+
+2.	The RECIPIENT agrees that all right, title and interest in the PROPRIETARY INFORMATION is and shall remain solely the property of the DISCLOSER. The RECIPIENT acknowledges that one or more U.S. and/or foreign patent applications have been or may be filed to protect certain aspects of the PROPRIETARY INFORMATION, and agrees that all right, title and interest in said patent applications, any patents issuing thereon, and any other intellectual property interests in the PROPRIETARY INFORMATION and/or any modifications or improvements thereto are and shall remain solely the property of the DISCLOSER, and shall be fully enforceable against the RECIPIENT for any infringement thereof.
+
+3.	The RECIPIENT further agrees that all right, title and interest in any improvements or developments to the PROPRIETARY INFORMATION, whether made by the DISCLOSER, by the RECIPIENT, or jointly made by the DISCLOSER and the RECIPIENT, arising out of any disclosure of the PROPRIETARY INFORMATION by the DISCLOSER to the RECIPIENT is and shall remain solely the property of the DISCLOSER.  The RECIPIENT agrees to take such action as is reasonably requested by the DISCLOSER, without further compensation, to perfect and secure DISCLOSER’s right, title and interest in any improvements or developments to the PROPRIETARY INFORMATION.
+
+4.	The RECIPIENT understands that certain aspects of the PROPRIETARY INFORMATION derive economic value from not being generally known to others.  The RECIPIENT agrees that the RECIPIENT, its officers, employees, agents and others acting on behalf of the RECIPIENT shall maintain the PROPRIETARY INFORMATION in confidence and shall not disclose said PROPRIETARY INFORMATION to anyone else, nor use said PROPRIETARY INFORMATION for the benefit of the RECIPIENT, for their own benefit or for the benefit of others without the consent in writing of the DISCLOSER.  The provisions of this paragraph shall not apply to any disclosures made by the DISCLOSER to the RECIPIENT:  (a)  which without violating any legal right of the DISCLOSER were known to or used by the RECIPIENT prior to the earliest date of disclosure by the DISCLOSER to the RECIPIENT, as evidenced by the prior written records of the RECIPIENT; or (b) which without violating any legal right of the DISCLOSER and through no fault of the RECIPIENT are lawfully and in good faith disclosed to the RECIPIENT by a third party rightfully in possession of said information and who is not a licensee of the DISCLOSER; or (c) which without violating any legal right of the DISCLOSER and through no fault of the RECIPIENT, is or becomes available in the public domain.
+
+5.	The PROPRIETARY INFORMATION shall only be disclosed to such officers, employees, agents or others acting on behalf of the RECIPIENT as is required for the proper evaluation thereof, and such parties shall be fully bound by the provisions hereof.
+
+6.	Nothing in this Agreement shall be construed as expressly or implicitly granting to either party any right or license under any patent, trade secret, or know-how now or hereafter possessed by the other party.
+
+
+
+7.	The RECIPIENT agrees to promptly return to the DISCLOSER all descriptions, drawings, models, samples or other materials pertaining to the PROPRIETARY INFORMATION, and all copies thereof, within thirty (30) days of the disclosure thereof or upon request of the DISCLOSER, whichever is sooner, unless otherwise agreed by the PARTIES, and RECIPIENT agrees further to continue thereafter to abide by the covenants of this Agreement.
+
+8.	The terms of this Agreement shall remain in force indefinitely with respect to trade secrets of the DISCLOSER, as defined under the Official Code of Georgia §10-1-740, et seq., and shall remain in force for a period of five (5) years from the date of execution of this Agreement for all other aspects of the PROPRIETARY INFORMATION.
+
+9.	This Agreement shall be interpreted in accordance with the laws of the State of Georgia, United States of America.
+
+IN WITNESS WHEREOF, the PARTIES have caused this Agreement to be signed and sealed as of the dates indicated below.
+
+
+
+DISCLOSER							RECIPIENT
+
+
+
+Signed: _________________________			Signed: 
+
+		Name: 
+
+
+
+		Title: 
+
+
+
+Date: ___________________________			Date: 
+

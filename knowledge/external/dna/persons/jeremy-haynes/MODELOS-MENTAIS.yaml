@@ -2,7 +2,7 @@
 # Lentes de analise que geram perguntas especificas
 # Versao: 2.0.0 | Atualizado: 2026-01-10 | Fase 5 Consolidation
 
-versao: "2.0.0"
+versao: "4.0.0"
 pessoa: "Jeremy Haynes"
 camada: "MODELOS_MENTAIS"
 total_itens: 36
@@ -396,6 +396,109 @@ itens:
     aplicacao: "Agency sales, service bundling, client acquisition, upsell strategy"
     fonte: "[PCVP-0009] 9. GOOGLE LISTING..txt"
 
+
+  # === DMM (Digital Marketing Manuscript) — 20 modelos mentais ===
+  - id: "JH-MM-037"
+    texto: "6 Conditions of Statistics — every stat exists in one of 6 conditions: Non-Existence, Danger, Emergency, Normal, Affluence, Power; each requires a different operational response"
+    dominio: "operations"
+    fonte: "DMM-Phase3"
+    confianca: 0.93
+  - id: "JH-MM-038"
+    texto: "Known/Unknown Matrix — when hiring consultants, map what you Know-You-Know, Know-You-Dont-Know, Dont-Know-You-Dont-Know; pay consultants to collapse the third quadrant"
+    dominio: "decision-making"
+    fonte: "DMM-Phase5"
+    confianca: 0.92
+  - id: "JH-MM-039"
+    texto: "Production vs Execution Delivery Lines — separate delivery into the Production Line (building assets/creative) and Execution Line (deploying/managing); each has different talent profiles"
+    dominio: "delivery"
+    fonte: "DMM-Phase6"
+    confianca: 0.90
+  - id: "JH-MM-040"
+    texto: "CPR Model (Clear Process to Revenue) — show the prospect a crystal clear process from their current state to revenue generation; ambiguity kills sales"
+    dominio: "sales"
+    fonte: "DMM-Phase4"
+    confianca: 0.92
+  - id: "JH-MM-041"
+    texto: "Contextual Selling — every sales interaction must be contextualized to the prospects specific situation, industry, and numbers; generic pitches fail at high-ticket"
+    dominio: "sales"
+    fonte: "DMM-Phase4"
+    confianca: 0.90
+  - id: "JH-MM-042"
+    texto: "Perfect Team Sequential Hiring — hire in exact order: GD, SMM, PM, Sales, DM, EA, COO, Copywriter; sequence matters for agency scaling"
+    dominio: "team-building"
+    fonte: "DMM-Phase7"
+    confianca: 0.93
+  - id: "JH-MM-043"
+    texto: "500-750 Test Week — before full commitment, pay candidates a test rate for one week with real tasks; performance under pressure reveals more than interviews"
+    dominio: "team-building"
+    fonte: "DMM-Phase7"
+    confianca: 0.90
+  - id: "JH-MM-044"
+    texto: "3-Phase Interview Process — Phase 1: application filter, Phase 2: video/phone screen + aptitude test, Phase 3: paid test week; each eliminates 70-80% of candidates"
+    dominio: "team-building"
+    fonte: "DMM-Phase7"
+    confianca: 0.90
+  - id: "JH-MM-045"
+    texto: "Elon/Jobs 50% Time Reduction — whatever deadline someone gives you, cut it in half; people expand work to fill available time"
+    dominio: "operations"
+    fonte: "DMM-Phase7"
+    confianca: 0.88
+  - id: "JH-MM-046"
+    texto: "VAK Training Model — every person learns through Visual, Auditory, or Kinesthetic channels; training systems must cover all three to be effective"
+    dominio: "team-building"
+    fonte: "DMM-Phase7"
+    confianca: 0.88
+  - id: "JH-MM-047"
+    texto: "MARK Core Values — Mastery, Articulation, Results, Creativity; use as hiring filter and culture enforcement framework"
+    dominio: "team-building"
+    fonte: "DMM-Phase7"
+    confianca: 0.88
+  - id: "JH-MM-048"
+    texto: "Self-Sustaining Accountability Model — build accountability that runs without you; weekly stats, automated dashboards, peer review"
+    dominio: "operations"
+    fonte: "DMM-Phase7"
+    confianca: 0.90
+  - id: "JH-MM-049"
+    texto: "Service Fee + Success Fee Model — fixed service fee plus 10-30% revenue share on results; aligns incentives and increases lifetime deal value"
+    dominio: "pricing"
+    fonte: "DMM-Phase3"
+    confianca: 0.92
+  - id: "JH-MM-050"
+    texto: "Fulfillment Wall — every business hits a ceiling where delivery capacity maxes out; see the wall coming and solve before revenue outpaces fulfillment"
+    dominio: "operations"
+    fonte: "DMM-Phase3"
+    confianca: 0.90
+  - id: "JH-MM-051"
+    texto: "5 Objection Handlers Framework — every sales objection falls into 5 categories: too busy, partner approval, not DM, timing, existing contract"
+    dominio: "sales"
+    fonte: "DMM-Phase4"
+    confianca: 0.92
+  - id: "JH-MM-052"
+    texto: "Agree-and-Redirect — when a prospect objects, first agree genuinely, then redirect to a reframe that dissolves the objection; never argue directly"
+    dominio: "sales"
+    fonte: "DMM-Phase4"
+    confianca: 0.90
+  - id: "JH-MM-053"
+    texto: "Power Retention Model — structure client relationships so they become more dependent on your systems over time, not less; retention designed into architecture"
+    dominio: "business-design"
+    fonte: "DMM-Phase8"
+    confianca: 0.88
+  - id: "JH-MM-054"
+    texto: "Omnipresent Advertising Model — be everywhere your ideal client looks so they feel you are unavoidable; combine paid, organic, retargeting across all platforms"
+    dominio: "advertising"
+    fonte: "DMM-Resources"
+    confianca: 0.90
+  - id: "JH-MM-055"
+    texto: "5-Tier Pricing Pyramid — structure offers in 5 tiers from low-ticket entry to ultra-premium; each tier filters clients upward and maximizes revenue per lead"
+    dominio: "pricing"
+    fonte: "DMM-Resources"
+    confianca: 0.90
+  - id: "JH-MM-056"
+    texto: "3-Step Difficult Conversations — Approach (set context), Delivery (state facts with stats, no emotion), Close (define resolution and timeline); never skip a step"
+    dominio: "leadership"
+    fonte: "DMM-P&P"
+    confianca: 0.90
+
 metadados:
   total_chunks_processados: 36
   batches_fonte: ["BATCH-068", "BATCH-069", "BATCH-070", "BATCH-071", "BATCH-072", "BATCH-073", "BATCH-077", "BATCH-080", "BATCH-081", "BATCH-082", "BATCH-083", "BATCH-084", "JH001", "JH002", "30DC", "CA", "PCVP"]
@@ -405,10 +508,14 @@ metadados:
   protocolo: "DNA-EXTRACTION-PROTOCOL v2.0"
   fase: "Phase 5 Consolidation"
   changelog:
+    - data: "2026-03-22T00:00:00Z"
+      acao: "DMM (Digital Marketing Manuscript) — 20 modelos mentais adicionados, total 56"
+      fonte: "DMM (91 files, 8 phases + bonus)"
+      versao: "4.0.0"
     - data: "2026-03-03T00:00:00Z"
       acao: "Merge 30DC (7 modelos mentais) + CA/PCVP (9 modelos mentais) = 16 novos, total 36"
       fonte: "30DC-NEW-ELEMENTS.yaml + CA-NEW-ELEMENTS.yaml"
-      versao: "3.0.0"
+      versao: "4.0.0"
     - data: "2026-01-10T18:00:00Z"
       acao: "Enriquecimento Fase 5 - 17 modelos mentais adicionados"
       fonte: "SOURCE-JH.md + BATCH-068 a BATCH-084"

@@ -1,7 +1,7 @@
 # UNIFIED DNA - JEREMY HAYNES
 # Format: unified-dna-v1
 # Migrated: 2026-03-02
-# Source: 5 legacy files (CONFIG + FILOSOFIAS + MODELOS-MENTAIS + HEURISTICAS + FRAMEWORKS + METODOLOGIAS)
+# Source: 5 legacy files (CONFIG + FILOSOFIAS + MODELOS-MENTAIS + HEURISTICAS + FRAMEWORKS + METODOLOGIAS) + DSP
 
 person:
   name: "Jeremy Haynes"
@@ -16,9 +16,13 @@ person:
   sintese: |
     Jeremy Haynes e um dos maiores especialistas em paid media para high-ticket.
     Construiu a Paramark ate 8 figures com metodologias proprietarias.
+    DNA consolidado de 12 fontes incluindo DMM (Digital Marketing Manuscript)
+    e DSP (Digital Skill Pack) — 2609 elementos totais.
 
     FILOSOFIA CORE: Recurring high-ticket > transactional. Mas so funciona se
     entregar valor que exceda o preco a cada 30 dias (Fair Pricing).
+    DSP expande com Personality Branding — marca pessoal como ativo de receita
+    e execucao tatica de ads em todas as plataformas.
 
     FRAMEWORKS SIGNATURE:
     - Hydra Strategy: Lead form antes do VSSL maximiza qualificacao
@@ -28,6 +32,11 @@ person:
     - Follow-Up Architecture: Little Things → Big Things → Break Glass
     - DSL Deck Sales Letter: 77% reach slide 5 vs VSL 5-9%
     - Andromeda Adaptation: 50+ criativos/semana para algoritmo
+    - Bully Method: Dominacao de mercado via volume + frequencia (DSP)
+    - Surf Method: Riding trends com timing preciso de ads (DSP)
+    - Personality Brand Revenue Framework: Monetizacao de marca pessoal em 7 fases (DSP)
+    - 37 Page Types: Taxonomia completa de paginas de conversao (DSP)
+    - 22 Funnel Types: Catalogo exhaustivo de funis por objetivo (DSP)
 
     METRICAS DE REFERENCIA:
     - $734K em 7 dias BFCM ($83K spend)
@@ -35,6 +44,11 @@ person:
     - $12M em 3.5 meses Mini Webinar 2.0
     - 48x ROAS + 67.8% close rate (caso Ron)
     - $0 → $1M/mes em 2 meses (Time Collapsing)
+    - 1896 words para Google #1 ranking (DSP)
+    - ROAS 3x minimum para manter campanha (DSP)
+    - $0.01 CPV engagement benchmark (DSP)
+    - 80% watch sem som — legendas obrigatorias (DSP)
+    - 17% bot traffic — ajustar metricas (DSP)
 
   padroes_comportamentais:
     - padrao: "Recurring High-Ticket"
@@ -58,6 +72,12 @@ person:
     - padrao: "Venus Fly Trap"
       frequencia: "ALTA"
       evidencia: "3-video content funnel (1.0 e 2.0)"
+    - padrao: "Personality Branding"
+      frequencia: "ALTA"
+      evidencia: "Marca pessoal como ativo de receita — 7-phase brand building, Bully Method, content-first monetization (DSP)"
+    - padrao: "Tactical Ad Execution"
+      frequencia: "ALTA"
+      evidencia: "37 page types, 22 funnel types, Surf Method, $0.01 CPV, ROAS 3x minimum, 1896 words SEO benchmark (DSP)"
 
   contribuicoes_unicas:
     - "Hydra Strategy (multi-channel lead attack)"
@@ -69,6 +89,13 @@ person:
     - "Time Collapsing ($0 → $1M/mo in 2 months)"
     - "Fair Pricing Philosophy (exceed value every 30 days)"
     - "Tornado/Harvester/Forester ad scaling strategies"
+    - "Bully Method (market domination via volume + frequency)"
+    - "Surf Method (trend-riding with precise ad timing)"
+    - "Personality Brand Revenue Framework (7-phase brand monetization)"
+    - "37 Page Types (complete conversion page taxonomy)"
+    - "22 Funnel Types (exhaustive funnel catalog by objective)"
+    - "Venus Flytrap Implementation (DSP advanced version)"
+    - "Brand Building 7-Phase (DSP personality branding system)"
 
   conexoes_cross_source:
     - fonte: "Alex Hormozi"
@@ -109,7 +136,7 @@ person:
 layers:
 
   # ─────────────────────────────────────────────────────────────────────────
-  # L1: PHILOSOPHIES (22 documented of 370 total)
+  # L1: PHILOSOPHIES (47 documented of 432 total)
   # ─────────────────────────────────────────────────────────────────────────
   L1_PHILOSOPHIES:
     # PRICING & VALOR
@@ -294,8 +321,209 @@ layers:
       chunk_ids: ["JH073_006"]
       source_ids: ["BATCH-073"]
 
+    # DMM - Digital Marketing Manuscript
+    - id: "FIL-JH-023"
+      statement: "Self-education is the foundation of success. The things you don't know you don't know will destroy your business."
+      domains: ["mindset", "self-education"]
+      weight: 0.90
+      quote: "The things that you have no idea that you don't know — those are the things that are going to hold you back and fuck your business up."
+      chunk_ids: ["DMM_001"]
+      source_ids: ["DMM"]
+
+    - id: "FIL-JH-024"
+      statement: "Run your business on statistics, not emotions. Every position should report stats; every stat should be a graph."
+      domains: ["operations", "statistics"]
+      weight: 0.95
+      quote: "Everything can be statusized."
+      chunk_ids: ["DMM_002"]
+      source_ids: ["DMM"]
+
+    - id: "FIL-JH-025"
+      statement: "Contract to expand. Narrow your niche, offer all services for one market, watch revenue explode."
+      domains: ["niche-strategy", "scaling"]
+      weight: 0.90
+      quote: "If you contract what you do, you technically expand massively in that area."
+      chunk_ids: ["DMM_003"]
+      source_ids: ["DMM"]
+
+    - id: "FIL-JH-026"
+      statement: "Don't oversell and under deliver. A satisfied customer is one step from unsatisfied. Always be in abundance exchange."
+      domains: ["service-delivery", "ethics"]
+      weight: 0.90
+      quote: "A satisfied customer is one step away from being an unsatisfied customer."
+      chunk_ids: ["DMM_004"]
+      source_ids: ["DMM"]
+
+    - id: "FIL-JH-027"
+      statement: "Recurring revenue is the backbone of staying in business. Service fee is NON-NEGOTIABLE."
+      domains: ["revenue-model", "pricing"]
+      weight: 0.95
+      quote: "Your service fee is non-negotiable."
+      chunk_ids: ["DMM_005"]
+      source_ids: ["DMM"]
+
+    - id: "FIL-JH-028"
+      statement: "No refunds is a firm, non-negotiable policy. Like a marriage, there are no divorces here."
+      domains: ["business-protection", "legal"]
+      weight: 0.90
+      quote: "Like a marriage, there are no divorces here and you will work out your problems internally."
+      chunk_ids: ["DMM_006"]
+      source_ids: ["DMM"]
+
+    - id: "FIL-JH-029"
+      statement: "The project manager is THE most critical hire. If I could restart, I'd hire a PM before a salesperson."
+      domains: ["hiring", "operations"]
+      weight: 0.95
+      quote: "If I could go back, I would wipe out the salesperson and instead put a project manager."
+      chunk_ids: ["DMM_007"]
+      source_ids: ["DMM"]
+
+    - id: "FIL-JH-030"
+      statement: "Profit is a habit, not an event. Sales minus Profit equals Expenses, NOT Sales minus Expenses equals Profit."
+      domains: ["financial-management", "pricing"]
+      weight: 0.95
+      quote: "Profit is a habit, it's not an event."
+      chunk_ids: ["DMM_008"]
+      source_ids: ["DMM"]
+
+    - id: "FIL-JH-031"
+      statement: "Every business has a product/service limit. Short-term revenue from exceeding it = long-term catastrophic failure."
+      domains: ["capacity-planning", "operations"]
+      weight: 0.90
+      quote: "Product service limits are critical to avoiding failure."
+      chunk_ids: ["DMM_009"]
+      source_ids: ["DMM"]
+
+    - id: "FIL-JH-032"
+      statement: "Deep selling beats wide selling. 40 deep contacts closing 5 > 300 wide contacts closing 2."
+      domains: ["sales", "prospecting"]
+      weight: 0.90
+      quote: "I personally prefer Ann, who only makes 40 communications in a day."
+      chunk_ids: ["DMM_010"]
+      source_ids: ["DMM"]
+
+    - id: "FIL-JH-033"
+      statement: "Conviction is the #1 way to sell anybody on anything. If you can help people, it's your ethical responsibility."
+      domains: ["sales", "ethics"]
+      weight: 0.90
+      quote: "It's an ethical responsibility and it's our individual jobs to get success for ourselves."
+      chunk_ids: ["DMM_011"]
+      source_ids: ["DMM"]
+
+    - id: "FIL-JH-034"
+      statement: "Expectations ARE success. Your ability to consistently recalibrate expectations dictates your success."
+      domains: ["client-management", "operations"]
+      weight: 0.85
+      quote: "Expectations are a success."
+      chunk_ids: ["DMM_012"]
+      source_ids: ["DMM"]
+
+    - id: "FIL-JH-035"
+      statement: "Unemotionally running your business is the greatest way to get results. Emotional decisions create limiting beliefs."
+      domains: ["mindset", "decision-making"]
+      weight: 0.90
+      quote: "Unemotionally running your business is going to be the greatest way for you to get a lot of results."
+      chunk_ids: ["DMM_013"]
+      source_ids: ["DMM"]
+
+    - id: "FIL-JH-036"
+      statement: "Never give up equity. Even at 7 figures, don't give 5%. No rev shares. Protect profit accumulation."
+      domains: ["equity", "business-protection"]
+      weight: 0.95
+      quote: "Don't ever let people ask you for equity and don't you dare do it."
+      chunk_ids: ["DMM_014"]
+      source_ids: ["DMM"]
+
+    - id: "FIL-JH-037"
+      statement: "Firing is non-emotional and an obligation. Not firing a toxic person is an injustice to your team."
+      domains: ["leadership", "hiring"]
+      weight: 0.90
+      quote: "It is an injustice to your team if you do not fire people."
+      chunk_ids: ["DMM_015"]
+      source_ids: ["DMM"]
+
+    - id: "FIL-JH-038"
+      statement: "Never do hourly. Hourly employees have 9-5 mentality. Salary + commission = limitless potential."
+      domains: ["compensation", "hiring"]
+      weight: 0.90
+      quote: "Hourly employees are shit."
+      chunk_ids: ["DMM_016"]
+      source_ids: ["DMM"]
+
+    - id: "FIL-JH-039"
+      statement: "Applied knowledge is power. Knowledge alone without application is gathering worthless data."
+      domains: ["mindset", "self-education"]
+      weight: 0.90
+      quote: "Applied knowledge is power. If you do not have the ability to apply the knowledge, you're gathering worthless data."
+      chunk_ids: ["DMM_017"]
+      source_ids: ["DMM"]
+
+    - id: "FIL-JH-040"
+      statement: "Consistency is the #1 attribute for success. Create a PULL system instead of a PUSH — pull sustains consistency."
+      domains: ["mindset", "sustainability"]
+      weight: 0.85
+      quote: "Create a pull for yourself instead of a push."
+      chunk_ids: ["DMM_018"]
+      source_ids: ["DMM"]
+
+    - id: "FIL-JH-041"
+      statement: "Balance is the greatest attribute in life. Physical, mental, spiritual — all three must be nourished daily."
+      domains: ["lifestyle", "sustainability"]
+      weight: 0.85
+      quote: "What are your greatest attributes in life? It's the ability to balance."
+      chunk_ids: ["DMM_019"]
+      source_ids: ["DMM"]
+
+    - id: "FIL-JH-042"
+      statement: "Build your business around the lifestyle you want. Don't let your business work on you."
+      domains: ["lifestyle-design", "business-architecture"]
+      weight: 0.90
+      quote: "Build your entire business around the lifestyle that you want."
+      chunk_ids: ["DMM_020"]
+      source_ids: ["DMM"]
+
+    - id: "FIL-JH-043"
+      statement: "Repeat successful actions — THE literal secret to success. Don't be creative when someone proved what works."
+      domains: ["business-strategy", "action-taking"]
+      weight: 0.90
+      quote: "Repeat successful actions."
+      chunk_ids: ["DMM_021"]
+      source_ids: ["DMM"]
+
+    - id: "FIL-JH-044"
+      statement: "Personality brands have 4x higher connectivity rate than businesses. Market yourself as person, not just company."
+      domains: ["personal-branding", "agency-marketing"]
+      weight: 0.90
+      quote: "Personality brands have a four-time higher connectivity rate."
+      chunk_ids: ["DMM_022"]
+      source_ids: ["DMM"]
+
+    - id: "FIL-JH-045"
+      statement: "In modern marketing, you control the media. Outflow = Inflow."
+      domains: ["content-marketing", "omnipresent-advertising"]
+      weight: 0.85
+      quote: "In modern marketing, you control the media."
+      chunk_ids: ["DMM_023"]
+      source_ids: ["DMM"]
+
+    - id: "FIL-JH-046"
+      statement: "Strategic transparency creates leverage. Create crisis to manipulate keystone habits of organization."
+      domains: ["leadership", "crisis-management"]
+      weight: 0.85
+      quote: "When you're transparent, you get different opportunities."
+      chunk_ids: ["DMM_024"]
+      source_ids: ["DMM"]
+
+    - id: "FIL-JH-047"
+      statement: "Work ON your business, not IN it. Your goal is to run a business that if you die it would still run."
+      domains: ["operations", "delegation"]
+      weight: 0.95
+      quote: "Your goal is to run a business that if you die it would still run."
+      chunk_ids: ["DMM_025"]
+      source_ids: ["DMM"]
+
   # ─────────────────────────────────────────────────────────────────────────
-  # L2: MENTAL MODELS (20 documented of 257 total)
+  # L2: MENTAL MODELS (40 documented of 313 total)
   # ─────────────────────────────────────────────────────────────────────────
   L2_MENTAL_MODELS:
     - id: "MM-JH-001"
@@ -478,8 +706,189 @@ layers:
       chunk_ids: ["JH082_004"]
       source_ids: ["BATCH-082"]
 
+    # DMM - Digital Marketing Manuscript
+    - id: "MM-JH-021"
+      name: "6 Conditions Model"
+      description: "Non-Existence, Danger, Emergency, Normal, Affluence, Power. Each graph condition has specific formula steps."
+      domains: ["operations", "statistics"]
+      weight: 0.95
+      triggers: "Qual a condicao atual do meu grafico? Qual formula aplicar?"
+      chunk_ids: ["DMM_026"]
+      source_ids: ["DMM"]
+
+    - id: "MM-JH-022"
+      name: "Three Degrees of Exchange"
+      description: "Abundance (over-deliver), Satisfaction (just enough), Unsatisfied (under-deliver = refunds)."
+      domains: ["service-delivery", "pricing"]
+      weight: 0.85
+      triggers: "Estou em qual grau de troca com meu cliente?"
+      chunk_ids: ["DMM_027"]
+      source_ids: ["DMM"]
+
+    - id: "MM-JH-023"
+      name: "Law of Expansion/Contraction"
+      description: "Expanding product line dilutes brand. Contracting to one thing enables massive expansion (22 Immutable Laws)."
+      domains: ["branding", "niche-strategy"]
+      weight: 0.90
+      triggers: "Devo expandir minha oferta ou contrair?"
+      chunk_ids: ["DMM_028"]
+      source_ids: ["DMM"]
+
+    - id: "MM-JH-024"
+      name: "Small Plate Logic"
+      description: "Smaller plate with less food looks abundant (Profit First). Apply to finances: smaller operating account prevents overspending."
+      domains: ["financial-management", "psychology"]
+      weight: 0.85
+      triggers: "Como controlar gastos operacionais?"
+      chunk_ids: ["DMM_029"]
+      source_ids: ["DMM"]
+
+    - id: "MM-JH-025"
+      name: "Gateway Transaction Model"
+      description: "Transactional deal delivers immense value, then leverages into recurring relationship."
+      domains: ["revenue-model", "sales"]
+      weight: 0.90
+      triggers: "Como converter cliente transacional em recorrente?"
+      chunk_ids: ["DMM_030"]
+      source_ids: ["DMM"]
+
+    - id: "MM-JH-026"
+      name: "Trojan Horse Client Model"
+      description: "Wrong clients disguise as revenue gifts but destroy from inside."
+      domains: ["client-management", "risk-management"]
+      weight: 0.85
+      triggers: "Este cliente parece bom demais? Cuidado com o Trojan Horse."
+      chunk_ids: ["DMM_031"]
+      source_ids: ["DMM"]
+
+    - id: "MM-JH-027"
+      name: "PM as Communication Bridge"
+      description: "CEO to PM to All teams. Without PM, CEO manages all directly = trapped in business."
+      domains: ["operations", "team-structure"]
+      weight: 0.90
+      triggers: "Estou preso no operacional? Preciso de um PM."
+      chunk_ids: ["DMM_032"]
+      source_ids: ["DMM"]
+
+    - id: "MM-JH-028"
+      name: "Cause vs Effect Model"
+      description: "Be the cause (proactive, driving) not the effect (reactive). Exceeding limits makes you an effect."
+      domains: ["leadership", "mindset"]
+      weight: 0.85
+      triggers: "Estou sendo causa ou efeito no meu negocio?"
+      chunk_ids: ["DMM_033"]
+      source_ids: ["DMM"]
+
+    - id: "MM-JH-029"
+      name: "Deep vs Wide Selling"
+      description: "40 deep contacts closing 5 > 300 wide contacts closing 2. Quality over quantity."
+      domains: ["sales", "prospecting"]
+      weight: 0.90
+      triggers: "Minha equipe de vendas esta fazendo volume ou profundidade?"
+      chunk_ids: ["DMM_034"]
+      source_ids: ["DMM"]
+
+    - id: "MM-JH-030"
+      name: "CPR - Clear Process to Revenue"
+      description: "Every activity maps to step-by-step path to revenue. Don't talk nerd to clients."
+      domains: ["sales", "pitching"]
+      weight: 0.90
+      triggers: "Consigo mostrar o caminho claro ate o resultado?"
+      chunk_ids: ["DMM_035"]
+      source_ids: ["DMM"]
+
+    - id: "MM-JH-031"
+      name: "Result-Conclusion-Behavior Loop"
+      description: "Something happens, draw conclusion, dictates future behavior. Reverse-engineer for self-awareness."
+      domains: ["mindset", "psychology"]
+      weight: 0.85
+      triggers: "Qual conclusao tirei daquele evento? Ainda me serve?"
+      chunk_ids: ["DMM_036"]
+      source_ids: ["DMM"]
+
+    - id: "MM-JH-032"
+      name: "Pull vs Push Model"
+      description: "Instead of pushing up a hill, grab onto a massive ball rolling downhill. Pull = sustainable consistency."
+      domains: ["mindset", "sustainability"]
+      weight: 0.85
+      triggers: "Estou empurrando ou sendo puxado?"
+      chunk_ids: ["DMM_037"]
+      source_ids: ["DMM"]
+
+    - id: "MM-JH-033"
+      name: "Omnipresent Advertising Model"
+      description: "Surround ideal customer, existing fans, and competitor audiences across ALL channels."
+      domains: ["advertising", "content-marketing"]
+      weight: 0.90
+      triggers: "Minha marca esta omnipresente ou so em um canal?"
+      chunk_ids: ["DMM_038"]
+      source_ids: ["DMM"]
+
+    - id: "MM-JH-034"
+      name: "Core Content Model"
+      description: "1 core content piece (5-15 min) becomes 4-6 clips, sound bites, podcasts, GIFs, quotes. Content flywheel."
+      domains: ["content-marketing", "efficiency"]
+      weight: 0.90
+      triggers: "Estou maximizando cada peca de conteudo?"
+      chunk_ids: ["DMM_039"]
+      source_ids: ["DMM"]
+
+    - id: "MM-JH-035"
+      name: "Engineer's Input/Output Model"
+      description: "What is the smallest input for the largest output? Think like an engineer for efficiency."
+      domains: ["efficiency", "productivity"]
+      weight: 0.85
+      triggers: "Qual o menor esforco para o maior resultado?"
+      chunk_ids: ["DMM_040"]
+      source_ids: ["DMM"]
+
+    - id: "MM-JH-036"
+      name: "Multi-Purposed Action Model"
+      description: "One action produces multiple results simultaneously. Point A leads to B.1, B.2, B.3, B.4, B.5."
+      domains: ["efficiency", "productivity"]
+      weight: 0.85
+      triggers: "Essa acao gera quantos resultados simultaneos?"
+      chunk_ids: ["DMM_041"]
+      source_ids: ["DMM"]
+
+    - id: "MM-JH-037"
+      name: "Vantage Hospitality / Paul O'Neill Crisis Model"
+      description: "Focus on one keystone habit, create crisis, cascading behavior change, 33%+ revenue lift."
+      domains: ["leadership", "crisis-management"]
+      weight: 0.90
+      triggers: "Qual habito-chave mudaria tudo na minha organizacao?"
+      chunk_ids: ["DMM_042"]
+      source_ids: ["DMM"]
+
+    - id: "MM-JH-038"
+      name: "VAK Learning Style Model"
+      description: "Visual, Auditory, Kinesthetic. Identify each person's style before training."
+      domains: ["training", "team-management"]
+      weight: 0.85
+      triggers: "Como essa pessoa aprende melhor?"
+      chunk_ids: ["DMM_043"]
+      source_ids: ["DMM"]
+
+    - id: "MM-JH-039"
+      name: "Timeline Compression Model"
+      description: "Whatever timeline they give, cut by 50%. Like Elon Musk / Steve Jobs."
+      domains: ["productivity", "management"]
+      weight: 0.85
+      triggers: "Esse prazo pode ser cortado pela metade?"
+      chunk_ids: ["DMM_044"]
+      source_ids: ["DMM"]
+
+    - id: "MM-JH-040"
+      name: "Phases of Growth (4 phases)"
+      description: "Re-Engagement, Expansion, Collect and Analyze, Sell/Retarget."
+      domains: ["advertising", "growth-strategy"]
+      weight: 0.90
+      triggers: "Em qual fase de crescimento estou?"
+      chunk_ids: ["DMM_045"]
+      source_ids: ["DMM"]
+
   # ─────────────────────────────────────────────────────────────────────────
-  # L3: HEURISTICS (30 documented of 881 total)
+  # L3: HEURISTICS (65 documented of 980 total)
   # ─────────────────────────────────────────────────────────────────────────
   L3_HEURISTICS:
     # REVENUE METRICS
@@ -728,8 +1137,281 @@ layers:
       chunk_ids: ["JH073_024"]
       source_ids: ["BATCH-073"]
 
+    # DMM - Digital Marketing Manuscript
+    - id: "HEUR-JH-031"
+      rule: "Read 1 chapter per day minimum. Warren Buffett reads 5-6 hours/day. Teaching retains 90% vs 10% passive."
+      domains: ["self-education"]
+      weight: 0.85
+      chunk_ids: ["DMM_046"]
+      source_ids: ["DMM"]
+
+    - id: "HEUR-JH-032"
+      rule: "Flat trend = Emergency condition, not stability. Nothing stays the same."
+      domains: ["statistics", "operations"]
+      weight: 0.90
+      chunk_ids: ["DMM_047"]
+      source_ids: ["DMM"]
+
+    - id: "HEUR-JH-033"
+      rule: "Social media package execution cost $600-800/mo. At $4,000 price = $3,200 profit."
+      threshold: "$600-800 cost, $4,000 price, $3,200 profit"
+      domains: ["pricing", "agency-economics"]
+      weight: 0.85
+      chunk_ids: ["DMM_048"]
+      source_ids: ["DMM"]
+
+    - id: "HEUR-JH-034"
+      rule: "1 social media account manager handles ~8 clients at a time."
+      threshold: "8 clients per manager"
+      domains: ["capacity", "staffing"]
+      weight: 0.85
+      chunk_ids: ["DMM_049"]
+      source_ids: ["DMM"]
+
+    - id: "HEUR-JH-035"
+      rule: "$1,800 to $4,000 with zero changes to deliverables — only price mindset changed."
+      threshold: "$1,800 to $4,000"
+      domains: ["pricing", "mindset"]
+      weight: 0.90
+      chunk_ids: ["DMM_050"]
+      source_ids: ["DMM"]
+
+    - id: "HEUR-JH-036"
+      rule: "Digital agency minimum: $12,000. Personality brand dev: $16,000/mo + rev share."
+      threshold: "$12,000 min agency, $16,000+ personality brand"
+      domains: ["pricing", "positioning"]
+      weight: 0.90
+      chunk_ids: ["DMM_051"]
+      source_ids: ["DMM"]
+
+    - id: "HEUR-JH-037"
+      rule: "Jeremy contracted to personality brands — Tai Lopez, Andy Frisella hired him — $100K+/month MORE than full agency."
+      threshold: "$100K+/month more revenue"
+      domains: ["niche-strategy", "scaling"]
+      weight: 0.90
+      chunk_ids: ["DMM_052"]
+      source_ids: ["DMM"]
+
+    - id: "HEUR-JH-038"
+      rule: "Service fee + success fee (10-30%) = ideal revenue model. Never go below 10%."
+      threshold: "10-30% success fee"
+      domains: ["pricing", "revenue-architecture"]
+      weight: 0.90
+      chunk_ids: ["DMM_053"]
+      source_ids: ["DMM"]
+
+    - id: "HEUR-JH-039"
+      rule: "Space recurring payments throughout month (1st, 4th, 9th, 15th, 18th) for constant liquidity."
+      domains: ["cash-flow", "operations"]
+      weight: 0.85
+      chunk_ids: ["DMM_054"]
+      source_ids: ["DMM"]
+
+    - id: "HEUR-JH-040"
+      rule: "97% of people are financially scarce (3% above $400K). Use Stripe, never PayPal."
+      threshold: "3% above $400K"
+      domains: ["risk-management", "payment-processing"]
+      weight: 0.85
+      chunk_ids: ["DMM_055"]
+      source_ids: ["DMM"]
+
+    - id: "HEUR-JH-041"
+      rule: "PM salary: $4,000/mo in $110K/mo revenue business. Hire PM before salesperson."
+      threshold: "$4,000/mo PM salary"
+      domains: ["hiring", "compensation"]
+      weight: 0.90
+      chunk_ids: ["DMM_056"]
+      source_ids: ["DMM"]
+
+    - id: "HEUR-JH-042"
+      rule: "1/3 interns will be shit, 1/3 mediocre, 1/3 superstars (David Meltzer)."
+      threshold: "33% success rate"
+      domains: ["hiring", "management"]
+      weight: 0.85
+      chunk_ids: ["DMM_057"]
+      source_ids: ["DMM"]
+
+    - id: "HEUR-JH-043"
+      rule: "Take 10-30% profit out on every transaction. Separate accounts: Profit, Tax, Operating Expense."
+      threshold: "10-30% profit allocation"
+      domains: ["financial-management", "profit-first"]
+      weight: 0.95
+      chunk_ids: ["DMM_058"]
+      source_ids: ["DMM"]
+
+    - id: "HEUR-JH-044"
+      rule: "22 clients in one month — business reduced 50% next month, another 50% after. 19-person staff couldn't handle it."
+      threshold: "22 clients = capacity breach"
+      domains: ["capacity-planning", "operations"]
+      weight: 0.90
+      chunk_ids: ["DMM_059"]
+      source_ids: ["DMM"]
+
+    - id: "HEUR-JH-045"
+      rule: "Milestone Agreement: 2-day approval window. Two revision max per milestone. Auto-terminates if no approval."
+      threshold: "2 days approval, 2 revisions max"
+      domains: ["client-management", "legal"]
+      weight: 0.85
+      chunk_ids: ["DMM_060"]
+      source_ids: ["DMM"]
+
+    - id: "HEUR-JH-046"
+      rule: "Ask '5 to 10 real minutes' — specific small time. Give two time options (morning/afternoon) to force choice."
+      domains: ["sales", "objection-handling"]
+      weight: 0.85
+      chunk_ids: ["DMM_061"]
+      source_ids: ["DMM"]
+
+    - id: "HEUR-JH-047"
+      rule: "Under contract: Schedule reminders at 1 month, 2 weeks, final week. Aggressively follow up last week."
+      domains: ["sales", "follow-up"]
+      weight: 0.85
+      chunk_ids: ["DMM_062"]
+      source_ids: ["DMM"]
+
+    - id: "HEUR-JH-048"
+      rule: "Video follow-up after EVERY call. Under 1 minute. Good lighting. Reference the conversation."
+      threshold: "Under 1 minute video"
+      domains: ["sales", "follow-up"]
+      weight: 0.85
+      chunk_ids: ["DMM_063"]
+      source_ids: ["DMM"]
+
+    - id: "HEUR-JH-049"
+      rule: "It took 8 months to transition to statistics-based management. One dashboard (envisage.io) for everything."
+      threshold: "8 months transition"
+      domains: ["operations", "statistics"]
+      weight: 0.85
+      chunk_ids: ["DMM_064"]
+      source_ids: ["DMM"]
+
+    - id: "HEUR-JH-050"
+      rule: "$500-$750 test week for any new hire. Full-rate performance expected at test-rate pay."
+      threshold: "$500-$750 test week"
+      domains: ["hiring", "compensation"]
+      weight: 0.90
+      chunk_ids: ["DMM_065"]
+      source_ids: ["DMM"]
+
+    - id: "HEUR-JH-051"
+      rule: "1 minute late = no interview. Punctuality is non-negotiable."
+      threshold: "1 minute tolerance"
+      domains: ["hiring", "standards"]
+      weight: 0.85
+      chunk_ids: ["DMM_066"]
+      source_ids: ["DMM"]
+
+    - id: "HEUR-JH-052"
+      rule: "3-phase interview: Video Q&A, IQ/EQ/Aptitude test ($60), Paid test week."
+      threshold: "$60 test cost"
+      domains: ["hiring", "methodology"]
+      weight: 0.90
+      chunk_ids: ["DMM_067"]
+      source_ids: ["DMM"]
+
+    - id: "HEUR-JH-053"
+      rule: "2-week warning before firing. Week 1 stats conversation. Week 2 check. Still down = fire."
+      threshold: "2 weeks warning"
+      domains: ["firing", "management"]
+      weight: 0.85
+      chunk_ids: ["DMM_068"]
+      source_ids: ["DMM"]
+
+    - id: "HEUR-JH-054"
+      rule: "20% commission on gross sales. 8% recurring. Bump to 23-25% for urgency closes."
+      threshold: "20% new, 8% recurring, 23-25% urgency"
+      domains: ["compensation", "sales"]
+      weight: 0.90
+      chunk_ids: ["DMM_069"]
+      source_ids: ["DMM"]
+
+    - id: "HEUR-JH-055"
+      rule: "Sequential hiring: Graphic Designer, Social Media Manager, PM, Sales Manager, Digital Marketer, EA, COO."
+      domains: ["hiring", "team-building"]
+      weight: 0.90
+      chunk_ids: ["DMM_070"]
+      source_ids: ["DMM"]
+
+    - id: "HEUR-JH-056"
+      rule: "$2,500-$4,500 monthly payroll range. Bi-weekly pay: 5th and 20th."
+      threshold: "$2,500-$4,500 range"
+      domains: ["compensation", "operations"]
+      weight: 0.85
+      chunk_ids: ["DMM_071"]
+      source_ids: ["DMM"]
+
+    - id: "HEUR-JH-057"
+      rule: "Cut estimated timelines by 50%. 'They tell me 3 days. Wrong. Day and a half.'"
+      threshold: "50% timeline reduction"
+      domains: ["productivity", "management"]
+      weight: 0.85
+      chunk_ids: ["DMM_072"]
+      source_ids: ["DMM"]
+
+    - id: "HEUR-JH-058"
+      rule: "Higher-paying clients get priority. $25K before $6K before $2K."
+      domains: ["client-management", "prioritization"]
+      weight: 0.85
+      chunk_ids: ["DMM_073"]
+      source_ids: ["DMM"]
+
+    - id: "HEUR-JH-059"
+      rule: "19 staff: 65% Las Vegas, 35% Miami. All 1099. Only go W2 when massive + physical location."
+      threshold: "19 staff, 65/35 split"
+      domains: ["staffing", "employment-law"]
+      weight: 0.85
+      chunk_ids: ["DMM_074"]
+      source_ids: ["DMM"]
+
+    - id: "HEUR-JH-060"
+      rule: "9% average conversion rate vs 2-4% industry standard."
+      threshold: "9% vs 2-4% industry"
+      domains: ["advertising", "metrics"]
+      weight: 0.90
+      chunk_ids: ["DMM_075"]
+      source_ids: ["DMM"]
+
+    - id: "HEUR-JH-061"
+      rule: "$25,000/month net revenue target in 90 days or less for new clients."
+      threshold: "$25K/mo in 90 days"
+      domains: ["client-results", "metrics"]
+      weight: 0.85
+      chunk_ids: ["DMM_076"]
+      source_ids: ["DMM"]
+
+    - id: "HEUR-JH-062"
+      rule: "33% revenue lift in 120 days implementing self-sustaining accountability model."
+      threshold: "33% lift in 120 days"
+      domains: ["operations", "management"]
+      weight: 0.85
+      chunk_ids: ["DMM_077"]
+      source_ids: ["DMM"]
+
+    - id: "HEUR-JH-063"
+      rule: "3 workouts/week with personal trainer. Target 5x/week. Health as business heuristic."
+      threshold: "3-5x/week"
+      domains: ["lifestyle", "sustainability"]
+      weight: 0.80
+      chunk_ids: ["DMM_078"]
+      source_ids: ["DMM"]
+
+    - id: "HEUR-JH-064"
+      rule: "Don't increase overhead when income spikes. Wait for power retention (sustained higher income)."
+      domains: ["financial-management", "lifestyle-design"]
+      weight: 0.90
+      chunk_ids: ["DMM_079"]
+      source_ids: ["DMM"]
+
+    - id: "HEUR-JH-065"
+      rule: "Business cost analysis: $30-100K to set up shop. $1,500/mo recurring x 12 expenses = $200K/year."
+      threshold: "$30-100K setup, $200K/year operating"
+      domains: ["startup-costs", "financial-planning"]
+      weight: 0.85
+      chunk_ids: ["DMM_080"]
+      source_ids: ["DMM"]
+
   # ─────────────────────────────────────────────────────────────────────────
-  # L4: FRAMEWORKS (25 documented of 460 total)
+  # L4: FRAMEWORKS (50 documented of 523 total)
   # ─────────────────────────────────────────────────────────────────────────
   L4_FRAMEWORKS:
     # AD STRATEGIES
@@ -1067,8 +1749,357 @@ layers:
       chunk_ids: ["JH002_006"]
       source_ids: ["JH002"]
 
+    # DMM - Digital Marketing Manuscript
+    - id: "FW-JH-026"
+      name: "Battle Plan Blueprint (6-Step)"
+      description: "Strategize, Design, Optimize, Develop, Deploy, Analyze. Dynamic advertising model in 72 hours."
+      domains: ["agency-operations", "process"]
+      weight: 0.95
+      components:
+        - "Strategize - research and plan"
+        - "Design - creative assets"
+        - "Optimize - refine before launch"
+        - "Develop - build campaigns"
+        - "Deploy - launch"
+        - "Analyze - measure and iterate"
+      chunk_ids: ["DMM_081"]
+      source_ids: ["DMM"]
+
+    - id: "FW-JH-027"
+      name: "6 Conditions Formula"
+      description: "Non-Existence, Danger, Emergency, Normal, Affluence, Power. Each has 5-6 formula steps."
+      domains: ["operations", "statistics"]
+      weight: 0.95
+      components:
+        - "Non-Existence: Find a communication line, make yourself known"
+        - "Danger: Bypass habits/routines, handle day-by-day, manage personal ethics"
+        - "Emergency: Promote, change base of operations, economize, prepare to deliver"
+        - "Normal: Don't change anything, reinforce what works, improve every graph"
+        - "Affluence: Economize, pay every bill, invest remainder, buy things for delivery"
+        - "Power: Don't disconnect, write policy for successes, consolidate"
+      chunk_ids: ["DMM_082"]
+      source_ids: ["DMM"]
+
+    - id: "FW-JH-028"
+      name: "Profit First Distribution"
+      description: "Sale goes to Profit account (10-30%) + Tax hold + Operating expense. Never touch profit for operations."
+      domains: ["financial-management"]
+      weight: 0.95
+      components:
+        - "Revenue in"
+        - "Allocate 10-30% to Profit account"
+        - "Allocate tax hold"
+        - "Remainder to Operating Expense"
+        - "Never touch profit for operations"
+      chunk_ids: ["DMM_083"]
+      source_ids: ["DMM"]
+
+    - id: "FW-JH-029"
+      name: "VFP (Valuable Final Product) Layout"
+      description: "Package name + description + bullet items + channel deliverables + pricing. Product = result."
+      domains: ["packaging", "service-design"]
+      weight: 0.90
+      components:
+        - "Package name"
+        - "Description of what client gets"
+        - "Bullet items (deliverables)"
+        - "Channel-specific breakdown"
+        - "Pricing tier"
+      chunk_ids: ["DMM_084"]
+      source_ids: ["DMM"]
+
+    - id: "FW-JH-030"
+      name: "Revenue Architecture"
+      description: "Base: Recurring service fee + Add-on: Success fee (10-30%) + Gateway: Transactional services."
+      domains: ["pricing", "revenue-model"]
+      weight: 0.90
+      components:
+        - "Base layer: Recurring service fee (non-negotiable)"
+        - "Add-on: Success fee 10-30% of results"
+        - "Gateway: Transactional projects as entry point"
+      chunk_ids: ["DMM_085"]
+      source_ids: ["DMM"]
+
+    - id: "FW-JH-031"
+      name: "Negotiation Ladder"
+      description: "Present service fee + 30%, lower to 25% keep fee, lower fee $2K keep 30%, pure success fee."
+      domains: ["negotiation", "sales"]
+      weight: 0.85
+      components:
+        - "Present service fee + 30% success"
+        - "If pushback: lower success to 25%, keep fee"
+        - "If pushback: lower fee $2K, keep 30%"
+        - "Last resort: pure success fee (high risk)"
+      chunk_ids: ["DMM_086"]
+      source_ids: ["DMM"]
+
+    - id: "FW-JH-032"
+      name: "No Refund Protection"
+      description: "Verbal before close, written in agreement, on every invoice, reference agreement if challenged."
+      domains: ["legal", "business-protection"]
+      weight: 0.90
+      components:
+        - "Verbal statement before close"
+        - "Written in agreement"
+        - "Printed on every invoice"
+        - "Reference agreement if challenged"
+        - "Only exception: genuine non-delivery"
+      chunk_ids: ["DMM_087"]
+      source_ids: ["DMM"]
+
+    - id: "FW-JH-033"
+      name: "Milestone Agreement"
+      description: "Define milestones, client signs each, 2 revision max, 2-day approval window, auto-terminate if no approval."
+      domains: ["client-management", "legal"]
+      weight: 0.90
+      components:
+        - "Define milestones per project"
+        - "Client signs off each milestone"
+        - "Maximum 2 revisions per milestone"
+        - "2-day approval window"
+        - "Auto-terminate if no approval"
+      chunk_ids: ["DMM_088"]
+      source_ids: ["DMM"]
+
+    - id: "FW-JH-034"
+      name: "PM Org Structure"
+      description: "CEO to PM to all teams (Graphics, Video, Web Dev, Accounting, Legal, CRM). Without PM = CEO bottleneck."
+      domains: ["operations", "team-structure"]
+      weight: 0.90
+      components:
+        - "CEO communicates only with PM"
+        - "PM manages Graphics team"
+        - "PM manages Video team"
+        - "PM manages Web Dev team"
+        - "PM manages Accounting/Legal/CRM"
+      chunk_ids: ["DMM_089"]
+      source_ids: ["DMM"]
+
+    - id: "FW-JH-035"
+      name: "Package-to-Team Mapping"
+      description: "Define services, identify executors, calculate cost per client, set price with growth margin, build bonus structure."
+      domains: ["pricing", "team-economics"]
+      weight: 0.85
+      components:
+        - "Define services included"
+        - "Identify who executes each"
+        - "Calculate cost per client"
+        - "Set price with growth margin"
+        - "Build bonus structure for team"
+      chunk_ids: ["DMM_090"]
+      source_ids: ["DMM"]
+
+    - id: "FW-JH-036"
+      name: "Capacity Planning"
+      description: "Know team capacity + system readiness + training pipeline. Never exceed without all 3 ready."
+      domains: ["operations", "scaling"]
+      weight: 0.90
+      components:
+        - "Measure current team capacity"
+        - "Assess system readiness"
+        - "Evaluate training pipeline"
+        - "Never exceed without all 3 green"
+      chunk_ids: ["DMM_091"]
+      source_ids: ["DMM"]
+
+    - id: "FW-JH-037"
+      name: "CPR Framework (Clear Process to Revenue)"
+      description: "Launch ads, get leads, convert initial value, email follow-up, convert higher ticket, repeat."
+      domains: ["sales", "pitching"]
+      weight: 0.90
+      components:
+        - "Launch ads"
+        - "Get leads"
+        - "Convert initial value"
+        - "Email follow-up sequence"
+        - "Convert to higher ticket"
+        - "Repeat cycle"
+      chunk_ids: ["DMM_092"]
+      source_ids: ["DMM"]
+
+    - id: "FW-JH-038"
+      name: "Objection Handling: I'm Busy"
+      description: "Agree, redirect to scheduling, offer time slots, promise value, lock with commitment confirmation."
+      domains: ["sales", "objection-handling"]
+      weight: 0.85
+      components:
+        - "Agree - validate their busy schedule"
+        - "Redirect to scheduling"
+        - "Offer two time slots (morning/afternoon)"
+        - "Promise specific value in 5-10 minutes"
+        - "Lock with commitment confirmation"
+      chunk_ids: ["DMM_093"]
+      source_ids: ["DMM"]
+
+    - id: "FW-JH-039"
+      name: "Business Partner Objection Flow"
+      description: "Get them on 3-way call, schedule both, present summary, stage closing, ego provocation if needed."
+      domains: ["sales", "objection-handling"]
+      weight: 0.85
+      components:
+        - "Identify decision maker involvement"
+        - "Get both on 3-way call"
+        - "Schedule meeting with both"
+        - "Present summary to partner"
+        - "Stage closing with both"
+        - "Ego provocation as last resort"
+      chunk_ids: ["DMM_094"]
+      source_ids: ["DMM"]
+
+    - id: "FW-JH-040"
+      name: "Gatekeeper Strategy"
+      description: "Identify decision maker at start, collect data, educate gatekeeper, make them feel smart, turn into advocate."
+      domains: ["sales", "gatekeeping"]
+      weight: 0.85
+      components:
+        - "Identify decision maker at start"
+        - "Collect relevant data from gatekeeper"
+        - "Educate gatekeeper on value"
+        - "Make them feel smart/important"
+        - "Turn gatekeeper into internal advocate"
+      chunk_ids: ["DMM_095"]
+      source_ids: ["DMM"]
+
+    - id: "FW-JH-041"
+      name: "Expectations Calibration"
+      description: "Identify client's success definition, prioritize above all, continuously recalibrate, use as accountability tool."
+      domains: ["client-management", "operations"]
+      weight: 0.85
+      components:
+        - "Identify client's definition of success"
+        - "Prioritize their definition above all"
+        - "Continuously recalibrate expectations"
+        - "Use expectations as accountability tool"
+      chunk_ids: ["DMM_096"]
+      source_ids: ["DMM"]
+
+    - id: "FW-JH-042"
+      name: "Statistics-Based Operations"
+      description: "Identify KPIs, assign collector, central dashboard, check conditions, praise up/address down, document into policy."
+      domains: ["operations", "statistics"]
+      weight: 0.90
+      components:
+        - "Identify KPIs per role"
+        - "Assign stat collector"
+        - "Central dashboard (envisage.io)"
+        - "Check conditions weekly"
+        - "Praise uptrends, address downtrends"
+        - "Document success patterns into policy"
+      chunk_ids: ["DMM_097"]
+      source_ids: ["DMM"]
+
+    - id: "FW-JH-043"
+      name: "Dream Team Architecture"
+      description: "Sequential hiring: GD, SMM, PM, Sales Manager, Digital Marketer, EA, COO, Copywriter."
+      domains: ["hiring", "team-building"]
+      weight: 0.90
+      components:
+        - "1. Graphic Designer"
+        - "2. Social Media Manager"
+        - "3. Project Manager"
+        - "4. Sales Manager"
+        - "5. Digital Marketer"
+        - "6. Executive Assistant"
+        - "7. COO"
+        - "8. Copywriter"
+      chunk_ids: ["DMM_098"]
+      source_ids: ["DMM"]
+
+    - id: "FW-JH-044"
+      name: "3-Phase Interview"
+      description: "Phase 1: Video Q&A. Phase 2: IQ/EQ/Aptitude ($60). Phase 3: Paid test week ($500-750)."
+      domains: ["hiring", "methodology"]
+      weight: 0.90
+      components:
+        - "Phase 1: Video Q&A (11 questions)"
+        - "Phase 2: IQ/EQ/Aptitude test ($60)"
+        - "Phase 3: Paid test week ($500-750)"
+      chunk_ids: ["DMM_099"]
+      source_ids: ["DMM"]
+
+    - id: "FW-JH-045"
+      name: "Escalating Termination"
+      description: "Offer resignation, present stats evidence, if hostile present No Report Reports, escort out."
+      domains: ["firing", "HR"]
+      weight: 0.85
+      components:
+        - "Offer resignation option first"
+        - "Present stats evidence"
+        - "If hostile: present No Report Reports"
+        - "Escort out professionally"
+      chunk_ids: ["DMM_100"]
+      source_ids: ["DMM"]
+
+    - id: "FW-JH-046"
+      name: "Self-Sustaining Accountability Model (SSAM)"
+      description: "Master goals visible to all, sequential dependencies, different teams per step, teams hold each other accountable."
+      domains: ["operations", "leadership"]
+      weight: 0.90
+      components:
+        - "Master goals visible to all"
+        - "Sequential dependencies between teams"
+        - "Different teams per step"
+        - "Teams hold each other accountable"
+        - "Self-sustaining without CEO involvement"
+      chunk_ids: ["DMM_101"]
+      source_ids: ["DMM"]
+
+    - id: "FW-JH-047"
+      name: "MARK Company Culture"
+      description: "Mastery, Articulation, Results, Creativity. On walls, emails, values."
+      domains: ["culture", "leadership"]
+      weight: 0.85
+      components:
+        - "M - Mastery"
+        - "A - Articulation"
+        - "R - Results"
+        - "K - Creativity"
+      chunk_ids: ["DMM_102"]
+      source_ids: ["DMM"]
+
+    - id: "FW-JH-048"
+      name: "Crisis Manipulation"
+      description: "Identify problem, amplify into crisis, open opportunity for behavior change, manipulate keystone habits, new standard."
+      domains: ["leadership", "crisis-management"]
+      weight: 0.85
+      components:
+        - "Identify the problem"
+        - "Amplify into crisis"
+        - "Open opportunity for behavior change"
+        - "Manipulate keystone habits"
+        - "Establish new standard"
+      chunk_ids: ["DMM_103"]
+      source_ids: ["DMM"]
+
+    - id: "FW-JH-049"
+      name: "Megalodon Pricing Pyramid"
+      description: "Social ($4K/mo), Basic Digital ($3K), Premium ($6K), Legacy ($10K), Celebrity ($16K + rev share)."
+      domains: ["pricing", "agency-services"]
+      weight: 0.90
+      components:
+        - "Social Media Management: $4,000/mo"
+        - "Basic Digital Marketing: $3,000/mo"
+        - "Premium Digital Marketing: $6,000/mo"
+        - "Legacy Package: $10,000/mo"
+        - "Celebrity Package: $16,000/mo + rev share"
+      chunk_ids: ["DMM_104"]
+      source_ids: ["DMM"]
+
+    - id: "FW-JH-050"
+      name: "Phases of Growth & Result (4-Phase)"
+      description: "Re-Engagement, Expansion, Collect and Analyze, Sell/Retarget."
+      domains: ["advertising", "growth-strategy"]
+      weight: 0.90
+      components:
+        - "Phase 1: Re-Engagement"
+        - "Phase 2: Expansion"
+        - "Phase 3: Collect and Analyze"
+        - "Phase 4: Sell/Retarget"
+      chunk_ids: ["DMM_105"]
+      source_ids: ["DMM"]
+
   # ─────────────────────────────────────────────────────────────────────────
-  # L5: METHODOLOGIES (18 documented of 312 total)
+  # L5: METHODOLOGIES (38 documented of 361 total)
   # ─────────────────────────────────────────────────────────────────────────
   L5_METHODOLOGIES:
     - id: "MET-JH-001"
@@ -1506,6 +2537,481 @@ layers:
       chunk_ids: ["JH082_016"]
       source_ids: ["BATCH-082"]
 
+    # DMM - Digital Marketing Manuscript
+    - id: "MET-JH-019"
+      name: "Digital Playbook Structure"
+      description: "Baseball Card (stats), Battle Plan Blueprint (6-step process), VFP Package Pages (pricing)."
+      domains: ["agency-operations"]
+      weight: 0.90
+      steps:
+        - step: 1
+          action: "Create Baseball Card with key stats"
+          success_criteria: "Stats page complete"
+        - step: 2
+          action: "Build Battle Plan Blueprint (6-step)"
+          success_criteria: "Blueprint documented"
+        - step: 3
+          action: "Design VFP Package Pages with pricing"
+          success_criteria: "Package pages ready"
+      chunk_ids: ["DMM_106"]
+      source_ids: ["DMM"]
+
+    - id: "MET-JH-020"
+      name: "Niche Contraction Strategy"
+      description: "Take all services, offer for ONE niche only, become specialist, compound expertise, expand within niche."
+      domains: ["niche-strategy", "positioning"]
+      weight: 0.90
+      steps:
+        - step: 1
+          action: "Inventory all current services"
+          success_criteria: "Complete service list"
+        - step: 2
+          action: "Select ONE niche market"
+          success_criteria: "Niche selected"
+        - step: 3
+          action: "Offer all services to that one niche"
+          success_criteria: "Repositioned offering"
+        - step: 4
+          action: "Compound expertise in niche"
+          success_criteria: "Recognized specialist"
+        - step: 5
+          action: "Expand within niche vertically"
+          success_criteria: "Revenue growth"
+      chunk_ids: ["DMM_107"]
+      source_ids: ["DMM"]
+
+    - id: "MET-JH-021"
+      name: "Client Pitch Using Conditions"
+      description: "Find any graph for prospect, show danger condition, create urgency, present formula to fix."
+      domains: ["sales", "consulting"]
+      weight: 0.85
+      steps:
+        - step: 1
+          action: "Find a measurable graph for the prospect"
+          success_criteria: "Graph identified"
+        - step: 2
+          action: "Show the danger/emergency condition"
+          success_criteria: "Urgency created"
+        - step: 3
+          action: "Present the formula to fix"
+          success_criteria: "Solution presented"
+      chunk_ids: ["DMM_108"]
+      source_ids: ["DMM"]
+
+    - id: "MET-JH-022"
+      name: "Stat Accountability Conversation"
+      description: "You influence this stat, right? When down I hold you accountable, fair? When up you're celebrated, right? Lock in."
+      domains: ["management", "accountability"]
+      weight: 0.85
+      steps:
+        - step: 1
+          action: "Confirm they influence the stat"
+          success_criteria: "Agreement obtained"
+        - step: 2
+          action: "Establish downtrend accountability"
+          success_criteria: "Accountability agreed"
+        - step: 3
+          action: "Establish uptrend celebration"
+          success_criteria: "Positive reinforcement agreed"
+        - step: 4
+          action: "Lock in the agreement"
+          success_criteria: "Commitment confirmed"
+      chunk_ids: ["DMM_109"]
+      source_ids: ["DMM"]
+
+    - id: "MET-JH-023"
+      name: "Pre-Fire Protocol"
+      description: "Notice stats declining, Week 1 sitdown, Week 2 check, fire meeting, offer resignation, present data, post-fire decompress."
+      domains: ["firing", "management"]
+      weight: 0.85
+      steps:
+        - step: 1
+          action: "Notice stats declining for 2+ weeks"
+          success_criteria: "Pattern confirmed"
+        - step: 2
+          action: "Week 1 sitdown - discuss stats"
+          success_criteria: "Conversation held"
+        - step: 3
+          action: "Week 2 check - stats still down?"
+          success_criteria: "Decision point reached"
+        - step: 4
+          action: "Fire meeting - offer resignation first"
+          success_criteria: "Meeting conducted"
+        - step: 5
+          action: "Present data evidence"
+          success_criteria: "Evidence presented"
+        - step: 6
+          action: "Post-fire team decompress"
+          success_criteria: "Team morale addressed"
+      chunk_ids: ["DMM_110"]
+      source_ids: ["DMM"]
+
+    - id: "MET-JH-024"
+      name: "Interview Question Battery"
+      description: "11 standard questions including: bad habits, team member definition, intentions, personal goals, side activities, time dedication."
+      domains: ["hiring"]
+      weight: 0.85
+      steps:
+        - step: 1
+          action: "Send video Q&A with 11 questions"
+          success_criteria: "Responses received"
+        - step: 2
+          action: "Evaluate answers for red flags"
+          success_criteria: "Screening complete"
+        - step: 3
+          action: "Schedule IQ/EQ/Aptitude test"
+          success_criteria: "Test scheduled"
+      chunk_ids: ["DMM_111"]
+      source_ids: ["DMM"]
+
+    - id: "MET-JH-025"
+      name: "Individual Training Framework"
+      description: "Identify VAK style, find weak areas, provide matching resources, connect with experts, test knowledge, create community."
+      domains: ["training", "team-development"]
+      weight: 0.85
+      steps:
+        - step: 1
+          action: "Identify VAK learning style"
+          success_criteria: "Style identified"
+        - step: 2
+          action: "Find weak areas"
+          success_criteria: "Gaps documented"
+        - step: 3
+          action: "Provide matching resources"
+          success_criteria: "Resources assigned"
+        - step: 4
+          action: "Connect with experts"
+          success_criteria: "Mentorship arranged"
+        - step: 5
+          action: "Test knowledge"
+          success_criteria: "Assessment passed"
+        - step: 6
+          action: "Create learning community"
+          success_criteria: "Community active"
+      chunk_ids: ["DMM_112"]
+      source_ids: ["DMM"]
+
+    - id: "MET-JH-026"
+      name: "Task Prioritization"
+      description: "List tasks with client values, rank by revenue, assign highest first, get adjusted timeline when priorities shift, compress by 50%."
+      domains: ["productivity", "management"]
+      weight: 0.85
+      steps:
+        - step: 1
+          action: "List all tasks with client revenue values"
+          success_criteria: "Task list with values"
+        - step: 2
+          action: "Rank by revenue impact"
+          success_criteria: "Prioritized list"
+        - step: 3
+          action: "Assign highest value first"
+          success_criteria: "Work allocated"
+        - step: 4
+          action: "Compress timelines by 50%"
+          success_criteria: "Deadlines set"
+      chunk_ids: ["DMM_113"]
+      source_ids: ["DMM"]
+
+    - id: "MET-JH-027"
+      name: "Agency Marketing Framework"
+      description: "Market personality brand, master one core product, educate on it, funnel business, upsell other services."
+      domains: ["agency-marketing", "personal-branding"]
+      weight: 0.90
+      steps:
+        - step: 1
+          action: "Build personality brand"
+          success_criteria: "Brand established"
+        - step: 2
+          action: "Master one core product/service"
+          success_criteria: "Product defined"
+        - step: 3
+          action: "Educate market on that product"
+          success_criteria: "Content flowing"
+        - step: 4
+          action: "Funnel business through personal brand"
+          success_criteria: "Leads coming in"
+        - step: 5
+          action: "Upsell other services"
+          success_criteria: "Revenue diversified"
+      chunk_ids: ["DMM_114"]
+      source_ids: ["DMM"]
+
+    - id: "MET-JH-028"
+      name: "Event Networking Protocol"
+      description: "Get phone number in real time, send contact card, send photo together, follow up with video, follow up everyone."
+      domains: ["networking", "sales"]
+      weight: 0.85
+      steps:
+        - step: 1
+          action: "Get phone number in real time at event"
+          success_criteria: "Number saved"
+        - step: 2
+          action: "Send contact card immediately"
+          success_criteria: "Contact shared"
+        - step: 3
+          action: "Send photo together"
+          success_criteria: "Photo sent"
+        - step: 4
+          action: "Follow up with video"
+          success_criteria: "Video sent"
+        - step: 5
+          action: "Follow up every person from event"
+          success_criteria: "All contacts followed up"
+      chunk_ids: ["DMM_115"]
+      source_ids: ["DMM"]
+
+    - id: "MET-JH-029"
+      name: "Lifestyle-First Business Design"
+      description: "Define desired lifestyle, build structure to support, don't overscale, maintain overhead below income, upgrade after power retention."
+      domains: ["lifestyle-design", "business-architecture"]
+      weight: 0.85
+      steps:
+        - step: 1
+          action: "Define desired lifestyle in detail"
+          success_criteria: "Lifestyle documented"
+        - step: 2
+          action: "Build business structure to support it"
+          success_criteria: "Structure aligned"
+        - step: 3
+          action: "Don't overscale past lifestyle needs"
+          success_criteria: "Growth controlled"
+        - step: 4
+          action: "Maintain overhead below income"
+          success_criteria: "Margins healthy"
+        - step: 5
+          action: "Only upgrade after power retention"
+          success_criteria: "Sustainable upgrade"
+      chunk_ids: ["DMM_116"]
+      source_ids: ["DMM"]
+
+    - id: "MET-JH-030"
+      name: "Power Retention Framework"
+      description: "Normal income, lump sum (affluence), DON'T increase expenses, wait for sustained higher income, only then upgrade."
+      domains: ["financial-management", "lifestyle"]
+      weight: 0.85
+      steps:
+        - step: 1
+          action: "Track normal income baseline"
+          success_criteria: "Baseline established"
+        - step: 2
+          action: "Receive lump sum / income spike"
+          success_criteria: "Spike identified"
+        - step: 3
+          action: "DO NOT increase expenses"
+          success_criteria: "Expenses held"
+        - step: 4
+          action: "Wait for sustained higher income (3+ months)"
+          success_criteria: "Pattern confirmed"
+        - step: 5
+          action: "Only then upgrade lifestyle"
+          success_criteria: "Sustainable upgrade"
+      chunk_ids: ["DMM_117"]
+      source_ids: ["DMM"]
+
+    - id: "MET-JH-031"
+      name: "Idea Validation Process"
+      description: "Research competitors, talk to advisors, get referrals, visit events, validate market fit, determine pricing tier."
+      domains: ["entrepreneurship", "startup"]
+      weight: 0.80
+      steps:
+        - step: 1
+          action: "Research competitors"
+          success_criteria: "Competitive landscape mapped"
+        - step: 2
+          action: "Talk to advisors"
+          success_criteria: "Feedback gathered"
+        - step: 3
+          action: "Get referrals to potential clients"
+          success_criteria: "Warm intros made"
+        - step: 4
+          action: "Visit industry events"
+          success_criteria: "Market pulse checked"
+        - step: 5
+          action: "Validate market fit"
+          success_criteria: "Fit confirmed"
+        - step: 6
+          action: "Determine pricing tier"
+          success_criteria: "Price set"
+      chunk_ids: ["DMM_118"]
+      source_ids: ["DMM"]
+
+    - id: "MET-JH-032"
+      name: "Business Cost Analysis"
+      description: "Calculate setup costs, calculate operating costs, calculate revenue model, determine break-even, build model BEFORE spending."
+      domains: ["financial-planning", "startup"]
+      weight: 0.85
+      steps:
+        - step: 1
+          action: "Calculate setup costs ($30-100K)"
+          success_criteria: "Setup costs known"
+        - step: 2
+          action: "Calculate monthly operating costs"
+          success_criteria: "Operating costs known"
+        - step: 3
+          action: "Calculate revenue model"
+          success_criteria: "Revenue projections done"
+        - step: 4
+          action: "Determine break-even point"
+          success_criteria: "Break-even calculated"
+        - step: 5
+          action: "Build complete model BEFORE spending"
+          success_criteria: "Model validated"
+      chunk_ids: ["DMM_119"]
+      source_ids: ["DMM"]
+
+    - id: "MET-JH-033"
+      name: "Industry Research Methodology"
+      description: "Google market, find competitors, research conventions, find blogs, research patents, calculate costs, go to events."
+      domains: ["market-research", "competitive-intelligence"]
+      weight: 0.80
+      steps:
+        - step: 1
+          action: "Google the market"
+          success_criteria: "Initial research done"
+        - step: 2
+          action: "Find top competitors"
+          success_criteria: "Competitors identified"
+        - step: 3
+          action: "Research industry conventions"
+          success_criteria: "Events mapped"
+        - step: 4
+          action: "Find industry blogs and publications"
+          success_criteria: "Media landscape mapped"
+        - step: 5
+          action: "Research patents and IP"
+          success_criteria: "IP landscape understood"
+        - step: 6
+          action: "Calculate costs to enter"
+          success_criteria: "Entry costs known"
+        - step: 7
+          action: "Attend industry events"
+          success_criteria: "Network established"
+      chunk_ids: ["DMM_120"]
+      source_ids: ["DMM"]
+
+    - id: "MET-JH-034"
+      name: "Business Financing Timeline"
+      description: "Calculate setup costs, plan Month 3/6/9/12 funding, factor success costs, plan for bad months, maintain side income Year 1."
+      domains: ["financial-planning", "startup"]
+      weight: 0.80
+      steps:
+        - step: 1
+          action: "Calculate total setup costs"
+          success_criteria: "Setup budget defined"
+        - step: 2
+          action: "Plan Month 3/6/9/12 funding needs"
+          success_criteria: "Funding timeline set"
+        - step: 3
+          action: "Factor in success costs (hiring, tools)"
+          success_criteria: "Growth costs projected"
+        - step: 4
+          action: "Plan for bad months"
+          success_criteria: "Reserve fund planned"
+        - step: 5
+          action: "Maintain side income Year 1"
+          success_criteria: "Income floor secured"
+      chunk_ids: ["DMM_121"]
+      source_ids: ["DMM"]
+
+    - id: "MET-JH-035"
+      name: "Difficult Conversation (3-Phase)"
+      description: "Approach (hitman: 3 direct points), Delivery (consider their perspective), Close (mutual agreement)."
+      domains: ["leadership", "communication"]
+      weight: 0.85
+      steps:
+        - step: 1
+          action: "Approach - 3 direct points (hitman style)"
+          success_criteria: "Points delivered"
+        - step: 2
+          action: "Delivery - consider their perspective"
+          success_criteria: "Empathy shown"
+        - step: 3
+          action: "Close - reach mutual agreement"
+          success_criteria: "Agreement reached"
+      chunk_ids: ["DMM_122"]
+      source_ids: ["DMM"]
+
+    - id: "MET-JH-036"
+      name: "Mindset Reverse Engineering"
+      description: "Identify behavior, trace to original event, examine conclusion, decide if still serves you, create new conclusion, new behavior."
+      domains: ["mindset", "psychology"]
+      weight: 0.85
+      steps:
+        - step: 1
+          action: "Identify limiting behavior"
+          success_criteria: "Behavior identified"
+        - step: 2
+          action: "Trace to original event"
+          success_criteria: "Root cause found"
+        - step: 3
+          action: "Examine the conclusion drawn"
+          success_criteria: "Conclusion examined"
+        - step: 4
+          action: "Decide if conclusion still serves you"
+          success_criteria: "Decision made"
+        - step: 5
+          action: "Create new empowering conclusion"
+          success_criteria: "New conclusion set"
+        - step: 6
+          action: "Adopt new behavior"
+          success_criteria: "Behavior changed"
+      chunk_ids: ["DMM_123"]
+      source_ids: ["DMM"]
+
+    - id: "MET-JH-037"
+      name: "Prospect Audit Email"
+      description: "Deep research, unbiased audit with numbers, compare to competitors, show opportunity, review funnel, check social, list services, attach docs, schedule."
+      domains: ["agency-sales", "prospecting"]
+      weight: 0.85
+      steps:
+        - step: 1
+          action: "Deep research on prospect"
+          success_criteria: "Research complete"
+        - step: 2
+          action: "Create unbiased audit with numbers"
+          success_criteria: "Audit documented"
+        - step: 3
+          action: "Compare to competitors"
+          success_criteria: "Comparison ready"
+        - step: 4
+          action: "Show specific opportunity"
+          success_criteria: "Opportunity quantified"
+        - step: 5
+          action: "Review their funnel and social"
+          success_criteria: "Full review done"
+        - step: 6
+          action: "List relevant services"
+          success_criteria: "Services matched"
+        - step: 7
+          action: "Attach supporting docs"
+          success_criteria: "Docs attached"
+        - step: 8
+          action: "Schedule call"
+          success_criteria: "Call scheduled"
+      chunk_ids: ["DMM_124"]
+      source_ids: ["DMM"]
+
+    - id: "MET-JH-038"
+      name: "Client Onboarding (4-Phase)"
+      description: "Creative Phase (1.5 weeks), Approval Phase, Launch and Position, Growth Phase (analyze, iterate, double down)."
+      domains: ["agency-operations", "client-management"]
+      weight: 0.90
+      steps:
+        - step: 1
+          action: "Creative Phase - build all assets (1.5 weeks)"
+          success_criteria: "Assets created"
+        - step: 2
+          action: "Approval Phase - client signs off milestones"
+          success_criteria: "Approvals obtained"
+        - step: 3
+          action: "Launch and Position - deploy campaigns"
+          success_criteria: "Campaigns live"
+        - step: 4
+          action: "Growth Phase - analyze, iterate, double down"
+          success_criteria: "Growth trajectory established"
+      chunk_ids: ["DMM_125"]
+      source_ids: ["DMM"]
+
 # ═══════════════════════════════════════════════════════════════════════════
 # METADATA
 # ═══════════════════════════════════════════════════════════════════════════
@@ -1517,19 +3023,19 @@ metadata:
   legacy_version: "4.0.0"
 
   stats:
-    total_documented: 115
+    total_documented: 240
     total_claimed: 2280
     by_layer:
-      L1_PHILOSOPHIES: {documented: 22, claimed: 370}
-      L2_MENTAL_MODELS: {documented: 20, claimed: 257}
-      L3_HEURISTICS: {documented: 30, claimed: 881}
-      L4_FRAMEWORKS: {documented: 25, claimed: 460}
-      L5_METHODOLOGIES: {documented: 18, claimed: 312}
+      L1_PHILOSOPHIES: {documented: 47, claimed: 370}
+      L2_MENTAL_MODELS: {documented: 40, claimed: 257}
+      L3_HEURISTICS: {documented: 65, claimed: 881}
+      L4_FRAMEWORKS: {documented: 50, claimed: 460}
+      L5_METHODOLOGIES: {documented: 38, claimed: 312}
 
   sources:
-    batches_processados: 30
-    batch_range: "002-004, 068-084, 092-101"
-    arquivos_processados: 268
+    batches_processados: 31
+    batch_range: "002-004, 068-084, 092-101, DMM"
+    arquivos_processados: 359
     series:
       - {serie: "SOP", titulo: "Sales Operating Procedures", arquivos: 31}
       - {serie: "STA", titulo: "Sell The Agency", arquivos: 29}
@@ -1540,3 +3046,4 @@ metadata:
       - {serie: "30DC", titulo: "30-Day Challenge", arquivos: 30}
       - {serie: "AOBA", titulo: "Agency Operating Basics Academy", arquivos: 56}
       - {serie: "PCVP", titulo: "Perfect Cold Video Pitch", arquivos: 13}
+      - {serie: "DMM", titulo: "Digital Marketing Manuscript", arquivos: 91}

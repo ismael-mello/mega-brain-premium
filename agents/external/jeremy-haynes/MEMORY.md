@@ -20,7 +20,9 @@
 | AOBA | Agency Operating Basics Academy | 094-099 | 56 | Agency SOPs, operations |
 | PCVP | Perfect Cold Video Pitch | 100-101 | 13 | Video pitches, cold outreach | ✅ knowledge/external/sources/client-accelerator/01-COLD-VIDEO-PROSPECTING.md (2026-03-03) |
 | CA | Client Accelerator | — | 28 | Cold outreach, lead gen, appointment setting | ✅ knowledge/external/sources/client-accelerator/ (3 docs, 2026-03-03) |
-| **TOTAL** | | **30 batches** | **296 arquivos** | |
+| DMM | Digital Marketing Manuscript | — | 91 | Agency ops, pricing, sales, hiring, delivery, mindset | ✅ knowledge/external/sources/jeremy-haynes/raw/digital-marketing-manuscript/ (2026-03-22) |
+| DSP | Digital Skill Pack | — | 137 | Ads, funnels, branding, SEO, chatbots, resources, legal | ✅ knowledge/external/sources/jeremy-haynes/raw/digital-skill-pack/ (2026-03-22) |
+| **TOTAL** | | **31 batches** | **524 arquivos** | |
 
 ^[derivado:CONFIG.yaml:fontes:series]
 
@@ -30,12 +32,12 @@
 
 | Camada | Summary | Total | Peso Medio | Exemplos-Chave |
 |--------|---------|-------|------------|----------------|
-| FILOSOFIAS | 39 | 370 | 0.91 | Fair Pricing, Hydra Philosophy, DSL > VSL |
-| MODELOS MENTAIS | 36 | 257 | 0.92 | Interest Levels Ladder, Time Collapsing, DSL vs VSL |
-| HEURISTICAS | 63 | 881 | 0.91 | 77% DSL, 99% booking, $734K BFCM, 285x ROAS |
-| FRAMEWORKS | 48 | 460 | 0.92 | Hydra, VFT, Hammer, Andromeda, Pentagon |
-| METODOLOGIAS | 36 | 312 | 0.93 | Jornada Pricing, VFT 2.0 Setup, DSL Creation |
-| **TOTAL** | **222** | **2,280** | **0.85** | |
+| FILOSOFIAS | 101 | 432 | 0.91 | Fair Pricing, Hydra Philosophy, DSL > VSL, Applied Knowledge, Personality Brand, Micro Commitments |
+| MODELOS MENTAIS | 92 | 313 | 0.90 | Interest Levels, Time Collapsing, 6 Conditions, CPR, Beliefs Architecture, DEF CON Temperature |
+| HEURISTICAS | 162 | 980 | 0.90 | 77% DSL, 99% booking, 1896 words SEO, ROAS 3x minimum, Bully Method math, $0.01 CPV |
+| FRAMEWORKS | 111 | 523 | 0.90 | Hydra, VFT, Hammer, Battle Plan, Omnipresent, Bully Method, Surf Method, 37 Page Taxonomy |
+| METODOLOGIAS | 85 | 361 | 0.90 | Jornada Pricing, 3-Phase Interview, Funnel Hacking, SEO Launch, Venus Flytrap Implementation |
+| **TOTAL** | **551** | **2,609** | **0.87** | |
 
 ^[derivado:CONFIG.yaml:estatisticas]
 
@@ -134,10 +136,11 @@ Preco nao e fixo — e uma jornada. $1,500 → $10,000/mes ao longo de 5 anos. S
 | 2026-01-10 | 3.0.0 | 1,483 | Alinhamento de versao |
 | 2026-01-10 | 4.0.0 | 2,280 | +797 elementos (13 batches adicionais: 002-004, 092-101) |
 | 2026-03-03 | 5.0.0 | 222 YAML | +74 YAML elements via 30DC+CA merge (HEUR+33, FW+23, MET+18) |
+| 2026-03-22 | 6.0.0 | 240 YAML | +125 YAML elements via DMM pipeline (FIL+25, MM+20, HEUR+35, FW+25, MET+20) |
 
 ^[CONFIG.yaml:changelog]
 
-**Status:** MAIOR DNA DO SISTEMA (2,280 elementos, 92.1% alta confianca)
+**Status:** 2o MAIOR DNA DO SISTEMA (2,405 elementos, 240 documentados, 11 series, 387 arquivos)
 
 ---
 

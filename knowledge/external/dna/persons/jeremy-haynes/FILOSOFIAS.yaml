@@ -2,7 +2,7 @@
 # Crencas fundamentais que aparecem 3+ vezes em contextos diferentes
 # Versao: 2.0.0 | Atualizado: 2026-01-10 | Fase 5 Consolidation
 
-versao: "2.0.0"
+versao: "4.0.0"
 pessoa: "Jeremy Haynes"
 camada: "FILOSOFIAS"
 total_itens: 39
@@ -366,6 +366,134 @@ itens:
     aplicacao: "Client management, service delivery, agency positioning, reselling"
     fonte: "[PCVP-0013] 13. PR SERVICES..txt"
 
+
+  # === DMM (Digital Marketing Manuscript) — 25 filosofias ===
+  - id: "JH-FIL-040"
+    texto: "Applied Knowledge is Power — gathering information without applying it is worthless data; knowledge only becomes power when executed"
+    dominio: "mindset"
+    fonte: "DMM-P&P"
+    confianca: 0.95
+  - id: "JH-FIL-041"
+    texto: "1% Compounding Rule — improve 1% every single day and the compound effect over time creates exponential separation from competitors"
+    dominio: "self-education"
+    fonte: "DMM-Phase1"
+    confianca: 0.90
+  - id: "JH-FIL-042"
+    texto: "Teach-to-Retain — you retain 90% of what you teach others vs 10% of what you read; teaching is the ultimate learning strategy"
+    dominio: "self-education"
+    fonte: "DMM-Phase1"
+    confianca: 0.92
+  - id: "JH-FIL-043"
+    texto: "Conviction Principle — if you are not 100% convicted in what you sell, the prospect will feel it and the sale dies; conviction transfers"
+    dominio: "sales"
+    fonte: "DMM-Phase4"
+    confianca: 0.95
+  - id: "JH-FIL-044"
+    texto: "Deep vs Wide Selling — 40 people sold deep will always outperform 300 people sold wide; depth of relationship beats breadth of reach in high-ticket"
+    dominio: "sales"
+    fonte: "DMM-Phase4"
+    confianca: 0.93
+  - id: "JH-FIL-045"
+    texto: "Expectations Are Success — the degree to which you set and enforce expectations with clients and team is the degree to which you succeed"
+    dominio: "operations"
+    fonte: "DMM-Phase5"
+    confianca: 0.90
+  - id: "JH-FIL-046"
+    texto: "Zero Equity Rule — never give away equity in your company to employees or partners; pay well, bonus generously, but ownership stays with you"
+    dominio: "team-building"
+    fonte: "DMM-Phase7"
+    confianca: 0.95
+  - id: "JH-FIL-047"
+    texto: "No Refund Rule — refunds attract the wrong clients and punish you for their lack of commitment; structure agreements that eliminate refund culture"
+    dominio: "business-design"
+    fonte: "DMM-Phase3"
+    confianca: 0.92
+  - id: "JH-FIL-048"
+    texto: "Profit First — the formula is Sales minus Profit equals Expenses, not Sales minus Expenses equals Profit; take profit before allocating costs"
+    dominio: "finance"
+    fonte: "DMM-Phase3"
+    confianca: 0.95
+  - id: "JH-FIL-049"
+    texto: "Unemotional Decision-Making — every business decision must be made from stats and data, never from feelings; emotions are the enemy of operational clarity"
+    dominio: "operations"
+    fonte: "DMM-Phase5"
+    confianca: 0.93
+  - id: "JH-FIL-050"
+    texto: "Speed-to-Result Principle — the faster you deliver the first tangible result, the higher the client retention, referrals, and lifetime value"
+    dominio: "delivery"
+    fonte: "DMM-Phase6"
+    confianca: 0.92
+  - id: "JH-FIL-051"
+    texto: "Lifestyle-First Business Design — build the business around the life you want, not the other way around; revenue means nothing if your life is miserable"
+    dominio: "business-design"
+    fonte: "DMM-Phase8"
+    confianca: 0.93
+  - id: "JH-FIL-052"
+    texto: "3% Rule — only 3% of prospects are the right clients; stop wasting time convincing the wrong 97% and build systems to filter for the 3%"
+    dominio: "sales"
+    fonte: "DMM-Phase3"
+    confianca: 0.90
+  - id: "JH-FIL-053"
+    texto: "Law of Expansion vs Contraction — a business is always either expanding or contracting, there is no neutral; if you are not actively growing you are dying"
+    dominio: "business-design"
+    fonte: "DMM-Phase3"
+    confianca: 0.92
+  - id: "JH-FIL-054"
+    texto: "Pull vs Push — stop pushing boulders uphill; build systems where momentum pulls you forward; sustainable success comes from alignment not force"
+    dominio: "mindset"
+    fonte: "DMM-P&P"
+    confianca: 0.90
+  - id: "JH-FIL-055"
+    texto: "Repeat Successful Actions — when something works, do not innovate away from it; repeat the proven action until it stops working before changing"
+    dominio: "operations"
+    fonte: "DMM-P&P"
+    confianca: 0.88
+  - id: "JH-FIL-056"
+    texto: "Physical/Mental/Spiritual Balance — business performance is directly proportional to personal health across all three dimensions; neglect one and all suffer"
+    dominio: "mindset"
+    fonte: "DMM-P&P"
+    confianca: 0.88
+  - id: "JH-FIL-057"
+    texto: "4x Personality Brand Rule — your personal brand must appear at least 4x more successful than your current level to attract premium clients"
+    dominio: "brand-building"
+    fonte: "DMM-Phase8"
+    confianca: 0.90
+  - id: "JH-FIL-058"
+    texto: "Education-First Sales — lead with education not pitching; when you teach people enough to understand the problem, they sell themselves on the solution"
+    dominio: "sales"
+    fonte: "DMM-Phase8"
+    confianca: 0.92
+  - id: "JH-FIL-059"
+    texto: "Gary Vee Anti-Pattern — giving everything away for free and working 20 hours a day is not a business model; charge premium, work smart, protect your time"
+    dominio: "business-design"
+    fonte: "DMM-Phase8"
+    confianca: 0.88
+  - id: "JH-FIL-060"
+    texto: "Multi-Purposed Action — every action should serve multiple goals simultaneously; single-purpose work is inefficient at every level"
+    dominio: "productivity"
+    fonte: "DMM-P&P"
+    confianca: 0.88
+  - id: "JH-FIL-061"
+    texto: "Product/Service Limit — never expand your offering beyond what you can deliver at elite quality; one great product beats five mediocre ones"
+    dominio: "business-design"
+    fonte: "DMM-Phase3"
+    confianca: 0.90
+  - id: "JH-FIL-062"
+    texto: "Project Manager as First Hire — before salespeople or marketers, hire a PM who can systematize delivery; operations enable everything else"
+    dominio: "team-building"
+    fonte: "DMM-Phase3"
+    confianca: 0.90
+  - id: "JH-FIL-063"
+    texto: "1099 Default Rule — default to contractors over employees; minimize fixed overhead until a role is proven essential full-time"
+    dominio: "team-building"
+    fonte: "DMM-Phase7"
+    confianca: 0.88
+  - id: "JH-FIL-064"
+    texto: "Stats-Based Firing Protocol — never fire on emotion or hearsay; fire only when statistics consistently show underperformance against defined benchmarks"
+    dominio: "team-building"
+    fonte: "DMM-Phase7"
+    confianca: 0.90
+
 metadados:
   total_chunks_processados: 39
   batches_fonte: ["BATCH-068", "BATCH-069", "BATCH-070", "BATCH-071", "BATCH-072", "BATCH-073", "BATCH-074", "BATCH-075", "BATCH-076", "BATCH-077", "BATCH-078", "BATCH-079", "BATCH-080", "BATCH-081", "BATCH-082", "BATCH-083", "BATCH-084", "30DC", "CA", "PCVP"]
@@ -375,10 +503,14 @@ metadados:
   protocolo: "DNA-EXTRACTION-PROTOCOL v2.0"
   fase: "Phase 5 Consolidation"
   changelog:
+    - data: "2026-03-22T00:00:00Z"
+      acao: "DMM (Digital Marketing Manuscript) — 25 filosofias adicionadas, total 64"
+      fonte: "DMM (91 files, 8 phases + bonus)"
+      versao: "4.0.0"
     - data: "2026-03-03T00:00:00Z"
       acao: "Merge 30DC (8 filosofias) + CA/PCVP (9 filosofias) = 17 novas, total 39"
       fonte: "30DC-NEW-ELEMENTS.yaml + CA-NEW-ELEMENTS.yaml"
-      versao: "3.0.0"
+      versao: "4.0.0"
     - data: "2026-01-10T17:30:00Z"
       acao: "Enriquecimento Fase 5 - 18 filosofias adicionadas"
       fonte: "SOURCE-JH.md + BATCH-068 a BATCH-084"
