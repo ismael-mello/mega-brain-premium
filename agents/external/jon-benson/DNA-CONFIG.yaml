@@ -6,7 +6,7 @@
 metadata:
   agent_type: "SOLO"
   person: "Jon Benson"
-  version: "4.0.0"
+  version: "7.0.0"
   created: "2026-03-22"
   updated: "2026-03-23"
 
@@ -43,6 +43,23 @@ dna_sources:
       - checkout-optimization
       - neuroscience-marketing
       - lead-generation
+      - neuro-marketing
+      - subliminal-persuasion
+      - usp-creation
+      - closing-techniques
+      - rapport-building
+      - webinar-design
+      - duality-marketing
+      - sales-pages
+      - email-marketing
+      - avatar-strategy
+      - personal-branding
+      - mobile-marketing
+      - market-research
+      - hooks
+      - pre-launch
+      - upsells
+      - high-ticket-sales
     materiais_fonte:
       - id: "3XVSL"
         title: "3X VSL Formula"
@@ -136,6 +153,61 @@ dna_sources:
           - "Bonus: CopyPro Session, Love Letter Marketing Essay, 4-Day Thyroid VSL Example"
         speakers: ["Jon Benson"]
         elements_extracted: 338
+
+      - id: "NOWVSL"
+        title: "NOW VSL Method 2020"
+        type: "COURSE"
+        files: 128
+        size_mb: 1.7
+        status: "PROCESSED"
+        date_processed: "2026-03-23"
+        sections:
+          - "8 modules + Q&A sessions"
+          - "Module 1: VSL Foundations & USP Factory"
+          - "Module 2: The 1-2-3 Formula Deep Dive"
+          - "Module 3: Pattern Interrupts & Attention Engineering"
+          - "Module 4: Storytelling (Nightmare + Dream Formulas)"
+          - "Module 5: Grand Offer Construction (6-Part)"
+          - "Module 6: Closing & Future Pacing"
+          - "Module 7: Neuro-Marketing & Subliminal Persuasion"
+          - "Module 8: 3X Webinar Formula & Conspiracy Cycle"
+        speakers: ["Jon Benson"]
+        elements_extracted: 254
+
+      - id: "5MSLF"
+        title: "$5M Sales Letter Formula"
+        type: "WORKSHOP"
+        files: 5
+        size_mb: 0.41
+        status: "PROCESSED"
+        date_processed: "2026-03-23"
+        sections:
+          - "18-Subheadline Sales Page Formula (workshop)"
+          - "Email Mastery: 21 Email Tricks"
+          - "Duality Marketing & Trifecta System"
+          - "Article Page Formula & Parting Gift Close"
+          - "Samurai Code & Personal Branding"
+        speakers: ["Jon Benson"]
+        elements_extracted: 156
+
+      - id: "VSLFT18"
+        title: "VSL Fast Track 2018 Full"
+        type: "COURSE"
+        files: 17
+        size_mb: 1.0
+        status: "PROCESSED"
+        date_processed: "2026-03-23"
+        sections:
+          - "Core course + bonus material + PDFs"
+          - "5-Step Pre-VSL Checklist"
+          - "Hook Formula & 3X Hook Formula"
+          - "Enhanced Rapport Formula"
+          - "Three Samurai Headline Formulas"
+          - "Quiz-To-Sale Funnel"
+          - "Pre-Launch Strategy"
+          - "Upsell & High-Ticket Architecture"
+        speakers: ["Jon Benson"]
+        elements_extracted: 135
 
 # Resolucao de conflitos: N/A (mesmo autor, fontes complementares)
 # Peso: 1.0 (SOLO agent — sem ponderacao)

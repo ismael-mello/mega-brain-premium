@@ -6,7 +6,10 @@
 # Template: DNA-CONFIG-V2 (100% rastreabilidade)
 
 cargo: "SALES-MANAGER"
-versao: "4.9.0"
+versao: "5.0.0"
+# v5.0.0 (2026-03-23): Jon Benson +3 sources (NOWVSL, 5MSLF, VSLFT18) — 1429 total elements, sales frameworks, training methodologies, rapport/storytelling techniques
+#                      - New domains: close-sequence-training, rapport-storytelling-training, pricing-psychology-coaching, funnel-awareness
+#                      - Key frameworks: Grand Offer/Two Choices/Parting Gift (trainable close sequences), Rapport Storytelling (coaching tool), Price Anchoring (QC checklist)
 # v4.9.0 (2026-03-23): Jon Benson TCB enrichment — pitch construction training, Samurai Q&A coaching, Tsunami Close for team playbooks
 #                      - New TCB domains: persuasion-fundamentals, samurai-close, tsunami-close, pitch-construction, word-alchemy, speedwriting
 #                      - Key frameworks: Samurai Q&A (train reps), Tsunami Close (team close playbook), HEX for pitch training, Word Alchemy for call QC
@@ -535,7 +538,9 @@ dna_primario:
         source: "Ethical Influence Practitioner Program (EIPP)"
 
   - pessoa: "jon-benson"
-    peso: 0.75
+    peso: 0.80
+    total_elementos: 1429
+    total_fontes: 10
     dominios_absorvidos:
       - "persuasion-fundamentals"
       - "samurai-close"
@@ -544,10 +549,15 @@ dna_primario:
       - "word-alchemy"
       - "speedwriting"
       - "empathy-copywriting"
+      - "close-sequence-training"
+      - "rapport-storytelling-training"
+      - "pricing-psychology-coaching"
+      - "funnel-awareness"
     path: "/knowledge/external/dna/persons/jon-benson"
     raiz: "/knowledge/external/sources/jon-benson/raw/"
-    justificativa: "Sales Manager trains and QCs the team — Jon Benson's TCB provides the Samurai Q&A system as a drillable objection-handling framework, the Tsunami Close as a team close playbook, HEX for pitch construction training, and Word Alchemy for call quality coaching"
+    justificativa: "Sales Manager trains and QCs the team — Jon Benson's 10 sources (1429 elements) provide the Samurai Q&A as a drillable objection-handling framework, the Tsunami Close as a team close playbook, Grand Offer/Two Choices/Parting Gift as trainable close sequences (NOWVSL), rapport storytelling for coaching (5MSLF), price anchoring as a QC checklist (VSLFT18), and HEX/Word Alchemy for pitch construction and call quality coaching"
     added: "2026-03-23"
+    last_updated: "2026-03-23"
     insights_adicionais:
       - id: "JB-TCB-SM001"
         tema: "Samurai Q&A as Team Training Framework"
@@ -564,6 +574,21 @@ dna_primario:
         descricao: "Systematic word-level language calibration — specific word substitutions that reduce resistance and increase receptivity during sales conversations"
         aplicacao: "Sales Manager uses Word Alchemy as a QC checklist — flag resistance-triggering words in call recordings and coach reps on higher-resonance substitutions"
         source: "The Copywriter Blueprint (TCB)"
+      - id: "JB-NOWVSL-SM004"
+        tema: "Grand Offer / Two Choices / Parting Gift as Trainable Close Sequences"
+        descricao: "Three distinct close architectures from NOWVSL: Grand Offer (layered value), Two Choices (binary framing), Parting Gift (final capture). Each is scriptable and drillable."
+        aplicacao: "Sales Manager installs these as 3 close sequence options for reps — drill in role plays, score in QC, let reps choose based on prospect type"
+        source: "NOW VSL (NOWVSL)"
+      - id: "JB-5MSLF-SM005"
+        tema: "Rapport via Storytelling as Coaching Tool"
+        descricao: "Personal narrative techniques for building trust before the pitch — from 5-Minute Sales Letter methodology adapted for verbal sales"
+        aplicacao: "Sales Manager coaches reps on storytelling openers — score rapport-building in QC, train reps to use personal stories strategically"
+        source: "5-Minute Sales Letter Formula (5MSLF)"
+      - id: "JB-VSLFT18-SM006"
+        tema: "Price Anchoring as QC Checklist"
+        descricao: "Systematic price framing techniques from VSL Formula Template — anchoring, contrast, value stacking before price reveal"
+        aplicacao: "Sales Manager uses price anchoring as a QC checkpoint — verify reps anchor price properly before reveal, coach on framing techniques"
+        source: "VSL Formula Template 2018 (VSLFT18)"
 
 # ═══════════════════════════════════════════════════════════════════
 # MATERIAIS ABSORVIDOS

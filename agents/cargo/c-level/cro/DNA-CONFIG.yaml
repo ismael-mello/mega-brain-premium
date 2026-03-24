@@ -17,7 +17,10 @@
 # ═══════════════════════════════════════════════════════════════════════════════
 
 cargo: "CRO"
-versao: "29.0.0"
+versao: "30.0.0"
+# v30.0.0 (2026-03-23): Jon Benson +3 sources (NOWVSL, 5MSLF, VSLFT18) — 1429 total elements, pricing psychology, offer architecture, funnel strategy, pattern interrupts
+#                      - New domains: pricing-psychology, pattern-interrupts, funnel-architecture, market-research, hooks-headlines, email-sequences, upsell-architecture
+#                      - Key frameworks: NOW VSL Architecture, 5-Minute Sales Letter, VSL Formula Template, Pre-Launch Research System, Upsell Sequence Architecture
 # v29.0.0 (2026-03-23): Jon Benson TCB enrichment — persuasion fundamentals, HEX framework, Samurai Q&A, Tsunami Close, conversion copywriting
 #                      - New TCB domains: persuasion-fundamentals, hex-framework, empathy-copywriting, samurai-close, tsunami-close, word-alchemy, speedwriting
 #                      - Key frameworks: HEX Framework, Samurai Q&A, Tsunami Close, Empathy Copywriting, Word Alchemy
@@ -1147,6 +1150,8 @@ resolucao_de_conflitos:
     - pessoa: "jon-benson"
       path: "/knowledge/external/dna/persons/jon-benson"
       raiz: "/knowledge/external/sources/jon-benson/raw/"
+      total_elementos: 1429
+      total_fontes: 10
       dominios_usados:
         - "persuasion-fundamentals"
         - "hex-framework"
@@ -1159,10 +1164,16 @@ resolucao_de_conflitos:
         - "offer-construction"
         - "desire-psychology"
         - "pricing-psychology"
-      peso: 0.80
-      quando_usar: "Conversion copy architecture, funnel closing strategy, objection neutralization via Samurai Q&A, layered close sequences (Tsunami), VSL conversion optimization, empathy-driven funnel messaging, HEX framework for every funnel touchpoint"
-      justificativa: "CRO maximizes revenue across every funnel stage — Jon Benson's TCB provides the persuasion architecture (HEX), the objection system (Samurai Q&A), and the close infrastructure (Tsunami Close) that directly impact conversion rates"
+        - "pattern-interrupts"
+        - "funnel-architecture"
+        - "upsell-architecture"
+        - "market-research"
+        - "hooks-headlines"
+      peso: 0.85
+      quando_usar: "Conversion copy architecture, funnel closing strategy, objection neutralization via Samurai Q&A, layered close sequences (Tsunami), VSL conversion optimization, empathy-driven funnel messaging, HEX framework for every funnel touchpoint, pricing psychology and offer architecture (NOWVSL+VSLFT18), funnel upsell sequencing (5MSLF+VSLFT18), pattern interrupts for conversion lift"
+      justificativa: "CRO maximizes revenue across every funnel stage — Jon Benson's 10 sources (1429 elements) provide the persuasion architecture (HEX), objection system (Samurai Q&A), close infrastructure (Tsunami Close), VSL conversion frameworks (NOWVSL, VSLFT18), pricing psychology, offer architecture, and upsell sequencing that directly impact conversion rates and revenue per visitor"
       added: "2026-03-23"
+      last_updated: "2026-03-23"
       insight_ids: []
       chunk_ids: []
       materiais_fonte:
@@ -1177,6 +1188,34 @@ resolucao_de_conflitos:
             - "Empathy Copywriting: conversion through emotional mirroring before the pitch"
             - "Word Alchemy: power word substitution to increase conversion copy response rates"
             - "Speedwriting: systematic high-volume copy production for A/B testing at scale"
+        - titulo: "NOW VSL (NOWVSL)"
+          path_raiz: "/knowledge/external/sources/jon-benson/raw/"
+          tipo: "course"
+          data_processamento: "2026-03-23"
+          insights_principais:
+            - "NOW VSL Architecture: rapid VSL construction for conversion optimization"
+            - "Pattern Interrupts: NLP-driven attention capture at key funnel transition points"
+            - "Pricing Psychology: price anchoring and value framing for higher AOV"
+            - "Offer Architecture: structured offer building for maximum perceived value"
+        - titulo: "5-Minute Sales Letter Formula (5MSLF)"
+          path_raiz: "/knowledge/external/sources/jon-benson/raw/"
+          tipo: "course"
+          data_processamento: "2026-03-23"
+          insights_principais:
+            - "5-Minute Sales Letter: rapid sales page construction for fast funnel deployment"
+            - "Email Sequence Architecture: conversion-optimized email follow-up sequences"
+            - "Upsell Funnel Design: post-purchase upsell architecture for revenue maximization"
+            - "Offer Stacking: layered value proposition construction"
+        - titulo: "VSL Formula Template 2018 (VSLFT18)"
+          path_raiz: "/knowledge/external/sources/jon-benson/raw/"
+          tipo: "course"
+          data_processamento: "2026-03-23"
+          insights_principais:
+            - "VSL Formula Template: complete VSL blueprint with section-by-section conversion optimization"
+            - "Pre-Launch Market Research: systematic research system before VSL creation"
+            - "Hook & Headline Frameworks: formula-driven hook construction for maximum engagement"
+            - "Funnel Architecture: end-to-end funnel design with upsell/downsell sequencing"
+            - "Pattern Interrupts: NLP techniques for maintaining attention through long-form VSLs"
 
 # ═══════════════════════════════════════════════════════════════════════════════
 # PROTOCOLO DE RACIOCINIO

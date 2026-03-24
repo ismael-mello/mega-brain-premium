@@ -17,7 +17,10 @@
 # ═══════════════════════════════════════════════════════════════════════════════
 
 cargo: "closer"
-versao: "5.3.0"
+versao: "5.4.0"
+# v5.4.0 (2026-03-23): Jon Benson +3 sources (NOWVSL, 5MSLF, VSLFT18) — 1429 total elements, closing techniques (Grand Offer, Q&A Close, Two Choices, Parting Gift), objection handling, rapport building
+#                      - New domains: grand-offer-close, two-choices-close, parting-gift-close, rapport-storytelling, pricing-anchoring
+#                      - Key frameworks: Grand Offer Close, Two Choices Close, Parting Gift Close, Price Anchoring for verbal closes, Rapport via Storytelling
 # v5.3.0 (2026-03-23): Jon Benson TCB enrichment — Samurai Q&A close system, Tsunami Close architecture, empathy-driven objection handling
 #                      - New TCB domains: samurai-close, tsunami-close, empathy-copywriting, persuasion-fundamentals, word-alchemy
 #                      - Key frameworks: Samurai Q&A, Tsunami Close, HEX for pitch construction, Word Alchemy for language calibration
@@ -994,6 +997,8 @@ dna_sources:
     - pessoa: "jon-benson"
       path: "/knowledge/external/dna/persons/jon-benson"
       raiz: "/knowledge/external/sources/jon-benson/raw/"
+      total_elementos: 1429
+      total_fontes: 10
       dominios_usados:
         - "samurai-close"
         - "tsunami-close"
@@ -1003,10 +1008,17 @@ dna_sources:
         - "desire-psychology"
         - "nlp-selling"
         - "objection-handling"
+        - "grand-offer-close"
+        - "two-choices-close"
+        - "parting-gift-close"
+        - "rapport-storytelling"
+        - "pricing-anchoring"
+        - "pattern-interrupts"
       peso: 0.85
-      quando_usar: "Objection handling via Samurai Q&A, layered close sequences (Tsunami Close), empathy-first closing language, NLP closing techniques (future pacing, presupposition), word-level language calibration for high-ticket calls, desire-over-decision psychology"
-      justificativa: "Closer's core job is to handle objections and close — Jon Benson's TCB adds the Samurai Q&A system for objection neutralization through questions, the Tsunami Close for layered urgency, and word alchemy for precise language calibration on calls"
+      quando_usar: "Objection handling via Samurai Q&A, layered close sequences (Tsunami Close), empathy-first closing language, NLP closing techniques (future pacing, presupposition), word-level language calibration for high-ticket calls, desire-over-decision psychology, Grand Offer close (NOWVSL), Two Choices close (NOWVSL), Parting Gift close (NOWVSL), price anchoring for verbal closes (VSLFT18), rapport via storytelling techniques (5MSLF)"
+      justificativa: "Closer's core job is to handle objections and close — Jon Benson's 10 sources (1429 elements) provide Samurai Q&A for objection neutralization, Tsunami Close for layered urgency, Grand Offer/Two Choices/Parting Gift close sequences (NOWVSL), price anchoring psychology (VSLFT18), NLP pattern interrupts for maintaining prospect engagement, and rapport-building storytelling techniques"
       added: "2026-03-23"
+      last_updated: "2026-03-23"
       insight_ids: []
       chunk_ids: []
       materiais_fonte:
@@ -1021,6 +1033,31 @@ dna_sources:
             - "Word Alchemy: precise word substitution to neutralize resistance language on calls"
             - "Persuasion Fundamentals: psychological drivers behind buying decisions — desire vs logic hierarchy"
             - "NLP Close refinements from CVSL: future pacing, presupposition language, click anchors for momentum"
+        - titulo: "NOW VSL (NOWVSL)"
+          path_raiz: "/knowledge/external/sources/jon-benson/raw/"
+          tipo: "course"
+          data_processamento: "2026-03-23"
+          insights_principais:
+            - "Grand Offer Close: structured closing sequence with layered value presentation"
+            - "Q&A Close: question-driven close that lets prospect sell themselves"
+            - "Two Choices Close: binary choice framing that eliminates fence-sitting"
+            - "Parting Gift Close: final value offer that captures undecided prospects"
+            - "Pattern Interrupts: NLP attention techniques applicable to live sales calls"
+        - titulo: "5-Minute Sales Letter Formula (5MSLF)"
+          path_raiz: "/knowledge/external/sources/jon-benson/raw/"
+          tipo: "course"
+          data_processamento: "2026-03-23"
+          insights_principais:
+            - "Rapport via Storytelling: personal narrative techniques for building trust before the pitch"
+            - "Offer Stacking for verbal presentation: layered value proposition delivery"
+        - titulo: "VSL Formula Template 2018 (VSLFT18)"
+          path_raiz: "/knowledge/external/sources/jon-benson/raw/"
+          tipo: "course"
+          data_processamento: "2026-03-23"
+          insights_principais:
+            - "Price Anchoring: verbal price framing techniques from VSL scripts adapted for live calls"
+            - "Pattern Interrupts: attention maintenance techniques for long sales conversations"
+            - "Hook Frameworks: opening hooks for sales calls derived from VSL intro structures"
 
 # ═══════════════════════════════════════════════════════════════════════════════
 # MAPA DE CONFLITOS

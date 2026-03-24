@@ -3,12 +3,16 @@
 # Status: SCAFFOLD — needs enrichment
 
 cargo: "Copywriter"
-versao: "1.0.0"
+versao: "2.0.0"
 nivel: "MARKETING"
 natureza: "HIBRIDO"
 data_criacao: "2026-03-22"
-ultima_atualizacao: "2026-03-22"
+ultima_atualizacao: "2026-03-23"
 status: "SCAFFOLD"
+# v2.0.0 (2026-03-23): Jon Benson added — TOP source (1429 elements, 10 sources, peso 0.95)
+#                      - ALL 3 new sources (NOWVSL, 5MSLF, VSLFT18) are pure copywriting
+#                      - Domains: vsl-copywriting, email-copywriting, sales-pages, hooks-headlines, pattern-interrupts, pricing-psychology, offer-architecture, funnel-copywriting
+#                      - Key frameworks: HEX, NOW VSL, 5-Minute Sales Letter, VSL Formula Template, Samurai Q&A, Tsunami Close, Word Alchemy, Speedwriting
 
 dominio_primario: "storytelling"
 agg_fonte: "AGG-STORYTELLING.yaml"
@@ -46,4 +50,74 @@ fontes:
     path: "knowledge/external/dna/persons/robert-cialdini/"
     peso: 0.70
     status: "pendente_enriquecimento"
+  - fonte: "jon-benson"
+    path: "knowledge/external/dna/persons/jon-benson/"
+    raiz: "knowledge/external/sources/jon-benson/raw/"
+    peso: 0.95
+    total_elementos: 1429
+    total_fontes: 10
+    status: "ativo"
+    added: "2026-03-23"
+    dominios_usados:
+      - "vsl-copywriting"
+      - "email-copywriting"
+      - "sales-pages"
+      - "hooks-headlines"
+      - "pattern-interrupts"
+      - "pricing-psychology"
+      - "offer-architecture"
+      - "funnel-copywriting"
+      - "persuasion-fundamentals"
+      - "hex-framework"
+      - "empathy-copywriting"
+      - "word-alchemy"
+      - "speedwriting"
+      - "dimensionalization"
+      - "nlp-copywriting"
+      - "headline-mastery"
+      - "upsell-copywriting"
+      - "market-research"
+      - "rapport-storytelling"
+    quando_usar: "VSL copywriting (NOWVSL, VSLFT18, 3XVSL, CVSL), email sequences (5MSLF), sales pages (5MSLF), hooks and headlines (VSLFT18), pattern interrupts and NLP (NOWVSL, VSLFT18), pricing psychology and offer framing (all 3), empathy copywriting (TCB), word alchemy (TCB), speedwriting for high-volume output (TCB), market research pre-copy (VSLFT18)"
+    justificativa: "Jon Benson is the inventor of the VSL and a master copywriter — ALL 10 sources (1429 elements) are directly copywriting-relevant. TCB provides persuasion architecture (HEX, Samurai Q&A, Tsunami Close, Word Alchemy), NOWVSL provides rapid VSL construction and pattern interrupts, 5MSLF provides email/sales page frameworks, VSLFT18 provides the complete VSL blueprint with market research methodology. Top-tier source for Copywriter agent."
+    materiais_fonte:
+      - titulo: "The Copywriter Blueprint (TCB)"
+        path_raiz: "knowledge/external/sources/jon-benson/raw/"
+        tipo: "course"
+        data_processamento: "2026-03-23"
+        insights_principais:
+          - "HEX Framework: Hook/Emotion/Xtra Value — universal copy structure"
+          - "Word Alchemy: systematic word substitution for emotional resonance"
+          - "Empathy Copywriting: mirror prospect's internal dialogue"
+          - "Speedwriting: high-output copy production system"
+          - "Samurai Q&A: objection handling through question sequences"
+          - "Tsunami Close: layered urgency and value stacking"
+      - titulo: "NOW VSL (NOWVSL)"
+        path_raiz: "knowledge/external/sources/jon-benson/raw/"
+        tipo: "course"
+        data_processamento: "2026-03-23"
+        insights_principais:
+          - "NOW VSL Architecture: rapid VSL construction with optimized sections"
+          - "Pattern Interrupts: NLP attention hooks for VSL intros and transitions"
+          - "Grand Offer Close: structured closing copy sequence"
+          - "Pricing Psychology: price anchoring and value framing in copy"
+      - titulo: "5-Minute Sales Letter Formula (5MSLF)"
+        path_raiz: "knowledge/external/sources/jon-benson/raw/"
+        tipo: "course"
+        data_processamento: "2026-03-23"
+        insights_principais:
+          - "5-Minute Sales Letter: rapid sales page copywriting framework"
+          - "Email Sequence Architecture: conversion-optimized email copy"
+          - "Offer Stacking: layered value proposition copywriting"
+          - "Rapport Storytelling: personal narrative copy techniques"
+      - titulo: "VSL Formula Template 2018 (VSLFT18)"
+        path_raiz: "knowledge/external/sources/jon-benson/raw/"
+        tipo: "course"
+        data_processamento: "2026-03-23"
+        insights_principais:
+          - "VSL Formula Template: complete section-by-section VSL copywriting blueprint"
+          - "Pre-Launch Market Research: research methodology for copy preparation"
+          - "Hook & Headline Frameworks: formula-driven hook and headline copywriting"
+          - "Funnel Copywriting: end-to-end copy across funnel stages"
+          - "Pattern Interrupts: attention techniques for long-form copy"
 

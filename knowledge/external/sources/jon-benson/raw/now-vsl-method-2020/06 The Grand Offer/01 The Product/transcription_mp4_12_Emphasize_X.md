@@ -1,0 +1,12 @@
+# Transcrição: 12 Emphasize X
+
+- **Fonte:** 12 Emphasize X
+- **Duração:** 02:11
+- **Idioma:** en
+- **Modelo:** small
+
+---
+
+## [00:00 - 02:11]
+
+What you want to do next is you want to emphasize any aspects of your product or services that deal with the following things. Speed, efficiency, service, ease of use, and you also want to include any images that work as pattern interrupts. And I'm going to give you some specific slide examples. As you probably noticed by now, by the way, that's a great way to start off this segment. As you've noticed by now or probably noticed by now, the everyday diet is by far the easiest diet in the world to follow. Okay, well even if they haven't noticed that by now, I'm going to say it for them anyway. It's the easiest diet in the world to follow, period. As it allows you to consume your favorite foods frequently, preventing boredom from setting in and allowing you to get greater lifestyle freedom. And the results come fast too. In fact, many EOD years report that they dropped 10% of their unwanted body weight in less than 30 short days. What have I done here? I'm emphasizing speed and ease. I did that in two slides. Speed and ease. And that is amazing considering they're seeing these results and experiencing this transformation. Now before I go to the next slide, seeing, experiencing, what am I, what am I focusing on? I'm focusing on feelings and I'm focusing on senses, seeing, experiencing. This is what people want. They were seeing and experiencing this. Transforming while eating delicious pizza, pecan pie, burgers and fries. Your favorite food goes here folks, whatever you enjoy the most. Now at that point, I obviously I'm paraphrasing that because there's no copy on the slide. But I'm using images as a pattern interrupt. This is not interrupting a pattern and giving them something they don't expect. In a sense it is because they've seen so much type, you know, on the screen, then they see images. This is merely getting their minds and mouth connected in this case. So this is where you would get their mind and their eyes connected. If you're selling, you know, a bed and breakfast, you would show pictures of that. If you're selling a service oriented thing, you would show pictures of that. You could show if you're selling something that increases security, you would show images of people who look secure. So again, these don't have to be specific images to your product. They can just be images that convey a feeling.

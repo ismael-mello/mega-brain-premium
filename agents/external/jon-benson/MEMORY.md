@@ -1,6 +1,6 @@
 # MEMORY.md — Jon Benson
 
-> **Versao:** 4.0.0
+> **Versao:** 7.0.0
 > **Tipo:** SOLO (Expert Mind Clone)
 > **Criado:** 2026-03-22
 > **Ultima Atualizacao:** 2026-03-23
@@ -18,6 +18,9 @@
 | 5 | 3XBONUS-FT | 3X VSL Fast Track | 5 | ~96KB | PROCESSED | 2026-03-23 |
 | 6 | 3XBONUS-TP | Traffic Pros (10 issues) | 19 | ~785KB | PROCESSED | 2026-03-23 |
 | 7 | TCB | The Copywriter Blueprint (16 sessions + bonus) | 67 | ~2.68MB | PROCESSED | 2026-03-23 |
+| 8 | NOWVSL | NOW VSL Method 2020 (8 modules + Q&As) | 128 | ~1.7MB | PROCESSED | 2026-03-23 |
+| 9 | 5MSLF | $5M Sales Letter Formula (workshop + email mastery) | 5 | ~414KB | PROCESSED | 2026-03-23 |
+| 10 | VSLFT18 | VSL Fast Track 2018 Full (course + bonus + PDFs) | 17 | ~1MB | PROCESSED | 2026-03-23 |
 
 ---
 
@@ -72,6 +75,61 @@
 | 38 | Refiner prompt elimina "radio voice" — tom generico do AI default | L5 METODOLOGIA | ai-copywriting |
 | 39 | Faux pricing: retail value > 2x preco real cria percepcao de 80%+ desconto | L3 HEURISTICA | pricing-psychology |
 | 40 | 3 Choices Close: nao fazer nada / DIY / caminho inteligente — arquitetura de decisao | L4 FRAMEWORK | closing |
+
+### Da Fonte: NOW VSL Method 2020 (NOWVSL)
+
+| # | Insight | Camada DNA | Dominio |
+|---|---------|------------|---------|
+| 41 | A VSL de 2020 e fundamentalmente o mesmo formato de 2007 — apenas a entrega e a tecnologia mudaram | L1 FILOSOFIA | vsl-copywriting |
+| 42 | "Snap Suggestion" e um pattern interrupt subliminal que reseta a atencao do espectador sem que ele perceba | L4 FRAMEWORK | subliminal-persuasion |
+| 43 | A Nightmare Story Formula segue arco emocional descendente: situacao normal → gatilho → espiral → fundo do poco → lampada | L4 FRAMEWORK | storytelling-for-sales |
+| 44 | A Dream Story Formula e o espelho invertido da Nightmare: fundo do poco → descoberta → aplicacao → transformacao → nova vida | L4 FRAMEWORK | storytelling-for-sales |
+| 45 | Grand Offer de 6 partes em ordem fixa: Stack → Price Anchor → Discount → Bonuses → Guarantee → Urgency | L4 FRAMEWORK | offer-construction |
+| 46 | O "Conspiracy Cycle" cria sensacao de informacao privilegiada — prospect sente que esta recebendo segredo | L2 MODELO MENTAL | buyer-psychology |
+| 47 | 3X Webinar Formula: Teaching Webinar + Offer Webinar + Retargeting Webinar em sequencia de 7 dias | L4 FRAMEWORK | webinar-design |
+| 48 | Neuro-marketing nao e manipulacao — e comunicacao que respeita como o cerebro realmente processa decisoes | L1 FILOSOFIA | neuro-marketing |
+| 49 | Future pacing deve ter 3 timeframes: 7 dias, 30 dias, 1 ano — cada um com visualizacao especifica | L3 HEURISTICA | nlp-selling |
+| 50 | Tip Formula: dar um tip genuinamente util no meio da VSL aumenta confianca e reduz resistencia a oferta | L4 FRAMEWORK | rapport-building |
+| 51 | Pattern interrupts visuais (mudanca de cor de fundo, font size, imagem inesperada) sao tao eficazes quanto verbais | L3 HEURISTICA | pattern-interrupts |
+| 52 | Cada modulo do NOW VSL termina com "Implementation Assignment" — Jon insiste em execucao, nao apenas aprendizado | L2 MODELO MENTAL | copywriting |
+| 53 | USP deve passar no "teste do vizinho": se o vizinho do seu prospect nao entende em 10 segundos, nao e USP | L3 HEURISTICA | usp-creation |
+| 54 | Engagement psychology: fazer perguntas retoricas a cada 90 segundos mantem o prospect em modo de resposta ativa | L3 HEURISTICA | engagement-psychology |
+| 55 | Subliminal persuasion via "embedded commands" — frases imperativas escondidas dentro de frases maiores | L5 METODOLOGIA | subliminal-persuasion |
+
+### Da Fonte: $5M Sales Letter Formula (5MSLF)
+
+| # | Insight | Camada DNA | Dominio |
+|---|---------|------------|---------|
+| 56 | A sales page de $5M tinha exatamente 18 subheadlines — cada uma funcionando como mini-hook independente | L4 FRAMEWORK | sales-pages |
+| 57 | "Duality Marketing": mostrar os dois lados (o que voce ganha vs o que voce perde) duplica a urgencia emocional | L2 MODELO MENTAL | duality-marketing |
+| 58 | A formula "4 E's of Proof": Experience, Evidence, Endorsements, Examples — nessa ordem de impacto | L4 FRAMEWORK | copywriting |
+| 59 | Article Page Formula: sales page disfarçada de artigo editorial converte melhor em trafego frio | L4 FRAMEWORK | sales-pages |
+| 60 | Trifecta = Passion + Personality + Persuasion — os 3 pilares de copy que conecta | L4 FRAMEWORK | copywriting |
+| 61 | "Parting Gift Close": oferecer algo valioso GRATIS no final da pagina pra quem NAO compra — captura lead pra remarketing | L5 METODOLOGIA | closing-techniques |
+| 62 | 21 Email Tricks incluem: subject line com numero impar, preview text como continuacao, PS com link diferente do body | L5 METODOLOGIA | email-marketing |
+| 63 | Samurai Code: 7 principios de etica em copywriting que Jon aplica a tudo que escreve | L1 FILOSOFIA | copywriting |
+| 64 | Mobile-first e obrigatorio: 70%+ do trafego e mobile, e a maioria dos copywriters ainda escreve pra desktop | L3 HEURISTICA | mobile-marketing |
+| 65 | Avatar nao e demografia — e psicografia. O que a pessoa SENTE as 3am quando nao consegue dormir | L2 MODELO MENTAL | avatar-strategy |
+| 66 | Personal branding em copy: assinar com nome real, foto real, historia real — anonimato mata confianca | L1 FILOSOFIA | personal-branding |
+| 67 | NLP em email: cada email deve ter exatamente 1 action drop e 1 open loop pro proximo email | L3 HEURISTICA | email-marketing |
+| 68 | Pricing psychology: preço quebrado ($997 nao $1000) funciona, mas preço ancorado ($2997 cortado pra $997) funciona 3x melhor | L3 HEURISTICA | pricing-psychology |
+
+### Da Fonte: VSL Fast Track 2018 Full (VSLFT18)
+
+| # | Insight | Camada DNA | Dominio |
+|---|---------|------------|---------|
+| 69 | O 5-Step Pre-VSL Checklist e o que separa VSLs de $10K de VSLs de $1M — 80% do trabalho e antes de escrever | L4 FRAMEWORK | vsl-copywriting |
+| 70 | Hook Formula: Resultado Especifico + Timeframe Especifico + Mecanismo Unico = hook irresistivel | L4 FRAMEWORK | hooks |
+| 71 | 3X Hook Formula: criar 3 hooks diferentes (curiosidade, medo, desejo) e testar todos via trafego pago | L5 METODOLOGIA | hooks |
+| 72 | Enhanced Rapport Formula: vulnerabilidade calculada + credencial relevante + empatia especifica ao problema do avatar | L4 FRAMEWORK | rapport-building |
+| 73 | Three Samurai Headline Formulas: "How To X Without Y", "The Secret of X That Y", "Warning: Don't X Until You Y" | L5 METODOLOGIA | copywriting |
+| 74 | Quiz-To-Sale Funnel: quiz de 5-7 perguntas que segmenta e pre-qualifica ANTES da VSL — aumenta conversao 40-60% | L4 FRAMEWORK | funnel-strategy |
+| 75 | Pre-launch sequence de 3 emails antes do lancamento: teaser + revelacao + countdown — cada um com open loop | L5 METODOLOGIA | pre-launch |
+| 76 | Upsell imediato (order bump) deve ser complemento natural, nao produto separado — "fries with your burger" | L3 HEURISTICA | upsells |
+| 77 | High-ticket VSL e paradoxo: menos producao, mais conversao. Video casual de 15min converte melhor que producao de $50K | L2 MODELO MENTAL | high-ticket-sales |
+| 78 | Market research antes de copy: ler 50 reviews de 1 estrela do concorrente revela as objecoes reais do mercado | L5 METODOLOGIA | market-research |
+| 79 | O pre-VSL checklist inclui: avatar doc, competitor analysis, mechanism draft, proof stack, offer wireframe | L4 FRAMEWORK | vsl-copywriting |
+| 80 | Pricing strategy: sempre apresentar 3 opcoes (Basic/Pro/Premium) — a maioria escolhe o meio, que deve ter melhor margem | L3 HEURISTICA | pricing-strategy |
 
 ---
 
@@ -156,12 +214,12 @@ Cada frase deve ser "visivel" e "sentida". Copy plana e inaceitavel. O refiner p
 
 | Metrica | Valor | Fonte |
 |---------|-------|-------|
-| Total Insights | 40+ | MEMORY.md (contagem manual) |
-| Fontes Processadas | 6 | 3XVSL + CVSL + 4 bonus sections |
+| Total Insights | 80+ | MEMORY.md (contagem manual) |
+| Fontes Processadas | 10 | 3XVSL + CVSL + 4 bonus + TCB + NOWVSL + 5MSLF + VSLFT18 |
 | Padroes Identificados | 12 | MEMORY.md secao PADROES |
 | Frases Caracteristicas | 17+ | MEMORY.md secao FRASES |
-| DNA Elements (v3.0.0) | 546 | DNA.yaml (313 original + 233 bonus) |
+| DNA Elements (v7.0.0) | 1429 | DNA.yaml (884 prev + 254 NOWVSL + 156 5MSLF + 135 VSLFT18) |
 
 ---
 
-*Ultima verificacao: 2026-03-22*
+*Ultima verificacao: 2026-03-23*

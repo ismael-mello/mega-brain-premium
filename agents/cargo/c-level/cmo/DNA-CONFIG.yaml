@@ -24,7 +24,10 @@
 # ═══════════════════════════════════════════════════════════════════════════════
 
 cargo: "CMO"
-versao: "28.0.0"
+versao: "29.0.0"
+# v29.0.0 (2026-03-23): Jon Benson +3 sources (NOWVSL, 5MSLF, VSLFT18) — 1429 total elements, copywriting, email marketing, hooks, headlines, market research, content strategy
+#                      - New domains: market-research, pre-launch-strategy, pattern-interrupts, funnel-copywriting, upsell-copywriting, hooks-headlines
+#                      - Key frameworks: NOW VSL Architecture, 5-Minute Sales Letter, VSL Formula Template, Pre-Launch Research System, Email Sequence Architecture
 # v28.0.0 (2026-03-23): Jon Benson TCB enrichment — persuasion fundamentals, HEX framework, empathy copywriting, word alchemy, speedwriting methodology
 #                      - New TCB domains: persuasion-fundamentals, hex-framework, empathy-copywriting, word-alchemy, speedwriting, email-copywriting, headline-mastery
 #                      - Key frameworks: HEX Framework (Hook/Emotion/Xtra Value), Samurai Q&A, Tsunami Close, AIDA Evolution, Word Alchemy System
@@ -1248,6 +1251,8 @@ dna_sources:
     - pessoa: "jon-benson"
       path: "/knowledge/external/dna/persons/jon-benson"
       raiz: "/knowledge/external/sources/jon-benson/raw/"
+      total_elementos: 1429
+      total_fontes: 10
       dominios_usados:
         - "persuasion-fundamentals"
         - "hex-framework"
@@ -1260,10 +1265,18 @@ dna_sources:
         - "video-sales-letters"
         - "ai-copywriting"
         - "dimensionalization"
-      peso: 0.85
-      quando_usar: "Copywriting strategy, email campaigns, VSL scripting, headline construction, empathy-driven messaging, AI-assisted copy production, word alchemy for brand voice, speedwriting systems for high-volume output"
-      justificativa: "CMO owns all marketing communication — Jon Benson's TCB provides the persuasion fundamentals, HEX framework, and word alchemy system that elevate copy quality across ads, emails, landing pages, and VSLs"
+        - "market-research"
+        - "pre-launch-strategy"
+        - "pattern-interrupts"
+        - "funnel-copywriting"
+        - "upsell-copywriting"
+        - "hooks-headlines"
+        - "email-sequences"
+      peso: 0.90
+      quando_usar: "Copywriting strategy, email campaigns, VSL scripting, headline construction, empathy-driven messaging, AI-assisted copy production, word alchemy for brand voice, speedwriting systems for high-volume output, market research and pre-launch strategy (VSLFT18), hooks and headlines (VSLFT18), email sequence architecture (5MSLF), pattern interrupts for ad and content engagement (NOWVSL+VSLFT18)"
+      justificativa: "CMO owns all marketing communication — Jon Benson's 10 sources (1429 elements) provide comprehensive copywriting DNA: persuasion fundamentals (TCB), VSL architecture (NOWVSL+VSLFT18), email marketing systems (5MSLF), market research methodology (VSLFT18), hook/headline frameworks, and high-volume content production (Speedwriting). JB is now a top-tier CMO source."
       added: "2026-03-23"
+      last_updated: "2026-03-23"
       insight_ids: []
       chunk_ids: []
       materiais_fonte:
@@ -1279,6 +1292,34 @@ dna_sources:
             - "Samurai Q&A: objection neutralization through question-based re-framing"
             - "Tsunami Close: layered urgency and value stacking close architecture"
             - "Headline Mastery: formula-driven headline construction for maximum CTR"
+        - titulo: "NOW VSL (NOWVSL)"
+          path_raiz: "/knowledge/external/sources/jon-benson/raw/"
+          tipo: "course"
+          data_processamento: "2026-03-23"
+          insights_principais:
+            - "NOW VSL Architecture: rapid VSL construction with conversion-optimized sections"
+            - "Pattern Interrupts: NLP-driven attention hooks for ads and VSL intros"
+            - "Pricing Psychology: price anchoring and value framing for marketing campaigns"
+            - "VSL Copywriting: section-by-section copy optimization for video sales letters"
+        - titulo: "5-Minute Sales Letter Formula (5MSLF)"
+          path_raiz: "/knowledge/external/sources/jon-benson/raw/"
+          tipo: "course"
+          data_processamento: "2026-03-23"
+          insights_principais:
+            - "5-Minute Sales Letter: rapid sales page construction for campaign deployment"
+            - "Email Sequence Architecture: conversion-optimized email follow-up campaigns"
+            - "Content Strategy: systematic content production for marketing funnels"
+            - "Offer Presentation: copywriting frameworks for offer pages and landing pages"
+        - titulo: "VSL Formula Template 2018 (VSLFT18)"
+          path_raiz: "/knowledge/external/sources/jon-benson/raw/"
+          tipo: "course"
+          data_processamento: "2026-03-23"
+          insights_principais:
+            - "VSL Formula Template: complete VSL blueprint for marketing teams"
+            - "Pre-Launch Market Research: systematic research methodology before campaign creation"
+            - "Hook & Headline Frameworks: formula-driven hook construction for ads, emails, and VSLs"
+            - "Funnel Copywriting: end-to-end copy architecture across funnel stages"
+            - "Pattern Interrupts: attention maintenance techniques for long-form marketing content"
 
 # ═══════════════════════════════════════════════════════════════════════════════
 # MAPA DE CONFLITOS

@@ -1,0 +1,16 @@
+# Transcrição: 05 Something Completely Different
+
+- **Fonte:** 05 Something Completely Different
+- **Duração:** 03:07
+- **Idioma:** en
+- **Modelo:** small
+
+---
+
+## [00:00 - 03:01]
+
+Next up is something completely different. This is my homage to Monty Python. Something completely different. This is very very important and I would say it's the top three and the top three things that I see when looking at the last hundred hundred and fifty VSL that I've studied that people that are not having success leave out. For some reason they believe that their system or their thing is totally unique and people get it. But guess what? They don't. And here is what the purpose of this is. Your video is something the viewer has never seen before and the tendency is going to be after the pattern break occurs and their brain starts returning back to getting into the mode of listening. After you cover the benefits the pattern break is pretty much gone. A lot of viewers at this point will be thinking you know what this sounds just like blank. So if it's a weight loss offer they might think this sounds just like the Ackens died or this sounds just like body for life. If it's a service I'll dry cleaners or alike. Okay this is what you don't want them to think. This is how you get them to not think that. You must reset their mental framework into a state of discovering something new. Discovering is the key word here. Something new. They're about to discover something new and here's an example of how this would play out. You may think that you notice I didn't say now I know you're thinking it's you may think remember the May tip and the or tip okay. You may think you have tried it all and seen it all but you have never seen anything like this before and I promise these tips and solutions will shock you. Okay now I'm pulling out the wordsmithing patterns. Now I'm pulling out the power words shock you stun you surprise you astonish you okay. This is how you wordsmith something and I promise these tips and solutions will make you happy that's not good okay. These tips and solutions will shock you. That stops people in their tracks that's another pattern interrupt. Now what if it's what if it's a service what if it's I'm going to take an example what if it's a legal service that specializes in helping people find closed cases that are open okay for example I'm making this up but you may have think you may think that you've heard all there is to know that you know all there's to know about the legal world and how cases are closed but you've never seen what I'm about to tell you. So this works in any industry any industry at all you could be in the hospitality industry you could be in the hospital industry you could be a fitness rider it does not matter okay but the key thing here is to say that you think you've seen it all before but this is not like anything you've seen before and something is going to shock you. You might want to say and one tip in particular will totally shock you. One tip in particular would totally shock you. I love using the one tip in particular because what does that set the mind to do? It sets the mind to look out for that one tip right and if that one tip is
+
+## [03:01 - 03:07]
+
+at the 18 minute mark in your video that's a good thing because that's right before your pitch.
