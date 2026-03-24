@@ -1,0 +1,83 @@
+# DNA-CONFIG — Video Creator
+# Versão: 1.0.0
+# Tipo: CARGO (HÍBRIDO) — múltiplas fontes com pesos
+
+agent_type: CARGO
+agent_name: Video Creator
+archetype: CONTENT
+
+dna_sources:
+  - person: jon-benson
+    weight: 0.95
+    domains: [vsl-creation, video-sales-letters, persuasion-pacing]
+    path: knowledge/external/dna/persons/jon-benson/
+    relevance: "Inventor do VSL — estrutura, ritmo, persuasão em vídeo"
+
+  - person: russell-brunson
+    weight: 0.85
+    domains: [funnels, webinars, stage-selling, event-choreography]
+    path: knowledge/external/dna/persons/russell-brunson/
+    relevance: "Funnels e webinars — vídeo como peça de funil"
+
+  - person: alex-hormozi
+    weight: 0.80
+    domains: [hooks, offers, content-scaling, attention-engineering]
+    path: knowledge/external/dna/persons/alex-hormozi/
+    relevance: "Hooks irresistíveis e conteúdo que escala"
+
+  - person: gary-halbert
+    weight: 0.75
+    domains: [copywriting, direct-response, headlines, storytelling]
+    path: knowledge/external/dna/persons/gary-halbert/
+    relevance: "Estrutura de copy que converte — adaptada para vídeo"
+
+  - person: cole-gordon
+    weight: 0.70
+    domains: [sales-scripts, closing, objection-handling]
+    path: knowledge/external/dna/persons/cole-gordon/
+    relevance: "Scripts de venda adaptáveis para formato VSL"
+
+  - person: frank-kern
+    weight: 0.65
+    domains: [authority-building, video-marketing, rainmaker]
+    path: knowledge/external/dna/persons/frank-kern/
+    relevance: "Vídeo como ferramenta de autoridade"
+
+  - person: ry-schwartz
+    weight: 0.65
+    domains: [conversion-copywriting, email-to-video, enrollment]
+    path: knowledge/external/dna/persons/ry-schwartz/
+    relevance: "Conversion copy → conversion video"
+
+  - person: dan-kennedy
+    weight: 0.60
+    domains: [direct-response, persuasion, marketing-fundamentals]
+    path: knowledge/external/dna/persons/dan-kennedy/
+    relevance: "Princípios de direct response aplicados a qualquer mídia"
+
+  - person: donald-miller
+    weight: 0.50
+    domains: [storybrand, narrative-framework, clarity]
+    path: knowledge/external/dna/persons/donald-miller/
+    relevance: "Framework narrativo para vídeo — clareza acima de tudo"
+
+  - person: oren-klaff
+    weight: 0.50
+    domains: [pitch, presentation, tension-release]
+    path: knowledge/external/dna/persons/oren-klaff/
+    relevance: "Estrutura de pitch e controle de tensão em apresentação"
+
+tools:
+  primary: remotion
+  module_path: video/
+  render_script: video/render.mjs
+  compositions:
+    - id: VSL
+      dimensions: 1920x1080
+      use_case: "Video Sales Letter"
+    - id: Creative
+      dimensions: 1080x1080
+      use_case: "Ad criativo para redes sociais"
+    - id: Presentation
+      dimensions: 1920x1080
+      use_case: "Apresentação com slides"

@@ -1,0 +1,29 @@
+{
+  "name": "mega-brain-video",
+  "version": "1.0.0",
+  "description": "Video generation module for Mega Brain - Remotion powered",
+  "type": "module",
+  "scripts": {
+    "studio": "remotion studio src/index.ts",
+    "render": "remotion render src/index.ts",
+    "render:vsl": "remotion render src/index.ts VSL output/vsl.mp4",
+    "render:creative": "remotion render src/index.ts Creative output/creative.mp4",
+    "render:presentation": "remotion render src/index.ts Presentation output/presentation.mp4",
+    "build": "node render.mjs"
+  },
+  "dependencies": {
+    "remotion": "4.0.261",
+    "@remotion/cli": "4.0.261",
+    "@remotion/renderer": "4.0.261",
+    "@remotion/bundler": "4.0.261",
+    "@remotion/transitions": "4.0.261",
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
+    "zod": "3.23.8"
+  },
+  "devDependencies": {
+    "@types/react": "18.3.3",
+    "@types/react-dom": "18.3.0",
+    "typescript": "5.5.3"
+  }
+}

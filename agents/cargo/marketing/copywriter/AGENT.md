@@ -49,6 +49,24 @@
 
 ---
 
+## CAPACIDADES ESPECIAIS
+
+### Geração de Vídeo (Remotion)
+
+Este agente pode produzir **VSLs** e **Criativos** como output renderizado.
+
+| Output | Composição | Quando Usar |
+|--------|-----------|-------------|
+| **VSL** | `VSL` (1920x1080) | Scripts de venda em vídeo (hook → problem → solution → CTA) |
+| **Creative** | `Creative` (1080x1080) | Ads para redes sociais |
+| **Presentation** | `Presentation` (1920x1080) | Resumos visuais de frameworks |
+
+**Fluxo:** Escrever copy → Estruturar em JSON → Invocar `/video` → MP4 renderizado
+
+Ver: `SHARED-RULES.md` REGRA 8 e `/video` skill para detalhes.
+
+---
+
 ## METADADOS
 
 | Campo | Valor |

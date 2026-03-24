@@ -46,6 +46,23 @@
 
 ---
 
+## CAPACIDADES ESPECIAIS
+
+### Geração de Criativos em Vídeo (Remotion)
+
+Este agente pode produzir **Criativos para Ads** como output renderizado.
+
+| Output | Composição | Quando Usar |
+|--------|-----------|-------------|
+| **Creative** | `Creative` (1080x1080) | Ads animados para Meta, TikTok, YouTube |
+| **VSL** | `VSL` (1920x1080) | Video ads longos para campanhas de conversão |
+
+**Fluxo:** Definir copy do ad → Estruturar em JSON → Invocar `/video` → MP4 pronto para campanha
+
+Ver: `SHARED-RULES.md` REGRA 8 e `/video` skill para detalhes.
+
+---
+
 ## METADADOS
 
 | Campo | Valor |

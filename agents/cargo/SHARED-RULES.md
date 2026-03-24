@@ -255,4 +255,51 @@ desconsideradas pelo SINTETIZADOR.
 
 ---
 
+## REGRA 8: GERAÇÃO DE VÍDEO (REMOTION)
+
+### Capacidade Disponível
+
+Todos os agentes de cargo podem solicitar geração de vídeo como output.
+O módulo Remotion em `/video/` transforma output estruturado em vídeo renderizado.
+
+### Tipos de Vídeo Disponíveis
+
+| Tipo | Composição | Dimensão | Agentes Primários |
+|------|-----------|----------|-------------------|
+| **VSL** | `VSL` | 1920x1080 | Copywriter, CRO, CMO |
+| **Creative** | `Creative` | 1080x1080 | Media Buyer, CMO, Copywriter |
+| **Presentation** | `Presentation` | 1920x1080 | Todos os C-Level, Sales Manager |
+
+### Como Solicitar Geração de Vídeo
+
+O agente deve produzir output no formato JSON estruturado e invocar `/video`:
+
+```json
+{
+  "type": "vsl",
+  "expert": "Alex Hormozi",
+  "topic": "Grand Slam Offer",
+  "content": {
+    "hook": "E se seu produto fosse tão bom...",
+    "problem": "90% dos empreendedores competem por preço",
+    "solution": "A Grand Slam Offer transforma...",
+    "offer": "Framework completo: Value Equation + Stack",
+    "cta": "Construa sua oferta agora"
+  },
+  "branding": {
+    "color": "#FF6B00",
+    "backgroundColor": "#0A0A0A"
+  }
+}
+```
+
+### Regras de Uso
+
+- **DEVE** produzir o conteúdo textual ANTES de solicitar vídeo
+- **DEVE** usar DNA/fontes como base para o conteúdo (REGRA 1 aplica)
+- **NÃO PODE** gerar vídeo com conteúdo inventado (REGRA 2 aplica)
+- **DEVE** especificar o tipo correto (VSL para vendas, Creative para ads, Presentation para resumos)
+
+---
+
 # FIM DO ARQUIVO SHARED-RULES.md

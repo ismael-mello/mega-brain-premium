@@ -1,0 +1,48 @@
+# DNA-CONFIG — Video Editor
+# Versão: 1.0.0
+# Tipo: CARGO (HÍBRIDO) — múltiplas fontes com pesos
+
+agent_type: CARGO
+agent_name: Video Editor
+archetype: CONTENT
+
+dna_sources:
+  - person: jon-benson
+    weight: 0.90
+    domains: [vsl-pacing, video-rhythm, scene-transitions]
+    path: knowledge/external/dna/persons/jon-benson/
+    relevance: "Timing e ritmo de VSL — quando cortar, quando pausar"
+
+  - person: russell-brunson
+    weight: 0.85
+    domains: [event-choreography, emotional-pacing, stage-editing]
+    path: knowledge/external/dna/persons/russell-brunson/
+    relevance: "Event choreography — edição para máximo impacto emocional"
+
+  - person: alex-hormozi
+    weight: 0.75
+    domains: [attention-retention, content-hooks, youtube-editing]
+    path: knowledge/external/dna/persons/alex-hormozi/
+    relevance: "Padrões de edição que retém atenção — hooks visuais"
+
+  - person: gary-halbert
+    weight: 0.65
+    domains: [narrative-rhythm, revelation-pacing, storytelling]
+    path: knowledge/external/dna/persons/gary-halbert/
+    relevance: "Ritmo de revelação narrativa adaptado para vídeo"
+
+  - person: oren-klaff
+    weight: 0.60
+    domains: [tension-release, emotional-control, presentation-pacing]
+    path: knowledge/external/dna/persons/oren-klaff/
+    relevance: "Controle de tensão e release — estado emocional do viewer"
+
+tools:
+  primary: remotion
+  module_path: video/
+  render_script: video/render.mjs
+  operations:
+    - adjust_timing: "Editar durations no JSON e re-renderizar"
+    - create_variations: "Múltiplas versões de hook/estilo"
+    - format_adaptation: "Converter entre 16:9, 1:1, 9:16"
+    - preview: "npx remotion studio para inspeção visual"
