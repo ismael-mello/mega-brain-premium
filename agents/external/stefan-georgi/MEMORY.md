@@ -14,7 +14,7 @@
 | RMBC II (16 Modules) | SG-RMBC-II | Course | 225 | 75 | 2026-03-24 |
 | Profit Fix Formula (24 Modules) | SG-PROFIT-FIX-FORMULA | Course | 162 | 47 | 2026-03-24 |
 
-**Total:** 4 fontes | 308 elementos unicos verificados | 1304 arquivos processados
+**Total:** 4 fontes | 303 elementos unicos verificados | 1304 arquivos processados
 
 ### Detalhamento por Secao
 
@@ -105,11 +105,11 @@
 
 | Camada | Quantidade | Exemplos Chave |
 |--------|-----------|----------------|
-| L1 FILOSOFIAS | 72 | Research Is Foundation, Unique Mechanism Is Everything, Process Over Talent, Perfection Is Enemy, AI Amplifies Process, Score Before You Fix, Effective CPA Is The Only Metric |
-| L2 MODELOS MENTAIS | 58 | RMBC Sequencing, Dual Mechanism, Lead Temperature, AOV-First Revenue, Fear-Greed Spectrum, 15 Funnel Factors Scoring, Brief 2.0 Mental Model, AI-Human Copy Loop, Product-Market Awareness Grid |
-| L3 HEURISTICAS | 88 | 3-5 hrs research, 10-30 min per ad, 300+ conversions to test, $200+ AOV target, 37% AOV from price test, 23 questions = complete brief, 6 landing page types, 4 checkout types, OLAF upsell sequence |
-| L4 FRAMEWORKS | 53 | RMBC Method, 7-Part Sales Letter, Subject Line Matrix, AOV Money Close, Emo Story 16-Step, Brief 2.0, 15 Funnel Factors, Advertorial Framework, 6 Power Emails, Landing Page Checklists, Checkout Checklists, OLAF Upsell |
-| L5 METODOLOGIAS | 37 | RMBC Full Implementation, Sales Letter Writing Process, Unique Mechanism Discovery, Copywriter Onboarding, Claude Projects Workflow, AI-Assisted Research, UMP Ideation with LLMs, Profit Fix Implementation, Funnel Scoring Process |
+| L1 FILOSOFIAS | 65 | Research Is Foundation, Unique Mechanism Is Everything, Process Over Talent, Perfection Is Enemy, AI Amplifies Process, Score Before You Fix, Effective CPA Is The Only Metric |
+| L2 MODELOS MENTAIS | 55 | RMBC Sequencing, Dual Mechanism, Lead Temperature, AOV-First Revenue, Fear-Greed Spectrum, 15 Funnel Factors Scoring, Brief 2.0 Mental Model, AI-Human Copy Loop, Product-Market Awareness Grid |
+| L3 HEURISTICAS | 75 | 3-5 hrs research, 10-30 min per ad, 300+ conversions to test, $200+ AOV target, 37% AOV from price test, 23 questions = complete brief, 6 landing page types, 4 checkout types, OLAF upsell sequence |
+| L4 FRAMEWORKS | 72 | RMBC Method, 7-Part Sales Letter, Subject Line Matrix, AOV Money Close, Emo Story 16-Step, Brief 2.0, 15 Funnel Factors, Advertorial Framework, 6 Power Emails, Landing Page Checklists, Checkout Checklists, OLAF Upsell |
+| L5 METODOLOGIAS | 36 | RMBC Full Implementation, Sales Letter Writing Process, Unique Mechanism Discovery, Copywriter Onboarding, Claude Projects Workflow, AI-Assisted Research, UMP Ideation with LLMs, Profit Fix Implementation, Funnel Scoring Process |
 
 ---
 
@@ -295,11 +295,11 @@ Stefan's approach to conversion optimization starts with scoring, not fixing. Th
 
 | Metrica | Valor | Fonte | Verificado |
 |---------|-------|-------|------------|
-| Total elementos | 308 | DNA.yaml count | 2026-03-24 |
+| Total elementos | 303 | DNA.yaml count | 2026-03-24 |
 | Total fontes | 4 | DNA-CONFIG.yaml:dna_sources | 2026-03-24 |
 | Arquivos processados | 1304 | Sum all sources file count | 2026-03-24 |
-| L1 count | 72 | DNA.yaml:L1_PHILOSOPHIES | 2026-03-24 |
-| L2 count | 58 | DNA.yaml:L2_MENTAL_MODELS | 2026-03-24 |
-| L3 count | 88 | DNA.yaml:L3_HEURISTICS | 2026-03-24 |
-| L4 count | 53 | DNA.yaml:L4_FRAMEWORKS | 2026-03-24 |
-| L5 count | 37 | DNA.yaml:L5_METHODOLOGIES | 2026-03-24 |
+| L1 count | 65 | DNA.yaml:L1_PHILOSOPHIES | 2026-03-24 |
+| L2 count | 55 | DNA.yaml:L2_MENTAL_MODELS | 2026-03-24 |
+| L3 count | 75 | DNA.yaml:L3_HEURISTICS | 2026-03-24 |
+| L4 count | 72 | DNA.yaml:L4_FRAMEWORKS | 2026-03-24 |
+| L5 count | 36 | DNA.yaml:L5_METHODOLOGIES | 2026-03-24 |

@@ -255,10 +255,10 @@ Quando precisar de:
 
 | Metrica | Valor | Fonte | Data Verificacao |
 |---------|-------|-------|------------------|
-| Elementos DNA | 308 | DNA.yaml | 2026-03-24 |
+| Elementos DNA | 303 | DNA.yaml | 2026-03-24 |
 | Fontes | 4 (CopyAccelerator, RMBC Method, RMBC II, Profit Fix Formula) | DNA-CONFIG.yaml:dna_sources | 2026-03-24 |
-| L1 Filosofias | 72 | DNA.yaml:L1_PHILOSOPHIES | 2026-03-24 |
-| L2 Modelos Mentais | 58 | DNA.yaml:L2_MENTAL_MODELS | 2026-03-24 |
-| L3 Heuristicas | 88 | DNA.yaml:L3_HEURISTICS | 2026-03-24 |
-| L4 Frameworks | 53 | DNA.yaml:L4_FRAMEWORKS | 2026-03-24 |
-| L5 Metodologias | 37 | DNA.yaml:L5_METHODOLOGIES | 2026-03-24 |
+| L1 Filosofias | 65 | DNA.yaml:L1_PHILOSOPHIES | 2026-03-24 |
+| L2 Modelos Mentais | 55 | DNA.yaml:L2_MENTAL_MODELS | 2026-03-24 |
+| L3 Heuristicas | 75 | DNA.yaml:L3_HEURISTICS | 2026-03-24 |
+| L4 Frameworks | 72 | DNA.yaml:L4_FRAMEWORKS | 2026-03-24 |
+| L5 Metodologias | 36 | DNA.yaml:L5_METHODOLOGIES | 2026-03-24 |
