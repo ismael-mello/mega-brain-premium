@@ -3,12 +3,18 @@
 # Status: SCAFFOLD — needs enrichment
 
 cargo: "Copywriter"
-versao: "2.0.0"
+versao: "4.0.0"
 nivel: "MARKETING"
 natureza: "HIBRIDO"
 data_criacao: "2026-03-22"
-ultima_atualizacao: "2026-03-23"
+ultima_atualizacao: "2026-03-24"
 status: "SCAFFOLD"
+# v4.0.0 (2026-03-24): Stefan Georgi updated 118→308 elements (+190 from RMBC Method, RMBC II, Profit Fix Formula)
+#                      - New SG domains: AI-copywriting, conversion-optimization, funnel-architecture, advertorials, email-sequences, landing-pages
+#                      - New SG frameworks: Brief 2.0, 15 Funnel Factors, Claude VSL Projects, Advertorial Framework, 6 Power Emails, Landing Page Checklist
+# v3.0.0 (2026-03-24): Stefan Georgi (peso 0.95, 118 elements) + Justin Goff (peso 0.75, 60 elements) added
+#                      - SG domains: copywriting, RMBC, sales-letters
+#                      - JG domains: email-marketing, big-ideas, ad-creatives
 # v2.0.0 (2026-03-23): Jon Benson added — TOP source (1429 elements, 10 sources, peso 0.95)
 #                      - ALL 3 new sources (NOWVSL, 5MSLF, VSLFT18) are pure copywriting
 #                      - Domains: vsl-copywriting, email-copywriting, sales-pages, hooks-headlines, pattern-interrupts, pricing-psychology, offer-architecture, funnel-copywriting
@@ -120,4 +126,54 @@ fontes:
           - "Hook & Headline Frameworks: formula-driven hook and headline copywriting"
           - "Funnel Copywriting: end-to-end copy across funnel stages"
           - "Pattern Interrupts: attention techniques for long-form copy"
+  - fonte: "stefan-georgi"
+    path: "knowledge/external/dna/persons/stefan-georgi/"
+    raiz: "knowledge/external/sources/stefan-georgi/raw/"
+    peso: 0.95
+    total_elementos: 308
+    total_fontes: 4
+    status: "ativo"
+    added: "2026-03-24"
+    dominios_usados:
+      - "copywriting"
+      - "RMBC"
+      - "sales-letters"
+      - "AI-copywriting"
+      - "conversion-optimization"
+      - "funnel-architecture"
+      - "advertorials"
+      - "email-sequences"
+      - "landing-pages"
+    quando_usar: "Sales letter construction (RMBC method), Brief 2.0 for copy projects, 15 Funnel Factors for conversion diagnostics, Claude VSL Projects for AI-assisted copy, Advertorial Framework for native ads, 6 Power Emails for launch/evergreen sequences, Landing Page Checklist for optimization, high-converting copy architecture, split-testing copy variants, long-form direct response"
+    justificativa: "Stefan Georgi is one of the top direct-response copywriters — RMBC Method is the industry standard for research-to-copy workflow. RMBC II expands with advanced multi-channel techniques. Profit Fix Formula adds funnel diagnostics (15 Funnel Factors), AI-assisted copy production (Claude VSL Projects), and conversion optimization tools (Advertorial Framework, 6 Power Emails, Landing Page Checklist). Most impacted cargo agent — 308 elements directly copywriting-relevant."
+    materiais_fonte:
+      - titulo: "Copy Accelerator"
+        path_raiz: "knowledge/external/sources/stefan-georgi/raw/"
+        tipo: "course"
+        data_processamento: "2026-03-24"
+      - titulo: "RMBC Method"
+        path_raiz: "knowledge/external/sources/stefan-georgi/raw/"
+        tipo: "course"
+        data_processamento: "2026-03-24"
+      - titulo: "RMBC II"
+        path_raiz: "knowledge/external/sources/stefan-georgi/raw/"
+        tipo: "course"
+        data_processamento: "2026-03-24"
+      - titulo: "Profit Fix Formula"
+        path_raiz: "knowledge/external/sources/stefan-georgi/raw/"
+        tipo: "course"
+        data_processamento: "2026-03-24"
+  - fonte: "justin-goff"
+    path: "knowledge/external/dna/persons/justin-goff/"
+    raiz: "knowledge/external/sources/justin-goff/raw/"
+    peso: 0.75
+    total_elementos: 60
+    status: "ativo"
+    added: "2026-03-24"
+    dominios_usados:
+      - "email-marketing"
+      - "big-ideas"
+      - "ad-creatives"
+    quando_usar: "Email copy sequences, big idea identification and development, ad creative copywriting, daily email monetization"
+    justificativa: "Justin Goff specializes in email marketing and big idea development — strong complement to VSL-heavy sources like Jon Benson."
 

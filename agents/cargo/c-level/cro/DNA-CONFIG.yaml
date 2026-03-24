@@ -17,7 +17,13 @@
 # ═══════════════════════════════════════════════════════════════════════════════
 
 cargo: "CRO"
-versao: "30.0.0"
+versao: "32.0.0"
+# v32.0.0 (2026-03-24): Stefan Georgi updated 30→65 elements (+35 from RMBC Method, RMBC II, Profit Fix Formula)
+#                      - New SG domains: landing-page-optimization, checkout-optimization, upsell-framework, funnel-diagnostics
+#                      - New SG frameworks: 15 Funnel Factors for revenue diagnostics, Landing Page Checklist, checkout optimization, upsell page architecture
+# v31.0.0 (2026-03-24): Stefan Georgi (peso 0.75, 30 elements) + Justin Goff (peso 0.85, 45 elements) added
+#                      - SG domains: conversion-optimization, split-testing, AOV
+#                      - JG domains: offer-engineering, upsell-optimization, cold-traffic-scaling
 # v30.0.0 (2026-03-23): Jon Benson +3 sources (NOWVSL, 5MSLF, VSLFT18) — 1429 total elements, pricing psychology, offer architecture, funnel strategy, pattern interrupts
 #                      - New domains: pricing-psychology, pattern-interrupts, funnel-architecture, market-research, hooks-headlines, email-sequences, upsell-architecture
 #                      - Key frameworks: NOW VSL Architecture, 5-Minute Sales Letter, VSL Formula Template, Pre-Launch Research System, Upsell Sequence Architecture
@@ -1217,6 +1223,34 @@ resolucao_de_conflitos:
             - "Funnel Architecture: end-to-end funnel design with upsell/downsell sequencing"
             - "Pattern Interrupts: NLP techniques for maintaining attention through long-form VSLs"
 
+    - pessoa: "stefan-georgi"
+      path: "/knowledge/external/dna/persons/stefan-georgi"
+      raiz: "/knowledge/external/sources/stefan-georgi/raw/"
+      total_elementos: 65
+      dominios_usados:
+        - "conversion-optimization"
+        - "split-testing"
+        - "AOV"
+        - "landing-page-optimization"
+        - "checkout-optimization"
+        - "upsell-framework"
+        - "funnel-diagnostics"
+      peso: 0.75
+      quando_usar: "Conversion rate optimization via copy testing, split-testing frameworks, AOV optimization through copy-driven upsells, 15 Funnel Factors for revenue diagnostics, landing page optimization checklist, checkout optimization copy, upsell page architecture for revenue maximization"
+      added: "2026-03-24"
+
+    - pessoa: "justin-goff"
+      path: "/knowledge/external/dna/persons/justin-goff"
+      raiz: "/knowledge/external/sources/justin-goff/raw/"
+      total_elementos: 45
+      dominios_usados:
+        - "offer-engineering"
+        - "upsell-optimization"
+        - "cold-traffic-scaling"
+      peso: 0.85
+      quando_usar: "Offer engineering for revenue maximization, upsell sequence optimization, cold traffic scaling via email monetization, LTV maximization"
+      added: "2026-03-24"
+
 # ═══════════════════════════════════════════════════════════════════════════════
 # PROTOCOLO DE RACIOCINIO
 # ═══════════════════════════════════════════════════════════════════════════════
@@ -1264,5 +1298,5 @@ regras_especificas:
 #
 # ═══════════════════════════════════════════════════════════════════════════════
 
-# Fim do DNA-CONFIG.yaml v2.0.0
+# Fim do DNA-CONFIG.yaml v31.0.0
 # Integrado com AGENT-COGNITION-PROTOCOL (FASE 1.5) e AGENT-INTEGRITY-PROTOCOL

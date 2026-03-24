@@ -11,10 +11,10 @@
 # ═══════════════════════════════════════════════════════════════════════════════
 
 dominio: "vendas"
-versao: "23.0.0"  # Jon Benson NOWVSL+5MSLF+VSLFT18 added (+80 vendas elements: Parting Gift Close, Duality Objection handling, Two Choices Close architecture, Samurai Q&A closing via copy, pricing psychology frameworks, faux price strategy for VSL/page sales, sales psychology triggers from neuro-marketing)
+versao: "26.0.0"  # Stefan Georgi updated 40→80 el (+40 from RMBC Method, RMBC II, Profit Fix Formula). New: upsell framework, checkout optimization, AOV optimization from PFF, funnel conversion diagnostics.
 data_criacao: "2026-01-10"
-ultima_atualizacao: "2026-03-23"
-total_elementos: 2571
+ultima_atualizacao: "2026-03-24"
+total_elementos: 2681
 
 fontes_consolidadas:
   - fonte: "cole-gordon"
@@ -129,6 +129,22 @@ fontes_consolidadas:
     especialidade: "VSL closing architecture, NLP Close (future pacing + presupposition + click anchor), 3 Choices decision architecture, Grand Offer 6-Part structure, faux pricing psychology, $120 AOV threshold, 20-25min buy button timing, open loop architecture (10-12 per VSL), 80% sales after first pitch, inclusion/community close, benefit block So-Rather-Than formula, dimensional bonus descriptions; TCB: samurai Q&A closing technique (scripted objection blocks), benefit stacking language for sales, closing copy language patterns, guarantee close architecture, price justification sequences; 5MSLF: Parting Gift Close (last-chance close in copy), Duality Objection handling (pain/pleasure contrast to overcome objections), pricing psychology frameworks for sales pages; VSLFT18: Two Choices Close (binary decision architecture — buy or stay stuck), Samurai Q&A closing via copy (pre-scripted objection neutralization), market research-driven sales psychology triggers"
     batches: ["JB-3XVSL (3X VSL Formula — 200 elements — 2026-03-22)", "JB-CVSL (Chat VSL — 106 elements — 2026-03-22)", "JB-TCB (The Copywriter Blueprint — 338 elements — 2026-03-23)", "JB-NOWVSL (NOW VSL Method 2020 — 254 elements — 2026-03-23)", "JB-5MSLF ($5M Sales Letter Formula — 156 elements — 2026-03-23)", "JB-VSLFT18 (VSL Fast Track 2018 — 135 elements — 2026-03-23)"]
     nota: "Jon Benson é o INVENTOR do VSL. Sua contribuição para vendas é na arquitetura de close via texto — como estruturar uma oferta escrita que fecha. TCB expande com samurai Q&A methodology. NOWVSL adds advanced neuro-marketing sales triggers. 5MSLF adds Parting Gift Close and Duality Objection handling — systematic ways to close via written copy. VSLFT18 adds Two Choices Close architecture — forcing binary decision in copy. Total JB vendas: 300 elements across 6 sources. Diferente dos closers de telefone (Gordon, Miner, Belfort), Benson fecha via copy. IDs: FIL-JB-xxx (NÃO confundir com Jordan Belfort FIL-JB-xxx no SLC4/SLM/SLP)."
+
+  - fonte: "stefan-georgi"
+    path: "/knowledge/external/dna/persons/stefan-georgi"
+    peso_dominio: 0.80
+    elementos_contribuidos: 80
+    especialidade: "Sales letter structure for closing, AOV Money Close framework, upsell copy architecture, proof stacking for sales, split-testing sales elements, closing frameworks in written copy, checkout optimization copy, upsell page templates, 15 Funnel Factors for conversion diagnostics, funnel-wide conversion optimization"
+    batches: ["SG-CA (Copy Accelerator — 118 elements — 2026-03-24)", "SG-RMBC (RMBC Method — 65 elements — 2026-03-24)", "SG-RMBC2 (RMBC II — 55 elements — 2026-03-24)", "SG-PFF (Profit Fix Formula — 70 elements — 2026-03-24)"]
+    nota: "Updated 2026-03-24 with 3 new sources (+40 vendas-relevant). Georgi's contribution to vendas is through written sales architecture — how to structure sales letters and VSLs that close. AOV Money Close optimizes average order value via copy. Profit Fix Formula adds upsell framework, checkout optimization, and 15 Funnel Factors for diagnosing conversion leaks across entire sales funnels. Complements phone closers (Gordon, Miner) with written close mastery and funnel-wide conversion diagnostics."
+
+  - fonte: "justin-goff"
+    path: "/knowledge/external/dna/persons/justin-goff"
+    peso_dominio: 0.75
+    elementos_contribuidos: 30
+    especialidade: "Cold traffic scaling for sales, upsell copy optimization, offer appeal validation before scaling, conversion killer elimination in sales funnels, proof-layering for cold audiences"
+    batches: ["JG-CA (Copy Accelerator — 60 total elements, 30 vendas-relevant — 2026-03-24)"]
+    nota: "Added 2026-03-24 from Copy Accelerator. Goff's contribution to vendas is diagnostic — identifying why sales funnels fail before they scale. Cold traffic scaling requires different sales copy than warm traffic. Offer appeal validation ensures the sales message resonates before spending on ads. Complements Haynes (agency sales process) and Hormozi (diagnostic sale) with cold-traffic-specific sales optimization."
 
 # ═══════════════════════════════════════════════════════════════════════════════
 # FILOSOFIAS CONSOLIDADAS (Top 15)

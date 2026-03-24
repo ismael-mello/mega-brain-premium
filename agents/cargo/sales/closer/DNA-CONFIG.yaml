@@ -17,7 +17,13 @@
 # ═══════════════════════════════════════════════════════════════════════════════
 
 cargo: "closer"
-versao: "5.4.0"
+versao: "5.6.0"
+# v5.6.0 (2026-03-24): Stefan Georgi updated 20→35 elements (+15 from RMBC Method, RMBC II, Profit Fix Formula)
+#                      - New SG domains: upsell-closing, AOV-optimization
+#                      - PFF adds upsell closing sequences and AOV optimization techniques applicable to verbal upsells
+# v5.5.0 (2026-03-24): Stefan Georgi (peso 0.65, 20 elements) + Justin Goff (peso 0.70, 25 elements) added
+#                      - SG domains: objection-handling, proof-stacking, closing-frameworks
+#                      - JG domains: offer-appeal, pricing-psychology, upsell-closing
 # v5.4.0 (2026-03-23): Jon Benson +3 sources (NOWVSL, 5MSLF, VSLFT18) — 1429 total elements, closing techniques (Grand Offer, Q&A Close, Two Choices, Parting Gift), objection handling, rapport building
 #                      - New domains: grand-offer-close, two-choices-close, parting-gift-close, rapport-storytelling, pricing-anchoring
 #                      - Key frameworks: Grand Offer Close, Two Choices Close, Parting Gift Close, Price Anchoring for verbal closes, Rapport via Storytelling
@@ -1059,6 +1065,32 @@ dna_sources:
             - "Pattern Interrupts: attention maintenance techniques for long sales conversations"
             - "Hook Frameworks: opening hooks for sales calls derived from VSL intro structures"
 
+    - pessoa: "stefan-georgi"
+      path: "/knowledge/external/dna/persons/stefan-georgi"
+      raiz: "/knowledge/external/sources/stefan-georgi/raw/"
+      total_elementos: 35
+      dominios_usados:
+        - "objection-handling"
+        - "proof-stacking"
+        - "closing-frameworks"
+        - "upsell-closing"
+        - "AOV-optimization"
+      peso: 0.65
+      quando_usar: "Objection handling via proof-stacking techniques, closing frameworks derived from direct-response copy structures, credibility building during sales conversations, upsell closing sequences from Profit Fix Formula, AOV optimization techniques applicable to verbal upsells"
+      added: "2026-03-24"
+
+    - pessoa: "justin-goff"
+      path: "/knowledge/external/dna/persons/justin-goff"
+      raiz: "/knowledge/external/sources/justin-goff/raw/"
+      total_elementos: 25
+      dominios_usados:
+        - "offer-appeal"
+        - "pricing-psychology"
+        - "upsell-closing"
+      peso: 0.70
+      quando_usar: "Offer appeal techniques for verbal pitches, pricing psychology for live closes, upsell closing sequences post-purchase"
+      added: "2026-03-24"
+
 # ═══════════════════════════════════════════════════════════════════════════════
 # MAPA DE CONFLITOS
 # ═══════════════════════════════════════════════════════════════════════════════
@@ -1232,5 +1264,5 @@ frameworks:
 #
 # ═══════════════════════════════════════════════════════════════════════════════
 
-# Fim do DNA-CONFIG.yaml v2.0.0
+# Fim do DNA-CONFIG.yaml v5.5.0
 # Integrado com AGENT-COGNITION-PROTOCOL (FASE 1.5) e AGENT-INTEGRITY-PROTOCOL

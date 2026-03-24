@@ -24,7 +24,13 @@
 # ═══════════════════════════════════════════════════════════════════════════════
 
 cargo: "CMO"
-versao: "29.0.0"
+versao: "31.0.0"
+# v31.0.0 (2026-03-24): Stefan Georgi updated 40→80 elements (+40 from RMBC Method, RMBC II, Profit Fix Formula)
+#                      - New SG domains: conversion-optimization, funnel-architecture, AI-copywriting, advertorials, email-sequences
+#                      - New SG frameworks: 15 Funnel Factors, Advertorial Framework, 6 Power Emails, Claude VSL Projects, Landing Page Checklist
+# v30.0.0 (2026-03-24): Stefan Georgi (peso 0.80, 40 elements) + Justin Goff (peso 0.85, 50 elements) added
+#                      - SG domains: copy-strategy, split-testing, ad-creatives
+#                      - JG domains: email-marketing, offer-positioning, cold-traffic-scaling
 # v29.0.0 (2026-03-23): Jon Benson +3 sources (NOWVSL, 5MSLF, VSLFT18) — 1429 total elements, copywriting, email marketing, hooks, headlines, market research, content strategy
 #                      - New domains: market-research, pre-launch-strategy, pattern-interrupts, funnel-copywriting, upsell-copywriting, hooks-headlines
 #                      - Key frameworks: NOW VSL Architecture, 5-Minute Sales Letter, VSL Formula Template, Pre-Launch Research System, Email Sequence Architecture
@@ -1321,6 +1327,35 @@ dna_sources:
             - "Funnel Copywriting: end-to-end copy architecture across funnel stages"
             - "Pattern Interrupts: attention maintenance techniques for long-form marketing content"
 
+    - pessoa: "stefan-georgi"
+      path: "/knowledge/external/dna/persons/stefan-georgi"
+      raiz: "/knowledge/external/sources/stefan-georgi/raw/"
+      total_elementos: 80
+      dominios_usados:
+        - "copy-strategy"
+        - "split-testing"
+        - "ad-creatives"
+        - "conversion-optimization"
+        - "funnel-architecture"
+        - "AI-copywriting"
+        - "advertorials"
+        - "email-sequences"
+      peso: 0.80
+      quando_usar: "Copy strategy for campaigns, split-testing methodology, ad creative optimization, RMBC-derived marketing copy, 15 Funnel Factors for conversion diagnostics, Advertorial Framework for native ad campaigns, 6 Power Emails for launch sequences, Claude VSL Projects for AI-assisted marketing copy, Landing Page Checklist for page optimization"
+      added: "2026-03-24"
+
+    - pessoa: "justin-goff"
+      path: "/knowledge/external/dna/persons/justin-goff"
+      raiz: "/knowledge/external/sources/justin-goff/raw/"
+      total_elementos: 50
+      dominios_usados:
+        - "email-marketing"
+        - "offer-positioning"
+        - "cold-traffic-scaling"
+      peso: 0.85
+      quando_usar: "Email marketing strategy, offer positioning for cold traffic, scaling paid acquisition with email monetization, big idea marketing campaigns"
+      added: "2026-03-24"
+
 # ═══════════════════════════════════════════════════════════════════════════════
 # MAPA DE CONFLITOS
 # ═══════════════════════════════════════════════════════════════════════════════
@@ -1463,5 +1498,5 @@ frameworks:
 #
 # ═══════════════════════════════════════════════════════════════════════════════
 
-# Fim do DNA-CONFIG.yaml v2.0.0
+# Fim do DNA-CONFIG.yaml v30.0.0
 # Integrado com AGENT-COGNITION-PROTOCOL (FASE 1.5) e AGENT-INTEGRITY-PROTOCOL

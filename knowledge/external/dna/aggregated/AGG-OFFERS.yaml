@@ -24,14 +24,16 @@
 # - Full Sales System (117 elementos) - Esteira de Produtos BR
 # - The Scalable Company (393 elementos) - Value Engines
 # - André Chaperon (45 elementos) - VPDC/JTBD offer creation, audience-offer fit
+# - Stefan Georgi (60 elementos) - AOV Money Close, offer architecture, 15 Funnel Factors, pricing test framework
+# - Justin Goff (80 elementos) - OLAF Method, Hell Yes Offer, Offer Appeal Assessment
 #
 # ═══════════════════════════════════════════════════════════════════════════════
 
 dominio: "offers"
-versao: "17.0.0"  # Jon Benson NOWVSL+5MSLF+VSLFT18 added (+65 offer elements: advanced offer sequencing in VSL, neuro-marketing offer presentation, duality pricing psychology, $5M offer architecture, pricing strategy frameworks, offer hook engineering, Super Bonus methodology). JB total now 125 offer elements (6 sources)
-total_elementos: 983
+versao: "20.0.0"  # Stefan Georgi updated 25→60 el (+35 from RMBC Method, RMBC II, Profit Fix Formula). New: 15 Funnel Factors for offer positioning, offer complexity scoring, landing page type matching, pricing test framework from PFF.
+total_elementos: 1123
 criado_em: "2026-01-10T19:30:00Z"
-atualizado_em: "2026-03-23"
+atualizado_em: "2026-03-24"
 
 # ═══════════════════════════════════════════════════════════════════════════════
 # FONTES CONSOLIDADAS COM PESOS POR DOMÍNIO
@@ -153,6 +155,54 @@ fontes_consolidadas:
       - "$5M Sales Letter Formula (25 offer elementos — duality pricing psychology, $5M offer architecture for sales pages, Super Bonus methodology, Parting Gift offer structure, price justification via pain/pleasure contrast, guarantee frameworks for long-form sales letters)"
       - "VSL Fast Track 2018 (15 offer elementos — market research-driven offer positioning, offer hook engineering, pricing strategy frameworks, Two Choices offer close architecture, offer-market fit validation)"
     note: "Updated 2026-03-23 with NOWVSL+5MSLF+VSLFT18 — +65 offer elements. JB now has 125 total offer elements across 6 sources. NOWVSL adds neuro-marketing offer presentation (how to TIME and FRAME the offer inside a VSL for maximum conversion). 5MSLF adds duality pricing and Super Bonus methodology (systematic bonus architecture that amplifies perceived value). VSLFT18 adds market research-driven offer positioning (ensuring offer-market fit BEFORE writing). Combined with TCB's foundational offer copy craft, JB provides the most complete WRITTEN OFFER methodology in the system. Complements Hormozi (value equation), Brown (offer engineering), Brunson (stacking), and Chaperon (VPDC) with the copywriting execution layer."
+
+  - fonte: "stefan-georgi"
+    peso_dominio: 0.75
+    path: "/knowledge/external/dna/persons/stefan-georgi/"
+    contribuicao_principal: "Offer architecture within sales letters, AOV Money Close (maximizing average order value via copy), upsell copy templates, price testing frameworks for offers, 15 Funnel Factors for offer positioning, offer complexity scoring, landing page type matching for offer presentation, checkout optimization for offer conversion"
+    elementos_relevantes: 60
+    fontes_incluidas:
+      - "Copy Accelerator (25 offer elementos — AOV Money Close system, upsell copy templates, offer architecture in sales letters, price split-testing methodology, offer presentation within RMBC framework)"
+      - "RMBC Method (10 offer elementos — offer-mechanism alignment, offer positioning in sales letters, research-driven offer validation)"
+      - "RMBC II (10 offer elementos — multi-channel offer presentation, offer adaptation across formats, advanced offer framing)"
+      - "Profit Fix Formula (15 offer elementos — 15 Funnel Factors for offer positioning diagnostics, offer complexity scoring, landing page type matching for offer presentation, pricing test framework, checkout optimization, upsell page architecture)"
+    key_frameworks:
+      - "AOV Money Close (systematic approach to maximizing average order value through close copy)"
+      - "15 Funnel Factors — Offer Positioning (diagnostic for how offer is positioned across funnel touchpoints)"
+      - "Offer Complexity Scoring (framework for matching offer complexity to audience sophistication)"
+      - "Landing Page Type Matching (matching landing page format to offer type for max conversion)"
+      - "Upsell Copy Templates (structured upsell page/sequence copy frameworks)"
+      - "Price Testing Framework (split-testing price points and offer configurations)"
+    domains:
+      - "offer-architecture"
+      - "AOV-optimization"
+      - "upsell-copy"
+      - "price-testing"
+      - "offer-positioning"
+      - "checkout-optimization"
+      - "landing-page-matching"
+    nota: "Updated 2026-03-24 with 3 new sources (+35 offer elements). Georgi's offer contribution expanded with Profit Fix Formula adding funnel-level offer diagnostics (15 Funnel Factors), offer complexity scoring, and landing page type matching. RMBC Method and RMBC II add offer-mechanism alignment and multi-channel offer presentation. Complements Hormozi's value equation with the copywriting execution layer of offer presentation plus funnel-wide offer positioning diagnostics."
+
+  - fonte: "justin-goff"
+    peso_dominio: 0.95  # Offer engineering is Goff's PRIMARY domain in Copy Accelerator
+    path: "/knowledge/external/dna/persons/justin-goff/"
+    contribuicao_principal: "OLAF Method (Offer-Lead-Ad-Funnel), Hell Yes Offer framework, 3 Universal Upsell Types, Offer Appeal Assessment methodology, 8 Biggest Mistakes in offer creation, offer-market fit validation, pricing psychology for cold traffic, AOV optimization strategies"
+    elementos_relevantes: 80
+    fontes_incluidas:
+      - "Copy Accelerator (80 offer elementos — OLAF Method, Hell Yes Offer, 3 Universal Upsell Types, Offer Appeal Assessment, 8 Biggest Offer Mistakes, offer-market fit validation, pricing psychology, AOV optimization, cold traffic offer engineering, offer appeal scoring)"
+    key_frameworks:
+      - "OLAF Method (Offer → Lead → Ad → Funnel — offer-first business architecture)"
+      - "Hell Yes Offer (framework for creating offers so compelling the prospect can't say no)"
+      - "3 Universal Upsell Types (systematic upsell architecture for any business)"
+      - "Offer Appeal Assessment (scoring methodology to validate offer appeal before scaling)"
+      - "8 Biggest Offer Mistakes (diagnostic framework for failing offers)"
+    domains:
+      - "offer-engineering"
+      - "upsell-optimization"
+      - "offer-appeal"
+      - "pricing-psychology"
+      - "AOV"
+    nota: "Added 2026-03-24 from Copy Accelerator. Justin Goff is the PRIMARY offer strategist from Copy Accelerator. His OLAF Method inverts the typical funnel-first approach — start with the offer, then build everything else around it. Hell Yes Offer complements Hormozi's Grand Slam Offer with a different diagnostic lens. The 3 Universal Upsell Types and Offer Appeal Assessment provide systematic tools for offer optimization. The 8 Biggest Mistakes framework is diagnostic — identifying why offers fail before trying to fix copy. Combined with Hormozi (value equation), Brown (offer engineering), Brunson (stacking), and Benson (written offer presentation), Goff adds the strategic/diagnostic layer of offer creation."
 
 # ═══════════════════════════════════════════════════════════════════════════════
 # FILOSOFIAS CONSOLIDADAS (Cross-Source)
