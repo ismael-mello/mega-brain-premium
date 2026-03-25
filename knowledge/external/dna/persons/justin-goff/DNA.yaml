@@ -1,0 +1,635 @@
+# DNA COGNITIVO — JUSTIN GOFF
+# Fonte: Copy Accelerator (759 arquivos, 14 secoes)
+# Total: 110 elementos
+# Versao: v1.0.0
+# Data: 2026-03-24
+
+metadata:
+  person: Justin Goff
+  version: "v1.0.0"
+  total_elements: 110
+  sources:
+    - id: JG-CA
+      name: Copy Accelerator
+      type: COURSE
+      files: 759
+      sections: 14
+  layer_counts:
+    philosophies: 28
+    mental_models: 19
+    heuristics: 35
+    frameworks: 17
+    methodologies: 11
+  domains:
+    - aov-optimization
+    - annual-planning
+    - cold-traffic
+    - direct-response
+    - email-marketing
+    - freelancer-business
+    - offer-architecture
+    - offer-appeal
+    - pricing-psychology
+    - scaling
+    - split-testing
+    - subject-lines
+    - upsell-engineering
+    - buyer-psychology
+    - business-strategy
+    - conversion-optimization
+    - ad-testing
+    - copywriting-business
+    - funnel-design
+    - market-selection
+    - revenue-optimization
+
+voice:
+  style: "direct, data-driven, results-focused, entrepreneurial"
+  formality: "casual, entrepreneur-to-entrepreneur, no BS"
+  humor: "dry wit, business anecdotes, real numbers"
+  stories: "Patriot Health Alliance results, member wins, offer case studies"
+  vocabulary:
+    - "offer appeal"
+    - "cold traffic"
+    - "scale"
+    - "upsell"
+    - "AOV"
+    - "OLAF"
+    - "hell yes offer"
+    - "10-star opportunity"
+    - "mediocre offer"
+    - "needle mover"
+
+connections:
+  - person: Stefan Georgi
+    relationship: "Co-founder of Copy Accelerator. Stefan = copy mastery, Justin = business/offer side. Complementary — SG writes the words, JG architects the offer and scaling."
+  - person: Todd Brown
+    relationship: "Big Idea influence. Todd's E5 Method and Big Idea frameworks inform JG's Big Idea Formula approach. Shared direct response lineage."
+  - person: Alex Hormozi
+    relationship: "Parallel offer engineering philosophy. Hormozi's Grand Slam Offer aligns with JG's Offer Appeal Is King. Both obsessed with making irresistible offers before writing copy."
+  - person: Dan Kennedy
+    relationship: "Direct response roots. JG's data-driven, no-BS approach and focus on numbers over feelings traces back to Kennedy's hard-nosed direct response marketing tradition."
+
+layers:
+
+  L1_PHILOSOPHIES:
+    - id: "FIL-JG-001"
+      title: "Offer Appeal Is King"
+      content: "No amount of copy can fix a bad offer. The appeal of the offer — how badly people WANT it — is the single biggest determinant of success on cold traffic. A great offer with mediocre copy will outperform a mediocre offer with great copy every single time."
+      source: "CA-Offer-Architecture"
+      domains: [offer-appeal, cold-traffic, scaling]
+    - id: "FIL-JG-002"
+      title: "AOV Is The Scaling Lever"
+      content: "You don't scale by getting more traffic. You scale by increasing Average Order Value. If your AOV goes from $47 to $147, you just tripled what you can afford to pay for a customer. AOV is the lever that makes cold traffic profitable."
+      source: "CA-Upsell-Engineering"
+      domains: [aov-optimization, scaling, upsell-engineering]
+    - id: "FIL-JG-003"
+      title: "Upsell Before Product"
+      content: "Plan your upsell sequence BEFORE you build your front-end product. The upsell is not an afterthought — it's the profit center. The front-end offer acquires the customer; the upsell is where you make your money."
+      source: "CA-Upsell-Engineering"
+      domains: [upsell-engineering, offer-architecture, business-strategy]
+    - id: "FIL-JG-004"
+      title: "Copy Can't Fix Bad Offers"
+      content: "I've seen copywriters spend months polishing copy for an offer that was dead on arrival. No headline, no lead, no story can overcome an offer people don't want. Fix the offer first, then worry about the copy."
+      source: "CA-Offer-Architecture"
+      domains: [offer-appeal, copywriting-business, direct-response]
+    - id: "FIL-JG-005"
+      title: "The Data Rules All"
+      content: "I don't care what you think will work. I don't care what your gut says. The data rules all. Test it, measure it, let the numbers decide. Emotions have no place in marketing decisions — only data."
+      source: "CA-Testing-Strategy"
+      domains: [split-testing, cold-traffic, scaling]
+    - id: "FIL-JG-006"
+      title: "Revenue Is The Only Metric That Matters For Email"
+      content: "Open rates, click rates — they're vanity metrics. The only thing that matters is revenue per email sent. I've seen emails with terrible open rates that crushed revenue, and emails with amazing engagement that made zero dollars."
+      source: "CA-Email-Marketing"
+      domains: [email-marketing, revenue-optimization, split-testing]
+    - id: "FIL-JG-007"
+      title: "Human Beings Do Not Change"
+      content: "The same emotions that drove people to buy 100 years ago drive them today. Fear, greed, vanity, desire for belonging — these are constants. B2B or B2C, the buyer is still a human being with the same emotional triggers. Don't overthink it."
+      source: "CA-Buyer-Psychology"
+      domains: [buyer-psychology, direct-response, copywriting-business]
+    - id: "FIL-JG-008"
+      title: "Better To Bomb Fast Than String Along With Mediocre"
+      content: "A mediocre offer that limps along for 8-10 months on cold traffic is worse than an offer that bombs in week one. At least the bomb gives you a clear signal. Mediocre strings you along, bleeds your budget, and wastes your time."
+      source: "CA-Cold-Traffic"
+      domains: [cold-traffic, offer-appeal, business-strategy]
+    - id: "FIL-JG-009"
+      title: "WANT vs NEED"
+      content: "People buy what they WANT, not what they NEED. Cookies and cakes sell themselves. Fennel chicken is healthy and good for you — nobody wants it. Your offer has to tap into what people already desire, not what they should want."
+      source: "CA-Offer-Architecture"
+      domains: [offer-appeal, buyer-psychology, market-selection]
+    - id: "FIL-JG-010"
+      title: "Focus On One Or Two Things"
+      content: "Most entrepreneurs fail because they chase too many things. I look at my business and ask: what are the 10-star opportunities? Not the 7s, not the 8s — the 10s. Then I focus on one or two of those and ignore everything else."
+      source: "CA-Annual-Planning"
+      domains: [annual-planning, business-strategy, scaling]
+    - id: "FIL-JG-011"
+      title: "Don't Reinvent The Wheel"
+      content: "The best offers in the market are already proven. Study what's working, understand why it works, and adapt it. Don't try to be original for originality's sake. Original doesn't pay the bills — proven does."
+      source: "CA-Offer-Architecture"
+      domains: [offer-appeal, cold-traffic, direct-response]
+    - id: "FIL-JG-012"
+      title: "Your Front-End Is A Customer Acquisition Tool"
+      content: "Stop trying to make profit on the front-end. The front-end exists to acquire a customer at breakeven or a small loss. The real money is in the upsell sequence and the back-end. Once you accept this, your entire strategy changes."
+      source: "CA-Upsell-Engineering"
+      domains: [upsell-engineering, scaling, funnel-design]
+    - id: "FIL-JG-013"
+      title: "Speed Of Testing Is Speed Of Scaling"
+      content: "The faster you can test offers and ads, the faster you'll find what works and scale. Most businesses test too slowly. They spend weeks deliberating when they should be spending days launching and measuring."
+      source: "CA-Testing-Strategy"
+      domains: [split-testing, cold-traffic, scaling]
+    - id: "FIL-JG-014"
+      title: "The Market Tells You What It Wants"
+      content: "Stop guessing what the market wants. Run the ads, look at the data, and the market will tell you. Your job is to listen and respond, not to impose your vision of what should work."
+      source: "CA-Cold-Traffic"
+      domains: [cold-traffic, split-testing, market-selection]
+    - id: "FIL-JG-015"
+      title: "Simplicity Scales"
+      content: "Complex funnels, complex offers, complex upsell sequences — they don't scale. Simplicity scales. If you can't explain your offer in one sentence, it's too complicated."
+      source: "CA-Offer-Architecture"
+      domains: [offer-architecture, scaling, funnel-design]
+    - id: "FIL-JG-016"
+      title: "Email Is The Most Undervalued Channel"
+      content: "Everyone chases the shiny new platform. Email is still the highest ROI channel in marketing. I built Patriot Health Alliance on the back of email. It's not sexy, but it works."
+      source: "CA-Email-Marketing"
+      domains: [email-marketing, revenue-optimization, direct-response]
+    - id: "FIL-JG-017"
+      title: "Offer Engineering Is A Skill, Not An Art"
+      content: "People treat offer creation like it's some mystical art. It's not. It's engineering. There are principles, there are formulas, there are testable components. Learn the skill, apply the formulas, test the results."
+      source: "CA-Offer-Architecture"
+      domains: [offer-architecture, offer-appeal, business-strategy]
+    - id: "FIL-JG-018"
+      title: "Your Biggest Competitor Is Indifference"
+      content: "Your biggest competitor isn't the other guy selling a similar product. It's indifference. Your prospect doesn't care about your product. They have a thousand other things competing for their attention. Your job is to break through indifference."
+      source: "CA-Cold-Traffic"
+      domains: [cold-traffic, offer-appeal, buyer-psychology]
+    - id: "FIL-JG-019"
+      title: "Test The Offer Before The Copy"
+      content: "Before you spend money on a great copywriter, test the offer concept. A simple landing page, a basic ad, a straightforward pitch. If the offer concept doesn't pull, no amount of copy polish will save it."
+      source: "CA-Testing-Strategy"
+      domains: [offer-appeal, split-testing, cold-traffic]
+    - id: "FIL-JG-020"
+      title: "The Best Upsell Feels Like A Favor"
+      content: "When your upsell is positioned right, the customer doesn't feel sold to — they feel like you just did them a favor. You're helping them get results faster, easier, or more completely. That's the gold standard."
+      source: "CA-Upsell-Engineering"
+      domains: [upsell-engineering, buyer-psychology, offer-architecture]
+    - id: "FIL-JG-021"
+      title: "Back-End Revenue Funds Front-End Aggression"
+      content: "The businesses that can spend the most to acquire a customer win. And the way you spend the most is by having a killer back-end. Your upsell sequence and back-end offers fund your ability to be aggressive on cold traffic."
+      source: "CA-Scaling"
+      domains: [scaling, upsell-engineering, cold-traffic]
+    - id: "FIL-JG-022"
+      title: "Numbers Tell Stories That Feelings Can't"
+      content: "When I look at a funnel, I'm looking at numbers. What's the front-end conversion? What's the upsell take rate? What's the refund rate? These numbers tell me exactly what's wrong and what to fix. Feelings and opinions don't."
+      source: "CA-Testing-Strategy"
+      domains: [split-testing, revenue-optimization, scaling]
+    - id: "FIL-JG-023"
+      title: "Scaling Is A Math Problem"
+      content: "Scaling isn't a strategy problem or a creative problem. It's a math problem. Can you acquire a customer for less than they're worth? If yes, scale. If no, fix the math. That's it."
+      source: "CA-Scaling"
+      domains: [scaling, aov-optimization, cold-traffic]
+    - id: "FIL-JG-024"
+      title: "The Offer Is The Strategy"
+      content: "Most people think strategy is about channels, tactics, and clever marketing moves. The real strategy is the offer itself. Get the offer right and the tactics almost don't matter. Get the offer wrong and no tactic will save you."
+      source: "CA-Offer-Architecture"
+      domains: [offer-architecture, business-strategy, cold-traffic]
+    - id: "FIL-JG-025"
+      title: "Proven Beats Clever"
+      content: "I'd rather run a proven offer type with a proven structure than try to be clever and original. The graveyard of marketing is filled with clever ideas. The bank accounts of successful marketers are filled with proven formulas."
+      source: "CA-Cold-Traffic"
+      domains: [direct-response, offer-appeal, cold-traffic]
+    - id: "FIL-JG-026"
+      title: "Subject Lines Are The Ad For Your Email"
+      content: "Your subject line is the ad for your email. If the first few words don't grab attention in a crowded inbox, the email is dead. Treat subject line writing with the same seriousness as headline writing."
+      source: "CA-Email-Marketing"
+      domains: [email-marketing, subject-lines, copywriting-business]
+    - id: "FIL-JG-027"
+      title: "Every Business Has A Ceiling Set By Its Offer"
+      content: "Your business will never outgrow its offer. If the offer appeals to a small niche with limited desire, that's your ceiling. If the offer taps into a massive desire with broad appeal, the ceiling is almost infinite."
+      source: "CA-Offer-Architecture"
+      domains: [offer-appeal, scaling, market-selection]
+    - id: "FIL-JG-028"
+      title: "Winners Optimize, Losers Redesign"
+      content: "When something is working, don't redesign it — optimize it. Small improvements to a working system compound over time. Too many marketers throw away what's working to chase the next shiny thing."
+      source: "CA-Scaling"
+      domains: [scaling, split-testing, business-strategy]
+
+  L2_MENTAL_MODELS:
+    - id: "MM-JG-001"
+      title: "Offer Appeal Spectrum"
+      content: "Every offer sits somewhere on an appeal spectrum from 'nobody wants this' to 'shut up and take my money.' PaleoSweets (400K sales) vs PaleoPlenty (2K sales) — same audience, same traffic, same copywriter. The difference was pure offer appeal. Your job is to move your offer up the spectrum."
+      source: "CA-Offer-Architecture"
+      domains: [offer-appeal, market-selection, cold-traffic]
+    - id: "MM-JG-002"
+      title: "The AOV Multiplier Effect"
+      content: "Think of AOV as a multiplier on everything in your business. Double your AOV and you've doubled what you can spend on traffic, doubled your margin per customer, and doubled your ability to outbid competitors. It's the single most leveraged number in your funnel."
+      source: "CA-Upsell-Engineering"
+      domains: [aov-optimization, scaling, upsell-engineering]
+    - id: "MM-JG-003"
+      title: "Front-End / Back-End Economics"
+      content: "The front-end is the door. The back-end is the house. You don't live in the door. The front-end gets customers in; the back-end is where value is exchanged, relationships are built, and real revenue is generated."
+      source: "CA-Scaling"
+      domains: [funnel-design, scaling, upsell-engineering]
+    - id: "MM-JG-004"
+      title: "Credit Card Knife vs Water Report"
+      content: "The credit card knife converted at 14.5%. The free water quality report converted at 2.3%. Same traffic quality, same media buying. 7x difference in conversion — purely because of offer appeal. This is the model I use to evaluate every offer before investing in copy."
+      source: "CA-Offer-Architecture"
+      domains: [offer-appeal, cold-traffic, conversion-optimization]
+    - id: "MM-JG-005"
+      title: "The 10-Star Opportunity Filter"
+      content: "Rate every opportunity in your business from 1-10. If it's not a 10-star opportunity, don't do it. Most entrepreneurs dilute their focus with 6s and 7s. Only 10-star opportunities deserve your time and resources."
+      source: "CA-Annual-Planning"
+      domains: [annual-planning, business-strategy, scaling]
+    - id: "MM-JG-006"
+      title: "The Bomb vs The Limp"
+      content: "An offer that bombs fast gives you clean data — it doesn't work, move on. An offer that limps along for months is the silent killer. It's just good enough to keep you hoping but never good enough to truly scale. The limp is more dangerous than the bomb."
+      source: "CA-Cold-Traffic"
+      domains: [cold-traffic, offer-appeal, split-testing]
+    - id: "MM-JG-007"
+      title: "Upsell Revenue Distribution"
+      content: "In any upsell sequence, upsell #1 generates 70-80% of all upsell revenue. Upsell #2 and beyond are diminishing returns. This means upsell #1 needs to be your absolute best offer — it's where the money is."
+      source: "CA-Upsell-Engineering"
+      domains: [upsell-engineering, aov-optimization, revenue-optimization]
+    - id: "MM-JG-008"
+      title: "The WANT/NEED Gap"
+      content: "There's a gap between what people want and what they need. The wider the gap, the harder it is to sell the 'need' product. Successful marketers bridge this gap by packaging 'need' products with 'want' positioning. Cookies vs fennel chicken."
+      source: "CA-Buyer-Psychology"
+      domains: [buyer-psychology, offer-appeal, market-selection]
+    - id: "MM-JG-009"
+      title: "Testing Velocity Model"
+      content: "Speed of learning = speed of earning. Every test you run is a data point. More tests = more data = faster learning = faster scaling. The business that runs 10 tests per week will outpace the business that runs 1 test per month, every single time."
+      source: "CA-Testing-Strategy"
+      domains: [split-testing, cold-traffic, scaling]
+    - id: "MM-JG-010"
+      title: "The Scaling Equation"
+      content: "Scaling is a simple equation: LTV > CPA. If lifetime value exceeds cost per acquisition, scale. If not, either increase LTV (through upsells and back-end) or decrease CPA (through better offers and ads). There's no third option."
+      source: "CA-Scaling"
+      domains: [scaling, aov-optimization, cold-traffic]
+    - id: "MM-JG-011"
+      title: "Email List As ATM Machine"
+      content: "Your email list is an ATM machine. Every name on that list has a dollar value. If you have 100K names and your average revenue per name per month is $0.50, that's $50K/month. Grow the list, increase revenue per name, or both."
+      source: "CA-Email-Marketing"
+      domains: [email-marketing, revenue-optimization, scaling]
+    - id: "MM-JG-012"
+      title: "The Three Universal Upsell Types"
+      content: "There are only three types of upsells that work universally: (1) Done For You — do it for them, (2) More Of The Same — bundle or increase quantity, (3) Get Results Faster — accelerate the outcome. Every successful upsell is a variation of one of these three."
+      source: "CA-Upsell-Engineering"
+      domains: [upsell-engineering, offer-architecture, aov-optimization]
+    - id: "MM-JG-013"
+      title: "Needle Mover Priority Matrix"
+      content: "In any funnel, there are a handful of needle movers — changes that move the revenue number significantly. Everything else is noise. Focus testing resources on the needle movers: offer, price, upsell #1, and email subject lines. Ignore button colors."
+      source: "CA-Testing-Strategy"
+      domains: [split-testing, revenue-optimization, scaling]
+    - id: "MM-JG-014"
+      title: "Cold Traffic Truth Filter"
+      content: "Cold traffic is the ultimate truth filter. Your warm audience will buy almost anything from you. Cold traffic doesn't know you, doesn't trust you, and doesn't care. If your offer works on cold traffic, it's genuinely good. If it doesn't, fix the offer."
+      source: "CA-Cold-Traffic"
+      domains: [cold-traffic, offer-appeal, scaling]
+    - id: "MM-JG-015"
+      title: "The Freelancer Leverage Ladder"
+      content: "Freelance copywriters should climb the leverage ladder: start with per-project fees, graduate to retainers, then add royalties. Each rung increases your income without proportionally increasing your work. The top of the ladder is equity in the businesses you write for."
+      source: "CA-Freelancer-Business"
+      domains: [freelancer-business, copywriting-business, pricing-psychology]
+    - id: "MM-JG-016"
+      title: "Offer Lifecycle Model"
+      content: "Every offer has a lifecycle: launch → growth → plateau → decline. Most marketers try to extend the decline phase. Smart marketers plan the next offer during the growth phase. You should always have your next offer in development when your current one is peaking."
+      source: "CA-Scaling"
+      domains: [offer-architecture, scaling, business-strategy]
+    - id: "MM-JG-017"
+      title: "Big Idea as Offer Differentiator"
+      content: "In a crowded market, the Big Idea is what makes your offer stand out. It's not the product features, not the price, not the bonuses — it's the unique story + mechanism + promise combination that makes people say 'I've never heard that before.'"
+      source: "CA-Big-Idea"
+      domains: [offer-appeal, direct-response, cold-traffic]
+    - id: "MM-JG-018"
+      title: "The Email Arsenal Model"
+      content: "You need an arsenal of email types, not just one approach. Content emails, story emails, curiosity emails, direct pitch emails, re-engagement emails, and flash sale emails. Different situations call for different weapons. Monotony kills email revenue."
+      source: "CA-Email-Marketing"
+      domains: [email-marketing, revenue-optimization, copywriting-business]
+    - id: "MM-JG-019"
+      title: "Market Temperature Gauge"
+      content: "Before creating any offer, gauge the market temperature: How aware are they? How sophisticated are they? How much do they WANT a solution? A hot market (high desire, low sophistication) is gold. A cold market (low desire, high sophistication) requires a fundamentally different approach."
+      source: "CA-Cold-Traffic"
+      domains: [cold-traffic, market-selection, offer-appeal]
+
+  L3_HEURISTICS:
+    - id: "HEUR-JG-001"
+      title: "Great Upsells Convert 30-50% On Upsell #1"
+      content: "If your upsell #1 is converting below 30%, something is wrong — either the offer, the positioning, or the congruence with the front-end. A well-constructed upsell #1 should hit 30-50% conversion rate. Below 30% means rethink the offer entirely."
+      source: "CA-Upsell-Engineering"
+      domains: [upsell-engineering, conversion-optimization, aov-optimization]
+    - id: "HEUR-JG-002"
+      title: "Upsell #1 Generates 70-80% Of All Upsell Revenue"
+      content: "Don't spread your creative energy evenly across all upsells. Upsell #1 is where 70-80% of the money comes from. Put your best offer, best copy, and best positioning on upsell #1. Everything after that is gravy."
+      source: "CA-Upsell-Engineering"
+      domains: [upsell-engineering, aov-optimization, revenue-optimization]
+    - id: "HEUR-JG-003"
+      title: "1000 Buyers Per Day Threshold For True Scale"
+      content: "If you want to truly scale on cold traffic, you need an offer that can generate 1000+ buyers per day. Below that, you're running a nice business but you're not at scale. The 1000/day threshold separates lifestyle businesses from empires."
+      source: "CA-Scaling"
+      domains: [scaling, cold-traffic, offer-appeal]
+    - id: "HEUR-JG-004"
+      title: "Credit Card Knife 14.5% vs Water Report 2.3% — 7x On Appeal"
+      content: "The credit card knife offer converted at 14.5% on cold traffic. The free water quality report converted at 2.3%. Same media, same traffic quality. 7x difference — purely offer appeal. This is why I obsess over appeal before I obsess over copy."
+      source: "CA-Offer-Architecture"
+      domains: [offer-appeal, cold-traffic, conversion-optimization]
+    - id: "HEUR-JG-005"
+      title: "PaleoSweets 400K vs PaleoPlenty 2K — Appeal Difference"
+      content: "PaleoSweets (a paleo cookie recipe book) sold 400,000 copies. PaleoPlenty (a general paleo recipe book) sold 2,000 copies. Same audience, same traffic, same copywriter. The ONLY difference was the offer appeal. Cookies beat healthy recipes 200:1."
+      source: "CA-Offer-Architecture"
+      domains: [offer-appeal, market-selection, buyer-psychology]
+    - id: "HEUR-JG-006"
+      title: "8-10 Months Without Scaling On Cold Traffic = Mediocre Appeal"
+      content: "If you've been running an offer on cold traffic for 8-10 months and you still can't scale, the offer has mediocre appeal. Kill it. Don't keep hoping. Don't keep tweaking the copy. The market has spoken — it doesn't want your offer badly enough."
+      source: "CA-Cold-Traffic"
+      domains: [cold-traffic, offer-appeal, business-strategy]
+    - id: "HEUR-JG-007"
+      title: "OLAF Can Produce 44% Upsell Conversion Rates"
+      content: "When you apply the OLAF method correctly — optimizing Offer, Length, Opening, and Format — you can achieve upsell conversion rates of 44% or higher. I've seen it repeatedly with members who implement all four components properly."
+      source: "CA-Upsell-Engineering"
+      domains: [upsell-engineering, conversion-optimization, aov-optimization]
+    - id: "HEUR-JG-008"
+      title: "Done-For-You Upsell Converts Best For Info Products"
+      content: "For information products, the done-for-you upsell consistently outperforms more-of-the-same and get-results-faster variations. People buy info products but secretly wish someone would just do it for them. Grant that wish as upsell #1."
+      source: "CA-Upsell-Engineering"
+      domains: [upsell-engineering, offer-architecture, conversion-optimization]
+    - id: "HEUR-JG-009"
+      title: "$97 Front-End To $297 Upsell At 30% Is Achievable"
+      content: "A $97 front-end offer with a $297 upsell at 30% take rate is a very achievable benchmark. That puts your AOV at roughly $186 per buyer. At that AOV, you can afford $50-80 CPAs on cold traffic and still be very profitable."
+      source: "CA-Upsell-Engineering"
+      domains: [upsell-engineering, aov-optimization, pricing-psychology]
+    - id: "HEUR-JG-010"
+      title: "Write 4-8 Email Variants, Test All, Weed Out Losers Fast"
+      content: "Don't write one email and hope it works. Write 4-8 variants with different angles, hooks, and stories. Send them all. The data will tell you which ones work. Kill the losers fast and double down on the winners."
+      source: "CA-Email-Marketing"
+      domains: [email-marketing, split-testing, revenue-optimization]
+    - id: "HEUR-JG-011"
+      title: "Subject Line First Words Must Grab — Not Be Normal"
+      content: "In a crowded inbox, the first 3-5 words of your subject line determine whether the email gets opened. Those words can't be normal, can't be expected, can't sound like every other email. They need to pattern-interrupt."
+      source: "CA-Email-Marketing"
+      domains: [email-marketing, subject-lines, copywriting-business]
+    - id: "HEUR-JG-012"
+      title: "Upsell Must Be Congruent With Front-End Purchase"
+      content: "An incongruent upsell kills conversion and increases refunds. If someone just bought a weight loss guide, the upsell should enhance that outcome — not pivot to a completely different topic. Congruence is non-negotiable."
+      source: "CA-Upsell-Engineering"
+      domains: [upsell-engineering, offer-architecture, conversion-optimization]
+    - id: "HEUR-JG-013"
+      title: "First 30 Seconds Of Upsell Page Determine Conversion"
+      content: "Most people decide to stay or leave your upsell page in the first 30 seconds. The opening must immediately reinforce the good decision they just made, then transition into the upsell pitch. Start with congratulations, not a new pitch."
+      source: "CA-Upsell-Engineering"
+      domains: [upsell-engineering, conversion-optimization, buyer-psychology]
+    - id: "HEUR-JG-014"
+      title: "Patriot Health Alliance $23M+ Built On Upsell Sequences"
+      content: "Patriot Health Alliance did $23M+ in revenue. The front-end was often at or near breakeven. The entire profit came from the upsell sequence and back-end. This is not theory — this is how I built the business."
+      source: "CA-Scaling"
+      domains: [upsell-engineering, scaling, aov-optimization]
+    - id: "HEUR-JG-015"
+      title: "Hell Yes Or No — No Maybes In Offer Testing"
+      content: "When you show someone your offer, the response should be 'hell yes.' If it's 'maybe' or 'that's interesting,' it's not good enough for cold traffic. Cold traffic doesn't give you the benefit of the doubt. It's hell yes or nothing."
+      source: "CA-Offer-Architecture"
+      domains: [offer-appeal, cold-traffic, split-testing]
+    - id: "HEUR-JG-016"
+      title: "Video Upsell Pages Outperform Text-Only For Physical Products"
+      content: "For physical product offers, video upsell pages consistently outperform text-only upsell pages. People want to see the product, see the demonstration, see the results. For info products, text can work fine."
+      source: "CA-Upsell-Engineering"
+      domains: [upsell-engineering, conversion-optimization, funnel-design]
+    - id: "HEUR-JG-017"
+      title: "One Main Benefit Per Upsell — Not A Laundry List"
+      content: "Each upsell should focus on ONE main benefit. Not five benefits, not a long feature list. One clear, compelling benefit that connects to what they just bought. Clarity beats comprehensiveness on upsell pages."
+      source: "CA-Upsell-Engineering"
+      domains: [upsell-engineering, offer-architecture, conversion-optimization]
+    - id: "HEUR-JG-018"
+      title: "Email Frequency: More Is Almost Always Better For Revenue"
+      content: "Most businesses email too little, not too much. When I increased Patriot Health Alliance's email frequency, revenue went up. Unsubscribes went up too, but revenue per subscriber went way up. Revenue wins."
+      source: "CA-Email-Marketing"
+      domains: [email-marketing, revenue-optimization, scaling]
+    - id: "HEUR-JG-019"
+      title: "Price Is Not The Objection — Value Perception Is"
+      content: "When someone says your product is too expensive, the real problem is value perception. They don't see enough value for the price. The fix is not to lower the price — it's to increase the perceived value through better positioning, better bonuses, or better framing."
+      source: "CA-Offer-Architecture"
+      domains: [pricing-psychology, offer-appeal, buyer-psychology]
+    - id: "HEUR-JG-020"
+      title: "Test Offers Before Testing Copy"
+      content: "In split testing priority, test the offer concept first, the price second, the headline third, and the body copy last. Most people reverse this order. An offer-level test will move the needle 10x more than a headline test."
+      source: "CA-Testing-Strategy"
+      domains: [split-testing, offer-appeal, cold-traffic]
+    - id: "HEUR-JG-021"
+      title: "Downsell Should Be 60-70% Of Upsell Price"
+      content: "When someone declines the upsell, hit them with a downsell at 60-70% of the upsell price. Same product, lower price — or a stripped-down version. This recovers 15-25% of people who said no to the full upsell."
+      source: "CA-Upsell-Engineering"
+      domains: [upsell-engineering, pricing-psychology, aov-optimization]
+    - id: "HEUR-JG-022"
+      title: "Front-End Conversion Below 1% On Cold = Offer Problem"
+      content: "If your front-end offer is converting below 1% on cold traffic, the issue is almost certainly the offer, not the copy. At 1% or above, copy optimization starts to make a real difference. Below 1%, fix the offer."
+      source: "CA-Cold-Traffic"
+      domains: [cold-traffic, offer-appeal, conversion-optimization]
+    - id: "HEUR-JG-023"
+      title: "Stack The Value 10x The Price"
+      content: "Your offer stack should communicate at least 10x the value of the price. If you're charging $97, the perceived value of everything included should be $970+. This is not about inflated values — it's about real components that justify the math."
+      source: "CA-Offer-Architecture"
+      domains: [offer-architecture, pricing-psychology, offer-appeal]
+    - id: "HEUR-JG-024"
+      title: "Reply Emails Drive More Revenue Than Broadcast Emails"
+      content: "Personal-style reply emails — the ones that look like they came from a person, not a brand — consistently outperform polished broadcast emails for revenue. Ugly beats pretty in email marketing."
+      source: "CA-Email-Marketing"
+      domains: [email-marketing, revenue-optimization, direct-response]
+    - id: "HEUR-JG-025"
+      title: "Refund Rate Above 15% = Offer-Market Mismatch"
+      content: "If your refund rate exceeds 15%, you have an offer-market mismatch. Either you're attracting the wrong buyers, overpromising in the copy, or the product doesn't deliver on the promise. Fix it before scaling."
+      source: "CA-Scaling"
+      domains: [scaling, offer-appeal, conversion-optimization]
+    - id: "HEUR-JG-026"
+      title: "The Best Cold Traffic Ad Looks Like Content"
+      content: "On cold traffic, the ads that perform best don't look like ads. They look like content — a story, a useful tip, a surprising fact. The moment someone recognizes it as an ad, their defenses go up."
+      source: "CA-Cold-Traffic"
+      domains: [cold-traffic, ad-testing, direct-response]
+    - id: "HEUR-JG-027"
+      title: "Scarcity Must Be Real Or Don't Use It"
+      content: "Fake scarcity destroys trust. If you say 'only 50 spots available,' there better be only 50 spots. Real scarcity works. Fake scarcity works once and then poisons your list forever."
+      source: "CA-Offer-Architecture"
+      domains: [offer-architecture, buyer-psychology, email-marketing]
+    - id: "HEUR-JG-028"
+      title: "Guarantees Remove The Last Barrier"
+      content: "A strong guarantee is the final push that converts fence-sitters. But only if the offer is already appealing. A guarantee on a bad offer just increases refunds. On a good offer, it increases conversions more than it increases refunds."
+      source: "CA-Offer-Architecture"
+      domains: [offer-architecture, conversion-optimization, buyer-psychology]
+    - id: "HEUR-JG-029"
+      title: "Test 6 Ad Angles Minimum On Any New Campaign"
+      content: "When launching a new campaign on cold traffic, test at least 6 different ad angles simultaneously. Different hooks, different audiences, different emotional triggers. Most of them will fail — you need enough in the mix to find the winner."
+      source: "CA-Ad-Testing"
+      domains: [ad-testing, cold-traffic, split-testing]
+    - id: "HEUR-JG-030"
+      title: "Winning Ad Angle Is Worth More Than Winning Copy"
+      content: "A winning ad angle — the core emotional trigger and hook — is more valuable than polished copy. I've seen rough, ugly ads with the right angle crush beautifully written ads with the wrong angle."
+      source: "CA-Ad-Testing"
+      domains: [ad-testing, cold-traffic, direct-response]
+    - id: "HEUR-JG-031"
+      title: "Annual Planning: Schedule Q4 Goals In January"
+      content: "Your year is won or lost in Q1 planning. By January, I want to know my 10-star opportunities for the year, my Q4 revenue targets, and the specific offers that will get us there. Most people plan in Q4 for Q1 — that's backwards."
+      source: "CA-Annual-Planning"
+      domains: [annual-planning, business-strategy, scaling]
+    - id: "HEUR-JG-032"
+      title: "Freelancer Should Raise Prices After Every Successful Project"
+      content: "If a client is happy with your work, your next project should be at a higher price. Not 5% higher — significantly higher. The freelancers who stay stuck at the same rates are the ones afraid to test the market's willingness to pay."
+      source: "CA-Freelancer-Business"
+      domains: [freelancer-business, pricing-psychology, copywriting-business]
+    - id: "HEUR-JG-033"
+      title: "Story-Based Ads Outperform Direct Pitch Ads On Cold Traffic"
+      content: "On cold traffic, story-based ads consistently outperform direct pitch ads. People on social media are there for content, not for offers. A story pulls them in before they realize they're being marketed to."
+      source: "CA-Cold-Traffic"
+      domains: [cold-traffic, ad-testing, direct-response]
+    - id: "HEUR-JG-034"
+      title: "Big Idea Must Pass The Bar Test"
+      content: "If you can't explain your Big Idea to someone at a bar and get them intrigued in 30 seconds, it's not a Big Idea. It should be simple enough for a non-expert to understand and interesting enough to make them lean in."
+      source: "CA-Big-Idea"
+      domains: [offer-appeal, direct-response, cold-traffic]
+    - id: "HEUR-JG-035"
+      title: "Best Time To Email Is When You Have Something Worth Saying"
+      content: "Stop obsessing over optimal send times. The best time to email is when you have something genuinely valuable, interesting, or compelling to say. A great email sent at the 'wrong' time beats a mediocre email sent at the 'right' time."
+      source: "CA-Email-Marketing"
+      domains: [email-marketing, revenue-optimization, copywriting-business]
+
+  L4_FRAMEWORKS:
+    - id: "FW-JG-001"
+      title: "OLAF Method"
+      content: "Offer, Length, Opening, Format — the four levers of upsell optimization. Offer: what you're selling and why it's congruent. Length: how much copy you need (short for low-ticket, longer for high-ticket). Opening: the first 30 seconds that determine if they stay. Format: video vs text vs hybrid. Optimize all four to hit 30-50% upsell conversion."
+      source: "CA-Upsell-Engineering"
+      domains: [upsell-engineering, conversion-optimization, aov-optimization]
+    - id: "FW-JG-002"
+      title: "Big Idea Formula"
+      content: "Big Idea = Story + Mechanism + Promise. Story: a narrative that hooks and contextualizes. Mechanism: the unique 'how' that makes your solution different. Promise: the specific outcome the customer achieves. All three must work together — missing any one element and the Big Idea collapses."
+      source: "CA-Big-Idea"
+      domains: [offer-appeal, direct-response, cold-traffic]
+    - id: "FW-JG-003"
+      title: "Hell Yes Offer Criteria"
+      content: "An offer passes the Hell Yes test when: (1) the target audience immediately wants it, (2) they understand the value in under 10 seconds, (3) the price feels like a steal, (4) they feel stupid saying no, and (5) they'd tell a friend about it. If your offer doesn't hit all five criteria, it's not ready for cold traffic."
+      source: "CA-Offer-Architecture"
+      domains: [offer-appeal, cold-traffic, offer-architecture]
+    - id: "FW-JG-004"
+      title: "3 Universal Upsell Types"
+      content: "Every effective upsell falls into one of three categories: (1) Done For You — someone does it for the buyer, (2) More Of The Same — more quantity, more modules, more access, (3) Get Results Faster — accelerated version, priority support, shortcuts. Match the upsell type to your audience and front-end offer."
+      source: "CA-Upsell-Engineering"
+      domains: [upsell-engineering, offer-architecture, aov-optimization]
+    - id: "FW-JG-005"
+      title: "Annual Planning Framework — 10-Star Opportunities"
+      content: "In January, list every opportunity for the year. Rate each 1-10. Cross out everything below 10. What remains are your 10-star opportunities. Now pick the top 1-2 and focus exclusively on those. Review quarterly. This single discipline separates 7-figure businesses from 8-figure businesses."
+      source: "CA-Annual-Planning"
+      domains: [annual-planning, business-strategy, scaling]
+    - id: "FW-JG-006"
+      title: "Offer Appeal Assessment"
+      content: "Before investing in copy, assess offer appeal: (1) Does the market actively WANT this? (not just need it), (2) Can you explain the value in one sentence? (3) Is there an immediate, tangible benefit? (4) Does it pass the PaleoSweets test — would people buy this impulsively? Score each 1-5. Total below 15 = rethink the offer."
+      source: "CA-Offer-Architecture"
+      domains: [offer-appeal, market-selection, cold-traffic]
+    - id: "FW-JG-007"
+      title: "8 Biggest Mistakes On Cold Traffic"
+      content: "The 8 mistakes: (1) Testing copy before testing the offer, (2) Scaling too fast before economics are proven, (3) Not testing enough ad angles, (4) Ignoring AOV optimization, (5) No upsell sequence, (6) Weak Big Idea, (7) Targeting too narrow on cold, (8) Giving up before 6 angles tested."
+      source: "CA-Cold-Traffic"
+      domains: [cold-traffic, scaling, ad-testing]
+    - id: "FW-JG-008"
+      title: "6-Type Email Arsenal Framework"
+      content: "Six essential email types every business needs: (1) Story emails — narrative-driven, build connection, (2) Content emails — teach, demonstrate expertise, (3) Curiosity emails — open loops, drive clicks, (4) Direct pitch emails — straight offer, clear CTA, (5) Re-engagement emails — win back inactive subscribers, (6) Flash sale emails — urgency-driven, time-limited."
+      source: "CA-Email-Marketing"
+      domains: [email-marketing, revenue-optimization, copywriting-business]
+    - id: "FW-JG-009"
+      title: "4-Step Email Prep Framework"
+      content: "Before writing any email: (1) Define the one action you want, (2) Identify the one emotion that drives that action, (3) Choose the story or hook that triggers that emotion, (4) Write the subject line last — it's the ad for the email. This sequence prevents wandering, unfocused emails."
+      source: "CA-Email-Marketing"
+      domains: [email-marketing, copywriting-business, revenue-optimization]
+    - id: "FW-JG-010"
+      title: "Needle Mover Testing Priority"
+      content: "Testing priority for maximum impact: (1) Offer concept, (2) Price point, (3) Upsell #1 offer, (4) Ad angles (minimum 6), (5) Headlines/subject lines, (6) Body copy. Most marketers start at #6 and wonder why they can't scale. Start at #1."
+      source: "CA-Testing-Strategy"
+      domains: [split-testing, scaling, cold-traffic]
+    - id: "FW-JG-011"
+      title: "Freelancer Price Escalation Path"
+      content: "Freelancer pricing ladder: (1) Start with project fees to build portfolio, (2) Raise per-project rates after each win, (3) Add retainer component for recurring income, (4) Negotiate royalty/performance bonuses, (5) Seek equity positions in best clients. Each rung requires proving value at the current level first."
+      source: "CA-Freelancer-Business"
+      domains: [freelancer-business, pricing-psychology, copywriting-business]
+    - id: "FW-JG-012"
+      title: "6-Angle Ad Testing Framework"
+      content: "For every new cold traffic campaign, create 6 ad angles: (1) Fear/problem agitation, (2) Curiosity/discovery, (3) Story/testimonial, (4) Contrarian/myth-busting, (5) Direct benefit/result, (6) News/trending topic. Test all 6 simultaneously with equal budget. Kill losers at 48 hours, scale winners."
+      source: "CA-Ad-Testing"
+      domains: [ad-testing, cold-traffic, split-testing]
+    - id: "FW-JG-013"
+      title: "Upsell Page Architecture"
+      content: "Structure of a high-converting upsell page: (1) Congratulations bar — reinforce the purchase, (2) Transition — 'But wait, there's one more thing that will help...', (3) One Big Benefit — single clear outcome, (4) Why Now — urgency/exclusivity, (5) Price anchor + reveal, (6) Simple YES/NO buttons. No navigation, no distractions."
+      source: "CA-Upsell-Engineering"
+      domains: [upsell-engineering, conversion-optimization, funnel-design]
+    - id: "FW-JG-014"
+      title: "Value Stack Blueprint"
+      content: "Build a value stack that makes the price feel like a bargain: (1) Core product with clear value, (2) Bonus #1 — removes an obstacle, (3) Bonus #2 — accelerates results, (4) Bonus #3 — adds convenience, (5) Guarantee — removes risk. Assign real dollar values to each. Total must be 10x+ the price."
+      source: "CA-Offer-Architecture"
+      domains: [offer-architecture, pricing-psychology, offer-appeal]
+    - id: "FW-JG-015"
+      title: "Cold Traffic Funnel Diagnostic"
+      content: "Diagnose a cold traffic funnel by checking metrics in order: (1) CTR — are people clicking? If no, ad problem. (2) Opt-in rate — are they entering? If no, offer appeal problem. (3) Purchase rate — are they buying? If no, sales page/price problem. (4) Upsell rate — are they adding? If no, upsell problem. Fix from top to bottom."
+      source: "CA-Cold-Traffic"
+      domains: [cold-traffic, conversion-optimization, funnel-design]
+    - id: "FW-JG-016"
+      title: "Offer Lifecycle Management"
+      content: "Manage your offer through its lifecycle: (1) Launch Phase — test aggressively, expect losses, (2) Growth Phase — found the winner, scale and optimize, (3) Plateau Phase — start developing next offer, (4) Decline Phase — extract remaining value, transition to new offer. Never try to revive a declining offer — redirect energy to the next one."
+      source: "CA-Scaling"
+      domains: [scaling, offer-architecture, business-strategy]
+    - id: "FW-JG-017"
+      title: "Revenue Per Email Optimization System"
+      content: "Optimize email revenue systematically: (1) Segment list by buyer vs non-buyer, (2) Test frequency — start daily, back off if needed, (3) Rotate 6 email types (arsenal), (4) Write 4-8 subject line variants per send, (5) Track revenue per email, not open rate, (6) Monthly cull unresponsive subscribers to maintain deliverability."
+      source: "CA-Email-Marketing"
+      domains: [email-marketing, revenue-optimization, scaling]
+
+  L5_METHODOLOGIES:
+    - id: "MET-JG-001"
+      title: "OLAF Upsell Optimization Method"
+      content: "Step-by-step OLAF implementation: (1) Audit current upsell offer — is it congruent? Is it one of the 3 universal types? (2) Set optimal length — short for sub-$97, medium for $97-$297, detailed for $297+. (3) Rewrite opening — first 30 seconds must congratulate, transition, and hook. (4) Choose format — video for physical products, text for info products, hybrid for high-ticket. (5) A/B test each change independently. (6) Target: 30-50% conversion on upsell #1."
+      source: "CA-Upsell-Engineering"
+      domains: [upsell-engineering, conversion-optimization, aov-optimization]
+    - id: "MET-JG-002"
+      title: "Big Idea Development Process"
+      content: "How to develop a Big Idea: (1) Research the market — what stories are already being told? (2) Find the unique mechanism — what makes your solution different at a 'how' level? (3) Craft the promise — specific, believable, desirable outcome. (4) Combine into one sentence: '[STORY] reveals how [MECHANISM] delivers [PROMISE].' (5) Test at the bar — if they lean in, you have a Big Idea. (6) If they don't lean in, go back to step 2."
+      source: "CA-Big-Idea"
+      domains: [offer-appeal, direct-response, cold-traffic]
+    - id: "MET-JG-003"
+      title: "Hell Yes Offer Construction Process"
+      content: "Build a Hell Yes Offer: (1) Start with what the market WANTS (not needs). (2) Package it in a way they haven't seen. (3) Stack value to 10x the price point. (4) Add a guarantee that makes saying no feel stupid. (5) Test with 10 people from your target market — count the 'hell yes' responses. (6) Below 7/10 hell yes = rework the offer. (7) At 7+/10, proceed to copy and ads."
+      source: "CA-Offer-Architecture"
+      domains: [offer-appeal, offer-architecture, cold-traffic]
+    - id: "MET-JG-004"
+      title: "Cold Traffic Launch Protocol"
+      content: "Launch sequence for cold traffic: (1) Validate offer concept (low-budget test, $500-1000). (2) If conversion > 1%, proceed. If not, rework offer. (3) Create 6 ad angles per the 6-Angle Framework. (4) Run all 6 angles with equal budget for 48-72 hours. (5) Kill bottom 3 performers. (6) Scale top 3 with 20% daily budget increase. (7) At $100/day profitable, start upsell optimization via OLAF. (8) At $500/day profitable, test new audiences."
+      source: "CA-Cold-Traffic"
+      domains: [cold-traffic, scaling, ad-testing]
+    - id: "MET-JG-005"
+      title: "Email Revenue Maximization System"
+      content: "Maximize email revenue step by step: (1) Segment: buyers, leads, inactive. (2) Set baseline frequency — start at 5x/week for buyers. (3) Use 4-Step Email Prep for every email. (4) Write 4-8 variants of each email. (5) Send, measure REVENUE (not opens). (6) Weekly: kill underperformers, model winners. (7) Monthly: re-engagement campaign to inactive. (8) Quarterly: cull dead subscribers."
+      source: "CA-Email-Marketing"
+      domains: [email-marketing, revenue-optimization, scaling]
+    - id: "MET-JG-006"
+      title: "Annual Business Planning Method"
+      content: "Annual planning process: (1) January week 1: List every possible opportunity. (2) Rate each 1-10 stars. (3) Cross out everything below 10. (4) Pick top 1-2 for Q1-Q2 focus. (5) Define revenue targets per quarter. (6) Identify the specific offers that will hit those targets. (7) Review monthly: Is this still a 10-star? If not, pivot. (8) Q3: Begin planning next year."
+      source: "CA-Annual-Planning"
+      domains: [annual-planning, business-strategy, scaling]
+    - id: "MET-JG-007"
+      title: "Offer Appeal Validation Protocol"
+      content: "Validate offer appeal before investing in copy: (1) Describe the offer in one sentence. (2) Show 10 target market people — track gut reactions. (3) Run $500 cold traffic test with basic landing page. (4) Conversion above 1%? Proceed. (5) Below 1%? Test different positioning (same product, different framing). (6) Still below 1% after 3 positioning tests? Kill the offer. (7) Above 1%? Invest in proper copy and funnel."
+      source: "CA-Offer-Architecture"
+      domains: [offer-appeal, cold-traffic, split-testing]
+    - id: "MET-JG-008"
+      title: "Upsell Sequence Build Process"
+      content: "Build an upsell sequence: (1) Start with the front-end offer. (2) Ask: What's the Done-For-You version? → Upsell #1 candidate. (3) Ask: What gives them More Of The Same? → Upsell #2 candidate. (4) Ask: What helps them Get Results Faster? → Upsell #3 candidate. (5) Choose the strongest as upsell #1 (usually Done For You). (6) Build upsell page using Upsell Page Architecture. (7) Apply OLAF optimization. (8) Target 30%+ on upsell #1."
+      source: "CA-Upsell-Engineering"
+      domains: [upsell-engineering, offer-architecture, funnel-design]
+    - id: "MET-JG-009"
+      title: "6-Angle Ad Campaign Launch"
+      content: "Launch ads with 6 angles: (1) Brief the copywriter with product, audience, and competitor intel. (2) Create 6 angles: fear, curiosity, story, contrarian, direct benefit, news. (3) Write 2-3 ad variants per angle (12-18 total ads). (4) Set equal daily budget per angle. (5) Run 48 hours. (6) Kill bottom 50% by CPA. (7) Run surviving angles 72 more hours. (8) Scale winner(s) with 20% daily budget increase. (9) Refresh creative every 2-3 weeks."
+      source: "CA-Ad-Testing"
+      domains: [ad-testing, cold-traffic, split-testing]
+    - id: "MET-JG-010"
+      title: "Freelancer Rate Escalation Process"
+      content: "Raise your freelance rates: (1) Complete project successfully. (2) Get testimonial and results data. (3) Next prospect: quote 25-50% higher. (4) If they say yes, that's your new floor. (5) If they negotiate, hold firm — find the client willing to pay. (6) After 3 projects at new rate, raise again. (7) At premium rates, introduce retainer component. (8) At top of market, propose royalty/performance deal."
+      source: "CA-Freelancer-Business"
+      domains: [freelancer-business, pricing-psychology, copywriting-business]
+    - id: "MET-JG-011"
+      title: "Funnel Diagnostic Walkthrough"
+      content: "Diagnose a failing funnel: (1) Pull all metrics: CTR, opt-in rate, purchase rate, upsell rate, refund rate. (2) Identify the biggest drop-off point. (3) If CTR < 1%: ad problem → test new angles. (4) If opt-in < 20%: offer appeal problem → rethink the offer. (5) If purchase < 1%: sales page problem → test price and headline. (6) If upsell < 20%: upsell problem → apply OLAF. (7) If refund > 15%: product-market mismatch → redesign offer. (8) Fix ONE thing at a time, top to bottom."
+      source: "CA-Cold-Traffic"
+      domains: [cold-traffic, conversion-optimization, funnel-design]
+
+# Fim do DNA.yaml v1.0.0 - Justin Goff (110 elementos)

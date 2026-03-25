@@ -1,0 +1,160 @@
+# Extração: 01-How to Use the Facebook Ad Templates Transcript
+
+- **Fonte:** 01-How to Use the Facebook Ad Templates Transcript.pdf
+- **Tipo:** PDF
+- **Páginas:** 0
+- **Tamanho:** 0.42 MB
+
+---
+
+How to Use the Facebook Ad Templates
+Hi, my name is Saba. And today I'm going to walk you through how to use the Facebook ad
+templates we've included in the course. Facebook ads is actually one of the areas that I I'm.
+I've been writing ads since probably 2015. So I have a lot of experience here. I wrote, I
+created all these templates for you guys as a way to sort of understand the formatting and
+the different nuances between different types of offers.
+[00:00:21] So technically speaking, you can use all of these, templates for all types of offers.
+You know, you, all, the only thing you have to do is change up the, change up the language a
+little bit and sometimes change up parts of it. But what I'm going to show you is sort of a
+breakdown of, potential outlines for each of these types of ads and sort of how to
+understand the flow behind these offers so that they have a high chance of converting.
+[00:00:44] So to get started, let's do the high ticket coaching. So high ticket offers normally
+have, it's usually longer long form copy. As you know, the few, the shorter, the shorter stuff
+might do well. If you've got like a webinar or something like that, but tech, you know, usually
+you've got long form copy, either going to an application page or a landing page that is
+actually selling, Selling an application at the end.
+[00:01:08] It's, it's not usually for a specific course or anything like that, but obviously you
+can use it for that too. The general idea with these is you want to start off with a very strong
+hook. All of the Facebook ads you're going to be writing, need to have a very strong first line
+that sort of a standard, and definitely watched the Facebook ads training, where we break
+down different examples and what all these elements mean.
+[00:01:29] But. As far as going, as far as the templates go, you know, these are some of the
+most, you know, in our experience, these are some of the most effective ad sort of outlines
+that work extremely well for courses, digital products, webinars, or private coaching
+packages. So here's some prompts that you can use, you know, sometimes you can use the
+testimonial results.
+[00:01:50] Sometimes you can just ask them a question, you know, you can call them out.
+And the very first one, for people, you know, again, quite another call-out for people trying
+to run. Whatever type of business, things are getting tougher. And this is where you lead
+with sort of pain points. This is where you're empathizing with them.
+[00:02:07] You might feel like it's time to throw in the towel, but there's a better way. And
+then you slowly introduce, you know, your, opportunity. So there's different ways to
+structure these, but as you can see, you know, there's a lot of, there's a lot of overlap and
+there's a lot of ways to be creative with them.
+[00:02:24] So these are just some prompts for you. If you're struggling to come up with, ad
+ideas for high ticket coaching specifically, these are some good ways to go about it. Then we
+have courses or info-products remember some of those high ticket ones can be used for
+courses, but, you know, these are.
+www.getwsodo.com	www.getwsodo.com
+
+-- 1 of 4 --
+
+[00:02:41] Some more guidelines. The hooks are going to be very similar, but see the
+breakdowns can be a little bit different. So let me show you a system that can, you know, do
+XYZ so you don't have to worry about whatever pain point. So there's some more structures
+here. Had some headline ideas to this is, these are definitely, just guidelines.
+[00:03:02] You don't have to use these word for word, but if you're struggling to come up
+with, you know, a lot of copywriters and even marketing struggled to come up with different
+headline variations, you'll find a lot of information in here. So again, you can. Test, you
+know, a variety of long form short form for selling courses or info products, idea being, you
+want to get people understanding that you understand their problem, and the fact that you
+have a course that will solve their problem, you know, and click to learn more.
+[00:03:29] One thing I forgot to mention before we started was with all of these Facebook
+ads. Ideally, you're just selling the click. There's only some, there's only, you can also sell.
+Like the full offer in your ads. And I do that all the time as well, but ideally what you're doing
+is they're just selling the clicks.
+[00:03:45] So the sales page can do all of the heavy lifting, really of converting the person
+and turning them into a buyer. So ideally what you're doing here is you're highlighting their
+pain points where they are right now. What you understand about them? Because think
+about how many ads they're scrolling through on a given day.
+[00:04:02] If you can do that. Well, they're probably going to click over if you can present,
+you know, potential solution or an answer for them and in a clever way. For supplements
+and health products, very similar to, you know, the other two you just saw, but you can see
+here. Some of the key differences is you can introduce the founder and really make it
+relatable and say, talk about why they created the supplement or product that makes it a lot
+more compelling for a lot of people, especially if you're running this to cold traffic and you
+want people to pay attention.
+[00:04:33] If you can put a founder story behind it, or, some sort of compelling story about
+how it was discovered that can help a lot. The the mistakes hook is very popular, especially
+in the health space. So, you know, the most, it can say things like the three biggest mistakes,
+you know, the avatar makes and really call out what those mistakes are.
+[00:04:51] So people like, Oh yeah, I've been making that mistake all along. What, what,
+what do you say to that? And then they keep reading. So these are just some ideas on how
+to present that. Again, this is another avatar call out. This is for, you know, With busy
+women who want, who want to stop stressing about to who, who wants to reduce stress
+might be an example.
+[00:05:13] Like that's a very weak example, but, that's how you, that's how you, that's how
+you'd write that sort of, that sort of hook. And then some more headline ideas. This don't,
+you know, we will run out or don't let us run out of this. We're running out soon that of low
+in stock, basically sense of urgency.
+[00:05:32] That can be very powerful in the headline. So don't be afraid to use that. And
+also this one, now there's a better way to achieve whatever XYZ that the whole better, you
+www.getwsodo.com	www.getwsodo.com
+
+-- 2 of 4 --
+
+know, now there's an easier way now there's a better way now there's a faster way is, can
+be very compelling. We also have, beauty and skincare products, very similar to
+supplements.
+[00:05:53] Except, you know, you can, again, you're highlighting the pain that they, the, the
+pain points and the beauty, you know, avatar is going to be things about like, not having
+accessibly, dry skin, having breakouts, having skin problems in general aging. You know, anti-
+aging, seeing wrinkles appear too soon, premature wrinkles, that kind of thing.
+[00:06:12] You can really talk about all of those things. Again, idea being you really want to
+help, identify with avatar where they are right now, and then promise a solution, which just
+behind this click. So I did include like a super short one here, which you can test for pretty
+much any offer, but, it's always worth testing short and long, longer form.
+[00:06:33] Copy. Ideally, what you want to do is put enough keywords in your copy because
+Facebook does scan your ads to determine like how valuable the ad is. So you want to
+include as much information as you can, but you also don't want to bore the reader. So
+make sure you're cutting. You know, you're, you're being concise still and use short copy
+where you, where it's necessary.
+[00:06:52] You know, you'll notice it like a lot of eCom offers are pretty short and they just
+talk about like the 50% off sale going on now, or talking about a featured product or
+whatever it is. You don't have to do a super long form. You don't have to do super long form
+copy to earn that click. This one is for live events.
+[00:07:10] So, you know, this can be a little bit different because you are emphasizing,
+what's going to happen at the event. What types of things they're gonna learn, or you know,
+who they're going to meet. So there's different ways of doing that, right? You can talk about
+like the speakers. I always recommend using emojis to break up your ads to, you know, use
+creative emojis.
+[00:07:30] It doesn't have to be super crazy, but it can be things like stars, checkmarks, You
+know, question marks sometimes you use use them strategically just to get attention. The
+idea being you don't want to overwhelm somebody with a ton of emojis, but you do want to
+use them. In a strategic way so that you get their attention and it flows with the rest of the
+copy.
+[00:07:52] So, you know, this can be a very powerful hook. The tickets are selling out fast
+sense of urgency. Join hundreds of people at our next, you know, join thousands of
+entrepreneurs or smart entrepreneurs at our next, you know, live workshop on whatever
+day. So things, these are like really strong ways to introduce these offers, especially to cold
+traffic.
+[00:08:13] And yeah. And just talk about benefits and speakers, and if they're getting any
+sort of bonuses for buying an early bird ticket or anything like that, you'd want to include
+that here. Then we have the webinar or lead magnet. Opt-in just be very careful. This is, I, I
+noted this up here is, you know, FTC and, Facebook compliance rules do apply.
+www.getwsodo.com	www.getwsodo.com
+
+-- 3 of 4 --
+
+[00:08:35] So if you're making any statements, like, you know, learn how to make $1,000 in,
+in two days, you know, you probably won't be able to do stuff like that. So just be wary of
+that. But otherwise, again, you want to highlight what the avatar is probably going through
+right now and why they need a solution and how your solution is.
+[00:08:54] Is right here in front of them, click below to learn more. So there's a few different
+ways to format these. I, shared some opt-in, examples and also some webinars examples.
+And you can play with these. I mean, the opt-in ones can be used for the webinar and vice
+versa. You just need to change up the language a little bit.
+[00:09:12] But yeah, it should be pretty self-explanatory and again, all of these templates are
+designed to be guidelines, not word for word copies. So please don't feel like you have to
+please don't make carbon copies of these templates and then just start writing, you know,
+within that tight frame, because you're going to find, you'll want to add more copy.
+[00:09:31] You might want to add more, more sections. You might want to drop a CTA early.
+You know, in the, in the copy versus all the way at the end. So feel free to be creative and
+flexible with them. These are just outlines that just guidelines on how to sort of organize
+your information and contents. If you get a hang of how to introduce a product and pitch it
+properly without, and, and get the most conversions.
+[00:09:53] So hopefully that was helpful. And I will see you in the next video.
+www.getwsodo.com	www.getwsodo.com
+
+-- 4 of 4 --
+

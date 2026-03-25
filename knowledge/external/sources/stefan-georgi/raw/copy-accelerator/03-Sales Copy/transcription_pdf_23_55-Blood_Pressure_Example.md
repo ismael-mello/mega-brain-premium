@@ -1,0 +1,13 @@
+# Extração: 23.55-Blood Pressure Example
+
+- **Fonte:** 23.55-Blood Pressure Example.pdf
+- **Tipo:** PDF
+- **Páginas:** 0
+- **Tamanho:** 0.3 MB
+
+---
+
+
+
+-- 1 of 1 --
+

@@ -1,0 +1,168 @@
+# DNA-CONFIG.yaml — Ben Settle
+# Versão: 1.0.0
+# Criado: 2026-03-25
+# Atualizado: 2026-03-25
+# Total Elementos: 291+ (pending ECM + Cookbook batch)
+# Fontes: 2 programas (Email Client Machine + Email Players Newsletter)
+
+pessoa: "ben-settle"
+nome_completo: "Ben Settle"
+tipo: "SOLO"
+versao: "1.0.0"
+criado_em: "2026-03-25"
+atualizado_em: "2026-03-25"
+
+# ═══════════════════════════════════════════════════════════════════════════
+# RESUMO
+# ═══════════════════════════════════════════════════════════════════════════
+
+resumo: |
+  Ben Settle é o "Email Player" — o maior especialista vivo em email marketing
+  diário de resposta direta. Autor do sistema Street Smart Email, publisher da
+  newsletter Email Players (73+ issues, 2011-2017+), e criador do Email Client
+  Machine. Filosofia central: email diário, entretenimento > educação,
+  personalidade > profissionalismo, ugly > pretty, venda em todo email.
+  Influenciado por Matt Furey, Dan Kennedy, Eugene Schwartz, Gary Halbert,
+  Jim Camp, e Stan Billue.
+
+# ═══════════════════════════════════════════════════════════════════════════
+# DOMÍNIOS DE EXPERTISE
+# ═══════════════════════════════════════════════════════════════════════════
+
+dominios:
+  primarios:
+    - email-marketing
+    - email-copywriting
+    - daily-email-strategy
+    - direct-response-email
+    - list-building
+  secundarios:
+    - sales-psychology
+    - personal-branding
+    - product-launch
+    - pricing-psychology
+    - negotiation-in-email
+    - business-resilience
+    - content-philosophy
+  terciarios:
+    - podcast-outreach
+    - market-research
+    - funnel-design
+    - conversion-optimization
+    - client-acquisition
+
+# ═══════════════════════════════════════════════════════════════════════════
+# FONTES
+# ═══════════════════════════════════════════════════════════════════════════
+
+fontes:
+  - id: "ECM"
+    nome: "Email Client Machine + Email Players Cookbook"
+    tipo: "COURSE"
+    arquivos: 5
+    path_raw: "knowledge/external/sources/ben-settle/raw/email-client-machine/"
+    status: "COMPLETE"
+    elementos_extraidos: 102
+
+  - id: "EP"
+    nome: "Email Players Newsletter"
+    tipo: "NEWSLETTER"
+    arquivos: 59
+    path_raw: "knowledge/external/sources/ben-settle/raw/email-players/"
+    status: "COMPLETE"
+    elementos_extraidos: 291
+    issues_cobertos: "1-28, 30-34, 52-62, 65-67, 69-73"
+    issues_sem_ocr: "25-28, 52-58, 63-64, 68, 69-73 (parcial)"
+    bonus_incluidos:
+      - "Email Players Cookbook (106 pages)"
+      - "Ravings of an Adman Parts 1-3 (Dan Gallapoo/Doberman Dan)"
+      - "Daniel Levis Interview (list building)"
+      - "Health Profits Summit (Buck Rizvi)"
+      - "Jim Camp Interview"
+    speakers_detectados:
+      - nome: "Ben Settle"
+        papel: "primary-author"
+        peso: 1.0
+      - nome: "Jim Camp"
+        papel: "guest-philosopher"
+        contribuicao: "negotiation principles applied to email"
+      - nome: "Doberman Dan (Dan Gallapoo)"
+        papel: "co-host-ravings"
+        contribuicao: "business resilience, supplement business"
+      - nome: "Daniel Levis"
+        papel: "guest-expert"
+        contribuicao: "list building tactics"
+      - nome: "Sean D'Souza"
+        papel: "referenced-expert"
+        contribuicao: "sequential selling, 3rd conversion theory"
+      - nome: "Barry Maher"
+        papel: "referenced-expert"
+        contribuicao: "making the skeleton dance"
+      - nome: "Peter Montoya"
+        papel: "referenced-expert"
+        contribuicao: "personal branding framework"
+
+# ═══════════════════════════════════════════════════════════════════════════
+# CONTAGEM POR CAMADA
+# ═══════════════════════════════════════════════════════════════════════════
+
+layers:
+  L1_PHILOSOPHIES:
+    total: 117
+    range: "FIL-BS-001 to FIL-BS-322"
+    next_id: "FIL-BS-323"
+  L2_MENTAL_MODELS:
+    total: 69
+    range: "MM-BS-001 to MM-BS-312"
+    next_id: "MM-BS-313"
+  L3_HEURISTICS:
+    total: 115
+    range: "HEUR-BS-001 to HEUR-BS-323"
+    next_id: "HEUR-BS-324"
+  L4_FRAMEWORKS:
+    total: 60
+    range: "FW-BS-001 to FW-BS-312"
+    next_id: "FW-BS-313"
+  L5_METHODOLOGIES:
+    total: 32
+    range: "MET-BS-001 to MET-BS-308"
+    next_id: "MET-BS-309"
+
+total_elementos: 393
+
+# ═══════════════════════════════════════════════════════════════════════════
+# RAIZ (para navegação profunda)
+# ═══════════════════════════════════════════════════════════════════════════
+
+raiz: "knowledge/external/sources/ben-settle/raw/"
+inbox_original: "inbox/Ben Settle/"
+
+# ═══════════════════════════════════════════════════════════════════════════
+# INFLUÊNCIAS CITADAS
+# ═══════════════════════════════════════════════════════════════════════════
+
+influencias:
+  - nome: "Matt Furey"
+    relacao: "Email marketing mentor — 'Email King' — product rotation method"
+  - nome: "Dan Kennedy"
+    relacao: "Direct response philosophy — speed over perfectionism, humor sells"
+  - nome: "Eugene Schwartz"
+    relacao: "Market awareness stages, ugly sells, implied mechanism, 5th stage"
+  - nome: "Gary Halbert"
+    relacao: "A-pile/B-pile mail, direct mail research, copywriting fundamentals"
+  - nome: "Jim Camp"
+    relacao: "Negotiation principles — 'safe in their world', get them to say no"
+  - nome: "Stan Billue"
+    relacao: "Telephone selling — curiosity overrides programming"
+  - nome: "Sean D'Souza"
+    relacao: "Sequential selling, 3rd conversion theory"
+  - nome: "Barry Maher"
+    relacao: "Making the skeleton dance — brag about negatives"
+  - nome: "Mel Martin"
+    relacao: "Fascination bullets as subject lines, implied mechanism"
+  - nome: "Claude Hopkins"
+    relacao: "Scientific advertising principles"
+  - nome: "David Ogilvy"
+    relacao: "Hathaway shirt identity model"
+  - nome: "Gary Bencivenga"
+    relacao: "One-a-day marketing vitamin, informed copy"

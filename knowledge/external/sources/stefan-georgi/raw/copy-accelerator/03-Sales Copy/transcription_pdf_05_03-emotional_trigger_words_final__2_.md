@@ -1,0 +1,8080 @@
+# Extração: 05.03-emotional_trigger_words_final (2)
+
+- **Fonte:** 05.03-emotional_trigger_words_final (2).pdf
+- **Tipo:** PDF
+- **Páginas:** 0
+- **Tamanho:** 1.9 MB
+
+---
+
+www.getwsodo.com	www.getwsodo.com
+
+-- 1 of 60 --
+
+About the Author
+After graduating from Stanford
+University in 2001, Tony Flores
+quickly found himself broke and
+jobless. Up to his ears in student
+loans, he got a job in sales with a
+natural health company. It was then
+– when the company owner handed
+him a Jay Abraham book – that he was
+first introduced to direct marketing.
+From there, he discovered the
+process of copywriting. This new skill
+was a lifesaver for him, and it wasn’t
+long before Tony had used what he
+was learning to double the sales of his
+company, taking a two-man operation
+to just under $3 million in annual
+sales.
+At that point, he sent a business
+idea to copywriting legend Clayton
+Makepeace, who hired him on
+the spot. Since that time, Tony
+has developed the industry’s most
+acclaimed newsletter on copywriting
+… has created a series of powerful
+direct marketing educational products
+… and has written winning direct
+response promotions in a variety of
+markets. Tony currently resides in Los
+Angeles, CA.
+Clayton Makepeace and
+The Total Package Present:
+EMOTIONAL
+TRIGGER WORDS
+by
+Tony Flores
+© 2008 by The Profit Center™
+All rights reserved.
+Reproduction, in whole or in part,
+without written permission
+from the publisher
+is strictly prohibited.
+Emotional Trigger Words™ is a publication of:
+The Profit Center™
+PO Box 750
+Waynesville, NC 28786
+Ph: (800) 827-0940
+Intl: (828) 456-9277
+www.MakepeaceTotalPackage.com
+www.getwsodo.com	www.getwsodo.com
+
+-- 2 of 60 --
+
+
+Introduction
+by Tony Flores
+The underlying emotional triggers that grab a prospect’s attention, keep his eyes glued to the
+page … and then ultimately compel him to make a purchase decision are often unknown to even the
+most experienced copywriters.
+Many of the copywriting greats use the power of emotions very instinctively, which works for
+them. But I’ve found that this “instinct only” knowledge makes it virtually impossible for these
+masters to teach people like you and me all the subtleties of emotional copywriting.
+That’s why this book was created — it’s for the rest of us!
+It’s for us “regular” writers and marketers who weren’t born knowing exactly how to stimulate
+our prospect’s hottest emotions, at exactly the right moments. It’s almost unfair how great writers can
+hone in on the exact emotions they need to make the sale, and then continually hit those emotional
+hot buttons six ways to Sunday.
+But now it’s time to level the playing field.
+The manual you now hold in your hands is the ultimate secret weapon. Even if you’re a complete
+emotional dunce (like I am), you can’t help but become a much more visceral, emotionally-potent
+copywriter with this in your arsenal.
+And by “emotional copywriter,” I don’t mean that you experience mood swings throughout the
+workday or cry when you think about your deadlines.
+Nope. I’m talking about becoming the kind of writer who:
+■ Knows exactly which emotional hot buttons to hit and when …
+■ Knows exactly how to trigger each emotion for maximum impact …
+■ NEVER writes boring copy, because every line on your page oozes with feeling and passion …
+■ Stands head and shoulders over others who rely on benefits alone to make the sale …
+■ Can stop a prospect on a dime, with an eyeball-seizing emotional headline and then keep that
+powerful feeling rocking and rolling throughout the promotion …
+■ Ultimately jumps to the upper echelon of this business, because he’s mastered perhaps the single
+most elusive and valuable skill a copywriter could ever have …
+You see, over the past three years I’ve literally devoured every single piece of good copywriting/
+direct response information I could get my hands on. Most of it has been pretty straightforward:
+Catch your prospect’s attention with your headline, focus on benefits, make an irresistible offer,
+justify the cost, ask for the sale, and so on. But in all of this material, “how to” info on using
+emotions was truly rare indeed.
+Sure everybody tells you that emotions are powerful … Sure everybody tells you that the right
+emotions will make you tons of money … Sure everybody tells you that people buy on emotions and
+justify with logic/reason … That’s all fine and dandy.
+But there’s just one problem …
+www.getwsodo.com	www.getwsodo.com
+
+-- 3 of 60 --
+
+
+… Nobody Tells You How to Actually DO It!
+You see, I never found anyone who could give writers like me and you a concrete, super-practical
+blueprint that guides you to putting exactly the right emotional words and phrases into your copy
+— every time.
+Remember, this book is absolutely NOT about vague and difficult to master exercises like …
+“becoming your prospect” … or imagining his “core complex” … or even conjuring up a some kind
+of picture of his feelings in your mind’s eye.
+Not at all! Instead, we wanted to make this process absolutely foolproof. That’s why we’ve
+also included tactical secrets for each emotion in the section proceeding the actual words. In those
+sections, we carefully lay out the conditions that make it much, MUCH easier to spot the emotional
+triggers in almost any possible situation. Because once you know that, inserting the words that follow
+is a piece of cake.
+Also, a note of warning: You might wonder why almost every word and sentence in this book
+comes from the health and investment market. It’s simple. That’s where nearly all the best writers
+have focused their attention over the last 20-30 years. And wanting to only take words and sentences
+from the crème de la crème — from the highest paid, most successful copywriters in the world — I
+decided to pull everything from controls in those markets.
+Don’t worry. Even if you write and market in a different industry all together, this stuff is
+universal. The same emotional patterns exist across market and industry lines — and the same
+emotional triggers apply. As you’ll soon see, the market doesn’t change the fundamental words and
+patterns. Fear is fear, greed is greed, and urgency is urgency — no matter what market you’re in!
+And as a marketer, copywriter or even possibly a business owner — ALL you really need
+to know is: (a) the variety of emotions used effectively in sales and marketing … (b) how these
+emotions relate to purchase decisions … and (c) which words will effectively trigger them for
+maximum response.
+If you can do that right, you’re well on your way to fame and fortune as a marketer, copywriter,
+salesperson, entrepreneur … ANYONE whose success depends on selling products or services via
+direct response.
+www.getwsodo.com	www.getwsodo.com
+
+-- 4 of 60 --
+
+
+TABLE OF CONTENTS
+1 	How to Use This Resource................................................................................. 6
+2 	Words that Get Your Prospect’s Blood Boiling (Anger).................................... 9
+ 	The National Enquirer’s All-Time Hottest Emotion (Betrayal) ...................... 12
+ 	Don’t Get Mad … Get EVEN (Revenge) ........................................................ 15
+ 	Scary Words that Grab Your Prospect
+and Force Him to Keep Reading (Fear) .......................................................... 17
+6 	You’re Not Supposed to Be Seeing This But … (Forbidden) ......................... 24
+7 	When You’re Sick and Tired
+of Being Sick and Tired (Frustration)............................................................. 27
+8 	“Greed is good. Greed is RIGHT. Greed works.” (Greed) .............................. 29
+9 	The Happiness of Health (Happiness & Health) ............................................ 35
+10 	The Magical Feeling that Keeps Us Going (Hope) ......................................... 40
+11 	Sometimes Love Is All You Need (Love/Caring)............................................ 42
+12 	I’m So Excited, and I Just Can’t Hide It (Passion) ......................................... 43
+1 	The Astonishing Power of Powerlessness (Powerlessness) ............................ 45
+1 	It’s Time to Kick Back and Relax (Relaxation) .............................................. 47
+1 	When Your Prospect Is Down in the Dumps, Use This (Sadness) ................. 48
+16 	How to Make Your Prospect Feel Safe and Secure (Security) ........................ 50
+17 	One of the World’s Most Underrated Motivators (Shame) ............................. 54
+18 	The Unparalleled Power of Surprise! (Surprise) ............................................. 56
+19 	Don’t Dilly Dally … Time’s a Wastin’! (Urgency) ......................................... 58
+Chapter 	Chapter Title/Emotion 	Page
+www.getwsodo.com	www.getwsodo.com
+
+-- 5 of 60 --
+
+6 	Emotional Trigger Words
+Not only that, over the last year
+I’ve spent a significant percentage of
+my days (meaning hours and hours
+every single day) studying all of his
+most successful packages. This has
+been especially eye-opening — with
+much of what I’m presenting here the
+direct outcome of what I discovered in
+dissecting Clayton’s biggest winners.
+Consequently, what I’ve done
+in this book is incredibly synergistic
+with everything Clayton teaches. In
+going through his copy, I found the
+strongest and most commonly targeted
+emotions. I busted my brain figuring
+out exactly when and where he (and
+other great writers) use these emotions
+to further the sales process; and which
+words they use to do that.
+Then I grouped and organized
+the words in each distinct emotional
+section, paying special attention to
+how that emotion is used in winning
+copy.
+Put simply, this stuff works. Not
+once, not twice … but over and over
+again. I’ve personally seen Clayton
+use and teach everything in this
+book. These are some of the exact
+same secrets his copy cubs have
+used to become six and seven-figure
+copywriters in short order.
+And that includes yours truly.
+Despite just breaking onto the
+scene, I’ve personally used all of
+these techniques in the battlefield —
+especially in the time that I’ve spent
+consulting and writing promotions
+directly with Clayton. So I can assure
+you; they work like gangbusters
+across the board — for rookies,
+veterans, superstars and everyone in
+between.
+Why You’ll Have a Blast Using
+these Explosive Little Words
+Once you get going, this process
+can be so fun! As a writer and
+marketer, you know how fantastic it
+feels to get passionate about a subject
+— feeling the same level of emotion
+as your prospect is feeling — whether
+it’s a drug scandal, a supplement
+conspiracy, a Wall Street scam or
+anything else.
+And you know how amazing it
+feels when you can come to the point
+where you’re able to put that feeling
+into words for him, so that he instantly
+identifies with the message you’re
+articulating in the copy.
+Of course, that’s not always so
+easy. You’ve got to actually KNOW
+what your prospect’s feeling — first!
+Take anger, for example. To really
+use anger to the max, you’ll want to
+begin by presenting some sort of fact,
+event, claim or subject you’re sure will
+arouse your prospect’s anger.
+And how do you find that out?
+Research, of course! You study the
+daylights out of your prospect — his
+hopes, dreams, desires, beliefs and
+more. And more importantly, you
+look at the relationship between your
+prospect and your product, the market,
+the subject of the information you’re
+giving him — anything for which he
+could possibly be angry.
+And don’t forget: With the
+information at the beginning of
+each chapter you’ll learn to quickly
+recognize when an emotion has a
+high likelihood of being present in
+your prospect. No guarantees here —
+emotions are extremely fickle things.
+But masters like Clayton and others
+have learned to spot such conditions
+and take full advantage of them for
+much higher percentages of success
+than most other writers.
+To do likewise, you simply flip to
+the section on anger and discover why
+anger arises, and how it’s most often
+used in direct response. This will give
+you a strong psychological foundation
+that eventually will become second
+nature to you.
+After that, you look within that
+same chapter for words that you
+now know are proven to effectively
+trigger that emotion. Tune into that
+How to Use This
+Resource
+One of the biggest benefits you’ll
+find from using this book is that you
+start to think … see … and FEEL
+all of these powerful emotions at
+work. Do this enough and a whole
+new world starts to open up. You
+begin to understand human nature
+and motivation on a far deeper level.
+As a result, you’re able to predict,
+direct and harness the power of your
+prospects’ desires … because emotions
+have and always will be the most
+effective way to do just that.
+I believe the best marketers and
+copywriters in the world, the true
+masters like Clayton Makepeace, Gary
+Bencivenga, Gene Schwartz, Jim Rutz,
+John Carlton and many others, have
+a deeply instinctive understanding of
+how these human emotions work.
+They’ve learned how to position
+their products or services (and the
+people behind the products or services)
+as powerful emotional solutions to
+real-life problems of their prospects.
+Solutions that gave their prospects
+as much emotional satisfaction and
+vindication as they got from whatever
+material good they purchased.
+So how do you do this?
+The first step is always to find
+out your prospects’ dominant resident
+emotions regarding the subject at
+hand, just as Clayton teaches. By
+dominant resident emotion, he means
+the primary (i.e. most dominant)
+emotion that sticks around for a long
+time (i.e. resident). These are feelings
+like the fear of loss, the hatred for
+injustice, the yearning for hope and
+love, and so many more.
+He covers this extensively in
+many issues of The Total Package, his
+teleseminars and How to Challenge
+a Strong Control product, the
+Easy Writers Marketing Club, his
+groundbreaking Power Marketing
+Summit, and will do so in The Ultimate
+Desktop Copy Coach. This is where
+I learned a good percentage of his
+teachings on emotion in sales copy.
+1 	www.getwsodo.com	www.getwsodo.com
+
+-- 6 of 60 --
+
+7
+feeling you think your prospect is
+experiencing and then write your copy
+using as many of these words as you
+possibly can. Doing this guarantees
+you’ll have much more of this emotion
+in your copy than before! It’s that easy.
+Keep in mind, however, that one
+emotion — like anger alone — won’t
+ever be enough. That’s a mistake
+beginning writers make all the time
+with any of the “negative” emotions;
+thinking that making the prospect
+angry or afraid will always help move
+the sale forward. Not true.
+Any emotion you stimulate needs
+to be actionable — and in a way that
+makes your prospect want to take
+action toward your offer. You can
+always make your prospect angry or
+afraid of something. That’s easy. But it
+won’t necessarily make him want your
+product or service any more.
+So as you begin your research
+process and start to walk in your
+prospect’s shoes, the most powerful
+emotions you can stimulate will
+always be the ones that predispose him
+to act on your offer. I would read that
+last sentence again. Let me repeat it
+for you: The most powerful emotions
+you can stimulate will always be the
+ones that predispose your prospect to
+act on your offer.
+For example, if you’re writing
+an investment piece on China, you
+may choose to simulate his fear about
+losing money and about how the
+country is being slowly destroyed on
+an economic level. Then you’ll want
+to couple this with his emotional
+desire to make more money and feel
+patriotic.
+Now you’ve got a variety of
+actionable emotions working for you,
+and your job is simply to convince
+your prospect that he can solve them
+all by sending in for your risk-free,
+trial offer.
+Even More Practical
+Ways to Make This Book Work
+Once you’ve successfully targeted
+the right dominant emotions in your
+prospect, then it’s a matter of picking
+out the words that have been used
+to trigger this emotion in winning
+promotions … and learning from the
+example sentence taken out of real
+control mailings.
+This should get your juices
+flowing. In fact, as you contemplate
+your prospect’s feelings and read
+through this list, certain words will
+literally JUMP OUT at you!
+Be sure to jot them down as
+possibilities for your headline, deck
+copy, your lead or other critical areas
+of your promotion.
+Also remember that emotions are
+very fluid and difficult to fit in a tight
+box. Science is only now beginning to
+actually study them with technology.
+Which means that words in each
+section are NOT 100% limited to that
+specific emotion. Words that trigger
+feelings of fear in your prospect might
+also trigger anger, betrayal, shame or
+others.
+Overall, I’ve created this system
+simply to match up the words top
+copywriters have typically (and
+successfully) used to trigger certain
+emotions. You’ll find that they’re
+pretty accurate. And as a result, if you
+load up your copy with words from
+a certain section — your copy WILL
+carry that feeling.
+And, of course, the more
+experience you get with these ultra-
+powerful words, the better you’ll get at
+selecting exactly the right one for your
+needs.
+A Quick Glimpse at How It
+Looks In Action
+With a little practice, you’ll
+be able to dramatically boost the
+emotional potency of your copy. And
+you’ll do it with just these words.
+Below is an example from a
+wildly successful financial promotion
+Clayton wrote that’s loaded with
+words that trigger “fear.” I’ve bolded
+the main ones. Read through it and
+notice the visceral impact each one
+creates:
+“Just when you thought
+it was safe to get back
+into stocks — all of the
+economic ghosts of all
+the financial crises of
+the past 30 years are
+returning to shock Wall
+Street once again!
+As investors, you and
+I have been through a
+lot in recent years:
+We’ve witnessed the Tech
+Wreck of 2000 … the
+Debt Disaster of 1998 …
+and the Asian Crisis of
+1997.
+And don’t forget how
+stocks got slammed by
+the Energy Crisis of the
+1970’s … the Real Estate
+Bust of 1974 … the Bond
+Market Collapse of 1979-
+80 … the Banking/S&L
+Debacle of the 1980s …
+and when the Gulf War
+drove oil prices through
+the roof.
+Each one of these crises
+gutted investment values
+— and each one vaporized
+the prosperity, the
+financial security, and
+the retirement dreams of
+millions.
+Now these economic
+nightmares are once
+again rearing their ugly
+heads. Even worse: all 7
+are rapidly converging
+on the U.S. economy
+— and in the next few
+months, they will
+simultaneously slam into
+Wall Street, triggering
+the most painful
+economic collapse since
+1929.”
+Don’t you see and FEEL their
+impact? It’s a big part of why this
+lead hooked Clayton’s prospects, and
+brought in a truly MASSIVE number
+of new customers for Weiss Research.
+In direct response, results never lie.
+This example is just a taste of
+what you’ll find in the fear section.
+Clayton literally has over 100 words
+Chapter 1: How to Use this Resource
+www.getwsodo.com	www.getwsodo.com
+
+-- 7 of 60 --
+
+8 	Emotional Trigger Words
+just for “fear” alone, whereas if
+you look at many of the fear-driven
+financial promotions in the mail
+— you’ll see 10-20, TOPS. And
+remember — because I went through
+tons and tons of his own controls
+— just about every emotional word he
+knows is in this book!
+Now just imagine what you’ll be
+able to do with your own promotions
+when you have easy access to nearly
+1,500 proven emotional words and
+phrases. Many of which are even
+stronger than the ones bolded above.
+Words that instantly trigger … the
+shocking feeling of betrayal … the
+thirst for revenge … the jolt of a
+conspiracy … the ecstasy of regaining
+your health … and much, MUCH
+MORE.
+Tying Multiple Emotions
+Together in an Effective
+Sequence
+You’ll also discover that many
+emotions are very closely related
+to each other. When someone is
+afraid, he feels powerless. After a
+certain amount of time spent feeling
+powerless, your prospect may develop
+a deep and growing frustration and
+seek out a solution that gives him
+hope. He’ll want to feel passionate and
+happy about conquering these limiting,
+negative feelings.
+Similarly, if he feels the intense
+fear of loss, destruction, collapse
+or humiliation — presenting an
+opportunity to profit (the emotion of
+greed) will often help soothe these
+feelings.
+Likewise, security is an antidote
+to fear. Investors or health patients
+that are afraid of something want to
+feel secure — they want those fearful,
+uncertain feelings to fade away. So
+on a tactical level, you’ll build up the
+fear using “fear” words — and then
+you’ll offer a solution to the fear by
+connecting your product to language
+that brings about the feeling of
+security.
+And here’s another example: Let’s
+say that your prospect is afraid of
+not having enough money, of going
+broke, of being poor. This is a VERY
+common fear. What do you see in
+the most proactive people with this
+specific fear? They’re proactively
+greedy about making the amount of
+money that will wipe away that feeling
+of fear. Some may be more driven than
+others to gain money and conquer the
+fear of being poor — but the structure
+is exactly the same. They also seek
+ways to feel safe and secure about
+their money, however that can be
+accomplished.
+As a copywriter, you need to
+understand emotional patterns like
+this and set up situations — just like
+Clayton does — where one emotion is
+pushing your prospect and another is
+pulling him. In the example above, the
+prospect is being pushed by the fear of
+loss (he’s moving away from it) and
+being pulled in by the greed of gain
+(he’s moving toward it). Each emotion
+works together, multiplying each
+other’s power and effectiveness.
+Just look at a prospect in the
+health market. He is being pushed
+by (and wants to move away from)
+a variety of negative emotions
+— the fear of losing his life … the
+shame and humiliation of chronic,
+debilitating disease … the frustration
+of trying all kinds of natural solutions
+and having none of them really work
+… the anger and betrayal he feels
+regarding doctors who treat him like a
+walking statistic … the list goes on.
+Then at the same time he’s got the
+more positive, desirable emotions like
+hope, happiness, security, love and
+more. He desperately hopes his body
+will be able to heal naturally from the
+ailments that afflict him … he seeks
+the unique happiness that comes from
+boundless energy and good health
+… he wants the security of knowing
+he’ll be there (with a fully functioning
+body) for his wife and kids day in and
+day out … he seeks to increase and
+share his love for family by taking
+care of his health … and much more.
+Plus, he’s willing to work and
+go after things that help him feel
+these positive emotions — whether
+it’s powerful health information, a
+supplement, a brand new therapy or
+anything else. This is because they
+not only help him get what he wants
+and dreams, but also because they
+help him get away from the negative,
+reactive emotions that he’s struggling
+with all the time.
+Bottom line: When you combine
+the “push” of the negative emotions
+with the “pull” of the positive ones,
+your copy becomes a force to be
+reckoned with!
+Now let’s start learning all of the
+different emotions that will make you
+a not-so-small fortune in the weeks,
+months and years to come.
+www.getwsodo.com	www.getwsodo.com
+
+-- 8 of 60 --
+
+9
+Words that Get
+Your Prospect’s
+Blood Boiling …
+Anger is a very powerful and often
+under-used emotion in copywriting. But
+remember, there’s a distinct difference
+between actionable, USEFUL anger and
+useless anger that doesn’t help you a lick
+in making the sale.
+To use anger effectively and really
+make it actionable, you need to create a
+target. You’ll want to present somebody
+or something for your prospect to get
+angry at (i.e. an enemy). This enemy isn’t
+the end solution, but it prepares him to
+take action.
+That sets the stage for you to position
+your product or service as the solution
+— you’ll help him soothe his anger, and
+start to experience the more positive
+feelings he desires. And in certain cases,
+as we’ll see in the next two sections, you
+may even be able to give him ways to
+avenge his losses (through the emotion of
+revenge), turn the tables on his oppressive
+enemy, and more.
+To get into the feeling of anger
+and develop the ability to sincerely
+stimulate it, first understand the common
+patterns you see in sales and marketing.
+Anger almost always follows a problem
+of injustice, unfairness or unmet
+expectations.
+For example, your prospect expects
+doctors to care about his health, his life
+and his well being. But so often they
+don’t!
+And THAT’S grounds for anger.
+Think about the last time you got angry
+at somebody and you’ll see that this is
+true. Maybe it was somebody on the road
+who cut you off (and you were angered
+because he violated your sense of driving
+fairness and justice). Or perhaps it was
+that your son or daughter lied about doing
+their homework (because it goes against
+what you think should have happened
+— your expectations weren’t met).
+So the root cause of anger is any kind
+of violation of your prospect’s sense of
+justice — the way he thinks things should
+be. When you understand this, you’ll
+more readily spot other opportunities to
+trigger this emotion. ANY time somebody
+has expectations that are not being met,
+any time there’s a difference between
+what’s fair and what’s actually happening
+— there’s almost undoubtedly going to be
+anger present.
+Think about the investment market.
+Brokers, CEOs, Wall Street advisors and
+other people in positions of authority
+who claim to exist — and promote
+themselves as existing — for the purpose
+of making your prospect’s life easier,
+more profitable, of helping to protect and
+grow his existing money, for warning him
+of impending danger, etc. But that’s not
+always the case! Many people in these
+positions abuse him, lie to him, take
+his money and ruin his financial future.
+This is the opposite of what he expects,
+it’s unfair and it makes him justifiably
+furious.
+And you’ll find a similar pattern in
+the health market.
+In fact, let’s look at an example …
+The medical world is at war
+with itself. And frankly, if
+either side wins, you lose.
+Forgive me for being blunt
+— but for your sake, I just
+have to get this off my
+chest …
+Doctors and other medical
+experts who preach, “all you
+need is drugs” — who claim
+that nutritional supplements
+are worthless — are a hazard
+to your health!
+As we’ve already seen, even
+drug companies admit that
+taking prescription drugs and
+even seemingly harmless over-
+the-counter remedies leaves
+you vulnerable to serious
+nutrient deficiencies — and
+the deficiency diseases they
+cause.
+Listen to these extremists,
+and you’ll wind up taking
+even more drugs for every
+side effect — a deadly spiral
+that only leads you to
+disaster.
+Meanwhile, these extremists
+stubbornly ignore many
+natural remedies that
+have been proven to be as
+effective and in some cases,
+even more effective than
+costly, hazardous drugs!
+I’ve even had a case where
+doctors refused to listen
+when I recommended CoQ10 — a
+substance that could have
+saved a patient’s life — they
+recommended “pulling the
+plug” instead!
+Notice the angry tone in this example.
+The editor — in this case Dr. Sinatra — is
+venting on his prospect’s behalf over
+injustices that could be costing him is
+health … or even his life!
+So anytime you want to use anger,
+look for situations like this where the
+prospect isn’t being treated like he feels
+he should. If you can find instances of
+unfairness or injustice — jot down that
+anger as a dominant emotion. Then you
+simply create an opportunity (via your
+product or service) to release that anger
+and fulfill the other positive emotions your
+prospect is seeking. Let him know you can
+TRULY deliver the desirable feelings that
+others have been unable to do.
+Do that and you’re GOLDEN.
+Some more examples? If you’re in
+the water filter business and everybody’s
+making claims that are confusing your
+prospect, costing him money, stealing
+health benefits, continually frustrating
+him — you begin by defining and
+personalizing the enemy. Maybe it’s
+the large bottled water companies that
+are marking up their products 1800%
+… pulling the old “switcheroo” and
+putting tap water into their product …
+not removing all of the chlorine and
+contaminants, thereby risking his health
+… or anything else.
+Once you decide, you make it tangible
+for your prospect by building up and proving
+the corruption of the enemy until he’s likely
+to feel genuine anger over these lies and
+injustices.
+Then you position your product and
+spokesperson as the opposite — someone
+who really delivers on the promises that
+everyone else is making and lying about.
+In this water filter example, it could mean
+proving that your product is very fairly
+priced and will save your prospect many
+thousands over his lifetime … that your
+product removes every single contaminant
+2
+Chapter 2: Words that Get Your Prospect’s Blood Boiling … (Anger)
+Anger
+www.getwsodo.com	www.getwsodo.com
+
+-- 9 of 60 --
+
+10 	Emotional Trigger Words
+Bureaucrats – “The bureaucrats’ ‘perfect
+crime’ means you’ll soon need a prescription
+to buy your favorite vitamins!”
+Cheat – “In 2003, investors will discover
+that nearly ALL major stock brokerages
+– the heart and core of Wall Street – lied,
+cheated and robbed them blind.”
+Cocky – “And in early 2002, cocky brokers
+nearly laughed themselves silly when I
+warned that the high and mighty of Wall
+Street were about to be exposed as liars,
+cheats and thieves.”
+Crap – “If you’re like me, you have little
+tolerance for crap in any area of your life.
+So why should that be any different when it
+comes to your health?”
+Criminal – “ … the Wall Street Under-
+ground has been the only publication in the
+world with the guts to expose the greatest
+criminal conspiracy of our time …”
+Crooked – “PLUS, the investments that
+will soar 99% … 144% … up to 307%
+as these crooked brokers get what they
+DESERVE!”
+Cruel – “REVEALED INSIDE – The
+Cruelest Accounting Scandal EVER!”
+Damned – “Lies … Damned Lies … and
+GOVERNMENT STATISTICS.”
+Dirtiest – “Washington’s dirtiest secret:
+$1.4 Trillion Deficit Debacle Will Smash
+Stocks in 2004!”
+Disgusting – “ … In the final settlement,
+they are about to make absolutely explosive
+revelations about the most gross, disgusting,
+contemptible violations of investor trust yet.”
+Disgraceful – “Fluoridated water prevents
+tooth decay … THIS IS A DEADLY, DIS-
+GRACEFUL LIE.”
+Dollar-crazed – “ … Your healthy, natural
+dietary options are being sold down the river
+by a bunch of dollar-crazed bureaucrat
+shake-down artists.”
+Drug cycle – “Stay SAFE by STAYING
+OUT of the vicious drug cycle designed to
+keep you sick!”
+Fat doctors – “Tired of getting health advice
+from fat doctors with pasty faces and big
+red noses?”
+Fat cats – “The Fat Cats in power know it’s
+not a level playing field.”
+Fattest – “You BUY LOW by beat-
+ing Wall Street’s fattest fat cats to the
+punch …”
+Foisted – “It’s just one of the many health
+mistruths that have been foisted on the
+American public in recent years …”
+For the birds – “That’s for the birds! I
+have a better way.”
+Gambling – “U.S. banks are gambling
+with the depositors’ money – YOUR
+MONEY – to the tune of $56 trillion.”
+Get away with – “ … that drug compa-
+nies and their collaborators in government
+(and universities) can now get away with
+open fraud.”
+Gets my goat – “Here’s another one that
+really gets my goat …”
+Greed – “So why have several hundred of
+these beautiful, graceful, intelligent crea-
+tures been killed on this tragic morning?
+The answer: GREED.”
+Hands in the cookie jar – “When they
+got caught with their hands in the cookie
+jar, they made a big show of “cleaning up
+Wall Street.”
+Hate – “It wasn’t long ago that I was
+struggling to earn a living … jumping
+from one job I hated to another I hated
+even more …”
+Have it in for – “Yet, despite these
+findings, people still have it in for these
+delicious hot dogs.”
+Health establishment – “The road to real
+health means making your own choices
+and not just accepting what the health
+establishment says you ‘should’ do.”
+Hogwash – “Forget this half-hearted
+hogwash!”
+Hot shots – “Wall Street hot shots
+chuckled when I warned of an impending
+TECH WRECK in early 2000 …”
+Hot under the collar – “ … And it’s
+gotten me so hot under the collar I can’t
+even see straight!”
+Hype – “You SELL HIGH after Wall
+Street’s ultra-powerful hype machine has
+whipped up demand for your stock to a
+fever pitch …”
+Joke – “Earnings reports? They’re a
+JOKE – you never know if they’re real or
+phony!”
+and you’ve got the lab tests to prove it …
+and whatever else you need to convince him
+of.
+This is where salesmanship and
+persuasion come in — you sell yourself
+and build the trust and credibility that YOU
+ARE someone that really delivers and can be
+counted upon.
+Do this and all of the sudden your
+prospect’s anger becomes actionable. He can
+release his anger by ignoring these enemies
+and by coming to you for a REAL solution.
+And he can obtain the dominant positive
+emotional benefits he seeks … like the joy
+and happiness of great health … the release
+and freedom … the renewed hope and
+enthusiasm … and much more.
+As I explained in the intro, there’s
+always this emotional push and pull going
+on. It’s your job to figure out exactly what
+it is — in whatever marketing situation you
+find yourself in — and then to thoroughly
+convince the prospect that your product
+is the single best way to get away from
+the negative and move toward the positive
+feelings he desires.
+Anger
+Almighty dollar – “The facts about good
+health … have been obscured all in the name
+of the almighty dollar.”
+Arrogant – “The arrogant president of
+Pfizer defended the Cox-2 drugs and said
+in a television interview that, “there should
+not be a rush to judgment because of the
+findings.”
+Bigwigs – “The bigwigs and fat cats don’t
+want you to know this, but every time you
+put a glass of tap water to your lips, you put
+yourself in harms way for a host of health
+problems …”
+Big Pharma – “Need more convincing that
+Big Pharma is not your friend and is run by
+irresponsible lunatics?”
+Big shots – “When it comes to your health,
+the big shots want you on a short one (leash)
+indeed!”
+Bogus – “The more they spend on TV com-
+mercials and popular magazines, the more
+you can be sure the ‘breakthrough’ they’re
+selling is bogus. But profitable.”
+Bull – “It’s a lot of Bull! Don’t believe what
+you’ve been told about your health …”
+www.getwsodo.com	www.getwsodo.com
+
+-- 10 of 60 --
+
+11
+Junk – “Just say no to junk medicine …
+and outlive all of the health nags.”
+Know-it-alls – “ It brings you all the
+FREE GIFTS I’ve mentioned that will let
+you turn the tables on medicine’s misin-
+formed know-it-alls …”
+Livid – “I’m livid. It’s outrageous. These
+so-called “mainstream” financial publica-
+tions have been so utterly corrupted by
+their greed for advertising dollars …”
+Lose it – “Michael’s workday was getting
+so grueling, He’d lose it over nothing …”
+Medicrats – “But there’s boatloads of
+money to be made in Bird Flu vaccine,
+so big Pharma gets help from the medi-
+crats …”
+Money-grubbing – “And how else could
+they get away with this kind of shameless
+money-grubbing except under the guise
+of a public health concern?”
+Monopoly – “I completely agree with you
+regarding the medical monopoly!”
+Needless – “It’s a needless, bloody, un-
+necessary fishing technique called “setting
+nets on dolphins.”
+Nightmare of a mother-in-law – “I
+feel like the guy whose nightmare of a
+mother-in-law just drove his new Mer-
+cedes-Benz off a cliff.”
+Nonsense – “I have just one word for
+that: NONSENSE!”
+Notorious – “Hordes of Wall Street’s
+most notorious stock pushers line up to
+declare that “we’ve seen the bottom.” And
+they swear on a stack of Bibles that it’s
+time to buy stocks again.”
+Old wives tales – “ … and many state
+health departments continue to churn
+out a daily flood of lies, half-truths and
+old wives tales designed to scare us into
+submission!”
+Outrage – “An outrage? That’s putting it
+way too mildly!”
+Pad their profits – “In a greed-induced
+effort to pad their profits, U.S. banks
+have made trillions of dollars worth of
+highly leveraged, highly-complex and
+highly-dangerous bets with other financial
+institutions.”
+Paper trail – “This creates a ‘paper trail’
+on the milk, which can then be used as
+the basis for collecting tax revenue from
+those processors – and likely the farmers,
+too.”
+Payola – “ … so they get help from the
+medicrats in the CDC, the EPA, and the
+FDA by bribes disguised as research
+grants, consultation fees, and other forms
+of payola to help them develop a ‘cure.’”
+Perpetrated – “This represents a MAS-
+SIVE CON, a criminal fraud perpetrated
+on the American public …”
+Phony – “ … But when those phony prof-
+its suddenly vanish in a cloud of smoke in
+2003, there will be hell to pay.”
+Phony baloney – “These are the kind of
+phony baloney accounting practices only
+the US government could get away with!”
+Pill-pushers – “You’ve been kept in the
+dark too long by the pill-pushers and
+money-grubbers …”
+Politicians – “I show you why politicians
+and bureaucrats are lying to you about
+weaknesses in the economy …”
+Powers that be – “But the powers that
+be won’t allow that to happen – there’s
+just way too much at stake …”
+Puffed up politicos – “ … the puffed-up
+politicos, greedy mega-corporations and
+profit obsessed pharmaceutical companies
+won’t have you believe it for a second.”
+Quack – “These two-bit quacks would
+have you believe they’ve got your best
+interests in mind, but we both know other-
+wise.”
+Rats – “The Rats Are Jumping Ship!”
+Running rampant – “It’s been my
+mission to expose the hypocrisy that’s
+been running rampant in today’s health
+system.”
+Same old games – “But most are still
+playing their same old games. Nothing
+has changed!”
+Scathing – “Subsequently, Dr. Weiss
+delivers his scathing indictment of Wall
+Street and Main Street to all 100 members
+of the US Senate.”
+Scoundrels – “Millions of investors seem
+to hang on to every piece of new data to
+be issued by these government scoun-
+drels.”
+Self-righteous – “Don’t let self-righteous
+health sadists feed you any more lies …
+just give your body what it’s begging
+for!”
+S.O.B. – “Shameless Two-faced
+S.O.B.s!”
+Shafting – “They made billions in the
+1990’s by shafting individual investors.”
+Slickest – “The entire premise of the Wall
+Street bubble economy is built around a
+lie, the slickest con job of all time.”
+Steams me – “The point I’m trying to
+make is that it steams me to no end when
+the media makes sweeping pronounce-
+ments about nutrition, usually gleaned by
+so-called experts like the EPA or the U.S.
+Department of Agriculture.”
+Take a flying leap – “Tell the health
+police to take a flying leap and return to
+life’s guiltiest pleasures!”
+Take a hike – “Tell exercise fanatics to
+take a hike.”
+Terrible – “ … Allowing itself to be
+manipulated as an accessory to this crime.
+It’s terrible!”
+To hell with – “To HELL with the public
+health and welfare – their goal is to get
+everyone hooked on prescription drugs
+and manufactured, plastic food.”
+Twisting – “They are twisting the num-
+bers to greatly exaggerate their profits,
+often hiding seas of red ink …”
+Ungodly – “And this shockingly cheap
+therapy was the real health miracle for
+my patients in Africa, where the ungodly
+high cost of drugs condemns millions to
+death each year.”
+Unscrupulous – “… this is the secret
+plan of unscrupulous banks and brokers,
+and everyone else who cheats, fudges or
+tries to get rich at your expense.”
+Witch-hunt – “The worldwide witch-
+hunt against DDT hasn’t saved one
+peregrine falcon. But it has unquestion-
+ably murdered tens of millions of children
+in tropical nations …”
+Wrath – “These Wall Street hot shots will
+soon feel the wrath of individual inves-
+tors, especially as they rip their money out
+of these flimsy companies …”
+Chapter 2: Words that Get Your Prospect’s Blood Boiling … (Anger)
+www.getwsodo.com	www.getwsodo.com
+
+-- 11 of 60 --
+
+12 	Emotional Trigger Words
+that have relationships where trust is
+assumed and then completely breached
+through lies and sexual affairs. (A
+couple of years ago, actress Denise
+Richards violated the trust of her good
+friend Heather Locklear by having an
+affair with Heather’s soon-to-be-ex
+husband Richie Sambora.)
+And if you notice, a similar thing
+happens in the health, investment and
+other markets. Prospects assume a
+certain level of trust and integrity in a
+relationship with their doctors or their
+stock brokers and then that trust is
+completely betrayed.
+In these markets, the betrayal
+happens most often because of the
+perpetrator’s greed — the broker
+who wants a greater commission, the
+drug CEO who wants greater profits,
+the politician who wants to protect
+his special interests that back his
+campaigns, etc. So notice also how
+many of the words and sentences in this
+section address the greed that caused
+the deception.
+To fully use betrayal, look for
+places where your prospect may have
+assumed a high level of trust and
+vulnerability. Find specific instances
+where this trust and vulnerability was
+taken advantage of and abused. There’s
+a high probability of betrayal there.
+Your job is to showcase and
+personalize the scandal — because
+this will naturally trigger the feeling of
+betrayal. By “personalize,” I mean to
+dimensionalize what the scandal means
+for him and his life. This is guaranteed
+to get his blood pumping — and you’ll
+also make him much more eager to find
+the solution! After that, you’ll often be
+able to jump to the next emotion which
+is revenge.
+Here’s an example of betrayal in
+winning copy:
+SOMEBODY’S Not
+Telling You the
+Truth!
+That’s not good. Because your
+savings … your investments …
+and even your retirement all
+depend on the quality of the
+investment decisions you’re
+making RIGHT NOW!
+… So which is it?
+Are Washington and Wall
+Street right? Is the economy
+recovering? Is the bear market
+over? Are we on the cusp of
+a great new bull market in
+stocks?
+Or are these and other
+economic disasters about to
+push your portfolio off yet
+ANOTHER cliff?
+You’re Holding the Answers in
+Your Hand
+In the enclosed bulletin, I
+reveal who’s lying to you and
+why.
+I reveal how the very people
+you trust to keep Wall
+Street honest are themselves
+embroiled in the greatest
+accounting scandal of all
+time: one hundred times larger
+than the financial lies at
+Enron, WorldCom and Global
+Crossing that smashed stocks
+over the past couple of years.
+I show you how their lies are
+about to impact your savings,
+investments and retirement
+— and what you must do
+IMMEDIATELY to insulate your
+wealth …
+And I introduce you to
+investments and strategies
+that we’re already using to
+bag profits of 99% … 144% … up
+to 307% even while stocks were
+falling!
+I urge you: Do NOT be taken
+in. You’re being set up. The
+enclosed bulletin can make
+sure you’re protected and THEY
+fail.
+The words listed on the next page
+are exceptionally strong and often have
+been the power behind huge winning
+headlines. This is a big reason why
+good conspiracy and exposé-style
+packages have done so well for Clayton
+and other top writers — they’re filled
+with this incredibly powerful feeling.
+The National
+Enquirer’s
+All-Time Hottest
+Emotion …
+Can you guess which emotion the
+Enquirer uses whenever possible? If
+you guessed betrayal — you’re right on
+the money!
+Betrayal is very closely related to
+anger. Many of the “betrayal” words in
+this chapter are not typically associated
+with anger, but when you really give
+them a closer look, you’ll find that it’s
+the overriding feeling that they help
+trigger.
+But there IS a difference: Betrayal
+is a very specialized form of anger
+— it’s anger that arises under very
+specific circumstances. Almost always,
+the circumstances that create betrayal
+surround the issue of deception.
+When someone’s been intentionally
+deceived about something — whether
+it’s a spouse cheating … a drug
+company CEO lying about the safety
+of his product … or a broker pushing
+stocks he knows are about to plummet
+— this person is almost sure to
+experience betrayal.
+To understand this emotion better,
+try thinking and, more importantly,
+FEELING what it’s like to experience
+betrayal. Have there been times in your
+life when you were betrayed? Maybe
+it was a boyfriend or girlfriend who
+cheated and then tried to cover it up.
+Or perhaps you had an employee skim
+money from the company or abuse
+some sort of privilege. If you can look
+back and conjure up this feeling, you
+also find that you were angry because
+of how that person intentionally misled
+you. This is what hurts most.
+That’s why — when you look at
+the words on the next page — you’ll
+notice that most of them deal with
+extreme forms of dishonesty. People
+feel betrayed when they’ve been
+intentionally deceived about something,
+when they’ve had their trust completely
+violated. That’s also why you see it in
+the tabloids so often.
+There are so many movie stars
+3 Betrayal
+www.getwsodo.com	www.getwsodo.com
+
+-- 12 of 60 --
+
+1
+Blood money – “He stayed positive on
+Winstar to the bitter end – and happily
+continued collecting his blood money
+from Salomon.”
+Bribing – “Trouble is, with CEOs still
+effectively bribing brokers to hype
+their companies’ stock, it’s darned near
+impossible to know who to trust today.”
+Burned – “Bottom line: If you trust any
+of the economic forecasts now coming
+from Wall Street and the investment
+media, you’re about to be badly burned
+– again!”
+Busted – “And despite being busted for
+issuing overwhelmingly positive stock
+ratings, Wall Street analysts are STILL
+issuing FIVE TIMES more ‘buy’ ratings
+than ‘sell’ ratings!”
+Callous – “This is the most callous
+betrayal of individual investors yet – by
+a L-O-N-G shot!”
+Caught red-handed – “They laughed
+out loud in 2001 when I cautioned
+that U.S. corporations were cooking
+their books and would get caught red-
+handed, and that the news would smash
+blue chips …”
+Con – “The answer is clear: these
+schemes only work as long as more and
+more money is flowing into the con
+game.”
+Concealed – “But you may not know
+that they (dolphins) are being killed
+– because the billion dollar tuna industry
+has successfully concealed the truth
+from the public.”
+Conspiracy – “CoQ10 Conspiracy!”
+Cooked up – “It’s just another lie
+cooked up to sell running shoes and
+gym memberships!”
+Cooking their books – “They laughed
+out loud in 2001 when I cautioned that
+U.S. corporations were cooking their
+books and would be caught red-handed,
+and that the news would smash blue
+chips …”
+Corruption – “Deep corruption –
+perhaps the worst of any current regime,
+extending into every business, every
+bank.”
+Cover up – “Yet the government is
+adding these surpluses into the federal
+budget to help cover up the deficit.”
+Crime – “It’s a crime that most doctors
+don’t know more about this and hardly
+any tell their patients.”
+Culprit – “The surprising culprit that
+triggers memory loss so severe, it’s
+often mistaken for dementia or even
+Alzheimer’s in people over 60.”
+Dark – “Want to know a deep, dark
+secret that bypass surgeons hate to
+admit?”
+Deception – “We’ve already seen how
+the hint of earnings deception hammers
+the entire market lower.”
+Didn’t smell right – “And right from
+the start, something didn’t smell right
+about PC-SPIES …”
+Disinformation – “Specifically, U.S.
+government bureaucrats have launched
+a campaign of disinformation designed
+to pull the wool over your eyes …”
+Don’t tell you – “What doctors don’t
+tell you about testosterone isn’t just
+stealing your potency — IT’S KILLING
+MILLIONS OF MEN EVERY YEAR.”
+Exaggerating – “I warned that record
+numbers of corporate CEOs are
+shamelessly exaggerating their earnings
+– and if you own their stocks when
+they get caught, you’re going to lose a
+fortune.”
+Falsehoods – “And he’s taking on all
+the most cherished new falsehoods that
+make today’s patients miserable …”
+Fiddling – “Washington is fiddling
+while the dollar burns!”
+Fix – “But Wall Street Underground
+subscribers knew the fix was in from the
+start.”
+Fleece – “Discover the shocking
+TRUTH that can protect you from being
+fleeced again!”
+Flim-flams – “You’ll protect your
+family’s health by ignoring the health
+flim-flams that are making them sick.”
+Fooled – “Don’t be fooled by false
+rallies!”
+Forget – “Forget soyburgers and tofu
+– they’re dangerous!”
+Fraud – “Internet stocks are a fraud,
+an elaborate carefully-prepared scheme
+designed to make instant billionaires at
+your expense.”
+Fudged – “Listen – when Enron fudged
+Think about it. Conspiracy is
+an extreme case of deception and is
+virtually guaranteed to trigger the
+response-boosting emotion. Observe
+how many of the words below
+come from promotions that expose
+conspiracies.
+Why is betrayal so effective? Partly
+because it’s such a visceral emotion
+that it really grabs attention like no
+other. Real betrayal almost instantly
+hits you in your gut. That’s why it
+works like gangbusters for the Enquirer
+and other tabloids — and it’s why they
+use it whenever possible!
+If you can get the prospect feeling
+this way through your headline, lead
+and body copy, you’ve built up a really
+staggering amount of momentum
+toward action. Just tickle his greed
+glands … keep tying everything into
+removing his negative feelings and
+achieving the positive ones … offer
+compelling reasons why he needs to
+act and ACT NOW … and BINGO …
+you’ve got a sale!
+If you steal even a few of these
+power words, I guarantee you’ll infuse
+your promotions with more potency
+and momentum than ever before.
+Betrayal
+Baldfaced – “4 baldfaced federal lies
+now threaten to demolish what’s left of
+your income, your investments, your
+retirement and your financial security …”
+Bamboozled – “In practice, though, I
+know that investors are being cajoled,
+nagged and bamboozled by brokers
+and others into holding stocks or even
+buying more.”
+Betrayal – “The Ultimate Betrayal of
+the Stock Market Lambs.”
+Betrayed – “Betrayed Again!
+Corporate fat cats are setting you up for
+a fleecing!”
+Blackmail – “How the IRS may be
+blackmailing IBM – by issuing a
+demand that computer companies with
+a minimum of $200 million in working
+capital fix the IRS computers and pay
+the cost themselves …”
+Blinded – “Don’t be blinded by Lasik
+hype (and nine other healing lies)!”
+Chapter : The National Enquirer’s All-Time Hottest Emotion … (Betrayal)
+www.getwsodo.com	www.getwsodo.com
+
+-- 13 of 60 --
+
+1 	Emotional Trigger Words
+its earnings reports, it only inflated the
+numbers by about $400 million.”
+Further from the truth – “Nothing
+could be further from the truth!”
+Gospel – “This is also a perfect example
+of how absolutely unfounded health
+theories become gospel.”
+Hoax – “The Great Cholesterol Hoax”
+Hoodwink – “CAUTION: Washington
+and Wall Street are conspiring to
+HOODWINK YOU!”
+Hucksters – “ You can thank them
+for taking your savings and putting it
+into the pockets of a handful of greedy
+executives and Wall Street hucksters.”
+Hypocrisy – “But over the years, I grew
+tired of hypocrisy in my profession …”
+Led astray – “It’s time you stopped
+being led astray by health organizations
+that don’t have your best interests at
+heart.”
+Lie – “Your own GOVERNMENT
+is telling you THREE, INSIDIOUS
+LIES!”
+Lying – “In the enclosed bulletin, I
+reveal who’s lying to you and why.”
+Manipulating – “Why the odds
+now appear to be 1-in-3 that the
+companies behind YOUR stocks may
+be manipulating their earnings – either
+legally or illegally.”
+Misleading – “Two ways misleading
+earnings reports can cost YOU up to
+90% of your money.”
+Myth – “GLUG! Americans are
+drowning in a watery myth!”
+Myth-Buster – “Learn the facts of real
+health from medicine’s most acclaimed
+Myth-Buster!”
+Not telling you the truth – “One thing
+is for certain: SOMEBODY’S not
+telling you the truth!”
+Obscuring – “They’re obscuring the
+real facts, covering up the truth so they
+can rob you blind.”
+Phony – “The government’s
+unemployment statistics are as phony as
+a three-dollar bill!”
+Propaganda – “I’m talking about the
+propaganda that the fluoridated water
+that comes out of the tap is good for you
+and safe to drink …”
+Pull the wool over your eyes
+– “Specifically, U.S. government
+bureaucrats have launched a campaign
+of disinformation designed to pull the
+wool over your eyes …”
+Raw end of the deal – “But many
+investors like you got the raw end of
+the deal …”
+Rip-off – “The Great Acidophilus RIP-
+OFF!”
+Ripped to shreds – “ … and to push
+you back into the arms of the very
+brokers who ripped your portfolio to
+shreds in 2001 and 2002.”
+Real cause – “The real cause of many
+cases of depression (hint: look in your
+medicine cabinet).”
+Rob you blind – “Wall Street’s Fat
+Cats are scheming to rob you blind
+– AGAIN!”
+Scam – “The earnings scandal that
+rocked the stock market in 2001 and
+2002 was small in comparison to the
+greatest accounting scam of all, which
+is about to be exposed.”
+Scandal – “In 2001, I warned you that
+brokerage scandals would continue
+slamming stocks – long before swindles
+at Merrill Lynch, Saloman Smith Barney
+and the rest hit the headlines …”
+Scheme – “And much of what they do
+and say – including their stock ratings
+– is part of a deliberate scheme to get
+YOU to do something that will make
+THEM richer.”
+Set-up – “It was a set-up. Wall Street
+talked ordinary investors into risking
+everything they had on a mountain of
+unfounded hype …”
+Shameless – “First, let me give you
+a quick preview of the shameless lies
+Washington is telling you now …”
+Skim – “8 sneaky ways unprincipled
+brokers skim your account – and how
+you can stop them … COLD!”
+Snake oil – “I’ll continue to shatter the
+myths about health that have been sold
+to you like so much snake oil.”
+Sneak attack – “In your complimentary
+copy of NO MORE SNEAK ATACKS,
+you’ll learn how to avoid the deadly
+disasters that so many of today’s drugs
+create …”
+Sold down the river – “It’s just one
+more example of how your healthy,
+natural dietary options are being sold
+down the river and why it all comes
+down to greed …”
+Spin – “No, you are being encouraged
+to continue taking a dangerous drug by
+marketers-professionals who are paid to
+“spin” any story, however controversial,
+so it comes out smelling like roses.”
+Suckers – “Buy and hold is for suckers.
+Especially in a bear market.”
+Stinks – “This is science by press
+release … and it stinks like yesterday’s
+tuna!”
+Swindle – “Washington’s political and
+bureaucratic fat cats are setting you
+up for yet ANOTHER great STOCK
+MARKET SWINDLE!”
+Taken in – “I urge you: Do NOT be
+taken in. You’re being set up.”
+Throw good money after bad – “And
+as I show you in this report, they’re
+perfectly willing to do whatever it takes
+to convince you to throw good money
+after bad.”
+Tinkering – “And reveals how US
+government economic tinkering can
+only make matters worse, dooming
+the US to a prolonged economic
+nightmare.”
+Treachery – “Insulate your wealth and
+USE their treachery to grow up to SIX
+TIMES RICHER in 2004-2005!”
+Trick – “Key economic data issued by
+Washington is being carefully massaged
+to trick you into believing the economy
+is much, MUCH stronger than it really
+is.”
+Veiled – “I show you how broker ratings
+are too often nothing more than thinly
+veiled sales pitches.”
+Veto – “Valerian Veto: Why you should
+never take valerian root supplements if
+you want to keep your adrenal glands
+healthy …”
+Wrong – “Most of what you’ve been
+told about what’s good for you is just
+plain wrong, wrong … WRONG!”
+www.getwsodo.com	www.getwsodo.com
+
+-- 14 of 60 --
+
+1
+Don’t Get Mad …
+Get EVEN
+Revenge is the natural extension
+of anger and betrayal. It’s the most
+actionable feeling of the three. It’s
+part of what motivates your prospect
+to reverse those negative feelings
+and make things better. If he’s angry
+about being abused and humiliated by
+doctors or robbed and ripped off by
+brokers, he’ll be motivated to exact
+revenge on them.
+For example, some of Clayton’s
+biggest winners for Weiss tapped
+into the prospect’s anger at deceptive
+CEOs, greedy brokers, and crooked
+politicians. He then gave his prospect
+the option of ACTING on this feeling
+by responding to the offer. The
+sweetest revenge is “getting rich.” It
+is so powerful to connect making a
+killing in the market with getting even
+with your enemies!
+Here’s a lengthier example:
+Beat Deceitful CEOs
+At Their Own Game And
+Turn This Exclusive
+Information Into A
+Massive Investment
+Windfall!
+Call me crazy — but I
+still believe that being
+able to trust corporate
+earnings reports is
+absolutely vital.
+Regardless of what wet-
+behind-the-ears newbies
+may think, fundamentals
+still matter. Profits
+still matter.
+Heck. Without accurate
+earnings reports, you
+can’t even trust the P/
+E ratio of the stocks
+you own. How can you
+even know if a stock is
+outrageously cheap or
+ridiculously expensive?
+You can’t!
+That’s where I can help
+— by rushing you a
+FREE copy of THE WEISS
+CORPORATE EARNINGS
+BLACKLIST — 3 ways
+to double your money
+every year by beating
+deceitful CEOs at their
+own game.
+THE WEISS CORPORATE
+EARNINGS BLACKLIST
+begins by exposing all
+the dirty little tricks
+corporate big wigs use —
+legally and illegally —
+to disguise losses while
+inflating revenues and
+earnings. You also get a
+listing of the companies
+that have been caught in
+blatant earnings lies in
+the past 24 months. My
+dad used to always tell
+me, “If you lie down
+with dogs, you’re going
+to get fleas.” These
+companies are the lying
+dogs of Wall Street.
+Avoid them at all costs
+— and if you own any
+of these stocks, cut
+your losses — dump
+them now! Plus, I give
+you the names of 1,371
+companies whose earnings
+and cash flows appear
+to be out of whack
+— and which are most
+likely to get caught
+artificially pumping up
+their earnings reports
+in coming months.
+Believe me: Crooked CEOs
+are going to scream
+bloody murder when they
+see their names on this
+list!
+Unless you’re a
+masochist, I’d strongly
+suggest that you think
+twice — and then three
+times — before buying
+or holding any of these
+stocks!
+PLUS, I give you 3
+easy ways to turn this
+proprietary information
+into an absolute
+goldmine — including an
+ingenious twist on the
+strategy my clients have
+used to earn profits of
+up to 4,592%!
+What could be sweeter
+than growing rich by
+beating these greedy
+CEOs at their own game?
+Nothing!
+When you use this emotion, make
+SURE it’s a situation where your
+prospect will naturally feel attracted
+to the possibility of getting revenge.
+Also make sure that you set the
+conditions so that your offer is seen as
+the perfect and ONLY way to get back
+at the perpetrators. That’s exactly what
+Clayton did in this example. It was
+one of the first and highly successful
+promotions he did for Weiss.
+This doesn’t just apply to the
+investment market. Whenever your
+prospects have been mistreated
+and betrayed, they’ll get emotional
+satisfaction from thwarting the
+efforts of their enemies. There’s a
+certain level of vindication that we
+all get when we’re able to beat those
+who tried to take advantage of us or
+thought they were smarter than us.
+Using these words taps into this very
+universal feeling.
+To quickly summarize: When you
+want to maximize the power of the
+words in this section, you’ll need to do
+the following:
+1. Present a situation where your
+prospect is being abused, mistreated
+or deceived. It could be that brokers
+are skimming from his account
+or recommending he throw good
+money after bad … it could be that
+drug companies are intentionally
+paying for studies that try to falsely
+invalidate important nutritional
+supplements … or it could be that
+cosmetic companies are loading up
+their products with cancer-causing
+chemicals that age your body and
+put you at risk for disease.
+2. Let your prospect know that this
+bad situation could have a positive
+upside, but only if he acts fast. This
+is where the benefits, particularly
+the emotional benefits, come in.
+However, you don’t have to lead
+off with the benefits. Clayton often
+does not.
+3. Prove that the problem and the
+4
+Chapter : Don’t Get Mad … Get EVEN (Revenge)
+Revenge
+www.getwsodo.com	www.getwsodo.com
+
+-- 15 of 60 --
+
+16 	Emotional Trigger Words
+Get back – “Want to get back
+at these crooks? Follow the sage
+advice on page 13 …”
+Get even – “Don’t get mad, get
+even. Invest in stocks almost
+guaranteed to make you rich as
+brokers continue to dish out bogus
+recommendations …”
+Make up for – “The best way to
+make up for your losses? Ditch
+your broker, ignore Wall Street’s
+lies and follow a proven investment
+system that had made truckloads of
+money in times just like these …”
+Payback – “The ultimate payback?
+Getting rich at THEIR expense!”
+Punish – “How to punish a
+dishonest broker – and get money
+BACK!”
+Reverse any attack – “… and to
+reverse any attack so that you
+come out the winner instead of the
+victim!”
+Reclaim – “Here’s everything you
+need to keep your broker honest
+– and even to reclaim money a
+dishonest broker may have cheated
+you out of!”
+Strike back – “It’s time to strike
+back against these crooks – and the
+time is NOW!”
+Strike force – “Each month I
+employ a veritable strike force of
+proprietary timing indicators …”
+Swift and sweet – “Revenge will
+be swift and sweet for anyone
+who lost money on a broker’s
+recommendation.”
+Thwart – “13 valuable tips to thwart
+petty thieves when traveling …”
+Tit for tat – “I say tit for tat – which
+means it’s high time you stopped
+getting mad at these shady characters
+and started getting even …”
+They fail – “The enclosed bulletin
+can make sure you’re protected and
+THEY fail.”
+Took to task – “Dr. Douglass
+took surgeons to task for bullying
+women into this drastic procedure.”
+Turn the tables – “Plus, how
+to turn the tables on them and
+insulate your wealth …”
+Ultimate weapon – “I hope you’ve
+decided to fight back. If so, I’ve
+created the ultimate weapon to
+help you …”
+Vengeance – “But once you get this
+powerful report into your hands,
+vengeance will finally be yours …”
+Vindication – “Best of all, you’ll
+experience the sweet vindication
+of getting filthy-rich while these
+corporate crooks crash and burn …”
+Waging War – “They’re not only
+waging war on the dollar, they’re
+waging war on YOUR dollars.”
+What’s rightfully yours – “Here’s
+how to take back what’s rightfully
+yours …”
+enemy are legitimate. This is huge
+and often overlooked. Presenting
+a problem or an enemy is just
+like presenting a benefit — your
+prospect will be inherently skeptical
+until he sees an overwhelming body
+of proof.
+4. When it’s time to introduce your
+product or service, position it as the
+solution to the enemy — a way to
+avoid the horrible things that the
+enemy has created. Include all of
+the benefits that will come from
+solving this problem.
+5. Take it one step further, as in
+the example above; make it clear
+that he’ll also be fighting back
+— and getting sweet revenge — on
+this enemy that’s trying to make
+his life miserable. If you do this
+right, he’ll equate a certain amount
+of emotional vindication and
+satisfaction with responding to your
+offer.
+6. Close your copy keeping these
+powerful emotions — plus the
+amazing benefits — at the forefront
+of his mind.
+Ultimately, this is what it takes
+to use any of the three ultra-powerful
+emotions effectively. Then you look
+for places to insert the words and
+kinds of sentences you see here. Your
+copy will be certain to carry and
+convey those feelings extremely well!
+Revenge
+Against them – “Ordinary
+investors … used Wall Street’s own
+secret techniques against them
+– and made FORTUNES when the
+market fell in April and most people
+were losing theirs.”
+Avenge – “Here’s how to avenge
+your losses and rake in profits of
+307% or more …”
+Backlash – “But the coming
+anti-broker backlash will also be
+dangerous for anyone with money
+on deposit with a vulnerable firm!”
+Comeuppance – “You’re going to
+see sleazy, arrogant crooks finally
+get their comeuppance.”
+www.getwsodo.com	www.getwsodo.com
+
+-- 16 of 60 --
+
+17
+NOW. It may save your
+life – or the life of
+your loved ones!
+One critical thing to realize about
+fear, however, is that it cannot make
+the sale alone. Fear needs to work in
+tandem with greed to be effective in
+selling. I see fear as a very forceful
+way of grabbing your prospect, and
+compelling him to read your message.
+It also works powerfully in
+convincing him that he needs to
+do something NOW to avoid the
+dire consequences presented in the
+promotion. If you do that right, and
+offer him a solution that also resonates
+very powerfully with his natural greed
+to make more money, get healthier,
+look better, have more self-confidence,
+etc … then your chances of making
+the sale are VERY high.
+Again the same principle of the
+positive and negative, push and pull
+still apply. The fear will be reactively
+driving your prospect but it cannot
+work alone. We react all day, every
+day in response to things that make us
+afraid. But we actively seek out things
+that not only release us from fear —
+but ALSO allow us to fulfill our greed,
+envy, need for security, etc.
+Putting too much emphasis on the
+fear and not on the overall emotional
+pattern that’s going to get him to act
+is a rookie mistake that you’ll never
+see top writers like Clayton make.
+While an inexperienced writer will
+try to scare the bejesus out of his
+prospect and then say, “By the way,
+here’s my product” — top writers will
+take full advantage of the emotionally
+polarized interaction between fear and
+more proactive emotions like greed.
+They will always follow the fear of
+loss immediately with the greed of
+gain, so that the prospect immediately
+associates their offer not only with
+avoidance of what he doesn’t want
+… but also with the acquisition of
+EXACTLY what he does! This is the
+most powerful way to set up your
+copy.
+Some examples? Most of
+the words below came from the
+investment market, but you’ll also
+find examples from the health field.
+A dark picture is often painted of
+devastating collapse, huge losses in
+money and security, shocking theft and
+humiliation, etc. This gives you the
+fuel and ammo to send your prospect
+aggressively after the greedier, more
+positive part of your offer, the 407%
+gains in gold, the 785% profits he’ll
+rake in on oils stocks, etc.
+In the health market, you can build
+up the fear of surgery, or disease, of
+death, of lying in a hospital miserable
+and powerless with nobody to trust.
+You build up those feelings as fuel
+and motivation to seek out the desired
+health benefits, the clearing of plaque,
+the renewed sex drive, the sexier body
+and whatever else your prospect is
+looking for!
+Just know that you need to make
+a thrilling, persuasive argument about
+why your prospect’s feeling of fear is
+legitimate and strategically mix up the
+pace with greed, benefits, etc.
+Think of a horror movie. If the
+whole thing — every single minute
+— was scary than it would be
+overwhelming. The viewer would
+quickly tire out and stop watching.
+It’s the same thing with your sales
+message. There needs to be a rhythm
+… a building up … a peaking of the
+feeling … and then a brief period
+of relaxation. Just like the first-rate
+movies. This letdown period is where
+you mix in the benefits and stimulate
+his greed. Then you get back into the
+fear, build it up — the same process
+over and over — with each one getting
+more gripping and persuasive.
+This sets up your prospect for the
+close, where he gets to take action and
+protect himself against the object of his
+fear; and in the process make his life
+richer, healthier and open to more of
+whatever he wants.
+The words for fear are pretty
+easy to use — IF you practice them.
+I recommend that you review them
+often and even start creating your
+own sentences using them as practice.
+The more you can put them in your
+Scary Words
+that Grab Your
+Prospect and Force
+Him to Keep Reading
+As I went through this, I was
+absolutely astounded by the sheer
+volume of words that effectively stir
+up the emotion of fear. It is clearly one
+of the most dominant of all emotions
+used in sales copy — an absolute must
+in the fields of investment and health.
+When it comes to money and
+health, there are so many things of
+which your prospect is afraid. He’s
+afraid of losing his money, he’s afraid
+of missing out on an opportunity to
+make money, he’s afraid the “fat cats”
+in Washington and Wall Street are
+lying to him and conspiring to set him
+up for a fleecing, and much, much
+more!
+In the health industry, he’s afraid
+that he’ll suffer painful disease and
+die, he’s afraid he won’t be able to
+perform sexually, he’s afraid that
+doctors and drug companies will
+poison him with drugs that have
+hidden side effects … and the list
+goes on.
+Here’s a brief example:
+According to the Lancet
+medical journal, Vioxx,
+Bextra, Celebrex and
+Aleve – common arthritis
+drugs – are triggering
+tens-of-thousands of
+heart attacks and could
+send YOU to an early
+grave!
+That’s a hefty price for
+pain relief!
+Especially since there’s
+an all-natural remedy
+that WIPES OUT arthritis
+pain … REBUILDS damaged
+bones … RESTORES worn
+out cartilage … and even
+boosts healthy heart
+function!
+And it costs JUST
+PENNIES!
+Before you take another
+prescription drug – read
+this urgent bulletin
+5
+Chapter : Scary Words that Grab Your Prospect and Force Him to Keep Reading (Fear)
+Fear
+www.getwsodo.com	www.getwsodo.com
+
+-- 17 of 60 --
+
+18 	Emotional Trigger Words
+of bonds will skyrocket in 2004 and
+beyond.”
+Bad guys – “Don’t let the bad guys
+– unhealthy bacteria – take over and
+rule YOUR digestive system”
+Bankruptcy – “Sleepwalking
+toward bankruptcy!”
+Batter – “With all the problems
+now lining up to batter U.S.
+stocks, I expect the Weiss Windfall
+Strategy will make my clients richer
+than ever before …”
+Belly-up – “If you owned Enron
+when it went belly-up last
+December, you lost 99.9% of your
+money.”
+Beware – “Women Beware! Why
+nearly twice as many women die
+from heart disease than from all
+forms of cancer – including breast
+cancer.”
+Bleeding – “I’ve also identified
+another 652 big companies that are
+bleeding so much red ink that they
+will have a hard time surviving
+another year …”
+Blindsided – “For starters,
+thousands of bank customers have
+been blindsided by bank failures
+over the last couple of years simply
+because they didn’t realize they had
+deposits exceeding $100,000.”
+Bites the dust – “As the number of
+failed banks continues to rise …
+and especially when a big-name
+bank bites the dust, what little is
+left of investor confidence will be
+SHATTERED.”
+Bloodcurdling – “This
+situation represents absolutely
+bloodcurdling hazards for
+investors, PLUS, the opportunity to
+pile up profits of up to 300% – IF
+you make the right moves NOW!”
+Bloodletting – “This is going to
+be a vicious bloodletting – one of
+the ugliest that Wall Street has ever
+seen …”
+Bloodiest – “These irresponsible
+bankers are now facing the
+bloodiest CRASH in more than 70
+years!”
+Bloody – “For the past 30 years,
+mankind has declared a bloody war
+on the dolphin.”
+Body count – “And I am personally
+horrified to hear such phrases being
+used as “body count,” “kill quota,”
+and “mortality figures …”
+Booby trap – “Here’s ANOTHER
+$639 billion booby trap that has
+bankers scared stiff …”
+Brewing – “There are signs that
+another recession is brewing …”
+Brittle – “How osteoporosis drugs
+actually make your bones more
+brittle …”
+Brutality – “But perhaps you are
+wondering why all this inhumane
+brutality is still going on, because,
+after all, Congress passed the
+Marine Mammal Protection Act in
+1972.”
+Bubble/burst – “ALL bubbles
+eventually burst … the tech bubble
+blew up in their faces!”
+Buried – “These high-tech
+companies will soon be dead broke
+– buried and gone – taking the life
+savings of three generations with
+them.”
+Carnage – “I show you how to
+insulate your wealth from the
+carnage to come.”
+Cataclysmic – “ … will trigger
+the most cataclysmic destruction
+of personal wealth in our lifetime
+– driving the DOW to below 5000
+… the S&P 500 to below 600 …”
+Catastrophe – “You can bet your
+bottom dollar that the devastating
+losses we’ve seen recently
+guarantee economic catastrophe
+and ANOTHER vicious slaughter
+of US stocks and equity funds in
+2002!”
+Caution – “Caution: Private
+insurance can be hazardous to your
+health …”
+vocabulary, the better off you’ll be. As
+I mentioned earlier, one of the reasons
+why Clayton writes so much better,
+more compelling “fear” packages
+is that he’s got a full-sized army of
+words and vivid, frightening imagery
+— where as other writers barely even
+have a little platoon.
+Since fear is always going to be a
+strong possibility for you in your sales
+promotions, it pays to excel at using
+this emotion.
+Fear
+Aging – “I’m going to show you
+the single biggest factor in male
+aging …”
+Agony – “But that’s only the
+beginning of the agony for this
+school of dolphins on this fatal
+morning in the Eastern Tropical
+Pacific Ocean.”
+Agonizing death – “Social security
+is dying a slow agonizing death.”
+Aggression – “Military aggression
+– including nuclear aggression, with
+its roots in Maoist doctrine of world
+domination.”
+Alarming – “These alarming
+new trends are GUARANTEED
+to continue into the foreseeable
+future.”
+Anxious – “Invest without fear …
+even in these ANXIOUS times!”
+Apocalypse – “Seven Horsemen
+of the Coming Stock Market
+Apocalypse.”
+Armageddon – “Wall Street
+Armageddon!”
+Assault – “15 new assaults on your
+health and wealth in 2006.”
+Attacked – “Thousands of U.S.
+companies are now being savagely
+attacked by not one – but THREE
+– deadly enemies …”
+Avalanche – “Banks will be buried
+under an avalanche of bad paper.”
+Ballooning Deficits – “Ballooning
+federal deficits guarantee the supply
+www.getwsodo.com	www.getwsodo.com
+
+-- 18 of 60 --
+
+19
+Chain reaction – “I show you how
+some giant U.S. banks are at risk
+for failure – and how even just ONE
+major collapse is like to trigger a
+devastating chain reaction …”
+Chilling – “In this eye-opening
+report, I show you why this banking
+panic means you’re in for the most
+chilling ride of your investment
+lifetime.”
+Clocked – “If you do, you’re going
+to get clocked – along with millions
+of others who don’t see real estate
+for the trap it really is.”
+Choking – “Slowly choking off
+blood flow to your heart …”
+Chopping block – “Later you’ll see
+at least one big-name bank hit the
+chopping block.”
+Clobbered – “REITs will get
+clobbered. Construction stocks
+will plunge. Bank profits will
+disappear!”
+Collapse – “Japan’s economy is
+very close to COLLAPSE.”
+Collateral damage – “Here’s the
+bad news: Your stocks … your
+bonds … even your retirement
+are about to become collateral
+damage.”
+Contaminated – “They found
+it was contaminated with three
+different prescription drugs …”
+Coup de grace – “The result is a
+self-administered coup de
+grace …”
+Crash – “Four irrefutable reasons
+why real estate MUST CRASH in
+2003 …”
+Crater – “Let’s take a look at
+another reason why the U.S.
+economy and the stock market are
+destined to crater yet again in
+2003 …”
+Cream – “ … and absolutely
+creaming the NASDAQ to below
+800.”
+Crippling – “You’re about to
+see proof that you really can
+reverse and clear clogged arteries,
+crippling arthritis …”
+Crisis – “A massive $2.4 trillion
+PENSION CRISIS is about to
+hammer the Dow and S&P into the
+GROUND!”
+Crumple – After the great stock
+market imbroglio of 1987, the price
+of the average single family home
+crumpled like a cheap suit.”
+Crunch – “Nice neighborhoods
+across America are feeling the real
+estate crunch.”
+Crushed – “Don’t suffer the fate of
+investors who were crushed when
+market momentum turned against
+them.”
+Crushed alive – “The terrified
+dolphins become trapped in the net
+and many are crushed alive in the
+ship’s power blocks.”
+Cut-throat – “In the often cut-
+throat world of news-gathering,
+The Economist is the rarest of all
+media species …”
+Dagger – “This is an absolute
+nightmare for banks. It’s a razor
+sharp dagger at their throats.”
+Danger – “Your benefits are in
+greater danger NOW than at any
+other time in the past half-century!”
+Dangerous – “The most dangerous
+accounting scam EVER …”
+Deadly – “Flush deadly plaque out
+of your arteries!”
+Death – “Plaque in your arteries
+can be a death sentence.”
+Death warrants – “But now, we’re
+seeing that the lenders themselves
+have signed their own death
+warrants!”
+Debacle – “Grow Up To 1000%
+Richer In The Coming DEBT
+DEBACLE”
+Demise – “I have also written
+two best selling books: Financial
+Reckoning Day and Demise of the
+Dollar.”
+Destroy – “Not only will your
+liver be destroyed, but your
+kidneys, colon and other organs
+will fail. This means you won’t be
+able to digest or metabolize food
+and your weight will shoot up
+uncontrollably …”
+Destruction – “No doubt about it,
+the coming crash is going to trigger
+the greatest destruction of privately
+held wealth in U.S. history.”
+Devastating – “The NASDAQ
+plummeted a devastating 19.65%
+between Jan. ’01 and Mar. ’04.”
+Disaster – “ These twin health
+disasters will kill 960,000
+Americans this year.”
+Disastrous – “The banking giant
+made disastrous loans to all of
+them.”
+Diseased – “Shockingly – all of
+the women who took synthetic
+Vitamin D developed diseased and
+decalcified kidneys.”
+Disturbing – “Now, I’m issuing
+my most disturbing forecast ever.
+Heed it and you’ll escape from one
+of the greatest financial disasters of
+our lifetime.”
+Don’t run out – “Probiotic
+Advantage keeps your digestion
+working smoothly, 24 hours a day,
+as long as you keep taking it. Don’t
+run out!”
+Doom – “Six powerful reasons
+why ALL stock market rallies will
+continue being doomed to failure in
+2004.”
+Downsides – “DHEA downsides:
+Although you won’t get young
+quickly with DHEA – you may get
+cancer slowly if you take it.”
+Dropping like flies – “Now, with
+thousands of these companies
+dropping like flies, this – plus the
+$25 billion in junk bonds in U.S.
+bank portfolios – is a recipe for a
+banking catastrophe.”
+Chapter : Scary Words that Grab Your Prospect and Force Him to Keep Reading (Fear)
+www.getwsodo.com	www.getwsodo.com
+
+-- 19 of 60 --
+
+20 	Emotional Trigger Words
+Drowning – “Ford, which is
+drowning under $165 billon in total
+debt …”
+Dumping – “Chief executives have
+reported dumping $32 million
+of their own stock over the past 3
+months.”
+Earth-shaking – “I reveal the
+TRUTH about the carefully
+hidden weaknesses that virtually
+guarantee earth-shaking economic
+catastrophes ahead …”
+Empire – “China’s growth is real
+– and a terrible threat: a rogue
+empire, fostered by the U.S.,
+is much more menacing to our
+economy than terrorist lunatics
+piloting passenger planes into
+buildings.”
+Endangered – “895 U.S. insurance
+companies – many of these
+household names are now on my
+endangered list.”
+Epidemic – “BANK FAILURE
+EPIDEMIC AHEAD!”
+Escape – “Escape the deadly
+medical trap that keeps you from
+feeling your best”
+Eviscerate – “Unfortunately,
+though, these surges do more harm
+than good – they lure desperately
+optimistic investors back into
+stocks, only to eviscerate them time
+and again.”
+Falling off a cliff – “Bank Panic
+ALERT #4: Bank revenues are
+already falling off a cliff!”
+Fattened – “YOU’RE BEING
+FATTENED UP FOR THE KILL!”
+Fears – “9 most common health
+fears and how to overcome each
+one.”
+Feeble – “Now, I don’t have to tell
+you what higher interest rates will
+do to an economy that’s as feeble as
+ours is.”
+Feeding frenzy – “Wall Street
+managed to get everybody and
+their mother into the stock market
+feeding frenzy – and people have
+thrown their life savings into these
+outrageously overpriced high-tech
+stocks.”
+Flattened – “There’s only one
+way to avoid being flattened by an
+oncoming freight train: GET THE
+HECK OUT OF THE WAY!”
+Frantically – “And they’ll
+frantically sell what’s left of
+their stocks and mutual funds in
+a desperate bid to salvage what
+remains of their wealth.”
+Frightening – “To make matters
+even more frightening …”
+Frozen – “Your assets …
+FROZEN!”
+Ghost – “Just when you thought it
+was safe to get back into stocks –
+the ghosts of all the financial crises
+of the past 30 years are returning to
+shock Wall Street once again!”
+Glued – “We’ve known for years
+that plaque – fatty cholesterol glued
+to the inner wall of your arteries
+– gradually chokes blood supply to
+your heart …”
+Gorge – “Millions will gorge on
+synthetic vitamins – only to die of
+degenerative diseases …”
+Gory – “Plus, I describe the gory
+details of seven time bombs ticking
+away now that could cost you
+EVERYTHING …”
+Grave – “If you own any one of
+these 3,936 companies – many of
+which are now fighting for their
+lives – your money is now in
+GRAVE DANGER.”
+Gut-wrenching – “Soon, a gut-
+wrenching bank panic is about to
+explode into the headlines – wiping
+out savers and crushing the DOW to
+5,000 and the NASDAQ to 800!”
+Gutted – “Each one of these crises
+gutted investment values – and
+each one vaporized the prosperity,
+financial security, and the retirement
+dreams of millions.”
+Handwriting is on the wall
+– “Now, the handwriting is on
+the wall: Soaring interests rates
+will CRUSH the recovery …
+SHATTER the stock market …
+CRIPPLE the bond market … and
+RUIN millions of unsuspecting
+investors!”
+Hanging by a thread – “1,703
+US Banks and S&Ls are already
+Hanging By A Thread: is the
+second Great Banking Crisis in 7
+decades just around the corner?”
+Hazardous – “It’s 100 times more
+hazardous to your wealth than
+the Enron, Worldcom and Tyco
+earnings scandals that hammered
+stocks last year!”
+Hell – “And when it bursts, all hell
+is going to break loose in the U.S.
+economy and in the stock market!”
+Hidden risk – “The hidden risk
+of DHEA and its link to cancer in
+women.”
+Hit hard – “The airlines – indeed
+the entire transportation sector – are
+going to be HIT HARD.”
+Holocaust – “Little-known and
+often-overlooked investments
+that can double … triple … even
+QUADRUPLE YOUR WEALTH
+in the coming stock market
+holocaust!”
+Horrific – “Its worst decline since
+the horrific bear market.”
+House of cards – “When major
+U.S. banks hit the skids, the
+economic house of cards comes
+tumbling down.”
+Hurricane – “This massive pension
+shortfall is going to slam into Wall
+Street like a hurricane!”
+Ignore this sober warning
+– “Ignore this sober warning, and
+you risk it all.”
+Insane interferences – “Do you
+want to pass on your wealth without
+insane interferences from the
+courts, creditors, or disgruntled
+relatives?”
+www.getwsodo.com	www.getwsodo.com
+
+-- 20 of 60 --
+
+21
+Insidious – “For example, I already
+told you that it wasn’t bird flu or
+mysterious airborne bacteria that
+we all had to worry about, but
+something much more
+insidious …”
+Jangle – “Other sex herbs jangle
+your nerves.”
+Jitter – “Let me show you how you
+can cure the stock market
+jitters …”
+Killing – “Bad loans are KILLING
+America’s biggest banks!”
+Kiss good-bye – “Read this now or
+kiss your retirement good-bye!”
+Knock – “A plague of new
+investigations will knock Wall
+Street for a loop!”
+Land Mines – “6 Dietary LAND
+MINES and how to avoid each
+one …”
+Level – “It will level the economies
+of Japan, Korea, South-east Asia,
+Latin America, the European
+common market countries, and yes,
+even the United States …”
+Liquidated – “Most corporate
+debt is … wiped out as the weakest
+companies are liquidated, their
+assets sold off in fire sales.”
+Looming – “There’s so much
+more I need to tell you about this
+looming crisis, how you can protect
+yourself …”
+Looted – “It’s worse than a lie:
+It’s a crafty way to lure millions
+of unsuspecting and inexperienced
+investors into the market,
+where their life’s savings can be
+systematically looted from them.”
+Lure – “They’re designed to lure
+naïve investors back into the stock
+market.”
+Lurking – “But first, I want to be
+sure you understand the dangers
+lurking for you in the terrible and
+completely unreported … CHINA
+MENACE!”
+Meltdown – “It’s called “System
+Risk” – the risk of GLOBAL
+FINANCIAL MELTDOWN.”
+Monster – “The most cataclysmic
+destruction of personal wealth in
+our lifetime – a monster banking
+bust – is now a real threat for the
+first time in 71 years.”
+Murderer – “NEWS FLASH:
+Cholesterol isn’t the murderer.”
+Mother of all – “Scientists agree
+it’s the mother of all modern
+plagues.”
+Mushroom – “In the months ahead,
+the federal deficit can only continue
+to mushroom in size …”
+Mutilated – “And these warm-
+blooded mammals, friends
+to human beings, are being
+systematically mutilated and
+destroyed.”
+Nail in the coffin – “The final nail
+in the banks’ coffin is a time bomb
+that no one is talking about …”
+Never – “What never to eat on
+an airplane. The dirtiest, deadliest
+airline in the whole world …”
+Nightmare – “America’s great
+bankruptcy nightmare has already
+begun!”
+Obliterating – “Stocks crashed
+just as I had warned, obliterating
+a mind-numbing $5 trillion in
+investors’ wealth.”
+On the brink – “Hundreds of
+corporate pension plans are now
+teetering on the brink of the
+greatest meltdown EVER.”
+Onslaught – “Drug companies are
+racing to find medicines that might
+stem the onslaught, yet ironically …”
+Painful – “These 7 emerging crises
+have now GUARANTEED that the
+most painful stock crash of your
+lifetime is STILL AHEAD!”
+Pale – “When it hits, it will make
+the massive stock market losses
+of the past three years PALE by
+comparison.”
+Panic – “Panic in the White
+House!”
+Peril – “Your private pension is in
+peril, too.”
+Phobia – “Fat phobia may be at
+the height of fashion, but it’s JUNK
+MEDICINE.”
+Piranha – “It will devour your
+wealth like a hungry piranha
+consuming a bloody piece of raw
+meat.”
+Pitfall – “Relevant content that’s
+immediately actionable. So you can
+sidestep the traps and pitfalls.”
+Plague – “Plagued by a glut of
+available properties, combined with
+plummeting consumer confidence,
+residential real estate collapses like
+a house of cards.”
+Plummeting – “This is a
+classic BUBBLE – inflated by
+plummeting interest rates.”
+Plunged – “In early 2003, the
+market plunged AGAIN …”
+Poison – “And since science has
+proven conclusively that these
+toxins poison your body …”
+Poorer – “Why these seven
+inevitable crises virtually
+GUARANTEE you’ll be 50%
+POORER by next New Year’s Day
+– IF you fail to heed this critical
+warning NOW …”
+Pummeling – “There’s an
+alarming new disaster already
+PUMMELING parts of Europe and
+its headed right this way.”
+Pulp – “Bank stocks will be
+hammered to a pulp.”
+Quivering – “For a long moment
+she struggled to stop her teeth from
+chattering, and then she said in a
+quivering voice, “Please, you don’t
+have to go to any trouble just for
+me.”
+Rat hole – “And that estimate
+keeps soaring – with a lot of money
+Chapter : Scary Words that Grab Your Prospect and Force Him to Keep Reading (Fear)
+www.getwsodo.com	www.getwsodo.com
+
+-- 21 of 60 --
+
+22 	Emotional Trigger Words
+going down a rat hole as thousands
+of life-critical programs still won’t
+be repaired on time.”
+Rearing – “Now, these economic
+nightmares are once again rearing
+their ugly heads.”
+Reckoning – “This will be a
+day of reckoning for millions of
+unsuspecting investors who naively
+believed that Wall Street had their
+best interests in mind.”
+Red alert – “Retirement Red
+Alert!”
+Retirement nightmare –
+“Retirement Nightmare #2: The
+very stocks you’re counting on will
+go nowhere – or even down – in
+2004 and beyond!”
+Revert backwards in time – “Our
+personal lifestyles, along with the
+worlds of business and finance,
+would revert 100 years backwards
+in time.”
+Risky – “Many – including the
+three largest banks in America
+– are holding EXTREMELY risky
+investments in their portfolio.”
+Rocked – “The earnings scandal
+that rocked the market in 2001 and
+2002 was small in comparison to
+the greatest accounting scam of all,
+which is about to be exposed!”
+Runaway – “Runaway deficits
+can absolutely CRUSH the U.S.
+economy in 2004!”
+Scalped – “If you count on
+Washington again, you’re
+practically begging to get scalped!”
+Scared stiff – “And drug firms
+are scared stiff because … This is
+for real and the details are FREE
+INSIDE.”
+Scary – “And that’s scary
+– because if you’re like most
+Americans, your arteries are already
+packed with plaque.”
+Screaming – “On the contrary:
+Every piece of economic data I
+examine is screaming, “More
+trouble ahead!”
+Searing – “They shot him up with
+morphine, gave him pain pills, but
+nothing could stop the searing
+agony …”
+Self-destruct – “THIRD, the stock
+market will literally self-destruct.”
+Shaky – “No great bull market has
+ever been built upon such shaky
+foundations.”
+Shattered – “ … and especially
+when a big bank bites the dust, what
+little is left of investor confidence
+will be SHATTERED.”
+Shellacking – “Your own
+GOVERNMENT is telling you
+FOUR, BALDFACED LIES
+designed to lure you back into
+Wall Street – for the most painful
+shellacking of your LIFE!”
+Significant disruption - “Y2K
+experts say that any significant
+disruption in the national power
+grid would send us straight back to
+the 18th or 19 th century.”
+Shakeout – “They helped kill the
+$2.3 billion Superior Bank recently,
+and they’re bound to claim many
+more victims before this shakeout
+is over.”
+Shatter – “And it doesn’t take a
+Harvard M.B.A. to figure out how
+that can shatter even the best of
+them …”
+Shirts ripped off their backs – “I
+personally designed each one of
+these tools to help you keep your
+money growing safely even as other
+investors get their shirts ripped off
+their backs.”
+Shock – “Some manage to escape,
+and will later die from shock,
+separated from their family
+members, worn out from the long
+chase”
+Siphon – “ … when they’ll siphon
+an additional $1 trillion out of
+ordinary investors’ mutual funds,
+brokerage accounts and retirement
+funds.”
+Shorn like sheep – “Inevitably, the
+good news turned bad again – and
+millions of investors were shorn
+like sheep when stocks crashed to
+new lows.”
+Sinkhole – “10 sinkholes that
+will take investors by surprise this
+year!”
+Sinking – “World economies are
+sinking at the same time …”
+Skinned alive – “And if you own
+stocks or equity funds when this
+happens, you’ll be skinned alive.
+Again.”
+Slammed – “And don’t forget how
+stocks got slammed by the Energy
+Crisis of the 1970’s …”
+Slaughter – “Sky-high real estate
+prices will absolutely slaughter
+consumer demand.”
+Smacked – “Why did the banks get
+smacked so hard?”
+Smashed – “Your stocks and equity
+mutual funds will be SMASHED
+by one of the deadliest banking
+crises since 1932!”
+Smithereens – “Can you see how
+this crisis ALONE is enough to
+smash stocks to smithereens?”
+Snarling – “As you’ll see in a
+moment, the coming bank bust
+could make the snarling grizzly
+bear of a stock market you’ve seen
+over the past three years look tame
+by comparison.”
+Spiraling – “ … sending the most
+inflated stocks spiraling to earth
+like a gut-shot goose.”
+Staggering loss – “… a staggering
+310 NASDAQ stocks have lost
+50% of their value or more!”
+Starving – “Starving off the
+oxygen supply to the one hundred
+trillion cells in your body …”
+Steals your identity – “If someone
+steals your identity, you could end
+up $50,000 or more in debt!”
+Strains – “We already know that
+www.getwsodo.com	www.getwsodo.com
+
+-- 22 of 60 --
+
+2
+the flu strains of recent years have
+been getting deadlier.”
+Strangling – “America’s
+corporate giants are positively
+STRANGLING on massive debt.”
+Straw that breaks – “Could this be
+the straw that breaks US banks?”
+Suffer – “The Gazarelli Edge will
+get you out … before you suffer a
+sudden plunge.”
+Surgery – “There is a natural way
+to unclog your arteries … much
+preferable to surgery!”
+Tailspin – “And each time it
+strikes, it drives their stocks and
+stock indexes into a tailspin.”
+Tanked – “Wall Street talked
+ordinary investors into risking their
+life savings on overpriced stocks
+– and then made billions when the
+market “mysteriously” tanked.”
+Teetering – “Hundreds of corporate
+pension plans are now teetering on
+the brink of the greatest meltdown
+EVER.”
+Ten-foot pole – “ … stocks you
+shouldn’t touch with a ten-foot
+pole!”
+Terrified – “Bankers are terrified
+that their massive real estate loans
+soon won’t be worth the paper
+they’re written on.”
+Terrorists – “All year long,
+terrorists have been attacking oil
+fields …”
+Thermonuclear – “Federal
+investigators are getting ready to
+drop the financial equivalent of
+a thermonuclear bomb on Wall
+Street …”
+Thorniest – “Poets & Writers
+Magazine guides you through the
+thorniest business details”
+Ticking time bombs – “I’ll tell you
+what they see: seven ticking time
+bombs set to smash the U.S. stock
+market and economy in 2003!”
+Tidal wave – “The shockwaves of
+this crisis will slam Wall Street like
+a giant tidal wave.”
+Timid – “I heard her small, timid
+little voice whisper, “Thanks.”
+Ton of bricks – “Massive loan
+losses have hit the U.S. banks like
+a ton of bricks!”
+Toxic gunk – “Don’t let toxic gunk
+build up inside you!”
+Trap – “And each time, the rally
+proved to be a cruel hoax – a TRAP
+that slammed those investors for
+more big losses!”
+Traumatic – “What’s happening
+now in Japan is about to make that
+traumatic episode look like a slight
+hiccup!”
+Tricky times – “Take advantage of
+all the opportunities I see for you
+to rack up gains of up to 562% in
+these tricky times!”
+Tumultuous – “In it I’ll explain
+how to protect and safely build your
+wealth in light of the tumultuous
+times ahead …”
+Uncertainty – “At a time like
+this, UNCERTAINTY is your #1
+obstacle.”
+Uneasy – “Stocks for the uneasy
+investor …”
+Unlimited risk – “I am NOT
+talking about gambling a huge
+chunk of your long-term core
+holdings on things that expose you
+to unlimited risk!”
+Vanishing – “Vanishing demand
+for new issues already has many
+investors eager to dump bonds they
+own.”
+Vaporize – “That happened in
+2000, when the NASDAQ bubble
+exploded and vaporized $5 trillion
+of invested wealth.”
+Victims – “And the disturbing truth
+is, unless you take action to insulate
+your wealth now – and I do mean
+NOW – you WILL be one of the
+victims.”
+Vulnerable – “The United States is
+now vulnerable to one of the most
+devastating bank crises in seven
+decades!”
+Warning – “Now, in the enclosed
+bulletin, I issue yet ANOTHER
+warning of a coming crisis that will
+end the recent rally and drive stocks
+to new lows.”
+Weapon – “Banks are now holding
+TRILLIONS OF DOLLARS
+worth of the high-risk investments
+Warren Buffet just called “Financial
+Weapons of Mass Destruction.”
+Wiped out – “And 100% of the
+gains of last year’s great rally have
+been wiped out.”
+Worried sick – “But they’ve got
+us worried sick about nothing. Just
+say no to all the health advice that’s
+making your life a misery.”
+Wounds – “Washington is now in
+an absolute panic to put a Band-Aid
+on the gaping head wounds of the
+economy and convince you that
+Wall Street is safe again.”
+Chapter : Scary Words that Grab Your Prospect and Force Him to Keep Reading (Fear)
+www.getwsodo.com	www.getwsodo.com
+
+-- 23 of 60 --
+
+2 	Emotional Trigger Words
+It’s as natural as breathing.
+That’s also why it’s so powerful
+— it’s deep and fundamental to human
+nature. When you speak to someone’s
+tendency and craving for forbidden
+objects, actions and information
+— you speak to him on an incredibly
+deep level. You access thousands — if
+not millions — of years of human
+evolution. You hit him at his very core.
+I know you’ve seen it before
+— the “banned from TV” videos, the
+“little black book” of Heidi Fleiss
+and direct response sales promotions
+that promise to reveal forbidden
+information which the “powers that
+be” don’t want you to know.
+You can multiply the power of
+the “forbidden” emotion by coupling
+it with powerful benefits and other
+strong emotions. Then not only does
+your prospect want what you’re
+promising because it’s forbidden,
+he also wants it because this object
+can help achieve his greedy desires,
+release his fear, end his frustration,
+assuage his anger and so much more!
+Just think of one of Clayton’s
+all-time biggest winners for Dr.
+Whitaker’s Health and Healing
+with the headline, “FORBIDDEN
+CURES!” Not only was this
+information incredibly desirable
+because it was forbidden (it was
+being suppressed, withheld, limited
+by the Medical Establishment) …
+it was also desirable because these
+cures credibly promised to end the
+prospect’s suffering at the hands of
+disease … obtain the amazing benefits
+he was looking for … end frustration
+at dealing with doctors, surgeons and
+drug companies that didn’t give a
+damn … and much, much more.
+One of the keys to using this
+emotion is to find something that has
+been suppressed by authorities — or to
+create a situation where the forbidden
+emotion will naturally arise. One of
+the best examples of this comes from
+a Wall Street Underground promotion.
+Here’s an example of it:
+This report was sent
+out in the form you
+see it to major
+publications in the
+country, including the
+Wall Street Journal,
+Investor’s Business
+Daily and Barron’s.
+Each one refused to
+allow me to send this
+valuable report to
+you. They are afraid
+of the truth.
+I am livid. It’s
+outrageous. These so-
+called mainstream
+publications have been
+so utterly corrupted
+by their greed for
+advertising dollars
+that they have totally
+abandoned any pretense
+to being sources of
+objective information
+on the markets. They
+are simply lackeys of
+Wall Street, bought
+and paid for.
+Any report that dares
+to suggest that maybe
+things aren’t honky
+dory, that maybe
+— just maybe — these
+dot.com stocks (that
+they convinced the
+public to buy in
+massive quantities)
+might not be worth
+the paper they’re
+printed on — must be
+SUPPRESSED. Censored.
+Totally black-balled.
+This report you hold
+in your hands was
+censored by the Wall
+Street establishment.
+I’m talking about the
+people who bring in
+Wall Street experts
+like CNN, CNBC,
+Barron’s, The Wall
+Street Journal, and
+Investor’s Business
+Daily. These “experts”
+aren’t neutral
+analysts; they’re
+You’re Not
+Supposed to Be
+Seeing This But …
+I’m actually not sure how
+to classify this feeling of having
+something be “forbidden” but I know
+how powerful it is in marketing. Many
+of the most successful promotions in
+history have effectively tapped into
+it. And often, this one feeling and
+quality alone is enough to differentiate
+your product, arouse interest and get
+prospects to buy.
+Why do we humans naturally
+desire what others are trying to keep
+from us? Why do we have a much
+greater desire for whatever is hidden
+or withheld? The first reason is most
+likely scarcity. When something is
+withheld or held back, it is naturally
+perceived as more scarce, less
+available and automatically more
+valuable.
+It’s not available to everybody.
+So it must be better, it must be worth
+more — right? Right!
+The next reason is even deeper
+and harder to explain. I’m really not
+sure exactly why, but there’s just
+something about human nature that
+desires something more when it’s
+“bad” or “prohibited.” When you’re
+not supposed to have it. Adam and
+Eve had paradise — anything and
+everything they wanted from the
+garden — with the exception of a
+single fruit. But that “forbidden” fruit
+was enough to tempt them into risking
+and losing everything.
+This deep biblical emotion seems
+hard-wired into us. We’re naturally
+attracted to things that are a little bad
+… a little scary … that may get us
+in “trouble.” Perhaps it’s our spirit
+of defiance, a way to buck authority
+and express our human individuality.
+A way to give the middle finger to
+everyone telling you exactly what and
+how to think, how to behave, etc.
+This is certainly NOT a learned
+emotion. Tell a three-year-old child
+that he can’t go into the cookie jar and
+where do you find him the second your
+back is turned? THE COOKIE JAR!
+6 Forbidden
+www.getwsodo.com	www.getwsodo.com
+
+-- 24 of 60 --
+
+2
+they convinced the public to buy
+in massive quantities) might not be
+worth the paper they’re printed on –
+must be SUPPRESSED. Censored.
+Totally black balled.”
+Black Market – “Black Market
+Insurance Secrets: How to use the
+sneaky tricks – that only con-artists
+know – to instantly slash your
+insurance costs by up to 90%.”
+Blacklist – “Normally, the Weiss
+Corporate Earnings Blacklist
+sells for $79 – but it’s yours FREE
+simple by dialing TOLL FREE 1-
+800-236-0407 NOW …”
+Censored – “The report you hold
+in your hands was censored by the
+Wall Street establishment.”
+Confessions – “Confessions of an
+Advertising Man”
+Controversial – “The most
+controversial proposal regarding
+Social Security is to make eligibility
+for benefits depend upon financial
+need, rather than remain, as now, a
+statutory right.”
+Decadent – “Only you’ll know that
+these decadent dishes have next to
+no fat in them.”
+Don’t want you to know – “There
+are two things that Wall Street
+doesn’t want you to know: (1)
+That this bubble stock market is
+about to burst and wipe out a large
+number of people …”
+Everyone knows – “ … and doing
+some shockingly PLEASURABLE
+things that “everyone knows” can’t
+be healthy!”
+Exposed – “Hand picked
+investments that can make you
+up to FOUR TIMES RICHER as
+Washington’s lies are exposed!”
+Flaw – “Secret Flaw in the
+financial markets lets you make
+back every dime you lost over the
+last three years.”
+Flies in the face – “Amazing
+treatment flies in the face of
+medical convention …”
+Forbidden – “Forbidden Foods …
+Like beef, pork, even sausage!”
+Hidden – “The hidden bull market
+Wall Street hopes to keep under
+wraps.”
+Hiding from you – “That’s yet
+another example of what Wall
+Street is desperately hiding from
+you …”
+Hush hush – “These strictly “hush
+hush” secrets have been kept from
+public view for over 30 years – and
+you absolutely won’t find them in
+any book.”
+Hushed-up – “Fearless medical
+insiders blow the lid off … BIG,
+HIDDEN, RISKY, OUTDATED
+TREATMENTS AND HUNDREDS
+OF HUSHED-UP NEW CURES!”
+Insider – “Make no mistake: Wall
+Street insiders are preparing for
+another massive tech sell-off later
+this year …”
+Illegal – “The secret stock-picking
+strategy was actually illegal for
+over 40 years, but a recent Supreme
+Court decision has changed all that.
+Unfortunately, this decision was
+suppressed from the headlines.”
+Illicit – “You’ll discover the illicit
+secret that the world’s best lovers
+know and never reveal – a secret
+that can boost your testosterone,
+libido and performance to the
+moon.”
+Keep quiet – “Here’s a little zinger
+that supplement makers would
+rather keep quiet.”
+Medical Maverick – “Open now
+and let a Medical Maverick show
+you how to …”
+Never-before-revealed –
+“… and do it naturally … with
+astonishing never-before-revealed
+bodybuilding tactics that trick the
+most reluctant parts of your body
+into fast spurts of lean, solid
+muscle …”
+No no – “To the big drug
+companies, this is a serious ‘no no’
+that they will do ANYTHING to
+salesman. They are
+paid salesman for the
+stocks they supposedly
+evaluate. Their
+companies make a profit
+in the stocks they’re
+talking about. Talk
+about a conflict of
+interest!
+This example is especially
+interesting because even from just
+reading it, I can tell how the situation
+was intentionally created to give the
+package a forbidden element. In all
+likelihood, the editor sent letters to
+the different mainstream authorities
+knowing full well that they would
+NOT allow him to publish anything or
+rent their lists for such a publication.
+With this evidence, he could
+now go to his prospect and make the
+argument that this is something the
+“mainstream authorities” don’t want
+you to know. It’s brilliant!
+Once you have such a situation
+in place, use the words that follow to
+help trigger the “forbidden” emotion
+and drive your prospect’s curiosity and
+desire through the roof.
+Forbidden
+Anonymous – “Why one place
+beats Switzerland hands-down
+as the best place to have an
+anonymous bank account …”
+Banned – “BANNED BY THE
+FDA! But I’ll show you how to
+get nature’s perfect stress eraser
+legally!”
+Behind-closed-doors – “ … a
+criminal fraud perpetrated on
+the American public, engineered
+behind-closed-doors by the
+fake food industry and the
+pharmaceutical industry.”
+Behind-the-scenes – “This is a
+behind-the-scenes look at what it
+takes to be a world-class copywriter
+– and I promise it’s nothing like
+you’ve ever been shown before.”
+Black balled – “Any report which
+suggests … that maybe – just
+maybe these dot-com stocks (that
+Chapter 6: You’re Not Supposed to be Seeing This But … (Forbidden)
+www.getwsodo.com	www.getwsodo.com
+
+-- 25 of 60 --
+
+26 	Emotional Trigger Words
+prevent from happening.”
+Off limits – “The answer is
+strictly off limits – for the simple
+reason that it would devastate
+the reputations of these crooked
+companies.”
+Outlawed – “You can make
+obscene profits when the market
+tanks. But only if you know Wall
+Street’s secret strategy that was
+once OUTLAWED by Congress.”
+Provocative – “The information
+you’re about to discover is that
+controversial … that provocative
+… and that dangerous to the vested
+interests who want to continue
+siphoning money from your
+accounts.”
+Scandalous – “Forbidden foods
+like scandalously delicious
+desserts!”
+Secret – “Amazing secret
+discovered by one-legged golfer
+adds 100 yards to your drives,
+eliminates hooks and slices, and
+slashes up to 10 strokes from your
+game … literally overnight!
+Sinful – “Rich, sinful taste treats
+that deliver all the flavor …”
+Smuggled – “This astonishingly
+secret compound was first
+smuggled into the U.S. in 1971.
+And even though it was recently
+legalized, almost nobody knows
+about or has access to it.”
+Sneaky – “Sneaky little arthritis
+secrets.”
+Taboo – “This controversial, little-
+known strategy is taboo for most
+conservative investors – and yet
+it yielded gains of up to 745% in
+2003.”
+Tawdriest – “A night on the town
+in the world’s tawdriest city …
+smoking coffeehouses, peep shows,
+and live sex shows in Amsterdam.”
+Ugly Truth – “The ugly truth that
+America’s most powerful corporate
+fat cats are hiding from you!”
+Under the radar – “This new
+threat is flying under the
+radar …”
+Unlawful – “This technique is
+so elite and effective, it’s almost
+unlawful.”
+Yet-to-be-revealed – “Right now,
+there is still far too much corporate
+debt … still too many yet-to-be-
+revealed accounting and earnings
+frauds …”
+www.getwsodo.com	www.getwsodo.com
+
+-- 26 of 60 --
+
+27
+health, wealth or anything else!
+Here’s an example from the Dr.
+Douglass promotion:
+It’s all about selling
+us ‘health’ goods &
+services WHETHER OR NOT
+WE NEED THEM …
+Scaring us into buying
+drugs to prevent
+diseases (like ‘high
+cholesterol’) that
+don’t exist …
+Bullying us into buying
+high-markup, high-
+carbohydrate, meatless
+mush …
+Hounding us to buy
+instruments of torture
+in the name of
+exercise …
+And when all this stuff
+finally does make you
+sick, they reply that
+you need even more …
+But it’s high time you
+quit this can’t-win
+game and DISCOVER THE
+REAL FACTS …
+See how the copy presents issues
+that are sure to tap into the reader’s
+frustration? Then notice how it
+promises to take the prospect out
+of this frustrating situation and to a
+place where his life will be richer,
+happier and healthier. That’s the
+process.
+Why does it work so well?
+More than ever, today’s
+prospect is incredibly skeptical
+about claims. And not only is he
+skeptical, he’s frustrated because
+… he’s not getting the results he’s
+been promised … he’s wasted time,
+money, hope on something that
+hasn’t worked … he’s probably
+added unpleasant disciplines or life
+changes that he secretly resents …
+he really WISHES he could believe
+advertisers but doesn’t want to get
+When You’re Sick
+and Tired of Being
+Sick and Tired …
+Frustration is most effective
+when a particular market becomes
+increasingly mature or sophisticated.
+Sophisticated prospects have heard
+certain claims over and over again
+and they are increasingly skeptical
+about their truthfulness. There’s very
+little they accept at face value.
+Frustration is also very related
+to the emotions of anger and
+powerlessness. How do I know this?
+Just imagine when you get angry
+about something. It often starts when
+you’re frustrated about something,
+right? Maybe you get a parking
+ticket and it’s so frustrating that a
+feeling of rage starts to well up in
+you. Even at times when somebody
+almost instantly explodes with anger,
+it’s often because frustration has
+been building up inside for a long
+time and has not been soothed or
+released.
+Frustration works incredibly well
+in the health market. Blockbuster
+campaigns, such as Dr. Douglass’
+Real Health, have been built
+largely around the prospect’s
+innate frustration not only with the
+medical establishment but also with
+the media and even other health
+authorities — those promising
+miracle cures and solutions that
+don’t work.
+Just like the other negative
+emotions, your prospect will seek
+to move away from frustration and
+will do it more aggressively when
+he is presented with a solution that
+not only ends his frustration but
+also fulfills his desire for positive
+emotional and functional benefits.
+To use it, you speak directly
+to your prospect’s frustration. You
+show him that you sympathize
+and feel for his predicament. And
+then you tell him that you have the
+solution. Not only will you end his
+frustration, but you’ve given him
+ways to realize his dreams about
+7 burned again … and more. This is
+ALL so frustrating!
+While not always easy, tapping
+into your prospect’s frustration is
+incredibly explosive. It’s a way to go
+into a crowded marketplace, where
+everybody’s saying the same thing,
+and yell out, “Hey, I understand
+what you’re going through! I’m
+DIFFERENT.” This telegraphs that
+you’re not going to insult him with
+the same promise that everyone else
+is making over and over again.
+So now you know the secret:
+Find out what’s frustrating your
+prospect … use these words and
+phrases to trigger that emotion …
+position your product or service as
+the solution to his frustrations … and
+then ask for the sale. That’s all there
+is to it!
+Frustration
+Beating yourself up – “Doesn’t
+this easy new road to health make
+more sense than BEATING
+YOURSELF UP FOR
+NOTHING?”
+Boring – “Trust me, this is not
+another of those boring, preachy,
+you-heard-it-all-before publications
+that send you to sleep after raking
+you over the coals …”
+Chucked – “This award-winning
+author almost chucked his writing
+for a job as a temp!”
+Complaints – “As we get older,
+these complaints increasingly crop
+up to make our lives hell.”
+Couldn’t remember – “Marty’s
+divorce was so stressful, he
+couldn’t even remember his
+client’s NAMES!”
+Crazy – “Please don’t worry.
+This is not some crazy stuffing-
+envelopes-at-home offer.”
+Deprivation – “Say NO to
+punishing diets, pointless
+deprivation and frightening myths
+perpetrated by the government and
+Chapter 7: When You’re Sick and Tired of Being Sick and Tired … (Frustration)
+Frustration
+www.getwsodo.com	www.getwsodo.com
+
+-- 27 of 60 --
+
+28 	Emotional Trigger Words
+news media.”
+Downhill – ‘Hey! It doesn’t have to
+be all downhill from here …”
+Force-fed – “Americans are being
+force-fed a diet of vegetables, water
+and fear.”
+Getting By – “The Knack: the
+difference between Getting By and
+Getting Rich”
+Getting softer – “Frustrated at
+how your body seems to be getting
+softer and more feminine no matter
+how hard you work out?”
+Get Worse – “Block these rays and
+your eyes may get worse!”
+Grin and bear – “Who assumed
+they had to grin and bear bum
+knees …?”
+Gripping – “What’s gripping your
+gut?”
+Gritting – “Don’t just sit there
+gritting your teeth.”
+Grumble – “You can keep your
+money on the sidelines and
+grumble about the puny 1% returns
+CDs and money market funds give
+you …”
+Gulping – “And every day, your
+entire family could be gulping
+down gallons of bacteria-killer …”
+Had enough – “HAD ENOUGH?
+Enough turkey burgers and
+sprouts?”
+Health-nag – “Your own road to
+real health can be easier, cheaper
+and far more pleasant than any
+health-nag would ever predict.”
+Kicking yourself – “If you don’t
+act on this exciting opportunity
+now, you’ll be kicking yourself for
+years to come!”
+Nazis – “Forget the food nazis …
+Almost everything you hear these
+days, is completely backward.”
+Never Again – “If you’ve ever had
+to put up with shoddy treatment,
+shabby products or second-rate
+service – Ken has two words for
+you: NEVER AGAIN!”
+Pointlessly – “You’ll get the full
+details about all the pointlessly
+punishing myths and life-
+transforming breakthroughs
+mentioned above, plus hundreds
+more.”
+Punishing – “ … And punishing
+diets that cause the very conditions
+they claim to cure.”
+Purveyed – “First we’ll get the
+confusing information purveyed by
+the “diet Nazis” out of your life.”
+Self-denial – “They’re okay as a
+side dish, but don’t let vegetarians
+nag you into joining this unnatural
+exercise in self-denial.”
+Shook their heads – “Doctors just
+shook their heads about poor old
+bed-ridden Burt Morrow.”
+Slaving – “Looks like you have
+been slaving (over a hot stove) for
+hours …”
+Stiff – “Your joints begin
+deteriorating, growing stiff and
+achy.”
+Stressful – “STRESSFUL JOB?
+Michael was losing it, but now he’s
+on top of the world.”
+Stubborn – “Except for one
+stubborn holdout. Yours truly!”
+Stuck in the dark ages – “When it
+comes to diabetes, most doctors are
+stuck in the dark ages …”
+Take forever – “They don’t erase
+the ultimate cause of arthritis,
+and they can take forever to start
+working.”
+Temporary fix – “If you’re like
+most people, your first instinct is
+to look for external solutions when
+you want to make changes in your
+life. That approach may work fine
+as a temporary fix …”
+Trouble – “With all these expensive
+scopes, scans and gizmos … why
+can’t they locate the trouble?”
+Tired – “If you’re anything like
+me, you’re sick and tired of all the
+talking heads on Wall Street with
+no track record or success in the
+market.”
+Unpleasant – “These unpleasant
+symptoms are NOT your fault.
+They’re the inevitable result of
+the lies you’ve been spoon fed by
+mainstream medicine.”
+www.getwsodo.com	www.getwsodo.com
+
+-- 28 of 60 --
+
+29
+be accompanied by maximum cred-
+ibility.
+Do this properly and the greed you
+create will act like a ten-ton magnet
+that pulls him in with massive force.
+But ignore the need for credibility and
+it’s like you turn the magnet around to
+the wrong side — the side that actively
+repels things. You actually push him
+away.
+Greed is so versatile because
+you can couple it with any of the
+negative emotions for a strong push-
+pull effect. Your prospect will want to
+end frustration and gain benefit. He’ll
+want to release fear and again gain the
+opposite benefit. He’ll want to assuage
+his anger and gain benefit. He’ll want
+to end his shame or humiliation and
+achieve the opposite benefit. I could
+go on forever!
+Also remember that the more
+targeted you make your greed, the
+better. What do I mean by “targeted”?
+The more specific you can present the
+object of his greed … the more you
+can nail exactly what your prospect
+lusts after … the more effective your
+copy will be.
+Here’s an example:
+Serious Growth
+Training — The Key To
+Explosive Growth
+If you want enormous
+strength, rock hard,
+tightly defined
+muscles, a massive
+chest, slender waist,
+powerful arms and
+legs, and the capacity
+to outperform all your
+peers by a tremendous
+margin, I can make
+it happen faster and
+easier than you ever
+imagined possible.
+But not necessarily
+without hard work.
+The approach I will
+reveal to you requires
+no more time than
+you’re currently
+spending, but it
+does require you to
+use that time far
+differently.
+Three or four months
+on the Serious Growth
+Training program and
+you’ll be pulling
+20%, 30%, even up
+to 70% more weight
+with no more effort
+than today. Stated
+more powerfully — if
+you’re bench pressing
+250 pounds today — we
+can show you how to
+get that up to 400 or
+better using Serious
+Growth methods.
+Whatever form of
+weight, strength or
+development training
+you pursue — why
+should you be content
+with only 55 percent
+of the results your
+body is entitled to?
+Really.
+I can go on and on,
+but I think you get
+the idea.
+And here’s a brief example from
+one of Clayton’s successful financial
+mailings:
+Plus, when you join my
+Undiscovered Stocks
+service, I also rush
+all this to you every
+month from now on …
+You get one NEW,
+undiscovered stock
+every 30 days: Each
+one will be either
+undiscovered or out
+of favor on Wall
+Street … selling at a
+significant discount to
+its true value … AND
+on the verge of major
+development that will
+trigger an impressive
+short-term increase in
+share price.
+Each stock has passed
+“Greed is good.
+Greed is RIGHT.
+Greed works. Greed
+in all of its forms …”
+Gordon Gecko’s famous
+words hold true for marketers and
+copywriters more than ever. When
+it comes to selling, there’s nothing
+more effective than tapping into the
+awesome power of human greed.
+We are born with a desire for more,
+and urge to not only survive but to
+thrive … to gain and gain more than
+our neighbor, and more than we had
+yesterday.
+In the investment market, your
+prospects obviously want more
+money, bigger gains, they want more
+security, they want more respect
+from their peers and colleagues and
+so much more. The more credible
+and believable you can make these
+promises of greed, the more they’ll
+genuinely feel that emotion.
+But greed isn’t all about money.
+Clayton and other top marketers
+prefer to look at greed in a broader
+sense — it’s simply the desire for
+MORE of anything.
+In the health market, your
+prospect’s greed can be seen in his
+desire for more energy … more
+nutrients … more freedom in his joints
+or anything else. It’s just the distinct
+feeling of not being satisfied and
+wanting more.
+Take a second to think about all
+the different ways greed can manifest
+itself. When a person wants more
+taste and flavor in his food, it’s a
+form of greed. When he wants more
+knowledge and education, that’s greed
+too. The possibilities are endless.
+Now here’s the challenge: Every
+marketer and salesperson — and
+nearly ALL of the hundreds of adver-
+tising messages he sees everyday —
+are attempting to tap into his greed,
+his desire for more and more benefit.
+So more than any other emotion you
+stimulate, your attempts to tickle and
+cajole deep feelings of greed MUST
+8
+Chapter 8: “Greed is Good. Greed is Right. Greed in all of its forms …” (Greed)
+Greed
+www.getwsodo.com	www.getwsodo.com
+
+-- 29 of 60 --
+
+0 	Emotional Trigger Words
+my tough fundamental
+screens with flying
+colors.
+That’s the kind of
+thorough research and
+analysis it takes to
+pick stocks that can
+double, triple, or
+even quadruple your
+money in short order!
+Notice what master copywriters
+do. They get into the minds and hearts
+of their prospects and figure out
+what their prospects want more than
+anything else; then they find ways to
+promise the prospect exactly what he
+is looking for.
+Then, to enhance this process,
+they throw in as much credibility and
+vivid imagery as possible. This reveals
+another insight about greed. People are
+much more likely to go after what they
+can see themselves experiencing in
+their mind’s eye. That’s why painting
+detailed, alluring, vivid mental
+pictures — indeed creating “cities of
+desire” as copywriting legend Gene
+Schwartz once said — is a sure-fire
+way to magnify the power and action
+capacity of your prospect’s greed
+MANY times over!
+In fact, here’s an example of
+emotional and greed-driven copy from
+Gene himself:
+Yes! In the next two
+minutes I’m going
+to show you how you
+can get up to 20
+MORE HORSEPOWER from
+your car … how you
+can save enough gas
+in a single year to
+drive A FULL THOUSAND
+MILES … how you can
+eliminate most of the
+ignition knocks and
+pings that are driving
+you crazy right now
+… how you can get
+battery-saving, sure-
+fire starting even in
+below-freezing weather
+— and do it without
+buying one single
+complicated gadget
+Bargain – “Wild, incredible
+bargains – even in a Bear Market!”
+Best bet – “For my money, at a
+time like this, trading oil and energy
+stocks is the best bet in the entire
+Wall Street Casino!”
+Best of both worlds – “You get the
+best of both worlds – rapid growth
+AND security.”
+Best value – “BEST VALUE: 2
+Years, just $1695 – SAVE $1695 off
+the regular $3390 price!
+Big thing – “From Japan: the next
+Big thing for healthy eyes!”
+Billion – “Non-Japanese investors
+bought $78.5 Billion worth of stock
+in Japanese companies.”
+Bonanza – “Better yet, you can
+turn the disaster into a personal
+profit bonanza.”
+Bonus – “ … but I made sure you
+also get a free bonus.”
+Buck – “Travel bargains that get the
+most for your travel BUCK”
+Buckets of profits – “The market is
+NOT waiting to hand you buckets
+of profits!”
+Bumper crop – “PLUS a bumper
+crop of great investments that are
+already spinning off profits of up to
+307% – even in this bear market.”
+Bundle – “You’ll make a bundle
+on the coming crash, or I’ll refund
+100% of your subscription!”
+BUY LOW – “PLUS: Six
+undiscovered stocks SET to SOAR:
+Each one is a huge opportunity to
+BUY LOW …”
+Buying frenzy – “This is the kind
+of undiscovered gem that drives
+money managers into a BUYING
+FRENZY!”
+Cash in – “Soaring oil prices, and
+the opportunity to cash in, will be
+with us for many years to come!”
+Cheap – “Then he’ll tell you about
+the astonishingly cheap natural
+substance shown to erase a lifetime
+— without paying a
+mechanic a penny!
+SIMPLY BY CHANGING
+YOUR OLD SPARK PLUGS
+—WITHOUT PAYING ONE
+PENNY MORE THAN YOU’D
+PAY TODAY FOR ANY
+ORDINARY SET OF PLUGS.
+Notice the word picture above
+isn’t elaborate, but the use of specific
+details (such as knocks and pings)
+bring images to the reader’s mind and
+enhance his experience of the desired
+benefits.
+And now you know: Using the
+words below in conjunction with
+vivid, seductive mental imagery …
+plus maximum credibility … will kick
+your prospect’s greed glands into high
+gear, to the point where he’s ready to
+act.
+Greed
+00 times – “Here’s an amazing
+alternative that’s 00 times sweeter
+than sugar and helps to reduce your
+cholesterol, blood pressure, blood
+sugar, and more!”
+Abundant – “Restore your
+long-term financial security and
+abundant retirement.”
+Aggressive – “ And you could have
+more than QUADRUPLED YOUR
+MONEY in more aggressive
+investments that have surged as
+much as 307%!”
+All the money you want – “Use
+my Undiscovered Stocks to make
+all the money you want – RISK
+FREE!”
+As far as the eye can see – “Signed
+and sealed defense contracts
+virtually GUARANTEE soaring
+profits as far as the eye can see!”
+Astonishingly easy – “It’s an
+astonishingly easy way to use
+today’s soaring oil and energy
+prices to go for some truly
+spectacular gains of up to 712%!”
+Bagging – “Lucky them. Bagging
+270% on that second half of their
+coffee calls in exactly one month!”
+www.getwsodo.com	www.getwsodo.com
+
+-- 30 of 60 --
+
+1
+of arthritis in as little as two
+days …”
+Choose – “You get to CHOOSE
+how wealthy you’ll be!”
+Clean up – “ … and absolutely
+CLEAN UP as the next bull market
+gathers steam.”
+Commission-free – “I show you
+where to buy these saving vehicles
+… commission-free.”
+Compound – “You’d literally
+compound your profit-making
+potential!”
+Cool – “How would it feel to cash a
+check for a cool $1.2 MILLION?”
+Cornucopia – “I give you a
+cornucopia of other investment
+vehicles that are spinning off truly
+ENORMOUS profits in this bear
+market …”
+Cream of the cream – “Can you
+see why I say this cream-of-the-
+cream service could easily offset
+your losses from the falling dollar?”
+Crowing – “I fully expect that
+we’ll soon be crowing about the
+money we’re making together …”
+Cut – “7 Ways to Cut Your Medical
+Expenses …”
+Discounts – “We’re able to wrangle
+unheard of discounts from financial
+service providers …”
+Dirt cheap – “Despite recent
+increases, oil is still dirt cheap.”
+Dividend – “This company just
+approved its 239th consecutive
+dividend without a reduction!”
+Dollar – “Make money from a
+falling dollar.”
+Dominate – “These are just 2 of the
+6 companies that will dominate the
+new Supernet.”
+Double – “My office recorded
+DOUBLE the patients I was seeing
+just 2 weeks ago.”
+Double-digit gains – “Just imagine
+the kind of profit-making power,
+these one-week, double-digit gains
+can bring you.”
+Dramatic profits – “Imagine how
+dramatic your profits will be!”
+Dwarf – “Your gains will be more
+than enough to DWARF your
+membership fees in your very first
+trade!”
+Early-bird investors – “The
+Internet can’t satisfy its need for
+speed without first making these 6
+companies – and their early-bird
+investors – RICH!”
+Earn – “Here’s how to earn 300%
+… 400% … even 600% on your
+money with hardly an ounce of
+risk!”
+Enormous – “TRULY
+ENORMOUS PROFIT
+OPPORTUNITIES: The handful
+of little-known, seldom-used
+investments that can DOUBLE …
+TRIPLE … even QUADRUPLE
+when the shock waves of bank
+failures hit Wall Street!”
+Enrich – “You can enrich your
+heirs or the U.S. Treasury. Your
+choice.”
+Entice – “I’m going to entice you
+with an additional 5 Free Mind-
+Boosting Gifts …”
+Exploding – “Our profits are
+already exploding and the new bear
+market has only just begun!”
+Explosive – “ You’ll see explosive
+muscle growth in under six weeks
+– guaranteed.”
+Extra – “Extra rich in dietary fiber,
+calcium and vitamin C!”
+Feast your eyes – “Feast your eyes
+on these returns from 2001 to early
+2003!”
+Filthy rich – “Most people will be
+wiped out. But those who know the
+score will get filthy rich.”
+Formidable power – “You’ll
+develop formidable leg power in
+far less time – often 60% less time
+– than it’s currently taking you to
+train your legs.”
+Fortune – “Get ready to make a
+fortune: I’ll help you position your
+finances so that, when the stock
+market goes down, even a little,
+you can make more money in the
+coming six months than you’ve
+made in the last six years.”
+Free – “Plus, the FREE video is
+yours to keep.”
+Freebies – “Twelve big
+FREEBIES that banks offer to
+seniors who ask …”
+Full – “It delivers millions –
+actually, a full billion good guys to
+your intestines.”
+Gain – “I was shocked at how fast I
+made such incredible gains …”
+Generous – “Dial toll free to accept
+this generous offer now …”
+Gifts – “… and $1,281 in FREE
+gifts and savings!”
+Glut – “A glut of new government
+securities MUST be issued to
+finance this $1.5 trillion deficit.”
+Gold boom – “Free Gift #7: Gold
+Boom Bonanza!”
+Golden touch – “The Golden
+touch for getting the best of
+everything for less”
+Great value – “GREAT VALUE:
+1 Year, $995 – Save $995 off of the
+regular price.”
+Great results – “I’ve seen and felt
+great results!”
+Greater returns – “I’ll even tell
+you how to know when it’s time to
+trade up for even greater returns.”
+Greatest – “You’ll find out how in
+your FREE REPORT: The Greatest
+Sex of Your Life”
+Growth – “This is our serious
+growth program, the most
+advanced investment vehicle in the
+world …”
+Hand over fist – “My clients raked
+in money hand over fist!”
+Have your cake and eat it too
+– “You’ve searched high and low
+Chapter 8: “Greed is Good. Greed is Right. Greed in all of its forms …” (Greed)
+www.getwsodo.com	www.getwsodo.com
+
+-- 31 of 60 --
+
+2 	Emotional Trigger Words
+for a way to have your cake and
+eat it too: To grow your wealth
+with safety.”
+High-return – “High-return
+savings vehicles that bankers never
+tell you about …”
+High yield – “How to instantly
+spot the safest and highest yielding
+utilities.”
+Hit the lottery – “But I finally hit
+the lottery on a recent foray into
+the jungles of Malaysia …”
+Huge – “You’re going to get both
+huge and powerful – I promise.”
+Inexpensive – “I confess – I love
+inexpensive health solutions.”
+Ingenious strategies – “Get
+ingenious strategies for profiting
+from currencies, as well as other
+new opportunities in China and
+elsewhere around the world.”
+Into your pocket – “Let me put
+$530.10 Into YOUR Pocket
+RIGHT NOW!”
+Irons in the fire – “I’ve got more
+irons in the fire now than ever
+before!”
+Insanely beneficial – “Agora
+Financial has unveiled some
+insanely beneficial services
+exclusively to charter reserve
+members …”
+Investor’s dream – “The
+conservative investor’s dream:
+solid gains with TONS of safety.”
+Jackpot – “Use the rare hand
+you’ve been dealt to go for the
+jackpot of a lifetime!”
+Juggernaut – “Meanwhile, Dell’s
+marketing juggernaut continues
+to fire on all cylinders in the new
+world of cheap PC’s …”
+Jumped – “And my best stocks
+jumped as much as 66% in a single
+quarter!”
+Keep everything – “… if not, just
+cancel … keep everything you’ve
+received … and I’ll personally rush
+you a full refund!”
+Kicker – “… and then add a
+powerful kicker with a unique
+investing strategy that could double
+your money.”
+King’s ransom – “I give you a
+few simple strategies that can turn
+a little bit of money into a king’s
+ransom.”
+Knack – “The KNACK for saving
+money, restoring lost wealth, and
+investing it better than ever before!”
+Leaped – “My best 5 picks leaped
+an average of 234%.”
+Leapfrogging – “Skoda is taking
+over its category and leapfrogging
+past its competitors.”
+Lifetime – “You get a lifetime of
+live profit updates by telephone
+with me or my expert staff.”
+Light a fire – “Light a fire
+under your portfolio with more
+speculative investments …”
+Like crazy – “My family and I
+have been multiplying our money
+like crazy in markets like this for
+more than 74 years.”
+Loophole – “But, the good news
+is that these changes have also
+opened up huge new loopholes and
+other opportunities to pass on every
+dollar you’ve accumulated.”
+Long-term profits – “Say hello to
+short AND long-term profits!”
+Luxurious – “Pay the price of an
+ordinary hotel room – but stay in a
+luxurious health spa.”
+Make you – “The SAFE MONEY
+INVESTOR SERVICE is
+guaranteed to save you – or make
+you – an extra $5,000 in the next 12
+months.”
+Massive – “I see an utterly
+predictable, virtually unstoppable,
+and absolutely massive trend in
+front of me.”
+Maximize – “Maximize your
+power and strength with a program
+that has worked for thousands of
+others just like you.”
+Maximum benefit – “You get
+maximum benefit from the foods
+you eat …”
+Maximum yields – “… Prudent
+Investor’s Guide to Maximum
+Yields with Minimum Risk.”
+Mega-trend – “You’ll make money
+now using this strategy – and you’ll
+make even more doing it over and
+over again as this long-term mega-
+trend continues to unfold!”
+Midas – “PLUS, how avoiding
+these common blunders could make
+you richer than Midas in 2004 -
+2005.
+Million – “We turned a $25,000
+investment into $1.1 million!”
+Monetary steroids – “The major
+stock markets have been fueled
+by the largest dose of fiscal and
+monetary steroids ever …”
+Money – “In a perfect world,
+investment advisories would only
+make money when you do.”
+Money-making – “You get free,
+24/7 access to the SAFE MONEY
+WEBSITE, with money-making
+tools other sites charge up to $420 a
+year for – FREE.”
+Money-saving – “You get four
+ultra-powerful, money-making,
+money-saving tools, including GET
+RICH WHEN STOCKS CRASH – a
+$79 value, FREE.”
+More – “And you must be delighted
+with how much more money they
+can help you earn …”
+Mountain/molehill – “Once the
+lion’s share of your money is safe
+– and safely growing – you’re in
+position to turn a little molehill of
+cash into a mountain of money
+with the WEISS WINDFALL
+STRATEGY!”
+Much more – “Much more in
+your FREE copy of Make Room for
+Dessert.”
+Multiply – “And the best part? We
+multiplied our money by 255%!”
+Muscle-bound – “I give you a
+www.getwsodo.com	www.getwsodo.com
+
+-- 32 of 60 --
+
+
+detailed introduction to these
+muscle-bound savings vehicles.”
+Nest egg – “Heed it, and you’ll not
+only protect your nest egg, you’ll
+be positioned to rake in profits of up
+to 307%!”
+No purchase required – “There’s
+no purchase required to claim
+these 5 FREE GIFTS …”
+Not only – “Not only will you
+enjoy richer, fuller taste – you’ll
+also be protecting your heart.”
+Oozing – “Cheesy delight oozing
+with melted Monterey Jack takes
+only 12 minutes!”
+Optimal – “For any brand, in any
+given market, there is an optimal
+investment.”
+Overwhelming advantage
+– “Companies that invest in
+the best marketing will have
+an overwhelming advantage
+over those that invest in the best
+technology”
+Pay zero – “Pay zero estate taxes,
+no matter how much money you
+have.”
+Payload – “Probiotic Advantage
+can deliver its precious payload
+directly to the intestines
+unharmed!”
+Personal bull market – “Declare
+you own personal bull market this
+year!”
+Pile up – “Protect your wealth
+before it’s too late – and pile up
+as much as 4-to-1 profits as this
+startling story hits the headlines!”
+PLUS – “PLUS how you can
+receive 15 Free Health & Wealth
+Special Reports reserved in your
+name!”
+Power – “But just imagine the kind
+of profit-making power those kinds
+of one-week, double-digit gains
+could give you.”
+Premier – “Glutathione has
+been called the body’s premier
+antioxidant and for good reason.”
+Priceless – “The priceless gift of
+healthy eyes …”
+Profit machine – “This 63-year-old
+drilling service company is a profit
+machine …”
+Profits – “It’s a road paved with
+big, safe profits and tremendous
+opportunity …”
+Prosper – “Send for your free copy
+of How to Prosper During the Hard
+Times Ahead.”
+Pumps out – “Rigorous tri-part
+technical system pumps out
+consistent, short-term options
+gains”
+Quadruple – “Believe me:
+“Quadruple your money” profits
+are very, VERY possible.”
+Rake in – “Rake in profits of up to
+307% – even as interest rates rise.”
+Remarkable offer – “A
+Remarkable Offer from
+Bloomberg: The world’s #1 source
+of investment intelligence”
+Reward – “In less than 7 days
+you’ll start reaping the sensual
+rewards that come from greater
+sexual potency and stamina.”
+Rich – “Heed my advice, and this
+crisis can make you rich, rich …
+RICH!”
+Richer – “Get richer in the BUST
+than you did in the BOOM!”
+Ritz-style luxury – “Ritz-style
+luxury in Madrid for no more than
+the cost of a regular hotel room.”
+Save you – “Consider all the money
+these tools will save you.”
+Screaming bargain – “The
+membership fee of $297 is a
+screaming bargain …”
+SELL HIGH – “The only way I
+know to consistently BUY LOW
+and SELL HIGH: Stay one step
+ahead of Wall Street.”
+Send No Money – “P.P.S. Send No
+Money. This free offer is just that,
+Free!”
+Six-figure – “Becoming a six-
+figure copywriter is much easier
+than you think – but only when you
+know the secrets.”
+Size – “Reach upper limits of
+massive SIZE”
+Skyrocket – “Vaalco Energy Inc.
+skyrocketed 54.26% in a single
+week.”
+Skyward – “He rode coffee straight
+up in late ’04, when his recommend
+coffee call soared 156% skyward
+in 8 days!”
+Snapped up – “… while at the
+same time, we snapped up great
+gold stocks that have soared 99%.”
+Snowball – “Each of these mega-
+trends is destined not only to
+continue, but to snowball in 2004
+and beyond!”
+Soaring – “Rising oil prices are
+sending stock prices soaring!”
+Spectacular gains – “Use today’s
+soaring oil and energy prices to go
+for some truly spectacular
+gains …”
+Spits cash – “This company spits
+cash like a ballplayer spits tobacco
+juice …”
+Staggering – “Here’s another little-
+known start-up-company with the
+potential to hand you a staggering
+204% profit!”
+Strength – “You’ll develop raw,
+steel-bending strength …”
+Substantially – “ … And help you
+grow substantially richer as these
+troubling events unfold.”
+Super – “From Europe: A new
+SUPER Bilberry that solves this
+big problem – plus, it’s up to seven
+times as concentrated!”
+Super savings – “Vision Advantage
+Super Savings Certificate”
+Surge – “Five out of my six Gold
+Stock picks surged past the 400%
+marker in only 75 days.”
+Sweet, sumptuous – “Sweet,
+Chapter 8: “Greed is Good. Greed is Right. Greed in all of its forms …” (Greed)
+www.getwsodo.com	www.getwsodo.com
+
+-- 33 of 60 --
+
+ 	Emotional Trigger Words
+Sumptuous, Apple and blueberry
+pies, bursting with flavor!”
+Take full advantage – “These two
+simple steps take full advantage of
+soaring energy prices.”
+Tap into – “Tap into your pension
+plan early and pay no penalties
+whatsoever.”
+There’s more – “But wait …
+THERE’S MORE. If you call right
+now …”
+Throw in – “And I’m going to
+throw in 3 of America’s most
+objective, 100% conflict-of-interest-
+free Investment Guides – FREE!”
+Tip-top – “Want to keep your eyes
+in tip-top shape?”
+Total return – “Prudent total
+return investments that nobody’s
+talking about.”
+Treasury – “A treasury of healthy
+cooking ideas from the world’s
+pickiest chefs!”
+Tremendous – “Talk about
+tremendous savings!”
+Triple – “Triple-your-money-gains
+by staying ONE STEP AHEAD OF
+WALL STREET!”
+Ultimate key – “May we send
+you the ultimate key to improving
+everything in your life … FREE?”
+Undiscovered – “Let me introduce
+you to this undiscovered winner
+– FREE – in your complimentary
+copy of my Beat-The-Street
+Portfolio.”
+Unlock the door – “Unlock the
+door to financial independence …”
+Up the ante – “You can CALL, or
+you can UP THE ANTE and use
+the rare hand you’ve been dealt.”
+Value – “BEST VALUE: You get
+all of these money-making tools,
+plus two more bonuses …”
+Wall Street’s elite – “Until now,
+available ONLY to Wall Street’s
+Elite – Yours, FREE!”
+Wealth – “And from now on, you’ll
+grow your wealth faster.”
+Wellspring – “Dr. Oakes has more
+than 25 years of experience in the
+field of healing, and a wellspring of
+background in quantum physics …”
+Whopping – “A whopping 52%
+discount, compared to its peers …”
+Windfall – “How investors are
+piling up windfalls of up to 929%
+even when stocks CRASH!”
+Winning – “Who in their right
+mind would fold a winning hand
+like this?”
+Won’t cost you a dime – “And
+they won’t cost you a dime. All six
+of them are yours FREE when you
+accept a risk-free trial membership …”
+World’s most effective – “The
+investment world’s most effective
+money-making tools …”
+Worth their weight in gold – “For
+starters, I want to send you six
+money-making, money-saving tools
+that are truly worth their weight in
+gold.”
+You get – “You get specific and
+completely objective “buy,” “sell,”
+and “hold” investment guidance,
+painstakingly tailored for today’s
+economic realities.”
+Zoom – “ … these undervalued
+market sectors that are about to
+zoom.”
+www.getwsodo.com	www.getwsodo.com
+
+-- 34 of 60 --
+
+
+The Happiness of
+Health
+While the good feeling that comes
+from health makes us happy, it can
+also be essentially defined as a part of
+natural greed for more benefit. That’s
+why it’s the perfect follow-up to the
+last chapter.
+With that said, this emotion
+doesn’t just stop with the desire for
+more, there’s an exhilaration and sense
+of freedom that comes from good
+health. It’s an energy that can fuel
+and empower all other areas of our
+life, and deep down we all know this.
+That’s what makes health benefits so
+attractive.
+Here’s a good example of health
+copy from a Boardroom control:
+Phenomenal results
+are felt the moment
+patients take it:
+• Boosts blood flow to
+arteries instantly …
+• Suddenly strengthens
+heart pumping …
+• Makes plaque build-
+up screech to a halt …
+• The ultimate anti-
+aging herb for the
+heart!
+Every cardiologist
+in America would be
+recommending this
+lifesaving heart tonic
+— and every American
+over 50 would be
+taking it. If only
+they knew about it!
+So please, tell all
+your loved ones about
+Dr. Mark Stengler’s
+breakthrough therapy
+using an all-but-
+ignored herb called
+hawthorn. Mainstream
+medicine barely knows
+it exists, but studies
+now confirm it’s the
+superstar of heart
+treatments. When used
+according to Dr. Mark
+Stengler’s directions,
+this new herbal
+therapy can relieve or
+reverse:
+• Angina …
+• Arrhythmia …
+• High blood
+pressure …
+• Even congestive
+heart failure.
+All without the
+dangers of bypass
+surgery, angioplasty
+or prescription drugs!
+And …
+It’s the world’s only
+known cure for the
+REAL CAUSE OF HEART
+ATTACKS …
+Because it instantly
+boosts blood flow to
+the coronary arteries.
+These small vessels
+literally feed
+your heart muscle
+— and heart attacks
+happen when they’re
+blocked. Other drugs
+and remedies can
+relieve some cause
+of this blockage,
+but only this herb
+solves the #1 problem
+immediately.
+This also means that
+it’s a must for loved
+ones recovering from
+heart attacks. None of
+the drugs they have
+been given can do what
+hawthorn does.
+And the healing can
+happen with blazing
+speed …
+As Dr. Mark Stengler
+says, “Most people
+begin feeling much
+better, almost from
+the first instant they
+take it.” Oxygen floods
+to the heart, giving
+an energy boost that
+doesn’t quit. And
+since there are no
+adverse side effects.
+Dr. Mark Stengler
+observes …
+It’s the one heart
+supplement everyone
+over 50 should
+consider …
+As safe as aspirin,
+yet much more
+effective — preventing
+blockages before
+they can give you a
+heart attack. See for
+yourself. Check out
+the proof starting
+on page 254 of the
+Natural Physician’s
+Healing Therapies. Try
+the dosages he advises
+on page 255.
+And now that you’re
+heart’s pumping better
+than ever, it’s time
+to breath a big sigh
+of relief about …
+So many of the similar secrets
+you’ve learned about the other
+emotions will apply in this section.
+Your prospect will crave health
+benefits much more strongly if there’s
+a fear or frustration or anger pushing
+him.
+He’ll believe you much more
+when there’s strong credibility
+elements proving that these health
+benefits (and the enthusiastic
+happiness that comes from them) can
+be realistically achieved. Also, when
+vivid compelling imagery is presented
+that allows him to mentally experience
+and “try on” these benefits before
+taking the concrete action needed to
+make them happen.
+And that’s only the beginning of
+what this section promises! You’ll also
+discover a very practical truth about
+using these health words. It’s simple:
+Many of the words for health are
+action verbs that give your prospect a
+9
+Chapter 9: The Happiness of Health (Happiness and Health)
+Happiness and Health
+www.getwsodo.com	www.getwsodo.com
+
+-- 35 of 60 --
+
+6 	Emotional Trigger Words
+effects. Truly AMAZING ones!”
+Antidote – “(EDTA is the) Antidote
+for Homocysteine Poisoning.”
+Anti-aging – “The ultimate anti-
+aging herb for the heart!”
+Astonishing power – “The
+astonishing power of chelation
+therapy is now in your hands.”
+Balances – “Balances healthier
+blood sugar levels and restores blood
+flow to cold, tingling painful arms,
+legs, fingers and toes …”
+Banish the blues – “Banish the
+blues forever, in as little as 3 days (or
+3 hours!)”
+Beat fatigue – “Beat fatigue and
+have the energy to do the things you
+love.”
+Beat the system – “Meet the real
+people who are beating the system,
+then let me share the discoveries that
+cured their miseries …”
+Beneficial – “Plus, Probiotic
+Advantage contains the four most
+beneficial organisms – not just
+acidophilus.”
+Better clarity – “Vision Advantage:
+See the difference with improved
+night vision, better clarity and less
+eye fatigue …”
+Better nutrient absorption – “What’s
+the use in eating foods that are rich in
+Omega essential fats, Vitamin C, etc.
+if your body isn’t (better) absorbing
+the nutrients?”
+Blast – “The quickest, easiest,
+smartest way to BLAST your arteries
+clean”
+Boost – “Boost your natural
+immunity with this delicious tropical
+fruit …”
+Brain-boosting – “Claim your 5 Free
+BRAIN-BOOSTING Gifts!”
+Breakthrough – “With new, safe,
+affordable breakthroughs from anti-
+aging research such as …”
+Breakneck speed – “But if you
+restore it with the natural formula
+he tells you about on page 337, your
+entire body responds with breakneck
+speed.”
+Burn – “The human body simply
+couldn’t burn fat without this
+simple nutrient.”
+Charge your energy banks – “It’ll
+charge your energy banks like
+nothing you’ve ever tried.”
+Claw – “Claw toxins and plaque out
+of you body.”
+Cleaner – “A Cleaner System: the
+longer that waste and everyday toxins
+are allowed to linger in your body,
+the worse it gets …”
+Clears – “Beats cholesterol-cutting
+drugs and even clears plaque-choked
+arteries!”
+Clear up – “It can be used to totally
+clear up sinus infections, erase
+benign moles and even clear up
+periodontitis without surgery.”
+Conquering – “Professor
+Waterman’s team recently put this
+powerful tool to work conquering
+prostate cancer …”
+Conserving – “It’s the single best
+nutrient for safely conserving and
+restoring crucial higher functions of
+the brain …”
+Cracked the code – “Dr. Ray
+Sahelian has cracked the chemical
+code that makes brains age …”
+Crystal clear – “I’ll tell you how to
+supercharge your energy, boost your
+immune system, restore crystal clear
+mental functions and knock inches
+and pounds off your body …”
+Cure sleeplessness – “But now you
+can cure sleeplessness once and for
+all …”
+Cured – “Killer plagues cured!”
+Cutting – “This simple vinegar
+formula stunned researchers by
+cutting people’s insulin resistance
+nearly in half.”
+Cutting-edge – “This cutting-edge
+enzyme therapy is shown to be over
+three times more effective against the
+very specific way of materializing the
+object of his desire.
+Scanning through them reveals
+— first hand — that strong action
+verb choices are one of THE most
+important factors in triggering the
+emotional desire for better health.
+To find the right word for your
+needs, get very clear on the health
+benefits your prospect will achieve
+with your product or service. Then
+scan down the list and jot down (or
+type out) the ones that jump out at
+you.
+Since you’ll have your benefits
+and product in mind, when you see a
+word that seems to fit, immediately
+create a sentence that uses it. Keep
+doing this. Writer’s block will
+instantly vanish, and more and
+more benefits and possibilities will
+magically arise. Just go with it.
+List out every amazing benefit
+and action you can promise that words
+from this section trigger. Don’t limit
+or edit yourself — let it all flow out!
+Then, once you’re done, you can go
+back and isolate the strongest, most
+compelling and “highest-believability”
+ones and expand on them in your copy.
+As a writer that works
+predominately on the health market,
+(and closely examining everything
+Clayton does in the health market), I
+can’t tell you what a life-saver these
+words are!
+Before uncovering this goldmine,
+I’d often find myself using the
+same words over and over again …
+“increase” … “boost” … etc. But that
+all quickly changed.
+Now it doesn’t have to be that
+way for you, either. By scanning
+through this section whenever you’re
+presenting your health benefits, you’ll
+stand face-to-face with many more
+specific and laser-focused words that
+communicate your benefits with more
+precision and emotion that you ever
+dreamed possible.
+Happiness & Health
+Amazing – “There will be side-
+www.getwsodo.com	www.getwsodo.com
+
+-- 36 of 60 --
+
+7
+world’s deadliest cancers.”
+De-gunk – “You’ll also receive a
+complimentary copy of DE-GUNK
+Your Arteries For Life.”
+Delicious – “The Delicious Way to
+Better Health!”
+Disappears – “Fatigue falls away,
+joint pain vanishes, morning stiffness
+disappears …”
+Disease-proof – “Disease-proof your
+body and add many good years to
+your life!”
+Dissolve – “Dissolve unnecessary
+fear, anger, resentment, inner
+criticism, and judgment of self and
+others.”
+Dramatic turnarounds – “He’s
+helping patients with severe flu make
+dramatic turnarounds in mere
+hours.”
+Dream – “A wonderful, tiny,
+inexpensive supplement that makes
+your whole digestive system work
+like a dream.”
+Drug-free – “Amazing Drug-Free
+Cholesterol Miracle!”
+Eagle-eyes – “EAGLE EYES: The
+astonishing cure for cataracts and
+Macular Degeneration.”
+Electrify – “Revive and electrify
+nerve endings which were once
+deadened …”
+Elixir – “The elixir of youth. It’s
+found in high levels in those who
+live to a ripe old age with little or no
+disease.”
+End dysfunction – “End erectile
+dysfunction with a cheap herb hardly
+ever sold for this purpose”
+Energized – “You’ll feel more
+energized, within the very first two
+minutes of starting!”
+Erased – “Burn victims’ blistering
+pain erased in 30 minutes!”
+Exhilarating – “Exhausting? More
+like exhilarating!”
+Eye-enhancing – “The 22 best eye-
+enhancing nutrients from around the
+world.”
+Feast – “Feast on your favorite foods
+… completely without guilt!”
+Feel great – “Best of all, when
+you’re regular and your gut is free
+of gas and discomfort … you’ll feel
+great!”
+Feel light – “You’ll feel light, upbeat
+and ready to take on every activity.”
+Feel like a man – “Learn how to
+safely reverse it and feel like a man
+again fast.”
+Fighters – “Two of nature’s most
+potent free radical fighters …”
+End pain – “Pain ended with a $3
+wand …”
+Feel new – “So won’t you let me
+give you the answers I’ve found – all
+proven, perfected and ready to make
+you feel new again – for FREE?”
+Fix this – “Fix this weak link and
+watch your health soar.”
+Fix a lifetime – “Fix a lifetime of
+digestive problems …”
+Freedom – “… but imagine the sense
+of freedom and happiness a trouble-
+free digestive system would give
+you.”
+Fully-charged – “In order to be
+fully-charged, you need to have the
+right tools to extract the energy from
+foods …”
+Floods – “Oxygen floods to the
+heart, giving an energy boost that
+doesn’t quit.”
+Flush – “Flush deadly plaque from
+your system!”
+Free to live – “Getting control of
+your diabetes so you’re free to live
+the way you want …”
+Functions better – “When your
+digestive system works the way it
+should, suddenly the rest of your
+body functions better.”
+Glowing – “I say: You’ll soon be the
+glowing exception.”
+Gone for good – “Painful ulcers
+gone for good after two years of
+drugs and supplements fail …”
+Goners – “When that oxygen gets
+released against germs, it “oxidizes”
+them. Poof, they’re goners.”
+Good guys – “These 3 pounds of “good
+guys” are your digestive tract …”
+Grow – “Grow a brand-new trouble-
+free gut …”
+Halt and reverse – “That was before
+Dr. Mark Stengler switched her to his
+natural discovery proven to halt and
+reverse bone loss.”
+Health-boosting – “All three health-
+boosting reports, FREE!”
+Healthiest – “Here’s what life is like in
+the healthiest country in the world …”
+Healthy – “Quick and healthy low-
+fat cooking delivers all it promises.”
+Hear the softest sounds – “Hear
+the softest sounds … clear across a
+crowded restaurant!”
+Heart health – “Even if your heart
+health is fine, your brain may need
+CoQ10 even more.”
+Homemade remedies –
+“Homemade remedies that save you
+money …”
+Hormone – “Testosterone (the magic
+bullet for male health) is man’s
+primary masculine hormone …”
+Hush up – “Hush up chronic
+tinnitus! See how Gary stopped the
+ringing in his ears on page 108.”
+Inhibit – “Compounds in this soy
+beverage don’t simply prevent, but
+also inhibit growth and spread of
+existing tumors …”
+Invisible army – “Then it’s time
+to repair all the damage to your
+‘invisible army’ of microbial
+buddies …”
+Kicking like a mule – “We started
+taking Advanced Artery Solution and
+now we’re kicking like a mule.”
+Knock inches and pounds off – “I’ll
+tell you how to supercharge your
+energy, boost your immune system,
+Chapter 9: The Happiness of Health (Happiness and Health)
+www.getwsodo.com	www.getwsodo.com
+
+-- 37 of 60 --
+
+8 	Emotional Trigger Words
+and knock inches and pounds off
+your body …”
+Knock out – “Knock out fatigue
+without drugs!”
+Less eye fatigue – “Vision
+Advantage: See the difference with
+improved night vision, better clarity
+and less eye fatigue.”
+Licked – “These ingenious Japanese
+scientists finally licked the problem …”
+Just one a day – “Yes, it works,
+as long as you take just one a day
+before breakfast.”
+Life-affirming – “And this is just
+one of hundreds of life-affirming
+natural breakthroughs that Dr. Mark
+Stengler will share in your FREE
+preview book.”
+Life-enriching – “Life-enriching
+program boosts your body’s amazing
+power to heal itself.
+Life-saving – “The most life-saving
+medical discovery of the last 100
+years …?”
+Live to 100 – “Live to 100 (or
+more): I am a health-minded person
+and am always looking for natural
+ways to improve my health …”
+Magic bullet – “The magic bullet
+for more energy!”
+Make obsolete – “No drug we’re
+aware of could match this effect,
+which could make bypass surgery
+obsolete.”
+Manhood – “If you’re taking any
+cholesterol-cutting drugs … protect
+your manhood and memory now!”
+Marvel – “Botanical marvel leaves
+soy and black cohosh in the dust …”
+Mind-boggling – “Why wait
+decades for these mind-boggling
+breakthroughs to trickle down to your
+doctor … when your health could
+be transformed within the next few
+minutes!”
+Mind-boosting – “Send for your
+copy of Bottom Line’s Mind-
+Boosting Secrets.”
+Miracles – “Yet these miracles are
+accomplished with one of the most
+COMMON SUBSTANCES ON
+EARTH …”
+More muscular – “I’m going to
+show you the single biggest factor
+in male aging, plus make you more
+muscular, quicker, and incredibly
+virile.”
+More vibrancy – “More Vibrancy:
+The four probiotic organisms in
+Probiotic Advantage are exactly what
+your GI tract needs to break down the
+food you eat.”
+Natural powerhouse – “I use one
+all-purpose natural powerhouse to
+keep me and my family safe from
+colds, viruses and infections.”
+Neutralize – “Even helps neutralize
+the toxic effects of heavy metals like
+mercury.”
+No-side-effect – “… containing all
+the non-invasive, no-side-effect
+techniques these “impossibly
+healthy” people have been using for
+FREE.”
+Nourishes – “Nourishes and soothes
+creaky, inflamed, painful joints.”
+Nourishing – “Transforming the
+mind almost instantly, by nourishing
+the brain …”
+On top of the world – “Stressful
+Job? Michael was losing it, but now
+he’s on top of the world!”
+Outlast – “It’s already shown to
+outlast the ultra-costly clot-busting
+drugs, without dangerous side-
+effects.”
+Overhaul – “But Dr. Sahelian will
+show you how to ‘overhaul’ them
+virtually overnight.”
+Peppy – “Just ask Diane, who went
+from chronic fatigue to PEPPY ALL
+DAY!”
+Perk up – “I’m sure you’ve noticed
+how a cooperative digestive system
+can really perk up the spirits.”
+Postponed indefinitely – “The
+doctor said that I might need an
+angioplasty. But, (after EDTA
+treatments) now the angioplasty has
+been postponed indefinitely!”
+Potent – “ … it’s vital you take a
+potent mineral supplement along
+with it.”
+Prime – “Prime your brain for sex
+before bedtime. Fantastic FREE
+aphrodisiac!”
+Pumping better – “And now that
+your heart’s pumping better than
+ever …”
+Quell – “I’ll show you how to mix it
+up and quell any sudden attack.”
+Radiant – “Starting now, you can
+create radiant health, extraordinary
+wealth, and whatever you most
+desire!”
+Razor sharp – “From Dull to Razor
+Sharp in 30 minutes!”
+Recover – “My discovery is now
+proven to help stroke victims recover
+use of their limbs almost instantly,
+without drugs or surgery.”
+Reduce the desire – “Reduce the
+desire for alcohol and tobacco …”
+Refreshing – “Refreshing and light,
+elegant gourmet salads to adorn your
+table”
+Rejuvenate – “Rejuvenates brain
+cells that control learning, reasoning,
+coordination and memory …”
+Relieve – “Daisy’s depression isn’t
+just relieved, it’s gone!”
+Remedy – “Free remedy for poor
+sleep”
+Remove – “Remove years of waste
+products from your neurons with
+cutting-edge antioxidants”
+Renewed energy – “… and many
+other secrets to renewed energy,
+more vitality, and better sleep”
+Renewed – “I have a renewed sense
+of well-being and joy for living!”
+Replace – “Replace fatigue with
+vibrant new energy.”
+Re-spark – “Re-spark your sex drive
+… with this red-hot herbal discovery!”
+www.getwsodo.com	www.getwsodo.com
+
+-- 38 of 60 --
+
+9
+Restock – “Restock your supply
+of essential brain chemicals and
+phospholipids.”
+Restore – “Restore lost memory
+with this remarkable Indian herb.”
+Reverse – “Natural discovery even
+reverses Manic Depression &
+Schizophrenia”
+Rock-hard – “How to think yourself
+rock-hard anytime!”
+Screech to a halt – “Makes plaque
+buildup screech to a halt …”
+Sculpting – “… by eating like a
+HUMAN BEING and sculpting your
+body with real food like steak, eggs
+and plenty of butter.”
+See with the eyes of a child – “What
+if you could see with the eyes of a
+child again?”
+Sexual vitality – “… enjoy better
+health conditioning, energy, and
+sexual vitality than you’ve ever had
+in your life.”
+Shed – “SHED 20 YEARS OF
+AGING in as little as 2 months!”
+Shrink – “This one herb was all he
+needed to shrink them and end the
+pain.”
+Shrug-off – “Shrug-off stress and
+fatigue with this little known
+mineral …”
+Snap – “Feel a foggy mind snap into
+focus IN JUST A FEW HOURS!”
+Solve – “Solve your own digestive
+problems, once and for all”
+Sparkle – “Her eyes will begin to
+sparkle. She’ll stand taller.”
+Speed-healed – “Agonizing injuries
+speed-healed in just 2 minutes!”
+Sturdy – “And grow sturdy new
+bone mass in a matter of months.”
+Supernatural – “Supernatural
+protection from colds, flu, viruses &
+infections.”
+Supercharge – “I’ll tell you how to
+supercharge your energy, boost your
+immune system …”
+Super-Brains – “Meet the famed
+natural doctor who’s turning ordinary
+people into SUPER-BRAINS!”
+Super-fit – “This 47-year old super-
+fit MD will tell you …”
+Surges – “… heart pumps stronger,
+energy surges, blood pressure
+plummets …”
+Surgery cancelled – “Open heart
+surgery cancelled!”
+Symptoms reversed – “Arthritis and
+Diabetes symptoms reversed …”
+Thin for life – “Helps you slim down
+and then keeps you thin for life …”
+To kingdom come – “Right now,
+however, we already possess an
+alternative that can blast all the
+diseases mentioned above and many
+more to kingdom come.”
+Tonic – “Every cardiologist in
+America would be recommending
+this lifesaving heart tonic …”
+Unclog – “Clogged or narrow
+arteries? There is a natural way to
+unclog them.”
+Transform – “Discover how to
+transform your own brainpower …”
+Triggers – “Triggers permanent joint
+repair for the rest of your life …”
+Unlocked – “Now we’ve unlocked
+your joints, the same secret can
+speed-heal your own bones, muscles
+and ligaments.”
+Unwrinkle – “Unwrinkle your skin
+without drugs or surgery.”
+Upbeat – “You’ll feel light, upbeat
+and ready to take on every activity!”
+Vanishes – “Tumor vanishes
+virtually overnight!”
+Viagra – “But Dr. Ray Sahelian’s
+program acts like Viagra for the
+brain …”
+Vibrant – “Replaces fatigue with
+deep reservoirs of vibrant new
+energy …”
+Virile – “I’m going to show you the
+single biggest factor in developing
+sexual confidence – one that makes
+you harder, longer-lasting and
+incredibly virile.”
+Vitality – “… and many other secrets
+to renewed energy, more vitality, and
+better sleep!”
+Well-being – “Create an internal
+environment that supports
+harmonious loving relationships, rich
+abundance, and radiant
+well-being …”
+Wonderful news – “If you wished
+your digestive system worked
+smoother, I have wonderful news for
+you …”
+Wonderfully heart-healthy
+– “Here’s a dirty little secret no
+one’s telling you: Eggs are actually
+wonderfully heart-healthy.”
+Way Beyond – “Way Beyond
+Gingko – Why it often doesn’t work
+and what DOES!”
+Whisks – “… whisks unwanted
+wastes and toxins out of your
+system.”
+Wipes Out – “Amazing cure in a can
+virtually wipes out Alzheimer’s!”
+Younger – “Look younger and
+better. Save as much as 50% on your
+order if you respond within the next
+10 days …”
+Youthful – “And better yet, your
+skin will develop a youthful glow
+that will have people thinking you’re
+ten or twenty years younger than you
+really are!”
+Zapped – “Deadly viruses zapped in
+hours …”
+Chapter 9: The Happiness of Health (Happiness and Health)
+www.getwsodo.com	www.getwsodo.com
+
+-- 39 of 60 --
+
+0 	Emotional Trigger Words
+Harry …
+You Should Be Easy!
+Not long ago, Harry
+B. had chronic asthma
+… agonizing arthritis
+… a painfully
+enlarged prostate … a
+precancerous colon …
+a blocked artery …
+Yet Harry began
+training for a
+marathon and wound up
+looking more like 70
+than 90 …
+His personal doctors
+took him off all his
+asthma inhalers and
+heart medications..
+And he’s not an
+exception — just one
+of over 11,214 study
+group participants!
+Just another day at
+the office for Dr.
+Gary Null …
+The typical prospect for this
+promotion is in his or her late 40’s,
+50’s or 60’s — and not nearly in the
+condition that Harry was in. So by
+leading with this little account of
+his transformation, it’s easy to see
+how hopeful this would make others
+looking to change their health and
+lives.
+As far as I know, this is a pretty
+successful control for Boardroom.
+Such is the power of hope.
+So when you’re researching
+your prospect, think about what
+he’s really hoping for. What does he
+desperately want to believe?
+Given the right amount of proof,
+what’s he eager to place his faith
+and trust in? These questions will
+give you powerful insights into your
+prospects deepest hopes and allow
+you to weave them into the structure
+and promises of your ad. Because
+The Magical
+Feeling That
+Keeps Us Going …
+We could all use a little more
+hope in our lives, couldn’t we? And
+it’s the same with your prospect!
+We want so badly to believe that the
+future will be better, brighter and
+more fulfilling than our experience
+of today. Consequently, hope is
+always a strong emotional benefit.
+Investors hope that they can
+find secure ways to protect and
+grow their money, even become
+rich. Health prospects hope they
+can find a doctor that really cares …
+they hope there really is a natural
+solution to diseases like cancer
+and arthritis … they hope they’ll
+discover nutrients, treatments and
+therapies that allow them to heal
+naturally without drugs or surgery.
+Ultimately, this positive emotion
+can be a fantastic call to action. If
+your sales copy effectively gives
+your prospect hope … if you make
+the feeling of hope credible and
+believable … if your editor or
+figurehead is someone that one
+can legitimately believe in … your
+prospect will happily fork over his
+hard-earned dollars to experience
+more of this wonderful feeling.
+Hope keeps him going, keeps
+him believing, makes it easier to
+stay positive and enthusiastic about
+things … there’s such an emotional
+benefit to hope. For so many people,
+there’s little to be hopeful about
+— which makes your prospect crave
+it all the more.
+Also, your testimonials are a
+place to communicate the feeling of
+hope. That’s because dramatic cases
+of success — in people just like your
+prospect — gives him hope that he
+can make the same changes. Great
+testimonials can even become a lead
+for your entire promotion. Here’s an
+example from Boardroom:
+If Dr. Gary Null can
+do it for frail, old
+10 this is a “deeper” benefit, it will give
+your copy an added edge and pulling
+power over others that fail to tap into
+hope.
+Hope
+Angels – “Our kids need angels
+like you …”
+Attest – “And participant after
+participant attest they lost
+unwanted weight, almost as a side
+effect.”
+Believing – “Breathing is
+believing!”
+Bright future – “With this report
+safely in your hands, a bright
+financial future is almost certain.”
+Create everything you need and
+desire – “This precision frequency
+technology empowers you from
+the inside out to effortlessly
+create everything you need and
+desire!”
+Destiny – “Even if a relative had
+Alzheimer’s, your genes don’t
+have to be your destiny anymore.”
+Easy – “If Dr. Gary Null can do it
+for frail, old Harry … You Should
+Be Easy!”
+Empowers – “New, cutting-edge
+sound frequency technology
+empowers you from the inside out
+to effortlessly create everything
+you need and desire.”
+Every single one – “Yet to the
+utter astonishment of the skeptics,
+out of all the thousands of
+participants who completed this
+program … every single one of
+them got better!”
+Expectations – “Honestly, my
+expectations were high. And even
+then, I was surprised and blown
+away by the results everyone
+witnessed.”
+Faith – “Faith is one thing,
+actually seeing the results is
+another thing all together!”
+Hope
+www.getwsodo.com	www.getwsodo.com
+
+-- 40 of 60 --
+
+1
+Fulfillment – “This one benefit
+will give you more lasting
+fulfillment than you ever dreamed
+possible.”
+Full of life – “And Lou’s so full
+of life these days, he dances 2 to 3
+hours a day!”
+Help – “We give you practical,
+nitty-gritty help you can use every
+day.”
+High hopes – “I had high
+hopes when I uncovered this
+breakthrough, but the results have
+exceeded my fondest dreams.”
+Hope and pray – “I hope and
+pray that you will find a place
+in your heart to help a child like
+Kelly, whose story I want to share
+with you.”
+Inspiration – “And now, she’s
+a shining inspiration to anyone
+looking to reverse heart disease.”
+Magical golden keys –
+“Synchronistic events in all areas
+of your life will provide magical
+golden keys that will open doors …”
+Magic wand – “A magic wand
+that you can easily make at home
+can correct this problem and
+eliminate the pain for good …”
+Miracle – “It would take a
+miracle of biblical proportions
+… to make money in this kind of
+market. But that’s precisely what
+I’m offering you right now …”
+New man – “When quadruple
+bypass surgery failed … Dr. Gary
+Null’s breakthrough made Lou a
+new man!”
+Overcame – “How Irene
+overcame her arrhythmia with 2
+easy lifestyle secrets.”
+Paradise – “How to retire to
+paradise twice as rich and five
+times happier …”
+Promise – “Probiotic Advantage:
+my promise of quality to you.”
+Redirect – “But if you want real
+and lasting changes, you have to
+redirect your energy to look deep
+within yourself …”
+Rely – “You’ll be able to rely on
+this product whenever times get
+tough.”
+Repair – “Repair any damage to
+your core holding suffered in 2000
+to 2002”
+Save your life – “Will a dolphin
+save your life?”
+Stop – “Stop a heart attack or
+stroke before it happens”
+Stop worrying – “Want to stop
+worrying about unpredictable
+constipation that comes and
+goes?”
+Thanks to – “Thanks to Dr. Gary
+Null, Lou’s chest pains vanished,
+his coronary arteries surged with
+blood again and …”
+Thing of the past – “Heart
+Surgery may be a thing of the
+past!”
+Trust – “Trust me, this will be
+one of the best decisions you’ve
+ever made.”
+Undoing – “Amazing
+breakthroughs for undoing
+depression.”
+Uplifting – “I definitely
+noticed an uplifting of mood
+– my emotional pain was not as
+intense.”
+Watch those clouds roll away
+– “Show your ‘Gloomy Gus’ the
+program and watch those clouds
+roll away!”
+Chapter 10: The Magical Feeling That Keeps Us Going (Hope)
+www.getwsodo.com	www.getwsodo.com
+
+-- 41 of 60 --
+
+Emotional Trigger Words2
+your customers to you – for life!”
+Feel – “If you feel deep down in your
+heart that this is the right thing to do, then
+what are you waiting for?”
+Fond – “You’re a good parent. You’re
+fond of your children. You want the best
+for them. So why would you take a
+chance …”
+God bless you – “Had I not had your
+information, I could have sustained 40%
+to 50% losses. God Bless You and Yours!”
+Gratitude – “Please accept my gratitude
+in advance for whatever you can send. We
+really need you!”
+In touch – “This magical program will
+bring you in touch with feelings you
+never realized you had.”
+In tune – “Since using your program,
+we’re much more in tune with each other
+emotionally. You saved our marriage!”
+Love – “How can I reach out to them
+also? How can I touch them with love?”
+Loved ones – “Make sure you and your
+loved ones always have sufficient income
+…”
+Lover – “Passion needs no partner. Invite
+the world to be your lover …”
+Loving – “Create an internal environment
+that supports harmonious loving
+relationships, rich abundance, and radiant
+well-being.”
+Pamper – “Pamper yourself and toxins
+flee!”
+Precious – “Don’t ignore this opportunity
+to shield your precious loved ones from
+danger.”
+Reach out – “How can I reach out to
+them also? How can I touch them with
+love?”
+Sweet – “The sweetest thing you can
+ever do for your spouse is to show her the
+revealing facts on page 17.”
+Sympathy – “These investors have my
+sympathy – they never saw the scam
+coming until it was too late.”
+Tenderness – “This kind of tenderness
+is exactly what the world needs more of
+– and you can help spread it with a tax-
+deductible donation …”
+Touch – “How can I reach out to them
+also? How can I touch them with love?”
+Sometimes Love
+is All You Need
+Sadly, it was very difficult to find
+this small group of words that trigger
+the emotions of love and care, but it’s
+the reality of our age. One of the things
+that Clayton has discovered is that
+today’s prospects seem to be (generally)
+more motivated by the negative
+emotions than the positive ones. Maybe
+it’s what we’re used to seeing on the
+news, TV or newspapers, or some other
+reason. No matter what the cause, it’s
+true.
+But that doesn’t make love any less
+powerful, provided the conditions are
+right. There will be times when you can
+tap into a parent’s love for his children
+and this will be a powerful motivator for
+him to buy a supplement that makes him
+and his family healthier … or a water
+filter that protects them from deadly
+toxins … or a home security system that
+could save their lives … the list goes on.
+Also, this emotion is very powerful
+in fundraising. You can use it to tap
+into people’s love for children … the
+environment … or anyone else in need.
+Love is very related to hope. We all
+hope to experience love on every level
+— family, friends, spiritually and more.
+For increased effectiveness, it’s a great
+idea to use these words in connection
+with the ones you learned for hope.
+One of the most powerful ways to
+use this emotion is in combination with
+fear. The threat of something happening
+to a loved one … a helpless animal …
+or any other innocent potential victim
+will put the feeling of love in jeopardy,
+and your prospect will want to take
+action in order to preserve and protect
+the object of his or her love. This means
+that you simply position your product or
+service as a way to do that — whether
+it’s a financial newsletter that protects
+them from disaster, a shower filter
+that blocks out deadly chlorine, or a
+fundraising organization that saves the
+environment from Bush and Big Oil.
+Here’s a brief example:
+Sandra was terrified at the
+prospect of surgery. “I
+was told I might lose 30
+percent of my stomach!”
+11 Instead, she started using
+these powerful secrets
+for digestive health.
+And now, she reports, “I
+am totally healthy. My
+endoscopy revealed no
+ulcers. I think that is
+remarkable!”
+It sure is! So if you have
+a loved one suffering
+from ulcers, heartburn,
+colitis or any other kind
+of digestive trouble, why
+not check out the details
+on page 276 of your FREE-
+Preview copy of Bottom
+Line’s POWER AGING?
+Simple enough, right? Sell the
+fear … tap into the love … show how
+the fearful event or enemy threatens
+the object of your prospect’s love …
+and then make a powerful, credible
+argument that the BEST way for your
+prospect to show his love is to take
+action on your offer. Yep, follow these
+simple steps and you’re on your way to
+marketing success, fame and fortune!
+(Only a slight exaggeration there.)
+Love/Care
+Adorable – “These adorable little
+children were never given a fair chance.”
+Caring – “I know that you must be a
+caring person, otherwise you wouldn’t
+still be reading this letter.”
+Cherish – “You’ll be able to cherish the
+time you spend with your family, rather
+than worrying about your non-stop pain.”
+Concern – “If you’re at all concerned
+with your health – and the health of your
+family – you won’t give them chlorinated
+water.”
+Compassion – “If you feel even an ounce
+of compassion for these poor whales, you
+know you must take action now.”
+Connection – “When I make a
+connection with a girl like Kelly, I think
+about the other kids on the street who have
+been left behind.”
+Dear – “Here’s how to protect all those
+who are dear to you.”
+Empathy – “Empathy is a beautiful thing
+– in life and in selling.”
+Endear – “This one secret will endear
+Love/Care
+www.getwsodo.com	www.getwsodo.com
+
+-- 42 of 60 --
+
+
+I’m So Excited,
+And I Just
+Can’t Hide It …
+Passion is one of the most
+sought after emotions in the human
+experience. And it’s used a little more
+often in mainstream sales promotions
+because passion and excitement are
+often the responses people have to a
+great product. That’s where you’ll see
+it most often — when marketers are
+showing how passionate and excited
+customers are about their products.
+What makes this emotion so
+powerful? One of the primary reasons
+is that too many of us have little to
+get excited about each day. We’re
+bored to death — bored with our
+jobs, cars, houses, clothes, friends,
+and life. So anything — and I mean
+anything — that gives us just a little
+more excitement, enthusiasm and zest
+is eagerly welcomed. Your job is to
+make that exciting thing your product
+or service — and to convince your
+prospect that his life will become more
+passionate and interesting the second
+he’s got your product in his hands.
+Here’s an example of a testimonial
+that taps into passion:
+He Tried Almost 200
+Remedies Without
+Results —
+Then He Found Success
+With Flora Source!
+“My problem has
+been bacterial
+overgrowth in the
+small intestines.
+I experience
+weakness, food
+allergies, bloating,
+immune system
+dysfunction, and sleep
+abnormalities. In
+sixteen years, I tried
+close to 200 remedies
+without success!
+Flora Source has been
+the most beneficial
+product yet. I am
+eating things that
+formerly bothered me.
+My bloating has all
+sports heroes, film stars, and
+billionaires are beating a path to
+this legendary doctor’s door.”
+Blissful – “You’ll discover what it
+feels like to be peaceful and blissful
+on the inside.”
+Breathtaking – “Yes, even this
+life-threatening condition has been
+reversed with breathtaking speed
+…”
+Cheer up – “But cheer up, because
+despite what everyone tells you
+… Antibiotics are not our most
+powerful weapon against infectious
+disease.”
+Couldn’t keep my hands off
+– “Within a week, I couldn’t keep
+my hands off my husband … HE
+LOVED IT!”
+Crack open the champagne – “…
+the difference between a so-so
+year and one to crack open the
+champagne for.”
+Delicious – “Delicious, tangy, and
+on your table in under 25 minutes.”
+Delight – “ … my fishing is at once
+an endless source of delight and an
+act of rebellion …”
+Devoted – “Youth Quest: an
+organization devoted to cutting
+edge technology.”
+Ears perked up – “But years later,
+my ears perked up when my
+sources reported …”
+Eat what you want – “From now
+on, eat what you want and travel
+wherever you please.”
+Ecstasy – “Cheesy ecstasy, only
+22% calories from fat!”
+Enjoy – “Enjoy your meat, beer,
+wine, and even cigars!”
+Enthusiasts – “If you’d like to
+experience the rough and tumble
+thrills that turn so many energy
+stock traders into energy stock
+enthusiasts … here’s news you’re
+going to LOVE!”
+Excited – ‘That’s why I’m more
+12 but disappeared. I
+thank you from the
+bottom of my heart!”
+If you look closely, most of
+the very best testimonials have an
+element of passion to them. That’s
+exactly what savvy marketers and
+copywriters like Clayton seek. In
+fact, he had an incredibly successful
+promotion that featured a passionate
+statement from a testimonial not too
+long ago. It was for a artery-enhancing
+product and the headline was, “Heart
+Surgery May Be a Thing of the Past!”
+It’s very powerful when you get a
+customer making such an enthusiastic,
+authoritative declaration like this. And
+it’s wise to always keep your eyes
+peeled for such a powerful possibility.
+So how do you trigger it? First,
+dig deep in your testimonial file. This
+is why Clayton often requests and
+reads the entire file of testimonials, no
+matter how long. Because you never
+know when you’ll find that gem that’s
+passionate, believable and compelling
+to prospects reading the sales copy.
+If your client has done a good
+job of compiling them (and has an
+excellent product), then you’ll find
+all kinds of passionate statements
+that you can use as claims/benefits
+in your running text (which you
+can enhance by using the words
+below) … feature the testimonials as
+believable statements of passion and
+excitement from third party sources
+… and ultimately make the argument
+that your reader will experience this
+wonderfully passionate feeling the
+second your product is in his hands.
+Passion
+Absolutely love it – “For a break,
+I’ll walk over to the old Inn across
+the street for lunch … grab a coffee
+at the local market … or take a walk
+up Pinnacle Hill behind my house. I
+absolutely love it!”
+Amazing quality of life – “The
+difference is in the amazing quality
+of life!”
+Beating a path – “Find out why
+Chapter 12: I’m So Excited, And I Just Can’t Hide It … (Passion)
+Passion
+www.getwsodo.com	www.getwsodo.com
+
+-- 43 of 60 --
+
+ 	Emotional Trigger Words
+excited than ever about this natural
+breakthrough from China …”
+Fan for life – “I have adopted your
+trading methods and I am a true fan
+for life!”
+Fulfillment – “How to create the
+circumstances for true fulfillment
+and healing.”
+Gala – “Two FREE members-only
+gala banquets each year.”
+Glad – “I was glad when studies
+confirmed that this was WAY
+MORE than pie in the sky.”
+Glowing tribute – “The GAO
+study is a glowing tribute to Weiss,
+according to Barron’s.”
+Good and comfortable – “Imagine
+felling that good and comfortable
+each and every day!”
+Grateful – “The astonishing
+health miracle 1.5 million grateful
+patients swear by!”
+Happy – “You see, all these happy
+human beings just happen to read
+Alternatives …”
+Jubilant – “In the words of one
+jubilant parent, this breakthrough
+“gave me my daughter back” …”
+Jumping for joy – “Why are
+thousands of “incurable” patients
+jumping for joy?”
+Laugh – “They laughed when I sat
+down to the piano … but when I
+started to play …”
+Mad about – “In Europe, people
+are absolutely mad about this
+product, buying it faster than it can
+be produced.”
+Madly attractive – “Now! Become
+madly attractive to the opposite
+sex … “
+Make love – “The best ways to
+make love on an airplane …”
+Maniac trader – “Kevin Kerr,
+AKA the Maniac Trader. We
+dubbed him the Maniac because he
+tirelessly watches the commodities
+markets.”
+Medal of Honor – “You deserve
+a Medal of Honor for protecting
+an older, self-supporting, divorced
+woman who isn’t very rich …”
+Merrily – “And he’s just one of
+a legion of old-timers, merrily
+running rings around
+youngsters …”
+Mission – “My mission is to make
+you far richer than you are now!”
+Most spectacular – “The
+most spectacular cave diving
+anywhere!”
+Pleasure – “This herbal discovery
+can give you and your partner
+pleasure galore.”
+Rave – “Clients rave about the
+results they’re getting …”
+Rejoice – “My clients rejoiced
+when they saw gains of 456% in
+only 5 weeks!”
+Standing ovation – “Readers give
+Bloomberg Personal a standing
+ovation!”
+State of the art – “The Weiss
+War Room is my state-of-the-art
+investment analysis and trading
+center.”
+Thrilled – “You bet I was thrilled
+when the President of Nicaragua
+personally thanked me for helping
+her to overcome osteoporosis.”
+Victory – “Head of State thanks
+Dr. Williams for Osteoporosis
+Victory!”
+Wonderful – “Thank you for a
+wonderful service at an affordable
+price!”
+World-renowned – “Where to hear
+a world-renowned symphony in a
+classic concert hall for only $2.”
+www.getwsodo.com	www.getwsodo.com
+
+-- 44 of 60 --
+
+
+patients. They were
+treated with a
+startling new medical
+procedure that
+harnesses the cancer-
+killing power of your
+body’s T-cells.
+These warriors of your
+immune system usually
+ignore cancer. But
+researchers recently
+found a way to trick
+the T-cells into
+destroying deadly
+cancers. How? With a
+dose of the patient’s
+own tumor cells!
+In a groundbreaking
+study, 18 of 22 lung
+cancer patients had
+their immune systems
+successfully spurred
+into action to
+fight their cancers
+— with far fewer
+side effects than
+either chemotherapy
+or radiation. (For
+more on this amazing
+breakthrough, see page
+306 of SUPER HEALING
+UNLIMITED.)
+Why You Haven’t Heard
+of this until now.
+In medicine, news of
+breakthroughs travels
+as fast as a snail
+through mud.
+Even after new
+treatments have been
+proven effective, they
+must slog through
+years of testing for
+“safety.”
+And when the testing
+is over, the snail
+often hits the brick
+wall of deeply
+entrenched ways of
+treating diseases
+that hospitals, drug
+companies and others
+make billions of
+The Astonishing
+Power of
+Powerlessness
+We all feel powerless sometimes.
+And it’s no fun. Nobody likes to feel
+that they’re not in control of their lives
+or incapable of changing. But we DO
+feel this emotion, nevertheless.
+Powerlessness is especially
+effective in the health market because
+getting and staying healthy is such a
+mystery to most people. For most, it
+feels totally outside their control and
+that’s why so many people surrender
+their lives to doctors and drug
+companies.
+This is also quite often the
+case in the investment market, but
+it’s more dependent on the current
+trends and state of the market.
+When Clayton built Weiss up into
+the financial juggernaut, there was a
+wave of brokerage scandals, earnings
+scandals, wrecks and crashes that
+made investors feel frightened
+and powerless. And of course, he
+used these emotions to the fullest,
+motivating his prospects to act NOW
+and reclaim their power over their
+financial destiny.
+You can also be sure that when
+your prospect feels powerless, he
+resents the hell out of it. So he’ll
+naturally have anger and resentment
+for whatever it is that’s causing him
+to feel powerless — whether it’s drug
+companies, crooked brokers, uncaring
+doctors, lying Internet gurus, or
+anyone else. This sets up the perfect
+opportunity to create the enemy and
+get him even more likely to take
+action.
+Here’s an example:
+Lung cancer? Everybody
+knows that it’s
+usually a death
+sentence. TV’s Peter
+Jennings died just
+a few months after
+announcing he had it.
+But you won’t hear
+that gloomy outlook
+from some very
+fortunate cancer
+13 dollars providing.
+That’s why, although
+it may be in your best
+interest to learn
+about these little-
+known, unpublicized
+alternatives that could
+mean the difference
+between sickness and
+health for you or a
+loved one …
+… It’s not always in
+the medical industry’s
+best interests.
+What else are you
+not hearing about
+when it comes to
+cancer prevention and
+treatment? Find out by
+sending for your FREE-
+Preview copy of SUPER
+HEALING UNLIMITED,
+where you’ll also
+discover …
+Notice how the copy went
+from the feeling of powerlessness
+(inevitable death from lung cancer)
+… to hope (breakthrough treatment)
+… to the anger and frustration of the
+medical cover-up … to the ultimate
+solution. This is something you can
+continually do to optimize your ability
+to weave all of the different emotions
+together in a powerful, natural
+sequence.
+Also, you’ll notice that many
+words could easily go into the fear
+section. The difference is that these
+words have more of an inevitable
+feeling to them; like there’s no way
+out or nothing that can be done. As
+such, they cause your prospect to not
+only feel afraid but utterly powerless.
+Powerlessness
+Age-related – “Age-related memory loss
+strikes everyone, and up until now you had
+few options.”
+Agony – “Don’t just sit there and wring your
+hands while they suffer the agony of hip
+fracture …”
+All the King’s – “All the King’s horses and
+Chapter 1: The Astonishing Power of Powerlessness (Powerlessness)
+Powerlessness
+www.getwsodo.com	www.getwsodo.com
+
+-- 45 of 60 --
+
+6 	Emotional Trigger Words
+all the Kings men couldn’t put the economy
+back together again.”
+Bedridden – “Doctors just shook their heads
+about Bert, bedridden with 4 torn disks …”
+Bring to its knees – “Washington is about to
+bring Wall Street to its KNEES …
+Continue to decline – “The current supply of
+refined petroleum products will continue to
+decline in the foreseeable future!”
+Cry – “I don’t know whether to laugh or
+cry …”
+Destabilizes – “Every one of these attacks on
+oil supplies further destabilizes the global oil
+market … and pushes oil prices higher.”
+Dog on a leash – “They want you to be like
+a dog on a leash. The minute the dog starts to
+think for themselves and do some exploring,
+the leash gets jerked back.”
+Dwindling – “Because ground oil supplies
+are rapidly dwindling …”
+Falling for it – “The saddest fact of all is the
+medical profession is falling for it, allowing
+itself to be manipulated into acting as an
+accessory to this crime.”
+Floundering – “Even as Winstar was
+floundering, Grubman never seemed to
+notice.”
+Fool’s game – “It’s a fool’s game. A game
+nobody can win.”
+Fried – “You just know that for every high
+profile case like this, a thousand SMALLER
+FISH are getting fried.”
+Full tilt – “Oil refineries are already running
+at FULL TILT.”
+Fundamental forces – “Because the
+bankruptcy crisis is being driven by powerful
+fundamental forces that the authorities do
+not control.”
+Getting old – “Sorry Marge, you’re getting
+old …”
+Ground planes – “But don’t worry, the
+FAA has a back-up plan. Namely, to ground
+planes until the repairs are made.”
+Helpless – “You can stand by helplessly as
+they gut your savings …”
+Homeless – “You can’t imagine how horrible
+life on the street is for a homeless kid …”
+Impaired – “They tested this compound
+on people with brain circulation so
+impaired, many were already suffering
+mini-strokes …”
+Inevitable – “Why these seven inevitable
+crises virtually GUARANTEE you’ll be
+50% POORER by next New Year’s Day:
+Your only hope – take action NOW!”
+Locked-in – “But they are largely oblivious
+to these locked-in trends, and the investments
+that will soar are selling cheap.”
+Maxed-out – “Oil transportation capacity is
+maxed-out!”
+Mental Decline – “Loved ones need not
+suffer mental decline! NOT ANYMORE!”
+Naïve – “These poor naïve souls trusted
+Saloman and Grubman.”
+No additional supply – “OPEC states
+‘THERE IS NO ADDITIONAL
+SUPPLY.’”
+Nothing – “Oil Minister Chakib Khelil stated
+that the OPEC can do nothing regarding oil
+prices …”
+Numb – “If your feet get colder more
+easily, your head is probably growing
+numb too …”
+Overpowering – “And overpowering
+prostate cancer with Melatonin?”
+Paralyzed – “And he was renowned for
+his work with “hopelessly” paralyzed
+children …”
+Placed their faith – “Thousands of men
+with prostate cancer placed their faith in this
+product …”
+Pressured – “I don’t EVER want you to be
+pressured into having a bypass operation
+or …”
+Punch-drunk prizefighter – “The economic
+world was already staggering like a punch-
+drunk prizefighter …”
+Resigned – “For years, they quietly resigned
+themselves to miseries just like yours.”
+Run out of juice – “Your neurons run out of
+juice … Yes! Just like a car battery.”
+Sacrificed – “Your retirement is being
+systematically sacrificed on the altar of
+economic expediency.”
+Severe shortage – “… the shortage of
+refined products is destined to become even
+more severe for years to come.”
+Shut down – “Russian oil giant, Yukos, shut
+down 60% of its oil production and prices
+surged.”
+Side-effects – “Now those side-effects are
+beginning to strike and the doctor has run out
+of new drugs!”
+Sleepwalking – “Sleepwalking toward
+bankruptcy!”
+Slump – “Gary’s sex life and career were in
+a slump.”
+Spreading like wildfire – “Look around
+you: it’s already spreading like wildfire.
+We are also witnessing a surge in business
+failures.”
+Surrender – “You can surrender to those
+who have vowed to destroy your wealth …”
+Throw in the towel – “So frustrated … you
+were tempted to throw in the towel.”
+Trouble-making intestines – “Do that and
+you can expect unpredictable stomach and
+trouble-making intestines every day.”
+Uphill battle – “Most investors are destined
+to fight an uphill battle just to stay even with
+where they are right now.”
+Unexplained – “I strongly recommend
+Probiotic Advantage if you have
+unexplained GI discomfort.”
+Unstoppable – “Please remember: This tidal
+wave of personal bankruptcies is absolutely
+unstoppable.”
+Unsuspecting – “Meanwhile, millions of
+unsuspecting investors, blissfully ignorant of
+how corrupt Washington’s budget numbers
+are …”
+Unwary – “You are now the target of what
+will be the bloodiest slaughter of unwary
+investors ever.”
+Unwitting – “Enron’s massive accounting
+fraud essentially killed the company and cost
+unwitting investors billions – up to 99.9% of
+their invested wealth.”
+War – “There won’t be a war going on
+inside your body that makes you sit in a chair
+for an hour after dinner and wait for the Battle
+of the Belly to be over.”
+Weak and tired – “Too many meatless
+meals can leave your mind feeling weak and
+tired …”
+When Pigs Fly – “Gas prices will drop when
+pigs fly! … So, unless pigs grow wings, you
+can pretty much count on gas prices soaring.”
+www.getwsodo.com	www.getwsodo.com
+
+-- 46 of 60 --
+
+7
+It’s Time to
+Kick Back and
+Relax
+While not the most popular
+emotion in sales copy, relaxation
+can be a very attractive emotional
+benefit. It all depends on your product
+or service. If you’re selling vacation
+packages, travel services, anti-stress
+supplements, or anything similar — it
+can be effective to get your prospect to
+feel relaxed.
+In fact, Bill Bonner’s famous lead
+for International Living did a fantastic
+job of stimulating the feeling of
+relaxation — and in a very seductive
+way. Here it is:
+You look out your
+window, past your
+gardener, who is busy
+pruning the lemon,
+cherry and fig trees …
+amidst the splendor of
+gardenias, hibiscus,
+and hollycocks.
+The sky is clear blue.
+The sea is a deeper
+blue, sparkling with
+sunlight.
+A gentle breeze comes
+drifting in from
+the ocean, clean
+and refreshing as
+your maid brings you
+breakfast in bed.
+For a moment, you
+think you have died
+and gone to heaven.
+But this paradise is
+real and affordable.
+In fact, it costs only
+half as much to live
+this dream lifestyle …
+as it would to stay in
+your own home!
+See how the feeling of relaxation
+pervades this famous lead? The desire
+to relax, especially when coupled
+with other benefits (like above), can
+be ultra-effective. This is particularly
+true when you’re able to create such a
+pleasing and seductive image.
+So don’t be afraid to use the words
+below in your efforts to paint pleasing
+a magical oasis of healing and
+regeneration.”
+Paradise – “But this paradise is
+real. And affordable.”
+Peace and quiet – “I write from a
+little cottage, steps from my house,
+where I’m surrounded by peace
+and quiet.”
+Poise – “Are you poised to get to
+the finish line first?”
+Refreshing – “This refreshing
+beverage is just one of hundreds
+of amazing recipes you’ll receive
+— FREE!”
+Serenity – “With this new program,
+serenity is only minutes away.”
+Sit back – “We make the picks
+— all you need to do is call your
+broker and then sit back and watch
+what happens.”
+Soothing – “The soothing sounds
+of the CD will put you in an
+optimum state for sleep.”
+Sweet Spots – “Mexico’s most
+undervalued sweet spots. Here are
+the secret mountain hideaways …”
+Tranquil – “Where to find the
+most pristine and tranquil beach in
+Europe …”
+14 pictures. They create a very attractive
+image in your prospect’s mind and he
+associates this desirable feeling and
+image with your product or service.
+Of course, there are more words that
+trigger and enhance the feeling of
+relaxation, but these are some popular
+ones from many mainstream mailings.
+Relaxed
+Bliss – “The bliss you’ll experience
+when you bite into this decadent
+dessert is beyond comparison.”
+Calm – “The real secret to being
+calm is simply having the right
+brain chemistry.”
+Chill out – “Unfortunately, the
+situation in the Middle East is not
+going to chill out any time soon.”
+Cool – “Imagine sitting back in
+your beach chair, cracking open a
+nice, cool beer and watching your
+bank account go up with each
+passing hour.”
+Charming ambience – “These
+places – with charming ambience
+– are entirely unknown to tourists
+and not listed in any guidebook.”
+Dreaming – “Dreaming of getting
+away for a writer’s retreat?”
+Drift – “Many are content to simply
+drift along, not caring where they
+end up …”
+Ease – “And the best part is, you’ll
+do it with startling ease …”
+Fantasize – “Do you fantasize
+about exotic and luxurious places
+like the Costa Rican rain forest?”
+Gentle – “Imagine the gentle
+breeze gliding across your face.”
+Imagine – “Imagine how amazing
+you’ll feel as the money starts to
+roll in.”
+Meditation – “So now, what
+has taken her over thirty years to
+accomplish using meditation and
+many other modalities is available
+to you in one remarkable
+program …”
+Oasis – “Dr. Oakes has created
+Chapter 1: It’s Time to Kick Back and Relax (Relaxed)
+Relaxed
+www.getwsodo.com	www.getwsodo.com
+
+-- 47 of 60 --
+
+8 	Emotional Trigger Words
+When Your
+Prospect is
+Down in the Dumps,
+Do This …
+It’s one of the most unpleasant
+of all human emotions. We avoid it
+whenever possible. And yet, sadness
+can play a powerful role in motivating
+your prospect to take action on your
+offer.
+Sadness is not as commonly used
+as fear or anger, and there’s a reason
+for that. Sadness and feelings of
+depression are less actionable. Think
+about it: When people feel sad, they’re
+in a very low-energy state and just
+lay around moping and feeling sorry
+for themselves. They’re not likely to
+quickly jump to action on something.
+Now compare this to fear or anger.
+When someone is afraid (not so afraid
+that he feels paralyzed), this person
+will often act in a split second, without
+giving it much thought.
+Or imagine this: There’s
+somebody who doesn’t have enough
+money to pay his or her bills. If this
+person is afraid of getting kicked out,
+he’ll probably look very aggressively
+for things he can do to get the money
+and remove the cause of this fear. But
+if he’s purely sad about not having
+enough money to pay, he probably
+won’t do anything. He’ll just feel
+down and depressed.
+It is the same with anger. If
+somebody is angry about their child
+not getting a good education at his
+public school, he’s very likely to
+actually do something about it. But not
+if he’s sad or depressed.
+So when DO you want to use this
+emotion? You can use it to create a
+strong contrast between the bleak state
+your prospect is currently in (or is at
+risk of being in) and the very positive
+place he’ll find himself in once he
+sends for your product. This contrast
+makes your positive benefits seem that
+much more appealing and attractive.
+Here’s an example from a health
+package:
+If you think it’s
+tough losing 20
+pounds, just imagine
+how desperate Fred
+felt. “Nobody wanted
+to hire me because of
+my size,” he recalls.
+“Although I did get
+a job in a movie
+with Robert DeNiro
+… I played JoJo the
+whale.”
+Audiences may have
+laughed, but there
+was nothing funny
+about it. Fred was
+175 pounds overweight
+and it was literally
+crushing the life
+out of him. “I was
+months away from
+death,” he says.
+“I had congestive
+heart failure. I was
+retaining water,
+vomiting blood …”
+“I couldn’t lie down
+anymore because of
+water crushing my
+lungs …
+“I tried every diet
+you could name, [but]
+I never could stick to
+it!”
+Yet thanks to Dr. Gary
+Null, Fred’s entire
+life turned around in
+a flash …
+In 9 months, Fred lost
+175 pounds without
+counting calories,
+carbs, or fat …
+And as soon as you
+learn Fred’s secret,
+you’ll never have to
+“diet” again.
+REALLY? Yes! You’ll
+learn what Fred did,
+starting on page 170
+of your FREE-Preview
+copy of Bottom Line’s
+POWER AGING.
+15 In this example, the transformation
+seems especially powerful and
+emotionally potent, because Fred went
+from such a sorry state to success.
+That’s how it’s so often used — and
+this sad-to-happy process is the
+crux of the many “before and after”
+testimonials that you see in all avenues
+of direct response.
+Also, you can use sadness as
+a bridge to the more actionable
+negative emotions. When somebody
+is sad about something, they may not
+necessarily be aware of the cause. If
+you can show them what’s creating
+their sadness, create an enemy out of
+this thing, and then arouse their anger
+and frustration for that enemy — look
+out! You’ll be converting the less
+actionable emotion of sadness into the
+VERY actionable emotions of anger,
+frustration, revenge, and more, setting
+yourself up for an emotional windfall.
+This is a very high level skill,
+something that guys like Clayton do
+almost unconsciously at this point. But
+it won’t come easy at the start. You’ll
+need to study winning promotions
+and get good at using the right
+words, at the right times. Of course,
+this chapter is the perfect launching
+pad!
+Sadness
+Bitter pill to swallow – “I know
+that’s a bitter pill to swallow.
+After all, you already saw the
+AVERAGE S&P 500 stock drop
+9.3% in 2000 …”
+Broken heart – “On September 11,
+a handful of fanatic terrorists broke
+America’s heart.”
+Darkened – “Depression darkened
+Sandy’s life for 10 long years.”
+Depressed – “Dr. Mark Stengler
+has found that severely depressed
+people almost always have low
+levels of Compound S!”
+Devoured – “Month after month,
+depression devoured her life.”
+Died broke – “Famous author
+Sadness
+www.getwsodo.com	www.getwsodo.com
+
+-- 48 of 60 --
+
+9
+earned millions but died broke.”
+Down in the dumps – “Daisy was
+so down in the dumps, she could
+barely drag herself through the
+day.”
+Fatal – “But that’s only the
+beginning of the agony for this
+school of dolphins on this fatal
+morning in the Eastern Tropical
+Pacific Ocean.”
+Gloomy – “Got a Gloomy Gus
+in your life? Do him the world’s
+biggest favor and show him the
+secret on page 134 …”
+Grieve – “… we continue to grieve
+for our fallen countrymen and
+women.”
+Loneliness – “Overcoming
+loneliness. Don’t let it complicate
+your life.”
+Lost – “When Michael lost his
+wife, the pain was more than he
+could bear.”
+Medical miseries – “And let him
+show you how to shrug off your
+medical miseries in a matter of
+minutes …”
+Make depression worse –
+“Antidepressants that make
+depression worse when taken with
+St. John’s Wort”
+Never enough joy – “One of Dr.
+Oakes clients, Isabelle, grew up
+in a family where there was never
+enough — never enough nurturing,
+never enough money, never enough
+joy.”
+Postpartum blues –
+“Postpartum blues can be
+devastating. But guess what?
+Childbirth can deplete your supply
+of the brain nutrient Choline.”
+Took a nosedive – “When her
+relationship went on the rocks, her
+emotions took a nosedive.”
+Tragedy – “All the fundamental
+weaknesses that triggered the stock
+market tragedy …”
+Tragic – “So why have several
+hundred of these beautiful, graceful,
+intelligent creatures been killed on
+this tragic morning?”
+Trapped – “The terrified dolphins
+become trapped in the net and
+many are crushed alive in the ship’s
+power blocks.”
+Woes – “Water Filter Woes: Most
+water filters aren’t worth the
+plastic they’re made of …”
+Chapter 1: When Your Prospect is Down in the Dumps, Do This … (Sadness)
+www.getwsodo.com	www.getwsodo.com
+
+-- 49 of 60 --
+
+0 	Emotional Trigger Words
+the emotions of security in your close
+… your guarantee … your order
+form and everywhere else you can. If
+you do this right, your prospect will
+feel very safe about ordering. You’re
+removing one of his chief barriers to
+action and thereby increasing chances
+of him actually responding.
+Also, as you go through the list
+that follows, notice that many of
+the words in this section are used in
+proof/credibility copy. That’s another
+crucial thing to realize about the
+emotion of security — namely, that
+the goal of those elements is to make
+your prospect feel safe. When he feels
+you’re telling him the truth and that
+your product is legitimate, he’ll feel
+secure and will be able to trust you.
+This is absolutely essential to him
+buying.
+Here’s an example:
+His name is Stephen
+Leeb. Leeb is the
+author of the best-
+selling investment
+books, Defying the
+Market, The Oil
+Factor, and The Coming
+Economic Collapse. He
+was also the editor
+for 13 years of the
+largest financial
+investment newsletter
+in the world, Personal
+Finance. And has been
+repeatedly rated as
+the top market timer
+by the major U.S.
+rating services.
+These services have
+repeatedly ranked
+him one of the best
+— even for periods
+spanning half a
+decade. This puts
+Leeb in a category
+all of his own. Few
+advisors are lucky
+enough to shine in
+the #1 spotlight for
+even a year. But Leeb
+has shone year after
+year. His predictions,
+his recommendations
+How to Make
+Your Prospect
+Feel Safe and Secure
+Few copywriters ever consider
+the emotional need for security, and
+yet it’s one of the single most crucial
+factors in the success of almost any
+promotion. In the financial arena, it’s
+especially powerful and Clayton used
+it to take Martin Weiss from a small
+financial publisher to the #1 newsletter
+in the industry in the late 1990s and
+early 2000s.
+How did he do this? By
+positioning Dr. Weiss as the #1
+guardian of investor safety. His
+newsletter service was called the Safe
+Money Report and all of his premiums
+and features were centered around
+helping the investor to protect and
+insulate his wealth, and then rake in
+safe yet substantial profits.
+At a time when so many investors
+were feeling uncertain, frightened and
+distrustful of Wall Street, the feeling
+of safety and security couldn’t have
+been any more powerful. Clayton used
+many of the words below to harness
+this amazing emotion and leap ahead
+of his competitors.
+So what makes the feeling of
+security so appealing? The primary
+reason is that security is the opposite
+of fear. In many ways, you could say
+that security is the antidote to fear
+because the more secure somebody
+feels, the less afraid they’ll feel.
+Fear is so often a dominant
+emotion in the health, investment
+and other markets — promising and
+proving that your product will deliver
+the emotional benefit of increased
+security is always, ALWAYS powerful.
+There’s another crucial reason
+to make security part of every single
+promotion you ever write: It’s the
+emotion that RELIEVES RISK! As
+a successful copywriter and direct
+marketer, you already know that
+you need to relieve your prospect’s
+feeling of risk. The most common and
+practical way to do this is through
+your guarantee. But the most overall
+effective way to do this is to trigger
+16 and his insights
+have been spot on
+— again and again.
+It’s probably why
+he is quoted almost
+monthly in prestigious
+publications from the
+Wall Street Journal to
+Business Week … from
+Forbes to USA Today,
+and why he is asked to
+appear regularly on
+popular financial shows
+and channels like CNN,
+CNBC, Bloomberg and
+Fox News.
+As you can see from this example,
+the writer is building the credibility
+of the editor. This causes the reader
+to trust and believe what he’s saying
+as true. The end result is that the
+prospect feels safer and more secure in
+ordering. Without adequate creation of
+these feelings (as Clayton likes to call
+the “safety sale”) — his skepticism
+and fear of risk will often be too
+significant to take action. It just won’t
+feel right inside.
+But when you USE these words
+and sentences, peppering them
+throughout your credibility sections …
+your guarantee … your close … your
+order form and anywhere else they
+fit … you can’t help but remove your
+prospect’s resistance and doubt about
+the benefits he’ll receive.
+So do yourself a favor and master
+these words — your response numbers
+will thank you for it!
+Security
+100% – “A 100%, No-Strings-
+Attached, Four-Way Guarantee …”
+#1 – “Our newsletter was ranked #1
+by Hulbert Financial Digest.”
+Accurate – “Having the world’s most
+accurate stock ratings is kind of like
+having X-ray vision.”
+Again and again – “Again and
+again, this simple strategy has spun
+off returns of up to 450% for savvy
+investors.”
+Ancient – “An ancient herbal blend
+Security
+www.getwsodo.com	www.getwsodo.com
+
+-- 50 of 60 --
+
+1
+that traditional Chinese healers have
+relied upon for centuries for keeping
+their eyes sharp.”
+Awarded – “We’ve been awarded
+the best investment advisory service
+in the U.S. for the last 20 years.”
+Backed – “It’s safe, backed by
+decades of solid research, and boy is
+it ever cheap.”
+Back-tested – “And then, as patterns
+began to emerge, I back-tested each
+one back as far as 1929.”
+Bankable – “Over the years, I’ve
+demonstrated that my advice is
+bankable.”
+Battle-hardened – “So I’m showing
+you an approach that is battle-
+hardened in every type of market for
+two decades.”
+Best-selling – “He’s the author of
+four different best-selling books in
+the investment field.”
+Bulletproof – “Bulletproof legal
+protection: Just $12 per month!”
+Cancel anytime – “PLUS, you can
+cancel anytime thereafter for a FULL
+REFUND on the unused portion of
+your subscription.”
+Candid – “Are you using the best
+insulin preparation? Here’s a review
+of the leading insulins and a candid
+analysis of what they can and cannot
+do.”
+Carefully tested – “I know they may
+sound impossible, but I’ve carefully
+tested them all.”
+Century-old – “Soft-spoken analyst
+masters, then perfects this Century-
+old Timing System …”
+Completely convinced – “You must
+be completely convinced that this
+service will save you or make you at
+least $5,000 in the next 12 months
+– or I’ll rush you a full refund!”
+Comprehensive – “ … ensuring
+that every senator on the Hill has
+documented proof of the abuses
+and a comprehensive outline of the
+solutions at their fingertips.”
+Conflict-of-interest-free – “ … one-
+hundred percent objective, conflict-
+of-interest-free economic analysis,
+investment ratings and wealth-
+building advice carefully crafted to
+get you safely through this impending
+catastrophe …”
+Confirmed – “Researchers at the
+University of Wisconsin have now
+confirmed the incredible power of
+this discovery.”
+Correctly – “Martin Weiss, Ph.D.
+– the analyst who correctly forecast
+… The Great Tech Wreck of 2000 …
+The Blue Chip Bust of 2001-2002 …
+The Gold Stock Bonanza of 2002-
+2003 …”
+Crash-proof – “Your second bonus:
+How to Crash-Proof Your Investment
+Portfolio …”
+Credentials – “ … and yet each has
+exactly the kind of credentials that
+turn Wall Street analysts, money
+managers and institutions GREEN
+with envy!”
+Crusade – “ … and urges investors
+to join him in a nationwide crusade
+to demand full and fair disclosure
+from public companies.”
+Dead-locked cinch – “… exploding
+demand for oil and shrinking supplies
+are a dead-locked cinch!”
+Decades – “For nearly two decades,
+I’ve been dispensing life-enriching
+health advice to nearly a million
+subscribers.”
+Demonstrate – “May we
+demonstrate how much you can
+make your profits multiply up the
+profit ladder?”
+Fact – “Then we examine everything
+that is known FOR A FACT about
+the best company’s stock.”
+Earned the respect – “Poets &
+Writers have earned the respect
+and support of national and state arts
+agencies …”
+Earn trust – “You have to earn a
+person’s trust before you can earn his
+or her business …”
+Ensure – “The only way to
+ENSURE your place in ENERGY
+WINDFALL TRADER is to call …”
+Exhaustive – “Both have been
+thoroughly proven in exhaustive
+University studies …”
+Expert – “You’ll be the expert in the
+use of each new treatment, and you’ll
+see exactly why it works, because I’ll
+fully brief you and your entire family
+in plain English …”
+Extra protection – “Your eyes get
+a dose of extra protection from UV
+rays …”
+Evidence is overwhelming
+– “THE EVIDENCE IS SIMPLY
+OVERWHELMING … These are
+so impressive that I have come to
+regard them as among the best-kept
+secrets in medical science.”
+Fairer – “What could be fairer? You
+risk nothing. You pay nothing.”
+Featured – “Dr. Weiss has recently
+been featured in many other local
+and industry newspapers and
+periodicals from coast to coast …”
+For any reason – “All your money
+back. Any time. For any reason.
+Period.”
+Four-way – “A 100%, No-Strings-
+Attached, Four-Way Guarantee”
+Fundamentals – “The sum total
+of those companies’ revenues and
+earnings, cash and debt and other
+critical fundamentals gives us a
+graphic picture of how healthy (or
+sick) the economy and stock market
+really are.”
+Good-bye to risk – “Say good-bye
+to high risk!”
+Guarantee – “And guaranteeing
+that your life is filled with sex, love,
+and intimacy.”
+Guaranteed … or it’s Free – “Real
+Wealth is Guaranteed to save you or
+make you a minimum of $5,000 …
+or it’s Free!”
+Guard your money like a junkyard
+watchdog – “You’ll get a wealth of
+tools that will guard your money
+like a junkyard watchdog.”
+Guardian – “America’s #1
+Guardian of investor safety since
+1971.”
+Hang your hat on – “ … this is
+Chapter 16: How to Make Your Prospect Feel Safe and Secure (Security)
+www.getwsodo.com	www.getwsodo.com
+
+-- 51 of 60 --
+
+2 	Emotional Trigger Words
+proprietary advice you can hang
+your hat on!”
+Hardest-working – “This is by far,
+the hardest-working money-saving
+tool any investor could have now.”
+Haven – “The world’s up-and-
+coming tax haven is now yours …”
+He’s the man – “When it comes to
+herbal formulas, HE’S THE MAN.”
+Honest – “An honest-to-God
+shortcut to launching the longest
+drives …”
+Indestructible – “Buy cultural icons:
+They are indestructible.”
+Indisputable proof – “He’s mastered
+the art of overwhelming evidence – a
+technique of providing indisputable
+proof that your service or product
+can deliver its promise.”
+Inflation-proof – “Inflation-proof
+your government bonds …”
+Insulate – “Help me insulate my
+money and grow up to 1000% richer
+In The Great Stock Panic of 2002!”
+Ironclad – “My ironclad, 100%
+satisfaction guarantee means you
+have absolutely nothing to lose.”
+Island of sanity – “An island of
+sanity in an insane market.”
+Keep – “And then you can keep
+everything you have received
+– FREE!”
+Leading – “America’s leading news
+organizations – and even the U.S.
+Congress – turn to Dr. Martin D.
+Weiss for 100% objective, conflict-
+of-interest-free analysis and advice!”
+Leading authority – “The
+breakthrough medical report from
+Michael Cutler, M.D. – leading
+authority on better health and faster
+healing …”
+Lifetime membership – “Your
+savings in just ONE year will easily
+exceed the cost of the entire lifetime
+membership.”
+Lion’s share – “Put the lion’s share
+of your money into a portfolio
+designed to safely deliver substantial
+returns WITHOUT exposing your
+core holdings to risk …”
+Longest-running – “His weekly
+Options Hotline e-alert is one of the
+longest-running option advisory
+services available.”
+Long-term – “Restore your long-
+term financial security.”
+Money-back – “Plus, the fairest
+Money-Back Guarantee anywhere!”
+Minimum risk – “Prudent investor’s
+guide to maximum yields with
+minimum risk.”
+Must be delighted – “You must be
+delighted with your profits, or simply
+call and cancel your subscription at
+any time in your first year for a FULL
+REFUND on your subscription.”
+Never lost money – “With a
+conservative portfolio that has
+NEVER lost money in any year for
+more than three decades …”
+Nobel Prize pedigree – “This
+solution is our only hope against
+tomorrow’s plagues and it’s also
+the only one with a Nobel Prize
+pedigree.”
+No-nonsense – “You get all
+my no-nonsense investment
+recommendations.”
+No-questions-asked – “Simply
+return it … there will be no
+questions asked, and no hassles.”
+No-risk – “It’s yours free with a 2-
+year, no-risk trial subscription.”
+No-Strings-Attached – “A 100%,
+No-Strings-Attached, Four-Way
+Guarantee”
+Objective – “This is your only
+independent, objective warning of
+the riskiest stocks and mutual funds
+that could torpedo your portfolio.”
+Official – “IT’S OFFICIAL: SAFE
+MONEY REPORT by Martin Weiss,
+Ph.D. is the #1 top performing
+newsletter for the period of March
+2002 – February 2003”
+Outlines – “Dr. Weiss outlines the
+abuses unsuspecting investors are
+suffering at the hands of trusted
+brokers.”
+Painless – “These secrets make
+investing simple and painless.”
+Personally checked – “You’ll be
+secure in the knowledge that I’ve
+personally checked all these therapies
+for safety and effectiveness …”
+Positive – “We’re so positive
+that The Best of Diabetes Self-
+Management will make a difference
+in your life …”
+Preserved – “I show you how you
+can make sure YOUR money isn’t
+frozen and your invested wealth is
+PRESERVED as these events
+unfold …”
+Prestigious – “His name and insights
+are continuously mentioned in some
+of the most prestigious publications
+in the world.”
+Privacy – “Your copy will be shipped
+quickly in a discrete unmarked carton
+for maximum privacy.”
+Private – “This remarkably private
+investment is easy!”
+Pro – “Ever wish you could hire a
+pro to show you the ropes? Now you
+can!”
+Protecting – “Thanks for protecting
+us! Most of our friends have lost their
+money.”
+Protection – “My Total Protection
+Package gives you everything you’ll
+ever need to grow your wealth safely
+and without risk …”
+Rated #1 – “Rated #1 Top
+Performing Investment Newsletter
+for the Period of March 2002 to Feb
+2003!”
+Rave reviews – “Rave Reviews for
+Advanced Artery Solution!”
+Real-life – “72 Real-Life Health
+Miracles from the People who
+LIVED Them!”
+Refund – “If for any reason you are
+not satisfied with … you can get a
+FULL REFUND.”
+Reliable figures – “The most
+reliable figures show that vegetarians
+die younger …”
+Reliably – “You could have kept your
+serious money safe in conservative
+investments that reliably DOUBLED
+www.getwsodo.com	www.getwsodo.com
+
+-- 52 of 60 --
+
+
+YOUR WEALTH every six years …”
+Remarkable reputation – “I’ll
+tell you more about Dr. Oakes
+in a moment, but first let me tell
+you a true story that dramatically
+demonstrates how she built her
+remarkable reputation.”
+Research – “I want to tempt you
+with 10 – yes 10 – FREE investment
+research reports plus a GIVEAWAY
+discount on the #1 investment
+advisory in America.”
+Respected – “One of the nation’s
+most respected business magazines
+writes: Those who followed
+Dr. Weiss’ advice would have
+sidestepped the bursting of the equity
+bubble …”
+Respect your privacy – “We respect
+your privacy. We never share any of
+your information with anyone …”
+Resounding – “Now that clinical
+trials have proved him resoundingly
+right …”
+Rescue – “I created my Rescue
+Retirement Library to help you
+weather this storm with your wealth
+intact.”
+Right timing – “With the right
+timing, an investor buying the right
+put options on Enron could have
+made up to 20 times more than
+investors who merely shorted the
+stock …”
+Safe – “Safe Money Report – the
+Uneasy Investor.”
+Safe alternative – “… a safe
+alternative to an aspirin a day.”
+Safely – “Together, we will keep your
+wealth SAFELY growing.”
+Safest – “The safest country in the
+world …”
+Safety – “Yes. I’m a stickler for
+safety. My serious money is in
+savings vehicles.”
+Safety in numbers – “Partly, it’s an
+issue of the fact that there’s safety in
+numbers.”
+Scrutinized – “There are helpful
+charts and three of America’s most
+carefully scrutinized and influential
+investment columns.”
+Secure – “We’re safe and secure, the
+Weiss way!”
+Shield – “Nature’s remarkable
+“shield” for your eyes …”
+Slash and eliminate risk – “I will
+help you slash and eliminate risk
+now.”
+Solid – “My money is in solid
+investments with real, intrinsic
+value.”
+Sound – “But in the SAFE MONEY
+REPORT, you get sound, conflict-of-
+interest-free money-making insights
+and advice you can hang your hat
+on!”
+Spot on – “Of course, my analysis
+was spot on — AGAIN. And millions
+of unsuspecting investors got fleeced
+— AGAIN.”
+Staying the Course – “By focusing
+on 4 key organizational building
+blocks, making sweeping changes,
+and staying the course …”
+Stop worrying – “Stop worrying
+about incredibly frightening cancer
+myths – right now!”
+Survival – “Emotional survival:
+How to avoid feeling horrible …”
+Take control – “Or you can TAKE
+CONTROL of your investments
+– and get the guidance and advice
+that keeps your money safe and
+introduces you to investments that are
+already soaring 99% …”
+Take the guesswork out – “ … when
+you can take the guesswork out of
+stock selection …”
+Trust – “You can trust these ratings.
+I never accept a dime from companies
+I rate.”
+Trustworthiness – “For expertise,
+lucidity, thoroughness, and
+trustworthiness, you can’t beat the
+Dolans!”
+Ultra-low-risk – “I introduce you
+to the ultra-low-risk vehicles and
+strategies that can give you ultimate
+peace of mind …”
+Unambiguous – “Unambiguous
+signals for every Real Wealth
+investment …”
+Unconditional – “Unconditional
+Money-Back Guarantee”
+Unhedged – “America’s #1 daily
+investment journal often turns to Dr.
+Weiss for clear, unhedged analysis
+of the day’s economic and investment
+events.”
+Will cost you nothing – “If I don’t
+make you money, the full year of Safe
+Money Report will cost you nothing”
+Without further obligation – “I
+want you to keep everything you’ve
+received from me without cost or
+further obligation.”
+Without losing sleep – “Lock in
+your richer retirement without losing
+sleep at night!”
+Without risking a penny – “You
+can learn this astonishing secret …
+without risking a penny.”
+X-ray vision – “Having access to
+these exclusive secrets is kind of like
+having X-ray vision.”
+Year after year – “Year after year,
+these nutrients have worked for pain-
+ridden joint sufferers — giving them
+the freedom and mobility they’d
+always dreamed of!”
+Zero-risk – “This guidance is yours
+FREE with your zero-risk trial
+subscription to Emerging Growth, the
+#1-rated investment advisory for the
+last 20 years.”
+Chapter 16: How to Make Your Prospect Feel Safe and Secure (Security)
+www.getwsodo.com	www.getwsodo.com
+
+-- 53 of 60 --
+
+ 	Emotional Trigger Words
+Make your product the happy antidote.
+Done properly, this works like absolute
+gangbusters!
+Shame
+Abuse – “Children living on the
+streets – the majority of whom are
+running from sexual, physical, and
+emotional abuse.”
+Accusations – “And Cendant has
+been slammed with accusations that
+it overstated its earnings by a mind-
+blowing $100 million.”
+Ashamed – “I felt ashamed leaving
+his office — almost like I’d been
+violated.”
+Background noise – “Others have
+to put up with the constant, nagging
+background noise of an unhappy
+stomach.”
+Bad press – “St. John’s Wort is
+suddenly getting bad press. Many are
+saying it does next to nothing …”
+Bad rap – “But that doesn’t mean
+they deserve the bad rap they’ve
+been given.”
+Bail you out – “WARNING: If you
+think the FDIC will bail you out
+when your bank fails, think again!”
+Biggest losers – “… plus the biggest
+losers in the new digital age.”
+Blah sex life – “BLAH SEX LIFE?
+This secret can even double your sex
+appeal!”
+Blunders – “… PLUS, how avoiding
+these common blunders could make
+you richer than Midas in 2004-2005.”
+Broke – “No wonder huge companies
+are going broke left and right!”
+Broken – “Depositors – most of
+whom never dreamed they’d be
+broken by a bank panic – lost
+MILLIONS!”
+Cardinal sins – “The two ‘cardinal
+sins’ that sentence you to lower profits
+than you deserve – and could cost you
+everything in the next 12 months.”
+Castration – “Men are not only
+One of the World’s
+Most Underrated
+Motivators …
+Shame is one of the lowest emotions
+human beings can experience. Very
+little in life feels as unpleasant as the
+experience of shame — and this makes
+it something most people try to avoid at
+all costs.
+But this also makes shame extremely
+effective to use in your copy, because
+your prospect has such a powerful
+incentive and tendency to move away
+from it. If you can tap into the shame he
+feels (or has felt), and then offer him a
+way out — you’ve got massive potential
+for a winner on your hands.
+You’ll find shame quite often in
+the health market. So many patients
+have felt humiliated and shamed with
+the problems they’ve experienced
+… men with the lack of potency or
+women with embarrassing symptoms of
+menopause … and so much more. This
+shame is often magnified by the lack
+of compassion and empathy that the
+medical establishment displays for these
+conditions.
+Here’s an example:
+Blindly following a
+mainstream doctor’s
+orders cost me a
+fortune … mutilated
+my body … and nearly
+killed me.
+When I became a
+physician, I trusted
+my doctors even more
+and continued to take
+my drugs without
+hesitation.
+But I was not getting
+well. In fact, my bowel
+and intestinal problems
+got worse. So bad that
+doctors said my only
+cure was drastic colon
+surgery that left me
+wearing a diaper at
+night — and I was only
+33 years old!
+It was only later
+on in my life that
+17 I discovered that
+thousands of other
+patients who had
+suffered from the same
+digestive disease
+had found a better
+way: They had cured
+themselves — using
+nothing more than a few
+simple dietary changes
+and a handful of all-
+natural supplements!
+I was blown away:
+the years of living
+with pain … pumping
+dangerous drugs in my
+body … and the life-
+altering colon surgery
+that put me in a diaper
+at the age of 33 were
+completely unnecessary.
+The emotional pattern in this
+example is very indicative of what
+you see (and can create yourself!) in
+promotions of your own. You present
+a shameful, humiliating experience
+with which your prospect can identify
+— and then you provide the solution
+that worked to relieve this shame and
+help him attain the health he’s always
+dreamed of!
+This also works in other markets.
+The feeling is such a strong attention
+grabber that copywriters like John
+Carlton have successfully used words
+like “humiliate” with unbelievable
+success in the golf market, of all places.
+Everyone wants to know how a fat,
+out-of-shape, old golfer consistently
+humiliates stronger, fitter, younger
+opponents.
+As you study your prospect, look for
+places or situations where your prospect
+may feel ashamed or embarrassed.
+Maybe it’s the fact that his kid is failing
+his math class … or that his business
+might go under and his family will lose
+their house … or his stocks will crater
+and the retirement he planned would be
+destroyed. You get the point.
+Once you find the right situation use
+these words to trigger this feeling and
+then position your product or service as
+a way to release this miserable feeling.
+Shame
+www.getwsodo.com	www.getwsodo.com
+
+-- 54 of 60 --
+
+
+getting feminized, we’re being
+subjected to a slow and potentially
+deadly chemical castration.”
+Degraded – “The street takes away
+their pride. They feel ashamed,
+manipulated, and degraded.”
+Default – “Mark my words: When
+corporations start defaulting en
+masse …”
+Delinquent – “More Americans are
+delinquent on credit card payments
+than at any other time in U.S. history.”
+Desperate – Millions of families
+will dump nearly everything in a last,
+desperate attempt to get their hands
+on cash.”
+Embarrassingly – “Embarrassingly
+simple secret instantly unleashes the
+explosive power hidden in your tee
+shots …”
+Erectile Dysfunction – “If you
+suffer from erectile dysfunction, it’s
+most likely related to your level of
+testosterone.”
+Feminize – “The ‘feminizing’
+properties of these products is
+something most guys never consider.”
+Fired – “Alice felt so run-down
+every morning – she was about to get
+FIRED.”
+Gullible – “Scores of big brokers,
+hundreds of money managers and
+millions of gullible stock market
+sheep come to you, hat in hand,
+BEGGING you to sell your stocks to
+them.”
+Hall of Shame – “Are YOUR stocks
+in this corporate Hall of Shame?”
+Hangover of the century – “America
+will wake up in the morning from
+the hangover of the century. And it
+won’t be from the champagne.”
+Huge embarrassment – “So it’s a
+very convenient dumping ground for
+bad numbers that might otherwise be
+a huge embarrassment to a lot of
+people …”
+Humiliation – “ … the humiliation
+of “dowager’s hump,” or the constant
+fear of falling that haunts every older
+woman …”
+Indignities – “Don’t let your loved
+ones suffer these painful indignities
+one more day.”
+Inhumane – “But perhaps you are
+wondering why all this inhumane
+brutality is still going on, because,
+after all, Congress passed the Marine
+Mammal Protection Act in 1972.”
+Lab rat – “You’re not a lab rat for
+health fads or politically correct flag
+wavers.”
+Laggards – “We will scientifically
+pre-identify the laggards and then
+dump them.”
+Lawsuits – “Everything is about to
+be exposed: And this includes updates
+on corrupt broker practices and
+arbitration lawsuits.”
+Losers – “Prune losers from your
+portfolio before they hurt you.”
+Lose your job – “If this keeps up, you
+can lose your job …”
+Mistake – “Are you and your doctor
+making these mistakes with your
+multivitamin?”
+Mortality figures – “And I am
+personally horrified to hear such
+phrases being used as ‘body count,’
+‘kill quota,’ and ‘mortality figures.’”
+No Clue – “And no one on Wall
+Street even has a clue.”
+Pathetic – “I’ve never seen so many
+US corporations in anything like the
+pitiful, pathetic, dangerous shape
+they’re in right now.”
+Pointing the finger – “I’m not
+pointing the finger at you. I’m
+saying that the problem is very, very
+common.”
+Poking and prodding – “Yet it’s
+invisible to all those machines they’ve
+been poking and prodding you
+with.”
+Potency problems – “The fact is, in
+most men and women, sexual potency
+problems are psychological in nature
+and can be treated with education or
+therapy.”
+Problem – “No-problem bowel
+movements, even if you’re traveling.”
+Resignations – “This is the highest
+level of forced resignations we have
+seen!”
+Rotten apple – “The ‘rotten apple’
+stocks that had a Weiss Investment
+Rating of ‘E’ were five times more
+likely to decline in value than the
+average stock awarded my best
+rating …”
+Ruined financially – “He left her
+for a younger woman, and in a
+contentious divorce, ruined her
+financially.”
+Sentenced – “And take back your life
+at any age – even if doctors sentenced
+you to life in a walker.”
+Shakiest – “25 ‘household name’
+corporations with the shakiest balance
+sheets and most vulnerable stocks.”
+Shame – “Shame on you, USDA!
+Bureaucrats cave in to food lobbies
+– AGAIN!”
+Shenanigans – “And the fund has
+never been involved in any trading
+shenanigans!”
+Stuck holding the bag – “And as
+both consumers and companies fail,
+who do you think is going to get
+stuck holding the bag?”
+Struggling – “It wasn’t long ago
+that I was struggling to earn a living
+… jumping from one job I hated to
+another I hated more …”
+Stumbles – “Pathetic research geek
+accidentally stumbles upon secret that
+can make you millions!”
+Turn you into a woman – “Modern
+politically correct medicine is trying
+to turn you into a woman!”
+Chapter 17: One of the World’s Most Underrated Motivators (Shame)
+www.getwsodo.com	www.getwsodo.com
+
+-- 55 of 60 --
+
+6 	Emotional Trigger Words
+The Unparalleled
+Power of Surprise!
+If you ever run an Internet search
+on emotions, you’ll see that surprise is
+often considered one of the prime human
+emotions. It’s natural for us to have our
+attention grabbed and captivated by
+anything surprising. This is what makes
+this emotion so powerful in sales copy.
+Since such a big part of direct
+response success hinges upon grabbing
+your prospect’s attention — your ability
+to surprise your prospect is often worth
+its weight in gold.
+That’s what makes these words so
+valuable!
+Here’s an example:
+Amazing Discovery in
+Holy Land
+Brings Artery Victims
+Back to Life
+INSIDE: Let medicine’s
+most acclaimed cure-
+hunter show you the
+shockingly covered-up
+truth about:
+• Pain-Free Forever — In
+5 Hours.
+Predicted on “Star Trek”
+and now it’s for real!
+Joints, backs, even
+damaged hearts healed at
+warp speed … page 16
+• Nobel Prize winner’s
+“Hail Mary Cure”
+compliments any
+conventional cancer
+treatment and beats them
+all — then gets hushed
+up!
+• The overnight obesity
+cure that giant food
+firms are covering up …
+page 6.
+So many of the most successful
+headlines in this industry have tapped
+into this feeling and that’s where you’ll
+get the most benefit from these words.
+But carefully inserted moments of
+surprise are valuable throughout your
+entire promotion. It’s a great way to
+continually maximize your prospect’s
+bowled over that he’s driving,
+helping her cook and clean and even
+doing the grocery shopping!”
+Breeze – “Meals so simple to prepare,
+clean-up’s a breeze.”
+Cinderella – “To balance the budget,
+a Cinderella provision magically
+brings the full tax back to life on
+January 1, 2011.”
+Dazzle – “Dazzle them with Smoked
+Turkey Carbonara!”
+Discover – “Surprisingly, I
+discovered the secret to great
+digestion in Japan”
+Discreetly – The readers of this
+discreetly (one is almost tempted
+to say reluctantly) publicized
+newsweekly include presidents (of
+countries, banks, universities and
+Fortune 500 companies) …”
+Dropped away suddenly – “My
+fatigue dropped away so suddenly, I
+felt like I had shucked off a 50 pound
+backpack”
+Eye-opening – “Time magazine turns
+to Martin Weiss for insights and eye-
+opening independent research on
+the legal mess surrounding medical
+malpractice insurance.”
+Great stuff – “This is great stuff! It’s
+the only thing that helped!”
+Hidden – “Embarrassingly simple
+secret instantly unleashes the
+explosive power hidden in your tee
+shots …”
+Little-known – “Why some patients
+are given favored status in hospitals
+… almost preferred treatment. This
+little-known information could save
+your life.”
+Jaw-dropping – “The source of their
+jaw-dropping power is invisible to
+anyone watching them.”
+Just a few hours – “Many feel
+the first effects in JUST A FEW
+HOURS …”
+Mind-blowing – “I’m talking
+about mind-blowing, awe-inspiring
+changes that makes the seemingly
+impossible – possible!”
+18 attention and interest. Do this effectively
+and you’ll keep him reading all the way
+to the order form.
+Remember, one of the biggest
+frustrations people face on a daily basis
+is boredom. We work the same job, eat
+the same food, drive the same car, have
+the same conversations — and we’re
+absolutely bored to tears.
+That’s the BAD news.
+But the good news is that the
+feeling of surprise is — in many ways
+— the perfect antidote to boredom.
+Surprise makes life fun and interesting.
+Even if only for a split moment. And
+if you can surprise your prospect with
+an eye-opening headline and then
+keep surprising him with the amazing
+benefits, iron-clad proof and all the
+exciting possibilities that await him
+— you’re on your way to creating a river
+of gold for yourself and your clients.
+These words will get you started on
+mastering the art of surprise, a priceless
+skill for marketers in any industry.
+Surprise
+,000 Year-Old Secret – “The ,000
+Year-Old Secret to healthy eyes …”
+All over the world – “At last, one
+convenient supplement that combines
+healthy vision breakthroughs from
+ALL Over the World!”
+Amazingly – “… even more
+amazingly, she attracted – you
+guessed it – $8 million.”
+Astonishing – “Astonishing vision
+breakthroughs from around the
+world”
+Baffles – “An ancient herbal blend
+that baffles the medical experts!”
+Believe it or not – “BELIEVE IT
+OR NOT, Ted and Barbara attest this
+can even improve your vision.”
+Blind spot – “Vision Nutrient Blind
+Spot!”
+Blown away – “Where’s this doctor
+been all my life? I am blown away!
+It works!”
+Bowled over – “And his wife is
+Surprise
+www.getwsodo.com	www.getwsodo.com
+
+-- 56 of 60 --
+
+7
+Mind-boggling – “World’s most
+mind-boggling benefits for
+pensioners …”
+Miraculous – “Miraculous estate-
+planning tool provides generous
+income for you, and all your loved
+ones …”
+Mystery solved – “BACK PAIN
+MYSTERY SOLVED and beat by a
+simple lactose pill!”
+Never dream – “They’ll never
+dream it’s GOOD for them!
+Phenomenon – “This is a
+truly interrelated phenomenon
+– something that is operating at a
+level far beyond human logic and
+reasoning.”
+Preposterous – “Preposterous, yes,
+but please give me 10 minutes of your
+day and I’ll explain how you could
+walk away a lot richer.”
+Rewriting all the books – “It’s
+rewriting all the books about
+Cortisone and Arthritis.”
+Secret – “Alarmingly powerful secret
+instantly boosts your response by
+300% or MORE …”
+Sensation – “15 Minute Taste
+Sensation”
+Sensational – “My sensational new
+book will give you an automatic,
+effortless, computer-like memory in
+as little as a week!”
+Sharper – “The text looked sharper,
+almost like I had gotten new glasses.”
+Shocker – “Your BORN AGAIN
+heart shocker: Every cell in your
+heart is replaced every 30 days.”
+Shocking – “This is truly shocking
+news for anybody that’s been taking
+Glucosamine …”
+Sneak preview – “Plus, I’m
+convinced that’s just a sneak preview
+of the profits that lie ahead.”
+Staggering – “Staggering, 453%
+gains were realized in only 5 weeks!”
+Startling – “Full details about
+this startlingly easy breakthrough
+and how to use it may be found in
+Dr. Williams new LIFESAVING
+LIBRARY OF ALTERNATIVES …”
+Stunned – “Ted’s a doctor himself,
+but even he was stunned by what
+happened to his vision …”
+Stunning – “Stunning research about
+a nutrient your eyes desperately need
+…”
+Surprising – “(And other surprising
+secrets you’re not supposed to
+know.)”
+Surprising link – “The surprising
+link between blood sugar levels,
+sleep, and energy …”
+Thrill – “… But imagine his thrill
+when his eyesight suddenly got
+sharper and clearer.”
+Transformations – “While Isabelle’s
+case IS extreme, witnessing
+astonishing transformations isn’t
+unusual for Dr. Oakes.”
+Turning point – “Are you ready to
+powerfully transform your life? If
+so, this letter will be your turning
+point …”
+Unbelievable – “And the best part is,
+this unbelievable new breakthrough
+will cost you nothing.”
+Under the radar – “We scour
+our worldwide network of insider
+contacts looking for under-the-radar
+investment opportunities …”
+Unexpected benefits – “Unexpected
+benefits of smooth digestion wait just
+around the corner …”
+Unexpected turn of events – “…
+whether you need long-term care
+years from now, or an unexpected
+turn of events puts you out of control
+tomorrow.”
+Utterly fascinating – “Become not
+just smarter but, utterly fascinating
+to everyone you meet …”
+Wonder – “The Chinese WONDER
+for sharp vision!”
+Chapter 18: The Unparalleled Power of Surprise! (Surprise)
+www.getwsodo.com	www.getwsodo.com
+
+-- 57 of 60 --
+
+8 	Emotional Trigger Words
+investors won’t make a
+cent on it, and they
+will actually lose
+big-time …
+But if you act now,
+you’ll likely be able
+to afford not to work
+to supplement your
+retirement, to endure
+the inevitable real
+estate roller-coaster,
+to ride out the
+dollar’s demise, to
+buy all the $5-dollar-
+a-gallon gas you want
+— and maybe even to
+buy a Benz (or two) to
+burn it in.
+Another thing to realize about
+these words is that you can use them to
+get your prospect ready for the close.
+This is what Clayton so often does.
+At the end of each sidebar, while he’s
+selling the FREE premium, he’ll start
+to communicate the urgency of taking
+action with lines like, “Send for your
+FREE copy of WEISS CORPORATE
+EARNINGS BLACKLIST TODAY!”
+Used at the right moments in
+your body copy (other than the close),
+creating the feeling of urgency is one
+of the most powerful things you can
+do.
+Why?
+Because legitimate urgency
+communicates importance! Think
+of your daily life: When you meet
+somebody who moves with urgency
+— you get the distinct impression that
+they are doing something of value and
+high importance. On the other hand,
+somebody who moves very slowly
+appears to be unimportant. They’ve
+got nothing special to do and their
+time isn’t all that valuable.
+So go through the swipe file we
+provided — as well as your own —
+and see where the writers use words of
+urgency. You’ll often find them used in
+the lead, at certain places in sidebars
+and body copy, and then liberally in
+the close.
+Don’t Dilly Dally …
+Time’s a Wastin’!
+Urgency is not something you’d
+typically think of as an emotion. But
+there’s a distinct feeling to it. I’ve
+included it here in this book because
+it’s a feeling you absolutely MUST
+know how to trigger for maximum
+response.
+Most of the words and sentences
+you’ll find in this chapter come from
+closing sections — because that’s
+where the feeling of urgency is most
+crucial. The goal of your close is to
+get your prospect to feel like NOW is
+the moment to act. If he delays even
+a moment, he risks losing out on the
+opportunity of a lifetime.
+Let’s look at an example:
+But as if this weren’t
+reason enough to sign
+up for Outstanding
+Investments, consider
+this: The single most
+significant event in
+commodities investment
+history — Petrocalypse
+— is coming. It’s
+inevitable. In fact, it
+has begun already, as
+I’ve just shown you …
+And if you aren’t
+among the lucky
+informed few who
+are making huge
+sums of money on
+it (like members
+of my Outstanding
+Investments advisory),
+you’ll be spending
+huge sums of money
+on its effects, I
+guarantee it.
+So sign up for
+Outstanding
+Investments today,
+before “Petrocalypse
+Now” is splashed all
+over the headlines and
+everybody’s scrambling
+to figure out a way to
+play it — or to simply
+avoid losing their
+shirts. Of course,
+the vast majority of
+“patriotic” American
+19 Urgency
+Act fast – “Be smart and act fast
+while THEY’RE FREE! Mail card
+while supplies last! Hurry!”
+Act quickly – “What’s your body
+trying to tell you? Act quickly and
+use our most effective solutions.”
+Before you forget – “Don’t wait
+– fill out the enclosed RSVP form
+and mail it in before you forget.”
+Before it’s too late –
+“SOMEBODY has to tell you THE
+TRUTH about how much trouble
+America’s banks are really in
+before it’s too late!”
+Crucial – “It is absolutely
+CRUCIAL that you protect
+yourself now.”
+Deadline – “Here’s what I need
+to do to activate your membership
+before the deadline …”
+Decisively – “But there’s no time to
+dilly-dally. You’re going to have to
+move decisively.”
+Don’t delay – “Don’t delay, not
+even for a second.”
+Don’t dilly dally – “Remember,
+these stocks aren’t going to wait
+around for you. Don’t dilly dally
+– send for your FREE Beat-The-
+Street Portfolio right away!”
+Don’t hesitate – “So please don’t
+hesitate. Not even for a second”
+Don’t wait – “DON’T WAIT!
+E-mail delivery gets you the hottest
+investment tips 5 full days before
+everyone else.”
+Early Bird – “Your 3 free gifts
+are only offered for prompt “early
+bird” responses.”
+Emergency – “The dollar’s decline
+is a national emergency … this
+is also a personal emergency for
+you!”
+Fast – “FAST RESPONSE
+BONUS: Yours FREE for
+responding within 10 days!
+Fast-breaking – “Urgent analysis
+and recommendations, whenever
+Urgency
+www.getwsodo.com	www.getwsodo.com
+
+-- 58 of 60 --
+
+9
+fast-breaking events dictate.”
+Faster – “For faster service, dial
+toll-free … or fax this form …”
+Finish line first – “Are you poised
+to get to the finish line first?”
+First-come, first-served –
+“Membership will be granted on
+a first-come, first served basis
+ONLY.”
+Flash alerts – “You get an
+unlimited number of Flash Alerts
+by e-mail or first class mail
+– whichever you prefer.”
+Hot off the press – “ … My hot-
+off-the-press roadmap to safely
+growing the money you can’t afford
+to lose.”
+Hurry – “But you must hurry to be
+one of the lucky first 80 guys.”
+If we hear from you – “If we hear
+from you within the next 10
+days … “
+Instantly – “5 Easy things you can
+do today – to instantly feel better.”
+Jammed – “Now, if you’re
+jammed for time, a 10-minute scan
+will set you up for the day.”
+Join me now – “BEST VALUE
+– Join me now to get my complete
+portfolio plus five MORE potent
+money-making tools …”
+Let me hear from you – “Please
+– if your financial security means
+anything to you – let me hear from
+you right away!”
+Lightning-fast – “This lightning-
+fast response to the constantly
+changing investment landscape
+gives you the edge …’
+Limited – “Membership in
+ENERGY WINDFALL TRADER
+is strictly limited … so there’s no
+time to delay.”
+Live Profit Updates – “Privilege
+#2: Live Profit Updates by phone”
+Mail Now – “Hurry! Mail free gift
+claim card Now!”
+Must – “I MUST hear from you by
+close of business on Friday, 12/31.”
+Must have – “Here’s updated
+MUST HAVE guidance for the
+best medicines, the best medical
+tools, the best foods, and the best
+emotional survival steps!”
+Now – “I urge you: Send for your
+free copy of the Beat-The-Street
+Portfolio and your first edition of
+my UnDiscovered Stocks service
+NOW!”
+Priority – “Priority Action-Gram.”
+Prompt response – “Extra rewards
+for your prompt response”
+Quickly – “Powerful, but simple
+exercise that quickly triggers
+sleepiness …”
+Race – “The race is on … and
+today’s business climate is more
+competitive than ever.”
+Red-hot – “Yes. These energy
+stocks ARE red-hot!”
+Respond – “Respond TODAY and
+you’ll receive not two but THREE
+FREE GIFTS!”
+Right away – “If your financial
+security means anything to you – let
+me hear from you right away!”
+Rip – “So please … Rip open the
+sealed envelope now.”
+Rush – “Right off the bat, I’ll rush
+you a FREE copy of our proprietary
+communicator software.”
+Save time – “SAVE TIME! Call
+TOLL-FREE 1-800-236-0407 and
+receive these two valuable PHONE-
+IN bonuses – FREE!”
+Seize – “Seize the opportunity for
+windfall profits!”
+Sign up now – “Just sign up now,
+and if in 6 months, you do not make
+back your full subscription fee and
+much, much, more … you’ll get
+back a FULL, 100% REFUND.”
+Snap up – “Snap up undervalued
+market sectors that are just about to
+zoom.”
+Still time – “There is still time to
+protect what’s left … and replace
+any money that you’ve lost!”
+Strictly limited – “Once again!
+Membership in this Inner Circle is
+strictly limited and only the first
+hundred will be allowed
+entrance …”
+Today – “Send the reply card back
+today.”
+Tonight – “Why not send for your
+copy of Great Sex TONIGHT?”
+Up-to-the-minute – “We’re the
+investment world’s No. 1 source for
+up-to-the-minute stock prices.”
+Urge you – “I urge you: Send for
+your free copy today!”
+Urgent alert – “As you’re about to
+see in this Urgent Alert, your very
+lifestyle is in danger unless you take
+action immediately.”
+Very first – “You’ll get results from
+the very first listening!”
+Watershed – “This is a watershed
+moment for the economy, for the
+stock and bond markets and most
+importantly, for you!”
+While it’s still fresh on your mind
+– “Go ahead – act now while it’s
+still fresh on your mind.”
+Within the next – “Respond within
+the next 10 days, and my publisher
+will reward you with a FREE copy
+of my VALUE INVESTING 101 – a
+$29 value – FREE!”
+Chapter 19: Don’t Dilly Dally … Time’s a Wastin’ (Urgency)
+www.getwsodo.com	www.getwsodo.com
+
+-- 59 of 60 --
+
+Copyright © 2008 Clayton Makepeace and The Proft Center - All Rights Reserved
+www.MakepeaceTotalPackage.com - 800-827-0940 (U.S.) or 828-456-9277 (Int’l)
+www.getwsodo.com	www.getwsodo.com
+
+-- 60 of 60 --
+

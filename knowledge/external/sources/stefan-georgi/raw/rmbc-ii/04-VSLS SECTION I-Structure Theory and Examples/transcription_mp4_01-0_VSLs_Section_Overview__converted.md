@@ -1,0 +1,16 @@
+# Transcrição: 01-0 VSLs Section Overview._converted
+
+- **Fonte:** 01-0 VSLs Section Overview._converted
+- **Duração:** 03:33
+- **Idioma:** en
+- **Modelo:** small
+
+---
+
+## [00:00 - 03:00]
+
+All right, so welcome to part four, which is going to be on VSLs. I would call this section one, so to speak, because it is... Well, not because there's two sections. This section is kind of like an intermezzo, but I decided it was important to put this here. Okay? We have RMBC, research mechanism brief copy. The brief section after this is phenomenal. It's super, super, super powerful. It's going to show you how to create a brief that you can use, put into LLMs and cloud projects, and pump out endless copy. That's what the section two of the VSLs training, which is part six. Sorry, I was not confusing. You'll see in the course, it won't be in the Google Drive. We'll have a course layout when you're in there. Part six is like, you're taking your brief, you've got all the data you need, you're pumping out VSLs. Okay? A lot of things are going to come together in the next section. The reason I'm doing this part on copy after RMBC is because as you go to create these new briefs that you're going to see in the next section, I think it's helpful to have the end in mind, to understand the structure of long, short, medium form VSLs, some stuff about hooks. That understanding, I think, is going to help you contextually when you do the brief, and then when you go to generate copy in part six. Part four is this section, part five is briefs, then part six. If you are like a super knowledgeable VSL person and you know a ton about VSLs, there's still value in the examples and breakdowns of long, medium, and short VSLs. I may reference them later in the course. You may wish to spend some time on them, but it's not essential that you go through this. There's still value to be had here, for sure, but it's less essential than if you are really newer. If you're newer, you should really watch this training, which is me going through the breakdown of different sections of VSLs, part by part. It's stuff I didn't see a pro. I did include it in some VS bundles, some of the core trainings, but then I have specific actual VSL breakdowns for medium, short, and long form VSLs. Those are valuable, especially in the medium. I really would watch the medium length ones, or at least one of those, maybe the Neuro one. There's only two, I think it's Neuro and Miami MD. I would watch both, honestly. Short ones, same thing, I think. Then you go on to briefs and parts about actually just pumping out tons of copy. That's the intro. Enjoy.
+
+## [03:00 - 03:33]
+
+Then for those of you who are going to watch the whole thing, you'll see it step by step. It goes from an overview, the structure of VSLs, leads, each part. You'll watch that. Then you'll look at specific examples for long form, for medium length, for short form. There's a few other things, again, on hooks and ADHD ads, as I call them, but it's basically generating tons of hooks that I put in this section. So that does give you a quad project in this section, but it's really about understanding hooks better. And then from there, go into the brief and the copy. All right, thank you.

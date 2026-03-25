@@ -1,0 +1,75 @@
+# Extração: 01-1. Unique Mechanism Overview
+
+- **Fonte:** 01-1. Unique Mechanism Overview.docx
+- **Tipo:** DOCX
+
+---
+
+# Extração: 01-1. Unique Mechanism Overview
+
+- **Fonte:** 01-1. Unique Mechanism Overview.docx
+- **Tipo:** DOCX
+- **Tamanho:** 7.3 KB
+
+---
+
+Unique Mechanisms
+
+
+
+In a Nutshell: 
+
+The unique mechanism explains why our prospect is struggling or suffering to achieve a goal…
+
+
+
+And how they can overcome that problem. 
+
+
+
+At its core, the unique mechanism is always a two-part logical connection.
+
+
+
+The Reason It’s Important: 
+
+Typically by the time our prospect comes to us, they’ve tried numerous solutions to their problem already. In the past, these other solutions may have not worked at all, worked partially, or worked fully for a period of time (before they stopped working). 
+
+
+
+Our job as a copywriter is to educate our prospect about the REAL reason why past solutions didn’t bring them permanent results. We do this by explaining that their knowledge about the problem is incomplete. They’ve been missing ONE CRUCIAL PIECE OF INFORMATION, and this “knowledge gap” is what’s been holding them back. 
+
+
+
+ 
+
+There are two parts to the unique mechanism:
+
+
+
+1. Unique Mechanism Behind the Problem (UMP) our Prospect Faces.
+
+
+
+2. Unique Mechanism Behind the Solution (UMS) to that Problem. 
+
+
+
+It’s important to identify the unique mechanism behind both the problem AND the solution. 
+
+
+
+By showing the unique mechanism behind the problem, you get the prospect to understand why they’ve failed in the past. 
+
+
+
+By showing the unique mechanism behind the solution, you get the prospect to believe that our product will bring them success where other alternatives have failed. 
+
+
+
+
+
+
+
+
+

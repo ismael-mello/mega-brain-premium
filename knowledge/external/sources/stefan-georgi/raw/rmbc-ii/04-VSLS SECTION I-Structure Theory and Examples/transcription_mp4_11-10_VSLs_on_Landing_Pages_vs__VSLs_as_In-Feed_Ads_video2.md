@@ -1,0 +1,12 @@
+# Transcrição: 11-10 VSLs on Landing Pages vs. VSLs as In-Feed Ads video2
+
+- **Fonte:** 11-10 VSLs on Landing Pages vs. VSLs as In-Feed Ads video2
+- **Duração:** 02:04
+- **Idioma:** en
+- **Modelo:** small
+
+---
+
+## [00:00 - 02:04]
+
+I actually want to make one more point in this module. Um, it'd be fast, but this is the same reason why so many people and it's super annoying. I don't know if it's annoying. I'm not trying to be like a dick. Sorry. But it does get me frustrated. They see what golden hippo does, like Dr. Gundry and infeed VSLs. And then they want to do a VSL that is on page, like, you know, in their funnel. And they go, well, Dr. Gundry is crushing it. So I want to do a VSL like that. And I've had this happen when I've like been a freelance copywriter. I see other brands and people trying to do it. And then they go to do it and it like never works for them. Right. And I brought this up in the past and emails and things where I've ran it about it a little bit. Part of the reason why is because of the economics for Gundry and like their whole call center. They're a huge company. They're really dialed in. You're probably not as dialed in as they are. But another huge part of it is that educational component. So someone takes that educational component from their infeed stuff and goes, wow, I'm going to run that on my on page. But they don't realize that where the psychologically prospect is that is a different journey. And they're not taking this journey into account. And it's one of the reasons why so many people go to swipe Gundry MD or other brands that they see running infeed VSLs that are especially long. And they go, like, you know, oh, wow, I'm going to put I'm going to do that same thing. And it never works for them. But like this, it's like, I can't tell you how many times I've seen big people waste big brands people have lost the money, waste $50,000, $100,000, $150,000 for this exact reason. And so while this doesn't apply, everyone should apply to you. And the same thing for the copywriters who watch this, who go, oh my gosh, like, you know, I'll just swipe Dr. Gundry for this client. They want to say like, Gundry is on beat. Hey, you know, avocados for health. No, wrong. It's like, that's why it doesn't work when you go to do it and then you bomb for your client and don't get hired again. So I just wanted to add that point because it's actually quite important. So important. Okay, thanks.

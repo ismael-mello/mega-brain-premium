@@ -1,0 +1,12 @@
+# Transcrição: 01-1 Long Form VSL video7
+
+- **Fonte:** 01-1 Long Form VSL video7
+- **Duração:** 02:25
+- **Idioma:** en
+- **Modelo:** small
+
+---
+
+## [00:00 - 02:25]
+
+All right, so this is gonna be a really fast one on the VSL side because you already saw how we created this when I was doing the brief. So if you didn't watch that part, watch the brief part before and go check out. One of the actual only things I want to bring up to you that I think is really funny, let's look at the word count real quick here. I shared this with a friend, he was a former O'Gore financial copywriter, and he was like, you know, it's pretty cool, but it was made up by idea. Part of us is the research and if there's actually validity to it, I think one did research and he's like, oh shit, it turns out there actually is a bunch of research about these genetic editing patents and companies that have secured them. All of that, so it's crazy. It's like, Jim and I just had that part down and already. So it's pretty funny, but I'm not enough of like a financial VSL copywriter. Like as far as I can tell, it's pretty good. I shared it with a friend who said was an O'Gore copywriter. He thought it was pretty good. Of course, it's a pretty direct swipe of the Secret Trust Fund offer. But, sorry, my dog, he needs a shower. He's not supposed to be terrible. I also love him. Oh, he really smells bad. Yeah, so I mean, honestly, like you can go through this and check it out. I mean, you've seen the process, so the brief was created. You know, obviously you could use the ideation stuff like similar to what we did. The Gemini thing I shared with you, but also obviously the other side to it too. Like the other side to it too. What does that mean? You can do the Gemini stuff, but also you could use the mechanism and the market research and all that. And honestly, this is one word for financial especially if you scour through with Gemini and these processes. I bet you find some really interesting stuff. There's probably some customized things you could use for financial. I just think it's hilarious that this is a pretty good promo from what I can tell. And Gemini basically came up with the idea of the claw just right. So I think it's pretty funny. But I'm actually focused mostly on short formats. So if you have a script like this looking good, how do you sell the click? So I'll show you that in the short form. Let's skip the medium of the 37 length and we go to short form for this one. You go to check it out. All right, thanks.

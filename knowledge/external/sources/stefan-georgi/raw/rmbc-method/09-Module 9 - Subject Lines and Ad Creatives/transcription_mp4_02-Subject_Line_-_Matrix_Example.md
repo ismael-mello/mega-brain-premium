@@ -1,0 +1,48 @@
+# Transcrição: 02-Subject Line - Matrix Example
+
+- **Fonte:** 02-Subject Line - Matrix Example
+- **Duração:** 29:55
+- **Idioma:** en
+- **Modelo:** small
+
+---
+
+## [00:00 - 03:13]
+
+Alright, so, um, let's do an example here. This one's gonna be for that bizop letter. So if I'm looking at it for promise, problems, new cause... Oh, because I did a dupe of this one. I'm like, why is that not showing right? Sorry, let me just do a wrap text here. Well, that's annoying. Clearly that's not... Ugh, very annoying. Alright, let's forget that then, and we'll do it here, where the wrap text works for some reason. Who knows why that is? Alright, problem dimensionalized, new cause discovered, new mechanism, one on remedy is wrong or bad, one on problems taboo, or one on problem or taboo is the way to solution, down in motion, all of that. So, um, problemless right here I'm looking at quitting their jobs and doubling or tripling their annual income. So I'd go like, I'd actually put that into two. Quitting your job, doubling or tripling your annual income. An unfair but completely legal business trick. Probably here. An unfair but completely legal business trick. And honestly, we could copy and paste these, which I might do. First developed by a brilliant professor at Harvard Business School. So, developed by... So, let me save time for everybody, right? And then people, brilliant professor at Harvard Business School. Golden cufflink wearing students, I do that. Um... I mean, I don't see there's a resentment of like the 1% here, talking about the leads, like resentment. We begin using the Tameeli make $2,000, $5,000, $10,000 or more in extra income each month for the rest of your life.
+
+## [03:13 - 06:15]
+
+So not really that the well-known remedy is bad, but like you don't need to... Maybe I put this as a promise too, actually. So... Let's make this a little bit less ugly. Cool. It's actually going to freeze this too. That way life is easier for us. So... Perfect. Wait, isn't... Okay, perfect. I'm going to pull myself over here for now. Okay, so... Five hours a week, internet connection, no, I just send an email. I don't have any more stuff here, probably. But also, I think we could probably go over to targeted... People, I guess Alvin Harris, right? So... Justin Carr... I'm going to get a $14,954 from a... Another promise there, $3,000 more for income. People... Oops. What was the name? Garfcom? Yeah. I probably would actually make it to a more than 55 years old...
+
+## [06:19 - 09:21]
+
+Brownskeeper, Jacksonville, Florida. Um, problem... We won... Tire, but no chance of that happening. I'm worried about where the money will come for you to make an extra car payment. $9.95, felt like a screeching daily grind. Oh, that's funny, these were down a bit lower. Sorry, it's a little messy with Google Docs for me personally, but I want to do that. Okay, so where do we have this one here? Actually, I might break that up a little bit into different elements. You'll see why in a minute here. I don't know why these ones stopped being rap techs. It's a sigh of annoyed by this. And then why are they tying a font too? I don't know. This is a 10. Huh. Alright. Let's do more of these. Come home exhausted. Why is this going to the default mode now? I have no idea. Come home exhausted each day. I guess I went past the amount of sales, so... Come exhausted each day.
+
+## [09:21 - 12:21]
+
+I have a wife and child, detention is served. Family and everyone will travel anywhere too exotic. Copy and pasting. You're going to see why this all works. Just stick with me as I'm doing this. Actually, it's better if I don't copy and pasted, to be honest with you, and you'll see why. We always making sacrifices, skipping vacations to afford to send kids on school trips, not going out to a new restaurant so some can have baseball uniform. We're going back down in a motion. Sick of being broke. Tired of being broke. Run down. That was pretty good. Bye. Tired of getting the fights to fly. So story.
+
+## [12:21 - 15:21]
+
+So it could be people placing. Something about Marshalls. Closeout stores. Didn't have on Marshalls. Make that 321 because I'm going to be more specific. Another motion. Anger at wife. I'm going to take off this sweater thing. Wife sobbing. I'm going to have a motion feeling like a monster. Sorry for losing temper. I just want something nice for once is really good. Problem dimensionalize. Another motion I'm looking at is like snap to term end right. So looking at the new mechanism here right.
+
+## [15:21 - 18:31]
+
+I just put that here actually quick. Needed. Didn't require a college degree. No business experience. Bless me. Oh yeah. Kind of like pimply kids making money. Like you know pimply kids becoming millionaires. Yeah. Building an app or website too expensive. Plus too technical. Build a website. Let's see. Home based businesses. End up with spam. Work from home. Countless hours for very little pay each week. Arbitrage right. She's mentioned here. The new mechanism. Between full price. Close out stores.
+
+## [18:31 - 21:31]
+
+Billions of retailers looking to liquidate. Millions of liquidators. Looking for retailers. Real estate agent. In the middle. Commission. Let's see. Let's go to topical. Covid-19. Government stimulus. What's happening right now. Is it right this. Put. Two trillion. Massive unemployment. Massive layoffs. US shut down. Financial insecurity. Donald Trump. Joe Biden. Start with that stuff. Urgency. I feel like we're seeing like a limited number of middle men. Well known remedy. Wrong bad. We have those. I think those were everything down here. Excellently again. The reason I'm doing this in the Google sheet instead of in Excel is because the view functions just fits a little bit easier. However. You know I understand. It's a little bit. It's a little annoying for a format standpoint. I'm thinking back to people. Garth Conway. Marshall's cause I mean how I'm not mentioning his wife. Right. I mean all of that. We have already you know three thousand. Month. Not saying a fortune. Um. So yeah. Okay. Let's take a pause here. I think you kind of get what I'm doing right. So how does this actually help us.
+
+## [21:31 - 24:31]
+
+From a perspective of. You know. You know. Of. Right. So if one thing is you just pull phrases out right so. For example with something like this. I was going to write some subject lines or. Headlines. What are some things I would do. I mean quitting your job. Desperate when to retire. Basically we're going to match stuff like resigning the sick of being broke. Um. Tired of being broke. Run down. Screaming at wife. Um. Harvard Business School. Right. We've written professor just Harvard Business School in general. Unfair. Legal trick. Um. I'm not sure. I'm not sure. I'm not sure. I'm not sure. Um. So I mean you know you do like. Harvard Business School. Um. Um. Unfair. Unfair. Unfair. Unfair. Secret for tripling. Your income. Even if. You never went to high school. Or never finished. High school. So that's a little too long for a subject line. But you know it could be part of a headline. Um. Because the Harvard. Professor. Um. Unfair. Trick. For making. $3,000 per month. Right. Because we have $3,000 per month is one of the things. I can unemployment in the news. Maybe like. About unemployment. This at home. Uh. Uh. Uh. Uh. Uh. Uh. Uh. This. Harvard. Base. Um. Hmm. Hmm. Hmm. Hmm. Hmm. Start there. Um. Um. Um. Um. Um. Um. Um. Um. Most of these businesses are golf. And they're just like. Um. Um. Um.
+
+## [24:31 - 27:31]
+
+Um. Um. Um. Um. Um. Um. Um. Um. Um. At home. Income. Generating business. Idea. That's okay. And that's not great. But again, that's whatever. The point is we're just kind of testing stuff out. Um. Um. Um. Um. Um. Um. Um. Um. Overall options for. Kids uniforms. Open now, something like that. Um. Um. Sigma. Making sacrifices. Um, Um. Fun and pain. Pain the bills. How to escape the income trap. We're good. Something like that. I don't know. Um You guys was like how Alvin Harris I figured out how much we said he made but let's just make how Alvin Harris makes $7,200 per month from home. Could do something like that. Just our same thing, right? Like You can combine them like scared Um Worried you're about to be laid off. I cannot Off Here's oh my god laid Here's how Justin makes I'm making the numbers. I don't feel like going back At home Something like that I think you'd have to like Um That I mean this was all that good I'm gonna keep that on the way it is actually but then I could do a variant this like session So
+
+## [27:44 - 29:55]
+
+From home using nothing but his computer And gmail account That won't be good for a subject line, but like um that could be good for like a headline, right? Something like that Um 14945 people Again, maybe um The Harvard Business School trick that 14,954 high school dropouts Now using to Make an extra 36,000 dollars per year from from their own hubs So again, I mean work a headline Maybe you'd want to break that up to the point is so What I'm getting at here and hopefully you're seeing this now Is like do you understand how this helps you to generate ideas? Whether they're subject lines or headlines or whatever it is um Right, there's the 1% that's doing um How the 1% make money by Hacking The Middleman strategy that the 1% Use to make money as a sleep The point is like you just you just get so many ideas right from going through this and then it's really easy to from there Go ahead and like um Create a ton of subjects subject lines headlines all that kind of stuff um And then let me stop this video here and then we'll go on to like how to then turn this into like an emo creative
