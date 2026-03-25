@@ -1,0 +1,16 @@
+# Transcrição: 03 HOW TO CHECK IF THE PIXEL IS INSTALLED CORRECTLY
+
+- **Fonte:** 03 HOW TO CHECK IF THE PIXEL IS INSTALLED CORRECTLY
+- **Duração:** 03:21
+- **Idioma:** en
+- **Modelo:** small
+
+---
+
+## [00:00 - 03:00]
+
+Alright, so now I'm going to show you how to actually check to make sure the pixel was installed correctly. So remember you would have installed the base pixel either between the header tags of your website, which if you did that means that it will show up on every single page of your website so you don't need to go and install it on every page, you just install it between head tags and it will do that automatically. Before you use the tag manager so you followed the steps for Shopify, WooCommerce, Magento, all of those things. So once you've done the installation process, here's how to check that you actually installed the pixel correctly. So what you're going to do is go to pixel tool helper and you just do this in Google, make sure that you are in a Chrome browser. This is super, super important. You can only use this tool in a Chrome browser. And you'll see here Facebook pixel helper, you're going to click on this and you're going to, it's totally free, you're going to add this to your browser. So you're going to click install to browser, it takes literally a minute to do 30 seconds, no sign ups, nothing like that, totally free. And once you've added this in, you'll notice that this little gray icon will appear up here. So let's go and this is essentially your pixel tool helper and it will show you if there's any pixels on the website. So let's go to my website and I'll show you what that looks like. So we're going to go to cat howl and you can actually go and check out lots of websites. This is a great strategy for auditing clients and potential clients as well. So pitching to new clients, see if they have pixels or not. And you'll see here now it turns green, so it's got two. So you'll see if I click on this, it will go, yep, it's found this pixel and it's tracking page views. It's also tracking micro data, which is a new thing, right? And you can watch a video on that. This is also part of this training below. So this is how you actually see if the pixel was installed correctly. Now I'm going to take you through to a landing page that has a standard event to show you exactly how that shows up using the pixel tool helper. Okay, so this is a landing page, a confirmation page after people opt in for one of my funnels. And you'll see here again, the pixel tool helper is green. It's picked up on three different triggers. And if I click on this, you'll see it's got the pixel and then it's got complete registration. So it actually has the standard event complete registration, which is how I'm tracking people registering for this particular funnel. So that's essentially how to see if the pixel is installed correctly using the Facebook pixel helper.
+
+## [03:00 - 03:21]
+
+Now if you are using custom conversions, custom conversions are not going to show up in here. It's very important that you understand that. So only standard events are going to show up here. So watch the full training on tracking events, tracking and optimizing for events. And I go into a lot more detail around custom conversions and how to check if those are set up correctly.

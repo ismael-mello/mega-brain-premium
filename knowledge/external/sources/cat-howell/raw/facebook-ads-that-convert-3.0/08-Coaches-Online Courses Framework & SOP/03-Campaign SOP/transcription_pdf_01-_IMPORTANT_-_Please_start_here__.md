@@ -1,0 +1,43 @@
+# Extração: 01- IMPORTANT - Please start here! 
+
+- **Fonte:** 01- IMPORTANT - Please start here! .pdf
+- **Tipo:** PDF
+- **Páginas:** 0
+- **Tamanho:** 1 MB
+
+---
+
+© 2019 Digital Distillery 	Terms 	Privacy 	Support
+
+Search
+FATC / Categories / Campaign SOP / IMPORTANT - Please start here!
+Campaign SOP
+ 	IMPORTANT - Please start here!
+2 	How to Estimate Results
+3 	How to Add Client Folder to Drive
+4 	Privacy Policy & GDPR Compliance
+5 	How to Set Up Offline Events
+IMPORTANT - Please start here!
+Campaign SOP
+The Coaching Funnel agency SOP is a step by step procedural process
+to systemise these kinds of campaign builds to ensure nothing gets dropped - it's
+like a paint by number for FB ads!
+In this module you will see a whole list of how to's and videos, these all make up and
+are linked to from the main SOP (standard operating procedure) which is a Trello
+Board. You can duplicate this board into your Trello account and edit it for your own
+team or purposes.
+IMPORTANT: While accessing and going through the SOP - disregard the videos in
+this section - just use the main link (posted below).
+ACCESS SOP HERE: https://trello.com/b/Rx9QDlwf
+Mark As Complete
+Need Help?
+If at any stage along your FATC journey
+you feel like you need some help, reach
+out to one of the crew inside the
+Facebook group. Or sign up for one of
+the Q&A calls. We've got your back!
+Contact Support
+www.getwsodo.com	www.getwsodo.com
+
+-- 1 of 1 --
+

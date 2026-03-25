@@ -1,0 +1,12 @@
+# Transcrição: 01.2 USING SIMILAR WEB TO FIND PROSPECTS
+
+- **Fonte:** 01.2 USING SIMILAR WEB TO FIND PROSPECTS
+- **Duração:** 02:15
+- **Idioma:** en
+- **Modelo:** small
+
+---
+
+## [00:00 - 02:15]
+
+Hey guys, so this is the third method that we're gonna use to find people that we're gonna send our loom videos to so This one requires the website similar web and the other thing it requires is to find a prospect Or to find a brand that you'd really like to work with so this works really really well If you have a niche where there are larger brands or medium-sized businesses that you're able to find And you need to make sure that they have a fair amount of website traffic So if they don't have a fair amount of website traffic if it's a smaller brand if it's a single person Unless it's a large influencer. This is probably not gonna work and this probably won't work well with small businesses either This will work really well with e-commerce Some coaches as well and some other niches as well But this is specifically gonna work really well with e-commerce and some coaches So what you're gonna want to do is find the website or find the prospect or find the brand that you really resonate with and All you need to do is take that website URL here So I'm using movement watches as an example This is one of my top ten clients that I'd love to work with so you find this movement watches You go to similar web you just go to the very top search bar you enter that URL in and basically It's gonna spit out a whole ton of information With regards to their website so with their global rank their country rank all that You don't need to worry about this right out the gate what you're gonna want to do is scroll down to the very bottom and At the bottom it's gonna show competitors and similar sites So this is where you're able to find similar sites based on their ranking based on the amount of traffic that they're getting and you're able to Find those and use those in your prospecting as well. So here for movement It is fossil Joma shop. You're looking at Ashford comm vinch era watches Movado Timex etc etc. So these are some amazing tools that you can use to find Businesses that are very very similar to those dream clients or to just clients that you would like to have So this can be a really fantastic method Keep in mind that you do need a fair amount of website traffic to make this work properly

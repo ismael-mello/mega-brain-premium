@@ -1,0 +1,16 @@
+# Transcrição: 18-Audience Mapping for Coaching Funnels 
+
+- **Fonte:** 18-Audience Mapping for Coaching Funnels 
+- **Duração:** 03:42
+- **Idioma:** en
+- **Modelo:** small
+
+---
+
+## [00:00 - 03:01]
+
+Alright, so let's have a really quick look at some targeting in general for coaching funnels. And then what you'll notice below this video is I go into a specific audience mapping strategy and then below that there's all the specific, you know, how to build a lookalike, how to create a custom audience, all of these different audiences. So you have the basics below this video. As a general overview, what you're looking at in terms of sizes when you're working with this kind of industry is the bigger the better. And this is also what Facebook has come out and said. So, you know, on Facebook, even an 800,000 audience is pretty small. Anything over sort of one million is ideally where you want to be running your cold audience targeting to begin with. When you start to get into, you know, more segmented or smaller audience sizes, typically this works best if you know that your target audience is hyper-targeted. So for example, let's say your client teaches doctors or surgeons how to build up their practice. Well, then you know there's probably not a million surgeons in the USA, right? So you know that having an audience size of 60,000 or 70,000 is going to be a much healthier audience size. So it's hyper-targeted in that sense. But if you're not working with hyper-targeted, hyper-neashed down audiences, what you want to aim for is something much bigger, broader audience sizes tend to typically work best. So some of the approaches that we are going to be working with in this framework are blanket marketing. Now, that's also often referred to as carpet bombing out there. That's basically where you're just setting the age, gender, and some very basic level demographic categories, a location, but otherwise you're not really putting any interest or behavioral targeting inside of that. And then below that, you've also got interest-based behaviors, demographics. So that could be when you're targeting people based on the tools they use, you know, if they recently got engaged or, you know, if they're parents or anything like that. And then another very common audience to work with are look-alikes. So if your customer has an existing client list or website traffic or any kind of custom audience that you can build a look-alike from, look-alikes typically tend to work really well. Now, what I would recommend as we go through the framework is just to be very careful about the expanded interest option that you'll see at the ad set level.
+
+## [03:01 - 03:42]
+
+We haven't seen great results and in fact, I don't think many people have seen great results with that. It does really build your audience size right up, which Facebook is saying it prefers. Just be very careful of that. So initially we're going to test out everything without using expanded interests. You could choose to run a separate ad set using expanded interest just to see how it performs against that. And then as a generalization, unless you are targeting a super-netsch down audience, try to aim for an audience size of around one million at your top of funnel. All right, let's go have a look at how to create some of these audience maps.

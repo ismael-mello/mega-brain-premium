@@ -1,0 +1,16 @@
+# Transcrição: 02 HOW TO ESTABLISH BRAND TONE OF VOICE
+
+- **Fonte:** 02 HOW TO ESTABLISH BRAND TONE OF VOICE
+- **Duração:** 03:41
+- **Idioma:** en
+- **Modelo:** small
+
+---
+
+## [00:00 - 03:03]
+
+Alright, so essentially if you're working with a brand new client and they haven't had any campaigns that really worked inside their ad account or you're trying to explore other ways to grow their revenues by launching campaigns to new audiences, it's a great idea to start off with a persona's breakdown. So this is an example that we're doing for the example account using for this training and they are selling baby gear so we've pretty much been able to segment that into based off what they sell on their website three main personas, so new parents, grandparents and then parents of toddlers because obviously you don't want to show toddler ads to brand new parents or baby swaddling ads to parents that have toddlers. So not that that's necessarily a big deal but you definitely want to try to make your ads as relevant as possible. Now one of the parts here, so you basically just go in here and start writing out your wants, the products that would apply for that so if you can you can even include links to the products or just categories of what products they sell and then if are there any hooks that can be used to sell that specific audience in. So for example if they were using popular influencer that was notes amounts, the grandparent community what is that hook that we can use here if there's free shipping or if there's buy one get one free what is it that we can use inside of our ads. Now the fourth column that we or the fifth column I should say that we want to fill out here is where we establish the client's tone of voice for our ad creative. This one's pretty important because your Facebook ad specialist or yourself whoever's creating the copy you guys you will have your own tone of voice that you bring to this but you really want to reflect your clients branding as close as possible to reduce the amount of times that they go back and forth saying you know this isn't in line this is needs to be like this. So this is basically how you would do it you'd come in here with your personas breakdown and then you'd open up your clients website and you can start going through some of their descriptions. This is a great way to do this so swaddling your little bundle of joy this is their tone of voice right this is how they talk so your little your little peanuts movements your little peanuts movements. This is establishing their brand voice essentially so you can go your go to piece for everyday wear so it applied to this one as well. You're basically trying to establish what is the language they're using the words so another thing that you can do is actually check out their Instagram or their Facebook
+
+## [03:03 - 03:41]
+
+account because it's going to give you an idea of how they actually talk as well based on what they're posting. So this client says things like love love you guys carry boo mom get it here now that's the call to action that they like to use and obviously you can test this and you just keep going and plugging away and plugging away until you have a spreadsheet of language that's just going to make writing your ad creative so much easier based on the personas that you have.

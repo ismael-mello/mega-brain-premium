@@ -1,0 +1,12 @@
+# Transcrição: 04 Creating a Collections Ad Format
+
+- **Fonte:** 04 Creating a Collections Ad Format
+- **Duração:** 02:39
+- **Idioma:** en
+- **Modelo:** small
+
+---
+
+## [00:00 - 02:39]
+
+Okay, so if you're wanting to create a collections ad format, really great for e-commerce. The first thing we need to do is create a product set. So click on the little hamburger and what we're going to do is go to product catalogs. Now once this load, just click on product sets and we're going to click on create product set. Let's name this one. Let's just do test. And what you want to do is select the products that are associated with your business. If you're not sure how to attach this or how to create a product catalog, make sure you watch the training on DPA ad format. So dynamic product ad as it talks to you about creating the product catalog first and connecting that with your website. So for this one, let's just select every product that we want here. So let's go create. And then let's go back into ads manager. Now at the ad level, you're going to select the page and if you've got Instagram placement as well. And you're going to make sure you select collection. So from the rows here, collection. Now everything is pretty much the same as you normally would with this exception. So down here, you're going to select the product set. So under product set, it's going to ask you to select a product set. So let's go and select the one we created. And you'll edit this. So new products. And if we preview this, what you'll notice is this is essentially what it will look like when someone clicks on the ad. Now you can edit what's shown here, just like you would a normal DPA. So you can remove this name and have it as the description, for example. So hammock, you can also remove the price and have it as the brand, for example, if that's listed there. And also remember collections ad, you can make this either a video, a slideshow or a single image at the top. So it's a little bit distorted here, but it won't show up this way. So it would actually show up with four nice photos underneath the main piece of content. So that could be a video, a slideshow or an image. So you'd essentially upload that the same way you would anything else. So you'd add your photo here. And if you wanted this to be a video or a slideshow, just make sure you select that from up here. And that's essentially how to create a collections ad format.

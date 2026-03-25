@@ -1,0 +1,12 @@
+# Transcrição: 01- Setting Up Ad Accounts 
+
+- **Fonte:** 01- Setting Up Ad Accounts 
+- **Duração:** 02:34
+- **Idioma:** en
+- **Modelo:** small
+
+---
+
+## [00:00 - 02:34]
+
+So once you've set up your business manager, if you haven't already got an ad account, the next step would be to set one up. So keep in mind that you do need to have your page and the business manager and you need to set it as your primary page before Facebook will let you set up an ad account. Once you're ready to do that, you're going to click add and then create a new ad account. So you'll put your ad account name in here so I'll just call this FATC Test account. You're going to choose the business that you're advertising on behalf of so that might be any partners or something like that. Typically you'll just choose your own business here and then choose your time zone. So the really important thing to note is that with the time zone and the currency, you cannot change that later. So make sure whether it's you creating it or your client creating it, that this is set to the time and the currency that you want on the ad account permanently because you can't change that. If you ever want to change it in the future, you have to set up a whole new ad account which means you're going to lose access to all of that data. So if you have a payment method associated with the business manager, that'll come up as an option here that you can select that payment method otherwise it'll come as no payment methods available and you can set that up later. So this one I'll leave it as Auckland and NZD, FATC Test account and I'll click create account. Cool and then once done you can choose who has access to it. So I'll choose myself as an advertiser and click save changes and there you can see the ad account has been created. It's given me the account ID there and I can choose close. This one here FATC Test account and you can see I'm in there and it doesn't have a payment method associated with it. So like I said before if you don't have a payment method associated with your business manager, you will need to set up your payment method before you can start advertising. I'm actually going to change my access to admin so that I can set this up. Click view payment methods. Cool and here I can add in a payment method. And there you go you can choose whether you want credit or debit, PayPal or Facebook ad coupon and then you would just proceed through the next steps until your payment method has been added and then you're ready to go to start running some ads in that ad account.

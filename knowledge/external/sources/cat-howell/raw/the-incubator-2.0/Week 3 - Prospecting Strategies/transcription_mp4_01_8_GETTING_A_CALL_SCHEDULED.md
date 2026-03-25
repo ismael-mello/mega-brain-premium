@@ -1,0 +1,12 @@
+# Transcrição: 01.8 GETTING A CALL SCHEDULED
+
+- **Fonte:** 01.8 GETTING A CALL SCHEDULED
+- **Duração:** 02:08
+- **Idioma:** en
+- **Modelo:** small
+
+---
+
+## [00:00 - 02:08]
+
+Okay, so you've given them an idea about what's going to go on on the first call. What we do then is talk about what's going to happen beyond that. So beyond that first call, what we're going to do is we're going to jump into your ad account. We're going to see everything that you've done and conduct a full audit to see what you've done and see where we can make some improvements and see if it's going to be a good fit for us to move forward and for us to work together. So we're going to give you some actionable things after this that you can implement and improve your business, improve your ROAS, whatever you want to do and however you want to structure that is how you should kind of move on with that and that should be the next step there. So finally the next step, step five is booking that call and asking people to book that call. So you know let's set up a time and you want to make sure it's within the short time horizon. Otherwise people are going to forget about it or they're going to schedule too far out and then they're going to realize they had prior commitments or they're going to make other commitments. You want to make sure it's within, if it's a Monday or Tuesday, it's within the week or if it's a Thursday or Friday or Wednesday, it's the next week or as soon as you possibly can get them on. So let's say, let's book a time within the next week to chat about your business and see if we can help you grow to XYZ. So really what you want to do is you want to curate it based on why they reached out, how they reached out and what their goals are. If it's someone who's previously scheduled to call, bring those into play. So bring in the fact that hey these are your goals, are you still wanting to hit these goals, think about what their pain points were and address those in the call as well so that they know that you've reviewed their form already. It's the same with any other, if it's a networking event that you met them at, you want to relate to something that you spoke to there and if it's someone who's just commenting or sharing or direct messaging you on Facebook or Instagram, you want to do the same thing. You want to pull in what the information that they've given you so far and you want to use that to your advantage on this video call. So I hope that helps and let us know if you have any questions.
