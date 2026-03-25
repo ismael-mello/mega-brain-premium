@@ -1,0 +1,110 @@
+cargo: "LUCIO-ARTES"
+versao: "1.0.0"
+nivel: "PERSON"
+natureza: "SOLO"
+data_criacao: "2026-03-25"
+ultima_atualizacao: "2026-03-25"
+
+constituicao:
+  path: "/agents/CONSTITUTION/BASE-CONSTITUTION.md"
+
+memoria:
+  path: "/agents/external/lucio-artes/MEMORY.md"
+
+soul:
+  path: "/agents/external/lucio-artes/SOUL.md"
+
+dna_sources:
+  - pessoa: "Lúcio Artes"
+    peso: 1.0
+    path_dna: "/knowledge/external/dna/persons/lucio-artes/DNA.yaml"
+    dominios:
+      - paid-traffic
+      - facebook-ads
+      - meta-ads
+      - scaling-campaigns
+      - roas-optimization
+      - campaign-control
+      - api-conversion
+      - event-funnel
+      - bid-strategy
+      - creative-testing
+      - audience-segmentation
+      - tracking
+      - webinar-funnels
+      - automation
+      - google-ads
+    raiz: "/knowledge/external/sources/lucio-artes/raw/formacao-trafego-escala-2024/"
+    materiais_fonte:
+      - "Formação Tráfego de Escala 2024 (35 arquivos — Módulos I/II/III + 7 Erros + Bonus + Encontros ao Vivo)"
+
+dna_summary:
+  total_elementos: 168
+  versao_dna: "1.0.0"
+  camadas:
+    L1_PHILOSOPHIES: 32
+    L2_MENTAL_MODELS: 31
+    L3_HEURISTICS: 56
+    L4_FRAMEWORKS: 31
+    L5_METHODOLOGIES: 23
+  proximos_ids:
+    FIL: "FIL-LA-033"
+    MM: "MM-LA-032"
+    HEUR: "HEUR-LA-057"
+    FW: "FW-LA-032"
+    MET: "MET-LA-024"
+
+dominios_primarios:
+  - paid-traffic
+  - facebook-ads
+  - meta-ads
+  - scaling-campaigns
+  - roas-optimization
+
+dominios_secundarios:
+  - campaign-control
+  - api-conversion
+  - event-funnel
+  - bid-strategy
+  - creative-testing
+  - google-ads
+
+dominios_terciarios:
+  - audience-segmentation
+  - tracking
+  - webinar-funnels
+  - automation
+
+dimensoes:
+  facebook_ads: 10
+  campaign_control: 10
+  roas_optimization: 9
+  api_conversion: 9
+  scaling_campaigns: 8
+  google_ads: 8
+  creative_testing: 7
+  webinar_funnels: 7
+  automation_ia: 6
+  tracking_attribution: 5
+
+contexto_autor:
+  nome_completo: "Lúcio Artes"
+  alcunha: "Mr. M"
+  atuacao_desde: 2013
+  idade: 45
+  localizacao: "Região de Florianópolis, SC, Brasil"
+  background: "Militar, servidor público, empreendedor digital"
+  estilo: "direto, técnico, analógico, dados-driven, anti-ostentação"
+  programa_principal: "Formação Tráfego de Escala (2024)"
+  especialidade_core: "tráfego pago, escala com lucro, campanha de controle, ROAS"
+  escala_real: "até R$126K/dia em ads; ~90 produtos gerenciados"
+
+conflitos_conhecidos: []
+
+mapa_navegacao:
+  dna: "/knowledge/external/dna/persons/lucio-artes/DNA.yaml"
+  soul: "/agents/external/lucio-artes/SOUL.md"
+  memory: "/agents/external/lucio-artes/MEMORY.md"
+  agent: "/agents/external/lucio-artes/AGENT.md"
+  dossier: "/knowledge/external/dossiers/persons/DOSSIER-LUCIO-ARTES.md"
+  raw: "/knowledge/external/sources/lucio-artes/raw/"

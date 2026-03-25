@@ -1,0 +1,965 @@
+# DNA COGNITIVO — LÚCIO ARTES
+# Formação Tráfego de Escala (2024)
+# v1.0.0 | 173 elementos | 1 fonte
+# Gerado: 2026-03-25
+
+metadata:
+  person: "Lúcio Artes"
+  version: "1.0.0"
+  total_elements: 173
+  sources: 1
+  source_programs:
+    - name: "Formação Tráfego de Escala"
+      code: "FTE"
+      files: 35
+      year: 2024
+  domains:
+    - paid-traffic
+    - facebook-ads
+    - meta-ads
+    - scaling-campaigns
+    - roas-optimization
+    - campaign-control
+    - api-conversion
+    - event-funnel
+    - bid-strategy
+    - creative-testing
+    - audience-segmentation
+    - tracking
+    - webinar-funnels
+    - automation
+  last_updated: "2026-03-25"
+
+layers:
+  L1_PHILOSOPHIES:
+    count: 32
+    next_id: "FIL-LA-211"
+    elements:
+      - id: "FIL-LA-001"
+        title: "Escala vs Crescimento"
+        description: "Escala e crescimento são coisas diferentes. Crescimento aumenta complexidade proporcionalmente. Escala permite crescer exponencialmente sem aumento proporcional de complexidade."
+        source: "FTE/DIA_1:00:00-03:01"
+        domains: ["scaling-campaigns"]
+      - id: "FIL-LA-002"
+        title: "Liberdade é Escolhas"
+        description: "Liberdade real é quando você tem escolhas e faz o que quer. O segredo é encontrar demanda de público suficientemente grande que esteja disposto a pagar."
+        source: "FTE/DIA_1:00:00-03:01"
+        domains: ["scaling-campaigns"]
+      - id: "FIL-LA-003"
+        title: "Contra a Maré"
+        description: "Enquanto todo mundo faz uma coisa, procurar outra para fazer. Atrair pessoas pela competência, não pela ostentação."
+        source: "FTE/DIA_1:18:23-21:31"
+        domains: ["paid-traffic"]
+      - id: "FIL-LA-004"
+        title: "Dinheiro Gosta de Discrição"
+        description: "Os mais ricos não mostram o que têm. Ostentação funciona para volume mas atrai perfil errado."
+        source: "FTE/DIA_1:21:32-24:37"
+        domains: ["paid-traffic"]
+      - id: "FIL-LA-005"
+        title: "Caminho Certo é Estreito"
+        description: "Burlar regra é lucrativo a curto prazo, não a longo. Contingência real é preparação para problemas, não tapar buraco."
+        source: "FTE/DIA_1:09:04-12:12"
+        domains: ["paid-traffic"]
+      - id: "FIL-LA-006"
+        title: "Amolar o Machado"
+        description: "É muito mais sobre amolar o machado do que ficar cortando a árvore. Teoria que falta a 90% das pessoas é o que faz a diferença."
+        source: "FTE/DIA_1:1:14:08-1:17:08"
+        domains: ["paid-traffic"]
+      - id: "FIL-LA-007"
+        title: "Gerenciador NÃO é Para Mensurar Resultado Financeiro"
+        description: "O gerenciador de anúncios não é o lugar para medir resultado financeiro. É para otimização. Mensurar financeiro deve ser na plataforma de pagamento."
+        source: "FTE/DIA_2:2:07:51-2:10:51"
+        domains: ["facebook-ads", "tracking"]
+      - id: "FIL-LA-008"
+        title: "Investidor vs Apostador de Tráfego"
+        description: "Diferença fundamental entre ser investidor de tráfego (dados, regras, automação) e apostador (decisões emocionais, impulsivas)."
+        source: "FTE/DIA_2:2:19:53-2:22:53"
+        domains: ["paid-traffic"]
+      - id: "FIL-LA-009"
+        title: "Operacional é a Parte Mais Rápida"
+        description: "Configurar campanha é a parte mais fácil. O que importa de verdade é a estratégia, a inteligência por trás."
+        source: "FTE/DIA_3:2:21:58-2:24:58"
+        domains: ["facebook-ads"]
+      - id: "FIL-LA-010"
+        title: "Ler Documentação Oficial"
+        description: "A diferença é ler a documentação oficial do Facebook/Meta. Todo conteúdo deve ser embasado em documentação."
+        source: "FTE/DIA_1:40:32-43:34"
+        domains: ["facebook-ads", "meta-ads"]
+      - id: "FIL-LA-011"
+        title: "Teoria Antes da Prática"
+        description: "Formação tem forte embasamento teórico antes de partir para a prática. Sem entender o conceito, só fica repetindo receitas."
+        source: "FTE/DIA_1:43:35-46:36"
+        domains: ["paid-traffic"]
+      - id: "FIL-LA-012"
+        title: "Não Terceirizar Responsabilidade"
+        description: "A maioria terceiriza a responsabilidade quando resultados pioram — culpa a plataforma, a IA, o algoritmo."
+        source: "FTE/DIA_1:06:01-09:04"
+        domains: ["paid-traffic"]
+      - id: "FIL-LA-101"
+        title: "ROAS é o que Dá Crescimento"
+        description: "Lucratividade supera volume. Vale mais 10 vendas de mil reais do que 100 de 10 reais. Foco na escala deve ser ROAS."
+        source: "FTE/7Erros-Erro1"
+        domains: ["roas-optimization", "scaling-campaigns"]
+      - id: "FIL-LA-102"
+        title: "Escalar Nem Sempre é Botar Mais Dinheiro"
+        description: "Antes de aumentar investimento em tráfego, otimize infraestrutura. Possível dobrar retorno sem investir um real a mais."
+        source: "FTE/7Erros-Erro3"
+        domains: ["scaling-campaigns"]
+      - id: "FIL-LA-103"
+        title: "Tráfego Não é Loteria, é Método"
+        description: "Tráfego é exato, trabalha com números. Os números estão aí para ajudar a planejar, metrificar e decidir."
+        source: "FTE/AdsAcademy-Aula9"
+        domains: ["paid-traffic"]
+      - id: "FIL-LA-104"
+        title: "Quem Chega Primeiro Bebe Água Limpa"
+        description: "Não espere que plataformas implementem recursos avançados de tracking. Construa sua própria infraestrutura."
+        source: "FTE/7Erros-Erro4"
+        domains: ["tracking", "api-conversion"]
+      - id: "FIL-LA-105"
+        title: "Tráfego Não Faz Tudo Sozinho"
+        description: "O resultado não depende apenas do tráfego. A infraestrutura é igualmente ou mais importante."
+        source: "FTE/AdsAcademy-Aula9"
+        domains: ["paid-traffic"]
+      - id: "FIL-LA-106"
+        title: "Comportamento é Mais Preciso que Interesse"
+        description: "Na segmentação, comportamento (ações reais) é mais preciso que interesses (suposições) e demografia (dados declarados)."
+        source: "FTE/SuperSegmentacao"
+        domains: ["audience-segmentation"]
+      - id: "FIL-LA-107"
+        title: "O Segredo Está na Especificidade"
+        description: "Quanto mais específico o direcionamento, menor o público mas maior a qualidade. Interseção de múltiplos critérios gera públicos muito mais qualificados."
+        source: "FTE/SuperSegmentacao"
+        domains: ["audience-segmentation"]
+      - id: "FIL-LA-108"
+        title: "Planejamento Inverso: de Baixo para Cima"
+        description: "Planejamento deve ser feito do resultado final para trás. Comece pela meta de lucro, derive CPA máximo, calcule métricas necessárias."
+        source: "FTE/AdsAcademy-Aula9"
+        domains: ["campaign-control", "scaling-campaigns"]
+      - id: "FIL-LA-109"
+        title: "Momentos Distintos: Planejar, Construir, Medir"
+        description: "Três momentos distintos na gestão de campanhas. Confundir esses momentos leva a decisões ruins."
+        source: "FTE/MetricasPersonalizadas"
+        domains: ["facebook-ads"]
+      - id: "FIL-LA-110"
+        title: "Automatize para Gerenciar em Escala"
+        description: "Automação via IA e regras automáticas é o que permite gerenciar dezenas de produtos simultaneamente."
+        source: "FTE/7Erros-Erro7"
+        domains: ["automation", "scaling-campaigns"]
+      - id: "FIL-LA-201"
+        title: "O Jogo É ROAS, Não CPA"
+        description: "O foco do negócio digital não é pagar menos por aquisição, é lucrar mais. CPA sempre vai subir — adapte-se aumentando ticket, conversão e LTV."
+        source: "FTE/Encontro-04_04_2024:15:05-18:05"
+        domains: ["roas-optimization"]
+      - id: "FIL-LA-202"
+        title: "Marketing Venceu — Não É Só Tráfego"
+        description: "O jogo hoje é marketing completo: tráfego + copy + funil + tracking, tudo junto."
+        source: "FTE/Encontro-04_04_2024:21:05-24:06"
+        domains: ["paid-traffic"]
+      - id: "FIL-LA-203"
+        title: "Qualidade Primeiro, Quantidade Depois"
+        description: "No início de campanha, foco em qualidade dos sinais e criativos, não volume."
+        source: "FTE/Encontro-14_03_2024:1:36:16-1:39:16"
+        domains: ["paid-traffic", "creative-testing"]
+      - id: "FIL-LA-204"
+        title: "Queira Fazer o Difícil — Baixa Concorrência"
+        description: "Quanto mais complexo o trabalho (tracking, API, funil de eventos), menor a concorrência. Oceano azul na sofisticação técnica."
+        source: "FTE/Encontro-04_04_2024:12:04-15:05"
+        domains: ["tracking", "api-conversion"]
+      - id: "FIL-LA-205"
+        title: "O Profissional Que Não Usa IA Será Substituído"
+        description: "A IA não vai substituir o profissional. O profissional que usa IA vai substituir o que não usa."
+        source: "FTE/Encontro-21_03_2024:1:34:10-1:37:11"
+        domains: ["automation"]
+      - id: "FIL-LA-206"
+        title: "Ninguém Quer Aprender Tracking — Mas É Indispensável"
+        description: "Tracking é técnico e ninguém quer aprender. Mas é a vantagem competitiva do gestor de tráfego."
+        source: "FTE/Encontro-29_05_2025:33:31-36:31"
+        domains: ["tracking"]
+      - id: "FIL-LA-207"
+        title: "WIIFM — As Pessoas Só Se Importam Com Elas Mesmas"
+        description: "Ao abordar clientes, use princípio WIIFM. Ofereça benefício, não sacrifício."
+        source: "FTE/Encontro-11_04_2024:06:01-09:03"
+        domains: ["paid-traffic"]
+      - id: "FIL-LA-208"
+        title: "Low Ticket Sem Funil Não Faz Sentido"
+        description: "Vender produto de R$10 sem funil de extração (upsell, order bump, back-end) não faz sentido. CPA continuará subindo."
+        source: "FTE/Encontro-29_05_2025:30:30-33:31"
+        domains: ["scaling-campaigns"]
+      - id: "FIL-LA-209"
+        title: "Meta Quer Que Você Fique Dentro Dele"
+        description: "O Meta ganha dinheiro com tempo do usuário dentro da plataforma. Cada clique para fora é perda."
+        source: "FTE/Encontro-03_04_2025:18:13-21:23"
+        domains: ["meta-ads", "facebook-ads"]
+      - id: "FIL-LA-210"
+        title: "Decisão Sem Dados É Achismo"
+        description: "O mercado digital permite mensurar 95-97% de tudo. Não tomar decisões baseadas em dados é desperdiçar a maior vantagem do digital."
+        source: "FTE/Encontro-04_04_2024:00:00-03:00"
+        domains: ["paid-traffic"]
+
+  L2_MENTAL_MODELS:
+    count: 31
+    next_id: "MM-LA-211"
+    elements:
+      - id: "MM-LA-001"
+        title: "Analogia da Ferrari"
+        description: "Facebook/Meta Ads é uma Ferrari. Precisa de: Combustível (dados/eventos), Estrada (infraestrutura), Piloto (estratégia)."
+        source: "FTE/DIA_1:24:37-27:43"
+        domains: ["facebook-ads", "scaling-campaigns"]
+      - id: "MM-LA-002"
+        title: "D-7 (Janela de 7 Dias)"
+        description: "O sistema de otimização trabalha em D-7. Só últimos 7 dias importam. Pausar 7 dias zera tudo."
+        source: "FTE/DIA_1:1:47:17-1:50:16"
+        domains: ["facebook-ads"]
+      - id: "MM-LA-003"
+        title: "Analogia do Sniper (Tiro de Precisão)"
+        description: "Com poucos eventos, precisa de muitos tiros até acertar. Com funil de eventos graduado, calibra muito mais rápido."
+        source: "FTE/DIA_1:2:08:24-2:14:24"
+        domains: ["event-funnel", "tracking"]
+      - id: "MM-LA-004"
+        title: "Feed Invisível"
+        description: "O feed do Instagram/Facebook não existe abaixo do que você vê. A IA monta o feed dinamicamente em tempo real."
+        source: "FTE/DIA_1:52:45-55:51"
+        domains: ["meta-ads"]
+      - id: "MM-LA-005"
+        title: "Palco vs Bastidor"
+        description: "A rede social sobrevive de palco (dopamina). Interesses do usuário são formados por comportamento na rede E fora dela."
+        source: "FTE/DIA_1:58:56-1:04:59"
+        domains: ["audience-segmentation"]
+      - id: "MM-LA-006"
+        title: "Evento de Conversão vs Atribuição"
+        description: "Evento é quantitativo (quantas vendas). Atribuição é qualidade. Otimização foca em atribuição, não em quantidade."
+        source: "FTE/DIA_1:1:29:10-1:32:10"
+        domains: ["tracking", "api-conversion"]
+      - id: "MM-LA-007"
+        title: "Hierarquia de Eventos"
+        description: "Eventos têm hierarquia natural de valor: Page View < View Content < Lead < Add to Cart < Purchase < Subscribe."
+        source: "FTE/DIA_1:2:17:24-2:23:26"
+        domains: ["event-funnel"]
+      - id: "MM-LA-008"
+        title: "Toda Campanha Começa Para Alcance"
+        description: "Independente do objetivo, toda campanha começa buscando alcance/impressão primeiro. Depois desce no funil."
+        source: "FTE/DIA_1:1:53:18-1:56:17"
+        domains: ["facebook-ads"]
+      - id: "MM-LA-009"
+        title: "Dividir Para Conquistar"
+        description: "Quando campanha tem problema, dividir em etapas do funil e resolver cada etapa isoladamente."
+        source: "FTE/DIA_2:1:09:53-1:12:54"
+        domains: ["campaign-control"]
+      - id: "MM-LA-010"
+        title: "Volume vs Valor"
+        description: "Facebook prioriza VALOR sobre VOLUME quando ativado. 4 vendas de R$500 > 10 vendas de R$200."
+        source: "FTE/DIA_2:2:04:51-2:07:51"
+        domains: ["bid-strategy", "roas-optimization"]
+      - id: "MM-LA-011"
+        title: "Combinação Fatal"
+        description: "Estratégia 'volume mais alto' + orçamento diário é a combinação fatal que impede escala."
+        source: "FTE/DIA_2:1:46:33-1:52:35"
+        domains: ["bid-strategy"]
+      - id: "MM-LA-012"
+        title: "Interesse = Interseção, NÃO União"
+        description: "Segmentação por interesses deve usar interseção matemática, não união."
+        source: "FTE/DIA_2:3:17:12-3:23:12"
+        domains: ["audience-segmentation"]
+      - id: "MM-LA-013"
+        title: "Demográfico/Interesse/Comportamento"
+        description: "Três camadas de segmentação com precisão decrescente. Topo = interesse. Meio = comportamento. Fundo = demográfico."
+        source: "FTE/DIA_3:2:24:58-2:27:52"
+        domains: ["audience-segmentation"]
+      - id: "MM-LA-101"
+        title: "Modelo dos Dois KPIs"
+        description: "Controle: KPI primário = CPA, secundário = ROAS. Escala: inverte. Erro comum é usar CPA na escala."
+        source: "FTE/7Erros-Erro1"
+        domains: ["campaign-control", "roas-optimization"]
+      - id: "MM-LA-102"
+        title: "Controle vs Teste (Conceito Estatístico)"
+        description: "Quando inicia campanhas, não se faz teste — faz-se controle (linha de base). Teste compara hipótese contra controle."
+        source: "FTE/7Erros-Erro3"
+        domains: ["campaign-control"]
+      - id: "MM-LA-103"
+        title: "Combinação Mortal (Lance + Orçamento Diário)"
+        description: "Volume Mais Alto + orçamento diário é a combinação mortal que impede escala."
+        source: "FTE/7Erros-Erro5"
+        domains: ["bid-strategy"]
+      - id: "MM-LA-104"
+        title: "Funil como Indicadores Preditivos"
+        description: "Cada etapa do funil funciona como indicador preditivo do resultado final."
+        source: "FTE/MetricasPersonalizadas"
+        domains: ["campaign-control"]
+      - id: "MM-LA-105"
+        title: "Três Níveis de Direcionamento"
+        description: "Comportamento > Interesse > Demografia. Devem ser tratados como compartimentos separados."
+        source: "FTE/SuperSegmentacao"
+        domains: ["audience-segmentation"]
+      - id: "MM-LA-106"
+        title: "Valor > Volume (Evolução da Conta)"
+        description: "Contas novas começam com Volume. Após 30 conversões com 2+ valores, muda para Valor ou Volume."
+        source: "FTE/7Erros-Erro5"
+        domains: ["bid-strategy"]
+      - id: "MM-LA-107"
+        title: "Gerenciador é para Criar, Relatório é para Medir"
+        description: "Gerenciador = construção. Análise e Relatórios = mensuração. Confundir leva a decisões incompletas."
+        source: "FTE/MetricasPersonalizadas"
+        domains: ["facebook-ads"]
+      - id: "MM-LA-108"
+        title: "Interseção de Conjuntos na Segmentação"
+        description: "Segmentação avançada funciona como interseção de conjuntos matemáticos. 17 milhões viram poucos milhares."
+        source: "FTE/SuperSegmentacao"
+        domains: ["audience-segmentation"]
+      - id: "MM-LA-201"
+        title: "Modelo D-Menos (Otimização é D-1)"
+        description: "O que acontece hoje é resultado do aprendizado de ontem. Não existe otimização em tempo real."
+        source: "FTE/Encontro-14_03_2024:27:06-30:06"
+        domains: ["facebook-ads"]
+      - id: "MM-LA-202"
+        title: "Funil de Métricas: Topo Prevê Fundo"
+        description: "Cada etapa do funil tem taxa de conversão que revela eficiência. Analisando do topo, prevê resultado final."
+        source: "FTE/Encontro-14_03_2024:39:10-42:10"
+        domains: ["campaign-control"]
+      - id: "MM-LA-203"
+        title: "Ciclos de 7 Dias"
+        description: "Meta trabalha em ciclos de 7 dias. Semana 1→2→3 estabiliza→semana 4 é CPA real."
+        source: "FTE/Encontro-21_03_2024:15:23-18:25"
+        domains: ["facebook-ads"]
+      - id: "MM-LA-204"
+        title: "Alvo de Conversões"
+        description: "Cada evento do pixel é anel do alvo. Mais eventos intermediários = otimização mais precisa."
+        source: "FTE/Encontro-21_03_2024:06:05-09:14"
+        domains: ["event-funnel"]
+      - id: "MM-LA-205"
+        title: "Fórmula V×C×F antes do L (J. Abraham)"
+        description: "Primeiro aumente Conversão, Ticket e Frequência. Só depois escale com mais Leads."
+        source: "FTE/Encontro-04_04_2024:09:04-12:04"
+        domains: ["scaling-campaigns"]
+      - id: "MM-LA-206"
+        title: "Funil de Consciência nos Criativos"
+        description: "5 níveis de consciência determinam tipo de criativo. Topo fala do problema; fundo fala da oferta."
+        source: "FTE/Encontro-21_03_2024:27:37-30:37"
+        domains: ["creative-testing"]
+      - id: "MM-LA-207"
+        title: "Hash de Criativo"
+        description: "Todo criativo no Meta vira hash. IA reconhece áudio, vídeo, imagem, texto. Brand forte = IA entrega mais."
+        source: "FTE/Encontro-21_03_2024:1:19:07-1:22:09"
+        domains: ["creative-testing", "meta-ads"]
+      - id: "MM-LA-208"
+        title: "Texto É o Sinal Mais Rápido"
+        description: "Elemento mais rápido que Meta interpreta no criativo é o texto. Mais importante que qualidade visual."
+        source: "FTE/Encontro-29_05_2025:39:31-42:32"
+        domains: ["creative-testing"]
+      - id: "MM-LA-209"
+        title: "Bounce Rate do Meta — Punição"
+        description: "Quando Meta manda tráfego e pessoa não converte, CPM sobe, qualidade cai, aparece em posicionamentos baratos."
+        source: "FTE/Encontro-02_05_2024:27:21-33:21"
+        domains: ["facebook-ads"]
+      - id: "MM-LA-210"
+        title: "Funil Duplo: Página + Checkout"
+        description: "Toda estrutura de venda tem dois funis encadeados: funil da página de vendas e funil do checkout."
+        source: "FTE/Encontro-05_06_2025:35:56-39:00"
+        domains: ["event-funnel"]
+
+  L3_HEURISTICS:
+    count: 56
+    next_id: "HEUR-LA-218"
+    elements:
+      - id: "HEUR-LA-001"
+        title: "Princípio 80-10-10"
+        description: "Connect Rate >= 80%, Conversão LP >= 10%, Conversão Checkout >= 10%. Se qualquer item abaixo, NÃO ESCALE."
+        source: "FTE/DIA_2:1:18:59-1:22:00"
+        domains: ["campaign-control", "scaling-campaigns"]
+        numeric_value: "80/10/10"
+      - id: "HEUR-LA-002"
+        title: "Conversão Global Mínima 1%"
+        description: "Conversão global mínima (visitas/compras) deve ser pelo menos 1%."
+        source: "FTE/DIA_2:1:22:01-1:25:02"
+        domains: ["campaign-control"]
+        numeric_value: "1%"
+      - id: "HEUR-LA-003"
+        title: "Escala Cadenciada 15%/Dia"
+        description: "Na escala cadenciada, aumentar no máximo 15% do orçamento por dia (máximo 20%). Regra automática a cada 12h."
+        source: "FTE/DIA_2:2:55:57-2:58:57"
+        domains: ["scaling-campaigns"]
+        numeric_value: "15%/dia max 20%"
+      - id: "HEUR-LA-004"
+        title: "Horário de Escala = 5h da Manhã"
+        description: "Escalar orçamento às 5h da manhã. Nunca à meia-noite."
+        source: "FTE/DIA_2:2:55:57-2:58:57"
+        domains: ["scaling-campaigns"]
+        numeric_value: "5:00 AM"
+      - id: "HEUR-LA-005"
+        title: "Decisão com 3 Dias Mínimo"
+        description: "Tomar decisão com 1 dia é a pior decisão possível. Ciclo de teste 7 dias máximo, decisão com 3 mínimo."
+        source: "FTE/DIA_2:1:43:29-1:46:33"
+        domains: ["campaign-control"]
+        numeric_value: "3 dias mín, 7 dias máx"
+      - id: "HEUR-LA-006"
+        title: "Pixel = 40-60% da Otimização"
+        description: "Pixel sozinho representa 40-60% da otimização. API de conversões necessária para 90%."
+        source: "FTE/DIA_1:1:29:10-1:32:10"
+        domains: ["tracking", "api-conversion"]
+        numeric_value: "40-60% pixel, 90% com API"
+      - id: "HEUR-LA-007"
+        title: "Pausar 7 Dias = Zerar Otimização"
+        description: "Pausar conjunto por 7+ dias volta para fase de aprendizado do zero."
+        source: "FTE/DIA_1:1:59:21-2:02:20"
+        domains: ["facebook-ads"]
+        numeric_value: "7 dias = reset"
+      - id: "HEUR-LA-008"
+        title: "Orçamento Mínimo R$5 por Anúncio"
+        description: "No mínimo R$5 por anúncio dentro do conjunto. 3 anúncios = R$15 mínimo."
+        source: "FTE/DIA_2:3:11:06-3:14:10"
+        domains: ["facebook-ads"]
+        numeric_value: "R$5/anúncio"
+      - id: "HEUR-LA-009"
+        title: "3 a 5 Anúncios por Conjunto"
+        description: "Trabalhar com 3 a 5 anúncios por conjunto. Nunca misturar imagem com vídeo."
+        source: "FTE/DIA_2:3:11:06-3:14:10"
+        domains: ["creative-testing"]
+        numeric_value: "3-5"
+      - id: "HEUR-LA-010"
+        title: "3 a 5 Conjuntos por Campanha"
+        description: "Trabalhar com 3 a 5 conjuntos por campanha. Mais que 5 = nova campanha."
+        source: "FTE/DIA_2:3:08:01-3:11:05"
+        domains: ["campaign-control"]
+        numeric_value: "3-5"
+      - id: "HEUR-LA-011"
+        title: "ROAS é KPI Primário na Escala"
+        description: "Na campanha de controle foque CPA. Na escala, foque ROAS."
+        source: "FTE/DIA_2:2:01:51-2:04:51"
+        domains: ["roas-optimization"]
+      - id: "HEUR-LA-012"
+        title: "Orçamento Controle = 10-20% do Total"
+        description: "Campanha de controle recebe 10-20% do orçamento mensal."
+        source: "FTE/DIA_2:2:52:57-2:55:57"
+        domains: ["campaign-control"]
+        numeric_value: "10-20%"
+      - id: "HEUR-LA-013"
+        title: "Frequência Acima de 3-4 = Novo Criativo"
+        description: "Não se preocupe com frequência até 3. Acima de 4, testar novo criativo."
+        source: "FTE/DIA_3:2:58:08-3:01:08"
+        domains: ["creative-testing"]
+        numeric_value: "freq > 4"
+      - id: "HEUR-LA-014"
+        title: "Conversão Advertorial >= 30%"
+        description: "Conversão do advertorial para página de vendas deve ser no mínimo 30%."
+        source: "FTE/DIA_2:1:18:59-1:22:00"
+        domains: ["campaign-control"]
+        numeric_value: "30%"
+      - id: "HEUR-LA-015"
+        title: "CPM é Irrelevante para Campanhas de Venda"
+        description: "CPM é métrica de topo de funil. Usá-lo para decisão de campanha de venda é erro crítico."
+        source: "FTE/DIA_2:1:37:13-1:40:13"
+        domains: ["campaign-control"]
+      - id: "HEUR-LA-016"
+        title: "3 Regras de Escala Automática"
+        description: "Regra 1: Escalar 15% se CPA < meta. Regra 2: Reduzir 30% se CPA entre meta e teto. Regra 3: Pausar se CPA > teto."
+        source: "FTE/DIA_3:2:30:58-2:36:58"
+        domains: ["scaling-campaigns", "automation"]
+      - id: "HEUR-LA-017"
+        title: "ROAS — Começar Alto e Descer"
+        description: "Para campanha com estratégia de ROAS, começar alto (2.0) e descer. CPA é o contrário."
+        source: "FTE/DIA_3:2:42:58-2:45:58"
+        domains: ["bid-strategy"]
+      - id: "HEUR-LA-018"
+        title: "CBO Só com Públicos de Tamanho Similar"
+        description: "Nunca colocar em CBO públicos com diferença > 20%. CBO privilegia alcance, público maior consome tudo."
+        source: "FTE/DIA_2:3:14:10-3:17:12"
+        domains: ["facebook-ads"]
+        numeric_value: "max 20% diferença"
+      - id: "HEUR-LA-019"
+        title: "PIX Pago = Enviar com Valor Proporcional"
+        description: "Se taxa conversão PIX é 60%, enviar evento com valor de 60% do ticket. Cartão envia 100%."
+        source: "FTE/DIA_3:2:03:44-2:06:45"
+        domains: ["tracking"]
+      - id: "HEUR-LA-020"
+        title: "Wi-Fi + Android 10+ para Connect Rate"
+        description: "Para aumentar connect rate, segmentar Wi-Fi + Android 10+."
+        source: "FTE/DIA_2:3:23:12-3:26:12"
+        domains: ["audience-segmentation"]
+      - id: "HEUR-LA-021"
+        title: "Edição Significativa = Volta Aprendizado"
+        description: "Alteração em direcionamento, criativo, evento ou novo anúncio faz voltar para aprendizado."
+        source: "FTE/DIA_1:1:56:19-1:59:20"
+        domains: ["facebook-ads"]
+      - id: "HEUR-LA-022"
+        title: "Regra em Últimos 3 Dias, Nunca Máximo"
+        description: "Nunca usar intervalo máximo nas regras automáticas. Sempre últimos 3 dias."
+        source: "FTE/DIA_3:2:33:58-2:36:58"
+        domains: ["automation"]
+      - id: "HEUR-LA-023"
+        title: "30 Conversões + 2 Valores = Estratégia de Valor"
+        description: "Conta ativa estratégia Valor ou Volume com 30 conversões + 2 valores distintos em 7 dias."
+        source: "FTE/DIA_2:1:49:34-1:52:35"
+        domains: ["bid-strategy"]
+        numeric_value: "30 conv + 2 valores"
+      - id: "HEUR-LA-101"
+        title: "Princípio 80-10-10 (Validação)"
+        description: "80% Connect Rate, 10% Checkout, 10% Compra. Fora disso, está muito ruim."
+        source: "FTE/7Erros-Erro3"
+        domains: ["campaign-control"]
+        numeric_value: "80/10/10"
+      - id: "HEUR-LA-102"
+        title: "Controle = 10-20% do Orçamento Global"
+        description: "Campanhas de controle consomem 10-20% do orçamento. Típico R$1.500 de R$10.000."
+        source: "FTE/7Erros-Erro2"
+        domains: ["campaign-control"]
+        numeric_value: "10-20%"
+      - id: "HEUR-LA-103"
+        title: "Prazo Controle: 3 a 7 Dias"
+        description: "Campanhas de controle rodam 3-7 dias para dados suficientes."
+        source: "FTE/7Erros-Erro2"
+        domains: ["campaign-control"]
+        numeric_value: "3-7 dias"
+      - id: "HEUR-LA-104"
+        title: "ABO para Controle: 3-5 Conjuntos, 3-5 Anúncios"
+        description: "Controle deve ser ABO, 3-5 conjuntos, 3-5 anúncios por conjunto."
+        source: "FTE/7Erros-Erro3"
+        domains: ["campaign-control"]
+        numeric_value: "3-5/3-5"
+      - id: "HEUR-LA-105"
+        title: "Nunca Orçamento Diário em Escala"
+        description: "Orçamento diário obriga gastar em dias ruins. Total permite distribuição inteligente."
+        source: "FTE/7Erros-Erro5"
+        domains: ["bid-strategy"]
+      - id: "HEUR-LA-106"
+        title: "S1 Consome 50% do Orçamento Total"
+        description: "Fase S1 consome 50% do orçamento para descobrir melhor lance, público e criativo."
+        source: "FTE/7Erros-Erro2"
+        domains: ["scaling-campaigns"]
+        numeric_value: "50%"
+      - id: "HEUR-LA-107"
+        title: "Checagem: Controle 3 Dias, Escala 7 Dias"
+        description: "Controle verificado a cada 3 dias. Escala S1 a cada 7 dias."
+        source: "FTE/7Erros-Erro6"
+        domains: ["campaign-control"]
+        numeric_value: "3d/7d"
+      - id: "HEUR-LA-108"
+        title: "Escale Manhã/Tarde, Nunca Noite"
+        description: "Impressões aumentam ao escalar. Se começar de noite, estraga otimização."
+        source: "FTE/7Erros-Erro6"
+        domains: ["scaling-campaigns"]
+      - id: "HEUR-LA-109"
+        title: "Lance Manual Após 90 Dias de Escala"
+        description: "Lance manual só para campanhas consolidadas, 90+ dias de escala bem-sucedida."
+        source: "FTE/7Erros-Erro5"
+        domains: ["bid-strategy"]
+        numeric_value: "90 dias"
+      - id: "HEUR-LA-110"
+        title: "30 Conversões Ativam Valor"
+        description: "Conta precisa de 30 conversões + 2 valores em 7 dias para desbloquear Valor ou Volume."
+        source: "FTE/7Erros-Erro5"
+        domains: ["bid-strategy"]
+        numeric_value: "30 conv"
+      - id: "HEUR-LA-111"
+        title: "CTR Acima de 1% é Aceitável"
+        description: "CTR acima de 1% é bom, mas depende de mercado, público e posicionamento."
+        source: "FTE/MetricasPersonalizadas"
+        domains: ["facebook-ads"]
+        numeric_value: "1%"
+      - id: "HEUR-LA-112"
+        title: "Parâmetro Simplix: 40-10-10"
+        description: "40% taxa leads, 10% taxa oferta de entrada (R$7-27), 10% taxa oferta principal."
+        source: "FTE/MetricasPersonalizadas"
+        domains: ["campaign-control"]
+        numeric_value: "40/10/10"
+      - id: "HEUR-LA-113"
+        title: "Site: Score > 90 no Google PageSpeed"
+        description: "Score acima de 90 é ótimo. A partir de 85 é aceitável. Otimizar de 37 para 100 pode dobrar faturamento."
+        source: "FTE/AdsAcademy-Aula9"
+        domains: ["paid-traffic"]
+        numeric_value: "90+ PageSpeed"
+      - id: "HEUR-LA-114"
+        title: "Evento Subscribe com LTV Preditivo"
+        description: "Para assinatura, evento Subscribe com predicted_ltv. Facebook busca clientes que ficam, não só compram."
+        source: "FTE/7Erros-Erro4"
+        domains: ["event-funnel", "tracking"]
+      - id: "HEUR-LA-115"
+        title: "Torpedo de Voz = +45% Incremento"
+        description: "Torpedo de voz durante aquecimento/vendas de webinário gera incremento superior de 45%."
+        source: "FTE/PerfectWebinar"
+        domains: ["webinar-funnels"]
+        numeric_value: "+45%"
+      - id: "HEUR-LA-116"
+        title: "Premiação Escalonada de Recuperação"
+        description: "Cartão recusado/carrinho = R$15. PIX 30-40% = R$50, 41-50% = R$100, 50%+ = R$150."
+        source: "FTE/PerfectWebinar"
+        domains: ["webinar-funnels"]
+      - id: "HEUR-LA-201"
+        title: "300-500 Visitas Para Validar Funil"
+        description: "Antes de decidir sobre funil, espere 300-500 visitas à página de destino."
+        source: "FTE/Encontro-14_03_2024:30:10-33:10"
+        domains: ["campaign-control"]
+        numeric_value: "300-500 visitas"
+      - id: "HEUR-LA-202"
+        title: "3 Dias Mínimos Antes de Intervir"
+        description: "Nunca tome decisão antes de 3 dias. Exceção: CTR absurdamente baixo com alto gasto."
+        source: "FTE/Encontro-14_03_2024:30:10-33:10"
+        domains: ["campaign-control"]
+        numeric_value: "3 dias"
+      - id: "HEUR-LA-203"
+        title: "3 ou 5 Criativos, Nunca Par"
+        description: "Use número ímpar de criativos: 3 ou 5. Nunca par. Máximo 5 por conjunto."
+        source: "FTE/Encontro-14_03_2024:33:10-36:10"
+        domains: ["creative-testing"]
+        numeric_value: "3 ou 5"
+      - id: "HEUR-LA-204"
+        title: "Princípio 80/10 Para Análise"
+        description: "Connect Rate > 80% está ótimo. Taxa checkout > 10% está saudável."
+        source: "FTE/Encontro-14_03_2024:42:10-45:10"
+        domains: ["campaign-control"]
+        numeric_value: "80/10"
+      - id: "HEUR-LA-205"
+        title: "7 Dias Pausados = Reset Total"
+        description: "Pausar 7 dias perde toda otimização. Nunca pause mais de 6 dias."
+        source: "FTE/Encontro-14_03_2024:27:06-30:06"
+        domains: ["facebook-ads"]
+        numeric_value: "7 dias"
+      - id: "HEUR-LA-206"
+        title: "50 Eventos Para Sair do Aprendizado"
+        description: "Em média 50 eventos de conversão em 7 dias para sair do aprendizado."
+        source: "FTE/Encontro-14_03_2024:1:39:16-1:42:16"
+        domains: ["facebook-ads"]
+        numeric_value: "50 eventos"
+      - id: "HEUR-LA-207"
+        title: "Lead de R$12 Para R$1,80 Com API"
+        description: "Implementação correta de API + Advanced Match reduziu lead de R$12 para R$1,80 (-85%)."
+        source: "FTE/Encontro-14_03_2024:15:02-18:02"
+        domains: ["api-conversion", "tracking"]
+        numeric_value: "R$12→R$1,80"
+      - id: "HEUR-LA-208"
+        title: "3 Janelas (21 Dias) Para Performance Máxima"
+        description: "Melhoria da API aparece após 3 janelas de 7 dias = 21 dias."
+        source: "FTE/Encontro-14_03_2024:15:02-18:02"
+        domains: ["api-conversion"]
+        numeric_value: "21 dias"
+      - id: "HEUR-LA-209"
+        title: "Escalar 10-20% a Cada 3 Dias"
+        description: "Aumente 10-15% (max 20%) do orçamento total a cada 3 dias."
+        source: "FTE/Encontro-02_05_2024:24:19-27:20"
+        domains: ["scaling-campaigns"]
+        numeric_value: "10-20%/3d"
+      - id: "HEUR-LA-210"
+        title: "Nota 9.3 Máximo Sem App SDK"
+        description: "Nota máxima de qualidade de eventos via web = 9.3. Só chega a 10 com SDK de app."
+        source: "FTE/Encontro-21_03_2024:03:02-06:05"
+        domains: ["tracking"]
+        numeric_value: "9.3/10"
+      - id: "HEUR-LA-211"
+        title: "Frequência 3 Não É Fadiga"
+        description: "Fadiga começa a partir de frequência 5, não 3. Se ROAS bom com freq 6+, mantenha."
+        source: "FTE/Encontro-29_05_2025:27:29-30:30"
+        domains: ["creative-testing"]
+        numeric_value: "freq > 5"
+      - id: "HEUR-LA-212"
+        title: "Evento Presencial: Frequência 13+"
+        description: "Vendas de eventos presenciais começam com frequência cross-campanha > 13. Melhor campanha teve freq 32."
+        source: "FTE/Encontro-29_05_2025:24:27-27:29"
+        domains: ["paid-traffic"]
+        numeric_value: "freq 13+"
+      - id: "HEUR-LA-213"
+        title: "Orçamento Total em 95-99% dos Casos"
+        description: "Use orçamento total em 95-99% das campanhas. Exceção: lançamentos curtos."
+        source: "FTE/Encontro-02_05_2024:39:21-42:21"
+        domains: ["facebook-ads"]
+        numeric_value: "95-99%"
+      - id: "HEUR-LA-214"
+        title: "Connect Rate Mínimo 80%"
+        description: "Abaixo de 80% há problema de infraestrutura. Resolver antes de mexer em criativo."
+        source: "FTE/Encontro-02_05_2024:24:19-27:20"
+        domains: ["campaign-control"]
+        numeric_value: "80%"
+      - id: "HEUR-LA-215"
+        title: "10 E-books R$3K > 1 High-Ticket"
+        description: "10 e-books gerando R$3K/mês cada (R$30K passivo) > 1 produto high-ticket com atendimento."
+        source: "FTE/Encontro-04_04_2024:09:04-12:04"
+        domains: ["scaling-campaigns"]
+      - id: "HEUR-LA-216"
+        title: "CPM × 3 Para Campanhas de Lembrete"
+        description: "Lance manual com CPM × 3, frequência 5-10/dia, 2h antes do evento."
+        source: "FTE/Encontro-02_05_2024:42:21-45:21"
+        domains: ["paid-traffic"]
+        numeric_value: "CPM × 3"
+      - id: "HEUR-LA-217"
+        title: "Variação Até 20% Entre Gerenciador e CRM"
+        description: "Variação de até 20% entre conversões no gerenciador e CRM é normal."
+        source: "FTE/Encontro-14_03_2024:1:27:16-1:30:16"
+        domains: ["tracking"]
+        numeric_value: "20%"
+
+  L4_FRAMEWORKS:
+    count: 31
+    next_id: "FW-LA-211"
+    elements:
+      - id: "FW-LA-001"
+        title: "Framework da Ferrari"
+        description: "Três elementos: Combustível (qualidade eventos + API), Estrada (infraestrutura), Piloto (estratégia)."
+        source: "FTE/DIA_1:24:37-30:53"
+        domains: ["scaling-campaigns"]
+      - id: "FW-LA-002"
+        title: "Funil de Eventos"
+        description: "Hierarquia completa de eventos: PageView > ViewContent > Scroll > Lead > AddToCart > InitiateCheckout > Purchase > Subscribe."
+        source: "FTE/DIA_1:2:08:24-2:26:28"
+        domains: ["event-funnel", "tracking"]
+      - id: "FW-LA-003"
+        title: "Princípio 80-10-10 (Planilha Preditiva)"
+        description: "Ferramenta preditiva: CR >= 80%, Conv LP >= 10%, Conv Checkout >= 10%. Simular antes de escalar."
+        source: "FTE/DIA_2:1:18:59-1:28:03"
+        domains: ["campaign-control"]
+      - id: "FW-LA-004"
+        title: "Campanha de Controle"
+        description: "ABO, orçamento total, 3-7 dias, maximizar conversões. Testar públicos diversos."
+        source: "FTE/DIA_2:1:15:58-1:22:00"
+        domains: ["campaign-control"]
+      - id: "FW-LA-005"
+        title: "Campanha de Escala (CPA + ROAS)"
+        description: "Após controle, escala com melhor público. CPA: começar baixo e subir. ROAS: começar alto e descer."
+        source: "FTE/DIA_3:2:39:58-2:51:58"
+        domains: ["scaling-campaigns", "bid-strategy"]
+      - id: "FW-LA-006"
+        title: "Escala Cadenciada (3 Regras)"
+        description: "Regra 1: +15% se CPA < meta. Regra 2: -30% se CPA entre meta e teto. Regra 3: pausar se CPA > teto."
+        source: "FTE/DIA_3:2:30:58-2:39:58"
+        domains: ["scaling-campaigns", "automation"]
+      - id: "FW-LA-007"
+        title: "Recálculo de Orçamento Total"
+        description: "Para estender campanha: média diária × dias + orçamento existente. NÃO volta aprendizado."
+        source: "FTE/DIA_2:2:55:57-3:08:01"
+        domains: ["campaign-control"]
+      - id: "FW-LA-008"
+        title: "Análise Gráfica de Escala"
+        description: "Gráfico eixo X=custo, Y=conversões. Quando curva quebra = limite ideal de escala."
+        source: "FTE/DIA_2:3:29:12-3:35:14"
+        domains: ["scaling-campaigns"]
+      - id: "FW-LA-009"
+        title: "Power 5 / Performance 5"
+        description: "Framework Meta: simplificação, criativo DR, diversificação, qualidade API, eventos redundantes."
+        source: "FTE/DIA_1:30:54-46:36"
+        domains: ["facebook-ads", "meta-ads"]
+      - id: "FW-LA-010"
+        title: "Pre-cel para WhatsApp"
+        description: "Anúncio > mini página com formulário > botão WhatsApp. Evento Contato no botão."
+        source: "FTE/DIA_3:1:18:11-1:24:11"
+        domains: ["paid-traffic"]
+      - id: "FW-LA-011"
+        title: "Métricas Customizadas"
+        description: "Connect Rate, Conversão LP, Conversão Checkout, Lucro R$, Lucro %, Conversão Global."
+        source: "FTE/DIA_2:2:31:55-2:37:53"
+        domains: ["campaign-control"]
+      - id: "FW-LA-012"
+        title: "Subscribe > Purchase para Recorrência"
+        description: "Evento Subscribe com predicted_ltv para assinaturas. Facebook busca clientes que ficam."
+        source: "FTE/DIA_1:2:17:24-2:20:24"
+        domains: ["event-funnel"]
+      - id: "FW-LA-101"
+        title: "3 Fases de Escala (Controle > S1 > S2)"
+        description: "Controle (10-20%), S1 (50% orçamento, descobrir lance/público/criativo), S2 (ajustes + automação)."
+        source: "FTE/7Erros-Erro2"
+        domains: ["scaling-campaigns"]
+      - id: "FW-LA-102"
+        title: "Estratégias de Lance por Fase"
+        description: "Gastos para controle. Metas (CPA/ROAS) para escala. Lance manual para 90+ dias."
+        source: "FTE/7Erros-Erro5"
+        domains: ["bid-strategy"]
+      - id: "FW-LA-103"
+        title: "Funil de Eventos para API"
+        description: "Construir funil completo em vez de só PageView > Purchase. Cada evento melhora otimização."
+        source: "FTE/7Erros-Erro4"
+        domains: ["event-funnel", "api-conversion"]
+      - id: "FW-LA-104"
+        title: "Métricas Personalizadas (Superpoderes)"
+        description: "Criar métricas que Facebook não oferece: Clique/Visitas, Visitas/Checkout, Checkout/Compra."
+        source: "FTE/MetricasPersonalizadas"
+        domains: ["campaign-control"]
+      - id: "FW-LA-105"
+        title: "Perfect Webinar 5 Fases"
+        description: "Autoridade > Convite > Aquecimento (15 dias) > Finais > Replay + escassez."
+        source: "FTE/PerfectWebinar"
+        domains: ["webinar-funnels"]
+      - id: "FW-LA-106"
+        title: "Grande Dominó + 3 Segredos"
+        description: "Promessa única que derruba todas as objeções. 3 segredos destroem crenças falsas."
+        source: "FTE/PerfectWebinar"
+        domains: ["webinar-funnels"]
+      - id: "FW-LA-107"
+        title: "Segmentação por Camadas"
+        description: "Demografia + Interesse + Comportamento em camadas separadas via Estreitar Público."
+        source: "FTE/SuperSegmentacao"
+        domains: ["audience-segmentation"]
+      - id: "FW-LA-108"
+        title: "Recuperação Pós-Webinário"
+        description: "Hierarquia: Cartão Recusado > Carrinho Abandonado > PIX/Boleto. Funil de 3 emails + WhatsApp."
+        source: "FTE/PerfectWebinar"
+        domains: ["webinar-funnels"]
+      - id: "FW-LA-109"
+        title: "Fluxo do Lead (Multicanal)"
+        description: "WhatsApp + Email + Torpedo. Fases: Aquecimento (15 dias) e Vendas."
+        source: "FTE/PerfectWebinar"
+        domains: ["webinar-funnels"]
+      - id: "FW-LA-201"
+        title: "Enquadramento 1080"
+        description: "Imagem 1080×1920 com marcação: central 1080×1080, retrato 1080×1350, full stories."
+        source: "FTE/Encontro-14_03_2024:1:00:10-1:06:14"
+        domains: ["creative-testing"]
+      - id: "FW-LA-202"
+        title: "Imagem-para-Vídeo (10 Segundos)"
+        description: "IA gera imagem, Canva anima + áudio, exporta MP4 de 10-14s. Funciona melhor que vídeos para teste."
+        source: "FTE/Encontro-14_03_2024:57:10-1:06:14"
+        domains: ["creative-testing"]
+      - id: "FW-LA-203"
+        title: "Análise Topo-Fundo (Projeção)"
+        description: "Com CPM, CTR e Connect Rate do dia 1, projete custo de 300 visitas. Se precisa >5% conversão, não é viável."
+        source: "FTE/Encontro-14_03_2024:45:10-51:10"
+        domains: ["campaign-control"]
+      - id: "FW-LA-204"
+        title: "Advantage+ com 3 Criativos"
+        description: "1 criativo para topo (problema), 1 meio (solução), 1 fundo (oferta). IA do Meta identifica nível."
+        source: "FTE/Encontro-04_04_2024:48:10-54:20"
+        domains: ["creative-testing", "facebook-ads"]
+      - id: "FW-LA-205"
+        title: "Funil de Eventos Completo (Página + Checkout)"
+        description: "Página: PV → Scroll → VC → AW. Checkout: ATC → IC (dados preenchidos) → API → Purchase."
+        source: "FTE/Encontro-05_06_2025:29:41-39:00"
+        domains: ["event-funnel"]
+      - id: "FW-LA-206"
+        title: "Funil de Consciência via Marketing"
+        description: "Reconhecimento → Remarketing → Conversão. Resultado: ROAS explode porque CPA é mínimo."
+        source: "FTE/Encontro-04_04_2024:15:05-21:05"
+        domains: ["paid-traffic"]
+      - id: "FW-LA-207"
+        title: "Order Bump Para Ticket Médio"
+        description: "Adicionar order bumps ao checkout. Caso: 50%+ vendas foram order bumps. Simples e sem investimento."
+        source: "FTE/Encontro-04_04_2024:12:04-15:05"
+        domains: ["scaling-campaigns"]
+      - id: "FW-LA-208"
+        title: "Presell Para Afiliados"
+        description: "Funil de eventos dentro do presell. Otimizar para Add Wishlist no botão do presell."
+        source: "FTE/Encontro-21_03_2024:36:43-48:52"
+        domains: ["event-funnel"]
+      - id: "FW-LA-209"
+        title: "Campanhas de Comparecimento"
+        description: "Facebook: impressão + lance manual CPM×3 + freq 5-10/dia. YouTube: Bumper 6s não-pulável."
+        source: "FTE/Encontro-02_05_2024:42:21-48:08"
+        domains: ["paid-traffic", "webinar-funnels"]
+      - id: "FW-LA-210"
+        title: "Lead Ads + CRM (Janela 28 Dias)"
+        description: "Lead Ads integrado com CRM. Janela sobe de 7 para 28 dias. Otimização 4× mais longa."
+        source: "FTE/Encontro-03_04_2025:30:33-36:52"
+        domains: ["facebook-ads"]
+
+  L5_METHODOLOGIES:
+    count: 23
+    next_id: "MET-LA-208"
+    elements:
+      - id: "MET-LA-001"
+        title: "Metodologia de Escala Lúcio Artes"
+        description: "Fluxo completo: funil de eventos → controle ABO → 80-10-10 → ajustes → estender → escala → 3 regras."
+        source: "FTE/DIA_1-3:completo"
+        domains: ["scaling-campaigns"]
+      - id: "MET-LA-002"
+        title: "Configuração do Funil de Eventos"
+        description: "Plugin tracking → eventos por página → hierarquia → webhook plataforma → desabilitar pixel plataforma → testar."
+        source: "FTE/DIA_3:1:09:10-1:51:17"
+        domains: ["event-funnel", "tracking"]
+      - id: "MET-LA-003"
+        title: "Construção da Campanha de Controle"
+        description: "ABO → orçamento total → maximizar conversões → 3-5 conjuntos → 3-5 anúncios → 7 dias."
+        source: "FTE/DIA_2:3:08:01-3:17:12"
+        domains: ["campaign-control"]
+      - id: "MET-LA-004"
+        title: "Diagnóstico com Planilha 80-10-10"
+        description: "Extrair métricas → calcular taxas → comparar 80-10-10 → identificar gargalo."
+        source: "FTE/DIA_2:1:18:59-1:40:13"
+        domains: ["campaign-control"]
+      - id: "MET-LA-005"
+        title: "Escala Cadenciada da Campanha de Controle"
+        description: "Controle boa 3-5 dias → calcular média → adicionar 30 dias → somar orçamento → regra +15%/dia."
+        source: "FTE/DIA_2:2:55:57-3:08:01"
+        domains: ["scaling-campaigns"]
+      - id: "MET-LA-006"
+        title: "Configuração de PIX Otimizado"
+        description: "Enviar todos os métodos → cartão valor cheio → PIX ticket × taxa conversão."
+        source: "FTE/DIA_3:2:03:44-2:09:52"
+        domains: ["tracking"]
+      - id: "MET-LA-007"
+        title: "Criação de Métricas Customizadas"
+        description: "Personalizar colunas → Connect Rate → Conv LP → Conv Checkout → Lucro R$ → Lucro %."
+        source: "FTE/DIA_2:2:31:55-2:37:53"
+        domains: ["campaign-control"]
+      - id: "MET-LA-008"
+        title: "Segmentação por Interseção"
+        description: "Interesses gerais → Definir com detalhes → intersecionar comportamento → testar variantes."
+        source: "FTE/DIA_2:3:17:12-3:26:12"
+        domains: ["audience-segmentation"]
+      - id: "MET-LA-009"
+        title: "Ajuste Automático de CPA"
+        description: "Verificar impressões/h → regra: se impressões < 50% esperado → +10% lance → a cada hora → até teto."
+        source: "FTE/DIA_3:2:45:58-2:48:58"
+        domains: ["bid-strategy", "automation"]
+      - id: "MET-LA-010"
+        title: "Pre-cel WhatsApp com Funil"
+        description: "Mini página → headline → eventos (PV, scroll, click = Contato) → campanha para Contato."
+        source: "FTE/DIA_3:1:18:11-1:24:11"
+        domains: ["paid-traffic"]
+      - id: "MET-LA-101"
+        title: "Escala 7 Erros Invertidos"
+        description: "KPI+Meta → Planejar orçamento → Controle → API+Advanced → Lance correto → Rotina → Automatizar."
+        source: "FTE/7Erros:todos"
+        domains: ["scaling-campaigns"]
+      - id: "MET-LA-102"
+        title: "Previsão 80-10-10"
+        description: "Controle mínimo → coletar métricas → 80-10-10 → gargalos → otimizar infra → simular → escalar."
+        source: "FTE/7Erros-Erro3"
+        domains: ["campaign-control"]
+      - id: "MET-LA-103"
+        title: "Métricas Personalizadas"
+        description: "Mapear funil → identificar gaps → criar métricas → organizar colunas → salvar visualização."
+        source: "FTE/MetricasPersonalizadas"
+        domains: ["campaign-control"]
+      - id: "MET-LA-104"
+        title: "Planejamento Inverso"
+        description: "Ticket → meta lucro → CPA máx → taxas necessárias → investimento → comparar com meta."
+        source: "FTE/AdsAcademy-Aula9"
+        domains: ["campaign-control"]
+      - id: "MET-LA-105"
+        title: "Webinário 380K"
+        description: "Grande Dominó → Promessa → Régua → 3 Elementos → Gancho → Peça Ética → 3 Segredos → Value Stack → CTA."
+        source: "FTE/PerfectWebinar"
+        domains: ["webinar-funnels"]
+      - id: "MET-LA-106"
+        title: "BM Shield (Blindagem)"
+        description: "Construção de gerenciador blindado. Domain verification, setup BM, proteção contra bloqueios."
+        source: "FTE/AdsAcademy-Aula2"
+        domains: ["facebook-ads"]
+      - id: "MET-LA-201"
+        title: "Escala Progressiva (7→30→90 Dias)"
+        description: "7 dias → avaliar 3d → estender 30d → avaliar → +10% cada 3d → nunca > 20%."
+        source: "FTE/Encontro-02_05_2024:18:12-27:20"
+        domains: ["scaling-campaigns"]
+      - id: "MET-LA-202"
+        title: "Diagnóstico de Campanha (4 Passos)"
+        description: "Planilha horizontal → taxa entre etapas → 80/10 → projetar custo de 300 visitas."
+        source: "FTE/Encontro-14_03_2024:39:10-54:10"
+        domains: ["campaign-control"]
+      - id: "MET-LA-203"
+        title: "Teste Público vs Criativo (Isolamento)"
+        description: "Testar público: 1 criativo × 3-5 públicos (ABO). Testar criativo: 3-5 criativos × 1 público."
+        source: "FTE/Encontro-03_04_2025:42:53-45:53"
+        domains: ["creative-testing"]
+      - id: "MET-LA-204"
+        title: "Funil de Eventos Completo"
+        description: "Página: PV → Search/Scroll → VC → AW. Checkout: ATC → IC (após dados) → API → Purchase."
+        source: "FTE/Encontro-05_06_2025:29:41-54:07"
+        domains: ["event-funnel"]
+      - id: "MET-LA-205"
+        title: "Criação de Imagem com IA"
+        description: "Prompt detalhado → múltiplas IAs → variar estilos → selecionar → editar Canva → animar."
+        source: "FTE/Encontro-14_03_2024:57:10-1:06:14"
+        domains: ["creative-testing"]
+      - id: "MET-LA-206"
+        title: "Valor Progressivo no Google Ads"
+        description: "Quiz multi-página: declarar valor progressivo (P1=$1, P2=$2, P3=$3). Google otimiza para quem avança."
+        source: "FTE/Encontro-14_03_2024:2:06:16-2:10:24"
+        domains: ["paid-traffic"]
+      - id: "MET-LA-207"
+        title: "Campanhas Multi-Objetivo"
+        description: "Lead + Alcance + Engajamento no mesmo post. Somar custos / total leads = CPA real 60-80% menor."
+        source: "FTE/Encontro-14_03_2024:1:21:16-1:33:16"
+        domains: ["paid-traffic"]
