@@ -17,7 +17,14 @@
 # ═══════════════════════════════════════════════════════════════════════════════
 
 cargo: "CRO"
-versao: "32.0.0"
+versao: "34.0.0"
+# v34.0.0 (2026-03-25): Cat Howell added (peso 0.70, 253 elements) — agency sales, client acquisition funnels, pricing strategy
+#                      - Domains: client-acquisition, pricing, sales, funnels, lead-gen, auditing, agency-building
+#                      - Key frameworks: Two-Call Close, Five Pricing Models, Seven Lead Gen Funnels, Service Document Architecture, Performance-Based Pricing
+#                      - Heuristics: $3K min client, 10-20% cold close rate, $7-50 CPL, SMS halves no-shows, 4-day booking window
+# v33.0.0 (2026-03-25): Ben Settle added (peso 0.80, 291 elements) — daily email marketing, email sales, list building, conversion
+#                      - Domains: email-marketing, daily-email-strategy, email-copywriting, personal-branding
+#                      - Key frameworks: 24-Point Cheat Sheet, Double Tap System, Disney Villain Model, personality-driven email
 # v32.0.0 (2026-03-24): Stefan Georgi updated 30→65 elements (+35 from RMBC Method, RMBC II, Profit Fix Formula)
 #                      - New SG domains: landing-page-optimization, checkout-optimization, upsell-framework, funnel-diagnostics
 #                      - New SG frameworks: 15 Funnel Factors for revenue diagnostics, Landing Page Checklist, checkout optimization, upsell page architecture
@@ -1251,6 +1258,23 @@ resolucao_de_conflitos:
       quando_usar: "Offer engineering for revenue maximization, upsell sequence optimization, cold traffic scaling via email monetization, LTV maximization"
       added: "2026-03-24"
 
+    - pessoa: "ben-settle"
+      path: "/knowledge/external/dna/persons/ben-settle"
+      raiz: "/knowledge/external/sources/ben-settle/raw/"
+      total_elementos: 291
+      dominios_usados:
+        - "email-marketing"
+        - "daily-email-strategy"
+        - "email-copywriting"
+        - "personal-branding"
+      peso: 0.80
+      quando_usar: "Daily email marketing for revenue, email sales sequences, list building and monetization, personality-driven email conversion, subscriber relationship optimization"
+      justificativa: "Ben Settle is THE daily email marketing expert — 291 elements from Email Players Newsletter + Email Client Machine. His email monetization systems drive recurring revenue from existing lists, complementing CRO's pipeline optimization focus."
+      added: "2026-03-25"
+      fontes_incluidas:
+        - "Email Players Newsletter (73+ issues, 291 elements — daily email strategy, email copywriting, sales psychology, product launch, list building)"
+        - "Email Client Machine (4 files — email client acquisition system)"
+
 # ═══════════════════════════════════════════════════════════════════════════════
 # PROTOCOLO DE RACIOCINIO
 # ═══════════════════════════════════════════════════════════════════════════════
@@ -1298,5 +1322,5 @@ regras_especificas:
 #
 # ═══════════════════════════════════════════════════════════════════════════════
 
-# Fim do DNA-CONFIG.yaml v31.0.0
+# Fim do DNA-CONFIG.yaml v33.0.0
 # Integrado com AGENT-COGNITION-PROTOCOL (FASE 1.5) e AGENT-INTEGRITY-PROTOCOL

@@ -24,7 +24,14 @@
 # ═══════════════════════════════════════════════════════════════════════════════
 
 cargo: "CMO"
-versao: "31.0.0"
+versao: "33.0.0"
+# v33.0.0 (2026-03-25): Cat Howell added (peso 0.80, 253 elements) — Facebook Ads mastery, RFT testing method, agency marketing
+#                      - Domains: facebook-ads, creative-testing, funnels, lead-gen, ecom, agency-building, scaling
+#                      - Key frameworks: RFT 3-round, TOF-MOF-BOF, Retargeting Stacks, 4 eCom Funnel Types, 6-Step Copy, Q4 Four-Phase
+#                      - Heuristics: 1% cold CTR, 50 conv/week, 16-20% scaling, 200K horizontal, 30% eCom CPA, 3x ROAS
+# v32.0.0 (2026-03-25): Ben Settle added (peso 0.85, 291 elements) — daily email marketing, email copywriting, personal branding
+#                      - Domains: email-marketing, daily-email-strategy, email-copywriting, personal-branding
+#                      - Key frameworks: 24-Point Cheat Sheet, Double Tap System, Disney Villain Model, personality-driven email, ugly-sells philosophy
 # v31.0.0 (2026-03-24): Stefan Georgi updated 40→80 elements (+40 from RMBC Method, RMBC II, Profit Fix Formula)
 #                      - New SG domains: conversion-optimization, funnel-architecture, AI-copywriting, advertorials, email-sequences
 #                      - New SG frameworks: 15 Funnel Factors, Advertorial Framework, 6 Power Emails, Claude VSL Projects, Landing Page Checklist
@@ -1355,6 +1362,23 @@ dna_sources:
       peso: 0.85
       quando_usar: "Email marketing strategy, offer positioning for cold traffic, scaling paid acquisition with email monetization, big idea marketing campaigns"
       added: "2026-03-24"
+
+    - pessoa: "ben-settle"
+      path: "/knowledge/external/dna/persons/ben-settle"
+      raiz: "/knowledge/external/sources/ben-settle/raw/"
+      total_elementos: 291
+      dominios_usados:
+        - "email-marketing"
+        - "daily-email-strategy"
+        - "email-copywriting"
+        - "personal-branding"
+      peso: 0.85
+      quando_usar: "Daily email marketing strategy, email-driven brand building, personality-driven marketing, subscriber engagement and monetization, email list strategy, ugly-sells philosophy for authentic marketing"
+      justificativa: "Ben Settle is THE daily email marketing expert — 291 elements from Email Players Newsletter + Email Client Machine. His personality-driven email philosophy and daily sending methodology are core CMO email strategy. 24-Point Cheat Sheet, Double Tap System, Disney Villain Model directly inform email marketing campaigns."
+      added: "2026-03-25"
+      fontes_incluidas:
+        - "Email Players Newsletter (73+ issues, 291 elements — daily email strategy, email copywriting, sales psychology, product launch, list building)"
+        - "Email Client Machine (4 files — email client acquisition system)"
 
 # ═══════════════════════════════════════════════════════════════════════════════
 # MAPA DE CONFLITOS

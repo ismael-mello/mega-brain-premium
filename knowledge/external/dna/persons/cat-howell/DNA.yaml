@@ -1,0 +1,1479 @@
+# DNA.yaml - Cat Howell
+# Facebook Ads Expert, Agency Builder, Founder of Eight Loop Social
+#
+# Versão: 1.0.0
+# Criado: 2026-03-25
+# Total elementos: 253 (após dedup de 271 brutos)
+# Fontes: FATC 3.0 (466 files) + FB Ads Academy (363 files) + Incubator 2.0 (68 files)
+# Extração: 3 agents Opus em paralelo
+#
+# ID FORMAT: {LAYER}-CH-{NNN}
+#   FIL = Philosophy, MM = Mental Model, HEUR = Heuristic
+#   FW = Framework, MET = Methodology
+#   CH = Cat Howell
+#
+# ═══════════════════════════════════════════════════════════════════════════════
+
+pessoa: "Cat Howell"
+slug: "cat-howell"
+versao: "1.0.0"
+total_elementos: 253
+
+layers:
+
+  # ═════════════════════════════════════════════════════════════════════════════
+  # L1 PHILOSOPHIES — Core beliefs and worldview
+  # Total: 44 | Next ID: FIL-CH-045
+  # ═════════════════════════════════════════════════════════════════════════════
+
+  L1_PHILOSOPHIES:
+
+    # --- FATC 3.0 (FIL-CH-001 to FIL-CH-017) ---
+
+    - id: "FIL-CH-001"
+      name: "Data Over Feelings"
+      description: "Never make decisions based on gut feelings — always look at what the data is telling you. The data will always tell you blatantly what's wrong."
+      source: "FATC"
+      domains: ["facebook-ads", "optimization"]
+
+    - id: "FIL-CH-002"
+      name: "Facebook Is An Auction"
+      description: "Facebook ads is fundamentally an auction process with billions of auctions daily. You compete against millions of advertisers for attention in the news feed."
+      source: "FATC"
+      domains: ["facebook-ads"]
+
+    - id: "FIL-CH-003"
+      name: "User Experience Is Facebook's #1 Priority"
+      description: "Facebook's primary goal is protecting user experience. High-quality, relevant ads will be rewarded; poor quality will be penalized regardless of budget. Even Coca-Cola can lose auctions to small advertisers with better relevance."
+      source: "FATC"
+      domains: ["facebook-ads", "algorithm"]
+
+    - id: "FIL-CH-004"
+      name: "Don't Sell Shit Through Good Copywriting"
+      description: "Great copy cannot save a bad offer or product. The offer must be fundamentally sound before you invest in marketing it."
+      source: "FATC"
+      domains: ["copywriting", "offers"]
+
+    - id: "FIL-CH-005"
+      name: "Match Problems Not People"
+      description: "Products match problems, not demographics. A 25-year-old in New York isn't buying a CRM because of their age — they're buying it because they have a specific problem to solve."
+      source: "FATC"
+      domains: ["copywriting", "audience-targeting"]
+
+    - id: "FIL-CH-006"
+      name: "Personas Deserve Different Funnels"
+      description: "Different personas have different wants, desires, and pain points — they deserve different funnels and messaging even if leading to the same sales page."
+      source: "FATC"
+      domains: ["funnels", "audience-targeting"]
+
+    - id: "FIL-CH-007"
+      name: "Minimum Viable Funnel First"
+      description: "Always start with the minimum viable funnel regardless of price point. If it works, you saved time/money. If not, you have data to build upon."
+      source: "FATC"
+      domains: ["funnels", "ecom"]
+
+    - id: "FIL-CH-008"
+      name: "Emotional Over Rational"
+      description: "Tapping into the emotional side of a problem is far more powerful than the rational side. Someone buying email marketing software doesn't care about click-through rates — they're stressed about losing their business."
+      source: "FATC"
+      domains: ["copywriting", "psychology"]
+
+    - id: "FIL-CH-009"
+      name: "Email Addresses Are Top Currency"
+      description: "If you're not collecting email addresses, you're wasting massive resources. Email addresses are top currency in funnels — you're leaving so much money on the table."
+      source: "FATC"
+      domains: ["lead-gen", "funnels"]
+
+    - id: "FIL-CH-010"
+      name: "Proactive Client Protection"
+      description: "Set expectations with clients upfront about potential website/funnel issues before they blame you. Audit before onboarding, not after problems arise."
+      source: "FATC"
+      domains: ["agency", "client-management"]
+
+    - id: "FIL-CH-011"
+      name: "Test Before You Build"
+      description: "Don't build elaborate funnels before validating that the persona/offer/hook will work. Rapid fire testing saves thousands of dollars and weeks of wasted effort."
+      source: "FATC"
+      domains: ["testing", "funnels"]
+
+    - id: "FIL-CH-012"
+      name: "Creative Is The New Targeting"
+      description: "With Facebook's algorithm getting better at targeting, audiences are no longer the biggest barrier to growth — creatives and offer angles are."
+      source: "FATC"
+      domains: ["creative-testing", "scaling"]
+
+    - id: "FIL-CH-013"
+      name: "Conversion Rate Is Your Responsibility"
+      description: "As a Facebook marketer, the landing page conversion rate directly impacts your ad performance. Facebook penalizes you for low conversion rates by showing your ads to lower quality audiences."
+      source: "FATC"
+      domains: ["optimization", "funnels"]
+
+    - id: "FIL-CH-014"
+      name: "Losing The Scent Kills Conversions"
+      description: "When there's a disconnect between what the ad says and what the landing page shows, you lose the scent and conversion rates plummet. Consistency from ad to landing page is critical."
+      source: "FATC"
+      domains: ["funnels", "copywriting"]
+
+    - id: "FIL-CH-015"
+      name: "Don't Be Lazy With Research"
+      description: "Most marketers assume they know how their audience talks about problems. Mining Amazon reviews, Quora, Reddit, and client surveys for the exact language your audience uses is what separates good from great copy."
+      source: "FATC"
+      domains: ["copywriting", "research"]
+
+    - id: "FIL-CH-016"
+      name: "Referral Traffic Is Not Facebook Traffic"
+      description: "Clients used to referral-based traffic (90% close rate) will get a shock with Facebook cold traffic (5-10% close rate). This expectation gap must be managed from day one."
+      source: "FATC"
+      domains: ["lead-gen", "client-management"]
+
+    - id: "FIL-CH-017"
+      name: "Q4 Gardening Philosophy"
+      description: "In Q4/holiday season, you have 3 gardens to tend: Business Manager, Website, and Business Operations. Neglecting any one will undermine your campaigns."
+      source: "FATC"
+      domains: ["ecom", "seasonal"]
+
+    # --- FB Ads Academy unique (FIL-CH-018 to FIL-CH-027) ---
+
+    - id: "FIL-CH-018"
+      name: "Mindset Is The Only Differentiator"
+      description: "The only difference between 10K and 80K a month honestly is that mindset. Mindset determines whether tools, blueprints, and funnels actually produce results."
+      source: "FBAA"
+      domains: ["agency-building", "mindset"]
+
+    - id: "FIL-CH-019"
+      name: "Value Is Belief-Based"
+      description: "The only thing that matters when it comes to pricing is how big is the problem that you solve and what do you believe it's worth? Pricing is a function of self-belief, not market rates."
+      source: "FBAA"
+      domains: ["pricing", "mindset"]
+
+    - id: "FIL-CH-020"
+      name: "People Are Your Only Asset"
+      description: "As an agency, your only asset is your people. You don't really have any assets aside from a couple laptops. Agency value is entirely in human capital."
+      source: "FBAA"
+      domains: ["agency-building"]
+
+    - id: "FIL-CH-021"
+      name: "Never Promise Results"
+      description: "Never ever promise results to a client. You don't own Facebook. The only person that could do that would be Mark Zuckerberg. Integrity requires honest expectation-setting."
+      source: "FBAA"
+      domains: ["client-management", "pricing"]
+
+    - id: "FIL-CH-022"
+      name: "No Refunds Policy"
+      description: "Do not give refunds. Put this in your contract. If a client is committing to a certain amount of time and you have set the right expectations, they shouldn't be allowed to bail out."
+      source: "FBAA"
+      domains: ["client-management", "contracts"]
+
+    - id: "FIL-CH-023"
+      name: "Don't Take Clients For Money"
+      description: "Do not take on clients just because you need the money. I guarantee you 1000% that will always backfire on you. Only onboard clients that are a right fit."
+      source: "FBAA"
+      domains: ["client-acquisition", "auditing"]
+
+    - id: "FIL-CH-024"
+      name: "Competence Before Clients"
+      description: "Academy structured in 4 locked levels requiring competency tests because students were landing clients without knowing what a pixel was. The whole thing felt really out of integrity."
+      source: "FBAA"
+      domains: ["agency-building", "training"]
+
+    - id: "FIL-CH-025"
+      name: "Niche Expertise Over Breadth"
+      description: "Specializing in verticals reduces learning curves, builds leverage through case studies, and enables premium pricing. Learning curves cost money and they cost time."
+      source: "FBAA"
+      domains: ["agency-building", "niches"]
+
+    - id: "FIL-CH-026"
+      name: "Protect Your Profit Margin"
+      description: "It is not okay that you take all the money out of your business. You need to make sure you have a profit margin of 20 to 30%. Profit margin enables reinvestment and survival."
+      source: "FBAA"
+      domains: ["agency-building", "finance"]
+
+    - id: "FIL-CH-027"
+      name: "Algorithm Is 70% Of Success"
+      description: "Being really good in Facebook marketing is about 30% down to skills and knowledge and 70% letting the algorithm do its thing. Understanding the algorithm matters more than manual optimization."
+      source: "FBAA"
+      domains: ["facebook-ads", "algorithm"]
+
+    # --- Incubator 2.0 (FIL-CH-028 to FIL-CH-044) ---
+
+    - id: "FIL-CH-028"
+      name: "Niche First, Expand Later"
+      description: "Niching is a short-term strategy to get momentum. You pick one niche, process it, lock it down, then expand. You are not restricted forever — you just start focused to spin the windmill."
+      source: "INC2"
+      domains: ["agency-positioning", "specialization"]
+
+    - id: "FIL-CH-029"
+      name: "People Buy From People"
+      description: "People buy from people, not products or feature-based solutions. Your brand story must connect to your specific audience so you attract clients you actually want to work with."
+      source: "INC2"
+      domains: ["branding", "client-attraction"]
+
+    - id: "FIL-CH-030"
+      name: "Hate Your Clients Hate Your Business"
+      description: "If you hate the people you work with, you'll hate your business and sabotage the whole thing. Client selection is foundational, not optional."
+      source: "INC2"
+      domains: ["client-management", "agency-positioning"]
+
+    - id: "FIL-CH-031"
+      name: "Outcome Over Hours"
+      description: "Stop selling your time. Clients pay for outcomes, not hours. Position yourself as someone who solves outcomes vs just someone selling time — this is how you scale."
+      source: "INC2"
+      domains: ["premium-pricing", "agency-scaling"]
+
+    - id: "FIL-CH-032"
+      name: "Service Document Is The Heart of Business"
+      description: "Your pricing document/service document IS your business. It determines positioning, pricing, margins, team structure, contracts, and everything downstream."
+      source: "INC2"
+      domains: ["pricing", "operations"]
+
+    - id: "FIL-CH-033"
+      name: "Process Before Scale"
+      description: "You cannot scale what you haven't processed. If you can't write a step-by-step of your service, you cannot hire people, cannot step away from implementation, and cannot build a real business."
+      source: "INC2"
+      domains: ["agency-scaling", "operations"]
+
+    - id: "FIL-CH-034"
+      name: "Start With Competence Not Trends"
+      description: "Start with what you're actually strong at, not the shiny new thing. Selling services you don't know how to deliver creates friction in sales, poor delivery, and crushed confidence."
+      source: "INC2"
+      domains: ["specialization", "service-design"]
+
+    - id: "FIL-CH-035"
+      name: "Case Studies Are Worth Millions"
+      description: "A good case study, properly leveraged, can be worth $50,000+ to your business. It's the most powerful asset you can build for sales, authority, and prospecting."
+      source: "INC2"
+      domains: ["sales", "authority-building"]
+
+    - id: "FIL-CH-036"
+      name: "Balance Sales Marketing Operations"
+      description: "If you're strong at lead gen but suck at delivery, it blows up. If you're strong at implementation but can't get clients, you go bust. Every business needs balance between these three."
+      source: "INC2"
+      domains: ["agency-scaling", "operations"]
+
+    - id: "FIL-CH-037"
+      name: "Your Services Are Digital — World Is Your Oyster"
+      description: "Don't limit yourself to your local market. Your digital services can be sold globally. This single realization can multiply your addressable market by 100x."
+      source: "INC2"
+      domains: ["agency-scaling", "prospecting"]
+
+    - id: "FIL-CH-038"
+      name: "Never Stop Working Your Pipeline"
+      description: "The moment you take your foot off the gas on lead generation, it takes 2x as long to recover. Your fear of losing a client is really a fear that your pipeline isn't big enough."
+      source: "INC2"
+      domains: ["prospecting", "agency-scaling"]
+
+    - id: "FIL-CH-039"
+      name: "Reciprocity Drives Referrals"
+      description: "By offering high-value services for free to strategic partners, reciprocity naturally compels them to send referrals. You don't even need to ask — they'll feel indebted."
+      source: "INC2"
+      domains: ["prospecting", "relationship-building"]
+
+    - id: "FIL-CH-040"
+      name: "Don't Compare Your Beginning to Someone's Middle"
+      description: "Comparing yourself to other agencies kills momentum. You can't compare apples to oranges — stay focused on your own path and drown out the noise."
+      source: "INC2"
+      domains: ["mindset", "agency-scaling"]
+
+    - id: "FIL-CH-041"
+      name: "Describing Problem Beats Having Credentials"
+      description: "If you can describe a prospect's problem in 5G high definition — so accurately they feel understood — they'll assume you have the solution, even without traditional credentials."
+      source: "INC2"
+      domains: ["sales", "positioning"]
+
+    - id: "FIL-CH-042"
+      name: "LinkedIn Is Relationship Not Lead Generation"
+      description: "Treat LinkedIn prospecting as a relationship-based pursuit, not a spam channel. Seeds planted today come back months later. Being pushy alienates more prospects than it converts."
+      source: "INC2"
+      domains: ["prospecting", "linkedin"]
+
+    - id: "FIL-CH-043"
+      name: "Never Guarantee Outcomes"
+      description: "Regardless of client size — even for brands spending hundreds of thousands — never guarantee outcomes. You don't own the platform. Set super realistic expectations."
+      source: "INC2"
+      domains: ["client-management", "sales"]
+
+    - id: "FIL-CH-044"
+      name: "One Part Suffers All Suffer"
+      description: "Don't build a business at the cost of your personal life, relationships, or health. If one part suffers, every part will suffer. You'll self-sabotage."
+      source: "INC2"
+      domains: ["mindset", "agency-scaling"]
+
+  # ═════════════════════════════════════════════════════════════════════════════
+  # L2 MENTAL MODELS — Thinking and decision frameworks
+  # Total: 34 | Next ID: MM-CH-035
+  # ═════════════════════════════════════════════════════════════════════════════
+
+  L2_MENTAL_MODELS:
+
+    # --- FATC 3.0 (MM-CH-001 to MM-CH-014) ---
+
+    - id: "MM-CH-001"
+      name: "BEAR Algorithm Model"
+      description: "The Facebook algorithm is driven by Bidding, Expected Actions, and Relevance/Quality. Understanding how each contributes to the auction helps you diagnose and fix campaign problems."
+      source: "FATC"
+      domains: ["algorithm", "facebook-ads"]
+
+    - id: "MM-CH-002"
+      name: "Problem-Solution-Product Sequence"
+      description: "Copy should follow the sequence: identify the problem (emotional), present the solution, then introduce the product. Starting with the product means you miss people who don't yet know they need it."
+      source: "FATC"
+      domains: ["copywriting", "funnels"]
+
+    - id: "MM-CH-003"
+      name: "Three-Level Awareness Model"
+      description: "Audiences exist at three levels: Problem Awareness (know the pain), Solution Awareness (considering options), Product Awareness (know your product). Map funnel stages to these levels."
+      source: "FATC"
+      domains: ["copywriting", "funnels"]
+
+    - id: "MM-CH-004"
+      name: "Funnel As Temperature Gradient"
+      description: "Cold audience (never heard of you) -> Warm (interacted with ad/content) -> Hot (visited sales page/added to cart). Each temperature requires different messaging, hooks, and urgency."
+      source: "FATC"
+      domains: ["funnels", "retargeting"]
+
+    - id: "MM-CH-005"
+      name: "OCPM vs CPM Decision Framework"
+      description: "OCPM is like Google Search — targets people likely to convert. CPM is like Google Display — blanket marketing for reach. Switch between them based on CTR and conversion rate performance."
+      source: "FATC"
+      domains: ["optimization", "bidding"]
+
+    - id: "MM-CH-006"
+      name: "Bottleneck Diagnosis Model"
+      description: "When a funnel underperforms, work through each step systematically: check conversion rate, CTR, CPC, targeting quality. Fix one variable at a time. If all check out, extend the funnel."
+      source: "FATC"
+      domains: ["optimization", "funnels"]
+
+    - id: "MM-CH-007"
+      name: "Data Tells You Where The Problem Is"
+      description: "Facebook data reveals: low CTR = creative problem; high CTR but low conversion = landing page problem; good stats but high CPA = audience problem."
+      source: "FATC"
+      domains: ["optimization", "analytics"]
+
+    - id: "MM-CH-008"
+      name: "Price Point Determines Funnel Length"
+      description: "More expensive products require longer funnels with more warmup. Under $50 = minimum viable funnel. $50-$2000 = lead magnet funnel. Over $2000 = sales call funnel."
+      source: "FATC"
+      domains: ["funnels", "ecom"]
+
+    - id: "MM-CH-009"
+      name: "Lead Goggles Model"
+      description: "When auditing client assets, remove everything you know and look at the site/ads through fresh eyes as a brand new lead. What do I think they sell? is the fundamental question."
+      source: "FATC"
+      domains: ["agency", "audit"]
+
+    - id: "MM-CH-010"
+      name: "Q4 Four-Phase Model"
+      description: "Q4 eCommerce strategy follows 4 phases: Phase 1 (Prep/Q3), Phase 2 (Build Momentum/Sept-mid Nov), Phase 3 (Maximize Sales/mid Nov-Dec 20), Phase 4 (Post-Holiday/January)."
+      source: "FATC"
+      domains: ["ecom", "seasonal"]
+
+    - id: "MM-CH-011"
+      name: "Direct vs Indirect Copywriting"
+      description: "Direct copy speaks explicitly about the problem/solution/product. Indirect copy uses storytelling to place the reader in a contextual scenario. Test both against each persona."
+      source: "FATC"
+      domains: ["copywriting"]
+
+    - id: "MM-CH-012"
+      name: "Visual-Headline-Copy Consumption Order"
+      description: "Users see the image/video FIRST, then the headline, then the copy. Creative stops the scroll, headline creates curiosity, copy does the selling. This informs testing priority."
+      source: "FATC"
+      domains: ["creative-testing", "copywriting"]
+
+    - id: "MM-CH-013"
+      name: "Horizontal vs Vertical Scaling Model"
+      description: "Vertical = safe, slow, increase budget 16-20% every 2-3 days on winning ad sets. Horizontal = fast, risky, duplicate winning ad sets with variable changes. Use vertical when CPA sensitivity is high."
+      source: "FATC"
+      domains: ["scaling"]
+
+    - id: "MM-CH-014"
+      name: "TOF-MOF-BOF Campaign Organization"
+      description: "Organize campaigns by funnel stage: Top of Funnel (awareness), Middle of Funnel (consideration/retargeting), Bottom of Funnel (conversion/direct response). Ad sets go within campaigns."
+      source: "FATC"
+      domains: ["campaign-structure", "facebook-ads"]
+
+    # --- FB Ads Academy unique (MM-CH-015 to MM-CH-022) ---
+
+    - id: "MM-CH-015"
+      name: "Four Bottleneck Model"
+      description: "Agency scaling encounters 4 sequential bottlenecks: (1) Lead Generation, (2) Sales/Closing, (3) Delivery/HR (hardest), (4) Scaling/Systemization."
+      source: "FBAA"
+      domains: ["agency-building"]
+
+    - id: "MM-CH-016"
+      name: "Owned vs Leased Funnels"
+      description: "Two types: Owned (client keeps all assets) and Leased (agency owns assets, client leases access). Leased funnels lock clients into long-term contracts and attract investors."
+      source: "FBAA"
+      domains: ["pricing", "funnels"]
+
+    - id: "MM-CH-017"
+      name: "Two-Call Close Framework"
+      description: "Cold leads require a two-call process: Call 1 = discovery + rapport + request BM access; Call 2 = audit findings + pitch. Single-call closes only work for warm/referral leads."
+      source: "FBAA"
+      domains: ["client-acquisition", "sales"]
+
+    - id: "MM-CH-018"
+      name: "Working Backwards Model"
+      description: "Calculate required ad spend by working backwards from desired conversions through funnel steps using conversion rates at each stage."
+      source: "FBAA"
+      domains: ["auditing", "ad-spend"]
+
+    - id: "MM-CH-019"
+      name: "Problem-Agitate-Solve Copy Framework"
+      description: "Map out: Awesome (desired outcomes), Bad (pain points), Without/Even If (misconceptions/objections). Research via Amazon, YouTube, and direct customer surveys."
+      source: "FBAA"
+      domains: ["copywriting", "client-acquisition"]
+
+    - id: "MM-CH-020"
+      name: "Vertical Lock-In Strategy"
+      description: "Build expertise in one vertical first, train team, build case studies, then add a second vertical. Never jump to a new niche before mastering the current one."
+      source: "FBAA"
+      domains: ["agency-building", "niches"]
+
+    - id: "MM-CH-021"
+      name: "BM Access = Trust Accelerator"
+      description: "Requesting Business Manager access as analyst on first call doubles close rates. It's a small yes that builds trust — they're handing you the keys to their house."
+      source: "FBAA"
+      domains: ["sales", "client-acquisition"]
+
+    - id: "MM-CH-022"
+      name: "Referral Incentive Flywheel"
+      description: "Offer $1,200 off monthly invoice or 20% per referred client with 3-month sunset clause. Minimum invoice threshold ($3-5K) prevents low-value referrals."
+      source: "FBAA"
+      domains: ["client-acquisition", "retention"]
+
+    # --- Incubator 2.0 (MM-CH-023 to MM-CH-034) ---
+
+    - id: "MM-CH-023"
+      name: "The Windmill Model"
+      description: "Getting initial business momentum is like spinning a windmill — hardest at the start. Every strategy should reduce friction to make the first spin easier. Once moving, momentum compounds."
+      source: "INC2"
+      domains: ["agency-scaling", "mindset"]
+
+    - id: "MM-CH-024"
+      name: "Niche = Marketing Funnel for Processed Service"
+      description: "A niche is NOT a restriction. It's a marketing funnel to sell a processed service. Two parts: (1) the specific service/process, and (2) the avatar/industry it serves."
+      source: "INC2"
+      domains: ["agency-positioning", "specialization"]
+
+    - id: "MM-CH-025"
+      name: "Features-Outcomes-Problems-CoreSolution-Pitch"
+      description: "The messaging cascade: list service features, identify outcomes, determine problems solved, synthesize core solution, then craft the pitch."
+      source: "INC2"
+      domains: ["messaging", "positioning"]
+
+    - id: "MM-CH-026"
+      name: "Three A's of Content"
+      description: "Content should rotate through three pillars: Affinity (behind the scenes, humor), Awareness (tips, core solution messaging), Authority (case studies, testimonials)."
+      source: "INC2"
+      domains: ["content-marketing", "branding"]
+
+    - id: "MM-CH-027"
+      name: "Freelancer-Agency-Course Progression"
+      description: "Stage 1: Process your service and sell. Stage 2: Build production team, refine. Stage 3: Sell the process as an online course. Each stage builds on the previous."
+      source: "INC2"
+      domains: ["agency-scaling", "business-model"]
+
+    - id: "MM-CH-028"
+      name: "Dream 100 Pipeline"
+      description: "Write down 100 ideal clients/brands you want to work with. This is your targeting foundation. Without a clear target list, prospecting efforts have no direction."
+      source: "INC2"
+      domains: ["prospecting", "strategy"]
+
+    - id: "MM-CH-029"
+      name: "Internal Hourly Rate Model"
+      description: "Calculate true internal cost: time per service x cost per person. Then divide by target COGS margin (e.g., 25%) to get the client price. This protects margins and enables scaling."
+      source: "INC2"
+      domains: ["pricing", "operations"]
+
+    - id: "MM-CH-030"
+      name: "Homeless Doctor Analogy"
+      description: "A homeless man who accurately describes your exact symptoms earns more trust than credentialed doctors who dismiss you. Specificity of problem description trumps credentials."
+      source: "INC2"
+      domains: ["sales", "positioning"]
+
+    - id: "MM-CH-031"
+      name: "Know-Like-Trust Sequence"
+      description: "Before anyone buys, they need to know, like, and trust you. Branding, content, and positioning are all engineered to move prospects through this sequence."
+      source: "INC2"
+      domains: ["branding", "sales"]
+
+    - id: "MM-CH-032"
+      name: "Prospecting Methods Match Personality"
+      description: "Not all prospecting strategies work for all personalities. Cold calling might work for extroverts but fail for introverts. Choose strategies that leverage YOUR strengths."
+      source: "INC2"
+      domains: ["prospecting", "strategy"]
+
+    - id: "MM-CH-033"
+      name: "Category-Based Business"
+      description: "As you mature, you become a category-based business: everything revolves around one avatar, and you expand service SKUs within that category. Reduces trust-building overhead."
+      source: "INC2"
+      domains: ["agency-scaling", "positioning"]
+
+    - id: "MM-CH-034"
+      name: "Levels of Awareness (Schwartz Applied)"
+      description: "Prospects exist at different awareness levels: problem-aware, solution-aware, product-aware. Funnel messaging must match where they are. Reference: Breakthrough Advertising by Eugene Schwartz."
+      source: "INC2"
+      domains: ["funnel-building", "messaging"]
+
+  # ═════════════════════════════════════════════════════════════════════════════
+  # L3 HEURISTICS — Rules of thumb and numerical guidelines
+  # Total: 80 | Next ID: HEUR-CH-081
+  # ═════════════════════════════════════════════════════════════════════════════
+
+  L3_HEURISTICS:
+
+    # --- FATC 3.0 (HEUR-CH-001 to HEUR-CH-041) ---
+
+    - id: "HEUR-CH-001"
+      name: "$200-$500 RFT Budget"
+      description: "Rapid fire testing can be done effectively with $200-$500 total spend. Minimum $200 to avoid too many assumptions."
+      source: "FATC"
+      domains: ["testing", "budget"]
+
+    - id: "HEUR-CH-002"
+      name: "$20/Day Starting Budget"
+      description: "Start campaigns at around $20/day for rapid fire testing rounds."
+      source: "FATC"
+      domains: ["testing", "budget"]
+
+    - id: "HEUR-CH-003"
+      name: "3-4 Days Per RFT Round"
+      description: "Each round of rapid fire testing should run for approximately 3-4 days before analyzing data."
+      source: "FATC"
+      domains: ["testing"]
+
+    - id: "HEUR-CH-004"
+      name: "20% Minimum Landing Page Conversion"
+      description: "Free opt-in/webinar landing pages should convert at minimum 20%. Below that indicates a problem."
+      source: "FATC"
+      domains: ["funnels", "lead-gen"]
+
+    - id: "HEUR-CH-005"
+      name: "2-3% Ecom Website Conversion Rate"
+      description: "E-commerce websites typically convert between 2-3%. Industry standard benchmark."
+      source: "FATC"
+      domains: ["ecom"]
+
+    - id: "HEUR-CH-006"
+      name: "4-5% Quote Request Conversion"
+      description: "Landing pages driving quote requests (lawyers, builders) typically convert at 4-5%."
+      source: "FATC"
+      domains: ["lead-gen"]
+
+    - id: "HEUR-CH-007"
+      name: "5-10% Lead Gen Close Rate"
+      description: "Cold traffic from Facebook in lead gen typically closes at 5-10%. Much lower than the 90% close rate from referrals. Use 5% for projections."
+      source: "FATC"
+      domains: ["lead-gen"]
+
+    - id: "HEUR-CH-008"
+      name: "20% Sales Call Conversion Rate"
+      description: "High-ticket coaching funnels typically convert sales calls at about 20%. Use 15% for conservative estimates."
+      source: "FATC"
+      domains: ["coaching", "lead-gen"]
+
+    - id: "HEUR-CH-009"
+      name: "30% No-Show Rate"
+      description: "Approximately 30% of booked strategy/sales calls will not show up or cancel."
+      source: "FATC"
+      domains: ["coaching", "lead-gen"]
+
+    - id: "HEUR-CH-010"
+      name: "1% CTR Cold Audience Minimum"
+      description: "Cold audience ads should achieve at minimum 1% link click-through rate. Below 1% = creative or targeting issue."
+      source: "FATC"
+      domains: ["facebook-ads", "optimization"]
+
+    - id: "HEUR-CH-011"
+      name: "2-3% CTR Retargeting Minimum"
+      description: "Retargeting/warm audience ads should achieve 2-3% click-through rate."
+      source: "FATC"
+      domains: ["retargeting", "optimization"]
+
+    - id: "HEUR-CH-012"
+      name: "$2 Average CPC Benchmark"
+      description: "Average cost per click on Facebook is approximately $2 for most audiences."
+      source: "FATC"
+      domains: ["facebook-ads", "budget"]
+
+    - id: "HEUR-CH-013"
+      name: "$5-$15 Webinar Registration Cost"
+      description: "Webinar registrations for business/life coaches typically cost $5-$15. Only love and weight loss niches consistently get $2."
+      source: "FATC"
+      domains: ["coaching", "lead-gen"]
+
+    - id: "HEUR-CH-014"
+      name: "68% Cart Abandonment Rate"
+      description: "The average e-commerce cart abandonment rate is 68%. Higher = checkout UX problem."
+      source: "FATC"
+      domains: ["ecom"]
+
+    - id: "HEUR-CH-015"
+      name: "30% Max CPA for Ecom"
+      description: "Target CPA for e-commerce should be approximately 30% of AOV. $100 AOV = $30 target CPA."
+      source: "FATC"
+      domains: ["ecom", "budget"]
+
+    - id: "HEUR-CH-016"
+      name: "50 Conversions Per Ad Set Per Week"
+      description: "Facebook wants approximately 50 conversions per ad set per week for optimal optimization. If not, optimize for higher-funnel event."
+      source: "FATC"
+      domains: ["optimization", "algorithm"]
+
+    - id: "HEUR-CH-017"
+      name: "Don't Kill Ads Under 500 Reach"
+      description: "Never kill an ad until it has reached at least 500 people, when Facebook assigns a relevance score."
+      source: "FATC"
+      domains: ["optimization"]
+
+    - id: "HEUR-CH-018"
+      name: "Don't Kill Ad Sets Under 1000-2000 Impressions"
+      description: "Allow ad sets at least 1,000-2,000 impressions before making optimization decisions."
+      source: "FATC"
+      domains: ["optimization"]
+
+    - id: "HEUR-CH-019"
+      name: "5000 Impressions for Valid Stats"
+      description: "Don't call a stat good or bad unless you have at least 5,000 impressions."
+      source: "FATC"
+      domains: ["optimization", "analytics"]
+
+    - id: "HEUR-CH-020"
+      name: "5000 Reach Before Turning Off"
+      description: "Typically don't turn off campaigns until they've reached 5,000 people — that's when Facebook has optimized itself."
+      source: "FATC"
+      domains: ["optimization"]
+
+    - id: "HEUR-CH-021"
+      name: "5-Second Page Load Maximum"
+      description: "Website should load within 5 seconds maximum. Each additional second dramatically increases bounce rate."
+      source: "FATC"
+      domains: ["ecom", "funnels"]
+
+    - id: "HEUR-CH-022"
+      name: "$150 Per Booked Call Conservative"
+      description: "Conservative estimate for cost per booked strategy call in coaching niche is approximately $150."
+      source: "FATC"
+      domains: ["coaching", "budget"]
+
+    - id: "HEUR-CH-023"
+      name: "Over $2000 = Sales Call Required"
+      description: "Any offer priced over $2,000 should lead to a sales call, not direct online purchase."
+      source: "FATC"
+      domains: ["coaching", "funnels"]
+
+    - id: "HEUR-CH-024"
+      name: "16-20% Budget Increase for Vertical Scaling"
+      description: "When vertical scaling, increase daily budget by 16-20% every 2-3 days. Safe way to scale without disrupting CPA."
+      source: "FATC"
+      domains: ["scaling"]
+
+    - id: "HEUR-CH-025"
+      name: "200K Minimum Audience for Horizontal Scaling"
+      description: "Horizontal scaling (duplicating ad sets) requires audience size of at least 200K. Below that = de-duping issues."
+      source: "FATC"
+      domains: ["scaling"]
+
+    - id: "HEUR-CH-026"
+      name: "Under $50 Products Need Short Funnels"
+      description: "Products under $50 are very hard to profit from with Facebook ads unless high LTV. Stick to minimum viable funnel."
+      source: "FATC"
+      domains: ["ecom", "funnels"]
+
+    - id: "HEUR-CH-027"
+      name: "Minimum 500 Reach Per Ad in RFT"
+      description: "In rapid fire testing round 2, ensure each ad reaches at least 500 people before pausing."
+      source: "FATC"
+      domains: ["testing"]
+
+    - id: "HEUR-CH-028"
+      name: "10-Second Video View Retargeting Threshold"
+      description: "For retargeting video viewers, use 10-second view threshold for videos over 1 minute. Use 50% view for videos under 30 seconds."
+      source: "FATC"
+      domains: ["retargeting"]
+
+    - id: "HEUR-CH-029"
+      name: "Small Audiences Under 10K = Traffic Objective"
+      description: "For retargeting audiences under 10,000, use traffic or engagement campaigns, not conversion. OCPM is overkill for tiny audiences."
+      source: "FATC"
+      domains: ["retargeting", "optimization"]
+
+    - id: "HEUR-CH-030"
+      name: "50% Tracking Setup Failure Rate"
+      description: "Approximately 50% of client ad accounts you audit will NOT have tracking set up properly. Check tracking first."
+      source: "FATC"
+      domains: ["agency", "audit"]
+
+    - id: "HEUR-CH-031"
+      name: "Right-Hand Column = Low CTR Great CPM"
+      description: "Right-hand column placement delivers very low CTR but amazing CPMs. Best for brand awareness and retargeting."
+      source: "FATC"
+      domains: ["placements"]
+
+    - id: "HEUR-CH-032"
+      name: "60% Video Retention at 10 Seconds"
+      description: "For a 1-minute video, target approximately 60% retention at 10 seconds. Below 30% at 10s = steep drop-off."
+      source: "FATC"
+      domains: ["creative-testing", "video"]
+
+    - id: "HEUR-CH-033"
+      name: "3x ROAS Minimum for Ecom"
+      description: "A 3x return on ad spend is the minimum acceptable benchmark for e-commerce campaigns."
+      source: "FATC"
+      domains: ["ecom", "budget"]
+
+    - id: "HEUR-CH-034"
+      name: "6-Email Nurture Sequence"
+      description: "Standard: (1) Delivery/intro, (2) Free value, (3) Direct response, (4) Testimonial, (5) More value, (6) Scarcity/last chance."
+      source: "FATC"
+      domains: ["email-marketing", "funnels"]
+
+    - id: "HEUR-CH-035"
+      name: "Low CTR + Low CVR = Switch to CPM"
+      description: "If ads have low CTR AND low CVR, switch from OCPM to CPM to avoid campaign stalling."
+      source: "FATC"
+      domains: ["optimization", "bidding"]
+
+    - id: "HEUR-CH-036"
+      name: "Low CTR + Good CVR = Switch to Link Clicks"
+      description: "If low CTR but good CVR, switch to link click optimization to drive more cheaper clicks to the high-converting page."
+      source: "FATC"
+      domains: ["optimization", "bidding"]
+
+    - id: "HEUR-CH-037"
+      name: "High Negative Feedback = Extend Funnel"
+      description: "If high negative feedback despite testing creative and audiences, extend your funnel to warm the audience more."
+      source: "FATC"
+      domains: ["optimization", "funnels"]
+
+    - id: "HEUR-CH-038"
+      name: "Webinar to Call Booking = 5% Conversion"
+      description: "For high-ticket coaching funnels, webinar-to-booked-call conversion rate is typically around 5%."
+      source: "FATC"
+      domains: ["coaching", "funnels"]
+
+    - id: "HEUR-CH-039"
+      name: "Lower CPM Tactics"
+      description: "To lower CPM: (1) Add exclusions, (2) Build social proof on ads, (3) Split test audiences."
+      source: "FATC"
+      domains: ["optimization"]
+
+    - id: "HEUR-CH-040"
+      name: "Link Clicks Not Clicks All"
+      description: "Always analyze link clicks and link click CTR — never clicks all or CTR all. Clicks all includes likes and comments, not website visits."
+      source: "FATC"
+      domains: ["analytics"]
+
+    - id: "HEUR-CH-041"
+      name: "15+ Products = Run DPA"
+      description: "E-commerce clients with 15-20+ products should run Dynamic Product Ads for retargeting."
+      source: "FATC"
+      domains: ["ecom", "retargeting"]
+
+    # --- FB Ads Academy unique (HEUR-CH-042 to HEUR-CH-056) ---
+
+    - id: "HEUR-CH-042"
+      name: "$156/hr Minimum Rate"
+      description: "Minimum hourly rate for agency work. Eight Loop internal rate is $220-$297/hr. Below $156/hr = Upwork freelancer rates."
+      source: "FBAA"
+      domains: ["pricing"]
+
+    - id: "HEUR-CH-043"
+      name: "$3,000 Minimum Client"
+      description: "The minimum you should be charging a customer is $3,000. No more customers on $1,500 or $2,000."
+      source: "FBAA"
+      domains: ["pricing"]
+
+    - id: "HEUR-CH-044"
+      name: "20-30% Profit Margin"
+      description: "Agency should maintain 20-30% profit margin. Eight Loop operates at 30%."
+      source: "FBAA"
+      domains: ["finance", "agency-building"]
+
+    - id: "HEUR-CH-045"
+      name: "27 Hours/Month E-Commerce"
+      description: "E-commerce campaign management requires minimum 27 hours/month (onboarding 2.5h + management 8h + creation 3h + optimization 12h + reporting 1.5h)."
+      source: "FBAA"
+      domains: ["pricing", "ecom"]
+
+    - id: "HEUR-CH-046"
+      name: "20 Hours/Month Lead Gen"
+      description: "Lead gen campaign management requires approximately 20 hours/month."
+      source: "FBAA"
+      domains: ["pricing", "lead-gen"]
+
+    - id: "HEUR-CH-047"
+      name: "$10K Setup + $4.4-5.9K Retainer Coaching"
+      description: "Eight Loop package: $10K setup month one, then 3-6 month retainer at $4,400-$5,940/month."
+      source: "FBAA"
+      domains: ["pricing"]
+
+    - id: "HEUR-CH-048"
+      name: "$10K Setup + $5.5-7.4K Retainer eCom"
+      description: "Eight Loop package: $10K setup month one, then 3-6 month retainer at $5,500-$7,425/month."
+      source: "FBAA"
+      domains: ["pricing", "ecom"]
+
+    - id: "HEUR-CH-049"
+      name: "4% Landing Page Conversion"
+      description: "Your landing page should convert at around 4% in the beginning."
+      source: "FBAA"
+      domains: ["funnels", "lead-gen"]
+
+    - id: "HEUR-CH-050"
+      name: "$50-$100 Per Ad Set Testing"
+      description: "Be willing to spend $50-$100 per ad set in the beginning for testing funnels."
+      source: "FBAA"
+      domains: ["facebook-ads", "testing"]
+
+    - id: "HEUR-CH-051"
+      name: "SMS Reminders Halve No-Shows"
+      description: "Having SMS reminders halved no-show rate. Always enable 24hr + 1hr SMS reminders on booking calendars."
+      source: "FBAA"
+      domains: ["funnels", "client-acquisition"]
+
+    - id: "HEUR-CH-052"
+      name: "4-Day Max Booking Window"
+      description: "Don't let leads book out more than 4 days ahead. Longer windows increase no-show rates."
+      source: "FBAA"
+      domains: ["funnels", "client-acquisition"]
+
+    - id: "HEUR-CH-053"
+      name: "Alt Codes Increase CTR 0.5%"
+      description: "Using alt codes (stars, symbols) in ad copy increases click-through rates by approximately 0.5%."
+      source: "FBAA"
+      domains: ["facebook-ads", "creative"]
+
+    - id: "HEUR-CH-054"
+      name: "First 2 Weeks Daily Client Updates"
+      description: "First two weeks of onboarding, email client every single day with an update. Builds tolerance for later campaign fluctuations."
+      source: "FBAA"
+      domains: ["client-management", "onboarding"]
+
+    - id: "HEUR-CH-055"
+      name: "$7-50 Cost Per Agency Lead"
+      description: "Agency lead gen funnels produce leads at $7-$50 per lead depending on funnel."
+      source: "FBAA"
+      domains: ["agency-building", "lead-gen"]
+
+    - id: "HEUR-CH-056"
+      name: "10-20% Close Rate On Cold Calls"
+      description: "Agency close rate on cold leads is 10-20%. At 10% and $10/lead, cost to acquire a $5-10K client is ~$100."
+      source: "FBAA"
+      domains: ["sales", "agency-building"]
+
+    # --- Incubator 2.0 (HEUR-CH-057 to HEUR-CH-080) ---
+
+    - id: "HEUR-CH-057"
+      name: "Freelancer Hourly Rate Range $50-$160/hr"
+      description: "While freelancing, hourly rates typically vary from $50 to $160/hr."
+      source: "INC2"
+      domains: ["pricing"]
+
+    - id: "HEUR-CH-058"
+      name: "Contractor Cost Range $50-$180/hr"
+      description: "Contractors typically cost $50-$180/hr. Offshore at $20/hr but management challenges. Eight Loop pays $60/hr."
+      source: "INC2"
+      domains: ["pricing", "operations"]
+
+    - id: "HEUR-CH-059"
+      name: "Eight Loop Internal Rate $297/hr"
+      description: "Eight Loop Social operates at an internal hourly rate of $297/hr — internal benchmark for margins."
+      source: "INC2"
+      domains: ["pricing", "operations"]
+
+    - id: "HEUR-CH-060"
+      name: "Cost of Goods Target 25% of Revenue"
+      description: "Internal production cost should represent approximately 25% of client revenue. Divide internal cost by 0.25 to get target price."
+      source: "INC2"
+      domains: ["pricing", "margins"]
+
+    - id: "HEUR-CH-061"
+      name: "Discount Limit = Profit Margin"
+      description: "You can safely discount by waiving your profit margin (e.g., 5%) without losing money. Beyond that, you're eating into your business."
+      source: "INC2"
+      domains: ["pricing", "sales"]
+
+    - id: "HEUR-CH-062"
+      name: "Facebook Page Minimum 170-200 Likes"
+      description: "Get at least 170-200 likes on your Facebook page before running ads. Minimum credibility."
+      source: "INC2"
+      domains: ["content-marketing", "facebook"]
+
+    - id: "HEUR-CH-063"
+      name: "Content Marketing Budget $20/month"
+      description: "Post once per week, boost with $5 each ($20/month total). Minimum investment to prime page."
+      source: "INC2"
+      domains: ["content-marketing", "facebook"]
+
+    - id: "HEUR-CH-064"
+      name: "Rapid Fire Test Budget $50-$200"
+      description: "Spend $50-200 on ads split-testing niches/personas to validate market demand before committing."
+      source: "INC2"
+      domains: ["validation", "niche-selection"]
+
+    - id: "HEUR-CH-065"
+      name: "Loom Video Length 3-10 Minutes"
+      description: "Prospecting videos should be 3-10 minutes. Long enough to provide value, short enough to not drag."
+      source: "INC2"
+      domains: ["prospecting", "video"]
+
+    - id: "HEUR-CH-066"
+      name: "Case Study Discount $500 Off Invoice"
+      description: "Offer $500 off contract in exchange for testimonial commitment. The case study is worth far more long-term."
+      source: "INC2"
+      domains: ["sales", "case-studies"]
+
+    - id: "HEUR-CH-067"
+      name: "Strategic Partnership Referral Fee"
+      description: "Freelancing: ~$500 per referral. Agency: ~$2,000 per closed referral. Make it juicy enough to incentivize."
+      source: "INC2"
+      domains: ["prospecting", "partnerships"]
+
+    - id: "HEUR-CH-068"
+      name: "Pitch Deck 2 Hours Investment"
+      description: "A pitch deck takes about 2 hours but becomes a powerful reusable asset for sales, partners, and team onboarding."
+      source: "INC2"
+      domains: ["sales", "operations"]
+
+    - id: "HEUR-CH-069"
+      name: "Service Document 3-4 Lines Initially"
+      description: "When starting, only have 3-4 service lines. Don't try to offer everything. Expand naturally."
+      source: "INC2"
+      domains: ["pricing", "specialization"]
+
+    - id: "HEUR-CH-070"
+      name: "Upwork Starting Rate $30-$75/hr"
+      description: "On Upwork, never go below $30/hr. Start in $30-75 range and increase with reviews."
+      source: "INC2"
+      domains: ["pricing", "upwork"]
+
+    - id: "HEUR-CH-071"
+      name: "Charge Highest On Upwork"
+      description: "Always bid highest. Clients who see high pricing assume expertise. High bidders attract quality clients."
+      source: "INC2"
+      domains: ["pricing", "upwork"]
+
+    - id: "HEUR-CH-072"
+      name: "Funnel Crack Time 4-9 Weeks"
+      description: "Automated lead gen funnels take 4-9 weeks to crack. Address bottlenecks as they come."
+      source: "INC2"
+      domains: ["funnel-building"]
+
+    - id: "HEUR-CH-073"
+      name: "LinkedIn Batches of 50 Per Day"
+      description: "Send 50 connection requests per day. Yields 50-100 new connections per week. Never automate via Chrome extensions."
+      source: "INC2"
+      domains: ["prospecting", "linkedin"]
+
+    - id: "HEUR-CH-074"
+      name: "13 Clients at $5K/mo = $1M/year"
+      description: "At a $5,000/month retainer, just 13 clients = $1M annual revenue."
+      source: "INC2"
+      domains: ["pricing", "agency-scaling"]
+
+    - id: "HEUR-CH-075"
+      name: "Send Prospecting on 3 Platforms"
+      description: "Send Loom video on Facebook, Instagram, AND email simultaneously. Multi-channel increases reception."
+      source: "INC2"
+      domains: ["prospecting", "outreach"]
+
+    - id: "HEUR-CH-076"
+      name: "Penalty Fee for Late Briefing"
+      description: "Include penalty clause for clients who don't complete onboarding briefing within one week."
+      source: "INC2"
+      domains: ["client-management"]
+
+    - id: "HEUR-CH-077"
+      name: "Push 50% Upfront Freelancer 100% Agency"
+      description: "Freelancer: at least 50% upfront. Agency with production costs: push for 100% upfront."
+      source: "INC2"
+      domains: ["pricing", "client-management"]
+
+    - id: "HEUR-CH-078"
+      name: "100 Million Startups Per Year"
+      description: "100 million startups launched per year globally — 3 every second. Most weak at sales/marketing. This is the agency opportunity."
+      source: "INC2"
+      domains: ["market-opportunity"]
+
+    - id: "HEUR-CH-079"
+      name: "At Least 50% Upfront for Retainer"
+      description: "Get at least 50% of total contract value upfront. Use Proposify or Dubsado for contract-to-payment automation."
+      source: "INC2"
+      domains: ["client-management", "cash-flow"]
+
+    - id: "HEUR-CH-080"
+      name: "Relevance Score Under 7 = Problem"
+      description: "If ad relevance score is under 7, add continuity between ad and funnel/landing page."
+      source: "FBAA"
+      domains: ["facebook-ads", "optimization"]
+
+  # ═════════════════════════════════════════════════════════════════════════════
+  # L4 FRAMEWORKS — Named structured methodologies
+  # Total: 45 | Next ID: FW-CH-046
+  # ═════════════════════════════════════════════════════════════════════════════
+
+  L4_FRAMEWORKS:
+
+    # --- FATC 3.0 (FW-CH-001 to FW-CH-016) ---
+
+    - id: "FW-CH-001"
+      name: "Rapid Fire Testing (RFT) Method"
+      description: "3-round testing: Round 1 = test personas/audiences ($20/day, 3-4 days, dynamic creative). Round 2 = test hooks/offers (winning persona, lead ads). Round 3 = test creative/headlines/copy (conversion campaign). Total: $200-$500."
+      source: "FATC"
+      domains: ["testing", "facebook-ads"]
+
+    - id: "FW-CH-002"
+      name: "6-Step Copy Framework"
+      description: "Six steps: (1) Brief and brand tone, (2) Profiling personas mapped to problems, (3) Indirect competition, (4) Product benefits/features, (5) Core problem/emotional experience, (6) Hooks and stitching in Problem-Solution-Product order."
+      source: "FATC"
+      domains: ["copywriting"]
+
+    - id: "FW-CH-003"
+      name: "TOF-MOF-BOF Funnel Framework"
+      description: "Three-stage: Top of Funnel (cold -> awareness, content), Middle of Funnel (warm -> consideration, retarget), Bottom of Funnel (hot -> conversion, direct response with urgency)."
+      source: "FATC"
+      domains: ["funnels"]
+
+    - id: "FW-CH-004"
+      name: "Retargeting Stacks Framework"
+      description: "Time-based retargeting stacks by recency: Day 1-5, Day 6-10, Day 11-20, Day 21-30. Each stack gets different creative. Exclude shorter windows from longer to prevent overlap."
+      source: "FATC"
+      domains: ["retargeting"]
+
+    - id: "FW-CH-005"
+      name: "Lead Gen Results Calculator"
+      description: "Revenue target / client value = Clients needed. / Close rate (5-10%) = Leads needed. / LP conversion (20%) = Clicks needed. x CPC = Ad spend."
+      source: "FATC"
+      domains: ["lead-gen", "budget"]
+
+    - id: "FW-CH-006"
+      name: "High-Ticket Coaching Calculator"
+      description: "Revenue / sale price = Sales needed. / Call conversion (20%) = Calls needed. / (1 - no-show 30%) = Bookings needed. x $150 avg cost = Ad spend."
+      source: "FATC"
+      domains: ["coaching", "budget"]
+
+    - id: "FW-CH-007"
+      name: "Ecom Results Calculator"
+      description: "Revenue / AOV = Products to sell. / Website CVR (2-3%) = Clicks needed. x CPC ($1) = Ad spend. Target 3x ROAS, CPA at 30% of AOV."
+      source: "FATC"
+      domains: ["ecom", "budget"]
+
+    - id: "FW-CH-008"
+      name: "Traffic-Ready Audit Framework"
+      description: "Client website audit: (1) Tracking/pixel, (2) Conversion rate, (3) Bounce/cart abandonment, (4) Traffic quality, (5) Lead goggles UX, (6) Page speed <5s, (7) Mobile, (8) FB compliance, (9) CTA visibility."
+      source: "FATC"
+      domains: ["agency", "audit"]
+
+    - id: "FW-CH-009"
+      name: "Four Ecom Funnel Types"
+      description: "(1) MVF: Cold->Product->DPA. (2) Content warm: Cold->Video->Product->DPA. (3) Lead magnet: Cold->Offer->Product->DPA. (4) Full: Cold->Content->Lead Magnet->Product->DPA. Start with #1."
+      source: "FATC"
+      domains: ["ecom", "funnels"]
+
+    - id: "FW-CH-010"
+      name: "Persona Copy Sheet Framework"
+      description: "Single research sheet per persona: (1) Persona definition, (2) Product features, (3) Indirect competition, (4) Benefits, (5) Core emotional problem, (6) Hooks. Generate hundreds of copy variations from one sheet."
+      source: "FATC"
+      domains: ["copywriting", "process"]
+
+    - id: "FW-CH-011"
+      name: "Headline Framework by Funnel Stage"
+      description: "TOF: recap pain, tease beliefs/story/transformation. MOF: showcase claim, tease secret, cast doubt on alternatives. BOF: showcase product, urgency, testimonials, guarantee."
+      source: "FATC"
+      domains: ["copywriting", "headlines"]
+
+    - id: "FW-CH-012"
+      name: "Campaign Optimization Checkpoint"
+      description: "Systematic: (1) Map stats at each funnel step vs KPIs, (2) Drill to ad level CPA, (3) Check budget distribution, (4) Segment by placement, (5) By country, (6) By age/gender. Duplicate winning segments."
+      source: "FATC"
+      domains: ["optimization"]
+
+    - id: "FW-CH-013"
+      name: "Q4 Ecom Strategy Framework"
+      description: "Phase 2: Build momentum (Sept-mid Nov, audience building, test creative). Phase 3: Maximize sales (mid Nov-Dec 20, retarget only). Phase 4: Post-holiday (Jan, lowest CPMs, gift card buyers)."
+      source: "FATC"
+      domains: ["ecom", "seasonal"]
+
+    - id: "FW-CH-014"
+      name: "OCPM/CPM Selection Matrix"
+      description: "Low CTR + Low CVR = CPM. Low CTR + Good CVR = Link Click optimization. Good CTR + Good CVR = OCPM. Pair with creative/targeting testing."
+      source: "FATC"
+      domains: ["optimization", "bidding"]
+
+    - id: "FW-CH-015"
+      name: "Social Proof Scaling Method"
+      description: "After RFT, create singular ads (not dynamic) to build social proof. Use same ad ID across duplicated ad sets so all engagement consolidates."
+      source: "FATC"
+      domains: ["scaling", "social-proof"]
+
+    - id: "FW-CH-016"
+      name: "Brand Tone Word Bank"
+      description: "Google doc compiling all client language from Instagram, Facebook, website, emails. Library of vocabulary and tone. Reduces revisions, enables writing in client's voice."
+      source: "FATC"
+      domains: ["copywriting", "agency"]
+
+    # --- FB Ads Academy unique (FW-CH-017 to FW-CH-026) ---
+
+    - id: "FW-CH-017"
+      name: "4-Level Academy Progression"
+      description: "Locked competency levels: Level 1 (FB Basics) -> Level 2 (Pricing/Auditing) -> Level 3 (Landing Clients) -> Level 4 (Mastermind). Must pass competency test to advance."
+      source: "FBAA"
+      domains: ["agency-building", "training"]
+
+    - id: "FW-CH-018"
+      name: "Five Pricing Models"
+      description: "(1) Agency Model (% ad spend), (2) Performance Based (% revenue), (3) Retainer (flat monthly), (4) Bulk Buy (per-lead), (5) Hybrid. Each suited to different funnel types."
+      source: "FBAA"
+      domains: ["pricing"]
+
+    - id: "FW-CH-019"
+      name: "Eight Loop Service Document"
+      description: "Master pricing doc: every service, time estimate, internal cost, client cost range. Enables BizDev to price independently."
+      source: "FBAA"
+      domains: ["pricing", "agency-building"]
+
+    - id: "FW-CH-020"
+      name: "Client Audit Checklist"
+      description: "Audit: website, stock/scalability, messaging, systems, content library, response time, sales skills, goals. Mystery-shop clients."
+      source: "FBAA"
+      domains: ["auditing", "client-management"]
+
+    - id: "FW-CH-021"
+      name: "Seven Lead Gen Funnels"
+      description: "(1) Performance Based, (2) Audit Funnel, (3) Straight Up, (4) The Game, (5) Download, (6) Trust Builder, (7) Bot Funnel."
+      source: "FBAA"
+      domains: ["funnels", "client-acquisition"]
+
+    - id: "FW-CH-022"
+      name: "Two-Call Sales Script"
+      description: "Call 1: Rapport -> Frame -> Easy question -> Problem -> Goals -> Commitment -> BM access -> NDA. Call 2: Rapport -> Recap -> Audit -> Solution -> Stack -> Pitch -> Deposit."
+      source: "FBAA"
+      domains: ["sales", "client-acquisition"]
+
+    - id: "FW-CH-023"
+      name: "7-Step Client Onboarding"
+      description: "(1) First Call, (2) Audit, (3) Price, (4) Pitch & Win, (5) Welcome Email, (6) Contract + Invoice + Briefing, (7) Scoping + Kickoff Call. Never start before payment + signed contract."
+      source: "FBAA"
+      domains: ["onboarding", "client-management"]
+
+    - id: "FW-CH-024"
+      name: "4P Creative Framework"
+      description: "Test 4 ad formats: (1) Single Image, (2) Carousel (dynamic), (3) Video, (4) Product/Lifestyle variant. Themes: Unboxing, UGC, Product Shot, Lifestyle."
+      source: "FBAA"
+      domains: ["creative", "ecom"]
+
+    - id: "FW-CH-025"
+      name: "Three Lucrative Verticals"
+      description: "Top 3 niches: (1) Online Coaches (most scalable), (2) E-Commerce (scalable but hard), (3) Lead Gen (easy but less scalable). Avoid realtors and dentists."
+      source: "FBAA"
+      domains: ["niches", "agency-building"]
+
+    - id: "FW-CH-026"
+      name: "Agency Foundations Checklist"
+      description: "Pre-launch: P&L, FB page with backdated content, Service doc, PM tool, Reporting tool, Invoicing, CRM, Payment gateway (bank transfer preferred)."
+      source: "FBAA"
+      domains: ["agency-building", "operations"]
+
+    # --- Incubator 2.0 (FW-CH-027 to FW-CH-045) ---
+
+    - id: "FW-CH-027"
+      name: "Two-Part Niche Framework"
+      description: "A niche = (1) The specific service/process + (2) The specific avatar/industry. Both must be granular. Example: retargeting sequences for e-commerce brands."
+      source: "INC2"
+      domains: ["agency-positioning", "specialization"]
+
+    - id: "FW-CH-028"
+      name: "Service Document Architecture"
+      description: "SERVICE -> WHAT'S INCLUDED -> INTERNAL COST (hours x rate) -> CLIENT COST (internal / 0.25 margin). Includes individual services, packages, performance-based."
+      source: "INC2"
+      domains: ["pricing", "operations"]
+
+    - id: "FW-CH-029"
+      name: "Core Solution Messaging Framework"
+      description: "Three questions: (1) What's included? [Features] (2) What do they result in? [Outcomes] (3) What problems do they solve? [Core Solution]. Pitch: I help [avatar] to [solution] by [outcomes] through [service]."
+      source: "INC2"
+      domains: ["messaging", "positioning"]
+
+    - id: "FW-CH-030"
+      name: "Three-Hook Funnel Architecture"
+      description: "Three front-end hooks: (1) Lead Magnet, (2) Case Study/Straight Hook, (3) 14-Day Trial. Back-end: Buffer form -> Conditional logic -> Calendar -> Confirmation."
+      source: "INC2"
+      domains: ["funnel-building"]
+
+    - id: "FW-CH-031"
+      name: "14-Day Trial Funnel"
+      description: "Landing page: Headline (timeframe + avatar) -> Pitch -> No long-term contracts -> Problem storytelling -> Solution -> Outcomes -> Services -> About -> Avatars -> Disclaimer -> CTA."
+      source: "INC2"
+      domains: ["funnel-building"]
+
+    - id: "FW-CH-032"
+      name: "Authority Trinity"
+      description: "Three most effective authority builders: (1) Getting published on third-party websites, (2) Speaking engagements, (3) Awards from industry associations."
+      source: "INC2"
+      domains: ["authority-building", "branding"]
+
+    - id: "FW-CH-033"
+      name: "Case Study Formula"
+      description: "Three questions: (1) Where were you before? (2) Why did you reach out / what were you nervous about? (3) What specific results? Always push for a NUMBER."
+      source: "INC2"
+      domains: ["case-studies", "sales"]
+
+    - id: "FW-CH-034"
+      name: "Loom Video Prospecting System"
+      description: "8 steps: (1) Find prospect, (2) Find owner, (3) Audit assets, (4) Record Loom value video (no pitch), (5) Find email, (6) Write value-first email, (7) Send on 3 platforms, (8) Follow up for call."
+      source: "INC2"
+      domains: ["prospecting", "outreach"]
+
+    - id: "FW-CH-035"
+      name: "LinkedIn Three-Pillar System"
+      description: "Pillar 1: Profile optimization (headline = ad headline). Pillar 2: Search and connect with prospects. Pillar 3: Nurture connections through message sequence."
+      source: "INC2"
+      domains: ["prospecting", "linkedin"]
+
+    - id: "FW-CH-036"
+      name: "LinkedIn Nurture Sequence System"
+      description: "Weekly batches of 50. Message cadence: deposits (value) and withdrawals (asks). Track: batch date, sent, accepted, conversion rate."
+      source: "INC2"
+      domains: ["prospecting", "linkedin"]
+
+    - id: "FW-CH-037"
+      name: "Strategic Partnership Pipeline"
+      description: "Identify businesses serving same audience -> Offer free services -> Reciprocity drives referrals -> Structure kickback agreements."
+      source: "INC2"
+      domains: ["prospecting", "partnerships"]
+
+    - id: "FW-CH-038"
+      name: "Case Study Landing Page Template"
+      description: "Structure: Juicy headline with numbers -> Product image -> Problem -> Solution + screenshots -> Evidence -> Services -> Core message -> CTA. Plain white background."
+      source: "INC2"
+      domains: ["case-studies", "funnel-building"]
+
+    - id: "FW-CH-039"
+      name: "Pitch Deck Architecture"
+      description: "Sections: What we do -> Who we are -> Messaging -> Why choose us -> Testimonials -> Results -> Services -> Process -> Team."
+      source: "INC2"
+      domains: ["sales", "authority-building"]
+
+    - id: "FW-CH-040"
+      name: "Website Bare Essentials"
+      description: "Three minimum sections: (1) About/elevator pitch, (2) Work/Case Studies, (3) Contact form. Must have: Schema, Pixel, GA, favicon, metadata."
+      source: "INC2"
+      domains: ["branding", "online-presence"]
+
+    - id: "FW-CH-041"
+      name: "Google Drive Process Documentation"
+      description: "Main folder -> Numbered step subfolders -> Google Doc with written steps + video walkthrough. Record yourself implementing in real-time."
+      source: "INC2"
+      domains: ["operations", "process-building"]
+
+    - id: "FW-CH-042"
+      name: "Performance-Based Pricing Formula"
+      description: "Only for validated funnels. Step 1: Identify minimum internal cost. Step 2: Calculate required CPL or revenue cut. Ensures minimum margin protection."
+      source: "INC2"
+      domains: ["pricing"]
+
+    - id: "FW-CH-043"
+      name: "Contract-to-Payment Automation"
+      description: "Use Proposify/Dubsado — signature triggers automatic payment portal. Or no-signature: acceptance deemed upon payment to nominated account."
+      source: "INC2"
+      domains: ["client-management", "operations"]
+
+    - id: "FW-CH-044"
+      name: "Messaging Document Template"
+      description: "8 fields: Name, Core Competence, Core Solution, Features, Personas, Wants/Needs, Core Desire, Proof. Plus content pillars grid: Affinity/Awareness/Authority."
+      source: "INC2"
+      domains: ["messaging", "content-marketing"]
+
+    - id: "FW-CH-045"
+      name: "Referral Program Structure"
+      description: "$1,200 off or 20% per referral, 3-month sunset clause, $3-5K minimum invoice. Ask for testimonials FIRST, then introduce referral program."
+      source: "FBAA"
+      domains: ["client-retention", "referrals"]
+
+  # ═════════════════════════════════════════════════════════════════════════════
+  # L5 METHODOLOGIES — Step-by-step processes
+  # Total: 29 | Next ID: MET-CH-030
+  # ═════════════════════════════════════════════════════════════════════════════
+
+  L5_METHODOLOGIES:
+
+    # --- FATC 3.0 (MET-CH-001 to MET-CH-010) ---
+
+    - id: "MET-CH-001"
+      name: "RFT Round 1: Persona Validation"
+      description: "Create conversion campaign CBO $20/day. Ad set per persona with dynamic creative. 2-3 targeting options per persona. Same images, isolate copy. Run 3-4 days. Identify winning persona by CPA."
+      source: "FATC"
+      domains: ["testing"]
+
+    - id: "MET-CH-002"
+      name: "RFT Round 2: Hook/Offer Validation"
+      description: "Take winning persona. Lead ad campaign. Same image, test 3-4 headlines/hooks. Same targeting. 500 reach minimum per ad. Pause winners day 2 to give others budget. Identify winning hook by CPL."
+      source: "FATC"
+      domains: ["testing"]
+
+    - id: "MET-CH-003"
+      name: "RFT Round 3: Creative Optimization"
+      description: "Conversion campaign $50/day CBO. Winning targeting + copy. Test 10 images (dynamic creative). Then 5 headlines. Then copy variations. Build MVP funnel during this round."
+      source: "FATC"
+      domains: ["testing", "creative-testing"]
+
+    - id: "MET-CH-004"
+      name: "Ad Account Funnel Diagnosis Process"
+      description: "Check TOF video costs -> Check MOF LP conversion -> If >20% LP is fine -> Check CTR (1% cold, 2% retarget) -> Check BOF stalling (switch to impressions) -> Pull custom events for full-funnel revenue."
+      source: "FATC"
+      domains: ["analytics", "optimization"]
+
+    - id: "MET-CH-005"
+      name: "Retargeting Stack Setup Process"
+      description: "Map funnel in Lucidchart -> Create audiences for time windows (5/10/15/30 days) -> Purchase exclusion -> Exclude shorter from longer windows -> Exclude BOF from MOF -> Different creative per stack."
+      source: "FATC"
+      domains: ["retargeting"]
+
+    - id: "MET-CH-006"
+      name: "Horizontal Scaling Execution"
+      description: "Identify winning ad set -> Duplicate 4-5x -> Change ONE variable per duplicate (bid/placement/country) -> Launch simultaneously -> Check within 12 hours -> Kill exceeding CPA."
+      source: "FATC"
+      domains: ["scaling"]
+
+    - id: "MET-CH-007"
+      name: "Client Onboarding Audit Process"
+      description: "Get analyst access -> Check pixel/events -> Calculate CVR -> Check cart abandonment (68%) -> Bounce rate (30%) -> PageSpeed (<5s) -> Mobile -> FB Debugger -> Lead goggles -> Document all before quoting."
+      source: "FATC"
+      domains: ["agency", "audit"]
+
+    - id: "MET-CH-008"
+      name: "Copy Research and Persona Mapping"
+      description: "Get brief -> Discuss personas -> ID rational vs emotional value -> Collect proof -> Map competition -> Research via Amazon/Quora/Reddit/FB groups -> Fill copy worksheet -> Write direct AND indirect -> RFT to validate."
+      source: "FATC"
+      domains: ["copywriting", "research"]
+
+    - id: "MET-CH-009"
+      name: "Full Funnel Build Process Lead Gen"
+      description: "Build opt-in -> Sales page -> Qualifying page with conditional logic -> Book-a-call page -> Thank-you page -> 6-email nurture -> Pixel events per page -> Retargeting per drop-off."
+      source: "FATC"
+      domains: ["funnels", "lead-gen"]
+
+    - id: "MET-CH-010"
+      name: "Attribution Window Analysis"
+      description: "Reporting -> Customize columns -> Change attribution windows (1/7/28 day) -> Compare view vs click -> Short conversion = impulse -> Long = nurture needed -> Determines email length and retarget duration."
+      source: "FATC"
+      domains: ["analytics"]
+
+    # --- FB Ads Academy unique (MET-CH-011 to MET-CH-016) ---
+
+    - id: "MET-CH-011"
+      name: "Ad Account Audit Process"
+      description: "10 steps: Request access -> Check Pixel/events -> Check custom conversions -> Check audiences -> Pull event columns -> Breakdown by placement/age/gender/country -> Check CTR/CPC/CPM/relevance -> Schema/Debugger -> PageSpeed -> Mystery-shop funnel."
+      source: "FBAA"
+      domains: ["auditing"]
+
+    - id: "MET-CH-012"
+      name: "Backwards Ad Spend Calculator"
+      description: "Define target conversions -> Divide by LP CVR = clicks needed -> Divide by CTR = reach needed -> Multiply by CPC/CPM = ad spend. Example: 400 purchases / 0.05 = 8,000 hits / 0.03 = 266K reach x $0.07 = $18,666."
+      source: "FBAA"
+      domains: ["auditing", "ad-spend"]
+
+    - id: "MET-CH-013"
+      name: "Performance-Based Funnel Build"
+      description: "FB ad with performance hook -> Squeeze page -> Schedule Once with SMS -> Confirmation page with WuFoo screening -> Custom conversion on confirmation URL -> Pixel on all pages -> Exclusion audiences."
+      source: "FBAA"
+      domains: ["funnels", "client-acquisition"]
+
+    - id: "MET-CH-014"
+      name: "Client Onboarding 7-Step SOP"
+      description: "BizDev first call + CRM -> Specialist audits + Google Drive -> BizDev prices from service doc -> Second call pitch + deposit -> Handover email CC AM -> AM sends contract/invoice/briefing -> Scoping + kickoff."
+      source: "FBAA"
+      domains: ["onboarding", "client-management"]
+
+    - id: "MET-CH-015"
+      name: "Service Document Construction"
+      description: "List services -> Define what's included + time estimate -> Hours x internal rate = internal cost -> Add 30% margin = client cost -> Create packages -> Train BizDev to price independently."
+      source: "FBAA"
+      domains: ["pricing", "agency-building"]
+
+    - id: "MET-CH-016"
+      name: "Objection Handling Scripts"
+      description: "I thought performance-based: explain validated funnel requirement. Too expensive: long-term value reframe. Guarantee: anyone who promises is full of BS. Let me think: 48hr discounted deadline."
+      source: "FBAA"
+      domains: ["sales", "client-acquisition"]
+
+    # --- Incubator 2.0 (MET-CH-017 to MET-CH-029) ---
+
+    - id: "MET-CH-017"
+      name: "Niche Selection Process 6 Steps"
+      description: "ID core competence -> Break into granular sub-services -> Circle strongest -> ID which avatars had success -> Break into sub-avatars -> Combine: [granular service] for [granular avatar]."
+      source: "INC2"
+      domains: ["agency-positioning", "specialization"]
+
+    - id: "MET-CH-018"
+      name: "Service Processing Methodology"
+      description: "List all delivery steps -> ID roles per step -> Record yourself implementing -> Time each step -> Calculate hours -> Store in Google Drive -> Train team with videos -> Assess with quiz."
+      source: "INC2"
+      domains: ["operations", "process-building"]
+
+    - id: "MET-CH-019"
+      name: "Service Document Pricing Calculation"
+      description: "List services -> What's included -> Who delivers -> Time track -> Hours x rate = internal cost -> Divide by 0.25 COGS = client price -> Bundle packages -> Use in contracts for scope."
+      source: "INC2"
+      domains: ["pricing", "operations"]
+
+    - id: "MET-CH-020"
+      name: "Core Solution Messaging Development"
+      description: "Pick one service -> Brain dump features -> Ask what does this result in? [Outcomes] -> What problem does this solve? [Problems] -> Flip into core solution -> Construct pitch. Allow 1-2 hours."
+      source: "INC2"
+      domains: ["messaging", "positioning"]
+
+    - id: "MET-CH-021"
+      name: "Loom Video Prospecting Sequence"
+      description: "Find prospect -> Find owner -> Audit assets/ads/website -> Record Loom (introduce, reference recent, state coverage, mention what you do, aggravate problems, present solution) -> Find email -> Value-first email -> Send on 3 platforms -> Follow up."
+      source: "INC2"
+      domains: ["prospecting", "outreach"]
+
+    - id: "MET-CH-022"
+      name: "Client Onboarding 6-Step Process"
+      description: "Send contract + invoice (Proposify/Dubsado) -> Create client Google Drive folder -> Send onboarding email with briefing doc -> Reassess deliverables -> Scope project -> Kickoff call."
+      source: "INC2"
+      domains: ["client-management", "operations"]
+
+    - id: "MET-CH-023"
+      name: "Case Study Collection Process"
+      description: "During pitch: ID case study potential -> Offer performance pricing -> $500 discount for testimonial. During service: Track results. Collection: 3 questions (before/why/results). Push for numbers. Leverage: standalone landing page."
+      source: "INC2"
+      domains: ["case-studies", "sales"]
+
+    - id: "MET-CH-024"
+      name: "Getting Published Strategy"
+      description: "ID software providers targeting your niche -> Find active blogs -> Write niche case study/listicle -> Reach out with exclusive article -> Get published -> FB ads to drive traffic -> Capture leads."
+      source: "INC2"
+      domains: ["authority-building", "prospecting"]
+
+    - id: "MET-CH-025"
+      name: "Rapid Fire Testing Validation"
+      description: "Map 2+ personas on spreadsheet -> Core problem/desire per persona -> 3+ ad copies -> FB Messenger campaign with CBO -> 3 targeting options per persona -> $50-100 -> Compare cost per message -> Pick winner."
+      source: "INC2"
+      domains: ["validation", "niche-selection"]
+
+    - id: "MET-CH-026"
+      name: "LinkedIn Prospecting System"
+      description: "Optimize profile headline -> Sales Navigator searches -> 50 connections/day -> Weekly nurture batches -> Deposit/withdrawal message cadence -> Track in spreadsheet -> Post content -> Pull out when call booked."
+      source: "INC2"
+      domains: ["prospecting", "linkedin"]
+
+    - id: "MET-CH-027"
+      name: "Strategic Partnership Development"
+      description: "ID businesses serving same audience -> List connectors -> Soft outreach -> Offer free services -> Deliver exceptional -> Reciprocity generates referrals -> Structure kickback ($500/$2K). Timeline: 6-12 months."
+      source: "INC2"
+      domains: ["prospecting", "partnerships"]
+
+    - id: "MET-CH-028"
+      name: "Agency Funnel Build Process"
+      description: "Build buffer form with conditional logic -> Calendar landing page -> Confirmation with tracking. Choose hook (lead magnet/case study/14-day trial) -> Build LP with messaging framework -> Install pixel/schema/GA -> Test mobile+desktop -> Launch -> Troubleshoot 4-9 weeks."
+      source: "INC2"
+      domains: ["funnel-building"]
+
+    - id: "MET-CH-029"
+      name: "Niche-to-Empire Expansion Methodology"
+      description: "Pick granular niche -> Process service -> Build team -> Sell and refine -> Once runs without you, repeat for next niche -> Build audiences with content -> Sell process as course. Each expansion uses same avatar."
+      source: "INC2"
+      domains: ["agency-scaling", "business-model"]

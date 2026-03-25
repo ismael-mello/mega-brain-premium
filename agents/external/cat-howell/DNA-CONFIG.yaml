@@ -1,0 +1,39 @@
+# DNA-CONFIG.yaml — Agent Config
+# Cat Howell | agents/external/cat-howell/
+# Points to: knowledge/external/dna/persons/cat-howell/
+
+pessoa: "Cat Howell"
+slug: "cat-howell"
+tipo: "SOLO"
+peso: 1.0
+
+dna_path: "knowledge/external/dna/persons/cat-howell/DNA.yaml"
+config_path: "knowledge/external/dna/persons/cat-howell/DNA-CONFIG.yaml"
+
+dominios_primarios:
+  - "facebook-ads"
+  - "agency-building"
+  - "pricing"
+  - "prospecting"
+  - "funnels"
+  - "ecom"
+  - "lead-gen"
+  - "creative-testing"
+  - "scaling"
+  - "client-management"
+
+fontes:
+  - id: "FATC"
+    nome: "Facebook Ads That Convert 3.0"
+    arquivos: 466
+    elementos: 98
+  - id: "FBAA"
+    nome: "FB Ads Academy"
+    arquivos: 363
+    elementos: 70
+  - id: "INC2"
+    nome: "The Incubator 2.0"
+    arquivos: 68
+    elementos: 85
+
+raiz: "knowledge/external/sources/cat-howell/raw/"

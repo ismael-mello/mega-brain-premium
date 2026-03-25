@@ -3,12 +3,20 @@
 # Status: SCAFFOLD — needs enrichment
 
 cargo: "Copywriter"
-versao: "4.0.0"
+versao: "6.0.0"
 nivel: "MARKETING"
 natureza: "HIBRIDO"
 data_criacao: "2026-03-22"
-ultima_atualizacao: "2026-03-24"
+ultima_atualizacao: "2026-03-25"
 status: "SCAFFOLD"
+# v6.0.0 (2026-03-25): Cat Howell added (peso 0.60, 253 elements) — ad copy frameworks, persona-based copy
+#                      - Domains: ad-copy-frameworks, persona-based-copy, funnel-stage-headlines, direct-response-ads
+#                      - Key frameworks: 6-Step Copy Framework, Persona Copy Sheet, Headline by Funnel Stage, Brand Tone Word Bank
+#                      - Unique angle: Copy optimized for Facebook Ads (stops scroll, drives clicks, converts on LP)
+# v5.0.0 (2026-03-25): Ben Settle added (peso 0.90, 291 elements) — email copywriting CORE domain
+#                      - Domains: email-marketing, daily-email-strategy, email-copywriting, personal-branding
+#                      - Key frameworks: 24-Point Cheat Sheet, Double Tap System, Disney Villain Model, personality-driven email, ugly-sells philosophy
+#                      - 2 programs: Email Players Newsletter (73+ issues) + Email Client Machine (4 files)
 # v4.0.0 (2026-03-24): Stefan Georgi updated 118→308 elements (+190 from RMBC Method, RMBC II, Profit Fix Formula)
 #                      - New SG domains: AI-copywriting, conversion-optimization, funnel-architecture, advertorials, email-sequences, landing-pages
 #                      - New SG frameworks: Brief 2.0, 15 Funnel Factors, Claude VSL Projects, Advertorial Framework, 6 Power Emails, Landing Page Checklist
@@ -176,4 +184,39 @@ fontes:
       - "ad-creatives"
     quando_usar: "Email copy sequences, big idea identification and development, ad creative copywriting, daily email monetization"
     justificativa: "Justin Goff specializes in email marketing and big idea development — strong complement to VSL-heavy sources like Jon Benson."
+  - fonte: "ben-settle"
+    path: "knowledge/external/dna/persons/ben-settle/"
+    raiz: "knowledge/external/sources/ben-settle/raw/"
+    peso: 0.90
+    total_elementos: 291
+    total_fontes: 2
+    status: "ativo"
+    added: "2026-03-25"
+    dominios_usados:
+      - "email-marketing"
+      - "daily-email-strategy"
+      - "email-copywriting"
+      - "personal-branding"
+    quando_usar: "Daily email copywriting, personality-driven email copy, email subject lines, email sales sequences, subscriber engagement copy, ugly-sells philosophy, infotainment email style, email-as-content strategy"
+    justificativa: "Ben Settle is THE daily email marketing expert — email copywriting is his absolute CORE domain. 291 elements from Email Players Newsletter + Email Client Machine. 24-Point Cheat Sheet is a definitive email copy checklist, Double Tap System for re-engagement, Disney Villain Model for personality branding in copy. Top-tier source for email copywriting alongside Jon Benson."
+    contribuicao_principal: "Daily email marketing system, email copywriting, 24-Point Cheat Sheet, Double Tap System, Disney Villain Model, personality-driven email, ugly-sells philosophy"
+    materiais_fonte:
+      - titulo: "Email Players Newsletter"
+        path_raiz: "knowledge/external/sources/ben-settle/raw/"
+        tipo: "newsletter"
+        data_processamento: "2026-03-25"
+        insights_principais:
+          - "24-Point Cheat Sheet: definitive email copy checklist"
+          - "Double Tap System: re-engagement and follow-up methodology"
+          - "Disney Villain Model: personality branding for email copywriting"
+          - "Ugly-Sells Philosophy: authentic, personality-driven copy over polished"
+          - "Daily Email Strategy: daily sending for relationship and revenue"
+          - "Infotainment Style: education + entertainment in email copy"
+      - titulo: "Email Client Machine"
+        path_raiz: "knowledge/external/sources/ben-settle/raw/"
+        tipo: "course"
+        data_processamento: "2026-03-25"
+        insights_principais:
+          - "Email Client Acquisition: system for getting email copywriting clients"
+          - "Positioning as email specialist: niche authority building"
 

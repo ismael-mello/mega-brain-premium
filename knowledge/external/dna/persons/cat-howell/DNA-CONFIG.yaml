@@ -1,0 +1,207 @@
+# DNA-CONFIG.yaml - Cat Howell
+# Facebook Ads Expert, Agency Builder, Founder of Eight Loop Social
+#
+# Versão: 1.0.0
+# Criado: 2026-03-25
+# Total elementos: ~253 (após dedup)
+# Fontes: 3 programas, 897 arquivos
+#
+# ═══════════════════════════════════════════════════════════════════════════════
+
+pessoa: "Cat Howell"
+slug: "cat-howell"
+versao: "1.0.0"
+data_criacao: "2026-03-25"
+ultima_atualizacao: "2026-03-25"
+status: "COMPLETE"
+
+# ═══════════════════════════════════════════════════════════════════════════════
+# FONTES
+# ═══════════════════════════════════════════════════════════════════════════════
+
+fontes:
+  - id: "FATC"
+    nome: "Facebook Ads That Convert 3.0"
+    tipo: "COURSE"
+    arquivos: 466
+    path_raw: "knowledge/external/sources/cat-howell/raw/facebook-ads-that-convert-3.0/"
+    modulos: 9
+    elementos_extraidos: 98
+    speakers:
+      - "Cat Howell (primary)"
+      - "Phil Kiel (sales closing)"
+      - "Akbar Sheikh (funnels/sales pages)"
+      - "Curt Maly (Belt Method)"
+      - "Ines Lofti (funnel troubleshooting)"
+      - "Alex Brown (eCommerce branding)"
+      - "Andy Franco (Black Friday strategies)"
+      - "Karen Sahetya (reporting/Supermetrics)"
+      - "Madis Birk (Q4 tactics)"
+    dominios:
+      - "facebook-ads"
+      - "audience-targeting"
+      - "creative-testing"
+      - "lead-gen"
+      - "ecom"
+      - "copywriting"
+      - "funnels"
+      - "retargeting"
+      - "scaling"
+      - "optimization"
+      - "algorithm"
+      - "analytics"
+
+  - id: "FBAA"
+    nome: "FB Ads Academy"
+    tipo: "COURSE"
+    arquivos: 363
+    path_raw: "knowledge/external/sources/cat-howell/raw/fb-ads-academy/"
+    modulos: 6
+    elementos_extraidos: 88
+    overlap_fatc: 18
+    elementos_unicos: 70
+    speakers:
+      - "Cat Howell (primary)"
+      - "Anna Shalina (mindset coach)"
+      - "Stan (sales coach)"
+      - "Andy (sales coach)"
+      - "Tom (FB ads specialist)"
+      - "John (pricing/auditing)"
+      - "Kate Turner (sales training guest)"
+    dominios:
+      - "agency-building"
+      - "pricing"
+      - "client-acquisition"
+      - "auditing"
+      - "lead-gen"
+      - "ecom"
+      - "sales"
+      - "client-management"
+      - "mindset"
+      - "onboarding"
+
+  - id: "INC2"
+    nome: "The Incubator 2.0"
+    tipo: "PREMIUM_PROGRAM"
+    arquivos: 68
+    path_raw: "knowledge/external/sources/cat-howell/raw/the-incubator-2.0/"
+    modulos: 5
+    elementos_extraidos: 85
+    speakers:
+      - "Cat Howell (primary)"
+      - "Jonathan (production/onboarding)"
+      - "Brandon Smiths (LinkedIn module)"
+      - "Koalajan S. (Upwork module)"
+    dominios:
+      - "agency-positioning"
+      - "specialization"
+      - "prospecting"
+      - "funnel-building"
+      - "premium-pricing"
+      - "operations"
+      - "linkedin"
+      - "authority-building"
+      - "case-studies"
+      - "client-management"
+
+# ═══════════════════════════════════════════════════════════════════════════════
+# DNA STATS
+# ═══════════════════════════════════════════════════════════════════════════════
+
+total_elementos_bruto: 271
+total_elementos_dedup: 253
+overlap_removido: 18
+
+layers:
+  L1_PHILOSOPHIES:
+    total: 44
+    next_id: "FIL-CH-045"
+  L2_MENTAL_MODELS:
+    total: 34
+    next_id: "MM-CH-035"
+  L3_HEURISTICS:
+    total: 80
+    next_id: "HEUR-CH-081"
+  L4_FRAMEWORKS:
+    total: 45
+    next_id: "FW-CH-046"
+  L5_METHODOLOGIES:
+    total: 29
+    next_id: "MET-CH-030"
+
+# ═══════════════════════════════════════════════════════════════════════════════
+# DOMAIN MAP
+# ═══════════════════════════════════════════════════════════════════════════════
+
+dominios_primarios:
+  - "facebook-ads"
+  - "agency-building"
+  - "pricing"
+  - "prospecting"
+  - "funnels"
+  - "ecom"
+  - "lead-gen"
+  - "creative-testing"
+  - "scaling"
+  - "client-management"
+
+dominios_secundarios:
+  - "copywriting"
+  - "retargeting"
+  - "optimization"
+  - "algorithm"
+  - "auditing"
+  - "sales"
+  - "mindset"
+  - "linkedin"
+  - "authority-building"
+  - "specialization"
+  - "operations"
+  - "case-studies"
+  - "content-marketing"
+
+# ═══════════════════════════════════════════════════════════════════════════════
+# AGG CONTRIBUTIONS
+# ═══════════════════════════════════════════════════════════════════════════════
+
+agg_contributions:
+  - agg: "AGG-TRAFFIC"
+    peso: 0.90
+    elementos_contribuidos: 120
+    especialidade: "Facebook Ads mastery (RFT method, scaling, retargeting stacks, algorithm optimization, creative testing, eCom funnels, lead gen funnels)"
+    note: "Cat Howell is the MOST COMPLETE Facebook Ads source — covers beginner to advanced with systematic RFT methodology. Complements Jeremy Haynes (Bully/Surf tactics) and Frank Kern (Level 1-3 campaigns) with Cat's structured testing and agency-delivery perspective."
+
+  - agg: "AGG-VENDAS"
+    peso: 0.70
+    elementos_contribuidos: 30
+    especialidade: "Agency sales scripts, two-call close, performance-based pricing, objection handling, referral programs"
+
+  - agg: "AGG-COPYWRITING"
+    peso: 0.65
+    elementos_contribuidos: 25
+    especialidade: "6-Step Copy Framework, Persona Copy Sheet, direct/indirect headlines, Awesome-Bad-Without/EvenIf"
+
+# ═══════════════════════════════════════════════════════════════════════════════
+# CARGO ENRICHMENT TARGETS
+# ═══════════════════════════════════════════════════════════════════════════════
+
+cargo_enrichment:
+  - cargo: "media-buyer"
+    peso: 0.95
+    motivo: "Cat Howell is a media buying expert — RFT, scaling, retargeting, algorithm optimization"
+  - cargo: "cmo"
+    peso: 0.80
+    motivo: "Agency marketing strategy, funnel architecture, creative frameworks"
+  - cargo: "cro"
+    peso: 0.70
+    motivo: "Client acquisition funnels, pricing strategy, conversion optimization"
+  - cargo: "copywriter"
+    peso: 0.60
+    motivo: "6-Step Copy Framework, persona copy sheets, headline frameworks"
+
+# ═══════════════════════════════════════════════════════════════════════════════
+# RAIZ (raw files)
+# ═══════════════════════════════════════════════════════════════════════════════
+
+raiz: "knowledge/external/sources/cat-howell/raw/"
+inbox_original: "inbox/Cat Howell/"
