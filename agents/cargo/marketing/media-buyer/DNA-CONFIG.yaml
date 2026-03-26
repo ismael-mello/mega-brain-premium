@@ -3,7 +3,7 @@
 # Status: SCAFFOLD — needs enrichment
 
 cargo: "Media Buyer"
-versao: "1.0.0"
+versao: "2.0.0"
 nivel: "MARKETING"
 natureza: "HIBRIDO"
 data_criacao: "2026-03-22"
@@ -34,4 +34,24 @@ fontes:
     path: "knowledge/external/dna/persons/russell-brunson/"
     peso: 0.70
     status: "pendente_enriquecimento"
+
+  - fonte: "rafael-marks"
+    path: "knowledge/external/dna/persons/rafael-marks/"
+    raiz: "knowledge/external/sources/rafael-marks/raw/"
+    peso: 0.85
+    total_elementos: 173
+    dominios_usados:
+      - "traffic-scaling"
+      - "funnel-architecture"
+      - "offer-construction"
+      - "copywriting-sales-pages"
+      - "webinar-methodology"
+      - "tripwire-strategy"
+      - "mini-offers"
+    quando_usar: "5 Fases do Tráfego para gestão de campanha BR, Escala Vertical 25%/dia e Escala Horizontal por duplicação para otimização de budget, decisão baseada em Initiate Checkout (não somente ROAS), Escala Hard por Segmentação, Fábrica de Criativos para volume, Golden Hours para timing de escala, Regra 80% para funil de compra, CPC BR R$2-2.50 como benchmark, split 70/30 tráfego direto vs captura"
+    justificativa: "Rafael Marks é a referência número 1 em tráfego pago no Brasil — 173 elementos de Hackers do Marketing com frameworks específicos para Meta Ads BR. 5 Fases do Tráfego + Escala Vertical/Horizontal + decisão por Initiate Checkout são metodologias inéditas para o contexto brasileiro que nenhuma outra fonte cobre."
+    status: "enriched"
+    added: "2026-03-25"
+    fontes_incluidas:
+      - "Hackers do Marketing (508 files, 173 elements — tráfego Meta Ads BR, escala, criativos, fases de campanha)"
 

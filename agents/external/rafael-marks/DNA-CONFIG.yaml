@@ -1,0 +1,75 @@
+### DNA-CONFIG — RAFAEL MARKS
+### Versão: 1.0.0
+### Tipo: SOLO (pessoa única)
+
+agent:
+  name: "Rafael Marks"
+  type: "SOLO"
+  category: "external"
+  path: "agents/external/rafael-marks/"
+
+dna_sources:
+  - person: "rafael-marks"
+    weight: 1.0
+    path: "knowledge/external/dna/persons/rafael-marks/DNA.yaml"
+    elements: 173
+    version: "1.0.0"
+    raiz: "knowledge/external/sources/rafael-marks/raw/"
+
+source_materials:
+  - id: "HM"
+    name: "Hackers do Marketing"
+    programs:
+      - "Operação Funil Destrava (30 dias)"
+      - "Operação Funil Destrava Elite"
+      - "Desafio 21 Dias de Conteúdo"
+      - "Páginas de Vendas de Alta Conversão"
+      - "100 Títulos Irresistíveis"
+      - "Swipefile 15 Funis Secretos Americanos"
+      - "Escala Secreta (Mastermind A Cúpula)"
+      - "Meu Script de Webinar"
+      - "A Nova Onda do Marketing Digital Micro Ofertas"
+      - "Hackeando o Marketing Digital"
+      - "Hacks Mensais (Masterclasses 1-6)"
+      - "CLÃ DOS FUNIS - FUNIOLOGIA"
+      - "CLÃ DOS FUNIS - Biblioteca dos Segredos"
+      - "CLÃ DOS FUNIS - Treinamentos Clássicos"
+      - "Outlier Experience"
+    files: 508
+    total_bytes: 4700000
+    language: "pt-BR"
+    raw_path: "knowledge/external/sources/rafael-marks/raw/"
+
+domains:
+  primary:
+    - "funnel-architecture"
+    - "offer-construction"
+    - "traffic-scaling"
+    - "copywriting-sales-pages"
+    - "email-marketing"
+  secondary:
+    - "webinar-methodology"
+    - "high-ticket-sales"
+    - "tripwire-strategy"
+    - "mini-offers"
+    - "customer-ascension"
+  tertiary:
+    - "content-funnels"
+    - "CRO"
+    - "financial-discipline"
+    - "product-development"
+
+layer_counts:
+  L1_PHILOSOPHIES: 45
+  L2_MENTAL_MODELS: 32
+  L3_HEURISTICS: 57
+  L4_FRAMEWORKS: 34
+  L5_METHODOLOGIES: 27
+  total: 173
+
+next_ids:
+  FIL: "FIL-RM-046"
+  MM: "MM-RM-033"
+  HEUR: "HEUR-RM-058"
+  FW: "FW-RM-035"
+  MET: "MET-RM-028"

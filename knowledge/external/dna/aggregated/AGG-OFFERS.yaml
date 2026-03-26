@@ -26,12 +26,13 @@
 # - André Chaperon (45 elementos) - VPDC/JTBD offer creation, audience-offer fit
 # - Stefan Georgi (60 elementos) - AOV Money Close, offer architecture, 15 Funnel Factors, pricing test framework
 # - Justin Goff (80 elementos) - OLAF Method, Hell Yes Offer, Offer Appeal Assessment
+# - Rafael Marks (40 elementos) - Oferta Irresistível 3 Camadas, 3 Falsas Crenças, Mini-Ofertas, Customer Ascension
 #
 # ═══════════════════════════════════════════════════════════════════════════════
 
 dominio: "offers"
-versao: "20.0.0"  # Stefan Georgi updated 25→60 el (+35 from RMBC Method, RMBC II, Profit Fix Formula). New: 15 Funnel Factors for offer positioning, offer complexity scoring, landing page type matching, pricing test framework from PFF.
-total_elementos: 1123
+versao: "21.0.0"  # Rafael Marks added (+40 elements from HM — Brazilian funnel architect, 3-layer irresistible offer, 3 false beliefs, Mini-Offers, Customer Ascension). Stefan Georgi updated 25→60 el (+35 from RMBC Method, RMBC II, Profit Fix Formula). New: 15 Funnel Factors for offer positioning, offer complexity scoring, landing page type matching, pricing test framework from PFF.
+total_elementos: 1163
 criado_em: "2026-01-10T19:30:00Z"
 atualizado_em: "2026-03-24"
 
@@ -203,6 +204,14 @@ fontes_consolidadas:
       - "pricing-psychology"
       - "AOV"
     nota: "Added 2026-03-24 from Copy Accelerator. Justin Goff is the PRIMARY offer strategist from Copy Accelerator. His OLAF Method inverts the typical funnel-first approach — start with the offer, then build everything else around it. Hell Yes Offer complements Hormozi's Grand Slam Offer with a different diagnostic lens. The 3 Universal Upsell Types and Offer Appeal Assessment provide systematic tools for offer optimization. The 8 Biggest Mistakes framework is diagnostic — identifying why offers fail before trying to fix copy. Combined with Hormozi (value equation), Brown (offer engineering), Brunson (stacking), and Benson (written offer presentation), Goff adds the strategic/diagnostic layer of offer creation."
+
+  - fonte: "rafael-marks"
+    path: "/knowledge/external/dna/persons/rafael-marks"
+    peso_dominio: 0.85
+    elementos_contribuidos: 40
+    especialidade: "Oferta Irresistível 3 Camadas (10x value), 3 Falsas Crenças (veículo/interna/externa), Brainstorm de Oferta (planilha 5 formatos), Sentença Mágica, Fórmula Secreta (6 perguntas), Escada de Valor com formatos alternados, Mini-Ofertas (7 regras — melhor primeiro beijo, promessa menor, seeding), Empilhamento de Bônus no pitch, Customer Ascension (ebook→curso→mentoria→imersão→mastermind)"
+    batches: ["RM-HM (Hackers do Marketing — 173 total, 40 offers-relevant — 2026-03-25)"]
+    nota: "Added 2026-03-25. Brazilian funnel architect. 508 source files, 15 programs. Key offer construction: valor total 10x preço cobrado, bônus matam 3 falsas crenças, alternância de formato entre degraus da escada. Mini-offer specialist: R$37 tripwire → R$145k lucro em 6 meses via ascensão. Complements Hormozi (Grand Slam) with Brazilian-adapted execution."
 
 # ═══════════════════════════════════════════════════════════════════════════════
 # FILOSOFIAS CONSOLIDADAS (Cross-Source)
