@@ -6,7 +6,9 @@
 # Template: DNA-CONFIG-V2 (100% rastreabilidade)
 
 cargo: "SALES-MANAGER"
-versao: "5.0.0"
+versao: "5.2.0"  # Cole Gordon CIL (Closers Into Leaders — 323 elements, peso 0.90 for SM) — sales team leadership: Big Three KPIs, Culture Building, 8-Week Ramp-Up, Hiring Process, Compensation Models, PTMA enhanced, QC expanded, Pipeline Management, Follow-Up Systems, Outbound Operations
+# v5.1.0 (prev): Vinh Giang Stage Academy (peso 0.80, 30 elements)
+# v5.0.0 (prev)
 # v5.0.0 (2026-03-23): Jon Benson +3 sources (NOWVSL, 5MSLF, VSLFT18) — 1429 total elements, sales frameworks, training methodologies, rapport/storytelling techniques
 #                      - New domains: close-sequence-training, rapport-storytelling-training, pricing-psychology-coaching, funnel-awareness
 #                      - Key frameworks: Grand Offer/Two Choices/Parting Gift (trainable close sequences), Rapport Storytelling (coaching tool), Price Anchoring (QC checklist)
@@ -81,7 +83,7 @@ dna_agregado:
 
 dna_primario:
   - pessoa: "cole-gordon"
-    peso: 0.95  # AUMENTADO em BATCH-050 - Gestão de Times
+    peso: 0.95  # AUMENTADO em BATCH-050 - Gestão de Times + CIL enrichment
     dominios_absorvidos:
       - "Sales Management Progression"
       - "Quality Control (QC)"
@@ -96,6 +98,28 @@ dna_primario:
       - "Cronograma 8 Semanas Onboarding"
       - "Processo Contratação 6 Passos"
       - "Heurísticas de Liderança"
+      # CIL additions (2026-03-26)
+      - "sales-team-scaling"
+      - "hiring"
+      - "onboarding"
+      - "compensation"
+      - "pipeline-management"
+      - "follow-up"
+      - "outbound-sales"
+      - "sales-philosophy"
+    sources:
+      - "legacy (Sales Management, QC, PTMA, DISC, Onboarding, Hiring)"
+      - "CIL (Closers Into Leaders — 323 elements: sales-team-scaling, hiring, onboarding, compensation, sales-management, pipeline-management, follow-up, outbound-sales, Big Three KPIs, Culture Building, 8-Week Ramp-Up)"
+    cil_highlights:
+      - "Big Three KPIs — close rate + show rate + pipeline velocity as core management metrics"
+      - "Culture Building — sales culture architecture beyond just incentives"
+      - "8-Week Ramp-Up — structured onboarding timeline with milestones"
+      - "Hiring Process — expanded from 6-step to comprehensive talent pipeline"
+      - "Compensation Models — 10% commission standard, 30-50% hedge, performance tiers"
+      - "Pipeline Management — systematic pipeline review, follow-up cadence, outbound operations"
+      - "100 Dials/Day Outbound — outbound team standard operating procedure"
+      - "50-Call Significance — minimum sample for coaching decisions on close rate"
+      - "Follow-Up Systems — systematic follow-up cadence and messenger sales"
     path: "/knowledge/external/dna/persons/cole-gordon"
     justificativa: "Principal fonte para gestao de vendas high-ticket + liderança de times"
     # ENRIQUECIDO Phase 5.7 com BATCH-050 content

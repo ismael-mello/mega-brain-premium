@@ -1,0 +1,12 @@
+# Transcrição: A5
+
+- **Fonte:** A5
+- **Duração:** 02:26
+- **Idioma:** pt
+- **Modelo:** small
+
+---
+
+## [00:00 - 02:26]
+
+Vamos lá, vamos para o quiz de segmentação. O que é isso? Qual que é a diferença entre o anterior e esse? A diferença é que esse no final, dependendo de qual é a última resposta dessa pessoa no quiz, ela é direcionada para um lugar ou para outro. Então tem como configurar em algumas ferramentas, a gente consegue configurar para, por exemplo, que a pessoa diz que ela é iniciante no marketing digital, eu tenho uma versão da minha página de vendas, a mesma página de vendas eu duplico ela, porém o COP, as palavras persuasivas, tudo é dito para um iniciante, os depoimentos são para iniciantes, os bônus são para iniciantes ou os bônus talvez ser um mexa, mas a argumentação é inteira feita para iniciante. Porém, se essa pessoa diz que a dificuldade dela é em escalar as vendas, a promessa é sobre escalar as vendas, os depoimentos são sobre escalar as vendas, conseguiu entender o poder disso? Isso é muito incisivo, muito mais assertivo. Então essa pessoa passa pelo mesmo processo, clicou no anúncio, cai na página do quiz, responde o quiz, deixa o e-mail só aqui, dependendo de qual foi a última resposta dela, ela vai para uma página ou outra. Então, por exemplo, se essa pessoa diz que a minha dificuldade é eu não tenho audiência, então essa página minha vai ser repleta de pessoas que estão vendendo pela internet e não tinham audiência. Depoimentos desse tipo de pessoa, a minha argumentação vai ser sobre isso, a minha promessa vai ser como criar um negócio online que fatura no séio quanto sem ter audiência. Consegue entender? Então eu consigo segmentar o meu público. É lindo isso, por exemplo. Quem tem software, imagina software de marketing digital lá nos Estados Unidos, já havia alguns que eles têm a página de vendas, mas no final, em vez de ter um botão de vendas, tem assim, ó, você trabalha com o quê? A agência, eu sou infoprodutor ou eu vendo softwares, eu preço serviço e aí, dependendo do que ela é, ela clica e ela cai em uma página com depoimentos, com história, comprovando e reforçando mais e no final tem num pitch específico para cada tipo de avatar que marcou ali no quiz quem ela é. Então é um quiz que faz o processo de aquecimento igual ao anterior, porém no final ele segmenta e aí você consegue ter uma página específica para cada tipo de dor da pessoa, é muito poderoso.

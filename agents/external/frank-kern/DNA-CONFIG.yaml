@@ -1,9 +1,9 @@
 cargo: "FRANK-KERN"
-versao: "1.0.0"
+versao: "3.0.0"
 nivel: "PERSON"
 natureza: "SOLO"
 data_criacao: "2026-03-18"
-ultima_atualizacao: "2026-03-18"
+ultima_atualizacao: "2026-03-26"
 
 constituicao:
   path: "/agents/CONSTITUTION/BASE-CONSTITUTION.md"
@@ -35,25 +35,42 @@ dna_sources:
       - data-driven-decisions
       - sales-processes
       - consulting-methodology
+      - competitive-intelligence
+      - content-marketing
+      - content-creation
+      - video-sales-letters
+      - copywriting
+      - selling-psychology
+      - upsell-strategy
+      - promotion-strategy
+      - intent-based-branding
+      - ad-copywriting
+      - storytelling
+      - closing-techniques
+      - funnel-architecture
+      - behavioral-marketing
+      - advertising-economics
     raiz: "/knowledge/external/sources/frank-kern/raw/"
     materiais_fonte:
       - "Rainmaker Certification (105 files, 10 weeks + intro)"
+      - "Operation Takeover (88 files, 6 weeks + bonus — competitive intelligence, IBB, long-form copy, Billion Dollar VSL, Double Tap, 4DCM, YouTube ads)"
+      - "Ads Madness Masterclass (11 files, 3 days with Stefan Georgi — dog whistle ads, FAQ bridge, ad automation, retargeting)"
 
 dna_summary:
-  total_elementos: 269
-  versao_dna: "1.0.0"
+  total_elementos: 521
+  versao_dna: "3.0.0"
   camadas:
-    L1_PHILOSOPHIES: 54
-    L2_MENTAL_MODELS: 48
-    L3_HEURISTICS: 72
-    L4_FRAMEWORKS: 56
-    L5_METHODOLOGIES: 39
+    L1_PHILOSOPHIES: 120
+    L2_MENTAL_MODELS: 86
+    L3_HEURISTICS: 154
+    L4_FRAMEWORKS: 93
+    L5_METHODOLOGIES: 68
   proximos_ids:
-    FIL: "FIL-FK-055"
-    MM: "MM-FK-049"
-    HEUR: "HEUR-FK-073"
-    FW: "FW-FK-057"
-    MET: "MET-FK-040"
+    FIL: "FIL-FK-106"
+    MM: "MM-FK-090"
+    HEUR: "HEUR-FK-157"
+    FW: "FW-FK-103"
+    MET: "MET-FK-070"
 
 dominios_primarios:
   - paid-advertising
@@ -61,6 +78,9 @@ dominios_primarios:
   - facebook-ads
   - email-marketing
   - youtube-ads
+  - video-sales-letters
+  - copywriting
+  - ad-copywriting
 
 dominios_secundarios:
   - scaling
@@ -74,25 +94,58 @@ dominios_secundarios:
   - campaign-troubleshooting
   - sales-processes
   - consulting-methodology
+  - competitive-intelligence
+  - content-marketing
+  - content-creation
+  - selling-psychology
+  - upsell-strategy
+  - promotion-strategy
+  - intent-based-branding
+  - storytelling
+  - closing-techniques
+  - funnel-architecture
+  - behavioral-marketing
+  - advertising-economics
 
 dimensoes:
   paid_advertising: 10
   marketing_funnels: 10
   facebook_ads: 10
-  email_marketing: 9
-  youtube_ads: 9
+  email_marketing: 10
+  youtube_ads: 10
+  video_sales_letters: 10
+  copywriting: 10
+  ad_copywriting: 10
   scaling_strategy: 9
   supersystem_architecture: 8
-  ad_automation: 8
-  copywriting_ads: 8
+  ad_automation: 9
+  competitive_intelligence: 9
+  content_marketing: 9
+  selling_psychology: 9
+  upsell_strategy: 9
+  promotion_strategy: 9
+  intent_based_branding: 9
+  storytelling: 8
+  closing_techniques: 8
+  funnel_architecture: 8
   client_acquisition: 7
 
 contexto_autor:
   nome_completo: "Frank Kern"
   atuacao_desde: 1999
   estilo: "ultra-casual, self-deprecating, data-driven, anti-perfectionist"
-  programa_principal: "Rainmaker Certification"
-  especialidade_core: "internet marketing, paid ads, email marketing, funnels"
+  programas:
+    - "Rainmaker Certification (10-week consulting + ads + email + funnels)"
+    - "Operation Takeover (6-week competitive intelligence + copy + VSL + campaigns)"
+    - "Ads Madness Masterclass (3-day ad copy intensive with Stefan Georgi)"
+  especialidade_core: "internet marketing, paid ads, email marketing, funnels, VSL frameworks, competitive intelligence, content-based selling"
+  colaboradores:
+    - nome: "Dean Graziosi"
+      contribuicao: "Billion Dollar VSL Framework (co-creator)"
+      source: "FK-OT"
+    - nome: "Stefan Georgi"
+      contribuicao: "FAQ Bridge Strategy, 9 Ad Types, Ad Research Framework"
+      source: "FK-AMM"
 
 conflitos_conhecidos: []
 
@@ -102,4 +155,7 @@ mapa_navegacao:
   memory: "/agents/external/frank-kern/MEMORY.md"
   agent: "/agents/external/frank-kern/AGENT.md"
   dossier: "/knowledge/external/dossiers/persons/DOSSIER-FRANK-KERN.md"
+  source_rc: "/knowledge/external/sources/frank-kern/SOURCE-RC.md"
+  source_ot: "/knowledge/external/sources/frank-kern/SOURCE-OT.md"
+  source_amm: "/knowledge/external/sources/frank-kern/SOURCE-AMM.md"
   raw: "/knowledge/external/sources/frank-kern/raw/"

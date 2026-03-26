@@ -13,10 +13,10 @@
 # ═══════════════════════════════════════════════════════════════════════════════
 
 dominio: "traffic"
-versao: "11.0.0"  # Rafael Marks added (+45 elements: 5 Fases do Tráfego (Teste→Ignição→Análise→Limpeza→Escala), Escala Vertical 25%/dia, Escala Horizontal duplicações, Decisão por Initiate Checkout, Escala Hard por Segmentação, Fábrica de Criativos, 4 Níveis de Consciência para Anúncios, Regra do 80%, Golden Hours, 70/30 direto vs captura). Brazilian funnel architect with deep Meta Ads scaling methodology — complements Lúcio Artes (more creative-focused) with funnel-integrated traffic strategy. Prev v10.0.0: Lúcio Artes added (+168 elements: Princípio 80-10-10, Ferrari Framework (Combustível-Estrada-Piloto), Campanha de Controle→S1→S2, 3 Regras Escala Cadenciada, Funil de Eventos Completo, Métricas Customizadas, PIX Otimizado, Pre-cel WhatsApp, Segmentação por Interseção, API de Conversão depth, Perfect Webinar 5 Fases). FIRST BRAZILIAN PRIMARY SOURCE — deeply practical Meta Ads scaling methodology from 12+ years managing ~90 products.
+versao: "13.0.0"  # Cole Gordon CIL added (+30 traffic elements). Attraction Prospecting System (APS), Two-Step Posts, Facebook Groups strategy, Outbound Strategy, Content Marketing frameworks, 15 Content Angles. CIL brings organic traffic + content-driven lead generation.
 data_criacao: "2026-03-11"
-ultima_atualizacao: "2026-03-25"
-total_elementos: 955
+ultima_atualizacao: "2026-03-26"
+total_elementos: 1035
 peso_global: 0.70
 
 fontes_consolidadas:
@@ -42,10 +42,11 @@ fontes_consolidadas:
     path: "knowledge/external/dna/persons/frank-kern/"
     raw_path: "knowledge/external/sources/frank-kern/raw/"
     peso_dominio: 0.90
-    elementos_contribuidos: 150
-    especialidade: "Facebook Ads (Level 1-3 campaigns, seed testing, CBO, cost cap, bid cap, automation rules), YouTube Ads (ad scripting, audience targeting, keyword/topic layering, TCPA bidding, automated scaling), Media Strategy (5-layer model), Retargeting, Campaign Diagnostics, Ad Automation (Hyros, Madgicx, native rules)"
+    elementos_contribuidos: 200
+    especialidade: "Facebook Ads (Level 1-3 campaigns, seed testing, CBO, cost cap, bid cap, automation rules, ABO→CBO Scaling, Dog Whistle Ads for ML Leverage, Retargeting Audience Architecture, Facebook Ad Automation Rules), YouTube Ads (ad scripting, audience targeting, keyword/topic layering, TCPA bidding, automated scaling, YouTube Content Video Framework, YouTube Vortex Framework), Media Strategy (5-layer model), Retargeting, Campaign Diagnostics, Ad Automation (Hyros, Madgicx, native rules), Sequential Campaigns, IBB Simplified"
     tipo_fonte: "PRIMARY"
-    note: "Added 2026-03-18. Frank Kern is the most COMPLETE paid traffic source — covers both Facebook AND YouTube in depth with systematic Level 1→2→3 scaling methodology. Most practical, data-driven approach to ad management."
+    note: "Updated 2026-03-26 with OT+AMM (+50 elements). Frank Kern is the most COMPLETE paid traffic source — covers both Facebook AND YouTube in depth with systematic Level 1→2→3 scaling methodology. OT adds YouTube Content Video + Vortex frameworks, IBB Simplified. AMM adds Dog Whistle strategy (ML-leveraged ultra-short ads), Facebook scaling ABO→CBO, retargeting architecture. Most practical, data-driven approach to ad management."
+    sources: ["FK-RC (Rainmaker Certification — base traffic frameworks)", "FK-OT (OT YouTube ads depth, IBB Simplified, content ads)", "FK-AMM (AMM Facebook scaling, dog whistle strategy, retargeting architecture)"]
 
   - fonte: "jordan-belfort"
     path: "knowledge/external/dna/persons/jordan-belfort/"
@@ -55,6 +56,17 @@ fontes_consolidadas:
     especialidade: "Traffic Secrets (dedicated module), Traffic Channel Selection Framework (11 channels), Customer Avatar Template for targeting, retargeting strategy (online looping), competitive intelligence for traffic, offline-to-online hybrid traffic, Dan Kennedy's Marketing Triangle applied to traffic"
     tipo_fonte: "PRIMARY"
     note: "Added 2026-03-18. Jordan Belfort SLM has DEDICATED traffic modules (M5: Traffic Secrets, M7: Retargeting, M8: Competitive Intelligence, M9: Offline-to-Online Hybrid). Brings a STRATEGIC approach to traffic — channel selection framework with 11 channels, customer avatar for targeting, and Marketing Triangle (message-market-media match)."
+
+  - fonte: "cole-gordon"
+    path: "knowledge/external/dna/persons/cole-gordon/"
+    raw_path: "knowledge/external/sources/cole-gordon/raw/"
+    peso_dominio: 0.70
+    elementos_contribuidos: 30
+    especialidade: "Attraction Prospecting System (APS — organic lead generation), Two-Step Posts (value-first content → DM conversion), Facebook Groups strategy (community-based lead gen), Outbound Strategy (100 dials/day, messenger outreach), Content Marketing frameworks (15 Content Angles), organic-to-paid traffic bridge"
+    tipo_fonte: "PRIMARY"
+    fontes_incluidas:
+      - "Closers Into Leaders (30 traffic-relevant elementos — APS organic strategy, Two-Step Posts, Facebook Groups, outbound systems, content marketing, 15 Content Angles)"
+    note: "Added 2026-03-26 from CIL. Cole Gordon brings ORGANIC + OUTBOUND traffic generation — Attraction Prospecting System (APS) for organic lead gen, Two-Step Posts (value→DM), Facebook Groups as community funnels, and systematic outbound (100 dials/day). Not a paid media expert, but complements paid traffic sources (Frank Kern, Jeremy Haynes, Cat Howell) with organic and outbound lead generation methodology."
 
   - fonte: "russell-brunson"
     path: "knowledge/external/dna/persons/russell-brunson/"

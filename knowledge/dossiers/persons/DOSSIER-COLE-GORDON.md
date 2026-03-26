@@ -2,11 +2,11 @@
 
 [[HOME|← Home]] | [[MOC-PESSOAS|👤 Pessoas]] | [[MOC-TEMAS|📚 Temas]] | [[knowledge/external/dna/persons/cole-gordon/CONFIG|⚙️ DNA Config]]
 
-> **Em resumo:** Filosofia supera tática. 7 Beliefs instaladas antes do pitch eliminam objeções. Internal pressure > external pressure. Discovery é onde Trust é construída, não no rapport. 6-Phase Call Flow com 4 Pillars Pitch.
+> **Em resumo:** Filosofia supera tática. 7 Beliefs instaladas antes do pitch eliminam objeções. Internal pressure > external pressure. Discovery é onde Trust é construída, não no rapport. 6-Phase Call Flow com 4 Pillars Pitch. CIL expande para liderança de times, organic marketing, messenger sales e offer packaging.
 >
-> **Versão:** 3.1.0 | **Atualizado:** 2026-01-10
+> **Versão:** 4.0.0 | **Atualizado:** 2026-03-26
 > **Densidade:** ◐◐◐◐◐ (5)
-> **Fontes:** 30 batches (005-008, 033-051, 109-115) | ~373 DNA elements
+> **Fontes:** 30 batches (005-008, 033-051, 109-115) + CIL (334 files) | ~396 DNA elements
 
 ---
 
@@ -574,17 +574,90 @@ Se você não pode dizer isso com convicção → não venda.
 
 ---
 
+---
+
+## Closers Into Leaders (CIL) — Programa Completo
+
+> **Processado:** 2026-03-26 | **Arquivos:** 334 (9 módulos + 118 calls) | **9.4MB** | **323 novos elementos DNA**
+
+CIL é o programa mais abrangente de Cole Gordon, cobrindo desde maestria individual em vendas até construção e liderança de times de vendas. Diferencia-se dos materiais anteriores por expandir para organic marketing, messenger sales, hiring e offer packaging.
+
+### Key CIL Frameworks
+
+```
+┌─────────────────────────────────────────────────────────────────────────┐
+│                    CIL — FRAMEWORKS PRINCIPAIS                          │
+├─────────────────────────────────────────────────────────────────────────┤
+│                                                                          │
+│  SEVEN BELIEF LADDER                                                     │
+│  └─ Evolução do 7 Beliefs: estrutura em escada progressiva              │
+│     com checkpoints de instalação por fase da call                      │
+│                                                                          │
+│  REVERSE SELLING SYSTEM                                                  │
+│  └─ Prospect vende para si mesmo. Closer facilita, não empurra.        │
+│     Perguntas estratégicas que levam o prospect a verbalizar a decisão  │
+│                                                                          │
+│  PITCH CODEX                                                             │
+│  └─ Sistema estruturado de construção de pitch além dos 4 Pillars      │
+│     Inclui sequenciamento, modulação de energia e story elements        │
+│                                                                          │
+│  BIG THREE                                                               │
+│  └─ Os 3 pilares fundamentais que todo closer deve dominar              │
+│     antes de qualquer técnica avançada                                  │
+│                                                                          │
+│  APS (Acquisition, Pricing, Scaling)                                     │
+│  └─ Framework de growth que conecta aquisição de clientes               │
+│     com precificação e escalabilidade do time                           │
+│                                                                          │
+│  DPL×LTV                                                                 │
+│  └─ Deal Profitability Leverage × Lifetime Value                        │
+│     Métrica de decisão para avaliar deals e estruturar ofertas          │
+│                                                                          │
+│  BUYING POCKET (Expandido)                                               │
+│  └─ Versão CIL com diagnóstico granular: 5 zonas em vez de 3           │
+│     Inclui re-offer technique para prospects fora do pocket             │
+│                                                                          │
+│  SETTER-TO-CLOSER MODEL                                                  │
+│  └─ Modelo de progressão de carreira: Setter → Junior Closer            │
+│     → Senior Closer → Team Lead → Sales Manager                        │
+│     Com KPIs e milestones por estágio                                   │
+│                                                                          │
+└─────────────────────────────────────────────────────────────────────────┘
+```
+
+### Key CIL Domains
+
+| Domínio | Descrição | Profundidade |
+|---------|-----------|-------------|
+| organic-marketing | Geração de leads sem paid ads, content-first | Alta |
+| outbound-sales | Prospecção ativa, cold outreach, DM strategies | Alta |
+| messenger-sales | Vendas via DM (Instagram, Facebook, LinkedIn) | Alta |
+| hiring-team-building | Recrutamento, onboarding, desenvolvimento de closers | Alta |
+| pipeline-management | Gestão de pipeline, métricas, forecasting | Média |
+| offer-packaging | Estruturação de ofertas, pricing, stacking | Média |
+| market-sophistication | Posicionamento em mercados saturados | Média |
+
+### CIL Insights Únicos
+
+- **Setter-to-Closer Progression:** Modelo de carreira completo com KPIs por estágio
+- **Re-offer Technique:** Como reapresentar oferta para prospects que disseram não
+- **Story Selling:** Uso de narrativas pessoais e de clientes como ferramenta de fechamento
+- **Pre-pitch Methodology:** Aquecimento estruturado antes da call formal
+- **Organic Marketing System:** Framework completo para geração de leads sem ads
+
+---
+
 ## Metadados
 
 | Campo | Valor |
 |-------|-------|
 | **Fonte** | Cole Gordon (Closers.io) |
-| **Batches** | 005-008, 033-051, 109-115 (30 batches) |
-| **Elementos DNA** | ~373 |
-| **Temas** | Fechamento, 7 Beliefs, Call Flow, Tonalidade, Team Scaling |
-| **Protocolo** | JARVIS v3.33.0 |
+| **Batches** | 005-008, 033-051, 109-115 (30 batches) + CIL (334 files) |
+| **Elementos DNA** | ~396 (73 legacy + 323 CIL) |
+| **Temas** | Fechamento, 7 Beliefs, Call Flow, Tonalidade, Team Scaling, Organic Marketing, Messenger Sales, Hiring, Offer Packaging |
+| **Protocolo** | JARVIS v3.33.0 / JARVIS Full Auto (Opus) |
 | **Missão** | MISSION-2026-001 |
-| **Última consolidação** | 2026-01-10 |
+| **Última consolidação** | 2026-03-26 (CIL extraction) |
 
 ---
 
@@ -596,4 +669,4 @@ Se você não pode dizer isso com convicção → não venda.
 ---
 
 *Compilado via Narrative Metabolism Protocol v1.0*
-*Mega Brain System v3.21.0*
+*Mega Brain System v3.21.0 | CIL update via JARVIS Full Auto (Opus) 2026-03-26*

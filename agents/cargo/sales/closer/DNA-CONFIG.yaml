@@ -17,7 +17,9 @@
 # ═══════════════════════════════════════════════════════════════════════════════
 
 cargo: "closer"
-versao: "5.6.0"
+versao: "5.8.0"  # Cole Gordon CIL (Closers Into Leaders — 323 elements, peso 0.95 unchanged) — CORE closer content: Seven Belief Ladder, Reverse Selling System, Buying Pocket, Pacing First Objection, Financial Objection Process, Re-Offer Technique, Pitch Codex, belief-systems, high-ticket-closing. Key heuristics: 40-50% elite close rate, 50-call significance, 30-50% hedge
+# v5.7.0 (prev): Vinh Giang Stage Academy (peso 0.75, 25 elements)
+# v5.6.0 (prev)
 # v5.6.0 (2026-03-24): Stefan Georgi updated 20→35 elements (+15 from RMBC Method, RMBC II, Profit Fix Formula)
 #                      - New SG domains: upsell-closing, AOV-optimization
 #                      - PFF adds upsell closing sequences and AOV optimization techniques applicable to verbal upsells
@@ -194,8 +196,33 @@ dna_sources:
         - "vendas"
         - "closing"
         - "coaching"
+        # CIL additions (2026-03-26)
+        - "sales-philosophy"
+        - "discovery"
+        - "objection-handling"
+        - "belief-systems"
+        - "pitch-codex"
+        - "reverse-selling"
+        - "high-ticket-closing"
+        - "follow-up"
+        - "pipeline-management"
+        - "messenger-sales"
       peso: 0.95
-      quando_usar: "Fonte primária para closing - 7 Beliefs, 4 Pillars, Tonalidade, Inner Game"
+      quando_usar: "Fonte primária para closing - 7 Beliefs, 4 Pillars, Tonalidade, Inner Game + CIL: Seven Belief Ladder, Reverse Selling System, Buying Pocket, Pacing First Objection, Financial Objection Process, Re-Offer Technique, Pitch Codex, belief installation, high-ticket closing mastery"
+      sources:
+        - "legacy (7 Beliefs, 4 Pillars, Tonality, Inner Game, Objection Handling)"
+        - "CIL (Closers Into Leaders — 323 elements, 22 domains: sales-philosophy, closing, discovery, objection-handling, belief-systems, pitch-codex, reverse-selling, high-ticket-closing, sales-team-scaling, hiring, onboarding, compensation, sales-management, pipeline-management, follow-up, outbound-sales, messenger-sales, content-marketing, organic-marketing, offer-design, pricing, fulfillment)"
+      cil_highlights:
+        - "Seven Belief Ladder — structured belief installation during discovery (7 beliefs planted sequentially)"
+        - "Reverse Selling System — prospect convinces themselves through guided self-discovery"
+        - "Buying Pocket — emotional state calibration for optimal close timing"
+        - "Pacing First Objection — preemptive objection neutralization before it surfaces"
+        - "Financial Objection Process — systematic price objection resolution (not just reframe)"
+        - "Re-Offer Technique — strategic downsell/restructure when initial offer rejected"
+        - "Pitch Codex — structured pitch architecture (promise + paradigm + future + delivery)"
+        - "40-50% elite close rate — benchmark for top performers"
+        - "50-call significance — minimum sample for statistical close rate analysis"
+        - "30-50% hedge — compensation structure risk mitigation"
       insight_ids:                                                    # RASTREABILIDADE
         - "7B001"   # 7 Beliefs Framework
         - "4P001"   # 4 Pillars Pitch

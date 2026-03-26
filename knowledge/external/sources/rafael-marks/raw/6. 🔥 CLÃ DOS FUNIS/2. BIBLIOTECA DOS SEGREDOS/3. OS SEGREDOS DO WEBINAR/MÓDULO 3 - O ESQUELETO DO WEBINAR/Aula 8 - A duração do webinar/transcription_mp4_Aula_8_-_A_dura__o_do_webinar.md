@@ -1,0 +1,12 @@
+# Transcrição: Aula 8 - A duração do webinar
+
+- **Fonte:** Aula 8 - A duração do webinar
+- **Duração:** 03:03
+- **Idioma:** pt
+- **Modelo:** small
+
+---
+
+## [00:00 - 03:03]
+
+Show! Sobre a duração do webinar, só pra instruir você, tá? Do começo, a apresentação que vai ter, as promessas que você vai fazer, dando boas vidas, o pessoal chegando e aí você começa a contar sua história até o momento em que você revela a grande oportunidade, revela aquilo que vai explodir tudo nos resultados daquela pessoa, vai levar 15 minutos. Entra história, tá? E eu vou tempo aqui pra você entender e revelação. Entra história e revelação, a revelação daquilo que foi, meu Deus, resolveu a minha vida, beleza, 15 minutos. O segreto número 1, tá? Leva quanto tempo? 15 minutos. O segredo número 2, leva quanto? 15 minutos. Segredo número 3, 15 minutos, tá? Em média é isso, pra funcionar bem, ok? Então você vai ter aqui uma hora de webinar e 30 minutos de pitch, tá bom? São 30 minutos de pitch, porque gente, quanto maior é o ticket, mais tempo eu preciso ficar detalhando a oferta. Então eu vou passar por cada bônus, vou contar a história do bônus, de onde ele veio, de onde ele surgiu, quanto tempo ele poupa, quanto dinheiro ele poupa, tá? Quanto suó foi gasto pra ele ser criado, então vou criar valor em cima do bônus, vou falar quanto que ele vale, tá? E vou encorar na oferta, aí eu vou pro próximo bônus, repito todo o processo, próximo bônus, repito tudo isso de novo, próximo bônus, repito tudo isso de novo, então são 30 minutos de oferta, tá? Depois dos bônus que eu passo por isso eu vou pagar a garantia, a argumentação de fechamento, todas essas coisas assim, tá? 30 minutos de oferta, então 15, 15, 15, 15, 30 minutos de oferta, no final, depois de terminar você pode fazer 30 minutos de perguntas e respostas, tá? E aí isso vai bater no final um webinar de duas horas, ok? Um hora e meia ou duas horas e não, não, cara, presta atenção, perguntas e respostas é uma parada incrível e eu já vi gente dobrar o faturamento do vídeo só por ter ficado mais uma hora ali tirando dúvida de todo mundo, tá bom? Então faça no final perguntas e respostas pelo tempo que for necessário, as pessoas estão ao bio e estão lá tirando dúvidas, se for o webinar automático é a mesma coisa, você pode gravar as maiores dúvidas das pessoas pra entender se esse produto é pra elas e ficar ali no final falando e tirando o link que o pessoal vai assistindo e vai vendo isso, beleza? Valeu!

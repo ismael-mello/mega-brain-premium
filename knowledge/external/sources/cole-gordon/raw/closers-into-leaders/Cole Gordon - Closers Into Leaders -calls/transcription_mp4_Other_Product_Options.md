@@ -1,0 +1,12 @@
+# Transcrição: Other_Product_Options
+
+- **Fonte:** Other_Product_Options
+- **Duração:** 01:59
+- **Idioma:** en
+- **Modelo:** small
+
+---
+
+## [00:00 - 01:59]
+
+Hey folks, what is going on? So in this video really, really quickly, I just wanted to let you know about a document that you're gonna find below. And we call this our product catalog. All right, now, this is a live document that you'll be able to click on and access at any point. And we're gonna present you with some other options of things that you can promote, right? We've spoken to you about the SAA affiliate program. We told you a little bit about what that does, how that structured, all that kind of stuff. But that's not gonna be for everybody and we are totally okay with that. The cool thing is that the stuff that we teach you in here can be transferred to plenty of different programs. So as we've mentioned, we have a focus on the internet marketing game, the make money online niche, if you will. And so the programs that you find listed on this document are going to be more tilted towards that. And we're also gonna have some links to where you can find launches and a few different things that might be of interest to you. So just a really quick video to let you know about that document that you'll find below. You can check back to that frequently and we'll update it from time to time if things pop up that we feel like you should be aware of and we can let you know about those things in the group and keep you updated there as well. But that's some other product options that you can check out. If you're going for a niche that's completely separate to the internet marketing space, obviously we can't show you all of the product options that are out there for every potential niche. So we'll put some notes in there around doing research and how you can go and find different products. But really that's gonna be up to you to go and dig based on the niche and the target customer that you're wanting to go after. You need to go out and dig and see what options there are for the market that you're going after. If you're doing something slightly different to the internet marketing space that we are more traditionally focused on inside this program. So check out that document. You'll see a couple of other options there. Or you've got the SAA affiliate program which we mentioned in a previous video as well. I'll talk to you all in the next one. Cheers.

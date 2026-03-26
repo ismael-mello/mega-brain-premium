@@ -1,0 +1,88 @@
+# ╔══════════════════════════════════════════════════════════════════════════════╗
+# ║                    VINH GIANG — DNA CONFIGURATION                           ║
+# ╚══════════════════════════════════════════════════════════════════════════════╝
+
+version: "1.0.0"
+person: "Vinh Giang"
+type: "SOLO"
+weight: 1.0
+
+dna_path: "knowledge/external/dna/persons/vinh-giang/DNA.yaml"
+
+dna_sources:
+  - id: "SA"
+    name: "Stage Academy"
+    type: "COURSE"
+    files: 42
+    content_files: 40
+    size_bytes: 388419
+    modules: 8
+    extraction_date: "2026-03-25"
+    raiz: "knowledge/external/sources/vinh-giang/raw/stage-academy/"
+    domains:
+      - communication-skills
+      - vocal-mastery
+      - storytelling
+      - body-language
+      - presentation-skills
+      - stage-presence
+      - vocal-archetypes
+      - audience-engagement
+      - self-awareness
+      - vocal-coaching
+    speakers:
+      primary: "Vinh Giang"
+      referenced:
+        - name: "Virginia Satir"
+          contribution: "Hand gesture categories (Satir Categories)"
+        - name: "Bernice McCarthy"
+          contribution: "4MAT Learning System adapted for vocal archetypes"
+        - name: "Mark Bowden"
+          contribution: "Power Sphere body language concept"
+        - name: "Anthony Robbins"
+          contribution: "Example of Motivator archetype"
+        - name: "Brené Brown"
+          contribution: "Example of Friend archetype"
+        - name: "Ken Robinson"
+          contribution: "Example of Educator archetype"
+
+materiais_fonte:
+  - path: "knowledge/external/sources/vinh-giang/raw/stage-academy/00-Introduction/"
+    files: 2
+    key_content: "Welcome + $35k Keynote demonstration"
+  - path: "knowledge/external/sources/vinh-giang/raw/stage-academy/01-Module 1 - The Basics/"
+    files: 3
+    key_content: "5 Universal Laws, Golden Rule, Visual/Vocal Image"
+  - path: "knowledge/external/sources/vinh-giang/raw/stage-academy/02-Module 2 - Vocal Foundations/"
+    files: 8
+    key_content: "5 Vocal Foundations: Rate, Volume, Pitch, Tonality, Pause + Self-Awareness + Rapport"
+  - path: "knowledge/external/sources/vinh-giang/raw/stage-academy/03-Module 3 - Vocal Archetypes/"
+    files: 7
+    key_content: "4 Vocal Archetypes: Motivator, Educator, Coach, Friend + 4MAT Sequencing"
+  - path: "knowledge/external/sources/vinh-giang/raw/stage-academy/04-Module 4 - Storytelling/"
+    files: 9
+    key_content: "4 Chemical Framework, 3-Step Formula, VAKS, Linking, Library of Stories"
+  - path: "knowledge/external/sources/vinh-giang/raw/stage-academy/05-Module 5 - Body Language/"
+    files: 8
+    key_content: "Posture, Hand Gestures (Satir), Facial Expressions, Eye Contact, Movement"
+  - path: "knowledge/external/sources/vinh-giang/raw/stage-academy/06-Module 6 - My Vocal Coach/"
+    files: 4
+    key_content: "Respiration, Phonation, Resonation, Articulation"
+  - path: "knowledge/external/sources/vinh-giang/raw/stage-academy/07-The Journey Beyond STAGE/"
+    files: 1
+    key_content: "Closing message and continuation path"
+
+element_counts:
+  total: 105
+  L1_PHILOSOPHIES: 23
+  L2_MENTAL_MODELS: 18
+  L3_HEURISTICS: 34
+  L4_FRAMEWORKS: 20
+  L5_METHODOLOGIES: 10
+
+next_ids:
+  FIL: "FIL-VG-024"
+  MM: "MM-VG-019"
+  HEUR: "HEUR-VG-035"
+  FW: "FW-VG-021"
+  MET: "MET-VG-011"

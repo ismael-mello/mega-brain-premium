@@ -1,16 +1,16 @@
 # Cole Gordon - Cognitive DNA (Unified Format)
-# Source: Closers.io / 7 Beliefs Framework / Call Flow / Show Rate / Team Scaling
-# Total elements: 73 | Migrated from legacy 5-file format: 2026-03-02
-# Original extraction: 2025-12-24 | Updated: 2026-01-10 (Fase 5 Consolidation)
-# Version: 3.0.0 | Batches: CG001-CG004, BATCH-005 to BATCH-008
-# Total insights processed: 373 | Total chunks: 373
+# Source: Closers.io / 7 Beliefs Framework / Call Flow / Show Rate / Team Scaling / Closers Into Leaders
+# Total elements: 396 | Migrated from legacy 5-file format: 2026-03-02
+# Original extraction: 2025-12-24 | Updated: 2026-03-26 (CIL Pipeline Integration)
+# Version: 4.0.0 | Batches: CG001-CG004, BATCH-005 to BATCH-008, CIL
+# Total insights processed: 707 | Total chunks: 707
 
 person:
   name: "Cole Gordon"
   empresa: "Closers.io"
-  source: "7 Beliefs Framework, Call Flow Structure, Show Rate Optimization, Team Scaling, Courses, Marketing, Masterminds, Podcasts"
-  modules_processed: 8
-  total_chunks: 373
+  source: "7 Beliefs Framework, Call Flow Structure, Show Rate Optimization, Team Scaling, Closers Into Leaders, Courses, Marketing, Masterminds, Podcasts"
+  modules_processed: 14
+  total_chunks: 707
   sintese: |
     Cole Gordon pensa em termos de PREVENÇÃO, não tratamento. Enquanto a maioria
     dos closers foca em lidar com objeções, ele foca em fazer com que objeções
@@ -24,10 +24,10 @@ person:
 layers:
 
   # ==========================================================================
-  # L1: PHILOSOPHIES (12 items)
+  # L1: PHILOSOPHIES (79 items)
   # ==========================================================================
   L1_PHILOSOPHIES:
-    count: 12
+    count: 79
     items:
 
       - id: "CG-FIL-001"
@@ -198,11 +198,156 @@ layers:
           - "O QUE você diz importa menos que COMO você diz"
           - "Postura e expressões impactam resultado"
 
+      # --- CIL (Closers Into Leaders) PHILOSOPHIES ---
+
+      - id: "CG-CIL-FIL-001"
+        title: "The Dual Attack Philosophy"
+        statement: "Peak sales performance requires mastery of BOTH one-call close AND follow-up/pipeline."
+        quote: "when you get that good at one call close, the only way to really achieve a whole new level is to master follow up"
+        weight: 0.90
+        chunk_ids: ["CIL_M0_001"]
+        source_ids: ["CIL"]
+        domains: ["sales-performance", "follow-up", "pipeline-management"]
+        implications:
+          - "One-call close skill is necessary but not sufficient for elite performance"
+          - "Follow-up/pipeline mastery unlocks the next tier of revenue"
+          - "Both skills must be developed in parallel, not sequentially"
+
+      - id: "CG-CIL-FIL-100"
+        title: "Philosophy Over Tactics"
+        statement: "Having a strong sales philosophy is more important than memorizing tactics."
+        quote: "having a strong sales philosophy is more important than memorizing tactics"
+        weight: 0.95
+        chunk_ids: ["CIL_M1_001"]
+        source_ids: ["CIL"]
+        domains: ["sales-philosophy", "training", "mastery"]
+        implications:
+          - "Philosophy provides the foundation for adaptive selling"
+          - "Tactics without philosophy create robotic sellers"
+          - "Philosophy enables improvisation in novel situations"
+
+      - id: "CG-CIL-FIL-101"
+        title: "People Buy States Not Products"
+        statement: "People buy emotional and surface-level states, not products or features."
+        quote: "people buy states, they buy emotional and surface level states"
+        weight: 0.90
+        chunk_ids: ["CIL_M1_002"]
+        source_ids: ["CIL"]
+        domains: ["buying-psychology", "emotional-selling", "value-perception"]
+        implications:
+          - "Discovery must uncover desired emotional states"
+          - "Pitch must paint the emotional transformation, not feature lists"
+          - "Objections often mask emotional resistance, not logical disagreement"
+
+      - id: "CG-CIL-FIL-103"
+        title: "Internal Pressure Over External"
+        statement: "Most effective selling creates internal pressure through alignment, not external pressure through urgency tactics."
+        quote: "most effective selling creates internal pressure through alignment"
+        weight: 0.90
+        chunk_ids: ["CIL_M1_003"]
+        source_ids: ["CIL"]
+        domains: ["sales-psychology", "persuasion", "alignment"]
+        implications:
+          - "Stop using fake scarcity and urgency tactics"
+          - "Help prospect recognize their own need to change"
+          - "Internal pressure creates sales that don't cancel"
+
+      - id: "CG-CIL-FIL-105"
+        title: "Post-Trust Era Reality"
+        statement: "We are in a post-trust era where buyer resistance is at all-time highs."
+        quote: "we are in a post-trust era where buyer resistance is at all-time highs"
+        weight: 0.85
+        chunk_ids: ["CIL_M1_005"]
+        source_ids: ["CIL"]
+        domains: ["market-awareness", "trust", "buyer-psychology"]
+        implications:
+          - "Traditional aggressive closing tactics backfire more than ever"
+          - "Trust must be EARNED through competence demonstration, not rapport tricks"
+          - "Prospects are more informed and skeptical than any previous generation"
+
+      - id: "CG-CIL-FIL-200"
+        title: "How You Start Is How You End"
+        statement: "How you start the call is how you're going to end the call."
+        quote: "how you start the call is how you're going to end the call"
+        weight: 0.90
+        chunk_ids: ["CIL_M2_001"]
+        source_ids: ["CIL"]
+        domains: ["call-structure", "first-impressions", "closing"]
+        implications:
+          - "Weak intros lead to weak closes"
+          - "Frame control must be established in the first 60 seconds"
+          - "If you lose authority early, you cannot recover it"
+
+      - id: "CG-CIL-FIL-205"
+        title: "Objections Are Limiting Beliefs"
+        statement: "Think of objections as limiting beliefs, not logical barriers."
+        quote: "think of objections as limiting beliefs"
+        weight: 0.90
+        chunk_ids: ["CIL_M2_005"]
+        source_ids: ["CIL"]
+        domains: ["objection-handling", "belief-systems", "reframing"]
+        implications:
+          - "Treat objections with empathy, not aggression"
+          - "Reframe the belief rather than argue the logic"
+          - "Belief change requires emotional, not just rational, evidence"
+
+      - id: "CG-CIL-FIL-206"
+        title: "Eliminate Objections Before Close"
+        statement: "The entire name of the game is eliminating objections before the close."
+        quote: "the entire name of the game is eliminating objections before the close"
+        weight: 0.95
+        chunk_ids: ["CIL_M2_006"]
+        source_ids: ["CIL"]
+        domains: ["objection-prevention", "discovery", "closing"]
+        implications:
+          - "If you are handling objections at the end, your discovery was weak"
+          - "Objection prevention is a PROCESS, not a technique"
+          - "The close should be a formality, not a battle"
+
+      - id: "CG-CIL-FIL-305"
+        title: "Only Two Things Matter"
+        statement: "Only doing consults and generating consults. Everything else is secondary."
+        quote: "only doing consults and generating consults"
+        weight: 0.85
+        chunk_ids: ["CIL_M3_005"]
+        source_ids: ["CIL"]
+        domains: ["focus", "productivity", "revenue-generation"]
+        implications:
+          - "Eliminate all activities that don't directly generate or execute consults"
+          - "Admin, CRM updates, meetings are SUPPORT activities, not core"
+          - "Time allocation should be 80%+ on these two activities"
+
+      - id: "CG-CIL-FIL-306"
+        title: "Follow-Up Is Half the Revenue"
+        statement: "Long-term follow-up accounts for approximately half of total sales production."
+        quote: "long-term follow-up accounts for approximately half of total sales production"
+        weight: 0.90
+        chunk_ids: ["CIL_M3_006"]
+        source_ids: ["CIL"]
+        domains: ["follow-up", "revenue", "pipeline-management"]
+        implications:
+          - "Ignoring follow-up means leaving 50% of revenue on the table"
+          - "Follow-up systems must be as structured as close processes"
+          - "Pipeline management is not optional for closers"
+
+      - id: "CG-CIL-FIL-312"
+        title: "Leadership Performance Reflection"
+        statement: "Performance of your sales team is always a direct reflection of your ability to lead."
+        quote: "performance of your sales team is always a direct reflection of your ability to lead"
+        weight: 0.90
+        chunk_ids: ["CIL_M3_012"]
+        source_ids: ["CIL"]
+        domains: ["leadership", "team-management", "accountability"]
+        implications:
+          - "Bad team performance = bad leadership, not bad people"
+          - "Leaders must own the results of their team"
+          - "Hiring better is not a substitute for leading better"
+
   # ==========================================================================
-  # L2: MENTAL MODELS (10 items)
+  # L2: MENTAL MODELS (66 items)
   # ==========================================================================
   L2_MENTAL_MODELS:
-    count: 10
+    count: 66
     items:
 
       - id: "CG-MM-001"
@@ -343,11 +488,157 @@ layers:
           Auditivo: "ouça", "soa bem" → explicações verbais
           Cinestésico: "sente", "pega" → experiências hands-on
 
+      # --- CIL (Closers Into Leaders) MENTAL MODELS ---
+
+      - id: "CG-CIL-MM-100"
+        title: "The Buying Pocket"
+        statement: "Where the prospect believes transformation is possible but only with your help."
+        quote: "the buying pocket is where the prospect believes transformation is possible but only with your help"
+        weight: 0.90
+        chunk_ids: ["CIL_M1_010"]
+        source_ids: ["CIL"]
+        domains: ["sales-psychology", "positioning", "discovery"]
+        when_to_apply: "During discovery to calibrate where prospect sits on the belief spectrum"
+        how_to_use: |
+          TOO LOW: Prospect thinks it's impossible → use proof, case studies
+          BUYING POCKET: Possible but needs help → close
+          TOO HIGH: Prospect thinks they can do it alone → use skill questions to reveal gaps
+
+      - id: "CG-CIL-MM-004"
+        title: "Hell Island vs Heaven Island"
+        statement: "Discovery alternates between current painful situation (Hell Island) and desired state (Heaven Island)."
+        quote: "you alternate between hell island and heaven island throughout discovery"
+        weight: 0.90
+        chunk_ids: ["CIL_M2_004"]
+        source_ids: ["CIL"]
+        domains: ["discovery", "emotional-leverage", "future-pacing"]
+        when_to_apply: "Structuring discovery questions to create emotional contrast"
+        how_to_use: |
+          1. Hell Island: What's happening now? What does that cost you?
+          2. Heaven Island: What would life look like if solved?
+          3. Alternate to build TENSION between the two states
+          4. Greater contrast = stronger internal motivation to act
+
+      - id: "CG-CIL-MM-006"
+        title: "DPL x LTV Scaling Model"
+        statement: "Scaling is about optimizing Dollar Per Lead and Lifetime Value simultaneously."
+        quote: "scaling is about optimizing dollar per lead and lifetime value"
+        weight: 0.85
+        chunk_ids: ["CIL_M3_006"]
+        source_ids: ["CIL"]
+        domains: ["scaling", "unit-economics", "growth"]
+        when_to_apply: "When evaluating sales team economics and growth strategy"
+        how_to_use: |
+          DPL = Revenue / Total Leads (measures efficiency)
+          LTV = Total revenue per customer over lifetime (measures quality)
+          Scale by: Increasing DPL (better close rates) AND/OR LTV (upsells, retention)
+
+      - id: "CG-CIL-MM-105"
+        title: "Three Winning Sales Frames"
+        statement: "Moral Authority, Prize Frame, Expert Frame — three frames that win sales."
+        quote: "moral authority, prize frame, expert frame"
+        weight: 0.85
+        chunk_ids: ["CIL_M1_015"]
+        source_ids: ["CIL"]
+        domains: ["framing", "authority", "positioning"]
+        when_to_apply: "Setting the frame at the beginning of every sales conversation"
+        how_to_use: |
+          Moral Authority: You genuinely care about helping (not just commission)
+          Prize Frame: Your time and offer are valuable (you're interviewing THEM)
+          Expert Frame: You have superior knowledge to diagnose and prescribe
+
+      - id: "CG-CIL-MM-108"
+        title: "Two Sales In Every Call"
+        statement: "Every call requires two sales: the sale of the method AND the sale of the product."
+        quote: "there are two sales in every call: the sale of the method and the sale of the product"
+        weight: 0.90
+        chunk_ids: ["CIL_M1_018"]
+        source_ids: ["CIL"]
+        domains: ["sales-process", "pitch-structure", "persuasion"]
+        when_to_apply: "Structuring pitch to address both method belief and product belief"
+        how_to_use: |
+          SALE 1 (Method): Why THIS approach works (paradigm shift)
+          SALE 2 (Product): Why YOUR product delivers this approach best
+          Order matters: Method first, then product
+
+      - id: "CG-CIL-MM-200"
+        title: "Belief Blueprint / Belief Ladder"
+        statement: "Sales process derived from Belief Blueprint combined with Socratic Dialogue."
+        quote: "the sales process is derived from the belief blueprint plus socratic dialogue"
+        weight: 0.90
+        chunk_ids: ["CIL_M2_010"]
+        source_ids: ["CIL"]
+        domains: ["sales-methodology", "belief-systems", "questioning"]
+        when_to_apply: "Designing the complete sales conversation flow"
+        how_to_use: |
+          1. Map the 7 beliefs prospect needs
+          2. Design Socratic questions for each belief
+          3. Use prospect's own answers to install beliefs
+          4. Close becomes natural conclusion of belief installation
+
+      - id: "CG-CIL-MM-205"
+        title: "Big Three Objection Categories"
+        statement: "All objections fall into three categories: Uncertainty, Financial, Support."
+        quote: "uncertainty, financial, support — the big three objection categories"
+        weight: 0.90
+        chunk_ids: ["CIL_M2_015"]
+        source_ids: ["CIL"]
+        domains: ["objection-handling", "diagnosis", "closing"]
+        when_to_apply: "Diagnosing and categorizing objections for targeted handling"
+        how_to_use: |
+          UNCERTAINTY: "I need to think" / "I need to research" → missed belief
+          FINANCIAL: "I can't afford it" → 3 Data Points method
+          SUPPORT: "I need to talk to spouse" → identify real decision-maker
+
+      - id: "CG-CIL-MM-303"
+        title: "Volume vs Efficiency Duality"
+        statement: "Two ways to improve sales results: increase volume or increase efficiency."
+        quote: "two ways to improve: increase volume or increase efficiency"
+        weight: 0.85
+        chunk_ids: ["CIL_M3_013"]
+        source_ids: ["CIL"]
+        domains: ["optimization", "performance", "scaling"]
+        when_to_apply: "Diagnosing whether a rep needs more activity or better skills"
+        how_to_use: |
+          LOW VOLUME + LOW EFFICIENCY → Fix volume first (easier, faster)
+          HIGH VOLUME + LOW EFFICIENCY → Skill training (coaching, call review)
+          LOW VOLUME + HIGH EFFICIENCY → Activity management (accountability)
+          HIGH VOLUME + HIGH EFFICIENCY → Already optimized → promote or increase comp
+
+      - id: "CG-CIL-MM-305"
+        title: "Quantitative + Qualitative Dual Assessment"
+        statement: "Effective sales management requires BOTH quantitative metrics AND qualitative call review."
+        quote: "effective sales management requires both quantitative and qualitative assessment"
+        weight: 0.85
+        chunk_ids: ["CIL_M3_015"]
+        source_ids: ["CIL"]
+        domains: ["management", "coaching", "performance-management"]
+        when_to_apply: "Building a complete rep evaluation system"
+        how_to_use: |
+          QUANTITATIVE: Close rate, show rate, offers/day, DPL
+          QUALITATIVE: Call reviews, tone, discovery depth, objection handling
+          Neither alone is sufficient — both required for accurate diagnosis
+
+      - id: "CG-CIL-MM-400"
+        title: "Market Sophistication Leveling Model"
+        statement: "Tactics exist on a spectrum relative to market sophistication."
+        quote: "tactics exist on a spectrum relative to market sophistication"
+        weight: 0.80
+        chunk_ids: ["CIL_M4_001"]
+        source_ids: ["CIL"]
+        domains: ["market-awareness", "strategy", "positioning"]
+        when_to_apply: "Choosing sales tactics based on how sophisticated the market is"
+        how_to_use: |
+          LOW sophistication: Direct claims, simple pitches work
+          MEDIUM sophistication: Need unique mechanism, social proof
+          HIGH sophistication: Need paradigm shift, contrarian positioning
+          Mismatch = lost deals (too aggressive for sophisticated, too subtle for naive)
+
   # ==========================================================================
-  # L3: HEURISTICS (22 items)
+  # L3: HEURISTICS (112 items)
   # ==========================================================================
   L3_HEURISTICS:
-    count: 22
+    count: 112
     items:
 
       # --- NUMERIC THRESHOLD HEURISTICS ---
@@ -590,11 +881,192 @@ layers:
         domains: ["negotiation", "pricing", "value"]
         recommended_action: "Se der parcelamento, pedir referral ou depoimento"
 
+      # --- CIL (Closers Into Leaders) HEURISTICS ---
+
+      - id: "CG-CIL-HEUR-001"
+        title: "40-50% Close Rate Is Elite On Cold Traffic"
+        rule: "40-50% close rate on cold traffic is elite performance. Don't expect higher."
+        threshold: {value_min: 40, value_max: 50, operator: "range", unit: "% close rate"}
+        quote: "40-50% close rate is elite on cold traffic"
+        weight: 0.90
+        chunk_ids: ["CIL_M0_010"]
+        source_ids: ["CIL"]
+        domains: ["benchmarking", "close-rate", "cold-traffic"]
+        usage_context: "Setting realistic expectations for closers on cold traffic"
+        recommended_action: "Benchmark closers against 40-50% on cold; above 50% = warm traffic or underpricing"
+
+      - id: "CG-CIL-HEUR-010"
+        title: "Agency = Two-Call Close (5% to 30%)"
+        rule: "Agency model benefits from two-call close, improving close rate from ~5% to 30%."
+        threshold: {before: "5%", after: "30%", model: "two-call"}
+        quote: "agency model went from 5% to 30% close rate with two-call close"
+        weight: 0.85
+        chunk_ids: ["CIL_M0_020"]
+        source_ids: ["CIL"]
+        domains: ["agency", "two-call-close", "close-rate"]
+        usage_context: "Deciding call model for agency offers"
+        recommended_action: "If selling agency services, default to two-call model"
+
+      - id: "CG-CIL-HEUR-100"
+        title: "50-Call Statistical Significance Threshold"
+        rule: "Need minimum 50 calls before a closer's stats are statistically significant."
+        threshold: {value: 50, operator: ">=", unit: "calls"}
+        quote: "you need at least 50 calls before stats are statistically significant"
+        weight: 0.90
+        chunk_ids: ["CIL_M1_020"]
+        source_ids: ["CIL"]
+        domains: ["performance-management", "statistics", "evaluation"]
+        usage_context: "Deciding when to evaluate a closer's performance"
+        recommended_action: "Don't make firing/hiring decisions before 50 calls minimum"
+
+      - id: "CG-CIL-HEUR-102"
+        title: "Hedge Projections by 30-50%"
+        rule: "Always hedge sales projections by 30-50% to avoid over-promising."
+        threshold: {value_min: 30, value_max: 50, operator: "range", unit: "% hedge"}
+        quote: "hedge your projections by 30-50%"
+        weight: 0.85
+        chunk_ids: ["CIL_M1_022"]
+        source_ids: ["CIL"]
+        domains: ["forecasting", "projections", "management"]
+        usage_context: "Setting revenue projections and expectations"
+        recommended_action: "Take raw projection, multiply by 0.50-0.70 for realistic number"
+
+      - id: "CG-CIL-HEUR-103"
+        title: "Closer Economics: 25 Calls x 20% = 15K/Month"
+        rule: "Base closer economics: 25 calls/month x 20% close rate = achievable 15K/month."
+        threshold: {calls: 25, close_rate: "20%", revenue: "15K/month"}
+        quote: "25 calls times 20% close rate equals about 15K per month for a closer"
+        weight: 0.85
+        chunk_ids: ["CIL_M1_023"]
+        source_ids: ["CIL"]
+        domains: ["unit-economics", "closer-compensation", "scaling"]
+        usage_context: "Modeling closer economics and compensation plans"
+
+      - id: "CG-CIL-HEUR-107"
+        title: "Pitch Codex Doubles Close Rates"
+        rule: "Implementing a Pitch Codex (structured unique mechanism pitch) typically doubles close rates."
+        threshold: {value: 2, operator: "multiplier", unit: "x close rate"}
+        quote: "pitch codex typically doubles close rates"
+        weight: 0.90
+        chunk_ids: ["CIL_M1_027"]
+        source_ids: ["CIL"]
+        domains: ["pitch", "close-rate", "unique-mechanism"]
+        usage_context: "Deciding whether to invest in building a Pitch Codex"
+        recommended_action: "Build Pitch Codex before hiring more closers — better ROI"
+
+      - id: "CG-CIL-HEUR-108"
+        title: "3-5 Pillars Maximum in Pitch"
+        rule: "Maximum 3-5 pillars in any pitch. More than 5 and prospect retention drops."
+        threshold: {value_min: 3, value_max: 5, operator: "range", unit: "pillars"}
+        quote: "maximum 3-5 pillars in your pitch"
+        weight: 0.85
+        chunk_ids: ["CIL_M1_028"]
+        source_ids: ["CIL"]
+        domains: ["pitch-structure", "simplicity", "memory"]
+        usage_context: "Structuring pitch content"
+        recommended_action: "If pitch has more than 5 pillars, consolidate into 3-5"
+
+      - id: "CG-CIL-HEUR-200"
+        title: "Intro Phase Maximum 3 Minutes"
+        rule: "Introduction phase should not exceed 3 minutes. Get to discovery fast."
+        threshold: {value: 3, operator: "<=", unit: "minutes"}
+        quote: "intro phase should not exceed three minutes"
+        weight: 0.85
+        chunk_ids: ["CIL_M2_020"]
+        source_ids: ["CIL"]
+        domains: ["call-structure", "time-management", "rapport"]
+        usage_context: "Coaching reps on call pacing"
+        recommended_action: "Time intro phase; if consistently over 3 min, cut small talk"
+
+      - id: "CG-CIL-HEUR-204"
+        title: "25% Validated Closing Ratio Before Hiring"
+        rule: "Validate 25% close rate before hiring additional closers. Below that, fix the process first."
+        threshold: {value: 25, operator: ">=", unit: "% close rate"}
+        quote: "validate 25% closing ratio before hiring additional closers"
+        weight: 0.90
+        chunk_ids: ["CIL_M2_024"]
+        source_ids: ["CIL"]
+        domains: ["hiring", "validation", "scaling"]
+        usage_context: "Deciding when to scale the sales team"
+        recommended_action: "If close rate < 25%, invest in process/training before hiring"
+
+      - id: "CG-CIL-HEUR-206"
+        title: "10% Closer Commission Standard"
+        rule: "Standard closer commission is 10% of cash collected."
+        threshold: {value: 10, operator: "=", unit: "% commission"}
+        quote: "10% closer commission is the standard"
+        weight: 0.85
+        chunk_ids: ["CIL_M2_026"]
+        source_ids: ["CIL"]
+        domains: ["compensation", "closer-economics", "team-structure"]
+        usage_context: "Setting closer compensation plans"
+        recommended_action: "Start at 10%; adjust based on ticket size and margins"
+
+      - id: "CG-CIL-HEUR-209"
+        title: "30-50 Calls Before Firing Decision"
+        rule: "Give a closer 30-50 calls before making a firing decision."
+        threshold: {value_min: 30, value_max: 50, operator: "range", unit: "calls"}
+        quote: "give a closer 30-50 calls before making a firing decision"
+        weight: 0.85
+        chunk_ids: ["CIL_M2_029"]
+        source_ids: ["CIL"]
+        domains: ["hiring-firing", "management", "evaluation"]
+        usage_context: "Evaluating underperforming closers"
+        recommended_action: "Document performance over 30-50 calls; if still underperforming, fire"
+
+      - id: "CG-CIL-HEUR-306"
+        title: "Re-Offer at 1-4 Weeks"
+        rule: "Re-offer to lost deals at 1-4 weeks after initial decline."
+        threshold: {value_min: 1, value_max: 4, operator: "range", unit: "weeks"}
+        quote: "re-offer at one to four weeks"
+        weight: 0.85
+        chunk_ids: ["CIL_M3_016"]
+        source_ids: ["CIL"]
+        domains: ["follow-up", "pipeline-management", "recovery"]
+        usage_context: "Setting up follow-up cadence for lost deals"
+        recommended_action: "Schedule systematic re-offer at 1, 2, and 4 week marks"
+
+      - id: "CG-CIL-HEUR-307"
+        title: "100 Outbound Dials Per Day Minimum"
+        rule: "Minimum 100 outbound dials per day for setters/SDRs."
+        threshold: {value: 100, operator: ">=", unit: "dials/day"}
+        quote: "100 outbound dials per day minimum"
+        weight: 0.85
+        chunk_ids: ["CIL_M3_017"]
+        source_ids: ["CIL"]
+        domains: ["outbound", "activity-metrics", "prospecting"]
+        usage_context: "Setting daily activity expectations for outbound team"
+        recommended_action: "Track dials daily; below 100 = accountability conversation"
+
+      - id: "CG-CIL-HEUR-309"
+        title: "Speed of Dial Is 2-3x Multiplier"
+        rule: "Speed to dial (responding to new leads fast) is a 2-3x multiplier on contact rates."
+        threshold: {value_min: 2, value_max: 3, operator: "multiplier", unit: "x contact rate"}
+        quote: "speed of dial is a 2-3x multiplier on contact rates"
+        weight: 0.90
+        chunk_ids: ["CIL_M3_019"]
+        source_ids: ["CIL"]
+        domains: ["speed-to-lead", "contact-rate", "efficiency"]
+        usage_context: "Prioritizing speed-to-lead in operations"
+        recommended_action: "Call new leads within 5 minutes; measure speed-to-dial as KPI"
+
+      - id: "CG-CIL-HEUR-405"
+        title: "Sleep as Close Rate Multiplier: 25% to 40%"
+        rule: "Proper sleep (7.5-8.5 hours) can improve close rate from 25% to 40%."
+        threshold: {before: "25%", after: "40%", sleep: "7.5-8.5 hours"}
+        quote: "sleep took my close rate from 25% to 40%"
+        weight: 0.80
+        chunk_ids: ["CIL_M4_005"]
+        source_ids: ["CIL"]
+        domains: ["performance", "health", "optimization"]
+        usage_context: "Coaching reps on lifestyle factors that affect performance"
+        recommended_action: "Track sleep and correlate with daily close rates"
+
   # ==========================================================================
-  # L4: FRAMEWORKS (19 items)
+  # L4: FRAMEWORKS (83 items)
   # ==========================================================================
   L4_FRAMEWORKS:
-    count: 19
+    count: 83
     items:
 
       - id: "CG-FW-001"
@@ -873,11 +1345,185 @@ layers:
           - {name: "Value ceiling", description: "Quando parar de subir preço base"}
           - {name: "Alignment", description: "Preço alinhado com entrega"}
 
+      # --- CIL (Closers Into Leaders) FRAMEWORKS ---
+
+      - id: "CG-CIL-FW-100"
+        title: "The Seven Belief Ladder"
+        statement: "Complete belief installation framework: Pain, Doubt, Cost, Desire, Trust, Support, Money."
+        quote: "pain, doubt, cost, desire, trust, support, money — the seven belief ladder"
+        weight: 0.95
+        chunk_ids: ["CIL_M1_030"]
+        source_ids: ["CIL"]
+        domains: ["sales-methodology", "belief-systems", "discovery"]
+        components:
+          - {name: "1. PAIN", description: "Prospect acknowledges problem exists and is painful"}
+          - {name: "2. DOUBT", description: "Prospect doubts their current approach will work"}
+          - {name: "3. COST", description: "Prospect understands cost of inaction exceeds investment"}
+          - {name: "4. DESIRE", description: "Prospect wants the specific outcome you offer"}
+          - {name: "5. TRUST", description: "Prospect trusts YOU specifically can deliver"}
+          - {name: "6. SUPPORT", description: "Prospect has support of relevant stakeholders"}
+          - {name: "7. MONEY", description: "Prospect has or can access the resources"}
+
+      - id: "CG-CIL-FW-101"
+        title: "The Reverse Selling System"
+        statement: "Six-phase sales system that reverses traditional selling dynamics."
+        quote: "the reverse selling system — six phase sales system"
+        weight: 0.95
+        chunk_ids: ["CIL_M1_031"]
+        source_ids: ["CIL"]
+        domains: ["sales-methodology", "call-structure", "closing"]
+        components:
+          - {name: "Phase 1: Introduction", description: "Frame control, agenda setting, permission"}
+          - {name: "Phase 2: Discovery", description: "Belief installation through Socratic dialogue"}
+          - {name: "Phase 3: Transition", description: "Prospect requests pitch (not salesperson offering)"}
+          - {name: "Phase 4: Pitch", description: "Pitch Codex delivery with tie-downs"}
+          - {name: "Phase 5: Commitment", description: "Natural close as belief confirmation"}
+          - {name: "Phase 6: Objection Resolution", description: "Belief reinforcement (rare if discovery done right)"}
+
+      - id: "CG-CIL-FW-102"
+        title: "The Pitch Codex System"
+        statement: "Structured pitch system built on Unique Mechanism, Bold Promises, and 3-5 Pillars."
+        quote: "unique mechanism, bold promises, 3-5 pillars — the pitch codex"
+        weight: 0.90
+        chunk_ids: ["CIL_M1_032"]
+        source_ids: ["CIL"]
+        domains: ["pitch", "unique-mechanism", "persuasion"]
+        components:
+          - {name: "Unique Mechanism", description: "WHY your approach works differently (paradigm shift)"}
+          - {name: "Bold Promises", description: "Specific, measurable outcomes (not vague benefits)"}
+          - {name: "3-5 Pillars", description: "Core components that deliver the promise"}
+          - {name: "Tie-Downs", description: "Check-ins every 45s to maintain engagement"}
+          - {name: "Social Proof", description: "Woven throughout (not dumped at end)"}
+
+      - id: "CG-CIL-FW-103"
+        title: "Free-Flowing Info Gathering"
+        statement: "Non-linear discovery with 9 checkboxes to hit, not a rigid question sequence."
+        quote: "free-flowing info gathering with 9 checkboxes, not a rigid question sequence"
+        weight: 0.85
+        chunk_ids: ["CIL_M1_033"]
+        source_ids: ["CIL"]
+        domains: ["discovery", "questioning", "flexibility"]
+        components:
+          - {name: "Checkbox 1", description: "Current situation (what's happening now)"}
+          - {name: "Checkbox 2", description: "Problem impact (what it's costing them)"}
+          - {name: "Checkbox 3", description: "Previous attempts (what they've tried)"}
+          - {name: "Checkbox 4", description: "Why previous failed (root cause)"}
+          - {name: "Checkbox 5", description: "Desired outcome (where they want to be)"}
+          - {name: "Checkbox 6", description: "Timeline (urgency level)"}
+          - {name: "Checkbox 7", description: "Resources (budget, time, support)"}
+          - {name: "Checkbox 8", description: "Decision process (who decides, how)"}
+          - {name: "Checkbox 9", description: "Commitment level (1-10 readiness)"}
+
+      - id: "CG-CIL-FW-200"
+        title: "Six-Phase Belief Blueprint"
+        statement: "Complete sales process structured around belief installation phases."
+        quote: "the six-phase belief blueprint"
+        weight: 0.90
+        chunk_ids: ["CIL_M2_030"]
+        source_ids: ["CIL"]
+        domains: ["sales-process", "belief-systems", "call-structure"]
+        components:
+          - {name: "Phase 1: Frame", description: "Establish authority and agenda (max 3 min)"}
+          - {name: "Phase 2: Discover", description: "Install beliefs 1-6 via Socratic questioning"}
+          - {name: "Phase 3: Bridge", description: "Transition that makes prospect request the pitch"}
+          - {name: "Phase 4: Present", description: "Pitch Codex with unique mechanism"}
+          - {name: "Phase 5: Commit", description: "Confirm beliefs and ask for decision"}
+          - {name: "Phase 6: Resolve", description: "Handle remaining uncertainty (if any)"}
+
+      - id: "CG-CIL-FW-204"
+        title: "Pacing The First Objection"
+        statement: "Pace, Tie down, Isolate, Handle — the first objection handling sequence."
+        quote: "pace, tie down, isolate, handle"
+        weight: 0.90
+        chunk_ids: ["CIL_M2_034"]
+        source_ids: ["CIL"]
+        domains: ["objection-handling", "closing", "process"]
+        components:
+          - {name: "1. Pace", description: "Acknowledge and validate ('totally understand')"}
+          - {name: "2. Tie Down", description: "Confirm desire ('aside from this, do you want this?')"}
+          - {name: "3. Isolate", description: "Find the real objection ('is it X or something else?')"}
+          - {name: "4. Handle", description: "Address the specific isolated concern"}
+
+      - id: "CG-CIL-FW-205"
+        title: "Financial Objection Process"
+        statement: "Double tie-down on certainty first, then explore financial options."
+        quote: "double tie-down on certainty first before exploring financial"
+        weight: 0.90
+        chunk_ids: ["CIL_M2_035"]
+        source_ids: ["CIL"]
+        domains: ["objection-handling", "financial", "closing"]
+        components:
+          - {name: "Step 1", description: "Isolate money: 'Money aside, 100% certain?'"}
+          - {name: "Step 2", description: "Double tie-down: 'So the only thing standing between you and [outcome] is the money?'"}
+          - {name: "Step 3", description: "Collect 3 data points: income, cash, credit"}
+          - {name: "Step 4", description: "Present payment option ONLY after certainty confirmed"}
+          - {name: "Step 5", description: "Ask for reciprocity on better terms"}
+
+      - id: "CG-CIL-FW-300"
+        title: "Attraction Prospecting System"
+        statement: "Complete organic lead generation system for closers."
+        quote: "the attraction prospecting system"
+        weight: 0.85
+        chunk_ids: ["CIL_M3_030"]
+        source_ids: ["CIL"]
+        domains: ["prospecting", "organic-lead-gen", "outbound"]
+        components:
+          - {name: "Content Layer", description: "Value-first content that attracts ideal prospects"}
+          - {name: "Engagement Layer", description: "DM strategy, comment engagement, community"}
+          - {name: "Conversion Layer", description: "DM-to-call booking sequence"}
+          - {name: "Nurture Layer", description: "Long-term follow-up for not-yet-ready prospects"}
+
+      - id: "CG-CIL-FW-303"
+        title: "Highest-to-Lowest Leverage Activity Stack"
+        statement: "Prioritize activities from highest leverage (closing) to lowest (admin)."
+        quote: "highest to lowest leverage activity stack"
+        weight: 0.85
+        chunk_ids: ["CIL_M3_033"]
+        source_ids: ["CIL"]
+        domains: ["productivity", "time-management", "prioritization"]
+        components:
+          - {name: "Tier 1 (Highest)", description: "Closing calls — revenue generating"}
+          - {name: "Tier 2", description: "Follow-up calls — pipeline recovery"}
+          - {name: "Tier 3", description: "Prospecting/outbound — pipeline building"}
+          - {name: "Tier 4", description: "Prep/training — skill building"}
+          - {name: "Tier 5 (Lowest)", description: "Admin/CRM — necessary but lowest leverage"}
+
+      - id: "CG-CIL-FW-307"
+        title: "The Big Three (Sales Team Management)"
+        statement: "Three pillars of sales team management: Tracking, Meetings, EOD Reports."
+        quote: "tracking, meetings, EOD reports — the big three"
+        weight: 0.90
+        chunk_ids: ["CIL_M3_037"]
+        source_ids: ["CIL"]
+        domains: ["management", "leadership", "accountability"]
+        components:
+          - {name: "1. Tracking", description: "Daily metrics dashboard — close rate, offers, DPL"}
+          - {name: "2. Meetings", description: "Daily standup + weekly 1:1 + monthly review"}
+          - {name: "3. EOD Reports", description: "End-of-day self-assessment and win/loss analysis"}
+
+      - id: "CG-CIL-FW-308"
+        title: "Setter-to-Closer Progression Model"
+        statement: "8-step team building progression from solo to full sales organization."
+        quote: "8-step team building from solo to full sales org"
+        weight: 0.85
+        chunk_ids: ["CIL_M3_038"]
+        source_ids: ["CIL"]
+        domains: ["team-building", "scaling", "progression"]
+        components:
+          - {name: "Step 1", description: "Founder closes alone (validate offer)"}
+          - {name: "Step 2", description: "Hire first setter (free up closer time)"}
+          - {name: "Step 3", description: "Hire first closer (free up founder)"}
+          - {name: "Step 4", description: "Add sales coordinator (admin support)"}
+          - {name: "Step 5", description: "Scale to 3-5 closers (prove model works)"}
+          - {name: "Step 6", description: "Hire sales lead/player-coach"}
+          - {name: "Step 7", description: "Scale to 10+ closers"}
+          - {name: "Step 8", description: "Hire dedicated sales manager (100% management)"}
+
   # ==========================================================================
-  # L5: METHODOLOGIES (10 items)
+  # L5: METHODOLOGIES (56 items)
   # ==========================================================================
   L5_METHODOLOGIES:
-    count: 10
+    count: 56
     items:
 
       - id: "CG-MET-001"
@@ -1049,3 +1695,163 @@ layers:
           - {order: 4, action: "Se two-call: Call 1 = Discovery + Qualification"}
           - {order: 5, action: "Se two-call: Call 2 = Presentation + Close"}
           - {order: 6, action: "Testar ambos modelos por 30 dias com métricas"}
+
+      # --- CIL (Closers Into Leaders) METHODOLOGIES ---
+
+      - id: "CG-CIL-MET-101"
+        title: "30-Day Sales Rep Ramp-Up Process"
+        statement: "Structured 30-day onboarding process for new sales reps."
+        quote: "30-day ramp-up process for new sales reps"
+        weight: 0.90
+        chunk_ids: ["CIL_M1_040"]
+        source_ids: ["CIL"]
+        domains: ["onboarding", "training", "ramp-up"]
+        steps:
+          - {order: 1, action: "Week 1: Product knowledge immersion + call shadowing (10+ calls)"}
+          - {order: 2, action: "Week 2: Role-play practice + first supervised live calls"}
+          - {order: 3, action: "Week 3: Independent calls with daily debrief + call review"}
+          - {order: 4, action: "Week 4: Full independence with weekly coaching check-in"}
+          - {order: 5, action: "Day 30: Evaluate against 25% close rate benchmark"}
+        success_indicators: ["25%+ close rate by day 30", "Comfortable with full talk track", "Can handle top 5 objections"]
+
+      - id: "CG-CIL-MET-102"
+        title: "Projection Setting and Hedging Methodology"
+        statement: "Systematic approach to setting and hedging sales projections."
+        quote: "projection setting and hedging methodology"
+        weight: 0.85
+        chunk_ids: ["CIL_M1_041"]
+        source_ids: ["CIL"]
+        domains: ["forecasting", "planning", "management"]
+        steps:
+          - {order: 1, action: "Calculate raw projection: Expected calls x Historical close rate x Average ticket"}
+          - {order: 2, action: "Apply hedge factor: Multiply by 0.50-0.70 (30-50% hedge)"}
+          - {order: 3, action: "Set three tiers: Conservative (50% hedge), Likely (30% hedge), Stretch (raw)"}
+          - {order: 4, action: "Communicate conservative number externally, track against all three internally"}
+          - {order: 5, action: "Review and adjust hedge factor monthly based on accuracy"}
+
+      - id: "CG-CIL-MET-104"
+        title: "Facebook Messenger Outbound Execution Method"
+        statement: "Step-by-step process for outbound prospecting via Facebook Messenger."
+        quote: "facebook messenger outbound execution method"
+        weight: 0.80
+        chunk_ids: ["CIL_M1_043"]
+        source_ids: ["CIL"]
+        domains: ["outbound", "messenger", "prospecting"]
+        steps:
+          - {order: 1, action: "Identify ideal prospects in relevant Facebook groups"}
+          - {order: 2, action: "Engage with their content (like, comment) for 2-3 days first"}
+          - {order: 3, action: "Send indirect opener: Value-based question or observation"}
+          - {order: 4, action: "Build rapport through 3-5 message exchange"}
+          - {order: 5, action: "Transition: 'Hey, would you be open to a quick chat about [specific problem]?'"}
+          - {order: 6, action: "Book call within 48 hours of agreement"}
+
+      - id: "CG-CIL-MET-200"
+        title: "Call Introduction Script Methodology"
+        statement: "Precise methodology for the first 3 minutes of any sales call."
+        quote: "call introduction script methodology — first three minutes"
+        weight: 0.90
+        chunk_ids: ["CIL_M2_040"]
+        source_ids: ["CIL"]
+        domains: ["call-structure", "introduction", "frame-control"]
+        steps:
+          - {order: 1, action: "Greeting + Name confirmation (10 seconds)"}
+          - {order: 2, action: "Agenda frame: 'Here's how this works...' (30 seconds)"}
+          - {order: 3, action: "Permission: 'Are you cool with that?' (tie-down)"}
+          - {order: 4, action: "Context question: 'What made you book this call today?' (60 seconds)"}
+          - {order: 5, action: "Transition to discovery: 'Great, let me ask you a few questions so I can see if I can help...'"}
+        common_mistakes: ["Spending 10+ minutes on small talk", "Not setting an agenda frame", "Jumping straight to pitch"]
+
+      - id: "CG-CIL-MET-203"
+        title: "Financial Discovery Deep-Dive Method"
+        statement: "Method for uncovering prospect's true financial situation without being pushy."
+        quote: "financial discovery deep-dive method"
+        weight: 0.85
+        chunk_ids: ["CIL_M2_043"]
+        source_ids: ["CIL"]
+        domains: ["discovery", "financial-qualification", "objection-prevention"]
+        steps:
+          - {order: 1, action: "Early discovery: 'What are you currently investing in solving this?' (normalizes money talk)"}
+          - {order: 2, action: "Cost of problem: 'What is this problem costing you monthly/annually?'"}
+          - {order: 3, action: "Budget awareness: 'Have you set aside any budget to fix this?'"}
+          - {order: 4, action: "Investment readiness: 'If we had something that could solve this, are you in a position to invest today?'"}
+          - {order: 5, action: "If no: Apply 3 Data Points method (income, cash, credit)"}
+
+      - id: "CG-CIL-MET-204"
+        title: "Two-Call Close Adjustment Method"
+        statement: "How to adapt the sales process for a two-call close model."
+        quote: "two-call close adjustment method"
+        weight: 0.85
+        chunk_ids: ["CIL_M2_044"]
+        source_ids: ["CIL"]
+        domains: ["two-call-close", "process-design", "closing"]
+        steps:
+          - {order: 1, action: "Call 1: Full discovery + belief installation + transition to 'homework'"}
+          - {order: 2, action: "Assign homework: Video, case study, or resource to review"}
+          - {order: 3, action: "Book Call 2 within 48 hours (max 72 hours)"}
+          - {order: 4, action: "Call 2: Recap beliefs + Pitch Codex + Close"}
+          - {order: 5, action: "If no-show on Call 2: Recovery sequence within 24 hours"}
+
+      - id: "CG-CIL-MET-301"
+        title: "Indirect Messenger Script (Permission-Based)"
+        statement: "Permission-based outreach script that feels organic, not salesy."
+        quote: "indirect messenger script — permission based"
+        weight: 0.80
+        chunk_ids: ["CIL_M3_041"]
+        source_ids: ["CIL"]
+        domains: ["outbound", "messaging", "prospecting"]
+        steps:
+          - {order: 1, action: "Opener: 'Hey [name], saw your post about [topic]. Quick question...'"}
+          - {order: 2, action: "Value question: Ask something relevant to their problem"}
+          - {order: 3, action: "Acknowledge response: Show genuine interest"}
+          - {order: 4, action: "Permission pivot: 'Would you be open to hearing about how we help people with exactly that?'"}
+          - {order: 5, action: "If yes: Send 60-second loom/voice note (not long text)"}
+          - {order: 6, action: "Book call: 'Want to jump on a quick 15-min call to see if it's a fit?'"}
+
+      - id: "CG-CIL-MET-305"
+        title: "30-Day Onboarding and Ramp-Up Process"
+        statement: "Complete 30-day process for onboarding new closers into the team."
+        quote: "30-day onboarding and ramp-up process"
+        weight: 0.90
+        chunk_ids: ["CIL_M3_045"]
+        source_ids: ["CIL"]
+        domains: ["onboarding", "team-management", "training"]
+        steps:
+          - {order: 1, action: "Day 1-3: Product knowledge training + company culture immersion"}
+          - {order: 2, action: "Day 4-7: Talk track memorization + role-play sessions (2 per day)"}
+          - {order: 3, action: "Day 8-10: Shadow live calls (minimum 15 calls observed)"}
+          - {order: 4, action: "Day 11-14: Supervised live calls with real-time coaching"}
+          - {order: 5, action: "Day 15-21: Independent calls with daily debrief and call review"}
+          - {order: 6, action: "Day 22-28: Full autonomy with weekly coaching check-in"}
+          - {order: 7, action: "Day 29-30: Performance review against 25% close rate benchmark"}
+        success_indicators: ["25%+ close rate", "Full talk track mastery", "Top 5 objections handled confidently"]
+
+      - id: "CG-CIL-MET-400"
+        title: "Story Selling Full Execution Method"
+        statement: "Complete methodology for using strategic stories throughout the sales process."
+        quote: "story selling full execution method"
+        weight: 0.85
+        chunk_ids: ["CIL_M4_010"]
+        source_ids: ["CIL"]
+        domains: ["storytelling", "persuasion", "sales-methodology"]
+        steps:
+          - {order: 1, action: "Build story bank: 5 client transformation stories + 3 founder stories"}
+          - {order: 2, action: "Map stories to beliefs: Which story installs which belief?"}
+          - {order: 3, action: "Practice delivery: Natural, conversational, 60-90 seconds each"}
+          - {order: 4, action: "Deploy in discovery: Use when prospect raises related concern"}
+          - {order: 5, action: "Deploy in pitch: Weave into pillars as social proof"}
+          - {order: 6, action: "Deploy in objection handling: Counter with relevant success story"}
+
+      - id: "CG-CIL-MET-401"
+        title: "Pre-Pitch Execution Method"
+        statement: "What to do in the 5 minutes before every sales call."
+        quote: "pre-pitch execution method — five minutes before every call"
+        weight: 0.80
+        chunk_ids: ["CIL_M4_011"]
+        source_ids: ["CIL"]
+        domains: ["preparation", "state-management", "routine"]
+        steps:
+          - {order: 1, action: "Review prospect's application/intake form (60 seconds)"}
+          - {order: 2, action: "Identify top 3 likely beliefs to install (30 seconds)"}
+          - {order: 3, action: "Select 1-2 relevant success stories to have ready (30 seconds)"}
+          - {order: 4, action: "State priming: 3 deep breaths + positive self-talk (60 seconds)"}
+          - {order: 5, action: "Visualize successful close (60 seconds)"}

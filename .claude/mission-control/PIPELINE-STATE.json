@@ -3,7 +3,7 @@
   "current_phase": "ingest",
   "phases": {
     "ingest": {
-      "status": "in_progress",
+      "status": "complete",
       "files": [
         "C:\\Users\\ISMAEL_MELLO\\Downloads\\mega-brain-premium\\.claude\\settings.local.json",
         "C:\\Users\\ISMAEL_MELLO\\Downloads\\mega-brain-premium\\.env",
@@ -737,9 +737,98 @@
         "C:/Users/ISMAEL_MELLO/Downloads/mega-brain-premium/knowledge/external/sources/jon-benson/SOURCE-VSLFT18.md",
         "C:/Users/ISMAEL_MELLO/Downloads/mega-brain-premium/knowledge/external/sources/jon-benson/raw/_DNA_APPEND_BATCH2.yaml",
         "C:/Users/ISMAEL_MELLO/Downloads/mega-brain-premium/knowledge/external/sources/jon-benson/raw/_DNA_APPEND_VSLFT18.yaml",
-        "C:/Users/ISMAEL_MELLO/Downloads/mega-brain-premium/knowledge/external/sources/jon-benson/raw/_DNA_APPEND_NOWVSL.yaml"
+        "C:/Users/ISMAEL_MELLO/Downloads/mega-brain-premium/knowledge/external/sources/jon-benson/raw/_DNA_APPEND_NOWVSL.yaml",
+        "C:/Users/ISMAEL_MELLO/Downloads/mega-brain-premium/video/package.json",
+        "C:/Users/ISMAEL_MELLO/Downloads/mega-brain-premium/video/tsconfig.json",
+        "C:/Users/ISMAEL_MELLO/Downloads/mega-brain-premium/video/src/index.ts",
+        "C:/Users/ISMAEL_MELLO/Downloads/mega-brain-premium/video/src/Root.tsx",
+        "C:/Users/ISMAEL_MELLO/Downloads/mega-brain-premium/video/src/components/VSL.tsx",
+        "C:/Users/ISMAEL_MELLO/Downloads/mega-brain-premium/video/src/components/Creative.tsx",
+        "C:/Users/ISMAEL_MELLO/Downloads/mega-brain-premium/video/src/components/Presentation.tsx",
+        "C:/Users/ISMAEL_MELLO/Downloads/mega-brain-premium/video/render.mjs",
+        "C:/Users/ISMAEL_MELLO/Downloads/mega-brain-premium/video/src/lib/agent-to-video.ts",
+        "C:/Users/ISMAEL_MELLO/Downloads/mega-brain-premium/.claude/skills/video/SKILL.md",
+        "C:/Users/ISMAEL_MELLO/Downloads/mega-brain-premium/video/examples/vsl-hormozi-offer.json",
+        "C:/Users/ISMAEL_MELLO/Downloads/mega-brain-premium/video/examples/presentation-dna-summary.json",
+        "C:/Users/ISMAEL_MELLO/Downloads/mega-brain-premium/video/.gitignore",
+        "C:/Users/ISMAEL_MELLO/Downloads/mega-brain-premium/agents/cargo/SHARED-RULES.md",
+        "C:/Users/ISMAEL_MELLO/Downloads/mega-brain-premium/agents/cargo/marketing/copywriter/AGENT.md",
+        "C:/Users/ISMAEL_MELLO/Downloads/mega-brain-premium/agents/cargo/marketing/media-buyer/AGENT.md",
+        "C:/Users/ISMAEL_MELLO/Downloads/mega-brain-premium/agents/cargo/content/video-creator/AGENT.md",
+        "C:/Users/ISMAEL_MELLO/Downloads/mega-brain-premium/agents/cargo/content/video-editor/AGENT.md",
+        "C:/Users/ISMAEL_MELLO/Downloads/mega-brain-premium/agents/cargo/content/video-creator/SOUL.md",
+        "C:/Users/ISMAEL_MELLO/Downloads/mega-brain-premium/agents/cargo/content/video-creator/MEMORY.md",
+        "C:/Users/ISMAEL_MELLO/Downloads/mega-brain-premium/agents/cargo/content/video-creator/DNA-CONFIG.yaml",
+        "C:/Users/ISMAEL_MELLO/Downloads/mega-brain-premium/agents/cargo/content/video-editor/SOUL.md",
+        "C:/Users/ISMAEL_MELLO/Downloads/mega-brain-premium/agents/cargo/content/video-editor/MEMORY.md",
+        "C:/Users/ISMAEL_MELLO/Downloads/mega-brain-premium/agents/cargo/content/video-editor/DNA-CONFIG.yaml",
+        "C:/Users/ISMAEL_MELLO/Downloads/mega-brain-premium/.claude/commands/create-video.md",
+        "C:/Users/ISMAEL_MELLO/Downloads/mega-brain-premium/agents/external/stefan-georgi/AGENT.md",
+        "C:/Users/ISMAEL_MELLO/Downloads/mega-brain-premium/knowledge/external/dna/persons/stefan-georgi/DNA.yaml",
+        "C:/Users/ISMAEL_MELLO/Downloads/mega-brain-premium/agents/external/stefan-georgi/DNA-CONFIG.yaml",
+        "C:/Users/ISMAEL_MELLO/Downloads/mega-brain-premium/knowledge/external/dna/persons/justin-goff/DNA.yaml",
+        "C:/Users/ISMAEL_MELLO/Downloads/mega-brain-premium/agents/external/justin-goff/AGENT.md",
+        "C:/Users/ISMAEL_MELLO/Downloads/mega-brain-premium/agents/external/justin-goff/DNA-CONFIG.yaml",
+        "C:/Users/ISMAEL_MELLO/Downloads/mega-brain-premium/agents/external/stefan-georgi/SOUL.md",
+        "C:/Users/ISMAEL_MELLO/Downloads/mega-brain-premium/agents/external/stefan-georgi/MEMORY.md",
+        "C:/Users/ISMAEL_MELLO/Downloads/mega-brain-premium/agents/external/justin-goff/SOUL.md",
+        "C:/Users/ISMAEL_MELLO/Downloads/mega-brain-premium/agents/external/justin-goff/MEMORY.md",
+        "C:/Users/ISMAEL_MELLO/Downloads/mega-brain-premium/knowledge/external/dossiers/persons/DOSSIER-STEFAN-GEORGI.md",
+        "C:/Users/ISMAEL_MELLO/Downloads/mega-brain-premium/knowledge/external/dossiers/persons/DOSSIER-JUSTIN-GOFF.md",
+        "C:/Users/ISMAEL_MELLO/Downloads/mega-brain-premium/knowledge/external/sources/stefan-georgi/SOURCE-CA.md",
+        "C:/Users/ISMAEL_MELLO/Downloads/mega-brain-premium/knowledge/external/sources/stefan-georgi/SOURCE-RMBC.md",
+        "C:/Users/ISMAEL_MELLO/Downloads/mega-brain-premium/knowledge/external/sources/stefan-georgi/SOURCE-RMBCII.md",
+        "C:/Users/ISMAEL_MELLO/Downloads/mega-brain-premium/knowledge/external/sources/stefan-georgi/SOURCE-PFF.md",
+        "C:/Users/ISMAEL_MELLO/Downloads/mega-brain-premium/knowledge/external/sources/justin-goff/SOURCE-CA.md",
+        "C:\\Users\\ISMAEL_MELLO\\Downloads\\mega-brain-premium\\video\\output\\vsl-loja-informatica-2026-03-24.json",
+        "C:/Users/ISMAEL_MELLO/Downloads/mega-brain-premium/knowledge/external/dna/persons/ben-settle/DNA-CONFIG.yaml",
+        "C:/Users/ISMAEL_MELLO/Downloads/mega-brain-premium/agents/external/ben-settle/SOUL.md",
+        "C:/Users/ISMAEL_MELLO/Downloads/mega-brain-premium/agents/external/ben-settle/MEMORY.md",
+        "C:/Users/ISMAEL_MELLO/Downloads/mega-brain-premium/agents/external/ben-settle/AGENT.md",
+        "C:/Users/ISMAEL_MELLO/Downloads/mega-brain-premium/knowledge/external/dossiers/persons/DOSSIER-BEN-SETTLE.md",
+        "C:\\Users\\ISMAEL_MELLO\\Downloads\\mega-brain-premium\\knowledge\\external\\dna\\persons\\cat-howell\\DNA-CONFIG.yaml",
+        "C:\\Users\\ISMAEL_MELLO\\Downloads\\mega-brain-premium\\knowledge\\external\\dna\\persons\\cat-howell\\DNA.yaml",
+        "C:\\Users\\ISMAEL_MELLO\\Downloads\\mega-brain-premium\\.claude\\sessions\\SESSION-2026-03-25-0900.md",
+        "C:\\Users\\ISMAEL_MELLO\\Downloads\\mega-brain-premium\\agents\\external\\cat-howell\\SOUL.md",
+        "C:\\Users\\ISMAEL_MELLO\\Downloads\\mega-brain-premium\\agents\\external\\cat-howell\\MEMORY.md",
+        "C:\\Users\\ISMAEL_MELLO\\Downloads\\mega-brain-premium\\agents\\external\\cat-howell\\DNA-CONFIG.yaml",
+        "C:\\Users\\ISMAEL_MELLO\\Downloads\\mega-brain-premium\\knowledge\\external\\dossiers\\persons\\DOSSIER-CAT-HOWELL.md",
+        "C:\\Users\\ISMAEL_MELLO\\Downloads\\mega-brain-premium\\knowledge\\external\\sources\\cat-howell\\SOURCE-FATC.md",
+        "C:\\Users\\ISMAEL_MELLO\\Downloads\\mega-brain-premium\\knowledge\\external\\sources\\cat-howell\\SOURCE-FBAA.md",
+        "C:\\Users\\ISMAEL_MELLO\\Downloads\\mega-brain-premium\\knowledge\\external\\sources\\cat-howell\\SOURCE-INC2.md",
+        "C:\\Users\\ISMAEL_MELLO\\Downloads\\mega-brain-premium\\agents\\cargo\\marketing\\copywriter\\DNA-CONFIG.yaml",
+        "C:/Users/ISMAEL_MELLO/Downloads/mega-brain-premium/knowledge/external/dossiers/persons/DOSSIER-LUCIO-ARTES.md",
+        "C:/Users/ISMAEL_MELLO/Downloads/mega-brain-premium/agents/external/lucio-artes/AGENT.md",
+        "C:/Users/ISMAEL_MELLO/Downloads/mega-brain-premium/knowledge/external/sources/lucio-artes/SOURCE-FTE.md",
+        "C:/Users/ISMAEL_MELLO/Downloads/mega-brain-premium/agents/external/lucio-artes/SOUL.md",
+        "C:/Users/ISMAEL_MELLO/Downloads/mega-brain-premium/agents/external/lucio-artes/MEMORY.md",
+        "C:/Users/ISMAEL_MELLO/Downloads/mega-brain-premium/agents/external/lucio-artes/DNA-CONFIG.yaml",
+        "C:/Users/ISMAEL_MELLO/Downloads/mega-brain-premium/knowledge/external/dna/persons/lucio-artes/DNA.yaml",
+        "C:/Users/ISMAEL_MELLO/Downloads/mega-brain-premium/.claude/skills/tracking-event-funnel/SKILL.md",
+        "C:/Users/ISMAEL_MELLO/Downloads/mega-brain-premium/knowledge/external/dna/persons/rafael-marks/DNA.yaml",
+        "C:/Users/ISMAEL_MELLO/Downloads/mega-brain-premium/agents/external/rafael-marks/DNA-CONFIG.yaml",
+        "C:/Users/ISMAEL_MELLO/Downloads/mega-brain-premium/agents/external/rafael-marks/SOUL.md",
+        "C:/Users/ISMAEL_MELLO/Downloads/mega-brain-premium/agents/external/rafael-marks/MEMORY.md",
+        "C:/Users/ISMAEL_MELLO/Downloads/mega-brain-premium/agents/external/rafael-marks/AGENT.md",
+        "C:/Users/ISMAEL_MELLO/Downloads/mega-brain-premium/agents/cargo/marketing/media-buyer/DNA-CONFIG.yaml",
+        "C:/Users/ISMAEL_MELLO/Downloads/mega-brain-premium/.claude/skills/funnel-architect/SKILL.md",
+        "C:/Users/ISMAEL_MELLO/Downloads/mega-brain-premium/knowledge/external/dna/persons/vinh-giang/DNA.yaml",
+        "C:/Users/ISMAEL_MELLO/Downloads/mega-brain-premium/agents/external/vinh-giang/DNA-CONFIG.yaml",
+        "C:/Users/ISMAEL_MELLO/Downloads/mega-brain-premium/agents/external/vinh-giang/SOUL.md",
+        "C:/Users/ISMAEL_MELLO/Downloads/mega-brain-premium/agents/external/vinh-giang/MEMORY.md",
+        "C:/Users/ISMAEL_MELLO/Downloads/mega-brain-premium/knowledge/external/sources/vinh-giang/SOURCE-SA.md",
+        "C:/Users/ISMAEL_MELLO/Downloads/mega-brain-premium/agents/external/vinh-giang/AGENT.md",
+        "C:/Users/ISMAEL_MELLO/Downloads/mega-brain-premium/knowledge/external/dossiers/persons/DOSSIER-VINH-GIANG.md",
+        "C:/Users/ISMAEL_MELLO/Downloads/mega-brain-premium/knowledge/external/sources/frank-kern/SOURCE-OT.md",
+        "C:/Users/ISMAEL_MELLO/Downloads/mega-brain-premium/knowledge/external/dna/persons/frank-kern/DNA.yaml",
+        "C:/Users/ISMAEL_MELLO/Downloads/mega-brain-premium/knowledge/external/sources/frank-kern/SOURCE-AMM.md",
+        "C:\\Users\\ISMAEL_MELLO\\Downloads\\mega-brain-premium\\knowledge\\external\\dna\\persons\\cole-gordon\\DNA.yaml",
+        "C:\\Users\\ISMAEL_MELLO\\Downloads\\mega-brain-premium\\knowledge\\dossiers\\persons\\DOSSIER-COLE-GORDON.md",
+        "C:\\Users\\ISMAEL_MELLO\\Downloads\\mega-brain-premium\\knowledge\\external\\sources\\cole-gordon\\SOURCE-CIL.md",
+        "C:\\Users\\ISMAEL_MELLO\\Downloads\\mega-brain-premium\\agents\\external\\cole-gordon\\DNA-CONFIG.yaml",
+        "C:\\Users\\ISMAEL_MELLO\\Downloads\\mega-brain-premium\\agents\\external\\cole-gordon\\MEMORY.md"
       ],
-      "timestamp": "2026-03-23T22:48:12.613990",
+      "timestamp": "2026-03-26T17:54:51.005229",
       "checkpoint_id": "CP_INGEST"
     },
     "chunk": {
@@ -757,9 +846,9 @@
   },
   "last_checkpoint": {
     "phase": "ingest",
-    "status": "in_progress",
-    "timestamp": "2026-03-23T22:48:12.613990",
-    "file_count": 733
+    "status": "complete",
+    "timestamp": "2026-03-26T17:54:51.005229",
+    "file_count": 822
   },
   "history": [
     {
@@ -5723,6 +5812,588 @@
       "status": "in_progress",
       "timestamp": "2026-03-23T22:48:12.613990",
       "files_count": 1
+    },
+    {
+      "phase": "ingest",
+      "status": "in_progress",
+      "timestamp": "2026-03-23T23:11:46.094706",
+      "files_count": 1
+    },
+    {
+      "phase": "ingest",
+      "status": "in_progress",
+      "timestamp": "2026-03-23T23:11:47.123899",
+      "files_count": 1
+    },
+    {
+      "phase": "ingest",
+      "status": "in_progress",
+      "timestamp": "2026-03-23T23:11:47.858258",
+      "files_count": 1
+    },
+    {
+      "phase": "ingest",
+      "status": "in_progress",
+      "timestamp": "2026-03-23T23:12:00.104305",
+      "files_count": 1
+    },
+    {
+      "phase": "ingest",
+      "status": "in_progress",
+      "timestamp": "2026-03-23T23:12:18.386381",
+      "files_count": 1
+    },
+    {
+      "phase": "ingest",
+      "status": "in_progress",
+      "timestamp": "2026-03-23T23:12:32.101878",
+      "files_count": 1
+    },
+    {
+      "phase": "ingest",
+      "status": "in_progress",
+      "timestamp": "2026-03-23T23:12:53.402436",
+      "files_count": 1
+    },
+    {
+      "phase": "ingest",
+      "status": "in_progress",
+      "timestamp": "2026-03-23T23:13:21.324706",
+      "files_count": 1
+    },
+    {
+      "phase": "ingest",
+      "status": "in_progress",
+      "timestamp": "2026-03-23T23:13:38.965811",
+      "files_count": 1
+    },
+    {
+      "phase": "ingest",
+      "status": "in_progress",
+      "timestamp": "2026-03-23T23:14:24.136159",
+      "files_count": 1
+    },
+    {
+      "phase": "ingest",
+      "status": "in_progress",
+      "timestamp": "2026-03-23T23:14:33.163966",
+      "files_count": 1
+    },
+    {
+      "phase": "ingest",
+      "status": "in_progress",
+      "timestamp": "2026-03-23T23:14:43.249184",
+      "files_count": 1
+    },
+    {
+      "phase": "ingest",
+      "status": "in_progress",
+      "timestamp": "2026-03-23T23:14:49.303000",
+      "files_count": 1
+    },
+    {
+      "phase": "ingest",
+      "status": "in_progress",
+      "timestamp": "2026-03-23T23:17:50.386600",
+      "files_count": 1
+    },
+    {
+      "phase": "ingest",
+      "status": "in_progress",
+      "timestamp": "2026-03-23T23:18:04.735357",
+      "files_count": 1
+    },
+    {
+      "phase": "ingest",
+      "status": "in_progress",
+      "timestamp": "2026-03-23T23:18:18.482368",
+      "files_count": 1
+    },
+    {
+      "phase": "ingest",
+      "status": "in_progress",
+      "timestamp": "2026-03-23T23:20:33.570023",
+      "files_count": 1
+    },
+    {
+      "phase": "ingest",
+      "status": "in_progress",
+      "timestamp": "2026-03-23T23:21:23.694902",
+      "files_count": 1
+    },
+    {
+      "phase": "ingest",
+      "status": "in_progress",
+      "timestamp": "2026-03-23T23:21:46.054579",
+      "files_count": 1
+    },
+    {
+      "phase": "ingest",
+      "status": "in_progress",
+      "timestamp": "2026-03-23T23:21:49.536733",
+      "files_count": 1
+    },
+    {
+      "phase": "ingest",
+      "status": "in_progress",
+      "timestamp": "2026-03-23T23:22:04.150376",
+      "files_count": 1
+    },
+    {
+      "phase": "ingest",
+      "status": "in_progress",
+      "timestamp": "2026-03-23T23:22:26.824037",
+      "files_count": 1
+    },
+    {
+      "phase": "ingest",
+      "status": "in_progress",
+      "timestamp": "2026-03-23T23:22:29.597221",
+      "files_count": 1
+    },
+    {
+      "phase": "ingest",
+      "status": "in_progress",
+      "timestamp": "2026-03-23T23:22:38.706352",
+      "files_count": 1
+    },
+    {
+      "phase": "ingest",
+      "status": "in_progress",
+      "timestamp": "2026-03-23T23:23:34.716261",
+      "files_count": 1
+    },
+    {
+      "phase": "ingest",
+      "status": "in_progress",
+      "timestamp": "2026-03-24T07:12:48.021623",
+      "files_count": 1
+    },
+    {
+      "phase": "ingest",
+      "status": "in_progress",
+      "timestamp": "2026-03-24T07:14:13.727783",
+      "files_count": 1
+    },
+    {
+      "phase": "ingest",
+      "status": "in_progress",
+      "timestamp": "2026-03-24T07:14:39.429348",
+      "files_count": 1
+    },
+    {
+      "phase": "ingest",
+      "status": "in_progress",
+      "timestamp": "2026-03-24T07:14:56.257016",
+      "files_count": 1
+    },
+    {
+      "phase": "ingest",
+      "status": "in_progress",
+      "timestamp": "2026-03-24T07:15:02.373935",
+      "files_count": 1
+    },
+    {
+      "phase": "ingest",
+      "status": "in_progress",
+      "timestamp": "2026-03-24T07:15:26.841352",
+      "files_count": 1
+    },
+    {
+      "phase": "ingest",
+      "status": "in_progress",
+      "timestamp": "2026-03-24T07:15:43.338511",
+      "files_count": 1
+    },
+    {
+      "phase": "ingest",
+      "status": "in_progress",
+      "timestamp": "2026-03-24T07:16:31.860080",
+      "files_count": 1
+    },
+    {
+      "phase": "ingest",
+      "status": "in_progress",
+      "timestamp": "2026-03-24T07:16:37.973115",
+      "files_count": 1
+    },
+    {
+      "phase": "ingest",
+      "status": "in_progress",
+      "timestamp": "2026-03-24T07:17:36.674943",
+      "files_count": 1
+    },
+    {
+      "phase": "ingest",
+      "status": "in_progress",
+      "timestamp": "2026-03-24T07:20:02.933151",
+      "files_count": 1
+    },
+    {
+      "phase": "ingest",
+      "status": "in_progress",
+      "timestamp": "2026-03-24T07:21:40.730827",
+      "files_count": 1
+    },
+    {
+      "phase": "ingest",
+      "status": "in_progress",
+      "timestamp": "2026-03-24T07:23:48.049561",
+      "files_count": 1
+    },
+    {
+      "phase": "ingest",
+      "status": "in_progress",
+      "timestamp": "2026-03-24T08:25:20.588433",
+      "files_count": 1
+    },
+    {
+      "phase": "ingest",
+      "status": "in_progress",
+      "timestamp": "2026-03-24T08:26:53.130832",
+      "files_count": 1
+    },
+    {
+      "phase": "ingest",
+      "status": "in_progress",
+      "timestamp": "2026-03-24T08:28:21.091266",
+      "files_count": 1
+    },
+    {
+      "phase": "ingest",
+      "status": "in_progress",
+      "timestamp": "2026-03-24T11:13:04.091867",
+      "files_count": 1
+    },
+    {
+      "phase": "ingest",
+      "status": "in_progress",
+      "timestamp": "2026-03-24T17:58:07.446239",
+      "files_count": 1
+    },
+    {
+      "phase": "ingest",
+      "status": "in_progress",
+      "timestamp": "2026-03-25T00:19:35.810783",
+      "files_count": 1
+    },
+    {
+      "phase": "ingest",
+      "status": "in_progress",
+      "timestamp": "2026-03-25T00:20:34.848267",
+      "files_count": 1
+    },
+    {
+      "phase": "ingest",
+      "status": "in_progress",
+      "timestamp": "2026-03-25T00:21:09.687744",
+      "files_count": 1
+    },
+    {
+      "phase": "ingest",
+      "status": "in_progress",
+      "timestamp": "2026-03-25T00:22:34.894412",
+      "files_count": 1
+    },
+    {
+      "phase": "ingest",
+      "status": "in_progress",
+      "timestamp": "2026-03-25T00:23:12.893284",
+      "files_count": 1
+    },
+    {
+      "phase": "ingest",
+      "status": "in_progress",
+      "timestamp": "2026-03-25T09:11:41.426698",
+      "files_count": 1
+    },
+    {
+      "phase": "ingest",
+      "status": "in_progress",
+      "timestamp": "2026-03-25T09:18:27.081690",
+      "files_count": 1
+    },
+    {
+      "phase": "ingest",
+      "status": "in_progress",
+      "timestamp": "2026-03-25T09:19:16.733894",
+      "files_count": 1
+    },
+    {
+      "phase": "ingest",
+      "status": "in_progress",
+      "timestamp": "2026-03-25T16:05:45.685719",
+      "files_count": 1
+    },
+    {
+      "phase": "ingest",
+      "status": "in_progress",
+      "timestamp": "2026-03-25T16:06:20.770767",
+      "files_count": 1
+    },
+    {
+      "phase": "ingest",
+      "status": "in_progress",
+      "timestamp": "2026-03-25T16:06:25.631808",
+      "files_count": 1
+    },
+    {
+      "phase": "ingest",
+      "status": "in_progress",
+      "timestamp": "2026-03-25T16:07:16.409621",
+      "files_count": 1
+    },
+    {
+      "phase": "ingest",
+      "status": "in_progress",
+      "timestamp": "2026-03-25T16:07:30.301769",
+      "files_count": 1
+    },
+    {
+      "phase": "ingest",
+      "status": "in_progress",
+      "timestamp": "2026-03-25T16:07:40.834887",
+      "files_count": 1
+    },
+    {
+      "phase": "ingest",
+      "status": "in_progress",
+      "timestamp": "2026-03-25T16:07:54.031763",
+      "files_count": 1
+    },
+    {
+      "phase": "ingest",
+      "status": "in_progress",
+      "timestamp": "2026-03-25T16:09:54.939772",
+      "files_count": 1
+    },
+    {
+      "phase": "ingest",
+      "status": "in_progress",
+      "timestamp": "2026-03-25T16:36:29.925811",
+      "files_count": 1
+    },
+    {
+      "phase": "ingest",
+      "status": "in_progress",
+      "timestamp": "2026-03-25T16:36:39.800870",
+      "files_count": 1
+    },
+    {
+      "phase": "ingest",
+      "status": "in_progress",
+      "timestamp": "2026-03-25T16:37:16.956926",
+      "files_count": 1
+    },
+    {
+      "phase": "ingest",
+      "status": "in_progress",
+      "timestamp": "2026-03-25T16:37:35.747831",
+      "files_count": 1
+    },
+    {
+      "phase": "ingest",
+      "status": "in_progress",
+      "timestamp": "2026-03-25T16:38:27.955777",
+      "files_count": 1
+    },
+    {
+      "phase": "ingest",
+      "status": "in_progress",
+      "timestamp": "2026-03-25T16:38:49.490397",
+      "files_count": 1
+    },
+    {
+      "phase": "ingest",
+      "status": "in_progress",
+      "timestamp": "2026-03-25T16:39:00.802689",
+      "files_count": 1
+    },
+    {
+      "phase": "ingest",
+      "status": "in_progress",
+      "timestamp": "2026-03-25T17:15:21.985184",
+      "files_count": 1
+    },
+    {
+      "phase": "ingest",
+      "status": "in_progress",
+      "timestamp": "2026-03-25T22:37:46.899529",
+      "files_count": 1
+    },
+    {
+      "phase": "ingest",
+      "status": "in_progress",
+      "timestamp": "2026-03-25T22:38:07.097394",
+      "files_count": 1
+    },
+    {
+      "phase": "ingest",
+      "status": "in_progress",
+      "timestamp": "2026-03-25T22:38:44.447953",
+      "files_count": 1
+    },
+    {
+      "phase": "ingest",
+      "status": "in_progress",
+      "timestamp": "2026-03-25T22:39:04.917057",
+      "files_count": 1
+    },
+    {
+      "phase": "ingest",
+      "status": "in_progress",
+      "timestamp": "2026-03-25T22:39:46.883846",
+      "files_count": 1
+    },
+    {
+      "phase": "ingest",
+      "status": "in_progress",
+      "timestamp": "2026-03-25T22:44:07.763360",
+      "files_count": 1
+    },
+    {
+      "phase": "ingest",
+      "status": "in_progress",
+      "timestamp": "2026-03-25T22:55:46.129883",
+      "files_count": 1
+    },
+    {
+      "phase": "ingest",
+      "status": "in_progress",
+      "timestamp": "2026-03-25T23:03:15.041631",
+      "files_count": 1
+    },
+    {
+      "phase": "ingest",
+      "status": "in_progress",
+      "timestamp": "2026-03-25T23:03:30.501735",
+      "files_count": 1
+    },
+    {
+      "phase": "ingest",
+      "status": "in_progress",
+      "timestamp": "2026-03-25T23:04:18.670183",
+      "files_count": 1
+    },
+    {
+      "phase": "ingest",
+      "status": "in_progress",
+      "timestamp": "2026-03-25T23:04:37.754871",
+      "files_count": 1
+    },
+    {
+      "phase": "ingest",
+      "status": "in_progress",
+      "timestamp": "2026-03-25T23:04:54.032271",
+      "files_count": 1
+    },
+    {
+      "phase": "ingest",
+      "status": "in_progress",
+      "timestamp": "2026-03-25T23:06:02.094504",
+      "files_count": 1
+    },
+    {
+      "phase": "ingest",
+      "status": "in_progress",
+      "timestamp": "2026-03-25T23:06:21.185427",
+      "files_count": 1
+    },
+    {
+      "phase": "ingest",
+      "status": "in_progress",
+      "timestamp": "2026-03-26T07:06:44.351984",
+      "files_count": 1
+    },
+    {
+      "phase": "ingest",
+      "status": "in_progress",
+      "timestamp": "2026-03-26T07:07:13.790329",
+      "files_count": 1
+    },
+    {
+      "phase": "ingest",
+      "status": "in_progress",
+      "timestamp": "2026-03-26T07:07:23.491201",
+      "files_count": 1
+    },
+    {
+      "phase": "ingest",
+      "status": "in_progress",
+      "timestamp": "2026-03-26T16:42:37.312194",
+      "files_count": 1
+    },
+    {
+      "phase": "ingest",
+      "status": "in_progress",
+      "timestamp": "2026-03-26T16:42:51.708188",
+      "files_count": 1
+    },
+    {
+      "phase": "ingest",
+      "status": "in_progress",
+      "timestamp": "2026-03-26T16:43:05.458883",
+      "files_count": 1
+    },
+    {
+      "phase": "ingest",
+      "status": "in_progress",
+      "timestamp": "2026-03-26T16:43:16.524783",
+      "files_count": 1
+    },
+    {
+      "phase": "ingest",
+      "status": "in_progress",
+      "timestamp": "2026-03-26T16:43:30.540232",
+      "files_count": 1
+    },
+    {
+      "phase": "ingest",
+      "status": "complete",
+      "timestamp": "2026-03-26T17:53:44.037827",
+      "files_count": 0
+    },
+    {
+      "phase": "ingest",
+      "status": "complete",
+      "timestamp": "2026-03-26T17:53:50.981073",
+      "files_count": 0
+    },
+    {
+      "phase": "ingest",
+      "status": "complete",
+      "timestamp": "2026-03-26T17:53:57.377482",
+      "files_count": 0
+    },
+    {
+      "phase": "ingest",
+      "status": "complete",
+      "timestamp": "2026-03-26T17:54:08.005685",
+      "files_count": 0
+    },
+    {
+      "phase": "ingest",
+      "status": "complete",
+      "timestamp": "2026-03-26T17:54:18.639248",
+      "files_count": 0
+    },
+    {
+      "phase": "ingest",
+      "status": "complete",
+      "timestamp": "2026-03-26T17:54:38.070187",
+      "files_count": 0
+    },
+    {
+      "phase": "ingest",
+      "status": "complete",
+      "timestamp": "2026-03-26T17:54:45.447540",
+      "files_count": 0
+    },
+    {
+      "phase": "ingest",
+      "status": "complete",
+      "timestamp": "2026-03-26T17:54:51.005229",
+      "files_count": 0
     }
   ],
   "retry_enabled": true

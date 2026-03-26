@@ -31,10 +31,10 @@
 # ═══════════════════════════════════════════════════════════════════════════════
 
 dominio: "offers"
-versao: "21.0.0"  # Rafael Marks added (+40 elements from HM — Brazilian funnel architect, 3-layer irresistible offer, 3 false beliefs, Mini-Offers, Customer Ascension). Stefan Georgi updated 25→60 el (+35 from RMBC Method, RMBC II, Profit Fix Formula). New: 15 Funnel Factors for offer positioning, offer complexity scoring, landing page type matching, pricing test framework from PFF.
-total_elementos: 1163
+versao: "23.0.0"  # Cole Gordon CIL added (+35 offer elements). Three Offer Models (coaching/done-for-you/hybrid), Back-End Pricing strategy, DPL×LTV offer economics, Offer Packaging methodology, Hell/Heaven Island expanded. CG now includes CIL.
+total_elementos: 1228
 criado_em: "2026-01-10T19:30:00Z"
-atualizado_em: "2026-03-24"
+atualizado_em: "2026-03-26"
 
 # ═══════════════════════════════════════════════════════════════════════════════
 # FONTES CONSOLIDADAS COM PESOS POR DOMÍNIO
@@ -57,10 +57,12 @@ fontes_consolidadas:
     note: "Updated 2026-03-22 with DSP (+20 offer elements). DSP adds Info Product Ecosystem (digital skills as productized offers), OTO frameworks (one-time-offer sequencing post-purchase), Dummy Buy psychology (low-barrier entry offers that qualify buyers), Micro-Commitment Pricing (graduated commitment ladder). Combined with DMM's 5-Tier Pricing Pyramid and Service Fee + Success Fee model. Complements Hormozi's Grand Slam with agency-specific recurring + info product offer architecture."
 
   - fonte: "cole-gordon"
-    peso_dominio: 0.75  # Value Perception & Beliefs
+    peso_dominio: 0.80  # Value Perception & Beliefs + CIL Offer Architecture
     path: "/knowledge/external/dna/persons/cole-gordon/"
-    contribuicao_principal: "7 Beliefs, Hell/Heaven Island"
-    elementos_relevantes: 45
+    contribuicao_principal: "7 Beliefs, Hell/Heaven Island, Three Offer Models (coaching/done-for-you/hybrid), Back-End Pricing strategy, DPL×LTV offer economics, Offer Packaging methodology, pricing-psychology for high-ticket, offer-design frameworks"
+    elementos_relevantes: 80
+    sources: ["legacy (45 elements — 7 Beliefs, Hell/Heaven Island)", "CIL (Closers Into Leaders — 35 offer-relevant: Three Offer Models, Back-End Pricing, DPL×LTV, Offer Packaging, pricing psychology, fulfillment design)"]
+    note: "Updated 2026-03-26 with CIL (+35 offer elements). CIL adds operational offer architecture — Three Offer Models (coaching vs DFY vs hybrid), Back-End Pricing (strategic upsell pricing), DPL×LTV (deal profitability vs lifetime value economics), Offer Packaging (how to structure and present offer components). Complements Hormozi (Grand Slam value equation) with Cole Gordon's practical offer structuring for high-ticket sales teams."
 
   # FULL-SALES-SYSTEM removido (excluded persona - layer-rules.yaml)
 
@@ -87,12 +89,12 @@ fontes_consolidadas:
     note: "Added 2026-03-17. André Chaperon's VPDC is the most audience-centric offer creation framework — complements Hormozi's value equation with deep audience empathy via JTBD."
 
   - fonte: "frank-kern"
-    peso_dominio: 0.80  # Irresistible offers + countdown promotions
+    peso_dominio: 0.80  # Irresistible offers + countdown promotions + OT offer architecture
     path: "/knowledge/external/dna/persons/frank-kern/"
-    contribuicao_principal: "Irresistible Offer Framework (pay-for-performance guarantee), Countdown Promotions, Loss-Leader Funnels, Supersystem Offer Architecture, Bumps/Upsells engineering, Slack Adjuster concept"
-    elementos_relevantes: 40
-    source: "RC"
-    note: "Added 2026-03-18. Frank Kern's irresistible offer (refund difference + 20%) is a uniquely practical guarantee framework. Countdown promotion methodology generated $21K from imperfect execution — proves offer > execution."
+    contribuicao_principal: "Irresistible Offer Framework (pay-for-performance guarantee), Countdown Promotions, Loss-Leader Funnels, Supersystem Offer Architecture, Bumps/Upsells engineering, Slack Adjuster concept, 4-Day Cash Machine promotional offers, Bribe-to-Trial membership offers, One-Click Upsell frameworks (3 types), Free+Shipping book funnel offers, Gift Plus Purchase positioning, Close Stacking for value presentation"
+    elementos_relevantes: 70
+    source: "RC + OT"
+    note: "Updated 2026-03-26 with OT (+30 offer elements). OT adds 4-Day Cash Machine (intensive promotional offer structure), Bribe-to-Trial (membership acquisition), 3 One-Click Upsell frameworks (immediate post-purchase monetization), Free+Shipping book funnel, Gift Plus Purchase positioning, Close Stacking for value presentation. Original RC: irresistible offer (refund difference + 20%), countdown promotion methodology ($21K from imperfect execution)."
 
   - fonte: "jordan-belfort"
     peso_dominio: 0.75

@@ -24,7 +24,8 @@
 # ═══════════════════════════════════════════════════════════════════════════════
 
 cargo: "CMO"
-versao: "34.0.0"
+versao: "37.0.0"  # Cole Gordon CIL enrichment (323 elements, peso 0.80) — Pitch Codex, APS (Attraction Prospecting System), Content Marketing, 15 Content Angles, organic marketing strategy, messenger sales. CG CIL brings sales-driven marketing perspective.
+# v36.0.0 (prev): Frank Kern OT+AMM enrichment
 # v33.0.0 (2026-03-25): Cat Howell added (peso 0.80, 253 elements) — Facebook Ads mastery, RFT testing method, agency marketing
 #                      - Domains: facebook-ads, creative-testing, funnels, lead-gen, ecom, agency-building, scaling
 #                      - Key frameworks: RFT 3-round, TOF-MOF-BOF, Retargeting Stacks, 4 eCom Funnel Types, 6-Step Copy, Q4 Four-Phase
@@ -65,7 +66,7 @@ versao: "34.0.0"
 nivel: "C-LEVEL"
 natureza: "HIBRIDO"
 data_criacao: "2025-12-23"
-ultima_atualizacao: "2026-03-22"
+ultima_atualizacao: "2026-03-26"
 # CHANGELOG:
 # v20.0.0 (2026-03-18): Updated donald-miller with SBMR — 105 el total (was 75), peso 0.85
 #                      - NEW source: StoryBrand Marketing Roadmap (SBMR)
@@ -96,6 +97,11 @@ ultima_atualizacao: "2026-03-22"
 #                      - Key frameworks: 29 Tonal Patterns (unconscious communication for ads/videos), Three Tens (messaging certainty), Straight Line Script Architecture
 #                      - Key IDs: FIL-JB-001/002, FW-JB-001, HEUR-JB-003/005
 #                      - Unique contribution: tonality science for video ads/webinars, unconscious persuasion patterns for marketing scripts
+# v36.0.0 (2026-03-26): Updated frank-kern with OT+AMM — 521 el DNA total (was 269), peso 0.85
+#                      - NEW sources: Operation Takeover (88 files — copy frameworks, VSL, IBB, content strategy), Ads Madness Masterclass (11 files — ad copy frameworks)
+#                      - NEW domains: video-sales-letters, ad-copywriting, content-creation, competitive-intelligence
+#                      - Key new frameworks: Assembly Line Copy 10-section, Billion Dollar VSL, Dog Whistle Ads, Close Stacking, Educational Ad Video Framework
+#                      - Total FK contribution: 521 elements (RC 269 + OT 176 + AMM 76)
 # v14.0.0 (2026-03-18): Added frank-kern (paid-advertising, youtube-ads, facebook-ads, marketing-funnels, supersystem-architecture, email-marketing, ad-automation, scaling) — 269 el DNA, peso 0.85
 #                      - Key frameworks: Supersystem Architecture, Level 1-2-3 Campaign Scaling, 7 Building Blocks, Video Ad Framework (8-step), Three Ad Script Frameworks, Diagnostic Funnel Checklist, Three-Rule Ad Automation
 #                      - Key IDs: FIL-FK-001/080/150, FW-FK-001/060/110, MM-FK-001/060/110, HEUR-FK-001/080/150, MET-FK-001/050/080
@@ -323,6 +329,40 @@ dna_sources:
             - "Grand Slam Offer = (Dream × Likelihood) / (Time × Effort)"
             - "Dream Outcome precisa ser specific e desirable"
             - "Time Delay e Effort são denominadores - minimizar"
+
+    - pessoa: "cole-gordon"
+      path: "/knowledge/external/dna/persons/cole-gordon"
+      raiz: "/knowledge/external/sources/cole-gordon/raw/"                # RASTREABILIDADE
+      dominios_usados:
+        - "content-marketing"
+        - "organic-marketing"
+        - "pitch-codex"
+        - "messenger-sales"
+        - "offer-design"
+      peso: 0.80
+      quando_usar: "Content marketing strategy, organic lead generation, pitch architecture for marketing copy, messenger marketing, sales-marketing alignment"
+      added: "2026-03-26"
+      sources:
+        - "CIL (Closers Into Leaders — 323 elements: content-marketing, organic-marketing, pitch-codex, messenger-sales, 15 Content Angles, APS, Two-Step Posts)"
+      cil_highlights:
+        - "Pitch Codex — structured pitch architecture (promise + paradigm + future + delivery) as marketing messaging framework"
+        - "APS (Attraction Prospecting System) — organic lead generation methodology for content marketing"
+        - "15 Content Angles — content marketing copywriting variety and ideation system"
+        - "Two-Step Posts — value-first content → DM conversion (organic-to-sales bridge)"
+        - "Content Marketing frameworks — systematic content strategy for lead generation"
+        - "Messenger Sales — Facebook/IG DM conversion methodology"
+        - "Market Sophistication — audience awareness calibration for content and ad targeting"
+      materiais_fonte:
+        - titulo: "Closers Into Leaders"
+          path_raiz: "/knowledge/external/sources/cole-gordon/raw/"
+          tipo: "course"
+          data_processamento: "2026-03-26"
+          insights_principais:
+            - "Pitch Codex — structured pitch architecture for marketing messaging"
+            - "APS — organic lead generation system"
+            - "15 Content Angles — content ideation and marketing copy variety"
+            - "Two-Step Posts — organic engagement → DM conversion"
+            - "Messenger Sales — DM-based conversion methodology"
 
     - pessoa: "jeremy-haynes"
       path: "/knowledge/external/dna/persons/jeremy-haynes"
@@ -1380,6 +1420,34 @@ dna_sources:
         - "Email Players Newsletter (73+ issues, 291 elements — daily email strategy, email copywriting, sales psychology, product launch, list building)"
         - "Email Client Machine (4 files — email client acquisition system)"
 
+    - pessoa: "frank-kern"
+      path: "/knowledge/external/dna/persons/frank-kern"
+      raiz: "/knowledge/external/sources/frank-kern/raw/"
+      total_elementos: 521
+      dominios_usados:
+        - "paid-advertising"
+        - "youtube-ads"
+        - "facebook-ads"
+        - "marketing-funnels"
+        - "supersystem-architecture"
+        - "email-marketing"
+        - "ad-automation"
+        - "scaling"
+        # OT+AMM enrichment (2026-03-26)
+        - "video-sales-letters"
+        - "ad-copywriting"
+        - "content-creation"
+        - "competitive-intelligence"
+      peso: 0.85
+      quando_usar: "Paid advertising strategy (Facebook + YouTube), VSL copy frameworks, ad copywriting (Dog Whistle, Educational Ads), content video strategy, Supersystem architecture, Level 1-2-3 campaign scaling, Assembly Line Copy, Billion Dollar VSL, Close Stacking, competitive intelligence, IBB Simplified, retargeting architecture"
+      justificativa: "Frank Kern is the most COMPLETE paid traffic + copy system in the DNA — 521 elements covering Facebook Ads, YouTube Ads, VSL copywriting, ad copy frameworks, and systematic scaling. OT adds Billion Dollar VSL (with Graziosi), Assembly Line Copy, Close Stacking. AMM adds Dog Whistle ML-leveraged ads, Facebook scaling, retargeting."
+      added: "2026-03-18"
+      updated: "2026-03-26"
+      fontes_incluidas:
+        - "Rainmaker Certification (105 files, 269 elements — Supersystem, Level 1-2-3, ad frameworks)"
+        - "Operation Takeover (88 files — copy frameworks, VSL, IBB, content strategy)"
+        - "Ads Madness Masterclass (11 files — ad copy frameworks)"
+
     - pessoa: "rafael-marks"
       path: "/knowledge/external/dna/persons/rafael-marks"
       raiz: "/knowledge/external/sources/rafael-marks/raw/"
@@ -1542,5 +1610,14 @@ frameworks:
 #
 # ═══════════════════════════════════════════════════════════════════════════════
 
-# Fim do DNA-CONFIG.yaml v30.0.0
+# ═══════════════════════════════════════════════════════════════════════════════
+# VINH GIANG ENRICHMENT (2026-03-25)
+# ═══════════════════════════════════════════════════════════════════════════════
+# Source: Stage Academy (105 elements) | Weight: 0.75
+# Contribution: 4 Vocal Archetypes, 4MAT Sequencing, 3-Step Storytelling,
+#   4 Chemical Framework, Golden Rule, Volume calibration, Body language (Satir)
+# UNIQUE VALUE: DELIVERY layer — HOW to present marketing messages
+# ═══════════════════════════════════════════════════════════════════════════════
+
+# Fim do DNA-CONFIG.yaml v35.0.0
 # Integrado com AGENT-COGNITION-PROTOCOL (FASE 1.5) e AGENT-INTEGRITY-PROTOCOL

@@ -1,0 +1,678 @@
+# ╔══════════════════════════════════════════════════════════════════════════════╗
+# ║                    VINH GIANG — DNA COGNITIVO                               ║
+# ║                    Stage Academy | Communication Mastery                     ║
+# ╠══════════════════════════════════════════════════════════════════════════════╣
+# ║  Versão: 1.0.0 | Elementos: 105 | Fontes: 1 | Data: 2026-03-25            ║
+# ╚══════════════════════════════════════════════════════════════════════════════╝
+
+version: "1.0.0"
+person: "Vinh Giang"
+total_elements: 105
+sources: 1
+extraction_date: "2026-03-25"
+
+element_counts:
+  L1_PHILOSOPHIES: 23
+  L2_MENTAL_MODELS: 18
+  L3_HEURISTICS: 34
+  L4_FRAMEWORKS: 20
+  L5_METHODOLOGIES: 10
+
+next_ids:
+  FIL: "FIL-VG-024"
+  MM: "MM-VG-019"
+  HEUR: "HEUR-VG-035"
+  FW: "FW-VG-021"
+  MET: "MET-VG-011"
+
+domains:
+  - communication-skills
+  - vocal-mastery
+  - storytelling
+  - body-language
+  - presentation-skills
+  - stage-presence
+  - vocal-archetypes
+  - audience-engagement
+  - self-awareness
+  - vocal-coaching
+  - personal-branding
+  - influence
+
+layers:
+
+  L1_PHILOSOPHIES:
+    - id: "FIL-VG-001"
+      title: "Best Communicator Wins"
+      content: "It's not the best idea or product or service that wins. It's the person who communicates the best that wins."
+      domain: communication-skills
+      source: "SA/00-Introduction/Welcome"
+
+    - id: "FIL-VG-002"
+      title: "Communication = Most Valued Skill"
+      content: "The ability to inspire, influence, and communicate a message with clarity is one of the most highly valued skill sets in the world."
+      domain: communication-skills
+      source: "SA/00-Introduction/Welcome"
+
+    - id: "FIL-VG-003"
+      title: "88 Keys Philosophy"
+      content: "Your voice is an instrument with 88 keys. Keys you use comfortably are familiar. Keys you rarely use are unfamiliar — NOT fake or phony. Authenticity means using your ENTIRE instrument."
+      domain: vocal-mastery
+      source: "SA/01-Module1/Universal-Laws"
+
+    - id: "FIL-VG-004"
+      title: "Knowledge vs Application"
+      content: "Knowledge brings satisfaction, but application brings fulfillment. Nothing changes unless you practice."
+      domain: self-awareness
+      source: "SA/01-Module1/Universal-Laws"
+
+    - id: "FIL-VG-005"
+      title: "No Automatic Transfer"
+      content: "Learning in a vacuum doesn't automatically transfer to real life. You need neutral ears first — strangers who have no preconceived ideas about you."
+      domain: self-awareness
+      source: "SA/01-Module1/Universal-Laws"
+
+    - id: "FIL-VG-006"
+      title: "Temporary Judgments"
+      content: "All judgments are temporary. Don't say 'I'm monotone' or 'I'm never charismatic' as permanent statements. These are temporary states you can change through new behaviors."
+      domain: self-awareness
+      source: "SA/01-Module1/Universal-Laws"
+
+    - id: "FIL-VG-007"
+      title: "Generosity = Energy"
+      content: "Think of generosity in terms of ENERGY, not money. Generous communicators have high energy output. Communication fitness must be built over time like athletic fitness."
+      domain: communication-skills
+      source: "SA/01-Module1/Universal-Laws"
+
+    - id: "FIL-VG-008"
+      title: "The Golden Rule"
+      content: "If it distracts people from the message, it's a problem. Accent, hand movement, filler words — only a problem if it DISTRACTS from the message."
+      domain: communication-skills
+      source: "SA/01-Module1/Golden-Rule"
+
+    - id: "FIL-VG-009"
+      title: "Vocal Image Must Be Earned"
+      content: "Visual image can be BOUGHT (clothes, watch, belt). Vocal image must be EARNED through skill and training."
+      domain: vocal-mastery
+      source: "SA/01-Module1/Visual-Vocal-Image"
+
+    - id: "FIL-VG-010"
+      title: "Body-Voice Unity"
+      content: "A monotone voice comes from a monotone body. Your voice is connected to your body and your body is connected to your voice."
+      domain: body-language
+      source: "SA/05-Module5/Intro-Body-Language"
+
+    - id: "FIL-VG-011"
+      title: "Habitual Voice Illusion"
+      content: "You lost your 'natural voice' at age 2-3. What you have now is a 'habitual voice' — not your full range."
+      domain: vocal-mastery
+      source: "SA/01-Module1/Universal-Laws"
+
+    - id: "FIL-VG-012"
+      title: "Face = Context Provider"
+      content: "People look to your face for the context behind what you're saying. Without facial expression, words lose meaning."
+      domain: body-language
+      source: "SA/05-Module5/Facial-Expressions"
+
+    - id: "FIL-VG-013"
+      title: "Simplicity = Distilled Power"
+      content: "Don't confuse simplicity for stupidity. Simplicity is distilled power, distilled wisdom."
+      domain: storytelling
+      source: "SA/04-Module4/Storytelling-Formula"
+
+    - id: "FIL-VG-014"
+      title: "Brain Loves Variety"
+      content: "The human brain disengages when it can predict what's coming. Variety in rate, volume, pitch, archetype — everything — is what holds attention."
+      domain: communication-skills
+      source: "SA/02-Module2/Rate-of-Speech"
+
+    - id: "FIL-VG-015"
+      title: "You Are Only As Good As You Communicate"
+      content: "You may be 10/10 technically brilliant. But if your ability to communicate is only 3/10, people perceive you as 3/10."
+      domain: communication-skills
+      source: "SA/00-Introduction/Welcome"
+
+    - id: "FIL-VG-016"
+      title: "Don't Judge Chapter One"
+      content: "When you're a beginner at something, you're going to come across unnatural. Don't judge yourself too early. Practice daily and you'll get better."
+      domain: self-awareness
+      source: "SA/05-Module5/Hand-Gestures"
+
+    - id: "FIL-VG-017"
+      title: "Care Before Content"
+      content: "Unless people know that you care, they're not going to connect with your content. Connect first, then teach."
+      domain: audience-engagement
+      source: "SA/03-Module3/Enhanced"
+
+    - id: "FIL-VG-018"
+      title: "Make The Horse Thirsty"
+      content: "You can take a horse to water but you can't make it drink. You can give people content but you can't make them absorb it. Make them thirsty first with the WHY."
+      domain: audience-engagement
+      source: "SA/03-Module3/Enhanced"
+
+    - id: "FIL-VG-019"
+      title: "Default = Death"
+      content: "Getting stuck in ANY default — rate, volume, pitch, archetype, gesture — is bad. All defaults lead to monotony and disengagement."
+      domain: communication-skills
+      source: "SA/02-Module2+03-Module3"
+
+    - id: "FIL-VG-020"
+      title: "Reporting vs Reliving"
+      content: "Most people report stories. Great storytellers RELIVE stories. The difference is bringing characters to life with body language and dialogue."
+      domain: storytelling
+      source: "SA/04-Module4/Storytelling-Formula"
+
+    - id: "FIL-VG-021"
+      title: "Leadership = Teaching + Coaching"
+      content: "Leadership is not just about teaching. It's about guiding and coaching as well. Sometimes we have to push people out of their comfort zone."
+      domain: influence
+      source: "SA/03-Module3/Enhanced"
+
+    - id: "FIL-VG-022"
+      title: "Illusion of Complexity"
+      content: "What makes a great piece of magic astonishing is simple. Same goes for communication. What makes a great communicator is actually quite simple — it's just 5 foundations."
+      domain: communication-skills
+      source: "SA/02-Module2/The-Reveal"
+
+    - id: "FIL-VG-023"
+      title: "No Longer Invisible"
+      content: "I made the decision that I'm no longer going to be invisible. I'm going to learn how to amplify the best parts of who I am."
+      domain: personal-branding
+      source: "SA/00-Introduction/Welcome"
+
+  L2_MENTAL_MODELS:
+    - id: "MM-VG-001"
+      title: "88 Keys Piano Model"
+      content: "Voice as piano with full range of 88 keys. Familiar keys = comfort zone. Unfamiliar keys = growth zone. Using all keys = authentic expression, not fakeness."
+      domain: vocal-mastery
+      source: "SA/01-Module1/Universal-Laws"
+
+    - id: "MM-VG-002"
+      title: "Visual → Assumptions → Vocal → Beliefs"
+      content: "People see you from afar (visual image) and form ASSUMPTIONS. When you speak (vocal image), assumptions convert into BELIEFS about your competence, authority, confidence."
+      domain: communication-skills
+      source: "SA/01-Module1/Visual-Vocal-Image"
+
+    - id: "MM-VG-003"
+      title: "Illusion of Complexity Model"
+      content: "Magic trick metaphor: what looks incredibly complex is actually 5 cards repeated. Communication is the same — looks hard but it's 5 simple foundations mastered."
+      domain: communication-skills
+      source: "SA/02-Module2/The-Reveal"
+
+    - id: "MM-VG-004"
+      title: "Communication Fitness Model"
+      content: "Like athletic fitness, communication fitness builds over time. Can't run a marathon on day one. Need stamina building through daily practice."
+      domain: self-awareness
+      source: "SA/01-Module1/Universal-Laws"
+
+    - id: "MM-VG-005"
+      title: "Neutral Ears Model"
+      content: "Practice new vocal skills with strangers (neutral ears) before family (biased ears). Family reacts negatively because changed voice = perceived personality change."
+      domain: self-awareness
+      source: "SA/01-Module1/Universal-Laws"
+
+    - id: "MM-VG-006"
+      title: "Verbal Highlighting Model"
+      content: "Speed = priority indicator. Slow = this is important (verbal highlight). Fast = transitional content. Variation = holding attention."
+      domain: vocal-mastery
+      source: "SA/02-Module2/Rate-of-Speech"
+
+    - id: "MM-VG-007"
+      title: "Brain Prediction = Disengagement"
+      content: "When the brain can predict your rate, volume, pitch, archetype — it switches off. Unpredictability = attention. Monotony = disengagement."
+      domain: audience-engagement
+      source: "SA/02-Module2/Rate-of-Speech"
+
+    - id: "MM-VG-008"
+      title: "Default Trap Model"
+      content: "Every communicator has a default archetype/rate/volume they get stuck in. Identifying and escaping your default is the key breakthrough."
+      domain: vocal-archetypes
+      source: "SA/03-Module3/Motivator"
+
+    - id: "MM-VG-009"
+      title: "4 Chemical Storytelling Model"
+      content: "Stories trigger 4 neurochemicals: Dopamine (curiosity/suspense), Oxytocin (vulnerability/empathy), Endorphins (humor/relief), Cortisol (tension/urgency)."
+      domain: storytelling
+      source: "SA/04-Module4/Dopamine+Oxytocin+Endorphins+Cortisol"
+
+    - id: "MM-VG-010"
+      title: "Body-Voice Interconnection"
+      content: "Body moves voice and voice moves body. Leveler gesture = more authority in voice. Coach archetype + finger out = more commanding presence. They're inseparable."
+      domain: body-language
+      source: "SA/05-Module5/Hand-Gestures"
+
+    - id: "MM-VG-011"
+      title: "Power Sphere Model"
+      content: "Hand gestures are most effective between belly button and eyes (the Power Sphere). Below = weak. Above = bizarre. Within = powerful. From Mark Bowden."
+      domain: body-language
+      source: "SA/05-Module5/Hand-Gestures"
+
+    - id: "MM-VG-012"
+      title: "Satir Categories Model"
+      content: "Virginia Satir's 5 foundational hand gestures: Placator (palms up, inviting), Leveler (palms down, authority), Blamer (pointing, emphasis), Computer (chin, processing), Distractor (pattern break)."
+      domain: body-language
+      source: "SA/05-Module5/Hand-Gestures"
+
+    - id: "MM-VG-013"
+      title: "4MAT Sequencing Model"
+      content: "Bernice McCarthy's 4MAT adapted for archetypes: WHY (Motivator) → WHAT (Educator) → HOW (Coach) → CONNECT (Friend). Start AND end with connection."
+      domain: audience-engagement
+      source: "SA/03-Module3/Enhanced"
+
+    - id: "MM-VG-014"
+      title: "Remote Control Face Model"
+      content: "Your face is the remote control that injects emotion into words. Without it, words are flat. Same words + different face = completely different meaning."
+      domain: body-language
+      source: "SA/05-Module5/Facial-Expressions"
+
+    - id: "MM-VG-015"
+      title: "Priming Model"
+      content: "Before practicing new vocal techniques around familiar people, 'prime' them: 'I'm on a journey to improve communication, support me.' This prevents negative reactions to change."
+      domain: self-awareness
+      source: "SA/01-Module1/Universal-Laws"
+
+    - id: "MM-VG-016"
+      title: "Staccato vs Legato Voice Model"
+      content: "Legato (words linking together) = Motivator energy, inspiring. Staccato (punchy, separated words) = Coach energy, directive. Musical concept applied to speech."
+      domain: vocal-mastery
+      source: "SA/03-Module3/Motivator+Coach"
+
+    - id: "MM-VG-017"
+      title: "Content Shield Model"
+      content: "Nervous speakers use content as a shield — jumping straight to WHAT because it feels safe. But audience hasn't been given WHY, so they don't care about the WHAT."
+      domain: presentation-skills
+      source: "SA/03-Module3/Enhanced"
+
+    - id: "MM-VG-018"
+      title: "Vocal Coach Pipeline"
+      content: "Voice production follows a pipeline: Respiration (breath/fuel) → Phonation (vocal cord vibration) → Resonation (amplification in chest/head) → Articulation (clarity/diction)."
+      domain: vocal-coaching
+      source: "SA/06-Module6/Respiration+Phonation+Resonation+Articulation"
+
+  L3_HEURISTICS:
+    - id: "HEUR-VG-001"
+      title: "Volume 7/10 Default for Presentations"
+      content: "For presentations, use volume 7/10 as baseline. Projects confidence, authority, vitality, and belief in what you're saying."
+      domain: vocal-mastery
+      source: "SA/02-Module2/Volume"
+      type: numeric
+
+    - id: "HEUR-VG-002"
+      title: "Brain Prediction Disengagement Rule"
+      content: "If the brain can predict your next rate/volume/pitch/archetype, it WILL tune out. Break the pattern constantly."
+      domain: audience-engagement
+      source: "SA/02-Module2/Rate-of-Speech"
+
+    - id: "HEUR-VG-003"
+      title: "Slow = Important Highlight"
+      content: "Slow down for important parts — this creates a verbal highlight. Speed up for transitional/less important content."
+      domain: vocal-mastery
+      source: "SA/02-Module2/Rate-of-Speech"
+
+    - id: "HEUR-VG-004"
+      title: "Lower Pitch = Credibility"
+      content: "End sentences on LOWER pitch = credibility + authority + confidence. Higher pitch ending = sounds unsure, questioning."
+      domain: vocal-mastery
+      source: "SA/03-Module3/Educator"
+
+    - id: "HEUR-VG-005"
+      title: "More Pauses for Complex Topics"
+      content: "When teaching something new or complex, increase pauses significantly. Pauses = processing time for the audience."
+      domain: vocal-mastery
+      source: "SA/03-Module3/Educator"
+
+    - id: "HEUR-VG-006"
+      title: "Legato for Motivator"
+      content: "Use legato (words linking together) when in Motivator archetype. Creates flowing, inspiring energy."
+      domain: vocal-archetypes
+      source: "SA/03-Module3/Motivator"
+
+    - id: "HEUR-VG-007"
+      title: "Staccato for Coach"
+      content: "Use staccato (punchy, separated words) when in Coach archetype. Creates directness and urgency."
+      domain: vocal-archetypes
+      source: "SA/03-Module3/Coach"
+
+    - id: "HEUR-VG-008"
+      title: "Volume 7+ for Motivator and Coach"
+      content: "Both Motivator and Coach archetypes require volume 7/10 or higher. Strong volume is essential for inspiring and directing."
+      domain: vocal-archetypes
+      source: "SA/03-Module3/Motivator+Coach"
+
+    - id: "HEUR-VG-009"
+      title: "Conversational + Melody = Friend"
+      content: "Friend archetype requires conversational language, lots of melody, relaxed body language. Filler words are OK in Friend mode."
+      domain: vocal-archetypes
+      source: "SA/03-Module3/Friend"
+
+    - id: "HEUR-VG-010"
+      title: "4MAT Sequence Rule"
+      content: "Start with FRIEND (connect) → MOTIVATOR (why) → EDUCATOR (what) → COACH (how) → FRIEND (reconnect). Never start with content (what) — start with why."
+      domain: presentation-skills
+      source: "SA/03-Module3/Enhanced"
+
+    - id: "HEUR-VG-011"
+      title: "Dopamine = Curiosity/Suspense"
+      content: "Share stories with curiosity gaps and suspense to trigger Dopamine. Make them WANT to know what happens next."
+      domain: storytelling
+      source: "SA/04-Module4/Dopamine"
+
+    - id: "HEUR-VG-012"
+      title: "Oxytocin = Vulnerability/Empathy"
+      content: "Share vulnerable moments to trigger Oxytocin. When you're vulnerable, audience connects empathetically."
+      domain: storytelling
+      source: "SA/04-Module4/Oxytocin"
+
+    - id: "HEUR-VG-013"
+      title: "Endorphins = Humor/Relief"
+      content: "Use humor strategically to trigger Endorphins. Laughter = relief, bonding, openness to message."
+      domain: storytelling
+      source: "SA/04-Module4/Endorphins"
+
+    - id: "HEUR-VG-014"
+      title: "Cortisol = Tension/Urgency"
+      content: "Create tension and urgency to trigger Cortisol. Makes audience feel stakes and importance of action."
+      domain: storytelling
+      source: "SA/04-Module4/Cortisol"
+
+    - id: "HEUR-VG-015"
+      title: "Filler Words Always Distract"
+      content: "Filler words (um, uh, like) ALWAYS distract from the message. They are always a problem per the Golden Rule."
+      domain: vocal-mastery
+      source: "SA/01-Module1/Golden-Rule"
+
+    - id: "HEUR-VG-016"
+      title: "Record and Review Method"
+      content: "Record yourself speaking. Review the recording. Identify your defaults. This is the fastest path to self-awareness."
+      domain: self-awareness
+      source: "SA/02-Module2/Self-Awareness-Technique"
+
+    - id: "HEUR-VG-017"
+      title: "Neutral Ears Before Familiar"
+      content: "Practice new techniques with strangers first (coffee shops, gas stations). They have no bias. Family will react negatively to change."
+      domain: self-awareness
+      source: "SA/01-Module1/Universal-Laws"
+
+    - id: "HEUR-VG-018"
+      title: "Prime Before Practice"
+      content: "Tell family/colleagues: 'I'm working on improving my communication skills, please support me.' This prevents pushback when you sound different."
+      domain: self-awareness
+      source: "SA/01-Module1/Universal-Laws"
+
+    - id: "HEUR-VG-019"
+      title: "Door Frame Posture Anchor"
+      content: "Every time you walk through a door frame, use it as anchor to reset your posture. Shoulders back, head aligned."
+      domain: body-language
+      source: "SA/05-Module5/Posture"
+
+    - id: "HEUR-VG-020"
+      title: "Face = Remote Control"
+      content: "Your face is the remote control that injects emotion into words. Same words with blank face = creepy/suspicious. Add facial expression to add context."
+      domain: body-language
+      source: "SA/05-Module5/Facial-Expressions"
+
+    - id: "HEUR-VG-021"
+      title: "Placator = Open but Weak Authority"
+      content: "Palms up (Placator) = inviting, non-threatening, open. But lacks authority. Use for openings and friendly moments."
+      domain: body-language
+      source: "SA/05-Module5/Hand-Gestures"
+
+    - id: "HEUR-VG-022"
+      title: "Leveler = Authority"
+      content: "Palms down (Leveler) = authority, control, credibility. Use when you need to be taken seriously."
+      domain: body-language
+      source: "SA/05-Module5/Hand-Gestures"
+
+    - id: "HEUR-VG-023"
+      title: "Blamer = Emphasis (Use Sparingly)"
+      content: "Pointing (Blamer) = drive a point home. Extremely powerful but use sparingly. Full finger point is softer alternative."
+      domain: body-language
+      source: "SA/05-Module5/Hand-Gestures"
+
+    - id: "HEUR-VG-024"
+      title: "Computer = Active Listening"
+      content: "Chin rest (Computer) = shows you're processing, computing what they said. Use while listening, especially on video calls."
+      domain: body-language
+      source: "SA/05-Module5/Hand-Gestures"
+
+    - id: "HEUR-VG-025"
+      title: "Distractor = Pattern Break"
+      content: "Auditory clap + redirect (Distractor) = pattern break when losing audience. Must include sound. Use rarely."
+      domain: body-language
+      source: "SA/05-Module5/Hand-Gestures"
+
+    - id: "HEUR-VG-026"
+      title: "Open Face for Motivator"
+      content: "Motivator archetype requires open facial expressions, high energy, legato voice, and purposeful movement."
+      domain: vocal-archetypes
+      source: "SA/03-Module3/Motivator"
+
+    - id: "HEUR-VG-027"
+      title: "Minimal Movement for Educator"
+      content: "Educator archetype requires minimal movement (reduces visual clutter), slower rate, more pauses, matter-of-fact pitch."
+      domain: vocal-archetypes
+      source: "SA/03-Module3/Educator"
+
+    - id: "HEUR-VG-028"
+      title: "Strong Body for Coach"
+      content: "Coach archetype requires strong body language, finger out (blamer gesture), staccato voice, direct/punchy language."
+      domain: vocal-archetypes
+      source: "SA/03-Module3/Coach"
+
+    - id: "HEUR-VG-029"
+      title: "Relaxed Body for Friend"
+      content: "Friend archetype requires relaxed body language, conversational language, lots of melody, filler words OK."
+      domain: vocal-archetypes
+      source: "SA/03-Module3/Friend"
+
+    - id: "HEUR-VG-030"
+      title: "3-Step Story: Incident → Transformation → Life Lesson"
+      content: "Every great story has 3 steps: Incident (who/where/what/when + VAKS + characters alive), Transformation (what changed), Life Lesson (connect to audience)."
+      domain: storytelling
+      source: "SA/04-Module4/Storytelling-Formula"
+
+    - id: "HEUR-VG-031"
+      title: "VAKS for Story Color"
+      content: "Add color with VAKS: Visual (describe what you see), Auditory (sounds), Kinesthetic (feelings/touch), Smell. This transforms flat reporting into vivid reliving."
+      domain: storytelling
+      source: "SA/04-Module4/Storytelling-Formula"
+
+    - id: "HEUR-VG-032"
+      title: "Characters Alive = Body + Dialogue"
+      content: "Bring characters to life through body language (physically become the character) AND dialogue (use their voice/tone). This = reliving, not reporting."
+      domain: storytelling
+      source: "SA/04-Module4/Storytelling-Formula"
+
+    - id: "HEUR-VG-033"
+      title: "Diaphragmatic Breathing = Foundation"
+      content: "Diaphragmatic breathing is the fuel of all vocal power. Belly expands on inhale, contracts on exhale. Foundation of the voice pipeline."
+      domain: vocal-coaching
+      source: "SA/06-Module6/Respiration"
+
+    - id: "HEUR-VG-034"
+      title: "Power Sphere Zone"
+      content: "Keep hand gestures between belly button and eyes for maximum effectiveness. Below = weak. Above = bizarre."
+      domain: body-language
+      source: "SA/05-Module5/Hand-Gestures"
+
+  L4_FRAMEWORKS:
+    - id: "FW-VG-001"
+      title: "5 Universal Laws of Communication"
+      content: "1. 88 Keys (full vocal range = authenticity) 2. Only Practice Leads to Improvement 3. No Automatic Transfer (need neutral ears) 4. All Judgments Are Temporary 5. Generosity = Energy"
+      domain: communication-skills
+      source: "SA/01-Module1/Universal-Laws"
+
+    - id: "FW-VG-002"
+      title: "5 Vocal Foundations"
+      content: "1. Rate of Speech (vary: slow=important, fast=transitional) 2. Volume (scale 1-10, default 7 for presentations) 3. Pitch/Melody (vary for engagement) 4. Tonality (emotion in voice) 5. Pause (processing time, emphasis)"
+      domain: vocal-mastery
+      source: "SA/02-Module2"
+
+    - id: "FW-VG-003"
+      title: "4 Vocal Archetypes"
+      content: "1. MOTIVATOR (goal: inspire — legato, high volume, open face, energy) 2. EDUCATOR (goal: inform — slower rate, more pauses, lower pitch endings, minimal movement) 3. COACH (goal: guide/instruct — staccato, strong volume, finger out, direct language) 4. FRIEND (goal: connect — conversational, lots of melody, relaxed, filler words OK)"
+      domain: vocal-archetypes
+      source: "SA/03-Module3"
+
+    - id: "FW-VG-004"
+      title: "Self-Awareness Technique"
+      content: "Record yourself → Review the recording → Identify your defaults (rate, volume, pitch, archetype, gestures) → Set improvement targets → Practice daily"
+      domain: self-awareness
+      source: "SA/02-Module2/Self-Awareness-Technique"
+
+    - id: "FW-VG-005"
+      title: "Golden Rule Framework"
+      content: "Universal filter for all communication behaviors: 'If it distracts people from the message, it's a problem.' Apply to accent, movement, filler words, everything."
+      domain: communication-skills
+      source: "SA/01-Module1/Golden-Rule"
+
+    - id: "FW-VG-006"
+      title: "Visual Image + Vocal Image"
+      content: "Visual Image = body language + clothing → creates ASSUMPTIONS from afar. Vocal Image = how you sound when speaking → converts assumptions into BELIEFS. Vocal > Visual."
+      domain: communication-skills
+      source: "SA/01-Module1/Visual-Vocal-Image"
+
+    - id: "FW-VG-007"
+      title: "4MAT Archetype Sequencing"
+      content: "Adapted from Bernice McCarthy: FRIEND (connect first) → MOTIVATOR (the WHY) → EDUCATOR (the WHAT) → COACH (the HOW) → FRIEND (reconnect). Start AND end with connection."
+      domain: presentation-skills
+      source: "SA/03-Module3/Enhanced"
+
+    - id: "FW-VG-008"
+      title: "3-Step Storytelling Formula"
+      content: "Step 1: INCIDENT (who, where, what, when + VAKS color + characters alive via body language and dialogue) Step 2: TRANSFORMATION (what changed as a result) Step 3: LIFE LESSON (connect the story to the audience's world)"
+      domain: storytelling
+      source: "SA/04-Module4/Storytelling-Formula"
+
+    - id: "FW-VG-009"
+      title: "4 Chemical Storytelling Framework"
+      content: "4 neurochemicals triggered by stories: DOPAMINE (curiosity/suspense stories), OXYTOCIN (vulnerability/empathy stories), ENDORPHINS (humor/relief stories), CORTISOL (tension/urgency stories). Master all 4."
+      domain: storytelling
+      source: "SA/04-Module4/Dopamine+Oxytocin+Endorphins+Cortisol"
+
+    - id: "FW-VG-010"
+      title: "VAKS Color System"
+      content: "Add sensory detail to stories: V=Visual (describe the scene), A=Auditory (sounds), K=Kinesthetic (feelings, touch, temperature), S=Smell. Makes stories vivid and memorable."
+      domain: storytelling
+      source: "SA/04-Module4/Storytelling-Formula"
+
+    - id: "FW-VG-011"
+      title: "Satir Hand Gesture Categories"
+      content: "Virginia Satir's 5 foundational gestures: 1. PLACATOR (palms up — inviting/open) 2. LEVELER (palms down — authority) 3. BLAMER (pointing — emphasis) 4. COMPUTER (chin — processing) 5. DISTRACTOR (clap+redirect — pattern break)"
+      domain: body-language
+      source: "SA/05-Module5/Hand-Gestures"
+
+    - id: "FW-VG-012"
+      title: "Power Sphere Framework"
+      content: "Mark Bowden's Power Sphere: the zone between belly button and eyes where hand gestures are most effective and influential."
+      domain: body-language
+      source: "SA/05-Module5/Hand-Gestures"
+
+    - id: "FW-VG-013"
+      title: "Storytelling Linking System"
+      content: "Method for connecting ANY story to ANY point: Tell the story → Pause → Ask 'How does this relate?' → Bridge with 'And the reason I tell this story is...' → Connect to key message."
+      domain: storytelling
+      source: "SA/04-Module4/Linking"
+
+    - id: "FW-VG-014"
+      title: "Library of Stories Method"
+      content: "Pre-organize stories by theme/emotion. Have a catalog of ready-to-deploy stories for different situations. Build library over time. Never be caught without a relevant story."
+      domain: storytelling
+      source: "SA/04-Module4/Library-of-Stories"
+
+    - id: "FW-VG-015"
+      title: "Body Language 5 Pillars"
+      content: "1. POSTURE (foundation — shoulders back, head aligned, door frame anchor) 2. HAND GESTURES (Satir 5 categories + power sphere) 3. FACIAL EXPRESSIONS (7 foundations — remote control for emotion) 4. EYE CONTACT (connection + credibility) 5. MOVEMENT (purposeful, never aimless pacing)"
+      domain: body-language
+      source: "SA/05-Module5"
+
+    - id: "FW-VG-016"
+      title: "7 Foundational Facial Expressions"
+      content: "Happy, Sad, Surprise, Angry, Disgust, Fearful, Contempt. (20 total combinations exist but these 7 cover everyday communication.)"
+      domain: body-language
+      source: "SA/05-Module5/Facial-Expressions"
+
+    - id: "FW-VG-017"
+      title: "Powerful Rapport Technique"
+      content: "Build rapid rapport through vocal mirroring: match the other person's rate of speech, volume level, and energy. Then gradually lead them to where you want."
+      domain: audience-engagement
+      source: "SA/02-Module2/Rapport-Technique"
+
+    - id: "FW-VG-018"
+      title: "Vocal Coach Pipeline"
+      content: "Voice production pipeline: RESPIRATION (diaphragmatic breathing = fuel) → PHONATION (vocal cord vibration = sound creation) → RESONATION (chest/head/nasal = amplification) → ARTICULATION (tongue/lips = clarity)"
+      domain: vocal-coaching
+      source: "SA/06-Module6"
+
+    - id: "FW-VG-019"
+      title: "Story Shortening Framework"
+      content: "Keep stories tight: 1. Don't over-describe the Incident (biggest mistake) 2. Get to the Transformation quickly 3. Life Lesson should be concise 4. If listener says 'get to the point' — your Incident is too long"
+      domain: storytelling
+      source: "SA/04-Module4/Tips-Keep-Stories-Short"
+
+    - id: "FW-VG-020"
+      title: "Pitch Ending Authority Scale"
+      content: "Sentence ending pitch determines perceived authority: HIGH ending = questioning/unsure/low credibility. LOW ending = declarative/confident/high authority. Matter-of-fact pitch = educator credibility."
+      domain: vocal-mastery
+      source: "SA/03-Module3/Educator"
+
+  L5_METHODOLOGIES:
+    - id: "MET-VG-001"
+      title: "Complete Storytelling Method"
+      content: "Step 1 INCIDENT: Set who/where/what/when → Add VAKS (visual, auditory, kinesthetic, smell) → Bring characters alive with body language + dialogue. Step 2 TRANSFORMATION: What changed? What was the turning point? Step 3 LIFE LESSON: Bridge to audience with 'And the reason I tell this story is...' → Connect to their world. RULES: Don't over-describe incident. Keep tight. Relive, don't report."
+      domain: storytelling
+      source: "SA/04-Module4/Storytelling-Formula+Linking+Tips"
+
+    - id: "MET-VG-002"
+      title: "Vocal Archetype Cycling Method"
+      content: "Step 1: Identify your DEFAULT archetype (record and review). Step 2: Practice each of the 4 archetypes in isolation. Step 3: Learn the 4MAT sequence (Friend→Motivator→Educator→Coach→Friend). Step 4: Cycle with PURPOSE — each archetype serves a function. Step 5: Daily practice — vary archetypes in every conversation."
+      domain: vocal-archetypes
+      source: "SA/03-Module3"
+
+    - id: "MET-VG-003"
+      title: "Self-Awareness Building Method"
+      content: "Step 1: Record yourself speaking (video preferred). Step 2: Review and identify defaults (rate, volume, pitch, archetype, gestures). Step 3: Rate yourself 1-10 on each foundation. Step 4: Set improvement targets. Step 5: Practice with neutral ears (strangers). Step 6: Prime family/colleagues. Step 7: Integrate into daily conversations. Step 8: Re-record and compare monthly."
+      domain: self-awareness
+      source: "SA/02-Module2/Self-Awareness+01-Module1/Universal-Laws"
+
+    - id: "MET-VG-004"
+      title: "Rate of Speech Mastery Method"
+      content: "Step 1: Record yourself — identify your default rate. Step 2: Practice intentionally slow passages. Step 3: Practice intentionally fast passages. Step 4: Practice varying in same paragraph (slow for key points, fast for transitions). Step 5: Use verbal highlighting rule (slow = important). Step 6: Test with neutral ears."
+      domain: vocal-mastery
+      source: "SA/02-Module2/Rate-of-Speech"
+
+    - id: "MET-VG-005"
+      title: "Volume Calibration Method"
+      content: "Step 1: Rate your current default volume (1-10 scale). Step 2: Practice at 3/10 (whisper — for dramatic effect). Step 3: Practice at 7/10 (presentation default). Step 4: Practice at 9/10 (coach/motivator energy). Step 5: Practice transitioning between volumes in same speech. Step 6: Rule: whisper to grab attention, strong to project authority. Never stay at one level."
+      domain: vocal-mastery
+      source: "SA/02-Module2/Volume"
+
+    - id: "MET-VG-006"
+      title: "Storytelling Library Method"
+      content: "Step 1: Create categories (vulnerability, humor, triumph, failure, lesson learned). Step 2: Write down 3-5 personal stories per category. Step 3: For each story, identify the Life Lesson. Step 4: Practice telling each story in under 2 minutes. Step 5: Practice LINKING any story to any topic. Step 6: Build library continuously from daily life experiences."
+      domain: storytelling
+      source: "SA/04-Module4/Library-of-Stories"
+
+    - id: "MET-VG-007"
+      title: "Vocal Coach 4-Step Method"
+      content: "Step 1 RESPIRATION: Practice diaphragmatic breathing (belly expands on inhale). Step 2 PHONATION: Practice vocal cord engagement (humming exercises, siren sounds). Step 3 RESONATION: Practice chest resonance vs head resonance (feel vibrations). Step 4 ARTICULATION: Practice tongue twisters, consonant clarity, vowel openness."
+      domain: vocal-coaching
+      source: "SA/06-Module6"
+
+    - id: "MET-VG-008"
+      title: "Hand Gesture Mastery Method"
+      content: "Step 1: Learn 5 Satir categories (Placator, Leveler, Blamer, Computer, Distractor). Step 2: Practice each in mirror. Step 3: Match gestures to context (Placator for openness, Leveler for authority, etc.). Step 4: Stay in Power Sphere (belly to eyes). Step 5: Record yourself presenting — check for pocket/arm habits. Step 6: Replace pockets with Placator default. Step 7: Practice daily until natural."
+      domain: body-language
+      source: "SA/05-Module5/Hand-Gestures"
+
+    - id: "MET-VG-009"
+      title: "Body Language Integration Method"
+      content: "Step 1: Fix POSTURE first (shoulders back, head aligned, door frame anchor). Step 2: Add hand gestures (Satir categories in Power Sphere). Step 3: Add facial expressions (practice 7 foundations, selfie test). Step 4: Add eye contact (3-5 second holds). Step 5: Add purposeful movement (walk TO audience, not pace AWAY). Step 6: Record full presentation with all 5 elements. Step 7: Review and refine."
+      domain: body-language
+      source: "SA/05-Module5"
+
+    - id: "MET-VG-010"
+      title: "Presentation Sequencing Method"
+      content: "Step 1: Open with FRIEND archetype (connect, rapport, warmth). Step 2: Move to MOTIVATOR (WHY this matters to them — make them thirsty). Step 3: Deliver content in EDUCATOR (WHAT — the information). Step 4: Push to action in COACH (HOW — direct them). Step 5: Close with FRIEND (reconnect, warmth, call to community). Throughout: Weave stories using 4 Chemical Framework. Use VAKS. Relive, don't report."
+      domain: presentation-skills
+      source: "SA/03-Module3/Enhanced+04-Module4"

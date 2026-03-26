@@ -1,0 +1,12 @@
+# Transcrição: RCA_next_step_video_
+
+- **Fonte:** RCA_next_step_video_
+- **Duração:** 02:01
+- **Idioma:** en
+- **Modelo:** small
+
+---
+
+## [00:00 - 02:01]
+
+Hey guys, if you are watching this video, first off, congratulations for making an amazing decision to join Remote Closer Academy. I'm Savannah, Closer recruiting manager, and I'm in charge of building out all of the teams for our six to eight figure sales team clients. So, on top of the fact that you are getting hands down the best sales training in the world and one of the fastest growing industries online, you are also in one of the best places to land yourself a sales position with an amazing company through our internal recruiting process. So, if you've made it this far in the training, that means you've already gone through a couple of modules, including the videos in this one if you followed the instructions. Now, if you're someone who just skipped ahead, do yourself a favor, go back and watch all the videos in this module first regarding how to interview and land a position successfully in the high ticket space. Once you've watched all the videos, here's what's going to happen next. Below this video, or at least somewhere on this page, is a link and it's going to take you to our application. It should only take you about 10 to 15 minutes, but fill that out and in the very last question, it will direct you to book an interview with someone on my recruiting team. Once you do that, make sure you finish submitting the application by following all the prompts it's going to give you. From there, you're going to jump on to a 30 minute call with our team to discuss a little bit about your background and what you're looking for in a sales position. If we think you'd potentially be a good fit for one of our clients, we're going to put you into our pipeline to consider you for future opportunities to interview with them. Now, there are no guarantees that you're going to land a position. However, I promise you, if you follow our training, you show up fully during your time in the program, you're asking questions on group calls, and overall, if you show up hungry and coachable, you're going to put yourself in an amazing position to land a sales job with one of our clients. So, if you've gone through all the training up to this point, click the application link, fill it out, and book your call with my recruiting team, and we will look forward to seeing what opportunities we might have for you. Best of luck.

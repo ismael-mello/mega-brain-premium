@@ -4,14 +4,14 @@
 # CRIADO: 2026-03-13
 # ATUALIZADO: 2026-03-17
 #
-# FONTES: Dan Kennedy (822 el) + Eugene Schwartz (115 el) + Russell Brunson (240 el) + Alex Hormozi (80 el) + Todd Brown (292 el) + Gary Halbert (297 el) + André Chaperon (120 el) + David Deutsch (218 el) + Ry Schwartz (150 el) + John Carlton (261 el) + Clayton Makepeace (633 el) + Jordan Belfort (45 el) + Donald Miller (90 el) + Robert Cialdini (50 el) + Jon Benson (1131 el) + Stefan Georgi (308 el) + Justin Goff (60 el) + Ben Settle (250 el)
+# FONTES: Dan Kennedy (822 el) + Eugene Schwartz (115 el) + Russell Brunson (240 el) + Alex Hormozi (80 el) + Cole Gordon (40 el) + Todd Brown (292 el) + Gary Halbert (297 el) + André Chaperon (120 el) + David Deutsch (218 el) + Ry Schwartz (150 el) + John Carlton (261 el) + Clayton Makepeace (633 el) + Jordan Belfort (45 el) + Donald Miller (90 el) + Robert Cialdini (50 el) + Jon Benson (1131 el) + Stefan Georgi (308 el) + Justin Goff (60 el) + Ben Settle (250 el)
 # ═══════════════════════════════════════════════════════════════════════════════
 
 dominio: "copywriting"
-versao: "32.0.0"  # Rafael Marks added (+35 copy elements). Script VSL 35 Passos, Jornada Dupla do Herói (copy storytelling), Copy Direta vs Indireta por preço, Páginas de Vendas de Alta Conversão (CRO), 3 Falsas Crenças em copy, Webinar Copy (Perfect Webinar BR), 100 Títulos Irresistíveis para Email, Script de Fechamento High Ticket, Permissão para Ofertar, Empilhamento de Bônus, Marinada de Preço. First Portuguese-language copy methodology in the system.
+versao: "34.0.0"  # Cole Gordon CIL added (+40 copy elements). Pitch Codex (structured pitch architecture), Copy Platform Creation, 15 Content Angles, Market Sophistication approach, Story Selling methodology. CIL brings sales-to-copy bridge — how verbal selling frameworks translate to written pitch. CG DNA now includes CIL.
 criado_em: "2026-03-13"
-atualizado_em: "2026-03-25"
-total_elementos: 5335
+atualizado_em: "2026-03-26"
+total_elementos: 5455
 
 fontes_consolidadas:
   - fonte: "dan-kennedy"
@@ -56,6 +56,16 @@ fontes_consolidadas:
     raiz: "/knowledge/external/sources/alex-hormozi/raw/"
     contribuicao_principal: "Hooks = 80% da performance, offer language, content hooks"
     elementos_relevantes: 80
+
+  - fonte: "cole-gordon"
+    peso_dominio: 0.65
+    path: "/knowledge/external/dna/persons/cole-gordon/"
+    raiz: "/knowledge/external/sources/cole-gordon/raw/"
+    contribuicao_principal: "Sales-to-copy bridge — Pitch Codex (structured pitch architecture translatable to written copy), Copy Platform Creation (positioning statement as copy foundation), 15 Content Angles (content marketing copywriting frameworks), Market Sophistication awareness for copy calibration, Story Selling methodology (narrative selling applicable to sales pages and VSLs)"
+    elementos_relevantes: 40
+    fontes_incluidas:
+      - "Closers Into Leaders (40 copy-relevant elementos — Pitch Codex for structured pitch-to-copy conversion, Copy Platform creation, 15 Content Angles for marketing copy, Market Sophistication levels for copy calibration, Story Selling for narrative copy)"
+    note: "Added 2026-03-26 from CIL. Cole Gordon's contribution to copywriting is through the SALES-TO-COPY BRIDGE — frameworks designed for verbal selling that translate powerfully to written copy. Pitch Codex provides structured pitch architecture (promise + paradigm + future + delivery) usable as sales page structure. 15 Content Angles provide marketing copywriting variety. Not a pure copywriter, but complements traditional copy experts with sales-proven pitch architecture."
 
   - fonte: "todd-brown"
     peso_dominio: 0.92
@@ -310,6 +320,32 @@ fontes_consolidadas:
     especialidade: "Script VSL 35 Passos, Jornada Dupla do Herói (copy storytelling), Copy Direta vs Indireta por preço, Páginas de Vendas de Alta Conversão (CRO), 3 Falsas Crenças em copy, Webinar Copy (Perfect Webinar BR), 100 Títulos Irresistíveis para Email, Script de Fechamento High Ticket, Permissão para Ofertar, Empilhamento de Bônus, Marinada de Preço"
     batches: ["RM-HM (Hackers do Marketing — 173 total, 35 copy-relevant — 2026-03-25)"]
     nota: "Added 2026-03-25. Brazilian digital marketer with strong copywriting for funnels. 508 source files. Key copy contribution: VSL script adapted to Brazilian market (35 steps), copy length determined by price point (R$37=5min, R$297=25min, R$997=webinar 45-90min), CRO optimization (3%→6.5% with AB testing). First Portuguese-language copy methodology in the system. Complements Carlton (raw salesmanship), Benson (VSLs), and Settle (email) with Brazilian adaptation."
+
+  - fonte: "frank-kern"
+    peso_dominio: 0.85
+    path: "/knowledge/external/dna/persons/frank-kern/"
+    raiz: "/knowledge/external/sources/frank-kern/raw/"
+    contribuicao_principal: "Assembly Line Copy (10-section framework), 12 Bullet Formulas, 4 Headline Formulas, Damaging Admission technique, Billion Dollar VSL copy structure (with Dean Graziosi), Educational/Non-Educational VSL scripts, Dog Whistle Two-Sentence Ad copy, Educational Ad Video Framework, Results In Advance copy technique, Close Stacking copy method"
+    elementos_relevantes: 80
+    fontes_incluidas:
+      - "Rainmaker Certification (30 copy elements — Assembly Line Copy framework, headline formulas, bullet formulas)"
+      - "Operation Takeover (120 copy/VSL elements — Assembly Line depth, Bullets, Headlines, Billion Dollar VSL framework, Close Stacking copy)"
+      - "Ads Madness Masterclass (50 ad copy elements — Dog Whistle Two-Sentence Ad, Educational Ad Video Framework, FAQ Bridge copy)"
+    key_frameworks:
+      - "Assembly Line Copy (10-section copy creation system — systematic, repeatable)"
+      - "12 Bullet Formulas (comprehensive bullet/fascination formula set)"
+      - "4 Headline Formulas (headline templates for VSLs, ads, and landing pages)"
+      - "Billion Dollar VSL (complete VSL script structure co-created with Dean Graziosi)"
+      - "Dog Whistle Two-Sentence Ad (ultra-short ad copy that leverages ML algorithms)"
+      - "Educational Ad Video Framework (value-first video ad structure)"
+    domains:
+      - "vsl-copywriting"
+      - "ad-copywriting"
+      - "headline-formulas"
+      - "bullet-formulas"
+      - "landing-page-copy"
+      - "video-ad-scripts"
+    nota: "Added 2026-03-26. Frank Kern brings a PRACTICAL, systematic copy approach. Assembly Line Copy is the most structured copy creation framework in the system — 10 sections, plug-and-play. 12 Bullet Formulas + 4 Headline Formulas give concrete templates. Billion Dollar VSL (with Graziosi) is a proven high-ticket VSL structure. Dog Whistle ads leverage machine learning by using ultra-short copy. Complements Stefan Georgi (RMBC = research-driven) with a template-driven approach."
 
 # ═══════════════════════════════════════════════════════════════════════════════
 # FILOSOFIAS

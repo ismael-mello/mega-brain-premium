@@ -1,8 +1,8 @@
 {
   "version": "2.0.0",
-  "skills_count": 51,
+  "skills_count": 54,
   "subagents_count": 4,
-  "total_count": 57,
+  "total_count": 60,
   "skills": {
     "agent-creation": {
       "path": ".claude\\skills\\agent-creation",
@@ -243,6 +243,36 @@
         "styling",
         "theme",
         "aesthetics"
+      ],
+      "priority": "ALTA",
+      "description": ""
+    },
+    "funnel-architect": {
+      "path": ".claude\\skills\\funnel-architect",
+      "name": "funnel-architect",
+      "type": "skill",
+      "auto_trigger": "Quando usuário perguntar sobre funil de vendas, qual funil usar, estrutura de funil, tripwire, webinar, VSL, high-ticket, front-end, back-end, escada de valor, ou pedir para montar um funil",
+      "keywords": [
+        "funil",
+        "funnel",
+        "tripwire",
+        "webinar",
+        "vsl",
+        "high-ticket",
+        "front-end",
+        "back-end",
+        "escada de valor",
+        "value ladder",
+        "qual funil",
+        "montar funil",
+        "estrutura de funil",
+        "upsell",
+        "order bump",
+        "slo",
+        "aplicação",
+        "call funnel",
+        "mini-oferta",
+        "dsl"
       ],
       "priority": "ALTA",
       "description": ""
@@ -724,6 +754,35 @@
       "priority": "MÉDIA",
       "description": ""
     },
+    "tracking-event-funnel": {
+      "path": ".claude\\skills\\tracking-event-funnel",
+      "name": "tracking-event-funnel",
+      "type": "skill",
+      "auto_trigger": "Quando usuário perguntar sobre tracking, pixel, API de conversão, funil de eventos, atribuição, Advanced Matching, configuração de eventos do Facebook/Meta, otimização de pixel, qualidade de eventos, nota do pixel",
+      "keywords": [
+        "tracking",
+        "pixel",
+        "api de conversão",
+        "funil de eventos",
+        "event funnel",
+        "atribuição",
+        "advanced matching",
+        "qualidade de eventos",
+        "nota do pixel",
+        "configurar eventos",
+        "page view",
+        "initiate checkout",
+        "purchase event",
+        "subscribe event",
+        "capi",
+        "conversion api",
+        "server-side tracking",
+        "connect rate",
+        "80-10-10"
+      ],
+      "priority": "ALTA",
+      "description": ""
+    },
     "using-superpowers": {
       "path": ".claude\\skills\\using-superpowers",
       "name": "using-superpowers",
@@ -786,6 +845,27 @@
         "quality",
         "6 níveis",
         "6 levels"
+      ],
+      "priority": "ALTA",
+      "description": ""
+    },
+    "video": {
+      "path": ".claude\\skills\\video",
+      "name": "video",
+      "type": "skill",
+      "auto_trigger": "When user asks to create a video, VSL, creative, ad, or presentation from agent output",
+      "keywords": [
+        "video",
+        "vsl",
+        "creative",
+        "ad",
+        "apresentação",
+        "renderizar",
+        "gerar video",
+        "fazer video",
+        "criar video",
+        "video sales letter",
+        "anúncio"
       ],
       "priority": "ALTA",
       "description": ""
@@ -1677,6 +1757,172 @@
         "name": "frontend-design",
         "type": "skill",
         "path": ".claude\\skills\\frontend-design",
+        "priority": "ALTA"
+      }
+    ],
+    "funil": [
+      {
+        "name": "funnel-architect",
+        "type": "skill",
+        "path": ".claude\\skills\\funnel-architect",
+        "priority": "ALTA"
+      }
+    ],
+    "funnel": [
+      {
+        "name": "funnel-architect",
+        "type": "skill",
+        "path": ".claude\\skills\\funnel-architect",
+        "priority": "ALTA"
+      }
+    ],
+    "tripwire": [
+      {
+        "name": "funnel-architect",
+        "type": "skill",
+        "path": ".claude\\skills\\funnel-architect",
+        "priority": "ALTA"
+      }
+    ],
+    "webinar": [
+      {
+        "name": "funnel-architect",
+        "type": "skill",
+        "path": ".claude\\skills\\funnel-architect",
+        "priority": "ALTA"
+      }
+    ],
+    "vsl": [
+      {
+        "name": "funnel-architect",
+        "type": "skill",
+        "path": ".claude\\skills\\funnel-architect",
+        "priority": "ALTA"
+      },
+      {
+        "name": "video",
+        "type": "skill",
+        "path": ".claude\\skills\\video",
+        "priority": "ALTA"
+      }
+    ],
+    "high-ticket": [
+      {
+        "name": "funnel-architect",
+        "type": "skill",
+        "path": ".claude\\skills\\funnel-architect",
+        "priority": "ALTA"
+      }
+    ],
+    "front-end": [
+      {
+        "name": "funnel-architect",
+        "type": "skill",
+        "path": ".claude\\skills\\funnel-architect",
+        "priority": "ALTA"
+      }
+    ],
+    "back-end": [
+      {
+        "name": "funnel-architect",
+        "type": "skill",
+        "path": ".claude\\skills\\funnel-architect",
+        "priority": "ALTA"
+      }
+    ],
+    "escada de valor": [
+      {
+        "name": "funnel-architect",
+        "type": "skill",
+        "path": ".claude\\skills\\funnel-architect",
+        "priority": "ALTA"
+      }
+    ],
+    "value ladder": [
+      {
+        "name": "funnel-architect",
+        "type": "skill",
+        "path": ".claude\\skills\\funnel-architect",
+        "priority": "ALTA"
+      }
+    ],
+    "qual funil": [
+      {
+        "name": "funnel-architect",
+        "type": "skill",
+        "path": ".claude\\skills\\funnel-architect",
+        "priority": "ALTA"
+      }
+    ],
+    "montar funil": [
+      {
+        "name": "funnel-architect",
+        "type": "skill",
+        "path": ".claude\\skills\\funnel-architect",
+        "priority": "ALTA"
+      }
+    ],
+    "estrutura de funil": [
+      {
+        "name": "funnel-architect",
+        "type": "skill",
+        "path": ".claude\\skills\\funnel-architect",
+        "priority": "ALTA"
+      }
+    ],
+    "upsell": [
+      {
+        "name": "funnel-architect",
+        "type": "skill",
+        "path": ".claude\\skills\\funnel-architect",
+        "priority": "ALTA"
+      }
+    ],
+    "order bump": [
+      {
+        "name": "funnel-architect",
+        "type": "skill",
+        "path": ".claude\\skills\\funnel-architect",
+        "priority": "ALTA"
+      }
+    ],
+    "slo": [
+      {
+        "name": "funnel-architect",
+        "type": "skill",
+        "path": ".claude\\skills\\funnel-architect",
+        "priority": "ALTA"
+      }
+    ],
+    "aplicação": [
+      {
+        "name": "funnel-architect",
+        "type": "skill",
+        "path": ".claude\\skills\\funnel-architect",
+        "priority": "ALTA"
+      }
+    ],
+    "call funnel": [
+      {
+        "name": "funnel-architect",
+        "type": "skill",
+        "path": ".claude\\skills\\funnel-architect",
+        "priority": "ALTA"
+      }
+    ],
+    "mini-oferta": [
+      {
+        "name": "funnel-architect",
+        "type": "skill",
+        "path": ".claude\\skills\\funnel-architect",
+        "priority": "ALTA"
+      }
+    ],
+    "dsl": [
+      {
+        "name": "funnel-architect",
+        "type": "skill",
+        "path": ".claude\\skills\\funnel-architect",
         "priority": "ALTA"
       }
     ],
@@ -2926,6 +3172,158 @@
         "priority": "MÉDIA"
       }
     ],
+    "tracking": [
+      {
+        "name": "tracking-event-funnel",
+        "type": "skill",
+        "path": ".claude\\skills\\tracking-event-funnel",
+        "priority": "ALTA"
+      }
+    ],
+    "pixel": [
+      {
+        "name": "tracking-event-funnel",
+        "type": "skill",
+        "path": ".claude\\skills\\tracking-event-funnel",
+        "priority": "ALTA"
+      }
+    ],
+    "api de conversão": [
+      {
+        "name": "tracking-event-funnel",
+        "type": "skill",
+        "path": ".claude\\skills\\tracking-event-funnel",
+        "priority": "ALTA"
+      }
+    ],
+    "funil de eventos": [
+      {
+        "name": "tracking-event-funnel",
+        "type": "skill",
+        "path": ".claude\\skills\\tracking-event-funnel",
+        "priority": "ALTA"
+      }
+    ],
+    "event funnel": [
+      {
+        "name": "tracking-event-funnel",
+        "type": "skill",
+        "path": ".claude\\skills\\tracking-event-funnel",
+        "priority": "ALTA"
+      }
+    ],
+    "atribuição": [
+      {
+        "name": "tracking-event-funnel",
+        "type": "skill",
+        "path": ".claude\\skills\\tracking-event-funnel",
+        "priority": "ALTA"
+      }
+    ],
+    "advanced matching": [
+      {
+        "name": "tracking-event-funnel",
+        "type": "skill",
+        "path": ".claude\\skills\\tracking-event-funnel",
+        "priority": "ALTA"
+      }
+    ],
+    "qualidade de eventos": [
+      {
+        "name": "tracking-event-funnel",
+        "type": "skill",
+        "path": ".claude\\skills\\tracking-event-funnel",
+        "priority": "ALTA"
+      }
+    ],
+    "nota do pixel": [
+      {
+        "name": "tracking-event-funnel",
+        "type": "skill",
+        "path": ".claude\\skills\\tracking-event-funnel",
+        "priority": "ALTA"
+      }
+    ],
+    "configurar eventos": [
+      {
+        "name": "tracking-event-funnel",
+        "type": "skill",
+        "path": ".claude\\skills\\tracking-event-funnel",
+        "priority": "ALTA"
+      }
+    ],
+    "page view": [
+      {
+        "name": "tracking-event-funnel",
+        "type": "skill",
+        "path": ".claude\\skills\\tracking-event-funnel",
+        "priority": "ALTA"
+      }
+    ],
+    "initiate checkout": [
+      {
+        "name": "tracking-event-funnel",
+        "type": "skill",
+        "path": ".claude\\skills\\tracking-event-funnel",
+        "priority": "ALTA"
+      }
+    ],
+    "purchase event": [
+      {
+        "name": "tracking-event-funnel",
+        "type": "skill",
+        "path": ".claude\\skills\\tracking-event-funnel",
+        "priority": "ALTA"
+      }
+    ],
+    "subscribe event": [
+      {
+        "name": "tracking-event-funnel",
+        "type": "skill",
+        "path": ".claude\\skills\\tracking-event-funnel",
+        "priority": "ALTA"
+      }
+    ],
+    "capi": [
+      {
+        "name": "tracking-event-funnel",
+        "type": "skill",
+        "path": ".claude\\skills\\tracking-event-funnel",
+        "priority": "ALTA"
+      }
+    ],
+    "conversion api": [
+      {
+        "name": "tracking-event-funnel",
+        "type": "skill",
+        "path": ".claude\\skills\\tracking-event-funnel",
+        "priority": "ALTA"
+      }
+    ],
+    "server-side tracking": [
+      {
+        "name": "tracking-event-funnel",
+        "type": "skill",
+        "path": ".claude\\skills\\tracking-event-funnel",
+        "priority": "ALTA"
+      }
+    ],
+    "connect rate": [
+      {
+        "name": "tracking-event-funnel",
+        "type": "skill",
+        "path": ".claude\\skills\\tracking-event-funnel",
+        "priority": "ALTA"
+      }
+    ],
+    "80-10-10": [
+      {
+        "name": "tracking-event-funnel",
+        "type": "skill",
+        "path": ".claude\\skills\\tracking-event-funnel",
+        "priority": "ALTA"
+      }
+    ],
     "superpower": [
       {
         "name": "using-superpowers",
@@ -3123,6 +3521,86 @@
         "name": "verify-6-levels",
         "type": "skill",
         "path": ".claude\\skills\\verify-6-levels",
+        "priority": "ALTA"
+      }
+    ],
+    "video": [
+      {
+        "name": "video",
+        "type": "skill",
+        "path": ".claude\\skills\\video",
+        "priority": "ALTA"
+      }
+    ],
+    "creative": [
+      {
+        "name": "video",
+        "type": "skill",
+        "path": ".claude\\skills\\video",
+        "priority": "ALTA"
+      }
+    ],
+    "ad": [
+      {
+        "name": "video",
+        "type": "skill",
+        "path": ".claude\\skills\\video",
+        "priority": "ALTA"
+      }
+    ],
+    "apresentação": [
+      {
+        "name": "video",
+        "type": "skill",
+        "path": ".claude\\skills\\video",
+        "priority": "ALTA"
+      }
+    ],
+    "renderizar": [
+      {
+        "name": "video",
+        "type": "skill",
+        "path": ".claude\\skills\\video",
+        "priority": "ALTA"
+      }
+    ],
+    "gerar video": [
+      {
+        "name": "video",
+        "type": "skill",
+        "path": ".claude\\skills\\video",
+        "priority": "ALTA"
+      }
+    ],
+    "fazer video": [
+      {
+        "name": "video",
+        "type": "skill",
+        "path": ".claude\\skills\\video",
+        "priority": "ALTA"
+      }
+    ],
+    "criar video": [
+      {
+        "name": "video",
+        "type": "skill",
+        "path": ".claude\\skills\\video",
+        "priority": "ALTA"
+      }
+    ],
+    "video sales letter": [
+      {
+        "name": "video",
+        "type": "skill",
+        "path": ".claude\\skills\\video",
+        "priority": "ALTA"
+      }
+    ],
+    "anúncio": [
+      {
+        "name": "video",
+        "type": "skill",
+        "path": ".claude\\skills\\video",
         "priority": "ALTA"
       }
     ],

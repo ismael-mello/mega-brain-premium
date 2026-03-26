@@ -1,0 +1,12 @@
+# Transcrição: A1
+
+- **Fonte:** A1
+- **Duração:** 02:31
+- **Idioma:** pt
+- **Modelo:** small
+
+---
+
+## [00:00 - 02:31]
+
+Bom, vamos nessa. Deixa eu falar com você rapidinho aqui sobre a recuperação, esse funil de recuperação que a gente vai ligar. O que isso acontece? A gente vai integrar uma plataforma de pagamento, essa plataforma de pagamento vai informar todos os eventos de compra ou tentativas que estão acontecendo para o sistema de e-mail, no caso o ActiveCampaign. Você consegue fazer esse mesmo funil em outras ferramentas, mas eu vou te ensinar aqui no ActiveCampaign, para mim é o melhor, é o que eu utilizo, tá? E para quem utilizar o ActiveCampaign vai conseguir utilizar a automação já pronta que eu tenho, sempre precisa criar coisas demais, tá? Mas se você está utilizando outra ferramenta de e-mail, mas está tudo bem, outra ferramenta de pagamento também, você só tem que entender a lógica por trás e executar, ok? Então, beleza. O que acontece? Quando a pessoa tenta fazer uma compra, podem acontecer várias coisas. Número 1, ela pode conseguir efetuar a compra. Número 2, o cartão dela pode estar sem salvo ou o cartão dela pode ser bloqueado pelo banco por atividade suspeita, alguma coisa assim em comum, porque aquele cartão nunca foi utilizado para compra pela internet ou é utilizado pouco para compras pela internet. Ou ela pode ter digitado algum dado errado, um CPF, um número no cartão errado e o que que acontece? Se você tenta abordar todos esses clientes da mesma maneira, você tende a ter uma conversão menor. Então, da forma como eu vou te ensinar aqui, você vai conseguir agir de uma maneira individual com cada tipo de evento, desse tentativa de compra, ok? Então, beleza. É isso que a gente vai fazer, é isso que a gente vai ligar aqui agora. O fundio de recuperação, nesse caso que eu vou mostrar para você aqui, ele é via email, tá? Boa parte das recuperações são feitas assim. Agora, tem como você fazer ela via WhatsApp também. E eu vou te mostrar um pouquinho dessa opção junto do ActiveCamping, lá no finalzinho desse módulo aqui, tá? Mas por agora, entenda, email marketing. Por quê? No WhatsApp você vai precisar de gente indo lá, entrar em contato para fechar essas vendas e tudo mais. Só que quanto mais você tiver partes do seu negócio que estão no automático, é melhor. Vai te dar mais paz, mais tempo livre, beleza? Então vamos lá implementar essa parte agora. Vamos nessa.

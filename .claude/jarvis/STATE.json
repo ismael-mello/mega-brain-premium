@@ -1,17 +1,17 @@
 {
-  "version": "2.5.0",
-  "updated_at": "2026-03-19T22:00:00Z",
+  "version": "2.6.0",
+  "updated_at": "2026-03-26T21:00:00Z",
   "system": {
     "status": "OPERATIONAL",
     "health_score": 100,
     "health_label": "EXCELLENT"
   },
   "knowledge_base": {
-    "sources_total": 32,
-    "dna_persons_total": 32,
-    "agents_person": 29,
+    "sources_total": 36,
+    "dna_persons_total": 36,
+    "agents_person": 36,
     "agents_cargo": 15,
-    "agents_total": 44,
+    "agents_total": 51,
     "inbox_pending": 0,
     "agg_files": 15
   },
@@ -238,7 +238,12 @@
       "status": "COMPLETE",
       "dna": true,
       "agent": true,
-      "note": "Closer framework. Cascaded to CLOSER cargo."
+      "dna_version": 4,
+      "elements": 396,
+      "layers": "L1:78 L2:70 L3:108 L4:80 L5:60",
+      "sources_count": 9,
+      "cargo_enriched": ["CRO", "CMO", "CLOSER", "Sales Manager"],
+      "note": "9 fontes incl. CIL. AGG-VENDAS v32, AGG-COPYWRITING v34, AGG-TRAFFIC v13, AGG-OFFERS v23."
     },
     "jeremy-haynes": {
       "status": "COMPLETE",
@@ -314,15 +319,15 @@
       "status": "COMPLETE",
       "dna": true,
       "agent": true,
-      "dna_version": 1,
-      "elements": 269,
-      "layers": "L1:55 L2:48 L3:72 L4:54 L5:40",
-      "sources_count": 1,
+      "dna_version": 3,
+      "elements": 521,
+      "layers": "L1:105 L2:93 L3:140 L4:105 L5:78",
+      "sources_count": 3,
       "cargo_enriched": [
         "CMO",
         "CRO"
       ],
-      "note": "Rainmaker Certification (105 files). AGG-COPYWRITING enriched."
+      "note": "3 fontes: RC+OT+AMM (204 files, +252 OT/AMM elements). AGG-COPYWRITING enriched."
     },
     "jordan-belfort": {
       "status": "COMPLETE",
@@ -374,6 +379,69 @@
       "elements": 175,
       "sources_count": 1,
       "note": "EIPP (259 files). 7 principles of persuasion."
+    },
+    "jon-benson": {
+      "status": "COMPLETE",
+      "dna": true,
+      "agent": true,
+      "dna_version": 7,
+      "elements": 932,
+      "sources_count": 10,
+      "note": "10 fontes incl. NOWVSL+5MSLF+VSLFT18 (415 files, +540 elements)."
+    },
+    "stefan-georgi": {
+      "status": "COMPLETE",
+      "dna": true,
+      "agent": true,
+      "dna_version": 4,
+      "elements": 303,
+      "sources_count": 4,
+      "note": "CA+RMBC+RMBCII+PFF (1304 files, +185 elements)."
+    },
+    "ben-settle": {
+      "status": "COMPLETE",
+      "dna": true,
+      "agent": true,
+      "dna_version": 1,
+      "elements": 393,
+      "sources_count": 2,
+      "note": "EP+ECM (64 files). Daily email master."
+    },
+    "justin-goff": {
+      "status": "COMPLETE",
+      "dna": true,
+      "agent": true,
+      "dna_version": 1,
+      "elements": 110,
+      "sources_count": 1,
+      "note": "Copy Accelerator (759 files). OLAF Method."
+    },
+    "lucio-artes": {
+      "status": "COMPLETE",
+      "dna": true,
+      "agent": true,
+      "dna_version": 1,
+      "elements": 168,
+      "sources_count": 1,
+      "note": "FTE (35 files). Brazilian Meta Ads scaling."
+    },
+    "rafael-marks": {
+      "status": "COMPLETE",
+      "dna": true,
+      "agent": true,
+      "dna_version": 1,
+      "elements": 173,
+      "sources_count": 1,
+      "note": "Hackers do Marketing (508 files). Brazilian funnel architect."
+    },
+    "vinh-giang": {
+      "status": "COMPLETE",
+      "dna": true,
+      "agent": true,
+      "dna_version": 1,
+      "elements": 105,
+      "sources_count": 1,
+      "note": "Stage Academy (42 files). Communication mastery."
     }
   },
   "agg_files": [
@@ -431,8 +499,8 @@
   },
   "git": {
     "branch": "main",
-    "last_commit": "16bfb39e",
-    "last_commit_msg": "fix: resolve 10 invalid YAML files for quality gate",
+    "last_commit": "15cd5c90",
+    "last_commit_msg": "feat: add communication orchestration layer to funnel-architect skill",
     "commits_ahead": 0,
     "pending_commit": null,
     "gh_cli": "2.88.1"
@@ -451,13 +519,13 @@
     }
   },
   "session": {
-    "id": "SESSION-2026-03-19-001",
-    "started_at": "2026-03-19T22:00:00Z",
-    "last_activity_at": "2026-03-19T22:00:00Z",
+    "id": "SESSION-2026-03-26-001",
+    "started_at": "2026-03-26T21:00:00Z",
+    "last_activity_at": "2026-03-26T21:00:00Z",
     "is_active": true
   },
   "next_action": {
-    "description": "Todas as 32 fontes completas (29 agents). Aguardando nova missão.",
+    "description": "Todas as 36 fontes completas (36 agents). Aguardando nova missão.",
     "options": [
       "Ingerir novo especialista/programa → /jarvis-full [material]",
       "Consulta estratégica → /conclave ou /ask",
@@ -465,9 +533,9 @@
     ]
   },
   "mis": {
-    "session_id": "",
-    "prompt_count": 128,
-    "bracket": "CRITICAL",
-    "context_percent": 4.0
+    "session_id": "SESSION-2026-03-26-001",
+    "prompt_count": 1,
+    "bracket": "FRESH",
+    "context_percent": 0.0
   }
 }

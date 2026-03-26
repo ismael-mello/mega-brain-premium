@@ -1,0 +1,12 @@
+# Transcrição: A6
+
+- **Fonte:** A6
+- **Duração:** 02:46
+- **Idioma:** pt
+- **Modelo:** small
+
+---
+
+## [00:00 - 02:46]
+
+Olá, galera, vamos falar sobre as taxas de conversão aqui, sobre as taxas de conversão. O que a gente tem aqui? Vamos lá. O Opsial número 2 vai dar de 4 a 6% de conversão, é isso que você tem que buscar. Geralmente ele é um Opsial que é mais caro, que é de um produto que vai até 4, 9, 7, 3, 9, 7, 2, 9, 7. Geralmente ele é um pouquinho mais caro, ele vai ter ali de 4 a 6% de conversão. O Opsial número 1, você tem que buscar de 10 a 30% de conversão, 10% no mínimo, ok? Order Bump, ele vai converter ali, essa conversão que está aqui não é a conversão da página, não é do checkout, isso aqui é conversão do Order Bump. O Order Bump, ele vai converter ali entre 25 a 45%. Se está abaixo de 25, muda o copy e faz novos testes de copy, deixa o mais simples possível. Bumps que vendem muito, têm copies muito diretos, são ofertas, você não tem tempo pra explicar, você tem duas linhas pra explicar. Então, você tem que ser o mais claro, simples e direto possível, e só de você simplificar aquele copy, você pode dobrar a taxa de conversão desse Order Bump ali, levar pra no mínimo 25%. Se você fizer 2, 3 testes de copy, nunca mudar, não melhorar, muda de produto, volta na pesquisa, entende quais são os produtos que essa pessoa realmente quer comprar e coloca outro produto no Order Bump. Taxa de conversão da página de vendas do SLO, Rafa, qual que é? Não importa. Como assim não importa, Rafael? É, essa é a única taxa que ela não importa no SLO, porque ele é um produto que foi feito pra gente ter lucro, certo? Ok. Eu quero que ele derrói, eu quero que ele dê retorno positivo, eu quero que ele me dê lucro. É isso que importa. Cada nicho tem uma taxa de conversão, cada preço tem uma taxa de conversão, se o seu produto for 97 vai ser uma taxa, se for 197 vai ser outra, se for 297 vai ser outra. É uma taxa, dependendo do ticket, ok? Então, não tem como você medir, o que é que medir se essa página tá boa ou ruim, o que é que você vai buscar? Você vai buscar que ela te dê lucro. Se você estiver colocando dinheiro e ela te dando lucro, tá lindo. Agora, todo o restante, você tem que buscar essas taxas de conversão aqui, senão o seu funil tá ruim. Ok? Então, página de vendas principal, não importa o ponto que é Order Bump, de 25 a 45%. Tá? Upsell número 1 de 10% a 30%, 10 no mínimo, upsell número 2 entre 4 a 6%, 4 no mínimo. Ok? Essas são as taxas de conversão que você vai buscar pra esse funil.

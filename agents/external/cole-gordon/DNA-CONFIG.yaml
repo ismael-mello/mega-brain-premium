@@ -19,11 +19,11 @@
 # ═══════════════════════════════════════════════════════════════════════════════
 
 cargo: "COLE-GORDON"
-versao: "1.0.0"
+versao: "2.0.0"
 nivel: "PERSON"
 natureza: "SOLO"
 data_criacao: "2026-03-02"
-ultima_atualizacao: "2026-03-02"
+ultima_atualizacao: "2026-03-26"
 
 # ═══════════════════════════════════════════════════════════════════════════════
 # CONSTITUICAO (Layer 1 - Principios compartilhados)
@@ -88,6 +88,14 @@ dna_sources:
         - "sales-management"
         - "call-flow"
         - "belief-installation"
+        - "organic-marketing"
+        - "content-marketing"
+        - "outbound-sales"
+        - "messenger-sales"
+        - "hiring-team-building"
+        - "pipeline-management"
+        - "offer-packaging"
+        - "market-sophistication"
       peso: 1.0
       quando_usar: "SEMPRE - fonte unica do agente SOLO"
       materiais_fonte:
@@ -131,26 +139,31 @@ dna_sources:
           tipo: "pipeline-batch"
           chunks_usados: 67
 
+        - titulo: "Closers Into Leaders (CIL)"
+          source_id: "CIL"
+          tipo: "flagship-program"
+          chunks_usados: 334
+
 # ═══════════════════════════════════════════════════════════════════════════════
 # ESTATISTICAS DO DNA
 # ═══════════════════════════════════════════════════════════════════════════════
 
 dna_statistics:
-  total_unique_elements: 73
-  total_insights_processados: 373
+  total_unique_elements: 396
+  total_insights_processados: 707
   by_layer:
-    L1_PHILOSOPHIES: 12
-    L2_MENTAL_MODELS: 10
-    L3_HEURISTICS: 22
-    L4_FRAMEWORKS: 19
-    L5_METHODOLOGIES: 10
-  total_chunks_referenciados: 373
-  total_fontes: 8
+    L1_PHILOSOPHIES: 79
+    L2_MENTAL_MODELS: 66
+    L3_HEURISTICS: 112
+    L4_FRAMEWORKS: 83
+    L5_METHODOLOGIES: 56
+  total_chunks_referenciados: 707
+  total_fontes: 9
   peso_medio_geral: 0.88
   itens_peso_alto:
     total: 58
     porcentagem: 79
-  source_program: "Closers.io Sales System (Core Frameworks + Pipeline Batches)"
+  source_program: "Closers.io Sales System (Core Frameworks + Pipeline Batches + CIL)"
 
 # ═══════════════════════════════════════════════════════════════════════════════
 # MAPA DE CONFLITOS (N/A para agente SOLO)
@@ -235,11 +248,11 @@ regras_especificas:
 #
 # CHECKLIST antes de publicar:
 # [x] Fonte primaria tem raiz com path para inbox
-# [x] Todos os 8 materiais listados como materiais_fonte
+# [x] Todos os 9 materiais listados como materiais_fonte
 # [x] Heuristicas prioritarias tem fonte e source_id
 # [x] Restricoes tem fonte
-# [x] Estatisticas conferem com CONFIG.yaml (73 DNA elements, 373 insights)
+# [x] Estatisticas conferem com CONFIG.yaml (396 DNA elements, 707 insights)
 #
 # ═══════════════════════════════════════════════════════════════════════════════
 
-# Fim do DNA-CONFIG.yaml v1.0.0 - Cole Gordon (SOLO Agent)
+# Fim do DNA-CONFIG.yaml v2.0.0 - Cole Gordon (SOLO Agent)

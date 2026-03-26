@@ -17,7 +17,9 @@
 # ═══════════════════════════════════════════════════════════════════════════════
 
 cargo: "CRO"
-versao: "35.0.0"
+versao: "38.0.0"  # Cole Gordon CIL enrichment (323 elements, peso 0.85) — scaling sales teams, DPL×LTV economics, compensation architecture, hiring/onboarding, pipeline management, outbound operations. CG now includes CIL as 2nd major source.
+# v37.0.0 (prev): Frank Kern OT+AMM enrichment
+# v35.0.0 (prev)
 # v34.0.0 (2026-03-25): Cat Howell added (peso 0.70, 253 elements) — agency sales, client acquisition funnels, pricing strategy
 #                      - Domains: client-acquisition, pricing, sales, funnels, lead-gen, auditing, agency-building
 #                      - Key frameworks: Two-Call Close, Five Pricing Models, Seven Lead Gen Funnels, Service Document Architecture, Performance-Based Pricing
@@ -46,7 +48,7 @@ versao: "35.0.0"
 nivel: "C-LEVEL"
 natureza: "HIBRIDO"
 data_criacao: "2025-12-23"
-ultima_atualizacao: "2026-03-22"
+ultima_atualizacao: "2026-03-26"
 # v25.0.0 (2026-03-22): JH DMM enrichment — CPR Framework, Deep Selling, 5 Objection Handlers, Conviction Principle, 5-Tier Pricing Pyramid
 #                      - New DMM domains: deep-selling, objection-handling-dmm, conviction-selling, pricing-architecture
 #                      - Key frameworks: CPR (Cost Per Result), Deep Selling, 5 Objection Handlers, Conviction Principle, 5-Tier Pricing Pyramid
@@ -96,6 +98,11 @@ ultima_atualizacao: "2026-03-22"
 #                      - Key frameworks: Straight Line System (sales process architecture), Three Tens (diagnostic tool), Looping (objection methodology)
 #                      - Key IDs: FIL-JB-001/002/003, FW-JB-001/002/003, HEUR-JB-001/002/003
 #                      - Unique contribution: THE definitive sales system architecture — CRO uses for sales process design, team training standards, performance diagnostics
+# v37.0.0 (2026-03-26): Updated frank-kern with OT+AMM — 521 el DNA total (was 269), peso 0.80
+#                      - NEW sources: Operation Takeover (88 files — sales processes, VSL, Close Stacking, upsells), Ads Madness Masterclass (11 files — conversion optimization)
+#                      - NEW domains: video-sales-letters, sales-process-design, upsell-strategy, closing-techniques
+#                      - Key new frameworks: Billion Dollar VSL, Close Stacking, Identity Shift Selling, Filtration Spectrum, 4-Day Cash Machine, One-Click Upsell (3 types)
+#                      - Total FK contribution: 521 elements (RC 269 + OT 176 + AMM 76)
 # v13.0.0 (2026-03-18): Added frank-kern (sales-processes, irresistible-offers, follow-up-systems, countdown-promotions, funnel-optimization, supersystem-revenue) — 269 el DNA, peso 0.80
 #                      - Key frameworks: Supersystem (revenue engine), Loss-Leader Process, Irresistible Offer (refund difference +20%), Countdown Promotion, Diagnostic Funnel Checklist
 #                      - Key IDs: FIL-FK-001/002/092/097, FW-FK-001/010/063/070, HEUR-FK-001/099, MET-FK-001/060
@@ -289,8 +296,29 @@ dna_sources:
         - "vendas"
         - "compensation"
         - "hiring"
-      peso: 0.80
-      quando_usar: "Estrutura de time de vendas, compensacao"
+        # CIL additions (2026-03-26)
+        - "sales-team-scaling"
+        - "onboarding"
+        - "pipeline-management"
+        - "follow-up"
+        - "outbound-sales"
+        - "offer-design"
+        - "pricing"
+        - "fulfillment"
+      peso: 0.85  # Increased from 0.80 with CIL
+      quando_usar: "Estrutura de time de vendas, compensacao, scaling, DPL×LTV economics, hiring/onboarding, pipeline management, outbound operations, offer architecture"
+      sources:
+        - "legacy (sales management, compensation, hiring)"
+        - "CIL (Closers Into Leaders — 323 elements: sales-team-scaling, hiring, onboarding, compensation, sales-management, pipeline-management, follow-up, outbound-sales, DPL×LTV economics, Three Offer Models, pricing strategy)"
+      cil_highlights:
+        - "DPL×LTV — Deal Profitability × Lifetime Value economics for revenue optimization"
+        - "Sales Team Scaling — systematic team growth from 1→5→20+ closers"
+        - "Compensation Architecture — 10% commission, 30-50% hedge, performance tiers"
+        - "Pipeline Management — systematic pipeline velocity, conversion diagnostics"
+        - "Three Offer Models — coaching/DFY/hybrid for revenue diversification"
+        - "Outbound Operations — 100 dials/day standard, messenger sales, APS"
+        - "8-Week Ramp-Up — structured onboarding for faster rep productivity"
+        - "Big Three KPIs — close rate + show rate + pipeline velocity"
       insight_ids:
         - "OP001"
       chunk_ids:
@@ -305,6 +333,16 @@ dna_sources:
           path_raiz: "/inbox/COLE GORDON/COURSES/ADVANCED SALES TRAINING.txt"
           tipo: "curso"
           data_processamento: "*aguardando*"
+        - titulo: "Closers Into Leaders"
+          path_raiz: "/knowledge/external/sources/cole-gordon/raw/"
+          tipo: "course"
+          data_processamento: "2026-03-26"
+          insights_principais:
+            - "DPL×LTV economics — revenue optimization via deal profitability and lifetime value"
+            - "Sales Team Scaling — systematic 1→5→20+ closer growth methodology"
+            - "Compensation Architecture — 10% commission, 30-50% hedge, performance tiers"
+            - "Three Offer Models — coaching/DFY/hybrid revenue diversification"
+            - "Pipeline Management — velocity metrics, conversion diagnostics"
 
     - pessoa: "russell-brunson"
       path: "/knowledge/external/dna/persons/russell-brunson"
@@ -1274,6 +1312,32 @@ resolucao_de_conflitos:
       fontes_incluidas:
         - "Email Players Newsletter (73+ issues, 291 elements — daily email strategy, email copywriting, sales psychology, product launch, list building)"
         - "Email Client Machine (4 files — email client acquisition system)"
+
+    - pessoa: "frank-kern"
+      path: "/knowledge/external/dna/persons/frank-kern"
+      raiz: "/knowledge/external/sources/frank-kern/raw/"
+      total_elementos: 521
+      dominios_usados:
+        - "sales-processes"
+        - "irresistible-offers"
+        - "follow-up-systems"
+        - "countdown-promotions"
+        - "funnel-optimization"
+        - "supersystem-revenue"
+        # OT+AMM enrichment (2026-03-26)
+        - "video-sales-letters"
+        - "sales-process-design"
+        - "upsell-strategy"
+        - "closing-techniques"
+      peso: 0.80
+      quando_usar: "Supersystem revenue engine, sales process architecture, VSL selling (Billion Dollar VSL), Close Stacking for value presentation, Identity Shift Selling, Filtration Spectrum (6 levels), 4-Day Cash Machine, One-Click Upsell (3 frameworks), irresistible offers, countdown promotions, loss-leader funnels, follow-up systems, conversion optimization"
+      justificativa: "Frank Kern brings a holistic revenue engine (Supersystem) plus practical sales process architecture. OT adds Billion Dollar VSL (with Graziosi), Close Stacking, 4-Day Cash Machine, 3 One-Click Upsell frameworks. Irresistible guarantee math (refund difference + 20%) is uniquely practical. 521 total elements."
+      added: "2026-03-18"
+      updated: "2026-03-26"
+      fontes_incluidas:
+        - "Rainmaker Certification (105 files, 269 elements — Supersystem, sales processes, irresistible offers)"
+        - "Operation Takeover (88 files — sales processes, VSL, Close Stacking, upsells)"
+        - "Ads Madness Masterclass (11 files — conversion optimization)"
 
     - pessoa: "rafael-marks"
       path: "/knowledge/external/dna/persons/rafael-marks"

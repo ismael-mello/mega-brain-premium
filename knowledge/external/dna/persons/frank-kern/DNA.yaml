@@ -1,30 +1,36 @@
 # knowledge/external/dna/persons/frank-kern/DNA.yaml
 # DNA COGNITIVO — FRANK KERN
-# Versão: v1.0.0
-# Elementos: 269
-# Fontes: Rainmaker Certification
-# Última atualização: 2026-03-18
+# Versão: v3.0.0
+# Elementos: 521
+# Fontes: Rainmaker Certification, Operation Takeover, Ads Madness Masterclass
+# Última atualização: 2026-03-26
 
 person:
   name: "Frank Kern"
   source: "Rainmaker Certification — 10-week program covering consulting methodology (SANDOR model), revenue diagnostics, email marketing (click sequences + deadline stacks), sales funnels (loss leader, webinar, phone, e-com), super systems (automated multi-campaign follow-up), paid advertising (Facebook + YouTube), scaling, and client acquisition. Frank Kern is an internet marketer and consultant since 1999, known for casual conversational teaching style, math-over-emotion decision making, and the SANDOR diagnostic model."
-  version: "1.0.0"
+  version: "3.0.0"
 
 metadata:
-  total_elements: 269
+  total_elements: 521
   by_layer:
-    L1_PHILOSOPHIES: 69
-    L2_MENTAL_MODELS: 45
-    L3_HEURISTICS: 70
-    L4_FRAMEWORKS: 47
-    L5_METHODOLOGIES: 38
-  last_updated: "2026-03-18"
-  sources_count: 1
+    L1_PHILOSOPHIES: 120
+    L2_MENTAL_MODELS: 86
+    L3_HEURISTICS: 154
+    L4_FRAMEWORKS: 93
+    L5_METHODOLOGIES: 68
+  last_updated: "2026-03-26"
+  sources_count: 3
 
   sources:
     - id: "FK-RC"
       title: "Rainmaker Certification — 10-week program + live calls covering marketing funnels, paid ads (Facebook+YouTube), email marketing, scaling, supersystems"
       chunks: 105
+    - id: "FK-OT"
+      title: "Operation Takeover — 6-week live coaching + daily calls covering competitive intelligence, content creation (IBB), long-form copy, VSL frameworks (Billion Dollar VSL), sales processes, 4DCM, Double Tap, upsells, YouTube ads"
+      chunks: 88
+    - id: "FK-AMM"
+      title: "Ads Madness Masterclass — 3-day intensive with Stefan Georgi on FB/YT ad copy, dog whistle ads, FAQ bridge strategy, ad automation, retargeting architecture"
+      chunks: 11
 
   connections:
     complements:
@@ -536,6 +542,363 @@ layers:
         source_id: "FK-RC"
         source_week: "Week 10"
 
+      - id: "FIL-FK-070"
+        title: "Best Known Beats Best Product"
+        description: "The best known product is always gonna be the best product. It doesn't matter if yours is objectively better -- if nobody knows about it, the known competitor wins every time. Visibility is the game."
+        domains: [branding]
+        source_id: "FK-OT"
+        source_week: "Week 1"
+
+      - id: "FIL-FK-071"
+        title: "Simplest Path Is Smartest Path"
+        description: "99% of the time, the simplest path is the smartest one. Complexity is the enemy of execution. If you can explain your plan in one sentence, you probably have a good plan."
+        domains: [marketing-strategy]
+        source_id: "FK-OT"
+        source_week: "Week 1"
+
+      - id: "FIL-FK-072"
+        title: "Model Success Directly"
+        description: "If a fellow's got something you want, do what he did to get it. Don't reinvent. Study the competitors who are winning, deconstruct what they do, and adapt it with your own angle."
+        domains: [competitive-intelligence]
+        source_id: "FK-OT"
+        source_week: "Week 1"
+
+      - id: "FIL-FK-073"
+        title: "Marketing Is Math and Creativity"
+        description: "Marketing is just as much math as creativity. You need the creative to capture attention, but you need the math to know if it's actually working. One without the other is gambling."
+        domains: [marketing-strategy]
+        source_id: "FK-OT"
+        source_week: "Week 1"
+
+      - id: "FIL-FK-074"
+        title: "Similar But Better to Same People"
+        description: "Show similar but better to same people competition targets. If competitors are running ads to an audience, that audience is already primed to buy -- you just need to show them something slightly better."
+        domains: [competitive-intelligence]
+        source_id: "FK-OT"
+        source_week: "Week 1"
+
+      - id: "FIL-FK-075"
+        title: "Content Is an Ad"
+        description: "Content is an ad -- content and ads are interchangeable. Every piece of content you create should move someone closer to buying. If it doesn't serve that purpose, it's just noise."
+        domains: [content-marketing]
+        source_id: "FK-OT"
+        source_week: "Week 1"
+
+      - id: "FIL-FK-076"
+        title: "Audiences Are the New Assets"
+        description: "Audiences are the new assets -- retarget inexpensively. Building an audience of people who have consumed your content is like building a list you can advertise to for pennies compared to cold traffic."
+        domains: [audience-building]
+        source_id: "FK-OT"
+        source_week: "Week 1"
+
+      - id: "FIL-FK-077"
+        title: "High Volume Non-Fancy Beats Low Volume Polished"
+        description: "High volume non-fancy content beats low volume polished content. The algorithm rewards frequency. People connect with authenticity. A phone video posted daily outperforms a studio production posted monthly."
+        domains: [content-marketing]
+        source_id: "FK-OT"
+        source_week: "Week 1"
+
+      - id: "FIL-FK-078"
+        title: "Affiliate Marketing Is Dangerous"
+        description: "Affiliate marketing is dangerous -- you only get a little bit of the money. You're building someone else's business and their customer list. Own the product, own the customer, own the backend."
+        domains: [business-models]
+        source_id: "FK-OT"
+        source_week: "Week 1"
+
+      - id: "FIL-FK-079"
+        title: "Phone Is the New Television"
+        description: "Your prospect's phone is the equivalent of the television. They consume content on it all day. If you can show up in their feed consistently with valuable content, you become the show they watch."
+        domains: [content-marketing]
+        source_id: "FK-OT"
+        source_week: "Week 2"
+
+      - id: "FIL-FK-080"
+        title: "Overthinking Kills Execution"
+        description: "The thing that'll mess you up is not doing this -- overthinking kills. Analysis paralysis is the biggest threat to progress. Just hit publish, run the ad, send the email. You can optimize later."
+        domains: [execution]
+        source_id: "FK-OT"
+        source_week: "Week 2"
+
+      - id: "FIL-FK-081"
+        title: "Repeat Your Core Messages Relentlessly"
+        description: "You'll say the same three things all the time -- audience won't tire of it. You're bored of your message long before they are. Most of your audience hasn't heard it yet. Repetition is how positioning works."
+        domains: [content-marketing]
+        source_id: "FK-OT"
+        source_week: "Week 2"
+
+      - id: "FIL-FK-082"
+        title: "Give Away Good Stuff to Create Demand"
+        description: "The more good stuff you give away, the more they want. Generosity in content creates reciprocity and demonstrates competence. People think 'if the free stuff is this good, the paid stuff must be incredible.'"
+        domains: [content-marketing]
+        source_id: "FK-OT"
+        source_week: "Week 2"
+
+      - id: "FIL-FK-083"
+        title: "Non-Professional Content Outperforms Polished"
+        description: "Non-professional off-the-cuff content works better than polished. People trust authenticity. A selfie video with genuine enthusiasm converts better than a scripted, edited production that feels corporate."
+        domains: [content-marketing]
+        source_id: "FK-OT"
+        source_week: "Week 2"
+
+      - id: "FIL-FK-084"
+        title: "Post-Webinar Follow-Up Is Where Real Money Is"
+        description: "The real money is made in the post-webinar follow-up sequence. The webinar itself generates interest and urgency, but the majority of buyers need 3-7 follow-up touches before they actually complete the purchase."
+        domains: [sales-funnels]
+        source_id: "FK-OT"
+        source_week: "Week 1"
+
+      - id: "FIL-FK-085"
+        title: "Simple Is Best -- 20 Years of Experience"
+        description: "Simple is best. 20 years of experience. Simple every single time. The most effective sales pages, funnels, and campaigns are the ones that are dead simple to understand and execute."
+        domains: [sales-process-design]
+        source_id: "FK-OT"
+        source_week: "Week 3"
+
+      - id: "FIL-FK-086"
+        title: "People Like to Buy Things"
+        description: "People like to buy things. People go on vacation to go shopping. Buying is entertainment, identity expression, and emotional fulfillment. Stop feeling guilty about selling -- you're giving people something they enjoy doing."
+        domains: [selling-psychology]
+        source_id: "FK-OT"
+        source_week: "Week 4"
+
+      - id: "FIL-FK-087"
+        title: "Culture Celebrates Consumption"
+        description: "Our culture celebrates consumption as accomplishment. People buy premium products to signal status, identity, and achievement. Understanding this psychological driver makes selling easier and more ethical."
+        domains: [selling-psychology]
+        source_id: "FK-OT"
+        source_week: "Week 4"
+
+      - id: "FIL-FK-088"
+        title: "Damaging Admission Creates Trust"
+        description: "You can never go wrong by not bullshitting people -- damaging admission creates trust. Telling the truth about limitations, downsides, or who your product is NOT for makes everything else you say more believable."
+        domains: [copywriting-philosophy]
+        source_id: "FK-OT"
+        source_week: "Week 3"
+
+      - id: "FIL-FK-089"
+        title: "Repulsive to Wrong, Magnetic to Right"
+        description: "The more repulsive to wrong people, the more magnetic to right people. Polarizing messaging filters out tire-kickers and attracts true believers. Being for everyone means being compelling to no one."
+        domains: [copywriting-philosophy]
+        source_id: "FK-OT"
+        source_week: "Week 3"
+
+      - id: "FIL-FK-090"
+        title: "Start With Most Expensive Offer"
+        description: "Just as hard to sell cheap as expensive -- start with most expensive offer. The effort to sell a $500 product is nearly identical to selling a $5,000 product. Lead with premium, downsell if needed."
+        domains: [offer-strategy]
+        source_id: "FK-OT"
+        source_week: "Week 3"
+
+      - id: "FIL-FK-091"
+        title: "Emotion Drives Every Decision"
+        description: "Man does not ever operate on logic -- emotion drives every decision. People justify with logic after deciding emotionally. Your copy must trigger the feeling first, then provide the rational excuse to buy."
+        domains: [selling-psychology]
+        source_id: "FK-OT"
+        source_week: "Week 4"
+
+      - id: "FIL-FK-092"
+        title: "People Buy Identity"
+        description: "People buy things because they're buying a new identity. The purchase represents who they want to become. Sell the transformation, not the information. Sell the identity, not the product."
+        domains: [selling-psychology]
+        source_id: "FK-OT"
+        source_week: "Week 4"
+
+      - id: "FIL-FK-093"
+        title: "Buyers Are Buyers -- Always Have More Offers"
+        description: "Buyers are buyers -- always have upsell, bumps, another campaign. Someone who just bought is in a buying state. The best time to make another offer is immediately after the first purchase."
+        domains: [monetization]
+        source_id: "FK-OT"
+        source_week: "Week 4"
+
+      - id: "FIL-FK-094"
+        title: "Want Buyers Not Subscribers"
+        description: "I don't want subscribers, I want buyers -- can't cash subscribers. A list of buyers is 10x more valuable than a list of freebie seekers. Optimize for purchase, not opt-in."
+        domains: [customer-acquisition]
+        source_id: "FK-OT"
+        source_week: "Week 3"
+
+      - id: "FIL-FK-095"
+        title: "Get to the Point and Make an Offer"
+        description: "90% of my stuff gets to the damn point and makes an offer. Don't dance around it. Don't hide the sell behind layers of content. People know you're selling something -- respect their intelligence and time."
+        domains: [copywriting-philosophy]
+        source_id: "FK-OT"
+        source_week: "Week 3"
+
+      - id: "FIL-FK-096"
+        title: "Obvious Stuff Makes More Money"
+        description: "Every year the more glaringly obvious stuff I do, the more money I make. The sophisticated, clever strategies rarely outperform the simple, obvious ones. Stop trying to be clever. Be clear."
+        domains: [business-philosophy]
+        source_id: "FK-OT"
+        source_week: "Week 3"
+
+      - id: "FIL-FK-097"
+        title: "Copy Is an Asset"
+        description: "Copy is an asset -- a single letter that works produces revenue forever. Good sales copy, once written and proven, can run for years generating revenue. Treat copy creation as building an asset, not a task."
+        domains: [copywriting-philosophy]
+        source_id: "FK-OT"
+        source_week: "Week 3"
+
+      - id: "FIL-FK-098"
+        title: "Obligation to Help Through Selling"
+        description: "Whatever you have helps people -- don't squander the ability to help. If your product genuinely improves lives, NOT selling it aggressively is selfish. You have a moral obligation to get it in front of people."
+        domains: [selling-psychology]
+        source_id: "FK-OT"
+        source_week: "Week 4"
+
+      - id: "FIL-FK-099"
+        title: "Email's Only Job Is the Click"
+        description: "The whole job of the email is just to get them to click the link. Don't try to sell in the email. Don't overexplain. Create curiosity, make a compelling case to click, and let the sales page do the selling."
+        domains: [email-marketing]
+        source_id: "FK-OT"
+        source_week: "Week 4"
+
+      - id: "FIL-FK-100"
+        title: "Always Be Selling Something"
+        description: "We always have to be selling -- selling something or selling their time. Every touchpoint either moves toward a purchase or earns the right to the next touchpoint. There is no neutral ground in marketing."
+        domains: [selling-psychology]
+        source_id: "FK-OT"
+        source_week: "Week 4"
+
+      - id: "FIL-FK-101"
+        title: "Content Ads Are Foundation of Omnipresence"
+        description: "Content ads are foundation of omnipresence -- type-in traffic spikes correlate with spend. When you run content-based ads at scale, people start searching for you by name. The ad spend drives organic discovery."
+        domains: [youtube-advertising]
+        source_id: "FK-OT"
+        source_week: "Week 5"
+
+      - id: "FIL-FK-102"
+        title: "Unqualified Viewers Should Skip"
+        description: "If they don't watch your ad, you don't pay -- WANT unqualified to skip. A YouTube ad that only the right people watch is a free filtering mechanism. Make the first 5 seconds repel the wrong audience."
+        domains: [youtube-advertising]
+        source_id: "FK-OT"
+        source_week: "Week 5"
+
+      - id: "FIL-FK-103"
+        title: "Perfection Kills Production"
+        description: "Perfection kills production -- ugly ads that run beat beautiful ads that don't exist. The ad you published today is infinitely more valuable than the perfect ad you'll publish next month. Ship it."
+        domains: [content-creation]
+        source_id: "FK-OT"
+        source_week: "Week 5"
+
+      - id: "FIL-FK-104"
+        title: "Mail Twice a Day"
+        description: "People don't click because distracted, not because uninterested -- mail twice a day. If someone didn't open your morning email, it's not because they hate you. Send again. Different subject line, different time."
+        domains: [email-marketing]
+        source_id: "FK-OT"
+        source_week: "Bonus"
+
+      - id: "FIL-FK-105"
+        title: "Market Based on Behavioral Indication"
+        description: "Actions speak louder -- market to people based on behavioral indication. What someone does (clicks, visits, watches) tells you more than what they say. Build your automation around actions, not demographics."
+        domains: [behavioral-marketing]
+        source_id: "FK-OT"
+        source_week: "Bonus"
+
+      - id: "FIL-FK-106"
+        title: "Every Gear Has One Job"
+        description: "Every gear has one job -- email gets click, sales page sells. Don't ask any component of your funnel to do more than its one job. When each piece does its one thing well, the whole machine works."
+        domains: [campaign-architecture]
+        source_id: "FK-OT"
+        source_week: "Bonus"
+
+      - id: "FIL-FK-107"
+        title: "Don't Care If List Gets Mad"
+        description: "Lost my ability to care if list gets mad -- 7 billion people, they can unsubscribe. If someone is offended by your selling, they were never going to buy. The people who stay are the ones who matter."
+        domains: [email-marketing]
+        source_id: "FK-OT"
+        source_week: "Week 5"
+
+      - id: "FIL-FK-108"
+        title: "Capital Multiplication Business"
+        description: "All we're in is capital multiplication business -- dollar in, more than dollar out. Strip away the branding, the creativity, the mission. At its core, advertising is putting in a dollar and getting more than a dollar back."
+        domains: [advertising-economics]
+        source_id: "FK-OT"
+        source_week: "Week 5"
+
+      - id: "FIL-FK-109"
+        title: "30-Day ROI Not 24-Hour ROI"
+        description: "Look at 30-day ROI not 24-hour ROI. Most people kill winning campaigns because they look at day-one data. A customer acquired today might buy three more times in 30 days. Be patient with the math."
+        domains: [advertising-economics]
+        source_id: "FK-OT"
+        source_week: "Week 5"
+
+      - id: "FIL-FK-110"
+        title: "Dollar In vs Dollar Out Over Vanity Metrics"
+        description: "Go try to cash that conversion rate -- focus on dollar in vs dollar out. Click-through rates, open rates, conversion rates are means to an end. The only metric that pays your bills is revenue per dollar spent."
+        domains: [advertising-economics]
+        source_id: "FK-OT"
+        source_week: "Week 5"
+
+      - id: "FIL-FK-111"
+        title: "Facebook Campaigns Decay and Rebuild"
+        description: "Never met anyone where Facebook campaign worked forever -- it decays, you rebuild. Accept that creative fatigue, audience saturation, and algorithm changes will kill every campaign. Build the muscle of rebuilding."
+        domains: [paid-advertising]
+        source_id: "FK-OT"
+        source_week: "Week 5"
+
+      - id: "FIL-FK-112"
+        title: "Information Business Never Loses Value"
+        description: "Information business is never going to lose its value -- zero concern. People will always pay to solve problems faster. The delivery mechanism changes but the demand for transformation is permanent."
+        domains: [info-business]
+        source_id: "FK-OT"
+        source_week: "Week 5"
+
+      - id: "FIL-FK-113"
+        title: "Radical Transparency in Advertising"
+        description: "Radical transparency -- tell people it's an ad, trust breeds confidence breeds sales. When you openly say 'this is an ad and here's why you should watch it,' you disarm skepticism and build immediate credibility."
+        domains: [ad-copywriting]
+        source_id: "FK-AMM"
+        source_day: "Day 1"
+
+      - id: "FIL-FK-114"
+        title: "Ads Should Actually Help People"
+        description: "Always try to make ads actually help people -- demonstrate by helping. The best ads deliver genuine value before asking for anything. When the ad itself is useful, the product becomes irresistible."
+        domains: [ad-copywriting]
+        source_id: "FK-AMM"
+        source_day: "Day 1"
+
+      - id: "FIL-FK-115"
+        title: "Data Over Opinions on Ads"
+        description: "Everything's about data -- opinions and emotions on whether ad should work are irrelevant. You think the ad is ugly? Doesn't matter. You think the hook is weak? Doesn't matter. Run it. Let the data decide."
+        domains: [ad-copywriting]
+        source_id: "FK-AMM"
+        source_day: "Day 1"
+
+      - id: "FIL-FK-116"
+        title: "Remove Emotion From Capital Multiplication"
+        description: "We are in capital multiplication business -- remove all emotion, it becomes easier. When you stop being emotionally attached to your ads, your offers, your creative, you make better decisions faster."
+        domains: [ad-copywriting]
+        source_id: "FK-AMM"
+        source_day: "Day 3"
+
+      - id: "FIL-FK-117"
+        title: "Facebook Is Smarter Than You"
+        description: "Facebook is smarter than me -- let the machine do its job. Stop over-managing campaigns. Broad targeting with good creative and a proven offer lets Facebook's algorithm find your buyers better than you can."
+        domains: [paid-media]
+        source_id: "FK-AMM"
+        source_day: "Day 1"
+
+      - id: "FIL-FK-118"
+        title: "Don't Overthink Ads"
+        description: "Don't overthink it -- hey, fuck it, let's see what happens. The best performing ads often come from throwing something against the wall. Deliberation kills momentum. Launch, measure, adjust."
+        domains: [ad-copywriting]
+        source_id: "FK-AMM"
+        source_day: "Day 2"
+
+      - id: "FIL-FK-119"
+        title: "Psychological Capability to Withstand Unpleasantry"
+        description: "What hurts us is wanting results immediately -- need psychological capability to withstand unpleasantry. Advertising requires patience. Campaigns need time to optimize. If you panic at day-three data, you'll kill winners."
+        domains: [paid-media]
+        source_id: "FK-AMM"
+        source_day: "Day 1"
+
+      - id: "FIL-FK-120"
+        title: "Long Haul Mentality"
+        description: "I'm in this for the long haul -- help them, they buy, keep doing good job. Short-term tactics burn audiences. Long-term value creation builds empires. Every interaction should strengthen the relationship."
+        domains: [ad-copywriting]
+        source_id: "FK-AMM"
+        source_day: "Day 1"
+
 
   L2_MENTAL_MODELS:
       - id: "MM-FK-001"
@@ -852,6 +1215,293 @@ layers:
         domains: [consulting-methodology, client-acquisition]
         source_id: "FK-RC"
         source_week: "Week 10"
+
+      - id: "MM-FK-046"
+        title: "Big Seven Metrics Model"
+        description: "Seven key metrics that determine business health: (1) Cost Per Lead, (2) Cost Per Acquisition, (3) Average Order Value, (4) Revenue Per Lead, (5) Lifetime Value, (6) Conversion Rate, (7) Return on Ad Spend. Monitor all seven simultaneously -- optimizing one while ignoring others creates blind spots."
+        domains: [financial-metrics, diagnostics]
+        source_id: "FK-OT"
+        source_week: "Week 1"
+
+      - id: "MM-FK-047"
+        title: "Two Big Questions Model"
+        description: "Every business decision comes down to two questions: (1) How much does it cost to get a customer? (2) How much is that customer worth? If the answer to #2 is bigger than #1, you have a business. Everything else is commentary."
+        domains: [financial-metrics, business-strategy]
+        source_id: "FK-OT"
+        source_week: "Week 1"
+
+      - id: "MM-FK-048"
+        title: "Vortex Content Model"
+        description: "Content creates a vortex that pulls people toward purchase. Each piece of content is a touchpoint that increases familiarity, trust, and desire. The vortex effect means more content = lower cost per acquisition over time because warm audiences convert cheaper."
+        domains: [content-marketing, audience-building]
+        source_id: "FK-OT"
+        source_week: "Week 1"
+
+      - id: "MM-FK-049"
+        title: "Traffic Arbitrage Model"
+        description: "All advertising is traffic arbitrage -- you buy attention in one place and convert it into revenue in another. The spread between cost of attention and value of conversion is your profit margin. Find platforms where attention is underpriced relative to buyer intent."
+        domains: [paid-advertising, advertising-economics]
+        source_id: "FK-OT"
+        source_week: "Week 1"
+
+      - id: "MM-FK-050"
+        title: "Phone-as-TV Mental Model"
+        description: "The prospect's phone functions exactly like television did in the 1990s. It's the primary screen, the primary entertainment device, and the primary information source. Content strategy should treat social feeds as TV channels where you are the programming."
+        domains: [content-marketing, audience-building]
+        source_id: "FK-OT"
+        source_week: "Week 2"
+
+      - id: "MM-FK-051"
+        title: "80/20 Competitive Intelligence"
+        description: "80% of competitive intelligence value comes from studying just 3-5 top competitors. Identify who is spending the most on ads (they've done the testing for you), deconstruct their funnels, and adapt the winning elements. Don't reinvent -- reverse-engineer."
+        domains: [competitive-intelligence, marketing-strategy]
+        source_id: "FK-OT"
+        source_week: "Week 1"
+
+      - id: "MM-FK-052"
+        title: "Three Pillars Content Model"
+        description: "All effective content falls into three pillars: (1) Teach something useful, (2) Share a relevant story, (3) Make a direct offer. Rotate between these three. Each one builds a different aspect of the relationship -- competence, connection, and commerce."
+        domains: [content-marketing, content-creation]
+        source_id: "FK-OT"
+        source_week: "Week 2"
+
+      - id: "MM-FK-053"
+        title: "Yeah-Buts and What-Ifs Model"
+        description: "Prospects have two categories of resistance: Yeah-Buts (objections to the offer itself) and What-Ifs (fears about the outcome). Yeah-Buts are logical -- address with proof. What-Ifs are emotional -- address with stories and guarantees. Handle both or lose the sale."
+        domains: [selling-psychology, copywriting]
+        source_id: "FK-OT"
+        source_week: "Week 2"
+
+      - id: "MM-FK-054"
+        title: "Story Wrapper Model"
+        description: "Every piece of selling content works better wrapped in a story. The story is the delivery vehicle for the lesson, proof, or offer. Without the story wrapper, it's just a lecture. With it, it's entertainment that sells."
+        domains: [content-marketing, copywriting]
+        source_id: "FK-OT"
+        source_week: "Week 2"
+
+      - id: "MM-FK-055"
+        title: "IBB Content Structure"
+        description: "IBB = Intro-Body-Bridge. Intro hooks attention (pattern interrupt or bold claim). Body delivers value (teach, story, or proof). Bridge transitions to offer (call to action). Every piece of content -- post, video, email -- follows this three-part structure."
+        domains: [content-creation, copywriting]
+        source_id: "FK-OT"
+        source_week: "Week 2"
+
+      - id: "MM-FK-056"
+        title: "Episodic Advertising Model"
+        description: "Treat your advertising like a TV series, not a movie. Each ad is an episode that builds on the last. Viewers who see multiple episodes develop stronger connection and higher purchase intent. Sequential exposure beats repetitive exposure."
+        domains: [youtube-advertising, content-marketing]
+        source_id: "FK-OT"
+        source_week: "Week 2"
+
+      - id: "MM-FK-057"
+        title: "Google Beginning and End Model"
+        description: "Google owns both the beginning and end of the purchase journey. YouTube is where people discover (beginning) and Google Search is where they validate and buy (end). Advertising on both creates a closed loop where you influence the entire decision process."
+        domains: [youtube-advertising, paid-advertising]
+        source_id: "FK-OT"
+        source_week: "Week 2"
+
+      - id: "MM-FK-058"
+        title: "Filtration Copy Model"
+        description: "Great copy acts as a filter, not a net. A net tries to catch everyone. A filter only lets the right people through. Intentionally repelling the wrong prospects makes the sales process smoother and the customers better. Dog whistle copy speaks to your people and nobody else."
+        domains: [copywriting, audience-targeting]
+        source_id: "FK-OT"
+        source_week: "Week 3"
+
+      - id: "MM-FK-059"
+        title: "Assembly Line Copy Model"
+        description: "Long-form copy works like an assembly line. Each section has one job: headline gets attention, lead creates interest, proof builds belief, offer creates desire, close triggers action, guarantee removes risk. If any station breaks down, the whole line stops."
+        domains: [copywriting, sales-process-design]
+        source_id: "FK-OT"
+        source_week: "Week 3"
+
+      - id: "MM-FK-060"
+        title: "Double Tap Campaign Model"
+        description: "Double Tap = make the same offer twice through different mechanisms. First touch through content/webinar (value-based), second touch through direct sales copy (urgency-based). Different people respond to different approaches. Running both simultaneously captures more buyers."
+        domains: [campaign-architecture, sales-funnels]
+        source_id: "FK-OT"
+        source_week: "Week 3"
+
+      - id: "MM-FK-061"
+        title: "Open Loop Psychology"
+        description: "The human brain craves closure on incomplete patterns. An open loop -- a story started but not finished, a question raised but not answered -- creates psychological tension that keeps people reading, watching, and clicking. Every email, every ad should open a loop."
+        domains: [copywriting, email-marketing]
+        source_id: "FK-OT"
+        source_week: "Week 3"
+
+      - id: "MM-FK-062"
+        title: "Identity Shift Selling"
+        description: "People don't buy products -- they buy identity upgrades. The purchase is a vote for who they want to become. Frame the offer not as 'this product does X' but as 'this is who you become when you have this.' The identity shift is the real product."
+        domains: [selling-psychology, offer-strategy]
+        source_id: "FK-OT"
+        source_week: "Week 4"
+
+      - id: "MM-FK-063"
+        title: "Dog Whistle Copy Model"
+        description: "Dog whistle copy uses language, references, and insider terms that only your ideal prospect understands. Like a dog whistle that only dogs can hear, it speaks directly to your target while being invisible to everyone else. This creates instant rapport with qualified prospects."
+        domains: [copywriting, audience-targeting]
+        source_id: "FK-OT"
+        source_week: "Week 3"
+
+      - id: "MM-FK-064"
+        title: "Nuclear Bomb in a Gunfight"
+        description: "When your offer is so strong it's like bringing a nuclear bomb to a gunfight. The offer overwhelms all objections. Stack so much value, proof, and guarantee that saying no becomes irrational. Don't compete -- dominate with offer strength."
+        domains: [offer-strategy, irresistible-offers]
+        source_id: "FK-OT"
+        source_week: "Week 4"
+
+      - id: "MM-FK-065"
+        title: "Bribe to Trial Model"
+        description: "Don't try to sell the whole thing upfront -- bribe them to try. Loss leaders, free trials, low-ticket front-ends all serve the same purpose: get the customer to experience your world at low risk. Once they're in, the backend sells itself."
+        domains: [loss-leader-funnels, customer-acquisition]
+        source_id: "FK-OT"
+        source_week: "Week 4"
+
+      - id: "MM-FK-066"
+        title: "Solve the Problem the Purchase Creates"
+        description: "Every purchase creates a new problem. Buying a course creates the problem of implementation. Buying coaching creates the problem of accountability. Build your next offer around solving the problem that your current offer creates. This is how you build a natural product ladder."
+        domains: [offer-strategy, monetization]
+        source_id: "FK-OT"
+        source_week: "Week 4"
+
+      - id: "MM-FK-067"
+        title: "Mr. Nice Guy Sale Model"
+        description: "The Mr. Nice Guy Sale: be genuinely helpful, provide massive value, then casually mention the offer. No pressure, no urgency tricks, no scarcity manipulation. 'Hey, I helped you for free, here's the thing I sell if you want it.' Works especially well with warm audiences."
+        domains: [selling-psychology, sales-process-design]
+        source_id: "FK-OT"
+        source_week: "Week 4"
+
+      - id: "MM-FK-068"
+        title: "Greased Chute Model"
+        description: "A greased chute is a buying process with zero friction. From ad to landing page to order form to upsell, every step flows seamlessly into the next. No unnecessary steps, no confusing navigation, no friction. The prospect slides from interest to purchase without resistance."
+        domains: [sales-funnels, conversion-tracking]
+        source_id: "FK-OT"
+        source_week: "Week 4"
+
+      - id: "MM-FK-069"
+        title: "Two Categories of Buyers"
+        description: "There are two categories of buyers: impulse buyers (respond to urgency and emotion) and deliberate buyers (respond to logic and proof). Your funnel needs both pathways -- immediate buy option for impulse buyers, and nurture sequence for deliberate buyers."
+        domains: [selling-psychology, sales-funnels]
+        source_id: "FK-OT"
+        source_week: "Week 4"
+
+      - id: "MM-FK-070"
+        title: "Blue Ocean Brick and Mortar"
+        description: "Brick-and-mortar businesses are a blue ocean for digital marketing consultants. Most local businesses are doing zero or terrible digital marketing. The bar is so low that basic competence looks like genius. The opportunity is enormous and competition is minimal."
+        domains: [consulting-methodology, competitive-intelligence]
+        source_id: "FK-OT"
+        source_week: "Week 4"
+
+      - id: "MM-FK-071"
+        title: "Redneck Analytics Model"
+        description: "Redneck Analytics = simple, no-BS tracking that any business owner can understand. Forget complex attribution models. Track three things: (1) How much did you spend? (2) How much did you make? (3) What's the difference? If the difference is positive, do more. If negative, fix or stop."
+        domains: [financial-metrics, advertising-economics]
+        source_id: "FK-OT"
+        source_week: "Week 5"
+
+      - id: "MM-FK-072"
+        title: "22-Day Buying Cycle"
+        description: "Most buyers need approximately 22 days from first exposure to purchase decision. This means judging campaign performance in 3-7 days is premature. Build your reporting windows to account for the full buying cycle. Short-term data kills long-term winners."
+        domains: [advertising-economics, campaign-architecture]
+        source_id: "FK-OT"
+        source_week: "Week 5"
+
+      - id: "MM-FK-073"
+        title: "Two-Type YouTube Ad Model"
+        description: "Two types of YouTube ads work: (1) Direct response ads that drive immediate action (click, opt-in, buy), and (2) Content ads that build brand and audience for retargeting later. Run both. Direct response for immediate ROI, content for long-term audience building."
+        domains: [youtube-advertising, campaign-architecture]
+        source_id: "FK-OT"
+        source_week: "Week 5"
+
+      - id: "MM-FK-074"
+        title: "IBB Ecosystem Model"
+        description: "The IBB (Intro-Body-Bridge) structure is not just for individual content pieces -- it's an ecosystem. Your social posts are IBBs, your emails are IBBs, your ads are IBBs, your sales pages are IBBs. The same three-part structure scales from a tweet to a VSL."
+        domains: [content-creation, campaign-architecture]
+        source_id: "FK-OT"
+        source_week: "Week 5"
+
+      - id: "MM-FK-075"
+        title: "Diagnostic Funnel Model"
+        description: "A diagnostic funnel qualifies and segments prospects before presenting an offer. Instead of one-size-fits-all, ask 3-5 qualifying questions upfront, then route to the appropriate offer. Higher conversion because the offer matches the prospect's specific situation."
+        domains: [sales-funnels, diagnostics]
+        source_id: "FK-OT"
+        source_week: "Week 6"
+
+      - id: "MM-FK-076"
+        title: "Sequential Campaign as TV Series"
+        description: "Run sequential ad campaigns like TV series episodes. Episode 1 introduces the problem, Episode 2 shares a story, Episode 3 presents the solution, Episode 4 makes the offer. Only show Episode 2 to people who watched Episode 1. This builds narrative and commitment."
+        domains: [campaign-architecture, youtube-advertising]
+        source_id: "FK-OT"
+        source_week: "Week 6"
+
+      - id: "MM-FK-077"
+        title: "Click-Countdown Dual-Phase Model"
+        description: "Phase 1 (Click): content and ads designed purely to drive clicks and build engaged audiences. Phase 2 (Countdown): deadline-driven sequences that convert the engaged audience into buyers. Separate the two phases -- mixing them dilutes both."
+        domains: [campaign-architecture, email-marketing]
+        source_id: "FK-OT"
+        source_week: "Bonus"
+
+      - id: "MM-FK-078"
+        title: "Good Ad Checklist Model"
+        description: "A good ad passes four tests: (1) Does it stop the scroll in 3 seconds? (2) Does it clearly identify who it's for? (3) Does it deliver a single compelling message? (4) Does it have one clear call to action? If any test fails, fix it before scaling."
+        domains: [ad-copywriting, content-creation]
+        source_id: "FK-OT"
+        source_week: "Bonus"
+
+      - id: "MM-FK-079"
+        title: "Dog Whistle Ad Copy Model"
+        description: "Dog whistle ads use specific language, scenarios, and references that only your ideal customer recognizes. Like saying 'if you've ever gotten a ROAS of 2x and wondered why you can't break 4x' -- only media buyers understand and engage. Everyone else scrolls past. Perfect filtering."
+        domains: [ad-copywriting, audience-targeting]
+        source_id: "FK-AMM"
+        source_day: "Day 1"
+
+      - id: "MM-FK-080"
+        title: "Machine Learning Leverage Model"
+        description: "Facebook and YouTube algorithms learn from conversions. The more conversion data you feed them, the better they target. This creates a flywheel: more data = better targeting = more conversions = more data. Early campaigns subsidize machine learning. Don't optimize too early -- let the machine learn."
+        domains: [paid-media, facebook-ads]
+        source_id: "FK-AMM"
+        source_day: "Day 1"
+
+      - id: "MM-FK-081"
+        title: "Results in Advance Model"
+        description: "Give results in advance -- deliver the transformation in the ad itself. If your product teaches email marketing, teach one email tactic in the ad. The prospect experiences a micro-result and thinks 'if the ad was this good, the product must be incredible.' This is the ultimate proof mechanism."
+        domains: [ad-copywriting, content-marketing]
+        source_id: "FK-AMM"
+        source_day: "Day 1"
+
+      - id: "MM-FK-082"
+        title: "Restaurant Proximity Model"
+        description: "Like a restaurant near a popular tourist spot, position your offer near existing demand. Don't create demand from scratch -- find where people are already looking for solutions and show up there. Retarget competitor audiences, target similar interests, ride existing trends."
+        domains: [competitive-intelligence, audience-targeting]
+        source_id: "FK-AMM"
+        source_day: "Day 2"
+
+      - id: "MM-FK-083"
+        title: "Break-Even Front End Model"
+        description: "Design your front-end offer to break even on ad spend. You're not trying to profit on the first sale -- you're trying to acquire customers for free. The profit comes from backend offers, upsells, and repeat purchases. This lets you outspend every competitor."
+        domains: [loss-leader-funnels, advertising-economics]
+        source_id: "FK-AMM"
+        source_day: "Day 2"
+
+      - id: "MM-FK-084"
+        title: "Ocean Pockets Model"
+        description: "Within any large audience (ocean), there are pockets of hyper-responsive people. Your job is to find these pockets through testing and then scale within them. Don't try to boil the ocean -- find the hot pockets where your message resonates strongest."
+        domains: [audience-targeting, facebook-ads]
+        source_id: "FK-AMM"
+        source_day: "Day 2"
+
+      - id: "MM-FK-085"
+        title: "Multiple Objective Retargeting"
+        description: "Retargeting should serve multiple objectives simultaneously: (1) Remind of offer (standard retargeting), (2) Address specific objections (objection-handling ads), (3) Social proof (testimonial ads), (4) Urgency (deadline ads). Different people need different nudges to convert."
+        domains: [retargeting, campaign-architecture]
+        source_id: "FK-AMM"
+        source_day: "Day 3"
+
+      - id: "MM-FK-086"
+        title: "Advertising as Consulting Model"
+        description: "The best ads function like a free consulting session. They diagnose the prospect's problem, identify the root cause, and prescribe a solution -- which happens to be your product. The ad IS the sales process, compressed into 3-15 minutes."
+        domains: [ad-copywriting, consulting-methodology]
+        source_id: "FK-AMM"
+        source_day: "Day 3"
 
 
   L3_HEURISTICS:
@@ -1345,6 +1995,594 @@ layers:
         source_id: "FK-RC"
         source_week: "Week 5"
 
+      - id: "HEUR-FK-071"
+        title: "Spy on Top 5 Competitors Weekly"
+        description: "Check Facebook Ad Library and YouTube for your top 5 competitors every week. Note what ads they've been running longest (those are the winners). Adapt their winning angles for your audience. The ads that survive longest are proven profitable."
+        domains: [competitive-intelligence, paid-advertising]
+        source_id: "FK-OT"
+        source_week: "Week 1"
+
+      - id: "HEUR-FK-072"
+        title: "Content Volume: Minimum 1 Piece Per Day"
+        description: "Post at minimum one piece of content per day across platforms. Volume beats quality in the algorithm game. A mediocre daily post builds more audience than a brilliant weekly post. The algorithm rewards consistency above all else."
+        domains: [content-marketing, content-creation]
+        source_id: "FK-OT"
+        source_week: "Week 1"
+
+      - id: "HEUR-FK-073"
+        title: "Webinar Follow-Up: 7 Emails in 72 Hours"
+        description: "After a webinar, send 7 follow-up emails over 72 hours. Include replay link, key takeaway, testimonial, FAQ, deadline reminder, last chance, and final close. The majority of webinar sales happen in the follow-up, not during the live event."
+        domains: [webinar-sales, email-marketing]
+        source_id: "FK-OT"
+        source_week: "Week 1"
+
+      - id: "HEUR-FK-074"
+        title: "3-5 Content Themes Maximum"
+        description: "Stick to 3-5 core content themes maximum. Rotating between too many topics confuses the algorithm and dilutes your authority. Pick your themes and hammer them relentlessly. Your audience will never tire of your core message."
+        domains: [content-marketing, content-creation]
+        source_id: "FK-OT"
+        source_week: "Week 2"
+
+      - id: "HEUR-FK-075"
+        title: "IBB Content Under 3 Minutes"
+        description: "Keep IBB (Intro-Body-Bridge) content pieces under 3 minutes for social media. The intro should be 10-15 seconds, the body 1-2 minutes, and the bridge 15-30 seconds. Longer content performs on YouTube but social requires brevity."
+        domains: [content-creation, content-marketing]
+        source_id: "FK-OT"
+        source_week: "Week 2"
+
+      - id: "HEUR-FK-076"
+        title: "Phone Video Over Studio Video"
+        description: "Shoot content on your phone, not in a studio. Phone-quality video signals authenticity and relatability. Studio-quality signals corporate and triggers ad blindness. The lower production value, the more it looks like content instead of advertising."
+        domains: [content-creation, content-marketing]
+        source_id: "FK-OT"
+        source_week: "Week 2"
+
+      - id: "HEUR-FK-077"
+        title: "Competitor Ad Library Check: Sort by Longest Running"
+        description: "In Facebook Ad Library, sort competitor ads by longest running. Any ad running for 60+ days is profitable -- they wouldn't keep spending if it wasn't. These are the ads to study and adapt. Short-lived ads are failures -- ignore them."
+        domains: [competitive-intelligence, facebook-ads]
+        source_id: "FK-OT"
+        source_week: "Week 1"
+
+      - id: "HEUR-FK-078"
+        title: "Story Format: 80% Story, 20% Lesson"
+        description: "In content and copy, use 80% story and 20% lesson/offer. The story does the heavy lifting of engagement and emotional connection. The lesson or offer at the end feels natural, not forced. Reverse the ratio and it feels like a lecture."
+        domains: [content-marketing, copywriting]
+        source_id: "FK-OT"
+        source_week: "Week 2"
+
+      - id: "HEUR-FK-079"
+        title: "Retargeting Window: 180 Days"
+        description: "Set retargeting windows to 180 days for content consumers. People who watched your videos or visited your site in the last 6 months are still warm enough to convert. The cost to retarget is so low that a wider window is almost always profitable."
+        domains: [retargeting, audience-building]
+        source_id: "FK-OT"
+        source_week: "Week 1"
+
+      - id: "HEUR-FK-080"
+        title: "First 5 Seconds: Pattern Interrupt or Die"
+        description: "The first 5 seconds of any video content must pattern-interrupt. Say something unexpected, controversial, or intensely relevant. If you don't earn the first 5 seconds, you never get the next 5 minutes. Treat the opening like a headline."
+        domains: [content-creation, youtube-advertising]
+        source_id: "FK-OT"
+        source_week: "Week 2"
+
+      - id: "HEUR-FK-081"
+        title: "Repurpose One Piece Into Five"
+        description: "Every long-form content piece should be repurposed into at least 5 shorter pieces. A 30-minute YouTube video becomes 5 social clips, 3 quotes, 2 email topics, and 1 blog post. Create once, distribute everywhere."
+        domains: [content-creation, content-marketing]
+        source_id: "FK-OT"
+        source_week: "Week 2"
+
+      - id: "HEUR-FK-082"
+        title: "Google Beginning End: Run YouTube and Search Together"
+        description: "Always run YouTube ads and Google Search ads together. YouTube creates awareness (beginning of journey), Google Search captures intent (end of journey). Running only one leaves money on the table. The combination is more powerful than either alone."
+        domains: [youtube-advertising, paid-advertising]
+        source_id: "FK-OT"
+        source_week: "Week 2"
+
+      - id: "HEUR-FK-083"
+        title: "Batch Content: 1 Hour = 1 Week of Posts"
+        description: "Batch record content in one-hour sessions. In 60 minutes you can create 10-15 short videos covering your 3-5 core themes. That's 2-3 weeks of daily content from a single recording session. Batching eliminates the daily grind."
+        domains: [content-creation, content-marketing]
+        source_id: "FK-OT"
+        source_week: "Week 2"
+
+      - id: "HEUR-FK-084"
+        title: "Email Click Rate Target: 15-25%"
+        description: "Target 15-25% click rates on promotional emails. Below 15% means your subject lines or hooks are weak. Above 25% means your audience is highly engaged. If rates drop below 10%, your list is cold -- warm them up with value content before promoting again."
+        domains: [email-marketing, financial-metrics]
+        source_id: "FK-OT"
+        source_week: "Week 1"
+
+      - id: "HEUR-FK-085"
+        title: "Test Audience Before Creative: 5 Audiences Same Ad"
+        description: "When launching a new campaign, test 5 different audiences with the exact same ad creative. The audience that performs best gets more budget. Only after finding the winning audience do you test new creative. Audience > creative in order of operations."
+        domains: [facebook-ads, audience-targeting]
+        source_id: "FK-OT"
+        source_week: "Week 1"
+
+      - id: "HEUR-FK-086"
+        title: "Content Engagement: Reply to Every Comment"
+        description: "Reply to every comment on your content for the first 30 minutes after posting. This signals to the algorithm that the post is generating conversation, which triggers broader distribution. A 15-minute engagement window can 10x organic reach."
+        domains: [content-marketing, audience-building]
+        source_id: "FK-OT"
+        source_week: "Week 2"
+
+      - id: "HEUR-FK-087"
+        title: "Video Hook: Question or Shocking Statement"
+        description: "Start every video with either a question or a shocking statement. Questions engage the brain's answer-seeking mechanism. Shocking statements trigger curiosity. Both prevent the scroll. Never start with 'Hey guys, welcome back to my channel.'"
+        domains: [content-creation, youtube-advertising]
+        source_id: "FK-OT"
+        source_week: "Week 2"
+
+      - id: "HEUR-FK-088"
+        title: "Ad Spy: Screenshot and Categorize"
+        description: "When spying on competitor ads, screenshot every ad and categorize by type: testimonial, story, direct offer, educational, curiosity-driven. After 50 screenshots, you'll see patterns. The most common categories are what's working in the market right now."
+        domains: [competitive-intelligence, ad-copywriting]
+        source_id: "FK-OT"
+        source_week: "Week 1"
+
+      - id: "HEUR-FK-089"
+        title: "Affiliate Warning: Never More Than 20% of Revenue"
+        description: "If affiliate revenue exceeds 20% of your total revenue, you're dangerously dependent on someone else's product and audience. Own your products. Own your customers. Affiliating is a supplementary strategy, never a primary one."
+        domains: [business-models, revenue-optimization]
+        source_id: "FK-OT"
+        source_week: "Week 1"
+
+      - id: "HEUR-FK-090"
+        title: "Content Conversion: CTA in Every Third Post"
+        description: "Include a clear call-to-action in every third content piece. Two value posts, one CTA post. This ratio keeps your audience engaged without feeling constantly sold to. The CTA post should still provide value -- just with a clear next step."
+        domains: [content-marketing, sales-funnels]
+        source_id: "FK-OT"
+        source_week: "Week 2"
+
+      - id: "HEUR-FK-091"
+        title: "YouTube Ad: First 5 Seconds Qualify the Viewer"
+        description: "In the first 5 seconds of a YouTube ad, clearly identify who this ad is for. 'If you're a business owner spending at least $5K/month on ads...' Qualified viewers keep watching. Unqualified viewers skip. You don't pay for skips."
+        domains: [youtube-advertising, audience-targeting]
+        source_id: "FK-OT"
+        source_week: "Week 2"
+
+      - id: "HEUR-FK-092"
+        title: "Competitive Funnel Map: Screenshot Every Step"
+        description: "When researching competitors, click their ads and screenshot every step of the funnel: landing page, opt-in, thank you page, email sequence (subscribe to their list), sales page, order form. Map the entire journey. This is your free R&D."
+        domains: [competitive-intelligence, sales-funnels]
+        source_id: "FK-OT"
+        source_week: "Week 1"
+
+      - id: "HEUR-FK-093"
+        title: "Sales Page: Damaging Admission in First 500 Words"
+        description: "Include a damaging admission in the first 500 words of any sales page. Admit a limitation, a failure, or a 'who this is NOT for' statement early. This builds trust faster than any testimonial because people expect you to only say positive things."
+        domains: [copywriting-philosophy, sales-process-design]
+        source_id: "FK-OT"
+        source_week: "Week 3"
+
+      - id: "HEUR-FK-094"
+        title: "Copy Length: Long Copy Outsells Short Copy for Cold Traffic"
+        description: "For cold traffic, long copy always outsells short copy. Cold prospects need more proof, more story, more overcoming of objections. For warm/hot traffic, shorter copy works because trust is already established. Match copy length to audience temperature."
+        domains: [copywriting, sales-process-design]
+        source_id: "FK-OT"
+        source_week: "Week 3"
+
+      - id: "HEUR-FK-095"
+        title: "VSL Length: 45-90 Minutes for High Ticket"
+        description: "For high-ticket offers ($997+), VSLs should be 45-90 minutes. Shorter VSLs don't build enough belief for premium pricing. The length isn't about padding -- every minute must advance the sale. If you can't fill 45 minutes with valuable content, your offer isn't developed enough."
+        domains: [sales-process-design, copywriting]
+        source_id: "FK-OT"
+        source_week: "Week 3"
+
+      - id: "HEUR-FK-096"
+        title: "Billion Dollar VSL: 12 Sections in Order"
+        description: "The Billion Dollar VSL structure has 12 sections in exact order: (1) Pattern Interrupt, (2) Core Promise, (3) Credibility, (4) Problem Identification, (5) Agitate, (6) Solution Introduction, (7) Benefits/Bullets, (8) Proof Stack, (9) Offer Stack, (10) Price Anchor, (11) Guarantee, (12) Close with Urgency. Don't rearrange."
+        domains: [copywriting, sales-process-design]
+        source_id: "FK-OT"
+        source_week: "Week 3"
+
+      - id: "HEUR-FK-097"
+        title: "Price Anchor: Show 10x Value Before Reveal"
+        description: "Before revealing your price, stack value that's at least 10x the asking price. If you're charging $997, stack $10,000+ in value. The gap between perceived value and actual price makes the decision feel like a no-brainer. Never reveal price before the stack."
+        domains: [pricing-psychology, offer-strategy]
+        source_id: "FK-OT"
+        source_week: "Week 3"
+
+      - id: "HEUR-FK-098"
+        title: "Guarantee: Risk Reversal Must Be Specific"
+        description: "A generic 'money-back guarantee' is weak. A specific guarantee is powerful: '30-day guarantee: if you don't generate at least 10 qualified leads using this system, I'll refund every penny AND let you keep the course.' Specificity makes the guarantee believable."
+        domains: [offer-strategy, irresistible-offers]
+        source_id: "FK-OT"
+        source_week: "Week 3"
+
+      - id: "HEUR-FK-099"
+        title: "Proof Stack: Minimum 5 Different Types"
+        description: "Include at minimum 5 different types of proof in every sales page: (1) Your own results, (2) Client testimonials, (3) Case studies with numbers, (4) Screenshots/evidence, (5) Third-party endorsements. Different people are persuaded by different proof types."
+        domains: [copywriting, irresistible-offers]
+        source_id: "FK-OT"
+        source_week: "Week 3"
+
+      - id: "HEUR-FK-100"
+        title: "Sales Letter Headline: Write 25, Pick Best"
+        description: "Write at minimum 25 headline variations before picking the one for your sales page. The headline is the single most important element -- it determines whether anyone reads the rest. Spend more time on the headline than on any other section."
+        domains: [copywriting, sales-process-design]
+        source_id: "FK-OT"
+        source_week: "Week 3"
+
+      - id: "HEUR-FK-101"
+        title: "Double Tap Timing: Content First, Direct Sales 48 Hours Later"
+        description: "In a Double Tap campaign, run the content/value-based promotion first. Wait 48 hours, then hit the same audience with the direct sales pitch. The content warms them up. The direct pitch closes them. Reversing the order kills both."
+        domains: [campaign-architecture, sales-funnels]
+        source_id: "FK-OT"
+        source_week: "Week 3"
+
+      - id: "HEUR-FK-102"
+        title: "Upsell Pages: 60 Seconds or Less"
+        description: "One-time offer and upsell pages should take 60 seconds or less to consume. The buyer is already in a buying state -- don't kill momentum with a 30-minute VSL. Quick headline, 3 bullets, price, yes/no button. Speed preserves buying momentum."
+        domains: [sales-funnels, monetization]
+        source_id: "FK-OT"
+        source_week: "Week 4"
+
+      - id: "HEUR-FK-103"
+        title: "Bump Offer: Always on Order Form, Related to Main Offer"
+        description: "Always include an order form bump. It should cost 30-50% of the main offer price and be directly related to the main purchase. Example: main offer is a course ($997), bump is implementation templates ($297). Bump acceptance rate target: 30-40%."
+        domains: [monetization, sales-funnels]
+        source_id: "FK-OT"
+        source_week: "Week 4"
+
+      - id: "HEUR-FK-104"
+        title: "Upsell Sequence: Maximum 2 Upsells After Purchase"
+        description: "Never present more than 2 upsell offers after initial purchase. More than that creates frustration and buyer's remorse. First upsell should complement the purchase. Second upsell should be premium/VIP. Stop there."
+        domains: [monetization, sales-funnels]
+        source_id: "FK-OT"
+        source_week: "Week 4"
+
+      - id: "HEUR-FK-105"
+        title: "Email Subject Lines: 4-7 Words Maximum"
+        description: "Keep email subject lines to 4-7 words. Short subject lines get higher open rates because they look like personal emails, not marketing. 'Quick question for you' outperforms 'The Ultimate Guide to Scaling Your Business with Facebook Ads' every time."
+        domains: [email-marketing, copywriting]
+        source_id: "FK-OT"
+        source_week: "Week 4"
+
+      - id: "HEUR-FK-106"
+        title: "Selling Emotion: Lead with Transformation, Not Features"
+        description: "Never lead with features or deliverables. Lead with the emotional transformation: 'Imagine waking up knowing exactly where your next 10 clients are coming from.' THEN explain the features. Emotion opens the door, logic walks through it."
+        domains: [selling-psychology, copywriting]
+        source_id: "FK-OT"
+        source_week: "Week 4"
+
+      - id: "HEUR-FK-107"
+        title: "Identity Sell: Use 'You Are' Statements"
+        description: "Use 'you are' statements in copy to trigger identity selling. 'You're the type of person who...' or 'People like you don't settle for...' These statements activate self-concept and make the purchase feel like self-expression rather than a transaction."
+        domains: [selling-psychology, copywriting]
+        source_id: "FK-OT"
+        source_week: "Week 4"
+
+      - id: "HEUR-FK-108"
+        title: "Buying State: Offer Within 15 Minutes of Value"
+        description: "After delivering value (content, webinar, training), make an offer within 15 minutes. The buying state has a half-life. Every minute that passes between value delivery and offer presentation reduces conversion. Strike while the iron is hot."
+        domains: [selling-psychology, sales-funnels]
+        source_id: "FK-OT"
+        source_week: "Week 4"
+
+      - id: "HEUR-FK-109"
+        title: "Downsell: Offer When They Say No to Main Offer"
+        description: "Always have a downsell ready when someone declines the main offer. If they won't buy the $2,000 program, offer the $497 version. The downsell recovers 10-20% of lost sales. Never let a 'no' be the end of the conversation."
+        domains: [monetization, sales-funnels]
+        source_id: "FK-OT"
+        source_week: "Week 4"
+
+      - id: "HEUR-FK-110"
+        title: "Order Form: Maximum 6 Fields"
+        description: "Keep order forms to maximum 6 fields: name, email, phone (optional), card number, expiry, CVC. Every additional field reduces conversion by 5-10%. If you need more info, collect it AFTER the purchase, not before."
+        domains: [conversion-tracking, sales-funnels]
+        source_id: "FK-OT"
+        source_week: "Week 4"
+
+      - id: "HEUR-FK-111"
+        title: "Email Deadline Stack: 5 Days Maximum"
+        description: "Deadline stacks should run for maximum 5 days. Day 1: introduction. Day 2: social proof. Day 3: FAQ/objections. Day 4: urgency. Day 5: last chance (6 emails on final day). Longer than 5 days loses urgency. Shorter doesn't build enough momentum."
+        domains: [email-marketing, deadline-sequences]
+        source_id: "FK-OT"
+        source_week: "Week 4"
+
+      - id: "HEUR-FK-112"
+        title: "High Ticket Close: Never Sell Price, Sell Gap"
+        description: "When selling high-ticket, never defend the price. Instead, sell the gap between where they are and where they want to be. 'You're at $100K/month and want to be at $200K/month. That's a $1.2M annual gap. My program costs $15K. Is $15K worth $1.2M?' The gap makes any price seem small."
+        domains: [high-ticket-sales, selling-psychology]
+        source_id: "FK-OT"
+        source_week: "Week 4"
+
+      - id: "HEUR-FK-113"
+        title: "Mr. Nice Guy Close: Assume the Sale"
+        description: "In the Mr. Nice Guy selling style, don't ask for the sale -- assume it. After delivering value: 'So here's what I've got for you, and here's the link.' No pressure, no closing technique, no urgency manipulation. Just a natural transition from helping to offering."
+        domains: [sales-process-design, selling-psychology]
+        source_id: "FK-OT"
+        source_week: "Week 4"
+
+      - id: "HEUR-FK-114"
+        title: "Greased Chute: Maximum 3 Clicks from Ad to Purchase"
+        description: "The path from ad click to purchase complete should be maximum 3 clicks: (1) Ad click to landing page, (2) Landing page to order form, (3) Order form submit. Every additional click loses 20-30% of prospects. Fewer steps = more sales."
+        domains: [sales-funnels, conversion-tracking]
+        source_id: "FK-OT"
+        source_week: "Week 4"
+
+      - id: "HEUR-FK-115"
+        title: "Buyer Email: Different Sequence Than Non-Buyer"
+        description: "Immediately segment buyers from non-buyers in email. Buyers get ascension sequences (upsell, cross-sell, premium offers). Non-buyers get nurture sequences (value, proof, re-offer). Sending the same emails to both is the most common email mistake."
+        domains: [email-marketing, sales-funnels]
+        source_id: "FK-OT"
+        source_week: "Week 4"
+
+      - id: "HEUR-FK-116"
+        title: "4DCM: Daily Content Machine"
+        description: "The 4DCM (4-Day Content Machine) workflow: Day 1 batch record 12-15 content pieces. Day 2 edit and caption. Day 3-4 schedule across all platforms. Then repeat. This creates a perpetual content engine that runs on 2 recording sessions per month."
+        domains: [content-creation, content-marketing]
+        source_id: "FK-OT"
+        source_week: "Week 5"
+
+      - id: "HEUR-FK-117"
+        title: "YouTube Ad Budget: Start at $50/day Per Campaign"
+        description: "Start YouTube ad campaigns at $50/day. Below that, the algorithm doesn't get enough data to optimize. Above that too early, you waste money before finding winners. Once a campaign is profitable at $50/day, scale by 20% every 3 days."
+        domains: [youtube-advertising, scaling]
+        source_id: "FK-OT"
+        source_week: "Week 5"
+
+      - id: "HEUR-FK-118"
+        title: "Content Ad View Rate: 25%+ Is Good"
+        description: "For YouTube content ads (awareness/audience building), a 25%+ view rate indicates the content resonates. Below 25%, the opening is too weak or the audience targeting is off. Above 40% is exceptional and worth scaling aggressively."
+        domains: [youtube-advertising, financial-metrics]
+        source_id: "FK-OT"
+        source_week: "Week 5"
+
+      - id: "HEUR-FK-119"
+        title: "Omnipresence Budget: 20% of Ad Spend"
+        description: "Allocate 20% of total ad spend to omnipresence (content) campaigns. These don't drive direct conversions but build the audience and brand that makes direct response campaigns cheaper. It's the tax you pay for lower future acquisition costs."
+        domains: [youtube-advertising, advertising-economics]
+        source_id: "FK-OT"
+        source_week: "Week 5"
+
+      - id: "HEUR-FK-120"
+        title: "Facebook Campaign Rebuild: Every 4-6 Weeks"
+        description: "Plan to rebuild Facebook campaigns every 4-6 weeks. Creative fatigues, audiences saturate, algorithms shift. Rather than fighting decay, accept it and build the muscle of launching fresh campaigns. The best media buyers are the fastest rebuilders."
+        domains: [facebook-ads, paid-advertising]
+        source_id: "FK-OT"
+        source_week: "Week 5"
+
+      - id: "HEUR-FK-121"
+        title: "Email Twice a Day During Promotions"
+        description: "During active promotions, email twice a day -- morning and evening. People miss emails because they're distracted, not because they're annoyed. The morning email catches morning checkers. The evening email catches scrollers. Different audiences, same list."
+        domains: [email-marketing, deadline-sequences]
+        source_id: "FK-OT"
+        source_week: "Bonus"
+
+      - id: "HEUR-FK-122"
+        title: "Behavioral Trigger: Click = Intent"
+        description: "Anyone who clicks a link in an email has demonstrated intent. Immediately tag them and move them to an accelerated follow-up sequence. Clickers convert at 5-10x the rate of non-clickers. Treat every click as a raised hand."
+        domains: [behavioral-marketing, email-marketing]
+        source_id: "FK-OT"
+        source_week: "Bonus"
+
+      - id: "HEUR-FK-123"
+        title: "Super System Check: 30-Day Campaign Rotation"
+        description: "Review your super system every 30 days. Check which campaigns are running, which have expired, and which need refreshing. A stale super system slowly dies. Fresh campaigns injected monthly keep the system producing."
+        domains: [super-systems, campaign-architecture]
+        source_id: "FK-OT"
+        source_week: "Bonus"
+
+      - id: "HEUR-FK-124"
+        title: "Retargeting Ladder: 3 Tiers by Engagement"
+        description: "Build retargeting in 3 tiers: Tier 1 (hottest) = visited sales page or started checkout. Tier 2 (warm) = watched 50%+ of content. Tier 3 (cool) = any website visitor or content engagement. Spend most on Tier 1, least on Tier 3."
+        domains: [retargeting, campaign-architecture]
+        source_id: "FK-OT"
+        source_week: "Bonus"
+
+      - id: "HEUR-FK-125"
+        title: "Diagnostic Email: Ask One Question"
+        description: "Periodically send a diagnostic email that asks one question: 'What's your biggest challenge with [topic]?' The responses give you content ideas, copy angles, and product ideas directly from your market. Plus, replies boost deliverability."
+        domains: [email-marketing, diagnostics]
+        source_id: "FK-OT"
+        source_week: "Bonus"
+
+      - id: "HEUR-FK-126"
+        title: "Campaign Kill Rule: 3x CPA Target = Pause"
+        description: "If any campaign reaches 3x your CPA target without a conversion, pause it immediately. Don't let hope burn budget. 3x target with zero conversions means the audience, creative, or offer isn't working. Diagnose before restarting."
+        domains: [paid-advertising, campaign-troubleshooting]
+        source_id: "FK-OT"
+        source_week: "Week 5"
+
+      - id: "HEUR-FK-127"
+        title: "Landing Page Test: Above the Fold Only"
+        description: "When testing landing pages, only change elements above the fold first. Headline, subheadline, hero image, and CTA button drive 80% of the conversion decision. Below-the-fold changes have minimal impact until above-the-fold is optimized."
+        domains: [conversion-tracking, sales-funnels]
+        source_id: "FK-OT"
+        source_week: "Week 5"
+
+      - id: "HEUR-FK-128"
+        title: "YouTube Thumbnail: Face + Text + Bright Color"
+        description: "YouTube thumbnails that perform best have three elements: (1) A close-up face showing emotion, (2) Large text (4-6 words max), (3) A bright contrasting background color. Test 3 thumbnails per video and let YouTube optimize."
+        domains: [youtube-advertising, content-creation]
+        source_id: "FK-OT"
+        source_week: "Week 5"
+
+      - id: "HEUR-FK-129"
+        title: "ROAS Calculation: Include All Backend Revenue"
+        description: "When calculating ROAS, include all revenue from a customer within 30-60 days -- not just the initial purchase. A campaign that looks like 1.5x ROAS on day one often becomes 4-5x ROAS when you include upsells, bumps, and repeat purchases."
+        domains: [advertising-economics, financial-metrics]
+        source_id: "FK-OT"
+        source_week: "Week 5"
+
+      - id: "HEUR-FK-130"
+        title: "Scale Rule: 20% Budget Increase Every 3 Days"
+        description: "Scale winning campaigns by increasing budget 20% every 3 days. Larger jumps shock the algorithm and break performance. Smaller jumps are too slow. 20% every 3 days lets the algorithm adjust while maintaining momentum."
+        domains: [scaling, paid-advertising]
+        source_id: "FK-OT"
+        source_week: "Week 5"
+
+      - id: "HEUR-FK-131"
+        title: "New Creative Every 2 Weeks"
+        description: "Introduce new ad creative every 2 weeks to combat fatigue. You don't need to replace everything -- add 2-3 new variations while keeping top performers running. Fresh creative injected regularly keeps CPMs stable and engagement high."
+        domains: [content-creation, paid-advertising]
+        source_id: "FK-OT"
+        source_week: "Week 5"
+
+      - id: "HEUR-FK-132"
+        title: "Email Revenue Target: 30-40% of Total"
+        description: "Email should generate 30-40% of total revenue. If it's below 30%, you're under-mailing or your sequences are weak. If it's above 50%, you're too dependent on email and vulnerable to deliverability issues. The sweet spot is 30-40%."
+        domains: [email-marketing, revenue-optimization]
+        source_id: "FK-OT"
+        source_week: "Bonus"
+
+      - id: "HEUR-FK-133"
+        title: "Sequential Ads: Minimum 3 Episodes"
+        description: "Sequential ad campaigns need minimum 3 episodes to be effective. Episode 1: awareness (problem/story). Episode 2: education (solution/proof). Episode 3: offer (CTA/urgency). Fewer than 3 doesn't build enough narrative momentum."
+        domains: [campaign-architecture, youtube-advertising]
+        source_id: "FK-OT"
+        source_week: "Week 6"
+
+      - id: "HEUR-FK-134"
+        title: "Webinar Registration Cost: Under $8 or Optimize"
+        description: "Target webinar registration cost under $8. Between $8-15 is acceptable if your webinar converts well. Above $15, optimize your ads or landing page before scaling. The registration cost sets the ceiling for your entire webinar funnel economics."
+        domains: [webinar-sales, advertising-economics]
+        source_id: "FK-OT"
+        source_week: "Week 6"
+
+      - id: "HEUR-FK-135"
+        title: "Show Rate: 25-35% Is Normal"
+        description: "Webinar show rates of 25-35% are normal and healthy. Below 25%, your reminder sequence is weak. Above 35% is exceptional. Send 3 reminders: day before, morning of, and 15 minutes before. Include one piece of value in each reminder to increase show rates."
+        domains: [webinar-sales, email-marketing]
+        source_id: "FK-OT"
+        source_week: "Week 6"
+
+      - id: "HEUR-FK-136"
+        title: "Type-In Traffic: Track Brand Search Volume"
+        description: "Monitor Google Trends for your brand name. When you run content ads at scale, brand search volume should increase proportionally. This 'type-in traffic' is the highest-converting traffic source and validates that your content campaigns are building real awareness."
+        domains: [youtube-advertising, financial-metrics]
+        source_id: "FK-OT"
+        source_week: "Week 5"
+
+      - id: "HEUR-FK-137"
+        title: "Dog Whistle Test: If Everyone Understands, Too Broad"
+        description: "Test your dog whistle copy by showing it to someone outside your market. If they understand it easily, it's too broad. True dog whistle copy confuses outsiders and resonates deeply with insiders. The confusion of outsiders is the sign it's working."
+        domains: [copywriting, ad-copywriting]
+        source_id: "FK-AMM"
+        source_day: "Day 1"
+
+      - id: "HEUR-FK-138"
+        title: "Ad Budget: $100/Day Minimum to Learn"
+        description: "Spend minimum $100/day on Facebook/YouTube to generate enough data for the algorithm to learn. Below $100/day, the machine doesn't get enough conversions to optimize. Think of the first $100/day as tuition, not investment."
+        domains: [paid-media, facebook-ads]
+        source_id: "FK-AMM"
+        source_day: "Day 1"
+
+      - id: "HEUR-FK-139"
+        title: "Results in Advance: 1 Tactical Win in the Ad"
+        description: "Every ad should give the viewer one tactical win they can implement immediately -- without buying. This tactical win IS the ad's value. If they implement it and get results, they'll buy the product for more. Demonstrate competence by creating competence."
+        domains: [ad-copywriting, content-marketing]
+        source_id: "FK-AMM"
+        source_day: "Day 1"
+
+      - id: "HEUR-FK-140"
+        title: "FAQ Bridge: Answer Objection in Ad"
+        description: "Use the FAQ Bridge strategy: identify the top 3-5 objections prospects have and answer them directly in your ad. Each FAQ becomes a mini-section of the ad. This preemptively overcomes resistance before they ever reach the sales page."
+        domains: [ad-copywriting, selling-psychology]
+        source_id: "FK-AMM"
+        source_day: "Day 1"
+
+      - id: "HEUR-FK-141"
+        title: "Ad Creative Test: 3 Hooks Same Body"
+        description: "When testing ad creative, create 3 versions with different hooks but the same body and CTA. The hook is the highest-leverage variable. Once you find the winning hook, then test body variations. This isolates what's actually driving performance."
+        domains: [ad-copywriting, facebook-ads]
+        source_id: "FK-AMM"
+        source_day: "Day 2"
+
+      - id: "HEUR-FK-142"
+        title: "Broad Targeting First: Let Facebook Learn"
+        description: "Start campaigns with broad targeting (age, gender, country only). Let Facebook's algorithm find your buyers. Over-constraining targeting limits the machine's ability to learn. Broad targeting with strong creative and a proven offer outperforms narrow targeting 7 out of 10 times."
+        domains: [paid-media, facebook-ads]
+        source_id: "FK-AMM"
+        source_day: "Day 1"
+
+      - id: "HEUR-FK-143"
+        title: "Ad Transparency: 'This Is an Ad' in First Line"
+        description: "Start some ads with 'Hey, this is an ad.' Radical transparency disarms skepticism instantly. People appreciate honesty. The trust gained from transparency converts better than the attention lost from people who would have scrolled anyway."
+        domains: [ad-copywriting, selling-psychology]
+        source_id: "FK-AMM"
+        source_day: "Day 1"
+
+      - id: "HEUR-FK-144"
+        title: "Video Ad Length: 3-7 Minutes for Direct Response"
+        description: "Direct response video ads perform best at 3-7 minutes. Under 3 minutes doesn't build enough belief. Over 7 minutes loses attention. The sweet spot is enough time to hook, build belief, and make an offer without overstaying your welcome."
+        domains: [ad-copywriting, youtube-advertising]
+        source_id: "FK-AMM"
+        source_day: "Day 2"
+
+      - id: "HEUR-FK-145"
+        title: "Retargeting: Different Ad for Each Objection"
+        description: "Create separate retargeting ads for each major objection: price, timing, trust, skepticism. Serve the right objection-handling ad based on where the prospect dropped off. Cart abandoners get price-focused ads. Page visitors get trust-focused ads."
+        domains: [retargeting, ad-copywriting]
+        source_id: "FK-AMM"
+        source_day: "Day 3"
+
+      - id: "HEUR-FK-146"
+        title: "Break-Even Metric: Track 7-Day and 30-Day Separately"
+        description: "Track break-even on ad spend at both 7-day and 30-day windows. 7-day tells you if the funnel's front end works. 30-day tells you if the business model works. A campaign can lose money at 7 days but be wildly profitable at 30 days thanks to backend."
+        domains: [advertising-economics, financial-metrics]
+        source_id: "FK-AMM"
+        source_day: "Day 2"
+
+      - id: "HEUR-FK-147"
+        title: "Ad Image: Person Looking at CTA"
+        description: "In image ads, have the person in the image looking toward the CTA button or the text. Eye direction guides the viewer's gaze. This subtle visual cue increases click-through rates by directing attention to where you want it."
+        domains: [ad-copywriting, content-creation]
+        source_id: "FK-AMM"
+        source_day: "Day 2"
+
+      - id: "HEUR-FK-148"
+        title: "Automation Rule: If Profitable at $X, Auto-Scale to $2X"
+        description: "Set up automated rules: if a campaign achieves target CPA for 3 consecutive days, automatically increase budget by 20%. If CPA exceeds 2x target for 2 consecutive days, automatically decrease by 30%. This removes emotion from scaling decisions."
+        domains: [ad-automation, scaling]
+        source_id: "FK-AMM"
+        source_day: "Day 3"
+
+      - id: "HEUR-FK-149"
+        title: "Ocean Pockets: Test 10 Interests, Keep Top 3"
+        description: "When prospecting for ocean pockets, test 10 different interest-based audiences simultaneously. After 72 hours, identify the top 3 by CPA. Kill the bottom 7 and reallocate budget to the winners. This rapid test-and-kill approach finds pockets fast."
+        domains: [audience-targeting, facebook-ads]
+        source_id: "FK-AMM"
+        source_day: "Day 2"
+
+      - id: "HEUR-FK-150"
+        title: "Copy Formula: PAS + Proof + Offer"
+        description: "The simplest high-converting copy formula: Problem (identify their pain), Agitate (make it urgent), Solution (your product). Then add Proof (testimonials/results) and Offer (what they get + price + guarantee). This formula works for ads, emails, and sales pages."
+        domains: [ad-copywriting, copywriting]
+        source_id: "FK-AMM"
+        source_day: "Day 1"
+
+      - id: "HEUR-FK-151"
+        title: "Consulting Ad: Free Audit Offer Converts Best"
+        description: "For consulting and agency services, 'free audit' or 'free diagnostic' ads consistently outperform all other ad types. The audit demonstrates expertise and creates a natural transition to paid services. It's the SANDOR model packaged as an ad."
+        domains: [ad-copywriting, consulting-methodology]
+        source_id: "FK-AMM"
+        source_day: "Day 3"
+
+      - id: "HEUR-FK-152"
+        title: "Multiple Retargeting Objectives: Split Budget 40/30/30"
+        description: "Split retargeting budget: 40% to direct offer retargeting, 30% to testimonial/social proof ads, 30% to objection-handling ads. This multi-objective approach addresses different stages of the decision process simultaneously."
+        domains: [retargeting, campaign-architecture]
+        source_id: "FK-AMM"
+        source_day: "Day 3"
+
+      - id: "HEUR-FK-153"
+        title: "Ad Testing: Minimum $50 Per Variation Before Judging"
+        description: "Spend minimum $50 on each ad variation before making any judgment. Below $50, you don't have statistically meaningful data. Kill nothing before it's had $50 of spend. After $50 with zero conversions, you have permission to pause."
+        domains: [paid-media, ad-copywriting]
+        source_id: "FK-AMM"
+        source_day: "Day 2"
+
+      - id: "HEUR-FK-154"
+        title: "Ad as Mini-Consultation: Diagnose in the Ad"
+        description: "Structure your ad like a mini-consultation: 'If you're experiencing [symptom], the likely cause is [diagnosis], and here's what to do about it [prescription]... and if you want help implementing, here's my program.' The ad IS the SANDOR model in 5 minutes."
+        domains: [ad-copywriting, consulting-methodology]
+        source_id: "FK-AMM"
+        source_day: "Day 3"
+
 
   L4_FRAMEWORKS:
       - id: "FW-FK-001"
@@ -1676,6 +2914,328 @@ layers:
         source_id: "FK-RC"
         source_week: "Week 8"
 
+      - id: "FW-FK-048"
+        title: "Competitive Intelligence Framework"
+        description: "5-step competitive intelligence process: (1) Identify top 5 competitors by ad spend (Facebook Ad Library). (2) Screenshot and catalog all their ads, sorting by duration. (3) Click through and map their entire funnel. (4) Subscribe to their email list and track sequences for 30 days. (5) Identify gaps and angles they're missing. Output: competitive analysis document with opportunities."
+        domains: [competitive-intelligence, marketing-strategy]
+        source_id: "FK-OT"
+        source_week: "Week 1"
+
+      - id: "FW-FK-049"
+        title: "IBB Content Framework"
+        description: "Three-part content structure for all platforms: Intro (10-15 sec pattern interrupt -- bold claim, question, or shocking statement). Body (1-2 min of genuine value -- teach one thing, tell one story, or share one proof). Bridge (15-30 sec transition to CTA -- link, follow, or opt-in). Every piece of content follows this structure."
+        domains: [content-creation, content-marketing]
+        source_id: "FK-OT"
+        source_week: "Week 2"
+
+      - id: "FW-FK-050"
+        title: "Vortex Content Strategy Framework"
+        description: "Multi-platform content vortex: (1) Choose 3-5 core themes aligned with your offer. (2) Create 1 long-form piece per week (YouTube/podcast). (3) Chop into 10-15 short-form pieces. (4) Distribute across all platforms daily. (5) Retarget all content consumers with direct offers. The vortex pulls prospects from casual awareness to purchase readiness."
+        domains: [content-marketing, audience-building]
+        source_id: "FK-OT"
+        source_week: "Week 2"
+
+      - id: "FW-FK-051"
+        title: "Three Pillars Content Calendar Framework"
+        description: "Weekly content calendar built on three pillars: Monday/Wednesday = Teach (educational content that demonstrates expertise). Tuesday/Thursday = Story (personal or client stories that build connection). Friday = Offer (direct promotion with CTA). Weekend = Engagement (reposts, Q&A, behind-the-scenes). Rotate consistently."
+        domains: [content-creation, content-marketing]
+        source_id: "FK-OT"
+        source_week: "Week 2"
+
+      - id: "FW-FK-052"
+        title: "Episodic Ad Campaign Framework"
+        description: "Sequential ad campaign structure: Episode 1 (shown to cold): Problem identification + story hook. Episode 2 (shown to Ep1 viewers): Deeper problem exploration + solution tease. Episode 3 (shown to Ep2 viewers): Solution reveal + proof. Episode 4 (shown to Ep3 viewers): Direct offer + urgency. Each episode filters and warms the audience."
+        domains: [youtube-advertising, campaign-architecture]
+        source_id: "FK-OT"
+        source_week: "Week 2"
+
+      - id: "FW-FK-053"
+        title: "Phone-as-TV Programming Framework"
+        description: "Treat your social media presence like a TV channel: (1) Define your 'show' (recurring content series). (2) Set a schedule (same time, same format). (3) Create episode arcs (multi-part content). (4) Include 'commercial breaks' (promotional content). (5) Build viewer loyalty through consistency. Your audience tunes in like they tune into their favorite show."
+        domains: [content-marketing, audience-building]
+        source_id: "FK-OT"
+        source_week: "Week 2"
+
+      - id: "FW-FK-054"
+        title: "Google Full-Funnel Advertising Framework"
+        description: "Google's beginning-and-end framework: Top of funnel = YouTube discovery ads (awareness). Middle = YouTube in-stream ads (consideration). Bottom = Google Search ads (intent capture). Retargeting = Display Network + YouTube remarketing. Running all four layers creates a closed-loop system where you influence every stage of the buyer's journey."
+        domains: [youtube-advertising, paid-advertising]
+        source_id: "FK-OT"
+        source_week: "Week 2"
+
+      - id: "FW-FK-055"
+        title: "Content Batching Production Framework"
+        description: "Monthly content production workflow: Week 1, Day 1: Script/outline 15 content pieces (1 hour). Week 1, Day 2: Batch record all 15 (1 hour). Week 2: Edit, caption, thumbnail (outsource). Week 3-4: Schedule and distribute. Output: 15 pieces = 3 weeks of daily content from 2 hours of creator time."
+        domains: [content-creation, content-marketing]
+        source_id: "FK-OT"
+        source_week: "Week 2"
+
+      - id: "FW-FK-056"
+        title: "Yeah-Buts and What-Ifs Handling Framework"
+        description: "Objection resolution framework: (1) List all 'Yeah-Buts' (logical objections to the offer). (2) For each Yeah-But, create a proof element (testimonial, case study, data). (3) List all 'What-Ifs' (emotional fears about outcomes). (4) For each What-If, create a safety element (guarantee, refund, support). (5) Address Yeah-Buts in sales copy. (6) Address What-Ifs in follow-up sequences."
+        domains: [selling-psychology, copywriting]
+        source_id: "FK-OT"
+        source_week: "Week 2"
+
+      - id: "FW-FK-057"
+        title: "Filtration Copy Framework"
+        description: "Write copy that filters: (1) Open with a specific scenario only your ideal prospect relates to. (2) Use insider language/jargon your market uses. (3) Include a 'this is NOT for you if' section. (4) Make the CTA require commitment (application, not just click). (5) Price as a filter (high enough to repel bargain hunters). Each layer filters out wrong-fit prospects."
+        domains: [copywriting, audience-targeting]
+        source_id: "FK-OT"
+        source_week: "Week 3"
+
+      - id: "FW-FK-058"
+        title: "Assembly Line Long-Form Copy Framework"
+        description: "12-section long-form copy structure: (1) Headline (attention). (2) Lead/Opening (hook). (3) Problem identification (empathy). (4) Agitation (urgency). (5) Credibility (why listen to you). (6) Solution introduction (hope). (7) Benefits deep-dive (desire). (8) Proof stack (belief). (9) Offer stack (value). (10) Price reveal + anchor (deal). (11) Guarantee (risk reversal). (12) Close + urgency (action). Each section has one job."
+        domains: [copywriting, sales-process-design]
+        source_id: "FK-OT"
+        source_week: "Week 3"
+
+      - id: "FW-FK-059"
+        title: "Billion Dollar VSL Framework"
+        description: "The Billion Dollar VSL structure: (1) Pattern Interrupt opening (5 sec). (2) Core Promise (30 sec). (3) Credibility establishment (2 min). (4) Problem Identification + Agitation (5 min). (5) Common Mistakes (3 min). (6) Solution Introduction (5 min). (7) Mechanism Explanation (5 min). (8) Benefits/Bullets (5 min). (9) Proof Stack (10 min). (10) Offer Stack (5 min). (11) Price Anchor + Reveal (3 min). (12) Guarantee + Close with urgency (5 min). Total: 45-90 min."
+        domains: [copywriting, sales-process-design]
+        source_id: "FK-OT"
+        source_week: "Week 3"
+
+      - id: "FW-FK-060"
+        title: "Double Tap Campaign Framework"
+        description: "Two-pronged campaign architecture: Prong 1 (Content Touch): Run value-based content (webinar, training, video series) to a cold/warm audience. Wait 48 hours. Prong 2 (Direct Touch): Hit the same audience with direct sales copy (VSL, sales page, deadline sequence). Track which prong each buyer came from. Typically 60% buy from Prong 2, 40% from Prong 1."
+        domains: [campaign-architecture, sales-funnels]
+        source_id: "FK-OT"
+        source_week: "Week 3"
+
+      - id: "FW-FK-061"
+        title: "Dog Whistle Copy Framework"
+        description: "Writing copy that only your ideal prospect understands: (1) Identify insider terms your market uses. (2) Reference specific scenarios only they experience. (3) Use numbers and metrics specific to their world. (4) Reference tools, platforms, or processes they use. (5) Include industry in-jokes or frustrations. Test: show to 10 people outside your market -- if 8+ are confused, it's working."
+        domains: [copywriting, audience-targeting]
+        source_id: "FK-OT"
+        source_week: "Week 3"
+
+      - id: "FW-FK-062"
+        title: "Damaging Admission Framework"
+        description: "Strategic honesty in sales copy: (1) Identify the biggest weakness or limitation of your offer. (2) State it clearly and early (first 500 words). (3) Explain why it exists (builds understanding). (4) Show how you compensate for it (turns weakness to strength). (5) Transition to strengths (contrast effect). The admission makes all subsequent claims more believable."
+        domains: [copywriting-philosophy, sales-process-design]
+        source_id: "FK-OT"
+        source_week: "Week 3"
+
+      - id: "FW-FK-063"
+        title: "Price Anchoring Stack Framework"
+        description: "Build value before price reveal: (1) List main offer components with individual values. (2) Stack bonuses with individual values. (3) Total the 'real value' (should be 10x+ asking price). (4) Cross out the high price. (5) Reveal the actual price. (6) Immediately follow with guarantee. (7) Add urgency element. The gap between stacked value and actual price makes the decision feel like theft."
+        domains: [pricing-psychology, offer-strategy]
+        source_id: "FK-OT"
+        source_week: "Week 3"
+
+      - id: "FW-FK-064"
+        title: "Open Loop Email Framework"
+        description: "Email engagement through incomplete stories: (1) Start with a compelling story or scenario. (2) Build tension and curiosity. (3) At the peak of tension, say 'I'll tell you the rest when you click here.' (4) The click goes to the sales page where the story concludes. (5) The conclusion naturally leads into the offer. The open loop creates irresistible click-through."
+        domains: [email-marketing, copywriting]
+        source_id: "FK-OT"
+        source_week: "Week 3"
+
+      - id: "FW-FK-065"
+        title: "Proof Stack Architecture Framework"
+        description: "5-layer proof architecture: Layer 1: Personal story (your own transformation). Layer 2: Client testimonials (written, preferably video). Layer 3: Case studies (specific numbers and timelines). Layer 4: Screenshots/evidence (dashboards, bank statements, analytics). Layer 5: Third-party validation (press, certifications, endorsements). Stack all 5 layers in order for maximum credibility."
+        domains: [copywriting, irresistible-offers]
+        source_id: "FK-OT"
+        source_week: "Week 3"
+
+      - id: "FW-FK-066"
+        title: "Identity Shift Selling Framework"
+        description: "Sell the identity, not the product: (1) Define who the prospect IS right now (current identity). (2) Define who they WANT to be (aspirational identity). (3) Show the gap between current and aspirational. (4) Position your product as the bridge. (5) Use 'you are' and 'you become' language. (6) Show proof of others who made the identity shift. The product is just the vehicle for becoming someone new."
+        domains: [selling-psychology, offer-strategy]
+        source_id: "FK-OT"
+        source_week: "Week 4"
+
+      - id: "FW-FK-067"
+        title: "Mr. Nice Guy Selling Framework"
+        description: "Non-aggressive selling process: (1) Deliver genuine value upfront (content, training, advice). (2) Build relationship through consistent helpfulness. (3) At natural transition point, casually introduce your offer. (4) Frame as 'here's what I have if you want help.' (5) No pressure, no urgency tricks, no manipulation. (6) Follow up once, then let it go. Works best with warm audiences who already trust you."
+        domains: [sales-process-design, selling-psychology]
+        source_id: "FK-OT"
+        source_week: "Week 4"
+
+      - id: "FW-FK-068"
+        title: "Greased Chute Funnel Framework"
+        description: "Zero-friction buying process: (1) Ad → simple landing page (one CTA). (2) Landing page → order form (pre-populated if possible). (3) Order form → one-click bump offer. (4) Purchase → one-click upsell page. (5) Maximum 3 clicks from ad to purchase. (6) No unnecessary pages, no navigation menus, no distractions. Every element slides the prospect toward purchase."
+        domains: [sales-funnels, conversion-tracking]
+        source_id: "FK-OT"
+        source_week: "Week 4"
+
+      - id: "FW-FK-069"
+        title: "Upsell Architecture Framework"
+        description: "Post-purchase upsell structure: Main purchase → Order form bump (30-50% of main price, related accessory). → Upsell 1 (complementary product, premium version). → Upsell 2 (VIP/coaching, highest price point). → Downsell (if Upsell 1 declined, offer lighter version). Maximum 2 upsells + 1 downsell. Each upsell page takes under 60 seconds to consume."
+        domains: [monetization, sales-funnels]
+        source_id: "FK-OT"
+        source_week: "Week 4"
+
+      - id: "FW-FK-070"
+        title: "Email Deadline Stack Framework"
+        description: "5-day promotional email sequence: Day 1 (2 emails): Announcement + story/proof. Day 2 (2 emails): Benefits deep-dive + FAQ. Day 3 (2 emails): Testimonial spotlight + objection handling. Day 4 (2 emails): Urgency building + scarcity. Day 5 (6 emails): Last chance at 8AM, 10AM, 12PM, 9PM, 10PM, 11PM. Total: 14 emails in 5 days. Real deadline expires at midnight Day 5."
+        domains: [email-marketing, deadline-sequences]
+        source_id: "FK-OT"
+        source_week: "Week 4"
+
+      - id: "FW-FK-071"
+        title: "Buyer Segmentation Email Framework"
+        description: "Post-purchase email segmentation: Segment A (new buyers): 7-day onboarding → quick win → upsell offer. Segment B (upsell buyers): Premium support → exclusive content → coaching offer. Segment C (declined upsell): Value sequence → re-offer upsell at different angle. Segment D (inactive buyers): Re-engagement → survey → personalized offer. Each segment gets completely different email sequences."
+        domains: [email-marketing, sales-funnels]
+        source_id: "FK-OT"
+        source_week: "Week 4"
+
+      - id: "FW-FK-072"
+        title: "Two Categories Close Framework"
+        description: "Closing framework based on buyer type: For impulse buyers: Stack urgency + limited availability + fast-action bonus. Short decision window. Single page, minimal copy, strong CTA. For deliberate buyers: Stack proof + detailed explanation + guarantee. Extended decision window. Long-form, comprehensive, FAQ-heavy. Identify which type your prospect is and serve the matching close."
+        domains: [selling-psychology, sales-process-design]
+        source_id: "FK-OT"
+        source_week: "Week 4"
+
+      - id: "FW-FK-073"
+        title: "Blue Ocean B&M Consulting Framework"
+        description: "Entering brick-and-mortar consulting: (1) Pick a niche vertical (dentists, restaurants, gyms). (2) Audit their current digital presence (usually terrible). (3) Offer a free SANDOR diagnostic. (4) Prescribe one digital marketing improvement. (5) Implement it for them on retainer. (6) Use results as case study for next client in same vertical. (7) Scale to 10 clients in one vertical before expanding."
+        domains: [consulting-methodology, competitive-intelligence]
+        source_id: "FK-OT"
+        source_week: "Week 4"
+
+      - id: "FW-FK-074"
+        title: "Solve-the-Problem-Purchase-Creates Framework"
+        description: "Product ladder based on created problems: Product 1 teaches the strategy → Product 2 provides implementation tools → Product 3 offers done-for-you implementation → Product 4 provides ongoing optimization/coaching. Each product solves the problem created by the previous purchase. The ladder is self-generating."
+        domains: [offer-strategy, monetization]
+        source_id: "FK-OT"
+        source_week: "Week 4"
+
+      - id: "FW-FK-075"
+        title: "4DCM Content Production Framework"
+        description: "4-Day Content Machine: Day 1: Plan and outline 12-15 pieces based on 3-5 core themes. Day 2: Batch record all pieces (phone, no editing). Day 3: Outsource editing, captions, thumbnails. Day 4: Schedule across all platforms for next 2-3 weeks. Repeat twice per month. Output: 24-30 pieces from 4 hours of creator time per month."
+        domains: [content-creation, content-marketing]
+        source_id: "FK-OT"
+        source_week: "Week 5"
+
+      - id: "FW-FK-076"
+        title: "YouTube Content Ad Framework"
+        description: "YouTube content ads (omnipresence): Structure: (1) Hook that qualifies viewer (5 sec). (2) Valuable teaching content (3-10 min). (3) Soft CTA (subscribe, visit site). Targeting: interest-based + custom intent + competitor channels. Budget: 20% of total ad spend. Metric: view rate 25%+. Purpose: build retargetable audience and brand search volume."
+        domains: [youtube-advertising, content-marketing]
+        source_id: "FK-OT"
+        source_week: "Week 5"
+
+      - id: "FW-FK-077"
+        title: "Redneck Analytics Dashboard Framework"
+        description: "Simple tracking dashboard: Track daily: (1) Total ad spend, (2) Total revenue, (3) Net (revenue minus spend). Track weekly: (4) Cost per lead, (5) Cost per customer, (6) Revenue per customer. Track monthly: (7) 30-day ROAS, (8) Customer lifetime value. Use a spreadsheet, not complex software. If it can't fit on one screen, it's too complex."
+        domains: [financial-metrics, advertising-economics]
+        source_id: "FK-OT"
+        source_week: "Week 5"
+
+      - id: "FW-FK-078"
+        title: "22-Day Attribution Framework"
+        description: "Campaign evaluation framework: Day 1-3: Ignore performance data (too early). Day 4-7: Check basic metrics (CTR, CPL). Day 7-14: Evaluate front-end ROI. Day 14-22: Evaluate total ROI including backend. Day 22+: Make scaling/killing decision. Never kill a campaign before Day 7. Never scale before Day 14. The 22-day cycle captures the full buying window."
+        domains: [advertising-economics, campaign-architecture]
+        source_id: "FK-OT"
+        source_week: "Week 5"
+
+      - id: "FW-FK-079"
+        title: "Click-Countdown Dual-Phase Campaign Framework"
+        description: "Phase 1 (Click Phase, 7-14 days): Run content ads + lead magnets to build engaged audience. Goal: accumulate clicks, views, opt-ins. No selling. Phase 2 (Countdown Phase, 5 days): Hit engaged audience with deadline promotion (email + retargeting). Full deadline stack. Real expiration. Then: Reset and repeat. This creates predictable promotional cycles."
+        domains: [campaign-architecture, email-marketing]
+        source_id: "FK-OT"
+        source_week: "Bonus"
+
+      - id: "FW-FK-080"
+        title: "Behavioral Trigger Automation Framework"
+        description: "Automated responses to behavioral signals: Click link → move to accelerated sequence. Visit sales page → trigger retargeting. Start checkout → cart abandonment emails (3 emails over 48 hours). Watch 75%+ of video → offer-specific retargeting. Open but don't click → resend with different subject. No open in 30 days → re-engagement sequence. Each behavior triggers a specific automated response."
+        domains: [behavioral-marketing, super-systems]
+        source_id: "FK-OT"
+        source_week: "Bonus"
+
+      - id: "FW-FK-081"
+        title: "Sequential Campaign TV Series Framework"
+        description: "Run ads like a TV series: Episode 1 (broad targeting): Problem awareness + story hook. Episode 2 (retarget Ep1 50%+ viewers): Deeper exploration + solution tease. Episode 3 (retarget Ep2 50%+ viewers): Solution + proof. Episode 4 (retarget Ep3 50%+ viewers): Offer + urgency. Episode 5 (retarget non-buyers): Testimonial + deadline. Budget allocation: 40% Ep1, 25% Ep2, 20% Ep3, 10% Ep4, 5% Ep5."
+        domains: [campaign-architecture, youtube-advertising]
+        source_id: "FK-OT"
+        source_week: "Week 6"
+
+      - id: "FW-FK-082"
+        title: "Super System Campaign Rotation Framework"
+        description: "Monthly super system maintenance: Week 1: Audit all active campaigns (which are running, which expired). Week 2: Create fresh campaigns to replace expired ones. Week 3: Launch new campaigns + monitor existing. Week 4: Review 30-day performance, kill underperformers, scale winners. The system should always have 3-5 active campaigns running simultaneously."
+        domains: [super-systems, campaign-architecture]
+        source_id: "FK-OT"
+        source_week: "Bonus"
+
+      - id: "FW-FK-083"
+        title: "Diagnostic Funnel Framework"
+        description: "Qualification funnel structure: (1) Ad targeting broad audience. (2) Landing page with 3-5 qualifying questions (quiz format). (3) Based on answers, route to Segment A (good fit → direct offer), Segment B (medium fit → nurture sequence), or Segment C (poor fit → free resource + exit). This pre-qualifies before the sales conversation and increases close rates by 2-3x."
+        domains: [sales-funnels, diagnostics]
+        source_id: "FK-OT"
+        source_week: "Week 6"
+
+      - id: "FW-FK-084"
+        title: "Dog Whistle Ad Copy Framework"
+        description: "Writing ads only your ideal prospect recognizes: (1) Open with an insider scenario: 'When your ROAS drops below 2x and you can't figure out why...' (2) Use market-specific jargon naturally. (3) Reference specific tools they use. (4) Include metrics only they track. (5) CTA is specific: 'Download the audit template' not 'Learn more.' (6) Test: if a general audience doesn't understand the ad, it's perfect."
+        domains: [ad-copywriting, audience-targeting]
+        source_id: "FK-AMM"
+        source_day: "Day 1"
+
+      - id: "FW-FK-085"
+        title: "Results in Advance Ad Framework"
+        description: "Ad structure that delivers value first: (1) Hook: identify the viewer's problem (10 sec). (2) Teach: give one specific, actionable tactic they can use today (2-3 min). (3) Prove: show results from using this tactic (screenshots, case study). (4) Bridge: 'This is just one tactic from my full system...' (5) Offer: clear CTA. The ad itself creates a micro-transformation that makes the full product irresistible."
+        domains: [ad-copywriting, content-marketing]
+        source_id: "FK-AMM"
+        source_day: "Day 1"
+
+      - id: "FW-FK-086"
+        title: "FAQ Bridge Strategy Framework"
+        description: "Ad structure built on real objections: (1) Open: 'People always ask me...' (2) FAQ 1: Address biggest objection (usually price or time). (3) FAQ 2: Address trust objection (does it really work?). (4) FAQ 3: Address uniqueness objection (how is this different?). (5) Each FAQ answer includes a mini proof element. (6) Close with 'Now that you know the truth...' + CTA. Preemptive objection handling in ad format."
+        domains: [ad-copywriting, selling-psychology]
+        source_id: "FK-AMM"
+        source_day: "Day 1"
+
+      - id: "FW-FK-087"
+        title: "Break-Even Front End Framework"
+        description: "Design front-end for zero profit: (1) Calculate your average CPA. (2) Design front-end offer priced at CPA (break even). (3) Add order bump to generate small profit. (4) Backend offers generate the real profit (30-60 day window). (5) Reinvest all front-end revenue into ads. (6) Competitor analysis: if competitors profit on front-end, you can outspend them indefinitely by breaking even."
+        domains: [loss-leader-funnels, advertising-economics]
+        source_id: "FK-AMM"
+        source_day: "Day 2"
+
+      - id: "FW-FK-088"
+        title: "Ocean Pockets Discovery Framework"
+        description: "Finding high-response audience segments: (1) List 20 interests/behaviors related to your market. (2) Create 10 ad sets, each targeting 2 related interests. (3) Run identical creative across all 10 at $10/day each. (4) After 72 hours, rank by CPA. (5) Kill bottom 7, scale top 3. (6) Within top 3, test narrowing (add demographics, behaviors). (7) Within winning pockets, test lookalikes of converters."
+        domains: [audience-targeting, facebook-ads]
+        source_id: "FK-AMM"
+        source_day: "Day 2"
+
+      - id: "FW-FK-089"
+        title: "Multiple Objective Retargeting Framework"
+        description: "Retargeting with purpose: Tier 1 (cart abandoners): Direct offer reminder + urgency. Budget: 40%. Tier 2 (page visitors): Social proof ads (testimonials, case studies). Budget: 30%. Tier 3 (content engagers): Objection-handling ads (FAQ, myths, concerns). Budget: 20%. Tier 4 (email list): Announcement and deadline ads. Budget: 10%. Each tier serves a different psychological need in the decision process."
+        domains: [retargeting, campaign-architecture]
+        source_id: "FK-AMM"
+        source_day: "Day 3"
+
+      - id: "FW-FK-090"
+        title: "Ad Automation Rules Framework"
+        description: "Automated campaign management rules: Rule 1: If CPA < target for 3 days → increase budget 20%. Rule 2: If CPA > 2x target for 2 days → decrease budget 30%. Rule 3: If frequency > 3.0 → pause ad set. Rule 4: If CTR < 1% after $50 spend → pause ad. Rule 5: If no conversions after $100 spend → pause ad set. Rule 6: If ROAS > 3x for 7 days → duplicate to new audience. Set in Facebook Automated Rules."
+        domains: [ad-automation, scaling]
+        source_id: "FK-AMM"
+        source_day: "Day 3"
+
+      - id: "FW-FK-091"
+        title: "Advertising as Consulting Framework"
+        description: "Structure ads like consulting sessions: (1) Open with diagnostic question: 'Are you experiencing [symptom]?' (2) Identify root cause: 'The reason is usually [diagnosis].' (3) Prescribe solution: 'Here's what to do about it [3-step fix].' (4) Demonstrate: show proof the fix works. (5) Offer: 'If you want help implementing this at scale, here's my program.' The ad delivers a complete SANDOR mini-cycle."
+        domains: [ad-copywriting, consulting-methodology]
+        source_id: "FK-AMM"
+        source_day: "Day 3"
+
+      - id: "FW-FK-092"
+        title: "Machine Learning Leverage Framework"
+        description: "Maximizing algorithm performance: (1) Start broad (minimal targeting constraints). (2) Use strong creative that naturally filters (dog whistle). (3) Optimize for deepest-funnel event with enough volume (50+ per week). (4) Feed conversion data back consistently. (5) Don't change targeting for 7 days after launch. (6) Let the machine find pockets you'd never think to target. (7) Use lookalikes of converters only after 500+ conversions."
+        domains: [paid-media, facebook-ads]
+        source_id: "FK-AMM"
+        source_day: "Day 1"
+
+      - id: "FW-FK-093"
+        title: "Restaurant Proximity Positioning Framework"
+        description: "Position your offer near existing demand: (1) Identify competitors with large, engaged audiences. (2) Target those audiences directly (competitor targeting, similar interests). (3) Show a 'similar but better' offer. (4) Use the competitor's audience education to your advantage (they already understand the problem). (5) Differentiate on one clear axis (faster results, better support, lower price, better guarantee). Don't create demand -- redirect existing demand."
+        domains: [competitive-intelligence, audience-targeting]
+        source_id: "FK-AMM"
+        source_day: "Day 2"
+
 
   L5_METHODOLOGIES:
       - id: "MET-FK-001"
@@ -1943,4 +3503,214 @@ layers:
         domains: [consulting-methodology, high-ticket-sales]
         source_id: "FK-RC"
         source_week: "Week 10"
+
+      - id: "MET-FK-039"
+        title: "Competitive Intelligence Audit Protocol"
+        description: "Step 1: Open Facebook Ad Library and search top 5 competitors. Step 2: Screenshot all active ads, sort by longest-running (60+ days = proven winners). Step 3: Click each ad and map the full funnel (landing page → opt-in → email → sales page → checkout). Step 4: Subscribe to each competitor's email list with a dedicated email. Step 5: Track their email sequences for 14 days (frequency, offers, deadlines). Step 6: Document all findings in a competitive analysis spreadsheet. Step 7: Identify 3 gaps or angles competitors are not exploiting. Step 8: Design your campaigns to exploit these gaps."
+        domains: [competitive-intelligence, marketing-strategy]
+        source_id: "FK-OT"
+        source_week: "Week 1"
+
+      - id: "MET-FK-040"
+        title: "IBB Content Creation Protocol"
+        description: "Step 1: Choose one of your 3-5 core themes. Step 2: Write a one-sentence hook (pattern interrupt or bold claim) -- this is the Intro. Step 3: Outline 1-2 minutes of genuine value -- teach one specific thing, share one relevant story, or present one piece of proof. This is the Body. Step 4: Write a 15-30 second Bridge transition to your CTA. Step 5: Record on phone (selfie mode, natural lighting, no script -- just outline). Step 6: Keep total under 3 minutes for social, under 10 for YouTube. Step 7: Post with caption that restates the hook."
+        domains: [content-creation, content-marketing]
+        source_id: "FK-OT"
+        source_week: "Week 2"
+
+      - id: "MET-FK-041"
+        title: "Content Batching Recording Protocol"
+        description: "Step 1: Block 60 minutes on calendar (no interruptions). Step 2: List 12-15 content topics from your 3-5 core themes. Step 3: Write one-line hook for each. Step 4: Set up phone on tripod (selfie mode, good lighting, clean background). Step 5: Record each piece back-to-back -- no breaks, no re-takes, no editing between. Step 6: Each piece follows IBB: hook → value → CTA. Step 7: Target 1-3 minutes per piece. Step 8: Send all files to editor for captions and thumbnails. Output: 2-3 weeks of daily content from one hour."
+        domains: [content-creation, content-marketing]
+        source_id: "FK-OT"
+        source_week: "Week 2"
+
+      - id: "MET-FK-042"
+        title: "Vortex Audience Building Protocol"
+        description: "Step 1: Create custom audiences for all content consumers (video viewers 50%+, page visitors, post engagers) across all platforms. Step 2: Post daily content following Three Pillars calendar. Step 3: Boost top-performing organic posts to lookalike audiences ($10-20/day). Step 4: Run dedicated content ads to cold audiences (20% of ad budget). Step 5: Build retargeting audiences from all content consumers. Step 6: Hit retargeting audiences with direct offers. Step 7: Measure type-in traffic and brand search volume monthly -- should increase proportionally with content spend."
+        domains: [audience-building, content-marketing]
+        source_id: "FK-OT"
+        source_week: "Week 2"
+
+      - id: "MET-FK-043"
+        title: "Episodic Ad Campaign Launch Protocol"
+        description: "Step 1: Write 4 ad scripts following episode arc (Ep1: problem, Ep2: exploration, Ep3: solution+proof, Ep4: offer). Step 2: Record all 4 episodes in one session (IBB format each). Step 3: Launch Ep1 to cold audience ($50-100/day). Step 4: After 72 hours, create custom audience of 50%+ viewers. Step 5: Launch Ep2 to Ep1 viewers only. Step 6: Repeat cascade for Ep3 and Ep4. Step 7: Track cost per completed episode and cost per conversion. Step 8: Refresh episodes monthly."
+        domains: [youtube-advertising, campaign-architecture]
+        source_id: "FK-OT"
+        source_week: "Week 2"
+
+      - id: "MET-FK-044"
+        title: "Yeah-Buts/What-Ifs Research Protocol"
+        description: "Step 1: Survey 20-50 prospects or past leads who didn't buy. Ask: 'What stopped you from purchasing?' Step 2: Categorize responses into Yeah-Buts (logical objections) and What-Ifs (emotional fears). Step 3: Rank by frequency. Step 4: For top 5 Yeah-Buts, create proof elements (testimonials, data, case studies). Step 5: For top 5 What-Ifs, create safety elements (guarantees, support commitments, risk reversal). Step 6: Integrate Yeah-But proof into sales copy. Step 7: Integrate What-If safety into follow-up emails and retargeting ads."
+        domains: [selling-psychology, copywriting]
+        source_id: "FK-OT"
+        source_week: "Week 2"
+
+      - id: "MET-FK-045"
+        title: "Google Full-Funnel Campaign Setup Protocol"
+        description: "Step 1: Create YouTube channel and link to Google Ads. Step 2: Set up conversion tracking (purchase, lead, phone call). Step 3: Campaign 1 -- YouTube Discovery (awareness): target broad interests, $30/day. Step 4: Campaign 2 -- YouTube In-Stream (consideration): target custom intent audiences, $30/day. Step 5: Campaign 3 -- Google Search (intent capture): target brand + competitor + problem keywords, $40/day. Step 6: Campaign 4 -- Display Remarketing: target all site visitors + video viewers, $20/day. Step 7: Review all 4 campaigns weekly. Step 8: Scale campaigns individually based on CPA."
+        domains: [youtube-advertising, paid-advertising]
+        source_id: "FK-OT"
+        source_week: "Week 2"
+
+      - id: "MET-FK-046"
+        title: "Billion Dollar VSL Production Protocol"
+        description: "Step 1: Write the 12-section VSL script following the Billion Dollar framework (60-90 pages). Step 2: Record section by section (not all at once). Step 3: Use teleprompter for key sections (credibility, offer stack, close). Step 4: Speak naturally for story and problem sections (no teleprompter). Step 5: Film in simple setting (desk, bookshelf background). Step 6: Edit together with minimal graphics (text overlays for key points only). Step 7: Add background music (subtle, not distracting). Step 8: Create separate version with slides for automated webinar use. Step 9: Test with warm audience first ($500 ad spend). Step 10: If conversion rate > 1%, scale to cold traffic."
+        domains: [copywriting, sales-process-design]
+        source_id: "FK-OT"
+        source_week: "Week 3"
+
+      - id: "MET-FK-047"
+        title: "Double Tap Campaign Execution Protocol"
+        description: "Step 1: Create value-based content piece (webinar, training, or video series) -- this is Prong 1. Step 2: Launch Prong 1 to target audience (ads + email). Step 3: Wait exactly 48 hours after Prong 1 delivery. Step 4: Create direct sales copy (VSL, sales letter, or short offer page) -- this is Prong 2. Step 5: Launch Prong 2 to SAME audience via email + retargeting ads. Step 6: Run Prong 2 with 5-day deadline stack. Step 7: Track which prong each buyer came from. Step 8: Calculate total campaign ROI combining both prongs."
+        domains: [campaign-architecture, sales-funnels]
+        source_id: "FK-OT"
+        source_week: "Week 3"
+
+      - id: "MET-FK-048"
+        title: "Long-Form Sales Letter Writing Protocol"
+        description: "Step 1: Research -- read 50+ testimonials and customer conversations. Step 2: Write 25 headline variations (pick best 3 to test). Step 3: Write lead/opening using damaging admission or bold story. Step 4: Problem identification -- describe their pain in their exact words. Step 5: Agitation -- show consequences of not acting. Step 6: Credibility section -- your story + results. Step 7: Solution introduction + mechanism. Step 8: Benefits deep-dive (features translated to emotions). Step 9: Proof stack (5 types minimum). Step 10: Offer stack with individual values. Step 11: Price anchor → reveal. Step 12: Guarantee (specific, not generic). Step 13: Close with urgency. Step 14: Let it rest 24 hours, then edit ruthlessly."
+        domains: [copywriting, sales-process-design]
+        source_id: "FK-OT"
+        source_week: "Week 3"
+
+      - id: "MET-FK-049"
+        title: "Damaging Admission Copy Protocol"
+        description: "Step 1: List your offer's 3 biggest weaknesses or limitations. Step 2: Pick the one that's most obvious (prospects already suspect it). Step 3: Write a 2-3 paragraph section addressing it head-on within the first 500 words. Step 4: Explain WHY the limitation exists. Step 5: Show how you compensate for it (turn weakness into strength). Step 6: Transition immediately into your strongest proof. Step 7: The contrast between honesty and proof makes the proof 2-3x more believable."
+        domains: [copywriting-philosophy, sales-process-design]
+        source_id: "FK-OT"
+        source_week: "Week 3"
+
+      - id: "MET-FK-050"
+        title: "Price Anchoring Stack Protocol"
+        description: "Step 1: List every component of your offer (main product + all bonuses). Step 2: Assign a credible individual value to each component (what it would sell for standalone). Step 3: Present each component with its value on the sales page. Step 4: Show running total as you stack ('Total value so far: $12,847'). Step 5: Cross out the high total. Step 6: Reveal actual price (should be 5-10% of stacked value). Step 7: Immediately follow with guarantee. Step 8: Add urgency element (deadline, limited spots, price increase)."
+        domains: [pricing-psychology, offer-strategy]
+        source_id: "FK-OT"
+        source_week: "Week 3"
+
+      - id: "MET-FK-051"
+        title: "Identity Shift Selling Protocol"
+        description: "Step 1: Define current identity of your ideal prospect ('You're a consultant making $10K/month who knows you should be making $50K'). Step 2: Define aspirational identity ('You become the consultant who has clients coming to you'). Step 3: Describe the gap between the two in emotional terms. Step 4: Position your product as the bridge ('This is how you go from here to there'). Step 5: Use 'you become' language throughout copy. Step 6: Show 3+ examples of people who made the identity shift. Step 7: Make the purchase itself feel like the first act of the new identity."
+        domains: [selling-psychology, offer-strategy]
+        source_id: "FK-OT"
+        source_week: "Week 4"
+
+      - id: "MET-FK-052"
+        title: "Greased Chute Funnel Build Protocol"
+        description: "Step 1: Design landing page with single CTA button (no navigation, no menu, no distractions). Step 2: CTA goes directly to order form (pre-populate email if possible). Step 3: Order form has maximum 6 fields + bump offer checkbox. Step 4: Thank you page = Upsell 1 (one-click purchase, 60-second page). Step 5: If Upsell 1 accepted → Upsell 2. If declined → Downsell (lighter version). Step 6: Final thank you page with onboarding instructions. Step 7: Test entire path with 3 test purchases. Step 8: Target: 3 clicks or fewer from ad to purchase complete."
+        domains: [sales-funnels, conversion-tracking]
+        source_id: "FK-OT"
+        source_week: "Week 4"
+
+      - id: "MET-FK-053"
+        title: "Email Deadline Stack Execution Protocol"
+        description: "Setup: Create offer page with real deadline timer. Day 1: 8AM email (announcement + big promise). 12PM email (story + proof). Day 2: 8AM email (benefits deep-dive). 12PM email (FAQ + objection handling). Day 3: 8AM email (testimonial spotlight). 12PM email (stack the value). Day 4: 8AM email (urgency building). 12PM email (scarcity -- limited spots or bonuses expiring). Day 5: 8AM (last chance morning), 10AM (reminder), 12PM (countdown), 9PM (hours left), 10PM (final call), 11PM (literally closing). Total: 14 emails. Page truly expires at midnight."
+        domains: [email-marketing, deadline-sequences]
+        source_id: "FK-OT"
+        source_week: "Week 4"
+
+      - id: "MET-FK-054"
+        title: "Upsell Sequence Build Protocol"
+        description: "Step 1: Main offer purchase completes. Step 2: Immediately present Upsell 1 (complementary product, 60-second video + 3 bullets + yes/no buttons). Step 3: If YES → present Upsell 2 (premium/VIP, same format). Step 4: If Upsell 1 NO → present Downsell (lighter version at lower price, same format). Step 5: After upsell sequence → final thank you with onboarding. Step 6: Tag buyer in email system with all purchases. Step 7: Buyers who declined upsells get email offer for those products 14 days later (different angle). Step 8: Track upsell take rates -- target 20-30% for Upsell 1, 10-15% for Upsell 2."
+        domains: [monetization, sales-funnels]
+        source_id: "FK-OT"
+        source_week: "Week 4"
+
+      - id: "MET-FK-055"
+        title: "Buyer Segmentation Setup Protocol"
+        description: "Step 1: Create email tags for each purchase level (loss leader buyer, main offer buyer, upsell buyer, premium buyer). Step 2: Create 4 separate email sequences. Step 3: Loss leader buyers → 7-day onboarding → re-offer main product they declined. Step 4: Main offer buyers → onboarding → upsell offer at Day 14. Step 5: Upsell buyers → premium support content → coaching/VIP offer at Day 30. Step 6: Premium buyers → retention content → referral request at Day 60. Step 7: Non-purchasers who clicked → nurture sequence → re-offer in 30 days. Step 8: Review segment conversion rates monthly."
+        domains: [email-marketing, sales-funnels]
+        source_id: "FK-OT"
+        source_week: "Week 4"
+
+      - id: "MET-FK-056"
+        title: "Blue Ocean B&M Client Acquisition Protocol"
+        description: "Step 1: Pick one vertical (dentists, restaurants, gyms, etc.). Step 2: Run Facebook ads targeting business owners in that vertical within 50-mile radius. Step 3: Offer a free SANDOR diagnostic audit of their digital marketing. Step 4: Conduct 30-minute audit (check their Google listing, Facebook presence, reviews, website, email). Step 5: Present findings with specific revenue opportunities. Step 6: Offer to implement fixes on monthly retainer ($1,500-3,000/month). Step 7: Document results as case study. Step 8: Use case study in ads to acquire next client in same vertical. Step 9: Repeat until you have 10 clients. Step 10: Only then expand to second vertical."
+        domains: [consulting-methodology, client-acquisition]
+        source_id: "FK-OT"
+        source_week: "Week 4"
+
+      - id: "MET-FK-057"
+        title: "4DCM Weekly Execution Protocol"
+        description: "Monday (Day 1 -- Plan): Review analytics from previous week. Identify top-performing themes. Outline 12-15 new content pieces across 3-5 themes. Write one-line hook for each. Tuesday (Day 2 -- Record): Set up phone on tripod. Record all 12-15 pieces back-to-back (45-60 min total). Send files to editor. Wednesday (Day 3 -- Edit): Editor adds captions, thumbnails, and formatting. Review and approve. Thursday (Day 4 -- Schedule): Schedule all pieces across platforms for next 2-3 weeks. Set up any paid amplification for top pieces. Friday-Sunday: Engage with comments and track performance."
+        domains: [content-creation, content-marketing]
+        source_id: "FK-OT"
+        source_week: "Week 5"
+
+      - id: "MET-FK-058"
+        title: "YouTube Content Ad Launch Protocol"
+        description: "Step 1: Record 3-5 content ad videos (3-10 min each, IBB format, valuable teaching). Step 2: Upload to YouTube channel with optimized titles and thumbnails. Step 3: Create Google Ads campaign (Video -- Brand awareness and reach). Step 4: Set targeting: interest-based + custom intent + competitor channel subscribers. Step 5: Budget: start at $30/day across all ads. Step 6: After 7 days, check view rates -- keep ads above 25%, pause below. Step 7: Monitor brand search volume in Google Trends weekly. Step 8: Create retargeting audience from all viewers (25%+ and 50%+ tiers). Step 9: Use retargeting audience for direct response campaigns."
+        domains: [youtube-advertising, content-marketing]
+        source_id: "FK-OT"
+        source_week: "Week 5"
+
+      - id: "MET-FK-059"
+        title: "Redneck Analytics Weekly Review Protocol"
+        description: "Every Monday, 15 minutes: Step 1: Open spreadsheet. Step 2: Enter last week's total ad spend (all platforms). Step 3: Enter last week's total revenue (all sources). Step 4: Calculate net (revenue - spend). Step 5: Calculate ROAS (revenue / spend). Step 6: Enter cost per lead and cost per customer. Step 7: Compare to previous week (trending up or down?). Step 8: If net is positive and trending up → scale 20%. Step 9: If net is negative → diagnose (which campaign? which step?). Step 10: Update 30-day rolling ROAS. One screen, one spreadsheet, 15 minutes."
+        domains: [financial-metrics, advertising-economics]
+        source_id: "FK-OT"
+        source_week: "Week 5"
+
+      - id: "MET-FK-060"
+        title: "Click-Countdown Campaign Cycle Protocol"
+        description: "Phase 1 -- Click Phase (Days 1-10): Run content ads + lead magnets. Goal: build engaged email list and retargetable audience. No selling. Track leads acquired and content consumed. Phase 2 -- Countdown Phase (Days 11-15): Hit engaged audience with 5-day deadline stack (14 emails + retargeting ads). Real deadline expires at midnight Day 15. Phase 3 -- Reset (Days 16-17): Close offer, analyze results, plan next cycle. Day 18: Begin next Click Phase with fresh content angles. Repeat monthly for predictable revenue cycles."
+        domains: [campaign-architecture, email-marketing]
+        source_id: "FK-OT"
+        source_week: "Bonus"
+
+      - id: "MET-FK-061"
+        title: "Behavioral Trigger Automation Setup Protocol"
+        description: "Step 1: Map all behavioral events in your funnel (email open, click, page visit, video view, cart add, cart abandon, purchase). Step 2: For each event, define an automated response. Step 3: Email click → tag as 'interested' → move to accelerated offer sequence. Step 4: Sales page visit → add to retargeting Tier 1 → trigger cart abandonment sequence if no purchase in 2 hours. Step 5: 75%+ video view → tag as 'highly engaged' → direct offer email next day. Step 6: No email open in 30 days → move to re-engagement sequence (3 emails: 'miss you' + value + final offer). Step 7: Purchase → remove from all promotional sequences → add to buyer onboarding. Step 8: Test all automations with test contacts before going live."
+        domains: [behavioral-marketing, super-systems]
+        source_id: "FK-OT"
+        source_week: "Bonus"
+
+      - id: "MET-FK-062"
+        title: "Super System Monthly Maintenance Protocol"
+        description: "Week 1: Audit -- list all active automated campaigns and their performance (revenue, CPA, engagement). Flag any campaigns running more than 6 weeks without refresh. Week 2: Create -- build 2-3 fresh campaigns to replace flagged ones. New creative, new hooks, same proven offer structure. Week 3: Launch -- activate new campaigns, pause expired ones. Monitor daily for first 72 hours. Week 4: Optimize -- review all campaigns. Scale winners (20% budget increase). Pause losers (CPA > 2x target). Document results. Always maintain 3-5 active campaigns in rotation."
+        domains: [super-systems, campaign-architecture]
+        source_id: "FK-OT"
+        source_week: "Bonus"
+
+      - id: "MET-FK-063"
+        title: "Dog Whistle Ad Writing Protocol"
+        description: "Step 1: List 10 insider terms your ideal prospect uses daily (specific metrics, tools, frustrations). Step 2: Pick the most niche scenario only they experience. Step 3: Open the ad with that scenario: 'When your [insider term] does [insider thing]...' Step 4: Use their language throughout (not marketing speak). Step 5: Reference specific numbers from their world. Step 6: CTA is specific to their situation ('Download the [tool they'd actually use]'). Step 7: Test: show to 5 people outside your market -- if they're confused, you nailed it. Step 8: Run to broad audience -- the dog whistle will self-select."
+        domains: [ad-copywriting, audience-targeting]
+        source_id: "FK-AMM"
+        source_day: "Day 1"
+
+      - id: "MET-FK-064"
+        title: "Results in Advance Ad Creation Protocol"
+        description: "Step 1: Identify one specific, implementable tactic from your product. Step 2: Script a 3-5 minute ad that teaches that tactic completely (viewer can get a result from the ad alone). Step 3: Record with screen share or whiteboard (show, don't just tell). Step 4: Open with problem identification (10 sec). Step 5: Teach the tactic (2-3 min). Step 6: Show proof it works -- your results or client results (30 sec). Step 7: Bridge: 'This is just one of the 27 tactics in my full system...' Step 8: CTA: link to full product page. Step 9: Test 3 different opening hooks with same body."
+        domains: [ad-copywriting, content-marketing]
+        source_id: "FK-AMM"
+        source_day: "Day 1"
+
+      - id: "MET-FK-065"
+        title: "FAQ Bridge Ad Creation Protocol"
+        description: "Step 1: Collect top 5 questions/objections from prospects (survey, sales calls, comments). Step 2: Script the ad as a natural FAQ conversation. Step 3: Open: 'People always ask me these 3 questions...' Step 4: FAQ 1 (biggest objection) -- answer + mini-proof. Step 5: FAQ 2 (trust objection) -- answer + testimonial reference. Step 6: FAQ 3 (uniqueness objection) -- answer + differentiation. Step 7: Transition: 'Now that you know the truth about [topic]...' Step 8: CTA. Step 9: Keep total under 5 minutes. Step 10: Test: if prospects on sales calls stop asking these questions, the ad is doing its job."
+        domains: [ad-copywriting, selling-psychology]
+        source_id: "FK-AMM"
+        source_day: "Day 1"
+
+      - id: "MET-FK-066"
+        title: "Ocean Pockets Discovery Protocol"
+        description: "Step 1: Brainstorm 20 interest-based audiences related to your market (competitors, tools, influencers, topics). Step 2: Create 10 ad sets, each combining 2 related interests. Step 3: Use identical proven ad creative across all 10. Step 4: Set each to $10/day ($100/day total). Step 5: Run for 72 hours without touching. Step 6: After 72 hours, rank all 10 by CPA. Step 7: Kill bottom 7 ad sets. Step 8: Increase top 3 to $30/day each. Step 9: Within winning ad sets, test narrowing with demographics or behaviors. Step 10: Create lookalike audiences from converters in top ad sets (500+ conversions ideal)."
+        domains: [audience-targeting, facebook-ads]
+        source_id: "FK-AMM"
+        source_day: "Day 2"
+
+      - id: "MET-FK-067"
+        title: "Multiple Objective Retargeting Setup Protocol"
+        description: "Step 1: Create 4 retargeting audiences: (A) Cart abandoners, (B) Sales page visitors, (C) Content engagers (50%+ video viewers), (D) Email list. Step 2: Create ad sets for each audience with different creative: (A) Direct offer reminder + urgency, (B) Social proof testimonial ads, (C) Objection-handling FAQ ads, (D) Announcement + deadline ads. Step 3: Budget allocation: A=40%, B=30%, C=20%, D=10%. Step 4: Launch all four simultaneously. Step 5: Review weekly -- adjust budget toward highest-converting objective. Step 6: Refresh creative every 2 weeks to prevent fatigue. Step 7: Track CPA by retargeting tier separately."
+        domains: [retargeting, campaign-architecture]
+        source_id: "FK-AMM"
+        source_day: "Day 3"
+
+      - id: "MET-FK-068"
+        title: "Ad Automation Rules Setup Protocol"
+        description: "Step 1: In Facebook Ads Manager, go to Automated Rules. Step 2: Create Rule 1 (Scale Winners): If CPA < target AND spend > $50 for 3 consecutive days → increase daily budget by 20%. Step 3: Create Rule 2 (Cut Losers): If CPA > 2x target for 2 consecutive days → decrease daily budget by 30%. Step 4: Create Rule 3 (Fatigue Alert): If frequency > 3.0 → send notification + pause ad set. Step 5: Create Rule 4 (Dead Ad): If no conversions after $100 spend → pause ad. Step 6: Create Rule 5 (Scale Aggressively): If ROAS > 3x for 7 consecutive days → duplicate ad set to new campaign with 2x budget. Step 7: Review automated actions weekly. Step 8: Adjust rule thresholds quarterly based on performance trends."
+        domains: [ad-automation, scaling]
+        source_id: "FK-AMM"
+        source_day: "Day 3"
 

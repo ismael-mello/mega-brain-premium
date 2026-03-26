@@ -13,13 +13,29 @@
 # ═══════════════════════════════════════════════════════════════════════════════
 
 dominio: "storytelling"
-versao: "9.0.0"  # OK Robert Cialdini case-study-methodology added
+versao: "10.0.0"  # Vinh Giang Stage Academy added — vocal storytelling, 4 Chemical Framework, 3-Step Formula, VAKS, Storytelling Library
 data_criacao: "2026-03-11"
-ultima_atualizacao: "2026-03-22"
-total_elementos: 668
+ultima_atualizacao: "2026-03-25"
+total_elementos: 718
 peso_global: 0.70
 
 fontes_consolidadas:
+  - fonte: "vinh-giang-sa"
+    path: "knowledge/external/dna/persons/vinh-giang/"
+    raw_path: "knowledge/external/sources/vinh-giang/raw/stage-academy/"
+    peso_dominio: 0.85
+    elementos_contribuidos: 50
+    especialidade: "Vocal storytelling, 4 Chemical Framework (Dopamine/Oxytocin/Endorphins/Cortisol), 3-Step Storytelling Formula (Incident+VAKS→Transformation→Life Lesson), VAKS sensory color system, Storytelling Library Method, story linking, reporting vs reliving, character embodiment through voice+body"
+    tipo_fonte: "PRIMARY (direct from expert)"
+    key_frameworks:
+      - "4 Chemical Storytelling Framework (Dopamine, Oxytocin, Endorphins, Cortisol)"
+      - "3-Step Storytelling Formula (Incident → Transformation → Life Lesson)"
+      - "VAKS Color System (Visual, Auditory, Kinesthetic, Smell)"
+      - "Storytelling Library Method (categorize by theme, practice linking)"
+      - "Story Shortening Framework (tight incident, quick transformation)"
+      - "Reporting vs Reliving (characters alive with body+dialogue)"
+      - "4MAT Story Sequencing (why→what→how with connection bookends)"
+
   - fonte: "dan-kennedy-iww"
     path: "knowledge/external/dna/persons/dan-kennedy/"
     raw_path: "knowledge/external/sources/dan-kennedy/raw/influential-writing-workshop/"

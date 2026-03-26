@@ -1,7 +1,7 @@
 # MEMORY: COLE GORDON
 
-> **Atualizado:** 2026-03-02
-> **Versao:** 1.0.0
+> **Atualizado:** 2026-03-26
+> **Versao:** 2.0.0
 
 ---
 
@@ -17,18 +17,19 @@
 | Cole Gordon Marketing | BATCH-006 | Pipeline | 102 | Marketing positioning | 2026-01-04 |
 | Cole Gordon Masterminds | BATCH-007 | Pipeline | 71 | Mastermind sessions | 2026-01-04 |
 | Cole Gordon Podcasts | BATCH-008 | Pipeline | 67 | Podcast insights | 2026-01-04 |
+| Closers Into Leaders (CIL) | CIL-FULL | JARVIS Full Auto (Opus) | 334 files | 323 new DNA elements (9 modules + 118 calls, 9.4MB) | 2026-03-26 |
 
-**Total:** 8 fontes | 373 insights processados | 73 DNA elements unicos (5 camadas)
+**Total:** 9 fontes | 373+ insights processados | 396 DNA elements unicos (5 camadas)
 
 ### Distribuicao por Camada DNA
 
 | Camada | Quantidade | Exemplos Chave |
 |--------|-----------|----------------|
-| L1 FILOSOFIAS | 12 | Philosophy > Tactics, Prevention > Treatment, Internal > External Pressure |
-| L2 MODELOS MENTAIS | 10 | Buying Pocket, Free Throw Model, Farmer vs Hunter, VAK Model |
-| L3 HEURISTICAS | 22 | 45-Second Check-in, 80% Close Rate, 2-Day Booking, Double Booking |
-| L4 FRAMEWORKS | 19 | 6-Phase Call Flow, 4 Pillars Pitch, 7 Beliefs, Fringe Deals, LNS |
-| L5 METODOLOGIAS | 10 | Objection Prevention, Discovery Technique, Closing Sequence, Secret Shopping |
+| L1 FILOSOFIAS | 79 | Philosophy > Tactics, Prevention > Treatment, Internal > External Pressure, Reverse Selling, Organic-First |
+| L2 MODELOS MENTAIS | 66 | Buying Pocket, Free Throw Model, Farmer vs Hunter, VAK Model, DPL×LTV, Market Sophistication |
+| L3 HEURISTICAS | 112 | 45-Second Check-in, 80% Close Rate, 2-Day Booking, Double Booking, Setter KPIs, Re-offer Timing |
+| L4 FRAMEWORKS | 83 | 6-Phase Call Flow, 4 Pillars Pitch, 7 Beliefs, Fringe Deals, LNS, Seven Belief Ladder, Pitch Codex, Big Three, APS |
+| L5 METODOLOGIAS | 56 | Objection Prevention, Discovery Technique, Closing Sequence, Secret Shopping, Setter-to-Closer Model, Story Selling, Pre-pitch |
 
 ---
 
@@ -105,6 +106,35 @@ Cole sempre usa numeros especificos. Nunca "muito" ou "pouco". Sempre "45 segund
 | 2025-12-26 | 2.0.0 | Upgrade template V2 | Rastreabilidade completa |
 | 2026-01-04 | 2.5.0 | +BATCH-005 a BATCH-008 | +329 insights (courses, marketing, masterminds, podcasts) |
 | 2026-01-10 | 3.0.0 | Fase 5 Consolidation | 44 → 373 insights, DNA 73 elements, dossier v3.1.0 |
+| 2026-03-26 | 4.0.0 | CIL Extraction (JARVIS Full Auto, Opus) | +323 DNA elements (FIL:67, MM:56, HEUR:90, FW:64, MET:46), 334 files (9 modules + 118 calls, 9.4MB). Total DNA: 396 elements. Key: Seven Belief Ladder, Reverse Selling System, Pitch Codex, Big Three, APS, DPL×LTV, Buying Pocket expanded, Setter-to-Closer Model. New domains: organic-marketing, outbound-sales, messenger-sales, hiring-team-building, pipeline-management, offer-packaging, market-sophistication |
+
+---
+
+## CIL — CLOSERS INTO LEADERS (2026-03-26)
+
+### Contexto
+CIL e o programa mais abrangente de Cole Gordon. Vai alem de closing individual — cobre construcao e lideranca de times de vendas, organic marketing, messenger sales, hiring e offer packaging. Processado via JARVIS Full Auto (Opus), 334 files (9 modulos + 118 calls), 9.4MB.
+
+### Novos Insights Chave
+
+| Insight | Descricao | Impacto |
+|---------|-----------|---------|
+| Setter-to-Closer Progression | Modelo de carreira: Setter → Junior Closer → Senior Closer → Team Lead → Sales Manager, com KPIs por estagio | Redefine team building — nao contrata closers prontos, desenvolve internamente |
+| Re-offer Technique | Como reapresentar oferta para prospects que disseram nao, sem parecer desesperado | Recupera 15-25% dos "nao" iniciais |
+| Story Selling | Uso estruturado de narrativas pessoais e de clientes como ferramenta de fechamento | Substitui proof generico por conexao emocional |
+| Pre-pitch Methodology | Aquecimento estruturado antes da call formal — conteudo, micro-commitments, frame setting | Aumenta show rate E close rate simultaneamente |
+| Organic Marketing System | Framework completo para geracao de leads sem ads — content pillars, DM strategy, engagement loops | Elimina dependencia de paid traffic para primeiros clientes |
+| Seven Belief Ladder | Evolucao do 7 Beliefs com checkpoints de instalacao progressiva | Mais preciso que 7 Beliefs original — identifica QUAL belief faltou |
+| Reverse Selling System | Prospect vende para si mesmo via perguntas estrategicas | Elimina resistencia — prospect verbaliza propria decisao |
+| DPL×LTV | Deal Profitability Leverage × Lifetime Value — metrica de decisao | Permite avaliar se deal vale o esforco ANTES de investir tempo |
+
+### Padroes de Pensamento CIL
+
+**Leader-First Mindset:** CIL revela que Cole pensa primeiro como LIDER de time, depois como closer individual. A maestria em vendas e prerequisito, nao o objetivo final. O objetivo e construir um SISTEMA que vende sem o founder.
+
+**Organic Before Paid:** CIL enfatiza organic marketing como fundacao — paid traffic e acelerador, nao fundacao. Diferente de outros experts que comecam por ads.
+
+**Career Path Thinking:** Cole estrutura vendas como CARREIRA com progressao clara, nao como "job". Setter-to-Closer model cria retencao de talentos porque ha crescimento visivel.
 
 ---
 
@@ -119,4 +149,4 @@ Cole sempre usa numeros especificos. Nunca "muito" ou "pouco". Sempre "45 segund
 
 ---
 
-*MEMORY v1.0.0 - Cole Gordon (SOLO Agent) - Criado 2026-03-02*
+*MEMORY v2.0.0 - Cole Gordon (SOLO Agent) - Atualizado 2026-03-26 (CIL extraction)*

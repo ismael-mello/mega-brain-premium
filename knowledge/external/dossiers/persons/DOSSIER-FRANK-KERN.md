@@ -1,10 +1,10 @@
 # DOSSIER: FRANK KERN
 
-> **Versão:** 1.0.0
+> **Versão:** 3.0.0
 > **Criado:** 2026-03-18
-> **Última atualização:** 2026-03-18
+> **Última atualização:** 2026-03-26
 > **Status:** COMPLETE
-> **Fontes:** 1 (Rainmaker Certification)
+> **Fontes:** 3 (Rainmaker Certification + Operation Takeover + Ads Madness Masterclass)
 
 ---
 
@@ -14,19 +14,23 @@
 ╔════════════════════════════════════════════════════════════════════════════╗
 ║                                                                            ║
 ║                          FRANK KERN                                        ║
-║        Internet Marketing Pioneer | Rainmaker Certification                ║
+║   Internet Marketing Pioneer | 3 Programs | 521 DNA Elements              ║
 ║                                                                            ║
 ╠════════════════════════════════════════════════════════════════════════════╣
 ║                                                                            ║
 ║  PERFIL:                                                                   ║
 ║  Internet marketer e consultor desde 1999. Dono de agência de marketing.  ║
-║  Criador do Rainmaker Certification — programa de 10 semanas que cobre   ║
-║  marketing funnels, Facebook Ads, YouTube Ads, email marketing, scaling,  ║
-║  e Supersystem Architecture. Estilo ultra-casual, anti-perfeccionista,    ║
-║  radicalmente transparente. Toma decisões baseadas exclusivamente em      ║
-║  dados e ROAS, nunca em emoção.                                           ║
+║  Criador do Rainmaker Certification (10 semanas — funnels, ads, email),  ║
+║  Operation Takeover (6 semanas — competitive intelligence, long-form      ║
+║  copy, Billion Dollar VSL Framework com Dean Graziosi, Double Tap,        ║
+║  4-Day Cash Machine, YouTube ads, IBB Simplified), e co-criador do        ║
+║  Ads Madness Masterclass (3 dias com Stefan Georgi — Dog Whistle ads,    ║
+║  FB/YT ad copy frameworks, retargeting architecture).                     ║
+║  Estilo ultra-casual, anti-perfeccionista, radicalmente transparente.     ║
+║  Toma decisões baseadas exclusivamente em dados e ROAS.                   ║
 ║                                                                            ║
-║  DNA: 269 elementos | 1 fonte | v1.0.0                                    ║
+║  DNA: 521 elementos | 3 fontes | v3.0.0                                   ║
+║  L1:120 | L2:86 | L3:154 | L4:93 | L5:68                                 ║
 ║                                                                            ║
 ╚════════════════════════════════════════════════════════════════════════════╝
 ```
@@ -37,16 +41,22 @@
 
 | Domínio | Profundidade | Elementos | Rating |
 |---------|-------------|-----------|--------|
-| Paid Advertising (Facebook) | Completo (Weeks 4-7) | ~60 | ●●●●●●●●●● 10/10 |
-| Paid Advertising (YouTube) | Completo (Weeks 8-10) | ~55 | ●●●●●●●●●○ 9/10 |
-| Marketing Funnels / Supersystem | Completo (Weeks 1-3) | ~45 | ●●●●●●●●●● 10/10 |
-| Email Marketing / Countdown | Completo (Weeks 1, 7) | ~35 | ●●●●●●●●●○ 9/10 |
-| Scaling Strategy | Completo (Weeks 5-6, 10) | ~30 | ●●●●●●●●●○ 9/10 |
-| Ad Automation | Parcial (Week 6, 10) | ~20 | ●●●●●●●●○○ 8/10 |
-| Sales Processes | Completo (Weeks 1-2) | ~25 | ●●●●●●●●○○ 8/10 |
-| Campaign Troubleshooting | Completo (Week 6) | ~15 | ●●●●●●●●○○ 8/10 |
-| Client Acquisition / Consulting | Parcial (Week 11) | ~10 | ●●●●●●●○○○ 7/10 |
-| Video Production | Parcial (Week 8) | ~8 | ●●●●●●○○○○ 6/10 |
+| Paid Advertising (Facebook) | Completo (RC+OT+AMM) | ~90 | ●●●●●●●●●● 10/10 |
+| Paid Advertising (YouTube) | Completo (RC+OT) | ~80 | ●●●●●●●●●● 10/10 |
+| Marketing Funnels / Supersystem | Completo (RC+OT) | ~55 | ●●●●●●●●●● 10/10 |
+| Email Marketing / Campaigns | Completo (RC+OT 4DCM+Double Tap) | ~55 | ●●●●●●●●●● 10/10 |
+| Copywriting / Long-Form | Completo (OT Assembly Line+Bullets) | ~50 | ●●●●●●●●●● 10/10 |
+| Video Sales Letters | Completo (OT Billion Dollar VSL+Edu VSL) | ~40 | ●●●●●●●●●● 10/10 |
+| Ad Copywriting | Completo (AMM Dog Whistle+Edu Ad) | ~45 | ●●●●●●●●●● 10/10 |
+| Competitive Intelligence | Completo (OT Spy Tools+Research) | ~25 | ●●●●●●●●●○ 9/10 |
+| Content Marketing / IBB | Completo (OT Off The Cuff+IBB) | ~30 | ●●●●●●●●●○ 9/10 |
+| Scaling Strategy | Completo (RC+OT+AMM ABO→CBO) | ~35 | ●●●●●●●●●○ 9/10 |
+| Sales Process Design | Completo (OT Filtration+Close Stacking) | ~25 | ●●●●●●●●●○ 9/10 |
+| Upsell Strategy | Completo (OT 3 frameworks) | ~20 | ●●●●●●●●○○ 8/10 |
+| Promotion Strategy | Completo (OT 4DCM+Double Tap) | ~20 | ●●●●●●●●○○ 8/10 |
+| Retargeting Architecture | Completo (AMM multi-objective) | ~20 | ●●●●●●●●○○ 8/10 |
+| Storytelling / Emotional Triggers | Completo (OT VSL Story) | ~15 | ●●●●●●●●○○ 8/10 |
+| Client Acquisition / Consulting | Parcial (RC) | ~10 | ●●●●●●●○○○ 7/10 |
 
 ---
 
