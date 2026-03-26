@@ -701,6 +701,417 @@ Após prescrever o funil individual, SEMPRE mostrar onde ele se encaixa na escad
 
 ---
 
+## ORQUESTRAÇÃO DE MENSAGENS — QUANDO ENVIAR O QUÊ
+
+> Baseado em: Frank Kern (Super Systems), Andre Chaperon (SOI), Russell Brunson (SOAP/Seinfeld),
+> Rafael Marks (BR WhatsApp), Ben Settle (Daily Email), Dan Kennedy (Herd), Jon Benson (VSL follow-up),
+> Lucio Artes (Multicanal BR)
+
+---
+
+### TIMELINE POR TIPO DE FUNIL
+
+#### TRIPWIRE / SLO (R$7-R$297)
+
+```
+╔══════════════════════════════════════════════════════════════════════════════╗
+║  MOMENTO 0 — COMPROU                                                        ║
+╠══════════════════════════════════════════════════════════════════════════════╣
+║                                                                              ║
+║  ✉️ EMAIL: Confirmação de compra + acesso instantâneo                        ║
+║  📱 WHATSAPP: Senha padrão + link de acesso (automático)                    ║
+║     → Reduz reclamações de acesso drasticamente (Rafael Marks)              ║
+║                                                                              ║
+║  PÁGINA DE OBRIGADO:                                                        ║
+║  → Acesso instantâneo ao produto                                            ║
+║  → Upsell 1 em vídeo (conversão 10-30%)                                    ║
+║  → Upsell 2 em vídeo (conversão 5-8%)                                      ║
+║  → Max 2 upsells no Brasil (Rafael Marks)                                   ║
+║                                                                              ║
+╠══════════════════════════════════════════════════════════════════════════════╣
+║  DIA 0 — ONBOARDING (Anti-Reembolso)                                       ║
+╠══════════════════════════════════════════════════════════════════════════════╣
+║                                                                              ║
+║  ✉️ EMAIL 1: Boas-vindas + re-promessa + parabéns + meta objeções           ║
+║  📱 WHATSAPP: Convite para grupo/comunidade                                ║
+║                                                                              ║
+║  Módulo 0 dentro do produto:                                                ║
+║  → Aula 1: Boas-vindas (promessa + parabéns + mostrar improváveis)        ║
+║  → Aula 2: Tour da plataforma (disfarçar como apresentação = seeding)      ║
+║  → Aula 3-5: Comunidade (manifesto da tribo)                              ║
+║  → Máximo 5 cards na área de membros (NÃO estilo Netflix)                  ║
+║                                                                              ║
+╠══════════════════════════════════════════════════════════════════════════════╣
+║  DIAS 1-3 — SEQUÊNCIA DE CONSUMO + VENDA DO TRIPWIRE                      ║
+╠══════════════════════════════════════════════════════════════════════════════╣
+║                                                                              ║
+║  ✉️ EMAIL D1: Incentivo ao consumo + dica rápida + seeding do core offer    ║
+║  ✉️ EMAIL D2: "Já implementou? Olha o resultado de [fulano]..." + CTA soft  ║
+║  ✉️ EMAIL D3: Último push para quem não comprou o tripwire + urgência       ║
+║                                                                              ║
+║  Breakeven geralmente acontece entre email 1-4 (Rafael Marks)              ║
+║                                                                              ║
+╠══════════════════════════════════════════════════════════════════════════════╣
+║  DIAS 4-10 — TRANSIÇÃO PARA CORE OFFER                                     ║
+╠══════════════════════════════════════════════════════════════════════════════╣
+║                                                                              ║
+║  ✉️ EMAIL D4: História (SOAP Opera E1 — set the stage)                      ║
+║  ✉️ EMAIL D5: Drama + epifania (SOAP E2 — high drama)                       ║
+║  ✉️ EMAIL D6: Revelação do core offer (SOAP E3 — epiphany)                  ║
+║  ✉️ EMAIL D7: Benefícios ocultos + prova social (SOAP E4)                   ║
+║  ✉️ EMAIL D8: Urgência / escassez (SOAP E5)                                 ║
+║                                                                              ║
+║  REGRA: Após 3 dias vendendo tripwire, MUDAR para vender o core offer      ║
+║  (Rafael Marks: "insista 1-3 dias, depois mude para o mais caro")          ║
+║                                                                              ║
+╠══════════════════════════════════════════════════════════════════════════════╣
+║  DIA 11+ — EMAIL DIÁRIO (Seinfeld / Ben Settle)                            ║
+╠══════════════════════════════════════════════════════════════════════════════╣
+║                                                                              ║
+║  ✉️ DIÁRIO: 85% entretenimento + 10% moral + 5% CTA soft                    ║
+║  → Como stories — todo dia uma conversa gostosa (Rafael Marks)             ║
+║  → Plain text SEMPRE — HTML templates destroem deliverability (Benson)     ║
+║  → Números ímpares no subject > pares (Benson)                             ║
+║  → Polarize intencionalmente — medo de ofender mata email (Settle)         ║
+║  → A cada 30-45 dias: promoção com deadline real (Kern)                    ║
+║                                                                              ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+```
+
+#### NÃO COMPROU (Contingência — Frank Kern Super Systems)
+
+```
+╔══════════════════════════════════════════════════════════════════════════════╗
+║  CONTINGÊNCIA — ABANDONOU O CARRINHO                                        ║
+╠══════════════════════════════════════════════════════════════════════════════╣
+║                                                                              ║
+║  ✉️ EMAIL +1h:  Lembrete simples ("esqueceu algo?")                          ║
+║  ✉️ EMAIL +6h:  Tratar objeção principal ("será que é pra mim?")             ║
+║  ✉️ EMAIL +24h: Deadline + bônus exclusivo                                   ║
+║     → 50%+ da receita de recuperação vem do Email 3 (Kern)                  ║
+║                                                                              ║
+╠══════════════════════════════════════════════════════════════════════════════╣
+║  CONTINGÊNCIA — VIU A PÁGINA MAS NÃO COMPROU                               ║
+╠══════════════════════════════════════════════════════════════════════════════╣
+║                                                                              ║
+║  CLICK SEQUENCE (Kern): 2 emails/dia por 3 dias = 6 emails                 ║
+║  ✉️ D1 8:30: Vende o CLIQUE, não o produto                                  ║
+║  ✉️ D1 11:30: Ângulo diferente, mesmo link                                  ║
+║  ✉️ D2 8:30: Prova social / caso de sucesso                                 ║
+║  ✉️ D2 11:30: Objeção comum respondida                                      ║
+║  ✉️ D3 8:30: Última chance / escassez                                        ║
+║  ✉️ D3 11:30: Resumo de tudo + CTA final                                    ║
+║                                                                              ║
+║  Se clicou → DEADLINE SEQUENCE (ver abaixo)                                 ║
+║  Se NÃO clicou após 3 dias → próxima campanha (oferta diferente)           ║
+║                                                                              ║
+╠══════════════════════════════════════════════════════════════════════════════╣
+║  DEADLINE SEQUENCE (Kern — Triple Stack)                                    ║
+╠══════════════════════════════════════════════════════════════════════════════╣
+║                                                                              ║
+║  STACK 1: Preço especial + bônus 1 → deadline real                         ║
+║     → 2 emails/dia (antes do meio-dia)                                      ║
+║     → ÚLTIMO DIA: 6 emails (8h, 10h, 12h, 21h, 22h, 23h)                  ║
+║                                                                              ║
+║  ⏸️ AGUARDAR 48 HORAS                                                       ║
+║                                                                              ║
+║  STACK 2: Preço original + bônus 1 + NOVO bônus 2 → deadline real          ║
+║     → Mesma cadência de emails                                              ║
+║                                                                              ║
+║  ⏸️ AGUARDAR 48 HORAS                                                       ║
+║                                                                              ║
+║  STACK 3: Ambos bônus + plano de pagamento → deadline FINAL                 ║
+║     → Mesma cadência + maior urgência                                       ║
+║                                                                              ║
+║  Cada deadline usa página SEPARADA que realmente expira (Kern)              ║
+║                                                                              ║
+╠══════════════════════════════════════════════════════════════════════════════╣
+║  CONTINGÊNCIA — LISTA FRIA (90+ DIAS SEM ABRIR)                            ║
+╠══════════════════════════════════════════════════════════════════════════════╣
+║                                                                              ║
+║  ✉️ EMAIL 1: Re-engajamento (valor puro, sem venda)                          ║
+║  ✉️ EMAIL 2: Segundo contato (valor + curiosidade)                           ║
+║  ✉️ EMAIL 3: "9-word email" — "Você ainda tem interesse em [X]?"            ║
+║  ⏸️ 30 dias sem resposta → REMOVER da lista ativa                           ║
+║     (Kern + Chaperon concordam)                                             ║
+║                                                                              ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+```
+
+#### WEBINAR (R$997-R$3.000)
+
+```
+╔══════════════════════════════════════════════════════════════════════════════╗
+║  PRÉ-WEBINAR — 7 DIAS ANTES (Cadência semanal Rafael Marks)               ║
+╠══════════════════════════════════════════════════════════════════════════════╣
+║                                                                              ║
+║  REGISTRO (Seg-Qui):                                                        ║
+║  ✉️ EMAIL imediato: Confirmação + agenda + "salve na agenda"                 ║
+║  📱 WHATSAPP: Confirmação + link de acesso + convite grupo                  ║
+║                                                                              ║
+║  PÁGINA DE OBRIGADO DO REGISTRO:                                            ║
+║  → Vídeo de origem (história do expert) + SLO para gerar R$10+/registrante ║
+║     (Brunson: lucrar ANTES do webinar começar)                              ║
+║  → Perguntar #1 problema → segmentar em sequences diferentes (Brunson)     ║
+║                                                                              ║
+║  ANTECIPAÇÃO (Seg-Ter-Qua):                                                ║
+║  ✉️ EMAIL Seg: Vídeo Antecipação 1 (quebra objeção 1)                       ║
+║  ✉️ EMAIL Ter: Vídeo Antecipação 2 (quebra objeção 2)                       ║
+║  ✉️ EMAIL Qua: Vídeo Antecipação 3 (quebra objeção 3)                       ║
+║  📱 WHATSAPP Seg-Qua: Resumo + link de cada vídeo                          ║
+║                                                                              ║
+║  DIA DO WEBINAR (Qui):                                                      ║
+║  ✉️ EMAIL -24h: Lembrete + teaser de valor                                  ║
+║  ✉️ EMAIL -2h: "Começa em 2 horas! Acesse aqui"                             ║
+║  📱 WHATSAPP -30min: "Estamos ao vivo! Link aqui"                           ║
+║  📱 WHATSAPP +5min: "Já começou! Corre!"                                    ║
+║                                                                              ║
+║  Esperar 20-30% de comparecimento. Abaixo de 15% = sequência quebrada      ║
+║  (Frank Kern)                                                               ║
+║                                                                              ║
+╠══════════════════════════════════════════════════════════════════════════════╣
+║  PÓS-WEBINAR — 4 SEGMENTOS (Brunson)                                      ║
+╠══════════════════════════════════════════════════════════════════════════════╣
+║                                                                              ║
+║  SEGMENTO 1: Assistiu completo + não comprou                               ║
+║  ✉️ EMAIL Sex (D+1): Close EMOCIONAL (história/identidade)                  ║
+║  ✉️ EMAIL Sab (D+2): Close LÓGICO (case study/dados/ROI)                    ║
+║  ✉️ EMAIL Dom (D+3): Close MEDO (urgência/escassez/deadline)                ║
+║     → Distribuição: 50% compram na emoção, 30% lógica, 20% medo (Brunson) ║
+║     → Follow-up Fri-Sun DOBRA as vendas do webinar ao vivo (Brunson)       ║
+║                                                                              ║
+║  SEGMENTO 2: Assistiu parcialmente                                          ║
+║  ✉️ EMAIL D+1: "Vi que saiu antes do final — aqui está o que perdeu"        ║
+║  ✉️ EMAIL D+2: Replay completo + principais momentos                        ║
+║  ✉️ EMAIL D+3: Deadline final                                                ║
+║                                                                              ║
+║  SEGMENTO 3: Registrou mas NÃO assistiu                                    ║
+║  ✉️ EMAIL D+1: "Você perdeu! Mas consegui um replay para você"              ║
+║  📱 WHATSAPP D+1: Link do replay + "assista AGORA, expira em 48h"          ║
+║  ✉️ EMAIL D+2: Resumo do que foi revelado + social proof                    ║
+║  ✉️ EMAIL D+3: Última chance replay + oferta                                ║
+║     → 70-80% dos não-comparecentes podem ser recuperados (Kern)             ║
+║                                                                              ║
+║  SEGMENTO 4: Não registrou (lista geral)                                   ║
+║  ✉️ EMAIL D+1: "1.247 pessoas assistiram ontem — você perdeu isso"          ║
+║  ✉️ EMAIL D+2: Replay público limitado                                      ║
+║                                                                              ║
+╠══════════════════════════════════════════════════════════════════════════════╣
+║  RECUPERAÇÃO PÓS-WEBINAR (Lúcio Artes — BR)                               ║
+╠══════════════════════════════════════════════════════════════════════════════╣
+║                                                                              ║
+║  Hierarquia de prioridade de recuperação:                                   ║
+║  1. 🔴 Cartão Recusado → 3 emails + WhatsApp (PRIORIDADE MÁXIMA)           ║
+║  2. 🟡 Carrinho Abandonado → 3 emails + WhatsApp                           ║
+║  3. 🟢 PIX/Boleto Pendente → 3 emails + WhatsApp                           ║
+║                                                                              ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+```
+
+#### HIGH-TICKET (R$3.000+)
+
+```
+╔══════════════════════════════════════════════════════════════════════════════╗
+║  HIGH-TICKET — SEQUÊNCIA DE APLICAÇÃO + CALL                               ║
+╠══════════════════════════════════════════════════════════════════════════════╣
+║                                                                              ║
+║  FASE 1 — PRÉ-APLICAÇÃO (Kern: 3-5 vídeos educativos)                     ║
+║  ✉️ EMAIL D1: Vídeo educativo 1 (demonstra expertise sem vender)             ║
+║  ✉️ EMAIL D3: Vídeo educativo 2                                              ║
+║  ✉️ EMAIL D5: Vídeo educativo 3                                              ║
+║  ✉️ EMAIL D7: Transição suave → "Quer ajuda para implementar?"               ║
+║                                                                              ║
+║  SIMULTÂNEO — "Call Me" Sequence (Kern, em paralelo):                      ║
+║  ✉️ EMAIL D2: "Me manda uma mensagem se quiser ajuda com X"                  ║
+║  ✉️ EMAIL D4: "Tem dúvidas sobre [oferta]?"                                  ║
+║  ✉️ EMAIL D6: Reframe do Email D2                                            ║
+║  → Nenhuma sequência remove da outra até agendar (Kern)                    ║
+║                                                                              ║
+║  FASE 2 — PÓS-APLICAÇÃO                                                    ║
+║  ✉️ EMAIL imediato: "Recebemos sua aplicação! Próximos passos..."            ║
+║  📱 WHATSAPP: "Pular a Fila" (Rafael Marks — conversão muito maior)        ║
+║  ✉️ EMAIL D+1: Reforço + depoimento de aluno                                ║
+║  ✉️ EMAIL D+2: "Sua vaga está reservada por 48h"                             ║
+║                                                                              ║
+║  FASE 3 — PRÉ-CALL (garantir comparecimento)                              ║
+║  ✉️ EMAIL -24h: Confirmação + agenda + "prepare suas perguntas"              ║
+║  📱 WHATSAPP -2h: "Sua call é em 2 horas! Link: [...]"                      ║
+║  📱 WHATSAPP -15min: "Estamos te esperando!"                                ║
+║  📞 TELEFONE se não apareceu: ligar em 5 min (3-5x mais conversão - Kern)  ║
+║     → Esperar 70%+ de show rate. Abaixo de 60% = sequência inadequada      ║
+║                                                                              ║
+║  FASE 4 — PÓS-CALL (não fechou)                                           ║
+║  ✉️ EMAIL +1h: Resumo da conversa + proposta + link de pagamento             ║
+║  📱 WHATSAPP +1h: "Enviei o resumo por email + link"                        ║
+║  ✉️ EMAIL D+1: Depoimento relevante ao caso específico dele                  ║
+║  ✉️ EMAIL D+2: "Pensou sobre nossa conversa?"                                ║
+║  📞 TELEFONE D+3: Follow-up direto (se não respondeu)                       ║
+║  ✉️ EMAIL D+7: "9-word email" — "Ainda tem interesse em [X]?"               ║
+║                                                                              ║
+║  MULTI-STAGE FALLBACK (Kern):                                              ║
+║  Aplicou → Não agendou? → Survey Sequence                                  ║
+║  Agendou → Não veio? → Reagendar + telefone                               ║
+║  Veio → Não fechou? → Deadline + depoimentos                              ║
+║  Tudo falhou? → "9-word email" → Telefone → Conteúdo goodwill → Re-pitch  ║
+║  → Oferta diferente                                                         ║
+║                                                                              ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+```
+
+#### SISTEMA DE EMAIL CONTÍNUO (SOI — Andre Chaperon)
+
+```
+╔══════════════════════════════════════════════════════════════════════════════╗
+║  LIFECYCLE COMPLETO DO LEAD (Chaperon SOI + Brunson + Settle)              ║
+╠══════════════════════════════════════════════════════════════════════════════╣
+║                                                                              ║
+║  FASE 1 — RBS: Relationship Building (Dias 1-7)                            ║
+║  ✉️ D1: Welcome + set context + primeira história                            ║
+║  ✉️ D2: Entregar valor + segunda história                                    ║
+║  ✉️ D3: Convite de comprometimento + open loop para VNL                     ║
+║  ✉️ D4-7: Opcional (3-7 emails total, ZERO venda) (Chaperon)                ║
+║                                                                              ║
+║  OU — SOAP Opera Sequence (Brunson, 3-5 dias):                             ║
+║  ✉️ D1: Origin Story (set the stage)                                         ║
+║  ✉️ D2: High Drama (ponto alto do conflito)                                 ║
+║  ✉️ D3: Epiphany (momento de virada)                                        ║
+║  ✉️ D4: Hidden Benefits (o que mais mudou)                                   ║
+║  ✉️ D5: Urgency + CTA (transição para oferta)                               ║
+║  → Dias consecutivos, SEM gaps (Brunson)                                   ║
+║                                                                              ║
+║  FASE 2 — VNL: Value Newsletter (Semanal, para sempre)                     ║
+║  ✉️ 1x/semana ou 2x/semana: Valor + entretenimento + CTA soft               ║
+║  → NUNCA menos que 1x/mês ou subscribers esquecem (Chaperon)               ║
+║  → Receita aumenta a CADA aumento de frequência (Brunson):                 ║
+║    mensal → quinzenal → semanal → 2x/semana → diário = sempre mais $      ║
+║                                                                              ║
+║  FASE 2B — EMAIL DIÁRIO (Ben Settle / Rafael Marks):                       ║
+║  ✉️ DIÁRIO: 85-90% entretenimento + 10% moral/produto + 5% CTA soft         ║
+║  → Plain text SEMPRE (Benson + Settle)                                     ║
+║  → Até 2x/dia durante promoções (Settle)                                   ║
+║  → Reenviar para não-abridores com subject diferente = +15-30% (Benson)    ║
+║  → Espaçar emails equidistantemente (Benson)                               ║
+║                                                                              ║
+║  FASE 3 — PROMOÇÃO (a cada 30-45 dias — Kern)                             ║
+║  ✉️ Bridge Email: Pedir permissão antes de promover (Chaperon)               ║
+║  ✉️ SOS (Soap Opera Series): 5-7 emails narrativos antes da oferta          ║
+║  ✉️ Deadline Stack: 3 deadlines com 48h entre cada (Kern)                    ║
+║  → 7-10 dias de valor PURO antes de qualquer lançamento grande (Kern)      ║
+║                                                                              ║
+║  REGRA: Mutar VNLs durante SOS/PLS ativos (Chaperon)                      ║
+║  REGRA: Lista não contactada em 90+ dias = efetivamente morta (Kern)       ║
+║                                                                              ║
+║  FASE 4 — COS: Customer Onboarding (Pós-Compra)                           ║
+║  ✉️ Imediato: Confirmação + acesso + boas-vindas                             ║
+║  📱 WHATSAPP: Senha + link + convite comunidade                             ║
+║  ✉️ D+1: Sequência de consumo ("Já acessou o módulo 1?")                    ║
+║  ✉️ D+3: "Como está indo? Precisa de ajuda?"                                ║
+║  ✉️ D+7: Depoimento de quem implementou rápido + "não fique para trás"     ║
+║  → Quem CONSOME quase nunca cancela. Problema = consumo, não compra        ║
+║    (Brunson)                                                                ║
+║                                                                              ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+```
+
+#### MONETIZAÇÃO DA LISTA (Dan Kennedy — Herd Management)
+
+```
+╔══════════════════════════════════════════════════════════════════════════════╗
+║  CALENDÁRIO DE MONETIZAÇÃO (Kennedy + Kern + Settle)                       ║
+╠══════════════════════════════════════════════════════════════════════════════╣
+║                                                                              ║
+║  REGRA KENNEDY: 11 produtos nos primeiros 17 semanas, depois trimestral    ║
+║  REGRA KERN: Promoção a cada 30-45 dias por segmento com deadline real     ║
+║  REGRA SETTLE: Vender todo santo dia (soft CTA no email diário)            ║
+║                                                                              ║
+║  CADÊNCIA IDEAL COMBINADA:                                                  ║
+║                                                                              ║
+║  Semana 1-2:   RBS/SOAP (sem venda)                                        ║
+║  Semana 3:     Primeira oferta (produto principal)                          ║
+║  Semana 5:     Segunda oferta (upsell ou produto complementar)             ║
+║  Semana 7:     Terceira oferta (formato diferente)                          ║
+║  Semana 9:     Quarta oferta (parceria/afiliado)                            ║
+║  Semana 11:    Quinta oferta (oferta especial / bundle)                     ║
+║  ...continua até semana 17...                                               ║
+║  Trimestral:   Oferta de reativação para quem não comprou                  ║
+║                                                                              ║
+║  ENTRE PROMOÇÕES: Email diário de valor/entretenimento (Settle)            ║
+║  NUNCA: "One-shot mail" — sempre mínimo 3 emails em 3 semanas (Kennedy)    ║
+║                                                                              ║
+║  TIMING SAZONAL (Kennedy):                                                  ║
+║  → Janeiro: MELHOR mês para ofertas de oportunidade (resoluções)           ║
+║  → Aniversário: Pessoas compram mais na semana do aniversário (40+)        ║
+║  → Thanksgiving/Natal: Carteiras fecham — evitar promoções pesadas         ║
+║                                                                              ║
+║  LANÇAMENTO (Ben Settle — 4 passos):                                       ║
+║  1. Anunciar (email diário menciona "algo vem aí")                         ║
+║  2. Sublist (quem clicou = lista de interesse = sequência separada)         ║
+║  3. Tease (detalhes sem revelar tudo)                                      ║
+║  4. Countdown (Qui→Dom com urgência crescente)                             ║
+║                                                                              ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+```
+
+### RESUMO RÁPIDO — CANAIS POR MOMENTO
+
+```
+┌──────────────────────────┬─────────┬───────────┬──────────┬──────────────┐
+│  MOMENTO                 │ EMAIL   │ WHATSAPP  │ TELEFONE │ SMS          │
+├──────────────────────────┼─────────┼───────────┼──────────┼──────────────┤
+│  Comprou                 │ ✅      │ ✅ (BR)   │          │              │
+│  Onboarding D0-D3        │ ✅      │ ✅ (BR)   │          │              │
+│  Consumo D1-D7           │ ✅      │           │          │              │
+│  Follow-up D1-D10        │ ✅      │           │          │              │
+│  Abandonou carrinho      │ ✅      │ ✅ (BR)   │          │              │
+│  Não compareceu webinar  │ ✅      │ ✅ (BR)   │          │              │
+│  Registrou webinar       │ ✅      │ ✅ (BR)   │          │ ✅ (BR-LA)   │
+│  Lembrete pré-webinar    │ ✅      │ ✅ (BR)   │          │ ✅ (BR-LA)   │
+│  Pré-call high-ticket    │ ✅      │ ✅        │          │              │
+│  No-show call            │ ✅      │ ✅        │ ✅       │              │
+│  Pós-call não fechou     │ ✅      │ ✅        │ ✅ (D+3) │              │
+│  "Pular a Fila"          │         │ ✅ (RM)   │          │              │
+│  Cartão recusado         │ ✅      │ ✅ (BR)   │          │              │
+│  PIX/Boleto pendente     │ ✅      │ ✅ (BR)   │          │              │
+│  Email diário            │ ✅      │           │          │              │
+│  Promoção 30-45 dias     │ ✅      │           │          │              │
+│  Reativação 90+ dias     │ ✅      │           │          │              │
+│  "9-word email"          │ ✅      │           │          │              │
+└──────────────────────────┴─────────┴───────────┴──────────┴──────────────┘
+
+BR = Brasil (Rafael Marks, Lúcio Artes)
+RM = Rafael Marks hack específico
+LA = Lúcio Artes multicanal
+```
+
+### NÚMEROS-CHAVE DE TIMING
+
+| Métrica | Valor | Expert |
+|---------|-------|--------|
+| Cart abandon Email 1 | +1 hora | Frank Kern |
+| Cart abandon Email 2 | +6 horas | Frank Kern |
+| Cart abandon Email 3 | +24 horas | Frank Kern (50%+ receita aqui) |
+| Click sequence | 3 dias, 2 emails/dia | Frank Kern |
+| Deadline last day | 6 emails (8h,10h,12h,21h,22h,23h) | Frank Kern |
+| Entre deadline stacks | 48 horas | Frank Kern |
+| RBS (sem venda) | 3-7 dias | Andre Chaperon |
+| SOAP Opera | 3-5 dias consecutivos, sem gap | Russell Brunson |
+| VNL mínimo | 1x/mês (ideal semanal) | Andre Chaperon |
+| Tripwire → core offer | Mudar após 1-3 dias | Rafael Marks |
+| Breakeven front-end | Email 1-4 | Rafael Marks |
+| Webinar antecipação | 3 vídeos Seg-Ter-Qua | Rafael Marks |
+| Webinar aquecimento | 15 dias multicanal | Lúcio Artes |
+| Post-webinar follow-up | Sex-Sab-Dom = 2x vendas | Russell Brunson |
+| Promoção por segmento | A cada 30-45 dias | Frank Kern |
+| Pre-launch warmup | 7-10 dias valor puro | Frank Kern |
+| Lista morta | 90+ dias sem email | Frank Kern |
+| Reativação | 3 emails → 9-word → 30 dias → remover | Kern + Chaperon |
+| DK mail sequence mínimo | 3 touches em 3 semanas | Dan Kennedy |
+| DK herd monetização | 11 produtos em 17 semanas | Dan Kennedy |
+| High-ticket phone vs email | Telefone converte 3-5x mais | Frank Kern |
+| Show rate esperado call | 70%+ (abaixo 60% = problema) | Frank Kern |
+
+---
+
 ## EXEMPLO DE USO
 
 **Usuário:** "Tenho um curso de Instagram para fotógrafos que custa R$497. Quero montar um funil."
