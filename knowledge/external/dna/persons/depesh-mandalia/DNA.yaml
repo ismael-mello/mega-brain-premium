@@ -1,12 +1,12 @@
 # DNA COGNITIVO — DEPESH MANDALIA
 # 7-Figure Facebook/Meta Ads Playbook + BPM System + FAATT Framework
-# v1.0.0 | 5 fontes | 707 files
-# Gerado: 2026-03-27
+# v2.0.0 | 5 fontes | 707 files | 7 extraction agents completed
+# Gerado: 2026-03-27 | Updated: 2026-03-27 (deep extraction merge)
 
 metadata:
   person: "Depesh Mandalia"
-  version: "1.0.0"
-  total_elements: 0  # PLACEHOLDER — será atualizado quando agents completarem
+  version: "2.0.0"
+  total_elements: 105  # L1:35 L2:20 L3:25 L4:15 L5:10 (core). ~350 total after dedup across 5 programs.
   sources: 5
   source_programs:
     - name: "7-Figure Facebook Ads Playbook"
@@ -601,3 +601,170 @@ layers:
         description: "Step 1: Choose a belief about the product. Step 2: Write the OPPOSITE (attacking/provocative angle). Step 3: Draw reader in through emotional reaction. Step 4: Transition to breaking false beliefs. Step 5: Test provocative vs soft approach to same audience. Step 6: Compare CTR and conversion. Example: 'Struggling with high energy dog? It might be YOUR fault.'"
         source: "7FFAP/01-Foundations/04-3N-Ads-Formula/N2-Engage"
         domains: ["ad-copy", "conversion-psychology"]
+
+  # ═══════════════════════════════════════════════════════════════════════════════
+  # DEEP EXTRACTION ADDITIONS (v2.0.0) — from 7 parallel extraction agents
+  # Key NEW elements not in v1.0.0 core extraction
+  # ═══════════════════════════════════════════════════════════════════════════════
+
+  DEEP_EXTRACTION_PHILOSOPHIES:
+    note: "Additional philosophies from deep extraction"
+    elements:
+      - id: "FIL-DM-036"
+        title: "If They Cry They'll Buy"
+        description: "If there's an emotional angle, people are more likely to take an interest. Emotional advertising converts higher than functional advertising."
+        source: "BPM/1-Marketing-Framework/1.3-5W-Avatar"
+        domains: ["conversion-psychology", "emotional-selling"]
+      - id: "FIL-DM-037"
+        title: "Avoid Overconfidence in Automation"
+        description: "Overconfidence is one of the most dangerous forms of revenue loss. Automation rules should be guardrails, not autopilot."
+        source: "BPM/4-Profitability/Automation-Accelerator"
+        domains: ["automation"]
+      - id: "FIL-DM-038"
+        title: "Quality Clicks Over Volume"
+        description: "A 0.8-1% CTR with low bounce rate and high conversion beats 4% CTR with zero purchases. Quality of clicks > volume."
+        source: "BPMFA/02-Build-Your-Offer"
+        domains: ["traffic-quality"]
+      - id: "FIL-DM-039"
+        title: "Beat Competition Two Ways"
+        description: "You can beat your competition by either outspending them (lower CPA) or outliving them (higher LTV)."
+        source: "BPM/2-Ecommerce-Framework"
+        domains: ["competitive-strategy"]
+      - id: "FIL-DM-040"
+        title: "80% of BPM Applies to Any Platform"
+        description: "80% of the BPM method applies regardless of advertising platform. The rest is making it specific to Facebook."
+        source: "7FMAP/01-BPM-2022"
+        domains: ["marketing-philosophy"]
+
+  DEEP_EXTRACTION_HEURISTICS:
+    note: "Critical numerical heuristics from deep extraction"
+    elements:
+      - id: "HEUR-DM-026"
+        title: "50 Conversions Per Week Threshold"
+        description: "Facebook needs 50 conversions per week per ad set to optimize well. If not hitting that, move optimization event higher up the funnel."
+        source: "BPM/01-Foundations/4-Funnel-Setup"
+        domains: ["facebook-ads", "optimization"]
+      - id: "HEUR-DM-027"
+        title: "First 500 Impressions Determine Fate"
+        description: "Facebook gives new ads discount bidding boost in first ~500 impressions. First 500 determine relevance score. If ad fails, duplicate and try again."
+        source: "BPM/3-Graduation-Framework"
+        domains: ["testing-methodology"]
+      - id: "HEUR-DM-028"
+        title: "CBO Minimum Budget"
+        description: "CBO: $100/ad set minimum. 5 ad sets = $500/day. Max 5-7 ad sets with 3-4 ads each. Small budgets: 2 ad sets, 2 ads."
+        source: "BPM/CBO-Method"
+        domains: ["cbo-mastery"]
+      - id: "HEUR-DM-029"
+        title: "V-Scale Compound Effect"
+        description: "20%/day compound = 300% in 5 days. $500→$600→$720→$864→$1,037. Frame as controlled 300% growth, not reckless scaling."
+        source: "BPM/5-Scaling/V-Scale"
+        domains: ["scaling-campaigns"]
+      - id: "HEUR-DM-030"
+        title: "Never Increase Budget After 5pm"
+        description: "The later you increase, the more Facebook wastes spend trying to hit pacing. Best: 6am-12pm ad account time."
+        source: "BPM/5-Scaling/V-Scale"
+        domains: ["scaling-campaigns"]
+      - id: "HEUR-DM-031"
+        title: "H-Scale 30% Overlap Maximum"
+        description: "Ad set overlap should not exceed 30% in delivery insights. Beyond that, pause or differentiate creative."
+        source: "BPM/5-Scaling/H-Scale"
+        domains: ["scaling-campaigns"]
+      - id: "HEUR-DM-032"
+        title: "Manual Bid 3x Sweet Spot"
+        description: "For manual bid testing: 3x target CPA often performs best. Test at 1x, 2x, 3x. Example: $30 CPA → test $30, $60, $90 bids."
+        source: "BPM/BOSS-Manual-Bid"
+        domains: ["media-buying"]
+      - id: "HEUR-DM-033"
+        title: "Ad Sniper 3-Day Window"
+        description: "Analyze last 3 days of data. Compare each ad's metrics to ad set average. Pause ads above average CPA. Need 5,000 impressions for confidence."
+        source: "BPM/4-Profitability/Ads-Sniper"
+        domains: ["facebook-ads"]
+      - id: "HEUR-DM-034"
+        title: "Ad Sniper Automation Phases"
+        description: "Phase 1 (1pm-5pm): pause if CPA > target+50%. Phase 2 (5pm-12am): tighten to CPA > target+20%. Resurrection: restart if 3-day blended CPA good."
+        source: "BPM/Automation-Accelerator"
+        domains: ["automation"]
+      - id: "HEUR-DM-035"
+        title: "Stop Loss Rule"
+        description: "Pause ad set if CPA > 5x target with 1+ conversion, OR spend > 5x CPA with zero acquisitions."
+        source: "BPM/Automation-Accelerator"
+        domains: ["automation"]
+      - id: "HEUR-DM-036"
+        title: "Ecommerce Benchmarks"
+        description: "Ecom: 15-20% add to cart rate, 20-30% of cart visitors converting to purchase. Site CR typically 1-4%. Info products 5-15%."
+        source: "BPM/4-Profitability"
+        domains: ["ecommerce-ads"]
+      - id: "HEUR-DM-037"
+        title: "iOS14 Data Loss Range"
+        description: "Post-iOS14: ad accounts report 30-70% fewer conversions in Ads Manager vs backend. 55% of purchases invisible to pixel in case study."
+        source: "FAATT/Case-Study"
+        domains: ["attribution-tracking"]
+      - id: "HEUR-DM-038"
+        title: "Offline Conversions 28-Day Window"
+        description: "Offline conversions have 28-day attribution (vs pixel's 7-day). Upload 90 days history initially. Daily uploads recommended."
+        source: "FAATT/05-Offline-Conversions"
+        domains: ["attribution-tracking"]
+      - id: "HEUR-DM-039"
+        title: "CAPI Event Match Quality Target"
+        description: "Event match quality score 7-8 is good for purchase pixel. 89% deduplication rate is ideal."
+        source: "FAATT/04-Server-Pixel"
+        domains: ["attribution-tracking"]
+      - id: "HEUR-DM-040"
+        title: "AC-4 Scaling Threshold"
+        description: "AC-4 Score: 15-19/20 = ready to scale. 10-14 = too early, optimize first. Below 9 = major work needed beyond ads. Real case: 17/20 scaled to $16M in 5 months."
+        source: "7FMAP/AC-4-Grading"
+        domains: ["paid-traffic"]
+
+  DEEP_EXTRACTION_FRAMEWORKS:
+    note: "Additional frameworks from deep extraction"
+    elements:
+      - id: "FW-DM-016"
+        title: "V-Scaling Strategy"
+        description: "Staircase Method: 20% increments, every other day when cautious, twice daily when confident. 10% decrease as punishment. Compound 20%/day = 300% in 5 days. Never increase after 5pm."
+        source: "BPM/5-Scaling + 7FFAP/04-Grow"
+        domains: ["scaling-campaigns"]
+      - id: "FW-DM-017"
+        title: "H-Scaling Strategy"
+        description: "Duplicate winning ad set, change ONE variable per copy (bid level, placement, device, landing page). Original = insurance policy. Max 30% audience overlap. Cut by 1pm if not matching."
+        source: "BPM/5-Scaling + 7FFAP/04-Grow"
+        domains: ["scaling-campaigns"]
+      - id: "FW-DM-018"
+        title: "VHV Strategy (Vertical-Horizontal-Vertical)"
+        description: "Depesh's preferred method: V-scale to prove, H-scale to expand, V-scale winners again. Repeat. Best combined approach for fastest profitable growth."
+        source: "7FFAP/04-Grow/VHV"
+        domains: ["scaling-campaigns"]
+      - id: "FW-DM-019"
+        title: "Oceans, Boats, and Hooks"
+        description: "Audiences = oceans, ad sets = boats (budget = boat size), ads = hooks. Multiple boats in same ocean = H scaling. Bigger boat = V scaling."
+        source: "BPM/5-Scaling"
+        domains: ["scaling-campaigns"]
+      - id: "FW-DM-020"
+        title: "STAR Testing Method"
+        description: "Setup (prioritize backlog) → Test (run it) → Analyze (WHY it worked/didn't, not just pass/fail) → Repeat (feed learnings into next cycle). Kanban: Ideas → Prioritized → WIP → Live → On Hold → Analysis → Winner/Loser."
+        source: "7FFAP/02-Test/STAR + BPM/3-Graduation"
+        domains: ["testing-methodology"]
+      - id: "FW-DM-021"
+        title: "GTA Method (Graduation Testing Automation)"
+        description: "Automate graduation decisions: impression thresholds (1500 ATC, 2000 IC, 3000-5000 Purchase) + CPA targets → auto-rename Winner/Loser. Daily check reports."
+        source: "BPM/3-Graduation/GTA"
+        domains: ["testing-methodology", "automation"]
+      - id: "FW-DM-022"
+        title: "Automation Accelerator Rules Stack"
+        description: "Growth: graduation alerts. Optimization: Ad Sniper 2-phase (1-5pm loose, 5-12am tight), Recovery, Resurrection (3-day lookback), Stop Loss, Anti-Void. Scale: V moderate 9am, V Punisher -10%, H duplicate if 3-day good."
+        source: "BPM/Automation-Accelerator"
+        domains: ["automation"]
+      - id: "FW-DM-023"
+        title: "Reverse Sales Funnel for Existing Customers"
+        description: "At purchase = HOT. Over time without repurchase: warm → cold. Invert full funnel. Post-purchase timeline: thank you video, product arrival, 2-week check-in, repurchase cycle."
+        source: "BPMFA/26-Business-Scaling"
+        domains: ["funnel-optimization", "ecommerce-ads"]
+      - id: "FW-DM-024"
+        title: "EROAS Attribution Framework"
+        description: "Estimated ROAS = total GA revenue / total FB spend. Not campaign-level — macro business health check. Facebook typically drives 60-70% of direct sales plus assists all other channels."
+        source: "7FMAP/EROAS + BPMFA/Attribution"
+        domains: ["attribution-tracking"]
+      - id: "FW-DM-025"
+        title: "M-Scale Manual Bidding Framework"
+        description: "Priority: Bid Cap > Cost Cap > Target Cost > ROAS/Value. Bid Cap at 1x/2x/3x/4x CPA. Min budget per ad set = CPA×2. 2-3x bids usually win. Use Target Cost above $1K/day for sustained scaling."
+        source: "BPMFA/25-Campaign-Scaling"
+        domains: ["media-buying", "scaling-campaigns"]

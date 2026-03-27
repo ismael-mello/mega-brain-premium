@@ -452,9 +452,9 @@
       "status": "COMPLETE",
       "dna": true,
       "agent": true,
-      "dna_version": 1,
-      "elements": 105,
-      "layers": "L1:35 L2:20 L3:25 L4:15 L5:10",
+      "dna_version": 2,
+      "elements": 140,
+      "layers": "L1:40 L2:20 L3:40 L4:25 L5:10 +deep",
       "sources_count": 5,
       "cargo_enriched": [
         "CMO",
@@ -554,8 +554,8 @@
   },
   "mis": {
     "session_id": "",
-    "prompt_count": 9,
+    "prompt_count": 16,
     "bracket": "FRESH",
-    "context_percent": 93.2
+    "context_percent": 88.0
   }
 }

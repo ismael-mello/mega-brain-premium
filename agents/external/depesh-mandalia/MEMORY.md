@@ -12,7 +12,8 @@
 | 4 | 7FMAP | 7-Figure Meta Ads Playbook 2022 | 247 | ~25 | 2026-03-27 |
 | 5 | FAATT | The FAATT Framework | 35 | ~10 | 2026-03-27 |
 
-**Total:** 5 fontes, 707 arquivos, ~105 elementos DNA (v1.0.0)
+**Total:** 5 fontes, 707 arquivos, ~140 elementos DNA (v2.0.0)
+**Deep Extraction:** 7 agents processed all 707 files — ~457 raw elements, ~350 after dedup
 
 ## TOP INSIGHTS
 
