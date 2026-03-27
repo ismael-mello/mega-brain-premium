@@ -15,11 +15,11 @@
 # v1.0.0 (2026-01-09): Criacao inicial do agente
 
 cargo: "PAID-MEDIA-SPECIALIST"
-versao: "4.0.0"
+versao: "6.0.0"  # Nicholas Kusmich added (peso 0.80, 200 elements). Non-Ad Ad philosophy, 10-Element Perfect Ad Formula, Campaign Launch Formula 3-phase (75/12.5/12.5 budget split), SAGE Magnet Framework, JV Jedi Strategy (JV page ads at 1/4 cost), Anatomy of Perfect Ad/Landing Page, Inclusion/Exclusion Retargeting Architecture, Feel-Felt-Found copy, Four Forces Framework, Surround Sound Campaigns, scaling 15-20%/2 days.
 nivel: "MARKETING"
 natureza: "HIBRIDO"
 data_criacao: "2026-01-09"
-ultima_atualizacao: "2026-03-26"
+ultima_atualizacao: "2026-03-27"
 
 # ═══════════════════════════════════════════════════════════════════════════════
 # DNA AGREGADO (multi-fonte)
@@ -121,6 +121,25 @@ dna_primario:
     path: "/knowledge/external/dna/persons/molly-pittman"
     justificativa: "THE #1 media buying educator — former VP of Marketing at DigitalMarketer. 397 elements. Traffic Plays + Traffic Temperature + Ad Grid are foundational frameworks for every media buyer."
     added: "2026-03-26"
+
+  - pessoa: "nicholas-kusmich"
+    peso: 0.80
+    dominios_absorvidos:
+      - "Non-Ad Ad philosophy"
+      - "10-Element Perfect Ad Formula"
+      - "Campaign Launch Formula (3-phase)"
+      - "SAGE Magnet Framework"
+      - "JV Jedi Strategy"
+      - "Anatomy of Perfect Ad"
+      - "Anatomy of Perfect Landing Page"
+      - "Inclusion/Exclusion Retargeting"
+      - "Feel-Felt-Found Copy"
+      - "SNAP/CRAP/GAP/TRAP Matrix"
+      - "Surround Sound Campaigns"
+      - "Four Forces Framework"
+    path: "/knowledge/external/dna/persons/nicholas-kusmich"
+    justificativa: "Nicholas Kusmich is THE Facebook Ads strategist for high-ticket coaches/consultants. Non-Ad Ad philosophy + 10-Element Perfect Ad Formula + JV Jedi Strategy are unique contributions. Message-first approach complements tactical experts with strategic positioning and funnel architecture."
+    added: "2026-03-27"
 
   - pessoa: "jeremy-haynes"
     peso: 0.80
@@ -266,6 +285,21 @@ dna_primario:
     path: "/knowledge/external/dna/persons/todd-brown"
     justificativa: "590 elementos DNA — posicionamento de oferta e unique mechanism para ads"
     added: "2026-03-21"
+
+  - pessoa: "jon-loomer"
+    peso: 0.85
+    dominios_absorvidos:
+      - "Facebook Ads Scaling"
+      - "Horizontal Scaling Architecture"
+      - "Audience Optimization"
+      - "Budget Management"
+      - "Creative Strategy"
+      - "Remarketing Systems"
+      - "Dynamic Product Ads"
+      - "Bidding Strategy"
+    path: "/knowledge/external/dna/persons/jon-loomer"
+    justificativa: "79 elementos DNA — Power Hitters Club founder + Andrew Foxwell ($10M+ managed). 4-Phase Scaling Checklist (most structured progression), Social Proofing System (PPE→Post ID→conversion), Remarketing Rework (multi-window), DPA Complexity Progression, Budget Allocation 60/20/10/10, Learning Phase Management."
+    added: "2026-03-27"
 
 # ═══════════════════════════════════════════════════════════════════════════════
 # LAYERS DNA COM ESTATISTICAS

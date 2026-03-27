@@ -1,0 +1,130 @@
+###############################################################################
+#  DNA-CONFIG — NICHOLAS KUSMICH
+#  Versão: 1.0.0
+#  Tipo: SOLO (pessoa)
+#  Última atualização: 2026-03-27
+###############################################################################
+
+meta:
+  person: "Nicholas Kusmich"
+  type: "SOLO"
+  version: "1.0.0"
+  total_elements: 200
+  layer_counts:
+    L1_PHILOSOPHIES: 35
+    L2_MENTAL_MODELS: 25
+    L3_HEURISTICS: 45
+    L4_FRAMEWORKS: 30
+    L5_METHODOLOGIES: 15
+
+identity:
+  full_name: "Nicholas Kusmich"
+  aliases: ["Nikolas Kusmich", "Nick Kusmich"]
+  expertise:
+    - "Facebook/Meta Ads Strategy"
+    - "Lead Generation & Funnel Architecture"
+    - "Campaign Launches (PLF-style)"
+    - "Ad Copywriting & Image Strategy"
+    - "JV Partnership Marketing"
+    - "Market Positioning & Niching"
+    - "Lead Magnet Design"
+    - "Retargeting & Scaling"
+  positioning: "Leading Facebook ads strategist for high-end coaches, consultants, and info marketers"
+  notable_clients:
+    - "Joe Polish (Piranha Marketing / 25K Group)"
+    - "MindValley"
+    - "Various high-ticket coaches and consultants"
+  mentors_influences:
+    - "Simon Sinek (Golden Circles / Start With Why)"
+    - "Gary Vaynerchuk (Jab Jab Right Hook)"
+    - "Seth Godin (Purple Cow)"
+    - "Robert Cialdini (Influence / Reciprocity)"
+    - "Taki Moore / Matt Church (Pink Sheet Framework)"
+    - "Brian Tracy (Eat That Frog)"
+    - "Jeff Walker (Product Launch Formula concepts)"
+    - "Dean Jackson (Nine-Word Email)"
+    - "Giovanni (Ascension Model / real estate example)"
+
+dna_sources:
+  - id: "FFF"
+    name: "Facebook Floodgate Formula"
+    type: "COURSE"
+    modules: 6
+    files: 15
+    total_bytes: 474667
+    domains:
+      - "market-positioning"
+      - "messaging"
+      - "lead-magnets"
+      - "facebook-ads"
+      - "funnel-architecture"
+      - "conversion-optimization"
+      - "ad-copywriting"
+    raiz: "knowledge/external/sources/nicholas-kusmich/raw/Nicholas Kusmich - Facebook Floodgate Formula/"
+    weight: 1.0
+
+  - id: "CLF"
+    name: "The Campaign Launch Formula"
+    type: "MASTERCLASS"
+    modules: 1
+    files: 1
+    total_bytes: 102937
+    domains:
+      - "campaign-launches"
+      - "facebook-ads"
+      - "retargeting"
+      - "jv-partnerships"
+      - "scaling"
+      - "ad-copywriting"
+    raiz: "knowledge/external/sources/nicholas-kusmich/raw/Nicholas Kusmich - The Campaign Launch Formula/"
+    weight: 1.0
+
+  - id: "APFA"
+    name: "Anatomy of a Perfect FB Ad Webinar"
+    type: "WEBINAR"
+    modules: 1
+    files: 1
+    total_bytes: 96171
+    domains:
+      - "facebook-ads"
+      - "ad-copywriting"
+      - "lead-generation"
+    raiz: "knowledge/external/sources/nicholas-kusmich/raw/Nikolas Kusmich - Rapid Scaling Matrix Masterclass/"
+    weight: 1.0
+
+  - id: "RSM"
+    name: "Rapid Scaling Matrix - ACCELERATE INCUBATOR"
+    type: "MASTERCLASS"
+    modules: 1
+    files: 1
+    total_bytes: 191561
+    status: "BINARY_FILE_NEEDS_RETRANSCRIPTION"
+    note: "File is .ts video container, not text transcription. Needs Whisper processing."
+    domains:
+      - "scaling"
+      - "facebook-ads"
+    raiz: "knowledge/external/sources/nicholas-kusmich/raw/Nikolas Kusmich - Rapid Scaling Matrix Masterclass/"
+    weight: 0.0
+
+domains:
+  primary:
+    - "facebook-ads"
+    - "lead-generation"
+    - "campaign-launches"
+    - "funnel-architecture"
+  secondary:
+    - "market-positioning"
+    - "messaging"
+    - "lead-magnets"
+    - "retargeting"
+    - "scaling"
+    - "jv-partnerships"
+    - "ad-copywriting"
+    - "conversion-optimization"
+
+next_ids:
+  FIL: "FIL-NK-036"
+  MM: "MM-NK-026"
+  HEUR: "HEUR-NK-046"
+  FW: "FW-NK-031"
+  MET: "MET-NK-016"

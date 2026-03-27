@@ -3,11 +3,11 @@
 # Status: SCAFFOLD — needs enrichment
 
 cargo: "Media Buyer"
-versao: "3.0.0"  # Molly Pittman added as PRIMARY source (peso 0.95, 397 elements). Traffic Plays (12 plays), Traffic Temperature, 5 Elements of High Converting Campaign, CBO Scaling, Retargeting Layers, Ad Grid, Traffic Engine 9-Step.
+versao: "5.0.0"  # Nicholas Kusmich added (peso 0.80, 200 elements). Non-Ad Ad philosophy, 10-Element Perfect Ad Formula, Campaign Launch Formula 3-phase, SAGE Magnet Framework, JV Jedi Strategy, Anatomy of Perfect Ad/Landing Page, Feel-Felt-Found copy, SNAP/CRAP/GAP/TRAP, Surround Sound Campaigns, image strategy (80% of ad success = image), scaling 15-20% every 2 days.
 nivel: "MARKETING"
 natureza: "HIBRIDO"
 data_criacao: "2026-03-22"
-ultima_atualizacao: "2026-03-26"
+ultima_atualizacao: "2026-03-27"
 status: "ENRICHED"
 
 dominio_primario: "traffic"
@@ -78,4 +78,48 @@ fontes:
     added: "2026-03-25"
     fontes_incluidas:
       - "Hackers do Marketing (508 files, 173 elements — tráfego Meta Ads BR, escala, criativos, fases de campanha)"
+
+  - fonte: "nicholas-kusmich"
+    path: "knowledge/external/dna/persons/nicholas-kusmich/"
+    raiz: "knowledge/external/sources/nicholas-kusmich/raw/"
+    peso: 0.80
+    total_elementos: 200
+    dominios_usados:
+      - "facebook-ads"
+      - "lead-generation"
+      - "campaign-launches"
+      - "funnel-architecture"
+      - "ad-copywriting"
+      - "retargeting"
+      - "scaling"
+      - "jv-partnerships"
+    quando_usar: "Non-Ad Ad philosophy for ad creation that looks social, 10-Element Perfect Ad Formula for ad copy structure, Campaign Launch Formula 3-phase for launches, SAGE for magnet design, JV Jedi for JV page ad campaigns, Anatomy of Perfect Ad/Landing Page for creative templates, Feel-Felt-Found for rapport copy, SNAP/CRAP/GAP/TRAP for magnet type selection, image strategy (80% of success = image, contrast 10-30%)"
+    justificativa: "Nicholas Kusmich is THE Facebook Ads strategist for high-ticket coaches/consultants — Non-Ad Ad philosophy, JV Jedi Strategy (1/4 cost via JV pages), and message-first approach complement tactical experts (Jeremy Haynes, Cat Howell) with strategic positioning."
+    status: "enriched"
+    added: "2026-03-27"
+    fontes_incluidas:
+      - "Facebook Floodgate Formula (15 files, 6 modules — market positioning to case studies)"
+      - "Campaign Launch Formula (1 file — 3-phase launch system)"
+      - "Anatomy of Perfect FB Ad Webinar (1 file — 10-Element formula)"
+
+  - fonte: "jon-loomer"
+    path: "knowledge/external/dna/persons/jon-loomer/"
+    raiz: "knowledge/external/sources/jon-loomer/raw/scaling-fb-ads-for-success/"
+    peso: 0.85
+    total_elementos: 79
+    dominios_usados:
+      - "facebook-ads"
+      - "scaling"
+      - "audience-optimization"
+      - "budget-management"
+      - "creative-strategy"
+      - "remarketing"
+      - "dynamic-product-ads"
+      - "bidding-strategy"
+    quando_usar: "4-Phase Scaling Checklist for systematic scaling, Horizontal Scaling Architecture for multi-vector expansion, Social Proofing System for PPE→conversion Post ID transfer, Remarketing Rework for multi-window DPA/WCA, Budget Allocation 60/20/10/10 for funnel spend distribution, Learning Phase Management for 50/week optimization, $2,500 lookalike decay threshold, 10-30% vertical scaling rate every 48-72h"
+    justificativa: "Jon Loomer (Power Hitters Club) + Andrew Foxwell ($10M+ managed) provide the foundational scaling education framework — 4-Phase Checklist is the most structured progression. Social Proofing via Post ID transfer and Remarketing Rework are unique methodologies. Complements Molly Pittman (broader traffic ed), Frank Kern (platform depth), Jeremy Haynes (aggressive bidding), Cat Howell (testing), and Lucio Artes (BR Meta) with structured SCALING-FIRST framework."
+    status: "enriched"
+    added: "2026-03-27"
+    fontes_incluidas:
+      - "Scaling FB Ads for Success (7 files, 79 elements — 2 sessions Fundamentals + Advanced with Andrew Foxwell, 2018)"
 

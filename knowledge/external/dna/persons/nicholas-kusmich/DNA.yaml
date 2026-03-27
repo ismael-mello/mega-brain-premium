@@ -1,0 +1,798 @@
+###############################################################################
+#  DNA COGNITIVO — NICHOLAS KUSMICH
+#  Versão: 1.0.0
+#  Elementos: 200
+#  Fontes: 3 programas (FFF, CLF, APFA) | 20 arquivos válidos
+#  Domínios: facebook-ads, lead-generation, campaign-launches, funnel-architecture,
+#            market-positioning, messaging, lead-magnets, retargeting, scaling,
+#            jv-partnerships, ad-copywriting, conversion-optimization
+#  Última atualização: 2026-03-27
+#  Next IDs: FIL-NK-036, MM-NK-026, HEUR-NK-046, FW-NK-031, MET-NK-016
+###############################################################################
+
+meta:
+  person: "Nicholas Kusmich"
+  version: "1.0.0"
+  total_elements: 200
+  sources: 3
+  programs:
+    - id: "FFF"
+      name: "Facebook Floodgate Formula"
+      files: 15
+      type: "COURSE"
+    - id: "CLF"
+      name: "The Campaign Launch Formula"
+      files: 1
+      type: "MASTERCLASS"
+    - id: "APFA"
+      name: "Anatomy of a Perfect FB Ad Webinar"
+      files: 1
+      type: "WEBINAR"
+  note: "RSM Incubator file was binary (.ts container) — needs re-transcription"
+
+layers:
+
+  L1_PHILOSOPHIES:
+    count: 35
+    elements:
+      - id: "FIL-NK-001"
+        content: "Marketing is not persuasion and marketing is not manipulation. Marketing is not turning a no into a yes — it is finding customers who are already saying yes."
+        domain: "market-positioning"
+        source: "FFF-Mod1"
+
+      - id: "FIL-NK-002"
+        content: "You are in the business of helping people. You are a solution provider. Your title is nice but what you actually do is bring solutions to people's problems."
+        domain: "market-positioning"
+        source: "FFF-Mod1"
+
+      - id: "FIL-NK-003"
+        content: "Your business hinges not on your ability to provide a product or service, but on identifying the needs of your market and providing a solution."
+        domain: "market-positioning"
+        source: "FFF-Mod1"
+
+      - id: "FIL-NK-004"
+        content: "Would you rather be a small fish in a big pond or a big fish in a small pond? I will take small pond all day long."
+        domain: "market-positioning"
+        source: "FFF-Mod1"
+
+      - id: "FIL-NK-005"
+        content: "Find an underserved affluent segment of your marketplace and then be the best solution provider in that space. When you do that, there is no competition."
+        domain: "market-positioning"
+        source: "FFF-Mod1"
+
+      - id: "FIL-NK-006"
+        content: "Be the Ferrari, not the Toyota. The Ferrari salesman works a lot less and gets paid a lot more than the Toyota dealer."
+        domain: "market-positioning"
+        source: "FFF-Mod1"
+
+      - id: "FIL-NK-007"
+        content: "Rejection marketing — being strong enough to say no to the wrong people and only yes to the right people. By excluding others, you make current clients feel special."
+        domain: "market-positioning"
+        source: "FFF-Mod1"
+
+      - id: "FIL-NK-008"
+        content: "People don't buy what you do, they buy why you do it. Organizations that start from WHY dominate those that start from WHAT."
+        domain: "messaging"
+        source: "FFF-Mod2"
+
+      - id: "FIL-NK-009"
+        content: "Attention is the commodity we are all competing for. Before you can persuade, teach, or influence, you must first CAPTURE attention."
+        domain: "facebook-ads"
+        source: "FFF-Mod2"
+
+      - id: "FIL-NK-010"
+        content: "We always transact based on feeling or emotion and then later justify that action based on logic. People are led by their feelings."
+        domain: "messaging"
+        source: "FFF-Mod2"
+
+      - id: "FIL-NK-011"
+        content: "People don't remember what you say. They remember how they feel when you said it."
+        domain: "messaging"
+        source: "FFF-Mod2"
+
+      - id: "FIL-NK-012"
+        content: "We are paid in direct proportion to the value that we bring to our marketplace."
+        domain: "market-positioning"
+        source: "FFF-Mod2"
+
+      - id: "FIL-NK-013"
+        content: "Service is our model, not sales. Business should be customer-centric, not us-centric."
+        domain: "market-positioning"
+        source: "FFF-Mod2"
+
+      - id: "FIL-NK-014"
+        content: "People don't care about us or our business. People care about themselves and everybody is looking for a result."
+        domain: "messaging"
+        source: "FFF-Mod2"
+
+      - id: "FIL-NK-015"
+        content: "A teacher is always perceived as an expert and authority. He who teaches is an authority. Client-imposed authority can never be taken away."
+        domain: "lead-magnets"
+        source: "FFF-Mod2"
+
+      - id: "FIL-NK-016"
+        content: "In today's digital world you cannot always be selling. The market is jaded. The ABC approach no longer works."
+        domain: "messaging"
+        source: "FFF-Mod2"
+
+      - id: "FIL-NK-017"
+        content: "Most people are not going to do business with you on first exposure. You need a means to keep the conversation going."
+        domain: "lead-generation"
+        source: "FFF-Mod3"
+
+      - id: "FIL-NK-018"
+        content: "The lifeline of any business is deal flow. If you don't have deal flow, you don't really have a business."
+        domain: "lead-generation"
+        source: "FFF-Mod3"
+
+      - id: "FIL-NK-019"
+        content: "What holds people back from taking action is not that they don't trust you — they don't trust themselves."
+        domain: "conversion-optimization"
+        source: "FFF-Mod3"
+
+      - id: "FIL-NK-020"
+        content: "You work once and then you get paid forever. You're building a list, an asset, brand equity, a funnel."
+        domain: "funnel-architecture"
+        source: "FFF-Mod4"
+
+      - id: "FIL-NK-021"
+        content: "Your landing page could very well be the most important piece of web real estate that you own. This page is your moneymaker page."
+        domain: "funnel-architecture"
+        source: "FFF-Mod4"
+
+      - id: "FIL-NK-022"
+        content: "The point of your ad is to get the click and that's it. The point of the lander is to capture the lead. Never try to do too much."
+        domain: "facebook-ads"
+        source: "FFF-Mod4"
+
+      - id: "FIL-NK-023"
+        content: "Data over assumptions. Just because someone says something you can't assume they always mean it. The only way you can really know is by seeing the data."
+        domain: "scaling"
+        source: "FFF-Mod4"
+
+      - id: "FIL-NK-024"
+        content: "Small lists can generate massive revenue. Brendan Burchard was Jeff Walker's top affiliate with just 14,000 people. A 5K-15K list can be worth over a million dollars."
+        domain: "lead-generation"
+        source: "FFF-Mod4"
+
+      - id: "FIL-NK-025"
+        content: "Not everything works perfectly — test and iterate. Show the good, the pretty good, and the bad so people can learn from all."
+        domain: "facebook-ads"
+        source: "FFF-Mod6"
+
+      - id: "FIL-NK-026"
+        content: "On Facebook, the straight line is not the straight line. Every step should only sell the next logical step in the process."
+        domain: "funnel-architecture"
+        source: "CLF"
+
+      - id: "FIL-NK-027"
+        content: "I want people to think of a non-ad ad. Ads should look like social shares, not commercial messages, because Facebook is a social platform."
+        domain: "facebook-ads"
+        source: "CLF"
+
+      - id: "FIL-NK-028"
+        content: "We are in the business of releasing happy hormones into our prospects. Through copy and imagery, release endorphins and serotonin attached to your brand."
+        domain: "ad-copywriting"
+        source: "CLF"
+
+      - id: "FIL-NK-029"
+        content: "Information is overrated. People want insight. The difference: information is stuff, insight is what to do with stuff to get a result."
+        domain: "lead-magnets"
+        source: "CLF"
+
+      - id: "FIL-NK-030"
+        content: "Nobody wants an ebook anymore. Ebooks are dead as lead magnets — low desire, often unread."
+        domain: "lead-magnets"
+        source: "CLF"
+
+      - id: "FIL-NK-031"
+        content: "Connection before conversion. One of the greatest human needs is to feel connected. Create the buying trifecta (know, like, trust) before asking for the sale."
+        domain: "conversion-optimization"
+        source: "CLF"
+
+      - id: "FIL-NK-032"
+        content: "Fear of loss is greater than potential for gain. Left-side quadrant (fears/frustrations) drives more action than right-side (wants/aspirations)."
+        domain: "ad-copywriting"
+        source: "CLF"
+
+      - id: "FIL-NK-033"
+        content: "Never fake scarcity. Authenticity matters. Fake deadline extensions erode trust. If scarcity is used, it should be real."
+        domain: "campaign-launches"
+        source: "CLF"
+
+      - id: "FIL-NK-034"
+        content: "Endorsed traffic from influencer pages is far more effective and cost effective than cold traffic when done right."
+        domain: "jv-partnerships"
+        source: "CLF"
+
+      - id: "FIL-NK-035"
+        content: "Deploy, don't just learn. Knowledge without implementation is worthless."
+        domain: "market-positioning"
+        source: "CLF"
+
+  L2_MENTAL_MODELS:
+    count: 25
+    elements:
+      - id: "MM-NK-001"
+        content: "Golden Circles (via Sinek): WHY → HOW → WHAT. Great companies communicate from the inside out. Apple example: 'Here's to the crazy ones' (WHY) before 'We make computers' (WHAT)."
+        domain: "messaging"
+        source: "FFF-Mod2"
+
+      - id: "MM-NK-002"
+        content: "Resonance Model — Message as Frequency. Your message acts like an antenna putting out frequencies. People do business based on resonance — feeling alignment, not content quality."
+        domain: "messaging"
+        source: "FFF-Mod2"
+
+      - id: "MM-NK-003"
+        content: "Jab, Jab, Jab, Right Hook (Vaynerchuk). Your magnet = jab (give). Most people right-hook constantly (sell). Give value multiple times THEN ask."
+        domain: "lead-magnets"
+        source: "FFF-Mod2"
+
+      - id: "MM-NK-004"
+        content: "Purple Cow (Godin). In a field of black-and-white cows, a purple cow is remarkable. Your message/offer must be worth remarking about. Tony Robbins firewalking = purple cow."
+        domain: "messaging"
+        source: "FFF-Mod2"
+
+      - id: "MM-NK-005"
+        content: "Ideas vs IP. Ideas are one-dimensional, a dime a dozen. IP (frameworks, proprietary systems) is three-dimensional — has life, blood, flesh. Transform ideas INTO IP."
+        domain: "messaging"
+        source: "FFF-Mod2"
+
+      - id: "MM-NK-006"
+        content: "Value-First Economy. People don't care about your business, they care about results. Customer-centric approach creates goodwill and builds know-like-trust."
+        domain: "market-positioning"
+        source: "FFF-Mod2"
+
+      - id: "MM-NK-007"
+        content: "Insight Over Information. Information is abundant and overloading. The marketplace wants INSIGHT — how to make information applicable for immediate results."
+        domain: "lead-magnets"
+        source: "FFF-Mod3"
+
+      - id: "MM-NK-008"
+        content: "Snap/Crap/Gap/Trap Matrix. 2x2 with Desire (high/low) x Consumption Ease (easy/hard). SNAP = cheat sheets (START HERE). CRAP = ebooks (AVOID). GAP = video courses (AFTER WARMUP). TRAP = strategy sessions (AVOID AS FIRST TOUCH)."
+        domain: "lead-magnets"
+        source: "FFF-Mod3"
+
+      - id: "MM-NK-009"
+        content: "96-4 Rule. Beyond Pareto's 80/20 — take 20% of the 20%. Design for the 4% perfect ideal client who shares your beliefs, dreams, and values."
+        domain: "market-positioning"
+        source: "FFF-Mod1"
+
+      - id: "MM-NK-010"
+        content: "Market Position Ladder: Generalist → Specialist → Authority → Celebrity. Higher = more pay, less selling, people predisposed to buy. Goal: move UP the ladder."
+        domain: "market-positioning"
+        source: "FFF-Mod1"
+
+      - id: "MM-NK-011"
+        content: "Ascension Model (via Giovanni). Start with hero client (4%), determine their ideal future and nightmare, then design business to take them away from nightmare toward dream."
+        domain: "market-positioning"
+        source: "FFF-Mod1"
+
+      - id: "MM-NK-012"
+        content: "Mining for Gold Model. 1.23 billion people on Facebook — job is to mine through trash and rubble to find gold. Each targeting filter removes rubble."
+        domain: "facebook-ads"
+        source: "FFF-Mod4"
+
+      - id: "MM-NK-013"
+        content: "University Progression Model. 101 = mandatory (ad + lander). 201/301 = elective choices (indoctrination pieces). Everyone must take 101; path diverges after."
+        domain: "funnel-architecture"
+        source: "FFF-Mod4"
+
+      - id: "MM-NK-014"
+        content: "Swing Through / Follow Through Model. Like golf or baseball — after capturing the lead, worst thing is to just say 'thank you' and leave them. Must follow through."
+        domain: "funnel-architecture"
+        source: "FFF-Mod4"
+
+      - id: "MM-NK-015"
+        content: "Slippery Slope Concept. Entire funnel after lead capture should be designed so each step naturally leads to the next, making it nearly impossible NOT to progress."
+        domain: "funnel-architecture"
+        source: "FFF-Mod5"
+
+      - id: "MM-NK-016"
+        content: "Steps vs Quality Tradeoff. More qualification hoops = higher quality leads but fewer volume. Fewer steps = more volume but lower quality. Conscious strategic choice."
+        domain: "funnel-architecture"
+        source: "FFF-Mod4"
+
+      - id: "MM-NK-017"
+        content: "Contingency Funnel Model. Just because someone says no, it's not the end. Retarget with different offer, different indoctrination piece. Multiple fallback paths."
+        domain: "funnel-architecture"
+        source: "FFF-Mod4"
+
+      - id: "MM-NK-018"
+        content: "Contrast/Comparison Ad Model. 'You've heard of flipping houses. What about flipping businesses?' Use audience's existing mental framework to introduce new concept."
+        domain: "ad-copywriting"
+        source: "FFF-Mod6"
+
+      - id: "MM-NK-019"
+        content: "The Four Forces Model. 2x2: Away From vs Toward (x-axis) × Immediate vs Imagined (y-axis). Frustrations (immediate away), Fears (imagined away), Wants (immediate toward), Aspirations (imagined toward)."
+        domain: "ad-copywriting"
+        source: "CLF"
+
+      - id: "MM-NK-020"
+        content: "Perceived Value vs Perceived Risk. Goal: increase value while decreasing risk. Free removes risk. Compelling name and scarcity ups perceived value."
+        domain: "conversion-optimization"
+        source: "CLF"
+
+      - id: "MM-NK-021"
+        content: "The Buying Trifecta. Know, Like, Trust — three prerequisites for any purchase, built through connection, not selling."
+        domain: "conversion-optimization"
+        source: "CLF"
+
+      - id: "MM-NK-022"
+        content: "The Iceberg Model. What's visible (the ad) is 10% of the total system (the full methodology). Most of the work is below the surface."
+        domain: "facebook-ads"
+        source: "CLF"
+
+      - id: "MM-NK-023"
+        content: "Forest & Tree Model. Best place to hide a tree is in a forest. Your ad image must do the OPPOSITE of blending in. Stand out from the news feed."
+        domain: "facebook-ads"
+        source: "CLF"
+
+      - id: "MM-NK-024"
+        content: "The Sales Yes Ladder. Sales is a series of small yeses leading to a big yes. Each micro-commitment builds toward the purchase decision."
+        domain: "conversion-optimization"
+        source: "CLF"
+
+      - id: "MM-NK-025"
+        content: "Woman's Skirt Rule for content length. Long enough to cover the essentials, short enough to keep it interesting."
+        domain: "lead-magnets"
+        source: "CLF"
+
+  L3_HEURISTICS:
+    count: 45
+    elements:
+      - id: "HEUR-NK-001"
+        content: "Ad exposure: from 500 ads/day in 1970s to 5,000 ads/day today. Noise increased 10x."
+        domain: "facebook-ads"
+        source: "FFF-Mod2"
+
+      - id: "HEUR-NK-002"
+        content: "A list is worth up to $10 per name per month for the lifetime of that list. 1,000 people = $10K/month potential."
+        domain: "lead-generation"
+        source: "FFF-Mod3"
+
+      - id: "HEUR-NK-003"
+        content: "Magnet consumption time: 4-7 minutes maximum. Closer to 4 is better. One to three pages max."
+        domain: "lead-magnets"
+        source: "FFF-Mod3"
+
+      - id: "HEUR-NK-004"
+        content: "Magnet should be 1-5 pages maximum, PDF format, downloadable."
+        domain: "lead-magnets"
+        source: "FFF-Mod3"
+
+      - id: "HEUR-NK-005"
+        content: "The definite article 'THE' must start every framework/program name. Creates tangibility."
+        domain: "messaging"
+        source: "FFF-Mod2"
+
+      - id: "HEUR-NK-006"
+        content: "Framework names must end with a technological word: System, Blueprint, Planner, Builder, Assessment, Process."
+        domain: "messaging"
+        source: "FFF-Mod2"
+
+      - id: "HEUR-NK-007"
+        content: "If your PDF magnet looks like crap, that is the perception you bring to the marketplace. Design quality = perceived expertise."
+        domain: "lead-magnets"
+        source: "FFF-Mod3"
+
+      - id: "HEUR-NK-008"
+        content: "Top-performing magnets: cheat sheets, blueprints, and templates. Outperform ebooks, video courses, webinars as first-touch."
+        domain: "lead-magnets"
+        source: "FFF-Mod3"
+
+      - id: "HEUR-NK-009"
+        content: "Support every main point with at least 3 'stuffs' — stories, case studies, statistics, examples, processes."
+        domain: "messaging"
+        source: "FFF-Mod2"
+
+      - id: "HEUR-NK-010"
+        content: "Ad testing budget: $10-25/day for 24-36 hours per ad set."
+        domain: "facebook-ads"
+        source: "FFF-Mod4"
+
+      - id: "HEUR-NK-011"
+        content: "Any lead under $5 is considered really good."
+        domain: "lead-generation"
+        source: "FFF-Mod4"
+
+      - id: "HEUR-NK-012"
+        content: "Industry average for webinar registrant: ~$8."
+        domain: "lead-generation"
+        source: "FFF-Mod4"
+
+      - id: "HEUR-NK-013"
+        content: "Always separate interests — one interest per ad set for clear measurement."
+        domain: "facebook-ads"
+        source: "FFF-Mod4"
+
+      - id: "HEUR-NK-014"
+        content: "Yellow/orange download button. The most popular button in online marketing is Amazon's add-to-cart button."
+        domain: "conversion-optimization"
+        source: "FFF-Mod4"
+
+      - id: "HEUR-NK-015"
+        content: "'Download Now' outperforms all other CTAs tested — beats 'get instant access', 'grab it today', 'claim my magnet'."
+        domain: "conversion-optimization"
+        source: "FFF-Mod4"
+
+      - id: "HEUR-NK-016"
+        content: "Two-step opt-in (micro commitment) outperforms one-step. Progress bar at 50% triggers completion psychology."
+        domain: "conversion-optimization"
+        source: "FFF-Mod4"
+
+      - id: "HEUR-NK-017"
+        content: "Ad scent must match landing page — colors, imagery, language must be congruent."
+        domain: "conversion-optimization"
+        source: "FFF-Mod4"
+
+      - id: "HEUR-NK-018"
+        content: "Tripwire price range: $7 to $297."
+        domain: "funnel-architecture"
+        source: "FFF-Mod5"
+
+      - id: "HEUR-NK-019"
+        content: "Case study video optimal length: 20-30 minutes."
+        domain: "funnel-architecture"
+        source: "FFF-Mod5"
+
+      - id: "HEUR-NK-020"
+        content: "Multi-part video series drop-off: ~50% per video. 100 watch V1, maybe 50 V2, maybe 25 V3."
+        domain: "funnel-architecture"
+        source: "FFF-Mod5"
+
+      - id: "HEUR-NK-021"
+        content: "Book call IMMEDIATELY after application — next page = booking page with calendar access."
+        domain: "conversion-optimization"
+        source: "FFF-Mod5"
+
+      - id: "HEUR-NK-022"
+        content: "$2.41/webinar registrant = excellent (70% below industry average of ~$8)."
+        domain: "lead-generation"
+        source: "FFF-Mod6"
+
+      - id: "HEUR-NK-023"
+        content: "$46.82/conversion = campaign failure. Causes: too technical, vague product name, casual imagery."
+        domain: "facebook-ads"
+        source: "FFF-Mod6"
+
+      - id: "HEUR-NK-024"
+        content: "No sunglasses in ad images — eyes build trust. People hiding eyes feels like hiding something."
+        domain: "facebook-ads"
+        source: "FFF-Mod6"
+
+      - id: "HEUR-NK-025"
+        content: "Avoid too much technical jargon in ads. You'll lose people."
+        domain: "ad-copywriting"
+        source: "FFF-Mod6"
+
+      - id: "HEUR-NK-026"
+        content: "Vague product names kill conversion. 'The Hyperlist Method' — no one knows what that is."
+        domain: "ad-copywriting"
+        source: "FFF-Mod6"
+
+      - id: "HEUR-NK-027"
+        content: "English-speaking country targets: US, Canada, Australia, UK — top first-world English-speaking countries."
+        domain: "facebook-ads"
+        source: "FFF-Mod6"
+
+      - id: "HEUR-NK-028"
+        content: "80% of ad success = the image. 95% of attention capture relies on the image."
+        domain: "facebook-ads"
+        source: "CLF"
+
+      - id: "HEUR-NK-029"
+        content: "Image contrast boost: 10-30% in photo editor. Or convert to grayscale/sepia to pop from newsfeed."
+        domain: "facebook-ads"
+        source: "CLF"
+
+      - id: "HEUR-NK-030"
+        content: "Budget split for launches: 75% lead gen (Phase 1), 12.5% consumption (Phase 2), 12.5% conversion (Phase 3)."
+        domain: "campaign-launches"
+        source: "CLF"
+
+      - id: "HEUR-NK-031"
+        content: "Cost per click threshold: $2 or under to remain profitable."
+        domain: "facebook-ads"
+        source: "CLF"
+
+      - id: "HEUR-NK-032"
+        content: "Daily budget per ad set = 3-5x goal CPA. If goal CPL is $5, budget = $20-25/day."
+        domain: "facebook-ads"
+        source: "CLF"
+
+      - id: "HEUR-NK-033"
+        content: "One ad per ad set. Never put multiple ads in same ad set — enables clear attribution."
+        domain: "facebook-ads"
+        source: "CLF"
+
+      - id: "HEUR-NK-034"
+        content: "Scale increase: 15-20% budget increase every other day for winning campaigns."
+        domain: "scaling"
+        source: "CLF"
+
+      - id: "HEUR-NK-035"
+        content: "Lead gen ads start 7-10 days before pre-launch content goes live."
+        domain: "campaign-launches"
+        source: "CLF"
+
+      - id: "HEUR-NK-036"
+        content: "JV ads generate leads at 1/4 to 1/2 normal lead cost when running from JV fan pages."
+        domain: "jv-partnerships"
+        source: "CLF"
+
+      - id: "HEUR-NK-037"
+        content: "Cold traffic conversion rate: 3-5% good, 7-9% great."
+        domain: "conversion-optimization"
+        source: "CLF"
+
+      - id: "HEUR-NK-038"
+        content: "99% of the time do NOT use Facebook call-to-action button. CTA buttons make ads look like ads."
+        domain: "facebook-ads"
+        source: "CLF"
+
+      - id: "HEUR-NK-039"
+        content: "No copy on images by default. Text on images looks addy and spammy."
+        domain: "facebook-ads"
+        source: "CLF"
+
+      - id: "HEUR-NK-040"
+        content: "Last 72 hours of a launch = most revenue. That's where the money is."
+        domain: "campaign-launches"
+        source: "CLF"
+
+      - id: "HEUR-NK-041"
+        content: "Always single opt-in for lead generation — reduces friction."
+        domain: "lead-generation"
+        source: "CLF"
+
+      - id: "HEUR-NK-042"
+        content: "Images outperform video most of the time for ads. Static images generally win."
+        domain: "facebook-ads"
+        source: "CLF"
+
+      - id: "HEUR-NK-043"
+        content: "Never use spammy visual elements — no ultra bright red borders, fluorescent colors, arrows, focus points."
+        domain: "facebook-ads"
+        source: "CLF"
+
+      - id: "HEUR-NK-044"
+        content: "Payment plan revenue attribution: factor in 50%. Six-pay plan = count as three-pay."
+        domain: "campaign-launches"
+        source: "CLF"
+
+      - id: "HEUR-NK-045"
+        content: "45% opt-in rate benchmark. Client case: 1,158 leads from 2,555 visitors at $1.81/lead."
+        domain: "conversion-optimization"
+        source: "FFF-Mod4"
+
+  L4_FRAMEWORKS:
+    count: 30
+    elements:
+      - id: "FW-NK-001"
+        content: "Three Key Principles to Market Domination. (1) Find Your Pond — carve out your market piece. (2) Identify Your Fish — create your avatar. (3) Cast Your Net — call on your recon."
+        domain: "market-positioning"
+        source: "FFF-Mod1"
+
+      - id: "FW-NK-002"
+        content: "Market Position Ladder. Generalist → Specialist → Authority → Celebrity. Example in real estate: Agent → Pre-construction Condo Specialist → Robert Kiyosaki → Donald Trump."
+        domain: "market-positioning"
+        source: "FFF-Mod1"
+
+      - id: "FW-NK-003"
+        content: "Marketing Triangle. (1) Market Pulse — current industry trends. (2) Market Behavior — how audience behaves online/offline. (3) Customer Avatar — detailed composite character."
+        domain: "market-positioning"
+        source: "FFF-Mod1"
+
+      - id: "FW-NK-004"
+        content: "Three Key Principles to Mastering Your Message. (1) Know Your WHY — customer's fears/frustrations/wants/desires. (2) Frame Your WHAT — turn ideas into IP via Pink Sheet. (3) Make It Sexy — naming strategy."
+        domain: "messaging"
+        source: "FFF-Mod2"
+
+      - id: "FW-NK-005"
+        content: "Pink Sheet Framework (via Taki Moore/Matt Church). TOP BOX: Point (concepts, tactics). MIDDLE BOX: Stuff (stories, stats, case studies — min 3). BOTTOM BOX: Big Picture (metaphor + visual model)."
+        domain: "messaging"
+        source: "FFF-Mod2"
+
+      - id: "FW-NK-006"
+        content: "4-Question Naming Strategy. (1) What is it? (2) What's the benefit? (3) How does it make them feel? (4) Any metaphors? Circle keywords → THE + keyword + technological word."
+        domain: "messaging"
+        source: "FFF-Mod2"
+
+      - id: "FW-NK-007"
+        content: "Two Golden Rules of New Era Marketing. Rule 1: We must give before we take or ask. Rule 2: Every step of marketing must be valuable in and of itself."
+        domain: "lead-magnets"
+        source: "FFF-Mod3"
+
+      - id: "FW-NK-008"
+        content: "SAGE Principle for Lead Magnets. S=Short (4-7min), A=Actionable (insight not info), G=Goal-oriented (one step closer), E=Easy (12-year-old can do it)."
+        domain: "lead-magnets"
+        source: "FFF-Mod3"
+
+      - id: "FW-NK-009"
+        content: "Triangle of Trust. Educate → builds AUTHORITY. Engage → builds TRUST. Inspire → builds LOYALTY. All three together: prospects love, respect, trust, and buy from you."
+        domain: "lead-magnets"
+        source: "FFF-Mod3"
+
+      - id: "FW-NK-010"
+        content: "Magnet Framework (PDF Structure). (1) Intro/Setup — who you are, what it does → LIKEABILITY. (2) Content/Meat — methods, insight, steps → AUTHORITY. (3) CTA — what to do next → CONSISTENCY."
+        domain: "lead-magnets"
+        source: "FFF-Mod3"
+
+      - id: "FW-NK-011"
+        content: "Three Purposes of a Magnet. (1) Get you HEARD — first impression. (2) Generate a LIST — value for email exchange. (3) Build AUTHORITY — teaching = perceived expertise."
+        domain: "lead-magnets"
+        source: "FFF-Mod3"
+
+      - id: "FW-NK-012"
+        content: "Anatomy of the Perfect Ad. 8 elements: Question opener, urgency clause, name the magnet, state benefit, CTA, blue hyperlink, high-contrast image, headline with FREE DOWNLOAD."
+        domain: "facebook-ads"
+        source: "FFF-Mod4"
+
+      - id: "FW-NK-013"
+        content: "Anatomy of the Perfect Landing Page. Logo (top left), benefit headline, magnet image, FREE type DOWNLOAD, magnet name, benefit statement, yellow Download Now button, text link CTA, footer."
+        domain: "conversion-optimization"
+        source: "FFF-Mod4"
+
+      - id: "FW-NK-014"
+        content: "5 Key Principles to Tuning the Mechanism. (1) Map your funnel, (2) Focus your target, (3) Offer the bait, (4) Capture and convert, (5) Swing through (follow through)."
+        domain: "funnel-architecture"
+        source: "FFF-Mod4"
+
+      - id: "FW-NK-015"
+        content: "5 Indoctrination Piece Options. (1) Webinar, (2) Case study video (20-30min), (3) Multi-part video series, (4) Tripwire sales page ($7-$297), (5) Direct to strategy session."
+        domain: "funnel-architecture"
+        source: "FFF-Mod5"
+
+      - id: "FW-NK-016"
+        content: "Enrollment Call Offer Script Template. (1) Intro — thank for magnet, set time. (2) Setup — name, credential statement, frustration question. (3) Optional — reiterate value. (4) Offer — strategy session with benefits + scarcity."
+        domain: "conversion-optimization"
+        source: "FFF-Mod5"
+
+      - id: "FW-NK-017"
+        content: "Strategy Session Application Form. Fields: name, phone, email, qualifying question, revenue, goal revenue, areas of struggle, 'why haven't you reached goals?', self-description selector."
+        domain: "conversion-optimization"
+        source: "FFF-Mod5"
+
+      - id: "FW-NK-018"
+        content: "Credential Statement Formula. 'In the last [X] years I've helped over [N] people who are [ideal client] struggling with [struggle] to get [result] so they could [benefit].'"
+        domain: "messaging"
+        source: "FFF-Mod5"
+
+      - id: "FW-NK-019"
+        content: "Campaign Diagnosis Framework. Evaluate: (1) Name clarity, (2) Technical jargon level, (3) Image appropriateness, (4) Text length, (5) Topic appeal, (6) Eye contact in images."
+        domain: "facebook-ads"
+        source: "FFF-Mod6"
+
+      - id: "FW-NK-020"
+        content: "Campaign Launch Formula (3-Phase System). Phase 1: ATTRACTION (lead gen, 75% budget). Phase 2: CONSUMPTION (get leads to consume PLC). Phase 3: CONVERSION (descend & landing, sales)."
+        domain: "campaign-launches"
+        source: "CLF"
+
+      - id: "FW-NK-021"
+        content: "10-Element Perfect Ad Formula. Principle 1 ATTENTION: (1) Image. Principle 2 CONNECTION: (2) Yes Question, (3) Feel-Felt-Found rapport. Principle 3 ACTION: (4) Time sensitivity, (5) Offer, (6) CTA, (7) Scrambled URL, (8) Image test, (9) Headline, (10) Supporting benefit with cliffhanger."
+        domain: "facebook-ads"
+        source: "CLF"
+
+      - id: "FW-NK-022"
+        content: "JV Jedi Strategy. Run ads FROM JV's fan page TO JV's fans using YOUR ad account and THEIR affiliate link. You cover spend, they get commissions, leads cost 1/4 to 1/2 normal."
+        domain: "jv-partnerships"
+        source: "CLF"
+
+      - id: "FW-NK-023"
+        content: "Mirror/Surround Sound Campaigns. Whatever you send via email, simultaneously create ads saying the same thing to custom audiences. Dual-channel delivery maximizes consumption."
+        domain: "campaign-launches"
+        source: "CLF"
+
+      - id: "FW-NK-024"
+        content: "Descend & Landing Framework (3 Phases of Cart). (1) Announcement — doors open. (2) Join Others — social proof mid-launch. (3) Last Chance — escalating urgency final 72 hours."
+        domain: "campaign-launches"
+        source: "CLF"
+
+      - id: "FW-NK-025"
+        content: "Bonus Stacking/Removing Framework. Two approaches: Stack bonuses for today enrollees, or Remove bonuses after deadline. Plus: Payment Plan option + Reduced/Silver edition down-sell."
+        domain: "campaign-launches"
+        source: "CLF"
+
+      - id: "FW-NK-026"
+        content: "Feel-Felt-Found Copy Sequence. 'I know how you FEEL... I FELT the same way too... until I FOUND this [solution].' Rapport-building copy framework for every ad."
+        domain: "ad-copywriting"
+        source: "CLF"
+
+      - id: "FW-NK-027"
+        content: "PLC Content Architecture. 4 pieces: (1) Big Idea — misconceptions + unique approach. (2) Demonstration — idea in practice. (3) Case Studies — people getting results. (4) The Offer."
+        domain: "campaign-launches"
+        source: "CLF"
+
+      - id: "FW-NK-028"
+        content: "Inclusion/Exclusion Retargeting Architecture. Include: everyone who saw PREVIOUS page. Exclude: anyone who saw NEXT page + anyone who bought. Always exclude confirmation page."
+        domain: "retargeting"
+        source: "CLF"
+
+      - id: "FW-NK-029"
+        content: "The Four Forces Framework. 2x2 grid: Frustrations (immediate away-from), Fears (imagined away-from), Wants (immediate toward), Aspirations (imagined toward). Left side drives more action."
+        domain: "ad-copywriting"
+        source: "CLF"
+
+      - id: "FW-NK-030"
+        content: "Contextual Congruence Methodology (8 Stages). The 10-Element Perfect Ad is one of eight stages. Full system responsible for highest ROIs in the industry."
+        domain: "facebook-ads"
+        source: "CLF"
+
+  L5_METHODOLOGIES:
+    count: 15
+    elements:
+      - id: "MET-NK-001"
+        content: "Survey Siphon Process. Ask audience 2-3 questions via SurveyMonkey/Wufoo — 'What are your top 3 questions about X?' Then build products/offers around their exact answers."
+        domain: "market-positioning"
+        source: "FFF-Mod1"
+
+      - id: "MET-NK-002"
+        content: "Graph Search Research Process. Type 'Pages liked by people who like [influencer]' → compile list → repeat per result → build massive targeting list in spreadsheet."
+        domain: "facebook-ads"
+        source: "FFF-Mod1"
+
+      - id: "MET-NK-003"
+        content: "Audience Insights Mining. Select influencer → Demographics (age/gender) → Lifestyle → Relationship → Education → Job titles → Page likes → Location → Activity → Devices → Household → Spending."
+        domain: "facebook-ads"
+        source: "FFF-Mod1"
+
+      - id: "MET-NK-004"
+        content: "Ideas-to-IP Conversion. (1) Brain dump everything. (2) Arrange into chunks — main points and sub-points. (3) Create framework using Pink Sheet: points → stuff → big picture with metaphor + model."
+        domain: "messaging"
+        source: "FFF-Mod2"
+
+      - id: "MET-NK-005"
+        content: "Framework Naming Process. (1) Answer 4 questions. (2) Circle keywords. (3) Start with THE. (4) Insert 1-2 circled words. (5) End with technological word. (6) Take 2-3 spins. (7) Select strongest."
+        domain: "messaging"
+        source: "FFF-Mod2"
+
+      - id: "MET-NK-006"
+        content: "Magnet Creation Process. (1) List target's greatest problems. (2) List easy solutions you can help with. (3) Apply SAGE. (4) Apply Triangle of Trust. (5) Choose format (cheat sheet/blueprint/template). (6) Structure: Intro → Content → CTA. (7) Professional design. (8) Create multiple magnets."
+        domain: "lead-magnets"
+        source: "FFF-Mod3"
+
+      - id: "MET-NK-007"
+        content: "Complete Mechanism Build. (1) Map your funnel (determine destination). (2) Focus target (lowest hanging fruit). (3) Offer bait (deploy magnet via ad). (4) Capture and convert (landing page). (5) Swing through (indoctrination + offer)."
+        domain: "funnel-architecture"
+        source: "FFF-Mod4"
+
+      - id: "MET-NK-008"
+        content: "Prospect-to-Client Conversion. (1) Capture lead via magnet. (2) Thank you page with indoctrination. (3) Educate/engage/inspire for know-like-trust. (4) Make offer. (5) Application form qualifies. (6) Booking page. (7) Strategy session. (8) Close."
+        domain: "conversion-optimization"
+        source: "FFF-Mod5"
+
+      - id: "MET-NK-009"
+        content: "Campaign Launch Execution. (1) Create 3 PDF lead magnets. (2) Run conversion campaigns. (3) Position videos as bonuses to PDFs. (4) Release assets one at a time. (5) Begin surround sound campaigns. (6) Push leads through PLC1→2→3. (7) Cart open announcement. (8) Join Others social proof. (9) Last Chance 72h. (10) Close cart."
+        domain: "campaign-launches"
+        source: "CLF"
+
+      - id: "MET-NK-010"
+        content: "Ad Image Selection. (1) Ask 'what 1000 words would this image say?' (2) Select image that tells story through metaphor. (3) Ensure relevance. (4) Boost contrast 10-30%. (5) Create 2+ variations. (6) Test with/without text overlay. (7) Run 24-36h, keep winner."
+        domain: "facebook-ads"
+        source: "CLF"
+
+      - id: "MET-NK-011"
+        content: "Ad Writing Process (10-Element). (1) Yes-question opener. (2) Feel-Felt-Found rapport with Four Forces. (3) Time sensitivity. (4) State offer. (5) CTA. (6) Scrambled URL. (7) Select image. (8) Headline: [Free Download] + Name + Benefit. (9) Supporting benefit with cliffhanger... (10) Display URL as CTA."
+        domain: "facebook-ads"
+        source: "CLF"
+
+      - id: "MET-NK-012"
+        content: "Retargeting Funnel Setup. (1) Install pixel on EVERY page. (2) Create custom audiences per page. (3) For each ad: Include previous step, Exclude next step + buyers. (4) Use CLICK campaigns for retargeting, CONVERSION for lead gen."
+        domain: "retargeting"
+        source: "CLF"
+
+      - id: "MET-NK-013"
+        content: "JV Jedi Execution. (1) Identify JV partners. (2) Build genuine relationship. (3) Propose: run ads on THEIR page, YOU cover spend, THEY get affiliate commissions. (4) Request advertiser access. (5) Create disclosure. (6) Create ads across JV pages. (7) Use unique affiliate links. (8) Track results."
+        domain: "jv-partnerships"
+        source: "CLF"
+
+      - id: "MET-NK-014"
+        content: "Budget Allocation & Scaling. (1) Set daily budget 3-5x goal CPA. (2) Run 2 ads per audience (same copy, different images). (3) Identify winner in 24-36h. (4) Kill loser, keep winner, add challenger. (5) Scale 15-20% every other day. (6) 75/12.5/12.5 split for launches."
+        domain: "scaling"
+        source: "CLF"
+
+      - id: "MET-NK-015"
+        content: "Failed Campaign Diagnosis. (1) Check CPL vs industry average. (2) Evaluate name clarity. (3) Evaluate imagery. (4) Evaluate text length/jargon. (5) Evaluate topic appeal. (6) Identify fixes. (7) Test revised version."
+        domain: "facebook-ads"
+        source: "FFF-Mod6"
