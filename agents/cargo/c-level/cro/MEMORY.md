@@ -2,9 +2,9 @@
 
 > **Agente:** `/agents/cargo/C-LEVEL/CRO/AGENT.md`
 > **Criada:** 2024-12-15
-> **Última atualização:** 2026-03-16
-> **Total de registros:** 41 insights originais + 89 elementos dos batches + IWW enrichment + ES enrichment
-> **Versão:** 3.6.0
+> **Última atualização:** 2026-03-26
+> **Total de registros:** 41 insights originais + 89 elementos dos batches + IWW enrichment + ES enrichment + MP enrichment
+> **Versão:** 3.7.0
 > **Rastreabilidade:** AGENT-COGNITION-PROTOCOL (FASE 1.5), AGENT-INTEGRITY-PROTOCOL
 
 ---
@@ -944,3 +944,19 @@ Cleaner atua em:
 
 *Atualização: 2026-03-16 — Eugene Schwartz / Breakthrough Advertising Enrichment*
 *MEMORY.md v3.6.0*
+
+---
+
+### 2026-03-26 — Molly Pittman Enrichment (397 elements, peso 0.75)
+
+| ID | Insight | Aplicabilidade | Confiança | Ref |
+|----|---------|----------------|-----------|-----|
+| MP-CRO-001 | 7 Acquisition Funnel Types — maps every front-end revenue architecture | Revenue pipeline design — select the right acquisition funnel type for each segment and offer | ALTA | DNA-CONFIG molly-pittman |
+| MP-CRO-002 | Customer Value Optimization (CVO) — LTV maximization across entire pipeline | Revenue optimization — maximize customer value at every stage, not just first transaction | ALTA | DNA-CONFIG molly-pittman |
+| MP-CRO-003 | Traffic Temperature for pipeline analysis — cold/warm/hot determines conversion expectations | Pipeline diagnostics — conversion benchmarks should be calibrated by traffic temperature, not treated as universal | ALTA | DNA-CONFIG molly-pittman |
+| MP-CRO-004 | CBO Scaling — budget optimization methodology | Scaling decisions — systematic approach to budget scaling without breaking campaign economics | ALTA | DNA-CONFIG molly-pittman |
+| MP-CRO-005 | Retargeting Layers — multi-tier re-engagement for pipeline recovery | Pipeline recovery — retarget lost prospects at multiple stages with appropriate messaging per layer | ALTA | DNA-CONFIG molly-pittman |
+| MP-CRO-006 | Splintering Model — extract micro-offers from core offer for cold traffic | Front-end revenue — use splintered offers to acquire customers at break-even, then monetize on back-end | ALTA | DNA-CONFIG molly-pittman |
+
+*Atualização: 2026-03-26 — Molly Pittman Traffic Training Enrichment*
+*MEMORY.md v3.7.0*

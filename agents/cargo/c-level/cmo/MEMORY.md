@@ -2,8 +2,8 @@
 
 > **Agente:** `/agents/cargo/C-LEVEL/CMO/AGENT.md`
 > **Criada:** 2024-12-15
-> **Última atualização:** 2026-03-16T00:00:00
-> **Versão:** 2.7.0
+> **Última atualização:** 2026-03-26
+> **Versão:** 2.8.0
 > **Rastreabilidade:** AGENT-COGNITION-PROTOCOL (FASE 1.5), AGENT-INTEGRITY-PROTOCOL
 
 ---
@@ -1254,3 +1254,19 @@ no nível errado (tratando um prospect Problem Aware como se fosse Most Aware).
 
 *Atualização: 2026-03-16 — Eugene Schwartz / Breakthrough Advertising Enrichment*
 *MEMORY.md v2.7.0*
+
+---
+
+### 2026-03-26 — Molly Pittman Enrichment (397 elements, peso 0.80)
+
+| ID | Insight | Aplicabilidade | Confiança | Ref |
+|----|---------|----------------|-----------|-----|
+| MP-CMO-001 | Traffic Plays (12 plays) — systematic campaign playbook covering every campaign type | Campaign strategy selection — choose the right play for each marketing objective | ALTA | DNA-CONFIG molly-pittman |
+| MP-CMO-002 | Traffic Temperature (cold/warm/hot) — foundational audience segmentation model | Content and ad strategy must match audience temperature — cold=educate, warm=social proof, hot=offer | ALTA | DNA-CONFIG molly-pittman |
+| MP-CMO-003 | 5 Elements of High Converting Campaign — diagnostic checklist | Campaign optimization — check all 5 elements before scaling budget | ALTA | DNA-CONFIG molly-pittman |
+| MP-CMO-004 | ICOSA — content marketing framework | Content strategy — systematic approach to content that drives traffic and builds authority | ALTA | DNA-CONFIG molly-pittman |
+| MP-CMO-005 | Customer Value Optimization (CVO) — LTV maximization framework | Revenue strategy — optimize customer value across entire funnel, not just acquisition | ALTA | DNA-CONFIG molly-pittman |
+| MP-CMO-006 | 7 Acquisition Funnel Types — maps every front-end acquisition model | Funnel architecture — select the right acquisition funnel for each traffic temperature and offer type | ALTA | DNA-CONFIG molly-pittman |
+
+*Atualização: 2026-03-26 — Molly Pittman Traffic Training Enrichment*
+*MEMORY.md v2.8.0*

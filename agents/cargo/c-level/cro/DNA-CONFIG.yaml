@@ -17,7 +17,8 @@
 # ═══════════════════════════════════════════════════════════════════════════════
 
 cargo: "CRO"
-versao: "38.0.0"  # Cole Gordon CIL enrichment (323 elements, peso 0.85) — scaling sales teams, DPL×LTV economics, compensation architecture, hiring/onboarding, pipeline management, outbound operations. CG now includes CIL as 2nd major source.
+versao: "39.0.0"  # Molly Pittman added (peso 0.75, 397 elements) — funnel optimization (7 Acquisition Funnel Types), conversion tracking (Traffic Temperature for funnel stage), scaling methodology (CBO Scaling, Retargeting Layers), Customer Value Optimization (CVO). Traffic-to-revenue bridge.
+# v38.0.0 (prev): Cole Gordon CIL enrichment (323 elements, peso 0.85) — scaling sales teams, DPL×LTV economics, compensation architecture, hiring/onboarding, pipeline management, outbound operations.
 # v37.0.0 (prev): Frank Kern OT+AMM enrichment
 # v35.0.0 (prev)
 # v34.0.0 (2026-03-25): Cat Howell added (peso 0.70, 253 elements) — agency sales, client acquisition funnels, pricing strategy
@@ -1357,6 +1358,24 @@ resolucao_de_conflitos:
       added: "2026-03-25"
       fontes_incluidas:
         - "Hackers do Marketing (508 files, 173 elements — funil-arquitetura, oferta, fechamento, webinar, VSL, tripwire)"
+
+    - pessoa: "molly-pittman"
+      path: "/knowledge/external/dna/persons/molly-pittman"
+      raiz: "/knowledge/external/sources/molly-pittman/raw/"
+      total_elementos: 397
+      dominios_usados:
+        - "funnel-optimization"
+        - "conversion-tracking"
+        - "scaling"
+        - "retargeting"
+        - "customer-value-optimization"
+        - "acquisition-funnels"
+      peso: 0.75
+      quando_usar: "Funnel optimization (7 Acquisition Funnel Types for revenue architecture), conversion tracking (Traffic Temperature for pipeline stage analysis), scaling methodology (CBO Scaling for budget optimization, Retargeting Layers for multi-tier re-engagement), Customer Value Optimization (CVO) for maximizing LTV, acquisition funnel design (Splintering Model for front-end offers)"
+      justificativa: "Molly Pittman brings the TRAFFIC-TO-REVENUE bridge — 397 elements. 7 Acquisition Funnel Types maps revenue architecture from traffic to conversion. CVO framework optimizes customer value across the entire revenue pipeline. Retargeting Layers provide multi-tier re-engagement for pipeline recovery. Complements Cole Gordon (sales team operations) and Hormozi (scaling philosophy) with traffic-driven revenue optimization."
+      added: "2026-03-26"
+      fontes_incluidas:
+        - "Molly Pittman Traffic Training (397 elements — 7 Acquisition Funnel Types, CVO, Traffic Temperature, CBO Scaling, Retargeting Layers, Splintering Model)"
 
 # ═══════════════════════════════════════════════════════════════════════════════
 # PROTOCOLO DE RACIOCINIO

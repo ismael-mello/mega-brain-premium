@@ -1,0 +1,16 @@
+# Transcrição: 04-Pinterest Pin Tutorial
+
+- **Fonte:** 04-Pinterest Pin Tutorial
+- **Duração:** 05:14
+- **Idioma:** en
+- **Modelo:** small
+
+---
+
+## [00:00 - 03:03]
+
+Hello, in this video I'm going to walk you through how to post a pen to your Pinterest business page. First, we're going to open up Pinterest. And once logged into your business account, you will be directed to the Business Hub Home page. From here, just go to the top of the page and select Create. A drop-down list will appear. And today we want to create a pen, so go ahead and select that button. Now you're able to upload your image and add the appropriate text to your post. So click here to select your content. The optimal size for images uploaded to Pinterest is 1000 by 1500 pixels for any 2 to 3 aspect ratio image. You can either resize your image before uploading it like we did here, or you can edit by selecting the Edit button here and you're able to crop or resize your photo. After your image has been uploaded, you can then edit the text for your pen, starting with the title and then the description. So first I'm going to update the title. And then I'm going to go ahead and add a description. This is for our boom bright sale. So we're also going to want to add some alt text to help with accessibility. And we also want to make sure that we include our link for our sale page. So be sure to include that as well as this pen will direct viewers to that page. Okay, now after all that has been updated, you can then select what board you want this to post to. This will go in your general feed, but you can also select a specific board for this to publish to. So we are still in our pro age month, so I'm going to go ahead and publish it to that board. But just before we publish, we also can tag the product. So just select the click anywhere to tag. And here you can search the product. It's already in Pinterest. Okay, there we go. Boom bright. Okay, so if anybody clicks on this pen will direct them to the boom page as well.
+
+## [03:03 - 05:14]
+
+Right. And once that has been updated, we can hit publish. All right. And after it is finished publishing, you can click here to see your pin. Make sure that everything looks okay. Great. We have the product tagged full description here. All right. And if you click here, it will direct you to the boom bright sale page. After you finished uploading, it's a good idea to check on mobile as well. So just give me one moment while I switch over to my smartphone to show you the view as well. After you finished uploading your Pinterest pin via desktop, it's a great idea to go check on that on your mobile app. So just pull up your smartphone and select Pinterest. And I like to check on it via my personal Pinterest page just so I can really see what others will be viewing. So give me one moment while we pull up our page. Okay. Awesome. All right. So once you're on the boom Pinterest page, you can select the created tab to see all of your pins. From here, you can see the pin we just posted. All right. It looks like the product tag is still there. Okay. And we can read our text. All right. You can click visit and directs us right to that sale page. All right. I hope this tutorial was helpful. Please let me know if you have any questions.

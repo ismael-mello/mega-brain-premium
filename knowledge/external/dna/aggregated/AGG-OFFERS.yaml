@@ -27,12 +27,13 @@
 # - Stefan Georgi (60 elementos) - AOV Money Close, offer architecture, 15 Funnel Factors, pricing test framework
 # - Justin Goff (80 elementos) - OLAF Method, Hell Yes Offer, Offer Appeal Assessment
 # - Rafael Marks (40 elementos) - Oferta Irresistível 3 Camadas, 3 Falsas Crenças, Mini-Ofertas, Customer Ascension
+# - Molly Pittman (35 elementos) - 7 Acquisition Funnel Types, Splintering Model, lead magnets, Customer Value Optimization
 #
 # ═══════════════════════════════════════════════════════════════════════════════
 
 dominio: "offers"
-versao: "23.0.0"  # Cole Gordon CIL added (+35 offer elements). Three Offer Models (coaching/done-for-you/hybrid), Back-End Pricing strategy, DPL×LTV offer economics, Offer Packaging methodology, Hell/Heaven Island expanded. CG now includes CIL.
-total_elementos: 1228
+versao: "24.0.0"  # Molly Pittman added (peso 0.65, 35 offer elements). 7 Acquisition Funnel Types, Splintering Model (micro-offer from core), lead magnet architecture, Customer Value Optimization. Offer-to-traffic integration.
+total_elementos: 1263
 criado_em: "2026-01-10T19:30:00Z"
 atualizado_em: "2026-03-26"
 
@@ -214,6 +215,15 @@ fontes_consolidadas:
     especialidade: "Oferta Irresistível 3 Camadas (10x value), 3 Falsas Crenças (veículo/interna/externa), Brainstorm de Oferta (planilha 5 formatos), Sentença Mágica, Fórmula Secreta (6 perguntas), Escada de Valor com formatos alternados, Mini-Ofertas (7 regras — melhor primeiro beijo, promessa menor, seeding), Empilhamento de Bônus no pitch, Customer Ascension (ebook→curso→mentoria→imersão→mastermind)"
     batches: ["RM-HM (Hackers do Marketing — 173 total, 40 offers-relevant — 2026-03-25)"]
     nota: "Added 2026-03-25. Brazilian funnel architect. 508 source files, 15 programs. Key offer construction: valor total 10x preço cobrado, bônus matam 3 falsas crenças, alternância de formato entre degraus da escada. Mini-offer specialist: R$37 tripwire → R$145k lucro em 6 meses via ascensão. Complements Hormozi (Grand Slam) with Brazilian-adapted execution."
+
+  - fonte: "molly-pittman"
+    peso_dominio: 0.65
+    path: "/knowledge/external/dna/persons/molly-pittman/"
+    contribuicao_principal: "7 Acquisition Funnel Types (quiz, webinar, lead magnet, etc.), Splintering Model (extract micro-offer from core offer), Lead Magnet Architecture (5 types), Customer Value Optimization (CVO) framework, Offer-to-Traffic alignment (matching offer type to traffic temperature)"
+    elementos_relevantes: 35
+    fontes_incluidas:
+      - "Molly Pittman Traffic Training (35 offer-relevant elementos — 7 Acquisition Funnel Types, Splintering Model, Lead Magnet Architecture, CVO, offer-traffic alignment)"
+    nota: "Added 2026-03-26. Molly Pittman's offer contribution is TRAFFIC-INTEGRATED — how to design offers that match traffic temperature and funnel stage. 7 Acquisition Funnel Types maps every type of front-end acquisition offer. Splintering Model shows how to extract micro-offers from core offer for cold traffic. CVO framework optimizes customer value across the entire funnel. Complements Hormozi (Grand Slam value equation), Brunson (offer stacking), and Brown (offer engineering) with the traffic-to-offer bridge."
 
 # ═══════════════════════════════════════════════════════════════════════════════
 # FILOSOFIAS CONSOLIDADAS (Cross-Source)

@@ -1,0 +1,12 @@
+# Transcrição: 6-Thank You.MP4
+
+- **Fonte:** 6-Thank You.MP4
+- **Duração:** 02:08
+- **Idioma:** en
+- **Modelo:** small
+
+---
+
+## [00:00 - 02:08]
+
+Okay, so hopefully you have found this training very useful and you can start to see how you're going to start building YouTube ads for your business to drive more traffic, more leads and more sales for more profits and ensure that YouTube ads work for you really well. Now of course whenever I run trainings like this, as it is always the way, not everyone goes and implements things, but those people that do, I'd love for you to leave me feedback. I'd love for you to let me know what you thought of this training, how you're getting on and maybe if you've got any questions as well. So I'm sure you can probably leave questions either in this section of the training or in the DM engage or wherever it might be that you can leave feedback. I'll make sure I get back to you as well and hopefully help you further with your business if at all possible with your YouTube advertising because I do really do think that whilst everyone loves Facebook for good reason, Facebook is an amazing place to advertise. I do feel like YouTube is completely untapped right now and it's great for me as an agency because I can go and play and get great results from my clients and really enjoy the whole process but I really do encourage you to get involved with YouTube because if you learn it and apply and it is a bit more difficult than somewhere like Facebook because it's not everyone's not everyone's talking about it. So there's not all these trainings out there but when you go and apply it you can get some fantastic results sometimes and when you get really good results you can really scale cost effectively and you don't have the same problem with fatigue like you do with Facebook where you're running an ad and then it can kind of like slow down a little bit and you need to change up the ads. With YouTube it's search traffic so people are going there and it's new people going there all the time so you can tap into this new resource for you. Might not have it instantly as quick a scale but give it time, optimize it, scale it and you can spend a lot of money cost effectively with a great return on investment from YouTube. So good luck, make sure you get out there start using these ads but of course if you do have any questions or any feedback please do leave it. I would really appreciate that as well. Thanks very much my name is Tom Breeze from Viewability and I really hope you enjoyed this training. Cheers.

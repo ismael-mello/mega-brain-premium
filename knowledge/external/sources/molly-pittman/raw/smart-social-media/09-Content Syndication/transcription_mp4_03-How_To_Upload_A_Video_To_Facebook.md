@@ -1,0 +1,20 @@
+# Transcrição: 03-How To Upload A Video To Facebook
+
+- **Fonte:** 03-How To Upload A Video To Facebook
+- **Duração:** 09:34
+- **Idioma:** en
+- **Modelo:** small
+
+---
+
+## [00:00 - 03:12]
+
+be showing you how to upload a video to Facebook. So first before I do that I make sure I do have everything I need ready, which I have my copy document here. I have my video file and it looks like I need a thumbnail for my video. So I go ahead and go to Canva.com to make this search YouTube thumbnail size. This gives you the proper dimension and then create a blank YouTube thumbnail. My image you upload your image to Canva, which in that case it's here for me. I'm going to be uploading a video of our ambassador Kelly. So I'll be using this as my example today. Alright, so this looks good. I download this to my computer. Now I am going to head over to Facebook. So go to Facebook.com. We do use Creator Studio to do this. Go to the business page, which in this case is going to be boomed by Cindy Joseph for us. Then I'm going to go to Creator Studio. I'm going to do create new upload video. Here is Kelly's video that I need to upload. And it will take a few minutes to load as you will see right here or in this case. Oh, see it's a 0% uploaded. It will upload in a few minutes. But while I do wait for it to fully load, I'm going to go ahead and input the video details I need. So I'll go to my copy document. I'm going to click this copy and paste here for the video. Then I'm going to create some hashtags so pro age month. I'll do inspiration, fitness, active lifestyle, and I'll put motivation. Okay. We also put UTM links right here just so we can track the statistics on where our traffic comes from. So I'm going to go ahead and go to campaign URL builder. I'm going to grab Kelly's link, which is we do have I do have a collection of these here. So this is the URL I need to put
+
+## [03:12 - 06:34]
+
+campaign ID, we leave blank campaign sources social campaign medium is going to be Facebook, and then campaign name is organic. And this is a pretty long URL to put on a caption. So I'm going to go and shorten it a little bit using bit.ly and copy and paste a long URL here. And you can edit this. So in this case, I'm going to put Kelly underscore pro age. Okay, I'm going to copy that. I am going to just copy and paste it to my Facebook caption. And then I'm going to put some tags. So this will just help. These are just little keywords within Facebook that can help your viewers find your video easier. So pro age. We are a skincare brand. So I'm going to put that inspiration. Then I'll put wellness. Okay, and then I'm going to change the thumbnail to that one I made, which will be right here. And then now I'm going to do the captions to this video. So it will take a few minutes to generate. And I'll be right back once they're 100% done. And I'll show you how that's done. So here you will see that the captions are generated, it'll tell you right here. So now I'm going to go review them just to make sure all the grammar and punctuations are correct. And there are 100 ways to do this, but I'm going to show you the way I do it, which our amazing copy team does provide us the correct transcript right here. So what I do is I go to Creator Studio, I click review. And what I do is I copy and paste about a couple sentences. So let me just say over here. Then so I copy and paste this whole thing. And then I pick it up right where the next one starts. So take this and then take this take this text Alright, so now I'm going to do the next couple of sentences again.
+
+## [06:34 - 09:34]
+
+So I start, I was most vibrant here to put it here. And now I'm onto the next one. Alright, so now I'm going to go to the next, I'm just going to copy and paste these two. Alright, so I stopped here. Alright, so now I'm going to copy and paste these two. Alright, so now I'm going to copy and paste these two. Alright, awesome. Awesome. And that is it. That's how you post a Facebook, you post a video to Facebook. Please let us know if you have any questions. Thank you. Bye.

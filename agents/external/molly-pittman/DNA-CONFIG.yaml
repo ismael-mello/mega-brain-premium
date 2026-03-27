@@ -1,0 +1,169 @@
+# ╔══════════════════════════════════════════════════════════════════════════════╗
+# ║                    MOLLY PITTMAN — DNA CONFIGURATION                        ║
+# ╚══════════════════════════════════════════════════════════════════════════════╝
+
+version: "1.0.0"
+person: "Molly Pittman"
+type: "SOLO"
+weight: 1.0
+
+dna_path: "knowledge/external/dna/persons/molly-pittman/DNA.yaml"
+
+dna_sources:
+  - id: "PTM"
+    name: "Paid Traffic Mastery 2019"
+    type: "COURSE"
+    files: 66
+    elements: 90
+    weight: 1.0
+    extraction_date: "2026-03-26"
+    raiz: "knowledge/external/sources/molly-pittman/raw/paid-traffic-mastery-2019/"
+    domains:
+      - paid-traffic
+      - facebook-ads
+      - google-ads
+      - youtube-ads
+      - linkedin-ads
+      - targeting
+      - copywriting
+      - optimization
+      - scaling
+    speakers:
+      primary: "Molly Pittman"
+      referenced:
+        - name: "Mike Rhodes"
+          contribution: "Google Ads mastery — search, display, shopping campaigns"
+        - name: "Tom Breeze"
+          contribution: "YouTube Ads — TrueView, bumper ads, audience targeting"
+        - name: "Justin Rondeau"
+          contribution: "Optimization — split testing, statistical significance"
+        - name: "Josh Turner"
+          contribution: "LinkedIn Ads — B2B targeting, sponsored content"
+
+  - id: "PTS"
+    name: "Profitable Traffic System"
+    type: "COURSE"
+    files: 87
+    elements: 97
+    weight: 1.0
+    extraction_date: "2026-03-26"
+    raiz: "knowledge/external/sources/molly-pittman/raw/profitable-traffic-system/"
+    domains:
+      - traffic-plays
+      - acquisition-campaigns
+      - monetization-campaigns
+      - messenger-marketing
+      - retargeting
+      - content-creation
+    speakers:
+      primary: "Molly Pittman"
+      referenced:
+        - name: "Russ Henneberry"
+          contribution: "Content marketing strategy and amplification"
+        - name: "Justin Rondeau"
+          contribution: "Optimization and testing methodology"
+
+  - id: "SSM"
+    name: "Smart Social Media"
+    type: "COURSE"
+    files: 95
+    elements: 100
+    weight: 1.0
+    extraction_date: "2026-03-26"
+    raiz: "knowledge/external/sources/molly-pittman/raw/smart-social-media/"
+    domains:
+      - content-marketing
+      - brand-identity
+      - social-media
+      - video-production
+      - ICOSA-system
+      - community-management
+      - giveaways
+    speakers:
+      primary: "Laura Paladino"
+      referenced:
+        - name: "Ezra Firestone"
+          contribution: "E-commerce social media strategy, ICOSA system co-development"
+        - name: "Russ Henneberry"
+          contribution: "Content amplification and blog strategy"
+        - name: "Colleen Taylor"
+          contribution: "Blog content creation and SEO"
+
+  - id: "TMTP"
+    name: "Train My Traffic Person 2020"
+    type: "COURSE"
+    files: 40
+    elements: 110
+    weight: 1.0
+    extraction_date: "2026-03-26"
+    raiz: "knowledge/external/sources/molly-pittman/raw/train-my-traffic-person-2020/"
+    domains:
+      - media-buying
+      - traffic-systems
+      - funnel-design
+      - campaign-structure
+      - facebook-algorithm
+      - cbo-scaling
+      - retargeting
+      - youtube-ads
+      - google-ads
+      - email-marketing
+    speakers:
+      primary: "Molly Pittman"
+      referenced:
+        - name: "Ezra Firestone"
+          contribution: "E-commerce traffic strategy, Smart Marketer ecosystem"
+        - name: "Tom Breeze"
+          contribution: "YouTube Ads advanced strategies"
+        - name: "Mike Rhodes"
+          contribution: "Google Ads automation and smart bidding"
+        - name: "Nehal Kazim"
+          contribution: "CBO scaling methodology, budget optimization"
+
+materiais_fonte:
+  - path: "knowledge/external/sources/molly-pittman/raw/paid-traffic-mastery-2019/"
+    files: 66
+    key_content: "FB Ads, Google Ads, YouTube Ads, LinkedIn Ads, targeting, optimization"
+  - path: "knowledge/external/sources/molly-pittman/raw/profitable-traffic-system/"
+    files: 87
+    key_content: "Traffic plays, acquisition/monetization campaigns, messenger, retargeting"
+  - path: "knowledge/external/sources/molly-pittman/raw/smart-social-media/"
+    files: 95
+    key_content: "Content marketing, brand identity, ICOSA system, video, community"
+  - path: "knowledge/external/sources/molly-pittman/raw/train-my-traffic-person-2020/"
+    files: 40
+    key_content: "Media buying systems, CBO scaling, funnel design, campaign architecture"
+
+element_counts:
+  total: 397
+  L1_PHILOSOPHIES: 75
+  L2_MENTAL_MODELS: 62
+  L3_HEURISTICS: 119
+  L4_FRAMEWORKS: 81
+  L5_METHODOLOGIES: 60
+
+next_ids:
+  FIL: "FIL-MP-076"
+  MM: "MM-MP-063"
+  HEUR: "HEUR-MP-120"
+  FW: "FW-MP-082"
+  MET: "MET-MP-061"
+
+domains:
+  primary:
+    - paid-traffic
+    - facebook-ads
+    - media-buying
+    - traffic-systems
+    - content-marketing
+  secondary:
+    - google-ads
+    - youtube-ads
+    - linkedin-ads
+    - messenger-marketing
+    - email-marketing
+    - brand-identity
+    - video-production
+    - scaling
+    - retargeting
+    - funnel-design

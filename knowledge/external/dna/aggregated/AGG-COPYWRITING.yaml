@@ -4,14 +4,14 @@
 # CRIADO: 2026-03-13
 # ATUALIZADO: 2026-03-17
 #
-# FONTES: Dan Kennedy (822 el) + Eugene Schwartz (115 el) + Russell Brunson (240 el) + Alex Hormozi (80 el) + Cole Gordon (40 el) + Todd Brown (292 el) + Gary Halbert (297 el) + André Chaperon (120 el) + David Deutsch (218 el) + Ry Schwartz (150 el) + John Carlton (261 el) + Clayton Makepeace (633 el) + Jordan Belfort (45 el) + Donald Miller (90 el) + Robert Cialdini (50 el) + Jon Benson (1131 el) + Stefan Georgi (308 el) + Justin Goff (60 el) + Ben Settle (250 el)
+# FONTES: Dan Kennedy (822 el) + Eugene Schwartz (115 el) + Russell Brunson (240 el) + Alex Hormozi (80 el) + Cole Gordon (40 el) + Todd Brown (292 el) + Gary Halbert (297 el) + André Chaperon (120 el) + David Deutsch (218 el) + Ry Schwartz (150 el) + John Carlton (261 el) + Clayton Makepeace (633 el) + Jordan Belfort (45 el) + Donald Miller (90 el) + Robert Cialdini (50 el) + Jon Benson (1131 el) + Stefan Georgi (308 el) + Justin Goff (60 el) + Ben Settle (250 el) + Molly Pittman (50 el)
 # ═══════════════════════════════════════════════════════════════════════════════
 
 dominio: "copywriting"
-versao: "34.0.0"  # Cole Gordon CIL added (+40 copy elements). Pitch Codex (structured pitch architecture), Copy Platform Creation, 15 Content Angles, Market Sophistication approach, Story Selling methodology. CIL brings sales-to-copy bridge — how verbal selling frameworks translate to written pitch. CG DNA now includes CIL.
+versao: "35.0.0"  # Molly Pittman added (peso 0.70, 50 ad copy elements). 11 Ad Copy Chunks, Before/After Grid, Hook→Story→Offer→CTA, Copy Chunks System. Ad copy focus (not long-form).
 criado_em: "2026-03-13"
 atualizado_em: "2026-03-26"
-total_elementos: 5455
+total_elementos: 5505
 
 fontes_consolidadas:
   - fonte: "dan-kennedy"
@@ -320,6 +320,16 @@ fontes_consolidadas:
     especialidade: "Script VSL 35 Passos, Jornada Dupla do Herói (copy storytelling), Copy Direta vs Indireta por preço, Páginas de Vendas de Alta Conversão (CRO), 3 Falsas Crenças em copy, Webinar Copy (Perfect Webinar BR), 100 Títulos Irresistíveis para Email, Script de Fechamento High Ticket, Permissão para Ofertar, Empilhamento de Bônus, Marinada de Preço"
     batches: ["RM-HM (Hackers do Marketing — 173 total, 35 copy-relevant — 2026-03-25)"]
     nota: "Added 2026-03-25. Brazilian digital marketer with strong copywriting for funnels. 508 source files. Key copy contribution: VSL script adapted to Brazilian market (35 steps), copy length determined by price point (R$37=5min, R$297=25min, R$997=webinar 45-90min), CRO optimization (3%→6.5% with AB testing). First Portuguese-language copy methodology in the system. Complements Carlton (raw salesmanship), Benson (VSLs), and Settle (email) with Brazilian adaptation."
+
+  - fonte: "molly-pittman"
+    peso_dominio: 0.70
+    path: "/knowledge/external/dna/persons/molly-pittman/"
+    raiz: "/knowledge/external/sources/molly-pittman/raw/"
+    contribuicao_principal: "11 Ad Copy Chunks (systematic ad copy creation), Before/After Grid (messaging framework for ad copy), Hook→Story→Offer→CTA (ad copy structure), Copy Chunks System (modular ad copy assembly), Customer Avatar-driven ad messaging, Traffic Temperature copy calibration (cold vs warm vs hot ad copy), Ad Grid creative copy variations"
+    elementos_relevantes: 50
+    fontes_incluidas:
+      - "Molly Pittman Traffic Training (50 copy-relevant elementos — 11 Ad Copy Chunks, Before/After Grid, Hook→Story→Offer→CTA, Copy Chunks System, Customer Avatar messaging, Traffic Temperature copy calibration)"
+    nota: "Added 2026-03-26. Molly Pittman's copy contribution is AD COPY SPECIFIC — not long-form sales copy. 11 Ad Copy Chunks provides systematic ad copy creation (similar to Carlton's Simple Writing System but for ads). Before/After Grid maps customer journey for ad messaging. Traffic Temperature determines copy depth (cold=education, warm=social proof, hot=offer). Complements Frank Kern (ad copy formulas), Stefan Georgi (RMBC for long-form), and Gary Halbert (direct response principles) with the most structured AD-SPECIFIC copy framework."
 
   - fonte: "frank-kern"
     peso_dominio: 0.85

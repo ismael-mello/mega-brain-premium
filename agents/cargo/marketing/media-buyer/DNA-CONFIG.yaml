@@ -3,17 +3,41 @@
 # Status: SCAFFOLD — needs enrichment
 
 cargo: "Media Buyer"
-versao: "2.0.0"
+versao: "3.0.0"  # Molly Pittman added as PRIMARY source (peso 0.95, 397 elements). Traffic Plays (12 plays), Traffic Temperature, 5 Elements of High Converting Campaign, CBO Scaling, Retargeting Layers, Ad Grid, Traffic Engine 9-Step.
 nivel: "MARKETING"
 natureza: "HIBRIDO"
 data_criacao: "2026-03-22"
-ultima_atualizacao: "2026-03-22"
-status: "SCAFFOLD"
+ultima_atualizacao: "2026-03-26"
+status: "ENRICHED"
 
 dominio_primario: "traffic"
 agg_fonte: "AGG-TRAFFIC.yaml"
 
 fontes:
+  - fonte: "molly-pittman"
+    path: "knowledge/external/dna/persons/molly-pittman/"
+    raiz: "knowledge/external/sources/molly-pittman/raw/"
+    peso: 0.95
+    total_elementos: 397
+    dominios_usados:
+      - "paid-traffic"
+      - "facebook-ads"
+      - "google-ads"
+      - "youtube-ads"
+      - "linkedin-ads"
+      - "scaling"
+      - "retargeting"
+      - "traffic-systems"
+      - "campaign-architecture"
+      - "creative-testing"
+      - "ad-copy"
+    quando_usar: "Traffic Plays (12 plays) for campaign strategy, Traffic Temperature for audience segmentation, 5 Elements of High Converting Campaign for campaign diagnosis, CBO Scaling for budget optimization, Retargeting Layers for multi-tier retargeting, Ad Grid for creative testing, 11 Ad Copy Chunks for ad copy creation, Before/After Grid for messaging"
+    justificativa: "Molly Pittman is THE #1 media buying educator — former VP of Marketing at DigitalMarketer. 397 elements covering every aspect of paid traffic from strategy to execution. Traffic Plays + Traffic Temperature + Ad Grid are the foundational frameworks that every media buyer should master."
+    status: "enriched"
+    added: "2026-03-26"
+    fontes_incluidas:
+      - "Molly Pittman Traffic Training (397 elements — Traffic Plays, Traffic Temperature, Ad Grid, CBO Scaling, Retargeting Layers, Campaign Architecture, Customer Avatar, Before/After Grid, 11 Ad Copy Chunks, 5 Elements of High Converting Campaign)"
+
   - fonte: "aios-traffic-masters-squad"
     path: "knowledge/external/dna/persons/aios-traffic-masters-squad/"
     peso: 0.70

@@ -7,6 +7,7 @@
 # Missao: MISSION-2026-001 Phase 5.3
 #
 # CHANGELOG:
+# v4.0.0 (2026-03-26): Molly Pittman added as PRIMARY source (peso 0.95, 397 elements) — THE #1 media buying educator. Traffic Plays (12 plays), Traffic Temperature, 5 Elements, CBO Scaling, Retargeting Layers, Ad Grid, Traffic Engine 9-Step. Foundational paid traffic education framework.
 # v3.0.0 (2026-03-21): Premium enrichment — Added 8 expert sources (frank-kern, dan-kennedy, gary-halbert, david-deutsch, ry-schwartz, clayton-makepeace, john-carlton, todd-brown)
 # v2.0.0 (2026-01-10): BUG #1 FIX - Cascateamento completo
 #                      - Adicionado dna_agregado com AGG-VENDAS.yaml
@@ -14,11 +15,11 @@
 # v1.0.0 (2026-01-09): Criacao inicial do agente
 
 cargo: "PAID-MEDIA-SPECIALIST"
-versao: "3.0.0"
+versao: "4.0.0"
 nivel: "MARKETING"
 natureza: "HIBRIDO"
 data_criacao: "2026-01-09"
-ultima_atualizacao: "2026-03-21"
+ultima_atualizacao: "2026-03-26"
 
 # ═══════════════════════════════════════════════════════════════════════════════
 # DNA AGREGADO (multi-fonte)
@@ -103,6 +104,24 @@ soul:
 # ═══════════════════════════════════════════════════════════════════════════════
 
 dna_primario:
+  - pessoa: "molly-pittman"
+    peso: 0.95
+    dominios_absorvidos:
+      - "Traffic Plays (12 plays)"
+      - "Traffic Temperature"
+      - "5 Elements of High Converting Campaign"
+      - "CBO Scaling"
+      - "Retargeting Layers"
+      - "Ad Grid"
+      - "Traffic Engine 9-Step"
+      - "11 Ad Copy Chunks"
+      - "Before/After Grid"
+      - "Customer Avatar Canvas"
+      - "Campaign Architecture"
+    path: "/knowledge/external/dna/persons/molly-pittman"
+    justificativa: "THE #1 media buying educator — former VP of Marketing at DigitalMarketer. 397 elements. Traffic Plays + Traffic Temperature + Ad Grid are foundational frameworks for every media buyer."
+    added: "2026-03-26"
+
   - pessoa: "jeremy-haynes"
     peso: 0.80
     dominios_absorvidos:

@@ -24,7 +24,8 @@
 # ═══════════════════════════════════════════════════════════════════════════════
 
 cargo: "CMO"
-versao: "37.0.0"  # Cole Gordon CIL enrichment (323 elements, peso 0.80) — Pitch Codex, APS (Attraction Prospecting System), Content Marketing, 15 Content Angles, organic marketing strategy, messenger sales. CG CIL brings sales-driven marketing perspective.
+versao: "38.0.0"  # Molly Pittman added (peso 0.80, 397 elements) — Traffic Plays, Traffic Temperature, 5 Elements of High Converting Campaign, CBO Scaling, ICOSA, Customer Value Optimization, content marketing, traffic strategy. THE traffic education expert.
+# v37.0.0 (prev): Cole Gordon CIL enrichment (323 elements, peso 0.80) — Pitch Codex, APS, Content Marketing, 15 Content Angles, organic marketing strategy, messenger sales.
 # v36.0.0 (prev): Frank Kern OT+AMM enrichment
 # v33.0.0 (2026-03-25): Cat Howell added (peso 0.80, 253 elements) — Facebook Ads mastery, RFT testing method, agency marketing
 #                      - Domains: facebook-ads, creative-testing, funnels, lead-gen, ecom, agency-building, scaling
@@ -1467,6 +1468,26 @@ dna_sources:
       added: "2026-03-25"
       fontes_incluidas:
         - "Hackers do Marketing (508 files, 173 elements — funil-arquitetura, ofertas, tráfego, email marketing, webinar, tripwire)"
+
+    - pessoa: "molly-pittman"
+      path: "/knowledge/external/dna/persons/molly-pittman"
+      raiz: "/knowledge/external/sources/molly-pittman/raw/"
+      total_elementos: 397
+      dominios_usados:
+        - "traffic-strategy"
+        - "content-marketing"
+        - "campaign-architecture"
+        - "customer-value-optimization"
+        - "lead-magnet-design"
+        - "ad-copy"
+        - "retargeting"
+        - "scaling"
+      peso: 0.80
+      quando_usar: "Traffic strategy (Traffic Plays, Traffic Temperature), content marketing (ICOSA framework), campaign architecture (5 Elements of High Converting Campaign), customer acquisition funnels (7 Acquisition Funnel Types), ad copy frameworks (11 Ad Copy Chunks, Before/After Grid), retargeting strategy (Retargeting Layers), scaling methodology (CBO Scaling)"
+      justificativa: "Molly Pittman is THE #1 traffic education expert — former VP of Marketing at DigitalMarketer. 397 elements covering traffic strategy, content marketing, and customer value optimization. Traffic Plays (12 plays) + Traffic Temperature + ICOSA + CVO are foundational CMO frameworks for traffic-driven marketing strategy."
+      added: "2026-03-26"
+      fontes_incluidas:
+        - "Molly Pittman Traffic Training (397 elements — Traffic Plays, Traffic Temperature, Ad Grid, CBO Scaling, Retargeting Layers, Campaign Architecture, Customer Avatar, ICOSA, CVO)"
 
 # ═══════════════════════════════════════════════════════════════════════════════
 # MAPA DE CONFLITOS
