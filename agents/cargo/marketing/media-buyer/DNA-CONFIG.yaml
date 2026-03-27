@@ -3,7 +3,8 @@
 # Status: SCAFFOLD — needs enrichment
 
 cargo: "Media Buyer"
-versao: "5.0.0"  # Nicholas Kusmich added (peso 0.80, 200 elements). Non-Ad Ad philosophy, 10-Element Perfect Ad Formula, Campaign Launch Formula 3-phase, SAGE Magnet Framework, JV Jedi Strategy, Anatomy of Perfect Ad/Landing Page, Feel-Felt-Found copy, SNAP/CRAP/GAP/TRAP, Surround Sound Campaigns, image strategy (80% of ad success = image), scaling 15-20% every 2 days.
+versao: "6.0.0"  # Grant Cardone added (peso 0.70, 778 elements). 10x Marketing, omnipresence strategy, Google Ads fundamentals, funnel optimization, split testing, social media marketing, YouTube strategy. Complements paid media experts with GC's omnipresence philosophy.
+# v5.0.0 (prev): Nicholas Kusmich added (peso 0.80, 200 elements). Non-Ad Ad philosophy, 10-Element Perfect Ad Formula.
 nivel: "MARKETING"
 natureza: "HIBRIDO"
 data_criacao: "2026-03-22"
@@ -101,6 +102,23 @@ fontes:
       - "Facebook Floodgate Formula (15 files, 6 modules — market positioning to case studies)"
       - "Campaign Launch Formula (1 file — 3-phase launch system)"
       - "Anatomy of Perfect FB Ad Webinar (1 file — 10-Element formula)"
+
+  - fonte: "grant-cardone"
+    path: "knowledge/external/dna/persons/grant-cardone/"
+    raiz: "knowledge/external/sources/grant-cardone/raw/"
+    peso: 0.70
+    total_elementos: 778
+    dominios_usados:
+      - "paid-advertising"
+      - "funnel-optimization"
+      - "conversion"
+      - "google-ads"
+    quando_usar: "10x Marketing omnipresence strategy for multi-channel media buying, Google Ads fundamentals, funnel optimization (conversion-focused approach), split testing methodology, social media marketing (YouTube, Instagram, Facebook organic+paid), budget allocation for omnipresence campaigns"
+    justificativa: "Grant Cardone brings OMNIPRESENCE marketing philosophy — being everywhere, all the time. 778 elements across 8 programs including marketing/funnels and email marketing. Complements tactical experts (Molly Pittman, Jeremy Haynes, Frank Kern) with GC's volume-first, omnipresence media strategy."
+    status: "enriched"
+    added: "2026-03-27"
+    fontes_incluidas:
+      - "Grant Cardone Marketing Training (778 elements — 10x Marketing, omnipresence, Google Ads, funnels, email, social media, YouTube)"
 
   - fonte: "jon-loomer"
     path: "knowledge/external/dna/persons/jon-loomer/"

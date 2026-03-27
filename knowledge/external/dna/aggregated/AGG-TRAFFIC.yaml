@@ -13,10 +13,10 @@
 # ═══════════════════════════════════════════════════════════════════════════════
 
 dominio: "traffic"
-versao: "17.0.0"  # Nicholas Kusmich added (80 traffic-relevant elements, peso 0.85). Non-Ad Ad philosophy, 10-Element Perfect Ad Formula, Campaign Launch Formula (3-phase), SAGE Magnet Framework, JV Jedi Strategy, Anatomy of Perfect Ad/Landing Page, Inclusion/Exclusion Retargeting, Feel-Felt-Found Copy, Surround Sound Campaigns. THE Facebook Ads strategist for high-ticket coaches/consultants.
+versao: "18.0.0"  # Grant Cardone added (peso 0.75, 60 traffic-relevant elements). 10x Marketing omnipresence, social media volume strategy, YouTube content marketing, email marketing campaigns, funnel traffic optimization, Google Ads fundamentals. Volume-first marketing philosophy.
 data_criacao: "2026-03-11"
 ultima_atualizacao: "2026-03-27"
-total_elementos: 1696
+total_elementos: 1756
 peso_global: 0.70
 
 fontes_consolidadas:
@@ -159,6 +159,30 @@ fontes_consolidadas:
       - "Scaling FB Ads for Success (79 elementos — 2 sessions with Andrew Foxwell, Fundamentals + Advanced Techniques, 2018)"
     note: "Added 2026-03-27. Jon Loomer (Power Hitters Club founder) + Andrew Foxwell (Foxwell Digital, $10M+ managed) bring THE foundational scaling education framework. 4-Phase Checklist is the most structured progression from beginner to advanced scaling. Unique contributions: Social Proofing via Post ID transfer, Remarketing Rework system (replace simple 30-day with multi-window), and specific heuristics ($2,500 lookalike decay, 50/week learning phase, $750/day budget cap). Complements Molly Pittman (broader traffic education), Frank Kern (platform depth), Jeremy Haynes (aggressive bidding), and Cat Howell (testing methodology) with structured SCALING-FIRST framework."
 
+  - fonte: "nicholas-kusmich"
+    path: "knowledge/external/dna/persons/nicholas-kusmich/"
+    raw_path: "knowledge/external/sources/nicholas-kusmich/raw/"
+    peso_dominio: 0.85
+    elementos_contribuidos: 80
+    especialidade: "Non-Ad Ad philosophy, 10-Element Perfect Ad Formula (Attention/Connection/Action), Campaign Launch Formula (3-phase: Attraction 75% → Consumption 12.5% → Conversion 12.5%), SAGE Magnet Framework (Short/Actionable/Goal/Easy), JV Jedi Strategy (ads from JV pages at 1/4-1/2 cost), Anatomy of Perfect Ad (8 elements), Anatomy of Perfect Landing Page, Inclusion/Exclusion Retargeting Architecture, Feel-Felt-Found Copy Sequence, Surround Sound Campaigns (email + retargeting mirror), SNAP/CRAP/GAP/TRAP magnet selection matrix, Four Forces Framework (fears/frustrations/wants/aspirations)"
+    tipo_fonte: "PRIMARY"
+    fontes_incluidas:
+      - "Facebook Floodgate Formula (15 files — 6 modules: market positioning, messaging, magnets, mechanism, indoctrination, case studies)"
+      - "The Campaign Launch Formula (1 file — 3-phase launch system, JV Jedi, retargeting)"
+      - "Anatomy of a Perfect FB Ad Webinar (1 file — 10-Element formula, Four Forces, image strategy)"
+    note: "Added 2026-03-27. Nicholas Kusmich is THE Facebook Ads strategist for high-ticket coaches/consultants — built 7-figure business with waiting list. Non-Ad Ad philosophy (ads that look like social shares), 10-Element Perfect Ad Formula, and JV Jedi Strategy (running from JV pages at 1/4 cost) are unique contributions. Key heuristics: 80% ad success = image, $10-25/day test budget for 24-36h, 15-20% scale every 2 days, CPL <$5 good / <$2.50 excellent, 1 ad per ad set, no CTA buttons (99% of time), images outperform video generally. Complements Molly Pittman (education framework), Jeremy Haynes (aggressive bidding), Cat Howell (RFT testing), Frank Kern (platform depth) with NK's MESSAGE-FIRST approach to Facebook Ads. RSM Incubator file pending re-transcription (+30-50 potential elements)."
+
+  - fonte: "grant-cardone"
+    path: "knowledge/external/dna/persons/grant-cardone/"
+    raw_path: "knowledge/external/sources/grant-cardone/raw/"
+    peso_dominio: 0.75
+    elementos_contribuidos: 60
+    especialidade: "10x Marketing omnipresence strategy (be everywhere all the time across all channels), social media volume strategy (YouTube, Instagram, Facebook — high-frequency posting), email marketing campaigns (volume-based email with conviction copy), funnel traffic optimization (conversion-focused funnel design), Google Ads fundamentals, content marketing through massive output, brand building via omnipresence"
+    tipo_fonte: "PRIMARY"
+    fontes_incluidas:
+      - "Grant Cardone Marketing Training (60 traffic-relevant elementos — 10x Marketing, omnipresence, email campaigns, social media strategy, YouTube, Google Ads, funnel optimization)"
+    note: "Added 2026-03-27. Grant Cardone brings OMNIPRESENCE marketing philosophy — the strategy of being visible everywhere, all the time, across every channel. 778 total elements across 8 programs, 60 traffic-relevant. His approach is fundamentally VOLUME-FIRST — more content, more ads, more touchpoints, more frequency. Complements Jeremy Haynes (Omnipresent Advertising tactical execution), Frank Kern (platform-specific depth), Molly Pittman (traffic education framework), and Cat Howell (testing methodology) with GC's overarching omnipresence PHILOSOPHY and execution framework."
+
 # ═══════════════════════════════════════════════════════════════════════════════
 # EXPERTS (8 real persons + 8 functional agents)
 # ═══════════════════════════════════════════════════════════════════════════════
@@ -174,19 +198,6 @@ experts:
     - nome: "Depesh Mandalia"
       especialidade: "BPM Method, AC-4, Graduation Testing"
       key_framework: "Graduation Testing GT1-GT3"
-
-  - fonte: "nicholas-kusmich"
-    path: "knowledge/external/dna/persons/nicholas-kusmich/"
-    raw_path: "knowledge/external/sources/nicholas-kusmich/raw/"
-    peso_dominio: 0.85
-    elementos_contribuidos: 80
-    especialidade: "Non-Ad Ad philosophy, 10-Element Perfect Ad Formula (Attention/Connection/Action), Campaign Launch Formula (3-phase: Attraction 75% → Consumption 12.5% → Conversion 12.5%), SAGE Magnet Framework (Short/Actionable/Goal/Easy), JV Jedi Strategy (ads from JV pages at 1/4-1/2 cost), Anatomy of Perfect Ad (8 elements), Anatomy of Perfect Landing Page, Inclusion/Exclusion Retargeting Architecture, Feel-Felt-Found Copy Sequence, Surround Sound Campaigns (email + retargeting mirror), SNAP/CRAP/GAP/TRAP magnet selection matrix, Four Forces Framework (fears/frustrations/wants/aspirations)"
-    tipo_fonte: "PRIMARY"
-    fontes_incluidas:
-      - "Facebook Floodgate Formula (15 files — 6 modules: market positioning, messaging, magnets, mechanism, indoctrination, case studies)"
-      - "The Campaign Launch Formula (1 file — 3-phase launch system, JV Jedi, retargeting)"
-      - "Anatomy of a Perfect FB Ad Webinar (1 file — 10-Element formula, Four Forces, image strategy)"
-    note: "Added 2026-03-27. Nicholas Kusmich is THE Facebook Ads strategist for high-ticket coaches/consultants — built 7-figure business with waiting list. Non-Ad Ad philosophy (ads that look like social shares), 10-Element Perfect Ad Formula, and JV Jedi Strategy (running from JV pages at 1/4 cost) are unique contributions. Key heuristics: 80% ad success = image, $10-25/day test budget for 24-36h, 15-20% scale every 2 days, CPL <$5 good / <$2.50 excellent, 1 ad per ad set, no CTA buttons (99% of time), images outperform video generally. Complements Molly Pittman (education framework), Jeremy Haynes (aggressive bidding), Cat Howell (RFT testing), Frank Kern (platform depth) with NK's MESSAGE-FIRST approach to Facebook Ads. RSM Incubator file pending re-transcription (+30-50 potential elements)."
 
   tier_1b:
     - nome: "Nicholas Kusmich"

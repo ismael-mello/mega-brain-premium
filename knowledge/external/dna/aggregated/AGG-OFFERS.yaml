@@ -32,10 +32,10 @@
 # ═══════════════════════════════════════════════════════════════════════════════
 
 dominio: "offers"
-versao: "24.0.0"  # Molly Pittman added (peso 0.65, 35 offer elements). 7 Acquisition Funnel Types, Splintering Model (micro-offer from core), lead magnet architecture, Customer Value Optimization. Offer-to-traffic integration.
-total_elementos: 1263
+versao: "25.0.0"  # Grant Cardone added (peso 0.75, 40 offer elements). Pricing psychology (payment breakdown closes), budget closes, price justification (ROI framing), offer urgency (massive action urgency), 10X value positioning, conviction-based offer presentation.
+total_elementos: 1303
 criado_em: "2026-01-10T19:30:00Z"
-atualizado_em: "2026-03-26"
+atualizado_em: "2026-03-27"
 
 # ═══════════════════════════════════════════════════════════════════════════════
 # FONTES CONSOLIDADAS COM PESOS POR DOMÍNIO
@@ -224,6 +224,15 @@ fontes_consolidadas:
     fontes_incluidas:
       - "Molly Pittman Traffic Training (35 offer-relevant elementos — 7 Acquisition Funnel Types, Splintering Model, Lead Magnet Architecture, CVO, offer-traffic alignment)"
     nota: "Added 2026-03-26. Molly Pittman's offer contribution is TRAFFIC-INTEGRATED — how to design offers that match traffic temperature and funnel stage. 7 Acquisition Funnel Types maps every type of front-end acquisition offer. Splintering Model shows how to extract micro-offers from core offer for cold traffic. CVO framework optimizes customer value across the entire funnel. Complements Hormozi (Grand Slam value equation), Brunson (offer stacking), and Brown (offer engineering) with the traffic-to-offer bridge."
+
+  - fonte: "grant-cardone"
+    peso_dominio: 0.75
+    path: "/knowledge/external/dna/persons/grant-cardone/"
+    contribuicao_principal: "Pricing psychology (payment breakdown closes — break price into daily/hourly cost), budget closes (reframe budget as investment), price justification (ROI framing — show return multiple), offer urgency (massive action urgency — act NOW or lose opportunity), 10X value positioning (price anchoring via 10X value frame), conviction-based offer presentation (certainty transfer during offer)"
+    elementos_relevantes: 40
+    fontes_incluidas:
+      - "Grant Cardone Sales Training (40 offer-relevant elementos — pricing psychology, budget closes, payment breakdown, ROI framing, urgency creation, conviction-based offer presentation)"
+    nota: "Added 2026-03-27. Grant Cardone's offer contribution is CLOSING-INTEGRATED — how to present and close offers through conviction and price psychology. Payment breakdown closes (reduce perceived price to daily cost), budget closes (reframe 'can't afford' to 'can't afford NOT to'), and 10X value positioning (anchor perceived value at 10X price). Complements Hormozi (Grand Slam value equation), Brown (offer engineering), and Brunson (offer stacking) with GC's conviction-based offer closing methodology."
 
 # ═══════════════════════════════════════════════════════════════════════════════
 # FILOSOFIAS CONSOLIDADAS (Cross-Source)

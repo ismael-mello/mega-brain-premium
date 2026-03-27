@@ -1,0 +1,3262 @@
+###############################################################################
+#  DNA COGNITIVO — GRANT CARDONE
+#  Versao: 2.0.0
+#  Elementos: 468
+#  Fontes: 9 programas (SF, HMMP, MO, CU, PTM, 10XMB, 10XBBA, CWIRE, CU-2)
+#  Dominios: sales-fundamentals, closing, objection-handling, phone-sales,
+#            wealth-building, mindset, massive-action, follow-up, prospecting,
+#            time-management, power-base, conviction, negotiation, commission,
+#            sales-management, entrepreneurship, pipeline-management,
+#            sales-funnels, email-marketing, conversion-optimization, omnipresence,
+#            webinars, seo, digital-advertising, podcasting, split-testing,
+#            business-buying, acquisitions, due-diligence, valuation, deal-structure,
+#            real-estate-investing, multifamily, cash-flow, underwriting, financing,
+#            leverage, property-management, syndication, value-add,
+#            closing-strategies, money-closes, stall-closes, product-closes,
+#            advanced-closes, cold-calling, road-to-sale
+#  Ultima atualizacao: 2026-03-27
+#  Next IDs: FIL-GC-101, MM-GC-091, HEUR-GC-111, FW-GC-086, MET-GC-084
+#  Layer counts: L1:100 L2:90 L3:110 L4:85 L5:83
+#  Dedup: 663 raw -> 468 unique (29% dedup rate)
+#  Increment: v1.0.0 (268) + v2.0.0 (+200 from 10XMB+10XBBA+CWIRE+CU-2)
+###############################################################################
+
+meta:
+  person: "Grant Cardone"
+  version: "2.0.0"
+  total_elements: 468
+  sources: 9
+  programs:
+    - id: "SF"
+      name: "Sales Fundamentals"
+      files: 28
+      type: "COURSE"
+    - id: "HMMP"
+      name: "How to Make Millions on the Phone"
+      files: 3
+      type: "WEBCAST"
+    - id: "MO"
+      name: "Mastering Objections"
+      files: 4
+      type: "COURSE"
+    - id: "CU"
+      name: "Cardone University 2016"
+      files: 1084
+      type: "UNIVERSITY"
+      note: "1st half processed (Courses 1-5, modules 02-16)"
+    - id: "PTM"
+      name: "Playbook to Millions"
+      files: 70
+      type: "BUNDLE"
+    - id: "10XMB"
+      name: "10x Marketing Bundle"
+      files: 12
+      type: "BUNDLE"
+      note: "Digital marketing, funnels, email, omnipresence, SEO, webinars"
+    - id: "10XBBA"
+      name: "10X Business Buying Accelerator"
+      files: 15
+      type: "COURSE"
+      note: "Business acquisitions, deal structure, due diligence, LBO, seller financing"
+    - id: "CWIRE"
+      name: "Real Estate Wealth (Cardone Way in Real Estate)"
+      files: 20
+      type: "COURSE"
+      note: "Multifamily investing, underwriting, syndication, property management"
+    - id: "CU-2"
+      name: "Cardone University 2nd Half"
+      files: 200
+      type: "UNIVERSITY"
+      note: "Advanced closes: 45 Money Closes, 17 Stall Closes, 13 Product Closes, 13-Step Road to Sale"
+
+layers:
+
+  L1_PHILOSOPHIES:
+    count: 100
+    elements:
+      - id: "FIL-GC-001"
+        content: "Selling is not a job or a career. Selling is a way of life. Your ability to do well in life, to survive, to prosper depends solely on your ability to sell others on those things you believe in."
+        domain: "sales-fundamentals"
+        sources: [SF, CU]
+
+      - id: "FIL-GC-002"
+        content: "The number one reason a business fails is not because they are undercapitalized. The number one reason is their ideas were not sold quickly enough, in quantities great enough, and at prices high enough."
+        domain: "sales-fundamentals"
+        sources: [SF, CU]
+
+      - id: "FIL-GC-003"
+        content: "Everything in life is a commission. Every reward you will get is a commission for something you produced. The whole world is on commission — they just don't know it."
+        domain: "commission"
+        sources: [SF, CU, PTM]
+
+      - id: "FIL-GC-004"
+        content: "There is no salary guaranteed in life. If the company collapses, your salary goes away. Your production, your ability to perform in the marketplace, is where you get your security from."
+        domain: "commission"
+        sources: [SF, CU]
+
+      - id: "FIL-GC-005"
+        content: "Commission jobs are the only real way to create financial security. Don't be scared of commission — embrace it. Every great thing in life is a commission for something you did."
+        domain: "commission"
+        sources: [SF]
+
+      - id: "FIL-GC-006"
+        content: "99% of all so-called professional salespeople have only a slight idea of what selling actually is. The real pros don't even call themselves salespeople — they call themselves litigators, negotiators, entrepreneurs, inventors."
+        domain: "sales-fundamentals"
+        sources: [SF, CU]
+
+      - id: "FIL-GC-007"
+        content: "If you're not selling, to some degree, you're not sold. If your sales are slowing down, immediately understand: you're not sold on something. The degree to which you are sold determines the degree to which you will sell."
+        domain: "conviction"
+        sources: [SF, CU]
+
+      - id: "FIL-GC-008"
+        content: "Conviction is the make-break point. A sale is made when your conviction and belief about something is stronger than another's. At that point, the other person gives up their conviction and becomes convinced of yours."
+        domain: "conviction"
+        sources: [SF, CU]
+
+      - id: "FIL-GC-009"
+        content: "You must become so thoroughly and completely sold on your product that your conviction becomes irresistible. You must never allow the consideration that anyone else could compete with you."
+        domain: "conviction"
+        sources: [SF, CU, MO]
+
+      - id: "FIL-GC-010"
+        content: "While it's promoted in society to be reasonable and sensible, this will not service you in sales. In sales, if you want greatness, you've got to be unreasonable."
+        domain: "mindset"
+        sources: [SF, CU, PTM]
+
+      - id: "FIL-GC-011"
+        content: "Most people incorrectly estimate the amount of effort it takes to get results. When it comes to taking action, never think in terms of balance. Think in terms of massive, out-of-balance amounts of action."
+        domain: "massive-action"
+        sources: [SF, CU, PTM]
+
+      - id: "FIL-GC-012"
+        content: "Don't buy the mumbo jumbo that you need balance in your life. It's a lie. You need massive action. These people who talk about taking it easy are trying to convince you to have a mediocre life."
+        domain: "massive-action"
+        sources: [SF, CU]
+
+      - id: "FIL-GC-013"
+        content: "I am happiest when I am producing and creating. Production yields happiness. I love the satisfaction of accomplishing the task. I have never met anyone who does not feel better when they finish something."
+        domain: "massive-action"
+        sources: [SF, CU]
+
+      - id: "FIL-GC-014"
+        content: "The 10X Rule: whatever you think you need to do, increase the amount far greater than you think is necessary — at least ten times — and you will get results beyond your wildest expectations."
+        domain: "massive-action"
+        sources: [SF, CU, PTM]
+
+      - id: "FIL-GC-015"
+        content: "If you take 10 times more action than you think is necessary, you can give up hope. You don't have to hope, wish, or cross your fingers. What you want and far more will come."
+        domain: "massive-action"
+        sources: [SF, CU]
+
+      - id: "FIL-GC-016"
+        content: "Be unreasonable, even insane, with the amount of action you take. The people who tell you to relax, take it easy, stop working so hard — they are like communists trying to create a middle class."
+        domain: "massive-action"
+        sources: [SF, CU]
+
+      - id: "FIL-GC-017"
+        content: "You're putting too much attention on selling people you don't know and ignoring the people you do know. Your power base is gold — mine it."
+        domain: "power-base"
+        sources: [SF, CU, PTM]
+
+      - id: "FIL-GC-018"
+        content: "Everyone has a power base — family, friends, relatives, past associates. One of the fastest ways to NOT get into power is to abandon those people. They already know you, trust you, want to help you."
+        domain: "power-base"
+        sources: [SF, CU, PTM]
+
+      - id: "FIL-GC-019"
+        content: "The most powerful person in the world has 24 hours in a day. The richest has 3,600 minutes. You have the same. When people say they don't have enough time — it's a lie."
+        domain: "time-management"
+        sources: [SF, CU]
+
+      - id: "FIL-GC-020"
+        content: "Time is money if you're producing. Time is money when you're not doing anything too, because somebody else is collecting money while you lie on the couch."
+        domain: "time-management"
+        sources: [SF, CU]
+
+      - id: "FIL-GC-021"
+        content: "The average person watches over three hours of TV a day. That's 67,500 minutes a year. If every call took three minutes, that's 22,500 extra calls you could make."
+        domain: "time-management"
+        sources: [SF]
+
+      - id: "FIL-GC-022"
+        content: "You are the creator of every objection. You must take full responsibility for the customer's objection."
+        domain: "objection-handling"
+        sources: [MO]
+
+      - id: "FIL-GC-023"
+        content: "Most objections are complaints that should not be handled, but used as a reason to close. The biggest mistake in handling objections is treating complaints as actual objections."
+        domain: "objection-handling"
+        sources: [MO]
+
+      - id: "FIL-GC-024"
+        content: "Objections are never a reason not to close or stop working your deal. An objection is just an expression of interest that has not been fully satisfied."
+        domain: "objection-handling"
+        sources: [MO, CU]
+
+      - id: "FIL-GC-025"
+        content: "The most dangerous objection is the unspoken one. The objection you never hear is the one that kills the deal."
+        domain: "objection-handling"
+        sources: [MO]
+
+      - id: "FIL-GC-026"
+        content: "The greatest sales secret of all time is not closing — it is follow-up. Great salespeople are not talkers. They are professional stalkers."
+        domain: "follow-up"
+        sources: [PTM, HMMP, CU]
+
+      - id: "FIL-GC-027"
+        content: "The 98-2 Rule: 98% of all people you interact with will not buy from you the first time. That means 98% of your future income lies in follow-up."
+        domain: "follow-up"
+        sources: [PTM, HMMP]
+
+      - id: "FIL-GC-028"
+        content: "If you can't make time, you will never have money. You don't have a time problem — you have a priorities problem."
+        domain: "time-management"
+        sources: [PTM, HMMP]
+
+      - id: "FIL-GC-029"
+        content: "Always mix business and family. If you can't sell your family, if you can't get money from your friends and family, who can you get it from?"
+        domain: "power-base"
+        sources: [PTM, SF]
+
+      - id: "FIL-GC-030"
+        content: "You live on an economic planet. Finances are vital to your life, your parents, your kids, your marriage. Marriages fall apart because of finances. People are stressed because of finances."
+        domain: "wealth-building"
+        sources: [PTM]
+
+      - id: "FIL-GC-031"
+        content: "Millionaire status is today's new middle class. The middle class in 1974 is not the middle class of today. The only solution for the middle class is to become a millionaire."
+        domain: "wealth-building"
+        sources: [PTM]
+
+      - id: "FIL-GC-032"
+        content: "You do not need to believe in yourself to get started. You need to believe in two things: the possibility, and the source of the content (your coach)."
+        domain: "mindset"
+        sources: [PTM]
+
+      - id: "FIL-GC-033"
+        content: "Becoming a millionaire is two parts mental, one part mechanical. If you don't get the mental handled, the mechanical won't matter because you will quit."
+        domain: "wealth-building"
+        sources: [PTM]
+
+      - id: "FIL-GC-034"
+        content: "Stay on alert about money. I'm not paranoid — I am aware of the situation. Bad things happen to good people every day. My dad's heart blew up in his chest. That was not in the business plan."
+        domain: "wealth-building"
+        sources: [PTM]
+
+      - id: "FIL-GC-035"
+        content: "The phone was first used to sell something. The reason people are calling is because we have buyers actively seeking to buy. The phone is the greatest multiplier of money ever invented."
+        domain: "phone-sales"
+        sources: [HMMP]
+
+      - id: "FIL-GC-036"
+        content: "Every person on this planet can either make more money or lose more money on the phone in two minutes than at any other job. Your phone is the ATM of the future."
+        domain: "phone-sales"
+        sources: [HMMP]
+
+      - id: "FIL-GC-037"
+        content: "Selling affects every person on this planet. Your ability or inability to sell, persuade, negotiate, and convince others affects every single area of your life and determines how well you survive."
+        domain: "sales-fundamentals"
+        sources: [SF, CU]
+
+      - id: "FIL-GC-038"
+        content: "The best things in life are not free. The best things come as a result of something extra that you did, some obstacle you overcame. Happiness, security, love — all commissions."
+        domain: "commission"
+        sources: [SF]
+
+      - id: "FIL-GC-039"
+        content: "There is a Great Shortage — not of products, not of money, not of opportunities. There is a shortage of professional salespeople who are committed and dedicated to their craft."
+        domain: "sales-fundamentals"
+        sources: [SF, CU]
+
+      - id: "FIL-GC-040"
+        content: "Confidence is the key to selling. To the degree that you are sold, you will sell. You want to move beyond selling into complete believability."
+        domain: "conviction"
+        sources: [SF, CU]
+
+      - id: "FIL-GC-041"
+        content: "Your education, the part of town you grew up in, the color of your skin — none of that matters. The only thing that matters is your decision and your action."
+        domain: "mindset"
+        sources: [PTM, SF]
+
+      - id: "FIL-GC-042"
+        content: "I had more money at age 8 than at age 25. I was using the wrong ingredients. There is a recipe for wealth — if you use the wrong ingredients, you will not get there."
+        domain: "wealth-building"
+        sources: [PTM]
+
+      - id: "FIL-GC-043"
+        content: "Immersion is the doorway to loyalty. The second purchase validates the first sale. You should always go for second money."
+        domain: "closing"
+        sources: [PTM, CU]
+
+      - id: "FIL-GC-044"
+        content: "Don't present yourself as a solopreneur. Even when I was starting out, I would change my voice and call on behalf of myself to appear bigger."
+        domain: "sales-management"
+        sources: [PTM]
+
+      - id: "FIL-GC-045"
+        content: "Selling is used every day by every person on this planet and no one is excluded. It is a prerequisite for all the success you're going to create in your life."
+        domain: "sales-fundamentals"
+        sources: [SF]
+
+      - id: "FIL-GC-046"
+        content: "The only reason you won't like selling is because you don't understand it yet. Once you become a professional, you will love it because you will be in control."
+        domain: "sales-fundamentals"
+        sources: [SF, CU]
+
+      - id: "FIL-GC-047"
+        content: "Greener pastures don't exist. The grass is not greener somewhere else. Wherever you go, you take yourself with you. Get great where you are."
+        domain: "mindset"
+        sources: [SF, CU]
+
+      - id: "FIL-GC-048"
+        content: "A lie detector cannot tell the difference between the truth and a lie if the individual believes the lie to be true. Get yourself that sold."
+        domain: "conviction"
+        sources: [SF]
+
+      - id: "FIL-GC-049"
+        content: "Health is a commission for taking care of yourself. Love is a commission for finding and caring for the right partner. Every great thing is earned through production."
+        domain: "commission"
+        sources: [SF]
+
+      - id: "FIL-GC-050"
+        content: "Alexander Graham Bell was considered a lunatic. The impossible is only impossible until someone makes it possible. Photography, flights, space travel — all became possible through conviction."
+        domain: "conviction"
+        sources: [SF]
+
+      - id: "FIL-GC-051"
+        content: "Your problem is not bad luck or misfortune. Your problem is you don't have enough in your pipeline. When you have 10X the pipeline, cancellations become welcome — they free up your time."
+        domain: "pipeline-management"
+        sources: [SF, CU, HMMP]
+
+      - id: "FIL-GC-052"
+        content: "If I took small amounts of action, every lost deal would be a collapse. With massive action, a cancelled appointment is a relief because I have two more people to focus on."
+        domain: "massive-action"
+        sources: [SF, CU]
+
+      - id: "FIL-GC-053"
+        content: "Save to invest, don't save to save. Saving without investing is just protecting money that loses value. The wealthy don't save — they invest."
+        domain: "wealth-building"
+        sources: [PTM]
+
+      - id: "FIL-GC-054"
+        content: "47% of Americans don't have $400 to their name. 62-76% live paycheck to paycheck. Nobody plans on disaster — but rich people can handle it because they have the economic cushion."
+        domain: "wealth-building"
+        sources: [PTM]
+
+      - id: "FIL-GC-055"
+        content: "Your teachers didn't teach you how to be a millionaire. Schools don't teach it. Your parents probably didn't teach it. In fact, society is part of the block."
+        domain: "wealth-building"
+        sources: [PTM]
+
+      - id: "FIL-GC-056"
+        content: "Get so rich that nobody can tell you what to do. Get so rich that you own the town. That's what your parents should have told you."
+        domain: "wealth-building"
+        sources: [PTM]
+
+      - id: "FIL-GC-057"
+        content: "Commit to being a master of objections. Work on objections every single day. If you can predict objections, you can handle them. Prediction is the key."
+        domain: "objection-handling"
+        sources: [MO, CU]
+
+      - id: "FIL-GC-058"
+        content: "In closing, I learned this: I could close anyone. But closing is not the greatest secret. The greatest secret is keeping a full pipeline through relentless follow-up."
+        domain: "follow-up"
+        sources: [PTM, CU]
+
+      - id: "FIL-GC-059"
+        content: "Always, always, always agree with the buyer. Agreement does not mean laying down — it means removing confrontation first, then redirecting from a position of alignment."
+        domain: "closing"
+        sources: [PTM, CU]
+
+      - id: "FIL-GC-060"
+        content: "You can take a horse to water but you can't make him drink — hold that horse's head underwater long enough and he'll open up for a gasp of air and take in some water. Insist on the close."
+        domain: "closing"
+        sources: [PTM]
+
+      # ===== 10XMB: 10x Marketing Bundle =====
+
+      - id: "FIL-GC-061"
+        content: "Marketing is not an expense — it is an investment. The businesses that dominate are the ones that refuse to cut marketing budgets in downturns. Omnipresence is not optional."
+        domain: "omnipresence"
+        sources: [10XMB]
+
+      - id: "FIL-GC-062"
+        content: "Email marketing produces $42 for every $1 spent. There is no marketing channel on earth with that kind of ROI. If you are not emailing your list daily, you are leaving millions on the table."
+        domain: "email-marketing"
+        sources: [10XMB]
+
+      - id: "FIL-GC-063"
+        content: "A funnel is not a website. A funnel is a machine that turns strangers into buyers through a series of micro-commitments. Every step escalates commitment."
+        domain: "sales-funnels"
+        sources: [10XMB]
+
+      - id: "FIL-GC-064"
+        content: "You don't need more traffic. You need better conversion. Most businesses are leaking money at every stage of their funnel and blaming traffic for poor results."
+        domain: "conversion-optimization"
+        sources: [10XMB]
+
+      - id: "FIL-GC-065"
+        content: "Omnipresence means being everywhere your customer looks. When they see you on YouTube, Instagram, email, and billboards in the same week — that creates inevitability."
+        domain: "omnipresence"
+        sources: [10XMB]
+
+      - id: "FIL-GC-066"
+        content: "Your subject line is a billboard on a highway. People are driving 70 miles an hour. You have 2 seconds. If the subject line doesn't grab them, the email doesn't exist."
+        domain: "email-marketing"
+        sources: [10XMB]
+
+      - id: "FIL-GC-067"
+        content: "Content is not king. Distribution is king. The best content in the world means nothing if nobody sees it. Create once, distribute everywhere."
+        domain: "omnipresence"
+        sources: [10XMB]
+
+      - id: "FIL-GC-068"
+        content: "Webinars are the greatest selling tool of the digital age. You get 60-90 minutes of someone's undivided attention. No cold call gives you that. No ad gives you that."
+        domain: "webinars"
+        sources: [10XMB]
+
+      # ===== 10XBBA: Business Buying Accelerator =====
+
+      - id: "FIL-GC-069"
+        content: "The fastest way to 10X your income is not to start a business — it's to buy one. Someone else already did the hard work. You just need to find it, negotiate it, and scale it."
+        domain: "business-buying"
+        sources: [10XBBA]
+
+      - id: "FIL-GC-070"
+        content: "You don't need to be rich to buy a business. You need to be smart. Seller financing, earn-ins, and creative deal structures let you acquire businesses with little to no money down."
+        domain: "deal-structure"
+        sources: [10XBBA]
+
+      - id: "FIL-GC-071"
+        content: "Every business is for sale. The owner might not know it yet. Your job is to find businesses where the owner is tired, burned out, or ready to retire — and make them an offer they can't refuse."
+        domain: "acquisitions"
+        sources: [10XBBA]
+
+      - id: "FIL-GC-072"
+        content: "Due diligence is where deals are won or lost. The amateur skips due diligence because they're excited. The professional lives in due diligence because that's where the truth is."
+        domain: "due-diligence"
+        sources: [10XBBA]
+
+      - id: "FIL-GC-073"
+        content: "Never buy a business that depends on one customer for more than 25% of its revenue. That's not a business — it's a job disguised as a business with one employer."
+        domain: "due-diligence"
+        sources: [10XBBA]
+
+      - id: "FIL-GC-074"
+        content: "The best acquisitions are boring businesses that make money while you sleep. Laundromats, car washes, storage facilities — they don't need your ego, they need your capital."
+        domain: "business-buying"
+        sources: [10XBBA]
+
+      # ===== CWIRE: Real Estate Wealth =====
+
+      - id: "FIL-GC-075"
+        content: "Real estate is the greatest wealth-building vehicle in history. More millionaires are created through real estate than any other investment class. It provides income, appreciation, tax benefits, and leverage."
+        domain: "real-estate-investing"
+        sources: [CWIRE]
+
+      - id: "FIL-GC-076"
+        content: "Never invest in single-family homes for cash flow. The math doesn't work. One vacancy and you're negative. Multifamily is the only real estate investment that makes mathematical sense."
+        domain: "multifamily"
+        sources: [CWIRE]
+
+      - id: "FIL-GC-077"
+        content: "Cash flow is the blood of real estate investing. Appreciation is the bonus. Never buy a property for appreciation alone — that's speculation, not investing."
+        domain: "cash-flow"
+        sources: [CWIRE]
+
+      - id: "FIL-GC-078"
+        content: "You do not need to save $100,000 to start investing in real estate. You need to earn $100,000 first. Income solves all problems. Once you have income, use leverage to multiply it."
+        domain: "real-estate-investing"
+        sources: [CWIRE]
+
+      - id: "FIL-GC-079"
+        content: "I would rather own 100 units in one building than 100 single-family homes across a city. Concentration creates efficiency. Dispersion creates headaches."
+        domain: "multifamily"
+        sources: [CWIRE]
+
+      - id: "FIL-GC-080"
+        content: "The 16-unit minimum: never buy less than 16 units. Below 16, you can't support a full-time property manager. The ideal first deal is 32 units — enough scale to be self-sustaining."
+        domain: "multifamily"
+        sources: [CWIRE]
+
+      - id: "FIL-GC-081"
+        content: "Leverage is the secret weapon of the wealthy. With 3-4x leverage in real estate, you control $4 million in assets with $1 million in capital. The bank does the heavy lifting."
+        domain: "leverage"
+        sources: [CWIRE]
+
+      - id: "FIL-GC-082"
+        content: "Follow up with every broker for 365 days. Most investors give up after 3 calls. I follow up for a year. When the right deal comes, the broker calls ME first because I was persistent."
+        domain: "real-estate-investing"
+        sources: [CWIRE]
+
+      # ===== CU-2: Cardone University 2nd Half =====
+
+      - id: "FIL-GC-083"
+        content: "Closing is not a single event — it is a process of accumulating small agreements until the final yes becomes inevitable. Every question you ask should be a closing question."
+        domain: "closing-strategies"
+        sources: [CU-2]
+
+      - id: "FIL-GC-084"
+        content: "There are only three categories of closes: money closes, stall closes, and product closes. Master all three and you become unstoppable. Most salespeople only know one category."
+        domain: "closing-strategies"
+        sources: [CU-2]
+
+      - id: "FIL-GC-085"
+        content: "The Five-No Strategy: no deal is dead until you've heard 'no' at least five times. Each 'no' is just a request for more information, more value, or a different approach."
+        domain: "closing-strategies"
+        sources: [CU-2]
+
+      - id: "FIL-GC-086"
+        content: "The Road to the Sale is not a suggestion — it is a science. 13 steps, in order, every time. Skip a step and objections multiply exponentially."
+        domain: "road-to-sale"
+        sources: [CU-2]
+
+      - id: "FIL-GC-087"
+        content: "Cold calling is not dead. It's the salespeople who are dead — dead from lack of training, lack of scripts, lack of conviction. The phone still works for anyone willing to use it."
+        domain: "cold-calling"
+        sources: [CU-2, HMMP]
+
+      # ===== Cross-program philosophies (emerged from new sources) =====
+
+      - id: "FIL-GC-088"
+        content: "Diversification is for people who don't know what they're doing. Concentrate your resources on what you know best — sales, real estate, business buying — and dominate it."
+        domain: "wealth-building"
+        sources: [CWIRE, 10XBBA, PTM]
+
+      - id: "FIL-GC-089"
+        content: "Your marketing should make you omnipresent. Your sales skills should make you unstoppable. Your investments should make you untouchable. All three together create true wealth."
+        domain: "wealth-building"
+        sources: [10XMB, CWIRE, PTM]
+
+      - id: "FIL-GC-090"
+        content: "A split test is not a luxury — it is a requirement. Never run a campaign without testing. The market tells you what works, not your opinion."
+        domain: "split-testing"
+        sources: [10XMB]
+
+      - id: "FIL-GC-091"
+        content: "SEO is free traffic from people actively searching for your solution. Ignoring SEO is like ignoring a line of buyers outside your store. Organic search is the compound interest of marketing."
+        domain: "seo"
+        sources: [10XMB]
+
+      - id: "FIL-GC-092"
+        content: "Podcasting and YouTube are long-form trust builders. A 30-second ad creates awareness. A 60-minute podcast creates a relationship. Relationships close deals."
+        domain: "podcasting"
+        sources: [10XMB]
+
+      - id: "FIL-GC-093"
+        content: "Seller financing is the greatest gift in business acquisitions. The seller becomes the bank. You pay them over time from the profits of the business they built. Everybody wins."
+        domain: "deal-structure"
+        sources: [10XBBA]
+
+      - id: "FIL-GC-094"
+        content: "A leveraged buyout is not just for Wall Street. Small businesses can be acquired with LBO structures where the business's own cash flow pays for the acquisition. The asset pays for itself."
+        domain: "deal-structure"
+        sources: [10XBBA]
+
+      - id: "FIL-GC-095"
+        content: "Syndication allows you to pool capital from multiple investors to acquire properties you could never afford alone. It is the ultimate leverage — other people's money working for everyone."
+        domain: "syndication"
+        sources: [CWIRE]
+
+      - id: "FIL-GC-096"
+        content: "Value-add is where the real money is in real estate. Buy something ugly, fix it up, raise rents to market rate, refinance, and repeat. You create equity through improvement, not waiting."
+        domain: "value-add"
+        sources: [CWIRE]
+
+      - id: "FIL-GC-097"
+        content: "The Payment Breakdown method: never let a buyer focus on total price. Break every number into daily cost. A $30,000 product is $82 a day. People spend more than that on coffee and lunches."
+        domain: "money-closes"
+        sources: [CU-2]
+
+      - id: "FIL-GC-098"
+        content: "Cart abandonment is the silent killer of online businesses. 70% of carts are abandoned. A 3-email recovery sequence can recapture 15-20% of those lost sales. That's free money."
+        domain: "conversion-optimization"
+        sources: [10XMB]
+
+      - id: "FIL-GC-099"
+        content: "The tripwire offer exists to convert a prospect into a buyer. Once they buy anything — even $7 — they are 10x more likely to buy again. The first transaction breaks the psychological barrier."
+        domain: "sales-funnels"
+        sources: [10XMB]
+
+      - id: "FIL-GC-100"
+        content: "In real estate, the 50% expense ratio is your reality check. If gross income is $100K, assume $50K goes to expenses before debt service. If the deal doesn't work at 50%, walk away."
+        domain: "underwriting"
+        sources: [CWIRE]
+
+  L2_MENTAL_MODELS:
+    count: 90
+    elements:
+      - id: "MM-GC-001"
+        content: "The 98-2 Rule: 98% will not buy on first contact. Only 2% buy immediately. Most salespeople only work the 2%. The fortune is in the 98%."
+        domain: "follow-up"
+        sources: [PTM, HMMP]
+
+      - id: "MM-GC-002"
+        content: "Four Degrees of Action: (1) Do Nothing (2) Retreat (3) Normal Action (4) Massive Action. Only the 4th degree produces extraordinary results. The first three guarantee mediocrity."
+        domain: "massive-action"
+        sources: [SF, CU]
+
+      - id: "MM-GC-003"
+        content: "The Conviction Scale: your conviction must exceed the buyer's resistance. Sale = Your Conviction > Their Objection. The person with more conviction always wins."
+        domain: "conviction"
+        sources: [SF, CU]
+
+      - id: "MM-GC-004"
+        content: "Power Base Concentric Circles: YOU at center, then Family, Friends, Relatives, Past Associates, Acquaintances. The closer to center, the easier the sale."
+        domain: "power-base"
+        sources: [SF, CU, PTM]
+
+      - id: "MM-GC-005"
+        content: "Objection = Complaint Model: most objections are not real objections but complaints. Complaints should not be handled — they should be used as a reason to close."
+        domain: "objection-handling"
+        sources: [MO]
+
+      - id: "MM-GC-006"
+        content: "7 Types of Objections: Internal (self), External (customer), Valid, Valid-But (won't stop deal), Invalid, Spoken, Unspoken. The unspoken is always the most dangerous."
+        domain: "objection-handling"
+        sources: [MO]
+
+      - id: "MM-GC-007"
+        content: "Two Parts Mental, One Part Mechanical: wealth creation is mostly mindset. If you don't handle the mental blocks, the mechanical steps won't matter because you'll quit."
+        domain: "wealth-building"
+        sources: [PTM]
+
+      - id: "MM-GC-008"
+        content: "The Professional vs Amateur spectrum: amateurs treat selling as a pastime. Professionals commit to study, practice, and mastery. 99% of career salespeople are still amateurs."
+        domain: "sales-fundamentals"
+        sources: [SF, CU]
+
+      - id: "MM-GC-009"
+        content: "Time Inventory Model: inventory your time like money. Calculate: 3 hours TV/day = 22,500 potential three-minute calls per year. Time wasted = money lost."
+        domain: "time-management"
+        sources: [SF, CU]
+
+      - id: "MM-GC-010"
+        content: "Massive Action = New Problems equation. Taking massive action first creates new problems, then those new problems lead to big sales. Problems from massive action are good problems."
+        domain: "massive-action"
+        sources: [SF, CU]
+
+      - id: "MM-GC-011"
+        content: "Sticky Note Analogy for Wealth: if you wanted to collect 1 million sticky notes, you'd (1) confirm they exist, (2) find who has them, (3) make contact, (4) convince them to give them to you. Same with dollars."
+        domain: "wealth-building"
+        sources: [PTM]
+
+      - id: "MM-GC-012"
+        content: "The Phone as ATM: the phone is the greatest money multiplier ever. More people make or lose money in 2 minutes on the phone than at any other activity."
+        domain: "phone-sales"
+        sources: [HMMP]
+
+      - id: "MM-GC-013"
+        content: "Pipeline Abundance Model: when you have massive pipeline, problems shrink. Cancelled appointment? Relief. Lost deal? Next one. No pipeline = every loss is catastrophic."
+        domain: "pipeline-management"
+        sources: [SF, CU, HMMP]
+
+      - id: "MM-GC-014"
+        content: "The Ninety-Day Phenomenon: most salespeople quit mentally at around 90 days. The enthusiasm fades. This is the critical period to recommit and get resold."
+        domain: "mindset"
+        sources: [SF, CU]
+
+      - id: "MM-GC-015"
+        content: "Production Yields Happiness: you are happiest when producing, not consuming. Cleaning the yard > lying on the sofa. Finishing tasks > avoiding them."
+        domain: "massive-action"
+        sources: [SF, CU]
+
+      - id: "MM-GC-016"
+        content: "Impose vs Help Framework: you're not imposing on people when you sell them — you're helping them. The only way to impose is to not offer your product when they need it."
+        domain: "sales-fundamentals"
+        sources: [SF, CU]
+
+      - id: "MM-GC-017"
+        content: "Third Party Touch Model: always bring a second person into the deal. It adds value, removes ego, and creates the perception of a larger organization."
+        domain: "closing"
+        sources: [PTM, CU]
+
+      - id: "MM-GC-018"
+        content: "The Prediction Power: the ability to predict what a buyer will do, say, or object to is the skill that separates the professional from the amateur. Prediction comes from drill."
+        domain: "sales-fundamentals"
+        sources: [SF, CU]
+
+      - id: "MM-GC-019"
+        content: "AB/ABC Proposal Model: always offer multiple options. When someone objects to price A, show price B (higher) to make A look reasonable, or C (lower) as entry point."
+        domain: "closing"
+        sources: [PTM, CU]
+
+      - id: "MM-GC-020"
+        content: "The Sold Scale: if you're not selling, you're not sold. Monitor your sales as an indicator of your own belief level. Sales drop = conviction drop."
+        domain: "conviction"
+        sources: [SF, CU]
+
+      - id: "MM-GC-021"
+        content: "Capitalize on the Easy Sale: the easiest sale is the second sale to an existing customer. Second money validates the first purchase and builds loyalty."
+        domain: "closing"
+        sources: [PTM, CU]
+
+      - id: "MM-GC-022"
+        content: "Objection Categories: (1) Price (2) Terms (3) Contract (4) Product (5) Timing (6) Company (7) You (8) Competition (9) Buyer uncertainty (10) Third-party data (11) Confusions (12) Lack of information."
+        domain: "objection-handling"
+        sources: [MO]
+
+      - id: "MM-GC-023"
+        content: "The Follow-Up Escalation Ladder: Day 0 (immediate thank-you), Day 1 (value call), Day 2 (handwritten note), Day 3 (video), etc. Each touch adds different medium and value."
+        domain: "follow-up"
+        sources: [PTM, HMMP]
+
+      - id: "MM-GC-024"
+        content: "The Income-Expense Trap: most people try to match expenses to income. The wealthy focus on increasing income dramatically, not managing expenses. You can't save your way to wealth."
+        domain: "wealth-building"
+        sources: [PTM]
+
+      - id: "MM-GC-025"
+        content: "Sell Or Be Sold: every interaction has a transaction. Either you sell them on your idea or they sell you on why they can't. Someone is always selling someone."
+        domain: "sales-fundamentals"
+        sources: [SF, CU, HMMP]
+
+      - id: "MM-GC-026"
+        content: "The Price-Value Disconnect: when someone says 'the price is too high,' they are really saying 'I don't see the value yet.' The problem is always value demonstration, not price."
+        domain: "closing"
+        sources: [MO, CU]
+
+      - id: "MM-GC-027"
+        content: "Multiple Streams of Income: create more than one source of income. One stream is vulnerability. Multiple streams is security. The wealthy never depend on one paycheck."
+        domain: "wealth-building"
+        sources: [PTM]
+
+      - id: "MM-GC-028"
+        content: "Increase Income and Stay Broke: when your income goes up, don't increase your lifestyle. Put the extra into investments. Force yourself to live below what you make."
+        domain: "wealth-building"
+        sources: [PTM]
+
+      - id: "MM-GC-029"
+        content: "The 10X Pipeline Buffer: if you need 1 deal, have 10 in your pipeline. If you need 10, have 100. The buffer prevents desperation and creates negotiating power."
+        domain: "pipeline-management"
+        sources: [SF, CU, HMMP]
+
+      - id: "MM-GC-030"
+        content: "The Caller ID Consistency Rule: never call from a number different than the number you want them to call back. Technology confusion kills callbacks."
+        domain: "phone-sales"
+        sources: [HMMP, PTM]
+
+      - id: "MM-GC-031"
+        content: "Present Numbers to Everyone: every presentation must include a written proposal with figures, even if the buyer says they're not ready. It makes it real and gives them something to decide on."
+        domain: "closing"
+        sources: [PTM, CU]
+
+      - id: "MM-GC-032"
+        content: "The Getting-Sold Checkpoint: daily, answer — why should anyone go into debt for my product? Why choose mine? Why now? Why pay more? If you can't answer fast, you're not sold enough."
+        domain: "conviction"
+        sources: [SF, CU]
+
+      - id: "MM-GC-033"
+        content: "Middle Class Math Reality: 50% of Americans take home less than $30,000. 80% have falling incomes. Home ownership at 20-year lows. The old middle-class recipe doesn't work anymore."
+        domain: "wealth-building"
+        sources: [PTM]
+
+      - id: "MM-GC-034"
+        content: "Understanding vs Selling: understanding the buyer is step one before any close. You cannot close what you don't understand. Needs, wants, timing, decision-makers — map them all first."
+        domain: "sales-fundamentals"
+        sources: [CU]
+
+      - id: "MM-GC-035"
+        content: "Cold Call as Warm Reach: every cold call becomes warm on the second attempt. By the third attempt, they know your name. Persistence converts cold into warm."
+        domain: "prospecting"
+        sources: [CU, HMMP]
+
+      - id: "MM-GC-036"
+        content: "Internet Lead Response hierarchy: speed kills — the first to respond wins. 5-minute response vs 30-minute response = dramatically different close rates."
+        domain: "prospecting"
+        sources: [CU]
+
+      - id: "MM-GC-037"
+        content: "The Incoming Call Advantage: incoming calls represent buyers with intent. They are 10x more valuable than outbound. Never waste an incoming call."
+        domain: "phone-sales"
+        sources: [CU, HMMP]
+
+      - id: "MM-GC-038"
+        content: "Sales Process vs Random Acts: selling is a process with specific steps, not random acts of hope. Process = predictability. Random = failure."
+        domain: "sales-fundamentals"
+        sources: [CU]
+
+      - id: "MM-GC-039"
+        content: "The 'I Need To Think About It' Decoder: thought is instantaneous. 'I need to think about it' is a stall, not a real objection. What they need is a decision, not more time."
+        domain: "objection-handling"
+        sources: [MO, CU]
+
+      - id: "MM-GC-040"
+        content: "The Spouse Stall Decoder: when someone says 'I need to talk to my spouse,' ask: 'Would they say no to the product or no to the money?' This isolates the real issue."
+        domain: "objection-handling"
+        sources: [MO, CU]
+
+      - id: "MM-GC-041"
+        content: "Jim Carrey's $10M Check: he wrote himself a check for $10 million and looked at it every day until he earned it. Make your claim, post it, tell the world. Decision precedes result."
+        domain: "mindset"
+        sources: [PTM]
+
+      - id: "MM-GC-042"
+        content: "The Data-Doubt Connection: if you doubt the source of the content, you will not use the content. That's why schools fail — students don't trust the source."
+        domain: "mindset"
+        sources: [PTM]
+
+      - id: "MM-GC-043"
+        content: "Fear and Scarcity Programming: constant messages of 'save money, turn out the lights, don't spend' create a scarcity mindset. To create wealth, you must reprogram from scarcity to abundance."
+        domain: "wealth-building"
+        sources: [PTM]
+
+      - id: "MM-GC-044"
+        content: "The Follow-Up Multiplier: Art Wildland model — quiet, introverted, paced, never talks big. But always has a full pipeline. Consistency beats charisma."
+        domain: "follow-up"
+        sources: [PTM]
+
+      - id: "MM-GC-045"
+        content: "Closing Theory: every close attempt that doesn't close teaches you something. The close is not one moment — it's a series of agreements building toward the final yes."
+        domain: "closing"
+        sources: [CU]
+
+      - id: "MM-GC-046"
+        content: "The 12 Objection Categories Map: price, terms, contract, product, timing, company, you, competition, buyer uncertainty, third-party data, confusions, lack of information. Master each one."
+        domain: "objection-handling"
+        sources: [MO]
+
+      - id: "MM-GC-047"
+        content: "The Agreement Principle: never confront first. Agree, align, then redirect. 'I agree it's a lot of money' followed by the close removes resistance without creating confrontation."
+        domain: "closing"
+        sources: [MO, CU, PTM]
+
+      - id: "MM-GC-048"
+        content: "100 Ways to Stay Motivated: motivation is not something that happens to you. It is a discipline you practice. Read, drill, role-play, review goals — every single day."
+        domain: "mindset"
+        sources: [CU]
+
+      - id: "MM-GC-049"
+        content: "Top Traits of Great Salespeople: persistence, conviction, product knowledge, willingness to be uncomfortable, ability to follow up, commitment to growth, and unreasonable action levels."
+        domain: "sales-fundamentals"
+        sources: [CU]
+
+      - id: "MM-GC-050"
+        content: "The Commitment Escalation: first commit to the profession, then to the product, then to the customer, then to mastery. Half-commitments produce zero results."
+        domain: "sales-fundamentals"
+        sources: [SF, CU]
+
+      # ===== 10XMB: Marketing Mental Models =====
+
+      - id: "MM-GC-051"
+        content: "The Funnel Building Blocks Model: every funnel has 5 components — Traffic Source, Landing Page, Offer, Upsell Sequence, Follow-Up Sequence. Remove any one and the funnel collapses."
+        domain: "sales-funnels"
+        sources: [10XMB]
+
+      - id: "MM-GC-052"
+        content: "Micro-Commitment Escalation: move the prospect through a series of tiny yeses — click, opt-in, watch, tripwire purchase, core offer, upsell. Each yes makes the next yes easier."
+        domain: "conversion-optimization"
+        sources: [10XMB]
+
+      - id: "MM-GC-053"
+        content: "Three Funnel Types: (1) Lead Generation Funnel — capture email (2) Sales Funnel — convert to buyer (3) Ascension Funnel — move buyer to high-ticket. Every business needs all three."
+        domain: "sales-funnels"
+        sources: [10XMB]
+
+      - id: "MM-GC-054"
+        content: "The 5 Email Sequences Model: (1) Welcome — indoctrinate (2) Engagement — deliver value (3) Ascension — pitch upgrade (4) Segmentation — sort by interest (5) Re-engagement — win back dormant. Each serves a different purpose."
+        domain: "email-marketing"
+        sources: [10XMB]
+
+      - id: "MM-GC-055"
+        content: "The Godfather Offer: make the prospect an offer so good they feel stupid saying no. This is the tripwire — $7-$27 product that's worth 10x the price. The goal is conversion, not profit."
+        domain: "sales-funnels"
+        sources: [10XMB]
+
+      - id: "MM-GC-056"
+        content: "Two-Step Checkout Psychology: step 1 captures shipping info, step 2 captures payment. Once they've entered shipping, they're 70% committed. Abandonment drops dramatically after step 1."
+        domain: "conversion-optimization"
+        sources: [10XMB]
+
+      - id: "MM-GC-057"
+        content: "The Omnipresence Matrix: map every platform your prospect uses — search, social, email, video, podcast, display ads. Then be present on ALL of them simultaneously. Repetition creates familiarity. Familiarity creates trust."
+        domain: "omnipresence"
+        sources: [10XMB]
+
+      - id: "MM-GC-058"
+        content: "Google Ads Intent Model: search ads capture demand (people searching for your solution). Display/video ads create demand (interrupting people who aren't searching yet). You need both."
+        domain: "digital-advertising"
+        sources: [10XMB]
+
+      # ===== 10XBBA: Business Buying Mental Models =====
+
+      - id: "MM-GC-059"
+        content: "The 28-Day Acquisition Blueprint: Day 1-7 identify targets, Day 8-14 initial contact and LOI, Day 15-21 due diligence, Day 22-28 close and transition. Speed is competitive advantage in acquisitions."
+        domain: "business-buying"
+        sources: [10XBBA]
+
+      - id: "MM-GC-060"
+        content: "1/3-1/3-1/3 Deal Structure: (1) 1/3 seller financing (2) 1/3 bank debt (3) 1/3 buyer equity (can be earn-in). This structure minimizes cash needed and aligns seller's interests with success."
+        domain: "deal-structure"
+        sources: [10XBBA]
+
+      - id: "MM-GC-061"
+        content: "ODE Valuation Model: Owner's Discretionary Earnings = Net Profit + Owner's Salary + Perks + Non-recurring Expenses. Multiply ODE by 2-2.5x for small business valuation. Simple, effective, universal."
+        domain: "valuation"
+        sources: [10XBBA]
+
+      - id: "MM-GC-062"
+        content: "The R3 People Framework for acquisitions: (1) Retain key employees (2) Replace underperformers (3) Recruit missing talent. Do this within the first 90 days or the acquisition will underperform."
+        domain: "acquisitions"
+        sources: [10XBBA]
+
+      - id: "MM-GC-063"
+        content: "The Earn-In Model: instead of paying full price upfront, earn ownership through performance. Hit revenue targets = earn equity. This protects the buyer and motivates the seller to ensure transition success."
+        domain: "deal-structure"
+        sources: [10XBBA]
+
+      - id: "MM-GC-064"
+        content: "Customer Concentration Risk: if one customer is >25% of revenue, you don't own a business — you own a dependent relationship. Walk away or negotiate the price down by 50%."
+        domain: "due-diligence"
+        sources: [10XBBA]
+
+      - id: "MM-GC-065"
+        content: "The Business Buying Funnel: 100 businesses identified → 30 conversations → 10 LOIs → 3 due diligence → 1 closed deal. It's a numbers game, just like sales."
+        domain: "business-buying"
+        sources: [10XBBA]
+
+      - id: "MM-GC-066"
+        content: "Leveraged Buyout Mechanics for Small Business: use the business's own cash flow to pay acquisition debt. If the business generates $500K/year and debt service is $300K/year, you pocket $200K while the business pays for itself."
+        domain: "deal-structure"
+        sources: [10XBBA]
+
+      # ===== CWIRE: Real Estate Mental Models =====
+
+      - id: "MM-GC-067"
+        content: "The Four Quadrants of Real Estate: (1) Location (2) Units (3) Condition (4) Price. A deal must work in at least 3 of 4 quadrants. If only 2 work, the deal is too risky."
+        domain: "real-estate-investing"
+        sources: [CWIRE]
+
+      - id: "MM-GC-068"
+        content: "The 50% Expense Ratio: assume 50% of gross rental income goes to expenses (taxes, insurance, maintenance, vacancy, management). If the deal doesn't cash-flow after 50% expenses + debt service, pass."
+        domain: "underwriting"
+        sources: [CWIRE]
+
+      - id: "MM-GC-069"
+        content: "NOI = Gross Income - Operating Expenses (before debt). Cap Rate = NOI / Purchase Price. These two numbers tell you 90% of what you need to know about a deal."
+        domain: "underwriting"
+        sources: [CWIRE]
+
+      - id: "MM-GC-070"
+        content: "DCR (Debt Coverage Ratio) = NOI / Debt Service. Banks want 1.20+ DCR. If DCR is below 1.0, the property doesn't generate enough to cover its loans. Red flag."
+        domain: "financing"
+        sources: [CWIRE]
+
+      - id: "MM-GC-071"
+        content: "The Leverage Multiplier: with 75% LTV (loan-to-value), you control 4x your capital in assets. $1M equity = $4M property. A 10% increase in property value = 40% return on your equity."
+        domain: "leverage"
+        sources: [CWIRE]
+
+      - id: "MM-GC-072"
+        content: "The 21-Day Due Diligence Clock: Day 1-7 physical inspection, Day 8-14 financial audit, Day 15-21 legal and title review. Never extend DD without cause — speed kills in real estate too."
+        domain: "due-diligence"
+        sources: [CWIRE]
+
+      - id: "MM-GC-073"
+        content: "Broker Exhaustion Strategy: follow up with brokers so relentlessly that when the perfect deal comes in, they call you first just to get you off their back. Persistence is your deal flow."
+        domain: "real-estate-investing"
+        sources: [CWIRE]
+
+      - id: "MM-GC-074"
+        content: "The 365-Day Follow-Up Calendar for Brokers: same concept as sales follow-up but for deal flow. Monthly touchpoints with every broker in your target market. Never let them forget you're a buyer."
+        domain: "real-estate-investing"
+        sources: [CWIRE]
+
+      - id: "MM-GC-075"
+        content: "Value-Add Investment Thesis: buy below market → improve (renovations, better management, rent increases) → refinance at new value → pull out original capital → repeat with zero money left in."
+        domain: "value-add"
+        sources: [CWIRE]
+
+      - id: "MM-GC-076"
+        content: "Syndication Structure: General Partner (GP) manages the deal, takes 20-30% of profits. Limited Partners (LP) provide capital, take 70-80% of profits. GP gets promoted interest for doing the work."
+        domain: "syndication"
+        sources: [CWIRE]
+
+      # ===== CU-2: Advanced Closing Mental Models =====
+
+      - id: "MM-GC-077"
+        content: "The Three Close Categories Model: (1) Money Closes — overcome financial objections (45 techniques) (2) Stall Closes — overcome delay tactics (17 techniques) (3) Product Closes — overcome product doubts (13 techniques). Together they cover 100% of objection scenarios."
+        domain: "closing-strategies"
+        sources: [CU-2]
+
+      - id: "MM-GC-078"
+        content: "The 13-Step Road to Sale: (1) Greeting (2) Determine wants/needs (3) Select product (4) Build value (5) Offer to trade (6) Test close (7) Walk around (8) Sit down (9) Present numbers (10) Handle objections (11) Close (12) Follow up (13) Referrals. Each step has specific scripts."
+        domain: "road-to-sale"
+        sources: [CU-2]
+
+      - id: "MM-GC-079"
+        content: "The Five-No Strategy Model: every 'no' reveals information. No #1 = fear, No #2 = uncertainty, No #3 = need more info, No #4 = stalling, No #5 = if still no, it may be real. Most deals close between no #3 and no #5."
+        domain: "closing-strategies"
+        sources: [CU-2]
+
+      - id: "MM-GC-080"
+        content: "Payment Breakdown Psychology: the brain processes $82/day differently than $30,000. Break every big number into the smallest possible increment — daily, hourly, per-use. Small numbers feel manageable."
+        domain: "money-closes"
+        sources: [CU-2]
+
+      - id: "MM-GC-081"
+        content: "The Lifestyle Walk-Through Close: don't compare your price to competitors. Compare it to what the buyer already spends on lifestyle — dinner, subscriptions, car payment. Your product becomes the same as things they already pay for."
+        domain: "money-closes"
+        sources: [CU-2]
+
+      - id: "MM-GC-082"
+        content: "Think-About-It Response Hierarchy: 5 different responses for 'I need to think about it' — each escalating in directness. Start soft, move firm. By response #5, the buyer either closes or reveals the real objection."
+        domain: "stall-closes"
+        sources: [CU-2]
+
+      - id: "MM-GC-083"
+        content: "The Spouse Stall Resolution Tree: (1) Would they say no to the product or the money? (2) If product: what specifically? (3) If money: is it the total, down, or monthly? This binary tree isolates the real blocker in 3 questions."
+        domain: "stall-closes"
+        sources: [CU-2, MO]
+
+      # ===== Cross-program mental models =====
+
+      - id: "MM-GC-084"
+        content: "The Wealth Ecosystem: Active Income (sales) → Invest (real estate/business) → Passive Income → Reinvest → Scale. Each level funds the next. Sales is always the engine."
+        domain: "wealth-building"
+        sources: [PTM, CWIRE, 10XBBA]
+
+      - id: "MM-GC-085"
+        content: "Digital + Analog Closing: online funnels warm the prospect, email nurtures them, but the PHONE closes them. Technology creates leads. Humans close deals. Never automate the close."
+        domain: "sales-funnels"
+        sources: [10XMB, HMMP]
+
+      - id: "MM-GC-086"
+        content: "The Acquisition vs Creation Decision: building a business from scratch takes 5-10 years. Buying an existing business with revenue takes 28 days. When speed matters, acquire."
+        domain: "business-buying"
+        sources: [10XBBA]
+
+      - id: "MM-GC-087"
+        content: "Property Management as Profit Center: bad management bleeds money. Good management IS the value-add. Reducing expenses by 10% on a 100-unit property is equivalent to raising rents $50/unit."
+        domain: "property-management"
+        sources: [CWIRE]
+
+      - id: "MM-GC-088"
+        content: "The Cold Call Reframe: cold calling is not interruption — it's introduction. You're not bothering someone. You're offering them a solution they don't know exists yet."
+        domain: "cold-calling"
+        sources: [CU-2, HMMP]
+
+      - id: "MM-GC-089"
+        content: "Cart Abandonment as Follow-Up: abandoned carts are the online equivalent of 'I need to think about it.' The same follow-up principles apply — email within 1 hour, offer value within 24 hours, create urgency within 48."
+        domain: "conversion-optimization"
+        sources: [10XMB]
+
+      - id: "MM-GC-090"
+        content: "Webinar as Virtual Close: the webinar structure mirrors the sales process — rapport, education, offer, close. A well-designed webinar can close 5-15% of attendees without a single phone call."
+        domain: "webinars"
+        sources: [10XMB]
+
+  L3_HEURISTICS:
+    count: 110
+    elements:
+      - id: "HEUR-GC-001"
+        content: "Call a prospect at least 15 times in 3 days before giving up. I called a client 15 times in 3 days plus texts plus emails plus video clips. If anything, it's not enough because I haven't gotten a result yet."
+        domain: "follow-up"
+        sources: [SF, HMMP]
+
+      - id: "HEUR-GC-002"
+        content: "Day 0 follow-up: call within 5 minutes of contact. Same day: second call within 1 hour. Day 1: third call with 'I have a great idea.' Day 2: handwritten note + text."
+        domain: "follow-up"
+        sources: [PTM, HMMP]
+
+      - id: "HEUR-GC-003"
+        content: "14-day follow-up plan minimum. 360-day plan is ideal. Each touch uses a different medium: call, text, email, handwritten note, video, in-person visit."
+        domain: "follow-up"
+        sources: [PTM, HMMP]
+
+      - id: "HEUR-GC-004"
+        content: "Never leave a callback number different from the number you're calling from. Caller ID confusion kills follow-up. Call from the number you want them to return to."
+        domain: "phone-sales"
+        sources: [HMMP, PTM]
+
+      - id: "HEUR-GC-005"
+        content: "On the first thank-you call, never leave data or details. Just: 'Thank you for your time, call me at [number].' Create curiosity, not information overload."
+        domain: "follow-up"
+        sources: [PTM, HMMP]
+
+      - id: "HEUR-GC-006"
+        content: "If your sales are dropping, do not look at external factors first. Ask: 'What am I not sold on?' The answer to dropping sales is always internal conviction, not external conditions."
+        domain: "conviction"
+        sources: [SF, CU]
+
+      - id: "HEUR-GC-007"
+        content: "Drill objection handling every single day. 8 steps: (1) Commit to mastery (2) Take responsibility (3) Define objections (4) Identify where they occur (5) Identify each one (6) Prepare to predict (7) Master handling (8) Work on it daily."
+        domain: "objection-handling"
+        sources: [MO]
+
+      - id: "HEUR-GC-008"
+        content: "When you hear an objection: (1) Listen — don't interrupt (2) Acknowledge — 'I agree' (3) Isolate — 'Is there anything else?' (4) Validate — 'That wouldn't keep you from buying, would it?' (5) Determine type (6) Close or Handle."
+        domain: "objection-handling"
+        sources: [MO]
+
+      - id: "HEUR-GC-009"
+        content: "When someone says 'I need to think about it,' respond: 'Thought is instantaneous. Think of an elephant — did you get it? It took that long. What you need is not to think but to decide. Yes or no.'"
+        domain: "objection-handling"
+        sources: [MO, CU]
+
+      - id: "HEUR-GC-010"
+        content: "When someone says 'I need to talk to my spouse,' respond: 'What if your spouse says no? Would they say no to the product or no to the money?' Isolate the real objection."
+        domain: "objection-handling"
+        sources: [MO, CU]
+
+      - id: "HEUR-GC-011"
+        content: "When someone says 'I can't afford it,' respond: 'You can't afford to consider any other investment. This makes such a powerful statement about your success. Now, is it in your name or your company's name?'"
+        domain: "objection-handling"
+        sources: [MO, CU]
+
+      - id: "HEUR-GC-012"
+        content: "When someone says 'payments are too high,' respond: 'You're paying too much right now for something you don't even want. What reasons can you find for paying a little more for something you actually love?'"
+        domain: "objection-handling"
+        sources: [MO, CU]
+
+      - id: "HEUR-GC-013"
+        content: "Agreement Close pattern: 'I agree it's a lot of money. I need your OK here and here.' Agreement removes resistance. Never argue about price — agree, then close."
+        domain: "closing"
+        sources: [MO, CU]
+
+      - id: "HEUR-GC-014"
+        content: "Budget Close: 'You can say that about your credit cards, car payments, insurance, taxes, groceries, electric bill — they're all more than you want, but you pay them every month. I need your OK here and here.'"
+        domain: "closing"
+        sources: [MO, CU]
+
+      - id: "HEUR-GC-015"
+        content: "When someone says 'I'm going to wait,' respond: 'Certainly you can. But while you wait: (1) you still need it, (2) it's costing you not to have it, (3) nothing changes when I leave except prices may go up.'"
+        domain: "closing"
+        sources: [MO, CU]
+
+      - id: "HEUR-GC-016"
+        content: "When someone says 'Not interested,' respond: 'I take full responsibility for that. Other than not being interested, is there any other reason you wouldn't give me a couple minutes?'"
+        domain: "prospecting"
+        sources: [MO]
+
+      - id: "HEUR-GC-017"
+        content: "Every proposal should be written down and presented physically. A business card is worth less than any proposal. Get more proposals out every day than business cards."
+        domain: "closing"
+        sources: [PTM, CU]
+
+      - id: "HEUR-GC-018"
+        content: "10X your pipeline: if you need 1 sale, work 10 prospects. Need 10 sales? Work 100 prospects. The math never lies — massive pipeline = guaranteed results."
+        domain: "pipeline-management"
+        sources: [SF, CU]
+
+      - id: "HEUR-GC-019"
+        content: "Replace TV time with selling time. 3 hours/day = 75 extra calls/day = 1,875/month = 22,500/year. Just a portion of that puts you in the top 1% of your industry."
+        domain: "time-management"
+        sources: [SF]
+
+      - id: "HEUR-GC-020"
+        content: "Never stay an extra night on a business trip for leisure when you could be home making money tomorrow. Every hour away from production is money left on the table."
+        domain: "time-management"
+        sources: [SF, CU]
+
+      - id: "HEUR-GC-021"
+        content: "Start every business by working your power base first, not advertising to strangers. Start with: mom, dad, uncle, aunt, brother, sister. Grab them, sit them down, give them your pitch."
+        domain: "power-base"
+        sources: [SF, CU, PTM]
+
+      - id: "HEUR-GC-022"
+        content: "Build conviction daily: answer these questions every day — Why should anyone go into debt for my product? Why choose mine over competition? Why now? Why pay more? Why my company?"
+        domain: "conviction"
+        sources: [SF, CU]
+
+      - id: "HEUR-GC-023"
+        content: "Respond to internet leads within 5 minutes. The first to respond wins. Speed of response is the single greatest predictor of conversion for inbound leads."
+        domain: "prospecting"
+        sources: [CU]
+
+      - id: "HEUR-GC-024"
+        content: "Use headset not handset for phone sales. Hands-free = more energy, better posture, ability to take notes and gesture. Small ergonomic change, massive production impact."
+        domain: "phone-sales"
+        sources: [HMMP]
+
+      - id: "HEUR-GC-025"
+        content: "When prospecting on the phone, the goal of call 1 is NOT to sell. The goal is to get permission for call 2. Lower resistance by reducing the ask."
+        domain: "phone-sales"
+        sources: [HMMP, CU]
+
+      - id: "HEUR-GC-026"
+        content: "After every sale, immediately ask for a referral while the buyer is in the highest emotional state. 'Who else do you know who could benefit from this?'"
+        domain: "prospecting"
+        sources: [CU, PTM]
+
+      - id: "HEUR-GC-027"
+        content: "Unavailable Party Close: 'Let's write it up subject to third party approval. You agree to ownership at these figures, delivery subject to their OK. Is that fair? Sign here.'"
+        domain: "closing"
+        sources: [MO, CU]
+
+      - id: "HEUR-GC-028"
+        content: "On handwritten notes: if people busier and more important than you can take time for handwritten notes (like Neil Cavuto), you can too. They cut through digital noise."
+        domain: "follow-up"
+        sources: [PTM]
+
+      - id: "HEUR-GC-029"
+        content: "When someone says 'just send me information,' it's a stall. Respond: 'I'd love to — but I want to make sure I send the right information. What specifically are you looking for?'"
+        domain: "objection-handling"
+        sources: [MO, CU]
+
+      - id: "HEUR-GC-030"
+        content: "When someone says 'your price is too high,' it is a complaint, not an objection. Use it as a reason to close: 'I agree it's an investment. That's why you want to do it now before it goes higher.'"
+        domain: "objection-handling"
+        sources: [MO]
+
+      - id: "HEUR-GC-031"
+        content: "The Eighty Percent Rule: 80% of sales are made after the 5th follow-up contact. Most salespeople give up after 1 or 2. Staying power is the edge."
+        domain: "follow-up"
+        sources: [HMMP, PTM]
+
+      - id: "HEUR-GC-032"
+        content: "Lunch is selling time, not eating time. Take clients to lunch. Lunch in = money in. Lunch alone = money lost."
+        domain: "time-management"
+        sources: [SF, CU]
+
+      - id: "HEUR-GC-033"
+        content: "Never use email or text alone for follow-up. Always layer: call + text + email + handwritten. Multi-channel follow-up outperforms single-channel by 3-5x."
+        domain: "follow-up"
+        sources: [PTM, HMMP]
+
+      - id: "HEUR-GC-034"
+        content: "When building your power base contact list, start with minimum 200 names. Everyone has at least 200 people they know. List them all: family, school friends, neighbors, church, gym."
+        domain: "power-base"
+        sources: [SF, CU]
+
+      - id: "HEUR-GC-035"
+        content: "Video follow-up outperforms text. Send a 30-second personal video: 'Hey [name], Grant here. Had a great conversation. Wanted to share one more thing...' Personal > automated."
+        domain: "follow-up"
+        sources: [PTM, HMMP]
+
+      - id: "HEUR-GC-036"
+        content: "Before any negotiation, decide your price and be 100% sold on it. If you would pay that price yourself, you can sell it. If you wouldn't, you can't."
+        domain: "conviction"
+        sources: [SF, CU]
+
+      - id: "HEUR-GC-037"
+        content: "On a scale from 1-10, where are we? If they say 7, ask: 'What would make it a 10?' This isolates the gap between interest and commitment."
+        domain: "closing"
+        sources: [PTM, CU]
+
+      - id: "HEUR-GC-038"
+        content: "Millionaire decision: post it publicly. Claim it. Jim Carrey wrote a $10M check. Nail your claim into Facebook, YouTube, Twitter. Public commitment creates accountability."
+        domain: "wealth-building"
+        sources: [PTM]
+
+      - id: "HEUR-GC-039"
+        content: "Save to invest formula: every dollar increase in income should go to investment, not lifestyle. The gap between income and lifestyle is your wealth acceleration."
+        domain: "wealth-building"
+        sources: [PTM]
+
+      - id: "HEUR-GC-040"
+        content: "On cold calls: the purpose is not to close. The purpose is to get the appointment. Lower the barrier: 'Can I get just 3 minutes of your time?'"
+        domain: "prospecting"
+        sources: [CU, HMMP]
+
+      - id: "HEUR-GC-041"
+        content: "When a buyer gives you an objection about terms, isolate: 'Is it the monthly payment, the down payment, the total price, or all three? Which one specifically?'"
+        domain: "objection-handling"
+        sources: [MO, CU]
+
+      - id: "HEUR-GC-042"
+        content: "Never stop working a deal just because you got an objection. The objection is the middle of the sale, not the end. Most salespeople treat objections as the end — they're not."
+        domain: "objection-handling"
+        sources: [MO, CU]
+
+      - id: "HEUR-GC-043"
+        content: "Keep a written record of every objection you receive, the frequency, and your best response. Over time, you'll predict 95% of objections before they happen."
+        domain: "objection-handling"
+        sources: [MO]
+
+      - id: "HEUR-GC-044"
+        content: "Call every past customer at least once per quarter. They are your warmest prospects for repeat business and referrals. Most salespeople never call past customers again."
+        domain: "power-base"
+        sources: [CU, PTM]
+
+      - id: "HEUR-GC-045"
+        content: "Role-play objection handling with a partner for 15 minutes every day. Drill until responses are automatic. Hesitation kills closes."
+        domain: "objection-handling"
+        sources: [MO, CU]
+
+      - id: "HEUR-GC-046"
+        content: "When someone says 'we never make a rash decision,' respond: 'I agree — and this isn't a rash decision. You've been thinking about this for a while. Today is just the day you take action.'"
+        domain: "objection-handling"
+        sources: [MO]
+
+      - id: "HEUR-GC-047"
+        content: "Treat every incoming phone call like a $10,000 bill walking through the door. Most businesses waste incoming calls with bad phone skills, hold times, and poor energy."
+        domain: "phone-sales"
+        sources: [CU, HMMP]
+
+      - id: "HEUR-GC-048"
+        content: "The power of the second call within 1 hour: 'Thank you for the opportunity. Was everything perfect? On a scale of 1-10, where are we? Who else should be involved in this decision?'"
+        domain: "follow-up"
+        sources: [PTM, HMMP]
+
+      - id: "HEUR-GC-049"
+        content: "Your follow-up message should leave a small hook of mystery: 'I have some information concerning our recent conversation' — not the full details. Create reasons for callback."
+        domain: "follow-up"
+        sources: [PTM]
+
+      - id: "HEUR-GC-050"
+        content: "Network marketing tip: grab your power base by the neck and insist: 'You're coming to the meeting. This isn't about you — it's about me. Period.' Insist, don't ask."
+        domain: "power-base"
+        sources: [PTM]
+
+      - id: "HEUR-GC-051"
+        content: "The make-affordable close: 'I make my living making things affordable. That means I'm in your employ. Allow me to work out figures. If they don't fit, you can fire me or tell me what we need to do.'"
+        domain: "closing"
+        sources: [MO, CU]
+
+      - id: "HEUR-GC-052"
+        content: "When building power base: once a week, reach out to 10 people in your base. Just a text, call, or note. 'Hey, how are you? Thinking of you.' Stay top of mind."
+        domain: "power-base"
+        sources: [SF, CU]
+
+      - id: "HEUR-GC-053"
+        content: "Prospecting scripts for the phone: use the format Listen, Acknowledge, Isolate, Validate, Determine, Close. Same structure for every objection scenario — just different words."
+        domain: "phone-sales"
+        sources: [MO, HMMP]
+
+      - id: "HEUR-GC-054"
+        content: "For 'just looking' objections: 'I know you are. Let me show you something that will make your looking worthwhile.' Then redirect into presentation."
+        domain: "objection-handling"
+        sources: [MO, CU]
+
+      - id: "HEUR-GC-055"
+        content: "When you hit a wall with objections, ask: 'Other than [stated objection], is there any other reason you wouldn't move forward today?' This surfaces the real objection."
+        domain: "objection-handling"
+        sources: [MO]
+
+      - id: "HEUR-GC-056"
+        content: "After every rejection, write down exactly what was said and how you responded. Build a personal Rebuttal Book. Over time this becomes your most valuable sales asset."
+        domain: "objection-handling"
+        sources: [MO]
+
+      - id: "HEUR-GC-057"
+        content: "The 8 steps to becoming a millionaire: (1) Make the decision (2) Do million-dollar math (3) Set millionaire income targets (4) Identify who has your money (5) Increase income, stay broke (6) Save to invest (7) Create multiple streams (8) Repeat 1-7."
+        domain: "wealth-building"
+        sources: [PTM]
+
+      - id: "HEUR-GC-058"
+        content: "500K is not enough for retirement. $500,000 / 30 years = $16,666/year. That is poverty. You need millions. The math doesn't lie."
+        domain: "wealth-building"
+        sources: [PTM]
+
+      - id: "HEUR-GC-059"
+        content: "Social media comments are leads. 2,100 comments on one stream = 2,100 potential touchpoints. Most companies ignore them entirely. Each comment is a follow-up opportunity."
+        domain: "prospecting"
+        sources: [PTM, HMMP]
+
+      - id: "HEUR-GC-060"
+        content: "When negotiating large deals: 'I want to buy this deal. I'm the guy to buy it. I have the money. I don't think it's overpriced. And I'm going to keep getting the price to go down, not up.'"
+        domain: "negotiation"
+        sources: [PTM]
+
+      - id: "HEUR-GC-061"
+        content: "Make a list of all things that make you different and unique from competition. Update it daily. If you can't list 10 things, you're not sold enough on yourself."
+        domain: "conviction"
+        sources: [SF]
+
+      - id: "HEUR-GC-062"
+        content: "Time your follow-up touches: 5 minutes, 1 hour, 24 hours, 48 hours, 72 hours. After that: weekly for a month, bi-weekly for 3 months, monthly for a year."
+        domain: "follow-up"
+        sources: [PTM, HMMP]
+
+      - id: "HEUR-GC-063"
+        content: "When a customer declines, always offer an alternative: 'I understand you can't do A. How about B? Or C?' Never let them leave with zero options."
+        domain: "closing"
+        sources: [PTM, CU]
+
+      - id: "HEUR-GC-064"
+        content: "Master at least 3 closes for every common objection. One close is not enough — you need layers. Agreement close, budget close, and tie-down close for price objections alone."
+        domain: "closing"
+        sources: [MO, CU]
+
+      - id: "HEUR-GC-065"
+        content: "Track the ratio of proposals given vs deals closed. If you're not presenting enough proposals, the problem is not closing — it's presenting. More proposals = more closes."
+        domain: "pipeline-management"
+        sources: [CU, PTM]
+
+      - id: "HEUR-GC-066"
+        content: "The morning conviction drill: before starting your day, spend 10 minutes reviewing why your product is the best, why your company is the best, why YOU are the best option. Then attack."
+        domain: "conviction"
+        sources: [SF, CU]
+
+      - id: "HEUR-GC-067"
+        content: "When someone references a competitor's lower price: 'I agree they're cheaper. But I don't come with that transaction.' Shift from price to total value including you."
+        domain: "closing"
+        sources: [PTM]
+
+      - id: "HEUR-GC-068"
+        content: "Never leave voicemail with all the details. Leave just enough to create curiosity: 'Hey [name], I have something important. Call me back.' Mystery creates callbacks."
+        domain: "phone-sales"
+        sources: [HMMP, PTM]
+
+      - id: "HEUR-GC-069"
+        content: "Use the Tie-Down close: 'Assuming I could show you how to improve your current situation, could you make 3 minutes for me now?' Small commitment leads to bigger commitment."
+        domain: "closing"
+        sources: [MO]
+
+      - id: "HEUR-GC-070"
+        content: "When someone says 'send me testimonials,' it's a stall. Respond: 'Better than testimonials, let me introduce you to a current client who can share their experience directly.'"
+        domain: "objection-handling"
+        sources: [MO]
+
+      # ===== 10XMB: Marketing Heuristics =====
+
+      - id: "HEUR-GC-071"
+        content: "Email your list daily. Not weekly, not monthly — daily. The data shows that daily emails produce higher revenue and lower unsubscribe rates than weekly emails. Consistency beats frequency."
+        domain: "email-marketing"
+        sources: [10XMB]
+
+      - id: "HEUR-GC-072"
+        content: "Subject line length: 6-10 words optimal. Personalize with first name. Use urgency or curiosity, never both. Test subject lines with 10% of list before sending to the remaining 90%."
+        domain: "email-marketing"
+        sources: [10XMB]
+
+      - id: "HEUR-GC-073"
+        content: "Landing page rule: one page, one offer, one call-to-action. Every additional link or option reduces conversion by 10-15%. Remove navigation, remove distractions, remove escape routes."
+        domain: "conversion-optimization"
+        sources: [10XMB]
+
+      - id: "HEUR-GC-074"
+        content: "Cart abandonment recovery sequence: Email 1 at 1 hour (reminder), Email 2 at 24 hours (value add + social proof), Email 3 at 48 hours (urgency + bonus). This 3-email sequence recovers 15-20% of abandoned carts."
+        domain: "conversion-optimization"
+        sources: [10XMB]
+
+      - id: "HEUR-GC-075"
+        content: "Tripwire pricing sweet spot: $7-$27. Below $7, perceived value drops. Above $27, it's no longer an impulse buy. The goal is to convert a lead into a buyer, not to profit on the tripwire."
+        domain: "sales-funnels"
+        sources: [10XMB]
+
+      - id: "HEUR-GC-076"
+        content: "Webinar attendance rate: expect 25-35% of registrants to show up live. Replay adds another 15-20%. Plan your funnel economics around 40-50% total viewership, not 100% registration."
+        domain: "webinars"
+        sources: [10XMB]
+
+      - id: "HEUR-GC-077"
+        content: "Split test one element at a time: headline OR image OR CTA — never multiple elements simultaneously. Statistical significance requires 1,000+ visitors per variation minimum."
+        domain: "split-testing"
+        sources: [10XMB]
+
+      - id: "HEUR-GC-078"
+        content: "Google Ads quality score: aim for 7+ on every keyword. Below 7, your cost-per-click increases by 50-400%. Improve quality score through relevant ad copy and landing page match."
+        domain: "digital-advertising"
+        sources: [10XMB]
+
+      - id: "HEUR-GC-079"
+        content: "Podcast episode length sweet spot: 20-45 minutes for business content. Under 15 minutes feels rushed. Over 60 minutes, completion rate drops below 40%. Respect the audience's time."
+        domain: "podcasting"
+        sources: [10XMB]
+
+      - id: "HEUR-GC-080"
+        content: "YouTube SEO basics: title with keyword first, description with 200+ words, 5-10 relevant tags, custom thumbnail with text overlay. First 48 hours determine the video's lifetime performance."
+        domain: "seo"
+        sources: [10XMB]
+
+      # ===== 10XBBA: Business Buying Heuristics =====
+
+      - id: "HEUR-GC-081"
+        content: "Business valuation shortcut: 2-2.5x ODE (Owner's Discretionary Earnings) for businesses under $5M revenue. Above $5M, valuations shift to 3-5x EBITDA. Know which metric applies to your target."
+        domain: "valuation"
+        sources: [10XBBA]
+
+      - id: "HEUR-GC-082"
+        content: "The 25% customer concentration rule: if any single customer represents more than 25% of revenue, discount the valuation by 30-50%. That customer is a ticking time bomb."
+        domain: "due-diligence"
+        sources: [10XBBA]
+
+      - id: "HEUR-GC-083"
+        content: "Due diligence checklist minimum: 3 years tax returns, 3 years P&L, customer list with revenue breakdown, employee list with salaries, all contracts and leases, all pending litigation. Missing any of these = red flag."
+        domain: "due-diligence"
+        sources: [10XBBA]
+
+      - id: "HEUR-GC-084"
+        content: "LOI terms: 10% earnest money deposit, 21-day due diligence period, seller financing at least 30% of purchase price, 90-day transition support included, non-compete of 3+ years."
+        domain: "deal-structure"
+        sources: [10XBBA]
+
+      - id: "HEUR-GC-085"
+        content: "First 90 days after acquisition: do not change anything major. Observe, learn, meet every employee personally, understand the culture. Changes in the first 90 days create panic and turnover."
+        domain: "acquisitions"
+        sources: [10XBBA]
+
+      - id: "HEUR-GC-086"
+        content: "Ideal acquisition target profile: $1-5M revenue, owner-operated, owner tired/retiring, stable customer base, no customer >25%, positive cash flow, simple operations, boring industry."
+        domain: "business-buying"
+        sources: [10XBBA]
+
+      - id: "HEUR-GC-087"
+        content: "Seller financing negotiation: ask for 50% seller financing as your opening position. Settle for 30-40%. Offer premium price in exchange for favorable financing terms — price is flexible, terms are not."
+        domain: "deal-structure"
+        sources: [10XBBA]
+
+      # ===== CWIRE: Real Estate Heuristics =====
+
+      - id: "HEUR-GC-088"
+        content: "16-unit minimum, 32-unit ideal for first multifamily investment. Below 16 units, you can't support professional management. The whole point of multifamily is scale and delegation."
+        domain: "multifamily"
+        sources: [CWIRE]
+
+      - id: "HEUR-GC-089"
+        content: "The 50% expense ratio test: if a 100-unit property generates $1M gross income, assume $500K in expenses. If $500K NOI can't cover debt service AND provide 8%+ cash-on-cash return, the deal is bad."
+        domain: "underwriting"
+        sources: [CWIRE]
+
+      - id: "HEUR-GC-090"
+        content: "Earn $100K/year before investing in real estate. Real estate requires capital reserves. If you don't have income, one emergency wipes you out. Income first, investing second."
+        domain: "real-estate-investing"
+        sources: [CWIRE]
+
+      - id: "HEUR-GC-091"
+        content: "Target 3-4x leverage on real estate deals. 75% LTV is the sweet spot — enough leverage to multiply returns, enough equity to survive downturns. Above 80% LTV, you're gambling."
+        domain: "leverage"
+        sources: [CWIRE]
+
+      - id: "HEUR-GC-092"
+        content: "21-day due diligence structure: Week 1 — physical walk-through of every unit, roof, plumbing, HVAC. Week 2 — financial audit (rent rolls, expenses, taxes). Week 3 — legal review (title, zoning, environmental)."
+        domain: "due-diligence"
+        sources: [CWIRE]
+
+      - id: "HEUR-GC-093"
+        content: "Follow up with every broker monthly for 365 days straight. Most investors quit after 3 contacts. By month 6, you're in the broker's top 5. By month 12, you get first calls on pocket listings."
+        domain: "real-estate-investing"
+        sources: [CWIRE]
+
+      - id: "HEUR-GC-094"
+        content: "Cap rate target: 6-8% for A/B properties in good markets. 8-10% for C properties or secondary markets. Below 5%, the deal is overpriced. Above 10%, investigate what's wrong with it."
+        domain: "underwriting"
+        sources: [CWIRE]
+
+      - id: "HEUR-GC-095"
+        content: "Value-add renovation budget: $5,000-$10,000 per unit for interior upgrades (paint, flooring, fixtures) typically supports $100-$200/month rent increases. The ROI is 12-24 months payback."
+        domain: "value-add"
+        sources: [CWIRE]
+
+      - id: "HEUR-GC-096"
+        content: "Property management fee standard: 5-8% of gross rents for multifamily (100+ units). 8-10% for smaller properties. Self-management is a myth at scale — always budget for professional management."
+        domain: "property-management"
+        sources: [CWIRE]
+
+      - id: "HEUR-GC-097"
+        content: "DCR (Debt Coverage Ratio) minimum: 1.25x. Banks require at least 1.20x. Below 1.0, the property is cash-flow negative. Aim for 1.30-1.50x for a comfortable margin of safety."
+        domain: "financing"
+        sources: [CWIRE]
+
+      # ===== CU-2: Advanced Closing Heuristics =====
+
+      - id: "HEUR-GC-098"
+        content: "Payment Breakdown method: $30,000 product = $82/day. $10,000 = $27/day. Always break total price into daily cost and compare to things they already spend: 'That's less than your daily Starbucks and lunch.'"
+        domain: "money-closes"
+        sources: [CU-2]
+
+      - id: "HEUR-GC-099"
+        content: "Budget Close lifestyle walkthrough: 'Credit card — you pay it. Car payment — you pay it. Insurance — you pay it. Mortgage — you pay it. All more than you want to pay. But you pay them. I need your OK here.'"
+        domain: "money-closes"
+        sources: [CU-2, MO]
+
+      - id: "HEUR-GC-100"
+        content: "Think-About-It 5-response sequence: (1) 'What specifically?' (2) 'Think of an elephant — see, thought is instant' (3) 'You've been thinking about this for weeks' (4) 'The only thing to think about is yes or no' (5) 'I respect that — but nothing changes if you leave. Let me help you decide now.'"
+        domain: "stall-closes"
+        sources: [CU-2]
+
+      - id: "HEUR-GC-101"
+        content: "Spouse Stall resolution: 'What if your spouse says no? Would they say no to the product or the money?' If product, fix the product concern. If money, isolate: total, down payment, or monthly. Solve the specific."
+        domain: "stall-closes"
+        sources: [CU-2, MO]
+
+      - id: "HEUR-GC-102"
+        content: "The Five-No Strategy execution: after each 'no,' change your approach — new angle, new benefit, new close technique. Same pitch repeated 5 times = harassment. Different approach each time = persistence."
+        domain: "closing-strategies"
+        sources: [CU-2]
+
+      - id: "HEUR-GC-103"
+        content: "13-Step Road to Sale — never skip a step. Most salespeople jump from greeting to closing (steps 1 to 11). Steps 2-10 build the value that makes step 11 easy. Shortcuts create objections."
+        domain: "road-to-sale"
+        sources: [CU-2]
+
+      - id: "HEUR-GC-104"
+        content: "Cold call opening: 10 seconds or less. Name, company, reason. 'Hi, I'm Grant Cardone with Cardone Enterprises. I'm calling because [specific value]. Can I get 3 minutes?' If you can't say it in 10 seconds, you're not prepared."
+        domain: "cold-calling"
+        sources: [CU-2, HMMP]
+
+      - id: "HEUR-GC-105"
+        content: "The Ben Franklin Close: draw a line down the middle of a page. Left side: reasons to buy. Right side: reasons not to. Help them fill in both sides. The visual makes the decision obvious."
+        domain: "money-closes"
+        sources: [CU-2]
+
+      - id: "HEUR-GC-106"
+        content: "The Reduction to Ridiculous: 'Over 5 years, this investment is $16/day. You spend more than that on things you can't even remember buying. This will change your life — and it costs less than your cable bill.'"
+        domain: "money-closes"
+        sources: [CU-2]
+
+      - id: "HEUR-GC-107"
+        content: "The 'I'm Just Looking' Close: 'Great — let me show you something worth looking at.' Never accept 'just looking' as an endpoint. Use it as a bridge into your presentation."
+        domain: "product-closes"
+        sources: [CU-2, MO]
+
+      - id: "HEUR-GC-108"
+        content: "The Puppy Dog Close: 'Take it home. Try it for a week. If you don't love it, bring it back.' Once they experience the product, return rates drop below 10%. Let the product sell itself."
+        domain: "product-closes"
+        sources: [CU-2]
+
+      - id: "HEUR-GC-109"
+        content: "The Now or Never Close: 'This offer, at this price, with these terms, is only available right now. If you leave, I can't guarantee any of this will be the same when you come back.' Create genuine scarcity."
+        domain: "money-closes"
+        sources: [CU-2]
+
+      - id: "HEUR-GC-110"
+        content: "The Assumptive Close: don't ask IF they want to buy — ask WHICH option they prefer. 'Would you like the blue or the black? Would you like to start this month or next?' Assume the sale is happening."
+        domain: "closing-strategies"
+        sources: [CU-2]
+
+  L4_FRAMEWORKS:
+    count: 85
+    elements:
+      - id: "FW-GC-001"
+        name: "6-Step Objection Handling Framework"
+        description: "Universal structure for handling any objection: (1) LISTEN — don't interrupt, nod, let them finish (2) ACKNOWLEDGE — 'I agree, I understand' (3) ISOLATE — 'Any other concerns?' (4) VALIDATE — 'That wouldn't keep you from buying, would it?' (5) DETERMINE TYPE — product, price, stall, valid, invalid? (6) CLOSE OR HANDLE"
+        domain: "objection-handling"
+        sources: [MO]
+
+      - id: "FW-GC-002"
+        name: "14-Day Follow-Up Plan"
+        description: "Day 0: thank-you call within 5 minutes + second call within 1 hour. Day 1: 'I have a great idea' call. Day 2: handwritten note + text. Day 3: video message. Day 4: value-add email. Day 5-14: alternate between calls, texts, social touches. Each touch uses different medium."
+        domain: "follow-up"
+        sources: [PTM, HMMP]
+
+      - id: "FW-GC-003"
+        name: "Sales Fundamentals 5-Module System"
+        description: "Module 1: Selling, A Way of Life (selling is not a career, it's survival). Module 2: Professional or Amateur (commit to mastery). Module 3: The Most Important Sale (get sold yourself). Module 4: Time (inventory and maximize every minute). Module 5: Massive Action (10X everything)."
+        domain: "sales-fundamentals"
+        sources: [SF]
+
+      - id: "FW-GC-004"
+        name: "Power Base Building System"
+        description: "(1) List everyone you know — minimum 200 names (2) Categorize by closeness: inner circle, friends, acquaintances (3) Contact inner circle first (4) Weekly touchpoints to stay top of mind (5) Mine for referrals after every positive interaction (6) Never abandon anyone in your base."
+        domain: "power-base"
+        sources: [SF, CU, PTM]
+
+      - id: "FW-GC-005"
+        name: "8-Step Millionaire Blueprint"
+        description: "(1) Make the millionaire decision — claim it publicly (2) Do million-dollar math (3) Set millionaire income targets (4) Identify who has your money (5) Increase income and stay broke (6) Save to invest, not to save (7) Create multiple streams of income (8) Repeat steps 1-7 and expand."
+        domain: "wealth-building"
+        sources: [PTM]
+
+      - id: "FW-GC-006"
+        name: "Objection Type Classification System"
+        description: "7 categories of objections: (1) Internal — you say to yourself (2) External — customer says (3) Valid — real objection (4) Valid-But — won't stop deal (5) Invalid — not the real one (6) Spoken — heard (7) Unspoken — hidden and most dangerous."
+        domain: "objection-handling"
+        sources: [MO]
+
+      - id: "FW-GC-007"
+        name: "Conviction Building Daily Drill"
+        description: "Every day, answer: (1) Why should someone go into debt for my product? (2) Why choose mine over competition? (3) Why right now, not later? (4) Why pay more for mine? (5) Why do business with me? (6) Why my company? Speed of answer = level of conviction."
+        domain: "conviction"
+        sources: [SF, CU]
+
+      - id: "FW-GC-008"
+        name: "Four Degrees of Action Framework"
+        description: "Degree 1: Do Nothing — retreat, quit, avoid. Degree 2: Retreat — pull back from previous action. Degree 3: Normal Levels of Action — what average people do. Degree 4: Massive Action — 10X what normal requires. Only Degree 4 produces extraordinary results."
+        domain: "massive-action"
+        sources: [SF, CU]
+
+      - id: "FW-GC-009"
+        name: "Phone Sales System"
+        description: "(1) Use headset, not handset (2) Call from number you want returned (3) First call = no data, just curiosity (4) Goal of call 1 = permission for call 2 (5) Day 0: immediate callback (6) Layer: call + text + email (7) Treat incoming calls as $10K opportunities (8) Speed to response = close rate."
+        domain: "phone-sales"
+        sources: [HMMP]
+
+      - id: "FW-GC-010"
+        name: "Agreement-Based Closing System"
+        description: "(1) Always agree first — remove confrontation (2) Acknowledge their concern — 'I agree it's a lot of money' (3) Redirect — 'And everyone who bought this said the same thing' (4) Close — 'I need your OK here and here.' Never argue. Always align then redirect."
+        domain: "closing"
+        sources: [MO, CU, PTM]
+
+      - id: "FW-GC-011"
+        name: "AB/ABC Proposal System"
+        description: "Always present multiple options: (A) Premium option — highest value (B) Standard option — mid-range (C) Entry-level option — accessible. When objecting to A, show B. When B feels too much, show C. When someone can't afford C, they sometimes choose A (go all in). Choices muddy resistance."
+        domain: "closing"
+        sources: [PTM, CU]
+
+      - id: "FW-GC-012"
+        name: "Rebuttal Book System"
+        description: "Create a written manual for every objection: (1) Objection statement (2) LISTEN phrases (3) ACKNOWLEDGE phrases (4) ISOLATE phrases (5) VALIDATE phrases (6) PROBE questions (7) TIE-DOWN closes (8) JUSTIFY & CLOSE scripts. One page per objection."
+        domain: "objection-handling"
+        sources: [MO]
+
+      - id: "FW-GC-013"
+        name: "7 Top Sales Secrets Framework"
+        description: "(1) Start with your power base (2) Always agree with the buyer (3) AB/ABC proposals (4) Third-party touch (5) Capitalize on the second sale (6) Present numbers to everyone (7) Follow-up is the greatest secret."
+        domain: "sales-fundamentals"
+        sources: [PTM]
+
+      - id: "FW-GC-014"
+        name: "Prospecting Pipeline System"
+        description: "(1) Build power base list (200+ names) (2) Contact 10 per day from base (3) Cold outreach: 50+ daily (4) Internet lead response within 5 minutes (5) All contacts go into 14-day follow-up (6) Measure proposals out vs deals closed (7) 10X your pipeline target."
+        domain: "prospecting"
+        sources: [CU, HMMP]
+
+      - id: "FW-GC-015"
+        name: "Getting-Sold Process"
+        description: "(1) Identify what you're selling — product, company, you (2) Make a list of why you're unique and different (3) Answer the 6 conviction questions (4) If any hesitation, work on that area until resolved (5) Refresh daily — conviction degrades without maintenance."
+        domain: "conviction"
+        sources: [SF, CU]
+
+      - id: "FW-GC-016"
+        name: "Time Inventory and Maximization System"
+        description: "(1) Calculate total available hours (8,760/year) (2) Audit current time usage (3) Identify waste (TV, social media, commute) (4) Convert waste time to production time (5) Never stay overnight on a trip you could fly back from (6) Lunch = selling time (7) Every moment is an opportunity."
+        domain: "time-management"
+        sources: [SF, CU]
+
+      - id: "FW-GC-017"
+        name: "Sales Process Sequence"
+        description: "(1) Greeting (2) Qualifying/fact-finding (3) Presentation/demonstration (4) Propose/write up (5) Handle objections (6) Close (7) Follow up. Every step is necessary. Skipping steps creates objections later."
+        domain: "sales-fundamentals"
+        sources: [CU]
+
+      - id: "FW-GC-018"
+        name: "Incoming Call Maximization Framework"
+        description: "(1) Answer within 3 rings (2) Energy and enthusiasm in voice (3) Qualify: budget, timeline, decision-maker (4) Set appointment — don't sell on the phone (5) Get cell number for follow-up (6) Send confirmation text immediately (7) Enter into 14-day follow-up system."
+        domain: "phone-sales"
+        sources: [CU, HMMP]
+
+      - id: "FW-GC-019"
+        name: "Cold Call Framework"
+        description: "(1) Purpose: get the appointment, not the sale (2) Opening: state name, company, and reason for call in 10 seconds (3) Ask for permission: 'Can I get 3 minutes?' (4) If no: 'When would be a better time?' (5) If yes: elevator pitch, then set meeting (6) Enter into follow-up system."
+        domain: "prospecting"
+        sources: [CU, HMMP]
+
+      - id: "FW-GC-020"
+        name: "Closing Strategy Toolkit"
+        description: "Multiple closing strategies for different situations: Agreement Close, Budget Close, Tie-Down Close, Unavailable Party Close, Make-Affordable Close, Think-About-It Close, Spouse Stall Close. Master at least 3 per objection type."
+        domain: "closing"
+        sources: [MO, CU]
+
+      - id: "FW-GC-021"
+        name: "Third-Party Touch System"
+        description: "(1) Always be ready to bring a second person into the deal (2) Use partner for: different perspective, added credibility, fact-finding (3) The second person asks what the buyer won't tell you (4) Adds perceived organizational depth (5) Shows customer you care enough to involve help."
+        domain: "closing"
+        sources: [PTM, CU]
+
+      - id: "FW-GC-022"
+        name: "12 Objection Categories Master Map"
+        description: "Every objection falls into one of 12 categories: (1) Price (2) Terms (3) Contract (4) Product (5) Timing (6) Company (7) You/Salesperson (8) Competition (9) Buyer Uncertainty (10) Third-Party Data (11) Confusions (12) Lack of Information. Prepare scripts for each."
+        domain: "objection-handling"
+        sources: [MO]
+
+      - id: "FW-GC-023"
+        name: "Massive Action Daily Discipline"
+        description: "(1) Set 10X targets every morning (2) Calculate actions needed to hit target (3) Multiply by 10 (4) Start immediately — no planning paralysis (5) Log actions taken (6) Review at end of day (7) If target missed, increase action tomorrow (8) Consistency > perfection."
+        domain: "massive-action"
+        sources: [SF, CU]
+
+      - id: "FW-GC-024"
+        name: "Million Dollar Math Framework"
+        description: "(1) Define target: $1,000,000 (2) Calculate annual income needed (3) Break into monthly income target (4) Identify revenue per customer (5) Calculate customers needed (6) Calculate leads needed (7) Calculate activities needed (8) Work backwards from the math — it removes emotion."
+        domain: "wealth-building"
+        sources: [PTM]
+
+      - id: "FW-GC-025"
+        name: "Second-Sale Capitalization System"
+        description: "(1) Make the first sale (2) Deliver excellent service (3) Before they leave, offer upgrade/add-on (4) Second money validates first purchase (5) Creates immersion in your products (6) Builds loyalty through depth of relationship."
+        domain: "closing"
+        sources: [PTM, CU]
+
+      - id: "FW-GC-026"
+        name: "Internet Lead Response System"
+        description: "(1) Respond within 5 minutes (2) Call first, email second (3) If no answer, leave voicemail + text (4) Enter into Day 0 follow-up immediately (5) Track response time metrics (6) The fastest responder wins 80% of internet leads."
+        domain: "prospecting"
+        sources: [CU]
+
+      - id: "FW-GC-027"
+        name: "The Professional Salesperson Development Path"
+        description: "(1) Decide to become a pro (2) Study selling as a science (3) Video yourself selling — review and improve (4) Master objection handling through daily drill (5) Build conviction until it's unshakeable (6) Master the sales process (7) Take massive action (8) Never stop learning."
+        domain: "sales-fundamentals"
+        sources: [SF, CU]
+
+      - id: "FW-GC-028"
+        name: "Objection Prediction System"
+        description: "(1) Log every objection received (2) Categorize into the 12 types (3) Track frequency of each (4) Prepare 3+ responses for top 10 objections (5) Drill daily (6) Over time, you will predict 95% of objections before they are spoken."
+        domain: "objection-handling"
+        sources: [MO]
+
+      - id: "FW-GC-029"
+        name: "Wealth Protection Through Income Growth"
+        description: "(1) Income is the offense (2) Expenses are the defense (3) Grow income faster than expenses (4) When income increases, DON'T increase lifestyle (5) Invest the surplus (6) Create multiple income streams (7) Income replaces savings as your safety net."
+        domain: "wealth-building"
+        sources: [PTM]
+
+      - id: "FW-GC-030"
+        name: "Phone Millions Contact System"
+        description: "Day 0: 2 calls (immediate + 1 hour). Day 1: 1 call + email. Day 2: handwritten note + text. Day 3: video + call. Day 4: social media touch. Day 5-7: alternate call/text. Day 8-14: bi-daily touch. Each day escalates effort and changes medium."
+        domain: "phone-sales"
+        sources: [HMMP, PTM]
+
+      - id: "FW-GC-031"
+        name: "The 10X Action Calculator"
+        description: "(1) Write down your goal (2) List what you think it takes (3) Multiply every number by 10 (4) That's your real action target (5) If you hit 10X, you're guaranteed the original goal plus overflow (6) If you only hit 5X, you still got 5X more than what you thought was enough."
+        domain: "massive-action"
+        sources: [SF, CU]
+
+      - id: "FW-GC-032"
+        name: "The Sales Manager's Motivation System"
+        description: "(1) Set team 10X targets (2) Daily role-play and drill (3) Track activity metrics, not just results (4) Recognize production, not effort (5) Keep team sold — re-sell the product weekly (6) Remove negative influences from the environment."
+        domain: "sales-management"
+        sources: [CU]
+
+      - id: "FW-GC-033"
+        name: "Commitment Sequence Framework"
+        description: "(1) Decide — no half-commitments (2) Tell the world — public accountability (3) Go all in — no plan B (4) Burn the boats — remove escape routes (5) Take immediate massive action (6) Refuse to quit — persistence over talent."
+        domain: "mindset"
+        sources: [SF, CU, PTM]
+
+      - id: "FW-GC-034"
+        name: "Stay Motivated System (100 Ways)"
+        description: "Daily: read goals, study product, drill scripts, exercise. Weekly: review wins, analyze losses, update power base. Monthly: reset 10X targets, evaluate conviction levels. Quarterly: immerse in new training. Key principle: motivation is a discipline, not an event."
+        domain: "mindset"
+        sources: [CU]
+
+      - id: "FW-GC-035"
+        name: "Referral Generation System"
+        description: "(1) Ask immediately after closing while emotion is highest (2) Ask for specific number: 'Give me 3 names' (3) If they hesitate, reduce: 'Just 1 name' (4) Follow up on every referral within 24 hours (5) Report back to referrer: 'I called John, thanks!' — this generates more referrals."
+        domain: "prospecting"
+        sources: [CU, PTM]
+
+      - id: "FW-GC-036"
+        name: "The Sooner-Rather-Than-Later Close"
+        description: "When buyer says 'I'll do it later': (1) Agree — 'You could wait' (2) Show cost of waiting: 'Here's what it costs you each month you don't have this' (3) Show risk: 'Nothing changes except prices may go up' (4) Close: 'Let's do this now and free your mind for other things.'"
+        domain: "closing"
+        sources: [MO, CU]
+
+      - id: "FW-GC-037"
+        name: "Volume and Profit Optimization"
+        description: "Focus on: (1) Selling in greater quantities — volume (2) Selling at higher prices — profit margin (3) Selling faster — velocity (4) The failure of businesses is inability to move products in quantities great enough and at prices high enough."
+        domain: "sales-fundamentals"
+        sources: [SF]
+
+      - id: "FW-GC-038"
+        name: "Millionaire Mindset Reprogramming"
+        description: "(1) Identify scarcity programming from childhood (2) Replace 'save and protect' with 'earn and invest' (3) Study wealthy role models (4) Believe in the possibility — not in yourself yet (5) Believe in the source — find a trustworthy mentor (6) Take action immediately — don't wait to feel ready."
+        domain: "wealth-building"
+        sources: [PTM]
+
+      - id: "FW-GC-039"
+        name: "Closing Toolkit: Price Objections"
+        description: "Tools for 'too expensive': (1) Agreement Close — 'I agree, I need your OK here' (2) Budget Close — compare to existing expenses (3) Make-Affordable Close — 'I make my living making things affordable' (4) Value Reframe — 'You can't afford NOT to invest' (5) Always close, never argue."
+        domain: "closing"
+        sources: [MO, CU]
+
+      - id: "FW-GC-040"
+        name: "Cardone University Sales Curriculum"
+        description: "16 courses covering: Selling Basics (1-5), Understanding Buyer (6), Sales Process (7), Closing Theory (8), Closing Strategies (9), Incoming Calls (10), Follow-Up (11), Cold Call (12), Follow-Up Tool (13), Prospecting (14), Internet Leads (15), Motivation (16). Plus Objections and Inspiration."
+        domain: "sales-fundamentals"
+        sources: [CU]
+
+      - id: "FW-GC-041"
+        name: "The Unavailable Party Close Framework"
+        description: "(1) Identify the missing decision-maker (2) Frame conditional agreement: 'Let's write it up subject to their approval' (3) Get the present party's signature (4) Delivery contingent on third-party OK (5) This commits the person present and creates momentum."
+        domain: "closing"
+        sources: [MO, CU]
+
+      - id: "FW-GC-042"
+        name: "Elevator Pitch Construction"
+        description: "(1) State your name and company — 3 seconds (2) State the problem you solve — 5 seconds (3) State your unique solution — 10 seconds (4) Ask for the next step — 5 seconds. Total: 23 seconds. Must be practiced until automatic."
+        domain: "prospecting"
+        sources: [CU, HMMP]
+
+      - id: "FW-GC-043"
+        name: "Social Media Lead Mining System"
+        description: "(1) Treat every comment as a lead (2) Respond to comments personally (3) Move conversation to DM, then phone (4) Enter every interaction into follow-up system (5) Stream live regularly to generate comments (6) 2,100 comments = 2,100 potential clients."
+        domain: "prospecting"
+        sources: [PTM, HMMP]
+
+      - id: "FW-GC-044"
+        name: "Income Target vs Job Target Framework"
+        description: "Don't set job targets ('I need to make $60K'). Set millionaire income targets ('I need $1M'). Then work backwards: How many customers? How many leads? How many calls? The target determines the action level."
+        domain: "wealth-building"
+        sources: [PTM]
+
+      - id: "FW-GC-045"
+        name: "Retargeting and Multi-Touch System"
+        description: "(1) First touch: website/social ad (2) Retarget everyone who interacts (3) Multi-touch across platforms: email, social, phone (4) Each touch adds value — don't just repeat the same message (5) Track which medium gets response (6) Never let a lead go cold."
+        domain: "prospecting"
+        sources: [HMMP, PTM]
+
+      # ===== 10XMB: Marketing Frameworks =====
+
+      - id: "FW-GC-046"
+        name: "3 Funnel Types Architecture"
+        description: "Type 1: Lead Gen Funnel — ad → landing page → opt-in → welcome sequence. Type 2: Sales Funnel — traffic → sales page → checkout → upsell → thank you. Type 3: Ascension Funnel — existing buyer → webinar/VSL → high-ticket offer → phone close. Every business needs all three running simultaneously."
+        domain: "sales-funnels"
+        sources: [10XMB]
+
+      - id: "FW-GC-047"
+        name: "5 Email Sequence System"
+        description: "(1) Welcome Sequence (5-7 emails, indoctrinate new subscribers) (2) Engagement Sequence (ongoing, daily value + offers) (3) Ascension Sequence (move buyer to next tier) (4) Segmentation Sequence (tag by interest/behavior) (5) Re-engagement Sequence (win back dormant subscribers, 3-email series). Each sequence has distinct goals and metrics."
+        domain: "email-marketing"
+        sources: [10XMB]
+
+      - id: "FW-GC-048"
+        name: "Omnipresence Deployment Framework"
+        description: "(1) Identify all platforms your audience uses (2) Create core content piece (video, article, podcast) (3) Repurpose into 10+ micro-content pieces (4) Deploy across all platforms same day (5) Boost top-performing content with paid ads (6) Retarget everyone who engages (7) Measure omnipresence score: how many touchpoints before conversion?"
+        domain: "omnipresence"
+        sources: [10XMB]
+
+      - id: "FW-GC-049"
+        name: "Cart Abandonment Recovery System"
+        description: "Email 1 (1 hour): Subject 'You forgot something' — show cart contents, one-click return. Email 2 (24 hours): Subject 'Still thinking?' — add testimonial/social proof + original offer. Email 3 (48 hours): Subject 'Last chance' — add urgency + bonus (free shipping, discount, extra item). Expected recovery: 15-20% of abandoned carts."
+        domain: "conversion-optimization"
+        sources: [10XMB]
+
+      - id: "FW-GC-050"
+        name: "Tripwire/Godfather Offer System"
+        description: "(1) Create irresistible low-price offer ($7-$27) worth 10x the price (2) Purpose: convert lead to buyer (first transaction) (3) Immediately offer core product as one-time upsell (4) If declined, enter into email ascension sequence (5) Key metric: tripwire conversion rate (target 5-10% of leads). Profit comes from upsells, not the tripwire."
+        domain: "sales-funnels"
+        sources: [10XMB]
+
+      - id: "FW-GC-051"
+        name: "Webinar Sales Framework"
+        description: "(1) Registration page with scarcity/urgency (2) 3-email reminder sequence before event (3) Webinar structure: 15 min rapport, 30 min content/value, 15 min pitch/close (4) Replay sequence for no-shows (3 emails over 48 hours) (5) Post-webinar follow-up: phone calls to engaged attendees within 24 hours. Target: 5-15% close rate."
+        domain: "webinars"
+        sources: [10XMB]
+
+      - id: "FW-GC-052"
+        name: "SEO Content Domination Framework"
+        description: "(1) Research 50 keywords your audience searches (2) Create pillar content for top 10 keywords (3) Create cluster content (5-10 articles per pillar) (4) Internal link structure: cluster → pillar (5) Build backlinks through guest posts and PR (6) Update content quarterly (7) Target: page 1 ranking for 10 keywords within 12 months."
+        domain: "seo"
+        sources: [10XMB]
+
+      - id: "FW-GC-053"
+        name: "Google Ads Profit Framework"
+        description: "(1) Start with exact-match keywords only (2) Set daily budget at 10x target CPA (3) Optimize for conversions, not clicks (4) Quality Score target: 7+ (5) Ad copy: keyword in headline, benefit in description, strong CTA (6) Landing page must match ad promise exactly (7) Scale winners, kill losers weekly."
+        domain: "digital-advertising"
+        sources: [10XMB]
+
+      - id: "FW-GC-054"
+        name: "Split Testing Decision Framework"
+        description: "(1) Test one variable at a time (headline, image, CTA, price, layout) (2) Minimum 1,000 visitors per variation (3) Run test for 2-4 weeks minimum (4) Statistical significance: 95% confidence required (5) Winner becomes new control (6) Start next test immediately — testing never stops (7) Document all test results in a testing log."
+        domain: "split-testing"
+        sources: [10XMB]
+
+      - id: "FW-GC-055"
+        name: "Podcasting for Authority Framework"
+        description: "(1) Weekly episode minimum — consistency builds audience (2) Interview format OR solo format — pick one style (3) First 3 minutes = hook (4) Middle = value delivery (5) Last 5 minutes = CTA (6) Distribute to all platforms (Apple, Spotify, YouTube) (7) Repurpose episodes into blog posts, social clips, email content."
+        domain: "podcasting"
+        sources: [10XMB]
+
+      # ===== 10XBBA: Business Buying Frameworks =====
+
+      - id: "FW-GC-056"
+        name: "28-Day Acquisition Blueprint"
+        description: "Days 1-7: Target identification — industry, size, geography, owner profile. Days 8-10: Initial contact and rapport. Days 11-14: Submit LOI with terms. Days 15-21: Due diligence — financial, legal, operational. Days 22-25: Negotiate final terms. Days 26-28: Close and begin transition. Speed is competitive advantage."
+        domain: "business-buying"
+        sources: [10XBBA]
+
+      - id: "FW-GC-057"
+        name: "1/3-1/3-1/3 Deal Structure Framework"
+        description: "(1) 1/3 Seller Financing — seller carries a note, paid from business cash flow (2) 1/3 Bank Debt — SBA loan or commercial loan, collateralized by business assets (3) 1/3 Buyer Equity — can be cash, earn-in, or performance guarantee. This structure minimizes buyer's cash requirement while aligning everyone's interests."
+        domain: "deal-structure"
+        sources: [10XBBA]
+
+      - id: "FW-GC-058"
+        name: "Due Diligence 10-Point Checklist"
+        description: "(1) 3 years tax returns (2) 3 years P&L statements (3) Balance sheet (4) Customer list with revenue breakdown (5) Employee list with compensation (6) All contracts and leases (7) Intellectual property inventory (8) Pending litigation check (9) Physical asset inspection (10) Owner interview: why selling, what's the real story?"
+        domain: "due-diligence"
+        sources: [10XBBA]
+
+      - id: "FW-GC-059"
+        name: "R3 Post-Acquisition People Framework"
+        description: "(1) RETAIN — identify key employees within first week, offer retention bonuses or new titles (2) REPLACE — identify underperformers by week 4, begin replacement process (3) RECRUIT — identify missing roles by month 2, hire to fill gaps. Complete R3 within 90 days for maximum impact."
+        domain: "acquisitions"
+        sources: [10XBBA]
+
+      - id: "FW-GC-060"
+        name: "Earn-In Acquisition Structure"
+        description: "(1) Buyer pays reduced price upfront (50-70%) (2) Remaining equity earned through hitting revenue/profit targets over 2-3 years (3) Targets must be SMART — specific, measurable, achievable (4) If targets missed, seller retains proportional equity (5) Forces buyer to perform and protects seller's legacy. Best for first-time buyers."
+        domain: "deal-structure"
+        sources: [10XBBA]
+
+      - id: "FW-GC-061"
+        name: "Business Valuation Quick Framework"
+        description: "(1) Calculate ODE = Net Profit + Owner Salary + Owner Perks + Non-recurring expenses (2) Apply multiple: 2-2.5x ODE for businesses under $5M revenue (3) For $5M+: use 3-5x EBITDA (4) Adjust for: customer concentration (-30%), owner dependency (-20%), growth trend (+20%), recurring revenue (+30%)."
+        domain: "valuation"
+        sources: [10XBBA]
+
+      - id: "FW-GC-062"
+        name: "Target Business Identification Framework"
+        description: "(1) Industry: boring is better — service businesses, B2B, niche manufacturing (2) Revenue: $1-5M sweet spot (3) Owner: 55+, tired, no succession plan (4) Operations: simple, documented processes (5) Customers: diversified, no single customer >25% (6) Geography: your local market first (7) Deal flow: network with brokers, accountants, lawyers."
+        domain: "business-buying"
+        sources: [10XBBA]
+
+      # ===== CWIRE: Real Estate Frameworks =====
+
+      - id: "FW-GC-063"
+        name: "Four Quadrants Deal Analysis"
+        description: "(1) LOCATION — A/B/C neighborhood, job growth, population trend, crime stats (2) UNITS — 16 minimum, 32 ideal, 100+ for maximum efficiency (3) CONDITION — deferred maintenance, renovation needs, structural integrity (4) PRICE — per unit, per square foot, cap rate vs market. Deal must pass 3 of 4 quadrants minimum."
+        domain: "real-estate-investing"
+        sources: [CWIRE]
+
+      - id: "FW-GC-064"
+        name: "Multifamily Underwriting Framework"
+        description: "(1) Gross Potential Income (all units at market rent) (2) Minus vacancy (5-10%) = Effective Gross Income (3) Minus Operating Expenses (50% rule) = NOI (4) NOI / Debt Service = DCR (target 1.25+) (5) NOI / Purchase Price = Cap Rate (6) Cash flow after debt service / Equity invested = Cash-on-Cash return (target 8%+)."
+        domain: "underwriting"
+        sources: [CWIRE]
+
+      - id: "FW-GC-065"
+        name: "Value-Add Investment Framework (BRRRR Variant)"
+        description: "(1) BUY — below market value, distressed or mismanaged property (2) RENOVATE — $5-10K/unit budget, focus on kitchens, baths, flooring (3) RAISE RENTS — to market rate after improvements (4) REFINANCE — new appraisal at higher value, cash-out refi (5) REPEAT — deploy extracted capital into next deal. Goal: zero money left in the deal."
+        domain: "value-add"
+        sources: [CWIRE]
+
+      - id: "FW-GC-066"
+        name: "365-Day Broker Follow-Up Calendar"
+        description: "Month 1-3: weekly calls to 20 target brokers. Month 4-6: bi-weekly calls + market reports shared. Month 7-9: monthly calls + invite to lunch/coffee. Month 10-12: monthly calls + referral requests. Every touch adds value — share market data, deals you've closed, capital available. By month 12, you're in their speed dial."
+        domain: "real-estate-investing"
+        sources: [CWIRE]
+
+      - id: "FW-GC-067"
+        name: "Real Estate Financing Framework"
+        description: "(1) Conventional — 75-80% LTV, fixed rate, 20-30 year amort (2) Agency (Fannie/Freddie) — 80% LTV for multifamily, best rates (3) Bridge — short-term (1-3 years) for value-add, interest-only (4) Seller Financing — negotiated terms, no bank qualification needed (5) Syndication — pool investor capital for larger deals. Match financing to strategy."
+        domain: "financing"
+        sources: [CWIRE]
+
+      - id: "FW-GC-068"
+        name: "Syndication Structure Framework"
+        description: "(1) Form LLC — General Partner manages, Limited Partners invest (2) GP contributes 5-10% of equity + all management (3) LPs contribute 90-95% of equity (4) Preferred return to LPs: 6-8% annually (5) Profit split after preferred: 70% LP / 30% GP typical (6) GP earns acquisition fee (1-2%), asset management fee (2% of revenue), disposition fee (1%). Aligned incentives."
+        domain: "syndication"
+        sources: [CWIRE]
+
+      - id: "FW-GC-069"
+        name: "Property Management Optimization Framework"
+        description: "(1) Professional management for all properties (even small ones) (2) KPIs: occupancy rate (95%+), collections rate (98%+), maintenance response time (<24 hours) (3) Monthly financial reporting (4) Quarterly property inspections (5) Annual rent increases (3-5% or to market) (6) Vendor management: 3 quotes minimum for any job over $500."
+        domain: "property-management"
+        sources: [CWIRE]
+
+      - id: "FW-GC-070"
+        name: "21-Day Due Diligence Framework (Real Estate)"
+        description: "Week 1 (Physical): walk every unit, inspect roof/HVAC/plumbing/electrical, environmental assessment, property survey. Week 2 (Financial): audit rent rolls vs deposits, verify expenses vs actuals, review all vendor contracts, tax assessment review. Week 3 (Legal): title search, zoning compliance, insurance review, tenant lease audit. Any major red flag = renegotiate or walk."
+        domain: "due-diligence"
+        sources: [CWIRE]
+
+      # ===== CU-2: Advanced Closing Frameworks =====
+
+      - id: "FW-GC-071"
+        name: "45 Money Closes Master Library"
+        description: "Complete library of closes for financial objections including: Agreement Close, Budget Close, Ben Franklin Close, Payment Breakdown, Reduction to Ridiculous, Now or Never, Puppy Dog Close, Assumptive Close, Make-Affordable Close, Investment Close, First-Last Close, Sandwich Close, Feel-Felt-Found, Takeaway Close, and 31 more. Each close has specific script, trigger condition, and best use case."
+        domain: "money-closes"
+        sources: [CU-2]
+
+      - id: "FW-GC-072"
+        name: "17 Stall Closes Framework"
+        description: "Library of closes for delay tactics: Think-About-It (5 responses), Spouse Stall (decision tree), Need More Time, Shop Around, Call You Back, Not Ready Yet, Come Back Later, Need to Research, Need to Sleep On It, Bad Timing, Just Looking, Need to Talk to Partner, Need to Talk to Accountant, Not in the Budget, Already Have a Solution, Need a Quote, Need References. Each with scripted responses."
+        domain: "stall-closes"
+        sources: [CU-2]
+
+      - id: "FW-GC-073"
+        name: "13 Product Closes Framework"
+        description: "Library of closes for product-related objections: Don't Need It, Already Have One, Doesn't Do What I Need, Too Complex, Wrong Color/Size/Model, Prefer Competitor's, Had Bad Experience, Not What I Expected, Too New/Unproven, Missing Features, Overkill for My Needs, Quality Concerns, Doesn't Match My Style. Each with reframe and close scripts."
+        domain: "product-closes"
+        sources: [CU-2]
+
+      - id: "FW-GC-074"
+        name: "13-Step Road to the Sale System"
+        description: "(1) Greeting/Meet & Greet (2) Determine wants and needs (3) Select product/service (4) Build value through presentation (5) Offer to trade/trial close (6) Test close — 'On a scale of 1-10?' (7) Walk-around/demo (8) Sit down/formalize (9) Present numbers/proposal (10) Handle objections (11) Close the deal (12) Follow-up plan (13) Ask for referrals. Each step has specific scripts and metrics."
+        domain: "road-to-sale"
+        sources: [CU-2]
+
+      - id: "FW-GC-075"
+        name: "Five-No Strategy Framework"
+        description: "No #1: Change angle — present different benefit. No #2: Change medium — switch from features to stories. No #3: Change close — try a different close technique. No #4: Change person — bring in manager or third party. No #5: Final attempt — direct ask with maximum conviction. After 5 genuine nos with different approaches, schedule follow-up."
+        domain: "closing-strategies"
+        sources: [CU-2]
+
+      - id: "FW-GC-076"
+        name: "Cold Call Mastery Framework (CU-2 Advanced)"
+        description: "(1) Pre-call research: 2 minutes per prospect (2) Opening: 10-second intro (name, company, value prop) (3) Permission: 'Can I get 3 minutes?' (4) If yes: qualify (budget, authority, need, timeline) (5) If no: 'When would be better?' (6) Close for appointment, not sale (7) Voicemail: curiosity hook only (8) Post-call: enter into follow-up system (9) Daily target: 50+ dials minimum."
+        domain: "cold-calling"
+        sources: [CU-2]
+
+      # ===== Cross-program frameworks =====
+
+      - id: "FW-GC-077"
+        name: "Wealth Building 3-Vehicle Framework"
+        description: "Vehicle 1: Sales/Business Income — active income through selling (SF, CU, HMMP skills). Vehicle 2: Business Acquisitions — buy existing cash-flowing businesses (10XBBA strategy). Vehicle 3: Real Estate — multifamily investing for passive income (CWIRE method). Each vehicle has different risk/return profile. Start with V1, add V2 at $500K income, add V3 at $1M+ net worth."
+        domain: "wealth-building"
+        sources: [PTM, 10XBBA, CWIRE]
+
+      - id: "FW-GC-078"
+        name: "Digital Funnel + Phone Sales Integration"
+        description: "(1) Drive traffic to funnel (10XMB methods) (2) Capture lead via opt-in (3) Nurture via email sequence (4) Qualify via webinar or VSL attendance (5) Hot leads → immediate phone follow-up (HMMP methods) (6) Phone close using CU-2 closing frameworks (7) Post-sale: upsell + referral extraction (PTM methods). Technology generates leads, humans close deals."
+        domain: "sales-funnels"
+        sources: [10XMB, HMMP, CU-2]
+
+      - id: "FW-GC-079"
+        name: "Acquisition Due Diligence Master Framework"
+        description: "Combines 10XBBA business DD with CWIRE real estate DD: (1) Financial verification — 3 years tax returns, P&L, balance sheet (2) Customer/tenant analysis — concentration, churn, satisfaction (3) Physical inspection — assets, equipment, property condition (4) Legal review — contracts, litigation, compliance (5) People assessment — R3 framework (6) Market analysis — competition, trends, barriers. Universal DD applies to both business and real estate acquisitions."
+        domain: "due-diligence"
+        sources: [10XBBA, CWIRE]
+
+      - id: "FW-GC-080"
+        name: "Complete Close Category System"
+        description: "Three categories with full libraries: (A) MONEY CLOSES (45 techniques) — for financial objections: price, payment, budget, value perception (B) STALL CLOSES (17 techniques) — for delay tactics: think about it, spouse, timing, research (C) PRODUCT CLOSES (13 techniques) — for product doubts: features, competition, fit, quality. Total: 75 documented close techniques covering 100% of objection scenarios."
+        domain: "closing-strategies"
+        sources: [CU-2]
+
+      - id: "FW-GC-081"
+        name: "YouTube Growth Framework"
+        description: "(1) Research keywords with YouTube search suggest (2) Title: primary keyword first, benefit statement (3) Thumbnail: face + text + contrast colors (4) First 30 seconds: hook — state what they'll learn (5) Content: deliver on promise within first 50% of video (6) CTA: subscribe + offer link in description (7) Post 3x/week minimum (8) Analyze retention graphs — optimize for watch time."
+        domain: "seo"
+        sources: [10XMB]
+
+      - id: "FW-GC-082"
+        name: "Real Estate Deal Pipeline Framework"
+        description: "(1) Source: broker relationships, off-market outreach, auctions, distressed properties (2) Screen: 100 deals → 10 worth analyzing (3) Analyze: 10 deals → 3 worth offering on (4) Offer: 3 LOIs → 1 accepted (5) Due diligence: 21-day protocol (6) Close: financing + legal (7) Operate: property management optimization. Pipeline ratio: 100:10:3:1."
+        domain: "real-estate-investing"
+        sources: [CWIRE]
+
+      - id: "FW-GC-083"
+        name: "Email Marketing Revenue Maximization"
+        description: "(1) Build list through lead magnets and tripwires (2) Welcome sequence: 7 emails over 14 days (3) Daily broadcast: 80% value / 20% offer (4) Segmentation: tag by opens, clicks, purchases (5) A/B test: subject lines, send times, CTAs (6) Clean list quarterly: remove 90-day inactive (7) Revenue target: $1/subscriber/month minimum. Email is the highest ROI channel at $42 per $1 spent."
+        domain: "email-marketing"
+        sources: [10XMB]
+
+      - id: "FW-GC-084"
+        name: "Seller Financing Negotiation Framework"
+        description: "(1) Opening ask: 50% of purchase price as seller note (2) Typical settlement: 30-40% seller financing (3) Terms: 5-7 year note, interest-only first 2 years (4) Interest rate: prime + 1-2% (lower than bank) (5) Personal guarantee from buyer (6) Collateral: business assets + personal assets (7) Balloon payment at year 5-7 (refinance with bank). Seller gets premium price, buyer gets favorable terms."
+        domain: "deal-structure"
+        sources: [10XBBA]
+
+      - id: "FW-GC-085"
+        name: "Leverage and Scale Framework (Real Estate)"
+        description: "(1) Start: $250K equity → acquire $1M property (4x leverage) (2) Year 1-2: value-add → property now worth $1.3M (3) Refinance: pull out $200K (4) Deploy: $200K into next $800K property (5) Repeat: portfolio compounds (6) Scale: 5 properties → syndication (7) Syndication: pool capital for $10M+ deals. The math: $250K initial → $5M+ portfolio in 5-7 years through disciplined leverage."
+        domain: "leverage"
+        sources: [CWIRE]
+
+  L5_METHODOLOGIES:
+    count: 83
+    elements:
+      - id: "MET-GC-001"
+        name: "Mastering Objections 8-Step Method"
+        steps:
+          - "Step 1: Commit to being a master of objections"
+          - "Step 2: Take full responsibility for every objection"
+          - "Step 3: Define what an objection is and is not"
+          - "Step 4: Identify where objections take place in your process"
+          - "Step 5: Identify each objection at each part of your sales process"
+          - "Step 6: Prepare until you can predict each objection"
+          - "Step 7: Master until you can handle each one automatically"
+          - "Step 8: Work on objections every single day"
+        domain: "objection-handling"
+        sources: [MO]
+
+      - id: "MET-GC-002"
+        name: "Day 0 Follow-Up Method (First 5 Hours)"
+        steps:
+          - "Within 5 minutes: Thank-you call — no data, just 'call me back'"
+          - "Within 1 hour: Second call — 'Was everything perfect? Scale 1-10?'"
+          - "Within 1 hour: Ask 'Who else should be involved in this decision?'"
+          - "Same day: Text with personal message"
+          - "Same day: Email confirmation with your contact info"
+        domain: "follow-up"
+        sources: [PTM, HMMP]
+
+      - id: "MET-GC-003"
+        name: "LISTEN-ACKNOWLEDGE-ISOLATE-VALIDATE Objection Method"
+        steps:
+          - "LISTEN: Do not interrupt. Nod head. Phrases: 'Let me write this down,' 'Tell me more,' 'What else?'"
+          - "ACKNOWLEDGE: 'You are right,' 'I agree with you,' 'I can see that,' 'I feel the same way'"
+          - "ISOLATE: 'What are your other concerns?' 'Any other reason for not moving forward?'"
+          - "VALIDATE: 'That wouldn't keep you from buying, would it?'"
+          - "DETERMINE TYPE: Internal/External, Valid/Invalid, Spoken/Unspoken"
+          - "CLOSE OR HANDLE: If complaint, close. If real objection, handle then close."
+        domain: "objection-handling"
+        sources: [MO]
+
+      - id: "MET-GC-004"
+        name: "Rebuttal Book Construction Method"
+        steps:
+          - "Step 1: List every objection you've ever received"
+          - "Step 2: Categorize into the 12 objection types"
+          - "Step 3: For each objection, write: Listen phrases, Acknowledge phrases, Isolate questions, Validate statements"
+          - "Step 4: Write Probe questions and Tie-Down closes"
+          - "Step 5: Write Justify and Close scripts"
+          - "Step 6: Format one page per objection"
+          - "Step 7: Drill every day with a partner for 15 minutes"
+          - "Step 8: Update as new objections surface"
+        domain: "objection-handling"
+        sources: [MO]
+
+      - id: "MET-GC-005"
+        name: "Not Interested Rebuttal Method"
+        steps:
+          - "Listen: Let them finish completely"
+          - "Acknowledge: 'I hear you and I take full responsibility for that'"
+          - "Isolate: 'Other than not being interested, any other reason you wouldn't give me a couple minutes?'"
+          - "Validate: 'Not being interested wouldn't keep you from giving me a shot, would it?'"
+          - "If No: transition into Qualifying"
+          - "If Yes: Probe — 'Why is that?'"
+          - "Tie Down: 'If I could show you how to improve your situation, could you make 3 minutes?'"
+          - "If yes: Move to elevator pitch / value proposition"
+        domain: "prospecting"
+        sources: [MO]
+
+      - id: "MET-GC-006"
+        name: "Think-About-It Close Method"
+        steps:
+          - "Buyer says: 'I need to think about it'"
+          - "Respond: 'Thought is instantaneous. Think of an elephant. Did you get it?'"
+          - "Continue: 'See, thought is immediate. It's not something that takes time.'"
+          - "Redirect: 'What you need now is not to think but to decide. Yes or no.'"
+          - "Close: 'I'm fine with either one. Which is it? If yes, I need your signature right here.'"
+        domain: "closing"
+        sources: [MO, CU]
+
+      - id: "MET-GC-007"
+        name: "Spouse Stall Close Method"
+        steps:
+          - "Buyer says: 'I need to talk to my spouse'"
+          - "Ask: 'What if your spouse says no?'"
+          - "If 'He/she won't say no': 'Great, then I need your OK here and here'"
+          - "If 'We wouldn't buy': 'Would they say no to the product or no to the money?'"
+          - "If product: 'What do you suggest we do?'"
+          - "If money: 'Would it be the money, the down payment, the monthly payment, the price, all three?'"
+          - "Work out the specific concern, then close"
+        domain: "closing"
+        sources: [MO, CU]
+
+      - id: "MET-GC-008"
+        name: "I'm-Going-To-Wait Close Method"
+        steps:
+          - "Buyer says: 'I'm going to wait'"
+          - "Acknowledge: 'Certainly you can do that'"
+          - "Share three facts: (1) You and your company still need this (2) It's costing you not to have it — here's the math (3) Nothing changes when I leave except prices may go up"
+          - "Redirect: 'You still need it. You're still going to do this.'"
+          - "Close: 'Let's do this now and get it done. You have so many other things to put your attention on.'"
+          - "Ask: 'I need your approval here, here, and right here.'"
+        domain: "closing"
+        sources: [MO, CU]
+
+      - id: "MET-GC-009"
+        name: "Power Base Launch Method"
+        steps:
+          - "Step 1: List 200+ people you know (family, friends, neighbors, school, work, gym, church)"
+          - "Step 2: Categorize by closeness: inner circle (10), strong ties (50), acquaintances (140+)"
+          - "Step 3: Contact inner circle first — sit them down, insist they listen to your pitch"
+          - "Step 4: Expand outward — friends and acquaintances"
+          - "Step 5: Weekly: touch 10 people from your base with calls, texts, or notes"
+          - "Step 6: Ask for referrals after every positive interaction"
+          - "Step 7: Add every new contact to your growing power base"
+        domain: "power-base"
+        sources: [SF, CU, PTM]
+
+      - id: "MET-GC-010"
+        name: "10X Action Implementation Method"
+        steps:
+          - "Step 1: Write down your target/goal"
+          - "Step 2: List every action you think you need to take to achieve it"
+          - "Step 3: Multiply every action item by 10"
+          - "Step 4: Start immediately — zero planning paralysis"
+          - "Step 5: Track actions daily — did you hit 10X?"
+          - "Step 6: If you missed, increase tomorrow's actions"
+          - "Step 7: Consistency — make 10X a daily discipline, not a one-time event"
+          - "Step 8: When problems arise, take more action, not less"
+        domain: "massive-action"
+        sources: [SF, CU]
+
+      - id: "MET-GC-011"
+        name: "Millionaire Decision Method"
+        steps:
+          - "Step 1: Believe in the possibility — not in yourself yet, just the possibility"
+          - "Step 2: Believe in your coach/source — if you doubt the source, you won't use the data"
+          - "Step 3: Make the decision — claim it publicly"
+          - "Step 4: Do the math — $1M / years / months / deals needed / leads needed"
+          - "Step 5: Set income targets that match the math"
+          - "Step 6: Identify who has your money — contact them"
+          - "Step 7: Increase income, stay broke — invest the difference"
+          - "Step 8: Create multiple streams of income"
+          - "Step 9: Repeat and expand every day"
+        domain: "wealth-building"
+        sources: [PTM]
+
+      - id: "MET-GC-012"
+        name: "Can't-Afford-It Close Method"
+        steps:
+          - "Buyer says: 'I can't afford it'"
+          - "Respond: 'You can't afford to consider any other investment'"
+          - "Reframe: 'This makes such a powerful statement about your success'"
+          - "Close: 'So is it going to be in your name or your company's name? Let's get this done.'"
+          - "Alternative: 'Very few people think they can afford it until they see the monthly. Allow me to make it a reality for you.'"
+        domain: "closing"
+        sources: [MO, CU]
+
+      - id: "MET-GC-013"
+        name: "Payments-Too-High Close Method"
+        steps:
+          - "Buyer says: 'Payments are too high'"
+          - "Option A: 'You're paying too much right now for something you don't even want. Let's do this.'"
+          - "Option B: 'What reasons can you find for paying a little more? The quality? The comfort? The protection?'"
+          - "Option C (Budget Close): 'You can say that about credit cards, car payments, insurance, taxes — they're all more than you want, but you pay them every month.'"
+          - "Close: 'I need your OK here and here.'"
+        domain: "closing"
+        sources: [MO, CU]
+
+      - id: "MET-GC-014"
+        name: "Handwritten Note Follow-Up Method"
+        steps:
+          - "Step 1: On Day 2 after initial contact, write a handwritten note"
+          - "Step 2: Content: 'Thanks for connecting. I have information concerning our recent conversation'"
+          - "Step 3: Leave a small hook of mystery — don't give all details"
+          - "Step 4: Follow up the handwritten note with a text the same day"
+          - "Step 5: Remember: people busier than you (like Neil Cavuto) take time for handwritten notes"
+        domain: "follow-up"
+        sources: [PTM]
+
+      - id: "MET-GC-015"
+        name: "Getting-Sold Daily Method"
+        steps:
+          - "Step 1: Every morning, answer the 6 conviction questions about your product"
+          - "Step 2: Make a list of what makes you different and unique from competition"
+          - "Step 3: If any hesitation on any answer, work on that area immediately"
+          - "Step 4: If you wouldn't buy your own product at your price — fix the disconnect"
+          - "Step 5: Tell yourself: 'I am the best option available. My product is the best option available.'"
+          - "Step 6: Repeat until conviction is automatic and unshakeable"
+        domain: "conviction"
+        sources: [SF, CU]
+
+      - id: "MET-GC-016"
+        name: "Agreement Close Method (3 Variations)"
+        steps:
+          - "Variation 1: 'I agree it's a lot of money. I need your OK here and here.'"
+          - "Variation 2: 'I agree. And everyone who has ever bought this said exactly the same thing. I need your approval here, here, and here.'"
+          - "Variation 3: 'I agree it's a lot of money. And expect that you knew that before you got here. You knew you'd be able to pay. I need your OK here and here.'"
+        domain: "closing"
+        sources: [MO, CU]
+
+      - id: "MET-GC-017"
+        name: "Video Follow-Up Method"
+        steps:
+          - "Step 1: Record a 30-second personal video on your phone"
+          - "Step 2: Address them by name: 'Hey [name], Grant here'"
+          - "Step 3: Reference your conversation: 'Great talking about [topic]'"
+          - "Step 4: Add one value point they didn't hear in the meeting"
+          - "Step 5: Call to action: 'Call me back, I have one more thing to share'"
+          - "Step 6: Send via text, not email — text has higher open rate"
+        domain: "follow-up"
+        sources: [PTM, HMMP]
+
+      - id: "MET-GC-018"
+        name: "Cold Call Execution Method"
+        steps:
+          - "Step 1: Prepare — know the company, the person, the reason for calling"
+          - "Step 2: Open in 10 seconds: name, company, reason"
+          - "Step 3: Ask for permission: 'Can I get just 3 minutes?'"
+          - "Step 4: If no, ask: 'When would be a better time?' (get a commitment)"
+          - "Step 5: If yes, deliver your elevator pitch (23 seconds)"
+          - "Step 6: Close for the appointment, not the sale"
+          - "Step 7: If voicemail, leave curiosity hook — no details"
+          - "Step 8: Enter into 14-day follow-up system immediately"
+        domain: "prospecting"
+        sources: [CU, HMMP]
+
+      - id: "MET-GC-019"
+        name: "Unavailable Party Close Method"
+        steps:
+          - "Buyer says: 'The other decision-maker isn't available'"
+          - "Frame: 'Let's write it up like this — you agree to ownership at these figures'"
+          - "Condition: 'Delivery subject to the third party's approval'"
+          - "Fairness check: 'Is that fair?'"
+          - "Close: 'I need your approval here and here'"
+          - "Result: Person present is committed, creating momentum for the absent party"
+        domain: "closing"
+        sources: [MO, CU]
+
+      - id: "MET-GC-020"
+        name: "Time Audit and Recovery Method"
+        steps:
+          - "Step 1: Track every 30-minute block for one week"
+          - "Step 2: Categorize: Production, Administration, Waste"
+          - "Step 3: Calculate total wasted hours"
+          - "Step 4: Convert: 'X wasted hours = Y potential calls = Z potential deals'"
+          - "Step 5: Replace one waste activity per week with a production activity"
+          - "Step 6: Weekly review: did production hours increase?"
+          - "Step 7: Goal: 80% of time in production activities"
+        domain: "time-management"
+        sources: [SF, CU]
+
+      - id: "MET-GC-021"
+        name: "Second-Sale Execution Method"
+        steps:
+          - "Step 1: Complete the first sale"
+          - "Step 2: Before the customer leaves, present an upgrade or add-on"
+          - "Step 3: Frame it as enhancement: 'Since you're already invested in [A], have you considered [B]?'"
+          - "Step 4: The timing is perfect — they're in buying mode"
+          - "Step 5: If no, plant the seed: 'Think about it. I'll follow up in a week.'"
+          - "Step 6: Enter second-sale opportunity into follow-up system"
+        domain: "closing"
+        sources: [PTM, CU]
+
+      - id: "MET-GC-022"
+        name: "Pipeline Health Check Method"
+        steps:
+          - "Step 1: Count total prospects in pipeline"
+          - "Step 2: Categorize: Hot (closing this week), Warm (closing this month), Cold (nurturing)"
+          - "Step 3: Calculate: do you have 10X the deals you need?"
+          - "Step 4: If pipeline < 10X: emergency prospecting mode — call power base, cold call, hit social"
+          - "Step 5: If pipeline >= 10X: maintain through daily follow-up"
+          - "Step 6: Weekly review: pipeline growing or shrinking?"
+        domain: "pipeline-management"
+        sources: [CU, HMMP]
+
+      - id: "MET-GC-023"
+        name: "Referral Extraction Method"
+        steps:
+          - "Step 1: Immediately after closing — buyer is at peak emotional high"
+          - "Step 2: Ask: 'Who else do you know who could benefit from this?'"
+          - "Step 3: Ask for specific number: 'Can you give me 3 names?'"
+          - "Step 4: If they hesitate: 'Even just 1 name would be great'"
+          - "Step 5: Get full contact info for each referral"
+          - "Step 6: Call every referral within 24 hours"
+          - "Step 7: Report back to the referrer: 'Thanks — I called John, great connection'"
+          - "Step 8: The report-back generates more referrals over time"
+        domain: "prospecting"
+        sources: [CU, PTM]
+
+      - id: "MET-GC-024"
+        name: "Conviction Recovery Method"
+        steps:
+          - "Trigger: sales are declining, energy is low, objections feel overwhelming"
+          - "Step 1: Identify what you're not sold on — product? company? yourself? price?"
+          - "Step 2: Answer all 6 conviction questions in writing"
+          - "Step 3: Find and eliminate the negative consideration"
+          - "Step 4: Use your product yourself — be your own customer"
+          - "Step 5: Talk to your best customers — remind yourself why they bought"
+          - "Step 6: Watch/listen to training material to re-engage"
+          - "Step 7: Take massive action — action cures fear"
+        domain: "conviction"
+        sources: [SF, CU]
+
+      - id: "MET-GC-025"
+        name: "Incoming Call Conversion Method"
+        steps:
+          - "Step 1: Answer within 3 rings with energy"
+          - "Step 2: Greet: name, company, 'How can I help you?'"
+          - "Step 3: Qualify: What are they looking for? Budget? Timeline? Decision-maker?"
+          - "Step 4: Don't sell on the phone — set the appointment"
+          - "Step 5: Get cell phone number before hanging up"
+          - "Step 6: Send confirmation text immediately"
+          - "Step 7: Enter into Day 0 follow-up sequence"
+        domain: "phone-sales"
+        sources: [CU, HMMP]
+
+      - id: "MET-GC-026"
+        name: "Sales Script Practice Method"
+        steps:
+          - "Step 1: Write scripts for top 10 objections"
+          - "Step 2: Practice alone — read aloud 10 times per script"
+          - "Step 3: Role-play with partner — 15 minutes daily"
+          - "Step 4: Record yourself on video"
+          - "Step 5: Watch the recording — identify weak spots"
+          - "Step 6: Adjust scripts based on real interactions"
+          - "Step 7: Drill until response is automatic — zero hesitation"
+          - "Step 8: Update scripts monthly with new objections"
+        domain: "sales-fundamentals"
+        sources: [MO, CU]
+
+      - id: "MET-GC-027"
+        name: "Make-Affordable Close Method"
+        steps:
+          - "Buyer says: 'I can't afford this'"
+          - "Respond: 'I make my living making things affordable. That means I'm in your employ.'"
+          - "Offer: 'Allow me to work out the figures for you.'"
+          - "Safety net: 'If they don't fit, then you can either fire me or tell me what we need to do to make you a happy owner.'"
+          - "Fairness check: 'Fair enough?'"
+          - "Result: You've repositioned yourself as their advocate, not their adversary"
+        domain: "closing"
+        sources: [MO, CU]
+
+      - id: "MET-GC-028"
+        name: "Multiple Streams of Income Method"
+        steps:
+          - "Step 1: Master your primary income source first"
+          - "Step 2: Once stable, identify second income opportunity"
+          - "Step 3: Start small — side project, investment, freelance"
+          - "Step 4: Reinvest profits from stream 2 into stream 3"
+          - "Step 5: Never let new streams distract from primary income"
+          - "Step 6: Goal: 3-5 income streams within 5 years"
+          - "Step 7: Each new stream reduces dependence on any single source"
+        domain: "wealth-building"
+        sources: [PTM]
+
+      - id: "MET-GC-029"
+        name: "Social Media Lead Capture Method"
+        steps:
+          - "Step 1: Go live regularly to generate comments"
+          - "Step 2: Respond to every comment personally"
+          - "Step 3: Move conversation from comment to DM"
+          - "Step 4: In DM, get phone number or email"
+          - "Step 5: Move to phone call within 24 hours"
+          - "Step 6: Enter into full 14-day follow-up system"
+          - "Step 7: Track conversion: comments > DMs > calls > sales"
+        domain: "prospecting"
+        sources: [PTM, HMMP]
+
+      - id: "MET-GC-030"
+        name: "Daily Massive Action Routine"
+        steps:
+          - "6AM: Review goals and conviction questions"
+          - "7AM-12PM: Production block 1 — calls, meetings, presentations"
+          - "12PM: Working lunch with client or prospect"
+          - "1PM-5PM: Production block 2 — follow-up, proposals, prospecting"
+          - "5PM-7PM: Pipeline review, tomorrow planning, social media content"
+          - "7PM: Study/training (sales material, product knowledge)"
+          - "Key principle: no balance, all production. Rest when you've made it."
+        domain: "massive-action"
+        sources: [SF, CU]
+
+      - id: "MET-GC-031"
+        name: "Objection Prediction and Preemption Method"
+        steps:
+          - "Step 1: Log every objection received for 30 days"
+          - "Step 2: Rank by frequency — top 10 objections = 90% of all objections"
+          - "Step 3: For each, create 3 different response scripts"
+          - "Step 4: During presentations, address top objections BEFORE they are raised"
+          - "Step 5: Preemption removes the objection from the buyer's mind"
+          - "Step 6: Update prediction list monthly"
+        domain: "objection-handling"
+        sources: [MO, CU]
+
+      - id: "MET-GC-032"
+        name: "Internet Lead Speed-Response Method"
+        steps:
+          - "Step 1: Alert system — instant notification when lead comes in"
+          - "Step 2: Respond within 5 minutes — call first"
+          - "Step 3: If no answer: voicemail + text + email (all within 10 minutes)"
+          - "Step 4: Text: 'Hey [name], Grant from [company]. Just got your inquiry. Call me at [number]'"
+          - "Step 5: Enter into Day 0 follow-up immediately"
+          - "Step 6: Track: response time vs conversion rate"
+        domain: "prospecting"
+        sources: [CU]
+
+      - id: "MET-GC-033"
+        name: "Wealth Math Method"
+        steps:
+          - "Step 1: Target = $1,000,000"
+          - "Step 2: Timeline = X years"
+          - "Step 3: Annual income needed = $1M / X + living expenses"
+          - "Step 4: Monthly income target = Annual / 12"
+          - "Step 5: Revenue per client = average deal size"
+          - "Step 6: Clients needed = Monthly target / Revenue per client"
+          - "Step 7: Leads needed = Clients / Close rate"
+          - "Step 8: Daily activities = Leads needed / Working days"
+          - "Step 9: 10X the daily activities"
+        domain: "wealth-building"
+        sources: [PTM]
+
+      - id: "MET-GC-034"
+        name: "Prospecting Discipline Method (50+ Daily)"
+        steps:
+          - "Step 1: Before anything else, make 10 calls to power base"
+          - "Step 2: Make 20 cold calls to new prospects"
+          - "Step 3: Follow up on 10 existing prospects"
+          - "Step 4: Send 10 personalized emails or texts"
+          - "Step 5: Make 5 social media touches"
+          - "Step 6: Total: 55 touchpoints per day minimum"
+          - "Step 7: Log every interaction"
+          - "Step 8: Review pipeline health at end of day"
+        domain: "prospecting"
+        sources: [CU, HMMP]
+
+      - id: "MET-GC-035"
+        name: "Multi-Channel Follow-Up Method"
+        steps:
+          - "Touch 1: Phone call"
+          - "Touch 2: Text message"
+          - "Touch 3: Email with value"
+          - "Touch 4: Handwritten note"
+          - "Touch 5: Video message"
+          - "Touch 6: Social media connection"
+          - "Touch 7: In-person visit (if local)"
+          - "Rule: Never use the same channel twice in a row"
+          - "Rule: Each touch adds new value — never just 'checking in'"
+        domain: "follow-up"
+        sources: [PTM, HMMP]
+
+      - id: "MET-GC-036"
+        name: "Price Justification Method"
+        steps:
+          - "Step 1: Before setting price, buy your own product mentally — would YOU pay this?"
+          - "Step 2: List every value element included"
+          - "Step 3: Calculate the cost of NOT having your product (cost of inaction)"
+          - "Step 4: Present: 'The cost of waiting is [X] per month. Over a year, that's [Y].'"
+          - "Step 5: Frame: 'You're not spending [price]. You're preventing [cost of inaction].'"
+          - "Step 6: Always present value before price"
+        domain: "closing"
+        sources: [SF, CU, MO]
+
+      - id: "MET-GC-037"
+        name: "Team Sales Meeting Method"
+        steps:
+          - "Step 1: Daily 15-minute huddle — review targets vs actual"
+          - "Step 2: Role-play one objection scenario"
+          - "Step 3: Share one win from yesterday"
+          - "Step 4: Identify one bottleneck to solve today"
+          - "Step 5: Weekly: full review of pipeline health per person"
+          - "Step 6: Monthly: conviction rebuild — re-sell the product to the team"
+        domain: "sales-management"
+        sources: [CU]
+
+      - id: "MET-GC-038"
+        name: "Lunch Selling Method"
+        steps:
+          - "Step 1: Never eat lunch alone — always invite a prospect or client"
+          - "Step 2: Pick the restaurant — you control the environment"
+          - "Step 3: First 15 minutes: personal connection, rapport"
+          - "Step 4: Middle: discuss their business/needs naturally"
+          - "Step 5: Last 10 minutes: present your solution or ask for referrals"
+          - "Step 6: Pick up the check — always"
+          - "Step 7: Follow up same day with a thank-you text"
+        domain: "time-management"
+        sources: [SF, CU]
+
+      - id: "MET-GC-039"
+        name: "Ninety-Day Recommitment Method"
+        steps:
+          - "Day 1-90 is the danger zone — enthusiasm fades"
+          - "Step 1: At 60 days, acknowledge the coming dip"
+          - "Step 2: At 90 days, do a full conviction rebuild"
+          - "Step 3: Answer all 6 conviction questions fresh"
+          - "Step 4: Set new 10X targets — bigger than the originals"
+          - "Step 5: Get immersed in training again"
+          - "Step 6: Connect with someone who is succeeding"
+          - "Step 7: Take massive action immediately — action cures doubt"
+        domain: "mindset"
+        sources: [SF, CU]
+
+      - id: "MET-GC-040"
+        name: "The Professional Upgrade Method"
+        steps:
+          - "Step 1: Define: am I an amateur or professional right now?"
+          - "Step 2: Study selling as a science — read, watch, attend"
+          - "Step 3: Video yourself selling and presenting"
+          - "Step 4: Review recordings — identify amateur habits"
+          - "Step 5: Drill scripts until responses are automatic"
+          - "Step 6: Master the complete sales process (all 7 steps)"
+          - "Step 7: Build conviction to unshakeable levels"
+          - "Step 8: Take massive action — volume reveals truth"
+          - "Step 9: Never stop — the professional never graduates"
+        domain: "sales-fundamentals"
+        sources: [SF, CU]
+
+      - id: "MET-GC-041"
+        name: "Save-To-Invest Execution Method"
+        steps:
+          - "Step 1: Track all income sources"
+          - "Step 2: When income increases, DO NOT increase lifestyle"
+          - "Step 3: Funnel 100% of income increases into a separate account"
+          - "Step 4: Research investment vehicles (real estate, business, etc.)"
+          - "Step 5: Deploy saved capital into income-producing assets"
+          - "Step 6: Never touch investment capital for consumer purchases"
+          - "Step 7: Repeat — each investment generates new income to reinvest"
+        domain: "wealth-building"
+        sources: [PTM]
+
+      - id: "MET-GC-042"
+        name: "Public Commitment Method"
+        steps:
+          - "Step 1: Make the decision — 'I will become a millionaire'"
+          - "Step 2: Write it down — physical paper, not digital"
+          - "Step 3: Post it publicly — Twitter, Facebook, YouTube"
+          - "Step 4: Tell 10 people today"
+          - "Step 5: Look at your commitment every morning"
+          - "Step 6: Track progress monthly"
+          - "Step 7: Adjust actions, never adjust the target"
+        domain: "mindset"
+        sources: [PTM]
+
+      - id: "MET-GC-043"
+        name: "Retargeting Follow-Up Method"
+        steps:
+          - "Step 1: Website visitor or ad responder triggers retargeting"
+          - "Step 2: Show different content on each retargeting touch"
+          - "Step 3: Move from awareness to education to offer across touches"
+          - "Step 4: Combine digital retargeting with personal follow-up"
+          - "Step 5: Phone call + retargeted ad = multi-channel pressure"
+          - "Step 6: Track which combination drives the most conversions"
+        domain: "prospecting"
+        sources: [HMMP, PTM]
+
+      # ===== 10XMB: Marketing Methodologies =====
+
+      - id: "MET-GC-044"
+        name: "Lead Generation Funnel Build Method"
+        steps:
+          - "Step 1: Create lead magnet — PDF, video, checklist, template (solve one specific problem)"
+          - "Step 2: Build landing page — headline, bullet points, opt-in form, no navigation"
+          - "Step 3: Write welcome email sequence (5-7 emails over 14 days)"
+          - "Step 4: Drive traffic — Facebook ads, Google ads, YouTube, content marketing"
+          - "Step 5: Test and optimize — headline, image, form fields, email subject lines"
+          - "Step 6: Scale winners — increase ad spend on converting traffic sources"
+          - "Step 7: Segment leads by behavior — opens, clicks, downloads"
+          - "Step 8: Feed qualified leads into sales funnel or phone follow-up"
+        domain: "sales-funnels"
+        sources: [10XMB]
+
+      - id: "MET-GC-045"
+        name: "Email Campaign Launch Method"
+        steps:
+          - "Step 1: Segment list by buyer status (prospect, buyer, VIP)"
+          - "Step 2: Write email — subject line (6-10 words), preview text, body (300-500 words), single CTA"
+          - "Step 3: A/B test subject line with 10% of list"
+          - "Step 4: Send winning version to remaining 90%"
+          - "Step 5: Optimal send time: Tuesday-Thursday, 10am or 2pm"
+          - "Step 6: Track: open rate (target 20%+), click rate (target 3%+), revenue per email"
+          - "Step 7: Follow up non-openers with new subject line 24 hours later"
+        domain: "email-marketing"
+        sources: [10XMB]
+
+      - id: "MET-GC-046"
+        name: "Cart Abandonment Recovery Method"
+        steps:
+          - "Step 1: Implement two-step checkout (capture email before payment)"
+          - "Step 2: Trigger Email 1 at 1 hour — 'You left something behind' + cart contents + return link"
+          - "Step 3: Trigger Email 2 at 24 hours — add social proof/testimonial + same offer"
+          - "Step 4: Trigger Email 3 at 48 hours — add urgency + bonus incentive (free shipping, discount)"
+          - "Step 5: If no recovery after Email 3 — add to retargeting audience"
+          - "Step 6: Track recovery rate (target 15-20% of abandoned carts)"
+          - "Step 7: Optimize each email monthly based on data"
+        domain: "conversion-optimization"
+        sources: [10XMB]
+
+      - id: "MET-GC-047"
+        name: "Omnipresence Content Repurposing Method"
+        steps:
+          - "Step 1: Create one core content piece weekly (video, podcast, or article)"
+          - "Step 2: Extract 5-10 micro-content pieces (quotes, clips, graphics)"
+          - "Step 3: Post long-form to YouTube and podcast platforms"
+          - "Step 4: Post clips to Instagram Reels, TikTok, YouTube Shorts"
+          - "Step 5: Create carousel posts from key points for LinkedIn/Instagram"
+          - "Step 6: Write email based on core content"
+          - "Step 7: Boost top-performing micro-content with $10-50 ad spend"
+          - "Step 8: Track: which platform drives most traffic back to funnels"
+        domain: "omnipresence"
+        sources: [10XMB]
+
+      - id: "MET-GC-048"
+        name: "Webinar Execution Method"
+        steps:
+          - "Step 1: Create registration page with countdown timer and social proof"
+          - "Step 2: Send 3 reminder emails (72h, 24h, 1h before)"
+          - "Step 3: Webinar structure: 0-15 min rapport/story, 15-45 min teach/value, 45-60 min pitch"
+          - "Step 4: Close with stack slide — show total value vs price"
+          - "Step 5: Post-webinar: send replay email within 2 hours"
+          - "Step 6: Send 2 more replay emails over 48 hours (urgency: replay expires)"
+          - "Step 7: Call every attendee who watched 50%+ within 24 hours"
+          - "Step 8: Track: registration rate, show-up rate, close rate, revenue per attendee"
+        domain: "webinars"
+        sources: [10XMB]
+
+      - id: "MET-GC-049"
+        name: "Google Ads Campaign Launch Method"
+        steps:
+          - "Step 1: Research 50 keywords with Google Keyword Planner"
+          - "Step 2: Start with exact match only — eliminate waste"
+          - "Step 3: Write 3 ad variations per ad group"
+          - "Step 4: Create dedicated landing page matching each ad group"
+          - "Step 5: Set budget at 10x target CPA — collect data fast"
+          - "Step 6: After 100 clicks: pause keywords with 0 conversions"
+          - "Step 7: After 500 clicks: identify top 5 keywords, increase bids"
+          - "Step 8: Weekly optimization: negative keywords, bid adjustments, ad copy tests"
+        domain: "digital-advertising"
+        sources: [10XMB]
+
+      - id: "MET-GC-050"
+        name: "Split Testing Execution Method"
+        steps:
+          - "Step 1: Identify biggest drop-off point in funnel (analytics)"
+          - "Step 2: Hypothesize: what change would improve this metric?"
+          - "Step 3: Create variation — change ONE element only"
+          - "Step 4: Split traffic 50/50 between control and variation"
+          - "Step 5: Run test until 1,000+ visitors per variation"
+          - "Step 6: Evaluate at 95% confidence — use a calculator, not gut feel"
+          - "Step 7: Winner becomes new control"
+          - "Step 8: Document result in testing log — hypothesis, result, lift %"
+          - "Step 9: Start next test immediately — never stop testing"
+        domain: "split-testing"
+        sources: [10XMB]
+
+      # ===== 10XBBA: Business Buying Methodologies =====
+
+      - id: "MET-GC-051"
+        name: "28-Day Business Acquisition Method"
+        steps:
+          - "Days 1-3: Define target criteria — industry, size, geography, owner profile"
+          - "Days 4-7: Identify 20+ targets — brokers, online listings, direct outreach"
+          - "Days 8-10: Initial contact — phone call, email, in-person visit"
+          - "Days 11-12: NDA and information request"
+          - "Days 13-14: Submit LOI with terms (1/3-1/3-1/3 structure)"
+          - "Days 15-17: Due diligence phase 1 — financial verification"
+          - "Days 18-19: Due diligence phase 2 — operational and legal review"
+          - "Days 20-21: Due diligence phase 3 — physical inspection"
+          - "Days 22-24: Final negotiation of terms"
+          - "Days 25-27: Legal documentation and closing preparation"
+          - "Day 28: Close the deal"
+        domain: "business-buying"
+        sources: [10XBBA]
+
+      - id: "MET-GC-052"
+        name: "Business Valuation Method (ODE)"
+        steps:
+          - "Step 1: Request 3 years of tax returns and P&L statements"
+          - "Step 2: Calculate Net Profit (average of 3 years)"
+          - "Step 3: Add back owner's salary"
+          - "Step 4: Add back owner's perks (car, phone, travel, insurance)"
+          - "Step 5: Add back non-recurring expenses (one-time legal, equipment)"
+          - "Step 6: Result = Owner's Discretionary Earnings (ODE)"
+          - "Step 7: Apply multiple: 2-2.5x ODE for businesses under $5M revenue"
+          - "Step 8: Adjust for risk factors: customer concentration (-30%), owner dependency (-20%), growth (+20%)"
+        domain: "valuation"
+        sources: [10XBBA]
+
+      - id: "MET-GC-053"
+        name: "Post-Acquisition 90-Day Transition Method"
+        steps:
+          - "Days 1-7: Shadow the owner — learn everything, change nothing"
+          - "Days 8-14: Meet every employee individually — understand their role, concerns, goals"
+          - "Days 15-21: Meet every key customer — introduce yourself, reassure them"
+          - "Days 22-30: Identify quick wins — low-cost improvements that build momentum"
+          - "Days 31-60: Implement R3 people framework — retain, replace, recruit"
+          - "Days 61-75: Introduce process improvements — one at a time"
+          - "Days 76-90: Review financial performance vs acquisition plan — adjust"
+        domain: "acquisitions"
+        sources: [10XBBA]
+
+      - id: "MET-GC-054"
+        name: "Seller Financing Negotiation Method"
+        steps:
+          - "Step 1: Open with: 'I'd like you to carry 50% of the purchase price as a note'"
+          - "Step 2: Justify: 'This gives you ongoing income and tax advantages'"
+          - "Step 3: Propose terms: 5-7 year note, interest-only first 2 years"
+          - "Step 4: Offer premium price in exchange for financing: 'I'll pay your asking price if you carry the note'"
+          - "Step 5: If resistance: reduce to 30-40% seller financing"
+          - "Step 6: Include personal guarantee as sweetener"
+          - "Step 7: Final terms: document in LOI, have attorney draft note"
+        domain: "deal-structure"
+        sources: [10XBBA]
+
+      - id: "MET-GC-055"
+        name: "Business Deal Flow Generation Method"
+        steps:
+          - "Step 1: Build relationships with 10+ business brokers in your target market"
+          - "Step 2: Tell every accountant, lawyer, and banker you know that you're buying"
+          - "Step 3: Set up alerts on BizBuySell, BusinessBroker.net, and local listings"
+          - "Step 4: Direct mail 100 businesses per month in your target industry"
+          - "Step 5: Attend industry events and trade shows — network as a buyer"
+          - "Step 6: Follow up monthly with all contacts (same as sales follow-up)"
+          - "Step 7: Target: review 10 deals per month, submit 2 LOIs per month"
+        domain: "business-buying"
+        sources: [10XBBA]
+
+      # ===== CWIRE: Real Estate Methodologies =====
+
+      - id: "MET-GC-056"
+        name: "Multifamily Property Analysis Method"
+        steps:
+          - "Step 1: Request T-12 (trailing 12 months) income and expense statement"
+          - "Step 2: Calculate Gross Potential Income (all units at market rent)"
+          - "Step 3: Apply vacancy factor (5-10% depending on market)"
+          - "Step 4: Calculate Effective Gross Income"
+          - "Step 5: Apply 50% expense ratio (or actual expenses if available)"
+          - "Step 6: Calculate NOI = Effective Gross Income - Operating Expenses"
+          - "Step 7: Calculate Cap Rate = NOI / Asking Price"
+          - "Step 8: Calculate debt service at current interest rates"
+          - "Step 9: Calculate DCR = NOI / Debt Service (must be 1.25+)"
+          - "Step 10: Calculate Cash-on-Cash Return = Cash Flow / Equity Invested (target 8%+)"
+        domain: "underwriting"
+        sources: [CWIRE]
+
+      - id: "MET-GC-057"
+        name: "Value-Add Renovation Execution Method"
+        steps:
+          - "Step 1: Walk every unit — document condition with photos"
+          - "Step 2: Prioritize: units with below-market rents AND above-average vacancy"
+          - "Step 3: Budget $5-10K per unit: paint, flooring, fixtures, appliances"
+          - "Step 4: Renovate in batches of 5-10 units — maintain occupancy"
+          - "Step 5: As units turn over naturally, renovate and re-lease at market rent"
+          - "Step 6: Track: renovation cost per unit vs rent increase achieved"
+          - "Step 7: After 50%+ units renovated, refinance at new higher value"
+          - "Step 8: Pull out capital and deploy into next deal"
+        domain: "value-add"
+        sources: [CWIRE]
+
+      - id: "MET-GC-058"
+        name: "Broker Relationship Building Method"
+        steps:
+          - "Step 1: Identify top 20 multifamily brokers in your target market"
+          - "Step 2: Call each one — introduce yourself as an active buyer"
+          - "Step 3: Share your buying criteria: unit count, price range, geography"
+          - "Step 4: Prove you're real: share proof of funds or pre-approval letter"
+          - "Step 5: Follow up weekly for first 3 months"
+          - "Step 6: Share market intel — give value to get value"
+          - "Step 7: After 6 months: bi-weekly contact + invite to lunch quarterly"
+          - "Step 8: Goal: be the first call when a deal comes in"
+        domain: "real-estate-investing"
+        sources: [CWIRE]
+
+      - id: "MET-GC-059"
+        name: "21-Day Due Diligence Execution Method (Real Estate)"
+        steps:
+          - "Day 1: Order property inspection (roof, HVAC, plumbing, electrical, structural)"
+          - "Day 2-3: Walk every unit — document condition, interview tenants"
+          - "Day 4-5: Order environmental assessment (Phase 1)"
+          - "Day 6-7: Order property survey and review zoning"
+          - "Day 8-9: Audit rent roll — verify leases, deposits, actual payments"
+          - "Day 10-11: Review all vendor contracts (landscaping, pest, trash, etc.)"
+          - "Day 12-13: Verify tax assessments and insurance costs"
+          - "Day 14: Compare actual expenses vs seller-reported expenses"
+          - "Day 15-16: Title search and title insurance"
+          - "Day 17-18: Review all tenant leases — terms, expirations, violations"
+          - "Day 19-20: Final walk-through and negotiation of repairs"
+          - "Day 21: DD conclusion — proceed, renegotiate, or walk"
+        domain: "due-diligence"
+        sources: [CWIRE]
+
+      - id: "MET-GC-060"
+        name: "Syndication Launch Method"
+        steps:
+          - "Step 1: Form LLC — General Partner (you) and Limited Partner structure"
+          - "Step 2: Create Private Placement Memorandum (PPM) with securities attorney"
+          - "Step 3: Define terms: preferred return (6-8%), profit split (70/30 LP/GP)"
+          - "Step 4: Create investor presentation — deal summary, projections, risks"
+          - "Step 5: Raise capital from accredited investors (friends, family, network)"
+          - "Step 6: Fund the deal — wire capital to escrow"
+          - "Step 7: Close and begin operations"
+          - "Step 8: Monthly investor updates — financials, occupancy, progress"
+          - "Step 9: Quarterly distributions to LPs"
+          - "Step 10: Year 3-5: refinance or sell — return capital + profits to investors"
+        domain: "syndication"
+        sources: [CWIRE]
+
+      - id: "MET-GC-061"
+        name: "Property Management Takeover Method"
+        steps:
+          - "Step 1: Hire professional property management company (or build internal team)"
+          - "Step 2: Week 1 — physical inspection of every unit, common areas, exterior"
+          - "Step 3: Week 2 — audit all tenant files, leases, deposits"
+          - "Step 4: Week 3 — review all vendor contracts, renegotiate or rebid"
+          - "Step 5: Month 1 — establish maintenance response protocols (<24 hours)"
+          - "Step 6: Month 2 — implement rent collection enforcement (3-day notice policy)"
+          - "Step 7: Month 3 — begin rent-to-market adjustments on lease renewals"
+          - "Step 8: Ongoing: monthly KPI review — occupancy, collections, maintenance costs"
+        domain: "property-management"
+        sources: [CWIRE]
+
+      - id: "MET-GC-062"
+        name: "Real Estate Financing Package Method"
+        steps:
+          - "Step 1: Compile property financials — T-12, rent roll, pro forma"
+          - "Step 2: Compile personal financials — net worth statement, liquidity proof, experience"
+          - "Step 3: Create executive summary — property overview, business plan, projections"
+          - "Step 4: Submit to 3-5 lenders simultaneously (competition improves terms)"
+          - "Step 5: Compare term sheets: rate, LTV, amortization, prepay, reserves"
+          - "Step 6: Negotiate: 'Lender B offered 75% LTV — can you match?'"
+          - "Step 7: Select best terms and move to commitment letter"
+          - "Step 8: Complete lender due diligence: appraisal, environmental, inspection"
+        domain: "financing"
+        sources: [CWIRE]
+
+      # ===== CU-2: Advanced Closing Methodologies =====
+
+      - id: "MET-GC-063"
+        name: "Payment Breakdown Close Method"
+        steps:
+          - "Step 1: Calculate total price"
+          - "Step 2: Divide by 365 to get daily cost"
+          - "Step 3: Present: 'This investment is [$X] per day'"
+          - "Step 4: Compare to daily expenses: 'You spend more than that on coffee, lunch, and gas'"
+          - "Step 5: If still resistant: divide by hours in a day — 'That's [$Y] per hour'"
+          - "Step 6: Close: 'For less than your daily Starbucks, you get [full benefit list]. I need your OK here.'"
+        domain: "money-closes"
+        sources: [CU-2]
+
+      - id: "MET-GC-064"
+        name: "Budget Close Lifestyle Method"
+        steps:
+          - "Step 1: When buyer says 'it's too much'"
+          - "Step 2: List their current monthly expenses: 'Credit cards — you pay them. Car payment — you pay it. Insurance — you pay it. Mortgage — you pay it. Netflix, gym, phone — you pay all of them.'"
+          - "Step 3: Key insight: 'Every one of those is more than you wanted to pay. But you pay them because you value what they give you.'"
+          - "Step 4: Transition: 'This investment will give you [specific benefit]. It's the same commitment you already make 10 times over.'"
+          - "Step 5: Close: 'I need your approval right here and right here.'"
+        domain: "money-closes"
+        sources: [CU-2]
+
+      - id: "MET-GC-065"
+        name: "Ben Franklin Close Method"
+        steps:
+          - "Step 1: Draw a line down the center of a piece of paper"
+          - "Step 2: Label left column 'Reasons to move forward' and right column 'Reasons to wait'"
+          - "Step 3: Help them fill in the left column first — guide with leading questions"
+          - "Step 4: Let them fill in the right column — usually they struggle to find reasons"
+          - "Step 5: Point out the imbalance: 'Look — 8 reasons to move forward, 2 reasons to wait'"
+          - "Step 6: Close: 'The evidence is clear. Let's do this. I need your OK here.'"
+        domain: "money-closes"
+        sources: [CU-2]
+
+      - id: "MET-GC-066"
+        name: "Five-No Persistence Method"
+        steps:
+          - "No #1: Respond with new angle — different benefit they haven't considered"
+          - "No #2: Respond with story — share how another customer had same concern"
+          - "No #3: Respond with different close technique — switch from money close to stall close"
+          - "No #4: Bring in manager or third party — fresh perspective, added authority"
+          - "No #5: Direct ask — 'I respect your position. Let me ask you directly: what would it take for you to say yes today?'"
+          - "After 5 genuine nos with different approaches: 'I understand. Let me follow up next week.'"
+          - "Enter into 14-day follow-up system"
+        domain: "closing-strategies"
+        sources: [CU-2]
+
+      - id: "MET-GC-067"
+        name: "13-Step Road to the Sale Method"
+        steps:
+          - "Step 1: Meet & Greet — firm handshake, eye contact, smile, use their name"
+          - "Step 2: Determine wants and needs — ask 5+ questions before showing anything"
+          - "Step 3: Select product/service — based on THEIR needs, not your inventory"
+          - "Step 4: Build value — demonstrate benefits, not features"
+          - "Step 5: Offer to trade — trial close: 'If I could do X, would you be interested?'"
+          - "Step 6: Test close — 'On a scale of 1-10, where are we?'"
+          - "Step 7: Walk-around/demo — hands-on experience with the product"
+          - "Step 8: Sit down — move to a closing environment"
+          - "Step 9: Present numbers — written proposal with figures"
+          - "Step 10: Handle objections — LISTEN-ACKNOWLEDGE-ISOLATE-VALIDATE"
+          - "Step 11: Close — use appropriate close technique from the 75-close library"
+          - "Step 12: Follow-up plan — enter into 14-day system"
+          - "Step 13: Ask for referrals — immediately while emotion is high"
+        domain: "road-to-sale"
+        sources: [CU-2]
+
+      - id: "MET-GC-068"
+        name: "Cold Call Advanced Method (CU-2)"
+        steps:
+          - "Step 1: Pre-call prep — 2 minutes: company, contact name, reason to call"
+          - "Step 2: Opening — 10 seconds: 'Hi [name], Grant Cardone with [company]. Reason I'm calling is [specific value prop].'"
+          - "Step 3: Permission — 'Can I get 3 minutes of your time?'"
+          - "Step 4: If yes — qualify: BANT (Budget, Authority, Need, Timeline)"
+          - "Step 5: If no — 'Totally understand. When would be a better time?' Get specific date/time"
+          - "Step 6: If voicemail — curiosity hook only: 'I have information about [topic]. Call me at [number].'"
+          - "Step 7: Post-call — enter into follow-up system immediately"
+          - "Step 8: Daily target — 50+ dials, 15+ conversations, 3+ appointments"
+        domain: "cold-calling"
+        sources: [CU-2]
+
+      - id: "MET-GC-069"
+        name: "Puppy Dog Close Method"
+        steps:
+          - "Step 1: When buyer is hesitant but clearly interested"
+          - "Step 2: Offer trial: 'Take it home. Use it for [timeframe]. If you don't absolutely love it, bring it back — no questions asked.'"
+          - "Step 3: Frame as risk-free: 'The only risk is that you love it and have to keep it'"
+          - "Step 4: Complete paperwork as if it's a sale (it is)"
+          - "Step 5: Follow up on day 2 — 'How's everything going? Isn't it amazing?'"
+          - "Step 6: Return rate on puppy dog closes: typically below 10%"
+        domain: "product-closes"
+        sources: [CU-2]
+
+      - id: "MET-GC-070"
+        name: "Assumptive Close Method"
+        steps:
+          - "Step 1: Throughout the presentation, use assumptive language: 'when you have this' not 'if you buy this'"
+          - "Step 2: When ready to close — don't ask IF, ask WHICH"
+          - "Step 3: Examples: 'Would you prefer the blue or black?' 'Starting this month or next?' 'One unit or two?'"
+          - "Step 4: Start filling out paperwork before they say yes"
+          - "Step 5: Hand the pen: 'I just need your approval right here'"
+          - "Step 6: If they stop you — that's an objection you can now handle. If they don't — sale closed."
+        domain: "closing-strategies"
+        sources: [CU-2]
+
+      - id: "MET-GC-071"
+        name: "Now or Never Close Method"
+        steps:
+          - "Step 1: Create genuine scarcity or urgency (limited inventory, price increase, bonus expiring)"
+          - "Step 2: Present: 'This offer, at this price, with these terms, is available right now'"
+          - "Step 3: Explain consequence: 'If you leave, I can't guarantee any of this will be the same'"
+          - "Step 4: Add specificity: 'This promotion ends today/this price goes up Monday/only 3 left'"
+          - "Step 5: Close: 'Let's lock this in right now while everything is in your favor. I need your OK here.'"
+          - "Step 6: Never use fake scarcity — real urgency closes deals, fake urgency destroys trust"
+        domain: "money-closes"
+        sources: [CU-2]
+
+      - id: "MET-GC-072"
+        name: "Reduction to Ridiculous Close Method"
+        steps:
+          - "Step 1: Take the total investment price"
+          - "Step 2: Divide by the useful life in days (e.g., 5 years = 1,825 days)"
+          - "Step 3: Present: 'Over 5 years, this is [$X] per day'"
+          - "Step 4: Compare: 'You spend more than that on things you won't even remember buying'"
+          - "Step 5: Contrast with value: 'For [$X/day], you get [transformation/result]'"
+          - "Step 6: Close: 'It costs less than your cable bill and it will change your entire [life/business]. I need your OK here.'"
+        domain: "money-closes"
+        sources: [CU-2]
+
+      # ===== Cross-program methodologies =====
+
+      - id: "MET-GC-073"
+        name: "Funnel-to-Phone Sales Integration Method"
+        steps:
+          - "Step 1: Drive traffic to lead generation funnel (10XMB methods)"
+          - "Step 2: Capture lead — email + phone number required"
+          - "Step 3: Welcome email sequence fires automatically"
+          - "Step 4: Phone call within 5 minutes of opt-in (HMMP speed-response)"
+          - "Step 5: If no answer — enter into 14-day follow-up system"
+          - "Step 6: Qualified leads → webinar or sales presentation"
+          - "Step 7: Post-presentation → phone close using CU-2 techniques"
+          - "Step 8: Post-sale → upsell + referral extraction (PTM methods)"
+        domain: "sales-funnels"
+        sources: [10XMB, HMMP, CU-2, PTM]
+
+      - id: "MET-GC-074"
+        name: "Business Acquisition Full Cycle Method"
+        steps:
+          - "Step 1: Generate deal flow — brokers, direct outreach, online listings (10XBBA)"
+          - "Step 2: Screen with target criteria — revenue, owner profile, customer concentration"
+          - "Step 3: Initial meeting — understand seller's motivation"
+          - "Step 4: Valuation — ODE method with risk adjustments"
+          - "Step 5: Submit LOI — 1/3-1/3-1/3 structure"
+          - "Step 6: Due diligence — 10-point checklist"
+          - "Step 7: Negotiate seller financing — aim for 30-50%"
+          - "Step 8: Close with attorney oversight"
+          - "Step 9: 90-day transition — shadow, observe, then optimize"
+          - "Step 10: Scale — apply 10X sales principles to grow acquired business"
+        domain: "business-buying"
+        sources: [10XBBA, SF, CU]
+
+      - id: "MET-GC-075"
+        name: "Real Estate Portfolio Building Method"
+        steps:
+          - "Step 1: Build income to $100K+ through sales skills (SF, CU)"
+          - "Step 2: Save aggressively — save to invest, not to save (PTM)"
+          - "Step 3: Build broker relationships — 365-day follow-up calendar"
+          - "Step 4: Analyze 100 deals → find 1 winner"
+          - "Step 5: Acquire first property — 32+ units, 50% expense ratio test"
+          - "Step 6: Value-add — renovate, raise rents, improve management"
+          - "Step 7: Refinance — pull out capital"
+          - "Step 8: Deploy capital into next property"
+          - "Step 9: Scale to 5 properties → launch syndication"
+          - "Step 10: Syndication — raise capital from investors for larger deals"
+        domain: "real-estate-investing"
+        sources: [CWIRE, PTM]
+
+      - id: "MET-GC-076"
+        name: "Advanced Stall Close Toolkit Method"
+        steps:
+          - "Think-About-It: use 5-response sequence — escalate from soft to direct"
+          - "Spouse Stall: use decision tree — product vs money → isolate specific"
+          - "Need to Research: 'Better than research — let me introduce you to a current client'"
+          - "Need to Sleep On It: 'Sleep is for after decisions, not before. What's the real concern?'"
+          - "Call You Back: 'I'd rather help you now. What would make this a yes?'"
+          - "Not Ready Yet: 'What needs to happen for you to be ready? Let's make that happen now.'"
+          - "Bad Timing: 'Is there ever a good time to solve a problem? The best time is when you're aware of it.'"
+          - "For each stall: identify the real objection hiding behind the stall"
+        domain: "stall-closes"
+        sources: [CU-2, MO]
+
+      - id: "MET-GC-077"
+        name: "Product Close Toolkit Method"
+        steps:
+          - "Don't Need It: 'You're right — nobody NEEDS it. But everyone who has it is glad they got it.'"
+          - "Already Have One: 'Great — then you know the value. Let me show you how this is better.'"
+          - "Prefer Competitor: 'I respect that. What specifically do you prefer? Let me show you our version.'"
+          - "Too Complex: 'That's exactly why we include [support/training]. You won't be alone.'"
+          - "Not What Expected: 'What WERE you expecting? Let me see if we have something that fits.'"
+          - "Missing Features: 'Which features are must-haves? Let me show you how we handle that.'"
+          - "Quality Concerns: Offer trial (Puppy Dog Close)"
+          - "For each product objection: reframe from 'what's wrong' to 'what would make it right'"
+        domain: "product-closes"
+        sources: [CU-2]
+
+      - id: "MET-GC-078"
+        name: "Money Close Master Method (Top 10 Most Used)"
+        steps:
+          - "1. Agreement Close: 'I agree it's a lot. I need your OK here.'"
+          - "2. Budget Close: Compare to existing expenses they already pay"
+          - "3. Payment Breakdown: Divide by 365 days"
+          - "4. Reduction to Ridiculous: 'Less than your cable bill'"
+          - "5. Ben Franklin: Two columns — reasons to buy vs wait"
+          - "6. Make-Affordable: 'I make my living making things affordable'"
+          - "7. Now or Never: Genuine scarcity + deadline"
+          - "8. Assumptive: Don't ask IF, ask WHICH"
+          - "9. Puppy Dog: 'Take it home, try it, bring it back if you don't love it'"
+          - "10. Investment Close: 'You're not spending — you're investing in [outcome]'"
+          - "Rule: Try 3 different money closes before accepting a financial no"
+        domain: "money-closes"
+        sources: [CU-2, MO]
+
+      - id: "MET-GC-079"
+        name: "Wealth Ecosystem Integration Method"
+        steps:
+          - "Step 1: Master sales — generate $100K+ active income (SF, CU, CU-2 skills)"
+          - "Step 2: Save to invest — never increase lifestyle with income increases (PTM)"
+          - "Step 3: Build digital marketing machine — funnels, email, omnipresence (10XMB)"
+          - "Step 4: First investment: acquire a small business with seller financing (10XBBA)"
+          - "Step 5: Apply 10X sales skills to grow acquired business"
+          - "Step 6: Second investment: first multifamily property 32+ units (CWIRE)"
+          - "Step 7: Value-add → refinance → pull out capital"
+          - "Step 8: Repeat: income → invest → cash flow → reinvest"
+          - "Step 9: Scale to syndication when net worth exceeds $5M"
+          - "Step 10: Multiple streams: sales income + business profits + real estate cash flow"
+        domain: "wealth-building"
+        sources: [PTM, 10XMB, 10XBBA, CWIRE, SF]
+
+      - id: "MET-GC-080"
+        name: "SEO Content Creation Method"
+        steps:
+          - "Step 1: Research keywords with Google Keyword Planner and YouTube suggest"
+          - "Step 2: Select 10 pillar topics with highest search volume + relevance"
+          - "Step 3: Write 2,000+ word article for each pillar (or 15+ minute video)"
+          - "Step 4: Create 5-10 cluster pieces per pillar — long-tail keywords"
+          - "Step 5: Internal link all cluster pieces to their pillar"
+          - "Step 6: Optimize: keyword in title, H1, first paragraph, meta description"
+          - "Step 7: Build backlinks through guest posting and PR"
+          - "Step 8: Update content quarterly — add new data, refresh examples"
+          - "Step 9: Track rankings weekly — page 1 for 10 keywords within 12 months"
+        domain: "seo"
+        sources: [10XMB]
+
+      - id: "MET-GC-081"
+        name: "YouTube Channel Growth Method"
+        steps:
+          - "Step 1: Niche down — pick one topic you can create 100+ videos about"
+          - "Step 2: Post 3x per week minimum — consistency builds the algorithm's trust"
+          - "Step 3: First 30 seconds = hook — state what they'll learn, why it matters"
+          - "Step 4: Title: primary keyword first, then benefit statement"
+          - "Step 5: Thumbnail: face showing emotion + 3-5 words of text + contrasting colors"
+          - "Step 6: CTA at end: subscribe, comment, watch next video (link in description)"
+          - "Step 7: Analyze: watch time > views, retention curve, click-through rate"
+          - "Step 8: Double down on topics with highest retention — the algorithm rewards watch time"
+        domain: "seo"
+        sources: [10XMB]
+
+      - id: "MET-GC-082"
+        name: "Email List Building Method"
+        steps:
+          - "Step 1: Create irresistible lead magnet (solves specific, urgent problem)"
+          - "Step 2: Build landing page with single opt-in form"
+          - "Step 3: Drive traffic via paid ads (Facebook, Google) + organic content"
+          - "Step 4: Tripwire offer on thank-you page ($7-$27)"
+          - "Step 5: Welcome sequence: 7 emails over 14 days"
+          - "Step 6: Daily broadcasts: 80% value, 20% pitch"
+          - "Step 7: Segment by behavior: openers, clickers, buyers"
+          - "Step 8: Clean list quarterly: remove 90-day inactive subscribers"
+          - "Step 9: Target: 1,000 subscribers in first 30 days, 10,000 by month 6"
+        domain: "email-marketing"
+        sources: [10XMB]
+
+      - id: "MET-GC-083"
+        name: "Podcast Launch and Monetization Method"
+        steps:
+          - "Step 1: Define niche and target listener — be specific"
+          - "Step 2: Record 5 episodes before launching (release all at once for momentum)"
+          - "Step 3: Episode structure: 3-min hook → 15-30 min content → 5-min CTA"
+          - "Step 4: Distribute to all platforms: Apple, Spotify, YouTube, Google"
+          - "Step 5: Weekly release schedule — same day, same time"
+          - "Step 6: Repurpose each episode: blog post, social clips, email, quotes"
+          - "Step 7: Monetize: CTA to your funnel, not ads. Your funnel converts better than $20 CPM."
+          - "Step 8: Guest strategy: interview people whose audience you want to reach"
+        domain: "podcasting"
+        sources: [10XMB]

@@ -6,7 +6,8 @@
 # Template: DNA-CONFIG-V2 (100% rastreabilidade)
 
 cargo: "SALES-MANAGER"
-versao: "5.2.0"  # Cole Gordon CIL (Closers Into Leaders — 323 elements, peso 0.90 for SM) — sales team leadership: Big Three KPIs, Culture Building, 8-Week Ramp-Up, Hiring Process, Compensation Models, PTMA enhanced, QC expanded, Pipeline Management, Follow-Up Systems, Outbound Operations
+versao: "5.3.0"  # Grant Cardone added (peso 0.85, 778 elements) — 13-step Road to Sale (team training), call calculation/metrics, sales management, team motivation, massive action culture, follow-up systems, phone mastery training
+# v5.2.0 (prev): Cole Gordon CIL (Closers Into Leaders — 323 elements, peso 0.90 for SM)
 # v5.1.0 (prev): Vinh Giang Stage Academy (peso 0.80, 30 elements)
 # v5.0.0 (prev)
 # v5.0.0 (2026-03-23): Jon Benson +3 sources (NOWVSL, 5MSLF, VSLFT18) — 1429 total elements, sales frameworks, training methodologies, rapport/storytelling techniques
@@ -613,6 +614,35 @@ dna_primario:
         descricao: "Systematic price framing techniques from VSL Formula Template — anchoring, contrast, value stacking before price reveal"
         aplicacao: "Sales Manager uses price anchoring as a QC checkpoint — verify reps anchor price properly before reveal, coach on framing techniques"
         source: "VSL Formula Template 2018 (VSLFT18)"
+
+  - pessoa: "grant-cardone"
+    peso: 0.85
+    total_elementos: 778
+    dominios_absorvidos:
+      - "sales-management"
+      - "road-to-sale"
+      - "call-calculation"
+      - "training"
+    path: "/knowledge/external/dna/persons/grant-cardone"
+    raiz: "/knowledge/external/sources/grant-cardone/raw/"
+    justificativa: "Grant Cardone is THE sales management volume authority — 13-step Road to Sale is a complete trainable sales process, call calculation metrics for team performance, massive action culture for sales teams, and systematic follow-up methodology. 778 elements across 8 programs. Complements Cole Gordon (PTMA, systematic QC) and Jordan Belfort (Straight Line training) with GC's volume-first team management philosophy — more activity, more pipeline, more revenue."
+    added: "2026-03-27"
+    insights_adicionais:
+      - id: "GC-SM001"
+        tema: "13-Step Road to Sale"
+        descricao: "Complete sales process: Greeting → Qualification → Needs Assessment → Selection → Presentation → Walk-Around → Demo → Close → Objection Handling → Close Again → Finance → Delivery → Follow-Up"
+        aplicacao: "Sales Manager installs as standard sales process for team — each step is scriptable, coachable, and QC-reviewable"
+        source: "Grant Cardone Sales Training"
+      - id: "GC-SM002"
+        tema: "Call Calculation Metrics"
+        descricao: "Volume-based performance metrics — daily call targets, contact rates, appointment rates, close rates, revenue per call"
+        aplicacao: "Sales Manager uses for daily/weekly team scorecards — track volume metrics alongside quality metrics"
+        source: "Grant Cardone Sales Training"
+      - id: "GC-SM003"
+        tema: "Massive Action Culture"
+        descricao: "10X activity levels — set targets 10X higher than competitors, create urgency culture, reward volume alongside results"
+        aplicacao: "Sales Manager builds team culture around massive action — 10X call targets, follow-up persistence, never-give-up mindset"
+        source: "Grant Cardone 10X Rule"
 
 # ═══════════════════════════════════════════════════════════════════
 # MATERIAIS ABSORVIDOS

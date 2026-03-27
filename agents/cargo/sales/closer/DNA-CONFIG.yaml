@@ -17,7 +17,8 @@
 # ═══════════════════════════════════════════════════════════════════════════════
 
 cargo: "closer"
-versao: "5.8.0"  # Cole Gordon CIL (Closers Into Leaders — 323 elements, peso 0.95 unchanged) — CORE closer content: Seven Belief Ladder, Reverse Selling System, Buying Pocket, Pacing First Objection, Financial Objection Process, Re-Offer Technique, Pitch Codex, belief-systems, high-ticket-closing. Key heuristics: 40-50% elite close rate, 50-call significance, 30-50% hedge
+versao: "5.9.0"  # Grant Cardone added (peso 0.90, 778 elements) — 45 Money Closes, 13-step Road to Sale, objection handling (Overcome Objection Method), conviction selling, phone mastery, follow-up systems, stall closes, massive action in closing
+# v5.8.0 (prev): Cole Gordon CIL (Closers Into Leaders — 323 elements, peso 0.95 unchanged) — CORE closer content
 # v5.7.0 (prev): Vinh Giang Stage Academy (peso 0.75, 25 elements)
 # v5.6.0 (prev)
 # v5.6.0 (2026-03-24): Stefan Georgi updated 20→35 elements (+15 from RMBC Method, RMBC II, Profit Fix Formula)
@@ -1117,6 +1118,23 @@ dna_sources:
       peso: 0.70
       quando_usar: "Offer appeal techniques for verbal pitches, pricing psychology for live closes, upsell closing sequences post-purchase"
       added: "2026-03-24"
+
+    - pessoa: "grant-cardone"
+      path: "/knowledge/external/dna/persons/grant-cardone"
+      raiz: "/knowledge/external/sources/grant-cardone/raw/"
+      total_elementos: 778
+      dominios_usados:
+        - "closing"
+        - "objection-handling"
+        - "money-closes"
+        - "stall-closes"
+        - "conviction"
+      peso: 0.90
+      quando_usar: "45 Money Closes (specific close techniques for every price objection), Overcome Objection Method (systematic objection resolution), conviction-based closing (certainty transfer), stall close techniques (overcoming 'think about it'), phone closing mastery, follow-up persistence (massive action follow-up), 13-step Road to Sale closing sequence"
+      justificativa: "Grant Cardone is THE high-volume closing authority — 45 Money Closes is the most comprehensive close technique library in the system. His conviction-based approach (massive action, certainty transfer) complements Cole Gordon (systematic closing), Jeremy Miner (question-based), and Jordan Belfort (straight line) with pure VOLUME + CONVICTION closing methodology."
+      added: "2026-03-27"
+      fontes_incluidas:
+        - "Grant Cardone Sales Training (778 elements — 8 programs: sales fundamentals, phone sales, objection handling, closing, follow-up, prospecting, massive action, 10X rule)"
 
 # ═══════════════════════════════════════════════════════════════════════════════
 # MAPA DE CONFLITOS

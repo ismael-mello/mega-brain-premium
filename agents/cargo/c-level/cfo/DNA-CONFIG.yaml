@@ -19,7 +19,7 @@
 # v1.0.0 (2025-12-23): Versão inicial
 
 cargo: "CFO"
-versao: "3.5.0"
+versao: "3.6.0"  # Grant Cardone added (peso 0.75) — wealth creation formula, real estate investing, business buying valuations, financial planning for scale
 nivel: "C-LEVEL"
 natureza: "HIBRIDO"
 data_criacao: "2025-12-23"
@@ -170,6 +170,20 @@ dna_sources:
       justificativa: "JH DMM: Profit First methodology for agency finances, Auto-Distribution for systematic profit extraction, Affluence Trap for lifestyle creep awareness, 90-10 Expense Rule for cost control, Staggered Billing for cash flow optimization"
       added: "2026-03-22"
       source: "Jeremy Haynes - Digital Marketing Manuscript (DMM)"
+
+    - pessoa: "grant-cardone"
+      path: "/knowledge/external/dna/persons/grant-cardone"
+      raiz: "/knowledge/external/sources/grant-cardone/raw/"
+      dominios_usados:
+        - "wealth-building"
+        - "real-estate-investing"
+        - "business-buying"
+        - "financial-planning"
+      peso: 0.75
+      quando_usar: "Wealth creation formula (income → invest → scale cycle), real estate investing frameworks (multifamily, deal valuation, cap rates), business buying valuations (acquisition metrics, revenue multiples), financial planning for 10X scale (expense-to-investment reframe, massive revenue targets)"
+      justificativa: "Grant Cardone brings WEALTH BUILDING and INVESTMENT perspective — real estate empire ($4B+ portfolio), business acquisition methodology, and 10X financial planning. Complements Capital Upgrade (operational finance) and Dan Kennedy (pricing/revenue) with investment and wealth creation strategy."
+      added: "2026-03-27"
+      source: "Grant Cardone (778 elements — 8 programs: wealth-building, real-estate-investing, business-buying)"
       elementos_dmm:
         - "Profit First Distribution — allocate profit before expenses, not after"
         - "Auto-Distribution System — automated profit extraction on billing cycles"

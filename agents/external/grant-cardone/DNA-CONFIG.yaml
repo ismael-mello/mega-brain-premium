@@ -1,0 +1,87 @@
+# DNA-CONFIG.yaml — Grant Cardone (SOLO Agent)
+# Versao: 2.0.0
+# Data: 2026-03-27
+# Pipeline: /jarvis-full (Full Opus, 8 programs)
+
+cargo: "grant-cardone"
+versao: "2.0.0"
+nivel: "EXTERNAL"
+natureza: "SOLO"
+data_criacao: "2026-03-27"
+ultima_atualizacao: "2026-03-27"
+
+# DNA Source (Single — SOLO agent)
+dna_sources:
+  - pessoa: "grant-cardone"
+    peso: 1.0
+    path_dna: "/knowledge/external/dna/persons/grant-cardone/DNA.yaml"
+    path_raiz: "/knowledge/external/sources/grant-cardone/raw/"
+    dominios:
+      - sales-fundamentals
+      - closing
+      - objection-handling
+      - phone-sales
+      - real-estate-investing
+      - business-buying
+      - marketing
+      - wealth-building
+      - mindset
+      - massive-action
+      - entrepreneurship
+      - negotiation
+      - prospecting
+      - follow-up
+      - sales-management
+      - omnipresence
+      - sales-funnels
+      - 10x-rule
+    materiais_fonte:
+      - programa: "Sales Fundamentals"
+        codigo: "SF"
+        arquivos: 28
+        path: "/inbox/Grant Cardone/Grant Cardone - Sales Fundamentals/"
+      - programa: "How to Make Millions on the Phone"
+        codigo: "HMMP"
+        arquivos: 3
+        path: "/inbox/Grant Cardone/Grant Cardone - How to Make Millions on the Phone/"
+      - programa: "Mastering Objections"
+        codigo: "MO"
+        arquivos: 4
+        path: "/inbox/Grant Cardone/Grant Cardone - Mastering Objections/"
+      - programa: "How to Create Wealth Investing In Real Estate"
+        codigo: "CWIRE"
+        arquivos: 55
+        path: "/inbox/Grant Cardone/Grant Cardone - How to Create Wealth Investing In Real Estate/"
+      - programa: "The 10X Business Buying Accelerator"
+        codigo: "10XBBA"
+        arquivos: 103
+        path: "/inbox/Grant Cardone/Grant Cardone - The 10X Business Buying Accelerator/"
+      - programa: "10x Marketing Mega Bundle"
+        codigo: "10XMB"
+        arquivos: 195
+        path: "/inbox/Grant Cardone/Grant Cardone - 10x Marketing Mega Bundle/"
+      - programa: "Playbook to Millions"
+        codigo: "PTM"
+        arquivos: 70
+        path: "/inbox/Grant Cardone/Grant Cardone - Playbook to Millions/"
+      - programa: "Cardone University 2016"
+        codigo: "CU"
+        arquivos: 1084
+        path: "/inbox/Grant Cardone/Grant Cardone - Cardone University 2016/"
+
+stats:
+  total_elementos: 468
+  total_arquivos_unicos: 1542
+  total_programas: 8
+  layers:
+    L1_PHILOSOPHIES: 100
+    L2_MENTAL_MODELS: 90
+    L3_HEURISTICS: 110
+    L4_FRAMEWORKS: 85
+    L5_METHODOLOGIES: 83
+  next_ids:
+    FIL: "FIL-GC-101"
+    MM: "MM-GC-091"
+    HEUR: "HEUR-GC-111"
+    FW: "FW-GC-086"
+    MET: "MET-GC-084"

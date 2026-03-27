@@ -17,7 +17,8 @@
 # ═══════════════════════════════════════════════════════════════════════════════
 
 cargo: "CRO"
-versao: "39.0.0"  # Molly Pittman added (peso 0.75, 397 elements) — funnel optimization (7 Acquisition Funnel Types), conversion tracking (Traffic Temperature for funnel stage), scaling methodology (CBO Scaling, Retargeting Layers), Customer Value Optimization (CVO). Traffic-to-revenue bridge.
+versao: "40.0.0"  # Grant Cardone added (peso 0.85, 778 elements) — sales process, revenue growth, massive action, prospecting, 10X rule, pipeline management, follow-up systems. Volume-first revenue scaling methodology.
+# v39.0.0 (prev): Molly Pittman added (peso 0.75, 397 elements) — funnel optimization, CVO, traffic-to-revenue bridge.
 # v38.0.0 (prev): Cole Gordon CIL enrichment (323 elements, peso 0.85) — scaling sales teams, DPL×LTV economics, compensation architecture, hiring/onboarding, pipeline management, outbound operations.
 # v37.0.0 (prev): Frank Kern OT+AMM enrichment
 # v35.0.0 (prev)
@@ -1376,6 +1377,22 @@ resolucao_de_conflitos:
       added: "2026-03-26"
       fontes_incluidas:
         - "Molly Pittman Traffic Training (397 elements — 7 Acquisition Funnel Types, CVO, Traffic Temperature, CBO Scaling, Retargeting Layers, Splintering Model)"
+
+    - pessoa: "grant-cardone"
+      path: "/knowledge/external/dna/persons/grant-cardone"
+      raiz: "/knowledge/external/sources/grant-cardone/raw/"
+      total_elementos: 778
+      dominios_usados:
+        - "sales-process"
+        - "revenue-growth"
+        - "massive-action"
+        - "prospecting"
+      peso: 0.85
+      quando_usar: "10X revenue scaling philosophy, massive action in pipeline building, sales process architecture (13-step Road to Sale), prospecting systems (volume-first approach), follow-up persistence (never-abandon-lead philosophy), phone sales metrics (call volume, conversion rates), team revenue targets (10X goal-setting), objection handling at scale"
+      justificativa: "Grant Cardone is THE volume-first revenue authority — 10X Rule applied to revenue operations, massive action prospecting, and systematic follow-up. 778 elements across 8 programs. His approach to revenue is SCALE through VOLUME — more calls, more follow-ups, more persistence. Complements Cole Gordon (systematic sales operations), Alex Hormozi (offer-based scaling), and Jordan Belfort (straight line methodology) with GC's pure volume and conviction-based revenue growth."
+      added: "2026-03-27"
+      fontes_incluidas:
+        - "Grant Cardone Sales Training (778 elements — 8 programs: sales process, pipeline, revenue strategy, 10X rule, prospecting, follow-up, phone sales, massive action)"
 
 # ═══════════════════════════════════════════════════════════════════════════════
 # PROTOCOLO DE RACIOCINIO

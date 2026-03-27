@@ -11,10 +11,10 @@
 # ═══════════════════════════════════════════════════════════════════════════════
 
 dominio: "vendas"
-versao: "32.0.0"  # Cole Gordon CIL (Closers Into Leaders) update (+180 vendas elements). Seven Belief Ladder, Reverse Selling System, Buying Pocket, Pacing First Objection, Financial Objection Process, Re-Offer Technique, 40-50% elite close rate, 50-call significance, 30-50% hedge, 10% commission, 100 dials/day. CG DNA now includes CIL as 2nd major source alongside legacy.
+versao: "33.0.0"  # Grant Cardone added (peso 0.95, 350 vendas elements). 45 Money Closes, 13-step Road to Sale, Overcome Objection Method, phone sales mastery, conviction selling, follow-up persistence, massive action prospecting, stall closes, cold calling, 10X contact volume. THE volume-first sales authority.
 data_criacao: "2026-01-10"
-ultima_atualizacao: "2026-03-26"
-total_elementos: 3091
+ultima_atualizacao: "2026-03-27"
+total_elementos: 3441
 
 fontes_consolidadas:
   - fonte: "cole-gordon"
@@ -155,6 +155,14 @@ fontes_consolidadas:
     especialidade: "Escada de Valor (Value Ladder BR), Funil Destrava, Script VSL 35 Passos, Oferta Irresistível 3 Camadas, Tripwire→SLO→Back-end→High-ticket pricing ladders, Webinar pitch (Marinada de Preço, Permissão para Ofertar, Empilhamento), Sessão Estratégica 10 passos, Fechamento 'à vista ou parcelado', Buying Frenzy, 4 Níveis de Consciência, Mini-Ofertas (7 regras), Customer Ascension methodology"
     batches: ["RM-HM (Hackers do Marketing — 173 total elements, 50 vendas-relevant — 2026-03-25)"]
     nota: "Added 2026-03-25. FIRST BRAZILIAN FUNNEL ARCHITECT — complete Portuguese-language sales funnel methodology. 508 source files from 15 programs. Rafael's unique contribution: full value ladder system adapted for Brazilian market (max 2 upsells vs 7 in US, pricing in BRL, CPC-aware tripwire pricing R$27-37 minimum). Complements Hormozi (offer construction) and Cole Gordon (sales process) with Brazilian execution specifics. Key numbers: Tripwire R$7-47, SLO R$97-297, Back-end R$997-3000, HT R$5000+. Order bump 25-45%, Upsell 1 10-30%, Upsell 2 5-8%."
+
+  - fonte: "grant-cardone"
+    path: "/knowledge/external/dna/persons/grant-cardone"
+    peso_dominio: 0.95
+    elementos_contribuidos: 350
+    especialidade: "45 Money Closes (most comprehensive close technique library), 13-step Road to Sale (complete sales process), Overcome Objection Method (systematic objection resolution), phone sales mastery (cold calling, gatekeeper handling), conviction selling (certainty transfer, massive belief), follow-up persistence (never-abandon-lead, 5-12 follow-ups average), massive action prospecting (10X contact volume), stall closes (overcoming 'think about it', 'need to talk to spouse'), cold calling fundamentals (phone tonality, energy, scripting), sales psychology (buyer commitment, urgency creation)"
+    batches: ["GC-SALES (Grant Cardone Sales Training — 778 total elements, 350 vendas-relevant — 2026-03-27)"]
+    nota: "Added 2026-03-27. Grant Cardone is THE high-volume sales authority — 45 Money Closes is the most comprehensive close technique library in the system. His conviction-based approach (massive action, certainty transfer, never-give-up follow-up) represents a fundamentally different philosophy from question-based (Miner) or systematic (Gordon) or straight-line (Belfort) selling. GC's unique contribution: VOLUME + CONVICTION as the primary sales lever. Key numbers: 5-12 follow-ups per prospect, 10X activity targets, 80% of sales happen after 5th contact. 8 programs covering sales, phone sales, objection handling, closing, follow-up, prospecting, massive action, 10X rule."
 
   - fonte: "vinh-giang-sa"
     path: "/knowledge/external/dna/persons/vinh-giang"
