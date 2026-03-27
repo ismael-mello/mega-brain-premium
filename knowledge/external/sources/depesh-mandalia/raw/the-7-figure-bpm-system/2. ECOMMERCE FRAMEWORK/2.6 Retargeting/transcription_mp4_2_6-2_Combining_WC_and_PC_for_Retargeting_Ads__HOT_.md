@@ -1,0 +1,12 @@
+# Transcrição: 2.6-2 Combining WC and PC for Retargeting Ads (HOT)
+
+- **Fonte:** 2.6-2 Combining WC and PC for Retargeting Ads (HOT)
+- **Duração:** 02:21
+- **Idioma:** en
+- **Modelo:** small
+
+---
+
+## [00:00 - 02:21]
+
+Hey, this is Deepesh and this short video is to cover how I actually run retargeting for Ecom and combining my dynamic product ads with a website conversion objective. And actually what that means is I often run product catalog campaigns for retargeting, which just generally do well. You can see here some crazy, crazy insane insane numbers for the row S for my product catalog ads. What I've actually found is when you combine that with a website conversion ads, it actually enhances the performance. And this is something to test for your own campaigns and your own stalls. But certainly once you've got good traffic going through your site and you've got a good size audience, what I generally do is run both objectives together. So I run the product catalog as well as website conversion across the same time periods. So for example, here I've got multiple languages and I've got kind of worldwide, but I'm running these for 30 days and optimizing for purchase. And you can see in the last seven days, a couple of the ad sets have got more than enough purchases coming through. But what I'm doing here is to vary the ads. So if you imagine in the newsfeed, if you're running dynamic catalog ads, then typically you're getting the kind of carousel ads and products delivered. It might be a collection ad. But when you combine that with static ads through retargeting, maybe show some kind of testimonial videos or static images that come through, it varies up what customers are seeing and overall enhances the experience. So these various numbers are not as crazy as we're getting in dynamic product catalog ads. But what we actually found when we introduced, and I've been doing this for maybe over 12 months, maybe even 18 months now, is combining them both up. It gives you an overall improvement in performance. So it's just something to test as you do get more and more traffic. And I wouldn't use this from the start, although you can with an early store. This is something to introduce as you start to get better performance through your dynamic product and catalog ads if you're running them. And then start to run website conversion ads, statics, videos, et cetera, alongside it to vary that kind of approach and bring a different angle to your targeting.

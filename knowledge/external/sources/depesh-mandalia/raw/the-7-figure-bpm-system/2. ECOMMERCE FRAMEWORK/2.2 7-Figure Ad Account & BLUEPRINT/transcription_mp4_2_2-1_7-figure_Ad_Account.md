@@ -1,0 +1,12 @@
+# Transcrição: 2.2-1 7-figure Ad Account
+
+- **Fonte:** 2.2-1 7-figure Ad Account
+- **Duração:** 02:27
+- **Idioma:** en
+- **Modelo:** small
+
+---
+
+## [00:00 - 02:27]
+
+Hey, this is D-Pesh and this short video is going to talk about the ingredients of a SEGA seven figure ads account. Now, what's the key difference between seven figures and eight figure ad account will have a lot more people involved, process and structure, etc. But here is the blueprint for a seven figure ad account, which will then be built upon for eight figures. Now, the core of this is to look at what I implement from a Facebook ads point of view. The graduation framework, which some of you may have heard of by now is a core part of what I do with a Facebook ads account. And you may have seen the graduation framework already, maybe it's something that's still for you to go through. But the graduation framework helps me to find winning audiences, winning creatives, and in cases where I'm testing products, winning products as well. And there's things that need to be done that needs to be input into that. It's making sure the right account funnel set up the right website funnel, you've got your products lined up, your content audiences and data, that all feeds into the graduation framework, which is the ability to be able to test quite cheaply what's working and what's not, and then rolling through your main program of optimization and scaling. So you have ad sniper funnel optimization, v scaling ad sniper again, h scaling and repeating that whole process through. And we're going to go through this in the training. But really right now, what I want you to reference here is that the graduation framework is the starting point. And actually above that is the foundation work. So as you're going through this training, you might be thinking, I just want to skip through to optimization, my, my sites fine, my accounts fine, I just want to scale it. The way this methodology has been set up is if you don't do the foundation work, the funnels product content audiences data set up properly, and you don't run the graduation framework, then actually the optimization, the scaling, and the automation, everything that I've got there is not going to work as effectively for you. So I really encourage you to go through the training step by step, make sure you've got your fundamentals and basics in place, and then really get your account ready to start running the graduation framework and start optimizing and scaling from there.

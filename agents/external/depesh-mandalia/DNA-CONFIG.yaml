@@ -1,0 +1,103 @@
+# ╔══════════════════════════════════════════════════════════════════════════════╗
+# ║                    DEPESH MANDALIA — DNA CONFIGURATION                     ║
+# ╚══════════════════════════════════════════════════════════════════════════════╝
+
+version: "1.0.0"
+person: "Depesh Mandalia"
+type: "SOLO"
+weight: 1.0
+
+dna_path: "knowledge/external/dna/persons/depesh-mandalia/DNA.yaml"
+
+dna_sources:
+  - id: "7FFAP"
+    name: "7-Figure Facebook Ads Playbook"
+    type: "COURSE"
+    files: 86
+    elements: 25
+    weight: 1.0
+    extraction_date: "2026-03-27"
+    raiz: "knowledge/external/sources/depesh-mandalia/raw/7-figure-facebook-ads-playbook/"
+    domains:
+      - facebook-ads
+      - funnel-optimization
+      - testing-methodology
+      - creative-strategy
+      - scaling-campaigns
+      - audience-targeting
+    speakers:
+      primary: "Depesh Mandalia"
+
+  - id: "BPM"
+    name: "The 7-Figure BPM System"
+    type: "COURSE"
+    files: 130
+    elements: 20
+    weight: 1.0
+    extraction_date: "2026-03-27"
+    raiz: "knowledge/external/sources/depesh-mandalia/raw/the-7-figure-bpm-system/"
+    domains:
+      - facebook-ads
+      - ecommerce-ads
+      - testing-methodology
+      - scaling-campaigns
+      - paid-traffic
+      - audience-targeting
+      - creative-strategy
+    speakers:
+      primary: "Depesh Mandalia"
+
+  - id: "BPMFA"
+    name: "The BPM Method (Facebook Ads 2020)"
+    type: "COURSE"
+    files: 208
+    elements: 25
+    weight: 1.0
+    extraction_date: "2026-03-27"
+    raiz: "knowledge/external/sources/depesh-mandalia/raw/the-bpm-method-2020/"
+    domains:
+      - facebook-ads
+      - offer-construction
+      - conversion-psychology
+      - funnel-optimization
+      - retargeting
+      - automation
+      - scaling-campaigns
+      - media-buying
+    speakers:
+      primary: "Depesh Mandalia"
+
+  - id: "7FMAP"
+    name: "7-Figure Meta Ads Playbook 2022"
+    type: "COURSE"
+    files: 247
+    elements: 25
+    weight: 1.0
+    extraction_date: "2026-03-27"
+    raiz: "knowledge/external/sources/depesh-mandalia/raw/7-figure-meta-ads-playbook-2022/"
+    domains:
+      - meta-ads
+      - paid-traffic
+      - offer-construction
+      - audience-targeting
+      - creative-strategy
+      - cbo-mastery
+      - data-mastery
+      - scaling-campaigns
+    speakers:
+      primary: "Depesh Mandalia"
+
+  - id: "FAATT"
+    name: "The FAATT Framework"
+    type: "COURSE"
+    files: 35
+    elements: 10
+    weight: 1.0
+    extraction_date: "2026-03-27"
+    raiz: "knowledge/external/sources/depesh-mandalia/raw/the-faatt-framework/"
+    domains:
+      - attribution-tracking
+      - data-mastery
+      - facebook-ads
+    speakers:
+      primary: "Depesh Mandalia"

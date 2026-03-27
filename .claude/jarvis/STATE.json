@@ -1,17 +1,17 @@
 {
-  "version": "2.6.0",
-  "updated_at": "2026-03-26T21:00:00Z",
+  "version": "2.7.0",
+  "updated_at": "2026-03-27T12:00:00Z",
   "system": {
     "status": "OPERATIONAL",
     "health_score": 100,
     "health_label": "EXCELLENT"
   },
   "knowledge_base": {
-    "sources_total": 36,
-    "dna_persons_total": 36,
-    "agents_person": 36,
+    "sources_total": 37,
+    "dna_persons_total": 37,
+    "agents_person": 37,
     "agents_cargo": 15,
-    "agents_total": 51,
+    "agents_total": 52,
     "inbox_pending": 0,
     "agg_files": 15
   },
@@ -242,7 +242,12 @@
       "elements": 396,
       "layers": "L1:78 L2:70 L3:108 L4:80 L5:60",
       "sources_count": 9,
-      "cargo_enriched": ["CRO", "CMO", "CLOSER", "Sales Manager"],
+      "cargo_enriched": [
+        "CRO",
+        "CMO",
+        "CLOSER",
+        "Sales Manager"
+      ],
       "note": "9 fontes incl. CIL. AGG-VENDAS v32, AGG-COPYWRITING v34, AGG-TRAFFIC v13, AGG-OFFERS v23."
     },
     "jeremy-haynes": {
@@ -442,6 +447,21 @@
       "elements": 105,
       "sources_count": 1,
       "note": "Stage Academy (42 files). Communication mastery."
+    },
+    "depesh-mandalia": {
+      "status": "COMPLETE",
+      "dna": true,
+      "agent": true,
+      "dna_version": 1,
+      "elements": 105,
+      "layers": "L1:35 L2:20 L3:25 L4:15 L5:10",
+      "sources_count": 5,
+      "cargo_enriched": [
+        "CMO",
+        "Media Buyer",
+        "Paid Media Specialist"
+      ],
+      "note": "5 fontes: 7FFAP+BPM+BPMFA+7FMAP+FAATT (707 files). BPM Method creator. AGG-TRAFFIC v15, AGG-COPYWRITING v36."
     }
   },
   "agg_files": [
@@ -525,7 +545,7 @@
     "is_active": true
   },
   "next_action": {
-    "description": "Todas as 36 fontes completas (36 agents). Aguardando nova missão.",
+    "description": "37 fontes completas (37 agents). Depesh Mandalia processado (2026-03-27). Aguardando nova missão.",
     "options": [
       "Ingerir novo especialista/programa → /jarvis-full [material]",
       "Consulta estratégica → /conclave ou /ask",
@@ -533,9 +553,9 @@
     ]
   },
   "mis": {
-    "session_id": "SESSION-2026-03-26-001",
-    "prompt_count": 1,
+    "session_id": "",
+    "prompt_count": 9,
     "bracket": "FRESH",
-    "context_percent": 0.0
+    "context_percent": 93.2
   }
 }

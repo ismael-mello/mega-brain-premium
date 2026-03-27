@@ -1,0 +1,12 @@
+# Transcrição: 01-Controlling Auction Costs for Lower CPMs & Higher Conversions
+
+- **Fonte:** 01-Controlling Auction Costs for Lower CPMs & Higher Conversions
+- **Duração:** 01:43
+- **Idioma:** en
+- **Modelo:** small
+
+---
+
+## [00:00 - 01:43]
+
+So talking about the auction and trying to get the best performance for our ad campaigns to build stability, profitability and scalability, one of the things that we can influence and maybe not completely control are the costs within our campaigns. So going back to what our model of the auction looks like, we've been through the understanding of how the auction sees your campaigns and grades you. So the advertiser bid times estimated action rate, which is where your website is positioned in terms of performance, your account history, the data collected from the pixel and then the user value. And all of this goes into determining not just what kind of auctions you win, so the quality of the user, but also how much you pay as well. And there are things that you can do to reduce your CPMs. And that's what we're going to cover in this section. And the four main areas are your page scores. So that your fan page has a big impact on your CPMs. So we'll go through how to actually control and manipulate that through your page. Also your quality scores, and we'll talk about the quality signals that your campaign sends. And Insights gives you a great idea into what's happening behind your CPMs as well, because CPMs are also based on auction competition as much as your campaign performance and understanding what is and is not in your control. And then looking at campaign objectives and how important they are when it comes to profitability and scaling as well.

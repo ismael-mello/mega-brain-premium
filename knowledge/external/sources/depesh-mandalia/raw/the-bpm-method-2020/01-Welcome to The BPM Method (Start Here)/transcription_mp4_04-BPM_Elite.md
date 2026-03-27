@@ -1,0 +1,12 @@
+# Transcrição: 04-BPM Elite
+
+- **Fonte:** 04-BPM Elite
+- **Duração:** 02:29
+- **Idioma:** en
+- **Modelo:** small
+
+---
+
+## [00:00 - 02:29]
+
+Hey, this is Deepesh and this video is to explain the BPM method elite accelerator program, which is an upgrade on the BPM method online training program. So the elite accelerator program is taking the online training, but also adding my team and myself there to support you. The elite accelerator is about getting faster results and also enabling bigger impact on your business because we are going to be there every week giving you feedback, helping you troubleshoot, helping you to understand the material a lot faster as well. This is designed for people that want faster results and people that want support through it. So some people are absolutely okay on a DIY do it yourself training program and to learn at their own pace and that's absolutely fine. Others want to learn, but they want the access to the people that understand it better to learn faster. So for example, if you're in a phase right now where you're in the BPM method program and you want to apply this fast and avoid all the pitfalls of falling over, learning, relearning, reapplying, then that's what the accelerator program is all about. So it's for people that want faster results and we will be there to support you. So what you can expect and the support available is we'll be there on weekly Q&A calls and we'll be there supporting you with guest experts, with monthly mastermind and giving you access to myself and my team to be able to get those results faster. So what's up next? If you are in Elite, there's a link below to join the Facebook group. In the Facebook group, we'll be posting the Zoom video calls for you to join for Q&A and coaching and for those that are interested in BPM method Elite and you're not in it yet, there's a link to book a call with us where you can speak to myself or my team to find out more and see if this program is right for you as well. So if you're already in Elite, go ahead and join the group. If you've joined the group already, then you're pretty much there. That's the space where everything exists. So we'll be posting live calls, we'll be sharing our guest experts. The guest experts will be in the group. We'll do all our Facebook lives published from Zoom or a similar program into the Facebook group as well. So everything's in that private group, which is specifically for those on the Elite Accelerator Program.
