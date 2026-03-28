@@ -32,10 +32,10 @@
 # ═══════════════════════════════════════════════════════════════════════════════
 
 dominio: "offers"
-versao: "25.0.0"  # Grant Cardone added (peso 0.75, 40 offer elements). Pricing psychology (payment breakdown closes), budget closes, price justification (ROI framing), offer urgency (massive action urgency), 10X value positioning, conviction-based offer presentation.
-total_elementos: 1303
+versao: "26.0.0"  # Gary Bencivenga added (peso 0.80, 35 offer elements). Joseph Siegel Method (shopping for proof elements, not products — Franklin Mint model), Magic Wand Technique (premium as hero), Zeigarnik Effect for recurring revenue (collections), Hot Hand Strategy (shell product for serial proof elements), Product Evaluation via Persuasion Equation (4-step product test), Product Naming Rules (Hopkins), King Gillette Annuity Model (handle/blade), blockbuster proof element procurement.
+total_elementos: 1338
 criado_em: "2026-01-10T19:30:00Z"
-atualizado_em: "2026-03-27"
+atualizado_em: "2026-03-28"
 
 # ═══════════════════════════════════════════════════════════════════════════════
 # FONTES CONSOLIDADAS COM PESOS POR DOMÍNIO
@@ -233,6 +233,15 @@ fontes_consolidadas:
     fontes_incluidas:
       - "Grant Cardone Sales Training (40 offer-relevant elementos — pricing psychology, budget closes, payment breakdown, ROI framing, urgency creation, conviction-based offer presentation)"
     nota: "Added 2026-03-27. Grant Cardone's offer contribution is CLOSING-INTEGRATED — how to present and close offers through conviction and price psychology. Payment breakdown closes (reduce perceived price to daily cost), budget closes (reframe 'can't afford' to 'can't afford NOT to'), and 10X value positioning (anchor perceived value at 10X price). Complements Hormozi (Grand Slam value equation), Brown (offer engineering), and Brunson (offer stacking) with GC's conviction-based offer closing methodology."
+
+  - fonte: "gary-bencivenga"
+    peso_dominio: 0.80
+    path: "/knowledge/external/dna/persons/gary-bencivenga/"
+    contribuicao_principal: "Joseph Siegel Method (shopping for proof elements, not products — find passionate fan base + exclusive endorsement + trademark protection + recurring revenue), Magic Wand Technique (premium as hero — create premium that makes offer irresistible), Zeigarnik Effect for recurring revenue (collections/series trigger completion drive), Hot Hand Strategy (shell product that harnesses others' proof elements serially), Product Evaluation via Persuasion Equation (4-step product test before launching), Product Naming Rules (Hopkins — name must contain benefit), King Gillette Annuity Model (give away handle, sell blades — lifetime customers), blockbuster proof element procurement"
+    elementos_relevantes: 35
+    fontes_incluidas:
+      - "7 Master Secrets of Wealth Creation (35 offer-relevant elementos — product creation, premium strategy, recurring revenue, annuity models, proof element procurement, naming strategy)"
+    nota: "Added 2026-03-28. Gary Bencivenga's offer contribution is PRODUCT CREATION via proof elements — not just packaging (Hormozi), but FINDING/CREATING the product by identifying what proof elements exist in the marketplace and building around them. Joseph Siegel built the Franklin Mint (billions in revenue) by shopping for proof elements (passionate fan bases + exclusive endorsement), not products. The Zeigarnik Effect (completion drive) creates automatic recurring revenue via collections. The Magic Wand Technique inverts the product-premium relationship — make the premium the hero. King Gillette Model creates lifetime customers through initial giveaway. Complements Hormozi (value equation), Brown (offer engineering), and Brunson (stacking) with the proof-first PRODUCT CREATION layer."
 
 # ═══════════════════════════════════════════════════════════════════════════════
 # FILOSOFIAS CONSOLIDADAS (Cross-Source)
