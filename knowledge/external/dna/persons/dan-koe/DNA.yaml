@@ -1,0 +1,1548 @@
+# ============================================================================
+# DNA COGNITIVO — DAN KOE
+# ============================================================================
+# Versão:    v1.0.0
+# Elementos: 210
+# Fontes:    1 (The 2 Hour Writer)
+# Atualizado: 2026-03-28
+# Próximos IDs: FIL-DK-042, MM-DK-037, HEUR-DK-052, FW-DK-047, MET-DK-036
+# ============================================================================
+
+metadata:
+  person: "Dan Koe"
+  version: "1.0.0"
+  total_elements: 210
+  sources:
+    - code: "2HW"
+      name: "The 2 Hour Writer"
+      files: 46
+      size_kb: 484
+      type: "course"
+  layers_count:
+    L1_PHILOSOPHIES: 41
+    L2_MENTAL_MODELS: 36
+    L3_HEURISTICS: 51
+    L4_FRAMEWORKS: 46
+    L5_METHODOLOGIES: 36
+  domains:
+    - content-creation
+    - writing
+    - personal-branding
+    - twitter-growth
+    - newsletter-marketing
+    - audience-building
+    - content-strategy
+    - persuasion
+    - copywriting
+    - networking
+    - monetization
+    - lifestyle-design
+    - creativity
+    - productivity
+    - self-development
+    - social-media
+    - email-marketing
+    - offer-creation
+    - sales
+    - content-repurposing
+    - idea-generation
+    - attention-psychology
+    - community-building
+    - digital-leverage
+
+layers:
+
+  # ==========================================================================
+  # L1 — PHILOSOPHIES (41 elements)
+  # ==========================================================================
+  L1_PHILOSOPHIES:
+
+    - id: "FIL-DK-001"
+      title: "Writing Is the Foundation of All Digital Media"
+      description: "Every form of digital content — video, podcast, course, tweet — starts with writing. Writing is the meta-skill that underpins all creator output. Master writing and you master the ability to communicate in any medium."
+      domains: [content-creation, writing, digital-leverage]
+      source: "2HW"
+      confidence: 0.95
+
+    - id: "FIL-DK-002"
+      title: "Value-First Attraction Model"
+      description: "You attract an audience by giving value first, not by asking for attention. Create content that solves problems, shares perspectives, and delivers insight. The audience grows as a byproduct of consistent value delivery."
+      domains: [audience-building, content-strategy, personal-branding]
+      source: "2HW"
+      confidence: 0.95
+
+    - id: "FIL-DK-003"
+      title: "Ego-Free Writing"
+      description: "Typos don't matter, impact does. Stop obsessing over perfection and start obsessing over resonance. The writer who ships imperfect work that moves people beats the perfectionist who never publishes."
+      domains: [writing, creativity, productivity]
+      source: "2HW"
+      confidence: 0.90
+
+    - id: "FIL-DK-004"
+      title: "Learn Through Experience Not Consumption"
+      description: "Reading 100 books on writing without writing is useless. Knowledge is only valuable when applied. The fastest path to mastery is doing, failing, adjusting, and doing again — not consuming more content."
+      domains: [self-development, productivity, creativity]
+      source: "2HW"
+      confidence: 0.95
+
+    - id: "FIL-DK-005"
+      title: "Audience-First Monetization"
+      description: "Build readers first, then build anything on top. An audience is the most valuable asset a creator can own. Once you have attention and trust, you can monetize through products, services, or partnerships."
+      domains: [audience-building, monetization, content-strategy]
+      source: "2HW"
+      confidence: 0.95
+
+    - id: "FIL-DK-006"
+      title: "Creator Evolution Pattern"
+      description: "Start with education content, earn creative freedom over time. Every creator begins by teaching what they know, building authority, then gradually expanding into broader topics as their audience trusts them."
+      domains: [personal-branding, content-strategy, self-development]
+      source: "2HW"
+      confidence: 0.90
+
+    - id: "FIL-DK-007"
+      title: "Your Niche Is You"
+      description: "Authenticity removes saturation. No one can compete with you being you. Your unique combination of interests, experiences, and perspective IS the niche. Stop searching for a niche and start expressing yourself."
+      domains: [personal-branding, content-creation, audience-building]
+      source: "2HW"
+      confidence: 0.95
+
+    - id: "FIL-DK-008"
+      title: "Content as Your Map of Reality"
+      description: "Your content is a documentation of your worldview over 3-5 years. It reflects how you make sense of the world. Readers follow you because your map resonates with where they want to go."
+      domains: [content-strategy, writing, personal-branding]
+      source: "2HW"
+      confidence: 0.90
+
+    - id: "FIL-DK-009"
+      title: "The Sense-Maker Role"
+      description: "Your job as a creator is to make sense of life to people who understand you. You are not an expert dispensing truth — you are a fellow traveler organizing chaos into clarity for your specific audience."
+      domains: [content-creation, audience-building, writing]
+      source: "2HW"
+      confidence: 0.95
+
+    - id: "FIL-DK-010"
+      title: "Domain of Mastery as Self-Development Vessel"
+      description: "Your Domain of Mastery is not just a business strategy — it's a vehicle for personal growth. By teaching what you're learning, you deepen your own understanding and evolve faster than passive consumers."
+      domains: [self-development, personal-branding, content-strategy]
+      source: "2HW"
+      confidence: 0.90
+
+    - id: "FIL-DK-011"
+      title: "Creativity Requires Rest Not Constant Hustle"
+      description: "The Default Mode Network (DMN) — active during rest, walks, and daydreaming — is where creative breakthroughs happen. Constant hustle keeps you in Task Positive Network (TPN) which executes but doesn't innovate."
+      domains: [creativity, productivity, lifestyle-design]
+      source: "2HW"
+      confidence: 0.95
+
+    - id: "FIL-DK-012"
+      title: "Digital Writing as Creativity-Productivity Balance"
+      description: "Great digital writing requires two modes: creative exploration (idea generation, connection-making) and productive execution (writing, editing, publishing). Neither alone is sufficient — you need both in rhythm."
+      domains: [writing, creativity, productivity]
+      source: "2HW"
+      confidence: 0.90
+
+    - id: "FIL-DK-013"
+      title: "Don't Consume, Research"
+      description: "Consumption is passive and aimless. Research is intentional learning with a purpose. When you read a book, do it with questions in mind. When you watch a video, extract specific insights. Always consume with creative intent."
+      domains: [creativity, productivity, self-development]
+      source: "2HW"
+      confidence: 0.95
+
+    - id: "FIL-DK-014"
+      title: "Creator Economy Like EDM"
+      description: "Just as EDM artists remix existing music to create something new, creators remix existing ideas through their unique lens. Originality isn't inventing from nothing — it's connecting existing ideas in ways only you can."
+      domains: [content-creation, creativity, idea-generation]
+      source: "2HW"
+      confidence: 0.85
+
+    - id: "FIL-DK-015"
+      title: "Newsletter Supremacy Over Sales Funnels"
+      description: "A newsletter is 10x more effective than traditional sales funnels. It builds trust, delivers value, and creates a direct relationship with readers. The newsletter IS the funnel — education leads to conversion naturally."
+      domains: [newsletter-marketing, email-marketing, monetization]
+      source: "2HW"
+      confidence: 0.90
+
+    - id: "FIL-DK-016"
+      title: "DMs Are Priority Number One for Growth"
+      description: "Direct messages are the most underutilized growth tool on social media. Genuine conversations in DMs build real relationships that translate into followers, collaborators, and customers far more than any broadcast content."
+      domains: [networking, audience-building, twitter-growth]
+      source: "2HW"
+      confidence: 0.90
+
+    - id: "FIL-DK-017"
+      title: "Persuasion Amplifies Every Skill"
+      description: "Persuasion is a meta-skill that makes every other skill more effective. A great writer who understands persuasion will always outperform a great writer who doesn't. Persuasion is the multiplier on all communication."
+      domains: [persuasion, copywriting, writing]
+      source: "2HW"
+      confidence: 0.95
+
+    - id: "FIL-DK-018"
+      title: "Persuasion Is Ethical Value Exchange"
+      description: "Persuasion is not manipulation. Ethical persuasion is about communicating the value of what you offer so clearly that the other person can make an informed decision. It's helping people see what's in their best interest."
+      domains: [persuasion, sales, copywriting]
+      source: "2HW"
+      confidence: 0.90
+
+    - id: "FIL-DK-019"
+      title: "Humans Are Emotional Not Logical"
+      description: "People make decisions emotionally and justify them logically. All persuasion, all content, all sales must first connect with emotion before presenting logic. Lead with feeling, support with reason."
+      domains: [persuasion, attention-psychology, copywriting]
+      source: "2HW"
+      confidence: 0.95
+
+    - id: "FIL-DK-020"
+      title: "Confidence and Conviction as Ultimate Persuasion"
+      description: "Everyone on social media wants to be told what to do with confidence. The creator who speaks with conviction — even on simple topics — will always attract more followers than the hesitant expert with better information."
+      domains: [persuasion, personal-branding, audience-building]
+      source: "2HW"
+      confidence: 0.95
+
+    - id: "FIL-DK-021"
+      title: "People Remember Feeling Not Information"
+      description: "People don't remember what you say, they remember how you made them feel. Craft content that evokes emotion — inspiration, curiosity, urgency, belonging — and your ideas will stick far longer than pure information."
+      domains: [attention-psychology, writing, persuasion]
+      source: "2HW"
+      confidence: 0.90
+
+    - id: "FIL-DK-022"
+      title: "High-Ticket Services Over Info Products for Wealth"
+      description: "Selling high-ticket services ($1,500-$10,000+) is the fastest and most sustainable path to real income for creators. Info products are a volume game that requires massive audiences. Services require only a handful of clients."
+      domains: [monetization, sales, offer-creation]
+      source: "2HW"
+      confidence: 0.90
+
+    - id: "FIL-DK-023"
+      title: "Scarcity Plus Urgency Equals Conversion"
+      description: "Without scarcity and urgency, people will 'think about it' forever. Limited time, limited spots, limited access — these are not manipulation tactics but necessary structure that helps people make decisions."
+      domains: [sales, persuasion, monetization]
+      source: "2HW"
+      confidence: 0.90
+
+    - id: "FIL-DK-024"
+      title: "Email Ownership Philosophy"
+      description: "You own your email CSV — you can't download your followers. Social media platforms can change algorithms, ban accounts, or shut down. Your email list is the only audience asset you truly own."
+      domains: [email-marketing, newsletter-marketing, audience-building]
+      source: "2HW"
+      confidence: 0.95
+
+    - id: "FIL-DK-025"
+      title: "Long-Form as the Foundation"
+      description: "The newsletter is the cornerstone of all content. Write long-form first, then break it down into medium-form threads and short-form tweets. Long-form thinking produces the depth that makes short-form powerful."
+      domains: [newsletter-marketing, content-strategy, writing]
+      source: "2HW"
+      confidence: 0.95
+
+    - id: "FIL-DK-026"
+      title: "Twitter as Strategic Foundation"
+      description: "Twitter is the optimal starting platform for writers because it forces concision, rewards ideas, and has the best networking dynamics. Master Twitter first, then expand to other platforms with proven content."
+      domains: [twitter-growth, social-media, content-strategy]
+      source: "2HW"
+      confidence: 0.90
+
+    - id: "FIL-DK-027"
+      title: "One Year Minimum on One Platform"
+      description: "Commit to a single platform for at least one year before considering expansion. Spreading across multiple platforms too early dilutes your effort and prevents you from learning the nuances of any single one."
+      domains: [social-media, content-strategy, productivity]
+      source: "2HW"
+      confidence: 0.90
+
+    - id: "FIL-DK-028"
+      title: "Imitate Then Innovate"
+      description: "Every great creator started by imitating those they admired. Imitation is not plagiarism — it's learning the patterns that work. Once you've internalized the patterns, your unique voice naturally emerges."
+      domains: [writing, creativity, content-creation]
+      source: "2HW"
+      confidence: 0.95
+
+    - id: "FIL-DK-029"
+      title: "Stop Searching for Passion, Cultivate It"
+      description: "Passion is not found — it's cultivated through engagement with life itself. Stop waiting for a lightning bolt of passion and start getting interested in the process of creation, learning, and growth."
+      domains: [self-development, lifestyle-design, creativity]
+      source: "2HW"
+      confidence: 0.90
+
+    - id: "FIL-DK-030"
+      title: "Spirituality in Business"
+      description: "Spirituality plays a greater role in business success than most acknowledge. Self-awareness, presence, detachment from ego, and connection to purpose are practical business advantages, not just woo-woo concepts."
+      domains: [self-development, lifestyle-design, personal-branding]
+      source: "2HW"
+      confidence: 0.80
+
+    - id: "FIL-DK-031"
+      title: "Voice Develops Through Library Building"
+      description: "Your unique voice is not something you discover in a moment of inspiration. It develops over time as you build a personal library of ideas, references, and perspectives that compound into a distinctive worldview."
+      domains: [writing, personal-branding, creativity]
+      source: "2HW"
+      confidence: 0.90
+
+    - id: "FIL-DK-032"
+      title: "Everything Is Connectable"
+      description: "Nothing is truly unrelated. The ability to connect seemingly disparate ideas — fitness and business, philosophy and marketing, neuroscience and creativity — is what makes content unique and valuable."
+      domains: [creativity, idea-generation, content-creation]
+      source: "2HW"
+      confidence: 0.90
+
+    - id: "FIL-DK-033"
+      title: "Writing Is Making Sense Not Being Fancy"
+      description: "Good writing is not about impressive vocabulary or complex sentence structures. It's about making sense — taking complicated ideas and expressing them so clearly that anyone can understand and apply them."
+      domains: [writing, content-creation, copywriting]
+      source: "2HW"
+      confidence: 0.95
+
+    - id: "FIL-DK-034"
+      title: "Income Scales Predictably with Audience"
+      description: "Creator income scales at approximately $0.50-$1 per follower per month. This is a predictable, repeatable pattern. 10K followers = $5K-$10K/month potential. Focus on growing audience and the money follows."
+      domains: [monetization, audience-building, digital-leverage]
+      source: "2HW"
+      confidence: 0.85
+
+    - id: "FIL-DK-035"
+      title: "Anti-Saturation Through Uniqueness"
+      description: "The fear of saturation is an illusion. Saturation only exists at the surface level of generic advice. The deeper you go into your unique combination of interests and experiences, the less competition you face."
+      domains: [personal-branding, content-strategy, audience-building]
+      source: "2HW"
+      confidence: 0.90
+
+    - id: "FIL-DK-036"
+      title: "Teaching as Accelerated Learning"
+      description: "When you teach what you learn, you understand it 10x faster. The act of organizing ideas for others forces clarity of thought. Creators who teach are not pretending to be experts — they are becoming experts in real time."
+      domains: [self-development, content-creation, writing]
+      source: "2HW"
+      confidence: 0.90
+
+    - id: "FIL-DK-037"
+      title: "Social Media as Meritocratic Opportunity"
+      description: "Social media is the most meritocratic opportunity in history. Your ideas compete on equal footing regardless of credentials, background, or connections. Quality and consistency are the only barriers to entry."
+      domains: [social-media, digital-leverage, audience-building]
+      source: "2HW"
+      confidence: 0.85
+
+    - id: "FIL-DK-038"
+      title: "One Person Business as Ideal Model"
+      description: "The solo creator with digital leverage — content, products, automation — can generate outsized income without employees, offices, or traditional business overhead. Technology makes one-person empires possible."
+      domains: [monetization, lifestyle-design, digital-leverage]
+      source: "2HW"
+      confidence: 0.85
+
+    - id: "FIL-DK-039"
+      title: "Writing Compounds Across Time"
+      description: "Every piece of content you publish becomes a permanent asset. A tweet written today can attract followers years from now. A newsletter builds a searchable archive. Writing is the ultimate compounding asset."
+      domains: [writing, content-strategy, digital-leverage]
+      source: "2HW"
+      confidence: 0.90
+
+    - id: "FIL-DK-040"
+      title: "Negativity Bias Is a Tool Not an Enemy"
+      description: "The human brain pays more attention to negative stimuli than positive. This is not something to fight — it's something to ethically leverage in hooks, headlines, and content framing to capture attention before delivering value."
+      domains: [attention-psychology, persuasion, copywriting]
+      source: "2HW"
+      confidence: 0.85
+
+    - id: "FIL-DK-041"
+      title: "Gradual System Implementation"
+      description: "Don't try to build the perfect system on day one. Start with the minimum viable version of each system, then iterate and improve as you learn what works. Perfectionism in systems kills execution."
+      domains: [productivity, creativity, lifestyle-design]
+      source: "2HW"
+      confidence: 0.85
+
+  # ==========================================================================
+  # L2 — MENTAL MODELS (36 elements)
+  # ==========================================================================
+  L2_MENTAL_MODELS:
+
+    - id: "MM-DK-001"
+      title: "Levels of Awareness"
+      description: "Five tiers of audience awareness: (1) Unaware — doesn't know the problem exists, (2) Problem Aware — knows the problem but not solutions, (3) Solution Aware — knows solutions exist but not yours, (4) Product Aware — knows your product but hasn't bought, (5) Most Aware — knows you and is ready to buy. All content must target the correct level."
+      domains: [persuasion, audience-building, content-strategy]
+      source: "2HW"
+      confidence: 0.95
+
+    - id: "MM-DK-002"
+      title: "Social Leverage Pyramid"
+      description: "Three pillars stack to create social leverage: Growth (reach, distribution, followers), Authority (expertise, proof, credibility), and Authenticity (unique voice, genuine perspective, relatability). Missing any one pillar creates an unstable creator business."
+      domains: [personal-branding, audience-building, digital-leverage]
+      source: "2HW"
+      confidence: 0.90
+
+    - id: "MM-DK-003"
+      title: "Default Mode Network vs Task Positive Network"
+      description: "The brain has two competing networks: DMN activates during rest, daydreaming, walks — it's where creative insights emerge. TPN activates during focused work — it's where execution happens. Great creators alternate between both intentionally."
+      domains: [creativity, productivity, attention-psychology]
+      source: "2HW"
+      confidence: 0.95
+
+    - id: "MM-DK-004"
+      title: "Stars as Ideas / Connecting Dots"
+      description: "Ideas are like stars in a sky. The more you read, experience, and think, the more stars you have. Creativity is the act of connecting dots (stars) that others haven't connected. A richer idea library means more unique connections."
+      domains: [creativity, idea-generation, writing]
+      source: "2HW"
+      confidence: 0.90
+
+    - id: "MM-DK-005"
+      title: "The Interest Iceberg"
+      description: "Every interest runs deeper than it appears on the surface. What looks like a simple topic (fitness, writing, cooking) has layers of psychology, philosophy, science, and application beneath it. Great content explores below the waterline."
+      domains: [content-creation, idea-generation, writing]
+      source: "2HW"
+      confidence: 0.85
+
+    - id: "MM-DK-006"
+      title: "Perspective as Goal-Shaped Worldview"
+      description: "Your perspective is your worldview shaped by your goals. Two people can look at the same situation and see entirely different things based on where they're trying to go. Content is powerful when it reveals a perspective others haven't considered."
+      domains: [content-creation, personal-branding, writing]
+      source: "2HW"
+      confidence: 0.90
+
+    - id: "MM-DK-007"
+      title: "Intelligent Imitation System"
+      description: "Structured approach to learning from creators you admire: (1) Study their hooks, (2) Analyze their structures, (3) Identify recurring patterns, (4) Adapt patterns to your voice, (5) Filter through your unique perspective. Not copying — pattern extraction."
+      domains: [writing, content-creation, creativity]
+      source: "2HW"
+      confidence: 0.90
+
+    - id: "MM-DK-008"
+      title: "Challenge-Skill Balance for Flow"
+      description: "Flow state occurs when challenge slightly exceeds current skill level. Too easy = boredom. Too hard = anxiety. For writers, this means gradually increasing complexity of topics and formats to stay in the creative zone."
+      domains: [creativity, productivity, self-development]
+      source: "2HW"
+      confidence: 0.90
+
+    - id: "MM-DK-009"
+      title: "Brainstorm-Rest-Aha Cycle"
+      description: "Creative breakthroughs follow a predictable cycle: (1) Brainstorm intensely — load the problem into your mind, (2) Rest — step away and let DMN process, (3) Aha moment — insight emerges during walk, shower, or relaxation. You can't force step 3 without steps 1-2."
+      domains: [creativity, productivity, idea-generation]
+      source: "2HW"
+      confidence: 0.90
+
+    - id: "MM-DK-010"
+      title: "Attention Splitting (6 Drains)"
+      description: "Human attention is split across 6 competing drains: notifications, social feeds, email, conversations, internal thoughts, and environmental stimuli. Effective content must be compelling enough to win against all six simultaneously."
+      domains: [attention-psychology, content-creation, writing]
+      source: "2HW"
+      confidence: 0.85
+
+    - id: "MM-DK-011"
+      title: "Scientific Method for Knowledge Work"
+      description: "Apply the scientific method to content creation: (1) Observe patterns in your domain, (2) Form a hypothesis (content idea), (3) Test it (publish), (4) Analyze results (engagement data), (5) Refine and repeat. Content creation is experimentation."
+      domains: [content-strategy, productivity, creativity]
+      source: "2HW"
+      confidence: 0.85
+
+    - id: "MM-DK-012"
+      title: "Quote as Compressed Depth"
+      description: "A great quote is compressed depth — an entire philosophy or framework distilled into one sentence. Learning to dissect quotes (expand the compression) is one of the fastest ways to generate content ideas and develop thinking."
+      domains: [writing, idea-generation, creativity]
+      source: "2HW"
+      confidence: 0.85
+
+    - id: "MM-DK-013"
+      title: "States vs Stages (Wilber Reference)"
+      description: "Borrowed from Ken Wilber: States are temporary experiences (flow, inspiration, clarity). Stages are permanent developmental levels (beginner, intermediate, advanced). Content should help readers convert temporary states into permanent stages."
+      domains: [self-development, content-strategy, audience-building]
+      source: "2HW"
+      confidence: 0.80
+
+    - id: "MM-DK-014"
+      title: "Evolution Cycle"
+      description: "Creators evolve through a cycle: reach a new stage → teach that stage to others → evolve to the next stage → the previous stage becomes 'saturated' to you but new to your audience. This natural desaturation drives creative evolution."
+      domains: [personal-branding, content-strategy, self-development]
+      source: "2HW"
+      confidence: 0.85
+
+    - id: "MM-DK-015"
+      title: "Three-Point Content Ecosystem"
+      description: "All content exists in three formats: Long-form (newsletter, blog — deep exploration), Medium-form (threads, videos — structured expansion), Short-form (tweets, reels — compressed hooks). Each feeds the others in a cycle."
+      domains: [content-strategy, content-repurposing, writing]
+      source: "2HW"
+      confidence: 0.95
+
+    - id: "MM-DK-016"
+      title: "PPP Framework (Pull, Perspective, Punchline)"
+      description: "Every piece of content needs three elements: Pull (hook that stops the scroll), Perspective (unique angle or insight), Punchline (memorable conclusion or takeaway). Missing any element weakens the content."
+      domains: [writing, content-creation, copywriting]
+      source: "2HW"
+      confidence: 0.90
+
+    - id: "MM-DK-017"
+      title: "Value Ladder"
+      description: "Monetization follows a ladder: Free content (tweets, newsletter) → Low ticket ($10-$50 ebooks, templates) → Mid ticket ($100-$500 courses) → High ticket ($1,500-$10,000+ coaching/services). Each rung builds trust for the next."
+      domains: [monetization, offer-creation, sales]
+      source: "2HW"
+      confidence: 0.90
+
+    - id: "MM-DK-018"
+      title: "Transformation Framework (Before-Middle-After)"
+      description: "All compelling content follows the transformation arc: Before (current pain/situation), Middle (the insight/shift/process), After (desired outcome). This maps to storytelling, sales copy, and educational content equally."
+      domains: [writing, copywriting, persuasion]
+      source: "2HW"
+      confidence: 0.90
+
+    - id: "MM-DK-019"
+      title: "Content Consumption-Creation Loop"
+      description: "Consumption and creation form a virtuous loop: consume with intent → extract insights → create content → get feedback → refine understanding → consume more intentionally. Breaking this loop (consuming without creating) wastes knowledge."
+      domains: [content-creation, creativity, productivity]
+      source: "2HW"
+      confidence: 0.85
+
+    - id: "MM-DK-020"
+      title: "Tweet Structure Hierarchy"
+      description: "Tweets have a hierarchy of effectiveness: One-liners (fast, high volume, low depth) → Listicles (high engagement, easy to consume) → Stories (high connection, medium effort) → Threads (highest authority, highest effort). Use all levels strategically."
+      domains: [twitter-growth, writing, content-strategy]
+      source: "2HW"
+      confidence: 0.85
+
+    - id: "MM-DK-021"
+      title: "Engagement Group Strategy"
+      description: "Small groups of 5-7 aligned creators who mutually engage with each other's content. This creates early momentum on posts, signals the algorithm, and builds genuine creative relationships. Quality over quantity — max 7 people."
+      domains: [twitter-growth, community-building, networking]
+      source: "2HW"
+      confidence: 0.85
+
+    - id: "MM-DK-022"
+      title: "Profile Optimization Hierarchy"
+      description: "Your social profile is a landing page. Optimization hierarchy: (1) Profile photo (trust), (2) Bio (clarity of value), (3) Pinned post (proof), (4) Banner (visual identity), (5) Recent content (consistency). Each element must convert profile visitors to followers."
+      domains: [twitter-growth, personal-branding, social-media]
+      source: "2HW"
+      confidence: 0.90
+
+    - id: "MM-DK-023"
+      title: "Growth Phase Optimization"
+      description: "Different strategies for different follower counts: 0-1K (engagement, networking, DMs), 1K-5K (threads, collaborations, consistency), 5K-10K (newsletter launch, first product), 10K+ (leverage, repurposing, scaling). What works at one phase fails at another."
+      domains: [twitter-growth, audience-building, content-strategy]
+      source: "2HW"
+      confidence: 0.90
+
+    - id: "MM-DK-024"
+      title: "Persuasion Funnel (Low to High Commitment)"
+      description: "Persuasion works on a spectrum of commitment: Like (lowest) → Comment → Follow → Subscribe → Click link → Free download → Low purchase → High purchase (highest). Never ask for high commitment before building through low commitment first."
+      domains: [persuasion, sales, audience-building]
+      source: "2HW"
+      confidence: 0.90
+
+    - id: "MM-DK-025"
+      title: "Problem-Solution Architecture"
+      description: "Six-step problem-solution flow: (1) Identify the problem, (2) Agitate the pain, (3) Present the solution concept, (4) Prove it works, (5) Show the path, (6) Call to action. This architecture underlies all effective educational and sales content."
+      domains: [copywriting, persuasion, content-creation]
+      source: "2HW"
+      confidence: 0.90
+
+    - id: "MM-DK-026"
+      title: "APAG Framework"
+      description: "Content structure for maximum impact: Attention (hook that stops scroll), Perspective (unique angle that reframes), Advantage (why this matters to reader's goals), Gamify (make it actionable and engaging). Use for any content format."
+      domains: [content-creation, writing, persuasion]
+      source: "2HW"
+      confidence: 0.90
+
+    - id: "MM-DK-027"
+      title: "Negativity Bias in Content"
+      description: "The human brain processes negative information faster and with more weight than positive. In content: 'Stop doing X' outperforms 'Start doing Y'. 'The problem with...' outperforms 'The solution is...'. Use ethically as attention tools."
+      domains: [attention-psychology, copywriting, content-creation]
+      source: "2HW"
+      confidence: 0.85
+
+    - id: "MM-DK-028"
+      title: "Ego Management (Feed vs Starve)"
+      description: "The ego wants validation, comparison, and status. Feeding ego (obsessing over metrics, comparing to others) kills creativity. Starving ego (focusing on value delivery, ignoring vanity metrics) fuels authentic growth."
+      domains: [self-development, creativity, personal-branding]
+      source: "2HW"
+      confidence: 0.85
+
+    - id: "MM-DK-029"
+      title: "Domain of Mastery Structure (3 Pillars)"
+      description: "Your Domain of Mastery has three pillars: (1) Topic expertise (what you know deeply), (2) Personal experience (what you've lived), (3) Audience resonance (what your people care about). Content lives at the intersection of all three."
+      domains: [personal-branding, content-strategy, self-development]
+      source: "2HW"
+      confidence: 0.90
+
+    - id: "MM-DK-030"
+      title: "Newsletter-First Writing Workflow"
+      description: "Write the newsletter first each week — it's the deepest thinking you'll do. Then extract medium-form (threads) and short-form (tweets) from it. This ensures depth feeds distribution, not the reverse."
+      domains: [newsletter-marketing, content-strategy, productivity]
+      source: "2HW"
+      confidence: 0.90
+
+    - id: "MM-DK-031"
+      title: "Visualization and Metaphor Development"
+      description: "Abstract concepts become memorable through concrete metaphors and visual language. 'Ideas are stars' is more memorable than 'ideas accumulate.' Developing a library of personal metaphors is a competitive advantage in writing."
+      domains: [writing, creativity, copywriting]
+      source: "2HW"
+      confidence: 0.85
+
+    - id: "MM-DK-032"
+      title: "The Sense-Maker Hierarchy"
+      description: "Creators operate at different sense-making levels: Curator (shares others' ideas) → Commentator (adds perspective to ideas) → Synthesizer (connects multiple ideas) → Originator (generates new frameworks). Higher levels command more authority and income."
+      domains: [personal-branding, content-creation, audience-building]
+      source: "2HW"
+      confidence: 0.85
+
+    - id: "MM-DK-033"
+      title: "Content Half-Life Model"
+      description: "Different content formats have different half-lives: Tweet (hours), Thread (days), Newsletter (weeks), Blog post (months-years), Course (years). Invest proportionally — long half-life content deserves more effort."
+      domains: [content-strategy, content-repurposing, digital-leverage]
+      source: "2HW"
+      confidence: 0.85
+
+    - id: "MM-DK-034"
+      title: "The Queue Mental Model"
+      description: "Ideas are perishable — they evaporate if not captured immediately. The Queue is a centralized capture system (Notion database) where every idea, quote, observation, and insight is stored for future use. Full Queue = never stuck on content."
+      domains: [idea-generation, productivity, content-creation]
+      source: "2HW"
+      confidence: 0.90
+
+    - id: "MM-DK-035"
+      title: "Horizontal and Vertical Questioning"
+      description: "Two directions for exploring any idea: Horizontal (what else relates to this? what parallel exists?) and Vertical (why does this matter? what's underneath this? what's the root cause?). Both generate unique content angles."
+      domains: [idea-generation, writing, creativity]
+      source: "2HW"
+      confidence: 0.85
+
+    - id: "MM-DK-036"
+      title: "The Compounding Creator Effect"
+      description: "Every piece of content, every follower, every email subscriber, every relationship compounds over time. Year 1 feels slow. Year 2 shows momentum. Year 3+ creates exponential returns. Most creators quit before the compounding kicks in."
+      domains: [audience-building, digital-leverage, content-strategy]
+      source: "2HW"
+      confidence: 0.90
+
+  # ==========================================================================
+  # L3 — HEURISTICS (51 elements)
+  # ==========================================================================
+  L3_HEURISTICS:
+
+    - id: "HEUR-DK-001"
+      title: "60% of Future Jobs Uncreated"
+      description: "60% of future jobs haven't been created yet. This means today's career advice is largely obsolete. Creators who build adaptable skills (writing, persuasion, audience-building) are best positioned for unknown futures."
+      domains: [digital-leverage, self-development, content-creation]
+      source: "2HW"
+      confidence: 0.80
+
+    - id: "HEUR-DK-002"
+      title: "1-Year Minimum Commitment for Writing"
+      description: "Commit to at least 1 year of consistent writing before evaluating results. Most people quit after 3-6 months, right before momentum builds. One year of daily practice transforms writing quality exponentially."
+      domains: [writing, productivity, self-development]
+      source: "2HW"
+      confidence: 0.90
+
+    - id: "HEUR-DK-003"
+      title: "10K Followers in 1 Year"
+      description: "10,000 followers is achievable in 1 year with consistent daily content, strategic engagement, and quality writing. This requires daily posting, 15-20 replies/day, and weekly threads minimum."
+      domains: [twitter-growth, audience-building, social-media]
+      source: "2HW"
+      confidence: 0.85
+
+    - id: "HEUR-DK-004"
+      title: "$0.50-$1 Per Follower Per Month"
+      description: "Creator income scales at approximately $0.50-$1 per follower per month with proper monetization. 10K followers = $5K-$10K/month. 50K followers = $25K-$50K/month. This is a validated benchmark across the creator economy."
+      domains: [monetization, audience-building, digital-leverage]
+      source: "2HW"
+      confidence: 0.85
+
+    - id: "HEUR-DK-005"
+      title: "Brain Processes 11 Million Bits Per Second"
+      description: "The brain processes 11 million bits of information per second, but the conscious mind handles only 10-50 bits/sec. This means 99.99% of processing is subconscious. Content must work at both conscious and subconscious levels."
+      domains: [attention-psychology, persuasion, writing]
+      source: "2HW"
+      confidence: 0.80
+
+    - id: "HEUR-DK-006"
+      title: "86 Billion Bits Lifetime Conscious Processing"
+      description: "Over a lifetime, you can only consciously process about 86 billion bits. This means every moment of attention is precious. Don't waste your audience's attention — make every sentence earn its place."
+      domains: [attention-psychology, writing, content-creation]
+      source: "2HW"
+      confidence: 0.75
+
+    - id: "HEUR-DK-007"
+      title: "Newsletter 10x More Effective Than Funnels"
+      description: "Newsletters are 10x more effective than traditional sales funnels for creator businesses. A newsletter builds trust over time through consistent value delivery, making the 'sale' feel natural rather than forced."
+      domains: [newsletter-marketing, email-marketing, monetization]
+      source: "2HW"
+      confidence: 0.85
+
+    - id: "HEUR-DK-008"
+      title: "90% of Social Media Users Are Beginners"
+      description: "90% of social media users are beginners in whatever topic you're teaching. This means beginner-level broad impactful advice reaches the largest audience. Start broad, go deep as your audience grows with you."
+      domains: [audience-building, content-strategy, social-media]
+      source: "2HW"
+      confidence: 0.85
+
+    - id: "HEUR-DK-009"
+      title: "6-12 Months Minimum for Network Results"
+      description: "Genuine networking takes 6-12 months minimum to produce tangible results. DMs sent today may lead to collaborations in 6 months. Play the long game — most quit after a few weeks of unanswered messages."
+      domains: [networking, audience-building, community-building]
+      source: "2HW"
+      confidence: 0.85
+
+    - id: "HEUR-DK-010"
+      title: "Start Broad, Go Deep Later"
+      description: "Begin with beginner-level broad advice that impacts the most people. As your audience grows, gradually increase specificity and depth. Starting too niche limits growth; starting broad builds the foundation for depth."
+      domains: [content-strategy, audience-building, personal-branding]
+      source: "2HW"
+      confidence: 0.90
+
+    - id: "HEUR-DK-011"
+      title: "Pattern Recognition Around Fundamentals"
+      description: "Pattern recognition revolves around fundamentals. The more you study different domains, the more you see that the same core principles (leverage, compounding, systems, psychology) repeat everywhere. Teach fundamentals with fresh angles."
+      domains: [creativity, content-creation, self-development]
+      source: "2HW"
+      confidence: 0.85
+
+    - id: "HEUR-DK-012"
+      title: "30-60 Minute Walks for Research"
+      description: "30-60 minute walks are optimal for research and creative thinking. Walking activates the DMN, allows subconscious processing, and reliably produces creative insights. Schedule walks as part of your creative process, not as breaks."
+      domains: [creativity, productivity, lifestyle-design]
+      source: "2HW"
+      confidence: 0.90
+
+    - id: "HEUR-DK-013"
+      title: "Rotate 5-10 Key Books"
+      description: "Rotate 5-10 key books in your Domain of Mastery, reading each 2-3 times. Deep re-reading of great books produces more insight than surface reading of many books. Each re-read reveals new layers as your understanding deepens."
+      domains: [self-development, creativity, idea-generation]
+      source: "2HW"
+      confidence: 0.85
+
+    - id: "HEUR-DK-014"
+      title: "30-30-4-30-2 Writing Schedule"
+      description: "Optimal newsletter writing schedule: 30 min outline + 30 min x 4 days writing + 30 min x 2 days editing. Total ~5 hours/week for a high-quality newsletter. Spread across the week to allow ideas to marinate."
+      domains: [newsletter-marketing, writing, productivity]
+      source: "2HW"
+      confidence: 0.85
+
+    - id: "HEUR-DK-015"
+      title: "Week-in-Advance Outline"
+      description: "Outline your newsletter one week in advance. This gives your subconscious a full week to process, connect ideas, and surface insights. Day-of outlining produces shallow content. Advance outlining produces deep content."
+      domains: [newsletter-marketing, writing, productivity]
+      source: "2HW"
+      confidence: 0.85
+
+    - id: "HEUR-DK-016"
+      title: "Lists Always Work"
+      description: "Listicle-format content consistently outperforms other formats for engagement. Post lists once every day or two. '7 ways to...', '5 mistakes...', '10 lessons...' — lists are scannable, shareable, and saveable."
+      domains: [content-creation, twitter-growth, writing]
+      source: "2HW"
+      confidence: 0.90
+
+    - id: "HEUR-DK-017"
+      title: "Every Bullet Point Is a Reason to Engage"
+      description: "In list content, every bullet point gives the reader another reason to engage (like, save, share, reply). More bullets = more hooks. A 10-item list has 10 chances to resonate — a paragraph has one."
+      domains: [writing, content-creation, twitter-growth]
+      source: "2HW"
+      confidence: 0.85
+
+    - id: "HEUR-DK-018"
+      title: "Engagement Groups Max 7 People"
+      description: "Keep engagement groups to a maximum of 7 people. Larger groups become unmanageable and lose authenticity. 5-7 creators of similar size and niche who genuinely engage is the sweet spot for mutual growth."
+      domains: [twitter-growth, community-building, networking]
+      source: "2HW"
+      confidence: 0.85
+
+    - id: "HEUR-DK-019"
+      title: "15-20 Replies Per Day Under 1K"
+      description: "For accounts under 1,000 followers, engage with 15-20 thoughtful replies per day on larger accounts in your niche. This is the primary growth mechanism at early stages — your content alone won't be discovered."
+      domains: [twitter-growth, audience-building, networking]
+      source: "2HW"
+      confidence: 0.90
+
+    - id: "HEUR-DK-020"
+      title: "Profile Clicks Over Likes as Metric"
+      description: "Profile clicks are a more valuable metric than likes. Likes mean someone agreed passively. Profile clicks mean someone was curious enough to investigate you — that's a potential follower. Optimize for curiosity, not agreement."
+      domains: [twitter-growth, social-media, audience-building]
+      source: "2HW"
+      confidence: 0.85
+
+    - id: "HEUR-DK-021"
+      title: "200-280 Characters Sweet Spot for Tweets"
+      description: "Tweets between 200-280 characters perform best. Short enough to read quickly, long enough to deliver substance. Under 100 chars feels empty. Over 280 gets cut off. The sweet spot maximizes readability and impact."
+      domains: [twitter-growth, writing, content-creation]
+      source: "2HW"
+      confidence: 0.85
+
+    - id: "HEUR-DK-022"
+      title: "Threads Get 3-5x More Reads"
+      description: "Twitter threads get 3-5x more reads than single tweets because the algorithm favors multi-tweet engagement. A thread that generates replies across multiple tweets signals high quality to the algorithm."
+      domains: [twitter-growth, content-creation, social-media]
+      source: "2HW"
+      confidence: 0.85
+
+    - id: "HEUR-DK-023"
+      title: "Ideal Thread Length 5-8 Tweets"
+      description: "The ideal thread length is 5-8 tweets. Under 5 feels thin and incomplete. Over 8 loses most readers. Each tweet should stand alone as valuable, with the whole being greater than the sum."
+      domains: [twitter-growth, writing, content-creation]
+      source: "2HW"
+      confidence: 0.85
+
+    - id: "HEUR-DK-024"
+      title: "Case Study Threads 20-50% Retweet Rate"
+      description: "Threads that case-study a specific person or brand achieve 20-50% retweet rate from the featured target. Tag the person — they almost always share it. This is one of the highest-leverage growth tactics."
+      domains: [twitter-growth, networking, audience-building]
+      source: "2HW"
+      confidence: 0.80
+
+    - id: "HEUR-DK-025"
+      title: "Hard Sells with 3-5 Hour Countdown"
+      description: "Hard sell promotions with a 3-5 hour countdown create maximum urgency. 'Closing in 4 hours' combined with a clear offer and social proof converts significantly better than open-ended promotions."
+      domains: [sales, persuasion, monetization]
+      source: "2HW"
+      confidence: 0.85
+
+    - id: "HEUR-DK-026"
+      title: "25-50% Discount Depth"
+      description: "Typical effective discount depth is 25-50% off regular price. Under 25% doesn't feel significant. Over 50% devalues the product. The sweet spot makes the deal feel urgent without undermining perceived value."
+      domains: [sales, monetization, offer-creation]
+      source: "2HW"
+      confidence: 0.80
+
+    - id: "HEUR-DK-027"
+      title: "Write Headline After the Piece"
+      description: "Write the headline AFTER the entire piece is written, not before. Only after writing do you truly know what the piece is about. The best headline often comes from a line buried in the middle of the draft."
+      domains: [writing, copywriting, newsletter-marketing]
+      source: "2HW"
+      confidence: 0.90
+
+    - id: "HEUR-DK-028"
+      title: "80% of Newsletters Start Wrong"
+      description: "80% of newsletters start with 'I've always been obsessed with...' or similar self-focused openings. Start with the reader's problem, a bold statement, or a surprising fact instead. Earn their attention before talking about yourself."
+      domains: [newsletter-marketing, writing, copywriting]
+      source: "2HW"
+      confidence: 0.85
+
+    - id: "HEUR-DK-029"
+      title: "Write to a 5th Grader"
+      description: "Simplify your writing to a 5th grade reading level using metaphors and concrete examples. Complex vocabulary signals insecurity, not intelligence. Clear, simple writing that uses vivid metaphors demonstrates true mastery."
+      domains: [writing, copywriting, content-creation]
+      source: "2HW"
+      confidence: 0.90
+
+    - id: "HEUR-DK-030"
+      title: "One Great Thread 500-5000+ Followers"
+      description: "A single great thread can bring 500-5,000+ new followers. This is why threads are the highest-leverage content format on Twitter. One viral thread can do what months of tweeting alone cannot."
+      domains: [twitter-growth, audience-building, content-creation]
+      source: "2HW"
+      confidence: 0.80
+
+    - id: "HEUR-DK-031"
+      title: "No Threads for First 3-6 Months"
+      description: "Don't write threads for the first 3-6 months. Focus on single tweets and engagement first. Threads without an existing audience get no traction. Build the base audience first, then use threads to accelerate."
+      domains: [twitter-growth, content-strategy, social-media]
+      source: "2HW"
+      confidence: 0.85
+
+    - id: "HEUR-DK-032"
+      title: "Numbers in Hooks for Specificity"
+      description: "Use specific numbers in hooks — they catch attention through specificity. '7 lessons' outperforms 'lessons I learned.' '$47,000 in 30 days' outperforms 'I made a lot of money.' Specificity equals credibility."
+      domains: [copywriting, writing, content-creation]
+      source: "2HW"
+      confidence: 0.90
+
+    - id: "HEUR-DK-033"
+      title: "Negativity Over Positivity for Attention"
+      description: "Negative framing captures more attention than positive in the human brain. 'Stop making this mistake' outperforms 'Start doing this better.' 'Why you're failing' outperforms 'How to succeed.' Use ethically as entry point."
+      domains: [attention-psychology, copywriting, content-creation]
+      source: "2HW"
+      confidence: 0.85
+
+    - id: "HEUR-DK-034"
+      title: "Active Voice Implies Story"
+      description: "Active voice implies story and eases reading. 'I built a $1M business' beats 'A $1M business was built by me.' Active voice creates momentum, agency, and narrative — all of which keep readers engaged."
+      domains: [writing, copywriting, content-creation]
+      source: "2HW"
+      confidence: 0.90
+
+    - id: "HEUR-DK-035"
+      title: "Confidence Alone Creates Impact"
+      description: "A confident tweet on a simple topic outperforms an uncertain tweet on a complex topic. Confidence alone can create highly impactful content. Readers follow conviction. Say less, but say it like you mean it."
+      domains: [writing, personal-branding, persuasion]
+      source: "2HW"
+      confidence: 0.85
+
+    - id: "HEUR-DK-036"
+      title: "Retweet Ratio 1 Per 50 Followers"
+      description: "Typical retweet ratio is approximately 1 retweet per 50 followers for good content. If you have 5,000 followers and a tweet gets 100 retweets, that's above average. Use this as a benchmark for content quality."
+      domains: [twitter-growth, social-media, content-strategy]
+      source: "2HW"
+      confidence: 0.75
+
+    - id: "HEUR-DK-037"
+      title: "Follow Conversion 1-2% of Viewers"
+      description: "Typical follow conversion rate is 1-2% of people who view your profile. This means for every 100 profile views, expect 1-2 new followers. Optimize your profile to maximize this conversion rate."
+      domains: [twitter-growth, audience-building, social-media]
+      source: "2HW"
+      confidence: 0.80
+
+    - id: "HEUR-DK-038"
+      title: "Daily Growth 25-50 Followers with Engagement"
+      description: "With consistent engagement (15-20 replies/day) and daily posting, expect 25-50 new followers per day on Twitter. This compounds to 750-1,500/month. Consistency is the variable — quality content alone is not enough."
+      domains: [twitter-growth, audience-building, social-media]
+      source: "2HW"
+      confidence: 0.80
+
+    - id: "HEUR-DK-039"
+      title: "Service Pricing Tiers"
+      description: "Pricing tiers for creator services: Starting ($500-$1,500), Established ($1,500-$5,000), Premium ($5,000-$10,000+). Price reflects perceived transformation value, not hours worked. Start lower, raise with proof."
+      domains: [monetization, sales, offer-creation]
+      source: "2HW"
+      confidence: 0.85
+
+    - id: "HEUR-DK-040"
+      title: "Lead Magnet Conversion 2-5%"
+      description: "Lead magnet to paid product conversion rate is typically 2-5%. This means for every 100 email subscribers from a lead magnet, 2-5 will buy your first product. Optimize the nurture sequence between sign-up and offer."
+      domains: [email-marketing, monetization, sales]
+      source: "2HW"
+      confidence: 0.80
+
+    - id: "HEUR-DK-041"
+      title: "Promotion Mix Ratio"
+      description: "Optimal promotion mix per week: 2-3 pure value posts for every 1 soft sell and 1 hard sell. This maintains the value-first relationship while still generating revenue. Too much selling erodes trust; too little leaves money on table."
+      domains: [content-strategy, sales, monetization]
+      source: "2HW"
+      confidence: 0.85
+
+    - id: "HEUR-DK-042"
+      title: "Books as Highest Quality Source"
+      description: "Consume primarily from books — they are the highest quality information source. Books are filtered, edited, and refined. Social media content is often reactive and surface-level. Build your idea library from books first."
+      domains: [self-development, creativity, idea-generation]
+      source: "2HW"
+      confidence: 0.85
+
+    - id: "HEUR-DK-043"
+      title: "Every Thread Tweet Stands Alone"
+      description: "Every tweet in a thread should stand alone as valuable even without context. If someone only reads tweet 4 of 7, it should still deliver an insight. This maximizes engagement across the entire thread."
+      domains: [twitter-growth, writing, content-creation]
+      source: "2HW"
+      confidence: 0.85
+
+    - id: "HEUR-DK-044"
+      title: "2-Week Timeline for First Newsletter"
+      description: "Launch your first newsletter within 2 weeks of deciding to start. Don't wait for perfection — launch with a simple format and improve over time. The first edition will be imperfect. That's the point."
+      domains: [newsletter-marketing, productivity, content-creation]
+      source: "2HW"
+      confidence: 0.85
+
+    - id: "HEUR-DK-045"
+      title: "One Promotion Per Day Across Platforms"
+      description: "Promote your work once per day across all platforms. This could be your newsletter, a product, a lead magnet, or a service. One daily promotion is enough to drive consistent traffic without being annoying."
+      domains: [sales, content-strategy, monetization]
+      source: "2HW"
+      confidence: 0.80
+
+    - id: "HEUR-DK-046"
+      title: "Repost Best Threads Every 6 Months"
+      description: "Repost your best-performing threads every 6 months. Your audience turns over constantly — most current followers didn't see your old content. Recycling top threads is efficient and reaches new audiences."
+      domains: [twitter-growth, content-repurposing, content-strategy]
+      source: "2HW"
+      confidence: 0.80
+
+    - id: "HEUR-DK-047"
+      title: "Hook Determines 80% of Content Performance"
+      description: "The hook (first line, headline, thumbnail) determines 80% of whether content gets consumed. Spend disproportionate time on hooks. A mediocre piece with a great hook outperforms a great piece with a weak hook."
+      domains: [copywriting, writing, content-creation]
+      source: "2HW"
+      confidence: 0.90
+
+    - id: "HEUR-DK-048"
+      title: "White Space Increases Readability 40%"
+      description: "Short paragraphs, line breaks, and white space increase readability by approximately 40% on digital platforms. Never write walls of text. One idea per line. Let the content breathe."
+      domains: [writing, content-creation, copywriting]
+      source: "2HW"
+      confidence: 0.85
+
+    - id: "HEUR-DK-049"
+      title: "Reply Within First Hour for Algorithm"
+      description: "Reply to comments on your posts within the first hour of posting. Early engagement signals the algorithm that the post is valuable, increasing distribution. Abandoning a post after publishing kills its potential."
+      domains: [twitter-growth, social-media, audience-building]
+      source: "2HW"
+      confidence: 0.85
+
+    - id: "HEUR-DK-050"
+      title: "3 Content Pillars Maximum"
+      description: "Limit your content to 3 core pillars maximum. More than 3 confuses your audience about what you stand for. Dan's example: self-development, content creation, and digital business. Everything connects to these three."
+      domains: [content-strategy, personal-branding, audience-building]
+      source: "2HW"
+      confidence: 0.85
+
+    - id: "HEUR-DK-051"
+      title: "Morning Writing Produces Best Quality"
+      description: "Write in the morning when willpower and creativity are highest. The first 2 hours of the day should be dedicated to creative work (writing), not reactive work (email, social media). Protect the morning block."
+      domains: [writing, productivity, lifestyle-design]
+      source: "2HW"
+      confidence: 0.85
+
+  # ==========================================================================
+  # L4 — FRAMEWORKS (46 elements)
+  # ==========================================================================
+  L4_FRAMEWORKS:
+
+    - id: "FW-DK-001"
+      title: "The 2 Hour Content Ecosystem"
+      description: "A daily 2-hour block divided into creativity mode (1 hour — brainstorm, connect ideas, outline) and productivity mode (1 hour — write, edit, publish). This rhythm sustains consistent content output without burnout by honoring both brain modes."
+      domains: [content-creation, productivity, writing]
+      source: "2HW"
+      confidence: 0.95
+
+    - id: "FW-DK-002"
+      title: "Content Synthesis System"
+      description: "Seven-step system for turning raw input into content: (1) Research — consume with intent, (2) Capture — save quotes and ideas to The Queue, (3) Organize — tag by theme and domain, (4) Dissect — break ideas into components, (5) Create — write around dissected insights, (6) Tag — label for reuse, (7) Use — deploy across content formats."
+      domains: [content-creation, idea-generation, productivity]
+      source: "2HW"
+      confidence: 0.90
+
+    - id: "FW-DK-003"
+      title: "Idea Dissection and Insight Discovery"
+      description: "Nine-step process for extracting content from a single idea: (1) State the idea, (2) Define key terms, (3) Ask why it matters, (4) Find the counter-argument, (5) Connect to personal experience, (6) Create a metaphor, (7) Extract a practical lesson, (8) Frame as advice, (9) Write the hook. One idea produces 9+ content angles."
+      domains: [idea-generation, writing, content-creation]
+      source: "2HW"
+      confidence: 0.90
+
+    - id: "FW-DK-004"
+      title: "Intelligent Imitation System"
+      description: "Five filters for learning from other creators without plagiarizing: (1) Hook structure — how do they open? (2) Content flow — how do they organize? (3) Voice patterns — what makes them distinct? (4) Engagement tactics — how do they drive interaction? (5) Perspective filter — how would you say this differently? The result is pattern-informed originality."
+      domains: [writing, content-creation, creativity]
+      source: "2HW"
+      confidence: 0.90
+
+    - id: "FW-DK-005"
+      title: "Epistemic Researcher Framework"
+      description: "Approach content creation like a researcher: (1) Identify a question your audience has, (2) Research across multiple sources, (3) Synthesize findings through your perspective, (4) Present conclusions with evidence, (5) Invite discussion. This positions you as a thinker, not just a content machine."
+      domains: [content-creation, writing, personal-branding]
+      source: "2HW"
+      confidence: 0.85
+
+    - id: "FW-DK-006"
+      title: "Lifestyle Design Framework (80/20)"
+      description: "Design your ideal lifestyle first, then build the business to fund it. 80/20 version: (1) Define ideal day, (2) Calculate minimum income needed, (3) Build the simplest business model that achieves it, (4) Automate/delegate the rest. Most creators over-build and under-live."
+      domains: [lifestyle-design, monetization, productivity]
+      source: "2HW"
+      confidence: 0.85
+
+    - id: "FW-DK-007"
+      title: "Scientific Method for Knowledge Work"
+      description: "Framework applying scientific method to content: (1) Observe — what problems do people discuss? (2) Hypothesize — what content might solve this? (3) Experiment — publish the content, (4) Measure — track engagement and feedback, (5) Iterate — adjust based on data. Remove guesswork from content strategy."
+      domains: [content-strategy, productivity, creativity]
+      source: "2HW"
+      confidence: 0.85
+
+    - id: "FW-DK-008"
+      title: "Three-Point Content Ecosystem"
+      description: "Three content tiers working in harmony: Long-form (weekly newsletter — builds depth and trust), Medium-form (2-3 threads/week — builds authority and reach), Short-form (daily tweets — builds awareness and engagement). Each tier feeds the others in a reinforcing loop."
+      domains: [content-strategy, content-repurposing, writing]
+      source: "2HW"
+      confidence: 0.95
+
+    - id: "FW-DK-009"
+      title: "Outline-First Newsletter Framework"
+      description: "Newsletter creation starts with an outline, not a draft: (1) Choose theme from Queue, (2) List 3-5 main points, (3) Under each point, list supporting examples/data, (4) Identify the transformation (before → after), (5) Draft intro hook, (6) Fill in sections day by day, (7) Edit for flow. Outlining first prevents rambling."
+      domains: [newsletter-marketing, writing, productivity]
+      source: "2HW"
+      confidence: 0.90
+
+    - id: "FW-DK-010"
+      title: "APAG Content Framework"
+      description: "Four-part content structure: Attention (open with a pattern interrupt — question, bold claim, or surprising stat), Perspective (share your unique angle on the topic), Advantage (show why this matters for the reader's goals), Gamify (make it actionable with steps, templates, or challenges)."
+      domains: [content-creation, writing, persuasion]
+      source: "2HW"
+      confidence: 0.90
+
+    - id: "FW-DK-011"
+      title: "Cornerstone Newsletter Outline Template"
+      description: "Standard newsletter structure: (1) Hook — compelling opening line, (2) Problem — what the reader struggles with, (3) Story/Example — personal or observed, (4) Framework/Solution — your method, (5) Steps — actionable implementation, (6) Takeaway — one memorable insight, (7) CTA — what to do next."
+      domains: [newsletter-marketing, writing, copywriting]
+      source: "2HW"
+      confidence: 0.90
+
+    - id: "FW-DK-012"
+      title: "Experience Model - Domain of Mastery"
+      description: "Your Domain of Mastery is the intersection of three elements: (1) What you're deeply curious about (intrinsic motivation), (2) What you have real experience in (credibility), (3) What your audience needs help with (market demand). Content should live exclusively at this intersection."
+      domains: [personal-branding, content-strategy, self-development]
+      source: "2HW"
+      confidence: 0.90
+
+    - id: "FW-DK-013"
+      title: "Non-Needy Networking Framework"
+      description: "Seven steps for authentic networking: (1) Identify 20-30 target creators in your niche, (2) Engage genuinely with their content for 2-4 weeks, (3) Send a non-needy DM with specific value, (4) Build rapport through conversation, (5) Propose a small collaboration, (6) Deliver 10x value in the collaboration, (7) Nurture the relationship long-term."
+      domains: [networking, audience-building, community-building]
+      source: "2HW"
+      confidence: 0.90
+
+    - id: "FW-DK-014"
+      title: "Complete Twitter Growth Funnel"
+      description: "Five stages of the Twitter growth funnel: (1) Discovery — replies and engagement surface you, (2) Profile visit — bio and pinned post convert visitors, (3) Follow — consistent quality retains followers, (4) Trust — newsletter and DMs deepen relationship, (5) Monetize — products and services convert trust to revenue."
+      domains: [twitter-growth, audience-building, monetization]
+      source: "2HW"
+      confidence: 0.90
+
+    - id: "FW-DK-015"
+      title: "High-Ticket Service Sales Process"
+      description: "Five steps for selling high-ticket services: (1) Attract via free content (demonstrate expertise), (2) Qualify via DMs or application (filter for fit), (3) Discovery call (understand their situation), (4) Present solution (custom to their needs), (5) Close with deadline (scarcity + urgency)."
+      domains: [sales, monetization, offer-creation]
+      source: "2HW"
+      confidence: 0.85
+
+    - id: "FW-DK-016"
+      title: "Offer Creation Architecture"
+      description: "Build offers around transformation: (1) Define the 'Before' state (current pain), (2) Define the 'After' state (desired outcome), (3) Create the vehicle (your method/process), (4) Add proof (testimonials, case studies), (5) Remove risk (guarantee, trial), (6) Create urgency (deadline, limited spots)."
+      domains: [offer-creation, sales, monetization]
+      source: "2HW"
+      confidence: 0.90
+
+    - id: "FW-DK-017"
+      title: "Promotion Calendar Rhythm"
+      description: "Weekly promotion rhythm: Monday-Wednesday (value content — establish authority), Thursday (soft promotion — mention product/service naturally), Friday (hard promotion — direct offer with urgency). Weekend (engagement and relationship building). This rhythm maintains trust while driving sales."
+      domains: [sales, content-strategy, monetization]
+      source: "2HW"
+      confidence: 0.85
+
+    - id: "FW-DK-018"
+      title: "Writing Framework (Attention to Conversion)"
+      description: "End-to-end writing framework: (1) Attention — hook that stops scroll, (2) Interest — expand with curiosity, (3) Desire — show the transformation possible, (4) Action — tell them exactly what to do. Classic AIDA adapted for social media writing with specific tactics per stage."
+      domains: [writing, copywriting, persuasion]
+      source: "2HW"
+      confidence: 0.90
+
+    - id: "FW-DK-019"
+      title: "Content Awareness Targeting"
+      description: "Map content to audience awareness levels: Unaware → educational/curiosity content, Problem Aware → problem-agitation content, Solution Aware → method-comparison content, Product Aware → proof and urgency content, Most Aware → direct offer content. Wrong awareness level = wasted content."
+      domains: [content-strategy, persuasion, audience-building]
+      source: "2HW"
+      confidence: 0.90
+
+    - id: "FW-DK-020"
+      title: "Copywriting/Persuasion Building Blocks"
+      description: "Six building blocks of persuasion adapted from Cialdini: (1) Reciprocity — give value first, (2) Commitment — get small yeses before big ask, (3) Social proof — show others succeeding, (4) Authority — demonstrate expertise, (5) Liking — be relatable, (6) Scarcity — create urgency. All content should employ at least 2-3 blocks."
+      domains: [persuasion, copywriting, sales]
+      source: "2HW"
+      confidence: 0.90
+
+    - id: "FW-DK-021"
+      title: "Daily Writer's Hub Template"
+      description: "Daily working template in Notion: (1) Today's Queue items to develop, (2) Tweets to write (3-5 minimum), (3) Thread in progress (if applicable), (4) Newsletter section to draft, (5) Engagement targets (accounts to reply to), (6) Wins/learnings log. Everything in one view to eliminate decision fatigue."
+      domains: [productivity, writing, content-creation]
+      source: "2HW"
+      confidence: 0.85
+
+    - id: "FW-DK-022"
+      title: "3-Pillar Social Leverage Framework"
+      description: "Build social leverage through three stacked pillars: (1) Growth — distribution, reach, follower count (volume), (2) Authority — expertise signals, proof, quality (depth), (3) Authenticity — unique voice, relatability, personality (connection). Each pillar multiplies the others."
+      domains: [personal-branding, audience-building, digital-leverage]
+      source: "2HW"
+      confidence: 0.90
+
+    - id: "FW-DK-023"
+      title: "The Queue System"
+      description: "Notion-based idea capture system: Every idea, quote, observation, and insight gets captured in a central database (The Queue) with fields for source, theme, status, and potential format. The Queue is the raw material reservoir that feeds all content creation."
+      domains: [idea-generation, productivity, content-creation]
+      source: "2HW"
+      confidence: 0.90
+
+    - id: "FW-DK-024"
+      title: "Newsletter Introduction Framework"
+      description: "Four options for newsletter introductions: (1) Bold claim — state something surprising or contrarian, (2) Story hook — begin with a personal or observed narrative, (3) Question — ask something the reader is already wondering, (4) Statistics — lead with a surprising number or data point. Choose based on newsletter topic and audience awareness."
+      domains: [newsletter-marketing, writing, copywriting]
+      source: "2HW"
+      confidence: 0.85
+
+    - id: "FW-DK-025"
+      title: "Content Idea Generation Framework"
+      description: "Systematic idea generation: (1) Review Queue for undeveloped ideas, (2) Check trending topics in your niche, (3) Review questions from DMs and comments, (4) Apply horizontal questioning (what relates?), (5) Apply vertical questioning (why does this matter?), (6) Cross-pollinate ideas from different domains. Never sit down to write without ideas pre-loaded."
+      domains: [idea-generation, content-creation, creativity]
+      source: "2HW"
+      confidence: 0.85
+
+    - id: "FW-DK-026"
+      title: "Thread Writing Framework"
+      description: "Three-part thread structure: Hook (tweet 1 — must stop scroll, use numbers, bold claim, or question), Body (tweets 2-6 — one idea per tweet, each standalone, build logically), CTA (final tweet — clear call to action: follow, subscribe, save). Every thread needs all three."
+      domains: [twitter-growth, writing, content-creation]
+      source: "2HW"
+      confidence: 0.90
+
+    - id: "FW-DK-027"
+      title: "Tweet Writing Framework (18 Patterns)"
+      description: "Eighteen named tweet patterns: Listicle, Slant, Contrast, Metaphor, One-liner, Hard pill, Personal tip, Question, Hot take, Observation, Prediction, Counter-intuitive, Story snippet, Before/after, Lesson learned, Mistake I made, Unpopular opinion, Behind the scenes. Rotate patterns to avoid repetition."
+      domains: [twitter-growth, writing, content-creation]
+      source: "2HW"
+      confidence: 0.90
+
+    - id: "FW-DK-028"
+      title: "Email List Building Framework"
+      description: "Build email list through: (1) Create a compelling lead magnet (solves a specific problem), (2) Promote lead magnet in bio, pinned post, and weekly tweets, (3) Use newsletter previews as social content, (4) Cross-promote with other newsletters, (5) Add sign-up CTA to every thread. Email is the asset; social media is the distribution."
+      domains: [email-marketing, newsletter-marketing, audience-building]
+      source: "2HW"
+      confidence: 0.85
+
+    - id: "FW-DK-029"
+      title: "Repurposing Framework"
+      description: "Cascade content from long to short: Newsletter → extract 2-3 thread hooks → write threads → extract key tweets from threads → schedule standalone tweets → compile tweets into future newsletter themes. One newsletter produces 2+ weeks of social content."
+      domains: [content-repurposing, content-strategy, productivity]
+      source: "2HW"
+      confidence: 0.90
+
+    - id: "FW-DK-030"
+      title: "Email Sales Framework"
+      description: "Sell through email sequences: (1) Deliver value for 3-5 emails first, (2) Introduce the problem you solve, (3) Tease the solution, (4) Present the offer with clear transformation, (5) Add social proof, (6) Create urgency with deadline, (7) Final reminder email. Never sell cold — warm with value first."
+      domains: [email-marketing, sales, monetization]
+      source: "2HW"
+      confidence: 0.85
+
+    - id: "FW-DK-031"
+      title: "The Anti-Vision Exercise"
+      description: "Instead of only visualizing what you want, deeply imagine what you don't want — the worst-case scenario of not acting. This generates more emotional motivation than positive visualization alone. Use in content to create urgency."
+      domains: [persuasion, self-development, content-creation]
+      source: "2HW"
+      confidence: 0.85
+
+    - id: "FW-DK-032"
+      title: "Income-Follower Scaling Method"
+      description: "Validated scaling method: 0-1K followers (build skills, no monetization), 1K-5K (launch service, $500-$1,500/client), 5K-10K (raise prices, launch newsletter), 10K-50K (add products, build team), 50K+ (scale with courses, communities, partnerships). Monetization follows audience in defined phases."
+      domains: [monetization, audience-building, digital-leverage]
+      source: "2HW"
+      confidence: 0.85
+
+    - id: "FW-DK-033"
+      title: "Gradual System Implementation Framework"
+      description: "Build systems incrementally: (1) Start with paper/simple notes, (2) Move to basic Notion page when it gets messy, (3) Add structure (databases, tags) when volume increases, (4) Automate repetitive parts, (5) Optimize based on usage data. Don't build the perfect system on day one — it will be wrong."
+      domains: [productivity, content-creation, lifestyle-design]
+      source: "2HW"
+      confidence: 0.85
+
+    - id: "FW-DK-034"
+      title: "Content Immersion Framework"
+      description: "Immerse yourself in your topic for quality output: (1) Read 1 book/week in your domain, (2) Follow 50-100 relevant creators, (3) Save 10+ ideas daily to Queue, (4) Have weekly conversations about your topic, (5) Teach what you learn within 48 hours. Immersion makes content creation effortless."
+      domains: [self-development, creativity, content-creation]
+      source: "2HW"
+      confidence: 0.85
+
+    - id: "FW-DK-035"
+      title: "Audience Clarity Framework"
+      description: "Define your audience through: (1) Who were you 2-3 years ago? (your past self is your ideal reader), (2) What transformation did you undergo? (3) What problems did you face? (4) What solutions worked? (5) Who else faces those same problems? Your audience is your past self multiplied."
+      domains: [audience-building, personal-branding, content-strategy]
+      source: "2HW"
+      confidence: 0.90
+
+    - id: "FW-DK-036"
+      title: "Tweet Structures: Core Seven"
+      description: "Seven core tweet structures that consistently perform: (1) Listicle — X things about Y, (2) Slant — unexpected angle on common topic, (3) Contrast — juxtapose two opposing ideas, (4) Metaphor — explain concept through comparison, (5) One-liner — single punchy statement, (6) Hard pill — uncomfortable truth, (7) Personal tip — specific tactic from experience."
+      domains: [twitter-growth, writing, content-creation]
+      source: "2HW"
+      confidence: 0.90
+
+    - id: "FW-DK-037"
+      title: "Problem-Solution Framework"
+      description: "Six-step writing structure: (1) Name the problem specifically, (2) Agitate — show consequences of not solving it, (3) Invalidate common solutions — why typical advice fails, (4) Present your solution, (5) Prove it works — evidence/story, (6) Give next step — clear CTA. Works for tweets, threads, and newsletters."
+      domains: [copywriting, writing, persuasion]
+      source: "2HW"
+      confidence: 0.90
+
+    - id: "FW-DK-038"
+      title: "Two-by-Three Tweet Structure"
+      description: "Write impactful tweets by combining 2 related ideas into 3 sentences: Sentence 1 (establish first idea), Sentence 2 (introduce second idea or contrast), Sentence 3 (combine for insight or takeaway). This creates density and memorability."
+      domains: [twitter-growth, writing, content-creation]
+      source: "2HW"
+      confidence: 0.80
+
+    - id: "FW-DK-039"
+      title: "Profile Bio Formulas"
+      description: "Proven bio formulas: (1) 'I help [audience] achieve [result] through [method]' — direct and clear, (2) 'Building [project] | Writing about [topic] | [credibility marker]' — multi-faceted, (3) '[Bold claim]. Join [number] readers: [link]' — social proof driven. Bio must answer 'Why should I follow?' in under 3 seconds."
+      domains: [twitter-growth, personal-branding, copywriting]
+      source: "2HW"
+      confidence: 0.85
+
+    - id: "FW-DK-040"
+      title: "DM Conversation Framework"
+      description: "Build relationships via DM: (1) Lead with specific compliment about their recent content, (2) Ask a genuine question about their process, (3) Share a relevant resource or insight, (4) Build rapport over 3-5 exchanges before any ask, (5) Propose mutual value (collaboration, not extraction). Never open with self-promotion."
+      domains: [networking, audience-building, community-building]
+      source: "2HW"
+      confidence: 0.85
+
+    - id: "FW-DK-041"
+      title: "Content Pillar Architecture"
+      description: "Structure content around 3 pillars with rotation: Pillar 1 (primary expertise — 50% of content), Pillar 2 (supporting expertise — 30% of content), Pillar 3 (personal/lifestyle — 20% of content). This ensures depth while maintaining personality and relatability."
+      domains: [content-strategy, personal-branding, audience-building]
+      source: "2HW"
+      confidence: 0.85
+
+    - id: "FW-DK-042"
+      title: "Hook Library System"
+      description: "Build and maintain a library of proven hook structures: (1) Save every hook that stopped YOUR scroll, (2) Categorize by type (question, stat, bold claim, story, contrast), (3) Adapt to your topics, (4) Test variations, (5) Keep top performers as templates. A rich hook library eliminates blank page syndrome."
+      domains: [copywriting, writing, content-creation]
+      source: "2HW"
+      confidence: 0.85
+
+    - id: "FW-DK-043"
+      title: "Authority Building Framework"
+      description: "Build authority through content layering: (1) Share opinions consistently (positioned perspective), (2) Back with evidence (case studies, data), (3) Show results (screenshots, testimonials), (4) Get endorsed (collaborations, features), (5) Teach advanced topics (demonstrates depth). Authority compounds — each layer reinforces the others."
+      domains: [personal-branding, audience-building, digital-leverage]
+      source: "2HW"
+      confidence: 0.85
+
+    - id: "FW-DK-044"
+      title: "Minimum Viable Newsletter"
+      description: "Launch with the simplest possible newsletter: (1) Choose Beehiiv or ConvertKit, (2) Write 500-1,000 words on a topic you care about, (3) Include one actionable insight, (4) Add a simple CTA, (5) Send weekly. No fancy design, no complex funnels, no elaborate systems. Ship and improve."
+      domains: [newsletter-marketing, productivity, email-marketing]
+      source: "2HW"
+      confidence: 0.85
+
+    - id: "FW-DK-045"
+      title: "Feedback Integration Framework"
+      description: "Use audience feedback as content fuel: (1) Track which content gets saved/bookmarked (highest value signal), (2) Read every comment and DM, (3) Note recurring questions, (4) Create content that answers those questions, (5) Close the loop by tagging people who asked. This creates a self-reinforcing content engine."
+      domains: [audience-building, content-strategy, community-building]
+      source: "2HW"
+      confidence: 0.85
+
+    - id: "FW-DK-046"
+      title: "Cross-Platform Content Strategy"
+      description: "Expand from Twitter to other platforms after establishing a base: (1) Twitter as foundation (text + networking), (2) Newsletter as depth (owned audience), (3) LinkedIn for B2B reach (repurpose threads), (4) YouTube/Instagram for long-form visual (repurpose newsletters). Each platform serves a different purpose in the ecosystem."
+      domains: [content-strategy, content-repurposing, social-media]
+      source: "2HW"
+      confidence: 0.85
+
+  # ==========================================================================
+  # L5 — METHODOLOGIES (36 elements)
+  # ==========================================================================
+  L5_METHODOLOGIES:
+
+    - id: "MET-DK-001"
+      title: "Writing Habit Building (7 Steps)"
+      description: "Step-by-step habit formation: (1) Set specific daily writing time (same time every day), (2) Start with 30 minutes minimum, (3) Eliminate all distractions (phone in another room), (4) Use Hemingway App for editing, (5) Publish something every day (even if imperfect), (6) Track streak visually, (7) Gradually increase to 2 hours. Consistency beats intensity."
+      domains: [writing, productivity, self-development]
+      source: "2HW"
+      confidence: 0.90
+
+    - id: "MET-DK-002"
+      title: "Creator Growth Path (5 Phases)"
+      description: "Five phases of creator growth: Phase 1 (0-1K) — daily tweets + engagement + DMs, build voice. Phase 2 (1K-5K) — add threads + launch newsletter, find niche. Phase 3 (5K-10K) — first product + consistent newsletter, build authority. Phase 4 (10K-25K) — scale products + raise prices, build leverage. Phase 5 (25K+) — build team + community, compound."
+      domains: [audience-building, monetization, content-strategy]
+      source: "2HW"
+      confidence: 0.90
+
+    - id: "MET-DK-003"
+      title: "Daily Content Creation Process (2 Hours)"
+      description: "Daily 2-hour workflow: Hour 1 (Creative) — review Queue, select ideas, brainstorm connections, write outlines, capture new ideas during walk. Hour 2 (Productive) — write 3-5 tweets, work on thread/newsletter section, schedule posts, engage for 15-20 minutes. End with Queue review."
+      domains: [content-creation, productivity, writing]
+      source: "2HW"
+      confidence: 0.90
+
+    - id: "MET-DK-004"
+      title: "Building Notion System (7 Steps)"
+      description: "Set up The Queue in Notion: (1) Create a database called 'The Queue', (2) Add properties: Type (quote, idea, observation), Source (book, tweet, podcast), Theme (content pillars), Status (raw, developing, published), Format (tweet, thread, newsletter), (3) Create views for each status, (4) Add daily capture template, (5) Build 'Today's Hub' dashboard, (6) Create archive for published items, (7) Review and refine weekly."
+      domains: [productivity, idea-generation, content-creation]
+      source: "2HW"
+      confidence: 0.85
+
+    - id: "MET-DK-005"
+      title: "Launching Newsletter on Beehiiv (6 Steps)"
+      description: "Launch process: (1) Create Beehiiv account and customize design (minimal — focus on words), (2) Write first 3 editions as drafts before publishing any, (3) Set up welcome email with clear value proposition, (4) Announce launch on Twitter with thread explaining what subscribers get, (5) Add subscribe link to bio and pinned tweet, (6) Send first edition and iterate based on open rates and replies."
+      domains: [newsletter-marketing, email-marketing, content-creation]
+      source: "2HW"
+      confidence: 0.85
+
+    - id: "MET-DK-006"
+      title: "Twitter Scheduling with TweetHunter (7 Steps)"
+      description: "Scheduling workflow: (1) Write tweets in batches (not individually), (2) Load into TweetHunter queue, (3) Set posting schedule (3-5x daily at peak hours), (4) Use auto-retweet for best performers, (5) Schedule threads for Tuesday/Thursday mornings, (6) Review analytics weekly, (7) Adjust content mix based on what performs. Batch creation frees daily time for engagement."
+      domains: [twitter-growth, productivity, social-media]
+      source: "2HW"
+      confidence: 0.85
+
+    - id: "MET-DK-007"
+      title: "Writing in Hemingway (3-Phase Process)"
+      description: "Three-phase editing process using Hemingway App: Phase 1 (Draft) — write freely without editing, ignore errors, get ideas on page. Phase 2 (Structure) — reorganize for flow, cut unnecessary sections, ensure logical progression. Phase 3 (Polish) — paste into Hemingway App, simplify highlighted sentences, reduce adverbs, aim for Grade 5-6 readability."
+      domains: [writing, productivity, content-creation]
+      source: "2HW"
+      confidence: 0.85
+
+    - id: "MET-DK-008"
+      title: "Non-Needy Networking Implementation (6 Phases)"
+      description: "Phase 1 (Week 1-2): Identify 20-30 target accounts, follow all, turn on notifications. Phase 2 (Week 3-6): Reply thoughtfully to 5-10 of their posts daily, never self-promoting. Phase 3 (Week 7-8): Send first DM — specific compliment + genuine question. Template: 'Hey [name], your thread on [topic] was great. I especially resonated with [specific point]. I'm curious — how did you come up with that angle?' Phase 4 (Week 9-12): Build rapport through DM conversation, share relevant resources. Phase 5 (Month 4-5): Propose small collaboration (co-thread, newsletter swap). Phase 6 (Month 6+): Nurture with periodic check-ins and mutual support."
+      domains: [networking, community-building, audience-building]
+      source: "2HW"
+      confidence: 0.90
+
+    - id: "MET-DK-009"
+      title: "Newsletter Writing Process (7 Steps Using 6-Step Framework)"
+      description: "Step 1: Choose topic from Queue (highest resonance). Step 2: Outline using Problem-Solution framework. Step 3: Write intro hook (use Newsletter Introduction Framework — bold claim, story, question, or stat). Step 4: Draft body section by section, one per day. Step 5: Add personal stories and specific examples. Step 6: Write conclusion with clear takeaway. Step 7: Edit in Hemingway, add links and CTA."
+      domains: [newsletter-marketing, writing, content-creation]
+      source: "2HW"
+      confidence: 0.90
+
+    - id: "MET-DK-010"
+      title: "Complete Newsletter Writing Process (10 Steps)"
+      description: "Full process: (1) Monday — choose topic and outline, (2) Tuesday — write intro and first section, (3) Wednesday — write middle sections, (4) Thursday — write conclusion and CTA, (5) Friday — first edit (structure and flow), (6) Saturday — second edit (Hemingway polish), (7) Sunday — final review and schedule, (8) Monday — send and monitor opens, (9) Extract threads from newsletter, (10) Extract tweets from threads. One newsletter feeds entire content week."
+      domains: [newsletter-marketing, writing, productivity]
+      source: "2HW"
+      confidence: 0.85
+
+    - id: "MET-DK-011"
+      title: "Week-Long Content Production System"
+      description: "Daily schedule: Monday (outline newsletter + write 5 tweets), Tuesday (draft newsletter section 1 + write 3 tweets + engage), Wednesday (draft newsletter section 2 + write thread + engage), Thursday (complete newsletter + schedule thread + engage), Friday (edit newsletter + batch tweets for weekend + promote), Saturday (light engagement + idea capture), Sunday (newsletter final review + Queue review + plan next week)."
+      domains: [content-creation, productivity, content-strategy]
+      source: "2HW"
+      confidence: 0.85
+
+    - id: "MET-DK-012"
+      title: "Tweet Ideation Process (Rapid 5-Step)"
+      description: "Fast tweet creation: (1) Pull 3 items from Queue, (2) For each, ask 'What's the one sentence version?' (3) Apply a tweet structure (listicle, contrast, one-liner), (4) Write 3 variations of each, (5) Select best one, schedule rest for testing. 9 tweets in 15 minutes. Speed comes from having a full Queue."
+      domains: [twitter-growth, writing, content-creation]
+      source: "2HW"
+      confidence: 0.85
+
+    - id: "MET-DK-013"
+      title: "Thread Writing Process from Newsletter"
+      description: "Convert newsletter to thread: (1) Identify the strongest section of the newsletter, (2) Extract the core argument, (3) Write a hook tweet (bold claim or surprising stat from the section), (4) Break argument into 5-7 sequential points (one tweet each), (5) Add a personal example or story tweet, (6) Write CTA tweet (subscribe to newsletter for full version), (7) Schedule for optimal time (Tuesday or Thursday 8-10 AM)."
+      domains: [twitter-growth, content-repurposing, writing]
+      source: "2HW"
+      confidence: 0.85
+
+    - id: "MET-DK-014"
+      title: "Visualization and Metaphor Development Process"
+      description: "Eight steps to develop memorable metaphors: (1) Identify the abstract concept to explain, (2) List 5 concrete things it resembles, (3) Choose the most vivid comparison, (4) Write the metaphor in one sentence, (5) Extend the metaphor — how far can you push it? (6) Test with a friend — do they get it instantly? (7) If not, try the next comparison from step 2, (8) Save winning metaphors to a dedicated Queue category for reuse."
+      domains: [writing, creativity, copywriting]
+      source: "2HW"
+      confidence: 0.85
+
+    - id: "MET-DK-015"
+      title: "The Idea Capture System (The Queue)"
+      description: "Capture process: (1) Always have capture tool accessible (Notion mobile or notes app), (2) When idea strikes, capture in under 30 seconds (raw form is fine), (3) Add source tag (walk, book, conversation, shower), (4) Every evening, process raw captures into Queue database, (5) Add theme tags and potential format, (6) Weekly review — promote best ideas to 'developing' status. The goal: never lose an idea."
+      domains: [idea-generation, productivity, creativity]
+      source: "2HW"
+      confidence: 0.90
+
+    - id: "MET-DK-016"
+      title: "How to Write High-Engagement Tweets (7 Steps)"
+      description: "Step 1: Choose a Queue item with emotional resonance. Step 2: Pick a tweet structure (from the 18 patterns). Step 3: Write the hook line first (bold, specific, curiosity-inducing). Step 4: Add supporting substance (1-2 sentences). Step 5: End with a punchline or reframe. Step 6: Check length (200-280 chars ideal). Step 7: Read aloud — if it sounds like conversation, publish. If it sounds like an essay, simplify."
+      domains: [twitter-growth, writing, content-creation]
+      source: "2HW"
+      confidence: 0.85
+
+    - id: "MET-DK-017"
+      title: "Engagement Group Setup and Operation (5 Steps)"
+      description: "Step 1: Identify 5-7 creators at your level (±20% follower count) in similar niches. Step 2: DM each with specific compliment + group proposal. Step 3: Create group DM or Telegram group. Step 4: Rules — engage within 30 minutes of member posting, genuine comments only (no 'great post'), rotate who posts first. Step 5: Evaluate monthly — remove inactive members, add aligned new ones."
+      domains: [twitter-growth, community-building, networking]
+      source: "2HW"
+      confidence: 0.85
+
+    - id: "MET-DK-018"
+      title: "Twitter Money Story (5 Phases)"
+      description: "Phase 1 (Month 1-3): Build voice and small following through daily tweets + engagement. Phase 2 (Month 4-6): Launch newsletter, start threads, grow to 2-5K. Phase 3 (Month 7-9): Launch first service ($500-$1,500), sell through DMs. Phase 4 (Month 10-12): Raise prices, add low-ticket product, grow to 5-10K. Phase 5 (Year 2): Scale with courses, communities, premium services. Dan's personal trajectory validated to 50K+."
+      domains: [monetization, twitter-growth, audience-building]
+      source: "2HW"
+      confidence: 0.85
+
+    - id: "MET-DK-019"
+      title: "How to Dissect a Quote (8 Steps)"
+      description: "Quote dissection for content: (1) Read quote 3 times, (2) Define every key word, (3) Identify the core insight, (4) Ask 'Why is this true?' (5) Ask 'When is this NOT true?' (6) Connect to personal experience, (7) Connect to another idea from a different domain, (8) Write 3 content pieces: one tweet (compressed), one thread (expanded), one newsletter section (deep dive). One quote = 3 pieces of content."
+      domains: [idea-generation, writing, creativity]
+      source: "2HW"
+      confidence: 0.85
+
+    - id: "MET-DK-020"
+      title: "Readwise + Kindle Content System"
+      description: "Setup: (1) Highlight aggressively while reading Kindle books, (2) Connect Kindle to Readwise, (3) Readwise sends daily review of 5-10 highlights, (4) When a highlight sparks an idea, capture to Queue immediately, (5) Tag highlight with content pillar, (6) Use Readwise search when writing on specific topic. This creates a steady stream of book-sourced content ideas."
+      domains: [idea-generation, productivity, self-development]
+      source: "2HW"
+      confidence: 0.85
+
+    - id: "MET-DK-021"
+      title: "Queue Optimization Process"
+      description: "Weekly Queue maintenance: (1) Review all items tagged 'raw', (2) Promote items with high potential to 'developing', (3) Archive items that no longer resonate, (4) Check theme distribution — are all 3 pillars represented? (5) Identify gaps — what topics need more raw material? (6) Plan consumption for the week to fill gaps. A healthy Queue has 50-100 items across all stages."
+      domains: [productivity, idea-generation, content-creation]
+      source: "2HW"
+      confidence: 0.85
+
+    - id: "MET-DK-022"
+      title: "Creating Database of Unique Perspectives"
+      description: "Build a perspective library: (1) For every topic you write about, document your contrarian take, (2) Record the mainstream view AND your counter-view, (3) Note the evidence for your position, (4) Track which perspectives get most engagement, (5) Refine and strengthen over time, (6) Use as foundation for all content on that topic. Unique perspectives are your competitive moat."
+      domains: [personal-branding, idea-generation, content-strategy]
+      source: "2HW"
+      confidence: 0.85
+
+    - id: "MET-DK-023"
+      title: "Content Reuse Cascade Method"
+      description: "Maximize content lifespan: (1) Write newsletter (original long-form), (2) Extract thread (medium-form derivative), (3) Extract 5-10 tweets (short-form derivatives), (4) Repost thread after 6 months, (5) Update newsletter annually, (6) Compile related newsletters into a guide or lead magnet, (7) Turn guide into a paid product module. One idea cascades into 12+ months of content."
+      domains: [content-repurposing, content-strategy, productivity]
+      source: "2HW"
+      confidence: 0.85
+
+    - id: "MET-DK-024"
+      title: "Consumption Cycle for Different Media"
+      description: "Structured consumption by media type: Books — read 30 min/day, highlight, review weekly via Readwise. Podcasts — listen during walks, note timestamps of key insights. Twitter — 15 min/day curated list only, save tweets to Queue. YouTube — watch with purpose, take notes, never autoplay. Newsletter — subscribe to 5-10 max, read actively with Queue open. Each medium has specific rules to prevent passive consumption."
+      domains: [self-development, productivity, creativity]
+      source: "2HW"
+      confidence: 0.85
+
+    - id: "MET-DK-025"
+      title: "Dan's Daily Lifestyle Sequence"
+      description: "Dan's personal daily system: (1) Wake without alarm, (2) 30-60 min walk (DMN activation, idea capture), (3) 2-hour writing block (creative + productive), (4) Review and respond to DMs, (5) Engagement round (15-20 replies), (6) Afternoon — business operations, calls, projects, (7) Evening — reading and idea capture. The writing block is sacred and non-negotiable."
+      domains: [lifestyle-design, productivity, writing]
+      source: "2HW"
+      confidence: 0.85
+
+    - id: "MET-DK-026"
+      title: "Newsletter Creation Pipeline (Week-Long)"
+      description: "Full pipeline: Sunday — Queue review, topic selection. Monday — outline (30 min). Tuesday — write section 1. Wednesday — write section 2. Thursday — write section 3 + conclusion. Friday — edit pass 1 (structure). Saturday — edit pass 2 (Hemingway polish). Sunday — final review, schedule, plan next topic. This pipeline ensures quality through distributed effort."
+      domains: [newsletter-marketing, writing, productivity]
+      source: "2HW"
+      confidence: 0.85
+
+    - id: "MET-DK-027"
+      title: "Income-Follower Scaling Method (Validated to 50K)"
+      description: "Validated monetization path: 1K followers → launch $500 service, expect 1-2 clients/month ($500-$1,000/mo). 5K → raise to $1,500, launch lead magnet, expect 3-5 clients/month ($4,500-$7,500/mo). 10K → raise to $3,000, launch course, newsletter sponsors ($10K-$15K/mo). 25K → premium services $5,000+, community, multiple products ($25K-$40K/mo). 50K → scale all channels ($50K+/mo). Dan's personal trajectory validates this path."
+      domains: [monetization, audience-building, digital-leverage]
+      source: "2HW"
+      confidence: 0.85
+
+    - id: "MET-DK-028"
+      title: "Content Strategy for Service-Based Businesses"
+      description: "Service business content strategy: (1) Create content that demonstrates the transformation your service provides, (2) Use case studies as proof (with permission), (3) Share your methodology publicly (trust-building), (4) Post results regularly, (5) Use DMs to qualify interested people, (6) Direct to application/call, (7) Let content do the selling — the call is just logistics."
+      domains: [sales, content-strategy, monetization]
+      source: "2HW"
+      confidence: 0.85
+
+    - id: "MET-DK-029"
+      title: "Week-Based Content Planning"
+      description: "Weekly planning process: (1) Review previous week's analytics — what performed? (2) Check Queue for high-potential items, (3) Plan 3-5 tweet themes per day, (4) Plan 1-2 threads for the week, (5) Plan newsletter topic and outline, (6) Schedule at least 3 promotion posts, (7) Set engagement targets (# of replies/day). Plan on Sunday, execute Monday-Saturday."
+      domains: [content-strategy, productivity, content-creation]
+      source: "2HW"
+      confidence: 0.85
+
+    - id: "MET-DK-030"
+      title: "Horizontal and Vertical Questioning for Ideas"
+      description: "Idea expansion technique: Take any concept and ask Horizontal questions (What else relates? What's a parallel in another field? Who else talks about this?) to expand breadth. Then ask Vertical questions (Why does this matter? What's underneath this? What's the root cause?) to expand depth. Document all answers in Queue. One concept generates 10-20 content ideas."
+      domains: [idea-generation, creativity, writing]
+      source: "2HW"
+      confidence: 0.85
+
+    - id: "MET-DK-031"
+      title: "First 30 Days Twitter Playbook"
+      description: "Day 1-7: Set up profile (photo, bio, banner, pinned tweet). Follow 100 accounts in niche. Day 8-14: Post 3 tweets daily, reply to 15 accounts daily, join 1 engagement group. Day 15-21: Increase to 5 tweets daily, experiment with different structures, track what performs. Day 22-30: Write first thread, reach out to 5 creators via DM, evaluate and adjust strategy. Target: 200-500 followers by day 30."
+      domains: [twitter-growth, audience-building, social-media]
+      source: "2HW"
+      confidence: 0.85
+
+    - id: "MET-DK-032"
+      title: "Lead Magnet Creation Process"
+      description: "Create a converting lead magnet: (1) Identify the #1 question your audience asks, (2) Create a short PDF/guide (5-10 pages) that answers it, (3) Design a simple cover (Canva), (4) Set up landing page on Beehiiv or ConvertKit, (5) Write a tweet announcing it, (6) Pin the tweet, (7) Add link to bio. The lead magnet should solve one specific problem completely, not be a mini-course."
+      domains: [email-marketing, audience-building, offer-creation]
+      source: "2HW"
+      confidence: 0.85
+
+    - id: "MET-DK-033"
+      title: "DM Sales Process for Services"
+      description: "Sell services through DMs: (1) Wait for inbound interest (from content), (2) Qualify — ask about their situation and goals, (3) Identify if you can help (honest assessment), (4) Describe the transformation (not features), (5) Share relevant case study or result, (6) State price and timeline, (7) Create urgency (limited spots or deadline). Never hard sell in DMs — attract, qualify, present."
+      domains: [sales, networking, monetization]
+      source: "2HW"
+      confidence: 0.85
+
+    - id: "MET-DK-034"
+      title: "Content Audit Process (Monthly)"
+      description: "Monthly content review: (1) Export analytics for all posts, (2) Identify top 10% by engagement, (3) Analyze what they have in common (topic, structure, timing), (4) Identify bottom 10% — what failed? (5) Adjust content pillar distribution based on performance, (6) Update Queue priorities, (7) Plan next month's content themes based on data, not gut feeling."
+      domains: [content-strategy, productivity, social-media]
+      source: "2HW"
+      confidence: 0.85
+
+    - id: "MET-DK-035"
+      title: "Newsletter to Product Pipeline"
+      description: "Turn newsletter content into products: (1) Write newsletters for 3-6 months, (2) Identify which topics get most replies and saves, (3) Compile related newsletters into a structured guide, (4) Add frameworks and templates, (5) Package as a digital product ($27-$97), (6) Sell first to newsletter audience, (7) Use sales data to refine next product. Your audience tells you what to build through engagement."
+      domains: [monetization, newsletter-marketing, offer-creation]
+      source: "2HW"
+      confidence: 0.85
+
+    - id: "MET-DK-036"
+      title: "Platform Expansion Methodology"
+      description: "Expand from Twitter to new platforms: (1) Master Twitter first (6-12 months minimum), (2) Choose ONE additional platform based on audience overlap, (3) Repurpose existing content — don't create from scratch, (4) Adapt format to platform norms (LinkedIn = professional, Instagram = visual), (5) Maintain Twitter as primary, (6) Add next platform only after new one is self-sustaining. Never maintain more than 3 active platforms."
+      domains: [social-media, content-strategy, content-repurposing]
+      source: "2HW"
+      confidence: 0.85

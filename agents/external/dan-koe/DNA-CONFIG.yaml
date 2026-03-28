@@ -1,0 +1,44 @@
+# DNA-CONFIG: Dan Koe
+# Tipo: SOLO (pessoa)
+# Versao: 1.0.0
+# Ultima atualizacao: 2026-03-28
+
+agent_type: SOLO
+person: dan-koe
+display_name: "Dan Koe"
+
+dna_sources:
+  - person: dan-koe
+    weight: 1.0
+    path: "knowledge/external/dna/persons/dan-koe/DNA.yaml"
+    raiz: "knowledge/external/sources/dan-koe/raw/"
+    elements: 200
+    version: "1.0.0"
+    sources_count: 1
+
+domains:
+  primary:
+    - content-creation
+    - writing
+    - personal-branding
+    - twitter-growth
+  secondary:
+    - newsletter-marketing
+    - audience-building
+    - persuasion
+    - networking
+    - monetization
+  tertiary:
+    - lifestyle-design
+    - creativity
+    - idea-generation
+
+materiais_fonte:
+  - id: 2HW
+    nome: "The 2 Hour Writer"
+    tipo: COURSE
+    ano: 2022
+    arquivos: 46
+    tamanho: "~484KB"
+    path_raw: "knowledge/external/sources/dan-koe/raw/the-2-hour-writer/"
+    conteudo: "Complete writing system: Content Synthesis, 3-Point Ecosystem, Twitter growth, newsletter marketing, Non-Needy Networking, monetization via high-ticket services"
