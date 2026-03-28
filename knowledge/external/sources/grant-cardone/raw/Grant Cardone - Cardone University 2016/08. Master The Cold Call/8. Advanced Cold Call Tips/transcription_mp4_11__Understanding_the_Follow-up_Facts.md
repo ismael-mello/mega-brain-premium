@@ -1,0 +1,12 @@
+# Transcrição: 11. Understanding the Follow-up Facts
+
+- **Fonte:** 11. Understanding the Follow-up Facts
+- **Duração:** 02:09
+- **Idioma:** en
+- **Modelo:** small
+
+---
+
+## [00:00 - 02:09]
+
+Understand and follow up facts. Follow up is like the holy grail. This is the thing that separates the men from the boys and the girls from the queens. Two percent of sales are made on the first call. Two percent, two percent. Less than a two percent chance of making a sale after the first call. Three percent are made on the second call. Five percent are made after three calls. Ten percent of all sales are made on four calls. And eighty percent are made between the fifth and the twelfth call. Look, if you're going to be in cold calling, if you're going to be in sales thinking that you should be selling everyone that you call, look, it's just not going to happen. You want to sell everyone? You've got to keep calling people back. You have to understand that follow up is going to determine how much you sell. In fact, you're going to lose 98% of the time if you don't have a plan to get deep into the game of follow up. You don't have a plan. You don't know where to start. You don't know what to do next. You don't have to do that after the second call, the third call, the fifth call, the eighth call. You're like, dude, I'm done. I'm out. I don't have any more calls than me. Hey, why don't you wander over to the follow up course. Get on my follow up material where it tells you every call to make, day one, day two, day three, day four. If you want to make two calls in one day, it tells you and gives you ideas exactly how to make the call. When not to make a call, when to use a text, when to use a video, when to use a script, when to use a third party, when to bring in backup. Man, man, I wish I knew this. I wish I knew what I wish I knew. What old grantee knows, but you can. You can. It's all here for you. How do I professionally persist with a client, with every client long enough to build enough credibility, enough respect, enough value in me? Forget the product, the service. Me. Forget the company. Me. Because look, if I don't value you, then it's just any company. I'll just buy it from anybody. That's why people aren't loyal to companies, because there's never a connection with people. Right? How do you get that? In a technology age, when I could buy from Amazon, how do I? How do I create a connection with a customer? You do it through follow-up, period.

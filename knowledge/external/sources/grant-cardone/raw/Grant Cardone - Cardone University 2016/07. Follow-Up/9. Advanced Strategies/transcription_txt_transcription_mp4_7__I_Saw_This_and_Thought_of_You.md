@@ -1,0 +1,9 @@
+# Extracao: transcription_mp4_7__I_Saw_This_and_Thought_of_You
+
+- **Fonte:** transcription_mp4_7__I_Saw_This_and_Thought_of_You.txt
+- **Tipo:** TXT
+- **Tamanho:** 0 MB
+
+---
+
+I saw this and thought of you. Look, I love this follow-up. Okay, it could be a mail, it could be text, it could be email, it could be a mention and a tweet. Look, I saw this and I thought of the real Tony Rocha. Okay, this is a great one when reading an interesting article, a blog, a post. Look, the only reason I read the news is to use that information to follow up my customers. Literally the single only reason I tune into Business Insider, CNBC, CNN, Fox, anybody. People are like, I didn't think you watch the news. The only reason I watch it is to share it with the people that I'm following up on. I go to an exhibition or a trade show. I'm collecting data there. Okay, I'm collecting people. I want to follow those people up with links and ideas and a great way to do that is I just met somebody at a trade show two days later. Man, I saw this car or I saw this product or I saw this book and I thought of you. Do you like to read? If you do, I'd like to send it to you. Notice I didn't send the person the book. I took a picture of a book, sent him a text. Hey, Eric, I saw this book and thought of you. I'd like to get your copy of it. Do you read? See, I didn't have to invest in the book yet and I'll make two follows up if he says, yes, I like books, then I can send it, but at least this way I've made two contacts. This is powerful. Okay. Hey, I saw this and I thought of you. Do this regularly and you will find yourself, okay, be lifted up with your customers, those people that you want to sell. It's simple, it's easy and it's effective.

@@ -1,0 +1,12 @@
+# Transcrição: 2. Stay Involved with Your Community - Be Social
+
+- **Fonte:** 2. Stay Involved with Your Community - Be Social
+- **Duração:** 01:59
+- **Idioma:** en
+- **Modelo:** small
+
+---
+
+## [00:00 - 01:59]
+
+Stay involved with your community. Be social. Stay connected. Extravert yourself. Too many people are staying at home. They're in the kitchen. They're at their house. They spend time in this confines of this house that is so important to them. Look, there's nothing there. Look, you want to go out into the community. Extravert into the community where people are. You need attention. People need to know you. You got to become a celebrity. You need to make the news, not watch the news. You need to do something great, not good. Look, all that requires people. That means you need to stay connected to your community, your church, the PTA, the schools, the government, politics, all the things your family said stay out of. Look, go do it. Extravert. Meet strangers. Like my little three-year-old, I'm like, go meet that man over there. I don't know that man. Go meet him. Okay, but I don't know him. He's a stranger. Go meet him. I need her to meet strangers. That's what I'm telling you here. You want to get motivated? Make new friends. Reach up for those friends. Go get involved in the community. Be willing to touch everybody. Talk to everybody. Be like you're running for the president of the United States and you're going to extrovert into the community. You're going to make yourself known. Grant, I'm an introvert. I'm just not like that. Okay? I'm not like you, Grant. You don't know what I'm like. How would you know what I'm like? You think that what you see now is what I'm like? No. I'm extroverting myself into the community so I'm social connected, hooked up, people know me, people can help me. Oh, I'm motivated, man. I got a full calendar. How are you going to have a full calendar if you're not hooking up with people? Okay, look, the hundred tips. They're not three tips. There's hundreds of ways to stay motivated. Don't use three of them. Use them all, particularly the ones that scare you and the ones you're less likely to do might be the ones you want like this one. Stay involved with your community. Be social.

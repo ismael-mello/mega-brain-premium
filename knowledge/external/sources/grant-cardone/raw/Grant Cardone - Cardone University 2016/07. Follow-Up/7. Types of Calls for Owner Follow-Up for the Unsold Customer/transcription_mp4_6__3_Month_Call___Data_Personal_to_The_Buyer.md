@@ -1,0 +1,12 @@
+# Transcrição: 6. 3 Month Call – Data Personal to The Buyer
+
+- **Fonte:** 6. 3 Month Call – Data Personal to The Buyer
+- **Duração:** 01:37
+- **Idioma:** en
+- **Modelo:** small
+
+---
+
+## [00:00 - 01:37]
+
+It's been 90 days, three months since the purchase, since you had a new customer and they had your product or service. Now is the time. If you haven't already handwritten a note, you should have done that already. We probably replaced that at 30 days with a personal visit. But if you haven't done the personal handwritten note, thank you. Here's my number. Write the number in. Don't just slam a card. Now is the time to do it, okay? Also, on this call, on this call, if you haven't already done a handwritten note, the reason I'm calling, call them up by the way you can do both on the same day. You can handwrite a note and call. Hey, I just sent you a note. That's the reason I'm calling. Want to be sure you get it, okay? Hey, the reason I'm calling has been 90 days, three months. Maybe they have something coming up, some kind of warranty check, some kind of situation you got to look at. Do you have any questions? Did that last thing get resolved? The reason I'm calling is you could even have this. I saw you in the newspaper or I noticed your company went public. Look for other data to call these people back. You need your schedule laid out. You'll see the whole thing here. Then what you want to do is use reasons to fill up that calendar, okay? Hey, it could be. I want to wish you happy Labor Day. There's so many reasons to call people. It's unbelievable. First, you got to make a commitment, then you got to get organized, then you got to make the call. In this case, 90 days. The reason I'm calling is pick. I saw your company in the paper, man. Congratulations. I understand you might be being promoted. I heard that. No, you did. I didn't hear that. I just made it up. I didn't have a reason to call. So I did, okay? 30 days, 60 days, 90 days. What have you done now? Is this four calls, five calls, 90 days? Follow up.

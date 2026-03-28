@@ -1,0 +1,12 @@
+# Transcrição: 3-03 Make Quality Time for Your Family Everyday
+
+- **Fonte:** 3-03 Make Quality Time for Your Family Everyday
+- **Duração:** 01:46
+- **Idioma:** en
+- **Modelo:** small
+
+---
+
+## [00:00 - 01:46]
+
+Make quality time for your family every day. Not every once in a while, every day. Make the time. You know, I remember when we had our first baby at my house, I was like, okay what am I gonna do to make quality time here? I had my schedule, I've been working this routine out for 50 years, right? And all of a sudden I have this baby and I'm like, I gotta figure out some time with this kid. I'm not talking about my wife now, and I'm not talking about my business. I'm talking about this new little infant that was born. And so I'm like, okay what do I got to do? Oh, I know what I'm gonna do. I'm gonna get up an hour earlier than I normally would. I'm gonna work it out with her routine when she gets up and I'm gonna have that quality time with that little girl. We had another little girl three years later. Now I gotta figure that out with her. So look, you gotta figure it out. And that's why I'm telling you, don't manage time, control time. Get it all done. Don't get pieces and parts of it done. I know too many people that have money but no quality life with their family. I know people that have a lot of quality time with their family and they don't have the money. So you don't want that. You want it all, right? So how do you get that? Decide to make quality time for your family every day. For all the different individuals in that family. Maybe for you it includes a mom and a dad and brothers. I gotta literally put that on my calendar. When am I gonna call my sister, my twin brother? When am I gonna talk to my cousin I hadn't seen in years? Because if I don't do it, if I don't have it on my calendar, if I haven't made a commitment to make quality time for my family, extended family. Look, if I can't do that for them, guarantee it's gonna fall off with my clients, my customers, my dreams, myself. Make quality time for your family. Put it on there every day that you're gonna make contact with one of those people because trust me and I know a lot about this. There's gonna be a day when you can't share quality time with some of your family members.

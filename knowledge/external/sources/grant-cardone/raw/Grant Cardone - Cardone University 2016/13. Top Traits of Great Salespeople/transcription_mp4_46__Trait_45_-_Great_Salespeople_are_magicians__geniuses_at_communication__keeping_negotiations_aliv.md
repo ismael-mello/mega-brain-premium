@@ -1,0 +1,12 @@
+# Transcrição: 46. Trait 45 - Great Salespeople are magicians, geniuses at communication, keeping negotiations alive when others would let them die.
+
+- **Fonte:** 46. Trait 45 - Great Salespeople are magicians, geniuses at communication, keeping negotiations alive when others would let them die.
+- **Duração:** 01:50
+- **Idioma:** en
+- **Modelo:** small
+
+---
+
+## [00:00 - 01:50]
+
+Great salespeople are magicians or geniuses at communication. They're unbelievable at keeping a negotiations alive when others would let them die. They know how to agree, you know I talk about in Sell or Be Sold, the first rule of selling, always always always agree, and then even though they agreed they're able to go back and negotiate, agree on something again, and then renegotiate all over again. I've actually had people sit on the sit in on negotiations of mine and then they would tell me later, yeah but you guys agreed on this this and this, I'm like yeah but it doesn't work anymore, and they're like yeah but you already agreed on that, like yeah but it doesn't work anymore, you know, don't you understand? They're like yeah but y'all already agreed on it, I'm like yeah but it doesn't work anymore, I got to go back in now and I got to tell them that the new deal is this, because if it doesn't work for me it doesn't work for them, it doesn't work for anyone. The greats are superb, they're unbelievable at communication, it's staying into the future, the present in the future, a superb ability at keeping things moving even when I got to go back and maybe undo something or when things bog down. They're unbelievably positive people, positive communication skills that keep things white and fluid when things are getting really really serious. You ever been in that negotiations? Everything gets serious, bogged down, heavy, this guy comes in, he's positive, he keeps it light, he laughs about it, he's fluid. Man, Grant how am I going to learn all this? First you got to commit to being great, okay, then you got to practice, you got to role play, you got to get lots of content. Check out Closer Survival Guide, okay, it's going to keep you alive in the negotiations, keep you liquid, fluid, keep you communicating positive so things don't get all bogged down. This is an unbelievable skill of great negotiators, great closers, and great sales people.

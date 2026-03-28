@@ -1,0 +1,9 @@
+# Extracao: transcription_mp4_1__Get_in_a_Mastermind_Group_of_Winners
+
+- **Fonte:** transcription_mp4_1__Get_in_a_Mastermind_Group_of_Winners.txt
+- **Tipo:** TXT
+- **Tamanho:** 0 MB
+
+---
+
+Get in a mastermind group. Surround yourself with winners. Get in a group of people that meets at least once a week that are winners, not sinners. People that are like they want to expand and blow up. They want to do this potential thing. They want to operate on their their duty and their obligation. Surround yourself with winners. Look if I could take the your five best friends and see their body weight, okay, how their marriage is, and what their net worth is. I'll bet you, I'll bet you I could identify at least two of the three conditions of your life. Probably your body weight, probably your financial condition, and probably how your marriage is in. At least two of the three of those is going to be exactly what the five your five best friends, your group, your buddies. Oh, we're all buddies. You don't need buddies. You need winners around you. You need to surround yourself with a mastermind group. Once a week you meet and hope that you outgrow these guys as quick as you possibly can and then you go get another group of players. Look, you don't want to keep the same friends you've had your whole life, okay. I had a buddy tell me, I mean me and Gus here, we've been buddies since we were freaking three years old. You complainin', right? Okay, I mean you understand this is a problem having childhood friends, okay. I know you think it's a big deal. Look, you need some new friends. You need some new winners. You need to be reaching up. You need to be go grab people that no more been done more, have more, creating more, dreaming bigger. Those people can teach you so much. There'll be fuel, fuel, motivation and inspiration for you tomorrow and going forward. Get in a mastermind group.

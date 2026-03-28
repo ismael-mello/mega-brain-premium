@@ -1,0 +1,12 @@
+# Transcrição: 00-10X Facebook System
+
+- **Fonte:** 00-10X Facebook System
+- **Duração:** 02:24
+- **Idioma:** en
+- **Modelo:** small
+
+---
+
+## [00:00 - 02:24]
+
+Money follows attention. Hey, let me guess, you heard that people stop joining Facebook? Well, you're right. Because nearly every human being online is already using Facebook. Look, Instagram is the only platform that comes close and Facebook owns that one. Remember, money follows attention and when billions of active users, Facebook is where the attention is. Oh, by the way, my name is Grant Cardone and I absolutely dominate Facebook. I've organically amassed 6 million followers on the book and that number is growing every single day. So no matter how you feel about Facebook, you got to stop thinking like a consumer and start thinking like a business owner. Look, Facebook not only gives you the biggest, most qualified audience in the world, when you do it right, it will make you big money. But here's the thing, if you struggle to get any results on Facebook, yes, it can be difficult. It's not that using Facebook is hard. It's really easy. You probably use most of the features already. But if you want to get the results you want on Facebook, then you have to know certain things. Number one, what type of content should you be posting? How do you grow your followers and keep them engaged? And most importantly, how do you turn your Facebook into real money? Look, not to worry. When you get our 10X Facebook system, I'm going to show you how to maximize and utilize and take advantage of the largest social network on planet Earth. This is the most easy to understand and most comprehensive Facebook marketing training ever created. When you download our Facebook manual, I'm going to immediately shortcut your social media success on Facebook. You'll know exactly what strategies to use, what mistakes to avoid, and what steps you need to take to grow your Facebook business so that it converts. I'm going to give you our step-by-step video tutorial so no matter how much you've struggled in the past, you just simply follow along and do exactly what I do. You're going to get our flow chart so you can plan out and build your content calendar. I'm going to give you our checklist to make sure you maximize the results from every post. Most importantly, by the way, I'm going to give you our Facebook swipe files. It's basically a file of all our best posts, the ones that have gone viral. So enough talk. Let's get to work. Jump into this thing. Let's get started right now. You

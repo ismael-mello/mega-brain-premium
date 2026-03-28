@@ -1,0 +1,12 @@
+# Transcrição: 4. Service Type Calls
+
+- **Fonte:** 4. Service Type Calls
+- **Duração:** 01:56
+- **Idioma:** en
+- **Modelo:** small
+
+---
+
+## [00:00 - 01:56]
+
+What are we doing here? We're taking that pipeline you have right now that's all small and restricted. It's a little tiny thing like a little quarter inch hose and we're going to blow that thing up into three quarter inch pipe big pipeline. Okay we're going to blow it up. Service type cause is the next category. Who is doing service with you right now? Who comes to you and says hey this doesn't work or that doesn't work or I don't know how to work this. That might also come off your sold list so you might see some duplication here. But also we're looking for people that get service that haven't bought from you. What would that be? Somebody that that maybe is only servicing with you. They're using your company for customer service, repair, fixies, problems, questions. Where's that data at? How many of these people do you see or hear from every day? If you're not hearing from these people directly maybe you have a department that's doing that and you want to sit with the service manager or repair person there and say where do I get the list of everybody today, yesterday, last week, last month that have come in for repair, fixies, questions, problems, warranty work, build a list. It could be a monster, monster list. This is overlooked by sales people. You think you're selling people that are coming to buy and I think I'm selling everybody that comes for service. Okay now how are you going to contact these people? Where are you going to build a file? How do you know about them? That's a very, very strong generation of activity. Connect up with your service person, repair office, your repair department, return department. All those are tremendous prospects. Make a list. Don't move on. This is harder than the first two but again we're blowing up your pipeline. Okay so take the time now before you move on to the next chapter. Build the list. Management. You need to build your own list for all of these three as well. Not just the sales organization. Who have you sold? Who's in your immediate family and who are you seeing come in for service every day?

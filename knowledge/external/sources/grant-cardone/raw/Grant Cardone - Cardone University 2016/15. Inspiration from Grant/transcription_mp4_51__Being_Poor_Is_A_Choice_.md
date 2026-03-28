@@ -1,0 +1,12 @@
+# Transcrição: 51. Being Poor Is A Choice 
+
+- **Fonte:** 51. Being Poor Is A Choice 
+- **Duração:** 02:15
+- **Idioma:** en
+- **Modelo:** small
+
+---
+
+## [00:00 - 02:15]
+
+Let's face it everybody's got two cents and everybody's got two minutes. So here's my two cents in under two minutes I'm gonna get some haters on this one. I promise you I know it. I'm telling you in advance Bring on the hate diggity dog. Look it is bad to be poor There is nothing attractive about being poor Okay, I'm and I know I'm offending people right now, but folks look being poor is a choice Being middle class is a choice being upper middle class is a choice being rich is a choice I'm telling you it's just a choice. You may not like to hear it. Don't blame the messenger man Okay, I'm telling you the truth if you're gonna be unhappy get some money to go with it. Okay being poor is miserable I know I've been broke busted not a penny in the bank being poor is not attractive. It's not good It's not healthy. It's distasteful for the person. Just go ask a bunch of poor people. Hey man, you like being poor? Of course, they don't see you you and your family need to get it lined up money ain't bad Being rich isn't bad being successful in bed having more than you need is not bad You want that you don't want to be Greece. You don't want to be in Italy You don't want to be America and continue with the problems is having right now with this debt 16 trillion dollars in debt no way to create revenue. You don't want that problem You don't want to be the family that's got a negative $75,000 in net worth. No, no, no flip it man. You want $750,000 What I'm telling you is poor is not a good healthy state if you put in your first name last name and your email address I'm gonna send you a strategy to your personal email address not your business email address But your personal email address every week I'm gonna show you how to go from the poor column to the rich column and it'll cost you nothing and I promise you I promise you if you want to get out of that poor column if you truly think poor is bad Not good not healthy and you want to get in that other one I promise you I can get you there and you'll spend nothing to do it You

@@ -1,0 +1,9 @@
+# Extracao: transcription_mp4_7__The_New_Situation
+
+- **Fonte:** transcription_mp4_7__The_New_Situation.txt
+- **Tipo:** TXT
+- **Tamanho:** 0 MB
+
+---
+
+Okay, these questions, you need to know these cold. That is, you need to sit down, memorize these so you know them backwards and forward, automatically, literally memorize these, okay? This is about the current situation, what they're looking for, the new situation, okay? Hey, you want to go bigger or smaller than what you have now? Now you're going to have to customize these and fine tune them for your product line, all right? Could be longer or shorter. It could be heavier or lighter, whatever, okay? Who will be the primary user? Who will be the secondary user? Will that person be involved in the selection? What equipment or how do you want it, you know, set up? What is actually required of you on the equipment or the set up or the way you want it packaged? What options would you like to have if affordable? What do you have or what do you want on your new one that your present situation doesn't have? What do you demand the new do for you that your present one doesn't do for you? What benefit, what major benefit do you hope to get from your new? What secondary benefit do you hope to get? Oh, by the way, why do you have an interest in this? Why is this product important to you? Why are you considering it at this time? Why now? Why did you call today? Why did you come in today? Have you ever owned something like this before? What is the single most important thing about or that you want from your next and why? What's the second most important consideration of this purchase and why? Look, you need to learn this list cold, okay? Now one of the things I would do with memory is I would literally take this list, okay? Make the list and sit down in front of a wall and just duplicate it just the way I did to the camera.

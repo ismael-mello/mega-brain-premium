@@ -1,0 +1,12 @@
+# Transcrição: 42. How To Be A Millionaire! 
+
+- **Fonte:** 42. How To Be A Millionaire! 
+- **Duração:** 01:56
+- **Idioma:** en
+- **Modelo:** small
+
+---
+
+## [00:00 - 01:56]
+
+Let's face it everybody's got two cents and everybody's got two minutes So here's my two cents in under two minutes how to be a billionaire I want to be a billionaire. I want to be a billionaire. You know that song man. I was humming that song I'm like I want to be a billionaire and a lady came up to me after this meeting I did this morning in Los Angeles. She says I just want to be a millionaire. I'm like you already are a millionaire She's like what do you mean? I'm like look everybody's a millionaire at something Everybody is a millionaire. Come on. How many times have you had gas? At least a million times in your lifetime, right? How many times have you took a breath of air at least a million times? How many times is your heart beating your heart beat it? That's not even a word But how many times does that happen right at least a million times? She most people are millionaires in many things They're just not like looking at what they're a millionaire at being a millionaire is not that difficult. I'm telling you It's not that difficult look how many people do you know that are millionaires and excuses? Millionaires in being late millionaires it not making things work. How about a millionaire at failing? How about a millionaire at dreams see how about a millionaire at thoughts? Look if you can be a millionaire that easily in so many different areas Why don't you just put your focus down and say hey now? I'm gonna be a millionaire at money because that's what it is It's about focus. What are you focused on excuses reasons alibis? Justifications being late eating too much chocolate You think you hadn't had a million pieces of chocolate in your lifetime probably how if you overeat in a million times Do you have a million calories of consumption in your lifetime? Sure million breaths air million heartbeats? You're a millionaire already just change the way you're thinking about it. Hey now. I want to be a millionaire on money Now I want to now want to create enough wealth for myself and my family so I can actually take care of them folks That's not a bad thing. Oh, um by the way you guys that say oh money won't make you happy Look you're just a millionaire excuses you're a millionaire at little quotes that mean nothing and go nowhere What are you gonna be a millionaire on?

@@ -1,0 +1,12 @@
+# Transcrição: 31. Sears Epic Fail at Customer Service 
+
+- **Fonte:** 31. Sears Epic Fail at Customer Service 
+- **Duração:** 01:29
+- **Idioma:** en
+- **Modelo:** small
+
+---
+
+## [00:00 - 01:29]
+
+Let's face it everybody's got two cents and everybody's got two minutes. So here's my two cents in under two minutes Okay, look I just spent 19 minutes and 21 seconds In a Sears in North Hollywood it took me 20 minutes just to get here a shop for Kardashian clothes jackets Snapper longmores, okay Toolboxes the men's goodies the tools etc The only time I got weighed on was when they saw the cameras literally I bet you I can do this in 2000 Sears stores across America and I'd have the same experience every time Sears problem is an internal problem There's no customer service the places look tired run down. Look. I'm not trying to be negative here I'm just trying to bring it real. We're shutting 120 stores down Four years after everybody else did their shutdowns they went bought Kmart and lands in thinking okay We're gonna buy our way out of a problem. We're gonna buy this We're gonna become the third biggest retailer in the country because we buy stuff But the truth is all they did was take sales from four billion a year to under four hundred million a year It's unbelievable an American icon like Sears is getting run into the ground because nobody Takes care of the customer. Nobody knows I was in there. Nobody knew I was a guest until they saw cameras They don't even know they got a customer walk and do their store three days after Christmas that has money to buy something No customer service equals no revenue. No revenue equals problem and that is Sears problem

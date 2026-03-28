@@ -1,0 +1,9 @@
+# Extracao: transcription_mp4_VT_System
+
+- **Fonte:** transcription_mp4_VT_System.txt
+- **Tipo:** TXT
+- **Tamanho:** 0 MB
+
+---
+
+The basic building blocks of money, number one, most important, but you look you got to have your basic building blocks and we've talked about some of the myths. The number one basic building block of money is this. Income. Income is king. If you don't have new income, you're dead. You have to be getting new income. Now, I know this sounds basic, which is what it is. But a lot of people have this confused. People are out there trying to save money. People are out there every day talking about debts, bad saving. I need to save more money. Look, if you don't have income, if you don't have enough income, there's no money to save. There's no money to retire on. There's no money to invest. There is no chance of wealth without income first. You're gonna hear a lot of people tell you a lot of different things like, like, for instance, income is not what you want. Wealth is what you want. Look, you can't get to wealth without income. You need income. Some of you out there have been told to believe that job just means just overbroke. Look, a job is about income. The reason people get a job is to get income. Now the question is, how much income can you protect? How much can you incrementally increase that income, which is going to be one of the other basic building blocks? But understand this. Don't let anybody ever tell you that income isn't king. Saving is not king. Spending is not king. Income is king. And that is the number one most basic building block. I'm gonna be showing you in this segment how to take your income, grow it. But the first thing you have to start with is this. Income is not a bad thing, even though it's taxed. Yeah, it's not the best thing. It's not the thing I ultimately want to be at, which is wealth. I want to be at wealth. But I got to have income to get to wealth.

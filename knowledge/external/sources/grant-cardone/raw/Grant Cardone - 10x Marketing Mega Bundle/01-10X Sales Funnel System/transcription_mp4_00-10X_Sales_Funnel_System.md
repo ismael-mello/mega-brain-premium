@@ -1,0 +1,12 @@
+# Transcrição: 00-10X Sales Funnel System
+
+- **Fonte:** 00-10X Sales Funnel System
+- **Duração:** 02:13
+- **Idioma:** en
+- **Modelo:** small
+
+---
+
+## [00:00 - 02:13]
+
+Money follows attention. So you want to generate more leads, more sales, make more money? Then you probably already know what you need. You need a sales funnel. Look, it doesn't matter whether it's a product, a service, or a subscription. It's true that you're just one funnel away from stacking up some cash. My name's Grant Cardone. And me and my team know funnels better than anyone else in the world. Have you ever seen those pictures of people holding up two comma club awards? Well, we 10x that. We built so many million dollar funnels, we don't even pick up our awards. But here's the thing, if you're new to funnels and you've struggled to get one going, it is not easy. Sure, systems like ClickFunnels make it possible for anyone to build a funnel, but you don't need code and you don't need tech skills, but you do need one thing, you need a plan. What kind of funnel should you build? How do you optimize your funnel to get maximum good quality solid leads that will convert? And most importantly, how do you do this without wasting a bunch of time picking out pictures and graphics in the right words, the copyright? Well, not to worry. I'll answer all those questions and more inside our 10x sales funnel system. This is the most easy to understand comprehensive sales funnel training ever created on the planet. When you download the detailed sales funnel manual, it'll instantly become clear to you on how funnels actually work, how they convert, the mistakes to avoid, and the simple ABC 1, 2, 3 steps that you need to make so you can start getting leads that convert so you can start making money. You're also getting our step-by-step video tutorials. So no matter how much you've struggled in the past, all you have to do is simply follow along. You'll be getting our flow charts so you can visualize how these funnels work for you. You've got checklists to make sure you set up EAT so you can go back and say, oh, I missed this one piece. Most importantly, you're getting our swipe files where you get access to all our top performing funnels. Look, there's no better way than to learn what already works. So enough talk. Let's get to work jumping into this thing. Let's get the sales roll. Let's get the leads. Let's get started right now.

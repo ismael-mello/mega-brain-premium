@@ -1,0 +1,9 @@
+# Extracao: transcription_mp4_40__Motivation_and_Fast_Foods_
+
+- **Fonte:** transcription_mp4_40__Motivation_and_Fast_Foods_.txt
+- **Tipo:** TXT
+- **Tamanho:** 0 MB
+
+---
+
+Let's face it everybody's got two cents and everybody's got two minutes So here's my two cents in under two minutes. Hey, have you read this cheeseburger stayed exactly the same after one year? 365 days a nutritionist took a hamburger a cheeseburger set it aside unwrapped and Man the maggots won't even eat it. Do you understand that these hamburgers at McDonald's? Look if it's fast it probably isn't good for you. So check it out. You can buy a hamburger for what 69 cents Oh my gosh, what a deal the maggots don't even want the hamburger, bro The bacteria is not even interested in the hamburger. It's got 38 ingredients I'm sorry 15 to 32 different ingredients. It ain't a casserole, man It's a hamburger and it ain't any good for you And then we wonder why we got the highest obesity in the world Look when you were a kid eight nine ten twelve years old you could eat anything You could eat plastic toys and get it out of your system because you were running Exercising jumping you weren't on an iPad all day long You weren't jacking sitting around on a sofa watching TV all day long you were active and that's why you weren't obese You can't afford to put plastic into your body styrofoam junk things they call food You can't afford to put that in your system and sit around and do nothing because it's just gonna sit there man Remember fast food you think fast food you think this Bacteria and maggots aren't even interested only human beings would pay for this

@@ -1,0 +1,9 @@
+# Extracao: transcription_mp4_42__Trait_41-_Great_Salespeople_trust_instinct__creativity_and_passion_to_fuel_them_
+
+- **Fonte:** transcription_mp4_42__Trait_41-_Great_Salespeople_trust_instinct__creativity_and_passion_to_fuel_them_.txt
+- **Tipo:** TXT
+- **Tamanho:** 0 MB
+
+---
+
+Great salespeople trust instinct, creativity, and passion to lead and fuel them. Now I know these are very esoteric concepts, creativity, you know? And oh my gosh, where did that thought come from? You're driving down the road and you're like, oh I just started Mr. Johnson. I got a call Mr. Johnson today. You have no idea or reason. You know what the great would do? He'd make the phone call right now. He knows intuitively he's connected to his clientele so well intuitively. Think about being a parent. You ever thought about your kid? Oh my kid, he's gonna do something crazy. He's gonna put his finger in a socket or he's gonna jump in the pool. You were right. Follow that intuition. Great salespeople, great businesspeople know how to follow this instinct. The greats show up. I show up completely, 100% and know my brilliance. The brilliance we all have in us, okay? It shows up with you. When you show up completely, all the way, 100%, then let the intuitive, the creativity, let your brilliance just come and trust it. The greats don't need everything figured out. They do things that are exceptional. They do things other people can't figure out how to do because they showed up, trusted that intuition, trusted their creativity, trusted their brilliance and then it got figured out. Okay? That's what I'm talking about. The magician. But you got to show up first. Be great, trust your intuition and that's gonna come from being completely committed to your profession.

@@ -1,0 +1,12 @@
+# Transcrição: 82. You're Being Deceived 
+
+- **Fonte:** 82. You're Being Deceived 
+- **Duração:** 02:21
+- **Idioma:** en
+- **Modelo:** small
+
+---
+
+## [00:00 - 02:21]
+
+Let's face it everybody's got two cents and everybody's got two minutes So here's my two cents in under two minutes. Hey Grant Cardone here, New York Times best-selling author Just came out with another book sell or be sold. That's five books since a lemons collapse I'm very proud of that by the way, and look I'm here today to tell you don't be deceived. That's right. Not bad news I'm not being negative. I'm telling you you need to be alert right now. You need to understand what is happening There's headliners everywhere the economy is improving business is getting better Consumers are spending you're being deceived. Okay last night It was reported that the unemployment numbers came down good great I'm all for good news But the reality is this month unemployment dropped from 8.3 to 8.2 But if you notice if you look at the numbers close enough, you're gonna see that last month We added 220,000 jobs this month. We only added a hundred last month the numbers didn't change the percentage 8.3 didn't change but this month it changed a point How can that be and oh by the way, why were the job numbers that are disappointing half of what was expected? Why were they reported on a good Friday? Where the stop market is closed and why am I telling you all this because you're being deceived You're being told that the world is getting good and the truth is you need to look and ask yourself Is my financial situation getting better? Am I making more money? What does the future hold? Am I saving money am I putting money away? Am I better prepared? Because folks it's gonna get more difficult America get on guard baby middle class if you don't want to be further punished and crushed Get on guard. Okay. Get on guard get your wife get your husband get your kids on their toes Hey, man, what can we where where can we create some success from where can we go knock on another door? Where can we make another phone call? How can I send out some more mail? What do I got to do to say more motivating forget what these these goofs at Washington are telling me? So you can get your game on you can take care of your family you can take care of your business You can become more valuable in the marketplace and not depend on what you and I both know are just guys That deceive the public You

@@ -1,0 +1,12 @@
+# Transcrição: 10. Give More than is Expected of You
+
+- **Fonte:** 10. Give More than is Expected of You
+- **Duração:** 01:29
+- **Idioma:** en
+- **Modelo:** small
+
+---
+
+## [00:00 - 01:29]
+
+Give, give, give. Look, give more than is ever expected of you. In every encounter, give people more than they would have ever expected was even fair. You want to exchange with people in ways that are so abundant, so overwhelming that they're like, dude, you got to stop. You got to quit giving me here, okay? Give people more. And I know what you're thinking, man, if I do that, people are going to take advantage of me. Most people are not going to take advantage of you. You know what they're going to do? Most people are going to want to reciprocate. They're going to want to take care of you in exchange. Don't worry. Don't worry that people could take advantage of you. That's operating out of scarcity. Give more than is expected of you. And it doesn't mean you're giving your money away. It doesn't mean you're going to give more products away. Give of yourself. Don't just give like, oh, I'm going to discount my product and give them more value. That's not what I'm talking about. I'm talking about give more than is expected of you. I'm giving of myself. How can I make another contact? How can I go out of my way to reach them? How can I touch them on the back, shake their hand? How can I call them again? See, these aren't things I'm giving to them. I'm talking about give more than is expected of you. Give you to them. Whether it's enthusiasm, energy, ideas, offers. Hey, let me be there for you. How can I help you? Offerings. Give more of yourself than is expected of you and you will be more motivated. Maybe make a list of how you can do this in your life today.

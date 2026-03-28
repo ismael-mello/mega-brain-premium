@@ -1,0 +1,12 @@
+# Transcrição: 2. Workout
+
+- **Fonte:** 2. Workout
+- **Duração:** 02:06
+- **Idioma:** en
+- **Modelo:** small
+
+---
+
+## [00:00 - 02:06]
+
+Workout. Okay, you know, you know, there's not a person watching right now. You know, and you're the only one I care about right now. Look, it's time to start getting that workout in. So I'm talking to two people today. I'm talking to you and I'm talking to the other you. I'm talking to the you that hadn't been working out and I'm talking to the you that when you were working out, you were digging it. Remember that guy? I remember that gal. You were working out all the time. You were feeling it. You were looking in the mirror. I'm looking good. Workouts are important. I'm not talking about joining a gym. You don't need to drive 20 minutes to go to the gym to work out the equipment. I'm talking about get your blood flowing in your body, get energized, control when you wake up, control your body. I can do a workout anywhere. I do not need to sign up for a gym to work out. I can do 10 push-ups, 10 sit-ups, 10 jumping jacks, 10, 10 of anything. Just start doing 10 squats, 10 of anything. Pick out 10 exercises. I'm running in place for 10 seconds. I'm doing 10 jumping jacks. Anything to get the blood flowing to give me some kind of idea. I am in control of my body. Okay. I'm not talking about building muscle right now. I'm not talking about losing weight. I'm not talking about looking good. I'm talking about waking up in the morning and getting in control of my physical unit. This body that I drag around with me on this planet, right? I just want to take care of it and get myself in control of it. At least I will be in control of one body today. If you can't control this, how are you going to control a customer on the phone from a distance that you don't even know? Consider that. How will you control, you're in Miami, calling somebody in Kansas, you're in Atlanta, calling somebody in LA, you're in India, calling somebody in the US. How can you control somebody 6,000 miles away when you can't even control your physical unit? Wake up every day and make it at least 10 minutes to get in your 10x exercise, 10 sit ups, 10 push ups, 10 squats, 10 jumping jacks. I don't know what else you can do, but do them and do them every day.

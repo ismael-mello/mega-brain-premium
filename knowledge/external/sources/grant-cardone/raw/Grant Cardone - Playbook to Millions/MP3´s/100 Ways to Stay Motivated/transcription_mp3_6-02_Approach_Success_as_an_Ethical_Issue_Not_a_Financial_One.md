@@ -1,0 +1,12 @@
+# Transcrição: 6-02 Approach Success as an Ethical Issue Not a Financial One
+
+- **Fonte:** 6-02 Approach Success as an Ethical Issue Not a Financial One
+- **Duração:** 01:41
+- **Idioma:** en
+- **Modelo:** small
+
+---
+
+## [00:00 - 01:41]
+
+Now, take that idea that success is your duty, obligation, and responsibility and add to that that it's your ethical issue. It's an ethical obligation. It is an ethical thing, a moral code, not a financial driven motivation, but it's your moral code, your purpose to be successful. See, I don't think about money and success separately. I think about success, a real success, an ethical success would mean that I have money and that I'm doing the right things with that money, taking care of my family, growing my business, making myself known. It's my ethical obligation. You get it? It's not ethical to be unsuccessful. Look, it's not ethical not to have money. It's not ethical not to get your products and services into the marketplace. So what I'm trying to do here is suggest to you that you tie your success with some ethical sense, some moral sense, some code that you have inside yourself. I don't know what that is. I can't set your ethics up or your codes or your morals. You know what they are. You know what you're capable of. You know what your products are. You know what your services is. You know what your mission on this planet is. Tie those together. Don't make it a financial mission. Make it an ethical mission to fulfill yourself, your products, your services into the marketplace that you have this obligation to do so that you're ethically driven and I promise you you will be more motivated, more excited and this idea of targets, you'll hit a target and just go eat another one, okay? Tie your success to your ethical obligation, not a financial one.

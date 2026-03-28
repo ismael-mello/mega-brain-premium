@@ -1,0 +1,9 @@
+# Extracao: transcription_mp4_45__The_John_King_Slapdown_by_Newt
+
+- **Fonte:** transcription_mp4_45__The_John_King_Slapdown_by_Newt.txt
+- **Tipo:** TXT
+- **Tamanho:** 0 MB
+
+---
+
+Let's face it everybody's got two cents and everybody's got two minutes. So here's my two cents in under two minutes Did you see Newt Gingrich go nuclear on John King on CNN debate last night? Dude, that was unbelievable if you haven't seen it you have to go back and replay that if you present speak your coach You do sales. Okay, if you're ever in front of a customer, you're ever gonna do a presentation in your lifetime You must watch Newt Gingrich Basically, you know publicly slap down John King on the CNN debate It is absolutely brilliant every person must learn it because it's a great. It's a truth just a tremendous Moment for you to understand how a person holds their position How they have conviction and how they basically reverse the entire process So that the other players on defense not on offense So when you watch Newt put the slapdown on John King, I want you to watch him put the flippy drippy on him Okay, I want you to watch him shift in the massive conviction the same Conviction where I talk and sell to survive Conviction is the make break point without conviction, baby. You can't be on offense and last night Newt Gingrich took from a chapter and sell to survive Conviction is the make break point buddy and he put the flippy dippy on it, brother He put offense on him and John King was sitting there like oh, oh what just happened? What did I do and had to defend himself the rest of time learn from what Newt did last night play it play it over and over If you're a speaker a coach a trainer if you're an executive in organization if you're in front of audiences Did you got to learn what Nick and what what Newt did last night? Conviction is the make break point You

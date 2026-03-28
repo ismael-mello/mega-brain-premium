@@ -1,0 +1,9 @@
+# Extracao: transcription_mp4_4__Wait_too_long_to_Follow_Up
+
+- **Fonte:** transcription_mp4_4__Wait_too_long_to_Follow_Up.txt
+- **Tipo:** TXT
+- **Tamanho:** 0 MB
+
+---
+
+You're waiting too long is a major mistake and follow up. Speed, speed, the speed at which you can operate is going to give you a tremendous amount of leverage in the marketplace. There's statistics that say if you could follow somebody up in the first 60 seconds after contact, your chances of conversion go up 300 and 20 some odd percent. Imagine that just by doing something fast your chances of converting go up over 300 percent. Why? Why would that be? Why would speed mean so much to a customer that's interested in your product or somebody that's already bought your product? Why would speed be important? Because speed is certainty. Speed gives me security in people. Speed says you're the only person. When the guy jumps up in the room says follow me. I know where I'm going. Boo, it's fast. When somebody stands up, well I'm not sure. I don't know what to do. I think we should try this way. Nobody follows him. People follow speed. Speed is certainty. Speed is power. You're waiting too long to do your follow-up. If you don't know what to say, if you don't have a clear reason to call, if you're not organized, you don't have your CRM, but if you have their number, I'm telling you, follow them up. If you know where they live, quit figuring out what you're going to do and drive over there. The speed at which you can follow someone will make the difference. The speed at which you can deliver a survey will make a difference. The speed at which you can deliver your presentation of your product and your entire sales process. The speed at which you ask for an order makes a difference and the speed at which you can follow up. Waiting too long is a mistake. Don't do it to yourself. Don't do it to your customer. Don't do it to your business. Don't wait too long.

@@ -1,0 +1,12 @@
+# Transcrição: 1. Get Up Early
+
+- **Fonte:** 1. Get Up Early
+- **Duração:** 01:39
+- **Idioma:** en
+- **Modelo:** small
+
+---
+
+## [00:00 - 01:39]
+
+What are your daily success rituals? One of mine is to get up at least two hours before I need to be someplace. If I need to be someplace at 9 o'clock I'm getting up at 7. At least 7 and maybe before that. Alright? Nobody dies of a lack of sleep. Now I get 6 to 8 hours of sleep every single night. I believe in sleep. I believe it's important for my body to rest. I also believe that I need to be up before I need to be at work. My body needs time to wake up. My mind needs time to literally get focused. So if you're waking up at 7.45 to rush off to work at 9, you're rushing all day long. And it doesn't set up a good day. It doesn't set up the ability for you to be in control of time. If you've ever heard the saying, time is money then you want to control time. And the way you do that, the way I do that is I get up two hours early. You're like, man I can barely get up right now. Look, look, you know why? Because you don't have a commitment to a ritual that says I'm up two hours before I need to be. I need to be someplace at 9. I'm up at 7. I'm probably up at 5 or 6. True story, okay? I'm gonna go to bed at 9 o'clock. That gives me what? A good 8 hours of sleep would put me up at 5 a.m. I need to be someplace at 9. I'm 4 hours up. I start getting my mind, what are my goals? What are my targets? Who can I see? I start getting excited. I start spending time. Beat the sun up! One of my commitments is to beat the sun up. If I could beat the sun up every day, I got a chance to win today, alright? Two hours before you need to be at work. Two hours before an appointment. Two hours before you go work out. Two hours before any commitment you have. Try that and watch what happens in the next 30 days.

@@ -1,0 +1,12 @@
+# Transcrição: 66. Act of Valor 
+
+- **Fonte:** 66. Act of Valor 
+- **Duração:** 02:03
+- **Idioma:** en
+- **Modelo:** small
+
+---
+
+## [00:00 - 02:03]
+
+Let's face it everybody's got two cents and everybody's got two minutes. So here's my two cents in under two minutes Hey, what does Ryan secrets Tom Cruise Oprah Steven Spielberg Donald Trump Joan Rivers Warren Buffett garden Ramsey Michael Jordan Kobe Tim Tebow. What are those guys having comment? One thing okay, and it's not because they're in Hollywood or doing something Hollywood They all have one major thing in common dude Unbelievable and probably at the top of the list is Ryan Seacrest when I say Ryan Seacrest. What do you think? American Idol radio. No, no Ryan Seacrest look it up in the dictionary It equals work ethic. Okay, these people hammer. They beat it to death Okay, look at Tom Cruise man. Look at his career. He works constantly So look you want to get your work ethic so high that people actually admire you I'm gonna ask you a question right now. Do people know you because of your unbelievable work ethic? If you can't answer yes to that man, you're not gonna get in that top 10% You got to get at the top you people have to know you not because oh, he's a good salesman Oh, he's a good this. Oh, he's an artist. Oh, he's a good pianist. Oh, he's a he writes a great, you know Story no did people need to know you for one major thing first he works He produces the guys there every day the guys pushing and shoving because the truth is no matter How good your ideas are how good your art is or how good your skill set is if you're not working man If you're not vibrating at a frequency that people say my god, how does that guy do all that if you're not vibrating at that rate? 10x levels massive action Tremendous work ethic. That's just a muscle now. It's it's just a discipline in your life. It's a way It's a normal way that other people think is abnormal Ryan Seacrest Tom Cruise Oprah Steven Spielberg Donald Trump still pumping and working as a billionaire Look if you're not working at that level, you're not gonna make it get your work ethic in man It's the American way work ethic check it out

@@ -1,0 +1,16 @@
+# Transcrição: 2. Text
+
+- **Fonte:** 2. Text
+- **Duração:** 03:08
+- **Idioma:** en
+- **Modelo:** small
+
+---
+
+## [00:00 - 03:01]
+
+Texting. I have text people as soon as they left and seen them return. I've called them before and I've texted them before. I'll text somebody a photo. Hey, I had this photo on my phone, wanted to send it to you and literally had somebody pick up the phone right then, right there and call me and say, hey, we're coming back to do this. Why? Why am I lucky? A guy next to me is like, man, you're the luckiest guy I ever met. No, I text him and I called him and you didn't. Okay. Look, people love texting because there's distance between the communication. Texting is different than a phone call because it allows them to consume data, have content, look at an image, grab a link without communicating back with me. Also, people love their devices. This texting is so underused by everyone, mostly because you as a salesperson or you as a company don't commit to getting that cell number. Number four, texting is easy, it's fast, and everybody's comfortable. Five, use it for many things. You can use it to do many, many different things, not just leave a message, but photos, images, links, videos. The sixth thing is when texting, use information overload. You want to establish that you are there to provide tremendous amounts of content. There's also another benefit in texting in that this mobile device is actually kind of small. It could be hitting a tablet, but even tablets are small, which means the customer's got a lot of content. If this buyer, this customer, this prospect, this lead visits three different places and you're the only one that texts them choices, information overload, prices, and down payments, and terms, and contracts, and possibilities, and other choices, who stands out? Who wins? Who wins if I've done six texts with content and the other two groups didn't even bother? By the way, that number, 65% of all companies never follow up and I provided this prospect, this lead with four or five different pieces of data. Always in the text, always make an effort to set up for the next level of meetings, which could be video, in person, conference call, go-to meeting, in the text. Avoid trying to do a deal. Avoid trying to do a deal. You're trying to keep the communication in. You're basically lubing the line. You're greasing the wheel, the machinery. This text is just a grease in the machinery to keep it moving. The purpose is to get a deal. Of course it is, right? The purpose is to get a deal, but we're trying to grease the lines right now and provide more information. Always stay professional, regardless of the customer's position. I have a guy on my phone right now. I can't get back with him. I text him. Every day I text him, it drops off, okay? Boom! All of a sudden I get a text from him on the fourth day. Be professional when texting. No buddies, no pal, no dude, no dude-ess, no friend. I know you can be tempted to do this because basically texting could be a bit casual. You can get lured into, oh all of a sudden this is my friend. Not true when
+
+## [03:01 - 03:08]
+
+you're selling. Stay professional. Use the text. Combine it with the phone. You'll be great.

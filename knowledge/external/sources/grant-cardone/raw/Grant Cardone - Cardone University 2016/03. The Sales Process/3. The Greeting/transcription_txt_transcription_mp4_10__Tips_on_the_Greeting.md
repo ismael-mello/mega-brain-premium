@@ -1,0 +1,9 @@
+# Extracao: transcription_mp4_10__Tips_on_the_Greeting
+
+- **Fonte:** transcription_mp4_10__Tips_on_the_Greeting.txt
+- **Tipo:** TXT
+- **Tamanho:** 0 MB
+
+---
+
+Quick tips for the greeting. One, prepare yourself for every possible encounter. Number two, never take anything the customer says personally. Never. Number three, know the RDRs by heart. Number four, dress to the level that suggests that you can actually buy the products that you sell and more. Number five, see the deal before you ever wait on a customer. Number six, go to them, never have them come to you. Number seven, know what you have in common with every customer and initiate that. Bring it up first. Number eight, check your attitude before the greeting. Number nine, put your problems aside and focus on the customer and the opportunity. Number 10, know that you're looking to build trust and gain common ground. Number 11, make service senior to selling, always. Number 12, know the difference between offering information and the actual giving of information. Number 13, use the offer of information to transition you into getting information. Number 14, don't wait until they ask, initiate all buyer sensitive issues. Number 15, differentiate yourself in the greeting. Do not be predictable. Use surprise factors to gain control. Number 16, never resist a customer, never fight a customer and never disagree. When people get angry, they tend to become more certain. Okay, that's a note on that. Number 17, have the attitude that you can solve any problem. 18, look professional, 19, act professional and number 20, know and act like you can make the sale.

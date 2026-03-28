@@ -1,0 +1,12 @@
+# Transcrição: VT System_2
+
+- **Fonte:** VT System_2
+- **Duração:** 02:26
+- **Idioma:** en
+- **Modelo:** small
+
+---
+
+## [00:00 - 02:26]
+
+Basic building block number two, income increments. You're not going to go from four grand a month to a millionaire. There's going to be increments, incremental growth. Now I would certainly love to explode and go to 10X. 10X is a concept where you start thinking in goals and actions that are giant, but understand that there's going to be increments. Look at 25 years old, I'm making four grand a month. Maybe one month I make four, next month I make two. All I could focus on was increments. See, I was going to work doing this. How much am I going to make this month? Am I going to make a nothing? I had all this uncertainty and I wasn't thinking in terms of increments. If I make four grand, hey, how do I take that four grand this month and control, stay in control of going from four grand to 4,400. Can I increase by 10%? Oh, that would be $400 more a month. That's $100 a week. That's eight, what, 80 bucks a day. Who do I need to see? Who do I need to call to get that $80? So, number one, income is king. Without income, I cannot buy new businesses. Without new income, I can't keep my business going. Without new income, I cannot grow my business, advertise, market, hire people. I need new income and then I need incremental increases. So, 25 years old, 35 years old, I'm looking at increments. It wasn't four grand to 4,400 anymore. Now, I was like, hey, how do I get from 15 grand to 20 grand? I'm looking in little tiny increments. That doesn't mean that I'm not thinking about how do I explode, how do I 10x, how do I 100x my business. I'm always thinking about that, but every day, every week, every month, I'm looking in increments. Also, at the end of the year, end of the quarter, I'm looking at increments. Here's the deal. You want more or you want less? There is no same. Same always falls to less. You want more, do you want less? You're going to get what you focus on. If you focus on anything other than more, increments, you will end up with less. You'll end up with less money. You're going to end up with less income. You're going to end up with less ability to save money, invest money, and expand. Think in terms of increments and get everybody in your family and everybody on your team thinking about income as king. Let's work in increments. Let's stage it up. Let's keep our attention on doing whatever is necessary to get those increments.

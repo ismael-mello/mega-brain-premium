@@ -1,0 +1,12 @@
+# Transcrição: 05-Statistics Checklists
+
+- **Fonte:** 05-Statistics Checklists
+- **Duração:** 02:19
+- **Idioma:** en
+- **Modelo:** small
+
+---
+
+## [00:00 - 02:19]
+
+Alright, so we've got two different stat checklists for you. The first one is your statistic system setup. This is everything you need to actually get this stuff working. And the next is all about the management, so the strategy and the reporting. So let's dive in just super quick here. This is obviously starting with Tag Manager as we've discussed. If you want to get that sucker on your website, follow all of these steps to make sure that it works. Get analytics so you've got some actual data on your funnels and on your websites. And then last but not least is how do you turn these into reports. Out of the gates you might want to just start with Google Sheets. But obviously the play in the long run is to get to Google Data Studio when you want to be a little bit more advanced. But in regards to your actual management, let's start with strategy. Alright, right out of the gates, make your list. Figure out what you want to do in terms of the most important KPIs. And then this is an important one. Decide on your timelines. So for example, if you're doing a spreadsheet dashboard of all your most important KPIs, you're probably going to want to pick a time at like for example Sunday at midnight so that when you're collecting them on Monday it's consistent every single week or if you're doing it on a daily basis, whatever that might be as long as you're consistent. Get clear on your data sources and just really get your strategy up and running and then when you're actually getting to the point of reporting, making sure that you've got consistent collection and more importantly that you've got regular meetings to review these things. And if you happen to be a business of one right now, that still doesn't mean that you shouldn't be having meetings. So every day 9am, boom, I'm looking at my stats. And remember, as Grant says, a stats either going to be, it's going to be good, bad or not existent. It's going to be an up stat, a down stat, or it's not even there. Okay, so whatever that is, you always want to immediately make a list of action items and things that you're going to change and then as Grant recommended, making a note log. So get the systems in place, get your reports going, run your business by the numbers and scale that thing to the moon.

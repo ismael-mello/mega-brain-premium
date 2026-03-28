@@ -1,0 +1,12 @@
+# Transcrição: 02-Grant-Why I Trust Brandon as Your Business Buying 10X Advisor
+
+- **Fonte:** 02-Grant-Why I Trust Brandon as Your Business Buying 10X Advisor
+- **Duração:** 01:56
+- **Idioma:** en
+- **Modelo:** small
+
+---
+
+## [00:00 - 01:56]
+
+Hey, Grant Cardone here, and I just want to, again, thank you so much for being part of this. This is going to be big for you. It's going to be big for me because the reality is my success today has not come by me making more money. My success comes from making other people successful. And in so doing, we can grow a chain, a network of people that are super successful outside of just Wall Street and mass media and what we know and hear about on TV. Look, my guy Brandon Dawson that you're working with, this guy, I met him four years ago. Brandon has been the ultimate, ultimate partner, not just for me and my business, for our employees, but also for our customers, our family. So working with Brandon, Natalie, and Cardone Vickers has been a dream come true. When you find the right partner, when you find the right people to do business with, folks partnerships are an explosive way to grow yourself, your business, your brand, and your dreams. And Brandon Dawson has been all that and more. I want you to give him the full attention that you would give me. This guy is ethical. He is committed. He is persistent, and he is on your side to do what you want to do. He'll tell you the truth, whether you like it or not. He'll always be for you, even in those times where you don't want to hear it, maybe, he'll tell you the hard truth. He'll give you that nudge. He'll give you that push. He'll hold you accountable, but mostly he's going to give you the example of what it looks like through other businesses, not just his, not just mine, but what he's doing for other businesses to 10X and then 10X that. You'll see the examples he's getting from other businesses and other people just like you. I know you're going to enjoy your ride with him. I'm always here for you. Let's go. Let's go for a big ride. Brandon, thank you for being part of my team.

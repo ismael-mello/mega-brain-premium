@@ -1,0 +1,12 @@
+# Transcrição: 7. Not Giving the Info Requested
+
+- **Fonte:** 7. Not Giving the Info Requested
+- **Duração:** 02:10
+- **Idioma:** en
+- **Modelo:** small
+
+---
+
+## [00:00 - 02:10]
+
+Another mistake you can make is not providing the exact information requested. One of the worst things you can do with a sales project, a lead, an opportunity is not address their questions and then not provide the relevant data, the information, not verbally but where they can see it. Remember people trust what they see not what they hear. That's why they search the internet, that's why they like it. I can look, I can compare, I can see. Keep those things in mind with this big mistake. It's extra important by the way with an online buyer because they are informed and understand this. Also misinformed. They could have data that is just incorrect or they consumed it incorrectly. They can believe information is just not true. It's all over the net. There's plenty of false stuff on the internet. So always be prepared to answer the specific question that they asked and like I said earlier provide additional information. One question to you doesn't mean you've answered all their questions. So think ahead of the buyer. Preempt things they are sensitive to. Questions like pricing, setup fees, level of support, other possibilities, the choice below, the choice above. Provide general information as well. Also photos, images. Remember they consume images 60,000 times faster than text or data and they're tired of looking. Talk about price ranges, timeframes, anything. Don't skirt the issue. Be transparent. Transparent does not mean that you have to reduce your price. Also speaking of price. When somebody's asking you about a specific price don't just stay on price. Provide that price and provide monthly payments, terms, any offers you have, credit offers. Just give it to them and give, give, give. If you are unable to provide specifics with a customer you're going to lose that customer. Whenever you avoid, ignore or don't provide you're not going to appear to be credible. Always give the information as soon as possible. Remember ideally first 30 seconds then five minutes. Don't even wait 20. Don't even think about it. Get them the information they want.

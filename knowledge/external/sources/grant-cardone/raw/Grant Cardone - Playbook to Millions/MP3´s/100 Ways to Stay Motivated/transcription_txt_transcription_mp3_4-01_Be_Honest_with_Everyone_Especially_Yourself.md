@@ -1,0 +1,9 @@
+# Extracao: transcription_mp3_4-01_Be_Honest_with_Everyone_Especially_Yourself
+
+- **Fonte:** transcription_mp3_4-01_Be_Honest_with_Everyone_Especially_Yourself.txt
+- **Tipo:** TXT
+- **Tamanho:** 0 MB
+
+---
+
+Be honest and be honest with yourself, not just everyone else. Look, I know people that are like, oh I'm honest with everyone. Yeah, but you're not honest with you. Be honest with you. That's where it starts. I got to get honest with me before I get honest with the rest of the world. I'm dealing with me every day. You're dealing with you every day. So the first thing that you and I must do to stay motivated is to get completely honest with ourselves. What's our potential? What are we capable of? How much can we do? You know, what is my potential like we talked about earlier? What am I, what am I capable of doing in 15 minutes? How many phone calls can I make? How many contacts can I make? How much do I fear that I'm that I'm not willing to do? What are the things that I need to go do that would actually make me bigger, better, stronger, and more capable of providing for myself, my family, and my business? Be honest with yourself. It starts with you. How much more can you get accomplished in a day? How many hours do you really have? I hear people every day say, oh I don't have enough time. Really? How many hours are in a week? I don't know. You're not even being honest with yourself. The first thing you're saying is I don't have enough time. You don't even know the calculation yet. You got plenty of time. You're not doing anything with it. Get honest. If you were late, don't blame it on the traffic. You were late because you didn't leave soon enough. Be honest with yourself first and then being honest with other people is going to be simple. You can't be motivated if you're not honest with yourself.

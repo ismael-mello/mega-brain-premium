@@ -1,0 +1,9 @@
+# Extracao: transcription_mp4_VT_System_7
+
+- **Fonte:** transcription_mp4_VT_System_7.txt
+- **Tipo:** TXT
+- **Tamanho:** 0 MB
+
+---
+
+Number six, trusting without looking, without getting proof, without having validation. The single biggest financial mistake I made in my life was naively trusting a group of people because I liked them, because it felt right, because they had joined my church, because they gave me comfort and they came to visit me and it all felt so good. It felt so good. I felt so friendly with these people that I found myself struggling to ask them for proof. Of everything they presented, their financial condition, the company, how it was doing, I failed to get proof because it felt good. Instead I went with these feelings and I was deceived. By the time I figured out that I had been deceived, I was out millions of dollars. Disregard your feelings. When it comes to people, disregard your feelings. Feels good, it feels friendly, their family. Look, if you can't ask them for solid evidence, if you feel so good about these people that you can't say, show me. Show me your bank statement. Show me where you made that money. Show me that exact number that you just stated you did. If you feel so good that you can't ask those questions, don't go into business with them. You're too close to these people that you're not willing to ask to provide evidence. It's irresponsible. It's treasonous to you and your financial condition. I guarantee you're gonna get betrayed. You will never create wealth and wealthy people know one thing. They'd rather not make an investment and not lose their wealth. Conservation means you need to have a steward, somebody with enough ethics presence, enough discipline to say show me, don't tell me. I don't want to feel good. I want to be wealthy.

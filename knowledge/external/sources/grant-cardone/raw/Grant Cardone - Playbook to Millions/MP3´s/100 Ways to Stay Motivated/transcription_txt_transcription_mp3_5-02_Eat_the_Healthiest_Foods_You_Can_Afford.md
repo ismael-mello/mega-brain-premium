@@ -1,0 +1,9 @@
+# Extracao: transcription_mp3_5-02_Eat_the_Healthiest_Foods_You_Can_Afford
+
+- **Fonte:** transcription_mp3_5-02_Eat_the_Healthiest_Foods_You_Can_Afford.txt
+- **Tipo:** TXT
+- **Tamanho:** 0 MB
+
+---
+
+Eat the healthiest foods you can. Look the fuel you put in your body is going to have something to do with your energy. It's going to have something to do with your thoughts. Okay look you go eat you know 32 ounces of cattle. I guarantee you your body's gonna be like this is you know 32 ounces. I mean I got to digest this now. The body's got to actually start breaking all this cattle down and you're basically robbing yourself of energy because the body's having to do this other task. Look eat the healthiest foods you possibly can eat and that you can afford. And I'm not talking here about a diet. I'm not talking about your health. I'm talking about your motivation, your excitement. You want to carry as little weight as you have to carry. When I travel around the United States and around the world look I bring as few bags as possible with me. Why? Because I want to roll fast baby. I want to hit from one activity to the next. I want to move. I want to roll. I want to go. I want to have my head start when the day starts and I want to keep that head start as the day goes. So I want to eat the healthiest foods I can possibly possibly consume. For lunch today I had this Thai chicken salad, crunchy chicken salad. Man it was light, easy to eat, fast. I want to eat it, gobble it, and I don't want my body spending any time getting rid of it okay. Eat the healthiest foods you can afford. I want you in this practical to write down the foods that you know aren't good for you. You don't have to go look them up online. You don't need to check for with the doctor at CNN. You already know your body knows what it doesn't like. The longer it takes to get rid of it the worse it is for you.

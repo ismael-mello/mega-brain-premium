@@ -1,0 +1,12 @@
+# Transcrição: 10. Use the Full Arsenal of Closes
+
+- **Fonte:** 10. Use the Full Arsenal of Closes
+- **Duração:** 02:07
+- **Idioma:** en
+- **Modelo:** small
+
+---
+
+## [00:00 - 02:07]
+
+Okay, rule 19, you have to use, not just know it, use, apply the full arsenal of closes. Never depend or get comfortable with one, two, or a handful. This is a problem with a lot of people. They grab this book, they start working with the closes, they find three or four they agree with. Look, I don't want you to get the three or four you agree with. I want you to find 150 that you don't understand that you don't know you've never seen. It's how we build a strong salesperson that can close deals. Okay, I don't want you to get versed in one or two of them. I want you to know them all. I've stated this earlier and it's critical that you don't get familiar or comfortable with a handful, but prepare yourself, fully prepare yourself to be able to use all of them. Certainly you're going to find your favorites, okay? And those that somehow make the most sense to you, you're going to gravitate to first, but take the time to get familiar with and understand the ones you don't get. You may find the most valuable, all right? So when you look at one and you don't understand it, you're not sure, you're like, ah, you know, and find yourself not using it, it's because you don't understand something about it. Okay, there's a number of places that we're going to lay out here for you, different gradients of understanding of each of these closes, where are you going to use them, how are you going to use them, how are you going to integrate them with other closes, how are you going to weave them together, okay? How I'm going to go from one part of a story to another one, one day soon, look, you're going to need every one of these. Somewhere in your career, you will need every close in this book. And the fact that you're depending on only three or four or five, by itself would indicate why you're not getting as many deals and why your closing ratio is not where it should be, okay? So what do we want to do here? I want you to know them all, full, arsenal. We want to make you lethal by knowing not just how to use your favorite weapon, but how to use everything on the rack, okay? Everything needs to be available to you to close deals. It's going to make the difference between you being an average salesperson, an average closer and one of the top players in the field. Know them all.

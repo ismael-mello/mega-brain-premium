@@ -1,0 +1,12 @@
+# Transcrição: 8. Retargeting
+
+- **Fonte:** 8. Retargeting
+- **Duração:** 01:55
+- **Idioma:** en
+- **Modelo:** small
+
+---
+
+## [00:00 - 01:55]
+
+Retargeting. Have you ever heard about retargeting? Probably won't be here 10 years from now. Something on Marfeit, take it away. Look, retargeting is a form of paid advertising that your client sees after looking up your product, your company, your brand, or something similar to what you sell, produce, or service. Individual salespeople don't seem to use this, don't know why. Individual businesses might use it a little bit, but you're not using it enough. I'm going to tell you whether you're an individual salesperson and you want to grow your company, or you're a small business owner, maybe with no employees, just yourself. You and your husband run the place. Retargeting is a great and inexpensive way to stay in front of the customer. It's follow up. It's like keep reminding the client that you're there. It's done through Google search where you just go through and say, hey, I want to buy some retargeting. Just look it up on the internet anywhere. I want to buy retargeting from my product or brand. You put in a number of items that would be specific to you. If you sell women's wear, then you'd want to retarget for that. Anybody hitting that, cars, plumbing, contractors, real estate, looking for a home in Miami Beach, then you could retarget and pop up. Best real estate salesperson, best real estate broker, best agent in Miami and retarget. It's a cost of TV, not a cost. It's just a tiny fraction of what TV radio and it's always there. It's specific. It's retargeting somebody that's shown interest in your product or your company or your service. Try retargeting. It's a great way to do follow up and it's a great way for people that want to be in more places, that don't want to go out and hire a bunch of people, aren't terribly organized. It does the work for you through retargeting.

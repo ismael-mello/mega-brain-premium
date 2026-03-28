@@ -1,0 +1,12 @@
+# Transcrição: VT System
+
+- **Fonte:** VT System
+- **Duração:** 02:14
+- **Idioma:** en
+- **Modelo:** small
+
+---
+
+## [00:00 - 02:14]
+
+Look, there's a difference between being rich and creating wealth. Wealth is the abundance of something in such surplus that no condition can destroy it. It's abundance. You can't get rid of it. There's so much that no matter what happens around me, it can't go away. Making a lot of money is one thing, getting wealthy, something else. Look, creating wealth, well, that's what very few people ever learn. And you maybe have heard the expression, get rich quick, but you'll never hear this. Get wealthy quick, because it just doesn't happen. So if you ever heard the saying, money never sleeps, probably have. Let me tell you something. Money gets bored. You haven't heard that saying. It gets bored. If it sits around too long, it's going to go away. Did you hear that money? If you ever heard the saying that money is actually like a jealous lover, that's right, it is. If you ignore it, if you don't pay enough attention to money, it will go find some other place to live. The wealthy take this alliterary about money not sleeping. They understand that money gets bored and will travel to other places. They know that money likes attention. It likes to be loved, done, honored, respected. Wealthy people don't want less money. They don't talk bad about it, and they appreciate it, and they pay attention to it. And they believe money must work around the clock. Well, that's what I want to share with you here. How do you become wealthy? How do you do the things that wealthy people do? See, the wealthy pay attention. They respect. They want more money, not less. They never say things like, well, I got enough now. I'm fine. I'm set. I'm all right with what I have. They never say things like money won't make me happy. They don't talk like that. People without money, people just getting by talk about money as though it's a bad thing. I don't want that for you. I want you to have abundance, affluence, so much that no matter what happens to you, your company, the economy, your family, no matter what unexpected event takes place, you know that you have wealth that cannot be destroyed. It cannot be taken. It can't be stolen. You can't lose it because you have so much abundance. These are eight things that rich people, I'm sorry, wealthy people do that other people don't do.

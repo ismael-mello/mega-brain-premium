@@ -1,0 +1,12 @@
+# Transcrição: 10. Jobless Rate California 
+
+- **Fonte:** 10. Jobless Rate California 
+- **Duração:** 01:50
+- **Idioma:** en
+- **Modelo:** small
+
+---
+
+## [00:00 - 01:50]
+
+Let's face it, everybody's got two cents and everybody's got two minutes. So here's my two cents in under two minutes. Hey, I'm looking at the LA Times right here just reported that jobless rate in California's dropped. Okay? The number's 11.7% and that doesn't count the people that quit getting unemployment events. So look, if you're looking for some good numbers in a newspaper, okay, what has it changed? Two-tenths of one percent, there's 11,000. I'm sorry. California employers added 27,500 jobs to their payrolls in October and officially repurchase their job growth figures in September upward 39,000. Look, there's 11 million people that live in the town that I'm in right now. I'm at the Bola restaurant. These people are either unemployed behind me, lazy, got nothing else to do or taking a long Friday lunch because they got plenty to do. I don't know which one it is, but the reality is the jobless problem is here to state. It's going to be here for a long time. We've been shipping jobs overseas for too long. We got too much competition from $1 workers around the world. Look, this is going to put more and more compression on your most valuable commodity, which is what? Your time. You have to make yourself more valuable in the marketplace. Otherwise, you're going to be a commodity like gasoline, corn, wheat, anything. The human being, the human talent is being reduced to a commodity. If you don't bring your value add game, I mean bring a serious, serious attitude, serious talent, serious solution oriented type of person, you're going to be in trouble for years to come. This unemployment thing is here to stay. Don't wait for the economy and the government to somehow enhance things. Oh my gosh, we've got a great day now. Everybody's employed again. That is not a real economy. The one you're in is real. It requires real people, real talent, real effort, and real power.

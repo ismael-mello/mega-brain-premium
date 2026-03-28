@@ -1,0 +1,12 @@
+# Transcrição: 61. Gas Prices Are Not Your Problem 
+
+- **Fonte:** 61. Gas Prices Are Not Your Problem 
+- **Duração:** 02:02
+- **Idioma:** en
+- **Modelo:** small
+
+---
+
+## [00:00 - 02:02]
+
+Let's face it everybody's got two cents and everybody's got two minutes So here's my two cents in under two minutes the threat of four dollar gas. Is that your problem? What about blueberries going up? What about milk going up? What about bananas the cost of bananas look? Everything's going up. It's been going up for how long this is not a new problem like the media wants to tell you Four dollar gas. Oh my gosh. You can get out of four dollar gas How do you get out of four dollar gas produce more look your grandparents paid? What a nickel a dime 15 cents for gas and they complained about it They went to the movie the movie cost a nickel your grandparents great grandparents. Oh That movie is a whole nickel for that damn movie He couldn't hear it either man. Look. It's called inflation Things go up things become more expensive. This is the exact graph That your sales and your income should be following don't you get it you can't keep your income stable and Not complain about prices everybody that complains about the price of anything Has what's called stable income stable income is not good stable pricing is good you get it Look when when the price of blueberries milk bananas shoes shirts everything housing and gasoline goes like this What else has to go up your income you have to produce more income that's a solution So the next time you're at the gas bomb you're like, oh my gosh four dollar gas what you should be saying is oh my gosh I'm not selling enough. I'm not producing enough. I'm not banking enough. Look just go ahead and produce more Don't be one of the little bitchy whiner complainers Produce more create more income be the solution not the problem You're not the gasoline pump. You're not four dollar gas. You're bigger than that Okay, if you're complaining about four dollar gas, you don't have a problem Complain about your production focus on who you can get in front of that can pay for that gallon of gas So it's not a problem for you and your family

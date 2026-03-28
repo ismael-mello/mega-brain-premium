@@ -1,0 +1,9 @@
+# Extracao: transcription_mp4_11__Lack_of_Branding
+
+- **Fonte:** transcription_mp4_11__Lack_of_Branding.txt
+- **Tipo:** TXT
+- **Tamanho:** 0 MB
+
+---
+
+Lack of branding. Look lack of branding is a problem. This is why companies that don't sell as good a product that are more expensive, that don't offer the service, get deals and your left mind boggled like why am I losing business to these people because they did a better job at branding themselves. They've been there paving the path, working the deal, making people comfortable. Look people don't do business with people they don't know. It just doesn't happen. People do not do business with people they don't know. People do business. B to B, B to C, C to B. Okay? People do business with people and they do business with brands and people that they're familiar with. That's why so many people spend so much money advertising. That's why people spend a million dollars on a Superbowl ad. Branding to make my name recognizable. That's why I'm telling you blogs, strategies, success articles, writing for magazines, the newspaper, being on radio shows, doing your own digital show and streaming that out on YouTube. Branding, branding, follow-up is a way to brand yourself to say what? I'm here. I'm not going away. I'm here all the time. 30 days, 60 days, 90 days, 120 days. You're not going to be a pest. You're branding. You're building your brand. Tied. Cheerios. Okay? Like who doesn't build a brand? Coca-Cola. They've been there for a hundred years building brands. You need to build your brand. That's what you're doing right now. You're having to pay the price. This is just a lack of branding. Stay with it. You're building your brand.

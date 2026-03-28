@@ -1,0 +1,16 @@
+# Transcrição: 4. The Importance of the Close
+
+- **Fonte:** 4. The Importance of the Close
+- **Duração:** 03:02
+- **Idioma:** en
+- **Modelo:** small
+
+---
+
+## [00:00 - 03:01]
+
+Hey, most people don't close because they either didn't ask for it, one of the number one reasons, or didn't persist in order to get the deal done. Because they don't truly understand how vitally important, how good it is actually, the close is to everything. You know, the close literally creates an entire economy. Okay, and I'll prove that to you in this segment. When you close, let's say you're a car dealer, a furniture dealer, a phone company, the computer company, whatever you sell, whatever idea or concept, product or service that you sell, when you sell that product and you close and hit that critical exchange point where they give you something, you then take the money. If you own the company, you pay salespeople, a commission probably, you then pay the bank off of the products that you owed them, your inventory, you then pay back maybe a bank loan. Because of the sales you made, you generate tax revenues for the city, the county, the state, the federal government. The profits generate commissions to the sales force and to the management team that go to feed their families. The profits allow the owner to hire more people, improve their facilities, pay for more advertising, order more inventory and repeat this over and over and over again. So when I close someone on this one book, what happens? You give me $30, I give you the book, right? Am I creating an economy or is it just $30? Well the reality is when I go into the close, I am thinking in terms of creating an entire economy first for myself and then to benefit others. Because not only do you get the book, but you get the technology for closing others and generating more money, I get the $30 to invest in more products and services that I can go out and build my business around. Look if you don't take responsibility for creating your own economy, you will be the effect of the economy created by others. Which one do you want to live in? One of your own making or one of someone else's making? The economy you create is only limited, only limited to how many people you can close on your product, services, ideas and dreams. How much support can you get? Can you get people to take action and support your ideas, services, products, your dreams, your concepts, whatever? You either create your economic future by closing others or others will create their economic future by closing you. The close creates an exchange, remember the critical exchange point and that exchange causes an economy of sorts to exist. To the degree, you can repeat this over and over and over again will determine the size of your economy. Look you need to learn everything you can about the close so that you can create a financial freedom and economy for yourself. So how do you start the close? How do you persist in the close? How do you handle objections in the close? How do you handle emotions, the negative emotions that go with the close? How do you finish, wrap, close and get that critical exchange point is what you're going
+
+## [03:01 - 03:02]
+
+to learn in this module.

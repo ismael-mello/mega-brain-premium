@@ -1,0 +1,12 @@
+# Transcrição: 13. Overcommit to Your Family and Friends
+
+- **Fonte:** 13. Overcommit to Your Family and Friends
+- **Duração:** 01:33
+- **Idioma:** en
+- **Modelo:** small
+
+---
+
+## [00:00 - 01:33]
+
+Overcommit to your family, overcommit to your clients, overcommit to your community. Look, there's an old saying, undercommit and overdeliver. I think that came from Dale Carnegie or something. I'm like, dude, that is so ridiculous, okay? It is so ridiculous because what you're basically doing is trying to trick somebody. Oh, I'm gonna undercommit and then I'm gonna overdeliver and then they're gonna be all excited. That's ridiculous. You wanna overcommit to people and then you wanna overdeliver. When people overcommit, okay, when I overcommit to my family and I got it tied that I have an ethical obligation, duty and responsibility to deliver, that I'm the most dependable person anybody knows, dude, I can't back out now. You get it? I'm overcommitted. When you overcommit, your creativity follows and it'll make you brilliant. People aren't motivated because they undercommit. They don't have to deliver. There's something to be said about being pushed when necessity, when you're absolutely pushed, crunched, you gotta bring it. So you wanna overcommit to your family, overpromise to your family. Let them know you're there. Let them know you'll go the extra mile. Let them know you're gonna do whatever it takes to take care of them and then do the same thing with your clients. Do the same thing with your community. Look, overcommit and watch, watch how motivated you are. Watch you pull it up and start delivering it levels that you didn't even imagine were available to you. You knew it was available, but now you're starting to actually see it show up. Overcommit, then overdeliver.

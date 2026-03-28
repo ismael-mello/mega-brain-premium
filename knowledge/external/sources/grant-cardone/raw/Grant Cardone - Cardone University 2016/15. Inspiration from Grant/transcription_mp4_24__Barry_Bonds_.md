@@ -1,0 +1,12 @@
+# Transcrição: 24. Barry Bonds 
+
+- **Fonte:** 24. Barry Bonds 
+- **Duração:** 02:03
+- **Idioma:** en
+- **Modelo:** small
+
+---
+
+## [00:00 - 02:03]
+
+Let's face it, everybody's got two cents and everybody's got two minutes. So here's my two cents in under two minutes. Well, if you're a baseball fan, you know Barry Bonds got two years home confinement. Okay, look, I'm glad Barry Bonds didn't go into jail. I gotta tell you right now, I don't want to fund another person going to jail. Okay, the whole criminal prison system is just a big freaking business anyway. So Barry Bonds going to jail doesn't do anything for me or anything for you, it just costs us more money. Barry Bonds is in home confinement. For Barry, that means he's going to spend some time at his $20 million house, maybe more time than he spent in the last couple of years. And frankly, I don't care where Barry Bonds spends his time, and I don't care if Barry Bonds did steroids or not. Okay, when I go pay $50 for a game, I want to see a guy hit the ball 500 feet. Okay, I don't care if they put freaking jet propulsion on the back of these guys and they can jump, leap 50, 60 feet in the air. Dude, when I go to a game, I want to see Superman and Spider-Man jump out. I want to see a 200 yard pass. I'd like to see field goals go 70, 80 yards. Don't you like that? I don't care, dude. If the guy gets a $25 million a year contract, he wants to spike himself with a bunch of oil and grease to get his elbows all jacked up and blow his muscles up. If he wants to do that, let him do it. Okay, I'm not going to do it to me. I'm not going to use any. Look, I don't even use Advil. I haven't used Advil in over 10 years. So I'm not putting any drugs in my body. If Barry Bonds wants to put it in his body, or any of these athletes want to juice, dude, whatever you want to do, my brother, okay? You're going to pay the price later and you got to know you're going to. And let's face it, Barry, Barry, dude, he still had to hit the ball. Okay, it doesn't matter how strong you are if you missed the ball. Let's give him at least some credo, credo credits, right? With, hey, he made contact. He crushed. Okay, I know that hat got a little, the hat size got a little big over the years. Barry Bonds, enjoy your 20 plus million dollar palace, my brother. I still hope they put you in the Hall of Fame.

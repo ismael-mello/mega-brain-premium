@@ -1,0 +1,9 @@
+# Extracao: transcription_mp4_44__Secrets_of_Millionaires_
+
+- **Fonte:** transcription_mp4_44__Secrets_of_Millionaires_.txt
+- **Tipo:** TXT
+- **Tamanho:** 0 MB
+
+---
+
+Let's face it everybody's got two cents and everybody's got two minutes So here's my two cents in under two minutes yesterday a gentleman told me grant. This is a one-off We're gonna do this one time and see how it goes and I looked at him. I said what do you nuts one is the weakest most Disinteresting number in all of numbers never ever ever do anything one time You want to start adding zeros anytime you think one two three four five six? Look at a zero and then add another zero. I never do anything one time ever Nothing I don't mow the lawn once. I don't breathe once. I don't eat once. I don't make phone calls once I don't follow people up once dude look what I do is I add zeros zeros are powerful Okay single digits mean nothing never think in terms of ones twos threes or fours think in terms of 40 404,000 because that's what it's going to take to get yourself remembered in the marketplace to even get known in the marketplace Remember from the 10x rule obscurity Obscurity is your biggest problem. It's not price. It's not product. It's not competition. It is merely I don't know you I've never heard of you and the second biggest problem you have is this I'm not thinking about you when it comes time to me pulling the trigger. So what's going to solve that zeros? One becomes ten becomes a hundred becomes a thousand never ever let this be your business policy Never ever do something one time never ever make love to your wife one time hit it You got to hit it and then you got to skip it. You got to hit it again dude two three four twenty forty a hundred a Thousand you see same thing with a client same thing with letters same thing with email same thing with social media Hit it

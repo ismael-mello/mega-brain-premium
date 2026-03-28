@@ -1,0 +1,12 @@
+# Transcrição: 00-10X Email Marketing System
+
+- **Fonte:** 00-10X Email Marketing System
+- **Duração:** 02:18
+- **Idioma:** en
+- **Modelo:** small
+
+---
+
+## [00:00 - 02:18]
+
+Money follows attention. So you heard that email marketing is dead? Yeah, right. Look, the only thing dead about email is the president's printed on the money that I'm making every time I send out an email. By the way, my name's Grant Cardone. Me and my team have taken email marketing to a completely new level. Our email program that has generated millions of email leads. We created hundreds of millions of dollars of sales out of those leads. I have personally crowdfunded a half a billion dollars in real estate funded deals. So I guess those gurus who claim that email is dead, they're either not doing it right or they just quit on a good thing. If you're new to email marketing or have struggled to get it working for you while it can be tough and it's not the sending emails. I mean, sending emails is probably one of the easiest things you can do in your life. Some email systems are even free to use. But if you want to get results, you need to know what email system is the best for you to use as well as how do you capture the lead? And most importantly, I'm going to show you how to monetize every lead that you get. Well, look, not to worry. I'm also going to be giving you everything you need to become a master at this email game inside our 10x email marketing system. This is the most easy to understand and comprehensive email marketing training ever created. When you download my email marketing manual, you'll immediately shortcut your email success to monetization. You'll become crystal clear on what email strategies to use, what mistakes to avoid, and what steps you need to start making money with email. You're also getting step-by-step video tutorials. So no matter how much you've ever struggled in the past, all you got to do is follow along, do exactly what I've done. I'll give you our flow charts so you can visualize how the winning email sequence will start with the first, the second, the follow-up. I'll be giving you the checklist to make sure the setup's there, the launch is correct, and the follow-up is in place. And most importantly, you're getting our email swipe files. All my top performing campaigns. Look, there's no need for you to reinvent the wheel. You could simply copy what I've done. So enough talk. Let's get to work. Jump into this thing. Let's get started right now.

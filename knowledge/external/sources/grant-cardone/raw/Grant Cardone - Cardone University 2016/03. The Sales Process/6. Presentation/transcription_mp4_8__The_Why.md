@@ -1,0 +1,12 @@
+# Transcrição: 8. The Why
+
+- **Fonte:** 8. The Why
+- **Duração:** 02:25
+- **Idioma:** en
+- **Modelo:** small
+
+---
+
+## [00:00 - 02:25]
+
+This is called the why. Why do they want this product? What are they trying to accomplish? Look, if they didn't want to improve their situation some way, somehow, they would not be shopping. The question then is what do they want and why do they want it? Do they want a car? Look, they already have a car. So why do they want another car? What is it? Safety, dependability, appearance, ego, economy, comfort, performance? What is it? Maybe the guy's just got a bug. He's like, I just got to have a new car right now. I don't know, but your job is to find out what they want and what they will pay for today, not just what they want. Computers, mobile phones, automobiles, houses, a new kitchen, why? Okay, WHY. Why do you want it? What is the dominant buying motive? DBM. The why dominate means commanding, controlling, or prevailing over all others, right? Dominate. It means what is prevailing. Motive means something as a need or desire that causes a person to act. So I'm looking for what? The commanding thing that causes you to act. You should always be crystal clear on this. Look, as a salesperson, I have to know what is the dominant buying motive? What is that one thing or two things that will cause this person to do something? Look, you have to be crystal clear on this and know this before you demonstrate and before you close. What is that one thing above all things that will cause a person to take action? Remember the close means they exchange something with you. They give you something for something. Your product has hundreds, thousands of features, but only a few of them are required to get the sale. Before you move into a presentation demonstration, you must know what are those dominant buying motives? What are the things I need to show them? What's the why, man? Questions like, hey, what's the single most important benefit that you hope to accomplish in your next purchase? What is the second most important benefit of your next purchase? If you could accomplish one thing with your next purchase, what would it be? What is it that your present situation doesn't offer you that you have to have? What is your dominant and most important consideration with your next investment? Look, know the why. The why will tell you how to close, how to build value, and how to get a decision now.

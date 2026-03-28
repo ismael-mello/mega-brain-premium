@@ -1,0 +1,12 @@
+# Transcrição: 00-10X Marketing Certification Test
+
+- **Fonte:** 00-10X Marketing Certification Test
+- **Duração:** 02:17
+- **Idioma:** en
+- **Modelo:** small
+
+---
+
+## [00:00 - 02:17]
+
+Money follows attention. Hi, my name is Jared Glenn. I'm the president for Grant Cardone Enterprises, and this is the 10X Marketing Certification. Now is the time for you to step up and prove your knowledge of the 10X Marketing Program. This is your final step of completion. This is going to give you the 10X badge that you've been waiting for. The certification is extremely important. It's going to give you credibility. It's going to help you get clients. You can add it to your resume. You can add it to your LinkedIn profile. You can add it to your email signatures. And it will represent to the world that you have completed what is probably going to be the most difficult marketing test that you've ever taken. Remember, the 10X badge, the 10X brand, the 10X logo is extremely valuable to be associated with. And so we want to make sure that you're going to be representing us in the marketplace the way that we deserve to be represented. This test is going to be difficult. I'm going to be straight up with you. It's going to be 50 questions, and you have to get an extremely high score in order to pass. Remember, you're going to be representing yourself as a product of the 10X Marketing Program, and we need to be sure that you will deliver on the 10X promise. So before you get started, be sure to read the instructions. Remember in school, when the first instruction was, skip to the end and don't take any of the test questions, turn your test in when you're done, but you didn't read the instructions, and so you went through and did half the test, and people are leaving and you're trying to figure out how they finished the test so fast. I'm just telling you personal story because that happened to me. Read the instructions and pay attention. Most importantly, make sure that you've studied in advance. You will not be provided the answers unless you pass, which means you can't just go through, jam through the test, get it, get all the answers, and then go back and retake it. We're taking this certification very seriously because we want you, not only to be successful, we want you to be a representation of 10X in the marketplace. Now's the time for you to step up. Now's the time for you to prove your knowledge of the 10X Marketing Program. Now's the time for you to take the Marketing Certification Test. Good luck.

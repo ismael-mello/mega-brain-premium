@@ -1,0 +1,12 @@
+# Transcrição: 2. Not Enough Calls
+
+- **Fonte:** 2. Not Enough Calls
+- **Duração:** 02:04
+- **Idioma:** en
+- **Modelo:** small
+
+---
+
+## [00:00 - 02:04]
+
+Not enough calls. The second biggest mistake made with follow-up is not enough contacts. Not enough different contacts. Frequency. Often enough. Volume. All of those would basically engulf this area of not enough. Okay, consider this. 80% of all sales are made between the fifth and the twelfth contact. I don't even have fingers to do this. Okay, I need 12 contacts. 12 contacts to make some of these sales. The average salesperson doesn't make any calls. I think 2% of all of them are made after two calls. The numbers are ridiculous. Okay, 80% require at least five requests. Five follow-ups. Five, you're gonna do this? Could we do this? What would it take to do this? What could I take? Can I bring it to you right now? Could I change your mind? Anything. Not enough calls is the number two biggest reason you're not being effective. Not enough contacts. Not enough follow-up. So if you think it's gonna be one or two or three or four, your buddies are with you. Oh, you guys never called me back. Nobody ever answers the phone. Knock it off, man. Okay? Like you left the hospital as a baby at least 40 years ago. You don't need to go back there now. Act like a grown-up. This is the real world. There's seven billion people on this planet competing with gravity. Okay? You're not making enough phone calls. You're not making enough emails. You're not sending enough texts out. You're not making enough contacts for anyone to even know you exist. It's the same problem for you in social media. You don't exist. You tweet twice a day into a billion dollar, a billion universe of tweets. Nobody knows you exist and you're competing with Kim Kardashian and Kanye and their breakup. You understand? Not enough. Not often enough. Not enough volume of contacts to make a difference. One or two won't do it. Five to twelve. Think with that. It's not enough calls. It's the second biggest mistake in follow-up.

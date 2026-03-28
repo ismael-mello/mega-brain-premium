@@ -1,0 +1,12 @@
+# Transcrição: VT System_2
+
+- **Fonte:** VT System_2
+- **Duração:** 02:07
+- **Idioma:** en
+- **Modelo:** small
+
+---
+
+## [00:00 - 02:07]
+
+The single biggest mistake people make in ever creating wealth that I've studied now for almost 35 years is seeking comfort, not freedom. Look it is the entire ban of the middle class that is supposedly protected in this country that lives in a spectrum of comfort enough. I have enough. Comfort is the enemy of abundance. Comfort is the enemy of enough affluence that you can't be hurt. See the most dangerous element of finance is settling. It's the middle class. Listen to it. The entire middle class was built on settling, on comfort, on just enough. Just enough income, just enough to save, just enough invested. Hey, if I just get a house, we're all going to be happy. I just get a good enough education and everything's going to be fine. If I get just enough of a good job that makes me just enough money, yeah it might be good enough until it's not, but it'll never make you wealthy. The wealthy seek freedom, never comfort. They're not interested in comfort. They're not interested in what is feels good in the moment. They're interested in feeling good for long periods of time for entire generations. The wealthy seek freedom. The wealthy do not seek comfort. They seek freedom. The wealthy seek so much abundance that it appears to others that they're greedy. They're not greedy. What they're doing is this. They want affluence. They have an idea of financial freedom. So much, so much affluence, so much abundance that whatever's going on in the world, the uncertainty, the problems, the wars, the economies, the inflation, anything and everything that can happen, they don't get worse off because of it. Temporarily, they might lull, but over long periods of time, they'll be better off. More is the mantra. This is the affirmation of the wealthy. Comfort isn't even on the menu and freedom is the focus. Make freedom not comfort, your focus, and you'll be on your first step to creating financial freedom for yourself.

@@ -1,0 +1,12 @@
+# Transcrição: 46. Mitt Romney Took My Advice 
+
+- **Fonte:** 46. Mitt Romney Took My Advice 
+- **Duração:** 02:20
+- **Idioma:** en
+- **Modelo:** small
+
+---
+
+## [00:00 - 02:20]
+
+Let's face it everybody's got two cents and everybody's got two minutes So here's my two cents in under two minutes if I hear one more time somebody asked Mitt Romney when When are you gonna actually show us how much money you made mitt? Please, bro? My brother you gotta learn how to answer this pitch Look ask me mitt mitt. Let's just go ahead and do a little role play reverse role play you asked me mr. Romney When are you prepared to deliver your income tax returns and are you gonna do that? Hey, man Let me tell you something okay, Mitt Romney your answer should be this when I have to it is not my obligation as an American Citizen as a business person in America to deliver my income statements to the world I have no intention of delivering that until I absolutely have to why Look, I'm extremely successful I've generated tremendous amount of money over my career, okay? I've done it within the law I've done it ethically. I've done it as a capitalist. Okay, and I am proud of that I am proud that I've come to America done everything I could to be successful to take care of myself my wife my Family my company build other companies and pay taxes I will show my tax returns when I'm required to buy law. I have no problem with it number two I will not apologize for being successful the only people in this country that would apologize that would ask me to apologize For being successful or people that haven't created it for themselves or some liberal media That somehow wants to suggest that it's wrong and has an interesting class warfare I have no intention no intention of apologizing for creating success for myself my family and my company So look when will I do it? I'll do it when I'm required to will I apologize for being successful? Never in fact You should want the president of the United States to finally be somebody that was self-made somebody that was successful Somebody that could run profits, okay? Somebody that could be profitable for themselves and their company not just somebody that was in politics. I'm Mitt Romney And I approve this message You

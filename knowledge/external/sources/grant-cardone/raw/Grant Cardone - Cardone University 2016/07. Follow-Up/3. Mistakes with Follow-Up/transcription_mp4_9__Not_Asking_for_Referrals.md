@@ -1,0 +1,12 @@
+# Transcrição: 9. Not Asking for Referrals
+
+- **Fonte:** 9. Not Asking for Referrals
+- **Duração:** 02:09
+- **Idioma:** en
+- **Modelo:** small
+
+---
+
+## [00:00 - 02:09]
+
+Not asking for referrals is a mistaken follow-up. Who do you know? Who's most likely to buy a product like we have or use our service? My business depends on people like you doing business with people like me. Who do you know? Who do you know that might be interested in this product or service? Look, referrals. Asking for referrals. Everybody's missing it. Is that a generalization? Absolutely. You're missing it. When I buy a whatever, toaster, okay, or I get my food delivered from one of these my wife's getting food delivered right now, I know other people that would do that. When I buy an magic Kangen machine, it's a $4,000 machine that converts regular water into alkaline water. I actually know people that have $4,000 to spend on purified water. In fact, I probably know more people that want and can buy that machine than the person selling that machine. Asking for referrals or in this case not asking for referrals whenever and how often you would choose to and however soon you'd like to is a mistake. There is no rule except this. Ask. Ask often. Ask frequently and keep asking for referrals. It's not going to offend anybody. You take care of people. Do you take care of your customers? Do you service your customer? Do you give more value than you charge money? If that's the answer, ask for referrals. And you don't ask like this. If you know anybody, send them my way because that's not asking. This is asking who do you know that would benefit from my product or service? Who do you know that could use my service? Who do you know that could use our product? Well, granted, I don't know anybody. Alright, think about it. Who do you know because you got to know somebody. John, you know a lot of people. Who do you know that would benefit from our product or our service? I'm going to tell you the other thing about referrals. When a customer gives you a referral, they become a better customer because they're reinforcing that you took care of. Ask for referrals. Ask often. Ask frequently and keep asking. Who do you know that would or could or might benefit from my service?

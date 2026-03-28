@@ -1,0 +1,9 @@
+# Extracao: transcription_mp4_54__Trait_53_-_Great_Salespeople_do_not_get_emotional_in_the_negotiations_
+
+- **Fonte:** transcription_mp4_54__Trait_53_-_Great_Salespeople_do_not_get_emotional_in_the_negotiations_.txt
+- **Tipo:** TXT
+- **Tamanho:** 0 MB
+
+---
+
+Hey, great salespeople do not get emotional in the negotiations. The greatest salespeople I know are able to stay very calm, relaxed, sit down. They don't get all freaked out. When everybody's going psycho, they're like, yeah, yeah, yeah, I'm with you. Oh, I understand. I know you're about to, you know, your head's going to blow off your shoulders here in a second. And they're just cool and calm. They're very, very logical, non-emotional, un-emotional, even though they might be emotional inside, they're very non-emotional, not emotionally discharging while everybody's freaking out. Look, when everybody's freaking out, somebody got to stay sane. And great salespeople, great negotiators, and great closers know how to do that. So when you're in a negotiations, a big monster deal, and it's going to change your life, and you've got three lawyers on the other side and a couple real estate people, and you've got some legal, you know, all the legal, and you've got the principal, and you've got them all freaking attacking you and freaking out and saying it's too high and saying it's this problem, dude, somebody got to stay cool. Somebody got to stay calm. Don't get emotional with them. When the play starts burning down, somebody's looking for a leader. The great salespeople never get emotional in the negotiations. And the only way I know to do this is through role-playing and practice. This irate situations, irate customers, blow-ups where you have to practice staying calm, cool, collective, and not freaking out.

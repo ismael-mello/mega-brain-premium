@@ -1,0 +1,9 @@
+# Extracao: transcription_mp4_43__Trait_42_-_Great_Salespeople_are_very_smart_with_their_money_
+
+- **Fonte:** transcription_mp4_43__Trait_42_-_Great_Salespeople_are_very_smart_with_their_money_.txt
+- **Tipo:** TXT
+- **Tamanho:** 0 MB
+
+---
+
+The best, greatest salespeople I have ever met are very smart with their money. This is not what I was taught early on as a salesperson. I was actually encouraged to get a bunch of debt and that was going to make me be a good salesperson. Look, the best salespeople, the greatest salespeople I've ever met are unbelievable with money. They're interested in creating wealth for themselves. They want bank. They want multiple accounts. They want to be able to survive financially and they know the more money they have does not demotivate them. It actually inspires them to create more funding for themselves, their household, their business, their customers, product development, etc. Look, the greats, the best that I have seen are great with money. They're not loose with it. They don't blow it. They don't go waste it in Vegas. They're financially driven to build something, not blow something. They're target driven. If a great salesperson is going to be successfully target driven but can't meet his financial targets, how long is he going to really be good at achieving his monthly targets? Look, are your quarterly targets or your annual targets or your lifetime targets? Look, they're all tied together. You want to know your finances. You want to be driven by your finances as part of your purpose to take care of those you love and the business you want to grow and the family you want to grow.

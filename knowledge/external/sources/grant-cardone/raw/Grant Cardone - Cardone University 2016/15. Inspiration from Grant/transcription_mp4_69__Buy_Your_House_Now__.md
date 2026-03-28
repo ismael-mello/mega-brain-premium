@@ -1,0 +1,12 @@
+# Transcrição: 69. Buy Your House Now! 
+
+- **Fonte:** 69. Buy Your House Now! 
+- **Duração:** 01:58
+- **Idioma:** en
+- **Modelo:** small
+
+---
+
+## [00:00 - 01:58]
+
+Let's face it everybody's got two cents and everybody's got two minutes. So here's my two cents in under two minutes Oh my god CNN reports today national home prices fell 4% in the fourth quarter 2011 putting them back to levels not seen since mid 2002 oh my gosh, what are we gonna do price have been falling since they topped out in 2006. They're down 33.8% according to S&P case Schiller national home price index What does all this mean housing is cratering the economy is coming to an end? What should we do? Dude a house is a place to live bro. Your house didn't get 4% smaller. It didn't get 33% smaller It's a place to live. What is a house far? You thought a house was a place to get rich Man, look if you haven't bought a house buy one Okay, buy one now because I promise you 20 years from now 10 years from now I'm promise you six years from now. You're gonna regret not buying it right now Could they go down a little bit more maybe but you're not buying it to make money. What is a house a house? Is not a home and a home? I don't know. I don't know I can't sing so I got to do this Okay, check it out a house is a place to live. It's a place to grow a family. It's a place to rejuvenate yourself It's a place to create family people friends. It's a place to barbecue man It's not a place to make money. Look if you haven't bought a home go out and buy one Okay, if you're not qualified to buy the home find out the guy that wants to sell the house and see if he'll give you a Loan look if you've ever wanted to buy a house it ain't gonna get better than this Might they go down a little bit? Maybe find a great location find a great neighborhood pull the trigger buy a house If you're underwater in the house you're in if you're not gonna give it back to the bank, okay? Then freakin get happy in your house and no one's here good

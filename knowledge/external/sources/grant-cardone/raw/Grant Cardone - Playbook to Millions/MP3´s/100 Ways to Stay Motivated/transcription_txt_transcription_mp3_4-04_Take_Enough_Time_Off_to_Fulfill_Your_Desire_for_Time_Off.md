@@ -1,0 +1,9 @@
+# Extracao: transcription_mp3_4-04_Take_Enough_Time_Off_to_Fulfill_Your_Desire_for_Time_Off
+
+- **Fonte:** transcription_mp3_4-04_Take_Enough_Time_Off_to_Fulfill_Your_Desire_for_Time_Off.txt
+- **Tipo:** TXT
+- **Tamanho:** 0 MB
+
+---
+
+Take enough time off to fulfill your desire for time off. Look, if you need time off, then please do yourself a favor. Take enough of it. Take enough time off that you're done with taking time off. I hear people all the time saying, I got to go on a vacation. I got to do this. When's the last time you took a? Well, we took a little short one about three months ago. Once you take a long one, once you go off for like three months, go off long enough that you're sick of being off. Just go fulfill it. Like if you got to fulfill it, go fulfill it. Take enough time off to fulfill your desire for time off. Let me just tell you a little trick here, a little secret here at least. The most successful people, at least in business and in finances, don't take a lot of time off. They don't. Their vacations are rocking and rolling. They like winning in the marketplace. That's what they do. That's what motivates them. That's what gets them excited. There's not been one vacation that I've ever taken that I didn't end short. I'm like, hey, I'm sick of doing this. Can I go home now? Can we go back to work? Can we go back and play again? Can we go back to making our life what we wanted to make? That's the game, man. It's like Disneyland of life. Take enough time. If you need it, look, at least take enough off that you fulfill your desire for time off. It might be a good thing. Maybe you need five days or six days or a week. Okay? But look, if you're packing the rest of your day and the rest of your week and the rest of your calendar, so what? Nobody's gonna care, except maybe you.

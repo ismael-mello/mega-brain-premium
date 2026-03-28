@@ -1,0 +1,12 @@
+# Transcrição: 5. Astro X Factor Elimination 
+
+- **Fonte:** 5. Astro X Factor Elimination 
+- **Duração:** 01:39
+- **Idioma:** en
+- **Modelo:** small
+
+---
+
+## [00:00 - 01:39]
+
+Let's face it, everybody's got two cents and everybody's got two minutes. So here's my two cents in under two minutes. I really don't want to perform. I feel like it's unnecessary, but I'm gonna leave it up to you know, you're my mentor, do you think I should perform? My boy Astro was on the verge, on the verge of getting blown out. Hey, my brother Astro, I know you what, 13, 14 years old? Dude, every astronaut, and I know Astro is short for astronaut, every astronaut's got to know attitude is altitude. My brother, you can't go to the stars in Mars without a great attitude. Look, having an attitude like you're the biggest, the baddest, you're the cockiest, you're gonna win the five million, that's cool. But dude, you can't drop into this, oh no, I don't want to play anymore because you know, I'm in the bottom two. This is a great example to America. You can have a great product, you can be a great talent, you can be a superstar, but dude, if you can't get votes, if you can't get the American public to say I'm with you, I'm on board, I'm behind you, I love this kid, I gotta take the time to vote for this kid, then you can be at risk. So look, Astro, dude, you gotta learn from this man, keep your attitude right, attitude is altitude, no negativity on the stage, no negativity in the world. People don't want to buy tickets to a guy that's got a bad attitude, they want to buy tickets from a guy, they want to support and fund an activity, a business, an individual when they're positive, when they're smiling. Even when it's storming around you, it's raining, even when there's no justification for you being in the bottom two, you gotta be like, I'm here, I'm bright, I'm going to the stars, I'm going to Mars, because my attitude is my altitude.

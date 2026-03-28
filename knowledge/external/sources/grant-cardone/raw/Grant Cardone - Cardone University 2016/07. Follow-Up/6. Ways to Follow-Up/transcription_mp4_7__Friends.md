@@ -1,0 +1,12 @@
+# Transcrição: 7. Friends
+
+- **Fonte:** 7. Friends
+- **Duração:** 02:03
+- **Idioma:** en
+- **Modelo:** small
+
+---
+
+## [00:00 - 02:03]
+
+Friends, connecting with like-minded people, getting in their circle, influencing and becoming an influencer, being talked about is a form of follow-up. I'll tell you a little trick I used. I don't know if it's a trick. I stumbled across this idea. I was in Albuquerque, New Mexico, and there was a client, actually five clients that I kept trying to get in front of and I had no luck with. Another person that I had a client relationship with said, who you have in trouble with getting in front of here, Grant, because we were friends, we were buddies, and he actually brought it to me and he says, who you have in trouble with, can I help you? And I wrote down, help. I need help with these people. And I put it on the help. I put help. I need help with these people. And I wrote down five people and he was like, oh, hell, I can help you with a fourth. When he's a personal friend of mine, we golf all the time. I'm like, really? What's his number? He's like, I got him up. He called him right there, got me a meeting that I'd been trying six weeks to get, couldn't get. It's called the help list. It's called friends. It's called connecting with like-minded people, getting in the circle, influencing, being there and out of obscurity. Friends, as I talk about in Sell or Be Sold, that's your power base. Your friends want to help you. All friends want to help other friends. So ask your friends for help. Find out who they're connected with, who they can help you with. Get in the circle. Stay in the circle. Sure that circle. Be a part of that circle. And I got to tell you this, okay? That circle is not in your home. It's not in your bedroom. It's not in your kitchen. It's not in your backyard. And it's probably not on a picnic with the kids. It's out in the marketplace where they are. It's out at dinner with you, the wife and two clients. That's a gift follow-up. Connecting with friends, that's a combination. Then you text him on the way home, you're hitting three times. Send him a little piece of mail. Sure like dinner with you and the wife. Text four, follow-up. How committed are you? How committed are you to growing your business? Because I don't care what it takes to grow my business. I'm growing mine. And I want you to help. I want to help you grow yours.

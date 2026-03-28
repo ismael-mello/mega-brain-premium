@@ -1,0 +1,12 @@
+# Transcrição: 13-Closing the Deal
+
+- **Fonte:** 13-Closing the Deal
+- **Duração:** 02:02
+- **Idioma:** en
+- **Modelo:** small
+
+---
+
+## [00:00 - 02:02]
+
+Hey, Brandon Dostin here and welcome back. Once you reach this point in the transaction, the due diligence is done, the legal papers are ready to sign and everything should be set for you to buy your first business. In the next lesson, we'll cover how all the financials work out once you close the deal. The closing process is everything that happens right before you gain ownership of the business. This is where you go re-confirm the contracts that are in place, re-double check the receivable balances are correct, re-affirm that there's been no extended liabilities that haven't been disclosed. You need to go through all that due diligence checklist you created and the day before closing you cross-reference everything that you found in due diligence to ensure that the businesses, cash balances, contracts, employee agreements, whatever you identify needed to be in place at time and closing is in place because the very next thing you know, you're going to be owning that business. Once you've double checked all the closing elements, you also will want to schedule a time to meet with the employees the very next day. The day you take the business over, the very first thing you do is you have an employee meeting to address that you're the new owner, what your vision for the business is and how they're involved in that vision. You'll also want to make sure that emails are ready to go out to all the vendors and all the suppliers announcing that a new buyer has taken over the business and you'll want to schedule phone calls your first day to be able to talk to them about who you are and your vision for the business and you're going to need to set up new trade accounts. This is very important because you could have a disruption in the business if you wait to do that. You should be on the day before closing, you should be well prepared with the 30, 60 and 90 day operating strategy so you can hit the ground running and create massive value, 10x value the day you own that business.

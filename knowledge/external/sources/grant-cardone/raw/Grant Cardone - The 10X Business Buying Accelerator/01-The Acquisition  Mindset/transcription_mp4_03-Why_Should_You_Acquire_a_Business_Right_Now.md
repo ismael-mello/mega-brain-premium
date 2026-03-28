@@ -1,0 +1,16 @@
+# Transcrição: 03-Why Should You Acquire a Business Right Now
+
+- **Fonte:** 03-Why Should You Acquire a Business Right Now
+- **Duração:** 03:17
+- **Idioma:** en
+- **Modelo:** small
+
+---
+
+## [00:00 - 03:00]
+
+There is a convergence taking place right now that makes it the best time to get started buying a business. In this module, I'm going to discuss four of these reasons that are all making right now the perfect storm for an acquisition entrepreneur to buy existing businesses instead of going out and starting their own. Reason number one. There are a lot of business owners that are scared. They're tired. They're just worn out. They've gotten beat up over the last two years of this pandemic. A lot of them have just kind of given up whereas their peer businesses are actually going through explosive growth because they're staying focused and in the game. Later on, you'll see one example of that from one of my mentees and business partners, Oliver Fernandez. He was able to acquire a flooring company from a business owner who became fed up during the pandemic. Besides that scenario, there are some people that are just tired and want to get out of their lease. They don't want any obligations. They may have three to five years left in their lease, but you know what? Their business could flourish for the next 10 or 20 years and they're just wanting to give up. Reason number two. Every day, more and more baby boomers are retiring. This generation was one of the largest generations in US history. And that started huge numbers of small businesses. Now, they're retiring in droves. It's like one big sale boom going on all across the country in multiple industries. Many of these business owners are profitable with sellers who want to protect their legacy, take care of their great employees, and make sure their customers are still well-serviced. Reason three. There has been over $6 trillion printed by governments. And contrary to popular belief, there's more money out there than ever before for funding a business and for earning through a business. You just need to know how to get that money and how to leverage it to buy an existing cash flowing business. But no one should have the excuse there's not enough money. There's literally more money than ever, ever, anytime before in human history. And the amount of money keeps growing every single day. And last but not least, reason number four. Right now is a time of change and crisis. And times of change are the biggest opportunities for action takers like you with good training, good advisors, and well thought out plans. When you put all four of those forces together at once, we have the greatest time to buy a business in modern history. Those are all external reasons that make it an amazing time to get started though.
+
+## [03:00 - 03:17]
+
+The next module will give you a personal reason to start now, today, instead of tomorrow. And don't wait a month or next year, get started now. I'll see you in the next lesson and then we'll get started with the blueprint and you can get on your way.

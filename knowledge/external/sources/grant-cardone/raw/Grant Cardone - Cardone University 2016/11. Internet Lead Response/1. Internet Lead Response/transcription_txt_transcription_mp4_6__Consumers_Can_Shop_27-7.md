@@ -1,0 +1,9 @@
+# Extracao: transcription_mp4_6__Consumers_Can_Shop_27-7
+
+- **Fonte:** transcription_mp4_6__Consumers_Can_Shop_27-7.txt
+- **Tipo:** TXT
+- **Tamanho:** 0 MB
+
+---
+
+Consumers can shop and research 24-7. That has to change your business strategies. Look if you're an independent agent or you're small business, you're a mom and pop, one or two people employed in the company and you have a website that's getting leads, you're paying for time online to drag business to get attention for your products, your services. If these leads are hitting you at three o'clock in the morning, who's responding? The average response time is forty four hours. Okay? Forty four hours is a long time. I mean the United States won a war in less than forty four hours in Iraq as I remember it. Okay? Twenty four seven hit. I can look at you at ten o'clock at night, ten o'clock in the morning. I can look at you for ten minutes or a hundred minutes. I can hit you now, keep you in my browser, go back and check you out later. What are you doing to stay in front of that customer? There's so many great technologies today. Retargeting is one of the cheapest, most efficient, least expensive ways for you to keep after they hit that website, check it out, retargeting, going back and saying I'm still here, I'm still here reminding you about the product. If you've ever gone to Macy's or Bloomingdale's or Neiman Marcus or you went to the boss store, a specific retail unit, looked at boss or you did something at Zappo. Is it Zappo? Yeah, Zappo. You did something at Zappo. The next time you go back and hit your website, put something in your browser, unrelated to Zappo or Neiman or Saks or Macy's or Bloomingdale's or BMW, boom, a popped little ad. Did you notice that? That's called retargeting. That's a company that is taking advantage of a consumer shopping 24-7. Are you?

@@ -1,0 +1,9 @@
+# Extracao: transcription_mp4_60__Trait_59_-_Great_Salespeople_are_willing_to_persist_and_insist_in_the_close_
+
+- **Fonte:** transcription_mp4_60__Trait_59_-_Great_Salespeople_are_willing_to_persist_and_insist_in_the_close_.txt
+- **Tipo:** TXT
+- **Tamanho:** 0 MB
+
+---
+
+The great salespeople are willing to persist and insist in the close. I know a guy named Carlos. Carlos Pantera, one of the greatest salespeople, prospectors, negotiators, and closers I have ever met. And Carlos has duplicated the information from seller be sold, the closer survival guide, if you're not first, you're last, and the 10x rule, and all my video programs including Cardone on Demand and Cardone University over 1500 video presentations with tests. That guy Carlos has done better at duplicating my content than any other person. And because of it, because he's connected a purpose to a product, he is willing and able to persist and insist in the close. Just last week he calls me from New York City and says, I'm on the phone with someone, would you talk to him? In Carlos's case, that means he's asked him 11 times to buy the same product after this man has told him no 11 times on the same transaction at the higher price without cutting his value ad proposition. Guy knows how to persist, insist, not get emotional, and stay in a transaction. Look, nobody's born with this. Nobody has that skill when they're born. They don't teach it in grade school. They don't teach it in high school. They will not teach it at Harvard. This has to be learned. Great salespeople are willing to, willing to able and know how to persist when you've been told no 10 times and how to insist on the close an 11th time. I challenge you to get that great.

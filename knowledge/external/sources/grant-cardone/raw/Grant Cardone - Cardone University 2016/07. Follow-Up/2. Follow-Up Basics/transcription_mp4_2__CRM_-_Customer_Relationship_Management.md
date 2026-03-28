@@ -1,0 +1,12 @@
+# Transcrição: 2. CRM - Customer Relationship Management
+
+- **Fonte:** 2. CRM - Customer Relationship Management
+- **Duração:** 02:14
+- **Idioma:** en
+- **Modelo:** small
+
+---
+
+## [00:00 - 02:14]
+
+Customer relationship management known as the CRM. I don't know what you call it, but I know it's necessary. And I'm gonna tell you, I hate CRMs almost as much as I hate emails. They're cumbersome, they require data entry. Look, there's lots of good programs out there. Don't call me, don't email me, and don't ask me, what's a good CRM? They all suck. You know why? Because they're dependent upon your commitment, your due diligence, and your willingness to enter data. Most of them require some kind of customization on the follow up. That means you gotta create your own scripts, schedules, and most people don't wanna do that. It's not gonna do it for you. The CRM will not do it for you. It is not God or some angel. It's gonna come part the heavens and say, we will do all your follow up now that you have purchased our services. It's only as good as the information you enter for CRM to work, okay? You gotta make a commitment. You gotta record every piece of data into it. Now, since I've said such disparaging things about the CRM, let me say this. You need one, you need to make a commitment to one, you need to learn to use it, okay? If you're not rich, if you don't have more money coming at you every month, then you know what to do with. Make a commitment to a customer relationship management. Make a commitment that every one of your people take this critical data that is money, information about a customer, where they live, who they are, what they wanted, what they looked at, what they asked about, what they said their budget was, what their cell number is, what their email is. When they called, when you followed up, what's the third thing that was done? Put all that data in that CRM because I'm gonna tell you, if you don't do that, you're betraying your company, your organization, and your family. That CRM is like a God hosting all this data, holding it for you for critical information for somebody to pick it up and do follow up. The CRM is valuable. Look, it's cumbersome, it's hard, it slows me down. I hate the fact that I gotta sit down there and enter data. It should know, it should be able to read my mind, but they hadn't figured out how to do that yet. Until then, use the CRM. You need it, pay for it. Don't worry about it. Enter the data, okay? Make a commitment to it and use it.

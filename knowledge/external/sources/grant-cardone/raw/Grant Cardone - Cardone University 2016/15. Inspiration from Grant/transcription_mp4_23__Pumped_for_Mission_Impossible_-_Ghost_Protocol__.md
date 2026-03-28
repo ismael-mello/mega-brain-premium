@@ -1,0 +1,12 @@
+# Transcrição: 23. Pumped for Mission Impossible - Ghost Protocol! 
+
+- **Fonte:** 23. Pumped for Mission Impossible - Ghost Protocol! 
+- **Duração:** 01:27
+- **Idioma:** en
+- **Modelo:** small
+
+---
+
+## [00:00 - 01:27]
+
+Let's face it, everybody's got two cents and everybody's got two minutes. So here's my two cents in under two minutes. Ghost protocol is coming out. Cannot tell you. I am so excited. I'll be at the arc light with or without my wife. I'm telling her like baby, I'm going. You're either coming with me or not. And I know she'll be the first one in the car because she is freaking. She'd leave me for Tom Cruise, okay? Kind of kidding, but she loves that cat, okay? And I'm gonna tell you, I gotta be honest with you. I love Tom Cruise too. I love his balls, his tenacity. And in this movie, he's doing what I've always wanted to do, man. I wanna repel, was it repellent? I wanna repel off of a building, the highest building in the world. This cat's selling tickets, baby. This cat's doing what you need to do when you get a chance to get in front of a customer. He's selling tickets. I don't need a stunt man, little T says. TC says, bring out the repels, bring out the cables. I'll sell this movie. I'm gonna make it a blockbuster. Got that movie. I cannot wait to see this man put the freak, 110 million in the US this weekend. That's what I'm pulling for. Hey, man, go get it, TC. I love what you do. I love your career. Ethan Hunt, Ethan Hunt will uncover the malicious and malignant, terrible poison within our society. And if he's gotta jump off a building to do it, TC, have a big weekend, dude. I hope you hit 40, 50, 60 million opening weekend. I hope you hit it big. I hope all of you go out and buy a ticket. Cannot wait.

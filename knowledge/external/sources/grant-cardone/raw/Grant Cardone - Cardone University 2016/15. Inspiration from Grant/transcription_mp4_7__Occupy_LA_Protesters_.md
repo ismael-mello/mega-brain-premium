@@ -1,0 +1,12 @@
+# Transcrição: 7. Occupy LA Protesters 
+
+- **Fonte:** 7. Occupy LA Protesters 
+- **Duração:** 02:19
+- **Idioma:** en
+- **Modelo:** small
+
+---
+
+## [00:00 - 02:19]
+
+Let's face it, everybody's got two cents and everybody's got two minutes. So here's my two cents in under two minutes. Dude, it made it in the paper date. Some good news. Retail sales are up. You know what that means? And by the way, who's doing that? That's the can-do people, man. It's the can-do people, not the can't-do people that are driving retail sales. Autos, furniture, TVs, appliances, gadgets, widgets, services, okay? You know who's doing that? The can-do people, baby. Not the naysayers, not the negative. Ain't nobody occupying the parks driving retail sales. What are they doing? They're driving tent sales? Come on, man. I got one of those stoves, what are they called? Campbell Stoves. Coleman Landers. I got a, I ain't got a Coleman Lander, man. I'm stimulating the economy. No, you ain't. No, you ain't. You know who's stimulating the economy? People that are doers can-do people are like, you know what? I don't care about the economy. I don't care about the big economy. I care about driving my own personal economy. That's how you control something. You take this right here, this room, okay? And then something a little bigger and you're like, I'm gonna start affecting this. That's the can-do attitude that made America what America is. Folks, it doesn't matter what's in the news right now. You know what matters? What are you doing about it? What are you doing to make that ripple effect? What are you doing to throw that one rock, your energy, your efforts, your attitude into that pond that ripples out and affects everything at large, okay? That's your obligation. That's your responsibility. And each of us, that's our American duty, dude, to get out there and freaking grow the economy, okay? It probably does not involve occupying a park, okay? Probably doesn't involve being lazy right now, okay? Because the economy's not gonna grow fast enough and big enough to lift all boats. You know who's gonna lift? The people that are driving retail sales. Those businesses, individuals, those entrepreneurs, and those sales organizations that are out there every day doing the lifting, not the crying, that are doing the lifting and the pushing and the shoving and the make things go right kind of attitude. So go out and do your part, okay? Go out and lift retail sales and restore the U.S. economy. It is your duty to do your part.

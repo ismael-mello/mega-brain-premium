@@ -1,0 +1,12 @@
+# Transcrição: 13. Convert 40_ More Leads Than Anyone Else
+
+- **Fonte:** 13. Convert 40_ More Leads Than Anyone Else
+- **Duração:** 01:57
+- **Idioma:** en
+- **Modelo:** small
+
+---
+
+## [00:00 - 01:57]
+
+Now would you like to convert leads at 40 times more than anyone else? Well, here's the statistic. There's a 40% higher conversion rate when you text during a sales call. I've said this to years to organizations. Look, text during the call. While people are engaged with you on your website or called your office or are visiting with you, standing in front of you, looking at that address, what you'd want to do is literally grab a mobile device, even though the dress is right there and possibly show them other possibilities, other alternatives, other things you have going, oh, grant, we're going to confuse the customer. There's a 40% higher conversion rate when you text during a sales call. It's a fact. Most of you are closing at 5, 8, 10%, 12, maybe 20. You're lying to me if it's over 25. I'm telling you, there's a 40%, 40% higher conversion rate when you simply grab your phone and text a piece of content back to that customer. Why would it be so high? Because the customer just gave me their cell number. One of the things they find so close to them, they keep it within 3 feet, 30 inches of them, 24 hours a day. First thing they look at when they wake up in the morning. It's the last thing they touch when they go to sleep at night, hopefully it's their cell phone, not the person they live with. There's a 40% higher conversion rate when texting during the sales call. What are you going to do about it? You want to take that statistic and you want to use it so that when somebody's with you on the phone or on your website, sir, do you have your phone available? I want to text you something. They're in front of you. Can I text you a picture of the dress on you? Can I text you this while you're on the phone with me? They're on the phone. They don't have a home phone anymore. They got a cell number. Text it to them so they can look at the picture or look at the information or look at the image. Or who knows, maybe even send an image of yourself.

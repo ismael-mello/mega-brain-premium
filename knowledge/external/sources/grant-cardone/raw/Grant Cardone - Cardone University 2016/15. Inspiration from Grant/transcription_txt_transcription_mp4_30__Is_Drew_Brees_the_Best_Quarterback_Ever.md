@@ -1,0 +1,9 @@
+# Extracao: transcription_mp4_30__Is_Drew_Brees_the_Best_Quarterback_Ever
+
+- **Fonte:** transcription_mp4_30__Is_Drew_Brees_the_Best_Quarterback_Ever.txt
+- **Tipo:** TXT
+- **Tamanho:** 0 MB
+
+---
+
+Let's face it everybody's got two cents and everybody's got two minutes. So here's my two cents in under two minutes 5,087 yards in 15 games. That's almost 350 yards a game Unbelievable true breeze man. You break down Marino's long-held 27-year record man. Congratulations So glad to see this happening in Louisiana for the Saints rather than for the Chargers who sold you short my brother I think it was back in 2006 people had counted you out from your shoulder injury Here's a perfect example of Drew Brees of a guy being counted dead done out and over coming back Winning a Super Bowl number one did he busted it's this thing last night and did it with just Unbelievable style going out with a touchdown. He didn't get to see it. He says I'm only six foot tall So I couldn't actually see the completion. I'm like dude if I was six foot tall, I'd be a millionaire, okay? I'd love those other four inches. So you know what I mean when I say four inches He made some great comments thankful grateful to his team at the end He even thanked the guys that rubbed the balls. He says hey, I appreciate you guys rubbing down the balls We're full service Football team here he gave praise to his team his coaches the receivers the defenders His blocking tackles his front line guys the guy did it in class man Drew Brees You are an example of what good Americans can and should be doing right now man working hard Working long and doing whatever it takes to be a champion to win the to win the big title man winning is important and Drew Brees Do you are you are a great American and a great example for all of us? You

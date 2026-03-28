@@ -1,0 +1,16 @@
+# Transcrição: 03- Course 6 (Lesson 2) - How to Know If It’s A Good Deal
+
+- **Fonte:** 03- Course 6 (Lesson 2) - How to Know If It’s A Good Deal
+- **Duração:** 03:42
+- **Idioma:** en
+- **Modelo:** small
+
+---
+
+## [00:00 - 03:00]
+
+Now, when you're using the four quadrant, they'll help you know when you have a good deal, a medium deal, or a bad deal. The four quadrants are real estate investing. Price, down payment, NOI, cash on cash. When we buy something at Cardone Capital, we know all four of these quadrants inside and out, and we might have three or four or five different variations of these four quadrants. What if I pay this price? What if I put this money down? What if I have an NOI with a worst case scenario? See, I might have different variations in my four quadrants. I know when I'm paying. I know how low I can go. I know maybe, what if I have to pay a higher price to win the deal? You want to win every deal you're on? Pay more. That's how you win deals. Again, if you have time on your side paying another $100,000 or $200,000 on a deal, as long as you have time and NOI and cash on cash, you're not going to lose the deal anyway, so it won't matter 10 years from now. I need to know what I have to put down. In that quadrant could be 80%. In that quadrant could be 20% down, 25% down, 30% down, 35% down. It could even be as much as 40% down. And again, maybe I have different quadrants for different transaction types or considerations. I need to understand the quadrant of NOI. What is a best case NOI? Worst case NOI? Trailing 12 NOI? Trailing 12 with new taxes NOI? What if the world falls apart NOI? Know that. I'm clear on the cash on cash situation. You're going to show that as a number and a percentage. So if I make an $80,000 a year, it's an 8% return. If I put a million dollars into my deal, so you would have the $80,000 cash on cash and I would have the 8%. You would also have if principal and interest was part of that or if interest only, that number would increase. I'm looking at deals right now that might only pay me a 5% cash on cash, but the other three quadrants I need to know to substantiate why would I go into a deal at 4% or 5% cash on cash? Is there something else going on here? When one quadrant goes down, something else has to be adjusted. That's called the market. The market will always adjust. Something goes down here means something has to go up some other place or it's not a good deal. The only exception is if the entire deal is just awful. Then let somebody else buy it. This whole conversation then becomes a non-starter. Let them hang on it. Let them lose money on that deal or collect the data, track the deal and find out you're
+
+## [03:00 - 03:42]
+
+being too conservative in your estimates and not buying deals that later make other more aggressive buyers a lot of money and you missed. By breaking it down to this level, the entire acquisition and analysis process becomes incredibly simple and straightforward. Don't complicate this. Use a spreadsheet. Use an Excel spreadsheet, but get it simple to where you can understand it in the four quadrants. If the quadrants don't work for you, figure out something that does, but this is something that has never let me down. I don't move forward with the deal unless I fully understand the four quadrants. By the way, you shouldn't either.

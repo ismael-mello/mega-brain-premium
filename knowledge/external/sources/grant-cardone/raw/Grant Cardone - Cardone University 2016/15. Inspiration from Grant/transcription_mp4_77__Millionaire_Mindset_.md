@@ -1,0 +1,12 @@
+# Transcrição: 77. Millionaire Mindset 
+
+- **Fonte:** 77. Millionaire Mindset 
+- **Duração:** 01:42
+- **Idioma:** en
+- **Modelo:** small
+
+---
+
+## [00:00 - 01:42]
+
+Let's face it everybody's got two cents and everybody's got two minutes So here's my two cents in under two minutes Grant Cardone here number of millionaires in America grew 200,000 in 2011 that was last year sounds like a lot of people right truth is it's only 2% It was actually higher in 2009 and 2010. Why am I telling you this is a grant ran? You want to be a millionaire? It is possible trust me. It's possible get your millionaire head on You know I did a rant earlier about everybody's a millionaire is something Millionaire of excuses a million times you've breathed a million time You've probably gotten a car shut the door millions of things you've done millions of times over and over Some of it good some of it bad they're now 8.6 million households in the US with a total net worth Minus their principal residents that's very very important for you to know that have a million dollars or more. That's good news That's good news. Would you agree? Don't be envious of them figure out? Hey, what are these people doing man millionaires are being created at a time when things are so Uncertain or is it just the rich people getting rich? No, that's not true Two-thirds of the people that were made into millionaires in the last decade or self-made first generation You know what that means it means they're new millionaires They didn't come from somebody else's money. So look it's possible 200,000 new millionaires. I want you to be one get your head on get your game on Okay, get your focus in get your work ethic there and start putting your focus on not just money But the creation of a great product, okay more customers a solution in the marketplace and you too. Yes, you too The guy says in the infomercial you too can be a millionaire

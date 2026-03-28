@@ -1,0 +1,12 @@
+# Transcrição: 73. Negativity is Poison 
+
+- **Fonte:** 73. Negativity is Poison 
+- **Duração:** 02:19
+- **Idioma:** en
+- **Modelo:** small
+
+---
+
+## [00:00 - 02:19]
+
+Let's face it everybody's got two cents and everybody's got two minutes. So here's my two cents in under two minutes Hey Grant Cardone here. I want to talk to you about no negativity. Okay. Look it is killing me. It's killing you It's killing your family and it's killing the economy. I don't care what side of politics you're on the negativity is just Negative and there's no money in it. There's no future and being negative. Where's the solution? You know, I can't do that. We can't do that. That can't happen. This is wrong. That's wrong Oh my gosh taxes are too high taxes to do dude. It's negative. It is negative It is negative Look, there's so much abundance of negativity that by itself tells you what there's no value in it Okay, I got these two negativity no negativity and stay positive risk bands on right now people like why you wear those? Dude, I ain't wearing it for me brother. I'm wearing it to give to people because I'm tired of the damn contamination You're radiating contamination of negativity So look your brother your cousin your brother-in-law your mom your dad your uncle your aunt Okay, the guy at church the pastor the priest. Okay, the the homeless guy on the street dude Get these people positive control your environment. That's why we're giving out these little stickers. Okay, if you go to cartonsuccess.com I'm trying to mail out a hundred thousand of these all I want you to do this free I'll mail it to you. I'm gonna spend the postage I'm trying to put the US postal system back in business because they're so freaking negative They're gonna run themselves in the ground until the government finally sells into FedEx or UPS Go to Cardone success go to Cardone success.com go to Cardone success.com and don't say you ain't got time You just being negative. Okay. I'm gonna send you this sticker. All right I want to send it to you and what I want you to do the only thing I'm gonna ask you to do is post it on your Facebook page or Tweet it a photo of it. Just If you want to you can order it a bigger size. Okay, you can also get the no negativity sign Okay, this is a great great thing for your office I'll sign it for you on the back with a personal message to you. Look. It's no negativity man Take control of your environment. I'll send you the sticker for free I just want the world to quit being negative and let's start with you You

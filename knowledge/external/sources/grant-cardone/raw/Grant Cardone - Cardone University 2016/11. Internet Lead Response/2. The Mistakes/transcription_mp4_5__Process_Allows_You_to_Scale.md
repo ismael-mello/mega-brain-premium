@@ -1,0 +1,12 @@
+# Transcrição: 5. Process Allows You to Scale
+
+- **Fonte:** 5. Process Allows You to Scale
+- **Duração:** 01:41
+- **Idioma:** en
+- **Modelo:** small
+
+---
+
+## [00:00 - 01:41]
+
+A defined process allows you to scale. It allows you to start hiring people, bringing new people in and laying out the book and saying this is what we do. It would also allow you to scale in other spaces. You know literally I could get, give that book to other people. This is how we follow up. Because that's, that will become very valuable when you're crossing time zones. When you go web, right, people can hit you from California or Miami Beach in the same moment. They can hit you from India, Hong Kong, Russia, Portugal, whatever. I could be hit from all these different time zones. I think there's 12 time zones just across Russia, which means I can actually hire people across 12 different time zones, give them my package, my process, and say when this lead hits in your space, this is what we do. It allows you to scale. Take the time to build a process for you and your company, your people, and your expansion. Because I'm going to tell you, the number one reason, okay, by the way you want the statistic, 22 million out of 28 million small businesses in America have no employees. They haven't scaled. 22 million out of 28 million have zero employees. They didn't scale. They didn't grow. They didn't get big. They took small business to a whole new level. Nobody in it. Why am I telling you that? I'm telling you that because you don't grow your business because you can't scale it. Because you haven't written out what the processes are. A specific process in writing that you can deliver to other people creates consistency, credibility, confidence, and it allows you to grow at the scale you deserve to. Okay? Figure out your process.

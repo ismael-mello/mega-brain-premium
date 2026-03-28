@@ -1,0 +1,12 @@
+# Transcrição: 57. Trait 56 - Great Salespeople know the difference between an objection and a complaint.
+
+- **Fonte:** 57. Trait 56 - Great Salespeople know the difference between an objection and a complaint.
+- **Duração:** 01:54
+- **Idioma:** en
+- **Modelo:** small
+
+---
+
+## [00:00 - 01:54]
+
+Great salespeople know the difference between an objection and a complaint. I can't tell you how many times I've been working with a company where I went in after a sales team had been working a transaction and the sales team told me oh it's the price and it's the product and it's this and it's that and I would just walk in and just take the agreement or the contract and say sir I need you to sign right here. Well what do you mean? I told the other guy the price is too high and I got a better deal and and it's this and it's that so I need you to sign right here okay I understand all that I'm with you on all that I agree with you on all that I need you to sign right here and the guy's like okay and he signed and then the sales team is like dude what you just do man what was that what just happened there I don't know I don't know what happened I think I think you made a complaint into an objection look if somebody said to you man I don't like the weather it's too cold or it's too hot are you now in charge to somehow lower or raise the the temperature? No same thing with an objection the price is too high the payments are too high we got to go to three other places I got to look at this first I didn't bring so-and-so with me why don't you just close how do you know that's just not like the weather I don't like the weather today you can't solve problems that aren't actually problems many of the things that you hear today are not objections they're complaints it's an expensive product it's the watch I'm wearing on my arm right now and I'm like oh my god that's a lot of money I knew it was a lot of money when I went there and so a great salesperson would say this thank you sir thank you it is a lot of money thank you and visa mastercard or American Express okay hell I just put it on my MXC it was just a complaint great sales people know how to differentiate between objections and complaints and they make closing a deal look like magic

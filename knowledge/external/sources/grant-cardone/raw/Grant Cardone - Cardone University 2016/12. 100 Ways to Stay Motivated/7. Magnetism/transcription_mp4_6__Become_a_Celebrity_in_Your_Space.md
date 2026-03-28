@@ -1,0 +1,12 @@
+# Transcrição: 6. Become a Celebrity in Your Space
+
+- **Fonte:** 6. Become a Celebrity in Your Space
+- **Duração:** 01:40
+- **Idioma:** en
+- **Modelo:** small
+
+---
+
+## [00:00 - 01:40]
+
+Become a celebrity in your space. Become the go-to guy or gal. Become the name in your space. This would be a tremendous motivational target for you. To become the name or the top two or three names in the space that you work and live in. Become the go-to guy. Remember that? Become the most dependable and now become the celebrity. The one everyone is talking about. The one that's getting all the criticism and oh by the way what does the celebrity get with criticism? They get all the admiration too. Look you can't deny this fact. The people that get the most criticism end up with the most admiration and the most admiration ends up in deals. Admirations is actually deals. This guy gets this guy so well known. Everybody knows this guy. I didn't make this decision to become a celebrity in my space. A celebrity. A celebrity is what other people follow and talk about. That person that sets kind of the standard. Become a celebrity in your space. Anybody can do this. Folks all you got to do is watch TV and see who the celebrities are. Watch and see who the celebrities are and you'll be like she ain't that good looking. He ain't that hot. He ain't that big a deal. He's not that smart. Oh my god how did he become that? Right? That's you. That's me. Make a decision. I have to get known. I got to get way above the radar. I got to get everybody to know me. I got to make the news and now I'm going to become the go-to guy or gal. I'm going to dominate the space and become omnipresent in it. I'm going to become the person that gets so much attention that people are like oh my god he's in a completely different league now. Become a celebrity in your space.

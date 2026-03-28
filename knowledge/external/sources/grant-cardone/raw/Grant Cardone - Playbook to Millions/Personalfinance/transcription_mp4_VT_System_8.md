@@ -1,0 +1,12 @@
+# Transcrição: VT System_8
+
+- **Fonte:** VT System_8
+- **Duração:** 02:02
+- **Idioma:** en
+- **Modelo:** small
+
+---
+
+## [00:00 - 02:02]
+
+Out of sight, out of mind. Okay, out of sight, out of mind. If you're not looking at it, you're not paying attention to it, it's not happening. Every week, every week, we meet on money. My wife and the kids, that's right. My wife, my four-year-old, my six-year-old sit down on a Sunday morning. After church, we sit down and say, hey, let's look at our money now. Okay? I'm not supposed to work today. We've already done church. We did the community thing. We love everyone. Okay? We're feeling good. Let me get my money right. Why? Why do I want to pay attention to my money? Because you live on an economic planet. You live on an economic planet. Whatever your race, your religion, your creed, whatever you believe. Look, this is an economic planet. You're going to go somewhere today and somebody is going to ask you for money. Something's going to cost something, whether it's a movie or whether it's something you're trying to build or grow. You need money to do that. So, out of sight, out of mind, if you're not paying attention to it, if you're not confronting it, don't expect to have it. Make a time each week to sit down and look at, how do we do this week? How do we do this month? How are we doing? How much money is in the accounts? Where's the money out? What do we spend the money on? Remember, 95% of your time on income, 5% of your time on expenses. When you do your weekly meeting on Monday, don't hammer anybody. Don't beat anybody up. Let's put our attention on what we want. What do we want? Income. I want more income. I want to do the right things with that money. I want to save 40%. What are we using debt for? What are we not using debt for? Keep fortifying those commitments to the basic building blocks of your money. And one of those is meet weekly on your money. Sometimes I look at my money every day. I'm like, give me a financial statement every day. I want to look at it every day. How long does that take? Look at it. What is everybody in the organization know? This guy's paying attention. All right? Look, money, money loves, loves attention. If you don't pay attention, you know this old saying, money never sleeps? Let me tell you something. Money gets bored. And money's jealous. Money's envious. You don't pay attention to it. It's going to go live with someone else that will.

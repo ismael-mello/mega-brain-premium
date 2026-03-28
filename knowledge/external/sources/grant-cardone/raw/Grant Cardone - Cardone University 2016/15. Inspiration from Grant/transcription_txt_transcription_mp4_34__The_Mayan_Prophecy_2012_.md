@@ -1,0 +1,9 @@
+# Extracao: transcription_mp4_34__The_Mayan_Prophecy_2012_
+
+- **Fonte:** transcription_mp4_34__The_Mayan_Prophecy_2012_.txt
+- **Tipo:** TXT
+- **Tamanho:** 0 MB
+
+---
+
+Let's face it everybody's got two cents and everybody's got two minutes So here's my two cents in under two minutes It's come to my attention that the world is coming to an end on December 24th 2012 I thought when they made that movie they were just like hyping something then somebody here in my office is no no dude It's a prophecy the Mayan prophecy the Mayan calendar comes to an end on Sunday December 23rd 2012 what are you gonna do about it? Okay in less than 12 months? The world is going to come to an end. Okay heads up the Mayan Civilization came to an end thousands of years ago. Okay, they have people literally wrapped up with their attention about I'm not gonna work the rest of the year because the world is gonna come to an end Look folks your world is gonna come to an end one day I don't know if you go to heaven or you go you go spend time with virgins I'm not sure what you do at that point. I know what I'm gonna do and more importantly I know what I'm gonna do between now and that day You know it said everybody's born and everybody dies is that dash in between this important and I'm not living it in fear I know one day This Grant Cardone thing is gonna end. I'm worried about the dash baby I'm worried about the Mondays the Tuesdays the Wednesdays the Thursdays the Fridays the Saturdays the Sundays the hours the minutes the moments with My family the moments in the marketplace the moments with my friends Where I can at least make an impression on people and maybe even make a difference. Okay, this Mayan stuff Hey, man, please. Okay, you got other things to worry about

@@ -1,0 +1,12 @@
+# Transcrição: 5. Never Settle for Good When You Can be Great
+
+- **Fonte:** 5. Never Settle for Good When You Can be Great
+- **Duração:** 01:27
+- **Idioma:** en
+- **Modelo:** small
+
+---
+
+## [00:00 - 01:27]
+
+You want to be more motivated? Quit settling for good. Never settle for good when you can be great in all of us. Each of us. You too can be great. Anyone can be. Every day I strive. How can I get great? How can I get great, not good? How can I have a great marriage, not a good marriage? Doesn't mean I'm gonna succeed today. It doesn't even mean I'm gonna be good at it today, but I'm going for great every day. And I got to keep that in front of my face. You know the old saying, out of sight, out of mind. Look if you think good's your target, you might end up with less than good. If you think great is the target, good you will attain. And then you'll be dissatisfied when you don't get good. When you don't get great, you'll be dissatisfied. And I'm gonna tell you something. Not being satisfied is actually a motivator, but not when you're going for good. When you're going for good, you end up with what? Something less than good, maybe good. Oh, that was good. Yeah, I did good. Yeah, we did good. Nobody knows anything happened, right? Because nobody reports on good. They report on what? Great. If you're gonna get an accident, good accident or a great accident, you see? If you're gonna make some bank, good bank or great bank. If you're gonna make the news, good news or great news. If you're gonna have a marriage and you're gonna be married to the same person for what, 30, 40, 50 years, good marriage or a great marriage, it's all up to you. Just make a decision. What's your target? Good or great? Look, don't settle for good when you can be great.

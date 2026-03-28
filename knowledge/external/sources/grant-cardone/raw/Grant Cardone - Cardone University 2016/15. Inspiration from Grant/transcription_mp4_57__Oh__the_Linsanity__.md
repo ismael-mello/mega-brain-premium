@@ -1,0 +1,12 @@
+# Transcrição: 57. Oh, the Linsanity! 
+
+- **Fonte:** 57. Oh, the Linsanity! 
+- **Duração:** 01:25
+- **Idioma:** en
+- **Modelo:** small
+
+---
+
+## [00:00 - 01:25]
+
+Let's face it everybody's got two cents and everybody's got two minutes So here's my two cents in under two minutes. Hey, you think the American dream is dead and over Jeremy Lin would tell you otherwise Here kids 23 years old playing for the Nick dude. He's bringing the Knicks franchise back check it out Live with his brother sleeps on his couch. Okay got kicked off a two teams Nobody would sign and somebody gives him a shot first Chinese American in the NBA the guys ripping it He's killing it. Why couldn't get drafted? Okay, never got an athletic scholarship didn't quit He didn't quit. I don't know what's happening to the cap But he's on fire and it just goes to show you man never quit work your game out Believe in yourself know that greatness is inside of you man. Everybody's got it Everybody that homeless guy on the street. Okay, don't think he's not great. He's got greatness. He's just lost his way So find your greatness find that one thing that you're great at that You're that is your purpose that gets you excited man and fine tune that thing You think this kid hadn't dribbled the ball more than once or twice how many times ten thousand? Huh? What about LeBron? What about manning what about all the greats? Okay? 10,000 times dribbling a ball passing a ball you if you're gonna be a great salesperson look you got a drill You got a role play you got to work it out. Don't admire greatness and others Find the greatness in you You

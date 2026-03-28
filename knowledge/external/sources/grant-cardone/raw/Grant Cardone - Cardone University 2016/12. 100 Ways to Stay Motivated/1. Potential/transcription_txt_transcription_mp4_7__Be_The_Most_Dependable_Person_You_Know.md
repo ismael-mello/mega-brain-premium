@@ -1,0 +1,9 @@
+# Extracao: transcription_mp4_7__Be_The_Most_Dependable_Person_You_Know
+
+- **Fonte:** transcription_mp4_7__Be_The_Most_Dependable_Person_You_Know.txt
+- **Tipo:** TXT
+- **Tamanho:** 0 MB
+
+---
+
+Be the most dependable person you know and everyone else knows. Be that go-to guy or gal that when people need a job done they're like give it to him or her. Be that person, okay? Be that guy or gal that everyone knows. Man, if it's a difficult task give it to Grant. If it's an impossible task there's only one person to give it to. When you become that most dependable person that you know and other people know your confidence is going to be unbelievable. Your belief in yourself and having other people believe in you and flow on you like that I can depend on Grant. I can trust Grant. Look, I need that from people. That's important to me. It's probably important to you. I want my wife to be able to depend on me. I want my two kids to be able to depend on me and know that he's consistent. He's there. He's trustworthy and and my customers need to know that. The marketplace has to know that. I can't have people saying Grant won't show up. Look, people need to be able to depend on you in a major way and you need to know that about you because if there's something anything in your life that you're doing that causes you to think you're not dependable that's going to lower your motivation. The more dependable you are with yourself, with your commitments, with your delivery, with your successes, with finishing things the more you're going to motivate. So do a practical here about how you can become the most dependable person you know and I promise you your motivation will blow out the roof.

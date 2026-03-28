@@ -1,0 +1,12 @@
+# Transcrição: 3. Organization
+
+- **Fonte:** 3. Organization
+- **Duração:** 02:03
+- **Idioma:** en
+- **Modelo:** small
+
+---
+
+## [00:00 - 02:03]
+
+Organization. Look, if you're not organized, you cannot follow up. You're going to sit down at your desk, look around and not know what to do. First thing I'm going to do is I'm going to take time each day to make follow-up a priority. If you don't set time for this thing called follow-up, you won't do it. Just like working out, just like kids, just like anything. If you don't take the time, you will not do the activity. So carve out a time each day, 9 to 10, 10 to 11, 11 to 12, 12. Pick a time. I don't care what it is. Pick 30 or 45 minutes and say, I wonder how much follow-up I can do right now in this short period of time. I would compress the time and press yourself to see how much you can get done. Your desk needs to be clean. Items need to be easily accessible. The CRM needs to be on working and you need to know how to access it. You should be touching that CRM every day. Every day working that CRM until it's your friend. If you hate it, if it's cumbersome, if it's slow, if it takes you too long, it's not the CRM's problem, it's your problem. You're too slow with it, you're too cumbersome, you don't know your way around. Why? Because you haven't made a commitment and you're not organized. Write out a list of all contacts that you need to make and have attempted or enter them into the CRM. You know the beautiful part about a CRM over a legal pad that I prefer is I lose legal pads and I can't lose my CRM. But you got to be organized to use it and to do the follow-up, whether it's the handwritten note, personal visit, phone call, whether it's an email, the third email, the 12th email, a text, no matter what it is, you have to be organized. Otherwise, you're still going to do the follow-up, right? But otherwise, you're going to look a little dumb sometime, calling somebody about the same thing and or you go to call them and you're like, what are we talking about? And you lose your confidence. You need organization, make a commitment to it, carve out some time, learn to beat that CRM to death until it starts having babies for you.

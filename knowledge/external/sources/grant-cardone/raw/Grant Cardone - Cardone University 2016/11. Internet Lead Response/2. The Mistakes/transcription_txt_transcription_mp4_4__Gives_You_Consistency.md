@@ -1,0 +1,9 @@
+# Extracao: transcription_mp4_4__Gives_You_Consistency
+
+- **Fonte:** transcription_mp4_4__Gives_You_Consistency.txt
+- **Tipo:** TXT
+- **Tamanho:** 0 MB
+
+---
+
+A laid out sales process, follow up process for an internet lead is going to give you consistency. That means you got a lot of people or just one person, you, doing the same thing over and over. And consistency is vital for you getting results, for you measuring what needs to change. If you're doing something different every time you go in the field, you'll never win because you're never going to have the certainty about what works and what doesn't work. This is what's going to give you clues as to they like it, they don't like it, what are they complaining about? Does this work? Is there a way to get more business? You need consistency. So wins that first contact. It's going to be the same contact with every client every time no matter what. You get a hit on your website, boom, go with automated. If you want to go automated, do it every time and make sure it's done it 12 seconds. Thanks for responding. I want to see it now. Now you should have that auto responder send back to you a notice so that you could text this client right now. That mobile phone sitting next to you. I know it's with you. You're at your kid's baseball game and you got it right there. You in fact missed your kid hitting a triple because you were on the phone. So don't act like you don't have time and don't act like you don't have the ability to actually just send somebody a quick text. You can. You got to get consistency in the process so you can start finding out where your sales process or your follow up needs to be modernized, where it needs to be modified and where it needs to accommodate your buyer and your company.

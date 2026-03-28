@@ -1,0 +1,12 @@
+# Transcrição: 1. The Rules
+
+- **Fonte:** 1. The Rules
+- **Duração:** 02:25
+- **Idioma:** en
+- **Modelo:** small
+
+---
+
+## [00:00 - 02:25]
+
+The rules of closing. Look, the close has rules. The rules like any game, okay, must be applied or you're not going to get the job done, okay, particularly in closing, especially in closing, if you don't abide by these rules, you won't be able to ensure your success. Now, there's probably 20 major rules, and I'm going to go over each one of them. From time to time, I personally review these rules in my life. I treat them as firm policy, and I do not violate them under any condition. Okay, number one, always be seated when negotiating and closing. This is a policy that is frequently, often violated and missed even by the most seasoned professionals. Look, you'll hardly ever close someone if you're standing up. If they're standing up, you're not going to close it. You've got to get people seated, okay? The same goes, present the product, the service, your proposal, your idea on your feet. Always negotiate the terms from your seat. In addition to making sure you are seated when attempting an agreement for closure, be sure they're seated. Both parties, multiple parties, the board, make sure they're seated. That means you have to learn how to control people. Control in a good way, not control in a bad way, all right? No control is bad control, okay? So, hey, sit down, let's get this done, that's good. Even if your prospect stands up, I want you to remain seated, suggesting that you're not done, you're not reacting, and that you're confident of agreement. Getting up all of a sudden when they do, it's just a reaction, okay? When you go from a seating position to a standing position, it suggests that something's changed, possibly even ended, gives your customer or your prospect the right to exit and cut off or end negotiations. Hey, come on in, sit down. You've got to make people comfortable, man, you've got to get them in the chair. Come on in, sit down. What can I do to make them comfortable? Coat, cup of coffee, something to drink, something to eat, anything to keep them in that chair. Your job is not just to present numbers to people or make a proposal or even close a deal, you've got to get people comfortable, get them in the chair, get them comfortable sitting there. Okay, so, first rule, never, ever, ever. Negotiate standing on your feet, always get them seated, always remain seating, make your proposal from there, use your closes from there, and you'll watch your closing ratio go up.

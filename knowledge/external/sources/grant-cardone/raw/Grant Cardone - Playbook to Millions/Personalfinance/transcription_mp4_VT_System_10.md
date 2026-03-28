@@ -1,0 +1,16 @@
+# Transcrição: VT System_10
+
+- **Fonte:** VT System_10
+- **Duração:** 03:06
+- **Idioma:** en
+- **Modelo:** small
+
+---
+
+## [00:00 - 03:01]
+
+The money shortage mindset. You know if you were brought up poor like I was or middle-class like most of us are you're gonna spend the rest of your life with this poor and middle-class mindset. It's called a money shortage mindset. You think there's a shortage of money. My dad used to tell me, money doesn't, money doesn't grow on. No, I didn't grow on trees pops. No, I know that okay. He used to tell me that all the time, money doesn't grow on trees. But you know what today at 57 years old when I look back, there's more money on this planet than there are trees. Okay. You can literally, you can literally print money faster than you could grow a tree. There's more money. There's more abundance of money on this planet than there are the trees that my daddy told me money doesn't grow on trees. Let me tell you something else my daddy didn't know. Okay. Money, originally money particularly in the US, was printed from a cotton bush. A cotton bush is a tree, man. By definition, a bush is a tiny little tree. Okay. And that paper was cotton. So it's not true that money doesn't grow on trees. Money's everywhere. Just look around. Look around. You go, you go outside. I want you to go outside. When this segment is over, I want you to walk outside, get in your car. Before you get in your car, just look around. Look around. Look around at the trees, man. Trees are everywhere, man. The sky. The sky is everywhere. Okay. You done? Okay. Look, I want you to look at the cement on the ground. Cement everywhere. It's everywhere. Okay. And then I want you to look for this. Now I want you to look for money. I want you to look around you. I want you to look at the cars, the buildings, okay. The people. All of them are money. The tires and the cars. I don't know. The retail center. The people wearing clothes and the ties and all the things, the purses that people are carrying. The shoes, the watches, okay. Money. There is no shortage of money. It's not a mindset. It is not true. There is no shortage of money on this planet, except that which lives in your mind because not because it's your fault. You were brought up poor middle class. You were brought up by the mentality of people that thought money was in shortage. This is how I grew up. Turn the lights out, eat all your food, save the pennies. A penny saved. Dude, it's a penny. It is a damn penny. So you got to fix this money shortage mindset every day. This is what I want you to do. Every day when you go out, you're driving your car to work, you're going out to see a client. I just want you to look for money. Okay. All I want you to do is look. Quit looking at hot chicks. Good looking guys. All I want you to look at is how much money is around you. On the weekends, I've done this for years. On the weekends for years, for probably 40 years, I go into neighborhoods I can't afford. I look at things I can't buy. Okay. It's not that I'm stuck on yachts and big homes or jets. I want to see, I want to fix my money mindset. I want to fix, not just about money, I want to fix my understanding of the planet and that there's
+
+## [03:01 - 03:06]
+
+abundance and opportunity everywhere. Okay. Fix your money shortage mindset.

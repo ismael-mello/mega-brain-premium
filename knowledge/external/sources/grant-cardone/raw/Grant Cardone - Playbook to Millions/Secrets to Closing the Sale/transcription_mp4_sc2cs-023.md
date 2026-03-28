@@ -1,0 +1,12 @@
+# Transcrição: sc2cs-023
+
+- **Fonte:** sc2cs-023
+- **Duração:** 02:14
+- **Idioma:** en
+- **Modelo:** small
+
+---
+
+## [00:00 - 02:14]
+
+We had so many people hit our website at the same time that it crashed the site. And at the company that hosts our site doesn't make that right, I'm gonna crush them. I'm gonna crack the coconuts. Hey, and I just want to say thank you, G. Every time I'm with you, every time I hear you talk particularly about the clothes, I always hear something new. And so I know the people that are out there listening and following, they just gotta be amazed. They have to have this realization about how badass you really are every time. So thank you for giving five hours of your time. You don't need the money, you don't need to be here. I'm sure you just assume be at home with your wife and kids. And thank you for being a good example for us as employees here working for you that you're willing to stay here late on a Friday night and continue to give and give and give and give the people. So thank you so much for being the rock star that you are. Thank you, Jared. Thank you so much for saying that. So thank everybody for being here. Thank you for tweeting tonight. Thank you for posting. If you love this webinar, okay? If you love this webinar, you know, Jared makes a good point about the money, okay? I don't need to do this on a Friday night for the money. This money is great. All that's good. And yes, we made money tonight and everything, but that's not why I do this. Okay? If I help you, if this helped you, if this was valuable, hey, tweet, hashtag, close the sale best freaking webinar you ever saw. If that's true for you, tweet that out. I love it. I appreciate that. I love people that are learning something. I love the idea that I could possibly contribute to or help someone else in their life. I'm going to be giving all this money away tomorrow night, so I know that's what's going to happen because I'm committed to this charity event tomorrow night. Thank you very much. God bless you. Be great and get great. Okay? It's time to get great so you can have great things for yourself, your family, and your future. Okay? Thank you so much.

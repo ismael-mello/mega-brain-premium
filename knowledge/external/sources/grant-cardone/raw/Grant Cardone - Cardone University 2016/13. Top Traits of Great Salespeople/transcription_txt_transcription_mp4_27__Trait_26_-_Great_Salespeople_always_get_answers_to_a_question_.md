@@ -1,0 +1,9 @@
+# Extracao: transcription_mp4_27__Trait_26_-_Great_Salespeople_always_get_answers_to_a_question_
+
+- **Fonte:** transcription_mp4_27__Trait_26_-_Great_Salespeople_always_get_answers_to_a_question_.txt
+- **Tipo:** TXT
+- **Tamanho:** 0 MB
+
+---
+
+Great salespeople are able to get questions answered even from the most closed-off defensive and rejecting customers. They always get an answer to a question. That's why I said earlier they're like magicians. These people know how to keep communication going on. Sir how much money do you make? I don't need to tell you that. Of course you don't need to tell me that sir. How much money do you make? They insist on getting an answer to the question. What's your budget on this project? We don't have a budget. That's not an answer. The greats know to only get data. Okay? They don't want to just get pulled along, played with. They don't cross their fingers like little kids and hope, oh if I just ask a bunch of questions I'm gonna be fine. Look the only reason you ask questions is to get an answer. Okay? How old are you? I don't need to tell you that. Of course you don't need to tell me that. How old are you? It doesn't matter. You're right it doesn't matter. How old are you? Why do you ask me that? Just curious. I'm thinking you're somewhere just a little older than 30. Is that right? Oh you're close. Under 35? Oh I'm 33. Got an answer. See great people, great sales people, great communicators insist on getting answers. They don't go down some road, come back without a deal without information. Greats know how to get questions answered. It's about control. Control the process by getting answers.

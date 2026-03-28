@@ -1,0 +1,12 @@
+# Transcrição: 53. Trait 52 - Great Salespeople are great listeners but they can also be deaf.
+
+- **Fonte:** 53. Trait 52 - Great Salespeople are great listeners but they can also be deaf.
+- **Duração:** 01:14
+- **Idioma:** en
+- **Modelo:** small
+
+---
+
+## [00:00 - 01:14]
+
+Great salespeople, they're great listeners, but they can also be deaf. They can be deaf. They literally know when to turn off their listeners, who to listen to and who not to listen to, when to listen and when not to. They literally can become deaf. You know I wrote this poem about be deaf, be deaf and it's actually a benefit. See great salespeople are deaf to those who say it can't be done. They just don't believe it. Dude in fact they get inspired if they hear they're like can't be done what do you mean? They call on me or they call is that angelic? Do I hear the heavens parten? Are they calling me right now when they said it can't be done? That must be me they're talking about because they hear can't be done too. Let's find out how to get this done because everybody else is giving up on it. Does it mean I need to? Look great people, great inventors, great politicians, great salespeople, great business people have done things other people have just refused to do. What do they say? It was impossible until somebody made it possible? To do that you got to be deaf. You either got to be deaf or you got to be insane or you got to be a little of both. Don't listen to people or I'm insane enough to say oh they couldn't do it let me show the world they can that I can that I'm the one that can make it happen that's what makes great. You can use it in sales.

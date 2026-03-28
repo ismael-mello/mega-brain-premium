@@ -1,0 +1,12 @@
+# Transcrição: 28. CNN Contributes to Economic Problems 
+
+- **Fonte:** 28. CNN Contributes to Economic Problems 
+- **Duração:** 02:13
+- **Idioma:** en
+- **Modelo:** small
+
+---
+
+## [00:00 - 02:13]
+
+Let's face it, everybody's got two cents and everybody's got two minutes. So here's my two cents in under two minutes. Hey, CNN just did a poll. Economy is still the number one worry. Do we really need CNN to do a poll to figure out that 310 million people in America are worried about the economy? Dude, I don't need a poll to do that, okay? 70% are saying things are going badly. No kidding, okay? No kidding. And who's doing anything about it? Nobody. We're going to do a poll. All we've got to do is go ask my friends what's happening. A handful of them are saying, look, I'm killing it and a lot of people are saying I'm getting crushed. Why? Because you're spending too much time watching CNN, man. Look, they're there to do one thing, to get you to sit on a sofa and not move. While the other 30% are saying, I'm going to go capture the market, I'm going to grab market, I'm going to crush, I'm going to get every freaking thing I can. And then what will CNN do? CNN will then report on the 30% that are doing well, claim that they're the 1%ers, and try to create some upheaval against them so more people maybe next year will occupy Wall Street. Baby, it's crazy. It's nuts. Occupy Wall Street is in the Rose Parade this year. Come on. Bing! Is that nuts or what? Occupy Wall Street got last place in the parade. That's right. Rose Bowl said yes. Occupy Wall Street and their people, they won't have a float. They won't have flowers, but they can be the last marching show in the parade. Okay, check it out. If you're not first, you're last, Occupy. And that's what you're doing. You've been to parks, you've been to the ports, you've been in front of the banks, you're hurting businesses, okay? You're making noise and not getting a product out of it. Is the economy in trouble? Yes. Will the economy be in trouble next year? Probably. What are you going to do about it, man? That's what I want to know. CNN, once you start reporting solutions, what people can do, what they should be doing and what they can go out to do to take care of their families, their businesses and to restore the U.S. economy. That's the most important news. Let's do a poll, okay? Hey, man, what did you do this year to make it better? What are you going to do in 2012 to kick it? Kick it up to the next level and turn CNN off.

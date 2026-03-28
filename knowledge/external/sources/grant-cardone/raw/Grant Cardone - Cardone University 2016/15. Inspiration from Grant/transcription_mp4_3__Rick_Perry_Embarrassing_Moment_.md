@@ -1,0 +1,12 @@
+# Transcrição: 3. Rick Perry Embarrassing Moment 
+
+- **Fonte:** 3. Rick Perry Embarrassing Moment 
+- **Duração:** 02:05
+- **Idioma:** en
+- **Modelo:** small
+
+---
+
+## [00:00 - 02:05]
+
+Let's face it everybody's got two cents and everybody's got two minutes So here's my two cents in under two minutes. Dude was that painful watching Rick Perry the other night not be able to come up with the energy department? It killed me and I'll bet you it was painful for you as well. Let me tell you what happened Look, I don't think Rick Perry is on medication. I don't think he was like drinking before the event Rick Perry is Resting on his laurels. It's what so many salespeople and business organizations and salespeople do oh Man, I was great last month. I was great with my last customer. I don't need to prepare today. Look, he didn't prepare I promise you his handlers are saying we have to prep for the debate We have to get you ready for every question and I can just imagine that Rick Perry's like that I've been a governor for eight years maybe ten years in Texas now. I own the state. I'm good on my feet I got the swagger I know how to answer the questions and you know what it'll work for him and has worked for him and probably has worked for you For a long time, but when it doesn't work It's ugly and that's why it was so painful for America to watch Rick Perry. Uh Oops, come on man Might have cost him any chance of rehabilitating his shot at the biggest opportunity at the biggest office In the land. Okay. Look, you don't want to blow opportunities like that You have to prepare and you have to prepare every day and that's what we're doing at the grant ramp We're taking the news. Hey, what can you learn about it? What can you experience positive from it so you can make your own transitions and let this be a navigation for you? About what you have to do to prepare yourself so that you can provide for yourself your family your future your goals your dreams and Make things happen. Look don't Rick Perry dude. The Rick Perry a Hundred years from now when you come back to planet Earth, they're gonna play that Rick Perry thing every time we run for president Okay, be prepared get your game on know what you're gonna say drill it practice it You guys that are using our carton on-demand program use that program four times a day You will never Rick Perry a customer

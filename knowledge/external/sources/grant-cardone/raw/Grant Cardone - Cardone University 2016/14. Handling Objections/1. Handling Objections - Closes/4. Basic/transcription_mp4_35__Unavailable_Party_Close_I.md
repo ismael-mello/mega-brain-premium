@@ -1,0 +1,12 @@
+# Transcrição: 35. Unavailable Party Close I
+
+- **Fonte:** 35. Unavailable Party Close I
+- **Duração:** 00:22
+- **Idioma:** en
+- **Modelo:** small
+
+---
+
+## [00:00 - 00:22]
+
+The unavailable party close. Okay, great. So the other person you need is not available, so let's write it up like this. You agree to ownership at figures and conditions spelled out, delivery of the product, of the equipment or whatever, the service is only subject to the third party's approval. Is that fair? I need your approval here and here.

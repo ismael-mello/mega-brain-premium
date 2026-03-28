@@ -1,0 +1,12 @@
+# Transcrição: 6. No Clear Purpose in the Call
+
+- **Fonte:** 6. No Clear Purpose in the Call
+- **Duração:** 02:01
+- **Idioma:** en
+- **Modelo:** small
+
+---
+
+## [00:00 - 02:01]
+
+Another mistake and follow-up is no clear purpose for the contact, the call, the personal visit, the text, that whatever it is. No clear purpose. You need a reason. Like the way I start my calls, always have, is the reason. Hey, the reason I'm calling you. I tell everybody the reason up front. The reason I'm calling you, let's say I'm selling a product. We had an appointment to show a product. John, thanks for taking time with me. I need, maybe this is gonna be eight or nine minutes, ten minutes at max. My intention in this call is to have you on our product before I leave. I tell them what my reason is. My reason was not to come ask about the kids, find out how everybody's doing. Now some people like that. Maybe that's good for you. Maybe that's good for your client, but you should find out. If they like all that, do it, but have a clear purpose. Was your clear purpose or reason to find out about the kids? I don't think so. If it is, don't present your product. You understand what I'm saying? Look, if your reason to go there was to check on the wife, the kids, the family, and their vacation, then let that be your purpose and don't sell any product. But if your purpose really was to make contact, to show them your product, to get a decision, then why don't you just make it clear that that's what you're there to do? Why don't you make it clear my intention is to have you on our product by the time we leave. Or maybe you're going to do a presentation and you're talking to a group of people. Make clear your purpose. What is your purpose for being there? When you're presenting to an audience of a thousand people, what is your reason for being there? Why are you doing this right here right now? Give the audience your clear purpose in the call. Now, let's say you don't have that clear purpose. You don't have a script. You don't have a reason. You can't find it. You don't know where the CRM is. You can't find the information, but you got his number. What are you going to do? Oh, you're going to make the call, even if you don't have a clear purpose. Just be honest about your clear purpose and you'll always have one. Try a clear purpose in your call and I promise you your sales are going to go up and the way the customer feels about you and you feel about yourself is going to also increase.

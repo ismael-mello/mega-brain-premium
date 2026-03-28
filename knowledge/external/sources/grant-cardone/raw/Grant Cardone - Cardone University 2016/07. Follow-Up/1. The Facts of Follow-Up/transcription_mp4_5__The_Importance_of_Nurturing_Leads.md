@@ -1,0 +1,12 @@
+# Transcrição: 5. The Importance of Nurturing Leads
+
+- **Fonte:** 5. The Importance of Nurturing Leads
+- **Duração:** 01:52
+- **Idioma:** en
+- **Modelo:** small
+
+---
+
+## [00:00 - 01:52]
+
+65% of all companies by survey agree that they don't nurture leads. Go to Sears or Pennies if they even exist anymore. I mean, I know they're going to go away sooner or later. Why? Because they don't nurture leads. Go to the Apple store that's just killing it. They ever call you back? Hey, thanks for coming by, Mr. Cardone. We really appreciate those 12 Macintosh computers that you recently bought from us. Very nice of you. By the way, I'm going back in this weekend to pick a bunch of iPhones up. But sooner or later, another technology is going to come by. And what's going to happen is that company didn't nurture the lead, didn't take care of me, didn't love me over time, even when I was buying. See, when I'm talking about nurturing leads, I'm not talking about somebody that didn't buy. What about the ones that did buy? What about the ones that converted and didn't get nurtured? So in all these series, I'm going to be talking about the sold and the unsold. You want to see a series on just sold and what to do with those, how to nurture those, and also how to nurture those transactions that did not buy yet, that didn't convert. Consider that 65% of all companies you compete with today that you directly compete with do not nurture the lead. They don't love the lead. How many of them advertise? They all advertise. How many of them open their doors every day? Every one of them. How many of them have a sales team? Every one of them. How many of them discount the prices? Every one of them and most of them discount too deep. Why? Because they don't nurture the lead. What would happen if you didn't nurture the marriage that you're in or nurture your children or nurture your parents? That'll end up being a problem for all of us, won't it? Nurture your clients. Nurture your clients, your customers, both the ones that have bought and the ones that haven't because those customers are going to take care of your kids, your marriage, and even your parents.

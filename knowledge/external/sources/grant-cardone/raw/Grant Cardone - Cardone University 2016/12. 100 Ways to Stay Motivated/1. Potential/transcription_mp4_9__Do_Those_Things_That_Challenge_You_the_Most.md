@@ -1,0 +1,12 @@
+# Transcrição: 9. Do Those Things That Challenge You the Most
+
+- **Fonte:** 9. Do Those Things That Challenge You the Most
+- **Duração:** 01:53
+- **Idioma:** en
+- **Modelo:** small
+
+---
+
+## [00:00 - 01:53]
+
+Hey, do those things that challenge you the most. Quit doing the things that don't challenge you. Look, you've got to get challenged. I don't care what it is. Jump out of a plane, jump off a bridge, go ask somebody out that you know won't go out with you, okay? Go get a client. Go call Donald Trump's office and see if you can do something that challenges you. Run for mayor. Do anything that pushes you or challenges you or puts you into a different realm and I guarantee you. Your experience is probably going to be a bit of anxiety, maybe some fear, but underneath that there's always motivation. Do things that challenge you the most. Maybe make a list of things that would most challenge you. For instance, when I'm making sales calls, I don't make the easiest ones first. I make the most difficult ones first. I want to get those ones that challenge me the most out of my way or I want to conquer them. Either way, I win. I get the hardest call first and I win. Dude, I'm on fire, baby. Okay? Particularly when I put the other 99 tips together with how to stay motivated. Now, if I make that most difficult call and I lose, at least it's out of the way. It's a no-brainer. Most people take the easiest things first. They're not challenging themselves. That's why they're not motivated. I'm telling you, this is a big problem with motivation. People are setting targets too low and doing simple, easy things every day. I mean, I do this with everything. I try to find the best parking space everywhere I go. My wife's like, what are you doing going round and round? Dude, I'm going to get a good spot. I guarantee you I'm going to get a good spot. I don't need to settle for a bad spot. I might even park in a place that says, don't park here because I want that good spot. Do the things that challenge you the most. Don't break the law. Okay? Don't do things that are unethical, but push yourself. Challenge yourself and do the things that push you the most.
