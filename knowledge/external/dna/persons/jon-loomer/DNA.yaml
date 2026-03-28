@@ -1,0 +1,459 @@
+# DNA Cognitivo: Jon Loomer
+# Versão: 1.0.0
+# Fonte: Scaling FB Ads for Success (SFAS) — 2018
+# Elementos: 79
+# Última atualização: 2026-03-27
+
+person: jon-loomer
+version: "1.0.0"
+total_elements: 79
+sources:
+  - id: SFAS
+    name: "Scaling FB Ads for Success"
+    files: 7
+    year: 2018
+    co_presenter: "Andrew Foxwell"
+
+layers:
+  L1_PHILOSOPHIES:
+    count: 14
+    items:
+      - id: "FIL-JL-001"
+        title: "Horizontal Scaling Supremacy"
+        content: "Sustainable growth comes from expanding audiences/offers/objectives, not just increasing budgets on existing ad sets"
+        domain: scaling
+        source: SFAS
+      - id: "FIL-JL-002"
+        title: "Facebook Is Not an ATM"
+        content: "Requires constant experimentation. Never get too comfortable. Just because you increase budget doesn't mean same percentage of people want to buy"
+        domain: facebook-ads
+        source: SFAS
+      - id: "FIL-JL-003"
+        title: "Complicated Problem Simplifier"
+        content: "Be a complicated problem simplifier, not a simple problem complicator. Don't go overboard with testing complexity"
+        domain: scaling
+        source: SFAS
+      - id: "FIL-JL-004"
+        title: "Scaling Is Moneyball"
+        content: "Get more people on base. Build systems, not single winners. One great ad set will eventually die without the system behind it"
+        domain: scaling
+        source: SFAS
+      - id: "FIL-JL-005"
+        title: "Creative Is the Fuel"
+        content: "Without creative volume, scaling dies. Creative gap is the #1 killer of scaling efforts"
+        domain: creative-strategy
+        source: SFAS
+      - id: "FIL-JL-006"
+        title: "Ads as Landing Pages"
+        content: "Photo posts with social proof become landing pages themselves. Comments validate the product better than any landing page copy"
+        domain: creative-strategy
+        source: SFAS
+      - id: "FIL-JL-007"
+        title: "Pixel Seasoning Philosophy"
+        content: "Like a cast-iron skillet, a seasoned pixel always performs better. More data = better optimization = better results"
+        domain: pixel-optimization
+        source: SFAS
+      - id: "FIL-JL-008"
+        title: "Break Even Is Victory"
+        content: "If you can break even on prospecting within 30 days, you're winning. Remarketing delivers the profit"
+        domain: scaling
+        source: SFAS
+      - id: "FIL-JL-009"
+        title: "Different Pitches for Different People"
+        content: "Not everyone is enticed by the same thing. We are all motivated by different ads, benefits, and solutions"
+        domain: audience-optimization
+        source: SFAS
+      - id: "FIL-JL-010"
+        title: "Signals Drive Everything"
+        content: "More data flowing into pixel events = better lookalikes = better performance. The Facebook book should be called Signals"
+        domain: pixel-optimization
+        source: SFAS
+      - id: "FIL-JL-011"
+        title: "Dynamic Over Static"
+        content: "Dynamic audiences regenerate every 3-7 days. They almost always outperform static audiences due to data freshness"
+        domain: audience-optimization
+        source: SFAS
+      - id: "FIL-JL-012"
+        title: "Algorithm Finds Best First"
+        content: "Facebook finds the best converters first. As you increase budget, you reach less relevant people. This is the fundamental scaling challenge"
+        domain: facebook-ads
+        source: SFAS
+      - id: "FIL-JL-013"
+        title: "Scaling Is Hard"
+        content: "Many industry experts claim scaling is easy. PRO TIP: It's not. There's a reason no in-depth scaling training existed before this"
+        domain: scaling
+        source: SFAS
+      - id: "FIL-JL-014"
+        title: "Numbers Before Scale"
+        content: "Without financial calculations in order ahead of time, scaling is gambling. Know AOV, LTV, margin percentage before spending more"
+        domain: budget-management
+        source: SFAS
+
+  L2_MENTAL_MODELS:
+    count: 12
+    items:
+      - id: "MM-JL-001"
+        title: "Audience Burnout Model"
+        content: "Algorithm finds best converters first. Quality decreases as budget increases within same audience. Solution: horizontal scaling"
+        domain: audience-optimization
+        source: SFAS
+      - id: "MM-JL-002"
+        title: "Creative Gap Model"
+        content: "Declining performance + high frequency = creative gap. Need new hooks/pitches, not just budget changes"
+        domain: creative-strategy
+        source: SFAS
+      - id: "MM-JL-003"
+        title: "Horizontal vs Vertical Scaling"
+        content: "Vertical = increasing budget. Horizontal = more audiences, offers, objectives, creative. Horizontal is unlimited because you're working on the pitch"
+        domain: scaling
+        source: SFAS
+      - id: "MM-JL-004"
+        title: "Learning Phase Model"
+        content: "50 conversions/week per ad set to stabilize. Resets on targeting/creative/optimization changes. Budget/bid changes don't reset"
+        domain: facebook-ads
+        source: SFAS
+      - id: "MM-JL-005"
+        title: "Funnel Budget Allocation"
+        content: "60% TOFU prospecting, 20% BOFU recent visitors, 5-10% Loyalty, 5-10% Branding to BOFU/Engagers"
+        domain: budget-management
+        source: SFAS
+      - id: "MM-JL-006"
+        title: "Stabilization Period"
+        content: "48-72 hours between any budget change. Making decisions with less than 48h of data is premature"
+        domain: budget-management
+        source: SFAS
+      - id: "MM-JL-007"
+        title: "Signal Strength Hierarchy"
+        content: "Dynamic audiences (pixel-based, regenerating) > static audiences (email lists). Exception: VIP customer lists"
+        domain: audience-optimization
+        source: SFAS
+      - id: "MM-JL-008"
+        title: "Lookalike Decay Curve"
+        content: "1% lookalikes wear out after ~$2,500 spend. Performance declines in 3 phases: most relevant → slightly less → much lower quality"
+        domain: audience-optimization
+        source: SFAS
+      - id: "MM-JL-009"
+        title: "Auction Total Value"
+        content: "Your bid + estimated action rate + user value = total value. Highest total value wins, not highest bid. Social proofing increases total value"
+        domain: bidding-strategy
+        source: SFAS
+      - id: "MM-JL-010"
+        title: "Pixel Seasoning Threshold"
+        content: "Meaningful pixel seasoning starts at $10K/month for 2+ months. More events = more data = faster learnings"
+        domain: pixel-optimization
+        source: SFAS
+      - id: "MM-JL-011"
+        title: "Three-Report Monitoring"
+        content: "Check three reports daily: Yesterday, Today, 30-Day. Each with same metrics: spend, results, reach, cost/result, ROAS, CPC, CTR"
+        domain: reporting
+        source: SFAS
+      - id: "MM-JL-012"
+        title: "Nesting Lookalikes Caveat"
+        content: "Excluding 1% from 2% (nesting) can hurt performance. Facebook is smart enough to know the difference with sufficient data"
+        domain: audience-optimization
+        source: SFAS
+
+  L3_HEURISTICS:
+    count: 29
+    items:
+      - id: "HEUR-JL-001"
+        title: "Lookalike Spend Threshold"
+        content: "1% lookalikes wear out after ~$2,500 spend"
+        threshold: "$2,500"
+        domain: audience-optimization
+        source: SFAS
+      - id: "HEUR-JL-002"
+        title: "Frequency-Decline Alert"
+        content: "Frequency above 3.0 + declining CTR/relevance over 48h = change creative AND/OR audience"
+        threshold: "frequency >= 3.0"
+        domain: creative-strategy
+        source: SFAS
+      - id: "HEUR-JL-003"
+        title: "CPM Range"
+        content: "CPM on FB & IG is between $8-25"
+        threshold: "$8-$25"
+        domain: facebook-ads
+        source: SFAS
+      - id: "HEUR-JL-004"
+        title: "Minimum Daily Impressions"
+        content: "Ad sets need at least 1,000 impressions per day to prove their worth"
+        threshold: "1,000/day"
+        domain: facebook-ads
+        source: SFAS
+      - id: "HEUR-JL-005"
+        title: "Learning Phase Exit"
+        content: "50 conversions per week per ad set to exit the learning phase"
+        threshold: "50/week"
+        domain: facebook-ads
+        source: SFAS
+      - id: "HEUR-JL-006"
+        title: "Minimum Monthly Spend"
+        content: "2 ad sets × ~$15/day = $900/month bare minimum for meaningful scaling"
+        threshold: "$900/month"
+        domain: budget-management
+        source: SFAS
+      - id: "HEUR-JL-007"
+        title: "AOV Budget Match"
+        content: "Match ad set daily budget to your AOV. $50 AOV = $50/day/ad set minimum"
+        threshold: "budget >= AOV"
+        domain: budget-management
+        source: SFAS
+      - id: "HEUR-JL-008"
+        title: "Vertical Scale Rate"
+        content: "Increase budgets 10-30% every 48-72 hours for vertical scaling"
+        threshold: "10-30% per 48-72h"
+        domain: scaling
+        source: SFAS
+      - id: "HEUR-JL-009"
+        title: "Conservative Scale Rate"
+        content: "For cautious scaling: increase 20% every 48 hours after 7-14 days of stable success"
+        threshold: "20% per 48h"
+        domain: scaling
+        source: SFAS
+      - id: "HEUR-JL-010"
+        title: "Audience Overlap Maximum"
+        content: "Avoid audience overlap above 30% between ad sets. Minimum 10K audience size for overlap data"
+        threshold: "<= 30%"
+        domain: audience-optimization
+        source: SFAS
+      - id: "HEUR-JL-011"
+        title: "Creative Refresh Cadence"
+        content: "Refresh ad creative at least once per week when scaling. Some change every 14 days for lower budgets"
+        threshold: "weekly"
+        domain: creative-strategy
+        source: SFAS
+      - id: "HEUR-JL-012"
+        title: "Ads Per Ad Set Maximum"
+        content: "Never more than 2 ads per ad set. Preferably 1 when scaling aggressively"
+        threshold: "max 2"
+        domain: account-structure
+        source: SFAS
+      - id: "HEUR-JL-013"
+        title: "TOFU Relevance Minimum"
+        content: "Aim for 6/10 relevance score minimum on TOFU ads to show decent quality"
+        threshold: ">= 6/10"
+        domain: creative-strategy
+        source: SFAS
+      - id: "HEUR-JL-014"
+        title: "Headline Length"
+        content: "Shorter headline copy always wins. No more than 15 words"
+        threshold: "<= 15 words"
+        domain: creative-strategy
+        source: SFAS
+      - id: "HEUR-JL-015"
+        title: "Punctuation Performance"
+        content: "Period at end of sentence beats exclamation/question marks 8 out of 10 times"
+        threshold: "80%"
+        domain: creative-strategy
+        source: SFAS
+      - id: "HEUR-JL-016"
+        title: "Bid Override Multiple"
+        content: "Manual bid override: 3-5X your CPA goal to force winning auctions"
+        threshold: "3-5X CPA"
+        domain: bidding-strategy
+        source: SFAS
+      - id: "HEUR-JL-017"
+        title: "Budget Cap Trigger"
+        content: "Account daily budget cap defaults around $750/day. Contact Facebook before scaling past this"
+        threshold: "$750/day"
+        domain: budget-management
+        source: SFAS
+      - id: "HEUR-JL-018"
+        title: "Pixel Seasoning Spend"
+        content: "Seasoned pixel starts at $10K/month minimum for at least 2 months"
+        threshold: "$10K/mo × 2mo"
+        domain: pixel-optimization
+        source: SFAS
+      - id: "HEUR-JL-019"
+        title: "Prospecting Break-Even Window"
+        content: "If you can break even on prospecting within 30 days, you're doing well"
+        threshold: "30 days"
+        domain: scaling
+        source: SFAS
+      - id: "HEUR-JL-020"
+        title: "Default Bid Strategy"
+        content: "Start with auto bidding, 7-day click / 1-day view attribution. Widest window = most scale"
+        threshold: "7d click / 1d view"
+        domain: bidding-strategy
+        source: SFAS
+      - id: "HEUR-JL-021"
+        title: "Ad Sets Per Campaign Max"
+        content: "Keep under 20 ad sets per campaign for manageability. Above that, very hard to manage"
+        threshold: "<= 20"
+        domain: account-structure
+        source: SFAS
+      - id: "HEUR-JL-022"
+        title: "Broadmatch DPA Window"
+        content: "Measure broadmatch DPA performance in 30-day window. Latency is big but worthwhile"
+        threshold: "30-day measurement"
+        domain: dynamic-product-ads
+        source: SFAS
+      - id: "HEUR-JL-023"
+        title: "Assumption Reset Cadence"
+        content: "Throw out all copy/creative assumptions and test brand new ideas every 6 months"
+        threshold: "every 6 months"
+        domain: creative-strategy
+        source: SFAS
+      - id: "HEUR-JL-024"
+        title: "Intraday Budget Threshold"
+        content: "Intraday budget shifting only works for massive accounts spending $25K+/day"
+        threshold: "$25K+/day"
+        domain: budget-management
+        source: SFAS
+      - id: "HEUR-JL-025"
+        title: "Conversion Rate Benchmarks"
+        content: "Lead gen: 10% conversion rate is crushing it. Ecom: 5-6% is great"
+        threshold: "10% lead / 5-6% ecom"
+        domain: scaling
+        source: SFAS
+      - id: "HEUR-JL-026"
+        title: "CPA Control Bid Method"
+        content: "To control CPA: set manual bid 10% above goal, decrease over 72h stabilization to match CPA"
+        threshold: "+10% → CPA over 72h"
+        domain: bidding-strategy
+        source: SFAS
+      - id: "HEUR-JL-027"
+        title: "Geoexpansion Opportunity"
+        content: "UK, Australia, Germany still have CPAs not seen in US for 3+ years. Major scale opportunity"
+        domain: geoexpansion
+        source: SFAS
+      - id: "HEUR-JL-028"
+        title: "Structure Turnover Cycle"
+        content: "Full campaign structure turns over approximately every 90 days. DPA is the exception"
+        threshold: "~90 days"
+        domain: account-structure
+        source: SFAS
+      - id: "HEUR-JL-029"
+        title: "Test Consolidation Rule"
+        content: "Better to consolidate into 14-day test with higher spend than spread over 45 days"
+        threshold: "14 > 45 days"
+        domain: scaling
+        source: SFAS
+
+  L4_FRAMEWORKS:
+    count: 15
+    items:
+      - id: "FW-JL-001"
+        title: "4-Phase Scaling Checklist"
+        content: "Phase 1: Foundation (remarketing + 1-2 prospecting). Phase 2: Expansion (PPE + video + consolidation). Phase 3: Advanced (2X purchasers, wide audiences, broadmatch DPA). Phase 4: Optimization (bid override, cross-sell, geoexpansion, automated rules)"
+        domain: scaling
+        source: SFAS
+      - id: "FW-JL-002"
+        title: "Horizontal Scaling Architecture"
+        content: "Simultaneously expand: audiences (lookalikes, interests, wide) + offers (different pitches per funnel stage) + objectives (conversions, PPE, video views, catalog sales) + creative (photo, video, carousel, link)"
+        domain: scaling
+        source: SFAS
+      - id: "FW-JL-003"
+        title: "Remarketing Rework System"
+        content: "Replace simple 30-day DPA + 30-day WCA with: DPA 7d + DPA 30d + WCA 7d + WCA 30d + Engagement 30d + Added to Cart 60d — each with unique copy/creative"
+        domain: remarketing
+        source: SFAS
+      - id: "FW-JL-004"
+        title: "Scalable Account Structure"
+        content: "Campaign: Conversions TOFU (lookalikes, interests, behaviorals) + Conversions BOFU (7/30/180 day visitors) + Catalog Sales DPA (7/30 day) + Conversions Previous Purchasers + PPE Fans"
+        domain: account-structure
+        source: SFAS
+      - id: "FW-JL-005"
+        title: "Super Lookalike Strategy"
+        content: "At low budget: group multiple lookalikes in one ad set. As you see success: separate them out. Always check overlap stays under 30%"
+        domain: audience-optimization
+        source: SFAS
+      - id: "FW-JL-006"
+        title: "Multiple Objectives Framework"
+        content: "Run simultaneously: Conversions TOFU + Video Views TOFU + Conversions BOFU + Catalog Sales TOFU + Catalog Sales BOFU + Conversions Previous Buyers + PPE Previous Buyers & Fans"
+        domain: scaling
+        source: SFAS
+      - id: "FW-JL-007"
+        title: "Naming Convention System"
+        content: "Campaign: Date_CampaignName_Objective. Ad Set: Date_Campaign_Audience_Placement_BidType. Ad: Date_Creative_# (best seller = #1). Always put date first"
+        domain: account-structure
+        source: SFAS
+      - id: "FW-JL-008"
+        title: "Social Proofing System"
+        content: "Step 1: Create photo post. Step 2: Launch PPE to fans/customers. Step 3: Collect social proof comments. Step 4: Copy Post ID. Step 5: Paste into conversion campaigns"
+        domain: creative-strategy
+        source: SFAS
+      - id: "FW-JL-009"
+        title: "DPA Complexity Progression"
+        content: "Level 1: Simple 30-day viewed/added to cart. Level 2: Segmented 7/14/30 day windows. Level 3: Upsell + cross-sell product sets. Level 4: Broadmatch DPA for prospecting"
+        domain: dynamic-product-ads
+        source: SFAS
+      - id: "FW-JL-010"
+        title: "Bid Strategy Decision Tree"
+        content: "Goal: Growth → cost-controlled (target cost/manual within CPA range) OR cost-forward (manual 3-5X CPA bully method) OR automatic. Goal: Stability → target cost or auto"
+        domain: bidding-strategy
+        source: SFAS
+      - id: "FW-JL-011"
+        title: "Landing Page Mapping"
+        content: "TOFU: bestsellers page / product page / collection page. BOFU: product page via DPA + photo/link post for remarketing. Loyalty: separate page for previous customers. Branding: home page"
+        domain: scaling
+        source: SFAS
+      - id: "FW-JL-012"
+        title: "Daily Reporting Framework"
+        content: "3 reports daily (Yesterday, Today, 30-Day). Each contains: ad set name, spend, results, reach, cost/result, budget, purchases, purchase value, ROAS, link clicks, CPC, CTR(link)"
+        domain: reporting
+        source: SFAS
+      - id: "FW-JL-013"
+        title: "Automated Rules System"
+        content: "Auto-adjust: budget by CPA thresholds. Auto-pause: by frequency/spend limits. Auto-notify: performance changes. Rules on: cost/result, CPC, CPA, CPM, frequency, impressions, reach"
+        domain: scaling
+        source: SFAS
+      - id: "FW-JL-014"
+        title: "Prospecting Audience Stack"
+        content: "Core: 1% purchasers, 1% VIP 2yr, 1% add-to-carts, 1% 2X page view. Advanced: 1% 2X purchasers, 2%+ purchasers, 10% VIP + interest, categorical WCA lookalikes, wide/no targeting"
+        domain: audience-optimization
+        source: SFAS
+      - id: "FW-JL-015"
+        title: "Stop-Restart Refresh"
+        content: "When ad set performance declines: pause it, duplicate it, start again at lower budget. Re-enters auction fresh. Can run concurrently with existing"
+        domain: scaling
+        source: SFAS
+
+  L5_METHODOLOGIES:
+    count: 9
+    items:
+      - id: "MET-JL-001"
+        title: "Scaling Phase 1 Setup"
+        content: "1. Decide funnel position (TOFU/MOFU/BOFU). 2. Plan horizontal scaling with differentiated value props. 3. Do financial calculations (AOV, LTV, margin). 4. Launch DPA or WCA remarketing. 5. Introduce 1-2 new prospecting audiences. 6. Create 3/7/30 day remarketing windows. 7. Check budget cap. 8. Rename with naming conventions"
+        domain: scaling
+        source: SFAS
+      - id: "MET-JL-002"
+        title: "Scaling Phase 2 Expansion"
+        content: "1. Introduce PPE objective in BOFU. 2. Launch social proofing via PPE in TOFU, transfer to conversion after 72h. 3. Consolidate prospecting to get closer to 50/week learning phase. 4. Introduce video views in TOFU with :30 video. 5. Create 25% video viewer audience for remarketing. 6. Experiment with higher pixel event optimization"
+        domain: scaling
+        source: SFAS
+      - id: "MET-JL-003"
+        title: "Scaling Phase 3 Advanced Audiences"
+        content: "1. Launch 1% lookalike of 2X purchasers. 2. Launch 2%+ lookalike of purchasers. 3. Launch specific interests by ad set. 4. Launch wide, no-targeting audience with value optimization. 5. Launch broadmatch DPA. 6. Create 7/14/30/90 day DPA windows with different copy. 7. Test landing pages. 8. Split test placements (especially Instagram)"
+        domain: scaling
+        source: SFAS
+      - id: "MET-JL-004"
+        title: "Scaling Phase 4 Optimization"
+        content: "1. Manual bid override 3-5X CPA. 2. Launch DPA cross-sells and upsells by product category. 3. Build automated rules framework. 4. Expand into new geographies (UK, DE, AU). 5. Split iOS/Android. 6. When declining: pause, duplicate, restart"
+        domain: scaling
+        source: SFAS
+      - id: "MET-JL-005"
+        title: "Broadmatch DPA Setup Protocol"
+        content: "1. Select Catalog Sales objective. 2. Choose 'define broad audience' radio button. 3. Set widest targeting (18-65, full country). 4. Exclude 180-day visitors and fans. 5. Create custom exclusion for recent purchasers. 6. Bid 7-day click/1-day view. 7. Ensure irresistible offer. 8. Measure in 30-day window"
+        domain: dynamic-product-ads
+        source: SFAS
+      - id: "MET-JL-006"
+        title: "DPA Cross-Sell/Upsell Setup"
+        content: "1. Go to catalog > product sets. 2. Create product set filtering by brand/category. 3. In campaign creation, select upsell or cross-sell. 4. Choose product set. 5. Target based on purchase/view history of specific collections. 6. Add WCA pools via advanced options. 7. Exclude fans"
+        domain: dynamic-product-ads
+        source: SFAS
+      - id: "MET-JL-007"
+        title: "Social Proof Activation"
+        content: "1. Create compelling photo post ad with product. 2. Launch as PPE to fans and previous customers. 3. Collect comments/social proof (48-72h). 4. Copy the Post ID from the ad. 5. Paste Post ID into new conversion campaign. 6. Social proof carries over, boosting total auction value"
+        domain: creative-strategy
+        source: SFAS
+      - id: "MET-JL-008"
+        title: "Vertical Scaling Protocol"
+        content: "1. Confirm 7-14 days of stable performance. 2. Increase budget 10-20% per 48-72 hours. 3. Monitor daily: CTR, CPA, ROAS. 4. If CPA rises >20%, pause the increase. 5. If performance degrades: duplicate ad set, restart at lower budget. 6. Simultaneously build horizontal scaling alongside"
+        domain: scaling
+        source: SFAS
+      - id: "MET-JL-009"
+        title: "Learning Phase Management"
+        content: "1. Consolidate audiences into fewer ad sets to approach 50/week. 2. Consider moving pixel event up (purchase → add to cart → initiate checkout). 3. Never change targeting/creative/optimization during learning. 4. Budget and bid changes do NOT reset learning. 5. Automated rule budget changes don't reset either"
+        domain: facebook-ads
+        source: SFAS

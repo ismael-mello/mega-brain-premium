@@ -1,0 +1,51 @@
+# DNA-CONFIG: Jon Loomer
+# Tipo: SOLO (pessoa)
+# Versao: 1.0.0
+# Ultima atualizacao: 2026-03-27
+
+agent_type: SOLO
+person: jon-loomer
+display_name: "Jon Loomer"
+
+dna_sources:
+  - person: jon-loomer
+    weight: 1.0
+    path: "knowledge/external/dna/persons/jon-loomer/DNA.yaml"
+    raiz: "knowledge/external/sources/jon-loomer/raw/"
+    elements: 79
+    version: "1.0.0"
+    sources_count: 1
+
+  - person: andrew-foxwell
+    weight: 0.40
+    role: "co-presenter"
+    note: "Co-presented Scaling FB Ads for Success. CEO Foxwell Digital. Managed $10M+ in FB/IG."
+
+domains:
+  primary:
+    - facebook-ads
+    - scaling
+    - audience-optimization
+  secondary:
+    - budget-management
+    - creative-strategy
+    - remarketing
+    - dynamic-product-ads
+    - bidding-strategy
+  tertiary:
+    - learning-phase
+    - pixel-optimization
+    - geoexpansion
+    - account-structure
+    - reporting
+    - naming-conventions
+
+materiais_fonte:
+  - id: SFAS
+    nome: "Scaling FB Ads for Success"
+    tipo: MASTERCLASS
+    ano: 2018
+    arquivos: 7
+    path_raw: "knowledge/external/sources/jon-loomer/raw/scaling-fb-ads-for-success/"
+    co_presenter: "Andrew Foxwell (Foxwell Digital)"
+    conteudo: "2 sessions (Fundamentals + Advanced) + 3 PDFs (Checklist + Slides S1 + Slides S2)"
