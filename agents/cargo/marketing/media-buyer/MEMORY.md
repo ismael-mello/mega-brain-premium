@@ -44,3 +44,11 @@
 |----|-----------|---------|-------|------------|
 
 *Pendente — será populado pelo skill_distribution.py.*
+
+---
+
+### 2026-03-28 — Meta Ads API v25.0 Integration
+**Fonte:** Meta Marketing API Documentation (29 files, 212KB)
+**Insight:** Official API documentation provides 84 DNA elements covering campaign hierarchy, CAPI implementation, audience management, rate limiting, and insights reporting. Critical operational thresholds: $0.50 min daily budget (impressions), max 200 ad sets per CBO campaign, max 50 ads per ad set, CAPI batch max 1,000 events, 48h deduplication window.
+**Contexto de uso:** Reference for all API-level campaign operations, troubleshooting rate limits, implementing CAPI, audience creation limits.
+**Confiança:** ALTA — official Meta documentation

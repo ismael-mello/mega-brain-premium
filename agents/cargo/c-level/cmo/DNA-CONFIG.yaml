@@ -24,7 +24,8 @@
 # ═══════════════════════════════════════════════════════════════════════════════
 
 cargo: "CMO"
-versao: "42.0.0"  # Dan Koe added (peso 0.80, 210 elements) — 3-Point Content Ecosystem (newsletter→threads→tweets), Twitter as foundation, organic content marketing, Non-Needy Networking, APAG framework, PPP framework, newsletter-first strategy, content repurposing, audience-first monetization.
+versao: "43.0.0"  # Meta Ads API v25.0 added (peso 0.80, 84 elements) — Official Meta Marketing API documentation. Campaign Budget Optimization limits (200 ad sets max), audience building framework (Custom→Lookalike→Dynamic→Broad), attribution windows (1d/7d/28d), CAPI server-side tracking, compliance framework (special ad categories, DSA, CCPA/LGPD).
+# v42.0.0 (prev): Dan Koe added (peso 0.80, 210 elements) — 3-Point Content Ecosystem (newsletter→threads→tweets), Twitter as foundation, organic content marketing, Non-Needy Networking, APAG framework, PPP framework, newsletter-first strategy, content repurposing, audience-first monetization.
 # v41.0.0 (prev): Grant Cardone added (peso 0.80, 778 elements) — 10x Marketing, omnipresence strategy, email marketing, sales funnels, social media marketing, YouTube strategy, brand building through volume. Volume-first marketing philosophy.
 # v40.0.0 (prev): Nicholas Kusmich added (peso 0.80, 200 elements) — Non-Ad Ad philosophy, 10-Element Perfect Ad Formula, Campaign Launch Formula.
 # v37.0.0 (prev): Cole Gordon CIL enrichment (323 elements, peso 0.80) — Pitch Codex, APS, Content Marketing, 15 Content Angles, organic marketing strategy, messenger sales.
@@ -1507,6 +1508,24 @@ dna_sources:
       added: "2026-03-27"
       fontes_incluidas:
         - "Grant Cardone Marketing Training (778 elements — 10x Marketing, omnipresence, email marketing, sales funnels, social media, YouTube strategy, brand building)"
+
+    - pessoa: "meta-ads"
+      path: "knowledge/external/dna/persons/meta-ads/DNA.yaml"
+      raiz: "knowledge/external/sources/meta-ads/raw/"
+      total_elementos: 84
+      dominios_usados:
+        - "meta-ads-api"
+        - "conversions-api"
+        - "audience-targeting"
+        - "rate-limiting"
+        - "campaign-management"
+        - "insights-reporting"
+      peso: 0.80
+      quando_usar: "Campaign Budget Optimization limits (200 ad sets max), audience building framework (Custom→Lookalike→Dynamic→Broad), attribution windows (1d/7d/28d), CAPI for server-side tracking, compliance framework (special ad categories, DSA, youth targeting, CCPA/LGPD), rate limiting and API architecture decisions"
+      justificativa: "Official Meta Marketing API v25.0 documentation — technical reference for platform capabilities, limits, and compliance. 84 elements across 29 files. Essential for CMO strategic decisions on campaign architecture, attribution modeling, and compliance requirements."
+      added: "2026-03-28"
+      fontes_incluidas:
+        - "Meta Marketing API Documentation (84 elements — API reference, CBO limits, audience framework, attribution, CAPI, compliance)"
 
 # ═══════════════════════════════════════════════════════════════════════════════
 # MAPA DE CONFLITOS

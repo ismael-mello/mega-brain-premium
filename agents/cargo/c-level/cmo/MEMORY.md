@@ -1270,3 +1270,11 @@ no nível errado (tratando um prospect Problem Aware como se fosse Most Aware).
 
 *Atualização: 2026-03-26 — Molly Pittman Traffic Training Enrichment*
 *MEMORY.md v2.8.0*
+
+---
+
+### 2026-03-28 — Meta Ads API v25.0 Integration
+**Fonte:** Meta Marketing API Documentation (29 files, 212KB)
+**Insight:** Official API reference with 84 elements. Key for CMO: Campaign Budget Optimization limits (200 ad sets max), audience building framework (Custom→Lookalike→Dynamic→Broad), attribution windows (1d/7d/28d), CAPI for server-side tracking, compliance framework (special ad categories, DSA, youth targeting, CCPA/LGPD).
+**Contexto de uso:** Strategic decisions on campaign architecture, attribution modeling, compliance requirements.
+**Confiança:** ALTA — official Meta documentation

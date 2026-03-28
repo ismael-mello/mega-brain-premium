@@ -3,12 +3,12 @@
 # Status: SCAFFOLD — needs enrichment
 
 cargo: "Media Buyer"
-versao: "6.0.0"  # Grant Cardone added (peso 0.70, 778 elements). 10x Marketing, omnipresence strategy, Google Ads fundamentals, funnel optimization, split testing, social media marketing, YouTube strategy. Complements paid media experts with GC's omnipresence philosophy.
+versao: "7.0.0"  # Meta Ads API docs added (peso 0.95, 84 elements). Official API v25.0 documentation — campaign hierarchy, CAPI, audience management, rate limiting, insights reporting.
 # v5.0.0 (prev): Nicholas Kusmich added (peso 0.80, 200 elements). Non-Ad Ad philosophy, 10-Element Perfect Ad Formula.
 nivel: "MARKETING"
 natureza: "HIBRIDO"
 data_criacao: "2026-03-22"
-ultima_atualizacao: "2026-03-27"
+ultima_atualizacao: "2026-03-28"
 status: "ENRICHED"
 
 dominio_primario: "traffic"
@@ -140,4 +140,22 @@ fontes:
     added: "2026-03-27"
     fontes_incluidas:
       - "Scaling FB Ads for Success (7 files, 79 elements — 2 sessions Fundamentals + Advanced with Andrew Foxwell, 2018)"
+
+  - fonte: "meta-ads"
+    path: "knowledge/external/dna/persons/meta-ads/DNA.yaml"
+    raiz: "knowledge/external/sources/meta-ads/raw/"
+    peso: 0.95
+    total_elementos: 84
+    dominios_usados:
+      - "meta-ads-api"
+      - "conversions-api"
+      - "audience-targeting"
+      - "rate-limiting"
+      - "campaign-management"
+    quando_usar: "Official Meta Marketing API v25.0 documentation for campaign hierarchy (Campaign→AdSet→Ad), CAPI implementation (batch max 1,000 events, 48h dedup window), audience management (max 200 ad sets per CBO, max 50 ads per ad set), rate limiting thresholds, insights reporting, $0.50 min daily budget (impressions)"
+    justificativa: "Official Meta Ads API documentation — the authoritative source for all API-level operations. 84 elements covering campaign structure, CAPI, audiences, rate limits, and reporting. Complements practitioner sources (Molly Pittman, Jon Loomer, Rafael Marks) with the technical API foundation every media buyer needs."
+    status: "enriched"
+    added: "2026-03-28"
+    fontes_incluidas:
+      - "Meta Marketing API Documentation v25.0 (29 files, 212KB — campaign hierarchy, CAPI, audience management, rate limiting, insights reporting)"
 

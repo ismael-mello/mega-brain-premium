@@ -1,0 +1,44 @@
+# DNA-CONFIG: Meta Ads API
+# Tipo: SOLO (technical source)
+# Versao: 1.0.0
+# Ultima atualizacao: 2026-03-28
+
+agent_type: SOLO
+person: meta-ads
+display_name: "Meta Ads API"
+
+dna_sources:
+  - person: meta-ads
+    weight: 1.0
+    path: "knowledge/external/dna/persons/meta-ads/DNA.yaml"
+    raiz: "inbox/meta-ads-docs-28-03-2026/"
+    elements: 84
+    version: "1.0.0"
+    sources_count: 1
+
+domains:
+  primary:
+    - meta-ads-api
+    - campaign-management
+    - conversions-api
+  secondary:
+    - audience-targeting
+    - insights-reporting
+    - rate-limiting
+    - lead-generation
+  tertiary:
+    - dynamic-product-ads
+    - catalog-management
+    - business-asset-management
+    - authorization
+    - versioning
+    - error-handling
+
+materiais_fonte:
+  - id: META-API-v25
+    nome: "Meta Marketing API Documentation v25.0"
+    tipo: API_DOCUMENTATION
+    ano: 2026
+    arquivos: 29
+    path_raw: "inbox/meta-ads-docs-28-03-2026/"
+    conteudo: "Official Meta Marketing API docs: campaign management, audiences, CAPI, insights, rate limiting, lead ads, DPA, catalogs, business assets, authorization, versioning, error reference"

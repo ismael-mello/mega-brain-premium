@@ -1,0 +1,481 @@
+# DNA Cognitivo: Meta Ads API
+# Versao: 1.0.0
+# Fonte: Meta Marketing API Documentation v25.0 (29 files, 212KB)
+# Elementos: 84
+# Ultima atualizacao: 2026-03-28
+
+person: meta-ads
+version: "1.0.0"
+total_elements: 84
+sources:
+  - id: META-API
+    name: "Meta Marketing API Documentation v25.0"
+    files: 29
+    year: 2026
+    type: technical-documentation
+
+layers:
+  L1_PHILOSOPHIES:
+    count: 15
+    items:
+      - id: "FIL-META-001"
+        title: "Redundant Tracking Supremacy"
+        content: "Redundant tracking (Pixel + CAPI) is superior to single-source tracking. Browser-side and server-side signals together provide the most complete picture of user behavior"
+        domain: tracking
+        source: META-API
+      - id: "FIL-META-002"
+        title: "Data Quality Over Quantity"
+        content: "Data quality outweighs data quantity. Event Match Quality (EMQ) scoring proves that well-hashed, complete user parameters produce better attribution than high-volume partial data"
+        domain: data-quality
+        source: META-API
+      - id: "FIL-META-003"
+        title: "Server-Side Future"
+        content: "Server-side tracking (CAPI) is the future of attribution, complementing browser-based Pixel. Cookie deprecation and privacy regulations make server events essential, not optional"
+        domain: tracking
+        source: META-API
+      - id: "FIL-META-004"
+        title: "Rigid Campaign Hierarchy"
+        content: "Campaign hierarchy (Account > Campaign > Ad Set > Ad > Creative) is a rigid, non-negotiable structure. Every object lives at exactly one level with specific responsibilities"
+        domain: campaign-architecture
+        source: META-API
+      - id: "FIL-META-005"
+        title: "Special Ad Categories Are Non-Negotiable"
+        content: "Special Ad Categories exist for legal/ethical compliance and are never optional. Housing, credit, employment, social issues, elections, and politics require explicit declaration"
+        domain: compliance
+        source: META-API
+      - id: "FIL-META-006"
+        title: "Predictable Rate Limiting"
+        content: "Rate limiting is resource-based and predictable via BUC scoring, not arbitrary. Understanding the points system (GET=1, POST=3) allows deterministic capacity planning"
+        domain: api-architecture
+        source: META-API
+      - id: "FIL-META-007"
+        title: "Deduplication Is Sacred"
+        content: "Deduplication is critical for accurate attribution. Without it, double-counting between Pixel and CAPI corrupts all downstream data, metrics, and optimization signals"
+        domain: tracking
+        source: META-API
+      - id: "FIL-META-008"
+        title: "Seed Quality Determines Lookalike Quality"
+        content: "Audience seed quality directly determines lookalike audience quality. Garbage in, garbage out. A 1% lookalike from a weak seed underperforms a 5% lookalike from a strong seed"
+        domain: audience-building
+        source: META-API
+      - id: "FIL-META-009"
+        title: "Version Pinning Discipline"
+        content: "API versioning discipline prevents breaking changes. Always pin versions explicitly. Never rely on default/latest version in production code"
+        domain: api-architecture
+        source: META-API
+      - id: "FIL-META-010"
+        title: "Attribution Windows Define Truth"
+        content: "Attribution windows define truth. The same conversion data looks fundamentally different through 1-day click vs 7-day click vs 28-day click lenses. Window choice is a business decision, not a technical one"
+        domain: attribution
+        source: META-API
+      - id: "FIL-META-011"
+        title: "Privacy-First Architecture"
+        content: "All PII must be SHA-256 hashed before transmission. Privacy is not a feature but a foundational architectural constraint that shapes every API interaction"
+        domain: privacy
+        source: META-API
+      - id: "FIL-META-012"
+        title: "Batch Over Individual"
+        content: "Batch operations are always more efficient than individual calls. Consolidating requests reduces overhead, improves throughput, and conserves rate limit points"
+        domain: api-architecture
+        source: META-API
+      - id: "FIL-META-013"
+        title: "Async for Heavy Workloads"
+        content: "Async processing is preferred for heavy workloads like insights and reports. Synchronous calls for large datasets timeout and waste resources"
+        domain: api-architecture
+        source: META-API
+      - id: "FIL-META-014"
+        title: "Sandbox Before Production"
+        content: "Testing in sandbox before production prevents costly mistakes. Test events, development tier access, and test_event_code exist specifically for safe validation"
+        domain: testing
+        source: META-API
+      - id: "FIL-META-015"
+        title: "Creative Immutability"
+        content: "Creative immutability after approval ensures audit trail integrity. Approved ads cannot be modified, only duplicated and resubmitted, preserving the review chain"
+        domain: creative-management
+        source: META-API
+
+  L2_MENTAL_MODELS:
+    count: 12
+    items:
+      - id: "MM-META-001"
+        title: "Campaign Hierarchy Model"
+        content: "Account > Campaign (objective) > Ad Set (budget/targeting/schedule) > Ad (creative+placement) > Creative (visual/copy). Each level has distinct responsibilities and constraints"
+        domain: campaign-architecture
+        source: META-API
+      - id: "MM-META-002"
+        title: "BUC Rate Limiting Model"
+        content: "Points-based scoring system: GET=1 point, POST/DELETE=3 points. Tier-based caps (Dev=60, Standard=9000) with 300-second decay windows. Predictable and monitorable via X-Ad-Account-Usage header"
+        domain: api-architecture
+        source: META-API
+      - id: "MM-META-003"
+        title: "EMQ Quality Ladder"
+        content: "Event Match Quality scoring: IP+UA+fbp alone scores ~4/10. Adding email pushes to ~6/10. Adding phone+name reaches ~8/10. Complete parameter set approaches 10/10. Each additional parameter has diminishing but real returns"
+        domain: data-quality
+        source: META-API
+      - id: "MM-META-004"
+        title: "Attribution Window Model"
+        content: "1d_click (conservative) > 7d_click (default, recommended) > 28d_click (generous). View-through variants (1d_view) add impression credit. Window choice fundamentally changes reported ROAS"
+        domain: attribution
+        source: META-API
+      - id: "MM-META-005"
+        title: "Audience Lifecycle Model"
+        content: "Creation > Active > Inactive (90 days unused, error code 450) > Expiring (2-year limit, warning code 100) > Deleted (90 days post-expiry). Each state has distinct API behaviors"
+        domain: audience-building
+        source: META-API
+      - id: "MM-META-006"
+        title: "Two-Tier Access Model"
+        content: "Development tier (60 points, testing only) vs Standard tier (9000 points, production). Standard requires business verification. Advanced Access adds multi-account capabilities with maintenance requirements"
+        domain: api-architecture
+        source: META-API
+      - id: "MM-META-007"
+        title: "Deduplication Decision Tree"
+        content: "Preferred: Event ID + Event Name matching (same event_id sent from both Pixel and CAPI). Fallback: FBP/External ID matching. Window: 48 hours. Without deduplication, every event is counted twice"
+        domain: tracking
+        source: META-API
+      - id: "MM-META-008"
+        title: "Targeting Precision Ladder"
+        content: "Broad (geo+demo) > Interest-based > Behavioral > Detailed targeting > Custom Audience (your data) > Lookalike (algorithmic expansion). Higher precision = smaller reach but better conversion rates"
+        domain: targeting
+        source: META-API
+      - id: "MM-META-009"
+        title: "Error Taxonomy Model"
+        content: "Structured error hierarchy: Code (category) > Subcode (specific cause) > blame_field_specs (exact field path causing error) > error_data (recovery context). Enables programmatic error handling"
+        domain: api-architecture
+        source: META-API
+      - id: "MM-META-010"
+        title: "Data Freshness Model"
+        content: "Insights data refreshes every 15 minutes for recent events. Data becomes stable and reliable after 28 days post-event. Reports generated from post-stability data are authoritative"
+        domain: insights
+        source: META-API
+      - id: "MM-META-011"
+        title: "Budget Optimization Model"
+        content: "Campaign-level CBO (max 200 ad sets) distributes budget dynamically across ad sets vs Ad Set-level individual budgets for manual control. CBO locks bid strategy at 70+ ad sets"
+        domain: budget-management
+        source: META-API
+      - id: "MM-META-012"
+        title: "Versioning Lifecycle Model"
+        content: "Current (active) > Deprecated (90-day overlap, still functional) > Auto-upgrade (unaffected endpoints migrate silently) > Removed (calls fail). Always migrate proactively during overlap"
+        domain: api-architecture
+        source: META-API
+
+  L3_HEURISTICS:
+    count: 40
+    items:
+      - id: "HEUR-META-001"
+        title: "Min Daily Budget — Impressions"
+        content: "Minimum daily budget for impressions objective: $0.50 USD (no bid cap). Applies globally as the absolute floor"
+        domain: budget-management
+        source: META-API
+      - id: "HEUR-META-002"
+        title: "Min Daily Budget — Clicks/Actions"
+        content: "Minimum daily budget for clicks/actions: $2.50 USD (no bid cap), or 5x bid_amount (with bid cap). Whichever is higher"
+        domain: budget-management
+        source: META-API
+      - id: "HEUR-META-003"
+        title: "Premium Country 2x Multiplier"
+        content: "Budget 2x multiplier applies to 23 premium countries including US, UK, AU, CA, JP, DE, FR, IT, ES, NL, SE, NO, DK, FI, CH, AT, BE, IE, NZ, SG, HK, KR, IL"
+        domain: budget-management
+        source: META-API
+      - id: "HEUR-META-004"
+        title: "Low-Frequency Event Budget Floor"
+        content: "Low-frequency optimization event minimum budget: $40/day globally. Required when optimizing for events with fewer than 50 conversions per week"
+        domain: budget-management
+        source: META-API
+      - id: "HEUR-META-005"
+        title: "CBO Ad Set Limit"
+        content: "Maximum 200 ad sets per CBO campaign. Exceeding this hard limit returns an API error"
+        domain: campaign-architecture
+        source: META-API
+      - id: "HEUR-META-006"
+        title: "CBO Lock at 70+ Ad Sets"
+        content: "At 70 or more ad sets with CBO enabled: cannot modify bid strategy or disable CBO. Must reduce ad set count below 70 first"
+        domain: campaign-architecture
+        source: META-API
+      - id: "HEUR-META-007"
+        title: "Ads Per Ad Set Limit"
+        content: "Maximum 50 non-deleted ads per ad set. Exceeding requires archiving or deleting existing ads"
+        domain: campaign-architecture
+        source: META-API
+      - id: "HEUR-META-008"
+        title: "Account-Level Ad Limits"
+        content: "Maximum 5,000 non-deleted ads per regular account. Bulk accounts get 50,000. Check via /act_{id}/delivery_estimate for remaining capacity"
+        domain: campaign-architecture
+        source: META-API
+      - id: "HEUR-META-009"
+        title: "Archived Ads Cap"
+        content: "Maximum 100,000 archived ads per account. Beyond this, oldest archived ads are permanently deleted"
+        domain: campaign-architecture
+        source: META-API
+      - id: "HEUR-META-010"
+        title: "Lookalike Seed Minimum"
+        content: "Lookalike seed minimum: 100 members (hard floor). 200+ members recommended for quality. Larger seeds generally produce better lookalikes up to diminishing returns"
+        domain: audience-building
+        source: META-API
+      - id: "HEUR-META-011"
+        title: "Lookalike Population Time"
+        content: "Lookalike audience population time: 1-6 hours after creation. Ads can begin delivery immediately but performance improves after full population"
+        domain: audience-building
+        source: META-API
+      - id: "HEUR-META-012"
+        title: "Lookalike Ratio Range"
+        content: "Lookalike ratio range: 0.01-0.20 (1%-20% of target country population). Lower ratios = higher similarity but smaller reach"
+        domain: audience-building
+        source: META-API
+      - id: "HEUR-META-013"
+        title: "Lookalike Inactivity Code"
+        content: "Lookalike audiences become inactive after 90 days of non-use (API error code 450). Must recreate if needed after inactivity"
+        domain: audience-building
+        source: META-API
+      - id: "HEUR-META-014"
+        title: "Rate Limit Point Values"
+        content: "Rate limit point costs: GET=1 point, POST=3 points, DELETE=3 points. Read operations are 3x cheaper than write operations"
+        domain: api-architecture
+        source: META-API
+      - id: "HEUR-META-015"
+        title: "Development Tier Limits"
+        content: "Development tier: 60 points maximum, 300-second decay window, 300-second lockout on throttle. Sufficient for testing, insufficient for production"
+        domain: api-architecture
+        source: META-API
+      - id: "HEUR-META-016"
+        title: "Standard Tier Limits"
+        content: "Standard tier: 9,000 points maximum, 300-second decay window, 60-second lockout on throttle. 150x the capacity of development tier"
+        domain: api-architecture
+        source: META-API
+      - id: "HEUR-META-017"
+        title: "QPS Mutation Limit"
+        content: "QPS mutation limit: 100 requests per second per app-account combination. Applies to POST/DELETE operations that modify campaign objects"
+        domain: api-architecture
+        source: META-API
+      - id: "HEUR-META-018"
+        title: "Spending Cap Changes"
+        content: "Maximum 10 spending cap changes per day per account. Includes both setting and removing caps"
+        domain: budget-management
+        source: META-API
+      - id: "HEUR-META-019"
+        title: "Budget Modification Frequency"
+        content: "Maximum 4 budget modifications per hour per ad set. Rapid budget changes disrupt learning phase optimization"
+        domain: budget-management
+        source: META-API
+      - id: "HEUR-META-020"
+        title: "CAPI Batch Maximum"
+        content: "CAPI batch maximum: 1,000 events per single API request. Optimal batch size balances throughput with error isolation"
+        domain: tracking
+        source: META-API
+      - id: "HEUR-META-021"
+        title: "CAPI Batch Rejection Rule"
+        content: "One invalid event in a CAPI batch causes entire batch rejection. Validate all events before batching to prevent data loss"
+        domain: tracking
+        source: META-API
+      - id: "HEUR-META-022"
+        title: "Event Backdating Windows"
+        content: "Event backdating: 7 days standard for online events, 62 days for physical store events. Events older than these windows are silently dropped"
+        domain: tracking
+        source: META-API
+      - id: "HEUR-META-023"
+        title: "Deduplication Window"
+        content: "Deduplication window: 48 hours. Pixel and CAPI events with matching event_id + event_name within 48 hours are merged into one event"
+        domain: tracking
+        source: META-API
+      - id: "HEUR-META-024"
+        title: "CAPI Event Visibility Delay"
+        content: "CAPI events become visible in Events Manager approximately 20 minutes after receipt. Do not interpret absence as failure before this window"
+        domain: tracking
+        source: META-API
+      - id: "HEUR-META-025"
+        title: "Insights Refresh Cycle"
+        content: "Insights data refreshes every 15 minutes for recent events. Polling more frequently than this wastes rate limit points"
+        domain: insights
+        source: META-API
+      - id: "HEUR-META-026"
+        title: "Insights Stability Threshold"
+        content: "Insights data reaches stability 28 days after the event date. Numbers may shift until this point due to attribution adjustments"
+        domain: insights
+        source: META-API
+      - id: "HEUR-META-027"
+        title: "Async Report Expiry"
+        content: "Async insight reports expire after 30 days. Must download results before expiry or re-run the report"
+        domain: insights
+        source: META-API
+      - id: "HEUR-META-028"
+        title: "Advanced Access Maintenance — Volume"
+        content: "Advanced Access maintenance: minimum 1,500 successful API calls per 15-day rolling window. Falling below triggers demotion review"
+        domain: api-architecture
+        source: META-API
+      - id: "HEUR-META-029"
+        title: "Advanced Access Maintenance — Error Rate"
+        content: "Advanced Access maximum error rate: 15% over 15-day rolling window. Exceeding this threshold triggers demotion review"
+        domain: api-architecture
+        source: META-API
+      - id: "HEUR-META-030"
+        title: "Custom Audience Type Limits"
+        content: "Custom audience limits per account: 500 file-based, 10,000 website, 200 mobile app, 500 lookalike. Different source types have different caps"
+        domain: audience-building
+        source: META-API
+      - id: "HEUR-META-031"
+        title: "Audience Auto-Deletion"
+        content: "Custom audiences are automatically deleted after 2+ years of non-use. No recovery possible after deletion"
+        domain: audience-building
+        source: META-API
+      - id: "HEUR-META-032"
+        title: "Custom Audience Upload Batch"
+        content: "Custom audience upload: maximum 10,000 users per API request. Use session_id and batch_seq for multi-batch uploads"
+        domain: audience-building
+        source: META-API
+      - id: "HEUR-META-033"
+        title: "User Replacement API Limits"
+        content: "User replacement API: maximum 100 million users, 90-minute processing window. For full audience refresh operations"
+        domain: audience-building
+        source: META-API
+      - id: "HEUR-META-034"
+        title: "Archive Object Limit"
+        content: "Maximum 5,000 objects can be archived simultaneously in a single API call. Larger operations must be batched"
+        domain: campaign-architecture
+        source: META-API
+      - id: "HEUR-META-035"
+        title: "Targeting Limits"
+        content: "Targeting limits per ad set: 200 regions, 50,000 postal codes, 200 places, 2,500 geo-markets. Exceeding returns validation error"
+        domain: targeting
+        source: META-API
+      - id: "HEUR-META-036"
+        title: "Custom Location Radius"
+        content: "Custom location radius range: 0.63-50 miles or 1-80 km. Below minimum or above maximum returns validation error"
+        domain: targeting
+        source: META-API
+      - id: "HEUR-META-037"
+        title: "API Version Deprecation Overlap"
+        content: "API version deprecation provides minimum 90-day overlap period. Both old and new versions function simultaneously during overlap"
+        domain: api-architecture
+        source: META-API
+      - id: "HEUR-META-038"
+        title: "Age Targeting Range"
+        content: "Age targeting range: 13-65 (default minimum is 18). Targeting users under 18 has additional restrictions and limited targeting options"
+        domain: targeting
+        source: META-API
+      - id: "HEUR-META-039"
+        title: "Maximum Date Preset"
+        content: "Date preset 'maximum' retrieves up to 37 months of historical data. Longest available lookback window for insights queries"
+        domain: insights
+        source: META-API
+      - id: "HEUR-META-040"
+        title: "Targeting Search Results"
+        content: "Targeting search default: 30 results per query, maximum 45 via suggestions endpoint. Use type-specific endpoints for more granular results"
+        domain: targeting
+        source: META-API
+
+  L4_FRAMEWORKS:
+    count: 12
+    items:
+      - id: "FW-META-001"
+        title: "CAPI Implementation Framework"
+        content: "Setup pixel > Configure server endpoint > Implement SHA-256 hashing for all PII fields > Send test events with test_event_code > Verify EMQ score in Events Manager > Enable deduplication via event_id > Remove test code > Monitor EMQ continuously"
+        domain: tracking
+        source: META-API
+      - id: "FW-META-002"
+        title: "Audience Building Framework"
+        content: "Define seed source (Custom Audience from CRM/website/app) > Create Lookalike (1-20% ratio) > Layer Dynamic retargeting for warm audiences > Expand with Broad targeting for discovery > Monitor audience health (inactivity codes)"
+        domain: audience-building
+        source: META-API
+      - id: "FW-META-003"
+        title: "Targeting Architecture Framework"
+        content: "Start with Geo (country required) > Add Demographics (age/gender) > Layer Interests > Add Behaviors > Validate via targeting search API > Apply flexible_spec for OR logic between categories > Use exclusions for refinement"
+        domain: targeting
+        source: META-API
+      - id: "FW-META-004"
+        title: "Error Handling Framework"
+        content: "Parse error code (category) > Check subcode (specific cause) > Read blame_field_specs (exact field path) > Extract error_data (recovery context) > Map to remediation action > Implement retry with exponential backoff > Log for pattern analysis"
+        domain: api-architecture
+        source: META-API
+      - id: "FW-META-005"
+        title: "Rate Limiting Management Framework"
+        content: "Monitor X-Ad-Account-Usage header on every response > Distribute requests uniformly over time > Consolidate into batch operations > Implement exponential backoff on 429/throttle > Use async endpoints for insights > Reserve capacity for critical operations"
+        domain: api-architecture
+        source: META-API
+      - id: "FW-META-006"
+        title: "Campaign Creation Flow"
+        content: "Create Campaign (objective + special_ad_categories) > Create Ad Set (budget + targeting + schedule + optimization_goal) > Upload Creative (image hash or video) > Create Ad (link creative to ad set) > Submit for Review > Monitor review status > Activate on approval"
+        domain: campaign-architecture
+        source: META-API
+      - id: "FW-META-007"
+        title: "Lead Ads Implementation Framework"
+        content: "Complete app review for lead ads permission > Business verification > Implement webhooks for real-time CRM push > Bulk read API as fallback > Configure lead form (questions + privacy policy) > Feed conversions back via CAPI for optimization"
+        domain: lead-generation
+        source: META-API
+      - id: "FW-META-008"
+        title: "Dynamic Product Ads Framework"
+        content: "Create product catalog feed (CSV/XML/API) > Implement Pixel + App Events for product tracking (ViewContent, AddToCart, Purchase) > Create campaign with catalog_sales objective > Auto-generate ads from catalog > Monitor via Insights API > Debug with Product Feed Debugger"
+        domain: dynamic-ads
+        source: META-API
+      - id: "FW-META-009"
+        title: "Multi-Account Management Framework"
+        content: "Setup Business Manager as central hub > Define agency relationships (client assignment) > Assign granular role-based permissions > Use system users for automated operations > Monitor access tokens expiry > Audit permissions regularly"
+        domain: account-management
+        source: META-API
+      - id: "FW-META-010"
+        title: "Insights Optimization Framework"
+        content: "Restrict date ranges to minimum needed > Limit ad IDs in query > Split high-cardinality breakdowns into separate calls > Use date_preset over custom ranges > Cache results (stable after 28 days) > Use async endpoint for queries spanning 30+ days"
+        domain: insights
+        source: META-API
+      - id: "FW-META-011"
+        title: "Attribution Strategy Framework"
+        content: "Set attribution window at ad set level (attribution_spec) > Implement both Pixel + CAPI for redundancy > Enable deduplication via event_id > Run Conversion Lift Studies for incrementality > Compare 1d/7d/28d windows > Use DDA (data-driven attribution) for multi-touch"
+        domain: attribution
+        source: META-API
+      - id: "FW-META-012"
+        title: "Compliance Framework"
+        content: "Classify special ad categories (housing/credit/employment/politics) > Implement DSA fields for EU ad transparency > Handle youth targeting restrictions (no interest/behavioral targeting under 18) > Set data_processing_options for CCPA/LGPD > Maintain political ad advertiser identity requirements"
+        domain: compliance
+        source: META-API
+
+  L5_METHODOLOGIES:
+    count: 10
+    items:
+      - id: "MET-META-001"
+        title: "Custom Audience Upload Methodology"
+        content: "Step 1: POST /act_{ID}/customaudiences to create empty audience container. Step 2: POST /{audience_id}/users in batches of max 10,000 users with SHA-256 hashed PII (em, ph, fn, ln, ge, ct, st, zp, country). Step 3: Track multi-batch via session_id + batch_seq. Step 4: Set last_batch_flag=true on final batch. Step 5: Validate population count via GET /{audience_id}"
+        domain: audience-building
+        source: META-API
+      - id: "MET-META-002"
+        title: "CAPI Event Sending Methodology"
+        content: "Step 1: Normalize PII (lowercase, trim whitespace). Step 2: SHA-256 hash all PII fields (em, ph, fn, ln, ge, ct, st, zp, country). Step 3: Build server_event payload with event_name, event_time, user_data, custom_data. Step 4: POST to /{PIXEL_ID}/events. Step 5: Include test_event_code parameter for testing. Step 6: Remove test_event_code for production. Step 7: Monitor EMQ score in Events Manager (target 8+/10)"
+        domain: tracking
+        source: META-API
+      - id: "MET-META-003"
+        title: "Async Insights Retrieval Methodology"
+        content: "Step 1: POST insight request with desired fields, breakdowns, date range. Step 2: Receive report_run_id immediately. Step 3: Poll GET /{report_run_id} for async_status until 'Job Completed' and async_percent_completion=100. Step 4: GET /{report_run_id}/insights to retrieve paginated results. Step 5: Process and store results. Step 6: Note: report expires after 30 days"
+        domain: insights
+        source: META-API
+      - id: "MET-META-004"
+        title: "Lookalike Audience Creation Methodology"
+        content: "Step 1: Build quality seed Custom Audience (minimum 100 members, 200+ recommended). Step 2: POST /act_{ID}/customaudiences with subtype=LOOKALIKE and lookalike_spec. Step 3: Set ratio (0.01-0.20, lower = more similar). Step 4: Set target country. Step 5: Wait 1-6 hours for full population. Step 6: Ads can start delivery immediately (partial population). Step 7: Monitor for inactivity (90-day code 450)"
+        domain: audience-building
+        source: META-API
+      - id: "MET-META-005"
+        title: "Ad Image Management Methodology"
+        content: "Step 1: POST /act_{ID}/adimages with base64-encoded bytes field. Step 2: Store returned image hash (not URL). Step 3: Reference hash in creative spec (image_hash field). Step 4: For cross-account copy: use copy_from endpoint with source_account_id + hash. Step 5: Before DELETE: verify no active creatives reference the image. Step 6: Deleted images cannot be recovered"
+        domain: creative-management
+        source: META-API
+      - id: "MET-META-006"
+        title: "Deduplication Implementation Methodology"
+        content: "Step 1: Choose strategy (Event ID matching preferred over FBP matching). Step 2: Browser side: pass eventID parameter in Pixel fbq('track') call. Step 3: Server side: send matching event_id field in CAPI payload. Step 4: Ensure event_name matches exactly between Pixel and CAPI. Step 5: Monitor within 48-hour deduplication window. Step 6: Validate via Test Events tool in Events Manager. Step 7: Check for 'Duplicates removed' count in diagnostics"
+        domain: tracking
+        source: META-API
+      - id: "MET-META-007"
+        title: "Authorization Upgrade Path Methodology"
+        content: "Step 1: Register as Meta developer at developers.facebook.com. Step 2: Create app (Business type). Step 3: Start in Development tier (60 points, testing only). Step 4: Request Standard Access for production usage. Step 5: Complete business verification (legal documents). Step 6: Request Advanced Access for multi-account management. Step 7: Maintain: minimum 1,500 successful calls per 15 days and error rate below 15%"
+        domain: api-architecture
+        source: META-API
+      - id: "MET-META-008"
+        title: "Campaign Budget Optimization Setup Methodology"
+        content: "Step 1: Create campaign with campaign_budget_optimization=true. Step 2: Set campaign-level daily_budget or lifetime_budget. Step 3: Create ad sets WITHOUT individual budgets (CBO distributes automatically). Step 4: Respect maximum of 200 ad sets per CBO campaign. Step 5: Note: at 70+ ad sets, bid strategy becomes locked. Step 6: Monitor distribution via ad set-level insights. Step 7: Use min/max spend limits on ad sets for guardrails"
+        domain: budget-management
+        source: META-API
+      - id: "MET-META-009"
+        title: "Breakdowns Analysis Methodology"
+        content: "Step 1: Choose compatible breakdowns (age+gender always safe together). Step 2: Add action breakdowns if needed (action_type, action_device). Step 3: Avoid incompatible combinations (hourly+unique metrics, hourly+video metrics). Step 4: Check permitted multi-breakdown compatibility table in docs. Step 5: Request with fields parameter specifying desired metrics. Step 6: Process segmented results (each breakdown creates separate rows)"
+        domain: insights
+        source: META-API
+      - id: "MET-META-010"
+        title: "Conversions API Gateway Setup Methodology"
+        content: "Step 1: Subscribe to CAPI Gateway ($10-100/month depending on event volume). Step 2: Gateway auto-converts browser Pixel events to server-side events. Step 3: No custom server code required. Step 4: Hashing of PII handled automatically by gateway. Step 5: Deduplication built-in (event_id auto-generated). Step 6: Monitor via Events Manager for delivery confirmation. Step 7: Ideal for advertisers without server-side engineering resources"
+        domain: tracking
+        source: META-API
