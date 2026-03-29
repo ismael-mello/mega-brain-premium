@@ -1,0 +1,61 @@
+# DNA-CONFIG - Iman Gadzhi
+# Tipo: SOLO (Person Agent)
+# Versão: v1.0.0
+
+meta:
+  agent_type: SOLO
+  person: iman-gadzhi
+  display_name: "Iman Gadzhi"
+  peso: 1.0  # Solo agent = single source, always 1.0
+
+dna_sources:
+  - person: iman-gadzhi
+    weight: 1.0
+    dna_path: "knowledge/external/dna/persons/iman-gadzhi/DNA.yaml"
+    raiz: "inbox/Iman Gadzhi/"
+    materiais_fonte:
+      - programa: "Agency Incubator"
+        tipo: COURSE
+        arquivos: 78
+        path: "inbox/Iman Gadzhi/Iman Gadzhi - Agency Incubator/"
+      - programa: "Agency Navigator"
+        tipo: COURSE
+        arquivos: 103
+        path: "inbox/Iman Gadzhi/Iman Gadzhi - Agency Navigator/"
+      - programa: "Six Figure SMMA"
+        tipo: COURSE
+        arquivos: 96
+        path: "inbox/Iman Gadzhi/Iman Gadzhi - Six Figure SMMA/"
+
+domains:
+  primary:
+    - agency-business-model
+    - sales-closing
+    - lead-generation
+    - pricing-strategy
+  secondary:
+    - mindset-performance
+    - service-delivery
+    - team-building
+    - client-management
+    - facebook-ads
+    - copywriting
+    - personal-branding
+
+element_counts:
+  L1_philosophies: 32
+  L2_mental_models: 29
+  L3_heuristics: 40
+  L4_frameworks: 38
+  L5_methodologies: 30
+  total: 168
+
+version_history:
+  - version: "v1.0.0"
+    date: "2026-03-29"
+    sources_added:
+      - "Agency Incubator (78 files)"
+      - "Agency Navigator (103 files)"
+      - "Six Figure SMMA (96 files)"
+    elements_added: 168
+    notes: "Initial DNA extraction from 3 complete courses"

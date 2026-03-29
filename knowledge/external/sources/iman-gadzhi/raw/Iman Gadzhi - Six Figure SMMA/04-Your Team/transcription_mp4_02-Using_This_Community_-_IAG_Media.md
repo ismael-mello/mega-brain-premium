@@ -1,0 +1,12 @@
+# Transcrição: 02-Using This Community - IAG Media
+
+- **Fonte:** 02-Using This Community - IAG Media
+- **Duração:** 02:21
+- **Idioma:** en
+- **Modelo:** small
+
+---
+
+## [00:00 - 02:21]
+
+So guys, welcome back to Six Figure SMA. Now, we've discussed how I build my teams, we've discussed actually building your team through social media. Why not just make it easy for yourself and use this community? Okay, so let's get into it. Like I said, using this community, no. This is more than a course and I hope that's prone to you by now through the action steps, through the mastermind group. You know, at the time of recording this, I'm still in test group phase. You know, I allowed 12 people in. I had a long, long list of people that wanted to get in, decided to keep it only 12 people. And you know, at this point, it's way more than a course. You know, the amount of engagement and the amount of just like knowledge and everything that's just being spread is ridiculous. So guys, this really is more than a course. This is a whole community. This is, you know, dozens, hundreds, thousands of mentors behind you through this mastermind group. And as I said, guys, the community really is here for you. So finding outsourcers is difficult, at least in my opinion, if you want to find quality ones. So look, guys, make it easy for yourself. Okay, so action step, need a team member, throw it up on the Facebook group. Guys, as I said, for me to find a good sort of outsourcer and team members, it's quite difficult. But here's the thing, you know, the, like the, the copywriter that I use, he has maximum capacity, like he has the capacity to work with 10 other people. You know, like I, it's not like I've hired him full time or my sales guy, he has the capacity to work with six other people, you know, so it's, it's a very just open space, you know, a lot of you guys will have graphic designers that you can refer. And here's the thing, if you are the kindness of your own heart, really out of the kindness of your own heart, if you can't just refer that person normally, take a commission for it, take 10, 10%, 20%. That's how business works. Do that if you want. I know me myself, I'll be throwing it up on the Facebook group and allowing people, you know, access to my Rolodex, you know, to some of my contact lists and stuff like that. So yeah, guys, as I said, throw it up on the Facebook group. Who do you need? The community will answer and I'll see you guys in the next module.
