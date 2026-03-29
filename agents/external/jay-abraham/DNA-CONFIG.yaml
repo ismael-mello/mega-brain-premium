@@ -1,0 +1,72 @@
+# JAY ABRAHAM — DNA Configuration
+# Agent Type: SOLO (single source, weight = 1.0)
+
+agent_type: SOLO
+person: jay-abraham
+full_name: "Jay Abraham"
+weight: 1.0
+
+dna_path: "knowledge/external/dna/persons/jay-abraham/DNA.yaml"
+
+raiz: "inbox/Jay Abraham/"
+
+dna_sources:
+  - id: CYBS
+    name: "Creating Your Own Business Success"
+    type: COURSE
+    path: "inbox/Jay Abraham/Jay Abraham - Creating Your Own Business Success/"
+    modules: 12
+    workbook: true
+    elements_extracted: 164
+
+  - id: LIS
+    name: "Lock In Summit 2024"
+    type: SUMMIT
+    path: "inbox/Jay Abraham/Jay Abraham - Lock In Summit 2024/"
+    modules: 11
+    workbook: true
+    elements_extracted: 126
+    guest_speakers:
+      - name: Steve Sims
+        topic: "Communication, Concierge, Go For Stupid"
+      - name: Allan Eagle
+        topic: "Story Platform, Google Evangelism, Trillion Dollar Coach"
+      - name: Chris Mechanic
+        topic: "Digital Marketing, Paid Social, LinkedIn Growth"
+      - name: Stephan Spencer
+        topic: "SEO, Knowledge Panels, Content Machine"
+      - name: Dr. Alan Barnard
+        topic: "Theory of Constraints, Recursive Pareto, 10x Profit"
+      - name: Nick Sonnenberg
+        topic: "Operational Efficiency, CPR Framework, Come Up For Air"
+      - name: Tony Robbins
+        topic: "Three to Five to Thrive, Irresistible Offers, Identity Selling"
+
+total_elements: 290
+element_breakdown:
+  philosophies: 30
+  mental_models: 30
+  heuristics: 33
+  frameworks: 28
+  methodologies: 20
+  guest_endorsed: 60
+  signature_quotes: 15
+  case_studies: 10
+
+domains:
+  primary:
+    - marketing-strategy
+    - joint-ventures
+    - leverage
+    - business-growth
+    - copywriting
+  secondary:
+    - negotiation
+    - referral-systems
+    - business-acquisition
+    - trust-building
+    - preeminence
+
+version: "1.0.0"
+date_created: "2026-03-29"
+date_updated: "2026-03-29"
