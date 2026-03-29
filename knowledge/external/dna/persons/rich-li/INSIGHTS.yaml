@@ -1,0 +1,272 @@
+# ============================================================================
+# RICH LI - INSIGHTS
+# ============================================================================
+# Key insights extracted from Foundr Ecommerce Masters 2020
+# Module 3: Scaling Supply Chain Operations & Manufacturing + Bonuses
+# ============================================================================
+
+person: rich-li
+full_name: "Rich Li (Richard Li)"
+version: "v1"
+extraction_date: "2026-03-29"
+total_insights: 35
+
+insights:
+
+  # === SUPPLY CHAIN STRATEGY ===
+  - id: "INS-RL-001"
+    title: "The Biggest Margin Lever is Going Direct to Manufacturer"
+    description: "The only way to get extra margin when you already have traction is to go direct to manufacturer, cutting out dropshippers and Alibaba middlemen. This unlocks significant margin improvement but comes with complexity (larger orders, QC, shipping)."
+    category: "strategy"
+    source_file: "transcription_mp4_01-Rich-L1-Module_Intro-v3_from_Foundr_on_Vimeo.md"
+    related_dna: ["FIL-RL-003", "FIL-RL-004"]
+
+  - id: "INS-RL-002"
+    title: "Two Things Rich Wishes He Knew Earlier"
+    description: "Rich's top two regrets as a young entrepreneur: (1) Not knowing the right tool to find the right suppliers efficiently (FBI Method via JungleScout instead of Alibaba/fairs), (2) Not knowing how to calculate gross margin and contribution margin correctly to make informed investment decisions."
+    category: "lessons-learned"
+    source_file: "transcription_mp4_01-Rich-L1-Module_Intro-v3_from_Foundr_on_Vimeo.md"
+    related_dna: ["FW-RL-001", "FW-RL-006"]
+
+  - id: "INS-RL-003"
+    title: "Alibaba Rankings Are Paid, Not Quality-Based"
+    description: "Alibaba search results are paid suppliers ranked by ad spend, not quality. The top results are not necessarily the best suppliers. The FBI Method (investigating competitors via JungleScout) yields higher-quality suppliers because they're already proven with international brands."
+    category: "sourcing"
+    source_file: "transcription_mp4_04-Rich-L4-Sourcing_Quality_Suppliers-v3_from_Foundr_on_Vimeo.md"
+    related_dna: ["FW-RL-001", "FIL-RL-008"]
+
+  - id: "INS-RL-004"
+    title: "Shared Major Brand Clients = Quality Signal"
+    description: "When using JungleScout to investigate suppliers, checking if they serve major brands (e.g., Starbucks, big retailers) is a strong quality signal. If a supplier serves both your competitor and major global brands, they likely meet high quality standards."
+    category: "sourcing"
+    source_file: "transcription_mp4_04-Rich-L4-Sourcing_Quality_Suppliers-v3_from_Foundr_on_Vimeo.md"
+    related_dna: ["FW-RL-001", "MM-RL-006"]
+
+  - id: "INS-RL-005"
+    title: "Factory Visit Reality Check: Looks Can Deceive"
+    description: "Rich found a supplier on Alibaba that appeared to be a large corporation with thousands of employees. When he visited, it was a 10-person operation with shirtless workers in dangerous conditions. Always visit factories before committing to major orders."
+    category: "due-diligence"
+    source_file: "transcription_mp4_04-Rich-L4-Sourcing_Quality_Suppliers-v3_from_Foundr_on_Vimeo.md"
+    related_dna: ["FIL-RL-008", "MM-RL-013"]
+
+  # === NEGOTIATION & RELATIONSHIPS ===
+  - id: "INS-RL-006"
+    title: "Chinese Suppliers Say Yes to Everything But Can't Always Deliver"
+    description: "Due to cultural differences, Chinese manufacturers tend to say yes to every request but then struggle to deliver. This is why formal quality agreements are essential - once in writing, they take it very seriously. But payment terms should remain gentleman agreements."
+    category: "cultural-intelligence"
+    source_file: "transcription_mp4_05-Rich-L5-Negotiating_with_Suppliers-v3_from_Foundr_on_Vimeo.md"
+    related_dna: ["MM-RL-011", "FIL-RL-005"]
+
+  - id: "INS-RL-007"
+    title: "Payment Terms: Gentleman Agreement > Contract"
+    description: "Extended payment terms work better as gentleman agreements than contracts. When you put it in contract, Chinese suppliers will typically say no. But when you build trust through personal visits and genuine relationship, they'll agree to 30-day or even 3-month payment terms informally."
+    category: "negotiation"
+    source_file: "transcription_mp4_05-Rich-L5-Negotiating_with_Suppliers-v3_from_Foundr_on_Vimeo.md"
+    related_dna: ["MM-RL-011", "HEUR-RL-028", "HEUR-RL-029"]
+
+  - id: "INS-RL-008"
+    title: "$10-20 Gifts Go a Long Way with Suppliers"
+    description: "Buying your supplier's account manager or boss small gifts during Chinese New Year ($10-20) creates disproportionate goodwill. This small investment in relationship maintenance pays off in better pricing, payment terms, and priority treatment."
+    category: "relationship-management"
+    source_file: "transcription_mp4_05-Rich-L5-Negotiating_with_Suppliers-v3_from_Foundr_on_Vimeo.md"
+    related_dna: ["FIL-RL-005", "FW-RL-011"]
+
+  # === BRAND PROTECTION ===
+  - id: "INS-RL-009"
+    title: "IP Theft Is Common and Comes from Factory Workers"
+    description: "Rich experienced IP theft multiple times: (1) A factory worker took furniture designs to another factory and started selling them on a different site, (2) A factory worker pre-registered Rich's brand name in China, (3) A factory owner registered a US startup's trademark in China after hearing about them. IP protection via NDA and authorization letters is essential."
+    category: "brand-protection"
+    source_file: "transcription_mp4_01-Rich-L6-Protecting_Your_Brand-v3_from_Foundr_on_Vimeo.md"
+    related_dna: ["FW-RL-007", "HEUR-RL-017"]
+
+  # === 3PL & WAREHOUSING ===
+  - id: "INS-RL-010"
+    title: "3PL Hidden Fees Can Destroy Your Margin"
+    description: "Most entrepreneurs think 3PL is simple: storage + pick & pack. In reality there are many hidden fees: inward freight charges, per-carton receiving, manual labor, account management fees, pallet consolidation charges, minimum spend requirements. These must all be built into your P&L."
+    category: "3pl"
+    source_file: "transcription_mp4_07-Rich-L7-Preventing_3PL_Bleeding-v3_from_Foundr_on_Vimeo.md"
+    related_dna: ["FW-RL-003", "FW-RL-009"]
+
+  - id: "INS-RL-011"
+    title: "July Switched from 3PL to Self-Warehouse for Two Reasons"
+    description: "July used 3PL from launch until recently, then switched to self-warehousing because: (1) 3PL costs became too much of their gross margin, (2) They needed express delivery for customers traveling tomorrow/day after. 3PL's 24h minimum fulfillment wasn't sufficient."
+    category: "warehousing"
+    source_file: "transcription_mp4_07-Rich-L7-Preventing_3PL_Bleeding-v3_from_Foundr_on_Vimeo.md"
+    related_dna: ["FW-RL-009", "FIL-RL-009", "HEUR-RL-026"]
+
+  - id: "INS-RL-012"
+    title: "Per-CBM Pricing Beats Per-Pallet for Uniform Products"
+    description: "When your products have consistent dimensions, negotiate per-CBM pricing with 3PL instead of per-pallet. Per-pallet pricing wastes money on unoptimized pallets (only 2-3 units per pallet), and pallet consolidation incurs additional labor costs."
+    category: "3pl-optimization"
+    source_file: "transcription_mp4_07-Rich-L7-Preventing_3PL_Bleeding-v3_from_Foundr_on_Vimeo.md"
+    related_dna: ["MM-RL-010"]
+
+  - id: "INS-RL-013"
+    title: "Account Management Fee Is Waivable"
+    description: "3PL account management fees (weekly/monthly) are the most negotiable cost component. Rich states this is the fee you can usually ask to be waived entirely. Always request waiver as part of initial negotiation."
+    category: "3pl-negotiation"
+    source_file: "transcription_mp4_07-Rich-L7-Preventing_3PL_Bleeding-v3_from_Foundr_on_Vimeo.md"
+    related_dna: ["FW-RL-003"]
+
+  # === INTERNATIONAL SHIPPING ===
+  - id: "INS-RL-014"
+    title: "EXW Pain Story: Hidden Local Transport Killed All Margin"
+    description: "Rich sourced a product with a great EXW price, not realizing it didn't include local transportation. He quoted his client based on EXW price, then discovered the local transportation within China destroyed his entire margin. From then on, he always insists on FOB quotes."
+    category: "shipping"
+    source_file: "transcription_mp4_08-Rich-L8-International_Shipping-v3_from_Foundr_on_Vimeo.md"
+    related_dna: ["MM-RL-004", "MM-RL-013"]
+
+  - id: "INS-RL-015"
+    title: "EXW Quoting = Red Flag for Factory Professionalism"
+    description: "Factories that quote EXW rather than FOB may lack export licenses. FOB quoting requires proper export licensing. If a factory can only quote EXW, question whether they are professional enough and whether they can properly export your goods."
+    category: "supplier-vetting"
+    source_file: "transcription_mp4_08-Rich-L8-International_Shipping-v3_from_Foundr_on_Vimeo.md"
+    related_dna: ["MM-RL-013", "MM-RL-004"]
+
+  - id: "INS-RL-016"
+    title: "Don't Let Factory Quote CIF Even Though It's Simpler"
+    description: "While CIF makes COGS calculation simpler (just purchase + local destination costs), factories don't necessarily have the best freight forwarding rates. Always use FOB and choose your own freight forwarder to get the cheapest carrier rate."
+    category: "shipping-optimization"
+    source_file: "transcription_mp4_08-Rich-L8-International_Shipping-v3_from_Foundr_on_Vimeo.md"
+    related_dna: ["MM-RL-004", "FW-RL-004"]
+
+  # === LAST MILE DELIVERY ===
+  - id: "INS-RL-017"
+    title: "Fuel Surcharge Is the Biggest Hidden Cost in Delivery"
+    description: "Fuel surcharge of 15-20% is applied on top of the entire delivery charge (consignment + weight) and changes constantly. Many entrepreneurs miss this when calculating delivery costs. It can add $2-5+ per order depending on size and distance."
+    category: "delivery-costs"
+    source_file: "transcription_mp4_09-Rich-L9-Last_Mile_Delivery-v3_from_Foundr_on_Vimeo.md"
+    related_dna: ["HEUR-RL-009", "FW-RL-005"]
+
+  - id: "INS-RL-018"
+    title: "Avoid Carriers with Residential Surcharge"
+    description: "TNT (Australia) and FedEx (US) charge ~$5 residential surcharge per delivery. For B2C ecommerce where most deliveries are residential, using these carriers for residential addresses is an avoidable margin loss. Use alternative carriers without this surcharge."
+    category: "carrier-selection"
+    source_file: "transcription_mp4_09-Rich-L9-Last_Mile_Delivery-v3_from_Foundr_on_Vimeo.md"
+    related_dna: ["HEUR-RL-010"]
+
+  - id: "INS-RL-019"
+    title: "ATL (Authority to Leave) Saves Re-Delivery Costs"
+    description: "Authority to Leave allows delivery personnel to leave parcels at the door or with building concierge when customers aren't home. This avoids expensive re-delivery fees. Let customers choose whether to accept ATL and assume responsibility for lost/stolen items."
+    category: "delivery-optimization"
+    source_file: "transcription_mp4_09-Rich-L9-Last_Mile_Delivery-v3_from_Foundr_on_Vimeo.md"
+    related_dna: ["FW-RL-012"]
+
+  # === PRODUCT DEVELOPMENT ===
+  - id: "INS-RL-020"
+    title: "July's $1.25M Product Development Cost"
+    description: "July's carry-on luggage cost $1.25M to develop, primarily because achieving the unique X-shell design required retooling the wheel factory and telescopic handle factory. Most luggage brands look similar because nobody wants to spend the money on retooling these component factories."
+    category: "product-development"
+    source_file: "transcription_mp4_11-Rich-L11-July-A_Case_Study-v3_from_Foundr_on_Vimeo.md"
+    related_dna: ["FIL-RL-006"]
+
+  - id: "INS-RL-021"
+    title: "Workshop Manufacturing Challenges WITH the Factory"
+    description: "When the factory says something is impossible (like combining polycarbonate shell with aluminum bumpers), go there in person and workshop the solution together. July resolved 10-20 manufacturing challenges this way. Without these collaborations, July wouldn't exist as a business."
+    category: "manufacturing"
+    source_file: "transcription_mp4_11-Rich-L11-July-A_Case_Study-v3_from_Foundr_on_Vimeo.md"
+    related_dna: ["FIL-RL-006", "FIL-RL-005"]
+
+  # === FINANCIAL INSIGHTS ===
+  - id: "INS-RL-022"
+    title: "Contribution Margin Drives Three Key Decisions"
+    description: "Contribution margin analysis tells you exactly: (1) If variable costs need to be REDUCED, (2) If product price needs to be INCREASED, (3) If costs and pricing should REMAIN THE SAME. It's the single most important metric for scaling decisions."
+    category: "financial"
+    source_file: "transcription_pdf_01-RIch_Full_Module.md"
+    related_dna: ["MM-RL-002", "FW-RL-006"]
+
+  - id: "INS-RL-023"
+    title: "Brosa Scale: $0 to $60M in 5 Years"
+    description: "Brosa Furniture scaled from zero to $60M AUD within 5 years, developing 10,000 SKUs across 3,000 products, sourcing from India, China, and Southeast Asia, moving many containers monthly. This was possible because of disciplined supply chain management."
+    category: "scale-reference"
+    source_file: "transcription_mp4_01-Rich-L1-Module_Intro-v3_from_Foundr_on_Vimeo.md"
+    related_dna: ["FIL-RL-002"]
+
+  - id: "INS-RL-024"
+    title: "July Funding: $10.5M in First 9 Months"
+    description: "July secured $10.5M in funding within its first 9 months, partly enabled by efficient supply chain operations and strong unit economics (high contribution margin from direct manufacturing)."
+    category: "scale-reference"
+    source_file: "transcription_pdf_01-RIch_Full_Module.md"
+    related_dna: ["FIL-RL-010"]
+
+  # === CURRENCY & INTERNATIONAL ===
+  - id: "INS-RL-025"
+    title: "Currency Converter Apps Only Fix Product Page, Not Checkout"
+    description: "Standard Shopify currency converter apps only convert prices on the product page. On checkout, customers still see the store's base currency (e.g., AUD for Australian stores). This hurts conversion and causes unexpected charges for international customers."
+    category: "international"
+    source_file: "transcription_mp4_09-Rich-B-Currency_Hack_for_International_Selling-v3_from_Foundr_on_Vimeo.md"
+    related_dna: ["FW-RL-013"]
+
+  - id: "INS-RL-026"
+    title: "Local Shopify Store = True Local Currency at Checkout"
+    description: "The only way to show true local currency at checkout is to set up a separate Shopify store in the target country with a local entity and bank account. July has a Singapore Shopify store where everything shows SGD, including checkout."
+    category: "international"
+    source_file: "transcription_mp4_09-Rich-B-Currency_Hack_for_International_Selling-v3_from_Foundr_on_Vimeo.md"
+    related_dna: ["FW-RL-013", "FIL-RL-007"]
+
+  - id: "INS-RL-027"
+    title: "Keep Foreign Revenue in Local Account, Convert When Favorable"
+    description: "Don't convert international revenue to home currency immediately. Keep it in the local bank account and convert only when the exchange rate is favorable. Spot conversions from international credit cards come with high merchant fees and poor rates."
+    category: "financial-optimization"
+    source_file: "transcription_mp4_09-Rich-B-Currency_Hack_for_International_Selling-v3_from_Foundr_on_Vimeo.md"
+    related_dna: ["MM-RL-012"]
+
+  # === COMMUNICATION & CULTURE ===
+  - id: "INS-RL-028"
+    title: "WeChat Is Non-Negotiable for Chinese Suppliers"
+    description: "There is no WhatsApp, Facebook, or Google in China. WeChat is the only way to have fast, effective communication with Chinese manufacturers. Download WeChat and add every Chinese supplier contact there. Email and phone calls alone are too slow due to time zones and language barriers."
+    category: "communication"
+    source_file: "transcription_mp4_04-Rich-L4-Sourcing_Quality_Suppliers-v3_from_Foundr_on_Vimeo.md"
+    related_dna: ["MM-RL-008"]
+
+  - id: "INS-RL-029"
+    title: "Vietnamese Suppliers on WeChat Don't Respond Fast"
+    description: "Rich added Vietnamese suppliers on WeChat but they rarely responded because WeChat isn't their primary app. Vietnamese suppliers are more responsive on WhatsApp. Always match the communication platform to what suppliers actually use daily."
+    category: "communication"
+    source_file: "transcription_mp4_04-Rich-L4-Sourcing_Quality_Suppliers-v3_from_Foundr_on_Vimeo.md"
+    related_dna: ["MM-RL-008"]
+
+  # === SCALING READINESS ===
+  - id: "INS-RL-030"
+    title: "Four Prerequisites Before Scaling Manufacturing"
+    description: "Must answer YES to all four: (1) Product/brand proven with enough demand for large quantities, (2) Surpassed revenue targets with repeatable sales, (3) Ready for global manufacturers, (4) Minimal risk with enough cash reserves. If any is NO, don't scale yet."
+    category: "scaling"
+    source_file: "transcription_pdf_01-RIch_Full_Module.md"
+    related_dna: ["FW-RL-014"]
+
+  # === QUALITY CONTROL ===
+  - id: "INS-RL-031"
+    title: "Intertek QC Standard for Professional Inspections"
+    description: "Brosa used Intertek Testing Services for professional QC inspections with standardized report forms covering: quantity, product description, workmanship (Critical/Major/Minor defects), data measurements, packaging, and shipping marks. Uses AQL sampling standards."
+    category: "quality"
+    source_file: "transcription_pdf_05-QC_Inspection_Template.md"
+    related_dna: ["FW-RL-017", "MET-RL-010"]
+
+  - id: "INS-RL-032"
+    title: "Scaling Without Losing Quality Requires Vigilance"
+    description: "Manufacturers often cut corners as they produce more. Rich emphasizes this is very common - quality degrades as volume increases unless you maintain constant vigilance through QC inspections and quality agreements with specific penalties."
+    category: "quality"
+    source_file: "transcription_mp4_04-Rich-L4-Sourcing_Quality_Suppliers-v3_from_Foundr_on_Vimeo.md"
+    related_dna: ["FIL-RL-002", "FW-RL-008"]
+
+  # === SUPPLY CHAIN FLOW ===
+  - id: "INS-RL-033"
+    title: "Supply Chain Is Three Phases, Not One Monolithic Process"
+    description: "The supply chain breaks cleanly into three manageable phases: Sourcing (finding and vetting suppliers), Production (ordering and quality management), Logistics (freight + warehousing + last mile). Each has distinct skills and can be optimized independently."
+    category: "framework"
+    source_file: "transcription_mp4_02-The_Supply_Chain_Puzzle__Primer__-_Foundr_Premium.md"
+    related_dna: ["MM-RL-001"]
+
+  - id: "INS-RL-034"
+    title: "FOB Cost Structure Has Two Components: $ and V"
+    description: "Under FOB terms, COGS components are: Purchase cost ($, correlated to product cost), International freight (V, correlated to carton volume in CBM), Destination transport (V, also volume-based), Custom clearance ($, fixed costs). Understanding which costs scale with volume vs. price is key to optimization."
+    category: "cost-structure"
+    source_file: "transcription_pdf_08-Brosa_Supply_Chain_Workshop.md"
+    related_dna: ["FW-RL-004", "MM-RL-007"]
+
+  - id: "INS-RL-035"
+    title: "Free Trade Agreements Can Eliminate Duty"
+    description: "Free Trade Agreements (FTA) with Certificate of Origin (COO) can significantly reduce or eliminate import duties. Rich references the China-Australia FTA (ChAFTA) via AusTrade. Always check if an FTA exists between your sourcing country and destination country."
+    category: "cost-optimization"
+    source_file: "transcription_pdf_08-Brosa_Supply_Chain_Workshop.md"
+    related_dna: ["HEUR-RL-021"]

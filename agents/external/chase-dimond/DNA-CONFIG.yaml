@@ -1,0 +1,28 @@
+# DNA-CONFIG: Chase Dimond
+# Version: v1.0.0
+# Created: 2026-03-29
+
+agent_type: SOLO
+person: chase-dimond
+full_name: "Chase Dimond"
+
+dna_sources:
+  - person: chase-dimond
+    weight: 1.0
+    path: "knowledge/external/dna/persons/chase-dimond/"
+    materiais_fonte:
+      - course: "Foundr - Ecommerce Masters 2020"
+        module: "Module 5 - Advanced Email Marketing for Ecommerce + Bonuses"
+        type: COURSE
+        files: 94
+        raiz: "knowledge/external/sources/chase-dimond/raw/foundr-ecommerce-masters-2020/"
+
+domains:
+  primary: [email-marketing, ecommerce, marketing-automation]
+  secondary: [klaviyo, email-flows, segmentation, ab-testing, customer-lifecycle]
+
+expertise_summary: |
+  Co-founder of Boundless Labs. Sent hundreds of millions of emails,
+  driven $20M+ in revenue for clients. Specialist in Klaviyo, email flows.
+  156 DNA elements. Clients see 25-30% of revenue from email.
+  10 core email flows methodology.

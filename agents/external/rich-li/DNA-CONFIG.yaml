@@ -1,0 +1,28 @@
+# DNA-CONFIG: Rich Li
+# Version: v1.0.0
+# Created: 2026-03-29
+
+agent_type: SOLO
+person: rich-li
+full_name: "Rich Li"
+
+dna_sources:
+  - person: rich-li
+    weight: 1.0
+    path: "knowledge/external/dna/persons/rich-li/"
+    materiais_fonte:
+      - course: "Foundr - Ecommerce Masters 2020"
+        module: "Module 3 - Scaling Supply Chain Operations & Manufacturing"
+        type: COURSE
+        files: 30
+        raiz: "knowledge/external/sources/rich-li/raw/foundr-ecommerce-masters-2020/"
+
+domains:
+  primary: [supply-chain, manufacturing, logistics]
+  secondary: [3pl-management, international-shipping, supplier-negotiation, brand-protection]
+
+expertise_summary: |
+  Supply chain and operations expert. Associated with Brosa (furniture brand).
+  Known for FBI Method (supplier discovery), Double Spy Framework (negotiation).
+  Specialist in 3PL optimization, international shipping, and CM monitoring.
+  98 DNA elements including 31 quantitative heuristics.

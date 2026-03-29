@@ -1,0 +1,620 @@
+# ============================================================================
+# DNA SCHEMA - NICK SHACKELFORD
+# ============================================================================
+# Extracted from: Foundr Ecommerce Masters 2020 - Module: Scaling with Facebook Ads
+# Total files processed: 42
+# Extraction date: 2026-03-29
+# ============================================================================
+
+person: nick-shackelford
+full_name: "Nick Shackelford"
+version: "v1"
+course: "Foundr - Ecommerce Masters 2020"
+module: "Module 1 - Scaling with Facebook Ads + Bonus"
+total_files: 42
+extraction_date: "2026-03-29"
+total_elements: 118
+
+background:
+  experience: "$65-85M+ spent on Facebook ads"
+  prior_roles: ["PepsiCo (2014-2015, millennial marketing)", "Apple (2015-2016, paid advertising)"]
+  key_brands: ["Fidgetly (fidget spinners, 2017)", "Pup Socks ($10.5M in 32 days)", "Diff Eyewear ($250K in 2 days)", "Snow Teeth Whitening", "Posh Peanut", "Miracle Brand", "Rural Cloth", "Tari Lo"]
+  brands_consulted: "150+ brands in paid media (consultation, direct management, or teaching internal teams)"
+  sweet_spot: "7-8 figure revenue range"
+  product_price_sweet_spot: "sub $60 impulse purchases"
+
+# ============================================================================
+# L1 - PHILOSOPHIES (Core Beliefs)
+# ============================================================================
+L1_PHILOSOPHIES:
+  - id: "FIL-NS-001"
+    title: "Facebook is a Tool, Not Magic"
+    description: "Facebook is a tool that produces outputs after YOU give it clear input. Whatever you put in is what you're going to get out. It's not about instant results - it's about understanding the tool and feeding it correctly."
+    source_file: "transcription_mp4_02-Setup-_Getting_Smarter_About_Facebook_Ads.md"
+    tags: [facebook-ads, mindset, tool]
+
+  - id: "FIL-NS-002"
+    title: "Delayed Gratification Over Instant Results"
+    description: "If you need immediate results today, this is not the right approach. The mindset is delayed gratification - invest in your brand and products so that down the line it produces revenue without daily manual intervention. Future Gratification Model: anti-money-grab mentality, using Facebook for showcasing your brand."
+    source_file: "transcription_mp4_02-Setup-_Getting_Smarter_About_Facebook_Ads.md"
+    tags: [mindset, delayed-gratification, long-game]
+
+  - id: "FIL-NS-003"
+    title: "Data-Informed Decision Making"
+    description: "If you don't know what you're looking at, you don't know how to make more of it, you don't know how to grow it. Whatever KPI gets watched is what gets executed against. Don't shy away from the data - lean into it."
+    source_file: "transcription_mp4_03-Foundations__Part_A_-_Account_Overview__Dashboard_View__Naming_Conventions__Success_Correlations.md"
+    tags: [data, kpi, decisions]
+
+  - id: "FIL-NS-004"
+    title: "Structure Enables Scale"
+    description: "Structure is everything. Within the structure, you're able to execute and clearly see improvements. When you wanted to scale a physical brick-and-mortar store, you had to open multiple physical locations. Today, to scale online stores, we're simply adding dollars to a budget. But that requires proper structure."
+    source_file: "transcription_mp4_03-Foundations__Part_A_-_Account_Overview__Dashboard_View__Naming_Conventions__Success_Correlations.md"
+    tags: [structure, scale, account-setup]
+
+  - id: "FIL-NS-005"
+    title: "Don't Be Romantic About Creative"
+    description: "You aren't romantic about the product, the marketing, or some image that might be off brand. What matters is understanding consistent growth. Small brands can move quicker than big brands - that's your advantage."
+    source_file: "transcription_mp4_02-Setup-_Getting_Smarter_About_Facebook_Ads.md"
+    tags: [creative, mindset, agility]
+
+  - id: "FIL-NS-006"
+    title: "Non-Emotional Constant-State Testing"
+    description: "Prospecting must be viewed through a non-emotional, constant-state testing lens. You're never going to be done testing. Don't feel discouraged if what you launched didn't work. Reload, launch again with the learnings."
+    source_file: "transcription_mp4_09-Shack-L8-Urgent-Testing-DCT-V3_from_Foundr_on_Vimeo.md"
+    tags: [testing, mindset, iteration]
+
+  - id: "FIL-NS-007"
+    title: "Consumer Experience Over Brand Image"
+    description: "If there's a mismatch between the content and the page you're showing them, they're not going to stay with you forever. If you're building a brand, you want them buying multiple times. It already costs money to acquire them. Focus on giving the consumer the best experience."
+    source_file: "transcription_mp4_02-Setup-_Getting_Smarter_About_Facebook_Ads.md"
+    tags: [consumer-experience, congruency, retention]
+
+  - id: "FIL-NS-008"
+    title: "If You Don't Understand Your Business, No One Can Sell It For You"
+    description: "If you don't understand your business or how to sell your product, you can't expect somebody else to sell it for you. You must understand before you can delegate."
+    source_file: "transcription_mp4_02-Setup-_Getting_Smarter_About_Facebook_Ads.md"
+    tags: [ownership, business-understanding, delegation]
+
+  - id: "FIL-NS-009"
+    title: "It's Always Baby Season"
+    description: "Evergreen demographics and products that serve recurring needs are the ideal business. Products consumed repeatedly by demographics that constantly renew (like baby products) create sustainable revenue."
+    source_file: "transcription_mp4_02-Setup-_Getting_Smarter_About_Facebook_Ads.md"
+    tags: [evergreen, demographics, ltv]
+
+  - id: "FIL-NS-010"
+    title: "Bottom Funnel Profitability Funds Top Funnel Scale"
+    description: "The more profitable you are at the bottom of the funnel, the more money you can spend at the top of the funnel to keep the consumers coming in. Remarketing profit enables prospecting investment."
+    source_file: "transcription_mp4_16-Shack-L15-Re-marketing-V3_from_Foundr_on_Vimeo.md"
+    tags: [funnel, remarketing, prospecting, scale]
+
+  - id: "FIL-NS-011"
+    title: "Testing Is Not Failure"
+    description: "You're not looking for perfection. This is testing, this is scaling, and this is doubling down on what's working. If something works, do more of it. If it's not working, stop doing that."
+    source_file: "transcription_mp4_16-Shack-L15-Re-marketing-V3_from_Foundr_on_Vimeo.md"
+    tags: [testing, mindset, iteration]
+
+  - id: "FIL-NS-012"
+    title: "Right Product, Right Time, Right Audience"
+    description: "The recipe for success: great products, right offering, right audience. That's what drove Pup Socks to $10.5M in 32 days. All comes down to this combination."
+    source_file: "transcription_mp4_01-Shack-L1-Intro-V3_from_Foundr_on_Vimeo.md"
+    tags: [product-market-fit, audience, offers]
+
+  - id: "FIL-NS-013"
+    title: "Frameworks Over Hacks"
+    description: "The brands that are still around today have adopted a focus of less 'hacks' and tactics, and developed an iterative FRAMEWORK to find their VIP customers and treat them as such. After working with 150+ brands, the ones that survived use frameworks."
+    source_file: "transcription_pdf_02-Nick_Lesson_2.md"
+    tags: [frameworks, longevity, vip-customers]
+
+# ============================================================================
+# L2 - MENTAL MODELS (How He Thinks)
+# ============================================================================
+L2_MENTAL_MODELS:
+  - id: "MM-NS-001"
+    title: "Forest and Trees Approach"
+    description: "Forest = Account Overview Tab (seeing the business on a bigger scale, understanding where to dive in). Trees = Prospecting, Re-engagement, Remarketing (specific areas that at any time might need addressing). Think of spinning plates - always a matter of how many plates we can keep spinning."
+    source_file: "transcription_mp4_03-Foundations__Part_A_-_Account_Overview__Dashboard_View__Naming_Conventions__Success_Correlations.md"
+    tags: [account-management, diagnostics, overview]
+
+  - id: "MM-NS-002"
+    title: "Full Funnel Demand Model"
+    description: "Facebook operates as a full funnel tool: Create Demand (Prospecting/TOF) -> Nurture Demand (Re-engagement/MOF) -> Capture Demand (Remarketing/BOF). Each stage has different audiences, creative approaches, and budget allocations."
+    source_file: "transcription_mp4_03-Foundations__Part_A_-_Account_Overview__Dashboard_View__Naming_Conventions__Success_Correlations.md"
+    tags: [funnel, prospecting, remarketing, re-engagement]
+
+  - id: "MM-NS-003"
+    title: "Correlation-Based Decision Making"
+    description: "Use statistical correlation (above/below +/- 0.5) between funnel metrics to predict ROAS. When funnel metrics are close to targets, keep the ad running whether or not ROAS target is met. Theory: as time continues and metrics hold, ROAS will normalize to target."
+    source_file: "transcription_xlsx_03-Success_Metrics_Spreadsheet.md"
+    tags: [correlations, statistics, decision-making]
+
+  - id: "MM-NS-004"
+    title: "Horizontal Scale Model"
+    description: "When something is working, duplicate it into a new campaign rather than just adding more budget. Best performing campaigns are duplicated out. Adding budget is not a poor move, but not the only move you have."
+    source_file: "transcription_mp4_07-Shack-L6-3_Prospecting_Structures-V3_from_Foundr_on_Vimeo.md"
+    tags: [scaling, duplication, campaigns]
+
+  - id: "MM-NS-005"
+    title: "Two Business Models Lens"
+    description: "Every ecommerce brand is either a Single Product (Hero) model or a Multi-SKU Store. This distinction determines your prospecting strategy, creative approach, DPA usage, and remarketing structure."
+    source_file: "transcription_mp4_06-Shack-L5-Growth_Model-V3_from_Foundr_on_Vimeo.md"
+    tags: [business-models, hero-product, multi-sku]
+
+  - id: "MM-NS-006"
+    title: "Delayed Attribution Multiplier (DAM) Model"
+    description: "Your 1-day results will be X times better on Day 7 or 28. Calculate DAM by comparing 1-day vs 28-day attribution windows. Use this multiplier to set Target ROAS for daily decision-making. Example: if DAM is 1.55x, your 1-day ROAS of 1.2 will become ~1.86 on 28-day window."
+    source_file: "transcription_xlsx_04-Delayed_Attribution_Calculator_-_goes_with_lesson_4___Foundr.md"
+    tags: [attribution, delayed-attribution, roas, dam]
+
+  - id: "MM-NS-007"
+    title: "Facebook as Giant Filter"
+    description: "Facebook is one giant filter. Users have told Facebook their interests. Leverage that information to target audiences with congruent creative. Layer engaged shoppers (people who click 'Shop Now' CTAs) on top of interest targeting for higher-intent consumers."
+    source_file: "transcription_mp4_10-Shack-L9-Persona-Angle-Test-V3_from_Foundr_on_Vimeo.md"
+    tags: [targeting, audiences, facebook-filter]
+
+  - id: "MM-NS-008"
+    title: "Cost Per Add to Cart as Decision Metric"
+    description: "Cost per Add to Cart is the earliest, deepest metric you can make decisions on whether to turn the ad off or on. CPC and CTR aren't necessarily the largest indicators of whether an ad will work - there are too many steps between a click and a purchase."
+    source_file: "transcription_mp4_03-Foundations__Part_A_-_Account_Overview__Dashboard_View__Naming_Conventions__Success_Correlations.md"
+    tags: [metrics, add-to-cart, decision-making]
+
+  - id: "MM-NS-009"
+    title: "Paycheck Cycle Awareness"
+    description: "People get paid on a two-week basis. Performance tends to bump every two weeks when people get paid. Track day-of-week and bi-weekly patterns in your data for performance trends."
+    source_file: "transcription_mp4_03-Foundations__Part_A_-_Account_Overview__Dashboard_View__Naming_Conventions__Success_Correlations.md"
+    tags: [timing, patterns, paycheck-cycle]
+
+  - id: "MM-NS-010"
+    title: "Proven + Proven = Launch Success"
+    description: "For product launches, combine proven elements only: best-performing creative + best-selling audiences + winning creative style. Do NOT test new variables during a launch. Constants and variables must be separated."
+    source_file: "transcription_mp4_12-Shack-L11-Product_Launch-V3_from_Foundr_on_Vimeo.md"
+    tags: [product-launch, proven-creative, proven-audiences]
+
+  - id: "MM-NS-011"
+    title: "Two Reasons People Buy"
+    description: "Unconvinced customers eventually buy for two reasons: (1) Price - a discount or offer that tips the balance, and (2) A recommendation from someone they trust - UGC, influencer, or social proof."
+    source_file: "transcription_pdf_15-Nick_Lesson_15.md"
+    tags: [buying-psychology, price, social-proof, trust]
+
+  - id: "MM-NS-012"
+    title: "Congruency Model"
+    description: "The right audience must receive the right creative. Country audience gets country-themed content. College audience gets college-themed content. If ad messaging doesn't match the target persona, conversion drops. Message mismatch between ad and landing page kills retention."
+    source_file: "transcription_mp4_10-Shack-L9-Persona-Angle-Test-V3_from_Foundr_on_Vimeo.md"
+    tags: [congruency, targeting, creative-matching]
+
+  - id: "MM-NS-013"
+    title: "Volume-Based Decision Tolerance"
+    description: "Some ads spend a lot of dollars without hitting the success ROAS metric, but if they produce high volume of add-to-carts and initiate checkouts at cost-effective rates, they can be cleaned up in remarketing. Not every prospecting ad needs to be directly profitable."
+    source_file: "transcription_mp4_03-Foundations__Part_A_-_Account_Overview__Dashboard_View__Naming_Conventions__Success_Correlations.md"
+    tags: [volume, tolerance, remarketing-cleanup]
+
+# ============================================================================
+# L3 - HEURISTICS (Rules of Thumb with Numbers)
+# ============================================================================
+L3_HEURISTICS:
+  - id: "HEUR-NS-001"
+    title: "80/20 Spend Split: Prospecting vs Rest"
+    description: "80% of spend should be on prospecting (cold, top of funnel, new customer acquisition). This drives 80% of revenue. Used to be 60-75%, but increasingly becoming more of total spend."
+    source_file: "transcription_mp4_06-Shack-L5-Growth_Model-V3_from_Foundr_on_Vimeo.md"
+    tags: [budget-allocation, prospecting, spend-split]
+
+  - id: "HEUR-NS-002"
+    title: "1x AOV Spend Rule for Ad Decisions"
+    description: "Let an ad spend 1x your Average Order Value before making any decision. If it hasn't spent 1x AOV yet, let it continue. This ensures statistically relevant data before cutting."
+    source_file: "transcription_mp4_14-Shack-L13-Spend_Guidelines-V3_from_Foundr_on_Vimeo.md"
+    tags: [spend-guidelines, aov, decision-threshold]
+
+  - id: "HEUR-NS-003"
+    title: "2x-4x AOV Progressive Kill/Scale Ladder"
+    description: "After 1x AOV spent: check if purchase happened. If yes and metrics are on target per correlation doc, let it continue to 2x, 3x, 4x AOV. At each step, compare cost per ATC, cost per IC, and CPA against success correlation metrics. If not meeting targets, kill it."
+    source_file: "transcription_mp4_14-Shack-L13-Spend_Guidelines-V3_from_Foundr_on_Vimeo.md"
+    tags: [spend-guidelines, kill-decisions, scale-decisions]
+
+  - id: "HEUR-NS-004"
+    title: "ROAS Target of 1.6x for Cold Traffic"
+    description: "For the example brand with high AOV, 1.6x ROAS on Facebook is the benchmark to know that in Shopify they're above their success metric and can continue to spend. This is the minimum ROAS target set in the correlation calculator."
+    source_file: "transcription_xlsx_03-Success_Metrics_Spreadsheet.md"
+    tags: [roas-target, cold-traffic, benchmark]
+
+  - id: "HEUR-NS-005"
+    title: "Success Metric of 2x ROAS for Blended"
+    description: "In the Delayed Attribution Calculator, the success metric (desired ROAS) is set at 2x - meaning for every $1 spent, get $2 back. This is the blended target across prospecting and remarketing."
+    source_file: "transcription_xlsx_04-Delayed_Attribution_Calculator_-_goes_with_lesson_4___Foundr.md"
+    tags: [roas-target, success-metric, blended]
+
+  - id: "HEUR-NS-006"
+    title: "1.7x-2.5x ROAS Range on Cold Traffic"
+    description: "When Facebook has been optimized to bring specific types of leads/consumers that convert, the average rate on cold traffic falls between 1.7x and 2.5x ROAS."
+    source_file: "transcription_mp4_03-Foundations__Part_A_-_Account_Overview__Dashboard_View__Naming_Conventions__Success_Correlations.md"
+    tags: [roas, cold-traffic, benchmark-range]
+
+  - id: "HEUR-NS-007"
+    title: "Correlation Significance Threshold: +/- 0.5"
+    description: "Any correlation above or below +/- 0.5 is considered statistically significant and can be confidently used to predict ROAS. Below this threshold, the metric is not reliable for decision-making."
+    source_file: "transcription_xlsx_03-Success_Metrics_Spreadsheet.md"
+    tags: [correlation, statistics, threshold]
+
+  - id: "HEUR-NS-008"
+    title: "Weekly Correlation Export Cadence"
+    description: "Export and analyze the correlation spreadsheet every 7 days. This weekly cadence provides enough data for meaningful analysis while keeping decisions timely. Takes only 15-25 minutes per session."
+    source_file: "transcription_mp4_03-Foundations__Part_A_-_Account_Overview__Dashboard_View__Naming_Conventions__Success_Correlations.md"
+    tags: [cadence, analysis, weekly-review]
+
+  - id: "HEUR-NS-009"
+    title: "15-25 Minutes Daily for Ad Account Decisions"
+    description: "Using the Success Metrics Spreadsheet, you should spend only 15-25 minutes per day making decisions on which ads to keep or kill. If you're doing it right, maybe even 15 minutes. The rest of time should be spent creating new angles and audiences."
+    source_file: "transcription_pdf_03-Nick_Lesson_3.md"
+    tags: [time-management, daily-routine, efficiency]
+
+  - id: "HEUR-NS-010"
+    title: "Sub-$60 Impulse Purchase Sweet Spot"
+    description: "Products priced under $60 is where a lot of impulse purchases come in from. Nick's most successful products sold for $40-$120 with the sweet spot being under $60 for impulse buys on Facebook."
+    source_file: "transcription_mp4_01-Shack-L1-Intro-V3_from_Foundr_on_Vimeo.md"
+    tags: [pricing, impulse-purchase, aov]
+
+  - id: "HEUR-NS-011"
+    title: "3-Second Product Reveal Rule"
+    description: "Show the product within the first 3 seconds of video creative. This is the most valuable information - the average drop-off happens around second 5. The quicker you get the first value proposition with the product in place, the higher the conversion."
+    source_file: "transcription_mp4_13-Shack-L12-Creative_That_Converts-V3_from_Foundr_on_Vimeo.md"
+    tags: [creative, video, first-seconds, drop-off]
+
+  - id: "HEUR-NS-012"
+    title: "5-Second Video Value Proposition"
+    description: "Average attention drop-off happens at second 5. You must communicate what the product does within 5-7 seconds. Some of the best-performing ads communicate the full value proposition in 5-7 seconds."
+    source_file: "transcription_mp4_13-Shack-L12-Creative_That_Converts-V3_from_Foundr_on_Vimeo.md"
+    tags: [creative, video, attention, drop-off]
+
+  - id: "HEUR-NS-013"
+    title: "50% of Conversion Rate = Creative"
+    description: "Over 50% of the actual conversion rate is based upon the creative that you're going to run. Creative quality is the single biggest lever for conversion performance."
+    source_file: "transcription_pdf_13-Nick_Lesson_13.md"
+    tags: [creative, conversion-rate, impact]
+
+  - id: "HEUR-NS-014"
+    title: "$5,000 Minimum Spend to Validate Creative"
+    description: "Proven prospecting creative has spent at least $5,000 and is proven to convert cold traffic. Below this threshold, there isn't enough data to declare creative as winning."
+    source_file: "transcription_pptx_02-Top_Converting_Facebook_Ads__Nick_Shackelford_.md"
+    tags: [creative-validation, minimum-spend, threshold]
+
+  - id: "HEUR-NS-015"
+    title: "$10 Budget for DCT Testing"
+    description: "For Dynamic Creative Testing (urgent testing), use a $10/day budget per ad set. You're not spending a lot because all you want to see is if there's a little bit of smoke - just drumming up interest to determine direction."
+    source_file: "transcription_mp4_09-Shack-L8-Urgent-Testing-DCT-V3_from_Foundr_on_Vimeo.md"
+    tags: [dct, budget, testing, low-budget]
+
+  - id: "HEUR-NS-016"
+    title: "$20 Max Budget for Audience Testing"
+    description: "For low-budget audience testing (when you have proven creative and want more scale), no more than $20 per audience ad set. All you're trying to do is prove concept and scale within the audiences."
+    source_file: "transcription_mp4_11-Prospecting-_Audience_Testing_-_Foundr_Premium.md"
+    tags: [audience-testing, budget, low-budget]
+
+  - id: "HEUR-NS-017"
+    title: "CTR is the Biggest Indicator of Interest"
+    description: "Click-through rate (Link) is the biggest indicator of whether there is interest worth exploring. In DCT testing, filter results by CTR to find winning angles. Lowest CTR = angle people don't care about."
+    source_file: "transcription_mp4_09-Shack-L8-Urgent-Testing-DCT-V3_from_Foundr_on_Vimeo.md"
+    tags: [ctr, interest-indicator, testing]
+
+  - id: "HEUR-NS-018"
+    title: "1.3%+ CTR is Great for Testing"
+    description: "In DCT creative testing, a 1.3% CTR (Link) and above is great for an account. Example: smell angle had 1.3% and 1.58% CTR winners, while 0.3% CTR was declared not working."
+    source_file: "transcription_mp4_09-Shack-L8-Urgent-Testing-DCT-V3_from_Foundr_on_Vimeo.md"
+    tags: [ctr, benchmark, dct]
+
+  - id: "HEUR-NS-019"
+    title: "$3 CPC = Not Working"
+    description: "A $3 cost per click (Link) is too high and indicates the angle isn't resonating. This was flagged alongside a 0.3% CTR as a clear signal the angle needs to be abandoned."
+    source_file: "transcription_mp4_09-Shack-L8-Urgent-Testing-DCT-V3_from_Foundr_on_Vimeo.md"
+    tags: [cpc, benchmark, failure-indicator]
+
+  - id: "HEUR-NS-020"
+    title: "2x Cost Increase 2017-2018 for Same Audiences"
+    description: "The same exact product to a similar audience has cost almost 2x from 2017 to 2018. CAC is consistently rising year over year, requiring constant innovation in creative and targeting."
+    source_file: "transcription_mp4_02-Setup-_Getting_Smarter_About_Facebook_Ads.md"
+    tags: [cac-trend, rising-costs, year-over-year]
+
+  - id: "HEUR-NS-021"
+    title: "1-2 Week Timeframe for Results"
+    description: "More often than not, it's going to take 1-2 weeks to see things providing the scale that you want. Instant results are possible with the correct framework, but the norm is 1-2 weeks."
+    source_file: "transcription_mp4_02-Setup-_Getting_Smarter_About_Facebook_Ads.md"
+    tags: [timeframe, expectations, results]
+
+  - id: "HEUR-NS-022"
+    title: "5x ROAS = Low Budget Audience Test is Working"
+    description: "In audience testing with proven creative, a 5x ROAS is a strong indicator that things are working and the audience is viable for scaling. When seen at $20/day budget, it validates the audience."
+    source_file: "transcription_mp4_11-Prospecting-_Audience_Testing_-_Foundr_Premium.md"
+    tags: [roas, audience-testing, validation]
+
+  - id: "HEUR-NS-023"
+    title: "3x Return = Successful Product Launch"
+    description: "A 3x return on a mix of prospecting and remarketing audiences constitutes a successful product launch for brands like Posh Peanut that launch bi-weekly."
+    source_file: "transcription_mp4_12-Shack-L11-Product_Launch-V3_from_Foundr_on_Vimeo.md"
+    tags: [product-launch, roas, success-metric]
+
+  - id: "HEUR-NS-024"
+    title: "5x ROAS on Remarketing = Winning"
+    description: "A 5x ROAS on remarketing (bottom funnel with DPA or direct) is a solid indicator of a converting remarketing setup. Example: 15% off for first-time buyers converting at 5x."
+    source_file: "transcription_mp4_16-Shack-L15-Re-marketing-V3_from_Foundr_on_Vimeo.md"
+    tags: [roas, remarketing, bottom-funnel]
+
+  - id: "HEUR-NS-025"
+    title: "30-Day Website Visitor Window for Re-engagement"
+    description: "Use 30-day website visitor and add-to-cart audiences for remarketing campaigns. For re-engagement, use up to 365-day engagement audiences on Facebook/Instagram."
+    source_file: "transcription_mp4_15-Shack-L14-Re-engagement-V3_from_Foundr_on_Vimeo.md"
+    tags: [audience-windows, remarketing, re-engagement]
+
+  - id: "HEUR-NS-026"
+    title: "Landing Page View vs Click Cost Discrepancy = Site Speed Issue"
+    description: "If there's too big a discrepancy between cost per click and cost per landing page view, you have a site speed problem that needs addressing. This gap indicates people are clicking but the page isn't loading."
+    source_file: "transcription_mp4_05-Shack-L4-Key_Terms-V3_from_Foundr_on_Vimeo.md"
+    tags: [site-speed, landing-page, diagnostics]
+
+  - id: "HEUR-NS-027"
+    title: "Unique Metrics Over Standard Metrics"
+    description: "Always use unique metrics (unique add to carts, unique purchases, unique checkouts) over standard ones. Facebook sometimes misreports or overclaims conversions. Unique is more closely aligned to what's actually happening in Shopify."
+    source_file: "transcription_mp4_03-Foundations__Part_A_-_Account_Overview__Dashboard_View__Naming_Conventions__Success_Correlations.md"
+    tags: [metrics, unique, accuracy]
+
+  - id: "HEUR-NS-028"
+    title: "Delayed Attribution Multiplier: 1.5x for Prospecting"
+    description: "Typical Delayed Attribution Multiplier for prospecting (1-day vs 28-day) is approximately 1.1x-1.55x. Meaning your 1-day ROAS will be 1.1-1.55 times better when viewed on 28-day window. Example showed 1.55x multiplier."
+    source_file: "transcription_xlsx_04-Delayed_Attribution_Calculator_-_goes_with_lesson_4___Foundr.md"
+    tags: [dam, attribution, prospecting]
+
+  - id: "HEUR-NS-029"
+    title: "Delayed Attribution Multiplier: 1.5-1.6x for Remarketing"
+    description: "Typical DAM for remarketing (1-day vs 28-day) is approximately 1.5-1.6x. Remarketing has a higher DAM than prospecting because these audiences take longer to convert but eventually do at higher rates."
+    source_file: "transcription_xlsx_04-Delayed_Attribution_Calculator_-_goes_with_lesson_4___Foundr.md"
+    tags: [dam, attribution, remarketing]
+
+  - id: "HEUR-NS-030"
+    title: "Prospecting/Remarketing Spend Distribution: 74/26"
+    description: "In the auto-pull attribution calculator example, the account spend distribution was 74.5% prospecting / 25.5% remarketing over 1 month. This aligns with the 80/20 heuristic as a practical benchmark."
+    source_file: "transcription_xlsx_04-Delayed_Attribution_Calculator_-_goes_with_lesson_4___Foundr.md"
+    tags: [spend-distribution, prospecting, remarketing]
+
+  - id: "HEUR-NS-031"
+    title: "Posh Peanut Grows 980 Followers/Day Organically"
+    description: "Posh Peanut grows 980 followers per day organically. These followers automatically become targetable re-engagement audiences. Not necessarily looking to buy, but they're now in an audience."
+    source_file: "transcription_mp4_15-Shack-L14-Re-engagement-V3_from_Foundr_on_Vimeo.md"
+    tags: [organic-growth, followers, re-engagement]
+
+  - id: "HEUR-NS-032"
+    title: "Two Frames Per Second Minimum for Video"
+    description: "In converting video creative, use at least 2 frames (scene transitions) per second to maintain attention. Quick transitions between value props keep viewers engaged."
+    source_file: "transcription_mp4_13-Shack-L12-Creative_That_Converts-V3_from_Foundr_on_Vimeo.md"
+    tags: [video-creative, pacing, transitions]
+
+  - id: "HEUR-NS-033"
+    title: "5%-15% Discount Range for Remarketing"
+    description: "For remarketing to convert website visitors, use 5%-15% discount range. 15% off for first-time buyers is a common winning approach. Don't worry about cheapening the brand at this funnel stage - it's about getting them in and increasing LTV."
+    source_file: "transcription_mp4_16-Shack-L15-Re-marketing-V3_from_Foundr_on_Vimeo.md"
+    tags: [discounts, remarketing, first-time-buyers]
+
+  - id: "HEUR-NS-034"
+    title: "Low Remarketing Budget vs Prospecting Budget"
+    description: "Remarketing budgets should be significantly lower than prospecting. Don't need high spend at bottom of funnel - want most cost-effective purchases, not high volume. Let the proven offer and audience do the work."
+    source_file: "transcription_mp4_16-Shack-L15-Re-marketing-V3_from_Foundr_on_Vimeo.md"
+    tags: [budget, remarketing, efficiency]
+
+  - id: "HEUR-NS-035"
+    title: "Google Analytics Time Lag for Audience Window Setup"
+    description: "Jump into Google Analytics and check your time lag (how long it takes someone to make a purchase) to determine what audience windows to build on Facebook. The time lag directly informs your view content, ATC, and IC audience durations."
+    source_file: "transcription_mp4_16-Shack-L15-Re-marketing-V3_from_Foundr_on_Vimeo.md"
+    tags: [google-analytics, time-lag, audience-windows]
+
+# ============================================================================
+# L4 - FRAMEWORKS (Structured Approaches)
+# ============================================================================
+L4_FRAMEWORKS:
+  - id: "FW-NS-001"
+    title: "3-Tier Funnel Structure"
+    description: "Account must be segmented into 3 tiers: (1) Prospecting - cold, top of funnel, new customer acquisition (80% of spend). (2) Re-engagement - engaged but haven't visited website (liked, commented, watched video, followed). (3) Remarketing - visited website, added to cart, initiated checkout. Each tier has different audiences, creative, and goals."
+    source_file: "transcription_mp4_03-Foundations__Part_A_-_Account_Overview__Dashboard_View__Naming_Conventions__Success_Correlations.md"
+    tags: [funnel-structure, prospecting, re-engagement, remarketing]
+
+  - id: "FW-NS-002"
+    title: "3 Testing Frameworks (Troubleshooting Triangle)"
+    description: "When performance drops, diagnose in this order: (1) Creative Refresh - fresh new angle, new video/images to attract different consumers. (2) Website CRO - upgrading page load time, A/B testing site features, post-click landing optimization. (3) Offer Rotation/Creation - showcasing product differently, restructuring products in unique/fresh way. 'What drives the most impact with the least amount of effort?'"
+    source_file: "transcription_mp4_08-Shack-L7-3-Testing-Frameworks-V3_from_Foundr_on_Vimeo.md"
+    tags: [troubleshooting, testing, creative, website, offers]
+
+  - id: "FW-NS-003"
+    title: "3 Prospecting Account Structures"
+    description: "Three account structures depending on brand stage: (1) Cold Traffic Focused - for brands spending on multiple channels, Facebook's role is purely new customer acquisition. (2) New Launch - for brands still discovering their avatar and VIP customer, testing new angles. (3) Scaling - things are working, figured out creative and audiences, need more volume through duplication."
+    source_file: "transcription_mp4_07-Shack-L6-3_Prospecting_Structures-V3_from_Foundr_on_Vimeo.md"
+    tags: [account-structure, prospecting, brand-stages]
+
+  - id: "FW-NS-004"
+    title: "Success Metrics Correlation Spreadsheet"
+    description: "Export ad-level data as CSV from Facebook, paste into correlation spreadsheet. Measures correlations between CTR/CPC/CPATC/CPIC/CPA and ROAS. Includes conversion rates (Click->ATC, Click->IC, Click->Purchase, ATC->IC, ATC->Purchase, IC->Purchase), AOV calculation, and Target Calculator (input ROAS target, outputs target CPATC/CPIC/CPA)."
+    source_file: "transcription_xlsx_03-Success_Metrics_Spreadsheet.md"
+    tags: [spreadsheet, correlations, metrics, calculator]
+
+  - id: "FW-NS-005"
+    title: "Delayed Attribution Calculator (DAM Framework)"
+    description: "Two versions: Self-Done (manual) and Auto-Pull. Steps: (1) Set data preset to Last X Days, (2) Filter prospecting campaigns, (3) Breakdown ROAS by 1-Day View, 1-Day Click, 7-Day Click, 28-Day Click, (4) Plug data into calculator, (5) Input Success Metric (desired ROAS), (6) Outputs: DAM (projection metric) and Target ROAS for 1-day and 7-day lookback windows."
+    source_file: "transcription_xlsx_04-Delayed_Attribution_Calculator_-_goes_with_lesson_4___Foundr.md"
+    tags: [attribution, calculator, dam, roas-targets]
+
+  - id: "FW-NS-006"
+    title: "Naming Convention Framework"
+    description: "Format: [Brand] - [Type of Ad] - [Funnel Position] - [Product] - [Discount/Offer] - [Audience Type] - [Campaign Type] - [Launch Date]. Example: 'Structure Social, 1DC, Prospecting, Sheets, 20% Off, CBO, New Content, [Date]'. Purpose: navigate quickly, communicate with team, identify what's running without clicking into campaigns."
+    source_file: "transcription_mp4_07-Shack-L6-3_Prospecting_Structures-V3_from_Foundr_on_Vimeo.md"
+    tags: [naming-conventions, organization, account-structure]
+
+  - id: "FW-NS-007"
+    title: "Prospecting Spend Guidelines Decision Tree"
+    description: "Step 1: Did ad spend 1x AOV? NO -> Let it continue. YES -> Step 2: Did it get a purchase? NO -> Check CPATC and CPIC against correlation targets. If on target, let it continue. If off target, kill it. YES -> Step 3: Compare CPA, CPIC, CPATC against all success correlation metrics at 2x, 3x, 4x AOV thresholds. If metrics hold, keep running. If not, kill now."
+    source_file: "transcription_mp4_14-Shack-L13-Spend_Guidelines-V3_from_Foundr_on_Vimeo.md"
+    tags: [decision-tree, spend-guidelines, kill-decisions]
+
+  - id: "FW-NS-008"
+    title: "Prospecting Scorecard"
+    description: "5-point self-assessment: (1) Are you showcasing the product in your ad? (2) Are you showcasing the use? (3) Are you walking through the benefits? (4) Can a prospect easily locate their product when clicking? (5) Can you navigate your website easily? Score: 5=Excellent, 4=Good, 3=Average, 2=Mediocre, 1=Poor."
+    source_file: "transcription_pdf_06-Nick_Lesson_6.md"
+    tags: [scorecard, self-assessment, prospecting]
+
+  - id: "FW-NS-009"
+    title: "Dashboard Column Setup (Left to Right)"
+    description: "Optimal Facebook Ads Manager column setup from left to right: Ad Account Name -> Amount Spent -> Budget -> Link (where ad links to) -> Purchase Conversion Value -> Purchase ROAS -> Cost per Unique Purchase -> Unique Purchases -> Cost per Unique Checkout -> Unique Checkouts -> Cost per Unique Add to Cart -> Unique Add to Carts -> Cost per Unique Landing Page View -> Unique Landing Page Views -> CTR (Link) -> CPC -> CPM."
+    source_file: "transcription_mp4_03-Foundations__Part_A_-_Account_Overview__Dashboard_View__Naming_Conventions__Success_Correlations.md"
+    tags: [dashboard, column-setup, ads-manager]
+
+  - id: "FW-NS-010"
+    title: "Creative Conversion Framework"
+    description: "Every prospecting creative must answer 3 questions: (1) Who is this ad for? (2) Will they click? (3) What will they buy? All content must be: Transactionally focused and Problem Solving. Must include value proposition in multiple formats: 30 sec, 15 sec, 5 sec, IG Story dimensions, still images, GIFs."
+    source_file: "transcription_pptx_02-Top_Converting_Facebook_Ads__Nick_Shackelford_.md"
+    tags: [creative, conversion, content-strategy]
+
+  - id: "FW-NS-011"
+    title: "High Impact / Low Effort Quadrant Assessment"
+    description: "Before making changes, map strategies on a 2x2 matrix: Q1 = High Impact/Low Effort (DO THIS FIRST), Q2 = Low Impact/Low Effort, Q3 = High Impact/High Effort, Q4 = Low Impact/High Effort. Always ask: 'What is the one thing that will drive the most impact with the least amount of effort?'"
+    source_file: "transcription_pdf_08-Nick_Lesson_8.md"
+    tags: [prioritization, impact-effort, strategy]
+
+  - id: "FW-NS-012"
+    title: "Audience Stack Framework"
+    description: "Stack audiences in ad sets by layering interest targeting with engaged shoppers behavioral overlay. Example: Blue collar + Country music + Horseback riding + Engaged shoppers. Engaged shoppers = anyone who clicked 'Shop Now' CTA = higher intent consumer. Always include exclusions (30-day site visitors, purchasers)."
+    source_file: "transcription_mp4_10-Shack-L9-Persona-Angle-Test-V3_from_Foundr_on_Vimeo.md"
+    tags: [audience-stacking, targeting, engaged-shoppers, exclusions]
+
+  - id: "FW-NS-013"
+    title: "Re-engagement Audience Building Framework"
+    description: "Go to Audiences -> Create Custom Audience -> Choose source: Facebook Business Page (visited, engaged, messaged, saved post) or Instagram Business Page (visited, engaged, messaged, saved post). Set window to 365 days. These are warm leads who've shown interest but haven't visited your website."
+    source_file: "transcription_mp4_15-Shack-L14-Re-engagement-V3_from_Foundr_on_Vimeo.md"
+    tags: [re-engagement, custom-audiences, audience-building]
+
+  - id: "FW-NS-014"
+    title: "Remarketing Exclusion Ladder"
+    description: "Segment remarketing by funnel stage with strict exclusions: View Content (30 days) - exclude IC, ATC, and Purchasers. Add to Cart (30 days) - exclude IC and Purchasers (don't need to exclude VC since if they added to cart, they viewed). Initiate Checkout - exclude Purchasers only. Each segment gets different messaging and urgency levels."
+    source_file: "transcription_mp4_16-Shack-L15-Re-marketing-V3_from_Foundr_on_Vimeo.md"
+    tags: [remarketing, exclusions, segmentation, funnel]
+
+  - id: "FW-NS-015"
+    title: "Product Launch Structure"
+    description: "For brands launching products frequently (bi-weekly): (1) Use ONLY proven creative styles and winning audiences, (2) Target WCA (website visitors 30 days) + Add to Cart 30 days, (3) Use trigger words: 'Limited Edition', 'Limited Stock', 'Just Dropped', (4) Mix of prospecting + remarketing audiences, (5) If product doesn't sell, don't restock - liquidate."
+    source_file: "transcription_mp4_12-Shack-L11-Product_Launch-V3_from_Foundr_on_Vimeo.md"
+    tags: [product-launch, limited-edition, proven-creative]
+
+  - id: "FW-NS-016"
+    title: "4 Business Element Inventory"
+    description: "When ad performance drops, assess which of 4 elements needs to change: (1) Audience - are you targeting the right people? (2) Creative - is the visual/copy resonating? (3) Product - is the offer compelling? (4) Budget - are you spending enough? These are the only 4 levers available."
+    source_file: "transcription_mp4_07-Shack-L6-3_Prospecting_Structures-V3_from_Foundr_on_Vimeo.md"
+    tags: [diagnostics, levers, optimization]
+
+# ============================================================================
+# L5 - METHODOLOGIES (Complete Step-by-Step Processes)
+# ============================================================================
+L5_METHODOLOGIES:
+  - id: "MET-NS-001"
+    title: "Dynamic Creative Testing (DCT) Methodology"
+    description: "Complete DCT process for urgent learning: (1) Identify top value propositions from Amazon reviews and customer emails, (2) Choose angle (e.g., smell, wash less, comfort), (3) Create two DCT campaigns per angle: one for CREATIVE testing (same copy, rotate images/videos), one for COPY testing (same creative, rotate text), (4) Set budget at $10/day per ad set, (5) Use broad audience (not spending enough for targeting to matter), (6) Analyze: Go to Breakdown -> By Dynamic Creative Element -> Text or Image/Video, (7) Filter by CTR to find winners, (8) Combine: best creative + best copy from winning angle = your next campaign."
+    source_file: "transcription_mp4_09-Shack-L8-Urgent-Testing-DCT-V3_from_Foundr_on_Vimeo.md"
+    tags: [dct, dynamic-creative, testing, urgent-testing]
+
+  - id: "MET-NS-002"
+    title: "Persona/Angle Test Methodology"
+    description: "When DCT is too intense and you need VIP customer discovery: (1) Research target personas through social data and customer reviews, (2) Create audience stacks per persona (e.g., Country: blue collar + country music + horseback riding + engaged shoppers), (3) Develop persona-specific copy that matches the audience's identity, (4) Use best-performing existing creative, (5) Always include 30-day site visitor exclusions, (6) Run with low budgets, (7) Analyze: Which persona has highest AOV and longest LTV? (8) Scale the winning persona."
+    source_file: "transcription_mp4_10-Shack-L9-Persona-Angle-Test-V3_from_Foundr_on_Vimeo.md"
+    tags: [persona-testing, angle-testing, vip-customer, audience-discovery]
+
+  - id: "MET-NS-003"
+    title: "Low-Budget Audience Testing Methodology"
+    description: "When creative is proven and you need more scale: (1) Identify your proven creative (the one that's already converting), (2) Keep the proven offer, (3) Create congruent interest-based audiences related to your product category (e.g., for makeup brush: Clarisonic, MAC Cosmetics, Birchbox, Clinique), (4) Set budget to max $20/ad set, (5) Run proven creative against each audience, (6) A 5x ROAS validates the audience, (7) Scale winning audiences with higher budgets."
+    source_file: "transcription_mp4_11-Prospecting-_Audience_Testing_-_Foundr_Premium.md"
+    tags: [audience-testing, low-budget, scaling, proven-creative]
+
+  - id: "MET-NS-004"
+    title: "Success Metrics Analysis Methodology"
+    description: "Daily/weekly ad account analysis process: (1) Go to Account Overview tab (forest view) for diagnostics, (2) Filter by funnel position using naming conventions, (3) Set dashboard columns in optimal order (ROAS, cost per purchase, cost per ATC, cost per IC, etc.), (4) Export table data as CSV, (5) Paste into Success Metrics Spreadsheet, (6) Review correlations: any metric with +/- 0.5 correlation to ROAS is significant, (7) Check conversion rates (Click->ATC, ATC->IC, IC->Purchase), (8) Use Target Calculator: input ROAS target -> get target CPATC, CPIC, CPA, (9) Make kill/scale decisions against these targets."
+    source_file: "transcription_mp4_03-Foundations__Part_A_-_Account_Overview__Dashboard_View__Naming_Conventions__Success_Correlations.md"
+    tags: [analysis, spreadsheet, correlations, decision-making]
+
+  - id: "MET-NS-005"
+    title: "Delayed Attribution Calculator Methodology"
+    description: "Complete DAM calculation process: (1) Log into FB ad account, set data to Last X Days, (2) Filter for prospecting campaigns only, (3) Set reporting columns to ROAS for 1-Day View, 1-Day Click, 7-Day Click, 28-Day Click, (4) Plug 1/1/7/28 return data into calculator, (5) Input Success Metric (desired ROAS, typically 2x), (6) Calculator outputs: DAM (1-Day vs 28-Day multiplier, e.g., 1.55x) and Target ROAS for 1-day lookback and 7-day lookback, (7) Repeat for remarketing campaigns separately, (8) Use Target ROAS as daily decision metric: if 1-day ROAS exceeds Target ROAS, the campaign will likely hit Success Metric on 28-day window."
+    source_file: "transcription_xlsx_04-Delayed_Attribution_Calculator_-_goes_with_lesson_4___Foundr.md"
+    tags: [dam, attribution, calculator, roas-targets, methodology]
+
+  - id: "MET-NS-006"
+    title: "Creative That Converts Production Methodology"
+    description: "Framework for producing converting creative: (1) Identify brand value propositions from reviews, comments, and customer data, (2) Determine if each value prop can be told in 30s, 15s, 5s, IG Story, still image, GIF, (3) Feature best-selling product prominently, (4) Show product within first 3 seconds, (5) Include people enjoying the product with smiling faces, (6) Use text overlays to address common objections, (7) Include upbeat music, (8) Leverage real customer reviews as copy, (9) Use at least 2 frame transitions per second, (10) Show product variations (colors, styles, on different people), (11) End with clear call to action."
+    source_file: "transcription_mp4_13-Shack-L12-Creative_That_Converts-V3_from_Foundr_on_Vimeo.md"
+    tags: [creative-production, video, content-creation]
+
+  - id: "MET-NS-007"
+    title: "Re-engagement Campaign Setup Methodology"
+    description: "Complete re-engagement campaign build: (1) Go to Audiences -> Create Custom Audience, (2) Build FB Page Engaged (365 days) audience, (3) Build IG Page Engaged (365 days) audience, (4) Build Video Viewers audiences (various durations), (5) Create campaigns targeting these warm audiences, (6) Creative approach: UGC content, customer testimonials, carousel ads with reviews, authentic face-to-camera videos, (7) Speak to value props, let customers do the highlighting, (8) Include discount codes (BTS, 15% off), (9) Measure: are you clear about why people should use your product? Are customers doing the talking?"
+    source_file: "transcription_mp4_15-Shack-L14-Re-engagement-V3_from_Foundr_on_Vimeo.md"
+    tags: [re-engagement, campaign-setup, ugc, social-proof]
+
+  - id: "MET-NS-008"
+    title: "DPA (Dynamic Product Ads) Remarketing Methodology"
+    description: "Complete DPA remarketing setup for multi-SKU stores: (1) Build product feed using Flexify or similar data feed builder, (2) Create campaign with Catalog Sales objective, (3) Segment audiences: View Content 30 days (exclude IC, ATC, Purchasers), Add to Cart (exclude IC, Purchasers), Initiate Checkout (exclude Purchasers), (4) Set low budgets (significantly less than prospecting), (5) Facebook auto-creates ads from catalog showing products users viewed, (6) Add discount overlay (5-15% off), (7) Use messaging: 'New [Season] delivered right to your door. Use code X', (8) Check Google Analytics time lag to determine audience window durations."
+    source_file: "transcription_mp4_16-Shack-L15-Re-marketing-V3_from_Foundr_on_Vimeo.md"
+    tags: [dpa, remarketing, catalog-sales, multi-sku]
+
+  - id: "MET-NS-009"
+    title: "Non-DPA Remarketing Methodology"
+    description: "For single-SKU or brands wanting custom remarketing creative: (1) Build audiences: Website Visitors 30 days, Add to Cart 30 days, Initiate Checkout 30 days, (2) Apply strict exclusion ladder (each level excludes deeper funnel actions), (3) Creative for each level: View Content -> show product benefits + offer, Add to Cart -> urgency + discount (15% off), Initiate Checkout -> direct 'complete your purchase' + stronger offer, (4) Keep budgets lower than prospecting, (5) Test multiple creative variations at each level, (6) Avoid over-remarketing to purchasers to prevent audience fatigue."
+    source_file: "transcription_mp4_16-Shack-L15-Re-marketing-V3_from_Foundr_on_Vimeo.md"
+    tags: [remarketing, non-dpa, exclusion-ladder, single-sku]
+
+  - id: "MET-NS-010"
+    title: "Complete Facebook Ad Account Scaling Methodology"
+    description: "End-to-end scaling framework: (1) Set up foundations: dashboard view, naming conventions, correlation spreadsheet, delayed attribution calculator, (2) Determine business model: Hero Product or Multi-SKU, (3) Run 3 Testing Frameworks to diagnose issues: Creative -> Website -> Offer, (4) Execute testing: DCT for urgent answers, Persona/Angle test for VIP discovery, Low-Budget Audience test for proven creative expansion, (5) Launch products using Proven+Proven model, (6) Scale via horizontal duplication of winning campaigns, (7) Build re-engagement funnel capturing social engagers, (8) Build remarketing funnel with exclusion ladder + DPA/non-DPA, (9) Use Spend Guidelines decision tree for daily kill/scale decisions, (10) Review correlation spreadsheet weekly. Bottom funnel profitability funds top funnel investment."
+    source_file: "transcription_mp4_16-Shack-L15-Re-marketing-V3_from_Foundr_on_Vimeo.md"
+    tags: [complete-methodology, scaling, full-funnel, end-to-end]
+
+# ============================================================================
+# 12 KEY METRICS (Reference)
+# ============================================================================
+key_metrics:
+  - acronym: "AOV"
+    name: "Average Order Value"
+    definition: "The average amount spent per purchase"
+  - acronym: "LTV"
+    name: "Lifetime Value"
+    definition: "The total value spent across a customer's life"
+  - acronym: "UATC"
+    name: "Unique Add To Cart"
+    definition: "The first step in the checkout process (unique)"
+  - acronym: "UIC"
+    name: "Unique Initiate Check Out"
+    definition: "The second step in the checkout process (unique)"
+  - acronym: "Outbound Click"
+    name: "Outbound Click"
+    definition: "Clicks that take you off of Facebook owned properties"
+  - acronym: "ROAS"
+    name: "Return On Ad Spend"
+    definition: "The money you receive derived from spending on advertising"
+  - acronym: "CAC"
+    name: "Cost of Acquiring a Customer"
+    definition: "The amount of dollars spent to convince a consumer to buy"
+  - acronym: "CTR (Link)"
+    name: "Click Through Rate (Link)"
+    definition: "The % of times people who saw and clicked on your link"
+  - acronym: "CPM"
+    name: "Cost Per 1000 Impressions"
+    definition: "The cost to deliver our ad for 1000 impressions"
+  - acronym: "PCV"
+    name: "Purchase Conversion Value"
+    definition: "The revenue seen from Facebook specific purchases"
+  - acronym: "ULPV"
+    name: "Unique Landing Page View"
+    definition: "The number of consumers who made it to your landing page"
+  - acronym: "UCPLV"
+    name: "Unique Cost Per Landing Page View"
+    definition: "The average cost per each landing page visit"
+
+# ============================================================================
+# SUMMARY COUNTS
+# ============================================================================
+summary:
+  L1_PHILOSOPHIES: 13
+  L2_MENTAL_MODELS: 13
+  L3_HEURISTICS: 35
+  L4_FRAMEWORKS: 16
+  L5_METHODOLOGIES: 10
+  key_metrics: 12
+  total_elements: 87
+  total_with_metrics: 99

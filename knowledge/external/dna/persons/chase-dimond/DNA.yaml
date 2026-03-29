@@ -1,0 +1,1391 @@
+# ============================================================================
+# CHASE DIMOND - DNA SCHEMA
+# ============================================================================
+# Expert: Chase Dimond (Boundless Labs)
+# Domain: Ecommerce Email Marketing, Klaviyo, Email Automation
+# ============================================================================
+
+person: chase-dimond
+full_name: "Chase Dimond"
+version: "v1"
+course: "Foundr - Ecommerce Masters 2020"
+module: "Module 5 - Advanced Email Marketing for Ecommerce + Bonuses"
+total_files: 94
+extraction_date: "2026-03-29"
+total_elements: 156
+
+bio: |
+  Chase Dimond is the co-founder of Boundless Labs, an ecommerce email marketing
+  agency working with 2-dozen clients doing 6-8 figures annually. Since launch in
+  2018, he has helped send hundreds of millions of emails resulting in over $20
+  million in attributable revenue. His clients typically see 25-30% of their total
+  revenue from email. Specialist in Klaviyo, email flows, automations, and
+  advanced segmentation for ecommerce brands.
+
+# ============================================================================
+# L1 - PHILOSOPHIES (Core Beliefs)
+# ============================================================================
+L1_PHILOSOPHIES:
+  count: 18
+  elements:
+    - id: "FIL-CD-001"
+      title: "Email Is the Most Underrated Channel"
+      description: "Email marketing is currently the most underrated and most important asset to any ecommerce brand. You actually have to have it to scale to seven figures."
+      source_file: "transcription_mp4_01-Chase-L1-Intro-V3_from_Foundr_on_Vimeo.md"
+      tags: [email-marketing, scaling, core-belief]
+
+    - id: "FIL-CD-002"
+      title: "Email Revenue Funds Growth"
+      description: "By having revenue from email that you've already acquired the subscriber with, that will allow you to reinvest into influencers, paid acquisition, SEO, you name it. Email is the fuel that funds all other channels."
+      source_file: "transcription_mp4_01-Chase-L1-Intro-V3_from_Foundr_on_Vimeo.md"
+      tags: [reinvestment, growth, email-revenue]
+
+    - id: "FIL-CD-003"
+      title: "Automation Over Manual"
+      description: "You absolutely have to use email automation to scale to seven figures. These emails will run on autopilot while you're sleeping, doing paid acquisition, or focusing on whatever you're focused on."
+      source_file: "transcription_pdf_01-Chase_Full_Workbook.md"
+      tags: [automation, scaling, flows]
+
+    - id: "FIL-CD-004"
+      title: "Simplicity First"
+      description: "You don't need technical capabilities to master email marketing. All you need is simple design and simple copy to get started. Once started, you can then focus on testing to optimize."
+      source_file: "transcription_mp4_01-Chase-L1-Intro-V3_from_Foundr_on_Vimeo.md"
+      tags: [simplicity, low-barrier, getting-started]
+
+    - id: "FIL-CD-005"
+      title: "Always Be Testing"
+      description: "Every storefront, every industry is different. Always test everything. What works for one client may not work for another. Testing is the only way to know what works best for your specific audience."
+      source_file: "transcription_mp4_04-Chase-L4-Abandoned_Cart-V3_from_Foundr_on_Vimeo.md"
+      tags: [testing, ab-testing, optimization]
+
+    - id: "FIL-CD-006"
+      title: "Squeeze Revenue from Existing Subscribers"
+      description: "Email is a really great channel to squeeze as much money out of your existing subscribers as possible. The tactics can help drive thousands of extra dollars per month in revenue."
+      source_file: "transcription_mp4_01-Chase-L1-Intro-V3_from_Foundr_on_Vimeo.md"
+      tags: [monetization, existing-subscribers, revenue]
+
+    - id: "FIL-CD-007"
+      title: "Multiple Touch Points Required"
+      description: "Oftentimes you need multiple touch points with customers to convert them. Single emails rarely convert - you need sequences that educate, nurture, and then convert."
+      source_file: "transcription_mp4_02-Chase-L2-Welcome_Series-V3_from_Foundr_on_Vimeo.md"
+      tags: [touch-points, nurturing, conversion]
+
+    - id: "FIL-CD-008"
+      title: "Trust Before Transaction"
+      description: "Build trust through leveraging testimonials, press features, celebrity partnerships, and customer reviews. Show people why they should trust you before asking for the sale."
+      source_file: "transcription_mp4_02-Chase-L2-Welcome_Series-V3_from_Foundr_on_Vimeo.md"
+      tags: [trust-building, social-proof, reviews]
+
+    - id: "FIL-CD-009"
+      title: "Let Brand Voice Shine"
+      description: "If your brand is fun and creative, let that expression flow through your emails. Don't be shy with comedy and humor. Subscribers need to understand and connect with your brand values."
+      source_file: "transcription_mp4_02-Chase-L2-Welcome_Series-V3_from_Foundr_on_Vimeo.md"
+      tags: [brand-voice, personality, tone]
+
+    - id: "FIL-CD-010"
+      title: "Protect the List"
+      description: "You work so hard to get people on your list. We want to retain them, convert them, and have them as customers for a long time. Avoid having them unsubscribe by not over-emailing."
+      source_file: "transcription_mp4_03-Chase-L3-Browse_Abandonment-V3_from_Foundr_on_Vimeo.md"
+      tags: [list-health, retention, unsubscribe-prevention]
+
+    - id: "FIL-CD-011"
+      title: "Focus on Selling Not Labels"
+      description: "Don't get hung up on whether something is a cross-sell or upsell. What matters is that you're selling. Focus on execution, not classification."
+      source_file: "transcription_mp4_08-Chase-L8-Reviews_Upsells_Cross-sells-V3_from_Foundr_on_Vimeo.md"
+      tags: [selling, pragmatism, execution]
+
+    - id: "FIL-CD-012"
+      title: "Reviews Then Sell"
+      description: "It's best practice to first ask for a review and then try to sell more. The order matters - gratitude and feedback before the next ask."
+      source_file: "transcription_pdf_01-Chase_Full_Workbook.md"
+      tags: [reviews, selling-sequence, post-purchase]
+
+    - id: "FIL-CD-013"
+      title: "Ignore the Unengaged"
+      description: "Effectively, you're going to ignore people that have been ignoring you. Unengaged subscribers add no value, cost money, and hurt deliverability. Clean your list proactively."
+      source_file: "transcription_mp4_10-Chase-L10-Breakup_Series-V3_from_Foundr_on_Vimeo.md"
+      tags: [list-hygiene, deliverability, sunset]
+
+    - id: "FIL-CD-014"
+      title: "Discounts Move the Needle"
+      description: "Discount codes really do help move the needle. Abandoned cart emails with coupon codes have above-average open and click-through rates. Don't be afraid to test them."
+      source_file: "transcription_mp4_05-Chase-L5-Abandoned_Checkout-V3_from_Foundr_on_Vimeo.md"
+      tags: [discounts, coupons, conversion]
+
+    - id: "FIL-CD-015"
+      title: "Personalization Drives Conversion"
+      description: "When you take care of your VIP customers with personalized content, they take care of you. Speaking directly to who you know as your best customers dramatically increases conversion rates."
+      source_file: "transcription_mp4_11-Chase-B3-VIP_Customization-V3_from_Foundr_on_Vimeo.md"
+      tags: [personalization, vip, segmentation]
+
+    - id: "FIL-CD-016"
+      title: "Work Smarter Not Harder"
+      description: "The theme of scaling is not doing email marketing at a basic level. It's jumping in with advanced tips to avoid wasting time and money as you grow. Work smarter, not harder."
+      source_file: "transcription_mp4_13-Chase-B5-Klaviyo_Tech_Setup-V3_from_Foundr_on_Vimeo.md"
+      tags: [efficiency, scaling, advanced-tactics]
+
+    - id: "FIL-CD-017"
+      title: "Data from Many Clients Beats One Store"
+      description: "While you might have data off your own stores or one or two friends' stores, having data from over two dozen ecommerce brands gives much stronger patterns and benchmarks."
+      source_file: "transcription_mp4_01-Chase-L1-Intro-V3_from_Foundr_on_Vimeo.md"
+      tags: [data-driven, benchmarks, experience]
+
+    - id: "FIL-CD-018"
+      title: "Prioritize Funnel Position"
+      description: "Always prioritize email flows that are further down the funnel. Abandoned checkout > abandoned cart > browse abandonment. The closer to purchase, the higher the priority."
+      source_file: "transcription_mp4_03-Chase-L3-Browse_Abandonment-V3_from_Foundr_on_Vimeo.md"
+      tags: [funnel, prioritization, flow-hierarchy]
+
+# ============================================================================
+# L2 - MENTAL MODELS (How He Thinks)
+# ============================================================================
+L2_MENTAL_MODELS:
+  count: 20
+  elements:
+    - id: "MM-CD-001"
+      title: "Campaigns vs Automations Distinction"
+      description: "Automations are actions users take that trigger content (e.g., entering email triggers welcome series). Campaigns are manual broadcasts (Valentine's Day, Black Friday). Both needed, different purposes."
+      source_file: "transcription_mp4_01-Chase-L1-Intro-V3_from_Foundr_on_Vimeo.md"
+      tags: [campaigns, automations, fundamentals]
+
+    - id: "MM-CD-002"
+      title: "Pre-Purchase vs Post-Purchase Split"
+      description: "All email flows divide into pre-purchase (welcome, browse, cart, checkout) and post-purchase (thank you, review, cross-sell, winback, replenishment, breakup). Different goals for each phase."
+      source_file: "transcription_mp4_02-Chase-L2-Welcome_Series-V3_from_Foundr_on_Vimeo.md"
+      tags: [flow-architecture, customer-journey, pre-post-purchase]
+
+    - id: "MM-CD-003"
+      title: "Three Abandonment Levels Model"
+      description: "Three distinct types of abandonment: Browse (viewed product, low intent), Cart (added to cart, medium intent), Checkout (started checkout, high intent). Each requires different treatment and has different conversion rates."
+      source_file: "transcription_mp4_03-Chase-L3-Browse_Abandonment-V3_from_Foundr_on_Vimeo.md"
+      tags: [abandonment, intent-levels, funnel]
+
+    - id: "MM-CD-004"
+      title: "Flow Filters as Traffic Controllers"
+      description: "Flow filters act as traffic controllers - they prevent overlap between flows. If someone purchases, kick them to post-purchase. If someone starts checkout, don't send browse emails. Prioritize deeper funnel actions."
+      source_file: "transcription_mp4_03-Chase-L3-Browse_Abandonment-V3_from_Foundr_on_Vimeo.md"
+      tags: [flow-filters, overlap-prevention, prioritization]
+
+    - id: "MM-CD-005"
+      title: "Smart Sending Window"
+      description: "Smart sending prevents email fatigue by setting minimum hours between emails (typically 16-24 hours). If someone gets a campaign email, they won't also get a flow email on the same day."
+      source_file: "transcription_mp4_03-Chase-L3-Browse_Abandonment-V3_from_Foundr_on_Vimeo.md"
+      tags: [smart-sending, email-frequency, fatigue-prevention]
+
+    - id: "MM-CD-006"
+      title: "Trigger-Based Thinking"
+      description: "Everything for all emails is based off triggers. Someone views a product, adds to cart, starts checkout, places order - each action triggers a different flow. Think in terms of customer actions, not calendar dates."
+      source_file: "transcription_mp4_03-Chase-L3-Browse_Abandonment-V3_from_Foundr_on_Vimeo.md"
+      tags: [triggers, event-based, automation]
+
+    - id: "MM-CD-007"
+      title: "Three Elements of Email Opens"
+      description: "The from name, subject line, and preheader text are the only three things people see before opening. They work hand in hand. Don't mislead but don't be boring - find the happy medium."
+      source_file: "transcription_mp4_04-Chase-L4-Abandoned_Cart-V3_from_Foundr_on_Vimeo.md"
+      tags: [open-rate, subject-line, preheader, from-name]
+
+    - id: "MM-CD-008"
+      title: "Scarcity and Urgency Driver"
+      description: "Create urgency through time-limited discount codes. Even if the discount stays valid, mentioning expiration drives conversions. 'Two hours left' or 'last chance' framing increases purchase intent."
+      source_file: "transcription_mp4_03-Chase-L3-Browse_Abandonment-V3_from_Foundr_on_Vimeo.md"
+      tags: [scarcity, urgency, discount-codes, conversion]
+
+    - id: "MM-CD-009"
+      title: "Conditional Split Testing Model"
+      description: "Use conditional splits to A/B test time delays, subject lines, and content variations. Split traffic percentage-based (50/50 initially, then shift to 75/25 toward the winner)."
+      source_file: "transcription_mp4_03-Chase-L3-Browse_Abandonment-V3_from_Foundr_on_Vimeo.md"
+      tags: [ab-testing, conditional-split, optimization]
+
+    - id: "MM-CD-010"
+      title: "Dynamic Product Rendering"
+      description: "Always dynamically display the product the customer was viewing/added to cart. This personalization reminds people exactly what interested them and makes it easy to return and purchase."
+      source_file: "transcription_mp4_03-Chase-L3-Browse_Abandonment-V3_from_Foundr_on_Vimeo.md"
+      tags: [dynamic-content, personalization, product-rendering]
+
+    - id: "MM-CD-011"
+      title: "Post-Purchase Relationship Building"
+      description: "Post-purchase is about reducing buyer's remorse, building loyalty, getting reviews, driving repeat purchases, and creating brand advocates. It extends the customer relationship far beyond the first sale."
+      source_file: "transcription_mp4_06-Chase-L6-Post_Purchase_Primer-V3_from_Foundr_on_Vimeo.md"
+      tags: [post-purchase, loyalty, lifetime-value]
+
+    - id: "MM-CD-012"
+      title: "Transactional Emails as Marketing Opportunities"
+      description: "Transactional emails (order confirmation, shipping, delivery) get very high open rates. Use them as marketing opportunities to include additional content, cross-sells, and referral invites."
+      source_file: "transcription_mp4_06-Chase-L6-Post_Purchase_Primer-V3_from_Foundr_on_Vimeo.md"
+      tags: [transactional-emails, open-rates, opportunity]
+
+    - id: "MM-CD-013"
+      title: "Product Lifecycle Timing"
+      description: "Winback and replenishment timing must match the product lifecycle. A 30-day supply should trigger replenishment at day 25-30. A mattress company might wait years. Timing is everything."
+      source_file: "transcription_mp4_09-Chase-L9-Customer_Winback-V3_from_Foundr_on_Vimeo.md"
+      tags: [timing, product-lifecycle, replenishment]
+
+    - id: "MM-CD-014"
+      title: "Deliverability as Revenue Driver"
+      description: "ISPs like Google and Yahoo track recipient engagement. Positive signals (opens, clicks, orders) keep you in inbox. Negative signals (unsubscribes, spam marks) push you to spam. Deliverability directly impacts revenue."
+      source_file: "transcription_mp4_10-Chase-L10-Breakup_Series-V3_from_Foundr_on_Vimeo.md"
+      tags: [deliverability, isp, inbox-placement]
+
+    - id: "MM-CD-015"
+      title: "Secret Survey Through Links"
+      description: "Use tracking links to survey customers without them knowing. Each link click tags the subscriber's profile with interests/preferences, enabling hyper-targeted content without traditional surveys."
+      source_file: "transcription_mp4_10-Chase-B1-Secret_Survey-V3_from_Foundr_on_Vimeo.md"
+      tags: [secret-survey, tracking-links, segmentation, data-collection]
+
+    - id: "MM-CD-016"
+      title: "VIP Segmentation Multiplier"
+      description: "Splitting flows by VIP vs regular customers nearly doubles conversion rates. VIP abandoned checkout had 11.6% conversion vs 5.8% for regular. Same flow, different messaging, 2x results."
+      source_file: "transcription_mp4_11-Chase-B3-VIP_Customization-V3_from_Foundr_on_Vimeo.md"
+      tags: [vip, segmentation, conversion-multiplier]
+
+    - id: "MM-CD-017"
+      title: "Exit Intent as Growth Hack"
+      description: "Use exit intent popups to capture leaving visitors who aren't already subscribers. Offer a higher discount than normal to incentivize - these are people who would have generated zero revenue otherwise."
+      source_file: "transcription_mp4_12-Chase-B4-Exit_Intent-V3_from_Foundr_on_Vimeo.md"
+      tags: [exit-intent, list-building, growth-hack]
+
+    - id: "MM-CD-018"
+      title: "Back-in-Stock as Dual Growth Hack"
+      description: "Back-in-stock notifications serve two purposes: (1) collect new email subscribers from product pages, (2) drive massive revenue from high-intent customers. 31-34% placed order rates on back-in-stock emails."
+      source_file: "transcription_mp4_05-Chase_Dimond_s_Famous_-Back-In-Stock-_Hack_-_Foundr_Premium.md"
+      tags: [back-in-stock, growth-hack, list-building, high-conversion]
+
+    - id: "MM-CD-019"
+      title: "Cookie-Based Tracking Advantage"
+      description: "Using Klaviyo's native forms provides better cookie tracking than third-party form builders. The cookie follows the user better, enabling accurate browse abandonment and personalization from the first visit."
+      source_file: "transcription_mp4_13-Chase-B5-Klaviyo_Tech_Setup-V3_from_Foundr_on_Vimeo.md"
+      tags: [cookies, tracking, klaviyo, native-forms]
+
+    - id: "MM-CD-020"
+      title: "Last Touch Attribution Model"
+      description: "Klaviyo and other email platforms use last touch attribution with a default 4-5 day conversion window. If someone opens email and purchases within that window without another touchpoint, email gets credit."
+      source_file: "transcription_mp4_12-Chase-L12-Key_Terms-V3_from_Foundr_on_Vimeo.md"
+      tags: [attribution, last-touch, conversion-window]
+
+# ============================================================================
+# L3 - HEURISTICS (Numbers, Thresholds, Rules of Thumb)
+# ============================================================================
+L3_HEURISTICS:
+  count: 62
+  elements:
+    # === EMAIL REVENUE BENCHMARKS ===
+    - id: "HEUR-CD-001"
+      title: "Email Should Drive 25-30% of Total Revenue"
+      description: "Most clients account for email to do about 25 to 30% of their revenue. This is the target for any ecommerce brand doing email properly."
+      source_file: "transcription_mp4_01-Chase-L1-Intro-V3_from_Foundr_on_Vimeo.md"
+      tags: [revenue-target, benchmark, email-revenue]
+
+    - id: "HEUR-CD-002"
+      title: "One-Third Revenue from Email"
+      description: "One client did $280,000 in email revenue over 30 days, about one third of their total store revenue. Flows = 5%, Campaigns = 28%. Aim for somewhat even distribution between flows and campaigns."
+      source_file: "transcription_mp4_12-Chase-L12-Key_Terms-V3_from_Foundr_on_Vimeo.md"
+      tags: [revenue-split, flows-vs-campaigns, benchmark]
+
+    - id: "HEUR-CD-003"
+      title: "Single Flow Can Drive $4,000+/month Extra Revenue"
+      description: "Just by adding the abandoned cart flow alone, one client drove an extra $4,000 per month in revenue. A single well-optimized flow can have massive impact."
+      source_file: "transcription_mp4_01-Chase-L1-Intro-V3_from_Foundr_on_Vimeo.md"
+      tags: [revenue-per-flow, abandoned-cart, quick-win]
+
+    # === WELCOME SERIES METRICS ===
+    - id: "HEUR-CD-004"
+      title: "Welcome Series 3% Average Conversion Rate"
+      description: "The welcome series has an average conversion rate of around 3%, making it one of the top-performing and highest-converting flows in the entire email stack."
+      source_file: "transcription_mp4_02-Chase-L2-Welcome_Series-V3_from_Foundr_on_Vimeo.md"
+      tags: [welcome-series, conversion-rate, benchmark]
+
+    - id: "HEUR-CD-005"
+      title: "Welcome Emails Generate 320% More Revenue"
+      description: "Compared to regular promotional emails, welcome emails generate 320% more revenue per email."
+      source_file: "transcription_pdf_01-Chase_Full_Workbook.md"
+      tags: [welcome-series, revenue-per-email, benchmark]
+
+    - id: "HEUR-CD-006"
+      title: "Welcome Series: 3-5 Emails Over 1-2 Weeks"
+      description: "Send between 3 to 5 welcome emails over a period of 1 week to 2 weeks to get subscribers up to speed with what you're about and what you have to offer."
+      source_file: "transcription_mp4_02-Chase-L2-Welcome_Series-V3_from_Foundr_on_Vimeo.md"
+      tags: [welcome-series, email-count, timing]
+
+    - id: "HEUR-CD-007"
+      title: "First Welcome Email Within 10 Minutes"
+      description: "Trigger the first welcome email within 10 minutes of someone entering their email. Subscribers expect to receive content immediately or within the first hour."
+      source_file: "transcription_mp4_02-Chase-L2-Welcome_Series-V3_from_Foundr_on_Vimeo.md"
+      tags: [welcome-series, timing, first-email]
+
+    # === BROWSE ABANDONMENT METRICS ===
+    - id: "HEUR-CD-008"
+      title: "Browse Abandonment 63% Higher Open Rate Than Campaigns"
+      description: "Browse abandonment emails typically have about a 63% higher open rate than typical broadcast campaigns because people took an action that led to the email."
+      source_file: "transcription_mp4_03-Chase-L3-Browse_Abandonment-V3_from_Foundr_on_Vimeo.md"
+      tags: [browse-abandonment, open-rate, vs-campaigns]
+
+    - id: "HEUR-CD-009"
+      title: "Browse Abandonment 1% Conversion Rate"
+      description: "Browse abandonment emails have approximately a 1% conversion/placed order rate."
+      source_file: "transcription_pdf_01-Chase_Full_Workbook.md"
+      tags: [browse-abandonment, conversion-rate, benchmark]
+
+    - id: "HEUR-CD-010"
+      title: "Browse Abandonment Drives $3K-$5K/month (7-8 Figure Clients)"
+      description: "Most 7-8 figure ecommerce clients are doing $3,000-$5,000/month from browse abandonment alone. Some even do $7K-$10K/month from this single flow."
+      source_file: "transcription_pdf_01-Chase_Full_Workbook.md"
+      tags: [browse-abandonment, revenue, monthly]
+
+    - id: "HEUR-CD-011"
+      title: "Browse Abandonment: 2-3 Emails Over 2-3 Days"
+      description: "Start with 2-3 browse abandonment emails. First email within 1-2 hours, second after 1-2 days, third 1-2 more days after that. Total window: 2-3 days."
+      source_file: "transcription_mp4_03-Chase-L3-Browse_Abandonment-V3_from_Foundr_on_Vimeo.md"
+      tags: [browse-abandonment, email-count, timing]
+
+    - id: "HEUR-CD-012"
+      title: "Browse Abandonment First Email: 2 Hours Optimal"
+      description: "After testing 1 hour vs 2 hours delay, 2 hours showed slightly higher placed order rate (1.2% vs 1.0%) and more revenue ($1,200 vs $1,000 in 30 days)."
+      source_file: "transcription_mp4_03-Chase-L3-Browse_Abandonment-V3_from_Foundr_on_Vimeo.md"
+      tags: [browse-abandonment, time-delay, optimization]
+
+    - id: "HEUR-CD-013"
+      title: "Browse Abandonment Second Email: 1 Day Optimal"
+      description: "Second browse email at 1 day outperforms 2 days (0.6% conversion vs 0.4%). After 2 hours for first email and 1 day for second is the optimal cadence."
+      source_file: "transcription_mp4_03-Chase-L3-Browse_Abandonment-V3_from_Foundr_on_Vimeo.md"
+      tags: [browse-abandonment, time-delay, second-email]
+
+    # === ABANDONED CART METRICS ===
+    - id: "HEUR-CD-014"
+      title: "69% of Online Carts Are Abandoned"
+      description: "69% of online carts are being abandoned by users, representing massive revenue recovery opportunity through abandoned cart emails."
+      source_file: "transcription_pdf_01-Chase_Full_Workbook.md"
+      tags: [abandoned-cart, industry-stat, opportunity]
+
+    - id: "HEUR-CD-015"
+      title: "Abandoned Cart 10% Conversion Rate"
+      description: "Abandoned cart emails have approximately a 10% conversion rate."
+      source_file: "transcription_pdf_01-Chase_Full_Workbook.md"
+      tags: [abandoned-cart, conversion-rate, benchmark]
+
+    - id: "HEUR-CD-016"
+      title: "Abandoned Cart: 3-4 Emails Over 3 Days"
+      description: "Send 3-4 abandoned cart emails over the course of 3 days."
+      source_file: "transcription_pdf_01-Chase_Full_Workbook.md"
+      tags: [abandoned-cart, email-count, timing]
+
+    - id: "HEUR-CD-017"
+      title: "Abandoned Cart First Email: 1 Hour Trigger"
+      description: "Trigger the first abandoned cart email 1 hour after someone abandons. First email gets ~44% open rate, 11% click-through, 2.4% placed order rate."
+      source_file: "transcription_mp4_04-Chase-L4-Abandoned_Cart-V3_from_Foundr_on_Vimeo.md"
+      tags: [abandoned-cart, timing, first-email, metrics]
+
+    - id: "HEUR-CD-018"
+      title: "Abandoned Cart Revenue: $6K-$8K/month Per Client"
+      description: "One watch client does about $6,000 to $8,000 in revenue per month from the abandoned cart flow alone across 4-5 emails."
+      source_file: "transcription_mp4_04-Chase-L4-Abandoned_Cart-V3_from_Foundr_on_Vimeo.md"
+      tags: [abandoned-cart, revenue, monthly]
+
+    - id: "HEUR-CD-019"
+      title: "Abandoned Cart Cool-Down: 2-4 Weeks"
+      description: "Set filters so people don't receive the same abandoned cart emails more than once every 2-4 weeks. Without this, people could get emails every time they abandon, which gets annoying."
+      source_file: "transcription_mp4_04-Chase-L4-Abandoned_Cart-V3_from_Foundr_on_Vimeo.md"
+      tags: [abandoned-cart, frequency, filter]
+
+    # === ABANDONED CHECKOUT METRICS ===
+    - id: "HEUR-CD-020"
+      title: "Abandoned Checkout 33% Conversion Rate"
+      description: "Abandoned checkout emails have approximately a 33% conversion rate, making this the most important of all three abandonment flows."
+      source_file: "transcription_pdf_01-Chase_Full_Workbook.md"
+      tags: [abandoned-checkout, conversion-rate, benchmark]
+
+    - id: "HEUR-CD-021"
+      title: "Abandoned Checkout 3x Revenue vs Other Flows"
+      description: "Abandoned checkout flows drive about 3x the amount of revenue as other automated flows because they are time-sensitive and highly targeted."
+      source_file: "transcription_mp4_05-Chase-L5-Abandoned_Checkout-V3_from_Foundr_on_Vimeo.md"
+      tags: [abandoned-checkout, revenue-multiplier, benchmark]
+
+    - id: "HEUR-CD-022"
+      title: "Klaviyo $60M Revenue from Checkout Flows (3 Months)"
+      description: "Klaviyo analyzed over 3,000 stores and found $60 million in revenue driven over a 3-month period from abandoned checkout flows alone."
+      source_file: "transcription_mp4_05-Chase-L5-Abandoned_Checkout-V3_from_Foundr_on_Vimeo.md"
+      tags: [abandoned-checkout, klaviyo-data, industry-benchmark]
+
+    - id: "HEUR-CD-023"
+      title: "Abandoned Checkout: 2-4 Emails, Conversion 2-6%"
+      description: "Send 2-4 abandoned checkout emails over a 3-day period. Typical conversion rates range from 2% to 6%, with some clients hitting 9.4%."
+      source_file: "transcription_mp4_05-Chase-L5-Abandoned_Checkout-V3_from_Foundr_on_Vimeo.md"
+      tags: [abandoned-checkout, email-count, conversion-range]
+
+    - id: "HEUR-CD-024"
+      title: "Abandoned Checkout First Email: 1.5 Hours"
+      description: "Trigger the first abandoned checkout email 1.5 hours after checkout abandonment. First email can drive 4.3% conversion and ~$4,000 in monthly revenue."
+      source_file: "transcription_mp4_05-Chase-L5-Abandoned_Checkout-V3_from_Foundr_on_Vimeo.md"
+      tags: [abandoned-checkout, timing, first-email]
+
+    - id: "HEUR-CD-025"
+      title: "Abandoned Checkout Revenue: $6K-$7K/month"
+      description: "One swimwear client does about $6,000-$7,000 per month from the abandoned checkout flow across 3 emails ($4K + $2K + $1K)."
+      source_file: "transcription_mp4_05-Chase-L5-Abandoned_Checkout-V3_from_Foundr_on_Vimeo.md"
+      tags: [abandoned-checkout, revenue, monthly]
+
+    - id: "HEUR-CD-026"
+      title: "9.4% Placed Order Rate Possible on Checkout Email"
+      description: "Some clients achieve a 9.4% placed order rate on the first abandoned checkout email - almost 10% of recipients actually purchase."
+      source_file: "transcription_mp4_05-Chase-L5-Abandoned_Checkout-V3_from_Foundr_on_Vimeo.md"
+      tags: [abandoned-checkout, conversion-rate, best-case]
+
+    # === DISCOUNT AND OFFER METRICS ===
+    - id: "HEUR-CD-027"
+      title: "Dollar Off Outperforms Percentage Off"
+      description: "According to Klaviyo data on thousands of stores, dollar-based discounts outperform percentage-based discounts in both open rate and revenue per recipient, despite percentage off being most popular."
+      source_file: "transcription_mp4_05-Chase-L5-Abandoned_Checkout-V3_from_Foundr_on_Vimeo.md"
+      tags: [discounts, dollar-vs-percentage, optimization]
+
+    - id: "HEUR-CD-028"
+      title: "Dollar Discount Can Increase Conversion 175%"
+      description: "According to Shopify, doing a dollar-based discount versus a percentage-based discount can help increase conversion by 175%."
+      source_file: "transcription_mp4_05-Chase-L5-Abandoned_Checkout-V3_from_Foundr_on_Vimeo.md"
+      tags: [discounts, conversion-lift, shopify-data]
+
+    - id: "HEUR-CD-029"
+      title: "Typical Discounts: 10-15-20% or Dollar Off or Free Shipping"
+      description: "Most common discount offers are 10%, 15%, or 20% off. Also test dollar off and free shipping. Free shipping is powerful since most people abandon carts due to shipping costs."
+      source_file: "transcription_mp4_05-Chase-L5-Abandoned_Checkout-V3_from_Foundr_on_Vimeo.md"
+      tags: [discounts, offer-types, free-shipping]
+
+    - id: "HEUR-CD-030"
+      title: "Higher Discount for Exit Intent"
+      description: "Exit intent popups should potentially offer a bigger discount than normal to incentivize email capture. These are people about to leave who would generate zero revenue otherwise."
+      source_file: "transcription_mp4_12-Chase-B4-Exit_Intent-V3_from_Foundr_on_Vimeo.md"
+      tags: [exit-intent, discount, list-building]
+
+    # === CUSTOMER THANK YOU METRICS ===
+    - id: "HEUR-CD-031"
+      title: "Thank You Emails 352% Higher Open Rate"
+      description: "Thank you emails on average have about a 352% higher open rate than campaign emails because people are expecting these after purchase."
+      source_file: "transcription_mp4_07-Chase-L7-Customer_Thank_You-V3_from_Foundr_on_Vimeo.md"
+      tags: [thank-you, open-rate, benchmark]
+
+    - id: "HEUR-CD-032"
+      title: "27% Return Rate After First Purchase"
+      description: "After one purchase, a customer has a 27% chance of returning to your store. This makes thank you and post-purchase flows critical for driving repeat business."
+      source_file: "transcription_pdf_01-Chase_Full_Workbook.md"
+      tags: [repeat-purchase, return-rate, customer-lifetime]
+
+    - id: "HEUR-CD-033"
+      title: "Customer Thank You: 3 Emails Over 8-11 Days"
+      description: "Send 3 thank you emails over an 8-11 day period. New customers get 33% open rate, repeat customers get 51% open rate."
+      source_file: "transcription_mp4_07-Chase-L7-Customer_Thank_You-V3_from_Foundr_on_Vimeo.md"
+      tags: [thank-you, email-count, timing, open-rates]
+
+    # === WINBACK METRICS ===
+    - id: "HEUR-CD-034"
+      title: "Winback Trigger: 3-4 Months After Last Purchase"
+      description: "For products purchased monthly or bi-monthly, trigger the winback flow about 3-4 months after last purchase. For long-lifecycle products (mattress), wait years."
+      source_file: "transcription_mp4_09-Chase-L9-Customer_Winback-V3_from_Foundr_on_Vimeo.md"
+      tags: [winback, timing, trigger]
+
+    - id: "HEUR-CD-035"
+      title: "Winback Revenue: $2K First Email, $1.5K Second"
+      description: "iHeartDogs winback: first email drove $2,000/month, second email $1,500/month. Total ~$3,500/month from 2-email winback sequence."
+      source_file: "transcription_mp4_09-Chase-L9-Customer_Winback-V3_from_Foundr_on_Vimeo.md"
+      tags: [winback, revenue, monthly]
+
+    - id: "HEUR-CD-036"
+      title: "Winback: 2-3 Emails"
+      description: "Recommend 2-3 winback emails. Two should be sufficient starting out. Include personal messaging, new products, and a discount code."
+      source_file: "transcription_mp4_09-Chase-L9-Customer_Winback-V3_from_Foundr_on_Vimeo.md"
+      tags: [winback, email-count, structure]
+
+    # === BREAKUP/SUNSET METRICS ===
+    - id: "HEUR-CD-037"
+      title: "Sunset Trigger: 90 Days No Opens or Clicks"
+      description: "Trigger the sunset/breakup flow when someone hasn't opened OR clicked an email in the past 90 days, but has opened/clicked at least once historically."
+      source_file: "transcription_mp4_10-Chase-L10-Breakup_Series-V3_from_Foundr_on_Vimeo.md"
+      tags: [sunset, breakup, trigger, 90-days]
+
+    - id: "HEUR-CD-038"
+      title: "Breakup Series: 1-2 Emails"
+      description: "Send 1-2 breakup emails. One email is sufficient. Two is more aggressive and gives people more chance to re-engage but risks lower deliverability."
+      source_file: "transcription_mp4_10-Chase-L10-Breakup_Series-V3_from_Foundr_on_Vimeo.md"
+      tags: [sunset, email-count, structure]
+
+    # === DELIVERABILITY BENCHMARKS ===
+    - id: "HEUR-CD-039"
+      title: "Good Deliverability: Open >20%, Click >4%, Bounce <0.5%"
+      description: "GOOD deliverability = Unique Opens 20%+, Unique Clicks 4%+, Bounce Rate <0.5%, Unsubscribe Rate <0.3%, Spam Rate <0.08%."
+      source_file: "transcription_pdf_01-Chase_Full_Workbook.md"
+      tags: [deliverability, benchmarks, good]
+
+    - id: "HEUR-CD-040"
+      title: "Needs Improvement: Open 10-20%, Click 2-3%, Bounce 0.6-1%"
+      description: "NEEDS IMPROVEMENT = Unique Opens 10-20%, Unique Clicks 2-3%, Bounce Rate 0.6-1%, Unsubscribe Rate 0.4-0.9%, Spam Rate 0.08-0.15%."
+      source_file: "transcription_pdf_01-Chase_Full_Workbook.md"
+      tags: [deliverability, benchmarks, needs-improvement]
+
+    - id: "HEUR-CD-041"
+      title: "Critical Deliverability: Open <10%, Click <1%, Bounce >2%"
+      description: "CRITICAL = Unique Opens <10%, Unique Clicks <1%, Bounce Rate 2%+, Unsubscribe Rate 1%+, Spam Rate 0.15%+. Must sunset unengaged immediately."
+      source_file: "transcription_pdf_01-Chase_Full_Workbook.md"
+      tags: [deliverability, benchmarks, critical]
+
+    # === OPEN RATE BENCHMARKS ===
+    - id: "HEUR-CD-042"
+      title: "Open Rate Benchmarks: 15% Minimum, 25-30% Good, 35-40% Awesome"
+      description: "Open rates: 15% at minimum, 25-30% is good, over 35-40% is awesome."
+      source_file: "transcription_pdf_01-Chase_Full_Workbook.md"
+      tags: [open-rate, benchmarks, tiers]
+
+    - id: "HEUR-CD-043"
+      title: "CTR Benchmarks: Campaigns 1.24%, Flows 5.10%"
+      description: "Average CTR across industries: 1.24% for campaigns, 5.10% for flows. Flows dramatically outperform campaigns on click-through."
+      source_file: "transcription_pdf_01-Chase_Full_Workbook.md"
+      tags: [ctr, benchmarks, campaigns-vs-flows]
+
+    - id: "HEUR-CD-044"
+      title: "Placed Order Rate: 1-5% Most Common"
+      description: "1-5% placed order rate/conversion is the most common range across niches. Differs significantly by industry."
+      source_file: "transcription_pdf_01-Chase_Full_Workbook.md"
+      tags: [conversion-rate, benchmark, placed-orders]
+
+    # === INDUSTRY BENCHMARKS (BEAUTY) ===
+    - id: "HEUR-CD-045"
+      title: "Beauty Industry Benchmarks"
+      description: "Beauty & cosmetics automated email benchmarks: 33% open rate, 6-7% CTR, ~4% conversion rate, ~$2 revenue per recipient, ~$52 AOV."
+      source_file: "transcription_mp4_12-Chase-L12-Key_Terms-V3_from_Foundr_on_Vimeo.md"
+      tags: [beauty, industry-benchmark, automated-emails]
+
+    # === A/B TESTING RULES ===
+    - id: "HEUR-CD-046"
+      title: "A/B Test Minimum: 500-1000 People Per Variation"
+      description: "Need about 500 to 1000 people going through each test variation for significance. Ideally 1000+, but can start at 500."
+      source_file: "transcription_mp4_05-Chase-L5-Abandoned_Checkout-V3_from_Foundr_on_Vimeo.md"
+      tags: [ab-testing, sample-size, significance]
+
+    - id: "HEUR-CD-047"
+      title: "Test One Variable at a Time"
+      description: "Always test one variable at a time. If testing subject lines, just test subject lines. Once you have a winner, then move on to preheader text, then offers, etc."
+      source_file: "transcription_mp4_05-Chase-L5-Abandoned_Checkout-V3_from_Foundr_on_Vimeo.md"
+      tags: [ab-testing, methodology, single-variable]
+
+    - id: "HEUR-CD-048"
+      title: "Shift Split to Winner: 50/50 Then 75/25"
+      description: "Start A/B tests at 50/50 split. After seeing a clear winner over a couple weeks, shift to 75/25 in favor of the winner."
+      source_file: "transcription_mp4_03-Chase-L3-Browse_Abandonment-V3_from_Foundr_on_Vimeo.md"
+      tags: [ab-testing, split-ratio, optimization]
+
+    # === SMART SENDING & FREQUENCY ===
+    - id: "HEUR-CD-049"
+      title: "Smart Sending Window: 16-24 Hours"
+      description: "Set smart sending to prevent people from receiving more than one email within 16-24 hours. This prevents email fatigue and unsubscribes."
+      source_file: "transcription_mp4_03-Chase-L3-Browse_Abandonment-V3_from_Foundr_on_Vimeo.md"
+      tags: [smart-sending, frequency, window]
+
+    # === FORM AND POPUP METRICS ===
+    - id: "HEUR-CD-050"
+      title: "Popup Conversion: 3-7% Average, 10-15-20% Great"
+      description: "Most brands collect 3-7% of traffic into email subscribers via popups. 10% is pretty good. 10-15-17% are all incredible numbers. Strive for 10%+."
+      source_file: "transcription_mp4_13-Chase-B5-Klaviyo_Tech_Setup-V3_from_Foundr_on_Vimeo.md"
+      tags: [popup, conversion-rate, list-building]
+
+    - id: "HEUR-CD-051"
+      title: "Popup Delay: 3-12 Seconds After Landing"
+      description: "Klaviyo recommends 3 seconds delay. Test 3, 6, 9, and 12 seconds. One client found 12 seconds performed best. Don't show immediately; let visitor explore first."
+      source_file: "transcription_mp4_13-Chase-B5-Klaviyo_Tech_Setup-V3_from_Foundr_on_Vimeo.md"
+      tags: [popup, delay, timing, optimization]
+
+    - id: "HEUR-CD-052"
+      title: "Don't Reshow Popup for 30 Days After Close"
+      description: "If someone closes the popup, don't show it again for at least 30 days. People can only receive the form once a month."
+      source_file: "transcription_mp4_13-Chase-B5-Klaviyo_Tech_Setup-V3_from_Foundr_on_Vimeo.md"
+      tags: [popup, frequency, user-experience]
+
+    # === ENGAGED SEGMENT DEFINITION ===
+    - id: "HEUR-CD-053"
+      title: "Engaged Segment: 30-90 Day Window"
+      description: "Define engaged segment as people who opened or clicked at least once in the last 30-90 days. 60 days is a good middle ground. Never go past 120 days."
+      source_file: "transcription_mp4_13-Chase-B5-Klaviyo_Tech_Setup-V3_from_Foundr_on_Vimeo.md"
+      tags: [segmentation, engaged-list, window]
+
+    - id: "HEUR-CD-054"
+      title: "75-80% of Ecommerce Brands Use Shopify"
+      description: "At least 75-80% of ecommerce brands working with Boundless Labs use Shopify. Klaviyo pairs and integrates really nicely with Shopify."
+      source_file: "transcription_mp4_13-Chase-B5-Klaviyo_Tech_Setup-V3_from_Foundr_on_Vimeo.md"
+      tags: [shopify, market-share, platform]
+
+    # === BACK-IN-STOCK METRICS ===
+    - id: "HEUR-CD-055"
+      title: "Back-in-Stock: 60% Open Rate, 31-34% Placed Order Rate"
+      description: "Back-in-stock emails achieve ~60% open rate, 40-50% click-through, and 31-34% placed order rate. One in three recipients purchases. Almost unheard of conversion rates."
+      source_file: "transcription_mp4_05-Chase_Dimond_s_Famous_-Back-In-Stock-_Hack_-_Foundr_Premium.md"
+      tags: [back-in-stock, conversion-rate, open-rate, exceptional]
+
+    - id: "HEUR-CD-056"
+      title: "Back-in-Stock While-You-Wait: 60% Open, 6.4% Placed Order"
+      description: "The 'while you wait' email (before item is back) gets ~60% open rate, 5% CTR, 6.4% placed order rate on just 250 sends = $400+ revenue."
+      source_file: "transcription_mp4_05-Chase_Dimond_s_Famous_-Back-In-Stock-_Hack_-_Foundr_Premium.md"
+      tags: [back-in-stock, while-you-wait, metrics]
+
+    # === VIP SEGMENTATION METRICS ===
+    - id: "HEUR-CD-057"
+      title: "VIP Segmented Checkout: 58% Open, 30% CTR, 11.6% Conversion"
+      description: "VIP-segmented abandoned checkout achieved 58% open rate, ~30% click-through, and conversion rates nearly 2x the standard flow (11.6% vs 5.8%)."
+      source_file: "transcription_mp4_11-Chase-B3-VIP_Customization-V3_from_Foundr_on_Vimeo.md"
+      tags: [vip, abandoned-checkout, segmentation, metrics]
+
+    - id: "HEUR-CD-058"
+      title: "VIP Last Email: 15% vs 1.3% Conversion"
+      description: "The final email in VIP-segmented flow had 15% placed order rate compared to 1.3% in the standard flow - over 10x improvement through personalization."
+      source_file: "transcription_mp4_11-Chase-B3-VIP_Customization-V3_from_Foundr_on_Vimeo.md"
+      tags: [vip, conversion-multiplier, personalization]
+
+    # === EXIT INTENT METRICS ===
+    - id: "HEUR-CD-059"
+      title: "Exit Intent Flow: $1,300-$5,700/month Per Product Page"
+      description: "Exit intent flows per product page drive $1,300-$5,700 in revenue per 3 months. Client with dozen exit intent flows drives thousands per month total."
+      source_file: "transcription_mp4_12-Chase-B4-Exit_Intent-V3_from_Foundr_on_Vimeo.md"
+      tags: [exit-intent, revenue, per-product]
+
+    - id: "HEUR-CD-060"
+      title: "Exit Intent Email: 40% Open Rate, 7% CTR, 4% Conversion"
+      description: "Exit intent triggered emails achieve ~40% open rate, 7% click-through, and 4% placed order rate."
+      source_file: "transcription_mp4_12-Chase-B4-Exit_Intent-V3_from_Foundr_on_Vimeo.md"
+      tags: [exit-intent, metrics, conversion]
+
+    # === SECRET SURVEY METRICS ===
+    - id: "HEUR-CD-061"
+      title: "Secret Survey New Releases: 34% Open, 19% CTR"
+      description: "Secret survey tracking links for 'new releases' category achieved 34% open rate, 19% click-through, and $113 revenue. Apparel category got 28% open, 11% CTR, 1% conversion, $405 revenue."
+      source_file: "transcription_mp4_10-Chase-B1-Secret_Survey-V3_from_Foundr_on_Vimeo.md"
+      tags: [secret-survey, metrics, segmentation]
+
+    # === REPLENISHMENT METRICS ===
+    - id: "HEUR-CD-062"
+      title: "Replenishment: Send 3-7 Days Before Product Runs Out"
+      description: "For a 30-day supply, send replenishment email around day 21-25 (one week before running out). Test day 21, day 30, and after day 30 to find optimal timing."
+      source_file: "transcription_mp4_11-Chase-L11-Replenishment-V3_from_Foundr_on_Vimeo.md"
+      tags: [replenishment, timing, consumable-products]
+
+# ============================================================================
+# L4 - FRAMEWORKS (Named Structures)
+# ============================================================================
+L4_FRAMEWORKS:
+  count: 28
+  elements:
+    - id: "FW-CD-001"
+      title: "The 10 Essential Ecommerce Email Flows"
+      description: |
+        The complete email automation stack for scaling to 7 figures:
+        PRE-PURCHASE: (1) Welcome Series, (2) Browse Abandonment, (3) Abandoned Cart, (4) Abandoned Checkout
+        POST-PURCHASE: (5) Post-Purchase Primer, (6) Customer Thank You, (7) Reviews/Upsells/Cross-Sells, (8) Customer Winback, (9) Breakup/Sunset, (10) Replenishment
+        Priority order for implementation: Welcome Series, Abandoned Checkout, Customer Thank You first, then all others.
+      source_file: "transcription_pdf_01-Chase_Full_Workbook.md"
+      tags: [email-stack, 10-flows, flow-architecture]
+
+    - id: "FW-CD-002"
+      title: "Welcome Series 5-Email Framework"
+      description: |
+        Email 1: Welcome + Discount Code (trigger: 10 min after signup)
+        Email 2: Brand Story + Products (2 days later)
+        Email 3: Product Selector / Need-Based (2 days later)
+        Email 4: Get Multiple Touchpoints / SMS Capture (2 days later)
+        Email 5: Customer Reviews / Social Proof (2 days later)
+        Flow filter: If someone places order, kick them to post-purchase.
+      source_file: "transcription_mp4_02-Chase-L2-Welcome_Series-V3_from_Foundr_on_Vimeo.md"
+      tags: [welcome-series, 5-email, structure]
+
+    - id: "FW-CD-003"
+      title: "Welcome Email 4-Purpose Model"
+      description: |
+        Each welcome email serves a distinct purpose:
+        Email 1: Welcome and thank you + deliver promised incentive
+        Email 2: Brand story + unique quality standards + product benefits
+        Email 3: Social proof (reviews, press, endorsements) + popular products
+        Email 4: Community element - follow on social, join FB group
+      source_file: "transcription_pdf_01-Chase_Full_Workbook.md"
+      tags: [welcome-series, purpose-model, structure]
+
+    - id: "FW-CD-004"
+      title: "Browse Abandonment 4-Email Framework"
+      description: |
+        Email 1: "Do you like it?" + dynamic product + discount (2 hours after view)
+        Email 2: Changed copy + "Snag it" CTA + alternative products (1 day later)
+        Email 3: Urgency - "2 hours left" for discount (1-2 days later)
+        Email 4: "We've got your back" - discount extension (1 day later)
+        Flow filters: Exclude if purchased, added to cart, or started checkout.
+      source_file: "transcription_mp4_03-Chase-L3-Browse_Abandonment-V3_from_Foundr_on_Vimeo.md"
+      tags: [browse-abandonment, 4-email, escalation]
+
+    - id: "FW-CD-005"
+      title: "Abandoned Cart Email Structure"
+      description: |
+        Elements of each abandoned cart email:
+        - Clever/funny title (if on brand)
+        - Dynamic product image with name and price
+        - Discount code (percentage, dollar, or free shipping)
+        - Customer reviews or UGC
+        - CTA button linking to cart or product
+        - Optional: dynamic product name in CTA button (if short enough)
+      source_file: "transcription_mp4_04-Chase-L4-Abandoned_Cart-V3_from_Foundr_on_Vimeo.md"
+      tags: [abandoned-cart, email-anatomy, structure]
+
+    - id: "FW-CD-006"
+      title: "Abandoned Checkout 4-Email Escalation"
+      description: |
+        Email 1: Reminder + 10% discount (1.5 hours after abandonment)
+        Email 2: "Don't leave this behind" + same discount
+        Email 3: "24-hour heads up - 2 hours left" on discount
+        Email 4: "Last absolute chance" - extending discount 24 more hours
+        Strategy: Create artificial scarcity around discount codes, not products.
+      source_file: "transcription_mp4_05-Chase-L5-Abandoned_Checkout-V3_from_Foundr_on_Vimeo.md"
+      tags: [abandoned-checkout, escalation, scarcity]
+
+    - id: "FW-CD-007"
+      title: "Post-Purchase Email Sequence"
+      description: |
+        Complete post-purchase flow:
+        1. Order Confirmation (immediate, from Shopify)
+        2. Customer Thank You (1 day after purchase)
+        3. Shipping Confirmation (when shipped, from Shopify)
+        4. How-to-Use / Instructions (while waiting)
+        5. Delivery Confirmation (when delivered)
+        6. Review Request (after delivery + use time)
+        7. Cross-Sell / Upsell
+        8. Winback (3-4 months later if no repurchase)
+        9. Sunset/Breakup (if unengaged 90+ days)
+      source_file: "transcription_mp4_06-Chase-L6-Post_Purchase_Primer-V3_from_Foundr_on_Vimeo.md"
+      tags: [post-purchase, full-sequence, customer-journey]
+
+    - id: "FW-CD-008"
+      title: "Customer Thank You Split Framework"
+      description: |
+        Split by customer type:
+        NEW CUSTOMER PATH: (1) Here's what makes us great + social handles, (2) Thank you + 10% off for 30 days
+        REPEAT CUSTOMER PATH: (1) "You just made our day" + gratitude, (2) "Token of gratitude" + 10% off
+        Conditional split: If first email not opened, resend with different subject line.
+      source_file: "transcription_mp4_07-Chase-L7-Customer_Thank_You-V3_from_Foundr_on_Vimeo.md"
+      tags: [thank-you, split, new-vs-repeat]
+
+    - id: "FW-CD-009"
+      title: "Review Collection + Cross-Sell Combo"
+      description: |
+        Combined flow: First ask for review, THEN try to sell.
+        1. Review Request: Show purchased product, ask "What do you think?" + link to review
+        2. Content Email: Educational content that natively integrates product recommendation
+        3. Cross-Sell: Direct recommendation of complementary products
+        Key: Sell complementary products (like Amazon 'related items'), not just more expensive ones.
+      source_file: "transcription_mp4_08-Chase-L8-Reviews_Upsells_Cross-sells-V3_from_Foundr_on_Vimeo.md"
+      tags: [reviews, cross-sell, combo-flow]
+
+    - id: "FW-CD-010"
+      title: "Customer Winback 2-Email Framework"
+      description: |
+        Email 1: "We miss you" - personal message from founder + 15% off (4 months after last purchase)
+        Email 2: "Did you get my last email?" - reminder of discount (few days later)
+        Code strategy: Use emotional codes like "MISSYOU" that align with objective.
+        Include: Trending/popular products to show what they're missing.
+      source_file: "transcription_mp4_09-Chase-L9-Customer_Winback-V3_from_Foundr_on_Vimeo.md"
+      tags: [winback, 2-email, framework]
+
+    - id: "FW-CD-011"
+      title: "Breakup/Sunset Flow Framework"
+      description: |
+        Segment: 90+ days on list, 0 opens in 90 days, 0 clicks in 90 days, but has opened/clicked at least once before.
+        Email 1: "Is it time to say goodbye?" / "Asking for permission to close account"
+        - Plain text, personalization, from someone's name
+        - Include: unsubscribe links, discount, what they've missed
+        If opens/clicks: Boot from flow (re-engaged)
+        If no action: Auto-suppress profile (suppressed=true)
+      source_file: "transcription_mp4_10-Chase-L10-Breakup_Series-V3_from_Foundr_on_Vimeo.md"
+      tags: [sunset, breakup, list-hygiene]
+
+    - id: "FW-CD-012"
+      title: "Replenishment Email Framework"
+      description: |
+        Trigger: Based on product lifecycle (e.g., 30-day supply = send at day 25-30)
+        Email structure:
+        - Subject: "[Name], running low?"
+        - Show empty product image
+        - Discount code with emotional name ("REORDER")
+        - Dynamic display of previously purchased products
+        - Cross-sell: Additional products to increase AOV
+        - Social proof: Star ratings on products
+        Test: Day 21, Day 30, and after Day 30 to find optimal send time.
+      source_file: "transcription_mp4_11-Chase-L11-Replenishment-V3_from_Foundr_on_Vimeo.md"
+      tags: [replenishment, consumable, repeat-purchase]
+
+    - id: "FW-CD-013"
+      title: "Back-in-Stock Growth Hack Framework"
+      description: |
+        On product page: "Notify me when available" button captures email
+        Flow:
+        1. While-You-Wait Email (5 min): "Here's 10% off other items while you wait"
+        2. A/B Test: 75% get 10% off code vs 25% no coupon
+        3. Back-in-Stock Email: "The wait is over" + product + "Claim your product" CTA
+        4. Follow-up: "Before it's gone" - last chance reminder
+        Key: "Claim your product" CTA creates more urgency than "Shop now"
+      source_file: "transcription_mp4_05-Chase_Dimond_s_Famous_-Back-In-Stock-_Hack_-_Foundr_Premium.md"
+      tags: [back-in-stock, growth-hack, list-building]
+
+    - id: "FW-CD-014"
+      title: "Secret Survey Link Tracking Framework"
+      description: |
+        Mechanism: Use Klaviyo profile update links that look like normal campaign links
+        URL format: update_profile_property?profile_property=[CATEGORY]&property_value=[VALUE]&redirect=[ACTUAL_URL]
+        Application: Campaign header categories (Feed, Treats, Apparel, New Releases)
+        Result: Each click auto-tags subscriber profile with interest
+        Use cases: Product interests, gender, age group, dog breed, preferences
+        Then trigger category-specific automated flows based on tags.
+      source_file: "transcription_mp4_10-Chase-B1-Secret_Survey-V3_from_Foundr_on_Vimeo.md"
+      tags: [secret-survey, tracking, segmentation, klaviyo]
+
+    - id: "FW-CD-015"
+      title: "VIP Customization Framework"
+      description: |
+        Identify VIPs by: Number of orders, total revenue, subscription status
+        Split every major flow into VIP vs Standard paths:
+        VIP version: Personal messaging, exclusive discount (e.g., 20% vs 10%), unique codes
+        Standard version: Generic messaging, standard discount
+        Measure: VIP flows typically convert 2x the standard flows
+        Apply to: Browse abandonment, abandoned checkout, winback, all major flows
+      source_file: "transcription_mp4_11-Chase-B3-VIP_Customization-V3_from_Foundr_on_Vimeo.md"
+      tags: [vip, segmentation, personalization, framework]
+
+    - id: "FW-CD-016"
+      title: "Exit Intent Capture Framework"
+      description: |
+        Trigger: Mouse moves toward exit/close
+        Popup: "Wait, get X% off" - higher discount than normal popup
+        Only show to non-subscribers (exclude existing Klaviyo profiles)
+        Flow: 1-2 simple, direct emails with the promised offer
+        Key: These people would have generated zero revenue otherwise.
+        Strategy: Create product-page-specific exit intent flows for higher relevance.
+      source_file: "transcription_mp4_12-Chase-B4-Exit_Intent-V3_from_Foundr_on_Vimeo.md"
+      tags: [exit-intent, popup, list-building]
+
+    - id: "FW-CD-017"
+      title: "Deliverability Health Assessment Framework"
+      description: |
+        Three tiers:
+        GOOD: Opens >20%, Clicks >4%, Bounce <0.5%, Unsub <0.3%, Spam <0.08%
+        NEEDS IMPROVEMENT: Opens 10-20%, Clicks 2-3%, Bounce 0.6-1%, Unsub 0.4-0.9%, Spam 0.08-0.15%
+        CRITICAL: Opens <10%, Clicks <1%, Bounce >2%, Unsub >1%, Spam >0.15%
+        Action: If yellow or red, implement sunset/breakup flow immediately.
+      source_file: "transcription_pdf_01-Chase_Full_Workbook.md"
+      tags: [deliverability, health-check, assessment]
+
+    - id: "FW-CD-018"
+      title: "A/B Testing Priority Framework"
+      description: |
+        Test priority order (one at a time):
+        1. Subject lines (highest impact on opens)
+        2. Preheader text (works with subject line)
+        3. Offer type (% off vs $ off vs free shipping)
+        4. CTA wording and button colors
+        5. Images within content
+        6. Send time (9am EST vs 9am PST)
+        7. Email layout (short vs medium vs long)
+        8. Time delay between emails in flow
+      source_file: "transcription_mp4_05-Chase-L5-Abandoned_Checkout-V3_from_Foundr_on_Vimeo.md"
+      tags: [ab-testing, priority, testing-framework]
+
+    - id: "FW-CD-019"
+      title: "Browse Abandonment Subject Line Categories"
+      description: |
+        Four categories with 5 examples each:
+        SIMPLE: "Did you see something you liked?", "Take a 2nd look!", "Still thinking about it?"
+        PERSONALIZED: "Hey [Name], any questions?", "[Name], you have great taste!"
+        DISCOUNT: "Deals that make us proud", "Shop now. Save big.", "$10 off just for you"
+        CREATIVE: "Were you checking me out?", "We must have the same taste", "We saw you peeping"
+      source_file: "transcription_docx_03-Browse_Abandonment_Subject_Lines.md"
+      tags: [subject-lines, browse-abandonment, categories]
+
+    - id: "FW-CD-020"
+      title: "Winback Subject Line Framework"
+      description: |
+        Effective winback subject lines:
+        - "We miss you"
+        - "We'd love to reconnect"
+        - "[Name], how's it going?"
+        - "It's been a while"
+        - "Did you forget about us?"
+        Key: Make it personal and emotional, not salesy.
+      source_file: "transcription_pdf_01-Chase_Full_Workbook.md"
+      tags: [winback, subject-lines, copywriting]
+
+    - id: "FW-CD-021"
+      title: "Master Template System"
+      description: |
+        Create 2-3 master email templates in Klaviyo containing reusable blocks:
+        - Logo block (save as reusable)
+        - Image asset block
+        - Header text block
+        - Body text block
+        - CTA button block
+        - Social links block
+        - Unsubscribe footer
+        Save individual blocks for mix-and-match across flows and campaigns.
+        This enables scaling without designer dependency.
+      source_file: "transcription_mp4_13-Chase-B5-Klaviyo_Tech_Setup-V3_from_Foundr_on_Vimeo.md"
+      tags: [templates, klaviyo, scalability, design]
+
+    - id: "FW-CD-022"
+      title: "Engaged List Building Framework"
+      description: |
+        Definition: Opened OR clicked at least once in last 60 days, OR added to list in last 30 days
+        Range: 30-90 days depending on send frequency
+        - Weekly senders: 30 days engaged segment
+        - Monthly senders: 90 days engaged segment
+        Never go past 120 days
+        This is the list you mail campaigns to most frequently.
+      source_file: "transcription_mp4_13-Chase-B5-Klaviyo_Tech_Setup-V3_from_Foundr_on_Vimeo.md"
+      tags: [segmentation, engaged-list, definition]
+
+    - id: "FW-CD-023"
+      title: "Customer Winback Self-Assessment"
+      description: |
+        Winback is right for you if any of these are true:
+        - You have a subscription product
+        - Your product lifecycle is less than 6 months
+        - You have many subscribers who haven't been engaged
+        - You have a cheap product (vs expensive/infrequent like mattresses)
+      source_file: "transcription_pdf_01-Chase_Full_Workbook.md"
+      tags: [winback, self-assessment, eligibility]
+
+    - id: "FW-CD-024"
+      title: "Three Priority Flows to Start Today"
+      description: |
+        The three must-have flows for any ecommerce brand, in priority order:
+        1. Welcome Series - sets up the entire relationship
+        2. Abandoned Checkout - highest conversion, most revenue
+        3. Customer Thank You - reduces buyer's remorse, builds loyalty
+        All others are super important but do them secondary.
+      source_file: "transcription_mp4_01-Chase-L1-Intro-V3_from_Foundr_on_Vimeo.md"
+      tags: [priority, getting-started, top-3-flows]
+
+    - id: "FW-CD-025"
+      title: "Abandonment Hierarchy Model"
+      description: |
+        Three levels of abandonment ordered by intent and priority:
+        BROWSE (Low Intent): Viewed product, didn't add to cart → 1% conversion
+        CART (Medium Intent): Added to cart, didn't start checkout → 10% conversion
+        CHECKOUT (High Intent): Started checkout, didn't complete → 33% conversion
+        Flow filters must prioritize higher-intent flows over lower ones.
+      source_file: "transcription_pdf_01-Chase_Full_Workbook.md"
+      tags: [abandonment, hierarchy, intent-levels]
+
+    - id: "FW-CD-026"
+      title: "Popup Form Types and Triggers"
+      description: |
+        Three form types: Popup (most obtrusive), Flyout (corners out from bottom), Embedded (always visible)
+        Trigger options: On page load (with delay), On scroll %, On exit intent, Time-based
+        Rules: Don't show to existing subscribers, don't show on checkout pages, respect 30-day close cooldown
+      source_file: "transcription_mp4_13-Chase-B5-Klaviyo_Tech_Setup-V3_from_Foundr_on_Vimeo.md"
+      tags: [popups, forms, triggers, types]
+
+    - id: "FW-CD-027"
+      title: "Video Review Incentive Framework"
+      description: |
+        Offer $100 refund on product in exchange for video testimonial review.
+        Customer records video of themselves with product and submits to designated folder.
+        Purpose: Generate high-quality video UGC for Facebook, Instagram ads.
+        Much more valuable than written reviews for paid acquisition.
+      source_file: "transcription_mp4_08-Chase-L8-Reviews_Upsells_Cross-sells-V3_from_Foundr_on_Vimeo.md"
+      tags: [reviews, video, ugc, incentive]
+
+    - id: "FW-CD-028"
+      title: "Discount Code Strategy by Flow"
+      description: |
+        Different discount levels by flow position:
+        - Welcome: 10% (standard incentive to join)
+        - Browse Abandonment: 10-15% (encourage first action)
+        - Abandoned Cart: 10-15% (push toward purchase)
+        - Abandoned Checkout: 10% (close the deal)
+        - Exit Intent: Higher than normal (last chance capture)
+        - VIP: 20% (reward loyalty)
+        - Winback: 15% (re-engage with emotional code like "MISSYOU")
+        - SMS Capture: 20% (value exchange for phone number)
+      source_file: "transcription_mp4_02-Chase-L2-Welcome_Series-V3_from_Foundr_on_Vimeo.md"
+      tags: [discounts, strategy, flow-specific]
+
+# ============================================================================
+# L5 - METHODOLOGIES (Step-by-Step Processes)
+# ============================================================================
+L5_METHODOLOGIES:
+  count: 28
+  elements:
+    - id: "MET-CD-001"
+      title: "Welcome Series Setup Methodology"
+      description: |
+        Step 1: Create signup form (popup, flyout, or embedded) with incentive (10% off, free shipping, etc.)
+        Step 2: In Klaviyo, create new flow triggered by "Subscribed to List"
+        Step 3: Set Email 1 to send after 10 minutes - deliver promised incentive
+        Step 4: Set Email 2 for 2 days later - brand story and product education
+        Step 5: Set Email 3 for 2 days later - need-based product selector
+        Step 6: Optional Email 4 - SMS capture with higher discount (20%)
+        Step 7: Optional Email 5 - customer reviews and social proof
+        Step 8: Add flow filter: If places order, exit flow to post-purchase
+        Step 9: Test and optimize subject lines first, then content
+      source_file: "transcription_mp4_02-Chase-L2-Welcome_Series-V3_from_Foundr_on_Vimeo.md"
+      tags: [welcome-series, setup, step-by-step]
+
+    - id: "MET-CD-002"
+      title: "Browse Abandonment Setup Methodology"
+      description: |
+        Step 1: Add Klaviyo tracking snippet to website (enables "Viewed Product" events)
+        Step 2: Create flow triggered by "Viewed Product"
+        Step 3: Add flow filters: Exclude if placed order, added to cart, or started checkout
+        Step 4: Email 1 after 2 hours: Dynamic product block + 3 related products + optional discount
+        Step 5: Email 2 after 1 day: Changed copy and CTA + different product recommendations
+        Step 6: Optional Email 3 after 1-2 more days: Urgency copy ("2 hours left")
+        Step 7: Optional Email 4: Discount extension ("We've got your back")
+        Step 8: A/B test time delays (1hr vs 2hr for first email)
+        Step 9: A/B test subject lines (personalized product name vs ambiguous)
+      source_file: "transcription_mp4_03-Chase-L3-Browse_Abandonment-V3_from_Foundr_on_Vimeo.md"
+      tags: [browse-abandonment, setup, step-by-step]
+
+    - id: "MET-CD-003"
+      title: "Abandoned Cart Setup Methodology"
+      description: |
+        Step 1: Add "Added to Cart" snippet to website (Klaviyo doesn't have this by default)
+        Step 2: Create flow triggered by "Added to Cart"
+        Step 3: Add filters: Checkout started 0 times, placed order 0 times, not received in past 2-4 weeks
+        Step 4: Exclude specific products (closeout sales, premium items you don't discount)
+        Step 5: Email 1 after 1 hour: Dynamic product + price + discount code + return to cart CTA
+        Step 6: Email 2 after 1 day: Different copy, include customer reviews
+        Step 7: Email 3 after 1 more day: Urgency messaging
+        Step 8: Optional Email 4: Last chance
+        Step 9: Test subject lines, offers (% vs $ vs free shipping), CTA wording
+      source_file: "transcription_mp4_04-Chase-L4-Abandoned_Cart-V3_from_Foundr_on_Vimeo.md"
+      tags: [abandoned-cart, setup, step-by-step]
+
+    - id: "MET-CD-004"
+      title: "Abandoned Checkout Setup Methodology"
+      description: |
+        Step 1: Trigger already available in Klaviyo by default ("Checkout Started")
+        Step 2: Create flow triggered by "Checkout Started"
+        Step 3: Email 1 after 1.5 hours: Dynamic product + related products + 10% discount
+        Step 4: Email 2: "Make sure you want to leave this behind"
+        Step 5: Email 3: "24-hour heads up - 2 hours left on discount"
+        Step 6: Email 4: "Last absolute last chance - 24 more hours"
+        Step 7: A/B test subject line: "It looks like you left something behind" (proven winner)
+        Step 8: A/B test offers: Dollar off vs percentage off (dollar off often wins per Klaviyo data)
+        Step 9: Test time delays via conditional splits
+      source_file: "transcription_mp4_05-Chase-L5-Abandoned_Checkout-V3_from_Foundr_on_Vimeo.md"
+      tags: [abandoned-checkout, setup, step-by-step]
+
+    - id: "MET-CD-005"
+      title: "Customer Thank You Setup Methodology"
+      description: |
+        Step 1: Create flow triggered by "Placed Order"
+        Step 2: Add conditional split: First-time buyer vs Repeat buyer
+        Step 3: Email 1 (1 day after purchase): Personal thank you message
+        Step 4: Add conditional split after Email 1: If not opened, resend with different subject
+        Step 5: Email 2 (few days later): Thank you + 10% off code valid for 30 days
+        Step 6: Pro tip: Make it look like a personal email (plain text, from someone's name)
+        Step 7: Include social handles and ask for follows
+        Step 8: Pretend you're writing to a friend - keep it authentic
+      source_file: "transcription_mp4_07-Chase-L7-Customer_Thank_You-V3_from_Foundr_on_Vimeo.md"
+      tags: [thank-you, setup, step-by-step]
+
+    - id: "MET-CD-006"
+      title: "Review Collection Methodology"
+      description: |
+        Step 1: Wait appropriate time after delivery (enough time to use product)
+        Step 2: Send review request email: Show purchased product, ask "What do you think?"
+        Step 3: Link to review platform (own site or third-party like ProductReview)
+        Step 4: For video reviews: Offer $100 refund incentive for video testimonial
+        Step 5: Use collected reviews in welcome series, browse abandonment, and post-purchase emails
+        Step 6: Drive reviews to external sites too for inbound discovery
+      source_file: "transcription_mp4_08-Chase-L8-Reviews_Upsells_Cross-sells-V3_from_Foundr_on_Vimeo.md"
+      tags: [reviews, collection, step-by-step]
+
+    - id: "MET-CD-007"
+      title: "Cross-Sell/Upsell Email Methodology"
+      description: |
+        Step 1: Map out which products should be sold together (use cross-sell worksheet)
+        Step 2: FIRST send review request, THEN send cross-sell (order matters)
+        Step 3: Content email approach: Educational content that natively integrates product mention
+        Step 4: Direct cross-sell: "Because you bought X, you might like Y"
+        Step 5: Campaign approach: Segment by purchased SKU, send targeted cross-sell
+        Step 6: Compare: Sent to buyers of similar SKU (50% open, 7% CTR) vs non-buyers (28% open, 2% CTR)
+        Step 7: Combine cross-sell/upsell into one flow to reduce complexity
+      source_file: "transcription_mp4_08-Chase-L8-Reviews_Upsells_Cross-sells-V3_from_Foundr_on_Vimeo.md"
+      tags: [cross-sell, upsell, methodology]
+
+    - id: "MET-CD-008"
+      title: "Customer Winback Setup Methodology"
+      description: |
+        Step 1: Determine product lifecycle (how long until customer needs to repurchase)
+        Step 2: Create flow triggered by "Placed Order" with time delay = lifecycle + 1-2 months
+        Step 3: Email 1: Personal message from founder, "We miss you" + 15% off with emotional code
+        Step 4: Email 2 (few days later): "Did you get my last email?" + discount reminder
+        Step 5: Optional Email 3: Show popular/trending products they're missing
+        Step 6: Use unique discount codes per recipient for personalization
+        Step 7: Self-assess: Only use if product lifecycle < 6 months
+      source_file: "transcription_mp4_09-Chase-L9-Customer_Winback-V3_from_Foundr_on_Vimeo.md"
+      tags: [winback, setup, step-by-step]
+
+    - id: "MET-CD-009"
+      title: "Breakup/Sunset Flow Setup Methodology"
+      description: |
+        Step 1: Create segment "Sunset" with conditions: 90+ days on list, 0 opens in 90 days, 0 clicks in 90 days, opened at least once historically, clicked at least once historically
+        Step 2: Create flow triggered by "Joins Sunset" segment
+        Step 3: Email 1: Plain text, from person's name, "Asking permission to close account"
+        Step 4: Include: Unsubscribe link, what they've missed, discount, "Keep me" vs "Unsubscribe" CTAs
+        Step 5: If opens/clicks within email: Remove from flow (re-engaged)
+        Step 6: If no action: Auto-update profile suppressed=true
+        Step 7: When sending campaigns, always filter out suppressed=true
+      source_file: "transcription_mp4_10-Chase-L10-Breakup_Series-V3_from_Foundr_on_Vimeo.md"
+      tags: [sunset, breakup, setup, step-by-step]
+
+    - id: "MET-CD-010"
+      title: "Replenishment Flow Setup Methodology"
+      description: |
+        Step 1: Calculate product lifecycle (e.g., 30-day supply at 1/day = 30 days)
+        Step 2: Create flow triggered by "Placed Order" with time delay = lifecycle - 5 to 7 days
+        Step 3: Test multiple time delays: Day 21, Day 30, Day 35 as separate emails
+        Step 4: Email content: Show empty product bottles, "Running low?" subject line
+        Step 5: Include discount code (e.g., "REORDER") + dynamic display of previously purchased items
+        Step 6: Include: Star ratings for social proof, free shipping threshold, recommended products
+        Step 7: Measure and pause underperforming time delays
+        Step 8: Tip: Use educational content to set replenishment expectations upfront
+      source_file: "transcription_mp4_11-Chase-L11-Replenishment-V3_from_Foundr_on_Vimeo.md"
+      tags: [replenishment, setup, step-by-step]
+
+    - id: "MET-CD-011"
+      title: "Back-in-Stock Flow Setup Methodology"
+      description: |
+        Step 1: Add "Notify me when available" button on out-of-stock product pages
+        Step 2: Button triggers email capture popup (works as list growth hack)
+        Step 3: Create flow triggered by "Back in Stock" subscription
+        Step 4: While-You-Wait Email (5 min): "While you wait, here's 10% off other items"
+        Step 5: A/B test: 75% with discount vs 25% without
+        Step 6: Back-in-Stock Email: "The wait is over" + product + "Claim your product" CTA
+        Step 7: Follow-up Email: "Before it's gone - last chance"
+        Step 8: Only show "Notify me" to non-subscribers for list growth
+      source_file: "transcription_mp4_05-Chase_Dimond_s_Famous_-Back-In-Stock-_Hack_-_Foundr_Premium.md"
+      tags: [back-in-stock, setup, step-by-step]
+
+    - id: "MET-CD-012"
+      title: "Secret Survey Implementation Methodology"
+      description: |
+        Step 1: Identify what you want to learn (interests, gender, age, preferences)
+        Step 2: Build tracking links: update_profile_property?profile_property=[LABEL]&property_value=[VALUE]&redirect=[URL]
+        Step 3: Replace normal campaign links with tracking links
+        Step 4: Create auto-triggered flows for each property value (e.g., "new releases" flow)
+        Step 5: Flows send targeted content to tagged subscribers (34% open rate, 19% CTR)
+        Step 6: Use collected data for future campaign segmentation
+        Step 7: Scale: Apply to multiple categories (feed, treats, apparel, etc.)
+      source_file: "transcription_mp4_10-Chase-B1-Secret_Survey-V3_from_Foundr_on_Vimeo.md"
+      tags: [secret-survey, implementation, step-by-step]
+
+    - id: "MET-CD-013"
+      title: "VIP Flow Segmentation Methodology"
+      description: |
+        Step 1: Define VIP criteria (subscription status, order count, total spend)
+        Step 2: In each major flow, add conditional split for VIP vs Standard
+        Step 3: VIP path: Personal messaging, exclusive discount (20% vs 10%), unique codes starting with identifier
+        Step 4: Standard path: Generic messaging, standard discount
+        Step 5: Monitor: VIP conversion should be ~2x standard
+        Step 6: Read support tickets to understand VIP needs (the Chivery discovered VIPs wanted different content)
+        Step 7: Apply across all flows: browse, cart, checkout, winback
+      source_file: "transcription_mp4_11-Chase-B3-VIP_Customization-V3_from_Foundr_on_Vimeo.md"
+      tags: [vip, segmentation, implementation]
+
+    - id: "MET-CD-014"
+      title: "Exit Intent Popup Setup Methodology"
+      description: |
+        Step 1: Create popup in Klaviyo triggered by exit intent
+        Step 2: Set higher discount than normal popup (e.g., if normal is 10%, exit is 15-20%)
+        Step 3: Only show to people NOT already on email list
+        Step 4: Don't show on checkout/cart pages (further down funnel)
+        Step 5: Create product-page-specific exit intent for relevance
+        Step 6: Trigger 1-2 email flow: Direct, short, deliver the promised discount
+        Step 7: Measure: $1,300-$5,700 per flow per 3 months is achievable
+      source_file: "transcription_mp4_12-Chase-B4-Exit_Intent-V3_from_Foundr_on_Vimeo.md"
+      tags: [exit-intent, setup, step-by-step]
+
+    - id: "MET-CD-015"
+      title: "Klaviyo Account Setup Methodology"
+      description: |
+        Step 1: Create Klaviyo account, enter website URL, select "Ecommerce" category
+        Step 2: Connect ecommerce platform (Shopify recommended, also Magento, WooCommerce)
+        Step 3: If migrating from MailChimp/others: Use Klaviyo's built-in migration
+        Step 4: Set up brand assets: logo, colors, fonts, social links
+        Step 5: Create 2-3 master email templates with reusable blocks
+        Step 6: Save individual blocks (logo, header, footer) for mix-and-match
+        Step 7: Build engaged segment (60-90 day window)
+        Step 8: Create signup forms (popup with 3-12 second delay)
+        Step 9: Set popup to not show to existing profiles, 30-day close cooldown
+      source_file: "transcription_mp4_13-Chase-B5-Klaviyo_Tech_Setup-V3_from_Foundr_on_Vimeo.md"
+      tags: [klaviyo, account-setup, step-by-step]
+
+    - id: "MET-CD-016"
+      title: "A/B Testing Execution Methodology"
+      description: |
+        Step 1: Pick ONE variable to test (subject line first, highest impact)
+        Step 2: Create conditional split with 50/50 traffic
+        Step 3: Run test until 500-1000 people have gone through each variation
+        Step 4: Analyze: Open rate, CTR, conversion rate, revenue
+        Step 5: If clear winner, shift to 75/25 split in winner's favor
+        Step 6: After confidence, make winner the default
+        Step 7: Move to next variable (preheader, then offer, then CTA, etc.)
+        Step 8: Repeat continuously - always be testing something
+      source_file: "transcription_mp4_05-Chase-L5-Abandoned_Checkout-V3_from_Foundr_on_Vimeo.md"
+      tags: [ab-testing, execution, step-by-step]
+
+    - id: "MET-CD-017"
+      title: "Email Template Creation Methodology"
+      description: |
+        Step 1: Go to Klaviyo > Email Templates
+        Step 2: Create Product Feature Template with blocks: Logo, Image, Header Text, Body Text, CTA Button, Logo Footer, Social, Unsubscribe
+        Step 3: Create 2 more variations with different layouts/colors
+        Step 4: Save each block individually (star icon) with descriptive names
+        Step 5: When building flows, select from saved templates instead of starting from scratch
+        Step 6: Replace only content (text, images) while keeping structure
+        Step 7: This eliminates designer dependency and enables rapid email creation
+      source_file: "transcription_mp4_13-Chase-B5-Klaviyo_Tech_Setup-V3_from_Foundr_on_Vimeo.md"
+      tags: [templates, creation, efficiency]
+
+    - id: "MET-CD-018"
+      title: "Flow Building in Klaviyo Methodology"
+      description: |
+        Step 1: Go to Flows > Browse Ideas or Create from Scratch
+        Step 2: Select goal (Convert sales, Post-purchase, etc.)
+        Step 3: Choose flow type (Abandoned Cart, Welcome, etc.)
+        Step 4: Klaviyo pre-populates recommended structure with time delays
+        Step 5: Click each email > Edit Content > Choose Template from saved library
+        Step 6: Customize content: Replace images, edit text, update CTAs, add dynamic blocks
+        Step 7: Set flow filters (exclude purchased, exclude already received in X days)
+        Step 8: Set smart sending window (16-24 hours)
+        Step 9: Activate flow (set to Live)
+      source_file: "transcription_mp4_13-Chase-B5-Klaviyo_Tech_Setup-V3_from_Foundr_on_Vimeo.md"
+      tags: [klaviyo, flow-building, step-by-step]
+
+    - id: "MET-CD-019"
+      title: "Signup Form Optimization Methodology"
+      description: |
+        Step 1: Create form in Klaviyo (popup type recommended)
+        Step 2: Set time delay: Test 3, 6, 9, 12 seconds (don't show immediately)
+        Step 3: Add incentive: 10% off, free shipping, or dollar discount
+        Step 4: If relevant: Add quiz question (athlete type, preference) for segmentation
+        Step 5: Set behavior: Don't reshow for 30 days after close
+        Step 6: Exclude existing Klaviyo profiles
+        Step 7: Exclude from showing on checkout/cart pages
+        Step 8: Monitor form analytics: Aim for 10%+ conversion rate
+        Step 9: Use Klaviyo native forms (better cookie tracking than third-party)
+      source_file: "transcription_mp4_13-Chase-B5-Klaviyo_Tech_Setup-V3_from_Foundr_on_Vimeo.md"
+      tags: [signup-forms, optimization, step-by-step]
+
+    - id: "MET-CD-020"
+      title: "Discount Code Urgency Strategy Methodology"
+      description: |
+        Step 1: Create discount code with expiration messaging in email
+        Step 2: Email 1: "Here's your discount code" (standard offer)
+        Step 3: Email 2: "24-hour heads up" (creating urgency)
+        Step 4: Email 3: "2 hours left on your discount" (immediate urgency)
+        Step 5: Email 4: "We've got your back - extending 24 more hours" (drives highest revenue)
+        Step 6: Pro tip: Even if code stays valid, mentioning expiration increases conversion
+        Step 7: Unique codes feel more personal than generic ones (e.g., "CHIVBOX_12345")
+      source_file: "transcription_mp4_05-Chase-L5-Abandoned_Checkout-V3_from_Foundr_on_Vimeo.md"
+      tags: [discounts, urgency, scarcity, methodology]
+
+    - id: "MET-CD-021"
+      title: "Product Page Exit Intent Multi-Flow Strategy"
+      description: |
+        Step 1: Identify top product pages by traffic
+        Step 2: Create separate exit intent popup per product page
+        Step 3: Each popup links to specific flow (e.g., "Exit Intent USS", "Exit Intent X-Fora")
+        Step 4: Each flow: 1-2 highly targeted emails with product-specific discount
+        Step 5: Track revenue per flow ($1,300-$5,700 per flow per 3 months)
+        Step 6: Scale: Add exit intent flows for each new high-traffic product
+        Step 7: Only target non-subscribers
+      source_file: "transcription_mp4_12-Chase-B4-Exit_Intent-V3_from_Foundr_on_Vimeo.md"
+      tags: [exit-intent, multi-flow, product-specific]
+
+    - id: "MET-CD-022"
+      title: "Email Attribution and Tracking Methodology"
+      description: |
+        Step 1: Understand Klaviyo uses last-touch attribution with 4-5 day default window
+        Step 2: Consider tightening the window for more accurate attribution
+        Step 3: Review Klaviyo dashboard: Total email revenue, flows vs campaigns split
+        Step 4: Target: Somewhat even distribution between flow and campaign revenue
+        Step 5: If flows are low: Optimize existing flows and add missing ones
+        Step 6: If campaigns are low: Increase campaign frequency and segmentation
+        Step 7: Always check the analytics timeframe (past 30 days is standard)
+      source_file: "transcription_mp4_12-Chase-L12-Key_Terms-V3_from_Foundr_on_Vimeo.md"
+      tags: [attribution, tracking, analytics]
+
+    - id: "MET-CD-023"
+      title: "How-to-Use Email Methodology"
+      description: |
+        Step 1: Determine if your product needs instructions or expectation-setting
+        Step 2: Create email from customer support person's name (personal touch)
+        Step 3: Include 3 key ways to use the product
+        Step 4: Address common FAQ/support questions proactively
+        Step 5: Include tips from support team ("If your blanket feels uneven, here's how to fix it")
+        Step 6: Add review and product information at the bottom
+        Step 7: Send while customer is waiting for delivery
+      source_file: "transcription_mp4_06-Chase-L6-Post_Purchase_Primer-V3_from_Foundr_on_Vimeo.md"
+      tags: [how-to-use, education, post-purchase]
+
+    - id: "MET-CD-024"
+      title: "Dynamic Product Block Setup"
+      description: |
+        Step 1: In Klaviyo email builder, add dynamic product block
+        Step 2: Configure to show: Product image, product name, price
+        Step 3: Below main product, add "Products you might also like" section with 3 recommendations
+        Step 4: Ensure all images link to respective product pages (not just decoration)
+        Step 5: Test: Preview email with actual subscriber data to verify rendering
+        Step 6: Use across all abandonment flows for personalized product display
+      source_file: "transcription_mp4_03-Chase-L3-Browse_Abandonment-V3_from_Foundr_on_Vimeo.md"
+      tags: [dynamic-content, product-block, klaviyo]
+
+    - id: "MET-CD-025"
+      title: "Subject Line Testing Methodology"
+      description: |
+        Step 1: Create two versions with one difference (e.g., personalized product name vs ambiguous)
+        Step 2: Set up as A/B test within flow email
+        Step 3: Start with 50/50 split
+        Step 4: Run for 2+ weeks to get adequate sample (500+ per variation)
+        Step 5: Compare: Open rate, CTR, placed order rate, revenue
+        Step 6: Surprising finding: Sometimes ambiguous outperforms personalized (39.4% vs 38.6%)
+        Step 7: Shift winning version to 75% of traffic
+        Step 8: Move to next subject line test
+      source_file: "transcription_mp4_03-Chase-L3-Browse_Abandonment-V3_from_Foundr_on_Vimeo.md"
+      tags: [subject-lines, testing, optimization]
+
+    - id: "MET-CD-026"
+      title: "Conditional Split Resend Strategy"
+      description: |
+        Step 1: After important email (e.g., Thank You), add conditional split
+        Step 2: Condition: Has NOT opened the previous email
+        Step 3: If not opened: Resend same email with DIFFERENT subject line
+        Step 4: This ensures maximum people receive important communications
+        Step 5: Apply to: Thank you emails, important announcements, winback
+      source_file: "transcription_mp4_07-Chase-L7-Customer_Thank_You-V3_from_Foundr_on_Vimeo.md"
+      tags: [conditional-split, resend, open-rate]
+
+    - id: "MET-CD-027"
+      title: "Platform Migration to Klaviyo"
+      description: |
+        Step 1: In Klaviyo, go to Integrations
+        Step 2: Find previous platform (MailChimp, Campaign Monitor, Constant Contact, etc.)
+        Step 3: Click to enable integration
+        Step 4: Follow migration wizard to transfer: subscriber lists, tags, and historical data
+        Step 5: Connect Shopify store for purchase data sync
+        Step 6: Recreate flows in Klaviyo using master templates
+        Step 7: Use Klaviyo native forms for better cookie tracking than third-party
+      source_file: "transcription_mp4_13-Chase-B5-Klaviyo_Tech_Setup-V3_from_Foundr_on_Vimeo.md"
+      tags: [migration, klaviyo, platform-switch]
+
+    - id: "MET-CD-028"
+      title: "Deliverability Improvement Methodology"
+      description: |
+        Step 1: Assess current deliverability using the 3-tier framework (Good/Needs Improvement/Critical)
+        Step 2: If Critical or Needs Improvement: Implement sunset/breakup flow immediately
+        Step 3: Build engaged segment (60-90 day window)
+        Step 4: Only send campaigns to engaged segment
+        Step 5: Filter out suppressed=true from all campaigns
+        Step 6: Monitor: Open rates, click rates, bounce rates, unsubscribe rates, spam rates
+        Step 7: Positive signals to ISPs: opens, clicks, placed orders
+        Step 8: Negative signals: unsubscribes, spam marks, no engagement
+        Step 9: Use plain text for breakup emails (better inbox placement)
+      source_file: "transcription_mp4_10-Chase-L10-Breakup_Series-V3_from_Foundr_on_Vimeo.md"
+      tags: [deliverability, improvement, step-by-step]

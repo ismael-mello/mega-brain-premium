@@ -1,0 +1,27 @@
+# DNA-CONFIG: Rob Ward
+# Version: v1.0.0
+# Created: 2026-03-29
+
+agent_type: SOLO
+person: rob-ward
+full_name: "Rob Ward"
+
+dna_sources:
+  - person: rob-ward
+    weight: 1.0
+    path: "knowledge/external/dna/persons/rob-ward/"
+    materiais_fonte:
+      - course: "Foundr - Ecommerce Masters 2020"
+        module: "Module 2 - Product Success Formula + New SKUs"
+        type: COURSE
+        files: 27
+        raiz: "knowledge/external/sources/rob-ward/raw/foundr-ecommerce-masters-2020/"
+
+domains:
+  primary: [product-development, ecommerce-scaling, product-market-fit]
+  secondary: [pricing-strategy, dtc, product-validation, sku-management]
+
+expertise_summary: |
+  Co-founder of Quad Lock. 8+ years in ecommerce, ships to 100+ countries.
+  Known for Product Success Formula (3 pillars), Second Album Framework.
+  Specialist in product validation, pricing strategy, and DTC scaling.

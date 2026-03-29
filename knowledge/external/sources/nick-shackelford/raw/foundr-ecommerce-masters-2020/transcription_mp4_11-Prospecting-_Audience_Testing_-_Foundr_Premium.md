@@ -1,0 +1,16 @@
+# Transcrição: 11-Prospecting- Audience Testing - Foundr Premium
+
+- **Fonte:** 11-Prospecting- Audience Testing - Foundr Premium
+- **Duração:** 03:10
+- **Idioma:** en
+- **Modelo:** small
+
+---
+
+## [00:00 - 03:00]
+
+Something is working. We found it. Creative is working. The angle is working. The page is working. What do we do next? A little bit of scale, right? We love that talk. Up to this point we've been talking about strictly testing. Now, although testing can be viewed as adding more opportunities for scale, now we're going to be talking about a situation where we have things that are working. We have this beauty brand that's been crushing it and they need more scale. They have proven creative. Let's go into some audience testing. Okay. Now, don't be scared. This might look a little bit overwhelming, but I promise you it's not. There's a lot of lines here, but it took me more time for me to make those lines than it is for you to make this test. Promise. The biggest thing that we want to learn here is we have things that are working. There is clear success and these audiences are the next frontier because what we need is more scale. More scale, more tests, right? As you can see, we have best performing creatives that are attracting new audiences. Let's dig in and see what it looks like. Awesome. So it's very easy for us to clearly label what we're trying to do. Best performing creatives, we're trying to find some audiences. So we label it as such and it is working. Why do you think this is working? Well, we know our consumer. We know the creative that's performing the best and we know the general direction of the audiences, correct? So we know the product we're selling. Let's understand what that product is first. It's a cleaning brush. Pretty simple, very applicable for most people and it's a beautiful looking dump. Don't freak out about this. This is not how the ad usually looks. This is just how the preview is on Facebook. And the thing to remember here is that we are lowering the budget. We do not need high scale here. What we want is most cost effective purchases which is why we leverage this low budget strategy because all we're trying to do is prove concept, prove scale within the audiences that we're going for. And as you can see, a 5X to me, that's good enough. Things are working and what we want to do is get more things out of working. So it's not going to take a lot of money which is the best thing about it. All these audiences are, as you can see, no more than 20 bucks because we know that it's a proven creative with a proven offer. That proven creative offer is going to use directional and very similar audiences as you can see here. Now it's a cleaning brush for makeup. What does that open ourselves up to? Claire Sonic which is a cleaning. Mac Cosmetics. Birch Buck which is a subscription. And Clinique. You can see it's straight forward across and we like to use a great combination and often times it's not going to be any particular lookalike audience or interest audience but it's going to be our best informed audience that's so congruent with what's worked in
+
+## [03:00 - 03:10]
+
+the past as well as what resonates already with that product. So if you're looking for more scale, go ahead and launch your low budget audience testing and choose the best one that might work for you.

@@ -1,0 +1,181 @@
+person: chase-dimond
+full_name: "Chase Dimond"
+version: "v1"
+extraction_date: "2026-03-29"
+total_insights: 25
+
+insights:
+  - id: "INS-CD-001"
+    title: "Email Should Drive 25-30% of Total Ecommerce Revenue"
+    description: "Most Boundless Labs clients account for email to do about 25 to 30% of their total revenue. One client did $280,000 in email revenue over 30 days — about one third of total store revenue. This is the benchmark target for any ecommerce brand doing email properly."
+    impact: "HIGH"
+    source_elements: ["HEUR-CD-001", "HEUR-CD-002", "FIL-CD-001"]
+    tags: [revenue-benchmark, email-revenue, target]
+
+  - id: "INS-CD-002"
+    title: "The 10 Essential Ecommerce Email Flows — Complete Automation Stack"
+    description: "The complete email automation stack for scaling to 7 figures: PRE-PURCHASE: (1) Welcome Series, (2) Browse Abandonment, (3) Abandoned Cart, (4) Abandoned Checkout. POST-PURCHASE: (5) Post-Purchase Primer, (6) Customer Thank You, (7) Reviews/Upsells/Cross-Sells, (8) Customer Winback, (9) Breakup/Sunset, (10) Replenishment. Priority: Welcome Series, Abandoned Checkout, Customer Thank You first."
+    impact: "HIGH"
+    source_elements: ["FW-CD-001", "FW-CD-024", "MM-CD-002"]
+    tags: [email-stack, 10-flows, architecture, priority]
+
+  - id: "INS-CD-003"
+    title: "Abandonment Hierarchy — Browse 1%, Cart 10%, Checkout 33% Conversion"
+    description: "Three distinct types of abandonment with dramatically different conversion rates: Browse (1% conversion, low intent), Cart (10% conversion, medium intent), Checkout (33% conversion, high intent). Always prioritize deeper-funnel flows. Abandoned checkout drives about 3x the revenue of other flows."
+    impact: "HIGH"
+    source_elements: ["MM-CD-003", "HEUR-CD-009", "HEUR-CD-015", "HEUR-CD-020", "HEUR-CD-021", "FW-CD-025"]
+    tags: [abandonment-hierarchy, conversion-rates, prioritization]
+
+  - id: "INS-CD-004"
+    title: "Back-in-Stock Hack — 31-34% Placed Order Rate, Dual Growth Hack"
+    description: "Back-in-stock notifications achieve extraordinary metrics: ~60% open rate, 40-50% click-through, and 31-34% placed order rate — one in three recipients purchases. The 'Notify me when available' button also serves as a list growth hack. The while-you-wait email gets 6.4% conversion on its own."
+    impact: "HIGH"
+    source_elements: ["MM-CD-018", "HEUR-CD-055", "HEUR-CD-056", "FW-CD-013", "MET-CD-011"]
+    tags: [back-in-stock, growth-hack, exceptional-conversion]
+
+  - id: "INS-CD-005"
+    title: "VIP Segmentation Doubles Conversion — 11.6% vs 5.8%"
+    description: "Splitting flows by VIP vs regular customers nearly doubles conversion rates. VIP abandoned checkout achieved 11.6% conversion vs 5.8% for regular. The final email in VIP flow had 15% conversion vs 1.3% standard — over 10x improvement. Apply VIP splits to every major flow."
+    impact: "HIGH"
+    source_elements: ["MM-CD-016", "HEUR-CD-057", "HEUR-CD-058", "FW-CD-015", "MET-CD-013"]
+    tags: [vip, segmentation, conversion-multiplier, personalization]
+
+  - id: "INS-CD-006"
+    title: "Dollar Off Outperforms Percentage Off by 175% in Conversion"
+    description: "According to Klaviyo data on thousands of stores, dollar-based discounts outperform percentage-based discounts in both open rate and revenue per recipient. Shopify data shows dollar discounts can increase conversion by 175%. Despite this, percentage off remains most popular — a major optimization opportunity."
+    impact: "HIGH"
+    source_elements: ["HEUR-CD-027", "HEUR-CD-028", "HEUR-CD-029"]
+    tags: [discounts, dollar-vs-percentage, optimization, conversion-lift]
+
+  - id: "INS-CD-007"
+    title: "Welcome Emails Generate 320% More Revenue Per Email"
+    description: "Welcome emails generate 320% more revenue per email compared to regular promotional emails. The welcome series has a ~3% average conversion rate — one of the highest of all flows. First email must trigger within 10 minutes. Send 3-5 emails over 1-2 weeks."
+    impact: "HIGH"
+    source_elements: ["HEUR-CD-004", "HEUR-CD-005", "HEUR-CD-006", "HEUR-CD-007", "FW-CD-002"]
+    tags: [welcome-series, revenue-per-email, quick-win]
+
+  - id: "INS-CD-008"
+    title: "Secret Survey — Segment Customers Without Them Knowing"
+    description: "Use Klaviyo tracking links that look like normal campaign links to auto-tag subscriber profiles with interests and preferences. Each click updates their profile. Then trigger category-specific automated flows. Results: 34% open rate, 19% CTR on targeted content. No traditional surveys needed."
+    impact: "HIGH"
+    source_elements: ["MM-CD-015", "HEUR-CD-061", "FW-CD-014", "MET-CD-012"]
+    tags: [secret-survey, segmentation, tracking-links, zero-party-data]
+
+  - id: "INS-CD-009"
+    title: "Flow Filters as Traffic Controllers — Prevent Overlap Between Flows"
+    description: "Flow filters act as traffic controllers preventing email overlap. If someone purchases, kick them to post-purchase. If someone starts checkout, don't send browse emails. Always prioritize deeper funnel actions. Smart sending prevents fatigue with 16-24 hour minimum between emails."
+    impact: "HIGH"
+    source_elements: ["MM-CD-004", "MM-CD-005", "FIL-CD-018"]
+    tags: [flow-filters, overlap-prevention, smart-sending]
+
+  - id: "INS-CD-010"
+    title: "Thank You Emails Have 352% Higher Open Rate — Use as Marketing Channel"
+    description: "Thank you emails have 352% higher open rate than campaign emails because customers expect them. Transactional emails (order confirmation, shipping) also get very high open rates. Use these as marketing opportunities to include cross-sells, referral invites, and additional content."
+    impact: "MEDIUM"
+    source_elements: ["HEUR-CD-031", "HEUR-CD-032", "MM-CD-012", "FW-CD-008"]
+    tags: [thank-you, transactional, open-rates, marketing-opportunity]
+
+  - id: "INS-CD-011"
+    title: "69% of Online Carts Are Abandoned — Single Flow Can Add $4K+/month"
+    description: "69% of online carts are abandoned. Just by adding the abandoned cart flow alone, one client drove an extra $4,000 per month. Another watch client does $6K-$8K/month from abandoned cart. First email at 1 hour gets ~44% open rate, 11% CTR, 2.4% placed order rate."
+    impact: "HIGH"
+    source_elements: ["HEUR-CD-014", "HEUR-CD-003", "HEUR-CD-017", "HEUR-CD-018"]
+    tags: [abandoned-cart, revenue-impact, quick-win]
+
+  - id: "INS-CD-012"
+    title: "Exit Intent Strategy — Capture Leaving Visitors Who Would Generate Zero Revenue"
+    description: "Exit intent popups capture people about to leave who aren't subscribers. Offer a higher discount than normal. Product-page-specific exit intent flows drive $1,300-$5,700 per flow per 3 months. Exit intent emails achieve ~40% open rate, 7% CTR, 4% conversion."
+    impact: "MEDIUM"
+    source_elements: ["MM-CD-017", "HEUR-CD-059", "HEUR-CD-060", "HEUR-CD-030", "FW-CD-016", "MET-CD-021"]
+    tags: [exit-intent, list-building, revenue, growth-hack]
+
+  - id: "INS-CD-013"
+    title: "Sunset Unengaged Subscribers at 90 Days — Protect Deliverability"
+    description: "Trigger breakup flow when someone hasn't opened OR clicked in 90 days. Good deliverability: Opens >20%, Clicks >4%, Bounce <0.5%. Critical: Opens <10%, Clicks <1%, Bounce >2%. ISPs track engagement — negative signals push you to spam. Unengaged subscribers cost money and hurt everyone's inbox placement."
+    impact: "HIGH"
+    source_elements: ["HEUR-CD-037", "HEUR-CD-039", "HEUR-CD-040", "HEUR-CD-041", "FW-CD-011", "FW-CD-017"]
+    tags: [sunset, deliverability, list-hygiene, benchmarks]
+
+  - id: "INS-CD-014"
+    title: "A/B Testing Methodology — 500-1000 People, One Variable, 50/50 Then 75/25"
+    description: "Need 500-1000 people per variation for significance. Always test one variable at a time. Priority order: subject lines, preheader, offer type, CTA, images, send time, layout, time delays. Start 50/50, shift to 75/25 toward winner. Always be testing something."
+    impact: "MEDIUM"
+    source_elements: ["HEUR-CD-046", "HEUR-CD-047", "HEUR-CD-048", "FW-CD-018", "MET-CD-016"]
+    tags: [ab-testing, methodology, optimization, statistical-significance]
+
+  - id: "INS-CD-015"
+    title: "Popup Conversion — Aim for 10%+, Most Brands Get 3-7%"
+    description: "Most brands collect 3-7% of traffic into email subscribers via popups. 10% is pretty good, 15-17% is incredible. Optimal delay: test 3, 6, 9, 12 seconds (don't show immediately). Don't reshow for 30 days after close. Use Klaviyo native forms for better cookie tracking."
+    impact: "MEDIUM"
+    source_elements: ["HEUR-CD-050", "HEUR-CD-051", "HEUR-CD-052", "MM-CD-019", "MET-CD-019"]
+    tags: [popup, conversion-rate, list-building, optimization]
+
+  - id: "INS-CD-016"
+    title: "Discount Code Urgency Strategy — Escalate Scarcity Across Email Sequence"
+    description: "Create artificial urgency around discount codes: Email 1: Standard offer. Email 2: '24-hour heads up.' Email 3: '2 hours left.' Email 4: 'Extending 24 more hours' (drives highest revenue). Even if the code stays valid, mentioning expiration increases conversion. Unique codes feel more personal."
+    impact: "MEDIUM"
+    source_elements: ["MM-CD-008", "MET-CD-020", "FW-CD-006"]
+    tags: [urgency, scarcity, discount-strategy, escalation]
+
+  - id: "INS-CD-017"
+    title: "Abandoned Checkout Revenue: $6K-$7K/month, Up to 9.4% Conversion"
+    description: "One swimwear client does $6K-$7K/month from abandoned checkout across 3 emails. Some clients achieve 9.4% placed order rate on the first email — almost 10% of recipients actually purchase. Klaviyo found $60M revenue from checkout flows across 3,000 stores in 3 months."
+    impact: "HIGH"
+    source_elements: ["HEUR-CD-025", "HEUR-CD-026", "HEUR-CD-022", "HEUR-CD-024"]
+    tags: [abandoned-checkout, revenue, conversion-rate, case-study]
+
+  - id: "INS-CD-018"
+    title: "Winback Flow — Trigger at 3-4 Months, Use Emotional Codes"
+    description: "Trigger winback flow 3-4 months after last purchase. Send 2-3 emails with personal messaging from founder, 15% off with emotional discount code like 'MISSYOU'. iHeartDogs winback drove $3,500/month from just 2 emails. Only use if product lifecycle is under 6 months."
+    impact: "MEDIUM"
+    source_elements: ["HEUR-CD-034", "HEUR-CD-035", "HEUR-CD-036", "FW-CD-010", "FW-CD-023"]
+    tags: [winback, timing, emotional-codes, revenue]
+
+  - id: "INS-CD-019"
+    title: "Browse Abandonment Drives $3K-$5K/month for 7-8 Figure Clients"
+    description: "Most 7-8 figure ecommerce clients generate $3K-$5K/month from browse abandonment alone, with some doing $7K-$10K. Browse abandonment emails have 63% higher open rate than campaigns. Optimal timing: first email at 2 hours (1.2% conversion), second at 1 day (0.6% conversion)."
+    impact: "MEDIUM"
+    source_elements: ["HEUR-CD-010", "HEUR-CD-008", "HEUR-CD-012", "HEUR-CD-013", "FW-CD-004"]
+    tags: [browse-abandonment, revenue, timing, optimization]
+
+  - id: "INS-CD-020"
+    title: "Post-Purchase Flow — Review First, Then Sell"
+    description: "The order matters in post-purchase: first ask for a review, then try to sell more. 27% of customers return after first purchase — this makes post-purchase flows critical. Cross-sell to buyers of similar SKU gets 50% open and 7% CTR vs non-buyers at 28% open and 2% CTR."
+    impact: "MEDIUM"
+    source_elements: ["FIL-CD-012", "HEUR-CD-032", "FW-CD-009", "MET-CD-007"]
+    tags: [post-purchase, reviews, cross-sell, sequence]
+
+  - id: "INS-CD-021"
+    title: "Replenishment Emails — Send 3-7 Days Before Product Runs Out"
+    description: "For consumable products, send replenishment email before the product runs out (e.g., day 25 for a 30-day supply). Show empty product bottles with 'Running low?' subject line. Include dynamic display of previously purchased items. Test day 21, day 30, and day 35 to find optimal timing."
+    impact: "MEDIUM"
+    source_elements: ["MM-CD-013", "HEUR-CD-062", "FW-CD-012", "MET-CD-010"]
+    tags: [replenishment, consumable, timing, repeat-purchase]
+
+  - id: "INS-CD-022"
+    title: "Email Revenue Funds All Other Channels — The Growth Flywheel"
+    description: "By having revenue from email (which you've already acquired the subscriber for), you can reinvest into influencers, paid acquisition, SEO, and all other channels. Email is the fuel that funds growth. You absolutely have to use email automation to scale to seven figures."
+    impact: "HIGH"
+    source_elements: ["FIL-CD-002", "FIL-CD-003"]
+    tags: [reinvestment, growth-flywheel, scaling, automation]
+
+  - id: "INS-CD-023"
+    title: "Discount Code Strategy by Flow Position — Tiered Approach"
+    description: "Different discount levels by flow: Welcome 10%, Browse 10-15%, Cart 10-15%, Checkout 10%, Exit Intent higher than normal, VIP 20%, Winback 15% (emotional code), SMS Capture 20%. Dollar off often outperforms percentage off. Free shipping is powerful since most abandon due to shipping costs."
+    impact: "MEDIUM"
+    source_elements: ["FW-CD-028", "HEUR-CD-029"]
+    tags: [discount-strategy, flow-specific, tiered]
+
+  - id: "INS-CD-024"
+    title: "Engaged Segment Definition — 30-90 Day Window, Never Past 120"
+    description: "Define engaged segment as people who opened or clicked at least once in last 30-90 days, or added to list in last 30 days. Weekly senders use 30-day window, monthly senders use 90-day. Never go past 120 days. This is the list you mail campaigns to most frequently."
+    impact: "MEDIUM"
+    source_elements: ["HEUR-CD-053", "FW-CD-022"]
+    tags: [segmentation, engaged-list, definition, best-practice]
+
+  - id: "INS-CD-025"
+    title: "Video Review Incentive — $100 Refund for Video UGC"
+    description: "Offer $100 refund on product in exchange for video testimonial review. Customer records video with product and submits to designated folder. Video UGC is much more valuable than written reviews for Facebook and Instagram paid acquisition. This creates a steady stream of authentic ad creative."
+    impact: "MEDIUM"
+    source_elements: ["FW-CD-027", "MET-CD-006"]
+    tags: [video-reviews, UGC, incentive, ad-creative]

@@ -1,0 +1,27 @@
+# DNA-CONFIG: Nick Shackelford
+# Version: v1.0.0
+# Created: 2026-03-29
+
+agent_type: SOLO
+person: nick-shackelford
+full_name: "Nick Shackelford"
+
+dna_sources:
+  - person: nick-shackelford
+    weight: 1.0
+    path: "knowledge/external/dna/persons/nick-shackelford/"
+    materiais_fonte:
+      - course: "Foundr - Ecommerce Masters 2020"
+        module: "Module 1 - Scaling with Facebook Ads"
+        type: COURSE
+        files: 42
+        raiz: "knowledge/external/sources/nick-shackelford/raw/foundr-ecommerce-masters-2020/"
+
+domains:
+  primary: [facebook-ads, paid-media, ecommerce-scaling]
+  secondary: [creative-testing, audience-targeting, remarketing, direct-response]
+
+expertise_summary: |
+  $65-85M+ spent on Facebook ads. Specialist in ecommerce scaling via paid social.
+  Notable results: Pup Socks ($10.5M in 32 days), Diff Eyewear ($250K in 2 days).
+  Known for DCT methodology, 3-tier funnel structure, delayed attribution model.

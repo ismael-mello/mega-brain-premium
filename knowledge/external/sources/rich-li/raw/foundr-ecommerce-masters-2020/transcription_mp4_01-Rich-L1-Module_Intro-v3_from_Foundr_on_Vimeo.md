@@ -1,0 +1,16 @@
+# Transcrição: 01-Rich-L1-Module Intro-v3 from Foundr on Vimeo
+
+- **Fonte:** 01-Rich-L1-Module Intro-v3 from Foundr on Vimeo
+- **Duração:** 03:45
+- **Idioma:** en
+- **Modelo:** small
+
+---
+
+## [00:00 - 03:02]
+
+My name is Richard Lee and I'm the founder and CEO at July. We are a direct consumer luggage brand in Australia and today I'm going to teach you how to scale your business from a supply chain perspective. I previously co-founded Brosser Furniture. It's a direct-to-consumer luggage brand in Australia. We scale the business from zero to $60 million within the course of five years. I set up the entire supply chain for the business from ground up, from product development to product sourcing to manufacturing and logistics all the way to end consumer. In Brosser we developed over 10,000 different SKUs. For products we have about 3,000 different products. We're buying from India, China, Southeast Asia in many different countries and we're moving a lot of containers every month. The same thing for July. We have a very efficient supply chain operation from Asia all the way to the end consumer here in Australia. For July right now we have three products and we're moving a few containers every month right now. Right now you're probably selling some products online either on your own Shopify store or third-party websites like Amazon, eBay and you're probably working with a job shipper in China whether on Art Express or some other job shipper in China. You're getting some traction on your website but you realize that the biggest issue for you is to increase margin. You know that the only way to get extra margin is to go direct to the manufacturer. In this module I'm going to teach you how to source the best manufacturers and how to find a warehouse and what are the things you need to pay extra attention to when it comes to 3PL and also how you control your quality and how you make sure you have the best margin and how you calculate your margin as well. Scaling your manufacturer means that you're now ordering much much larger quantity. You're probably doing a full container load of stock and so there are many many things involved in this process. You know it's selling up the manufacturing partner and putting into production and also making sure the QA is done properly and also shipping that out. But working with the manufacturer though you're getting a lot of extra margin at the same time that comes with a lot of complexity. The top two things I wish I knew as a young entrepreneur at the time were one of them
+
+## [03:02 - 03:45]
+
+is how to use the right tool to find the right suppliers for me. Often people are making the same mistake using Alipapaba or going to the fair. That's great and those are the right ways to do it but they're not the most efficient way. And the second thing is how to calculate your gross margin and contribution margin in a correct way. So I wish I knew a lot early on how to work out what my gross margin is or what my contribution margin is making sure I have money to invest in the business and continue growing the business. That's one of the things I'm going to teach you in this module. The action item for this lesson is to download the workbook and let's dive in.

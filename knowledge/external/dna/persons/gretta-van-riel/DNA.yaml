@@ -1,0 +1,930 @@
+# ============================================================================
+# DNA SCHEMA: GRETTA VAN RIEL
+# ============================================================================
+# Extracted from Foundr - Ecommerce Masters 2020
+# Module 0 (Intro) + Module 4 (Advanced Influencer Marketing) + Bonuses
+# ============================================================================
+
+person: gretta-van-riel
+full_name: "Gretta van Riel"
+version: "v1"
+course: "Foundr - Ecommerce Masters 2020"
+module: "Module 0 (Intro) + Module 4 (Advanced Influencer Marketing) + Bonuses"
+total_files: 36
+extraction_date: "2026-03-29"
+
+total_elements: 147
+
+element_counts:
+  L1-PHILOSOPHIES: 18
+  L2-MENTAL-MODELS: 22
+  L3-HEURISTICS: 38
+  L4-FRAMEWORKS: 30
+  L5-METHODOLOGIES: 39
+
+# ============================================================================
+# L1 - PHILOSOPHIES (Core Beliefs)
+# ============================================================================
+L1-PHILOSOPHIES:
+
+  - id: "FIL-GVR-001"
+    title: "Influencer Marketing Is the Cornerstone of Ecommerce Success"
+    description: "Influencer marketing has been the biggest key to success across all of Gretta's brands since 2012. It is the #1 growth lever for ecommerce brands, not just a supplementary tactic."
+    source_file: "transcription_mp4_01-Gretta-L1-Module_Intro-v3_from_Foundr_on_Vimeo.md"
+    tags: [influencer-marketing, ecommerce, growth, core-belief]
+
+  - id: "FIL-GVR-002"
+    title: "Influencer Marketing Should Drive Direct Sales, Not Just Brand Awareness"
+    description: "The biggest thing to keep in mind is that influencer marketing shouldn't just grow your brand's following — it should result in direct sales. Many brands fail because they treat it as awareness-only."
+    source_file: "transcription_mp4_01-Gretta-L1-Module_Intro-v3_from_Foundr_on_Vimeo.md"
+    tags: [direct-sales, ROI, influencer-marketing, conversion]
+
+  - id: "FIL-GVR-003"
+    title: "Influence Over Reach"
+    description: "If you focus on influencers with reach, you'll get brand exposure. But if you focus on influencers with real influence, this is where they move the needle on your brand's behalf. An influencer without influence is simply a content creator with a following."
+    source_file: "transcription_mp4_02-Gretta-L2-Identifying_the_Influential-v3_from_Foundr_on_Vimeo.md"
+    tags: [influence, reach, selection, content-creator]
+
+  - id: "FIL-GVR-004"
+    title: "Consumer Trust in Brands Is at an All-Time Low"
+    description: "Consumer trust in brands is at an all-time low. Influencers have the pre-earned trust of their audience. Influencers humanize brands. Attention spans are the shortest they've ever been — consumers are tuning out brand content."
+    source_file: "transcription_pdf_14-Influencer_Marketing_Cheatsheet__AE_.md"
+    tags: [trust, consumer-behavior, brand-trust, attention]
+
+  - id: "FIL-GVR-005"
+    title: "Platform-Native Influencer Content Is the Way Forward"
+    description: "Branded content doesn't perform as well as influencer-generated content on social media. Consumers are increasingly tuning out branded content. Influencer-generated content (IGC) is authentic, platform-native content that audiences can identify with and engage with."
+    source_file: "transcription_mp4_04-Gretta-L4-Product-for-Content_Campaigns-v3_from_Foundr_on_Vimeo.md"
+    tags: [IGC, content, authenticity, platform-native]
+
+  - id: "FIL-GVR-006"
+    title: "Influencer Marketing Has a Compounding Effect"
+    description: "Influencer marketing has a compounding effect. Repetition builds recognition and memorability, which builds front-of-mind positioning. Familiarity builds trust. Don't give up after one week or one month — the compounding effects take time to build."
+    source_file: "transcription_mp4_06-Gretta-L6-Scaling_Micro-Influencers-v3_from_Foundr_on_Vimeo.md"
+    tags: [compounding, repetition, trust, long-term]
+
+  - id: "FIL-GVR-007"
+    title: "Audience Overlap Is a Good Thing"
+    description: "What we actually want amongst our influencers is audience overlap, because then consumers start to seemingly see you everywhere. This popularity acts as social proof and creates the 'everybody's doing it' effect."
+    source_file: "transcription_mp4_06-Gretta-L6-Scaling_Micro-Influencers-v3_from_Foundr_on_Vimeo.md"
+    tags: [audience-overlap, social-proof, omnipresence, compounding]
+
+  - id: "FIL-GVR-008"
+    title: "Relationships Are Not Transactions"
+    description: "All influencer marketing is about scaling relationships, and relationships are not simply a transaction. That's why marketplace tools can't really hit the mark when it comes to influencer marketing."
+    source_file: "transcription_mp4_07-Gretta-L7-Automating_Influencer_Outreach-v3_from_Foundr_on_Vimeo.md"
+    tags: [relationships, transactions, authenticity, influencer-relations]
+
+  - id: "FIL-GVR-009"
+    title: "Whoever Says It the Simplest Wins"
+    description: "One of Gretta's favorite communications quotes. Applied to bio optimization, brand messaging, and influencer briefs. Simplicity in communication drives conversion."
+    source_file: "transcription_mp4_03-Gretta-L3-Influencer_Funnels-v3_from_Foundr_on_Vimeo.md"
+    tags: [simplicity, communication, copywriting, conversion]
+
+  - id: "FIL-GVR-010"
+    title: "Video and Audio Influencers Convert Best"
+    description: "Video and audio influencers (YouTubers, TV personalities, podcasters) develop a more human connection with their audience because the audience feels like they know them, which helps scale trust much further. Multi-touchpoint relationships across platforms drive the best conversions."
+    source_file: "transcription_mp4_02-Gretta-L2-Identifying_the_Influential-v3_from_Foundr_on_Vimeo.md"
+    tags: [video, audio, YouTube, podcasters, trust, conversion]
+
+  - id: "FIL-GVR-011"
+    title: "Macro Influencers Influence Micro Influencers"
+    description: "Macro influencers are a great way to influence micro influencers. If a smaller influencer sees a larger one posting about your product, it serves as an ad saying 'this brand does influencer marketing' and they'll reach out to work with you too."
+    source_file: "transcription_mp4_02-Gretta-L2-Identifying_the_Influential-v3_from_Foundr_on_Vimeo.md"
+    tags: [macro, micro, trickle-down, influencer-ecosystem]
+
+  - id: "FIL-GVR-012"
+    title: "Influencer Marketing ROI Outperforms All Digital Media"
+    description: "Influencer Marketing has 11x the ROI of all other forms of digital media. $6.50 for every $1 spent on average. According to MediaKicks, 90% of marketers consider influencer marketing the same if not more effective for ROI than other marketing channels."
+    source_file: "transcription_pdf_14-Influencer_Marketing_Cheatsheet__AE_.md"
+    tags: [ROI, digital-media, statistics, performance]
+
+  - id: "FIL-GVR-013"
+    title: "Email Marketing Is Still One of the Lead Drivers of Sales"
+    description: "40% of Gretta's ecommerce store sales come through email alone. Getting the email address in the influencer funnel's conversion stage is the most important step."
+    source_file: "transcription_mp4_03-Gretta-L3-Influencer_Funnels-v3_from_Foundr_on_Vimeo.md"
+    tags: [email-marketing, conversion, lead-generation, sales]
+
+  - id: "FIL-GVR-014"
+    title: "An Influencer and Their Audience Are Not Always Synonymous"
+    description: "Just because an influencer is a female based in the US doesn't mean her followers will be other females based in the US. Always request audience insights — this is a mistake brands make again and again."
+    source_file: "transcription_mp4_09-Gretta-L9-Influencer_Ad_Takeover-v3_from_Foundr_on_Vimeo.md"
+    tags: [audience-insights, targeting, demographics, mistake]
+
+  - id: "FIL-GVR-015"
+    title: "Exceed Expectations with Influencers"
+    description: "Aim to surprise and delight and always exceed expectations. Treat close influencer relationships like you treat close personal relationships at work, while maintaining professionalism."
+    source_file: "transcription_mp4_12-Gretta-L12-The_Sweetener_Framework_for_Relationship_Building-v3_from_Foundr_on_Vimeo.md"
+    tags: [relationships, VIP, exceed-expectations, delight]
+
+  - id: "FIL-GVR-016"
+    title: "YouTube Is an Evergreen Platform"
+    description: "YouTube content is evergreen — while Instagram is only relevant for a few days or weeks maximum, YouTube can be relevant for years. When considering spend on YouTube, see it as a longer-term play."
+    source_file: "transcription_mp4_10-Gretta-L10-Navigating_YouTube_Influencers-v3_from_Foundr_on_Vimeo.md"
+    tags: [YouTube, evergreen, long-term, SEO]
+
+  - id: "FIL-GVR-017"
+    title: "Influencer Marketing Is Throwing Things Against the Wall in the Early Days"
+    description: "Influencer marketing is very much about throwing things against the wall and seeing what sticks in the early days. Do more of what's working and less of what's not."
+    source_file: "transcription_mp4_07-Gretta-L7-Automating_Influencer_Outreach-v3_from_Foundr_on_Vimeo.md"
+    tags: [testing, iteration, experimentation, optimization]
+
+  - id: "FIL-GVR-018"
+    title: "Don't Offer Exposure in Place of Payment"
+    description: "Don't offer 'exposure' in the place of payment — it's offensive to influencers. Be clear about what they can expect from you and what you expect in return."
+    source_file: "transcription_pdf_14-Influencer_Marketing_Cheatsheet__AE_.md"
+    tags: [payment, respect, professionalism, outreach]
+
+# ============================================================================
+# L2 - MENTAL MODELS (How She Thinks)
+# ============================================================================
+L2-MENTAL-MODELS:
+
+  - id: "MM-GVR-001"
+    title: "The Three Rs Formula (Influence Equation)"
+    description: "Reach x Relevancy x Relationship = Influence. This is the core equation for calculating an influencer's true influence. Reach alone is vanity — relevancy adds authority and relationship drives trust and conversion."
+    source_file: "transcription_mp4_02-Gretta-L2-Identifying_the_Influential-v3_from_Foundr_on_Vimeo.md"
+    tags: [three-Rs, influence-formula, reach, relevancy, relationship]
+
+  - id: "MM-GVR-002"
+    title: "The Influential vs The Influencer"
+    description: "Not all self-proclaimed influencers have influence. The 'influential' are people with credibility on the topic they're speaking about — industry or category influencers with expert status (podcasters, founders, authors, doctors, nutritionists, specialists)."
+    source_file: "transcription_mp4_02-Gretta-L2-Identifying_the_Influential-v3_from_Foundr_on_Vimeo.md"
+    tags: [influential, credibility, authority, expert-status]
+
+  - id: "MM-GVR-003"
+    title: "Influencer Tiers Model"
+    description: "Four tiers of influencers by follower count: Nano (1K-10K), Micro (10K-50K), Mid-Tier (50K-500K), Macro (500K+). Sometimes a fifth tier for Mega (1M+). Each tier has different campaign strategies, costs, and ROI dynamics."
+    source_file: "transcription_mp4_02-Gretta-L2-Identifying_the_Influential-v3_from_Foundr_on_Vimeo.md"
+    tags: [tiers, nano, micro, mid-tier, macro, mega, classification]
+
+  - id: "MM-GVR-004"
+    title: "Reach as a Moving Average (Not Static)"
+    description: "A mistake brands make is looking at reach as a static figure. An influencer with 400K followers growing by 10K/month is more powerful than one losing 10K/month. Month-on-month follower growth is the metric to look at."
+    source_file: "transcription_mp4_02-Gretta-L2-Identifying_the_Influential-v3_from_Foundr_on_Vimeo.md"
+    tags: [reach, growth-rate, moving-average, trend]
+
+  - id: "MM-GVR-005"
+    title: "The Everybody's Doing It Effect (Omnipresence)"
+    description: "When multiple influencers post about your product with audience overlap, consumers start to see you everywhere. This omnipresence creates social proof and drives the perception that 'everybody's doing it', accelerating trust and conversion."
+    source_file: "transcription_mp4_06-Gretta-L6-Scaling_Micro-Influencers-v3_from_Foundr_on_Vimeo.md"
+    tags: [omnipresence, social-proof, compounding, perception]
+
+  - id: "MM-GVR-006"
+    title: "Venture Capital Mindset for Micro-Influencer Gifting"
+    description: "Think of micro-influencer gifting like venture capital: you only need around 1 out of 10 investments to work out, as the payoff will often be over 10x the initial investment. You win some and lose some — aim for 50% completion rate."
+    source_file: "transcription_mp4_04-Gretta-L4-Product-for-Content_Campaigns-v3_from_Foundr_on_Vimeo.md"
+    tags: [VC-mindset, gifting, risk, ROI, completion-rate]
+
+  - id: "MM-GVR-007"
+    title: "Instagram Profile as Landing Page"
+    description: "On Instagram, influencers can only link to your handle (not a URL in organic posts). Your Instagram account acts like the initial landing page for your influencer marketing activities — it must be optimized for conversion like any landing page."
+    source_file: "transcription_mp4_03-Gretta-L3-Influencer_Funnels-v3_from_Foundr_on_Vimeo.md"
+    tags: [Instagram, landing-page, profile-optimization, conversion]
+
+  - id: "MM-GVR-008"
+    title: "Four-Stage Influencer Funnel"
+    description: "Brand Awareness (influencer posts) -> Consideration (follow on social via CTAs) -> Conversion (email capture + purchase) -> Brand Loyalty (repeat exposure + higher LTV). Without this funnel, all influencer buzz hits a dead end."
+    source_file: "transcription_mp4_03-Gretta-L3-Influencer_Funnels-v3_from_Foundr_on_Vimeo.md"
+    tags: [funnel, awareness, consideration, conversion, loyalty]
+
+  - id: "MM-GVR-009"
+    title: "Hard Metrics vs Soft Metrics"
+    description: "Hard metrics are quantitative: follower count, engagement rate, audience demographics. Soft metrics are qualitative: feed aesthetic, tone of voice, emotional connection with audience. Brands with less experience often overlook soft metrics."
+    source_file: "transcription_pdf_14-Influencer_Marketing_Cheatsheet__AE_.md"
+    tags: [metrics, hard-metrics, soft-metrics, qualitative, quantitative]
+
+  - id: "MM-GVR-010"
+    title: "Product Seeding Analogy"
+    description: "Unpaid product-only campaigns are similar to PR — you send out hundreds and not every one picks it up. This is called 'product seeding' as not every seed you plant will grow. It's not a binding contract."
+    source_file: "transcription_mp4_04-Gretta-L4-Product-for-Content_Campaigns-v3_from_Foundr_on_Vimeo.md"
+    tags: [product-seeding, PR-analogy, gifting, completion-rate]
+
+  - id: "MM-GVR-011"
+    title: "Influencer Cluster Concept"
+    description: "A group of influencers drawn together or interconnected for a reason: location, friendship circle, family, niche, or activities. Because they're closely related, their audiences often overlap significantly. Reality TV contestants from the same show are a perfect cluster."
+    source_file: "transcription_mp4_08-Gretta-L8-Macro_Influencer_Collaborations-v3_from_Foundr_on_Vimeo.md"
+    tags: [cluster, audience-overlap, reality-TV, interconnected]
+
+  - id: "MM-GVR-012"
+    title: "YouTube-to-Instagram Arbitrage"
+    description: "Find macro YouTube influencers on Instagram where they have a relatively smaller following of super fans. They often cost less to engage on Instagram, but their influence is still sky-high because these followers are their most dedicated fans."
+    source_file: "transcription_mp4_08-Gretta-L8-Macro_Influencer_Collaborations-v3_from_Foundr_on_Vimeo.md"
+    tags: [YouTube, Instagram, arbitrage, cost-reduction, super-fans]
+
+  - id: "MM-GVR-013"
+    title: "Influencer Ad Takeover vs Pay-Per-Post"
+    description: "Instead of paying for organic posts ($128 CPM, limited reach), get advertiser access to run dark posts through influencer's page ($9.50 CPM, unlimited scalable reach). Same budget yields 3-4x more sales. Influencers like it because it grows their follower base instead of exploiting it."
+    source_file: "transcription_mp4_09-Gretta-L9-Influencer_Ad_Takeover-v3_from_Foundr_on_Vimeo.md"
+    tags: [ad-takeover, dark-posts, CPM, paid-media, Facebook-ads]
+
+  - id: "MM-GVR-014"
+    title: "Content-for-Content vs Content-for-Post Trade-off"
+    description: "Product-for-Content campaigns get 90% completion rate (content submitted privately). Product-for-Post campaigns get 50-60% completion rate (posted to social). Content campaigns yield more assets; Post campaigns leverage the influencer's audience directly."
+    source_file: "transcription_mp4_04-Gretta-L4-Product-for-Content_Campaigns-v3_from_Foundr_on_Vimeo.md"
+    tags: [content, post, completion-rate, trade-off, campaign-type]
+
+  - id: "MM-GVR-015"
+    title: "Four Types of Influencer Personas"
+    description: "The Expert (authority/credibility), The Public Figure (celebrity status), The Creative (content quality), The Friend (relatable, authentic). Each type connects with audiences differently and suits different campaign goals."
+    source_file: "transcription_pdf_14-Influencer_Marketing_Cheatsheet__AE_.md"
+    tags: [personas, expert, public-figure, creative, friend]
+
+  - id: "MM-GVR-016"
+    title: "Breakeven Analysis for Influencer Sendouts"
+    description: "Calculate the cost to send product to each influencer: management time + product cost + shipping. Once you know your breakeven, you understand how many influencers need to post and make a sale to be profitable at scale."
+    source_file: "transcription_mp4_04-Gretta-L4-Product-for-Content_Campaigns-v3_from_Foundr_on_Vimeo.md"
+    tags: [breakeven, unit-economics, cost-analysis, scaling]
+
+  - id: "MM-GVR-017"
+    title: "Sponsored vs Organic Engagement Gap"
+    description: "Engagement rates can drop significantly when influencers post sponsored content vs organic. This gap indicates lack of authenticity in branded content or a weaker relationship with their audience. Monitor both rates before selecting an influencer."
+    source_file: "transcription_mp4_02-Gretta-L2-Identifying_the_Influential-v3_from_Foundr_on_Vimeo.md"
+    tags: [engagement, sponsored, organic, authenticity, gap]
+
+  - id: "MM-GVR-018"
+    title: "The Power of Scarcity and FOMO in Influencer CTAs"
+    description: "Get influencers to use scarcity and FOMO: 'Last time I posted this product, it sold out', 'Not much stock left, get in quick'. The goal is to get followers to buy then and there on the spot without being too pushy."
+    source_file: "transcription_mp4_08-Gretta-L8-Macro_Influencer_Collaborations-v3_from_Foundr_on_Vimeo.md"
+    tags: [scarcity, FOMO, CTA, urgency, direct-response]
+
+  - id: "MM-GVR-019"
+    title: "Campaign-Level vs Influencer-Level Analysis"
+    description: "It's better to look at influencer marketing efforts from a campaign perspective rather than per-influencer results. But still track which influencers perform best to do more of what works and less of what doesn't."
+    source_file: "transcription_mp4_07-Gretta-L7-Automating_Influencer_Outreach-v3_from_Foundr_on_Vimeo.md"
+    tags: [analytics, campaign-level, optimization, tracking]
+
+  - id: "MM-GVR-020"
+    title: "Custom Landing Pages per Influencer (YouTube)"
+    description: "Create custom landing pages geared toward each influencer with their logo, language and style. It still feels platform-native, like they barely left the YouTube channel. Then retarget visitors with custom ad creatives using the same influencer style."
+    source_file: "transcription_mp4_10-Gretta-L10-Navigating_YouTube_Influencers-v3_from_Foundr_on_Vimeo.md"
+    tags: [landing-pages, YouTube, personalization, retargeting]
+
+  - id: "MM-GVR-021"
+    title: "Paid Follow-Up as Last Resort"
+    description: "For unpaid campaigns, escalation path: gentle reminder -> offer incentive (small payment/store credit/affiliate link) -> if all else fails, just pay them. It's annoying but guarantees the outcome after you've invested the time."
+    source_file: "transcription_mp4_11-Gretta-L11-Mastering_the_Follow-Up-v3_from_Foundr_on_Vimeo.md"
+    tags: [follow-up, escalation, payment, incentive, persistence]
+
+  - id: "MM-GVR-022"
+    title: "Goal-Backward Campaign Strategy"
+    description: "Work backward from your goal to shape your entire campaign strategy. Brand Awareness -> Product-for-Post. Content Generation -> Product-for-Content. Growing Following -> Tag-to-Win Giveaways. Driving Sales -> Personalized Discount Codes."
+    source_file: "transcription_pdf_14-Influencer_Marketing_Cheatsheet__AE_.md"
+    tags: [goals, strategy, campaign-type, backward-planning]
+
+# ============================================================================
+# L3 - HEURISTICS (Numbers, Thresholds, Rules of Thumb)
+# ============================================================================
+L3-HEURISTICS:
+
+  - id: "HEUR-GVR-001"
+    title: "50-100 Influencer Sendouts Per Month Target"
+    description: "Target 50-100 micro-influencer sendouts per month for the next 3 months. Most brands that really scale do around 100 units/week (400/month max). The magic number where results really kick in is 100 sendouts/month."
+    source_file: "transcription_mp4_06-Gretta-L6-Scaling_Micro-Influencers-v3_from_Foundr_on_Vimeo.md"
+    tags: [sendouts, scale, monthly-target, micro-influencers]
+
+  - id: "HEUR-GVR-002"
+    title: "50% Completion Rate Baseline for Product-Only Campaigns"
+    description: "In unpaid product-only campaigns, aim for around a 50% post completion rate. For a new brand, it's usually 50-60%. This is the baseline — better campaigns and stronger relationships push it higher."
+    source_file: "transcription_mp4_04-Gretta-L4-Product-for-Content_Campaigns-v3_from_Foundr_on_Vimeo.md"
+    tags: [completion-rate, baseline, product-only, unpaid]
+
+  - id: "HEUR-GVR-003"
+    title: "90% Completion Rate for Product-for-Content Campaigns"
+    description: "Product-for-Content campaigns (where influencer submits content privately, no social post required) achieve ~90% completion rate vs ~50-60% for Product-for-Post campaigns."
+    source_file: "transcription_mp4_04-Gretta-L4-Product-for-Content_Campaigns-v3_from_Foundr_on_Vimeo.md"
+    tags: [completion-rate, content-campaign, high-rate]
+
+  - id: "HEUR-GVR-004"
+    title: "$25-50 Small Payment Boosts Completion Rate Significantly"
+    description: "Offering small payments or vouchers in the range of $25-50 helps significantly raise the campaign completion rate for micro-influencer campaigns. The payment/voucher is offered once they've posted."
+    source_file: "transcription_mp4_04-Gretta-L4-Product-for-Content_Campaigns-v3_from_Foundr_on_Vimeo.md"
+    tags: [payment, voucher, completion-rate, incentive]
+
+  - id: "HEUR-GVR-005"
+    title: "Product Under $50: Product-Only Is Harder"
+    description: "If your product retails under $50, you might need to offer a small payment alongside the product for micro-influencer campaigns. Products over $100 can typically get 2-3 pieces of static content plus maybe a video in return."
+    source_file: "transcription_mp4_04-Gretta-L4-Product-for-Content_Campaigns-v3_from_Foundr_on_Vimeo.md"
+    tags: [product-value, threshold, content-deliverables, pricing]
+
+  - id: "HEUR-GVR-006"
+    title: "YouTube Influencers Convert 4x Better Than Instagram or Facebook"
+    description: "YouTube influencers convert on average 4 times better than those on Facebook or Instagram, due to deeper audience relationships built through video content."
+    source_file: "transcription_mp4_01-Gretta-L1-Module_Intro-v3_from_Foundr_on_Vimeo.md"
+    tags: [YouTube, conversion-rate, 4x, platform-comparison]
+
+  - id: "HEUR-GVR-007"
+    title: "$1,000 YouTube Review = $23,000 in Sales (2,200% ROI)"
+    description: "At The Fifth, a $1,000 YouTube product review generated $23,000 in attributed sales within weeks — 2,200% ROI. And the post still converts to this day because YouTube is evergreen."
+    source_file: "transcription_mp4_02-Gretta-L2-Identifying_the_Influential-v3_from_Foundr_on_Vimeo.md"
+    tags: [YouTube, ROI, case-study, The-Fifth, evergreen]
+
+  - id: "HEUR-GVR-008"
+    title: "$500 Instagram Post = $20,000 in Sales (Reality TV Star)"
+    description: "A friend's brand engaged a reality TV star (Bachelorette Australia) and achieved $20,000 in attributed sales from a single $500 sponsored Instagram post."
+    source_file: "transcription_mp4_02-Gretta-L2-Identifying_the_Influential-v3_from_Foundr_on_Vimeo.md"
+    tags: [Instagram, ROI, reality-TV, case-study]
+
+  - id: "HEUR-GVR-009"
+    title: "Podcasters: $12,000 Placement = $21,000 in Sales"
+    description: "A brand Gretta advises received ~$4,000 in sales from one unsolicited Instagram story by a podcaster. They then locked in a podcast placement for $12,000 which generated $21,000 in attributed sales plus a big uplift in retargetable website traffic."
+    source_file: "transcription_mp4_02-Gretta-L2-Identifying_the_Influential-v3_from_Foundr_on_Vimeo.md"
+    tags: [podcast, ROI, case-study, retargeting]
+
+  - id: "HEUR-GVR-010"
+    title: "50-100 Cold DMs Per Day Rate Limit"
+    description: "There's no publicly known DM rate limit, but trusted Instagram accounts can expect to send 50-100 cold DMs per day. If someone DMs you first, you can reply without rate limits."
+    source_file: "transcription_mp4_07-Gretta-L7-Automating_Influencer_Outreach-v3_from_Foundr_on_Vimeo.md"
+    tags: [DM, rate-limit, Instagram, outreach, daily-limit]
+
+  - id: "HEUR-GVR-011"
+    title: "5-15K Follower Sweet Spot for Micro-Influencer Sendouts"
+    description: "The 5,000-15,000 follower range is the sweet spot for micro-influencers most likely to follow through and post on your brand's behalf simply in return for product."
+    source_file: "transcription_mp4_06-Gretta-L6-Scaling_Micro-Influencers-v3_from_Foundr_on_Vimeo.md"
+    tags: [sweet-spot, follower-range, micro-influencers, completion]
+
+  - id: "HEUR-GVR-012"
+    title: "Micro-Influencer Revenue Can Account for Up to 30% of Monthly Sales"
+    description: "If you're not focused on leveraging nano and micro influencers at scale, you're missing out on an additional revenue stream accounting for up to 30% of some brands' monthly sales."
+    source_file: "transcription_mp4_06-Gretta-L6-Scaling_Micro-Influencers-v3_from_Foundr_on_Vimeo.md"
+    tags: [revenue, 30-percent, micro-influencers, sales-channel]
+
+  - id: "HEUR-GVR-013"
+    title: "3-Day Follow-Up Window for DMs"
+    description: "If you haven't heard back from the influencer in 3 days after the initial DM, send a follow-up 'bumping this up in your inbox' message."
+    source_file: "transcription_mp4_06-Gretta-L6-Scaling_Micro-Influencers-v3_from_Foundr_on_Vimeo.md"
+    tags: [follow-up, timing, 3-days, DM, outreach]
+
+  - id: "HEUR-GVR-014"
+    title: "Email Follow-Up Sequence: 3 Days, 1 Week, 2 Weeks, 1 Month"
+    description: "Using Woodpecker or similar: send outreach email, then follow-ups at 3 days, 1 week, 2 weeks, and 1 month. Max 3-4 follow-ups. Influencer exits sequence when they reply."
+    source_file: "transcription_mp4_07-Gretta-L7-Automating_Influencer_Outreach-v3_from_Foundr_on_Vimeo.md"
+    tags: [email, follow-up, sequence, automation, timing]
+
+  - id: "HEUR-GVR-015"
+    title: "1 Week Post-Delivery Follow-Up"
+    description: "Set a reminder to follow up with influencers one week after they've received the product if they haven't posted yet."
+    source_file: "transcription_mp4_07-Gretta-L7-Automating_Influencer_Outreach-v3_from_Foundr_on_Vimeo.md"
+    tags: [follow-up, post-delivery, 1-week, reminder]
+
+  - id: "HEUR-GVR-016"
+    title: "Ad Takeover: $9.50 CPM vs $128 CPM for Pay-Per-Post"
+    description: "In the celebrity influencer case study (70M followers), pay-per-post yielded ~$128 CPM. The ad takeover (advertiser access) yielded $9.50 CPM — 13x cheaper with 9x more reach and 2x more website visits."
+    source_file: "transcription_mp4_09-Gretta-L9-Influencer_Ad_Takeover-v3_from_Foundr_on_Vimeo.md"
+    tags: [CPM, ad-takeover, cost-comparison, paid-media]
+
+  - id: "HEUR-GVR-017"
+    title: "Ad Takeover Content Costs 50% of Post Fee"
+    description: "For the same celebrity influencer, content generation + advertiser access cost $250,000 — 50% of the $500,000 post fee. The remaining $250,000 can fund the paid media campaign."
+    source_file: "transcription_mp4_09-Gretta-L9-Influencer_Ad_Takeover-v3_from_Foundr_on_Vimeo.md"
+    tags: [ad-takeover, cost, 50-percent, budget-allocation]
+
+  - id: "HEUR-GVR-018"
+    title: "3-4x More Sales from Ad Takeover vs Same-Budget Post"
+    description: "According to Common Thread Collective, you'll make around 3-4x as many sales for the same amount of money using an influencer ad takeover (Scenario B) compared to a traditional paid post (Scenario A)."
+    source_file: "transcription_mp4_09-Gretta-L9-Influencer_Ad_Takeover-v3_from_Foundr_on_Vimeo.md"
+    tags: [ad-takeover, sales-multiplier, ROI, comparison]
+
+  - id: "HEUR-GVR-019"
+    title: "Start Negotiations at 50% of Influencer's Initial Price"
+    description: "Try entering into YouTube influencer collaborations at around half the price of their initial offer. Be careful with larger category influencers who have agents so as not to put them off."
+    source_file: "transcription_mp4_10-Gretta-L10-Navigating_YouTube_Influencers-v3_from_Foundr_on_Vimeo.md"
+    tags: [negotiation, pricing, 50-percent, YouTube]
+
+  - id: "HEUR-GVR-020"
+    title: "4-Week Deals on YouTube Yield Best Results"
+    description: "Shinarma finds most success doing 4-week YouTube deals with one video per week. Lower costs per collaboration plus continued exposure to similar audiences over and over yields great returns."
+    source_file: "transcription_mp4_10-Gretta-L10-Navigating_YouTube_Influencers-v3_from_Foundr_on_Vimeo.md"
+    tags: [YouTube, 4-week, ongoing, cost-reduction, exposure]
+
+  - id: "HEUR-GVR-021"
+    title: "YouTube Drives 15%+ of All Social Traffic"
+    description: "For Shinarma, despite paid Facebook being highest converting, YouTube now drives over 15% of all social traffic to their website, with most paid campaigns pushing 2-3x ROAS in the first few weeks."
+    source_file: "transcription_mp4_10-Gretta-L10-Navigating_YouTube_Influencers-v3_from_Foundr_on_Vimeo.md"
+    tags: [YouTube, traffic, 15-percent, ROAS, social]
+
+  - id: "HEUR-GVR-022"
+    title: "2-3x ROAS on YouTube Paid Campaigns"
+    description: "Most YouTube paid campaigns push a 2-3x return on ad spend in the first few weeks of the campaign alone, and returns compound over time due to evergreen nature."
+    source_file: "transcription_mp4_10-Gretta-L10-Navigating_YouTube_Influencers-v3_from_Foundr_on_Vimeo.md"
+    tags: [ROAS, YouTube, 2-3x, paid-campaigns]
+
+  - id: "HEUR-GVR-023"
+    title: "8 of 10 Google Video Results Are YouTube"
+    description: "8 out of 10 Google video search results are YouTube videos. YouTube is a powerful SEO play — get videos with your brand name + 'review', 'most recommended', 'how to', 'tutorial'."
+    source_file: "transcription_mp4_10-Gretta-L10-Navigating_YouTube_Influencers-v3_from_Foundr_on_Vimeo.md"
+    tags: [SEO, YouTube, Google, search-results, 80-percent]
+
+  - id: "HEUR-GVR-024"
+    title: "Tag-to-Win: 20K Followers in 24 Hours (The Fifth)"
+    description: "With a single tag-to-win competition, The Fifth grew their Instagram following by over 20,000 followers in 24 hours, received 80,000+ comments, and was the most engaged brand profile on Instagram in the world that day."
+    source_file: "transcription_mp4_08-Gretta-L8-Macro_Influencer_Collaborations-v3_from_Foundr_on_Vimeo.md"
+    tags: [tag-to-win, growth, followers, The-Fifth, case-study]
+
+  - id: "HEUR-GVR-025"
+    title: "Bambi Boutique: 0 to 150K Followers in 1 Week with 3 Giveaways"
+    description: "Bambi Boutique teamed up with 3 macro influencers (each 1M+ followers) for beauty prize packs ($2,500+ each). Result: 0 to 150K followers in one week, 465,000+ comments on competition posts."
+    source_file: "transcription_mp4_08-Gretta-L8-Macro_Influencer_Collaborations-v3_from_Foundr_on_Vimeo.md"
+    tags: [giveaway, growth, case-study, macro-influencer]
+
+  - id: "HEUR-GVR-026"
+    title: "Calming Blankets: 7K Comments, 3.2K Followers in 48 Hours"
+    description: "Calming Blankets ran a tag-to-win giveaway with a podcaster (40K followers). Result: 7,000+ comments, grew from 15K to 19K followers (~20% increase) in 48 hours."
+    source_file: "transcription_mp4_08-Gretta-L8-Macro_Influencer_Collaborations-v3_from_Foundr_on_Vimeo.md"
+    tags: [giveaway, case-study, podcaster, follower-growth]
+
+  - id: "HEUR-GVR-027"
+    title: "8,000 Email Signups in 24 Hours from Lead Magnet"
+    description: "A free 14-day booty challenge pushed across Instagram accounts got Skinny Me Tea over 8,000 new email signups within 24 hours by converting followers into email subscribers via email-unlock platform."
+    source_file: "transcription_mp4_03-Gretta-L3-Influencer_Funnels-v3_from_Foundr_on_Vimeo.md"
+    tags: [email, lead-magnet, signups, SkinnyMeTea, case-study]
+
+  - id: "HEUR-GVR-028"
+    title: "Pinterest Discount Code: $294K from 5,000 Purchases"
+    description: "The discount code 'Pinterest10' included in Pinterest posts and bio has driven over 5,000 purchases and over $294,000 in sales for Gretta's brand."
+    source_file: "transcription_mp4_03-Gretta-L3-Influencer_Funnels-v3_from_Foundr_on_Vimeo.md"
+    tags: [Pinterest, discount-code, sales, case-study]
+
+  - id: "HEUR-GVR-029"
+    title: "50K Waitlist from Out-of-Stock Strategy"
+    description: "When Drop Bottle was out of stock, every post pushed followers to sign up to the waitlist. By changing the entire website UX to lead generation, they grew a waitlist of over 50,000 people."
+    source_file: "transcription_mp4_03-Gretta-L3-Influencer_Funnels-v3_from_Foundr_on_Vimeo.md"
+    tags: [waitlist, lead-generation, out-of-stock, FOMO, DropBottle]
+
+  - id: "HEUR-GVR-030"
+    title: "Alaya Skin: 20,000+ Influencers, 1,000+ Per Month"
+    description: "Alaya Skin sends out to over 20,000 nano and micro influencers total, at 1,000+ per month. Some nano-influencers with only a few thousand followers generate more sales than many macro influencers."
+    source_file: "transcription_mp4_05-Gretta-L5-Product-for-Post_Campaigns-v3_from_Foundr_on_Vimeo.md"
+    tags: [scale, Alaya-Skin, micro-influencers, 1000-per-month]
+
+  - id: "HEUR-GVR-031"
+    title: "Micro-Influencer with 8K Followers Generated 50 Sales"
+    description: "One of Alaya Skin's micro-influencers with 8,000 followers generated 50 sales through her discount code alone — a better result than many macro-influencers they'd worked with."
+    source_file: "transcription_mp4_05-Gretta-L5-Product-for-Post_Campaigns-v3_from_Foundr_on_Vimeo.md"
+    tags: [micro-influencer, sales, discount-code, Alaya-Skin]
+
+  - id: "HEUR-GVR-032"
+    title: "Organic Reach Estimate for Celebrity: ~3% (Macro Standard)"
+    description: "Common reach for macro influencers on organic Instagram posts is close to 3%. For celebrity-level influencers, it might be higher (~15% is aggressive). This drastically limits the value of pay-per-post."
+    source_file: "transcription_mp4_09-Gretta-L9-Influencer_Ad_Takeover-v3_from_Foundr_on_Vimeo.md"
+    tags: [organic-reach, 3-percent, macro, Instagram]
+
+  - id: "HEUR-GVR-033"
+    title: "Drop Bottle Budget Tiers for Influencer Compensation"
+    description: "3-10K followers: Product only (expected: 3 sales, 15 followers). 11-50K: Product + $50 (5 sales, 30 followers). 51-100K: Product + $300 (30 sales, 30 followers). 100-500K: Product + $500 (50 sales, 50 followers). 500K+: Product + $1,500 (150 sales, 500 followers)."
+    source_file: "transcription_pdf_04-Influencer_Acquisition_Flow__Dropbottle_.md"
+    tags: [budget, tiers, compensation, expected-ROI, DropBottle]
+
+  - id: "HEUR-GVR-034"
+    title: "Standard Micro Deliverable: 1 Feed Post + 2-3 Stories"
+    description: "The standard deliverable for micro-influencer product-for-post campaigns is 1 feed post and 2-3 Instagram stories, plus a screenshot of story analytics."
+    source_file: "transcription_docx_06-Influencer_Outreach_Scripts__Dropbottle_.md"
+    tags: [deliverables, feed-post, stories, micro-influencer]
+
+  - id: "HEUR-GVR-035"
+    title: "Woodpecker Starts at $40/Month"
+    description: "Woodpecker, the automated cold outreach and follow-up email platform, starts at around $40/month. PeopleMap for campaign tracking starts at $20/month."
+    source_file: "transcription_mp4_07-Gretta-L7-Automating_Influencer_Outreach-v3_from_Foundr_on_Vimeo.md"
+    tags: [tools, Woodpecker, PeopleMap, pricing]
+
+  - id: "HEUR-GVR-036"
+    title: "Nick Shackelford Campaign: 20 Influencers, $20K Spend, $73K Return"
+    description: "Ad takeover campaign results: 20 influencers, 72 content pieces received, $20,000 total spend, $72,976.47 total return. CPA target was $35, influencer CPA achieved was $18."
+    source_file: "transcription_pptx_09-Influencer_Ad_Takeover__Nick_Shack_for_Gretta_.md"
+    tags: [ad-takeover, case-study, CPA, ROI, Nick-Shackelford]
+
+  - id: "HEUR-GVR-037"
+    title: "$1M in One Day with Influencer Marketing"
+    description: "Gretta made $1 million in one day using influencer marketing at scale with The Fifth Watches. This was achieved through coordinated influencer campaigns."
+    source_file: "transcription_mp4_01-0_Welcome-to-Ecommerce-Masters_Gretta-Introduces-Whole-Course_from_Foundr_on_Vimeo.md"
+    tags: [The-Fifth, $1M, one-day, scale, case-study]
+
+  - id: "HEUR-GVR-038"
+    title: "Trial Tag-to-Win with 5-10 Micro-Influencers Over 1 Month"
+    description: "Start by trialing tag-to-win giveaway strategy with 5-10 micro-influencers across one month and keep an eye on results before scaling."
+    source_file: "transcription_mp4_05-Gretta-L5-Product-for-Post_Campaigns-v3_from_Foundr_on_Vimeo.md"
+    tags: [tag-to-win, trial, micro-influencers, testing]
+
+# ============================================================================
+# L4 - FRAMEWORKS (Named Structures and Campaign Types)
+# ============================================================================
+L4-FRAMEWORKS:
+
+  - id: "FW-GVR-001"
+    title: "The Sweetener Framework for Relationship Building"
+    description: "Three pillars to build/sweeten the influencer-brand relationship: (1) Make them feel INCLUDED — in your brand story, vision, mission, social cause. (2) Make them feel SPECIAL — tell them why you chose them, personalize everything. (3) Make them feel VIP — go above and beyond, surprise and delight, exceed expectations."
+    source_file: "transcription_mp4_12-Gretta-L12-The_Sweetener_Framework_for_Relationship_Building-v3_from_Foundr_on_Vimeo.md"
+    tags: [sweetener, relationship, included, special, VIP]
+
+  - id: "FW-GVR-002"
+    title: "The Three Rs Formula"
+    description: "Reach x Relevancy x Relationship = Influence. The formula for calculating an influencer's true value. Reach = follower count (growth rate matters). Relevancy = category expertise and brand alignment. Relationship = audience trust and engagement depth."
+    source_file: "transcription_mp4_02-Gretta-L2-Identifying_the_Influential-v3_from_Foundr_on_Vimeo.md"
+    tags: [three-Rs, formula, influence, selection]
+
+  - id: "FW-GVR-003"
+    title: "Four-Stage Influencer Funnel"
+    description: "Stage 1: Brand Awareness (influencer posts about brand). Stage 2: Consideration (get people to follow brand on social via CTAs). Stage 3: Conversion (get email address + purchase — the most important stage). Stage 4: Brand Loyalty (repeat exposure, higher LTV, repeat buyers)."
+    source_file: "transcription_mp4_03-Gretta-L3-Influencer_Funnels-v3_from_Foundr_on_Vimeo.md"
+    tags: [funnel, four-stages, awareness, conversion, loyalty]
+
+  - id: "FW-GVR-004"
+    title: "Profile Optimization Triangle (Feed + Bio + Link)"
+    description: "Three elements to optimize for influencer campaign conversion: (1) Feed — aesthetic matching your influencers. (2) Bio — elevator pitch: what you sell + UVP + social proof + CTA. (3) Link in Bio — trackable link to waitlist, content unlock, best sellers, or shoppable feed."
+    source_file: "transcription_mp4_03-Gretta-L3-Influencer_Funnels-v3_from_Foundr_on_Vimeo.md"
+    tags: [profile-optimization, feed, bio, link-in-bio, conversion]
+
+  - id: "FW-GVR-005"
+    title: "Product-for-Content Campaign"
+    description: "Influencer receives product and submits content directly to the brand (not posted to social). Higher completion rate (~90%), generates UGC at scale, video testimonials, images. Content can be repurposed for ads, social, and website."
+    source_file: "transcription_mp4_04-Gretta-L4-Product-for-Content_Campaigns-v3_from_Foundr_on_Vimeo.md"
+    tags: [campaign-type, product-for-content, UGC, content-generation]
+
+  - id: "FW-GVR-006"
+    title: "Product-for-Post Campaign"
+    description: "Classic gifting campaign: product sent in return for a social media post. Lower completion rate (~50-60%), but leverages the influencer's audience directly. Best with discount codes for tracking. Brands like Alaya Skin run this at 1,000+ per month."
+    source_file: "transcription_mp4_05-Gretta-L5-Product-for-Post_Campaigns-v3_from_Foundr_on_Vimeo.md"
+    tags: [campaign-type, product-for-post, gifting, discount-codes]
+
+  - id: "FW-GVR-007"
+    title: "Tag-to-Win Giveaway Campaign"
+    description: "Influencer asks followers to tag a friend and follow a brand to enter a giveaway. Ideally give 2 extra units so tagger + tagged friend both win. Works with both macro (large prizes, $2,500+) and micro (smaller prizes). Include discount code for runners-up to convert non-winners."
+    source_file: "transcription_mp4_08-Gretta-L8-Macro_Influencer_Collaborations-v3_from_Foundr_on_Vimeo.md"
+    tags: [giveaway, tag-to-win, follower-growth, engagement]
+
+  - id: "FW-GVR-008"
+    title: "Influencer Cluster Campaign"
+    description: "Group of interconnected influencers (same reality show, friendship circle, location, niche) whose audiences overlap significantly. Posting about your brand creates the 'everybody's doing it' effect. Particularly powerful with reality TV contestants."
+    source_file: "transcription_mp4_08-Gretta-L8-Macro_Influencer_Collaborations-v3_from_Foundr_on_Vimeo.md"
+    tags: [cluster, interconnected, audience-overlap, reality-TV]
+
+  - id: "FW-GVR-009"
+    title: "Influencer Ad Takeover Campaign"
+    description: "Influencer creates content (usually video testimonial) and gives brand advertiser access to run dark posts through their page. Brand controls targeting (100% US, conversion-optimized), can leverage influencer's page engagers/followers/lookalikes. 3-4x better ROI than pay-per-post."
+    source_file: "transcription_mp4_09-Gretta-L9-Influencer_Ad_Takeover-v3_from_Foundr_on_Vimeo.md"
+    tags: [ad-takeover, dark-posts, Facebook-ads, advertiser-access]
+
+  - id: "FW-GVR-010"
+    title: "Recreate Top-Performing Content Hack"
+    description: "Ask influencers to screenshot their Instagram Insights top-performing posts (ranked by impressions/engagement over last year). Identify trends (e.g., bathtub photos, puppies). Get them to recreate 1-3 of these posts featuring your product. Keeps engagement up on sponsored content."
+    source_file: "transcription_mp4_08-Gretta-L8-Macro_Influencer_Collaborations-v3_from_Foundr_on_Vimeo.md"
+    tags: [content-hack, top-performing, recreation, engagement]
+
+  - id: "FW-GVR-011"
+    title: "Video Testimonial Formula (Hook-Problem-Solution-Demo-Results-CTA)"
+    description: "Structure for influencer video testimonials: (1) Reaction to product as hook. (2) Problem they had before. (3) How it affected them. (4) Why everyone should be aware. (5) Product as perfect solution. (6) Demonstrate usage + UVPs. (7) Results guaranteeing it works. (8) Offer/CTA."
+    source_file: "transcription_mp4_04-Gretta-L4-Product-for-Content_Campaigns-v3_from_Foundr_on_Vimeo.md"
+    tags: [video, testimonial, formula, content-structure]
+
+  - id: "FW-GVR-012"
+    title: "Nine Elements of an Influencer Brief"
+    description: "(1) Brand/Product background. (2) Campaign details and goal. (3) Platform and post type. (4) Clear CTA, deliverables, and KPIs. (5) Creative direction with example images. (6) Content approval process. (7) Compensation (paid vs gifted). (8) Guidelines/Do's and Don'ts. (9) Go-live details with handles and hashtags."
+    source_file: "transcription_pdf_14-Influencer_Marketing_Cheatsheet__AE_.md"
+    tags: [brief, nine-elements, campaign-creation, template]
+
+  - id: "FW-GVR-013"
+    title: "DM-Like-Comment Outreach Flow"
+    description: "Step 1: Send DM from brand account. Step 2: Like 3 photos on their feed. Step 3: Comment on their most recent post. Step 4: If no reply in 1 day, send follow-up DM. Step 5: If no reply, send email. Track everything in spreadsheet."
+    source_file: "transcription_pdf_04-Influencer_Acquisition_Flow__Dropbottle_.md"
+    tags: [outreach, DM, like, comment, flow, automation]
+
+  - id: "FW-GVR-014"
+    title: "CTA Options for Bio Optimization"
+    description: "Pre-launch: Sign up to waitlist (exclusivity incentive). Scarcity: 'Only 100 units left' or '72 hours left in sale'. Lead magnet: Free content in exchange for email. Discount: 'Insta25 for $25 off'. Giveaway: 'Follow us to win X'. Shoppable feed link."
+    source_file: "transcription_mp4_03-Gretta-L3-Influencer_Funnels-v3_from_Foundr_on_Vimeo.md"
+    tags: [CTA, bio, conversion, lead-generation, options]
+
+  - id: "FW-GVR-015"
+    title: "Goal-to-Campaign Mapping"
+    description: "Brand Awareness -> Product-for-Post campaign. Content Generation (IGC) -> Product-for-Content campaign. Growing Following -> Tag-to-Win giveaways. Driving Sales -> Personalized discount codes."
+    source_file: "transcription_pdf_14-Influencer_Marketing_Cheatsheet__AE_.md"
+    tags: [goals, campaigns, mapping, strategy]
+
+  - id: "FW-GVR-016"
+    title: "ROI Attribution Methods for Macro Campaigns"
+    description: "Six methods: (1) Personalized discount codes. (2) Free shipping codes. (3) Store vouchers. (4) Flash sales. (5) Free gift with purchase. (6) Affiliate marketing links. All incentivize immediate purchase while enabling tracking."
+    source_file: "transcription_mp4_08-Gretta-L8-Macro_Influencer_Collaborations-v3_from_Foundr_on_Vimeo.md"
+    tags: [ROI, attribution, discount-codes, tracking, macro]
+
+  - id: "FW-GVR-017"
+    title: "Cost Reduction Strategies for Macro Influencers"
+    description: "Five strategies: (1) Have a compelling brand/product influencers want. (2) Build personal relationships. (3) Build large social following (so they want to be featured). (4) Lock in ongoing/ambassador roles (buy more save more). (5) Find YouTube influencers on Instagram (arbitrage)."
+    source_file: "transcription_mp4_08-Gretta-L8-Macro_Influencer_Collaborations-v3_from_Foundr_on_Vimeo.md"
+    tags: [cost-reduction, macro, negotiation, strategies]
+
+  - id: "FW-GVR-018"
+    title: "YouTube Content Types for Influencer Campaigns"
+    description: "Six types: (1) Product reviews. (2) 'Most recommended' lists. (3) How-to's and tutorials. (4) Joint giveaways. (5) Unboxing videos. (6) Trending styles (ASMR, mukbang). Start with brand name + 'review' and 'most recommended', then expand to industry keywords."
+    source_file: "transcription_mp4_10-Gretta-L10-Navigating_YouTube_Influencers-v3_from_Foundr_on_Vimeo.md"
+    tags: [YouTube, content-types, reviews, tutorials, unboxing]
+
+  - id: "FW-GVR-019"
+    title: "YouTube Influencer Retargeting Funnel"
+    description: "Custom lander per influencer (their style/logo) -> Retarget visitors with same influencer creative -> Customize abandoned cart emails in influencer's style -> Use offers: BOGO, bundles, 'extended due to popular demand'. Everything leverages the influencer's trust."
+    source_file: "transcription_mp4_10-Gretta-L10-Navigating_YouTube_Influencers-v3_from_Foundr_on_Vimeo.md"
+    tags: [YouTube, retargeting, funnel, custom-lander, abandoned-cart]
+
+  - id: "FW-GVR-020"
+    title: "Unpaid Follow-Up Framework"
+    description: "Five principles: (1) Structure follow-up like a reminder, not a demand. (2) Assume positive intent. (3) Compliment them and stay positive. (4) Be understanding and acknowledge their effort/time. (5) Maybe YOU are the problem — 'anything else you need from our end?'"
+    source_file: "transcription_mp4_11-Gretta-L11-Mastering_the_Follow-Up-v3_from_Foundr_on_Vimeo.md"
+    tags: [follow-up, unpaid, principles, relationship, persistence]
+
+  - id: "FW-GVR-021"
+    title: "Paid Follow-Up Framework"
+    description: "Be direct but polite. Send brief reminders before key dates. Issue calendar invites. For pre-outreach follow-ups: express that they're your first choice, mention wanting to invest in them, set a deadline for response."
+    source_file: "transcription_mp4_11-Gretta-L11-Mastering_the_Follow-Up-v3_from_Foundr_on_Vimeo.md"
+    tags: [follow-up, paid, reminders, calendar, deadline]
+
+  - id: "FW-GVR-022"
+    title: "Sweetener Gift Ideas Ladder"
+    description: "Escalating VIP treatment: Handwritten thank-you card (minimum) -> Product customization (name engraved/printed) -> Influencer-only products/merch -> Gift pack with complementary brands -> Flowers for no reason -> Milestone celebrations (birthday, graduation) -> All-expenses-paid experience/retreat."
+    source_file: "transcription_mp4_12-Gretta-L12-The_Sweetener_Framework_for_Relationship_Building-v3_from_Foundr_on_Vimeo.md"
+    tags: [gifts, VIP, escalation, surprise-and-delight]
+
+  - id: "FW-GVR-023"
+    title: "Influencer Discovery Methods"
+    description: "Manual: Hashtags (niche/location), Competitors' influencers, Influencer friends/comments, 'Similar to' platform recommendations, Location-specific (follow PR companies). Tool-based: Social Blade for growth tracking, Instagram similar-to dropdown, YouTube keyword search + 'Up Next' sidebar."
+    source_file: "transcription_pdf_14-Influencer_Marketing_Cheatsheet__AE_.md"
+    tags: [discovery, hashtags, competitors, similar-to, tools]
+
+  - id: "FW-GVR-024"
+    title: "KPI Tracking by Campaign Goal"
+    description: "Brand Awareness: reach, impressions, engagement. IGC (Content): pieces of content, quality. Followers: follower growth, follower engagement. Sales: total sales increase, referral traffic sales, discount code usage."
+    source_file: "transcription_pdf_14-Influencer_Marketing_Cheatsheet__AE_.md"
+    tags: [KPIs, tracking, goals, metrics]
+
+  - id: "FW-GVR-025"
+    title: "Influencer Outreach Email Template (Skintox Example)"
+    description: "Structure: (1) Compliment + personal detail. (2) Why them specifically. (3) Brand intro + how you're different. (4) Clear offer (product + what you want in return). (5) Direct ask for rates. Keep it concise — they don't have all day."
+    source_file: "transcription_pdf_14-Influencer_Marketing_Cheatsheet__AE_.md"
+    tags: [outreach, email, template, structure]
+
+  - id: "FW-GVR-026"
+    title: "Post-Giveaway Conversion Playbook"
+    description: "After giveaway ends: (1) Announce winner with discount code for everyone who missed out. (2) Run conversion-targeted runners-up giveaway on your own account. (3) Convert new followers into customers through the discount and organic content."
+    source_file: "transcription_mp4_08-Gretta-L8-Macro_Influencer_Collaborations-v3_from_Foundr_on_Vimeo.md"
+    tags: [giveaway, post-campaign, conversion, discount-code]
+
+  - id: "FW-GVR-027"
+    title: "Ad Takeover Paid Strategy Structure"
+    description: "Each influencer = isolated campaign (potentially product-specific). Ad sets: (1) Best performing current prospecting audiences. (2) Influencer page engagers/watchers/likers. (3) 1% lookalike of influencer followers. (4) 1% lookalike of influencer engagers. Content runs from both brand page and influencer page."
+    source_file: "transcription_pptx_09-Influencer_Ad_Takeover__Nick_Shack_for_Gretta_.md"
+    tags: [ad-takeover, ad-sets, lookalikes, targeting, Facebook]
+
+  - id: "FW-GVR-028"
+    title: "Paid Funnel with Influencer Content"
+    description: "Prospecting: Branded + Influencer content. Re-engagement: Influencer testimonials. Remarketing: View Content/Add to Cart retargeting. Bottom: DPA (Dynamic Product Ads). Influencer content is used throughout the entire funnel, not just at the top."
+    source_file: "transcription_pptx_09-Influencer_Ad_Takeover__Nick_Shack_for_Gretta_.md"
+    tags: [paid-funnel, prospecting, remarketing, DPA, influencer-content]
+
+  - id: "FW-GVR-029"
+    title: "Micro Influencer Selection Logic"
+    description: "Identify brand values -> Map to 3 influencer verticals (e.g., Beauty, Fitness, Motherhood) -> Seed product to micro-influencers in each -> Provide tracking links -> Identify winners through UTM analysis -> Build paid campaigns through top performers."
+    source_file: "transcription_pptx_09-Influencer_Ad_Takeover__Nick_Shack_for_Gretta_.md"
+    tags: [micro, selection, verticals, seed, winners, paid]
+
+  - id: "FW-GVR-030"
+    title: "10-Step Drop Bottle Acquisition Flow"
+    description: "Step 1: Send DM. Step 2: Like 3 posts + comment. Step 3a: No reply in 1 day -> follow-up DM. Step 3b: They reply -> answer Qs. Step 4: Interested -> send offer. Step 5: Accept -> confirmation message. Step 6: Send product. Step 7: Ask for analytics + review. Step 8: If successful -> further offer. Step 9: Build avatar from best performers + find 20 more via 'similar'. Step 10: Start again at Step 1."
+    source_file: "transcription_pdf_04-Influencer_Acquisition_Flow__Dropbottle_.md"
+    tags: [acquisition-flow, 10-steps, DropBottle, process, cycle]
+
+# ============================================================================
+# L5 - METHODOLOGIES (Step-by-Step Implementations)
+# ============================================================================
+L5-METHODOLOGIES:
+
+  - id: "MET-GVR-001"
+    title: "Scaling Micro-Influencer Outreach Methodology"
+    description: "Complete system for managing hundreds of micro-influencer collaborations: (1) Create blank Instagram account for list building. (2) Follow 100-1000 micro-influencers (5-15K sweet spot). (3) Use Instagram 'similar to' dropdown to find more. (4) Hire VA (Philippines, good English, customer service background). (5) VA sends DMs from brand account (50-100/day). (6) VA likes 3 posts + comments on latest. (7) 3-day follow-up if no reply. (8) Switch to email via Woodpecker automation. (9) Track everything in spreadsheet. (10) Target 50-100 collaborations/month for 3 months."
+    source_file: "transcription_mp4_06-Gretta-L6-Scaling_Micro-Influencers-v3_from_Foundr_on_Vimeo.md"
+    tags: [scaling, micro-influencers, VA, DM, outreach, methodology]
+
+  - id: "MET-GVR-002"
+    title: "Automating Influencer Outreach with Woodpecker + PeopleMap"
+    description: "Email automation: Use Woodpecker ($40/mo) to create pre-built campaigns with outreach email + 3-4 follow-ups (3 days, 1 week, 2 weeks, 1 month). Influencer auto-exits on reply. Tracking: Use PeopleMap ($20/mo) to create campaigns, add influencers by handle, auto-track mentions of your brand + campaign hashtags. Get campaign-level stats: reach, impressions, posts, engagement, follower growth."
+    source_file: "transcription_mp4_07-Gretta-L7-Automating_Influencer_Outreach-v3_from_Foundr_on_Vimeo.md"
+    tags: [automation, Woodpecker, PeopleMap, email, tracking]
+
+  - id: "MET-GVR-003"
+    title: "Product-for-Content Campaign Execution"
+    description: "(1) Write influencer brief with product, platform, deliverables (video + images in edited and non-edited form). (2) Send product to influencers. (3) They submit content directly to brand via email/Dropbox/Google Drive. (4) Use video testimonial formula. (5) If they like what they created, they may post organically anyway. (6) Add extra deliverable: leave testimonial on website/Facebook/ads. (7) At scale: monthly with hundreds of positive reviews onto top performing ads."
+    source_file: "transcription_mp4_04-Gretta-L4-Product-for-Content_Campaigns-v3_from_Foundr_on_Vimeo.md"
+    tags: [product-for-content, execution, brief, testimonial, UGC]
+
+  - id: "MET-GVR-004"
+    title: "Tag-to-Win Giveaway Execution"
+    description: "(1) Select right influencer (cult-like following, podcaster/YouTuber converts best). (2) Craft compelling caption with clear CTA, time limit, simple entry (tag a friend + follow). (3) Give 2 extra units so tagger + friend both win. (4) Add extra step: share to story for 10 bonus entries. (5) Limit timespan (24-48 hours). (6) Announce winner WITH discount code for everyone who missed out. (7) Run runners-up giveaway on your own account. (8) Track: comments, follower growth, engagement."
+    source_file: "transcription_mp4_08-Gretta-L8-Macro_Influencer_Collaborations-v3_from_Foundr_on_Vimeo.md"
+    tags: [tag-to-win, execution, giveaway, steps, conversion]
+
+  - id: "MET-GVR-005"
+    title: "Influencer Ad Takeover Execution"
+    description: "(1) Select influencer (request audience insights first). (2) Get them to create video testimonial content. (3) Negotiate advertiser access for dark posts (often 50% of post fee). (4) Set targeting: geographic, demographic, conversion-optimized. (5) Access their page engagers, Instagram engagers, video viewers. (6) Create lookalike audiences from their followers. (7) Run dark posts from their page (doesn't show on their feed). (8) Scale spend and reach beyond organic limits. (9) Retarget with branded + influencer creative."
+    source_file: "transcription_mp4_09-Gretta-L9-Influencer_Ad_Takeover-v3_from_Foundr_on_Vimeo.md"
+    tags: [ad-takeover, execution, dark-posts, targeting, lookalikes]
+
+  - id: "MET-GVR-006"
+    title: "YouTube Influencer Campaign Methodology"
+    description: "(1) Keyword research (YouTube search suggest + keyword tools). (2) Start with 'brand name + review/recommended' videos via nano/micro. (3) Manual discovery via keyword search, competitor channels, 'Up Next' sidebar. (4) Hire 2 full-time VAs for list building and outreach. (5) Negotiate: start at 50% of initial price, try affiliate first, negotiate 4-week ongoing deals. (6) Brief: give 3 talking points, let them handle creative. (7) Create custom landing page per influencer. (8) Add trackable link (first link, above fold). (9) Retarget lander visitors with influencer-style ads. (10) Customize abandoned cart emails in influencer's style."
+    source_file: "transcription_mp4_10-Gretta-L10-Navigating_YouTube_Influencers-v3_from_Foundr_on_Vimeo.md"
+    tags: [YouTube, methodology, keyword-research, custom-lander, retargeting]
+
+  - id: "MET-GVR-007"
+    title: "Influencer Funnel Optimization Methodology"
+    description: "(1) Map 4-stage funnel (Awareness->Consideration->Conversion->Loyalty). (2) Optimize Feed: match aesthetic to influencer style. (3) Optimize Bio: brand summary + UVP + social proof + CTA in minimal words. (4) Optimize Link: trackable UTM link to best-converting destination (waitlist, content unlock, best sellers, shoppable feed). (5) Test different CTAs for 1 week to see what converts best. (6) Reinforce CTA in your own posts. (7) Blog post featuring macro influencer before content goes live."
+    source_file: "transcription_mp4_03-Gretta-L3-Influencer_Funnels-v3_from_Foundr_on_Vimeo.md"
+    tags: [funnel, optimization, bio, feed, link, CTA, testing]
+
+  - id: "MET-GVR-008"
+    title: "VA Hiring and Training for Influencer Outreach"
+    description: "(1) Post job on Freelancer or Upwork. (2) Requirements: good English, customer service background, data entry skills, fast learner. (3) Provide acquisition flow document with all scripts and FAQs. (4) Train on: list building account, brand account outreach, spreadsheet tracking, DM scripts, comment templates, email templates, FAQ handling. (5) VA flags unknown questions for in-house team. (6) Add recurring FAQs to the document. (7) Need more than one VA as you scale."
+    source_file: "transcription_mp4_06-Gretta-L6-Scaling_Micro-Influencers-v3_from_Foundr_on_Vimeo.md"
+    tags: [VA, hiring, training, outreach, scripts, FAQ]
+
+  - id: "MET-GVR-009"
+    title: "Influencer Identification Methodology (Three Rs Deep Dive)"
+    description: "(1) REACH: Use Social Blade to find high month-to-month growth influencers. Look for high-growth mid-tier influencers to lock into contracts at current rates. (2) RELEVANCY: Research category influencers (podcasters, doctors, authors, award winners). Ask: 'Does this person have credibility/expert status?' Map their influence to your audience. (3) RELATIONSHIP: Check engagement on organic vs sponsored posts. Prioritize multi-platform influencers (YouTube + Instagram + podcast). Look for cult-like followings."
+    source_file: "transcription_mp4_02-Gretta-L2-Identifying_the_Influential-v3_from_Foundr_on_Vimeo.md"
+    tags: [identification, three-Rs, Social-Blade, credibility, engagement]
+
+  - id: "MET-GVR-010"
+    title: "Influencer Brief Writing Methodology"
+    description: "(1) Write in your brand's tone of voice. (2) Include all 9 elements: brand background, campaign details/goal, platform/post type, CTA/deliverables/KPIs, creative direction with examples, content approval process, compensation terms, guidelines/do's and don'ts, go-live details with handles/hashtags. (3) Give creative freedom. (4) Specify if they must submit for approval before going live. (5) Ask them to notify when post is live."
+    source_file: "transcription_pdf_14-Influencer_Marketing_Cheatsheet__AE_.md"
+    tags: [brief, writing, 9-elements, campaign-creation]
+
+  - id: "MET-GVR-011"
+    title: "Mastering the Follow-Up (Unpaid) Methodology"
+    description: "(1) Structure as reminder, not demand. (2) Assume positive intent. (3) Address next logical step: 'Have you had a chance to try it?' (4) Compliment: 'Can't wait to see what you create.' (5) Acknowledge busy schedule: 'I know you're really busy but...' (6) Take blame: 'Anything else you need from our end?' (7) If not working: offer incentive (small payment, store credit, affiliate link). (8) Last resort: just pay them. (9) Document all outreach dates and notes in tracking spreadsheet."
+    source_file: "transcription_mp4_11-Gretta-L11-Mastering_the_Follow-Up-v3_from_Foundr_on_Vimeo.md"
+    tags: [follow-up, unpaid, steps, persistence, incentive]
+
+  - id: "MET-GVR-012"
+    title: "Mastering the Follow-Up (Paid) Methodology"
+    description: "(1) Send reminder-style follow-ups before key dates. (2) Remind day before content submission deadline. (3) Remind day before post goes live. (4) Keep follow-ups brief and to the point. (5) Send calendar invites with reminders. (6) For pre-outreach: express they're first choice, mention wanting to invest in them. (7) Put deadline for response to move on to other influencers if needed. (8) Use MailTag to track email opens. (9) Ask mutual contacts for warm introductions."
+    source_file: "transcription_mp4_11-Gretta-L11-Mastering_the_Follow-Up-v3_from_Foundr_on_Vimeo.md"
+    tags: [follow-up, paid, reminders, calendar, deadline, warm-intro]
+
+  - id: "MET-GVR-013"
+    title: "Sweetener Framework Implementation"
+    description: "(1) INCLUDED: Clue influencer into brand's 'why', mission, social cause. Make them feel the value of their role. (2) SPECIAL: Tell them why you chose them. Personalize all communication. Highlight how you do things differently. (3) VIP: Handwritten thank-you cards at minimum. Product customization (name engraved). Influencer-only products. Gift packs. Flowers. All-expenses-paid experiences. (4) Keep running list of important dates in influencer's life (birthdays, milestones). (5) Treat like close work relationships but maintain professionalism."
+    source_file: "transcription_mp4_12-Gretta-L12-The_Sweetener_Framework_for_Relationship_Building-v3_from_Foundr_on_Vimeo.md"
+    tags: [sweetener, implementation, VIP, personalization, gifts]
+
+  - id: "MET-GVR-014"
+    title: "Recreating Top-Performing Content for Sponsored Posts"
+    description: "(1) Ask influencer to go to Instagram Insights -> Content -> See All -> Feed Posts (ranked by impressions). (2) Get them to screenshot the page. (3) Identify trends in top-performing content (themes, settings, elements). (4) Pick 1-3 posts to recreate featuring your product. (5) Ensure product fits authentically into the scene. (6) This keeps engagement high on sponsored content because it mirrors what their audience already loves."
+    source_file: "transcription_mp4_08-Gretta-L8-Macro_Influencer_Collaborations-v3_from_Foundr_on_Vimeo.md"
+    tags: [content, recreation, top-performing, engagement, hack]
+
+  - id: "MET-GVR-015"
+    title: "Influencer Cluster Campaign Execution"
+    description: "(1) Identify cluster: reality TV show contestants, friend groups, local influencers, same niche. (2) Leverage massive audience overlap between cluster members. (3) Coordinate publishing dates across cluster. (4) Run as Product-for-Post with each member. (5) Result: brand appears everywhere to the overlapping audience, creating 'everybody's doing it' effect."
+    source_file: "transcription_mp4_08-Gretta-L8-Macro_Influencer_Collaborations-v3_from_Foundr_on_Vimeo.md"
+    tags: [cluster, execution, coordination, overlap, scheduling]
+
+  - id: "MET-GVR-016"
+    title: "Instagram Profile Conversion Optimization"
+    description: "(1) FEED: Curate content to match influencer aesthetic so new visitors feel familiar. (2) BIO: Write elevator pitch — what you sell + UVP + social proof + CTA in fewest words possible. (3) LINK: Use trackable short link with Google UTM parameters. Options: waitlist page, content unlock (email gate), best sellers, shoppable feed. (4) Test different CTAs weekly. (5) Reinforce CTA in every post. (6) Pre-influencer post: publish blog featuring the influencer so followers see relevant reason to click through."
+    source_file: "transcription_mp4_03-Gretta-L3-Influencer_Funnels-v3_from_Foundr_on_Vimeo.md"
+    tags: [profile, optimization, feed, bio, link, conversion]
+
+  - id: "MET-GVR-017"
+    title: "ROI Analysis Methodology"
+    description: "(1) Website traffic: unique users, referral sources (use trackable UTM links or clk.im with retargeting). (2) Sales data: personalized discount codes per influencer. (3) Social media growth: record followers before and after post/campaign. (4) Influencer insights: ask influencer to share their post insights. (5) Look at campaign-level metrics first, then drill into individual influencer performance. (6) Do more of what works, less of what doesn't."
+    source_file: "transcription_pdf_14-Influencer_Marketing_Cheatsheet__AE_.md"
+    tags: [ROI, analysis, tracking, UTM, discount-codes, metrics]
+
+  - id: "MET-GVR-018"
+    title: "Low-Ticket Merch Strategy for High-Ticket Brands"
+    description: "If your product is too expensive for micro-influencer sendouts at scale, create a lower-ticket item (hat, t-shirt, sweater, beanie, drink bottle) even if not sold on store. Use it to tell brand story/benefits. Examples: Fluff, Glossier merch. This enables the 100+ sendouts/month strategy."
+    source_file: "transcription_mp4_06-Gretta-L6-Scaling_Micro-Influencers-v3_from_Foundr_on_Vimeo.md"
+    tags: [merch, high-ticket, workaround, scaling, brand-story]
+
+  - id: "MET-GVR-019"
+    title: "Ambassador Program with Individual Discount Codes"
+    description: "Give each nano/micro-influencer their own individual discount code. Makes them feel like brand ambassadors, not just one-off collaborators. Some will add your handle to their bio. Some will post multiple times creating repeated positive brand exposure. Results: some nano-influencers outperform macro-influencers in sales."
+    source_file: "transcription_mp4_05-Gretta-L5-Product-for-Post_Campaigns-v3_from_Foundr_on_Vimeo.md"
+    tags: [ambassador, discount-codes, individual, loyalty, nano]
+
+  - id: "MET-GVR-020"
+    title: "Lock-In High-Growth Influencers at Current Rates"
+    description: "(1) Identify high-growth mid-tier influencers via Social Blade. (2) Lock them into multi-month contracts (3+ months) at current pricing. (3) Negotiate reduced rate for multi-post deal. (4) Pay in advance for the series. (5) As they grow, you're still paying the original reduced rate. Example: The Fifth locked mid-tier Hawaiian influencer before his follower explosion — paid reduced rates months later."
+    source_file: "transcription_mp4_02-Gretta-L2-Identifying_the_Influential-v3_from_Foundr_on_Vimeo.md"
+    tags: [lock-in, growth, multi-month, negotiation, The-Fifth]
+
+  - id: "MET-GVR-021"
+    title: "List Building Account Method"
+    description: "(1) Create blank new Instagram account (e.g., DB1234). (2) Find a few initial micro-influencers. (3) Use Instagram's 'similar to' dropdown to find more like them (algorithm groups by audience overlap, content, niche). (4) Build to 100 influencers initially, then up to 1,000. (5) Sort by date followed (earliest to latest) for VA tracking. (6) Account is never used for outreach — only for building and organizing the target list."
+    source_file: "transcription_mp4_06-Gretta-L6-Scaling_Micro-Influencers-v3_from_Foundr_on_Vimeo.md"
+    tags: [list-building, Instagram, account, similar-to, algorithm]
+
+  - id: "MET-GVR-022"
+    title: "Blog Post Feature Before Influencer Post Goes Live"
+    description: "(1) Coordinate with macro influencer before their content goes live. (2) Create blog post featuring the influencer. (3) Use some of their shoot images (with permission). (4) Include shoppable links in the blog. (5) When influencer posts and followers visit your profile, they see a relevant reason to click through to the blog immediately."
+    source_file: "transcription_mp4_03-Gretta-L3-Influencer_Funnels-v3_from_Foundr_on_Vimeo.md"
+    tags: [blog, pre-launch, shoppable, macro-influencer, coordination]
+
+  - id: "MET-GVR-023"
+    title: "Influencer Reviews as Social Proof at Scale"
+    description: "(1) Get influencer to create video testimonial via Product-for-Content campaign. (2) After submission, ask them to leave the testimonial on your website. (3) Also on your Facebook page. (4) Also directly onto top-performing Facebook ads. (5) At scale monthly with hundreds of influencers = constant stream of fresh positive reviews on ads and website."
+    source_file: "transcription_mp4_04-Gretta-L4-Product-for-Content_Campaigns-v3_from_Foundr_on_Vimeo.md"
+    tags: [reviews, social-proof, testimonials, Facebook-ads, website]
+
+  - id: "MET-GVR-024"
+    title: "YouTube Influencer Discovery Methodology"
+    description: "(1) Keyword search on YouTube for your product/industry. (2) Find influencers who did videos for other brands in your category (non-competing). (3) Use 'Up Next' sidebar for related channels. (4) Check Google for featured lists of YouTubers. (5) Use YouTube search suggest for popular search terms. (6) Hire 2 full-time VAs for list building and email pulling. (7) Use similar outreach flow as Instagram (adapted for YouTube context)."
+    source_file: "transcription_mp4_10-Gretta-L10-Navigating_YouTube_Influencers-v3_from_Foundr_on_Vimeo.md"
+    tags: [YouTube, discovery, keyword-search, VAs, Up-Next]
+
+  - id: "MET-GVR-025"
+    title: "YouTube Negotiation Methodology"
+    description: "(1) Try affiliate commission first (pay based on results). (2) If they want upfront payment, start at 50% of their ask. (3) Negotiate 4-week ongoing deals (1 video/week) for lower per-video cost. (4) If budget still too high, negotiate cross-platform deal (add Instagram stories or Facebook ad takeover). (5) Be careful with large category influencers who have agents — don't be too aggressive."
+    source_file: "transcription_mp4_10-Gretta-L10-Navigating_YouTube_Influencers-v3_from_Foundr_on_Vimeo.md"
+    tags: [YouTube, negotiation, affiliate, ongoing, cross-platform]
+
+  - id: "MET-GVR-026"
+    title: "Influencer Workflow Post-Collaboration"
+    description: "(1) Track delivery. (2) Message influencer once product received. (3) Express post if budget allows (exceed expectations). (4) Include handwritten thank-you card. (5) Once posted, arrange payment (PayPal preferred for international). (6) For content campaigns, get content via email/Dropbox/Drive. (7) Ask for story analytics screenshots. (8) Note profile click-throughs vs views. (9) Create avatar from most successful influencers. (10) Use 'similar' to find 20 more like them."
+    source_file: "transcription_pdf_14-Influencer_Marketing_Cheatsheet__AE_.md"
+    tags: [workflow, post-collaboration, tracking, payment, iteration]
+
+  - id: "MET-GVR-027"
+    title: "Waitlist Growth via Influencer-Driven FOMO"
+    description: "(1) When product is out of stock, push every post toward waitlist signup. (2) Change entire website UX to be geared toward lead generation (not purchase). (3) Use influencers to drive traffic to waitlist. (4) CTA in bio: 'Sign up to find out when we're launching again.' (5) Trigger FOMO with exclusivity and scarcity. Example: Drop Bottle grew 50,000-person waitlist using this method."
+    source_file: "transcription_mp4_03-Gretta-L3-Influencer_Funnels-v3_from_Foundr_on_Vimeo.md"
+    tags: [waitlist, FOMO, out-of-stock, lead-generation, DropBottle]
+
+  - id: "MET-GVR-028"
+    title: "Influencer-Generated Content for Facebook Ads"
+    description: "(1) Get IGC from Product-for-Content campaigns. (2) Repurpose across Facebook ads as social proof and visual hooks. (3) Run from brand's ad account with influencer content. (4) For ad takeover: run as dark posts from influencer's page. (5) Stack influencer audience data with your own for new audience creation. (6) Use throughout entire paid funnel: prospecting, re-engagement, remarketing."
+    source_file: "transcription_mp4_09-Gretta-L9-Influencer_Ad_Takeover-v3_from_Foundr_on_Vimeo.md"
+    tags: [IGC, Facebook-ads, dark-posts, paid-funnel, repurposing]
+
+  - id: "MET-GVR-029"
+    title: "Lead Magnet for Email Capture via Instagram"
+    description: "(1) Create valuable free content (e.g., 14-day challenge, eating plan, content guide). (2) Use email-unlock platform (JustDoKnow, SumoMe). (3) Push across Instagram accounts: 'Get access via the link in our bio.' (4) CTA in bio links to content unlock page. (5) Track with UTM parameters. Example: SMT's 14-day booty challenge = 8,000 signups in 24 hours."
+    source_file: "transcription_mp4_03-Gretta-L3-Influencer_Funnels-v3_from_Foundr_on_Vimeo.md"
+    tags: [lead-magnet, email, Instagram, content-unlock, SumoMe]
+
+  - id: "MET-GVR-030"
+    title: "Micro Influencer Testing via Instagram Stories"
+    description: "(1) Identify 10+ micro-influencers across brand-relevant verticals. (2) Send product + value props. (3) Establish trust + view salesmanship. (4) Provide UTM tracking link. (5) Get them to post IG Story with swipe-up CTA first. (6) Analyze quantitative (swipe-up rate, purchases) + qualitative (content quality). (7) Move organic top performers into paid campaigns. (8) Top performers get partnership: page access + 2 more content pieces."
+    source_file: "transcription_pptx_09-Influencer_Ad_Takeover__Nick_Shack_for_Gretta_.md"
+    tags: [micro, testing, IG-stories, swipe-up, UTM, paid-promotion]
+
+  - id: "MET-GVR-031"
+    title: "Warm Introduction Strategy for Macro Influencers"
+    description: "(1) If influencer hasn't replied to email/DM, ask a mutual contact (brand or influencer you know) to introduce you. (2) Warm introductions go a long way for busy people. (3) Use MailTag for Gmail to track if they opened email but haven't responded. (4) This helps determine if the issue is visibility vs interest."
+    source_file: "transcription_mp4_11-Gretta-L11-Mastering_the_Follow-Up-v3_from_Foundr_on_Vimeo.md"
+    tags: [warm-intro, macro, outreach, MailTag, connections]
+
+  - id: "MET-GVR-032"
+    title: "Cross-Platform Deal Negotiation"
+    description: "If YouTube price exceeds budget: (1) Ask for cross-platform deal. (2) Bundle YouTube video + Instagram stories + potential Facebook ad takeover. (3) Negotiate total package price. (4) This maximizes touchpoints across platforms for the same total budget."
+    source_file: "transcription_mp4_10-Gretta-L10-Navigating_YouTube_Influencers-v3_from_Foundr_on_Vimeo.md"
+    tags: [cross-platform, negotiation, YouTube, Instagram, bundle]
+
+  - id: "MET-GVR-033"
+    title: "Using The Fifth's Launch Model for FOMO"
+    description: "The Fifth only sold on the 5th of each month for 5 days. First CTA: 'Sign up to find out when we're launching again.' This triggered extreme FOMO. Combined with influencer marketing at scale, this model drove $1M in a single day."
+    source_file: "transcription_mp4_03-Gretta-L3-Influencer_Funnels-v3_from_Foundr_on_Vimeo.md"
+    tags: [The-Fifth, FOMO, limited-release, launch-model, scarcity]
+
+  - id: "MET-GVR-034"
+    title: "YouTube SEO Strategy via Influencers"
+    description: "(1) Start with brand name + 'review' videos via nano/micro influencers. (2) Add 'most recommended' and 'tutorial/how-to' content. (3) Accidentally discovered titles like 'The truth about [Brand]' perform well. (4) Do industry keyword research. (5) Use YouTube search suggest for popular terms. (6) Find best-performing videos across your industry. (7) Create content with influencers around those exact terms."
+    source_file: "transcription_mp4_10-Gretta-L10-Navigating_YouTube_Influencers-v3_from_Foundr_on_Vimeo.md"
+    tags: [YouTube, SEO, keywords, reviews, search-suggest]
+
+  - id: "MET-GVR-035"
+    title: "Abandoned Cart Email Customization per Influencer"
+    description: "(1) When traffic comes from specific influencer, customize abandoned cart emails to match that influencer's style. (2) Use their BOGO/offer in the email. (3) Sequence: 'Influencer's BOGO is only available for 4 more hours' -> 'Extended for X time' -> 'Back due to popular demand'. (4) Leverages both influencer trust and familiarity."
+    source_file: "transcription_mp4_10-Gretta-L10-Navigating_YouTube_Influencers-v3_from_Foundr_on_Vimeo.md"
+    tags: [abandoned-cart, email, personalization, influencer-style, urgency]
+
+  - id: "MET-GVR-036"
+    title: "Additional Influencer Content Usage"
+    description: "Repurpose influencer content across: (1) Brand blog posts. (2) Social reposts/reshares. (3) Product display pages. (4) Press releases. (5) Post-purchase email (enter to win influencer collab). (6) Request selfies and engagement for UGC library."
+    source_file: "transcription_pptx_09-Influencer_Ad_Takeover__Nick_Shack_for_Gretta_.md"
+    tags: [content-repurposing, blog, press, post-purchase, UGC]
+
+  - id: "MET-GVR-037"
+    title: "Influencer Acquisition Flow Document Creation"
+    description: "(1) Write simply (VA's first language may not be English). (2) Include: campaign goal, key brand messages, deliverables, what to do overview, reminders, link to tracking spreadsheet, outreach flow (10 steps), all response scripts (DM, comments, follow-up, offer, confirmation, email), FAQ section. (3) VA adds recurring FAQs over time. (4) Include influencer planning by tier with budget and expected ROI."
+    source_file: "transcription_mp4_04-Gretta-B2-Influencer_Aquisition_Flow-v3_from_Foundr_on_Vimeo.md"
+    tags: [acquisition-flow, document, VA, scripts, FAQ, tiers]
+
+  - id: "MET-GVR-038"
+    title: "Fake Follower Detection"
+    description: "5 ways to tell if an influencer has bought fake followers (referenced in cheatsheet). Check for: sudden follower spikes, low engagement relative to followers, generic/bot comments, follower-to-engagement ratio anomalies, audience demographic mismatches."
+    source_file: "transcription_pdf_14-Influencer_Marketing_Cheatsheet__AE_.md"
+    tags: [fake-followers, detection, verification, due-diligence]
+
+  - id: "MET-GVR-039"
+    title: "Product-for-Post Campaign at Massive Scale (Alaya Model)"
+    description: "(1) Send to 1,000+ influencers per month (20,000+ total). (2) Give each their own individual discount code. (3) Use hashtags (#AlayaSkin, #AlayaSkinBabe). (4) Make influencers feel like brand ambassadors, not one-time collaborators. (5) Some add your handle to their bio. (6) Some post multiple times. (7) Track: some nano-influencers outperform macro in sales. (8) Build genuine relationships at scale."
+    source_file: "transcription_mp4_05-Gretta-L5-Product-for-Post_Campaigns-v3_from_Foundr_on_Vimeo.md"
+    tags: [massive-scale, Alaya-model, 1000-per-month, ambassador, hashtags]

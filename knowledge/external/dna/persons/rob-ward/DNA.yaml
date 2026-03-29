@@ -1,0 +1,772 @@
+# ============================================================================
+# ROB WARD - DNA SCHEMA
+# ============================================================================
+# Co-founder of Quad Lock | 8+ years ecommerce | 100+ countries | 7 warehouses
+# Bootstrapped from $0 to $9M in 4 years | 80+ SKUs | 3M+ units sold
+# ============================================================================
+
+person: rob-ward
+full_name: "Rob Ward"
+version: "v1"
+course: "Foundr - Ecommerce Masters 2020"
+module: "Module 2 - Product Success Formula (Creating New SKUs) + Bonuses"
+total_files: 27
+extraction_date: "2026-03-29"
+
+total_elements:
+  L1_PHILOSOPHIES: 14
+  L2_MENTAL_MODELS: 12
+  L3_HEURISTICS: 22
+  L4_FRAMEWORKS: 10
+  L5_METHODOLOGIES: 8
+  TOTAL: 66
+
+# ============================================================================
+# L1 - PHILOSOPHIES: Core beliefs about products, scaling, ecommerce
+# ============================================================================
+
+L1_PHILOSOPHIES:
+
+  - id: "FIL-RW-001"
+    title: "Product Success Formula"
+    description: "Product Success = Good Product + Good Market + Good Marketing/Operations. All three pillars must be good-to-great for a truly scalable business. You can have a great product in a great market, but if you can't get the product to the customer and convert them, you still don't have a great business."
+    source_file: "transcription_mp4_01-Ward-L1-Intro-V3_from_Foundr_on_Vimeo.md"
+    tags: [product-success, scaling, core-formula, ecommerce-fundamentals]
+
+  - id: "FIL-RW-002"
+    title: "Growth Doesn't Require New Products"
+    description: "Sometimes the easiest growth is taking your existing product and putting it into a new market. Before creating new products, exhaust market expansion opportunities. New markets can be cheaper and less risky than new product development."
+    source_file: "transcription_mp4_03-Ward-L3-Market-Validation-V3_from_Foundr_on_Vimeo.md"
+    tags: [growth, market-expansion, product-strategy]
+
+  - id: "FIL-RW-003"
+    title: "Customer Knowledge Is the Ultimate Competitive Advantage"
+    description: "The key to scaling is understanding your existing customers better than anyone else. Once you understand what they actually like about your product, you can turn that into better marketing, better copy, and acquire more customers faster and cheaper. Everything you've done until now is based on assumptions."
+    source_file: "transcription_mp4_02-Product-Market_Fit_at_Scale_-_Foundr_Premium.md"
+    tags: [customer-insight, competitive-advantage, scaling]
+
+  - id: "FIL-RW-004"
+    title: "Own the Customer Relationship"
+    description: "Whoever owns the relationship with the end user/customer is going to be the winner. As a brand, you want to own as much of that relationship as possible. Don't build your business on a swamp that's continuously moving (third-party platforms). Own your brand, own your space online, own as much of the customer relationship as possible."
+    source_file: "transcription_mp4_10-Ward-L10-DTC-V3_from_Foundr_on_Vimeo.md"
+    tags: [dtc, customer-relationship, brand-ownership, distribution]
+
+  - id: "FIL-RW-005"
+    title: "Dollar Margin Over Percentage Margin"
+    description: "In the direct-to-consumer world, what you actually need is dollar margin, not percentage margin. You need the actual dollars in the product to afford customer acquisition. A product with 20% margin at $100 ($20 dollar margin) is far better than 40% margin at $20 ($8 dollar margin) because you have room to spend on acquisition."
+    source_file: "transcription_mp4_09-Ward-L9-Pricing_Strategy-V3_from_Foundr_on_Vimeo.md"
+    tags: [pricing, margin, unit-economics, dtc]
+
+  - id: "FIL-RW-006"
+    title: "Bad Reviews Are Good Data"
+    description: "Bad reviews are not from bad people - they're good people that had a bad experience. Don't dismiss negative reviews; they contain critical business intelligence about delivery issues, product problems, and experience gaps that you can fix to build a bigger, better business."
+    source_file: "transcription_mp4_02-Product-Market_Fit_at_Scale_-_Foundr_Premium.md"
+    tags: [reviews, customer-feedback, product-improvement]
+
+  - id: "FIL-RW-007"
+    title: "Master First Product Before Second Album"
+    description: "Before introducing any new product, you must absolutely nail and master your first product. Your original product must not only pay for itself but also fund the new innovations and the learning phase of new markets. Don't accidentally drop the ball on what got you where you are."
+    source_file: "transcription_mp4_05-Ward-L5-2nd-Album-V3_from_Foundr_on_Vimeo.md"
+    tags: [product-expansion, foundation, second-album]
+
+  - id: "FIL-RW-008"
+    title: "Always Be Learning and Optimizing"
+    description: "Always be learning, always be looking for opportunity, always be trying to do slightly better than you are doing. When you think you're doing as well as you can, you're not. You can always find 10 little 1-2 percenters that give you 10-20% growth. Test, measure, learn."
+    source_file: "transcription_mp4_11-Ward-L11-Case_Study-V3_from_Foundr_on_Vimeo.md"
+    tags: [continuous-improvement, optimization, growth-mindset]
+
+  - id: "FIL-RW-009"
+    title: "Price Low Then Go High"
+    description: "Start the price low and push it up higher rather than starting high and going low. Starting high and reducing price alienates your best early customers. Starting low means new customers don't know the old price, and early supporters feel they got a deal when you raise prices."
+    source_file: "transcription_mp4_09-Ward-L9-Pricing_Strategy-V3_from_Foundr_on_Vimeo.md"
+    tags: [pricing-strategy, customer-loyalty, launch-pricing]
+
+  - id: "FIL-RW-010"
+    title: "Validation Before Investment"
+    description: "Before you do all the work of setting up 3PLs, holding stock, fixing delivery infrastructure - you may as well know there will be success. Sell products at a loss to learn and get knowledge first. The knowledge is the valuable thing because it tells you 'success could be here.'"
+    source_file: "transcription_mp4_03-Ward-L3-Market-Validation-V3_from_Foundr_on_Vimeo.md"
+    tags: [validation, market-testing, risk-reduction]
+
+  - id: "FIL-RW-011"
+    title: "DTC First, Distribution Where Strategic"
+    description: "Prioritize direct-to-consumer first, then tack on distribution where it makes strategic sense. Don't use Amazon as your main channel - they own that relationship, not you. Distribution should only be for underserved markets you can't reach, specialty niches, or geographic gaps."
+    source_file: "transcription_mp4_10-Ward-L10-DTC-V3_from_Foundr_on_Vimeo.md"
+    tags: [dtc, distribution, channel-strategy]
+
+  - id: "FIL-RW-012"
+    title: "CAC Is Your Biggest Cost"
+    description: "The biggest cost people forget when pricing products is customer acquisition. People think about manufacturing, shipping, but acquiring the customer may be your number one cost. Without enough dollars in your product to show it to enough people, it's very difficult to scale."
+    source_file: "transcription_mp4_09-Ward-L9-Pricing_Strategy-V3_from_Foundr_on_Vimeo.md"
+    tags: [cac, pricing, unit-economics]
+
+  - id: "FIL-RW-013"
+    title: "The Closer You Tell Customers What They Want to Hear, the Cheaper Acquisition Gets"
+    description: "The closer you can get to telling a customer what they want to hear, the cheaper you'll be able to acquire that customer. This is the fundamental truth of marketing efficiency - customer insight directly reduces acquisition cost."
+    source_file: "transcription_mp4_04-Ward-L4-Customer-Surveys-V3_from_Foundr_on_Vimeo.md"
+    tags: [customer-insight, cac, marketing-efficiency]
+
+  - id: "FIL-RW-014"
+    title: "Never Take People Away From the Product Page"
+    description: "Your product page IS your landing page. Never take people away from it. Any additional information (shipping, guarantees, FAQs) should be done through pop-ups so the customer can get info and return to the buying process instantly."
+    source_file: "transcription_mp4_03-Ward-B1-Product-Pages-V3_from_Foundr_on_Vimeo.md"
+    tags: [product-page, conversion, ux]
+
+# ============================================================================
+# L2 - MENTAL MODELS: How he thinks about product-market fit, pricing, scaling
+# ============================================================================
+
+L2_MENTAL_MODELS:
+
+  - id: "MM-RW-001"
+    title: "Fill the Pool / Market Pull Model"
+    description: "Instead of going off your gut to enter new markets, 'fill the market pool' first. If you have product X doing well in market X and you start seeing people from market Y wanting your product (even with expensive shipping, poor delivery), that's the market pulling you. That's when you invest properly in that market."
+    source_file: "transcription_mp4_03-Ward-L3-Market-Validation-V3_from_Foundr_on_Vimeo.md"
+    tags: [market-validation, market-pull, expansion]
+
+  - id: "MM-RW-002"
+    title: "Swimming Downstream"
+    description: "When you fill the market pool and see demand pulling you into a new market, you're swimming downstream - going where the current takes you naturally. This is the lowest-resistance path to scale. Don't swim upstream fighting into markets that don't want you."
+    source_file: "transcription_mp4_03-Ward-L3-Market-Validation-V3_from_Foundr_on_Vimeo.md"
+    tags: [market-entry, path-of-least-resistance, scaling]
+
+  - id: "MM-RW-003"
+    title: "Low Hanging Fruit vs. Second Rung"
+    description: "When entering a new market, you first get the low hanging fruit - early adopters who are perfect customers. But there aren't enough perfect customers. You need to reach the 'next rung' - the big chunk of the market. Early adopters will be cheap but the real scale is in the second layer."
+    source_file: "transcription_mp4_03-Ward-L3-Market-Validation-V3_from_Foundr_on_Vimeo.md"
+    tags: [market-segments, early-adopters, scaling]
+
+  - id: "MM-RW-004"
+    title: "Second Album Problem"
+    description: "Like in music, the second album is the hardest hit. Your first product you thought about for ages, took time to get right. On the second product, people try to throw things at the wall to see what sticks. Don't expect it to be easier - go in, work hard, and make it work."
+    source_file: "transcription_mp4_05-Ward-L5-2nd-Album-V3_from_Foundr_on_Vimeo.md"
+    tags: [product-expansion, second-product, discipline]
+
+  - id: "MM-RW-005"
+    title: "Me-Too vs. Break-the-Ceiling"
+    description: "Two product types: Me-Too (existing product category, market already exists, mainly execution/branding, good for cross-sells/upsells but won't grow business) vs. Break-the-Ceiling (innovative, solves unsolved problem, can propel business to new level and own the market, but harder and more expensive to launch)."
+    source_file: "transcription_mp4_06--Me_Too-_vs__-Break-the-Ceiling-_Products_-_Foundr_Premium.md"
+    tags: [product-types, innovation, market-strategy]
+
+  - id: "MM-RW-006"
+    title: "Onboarding vs. Complementary Products"
+    description: "Two product categories for expansion: Onboarding/Flagship (brings in brand new customers, expensive, requires learning new markets, but can double market overnight) vs. Complementary (sells to existing customers, much cheaper, less strain on resources, generally easier but smaller impact than onboarding)."
+    source_file: "transcription_mp4_05-Ward-L5-2nd-Album-V3_from_Foundr_on_Vimeo.md"
+    tags: [product-mix, expansion-strategy, product-types]
+
+  - id: "MM-RW-007"
+    title: "Leverage Business Model, Not Communication"
+    description: "When launching a flagship product into a new market, leverage your business model (order processing, fulfillment, shipping) but NOT your marketing communication. The copy, messaging, and marketing that worked for existing market may not transfer to the new market."
+    source_file: "transcription_mp4_07-Ward-L7-Flagship_Onboarding-V3_from_Foundr_on_Vimeo.md"
+    tags: [flagship-product, marketing, new-markets]
+
+  - id: "MM-RW-008"
+    title: "Me-Too to Break-the-Ceiling Evolution"
+    description: "Sometimes you can turn a Me-Too product into a Break-the-Ceiling product by incorporating new technology or trends early. Quad Lock's car mount was a Me-Too until they added wireless charging, which made it innovative and an onboarding product in its own right."
+    source_file: "transcription_mp4_06--Me_Too-_vs__-Break-the-Ceiling-_Products_-_Foundr_Premium.md"
+    tags: [innovation, product-evolution, competitive-advantage]
+
+  - id: "MM-RW-009"
+    title: "Brand Name > Category Term = Market Ownership"
+    description: "When your brand name becomes more popular as a search term than the generic category (e.g., 'Quad Lock' > 'iPhone bike mount'), you own that market. This provides market protection and makes it very hard for competitors to displace you."
+    source_file: "transcription_mp4_06--Me_Too-_vs__-Break-the-Ceiling-_Products_-_Foundr_Premium.md"
+    tags: [brand, market-ownership, competitive-moat]
+
+  - id: "MM-RW-010"
+    title: "Distribution = Subsidizing Marketing for Margin"
+    description: "When using distributors, you're just substituting marketing dollars for margin paid to distributors/retailers. Value still disappears from the transaction. Better to spend that money on marketing because you also build brand awareness with all the people you reach along the way."
+    source_file: "transcription_mp4_10-Ward-L10-DTC-V3_from_Foundr_on_Vimeo.md"
+    tags: [distribution, margin, marketing-investment]
+
+  - id: "MM-RW-011"
+    title: "Pop-up as Conversion Safety Net"
+    description: "Pop-ups reduce the need to convert everyone on first visit. People on mobile may be interested but not ready to buy (on a train, not comfortable pulling out credit card). Pop-ups capture emails so you can re-engage when they're in a buying mindset."
+    source_file: "transcription_mp4_08-Ward-B2-Popups-V3_from_Foundr_on_Vimeo.md"
+    tags: [popups, email-capture, conversion]
+
+  - id: "MM-RW-012"
+    title: "Complementary Products Fund Acquisition"
+    description: "Complementary products give you more headroom and money to spend on acquiring new customers. Even if you only break even on the first-time buy (onboarding product), complementary products are where you get lifetime value and the business model starts to make sense."
+    source_file: "transcription_mp4_08-Complementary_Products_-_Foundr_Premium.md"
+    tags: [complementary-products, ltv, business-model]
+
+# ============================================================================
+# L3 - HEURISTICS: Specific numbers, thresholds, rules of thumb
+# ============================================================================
+
+L3_HEURISTICS:
+
+  - id: "HEUR-RW-001"
+    title: "Product X at $100 Pricing Benchmark"
+    description: "Onboarding product example: $100 retail, $15 manufacturing, $5 landing cost, $10 pick/pack/ship, $40 CAC, 10% discount = $20 margin (20%). This is the structure needed for a scalable onboarding product with enough dollar margin to afford acquisition."
+    source_file: "transcription_mp4_08-Complementary_Products_-_Foundr_Premium.md"
+    tags: [pricing, unit-economics, benchmark]
+
+  - id: "HEUR-RW-002"
+    title: "Complementary Product 65% Margin"
+    description: "Complementary product example: $30 retail, $5 buy price, $2.50 landing, $0 pick/pack/ship (covered by onboarding product), $0 CAC, 10% discount ($3) = $19.50 margin (65%). More dollar margin on the complementary than the onboarding product."
+    source_file: "transcription_mp4_08-Complementary_Products_-_Foundr_Premium.md"
+    tags: [complementary-products, margin, pricing]
+
+  - id: "HEUR-RW-003"
+    title: "$60K Motorcycle Market Validation"
+    description: "Quad Lock validated the motorcycle market by selling their existing bike product on a motorcycle-specific landing page. Made $60,000 in 4-5 weeks, confirming product-market fit. Then went back to develop a proper motorcycle-specific product."
+    source_file: "transcription_mp4_02-Product-Market_Fit_at_Scale_-_Foundr_Premium.md"
+    tags: [validation, market-test, revenue-threshold]
+
+  - id: "HEUR-RW-004"
+    title: "$0 to $9M in 4 Years Bootstrap"
+    description: "Quad Lock bootstrapped from $0 to $9 million dollars in four years with over 80 SKUs developed, 3 million units sold, shipping to 100+ countries from 7 warehouses."
+    source_file: "transcription_pdf_01-Rob_Full_Workbook.md"
+    tags: [scaling, bootstrap, growth-metrics]
+
+  - id: "HEUR-RW-005"
+    title: "15,000 Survey Responses = Invaluable Data"
+    description: "Quad Lock received over 15,000 completed survey responses, making the data invaluable. At scale (2,000-3,000+ responses), you get clear patterns showing what is important to the biggest majority of people. 10 friends give 10 different answers; 15,000 people show clear trends."
+    source_file: "transcription_mp4_04-Ward-L4-Customer-Surveys-V3_from_Foundr_on_Vimeo.md"
+    tags: [surveys, data, scale]
+
+  - id: "HEUR-RW-006"
+    title: "Product with $20 Price = Only $8 Margin (Unscalable)"
+    description: "Product X: $20 price, 40% margin = $8 dollar margin, with only $2.50 for CAC. If you need to 2-3-4x the CAC, you run out of dollars. This is unscalable as an onboarding product. Can only work as a complementary product."
+    source_file: "transcription_mp4_09-Ward-L9-Pricing_Strategy-V3_from_Foundr_on_Vimeo.md"
+    tags: [pricing, margin, scalability-threshold]
+
+  - id: "HEUR-RW-007"
+    title: "Product with $100 Price = $20 Margin + $60 CAC Budget (Scalable)"
+    description: "Product Y: $100 price, 20% margin = $20 dollar margin, with $60 for CAC. This is scalable because you can afford to spend $60 acquiring each customer while still making $20 margin to keep the business running."
+    source_file: "transcription_mp4_09-Ward-L9-Pricing_Strategy-V3_from_Foundr_on_Vimeo.md"
+    tags: [pricing, margin, scalability-threshold]
+
+  - id: "HEUR-RW-008"
+    title: "100K Sales Revenue Comparison: $800K vs $2M"
+    description: "At 100,000 sales: Product X (40% margin, $20 price) = $800K total margin. Product Y (20% margin, $100 price) = $2M total margin. And Product Y has margin for error while Product X has absolutely no margin for error."
+    source_file: "transcription_mp4_09-Ward-L9-Pricing_Strategy-V3_from_Foundr_on_Vimeo.md"
+    tags: [pricing, scale-comparison, dollar-margin]
+
+  - id: "HEUR-RW-009"
+    title: "Pop-up 'No Thanks' Copy Lift: 1%+ Email Conversion"
+    description: "Replacing the X close button on pop-ups with 'No thanks, I'd rather pay full price' text resulted in over 1% lift in email conversion rate. Over a year, 1% of all traffic = tens of thousands of extra emails that convert to orders."
+    source_file: "transcription_mp4_08-Ward-B2-Popups-V3_from_Foundr_on_Vimeo.md"
+    tags: [popups, conversion-optimization, email-capture]
+
+  - id: "HEUR-RW-010"
+    title: "Cheap Clicks Don't Equal Good Market"
+    description: "India example: Very cheap clicks but low conversion relative to click volume due to two-tier economy. Better to segment out low-ROI markets (India) and focus on markets with both cheap clicks AND good conversions (Singapore, Malaysia, Philippines)."
+    source_file: "transcription_mp4_03-Ward-L3-Market-Validation-V3_from_Foundr_on_Vimeo.md"
+    tags: [market-validation, facebook-ads, roi]
+
+  - id: "HEUR-RW-011"
+    title: "Survey Once a Year Max"
+    description: "Big customer surveys are not something you send every week. Craft carefully, send in one big hit, get back all the data, crunch it. Questions should be timeless - if you do it one year, you should be able to use results the next year. At scale, people tell you the same things."
+    source_file: "transcription_mp4_04-Ward-L4-Customer-Surveys-V3_from_Foundr_on_Vimeo.md"
+    tags: [surveys, frequency, data-quality]
+
+  - id: "HEUR-RW-012"
+    title: "Don't Offer Survey Rewards"
+    description: "Don't offer a reward or prize for filling out a survey. You don't want people giving garbage information just to get a prize. You want customers who care enough to bother helping. Quad Lock used a 'please help us' emoji approach that appealed to customers' good nature."
+    source_file: "transcription_mp4_04-Ward-L4-Customer-Surveys-V3_from_Foundr_on_Vimeo.md"
+    tags: [surveys, data-quality, methodology]
+
+  - id: "HEUR-RW-013"
+    title: "Set Time Expectations on Surveys"
+    description: "If the survey takes 2 minutes, say 2 minutes. If 5 minutes, say 5 minutes. You don't want people to rush through the end and give garbage. If you tailor content to garbage data, you won't get desired results."
+    source_file: "transcription_mp4_04-Ward-L4-Customer-Surveys-V3_from_Foundr_on_Vimeo.md"
+    tags: [surveys, data-quality, user-experience]
+
+  - id: "HEUR-RW-014"
+    title: "4-Star Reviews Are Most Actionable"
+    description: "One-star reviews are often delivery/address issues. The most actionable feedback comes from 4-star reviews where people say 'I really like this product BUT xyz' - that's where you find addressable product or messaging improvements."
+    source_file: "transcription_mp4_02-Product-Market_Fit_at_Scale_-_Foundr_Premium.md"
+    tags: [reviews, product-improvement, customer-feedback]
+
+  - id: "HEUR-RW-015"
+    title: "Google Reviews Aggregate All Sources"
+    description: "Google reviews aggregate reviews from all over the internet, not just your website. This gives you a fuller picture of customer sentiment across all channels where your product is sold."
+    source_file: "transcription_mp4_02-Product-Market_Fit_at_Scale_-_Foundr_Premium.md"
+    tags: [reviews, google, data-sources]
+
+  - id: "HEUR-RW-016"
+    title: "Email Is Effectively Free for Complementary Sales"
+    description: "Email is so cheap to run compared to ads. For complementary products, Facebook ads would chew into margins. Email gives you near-zero customer acquisition cost for follow-up sales, making it the best tool for complementary product strategy."
+    source_file: "transcription_mp4_08-Complementary_Products_-_Foundr_Premium.md"
+    tags: [email, complementary-products, acquisition-cost]
+
+  - id: "HEUR-RW-017"
+    title: "Time Follow-up Emails to Delivery + Delight Window"
+    description: "Time your follow-up emails based on when the customer receives and enjoys their product. Understand delivery timelines per market. The better the experience before the email, the more likely the follow-up email converts."
+    source_file: "transcription_mp4_08-Complementary_Products_-_Foundr_Premium.md"
+    tags: [email-timing, customer-experience, complementary-products]
+
+  - id: "HEUR-RW-018"
+    title: "CPMs and Cost of Clicks Only Go Up"
+    description: "In the market, cost of clicks and CPMs are only going up over time. You need dollar margin in your product to absorb these rising costs. If you don't have enough dollars, it will be very difficult to scale regardless of conversion rates."
+    source_file: "transcription_mp4_09-Ward-L9-Pricing_Strategy-V3_from_Foundr_on_Vimeo.md"
+    tags: [advertising-costs, pricing, scalability]
+
+  - id: "HEUR-RW-019"
+    title: "Video First on Product Page"
+    description: "Product pages should lead with video over photos. In the first 3 seconds, show the product in action. Photos alone can show how it works, but video is far more effective at communicating features and benefits, drawn from customer survey data."
+    source_file: "transcription_mp4_03-Ward-B1-Product-Pages-V3_from_Foundr_on_Vimeo.md"
+    tags: [product-page, video, conversion]
+
+  - id: "HEUR-RW-020"
+    title: "Detailed Info Below the Fold"
+    description: "HotJar recordings showed many people checked out without ever reading product descriptions. Declutter the first load of the page - put extra info below the fold. Most people don't need it, but a subset wants specs and details."
+    source_file: "transcription_mp4_03-Ward-B1-Product-Pages-V3_from_Foundr_on_Vimeo.md"
+    tags: [product-page, ux, conversion-optimization]
+
+  - id: "HEUR-RW-021"
+    title: "10% Discount Standard for Both Product Types"
+    description: "In Rob's pricing models, both onboarding and complementary products offer 10% customer discount. For onboarding at $100 = $10 discount. For complementary at $30 = $3 discount. Built into margin calculations."
+    source_file: "transcription_mp4_08-Complementary_Products_-_Foundr_Premium.md"
+    tags: [pricing, discounts, standard-practice]
+
+  - id: "HEUR-RW-022"
+    title: "Semi-Transparent Pop-up Background"
+    description: "Don't use solid black background behind pop-ups. Use a light shade of black you can see through. User stays oriented (knows they're on the right page, one click from returning) and it feels less invasive. Tested and proven at Quad Lock."
+    source_file: "transcription_mp4_08-Ward-B2-Popups-V3_from_Foundr_on_Vimeo.md"
+    tags: [popups, ux, conversion-optimization]
+
+# ============================================================================
+# L4 - FRAMEWORKS: Product Success Formula, Second Album framework, etc.
+# ============================================================================
+
+L4_FRAMEWORKS:
+
+  - id: "FW-RW-001"
+    title: "Product Success Formula (3 Pillars)"
+    description: |
+      Three-pillar framework for building a scalable ecommerce business:
+      1. GOOD PRODUCT (good to great) - Really hard to build scalable business on a shitty product
+      2. GOOD MARKET (good to great) - Market with headspace, somewhat underutilized but growing
+      3. GOOD MARKETING/OPS (good to great) - Ability to transact, physically get product to customer, convert people efficiently, and make them customers again and again
+
+      Key insight: Work on weaknesses and bring them from okay to good to great. When all three are in the good-to-great range, you have a truly scalable business you can reinvest in.
+    source_file: "transcription_mp4_01-Ward-L1-Intro-V3_from_Foundr_on_Vimeo.md"
+    tags: [product-success, core-framework, scaling]
+
+  - id: "FW-RW-002"
+    title: "Second Album Framework (4 Factors)"
+    description: |
+      Four factors to evaluate before introducing a new product:
+      1. EXISTING PRODUCT MASTERY - Have you absolutely nailed your first product?
+         - Overwhelming 4-5 star reviews?
+         - Any way to make existing product better?
+      2. ONBOARDING VS. COMPLEMENTARY - Is this a new flagship or a complement?
+         - Is flagship a market leader?
+         - Do you have lesser-priced complements?
+      3. MARKET & PRODUCT VALIDATION - Have you validated demand?
+         - Increasing demand on Google Trends?
+         - People willing to pre-buy?
+         - Exhausted all market expansion options?
+      4. FINANCES - Does the math work?
+         - How wide are product margins?
+         - CAC spend: high, low, or just right?
+         - Supply chain costs tightened?
+    source_file: "transcription_mp4_05-Ward-L5-2nd-Album-V3_from_Foundr_on_Vimeo.md"
+    tags: [product-expansion, evaluation, second-album]
+
+  - id: "FW-RW-003"
+    title: "2-Step Market Validation Process"
+    description: |
+      Step 1: FIND THE MARKET WITH LEAST RESISTANCE
+      - Feel the "market pull" via Google Trends
+      - Cast wide ad campaigns across regions and analyze results
+      - Look for cheap clicks + good conversion rates = product-market fit signal
+
+      Step 2: CONSIDER ALL MAJOR FACTORS
+      - Can we get the product there cheaply?
+      - Can we deliver at an affordable price?
+      - Can we maintain good service?
+      - Consider duties, taxes, landed costs
+    source_file: "transcription_mp4_03-Ward-L3-Market-Validation-V3_from_Foundr_on_Vimeo.md"
+    tags: [market-validation, international-expansion, process]
+
+  - id: "FW-RW-004"
+    title: "Product-Market Fit at Scale Validation"
+    description: |
+      FREE METHODS:
+      - Read product reviews (best AND worst, focus on 3-4 star)
+      - Google Trends (trending markets, geographic demand)
+
+      PAID METHODS:
+      - Landing page test with existing/prototype product
+      - Facebook Ads test (wide interest, measure CTR, CPC, conversion rate, ROAS)
+
+      Signals of product-market fit: Cheap clicks + good conversion rates.
+      Then decide if market has enough scale and headroom to grow.
+    source_file: "transcription_mp4_02-Product-Market_Fit_at_Scale_-_Foundr_Premium.md"
+    tags: [product-market-fit, validation, testing]
+
+  - id: "FW-RW-005"
+    title: "Onboarding vs. Complementary Product Pricing Structure"
+    description: |
+      ONBOARDING PRODUCT ($100 example):
+      - Manufacturing: $15
+      - Landing cost: $5
+      - Pick, pack, ship: $10
+      - CAC: $40
+      - Discount (10%): $10
+      - Margin: $20 (20%)
+
+      COMPLEMENTARY PRODUCT ($30 example):
+      - Buy price: $5
+      - Landing: $2.50
+      - Pick, pack, ship: $0 (covered by onboarding)
+      - CAC: $0 (customer already acquired)
+      - Discount (10%): $3
+      - Margin: $19.50 (65%)
+
+      Key: More dollar margin on complementary ($19.50) than onboarding ($20), at 65% vs 20% margin.
+    source_file: "transcription_mp4_08-Complementary_Products_-_Foundr_Premium.md"
+    tags: [pricing, complementary-products, unit-economics]
+
+  - id: "FW-RW-006"
+    title: "Me-Too vs. Break-the-Ceiling Product Decision"
+    description: |
+      ME-TOO PRODUCT:
+      Pros: Don't have to build market, works as cross-sell/upsell
+      Cons: Can't grow business off it, won't own the market
+      Questions: What are we already doing we could leverage? Others having success selling this?
+
+      BREAK-THE-CEILING PRODUCT:
+      Pros: Can propel business to new level, can own the market
+      Cons: Harder/more expensive, have to build the market
+      Questions: What are growing markets? New pain points?
+
+      Key: Me-Too is fine for complementary products. Break-the-Ceiling is needed for flagship onboarding.
+    source_file: "transcription_mp4_06--Me_Too-_vs__-Break-the-Ceiling-_Products_-_Foundr_Premium.md"
+    tags: [product-types, decision-framework, innovation]
+
+  - id: "FW-RW-007"
+    title: "Product Page Conversion Hierarchy"
+    description: |
+      TOP OF PAGE (first load - must enable buying without scrolling):
+      1. Video (3-second product demonstration, features from customer survey)
+      2. Product photos (multiple angles)
+      3. Reviews count + stars
+      4. Price with buy-now-pay-later options
+      5. Add to cart / Buy now button
+
+      POP-UP INFORMATION (never navigate away):
+      - Money-back guarantee (30-day)
+      - Free shipping details
+      - Payment methods (Apple Pay, Visa, MC, PayPal, Afterpay, etc.)
+
+      BELOW THE FOLD:
+      - Total review count (41,000+)
+      - Social proof
+      - Detailed features & benefits
+      - What's included + tech specs
+      - Technical drawings
+    source_file: "transcription_mp4_03-Ward-B1-Product-Pages-V3_from_Foundr_on_Vimeo.md"
+    tags: [product-page, conversion, ux-framework]
+
+  - id: "FW-RW-008"
+    title: "Customer Survey Design Framework"
+    description: |
+      SELF-ASSESSMENT (before writing survey):
+      - What don't we know about our customers?
+      - What assumptions have we been making?
+      - What's an unbiased way to ask questions?
+      - How can we get usable information to improve marketing?
+
+      SURVEY RULES:
+      - No rewards/prizes (gets garbage data)
+      - Set time expectations
+      - Aim for clean, usable data
+      - Max once per year frequency
+      - Send to both customers AND non-customers
+      - Ask: What made you buy? / Why haven't you purchased?
+
+      EXECUTION:
+      - Send via email + social media
+      - Use SurveyMonkey, Typeform, or Google Forms
+      - Segment: customers get product questions, non-customers get barrier questions
+    source_file: "transcription_mp4_04-Ward-L4-Customer-Surveys-V3_from_Foundr_on_Vimeo.md"
+    tags: [customer-surveys, data-collection, methodology]
+
+  - id: "FW-RW-009"
+    title: "DTC vs. Distribution Decision Framework"
+    description: |
+      PRIORITIZE DTC WHEN:
+      - You can market directly to your customer
+      - You want to own the customer relationship
+      - You want to reinvest margin into marketing/brand growth
+      - You want data and customer insights
+
+      USE DISTRIBUTION ONLY WHEN:
+      - Geographic markets you can't service
+      - Specialty niches requiring local expertise
+      - Distributor can adapt product in ways you can't
+      - Distributor reaches parts of market you'll never get to
+
+      NEVER:
+      - Use Amazon as your main/only channel
+      - Expect a single retailer to solve your problems
+      - Spray distribution hoping for results
+    source_file: "transcription_mp4_10-Ward-L10-DTC-V3_from_Foundr_on_Vimeo.md"
+    tags: [dtc, distribution, channel-strategy]
+
+  - id: "FW-RW-010"
+    title: "Pop-up A/B Testing Framework"
+    description: |
+      VARIABLES TO TEST:
+      1. Call-to-action copy
+      2. Email input box design
+      3. Subscribe button text (sign up vs. subscribe vs. enter)
+      4. How pop-up closes (X button vs. "No thanks, I'd rather pay full price")
+      5. Page background (semi-transparent black, not solid)
+      6. Branding elements
+      7. Copy/tone (jokey vs. simple)
+      8. Disclaimers (GDPR etc.)
+      9. Desktop vs. mobile versions
+      10. Country-specific versions (IP targeting)
+
+      TOOLS: Sumo for A/B testing
+      KEY WIN: Removing X button and adding guilt-copy = 1%+ email conversion lift
+    source_file: "transcription_mp4_08-Ward-B2-Popups-V3_from_Foundr_on_Vimeo.md"
+    tags: [popups, ab-testing, conversion-optimization]
+
+# ============================================================================
+# L5 - METHODOLOGIES: Complete step-by-step processes
+# ============================================================================
+
+L5_METHODOLOGIES:
+
+  - id: "MET-RW-001"
+    title: "Quad Lock Product Process (Complete)"
+    description: |
+      Complete step-by-step process Quad Lock uses to develop and launch new products:
+
+      STEP 1: VALIDATE THE MARKET
+      - Use Google Trends to identify growing markets
+      - Cast wide Facebook ads to test regional interest
+      - Look for cheap clicks + conversion rates as market-fit signals
+      - Identify which markets already search for related terms
+
+      STEP 2: VALIDATE THE PRODUCT
+      - Create landing page with existing/prototype product
+      - Run Facebook ads with wide interest targeting
+      - Measure: CTR, CPC, conversion rate, ROAS
+      - Threshold: $60K in 4-5 weeks = strong validation (motorcycle example)
+      - If validated, go back to drawing board for market-specific product
+
+      STEP 3: DETERMINE PRODUCT TYPE
+      - Flagship/Onboarding (new customers, new market) vs.
+      - Complementary (existing customers, cross-sell/upsell)
+
+      STEP 4: PRICING STRATEGY
+      - Calculate dollar margin, not just percentage margin
+      - Include CAC as biggest cost item
+      - Ensure enough dollars to scale acquisition
+      - Start low, push price up over time
+
+      STEP 5: CUSTOMER SURVEY
+      - Survey existing customers on what made them buy
+      - 15,000+ responses for statistically significant data
+      - Tailor all marketing/content to survey findings
+
+      STEP 6: LAUNCH & OPTIMIZE
+      - Apply survey insights to all marketing
+      - Continuously test and measure
+      - Find 1-2% improvements across 10 areas = 10-20% growth
+    source_file: "transcription_mp4_11-Ward-L11-Case_Study-V3_from_Foundr_on_Vimeo.md"
+    tags: [product-launch, complete-process, quad-lock-method]
+
+  - id: "MET-RW-002"
+    title: "Market Validation via Wide Facebook Ads"
+    description: |
+      STEP 1: Set up wide Facebook ads targeting a region (Europe, Asia, US)
+      STEP 2: Measure results by country/sub-region:
+      - Customer acquisition costs
+      - Cost per click
+      - Conversion rates on website
+      STEP 3: Identify markets with:
+      - Reasonable customer acquisition costs
+      - Better than average conversion rates
+      - Enough scale/headroom to grow
+      STEP 4: Consider operational factors:
+      - Language barriers
+      - Payment options (cash on delivery vs. credit card)
+      - Delivery infrastructure
+      STEP 5: Segment and prioritize:
+      - Turn off low-ROI markets (cheap clicks but low conversion)
+      - Focus on markets with both good clicks AND conversions
+      - Come back to borderline markets later
+    source_file: "transcription_mp4_03-Ward-L3-Market-Validation-V3_from_Foundr_on_Vimeo.md"
+    tags: [market-validation, facebook-ads, international]
+
+  - id: "MET-RW-003"
+    title: "Product Review Mining for PMF"
+    description: |
+      STEP 1: Google your brand name + product reviews
+      (Google aggregates reviews from all internet sources, not just your site)
+
+      STEP 2: READ 5-STAR REVIEWS
+      - Identify what customers love that you're not talking about
+      - Find features/benefits you've been missing in copy
+      - Example: Quad Lock discovered "protective case" was huge selling point they were ignoring
+
+      STEP 3: READ 1-STAR REVIEWS
+      - Mostly delivery/address issues (less useful)
+      - But some reveal systemic problems (e.g., always Italy = delivery issue)
+
+      STEP 4: FOCUS ON 3-4 STAR REVIEWS
+      - "I really like this product BUT xyz"
+      - These identify addressable improvements
+
+      STEP 5: ACTION
+      - Add missing positive features to all ads, videos, content
+      - Address negative patterns (product fixes or messaging)
+      - Quad Lock added "drop shot" to end of every video after discovering protection was key
+    source_file: "transcription_mp4_02-Product-Market_Fit_at_Scale_-_Foundr_Premium.md"
+    tags: [reviews, product-market-fit, customer-insight]
+
+  - id: "MET-RW-004"
+    title: "Landing Page Market Test"
+    description: |
+      STEP 1: Create a product-specific landing page
+      - Can use existing product for adjacent market
+      - Take photos, write market-specific copy
+
+      STEP 2: Run Facebook Ads
+      - Wide interest group targeting
+      - Push traffic to landing page
+
+      STEP 3: Measure Key Metrics
+      - Click-through rates
+      - Cost per click
+      - Conversion rate
+      - Return on ad spend (ROAS)
+
+      STEP 4: Evaluate Signals
+      - Signs that show "something we can work with long-term"
+      - If positive: Invest in market-specific product development
+      - If $60K+ in weeks: Strong validation to proceed
+
+      STEP 5: Act on Results
+      - Validated? Go back to drawing board for purpose-built product
+      - Not validated? Test different market/angle
+    source_file: "transcription_mp4_02-Product-Market_Fit_at_Scale_-_Foundr_Premium.md"
+    tags: [validation, landing-page, facebook-ads]
+
+  - id: "MET-RW-005"
+    title: "Complementary Product Email Sequence"
+    description: |
+      STEP 1: SEGMENT based on customer survey
+      - Understand which onboarding product customer bought
+      - Know which complementary products they're most likely to want
+
+      STEP 2: TIME the follow-up email
+      - Know delivery timelines per market
+      - Wait until customer has received and enjoyed product
+      - Don't email during the waiting/shipping period
+
+      STEP 3: CRAFT the email
+      - Logo for trust/recognition
+      - Single product image
+      - Clean, clear call to action
+      - Discount code in obvious/red color
+      - Buy button text = specific action (e.g., "Buy now")
+      - Keep it simple - looks like a personal email, not a website
+
+      STEP 4: RESPECT the relationship
+      - Don't spam
+      - Only email when you have something of value
+      - If no value to offer, wait until you do
+      - Protect the ability to keep emailing long-term
+    source_file: "transcription_mp4_08-Complementary_Products_-_Foundr_Premium.md"
+    tags: [email, complementary-products, customer-retention]
+
+  - id: "MET-RW-006"
+    title: "Product Page Optimization Process"
+    description: |
+      STEP 1: STRUCTURE the first-load view
+      - Video leading (product demo in 3 seconds)
+      - Product photos
+      - Reviews (stars + count)
+      - Price + payment options + buy button
+      - Everything needed to buy without scrolling
+
+      STEP 2: ADDRESS objections via pop-ups
+      - Think: "What are reasons people wouldn't buy?"
+      - 30-day money-back guarantee pop-up
+      - Free shipping details pop-up
+      - Payment method logos
+      - Pop-ups keep user on product page
+
+      STEP 3: ADD depth below the fold
+      - Detailed features & benefits
+      - What's included
+      - Tech specs and drawings
+      - Full reviews section
+      - Social media proof
+
+      STEP 4: USE HOTJAR to learn
+      - Watch actual user recordings
+      - See if people read descriptions (many don't)
+      - Declutter based on real behavior data
+
+      STEP 5: DOMAIN-SPECIFIC reviews
+      - Different reviews on different country domains
+      - Helps with unique content and SEO per market
+    source_file: "transcription_mp4_03-Ward-B1-Product-Pages-V3_from_Foundr_on_Vimeo.md"
+    tags: [product-page, conversion, optimization-process]
+
+  - id: "MET-RW-007"
+    title: "Customer Survey Execution at Scale"
+    description: |
+      STEP 1: DESIGN questions carefully
+      - What kind of [activity] did you purchase [product] for?
+      - What's your favorite [related app/tool]?
+      - What are the 3 product features most important at time of purchase?
+      - Segment: customer questions vs. non-customer questions
+
+      STEP 2: PREPARE the send
+      - Use SurveyMonkey, Typeform, or Google Forms
+      - Add "please help us" appeal (no prizes)
+      - State time expectation (2 min, 5 min)
+
+      STEP 3: DISTRIBUTE
+      - Email to customer database
+      - Social media distribution
+      - Target both customers AND non-customers
+      - Customers: what made them buy
+      - Non-customers: why they haven't purchased
+
+      STEP 4: CRUNCH the data
+      - Look for clear majority patterns
+      - At 2,000-3,000+ responses: statistically significant
+      - At 15,000: invaluable
+
+      STEP 5: APPLY findings
+      - Reprioritize features in messaging
+      - Remove irrelevant selling points (e.g., "lightweight" at Quad Lock)
+      - Add newly discovered important features (e.g., "protective case")
+      - Update all videos, copy, content, ads
+    source_file: "transcription_mp4_04-Ward-L4-Customer-Surveys-V3_from_Foundr_on_Vimeo.md"
+    tags: [customer-surveys, data-collection, marketing-optimization]
+
+  - id: "MET-RW-008"
+    title: "Google Trends Market Intelligence"
+    description: |
+      STEP 1: Search product-related terms on Google Trends
+      (e.g., "iPhone wireless charging" for Quad Lock)
+
+      STEP 2: Analyze TREND over time
+      - Steep positive increase = rapidly increasing demand
+      - Even/flat = stable market
+      - Decline = consider pivoting
+
+      STEP 3: Analyze GEOGRAPHIC data
+      - Which countries/regions are searching most
+      - Match against your existing strong markets
+      - If searches come from markets you already sell into: new product will have built-in demand
+
+      STEP 4: Apply to product decisions
+      - New product in existing strong markets = lower risk
+      - New product in unknown markets = higher risk
+      - Use as validation signal alongside Facebook ads data
+    source_file: "transcription_mp4_02-Product-Market_Fit_at_Scale_-_Foundr_Premium.md"
+    tags: [google-trends, market-research, product-validation]

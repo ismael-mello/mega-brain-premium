@@ -1,0 +1,27 @@
+# DNA-CONFIG: Gretta van Riel
+# Version: v1.0.0
+# Created: 2026-03-29
+
+agent_type: SOLO
+person: gretta-van-riel
+full_name: "Gretta van Riel"
+
+dna_sources:
+  - person: gretta-van-riel
+    weight: 1.0
+    path: "knowledge/external/dna/persons/gretta-van-riel/"
+    materiais_fonte:
+      - course: "Foundr - Ecommerce Masters 2020"
+        module: "Module 0 (Intro) + Module 4 (Advanced Influencer Marketing) + Bonuses"
+        type: COURSE
+        files: 36
+        raiz: "knowledge/external/sources/gretta-van-riel/raw/foundr-ecommerce-masters-2020/"
+
+domains:
+  primary: [influencer-marketing, ecommerce, brand-building]
+  secondary: [micro-influencers, influencer-outreach, campaign-management, ugc]
+
+expertise_summary: |
+  Founder of multiple ecommerce brands including Drop Bottle. Course creator for Foundr.
+  Known for Sweetener Framework (relationship building), Influencer Funnel structure.
+  147 DNA elements covering influencer identification, outreach, scaling, and ROI.

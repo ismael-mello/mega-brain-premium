@@ -1,0 +1,176 @@
+# ============================================================================
+# INSIGHTS - NICK SHACKELFORD
+# ============================================================================
+# Extracted from: Foundr Ecommerce Masters 2020 - Module: Scaling with Facebook Ads
+# Extraction date: 2026-03-29
+# ============================================================================
+
+person: nick-shackelford
+full_name: "Nick Shackelford"
+version: "v1"
+extraction_date: "2026-03-29"
+
+insights:
+
+  # --- STRATEGIC INSIGHTS ---
+
+  - id: "INS-NS-001"
+    title: "CAC Doubles Year Over Year"
+    category: "strategic"
+    description: "Nick observed that the same exact product targeted to a similar wide audience cost almost 2x more in 2018 vs 2017. This means you must constantly innovate creative, targeting, and offers just to maintain the same performance. The cost of inaction is regression."
+    source_file: "transcription_mp4_02-Setup-_Getting_Smarter_About_Facebook_Ads.md"
+    related_dna: ["FIL-NS-003", "HEUR-NS-020"]
+    tags: [cac, rising-costs, innovation]
+
+  - id: "INS-NS-002"
+    title: "Price Point Changes Without Communication Destroy Performance"
+    category: "operational"
+    description: "A brand changed its price points without telling the ad team. Facebook had been optimized for consumers converting at 1.7-2.5x ROAS on cold traffic at the old price. The price change caused performance to collapse because the pixel's optimization was calibrated to a different buyer profile. Communication between product/pricing and marketing teams is critical."
+    source_file: "transcription_mp4_03-Foundations__Part_A_-_Account_Overview__Dashboard_View__Naming_Conventions__Success_Correlations.md"
+    related_dna: ["FIL-NS-003", "HEUR-NS-006"]
+    tags: [pricing, communication, optimization, pixel]
+
+  - id: "INS-NS-003"
+    title: "CPC and CTR Are Not Reliable Purchase Predictors"
+    category: "tactical"
+    description: "Nick explicitly states that cost per click and CTR aren't necessarily the largest indicators of whether an ad will work. Between a click and a purchase there are 4+ additional steps (homepage -> collection -> product page -> checkout). The reliable decision metric is Cost Per Add to Cart, the earliest deep-funnel metric."
+    source_file: "transcription_mp4_03-Foundations__Part_A_-_Account_Overview__Dashboard_View__Naming_Conventions__Success_Correlations.md"
+    related_dna: ["MM-NS-008", "HEUR-NS-017"]
+    tags: [cpc, ctr, add-to-cart, decision-metrics]
+
+  - id: "INS-NS-004"
+    title: "Pup Socks: $10.5M in 32 Days Case Study"
+    category: "case-study"
+    description: "Pup Socks achieved $10.5 million in revenue in just 32 days. The formula: right product (personalized socks with pet photos = emotional purchase), right offer (affordable impulse buy), right audience (pet owners - massive addressable market on Facebook). This demonstrates the power of product-market fit combined with Facebook's targeting."
+    source_file: "transcription_mp4_01-Shack-L1-Intro-V3_from_Foundr_on_Vimeo.md"
+    related_dna: ["FIL-NS-012", "HEUR-NS-010"]
+    tags: [case-study, pup-socks, product-market-fit]
+
+  - id: "INS-NS-005"
+    title: "Diff Eyewear: $250K in 2 Days"
+    category: "case-study"
+    description: "Diff Eyewear achieved $250,000 in revenue in just 2 days through Facebook advertising. Mentioned as a Facebook success story. Demonstrates that with established brand + right creative + right audience, rapid scale is achievable."
+    source_file: "transcription_mp4_01-Shack-L1-Intro-V3_from_Foundr_on_Vimeo.md"
+    related_dna: ["FIL-NS-012"]
+    tags: [case-study, diff-eyewear, rapid-scale]
+
+  - id: "INS-NS-006"
+    title: "Posh Peanut: Bi-Weekly Product Launch Machine"
+    category: "case-study"
+    description: "Posh Peanut launches a new product almost bi-weekly. Their launch framework uses only proven creative + proven audiences (no testing during launches). Uses trigger words like 'Limited Edition' and 'Just Dropped'. If a product doesn't sell, they don't restock - they liquidate. The brand grows 980 organic followers/day. Baby products are 'evergreen' because it's always baby season."
+    source_file: "transcription_mp4_12-Shack-L11-Product_Launch-V3_from_Foundr_on_Vimeo.md"
+    related_dna: ["MM-NS-010", "FW-NS-015", "FIL-NS-009", "HEUR-NS-031"]
+    tags: [case-study, posh-peanut, product-launch, evergreen]
+
+  - id: "INS-NS-007"
+    title: "Miracle Brand: From Performance Drop to Recovery via 3 Testing Frameworks"
+    category: "case-study"
+    description: "Miracle Brand experienced a 3-week performance drop after spending ~$10,000. The team applied the 3 Testing Frameworks in order: (1) Creative Refresh - pulled value props from Amazon reviews (didn't work alone), (2) Website CRO - tested full checkout funnel (nothing wrong), (3) Offer Creation - created a free trial 'try before you buy' program (this worked). Also used DCT to test 'smell' angle which became a winner with 1.3-1.58% CTR."
+    source_file: "transcription_mp4_08-Shack-L7-3-Testing-Frameworks-V3_from_Foundr_on_Vimeo.md"
+    related_dna: ["FW-NS-002", "MET-NS-001", "HEUR-NS-018"]
+    tags: [case-study, miracle-brand, troubleshooting, dct]
+
+  - id: "INS-NS-008"
+    title: "Rural Cloth: VIP Customer Discovery via Persona Testing"
+    category: "case-study"
+    description: "Rural Cloth had no clear value proposition or VIP customer. Used Persona/Angle Test with 3 distinct audience stacks: Country (blue collar + country music + horseback riding), College (beer pong + tailgate), Religious. Each got persona-specific copy + creative. Country persona with beer-themed hats converted because the targeting matched the creative message perfectly."
+    source_file: "transcription_mp4_10-Shack-L9-Persona-Angle-Test-V3_from_Foundr_on_Vimeo.md"
+    related_dna: ["MET-NS-002", "FW-NS-012", "MM-NS-012"]
+    tags: [case-study, rural-cloth, persona-testing, vip-customer]
+
+  - id: "INS-NS-009"
+    title: "Fidgetly: First Direct Response Win in 2017"
+    category: "case-study"
+    description: "Nick and his partner launched Fidgetly (fidget spinners) in 2017. This was his introduction to the firepower of direct response marketing. Key insight: they targeted the main buying demographic (students in school) and shot all creative in school settings. The creative formula: show as many obstacles/objections as you can envision, then tell them why your product overcomes each one."
+    source_file: "transcription_mp4_13-Shack-L12-Creative_That_Converts-V3_from_Foundr_on_Vimeo.md"
+    related_dna: ["FIL-NS-012", "MET-NS-006"]
+    tags: [case-study, fidgetly, direct-response, creative]
+
+  - id: "INS-NS-010"
+    title: "Engaged Shoppers: The Hidden Facebook Audience"
+    category: "tactical"
+    description: "Facebook has a behavioral targeting option called 'Engaged Shoppers' - anyone who has clicked a Shop Now CTA. This is a higher-intent consumer that most advertisers don't use. Layer it on top of interest targeting for dramatically better results. Nick calls it 'probably one of the coolest things that people don't talk about.'"
+    source_file: "transcription_mp4_10-Shack-L9-Persona-Angle-Test-V3_from_Foundr_on_Vimeo.md"
+    related_dna: ["MM-NS-007", "FW-NS-012"]
+    tags: [engaged-shoppers, targeting, hidden-audience]
+
+  - id: "INS-NS-011"
+    title: "Comments Are a Sales Channel"
+    category: "tactical"
+    description: "When creative goes viral (1000+ comments and shares), the comments section becomes a sales channel. Brand should actively reach out to commenters and try to close sales directly in the comments. More engagement = more opportunity for direct selling."
+    source_file: "transcription_mp4_13-Shack-L12-Creative_That_Converts-V3_from_Foundr_on_Vimeo.md"
+    related_dna: ["MET-NS-006"]
+    tags: [comments, engagement, sales-channel, ugc]
+
+  - id: "INS-NS-012"
+    title: "Discounts Don't Cheapen the Brand at Bottom of Funnel"
+    category: "strategic"
+    description: "Many people think discounts cheapen the brand. Nick disagrees for remarketing specifically. First-time buyer discounts (5-15%) at the bottom of funnel are a great way to get customers in, increase AOV, and lengthen LTV. The key is presenting it tastefully (e.g., 'first time buyers' framing, not desperation)."
+    source_file: "transcription_mp4_16-Shack-L15-Re-marketing-V3_from_Foundr_on_Vimeo.md"
+    related_dna: ["HEUR-NS-033", "FIL-NS-010"]
+    tags: [discounts, brand-perception, remarketing, ltv]
+
+  - id: "INS-NS-013"
+    title: "Social Proof Stack: Multiple Platforms"
+    category: "tactical"
+    description: "The most converting creative stacks social proof from multiple platforms: Trust Pilot reviews, Facebook comments, Loox Reviews, Judge.me, email testimonials. The Australian beauty brand example hit consumers with 'social proof from every direction' - building trust through volume and variety of proof sources."
+    source_file: "transcription_mp4_15-Shack-L14-Re-engagement-V3_from_Foundr_on_Vimeo.md"
+    related_dna: ["MM-NS-011", "FW-NS-010"]
+    tags: [social-proof, reviews, trust, multi-platform]
+
+  - id: "INS-NS-014"
+    title: "UGC is Re-engagement Gold"
+    category: "tactical"
+    description: "User-generated content (UGC) is the most effective creative type for re-engagement (middle funnel). Real customers speaking authentically about the product in face-to-camera format builds trust. Example: Rural Cloth hat review - 10 seconds of authentic recommendation outperformed polished creative."
+    source_file: "transcription_mp4_15-Shack-L14-Re-engagement-V3_from_Foundr_on_Vimeo.md"
+    related_dna: ["MET-NS-007", "MM-NS-011"]
+    tags: [ugc, re-engagement, authenticity, creative]
+
+  - id: "INS-NS-015"
+    title: "Re-engagement Creative: One Value Prop Per Ad"
+    category: "tactical"
+    description: "Nick gave direct feedback on a Miracle Brand re-engagement ad that tried to cram every value proposition into one video. His recommendation: if you're going to take an angle, make it one congruent thought all the way through. Don't try to fit everything in one ad - especially at bottom of funnel where you're looking for specific triggers."
+    source_file: "transcription_mp4_15-Shack-L14-Re-engagement-V3_from_Foundr_on_Vimeo.md"
+    related_dna: ["MM-NS-012"]
+    tags: [creative, value-proposition, focus, re-engagement]
+
+  - id: "INS-NS-016"
+    title: "Snow Teeth Whitening: Day 1 Launch Success"
+    category: "case-study"
+    description: "Josh (friend of Nick) built Snow Teeth Whitening - a brand new business launched successfully from day one off the back of a successful product. Demonstrates that with the right product and right launch framework, you can achieve immediate success."
+    source_file: "transcription_mp4_01-Shack-L1-Intro-V3_from_Foundr_on_Vimeo.md"
+    related_dna: ["FIL-NS-012", "FW-NS-015"]
+    tags: [case-study, snow-teeth-whitening, product-launch]
+
+  - id: "INS-NS-017"
+    title: "Don't Over-Remarket to Purchasers"
+    category: "tactical"
+    description: "Be careful with remarketing to past purchasers. Over-remarketing can burn the audience out and make them not want to hear from you anymore. Use purchaser audiences sparingly, primarily for new product launches only."
+    source_file: "transcription_mp4_12-Shack-L11-Product_Launch-V3_from_Foundr_on_Vimeo.md"
+    related_dna: ["FW-NS-014", "MET-NS-009"]
+    tags: [remarketing, audience-fatigue, purchasers]
+
+  - id: "INS-NS-018"
+    title: "Flexify for Product Feed Building"
+    category: "tool-recommendation"
+    description: "Nick recommends Flexify as the primary tool for building product feeds for DPA (Dynamic Product Ads). Essential for multi-SKU stores wanting to leverage catalog sales on Facebook."
+    source_file: "transcription_mp4_16-Shack-L15-Re-marketing-V3_from_Foundr_on_Vimeo.md"
+    related_dna: ["MET-NS-008"]
+    tags: [tools, flexify, dpa, product-feed]
+
+  - id: "INS-NS-019"
+    title: "Obstacle Elimination Creative Formula"
+    category: "creative"
+    description: "The creative formula that works best for prospecting: identify as many obstacles/objections consumers might have from reviews and feedback, then in the creative, systematically address each one showing why your product overcomes it. Text overlays handle objections visually while the product demonstration plays. Example: waterproof shoes ad addressed breathability, everyday use, cleaning ease, weight."
+    source_file: "transcription_mp4_13-Shack-L12-Creative_That_Converts-V3_from_Foundr_on_Vimeo.md"
+    related_dna: ["MET-NS-006", "FW-NS-010"]
+    tags: [creative-formula, objection-handling, text-overlays]
+
+summary:
+  total_insights: 19
+  categories:
+    strategic: 3
+    operational: 1
+    tactical: 8
+    case_study: 6
+    tool_recommendation: 1

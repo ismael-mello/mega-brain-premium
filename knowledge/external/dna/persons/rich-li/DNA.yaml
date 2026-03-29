@@ -1,0 +1,589 @@
+# ============================================================================
+# RICH LI - DNA SCHEMA
+# ============================================================================
+# Expert in: Supply Chain Operations, Manufacturing, Ecommerce Logistics
+# Background: Co-founder Brosa Furniture ($60M AUD), Founder July Luggage ($10.5M funding)
+# Former: Largest seller to Groupon Group globally
+# ============================================================================
+
+person: rich-li
+full_name: "Rich Li (Richard Li)"
+version: "v1"
+course: "Foundr - Ecommerce Masters 2020"
+module: "Module 3 - Scaling Supply Chain Operations & Manufacturing + Bonuses"
+total_files: 30
+extraction_date: "2026-03-29"
+total_elements: 98
+
+credentials:
+  - "Co-founder of Brosa Furniture - Australia's largest online furniture retailer ($60M AUD)"
+  - "Founder and CEO of July Luggage - secured $10.5M in funding within 9 months"
+  - "Scaled Brosa from $0 to $60M in 5 years"
+  - "Developed 10,000+ SKUs across 3,000+ products at Brosa"
+  - "Sourcing from India, China, Southeast Asia across multiple countries"
+  - "Largest seller to Groupon Group globally (US, Australia, Canada, New Zealand)"
+  - "Set up entire supply chain from product development to end consumer"
+
+domains:
+  - supply-chain-operations
+  - manufacturing-at-scale
+  - ecommerce-logistics
+  - supplier-sourcing
+  - supplier-negotiation
+  - quality-control
+  - 3pl-management
+  - international-shipping
+  - last-mile-delivery
+  - brand-protection
+  - contribution-margin
+  - currency-optimization
+
+# ============================================================================
+# L1 - PHILOSOPHIES: Core beliefs about supply chain and operations
+# ============================================================================
+L1-PHILOSOPHIES:
+  - id: "FIL-RL-001"
+    title: "Cash Flow Is King in Supply Chain"
+    description: "Protecting cash flow is the most important priority when dealing with suppliers. Every dollar matters - negotiate payment terms, down payments, and timing to preserve cash flow for growth."
+    source_file: "transcription_mp4_05-Rich-L5-Negotiating_with_Suppliers-v3_from_Foundr_on_Vimeo.md"
+    tags: [cash-flow, supplier-negotiation, financial-management]
+
+  - id: "FIL-RL-002"
+    title: "Scaling Means Quality at Volume"
+    description: "Scaling means producing more high quality products more efficiently. It's not just about increasing quantity - quality must be maintained or improved as volume increases."
+    source_file: "transcription_pdf_01-RIch_Full_Module.md"
+    tags: [scaling, quality, manufacturing]
+
+  - id: "FIL-RL-003"
+    title: "Own Your Supply Chain, Own Your Margin"
+    description: "You want to produce your own brand, product and packaging to control your own margin. Going direct to manufacturer eliminates middlemen and unlocks significantly higher margins."
+    source_file: "transcription_mp4_02-The_Supply_Chain_Puzzle__Primer__-_Foundr_Premium.md"
+    tags: [margin-control, direct-manufacturing, brand-ownership]
+
+  - id: "FIL-RL-004"
+    title: "Do It Yourself - Never Use Sourcing Agents"
+    description: "Never use a sourcing agent. They charge 5-10% commission and may also take rebates from the factory (another 5-10%). Do the sourcing work yourself - it's not hard and you get the best possible price."
+    source_file: "transcription_mp4_04-Rich-L4-Sourcing_Quality_Suppliers-v3_from_Foundr_on_Vimeo.md"
+    tags: [sourcing, self-reliance, cost-control]
+
+  - id: "FIL-RL-005"
+    title: "Relationship Over Contract"
+    description: "Building genuine personal relationships with suppliers is more powerful than contracts. Visit them in person, bring small gifts during Chinese New Year, let them know your difficulties. Mutual trust enables deals that contracts never could."
+    source_file: "transcription_mp4_05-Rich-L5-Negotiating_with_Suppliers-v3_from_Foundr_on_Vimeo.md"
+    tags: [supplier-relationships, trust, personal-connection]
+
+  - id: "FIL-RL-006"
+    title: "Don't Give Up on Manufacturing Challenges"
+    description: "When factories say 'this is impossible' or 'this is too hard', don't give up. Go to the factory, workshop with them, talk through solutions. July spent $1.25M on product development and solved 10-20 manufacturing challenges by collaborating directly with the factory."
+    source_file: "transcription_mp4_11-Rich-L11-July-A_Case_Study-v3_from_Foundr_on_Vimeo.md"
+    tags: [persistence, manufacturing, problem-solving]
+
+  - id: "FIL-RL-007"
+    title: "Be As Local As Possible"
+    description: "We want to be as local as possible when we enter into a market. Set up local entities, local bank accounts, local Shopify stores with local currency to maximize conversion and minimize currency exchange losses."
+    source_file: "transcription_mp4_09-Rich-B-Currency_Hack_for_International_Selling-v3_from_Foundr_on_Vimeo.md"
+    tags: [internationalization, localization, conversion-optimization]
+
+  - id: "FIL-RL-008"
+    title: "Time Is Money in Supplier Sourcing"
+    description: "Don't waste time visiting factory by factory or browsing Alibaba endlessly. Use efficient methods (FBI Method) to find proven suppliers quickly. Time spent sourcing inefficiently is money lost."
+    source_file: "transcription_mp4_04-Rich-L4-Sourcing_Quality_Suppliers-v3_from_Foundr_on_Vimeo.md"
+    tags: [efficiency, sourcing, time-management]
+
+  - id: "FIL-RL-009"
+    title: "Control the End Consumer Experience"
+    description: "The most important thing is to control the end consumer experience. This is why July moved from 3PL to in-house warehousing - to enable fast delivery and full control over fulfillment quality."
+    source_file: "transcription_mp4_07-Rich-L7-Preventing_3PL_Bleeding-v3_from_Foundr_on_Vimeo.md"
+    tags: [customer-experience, fulfillment, control]
+
+  - id: "FIL-RL-010"
+    title: "Know Your Numbers Before Everything"
+    description: "Understanding your contribution margin is THE first step to scaling. Without knowing your numbers, every decision about suppliers, marketing, and pricing is a guess. This is the thing I wish I knew when starting out."
+    source_file: "transcription_mp4_03-Rich-L3-The_First_Step_to_Scaling-v3_from_Foundr_on_Vimeo.md"
+    tags: [financial-literacy, contribution-margin, scaling-foundation]
+
+  - id: "FIL-RL-011"
+    title: "Never Push Suppliers Too Hard"
+    description: "Don't push your supplier too hard because if you do, they might stop working with you, leading to a bigger problem. There is a fine balance between being strict with quality guidelines and maintaining a good relationship."
+    source_file: "transcription_mp4_05-Rich-L5-Negotiating_with_Suppliers-v3_from_Foundr_on_Vimeo.md"
+    tags: [supplier-management, balance, relationship]
+
+  - id: "FIL-RL-012"
+    title: "Supply Chain Is Not Complicated"
+    description: "Many founders consider supply chain complicated and difficult. Specialized skills are not necessary to run tight supply chain operations. The process can be demystified and managed by any entrepreneur willing to learn."
+    source_file: "transcription_pdf_01-RIch_Full_Module.md"
+    tags: [mindset, accessibility, entrepreneurship]
+
+# ============================================================================
+# L2 - MENTAL MODELS: How Rich Li thinks about supply chain
+# ============================================================================
+L2-MENTAL-MODELS:
+  - id: "MM-RL-001"
+    title: "The Supply Chain Trifecta"
+    description: "The three main supply chain components: (1) Sourcing - finding and setting up supplier relationships, (2) Production - placing orders, locking slots, managing raw materials and delivery dates, (3) Logistics - freight forwarding, warehousing, last mile delivery."
+    source_file: "transcription_mp4_02-The_Supply_Chain_Puzzle__Primer__-_Foundr_Premium.md"
+    tags: [supply-chain, framework, operations]
+
+  - id: "MM-RL-002"
+    title: "Contribution Margin as Decision Engine"
+    description: "Contribution margin is THE key metric for scaling decisions. CM = Gross Margin - Variable Costs (merchant fees, delivery, marketing). If CM is positive, you can scale. If negative, fix costs or pricing before spending on marketing."
+    source_file: "transcription_mp4_03-Rich-L3-The_First_Step_to_Scaling-v3_from_Foundr_on_Vimeo.md"
+    tags: [contribution-margin, financial-metrics, scaling]
+
+  - id: "MM-RL-003"
+    title: "3PL vs Self-Warehouse Decision"
+    description: "Think of 3PL vs warehousing like buying vs leasing a car. 3PL has no fixed cost but higher variable costs (you pay more over time). Self-warehousing has fixed costs (lease, staff) but lower per-unit costs at scale. Decision depends on stage of business, margin, and volume."
+    source_file: "transcription_mp4_07-Rich-L7-Preventing_3PL_Bleeding-v3_from_Foundr_on_Vimeo.md"
+    tags: [3pl, warehousing, decision-making]
+
+  - id: "MM-RL-004"
+    title: "FOB as Default Trading Term"
+    description: "Always think in FOB (Free on Board) terms. 95% of factories quote FOB because it's the standard. If a factory quotes EXW (Ex-Works), question their professionalism - they may lack export licenses. EXW looks cheaper on paper but has hidden local transport costs that destroy margin."
+    source_file: "transcription_mp4_08-Rich-L8-International_Shipping-v3_from_Foundr_on_Vimeo.md"
+    tags: [trading-terms, fob, international-shipping]
+
+  - id: "MM-RL-005"
+    title: "Volume Weight vs Dead Weight"
+    description: "In logistics, carriers charge based on the LARGER of volume weight or dead weight. Volume weight = (L x W x H in cm) / 1,000,000 x 250. Most products have volume weight larger than dead weight. Always calculate both and use the larger for cost projections."
+    source_file: "transcription_mp4_09-Rich-L9-Last_Mile_Delivery-v3_from_Foundr_on_Vimeo.md"
+    tags: [logistics, weight-calculation, shipping-costs]
+
+  - id: "MM-RL-006"
+    title: "Supplier Quality as CLV Driver"
+    description: "Quality products from quality suppliers drive higher Customer Lifetime Value (CLV). Good quality = positive feedback, word of mouth, repeat business. Bad quality = one-time business, lost customers, no repeats."
+    source_file: "transcription_pdf_04-Rich_Lesson_4.md"
+    tags: [quality, clv, customer-retention]
+
+  - id: "MM-RL-007"
+    title: "COGS Three-Component Model"
+    description: "COGS (Cost of Goods Sold) has three main components: (1) Manufacturing cost (FOB price), (2) Transportation cost (freight per unit), (3) Duty cost (varies by category and country). Example: $100 FOB + $1 freight/unit = $101 before duty."
+    source_file: "transcription_mp4_08-Rich-L8-International_Shipping-v3_from_Foundr_on_Vimeo.md"
+    tags: [cogs, cost-structure, pricing]
+
+  - id: "MM-RL-008"
+    title: "Communication Channel Matching"
+    description: "Use the communication app that your supplier uses daily. China = WeChat (no WhatsApp/Facebook/Google). India = WhatsApp. Vietnam = WhatsApp (not WeChat). Australia = Email/Messages. Speed of response depends on using their preferred channel."
+    source_file: "transcription_mp4_04-Rich-L4-Sourcing_Quality_Suppliers-v3_from_Foundr_on_Vimeo.md"
+    tags: [communication, supplier-management, cultural-awareness]
+
+  - id: "MM-RL-009"
+    title: "Stock Compensation Over Cash"
+    description: "When dealing with quality defects, always ask for fresh stock replacement rather than cash compensation. Suppliers never want to compensate cash. Stock replacement is easier for them to agree to and solves your problem equally well."
+    source_file: "transcription_mp4_05-Rich-L5-Negotiating_with_Suppliers-v3_from_Foundr_on_Vimeo.md"
+    tags: [quality-management, negotiation, supplier-relations]
+
+  - id: "MM-RL-010"
+    title: "CBM-Based 3PL Pricing Model"
+    description: "When all your products have similar cubic measurements, negotiate 3PL pricing based on per-CBM cost rather than per-pallet. Per-pallet pricing wastes money when pallets aren't fully optimized, and consolidating pallets incurs additional labor charges."
+    source_file: "transcription_mp4_07-Rich-L7-Preventing_3PL_Bleeding-v3_from_Foundr_on_Vimeo.md"
+    tags: [3pl, pricing, optimization]
+
+  - id: "MM-RL-011"
+    title: "Gentleman Agreement for Payment Terms"
+    description: "Extended payment terms with suppliers work as gentleman agreements, not contracts. Meet in person, express your long-term vision, build trust. As soon as you try to put it in contract, they'll say no due to cultural differences. From the second order onwards, this becomes possible."
+    source_file: "transcription_mp4_05-Rich-L5-Negotiating_with_Suppliers-v3_from_Foundr_on_Vimeo.md"
+    tags: [payment-terms, cultural-intelligence, trust]
+
+  - id: "MM-RL-012"
+    title: "Currency Arbitrage for International Sales"
+    description: "Keep revenue in local currency of each market. Don't convert immediately. Convert back to home currency only when exchange rates are favorable. This prevents currency exchange bleeding from spot conversions and high international credit card fees."
+    source_file: "transcription_mp4_09-Rich-B-Currency_Hack_for_International_Selling-v3_from_Foundr_on_Vimeo.md"
+    tags: [currency, international-sales, financial-optimization]
+
+  - id: "MM-RL-013"
+    title: "Supplier Professionalism Signal"
+    description: "If a factory quotes EXW instead of FOB, it's a red flag for professionalism. Being able to quote FOB requires export licenses. Factories quoting EXW may be smaller, less professional operations without proper export credentials."
+    source_file: "transcription_mp4_08-Rich-L8-International_Shipping-v3_from_Foundr_on_Vimeo.md"
+    tags: [supplier-vetting, red-flags, due-diligence]
+
+# ============================================================================
+# L3 - HEURISTICS: Specific numbers, thresholds, rules of thumb
+# ============================================================================
+L3-HEURISTICS:
+  - id: "HEUR-RL-001"
+    title: "10% Contribution Margin = Healthy for Scaling"
+    description: "A 10% contribution margin is a healthy benchmark that means you can scale your business and invest more in stock and marketing. If contribution margin is negative, fix cost structure or pricing before spending on marketing."
+    source_file: "transcription_mp4_03-Rich-L3-The_First_Step_to_Scaling-v3_from_Foundr_on_Vimeo.md"
+    tags: [contribution-margin, benchmark, scaling-threshold]
+
+  - id: "HEUR-RL-002"
+    title: "Sourcing Agent Commission: 5-10% Hidden Cost"
+    description: "Sourcing agents charge 5-10% commission fee openly. On top of that, they often get a secret 5-10% rebate from the factory. Total hidden cost of using a sourcing agent can be 10-20% of your purchase price."
+    source_file: "transcription_mp4_04-Rich-L4-Sourcing_Quality_Suppliers-v3_from_Foundr_on_Vimeo.md"
+    tags: [sourcing-agent, hidden-costs, margin-erosion]
+
+  - id: "HEUR-RL-003"
+    title: "Drop Competitor Quote by 10% for Target Price"
+    description: "In the Double Spy Framework: get a quote from a supplier you don't intend to work with, drop it by 10%, then present that as your target price to your dream supplier. This anchors negotiation below market rate."
+    source_file: "transcription_mp4_05-Rich-L5-Negotiating_with_Suppliers-v3_from_Foundr_on_Vimeo.md"
+    tags: [negotiation, pricing, supplier-management]
+
+  - id: "HEUR-RL-004"
+    title: "Negotiate Down Payment from 30% to 15%"
+    description: "All suppliers ask for 30% down payment. Always counter-offer 15%. They might say yes, no, or meet at 20%. Any reduction protects cash flow. It's always better than nothing."
+    source_file: "transcription_mp4_05-Rich-L5-Negotiating_with_Suppliers-v3_from_Foundr_on_Vimeo.md"
+    tags: [down-payment, cash-flow, negotiation]
+
+  - id: "HEUR-RL-005"
+    title: "Include 1% Hardware Spare Parts in Shipments"
+    description: "Standard quality policy: supplier must include 1% of hardware components as spare parts in each shipment. This covers minor repairs without needing a new order for replacement parts."
+    source_file: "transcription_pdf_01-RIch_Full_Module.md"
+    tags: [quality-control, spare-parts, policy]
+
+  - id: "HEUR-RL-006"
+    title: "3x Cost Compensation for Quality Defects"
+    description: "Standard penalty clause in supplier agreements: compensate 3x the cost for quality defects. This incentivizes suppliers to maintain quality. However, in practice, ask for fresh stock replacement rather than cash."
+    source_file: "transcription_pdf_01-RIch_Full_Module.md"
+    tags: [quality-defects, compensation, penalty]
+
+  - id: "HEUR-RL-007"
+    title: "3PL Storage: $3.50-$4.50 per Pallet per Week (Australia)"
+    description: "In Australia, 3PL storage costs range from $3.50 to $4.50 per pallet per week. This is a significant cost component that must be built into your P&L."
+    source_file: "transcription_mp4_07-Rich-L7-Preventing_3PL_Bleeding-v3_from_Foundr_on_Vimeo.md"
+    tags: [3pl-costs, storage, australia]
+
+  - id: "HEUR-RL-008"
+    title: "Last Mile Weight Charge: 20-30 cents per kg"
+    description: "Last mile delivery carriers charge approximately 20-30 cents per kilogram as weight charge (example: Melbourne to Sydney). This is on top of the consignment base charge."
+    source_file: "transcription_mp4_09-Rich-L9-Last_Mile_Delivery-v3_from_Foundr_on_Vimeo.md"
+    tags: [last-mile, delivery-costs, weight-charge]
+
+  - id: "HEUR-RL-009"
+    title: "Fuel Surcharge: 15-20% Hidden Cost"
+    description: "Fuel surcharge on deliveries is a hidden cost that changes week by week or month by month. It ranges 15-20% on top of the base delivery charge. This must be factored into margin calculations."
+    source_file: "transcription_mp4_09-Rich-L9-Last_Mile_Delivery-v3_from_Foundr_on_Vimeo.md"
+    tags: [fuel-surcharge, hidden-costs, delivery]
+
+  - id: "HEUR-RL-010"
+    title: "Residential Surcharge: ~$5 per Delivery"
+    description: "Some carriers (TNT in Australia, FedEx in US) charge approximately $5 residential surcharge for home deliveries. Avoid using these carriers for residential addresses to protect margin."
+    source_file: "transcription_mp4_09-Rich-L9-Last_Mile_Delivery-v3_from_Foundr_on_Vimeo.md"
+    tags: [residential-surcharge, carrier-selection, hidden-costs]
+
+  - id: "HEUR-RL-011"
+    title: "Shippit Threshold: 500 Orders/Day"
+    description: "Apps like Shippit reduce fulfillment times by up to 80% and are good for up to 500 orders per day. Beyond 500 orders/day, you should look into a WMS (Warehouse Management System) for further automation."
+    source_file: "transcription_mp4_10-Rich-L10-Automating_Your_Delivery__Shippit_-v3_from_Foundr_on_Vimeo.md"
+    tags: [fulfillment-automation, shippit, wms-threshold]
+
+  - id: "HEUR-RL-012"
+    title: "Merchant Facility Fee: 1-2% of Revenue"
+    description: "Payment processing fees (Stripe, PayPal) are typically 1-2% of revenue. This is a variable cost that must be included in contribution margin calculations."
+    source_file: "transcription_mp4_03-Rich-L3-The_First_Step_to_Scaling-v3_from_Foundr_on_Vimeo.md"
+    tags: [merchant-fees, variable-costs, pricing]
+
+  - id: "HEUR-RL-013"
+    title: "Delivery Cost: ~10% of Sales"
+    description: "Last mile delivery cost is roughly 10% of sales value. This is a key variable cost that comes out of your gross profit before calculating contribution margin."
+    source_file: "transcription_mp4_03-Rich-L3-The_First_Step_to_Scaling-v3_from_Foundr_on_Vimeo.md"
+    tags: [delivery-costs, variable-costs, benchmark]
+
+  - id: "HEUR-RL-014"
+    title: "Manufacturing Cost: ~50% of Revenue (Benchmark)"
+    description: "In the P&L template example, manufacturing cost (COGS) is benchmarked at approximately 50% of revenue. This is the baseline before negotiation and optimization."
+    source_file: "transcription_mp4_03-Rich-L3-The_First_Step_to_Scaling-v3_from_Foundr_on_Vimeo.md"
+    tags: [cogs, benchmark, manufacturing-cost]
+
+  - id: "HEUR-RL-015"
+    title: "JungleScout: $39/month for Supplier Database"
+    description: "JungleScout's Supplier Database costs approximately $39/month with a 14-day trial. This tool enables the FBI Method for investigating competitors' suppliers through shipment records."
+    source_file: "transcription_mp4_04-Rich-L4-Sourcing_Quality_Suppliers-v3_from_Foundr_on_Vimeo.md"
+    tags: [tools, junglescout, supplier-research]
+
+  - id: "HEUR-RL-016"
+    title: "Production Lead Time: 15-90 Days"
+    description: "Manufacturing production time typically ranges from 15 to 90 days depending on the product. This must be factored into inventory planning and cash flow management."
+    source_file: "transcription_mp4_02-The_Supply_Chain_Puzzle__Primer__-_Foundr_Premium.md"
+    tags: [lead-time, production, planning]
+
+  - id: "HEUR-RL-017"
+    title: "Brand Authorization Letter: 1-Year Limit"
+    description: "Issue brand authorization letters to manufacturers with a 1-year time limit. Renew or terminate at the end of each year. Never give open-ended authorization to produce under your brand."
+    source_file: "transcription_mp4_01-Rich-L6-Protecting_Your_Brand-v3_from_Foundr_on_Vimeo.md"
+    tags: [brand-protection, authorization, ip-protection]
+
+  - id: "HEUR-RL-018"
+    title: "Brosa Target Gross Margin: 50-70%"
+    description: "Brosa's target gross margin was between 50% and 70% depending on the value of the product. Higher-value products can sustain lower GM percentages while still generating healthy absolute margins."
+    source_file: "transcription_pdf_08-Brosa_Supply_Chain_Workshop.md"
+    tags: [gross-margin, target, pricing-strategy]
+
+  - id: "HEUR-RL-019"
+    title: "Container Utilization Rate: ~85%"
+    description: "Brosa uses approximately 85% utilization rate when calculating container loadability. This accounts for real-world packing inefficiency compared to theoretical maximum capacity."
+    source_file: "transcription_pdf_08-Brosa_Supply_Chain_Workshop.md"
+    tags: [container-optimization, utilization, shipping]
+
+  - id: "HEUR-RL-020"
+    title: "Container Capacities: 20ft=33CBM, 40ft=67CBM, 40HC=76CBM"
+    description: "Standard shipping container capacities: 20ft container = 33 CBM, 40ft container = 67 CBM, 40HC (high cube) container = 76 CBM. These are the most commonly used containers for furniture/ecommerce."
+    source_file: "transcription_pdf_08-Brosa_Supply_Chain_Workshop.md"
+    tags: [containers, capacity, shipping-logistics]
+
+  - id: "HEUR-RL-021"
+    title: "Australian Import Duty: 0-10%, Average 4.6%"
+    description: "Import duty rates in Australia vary from 0% to 10% with an average of 4.6%. Electronics usually have 0% duty. Alcohol and cigarettes have very high duty. Formula: Duty = AUD(duty rate x FOB value)."
+    source_file: "transcription_pdf_08-Brosa_Supply_Chain_Workshop.md"
+    tags: [duty, import-costs, australia]
+
+  - id: "HEUR-RL-022"
+    title: "Australian Import GST: 10% of CIF Value"
+    description: "Import GST in Australia is calculated as 10% of CIF (or CNF) value, which is FOB price plus international freight. This is a significant cost that must be factored into COGS."
+    source_file: "transcription_pdf_08-Brosa_Supply_Chain_Workshop.md"
+    tags: [gst, import-costs, australia]
+
+  - id: "HEUR-RL-023"
+    title: "Discount Budget: ~10% of Gross Revenue"
+    description: "In the P&L template, discount allocation is approximately 10% of gross sales. This reduces net revenue and must be factored before calculating gross profit."
+    source_file: "transcription_xlsx_03-Profit___Loss_Template_with_CM_Calculation__Foundr_.md"
+    tags: [discounts, pricing, p-and-l]
+
+  - id: "HEUR-RL-024"
+    title: "AOV Growth Target: 5% Month-over-Month"
+    description: "In the P&L template, the Average Order Value (AOV) growth target is 5% month-over-month increase. This compounds significantly over 6 months (from $200 to $255)."
+    source_file: "transcription_xlsx_03-Profit___Loss_Template_with_CM_Calculation__Foundr_.md"
+    tags: [aov, growth-targets, benchmarks]
+
+  - id: "HEUR-RL-025"
+    title: "Conversion Rate Benchmark: 2%"
+    description: "The P&L template uses 2% conversion rate as baseline benchmark. Conversion rate = orders divided by total sessions. This is used to calculate marketing efficiency and customer acquisition cost."
+    source_file: "transcription_xlsx_03-Profit___Loss_Template_with_CM_Calculation__Foundr_.md"
+    tags: [conversion-rate, benchmark, ecommerce]
+
+  - id: "HEUR-RL-026"
+    title: "3PL Minimum 24-Hour Fulfillment Delay"
+    description: "Most 3PLs take a minimum of 24 hours before they fulfill any order. This delay is a key disadvantage when you need same-day or next-day delivery options for customers."
+    source_file: "transcription_mp4_07-Rich-L7-Preventing_3PL_Bleeding-v3_from_Foundr_on_Vimeo.md"
+    tags: [3pl, fulfillment-speed, limitation]
+
+  - id: "HEUR-RL-027"
+    title: "Volume Weight Formula: LxWxH(cm)/1M x 250"
+    description: "Volume weight = Length x Width x Height (all in centimeters) / 1,000,000 x 250. If volume weight > dead weight, carriers charge based on volume weight. Most consumer products have larger volume weight than dead weight."
+    source_file: "transcription_mp4_09-Rich-L9-Last_Mile_Delivery-v3_from_Foundr_on_Vimeo.md"
+    tags: [volume-weight, logistics-formula, shipping]
+
+  - id: "HEUR-RL-028"
+    title: "Payment Extension from Second Order Onwards"
+    description: "Never ask for payment extension on the first order (you're building trust). From the second order onwards, ask for 30-day payment terms on the remaining 70-80% balance after receiving stock."
+    source_file: "transcription_mp4_05-Rich-L5-Negotiating_with_Suppliers-v3_from_Foundr_on_Vimeo.md"
+    tags: [payment-terms, cash-flow, timing]
+
+  - id: "HEUR-RL-029"
+    title: "July Case: 3-Month Payment Terms with Major Suppliers"
+    description: "July achieved 3-month payment terms with all major suppliers from early on. This meant not having to pay for containers for 3 months, which significantly helped growth and cash flow."
+    source_file: "transcription_mp4_11-Rich-L11-July-A_Case_Study-v3_from_Foundr_on_Vimeo.md"
+    tags: [payment-terms, case-study, july]
+
+  - id: "HEUR-RL-030"
+    title: "Brosa COGS Example: 40HC Loadability Calculation"
+    description: "For Camden 3 Seater (RRP $1299): FOB USD$232 (fx 0.77), carton 202x92x75cm, 40HC loadability = 76 x 0.85 / (2.02 x 0.92 x 0.75) = 46 pieces per container, ocean freight $1000 USD."
+    source_file: "transcription_pdf_08-Brosa_Supply_Chain_Workshop.md"
+    tags: [cogs-example, container-loading, calculation]
+
+  - id: "HEUR-RL-031"
+    title: "FOB Container Surcharge Warning"
+    description: "FOB quotes from factories are usually based on full 20ft or 40ft container loads. If shipping half a container, the factory may charge a surcharge on top of the quoted FOB price."
+    source_file: "transcription_mp4_08-Rich-L8-International_Shipping-v3_from_Foundr_on_Vimeo.md"
+    tags: [fob, container, surcharge-warning]
+
+# ============================================================================
+# L4 - FRAMEWORKS: Structured methodologies for supply chain
+# ============================================================================
+L4-FRAMEWORKS:
+  - id: "FW-RL-001"
+    title: "FBI Method (Find Best Investigators)"
+    description: "Framework for finding quality suppliers by investigating competitors. Step 1: Identify your competitor. Step 2: Find their company name (footer, privacy policy, terms). Step 3: Use JungleScout Supplier Database to search company name. Step 4: Review top suppliers and their other clients (shared clients = quality signal). Step 5: Cold-call the supplier."
+    source_file: "transcription_mp4_04-Rich-L4-Sourcing_Quality_Suppliers-v3_from_Foundr_on_Vimeo.md"
+    tags: [sourcing, competitor-analysis, supplier-discovery]
+
+  - id: "FW-RL-002"
+    title: "Double Spy Framework (DSF)"
+    description: "Negotiation framework for best supplier pricing. Step 1: Approach two suppliers for the same product. Step 2: Get a quote from the supplier you DON'T intend to work with. Step 3: Drop that quote by 10%. Step 4: Present the reduced price as your target to your dream supplier. Step 5: Negotiate from there. This anchors the negotiation below market and uses competitive pressure."
+    source_file: "transcription_mp4_05-Rich-L5-Negotiating_with_Suppliers-v3_from_Foundr_on_Vimeo.md"
+    tags: [negotiation, pricing, supplier-management]
+
+  - id: "FW-RL-003"
+    title: "3PL Big Four Cost Framework"
+    description: "The four major cost categories in 3PL: (1) Inbound - container unpacking, receiving, put-away per carton/pallet, (2) Storage - per pallet per week ($3.50-$4.50 AU), (3) Outbound - pick & pack, outbound fee, delivery cost per carrier, (4) Account Management - weekly/monthly fee (negotiable, often waivable). Plus hidden costs: manual labor, processing fees."
+    source_file: "transcription_mp4_07-Rich-L7-Preventing_3PL_Bleeding-v3_from_Foundr_on_Vimeo.md"
+    tags: [3pl, cost-structure, warehousing]
+
+  - id: "FW-RL-004"
+    title: "COGS Calculation by Trading Term"
+    description: "Framework for calculating COGS based on trading term: EXW COGS = Purchase + Origin Transport/Customs + International Freight + Destination Transport/Customs. FOB COGS = Purchase + International Freight + Destination Transport/Customs. CIF COGS = Purchase + Destination Transport/Customs. DDU COGS = Purchase + Customs Clearance (inc. Duty). DDP COGS = Purchase Cost only."
+    source_file: "transcription_pdf_08-Brosa_Supply_Chain_Workshop.md"
+    tags: [cogs, trading-terms, cost-calculation]
+
+  - id: "FW-RL-005"
+    title: "Last Mile Delivery Cost Formula"
+    description: "Total LMD Cost = (Consignment Charge + Weight Charge) x Fuel Surcharge. Weight charge based on LARGER of volume weight vs dead weight. Must also account for: re-delivery fee, ATL option, storage fee, residential surcharge."
+    source_file: "transcription_pdf_09-Rich_Lesson_8.md"
+    tags: [last-mile, cost-formula, delivery]
+
+  - id: "FW-RL-006"
+    title: "Contribution Margin Calculation"
+    description: "Step 1: Gross Revenue - Discounts = Net Revenue. Step 2: Net Revenue - Variable Costs (Merchant Fees + COGS + Delivery) = Gross Profit. Step 3: Gross Profit - Marketing Costs = Contribution Margin. Step 4: CM / Gross Revenue = CM%. Target: 10%+ for healthy scaling."
+    source_file: "transcription_mp4_03-Rich-L3-The_First_Step_to_Scaling-v3_from_Foundr_on_Vimeo.md"
+    tags: [contribution-margin, p-and-l, financial-framework]
+
+  - id: "FW-RL-007"
+    title: "Brand Protection Framework"
+    description: "Two-step brand protection when working with overseas manufacturers: Step 1: Sign a Mutual NDA with manufacturer to acknowledge IP importance. Step 2: Issue a Brand Authorization Letter with 1-year time limit. Renew or terminate annually. Prevents unauthorized production under your brand name."
+    source_file: "transcription_mp4_01-Rich-L6-Protecting_Your_Brand-v3_from_Foundr_on_Vimeo.md"
+    tags: [brand-protection, ip, legal]
+
+  - id: "FW-RL-008"
+    title: "Quality Policy Framework"
+    description: "Framework for setting quality standards with suppliers: (1) Set specific penalty clauses for quality deviations, (2) Require 1% hardware spare parts in each shipment, (3) Defective stock must be replenished in next shipment, (4) Compensate 3x cost for defects (nuclear option), (5) Conduct QC inspections yourself or with QC partners before shipment."
+    source_file: "transcription_mp4_05-Rich-L5-Negotiating_with_Suppliers-v3_from_Foundr_on_Vimeo.md"
+    tags: [quality-control, supplier-agreement, penalties]
+
+  - id: "FW-RL-009"
+    title: "3PL vs Self-Warehouse Decision Framework"
+    description: "Decision criteria for warehousing solution: Consider 3PL when: low capital, want no fixed costs, acceptable 24h+ fulfillment delay. Consider self-warehouse when: 3PL costs exceed gross margin threshold, need same-day/express delivery, want full control of customer experience, have enough volume to justify fixed costs."
+    source_file: "transcription_mp4_07-Rich-L7-Preventing_3PL_Bleeding-v3_from_Foundr_on_Vimeo.md"
+    tags: [warehousing, decision-framework, 3pl]
+
+  - id: "FW-RL-010"
+    title: "Supplier Cold-Calling Framework"
+    description: "Two proven scripts for cold-calling suppliers: (1) Business Card Approach: 'I met you at [Event] and someone gave me your card. I'd like to speak to someone who looks after [Country] market.' (2) Network Connection: '[Name] recommended we reach out. I'd like to speak to someone who looks after [Country] market.' Key: establish rapport first, get WeChat/WhatsApp second, discuss business third."
+    source_file: "transcription_docx_04-Supplier_Cold-Calling_Scripts.md"
+    tags: [cold-calling, scripts, supplier-outreach]
+
+  - id: "FW-RL-011"
+    title: "Supplier Negotiation Pro Tips"
+    description: "Six negotiation principles: (1) Always negotiate down payment (30% -> 15%), (2) Meet supplier in person to close deals, (3) Maintain good relationship (small gifts, Chinese New Year), (4) Ask for better payment terms from second order, (5) Include quality policy in contract, (6) Conduct QC yourself or with team."
+    source_file: "transcription_pdf_05-Rich_Lesson_5.md"
+    tags: [negotiation, supplier-management, best-practices]
+
+  - id: "FW-RL-012"
+    title: "LMD Provider Evaluation Questionnaire"
+    description: "Five critical questions before partnering with a Last Mile Delivery provider: (1) What is your costing structure? (2) Do you charge a re-delivery fee? (3) Is ATL (Authority to Leave) an option? (4) Do you charge a storage fee for uncollected parcels? (5) Do you charge a residential surcharge?"
+    source_file: "transcription_pdf_09-Rich_Lesson_8.md"
+    tags: [last-mile, carrier-evaluation, questionnaire]
+
+  - id: "FW-RL-013"
+    title: "Currency Hack Framework for International Selling"
+    description: "Framework for maximizing international revenue: Step 1: Identify your biggest international market. Step 2: Set up a legal entity in that country. Step 3: Find an agent to set up local bank accounts. Step 4: Register a country-specific Shopify store with local currency. Step 5: Hire developer for custom backend. Benefits: higher conversion (local checkout), no exchange rate bleeding, strategic currency conversion timing."
+    source_file: "transcription_pdf_09-currency_hack_for_international_selling_-_foundr_premium.md"
+    tags: [international-selling, currency, shopify, localization]
+
+  - id: "FW-RL-014"
+    title: "Scale Readiness Questionnaire"
+    description: "Four questions to determine if your business is ready to scale manufacturing: (1) Is your product/brand proven with enough demand for large quantities? (2) Have you surpassed revenue targets with repeatable sales? (3) Are you ready for global manufacturers? (4) Is there minimal risk with enough cash reserves? All YES = ready to scale."
+    source_file: "transcription_pdf_01-RIch_Full_Module.md"
+    tags: [scaling-readiness, assessment, decision]
+
+  - id: "FW-RL-015"
+    title: "Container Loadability Calculation"
+    description: "Formula for calculating how many units fit in a container: Units per container = (Container CBM x Utilization Rate) / (Product L x W x H in meters). Example: 40HC = 76 CBM x 0.85 / (2.02 x 0.92 x 0.75) = 46 pieces. Per-unit freight = Total freight / Units per container."
+    source_file: "transcription_pdf_08-Brosa_Supply_Chain_Workshop.md"
+    tags: [container-loading, freight-calculation, logistics]
+
+  - id: "FW-RL-016"
+    title: "P&L Template with CM Calculation"
+    description: "Complete ecommerce P&L framework: Revenue section (Gross Revenue, Discounts, Net Revenue), Cost section (Merchant Fees ~2%, COGS ~50%, Delivery ~10%), Gross Profit, Marketing section (Google Ads, Facebook Ads), Marketing metrics (Blended CPC, Sessions, Conversion Rate), and final CM After Marketing ($ and %)."
+    source_file: "transcription_xlsx_03-Profit___Loss_Template_with_CM_Calculation__Foundr_.md"
+    tags: [p-and-l, template, financial-management]
+
+  - id: "FW-RL-017"
+    title: "QC Inspection Report Framework"
+    description: "Professional QC inspection template (Intertek standard) covering: (a) Quantity verification, (b) Product description/style/color check, (c) Workmanship inspection (Critical/Major/Minor defects), (d) Data measurement/checking (static loading, assembly, barcode, moisture, product dimensions, carton dimensions), (e) Packaging verification, (f) Shipping mark check. Uses AQL sampling standards (BS6001, ANSI/ASQC Z1.4, ISO 2859-1)."
+    source_file: "transcription_pdf_05-QC_Inspection_Template.md"
+    tags: [quality-control, inspection, template]
+
+# ============================================================================
+# L5 - METHODOLOGIES: Complete step-by-step processes
+# ============================================================================
+L5-METHODOLOGIES:
+  - id: "MET-RL-001"
+    title: "Complete Supply Chain Setup Methodology"
+    description: "End-to-end methodology for setting up ecommerce supply chain from scratch: Phase 1 - FOUNDATIONS: Calculate contribution margin using P&L template, determine if ready to scale (readiness questionnaire), download supply chain flow chart. Phase 2 - SOURCING: Use FBI Method to find competitors' suppliers via JungleScout, cold-call suppliers using scripts (Business Card or Network Connection approach), use local communication apps (WeChat for China, WhatsApp for India/Vietnam). Phase 3 - NEGOTIATION: Apply Double Spy Framework for best price, negotiate down payment from 30% to 15%, establish quality policy with specific penalties (1% hardware, 3x compensation), get agreement in place but maintain relationship balance. Phase 4 - BRAND PROTECTION: Sign mutual NDA, issue 1-year brand authorization letter. Phase 5 - WAREHOUSING: Choose 3PL or self-warehouse based on margin/volume/control needs, if 3PL: understand all 4 cost categories plus hidden fees, negotiate CBM-based pricing where possible. Phase 6 - INTERNATIONAL SHIPPING: Ensure all quotes are FOB, calculate complete COGS (manufacturing + freight + duty), understand trading terms (EXW/FOB/CIF). Phase 7 - LAST MILE: Evaluate carriers with 5-question framework, calculate volume weight vs dead weight, account for fuel surcharge (15-20%), automate with Shippit or equivalent up to 500 orders/day."
+    source_file: "transcription_pdf_01-RIch_Full_Module.md"
+    tags: [supply-chain, end-to-end, methodology]
+
+  - id: "MET-RL-002"
+    title: "FBI Supplier Discovery Methodology"
+    description: "Step-by-step process: (1) Identify 5 direct competitors in your market. (2) Visit each competitor's website. (3) Find their company legal name (footer, privacy policy, terms & conditions). (4) Go to JungleScout Supplier Database ($39/month). (5) Select 'Company' search. (6) Paste competitor's company name. (7) Review shipment history and top suppliers. (8) Click on supplier to see ALL their clients. (9) If big brands (e.g., Starbucks) share the supplier = quality signal. (10) Record supplier contact details. (11) Cold-call using one of two scripts. (12) Get WeChat/WhatsApp to continue conversation. (13) Request samples and quotes in FOB terms."
+    source_file: "transcription_mp4_04-Rich-L4-Sourcing_Quality_Suppliers-v3_from_Foundr_on_Vimeo.md"
+    tags: [sourcing, competitor-intelligence, step-by-step]
+
+  - id: "MET-RL-003"
+    title: "Supplier Negotiation Methodology"
+    description: "Complete negotiation process: (1) Apply Double Spy Framework - get competitive quote, drop 10%, present to target supplier. (2) Counter-offer down payment: 30% -> 15% (settle at 20% if needed). (3) Meet in person - fly to the supplier (deals close faster face-to-face). (4) Build relationship - small gifts ($10-20) during holidays. (5) Share your business plans and volume forecast. (6) From second order: request 30-day payment on remaining 70-80% after receiving stock. (7) Set up QC agreement with penalties (gentleman agreement for payment terms, formal contract for quality). (8) Visit factory for QC before each shipment. (9) Never push too hard - balance strictness with relationship."
+    source_file: "transcription_mp4_05-Rich-L5-Negotiating_with_Suppliers-v3_from_Foundr_on_Vimeo.md"
+    tags: [negotiation, supplier-management, complete-process]
+
+  - id: "MET-RL-004"
+    title: "3PL Evaluation and Negotiation Methodology"
+    description: "Process for selecting and negotiating with 3PL providers: (1) Get quotes from multiple 3PL partners. (2) Ensure you understand ALL fee categories: inbound (container unpack, receiving), storage (per pallet/CBM weekly), outbound (pick & pack, delivery), account management (weekly/monthly). (3) Ask specific questions: is there a minimum spend? Can you quote per CBM instead of per pallet? What are manual labor charges? (4) Request account management fee waiver. (5) Compare quotes apples-to-apples across all categories. (6) Negotiate with preferred provider using competitive quotes. (7) Use 3PL Pricing Template to document and compare. (8) Build all fees into your P&L contribution margin calculation. (9) Transition to self-warehouse when 3PL costs exceed margin threshold."
+    source_file: "transcription_mp4_07-Rich-L7-Preventing_3PL_Bleeding-v3_from_Foundr_on_Vimeo.md"
+    tags: [3pl, evaluation, negotiation]
+
+  - id: "MET-RL-005"
+    title: "International Shipping Cost Calculation Methodology"
+    description: "Step-by-step process: (1) Confirm trading term is FOB (if EXW, convert or question factory). (2) Get FOB price from supplier in USD. (3) Calculate container loadability: Container CBM x 0.85 / Product volume = units per container. (4) Get ocean freight quote from freight forwarder. (5) Per-unit freight = ocean freight / units per container. (6) Check duty rate for your product category and destination country. (7) Calculate duty: Duty rate x FOB value. (8) Calculate import GST where applicable (AU: 10% of CIF value). (9) Add destination custom clearance and local transport. (10) Total COGS = FOB + per-unit freight + duty + GST + local costs. (11) Track how changes in each component affect P&L margins."
+    source_file: "transcription_mp4_08-Rich-L8-International_Shipping-v3_from_Foundr_on_Vimeo.md"
+    tags: [shipping, cost-calculation, international]
+
+  - id: "MET-RL-006"
+    title: "Delivery Automation Methodology (Shippit)"
+    description: "Automating order fulfillment: (1) Ensure app has 3 features: automate fulfillment, multi-carrier rate comparison, live shipping updates. (2) Install Shippit from Shopify App Store. (3) Load your own carrier account rates (Australia Post, Fastway, etc.). (4) When order comes in, it syncs automatically to Shippit. (5) View multiple carrier options with rates. (6) Select best carrier/rate for each order. (7) Confirm and generate consignment. (8) Download and print shipping label. (9) Attach label to package. (10) If exceeding 500 orders/day, upgrade to full WMS system."
+    source_file: "transcription_mp4_10-Rich-L10-Automating_Your_Delivery__Shippit_-v3_from_Foundr_on_Vimeo.md"
+    tags: [automation, fulfillment, shopify]
+
+  - id: "MET-RL-007"
+    title: "July Case Study Methodology: Zero to Scale"
+    description: "Real-world implementation: (1) Found local design agency (One Design Office) to realize product design (~2 months). (2) Brought design to manufacturing partner from existing network for development (~2 months). (3) Hit target price enabling $295 retail. (4) Product development cost: $1.25M (retooling wheel factory, telescopic handle factory). (5) Solved 10-20 manufacturing challenges by workshopping directly with factory. (6) Started with 3PL using CBM-based pricing (no lease commitment). (7) Signed deals with multiple carriers (DHL, UPS, Australia Post). (8) Used Shippit for fulfillment automation. (9) Achieved 3-month payment terms with all major suppliers. (10) Moved to self-warehouse when 3PL costs became too high and needed express delivery options."
+    source_file: "transcription_mp4_11-Rich-L11-July-A_Case_Study-v3_from_Foundr_on_Vimeo.md"
+    tags: [case-study, july, implementation]
+
+  - id: "MET-RL-008"
+    title: "International Market Entry Methodology"
+    description: "Methodology for entering international markets with local presence: (1) Analyze where most international customers are based (Google Analytics). (2) Determine which market to enter seriously. (3) Set up legal entity in target country (use local agent). (4) Open local bank account. (5) Register Shopify store in that country with local currency and address. (6) Price products in local currency. (7) For checkout, customers see and pay in local currency (not converted). (8) Keep revenue in local bank account. (9) Convert to home currency only when exchange rates are favorable. (10) For multiple markets, maintain separate Shopify backends (manage individually until custom backend is built)."
+    source_file: "transcription_mp4_09-Rich-B-Currency_Hack_for_International_Selling-v3_from_Foundr_on_Vimeo.md"
+    tags: [internationalization, market-entry, currency]
+
+  - id: "MET-RL-009"
+    title: "Contribution Margin Monitoring Methodology"
+    description: "Ongoing P&L monitoring process: (1) Set up P&L template with all revenue and cost lines. (2) Track AOV monthly (target 5% MoM growth). (3) Calculate Net Revenue after discounts (~10% of gross). (4) Deduct variable costs: Merchant Fees (~2%), COGS (~50%), Delivery (~10%). (5) Calculate Gross Profit. (6) Deduct marketing costs by channel (Google, Facebook). (7) Track Blended CPC across channels. (8) Monitor conversion rate (benchmark 2%). (9) Calculate CM in $ and %. (10) If CM < 0: reduce variable costs or increase price. If CM > 10%: ready to scale marketing and stock purchases."
+    source_file: "transcription_xlsx_03-Profit___Loss_Template_with_CM_Calculation__Foundr_.md"
+    tags: [financial-monitoring, contribution-margin, methodology]
+
+  - id: "MET-RL-010"
+    title: "QC Inspection Methodology"
+    description: "Professional quality control inspection process: (1) Use Intertek-standard inspection report form. (2) Check quantity available vs ordered. (3) Verify product description, style, and color against PO/spec. (4) Workmanship inspection with Critical/Major/Minor defect classification. (5) Data measurement checks: static loading, assembly, barcode scanning, quantity, actual performance, moisture content, tape test, product measurement, carton dimensions, carton weight. (6) Packaging verification. (7) Shipping mark verification. (8) Photo documentation (front, side, rear, packing, barcode, shipping marks, defects). (9) Use AQL sampling standards (BS6001, ANSI/ASQC Z1.4, ISO 2859-1). (10) Overall result: CONFORMED / NOT CONFORMED / PENDING."
+    source_file: "transcription_pdf_05-QC_Inspection_Template.md"
+    tags: [quality-control, inspection, process]
+
+# ============================================================================
+# SUMMARY
+# ============================================================================
+summary:
+  total_elements: 98
+  by_layer:
+    L1-PHILOSOPHIES: 12
+    L2-MENTAL-MODELS: 13
+    L3-HEURISTICS: 31
+    L4-FRAMEWORKS: 17
+    L5-METHODOLOGIES: 10
+  key_frameworks:
+    - "FBI Method (supplier discovery via competitor intelligence)"
+    - "Double Spy Framework (negotiation pricing)"
+    - "3PL Big Four Cost Framework"
+    - "COGS Calculation by Trading Term"
+    - "Contribution Margin Calculation"
+    - "Last Mile Delivery Cost Formula"
+    - "Brand Protection Framework (NDA + Authorization)"
+    - "P&L Template with CM Calculation"
+  key_numbers:
+    - "10% CM = healthy for scaling"
+    - "5-10% sourcing agent commission (open) + 5-10% factory rebate (hidden)"
+    - "Drop competitor quote by 10% for target price"
+    - "Negotiate down payment: 30% -> 15%"
+    - "$3.50-$4.50 per pallet per week (AU 3PL storage)"
+    - "15-20% fuel surcharge on deliveries"
+    - "500 orders/day = Shippit threshold, then WMS"
+    - "50-70% target gross margin (Brosa)"
+    - "85% container utilization rate"
+    - "20ft=33CBM, 40ft=67CBM, 40HC=76CBM"
