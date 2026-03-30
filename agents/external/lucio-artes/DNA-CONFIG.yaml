@@ -1,9 +1,9 @@
 cargo: "LUCIO-ARTES"
-versao: "1.0.0"
+versao: "2.0.0"
 nivel: "PERSON"
 natureza: "SOLO"
 data_criacao: "2026-03-25"
-ultima_atualizacao: "2026-03-25"
+ultima_atualizacao: "2026-03-30"
 
 constituicao:
   path: "/agents/CONSTITUTION/BASE-CONSTITUTION.md"
@@ -34,25 +34,57 @@ dna_sources:
       - webinar-funnels
       - automation
       - google-ads
-    raiz: "/knowledge/external/sources/lucio-artes/raw/formacao-trafego-escala-2024/"
+      - demand-discovery
+      - offer-creation
+      - ai-sales-systems
+      - server-side-tracking
+      - vibe-coding
+      - health-niche-compliance
+      - whatsapp-tracking
+    raiz:
+      - "/knowledge/external/sources/lucio-artes/raw/formacao-trafego-escala-2024/"
+      - "/knowledge/external/sources/lucio-artes/raw/ads-academy-temporada-1/"
+      - "/knowledge/external/sources/lucio-artes/raw/ads-academy-temporada-2/"
+      - "/knowledge/external/sources/lucio-artes/raw/encontros-ao-vivo-2025/"
+      - "/knowledge/external/sources/lucio-artes/raw/bm-shield-legacy/"
+      - "/knowledge/external/sources/lucio-artes/raw/cbo-start-legacy/"
+      - "/knowledge/external/sources/lucio-artes/raw/workshop-campanhas-de-controle/"
+      - "/knowledge/external/sources/lucio-artes/raw/workshop-funil-otimizacao-pixel/"
+      - "/knowledge/external/sources/lucio-artes/raw/workshop-super-publicos/"
+      - "/knowledge/external/sources/lucio-artes/raw/masterclass-metricas-personalizadas/"
+      - "/knowledge/external/sources/lucio-artes/raw/principio-80x10x10/"
+      - "/knowledge/external/sources/lucio-artes/raw/masterclass-campanha-extendida/"
+      - "/knowledge/external/sources/lucio-artes/raw/encontros-ao-vivo-2024/"
     materiais_fonte:
       - "Formação Tráfego de Escala 2024 (35 arquivos — Módulos I/II/III + 7 Erros + Bonus + Encontros ao Vivo)"
+      - "Ads Academy - Temporada 1 (29 arquivos — Curso Online)"
+      - "Ads Academy - Temporada 2 (30 arquivos — Curso Online)"
+      - "Encontros ao Vivo [2025] (25 arquivos — Lives)"
+      - "BM SHIELD Legacy (25 arquivos — Curso Online)"
+      - "CBO START Legacy (6 arquivos — Curso Online)"
+      - "Workshop Campanhas de Controle (13 arquivos — Workshop)"
+      - "Workshop Funil de Otimização Pixel (6 arquivos — Workshop)"
+      - "Workshop Super Públicos (4 arquivos — Workshop)"
+      - "Masterclass Métricas Personalizadas (1 arquivo — Masterclass)"
+      - "Principio 80x10x10 (1 arquivo — Masterclass)"
+      - "Masterclass Campanha Extendida (1 arquivo — Masterclass)"
+      - "Encontros ao Vivo [2024] (1 arquivo — Live)"
 
 dna_summary:
-  total_elementos: 168
-  versao_dna: "1.0.0"
+  total_elementos: 501
+  versao_dna: "2.0.0"
   camadas:
-    L1_PHILOSOPHIES: 32
-    L2_MENTAL_MODELS: 31
-    L3_HEURISTICS: 56
-    L4_FRAMEWORKS: 31
-    L5_METHODOLOGIES: 23
+    L1_PHILOSOPHIES: 89
+    L2_MENTAL_MODELS: 87
+    L3_HEURISTICS: 157
+    L4_FRAMEWORKS: 102
+    L5_METHODOLOGIES: 71
   proximos_ids:
-    FIL: "FIL-LA-033"
-    MM: "MM-LA-032"
-    HEUR: "HEUR-LA-057"
-    FW: "FW-LA-032"
-    MET: "MET-LA-024"
+    FIL: "FIL-LA-090"
+    MM: "MM-LA-088"
+    HEUR: "HEUR-LA-158"
+    FW: "FW-LA-103"
+    MET: "MET-LA-072"
 
 dominios_primarios:
   - paid-traffic
@@ -68,24 +100,37 @@ dominios_secundarios:
   - bid-strategy
   - creative-testing
   - google-ads
+  - server-side-tracking
+  - demand-discovery
 
 dominios_terciarios:
   - audience-segmentation
   - tracking
   - webinar-funnels
   - automation
+  - offer-creation
+  - ai-sales-systems
+  - vibe-coding
+  - health-niche-compliance
+  - whatsapp-tracking
 
 dimensoes:
   facebook_ads: 10
   campaign_control: 10
-  roas_optimization: 9
-  api_conversion: 9
-  scaling_campaigns: 8
+  roas_optimization: 10
+  api_conversion: 10
+  scaling_campaigns: 9
   google_ads: 8
-  creative_testing: 7
+  creative_testing: 8
   webinar_funnels: 7
-  automation_ia: 6
-  tracking_attribution: 5
+  automation_ia: 7
+  tracking_attribution: 8
+  demand_discovery: 7
+  offer_creation: 7
+  server_side_tracking: 9
+  whatsapp_tracking: 6
+  vibe_coding: 5
+  health_niche_compliance: 5
 
 contexto_autor:
   nome_completo: "Lúcio Artes"

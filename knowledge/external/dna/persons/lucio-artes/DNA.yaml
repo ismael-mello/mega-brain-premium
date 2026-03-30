@@ -1,17 +1,65 @@
 # DNA COGNITIVO — LÚCIO ARTES
-# Formação Tráfego de Escala (2024)
-# v1.0.0 | 173 elementos | 1 fonte
-# Gerado: 2026-03-25
+# Formação Tráfego de Escala (2024) + 12 fontes adicionais
+# v2.0.0 | ~500 elementos | 13 fontes
+# Gerado: 2026-03-25 | Atualizado: 2026-03-30
 
 metadata:
   person: "Lúcio Artes"
-  version: "1.0.0"
-  total_elements: 173
-  sources: 1
+  version: "2.0.0"
+  total_elements: 501
+  sources: 13
   source_programs:
     - name: "Formação Tráfego de Escala"
       code: "FTE"
       files: 35
+      year: 2024
+    - name: "Ads Academy T1"
+      code: "AAT1"
+      files: 29
+      year: 2021
+    - name: "Ads Academy T2"
+      code: "AAT2"
+      files: 30
+      year: 2022
+    - name: "Encontros ao Vivo 2025"
+      code: "EAV25"
+      files: 25
+      year: 2025
+    - name: "BM SHIELD Legacy"
+      code: "BMS"
+      files: 25
+      year: 2021
+    - name: "CBO START Legacy"
+      code: "CBO"
+      files: 6
+      year: 2021
+    - name: "Workshop Campanhas de Controle"
+      code: "WCC"
+      files: 13
+      year: 2022
+    - name: "Workshop Funil Otimização Pixel"
+      code: "WFOP"
+      files: 6
+      year: 2022
+    - name: "Workshop Super Públicos"
+      code: "WSP"
+      files: 4
+      year: 2022
+    - name: "Masterclass Métricas Personalizadas"
+      code: "MMP"
+      files: 1
+      year: 2022
+    - name: "Principio 80x10x10"
+      code: "P80"
+      files: 1
+      year: 2022
+    - name: "Masterclass Campanha Extendida"
+      code: "MCE"
+      files: 1
+      year: 2022
+    - name: "Encontros ao Vivo 2024"
+      code: "EAV24"
+      files: 1
       year: 2024
   domains:
     - paid-traffic
@@ -28,12 +76,19 @@ metadata:
     - tracking
     - webinar-funnels
     - automation
-  last_updated: "2026-03-25"
+    - demand-discovery
+    - offer-creation
+    - ai-sales-systems
+    - server-side-tracking
+    - vibe-coding
+    - health-niche-compliance
+    - whatsapp-tracking
+  last_updated: "2026-03-30"
 
 layers:
   L1_PHILOSOPHIES:
-    count: 32
-    next_id: "FIL-LA-211"
+    count: 57
+    next_id: "FIL-LA-058"
     elements:
       - id: "FIL-LA-001"
         title: "Escala vs Crescimento"
@@ -195,10 +250,136 @@ layers:
         description: "O mercado digital permite mensurar 95-97% de tudo. Não tomar decisões baseadas em dados é desperdiçar a maior vantagem do digital."
         source: "FTE/Encontro-04_04_2024:00:00-03:00"
         domains: ["paid-traffic"]
+      # --- New elements from AAT1, AAT2, EAV25 (v2.0.0) ---
+      - id: "FIL-LA-033"
+        title: "Anúncio Não Vende — Atrai o Clique"
+        description: "O papel do anúncio é atrair o clique, não vender. A venda acontece no sistema pós-clique."
+        source: "AAT1/Aula5"
+        domains: ["facebook-ads"]
+      - id: "FIL-LA-034"
+        title: "Dados Não São Nada — Informação É Poder"
+        description: "Métricas são dados; só quando transformados em informação acionável têm poder."
+        source: "AAT1/Aula5"
+        domains: ["campaign-control"]
+      - id: "FIL-LA-035"
+        title: "Inteligência Não Se Duplica — Se Constrói"
+        description: "Duplicar conjuntos não duplica inteligência do pixel. Inteligência se constrói com tempo e dados maduros."
+        source: "AAT1/Aula7"
+        domains: ["facebook-ads"]
+      - id: "FIL-LA-036"
+        title: "Você Não É Mais Inteligente Que o Facebook"
+        description: "Gambiarras e contingências sempre resultam em bloqueio. Trabalhe dentro das regras."
+        source: "AAT1/Aula2"
+        domains: ["facebook-ads"]
+      - id: "FIL-LA-037"
+        title: "Estabilidade > Crescimento Rápido"
+        description: "Previsibilidade e estabilidade valem mais que crescimento explosivo com risco."
+        source: "AAT1/Aula2"
+        domains: ["scaling-campaigns"]
+      - id: "FIL-LA-038"
+        title: "Tráfego É Um Sistema, Não Campanha Isolada"
+        description: "Tráfego deve ser visto como sistema de múltiplas campanhas coordenadas."
+        source: "AAT1/Aula4"
+        domains: ["paid-traffic"]
+      - id: "FIL-LA-039"
+        title: "Marketing Não Cria Necessidade, Cria Desejo"
+        description: "A necessidade já existe; marketing transforma em desejo por sua solução."
+        source: "AAT2/Aula38"
+        domains: ["paid-traffic"]
+      - id: "FIL-LA-040"
+        title: "Produto Bom é Produto que Vende"
+        description: "Separar gosto pessoal de avaliação de mercado. Se vende, atende necessidade real."
+        source: "AAT2/Aula38"
+        domains: ["demand-discovery"]
+      - id: "FIL-LA-041"
+        title: "Quem Só Aperta Botão Vai Perder Valor"
+        description: "Plataformas simplificam; valor está em análise e estratégia, não execução."
+        source: "AAT2/Aula42"
+        domains: ["paid-traffic"]
+      - id: "FIL-LA-042"
+        title: "Anúncio é o Elemento Mais Poderoso da Segmentação"
+        description: "Bom anúncio + segmentação ruim > anúncio ruim + segmentação boa."
+        source: "AAT2/Aula39"
+        domains: ["creative-testing"]
+      - id: "FIL-LA-043"
+        title: "Escala Horizontal é Gambiarra"
+        description: "Duplicar conjuntos é gambiarra. Escala real vem de otimizar relevância."
+        source: "AAT2/Aula46"
+        domains: ["scaling-campaigns"]
+      - id: "FIL-LA-044"
+        title: "Relevância Vence Lance Maior"
+        description: "No leilão do Facebook, qualidade pode vencer dinheiro. Documentação oficial confirma."
+        source: "AAT2/Aula40"
+        domains: ["facebook-ads"]
+      - id: "FIL-LA-045"
+        title: "Traqueamento > Rastreamento"
+        description: "Tracking moderno coleta comportamento preditivo, não apenas origem. O dinheiro está na IA de otimização."
+        source: "EAV25/09Jan"
+        domains: ["tracking"]
+      - id: "FIL-LA-046"
+        title: "Antes de Tráfego, Invista em Traqueamento"
+        description: "Não existe mais investir em tráfego sem tracking. É tão importante quanto copy."
+        source: "EAV25/09Jan"
+        domains: ["tracking"]
+      - id: "FIL-LA-047"
+        title: "Demanda Primeiro, Produto Depois"
+        description: "Identificar demanda antes de criar produto. Nunca o contrário."
+        source: "EAV25/23Jan"
+        domains: ["demand-discovery"]
+      - id: "FIL-LA-048"
+        title: "O Dinheiro Está nos 4 Mercados Eternos"
+        description: "Finanças, Saúde, Relacionamento, Hobbies. Dinheiro nos 3 primeiros (dor real)."
+        source: "EAV25/30Jan"
+        domains: ["demand-discovery"]
+      - id: "FIL-LA-049"
+        title: "Mecanismo Único é Tudo"
+        description: "O que diferencia uma oferta é o mecanismo único. Sem ele, você é mais um."
+        source: "EAV25/30Jan"
+        domains: ["offer-creation"]
+      - id: "FIL-LA-050"
+        title: "Low Ticket Não É Para Dar Lucro"
+        description: "Tripwire paga tráfego. Lucro vem do backend (upsell, high ticket)."
+        source: "EAV25/30Jan"
+        domains: ["offer-creation"]
+      - id: "FIL-LA-051"
+        title: "Era de Quem Sabe Pedir"
+        description: "Com IA, valor está em quem sabe dar instruções. Experiência fazendo ajuda a pedir melhor."
+        source: "EAV25/08Mai"
+        domains: ["ai-sales-systems"]
+      - id: "FIL-LA-052"
+        title: "Ferramenta Não É Diferencial, Você É"
+        description: "Na mão da pessoa certa, qualquer ferramenta entrega resultado."
+        source: "EAV25/08Mai"
+        domains: ["paid-traffic"]
+      - id: "FIL-LA-053"
+        title: "Nunca Tente Burlar o Sistema"
+        description: "Não tente enganar o Meta. Sistema sempre vence. Entenda o que o Meta quer."
+        source: "EAV25/03Abr"
+        domains: ["facebook-ads"]
+      - id: "FIL-LA-054"
+        title: "IA Igualou Todo Mundo de Novo"
+        description: "IA colocou todos no mesmo patamar. Oportunidade para veteranos."
+        source: "EAV25/08Mai"
+        domains: ["ai-sales-systems"]
+      - id: "FIL-LA-055"
+        title: "Reduzir Scripts = Mais Performance"
+        description: "Cada script sobrecarrega carregamento. Menos scripts = melhor connect rate."
+        source: "EAV25/12Jun"
+        domains: ["tracking"]
+      - id: "FIL-LA-056"
+        title: "O Meta Não Faz Nada Para Te Favorecer"
+        description: "Mudanças do Meta favorecem o Meta. Por coincidência pode te favorecer."
+        source: "EAV25/27Fev"
+        domains: ["meta-ads"]
+      - id: "FIL-LA-057"
+        title: "Plataformas de Terceiros São Dispensáveis"
+        description: "Qualquer dado do Meta é acessível via API direta."
+        source: "EAV25/17Abr"
+        domains: ["server-side-tracking"]
 
   L2_MENTAL_MODELS:
-    count: 31
-    next_id: "MM-LA-211"
+    count: 56
+    next_id: "MM-LA-057"
     elements:
       - id: "MM-LA-001"
         title: "Analogia da Ferrari"
@@ -355,10 +536,136 @@ layers:
         description: "Toda estrutura de venda tem dois funis encadeados: funil da página de vendas e funil do checkout."
         source: "FTE/Encontro-05_06_2025:35:56-39:00"
         domains: ["event-funnel"]
+      # --- New elements from AAT1, AAT2, EAV25 (v2.0.0) ---
+      - id: "MM-LA-032"
+        title: "Funil de Marketing 3 Estágios"
+        description: "Topo (consciência), Meio (avaliação), Fundo (conversão)."
+        source: "AAT1/Aula3-4"
+        domains: ["paid-traffic"]
+      - id: "MM-LA-033"
+        title: "Temperatura de Tráfego"
+        description: "Frio (não te conhece), Morno (considera soluções), Quente (pronto para converter)."
+        source: "AAT1/Aula3"
+        domains: ["paid-traffic"]
+      - id: "MM-LA-034"
+        title: "Pirâmide Dor → Necessidade → Desejo"
+        description: "Urgência de compra; pessoas movidas mais pela dor."
+        source: "AAT1/Aula4"
+        domains: ["paid-traffic"]
+      - id: "MM-LA-035"
+        title: "Modelo Funil-Espelho do Facebook"
+        description: "Objetivos do Facebook espelham diretamente o funil de marketing."
+        source: "AAT1/Aula4-11"
+        domains: ["facebook-ads"]
+      - id: "MM-LA-036"
+        title: "Modelo Rambo (Metralhadora → Sniper)"
+        description: "Campanha começa como metralhadora; refina com dados até virar sniper."
+        source: "AAT2/Aula39-40"
+        domains: ["facebook-ads"]
+      - id: "MM-LA-037"
+        title: "Segmentação Passiva vs Ativa"
+        description: "Passiva = topo (impactada). Ativa = meio/fundo (agiu). Níveis de comprometimento."
+        source: "AAT2/Aula40"
+        domains: ["audience-segmentation"]
+      - id: "MM-LA-038"
+        title: "Funil Invertido"
+        description: "Criar cima→baixo; Analisar baixo→cima. Método original Lúcio Artes."
+        source: "AAT2/Aula46"
+        domains: ["campaign-control"]
+      - id: "MM-LA-039"
+        title: "Triângulo da Relevância"
+        description: "Qualidade + Engajamento + Conversão = relevância total do anúncio."
+        source: "AAT2/Aula40-46-48"
+        domains: ["facebook-ads"]
+      - id: "MM-LA-040"
+        title: "Todo Mundo Começa com Nota 10"
+        description: "Cada anúncio novo começa com score máximo, perde pontos por atributos ruins."
+        source: "AAT2/Aula40"
+        domains: ["facebook-ads"]
+      - id: "MM-LA-041"
+        title: "3 Camadas do Tráfego Moderno"
+        description: "1) Tráfego/Copy, 2) Dados/Tracking, 3) IA/Otimização. Dinheiro na camada 3."
+        source: "EAV25/22Mai"
+        domains: ["paid-traffic"]
+      - id: "MM-LA-042"
+        title: "Evento vs Conversão"
+        description: "Evento é gatilho; conversão é ação reconhecida. Eventos não otimizam, conversões sim."
+        source: "EAV25/09Jan"
+        domains: ["tracking"]
+      - id: "MM-LA-043"
+        title: "Memória de 7 Dias do Meta"
+        description: "Meta só aprende com últimos 7 dias. Pausa de 7 dias = reset total."
+        source: "EAV25/15Mai"
+        domains: ["facebook-ads"]
+      - id: "MM-LA-044"
+        title: "API de Conversão > Cookie"
+        description: "CAPI mais segura e confiável que UTM/cookie. UTM se perde no caminho."
+        source: "EAV25/09Jan"
+        domains: ["api-conversion"]
+      - id: "MM-LA-045"
+        title: "Vibe Coding Para Negócios"
+        description: "Programar com IA permite criar dashboards e MVPs sem ser programador."
+        source: "EAV25/03Jul"
+        domains: ["vibe-coding"]
+      - id: "MM-LA-046"
+        title: "Qualificação Multiplica 7.3x"
+        description: "Tráfego direto 2.6% vs com qualificação 19%."
+        source: "EAV25/22Mai"
+        domains: ["roas-optimization"]
+      - id: "MM-LA-047"
+        title: "Sofisticação de Mercado (E5)"
+        description: "5 níveis: promessa simples → expandida → mecanismo → expandido → prospect."
+        source: "EAV25/30Jan"
+        domains: ["offer-creation"]
+      - id: "MM-LA-048"
+        title: "Funil de Consciência (Schwartz)"
+        description: "5 estágios de awareness. Dinheiro em mover de alheio até consciente da oferta."
+        source: "EAV25/30Jan"
+        domains: ["offer-creation"]
+      - id: "MM-LA-049"
+        title: "Primeiro Engajamento, Depois Conversão"
+        description: "Engajamento prévio aquece pixel e melhora classificação de relevância."
+        source: "AAT2/Aula48"
+        domains: ["facebook-ads"]
+      - id: "MM-LA-050"
+        title: "CRO Mais Valioso que Execução"
+        description: "Analista CRO ganha R$13K vs executor R$2K. 90% só apertam botões."
+        source: "AAT2/Aula42"
+        domains: ["paid-traffic"]
+      - id: "MM-LA-051"
+        title: "Monopólio de Otimização do Google"
+        description: "Bloquear cookies de terceiros criaria monopólio de otimização."
+        source: "EAV25/12Jun"
+        domains: ["tracking"]
+      - id: "MM-LA-052"
+        title: "Dashboard Como Produto Vendável"
+        description: "Relatórios conectados à API podem ser vendidos como SaaS."
+        source: "EAV25/03Jul"
+        domains: ["vibe-coding"]
+      - id: "MM-LA-053"
+        title: "Graph API Levels"
+        description: "Account → Campaign → AdSet → Ad. Cada nível retorna métricas diferentes."
+        source: "EAV25/03Jul"
+        domains: ["server-side-tracking"]
+      - id: "MM-LA-054"
+        title: "Saúde no Meta = Awareness"
+        description: "Nichos restritivos devem usar campanha topo de funil, não conversão direta."
+        source: "EAV25/03Abr"
+        domains: ["health-niche-compliance"]
+      - id: "MM-LA-055"
+        title: "Escala Não É Só Monetária"
+        description: "IA deve escalar liberdade. Mais crescimento = mais tempo livre."
+        source: "EAV25/15Mai"
+        domains: ["scaling-campaigns"]
+      - id: "MM-LA-056"
+        title: "Header do Site = Gargalo"
+        description: "Scripts no header carregam antes do conteúdo = atraso = penalização."
+        source: "EAV25/12Jun"
+        domains: ["tracking"]
 
   L3_HEURISTICS:
-    count: 56
-    next_id: "HEUR-LA-218"
+    count: 101
+    next_id: "HEUR-LA-102"
     elements:
       - id: "HEUR-LA-001"
         title: "Princípio 80-10-10"
@@ -683,10 +990,236 @@ layers:
         source: "FTE/Encontro-14_03_2024:1:27:16-1:30:16"
         domains: ["tracking"]
         numeric_value: "20%"
+      # --- New elements from AAT1, AAT2, EAV25 (v2.0.0) ---
+      - id: "HEUR-LA-057"
+        title: "Perda Clique→Visita: 40% Comum"
+        description: "81K cliques → 49K visitas = 40% perda. Infraestrutura deixou R$39K na mesa."
+        source: "AAT1/Aula5"
+        domains: ["roas-optimization"]
+      - id: "HEUR-LA-058"
+        title: "Conversão Checkout 15-28%"
+        description: "Referência: visita→checkout 28%, visita→venda 15%. Varia por página."
+        source: "AAT1/Aula5"
+        domains: ["roas-optimization"]
+      - id: "HEUR-LA-059"
+        title: "3 Conjuntos × 3 Anúncios"
+        description: "Estrutura ideal: 1 campanha → 3 conjuntos → 3 anúncios = 9 total."
+        source: "AAT1/Aula11-13"
+        domains: ["facebook-ads"]
+      - id: "HEUR-LA-060"
+        title: "Frequência ≥ 2 = Rotacionar"
+        description: "Mesmas pessoas vendo múltiplas vezes. Limitar ou rotacionar criativos."
+        source: "AAT1/Aula5"
+        domains: ["creative-testing"]
+      - id: "HEUR-LA-061"
+        title: "Lead Barato ≠ Lead Bom"
+        description: "CPL R$1 com ROAS 0.17 vs CPL R$3 com ROAS alto. Barato ≠ bom."
+        source: "AAT1/Aula4"
+        domains: ["roas-optimization"]
+      - id: "HEUR-LA-062"
+        title: "10-20% Orçamento Para Testes"
+        description: "Reservar porcentagem para testes. Não comprometer tudo."
+        source: "AAT1/Aula7"
+        domains: ["scaling-campaigns"]
+      - id: "HEUR-LA-063"
+        title: "R$5-20/dia Mínimo Iniciantes"
+        description: "Começar com mínimo sem expectativa. Perder o medo."
+        source: "AAT1/Aula13"
+        domains: ["facebook-ads"]
+      - id: "HEUR-LA-064"
+        title: "Domínio Verificado Obrigatório"
+        description: "R$40-60/ano. Sem verificação = risco + perda de funcionalidades."
+        source: "AAT1/Aula2"
+        domains: ["facebook-ads"]
+      - id: "HEUR-LA-065"
+        title: "500 Impressões = Diagnóstico"
+        description: "Ativa 3 métricas de classificação. Pode decidir escalar ou pausar."
+        source: "AAT2/Aula46"
+        domains: ["facebook-ads", "campaign-control"]
+      - id: "HEUR-LA-066"
+        title: "Na Média ou Acima = Escalar"
+        description: "3 classificações na média/acima = sinal verde. Custo CAI ao escalar."
+        source: "AAT2/Aula46-48"
+        domains: ["scaling-campaigns"]
+      - id: "HEUR-LA-067"
+        title: "Abaixo da Média 35% = Parar"
+        description: "Bottom 35% em qualquer classificação = problema. Bottom 10% = parar."
+        source: "AAT2/Aula40-46"
+        domains: ["campaign-control"]
+      - id: "HEUR-LA-068"
+        title: "50 Conversões 7 Dias = Aprendizado"
+        description: "Meta precisa ~50 conversões em 7 dias para sair do aprendizado."
+        source: "AAT2/Aula46"
+        domains: ["facebook-ads"]
+      - id: "HEUR-LA-069"
+        title: "ROI >100% = Escale Sem Limite"
+        description: "Se ROI acima de 100-200%, não limitar orçamento."
+        source: "AAT2/Aula39"
+        domains: ["scaling-campaigns"]
+      - id: "HEUR-LA-070"
+        title: "77% Redução CPA Possível"
+        description: "CPA de R$7,50 para R$1,69 com diagnóstico de relevância."
+        source: "AAT2/Aula40"
+        domains: ["roas-optimization"]
+      - id: "HEUR-LA-071"
+        title: "Lead R$112→R$7 em Escala"
+        description: "Caso documentado funil invertido. De R$900/dia para R$5.000/dia."
+        source: "AAT2/Aula46"
+        domains: ["scaling-campaigns"]
+      - id: "HEUR-LA-072"
+        title: "60-80% Upsell Alcançável"
+        description: "Com ofertas bem encaixadas no funil."
+        source: "AAT2/Aula48"
+        domains: ["offer-creation"]
+      - id: "HEUR-LA-073"
+        title: "Engagement Bait = Penalização"
+        description: "Nunca pedir curtir/comentar nos anúncios. 'Clique no link' é OK."
+        source: "AAT2/Aula40"
+        domains: ["facebook-ads"]
+      - id: "HEUR-LA-074"
+        title: "Clickbait = Perda de Relevância"
+        description: "Retenção de informação e sensacionalismo reduzem score."
+        source: "AAT2/Aula40"
+        domains: ["facebook-ads"]
+      - id: "HEUR-LA-075"
+        title: "Ocultar Anúncio = Sinal Mais Grave"
+        description: "Pior que clickbait. Monitorar essa métrica é crítico."
+        source: "AAT2/Aula40"
+        domains: ["facebook-ads"]
+      - id: "HEUR-LA-076"
+        title: "Bounce Rate Alto = Penalização Fantasma"
+        description: "Aumenta CPA silenciosamente."
+        source: "AAT2/Aula40"
+        domains: ["roas-optimization"]
+      - id: "HEUR-LA-077"
+        title: "500-800 Views Para Validar LP"
+        description: "Dados mínimos. Com 500 views e 1% = 5 vendas."
+        source: "EAV25/02Jan"
+        domains: ["roas-optimization"]
+      - id: "HEUR-LA-078"
+        title: "Regra 80-10-10 de Funil"
+        description: "80% bounce, 10% checkout, 10% conversão. Referência."
+        source: "EAV25/02Jan"
+        domains: ["roas-optimization"]
+      - id: "HEUR-LA-079"
+        title: "Connect Rate 85%+ Excelente"
+        description: "70% já estraga negócio. Indica velocidade de página."
+        source: "EAV25/02Jan"
+        domains: ["tracking"]
+      - id: "HEUR-LA-080"
+        title: "7 Dias Pausa = Reset Total"
+        description: "Memória do Meta é 7 dias. Volta ao aprendizado zero."
+        source: "EAV25/15Mai"
+        domains: ["facebook-ads"]
+      - id: "HEUR-LA-081"
+        title: "3 Segundos Loading = 70% Abandono"
+        description: "Google benchmark. Meta pune com baixa qualidade."
+        source: "EAV25/12Jun"
+        domains: ["tracking"]
+      - id: "HEUR-LA-082"
+        title: "ROAS 7-19 Com Qualificação"
+        description: "vs 2-3 em tráfego direto."
+        source: "EAV25/22Mai"
+        domains: ["roas-optimization"]
+      - id: "HEUR-LA-083"
+        title: "75% Play Rate VSL Bom"
+        description: "21.4% assistem até o pitch."
+        source: "EAV25/22Mai"
+        domains: ["creative-testing"]
+      - id: "HEUR-LA-084"
+        title: "Direto 2.6% vs Qualificação 19%"
+        description: "7.3x multiplicador."
+        source: "EAV25/22Mai"
+        domains: ["roas-optimization"]
+      - id: "HEUR-LA-085"
+        title: "Anúncio 60+ Dias = Validado"
+        description: "Critério de espionagem na biblioteca."
+        source: "EAV25/23Jan"
+        domains: ["demand-discovery"]
+      - id: "HEUR-LA-086"
+        title: "Connect Rate 44% = Crítico"
+        description: "Excesso de scripts. Dimpple resolveu → 78%."
+        source: "EAV25/12Jun"
+        domains: ["tracking"]
+      - id: "HEUR-LA-087"
+        title: "Lead 300-500 Palavras Define Venda"
+        description: "Abertura da copy (3-5 min VSL)."
+        source: "EAV25/30Jan"
+        domains: ["offer-creation"]
+      - id: "HEUR-LA-088"
+        title: "Upsell 43% Excelente"
+        description: "Benchmark de conversão upsell."
+        source: "EAV25/09Jan"
+        domains: ["offer-creation"]
+      - id: "HEUR-LA-089"
+        title: "Google Trends: Tendência > Número"
+        description: "Viés de alta/baixa ao longo de 3-5 anos."
+        source: "AAT2/Aula38"
+        domains: ["demand-discovery"]
+      - id: "HEUR-LA-090"
+        title: "135K Pesquisas/Mês = Suficiente"
+        description: "Volume mínimo para validar."
+        source: "AAT2/Aula38"
+        domains: ["demand-discovery"]
+      - id: "HEUR-LA-091"
+        title: "Público Mínimo 100 Veicular"
+        description: "Meta threshold. Com 10 já tem gente."
+        source: "EAV25/09Jan"
+        domains: ["facebook-ads"]
+      - id: "HEUR-LA-092"
+        title: "SDR IA WhatsApp Funciona 2025"
+        description: "Entende texto, imagem, áudio. Link checkout personalizado."
+        source: "EAV25/15Mai"
+        domains: ["ai-sales-systems"]
+      - id: "HEUR-LA-093"
+        title: "Engajamento Antes de Conversão"
+        description: "Aquecer pixel 1-2 dias com engajamento."
+        source: "AAT2/Aula48"
+        domains: ["facebook-ads"]
+      - id: "HEUR-LA-094"
+        title: "50.000 Pontos Dados Facebook"
+        description: "Por usuário. Confie no ML."
+        source: "AAT2/Aula40"
+        domains: ["facebook-ads"]
+      - id: "HEUR-LA-095"
+        title: "WordPress Plugin Inativo = Tire"
+        description: "Mesmo inativo impacta performance."
+        source: "EAV25/12Jun"
+        domains: ["tracking"]
+      - id: "HEUR-LA-096"
+        title: "Notificação Manada Salva Checkout"
+        description: "Social proof 3x conversão em e-commerce."
+        source: "EAV25/02Jan"
+        domains: ["roas-optimization"]
+      - id: "HEUR-LA-097"
+        title: "Escale Pelo Restante Não Total"
+        description: "Orçamento total: 10% do RESTANTE, não do total."
+        source: "EAV25/09Jan"
+        domains: ["scaling-campaigns"]
+      - id: "HEUR-LA-098"
+        title: "Violação Penaliza Tudo Associado"
+        description: "Penalização fantasma global em todas entidades."
+        source: "AAT2/Aula40"
+        domains: ["facebook-ads"]
+      - id: "HEUR-LA-099"
+        title: "Clonar Reativa Configs"
+        description: "Meta pode reativar configurações desmarcadas ao clonar."
+        source: "EAV25/27Fev"
+        domains: ["facebook-ads"]
+      - id: "HEUR-LA-100"
+        title: "Janela 1 Dia Alto Volume"
+        description: "50+ conversões/dia: use janela 1 dia."
+        source: "EAV25/15Mai"
+        domains: ["scaling-campaigns"]
+      - id: "HEUR-LA-101"
+        title: "ROAS 5.56x Referência Boa"
+        description: "R$17K invest → R$96K retorno. Mas olhe taxa visita/clique."
+        source: "AAT1/Aula5"
+        domains: ["roas-optimization"]
 
   L4_FRAMEWORKS:
-    count: 31
-    next_id: "FW-LA-211"
+    count: 71
+    next_id: "FW-LA-072"
     elements:
       - id: "FW-LA-001"
         title: "Framework da Ferrari"
@@ -843,10 +1376,211 @@ layers:
         description: "Lead Ads integrado com CRM. Janela sobe de 7 para 28 dias. Otimização 4× mais longa."
         source: "FTE/Encontro-03_04_2025:30:33-36:52"
         domains: ["facebook-ads"]
+      # --- New elements from AAT1, AAT2, EAV25 (v2.0.0) ---
+      - id: "FW-LA-032"
+        title: "BM SHIELD Framework"
+        description: "7 passos para blindar BM contra bloqueios."
+        source: "AAT1/Aula2"
+        domains: ["facebook-ads"]
+      - id: "FW-LA-033"
+        title: "Sistema de Tráfego 3 Temperaturas"
+        description: "Frio (reconhecimento) → Morno (consideração) → Quente (conversão)."
+        source: "AAT1/Aula3-4"
+        domains: ["paid-traffic"]
+      - id: "FW-LA-034"
+        title: "Hierarquia 3 Níveis Facebook"
+        description: "Campanha → Conjunto → Anúncio. Estrutura 1→3→3."
+        source: "AAT1/Aula11"
+        domains: ["facebook-ads"]
+      - id: "FW-LA-035"
+        title: "Métricas Personalizadas Dashboard"
+        description: "Relatório customizado em ordem de funil."
+        source: "AAT1/Aula6"
+        domains: ["campaign-control"]
+      - id: "FW-LA-036"
+        title: "Teste→Analise→Otimize→Escale"
+        description: "Ciclo operacional."
+        source: "AAT1/Aula7"
+        domains: ["paid-traffic"]
+      - id: "FW-LA-037"
+        title: "Anúncio 7 Elementos"
+        description: "Id + copy + headline + visual + info + prova social + CTA."
+        source: "AAT1/Aula11"
+        domains: ["creative-testing"]
+      - id: "FW-LA-038"
+        title: "4 Tipos Segmentação"
+        description: "Interesses, salvos, personalizados, lookalike."
+        source: "AAT1/Aula7"
+        domains: ["audience-segmentation"]
+      - id: "FW-LA-039"
+        title: "Garimpo de Demanda (4 Ferramentas)"
+        description: "Google autocomplete + Trends + Planejador + ML Tendências."
+        source: "AAT2/Aula38"
+        domains: ["demand-discovery"]
+      - id: "FW-LA-040"
+        title: "Filtro Intenção + Contexto"
+        description: "Demanda → intenção real → contexto vida → ângulo oferta."
+        source: "AAT2/Aula38"
+        domains: ["demand-discovery"]
+      - id: "FW-LA-041"
+        title: "Diagnóstico de Relevância (3 Classificações)"
+        description: "Qualidade + Engajamento + Conversão = relevância total."
+        source: "AAT2/Aula40-46-48"
+        domains: ["campaign-control", "facebook-ads"]
+      - id: "FW-LA-042"
+        title: "Funil Invertido Otimização"
+        description: "Criar cima→baixo, analisar baixo→cima. Método original Lúcio."
+        source: "AAT2/Aula46"
+        domains: ["campaign-control"]
+      - id: "FW-LA-043"
+        title: "Sinais do Pixel"
+        description: "Sequência: alcance→impressão→clique→CTR→PDV→cadastro→carrinho→checkout→compra."
+        source: "AAT2/Aula39"
+        domains: ["tracking", "event-funnel"]
+      - id: "FW-LA-044"
+        title: "Advantage+"
+        description: "Campanha simplificada sem separação de conjuntos."
+        source: "AAT2/Aula42"
+        domains: ["facebook-ads"]
+      - id: "FW-LA-045"
+        title: "Atributos de Baixa Qualidade"
+        description: "7 atributos: clickbait, sensacionalismo, engagement bait, blank pages, pop-ups, volume anúncios, experiência inesperada."
+        source: "AAT2/Aula40"
+        domains: ["facebook-ads"]
+      - id: "FW-LA-046"
+        title: "Teste 1 Criativo por Conjunto"
+        description: "Isolamento variável. Nome conjunto = nome criativo."
+        source: "AAT2/Aula48"
+        domains: ["creative-testing"]
+      - id: "FW-LA-047"
+        title: "Criativos Dinâmicos"
+        description: "Múltiplos assets, Facebook combina automaticamente. Ideal para baixo orçamento."
+        source: "AAT2/Aula49"
+        domains: ["creative-testing"]
+      - id: "FW-LA-048"
+        title: "Remarketing Ticket Médio"
+        description: "Order bump → upsell → cross-sell → downsell. Sequência por etapa."
+        source: "AAT2/Aula53"
+        domains: ["roas-optimization"]
+      - id: "FW-LA-049"
+        title: "Automação de Regras"
+        description: "3 tipos: escalar, desescalar, ativar/desativar. Gatilhos por CPL/CPA/ROAS."
+        source: "AAT2/Aula61-65"
+        domains: ["automation", "facebook-ads"]
+      - id: "FW-LA-050"
+        title: "Diagnóstico LP"
+        description: "500-800 views → vendas? → checkout? → usar 80-10-10 como referência."
+        source: "EAV25/02Jan"
+        domains: ["roas-optimization"]
+      - id: "FW-LA-051"
+        title: "Escala Manual Orçamento Total"
+        description: "7 dias → avaliar 3 → alongar prazo + calcular novo budget + regra escala."
+        source: "EAV25/09Jan"
+        domains: ["scaling-campaigns"]
+      - id: "FW-LA-052"
+        title: "Funil de Eventos Meta"
+        description: "PageView→ViewContent→AddToWishlist→AddToCart→InitCheckout→Purchase."
+        source: "EAV25/09Jan"
+        domains: ["event-funnel", "tracking"]
+      - id: "FW-LA-053"
+        title: "Criação Oferta Saúde"
+        description: "Mercado→demanda→quantificar→mecanismo único→copy E5."
+        source: "EAV25/30Jan"
+        domains: ["offer-creation", "health-niche-compliance"]
+      - id: "FW-LA-054"
+        title: "Tripwire/Low Ticket Funnel"
+        description: "Isca→tripwire R$37→order bump→upsell 1→downsell→upsell 2."
+        source: "EAV25/30Jan"
+        domains: ["offer-creation"]
+      - id: "FW-LA-055"
+        title: "CAPI WhatsApp"
+        description: "ACTWACLIB→banco dados→API→Meta atribui."
+        source: "EAV25/09Jan"
+        domains: ["whatsapp-tracking", "api-conversion"]
+      - id: "FW-LA-056"
+        title: "Traqueamento Server-Side"
+        description: "App Meta→token→payload→Graph API. Dados não passam pelo navegador."
+        source: "EAV25/06Mar"
+        domains: ["server-side-tracking", "api-conversion"]
+      - id: "FW-LA-057"
+        title: "Colunas Personalizadas Gerenciador"
+        description: "Eventos custom→conversão→colunas no dashboard."
+        source: "EAV25/09Jan"
+        domains: ["campaign-control"]
+      - id: "FW-LA-058"
+        title: "Espionagem de Produto"
+        description: "Spy Hero→filtrar rodando 60+ dias→analisar LPs→mecanismo próprio."
+        source: "EAV25/23Jan"
+        domains: ["demand-discovery"]
+      - id: "FW-LA-059"
+        title: "Qualificação Pré-Oferta"
+        description: "Isca→vídeo conscientização→oferta. 2.6%→19% conversão."
+        source: "EAV25/22Mai"
+        domains: ["roas-optimization"]
+      - id: "FW-LA-060"
+        title: "Relatórios API"
+        description: "App Meta→token→Graph API v23.0→JSON→dashboard."
+        source: "EAV25/17Abr"
+        domains: ["server-side-tracking"]
+      - id: "FW-LA-061"
+        title: "Dashboard Tráfego IA"
+        description: "API Meta→métricas real-time→funil visual→multi-cliente→SaaS."
+        source: "EAV25/03Jul"
+        domains: ["vibe-coding", "server-side-tracking"]
+      - id: "FW-LA-062"
+        title: "Nicho Saúde Pós-Bloqueio"
+        description: "Restringir geo→awareness→público personalizado→retarget."
+        source: "EAV25/03Abr"
+        domains: ["health-niche-compliance"]
+      - id: "FW-LA-063"
+        title: "GTM Web + Server"
+        description: "Browser→GTM Web→GTM Server→plataformas."
+        source: "EAV25/18Fev"
+        domains: ["server-side-tracking"]
+      - id: "FW-LA-064"
+        title: "Dimpple"
+        description: "Script único substitui individuais. Connect rate 44%→78%."
+        source: "EAV25/12Jun"
+        domains: ["tracking", "server-side-tracking"]
+      - id: "FW-LA-065"
+        title: "SIC (Sistema Inteligência Campanhas)"
+        description: "Dashboard proprietário: planejamento + API Meta + analytics + N8N + IA."
+        source: "EAV25/22Mai"
+        domains: ["server-side-tracking", "vibe-coding"]
+      - id: "FW-LA-066"
+        title: "Pré-Checkout Hotmart"
+        description: "Formulário→banco dados→redirect checkout→webhook→API Meta."
+        source: "EAV25/24Abr"
+        domains: ["tracking", "api-conversion"]
+      - id: "FW-LA-067"
+        title: "Stack GTM Server + N8N"
+        description: "VPS→GTM Server→N8N→APIs. Privacidade e confiabilidade."
+        source: "EAV25/26Jun"
+        domains: ["server-side-tracking"]
+      - id: "FW-LA-068"
+        title: "Comunicação por Etapa Funil"
+        description: "Topo: atenção → Meio: convite → Fundo: oferta/urgência."
+        source: "AAT2/Aula39"
+        domains: ["creative-testing"]
+      - id: "FW-LA-069"
+        title: "Recuperação Boleto/PIX"
+        description: "WA transacional→SMS→email→remarketing→follow-up 24/48/72h."
+        source: "AAT2/Aula54"
+        domains: ["automation"]
+      - id: "FW-LA-070"
+        title: "Agente Vendedor IA WhatsApp"
+        description: "API WA + IA→texto/imagem/áudio→checkout personalizado."
+        source: "EAV25/24Abr"
+        domains: ["ai-sales-systems", "whatsapp-tracking"]
+      - id: "FW-LA-071"
+        title: "Validação Produto Digital Rápida"
+        description: "Sub-nicho→demanda→IA→low ticket→500 views→backend."
+        source: "EAV25/30Jan+08Mai"
+        domains: ["demand-discovery", "offer-creation"]
 
   L5_METHODOLOGIES:
-    count: 23
-    next_id: "MET-LA-208"
+    count: 48
+    next_id: "MET-LA-049"
     elements:
       - id: "MET-LA-001"
         title: "Metodologia de Escala Lúcio Artes"
@@ -963,3 +1697,129 @@ layers:
         description: "Lead + Alcance + Engajamento no mesmo post. Somar custos / total leads = CPA real 60-80% menor."
         source: "FTE/Encontro-14_03_2024:1:21:16-1:33:16"
         domains: ["paid-traffic"]
+      # --- New elements from AAT1, AAT2, EAV25 (v2.0.0) ---
+      - id: "MET-LA-024"
+        title: "Criação BM do Zero (10 passos)"
+        description: "Domínio→email profissional→site+políticas→página FB→BM→verificação empresa."
+        source: "AAT1/Aula2"
+        domains: ["facebook-ads"]
+      - id: "MET-LA-025"
+        title: "Configuração Pixel Afiliados"
+        description: "Hotmart→pixel→valor=comissão→incluir boletos→campo email personalizado."
+        source: "AAT1/Aula7"
+        domains: ["tracking"]
+      - id: "MET-LA-026"
+        title: "Campanha Conversão Passo a Passo"
+        description: "Objetivo→CBO/ABO→orçamento→3 conjuntos→3 anúncios→otimização→análise 24-48h."
+        source: "AAT1/Aula11-13"
+        domains: ["facebook-ads"]
+      - id: "MET-LA-027"
+        title: "Análise por Funil"
+        description: "Alcance→frequência→CTR→cliques→visitas→checkout→conversão→ROAS→decisão."
+        source: "AAT1/Aula5"
+        domains: ["campaign-control"]
+      - id: "MET-LA-028"
+        title: "Otimização Relâmpago"
+        description: "Preparação→lançamento→diagnóstico 500imp→escala 50conv/7d."
+        source: "AAT2/Aula39-40+46"
+        domains: ["campaign-control", "scaling-campaigns"]
+      - id: "MET-LA-029"
+        title: "Garimpo de Demanda"
+        description: "Autocomplete→Trends→Planejador→filtro intenção+contexto→oferta→validar afiliado."
+        source: "AAT2/Aula38"
+        domains: ["demand-discovery"]
+      - id: "MET-LA-030"
+        title: "Anabolizar Pixel"
+        description: "Todas páginas→todos eventos→CAPI redundância→CRM offline→mais dados=melhor IA."
+        source: "AAT2/Aula41"
+        domains: ["tracking", "event-funnel"]
+      - id: "MET-LA-031"
+        title: "Escolha Fonte Tráfego"
+        description: "Google=demanda ativa (pesquisou). Facebook=demanda passiva (criar desejo)."
+        source: "AAT2/Aula43"
+        domains: ["paid-traffic"]
+      - id: "MET-LA-032"
+        title: "CAPI Server-Side Completo"
+        description: "VPS→GTM Server→App Meta→token→payload→Graph API→deduplicação."
+        source: "EAV25/06Mar"
+        domains: ["server-side-tracking", "api-conversion"]
+      - id: "MET-LA-033"
+        title: "Config API Conversão Meta"
+        description: "developers.facebook.com→App Business→token→permissões→HTTPS POST graph.facebook.com."
+        source: "EAV25/06Mar"
+        domains: ["api-conversion"]
+      - id: "MET-LA-034"
+        title: "Extração Dados Graph API"
+        description: "graph.facebook.com/v23.0/act_{id}/insights→fields→level→date_range→JSON."
+        source: "EAV25/17Abr+03Jul"
+        domains: ["server-side-tracking"]
+      - id: "MET-LA-035"
+        title: "Dashboard Lovable"
+        description: "Prompt detalhado→API Meta→front+back gerado→multi-cliente→ajustar→SaaS."
+        source: "EAV25/03Jul"
+        domains: ["vibe-coding"]
+      - id: "MET-LA-036"
+        title: "Geolocalização Tracking"
+        description: "IPAPI JS→localStorage→dataLayer GTM→segmentação/análise/parâmetro Meta."
+        source: "EAV25/18Fev"
+        domains: ["tracking"]
+      - id: "MET-LA-037"
+        title: "N8N Automação Tracking"
+        description: "Webhook→processar→CAPI Meta→Measurement Protocol Google→banco dados."
+        source: "EAV25/18Fev+24Abr"
+        domains: ["automation", "server-side-tracking"]
+      - id: "MET-LA-038"
+        title: "Setup Dimpple"
+        description: "Conta→script único→remover duplicados GTM→monitorar connect rate."
+        source: "EAV25/12Jun"
+        domains: ["tracking"]
+      - id: "MET-LA-039"
+        title: "Página Vendas com IA"
+        description: "Contextualizar→dialogar (não prompt pronto)→iterar→headline→copy→design→publicar."
+        source: "EAV25/08Mai"
+        domains: ["ai-sales-systems"]
+      - id: "MET-LA-040"
+        title: "Tracking WhatsApp (CTWA)"
+        description: "Campanha mensagens→CTWA_CLID→webhook→banco dados→conversão→API Meta."
+        source: "EAV25/20Fev"
+        domains: ["whatsapp-tracking"]
+      - id: "MET-LA-041"
+        title: "GTM Server VPS"
+        description: "Provisionar→instalar→domínio→transport_url→clientes FB/Google→dados server-side."
+        source: "EAV25/26Jun"
+        domains: ["server-side-tracking"]
+      - id: "MET-LA-042"
+        title: "Espionagem Spy Hero"
+        description: "Filtrar network→% vendas→rodando 60+ dias→LPs salvas→copiar estrutura→mecanismo próprio."
+        source: "EAV25/23Jan"
+        domains: ["demand-discovery"]
+      - id: "MET-LA-043"
+        title: "Teste A/B Estruturado"
+        description: "3 conjuntos→1 variável→controle→rounds público→criativo→copy→escalar vencedor."
+        source: "AAT1/Aula7"
+        domains: ["creative-testing"]
+      - id: "MET-LA-044"
+        title: "Escala Gradual 20-30%"
+        description: "ROAS+→aumentar 20-30%→esperar 24-48h→repetir ou voltar."
+        source: "AAT1/Aula10"
+        domains: ["scaling-campaigns"]
+      - id: "MET-LA-045"
+        title: "Agente Vendedor IA WhatsApp"
+        description: "API WA→IA→treinar produto→checkout personalizado→texto+imagem+áudio."
+        source: "EAV25/15Mai"
+        domains: ["ai-sales-systems"]
+      - id: "MET-LA-046"
+        title: "Resolução Bloqueio Saúde"
+        description: "Restringir geo Brasil→awareness→público personalizado→retarget→monitorar."
+        source: "EAV25/03Abr"
+        domains: ["health-niche-compliance"]
+      - id: "MET-LA-047"
+        title: "Regras Automação Facebook"
+        description: "Tipo→gatilho métrica→janela tempo→ação→frequência verificação."
+        source: "AAT2/Aula61-65"
+        domains: ["automation"]
+      - id: "MET-LA-048"
+        title: "Recuperação Boletos/PIX"
+        description: "WA transacional→SMS→email→remarketing→follow-up 24/48/72h."
+        source: "AAT2/Aula54"
+        domains: ["automation"]

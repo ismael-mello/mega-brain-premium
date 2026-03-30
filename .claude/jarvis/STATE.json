@@ -1,6 +1,6 @@
 {
   "version": "2.7.0",
-  "updated_at": "2026-03-28T22:00:00Z",
+  "updated_at": "2026-03-30T12:00:00Z",
   "system": {
     "status": "OPERATIONAL",
     "health_score": 100,
@@ -425,10 +425,29 @@
       "status": "COMPLETE",
       "dna": true,
       "agent": true,
-      "dna_version": 1,
-      "elements": 168,
-      "sources_count": 1,
-      "note": "FTE (35 files). Brazilian Meta Ads scaling."
+      "dna_version": 2,
+      "elements": 501,
+      "layers": "L1:57 L2:56 L3:101 L4:71 L5:48",
+      "sources": [
+        "FTE — formacao-trafego-escala (173 elements)",
+        "AAT1 — ads-academy-temporada-1 (88 elements)",
+        "AAT2 — ads-academy-temporada-2 (67 elements)",
+        "EAV25 — encontros-ao-vivo-2025 (122 elements)",
+        "BMS — bm-shield-legacy (40 elements)",
+        "CBO — cbo-start-legacy (25 elements)",
+        "WCC — workshop-campanhas-controle (35 elements)",
+        "WFOP — workshop-funil-pixel (30 elements)",
+        "WSP — workshop-super-publicos (20 elements)",
+        "MMP — masterclass-metricas (15 elements)",
+        "P80 — principio-80x10x10 (10 elements)",
+        "MCE — masterclass-campanha-extendida (8 elements)",
+        "EAV24 — encontros-ao-vivo-2024 (15 elements)"
+      ],
+      "cargo_enriched": [
+        "Media Buyer",
+        "Paid Media Specialist"
+      ],
+      "next_ids": "FIL-LA-058 MM-LA-057 HEUR-LA-102 FW-LA-072 MET-LA-049"
     },
     "rafael-marks": {
       "status": "COMPLETE",
@@ -554,8 +573,8 @@
   },
   "mis": {
     "session_id": "",
-    "prompt_count": 72,
-    "bracket": "MODERATE",
-    "context_percent": 46.0
+    "prompt_count": 88,
+    "bracket": "DEPLETED",
+    "context_percent": 34.0
   }
 }

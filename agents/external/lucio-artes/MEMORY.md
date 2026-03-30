@@ -1,6 +1,7 @@
 # MEMORY.md — Lúcio Artes
-# Versão: 1.0.0
+# Versão: 2.0.0
 # Criado: 2026-03-25
+# Atualizado: 2026-03-30
 # Pipeline: JARVIS FULL AUTO
 
 ---
@@ -10,7 +11,19 @@
 | # | Fonte | Tipo | Arquivos | Elementos | Status |
 |---|-------|------|----------|-----------|--------|
 | 1 | Formação Tráfego de Escala (2024) | Curso Online (vídeo-aulas transcritas) | 35 | 168 | ✅ COMPLETE |
-| **Total** | | | **35** | **168** | |
+| 2 | Ads Academy - Temporada 1 | Curso Online | 29 | 88 | ✅ COMPLETE |
+| 3 | Ads Academy - Temporada 2 | Curso Online | 30 | 67 | ✅ COMPLETE |
+| 4 | Encontros ao Vivo [2025] | Lives | 25 | 122 | ✅ COMPLETE |
+| 5 | BM SHIELD Legacy | Curso Online | 25 | ~40 | ✅ COMPLETE |
+| 6 | CBO START Legacy | Curso Online | 6 | ~25 | ✅ COMPLETE |
+| 7 | Workshop Campanhas de Controle | Workshop | 13 | ~35 | ✅ COMPLETE |
+| 8 | Workshop Funil de Otimização Pixel | Workshop | 6 | ~30 | ✅ COMPLETE |
+| 9 | Workshop Super Públicos | Workshop | 4 | ~20 | ✅ COMPLETE |
+| 10 | Masterclass Métricas Personalizadas | Masterclass | 1 | ~15 | ✅ COMPLETE |
+| 11 | Principio 80x10x10 | Masterclass | 1 | ~10 | ✅ COMPLETE |
+| 12 | Masterclass Campanha Extendida | Masterclass | 1 | ~8 | ✅ COMPLETE |
+| 13 | Encontros ao Vivo [2024] | Live | 1 | ~15 | ✅ COMPLETE |
+| **Total** | | | **~177** | **~501** | |
 
 ---
 
@@ -25,6 +38,127 @@ Módulo III:  Método de Controle e Escala (10 aulas)
 7 Erros:     Diagnóstico de campanhas paradas (7 aulas)
 Bonus:       Google Ads + Webinar Funnel + IA (5 aulas)
 Encontros:   Encontros ao Vivo — Q&A e casos reais (6 aulas)
+```
+
+### Ads Academy — Temporada 1
+
+```
+29 aulas cobrindo fundamentos avançados de Meta Ads:
+- Estrutura de campanhas profissional
+- Audiências e segmentação avançada
+- Criativos e testes A/B
+- Métricas e otimização
+- Escala com controle
+```
+
+### Ads Academy — Temporada 2
+
+```
+30 aulas com conteúdo atualizado 2025:
+- Demand discovery e criação de oferta
+- AI-powered campaign management
+- Server-side tracking avançado
+- Qualificação de leads via WhatsApp
+- Vibe coding para dashboards
+```
+
+### Encontros ao Vivo [2025]
+
+```
+25 encontros ao vivo com alunos:
+- Cases reais de escala (saúde, info, e-comm)
+- Diagnóstico de campanhas ao vivo
+- Tendências 2025 (IA, tracking, compliance)
+- Framework Dimpple e connect rate
+- SDR com IA no WhatsApp
+```
+
+### BM SHIELD Legacy
+
+```
+25 aulas sobre Business Manager:
+- Proteção de contas e BMs
+- Estrutura multi-BM para escala
+- "Cada gerenciador = um negócio"
+- Recuperação de contas bloqueadas
+- Compliance e políticas do Meta
+```
+
+### CBO START Legacy
+
+```
+6 aulas sobre Campaign Budget Optimization:
+- Fundamentos de CBO vs ABO
+- Quando usar cada estratégia
+- Distribuição automática de budget
+- Otimização de conjuntos dentro de CBO
+```
+
+### Workshop Campanhas de Controle
+
+```
+13 aulas de workshop prático:
+- Criação step-by-step de campanha de controle
+- Métricas de estabilidade
+- Quando duplicar vs escalar
+- Diagnóstico de perda de controle
+```
+
+### Workshop Funil de Otimização Pixel
+
+```
+6 aulas sobre funil de pixel:
+- Configuração completa de eventos
+- Priorização de eventos (8 slots iOS)
+- API de Conversão setup
+- Debugging e validação
+```
+
+### Workshop Super Públicos
+
+```
+4 aulas sobre audiências avançadas:
+- Lookalikes em camadas
+- Custom audiences de alto valor
+- Exclusão estratégica
+- Públicos de retenção
+```
+
+### Masterclass Métricas Personalizadas
+
+```
+1 aula intensiva:
+- Criação de colunas customizadas no Ads Manager
+- Dashboard proprietário (SIC)
+- Métricas de diagnóstico rápido
+```
+
+### Principio 80x10x10
+
+```
+1 aula sobre o framework central:
+- 80% otimização do que funciona
+- 10% testes controlados
+- 10% novos criativos
+- Aplicação prática por cenário
+```
+
+### Masterclass Campanha Extendida
+
+```
+1 aula sobre extensão de campanha:
+- Quando e como estender campanhas maduras
+- Budget extension vs nova campanha
+- Sinais de fadiga vs oportunidade
+```
+
+### Encontros ao Vivo [2024]
+
+```
+1 encontro ao vivo retrospectivo:
+- Tendências que se confirmaram
+- Erros comuns do ano
+- Previsões para 2025
 ```
 
 ---
@@ -95,6 +229,54 @@ Encontros:   Encontros ao Vivo — Q&A e casos reais (6 aulas)
 | 39 | Casos reais de R$126K/dia mostraram que método funciona em qualquer volume | FTE — Encontros | ALTA |
 | 40 | Mercado BR em 2024 ainda confunde ROAS com CPA — lacuna educacional grande | FTE — Encontros | ALTA |
 
+### Ads Academy T1 — Fundamentos Avançados
+| # | Insight | Fonte | Confiança |
+|---|---------|-------|-----------|
+| 41 | Funil Invertido (Método Lúcio): criar de cima para baixo, analisar de baixo para cima | Ads Academy T1 | ALTA |
+| 42 | 500 Impressões = chave de diagnóstico para decidir escalar ou pausar um conjunto | Ads Academy T1 | ALTA |
+| 43 | Triângulo de Relevância: 3 classificações no nível de anúncio determinam custo | Ads Academy T1 | ALTA |
+| 44 | Mecanismo Único: diferencial da oferta vs concorrência (Sofisticação de Mercado E5) | Ads Academy T1 | ALTA |
+| 45 | 4 Mercados Eternos: finanças, saúde, relacionamento, hobbies — todo produto cabe em um | Ads Academy T1 | ALTA |
+
+### Ads Academy T2 — Conteúdo 2025
+| # | Insight | Fonte | Confiança |
+|---|---------|-------|-----------|
+| 46 | Traqueamento > Rastreamento: tracking avançado com dados comportamentais vs apenas origem | Ads Academy T2 | ALTA |
+| 47 | API de Conversão > Cookie/UTM — server-side é o novo padrão obrigatório | Ads Academy T2 | ALTA |
+| 48 | Vibe Coding: criar dashboards e ferramentas sem programar usando IA | Ads Academy T2 | ALTA |
+| 49 | "Quem só aperta botão vai perder valor" — futuro do gestor exige pensamento estratégico | Ads Academy T2 | ALTA |
+| 50 | "Acabou a época dos amadores" — profissionalização obrigatória do mercado de tráfego | Ads Academy T2 | ALTA |
+
+### Encontros ao Vivo [2025] — Tendências e Cases
+| # | Insight | Fonte | Confiança |
+|---|---------|-------|-----------|
+| 51 | Qualificação 7.3x: tráfego direto converte 2.6% vs com qualificação 19% | Encontros 2025 | ALTA |
+| 52 | Framework Dimpple: connect rate de 44% → 78% com consolidação de scripts de tracking | Encontros 2025 | ALTA |
+| 53 | SDR com IA no WhatsApp já funciona em 2025 — automação de qualificação viável | Encontros 2025 | ALTA |
+| 54 | ACTWACLIB: identificador de clique para campanhas WhatsApp — tracking nativo | Encontros 2025 | ALTA |
+| 55 | SIC (Sistema de Inteligência de Campanhas): dashboard proprietário para controle total | Encontros 2025 | ALTA |
+| 56 | Nicho de saúde exige compliance específico — regras mais rígidas que outros nichos | Encontros 2025 | ALTA |
+
+### BM SHIELD — Proteção e Estrutura
+| # | Insight | Fonte | Confiança |
+|---|---------|-------|-----------|
+| 57 | "Cada gerenciador = um negócio" — regra fundamental de estrutura multi-BM | BM SHIELD | ALTA |
+| 58 | Proteção de BM é infraestrutura, não opcional — perder BM = perder negócio | BM SHIELD | ALTA |
+
+### Workshops — Insights Práticos
+| # | Insight | Fonte | Confiança |
+|---|---------|-------|-----------|
+| 59 | Campanha de controle precisa de workshop dedicado — complexidade subestimada pelo mercado | Workshop Campanhas Controle | ALTA |
+| 60 | Funil de otimização de pixel: priorização de 8 slots de eventos (iOS) é crítica | Workshop Funil Pixel | ALTA |
+| 61 | Super Públicos: lookalikes em camadas com exclusão estratégica multiplicam ROAS | Workshop Super Públicos | ALTA |
+
+### Masterclasses — Frameworks Concentrados
+| # | Insight | Fonte | Confiança |
+|---|---------|-------|-----------|
+| 62 | Métricas personalizadas: colunas customizadas no Ads Manager são arma secreta | MC Métricas | ALTA |
+| 63 | Princípio 80x10x10 é o framework central de alocação de esforço em campanhas | MC 80x10x10 | ALTA |
+| 64 | Campanha estendida: saber quando estender vs criar nova campanha determina longevidade | MC Campanha Extendida | ALTA |
+
 ---
 
 ## FRAMEWORKS CHAVE
@@ -111,6 +293,16 @@ Encontros:   Encontros ao Vivo — Q&A e casos reais (6 aulas)
 | Escala Cadenciada | Máximo 20-30% de aumento de budget a cada 48h | FTE — Módulo III |
 | Sniper vs Metralhadora | Foco em público qualificado vs volume sem qualidade | FTE — Módulo II |
 | Métricas Customizadas | Dashboard próprio com ROAS, CPL, CPV, CTR por fase | FTE — Módulo II |
+| Funil Invertido | Criar cima→baixo, analisar baixo→cima (método próprio Lúcio) | Ads Academy T1 |
+| 500 Impressões = Diagnóstico | Threshold de impressões para decidir escalar ou pausar | Ads Academy T1 |
+| Triângulo de Relevância | 3 classificações no nível de anúncio determinam custo | Ads Academy T1 |
+| Mecanismo Único | Diferencial da oferta vs concorrência (Sofisticação E5) | Ads Academy T1 |
+| 4 Mercados Eternos | Finanças, saúde, relacionamento, hobbies | Ads Academy T1 |
+| Framework Dimpple | Consolidação de scripts de tracking — connect rate 44%→78% | Encontros 2025 |
+| SIC Dashboard | Sistema de Inteligência de Campanhas — dashboard proprietário | Encontros 2025 |
+| Qualificação 7.3x | Tráfego direto 2.6% vs com qualificação 19% | Encontros 2025 |
+| SDR com IA WhatsApp | Automação de qualificação via WhatsApp com IA | Encontros 2025 |
+| Multi-BM Structure | "Cada gerenciador = um negócio" — estrutura de proteção | BM SHIELD |
 
 ---
 
@@ -124,6 +316,12 @@ Encontros:   Encontros ao Vivo — Q&A e casos reais (6 aulas)
 | Ceticismo de ostentação | Desconfia de resultado sem método mostrado | Módulo I + Encontros |
 | Cadência como proteção | Escala lenta preserva o algoritmo e o ROAS | Módulo III |
 | Documentação oficial como fonte | Referencia Meta e Google como autoridade máxima | Módulo II |
+| Funil invertido | Cria de cima para baixo, mas analisa de baixo para cima | Ads Academy T1 |
+| Threshold antes de decisão | 500 impressões como mínimo antes de julgar conjunto | Ads Academy T1 |
+| Profissionalização obrigatória | "Acabou a época dos amadores" — mercado exige mais | Ads Academy T2 |
+| Tracking como vantagem competitiva | "Traqueamento" avançado separa amadores de profissionais | Ads Academy T2 + Encontros 2025 |
+| IA como amplificador | IA amplifica método, não substitui julgamento humano | FTE Bonus + Ads Academy T2 |
+| Marketing = entender + atender | Filosofia de marketing como serviço ao mercado | Encontros 2025 |
 
 ---
 
@@ -131,8 +329,8 @@ Encontros:   Encontros ao Vivo — Q&A e casos reais (6 aulas)
 
 | Métrica | Valor | Verificado |
 |---------|-------|-----------|
-| Total elementos com ^[FONTE] | 168 | 2026-03-25 |
-| Fontes processadas | 1 (FTE complete) | 2026-03-25 |
-| Arquivos raw disponíveis | 35 | 2026-03-25 |
-| Módulos cobertos | 6 (I, II, III, 7 Erros, Bonus, Encontros) | 2026-03-25 |
-| Pipeline version | JARVIS FULL AUTO | 2026-03-25 |
+| Total elementos com ^[FONTE] | ~501 | 2026-03-30 |
+| Fontes processadas | 13 | 2026-03-30 |
+| Arquivos raw disponíveis | ~177 | 2026-03-30 |
+| Módulos cobertos | 6 (FTE) + 12 cursos adicionais | 2026-03-30 |
+| Pipeline version | JARVIS FULL AUTO | 2026-03-30 |
