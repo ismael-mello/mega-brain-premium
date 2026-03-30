@@ -1,5 +1,5 @@
-> **Auto-Trigger:** Quando usuário perguntar sobre tracking, pixel, API de conversão, funil de eventos, atribuição, Advanced Matching, configuração de eventos do Facebook/Meta, otimização de pixel, qualidade de eventos, nota do pixel, campanha de controle, campanha extendida, funil invertido, diagnóstico de relevância, server-side tracking, Dimpple, connect rate, otimização de campanhas Meta
-> **Keywords:** "tracking", "pixel", "api de conversão", "funil de eventos", "event funnel", "atribuição", "advanced matching", "qualidade de eventos", "nota do pixel", "configurar eventos", "page view", "initiate checkout", "purchase event", "subscribe event", "CAPI", "conversion API", "server-side tracking", "connect rate", "80-10-10", "campanha de controle", "campanha extendida", "funil invertido", "diagnóstico de relevância", "otimização relâmpago", "dimpple", "GTM server", "traqueamento", "ACTWACLIB", "WhatsApp tracking"
+> **Auto-Trigger:** Quando usuário perguntar sobre tracking, pixel, API de conversão, funil de eventos, atribuição, Advanced Matching, configuração de eventos do Facebook/Meta, otimização de pixel, qualidade de eventos, nota do pixel, campanha de controle, campanha extendida, funil invertido, diagnóstico de relevância, server-side tracking, connect rate, otimização de campanhas Meta
+> **Keywords:** "tracking", "pixel", "api de conversão", "funil de eventos", "event funnel", "atribuição", "advanced matching", "qualidade de eventos", "nota do pixel", "configurar eventos", "page view", "initiate checkout", "purchase event", "subscribe event", "CAPI", "conversion API", "server-side tracking", "connect rate", "80-10-10", "campanha de controle", "campanha extendida", "funil invertido", "diagnóstico de relevância", "otimização relâmpago", "GTM server", "traqueamento", "ACTWACLIB", "WhatsApp tracking"
 > **Prioridade:** ALTA
 > **Tools:** Read, Grep, Glob
 
@@ -433,12 +433,12 @@ O dinheiro está na camada 3: IA de otimização, não no dashboard.
 └─────────────────────────────────────────────────────────────────────────────┘
 ```
 
-### Dimpple (Consolidador de Scripts)
+### Excesso de Scripts = Connect Rate Baixo
 
-Connect rate baixo? Excesso de scripts na página?
-- **Dimpple** = script único que substitui todos os scripts individuais de tracking
-- Caso real: Connect rate de 44% → 78% no mesmo dia após implementação
-- Motivo: cada script no header é um mini-programa que atrasa carregamento
+- Cada script no header é um mini-programa que atrasa carregamento
+- Caso real: Connect rate de 44% → 78% após consolidar/reduzir scripts
+- **Insight:** Consolidar scripts de tracking em menos chamadas melhora performance drasticamente
+- Remover scripts duplicados, plugins inativos, e tags desnecessárias do GTM
 
 ### Tracking WhatsApp (CAPI)
 
@@ -465,7 +465,7 @@ Para campanhas de mensagens no WhatsApp:
 
 Google benchmark. Meta pune com atribuição de baixa qualidade. Soluções:
 - Remover scripts desnecessários do header
-- Usar Dimpple
+- Consolidar/reduzir scripts de tracking
 - Remover plugins WordPress inativos
 - CDN + hospedagem otimizada
 
@@ -505,7 +505,7 @@ DIAGNÓSTICO (após 500 impressões):
 
 | Expert | Contribuição | DNA Path |
 |--------|-------------|----------|
-| **Lúcio Artes** (PRIMARY — 501 elementos, 13 cursos) | Funil de eventos, API, 80-10-10, Campanha de Controle, Extendida, Funil Invertido, Diagnóstico de Relevância, Server-Side, Dimpple | knowledge/external/dna/persons/lucio-artes/ |
+| **Lúcio Artes** (PRIMARY — 501 elementos, 13 cursos) | Funil de eventos, API, 80-10-10, Campanha de Controle, Extendida, Funil Invertido, Diagnóstico de Relevância, Server-Side | knowledge/external/dna/persons/lucio-artes/ |
 | Cat Howell | Attribution Window Analysis, OCPM/CPM Selection Matrix | knowledge/external/dna/persons/cat-howell/ |
 | Frank Kern | Hyros integration, multi-platform attribution | knowledge/external/dna/persons/frank-kern/ |
 | Jeremy Haynes | ConnectIO Suite, Facebook Rules Automation | knowledge/external/dna/persons/jeremy-haynes/ |
