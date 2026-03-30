@@ -1,21 +1,21 @@
-> **Auto-Trigger:** Quando usuário perguntar sobre tracking, pixel, API de conversão, funil de eventos, atribuição, Advanced Matching, configuração de eventos do Facebook/Meta, otimização de pixel, qualidade de eventos, nota do pixel
-> **Keywords:** "tracking", "pixel", "api de conversão", "funil de eventos", "event funnel", "atribuição", "advanced matching", "qualidade de eventos", "nota do pixel", "configurar eventos", "page view", "initiate checkout", "purchase event", "subscribe event", "CAPI", "conversion API", "server-side tracking", "connect rate", "80-10-10"
+> **Auto-Trigger:** Quando usuário perguntar sobre tracking, pixel, API de conversão, funil de eventos, atribuição, Advanced Matching, configuração de eventos do Facebook/Meta, otimização de pixel, qualidade de eventos, nota do pixel, campanha de controle, campanha extendida, funil invertido, diagnóstico de relevância, server-side tracking, Dimpple, connect rate, otimização de campanhas Meta
+> **Keywords:** "tracking", "pixel", "api de conversão", "funil de eventos", "event funnel", "atribuição", "advanced matching", "qualidade de eventos", "nota do pixel", "configurar eventos", "page view", "initiate checkout", "purchase event", "subscribe event", "CAPI", "conversion API", "server-side tracking", "connect rate", "80-10-10", "campanha de controle", "campanha extendida", "funil invertido", "diagnóstico de relevância", "otimização relâmpago", "dimpple", "GTM server", "traqueamento", "ACTWACLIB", "WhatsApp tracking"
 > **Prioridade:** ALTA
 > **Tools:** Read, Grep, Glob
 
 ## Quando NÃO Ativar
-- Quando a pergunta for sobre tráfego em geral (sem foco em tracking/eventos)
-- Quando for sobre criativos ou copy de anúncios
-- Quando for sobre estratégias de lance ou orçamento (sem relação com eventos)
+- Quando a pergunta for sobre criativos ou copy de anúncios
+- Quando for sobre criação de BM (ver skill bm-shield)
 - Quando for sobre Google Ads (esta skill é focada em Meta/Facebook)
+- Quando for sobre oferta/produto (sem relação com tracking ou campanha)
 
 ---
 
-# SKILL: Tracking & Event Funnel Architecture
+# SKILL: Meta Ads — Tracking, Campanhas & Otimização
 
 ## Propósito
 
-Guia completo para implementação de tracking avançado e funil de eventos no Meta/Facebook Ads, baseado na metodologia de **Lúcio Artes** (Formação Tráfego de Escala) complementada por outros experts do Mega Brain (Cat Howell, Frank Kern, Jeremy Haynes).
+Guia completo para tracking avançado, campanha de controle, extensão de campanhas e otimização no Meta/Facebook Ads. Baseado na metodologia de **Lúcio Artes** (13 cursos, 501 elementos DNA) complementada por Cat Howell, Frank Kern e Jeremy Haynes.
 
 ## Conceito Central
 
@@ -207,7 +207,7 @@ Para produtos de **assinatura/recorrência**, usar `Subscribe` em vez de `Purcha
 | Frank Kern | Hyros integration, multi-platform attribution, automation rules | knowledge/external/dna/persons/frank-kern/ |
 | Jeremy Haynes | ConnectIO Suite, Facebook Rules Automation | knowledge/external/dna/persons/jeremy-haynes/ |
 
-## Checklist de Implementação
+## Checklist de Implementação de Tracking
 
 ```
 □ 1. Instalar pixel do Facebook na página
@@ -224,16 +224,303 @@ Para produtos de **assinatura/recorrência**, usar `Subscribe` em vez de `Purcha
 □ 12. Aguardar 21 dias para performance máxima da API
 ```
 
+---
+
+## CAMPANHA DE CONTROLE (Método Lúcio Artes)
+
+### O Que É
+
+Campanha de Controle é um conceito estatístico. O objetivo NÃO é testar (A vs B). É **validar uma hipótese** ("esse produto vai vender para esse público"). Somente após ter parâmetros de controle é que se fazem testes.
+
+### Estrutura Exata — Configurações no Gerenciador
+
+**Nível Campanha:**
+- Objetivo: **Vendas** (manual, NÃO Advantage+)
+- Orçamento Advantage: **DESLIGADO** (usar ABO, orçamento no conjunto)
+- Estratégia de lance: **Maximizar Conversões** (produzir números, não controlar CPA)
+
+**Nível Conjunto (3 conjuntos, nunca mais que 5):**
+- Orçamento: **TOTAL** (NÃO diário)
+- Prazo: **7 dias** (início imediato, término em 7 dias)
+- Cálculo: R$6/anúncio/dia × qtd anúncios × 7 dias
+  - Ex: 3 anúncios × R$6 × 7 = R$126/conjunto → 3 conjuntos = **R$378 total**
+
+**Nível Anúncio (3 por conjunto, nunca mais que 5):**
+- NÃO misturar imagem e vídeo no mesmo conjunto
+- Conjunto de imagem separado do conjunto de vídeo
+
+### Variação de Segmentação (3 Conjuntos)
+
+| Conjunto | Segmentação | Quando Usar |
+|----------|-------------|-------------|
+| **1** | Aberto + Advantage | Deixar Meta decidir |
+| **2** | Segmentado (empilhamento de interesses) | Testar hipótese de público |
+| **3** | Interesse + Advantage OU Público Personalizado | Combinar |
+
+### Por Que Orçamento TOTAL (Não Diário)
+
+```
+┌─────────────────────────────────────────────────────────────────────────────┐
+│  ORÇAMENTO DIÁRIO (RUIM):                                                   │
+│  • Obriga o Facebook a gastar TODO o orçamento todo dia                    │
+│  • Desde abril/2024, pode ultrapassar em ATÉ 75% o orçamento diário       │
+│  • Diário + Maximizar Conversões = gastar sem controle                     │
+│                                                                             │
+│  ORÇAMENTO TOTAL (CORRETO):                                                │
+│  • Facebook gasta MAIS nos dias bons, MENOS nos ruins                      │
+│  • Respeita sazonalidade de cada dia da semana                             │
+│  • Permite aprender qual dia/horário converte melhor                       │
+│  • NÃO ultrapassa o total definido                                         │
+│                                                                             │
+│  Fonte: Documentação oficial Meta                                          │
+└─────────────────────────────────────────────────────────────────────────────┘
+```
+
+### Sistema de Otimização D-Menos
+
+| Dia | O que acontece | Ação |
+|-----|---------------|------|
+| D1 (D0) | ZERO otimização. Pura entrega baseada em segmentação | NÃO FAÇA NADA |
+| D2 | Pega dados D1. Leve variação | Observe |
+| D3 | Convergência começa | Observe |
+| **D4** | **DIA CHAVE.** Metade da janela. Dados suficientes | **DECISÃO: continuar ou parar** |
+| D5-7 | Estabilização | Avaliar 80-10-10 |
+| Semana 2 | Oscila menos | Maturação |
+| **Semana 3** | **Geralmente MELHOR resultado** | Considerar extensão |
+| Semana 4 | Campanha madura | Estável |
+
+**Caso real:** Lead de R$12 → R$3,42 (sem1) → R$1,82 (sem3) → R$2,80 estável após 7 meses com R$500K+ investidos.
+
+### Dicas de Otimização de Connect Rate
+
+Se Connect Rate < 80%, ANTES de gastar mais:
+
+1. **Somente Wi-Fi:** Conjunto → Posicionamento → Somente Wi-Fi (operadoras BR dão pacote grátis de redes sociais mas sem dados web)
+2. **Android 11/12+:** Filtrar versões mais recentes (melhor poder aquisitivo)
+3. **Remover Tablet:** Desmarcar (maioria é criança)
+4. **Remover posicionamentos:** Tirar Messenger, Audience Network, coluna Desktop
+
+### UTMs Dinâmicos nos Anúncios
+
+Na configuração do anúncio, seção de parâmetros de URL (NÃO na URL principal):
+
+```
+utm_source = meta
+utm_medium = {{adset.name}}
+utm_campaign = {{campaign.name}}
+utm_content = {{ad.name}}
+src = {{placement}}
+sck = {{site_source_name}}
+```
+
+### O Que NÃO Fazer
+
+- ❌ 20 criativos e 40 conjuntos no primeiro teste
+- ❌ CPM como KPI para fundo de funil
+- ❌ Parar campanha no dia 3 por oscilação
+- ❌ Escalar com Maximizar Conversões (doc Meta: "No cost control")
+- ❌ Clonar campanhas de R$10/dia infinitamente
+- ❌ Se preocupar com horário de subir (Facebook calcula proporcional)
+- ❌ Conjuntos com tamanhos de público muito diferentes em CBO (máx 15-20% diferença)
+
+---
+
+## CAMPANHA EXTENDIDA (Como Estender Sem Resetar)
+
+### Quando Aplicar
+
+No **4º dia** da campanha de controle, avaliar 80-10-10. Se métricas boas → estender.
+
+### Passo a Passo
+
+```
+┌─────────────────────────────────────────────────────────────────────────────┐
+│  COMO ESTENDER SEM VOLTAR AO APRENDIZADO                                   │
+├─────────────────────────────────────────────────────────────────────────────┤
+│                                                                             │
+│  1. Calcular média diária: Orçamento Total / Dias                          │
+│     Ex: R$2.100 / 7 = R$300/dia                                            │
+│                                                                             │
+│  2. Definir novo prazo (ex: 90 dias a partir do início)                    │
+│                                                                             │
+│  3. Calcular novo orçamento: Novo prazo × média diária                     │
+│     Ex: 90 × R$300 = R$27.000                                              │
+│                                                                             │
+│  4. Alterar SIMULTANEAMENTE prazo E orçamento → Publicar                   │
+│     (se fizer separado, volta ao aprendizado!)                             │
+│                                                                             │
+│  5. Verificar: status deve continuar "Ativo" (não "Aprendizado")           │
+│                                                                             │
+│  ⚠️ REGRA: Isso NÃO é escalar — é manter o investimento diário            │
+│     constante por mais tempo. A plataforma continua aprendendo             │
+│     sazonalidade dos dias, semanas e meses.                                │
+│                                                                             │
+│  "Quanto mais tempo roda, mais inteligente fica."                          │
+│                                                                             │
+└─────────────────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+## FUNIL INVERTIDO (Método Original Lúcio Artes)
+
+### Conceito
+
+```
+CRIAR campanha = de cima para baixo (Objetivo → Segmentação → Criativo)
+ANALISAR campanha = de BAIXO para cima (Anúncio → Sinais → Diagnóstico → Decisão)
+```
+
+### Diagnóstico de Relevância (3 Classificações)
+
+Após 500 impressões, o Facebook ativa 3 métricas no nível de ANÚNCIO:
+
+| Classificação | O que mede | Ação se "Abaixo da Média" |
+|---------------|-----------|---------------------------|
+| **Qualidade** | Atributos do anúncio vs políticas | Refazer criativo, remover clickbait |
+| **Engajamento** | Reação do público (curtidas, cliques) | Mudar copy/visual para gerar reação |
+| **Conversão** | Resultado para o anunciante | Rever oferta, LP, checkout |
+
+### Tabela de Decisão
+
+| Diagnóstico | Ação |
+|-------------|------|
+| Na média ou acima (3/3) | ✅ ESCALAR — custo CAI ao aumentar budget |
+| Na média ou acima (2/3) | ⚠️ Otimizar o pilar fraco, depois escalar |
+| Abaixo da média (bottom 35%) | 🔴 PAUSAR — corrigir antes de gastar mais |
+| Abaixo da média (bottom 10%) | ⛔ PARAR IMEDIATO — refazer tudo |
+
+### 50 Conversões = Saída do Aprendizado
+
+O Meta precisa de ~50 conversões em 7 dias para sair do aprendizado. Quando isso acontece E os diagnósticos estão na média ou acima, o sistema otimiza de verdade e custos caem.
+
+**Caso documentado:** CPA de R$7,50 → R$1,69 (redução de 77%) com diagnóstico correto. Lead de R$112 → R$7 em escala de R$900/dia para R$5.000/dia.
+
+### 7 Atributos de Baixa Qualidade (Evitar)
+
+1. Retenção de informação (clickbait)
+2. Linguagem sensacionalista
+3. Engagement bait ("curte se...")
+4. Blank pages / destino sem conteúdo
+5. Pop-ups intersticiais
+6. Volume desproporcional de anúncios
+7. Experiência inesperada de conteúdo
+
+---
+
+## TRACKING AVANÇADO 2025
+
+### Traqueamento vs Rastreamento
+
+```
+RASTREAMENTO (antigo): Saber DE ONDE veio o clique (UTM, last-click)
+TRAQUEAMENTO (moderno): Coletar COMPORTAMENTO para alimentar IA preditiva
+
+O dinheiro está na camada 3: IA de otimização, não no dashboard.
+```
+
+### Stack de Server-Side Tracking
+
+```
+┌─────────────────────────────────────────────────────────────────────────────┐
+│  BROWSER → GTM Web → GTM Server (VPS) → Meta CAPI + Google                │
+│                                                                             │
+│  Vantagem: dados não passam pelo navegador do usuário                      │
+│  Resultado: mais confiável, mais rápido, ignora ad blockers               │
+│                                                                             │
+│  STACK RECOMENDADA:                                                         │
+│  VPS (AWS/GCP) + GTM Server + N8N para automação + Graph API v23.0        │
+└─────────────────────────────────────────────────────────────────────────────┘
+```
+
+### Dimpple (Consolidador de Scripts)
+
+Connect rate baixo? Excesso de scripts na página?
+- **Dimpple** = script único que substitui todos os scripts individuais de tracking
+- Caso real: Connect rate de 44% → 78% no mesmo dia após implementação
+- Motivo: cada script no header é um mini-programa que atrasa carregamento
+
+### Tracking WhatsApp (CAPI)
+
+Para campanhas de mensagens no WhatsApp:
+1. Meta gera **ACTWACLIB** (equivalente ao FBCLID para WhatsApp)
+2. Salvar ACTWACLIB no banco de dados ao receber mensagem
+3. Quando converter, enviar evento via API com ACTWACLIB
+4. Meta atribui conversão à campanha
+
+### Pré-Checkout Para Hotmart (Tracking Confiável)
+
+1. Criar formulário na página de vendas (captar nome + telefone)
+2. Enviar dados para banco de dados/N8N
+3. Redirecionar para checkout Hotmart
+4. Webhook de compra → cruzar com dados do formulário → API Meta
+
+### Memória de 7 Dias do Meta
+
+- Meta só aprende com os últimos 7 dias
+- 7 dias de pausa = volta ao aprendizado ZERO
+- Se tem 50+ conversões/dia, testar janela de 1 dia (ao invés de 7)
+
+### 3 Segundos de Loading = 70% Abandono
+
+Google benchmark. Meta pune com atribuição de baixa qualidade. Soluções:
+- Remover scripts desnecessários do header
+- Usar Dimpple
+- Remover plugins WordPress inativos
+- CDN + hospedagem otimizada
+
+---
+
+## Checklist Completo (Tracking + Campanha)
+
+```
+TRACKING:
+□ 1. Pixel instalado na página
+□ 2. API de Conversão configurada (server-side)
+□ 3. Advanced Match MANUAL (email, telefone, nome)
+□ 4. Funil de eventos na página (PV → Scroll → VC → AW)
+□ 5. Funil de eventos no checkout (ATC → IC após dados → API → Purchase)
+□ 6. Subscribe para assinaturas (com predicted_ltv)
+□ 7. PIX otimizado (valor proporcional)
+□ 8. Pixel da plataforma desabilitado (usar apenas o seu)
+□ 9. Eventos testados no Event Test
+□ 10. Métricas 80-10-10 criadas no gerenciador
+
+CAMPANHA DE CONTROLE:
+□ 11. Objetivo: Vendas (manual)
+□ 12. ABO com orçamento TOTAL por 7 dias
+□ 13. 3 conjuntos × 3 anúncios (imagem e vídeo separados)
+□ 14. Segmentações diferentes por conjunto
+□ 15. UTMs dinâmicos configurados
+□ 16. Avaliar no DIA 4 (80-10-10)
+□ 17. Se bom → Estender (prazo + orçamento simultâneo)
+
+DIAGNÓSTICO (após 500 impressões):
+□ 18. Verificar 3 classificações no nível de anúncio
+□ 19. Na média ou acima → pode escalar
+□ 20. Abaixo → pausar e corrigir antes de gastar mais
+```
+
+## Fontes do Mega Brain
+
+| Expert | Contribuição | DNA Path |
+|--------|-------------|----------|
+| **Lúcio Artes** (PRIMARY — 501 elementos, 13 cursos) | Funil de eventos, API, 80-10-10, Campanha de Controle, Extendida, Funil Invertido, Diagnóstico de Relevância, Server-Side, Dimpple | knowledge/external/dna/persons/lucio-artes/ |
+| Cat Howell | Attribution Window Analysis, OCPM/CPM Selection Matrix | knowledge/external/dna/persons/cat-howell/ |
+| Frank Kern | Hyros integration, multi-platform attribution | knowledge/external/dna/persons/frank-kern/ |
+| Jeremy Haynes | ConnectIO Suite, Facebook Rules Automation | knowledge/external/dna/persons/jeremy-haynes/ |
+
 ## Quando Consultar Esta Skill
 
 - "Como configurar tracking para minha página?"
-- "Meu pixel está com nota baixa, o que fazer?"
-- "Como implementar API de conversão?"
-- "Qual a diferença entre pixel e CAPI?"
-- "Como otimizar a nota do pixel?"
+- "Como criar campanha de controle?"
+- "Como estender campanha sem resetar aprendizado?"
 - "Meu connect rate está baixo"
-- "Como configurar eventos do Facebook?"
-- "Quero melhorar a atribuição das minhas campanhas"
-- "Como funciona o funil de eventos?"
-- "Devo usar Purchase ou Subscribe?"
-- "Como configurar PIX no pixel do Facebook?"
+- "Como funciona o funil invertido?"
+- "Diagnóstico de relevância — como analisar?"
+- "Como implementar API de conversão / server-side?"
+- "Como trackear WhatsApp no Meta?"
+- "Qual a diferença entre pixel e CAPI?"
+- "Princípio 80-10-10 — como validar funil?"
+- "Como configurar PIX no pixel?"
+- "500 impressões — e agora?"
