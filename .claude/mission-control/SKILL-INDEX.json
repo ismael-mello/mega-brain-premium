@@ -1,8 +1,8 @@
 {
   "version": "2.0.0",
-  "skills_count": 54,
+  "skills_count": 55,
   "subagents_count": 4,
-  "total_count": 60,
+  "total_count": 61,
   "skills": {
     "agent-creation": {
       "path": ".claude\\skills\\agent-creation",
@@ -30,6 +30,31 @@
         "company"
       ],
       "priority": "MÉDIA",
+      "description": ""
+    },
+    "bm-shield": {
+      "path": ".claude\\skills\\bm-shield",
+      "name": "bm-shield",
+      "type": "skill",
+      "auto_trigger": "Quando usuário perguntar sobre criar Business Manager, BM Shield, gerenciador de negócios, verificação de empresa no Facebook, conta de anúncio, domínio verificado, como criar BM, como verificar empresa no Meta",
+      "keywords": [
+        "business manager",
+        "bm",
+        "gerenciador de negócios",
+        "criar bm",
+        "verificar empresa",
+        "domínio verificado",
+        "conta de anúncio",
+        "bm shield",
+        "blindar bm",
+        "bloqueio de conta",
+        "2fa",
+        "autenticação",
+        "página do facebook",
+        "pixel criar",
+        "verificação empresa"
+      ],
+      "priority": "ALTA",
       "description": ""
     },
     "brainstorming": {
@@ -758,7 +783,7 @@
       "path": ".claude\\skills\\tracking-event-funnel",
       "name": "tracking-event-funnel",
       "type": "skill",
-      "auto_trigger": "Quando usuário perguntar sobre tracking, pixel, API de conversão, funil de eventos, atribuição, Advanced Matching, configuração de eventos do Facebook/Meta, otimização de pixel, qualidade de eventos, nota do pixel",
+      "auto_trigger": "Quando usuário perguntar sobre tracking, pixel, API de conversão, funil de eventos, atribuição, Advanced Matching, configuração de eventos do Facebook/Meta, otimização de pixel, qualidade de eventos, nota do pixel, campanha de controle, campanha extendida, funil invertido, diagnóstico de relevância, server-side tracking, connect rate, otimização de campanhas Meta",
       "keywords": [
         "tracking",
         "pixel",
@@ -778,7 +803,16 @@
         "conversion api",
         "server-side tracking",
         "connect rate",
-        "80-10-10"
+        "80-10-10",
+        "campanha de controle",
+        "campanha extendida",
+        "funil invertido",
+        "diagnóstico de relevância",
+        "otimização relâmpago",
+        "gtm server",
+        "traqueamento",
+        "actwaclib",
+        "whatsapp tracking"
       ],
       "priority": "ALTA",
       "description": ""
@@ -1040,6 +1074,126 @@
         "type": "skill",
         "path": ".claude\\skills\\process-company-inbox",
         "priority": "MÉDIA"
+      }
+    ],
+    "business manager": [
+      {
+        "name": "bm-shield",
+        "type": "skill",
+        "path": ".claude\\skills\\bm-shield",
+        "priority": "ALTA"
+      }
+    ],
+    "bm": [
+      {
+        "name": "bm-shield",
+        "type": "skill",
+        "path": ".claude\\skills\\bm-shield",
+        "priority": "ALTA"
+      }
+    ],
+    "gerenciador de negócios": [
+      {
+        "name": "bm-shield",
+        "type": "skill",
+        "path": ".claude\\skills\\bm-shield",
+        "priority": "ALTA"
+      }
+    ],
+    "criar bm": [
+      {
+        "name": "bm-shield",
+        "type": "skill",
+        "path": ".claude\\skills\\bm-shield",
+        "priority": "ALTA"
+      }
+    ],
+    "verificar empresa": [
+      {
+        "name": "bm-shield",
+        "type": "skill",
+        "path": ".claude\\skills\\bm-shield",
+        "priority": "ALTA"
+      }
+    ],
+    "domínio verificado": [
+      {
+        "name": "bm-shield",
+        "type": "skill",
+        "path": ".claude\\skills\\bm-shield",
+        "priority": "ALTA"
+      }
+    ],
+    "conta de anúncio": [
+      {
+        "name": "bm-shield",
+        "type": "skill",
+        "path": ".claude\\skills\\bm-shield",
+        "priority": "ALTA"
+      }
+    ],
+    "bm shield": [
+      {
+        "name": "bm-shield",
+        "type": "skill",
+        "path": ".claude\\skills\\bm-shield",
+        "priority": "ALTA"
+      }
+    ],
+    "blindar bm": [
+      {
+        "name": "bm-shield",
+        "type": "skill",
+        "path": ".claude\\skills\\bm-shield",
+        "priority": "ALTA"
+      }
+    ],
+    "bloqueio de conta": [
+      {
+        "name": "bm-shield",
+        "type": "skill",
+        "path": ".claude\\skills\\bm-shield",
+        "priority": "ALTA"
+      }
+    ],
+    "2fa": [
+      {
+        "name": "bm-shield",
+        "type": "skill",
+        "path": ".claude\\skills\\bm-shield",
+        "priority": "ALTA"
+      }
+    ],
+    "autenticação": [
+      {
+        "name": "bm-shield",
+        "type": "skill",
+        "path": ".claude\\skills\\bm-shield",
+        "priority": "ALTA"
+      }
+    ],
+    "página do facebook": [
+      {
+        "name": "bm-shield",
+        "type": "skill",
+        "path": ".claude\\skills\\bm-shield",
+        "priority": "ALTA"
+      }
+    ],
+    "pixel criar": [
+      {
+        "name": "bm-shield",
+        "type": "skill",
+        "path": ".claude\\skills\\bm-shield",
+        "priority": "ALTA"
+      }
+    ],
+    "verificação empresa": [
+      {
+        "name": "bm-shield",
+        "type": "skill",
+        "path": ".claude\\skills\\bm-shield",
+        "priority": "ALTA"
       }
     ],
     "brainstorm": [
@@ -3317,6 +3471,78 @@
       }
     ],
     "80-10-10": [
+      {
+        "name": "tracking-event-funnel",
+        "type": "skill",
+        "path": ".claude\\skills\\tracking-event-funnel",
+        "priority": "ALTA"
+      }
+    ],
+    "campanha de controle": [
+      {
+        "name": "tracking-event-funnel",
+        "type": "skill",
+        "path": ".claude\\skills\\tracking-event-funnel",
+        "priority": "ALTA"
+      }
+    ],
+    "campanha extendida": [
+      {
+        "name": "tracking-event-funnel",
+        "type": "skill",
+        "path": ".claude\\skills\\tracking-event-funnel",
+        "priority": "ALTA"
+      }
+    ],
+    "funil invertido": [
+      {
+        "name": "tracking-event-funnel",
+        "type": "skill",
+        "path": ".claude\\skills\\tracking-event-funnel",
+        "priority": "ALTA"
+      }
+    ],
+    "diagnóstico de relevância": [
+      {
+        "name": "tracking-event-funnel",
+        "type": "skill",
+        "path": ".claude\\skills\\tracking-event-funnel",
+        "priority": "ALTA"
+      }
+    ],
+    "otimização relâmpago": [
+      {
+        "name": "tracking-event-funnel",
+        "type": "skill",
+        "path": ".claude\\skills\\tracking-event-funnel",
+        "priority": "ALTA"
+      }
+    ],
+    "gtm server": [
+      {
+        "name": "tracking-event-funnel",
+        "type": "skill",
+        "path": ".claude\\skills\\tracking-event-funnel",
+        "priority": "ALTA"
+      }
+    ],
+    "traqueamento": [
+      {
+        "name": "tracking-event-funnel",
+        "type": "skill",
+        "path": ".claude\\skills\\tracking-event-funnel",
+        "priority": "ALTA"
+      }
+    ],
+    "actwaclib": [
+      {
+        "name": "tracking-event-funnel",
+        "type": "skill",
+        "path": ".claude\\skills\\tracking-event-funnel",
+        "priority": "ALTA"
+      }
+    ],
+    "whatsapp tracking": [
       {
         "name": "tracking-event-funnel",
         "type": "skill",

@@ -1,0 +1,12 @@
+# Transcrição: COMO_TER_DIFERENCIAL_COMPETITIVO
+
+- **Fonte:** COMO_TER_DIFERENCIAL_COMPETITIVO
+- **Duração:** 02:55
+- **Idioma:** pt
+- **Modelo:** small
+
+---
+
+## [00:00 - 02:55]
+
+A maior parte de vocês não estão inscritos no canal, se inscrevam aqui embaixo, mantem os comentários, deixe o like, sininho, todas aquelas coisas que você que deve estar assistindo aí, você deve ser um viciado em Youtube que eu sei, porque é bom também, então muito obrigado por assistir. E compartilha com o time aí, deixa com a galera. E aí é bom, né? E aí tu, esse lance de tuto ter esse acesso, te ajudou a conseguir... Eu tinha informação de moda antes da vitrine, quer dizer, quando as fábricas top da Itália desenvolviam, eu já tinha acesso à tendência de cores, de materiais, de texturas, e isso me que... Os americanos, porque antes da China, era Brasil, Portugal e Espanha. Então o que aconteceu? O americano vinha pro Brasil porque era mais barato que Portugal e Espanha. Então ele chegava no domingo, segunda-feira ele queria visitar o Kurtumi, ele disse, olha, eu quero ir na Korokimi, que eu não quero ir nos outros, porque os outros nunca tem nada pra me mostrar. E eu tinha a mostra pronta, o cara chegava a segunda, escolhia, na terça ele começava a fazer a amostra, na quinta a amostra tava pronta, ele botava 100 mil pés de pedido e ir embora. A coisa funcionava, os outros tinham que levar 60, 90 a dia pra desenvolver um coro, então isso me criou vanguarda. E outra coisa, capacidade de entrega. É uma cidade que chove muito seis meses por ano e aí a umidade relativa vai pra lua e os coros não secam. Eu falei, eu vou dobrar minha capacidade de secagem e não vou dar explicação pro cliente. Quanto o outro diz, olha, os coros não secaram, eu não vou te entregar, eu ligo, meu time reserva de secagem e seco os coros e entregue em dia. E eu tinha uma regra com meus clientes, se eu atrasar a entregue, eu pago frete aérea do sapato, que eu sabia que eu não ia atrasar. É, isso foi uma das que tu criou na oferta com eles. Exatamente, porque imagina, te dá tranquilidade, o artigo certo na hora certa, ter certeza que tu não vai atrasar o embarque, porque aí tu paga frete aérea, que o teu lucro vai embora, claro. Era o meu esquema e aí você conquista o cliente e ele não te larga mais. Pessoas, não podem sair daqui sem saber que crescer não é uma opção, mas é uma estratégia de sobremedem. Você não está crescendo, você está morrendo. Por isso que grew, importa tanto.
