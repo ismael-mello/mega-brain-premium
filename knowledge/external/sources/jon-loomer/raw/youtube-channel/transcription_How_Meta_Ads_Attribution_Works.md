@@ -1,0 +1,16 @@
+# Transcrição: How_Meta_Ads_Attribution_Works
+
+- **Fonte:** How_Meta_Ads_Attribution_Works
+- **Duração:** 03:40
+- **Idioma:** en
+- **Modelo:** small
+
+---
+
+## [00:00 - 03:00]
+
+This is the pubcast shot. Hey, what's up? I'm John Loomer. Let's go. So Facebook attribution is how Facebook gives credit to an ad for an action or conversion. So it answers the questions, what is a conversion? Does an ad get credit? If so, which one? So by default, an ad is given credit for conversion. If that conversion occurs within seven days of clicking your ad or one day of viewing your ad without clicking. Now, keep in mind, this used to be 28 day click, one day view, now seven day click, one day view. But understand the way that Facebook attributes conversions to an ad can create confusion. So we often hear about how Google Analytics doesn't match up with Facebook and Google Analytics doesn't report the same number of conversions coming from Facebook. The problem is people will click on an ad, leave, come back maybe days later and convert. Google Analytics won't necessarily pick that up. Also, you've got people who just viewed an ad, didn't click, did their stuff, end up going to your website and converting. Google has no idea that that originated from a Facebook ad that they just saw. So an example of a view through conversion, someone saw my ad, then emailed them that day and they converted. That's probably the most typical reason that would happen, although you could just Google it later or something like that. So then the question becomes, okay, well, what if I've got multiple ads going at once? Which ad gets credit? I know there's this theory that's been out there forever that multiple ads can get credit for a single conversion that will, that way it'll just inflate your numbers. But this is simply not true. Facebook gives credit to the ad that gets the most recent click. So an example would be a user has shown ads on three separate days. It could be three different ads, Monday, Tuesday and Wednesday. The user clicked on different ads on Monday and Tuesday, only viewed on Wednesday. The ad that they clicked on Tuesday, of course, would get credit because that's the most recent click. Now let's assume that none of those were clicked, they were just viewed, but then the person ended up converting. It would be the most recent view through assuming that happened within one day. Now one issue we have is the seven day click. So this is the biggest problem with attributions since iOS 14 changes went into effect. If it takes a customer longer than seven days to convert after a click, you may not get any credit from your advertising. So this is most likely to happen with really expensive products that you're selling, anything that takes more of a commitment.
+
+## [03:00 - 03:40]
+
+Hope that helps. This has been a pubcast shot. Did you like it? Did you find it helpful? I hope so. You should subscribe. You really should. I don't care whether you're on Apple Podcasts, Facebook now, Spotify, Overcast, Stitcher, Cast Box. They're all out there. Doesn't matter. There should be a way to subscribe. Do that. So next time I publish, you're going to see it. You'll get the full value. I appreciate you. Let me know what you think. Info at johnlimmer.com. Give me a shout. Otherwise, until next time, do awesome things. I'm out.

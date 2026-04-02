@@ -1,0 +1,12 @@
+# Transcrição: The_Frustrating_Removal_of_Compare_Windows
+
+- **Fonte:** The_Frustrating_Removal_of_Compare_Windows
+- **Duração:** 02:47
+- **Idioma:** en
+- **Modelo:** small
+
+---
+
+## [00:00 - 02:47]
+
+This is a pubcast shot. I'm John Loomer. Let's go! One of the most frustrating changes that Facebook's made as a result of iOS 14 and aggregated measurement is the removal of the ability to compare attribution windows and unifying everything under an attribution setting that you establish within the ad set. So in the past what you could do is optimize for seven-day click, one-day view. You get optimized for 28-day click which obviously is no longer available but you can still see by by selecting compare windows how many conversions happened within one-day view without clicking within seven-day click within 28-day click and so it gave you a better idea of maybe first of all what you should optimize for but also especially as we prepared for iOS 14 we prepared for losing that 28-day click you could see what you might lose there and that everything is beyond seven-day click but now it's gone so when you set up your ad set you say okay seven-day click that is what Facebook's going to report once they report that you can't compare windows to see well what would have come in under one-day view you have no idea what would have come in before under 28-day click you have no idea you can't even access that data anymore to me it's kind of baffling I don't completely understand why they would get rid of that because now it's just a guessing game this time I optimized for seven-day click one-day view I got more conversions when I optimized for seven-day click I don't know if that's gonna result in more conversions going forward because when I optimized for seven-day click I have no idea how many conversions would have come in under one-day view I can't see that little frustrating Facebook but just kind of airing my frustrations for anyone else has to deal with that but hope you found some sort of solution to that otherwise you know we're kind of stuck this has been a pubcast shot guess what your questions can be answered as a part of a pubcast shot just submit it to me at info at JohnLimer.com make sure you put in the subject line pubcast shot question and maybe just maybe I'll answer your question on a pubcast shot thanks for joining me again today until next time do awesome things I'm out

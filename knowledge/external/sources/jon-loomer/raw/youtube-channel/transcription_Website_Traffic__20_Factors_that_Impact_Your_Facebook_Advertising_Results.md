@@ -1,0 +1,16 @@
+# Transcrição: Website_Traffic__20_Factors_that_Impact_Your_Facebook_Advertising_Results
+
+- **Fonte:** Website_Traffic__20_Factors_that_Impact_Your_Facebook_Advertising_Results
+- **Duração:** 03:26
+- **Idioma:** en
+- **Modelo:** small
+
+---
+
+## [00:00 - 03:02]
+
+The next factor that impacts your Facebook ad success, website traffic. It's a bigger one than you may think. So high traffic websites are at a huge advantage. And I know a lot of times you may not even consider this when taking on a client if that's what you do. But you quickly realize how advantageous that is or what a disadvantage it is. If they don't have that traffic. It's enormous optimization and tracking and targeting opportunity. So with a lot of traffic, that means large, warm audiences. So meaning lots of people who have been to your site who don't need to be introduced to what you're all about. A large, warm audience means cheaper reach, cheaper clicks, cheaper actions. Whereas otherwise you're going after cold audiences for the most part. If you have a low traffic website, yep, that's the way it's going to be. Cold audiences, you can sometimes get results, but they don't consistently perform the way the warm audience does. So the problem is though, you may not have much traffic now. And that's why this is a moderate control area. It's great if you've got traffic. It's a great advantage. But if you don't, producing that traffic can be part of your challenge. So how should you approach website traffic? I do this all the time. If you ever follow my behavior with running Facebook ads, don't neglect ads where their only purpose is simply driving traffic to your website. So blogs and things of that nature. It's not just a matter of driving traffic to something where you're selling something, driving traffic to something where you're just giving out free information. So you want to commit to creating high quality website content, content that serves and helps and educates. Because the higher traffic you get, the greater trust and expertise. Higher traffic is going to lead to a larger email list. Because once they're there, you prove your value. They may not be buying anything today. You may not have been promoting an opt-in within an ad. But they're there and like, oh, this is really good stuff. I'm going to register for their newsletter or register for this free thing I see here. And when you have a larger email list, that is huge. And that now you've got people you can email to every time you've launched a new product or published a new blog post and keep that traffic flowing through. So you're also going to get more indirect conversions as a result of higher traffic. Because if you don't have regular traffic to your site, the only way you're going to get sales is by pushing people there.
+
+## [03:02 - 03:26]
+
+So pushing people to, OK, I have this particular campaign where I'm driving people to my site to sell this thing or this email that's being sent out to these 100 people because you don't have a big email list. But if you've got regular, consistent traffic that's rolling through, there are people that will be showing up that weren't intending to buy or register opt-in, whatever, and they end up doing that. So really useful.

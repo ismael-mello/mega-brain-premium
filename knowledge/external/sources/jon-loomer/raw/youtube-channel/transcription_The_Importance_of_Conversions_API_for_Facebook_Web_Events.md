@@ -1,0 +1,12 @@
+# Transcrição: The_Importance_of_Conversions_API_for_Facebook_Web_Events
+
+- **Fonte:** The_Importance_of_Conversions_API_for_Facebook_Web_Events
+- **Duração:** 03:01
+- **Idioma:** en
+- **Modelo:** small
+
+---
+
+## [00:00 - 03:01]
+
+This is a pubcast shot. Boom. I'm John Loomer. Let's go. The conversions API has become a really popular topic lately and the truth is that now more than ever the conversions API is going to be important and really it's going to become even more important in the coming months and the coming years. So if you're not familiar with the conversions API it creates a direct connection between your data and Facebook. So this helps provide a conversion source in addition to the Facebook pixel. And look I'm a huge fan of the pixel. It changed everything. It was the most impactful development of the past decade for advertisers and probably for me but reality is the pixels getting less reliable. The API is much much less likely to be negatively impacted by issues like cookie blockers and loading errors and connection problems. So by using both the API and the pixel it makes it much more likely that Facebook has a complete set of data. Because really if Facebook doesn't have the full picture it's going to negatively impact the platform's impression of what the performance is. So adding the API leads to improved reporting, more complete custom audiences and better optimization. Now what's really important here is that the conversions API despite what you've heard for web events it does not replace data loss as a result of iOS 14. And why? Well the API needs to follow the exact same rules related to optouts that the pixel does. But the pixel still misses conversions for other reasons and the API can help fix that for you. Of course how you set it up will depend on just a ridiculous number of factors. If you do use Shopify or WooCommerce though the integration is streamlined it's really pretty easy but it's definitely more complicated for most of us including me. I was able to set it up using the Conversion's API gateway utilizing my own AWS server. So if you want to learn about how to do it how I did it go to JohnLumer.com slash gateway. This has been a pubcast shot. Guess what your questions can be answered as a part of a pubcast shot? Just submit it to me at info at JohnLumer.com. Make sure you put in the subject line pubcast shot question and maybe just maybe I'll answer your question on a pubcast shot. Thanks for joining me again today. Until next time do awesome things. I'm out.

@@ -1,0 +1,16 @@
+# Transcrição: Why_I_Use_Google_Tag_Manager_to_Manage_My_Pixel
+
+- **Fonte:** Why_I_Use_Google_Tag_Manager_to_Manage_My_Pixel
+- **Duração:** 03:34
+- **Idioma:** en
+- **Modelo:** small
+
+---
+
+## [00:00 - 03:01]
+
+This is a pubcast shot really. I'm John Loomer. Let's go! You may not know this but I use Google Tag Manager to manage my Facebook pixel and I don't know why it took me so long. A lot of people have told me that that's what they did and I don't know if I just thought it was too complicated or what but I've been doing this for the last year or two I'm not sure exactly but you know ultimately you know setting up the pixel really really easy with it you create a tag for the base pixel code have it fire on all pages really really easy and setting up the standard events is really easy I create a tag for each one paste that standard event code that you need that provides details like the value and currency content name all that stuff and by the way if you need help on generating that code we have a Facebook pixel event generator on my website that makes it really really easy go to JohnLumber.com slash events and you just tell tell us what you want and it'll spit out your code you can also then have those standard events fire only on the confirmation pages of course and there's tag sequencing so it makes sure that the base pixel code is fired first all that good stuff to make sure it works so that's all great but honestly the main reason though I love using Google Tag Manager for managing my pixel is for the custom events since because it has some built-in trigger types that I find really really useful so there's one for scroll depth and so I've created a custom event for anyone who scrolled at least 70% within a page but I've experimented with anything anything from 50% to 100% you can have it fire multiple times depending on how they scroll all that kind of stuff they also have a timer trigger type same kind of thing you could have it fire it at whatever interval you want multiple times I've decided just that 60 seconds let me know that that happened that's a quality visit and finally the one that I use at least there could be others that would be really useful is for an embedded YouTube video we could fire an event based on what the video was that they watched whether they played it how much did they played all that kind of stuff so it's really really helpful for creating events these custom events of engagement on my website for tracking optimization and targeting later and you know it's a little small thing but also conversions API gateway works really really well with it so if you need help with setting up Google Tag Manager for your pixel or if you just need more details on how I did it I wrote a blog post about it go to JohnLumber.com slash GTM this has been a pubcast shot did you like it did you find it helpful I
+
+## [03:01 - 03:34]
+
+hope so you should subscribe you really should I don't care whether you're on Apple Podcasts Facebook now Spotify overcast stitcher cast box they're all out there doesn't matter there should be a way to subscribe do that so next time I publish you're gonna see it you'll get the full value I appreciate you let me know what you think info at JohnLumber.com give me a shout otherwise until next time do awesome things I'm out

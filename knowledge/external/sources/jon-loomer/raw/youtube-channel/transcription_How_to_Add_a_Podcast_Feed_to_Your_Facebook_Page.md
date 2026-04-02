@@ -1,0 +1,16 @@
+# Transcrição: How_to_Add_a_Podcast_Feed_to_Your_Facebook_Page
+
+- **Fonte:** How_to_Add_a_Podcast_Feed_to_Your_Facebook_Page
+- **Duração:** 03:55
+- **Idioma:** en
+- **Modelo:** small
+
+---
+
+## [00:00 - 03:00]
+
+Alright, so let's talk about how you can add a podcast to your Facebook page, to your business page. So first thing you need to do is click on this manage button from the home screen. Now you may not have that, you may immediately have a menu that looks sort of like this on the left hand side. All we need to do is make sure we can click on this podcast item in that menu. So click on that and then click on add podcast. Then we need to provide the RSS feed for that podcast. Now do you know how to get that? I can at least show you within Libsyn where that is. So I use Libsyn to publish all of my podcast episodes and set where it goes to and all that kind of stuff. If within Libsyn you go to destinations, there you will find the RSS feed. Pubcast here is mine. So I just copy that. Alright, back to your Facebook page. This is where you need to provide the RSS feed. Again, they give you a sample so it shouldn't be too hard. Click add. Just so you know, you can only have one podcast. Your podcast can be only connected to one page at this time. So if you're getting an error, that may be why. So an authentication code is sent to you by email. And so you should check that. And once you've authenticated, you should go ahead and click continue. So once you've authenticated, just determine whether you want to enable clips so people can create and share their favorite episode clips, listen 30 seconds in length, which may help increase visibility, which is good. Then make these acknowledgments and whatnot and go ahead and click publish podcast. So now it's done. Apparently we can add multiple podcasts as well. Just be aware that you can do that. Just know that you can also do this from your phone on the main Facebook app when you're controlling a page. Click view tools. Scroll down. You can find podcasts and you can add a podcast there the exact same way. So something to keep in mind is that the podcast will only be added for on the mobile side. So if you're on desktop and go to your page, you're like, we're in the hell is my podcast or if episodes have been published, it's only on mobile. So go to these tabs like at the photo tab, click on that, I guess a couple times, click on podcasts. And then it'll be list here and all the episodes know that it may take some time several minutes or so.
+
+## [03:00 - 03:55]
+
+And every time you publish a new episode, say from Libsyn or wherever is your publishing your podcast, it could take some time up to a half hour or hour before you're going to see it here. So don't freak out. I kind of freaked out the first time. Unfortunately, I haven't seen a ton of reach and engagement on these episodes, even less so than typical posts. I even at one time published a an episode as a video and I got much better than what I've seen here. But I think the main thing is people can subscribe from this spot. And they can also find all of the episodes within this tab, which is really useful. So it doesn't take any effort whatsoever. It automatically pulls in the description and imagery and everything. And it's actually kind of a cool little feature.

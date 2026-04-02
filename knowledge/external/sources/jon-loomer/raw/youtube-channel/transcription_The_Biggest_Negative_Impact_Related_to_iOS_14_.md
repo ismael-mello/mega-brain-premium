@@ -1,0 +1,12 @@
+# Transcrição: The_Biggest_Negative_Impact_Related_to_iOS_14+
+
+- **Fonte:** The_Biggest_Negative_Impact_Related_to_iOS_14+
+- **Duração:** 02:52
+- **Idioma:** en
+- **Modelo:** small
+
+---
+
+## [00:00 - 02:52]
+
+This is a pubcast shot. I'm John Loomer. Let's go! So it seems that everybody is seeing negative impact related to iOS 14 plus. And I think we need to be really careful about that because you may not have a big audience. It's iOS 14 that's on an iOS 14 device. We can't just blame everything on iOS 14. That said, I would say the biggest thing that we don't talk about enough, it's not about the audiences shrinking or Facebook using aggregated event measurement or modeling and things like that. It's what happened in the very early part of this. Moving from 28-day click, one-day view, attribution to 7-day click, eventually one-day view as well. That is what is going to hurt advertisers the most when they're trying to say my ads were leading to success. I'm doing my job. Especially if you have determined that the customer journey can take longer than seven days. If that's the case, your ads may be working. You're just not getting the attribution, the credit that you once received. That is probably the biggest reason that conversion numbers are dropping. That's a tough thing to explain to a client. While these conversions are still coming in, but Facebook's just not giving me credit because it's been more than seven days since they clicked my ad. That's where we also have to get a little bit more creative and look at your numbers from the past. Try to understand what percentage of your traffic comes from Facebook and what percentage of your conversions have come from ads in the past. If their overall conversions aren't dropping, you're probably still doing your job. If you're promoting a high-price product, a high-commitment product that takes a while to make a decision on, you're probably being hurt by this more than anybody else. Hopefully that makes sense. Hopefully that gives you something to go back to the client to explain why this is happening. This has been a pubcast shot. Guess what? Your questions can be answered as a part of a pubcast shot. Just submit it to me at infoatjohnlummer.com. Make sure you put in the subject line pubcast shot question and maybe, just maybe, I'll answer your question on a pubcast shot. Thanks for joining me again today. Until next time, do awesome things. I'm out.

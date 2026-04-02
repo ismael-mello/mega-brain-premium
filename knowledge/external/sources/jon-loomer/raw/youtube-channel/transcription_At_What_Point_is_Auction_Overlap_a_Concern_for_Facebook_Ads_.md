@@ -1,0 +1,16 @@
+# Transcrição: At_What_Point_is_Auction_Overlap_a_Concern_for_Facebook_Ads_
+
+- **Fonte:** At_What_Point_is_Auction_Overlap_a_Concern_for_Facebook_Ads_
+- **Duração:** 03:19
+- **Idioma:** en
+- **Modelo:** small
+
+---
+
+## [00:00 - 03:13]
+
+This is the Pubcast Shot. Uh-oh. I'm John Loomer. Let's go. In today's Pubcast Shot, I'll be answering a question from Daniel Chandler, who asks, at what point does auction overlap become a concern? So let's talk about it. So auction overlap is what happens if you have multiple ads within the same auction. So when that happens, Facebook will choose the ad with the highest total value to compete in that auction. So the other ad, which is the problem, won't be considered at all. So you can't compete with yourself. That's how Facebook prevents that from happening. So why is this bad? Well, every time auction overlap happens, it prevents one or more of your ads from entering the auction. So this can lead to not spending your budget, failure to get the actions that you need to exit the learning phase, which means that your ad performance may be less stable and less scalable. So how do you detect that this is a problem? A couple of ways. So first of all, you get the Inspect tool. If you're familiar with that, within Ad Set, select an Ad Set, click on that magnifying glass. There's a section there for auction overlap. You can see it over time. You can determine whether it's increasing or not. And that may, if it's increasing, it could coincide with bad performance. Facebook also may give you delivery recommendations within your account overview that it's a problem. The question is what should you do about it, first of all? In that case, you want to prevent that overlap from happening. So you can combine similar ad sets that are competing with one another, or you can turn off the poorly performing ad set that is creating the issues. Now, Daniel's question, though, was at what point does it become a problem? This is one of those, it depends scenarios, right? There really isn't a specific percentage where the alarm bells go off and say, uh-oh, too much auction overlap. Um, because some overlap is fine, honestly. And the problem is that every time it happens, it prevents one of your ads from being shown. So if you have plenty of budget or the audience is big enough or you're still getting plenty of actions anyway, doesn't really matter. So the problem is if it prevents your ad from exiting the learning phase or you don't end up getting that stable performance, then you're not getting the performance you need. So ultimately, the answer to this question, Daniel, just like so many questions related to Facebook advertising is if the performance is fine, don't worry about it. If it's not acceptable, though, it's become a problem. Thanks, Daniel. Hope that helps. This has been a pubcast shot. Guess what? Your questions can be answered as a part of a pubcast shot. Just submit it to me at infoatjohnlimer.com. Make sure you put in the subject line, pubcast shot question, and maybe, just maybe, I'll answer your question on a pubcast shot.
+
+## [03:13 - 03:19]
+
+Thanks for joining me again today. Until next time, do awesome things. I'm out.

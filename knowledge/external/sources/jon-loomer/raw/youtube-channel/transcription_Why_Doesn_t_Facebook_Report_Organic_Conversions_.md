@@ -1,0 +1,12 @@
+# Transcrição: Why_Doesn't_Facebook_Report_Organic_Conversions_
+
+- **Fonte:** Why_Doesn't_Facebook_Report_Organic_Conversions_
+- **Duração:** 02:54
+- **Idioma:** en
+- **Modelo:** small
+
+---
+
+## [00:00 - 02:54]
+
+This is a pubcast shot. I'm John Loomer. Let's go! One of my biggest beefs with Facebook is this. Nowhere do they display organically driven conversions. And this would be really valuable, not only to the marketer, but to Facebook. It shows reason why this is working. Example, first of all, ads manager. All of your results there are related to your paid efforts. If someone shares an ad, someone else sees the ad who was not targeted, they buy. That doesn't show up in your results, which makes sense. But there should be an ability to see that, to see the overall value of your advertising that contributed. Second, you have an organic post. Share it to your audience. You're all angry, you only reach 2% of your followers, whatever. Three people bought. You didn't know that they bought. You just thought it was worthless that no one liked it and commented and shared and stuff. People bought though, you don't know that. Facebook won't tell you. It would be easy. Just within your paid settings, connect your pixel. And maybe you've already connected your pixel, you've connected your page to your business manager, so they know you've done all that. Tell us. So we know it's valuable. It gives us more encouragement to say, yes, we should be doing this. And maybe we should run ads because yes, I see this is working. It just baffles me. We used to have Facebook analytics, which could provide a little bit of that information. Maybe even Facebook attribution to a point, but both of those are gone. And even that, those are such buried tools that the average advertiser didn't use. Average marketer didn't use. We need this up front. You need to be waving a flag Facebook telling me, hey, guess what? You didn't pay for this, but you got some organic purchases. Some organic conversions out of this. Awesome. Doesn't exist. They have the information. Don't give it to us. No idea why. I've only been asking for it for 10 years. This has been a pubcast shot. Guess what? Your questions can be answered as a part of a pubcast shot. Just submit it to me at infoatjohnlummer.com. Make sure you put in the subject line, pubcast shot question. And maybe, just maybe, I'll answer your question on a pubcast shot. Thanks for joining me again today. Until next time, do awesome things. I'm out.

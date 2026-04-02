@@ -1,15 +1,15 @@
 {
   "version": "2.7.0",
-  "updated_at": "2026-03-30T12:00:00Z",
+  "updated_at": "2026-04-02T15:30:00Z",
   "system": {
     "status": "OPERATIONAL",
     "health_score": 100,
     "health_label": "EXCELLENT"
   },
   "knowledge_base": {
-    "sources_total": 37,
-    "dna_persons_total": 37,
-    "agents_person": 37,
+    "sources_total": 38,
+    "dna_persons_total": 38,
+    "agents_person": 38,
     "agents_cargo": 15,
     "agents_total": 52,
     "inbox_pending": 0,
@@ -227,6 +227,26 @@
       "agent": true,
       "elements": 24,
       "note": "Founder First Hiring framework."
+    },
+    "jon-loomer": {
+      "status": "COMPLETE",
+      "dna": true,
+      "agent": true,
+      "dna_version": 2,
+      "elements": 437,
+      "layers": "L1:94 L2:74 L3:140 L4:72 L5:57",
+      "sources_count": 2,
+      "sources": [
+        "SFAS — scaling-fb-ads-for-success (79 elements, 2018)",
+        "YTCH — youtube-channel (349 elements, 288 videos)"
+      ],
+      "cargo_enriched": [
+        "Media Buyer",
+        "Paid Media Specialist",
+        "CMO"
+      ],
+      "next_ids": "FIL-JL-712 MM-JL-709 HEUR-JL-719 FW-JL-709 MET-JL-706",
+      "note": "YouTube pipeline complete (2026-04-02). 288 videos. Meta Ads specialist. v2.0.0."
     },
     "eugene-schwartz": {
       "status": "COMPLETE",
@@ -566,7 +586,7 @@
     "is_active": true
   },
   "next_action": {
-    "description": "37 fontes completas (37 agents). Depesh Mandalia processado (2026-03-27). Aguardando nova missão.",
+    "description": "38 fontes completas (38 agents). Jon Loomer YouTube pipeline completo (2026-04-02, 428 elements). Aguardando nova missão.",
     "options": [
       "Ingerir novo especialista/programa → /jarvis-full [material]",
       "Consulta estratégica → /conclave ou /ask",
@@ -575,8 +595,8 @@
   },
   "mis": {
     "session_id": "",
-    "prompt_count": 111,
+    "prompt_count": 122,
     "bracket": "CRITICAL",
-    "context_percent": 16.8
+    "context_percent": 8.5
   }
 }

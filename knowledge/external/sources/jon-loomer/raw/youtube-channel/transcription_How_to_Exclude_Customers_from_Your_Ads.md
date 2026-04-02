@@ -1,0 +1,16 @@
+# Transcrição: How_to_Exclude_Customers_from_Your_Ads
+
+- **Fonte:** How_to_Exclude_Customers_from_Your_Ads
+- **Duração:** 03:33
+- **Idioma:** en
+- **Modelo:** small
+
+---
+
+## [00:00 - 03:03]
+
+Today's podcast question is about excluding customers. Let's go. Hey, John. This is romance author Rebecca Hefner. I have a question about making sure that I don't target the same customers. So sometimes I'll sell an audiobook bundle through Facebook ads, and then a month later, Facebook will target that same customer. They'll purchase the audiobook bundle again, and then that creates a hassle for me because I have to refund that customer because they've already purchased it. How do I make sure that Facebook only targets new customers? Thank you. Good question, Rebecca. So whether or not you exclude your existing customers is always a balance of risks versus benefits. Of course, we shouldn't be talking about excluding all customers unless you only have one product. Otherwise, the people who have purchased other books should be prime candidates for purchasing this audiobook bundle. That said, it sounds like you're running into a problem where exclusions are necessary. People are buying your bundle, then buying the bundle again a month later, and those refunds are a cost to you. So in that case, absolutely, we need to be sure to exclude the prior audiobook bundle customers only. To do that, I would exclude every possible custom audience that would represent those customers. The reason why I would exclude multiple custom audiences is that no individual custom audience is likely to be complete. So first would be your website custom audience based either on the purchase event and parameters for that product or the confirmation page after the purchase, if it's unique to the bundle. You should also create a custom audience for your email list of customers who made that purchase. Include as many columns of data as you can, like first name, last name, email address, phone number, and more if possible. This will help get you better match rates. Then make sure to use a third-party tool to keep that email customer audience updated on a daily basis, if not more often, to include the most recent purchases. And then finally, exclude both of these custom audiences in your ad set. Understand, even when using algorithmic targeting, exclusions of custom audiences will act as a tight constraint. Now, that won't guarantee that you'll successfully exclude 100% of these customers. But the more thorough and dynamic you are about this, the higher your success rate will be. And hopefully, that will at least limit your refunds going forward. A final point I'd ask is whether your e-commerce software offers any controls to help prevent repeat purchases based on email address. Now, I honestly don't even know if such a thing exists, but I assume it's a common problem that businesses would want to avoid
+
+## [03:03 - 03:33]
+
+in specific situations like yours. Thanks for your question, Rebecca, and good luck. You want your question to be answered on a future episode? Send it my way. Go to johnlumber.com slash question and record your question today. You may just be featured on a future podcast. Otherwise, thanks for joining me again today. Until next time, do awesome things. I'm out.

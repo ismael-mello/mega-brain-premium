@@ -1,7 +1,7 @@
 # DNA-CONFIG: Jon Loomer
 # Tipo: SOLO (pessoa)
-# Versao: 1.0.0
-# Ultima atualizacao: 2026-03-27
+# Versao: 2.0.0
+# Ultima atualizacao: 2026-04-02
 
 agent_type: SOLO
 person: jon-loomer
@@ -12,9 +12,9 @@ dna_sources:
     weight: 1.0
     path: "knowledge/external/dna/persons/jon-loomer/DNA.yaml"
     raiz: "knowledge/external/sources/jon-loomer/raw/"
-    elements: 79
-    version: "1.0.0"
-    sources_count: 1
+    elements: 428
+    version: "2.0.0"
+    sources_count: 2
 
   - person: andrew-foxwell
     weight: 0.40
@@ -23,15 +23,21 @@ dna_sources:
 
 domains:
   primary:
-    - facebook-ads
+    - meta-ads
     - scaling
     - audience-optimization
+    - attribution
+    - measurement
   secondary:
     - budget-management
     - creative-strategy
+    - creative-testing
     - remarketing
     - dynamic-product-ads
     - bidding-strategy
+    - conversions-api
+    - value-rules
+    - ai-technology
   tertiary:
     - learning-phase
     - pixel-optimization
@@ -39,6 +45,10 @@ domains:
     - account-structure
     - reporting
     - naming-conventions
+    - andromeda
+    - privacy
+    - content-creation
+    - business-mindset
 
 materiais_fonte:
   - id: SFAS
@@ -49,3 +59,11 @@ materiais_fonte:
     path_raw: "knowledge/external/sources/jon-loomer/raw/scaling-fb-ads-for-success/"
     co_presenter: "Andrew Foxwell (Foxwell Digital)"
     conteudo: "2 sessions (Fundamentals + Advanced) + 3 PDFs (Checklist + Slides S1 + Slides S2)"
+
+  - id: YTCH
+    nome: "YouTube Channel"
+    tipo: YOUTUBE
+    ano: 2023-2025
+    arquivos: 288
+    path_raw: "knowledge/external/sources/jon-loomer/raw/youtube-channel/"
+    conteudo: "288 transcriptions covering Meta Ads, attribution, audience strategy, creative, campaign structure, AI/technology, business mindset, and platform updates"

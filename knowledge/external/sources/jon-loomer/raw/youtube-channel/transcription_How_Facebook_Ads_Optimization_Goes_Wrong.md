@@ -1,0 +1,12 @@
+# Transcrição: How_Facebook_Ads_Optimization_Goes_Wrong
+
+- **Fonte:** How_Facebook_Ads_Optimization_Goes_Wrong
+- **Duração:** 02:43
+- **Idioma:** en
+- **Modelo:** small
+
+---
+
+## [00:00 - 02:43]
+
+This is a pubcast shot. I'm John Loomer. Let's go. Let's talk briefly about the potential pitfalls related to Facebook ads optimization. Because first of all Facebook has a whole lot of data information on users to be able to optimize and show your ads to people most likely to perform your desired action. That's ultimately what you want. You don't want to reach everybody within an audience. Great. It can work really really well especially for conversions. But let's say for example you are going to optimize for engagement or link clicks or just clicks in general. Facebook is going to show your ad to people most likely to quote unquote engage or quote unquote click. And they don't care about quality. They don't care that the person after or you know what kind of engagement that is. Do they just spam your page in the comments? Do they just like everything? What did they actually do? Did they become a customer or not? They don't care. And that's where we can end up with some really bad fluff numbers. It could be from bots. It could just be from click fraud where people have accidental clicks. If you're optimizing for a click and they go to your website and they're there for two seconds and they abandon. And that's all you get. As far as Facebook knows they did what you asked for. It's not necessarily shady on their part. But because they're just going to go to that pool of people. These are the ones who do the thing that you asked for. It's more something that you need to be aware of as an advertiser. Be skeptical of some of these results that you get. Especially if you're optimizing for engagement or optimizing for clicks, link clicks, even landing page views. I've seen that I'll get a ton of traffic to my website from the audience network placement that's full of accidental clicks and maybe click fraud as well. So just some things to think about. Generally if you're going to optimize for conversion you're going to be okay. These are things where quality is baked in. This has been a pubcast shot. Guess what? Your questions can be answered as a part of a pubcast shot. Just submit it to me at infoatjohnlummer.com. Make sure you put in the subject line, pubcast shot question, and maybe, just maybe, I'll answer your question on a pubcast shot. Thanks for joining me again today. Until next time, do awesome things. I'm out.

@@ -1,0 +1,16 @@
+# Transcrição: What_Do_Most_Advertisers_Get_Wrong_About_Meta_Ads_
+
+- **Fonte:** What_Do_Most_Advertisers_Get_Wrong_About_Meta_Ads_
+- **Duração:** 03:21
+- **Idioma:** en
+- **Modelo:** small
+
+---
+
+## [00:00 - 03:00]
+
+Today's podcast question is about the most common points of confusion. Let's go. Hi John, this is Luke. Elliot, if you could resolve one common point of confusion that everyone commonly seems to have around meta-ads and you wish everyone could just understand that one thing, what would it be? Oh man, that's an amazing question, Luke. And I've spent way too much time trying to come up with one answer. So let me give you three. The first is that meta will do all it can to help you get the action that you want. The algorithm is literal. So when you understand this, it can lead many of your decisions. You realize that you should usually resist restricting the algorithm by audience or placement because meta is trying to get you the most results. But you also know that meta can get you cheap and low quality results due to demographics, location, and placement. But this is tied specifically to the action you are asking for. So meta will only lean into audience network to get you cheap clicks when you optimize for clicks. And meta will only lean into people over the age of 65 to get you cheap leads when you optimize for leads. You can address both of those issues with value rules. But when optimizing for a purchase, it's unlikely to be a problem. So the algorithm is literal. And that's number one. The second point of confusion is that your targeting control is mostly unnecessary now. Your inputs for detailed targeting and lookalikes are almost always suggestions and you can't change that. And remarketing happens naturally, so we rarely need to create separate remarketing, ad sets, or campaigns. So I wish more advertisers would take a hands-off approach to targeting. And both of these things are related to the final point of confusion that I wish advertisers would understand. When you're not getting good results, focus on the ads first. The secret to getting better results isn't found in a magical campaign construction or your targeting. Stop obsessing over that stuff, beyond knowing the pitfalls and what to avoid. When you're not getting the results you want, create new ads. It's not that complicated. Try a completely different creative direction. Experiment with different formats. Lean into new pain points and solutions. Your ads can always be better. And that's why they're always the first place you should turn when you want better results. So yeah, I really wish I could give advertisers a magic pill to understand these three things. The algorithm is literal and will focus on getting you the action you want, which can be both good and bad. Your targeting inputs mean very little now and you're better off with a hands-off approach. And when you're not getting results, start with the ads.
+
+## [03:00 - 03:21]
+
+Thanks for your question, Luke. You want your question to be answered on a future episode? Send it my way. Go to johnlumber.com slash question and record your question today. You may just be featured on a future podcast. Otherwise, thanks for joining me again today. Until next time, do awesome things. I'm out.

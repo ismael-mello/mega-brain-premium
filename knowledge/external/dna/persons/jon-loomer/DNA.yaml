@@ -1,23 +1,37 @@
 # DNA Cognitivo: Jon Loomer
-# Versão: 1.0.0
-# Fonte: Scaling FB Ads for Success (SFAS) — 2018
-# Elementos: 79
-# Última atualização: 2026-03-27
+# Versão: 2.0.0
+# Fontes: SFAS (2018) + YTCH (YouTube Channel, 288 videos)
+# Elementos: 437
+# Última atualização: 2026-04-02
 
 person: jon-loomer
-version: "1.0.0"
-total_elements: 79
+version: "2.0.0"
+total_elements: 437
 sources:
   - id: SFAS
     name: "Scaling FB Ads for Success"
     files: 7
     year: 2018
     co_presenter: "Andrew Foxwell"
+  - id: YTCH
+    name: "Jon Loomer YouTube Channel"
+    files: 288
+    year: "2019-2026"
+    type: "youtube-videos"
+    topics:
+      - "20 Factors that Impact Facebook Ads"
+      - "Attribution and Measurement"
+      - "Audience and Targeting"
+      - "Campaign Strategy and Optimization"
+      - "Creative Strategy and Testing"
+      - "Business, AI, and Content"
+      - "Platform Tutorials and Setup"
 
 layers:
   L1_PHILOSOPHIES:
-    count: 14
+    count: 94
     items:
+      # === EXISTING SFAS (14 items) ===
       - id: "FIL-JL-001"
         title: "Horizontal Scaling Supremacy"
         content: "Sustainable growth comes from expanding audiences/offers/objectives, not just increasing budgets on existing ad sets"
@@ -88,10 +102,417 @@ layers:
         content: "Without financial calculations in order ahead of time, scaling is gambling. Know AOV, LTV, margin percentage before spending more"
         domain: budget-management
         source: SFAS
-
+      # === NEW YTCH: 20 Factors (080-088) ===
+      - id: "FIL-JL-080"
+        title: "No Magic Bullet in Facebook Ads"
+        content: "There is no single fix or template that always works. 20 factors all contribute to your results and you cannot isolate just one."
+        domain: facebook-ads
+        source: YTCH
+      - id: "FIL-JL-081"
+        title: "Complicated Problem Simple Answer Fallacy"
+        content: "People want a straight answer for why ads failed, but it is impossible because so many factors contribute simultaneously."
+        domain: facebook-ads
+        source: YTCH
+      - id: "FIL-JL-082"
+        title: "Bidding Low Is False Economy"
+        content: "Bidding too low means you lose every auction or reach low-quality people. Cheap reach often means worthless reach."
+        domain: bidding-strategy
+        source: YTCH
+      - id: "FIL-JL-083"
+        title: "No Creative Template Always Works"
+        content: "If someone tells you there is a specific formula for imagery that always works, run away. There is no such thing."
+        domain: creative-strategy
+        source: YTCH
+      - id: "FIL-JL-084"
+        title: "Sample Size Humility"
+        content: "Far too often we react or overreact based on small sample sizes. Results mean very little with a small sample."
+        domain: measurement
+        source: YTCH
+      - id: "FIL-JL-085"
+        title: "Landing Page Breaks the Chain"
+        content: "You could have a great ad and it won't matter if you have a bad landing page. The landing page must follow through on the ad promise."
+        domain: landing-pages
+        source: YTCH
+      - id: "FIL-JL-086"
+        title: "Optimization Is Literal"
+        content: "Facebook optimizes to show ads to people most likely to act on what you told it. If you optimize for the wrong thing, you get wrong results."
+        domain: optimization
+        source: YTCH
+      - id: "FIL-JL-087"
+        title: "Minimal Control Is the Future"
+        content: "The direction of Meta advertising is toward less advertiser control and more algorithmic decision-making. Embrace it."
+        domain: facebook-ads
+        source: YTCH
+      - id: "FIL-JL-088"
+        title: "General Approaches Over Specific Hacks"
+        content: "Focus on foundational approaches like strong creative, proper tracking, and good offers rather than searching for hacks."
+        domain: facebook-ads
+        source: YTCH
+      # === NEW YTCH: Attribution (200-210) ===
+      - id: "FIL-JL-200"
+        title: "Attribution Spills Down From the Top"
+        content: "If you get attribution wrong, it impacts your reporting, optimization, and targeting. It can screw everything up."
+        domain: attribution
+        source: YTCH
+      - id: "FIL-JL-201"
+        title: "Click Attribution Is Not What It Used to Be"
+        content: "The shift from 28-day click to 7-day click changed everything. Many conversions that used to be counted are now invisible."
+        domain: attribution
+        source: YTCH
+      - id: "FIL-JL-202"
+        title: "View-Through Conversions Are Real"
+        content: "Someone sees your ad, gets emailed that day, and converts. That is a legitimate view-through conversion and should not be dismissed."
+        domain: attribution
+        source: YTCH
+      - id: "FIL-JL-203"
+        title: "Meta Conversion Reporting Is Not the Problem"
+        content: "The problem is usually advertiser misunderstanding of how attribution works, not Meta reporting system itself."
+        domain: attribution
+        source: YTCH
+      - id: "FIL-JL-204"
+        title: "One Ad Gets Credit Per Conversion"
+        content: "The theory that multiple ads get credit for a single conversion is not true. Meta gives credit to the most recent click."
+        domain: attribution
+        source: YTCH
+      - id: "FIL-JL-205"
+        title: "Google Analytics Disagreement Is Expected"
+        content: "GA and Meta will never fully match because GA cannot track view-through conversions or delayed click conversions the same way."
+        domain: attribution
+        source: YTCH
+      - id: "FIL-JL-206"
+        title: "Incremental Attribution Adds Nuance"
+        content: "Incremental attribution separates conversions that would have happened anyway from those truly driven by ads."
+        domain: attribution
+        source: YTCH
+      - id: "FIL-JL-207"
+        title: "Confirmation Bias Distorts Attribution"
+        content: "Advertisers believe remarketing works because the numbers look good, ignoring that those people would have converted anyway."
+        domain: attribution
+        source: YTCH
+      - id: "FIL-JL-208"
+        title: "Correlation Is Not Causation in Ads"
+        content: "Just because results improved after a change does not mean that change caused the improvement. Many variables shift simultaneously."
+        domain: attribution
+        source: YTCH
+      - id: "FIL-JL-209"
+        title: "Look Beyond Surface-Level Results"
+        content: "Surface metrics like cost per lead are mostly meaningless without understanding lead quality and downstream conversion rates."
+        domain: measurement
+        source: YTCH
+      - id: "FIL-JL-210"
+        title: "Trust But Verify the Algorithm"
+        content: "Meta algorithm can find weaknesses in your optimization. If results seem too good to be true, they probably are."
+        domain: measurement
+        source: YTCH
+      # === NEW YTCH: Audience (300-308) ===
+      - id: "FIL-JL-300"
+        title: "Targeting Inputs Matter Less Than Before"
+        content: "With Advantage+ audience and algorithmic targeting, your targeting inputs are suggestions at best. The algorithm decides."
+        domain: audience-targeting
+        source: YTCH
+      - id: "FIL-JL-301"
+        title: "Audience Suggestions Are an Illusion of Control"
+        content: "Providing audience suggestions in Advantage+ gives you a feeling of control, but the algorithm goes as broad as it needs to."
+        domain: audience-targeting
+        source: YTCH
+      - id: "FIL-JL-302"
+        title: "Creative Diversification Is the New Targeting"
+        content: "The focus has shifted from niche targeting to creative diversification as the best lever to find the most relevant audiences."
+        domain: creative-strategy
+        source: YTCH
+      - id: "FIL-JL-303"
+        title: "Detailed Targeting Is Mostly Dead"
+        content: "Interest-based and behavior-based targeting is being phased out. The algorithm with proper optimization handles targeting better."
+        domain: audience-targeting
+        source: YTCH
+      - id: "FIL-JL-304"
+        title: "Broad Targeting Requires Purchase Optimization"
+        content: "Broad targeting works best when optimizing for purchases because the algorithm cannot be misled with low-quality purchases."
+        domain: audience-targeting
+        source: YTCH
+      - id: "FIL-JL-305"
+        title: "Remarketing Is Not Dead Just Different"
+        content: "General remarketing may not be necessary anymore, but specific remarketing like abandoned cart still has unique value."
+        domain: remarketing
+        source: YTCH
+      - id: "FIL-JL-306"
+        title: "Separate Ad Sets for Personas Are Unnecessary"
+        content: "You do not need separate ad sets for different customer personas. Let the algorithm find the right people through creative diversity."
+        domain: audience-targeting
+        source: YTCH
+      - id: "FIL-JL-307"
+        title: "Lookalike Audiences May Be Obsolete"
+        content: "With Advantage+ audience, lookalike audiences add diminishing value since the algorithm already uses purchase and pixel data."
+        domain: audience-targeting
+        source: YTCH
+      - id: "FIL-JL-308"
+        title: "The Platform Owes You Nothing"
+        content: "Meta does not owe you cheap reach or results. The auction is competitive and your success depends on your offer and creative."
+        domain: facebook-ads
+        source: YTCH
+      # === NEW YTCH: Campaign (400-412) ===
+      - id: "FIL-JL-400"
+        title: "Simplicity Over Sophistication"
+        content: "More complicated and sophisticated sounds better but often is not. Performance problems come from advertisers who overcomplicate things."
+        domain: campaign-strategy
+        source: YTCH
+      - id: "FIL-JL-401"
+        title: "Performance Goal Is Everything"
+        content: "The performance goal defines what you want and controls ad delivery. You cannot overstate its importance."
+        domain: optimization
+        source: YTCH
+      - id: "FIL-JL-402"
+        title: "Stop Searching for the Magical Strategy"
+        content: "Most guru strategies are snake oil. They ignore fundamental sources of performance that cannot be packaged and sold."
+        domain: campaign-strategy
+        source: YTCH
+      - id: "FIL-JL-403"
+        title: "Embrace It Depends"
+        content: "The right answer to almost every advertising question is it depends. Anyone giving absolute answers is oversimplifying."
+        domain: facebook-ads
+        source: YTCH
+      - id: "FIL-JL-404"
+        title: "Embrace the Grays of Advertising"
+        content: "Advertising is not black and white. What works for one business may not work for another. Context matters more than rules."
+        domain: facebook-ads
+        source: YTCH
+      - id: "FIL-JL-405"
+        title: "Don't Blindly Follow Any Expert"
+        content: "Do not blindly follow any expert advice including mine. Test everything in your own context and let results guide you."
+        domain: facebook-ads
+        source: YTCH
+      - id: "FIL-JL-406"
+        title: "Update Your Assumptions Regularly"
+        content: "What worked six months ago may not work today. The platform changes constantly and your assumptions must change with it."
+        domain: facebook-ads
+        source: YTCH
+      - id: "FIL-JL-407"
+        title: "Campaigns Start Strong Then Decline Naturally"
+        content: "Meta shows ads to the most likely converters first. Initial strong results followed by decline is normal, not a sign of failure."
+        domain: campaign-strategy
+        source: YTCH
+      - id: "FIL-JL-408"
+        title: "Stopping the Bleeding Is Growth Too"
+        content: "Not all growth comes from scaling up. Sometimes fixing inefficiencies and cutting waste is the most valuable growth."
+        domain: campaign-strategy
+        source: YTCH
+      - id: "FIL-JL-409"
+        title: "Your Stubbornness Is Killing Your Results"
+        content: "Advertisers who refuse to adapt to platform changes and insist on old methods will consistently underperform."
+        domain: facebook-ads
+        source: YTCH
+      - id: "FIL-JL-410"
+        title: "Doing Things the Right Way"
+        content: "Taking shortcuts in Facebook ads leads to account shutdowns and wasted budgets. Follow the rules and build sustainably."
+        domain: facebook-ads
+        source: YTCH
+      - id: "FIL-JL-411"
+        title: "The Algorithm Is Literal"
+        content: "The algorithm will literally get you what you asked for. If you asked for link clicks, you will get clickers, not buyers."
+        domain: optimization
+        source: YTCH
+      - id: "FIL-JL-412"
+        title: "Challenge Every Choice That Adds Complexity"
+        content: "Every additional campaign, ad set, targeting restriction, or manual override should be justified. Default to simplicity."
+        domain: campaign-strategy
+        source: YTCH
+      # === NEW YTCH: Creative (500-510) ===
+      - id: "FIL-JL-500"
+        title: "Don't Get Emotionally Attached to Your Ads"
+        content: "The moment you fall in love with a specific ad is the moment you stop being objective about its performance."
+        domain: creative-strategy
+        source: YTCH
+      - id: "FIL-JL-501"
+        title: "Features Don't Sell Pain Does"
+        content: "Focus on the pain your product solves rather than listing features. People buy solutions to problems they feel."
+        domain: creative-strategy
+        source: YTCH
+      - id: "FIL-JL-502"
+        title: "Creative Testing Must Be Part of Your Process"
+        content: "Creative testing should not be an occasional event but a permanent part of your advertising workflow."
+        domain: creative-strategy
+        source: YTCH
+      - id: "FIL-JL-503"
+        title: "Text in Images Still Works"
+        content: "The old 20% text rule is gone. Text in images can work extremely well for certain audiences and messages."
+        domain: creative-strategy
+        source: YTCH
+      - id: "FIL-JL-504"
+        title: "Stack Creative Diversity in Phases"
+        content: "Don't overwhelm yourself with massive creative diversification. Build it up gradually phase by phase."
+        domain: creative-strategy
+        source: YTCH
+      - id: "FIL-JL-505"
+        title: "Spirit of Creative Diversity"
+        content: "Approach ad creation in the spirit of creative diversity. Always be conscious of generating more text and visual options."
+        domain: creative-strategy
+        source: YTCH
+      - id: "FIL-JL-506"
+        title: "Advantage+ Creative Enhancements Deserve a Chance"
+        content: "Many advertisers reflexively disable all AI enhancements without testing them. Give them a fair chance."
+        domain: creative-strategy
+        source: YTCH
+      - id: "FIL-JL-507"
+        title: "What Meta Isn't Telling You About Creative"
+        content: "Meta pushes creative diversification because it benefits their system, but the underlying principle is still sound for advertisers."
+        domain: creative-strategy
+        source: YTCH
+      - id: "FIL-JL-508"
+        title: "Focus on What and Why Not How"
+        content: "Understand what you want to achieve and why before obsessing over the tactical how of ad setup."
+        domain: creative-strategy
+        source: YTCH
+      - id: "FIL-JL-509"
+        title: "Let Results Be Your Guide"
+        content: "Stop relying on theory and best practices alone. Run the experiment and let actual results tell you what works."
+        domain: facebook-ads
+        source: YTCH
+      - id: "FIL-JL-510"
+        title: "Create More Than Anyone Else"
+        content: "Volume of creative output is a competitive advantage. The more you create, the more data points you have to learn from."
+        domain: creative-strategy
+        source: YTCH
+      # === NEW YTCH: Business/AI (600-614) ===
+      - id: "FIL-JL-600"
+        title: "Meta Vision to Replace Agencies with AI"
+        content: "Zuckerberg vision is that any business tells Meta what they want and how much to pay, and Meta does the rest. This is probable."
+        domain: ai-advertising
+        source: YTCH
+      - id: "FIL-JL-601"
+        title: "AI Won't Make Your Job Obsolete Yet"
+        content: "AI tools like ChatGPT are best for idea generation and content repurposing, not for replacing strategic advertising decisions."
+        domain: ai-advertising
+        source: YTCH
+      - id: "FIL-JL-602"
+        title: "Be Ethical to a Fault"
+        content: "Don't give anyone a reason to believe you might be doing something unethical. Being ethical is a commitment with long-term benefits."
+        domain: business-ethics
+        source: YTCH
+      - id: "FIL-JL-603"
+        title: "Beware of Fake Advertising Experts"
+        content: "The industry is full of gurus selling complicated strategies that sound impressive but actually hurt results."
+        domain: business-ethics
+        source: YTCH
+      - id: "FIL-JL-604"
+        title: "Stubborn Consistency Creates Results"
+        content: "Publishing content consistently over long periods compounds into authority and audience. The secret is showing up daily."
+        domain: content-creation
+        source: YTCH
+      - id: "FIL-JL-605"
+        title: "The Importance of Streaks"
+        content: "Maintaining productive routines and streaks creates momentum that compounds. Breaking a streak has outsized negative effects."
+        domain: content-creation
+        source: YTCH
+      - id: "FIL-JL-606"
+        title: "Pick the Right Client"
+        content: "The wrong client costs you money, time, and energy. The right client lets you do your job and has realistic expectations."
+        domain: business-strategy
+        source: YTCH
+      - id: "FIL-JL-607"
+        title: "Should You Be Everywhere"
+        content: "Being on every platform is not necessary. Focus on the platforms where your audience is and where you can be consistent."
+        domain: content-creation
+        source: YTCH
+      - id: "FIL-JL-608"
+        title: "AI Chatbots Trained on Your Content"
+        content: "Training AI chatbots on your existing content library can provide immediate value to your audience around the clock."
+        domain: ai-advertising
+        source: YTCH
+      - id: "FIL-JL-609"
+        title: "We Don't Like Change"
+        content: "Advertisers resist platform changes because it threatens their way of life. But adaptation is the only path to continued success."
+        domain: facebook-ads
+        source: YTCH
+      - id: "FIL-JL-610"
+        title: "A Little Bit of Luck"
+        content: "Success in advertising includes an element of luck and timing. Acknowledge it rather than attributing everything to skill."
+        domain: business-strategy
+        source: YTCH
+      - id: "FIL-JL-611"
+        title: "Let Go of the Excuses"
+        content: "Stop blaming the platform, the algorithm, or external factors. Focus on what you can control and improve."
+        domain: business-strategy
+        source: YTCH
+      - id: "FIL-JL-612"
+        title: "AI-Driven Search Changes Everything"
+        content: "AI search engines like ChatGPT citing your website as a source represents a new form of organic referral traffic."
+        domain: ai-advertising
+        source: YTCH
+      - id: "FIL-JL-613"
+        title: "Introverts Can Succeed at Video"
+        content: "Recording videos for business is difficult for introverts but the discomfort decreases with practice and consistency."
+        domain: content-creation
+        source: YTCH
+      - id: "FIL-JL-614"
+        title: "Republish Underperforming Videos"
+        content: "Videos that underperformed deserve a second chance. Republishing with tweaks can find a new audience."
+        domain: content-creation
+        source: YTCH
+      # === NEW YTCH: Platform/Tutorials (700-711) ===
+      - id: "FIL-JL-700"
+        title: "Understand How the System Actually Works"
+        content: "Invest time into how things work. Pay attention to what Meta says about the mechanics, not the PR spin."
+        domain: facebook-ads
+        source: YTCH
+      - id: "FIL-JL-701"
+        title: "The Learning Phase Is Just a Label"
+        content: "The learning phase label scares advertisers into bad decisions. It is a normal process and performance stabilizes after it."
+        domain: optimization
+        source: YTCH
+      - id: "FIL-JL-702"
+        title: "Know and Follow the Rules"
+        content: "Some ad policy rules are not obvious. Read them and know them. Ignorance is not an excuse when your account gets shut down."
+        domain: facebook-ads
+        source: YTCH
+      - id: "FIL-JL-703"
+        title: "Conversions API Is Essential"
+        content: "The pixel alone is no longer enough. Conversions API provides server-side tracking that closes the data gap from browser restrictions."
+        domain: tracking
+        source: YTCH
+      - id: "FIL-JL-704"
+        title: "Stop Blaming the System"
+        content: "Stop blaming Andromeda, the algorithm, or Meta for your results. The system works but requires good inputs from you."
+        domain: facebook-ads
+        source: YTCH
+      - id: "FIL-JL-705"
+        title: "Your Budget Is Not Too Small"
+        content: "A small budget is not an excuse for failure. It means you need to be smarter about simplicity and optimization choices."
+        domain: budget-management
+        source: YTCH
+      - id: "FIL-JL-706"
+        title: "Avoid the Bottomless Pit of Despair"
+        content: "Don't keep spending on campaigns that clearly aren't working hoping they will turn around. Set clear stop-loss criteria."
+        domain: campaign-strategy
+        source: YTCH
+      - id: "FIL-JL-707"
+        title: "Campaign Automation Has Pros and Cons"
+        content: "Meta campaign automation tools are improving but still require human oversight for quality and strategic direction."
+        domain: optimization
+        source: YTCH
+      - id: "FIL-JL-708"
+        title: "Meta Is Bad at Naming Stuff"
+        content: "Confusing feature names like Advantage+ create unnecessary confusion. Focus on what the feature does, not what it is called."
+        domain: facebook-ads
+        source: YTCH
+      - id: "FIL-JL-709"
+        title: "Frequency Is Not Your Problem"
+        content: "High frequency is a symptom, not a cause. The real problem is usually creative fatigue or audience saturation."
+        domain: measurement
+        source: YTCH
+      - id: "FIL-JL-710"
+        title: "Overthinking Your Ad Setup"
+        content: "Most advertisers overthink campaign structure. A simpler setup with good creative outperforms complex structures with mediocre creative."
+        domain: campaign-strategy
+        source: YTCH
+      - id: "FIL-JL-711"
+        title: "Simple Isn't Always Better"
+        content: "While simplicity is the default, there are legitimate reasons to add complexity. The key is having a clear justification."
+        domain: campaign-strategy
+        source: YTCH
   L2_MENTAL_MODELS:
-    count: 12
+    count: 74
     items:
+      # === EXISTING SFAS (12 items) ===
       - id: "MM-JL-001"
         title: "Audience Burnout Model"
         content: "Algorithm finds best converters first. Quality decreases as budget increases within same audience. Solution: horizontal scaling"
@@ -129,7 +550,7 @@ layers:
         source: SFAS
       - id: "MM-JL-008"
         title: "Lookalike Decay Curve"
-        content: "1% lookalikes wear out after ~$2,500 spend. Performance declines in 3 phases: most relevant → slightly less → much lower quality"
+        content: "1% lookalikes wear out after ~$2,500 spend. Performance declines in 3 phases: most relevant > slightly less > much lower quality"
         domain: audience-optimization
         source: SFAS
       - id: "MM-JL-009"
@@ -152,10 +573,327 @@ layers:
         content: "Excluding 1% from 2% (nesting) can hurt performance. Facebook is smart enough to know the difference with sufficient data"
         domain: audience-optimization
         source: SFAS
-
+      # === NEW YTCH: 20 Factors (080-087) ===
+      - id: "MM-JL-080"
+        title: "20 Factors Interdependency Model"
+        content: "Ad results are determined by 20 interrelated factors. Fixing one while ignoring others will not fix overall performance."
+        domain: facebook-ads
+        source: YTCH
+      - id: "MM-JL-081"
+        title: "Control Spectrum Model"
+        content: "Factors range from full control (creative, copy) to partial control (bidding, targeting) to no control (competition, algorithm)."
+        domain: facebook-ads
+        source: YTCH
+      - id: "MM-JL-082"
+        title: "Cost Cap vs Bid Cap vs Auto Bidding"
+        content: "Cost Cap balances volume and cost. Bid Cap controls max bid. Auto Bidding maximizes volume. Each fits different scaling goals."
+        domain: bidding-strategy
+        source: YTCH
+      - id: "MM-JL-083"
+        title: "Email List as Signal Amplifier"
+        content: "A quality email list feeds the algorithm with high-quality seed data. Bigger list equals better optimization signals."
+        domain: audience-optimization
+        source: YTCH
+      - id: "MM-JL-084"
+        title: "Ad Format Impact Hierarchy"
+        content: "Different ad formats grab attention differently. Video for storytelling, carousel for products, static for direct response. Match format to intent."
+        domain: creative-strategy
+        source: YTCH
+      - id: "MM-JL-085"
+        title: "Pixel Event Hierarchy"
+        content: "Higher-value events like purchase provide stronger optimization signals than lower events like page view. Optimize as high as possible."
+        domain: tracking
+        source: YTCH
+      - id: "MM-JL-086"
+        title: "Website Performance Multiplier"
+        content: "A fast, well-designed website multiplies ad effectiveness. A slow site wastes ad spend regardless of campaign quality."
+        domain: landing-pages
+        source: YTCH
+      - id: "MM-JL-087"
+        title: "Purchase Intent Gradient"
+        content: "Different users have different intent levels. The algorithm finds highest-intent users first, then works down the gradient."
+        domain: audience-optimization
+        source: YTCH
+      # === NEW YTCH: Attribution (200-211) ===
+      - id: "MM-JL-200"
+        title: "Attribution Window Mental Model"
+        content: "7-day click and 1-day view is the default window. Changing it changes what gets reported and what gets optimized."
+        domain: attribution
+        source: YTCH
+      - id: "MM-JL-201"
+        title: "Attribution Setting Cascade"
+        content: "Attribution setting affects three things in order: what Meta optimizes for, what Meta reports, and what you think is working."
+        domain: attribution
+        source: YTCH
+      - id: "MM-JL-202"
+        title: "Incremental vs Non-Incremental"
+        content: "Some conversions would happen without ads (non-incremental). Incremental attribution tries to isolate the ones ads actually caused."
+        domain: attribution
+        source: YTCH
+      - id: "MM-JL-203"
+        title: "Aggregated Event Measurement Model"
+        content: "Post-iOS 14, Meta uses aggregated event measurement with priority ranking. Only 8 events per domain, ranked by importance."
+        domain: attribution
+        source: YTCH
+      - id: "MM-JL-204"
+        title: "Compare Windows Analysis"
+        content: "Comparing different attribution windows side by side reveals how much of your reported success comes from views vs clicks."
+        domain: attribution
+        source: YTCH
+      - id: "MM-JL-205"
+        title: "Hidden Purchases in Traffic Campaigns"
+        content: "Traffic campaigns can generate purchases that never show in results because you optimized for clicks, not conversions."
+        domain: attribution
+        source: YTCH
+      - id: "MM-JL-206"
+        title: "Remarketing Attribution Illusion"
+        content: "Remarketing often gets credit for conversions that were already going to happen. The 80-20 rule applies: 80% of value from prospecting."
+        domain: attribution
+        source: YTCH
+      - id: "MM-JL-207"
+        title: "CPM as Quality Signal"
+        content: "Higher CPM can actually indicate reaching higher-quality audiences. Lower CPM doesn't always mean better value."
+        domain: measurement
+        source: YTCH
+      - id: "MM-JL-208"
+        title: "Cost Per Lead Is Mostly Meaningless"
+        content: "CPL without knowing lead-to-sale conversion rate and average value per lead is an incomplete and misleading metric."
+        domain: measurement
+        source: YTCH
+      - id: "MM-JL-209"
+        title: "Metrics That Actually Matter"
+        content: "Focus on cost per result, ROAS, and quality indicators rather than vanity metrics like reach, impressions, or CTR alone."
+        domain: measurement
+        source: YTCH
+      - id: "MM-JL-210"
+        title: "28-Day Click Return Theory"
+        content: "Meta can bring back longer attribution windows using probabilistic modeling and improved data systems post-iOS."
+        domain: attribution
+        source: YTCH
+      - id: "MM-JL-211"
+        title: "Value Rules for Attribution Fix"
+        content: "Value rules allow you to tell Meta that certain conversions are worth more, correcting for attribution blind spots."
+        domain: attribution
+        source: YTCH
+      # === NEW YTCH: Audience (300-308) ===
+      - id: "MM-JL-300"
+        title: "Advantage+ Audience as Broad Remarketing"
+        content: "Without audience suggestions, Advantage+ starts with what is essentially a broad remarketing campaign using pixel history and prior conversions."
+        domain: audience-targeting
+        source: YTCH
+      - id: "MM-JL-301"
+        title: "Audience Expansion Is the Default"
+        content: "Even with original audiences, detailed targeting and lookalikes are often expanded. They are suggestions, not restrictions."
+        domain: audience-targeting
+        source: YTCH
+      - id: "MM-JL-302"
+        title: "Auction Overlap Model"
+        content: "Auction overlap between ad sets causes you to bid against yourself. Consolidation reduces overlap and improves efficiency."
+        domain: audience-targeting
+        source: YTCH
+      - id: "MM-JL-303"
+        title: "Broad Targeting Failure Modes"
+        content: "Broad targeting fails with top-of-funnel optimizations like link clicks because the algorithm finds cheap clickers, not buyers."
+        domain: audience-targeting
+        source: YTCH
+      - id: "MM-JL-304"
+        title: "Custom Audience Expansion Risk"
+        content: "Meta testing custom audience expansion means your carefully curated audiences may be expanded beyond your intended scope."
+        domain: audience-targeting
+        source: YTCH
+      - id: "MM-JL-305"
+        title: "Targeting as Suggestion Layer"
+        content: "Think of targeting inputs as a suggestion layer on top of algorithmic optimization, not as a hard constraint on delivery."
+        domain: audience-targeting
+        source: YTCH
+      - id: "MM-JL-306"
+        title: "Behavioral Advertising Ban Impact"
+        content: "If behavioral targeting gets banned in certain regions, it accelerates the shift to creative-driven audience discovery."
+        domain: audience-targeting
+        source: YTCH
+      - id: "MM-JL-307"
+        title: "Exclusion as Only True Targeting"
+        content: "Excluding customers from prospecting campaigns is one of the few targeting actions that still provides clear value."
+        domain: audience-targeting
+        source: YTCH
+      - id: "MM-JL-308"
+        title: "Meta Forcing Top-of-Funnel Expansion"
+        content: "Meta is forcing audience expansion for top-of-funnel optimizations. This is by design, not a bug."
+        domain: audience-targeting
+        source: YTCH
+      # === NEW YTCH: Campaign (400-408) ===
+      - id: "MM-JL-400"
+        title: "Four Traits of Successful Advertisers"
+        content: "Simplicity, experimentation, understanding the system, and adaptability. These four traits predict advertising success."
+        domain: campaign-strategy
+        source: YTCH
+      - id: "MM-JL-401"
+        title: "Baseball Manager Analogy"
+        content: "Like a baseball manager, advertisers must make strategic decisions without controlling every outcome. Set up conditions for success."
+        domain: campaign-strategy
+        source: YTCH
+      - id: "MM-JL-402"
+        title: "Andromeda Retrieval Engine"
+        content: "Andromeda finds a pool of eligible ads. Optimization decides which enter the auction. The auction decides which wins."
+        domain: optimization
+        source: YTCH
+      - id: "MM-JL-403"
+        title: "Performance Goal Drives Everything"
+        content: "There are 21+ performance goals. Each one changes who sees your ads and how delivery works. Choose wisely."
+        domain: optimization
+        source: YTCH
+      - id: "MM-JL-404"
+        title: "Ads Funnel Model Updated"
+        content: "The traditional TOFU/MOFU/BOFU funnel still exists but the boundaries are blurred by algorithmic delivery and broad targeting."
+        domain: campaign-strategy
+        source: YTCH
+      - id: "MM-JL-405"
+        title: "Reach Optimization Mental Model"
+        content: "Reach optimization shows ads to as many unique people as possible. Useful for awareness but terrible for conversion goals."
+        domain: optimization
+        source: YTCH
+      - id: "MM-JL-406"
+        title: "Seasonal Campaign Architecture"
+        content: "Seasonal campaigns need different lead times, budgets, and creative strategies depending on the buying cycle length."
+        domain: campaign-strategy
+        source: YTCH
+      - id: "MM-JL-407"
+        title: "Long Buying Cycle Model"
+        content: "Products with long buying cycles need nurture-focused campaigns. Direct response optimization won't capture delayed conversions."
+        domain: campaign-strategy
+        source: YTCH
+      - id: "MM-JL-408"
+        title: "Multiple Campaigns Decision Model"
+        content: "Use multiple campaigns only when you need separate budgets for distinct goals. Otherwise, consolidate for better optimization."
+        domain: campaign-strategy
+        source: YTCH
+      # === NEW YTCH: Creative (500-507) ===
+      - id: "MM-JL-500"
+        title: "Creative as Targeting Mechanism"
+        content: "With broad audiences, creative is what self-selects the right audience. Different creative attracts different people."
+        domain: creative-strategy
+        source: YTCH
+      - id: "MM-JL-501"
+        title: "Creative Testing Revisited"
+        content: "Old-school A/B testing of individual creative elements is less valuable when the algorithm handles distribution dynamically."
+        domain: creative-strategy
+        source: YTCH
+      - id: "MM-JL-502"
+        title: "Creative Diversity vs Creative Volume"
+        content: "Diversity means different themes and messages. Volume means more of the same. Meta wants diversity, not just volume."
+        domain: creative-strategy
+        source: YTCH
+      - id: "MM-JL-503"
+        title: "Placement Customization Model"
+        content: "Customizing creative by placement ensures your ad looks native everywhere. One size does not fit all placements."
+        domain: creative-strategy
+        source: YTCH
+      - id: "MM-JL-504"
+        title: "Short-Form Video Length Model"
+        content: "Ideal short-form video length depends on platform and content type. There is no universal magic number."
+        domain: creative-strategy
+        source: YTCH
+      - id: "MM-JL-505"
+        title: "Creative Fatigue Cycle"
+        content: "Creative fatigue follows a predictable cycle: strong start, gradual decline, plateau, sharp drop. Refresh before the sharp drop."
+        domain: creative-strategy
+        source: YTCH
+      - id: "MM-JL-506"
+        title: "Dynamic Creative Obsolescence"
+        content: "Dynamic creative optimization is being replaced by Advantage+ creative. The algorithm handles variation better than manual splits."
+        domain: creative-strategy
+        source: YTCH
+      - id: "MM-JL-507"
+        title: "What to Do With Creative Testing Results"
+        content: "Creative testing results inform future creative direction, not just winner/loser decisions. Learn patterns, not just pick winners."
+        domain: creative-strategy
+        source: YTCH
+      # === NEW YTCH: Business/AI (600-606) ===
+      - id: "MM-JL-600"
+        title: "Agency Replacement Timeline"
+        content: "Full AI replacement of agencies is years away but the direction is clear. Agencies must evolve from execution to strategy."
+        domain: ai-advertising
+        source: YTCH
+      - id: "MM-JL-601"
+        title: "AI Content Flywheel"
+        content: "AI helps create more content faster. More content means more data. More data means better AI outputs. The flywheel accelerates."
+        domain: ai-advertising
+        source: YTCH
+      - id: "MM-JL-602"
+        title: "Content Publishing Compound Effect"
+        content: "Publishing one video per day compounds over years into a massive searchable library that generates passive authority."
+        domain: content-creation
+        source: YTCH
+      - id: "MM-JL-603"
+        title: "Three Phases of Procrastination"
+        content: "Procrastination in content creation follows three phases: avoidance, guilt, and panic. Breaking the cycle requires routine."
+        domain: content-creation
+        source: YTCH
+      - id: "MM-JL-604"
+        title: "Ideal Client Selection Model"
+        content: "Ideal clients let you do your job, have realistic expectations, have a quality product, and invest adequately in their business."
+        domain: business-strategy
+        source: YTCH
+      - id: "MM-JL-605"
+        title: "Future of Search Model"
+        content: "AI-driven search will reduce traditional website referral traffic. Content creators must adapt to being cited by AI, not clicked."
+        domain: ai-advertising
+        source: YTCH
+      - id: "MM-JL-606"
+        title: "Reels Impact on Instagram Growth"
+        content: "Reels drive discovery but not necessarily follower growth or engagement depth. Short-form video has diminishing returns for authority."
+        domain: content-creation
+        source: YTCH
+      # === NEW YTCH: Platform (700-708) ===
+      - id: "MM-JL-700"
+        title: "Auction Three Components"
+        content: "The auction has three components: bid, estimated action rate, and user value. Highest total value wins, not highest bidder."
+        domain: optimization
+        source: YTCH
+      - id: "MM-JL-701"
+        title: "Learning Phase 25-50 Events Model"
+        content: "The learning phase needs 25-50 optimized events in 7 days. Below that, performance remains unstable and suboptimal."
+        domain: optimization
+        source: YTCH
+      - id: "MM-JL-702"
+        title: "CAPI vs Pixel Complementary Model"
+        content: "Pixel captures browser-side events. CAPI captures server-side events. Together they provide complete conversion data."
+        domain: tracking
+        source: YTCH
+      - id: "MM-JL-703"
+        title: "API Gateway as Best CAPI Method"
+        content: "The API Gateway is the most reliable CAPI setup method because it works regardless of website platform."
+        domain: tracking
+        source: YTCH
+      - id: "MM-JL-704"
+        title: "Custom Events for Micro-Conversions"
+        content: "Custom pixel events let you track micro-conversions like scroll depth, time on page, and video watches for better optimization."
+        domain: tracking
+        source: YTCH
+      - id: "MM-JL-705"
+        title: "Event Parameters for Richer Data"
+        content: "Adding parameters to events like content type, category, and value gives the algorithm richer signals for optimization."
+        domain: tracking
+        source: YTCH
+      - id: "MM-JL-706"
+        title: "Google Tag Manager as Pixel Manager"
+        content: "GTM provides more control and flexibility over pixel implementation than native Meta tools, especially for custom events."
+        domain: tracking
+        source: YTCH
+      - id: "MM-JL-707"
+        title: "Automated Rules as Safety Net"
+        content: "Automated rules prevent runaway spend and catch performance drops. They are a safety net, not a replacement for monitoring."
+        domain: optimization
+        source: YTCH
+      - id: "MM-JL-708"
+        title: "iOS 14 Long-Term Impact Model"
+        content: "The biggest negative impact of iOS 14 was not lost tracking but the shift in advertiser behavior toward over-correcting."
+        domain: tracking
+        source: YTCH
   L3_HEURISTICS:
-    count: 29
+    count: 140
     items:
+      # === EXISTING SFAS (29 items) ===
       - id: "HEUR-JL-001"
         title: "Lookalike Spend Threshold"
         content: "1% lookalikes wear out after ~$2,500 spend"
@@ -188,7 +926,7 @@ layers:
         source: SFAS
       - id: "HEUR-JL-006"
         title: "Minimum Monthly Spend"
-        content: "2 ad sets × ~$15/day = $900/month bare minimum for meaningful scaling"
+        content: "2 ad sets x ~$15/day = $900/month bare minimum for meaningful scaling"
         threshold: "$900/month"
         domain: budget-management
         source: SFAS
@@ -261,7 +999,7 @@ layers:
       - id: "HEUR-JL-018"
         title: "Pixel Seasoning Spend"
         content: "Seasoned pixel starts at $10K/month minimum for at least 2 months"
-        threshold: "$10K/mo × 2mo"
+        threshold: "$10K/mo x 2mo"
         domain: pixel-optimization
         source: SFAS
       - id: "HEUR-JL-019"
@@ -309,7 +1047,7 @@ layers:
       - id: "HEUR-JL-026"
         title: "CPA Control Bid Method"
         content: "To control CPA: set manual bid 10% above goal, decrease over 72h stabilization to match CPA"
-        threshold: "+10% → CPA over 72h"
+        threshold: "+10% then CPA over 72h"
         domain: bidding-strategy
         source: SFAS
       - id: "HEUR-JL-027"
@@ -329,10 +1067,683 @@ layers:
         threshold: "14 > 45 days"
         domain: scaling
         source: SFAS
-
+      # === NEW YTCH: 20 Factors (080-093) ===
+      - id: "HEUR-JL-080"
+        title: "Bid Too Low Kills Distribution"
+        content: "Manual bids set too low result in zero distribution or reaching only the cheapest, lowest-quality people."
+        threshold: "bid > minimum auction threshold"
+        domain: bidding-strategy
+        source: YTCH
+      - id: "HEUR-JL-081"
+        title: "Target Cost for Scaling"
+        content: "If you plan on scaling and increasing your budget, Target Cost may be the best option for manual bidding."
+        threshold: "use target cost when scaling"
+        domain: bidding-strategy
+        source: YTCH
+      - id: "HEUR-JL-082"
+        title: "Stock Imagery Avoidance"
+        content: "Stock imagery is detectable and reduces trust. Use original photos or user-generated content whenever possible."
+        threshold: "avoid stock images"
+        domain: creative-strategy
+        source: YTCH
+      - id: "HEUR-JL-083"
+        title: "Copy Length Depends on Product"
+        content: "Short copy works for simple products. Longer copy works for expensive or complex products that need explanation."
+        threshold: "match copy length to product complexity"
+        domain: creative-strategy
+        source: YTCH
+      - id: "HEUR-JL-084"
+        title: "Landing Page Must Match Ad Promise"
+        content: "If your ad promises X and the landing page delivers Y, conversion rates collapse. Follow through on every promise."
+        threshold: "100% ad-to-landing alignment"
+        domain: landing-pages
+        source: YTCH
+      - id: "HEUR-JL-085"
+        title: "Mobile Speed Threshold"
+        content: "If your landing page takes more than 3 seconds to load on mobile, you lose the majority of your traffic."
+        threshold: "< 3 seconds mobile load"
+        domain: landing-pages
+        source: YTCH
+      - id: "HEUR-JL-086"
+        title: "Small Sample Decision Ban"
+        content: "Do not make optimization decisions based on fewer than 50 conversions. Results can change dramatically with more data."
+        threshold: ">= 50 conversions before deciding"
+        domain: measurement
+        source: YTCH
+      - id: "HEUR-JL-087"
+        title: "Optimization for Higher Events"
+        content: "If you cannot get 50 conversions per week on purchase, move the optimization event up to add-to-cart or initiate checkout."
+        threshold: "move up if < 50/week"
+        domain: optimization
+        source: YTCH
+      - id: "HEUR-JL-088"
+        title: "Budget vs Results Expectation"
+        content: "A $5/day budget cannot deliver purchase optimization results. Match your budget to your optimization event cost."
+        threshold: "daily budget >= 5x expected CPA"
+        domain: budget-management
+        source: YTCH
+      - id: "HEUR-JL-089"
+        title: "Website Traffic Quality Check"
+        content: "If you drive website traffic, check Google Analytics for bounce rate and time on site. High bounce = wasted ad spend."
+        threshold: "bounce rate < 70%"
+        domain: landing-pages
+        source: YTCH
+      - id: "HEUR-JL-090"
+        title: "Email List Minimum for Lookalikes"
+        content: "You need at least 1,000 quality emails for a meaningful lookalike audience. More is better for algorithm accuracy."
+        threshold: ">= 1,000 emails"
+        domain: audience-optimization
+        source: YTCH
+      - id: "HEUR-JL-091"
+        title: "Frequency as Symptom Not Cause"
+        content: "High frequency alone is not a problem. High frequency plus declining results means creative refresh is needed."
+        threshold: "frequency alone is not actionable"
+        domain: measurement
+        source: YTCH
+      - id: "HEUR-JL-092"
+        title: "Ad Placement Default to Automatic"
+        content: "Unless you have a specific reason, use Advantage+ placements. Manual placement restriction limits the algorithm."
+        threshold: "default = automatic placements"
+        domain: campaign-strategy
+        source: YTCH
+      - id: "HEUR-JL-093"
+        title: "Campaign Budget Optimization Default"
+        content: "Use campaign budget optimization as default. It distributes budget to best-performing ad sets automatically."
+        threshold: "CBO as default"
+        domain: budget-management
+        source: YTCH
+      # === NEW YTCH: Attribution (200-216) ===
+      - id: "HEUR-JL-200"
+        title: "Pixel Plus CAPI Setup Required"
+        content: "Using only the pixel is insufficient. You must also set up Conversions API for complete data collection."
+        threshold: "pixel + CAPI = mandatory"
+        domain: tracking
+        source: YTCH
+      - id: "HEUR-JL-201"
+        title: "Improper Setup Is Mistake Number One"
+        content: "The most common attribution mistake is improper or incomplete setup of the pixel or Conversions API."
+        threshold: "verify setup before spending"
+        domain: tracking
+        source: YTCH
+      - id: "HEUR-JL-202"
+        title: "7-Day Click Default Window"
+        content: "The default attribution window is 7-day click, 1-day view. Start here unless you have a specific reason to change."
+        threshold: "7d click / 1d view default"
+        domain: attribution
+        source: YTCH
+      - id: "HEUR-JL-203"
+        title: "View-Through Count Threshold"
+        content: "If view-through conversions exceed 50% of total, investigate whether they are genuinely ad-influenced."
+        threshold: "view-through < 50% of total"
+        domain: attribution
+        source: YTCH
+      - id: "HEUR-JL-204"
+        title: "Most Recent Click Gets Credit"
+        content: "When multiple ads are shown, the ad with the most recent click gets credit. Views only count if no click occurred."
+        threshold: "last click wins"
+        domain: attribution
+        source: YTCH
+      - id: "HEUR-JL-205"
+        title: "Incremental Attribution Baseline"
+        content: "Compare incremental results vs total results. A large gap suggests many conversions would happen without ads."
+        threshold: "incremental < 70% of total = investigate"
+        domain: attribution
+        source: YTCH
+      - id: "HEUR-JL-206"
+        title: "Too-Good-To-Be-True Test"
+        content: "If your remarketing ROAS is dramatically higher than prospecting, it likely includes non-incremental conversions."
+        threshold: "remarketing ROAS > 5x prospecting = question it"
+        domain: attribution
+        source: YTCH
+      - id: "HEUR-JL-207"
+        title: "GA vs Meta Discrepancy Is Normal"
+        content: "Expect 20-40% discrepancy between GA and Meta reporting. This is structural, not an error."
+        threshold: "20-40% discrepancy normal"
+        domain: attribution
+        source: YTCH
+      - id: "HEUR-JL-208"
+        title: "8 Events Per Domain Limit"
+        content: "Post-iOS 14, you can only configure 8 conversion events per domain. Prioritize purchase and lead events."
+        threshold: "max 8 events per domain"
+        domain: tracking
+        source: YTCH
+      - id: "HEUR-JL-209"
+        title: "Conversion Window Affects Optimization"
+        content: "A shorter attribution window gives the algorithm less data to work with, which can hurt optimization."
+        threshold: "wider window = more data = better optimization"
+        domain: attribution
+        source: YTCH
+      - id: "HEUR-JL-210"
+        title: "Compare Windows to Find True Value"
+        content: "Always compare 1-day click, 7-day click, and 1-day view side by side to understand where conversions actually come from."
+        threshold: "compare all 3 windows"
+        domain: attribution
+        source: YTCH
+      - id: "HEUR-JL-211"
+        title: "Remarketing 80-20 Budget Rule"
+        content: "Allocate roughly 80% of budget to prospecting and 20% to remarketing. Most value comes from finding new customers."
+        threshold: "80% prospecting / 20% remarketing"
+        domain: budget-management
+        source: YTCH
+      - id: "HEUR-JL-212"
+        title: "CPM Higher Is Not Always Bad"
+        content: "A higher CPM with better conversion rates is more valuable than low CPM with poor conversions."
+        threshold: "evaluate CPM relative to conversion rate"
+        domain: measurement
+        source: YTCH
+      - id: "HEUR-JL-213"
+        title: "Lead Value Over Lead Cost"
+        content: "Calculate value per lead (revenue / leads) not just cost per lead. A $20 lead that converts is better than a $5 lead that doesn't."
+        threshold: "value per lead > cost per lead"
+        domain: measurement
+        source: YTCH
+      - id: "HEUR-JL-214"
+        title: "30 Metrics Report Standard"
+        content: "Maintain a saved report with 30 key metrics that you apply to every campaign regardless of objective."
+        threshold: "30 metrics saved report"
+        domain: reporting
+        source: YTCH
+      - id: "HEUR-JL-215"
+        title: "Confirmation Bias Check"
+        content: "When results confirm your beliefs, actively look for contradicting evidence. The more certain you feel, the more you should question."
+        threshold: "always seek contradicting data"
+        domain: measurement
+        source: YTCH
+      - id: "HEUR-JL-216"
+        title: "Drop in Prices Has Five Causes"
+        content: "A drop in ad prices usually means: less competition, lower-quality audience, seasonal dip, algorithm change, or measurement error."
+        threshold: "investigate 5 causes for price drops"
+        domain: measurement
+        source: YTCH
+      # === NEW YTCH: Audience (300-315) ===
+      - id: "HEUR-JL-300"
+        title: "Advantage+ Audience On By Default"
+        content: "Advantage+ audience is on by default for every objective and optimization. You must actively choose to turn it off."
+        threshold: "on by default"
+        domain: audience-targeting
+        source: YTCH
+      - id: "HEUR-JL-301"
+        title: "New Account Needs Audience Suggestions"
+        content: "Brand new pixels or accounts with no history benefit from audience suggestions since there is no data to start with."
+        threshold: "use suggestions for new accounts"
+        domain: audience-targeting
+        source: YTCH
+      - id: "HEUR-JL-302"
+        title: "Niche Products Need Suggestions"
+        content: "Highly niche products may benefit from audience suggestions to give the algorithm initial direction."
+        threshold: "use suggestions for niche products"
+        domain: audience-targeting
+        source: YTCH
+      - id: "HEUR-JL-303"
+        title: "Original Audiences for Remarketing"
+        content: "Use original audience options instead of Advantage+ when running specific remarketing like abandoned cart."
+        threshold: "original audiences for specific remarketing"
+        domain: audience-targeting
+        source: YTCH
+      - id: "HEUR-JL-304"
+        title: "Broad Targeting Best for Purchases"
+        content: "Broad targeting is ideal for purchase optimization. Worst for top-of-funnel actions like link clicks or engagement."
+        threshold: "broad = purchases only"
+        domain: audience-targeting
+        source: YTCH
+      - id: "HEUR-JL-305"
+        title: "6 Common Targeting Mistakes"
+        content: "Over-narrowing, too many ad sets, ignoring expansion, fighting the algorithm, using outdated methods, not testing broad."
+        threshold: "avoid these 6 mistakes"
+        domain: audience-targeting
+        source: YTCH
+      - id: "HEUR-JL-306"
+        title: "Auction Overlap Threshold"
+        content: "Auction overlap becomes concerning when ad sets compete for the same people, driving up your own costs."
+        threshold: "consolidate when overlap > 30%"
+        domain: audience-targeting
+        source: YTCH
+      - id: "HEUR-JL-307"
+        title: "Reduce Overlap with Automated Rules"
+        content: "Use automated rules to pause ad sets that have high overlap with better-performing ad sets."
+        threshold: "auto-pause overlapping losers"
+        domain: audience-targeting
+        source: YTCH
+      - id: "HEUR-JL-308"
+        title: "Exclude Customers from Prospecting"
+        content: "Always exclude existing customers from prospecting campaigns to avoid wasting budget on people who already bought."
+        threshold: "always exclude existing customers"
+        domain: audience-targeting
+        source: YTCH
+      - id: "HEUR-JL-309"
+        title: "Lead Quality Requires Lead Form Restrictions"
+        content: "Use higher-intent lead form types and restrict forms to targeted audiences to improve lead quality."
+        threshold: "restrict forms for quality"
+        domain: audience-targeting
+        source: YTCH
+      - id: "HEUR-JL-310"
+        title: "Advantage+ Shopping for E-Commerce"
+        content: "Advantage+ Shopping campaigns remove most targeting controls but can outperform manual campaigns for established e-commerce."
+        threshold: "test ASC for e-commerce"
+        domain: campaign-strategy
+        source: YTCH
+      - id: "HEUR-JL-311"
+        title: "Gated Content for Lead Quality"
+        content: "Gated content in lead ads forces users to provide real information, filtering out low-intent leads."
+        threshold: "gate content for higher quality"
+        domain: audience-targeting
+        source: YTCH
+      - id: "HEUR-JL-312"
+        title: "Custom Audience Window Selection"
+        content: "Shorter custom audience windows (7 days) have higher intent but smaller size. Longer windows (180 days) have more volume but less intent."
+        threshold: "7d = high intent / 180d = volume"
+        domain: audience-targeting
+        source: YTCH
+      - id: "HEUR-JL-313"
+        title: "Audience Network Mostly Avoid"
+        content: "Audience Network placement rarely delivers quality results. Only turn it on if you have verified it works for your specific case."
+        threshold: "off unless proven otherwise"
+        domain: campaign-strategy
+        source: YTCH
+      - id: "HEUR-JL-314"
+        title: "Value-Based Lookalike Superiority"
+        content: "Lifetime value based lookalike audiences outperform standard purchase lookalikes because they weight for customer quality."
+        threshold: "use LTV lookalikes when available"
+        domain: audience-targeting
+        source: YTCH
+      - id: "HEUR-JL-315"
+        title: "Targeting Audiences Meta Needs"
+        content: "Target the audiences that help Meta learn about your ideal customer, not the audiences you think you should target."
+        threshold: "feed the algorithm learning data"
+        domain: audience-targeting
+        source: YTCH
+      # === NEW YTCH: Campaign (400-413) ===
+      - id: "HEUR-JL-400"
+        title: "Fewest Campaigns Possible"
+        content: "Start with the fewest number of campaigns and ad sets. Only add more when you have a clear reason for each one."
+        threshold: "minimum viable structure"
+        domain: campaign-strategy
+        source: YTCH
+      - id: "HEUR-JL-401"
+        title: "21+ Performance Goals Available"
+        content: "There are at least 21 different performance goals. Most advertisers only need 2-3 of them."
+        threshold: "use 2-3 goals max"
+        domain: optimization
+        source: YTCH
+      - id: "HEUR-JL-402"
+        title: "Go Straight for What You Want"
+        content: "Set a performance goal that goes straight for what you want instead of dancing around it with proxy metrics."
+        threshold: "optimize for end goal directly"
+        domain: optimization
+        source: YTCH
+      - id: "HEUR-JL-403"
+        title: "Guru Strategies Usually Hurt"
+        content: "Most complicated guru strategies actually hurt results rather than help because they add unnecessary complexity."
+        threshold: "avoid guru-sold complexity"
+        domain: campaign-strategy
+        source: YTCH
+      - id: "HEUR-JL-404"
+        title: "Experimentation Is Skill Number One"
+        content: "The most successful advertisers have an underlying curiosity. They experiment rather than asking should I do this."
+        threshold: "experiment > theorize"
+        domain: campaign-strategy
+        source: YTCH
+      - id: "HEUR-JL-405"
+        title: "When Results Seem Too Good"
+        content: "If something seems too good to be true in your ad results, it probably is. Verify before scaling."
+        threshold: "verify outlier results before scaling"
+        domain: measurement
+        source: YTCH
+      - id: "HEUR-JL-406"
+        title: "Decline After 2-3 Weeks Is Natural"
+        content: "Meta finds the best people first. A decline after initial success is natural algorithm behavior, not a broken campaign."
+        threshold: "expect decline after 2-3 weeks"
+        domain: campaign-strategy
+        source: YTCH
+      - id: "HEUR-JL-407"
+        title: "Popup Warning for Landing Pages"
+        content: "Popups on landing pages can increase conversions but may also interfere with pixel tracking and user experience."
+        threshold: "test popups carefully"
+        domain: landing-pages
+        source: YTCH
+      - id: "HEUR-JL-408"
+        title: "Budget Not Spending Diagnosis"
+        content: "If your budget is not spending, check: audience too narrow, bid too low, creative rejected, or optimization event too rare."
+        threshold: "check 4 causes for underspend"
+        domain: budget-management
+        source: YTCH
+      - id: "HEUR-JL-409"
+        title: "Budget Increase Slowly and Safely"
+        content: "Increase budget by no more than 20% at a time to avoid disrupting the learning that has already occurred."
+        threshold: "max 20% increase at a time"
+        domain: budget-management
+        source: YTCH
+      - id: "HEUR-JL-410"
+        title: "Dayparting Rarely Helps"
+        content: "Dayparting restricts when ads show and limits the algorithm. Only use it if you have strong evidence for specific hours."
+        threshold: "avoid dayparting unless proven"
+        domain: campaign-strategy
+        source: YTCH
+      - id: "HEUR-JL-411"
+        title: "Manual Bidding Rarely Outperforms"
+        content: "Manual bidding strategies rarely outperform automatic bidding for most advertisers. Start with auto and test manual carefully."
+        threshold: "auto bidding as default"
+        domain: bidding-strategy
+        source: YTCH
+      - id: "HEUR-JL-412"
+        title: "When Your Ads Aren't Working Checklist"
+        content: "Check offer, creative, landing page, tracking, budget, and optimization event in that order before blaming the platform."
+        threshold: "6-point diagnosis checklist"
+        domain: campaign-strategy
+        source: YTCH
+      - id: "HEUR-JL-413"
+        title: "Objective May Be Irrelevant"
+        content: "Campaign objective matters less than performance goal. The objective sets defaults but the performance goal drives delivery."
+        threshold: "performance goal > objective"
+        domain: optimization
+        source: YTCH
+      # === NEW YTCH: Creative (500-515) ===
+      - id: "HEUR-JL-500"
+        title: "Creative Diversity Format Mix"
+        content: "Include static images, videos, and carousels in every campaign. Each format attracts different audience segments."
+        threshold: "minimum 3 format types"
+        domain: creative-strategy
+        source: YTCH
+      - id: "HEUR-JL-501"
+        title: "Creative Diversity Text Variation"
+        content: "Vary text across customer personas, pain points, and solutions. Same visual with different text counts as diversity."
+        threshold: "minimum 3 text variations"
+        domain: creative-strategy
+        source: YTCH
+      - id: "HEUR-JL-502"
+        title: "Modest Budget Creative Approach"
+        content: "If you have a modest budget, focus on spirit of creative diversity. Don't try to match big-budget volume."
+        threshold: "spirit over volume for small budgets"
+        domain: creative-strategy
+        source: YTCH
+      - id: "HEUR-JL-503"
+        title: "Old Creative Testing Is Obsolete"
+        content: "Old-school split testing of individual elements is less effective when the algorithm dynamically distributes among variations."
+        threshold: "stop A/B testing individual elements"
+        domain: creative-strategy
+        source: YTCH
+      - id: "HEUR-JL-504"
+        title: "Advantage+ Enhancements Test Before Disable"
+        content: "Before disabling any Advantage+ creative enhancement, test it for at least 2 weeks with sufficient budget."
+        threshold: "test 2 weeks before disabling"
+        domain: creative-strategy
+        source: YTCH
+      - id: "HEUR-JL-505"
+        title: "Pain Points Over Features"
+        content: "Lead with the problem your audience faces, not the features of your solution. Pain is more motivating than benefit."
+        threshold: "lead with pain in copy"
+        domain: creative-strategy
+        source: YTCH
+      - id: "HEUR-JL-506"
+        title: "Customize Creative by Placement"
+        content: "At minimum, create different aspect ratios for feed (1:1 or 4:5) and stories/reels (9:16)."
+        threshold: "minimum 2 aspect ratios"
+        domain: creative-strategy
+        source: YTCH
+      - id: "HEUR-JL-507"
+        title: "Links Down on Facebook"
+        content: "Link posts get less organic reach. But for paid ads optimizing for conversions, this does not matter."
+        threshold: "link reach decline = organic only problem"
+        domain: creative-strategy
+        source: YTCH
+      - id: "HEUR-JL-508"
+        title: "UGC Can Beat Professional"
+        content: "User-generated content often outperforms professional creative because it feels authentic and relatable."
+        threshold: "test UGC vs professional"
+        domain: creative-strategy
+        source: YTCH
+      - id: "HEUR-JL-509"
+        title: "Video One Per Day Is Achievable"
+        content: "Publishing one video per day is achievable if you dedicate about one hour to planning, recording, and editing."
+        threshold: "1 hour per video"
+        domain: content-creation
+        source: YTCH
+      - id: "HEUR-JL-510"
+        title: "Should You Start with Creative Testing"
+        content: "New campaigns should start with diverse creative, not a testing campaign. Let the algorithm find winners naturally."
+        threshold: "diverse creative from day one"
+        domain: creative-strategy
+        source: YTCH
+      - id: "HEUR-JL-511"
+        title: "Creative Testing Results Are Directional"
+        content: "Use creative testing results to inform direction and themes, not to make absolute winner/loser declarations."
+        threshold: "directional not absolute"
+        domain: creative-strategy
+        source: YTCH
+      - id: "HEUR-JL-512"
+        title: "Six Platform Repurposing"
+        content: "A single short-form video can be repurposed across YouTube Shorts, Instagram Reels, TikTok, Facebook, LinkedIn, and X."
+        threshold: "1 video = 6 platforms"
+        domain: content-creation
+        source: YTCH
+      - id: "HEUR-JL-513"
+        title: "Worst Placement Award"
+        content: "Audience Network is consistently the worst-performing placement for most advertisers. Test before including."
+        threshold: "Audience Network = test first"
+        domain: campaign-strategy
+        source: YTCH
+      - id: "HEUR-JL-514"
+        title: "Advantage+ Placements as Default"
+        content: "Use Advantage+ placements as the default. Only exclude placements when you have evidence they perform poorly for you."
+        threshold: "Advantage+ placements default"
+        domain: campaign-strategy
+        source: YTCH
+      - id: "HEUR-JL-515"
+        title: "Repost TikTok to Other Platforms"
+        content: "Reposting TikTok videos to other platforms works but remove watermarks for better distribution on Instagram and YouTube."
+        threshold: "remove watermarks when reposting"
+        domain: content-creation
+        source: YTCH
+      # === NEW YTCH: Business/AI (600-614) ===
+      - id: "HEUR-JL-600"
+        title: "AI Best for Idea Generation"
+        content: "ChatGPT and AI are most valuable for generating topic ideas and brainstorming, not for writing final copy."
+        threshold: "use AI for ideas, not final copy"
+        domain: ai-advertising
+        source: YTCH
+      - id: "HEUR-JL-601"
+        title: "AI Chatbot Response Time"
+        content: "An AI chatbot trained on your content provides instant responses that would take your team hours or days."
+        threshold: "instant vs hours"
+        domain: ai-advertising
+        source: YTCH
+      - id: "HEUR-JL-602"
+        title: "Voice Cloning for Content Scale"
+        content: "AI voice cloning tools can help create audio content at scale while maintaining your personal brand voice."
+        threshold: "clone voice for scale"
+        domain: ai-advertising
+        source: YTCH
+      - id: "HEUR-JL-603"
+        title: "12 Years of Content Compounds"
+        content: "Jon Loomer started in 2011. The biggest challenge is people not realizing how much content exists. Compound over decades."
+        threshold: "content compounds over years"
+        domain: content-creation
+        source: YTCH
+      - id: "HEUR-JL-604"
+        title: "Client Must Let You Work"
+        content: "If a client micromanages your strategy, they should do it themselves. You were hired as a trusted expert."
+        threshold: "client must not micromanage"
+        domain: business-strategy
+        source: YTCH
+      - id: "HEUR-JL-605"
+        title: "Client Must Have Quality Product"
+        content: "No amount of advertising can save a bad product. Ads amplify what exists, good or bad."
+        threshold: "good product required"
+        domain: business-strategy
+        source: YTCH
+      - id: "HEUR-JL-606"
+        title: "Client Must Invest in Their Business"
+        content: "Clients who skimp on budget, creative, and landing pages set you up for failure regardless of ad strategy."
+        threshold: "adequate investment required"
+        domain: business-strategy
+        source: YTCH
+      - id: "HEUR-JL-607"
+        title: "Know the Ad Guidelines Inside Out"
+        content: "Some Meta ad policy rules are not obvious. Read them thoroughly. Ignorance leads to account shutdown."
+        threshold: "read all ad guidelines"
+        domain: business-ethics
+        source: YTCH
+      - id: "HEUR-JL-608"
+        title: "Gray Areas Have Huge Long-Term Risk"
+        content: "Bending ad rules can have short-term benefit but huge long-term risks including permanent account ban."
+        threshold: "avoid gray areas"
+        domain: business-ethics
+        source: YTCH
+      - id: "HEUR-JL-609"
+        title: "Meta Verified Potential Problem"
+        content: "Meta Verified for businesses may create a pay-to-play environment that hurts smaller advertisers."
+        threshold: "monitor Meta Verified impact"
+        domain: facebook-ads
+        source: YTCH
+      - id: "HEUR-JL-610"
+        title: "Ad Scam Detection Is Terrible"
+        content: "Meta is bad at detecting scam ads. Report them when you see them and protect your brand from association."
+        threshold: "report scams actively"
+        domain: facebook-ads
+        source: YTCH
+      - id: "HEUR-JL-611"
+        title: "One Day Ahead Recording Strategy"
+        content: "Instead of batch recording, stay one day ahead. Record today's video for tomorrow. Less overwhelming than weekly batches."
+        threshold: "1 day ahead"
+        domain: content-creation
+        source: YTCH
+      - id: "HEUR-JL-612"
+        title: "Video Publishing Frequency"
+        content: "Publish as often as you can maintain quality and consistency. Daily is ideal but weekly is fine if that is sustainable."
+        threshold: "consistency > frequency"
+        domain: content-creation
+        source: YTCH
+      - id: "HEUR-JL-613"
+        title: "YouTube Shorts Daily Publishing"
+        content: "Publishing YouTube Shorts daily builds a library that generates passive views and subscribers over time."
+        threshold: "daily shorts for compounding"
+        domain: content-creation
+        source: YTCH
+      - id: "HEUR-JL-614"
+        title: "Benefits of Video Every Day"
+        content: "Daily video publishing improves speaking skills, builds content library, generates ideas, and compounds audience growth."
+        threshold: "4 compounding benefits"
+        domain: content-creation
+        source: YTCH
+      # === NEW YTCH: Platform/Tutorials (700-718) ===
+      - id: "HEUR-JL-700"
+        title: "Help Center Over PR Articles"
+        content: "Meta help center articles about mechanics are useful. Meta PR about tool effectiveness is marketing. Read the help center."
+        threshold: "help center > PR content"
+        domain: facebook-ads
+        source: YTCH
+      - id: "HEUR-JL-701"
+        title: "Learning Phase 25-50 Events Threshold"
+        content: "Facebook needs 25 to 50 optimized events within 7 days to complete learning. Below this, performance stays unstable."
+        threshold: "25-50 events in 7 days"
+        domain: optimization
+        source: YTCH
+      - id: "HEUR-JL-702"
+        title: "Don't React During Learning Phase"
+        content: "Avoid making changes or turning off ads during the learning phase. Let it complete before evaluating."
+        threshold: "no changes during learning"
+        domain: optimization
+        source: YTCH
+      - id: "HEUR-JL-703"
+        title: "CAPI Gateway Server Cost"
+        content: "Standard API Gateway server costs $80-100/month on Amazon. Stape offers a budget alternative."
+        threshold: "$80-100/month standard"
+        domain: tracking
+        source: YTCH
+      - id: "HEUR-JL-704"
+        title: "Custom Events I Use"
+        content: "Track scroll depth, time on page, video plays, and specific button clicks as custom events for richer data."
+        threshold: "4 custom event types minimum"
+        domain: tracking
+        source: YTCH
+      - id: "HEUR-JL-705"
+        title: "Standard Events with Parameters"
+        content: "Always add parameters to standard events: content_name, content_category, content_type, value, and currency."
+        threshold: "5 parameters per event"
+        domain: tracking
+        source: YTCH
+      - id: "HEUR-JL-706"
+        title: "GTM for Pixel Management"
+        content: "Use Google Tag Manager to manage pixel installation. It provides more flexibility than native Meta tools."
+        threshold: "GTM > native pixel"
+        domain: tracking
+        source: YTCH
+      - id: "HEUR-JL-707"
+        title: "Custom Conversions for Specificity"
+        content: "Use custom conversions to create specific conversion events based on URL rules without additional code."
+        threshold: "URL-based conversion rules"
+        domain: tracking
+        source: YTCH
+      - id: "HEUR-JL-708"
+        title: "Domain Verification Required"
+        content: "Verify your domain in Business Manager to maintain control over link editing and event configuration."
+        threshold: "verify domain always"
+        domain: tracking
+        source: YTCH
+      - id: "HEUR-JL-709"
+        title: "Custom Metrics for Better Analysis"
+        content: "Create custom metrics in Ads Manager like cost per quality lead or revenue per click for more meaningful analysis."
+        threshold: "create custom metrics"
+        domain: reporting
+        source: YTCH
+      - id: "HEUR-JL-710"
+        title: "URL Parameters for Tracking"
+        content: "Use dynamic URL parameters to track campaign, ad set, and ad level performance in Google Analytics."
+        threshold: "dynamic UTM parameters"
+        domain: tracking
+        source: YTCH
+      - id: "HEUR-JL-711"
+        title: "Offline Events via Zapier"
+        content: "Sync offline conversion events to Meta using Zapier and Google Sheets for complete conversion tracking."
+        threshold: "Zapier for offline events"
+        domain: tracking
+        source: YTCH
+      - id: "HEUR-JL-712"
+        title: "Block Lists for Brand Safety"
+        content: "Use block lists to prevent your ads from appearing on specific websites or apps in the Audience Network."
+        threshold: "maintain block lists"
+        domain: campaign-strategy
+        source: YTCH
+      - id: "HEUR-JL-713"
+        title: "Automated Rules for Budget Safety"
+        content: "Set automated rules to increase budget when CPA is below target and pause when CPA exceeds threshold."
+        threshold: "automate budget guardrails"
+        domain: budget-management
+        source: YTCH
+      - id: "HEUR-JL-714"
+        title: "Political Ads Restriction Period"
+        content: "Prepare for political ad restriction periods by front-loading spend and having backup creative approved."
+        threshold: "prepare before restriction periods"
+        domain: campaign-strategy
+        source: YTCH
+      - id: "HEUR-JL-715"
+        title: "Split Test by Optimization"
+        content: "Split testing by optimization event reveals which performance goal actually drives the best bottom-line results."
+        threshold: "test optimization events head to head"
+        domain: optimization
+        source: YTCH
+      - id: "HEUR-JL-716"
+        title: "Bulk Location Targeting"
+        content: "Use bulk location upload for businesses targeting multiple specific areas instead of adding locations one by one."
+        threshold: "bulk upload for multi-location"
+        domain: campaign-strategy
+        source: YTCH
+      - id: "HEUR-JL-717"
+        title: "Ad Review Not Instantaneous"
+        content: "Complex ads or accounts with history of violations face longer review times. Simple ads get reviewed faster."
+        threshold: "simpler ads = faster review"
+        domain: facebook-ads
+        source: YTCH
+      - id: "HEUR-JL-718"
+        title: "Landing Page Views Over Link Clicks"
+        content: "Optimize for landing page views instead of link clicks to filter out people who click but never load the page."
+        threshold: "LPV > link clicks"
+        domain: optimization
+        source: YTCH
   L4_FRAMEWORKS:
-    count: 15
+    count: 72
     items:
+      # === EXISTING SFAS (15 items) ===
       - id: "FW-JL-001"
         title: "4-Phase Scaling Checklist"
         content: "Phase 1: Foundation (remarketing + 1-2 prospecting). Phase 2: Expansion (PPE + video + consolidation). Phase 3: Advanced (2X purchasers, wide audiences, broadmatch DPA). Phase 4: Optimization (bid override, cross-sell, geoexpansion, automated rules)"
@@ -345,7 +1756,7 @@ layers:
         source: SFAS
       - id: "FW-JL-003"
         title: "Remarketing Rework System"
-        content: "Replace simple 30-day DPA + 30-day WCA with: DPA 7d + DPA 30d + WCA 7d + WCA 30d + Engagement 30d + Added to Cart 60d — each with unique copy/creative"
+        content: "Replace simple 30-day DPA + 30-day WCA with: DPA 7d + DPA 30d + WCA 7d + WCA 30d + Engagement 30d + Added to Cart 60d -- each with unique copy/creative"
         domain: remarketing
         source: SFAS
       - id: "FW-JL-004"
@@ -380,7 +1791,7 @@ layers:
         source: SFAS
       - id: "FW-JL-010"
         title: "Bid Strategy Decision Tree"
-        content: "Goal: Growth → cost-controlled (target cost/manual within CPA range) OR cost-forward (manual 3-5X CPA bully method) OR automatic. Goal: Stability → target cost or auto"
+        content: "Goal: Growth = cost-controlled (target cost/manual within CPA range) OR cost-forward (manual 3-5X CPA bully method) OR automatic. Goal: Stability = target cost or auto"
         domain: bidding-strategy
         source: SFAS
       - id: "FW-JL-011"
@@ -408,10 +1819,303 @@ layers:
         content: "When ad set performance declines: pause it, duplicate it, start again at lower budget. Re-enters auction fresh. Can run concurrently with existing"
         domain: scaling
         source: SFAS
+      # === NEW YTCH: 20 Factors (080-087) ===
+      - id: "FW-JL-080"
+        title: "20 Factors Diagnostic Framework"
+        content: "When ads fail, evaluate all 20 factors: bidding, creative, copy, targeting, optimization, budget, placements, frequency, landing page, website performance, pixel setup, email list, purchase intent, sample size, ad formats, website traffic, minimal control, and general approaches."
+        domain: facebook-ads
+        source: YTCH
+      - id: "FW-JL-081"
+        title: "Control vs No-Control Matrix"
+        content: "Map each of the 20 factors on a control spectrum. Focus energy on high-control factors (creative, landing page, offer) and accept low-control factors (competition, algorithm)."
+        domain: facebook-ads
+        source: YTCH
+      - id: "FW-JL-082"
+        title: "Bidding Decision Framework"
+        content: "Step 1: Start with auto bidding. Step 2: If CPA is acceptable, keep auto. Step 3: If CPA is too high, try cost cap. Step 4: Only use bid cap if you need strict control."
+        domain: bidding-strategy
+        source: YTCH
+      - id: "FW-JL-083"
+        title: "Landing Page Audit Framework"
+        content: "Check: Does it match ad promise? Is it clear and concise? Is the CTA visible? Does it load fast on mobile? Is the form simple? Does it have social proof?"
+        domain: landing-pages
+        source: YTCH
+      - id: "FW-JL-084"
+        title: "Optimization Event Selection Tree"
+        content: "Can you get 50 purchases/week? Use purchase. No? Can you get 50 add-to-carts? Use ATC. No? Move up to initiate checkout or lead. Never optimize for page views if you want sales."
+        domain: optimization
+        source: YTCH
+      - id: "FW-JL-085"
+        title: "Sample Size Decision Framework"
+        content: "Under 50 conversions: no conclusions. 50-100 conversions: directional insights. 100+ conversions: reliable conclusions. Under 1,000 impressions: ad set not proven."
+        domain: measurement
+        source: YTCH
+      - id: "FW-JL-086"
+        title: "Email List Quality Framework"
+        content: "Segment email list by recency and value. Upload high-value segments for lookalikes. Use full list for exclusions. Sync regularly."
+        domain: audience-optimization
+        source: YTCH
+      - id: "FW-JL-087"
+        title: "Website Performance Checklist"
+        content: "Check: load time under 3 seconds, mobile responsive, clear navigation, minimal distractions, working pixel, functioning checkout or form."
+        domain: landing-pages
+        source: YTCH
+      # === NEW YTCH: Attribution (200-208) ===
+      - id: "FW-JL-200"
+        title: "Attribution Setup Checklist"
+        content: "Step 1: Install pixel. Step 2: Set up Conversions API. Step 3: Configure standard events. Step 4: Verify domain. Step 5: Set priority events. Step 6: Enable server-side tracking."
+        domain: tracking
+        source: YTCH
+      - id: "FW-JL-201"
+        title: "Attribution Interpretation Framework"
+        content: "Compare 1-day click, 7-day click, and 1-day view. High view-through = awareness value. High 7-day click = delayed conversion path. Use all three for complete picture."
+        domain: attribution
+        source: YTCH
+      - id: "FW-JL-202"
+        title: "Incremental Attribution Analysis"
+        content: "Step 1: Review total conversions. Step 2: Review incremental conversions. Step 3: Calculate incremental lift percentage. Step 4: Adjust budget based on true incremental value."
+        domain: attribution
+        source: YTCH
+      - id: "FW-JL-203"
+        title: "Confirmation Bias Detection Framework"
+        content: "Step 1: Identify your belief about what works. Step 2: Actively seek contradicting data. Step 3: Run holdout tests. Step 4: Compare with and without the tactic."
+        domain: measurement
+        source: YTCH
+      - id: "FW-JL-204"
+        title: "Multi-Platform Attribution Model"
+        content: "Meta reports differently from GA, from CRM, and from platform analytics. Create a reconciliation framework that accounts for each source's bias."
+        domain: attribution
+        source: YTCH
+      - id: "FW-JL-205"
+        title: "Metrics Hierarchy Framework"
+        content: "Primary: ROAS, cost per purchase, value per purchase. Secondary: CPA, CTR, landing page views. Tertiary: reach, impressions, frequency, CPM. Never optimize on tertiary alone."
+        domain: reporting
+        source: YTCH
+      - id: "FW-JL-206"
+        title: "Value Rules Application Framework"
+        content: "Identify which conversions are worth more. Set value rules in Meta for audience segments, geographies, or devices that convert at higher values."
+        domain: attribution
+        source: YTCH
+      - id: "FW-JL-207"
+        title: "Cost Per Lead Valuation Framework"
+        content: "Step 1: Track cost per lead. Step 2: Track lead-to-sale conversion rate. Step 3: Calculate value per lead (revenue/leads). Step 4: Target value per lead, not cost per lead."
+        domain: measurement
+        source: YTCH
+      - id: "FW-JL-208"
+        title: "Remarketing vs Prospecting Analysis"
+        content: "Compare remarketing ROAS to prospecting ROAS. If remarketing is 5x+ better, most remarketing conversions are non-incremental. Shift budget to prospecting."
+        domain: attribution
+        source: YTCH
+      # === NEW YTCH: Audience (300-307) ===
+      - id: "FW-JL-300"
+        title: "Advantage+ Audience Decision Tree"
+        content: "New account? Use suggestions. Established account? No suggestions needed. Purchase optimization? Go broad. Top-of-funnel? Consider original audiences."
+        domain: audience-targeting
+        source: YTCH
+      - id: "FW-JL-301"
+        title: "When to Use Original Audiences Framework"
+        content: "Use original audiences for: abandoned cart remarketing, customer exclusion, specific remarketing messages, or when Advantage+ consistently underperforms."
+        domain: audience-targeting
+        source: YTCH
+      - id: "FW-JL-302"
+        title: "Audience Consolidation Framework"
+        content: "Step 1: Identify overlapping audiences. Step 2: Merge into fewer ad sets. Step 3: Let algorithm distribute within larger pool. Step 4: Monitor performance improvement."
+        domain: audience-targeting
+        source: YTCH
+      - id: "FW-JL-303"
+        title: "Targeting Evolution Timeline"
+        content: "2015: interests and behaviors. 2018: lookalikes dominate. 2021: iOS changes targeting. 2023: Advantage+ audience. 2025: creative is the new targeting."
+        domain: audience-targeting
+        source: YTCH
+      - id: "FW-JL-304"
+        title: "Lead Quality Optimization Framework"
+        content: "Step 1: Use conversion leads optimization. Step 2: Gate content in lead forms. Step 3: Restrict to targeted audiences. Step 4: Sync leads to CRM. Step 5: Score and report back."
+        domain: audience-targeting
+        source: YTCH
+      - id: "FW-JL-305"
+        title: "Exclusion Strategy Framework"
+        content: "Always exclude: existing customers from prospecting, recent converters from repeat messaging, irrelevant geographies, and known bot audiences."
+        domain: audience-targeting
+        source: YTCH
+      - id: "FW-JL-306"
+        title: "Campaign Impact on Targeting Framework"
+        content: "More campaigns and ad sets = more auction overlap = higher costs. Fewer campaigns = better algorithm learning = lower costs."
+        domain: audience-targeting
+        source: YTCH
+      - id: "FW-JL-307"
+        title: "Broad Targeting Recovery Framework"
+        content: "When broad targeting fails: Step 1: Verify optimization event. Step 2: Check creative quality. Step 3: Review landing page. Step 4: Add audience suggestions. Step 5: Test original audiences."
+        domain: audience-targeting
+        source: YTCH
+      # === NEW YTCH: Campaign (400-410) ===
+      - id: "FW-JL-400"
+        title: "Simplified Campaign Architecture"
+        content: "One prospecting campaign, one remarketing campaign (if needed), fewest ad sets possible, diverse creative within each. Start here, add complexity only with clear justification."
+        domain: campaign-strategy
+        source: YTCH
+      - id: "FW-JL-401"
+        title: "Performance Goal Selection Framework"
+        content: "Want sales? Maximize conversions (purchase). Want leads? Maximize conversions (lead). Want awareness? Maximize reach. Never optimize for proxy metrics when you can go direct."
+        domain: optimization
+        source: YTCH
+      - id: "FW-JL-402"
+        title: "Four Traits Success Framework"
+        content: "Trait 1: Prioritize simplicity. Trait 2: Embrace experimentation. Trait 3: Understand how the system works. Trait 4: Adapt to change quickly."
+        domain: campaign-strategy
+        source: YTCH
+      - id: "FW-JL-403"
+        title: "Campaign Decline Diagnosis Framework"
+        content: "Week 1-2 strong then decline? Check: creative fatigue, audience saturation, increased competition, seasonal shifts, or natural algorithm behavior."
+        domain: campaign-strategy
+        source: YTCH
+      - id: "FW-JL-404"
+        title: "Algorithm Understanding Framework"
+        content: "Three layers: Andromeda finds eligible ads. Optimization finds likely converters. Auction selects the winner. Understand all three to master the platform."
+        domain: optimization
+        source: YTCH
+      - id: "FW-JL-405"
+        title: "Budget Not Spending Diagnosis Framework"
+        content: "Check in order: audience too narrow, bid too low, creative rejected by review, optimization event too rare, account spending limit hit."
+        domain: budget-management
+        source: YTCH
+      - id: "FW-JL-406"
+        title: "Seasonal Campaign Planning Framework"
+        content: "8 weeks out: plan creative. 4 weeks: launch awareness. 2 weeks: launch conversion campaigns. During: monitor and adjust. After: analyze and learn."
+        domain: campaign-strategy
+        source: YTCH
+      - id: "FW-JL-407"
+        title: "Long Buying Cycle Framework"
+        content: "Step 1: Awareness campaigns for visibility. Step 2: Content engagement for nurture. Step 3: Retarget engaged users. Step 4: Conversion campaign after sufficient touchpoints."
+        domain: campaign-strategy
+        source: YTCH
+      - id: "FW-JL-408"
+        title: "Multiple Campaign Justification Framework"
+        content: "Use multiple campaigns only when: different budget allocations needed, different objectives required, or different optimization goals exist. Otherwise consolidate."
+        domain: campaign-strategy
+        source: YTCH
+      - id: "FW-JL-409"
+        title: "Facebook Ads Funnel Updated"
+        content: "Awareness: reach/video views optimization. Consideration: traffic/engagement. Conversion: purchase/lead. With broad targeting, the funnel collapses into fewer stages."
+        domain: campaign-strategy
+        source: YTCH
+      - id: "FW-JL-410"
+        title: "Ads Aren't Working Action Framework"
+        content: "Step 1: Check offer (is it compelling?). Step 2: Check creative (is it diverse?). Step 3: Check landing page (does it convert?). Step 4: Check tracking (is data flowing?). Step 5: Check budget (is it sufficient?). Step 6: Check optimization (right performance goal?)."
+        domain: campaign-strategy
+        source: YTCH
+      # === NEW YTCH: Creative (500-505) ===
+      - id: "FW-JL-500"
+        title: "Creative Diversification Phased Approach"
+        content: "Phase 1: 3-5 ads with different formats. Phase 2: Add text variations to winners. Phase 3: Add persona-specific messaging. Phase 4: Enable Advantage+ enhancements. Build up, don't start maxed."
+        domain: creative-strategy
+        source: YTCH
+      - id: "FW-JL-501"
+        title: "Creative Testing Revisited Framework"
+        content: "Old way: A/B test individual elements in separate ad sets. New way: Provide diverse creative in one ad set and let the algorithm find winners. Focus on themes, not elements."
+        domain: creative-strategy
+        source: YTCH
+      - id: "FW-JL-502"
+        title: "Creative Diversity Dimensions"
+        content: "Three dimensions of diversity: Format (static, video, carousel). Text (personas, pain points, solutions). Visual (styles, colors, UGC vs professional). Cover all three."
+        domain: creative-strategy
+        source: YTCH
+      - id: "FW-JL-503"
+        title: "Placement Customization Framework"
+        content: "Feed: 1:1 or 4:5 ratio. Stories/Reels: 9:16 vertical. Right column: 1:1 small. Search: text-heavy. Customize at minimum feed and stories."
+        domain: creative-strategy
+        source: YTCH
+      - id: "FW-JL-504"
+        title: "Creative Results Action Framework"
+        content: "Winners: scale with more variations on same theme. Losers: analyze why (format? message? visual?). Middlers: test with small modifications. Patterns: inform next batch."
+        domain: creative-strategy
+        source: YTCH
+      - id: "FW-JL-505"
+        title: "Content Repurposing Framework"
+        content: "Record one video. Edit for YouTube. Cut to short for Shorts/Reels/TikTok. Extract audio for podcast. Pull quotes for social. Write blog post from script."
+        domain: content-creation
+        source: YTCH
+      # === NEW YTCH: Business/AI (600-605) ===
+      - id: "FW-JL-600"
+        title: "AI Integration for Advertisers"
+        content: "Use AI for: idea generation, copy drafts, chatbot support, voice cloning for content, and search optimization. Do not use AI for: final strategic decisions or client communication."
+        domain: ai-advertising
+        source: YTCH
+      - id: "FW-JL-601"
+        title: "Ideal Client Selection Framework"
+        content: "Score clients on: lets you work independently, realistic expectations, quality product/service, adequate budget, responsive to communication, long-term mindset."
+        domain: business-strategy
+        source: YTCH
+      - id: "FW-JL-602"
+        title: "Content Consistency Framework"
+        content: "Choose sustainable frequency. Record one day ahead. Edit same day. Schedule for next day. Track streak. Never break the chain. Adjust frequency before breaking streak."
+        domain: content-creation
+        source: YTCH
+      - id: "FW-JL-603"
+        title: "Future of Search Preparation"
+        content: "Create comprehensive, authoritative content. Structure for AI citation. Build E-E-A-T signals. Diversify traffic sources beyond Google."
+        domain: ai-advertising
+        source: YTCH
+      - id: "FW-JL-604"
+        title: "Agency Evolution Framework"
+        content: "From execution (managing campaigns) to strategy (advising on business fundamentals). From targeting experts to creative strategists. From manual optimization to AI oversight."
+        domain: business-strategy
+        source: YTCH
+      - id: "FW-JL-605"
+        title: "Ethics in Advertising Framework"
+        content: "Know the rules inside out. Stay away from gray areas. Accept that competitors will bend rules. Focus on sustainable long-term success over short-term gains."
+        domain: business-ethics
+        source: YTCH
+      # === NEW YTCH: Platform (700-708) ===
+      - id: "FW-JL-700"
+        title: "Ad Auction Understanding Framework"
+        content: "Three components: Bid (how much you pay), Estimated Action Rate (how likely user acts), User Value (ad quality and relevance). Total Value = sum of all three."
+        domain: optimization
+        source: YTCH
+      - id: "FW-JL-701"
+        title: "Learning Phase Management Framework"
+        content: "Step 1: Set realistic expectations. Step 2: Ensure sufficient budget for 25-50 events. Step 3: Do not make changes. Step 4: Evaluate only after completion. Step 5: If stuck, adjust optimization event."
+        domain: optimization
+        source: YTCH
+      - id: "FW-JL-702"
+        title: "CAPI Setup Decision Tree"
+        content: "Using Shopify/WooCommerce? Use built-in integration. Using GTM? Use GTM solution. Using custom site? Use API Gateway. Budget limited? Use Stape. Always combine with pixel."
+        domain: tracking
+        source: YTCH
+      - id: "FW-JL-703"
+        title: "Custom Event Strategy Framework"
+        content: "Standard events for main conversions. Custom events for micro-conversions. Parameters for all events. GTM for implementation. Test in Events Manager before launching ads."
+        domain: tracking
+        source: YTCH
+      - id: "FW-JL-704"
+        title: "Automated Rules Safety Framework"
+        content: "Rule 1: Increase budget if CPA < target for 3 days. Rule 2: Decrease budget if CPA > 150% of target. Rule 3: Pause if spend > 2x CPA with zero conversions. Rule 4: Notify on anomalies."
+        domain: optimization
+        source: YTCH
+      - id: "FW-JL-705"
+        title: "Building Blocks Training Approach"
+        content: "Foundation: tracking setup. Layer 1: campaign structure. Layer 2: audience strategy. Layer 3: creative approach. Layer 4: measurement and optimization. Build sequentially."
+        domain: facebook-ads
+        source: YTCH
+      - id: "FW-JL-706"
+        title: "Biggest Updates Monitoring Framework"
+        content: "Track Meta updates quarterly. Categorize as: targeting changes, creative tools, measurement updates, automation features, policy changes. Adjust strategy per category."
+        domain: facebook-ads
+        source: YTCH
+      - id: "FW-JL-707"
+        title: "Conspiracy Theory Filter"
+        content: "When you hear a claim about Meta: Check Meta help center. Check your own data. If both contradict the claim, it is a conspiracy theory. Dismiss and move on."
+        domain: facebook-ads
+        source: YTCH
+      - id: "FW-JL-708"
+        title: "Recent Marketing Evolution Framework"
+        content: "Pre-iOS 14: precise targeting and measurement. Post-iOS 14: data loss and adjustment. AI era: algorithmic targeting and creative diversification. Adapt to each era."
+        domain: facebook-ads
+        source: YTCH
 
   L5_METHODOLOGIES:
-    count: 9
+    count: 57
     items:
+      # === EXISTING SFAS (9 items) ===
       - id: "MET-JL-001"
         title: "Scaling Phase 1 Setup"
         content: "1. Decide funnel position (TOFU/MOFU/BOFU). 2. Plan horizontal scaling with differentiated value props. 3. Do financial calculations (AOV, LTV, margin). 4. Launch DPA or WCA remarketing. 5. Introduce 1-2 new prospecting audiences. 6. Create 3/7/30 day remarketing windows. 7. Check budget cap. 8. Rename with naming conventions"
@@ -434,7 +2138,7 @@ layers:
         source: SFAS
       - id: "MET-JL-005"
         title: "Broadmatch DPA Setup Protocol"
-        content: "1. Select Catalog Sales objective. 2. Choose 'define broad audience' radio button. 3. Set widest targeting (18-65, full country). 4. Exclude 180-day visitors and fans. 5. Create custom exclusion for recent purchasers. 6. Bid 7-day click/1-day view. 7. Ensure irresistible offer. 8. Measure in 30-day window"
+        content: "1. Select Catalog Sales objective. 2. Choose define broad audience radio button. 3. Set widest targeting (18-65, full country). 4. Exclude 180-day visitors and fans. 5. Create custom exclusion for recent purchasers. 6. Bid 7-day click/1-day view. 7. Ensure irresistible offer. 8. Measure in 30-day window"
         domain: dynamic-product-ads
         source: SFAS
       - id: "MET-JL-006"
@@ -454,6 +2158,253 @@ layers:
         source: SFAS
       - id: "MET-JL-009"
         title: "Learning Phase Management"
-        content: "1. Consolidate audiences into fewer ad sets to approach 50/week. 2. Consider moving pixel event up (purchase → add to cart → initiate checkout). 3. Never change targeting/creative/optimization during learning. 4. Budget and bid changes do NOT reset learning. 5. Automated rule budget changes don't reset either"
+        content: "1. Consolidate audiences into fewer ad sets to approach 50/week. 2. Consider moving pixel event up (purchase > add to cart > initiate checkout). 3. Never change targeting/creative/optimization during learning. 4. Budget and bid changes do NOT reset learning. 5. Automated rule budget changes don't reset either"
         domain: facebook-ads
         source: SFAS
+      # === NEW YTCH: 20 Factors (080-086) ===
+      - id: "MET-JL-080"
+        title: "20 Factors Diagnostic Process"
+        content: "1. List all 20 factors. 2. Rate each 1-10 for your account. 3. Identify lowest-scoring factors. 4. Prioritize fixes by impact and control. 5. Fix one at a time. 6. Re-evaluate after each fix."
+        domain: facebook-ads
+        source: YTCH
+      - id: "MET-JL-081"
+        title: "Copy Testing Methodology"
+        content: "1. Write 3-5 variations targeting different pain points. 2. Test short vs long. 3. Run with same image across variations. 4. Let algorithm distribute. 5. Identify winning themes, not just winning copy."
+        domain: creative-strategy
+        source: YTCH
+      - id: "MET-JL-082"
+        title: "Bidding Optimization Process"
+        content: "1. Start with auto bidding. 2. Run for 7+ days. 3. Analyze CPA trend. 4. If CPA too high, switch to cost cap at target CPA. 5. If still high, try bid cap at 1.5x target. 6. Monitor 72h after each change."
+        domain: bidding-strategy
+        source: YTCH
+      - id: "MET-JL-083"
+        title: "Landing Page Optimization Process"
+        content: "1. Match ad promise to landing page headline. 2. Remove unnecessary navigation. 3. Place CTA above fold. 4. Add social proof near CTA. 5. Test mobile speed (under 3 seconds). 6. A/B test page variations."
+        domain: landing-pages
+        source: YTCH
+      - id: "MET-JL-084"
+        title: "Website Performance Optimization"
+        content: "1. Test load speed with Google PageSpeed Insights. 2. Optimize images. 3. Minimize JavaScript. 4. Use CDN. 5. Test checkout flow on mobile. 6. Monitor bounce rate in GA."
+        domain: landing-pages
+        source: YTCH
+      - id: "MET-JL-085"
+        title: "Email List Building for Ads"
+        content: "1. Segment list by purchase history. 2. Create LTV-based custom audience. 3. Upload high-value segment for lookalike. 4. Exclude all customers from prospecting. 5. Sync weekly. 6. Create frequency-based audiences."
+        domain: audience-optimization
+        source: YTCH
+      - id: "MET-JL-086"
+        title: "Ad Format Testing Process"
+        content: "1. Create same message in static, video, and carousel. 2. Run in single ad set. 3. Let algorithm distribute budget. 4. After 50+ conversions, analyze by format. 5. Double down on winning format with more variations."
+        domain: creative-strategy
+        source: YTCH
+      # === NEW YTCH: Attribution (200-205) ===
+      - id: "MET-JL-200"
+        title: "Complete Attribution Setup Process"
+        content: "1. Install Meta pixel via GTM or native. 2. Configure all standard events with parameters. 3. Set up Conversions API (preferably API Gateway). 4. Verify domain in Business Manager. 5. Configure 8 priority events. 6. Test all events in Events Manager. 7. Monitor event match quality score."
+        domain: tracking
+        source: YTCH
+      - id: "MET-JL-201"
+        title: "Incremental Attribution Analysis Process"
+        content: "1. Access conversion attribution reports. 2. Compare total vs incremental columns. 3. Calculate incremental lift percentage. 4. Identify campaigns with low incrementality. 5. Shift budget from low to high incremental campaigns."
+        domain: attribution
+        source: YTCH
+      - id: "MET-JL-202"
+        title: "Attribution Window Comparison Process"
+        content: "1. Create custom columns with all attribution windows. 2. Run campaigns for 14+ days. 3. Export data by window. 4. Compare 1-day click vs 7-day click vs 1-day view. 5. Determine true value attribution mix."
+        domain: attribution
+        source: YTCH
+      - id: "MET-JL-203"
+        title: "Remarketing Incrementality Test"
+        content: "1. Run holdout test: exclude 10% from remarketing. 2. Compare conversion rate of holdout vs remarketed group. 3. If similar, remarketing is non-incremental. 4. Reduce remarketing budget. 5. Reallocate to prospecting."
+        domain: attribution
+        source: YTCH
+      - id: "MET-JL-204"
+        title: "Custom Metrics Setup Process"
+        content: "1. Access Ads Manager columns customization. 2. Create custom metrics: value per lead, ROAS by window, cost per quality action. 3. Save as default report. 4. Apply to all campaigns."
+        domain: reporting
+        source: YTCH
+      - id: "MET-JL-205"
+        title: "Value Rules Implementation"
+        content: "1. Identify high-value audience segments. 2. Access value rules in Events Manager. 3. Assign multipliers to segments. 4. Test impact on optimization. 5. Monitor for improved ROAS on high-value segments."
+        domain: attribution
+        source: YTCH
+      # === NEW YTCH: Audience (300-306) ===
+      - id: "MET-JL-300"
+        title: "Advantage+ Audience Setup Process"
+        content: "1. Leave Advantage+ audience on (default). 2. Optionally add audience suggestions for new accounts. 3. Set performance goal to purchase or lead. 4. Let algorithm run for 7+ days. 5. Evaluate results. 6. Only switch to original if underperforming."
+        domain: audience-targeting
+        source: YTCH
+      - id: "MET-JL-301"
+        title: "Customer Exclusion Setup"
+        content: "1. Upload customer email list as custom audience. 2. In ad set, add as exclusion. 3. Set up automated sync with CRM. 4. Create 180-day purchaser website custom audience. 5. Exclude from all prospecting campaigns."
+        domain: audience-targeting
+        source: YTCH
+      - id: "MET-JL-302"
+        title: "Auction Overlap Reduction Process"
+        content: "1. Check audience overlap tool in Ads Manager. 2. Identify ad sets with >30% overlap. 3. Merge overlapping ad sets. 4. Set automated rules to pause lower-performing overlapping sets. 5. Monitor cost efficiency improvement."
+        domain: audience-targeting
+        source: YTCH
+      - id: "MET-JL-303"
+        title: "Lead Quality Optimization Process"
+        content: "1. Switch to conversion leads optimization. 2. Implement lead scoring in CRM. 3. Send offline conversion data back to Meta. 4. Gate content in lead forms. 5. Use higher-intent form types. 6. Measure by qualified leads, not total leads."
+        domain: audience-targeting
+        source: YTCH
+      - id: "MET-JL-304"
+        title: "Broad Targeting Recovery Process"
+        content: "1. Confirm performance goal is purchase or conversion. 2. Refresh creative with diverse formats. 3. Improve landing page. 4. Add audience suggestions if none exist. 5. If still failing, test original audiences with custom audience. 6. Increase budget to meet learning threshold."
+        domain: audience-targeting
+        source: YTCH
+      - id: "MET-JL-305"
+        title: "Advantage+ Shopping Campaign Setup"
+        content: "1. Select Advantage+ Shopping campaign type. 2. Set budget and performance goal. 3. Add diverse creative (6+ variations). 4. Set customer segment caps if needed. 5. Launch and monitor for 7+ days before judging."
+        domain: campaign-strategy
+        source: YTCH
+      - id: "MET-JL-306"
+        title: "Lead Ad Form Optimization"
+        content: "1. Use higher-intent form type. 2. Add qualifying questions. 3. Gate valuable content behind form. 4. Restrict to targeted audiences. 5. Customize thank you screen with CTA. 6. Sync leads to CRM in real-time."
+        domain: audience-targeting
+        source: YTCH
+      # === NEW YTCH: Campaign (400-409) ===
+      - id: "MET-JL-400"
+        title: "Simplified Campaign Build Process"
+        content: "1. Create one campaign per goal. 2. Set campaign budget optimization on. 3. Create one or two ad sets maximum. 4. Add 3-6 diverse ads per ad set. 5. Set Advantage+ audience. 6. Set Advantage+ placements. 7. Choose direct performance goal. 8. Launch and wait 7 days."
+        domain: campaign-strategy
+        source: YTCH
+      - id: "MET-JL-401"
+        title: "Performance Goal Optimization Process"
+        content: "1. Identify business end goal (purchase, lead, etc). 2. Select matching performance goal in ad set. 3. Verify sufficient budget for 50 weekly events. 4. If not enough volume, move optimization event up. 5. Re-evaluate monthly."
+        domain: optimization
+        source: YTCH
+      - id: "MET-JL-402"
+        title: "Campaign Experimentation Process"
+        content: "1. Form hypothesis. 2. Create test with single variable change. 3. Run for minimum 50 conversions or 7 days. 4. Compare against control. 5. Apply learning to main campaign. 6. Document results."
+        domain: campaign-strategy
+        source: YTCH
+      - id: "MET-JL-403"
+        title: "Campaign Decline Recovery Process"
+        content: "1. Check if decline matches natural algorithm behavior. 2. Refresh creative with new themes. 3. Test new audience suggestions. 4. Adjust budget slowly (20% max). 5. If persistent, duplicate and restart. 6. Accept that some decline is normal."
+        domain: campaign-strategy
+        source: YTCH
+      - id: "MET-JL-404"
+        title: "Budget Scaling Protocol Updated"
+        content: "1. Confirm 7+ days of stable CPA. 2. Increase budget by max 20%. 3. Wait 48-72 hours. 4. If CPA stable, repeat. 5. If CPA rises >20%, revert. 6. Consider adding new ad sets rather than increasing existing."
+        domain: budget-management
+        source: YTCH
+      - id: "MET-JL-405"
+        title: "Seasonal Campaign Launch Protocol"
+        content: "1. Plan creative 8 weeks ahead. 2. Launch awareness campaign 4 weeks out. 3. Build remarketing audiences. 4. Launch conversion campaign 2 weeks before event. 5. Increase budget day of event. 6. Analyze and document results."
+        domain: campaign-strategy
+        source: YTCH
+      - id: "MET-JL-406"
+        title: "Structure for Long Buying Cycles"
+        content: "1. Map customer journey timeline. 2. Create awareness content for each stage. 3. Set up micro-conversion tracking. 4. Build sequential remarketing. 5. Use longer attribution windows. 6. Measure customer lifetime value, not immediate ROAS."
+        domain: campaign-strategy
+        source: YTCH
+      - id: "MET-JL-407"
+        title: "When Ads Aren't Working Protocol"
+        content: "1. Audit offer competitiveness. 2. Refresh creative with pain-focused messaging. 3. Audit landing page conversion rate. 4. Verify all tracking is firing. 5. Confirm budget meets optimization threshold. 6. Change performance goal if needed. 7. Simplify campaign structure."
+        domain: campaign-strategy
+        source: YTCH
+      - id: "MET-JL-408"
+        title: "Quality Traffic Optimization Process"
+        content: "1. Optimize for landing page views instead of link clicks. 2. Use quality ranking to filter placements. 3. Monitor bounce rate in GA. 4. Exclude high-bounce placements. 5. Consider conversion optimization instead."
+        domain: optimization
+        source: YTCH
+      - id: "MET-JL-409"
+        title: "Automated Budget Rules Setup"
+        content: "1. Define CPA target. 2. Create rule: increase 20% if CPA < target for 3 days. 3. Create rule: decrease 20% if CPA > 150% target. 4. Create rule: pause if $0 conversions after 2x CPA spend. 5. Set frequency to daily. 6. Review weekly."
+        domain: budget-management
+        source: YTCH
+      # === NEW YTCH: Creative (500-506) ===
+      - id: "MET-JL-500"
+        title: "Creative Diversification Implementation"
+        content: "1. Create at least one static, one video, one carousel. 2. Write 3+ text variations per persona. 3. Enable Advantage+ text variations. 4. Customize creative by placement. 5. Add new creative every 2 weeks. 6. Pause lowest performers monthly."
+        domain: creative-strategy
+        source: YTCH
+      - id: "MET-JL-501"
+        title: "Creative Testing New Approach"
+        content: "1. Skip traditional A/B testing. 2. Create diverse creative batch (5-10 ads). 3. Put all in one ad set. 4. Let algorithm distribute. 5. After 50+ conversions, identify winning themes. 6. Create more variations of winning themes."
+        domain: creative-strategy
+        source: YTCH
+      - id: "MET-JL-502"
+        title: "Advantage+ Creative Enhancement Process"
+        content: "1. Leave all enhancements on by default. 2. Run for 2 weeks minimum. 3. Check performance with vs without enhancements. 4. Only disable specific enhancements that clearly underperform. 5. Re-test after Meta updates."
+        domain: creative-strategy
+        source: YTCH
+      - id: "MET-JL-503"
+        title: "Placement Customization Process"
+        content: "1. Create master creative in square format. 2. Create vertical version for stories/reels. 3. Add text overlay for feed. 4. Remove text overlay for stories. 5. Preview all placements. 6. Adjust sizing and cropping."
+        domain: creative-strategy
+        source: YTCH
+      - id: "MET-JL-504"
+        title: "Content One Video Per Day Process"
+        content: "1. Choose topic from content calendar or current events. 2. Write brief outline (5 minutes). 3. Record in one take (10-15 minutes). 4. Edit with simple cuts (20-30 minutes). 5. Add captions and thumbnail. 6. Schedule for next day. Total: about 1 hour."
+        domain: content-creation
+        source: YTCH
+      - id: "MET-JL-505"
+        title: "Video Repurposing Process"
+        content: "1. Record long-form video (5-15 min). 2. Cut best segments for shorts (under 60 seconds). 3. Upload long to YouTube. 4. Upload shorts to YouTube, Instagram, TikTok, Facebook. 5. Extract audio for podcast. 6. Use transcript for blog post."
+        domain: content-creation
+        source: YTCH
+      - id: "MET-JL-506"
+        title: "Underperforming Video Republish Process"
+        content: "1. Identify videos with low views relative to average. 2. Analyze why (poor title, bad thumbnail, wrong timing). 3. Re-edit with new title and thumbnail. 4. Republish at different time. 5. Promote to different audience."
+        domain: content-creation
+        source: YTCH
+      # === NEW YTCH: Business/AI (600-604) ===
+      - id: "MET-JL-600"
+        title: "AI Chatbot Setup for Business"
+        content: "1. Compile all existing content (blog posts, videos, help articles). 2. Train custom GPT or chatbot on content. 3. Deploy on website as widget. 4. Monitor conversations for quality. 5. Update training data monthly. 6. Use insights to create new content."
+        domain: ai-advertising
+        source: YTCH
+      - id: "MET-JL-601"
+        title: "AI-Driven Search Preparation"
+        content: "1. Create comprehensive authoritative content on your topics. 2. Structure content with clear headings and summaries. 3. Build backlinks and citations. 4. Monitor AI search mentions. 5. Optimize for featured snippet format."
+        domain: ai-advertising
+        source: YTCH
+      - id: "MET-JL-602"
+        title: "Client Onboarding for Ad Management"
+        content: "1. Audit existing ad account. 2. Review tracking setup. 3. Analyze historical data. 4. Set realistic expectations with timeline. 5. Agree on KPIs and reporting cadence. 6. Establish communication protocols."
+        domain: business-strategy
+        source: YTCH
+      - id: "MET-JL-603"
+        title: "Voice Cloning for Content Production"
+        content: "1. Record sample audio (30+ minutes recommended). 2. Upload to AI voice cloning tool. 3. Generate draft audio. 4. Review and refine. 5. Use for podcast intros, social audio, and content supplements."
+        domain: ai-advertising
+        source: YTCH
+      - id: "MET-JL-604"
+        title: "Building Audience on New Platform"
+        content: "1. Study platform-native content style. 2. Repurpose existing content for new format. 3. Post consistently (daily if possible). 4. Engage with community. 5. Cross-promote from established platforms. 6. Measure growth monthly."
+        domain: content-creation
+        source: YTCH
+      # === NEW YTCH: Platform (700-705) ===
+      - id: "MET-JL-700"
+        title: "CAPI Gateway Setup with Stape"
+        content: "1. Create Stape account. 2. Connect to Meta Business Manager. 3. Configure server-side container. 4. Map events from pixel to server. 5. Verify event match quality. 6. Monitor deduplication. 7. Cost is significantly less than Amazon server."
+        domain: tracking
+        source: YTCH
+      - id: "MET-JL-701"
+        title: "GTM Pixel Management Setup"
+        content: "1. Install GTM container on website. 2. Create Meta pixel tag. 3. Configure standard event triggers. 4. Add custom event triggers for micro-conversions. 5. Set up event parameters. 6. Test in GTM preview mode. 7. Publish and verify in Events Manager."
+        domain: tracking
+        source: YTCH
+      - id: "MET-JL-702"
+        title: "Custom Event Implementation"
+        content: "1. Identify micro-conversions to track (scroll, time, clicks). 2. Create custom events in GTM. 3. Set trigger conditions. 4. Add to Meta pixel tag. 5. Verify in Events Manager. 6. Create custom audiences from events. 7. Use for optimization if standard events are insufficient."
+        domain: tracking
+        source: YTCH
+      - id: "MET-JL-703"
+        title: "Offline Event Sync Process"
+        content: "1. Set up Google Sheets to capture offline conversions. 2. Connect Zapier to CRM. 3. Map fields to Meta offline event parameters. 4. Send to Conversions API. 5. Verify events appear in Events Manager. 6. Use for optimization and reporting."
+        domain: tracking
+        source: YTCH
+      - id: "MET-JL-704"
+        title: "Automated Rules Implementation"
+        content: "1. Define CPA targets per campaign. 2. Create increase rule (CPA below target for 3 days = +20% budget). 3. Create decrease rule (CPA above 150% for 3 days = -20% budget). 4. Create pause rule (zero conversions after 2x CPA spend). 5. Create notification rules for anomalies. 6. Review rules weekly."
+        domain: optimization
+        source: YTCH
+      - id: "MET-JL-705"
+        title: "Zapier Lead Sync Setup"
+        content: "1. Connect Facebook Lead Ads to Zapier. 2. Map lead fields to CRM fields. 3. Add lead scoring trigger. 4. Send confirmation email via automation. 5. Sync lead status back to Meta for optimization."
+        domain: tracking
+        source: YTCH
