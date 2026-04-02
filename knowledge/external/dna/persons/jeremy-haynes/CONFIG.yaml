@@ -1,8 +1,8 @@
 # CONFIG - JEREMY HAYNES DNA COGNITIVO
 # Arquivo central de configuracao e metadados do DNA
-# Versao: 5.0.0 | Atualizado: 2026-03-03 | 30DC/CA Merge
+# Versao: 6.0.0 | Atualizado: 2026-04-02 | YouTube Channel Merge (194 videos)
 
-versao: "5.0.0"
+versao: "6.0.0"
 pessoa: "Jeremy Haynes"
 nome_canonico: "Jeremy Haynes"
 empresa: "Inner Circle / Paramark"
@@ -31,6 +31,24 @@ padroes_comportamentais:
   - padrao: "Venus Fly Trap"
     frequencia: "ALTA"
     evidencia: "3-video content funnel (1.0 e 2.0)"
+  - padrao: "Propaganda Content Marketing"
+    frequencia: "ALTA"
+    evidencia: "Brainwash market with content → convert swing vote"
+  - padrao: "Pixel Conditioning"
+    frequencia: "ALTA"
+    evidencia: "Only fire qualified events to pixel, standard > custom"
+  - padrao: "Andromeda Adaptation"
+    frequencia: "ALTA"
+    evidencia: "Creative IS targeting post-Andromeda, broad forced"
+  - padrao: "4 Levels of Scaling"
+    frequencia: "ALTA"
+    evidencia: "Guppy ($100-300K) → Middle → Almost There → Big Dog ($1M+)"
+  - padrao: "Sophisticated Gambler"
+    frequencia: "ALTA"
+    evidencia: "Post-summiting phase: high-probability calculated bets"
+  - padrao: "Tweaker Mode"
+    frequencia: "ALTA"
+    evidencia: "Speed of problem solving = speed of growth"
 
 # Sintese narrativa
 sintese_narrativa: |
@@ -58,16 +76,25 @@ sintese_narrativa: |
 
 # Estatisticas do DNA
 estatisticas:
-  filosofias: 39
-  modelos_mentais: 36
-  heuristicas: 63
-  frameworks: 48
-  metodologias: 36
-  total_itens: 222
+  filosofias: 123  # 39 + 84 YouTube
+  modelos_mentais: 96  # 36 + 60 YouTube
+  heuristicas: 215  # 63 + 152 YouTube
+  frameworks: 105  # 48 + 57 YouTube
+  metodologias: 76  # 36 + 40 YouTube
+  total_itens: 615  # 222 structured + 393 YouTube (excl. case studies)
+  total_insights: 2717  # 2280 + 437 YouTube elements
 
-  peso_medio_geral: 0.85
-  itens_peso_acima_070: 2100
-  percentual_alta_confianca: 92.1
+  peso_medio_geral: 0.83
+  itens_peso_acima_070: 2500
+  percentual_alta_confianca: 90.5
+
+  # YouTube extraction stats
+  youtube_extraction:
+    files_processed: 194
+    total_bytes: 1065964
+    elements_extracted: 437
+    case_studies_documented: 19
+    cross_patterns_identified: 6
 
   # Delta da consolidacao 4.0.0
   delta_v4:
@@ -80,9 +107,9 @@ estatisticas:
 
 # Fontes utilizadas
 fontes:
-  batches_processados: 30
-  batch_range: "002-004, 068-084, 092-101"
-  arquivos_processados: 268
+  batches_processados: 31  # 30 + 1 YouTube mega-batch
+  batch_range: "002-004, 068-084, 092-101, YT-001"
+  arquivos_processados: 462  # 268 + 194 YouTube
 
   series:
     - serie: "SOP"
@@ -121,10 +148,25 @@ fontes:
       titulo: "Perfect Cold Video Pitch"
       arquivos: 13
       batches: "100-101"
+    - serie: "YT"
+      titulo: "YouTube Channel (Public Content)"
+      arquivos: 194
+      batches: "YT-001"
+      tipo: "youtube_transcriptions"
+      temas_cobertos:
+        - "Call Funnels & Scaling"
+        - "Paid Advertising & Meta Andromeda"
+        - "Offers & Messaging for Rich People"
+        - "Webinars, Challenges, Low-to-High Ticket"
+        - "Mindset & Business Operations"
+        - "Case Studies (19 documented)"
+        - "Sales Team Building & Recruiting"
+        - "Content Marketing & Propaganda"
+        - "AI Integration & Fulfillment"
 
   dossier: "/knowledge/dossiers/persons/DOSSIER-JEREMY-HAYNES.md"
   source_log: "/logs/SOURCES/SOURCE-JH.md"
-  insights_totais: 2280
+  insights_totais: 2717  # 2280 + 437 YouTube
 
 # Relacionamentos
 relacionamentos:
@@ -163,7 +205,7 @@ tensoes:
 # Metadados de extracao
 metadados:
   criado_em: "2025-12-28T00:00:00Z"
-  atualizado_em: "2026-03-03T12:00:00Z"
+  atualizado_em: "2026-04-02T12:00:00Z"
   protocolo: "DNA-EXTRACTION-PROTOCOL v2.0"
   pipeline: "Jarvis v3.33.0"
   extraido_por: "Claude Code"
@@ -171,6 +213,23 @@ metadados:
   fase: "PHASE-5-CONSOLIDATION"
 
 changelog:
+  - data: "2026-04-02T12:00:00Z"
+    acao: "Merge YouTube Channel (194 videos) = 437 novos elementos"
+    mudancas:
+      - "Versao atualizada para 6.0.0 (YouTube Channel Merge)"
+      - "FILOSOFIAS: 39 -> 123 (+84 YouTube)"
+      - "MODELOS MENTAIS: 36 -> 96 (+60 YouTube)"
+      - "HEURISTICAS: 63 -> 215 (+152 YouTube)"
+      - "FRAMEWORKS: 48 -> 105 (+57 YouTube)"
+      - "METODOLOGIAS: 36 -> 76 (+40 YouTube)"
+      - "Total elementos DNA: 222 -> 615 (+393 elementos estruturados)"
+      - "Total insights: 2,280 -> 2,717 (+437 YouTube)"
+      - "Fonte: YT-NEW-ELEMENTS.yaml"
+      - "19 case studies documentados (client outcomes)"
+      - "6 cross-client patterns identificados"
+      - "Novos padroes: Pixel Conditioning, Andromeda Adaptation, Propaganda Content, 4 Levels of Scaling"
+      - "Jeremy Haynes permanece MAIOR DNA do sistema"
+    versao: "6.0.0"
   - data: "2026-03-03T12:00:00Z"
     acao: "Merge 30DC(44) + CA(63) = 107 elementos adicionados, total 222"
     mudancas:

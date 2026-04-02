@@ -1,0 +1,354 @@
+# JEREMY HAYNES - YouTube DNA Elements
+# Extracted: 2026-04-02
+# Source: 194 YouTube transcriptions (~1MB total)
+# Pipeline: JARVIS Full Auto — Opus 4.6 All Stages
+# Total New Elements: 437 + 19 case studies + 6 cross-client patterns
+
+extraction_metadata:
+  date: "2026-04-02"
+  source_type: "YouTube Channel"
+  files_processed: 194
+  total_bytes: 1065964
+  model: "claude-opus-4-6"
+  pipeline: "jarvis-full-auto"
+
+# ═══════════════════════════════════════════════════════════════════
+# SUMMARY BY LAYER
+# ═══════════════════════════════════════════════════════════════════
+
+summary:
+  filosofias: 84
+  modelos_mentais: 60
+  heuristicas: 152
+  frameworks: 57
+  metodologias: 40
+  case_studies: 19
+  cross_patterns: 6
+  total_elements: 437
+
+# ═══════════════════════════════════════════════════════════════════
+# WAVE 1: FUNNELS & SCALING CORE (82 elements)
+# Files: 15 transcriptions (largest/most comprehensive)
+# ═══════════════════════════════════════════════════════════════════
+
+wave_1_funnels_scaling:
+  filosofias:
+    - id: "FIL-JH-YT-001"
+      text: "Sales and marketing are conjoined - I don't separate them out."
+    - id: "FIL-JH-YT-002"
+      text: "The speed in which you solve problems more so than almost anything else is what dictates the speed in which you grow."
+    - id: "FIL-JH-YT-003"
+      text: "Never sell against a trend. Sell with it. Attach what you're doing to the grand narrative."
+    - id: "FIL-JH-YT-004"
+      text: "Advertising is gambling. You need a burn budget."
+    - id: "FIL-JH-YT-005"
+      text: "You can split test your way to poverty."
+    - id: "FIL-JH-YT-006"
+      text: "Every additional step you add to a marketing or sales process typically erodes the overall quantity of people that make it out the other side."
+    - id: "FIL-JH-YT-007"
+      text: "A sale happens when both parties are at the same level of agreement with one another."
+    - id: "FIL-JH-YT-008"
+      text: "It all starts with a great offer. Every key statistic is influenced by the offer more so than anything else."
+    - id: "FIL-JH-YT-009"
+      text: "Value stacks are an absolutely awful principle to follow. They're not even FTC compliant."
+    - id: "FIL-JH-YT-010"
+      text: "In-house sales teams are always superior to outsourced closing teams."
+    - id: "FIL-JH-YT-011"
+      text: "Challenge funnels are officially back. Long form content is back completely. Webinars are fully back."
+    - id: "FIL-JH-YT-012"
+      text: "Videos on landing pages are no longer the entry point. Less than 5% press play on the video."
+    - id: "FIL-JH-YT-013"
+      text: "We punish people who can't make decisions fast by adding price bumps."
+
+  modelos_mentais:
+    - id: "MM-JH-YT-001"
+      name: "Three Pillars of Million Dollar Months"
+      description: "Great offer + Sales/marketing conjoined + A-players"
+    - id: "MM-JH-YT-002"
+      name: "Conviction Gap Model"
+      description: "Salesperson enters high, prospect low. Deal happens when levels meet. Never lower yours."
+    - id: "MM-JH-YT-003"
+      name: "No Reduction Ratio"
+      description: "One option = 50% no. Three options = 25% no. Always give 3+ options."
+    - id: "MM-JH-YT-004"
+      name: "Ray Dalio Scaling Spiral"
+      description: "Scale up → hit wall → contract → solve → confirm → scale higher. Repeat."
+    - id: "MM-JH-YT-005"
+      name: "Good/Great/Intolerable KPI Framework"
+      description: "Define 3 benchmarks for every KPI. Creates certainty when scaling."
+    - id: "MM-JH-YT-006"
+      name: "Two Types of Problems"
+      description: "Marketing Knobs (fixable instantly) vs People Problems (3-6 weeks)."
+    - id: "MM-JH-YT-007"
+      name: "Interest Level Spectrum"
+      description: "Curious → General Interest → Interested → Ready to Buy."
+    - id: "MM-JH-YT-008"
+      name: "Lump Sum vs Daily Lead Flow"
+      description: "Events = revenue spikes. Call funnels = consistent up-and-to-right."
+    - id: "MM-JH-YT-009"
+      name: "Pixel Conditioning Model"
+      description: "Only send qualified lead data to pixel. Send turds, get more turds."
+    - id: "MM-JH-YT-010"
+      name: "Character Expectation Match"
+      description: "Match character expectations of demographic in VSLs and ads."
+    - id: "MM-JH-YT-011"
+      name: "Selfish Questions vs Value-Added Questions"
+      description: "Never ask sensitive info directly. Give a reason that benefits THEM."
+
+  heuristicas:
+    - text: "Cost per qualified call: $50 to $900 acceptable range"
+    - text: "5 minutes speed-to-lead = +50% close probability"
+    - text: "5-9% video play rate on landing pages"
+    - text: "50% drop-off between separate application and scheduler"
+    - text: "Show rates: 50% low, 65-80% high"
+    - text: "$200K-$300K/month spend for 40-50 calls/day at $200 CPC"
+    - text: "15% one-call close rate benchmark"
+    - text: "70% → 65% → 60% → 38% two-call funnel cascade"
+    - text: "20% sales commission, $15K/month marketing fee"
+    - text: "10-30% daily ad spend scaling rate"
+    - text: "2x sale cycle = minimum judgment window"
+    - text: "3-4 weeks closer onboarding cycle"
+    - text: "2-15 min VSL length for affluent audiences"
+    - text: "Trust deficit = 50% scaling frequency loss"
+    - text: "+20-30% show rate from combined tactics"
+    - text: "$292K spend, 1.9x front-end ROAS, $3.4M backend"
+    - text: "$60 CPA, $140-$160 AOV for paid challenge"
+    - text: "$5K threshold between mini webinar 1.0 and 2.0"
+    - text: "4-week threshold before closer capacity breaks"
+    - text: "Simple white background VSL > overdesigned for affluent"
+    - text: "Market crashes = massive CPC spikes"
+
+  frameworks:
+    - name: "Call Funnel Architecture"
+    - name: "Hammer Them Strategy"
+    - name: "Financial Modeling Framework for Call Funnels"
+    - name: "Sales Team Structure Evolution (Cleaner → Setter → Closer)"
+    - name: "Value-Driven Follow-Up System"
+    - name: "Show Rate Maximization Framework"
+    - name: "AOV Maximization Framework"
+    - name: "Challenge Funnel Architecture"
+    - name: "Price-First Sales Framework"
+    - name: "Closer Recruiting System"
+    - name: "Sales Training Operating System (Grant Cardone Model)"
+    - name: "New Lead Contact Protocol"
+    - name: "Fast Action Incentive Framework"
+
+  metodologias:
+    - name: "Launch a Call Funnel from Scratch"
+    - name: "Scale a Call Funnel to $1M/Month"
+    - name: "Ad Fatigue Recovery Protocol"
+    - name: "Setter-Closer Model Implementation"
+    - name: "VSL Creation for High Ticket (Affluent)"
+    - name: "Pixel Conditioning Protocol"
+    - name: "New Hire Sales Training Process (Restaurant Model)"
+    - name: "AI Sales Call Analysis Pipeline"
+    - name: "Challenge Funnel Execution Methodology"
+
+# ═══════════════════════════════════════════════════════════════════
+# WAVE 2: PAID ADS & META/ANDROMEDA (83 elements)
+# Files: 37 transcriptions
+# ═══════════════════════════════════════════════════════════════════
+
+wave_2_paid_ads:
+  key_themes:
+    - "Pixel Conditioning (standard events > custom conversions)"
+    - "Meta Andromeda adaptation (broad targeting forced)"
+    - "Creative IS targeting post-Andromeda"
+    - "Propaganda Content Marketing"
+    - "Hammer Them Campaign (30-50 short + 15-30 long form)"
+    - "Bottleneck Analysis (find easiest metric to double)"
+    - "Intraday scaling (double budget every 3 hours)"
+    - "Creative surplus mandatory ($10K+/day = new creatives weekly)"
+    - "Account safety (max 250 ads, 5-10 changes/day)"
+
+  key_heuristicas:
+    - text: "50% minimum margins required to scale aggressively"
+    - text: "$400→$40 CPA swing from proper event optimization"
+    - text: "80%+ show rate with 1 email = strong offer signal"
+    - text: "<$1K/day: 2-3 creatives/ad set | $5K/day: $500-1K testing | $10K+/day: dedicated testing account"
+    - text: "Double budget every 3 hours when scaling intraday"
+    - text: "Midnight launch → 8am checkpoint → 5pm decision"
+    - text: "4% link CTR = exceptional; don't expect to double it"
+    - text: "30-50 short form + long form content pieces per lead pre-call"
+    - text: "High CPMs = creative problem first, not targeting"
+    - text: "Broad/Advantage+ > Interest targeting post-Andromeda"
+    - text: "4X+ ROAS = increase spend, don't tinker"
+    - text: "$100K-$300K/month existing revenue = ideal scaling client"
+    - text: "Max 250 ads/account; max 5-10 changes/day; warm up from $50-100/day"
+    - text: "Andromeda caused 30-100%+ CPM increases"
+    - text: "DM ads: <15 sec video hooks; conversation starters"
+    - text: "$15K/day needs: 3-5 winning creatives, 10-15% testing budget, 2+ accounts"
+    - text: "8 A-players = work of 40 people"
+    - text: "Duplicating ad sets at low budgets = 2017 tactic = failure mode"
+
+  key_frameworks:
+    - name: "Pixel Conditioning Framework (6 steps)"
+    - name: "The Hammer Them Campaign (7 steps)"
+    - name: "Four Key Levers of Paid Advertising Profitability"
+    - name: "Post-Andromeda Campaign Structure"
+    - name: "Creative Testing Framework by Budget Tier"
+    - name: "Propaganda Content Marketing Strategy"
+    - name: "Retargeting Stack Strategy (5 layers)"
+    - name: "Aggressive Intraday Scaling Protocol"
+    - name: "Bottleneck Analysis Framework"
+    - name: "Facebook Ad Account Safety Protocol"
+    - name: "Organic-Paid Amplification Bridge"
+    - name: "Scaling to $15K/Day Checklist"
+    - name: "Predictable Ad Costs Framework"
+
+# ═══════════════════════════════════════════════════════════════════
+# WAVE 3: OFFERS, MESSAGING & CONTENT (65 elements)
+# Files: 32 transcriptions
+# ═══════════════════════════════════════════════════════════════════
+
+wave_3_offers_messaging:
+  key_themes:
+    - "13 Desires of Rich People"
+    - "4 Buyer Types (Type 1: buy now → Type 4: time vampire)"
+    - "Sold/Swing Vote/Unsold spectrum"
+    - "Propaganda Content Types (Framing, Objection Handling, Ways to Think)"
+    - "You're Fucking Me Scale (pricing/value balance)"
+    - "Confirmation page = 17% show rate improvement"
+    - "90% of time removing opt-in improves show rate"
+    - "Group Closing Call (dead lead revival)"
+    - "Dissertation Reasons CRM system"
+
+  key_heuristicas:
+    - text: "70-90% = great show rate, 50% = mediocre, 30s = terrible"
+    - text: "17% show rate lift from confirmation page alone"
+    - text: "3-4% of demographic in-market at any time"
+    - text: "$150 cost per call average benchmark"
+    - text: "200 members × $5K = $1M/month recurring"
+    - text: "3.4-3.7% annualized churn (excellent)"
+    - text: "8 calls/day per closer"
+    - text: "$0.001-$0.01 per content impression"
+    - text: "50-70% email open rate = good; 30s = too many"
+    - text: "Max 6 emails/day; start at 3"
+    - text: "90% probability opt-in removal helps show rate"
+    - text: "18→7 questions = -20% show rate"
+    - text: "Under 50 = text first; Over 50 = calls acceptable"
+    - text: "80/20 video-to-image ad ratio"
+    - text: "Group closing: Tue + Fri, ~20% close rate"
+
+# ═══════════════════════════════════════════════════════════════════
+# WAVE 4: WEBINARS, CHALLENGES, LOW-TO-HIGH (74 elements)
+# Files: 26 transcriptions
+# ═══════════════════════════════════════════════════════════════════
+
+wave_4_webinars_challenges:
+  key_themes:
+    - "4 Levels of Scaling (Guppy → Middle → Almost There → Big Dog)"
+    - "Funnel Tier List (S to D ranking)"
+    - "Friction Spectrum (low friction = high volume + low intent)"
+    - "Scanner Mode vs Justification Mode"
+    - "Oil Field/Aquifer audience model"
+    - "DSL Deck Sales Letter (70% reach slide 5 vs 25% VSL completion)"
+    - "60-Day Challenge Promotional Cycle"
+    - "Person 1 vs Person 2 sales model"
+
+  key_heuristicas:
+    - text: "Webinar CPL $5-12, Show 20-40%, Close 5-10%"
+    - text: "12-14 emails before webinar, 6/day close-in"
+    - text: "Best webinar days: Tue-Wed-Thu 8:30pm EST"
+    - text: "Paid challenge show rates: 70/65/50% per day"
+    - text: "Challenge conversion: 3-7% paid, 1-3% free"
+    - text: "60-day promo cycle: $37-47 early → $87-97 extended → $147 punisher"
+    - text: "30-50% VIP take rate"
+    - text: "Low ticket entry: $99+ (avoid $7-30 zone)"
+    - text: "5-20% per OTO, 2:1 front ROAS target"
+    - text: "DSL: 70% to slide 5, 45% complete vs 25% VSL"
+    - text: "Hydra: 20 touchpoints, 12 meetings, 3-6 months"
+    - text: "Daily 3-5x ROAS, Live 5-8x ROAS"
+    - text: "$7,500 max direct checkout threshold"
+    - text: "90 min webinar affluent, 2-3 hrs general public"
+    - text: "5-6x ROAS on high ticket webinars, $80K test budget"
+
+# ═══════════════════════════════════════════════════════════════════
+# WAVE 5: MINDSET, TEAM & BUSINESS (76 elements)
+# Files: 42 transcriptions
+# ═══════════════════════════════════════════════════════════════════
+
+wave_5_mindset_team:
+  key_themes:
+    - "Summiting Model + Sophisticated Gambler progression"
+    - "Tweaker Mode (speed of problem solving = speed of growth)"
+    - "Spectrum of Certainty (second-mover pocket)"
+    - "Stallions, Camels, Donkeys (A/B/C players)"
+    - "Narrative Management (half the job is managing the story)"
+    - "Time Pyramid (buy back time in layers)"
+    - "Digital Jeremy Army (AI leverage)"
+    - "Leaks and Revenue Multipliers"
+
+  key_heuristicas:
+    - text: "0.1% of businesses ever crack $10M/year"
+    - text: "3-5 days max booking window before show rates collapse"
+    - text: "Hiring a closer can add $140K-200K/month"
+    - text: "$10-20K/month avg closer, $20-50K top closer"
+    - text: "Top closer: $80K-133K/month in commissions"
+    - text: "Names on calls: up to 30% show rate difference"
+    - text: "Pixel conditioning took one account $300K→$770K in 30 days"
+    - text: "3-3.5% annualized churn benchmark"
+    - text: "A-players: $20K-50K/month specialized roles"
+    - text: "Vibe coder roles: $6K-15K/month"
+    - text: "Mar-Sep = best US revenue period"
+
+  key_frameworks:
+    - name: "Closer Recruitment Funnel (9 steps)"
+    - name: "Financial Endurance Framework"
+    - name: "6 Deadliest Bottlenecks of Scaling"
+    - name: "Fulfillment Optimization (Speed × Outcomes × Consistency)"
+    - name: "Lump-Sum Actions Framework"
+    - name: "Sales vs Marketing Resolution Framework"
+    - name: "Non-Obvious Sales Performance Framework"
+    - name: "$1M/Month Annual Roadmap"
+    - name: "AI Integration Stack"
+    - name: "Perfect Client Traits (20 of 23)"
+    - name: "30-Day Business Takeover Framework"
+
+# ═══════════════════════════════════════════════════════════════════
+# WAVE 6: CASE STUDIES & CROSS-CLIENT PATTERNS
+# Files: 38 transcriptions
+# ═══════════════════════════════════════════════════════════════════
+
+wave_6_case_studies:
+  case_studies:
+    - client: "Addiction Recovery Info"
+      result: "$120K→$22M in 19mo, $1.8M spend, 10-20x ROAS, exited $40M"
+    - client: "Consulting #40"
+      result: "$100K→$1.4M/mo in 13mo, $400K spend, endured $600 CPQ"
+    - client: "Ben (Crypto Research)"
+      result: "$200-300K→$1M/mo, scaled $10K/day ads, one closer did $1M cash"
+    - client: "AI Agency"
+      result: "$500K→$5M/mo in 7mo, 50+ sales reps, AI macro trend"
+    - client: "Ryan Clogg/Warrior Babe"
+      result: "$3M→$5M/mo, $91.6M cumulative, $600K single-day revenue"
+    - client: "Carlton (Tax)"
+      result: "$500-800K→$1M/mo, chunk method, $50K+ offers"
+    - client: "Ed (Tax Reduction)"
+      result: "$100-200K→$1M PROFIT/mo, top closer $200K+ cash"
+    - client: "Edward (MIM→IC)"
+      result: "$30K→$1M/mo, statistical anomaly, rapid scale"
+    - client: "Brez/Pierre"
+      result: "$0→$2M/mo, 400M+ views, 43K clippers, organic+webinar"
+    - client: "Mason/Sanjay"
+      result: "$300-400K→$1M/mo, offer pivot to AI+webinars"
+
+  cross_client_patterns:
+    - "89% of recent $1M/mo winners used webinars"
+    - "Mindset/environment is the main bottleneck (not tactics)"
+    - "Sales team quality is #1 variable after offer-market fit"
+    - "Financial modeling creates immediate scaling confidence"
+    - "Organic-only hits ceiling at $400-700K/mo"
+    - "Macro trend attachment = fastest scaling"
+
+  key_heuristicas:
+    - text: "Cost per qualified call endurable up to $600 Meta, $1,125 Google"
+    - text: "+30% Wed, -10% Sun = 20% net weekly ad growth"
+    - text: "Show rates: 60-78%, Close rates: 35-42%"
+    - text: "$1.8M spend → $22M revenue in 19 months (10-20x ROAS)"
+    - text: "Q4: 70% annual ad spend concentrated, 70% metric inflation"
+    - text: "89% of $1M/mo winners used webinars"
+    - text: "Andromeda: 50+ creatives/week (200/month) for optimal"
+    - text: "1.8 seconds average attention per social post"
+    - text: "TikTok CPMs: $5-6"
+    - text: "$500K→$5M/mo in 7 months (AI trend attachment)"
