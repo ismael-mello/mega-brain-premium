@@ -1,0 +1,156 @@
+# DNA-CONFIG.yaml — ROI Hunters Podcast
+# Versão: v2.0.0
+# Criado: 2026-04-01
+# Atualizado: 2026-04-02
+# Tipo: PODCAST (multi-guest, BR)
+
+pessoa: roi-hunters
+nome_completo: "ROI Hunters Podcast (Dener Lippert)"
+tipo: PODCAST
+idioma: pt-BR
+host: "Dener Lippert"
+co_hosts:
+  - "Guilherme Lippert"
+  - "João Vitor"
+  - "João Pedro"
+empresa_host: "V4 Company"
+
+# Fonte primária
+raiz: "knowledge/external/sources/roi-hunters/raw/"
+total_episodios: 670
+episodios_processaveis: 661
+episodios_descartados: 9  # <2KB
+
+# Status do pipeline
+pipeline:
+  status: COMPLETE
+  started_at: "2026-04-01T22:40:00Z"
+  completed_at: "2026-04-02T00:30:00Z"
+  wave_1:
+    status: COMPLETE
+    files: 225
+    batches: 5
+    elements: 336
+    description: "Episódios >50KB (full episodes)"
+  wave_2:
+    status: COMPLETE
+    files: 231
+    batches: 5
+    elements: 322
+    description: "Episódios 10-50KB (medium)"
+  wave_3:
+    status: COMPLETE
+    files: 175
+    batches: 4
+    elements: 118
+    description: "Episódios 2-10KB (short clips)"
+  total_batches: 14
+  total_batch_files: 13  # Batch A Wave1 was in-memory only
+
+# DNA layers
+dna_layers:
+  philosophies:
+    count: 181
+    files: "DNA-WAVE*-BATCH-*.yaml (distributed across 13 batch files)"
+  mental_models:
+    count: 153
+    files: "DNA-WAVE*-BATCH-*.yaml"
+  heuristics:
+    count: 227
+    files: "DNA-WAVE*-BATCH-*.yaml"
+  frameworks:
+    count: 129
+    files: "DNA-WAVE*-BATCH-*.yaml"
+  methodologies:
+    count: 86
+    files: "DNA-WAVE*-BATCH-*.yaml"
+  total_elements: 776
+
+# Temas recorrentes identificados
+temas_principais:
+  - marketing-digital
+  - growth-hacking
+  - vendas-b2b
+  - vendas-b2c
+  - branding
+  - trafego-pago
+  - copywriting
+  - e-commerce
+  - lideranca
+  - inteligencia-artificial
+  - crm-retencao
+  - product-led-growth
+  - lancamentos-digitais
+  - metricas-kpis
+  - gestao-equipes
+  - trade-marketing
+  - oratoria-comunicacao
+  - networking
+  - franquias
+  - marketplace
+  - experiencia-cliente
+  - conteudo-organico
+  - varejo-fisico-digital
+  - internacionalizacao
+  - recorrencia-assinatura
+
+# Convidados notáveis identificados (50+)
+convidados_notaveis:
+  - nome: "Carlos Busch"
+    temas: [vendas, experiencia-cliente, atividade-chave]
+    episodios: ["#323"]
+  - nome: "Thiago Nigro (Primo Rico)"
+    temas: [growth, metricas, audiencia]
+    episodios: ["#91", "#100"]
+  - nome: "Érico Rocha"
+    temas: [lancamentos, infoprodutos, margem]
+    episodios: ["launch funnels"]
+  - nome: "Erich Shibata (CIMED)"
+    temas: [trade-marketing, sell-out, mass-media]
+    episodios: ["branding-cultura"]
+  - nome: "Bruno Nardon"
+    temas: [retencao, product-market-fit]
+    episodios: ["#262"]
+  - nome: "Augusto Rocha (PMWeb)"
+    temas: [crm, revenue-engine]
+    episodios: ["crm"]
+  - nome: "Natano Mattos"
+    temas: [tech, inovacao, use-case]
+    episodios: ["#175", "clips"]
+  - nome: "Leonardo Cirino (CMO Exame/Smart Fit)"
+    temas: [branding, midia, growth]
+    episodios: ["23 anos marketing"]
+  - nome: "Fernando Miranda"
+    temas: [lancamentos-digitais]
+    episodios: ["como fazer lancamento"]
+  - nome: "Conrado Adolpho"
+    temas: [8Ps-marketing]
+    episodios: ["8Ps"]
+  - nome: "Giovanni Begossi"
+    temas: [oratoria, comunicacao]
+    episodios: ["oratoria"]
+  - nome: "Marcus Marques"
+    temas: [eventos, escala]
+    episodios: ["acelerador"]
+  - nome: "Aaron Ross"
+    temas: [vendas-outbound, predictable-revenue]
+    episodios: ["#154"]
+  - nome: "Paulo Cuenca"
+    temas: [instagram, conteudo]
+    episodios: ["instagram"]
+  - nome: "Bettina Rudolph"
+    temas: [copywriting, empreendedorismo]
+    episodios: ["copywriter-empresaria"]
+  - nome: "Robson Harada"
+    temas: [growth, conversao, member-get-member]
+    episodios: ["growth"]
+
+# Materiais fonte
+materiais_fonte:
+  - tipo: "podcast-transcription"
+    formato: "markdown-whisper"
+    modelo_transcricao: "whisper-small"
+    total_arquivos: 670
+    tamanho_total: "6.4MB"
+    path: "knowledge/external/sources/roi-hunters/raw/"
+    qualidade_nota: "Variável. ~15-20% dos episódios têm artefatos de transcrição (repetições Whisper). Conteúdo útil extraído de ~85% dos arquivos."

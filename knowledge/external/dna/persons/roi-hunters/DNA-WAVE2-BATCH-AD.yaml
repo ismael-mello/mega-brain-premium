@@ -1,0 +1,597 @@
+# ============================================================================
+# ROI HUNTERS PODCAST — DNA EXTRACTION WAVE 2 BATCH AD
+# ============================================================================
+# Source: 46 episódios (35 usáveis, 11 corrompidos)
+# Host: Dener Lippert (V4 Company)
+# Co-hosts: Guilherme Lippert, João Vitor, João Pedro, Fernando Miranda
+# IDs: RH-PHI-450+, RH-MM-450+, RH-HEUR-450+, RH-FW-450+, RH-MET-450+
+# Language: PT-BR
+# ============================================================================
+
+metadata:
+  batch: wave2_batch_ad
+  total_files: 46
+  usable_files: 35
+  corrupted_files:
+    - transcription_NOVOS_RUMOS_DAS_EMPRESAS_DE_TELECOM___Andreia_Junqueira.md
+    - transcription_O_Fim_do_Gestor_de_Tr_fego___ROI_Hunters__56.md
+    - transcription_O_Guia_definitivo_de_Outbound___ROI_Hunters__209.md
+    - transcription_O_que___UGC__User_Generated_Content_____ROI_Hunters__218.md
+    - transcription_O_que_o_case_da_BARBIE_ensina_sobre_a_ind_stria_de_INFOPRODUTOS.md
+    - transcription_Os_Segredos_de_Crescimento_da_Oficina_Reserva___ROI_Hunters__88.md
+    - transcription_OVERDELIVERY___UM_ERRO_GIGANTE.md
+    - transcription_Pare_de_fazer_Conte_do___ROI_Hunters__108.md
+    - transcription_Por_que_n_o_pagamos_comiss_o____ROI_Hunters__155.md
+    - transcription_POR_QUE_O_GRUPO_PRIMO_SURGIU____BRUNO_PERINI.md
+    - transcription_Porque_TECH___obrigat_rio_para_marketeiros__ROI_Hunters__195.md
+  extraction_date: "2026-04-01"
+
+# ============================================================================
+# L1 — PHILOSOPHIES (Crenças fundamentais)
+# ============================================================================
+
+philosophies:
+
+  - id: RH-PHI-450
+    text: "Networking não muda sua vida de uma hora pra outra. Ninguém vai te dar 100 horas da vida dela — no máximo uma pequena inflexão. O ROI do networking vem em 10 anos, não em 10 dias"
+    guest: Dener Lippert / João Pedro
+    episode: "#202 Networking é superestimado?"
+    domain: [networking, mindset]
+
+  - id: RH-PHI-451
+    text: "O jeito mais fácil de fazer networking é comprar acesso — pagar para estar em evento, participar de mastermind, comprar atenção de quem você quer conhecer. A melhor forma de conectar com alguém é gerar valor pra pessoa"
+    guest: Dener Lippert
+    episode: "#202 Networking é superestimado?"
+    domain: [networking, estrategia]
+
+  - id: RH-PHI-452
+    text: "Quando você conecta duas pessoas do seu network, você aumenta o seu network com as duas. Conectar pessoas é o que mais gera valor no networking"
+    guest: João Pedro
+    episode: "#202 Networking é superestimado?"
+    domain: [networking, relacionamento]
+
+  - id: RH-PHI-453
+    text: "Procure pessoas com menos assédio — quanto menos famosa e assediada a pessoa, mais aberta ela é para te ouvir e pode te gerar mais valor do que o influenciador mega-assediado"
+    guest: Dener Lippert
+    episode: "#202 Networking é superestimado?"
+    domain: [networking, estrategia]
+
+  - id: RH-PHI-454
+    text: "No networking, eu nunca peço nada. Sempre começo ajudando a pessoa de alguma forma. Estou colecionando favores — na escala, uma boa parte dessas pessoas naturalmente vão me ajudar"
+    guest: João Pedro
+    episode: "#202 Networking é superestimado?"
+    domain: [networking, mindset]
+
+  - id: RH-PHI-455
+    text: "Relatório não gera insight, ele gera highlight. O papel do executivo é tirar o insight. Você pode encher um dashboard de highlights que não geram insights — o que importa é a tomada de decisão"
+    guest: Dener Lippert / Guilherme Lippert
+    episode: "#54 Melhor Processo para Gerar Relatórios"
+    domain: [analytics, bi]
+
+  - id: RH-PHI-456
+    text: "Mercado competitivo e commodity são coisas diferentes. Uma commodity é competitivo por definição, mas nem todo competitivo é commodity. Se teu produto é commodity, precisa se diferenciar no que está ao redor do produto"
+    guest: Dener Lippert / Guilherme Lippert
+    episode: "#57 Mercados Extremamente Competitivos"
+    domain: [estrategia, posicionamento]
+
+  - id: RH-PHI-457
+    text: "Não existe nada no marketing que vai funcionar pra sempre. Você tem que ter um leque de estratégias sustentáveis ao longo do tempo — os foundations"
+    guest: Dener Lippert
+    episode: "Os 4 Vs do Growth"
+    domain: [growth, marketing]
+
+  - id: RH-PHI-458
+    text: "Growth não é só acquisition. A equação é Acquisition + Retention + Monetization = Growth. A galera foca na primeira venda e esquece da retenção. Quando lembra da retenção, esquece do monetization"
+    guest: Guilherme Lippert
+    episode: "#170 Não Cometa Esse Erro na Sua Empresa"
+    domain: [growth, revenue]
+
+  - id: RH-PHI-459
+    text: "Acquisition não significa que o cara está me pagando. Eu posso adquirir clientes para a base mesmo que não paguem — isso é um asset. A maioria dos funis tem essa quebra entre o lead complete e a monetização"
+    guest: Guilherme Lippert
+    episode: "#170 Não Cometa Esse Erro na Sua Empresa"
+    domain: [growth, acquisition]
+
+  - id: RH-PHI-460
+    text: "Faturamento é vaidade. O que importa é a última linha da DRE — é ali que está o lucro. Liquidez manda. O contador típico não captura as arbitragens e oportunidades escondidas que existem na operação"
+    guest: Marcelo (Patrimônio)
+    episode: "O Maior Problema da Contabilidade Brasileira"
+    domain: [financeiro, gestao]
+
+  - id: RH-PHI-461
+    text: "Tráfego pago nunca vai morrer, mas depender de um único canal que traz 70% da tua venda é suicídio. O CPM vai ficar mais caro à medida que grandes anunciantes como Ambev despejarem budgets bilionários no digital"
+    guest: Dener Lippert
+    episode: "#82 O FIM do Tráfego Pago"
+    domain: [trafego, midia]
+
+  - id: RH-PHI-462
+    text: "O melhor jeito de se diferenciar num mercado competitivo não é ter o produto melhor — é pegar um nicho específico, dominar aquele nicho, e usar a grana que ele gera pra ir pros próximos nichos"
+    guest: Guilherme Lippert
+    episode: "#57 Mercados Extremamente Competitivos"
+    domain: [estrategia, nicho]
+
+  - id: RH-PHI-463
+    text: "Politicagem dentro de empresas acontece quando as entregas são baseadas no que a pessoa quer e não no que precisa ser feito. O conflito de interesses é inerente: dono quer vender mais, gerente quer garantir emprego, fornecedor quer garantir contrato"
+    guest: Dener Lippert / João Vitor
+    episode: "#51 Politicagem Dentro de Grandes Empresas"
+    domain: [gestao, cultura]
+
+  - id: RH-PHI-464
+    text: "Conteúdo para negócio é diferente de conteúdo genérico. A diferença é ter objetivo claro e métricas para acompanhar — quando você desenha o objetivo (lead, awareness, aquisição), o conteúdo se abre para monetização"
+    guest: Paulo Cuenca
+    episode: "Paulo Cuenca: O Segredo do Engajamento no Instagram"
+    domain: [conteudo, marketing]
+
+  - id: RH-PHI-465
+    text: "Jaleco é um símbolo para profissionais de saúde. Ninguém nunca pensou em trazer moda para ele — era um hábito secular. A gente não criou um produto novo; abriu os olhos das pessoas que aquilo poderia ser expressão e autoestima"
+    guest: Dra. Cherie
+    episode: "Milionária Vendendo Jaleco"
+    domain: [branding, nicho]
+
+  - id: RH-PHI-466
+    text: "Padronização e documentação são coisas diferentes. Tudo que você faz é um processo; um processo padronizado é feito sempre da mesma forma. Documentação é descrever e armazenar o que foi feito e como"
+    guest: Guilherme Lippert / João Vitor
+    episode: "#122 Por que sua empresa deveria ESCREVER MAIS"
+    domain: [processos, gestao]
+
+  - id: RH-PHI-467
+    text: "A gente gerou um vício de overdelivery — entregava pro cliente algo que nem estava no contrato. Se fudeu porque gerava valor sem extrair valor. O cliente foi de 100k/mês pra 1 milhão e continuava pagando 4 mil"
+    guest: Dener Lippert
+    episode: "Overdelivery é um Erro Gigante"
+    domain: [pricing, servicos]
+
+  - id: RH-PHI-468
+    text: "O product-led growth é real — Steve Jobs era influente mas o cliente da Apple compra pelo produto, não pela influência do Steve Jobs. O cliente da Amazon nem gosta do Jeff Bezos. O talhado de produto era muito foda"
+    guest: Natano Mattos
+    episode: "O que explica o sucesso do Uber e do Spotify"
+    domain: [produto, growth]
+
+  - id: RH-PHI-469
+    text: "Uma das soluções para churn de receita é cobrir com expansão dos mesmos clientes que estão indo bem. Revenue churn importa mais que logo churn — um cliente que sai de 2.500 pra 100.000/mês justifica dezenas de churns"
+    guest: Dener Lippert
+    episode: "Por que sua empresa deve olhar para Revenue"
+    domain: [revenue, retencao]
+
+  - id: RH-PHI-470
+    text: "Evento como estratégia de growth não precisa dar ROI direto. A V4 gastou 1,2 milhão e captou 600 mil — botou 600 mil do bolso. Mas o ROI vem no LTV da equipe que sai motivada pro ano todo com sangue no olho"
+    guest: Dener Lippert / Guilherme Lippert
+    episode: "#124 Os bastidores do MAIOR EVENTO da V4"
+    domain: [eventos, growth]
+
+# ============================================================================
+# L2 — MENTAL MODELS (Modelos de pensamento)
+# ============================================================================
+
+mental_models:
+
+  - id: RH-MM-450
+    text: "Modelo de Networking por Escala: Jovem → compensa falta de dinheiro sendo ativo em comunidades (Stack Overflow, Facebook Groups). Maduro → compra acesso (eventos, masterminds, conselhos). Em qualquer caso, gerar valor primeiro"
+    guest: João Pedro / Dener Lippert
+    episode: "#202 Networking é superestimado?"
+    domain: [networking, carreira]
+
+  - id: RH-MM-451
+    text: "Ciclo de Vida do Criativo/Campanha: Todo criativo tem uma curva S — lançamento, crescimento, maturidade, declínio, morte. A Apple faz iPhone novo antes do declínio. Mesma lógica para anúncios: reviver criativos antigos que já declinaram pode funcionar meses depois"
+    guest: Guilherme Lippert / Dener Lippert
+    episode: "#119 O Ciclo de Vida da Campanha"
+    domain: [trafego, criativos]
+
+  - id: RH-MM-452
+    text: "Garbage In, Garbage Out na segmentação: Se você dá ao Facebook informações ruins de público, ele vai te entregar resultado ruim. Input de qualidade (eventos corretos no pixel, custom audiences, lookalikes bem construídos) = output de qualidade"
+    guest: Guilherme Lippert
+    episode: "#31 Públicos do Facebook"
+    domain: [trafego, segmentacao]
+
+  - id: RH-MM-453
+    text: "GMV vs Receita vs Margem de Contribuição: GMV é tudo que transaciona; receita é o que pertence ao negócio (take rate); margem de contribuição é o que sobra. No marketplace, as três métricas contam histórias completamente diferentes"
+    guest: Fernando Miranda / Dener Lippert
+    episode: "#78 Os Três Principais Indicadores de Performance"
+    domain: [metricas, financeiro]
+
+  - id: RH-MM-454
+    text: "O Aquário vs Mar Aberto: Primeiro pesca no mar aberto (acquisition), depois cria seu aquário (base). Todo mundo no aquário tem um LTV potencial. O exercício é descobrir qual segmento da base tem LTV mais virtuoso"
+    guest: Guilherme Lippert
+    episode: "#170 Não Cometa Esse Erro"
+    domain: [growth, retencao]
+
+  - id: RH-MM-455
+    text: "Métricas Estratégicas vs Táticas vs Operacionais: Estratégica = olha mensal/trimestral (market share, LTV). Tática = olha semanal (CAC, cohorts). Operacional = olha diário (CPL, CTR). Não tome decisão estratégica com métrica operacional"
+    guest: Guilherme Lippert / Dener Lippert
+    episode: "#54 Melhor Processo para Gerar Relatórios"
+    domain: [metricas, gestao]
+
+  - id: RH-MM-456
+    text: "Revenue Churn vs Logo Churn: Parar de olhar para quantidade de clientes perdidos e começar a olhar para receita perdida. Net Dollar Retention (NDR) compensa churn com expansion revenue dos clientes que ficam"
+    guest: Dener Lippert
+    episode: "Por que sua empresa deve olhar para Revenue"
+    domain: [retencao, revenue]
+
+  - id: RH-MM-457
+    text: "Indústria vs E-commerce: Indústria que abre e-commerce B2C muitas vezes gasta mais do que ganha. O volume B2C não é representativo pro B2B. Melhor estratégia para indústria é atacado/B2B — LTV sobre CAC é infinitamente melhor"
+    guest: Lucas Dominguez (franqueado V4)
+    episode: "#107 O e-commerce matando a indústria"
+    domain: [ecommerce, estrategia]
+
+  - id: RH-MM-458
+    text: "Modelo LinkedIn Hierárquico para Networking: Adicionar estagiários → gestores → diretores → C-level. Quando adicionar o CEO, ele já vê 37 conexões em comum e aceita. Depois mandar e-mail para os 50 maiores — 10 respondem, 5 aceitam café"
+    guest: João Pedro
+    episode: "#202 Networking é superestimado?"
+    domain: [networking, outbound]
+
+  - id: RH-MM-459
+    text: "Overdelivery Trap: Entregar mais que o contratado sem cobrar cria expectativa de gratuidade. O cliente recebe 12 pagando por 10, e quando você tenta cobrar pelos 12, ele resiste. Extrair valor proporcional ao que gera é obrigatório"
+    guest: Dener Lippert
+    episode: "Overdelivery é um Erro Gigante"
+    domain: [pricing, servicos]
+
+  - id: RH-MM-460
+    text: "4 Modelos de Crescimento para destravar negócio: (1) Mudar o Público (novo segmento), (2) Mudar o Produto (novo feature/oferta), (3) Mudar o Canal (novo canal de distribuição), (4) Mudar o Modelo de receita (subscription vs one-shot vs take rate)"
+    guest: Guilherme Lippert / João Vitor / Dener Lippert
+    episode: "#181 Os Quatro Elementos do Crescimento"
+    domain: [growth, estrategia]
+
+  - id: RH-MM-461
+    text: "Algoritmo de Leilão do Facebook: Quando você escala orçamento, o Facebook não te joga contra concorrentes gigantes que destruiriam sua performance. Ele expande gradualmente o público, o que pode causar queda de performance — é proteção, não sabotagem"
+    guest: Guilherme Lippert
+    episode: "#49 Minha Campanha deu Errado"
+    domain: [trafego, facebook]
+
+# ============================================================================
+# L3 — HEURISTICS (Regras práticas com números)
+# ============================================================================
+
+heuristics:
+
+  - id: RH-HEUR-450
+    text: "No networking via eventos: chegar em duplas ou pessoas sozinhas, NUNCA em grupos de 6+. Acima de 3 pessoas, sempre sobra alguém excluído. Contato visual é o primeiro filtro — se a pessoa devolver, chega"
+    guest: João Pedro / Guilherme Lippert
+    episode: "#202 Networking é superestimado?"
+    domain: [networking, eventos]
+
+  - id: RH-HEUR-451
+    text: "Dener fez 40 reuniões presenciais em 40 dias nos EUA (Miami a Boston). Usou 3 intercambistas logados no seu LinkedIn prospectando nas cidades que ele passaria. Outbound via LinkedIn + presença local = máxima conversão"
+    guest: Dener Lippert
+    episode: "#202 Networking é superestimado?"
+    domain: [networking, outbound]
+
+  - id: RH-HEUR-452
+    text: "Para todo relatório: definir hierarquia Estratégico > Tático > Operacional. Report semanal para táticos, mensal para estratégicos. Cohorts semanais, não diários, para métricas de conversão — acompanhar previsão por 16 semanas (4 meses) antes de declarar um cohort morto"
+    guest: Guilherme Lippert
+    episode: "#54 Melhor Processo para Gerar Relatórios"
+    domain: [analytics, reporting]
+
+  - id: RH-HEUR-453
+    text: "Nenhum cliente na V4 representa mais que 3% do faturamento. Não pode ser a Smart Fit nem o barzinho do Seu José — nenhum. Isso garante que se qualquer um sair, não impacta significativamente a operação"
+    guest: Dener Lippert
+    episode: "#96 Diretor de Marketing da XP - Lisandro Lopez"
+    domain: [gestao, risco]
+
+  - id: RH-HEUR-454
+    text: "Para commodity: diferenciação está em serviço, atendimento, branding, experiência e distribuição — não no produto. Para mercado competitivo (mas não commodity): nichar é a estratégia — tênis de corrida → maratonista → maratonista que corre na chuva"
+    guest: Guilherme Lippert / Dener Lippert
+    episode: "#57 Mercados Extremamente Competitivos"
+    domain: [estrategia, nicho]
+
+  - id: RH-HEUR-455
+    text: "Os 4 Vs da jornada de crescimento na V4: V1 = Setup (descobrir indicadores), V2 = Maturar (encontrar foundations sustentáveis), V3 = Escalar (multiplicar mídia), V4 = Setorizar (colocar especialistas dedicados)"
+    guest: Dener Lippert / Guilherme Lippert
+    episode: "Os 4 Vs do Growth"
+    domain: [growth, framework]
+
+  - id: RH-HEUR-456
+    text: "5 estágios do tráfego: (1) Tráfego Direto (digitou URL), (2) Orgânico (SEO/social), (3) Pago Discovery (awareness), (4) Pago Retargeting (reengajamento), (5) Referral (indicação). Cada estágio tem maturidade e custo diferente"
+    guest: Dener Lippert / Guilherme Lippert
+    episode: "#98 Os 05 estágios do tráfego"
+    domain: [trafego, growth]
+
+  - id: RH-HEUR-457
+    text: "Para campanhas que deram errado: (1) Verificar se é um dia ruim ou tendência ruim — nunca tomar decisão com métrica de um dia. (2) Verificar se tecnicamente algo mudou (pixel quebrou, site com vírus). (3) Só depois mexer na campanha em si"
+    guest: Dener Lippert / Guilherme Lippert
+    episode: "#49 Minha Campanha deu Errado"
+    domain: [trafego, troubleshooting]
+
+  - id: RH-HEUR-458
+    text: "O primeiro ponto de otimização de campanha é configurar corretamente pixel e eventos de conversão. Se tudo é PageView, o algoritmo fica burro. Configure Lead, Purchase, AddToCart etc. para o Facebook comparar com perfis globais que convertem"
+    guest: Guilherme Lippert
+    episode: "#17 Otimização de campanhas"
+    domain: [trafego, pixel]
+
+  - id: RH-HEUR-459
+    text: "Pixel novo vs pixel com milhões rodados: Dener testou mesma campanha em conta nova e conta que rodou 4-5 milhões. Resultado foi praticamente igual — variação normal. O mito de 'aquecer pixel' é mito. O que importa é construir audiência, não 'esquentar' pixel"
+    guest: Dener Lippert
+    episode: "#17 Otimização de campanhas"
+    domain: [trafego, pixel]
+
+  - id: RH-HEUR-460
+    text: "Para pouca verba (< R$5.000/mês): foque em um único canal que você domina, um único público e um único criativo. Teste sequencial, não simultâneo. Cada teste precisa de pelo menos 3x o CPA médio em budget para gerar dados estatisticamente relevantes"
+    guest: Dener Lippert / Guilherme Lippert
+    episode: "#07 Pouca verba, e agora?"
+    domain: [trafego, orcamento]
+
+  - id: RH-HEUR-461
+    text: "Cadência de contato em CRM: a maioria dos deals morrem porque o vendedor não fez follow-up suficiente. Implementar cadência de múltiplos touchpoints no pipeline de inside sales melhorou conversão significativamente na V4"
+    guest: Guilherme Lippert / João Vitor
+    episode: "#39 O que é CRM"
+    domain: [vendas, crm]
+
+  - id: RH-HEUR-462
+    text: "Para segmentação B2B no Facebook: usar interseção de 'Administradores de páginas de negócio' + interesses que o público segue (revistas específicas, artistas, HBR Brasil) + cargo (diretor, proprietário). A interseção reduz massivamente o público e aumenta qualidade"
+    guest: Guilherme Lippert / Dener Lippert
+    episode: "#31 Públicos do Facebook"
+    domain: [trafego, segmentacao]
+
+  - id: RH-HEUR-463
+    text: "Orgânico vs Pago: não é um ou outro — é os dois. O orgânico constrói audiência e autoridade (low cost, high trust). O pago amplifica e acelera (high cost, fast). Orgânico sem pago é lento; pago sem orgânico é caro e descartável"
+    guest: Dener Lippert / Guilherme Lippert
+    episode: "#26 Orgânico VS Pago"
+    domain: [trafego, marketing]
+
+  - id: RH-HEUR-464
+    text: "Para criativos que declinaram: reviver após 3+ meses. Um criativo que performou bem e entrou em declínio pode ter uma nova curva de crescimento meses depois com a mesma audiência. Olhar vitalício, não apenas performance recente"
+    guest: Dener Lippert
+    episode: "#119 O Ciclo de Vida da Campanha"
+    domain: [trafego, criativos]
+
+  - id: RH-HEUR-465
+    text: "Planejamento tributário: no Simples Nacional, empresa com faturamento de 200 mil paga 15-16% de imposto. Com planejamento (lucro presumido ou real), pode cair para 5-10%. Aluguel em PJ no Simples não gera crédito — no lucro real, gera 33,25% de volta"
+    guest: Marcelo (Patrimônio)
+    episode: "O Maior Problema da Contabilidade Brasileira"
+    domain: [financeiro, tributario]
+
+  - id: RH-HEUR-466
+    text: "Orçamento de marketing é feito para estourar. Se estou conseguindo ROI de 10x, não faz sentido parar de investir porque 'passou do budget'. O budget é referência, não teto — se o ROI é bom, gaste mais"
+    guest: Guilherme Lippert / Fernando Miranda
+    episode: "#78 Os Três Principais Indicadores de Performance"
+    domain: [marketing, financeiro]
+
+  - id: RH-HEUR-467
+    text: "Lista X gera Lista Y (método Prudential de vendas sem prospecção fria): Faça lista de 200 contatos pessoais. O foco NÃO é vender pra eles — é pedir indicação. Se cada um indicar 2, você tem Lista Y de 400 leads aquecidos. Danielle Martins foi top 1 mundial assim"
+    guest: Dener Lippert
+    episode: "#202 Networking é superestimado?"
+    domain: [vendas, referral]
+
+  - id: RH-HEUR-468
+    text: "Red Ventures com XP: Modelo de parceria onde a agência funciona como sócia do cliente — não apresenta pitch, conta histórias. Seleciona clientes e diz que é seletiva (scarcity). Entra fundo no negócio: pega formulário, destrincha, vai ao detalhe"
+    guest: Lisandro Lopez (CMO XP)
+    episode: "#96 Diretor de Marketing da XP"
+    domain: [vendas, servicos]
+
+  - id: RH-HEUR-469
+    text: "Quando você é indústria e quer e-commerce: um cliente vendeu 100-150k no e-commerce (relevante em B2C), mas ele disse 'isso não paga metade da minha conta de energia'. O atacado/B2B tem margem e volume incomparáveis para indústrias"
+    guest: Lucas Dominguez
+    episode: "#107 O e-commerce matando a indústria"
+    domain: [ecommerce, estrategia]
+
+  - id: RH-HEUR-470
+    text: "Power 5 do Facebook: (1) Auto Advanced Matching (pixel + dados de CRM), (2) Campaign Budget Optimization (CBO), (3) Automatic Placements, (4) Simplificação de conta (menos campanhas, mais dados por ad set), (5) Dynamic Ads. Deixar o algoritmo fazer o trabalho"
+    guest: Dener Lippert / Guilherme Lippert
+    episode: "#05 Power 5 - Anúncios automatizados no Facebook"
+    domain: [trafego, facebook]
+
+  - id: RH-HEUR-471
+    text: "Evento da V4 custou 1,2 milhão pra 750 pessoas. Captou 400k em ingressos + 200k de patrocínio = 600k receita. Prejuízo de 600k. Se cobrasse 1.500/ingresso, ainda não pagaria. O ROI vem do LTV da equipe motivada durante o ano todo"
+    guest: Dener Lippert
+    episode: "#124 Os bastidores do Maior Evento da V4"
+    domain: [eventos, financeiro]
+
+# ============================================================================
+# L4 — FRAMEWORKS (Estruturas de decisão)
+# ============================================================================
+
+frameworks:
+
+  - id: RH-FW-450
+    text: "Framework 4 Vs de Growth da V4: V1 (Setup — descobrir indicadores e testar), V2 (Maturar — criar foundations sustentáveis), V3 (Escalar — multiplicar mídia e investimento), V4 (Setorizar — especialistas dedicados por canal/função)"
+    guest: Dener Lippert / Guilherme Lippert
+    episode: "Os 4 Vs do Growth"
+    domain: [growth, framework]
+    steps:
+      - "V1 Setup: time compartilhado, testar canais, descobrir o que funciona"
+      - "V2 Maturar: transformar vitórias em estratégias sustentáveis (foundations)"
+      - "V3 Escalar: aumentar investimento 2-5x quando foundations estão sólidos"
+      - "V4 Setorizar: trazer especialistas dedicados por canal quando escala justifica"
+
+  - id: RH-FW-451
+    text: "Framework ARM (Acquisition + Retention + Monetization = Growth): Não basta adquirir — reter e monetizar são igualmente críticos. Aquisição pode ser não-pagante (ex: Spotify free). Monetização é extrair valor da base retida"
+    guest: Guilherme Lippert
+    episode: "#170 Não Cometa Esse Erro"
+    domain: [growth, revenue]
+    steps:
+      - "Acquisition: trazer pessoas para a base (pagantes ou não)"
+      - "Retention: manter na base o máximo possível (reduzir churn)"
+      - "Monetization: extrair mais valor dos retidos (upsell, cross-sell, novo modelo)"
+
+  - id: RH-FW-452
+    text: "Framework de Otimização de Campanha: (1) Verificar pixel e eventos de conversão, (2) Definir métricas por camada (estratégica/tática/operacional), (3) Testar criativos com budget mínimo de 3x CPA, (4) Escalar vencedores"
+    guest: Guilherme Lippert / Dener Lippert
+    episode: "#17 Otimização de campanhas"
+    domain: [trafego, otimizacao]
+
+  - id: RH-FW-453
+    text: "Framework 4 Elementos de Crescimento: (1) Público — para quem vendo, (2) Produto — o que vendo, (3) Canal — por onde vendo, (4) Modelo — como cobro. Quando o crescimento trava, mudar um desses 4 elementos destrava"
+    guest: Guilherme Lippert / João Vitor / Dener Lippert
+    episode: "#181 Os Quatro Elementos do Crescimento"
+    domain: [growth, estrategia]
+    steps:
+      - "Público: expandir segmento ou entrar em novo mercado"
+      - "Produto: novo feature, novo serviço, novo tier"
+      - "Canal: novo canal de distribuição ou aquisição"
+      - "Modelo: subscription vs one-shot vs take rate vs paper use"
+
+  - id: RH-FW-454
+    text: "Framework de Relatórios em 3 Camadas: Estratégico (mensal — LTV, market share, unit economics), Tático (semanal — cohorts de leads, CAC, pipeline), Operacional (diário — CPL, CTR, CPA). Cada camada tem dono e frequência diferentes"
+    guest: Guilherme Lippert / Dener Lippert
+    episode: "#54 Melhor Processo para Gerar Relatórios"
+    domain: [analytics, reporting]
+
+  - id: RH-FW-455
+    text: "Framework de Diagnóstico de Campanha Ruim: (1) É dia ruim ou tendência? Não tomar decisão com 1 dia. (2) Algo técnico mudou? (site, pixel, DNS). (3) Fadiga de criativo? Revisar ciclo de vida. (4) Mudança de público? Verificar audience overlap"
+    guest: Dener Lippert / Guilherme Lippert
+    episode: "#49 Minha Campanha deu Errado"
+    domain: [trafego, troubleshooting]
+
+  - id: RH-FW-456
+    text: "Framework de Documentação (V4): (1) Criar o processo (workflow), (2) Padronizar (checklists e regras), (3) Documentar no Notion (base de conhecimento), (4) Auditar periodicamente. Documentação viva — atualiza toda vez que muda"
+    guest: Guilherme Lippert / João Vitor
+    episode: "#122 Por que sua empresa deveria ESCREVER MAIS"
+    domain: [processos, gestao]
+
+  - id: RH-FW-457
+    text: "Framework de Segmentação Facebook em 3 camadas: (1) Retargeting/Custom Audiences (quem já interagiu), (2) Lookalike (parecidos com melhores clientes), (3) Interesse/Behavioral (cold audience). Sempre começar com o que já tem de audiência"
+    guest: Guilherme Lippert / Dener Lippert
+    episode: "#31 Públicos do Facebook"
+    domain: [trafego, segmentacao]
+
+  - id: RH-FW-458
+    text: "Framework de Revenue Operations (RevOps) da V4: (1) Mapear churn por tipo (logo vs revenue), (2) Identificar expansion opportunities nos clientes existentes, (3) Criar V4X para upsell/cross-sell, (4) Medir NDR (Net Dollar Retention)"
+    guest: Dener Lippert
+    episode: "Por que sua empresa deve olhar para Revenue"
+    domain: [revenue, retencao]
+
+  - id: RH-FW-459
+    text: "Framework Prudential de Vendas por Indicação: Lista X (200 contatos pessoais) → Ligar pedindo indicação (NÃO vendendo) → Lista Y (média 2 indicações por contato = 400 leads aquecidos) → Vender para Lista Y com referência"
+    guest: Dener Lippert (citando Danielle Martins)
+    episode: "#202 Networking é superestimado?"
+    domain: [vendas, referral]
+
+  - id: RH-FW-460
+    text: "Framework de Conteúdo para Negócios (Paulo Cuenca): Pensar como editor de revista do seu segmento. Definir seções (educação, bastidores, lifestyle, opinião). Linguagem social (não banner). Sem logo/arte excessiva. Medir métricas de negócio, não vaidade"
+    guest: Paulo Cuenca
+    episode: "Paulo Cuenca: O Segredo do Engajamento no Instagram"
+    domain: [conteudo, marketing]
+
+# ============================================================================
+# L5 — METHODOLOGIES (Processos passo-a-passo)
+# ============================================================================
+
+methodologies:
+
+  - id: RH-MET-450
+    text: "Método de 40 Reuniões em 40 Dias (Dener nos EUA): (1) Definir roteiro geográfico (Miami → Boston), (2) Contratar intercambistas para prospectar via LinkedIn nas cidades, (3) Marcar reuniões presenciais enquanto viaja, (4) Pitch: 'Sou brasileiro, quero fazer negócio nos EUA, vamos tomar um café'"
+    guest: Dener Lippert
+    episode: "#202 Networking é superestimado?"
+    domain: [networking, outbound]
+    steps:
+      - "Definir rota e datas por cidade"
+      - "Ter equipe prospectando via LinkedIn nas cidades futuras"
+      - "Mensagem simples: brasileiro, quer fazer negócio, café"
+      - "Aceitar todo convite social que surgir (festas, eventos)"
+      - "Registrar contatos e fazer follow-up pós-viagem"
+
+  - id: RH-MET-451
+    text: "Método de Networking Hierárquico via LinkedIn: (1) Adicionar estagiários da empresa-alvo, (2) Subir para gestores, (3) Subir para diretores, (4) Quando adicionar o C-level, já tem 30+ conexões em comum, (5) Mandar e-mail personalizado com pitch de valor"
+    guest: João Pedro
+    episode: "#202 Networking é superestimado?"
+    domain: [networking, linkedin]
+    steps:
+      - "Identificar empresa-alvo e mapear organograma no LinkedIn"
+      - "Adicionar colaboradores de nível mais baixo (aceitam fácil)"
+      - "Ir subindo gradualmente na hierarquia"
+      - "Quando chegar no C-level, ter 30+ conexões em comum"
+      - "Enviar e-mail com apresentação e proposta de café"
+
+  - id: RH-MET-452
+    text: "Método de Report com Cohorts (V4/G4): (1) Agrupar leads por semana de entrada, (2) Acompanhar conversão de cada cohort por 16 semanas, (3) Usar algoritmo de previsão de conversão, (4) Quando margem de erro chegar a 3-5%, modelo está maduro, (5) Decidir sobre cohort só após 4 meses"
+    guest: Guilherme Lippert
+    episode: "#54 Melhor Processo para Gerar Relatórios"
+    domain: [analytics, cohorts]
+    steps:
+      - "Agrupar leads semanalmente por canal/lead magnet"
+      - "Registrar conversões progressivas de cada cohort"
+      - "Aplicar modelo de previsão (inicialmente com margem grande)"
+      - "Calibrar modelo até margem de erro de 3-5%"
+      - "Só declarar cohort morto após 16 semanas de observação"
+
+  - id: RH-MET-453
+    text: "Método V4 de Aquisição por M&A estratégico (caso Staage): (1) Identificar gap na oferta (educação/LMS), (2) Avaliar build vs buy (buy mais rápido se produto existe), (3) Integrar ao modelo de serviços como módulo vendável, (4) Usar base existente de 3000+ clientes como distribution"
+    guest: Dener Lippert / Fernando Miranda
+    episode: "#231 Por que compramos a Staage"
+    domain: [estrategia, ma]
+    steps:
+      - "Identificar gap no portfólio que clientes já pedem"
+      - "Avaliar se é melhor construir ou comprar (build vs buy)"
+      - "Negociar e integrar a aquisição à oferta existente"
+      - "Distribuir via base de clientes existente (CAC próximo de zero)"
+
+  - id: RH-MET-454
+    text: "Método de Campanha com Pouca Verba: (1) Escolher 1 canal (o que você mais domina), (2) Criar 1 público-alvo baseado em custom/lookalike, (3) Rodar 1 criativo com 3x CPA de budget, (4) Se funcionar, escalar gradualmente. Se falhar, trocar criativo (não canal ou público)"
+    guest: Dener Lippert
+    episode: "#07 Pouca verba, e agora?"
+    domain: [trafego, orcamento]
+    steps:
+      - "Selecionar canal que domina (Facebook, Google, etc.)"
+      - "Construir público com dados que já tem (custom audience ou lookalike)"
+      - "Budget mínimo = 3x CPA médio esperado"
+      - "Testar 1 criativo por vez (sequencial, não simultâneo)"
+      - "Resultado: escalar. Sem resultado: trocar criativo, manter público"
+
+  - id: RH-MET-455
+    text: "Método de Implementação de CRM com Cadência: (1) Escolher ferramenta (Pipedrive, Nectar, HubSpot), (2) Mapear pipeline com etapas claras, (3) Definir cadência de contato por etapa (ex: 5 touchpoints em 14 dias), (4) Automatizar lembretes, (5) Medir conversão por etapa e iterar"
+    guest: Guilherme Lippert / João Vitor
+    episode: "#39 O que é CRM"
+    domain: [vendas, crm]
+    steps:
+      - "Selecionar CRM adequado ao tamanho/complexidade"
+      - "Definir pipeline: Lead → Qualificado → Proposta → Fechamento"
+      - "Cadência: 5-7 touchpoints antes de descartar lead"
+      - "Automatizar alertas de follow-up no CRM"
+      - "Dashboard semanal: conversão por etapa, velocity, cadência cumprida"
+
+  - id: RH-MET-456
+    text: "Método de Economia para Marketeiros: (1) Estudar oferta e demanda (elasticidade de preço), (2) Entender custo de oportunidade nas decisões de investimento, (3) Aplicar conceito de marginal utility ao pricing, (4) Usar unit economics (CAC, LTV, payback) como linguagem de decisão"
+    guest: Guilherme Lippert / Dener Lippert
+    episode: "#102 Porque todo marketeiro deveria estudar economia"
+    domain: [economia, marketing]
+    steps:
+      - "Estudar elasticidade de preço do seu produto/serviço"
+      - "Calcular custo de oportunidade de cada real investido"
+      - "Aplicar marginal utility: cada real extra gera menos retorno"
+      - "Comunicar ROI em linguagem de unit economics (não apenas CTR/CPL)"
+
+  - id: RH-MET-457
+    text: "Método de Lançamento Bruno Perini (Viver de Renda): (1) Base orgânica no Instagram marca data e abre carrinho, (2) Simultâneo: evento de 3 dias no YouTube com carrinho já aberto, (3) Dia 1 = Problema, Dia 2 = Solução, Dia 3 = Acelerador, (4) Primeiro lançamento com tráfego pago após 4 anos orgânico puro"
+    guest: Bruno Perini
+    episode: "Por que o Grupo Primo Surgiu"
+    domain: [lancamento, infoprodutos]
+    steps:
+      - "Construir base orgânica sólida (4+ anos no caso Perini)"
+      - "Evento de lançamento no YouTube em 3 dias"
+      - "Dia 1: foco no problema (dor do público)"
+      - "Dia 2: foco na solução (metodologia)"
+      - "Dia 3: acelerador (bônus, urgência)"
+      - "Primeiro lançamento com tráfego pago para bater recorde"
+
+# ============================================================================
+# SUMMARY
+# ============================================================================
+
+summary:
+  total_elements: 73
+  by_layer:
+    philosophies: 21
+    mental_models: 12
+    heuristics: 22
+    frameworks: 11
+    methodologies: 8
+  key_guests:
+    - Dener Lippert (host — presente em quase todos)
+    - Guilherme Lippert (co-host — presente em quase todos)
+    - João Vitor (co-host — presente em vários)
+    - João Pedro (co-host — networking, tech)
+    - Fernando Miranda (co-host — indicadores, Staage)
+    - Lisandro Lopez (CMO XP Investimentos)
+    - Paulo Cuenca (conteúdo para negócios)
+    - Lucas Dominguez (franqueado V4, e-commerce vs indústria)
+    - Natano Mattos (Uber/Spotify, PLG)
+    - Bruno Perini (Grupo Primo, lançamentos)
+    - Dra. Cherie (moda em nicho saúde)
+    - Marcelo/Patrimônio (contabilidade estratégica)
+  key_domains:
+    - growth (4 Vs, ARM, 4 Elementos)
+    - trafego (estágios, otimização, Power 5, pixel)
+    - networking (hierárquico, eventos, 40 reuniões)
+    - revenue (RevOps, NDR, expansion)
+    - analytics (relatórios 3 camadas, cohorts)
+    - estrategia (nicho, M&A, commodity)
+    - vendas (CRM, cadência, indicação Prudential)
+    - conteudo (para negócio, Paulo Cuenca)

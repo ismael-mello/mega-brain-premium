@@ -1,0 +1,607 @@
+# ============================================================================
+# ROI HUNTERS DNA — WAVE 3 BATCH AB
+# ============================================================================
+# Fonte: ROI Hunters Podcast (V4 Company)
+# Hosts: Dêner Lippert, Guilherme Lippert, Fernando Miranda
+# Episódios: 44 (COMO_MONTAR_UM_PROGRAMA... até EXISTE_UM_MONOPÓLIO...)
+# Extração: 2026-04-01
+# IDs: RH-PHI-650+, RH-MM-650+, RH-HEUR-650+, RH-FW-650+, RH-MET-650+
+# ============================================================================
+
+metadata:
+  wave: 3
+  batch: AB
+  episodes_count: 44
+  episodes_with_extractable_content: 38  # 6 tinham transcrição corrompida/repetida
+  total_elements: 89
+  extraction_date: "2026-04-01"
+  notable_guests:
+    - name: "Mario (Korokimi/Indústria Calçadista)"
+      episodes: ["COMO_NEGOCIAR_COM_FÁBRICAS_NA_CHINA", "COMO_O_BRASIL_MATOU_INDÚSTRIA", "COMO_TER_DIFERENCIAL_COMPETITIVO", "COMO_TER_DISCIPLINA_PARA_NÃO_DESISTIR", "COMO_IMITAR_GRANDES_EMPRESAS"]
+    - name: "Natalia Beauty"
+      episodes: ["COMO_PERDER_O_MEDO_DE_GRAVAR_CONTEÚDO"]
+    - name: "Leonardo Castelo"
+      episodes: ["COMO_VENDER_FRANQUIAS_PELA_INTERNET"]
+    - name: "Andreia Junqueira (Claro/Telecom)"
+      episodes: ["COMO_SERÁ_O_FUTURO_DAS_EMPRESAS_DE_TELECOM"]
+    - name: "Guilherme Lippert (CopyBase/IA)"
+      episodes: ["CUIDADOS_AO_USAR_IA", "COMO_USAR_IA_NO_MARKETING"]
+    - name: "João Vitor (Hotmart/Influenciadores)"
+      episodes: ["COMO_SER_UM_INFLUENCIADOR_DE_SUCESSO"]
+    - name: "João (CMO Lugano)"
+      episodes: ["COMO_SE_TORNAR_UM_LÍDER_DE_MARKETING"]
+    - name: "Dado (Professor/Palestrante)"
+      episodes: ["COMO_SER_ACIMA_DA_MÉDIA"]
+    - name: "Contador (Especialista Tributário)"
+      episodes: ["COMO_PAGAR_MENOS_IMPOSTO_COM_CONTABILIDADE"]
+    - name: "Alan (Gestão de Tarefas/Produtividade)"
+      episodes: ["COMO_ORGANIZAR_TAREFAS_PELO_AGENDA", "COMO_ORGANIZAR_SUA_EMPRESA"]
+
+# ============================================================================
+# L1: PHILOSOPHIES
+# ============================================================================
+L1_PHILOSOPHIES:
+
+  - id: "RH-PHI-650"
+    title: "Crescer Não É Opção, É Sobrevivência"
+    content: "Crescer não é uma opção, mas é uma estratégia de sobrevivência. Você não tá crescendo, você tá morrendo."
+    tags: ["growth", "mindset", "sobrevivência"]
+    source_file: "transcription_COMO_TER_DIFERENCIAL_COMPETITIVO.md"
+    speaker: "Dêner Lippert"
+
+  - id: "RH-PHI-651"
+    title: "Medo Que Faz Andar"
+    content: "Eu acho que quem tem medo toma risco. Porque não é um medo que paralisa, o medo faz a gente andar. Se eu sou pequeno, qualquer dinheiro vai ser muito. Então eu preciso fazer esse negócio ficar grande pra que qualquer dinheiro não seja tão impactante."
+    tags: ["medo", "risco", "crescimento", "mindset"]
+    source_file: "transcription_COMO_PERDER_O_MEDO_DE_GRAVAR_CONTE_DO____Natalia_Beauty.md"
+    speaker: "Natalia Beauty"
+
+  - id: "RH-PHI-652"
+    title: "Dinheiro É Meio, Não Fim"
+    content: "Dinheiro não pode ser o fim. Porque aí, tipo, termina. Ele é o meio. Primeiro eu vou construir a base, que vai continuar gerando muita receita e cada vez trazendo mais."
+    tags: ["dinheiro", "propósito", "reinvestimento"]
+    source_file: "transcription_COMO_PERDER_O_MEDO_DE_GRAVAR_CONTE_DO____Natalia_Beauty.md"
+    speaker: "Natalia Beauty"
+
+  - id: "RH-PHI-653"
+    title: "Fé, Pesquisa e Atitude"
+    content: "Não teve muito segredo pra aqueles primeiros contratos: fé, pesquisa e atitude. Convicção de que eu conseguia fazer aquele negócio."
+    tags: ["empreendedorismo", "início", "atitude", "fundação-V4"]
+    source_file: "transcription_COMO_NASCEU_A_V4_COMPANY___ROI__179.md"
+    speaker: "Dêner Lippert"
+
+  - id: "RH-PHI-654"
+    title: "Capturar Defeito > Indenizar"
+    content: "Se eu simplesmente indenizo, eu continuo fazendo o mesmo erro muitas vezes. Se eu analiso o defeito, provavelmente dar um novo produto já tá nos custos, mas eu não estaria no 0,008% de defeito — estaria no 2%."
+    tags: ["qualidade", "melhoria-contínua", "produto"]
+    source_file: "transcription_COMO_PRODUZIR_QUANTIDADE_COM_QUALIDADE_.md"
+    speaker: "Mario (Korokimi)"
+
+  - id: "RH-PHI-655"
+    title: "Perseverança > Velocidade"
+    content: "Em seis meses não se faz sucesso em nada. As pessoas querem sucesso numa velocidade muito rápida. Se tu tem uma estratégia boa vai dar certo, mas tem que maturar. Não tem milagre."
+    tags: ["perseverança", "longo-prazo", "disciplina"]
+    source_file: "transcription_COMO_TER_DISCIPLINA_PARA_N_O_DESISTIR.md"
+    speaker: "Mario (Korokimi)"
+
+  - id: "RH-PHI-656"
+    title: "Formar Pessoas > Contratar Prontas"
+    content: "Eu não acredito em contratar deuses. Eu acredito em formar pessoas de alto nível com a cultura do negócio."
+    tags: ["pessoas", "cultura", "formação", "hiring"]
+    source_file: "transcription_COMO_TER_DISCIPLINA_PARA_N_O_DESISTIR.md"
+    speaker: "Mario (Korokimi)"
+
+  - id: "RH-PHI-657"
+    title: "Rasgar Dinheiro do Outro Primeiro"
+    content: "Se você tem um sonho, primeiro vai trabalhar numa empresa que faz a mesma coisa e aprende rasgando o dinheiro do outro, não o teu. Quando você começa é inexperiente, impulsivo — que seja o dinheiro do outro."
+    tags: ["aprendizado", "carreira", "empreendedorismo"]
+    source_file: "transcription_COMO_TER_DISCIPLINA_PARA_N_O_DESISTIR.md"
+    speaker: "Mario (Korokimi)"
+
+  - id: "RH-PHI-658"
+    title: "Varejista É Empresa Financeira e Logística"
+    content: "O que é varejista, na minha opinião, é uma empresa financeira e logística. Se o cara não tem branding, ele depende de preço de mercado e alavancagem pela taxa do mercado."
+    tags: ["varejo", "finanças", "branding"]
+    source_file: "transcription_COMO_NEGOCIAR_COM_F_BRICAS_NA_CHINA_.md"
+    speaker: "Mario (Korokimi)"
+
+  - id: "RH-PHI-659"
+    title: "Não Assista Seus Vídeos"
+    content: "Não assiste seus vídeos. Publica e não olha. Quando eu assistia, eu postava 20% do conteúdo e descartava 80% porque encontrava defeitos. Pare de se auto-sabotar."
+    tags: ["conteúdo", "criação", "produtividade", "mindset"]
+    source_file: "transcription_COMO_PERDER_O_MEDO_DE_GRAVAR_CONTE_DO____Natalia_Beauty.md"
+    speaker: "Natalia Beauty"
+
+# ============================================================================
+# L2: MENTAL MODELS
+# ============================================================================
+L2_MENTAL_MODELS:
+
+  - id: "RH-MM-650"
+    title: "4 Quadrantes do Modelo de Negócio"
+    content: "Produto, Modelo de Monetização, Mercado e Canal. Quando você está travado, sente e analisa os 4 elementos. Geralmente 1-2 são fixos (custosos de mudar). Ajuste os outros. A cada 6 meses ou 1-2 meses travado, revise os 4 quadrantes."
+    tags: ["modelo-negócio", "pivô", "estratégia", "product-market-fit"]
+    source_file: "transcription_COMO_NASCEU_O_V4_X_.md"
+    speaker: "Dêner Lippert"
+
+  - id: "RH-MM-651"
+    title: "Zona de Hábito vs Zona de Esquecimento"
+    content: "Quanto menos frequente o cliente usa seu produto, mais fácil ele entra na zona de esquecimento (vs zona de hábito). Adicionar use cases frequentes (como cartão de crédito da XP) mantém o cliente na zona de hábito mesmo quando o core é infrequente."
+    tags: ["retenção", "hábito", "engagement", "use-case"]
+    source_file: "transcription_COMO_RETER_MAIS_CLIENTES_.md"
+    speaker: "Dêner Lippert / Guilherme Lippert"
+
+  - id: "RH-MM-652"
+    title: "Modelo de Elasticidade de Portfólio"
+    content: "Antes de ampliar mix de produto para monetizar base, entender a elasticidade do portfólio. Não se iludir achando que vai 'bombar monetizando' se não tem o que oferecer ou o cliente não pode comprar."
+    tags: ["mix-produto", "elasticidade", "monetização"]
+    source_file: "transcription_COMO_SER__O_FUTURO_DAS_EMPRESAS_DE_TELECOM___Andreia_Junqueira.md"
+    speaker: "Andreia Junqueira"
+
+  - id: "RH-MM-653"
+    title: "Combinação de Capabilities Descorrelacionadas"
+    content: "Não precisa ser top 0,01% numa especialidade. Zonas de genialidade moram na combinação de duas capabilities descorrelacionadas que juntas tornam você o top 0,001% para resolver determinado problema (conceito Naval Ravikant)."
+    tags: ["carreira", "diferenciação", "skill-stacking"]
+    source_file: "transcription_COMO_SE_DESTACAR_NA_SUA_PROFISS_O_.md"
+    speaker: "Dêner Lippert"
+
+  - id: "RH-MM-654"
+    title: "Core Protegido + Laterais Experimentais"
+    content: "Na transformação de negócio: uma área FOCADA no core (cobrada pelo core) + áreas LATERAIS desenvolvendo novas linhas de receita, com modelo de incentivo apartado MAS integrado ao core para não descorrelacionar."
+    tags: ["transformação", "inovação", "core-business", "estrutura"]
+    source_file: "transcription_COMO_SER__O_FUTURO_DAS_EMPRESAS_DE_TELECOM___Andreia_Junqueira.md"
+    speaker: "Andreia Junqueira"
+
+  - id: "RH-MM-655"
+    title: "Highlights → Insights → To-Dos → Playbooks"
+    content: "Ao estudar: (1) Highlights = o que está escrito, (2) Insights = o que você PENSOU lendo, (3) To-Dos = teste rápido para validar. Só o que sobrevive ao teste vira playbook. Teoria nunca se traduz 1:1 para prática."
+    tags: ["aprendizado", "playbook", "metodologia-estudo"]
+    source_file: "transcription_COMO_TIRAR_INSIGHTS_VALIOSOS_DO_QUE_VOC__ESTUDA_.md"
+    speaker: "Guilherme Lippert"
+
+  - id: "RH-MM-656"
+    title: "Mercado X-Y-Z (Camadas de Prospecção)"
+    content: "Prospecção em camadas: X = mercado mais próximo de você (contatos pessoais), Y = segundo grau, Z = terceiro grau. Vai entrando em camadas e é infinito. Começar pelo celular — seus 3.000+ contatos já são leads."
+    tags: ["outbound", "prospecção", "networking", "vendas"]
+    source_file: "transcription_COMO_N_O_FRUSTRAR_COM_OUTBOUND_.md"
+    speaker: "Dêner Lippert"
+
+  - id: "RH-MM-657"
+    title: "Barreira Financeira como Proteção"
+    content: "Na China, contrato não protege (não respeitam não-compete). O que protege é ser cliente relevante: forecast de R$200M de importação faz a fábrica não querer te perder. A barreira de entrada se torna financeira."
+    tags: ["china", "importação", "barreira-entrada", "proteção"]
+    source_file: "transcription_COMO_NEGOCIAR_COM_F_BRICAS_NA_CHINA_.md"
+    speaker: "Mario (Korokimi)"
+
+  - id: "RH-MM-658"
+    title: "3 Razões Pessoas Compram de Criadores"
+    content: "(1) ACESSO — querem ter acesso ao criador (Patreon model). (2) ATENÇÃO — querem ser respondidos e notados. (3) EDUCACIONAL — querem aprender algo. Se não entrega nenhum dos três, não vende."
+    tags: ["creator-economy", "monetização", "infoproduto", "assinatura"]
+    source_file: "transcription_COMO_SER_UM_INFLUENCIADOR_DE_SUCESSO____Jo_o_Vitor.md"
+    speaker: "João Vitor"
+
+  - id: "RH-MM-659"
+    title: "Um Pouquinho Acima da Média = Muito Melhor"
+    content: "Você não precisa ser extraordinário. Ser um pouquinho acima da média já te torna muito melhor que todo mundo, porque a maioria está na zona da mediocridade. Ser o chato que pergunta, que participa, já te posiciona num outro patamar."
+    tags: ["carreira", "diferenciação", "proatividade"]
+    source_file: "transcription_COMO_SER_ACIMA_DA_M_DIA_.md"
+    speaker: "Dado (Professor)"
+
+# ============================================================================
+# L3: HEURISTICS
+# ============================================================================
+L3_HEURISTICS:
+
+  - id: "RH-HEUR-650"
+    title: "Regra dos 10% para Programas de Indicação"
+    content: "Meta 10% da base recomendando. 'Bota 10% pra tudo'. Se atingiu 30%, provou que foi bom. Se abaixo de 10%, manobre o benefício."
+    value: "10%"
+    tags: ["MGM", "indicação", "benchmark", "referral"]
+    source_file: "transcription_COMO_MONTAR_UM_PROGRAMA_DE_INDICA__O_.md"
+    speaker: "Convidado (Fintech/Crypto)"
+
+  - id: "RH-HEUR-651"
+    title: "Pague o Máximo no Incentivo de Indicação"
+    content: "Se o LTV do cliente é R$100, dê R$80 de incentivo. O erro é dar R$10 quando o CAC de mídia é R$70. No MGM, pagar mais = indicação mais qualificada."
+    value: "80% do LTV"
+    tags: ["MGM", "incentivo", "CAC", "indicação"]
+    source_file: "transcription_COMO_MONTAR_UM_PROGRAMA_DE_INDICA__O_.md"
+    speaker: "Convidado (Fintech/Crypto)"
+
+  - id: "RH-HEUR-652"
+    title: "Incentivo Incremental por Profundidade de Ação"
+    content: "Não pagar flat. Pagar por profundidade: R$20 para abrir conta → R$50 para primeiro depósito → R$70 para primeiro trade. A melhor ação (cashin) recebe mais."
+    tags: ["MGM", "incentivo", "gamificação", "conversão"]
+    source_file: "transcription_COMO_MONTAR_UM_PROGRAMA_DE_INDICA__O_.md"
+    speaker: "Convidado (Fintech/Crypto)"
+
+  - id: "RH-HEUR-653"
+    title: "Lead de Indicação → Time de Outbound"
+    content: "Lead de indicação para vendedor de outbound (não closer/inbound). Para BDR, lead de indicação é 'quentíssimo'. Closer inbound não tem perfil de prospecção ativa; outbound sim."
+    tags: ["vendas", "outbound", "indicação", "alocação"]
+    source_file: "transcription_COMO_MONTAR_UM_PROGRAMA_DE_INDICA__O_.md"
+    speaker: "Flávio Augusto (via Dêner)"
+
+  - id: "RH-HEUR-654"
+    title: "Pedir Indicação para Lead, Não Só Cliente"
+    content: "Ao invés de pedir indicação só para cliente, pedir indicação já na reunião com o lead. Como escola de inglês faz. V4 faz 700 vendas B2B/mês e 10% vem de indicação de leads."
+    value: "10% das vendas via indicação de leads"
+    tags: ["vendas", "indicação", "B2B", "prospecção"]
+    source_file: "transcription_COMO_MONTAR_UM_PROGRAMA_DE_INDICA__O_.md"
+    speaker: "Dêner Lippert"
+
+  - id: "RH-HEUR-655"
+    title: "Pesquisa Quantitativa + Qualitativa para Benefício de Indicação"
+    content: "Envie pesquisa quantitativa à base: 'O que você quer para me recomendar?'. Quantifique top 5, depois faça qualitativa para ranquear. Resultado: Bitcoin > dinheiro; sticker/boné > R$50 (fator emocional)."
+    tags: ["MGM", "pesquisa", "benefício", "incentivo"]
+    source_file: "transcription_COMO_MONTAR_UM_PROGRAMA_DE_INDICA__O_.md"
+    speaker: "Convidado (Fintech/Crypto)"
+
+  - id: "RH-HEUR-656"
+    title: "Não-Venda como Estratégia de Prospecção"
+    content: "Para novato ansioso: 'Vai pensando que você não vai vender'. Ou você vende, ou pega recomendação. Se sair sem nenhum dos dois, aí sim perdeu. A não-venda não está 100% sob seu controle, mas pegar recomendação está."
+    tags: ["vendas", "outbound", "mindset", "indicação"]
+    source_file: "transcription_COMO_N_O_FRUSTRAR_COM_OUTBOUND_.md"
+    speaker: "Dêner Lippert"
+
+  - id: "RH-HEUR-657"
+    title: "Documentar AS IS, Não TO BE"
+    content: "Primeiro playbook = processo como ele REALMENTE acontece (AS IS), não como deveria ser. Se o mapa difere do terreno, a pessoa ignora o mapa. Quem deve documentar: quem executa."
+    tags: ["processos", "playbook", "documentação", "operações"]
+    source_file: "transcription_COMO_ORGANIZAR_SUA_EMPRESA_.md"
+    speaker: "Convidado (G4/Operações)"
+
+  - id: "RH-HEUR-658"
+    title: "2 Gatilhos para Documentar Processos"
+    content: "(1) Quando você percebe que faz sempre mais ou menos a mesma coisa — padronize. (2) Quando vai ensinar para muitas pessoas — base comum garante qualidade."
+    tags: ["processos", "playbook", "escala", "treinamento"]
+    source_file: "transcription_COMO_ORGANIZAR_SUA_EMPRESA_.md"
+    speaker: "Convidado (G4/Operações)"
+
+  - id: "RH-HEUR-659"
+    title: "Workload de 8h/dia para Alocação de Tarefas"
+    content: "Defina 8h/dia por pessoa, tempo padrão por tipo de tarefa (ex: landing page = 3h). Sistema mostra bolinha verde/vermelho por dia. Tem relatório que diz o quanto acertou/errou o tempo estimado."
+    value: "8h/dia"
+    tags: ["produtividade", "gestão", "alocação", "capacity"]
+    source_file: "transcription_COMO_ORGANIZAR_TAREFAS_PELO_AGENDA_.md"
+    speaker: "Alan (Produtividade)"
+
+  - id: "RH-HEUR-660"
+    title: "0,008% de Índice de Defeito = Padrão Samsung/Mercedes"
+    content: "22 mil peças/dia com índice de problema de 0,008%. Desses, 30-50% é uso do cliente, não fabricação. Manda de volta à fábrica para aprender com o erro, não simplesmente indeniza."
+    value: "0.008%"
+    tags: ["qualidade", "manufatura", "benchmark"]
+    source_file: "transcription_COMO_PRODUZIR_QUANTIDADE_COM_QUALIDADE_.md"
+    speaker: "Mario (Korokimi)"
+
+  - id: "RH-HEUR-661"
+    title: "Apresentação T-Shape para B2B"
+    content: "Slide de apresentação em formato T: amplitude (todos os setores atendidos) + profundidade (setor específico do prospect). Muda o slide profundo conforme o prospect: financial → varejo → indústria."
+    tags: ["vendas", "B2B", "apresentação", "personalização"]
+    source_file: "transcription_COMO_SE_CONECTAR_COM_O_CLIENTE_.md"
+    speaker: "Dêner Lippert"
+
+  - id: "RH-HEUR-662"
+    title: "7 Lançamentos para o Primeiro 6 em 7"
+    content: "Demorou exatamente 7 lançamentos (1,5 ano) para primeiro 6 em 7 (que foi um 6 em 1). E no mínimo 8 meses para acertar branding e começar a crescer seguidor. Ano inteiro com 2 mil seguidores."
+    value: "7 lançamentos / 18 meses"
+    tags: ["infoproduto", "lançamento", "persistência", "benchmark"]
+    source_file: "transcription_COMO_TER_MAIS_RESULTADO_NO_DIGITAL_.md"
+    speaker: "Convidado (Orador)"
+
+  - id: "RH-HEUR-663"
+    title: "CMO É o C-Level que Menos Dura no Cargo"
+    content: "Liderança de marketing é uma das funções que menos dura no cargo — menos de 2 anos. Para perdurar: não ter medo de pedir ajuda, se profissionalizar constantemente, buscar quem é melhor que você."
+    value: "<2 anos de permanência média"
+    tags: ["CMO", "liderança", "marketing", "carreira"]
+    source_file: "transcription_COMO_SE_TORNAR_UM_L_DER_DE_MARKETING_.md"
+    speaker: "João (CMO Lugano)"
+
+  - id: "RH-HEUR-664"
+    title: "UGC Alcança 50M de Pessoas por ~R$2,5M Equivalente"
+    content: "Ativação onde 50 mil pessoas tiram foto e postam, cada uma alcança ~1.000 impressões = 50 milhões de impressões orgânicas. Para alcançar 50M em mídia paga custa ~R$2,5M (CPM de R$50). E o impacto do UGC é maior."
+    value: "CPM R$50 / 50M impressões = R$2,5M equivalente"
+    tags: ["UGC", "conteúdo", "mídia", "ROI", "eventos"]
+    source_file: "transcription_CONTE_DO_GERADO_POR_USU_RIOS__O_QUE____E_COMO_USAR_.md"
+    speaker: "Dêner Lippert / Guilherme Lippert"
+
+  - id: "RH-HEUR-665"
+    title: "Lista de 100 Pessoas para Almoço/Café"
+    content: "Fiz uma lista com 100 pessoas que eu queria pagar um almoço ou café, para trocar ideia. Resultado: uma dessas conexões (Guto Rocha) conectou com oportunidade na Lugano que dura 5 anos."
+    value: "100 pessoas"
+    tags: ["networking", "carreira", "relacionamento"]
+    source_file: "transcription_COMO_SE_TORNAR_UM_L_DER_DE_MARKETING_.md"
+    speaker: "João (CMO Lugano)"
+
+  - id: "RH-HEUR-666"
+    title: "88% dos Clientes Vêm do Instagram"
+    content: "88% dos clientes da Natalia Beauty vêm do Instagram. Potencial gigante ainda não explorado em outros canais (YouTube, TikTok, site nem pronto). Digital é oportunidade subestimada."
+    value: "88%"
+    tags: ["instagram", "aquisição", "canal", "beauty"]
+    source_file: "transcription_COMO_PERDER_O_MEDO_DE_GRAVAR_CONTE_DO____Natalia_Beauty.md"
+    speaker: "Natalia Beauty"
+
+  - id: "RH-HEUR-667"
+    title: "Recuperação Tributária via PDD"
+    content: "Cliente perdeu R$1M em calote. Se estivesse em Lucro Real (não Simples), lançava PDD (Provisão para Devedores Duvidosos), deduzia da receita e recuperava 33,25% = R$332.500."
+    value: "33,25% de recuperação"
+    tags: ["tributário", "PDD", "recuperação", "contabilidade"]
+    source_file: "transcription_COMO_PAGAR_MENOS_IMPOSTO_COM_CONTABILIDADE_.md"
+    speaker: "Contador (Especialista)"
+
+  - id: "RH-HEUR-668"
+    title: "Gasolina Devolve 42%, Diesel 38% em Crédito"
+    content: "Combustível de frota: gasolina devolve 42%, diesel 38% em crédito tributário. Maioria das empresas joga nota fora e perde o crédito. Equipe de inteligência fiscal captura tudo."
+    value: "42% gasolina / 38% diesel"
+    tags: ["tributário", "crédito", "combustível", "frotas"]
+    source_file: "transcription_COMO_PAGAR_MENOS_IMPOSTO_COM_CONTABILIDADE_.md"
+    speaker: "Contador (Especialista)"
+
+# ============================================================================
+# L4: FRAMEWORKS
+# ============================================================================
+L4_FRAMEWORKS:
+
+  - id: "RH-FW-650"
+    title: "Framework de Incentivo Escalonado (MGM)"
+    content: |
+      Programa de indicação com incentivo progressivo:
+      1. Defina LTV do cliente
+      2. Defina ações por profundidade (abertura → depósito → trade)
+      3. Pague mais para ações mais profundas (melhor econometria)
+      4. Pesquise base: quanti (top 5 benefícios) + quali (ranquear)
+      5. Teste benefícios não-óbvios (CRM Bonus, swag, experiências)
+      6. Meta: 10% da base recomendando
+    tags: ["MGM", "indicação", "incentivo", "growth"]
+    source_file: "transcription_COMO_MONTAR_UM_PROGRAMA_DE_INDICA__O_.md"
+    speaker: "Convidado (Fintech/Crypto)"
+
+  - id: "RH-FW-651"
+    title: "Framework V4X — 4 Quadrantes de Inovação"
+    content: |
+      Quando travado, analisar 4 quadrantes:
+      1. PRODUTO — benefício entregue mudou? Forma de entrega mudou?
+      2. MODELO — forma de cobrar mudou?
+      3. MERCADO — público-alvo mudou?
+      4. CANAL — forma de aquisição/distribuição mudou?
+
+      Regras:
+      - 1-2 quadrantes geralmente são fixos (custosos de mudar)
+      - Ajuste os outros para destravar
+      - Revisar a cada 6 meses ou após 1-2 meses travado
+      - Normal mudar os 4 ao longo do tempo (não simultaneamente)
+    tags: ["modelo-negócio", "pivô", "inovação", "estratégia"]
+    source_file: "transcription_COMO_NASCEU_O_V4_X_.md"
+    speaker: "Dêner Lippert"
+
+  - id: "RH-FW-652"
+    title: "Framework de Vendas Consultiva (7 Passos — 3 Primeiros)"
+    content: |
+      Os 3 primeiros passos determinam 80% do resultado:
+      1. CONEXÃO — gerar rapport, cérebros se conectam (neurociência). Começo e fim da reunião são mais lembrados.
+      2. QUEM É O CLIENTE — perguntas SPIN (situação, problema, implicação, necessidade). NÃO apresentar empresa.
+      3. VALIDAÇÃO DE AUTORIDADE — "Sou uma das maiores especialistas em X. Estudo isso há Y anos. Ajudo Z famílias."
+
+      Erros fatais:
+      - Começar apresentando a empresa
+      - Abrir folder/apresentação antes de entender o cliente
+      - Em B2B: não pesquisar o setor antes da call
+    tags: ["vendas", "consultiva", "SPIN", "rapport"]
+    source_file: "transcription_COMO_SE_CONECTAR_COM_O_CLIENTE_.md"
+    speaker: "Convidada (Vendas)"
+
+  - id: "RH-FW-653"
+    title: "Framework de User Cases para Retenção"
+    content: |
+      Para reter clientes, expandir portfolio de use cases:
+      1. Mapear momentos de uso do cliente (frequência atual)
+      2. Identificar use cases adjacentes que aumentam frequência
+      3. Mesmo que não rentável direto, o use case gera ENGAGEMENT
+      4. Engagement leva a monetização indireta
+
+      Exemplo XP: corretora (uso mensal) → cartão crédito (uso diário)
+      Exemplo Nubank: 40M usuários usando 15-20x/semana = monetização infinita
+    tags: ["retenção", "use-case", "engagement", "LTV"]
+    source_file: "transcription_COMO_RETER_MAIS_CLIENTES_.md"
+    speaker: "Dêner Lippert / Guilherme Lippert"
+
+  - id: "RH-FW-654"
+    title: "Framework Speak Easy — Experiência de Acesso Secreto"
+    content: |
+      Conceito de experiência de cliente inspirado em bares secretos:
+      1. PRÉ — cliente não sabe onde é / como entrar
+      2. DURANTE — contraste (fachada simples → interior extraordinário)
+      3. PÓS — desejo de compartilhar nas redes (Instagramável na entrada)
+
+      Efeitos: boca-a-boca orgânico, curiosidade viral, exclusividade como marketing.
+      Repostar quem posta a loja gera mais curiosidade.
+    tags: ["experiência", "branding", "exclusividade", "viral"]
+    source_file: "transcription_COMO_SURGIU_O_BAR_SWEET_SECRETS_.md"
+    speaker: "Convidado (Sweet Secrets)"
+
+  - id: "RH-FW-655"
+    title: "Framework de Influenciadores: Awareness-Squad"
+    content: |
+      Estratégia de influenciadores integrada:
+      1. Selecionar por FIT DE MARCA (não só seguidores) — taste-makers
+      2. Comprar DIREITO DE IMAGEM (não depender de orgânico)
+      3. Usar como DARK POST com mídia paga (melhor rentabilidade)
+      4. Squad Awareness: time de conteúdo + time de mídia juntos
+      5. Conteúdo orgânico performando → colocar mídia → explode
+
+      Micro-influenciadores: valor está na CRIAÇÃO, não no alcance.
+      O criador de conteúdo é o asset; mídia amplifica.
+    tags: ["influenciadores", "mídia", "dark-post", "awareness"]
+    source_file: "transcription_COMO_TER_RETORNO_COM_INFLUENCIADORES_.md"
+    speaker: "Convidada (Fashion/Farfetch)"
+
+  - id: "RH-FW-656"
+    title: "Framework Highlights → Insights → Testes → Playbooks"
+    content: |
+      Método de transformar estudo em operação:
+      1. HIGHLIGHTS — marcar exatamente o que está escrito
+      2. INSIGHTS — escrever O QUE VOCÊ PENSOU (não apenas marcar)
+      3. TO-DOs — teste rápido para validar o insight
+      4. EXECUTAR teste — documentar resultado
+      5. SE funcionou → virar PLAYBOOK para o time
+
+      Regras:
+      - Teoria nunca se traduz 1:1 para prática
+      - Playbook = aplicação prática testada (não teoria pura)
+      - Anexar fonte original para quem quiser aprofundar
+      - Enviar ao time: PDF highlightado + insights + testes sugeridos
+    tags: ["aprendizado", "playbook", "gestão-conhecimento"]
+    source_file: "transcription_COMO_TIRAR_INSIGHTS_VALIOSOS_DO_QUE_VOC__ESTUDA_.md"
+    speaker: "Guilherme Lippert"
+
+  - id: "RH-FW-657"
+    title: "Framework de Conselho Consultivo para PMEs"
+    content: |
+      Para pequenas empresas acessarem conhecimento de grandes:
+      1. Identifique diretores de grandes empresas que são referência
+      2. Pague para virem passar um dia com você (ex: R$10K por sessão)
+      3. 3 horas mínimo no conselho (das 8h às 22h se possível)
+      4. Use o acesso para ENTENDER como os grandes fazem
+      5. Aplique no seu contexto
+
+      Variante: se infiltrar como fornecedor/parceiro para visitar operações de grandes empresas e aprender por dentro.
+    tags: ["conselho", "mentoria", "aprendizado", "PME"]
+    source_file: "transcription_COMO_OS_IMITAR_AS_GRANDES_EMPRESAS_.md"
+    speaker: "Mario (Korokimi) / Dêner Lippert"
+
+  - id: "RH-FW-658"
+    title: "IA no Marketing — Co-Criação com Contexto"
+    content: |
+      Uso prático de IA para marketing (ChatGPT):
+      1. COPY — no-brainer, primeiro caso de uso
+      2. Dar PERSONALIDADE ao chat (guia de como vai pensar/escrever)
+      3. Dar CONTEXTO do conteúdo (não só prompt)
+      4. Definir FORMATO de output
+      5. Usar para VARIAÇÕES, não criação do zero
+
+      Status: co-criação (não substitui humano). Nome "inteligência artificial" é enganoso.
+      Melhor ROI: times de marketing usando para acelerar produção.
+    tags: ["IA", "marketing", "copy", "ChatGPT", "produtividade"]
+    source_file: "transcription_COMO_USAR_I_A_NO_MARKETING_.md"
+    speaker: "Guilherme Lippert"
+
+# ============================================================================
+# L5: METHODOLOGIES
+# ============================================================================
+L5_METHODOLOGIES:
+
+  - id: "RH-MET-650"
+    title: "Metodologia de Prospecção por Indicação (Outbound Quente)"
+    content: |
+      Passo a passo para prospecção sem lista fria:
+
+      FASE 1 — MAPEAR BASE
+      1. Abra contatos do celular (média: 3.000+)
+      2. Categorize por proximidade: X (próximo), Y (segundo grau), Z (terceiro grau)
+
+      FASE 2 — PROSPECTAR
+      3. Comece pelo Mercado X (mais próximo)
+      4. Abordagem: "Quero te mostrar o que estou fazendo" (não vender)
+      5. Se não vendeu, peça 5 indicações: "Quem são 5 amigos muito bem-sucedidos?"
+
+      FASE 3 — OPERAR
+      6. Lead de indicação → direcionar para time OUTBOUND (não closer inbound)
+      7. Pagar comissão para vendedor que gerou o lead via indicação
+      8. A não-venda pode não estar sob seu controle, mas pegar recomendação ESTÁ
+
+      Resultado V4: 10% das vendas via indicação de leads (700 vendas B2B/mês)
+    tags: ["outbound", "indicação", "vendas", "prospecção"]
+    source_file: "transcription_COMO_N_O_FRUSTRAR_COM_OUTBOUND_.md"
+    speaker: "Dêner Lippert"
+
+  - id: "RH-MET-651"
+    title: "Metodologia de Documentação de Processos (Playbooks)"
+    content: |
+      Como criar playbooks operacionais:
+
+      PASSO 1 — IDENTIFICAR MOMENTO
+      - Gatilho A: "Sempre faço mais ou menos a mesma coisa" → padronizar
+      - Gatilho B: "Preciso ensinar para muitas pessoas" → base comum
+
+      PASSO 2 — DOCUMENTAR AS IS
+      - Quem documenta: quem EXECUTA o processo
+      - Documentar como realmente acontece (não como deveria ser)
+      - Se executor não pode: observador externo senta ao lado e documenta
+
+      PASSO 3 — ITERAR VIA REDE
+      - Distribuir playbook para franquias/times
+      - Cada um sugere melhoria ("tem uma etapa faltando")
+      - Processo fica "supertestado" ao longo do tempo
+
+      PASSO 4 — ALOCAÇÃO POR WORKLOAD
+      - Definir horas por pessoa/dia (padrão: 8h)
+      - Tempo padrão por tipo de tarefa
+      - Relatório de acerto/erro para calibrar tempos
+    tags: ["processos", "playbook", "operações", "escala", "franquia"]
+    source_file: "transcription_COMO_ORGANIZAR_SUA_EMPRESA_.md"
+    speaker: "Convidado (G4/Operações)"
+
+  - id: "RH-MET-652"
+    title: "Metodologia de Assinatura para Criadores de Conteúdo"
+    content: |
+      Como manter assinatura (vs curso one-shot):
+
+      PRINCÍPIO: Curso = relevante UMA VEZ. Assinatura = relevante TODO MÊS.
+
+      DISCIPLINA DE OVERDELIVER (Case Norton):
+      1. Live de manhã para quem acorda cedo
+      2. Live à tarde para quem perdeu a de manhã
+      3. Gravação disponível para quem perdeu ambas
+      4. Conteúdo NOVO todo dia (valor marginal não decresce)
+
+      MONETIZAÇÃO VIA 3 PILARES:
+      1. Acesso — Patreon-like, comunidade fechada
+      2. Atenção — Responder, interagir, reconhecer
+      3. Educacional — Treinos/aulas/conteúdo atualizado
+
+      ANTI-PATTERN: "R$3 por dia, menos que um cafezinho"
+      → Se não gera valor todo dia, perde para o cafezinho na 10ª semana
+    tags: ["creator-economy", "assinatura", "retenção", "infoproduto"]
+    source_file: "transcription_COMO_SER_UM_INFLUENCIADOR_DE_SUCESSO____Jo_o_Vitor.md"
+    speaker: "João Vitor"
+
+# ============================================================================
+# SUMMARY
+# ============================================================================
+summary:
+  L1_PHILOSOPHIES: 10
+  L2_MENTAL_MODELS: 10
+  L3_HEURISTICS: 19
+  L4_FRAMEWORKS: 9
+  L5_METHODOLOGIES: 3
+  total: 51
+  id_range:
+    PHI: "RH-PHI-650 → RH-PHI-659"
+    MM: "RH-MM-650 → RH-MM-659"
+    HEUR: "RH-HEUR-650 → RH-HEUR-668"
+    FW: "RH-FW-650 → RH-FW-658"
+    MET: "RH-MET-650 → RH-MET-652"
+  top_themes:
+    - "Programas de Indicação / MGM (7 elements)"
+    - "Vendas / Outbound / Prospecção (6 elements)"
+    - "Processos / Playbooks / Operações (5 elements)"
+    - "Retenção / Engagement / Use Cases (4 elements)"
+    - "Creator Economy / Infoproduto (4 elements)"
+    - "Modelo de Negócio / Inovação (3 elements)"
+    - "Tributário / Contabilidade (3 elements)"
+    - "Influenciadores / UGC (3 elements)"
+    - "Carreira / Diferenciação (3 elements)"
+    - "IA / Marketing Digital (2 elements)"
+  skipped_episodes:
+    - file: "transcription_Como_o_ROI_Hunter_vai_ser_o_MAIOR_podcast_do_Brasil___ROI_Hunters__83.md"
+      reason: "Transcrição corrompida — repetição de frase única em loop"
+    - file: "transcription_ELON_MUSK_COMPRAR__A_MECEDES_E_AUDI_.md"
+      reason: "Conversa casual sobre Tesla/Mercedes, sem insights acionáveis"
+    - file: "transcription_ERRO_BILION_RIO_DA_TESLA_DE_ELON_MUSK.md"
+      reason: "Análise de mercado automotivo genérica"
+    - file: "transcription_DICAS_SOBRE_O_NOTION_.md"
+      reason: "Dicas genéricas de ferramenta sem framework extraível"
+    - file: "transcription_DEVO_SEGUIR_ORIENTA__O_DO_ADVOGADO_.md"
+      reason: "Discussão jurídica genérica sem heurísticas quantificáveis"
+    - file: "transcription_EMPREENDER_OU_SER_EMPREGADO_.md"
+      reason: "Debate filosófico genérico sem insights únicos"

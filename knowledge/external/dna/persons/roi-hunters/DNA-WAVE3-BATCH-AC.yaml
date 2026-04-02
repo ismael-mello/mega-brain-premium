@@ -1,0 +1,691 @@
+# ============================================================================
+# ROI HUNTERS PODCAST — DNA WAVE 3 BATCH AC
+# ============================================================================
+# Episódios: 44 (F-O range) | Úteis: ~35 (9 corrompidos/baixo valor)
+# Hosts: Dener Lippert, equipe V4 Company
+# Convidados notáveis: Farm Rio (marketing), Dener Lippert, Leonardo Castelo,
+#   Lucas Domingues, Ricardo Domingues, Natalia Beauty, Dennis (LinkedIn),
+#   Fernando Málvio (ChatGuru), Mário (Carmi Stephens), SolarZ founder
+# Temas dominantes: Branding, B2B vs B2C, vendas, gestão comercial,
+#   métricas (cohort/NPS/MHS), influenciadores, networking, IA em marketing
+# Arquivos corrompidos (excluídos): Marcus Marques, Black Friday,
+#   Marketing Analytics, Novas IAs 2024 (parcial), OS 4 Pilares Sucesso (parcial)
+# ============================================================================
+
+metadata:
+  source: "ROI Hunters Podcast (V4 Company)"
+  wave: 3
+  batch: "AC"
+  episodes_total: 44
+  episodes_useful: 35
+  episodes_corrupted: 9
+  language: "pt-BR"
+  extracted_by: "claude-opus-4-6"
+  extracted_at: "2026-04-01"
+  id_range:
+    philosophies: "RH-PHI-700 a RH-PHI-717"
+    mental_models: "RH-MM-700 a RH-MM-714"
+    heuristics: "RH-HEUR-700 a RH-HEUR-724"
+    frameworks: "RH-FW-700 a RH-FW-712"
+    methodologies: "RH-MET-700 a RH-MET-706"
+
+# ============================================================================
+# L1: PHILOSOPHIES
+# ============================================================================
+philosophies:
+
+  - id: "RH-PHI-700"
+    title: "Produto como herói da marca"
+    content: "O produto é o hero. Quando o produto é forte e único, todo o marketing fica mais fácil. Investir em identidade de produto dá mais resultado que investir em propaganda."
+    source_episode: "FARM_RIO__COMO_CONSTRUIR_UMA_IDENTIDADE_DE_MARCA"
+    speaker: "Representante Farm Rio"
+    tags: [branding, produto, identidade]
+
+  - id: "RH-PHI-701"
+    title: "Identidade de marca nasce de dentro, não de consultoria"
+    content: "A Farm nunca teve branding book até internacionalizar. A identidade foi construída internamente, com cultura oral. Quando é leal à essência, é fácil de manter. Não foi consultoria que mandou fazer."
+    source_episode: "FARM_RIO__COMO_CONSTRUIR_UMA_IDENTIDADE_DE_MARCA"
+    speaker: "Representante Farm Rio"
+    tags: [branding, cultura, identidade]
+
+  - id: "RH-PHI-702"
+    title: "Não existe marketing B2B — todo marketing é B2C"
+    content: "Por trás de toda empresa tem uma pessoa. A diferença é que quando pensam em B2B, pensam em enterprise. Mas o Brasil tem 20 milhões de PMEs. O marketing sempre atinge uma pessoa."
+    source_episode: "N_O_EXISTE_MARKETING_B2B____Dener_Lippert"
+    speaker: "Dener Lippert"
+    tags: [b2b, marketing, vendas]
+
+  - id: "RH-PHI-703"
+    title: "Crescer não é opção, é estratégia de sobrevivência"
+    content: "Se você não está crescendo, você está morrendo. Growth importa porque estagnação é regressão no mercado competitivo."
+    source_episode: "O_MERCADO_DE_ENERGIA_SOLAR_NO_BRASIL"
+    speaker: "ROI Hunters"
+    tags: [growth, estratégia, sobrevivência]
+
+  - id: "RH-PHI-704"
+    title: "Escritório presencial gera serendipidade impossível no remoto"
+    content: "No escritório você cria conexões com pessoas de outras áreas que geram situações imprevisíveis. Tem assuntos que não se resolvem por email ou WhatsApp — precisam de 6-8 pessoas numa mesa."
+    source_episode: "HOME_OFFICE_DEIXA_AS_PESSOAS_PREGUI_OSAS_"
+    speaker: "Convidado (varejo)"
+    tags: [gestão, home-office, cultura]
+
+  - id: "RH-PHI-705"
+    title: "Energia do vendedor está diretamente ligada a resultado"
+    content: "Vendedor sem energia não vende. Energia vem de preparação: técnica (confiança), comportamento (disciplina) e mindset (sonho). Os três pilares sustentam a performance comercial."
+    source_episode: "OS_EFEITOS_DO_HOME_OFFICE_NA_EQUIPE_COMERCIAL____LEONARDO_CASTELO"
+    speaker: "Leonardo Castelo"
+    tags: [vendas, energia, treinamento]
+
+  - id: "RH-PHI-706"
+    title: "Fé, pesquisa e atitude — a tríade do empreendedor"
+    content: "Fé: acreditar que vai dar. Pesquisa: entender o caminho (pontos cegos). Atitude: agir. Sem essas três juntas, nada acontece."
+    source_episode: "OS_EFEITOS_DO_HOME_OFFICE_NA_EQUIPE_COMERCIAL____LEONARDO_CASTELO"
+    speaker: "Leonardo Castelo"
+    tags: [empreendedorismo, mindset, ação]
+
+  - id: "RH-PHI-707"
+    title: "Primeiro faz amigos, depois faz negócios"
+    content: "Se você for para um evento buscando fechar negócio, não vai dar certo. Vai leve, resquenha, mostra que é legal. A partir de momentos leves e descontraídos nascem relações profundas com mais facilidade."
+    source_episode: "O_SEGREDO_DO_NETWORKING_DA_RESENHA_DO_GAB"
+    speaker: "Gab (Resenha do Gab)"
+    tags: [networking, relacionamento, vendas]
+
+  - id: "RH-PHI-708"
+    title: "Gere valor antes de pedir — distancie-se dos que só pedem"
+    content: "97% das pessoas querem extrair valor. Quando você gera valor primeiro, retribuição é inerente ao ser humano. Descubra o que importa para a pessoa e entregue antes de pedir qualquer coisa."
+    source_episode: "O_SEGREDO_DO_NETWORKING_DA_RESENHA_DO_GAB"
+    speaker: "Gab (Resenha do Gab)"
+    tags: [networking, valor, reciprocidade]
+
+  - id: "RH-PHI-709"
+    title: "Nunca julgue o bolso do cliente com o seu bolso"
+    content: "Os R$2.800 pareciam muito para quem nunca tinha ganhado isso na família. Mas para o cliente que faturava R$1M/ano, era troco. Esse viés impede vendedores de fechar deals maiores."
+    source_episode: "O_MEU_PRIMEIRO_CLIENTE_DA_V4_COMPANY___ROI__179"
+    speaker: "Dener Lippert"
+    tags: [vendas, pricing, mindset]
+
+  - id: "RH-PHI-710"
+    title: "Fazer imperfeito supera planejar perfeito"
+    content: "Um potencial sócio tinha plano escrito um ano antes da V4 ser criada, mas foi perfeccionista demais. A V4 preferiu fazer e ajustar no meio do caminho. Execução imperfeita > planejamento perfeito."
+    source_episode: "O_MEU_PRIMEIRO_CLIENTE_DA_V4_COMPANY___ROI__179"
+    speaker: "Dener Lippert"
+    tags: [execução, empreendedorismo, velocidade]
+
+  - id: "RH-PHI-711"
+    title: "Marca se constrói nos pontos de contato, não em propaganda"
+    content: "A marca Natalia Beauty não é forte por propaganda. Toda jornada de pontos de contato com o consumidor faz ele gostar da marca. Branding acontece durante o relacionamento, não em campanhas isoladas."
+    source_episode: "O_SEGREDO_DA_MARCA_NATALIA_BEAUTY"
+    speaker: "Natalia Beauty"
+    tags: [branding, experiência, customer-journey]
+
+  - id: "RH-PHI-712"
+    title: "Eu não concorro com o trabalho, concorro com como o cliente se sente"
+    content: "Qualquer um pode fazer o procedimento técnico. O diferencial é a experiência: os 5 sentidos ativados — visual (flores, portal mágico), olfato, tato (massagem), paladar (cappuccino com nutella), audição (playlists por dia da semana)."
+    source_episode: "O_SEGREDO_DA_MARCA_NATALIA_BEAUTY"
+    speaker: "Natalia Beauty"
+    tags: [experiência, diferenciação, branding-sensorial]
+
+  - id: "RH-PHI-713"
+    title: "Comercial manda na empresa — produto bom que não vende é inútil"
+    content: "O estilista quer que as pessoas usem o que ela acha bonito. Mas 70% do mercado de moda é atitude e comportamento, apenas 30% é tendência. O comercial tem informação da ponta e precisa ser ouvido."
+    source_episode: "MERCADO_SATURADOS__EUROPA_E_ESTADOS_UNIDOS"
+    speaker: "Mário (Carmi Stephens)"
+    tags: [vendas, produto, moda]
+
+  - id: "RH-PHI-714"
+    title: "IA como copilot, não autopilot — pelo menos por agora"
+    content: "Autopilot de IA ainda tem muita alucinação no B2C. Mas como copilot que facilita sua vida (integrado no navegador, e-mail, ferramentas), é bizarro o quanto já está pegando."
+    source_episode: "NOVAS_INTELIGENCIAS_ARTIFICIAIS_DE_2024"
+    speaker: "ROI Hunters"
+    tags: [ia, tecnologia, produtividade]
+
+  - id: "RH-PHI-715"
+    title: "Compartilhe consciência, não só conhecimento"
+    content: "Compartilhar conhecimento é dizer o que fazer. Compartilhar consciência é dar o contexto para tomar melhores decisões. Quando o time tem consciência, ele toma decisões sozinho sem precisar perguntar."
+    source_episode: "O_VALOR_DA_ORGANIZA__O_NA_EMPRESA_"
+    speaker: "ROI Hunters (Ricardo Domingues)"
+    tags: [gestão, decisão, cultura]
+
+  - id: "RH-PHI-716"
+    title: "Morrer abraçado com dados e growth"
+    content: "Se pudesse levar só uma coisa para uma ilha deserta, seria growth, dados, previsão e métrica. O mundo foi para esse lado. Grande ideia sem aparato de dados dando suporte não se sustenta."
+    source_episode: "ORIGINALIDADE_NA_PUBLICIDADE_ACABOU_"
+    speaker: "ROI Hunters"
+    tags: [growth, dados, performance]
+
+  - id: "RH-PHI-717"
+    title: "Escolher é abdicar — identidade de marca exige coragem"
+    content: "A V4 escolheu ser agressiva. Quem quer algo soft não contrata. Quem quer crescer adora. A Bud Light errou ao tentar mudar drasticamente o 'para quem' após décadas de posicionamento. Escolher público é abdicar de outro."
+    source_episode: "OS_PILARES_DA_CONSTRU__O_DA_MARCA"
+    speaker: "Dener Lippert"
+    tags: [branding, posicionamento, estratégia]
+
+# ============================================================================
+# L2: MENTAL MODELS
+# ============================================================================
+mental_models:
+
+  - id: "RH-MM-700"
+    title: "Pirâmide de Maslow aplicada a negócios"
+    content: "Antes de pensar em CRO (viagem pra Noronha), precisa resolver o básico (comer). Muita empresa quer otimização avançada quando o gestor de tráfego nem está gerando leads direito. Primeiro as primeiras coisas."
+    source_episode: "GESTOR_DE_TR_FEGO___INJUSTI_ADO_"
+    speaker: "ROI Hunters"
+    tags: [priorização, gestão, operações]
+
+  - id: "RH-MM-701"
+    title: "Four Fits Model (Brian Balfour / Reforge)"
+    content: "4 elementos: Produto, Mercado, Canal, Modelo de Negócio. Encaixes: Product-Market Fit, Market-Channel Fit, Product-Model Fit, Model-Channel Fit. Quando um elemento muda, todos precisam ser revalidados. Quando o negócio não cresce, algum encaixe está quebrado."
+    source_episode: "OS_4_PILARES_DO_SUCESSO_DAS_EMPRESAS"
+    speaker: "João (G4 Educação)"
+    tags: [growth, product-market-fit, estratégia]
+
+  - id: "RH-MM-702"
+    title: "Build or Buy — dilema clássico do empreendedor"
+    content: "Como vou desenvolver solução melhor que 200 engenheiros do Vale do Silício? Se não é seu core, compre. Se é core e não existe no mercado, aí sim construa. Escolha suas batalhas."
+    source_episode: "N_O_CONTRATE_PROGRAMADOR_FREELANCER"
+    speaker: "Convidado tech"
+    tags: [tecnologia, decisão, build-vs-buy]
+
+  - id: "RH-MM-703"
+    title: "Cohort Retention e Smile Curve"
+    content: "Cohort: corte de clientes por período de entrada. Retenção boa: curva estabiliza (flat). Retenção ruim: tende a zero. Excelente: Smile Curve — curva volta a subir com reativação de clientes inativos. Empilhamento de receita só é possível com retenção flat ou crescente."
+    source_episode: "O_QUE___COHORT_RETENTION_"
+    speaker: "ROI Hunters"
+    tags: [retenção, métricas, crescimento]
+
+  - id: "RH-MM-704"
+    title: "Retenção é o silent killer"
+    content: "Se todos os cohorts tendem a zero, a curva de crescimento exponencial eventualmente estabiliza e morre. A única saída é crescer aquisição infinitamente, o que é financeiramente insustentável. A rentabilidade mora na retenção."
+    source_episode: "O_QUE___COHORT_RETENTION_"
+    speaker: "ROI Hunters"
+    tags: [retenção, unit-economics, crescimento]
+
+  - id: "RH-MM-705"
+    title: "MHS > NPS como indicador de Product-Market Fit"
+    content: "Must Have Score (MHS) mede o quanto o cliente acha indispensável seu produto. É mais acionável que NPS para validar PMF. Alguns negócios têm NPS alto e morrem — o MHS revela se o produto é essencial."
+    source_episode: "NPS_OU_MHS__QUAL_M_TRICA_USAR_"
+    speaker: "ROI Hunters (G4 referência)"
+    tags: [métricas, product-market-fit, satisfação]
+
+  - id: "RH-MM-706"
+    title: "Total Addressable Market define o teto"
+    content: "Se o TAM é pequeno, fica tudo mais difícil. Uber começou como aluguel de limousines (TAM pequeno), depois abriu para carros normais (UberX) e explodiu. Ampliar o TAM pode ser a alavanca de crescimento."
+    source_episode: "N_O_EXISTE_MARKETING_B2B____Dener_Lippert"
+    speaker: "Dener Lippert"
+    tags: [estratégia, tam, crescimento]
+
+  - id: "RH-MM-707"
+    title: "Profissional T-Shape"
+    content: "Saber um pouco de várias coisas e se aprofundar em uma. Como Federer que praticou vários esportes antes de dominar o tênis. Designer deve se preocupar com taxa de conversão. CRO deve ler sobre psicologia. A visão generalista potencializa a especialidade."
+    source_episode: "O_QUE___SER_PROFISSIONAL_T-SHAPE_"
+    speaker: "ROI Hunters"
+    tags: [carreira, generalista, aprendizado]
+
+  - id: "RH-MM-708"
+    title: "Mídia for Equity — funding de marketing via participação societária"
+    content: "Empresa sem caixa para marketing troca equity por mídia (OOH, TV, creators, programática). Funciona como investimento: não busca revenue share, busca crescimento do valuation. Case Key Design: de R$3.5M para R$17M de faturamento em 3-4 anos."
+    source_episode: "O_QUE___M_DIA_FOR_EQUITY_"
+    speaker: "Convidado media-for-equity"
+    tags: [funding, marketing, equity]
+
+  - id: "RH-MM-709"
+    title: "Elegibilidade de produto na base de clientes"
+    content: "Nem todo produto cabe para todo cliente. Clusterizar base por elegibilidade: quais SKUs fazem sentido para qual segmento. Oferecer produto errado pode ser detrator de LTV. Melhor esconder a opção do que queimar o cliente."
+    source_episode: "N_O_VENDA_PARA_ESSE_CLIENTE___RICARDO_DOMINGUES"
+    speaker: "Ricardo Domingues"
+    tags: [monetização, base-clientes, elegibilidade]
+
+  - id: "RH-MM-710"
+    title: "Influenciador é first click, não last click"
+    content: "ROI direto de influenciador quase nunca bate. O valor está no topo do funil: gerar awareness, conteúdo endossado, associação de marca. Mensurar por first click/pesquisa 'como conheceu' mostra o impacto real."
+    source_episode: "O_LADO_NEGATIVO_DOS_INFLUENCIADORES_"
+    speaker: "ROI Hunters"
+    tags: [influenciador, atribuição, marketing]
+
+  - id: "RH-MM-711"
+    title: "Roda de Construção de Marca (Brand Marketing Wheel)"
+    content: "Três raios conectados ao centro (estratégia): Identidade (personalidade → assets → guidelines), Governança (consistência), Distribuição (todos os pontos de contato). Sem os três alinhados, marca não é memorável."
+    source_episode: "OS_PILARES_DA_CONSTRU__O_DA_MARCA"
+    speaker: "Dener Lippert"
+    tags: [branding, identidade, estratégia]
+
+  - id: "RH-MM-712"
+    title: "Gestor de tráfego como levantador de bola"
+    content: "O gestor não vai resolver bug do Unbounce ou formulário quebrado. Mas ele tem que levantar a mão e avisar: o problema não está no tráfego, está na landing page/integração. Ele é responsável por gerar o resultado combinado, não por todas as variáveis."
+    source_episode: "GESTOR_DE_TR_FEGO___INJUSTI_ADO_"
+    speaker: "ROI Hunters"
+    tags: [tráfego, gestão, responsabilidade]
+
+  - id: "RH-MM-713"
+    title: "Franquia como cooperativa moderna"
+    content: "Franquia parece pejorativo, mas é cooperativa: divide recursos de compra, marketing, treinamento de mão-de-obra, tecnologia. O franqueado vira operador focado no serviço. CSC (Centro de Serviço Compartilhado) agenda clientes para o franqueado."
+    source_episode: "O_FUTURO_DO_MERCADO_DE_SOBRANCELHAS___Natalia_Beauty"
+    speaker: "Natalia Beauty / ROI Hunters"
+    tags: [franquia, modelo-negócio, escala]
+
+  - id: "RH-MM-714"
+    title: "Deep Sales — IA para democratizar comportamento de top performers"
+    content: "10% dos vendedores performam muito mais. Se investir na média (maioria) para melhorar 5%, impacta 70% do resultado. High performers pesquisam mais e vendem menos no tempo. Deep Sales usa IA para trazer esse comportamento para toda a organização."
+    source_episode: "O_FUTURO_DAS_VENDAS__O_QUE___DEEP_SALES_"
+    speaker: "Dennis (LinkedIn)"
+    tags: [vendas, ia, performance]
+
+# ============================================================================
+# L3: HEURISTICS
+# ============================================================================
+heuristics:
+
+  - id: "RH-HEUR-700"
+    title: "B2B tem mais chance de lucro que B2C no Brasil"
+    content: "Vocação do Brasil é B2B. Ticket médio alto permite investimento em mídia. Com R$10-20K de mídia, um ou dois contratos cobrem. Restaurante de ticket R$55 precisa de mil vendas para cobrir R$20K."
+    source_episode: "Modelo_de_neg_cio__B2B_ou_B2C_"
+    speaker: "ROI Hunters / XP"
+    numeric_value: "Ticket médio B2B justifica R$10-20K mídia; B2C R$55 precisa 1000 vendas"
+    tags: [b2b, b2c, unit-economics]
+
+  - id: "RH-HEUR-701"
+    title: "LinkedIn Brasil: 65M usuários, 3º maior país"
+    content: "Brasil tem 65 milhões de usuários no LinkedIn (40% da América Latina). 100% dos profissionais de gestão (white collar) estão lá. A plataforma deixou de ser currículo online — é plataforma de interações e negócios."
+    source_episode: "LINKEDIN_S__TEM_DESEMPREGADO_E_PROFISSIONAL_DE_RH_"
+    speaker: "Sandrine (LinkedIn)"
+    numeric_value: "65M usuários Brasil, 950M global, 40% LatAm"
+    tags: [linkedin, b2b, plataforma]
+
+  - id: "RH-HEUR-702"
+    title: "Closer envolvido na prospecção gera ticket 46% maior"
+    content: "Quando o closer também faz parte da prospecção (engajamento prévio, relacionamento), o ticket médio é 46% maior. Upsell e cross-sell representam 30% do resultado dos top performers."
+    source_episode: "O_FUTURO_DAS_VENDAS__O_QUE___DEEP_SALES_"
+    speaker: "Dennis (LinkedIn)"
+    numeric_value: "46% maior ticket, 30% do resultado em upsell/cross-sell"
+    tags: [vendas, closer, prospecção]
+
+  - id: "RH-HEUR-703"
+    title: "Modelo LinkedIn: AE responsável por 60% dos próprios leads"
+    content: "No LinkedIn, o Account Executive gera 60% dos leads por prospecção própria. Isso evita dependência do BDR e cria compromisso com a qualidade dos leads. Pipeline menor, mas conversão maior."
+    source_episode: "O_FUTURO_DAS_VENDAS__O_QUE___DEEP_SALES_"
+    speaker: "Dennis (LinkedIn)"
+    numeric_value: "60% leads gerados pelo próprio AE"
+    tags: [vendas, prospecção, linkedin]
+
+  - id: "RH-HEUR-704"
+    title: "Investir na média dos vendedores gera 70% de impacto"
+    content: "Ao invés de investir nos top 10% (que já são bons), investir na grande massa média. Empurrar a performance deles 5% para frente impacta 70% do resultado total do negócio."
+    source_episode: "O_FUTURO_DAS_VENDAS__O_QUE___DEEP_SALES_"
+    speaker: "Dennis (LinkedIn)"
+    numeric_value: "+5% na média = 70% impacto no resultado"
+    tags: [vendas, treinamento, performance]
+
+  - id: "RH-HEUR-705"
+    title: "30% do mercado de moda é tendência, 70% é atitude e comportamento"
+    content: "A maioria das pessoas não são Maria vai com as outras. 70% compra pelo que gosta (atitude/comportamento), não pela tendência. Entender isso muda como criar coleções e posicionamento."
+    source_episode: "MERCADO_SATURADOS__EUROPA_E_ESTADOS_UNIDOS"
+    speaker: "Mário (Carmi Stephens)"
+    numeric_value: "30% tendência, 70% atitude"
+    tags: [moda, comportamento, produto]
+
+  - id: "RH-HEUR-706"
+    title: "Curtumes brasileiros: de 880 para 240 — consolidação brutal"
+    content: "O Brasil tinha 880 curtumes, hoje tem 240 (50 acabam couro). 78% da produção era no RS. Couro é 4% do negócio carne — subproduto transformado em produto premium."
+    source_episode: "MERCADO_DE_CURTUME_DO_BRASIL"
+    speaker: "Mário (Carmi Stephens)"
+    numeric_value: "880→240 curtumes, 78% RS, 4% do boi"
+    tags: [indústria, mercado, consolidação]
+
+  - id: "RH-HEUR-707"
+    title: "Energia solar: financiamento era mais barato que conta de luz"
+    content: "Quando juros eram baixos, parcela de R$250 vs conta de luz de R$300. Payback em 3-3.5 anos. Quando juros subiram, tudo ficou mais difícil. ROI solar: 20-24% ao ano."
+    source_episode: "MARKETING_PARA_ENERGIA_SOLAR"
+    speaker: "Convidado solar"
+    numeric_value: "Parcela R$250 vs conta R$300, payback 3-3.5a, ROI 20-24%/ano"
+    tags: [solar, financiamento, vendas]
+
+  - id: "RH-HEUR-708"
+    title: "SolarZ: 400K+ usinas monitoradas = 30-35% do Brasil"
+    content: "A SolarZ monitora mais de 400 mil usinas solares, representando 30-35% de todas as usinas instaladas no Brasil. Clientes tiram até R$400K/mês recorrente vendendo pós-venda."
+    source_episode: "O_PRINCIPAL_PROBLEMA_DO_SETOR_DE_ENERGIA_SOLAR"
+    speaker: "Fundador SolarZ"
+    numeric_value: "400K usinas, 30-35% mercado BR, até R$400K MRR"
+    tags: [solar, saas, customer-success]
+
+  - id: "RH-HEUR-709"
+    title: "Marqueteiro estraga tudo — canal de hoje vai parar de funcionar"
+    content: "O canal que funciona hoje vai deixar de funcionar. A questão é quando, não se. Por isso, sempre planejar para o longo prazo e diversificar canais."
+    source_episode: "NPS_OU_MHS__QUAL_M_TRICA_USAR_"
+    speaker: "ROI Hunters"
+    tags: [canais, diversificação, growth]
+
+  - id: "RH-HEUR-710"
+    title: "Pesquisa de influenciador com top clientes: 100% coincidiram"
+    content: "V4 ligou para 80 melhores clientes perguntando quem seguiam. 100% citaram a mesma pessoa. Gastaram R$150K numa ação com esse influenciador. Se 100% fala que é referência, tem que agir."
+    source_episode: "O_LADO_NEGATIVO_DOS_INFLUENCIADORES_"
+    speaker: "Dener Lippert"
+    numeric_value: "80 clientes pesquisados, 100% coincidência, R$150K investido"
+    tags: [influenciador, pesquisa, decisão]
+
+  - id: "RH-HEUR-711"
+    title: "Influenciador: frequência > pontual"
+    content: "Melhor fazer R$100K em 100 ações menores consistentes do que um comercial pontual de R$100K. Consistência marca mais. Mesma lógica de TV: melhor sem comerciais no jornal local que um no Jornal Nacional."
+    source_episode: "O_LADO_NEGATIVO_DOS_INFLUENCIADORES_"
+    speaker: "ROI Hunters"
+    tags: [influenciador, frequência, marketing]
+
+  - id: "RH-HEUR-712"
+    title: "Copywriter de lançamento é mais fácil de ensinar branding do que publicitário virar copy"
+    content: "Pegar o copywriter 'bagunceiro' de infoproduto e ensinar cuidado com marca é mais fácil que pegar redator publicitário com 5-10 anos de frame clássico e ensinar conversão."
+    source_episode: "NEM_TODO_NEG_CIO_PRECISA_DE_COPY"
+    speaker: "ROI Hunters"
+    tags: [copy, contratação, skills]
+
+  - id: "RH-HEUR-713"
+    title: "Nem todo negócio precisa de copywriter dedicado"
+    content: "Geladeira é geladeira. O designer + gestor de tráfego já dão conta de um ROAS 27. Se o produto não tem diferencial para storytelling, copy dedicado é desperdício."
+    source_episode: "NEM_TODO_NEG_CIO_PRECISA_DE_COPY"
+    speaker: "ROI Hunters"
+    numeric_value: "ROAS 27 sem copy dedicado no caso Labz"
+    tags: [copy, alocação, eficiência]
+
+  - id: "RH-HEUR-714"
+    title: "Freelancer de dev é puta erro — escolha consultoria"
+    content: "Freelancer não tem compromisso com o depois. Faz o escopo e cai fora. Software precisa de manutenção contínua. Consultoria pequena com sócio envolvido funciona como parceiro de longo prazo."
+    source_episode: "N_O_CONTRATE_PROGRAMADOR_FREELANCER"
+    speaker: "Convidado tech"
+    tags: [tecnologia, contratação, software]
+
+  - id: "RH-HEUR-715"
+    title: "Figma gratuito é melhor que Canva Pro"
+    content: "O Figma gratuito tem mais features que o Canva Pro. Diferença do gratuito para pago: colaboração e equipe. Estratégia: de graça na faculdade, profissional se vicia, empresa paga US$75/usuário."
+    source_episode: "FIGMA_VS_PHOTOSHOP__QUAL_DEVO_USAR_"
+    speaker: "ROI Hunters"
+    numeric_value: "US$75/usuário pago, grátis para educação"
+    tags: [ferramentas, design, freemium]
+
+  - id: "RH-HEUR-716"
+    title: "ChatGuru: vendedor não vê número do cliente = segurança"
+    content: "Dentro do ChatGuru, pode restringir visibilidade do número. Vendedor conversa sem saber o telefone. Quando sai da empresa, não leva a carteira de clientes. Histórico fica na plataforma."
+    source_episode: "FERRAMENTA_DE_AUTOMA__ES_NO_WHATSAPP"
+    speaker: "Fernando Málvio (ChatGuru)"
+    tags: [whatsapp, vendas, governança]
+
+  - id: "RH-HEUR-717"
+    title: "Varejo físico = 96% do PIB do varejo brasileiro"
+    content: "E-commerce representa apenas ~4% do PIB do varejo no Brasil. A conveniência do varejo físico é muito alta. Na melhor hipótese, será 50/50 no futuro distante."
+    source_episode: "O_GRANDE_ERRO_DO_VAREJO________Lucas_Domingues"
+    speaker: "Lucas Domingues"
+    numeric_value: "96% físico, 4% e-commerce"
+    tags: [varejo, e-commerce, canal]
+
+  - id: "RH-HEUR-718"
+    title: "Indústria B2B não deve virar varejista"
+    content: "Nike entregou varejo BR para Centauro. Vans para Arezzo. São boas indústrias, não bons varejistas. A maioria dos B2B nem explorou o Google antes de querer abrir e-commerce B2C."
+    source_episode: "O_GRANDE_ERRO_DO_VAREJO________Lucas_Domingues"
+    speaker: "Lucas Domingues / Dener Lippert"
+    tags: [b2b, varejo, canal]
+
+  - id: "RH-HEUR-719"
+    title: "Marketing concentrado: 30 empresas = 30% da verba de R$50B"
+    content: "O mercado de marketing no Brasil é R$50 bilhões, mas hiperconcentrado em ~30 empresas (montadoras, telecom, consumo, finanças). Por isso Mídia for Equity existe — a maioria não tem caixa para marketing de verdade."
+    source_episode: "O_QUE___M_DIA_FOR_EQUITY_"
+    speaker: "Convidado media-for-equity"
+    numeric_value: "R$50B mercado, 30% em 30 empresas"
+    tags: [marketing, investimento, concentração]
+
+  - id: "RH-HEUR-720"
+    title: "Key Design: de R$3.5M para R$17M com mídia for equity"
+    content: "DNVB de pulseiras faturando R$3.5M/ano por 7 anos. Fez deal de mídia for equity, trouxe Caio Castro. Em 3-4 anos, R$17M de faturamento. Last click do influenciador não dava ROI, mas o contexto todo gerou o crescimento."
+    source_episode: "O_QUE___M_DIA_FOR_EQUITY_"
+    speaker: "Convidado media-for-equity"
+    numeric_value: "R$3.5M→R$17M em 3-4 anos"
+    tags: [mídia-for-equity, case, crescimento]
+
+  - id: "RH-HEUR-721"
+    title: "Home office: 50% presencial faz 80-90% do resultado em vendas"
+    content: "Na pandemia com 50% home office e 50% presencial, o time presencial fazia 80-90% do resultado comercial. Mesmo testando durante anos, não se conseguiu replicar performance de vendas em casa."
+    source_episode: "OS_EFEITOS_DO_HOME_OFFICE_NA_EQUIPE_COMERCIAL____LEONARDO_CASTELO"
+    speaker: "Leonardo Castelo"
+    numeric_value: "50% presencial = 80-90% resultado"
+    tags: [vendas, home-office, performance]
+
+  - id: "RH-HEUR-722"
+    title: "Priorização por Pareto em data lakes gigantes"
+    content: "Com 60M clientes, escolha batalhas. Identifique os 3 line-of-business mais relevantes (abertura de conta, cartão, crédito) e foque dados nesses. O LTV de crédito define target CPA. Se não priorizar, dado é lixo."
+    source_episode: "MARKETING_ANALYTICS_PARA_60_MILH_ES_DE_CLIENTES"
+    speaker: "Ex-marketing banco"
+    tags: [dados, priorização, analytics]
+
+  - id: "RH-HEUR-723"
+    title: "Franquia orgânica: 2 posts = 1000+ inscrições"
+    content: "Natalia Beauty fez 2 posts orgânicos sobre franquia e recebeu mais de 1000 inscrições. Marca com 10M seguidores e alta autoridade converte demanda de franquia sem mídia paga."
+    source_episode: "O_FUTURO_DO_MERCADO_DE_SOBRANCELHAS___Natalia_Beauty"
+    speaker: "Natalia Beauty"
+    numeric_value: "2 posts = 1000+ inscrições, 10M seguidores"
+    tags: [franquia, orgânico, autoridade]
+
+  - id: "RH-HEUR-724"
+    title: "Case V4: cliente salvou landing page por 3 anos até contratar"
+    content: "Cliente viu anúncio da V4, conectou com a marca, salvou nos favoritos. Consumiu conteúdo por 3 anos até estar pronto e contratar. Brand awareness de longo prazo funciona — não é last click."
+    source_episode: "OS_PILARES_DA_CONSTRU__O_DA_MARCA"
+    speaker: "Dener Lippert"
+    numeric_value: "3 anos de consideração antes de contratar"
+    tags: [branding, jornada, awareness]
+
+# ============================================================================
+# L4: FRAMEWORKS
+# ============================================================================
+frameworks:
+
+  - id: "RH-FW-700"
+    title: "Máquina de Vendas para Energia Solar"
+    content: "1) SPIN Selling adaptado para solar. 2) Técnica de rapport específica. 3) Funil com taxas de conversão. 4) CRM implantado. 5) Processo de indicação pós-venda. 6) Multicanal (não só indicação). Empresas que se destacaram foram as que montaram a máquina completa."
+    source_episode: "MARKETING_PARA_ENERGIA_SOLAR"
+    speaker: "Convidado solar"
+    tags: [vendas, solar, máquina-de-vendas]
+
+  - id: "RH-FW-701"
+    title: "Stack CRM em 3 camadas + CDP"
+    content: "Camada 1: Sales (CRM de vendas). Camada 2: Service (atendimento/suporte). Camada 3: Automation (marketing/comunicação recorrente). Quando as 3 estão consolidadas, CDP (Customer Data Platform) é o próximo passo — amarra tudo com back-office e produto."
+    source_episode: "O_QUE___CUSTOMER_DATA_PLATAFORM_"
+    speaker: "Ricardo Domingues (ex-XP)"
+    tags: [crm, cdp, tech-stack]
+
+  - id: "RH-FW-702"
+    title: "Framework de Product-Market Fit progressivo"
+    content: "1) Cliente compra com boa margem e volta? (melhor indicador). 2) Se sem recorrência: NPS bom? 3) MHS (Must Have Score) bom? (preferível ao NPS). 4) Validou PMF → Market-Channel Fit: qual canal traz mais resultado, mais rápido, com menos esforço?"
+    source_episode: "NPS_OU_MHS__QUAL_M_TRICA_USAR_"
+    speaker: "ROI Hunters"
+    tags: [product-market-fit, métricas, canais]
+
+  - id: "RH-FW-703"
+    title: "Treinamento de vendedor em 3 pilares"
+    content: "1) TÉCNICO: domínio do produto e processo (gera confiança). 2) COMPORTAMENTAL: disciplina, foco, autogestão, responsabilidade (necessário porque muitos vendedores vêm de contextos sem estrutura). 3) MINDSET: sonho concreto com plano traçado (o vendedor precisa querer ganhar dinheiro)."
+    source_episode: "OS_EFEITOS_DO_HOME_OFFICE_NA_EQUIPE_COMERCIAL____LEONARDO_CASTELO"
+    speaker: "Leonardo Castelo"
+    tags: [vendas, treinamento, gestão-comercial]
+
+  - id: "RH-FW-704"
+    title: "Modelo híbrido de prospecção BDR + AE"
+    content: "Modelo antigo: BDR prospecta, Closer fecha. Modelo evoluído: AE (Closer) gera 60% dos próprios leads. Primeiro contato → engajamento → relacionamento → reunião com ticket 46% maior. BDR continua para volume, mas AE não pode ficar ancorado em BDR."
+    source_episode: "O_FUTURO_DAS_VENDAS__O_QUE___DEEP_SALES_"
+    speaker: "Dennis (LinkedIn)"
+    tags: [vendas, prospecção, estrutura-comercial]
+
+  - id: "RH-FW-705"
+    title: "Inversão de risco para escalar equipe de serviço"
+    content: "1) Fortalece a equipe (não você). 2) Coloca seu preço 5x maior que o da equipe. 3) Garante: 'se não gostar, eu faço o retoque'. 4) Clientes preferem equipe (mais barato + garantido). 5) Resultado: equipe absorve demanda, marca cresce sem depender do fundador."
+    source_episode: "O_SEGREDO_DA_MARCA_NATALIA_BEAUTY"
+    speaker: "Natalia Beauty"
+    tags: [escala, serviço, delegação]
+
+  - id: "RH-FW-706"
+    title: "Experiência sensorial em 5 sentidos para diferenciação"
+    content: "Visual: flores, decoração temática (portal mágico). Olfato: aromas na clínica. Tato: massagem sensorial. Paladar: cappuccino com nutella. Audição: playlists diferentes por dia da semana conforme sentimento. 'Ativar os 5 sentidos e despertar o sexto.'"
+    source_episode: "O_SEGREDO_DA_MARCA_NATALIA_BEAUTY"
+    speaker: "Natalia Beauty"
+    tags: [experiência, branding-sensorial, diferenciação]
+
+  - id: "RH-FW-707"
+    title: "Brand Marketing Wheel — 3 raios + centro"
+    content: "Centro: Estratégia (para quem). Raio 1: Identidade (personalidade → assets → guidelines). Raio 2: Governança (manter consistência). Raio 3: Distribuição (todos os pontos de contato, incluindo propaganda). Sem governança, identidade se dilui. Sem distribuição, ninguém vê."
+    source_episode: "OS_PILARES_DA_CONSTRU__O_DA_MARCA"
+    speaker: "Dener Lippert"
+    tags: [branding, framework, estratégia]
+
+  - id: "RH-FW-708"
+    title: "Monetização por penetração de produto com elegibilidade"
+    content: "1) Mapear SKUs por cliente. 2) Definir elegibilidade (quais produtos cabem para qual cluster). 3) Calcular conversas potenciais por cliente. 4) Priorizar oferta por elegibilidade. 5) Clientes inativos: quando novo SKU surgir, reativar elegíveis."
+    source_episode: "N_O_VENDA_PARA_ESSE_CLIENTE___RICARDO_DOMINGUES"
+    speaker: "Ricardo Domingues"
+    tags: [monetização, cross-sell, base-clientes]
+
+  - id: "RH-FW-709"
+    title: "Covenantes de decisão em marketing"
+    content: "Para cada contexto, definir quais métricas importam e quais não. Ex: durante lançamento, se CPL sobe mas volume de leads cresce, foda-se o CPL. Isso é compartilhamento de consciência — permite decisão autônoma sem consultar líder."
+    source_episode: "O_VALOR_DA_ORGANIZA__O_NA_EMPRESA_"
+    speaker: "ROI Hunters"
+    tags: [decisão, métricas, autonomia]
+
+  - id: "RH-FW-710"
+    title: "Método de corte de vídeo com detecção de silêncio"
+    content: "1) Normalizar áudio (equalizar volume). 2) Detecção de silêncio automática (remove pausas — 2h vira ~1h20). 3) Assistir e separar em blocos de 1 minuto. 4) Combinar blocos como Lego (Frankenstein editorial). O complemento de minuto 5 cabe no minuto 45."
+    source_episode: "INTELIGENCIA_ARTIFICIAL_PARA_EDITAR_V_DEOS__VALE_A_PENA_"
+    speaker: "ROI Hunters (editor)"
+    tags: [conteúdo, edição, produtividade]
+
+  - id: "RH-FW-711"
+    title: "Pós-venda solar como produto recorrente"
+    content: "1) Monitorar inversor e placas (SolarZ integra 120+ portais). 2) Baixar fatura da concessionária automaticamente. 3) Gerar relatório de ROI acumulado + créditos. 4) White-label para integrador. 5) Integrador vende pós-venda recorrente (até R$400K MRR)."
+    source_episode: "O_PRINCIPAL_PROBLEMA_DO_SETOR_DE_ENERGIA_SOLAR"
+    speaker: "Fundador SolarZ"
+    tags: [saas, customer-success, recorrência]
+
+  - id: "RH-FW-712"
+    title: "TeamLink do LinkedIn para prospecção escalada"
+    content: "1) Toda empresa instala TeamLink no Sales Navigator. 2) Sistema mapeia rede de todos os funcionários. 3) BDR lista 100 empresas para prospectar. 4) Descobre: 40 são contatos do diretor X. 5) Prepara mensagem ghost para diretor apresentar. 6) Prospecção apoiada em credenciais reais."
+    source_episode: "O_FUTURO_DAS_VENDAS__O_QUE___DEEP_SALES_"
+    speaker: "Dennis (LinkedIn)"
+    tags: [vendas, linkedin, prospecção]
+
+# ============================================================================
+# L5: METHODOLOGIES
+# ============================================================================
+methodologies:
+
+  - id: "RH-MET-700"
+    title: "Pesquisa de influenciador via Fox Group com top clientes"
+    steps:
+      - "Selecionar 80 melhores clientes (retenção alta, satisfação)"
+      - "Ligar individualmente (focus group por telefone)"
+      - "Perguntar: 'Quem você segue? Quem é referência para você nesse assunto?'"
+      - "Tabular resultados — surgem influenciadores que você não conhece"
+      - "Se convergência alta (ex: 100%) em um nome → investir pesado nesse influenciador"
+      - "Execução: R$150K+ em ação sustentada (não pontual)"
+    source_episode: "O_LADO_NEGATIVO_DOS_INFLUENCIADORES_"
+    speaker: "Dener Lippert"
+    tags: [influenciador, pesquisa, decisão]
+
+  - id: "RH-MET-701"
+    title: "Jornada do colaborador como centro de treinamento para franquia"
+    steps:
+      - "Criar centro de treinamento para profissionais próprios"
+      - "Definir jornada do colaborador: entra como assistente → evolui"
+      - "Puxar as melhores profissionais do treinamento"
+      - "Converter clínicas próprias em centros de treinamento para futuros franqueados"
+      - "Vender franquia para profissionais formados internamente"
+      - "CSC (Centro de Serviço Compartilhado) agenda clientes para franqueado"
+      - "Franqueado vira operador focado no serviço"
+    source_episode: "O_FUTURO_DO_MERCADO_DE_SOBRANCELHAS___Natalia_Beauty"
+    speaker: "Natalia Beauty"
+    tags: [franquia, treinamento, escala]
+
+  - id: "RH-MET-702"
+    title: "Prospecção com perfil emprestado no LinkedIn"
+    steps:
+      - "Identificar perfil senior com credibilidade (C-level, fundador)"
+      - "Contratar assistentes para operar o perfil"
+      - "Assistentes enviam mensagens personalizadas pelo perfil senior"
+      - "Prospects respondem por causa da credibilidade do perfil"
+      - "Case: 40 reuniões em 40 dias com C-levels via LinkedIn em viagem EUA"
+      - "Essencial: mensagem assertiva + perfil com credibilidade"
+    source_episode: "O_FUTURO_DAS_VENDAS__O_QUE___DEEP_SALES_"
+    speaker: "Dener Lippert"
+    tags: [prospecção, linkedin, outbound]
+
+  - id: "RH-MET-703"
+    title: "Método Liquid Death de criação de marca em commodity"
+    steps:
+      - "Identificar mercado commodity (ex: água mineral)"
+      - "Criar identidade disruptiva e rock'n'roll (lata de cerveja para água)"
+      - "Produzir comercial de baixo custo (US$10K) mas viral"
+      - "Distribuir via internet (não TV tradicional)"
+      - "Resultado: US$100M+ em vendas em 5 anos"
+      - "Princípio: marca como personalidade, não como produto"
+    source_episode: "ORIGINALIDADE_NA_PUBLICIDADE_ACABOU_"
+    speaker: "ROI Hunters"
+    tags: [branding, disrupção, commodity]
+
+  - id: "RH-MET-704"
+    title: "Case Perrier: infiltração de marca via influência social"
+    steps:
+      - "Pagar celebridade A-list (Frank Sinatra, Rat Pack)"
+      - "Ir ao restaurante mais badalado (Four Seasons, sábado à noite)"
+      - "Pedir o produto pelo nome"
+      - "Se não tem → levantar e ir embora (criar frisson)"
+      - "Resultado: em 3 meses, todos os restaurantes premium tinham Perrier"
+      - "Princípio: demanda social > publicidade direta"
+    source_episode: "ORIGINALIDADE_NA_PUBLICIDADE_ACABOU_"
+    speaker: "Convidado (ex-Renner/Perrier)"
+    tags: [branding, influência, luxo]
+
+  - id: "RH-MET-705"
+    title: "Meta do vendedor com plano concreto (Leonardo Castelo)"
+    steps:
+      - "Perguntar qual é o sonho (ex: comprar carro, casa)"
+      - "Traçar plano concreto: quanto custa → quanto precisa vender → em quanto tempo"
+      - "Remover travas mentais ('mas não posso dirigir' → 'contrato motorista')"
+      - "Apresentar para equipe (gera accountability social)"
+      - "Acompanhar evolução periodicamente"
+      - "Na pior hipótese, não alcançar mas estar muito à frente de quem não planejou"
+    source_episode: "OS_EFEITOS_DO_HOME_OFFICE_NA_EQUIPE_COMERCIAL____LEONARDO_CASTELO"
+    speaker: "Leonardo Castelo"
+    tags: [vendas, motivação, planejamento]
+
+  - id: "RH-MET-706"
+    title: "Migração B2C → B2B para indústria de moda"
+    steps:
+      - "Identificar que e-commerce B2C está com dificuldade de escalar e perdendo performance"
+      - "Avaliar canal B2B (atacado, multimarcas, representantes)"
+      - "Representante ganha sobre toda venda (LTV), closer só na primeira"
+      - "Da 4ª compra em diante, cliente migra para e-commerce B2B (sem comissão)"
+      - "Verificar fit de execução: equipe sabe vender B2B?"
+      - "Case Juliano/Bela Máfia: abandonou B2C porque B2B não se comparava"
+    source_episode: "MODELO_DE_NEG_CIO_EST__ULTRAPASSADO_"
+    speaker: "Dener Lippert"
+    tags: [b2b, moda, canal, migração]
+
+# ============================================================================
+# SUMMARY
+# ============================================================================
+summary:
+  total_elements: 58
+  by_layer:
+    L1_philosophies: 18
+    L2_mental_models: 15
+    L3_heuristics: 25
+    L4_frameworks: 13
+    L5_methodologies: 7
+  top_themes:
+    - "Branding e identidade de marca (Farm Rio, Natalia Beauty, V4, Liquid Death)"
+    - "B2B vs B2C e modelo de negócio"
+    - "Vendas e gestão comercial (Deep Sales, energia solar, home office)"
+    - "Métricas e retenção (Cohort, NPS vs MHS, elegibilidade)"
+    - "Influenciadores e networking"
+    - "IA aplicada a marketing e vendas"
+  notable_numbers:
+    - "65M usuários LinkedIn Brasil"
+    - "+46% ticket quando closer prospecta"
+    - "60% leads gerados pelo AE no LinkedIn"
+    - "+5% na média de vendedores = 70% impacto"
+    - "96% PIB varejo BR é físico"
+    - "R$50B mercado marketing BR, 30% em 30 empresas"
+    - "400K usinas solares monitoradas (30-35% BR)"
+    - "R$3.5M→R$17M com mídia for equity"
+    - "50% presencial = 80-90% resultado comercial"

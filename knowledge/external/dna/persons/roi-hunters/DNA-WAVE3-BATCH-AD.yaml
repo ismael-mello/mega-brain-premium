@@ -1,0 +1,1170 @@
+# ============================================================================
+# DNA EXTRACTION — ROI Hunters Podcast (Wave 3, Batch AD)
+# ============================================================================
+# Source: 43 episodes (short-form, 2-10KB each)
+# Topics: CRM, RevOps, Forecast, AI, Networking, CAC/LTV, E-commerce,
+#         Product-Market Fit, Payments, WhatsApp Sales, Home Office,
+#         Startups, Live Commerce, International Sales, Digital Presence
+# Hosts: Dener Lippert (V4 Company), convidados variados
+# Extracted: 2026-04-01
+# IDs: RH-PHI-750+, RH-MM-750+, RH-HEUR-750+, RH-FW-750+, RH-MET-750+
+# ============================================================================
+
+metadata:
+  wave: 3
+  batch: AD
+  episodes: 43
+  total_elements: 97
+  extraction_date: "2026-04-01"
+  language: "pt-BR"
+  id_range:
+    philosophies: "RH-PHI-750 to RH-PHI-770"
+    mental_models: "RH-MM-750 to RH-MM-771"
+    heuristics: "RH-HEUR-750 to RH-HEUR-779"
+    frameworks: "RH-FW-750 to RH-FW-762"
+    methodologies: "RH-MET-750 to RH-MET-756"
+
+# ============================================================================
+# L1 — PHILOSOPHIES (Crenças fundamentais)
+# ============================================================================
+philosophies:
+
+  - id: RH-PHI-750
+    title: "CAC subir não é problema — é sinal de crescimento"
+    content: >
+      CAC tem tendência natural de subir no longo prazo. Novos canais de
+      aquisição custam mais que os anteriores — se fossem mais baratos, já
+      teriam sido usados antes. O erro é brigar para manter CAC baixo; o
+      certo é olhar a relação CAC/LTV.
+    source: "transcription_Voc__N_O_deveria_BRIGAR_para_ter_CAC_Baixo_"
+    speakers: ["Dener Lippert", "João Vitor (BuzzLead)"]
+
+  - id: RH-PHI-751
+    title: "Cresce mais quem gasta mais (em aquisição)"
+    content: >
+      Investir R$50k com ROI 5 coloca R$150k no bolso vs investir R$10k
+      com ROI 8 que coloca R$70k. O empresário que otimiza demais o CAC
+      está deixando escala na mesa. O que importa é resultado absoluto,
+      não eficiência relativa.
+    source: "transcription_Voc__N_O_deveria_BRIGAR_para_ter_CAC_Baixo_"
+    speakers: ["Dener Lippert", "João Vitor"]
+
+  - id: RH-PHI-752
+    title: "O valor está na integração dos dados, não no CRM isolado"
+    content: >
+      O jogo final que grandes e médias empresas devem buscar é a
+      integração completa de dados de CRM com dados de canais digitais.
+      CRM isolado é commodity — o diferencial é o stack integrado.
+    source: "transcription_OS_TR_S_TIPOS_DE_CRMS_"
+    speakers: ["Dener Lippert"]
+
+  - id: RH-PHI-753
+    title: "Networking é falar o que precisa, não só o que oferece"
+    content: >
+      A maioria faz networking errado porque não se abre sobre suas
+      dificuldades. As pessoas não sabem que você tem um problema —
+      ninguém vai te ajudar. Mesmo quem não pode resolver diretamente
+      pode conectar com alguém que resolve.
+    source: "transcription_VOC__FAZ_NETWORKING_ERRADO_"
+    speakers: ["Dener Lippert"]
+
+  - id: RH-PHI-754
+    title: "Busque mentores menos assediados que são mais acessíveis"
+    content: >
+      Pessoas que não produzem conteúdo e focam em executar têm pouco
+      assédio mas manjam muito mais que muitos famosos. O networking
+      eficiente é buscar quem está próximo do seu target atual, não
+      tentar falar com Elon Musk.
+    source: "transcription_VOC__FAZ_NETWORKING_ERRADO_"
+    speakers: ["Dener Lippert"]
+
+  - id: RH-PHI-755
+    title: "Toda empresa precisa estar no digital — sem exceção"
+    content: >
+      Independente do segmento, estar no digital não é opcional. Mesmo
+      empresas tradicionais precisam de presença digital para aquisição,
+      relacionamento e dados. O digital é o sistema nervoso do negócio.
+    source: "transcription_TODAS_AS_EMPRESAS_PRECISAM_ESTAR_NO_DIGITAL_"
+    speakers: ["Lucas Domingues"]
+
+  - id: RH-PHI-756
+    title: "Home office não funciona para a maioria das operações"
+    content: >
+      Operações que dependem de velocidade de comunicação, cultura
+      forte e colaboração ad-hoc perdem eficiência em home office.
+      A presença física gera alinhamento que videochamadas não
+      substituem.
+    source: "transcription_Por_isso_Home_office_n_o_funciona_"
+    speakers: ["Dener Lippert"]
+
+  - id: RH-PHI-757
+    title: "Transparência no desenvolvimento gera confiança"
+    content: >
+      Times de desenvolvimento devem operar com transparência radical —
+      roadmap visível, bugs públicos, prazos compartilhados. Esconder
+      complexidade do cliente gera desconfiança; mostrar gera parceria.
+    source: "transcription_TRANSPAR_NCIA_NO_TIME_DE_DESENVOLVIMENTO"
+    speakers: ["Dener Lippert"]
+
+  - id: RH-PHI-758
+    title: "IA é paradoxo — quanto mais inteligente, mais burra parece"
+    content: >
+      Inteligências artificiais criam o paradoxo de que quanto mais
+      capacidades ganham, mais erros complexos cometem. O usuário espera
+      perfeição, mas a natureza probabilística da IA garante falhas
+      em edge cases.
+    source: "transcription_PARADOXO_DAS_INTELIG_NCIA_ARTIFICIAS_"
+    speakers: ["Dener Lippert"]
+
+  - id: RH-PHI-759
+    title: "Produto novo é obrigação, não opção — empresas que param morrem"
+    content: >
+      Empresas devem criar novos produtos continuamente. O mercado
+      muda, clientes evoluem, e a empresa que para de inovar se torna
+      irrelevante. Inovação de produto é defesa contra comoditização.
+    source: "transcription_PORQUE_SUA_EMPRESA_DEVE_CRIAR_NOVOS_PRODUTOS_"
+    speakers: ["Dener Lippert"]
+
+  - id: RH-PHI-760
+    title: "Receita de float é modelo de negócio escondido"
+    content: >
+      Empresas como Starbucks têm US$1.6B em créditos de clientes
+      pagando 0% de juros enquanto rendem 4% ao ano. O dinheiro parado
+      na conta do cliente é receita invisível. Toda empresa com wallet
+      ou pré-pagamento tem esse ganho.
+    source: "transcription_PLANO_DE_ASSINATURA_DE_CEMIT_RIO"
+    speakers: ["Dener Lippert"]
+
+  - id: RH-PHI-761
+    title: "Shein e Shopee não são contrabando — são disrupção logística"
+    content: >
+      O modelo de cross-border e-commerce com envio direto é disrupção
+      de cadeia, não ilegalidade. A diferença competitiva está na
+      logística e na escala de dados, não em sonegação.
+    source: "transcription_SHEIN___SHOPEE_S_O_CONTRABANDOS_"
+    speakers: ["Dener Lippert"]
+
+  - id: RH-PHI-762
+    title: "Forecast existe para antecipar problemas, não prever futuro"
+    content: >
+      A função do forecast não é acertar o número exato de vendas,
+      mas antecipar gaps e permitir ação corretiva antes que o mês
+      acabe. Forecast é ferramenta de gestão, não de adivinhação.
+    source: "transcription_PARA_QUE_SERVE_UM_FORECAST_"
+    speakers: ["Dener Lippert"]
+
+  - id: RH-PHI-763
+    title: "Viralizar não é sorte — é engenharia de conteúdo"
+    content: >
+      Apenas algumas pessoas viralizam porque combinam formato certo +
+      timing + gatilho emocional + distribuição. Viralização é
+      replicável quando se entende a mecânica de cada plataforma.
+    source: "transcription_POR_QUE_S__ALGUMAS_PESSOAS_VIRALIZAM_"
+    speakers: ["Dener Lippert"]
+
+  - id: RH-PHI-764
+    title: "Publicidade excessiva é sinal de posicionamento fraco"
+    content: >
+      Empresas que torram em publicidade geralmente têm problema de
+      posicionamento ou produto, não de distribuição. Se o produto
+      é bom e o posicionamento claro, a eficiência de mídia é alta.
+    source: "transcription_POR_QUE_ALGUMAS_EMPRESAS_TORRAM_TANTO_EM_PUBLICIDADE_"
+    speakers: ["Dener Lippert"]
+
+  - id: RH-PHI-765
+    title: "Atacado dá mais dinheiro que varejo na maioria dos casos"
+    content: >
+      Em escala, o modelo B2B/atacado tem margens mais previsíveis e
+      ticket médio maior. O varejo tem volume mas CAC alto e
+      imprevisibilidade. A resposta depende do estágio da empresa.
+    source: "transcription_QUAL_D__MAIS_DINHEIRO__ATACADO_OU_VAREJO_"
+    speakers: ["Dener Lippert"]
+
+  - id: RH-PHI-766
+    title: "Vender para estrangeiros não é mais difícil — é diferente"
+    content: >
+      O mercado internacional tem suas próprias regras de aquisição.
+      Na Europa, eventos presenciais funcionam melhor que cold outreach
+      digital. Cada mercado tem seu canal dominante de confiança.
+    source: "transcription_VENDER_PARA_ESTRANGEIROS___DIFERENTE_"
+    speakers: ["Dener Lippert"]
+
+  - id: RH-PHI-767
+    title: "Recorrência de consumo é sempre bom para a empresa"
+    content: >
+      Modelos de recorrência criam previsibilidade de receita e
+      aumentam LTV por definição. Mesmo produtos tipicamente one-shot
+      podem ser convertidos em recorrência com criatividade (joias
+      para casamento como assinatura mensal).
+    source: "transcription_RECORR_NCIA_DE_CONSUMO___SEMPRE_BOM_PARA_A_EMPRESA_"
+    speakers: ["João Vitor"]
+
+  - id: RH-PHI-768
+    title: "O Google comprou o Waze pela inteligência de dados, não pelo app"
+    content: >
+      Aquisições de tech companies são sobre dados e inteligência,
+      não sobre o produto visível. O Waze valia pelos dados de
+      tráfego em tempo real que alimentam o ecossistema Google Maps.
+    source: "transcription_POR_QUE_O_GOOGLE_COMPROU_O_WAZE_"
+    speakers: ["Dener Lippert"]
+
+  - id: RH-PHI-769
+    title: "Threads foi esquecido porque não resolveu um problema real"
+    content: >
+      Produtos que nascem como reação a concorrentes sem proposta de
+      valor própria tendem a ser esquecidos. O Threads surgiu como
+      anti-Twitter mas não ofereceu razão própria para voltar.
+    source: "transcription_THREADS__APLICATIVO_FOI_ESQUECIDO_"
+    speakers: ["Dener Lippert"]
+
+  - id: RH-PHI-770
+    title: "Investir em startups vale a pena pelo aprendizado, não só retorno"
+    content: >
+      O valor de investir em startups para um empresário não é apenas
+      o retorno financeiro, mas a exposição a modelos de negócio
+      inovadores, networks de alto nível e mindset de crescimento
+      exponencial.
+    source: "transcription_PORQUE_INVESTIR_EM_STARTUPS__VALE_A_PENA__"
+    speakers: ["Dener Lippert"]
+
+# ============================================================================
+# L2 — MENTAL MODELS (Modelos de pensamento)
+# ============================================================================
+mental_models:
+
+  - id: RH-MM-750
+    title: "3 Stacks de CRM"
+    content: >
+      CRM se divide em 3 categorias: (1) Service/Suporte (ex: Zendesk),
+      (2) Marketing Automation (ex: RD Station, HubSpot),
+      (3) Sales CRM (ex: Salesforce, Pipedrive). Cada player tenta
+      invadir as outras categorias, mas o valor está em integrar as 3.
+    source: "transcription_OS_TR_S_TIPOS_DE_CRMS_"
+    speakers: ["Dener Lippert"]
+
+  - id: RH-MM-751
+    title: "Modelo do CAC Crescente Natural"
+    content: >
+      CAC sobe naturalmente: começa vendendo para amigos (CAC zero) →
+      mídia paga (CAC médio) → influenciadores (CAC alto) →
+      canais premium (CAC mais alto). Se fosse mais barato, já teria
+      feito antes. A progressão é inevitável em escala.
+    source: "transcription_Voc__N_O_deveria_BRIGAR_para_ter_CAC_Baixo_"
+    speakers: ["Dener Lippert", "João Vitor"]
+
+  - id: RH-MM-752
+    title: "Flywheel do Starbucks (Float + Fidelidade + Recompra)"
+    content: >
+      Starbucks cobra pré-pagamento → cliente deixa saldo parado →
+      empresa investe float a 4% a.a. → acumula estrelas →
+      resgata produto grátis → aproveita e compra mais →
+      nunca mais paga com cartão direto. Ciclo auto-reforçante.
+    source: "transcription_PLANO_DE_ASSINATURA_DE_CEMIT_RIO"
+    speakers: ["Dener Lippert"]
+
+  - id: RH-MM-753
+    title: "RevOps como unificação de Revenue"
+    content: >
+      Revenue Operations unifica Marketing + Sales + Customer Success
+      sob uma visão única de receita. Elimina silos departamentais
+      e cria pipeline contínuo. Mais simples do que parece quando
+      implementado gradualmente.
+    source: "transcription_Revenue_Operations__RevOps___o_que___e_como_funciona_"
+    speakers: ["Dener Lippert"]
+
+  - id: RH-MM-754
+    title: "Paradoxo da IA — mais capacidade = mais erros visíveis"
+    content: >
+      Quanto mais uma IA pode fazer, mais edge cases ela encontra e
+      mais erros complexos comete. Usuários comparam com perfeição
+      humana em tarefas específicas, gerando a ilusão de que a IA
+      é burra quando na verdade expandiu escopo demais.
+    source: "transcription_PARADOXO_DAS_INTELIG_NCIA_ARTIFICIAS_"
+    speakers: ["Dener Lippert"]
+
+  - id: RH-MM-755
+    title: "Networking de Menor Assédio"
+    content: >
+      Pessoas que não produzem conteúdo são menos assediadas, mais
+      acessíveis e frequentemente mais competentes que influenciadores
+      famosos. A estratégia ótima de networking é buscar executivos
+      fora dos holofotes mas com expertise profunda.
+    source: "transcription_VOC__FAZ_NETWORKING_ERRADO_"
+    speakers: ["Dener Lippert"]
+
+  - id: RH-MM-756
+    title: "Cenografia vs Arquitetura em eventos"
+    content: >
+      Arquitetura cria espaços permanentes com normas e engenharia.
+      Cenografia cria experiências temporárias para passar uma
+      mensagem/imersão. Em eventos, o Jobs to Be Done é imersão
+      e mensagem, não permanência — por isso cenografia > arquitetura.
+    source: "transcription_QUAL_A_DIFEREN_A_ENTRE_ARQUITETURA_E_CENOGRAFIA_"
+    speakers: ["Dener Lippert"]
+
+  - id: RH-MM-757
+    title: "Painéis malditos de crescimento"
+    content: >
+      Empresas enfrentam painéis de crescimento (plateaus) onde a
+      operação que funcionava trava. Cada painel exige mudança
+      estrutural — o que te trouxe até aqui não te leva ao próximo
+      nível. São pontos de inflexão obrigatórios.
+    source: "transcription_QUAL___O_PR_XIMOS_P_NEIS_MALDITOS_"
+    speakers: ["Dener Lippert"]
+
+  - id: RH-MM-758
+    title: "Product-Market Fit como processo iterativo"
+    content: >
+      PMF não é um momento binário (tem/não tem). É um processo
+      iterativo de ajuste contínuo entre produto e mercado. A melhor
+      estratégia é lançar rápido, medir retenção, e iterar. Retenção
+      é o melhor indicador de PMF.
+    source: "transcription_QUAL___A_MELHOR_ESTRAT_GIA_DE_PRODUCT_MARKET_FIT_"
+    speakers: ["Dener Lippert"]
+
+  - id: RH-MM-759
+    title: "Escadinha vs Indique-Ganhe (Programas de Indicação)"
+    content: >
+      Dois modelos de programa de indicação: (1) Indique-Ganhe (one-shot
+      reward) e (2) Escadinha (rewards progressivos). Escadinha funciona
+      melhor para negócios de recorrência/assinatura com múltiplos
+      pontos de contato. Escolha baseada em pesquisa, não achismo.
+    source: "transcription_Voc__N_O_deveria_BRIGAR_para_ter_CAC_Baixo_"
+    speakers: ["João Vitor"]
+
+  - id: RH-MM-760
+    title: "Desafio de atender muitos clientes — qualidade vs escala"
+    content: >
+      Conforme a base de clientes cresce, a qualidade do atendimento
+      cai a menos que processos e tecnologia sejam escalados junto.
+      O desafio não é ter muitos clientes, mas manter promessa de
+      entrega em escala.
+    source: "transcription_QUAL___O_DESAFIO_DE_ATENDER_MUITOS_CLIENTES_"
+    speakers: ["Dener Lippert"]
+
+  - id: RH-MM-761
+    title: "Diferencial dos métodos de pagamento como conversão"
+    content: >
+      Cada campo de input no checkout é perda de conversão. Métodos
+      de pagamento com 1-click (Apple Pay, NuPay) eliminam fricção.
+      Oferecer múltiplos métodos alternativos é estratégia de
+      conversão, não cortesia.
+    source: "transcription_QUAL_A_DIFERENCIAL_DOS_M_TODOS_DE_PAGAMENTOS_"
+    speakers: ["Dener Lippert"]
+
+  - id: RH-MM-762
+    title: "Fábricas Brasil vs Itália — escala vs artesanato"
+    content: >
+      Brasil compete em escala industrial com custos menores. Itália
+      compete em artesanato, marca e heritage. São modelos
+      complementares, não concorrentes. O erro é tentar ser artesanal
+      com mentalidade de escala ou vice-versa.
+    source: "transcription_QUAL_A_DIFEREN_A_ENTRE_AS_F_BRICAS_DO_BRASIL_VS_IT_LIA"
+    speakers: ["Dener Lippert"]
+
+  - id: RH-MM-763
+    title: "Valor do CRM para empresa = visibilidade do pipeline"
+    content: >
+      O CRM não é ferramenta de vendas — é ferramenta de visibilidade.
+      Sem CRM, o gestor não sabe o que está no pipeline, não consegue
+      fazer forecast, e não identifica gargalos. CRM é o dashboard
+      do revenue.
+    source: "transcription_QUAL_O_VALOR_DO_CRM_PARA_UMA_EMPRESA_"
+    speakers: ["Dener Lippert"]
+
+  - id: RH-MM-764
+    title: "Live commerce como canal de vendas integrado"
+    content: >
+      Live commerce combina entretenimento + demonstração + urgência
+      + interação social. Funciona especialmente bem para produtos
+      visuais e com storytelling forte. O cemitério não é o produto —
+      é a experiência ao vivo que converte.
+    source: "transcription_VENDER_MAIS_USANDO_LIVE_PARA_UM_DO_CEMIT_RIO"
+    speakers: ["Dener Lippert"]
+
+  - id: RH-MM-765
+    title: "WhatsApp como canal de vendas high-ticket"
+    content: >
+      WhatsApp funciona para vendas quando há confiança pré-estabelecida.
+      É canal de conversão (não de aquisição). Ideal para follow-up,
+      nutrição e fechamento após primeiro contato em outro canal.
+    source: "transcription_VENDAS_PELO_WHATSAPP__VALE_A_PENA_"
+    speakers: ["Dener Lippert"]
+
+  - id: RH-MM-766
+    title: "Taboola como canal complementar"
+    content: >
+      Taboola funciona como canal de descoberta (discovery), não de
+      intenção. Vale a pena como complemento a Google/Meta para
+      empresas que já esgotaram escala nos canais primários, não como
+      primeiro canal.
+    source: "transcription_VALE_A_PENA__ANUNCIAR_NA_TABOOLA_"
+    speakers: ["Dener Lippert"]
+
+  - id: RH-MM-767
+    title: "Internalizar dev vs terceirizar — trade-off de controle"
+    content: >
+      Internalizar time de desenvolvimento dá controle e velocidade
+      mas exige gestão técnica forte. Terceirizar é mais barato no
+      início mas gera dependência. A decisão depende de quanto tech
+      é core para o negócio.
+    source: "transcription_VALE_A_PENA_INTERNALIZAR_UM_TIME_DE_DESENVOLVIMENTO_"
+    speakers: ["Dener Lippert"]
+
+  - id: RH-MM-768
+    title: "RevOps para empresas pequenas — começa simples"
+    content: >
+      RevOps não é só para empresas grandes. Empresas pequenas podem
+      começar com alinhamento básico entre marketing e vendas usando
+      uma planilha compartilhada. O princípio (visão unificada de
+      revenue) escala independente do tamanho.
+    source: "transcription_REVENUE_PARA_EMPRESAS_PEQUENAS__FAZ_SENTIDO_"
+    speakers: ["Dener Lippert"]
+
+  - id: RH-MM-769
+    title: "Resenha do Gab — jantar entre amigos que virou negócio"
+    content: >
+      Negócios de conteúdo nascem de autenticidade. Um jantar entre
+      amigos que é filmado e publicado pode se tornar canal de
+      aquisição se a audiência se identifica com a dinâmica genuína.
+      Formato > produção.
+    source: "transcription_RESENHA_DO_GAB__COMO_UM_JANTAR_ENTRE_AMIGOS_VIROU_UM_NEG_CIO_"
+    speakers: ["Gabriel Khawali"]
+
+  - id: RH-MM-770
+    title: "Profissional que ganha mais = quem resolve problemas caros"
+    content: >
+      O profissional mais bem pago não é o mais técnico, é o que
+      resolve problemas de maior valor. Vendedor que fecha contratos
+      de R$1M ganha mais que dev senior porque o impacto direto na
+      receita é maior.
+    source: "transcription_QUAL_PROFISSIONAL_GANHA_MAIS_"
+    speakers: ["Dener Lippert"]
+
+  - id: RH-MM-771
+    title: "Copy Base AI — automação de copywriting com IA"
+    content: >
+      Ferramentas de IA para copy funcionam melhor como assistente
+      do copywriter, não como substituto. O valor está em acelerar
+      iterações e variações, mantendo a direção criativa humana.
+    source: "transcription_QUEM___S_RGIO_FERNANDES_DA_COPY_BASE_AI_"
+    speakers: ["Sérgio Fernandes"]
+
+# ============================================================================
+# L3 — HEURISTICS (Regras práticas com números)
+# ============================================================================
+heuristics:
+
+  - id: RH-HEUR-750
+    title: "99% dos empresários acham o CAC alto quando calculam certo"
+    content: >
+      Quase nenhuma empresa tem CAC calculado corretamente. Quando
+      calculam pela primeira vez com metodologia correta, 99% acham
+      alto. Se achou baixo, provavelmente calculou errado. Recalcule.
+    source: "transcription_Voc__N_O_deveria_BRIGAR_para_ter_CAC_Baixo_"
+    speakers: ["João Vitor"]
+    threshold: "99%"
+
+  - id: RH-HEUR-751
+    title: "ROI 5 com R$50k > ROI 8 com R$10k"
+    content: >
+      Investir R$50k com ROI 5 = R$150k no bolso. Investir R$10k
+      com ROI 8 = R$70k no bolso. Resultado absoluto > eficiência
+      relativa. Escala importa mais que otimização de CAC.
+    source: "transcription_Voc__N_O_deveria_BRIGAR_para_ter_CAC_Baixo_"
+    speakers: ["Dener Lippert"]
+    threshold: "R$150k vs R$70k"
+
+  - id: RH-HEUR-752
+    title: "Contrato V4 = R$4.500/mês mínimo, 6 meses fidelidade = R$30k"
+    content: >
+      O contrato mínimo V4 é R$4.500/mês com 6 meses de fidelidade,
+      totalizando R$27-30k de comprometimento. Alguns contratos têm
+      12 meses de fidelidade. Para indicação, o comprometimento do
+      referral importa.
+    source: "transcription_Voc__N_O_deveria_BRIGAR_para_ter_CAC_Baixo_"
+    speakers: ["Dener Lippert"]
+    threshold: "R$4.500/mês, 6-12 meses"
+
+  - id: RH-HEUR-753
+    title: "Starbucks: US$1.6B em float a 0% de juros (2022)"
+    content: >
+      Em 2022, Starbucks tinha US$1.6 bilhão em créditos de clientes
+      pagando 0% de juros. Aplicando em renda fixa a 4% nos EUA,
+      são ~US$64M/ano de receita de float sem nenhum esforço.
+    source: "transcription_PLANO_DE_ASSINATURA_DE_CEMIT_RIO"
+    speakers: ["Dener Lippert"]
+    threshold: "US$1.6B float, 4% yield"
+
+  - id: RH-HEUR-754
+    title: "40 reuniões em 40 dias — networking de imersão"
+    content: >
+      Dener fez 40 reuniões presenciais em 40 dias nos EUA com equipe
+      de 3 intercambistas prospectando via LinkedIn nas cidades que
+      ele passava de motorhome. Networking de imersão geográfica
+      funciona massivamente.
+    source: "transcription_VOC__FAZ_NETWORKING_ERRADO_"
+    speakers: ["Dener Lippert"]
+    threshold: "40 reuniões / 40 dias"
+
+  - id: RH-HEUR-755
+    title: "V4 tem 300+ unidades e 4.000 pessoas — filtrar networking é obrigatório"
+    content: >
+      Com 300 unidades e 4.000 pessoas, Dener não consegue fazer
+      one-on-one com todos. Filtrar quem merece atenção é sobrevivência,
+      não arrogância. Delegar primeiro, resolver pessoalmente só se
+      ninguém mais puder ajudar.
+    source: "transcription_VOC__FAZ_NETWORKING_ERRADO_"
+    speakers: ["Dener Lippert"]
+    threshold: "300 unidades, 4.000 pessoas"
+
+  - id: RH-HEUR-756
+    title: "Cada input field no checkout = perda de conversão"
+    content: >
+      Em checkout de e-commerce, cada campo adicional de input reduz
+      a taxa de conversão. Pagamento 1-click (Apple Pay, NuPay, Google
+      Pay) elimina 5+ campos de fricção: número do cartão, validade,
+      CVV, endereço, CEP.
+    source: "transcription_QUAL_A_DIFERENCIAL_DOS_M_TODOS_DE_PAGAMENTOS_"
+    speakers: ["Dener Lippert"]
+    threshold: "5+ campos de fricção"
+
+  - id: RH-HEUR-757
+    title: "Face ID 5x para copiar dados do banco = fricção real"
+    content: >
+      Para pagar online sem wallet: abrir app do banco → Face ID →
+      copiar número → voltar ao checkout → colar → voltar ao app →
+      Face ID → copiar CVV → voltar → colar → endereço. São 5+
+      autenticações. Cada uma é ponto de abandono.
+    source: "transcription_QUAL_A_DIFERENCIAL_DOS_M_TODOS_DE_PAGAMENTOS_"
+    speakers: ["Dener Lippert"]
+    threshold: "5+ autenticações"
+
+  - id: RH-HEUR-758
+    title: "Eventos presenciais > cold outreach digital na Europa"
+    content: >
+      Para aquisição de clientes internacionais na Europa, eventos
+      presenciais e networking geram mais resultado que outreach
+      digital. Validadores de e-mail são menos efetivos lá. Ir na
+      raça a eventos funciona.
+    source: "transcription_VENDER_PARA_ESTRANGEIROS___DIFERENTE_"
+    speakers: ["Dener Lippert"]
+
+  - id: RH-HEUR-759
+    title: "Programa de indicação: recompensa na próxima compra em loja de colchão = erro"
+    content: >
+      Loja de colchão copiou mecânica de indicação que dava recompensa
+      na próxima compra. Ciclo de recompra de colchão = anos. Mecânica
+      não funcionou porque a recompensa era inalcançável. Adaptar
+      mecânica ao ciclo de venda do negócio.
+    source: "transcription_Voc__N_O_deveria_BRIGAR_para_ter_CAC_Baixo_"
+    speakers: ["João Vitor"]
+
+  - id: RH-HEUR-760
+    title: "KPI de marketing: foco no indicador que move receita"
+    content: >
+      O KPI de marketing que importa é o que se conecta diretamente
+      com receita. Impressões e cliques são vaidade. CAC, ROAS e
+      contribuição para pipeline são os que o CFO quer ver.
+    source: "transcription_QUAL_KPI_DE_MARKETING_DEVO_SEGUIR_"
+    speakers: ["Dener Lippert"]
+
+  - id: RH-HEUR-761
+    title: "Lugano Chocolates = marca de Gramado que virou nacional"
+    content: >
+      Lugano usou posicionamento geográfico (Gramado = frio = chocolate)
+      como alavanca de marca. Expandiu nacionalmente mantendo a
+      associação com origem. O place branding funciona quando o local
+      tem associação emocional com a categoria.
+    source: "transcription_QUEM___A_LUGANO_CHOCOLATES_DE_GRAMADO_"
+    speakers: ["Dener Lippert"]
+
+  - id: RH-HEUR-762
+    title: "Dado Schneider criou a marca Claro — naming como diferencial"
+    content: >
+      O nome "Claro" para operadora de telefonia foi criação
+      publicitária que comunica simplicidade e transparência. Naming
+      forte encapsula posicionamento em uma palavra.
+    source: "transcription_QUEM___DADO_SCHNEIDER__CRIADOR_DA_MARCA_CLARO_"
+    speakers: ["Dener Lippert"]
+
+  - id: RH-HEUR-763
+    title: "Quanto gastar em produtos novos — regra de Natalia Beauty"
+    content: >
+      Investimento em novos produtos deve ser proporcional ao
+      faturamento atual e testado em pequena escala antes de
+      scale-up. Validar demanda antes de produzir em massa.
+    source: "transcription_QUANTO_GASTAR_EM_PRODUTOS_NOVOS____Natalia_Beauty"
+    speakers: ["Natalia Beauty"]
+
+  - id: RH-HEUR-764
+    title: "Aquisição Brasil > Internacional em volume para fintech"
+    content: >
+      Para fintech brasileira vendendo internacionalmente, o Brasil
+      ainda gera muito mais volume de novos clientes, principalmente
+      via programa de parceria. O mercado doméstico é maior em
+      volume mesmo com expansão internacional.
+    source: "transcription_QUAL_A_DIFERENCIAL_DOS_M_TODOS_DE_PAGAMENTOS_"
+    speakers: ["Dener Lippert"]
+
+  - id: RH-HEUR-765
+    title: "Modalia nasceu em 2010 — 3 anos para posicionar cenografia"
+    content: >
+      Modalia (cenografia para eventos) levou 3 anos de mercado para
+      consolidar posicionamento via relacionamento. No B2B de serviços
+      criativos, tempo de mercado e portfolio são os maiores geradores
+      de confiança.
+    source: "transcription_QUAL_A_DIFEREN_A_ENTRE_ARQUITETURA_E_CENOGRAFIA_"
+    speakers: ["Dener Lippert"]
+    threshold: "3 anos para posicionar"
+
+  - id: RH-HEUR-766
+    title: "iPhone: cliente gasta R$2-6k por compra"
+    content: >
+      Cada cliente de iPhone gasta entre R$2.000 e R$6.000 por
+      dispositivo. Programa de indicação para esse ticket precisa
+      de recompensa proporcional ao comprometimento.
+    source: "transcription_Voc__N_O_deveria_BRIGAR_para_ter_CAC_Baixo_"
+    speakers: ["Dener Lippert"]
+    threshold: "R$2-6k por dispositivo"
+
+  - id: RH-HEUR-767
+    title: "Money 2020 = principal evento de Fintech, Las Vegas"
+    content: >
+      O Money 2020 em Las Vegas é o principal evento do segmento
+      fintech. Para aquisição internacional no setor, estar presente
+      neste evento é obrigatório.
+    source: "transcription_VENDER_PARA_ESTRANGEIROS___DIFERENTE_"
+    speakers: ["Dener Lippert"]
+
+  - id: RH-HEUR-768
+    title: "Recorrência com joias para casamento = modelo criativo"
+    content: >
+      Joalheria de casamento criou modelo de assinatura mensal onde
+      noiva recebe peça diferente a cada mês até o casamento.
+      Transforma compra one-shot em recorrência de 12+ meses.
+    source: "transcription_RECORR_NCIA_COM_JOIAS_PARA_O_CASAMENTO_"
+    speakers: ["Dener Lippert"]
+    threshold: "12+ meses de recorrência"
+
+  - id: RH-HEUR-769
+    title: "RevOps: implementar se tiver +1 canal de aquisição"
+    content: >
+      Se a empresa tem mais de 1 canal de aquisição, já faz sentido
+      pensar em RevOps. Não precisa de time dedicado — começar com
+      alinhamento de métricas entre marketing e vendas.
+    source: "transcription_RevOps__Ser__que_devo_implementar_"
+    speakers: ["Dener Lippert"]
+    threshold: "+1 canal de aquisição"
+
+  - id: RH-HEUR-770
+    title: "XP: parte considerável do resultado é float"
+    content: >
+      Nos resultados da XP Investimentos, uma parte considerável do
+      resultado vem de float — o dinheiro parado na conta do cliente
+      que a empresa movimenta. Modelo replicável para qualquer empresa
+      com wallet.
+    source: "transcription_PLANO_DE_ASSINATURA_DE_CEMIT_RIO"
+    speakers: ["Dener Lippert"]
+
+  - id: RH-HEUR-771
+    title: "Shopify + NuvemShop = parcerias estratégicas para pagamentos"
+    content: >
+      Parcerias oficiais com plataformas de e-commerce (Shopify,
+      NuvemShop) promovem o método de pagamento organicamente dentro
+      da plataforma, gerando aquisição sem custo direto.
+    source: "transcription_QUAL_A_DIFERENCIAL_DOS_M_TODOS_DE_PAGAMENTOS_"
+    speakers: ["Dener Lippert"]
+
+  - id: RH-HEUR-772
+    title: "Programa de parceria > outreach comercial para fintech B2B"
+    content: >
+      Para fintech B2B, programa de parceria gera mais aquisição
+      que outreach comercial direto. Parceiros promovem naturalmente
+      porque o produto integrado melhora a oferta deles.
+    source: "transcription_QUAL_A_DIFERENCIAL_DOS_M_TODOS_DE_PAGAMENTOS_"
+    speakers: ["Dener Lippert"]
+
+  - id: RH-HEUR-773
+    title: "Benchmark: mínimo de depósito R$10-20 para wallet"
+    content: >
+      Wallets de pagamento tipicamente exigem depósito mínimo de
+      R$10-20 para funcionar. Esse mínimo é barreira de entrada
+      baixa mas gera float acumulado em escala.
+    source: "transcription_PLANO_DE_ASSINATURA_DE_CEMIT_RIO"
+    speakers: ["Dener Lippert"]
+    threshold: "R$10-20 mínimo"
+
+  - id: RH-HEUR-774
+    title: "CDI Brasil = ~10% líquido ao ano para float"
+    content: >
+      Float investido em CDI no Brasil rende ~10% líquido ao ano.
+      Mesmo pequenas quantias acumuladas de milhares de clientes
+      geram receita significativa.
+    source: "transcription_PLANO_DE_ASSINATURA_DE_CEMIT_RIO"
+    speakers: ["Dener Lippert"]
+    threshold: "~10% a.a. CDI"
+
+  - id: RH-HEUR-775
+    title: "30 estrelas Starbucks = produtos grátis + upsell"
+    content: >
+      Com 30 estrelas no programa Starbucks, cliente resgata produto
+      grátis. Na hora do resgate, aproveita e compra mais. O resgate
+      é mecanismo de recompra, não de custo.
+    source: "transcription_PLANO_DE_ASSINATURA_DE_CEMIT_RIO"
+    speakers: ["Dener Lippert"]
+    threshold: "30 estrelas para resgate"
+
+  - id: RH-HEUR-776
+    title: "Airbnb: comprometimento ~R$500-600 por indicação"
+    content: >
+      O comprometimento típico de um booking no Airbnb é R$500-600.
+      Programas de indicação para esse ticket podem usar recompensas
+      menores (créditos, descontos) porque a decisão é de menor risco.
+    source: "transcription_Voc__N_O_deveria_BRIGAR_para_ter_CAC_Baixo_"
+    speakers: ["João Vitor"]
+    threshold: "R$500-600 por booking"
+
+  - id: RH-HEUR-777
+    title: "Recompensas digitais funcionam se forem muito desejadas"
+    content: >
+      Case Ítalo: programa de indicação com recompensas 100% digitais
+      (ebooks, aulas) funcionou porque o conteúdo era altamente
+      desejado pelo público. Custo zero de reward, alto valor percebido.
+    source: "transcription_Voc__N_O_deveria_BRIGAR_para_ter_CAC_Baixo_"
+    speakers: ["João Vitor"]
+
+  - id: RH-HEUR-778
+    title: "Pesquisa com cliente > intuição para mecânica de indicação"
+    content: >
+      O que mais manda na escolha da mecânica de indicação é o
+      resultado da pesquisa com clientes, não intuição do empresário.
+      Não adianta forçar mecânica que a pesquisa diz que não funciona.
+    source: "transcription_Voc__N_O_deveria_BRIGAR_para_ter_CAC_Baixo_"
+    speakers: ["João Vitor"]
+
+  - id: RH-HEUR-779
+    title: "Mercado Pago como gateway alternativo para maior conversão"
+    content: >
+      Métodos de pagamento alternativos (Mercado Pago, PicPay, etc.)
+      aumentam taxa de conversão. O logista quer receber, o cliente
+      quer pagar — oferecer a melhor forma para cada usuário.
+    source: "transcription_QUAL_A_DIFERENCIAL_DOS_M_TODOS_DE_PAGAMENTOS_"
+    speakers: ["Dener Lippert"]
+
+# ============================================================================
+# L4 — FRAMEWORKS (Estruturas aplicáveis)
+# ============================================================================
+frameworks:
+
+  - id: RH-FW-750
+    title: "Framework de 3 Stacks de CRM"
+    content: >
+      Classificação de tecnologia CRM em 3 stacks:
+      (1) SERVICE STACK — Suporte e atendimento (Zendesk, Freshdesk)
+      (2) MARKETING AUTOMATION — Automação de marketing (RD Station, HubSpot)
+      (3) SALES CRM — Pipeline de vendas (Salesforce, Pipedrive)
+      O valor está na integração dos 3 stacks, não em escolher um.
+    source: "transcription_OS_TR_S_TIPOS_DE_CRMS_"
+    speakers: ["Dener Lippert"]
+    steps:
+      - "Mapear qual stack a empresa já usa"
+      - "Identificar gaps entre os 3 stacks"
+      - "Priorizar integração de dados entre eles"
+      - "Escolher plataforma que melhor conecta os 3"
+
+  - id: RH-FW-751
+    title: "Framework de Decisão CAC vs Escala"
+    content: >
+      Análise de trade-off entre eficiência de CAC e resultado absoluto:
+      (1) Calcular CAC atual corretamente
+      (2) Calcular LTV real (não estimado)
+      (3) Simular cenários: mais investimento com CAC maior
+      (4) Comparar resultado absoluto, não ROI relativo
+      (5) Definir CAC máximo aceitável dado LTV
+    source: "transcription_Voc__N_O_deveria_BRIGAR_para_ter_CAC_Baixo_"
+    speakers: ["Dener Lippert", "João Vitor"]
+    steps:
+      - "Calcular CAC real (incluir tudo)"
+      - "Calcular LTV por cohort"
+      - "Simular 3 cenários de investimento"
+      - "Escolher pelo resultado absoluto, não eficiência"
+
+  - id: RH-FW-752
+    title: "Framework de Networking Estratégico (40 em 40)"
+    content: >
+      Método de networking por imersão geográfica:
+      (1) Definir rota/cidades-alvo
+      (2) Ter equipe prospectando via LinkedIn nas cidades futuras
+      (3) Fazer reuniões presenciais 1-a-1
+      (4) Ser aberto sobre o que precisa (não só o que oferece)
+      (5) Buscar pessoas menos assediadas mas altamente competentes
+    source: "transcription_VOC__FAZ_NETWORKING_ERRADO_"
+    speakers: ["Dener Lippert"]
+    steps:
+      - "Montar equipe de prospecção remota"
+      - "Prospectar via LinkedIn nas cidades da rota"
+      - "Agendar reuniões presenciais"
+      - "Ser aberto sobre necessidades e dificuldades"
+      - "Follow-up imediato pós-reunião"
+
+  - id: RH-FW-753
+    title: "Framework de Programa de Indicação por Modelo de Negócio"
+    content: >
+      Escolha da mecânica de indicação baseada em variáveis do negócio:
+      (1) Analisar ciclo de venda (curto vs longo)
+      (2) Calcular CAC atual
+      (3) Pesquisar com clientes a recompensa desejada
+      (4) Definir modelo (indique-ganhe vs escadinha)
+      (5) Escadinha para recorrência; indique-ganhe para one-shot
+      (6) Recompensa proporcional ao ticket, não ao CAC
+    source: "transcription_Voc__N_O_deveria_BRIGAR_para_ter_CAC_Baixo_"
+    speakers: ["João Vitor"]
+    steps:
+      - "Mapear ciclo de venda e modelo de negócio"
+      - "Calcular CAC e ticket médio"
+      - "Pesquisar recompensa com base de clientes"
+      - "Escolher mecânica (escadinha ou indique-ganhe)"
+      - "Testar em pequena escala antes de lançar"
+
+  - id: RH-FW-754
+    title: "Framework RevOps Simplificado"
+    content: >
+      Implementação de RevOps em 4 etapas:
+      (1) Unificar métricas entre Marketing, Sales e CS
+      (2) Criar pipeline único e visível para todos
+      (3) Definir SLAs entre departamentos
+      (4) Dashboard único de revenue com atribuição end-to-end
+    source: "transcription_Revenue_Operations__RevOps___o_que___e_como_funciona_"
+    speakers: ["Dener Lippert"]
+    steps:
+      - "Alinhar definição de lead qualificado"
+      - "Criar pipeline unificado"
+      - "Definir SLAs entre marketing-sales-CS"
+      - "Dashboard único de revenue"
+
+  - id: RH-FW-755
+    title: "Flywheel de Float + Fidelidade"
+    content: >
+      Modelo de receita de float integrado com programa de fidelidade:
+      (1) Oferecer wallet/pré-pagamento com barreira baixa
+      (2) Cliente deposita e esquece saldo residual
+      (3) Empresa investe float em renda fixa
+      (4) Programa de pontos incentiva mais depósitos
+      (5) Resgate de pontos gera recompra
+      (6) Ciclo auto-reforçante de retenção + receita financeira
+    source: "transcription_PLANO_DE_ASSINATURA_DE_CEMIT_RIO"
+    speakers: ["Dener Lippert"]
+    steps:
+      - "Criar wallet com depósito mínimo baixo (R$10-20)"
+      - "Investir float em renda fixa conservadora"
+      - "Criar programa de pontos vinculado a depósitos"
+      - "Resgates geram visita e recompra adicional"
+
+  - id: RH-FW-756
+    title: "Framework de Checkout com Mínima Fricção"
+    content: >
+      Redução de fricção no checkout de e-commerce:
+      (1) Mapear quantidade de inputs atuais
+      (2) Implementar 1-click payments (Apple Pay, Google Pay)
+      (3) Adicionar métodos alternativos (NuPay, PicPay, MercadoPago)
+      (4) Eliminar campos redundantes
+      (5) Medir conversão por método de pagamento
+    source: "transcription_QUAL_A_DIFERENCIAL_DOS_M_TODOS_DE_PAGAMENTOS_"
+    speakers: ["Dener Lippert"]
+    steps:
+      - "Auditar campos de input no checkout atual"
+      - "Implementar wallets digitais (Apple Pay, Google Pay)"
+      - "Adicionar métodos alternativos regionais"
+      - "A/B test por método de pagamento"
+      - "Medir conversão por método"
+
+  - id: RH-FW-757
+    title: "Framework de Forecast para Gestão"
+    content: >
+      Uso do forecast como ferramenta de gestão, não previsão:
+      (1) Projetar pipeline com base em dados históricos
+      (2) Identificar gaps entre meta e projeção
+      (3) Ativar ações corretivas antes do fim do mês
+      (4) Atualizar weekly com dados reais
+      (5) Usar desvio como indicador de saúde do processo
+    source: "transcription_PARA_QUE_SERVE_UM_FORECAST_"
+    speakers: ["Dener Lippert"]
+    steps:
+      - "Projetar baseado em pipeline atual + histórico"
+      - "Calcular gap vs meta"
+      - "Definir ações corretivas se gap > 20%"
+      - "Atualizar semanalmente"
+
+  - id: RH-FW-758
+    title: "Framework de PMF Iterativo"
+    content: >
+      Product-Market Fit como processo contínuo:
+      (1) Lançar MVP rápido
+      (2) Medir retenção (não aquisição)
+      (3) Se retenção alta → escalar aquisição
+      (4) Se retenção baixa → iterar produto
+      (5) Repetir até retenção estável
+      Retenção é o melhor indicador de PMF.
+    source: "transcription_QUAL___A_MELHOR_ESTRAT_GIA_DE_PRODUCT_MARKET_FIT_"
+    speakers: ["Dener Lippert"]
+    steps:
+      - "Lançar MVP com aquisição mínima"
+      - "Medir retenção D7, D30, D90"
+      - "Retenção > benchmark → escalar"
+      - "Retenção < benchmark → iterar produto"
+
+  - id: RH-FW-759
+    title: "Framework de Recorrência Criativa"
+    content: >
+      Converter produto one-shot em recorrência:
+      (1) Identificar ciclo natural de consumo
+      (2) Criar pacote de entrega periódica
+      (3) Adicionar elemento surpresa/variação
+      (4) Precificar com desconto vs compra avulsa
+      (5) Medir churn e ajustar cadência
+      Exemplo: joias para casamento como assinatura mensal.
+    source: "transcription_RECORR_NCIA_COM_JOIAS_PARA_O_CASAMENTO_"
+    speakers: ["Dener Lippert"]
+    steps:
+      - "Mapear ciclo natural de consumo do produto"
+      - "Criar bundle periódico com variação"
+      - "Precificar recorrência vs avulso"
+      - "Lançar em base existente primeiro"
+
+  - id: RH-FW-760
+    title: "Framework de Expansão Internacional (Fintech)"
+    content: >
+      Estratégia de aquisição internacional para fintech:
+      (1) Priorizar eventos presenciais do setor (Money 2020)
+      (2) Estabelecer parcerias com plataformas locais
+      (3) Manter Brasil como volume principal
+      (4) Europa: eventos > cold outreach digital
+      (5) Crescer via programa de parceria, não vendas diretas
+    source: "transcription_VENDER_PARA_ESTRANGEIROS___DIFERENTE_"
+    speakers: ["Dener Lippert"]
+    steps:
+      - "Mapear eventos-chave do setor no exterior"
+      - "Estabelecer presença com equipe local"
+      - "Parcerias com plataformas da região"
+      - "Adaptar messaging ao mercado local"
+
+  - id: RH-FW-761
+    title: "Framework de Live Commerce"
+    content: >
+      Vendas via live streaming combinando elementos:
+      (1) Entretenimento (manter audiência engajada)
+      (2) Demonstração ao vivo do produto
+      (3) Urgência (ofertas limitadas à live)
+      (4) Interação social (chat, perguntas)
+      (5) Call-to-action com link direto
+      Funciona melhor para produtos visuais com storytelling.
+    source: "transcription_VENDER_MAIS_USANDO_LIVE_PARA_UM_DO_CEMIT_RIO"
+    speakers: ["Dener Lippert"]
+    steps:
+      - "Definir produto com apelo visual"
+      - "Criar roteiro com entretenimento + demonstração"
+      - "Configurar ofertas exclusivas da live"
+      - "Facilitar checkout durante a transmissão"
+
+  - id: RH-FW-762
+    title: "Framework de Place Branding"
+    content: >
+      Usar associação geográfica como alavanca de marca:
+      (1) Identificar associação emocional do local com categoria
+      (2) Incorporar origem no posicionamento da marca
+      (3) Expandir mantendo referência à origem
+      Exemplo: Lugano (Gramado = frio = chocolate premium).
+    source: "transcription_QUEM___A_LUGANO_CHOCOLATES_DE_GRAMADO_"
+    speakers: ["Dener Lippert"]
+    steps:
+      - "Identificar associação local-categoria"
+      - "Incorporar no naming e posicionamento"
+      - "Manter referência na expansão nacional"
+
+# ============================================================================
+# L5 — METHODOLOGIES (Processos step-by-step)
+# ============================================================================
+methodologies:
+
+  - id: RH-MET-750
+    title: "Método de Cálculo de CAC Correto"
+    content: >
+      Passo a passo para calcular CAC real:
+      (1) Somar TODOS os custos de aquisição: mídia, time comercial,
+          ferramentas, comissões, overhead de marketing
+      (2) Dividir pelo número de clientes NOVOS no período
+      (3) Não confundir custo por lead com CAC
+      (4) Incluir custos indiretos (salários da equipe de vendas)
+      (5) Separar por canal para otimizar
+      Se o resultado pareceu baixo, provavelmente esqueceu algum custo.
+    source: "transcription_Voc__N_O_deveria_BRIGAR_para_ter_CAC_Baixo_"
+    speakers: ["João Vitor"]
+    steps:
+      - "Listar TODOS os custos: mídia + salários + ferramentas + comissões"
+      - "Dividir pelo número de clientes novos do período"
+      - "Separar CAC por canal de aquisição"
+      - "Comparar com LTV por cohort"
+      - "Se pareceu baixo, revisar custos incluídos"
+
+  - id: RH-MET-751
+    title: "Método de Prospecção por Imersão Geográfica"
+    content: >
+      Como fazer networking intensivo em viagem:
+      (1) Planejar rota com cidades-alvo
+      (2) Contratar equipe remota para prospectar via LinkedIn
+      (3) Equipe agenda reuniões nas cidades da rota
+      (4) Fazer reuniões presenciais 1-a-1 durante a viagem
+      (5) Ser aberto sobre necessidades nas reuniões
+      (6) Follow-up dentro de 24h via mensagem
+      Resultado: 40 reuniões em 40 dias (case Dener Lippert).
+    source: "transcription_VOC__FAZ_NETWORKING_ERRADO_"
+    speakers: ["Dener Lippert"]
+    steps:
+      - "Definir rota e cidades-alvo"
+      - "Contratar 2-3 prospectores remotos"
+      - "Prospectar via LinkedIn nas cidades futuras da rota"
+      - "Fazer 1 reunião presencial por dia mínimo"
+      - "Ser aberto sobre dificuldades e necessidades"
+      - "Follow-up em 24h"
+
+  - id: RH-MET-752
+    title: "Método de Implementação de RevOps para Empresa Pequena"
+    content: >
+      Passo a passo para começar RevOps sem time dedicado:
+      (1) Alinhar definição de MQL/SQL entre marketing e vendas
+      (2) Criar planilha compartilhada de pipeline
+      (3) Definir SLA: marketing entrega X leads/semana, vendas
+          retorna status em Y horas
+      (4) Reunião semanal de 30min: marketing + vendas + CS
+      (5) Evoluir para CRM integrado quando volume justificar
+    source: "transcription_REVENUE_PARA_EMPRESAS_PEQUENAS__FAZ_SENTIDO_"
+    speakers: ["Dener Lippert"]
+    steps:
+      - "Alinhar definições MQL/SQL"
+      - "Criar pipeline compartilhado (planilha)"
+      - "Definir SLAs marketing ↔ vendas"
+      - "Reunião semanal de alinhamento"
+      - "Migrar para CRM quando volume crescer"
+
+  - id: RH-MET-753
+    title: "Método de Implementação de Wallet + Float"
+    content: >
+      Como implementar modelo de receita de float:
+      (1) Criar wallet digital com depósito mínimo baixo (R$10-20)
+      (2) Integrar pagamento via QR Code no ponto de venda
+      (3) Aplicar saldo dos clientes em renda fixa conservadora
+      (4) Criar programa de pontos vinculado a uso da wallet
+      (5) Oferecer resgates que gerem visita/recompra
+      (6) Monitorar saldo médio parado e yield mensal
+    source: "transcription_PLANO_DE_ASSINATURA_DE_CEMIT_RIO"
+    speakers: ["Dener Lippert"]
+    steps:
+      - "Implementar wallet com depósito mínimo baixo"
+      - "Integrar pagamento via QR Code"
+      - "Investir float em CDI/renda fixa"
+      - "Criar programa de pontos para recompra"
+      - "Monitorar saldo médio e yield"
+
+  - id: RH-MET-754
+    title: "Método de Validação de PMF por Retenção"
+    content: >
+      Como medir Product-Market Fit via retenção:
+      (1) Definir métrica de retenção (D7, D30, D90 ou mensal)
+      (2) Lançar MVP com aquisição mínima (50-100 usuários)
+      (3) Medir retenção sem fazer marketing ativo
+      (4) Se D30 > 40% → sinal de PMF → investir em aquisição
+      (5) Se D30 < 20% → sem PMF → iterar produto antes de escalar
+      (6) Repetir ciclo a cada iteração significativa
+    source: "transcription_QUAL___A_MELHOR_ESTRAT_GIA_DE_PRODUCT_MARKET_FIT_"
+    speakers: ["Dener Lippert"]
+    steps:
+      - "Definir métrica de retenção principal"
+      - "Adquirir 50-100 usuários iniciais"
+      - "Medir retenção D7, D30, D90"
+      - "D30 > 40% → escalar aquisição"
+      - "D30 < 20% → iterar produto"
+
+  - id: RH-MET-755
+    title: "Método de Escolha de Mecânica de Indicação"
+    content: >
+      Como escolher a melhor mecânica de programa de indicação:
+      (1) Calcular CAC atual do negócio
+      (2) Pesquisar com clientes: qual recompensa desejam?
+      (3) Analisar modelo de negócio: recorrência ou one-shot?
+      (4) Recorrência → escadinha (múltiplos touchpoints)
+      (5) One-shot → indique-ganhe (reward imediato)
+      (6) Validar que recompensa é alcançável no ciclo de compra
+      (7) Se CAC muito baixo, subir CAC para viabilizar recompensa
+    source: "transcription_Voc__N_O_deveria_BRIGAR_para_ter_CAC_Baixo_"
+    speakers: ["João Vitor"]
+    steps:
+      - "Calcular CAC atual"
+      - "Pesquisar recompensa desejada com clientes"
+      - "Classificar: recorrência ou one-shot"
+      - "Recorrência → escadinha"
+      - "One-shot → indique-ganhe"
+      - "Validar alcançabilidade da recompensa"
+      - "Testar em escala pequena"
+
+  - id: RH-MET-756
+    title: "Método de Redução de Fricção no Checkout"
+    content: >
+      Passo a passo para otimizar checkout de e-commerce:
+      (1) Auditar campos de input atuais (contar cada um)
+      (2) Implementar Apple Pay / Google Pay (elimina 5+ campos)
+      (3) Adicionar NuPay/PicPay para base brasileira
+      (4) Implementar Shopify Pay / checkout salvo para recorrentes
+      (5) A/B testar cada método vs checkout padrão
+      (6) Medir taxa de conversão por método de pagamento
+      (7) Eliminar campos redundantes restantes
+    source: "transcription_QUAL_A_DIFERENCIAL_DOS_M_TODOS_DE_PAGAMENTOS_"
+    speakers: ["Dener Lippert"]
+    steps:
+      - "Auditar quantidade de campos no checkout"
+      - "Implementar wallets digitais (Apple Pay, Google Pay)"
+      - "Adicionar métodos regionais (NuPay, PicPay, MercadoPago)"
+      - "A/B testar cada método"
+      - "Medir conversão por método"
+      - "Eliminar campos redundantes"
+
+# ============================================================================
+# SUMMARY
+# ============================================================================
+summary:
+  total_philosophies: 21
+  total_mental_models: 22
+  total_heuristics: 30
+  total_frameworks: 13
+  total_methodologies: 7
+  grand_total: 93
+  key_topics:
+    - "CAC vs Escala (não brigar por CAC baixo)"
+    - "CRM: 3 Stacks (Service, Marketing Automation, Sales)"
+    - "RevOps para empresas de qualquer tamanho"
+    - "Float como modelo de receita (Starbucks US$1.6B)"
+    - "Networking estratégico (40 reuniões em 40 dias)"
+    - "Programas de indicação (escadinha vs indique-ganhe)"
+    - "Checkout friction reduction (1-click payments)"
+    - "Product-Market Fit via retenção"
+    - "Live commerce como canal de vendas"
+    - "Expansão internacional para fintech"
+  notable_guests:
+    - "João Vitor (BuzzLead) — programas de indicação, CAC"
+    - "Lucas Domingues — presença digital obrigatória"
+    - "Natalia Beauty — investimento em produtos novos"
+    - "Gabriel Khawali (Resenha do Gab) — conteúdo autêntico"
+    - "Sérgio Fernandes (Copy Base AI) — IA para copywriting"
+    - "Dado Schneider — criador da marca Claro"
+  key_numbers:
+    - "US$1.6B — Starbucks float em 2022"
+    - "4% a.a. — yield de float nos EUA"
+    - "~10% a.a. — CDI líquido Brasil"
+    - "R$4.500/mês — contrato mínimo V4"
+    - "R$30k — comprometimento mínimo V4 (6 meses)"
+    - "40 reuniões em 40 dias — case networking Dener"
+    - "300 unidades / 4.000 pessoas — V4 Company"
+    - "99% — empresários que acham CAC alto quando calculam certo"
+    - "R$50k ROI 5 (R$150k) > R$10k ROI 8 (R$70k)"
+    - "30 estrelas — resgate Starbucks"
+    - "5+ campos — fricção eliminada por 1-click payment"

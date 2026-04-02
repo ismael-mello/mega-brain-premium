@@ -1,0 +1,607 @@
+# =============================================================================
+# ROI HUNTERS PODCAST — DNA EXTRACTION BATCH B
+# =============================================================================
+# Source: 45 episodes (wave1_batch_ab)
+# Host: Dener Lippert / Fernando Miranda / João Pedro (V4 Company)
+# Guests: Multiple (CIMED, Salesforce, Érico Rocha, Bruno Nardon, Robson Harada, etc.)
+# Extracted: 2026-04-01
+# IDs: Starting from RH-*-050 to avoid collision with Batch A
+# =============================================================================
+
+# =============================================================================
+# L1: PHILOSOPHIAS (Core Beliefs & Worldviews)
+# =============================================================================
+L1_PHILOSOPHIES:
+
+  - id: RH-PHI-050
+    title: "Cultura é educação, não retenção de talentos"
+    content: "Construímos um negócio de bilhão com talentos medianos mas muito educados com mentalidade empreendedora. Não busco talento pronto — invisto em educação empreendedora para transformar qualquer pessoa."
+    guest: "Mario Magalhães"
+    episode: "A Filosofia Polêmica de Gestão do Homem que Descobriu o Flávio Augusto"
+    tags: [cultura, liderança, educação, gestão-de-pessoas]
+
+  - id: RH-PHI-051
+    title: "Toda empresa precisa virar uma escola"
+    content: "Todo negócio tem que se transformar no negócio de educação. Tem que ter uma musculatura, um viés de educação. Quem não tiver disposição de entregar educação empreendedora para o seu time vai perder para produtos inferiores que entregam esse tipo de solução."
+    guest: "Mario Magalhães"
+    episode: "A Filosofia Polêmica de Gestão"
+    tags: [cultura, educação-corporativa, liderança]
+
+  - id: RH-PHI-052
+    title: "CRM é mais importante que aquisição"
+    content: "Se amanhã acabar a verba de marketing, como é que você faz para vender? Se você não sabe, você não tem CRM. Não dá para construir uma empresa que, para falar com o seu cliente, tem que gastar dinheiro em outra empresa."
+    guest: "Augusto Rocha (PMWeb)"
+    episode: "A importância do CRM em uma estratégia de marketing (#139)"
+    tags: [crm, aquisição, retenção, independência]
+
+  - id: RH-PHI-053
+    title: "Growth é crescer sustentavelmente, não adquirir a qualquer custo"
+    content: "Growth não pode ser trazer cliente a todo custo. É trazer o cliente bom que vai engajar, que vai reter, que vai monetizar e que vai recomendar. Growth é sobre crescimento sustentável."
+    guest: "Robson Harada"
+    episode: "Como Dobrar Seu ROAS (#271)"
+    tags: [growth, sustentabilidade, aquisição]
+
+  - id: RH-PHI-054
+    title: "Cliente no centro — não a ferramenta"
+    content: "Muitas vezes a gente fica focado nas etapas para adquirir clientes e esquece que a gente vive de cliente. Quando coloca o cliente no centro, começa a necessidade de se relacionar com ele."
+    guest: "Augusto Rocha (PMWeb)"
+    episode: "A importância do CRM (#139)"
+    tags: [customer-centric, crm, relacionamento]
+
+  - id: RH-PHI-055
+    title: "Quem tem o maior LTV ganha"
+    content: "Quem tem o maior LTV ganha. Porque você pode pagar mais no CAC. Por que banco paga tanto no CAC? Porque a relação com banco é 30 anos. Quase sempre, é melhor vender na Amazon/Mercado Livre porque esse cara tem tanto LTV que na mesma palavra-chave você vai tomar um pau."
+    guest: "Robson Harada"
+    episode: "Como Dobrar Seu ROAS (#271)"
+    tags: [ltv, cac, competitividade, marketplace]
+
+  - id: RH-PHI-056
+    title: "Indústria precisa pensar no sell-out, não só no sell-in"
+    content: "Se o varejo vai bem, eu vou bem. Quando eu como indústria penso em como fazer meu varejo vender mais para o consumidor final, eu crio uma máquina de crescimento que beneficia toda a cadeia."
+    guest: "Erich Shibata (CIMED)"
+    episode: "Branding & Cultura com Erich Shibata da CIMED"
+    tags: [sell-out, varejo, trade-marketing, indústria]
+
+  - id: RH-PHI-057
+    title: "Retenção é diferente de recorrência"
+    content: "Retenção está muito mais para relevância e uso do que necessariamente recompra. A recompra é um fator que acontece no tempo, mas não precisa acontecer imediatamente. Posso ter retenção sem recorrência — o próximo celular será iPhone mesmo sem assinatura."
+    guest: "Bruno Nardon"
+    episode: "Como aumentar a retenção de clientes (#262)"
+    tags: [retenção, recorrência, relevância, product-market-fit]
+
+  - id: RH-PHI-058
+    title: "O milionário empata na primeira venda, o bilionário aceita perder"
+    content: "O milionário é o cara que aceita empatar na primeira venda. O bilionário é o cara que aceita tomar prejuízo na primeira venda — porque sabe que o LTV futuro compensa."
+    guest: "Érico Rocha"
+    episode: "Como Explodir de Vender em um Lançamento Digital (#31)"
+    tags: [ltv, cac, investimento, longo-prazo]
+
+  - id: RH-PHI-059
+    title: "Marca pessoal é limitante — empresa escala sem o fundador"
+    content: "Sou uma espécie de limitante da minha empresa. A gente fez 22% de conversão num evento sem mim, versus 11% comigo no Rio. Não é que sem mim é melhor — é que eu não sou necessário para ter ROI grande."
+    guest: "Érico Rocha"
+    episode: "Como Explodir de Vender em um Lançamento Digital (#31)"
+    tags: [marca-pessoal, escalabilidade, delegação]
+
+  - id: RH-PHI-060
+    title: "Empreender é chamar para si a responsabilidade"
+    content: "A origem da palavra empreendedorismo é chamar para si, assumir a responsabilidade. Tem muito dono de empresa que não empreende — é dono de CNPJ. Empreender é fazer a diferença que só você pode fazer."
+    guest: "Mario Magalhães"
+    episode: "A Filosofia Polêmica de Gestão"
+    tags: [empreendedorismo, mindset, responsabilidade]
+
+  - id: RH-PHI-061
+    title: "Tecnologia vem depois — processo e cultura vem antes"
+    content: "O maior erro em CRM é pensar na ferramenta antes do processo. Primeiro: qual é a cultura da sua empresa? Tem uma cultura de vendas, de resultado, de estar perto do cliente? Depois: quais são os processos? Aí sim, a tecnologia."
+    guest: "Daniel Rouber (Salesforce VP LATAM)"
+    episode: "As Grandes Mudanças que Vão Dominar Vendas em 2026 (#326)"
+    tags: [crm, cultura, processo, tecnologia]
+
+  - id: RH-PHI-062
+    title: "A mídia é sexy, mas o lucro está no CRM"
+    content: "Muita gente pensa que V4 é comprar tráfego pago. A mídia é muito sexy, mas ela não é onde está o lucro. O lucro está no CRM, na retenção, em vender várias vezes para o mesmo cliente."
+    guest: "V4 Company (Dener Lippert)"
+    episode: "Como aumentar a retenção (#262)"
+    tags: [crm, tráfego, lucro, retenção]
+
+# =============================================================================
+# L2: MENTAL MODELS (Thinking Frameworks & Decision Lenses)
+# =============================================================================
+L2_MENTAL_MODELS:
+
+  - id: RH-MM-050
+    title: "Acquisition → Retention → Monetization (Framework de Growth)"
+    content: "Growth se divide em três momentos: Acquisition (adquirir clientes, mesmo que não paguem), Retention (manter na base, gerar experiência) e Monetization (extrair valor, cross-sell, upsell). A maioria esquece da monetização."
+    guest: "V4 Company (Ricardo / Guilherme)"
+    episode: "Acquisition, Retention, Monetization = Growth (#170)"
+    tags: [growth, acquisition, retention, monetization]
+
+  - id: RH-MM-051
+    title: "Mar Aberto vs Aquário Próprio"
+    content: "Pescar no mar aberto (aquisição via mídia paga) vs criar seu próprio aquário (base proprietária). O aquário é onde está o verdadeiro asset — é a audiência adquirida e retida que você pode monetizar sem depender de terceiros."
+    guest: "V4 Company"
+    episode: "Acquisition, Retention, Monetization = Growth (#170)"
+    tags: [base-proprietária, audiência, independência, mídia]
+
+  - id: RH-MM-052
+    title: "Boi de Piranha — Produto isca que atrai para monetizar depois"
+    content: "O balaio de promoção do supermercado (meia por R$5) é o boi de piranha — isca para atrair o cliente. A ideia é adquirir o cliente para a loja, e dentro da loja monetizar com produtos de maior margem. Funciona em qualquer mercado."
+    guest: "V4 Company"
+    episode: "Acquisition, Retention, Monetization = Growth (#170)"
+    tags: [isca, aquisição, monetização, varejo]
+
+  - id: RH-MM-053
+    title: "LTV Cruzado — Cross-sell aumenta retenção de outros produtos"
+    content: "Adicionar um produto (ex: cartão de crédito no banco de investimento) aumenta o LTV do produto original. O cartão criou ponto de contato diário, o que aumentou a retenção de investimentos. É um LTV cruzado via retenção maior."
+    guest: "V4 Company / Ricardo (XP)"
+    episode: "Acquisition, Retention, Monetization = Growth (#170)"
+    tags: [ltv, cross-sell, retenção, ponto-de-contato]
+
+  - id: RH-MM-054
+    title: "Custo de Servir como critério de decisão"
+    content: "A decisão de focar em cliente premium vs volume depende do custo de servir. Se o custo de servir é o mesmo para o cliente de R$100 e de R$12k, vale pegar volume. Se o custo é proporcional ao ticket, foque no premium."
+    guest: "Robson Harada"
+    episode: "Como Dobrar Seu ROAS (#271)"
+    tags: [custo-de-servir, precificação, segmentação]
+
+  - id: RH-MM-055
+    title: "Gráfico de Diferenciação Competitiva (eixos X/Y)"
+    content: "Desenhe um gráfico com critérios de diferenciação (preço, frescor, mix, limpeza, conveniência) e compare sua marca com concorrentes de 0-5 em cada critério. Identifique onde você ganha e onde perde para definir posicionamento."
+    guest: "Bruno Nardon"
+    episode: "Como aumentar a retenção de clientes (#262)"
+    tags: [diferenciação, posicionamento, análise-competitiva]
+
+  - id: RH-MM-056
+    title: "Inversão do PID — O mercado como laboratório"
+    content: "Em vez de gastar bilhões em P&D interno, as grandes empresas incentivam o mercado (startups) a inovar com capital próprio, depois compram as que funcionam. O conceito de startup foi criado pelo B2B para baratear a despesa de P&D."
+    guest: "Carlos Busch"
+    episode: "Como Crescer e Precificar no Mercado B2B (#232)"
+    tags: [b2b, inovação, aquisição, startup]
+
+  - id: RH-MM-057
+    title: "Retenção como Product-Market Fit"
+    content: "Retenção começa com: meu produto resolve um problema relevante? Tem diferencial competitivo? É um monopólio? Quando você tem product-market fit forte, a retenção vem by default — todo o resto é ferramental."
+    guest: "Bruno Nardon"
+    episode: "Como aumentar a retenção de clientes (#262)"
+    tags: [product-market-fit, retenção, diferenciação]
+
+  - id: RH-MM-058
+    title: "Ecossistema Apple — Produto que prende no ecossistema"
+    content: "Apple adquire pelo iPhone, retém pela experiência, monetiza com Watch/TV/iCloud. Cada produto novo é uma nova forma de monetizar um cliente já retido. Se não lançar novos produtos, não há como o marketing fazer o cliente gastar mais."
+    guest: "V4 Company"
+    episode: "Acquisition, Retention, Monetization = Growth (#170)"
+    tags: [ecossistema, apple, monetização, cross-sell]
+
+  - id: RH-MM-059
+    title: "Sell-in vs Sell-out — Duas fases do crescimento de indústria"
+    content: "Primeiro fase: conquistar o varejista (sell-in) com relacionamento, treinamento, condições comerciais. Segunda fase: fazer o consumidor ir até a farmácia buscar o produto (sell-out). Quando sell-in satura, sell-out é o próximo motor."
+    guest: "Erich Shibata (CIMED)"
+    episode: "Branding & Cultura com CIMED"
+    tags: [sell-in, sell-out, varejo, indústria]
+
+  - id: RH-MM-060
+    title: "Segmentação de Conversão por Valor (A/B/C/D/E)"
+    content: "Segmente conversões por valor do cliente: A (depósito >100k, CPA R$1000), B (50-100k, CPA R$500), C (10-50k, CPA R$200), D (5-10k, CPA R$100), E (negativo — não quero). Cada segmento tem um CPA máximo permissivo diferente."
+    guest: "Robson Harada"
+    episode: "Como Dobrar Seu ROAS (#271)"
+    tags: [segmentação, cpa, conversão, mídia-paga]
+
+# =============================================================================
+# L3: HEURÍSTICAS (Practical Rules with Numbers)
+# =============================================================================
+L3_HEURISTICS:
+
+  - id: RH-HEUR-050
+    title: "Azul bateu 46% da receita via CRM"
+    content: "Azul Linhas Aéreas bateu 46% da venda via CRM. É o benchmark de empresa que fez CRM ser o motor principal de receita. Vem de um trabalho de concentrar, organizar e modelar dados desde 2012."
+    guest: "Augusto Rocha (PMWeb)"
+    episode: "A importância do CRM (#139)"
+    tags: [crm, benchmark, receita, azul]
+    number: "46%"
+
+  - id: RH-HEUR-051
+    title: "CRM bem implementado aumenta receita em ~30%"
+    content: "Em média, CRM aumenta cerca de 30% a receita, melhora NPS, retenção e conversão. Benchmark da Salesforce validado semestralmente."
+    guest: "Daniel Rouber (Salesforce VP LATAM)"
+    episode: "As Grandes Mudanças em Vendas 2026 (#326)"
+    tags: [crm, receita, benchmark, salesforce]
+    number: "30%"
+
+  - id: RH-HEUR-052
+    title: "Grupo controle de 10% em CRM"
+    content: "Tudo que a gente faz, a gente manda para 90% do público e 10% fica como grupo controle. Assim medimos se a ação de CRM está gerando valor real ou é apenas correlação."
+    guest: "Ricardo (XP / PMWeb)"
+    episode: "A importância do CRM (#139)"
+    tags: [crm, teste-ab, grupo-controle, mensuração]
+    number: "90/10"
+
+  - id: RH-HEUR-053
+    title: "50% dos alunos nem abrem o curso comprado"
+    content: "50% das pessoas que compram um curso online nem abrem. Por isso eventos de implementação presenciais são fundamentais — forçam a pessoa a consumir o conteúdo e aumentam conversão para upsell."
+    guest: "Érico Rocha"
+    episode: "Como Explodir de Vender em um Lançamento (#31)"
+    tags: [educação, implementação, eventos, conversão]
+    number: "50%"
+
+  - id: RH-HEUR-054
+    title: "22% de conversão em evento sem o fundador vs 11% com"
+    content: "Evento de implementação sem o Érico converteu 22%. Evento com Érico no Rio converteu 11%. Evento menor e mais íntimo permite maior contato com comercial e resolve mais dúvidas."
+    guest: "Érico Rocha"
+    episode: "Como Explodir de Vender em um Lançamento (#31)"
+    tags: [eventos, conversão, escalabilidade, delegação]
+    number: "22% vs 11%"
+
+  - id: RH-HEUR-055
+    title: "Margem líquida de 41% em negócio de infoproduto"
+    content: "Faturou 163 milhões com margem líquida de 41%. Muito pela Black Friday que teve ROI absurdo. O número que importa como CEO é faturamento x margem líquida, não ROI de campanha individual."
+    guest: "Érico Rocha"
+    episode: "Como Explodir de Vender em um Lançamento (#31)"
+    tags: [margem, infoproduto, ceo-metrics]
+    number: "41% margem líquida"
+
+  - id: RH-HEUR-056
+    title: "Promoção TV + sellout = 20-50x o volume de vendas em 48h"
+    content: "Quando a CIMED vai para TV com Call to Action + promoção no ponto de venda, o pior varejista performa 20x mais volume em 48h. Tem varejista que performa 50x mais. A indústria banca a oferta."
+    guest: "Erich Shibata (CIMED)"
+    episode: "Branding & Cultura com CIMED"
+    tags: [tv, trade-marketing, sellout, promoção]
+    number: "20-50x em 48h"
+
+  - id: RH-HEUR-057
+    title: "80% do budget em mídia de massa, 20% digital"
+    content: "CIMED aloca ~80% do budget em mídia de massa (TV) porque funciona para o público deles. Digital ainda não demonstrou os mesmos números de retorno mensuráveis para esse tipo de produto/categoria."
+    guest: "Erich Shibata (CIMED)"
+    episode: "Branding & Cultura com CIMED"
+    tags: [mídia, tv, digital, alocação-budget]
+    number: "80/20"
+
+  - id: RH-HEUR-058
+    title: "Lead complete para venda = 5-10% de conversão dependendo da indústria"
+    content: "Na média, a conversão entre um lead completo (cadastro aprovado) e uma venda per se é 5-10% dependendo da indústria. O meio do caminho é retenção e experiência."
+    guest: "V4 Company / Ricardo"
+    episode: "Acquisition, Retention, Monetization = Growth (#170)"
+    tags: [conversão, lead, funil]
+    number: "5-10%"
+
+  - id: RH-HEUR-059
+    title: "35% de market share em vitaminas com receita: promoção + sortimento + treinamento"
+    content: "CIMED tem 35% de share em vitaminas. Receita aprendida da Austrália: promoção, sortimento e treinamento no ponto de venda. A marca que todo mundo lembra no meio segundo de decisão de compra ganha."
+    guest: "Erich Shibata (CIMED)"
+    episode: "Branding & Cultura com CIMED"
+    tags: [market-share, vitaminas, varejo, pdv]
+    number: "35%"
+
+  - id: RH-HEUR-060
+    title: "Call to Action obrigatório em toda campanha de TV"
+    content: "Nunca fazer campanha institucional na TV. Sempre com Call to Action levando para ponto de venda com condição especial. Nas próximas 48h, vá na farmácia, compre 1 leve 2. Resultado mensurável."
+    guest: "Erich Shibata (CIMED)"
+    episode: "Branding & Cultura com CIMED"
+    tags: [tv, cta, mensuração, trade-marketing]
+
+  - id: RH-HEUR-061
+    title: "Padaria do Harada: Growth funciona para qualquer negócio"
+    content: "Padaria faz 8 fornadas de 12 pães em vez de 3 de 100 = pão quente toda hora (diferencial). Cross-sell manteiga premium. Cartão de indicação com recompensa bilateral. Growth serve para padaria, pet shop, qualquer tamanho."
+    guest: "Robson Harada"
+    episode: "Como Dobrar Seu ROAS (#271)"
+    tags: [growth, pmr, smb, cross-sell, indicação]
+
+  - id: RH-HEUR-062
+    title: "Meta do time de vendas = qualidade do cliente, não ticket"
+    content: "North star métrica do time de acquisition não é ticket médio, é receita média por cliente (proxy de qualidade). Quanto mais o cliente fatura, maior a chance de fazer um serviço melhor. O foco do vendedor é adquirir bons clientes, não vender caro."
+    guest: "V4 Company"
+    episode: "Acquisition, Retention, Monetization = Growth (#170)"
+    tags: [vendas, métricas, qualidade-cliente, north-star]
+
+  - id: RH-HEUR-063
+    title: "CRM de cartão: 30 dias sem uso = trigger de reativação"
+    content: "Se o cliente ficou 30 dias sem usar o cartão de crédito, é trigger para automação de reativação. São automações para capturar comportamentos e fazer o cliente voltar para uma jornada virtuosa."
+    guest: "Ricardo (XP)"
+    episode: "A importância do CRM (#139)"
+    tags: [crm, reativação, trigger, cartão]
+    number: "30 dias"
+
+  - id: RH-HEUR-064
+    title: "Marketplace (27% de comissão) vs CRM próprio"
+    content: "Na pandemia, restaurante sem CRM teve que correr para marketplace que cobra 27% de comissão. Quem tinha base de clientes conseguiu se comunicar direto. O CRM existe para você não parecer um idiota mandando promoção para cliente insatisfeito."
+    guest: "Augusto Rocha (PMWeb)"
+    episode: "A importância do CRM (#139)"
+    tags: [marketplace, comissão, crm, independência]
+    number: "27%"
+
+  - id: RH-HEUR-065
+    title: "24 eventos de venda por ano, fundador presente em apenas 1"
+    content: "Érico Rocha planeja 24 eventos de venda por ano, mas só estará presente em 1. Os outros são tocados pela equipe. Eventos menores (300-500 pessoas) sem o fundador convertem mais por serem mais íntimos."
+    guest: "Érico Rocha"
+    episode: "Como Explodir de Vender em um Lançamento (#31)"
+    tags: [eventos, escalabilidade, delegação, conversão]
+    number: "24 eventos, 1 com fundador"
+
+  - id: RH-HEUR-066
+    title: "Cobrança com critério é parte essencial da liderança"
+    content: "Instrução → Conexão → Exemplo → Acompanhamento → Correção → Cobrança. Líderes têm dificuldade com a cobrança, mas ela faz parte de um time de alta performance. Cobrança com critério baseado no que foi entregue e pactuado."
+    guest: "Mario Magalhães"
+    episode: "A Filosofia Polêmica de Gestão"
+    tags: [liderança, cobrança, gestão, performance]
+
+  - id: RH-HEUR-067
+    title: "Compre 1 Leve 2 como padrão de promoção de indústria"
+    content: "O padrão da CIMED é 'Compre 1 Leve 2'. A indústria banca a segunda caixa. O varejista não paga nada — só aceita a oferta e reporta vendas. Funciona para ganhar share, aumentar sortimento e fidelizar."
+    guest: "Erich Shibata (CIMED)"
+    episode: "Branding & Cultura com CIMED"
+    tags: [promoção, trade-marketing, varejo, share]
+
+# =============================================================================
+# L4: FRAMEWORKS (Named/Structured Methodologies)
+# =============================================================================
+L4_FRAMEWORKS:
+
+  - id: RH-FW-050
+    title: "ARM Framework (Acquisition, Retention, Monetization)"
+    content: |
+      Framework de Growth da V4:
+      1. ACQUISITION: Adquirir clientes para a base (mesmo que não paguem)
+         - Pode aceitar prejuízo no curto prazo
+         - Métrica: qualidade do cliente adquirido
+      2. RETENTION: Manter o cliente engajado e usando
+         - Experiência, produto, relacionamento
+         - O que faz ele ficar vs ir para o concorrente
+      3. MONETIZATION: Extrair valor (criar produtos para monetizar)
+         - Cross-sell, upsell, novos produtos
+         - Se não criar novos produtos, não há como monetizar mais
+      Cada fase precisa de equipe, métricas e estratégias diferentes.
+    guest: "V4 Company"
+    episode: "Acquisition, Retention, Monetization = Growth (#170)"
+    tags: [growth, framework, acquisition, retention, monetization]
+
+  - id: RH-FW-051
+    title: "Framework CRM: Identificar → Dados → Modelar → Relacionar"
+    content: |
+      Jornada de CRM em etapas:
+      1. IDENTIFICAR o cliente (criar cultura de captura de dados)
+      2. Organizar e MODELAR os DADOS (data lake → CRM layer mais rápida)
+      3. Mapear a JORNADA do cliente (micromomentos)
+      4. RELACIONAR de acordo com cada micromomento
+      5. MONETIZAR via personalização e relevância
+      Sem a etapa 1, nada funciona. É banal mas é onde morrem a maioria dos projetos.
+    guest: "Augusto Rocha (PMWeb)"
+    episode: "A importância do CRM (#139)"
+    tags: [crm, dados, jornada, identificação]
+
+  - id: RH-FW-052
+    title: "Educação Empreendedora como Cultura (Método Mario Magalhães)"
+    content: |
+      Framework de formação de time:
+      1. CONEXÃO: Criar conexão com quem vai receber instrução
+      2. INSTRUÇÃO: Educação empreendedora (não só técnica)
+      3. EXEMPLO: Ser emblematicamente implacável como modelo
+      4. ACOMPANHAMENTO: Processo rigoroso de monitoramento
+      5. CORREÇÃO: Processo rigoroso de correção
+      6. COBRANÇA: Com critério, coerente com o que foi entregue
+      O comprometimento não é só com a meta, é pessoa para pessoa.
+    guest: "Mario Magalhães"
+    episode: "A Filosofia Polêmica de Gestão"
+    tags: [liderança, cultura, educação, gestão-de-pessoas]
+
+  - id: RH-FW-053
+    title: "Sell-out Machine (CIMED Trade Marketing)"
+    content: |
+      Modelo de trade marketing da CIMED para ativar sell-out:
+      1. Pré-negociar adesão com grandes redes (São João, Pague Menos)
+      2. Criar promoção impactante (Compre 1 Leve 2) — indústria banca
+      3. Ir para TV com Call to Action para farmácia em 48h
+      4. Pré-negociar mídia local (RBS) com condição especial para varejista
+      5. Fornecer material de ponto de venda pronto
+      6. Medir sell-out nas 48h seguintes
+      Resultado: 20-50x volume de vendas em 48h.
+    guest: "Erich Shibata (CIMED)"
+    episode: "Branding & Cultura com CIMED"
+    tags: [trade-marketing, sellout, promoção, varejo, tv]
+
+  - id: RH-FW-054
+    title: "Conversão Segmentada por Valor (ABCDE)"
+    content: |
+      Modelagem de conversões por valor do cliente:
+      - Conversão A: Cliente premium (depósito >100k) → CPA permissivo alto (R$1000)
+      - Conversão B: Médio-alto (50-100k) → CPA R$500
+      - Conversão C: Médio (10-50k) → CPA R$200
+      - Conversão D: Baixo (5-10k) → CPA R$100
+      - Conversão E: Negativo (abaixo de 5k) → Não adquirir
+      Enviar cada segmento como sinal para a plataforma de mídia.
+      Quanto mais você paga, mais premium o inventário que a plataforma entrega.
+    guest: "Robson Harada"
+    episode: "Como Dobrar Seu ROAS (#271)"
+    tags: [mídia-paga, segmentação, conversão, cpa, otimização]
+
+  - id: RH-FW-055
+    title: "CRM Montagem do Zero (Salesforce Method)"
+    content: |
+      Framework para montar CRM do zero:
+      1. Pegue papel e caneta — desenhe quem é seu cliente (ICP)
+      2. Quais características e perfil desse cliente?
+      3. Como eu sirvo bem esse cliente? Qual meu diferencial?
+      4. Quais são os CANAIS que eu uso para chegar nele? (WhatsApp, social, email, físico)
+      5. Quais PROCESSOS preciso ter? (vendas ativa? geração de lead? conteúdo?)
+      6. Aí sim: qual TECNOLOGIA/CRM vai apoiar isso tudo?
+      Cultura → Processos → Tecnologia (nessa ordem).
+    guest: "Daniel Rouber (Salesforce VP LATAM)"
+    episode: "As Grandes Mudanças em Vendas 2026 (#326)"
+    tags: [crm, salesforce, icp, processo, cultura]
+
+  - id: RH-FW-056
+    title: "Funil de Lançamento em Esteira (Érico Rocha)"
+    content: |
+      Funil completo de lançamento digital:
+      1. Conteúdo gratuito → atrai audiência
+      2. Lançamento (evento gratuito introdutório de curso)
+      3. Venda do Fórmula de Lançamento (curso principal)
+      4. Evento de implementação presencial (3 dias, implementa junto)
+      5. Venda de Insider (feedback 1:1 pós-implementação)
+      6. Masterminds por faixa de faturamento (6-7 dígitos)
+      7. Eventos menores sem o expert (capilarização, 2 por mês)
+      Os maiores ROIs vêm de vender para quem já é cliente (ROI infinito).
+    guest: "Érico Rocha"
+    episode: "Como Explodir de Vender em um Lançamento (#31)"
+    tags: [lançamento, funil, infoproduto, eventos, upsell]
+
+  - id: RH-FW-057
+    title: "Member-Get-Member Gamificado"
+    content: |
+      Framework de indicação com gamificação:
+      1. Atrelar benefício a AÇÃO PROFUNDA (não só abrir conta — depositar + transacionar)
+      2. Criar dashboards para o cliente ver seus indicados e tracking
+      3. Gamificar a experiência (níveis, recompensas progressivas)
+      4. Proteger contra caçadores de recompensa (comunidades que hackeiam promoções)
+      5. Benefício bilateral (quem indica + quem é indicado)
+      Cuidado: sem gamificação e ação profunda, member-get-member queima dinheiro.
+    guest: "Robson Harada"
+    episode: "Como Dobrar Seu ROAS (#271)"
+    tags: [member-get-member, indicação, gamificação, growth]
+
+  - id: RH-FW-058
+    title: "Receita Australiana de Vitaminas (CIMED)"
+    content: |
+      3 pilares para dominar categoria no PDV (aprendido da Austrália):
+      1. PROMOÇÃO: Compre 1 Leve 2 para trial e fidelização
+      2. SORTIMENTO: Promoções cruzadas (compra AZ, ganha Omega 3) para aumentar categorias
+      3. TREINAMENTO: Ensinar o vendedor do PDV a vender melhor e expor melhor
+      Resultado: de nada para 35% de market share.
+    guest: "Erich Shibata (CIMED)"
+    episode: "Branding & Cultura com CIMED"
+    tags: [pdv, promoção, sortimento, treinamento, vitaminas]
+
+  - id: RH-FW-059
+    title: "Growth para Padaria (Framework Harada)"
+    content: |
+      Growth aplicado a qualquer negócio local:
+      1. DIFERENCIAL: Pão quente toda hora (8 fornadas de 12 vs 3 de 100)
+      2. AQUISIÇÃO: Panfleto na região comunicando o diferencial
+      3. ENGAJAMENTO: Cliente chega e vê pão quente + cheiro
+      4. CROSS-SELL: Manteiga premium, croissant, iogurte ao lado do pão
+      5. MEMBER-GET-MEMBER: Cartão de indicação com recompensa bilateral
+      6. ESCALA: Cada cliente traz mais clientes organicamente
+    guest: "Robson Harada"
+    episode: "Como Dobrar Seu ROAS (#271)"
+    tags: [growth, padaria, local-business, cross-sell, indicação]
+
+# =============================================================================
+# L5: METODOLOGIAS (Step-by-Step Implementations)
+# =============================================================================
+L5_METHODOLOGIES:
+
+  - id: RH-MET-050
+    title: "Implementar CRM Quando Não Tem Nenhum"
+    content: |
+      Passo a passo para empresa que faz tudo no WhatsApp:
+      FASE 1 — FUNDAÇÃO (Semana 1-2):
+        - Definir ICP (perfil de cliente ideal) no papel
+        - Listar todos os canais atuais de contato com cliente
+        - Mapear jornada atual do cliente (como ele compra?)
+      FASE 2 — ESTRUTURA (Semana 3-4):
+        - Escolher CRM (pode ser básico — não precisa Salesforce no início)
+        - Começar a IDENTIFICAR clientes (capturar nome, contato, comportamento)
+        - Criar 1 automação básica: aniversário do cliente
+      FASE 3 — EVOLUÇÃO:
+        - Adicionar automações de reativação (30 dias sem compra = trigger)
+        - Segmentar base por comportamento
+        - Criar jornadas por micromomento
+      Princípio: quem começa pequeno tem vantagem de começar certo.
+    guest: "Daniel Rouber (Salesforce) / Augusto Rocha (PMWeb)"
+    episode: "As Grandes Mudanças 2026 (#326) + CRM (#139)"
+    tags: [crm, implementação, smb, automação]
+
+  - id: RH-MET-051
+    title: "Otimização de Mídia com Conversão Offline"
+    content: |
+      Passo a passo para dobrar ROAS com dados offline:
+      PASSO 1: Mapear conversões internas (o que acontece depois do lead?)
+        - Qual ação do cliente indica valor? (depósito, compra, transação)
+      PASSO 2: Categorizar conversões por valor (A/B/C/D/E)
+        - Definir CPA máximo permissivo para cada categoria
+      PASSO 3: Configurar envio de dados offline para plataformas
+        - Google: offline conversions API
+        - Meta: Conversions API + eventos offline
+      PASSO 4: Criar campanhas separadas por categoria de conversão
+        - Smart Bidding / Target CPA por segmento
+      PASSO 5: Iterar — o algoritmo aprende e busca perfis similares
+        - Quanto mais sinal de qualidade, melhor o look-alike
+      Resultado: Mais audiência qualificada de acordo com permissividade do CPA.
+    guest: "Robson Harada"
+    episode: "Como Dobrar Seu ROAS (#271)"
+    tags: [mídia-paga, conversão-offline, otimização, roas]
+
+  - id: RH-MET-052
+    title: "Escalar Eventos de Implementação sem o Fundador"
+    content: |
+      Passo a passo para capilarizar eventos:
+      PASSO 1: Validar que evento SEM o fundador converte
+        - Fazer 1 evento piloto em cidade com base forte
+        - Meta: 300-500 pessoas (tamanho administrável)
+      PASSO 2: Montar equipe de implementadores
+        - 6 pessoas que sabem mais que o aluno (não precisam ser o expert)
+        - Treinar em pitch de vendas e resolução de dúvidas
+      PASSO 3: Calendário de 2 eventos por mês em cidades diferentes
+        - Escolher cidades pela concentração de base de clientes
+      PASSO 4: Cross-sell no evento
+        - Produto de implementação → vender mentoria/insider
+        - Conversão tende a ser MAIOR que evento grande (22% vs 11%)
+      PASSO 5: Escalar para 24 eventos/ano
+        - Fundador presente em apenas 1 (evento flagship anual)
+    guest: "Érico Rocha"
+    episode: "Como Explodir de Vender em um Lançamento (#31)"
+    tags: [eventos, escalabilidade, delegação, implementação]
+
+  - id: RH-MET-053
+    title: "Ativação de Sell-out para Indústria"
+    content: |
+      Passo a passo para indústria ativar sell-out via varejo:
+      PASSO 1: Garantir adesão de pelo menos 2 grandes redes
+        - Iniciar com redes que já têm relacionamento
+        - Oferta: indústria banca promoção, varejista só coloca produto
+      PASSO 2: Criar promoção com Call to Action claro
+        - Padrão: Compre 1 Leve 2 (indústria banca segunda unidade)
+        - Limite de tempo: 48h ou 1 semana
+      PASSO 3: Produzir campanha de TV com CTA para PDV
+        - Nunca institucional — sempre com oferta e prazo
+        - Resultado mensurável em 48h
+      PASSO 4: Pré-negociar mídia local para varejistas
+        - Indústria negocia condição especial na mídia local
+        - Entrega material pronto — varejista só coloca marca
+      PASSO 5: Medir e expandir
+        - Resultado: 20-50x volume em 48h
+        - Varejistas que não aderiram veem resultado e entram na próxima
+      PASSO 6: Iterar com mais categorias
+        - Usar promoções cruzadas para expandir sortimento
+    guest: "Erich Shibata (CIMED)"
+    episode: "Branding & Cultura com CIMED"
+    tags: [trade-marketing, sell-out, indústria, varejo, tv]
+
+# =============================================================================
+# METADATA
+# =============================================================================
+metadata:
+  total_elements: 46
+  breakdown:
+    L1_philosophies: 13
+    L2_mental_models: 11
+    L3_heuristics: 18
+    L4_frameworks: 10
+    L5_methodologies: 4
+  files_processed: 45
+  key_guests:
+    - Mario Magalhães (Gestão/Cultura/Liderança)
+    - Augusto Rocha / PMWeb (CRM)
+    - Daniel Rouber / Salesforce (CRM/MarTech)
+    - Erich Shibata / CIMED (Branding/Trade Marketing)
+    - Bruno Nardon / G4 (Retenção/Growth)
+    - Robson Harada (Growth/ROAS/Mídia)
+    - Érico Rocha (Lançamentos/Infoprodutos)
+    - Carlos Busch (B2B/Precificação)
+    - V4 Company / Dener Lippert (Growth/Marketing)
+  dominant_themes:
+    - CRM como motor de receita (não como ferramenta)
+    - Growth = Acquisition + Retention + Monetization
+    - LTV > CAC como princípio fundamental
+    - Trade Marketing e Sell-out para indústria
+    - Escalabilidade de eventos sem fundador
+    - Segmentação de conversão por valor
+    - Cultura e educação como base de gestão

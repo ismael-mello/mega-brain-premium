@@ -1,0 +1,589 @@
+# DNA-WAVE2-BATCH-AE.yaml
+# ROI Hunters Podcast - Wave 2, Batch AE
+# 45 files assigned, 42 readable (3 corrupted transcriptions skipped)
+# Hosts: Dener Lippert, Guilherme Lippert, Joao Vitor (V4 Company)
+# Guests: Bruno Perini, Thiago Nigro, Pedro Canellas (Rico/XP), Robson Harada (Mercado Bitcoin),
+#         Leonardo Castelo, Luan Bez (Brasil Paralelo), Ju Fraccaroli, Fernando Miranda,
+#         Sandro Carsava (LinkedIn), Dennis Rocha (LinkedIn), Ricardo M. Domingues, Andre Costa, Marlon Ferreira
+# Generated: 2026-04-01
+
+metadata:
+  batch_id: WAVE2-BATCH-AE
+  source: ROI Hunters Podcast (V4 Company / InfoMoney)
+  language: pt-BR
+  files_assigned: 45
+  files_processed: 42
+  files_corrupted: 3
+  id_range_start: 500
+  domains:
+    - marketing-digital
+    - trafego-pago
+    - ecommerce
+    - vendas-b2b
+    - analytics
+    - retencao
+    - criativos
+    - growth
+    - varejo
+    - branding
+
+# ==============================================================================
+# L1 - PHILOSOPHIES
+# ==============================================================================
+philosophies:
+
+  - id: RH-PHI-500
+    title: "Construa estrategias sobre o que NAO muda"
+    description: "Faz mais sentido construir estrategias sobre coisas que nao mudam (comportamento humano, fundamentos de negocio) do que sobre coisas que mudam toda hora (plataformas, tendencias, canais)."
+    source_file: "transcription_Quais_s_o_os_Fundamentos_do_Marketing____ROI_Hunters__48.md"
+    speaker: "Joao Vitor"
+    quote: "Faz muito mais sentido voce construir estrategias em cima de coisas que nao mudam do que em cima de coisas que mudam toda hora."
+
+  - id: RH-PHI-501
+    title: "Miopia do marketing - olhe pro consumidor primeiro"
+    description: "A miopia do marketing (Theodore Levitt) diz que o foco deve ser no consumidor e no mercado ANTES do produto. Empresas que focam anos no produto sem validar demanda fracassam."
+    source_file: "transcription_Quais_s_o_os_Fundamentos_do_Marketing____ROI_Hunters__48.md"
+    speaker: "Dener Lippert"
+    quote: "A miopia do marketing diz exatamente que essa otica ta errado, miope, que o cara tem que olhar para o consumidor, olhar para o mercado e depois para o produto."
+
+  - id: RH-PHI-502
+    title: "Tres pilares fundamentais de marketing: Negocios, Psicologia, Dados"
+    description: "Marketing e um conhecimento derivado, nao fundamental. Os tres fundamentos verdadeiros sao: negocios, psicologia humana e dados. Estude os classicos (Kahneman, Kotler)."
+    source_file: "transcription_Quais_s_o_os_Fundamentos_do_Marketing____ROI_Hunters__48.md"
+    speaker: "Dener Lippert"
+    quote: "Existem tres grandes pilares pra todo marketing aprender que nao tem a ver com marketing: negocios, psicologia humana e dados."
+
+  - id: RH-PHI-503
+    title: "Ecommerce e varejo, nao marketing digital"
+    description: "Quem monta ecommerce nao esta montando um negocio digital - esta montando um varejo que usa o digital como canal. Fundamentos de gestao de varejo sao essenciais."
+    source_file: "transcription_Qual_a_melhor_maneira_de_come_ar_um_E-commerce____ROI_Hunters__13.md"
+    speaker: "Dener Lippert"
+    quote: "E-commerce e varejo. Nao marketing digital."
+
+  - id: RH-PHI-504
+    title: "Assessoria > Agencia por alinhamento de interesses"
+    description: "O modelo de assessoria elimina conflito de interesse da agencia (que ganha comissao do veiculo). Assessoria ganha quando cliente ganha, criando alinhamento natural."
+    source_file: "transcription_Qual_a_diferen_a_entre_Ag_ncia_e_Assessoria_de_Marketing___Roi_Hunters__72.md"
+    speaker: "Dener Lippert"
+    quote: "A assessoria tenta tirar esse conflito de interesse e nao sendo comissionada pelo veiculo."
+
+  - id: RH-PHI-505
+    title: "Retencao e o assassino silencioso"
+    description: "Retencao e mais importante que aquisicao para valor de longo prazo. Facebook com 92% retencao = $500B market cap. Snapchat com 33% = $17B. A retencao determina o valor da empresa."
+    source_file: "transcription_RETEN__O___UM_ASSASSINO_SILENCIOSO.md"
+    speaker: "Guilherme Lippert"
+    quote: "Retention is the Silent Killer. Facebook 92% retencao = 500B. Twitter 33% = 33B. Snapchat 33% = 17B."
+
+  - id: RH-PHI-506
+    title: "Diversifique canais - nunca dependa de um so"
+    description: "Nao aposte tudo em um unico canal (SEO, Facebook, Marketplace). Diversifique como regra. Quem depende de um canal fica vulneravel a mudancas de algoritmo ou politicas."
+    source_file: "transcription_SEO__Porque_n_s_n_o_fazemos___ROI_Hunters__04.md"
+    speaker: "Guilherme Lippert"
+    quote: "Se voce botar tudo em SEO, vai se ferrar. Se botar tudo em Facebook, tambem vai se ferrar."
+
+  - id: RH-PHI-507
+    title: "Marqueteiro deve ser cientista, nao advogado"
+    description: "Advogado defende uma causa independente da resposta. Cientista busca a verdade com metodologia. Marqueteiro deve pensar como cientista: sempre insatisfeito, buscando nova resposta."
+    source_file: "transcription_Quais_s_o_os_Fundamentos_do_Marketing____ROI_Hunters__48.md"
+    speaker: "Dener Lippert"
+    quote: "Todo marqueteiro tem que ser um cientista nao advogado. O cientista ta sempre insatisfeito buscando uma nova resposta atraves de uma mesma metodologia."
+
+  - id: RH-PHI-508
+    title: "Tenha fas, nao seguidores"
+    description: "Seguidores sao numeros de vaidade. Fas sao pessoas que realmente se conectam, engajam e compram. Construa comunidade real ao inves de metricas superficiais."
+    source_file: "transcription_TENHA_F_S__N_O_SEGUIDORES___BRUNO_PERINI.md"
+    speaker: "Bruno Perini"
+
+  - id: RH-PHI-509
+    title: "Seja seletivo com clientes e projetos"
+    description: "Nem todo cliente vale a pena. Ser seletivo em quem atender melhora qualidade, margens e resultados. Cultura e alinhamento sao quase impossiveis de ensinar."
+    source_file: "transcription_SEJA_SELETIVO____Dener_Lippert.md"
+    speaker: "Dener Lippert"
+
+  - id: RH-PHI-510
+    title: "Inovacao e copiar de onde ninguem viu"
+    description: "Maior parte da inovacao e trazer referencias de outros contextos. Se expor a experiencias diversas (viagens, eventos, setores) e criar arsenal de referencias para aplicar criativamente."
+    source_file: "transcription_Profissional_Especialista_vs_Generalista__O_Criativo_Vence____ROI_Hunters__135.md"
+    speaker: "Dener Lippert"
+    quote: "Nao cara, eu so copiei de um lugar que tu nunca viu."
+
+# ==============================================================================
+# L2 - MENTAL MODELS
+# ==============================================================================
+mental_models:
+
+  - id: RH-MM-500
+    title: "Modelos Mentais como caixa de ferramentas"
+    description: "Quem so conhece um modelo e martelo e tudo vira prego. Estudar modelos mentais transforma voce em caixa de ferramentas - adaptavel a qualquer situacao. Se nao consegue transpor conhecimento pra outra situacao, nao entendeu o fundamento."
+    source_file: "transcription_Quais_s_o_os_Fundamentos_do_Marketing____ROI_Hunters__48.md"
+    speaker: "Joao Vitor"
+    quote: "Pega alguma coisa que voce acha que sabe numa determinada situacao, tenta transpor aquilo para outra situacao. Se voce nao conseguir, voce nao entendeu o fundamento."
+
+  - id: RH-MM-501
+    title: "Ciclo de Vida do Produto aplica ate em criativos"
+    description: "Todo produto (e criativo de anuncio) passa por ascensao, maturacao e declinio. Criativos fadigam porque o ser humano cansa das coisas. Planejar renovacao constante."
+    source_file: "transcription_Quais_s_o_os_Fundamentos_do_Marketing____ROI_Hunters__48.md"
+    speaker: "Guilherme Lippert"
+    quote: "O ciclo de vida do produto se aplica ate no criativo. O criativo comeca, ascende, matura e declina."
+
+  - id: RH-MM-502
+    title: "Efeito Dunning-Kruger no marketing"
+    description: "Quem estudou pouco acha que sabe muito. So a pratica mostra que voce nao sabe. A curva: ignorancia > confianca excessiva > queda > competencia real."
+    source_file: "transcription_Qual_a_diferen_a_entre_Ag_ncia_e_Assessoria_de_Marketing___Roi_Hunters__72.md"
+    speaker: "Guilherme Lippert"
+
+  - id: RH-MM-503
+    title: "Preocupacao vs Problema"
+    description: "Distinga preocupacao (algo que pode acontecer) de problema (algo que esta impedindo agora). Preocupacoes consomem energia sem necessidade. Foque nos problemas reais."
+    source_file: "transcription_Qual_a_diferen_a_entre_Ag_ncia_e_Assessoria_de_Marketing___Roi_Hunters__72.md"
+    speaker: "Guilherme Lippert"
+    quote: "O que do que a gente ta falando aqui e uma preocupacao e o que e um problema?"
+
+  - id: RH-MM-504
+    title: "Google como shopping - aluguel digital"
+    description: "Google e o concorrente do shopping center. Ambos vendem trafego. Quando abre loja online, voce paga aluguel pro Google, competindo no maior shopping do mundo (pais inteiro)."
+    source_file: "transcription_Qual_a_melhor_maneira_de_come_ar_um_E-commerce____ROI_Hunters__13.md"
+    speaker: "Dener Lippert"
+    quote: "O maior competidor do Google e os shoppings. Os dois tem o mesmo produto que e trafego."
+
+  - id: RH-MM-505
+    title: "Produto vendido vs produto comprado"
+    description: "Alguns produtos sao comprados naturalmente (decisao do consumidor). Outros precisam ser vendidos (requer vendedor ativo). Identifique qual e o seu para definir estrategia."
+    source_file: "transcription_Vendas_de_Alto_Ticket___Roi_Hunters__52.md"
+    speaker: "Dener Lippert"
+    quote: "Descubra se seu produto e vendido ou comprado e crie sua estrategia com base nisso."
+
+  - id: RH-MM-506
+    title: "Herbivoro vs Carnivoro em vendas"
+    description: "Vendedor inbound (herbivoro) e vendedor outbound (carnivoro) tem perfis distintos. Dificilmente o mesmo profissional excele em ambos. Construa times separados."
+    source_file: "transcription_VOC__EST__FAZENDO_OUTBOUND_ERRADO_.md"
+    speaker: "Dener Lippert"
+    quote: "A lanca do herbivoro e do carnivoro. O perfil da pessoa e diferente."
+
+  - id: RH-MM-507
+    title: "ROI vs ROAS - metrica de negocio vs metrica de anuncio"
+    description: "ROAS (Return on Ad Spend) = receita/custo anuncio. ROI = metrica de negocio que subtrai custos variaveis. ROAS sem ROI e ilusao de performance."
+    source_file: "transcription_ROI_ou_ROAS__Qual_a_diferen_a_e_quando_usar_cada_um____ROI_Hunters__66.md"
+    speaker: "Joao Vitor"
+    quote: "ROAS e uma metrica de anuncio. ROI e uma metrica de negocio."
+
+  - id: RH-MM-508
+    title: "Dashboard vs BI - pre-requisitos importam"
+    description: "Antes de implementar BI sofisticado, precisa ter coleta de dados basica funcionando. Muitas vezes uma planilha e o melhor BI. Nao pule etapas."
+    source_file: "transcription_Power_BI_vs_Data_Studio__Qual___o_melhor____ROI_Hunters__38.md"
+    speaker: "Marlon Ferreira"
+    quote: "Muitas vezes a planilha pode ser o melhor BI que qualquer outra ferramenta."
+
+  - id: RH-MM-509
+    title: "Propaganda como manipulacao (nao e pejorativo)"
+    description: "Marketing e propaganda sao formas de manipulacao. A palavra tem conotacao negativa mas a essencia e influenciar decisoes. Eleicoes sao as olimpiadas do marketing."
+    source_file: "transcription_Propaganda_eleitoral__A_Verdade_Nua_e_Crua___ROI_Hunters__151.md"
+    speaker: "Dener Lippert"
+
+  - id: RH-MM-510
+    title: "Seguranca da informacao em camadas por maturidade"
+    description: "Cada nivel de maturidade da empresa requer um piso diferente de seguranca. Existe o must-have e o nice-to-have. Comecar pelo basico e evoluir com a empresa."
+    source_file: "transcription_PROTE__O_DA_INFORMA__O__DEVO_INVESTIR_.md"
+    speaker: "Guest (The Serve)"
+
+# ==============================================================================
+# L3 - HEURISTICS
+# ==============================================================================
+heuristics:
+
+  - id: RH-HEUR-500
+    title: "3 fatores que fazem brasileiro comprar online"
+    description: "1) Preco, 2) Frete gratis, 3) Checkout simplificado. Se nao tem os tres, ecommerce brasileiro sofre."
+    source_file: "transcription_Qual_a_melhor_maneira_de_come_ar_um_E-commerce____ROI_Hunters__13.md"
+    speaker: "Guilherme Lippert"
+    values:
+      fator_1: "Preco competitivo"
+      fator_2: "Frete gratis"
+      fator_3: "Checkout simplificado"
+
+  - id: RH-HEUR-501
+    title: "4-5 criativos maximo por conjunto de anuncios"
+    description: "Nao jogue todos os criativos no mesmo balaio. Trabalhe com 4-5 criativos por conjunto no Facebook. No Search, ate 3. Teste em grupos, substitua os que nao funcionam semanalmente."
+    source_file: "transcription_Qual_a_import_ncia_de_um_bom_CRIATIVO____ROI_Hunters__25.md"
+    speaker: "Guilherme Lippert"
+    values:
+      facebook_por_conjunto: "4-5 criativos"
+      search_por_grupo: "ate 3"
+      ciclo_teste: "semanal"
+
+  - id: RH-HEUR-502
+    title: "Primeiros 3-5 segundos decidem o video"
+    description: "Nos primeiros 3-5 segundos do video, o usuario decide se assiste ou pula. Produto e proposta de valor devem aparecer imediatamente."
+    source_file: "transcription_Video_Ads_Enche_o_saco_do_cliente____ROI_Hunters__113.md"
+    speaker: "Guilherme Lippert"
+    values:
+      tempo_critico: "3-5 segundos"
+
+  - id: RH-HEUR-503
+    title: "Audio > Imagem em video ads"
+    description: "Qualidade de audio mata mais que qualidade de imagem. iPhone moderno grava em 4K, mas audio ruim desqualifica. Invista em lapela de R$100-200 antes de camera profissional."
+    source_file: "transcription_Quando_fazer_uso_do_Youtube_ADS__Vale_a_pena____ROI_Hunters__12.md"
+    speaker: "Dener Lippert"
+    values:
+      investimento_lapela: "R$100-200"
+
+  - id: RH-HEUR-504
+    title: "Desconto de midia kit de portal chega a 90-95%"
+    description: "Ao comprar midia direto de portais (Exame, Veja), o preco do midia kit aceita 90-95% de desconto. Sempre negocie agressivamente."
+    source_file: "transcription_Qual_a_import_ncia_de_um_bom_CRIATIVO____ROI_Hunters__25.md"
+    speaker: "Joao Vitor"
+    values:
+      desconto_tipico: "90-95%"
+
+  - id: RH-HEUR-505
+    title: "YouTube Ads e a fonte de trafego mais barata do Google"
+    description: "YouTube ainda e a opcao mais barata dentro do Google Ads porque a maioria nao sabe usar. Quem aprender primeiro tera vantagem competitiva."
+    source_file: "transcription_Quando_fazer_uso_do_Youtube_ADS__Vale_a_pena____ROI_Hunters__12.md"
+    speaker: "Joao Vitor"
+    quote: "Aproveita que o YouTube ta barato, vai ficar caro."
+
+  - id: RH-HEUR-506
+    title: "Marca pode reduzir CPL de R$16 para R$1"
+    description: "Mudando apenas a marca no anuncio (mesma campanha, mesma copy), o CPL variou de R$1 a R$16. Marca forte no imaginario reduz custo de aquisicao exponencialmente."
+    source_file: "transcription_Quanto_investir_para_FATURAR_1_MILH_O_no_digital____ROI_Hunters__84.md"
+    speaker: "Fernando Miranda"
+    values:
+      cpl_com_marca_forte: "R$1"
+      cpl_sem_marca: "R$16"
+      variacao: "16x"
+
+  - id: RH-HEUR-507
+    title: "Ciclo de negociacao high-ticket: 10-15 dias"
+    description: "Vendas high-ticket B2B tem ciclo de negociacao de 10-15 dias. Leads gerados apos dia 20 do mes so fecham no mes seguinte. Ajuste KPIs de acordo."
+    source_file: "transcription_Vendas_de_Alto_Ticket___Roi_Hunters__52.md"
+    speaker: "Dener Lippert"
+    values:
+      ciclo_negociacao: "10-15 dias"
+      cutoff_mensal: "dia 20"
+
+  - id: RH-HEUR-508
+    title: "Retencao do Spotify 80% vs Pandora 33% = 17x market cap"
+    description: "Spotify com 80% retencao valia $50B. Pandora com 33% valia $3B. Retencao alta multiplica valor exponencialmente."
+    source_file: "transcription_RETEN__O___UM_ASSASSINO_SILENCIOSO.md"
+    speaker: "Guilherme Lippert"
+    values:
+      spotify_retencao: "80%"
+      spotify_valuation: "$50B"
+      pandora_retencao: "33%"
+      pandora_valuation: "$3B"
+
+  - id: RH-HEUR-509
+    title: "Impulsionar post so com objetivo claro"
+    description: "Impulsionar post sem objetivo claro e jogar dinheiro fora. So faz sentido com objetivo definido (alcance, engajamento, conversao) e publico correto."
+    source_file: "transcription_Vale_a_Pena_Impulsionar_Post__ROI_Hunters__60.md"
+    speaker: "Guilherme Lippert"
+
+  - id: RH-HEUR-510
+    title: "SEO como canal tem teto baixo"
+    description: "SEO tem espaco limitado na primeira pagina. Competir com players estabelecidos ha 20 anos e quase impossivel. SEO e complementar, nunca principal."
+    source_file: "transcription_SEO__Porque_n_s_n_o_fazemos___ROI_Hunters__04.md"
+    speaker: "Dener Lippert"
+
+  - id: RH-HEUR-511
+    title: "Medo e esperanca sao os dois melhores hooks"
+    description: "Entre todos os ganchos para criativos (autoridade, escassez, etc.), medo e esperanca sao consistentemente os dois que mais convertem."
+    source_file: "transcription_Qual_a_import_ncia_de_um_bom_CRIATIVO____ROI_Hunters__25.md"
+    speaker: "Guilherme Lippert"
+    values:
+      top_hooks: ["medo", "esperanca"]
+
+  - id: RH-HEUR-512
+    title: "Ecommerce de materiais eletricos: 70K para 700K/mes em 1 ano"
+    description: "Case V4: ecommerce de materiais eletricos RJ cresceu 10x em 1 ano. Premissas: boa logistica, importacao propria (preco), nicho pouco concorrido."
+    source_file: "transcription_Qual_a_melhor_maneira_de_come_ar_um_E-commerce____ROI_Hunters__13.md"
+    speaker: "Guilherme Lippert"
+    values:
+      antes: "R$70K/mes"
+      depois: "R$700K/mes"
+      tempo: "1 ano"
+
+  - id: RH-HEUR-513
+    title: "Nao pague comissao por venda inbound, pague por outbound"
+    description: "Vendedor inbound recebe lead de graca (midia pagou). Comissao so faz sentido em outbound onde o vendedor e a midia. Inbound pontua mas nao comissiona."
+    source_file: "transcription_VOC__EST__FAZENDO_OUTBOUND_ERRADO_.md"
+    speaker: "Dener Lippert"
+    quote: "O merito nao e teu, o merito e da midia. Se tu transformar esse cliente em outros clientes, ai tu virou Google."
+
+  - id: RH-HEUR-514
+    title: "Anuncie nos canais dos seus concorrentes"
+    description: "Nao monetize seu canal B2B para nao dar espaco a concorrentes. Ao inves disso, anuncie NOS canais dos concorrentes que monetizam, capturando a audiencia deles."
+    source_file: "transcription_Quando_fazer_uso_do_Youtube_ADS__Vale_a_pena____ROI_Hunters__12.md"
+    speaker: "Dener Lippert"
+
+  - id: RH-HEUR-515
+    title: "Varejo offline: ticket alto = vendedor, ticket baixo = self-service"
+    description: "Americanas Express nao tem vendedor (ticket baixo). Magazine Luiza tem (ticket alto). Mas na secao de eletronicos da Americanas, tem vendedor. A regra e: complexidade e ticket definem."
+    source_file: "transcription_Qual_a_diferen_a_entre_Ag_ncia_e_Assessoria_de_Marketing___Roi_Hunters__72.md"
+    speaker: "Dener Lippert"
+
+  - id: RH-HEUR-516
+    title: "WhatsApp: abandono de carrinho imediato converte"
+    description: "Abordar cliente por WhatsApp imediatamente apos abandono de carrinho e altamente efetivo. Quanto mais rapido o contato humano apos acao de valor, menos estranho parece."
+    source_file: "transcription_ROB__CONSEGUE_ATENDER_IGUAL_A_UM_VENDEDOR_.md"
+    speaker: "Guilherme Lippert"
+
+  - id: RH-HEUR-517
+    title: "LinkedIn Ads e muito caro para aquisicao direta"
+    description: "LinkedIn tem custo muito alto para aquisicao direta de leads. Funciona melhor para ABM (Account-Based Marketing) e social selling do que para campanhas de massa."
+    source_file: "transcription_Vendas_B2B_com_Linkedin___ROI_Hunters__201.md"
+    speaker: "Sandro Carsava / LinkedIn"
+
+  - id: RH-HEUR-518
+    title: "DSA + conteudo SEO = CPC muito barato"
+    description: "Dynamic Search Ads (DSA) com pages de conteudo otimizadas geram Quality Score alto e CPC muito baixo. Ligar DSA em site com bom conteudo pode dobrar receita com +30% budget."
+    source_file: "transcription_Segredos_do_Search_que_n_o_te_contam____ROI_Hunter__35.md"
+    speaker: "Joao Vitor"
+    values:
+      resultado: "dobrar receita com +30% budget"
+
+# ==============================================================================
+# L4 - FRAMEWORKS
+# ==============================================================================
+frameworks:
+
+  - id: RH-FW-500
+    title: "AdGrid - Cruzamento Publico x Gancho x Formato"
+    description: "Framework para gerar criativos sistematicamente. Colunas = publicos (3-4). Linhas = ganchos/hooks (medo, esperanca, autoridade, escassez). Adicione formato (video, imagem, carrossel). Cruzamento gera dezenas de variacoes para teste."
+    source_file: "transcription_Qual_a_import_ncia_de_um_bom_CRIATIVO____ROI_Hunters__25.md"
+    speaker: "Guilherme Lippert"
+    components:
+      eixo_1: "Publicos (3-4 personas)"
+      eixo_2: "Ganchos/Hooks (medo, esperanca, autoridade, escassez)"
+      eixo_3: "Formatos (video, imagem, carrossel, stories)"
+    output: "Criativo especifico para cada interseccao publico x gancho x formato"
+
+  - id: RH-FW-501
+    title: "Premissas de Ecommerce Competitivo"
+    description: "Antes de abrir ecommerce, validar 3 premissas: 1) Logistica boa (localizacao/distribuicao), 2) Preco competitivo (importacao ou margem), 3) Nicho pouco concorrido. Sem as 3, nao comeca."
+    source_file: "transcription_Qual_a_melhor_maneira_de_come_ar_um_E-commerce____ROI_Hunters__13.md"
+    speaker: "Joao Vitor"
+    premissas:
+      - "Logistica competitiva"
+      - "Preco competitivo"
+      - "Nicho sem mega-players"
+
+  - id: RH-FW-502
+    title: "Piramide de Maturidade em Dados/BI"
+    description: "Hierarquia: 1) Coleta de dados basica (planilha), 2) Dashboards (Data Studio/simples), 3) BI (Power BI/complexo). Nao pule etapas - sem dados, nao ha BI."
+    source_file: "transcription_Power_BI_vs_Data_Studio__Qual___o_melhor____ROI_Hunters__38.md"
+    speaker: "Marlon Ferreira"
+    niveis:
+      - nivel: 1
+        descricao: "Controle minimo de indicadores (planilha)"
+      - nivel: 2
+        descricao: "Dashboards (Data Studio, simples)"
+      - nivel: 3
+        descricao: "BI robusto (Power BI, personalizado)"
+
+  - id: RH-FW-503
+    title: "Teste de Ecommerce: Marketplace > MVP > Escala"
+    description: "Fluxo de validacao: 1) Testar produto/preco via Marketplace (Mercado Livre, B2W), 2) Se validou, criar MVP em plataforma simples (Shopify, Loja Integrada), 3) So escalar apos consistencia comprovada."
+    source_file: "transcription_Qual_a_melhor_maneira_de_come_ar_um_E-commerce____ROI_Hunters__13.md"
+    speaker: "Guilherme Lippert"
+    fases:
+      - "Marketplace para teste rapido"
+      - "Plataforma simples para MVP (Shopify/Loja Integrada)"
+      - "Escala so apos maturacao (fase V4: fase 1 = teste, fase 2 = maturar)"
+
+  - id: RH-FW-504
+    title: "Campanha de Teste vs Campanha Perpetua"
+    description: "Separar campanhas: 1) Campanha de TESTE com 4 criativos que so serve para testar, 2) Os vencedores vao para CAMPANHA PERPETUA, 3) Campanha teste recebe 4 novos. Ciclo continuo."
+    source_file: "transcription_Qual_a_import_ncia_de_um_bom_CRIATIVO____ROI_Hunters__25.md"
+    speaker: "Guilherme Lippert"
+    fluxo:
+      - "Campanha teste: 4 criativos"
+      - "2 vencem > movem para campanha perpetua"
+      - "Campanha teste: remove todos, bota 4 novos"
+      - "Repete semanalmente"
+
+  - id: RH-FW-505
+    title: "Generalista vs Especialista por fase de carreira"
+    description: "Inicio: especialista (foco, profundidade). Crescimento: generalista (conectar pontos, gestao de stakeholders). A capacidade de conectar pontos vem com horas de voo."
+    source_file: "transcription_Profissional_Especialista_vs_Generalista__O_Criativo_Vence____ROI_Hunters__135.md"
+    speaker: "Ricardo M. Domingues"
+    fases:
+      - fase: "Inicio de carreira"
+        recomendacao: "Especialista"
+        motivo: "Melhor momento para se aprofundar em uma disciplina"
+      - fase: "Maturidade"
+        recomendacao: "Generalista"
+        motivo: "Capacidade de conectar pontos entre disciplinas"
+
+  - id: RH-FW-506
+    title: "RFM - Recencia, Frequencia, Valor Monetario"
+    description: "Framework para segmentar base de clientes: Recencia (quando comprou pela ultima vez), Frequencia (quantas vezes compra), Valor Monetario (quanto gasta). Identifica cliente ideal e prioriza retencao."
+    source_file: "transcription_Rec_ncia__Frequ_ncia_e_Valor_Monet_rio_para_o_cliente_ideal__RFM____ROI_Hunters_.md"
+    speaker: "Dener Lippert / Guilherme Lippert"
+    dimensoes:
+      R: "Recencia - quando foi a ultima compra"
+      F: "Frequencia - quantas vezes comprou"
+      M: "Valor Monetario - quanto gastou"
+
+  - id: RH-FW-507
+    title: "Usar internet para vender, nao vender na internet"
+    description: "Para varejo offline, usar digital para gerar demanda que converte na loja fisica. ROAS 25x case: campanhas online direcionam cliente para loja com WhatsApp e cupom."
+    source_file: "transcription_ROAS_25_em_um_Varejo_Offline___ROI_Hunters__79.md"
+    speaker: "Guilherme Lippert"
+    resultado: "ROAS 25x em varejo offline"
+
+  - id: RH-FW-508
+    title: "UTM + Naming Convention para rastreamento"
+    description: "Padronizar UTMs e naming conventions e fundamental para rastrear origem de cada lead/venda. Sem isso, impossivel saber qual campanha, criativo ou canal gerou resultado."
+    source_file: "transcription_UTM_e_Naming_Convention__voc__sabe_a_import_ncia_deles____ROI_Hunters__24.md"
+    speaker: "Guilherme Lippert"
+
+  - id: RH-FW-509
+    title: "Multi-marca na mesma empresa (Rico vs XP)"
+    description: "Manter duas marcas numa empresa (XP para trader, Rico para iniciante) permite posicionamento diferenciado por segmento sem canibalizar. Portfolio de marcas como estrategia de growth."
+    source_file: "transcription_Rico_vs_XP__Por_que_duas_marcas_em_uma_empresa__Com_Pedro_Canellas___ROI_Hunters.md"
+    speaker: "Pedro Canellas"
+
+  - id: RH-FW-510
+    title: "ABM via LinkedIn Sales Navigator"
+    description: "Para vendas B2B high-ticket, usar LinkedIn Sales Navigator para Account-Based Marketing. Identificar contas-alvo, mapear decisores, criar conteudo personalizado antes do outreach."
+    source_file: "transcription_Vendas_B2B_com_Linkedin___ROI_Hunters__201.md"
+    speaker: "Sandro Carsava / Dennis Rocha"
+
+# ==============================================================================
+# L5 - METHODOLOGIES
+# ==============================================================================
+methodologies:
+
+  - id: RH-MET-500
+    title: "Metodo de teste de criativos com Google Display antes de compra direta"
+    description: "Antes de fechar midia kit caro com portal, usar Google Display para rodar criativos no mesmo site e testar qual funciona. Depois escalar comprando direto do portal com o criativo vencedor."
+    source_file: "transcription_Qual_a_import_ncia_de_um_bom_CRIATIVO____ROI_Hunters__25.md"
+    speaker: "Joao Vitor"
+    steps:
+      - "Identificar portais-alvo para midia"
+      - "Rodar criativos via Google Display nesses portais"
+      - "Medir quais criativos convertem"
+      - "Fechar compra direta de midia com o criativo vencedor"
+      - "Negociar 90-95% desconto no midia kit"
+
+  - id: RH-MET-501
+    title: "Metodo V4 de validacao de ecommerce"
+    description: "Fase 1 = Teste (marketplace + plataforma simples + verba pequena). Fase 2 = Maturacao (provar que e estavel por longo periodo). So depois escalar. Testar mobile 10x antes de lancar."
+    source_file: "transcription_Qual_a_melhor_maneira_de_come_ar_um_E-commerce____ROI_Hunters__13.md"
+    speaker: "Guilherme Lippert"
+    steps:
+      - "Colocar produto em Marketplace para testar demanda e preco"
+      - "Se validou, criar loja em plataforma simples (Shopify/Loja Integrada)"
+      - "Investir verba pequena em Google Ads + Facebook Ads"
+      - "Testar checkout mobile 10 vezes"
+      - "Fase 1 (teste): provar que vende"
+      - "Fase 2 (maturacao): provar consistencia por meses"
+      - "So entao escalar"
+
+  - id: RH-MET-502
+    title: "Metodo de CRM via WhatsApp com vendedor emulado"
+    description: "Para ecommerce menores: usar foto/nome de uma pessoa como perfil do WhatsApp, treinar time para atender no padrao dessa persona. Cliente acha que fala com o dono. Escala atendimento humanizado."
+    source_file: "transcription_ROB__CONSEGUE_ATENDER_IGUAL_A_UM_VENDEDOR_.md"
+    speaker: "Guilherme Lippert"
+    steps:
+      - "Criar persona (foto, nome) para WhatsApp Business"
+      - "Treinar time inteiro no padrao de atendimento dessa persona"
+      - "Cliente interage achando que fala com o responsavel"
+      - "Manter qualidade de atendimento padronizada"
+      - "Funciona ate determinado porte (nao para empresas gigantes)"
+
+  - id: RH-MET-503
+    title: "Recuperacao de clientes via sequencia WhatsApp"
+    description: "Para recuperar clientes perdidos: 1) Identificar desistencias (carrinho abandonado, compra unica sem retorno), 2) Contato WhatsApp rapido (mesmo dia), 3) Abordagem humana (nao bot), 4) Oferta de valor (desconto, brinde), 5) Follow-up agendado."
+    source_file: "transcription_RECUPERAR_CLIENTES_PERDIDOS__VALE_A_PENA_.md"
+    speaker: "Guilherme Lippert"
+    steps:
+      - "Detectar abandono ou inatividade"
+      - "Contato WhatsApp no mesmo dia"
+      - "Abordagem humana, nao automatizada"
+      - "Entender objecao real"
+      - "Agendar follow-up com data especifica"
+      - "Enviar link personalizado para compra"
+
+  - id: RH-MET-504
+    title: "Metodo de outbound com comissao diferenciada"
+    description: "1) Inbound nao paga comissao (merito e da midia), 2) Outbound paga comissao (vendedor e a midia), 3) Indicacao de cliente existente paga comissao (vendedor gerou aquisicao). Treinar antes de implementar."
+    source_file: "transcription_VOC__EST__FAZENDO_OUTBOUND_ERRADO_.md"
+    speaker: "Dener Lippert"
+    steps:
+      - "Definir: inbound = pontua mas nao comissiona"
+      - "Outbound = comissiona (vendedor virou midia)"
+      - "Indicacao de cliente = comissiona (vendedor gerou lead)"
+      - "Treinar time na metodologia ANTES de cobrar resultado"
+      - "Preparar time: encantar > falar importancia > pedir indicacao > no momento certo"
+
+  - id: RH-MET-505
+    title: "Blacklist e Whitelist para YouTube/Display"
+    description: "Criar e manter listas de exclusao e inclusao de posicionamentos para campanhas de video/display. Evitar sites/canais irrelevantes ou prejudiciais a marca."
+    source_file: "transcription_Quando_fazer_uso_do_Youtube_ADS__Vale_a_pena____ROI_Hunters__12.md"
+    speaker: "Joao Vitor"
+    steps:
+      - "Rodar campanhas amplas inicialmente"
+      - "Identificar canais/sites com performance ruim ou brand risk"
+      - "Adicionar a blacklist permanente"
+      - "Identificar canais/sites com alta performance"
+      - "Criar whitelist para campanhas assertivas"
+      - "Revisar listas periodicamente"
+
+  - id: RH-MET-506
+    title: "Trafego para negocios locais - O2O (Online to Offline)"
+    description: "Usar segmentacao geografica + criativos com endereco + cupom para direcionar trafego online para loja fisica. Mensurar via cupom resgatado ou check-in."
+    source_file: "transcription_Tr_fego_para_Neg_cios_Locais___ROI_Hunters__28.md"
+    speaker: "Guilherme Lippert"
+    steps:
+      - "Segmentar geograficamente (raio ao redor da loja)"
+      - "Criativo com endereco/mapa da loja"
+      - "Oferta exclusiva online (cupom)"
+      - "Direcionar para WhatsApp ou Google Maps"
+      - "Mensurar via cupom resgatado na loja"
+
+  - id: RH-MET-507
+    title: "Processo de franquia digital - validacao de readiness"
+    description: "Antes de franquear: 1) Provar o modelo em pelo menos 2-3 unidades proprias, 2) Documentar TODOS os processos, 3) Criar treinamento replicavel, 4) Sistema de suporte. Sem isso, nao franqueia."
+    source_file: "transcription_SEU_NEG_CIO_EST__PRONTO_PARA_FRANQUEAR____Leonardo_Castelo.md"
+    speaker: "Leonardo Castelo"
+
+# ==============================================================================
+# SUMMARY
+# ==============================================================================
+summary:
+  total_elements: 60
+  by_layer:
+    L1_philosophies: 11
+    L2_mental_models: 11
+    L3_heuristics: 19
+    L4_frameworks: 11
+    L5_methodologies: 8
+  key_themes:
+    - "Fundamentos de marketing > ferramentas"
+    - "Criativos e teste sistematico (AdGrid)"
+    - "Ecommerce como varejo (nao tech)"
+    - "Retencao como driver de valor"
+    - "Dados e BI por maturidade"
+    - "Vendas high-ticket e B2B"
+    - "WhatsApp como canal de conversao"
+    - "YouTube Ads subutilizado"
+    - "Outbound vs Inbound diferenciacao"
+    - "Diversificacao de canais"
+  top_speakers:
+    - name: "Dener Lippert"
+      role: "Fundador V4 Company"
+      elements: 18
+    - name: "Guilherme Lippert"
+      role: "Equity Partner V4 Company"
+      elements: 22
+    - name: "Joao Vitor"
+      role: "Host / Growth"
+      elements: 10
+    - name: "Guests"
+      role: "Various"
+      elements: 10
+  corrupted_files:
+    - "transcription_Qual_a_diferen_a_entre_Ag_ncia_e_Assessoria_de_Marketing___Roi_Hunters__72.md (partial - used first portion)"
+    - "transcription_Quando_Criar_NOVOS_Produtos____ROI_Hunters__185.md (fully corrupted)"
+    - "transcription_Quando_fazer_uso_do_Youtube_ADS__Vale_a_pena____ROI_Hunters__12.md (partial - used first portion)"

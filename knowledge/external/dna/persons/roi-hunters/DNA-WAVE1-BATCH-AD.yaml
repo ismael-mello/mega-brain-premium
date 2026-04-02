@@ -1,0 +1,585 @@
+# ============================================================================
+# ROI HUNTERS PODCAST — DNA EXTRACTION WAVE 1 BATCH AD
+# ============================================================================
+# Source: 45 episódios (42 usáveis, 3 corrompidos: F02, F13, F26)
+# Host: Dener Lippert (V4 Company)
+# IDs: RH-PHI-150+, RH-MM-150+, RH-HEUR-150+, RH-FW-150+, RH-MET-150+
+# Language: PT-BR
+# ============================================================================
+
+metadata:
+  batch: wave1_batch_ad
+  total_files: 45
+  usable_files: 42
+  corrupted_files: [F02_Marcos_Paulo, F13_China_Icaro, F26_Rafael_Kiso]
+  duplicate_files: [F32_F33_Assessor_Marketing_116]
+  extraction_date: "2026-04-01"
+
+# ============================================================================
+# L1 — PHILOSOPHIES (Crenças fundamentais)
+# ============================================================================
+
+philosophies:
+
+  - id: RH-PHI-150
+    text: "A estratégia que mais teve ROI foi começar antes de todo mundo — ser first mover em novos canais de mídia paga"
+    guest: Bruno de Oliveira
+    episode: "#229 E-commerce na Prática"
+    domain: [trafego, ecommerce]
+
+  - id: RH-PHI-151
+    text: "ROI não se mede por canal isolado — quando você diminui performance, os outros canais caem no mês seguinte; a performance gera uma onda que leva junto os outros canais"
+    guest: Bruno de Oliveira
+    episode: "#229 E-commerce na Prática"
+    domain: [atribuicao, midia]
+
+  - id: RH-PHI-152
+    text: "Correria é coisa de pobre — é a desculpa do fracassado. Quando você trabalha 20% do que trabalhava e faz a mesma renda, percebe que o jogo é de alavanca, não de hora"
+    guest: Marcos Paulo
+    episode: "Ele Fez Mais de R$180 Milhões"
+    domain: [mindset, produtividade]
+
+  - id: RH-PHI-153
+    text: "No capitalismo, o mais importante é acertar a macro tendência. Um negócio mais ou menos numa macro tendência boa vai muito bem"
+    guest: Marcos Paulo
+    episode: "Ele Fez Mais de R$180 Milhões"
+    domain: [estrategia, tendencias]
+
+  - id: RH-PHI-154
+    text: "Se seu produto ou empresa consegue ser copiada melhor com 1 bilhão de dólares e 10 dos maiores executivos do país, você não tem defensibilidade real"
+    guest: Dennis Nakamura (ex-iFood)
+    episode: "#337 Ex-sócio Demitido do iFood"
+    domain: [estrategia, competitividade]
+
+  - id: RH-PHI-155
+    text: "Eu não acredito em loja própria. Se você tem um empreendedor do outro lado como franqueado, aquela loja vende o dobro. É o olhar do dono na ponta"
+    guest: Mário Spaniol (Carmen Steffens)
+    episode: "Fundador da Carmen Steffens"
+    domain: [franquias, varejo]
+
+  - id: RH-PHI-156
+    text: "O melhor produto do mundo que não é conhecido, ele pode morrer. Estamos vivendo o momento do caos — visibilidade é sobrevivência"
+    guest: Marcos Paulo
+    episode: "Ele Fez Mais de R$180 Milhões"
+    domain: [marketing, posicionamento]
+
+  - id: RH-PHI-157
+    text: "Educação está na base da construção do negócio desde o dia zero — o blog ensina, o anúncio educa, o vendedor educa. A educação diminui o ciclo de venda"
+    guest: Luiz Felipe (Minha Casa Solar)
+    episode: "Blog virou E-commerce que Vende Milhões"
+    domain: [conteudo, vendas]
+
+  - id: RH-PHI-158
+    text: "O empresário/empreendedor é o cara mais solitário do mundo. Por isso cresceu tanto o negócio de mastermind — o cara paga R$100 mil para ter um amigo que entende o jogo"
+    guest: Dener Lippert / Ricardo Amidomins
+    episode: "#131 Gestão de times Marketing e Growth"
+    domain: [empreendedorismo, networking]
+
+  - id: RH-PHI-159
+    text: "Na geração de demanda pelo tráfego pago, vem o joio e vem o trigo. Não está só na mão do marketing — tem que ter equipe qualificando essa demanda"
+    guest: Gilberto Lames (Pimenta Estética)
+    episode: "Negócio Milionário Vendendo Equipamentos de Estética"
+    domain: [vendas, trafego]
+
+  - id: RH-PHI-160
+    text: "Toda companhia precisa de um sócio marqueteiro — se não tiver um, não dá certo. Precisa de alguém voltado para produto e venda"
+    guest: Ícaro de Carvalho
+    episode: "Explorando a China"
+    domain: [empreendedorismo, marketing]
+
+  - id: RH-PHI-161
+    text: "Quando o cliente é o empresário, não o marqueteiro, ele quer um parceiro que pareça um banco — alguém que toma decisão de alocação de capital, não um cara rebelde/herói"
+    guest: Natano Mattos / Dener Lippert
+    episode: "#175 C&A, Uber e Spotify"
+    domain: [posicionamento, branding]
+
+  - id: RH-PHI-162
+    text: "Dois anabolizantes para construir autoridade: (1) conteúdo gratuito massivo em volume com qualidade, e (2) satisfação do cliente — ser melhor de entrega do que de venda"
+    guest: Marcus Marques
+    episode: "#324 Eu Lucrei R$100 Milhões"
+    domain: [autoridade, conteudo]
+
+  - id: RH-PHI-163
+    text: "O principal papel de todo empreendedor é primeiro vender. Depois ele preocupa com a produção. É a supremacia das vendas"
+    guest: Ju Fraccaroli / Dener Lippert
+    episode: "#94 Lançamento milionário sem tráfego pago"
+    domain: [vendas, empreendedorismo]
+
+  - id: RH-PHI-164
+    text: "Descentralização de mídia numa rede de franquias sempre é problema — uma franquia concorre com a mídia da outra. Centralizar a mídia é obrigatório para escala"
+    guest: Rodrigo Saviolo (Xprime Academias) / Felipe Samã
+    episode: "Academia Dobrou as Vendas com IA"
+    domain: [franquias, midia]
+
+  - id: RH-PHI-165
+    text: "Em produto complexo, atendimento humanizado ganha de IA. O 1 a 1, a pessoalidade, o relacionamento conta muito. Meus concorrentes substituem vendedores por IA — eu não"
+    guest: Gilberto Lames (Pimenta Estética)
+    episode: "Negócio Milionário Vendendo Equipamentos de Estética"
+    domain: [vendas, atendimento]
+
+# ============================================================================
+# L2 — MENTAL MODELS (Modelos de pensamento)
+# ============================================================================
+
+mental_models:
+
+  - id: RH-MM-150
+    text: "Modelo de ROI Agregado — não medir ROI por canal individual, mas avaliar a contribuição cruzada entre todos os canais. Performance gera onda que arrasta orgânico e outros canais"
+    guest: Bruno de Oliveira
+    episode: "#229 E-commerce na Prática"
+    domain: [atribuicao, midia]
+
+  - id: RH-MM-151
+    text: "Modelo CAC vs LTV para Serviços Recorrentes — se você conhece o LTV do cliente (ex: 48 meses), pode vender o primeiro ano de receita antecipado para financiar aquisição via Google Ads"
+    guest: Rogério Fameli (BS Hub)
+    episode: "#227 Escala de serviços profissionais"
+    domain: [financeiro, aquisicao]
+
+  - id: RH-MM-152
+    text: "Modelo First Mover em Mídia — quando novo canal surge (Google 2006, Facebook 2007-2011, TikTok 2021), CPM está 10x menor; primeiros a escalar capturam valor desproporcional"
+    guest: Bruno de Oliveira
+    episode: "#229 E-commerce na Prática"
+    domain: [trafego, midia]
+
+  - id: RH-MM-153
+    text: "Modelo Joio e Trigo — geração de demanda via tráfego sempre traz leads bons e ruins misturados. O marketing gera, mas é a equipe de vendas que separa e qualifica"
+    guest: Gilberto Lames (Pimenta Estética)
+    episode: "Negócio Milionário Vendendo Equipamentos de Estética"
+    domain: [vendas, trafego]
+
+  - id: RH-MM-154
+    text: "Modelo Hub de Parceiros — ao invés de montar estrutura própria para serviço pontual (marca/patente), criar hub onde parceiros vendem na base e dividem o lucro 50/50"
+    guest: Rogério Fameli (BS Hub)
+    episode: "#227 Escala de serviços profissionais"
+    domain: [parcerias, escala]
+
+  - id: RH-MM-155
+    text: "Modelo de Compartilhamento vs Dedicação — quanto menos compartilhado o recurso (agência/assessor), mais caro. Quanto mais compartilhado, mais barato mas menos dedicado. Escalar = ir do compartilhado ao dedicado"
+    guest: Dener Lippert / Ricardo Amidomins
+    episode: "#131 Gestão de times Marketing e Growth"
+    domain: [servicos, gestao]
+
+  - id: RH-MM-156
+    text: "Modelo Ecossistema (não só plataforma) — além de e-commerce, oferecer pagamento próprio, logística, crédito e educação. Cada camada aumenta o lock-in e o valor para o cliente"
+    guest: Bruno de Oliveira (NuvemShop)
+    episode: "#229 E-commerce na Prática"
+    domain: [ecommerce, plataforma]
+
+  - id: RH-MM-157
+    text: "Modelo Alfas e Betas de Conteúdo — seguir os 'alfas' (engenheiros, criadores originais) que publicam em blogs técnicos sem seguidores, e se tornar o 'beta' que traduz e distribui"
+    guest: Marcio Apolinário / Rafael Kiso
+    episode: "#215 Influenciadores Regionais / #251 Marketing com Dados"
+    domain: [conteudo, estrategia]
+
+  - id: RH-MM-158
+    text: "Modelo de Funil por Números — o erro é olhar custo do lead como última métrica. Olhar todo o funil: leads → agendamento → visita → taxa de conversão. Se mantenho 30% de conversão, preciso apenas de mais leads"
+    guest: Rodrigo Saviolo (Xprime Academias)
+    episode: "Academia Dobrou as Vendas com IA"
+    domain: [vendas, metricas]
+
+  - id: RH-MM-159
+    text: "Modelo da Experiência Imersiva — transformar embalagem em narrativa (quadrinhos + cristal + pergaminho). Custo baixo, viralização alta. O cliente reclama se FALTA o pergaminho, não o produto"
+    guest: Rafael Dutra
+    episode: "#194 Marketing Digital para Negócios Reais"
+    domain: [branding, experiencia]
+
+  - id: RH-MM-160
+    text: "Modelo de Evento como Canal de Aquisição — 80% dos empresários que não fazem evento como fonte de aquisição estão deixando dinheiro na mesa. Evento é front-end baixo ticket que converte para esteira de produtos"
+    guest: Marcus Marques
+    episode: "#324 Eu Lucrei R$100 Milhões"
+    domain: [vendas, eventos]
+
+  - id: RH-MM-161
+    text: "Modelo $1 gera $10 em Parceiros — a Microsoft estima que para cada dólar que ela fatura, 10 dólares são gerados no ecossistema de parceiros. É o multiplicador do canal indireto"
+    guest: Guilherme de Sushi (Microsoft)
+    episode: "#224 Escalando através de Canais de Parcerias"
+    domain: [parcerias, escala]
+
+  - id: RH-MM-162
+    text: "Modelo de Corresponsabilidade — quando agência e cliente trabalham com o mesmo peso de responsabilidade olhando o mesmo objetivo, tende a dar muito mais ROI"
+    guest: Priscila Marcim / Felipe Samã (V4 Company)
+    episode: "Academia Dobrou as Vendas com IA"
+    domain: [servicos, gestao]
+
+# ============================================================================
+# L3 — HEURISTICS (Regras práticas com números)
+# ============================================================================
+
+heuristics:
+
+  - id: RH-HEUR-150
+    text: "A cada R$600 investidos no Google Ads para abertura de empresa, retornava 1 cliente de R$440/mês recorrente (CAC R$600, MRR R$440, LTV médio 48 meses = R$21.000)"
+    guest: Rogério Fameli (BS Hub)
+    episode: "#227 Escala de serviços profissionais"
+    domain: [aquisicao, contabilidade]
+    numbers: {cac: 600, mrr: 440, ltv_months: 48, ltv_total: 21120}
+
+  - id: RH-HEUR-151
+    text: "Vender clientes a 12x o MRR mensal antecipado para financiar aquisição. Se LTV é 48 meses, o comprador paga 12 e tem 36 meses de lucro"
+    guest: Rogério Fameli (BS Hub)
+    episode: "#227 Escala de serviços profissionais"
+    domain: [financeiro, aquisicao]
+    numbers: {sell_multiple: 12, remaining_profit_months: 36}
+
+  - id: RH-HEUR-152
+    text: "Em e-commerce, 1% das pessoas compra na primeira vez. Então campanha com influenciador pontual não funciona — precisa duração mínima para 99% terem segunda chance"
+    guest: Bruno de Oliveira
+    episode: "#229 E-commerce na Prática"
+    domain: [ecommerce, influenciadores]
+    numbers: {conversion_first_visit_pct: 1}
+
+  - id: RH-HEUR-153
+    text: "CPM do TikTok ainda é 10x menor que o do Meta em muitos segmentos. Muito mais gente cai na página porque o inventário deles retém muita audiência"
+    guest: Bruno de Oliveira
+    episode: "#229 E-commerce na Prática"
+    domain: [trafego, tiktok]
+    numbers: {cpm_ratio_tiktok_vs_meta: "10x menor"}
+
+  - id: RH-HEUR-154
+    text: "Mídia independente (blogs, micro-influencers, youtubers médios) ainda está muito barata. Comprar audiência de youtuber médio para Google Ads retargeting é high ROI"
+    guest: Bruno de Oliveira
+    episode: "#229 E-commerce na Prática"
+    domain: [midia, influenciadores]
+
+  - id: RH-HEUR-155
+    text: "Contratar produtor de conteúdo sem audiência por R$2.000/mês para fazer 1 vídeo/semana para sua marca — custo baixo, canal próprio de YouTube escalável"
+    guest: Bruno de Oliveira
+    episode: "#229 E-commerce na Prática"
+    domain: [conteudo, youtube]
+    numbers: {custo_mensal: 2000, videos_por_semana: 1}
+
+  - id: RH-HEUR-156
+    text: "Para escalar e-commerce: (1) ativar Mercado Livre Full, (2) ir pro Amazon FBA/Prime, (3) montar CRM com esteira de produto recorrente"
+    guest: Bruno de Oliveira
+    episode: "#229 E-commerce na Prática"
+    domain: [ecommerce, marketplace]
+
+  - id: RH-HEUR-157
+    text: "Investiu R$2.000 em mídia no primeiro mês com V4, faturamento saltou de R$100k para R$275k — praticamente triplicou resultado de um mês para o outro"
+    guest: Gilberto Lames (Pimenta Estética)
+    episode: "Negócio Milionário Vendendo Equipamentos de Estética"
+    domain: [trafego, resultados]
+    numbers: {investimento_midia: 2000, faturamento_antes: 100000, faturamento_depois: 275000}
+
+  - id: RH-HEUR-158
+    text: "Faturamento de R$200M+/ano com 50% de margem EBITDA no modelo de eventos como aquisição + esteira de mentoria high ticket"
+    guest: Marcus Marques
+    episode: "#324 Eu Lucrei R$100 Milhões"
+    domain: [infoprodutos, margens]
+    numbers: {faturamento_anual: "200M+", margem_ebitda_pct: 50}
+
+  - id: RH-HEUR-159
+    text: "Com 3.000+ clientes no programa high ticket (920 membros no Giantz), o LTV médio e faturamento médio por empresa é muito alto — só precisa de 3-4 mil empresas/ano para fazer R$200M+"
+    guest: Marcus Marques
+    episode: "#324 Eu Lucrei R$100 Milhões"
+    domain: [infoprodutos, high_ticket]
+    numbers: {clientes_giantz: 920, empresas_necessarias_ano: "3-4 mil"}
+
+  - id: RH-HEUR-160
+    text: "No BTG, começaram com R$10.000/mês de orçamento para abertura de conta. Não otimizaram pelo pixel de abertura, mas por potencial do lead com modelagem preditiva de dados"
+    guest: André Kliousoff (BTG Pactual)
+    episode: "#269 Case BTG Pactual"
+    domain: [financeiro, aquisicao]
+    numbers: {orcamento_inicial_mensal: 10000}
+
+  - id: RH-HEUR-161
+    text: "Brasil tem 500 mil influenciadores — talvez o país com mais influenciadores no mundo. Micro e pequenos não cobram nada para campanha, aceitam troca de produto"
+    guest: Bruno de Oliveira
+    episode: "#229 E-commerce na Prática"
+    domain: [influenciadores]
+    numbers: {influenciadores_brasil: 500000}
+
+  - id: RH-HEUR-162
+    text: "Contabilidade online em 2014: pouca concorrência no Google Ads. Em 2024: ~20.000 escritórios fazem alguma coisa no digital, não tem Google Ads pra todo mundo. Hora de ir para programática/Facebook"
+    guest: Rogério Fameli (BS Hub)
+    episode: "#227 Escala de serviços profissionais"
+    domain: [contabilidade, trafego]
+    numbers: {escritorios_no_digital: 20000, total_escritorios: 100000}
+
+  - id: RH-HEUR-163
+    text: "Quando entra concorrência no tráfego pago do seu nicho (search restrito a 4 posições), migrar para programática/display que tem inventário infinito e CAC pode ser menor"
+    guest: Rogério Fameli / Dener Lippert
+    episode: "#227 Escala de serviços profissionais"
+    domain: [trafego, escala]
+
+  - id: RH-HEUR-164
+    text: "Franqueado com até 5 unidades consegue ter olho de dono. Acima de 10, começa a perder a mão. Existe sweet spot de tamanho ideal de multi-franqueado"
+    guest: Mário Spaniol (Carmen Steffens)
+    episode: "Fundador da Carmen Steffens"
+    domain: [franquias]
+    numbers: {sweet_spot_unidades: "5-10"}
+
+  - id: RH-HEUR-165
+    text: "Para criativos de e-commerce: vídeo de 15-20 segundos mostrando problema (preto e branco) → solução (produto resolvendo) → CTA. Funciona em todos os formatos"
+    guest: Bruno de Oliveira
+    episode: "#229 E-commerce na Prática"
+    domain: [criativos, ecommerce]
+    numbers: {duracao_video_segundos: "15-20"}
+
+  - id: RH-HEUR-166
+    text: "Pesquisar hashtags 'Amazon Find 2024', 'Amazon Must Have' no TikTok filtrando por EUA para encontrar vídeos viralizados de produto. Replicar a ideia para o Brasil"
+    guest: Bruno de Oliveira
+    episode: "#229 E-commerce na Prática"
+    domain: [criativos, tiktok]
+
+  - id: RH-HEUR-167
+    text: "Quem assiste mais de 50% do seu vídeo no YouTube é público super quente para retargeting via Google Ads"
+    guest: Bruno de Oliveira
+    episode: "#229 E-commerce na Prática"
+    domain: [youtube, retargeting]
+    numbers: {threshold_view_pct: 50}
+
+  - id: RH-HEUR-168
+    text: "Para atribuição no e-commerce: UTMs muito bem organizadas + Google Analytics + modelo last click como padrão ouro. Dashboard do Facebook não é confiável (pode duplicar vendas)"
+    guest: Bruno de Oliveira
+    episode: "#229 E-commerce na Prática"
+    domain: [atribuicao, analytics]
+
+  - id: RH-HEUR-169
+    text: "Fez 302 amostras e levou 7 anos para entrar na Ronda (indústria automotiva alemã). Enterprise sales B2B é persistência extrema"
+    guest: Mário Spaniol (Carmen Steffens)
+    episode: "Fundador da Carmen Steffens"
+    domain: [vendas, enterprise]
+    numbers: {amostras: 302, anos_para_entrar: 7}
+
+# ============================================================================
+# L4 — FRAMEWORKS (Metodologias estruturadas nomeadas)
+# ============================================================================
+
+frameworks:
+
+  - id: RH-FW-150
+    name: "Venda de Clientes para Financiar Aquisição (BS Hub Model)"
+    description: "Modelo onde escritório de contabilidade vende clientes novos por 12x o MRR para terceiros, usa o dinheiro antecipado para investir em Google Ads e adquirir mais clientes"
+    steps:
+      - "Investir em Google Ads para adquirir clientes (CAC ~R$600)"
+      - "Vender os clientes adquiridos por 12x o MRR mensal"
+      - "Reinvestir todo o valor antecipado em mais Google Ads"
+      - "Escalar de 2 para 40 colaboradores e 2.000 clientes em 2 anos"
+    guest: Rogério Fameli (BS Hub)
+    episode: "#227 Escala de serviços profissionais"
+    domain: [aquisicao, financeiro]
+
+  - id: RH-FW-151
+    name: "Framework de Influenciadores por Camada"
+    description: "Separar influenciadores em 4 camadas com estratégias distintas: Grand Awareness (gifting orgânico), Conversion (afiliados), Community (nano/micro fixos), Events (ativações pontuais)"
+    steps:
+      - "Grand Awareness: celebridades/macro — gifting/seeding orgânico, sem pagamento"
+      - "Conversion: influenciadores médios — programa de afiliados com comissão"
+      - "Community: nano/micro regionais — contratos fixos, conteúdo regular"
+      - "Events: ativações pontuais — campanhas específicas com CTA"
+    guest: Bruna Laviero (Farm Rio)
+    episode: "#192 Farm Rio Internacionalização"
+    domain: [influenciadores, marketing]
+
+  - id: RH-FW-152
+    name: "Uplift de Loja por Influenciador Regional"
+    description: "Metodologia para medir o faturamento incremental que cada influenciador traz para lojas específicas, calculando ROI real ao invés de métricas de vaidade"
+    steps:
+      - "Ativar influenciador em praças específicas (pequenas e grandes)"
+      - "Medir faturamento da loja no período com vs sem influenciador"
+      - "Calcular uplift (faturamento incremental)"
+      - "Derivar ROI = uplift / investimento no influenciador"
+      - "Escalar para rede inteira quando ROI comprovado"
+    guest: Marcio Apolinário
+    episode: "#215 Influenciadores Regionais"
+    domain: [influenciadores, metricas]
+
+  - id: RH-FW-153
+    name: "Modelo Evento + Esteira (Marcus Marques)"
+    description: "Usar eventos presenciais low-ticket como front-end de aquisição, convertendo participantes para esteira de produtos high-ticket via pitch no palco"
+    steps:
+      - "Viajar pelo Brasil fazendo pequenos eventos para empresários"
+      - "Cobrar ticket de entrada baixo (front-end)"
+      - "Durante evento, construir rapport, entregar valor real"
+      - "No final, fazer pitch para imersão/acelerador (high-ticket)"
+      - "Converter para esteira: imersão → mentoria → Giantz"
+    guest: Marcus Marques
+    episode: "#324 Eu Lucrei R$100 Milhões"
+    domain: [vendas, eventos, infoprodutos]
+
+  - id: RH-FW-154
+    name: "Hub de Serviços para Contadores (BS Hub)"
+    description: "Modelo onde contadores pagam fixo para acessar marca/educação, vendem serviços adjacentes (marcas e patentes, certificado digital) na própria base, lucro dividido 50/50"
+    steps:
+      - "Recrutar contadores para o hub (~1.800 na base)"
+      - "Cobrar fixo por acesso a marca, educação e sistema"
+      - "Oferecer serviços adjacentes (marcas/patentes, certificado digital, crédito)"
+      - "Contador vende na base dele, lucro 50/50"
+      - "Economia de escala: volume = preço menor por unidade"
+    guest: Rogério Fameli (BS Hub)
+    episode: "#227 Escala de serviços profissionais"
+    domain: [parcerias, escala, saas]
+
+  - id: RH-FW-155
+    name: "Canal de Parceiros para Escala B2B"
+    description: "Ao invés de contratar 5 vendedores, contratar 4 vendedores + 1 pessoa de canais. Estratégia de canais demora mais (6-24 meses) mas escala exponencialmente"
+    steps:
+      - "Mapear verticais de negócios com sinergias"
+      - "Recrutar parceiros estratégicos que atendem mesmo ICP"
+      - "Definir modelo de incentivo (revenue share, bonificação, co-sell)"
+      - "Treinar e habilitar parceiros no seu produto/serviço"
+      - "Medir pipeline gerado por parceiros vs direto"
+    guest: Guilherme de Sushi (Microsoft)
+    episode: "#224 Escalando através de Canais de Parcerias"
+    domain: [parcerias, b2b, escala]
+
+  - id: RH-FW-156
+    name: "Conteúdo por Tema Semanal"
+    description: "Definir 1 tema por semana e buscar 3-4 pesquisas sobre ele. Todos os posts da semana giram em torno daquele tema. Uma pesquisa de 200 páginas rende a semana inteira de conteúdo"
+    steps:
+      - "Escolher 1 tema da semana (ex: marketing de influência)"
+      - "Buscar 3-4 pesquisas/artigos sobre o tema"
+      - "Criar múltiplos ângulos de conteúdo sobre o mesmo tema"
+      - "Publicar durante a semana com variações"
+    guest: Marcio Apolinário
+    episode: "#215 Influenciadores Regionais"
+    domain: [conteudo, produtividade]
+
+  - id: RH-FW-157
+    name: "Experiência Imersiva de Unboxing (Caso Gamer)"
+    description: "Transformar a entrega de um produto em experiência narrativa completa com quadrinhos, cristal, pergaminho de iniciação e linguagem épica para viralização orgânica"
+    steps:
+      - "Criar narrativa de marca com personagens (quadrinhos)"
+      - "Ligar pós-compra em até 2h, capturar WhatsApp, enviar PDF dos quadrinhos"
+      - "Embalagem = baú do tesouro (mesmo custo que caixa normal)"
+      - "Incluir elementos tangíveis conectados à narrativa (cristal, pergaminho)"
+      - "Até nota fiscal personalizada com linguagem da marca"
+    guest: Rafael Dutra
+    episode: "#194 Marketing Digital para Negócios Reais"
+    domain: [branding, ecommerce, experiencia]
+
+  - id: RH-FW-158
+    name: "3 Níveis de IA para Marketing (Fine-tuning spectrum)"
+    description: "3 abordagens para implementar IA: (1) treinar modelo do zero (caro, precisa GPUs), (2) fine-tuning de modelo pronto com seus dados, (3) RAG - adicionar contexto sem retreinar"
+    steps:
+      - "Nível 1 (Hard): Treinar modelo do zero com seus dados (precisa de Big Tech budget)"
+      - "Nível 2 (Medium): Fine-tuning — pegar modelo pronto e treinar com dados da empresa"
+      - "Nível 3 (Easy): RAG — adicionar documentos como contexto ao modelo, sem retreinar"
+    guest: Igor Tavares
+    episode: "Estratégias de IA no Marketing Digital"
+    domain: [ia, tecnologia]
+
+# ============================================================================
+# L5 — METHODOLOGIES (Implementações passo a passo)
+# ============================================================================
+
+methodologies:
+
+  - id: RH-MET-150
+    name: "Escala de E-commerce via Marketplace + Full + CRM"
+    steps:
+      - "Começar vendendo no Mercado Livre"
+      - "Ativar Full (Fulfillment) no ML — vendas aumentam automaticamente"
+      - "Expandir para Amazon e ativar FBA (Prime) — desbloqueia audiência Prime"
+      - "Em paralelo, montar site próprio com NuvemShop/Shopify"
+      - "Implementar CRM para capturar clientes do marketplace"
+      - "Criar programa de fidelidade para reter no canal próprio"
+      - "Usar marketplace para aquisição e site próprio para retenção/margem"
+    guest: Bruno de Oliveira
+    episode: "#229 E-commerce na Prática"
+    domain: [ecommerce, marketplace]
+
+  - id: RH-MET-151
+    name: "Lançamento Milionário sem Tráfego Pago"
+    steps:
+      - "Construir audiência orgânica primeiro (Instagram, YouTube, blog)"
+      - "Usar outbound manual: comentar em perfis do nicho, DMs personalizadas"
+      - "Criar imprimíveis/recursos gratuitos para capturar leads"
+      - "Fazer lives e conteúdo massivo pré-lançamento"
+      - "Oferecer consultoria gratuita para capturar WhatsApp"
+      - "Montar grupo engajado antes do lançamento"
+      - "Lançar com urgência para a base aquecida"
+    guest: Ju Fraccaroli
+    episode: "#94 Lançamento milionário sem tráfego pago"
+    domain: [lancamento, organico]
+
+  - id: RH-MET-152
+    name: "Internacionalização de Marca de Moda (Farm Rio Model)"
+    steps:
+      - "Começar com e-commerce internacional antes de lojas físicas"
+      - "Fazer gifting/seeding orgânico para celebridades (não pagar)"
+      - "Contratar nano/micro influencers locais para conteúdo regular"
+      - "Dolarizar métricas para comparar mercados"
+      - "Adaptar produto ao mercado local mantendo DNA da marca"
+      - "Abrir pop-up stores antes de lojas permanentes"
+      - "Centralizar operação digital mas localizar criação"
+    guest: Bruna Laviero (Farm Rio)
+    episode: "#192 Farm Rio Internacionalização"
+    domain: [internacionalizacao, moda, ecommerce]
+
+  - id: RH-MET-153
+    name: "Implementação de Mídia para Franquias"
+    steps:
+      - "Centralizar toda a mídia em uma única conta/estratégia"
+      - "Evitar franquias individuais rodando mídia separada"
+      - "Uma estratégia única com orçamento distribuído por praça"
+      - "Dashboard centralizado para todas as unidades"
+      - "Ajustes diários com pessoa dedicada no pulse dos dados"
+      - "Medir performance por unidade dentro da estratégia única"
+      - "Escalar investimento onde taxa de conversão é melhor"
+    guest: Rodrigo Saviolo / Felipe Samã (Xprime Academias)
+    episode: "Academia Dobrou as Vendas com IA"
+    domain: [franquias, midia]
+
+  - id: RH-MET-154
+    name: "Montagem de Time de Marketing Growth"
+    steps:
+      - "Fase 1: Começar com serviço compartilhado (agência/V4) — barato, mais lento"
+      - "Fase 2: Conforme resultado cresce, pedir time mais dedicado"
+      - "Fase 3: Ter conversa franca sobre nível de dedicação vs investimento"
+      - "Fase 4: Internalizar funções core (dados, criativos) quando volume justificar"
+      - "Fase 5: Manter externo para especialidades (mídia, SEO, tech)"
+      - "Sempre: corresponsabilidade — ambos olhando mesmos KPIs"
+    guest: Dener Lippert / Ricardo Amidomins
+    episode: "#131 Gestão de times Marketing e Growth"
+    domain: [gestao, marketing]
+
+# ============================================================================
+# NOTES
+# ============================================================================
+
+notes:
+  quality_issues:
+    - "3 files entirely corrupted (F02 Marcos Paulo, F13 China/Icaro, F26 Rafael Kiso) — transcription model generated repeated gibberish"
+    - "F07 (Franquias Alisson Ramalho) has partial corruption in middle/end sections"
+    - "F17 (Carmen Steffens) has partial corruption but key content recovered"
+    - "F27 (Marketing Digital Neg Reais) heavily corrupted — only end section has content"
+    - "F32 and F33 are duplicates of same episode #116 (Assessor de Marketing)"
+    - "Several files have transcription artifacts (repeated words/phrases) cleaned during processing"
+
+  guests_identified:
+    - Bruno de Oliveira (NuvemShop / E-commerce na Prática)
+    - Marcos Paulo (infoprodutos)
+    - Gilberto Lames (Pimenta Estética)
+    - Luiz Felipe (Minha Casa Solar)
+    - Rogério Fameli (BS Hub)
+    - Guilherme de Sushi (Microsoft)
+    - Alisson Ramalho (franquias)
+    - Rodrigo Saviolo (Xprime Academias)
+    - Felipe Samã (V4 Company)
+    - Marcio Apolinário (varejo/influenciadores)
+    - André Kliousoff (BTG Pactual)
+    - Marcus Marques (Grupo Acelerador)
+    - Dennis Nakamura (ex-iFood)
+    - Bruna Laviero (Farm Rio)
+    - Igor Tavares (consultor de IA/dados)
+    - Miguel Fernandes (IA/ferramentas)
+    - Mário Spaniol (Carmen Steffens)
+    - Ju Fraccaroli (infoprodutora)
+    - Rafael Dutra (gamer/ecommerce)
+    - Rodrigo Noll (marketing de indicação)
+    - João Branco (ex-McDonald's)
+    - Natano Mattos (branding)
+    - Dener Lippert (V4 Company — host)
+    - Guilherme Lippert (V4 Company — host)
+    - Fernando Miranda (V4 Company — co-host)
+    - João Pedro (V4 Company — co-host)
+
+  total_elements:
+    philosophies: 16
+    mental_models: 13
+    heuristics: 20
+    frameworks: 9
+    methodologies: 5
+    total: 63

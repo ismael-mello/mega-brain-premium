@@ -1,0 +1,567 @@
+# ============================================================================
+# ROI HUNTERS PODCAST — DNA EXTRACTION WAVE 2 BATCH AB
+# ============================================================================
+# Source: 20 episódios (10-50KB, medium length)
+# Host: Dener Lippert (V4 Company)
+# Co-hosts: Guilherme Lippert, João Vitor, Ricardo Dominguez
+# IDs: RH-PHI-350+, RH-MM-350+, RH-HEUR-350+, RH-FW-350+, RH-MET-350+
+# Language: PT-BR
+# Episodes: #119, #122, #125, #127, #128, #133, #135, #137, #142, #143,
+#           #145, #146, #149, #151, #155, #157, #159, #161, #167, #172
+# Corrupted/low-value: #127 (mostly garbled), #128 (last third garbled),
+#                       #177 (middle garbled), #151 (political — low biz value)
+# ============================================================================
+
+metadata:
+  batch: wave2_batch_ab
+  total_files: 20
+  usable_files: 16
+  corrupted_files: ["#127_ONDE_buscar_conhecimento (heavy garble)", "#128_5_Ferramentas (tail garble)", "#177_ChatGPT4 (middle garble)"]
+  low_value_files: ["#151_Propaganda_Politica (political marketing, tangential)"]
+  extraction_date: "2026-04-01"
+  id_range: "RH-*-350 to RH-*-430"
+
+# ============================================================================
+# L1 — PHILOSOPHIES (Crenças fundamentais)
+# ============================================================================
+
+philosophies:
+
+  - id: RH-PHI-350
+    text: "A grande vantagem de um negócio pensando no longo prazo é melhoria incremental — se todo dia tu observar e melhorar um pouquinho, vai ter um negócio que vai empilhar receita e se tornar um grande negócio no longo prazo"
+    speaker: Dener Lippert
+    episode: "#119 O Ciclo de Vida da Campanha"
+    domain: [growth, gestao]
+
+  - id: RH-PHI-351
+    text: "Se tu quebra tudo e começa do zero, quebra tudo e começa do zero, tu não constrói algo sólido no longo prazo — são anos de melhorias empilhadas que constroem algo sólido"
+    speaker: Dener Lippert
+    episode: "#119 O Ciclo de Vida da Campanha"
+    domain: [growth, gestao]
+
+  - id: RH-PHI-352
+    text: "Tudo que você faz é por definição um processo — o processo padronizado é aquilo que é sempre feito da mesma forma com série de regras, e documentação é descrever e armazenar o que foi feito e como"
+    speaker: Guilherme Lippert
+    episode: "#122 Por que sua empresa deveria ESCREVER MAIS"
+    domain: [gestao, processos]
+
+  - id: RH-PHI-353
+    text: "Documentação não é só playbook cego — o nível que faz diferença é compartilhamento de consciência: dentro de dado contexto, o que importa? Isso ajuda pessoas a tomarem decisões melhores"
+    speaker: Guilherme Lippert
+    episode: "#122 Por que sua empresa deveria ESCREVER MAIS"
+    domain: [gestao, processos]
+
+  - id: RH-PHI-354
+    text: "A culpa é sempre sua — você sempre tem que trazer responsabilidade pra você daquilo que existiu, nem que seja falar 'fui incompetente em escolher quem ia trabalhar comigo'"
+    speaker: Dener Lippert
+    episode: "#119 O Ciclo de Vida da Campanha"
+    domain: [lideranca, mindset]
+
+  - id: RH-PHI-355
+    text: "Investigação de acidente de avião não busca culpado — ela busca entender o que aconteceu pra não se repetir. O output não é punição, o output é backlog de melhorias"
+    speaker: Guilherme Lippert
+    episode: "#119 O Ciclo de Vida da Campanha"
+    domain: [gestao, processos]
+
+  - id: RH-PHI-356
+    text: "Vendas cura tudo — se você está com problemas de caixa, de equipe, de produto, a primeira coisa é vender mais. É o remédio universal do negócio"
+    speaker: Dener Lippert
+    episode: "#146 VENDAS CURA TUDO"
+    domain: [vendas, gestao]
+
+  - id: RH-PHI-357
+    text: "A segunda compra é a mais importante — a primeira compra é cara (CAC), a segunda é onde começa o lucro real, porque o custo de reter é muito menor que adquirir"
+    speaker: Guilherme Lippert / Ricardo Dominguez
+    episode: "#145 A segunda compra é a mais importante"
+    domain: [retencao, unit-economics]
+
+  - id: RH-PHI-358
+    text: "Eu nunca vou ser bem sucedido no mundo atual sem ser generalista — o cara que só faz uma coisa e não entende o contexto do todo vai ser substituído"
+    speaker: Guilherme Lippert
+    episode: "#135 Generalista ou Especialista? O Criativo Vence"
+    domain: [carreira, gestao]
+
+  - id: RH-PHI-359
+    text: "Você tem que parecer o cara que mais entende do mundo daquele negócio — o vendedor que tem conhecimento técnico profundo simplifica pro cliente e seta expectativa correta, gerando melhor LTV"
+    speaker: Guilherme Lippert
+    episode: "#143 5 Es para diminuir o Churn"
+    domain: [vendas, retencao]
+
+  - id: RH-PHI-360
+    text: "A única linha de budget que eu quero estourar é marketing — se pra cada 1 real investido volta 5, eu quero investir 1 milhão, não 2 reais"
+    speaker: Dener Lippert
+    episode: "#173 Marketing Forecast"
+    domain: [marketing, investimento]
+
+  - id: RH-PHI-361
+    text: "Não tenta entender a explicação, tenta entender o conceito — abstrair é tirar o mecanismo que funcionou e que eu posso generalizar pra diferentes problemas"
+    speaker: Dener Lippert
+    episode: "#180 Como Aprender Melhor"
+    domain: [aprendizado, mindset]
+
+  - id: RH-PHI-362
+    text: "É muito melhor começar os hábitos aos poucos e depois expandir — você não começa na academia seis vezes por semana, começa com três e faz building up"
+    speaker: Guilherme Lippert
+    episode: "#127 ONDE buscar conhecimento"
+    domain: [produtividade, mindset]
+
+  - id: RH-PHI-363
+    text: "A gente precisa ser mais criativo — a melhor forma de reduzir custo e ganhar mais ROI é buscando ferramentas e estratégias novas, não ficar no óbvio"
+    speaker: Dener Lippert
+    episode: "#128 5 Ferramentas Digitais"
+    domain: [marketing-digital, inovacao]
+
+  - id: RH-PHI-364
+    text: "Empreender é construir um ativo que gera valor pelo mínimo possível — é literalmente o inverso do que a maior parte das empresas fazem, que é dar manutenção e gastar um pouquinho em marketing"
+    speaker: Dener Lippert
+    episode: "#173 Marketing Forecast"
+    domain: [empreendedorismo, marketing]
+
+# ============================================================================
+# L2 — MENTAL MODELS (Modelos de pensamento)
+# ============================================================================
+
+mental_models:
+
+  - id: RH-MM-350
+    text: "Builder and Keeper — tem momento pra ser Builder (construir coisas novas) e momento pra ser Keeper (manutenção e melhoria). Se você só for um deles, não constrói negócio grande"
+    speaker: Dener Lippert
+    episode: "#119 O Ciclo de Vida da Campanha"
+    domain: [gestao, growth]
+
+  - id: RH-MM-351
+    text: "Ciclo de Vida da Campanha — todo criativo/campanha tem uma curva: sobe, performa, declina. Mas após declinar, pode ser reativado meses depois porque tem público novo que nunca viu"
+    speaker: Dener Lippert
+    episode: "#119 O Ciclo de Vida da Campanha"
+    domain: [trafego, campanhas]
+
+  - id: RH-MM-352
+    text: "Frequência supera novidade — é melhor comprar 10 inserções no programa mais barato do que 1 inserção no jornal da Globo, porque você não faz o cara lembrar com uma vez só"
+    speaker: João Vitor
+    episode: "#119 O Ciclo de Vida da Campanha"
+    domain: [midia, branding]
+
+  - id: RH-MM-353
+    text: "ARPU x Gross Margin / CAC = ROI — a fórmula definitiva para julgar um bom negócio. No topo da pirâmide de sucesso está essa relação entre receita por usuário, margem e custo de aquisição"
+    speaker: Dener Lippert
+    episode: "#142 ARPU x Gross Margin / CAC = ROI"
+    domain: [unit-economics, metricas]
+
+  - id: RH-MM-354
+    text: "Indicador contábil vs indicador gerencial — contábil é lei (DRE, IFRS), gerencial é insight (ARPU, LTV, CAC). Não precisa passar na prova de contabilidade, precisa encontrar o jeito de ler o negócio que entrega bom insight"
+    speaker: João Vitor / Dener Lippert
+    episode: "#142 ARPU x Gross Margin / CAC = ROI"
+    domain: [metricas, financeiro]
+
+  - id: RH-MM-355
+    text: "Acquisition + Retention + Monetization = Growth — três pilares fundamentais de SaaS que servem pra qualquer negócio. A maioria negligencia a base passiva (leads não monetizados)"
+    speaker: Dener Lippert
+    episode: "#137 Métricas para escalar o seu negócio"
+    domain: [growth, metricas]
+
+  - id: RH-MM-356
+    text: "Trade-off entre ROAS e lucro líquido — o ROAS cai à medida que escala, mas o resultado financeiro líquido continua crescendo. Só para quando o resultado líquido também começa a decrescer"
+    speaker: Dener Lippert
+    episode: "#119 O Ciclo de Vida da Campanha"
+    domain: [trafego, unit-economics]
+
+  - id: RH-MM-357
+    text: "T-Shaped Professional — no marketing, o profissional precisa ser profundo em uma disciplina mas entender o funil como um todo. Especialista puro não sobrevive no mercado atual"
+    speaker: Guilherme Lippert
+    episode: "#135 Generalista ou Especialista?"
+    domain: [carreira, marketing-digital]
+
+  - id: RH-MM-358
+    text: "Abstração é a meta-habilidade — não é entender o que o G4 fez, mas COMO fez, qual foi o mecanismo. Modelos mentais são ferramentas de abstração que te destravam para começar"
+    speaker: Dener Lippert
+    episode: "#180 Como Aprender Melhor"
+    domain: [aprendizado, mindset]
+
+  - id: RH-MM-359
+    text: "Investigação tipo acidente aéreo — em vez de investigar do efeito pra causa (cliente cancelou → qual foi a causa?), investiga do início: quem era, como foi qualificado, quais as ligações, check-ins, até chegar no cancelamento"
+    speaker: Guilherme Lippert
+    episode: "#119 O Ciclo de Vida da Campanha"
+    domain: [retencao, processos]
+
+  - id: RH-MM-360
+    text: "Fluxo de caixa é trade-off de crescimento — se eu quero crescer rápido, aceito rombo de caixa maior (CAC > receita mês 1), porque sei que o LTV compensa. Se não tenho caixa, cresço devagar mas abro mão de margem futura"
+    speaker: Dener Lippert
+    episode: "#137 Métricas para escalar o seu negócio"
+    domain: [financeiro, growth]
+
+  - id: RH-MM-361
+    text: "Churn não é só pra assinatura — se o cliente do supermercado não volta em 40 dias, ele churnou. Toda empresa tem churn, a pergunta é se você mede"
+    speaker: Dener Lippert
+    episode: "#143 5 Es para diminuir o Churn"
+    domain: [retencao, metricas]
+
+  - id: RH-MM-362
+    text: "RFM como modelo de segmentação — Recência (quando comprou), Frequência (quantas vezes comprou), Valor Monetário (quanto gastou). Os três juntos definem o cliente ideal e guiam estratégia de retenção"
+    speaker: Guilherme Lippert
+    episode: "#149 RFM para o cliente ideal"
+    domain: [crm, retencao, segmentacao]
+
+  - id: RH-MM-363
+    text: "Forecast bottom-up vs top-down — bottom-up parte dos seus dados históricos (CAC, churn, LTV) e projeta; top-down parte do resultado desejado e calcula pra trás. Ideal é combinar os dois"
+    speaker: Dener Lippert
+    episode: "#173 Marketing Forecast"
+    domain: [planejamento, financeiro]
+
+# ============================================================================
+# L3 — HEURISTICS (Regras práticas com números)
+# ============================================================================
+
+heuristics:
+
+  - id: RH-HEUR-350
+    text: "90% das pessoas ficam na home/feed — não entram no perfil. De 39 mil seguidores, média de 3 mil visitas no perfil por semana (menos de 10%)"
+    speaker: Guilherme Lippert
+    episode: "#119 O Ciclo de Vida da Campanha"
+    domain: [social-media, metricas]
+    numeric: true
+
+  - id: RH-HEUR-351
+    text: "Se um conteúdo/criativo performou bem, reposta a cada 1 mês por pelo menos 6 meses — o público não lembra, tem gente nova, e a frequência reforça a mensagem"
+    speaker: Dener Lippert
+    episode: "#119 O Ciclo de Vida da Campanha"
+    domain: [conteudo, campanhas]
+    numeric: true
+
+  - id: RH-HEUR-352
+    text: "Antes de ir pro próximo canal, estressa o atual até o ponto de saturação — se Google está dando certo, coloca mais, mais, mais, até que o retorno líquido comece a decrescer"
+    speaker: Dener Lippert
+    episode: "#119 O Ciclo de Vida da Campanha"
+    domain: [trafego, growth]
+
+  - id: RH-HEUR-353
+    text: "Retrospectiva a cada 30 dias — marca na agenda evento recorrente, 1 hora, olhar histórico: o que deu certo que posso expandir ou reativar?"
+    speaker: Guilherme Lippert
+    episode: "#119 O Ciclo de Vida da Campanha"
+    domain: [gestao, processos]
+    numeric: true
+
+  - id: RH-HEUR-354
+    text: "Investir R$1.000 com ROAS 10 = R$4.000 de lucro com 50% margem. Investir R$1M com ROAS 3 = R$500.000 de lucro. O segundo cenário é 100x melhor em valor absoluto mesmo com ROAS pior"
+    speaker: Dener Lippert
+    episode: "#119 O Ciclo de Vida da Campanha"
+    domain: [trafego, unit-economics]
+    numeric: true
+
+  - id: RH-HEUR-355
+    text: "Documentação tem 3 níveis: (1) Processo — como fazer passo a passo, (2) Playbook — quando aplicar cada processo, (3) Consciência — dado o contexto, o que importa para tomar decisão"
+    speaker: Guilherme Lippert
+    episode: "#122 Por que sua empresa deveria ESCREVER MAIS"
+    domain: [processos, gestao]
+
+  - id: RH-HEUR-356
+    text: "O time de growth precisa de: analítico (tráfego, dados, estratégia) + criativo (design, LP, copy). Os dois perfis base cobrem o funil completo"
+    speaker: Guilherme Lippert
+    episode: "#125 Os Fundamentos de um Time de Growth"
+    domain: [growth, equipes]
+
+  - id: RH-HEUR-357
+    text: "Em 24 horas, se não aplicar, esquece 70% do que aprendeu — por isso menos livros relidos várias vezes é melhor que muitos livros lidos uma vez"
+    speaker: Guilherme Lippert
+    episode: "#127 ONDE buscar conhecimento"
+    domain: [aprendizado]
+    numeric: true
+
+  - id: RH-HEUR-358
+    text: "Se cada lead indicar outro lead, você reduziu pela metade seu custo por lead — programa de indicação (referral) na thank-you page em vez de 'obrigado, espere o email'"
+    speaker: Dener Lippert
+    episode: "#128 5 Ferramentas Digitais"
+    domain: [growth, aquisicao]
+    numeric: true
+
+  - id: RH-HEUR-359
+    text: "Cobrar R$1 ou $1 no trial em vez de dar grátis — traz buyer (comprador real), não entusiasta. O upsell fica muito mais fácil se o cara já pagou"
+    speaker: Dener Lippert
+    episode: "#128 5 Ferramentas Digitais"
+    domain: [monetizacao, growth]
+    numeric: true
+
+  - id: RH-HEUR-360
+    text: "Os 5 Es para diminuir Churn: (1) Expectativa (setar certo na venda), (2) Entrega (entregar o prometido), (3) Experiência (UX do serviço), (4) Educação (ensinar cliente a usar), (5) Engajamento (manter cliente ativo)"
+    speaker: Dener Lippert
+    episode: "#143 5 Es para diminuir o Churn"
+    domain: [retencao, churn]
+
+  - id: RH-HEUR-361
+    text: "Vendedor com conhecimento técnico profundo vende menos volume, mas tem churn muito menor e LTV muito maior — é um trade-off que compensa"
+    speaker: Guilherme Lippert
+    episode: "#143 5 Es para diminuir o Churn"
+    domain: [vendas, retencao]
+
+  - id: RH-HEUR-362
+    text: "Se o cliente do supermercado não voltou em 40 dias, ele churnou — defina o ciclo médio de recompra do seu negócio e monitore clientes que ultrapassam esse ciclo"
+    speaker: Dener Lippert
+    episode: "#143 5 Es para diminuir o Churn"
+    domain: [retencao, metricas]
+    numeric: true
+
+  - id: RH-HEUR-363
+    text: "Na V4 não pagamos comissão aos times de operação — comissão gera incentivos perversos (vender a qualquer custo, overpromise). Preferimos participação em resultados coletivos"
+    speaker: Dener Lippert
+    episode: "#155 Por que não pagamos comissão"
+    domain: [compensacao, gestao]
+
+  - id: RH-HEUR-364
+    text: "Influenciador só dá ROI quando: (1) audiência é nichada e relevante, (2) há call to action claro, (3) é mensurado com cupom/link. Sem isso, é branding sem medição"
+    speaker: Dener Lippert
+    episode: "#157 Será que Influencer dá ROI?"
+    domain: [influencer, marketing]
+
+  - id: RH-HEUR-365
+    text: "Black Friday: comece a esquentar 30 dias antes — a maior parte do resultado vem da base aquecida, não do tráfego frio no dia. Antecipe ofertas menores para gerar lista"
+    speaker: Dener Lippert
+    episode: "#159 BLACK FRIDAY: Será que ainda dá tempo?"
+    domain: [ecommerce, campanhas]
+    numeric: true
+
+  - id: RH-HEUR-366
+    text: "Marketing forecast = se pra cada R$1 investido volta R$5, pra faturar R$10M preciso investir R$2M. O budget é derivado do resultado desejado, não um % arbitrário"
+    speaker: Dener Lippert
+    episode: "#173 Marketing Forecast"
+    domain: [planejamento, investimento]
+    numeric: true
+
+  - id: RH-HEUR-367
+    text: "Olhe pra trás antes de projetar pra frente — pegue um cliente de 2 anos atrás e acompanhe o economics real dele até hoje. Predição baseada em dados do passado é mais crível que futurologia"
+    speaker: Ricardo Dominguez
+    episode: "#137 Métricas para escalar"
+    domain: [metricas, planejamento]
+
+  - id: RH-HEUR-368
+    text: "IA (ChatGPT) não é Jesus Cristo nem substitui trabalho — é 10-50% melhor em tarefas específicas. O real ganho é em prompts complexos e entendimento de contexto, não em mágica"
+    speaker: Guilherme Lippert
+    episode: "#172 Como a IA está impulsionando vendas"
+    domain: [inteligencia-artificial, produtividade]
+
+  - id: RH-HEUR-369
+    text: "Two Day Rule para hábitos: não pode falhar mais do que 2 dias seguidos. Falhou um dia? No outro TEM que ir. Não deixa quebrar 2 elos da corrente"
+    speaker: Guilherme Lippert
+    episode: "#127 ONDE buscar conhecimento"
+    domain: [produtividade, mindset]
+    numeric: true
+
+  - id: RH-HEUR-370
+    text: "Toda ligação e reunião deve ser gravada — é o material bruto para fazer retrospectiva, investigação de churn, e melhoria de processo comercial"
+    speaker: Dener Lippert
+    episode: "#119 O Ciclo de Vida da Campanha"
+    domain: [vendas, processos]
+
+# ============================================================================
+# L4 — FRAMEWORKS (Estruturas de pensamento nomeadas)
+# ============================================================================
+
+frameworks:
+
+  - id: RH-FW-350
+    name: "Growth Checklist Histórica"
+    description: "Mapeie histórico de 3-6 meses de todas as ações (certas e erradas). Quando precisar de resultado, volte na lista de ações que deram certo e replique antes de inventar algo novo"
+    speaker: Guilherme Lippert
+    episode: "#119 O Ciclo de Vida da Campanha"
+    domain: [growth, campanhas]
+
+  - id: RH-FW-351
+    name: "ARPU × Gross Margin ÷ CAC = ROI"
+    description: "Fórmula definitiva V4: Average Revenue Per User vezes Margem Bruta dividido pelo Custo de Aquisição. Se > 1, negócio é viável. Quanto maior, mais escalável. Indicador gerencial, não contábil"
+    speaker: Dener Lippert
+    episode: "#142 ARPU x Gross Margin / CAC = ROI"
+    domain: [unit-economics, metricas]
+
+  - id: RH-FW-352
+    name: "5 Es da Redução de Churn"
+    description: "Expectativa (setar na venda) → Entrega (cumprir o prometido) → Experiência (UX/atendimento) → Educação (ensinar a usar) → Engajamento (manter ativo). Cada E é uma camada de proteção contra churn"
+    speaker: Dener Lippert
+    episode: "#143 5 Es para diminuir o Churn"
+    domain: [retencao, churn]
+
+  - id: RH-FW-353
+    name: "RFM — Recência, Frequência, Valor Monetário"
+    description: "Segmentação de clientes em 3 dimensões: quando comprou pela última vez (R), quantas vezes comprou (F), quanto gastou no total (M). Cruza as 3 pra encontrar cliente ideal e priorizar retenção"
+    speaker: Guilherme Lippert
+    episode: "#149 RFM para o cliente ideal"
+    domain: [crm, segmentacao, retencao]
+
+  - id: RH-FW-354
+    name: "Investigação de Acidente Aéreo (Churn Investigation)"
+    description: "Adaptado da investigação de acidentes aéreos: em vez de ir do efeito à causa, vai do início (primeiro contato, qualificação, ligações, check-ins) até o cancelamento. Output não é punição, é backlog de melhorias"
+    speaker: Guilherme Lippert
+    episode: "#119 O Ciclo de Vida da Campanha"
+    domain: [retencao, processos]
+
+  - id: RH-FW-355
+    name: "3 Níveis de Documentação"
+    description: "Nível 1: Processo (como fazer passo a passo). Nível 2: Playbook (quando usar cada processo). Nível 3: Consciência compartilhada (dado o contexto, qual métrica importa, como tomar decisão)"
+    speaker: Guilherme Lippert
+    episode: "#122 Por que sua empresa deveria ESCREVER MAIS"
+    domain: [gestao, processos]
+
+  - id: RH-FW-356
+    name: "Adquirir + Reter + Monetizar"
+    description: "Os 3 pilares de qualquer negócio (não só SaaS): adquirir clientes (CAC), reter clientes (churn), monetizar clientes (ARPU/LTV). Estruture a empresa em torno desses 3 pilares"
+    speaker: Dener Lippert
+    episode: "#137 Métricas para escalar"
+    domain: [growth, metricas]
+
+  - id: RH-FW-357
+    name: "Forecast Reverso V4"
+    description: "Parta do resultado desejado (faturamento alvo) → divida pelo ROAS histórico → resultado = budget necessário. Se quero R$10M e meu ROAS é 5, preciso investir R$2M. Então analise se o fluxo de caixa aguenta"
+    speaker: Dener Lippert
+    episode: "#173 Marketing Forecast"
+    domain: [planejamento, financeiro]
+
+  - id: RH-FW-358
+    name: "Empilhamento de Hábitos (Atomic Habits)"
+    description: "Empilhar novo hábito em cima de hábito existente — o trigger do novo é a conclusão do antigo. Ambiente molda hábitos (deixe kindle na cabeceira, água na mesa). Comece pequeno (3x/semana), não no máximo"
+    speaker: Guilherme Lippert
+    episode: "#127 ONDE buscar conhecimento"
+    domain: [produtividade, mindset]
+    source_book: "Atomic Habits (James Clear)"
+
+  - id: RH-FW-359
+    name: "Retrospectiva 30 Dias"
+    description: "Ritual mensal de 1 hora: olhe o histórico, identifique o que deu certo, decida o que expandir/reativar. Antes de inventar novo, replique o que já funcionou. Aplica pra marketing, comercial e produto"
+    speaker: Guilherme Lippert
+    episode: "#119 O Ciclo de Vida da Campanha"
+    domain: [gestao, growth]
+
+  - id: RH-FW-360
+    name: "Payback Period + Growth Trade-off"
+    description: "Se CAC > receita mês 1, há rombo de caixa. Calcule quantos meses até o payback. Aí escolha: crescer rápido (rombo maior, margem futura maior) ou devagar (caixa saudável, margem futura menor)"
+    speaker: Dener Lippert
+    episode: "#137 Métricas para escalar"
+    domain: [financeiro, growth]
+
+# ============================================================================
+# L5 — METHODOLOGIES (Processos passo a passo)
+# ============================================================================
+
+methodologies:
+
+  - id: RH-MET-350
+    name: "Reativação de Criativos/Campanhas"
+    steps:
+      - "Puxa o histórico vitalício de todos os criativos"
+      - "Identifica criativos que performaram bem mas estão inativos há 3+ meses"
+      - "Analisa o gancho/hook e formato que funcionou"
+      - "Reativa o criativo original OU regrava com mesmo hook/conceito"
+      - "Aplica mesmo princípio para conteúdo de redes sociais (repost top content)"
+      - "Repete para públicos que funcionaram e foram pausados"
+    speaker: Dener Lippert
+    episode: "#119 O Ciclo de Vida da Campanha"
+    domain: [trafego, campanhas]
+
+  - id: RH-MET-351
+    name: "Investigação de Churn Estilo Acidente Aéreo"
+    steps:
+      - "Identifique o cliente que cancelou (o 'acidente')"
+      - "Volte ao início: como foi o primeiro contato? Gravação da reunião de venda"
+      - "Analise as ligações de qualificação"
+      - "Revise os check-ins durante o contrato"
+      - "Mapeie o momento de inflexão (quando começou a dar sinais de insatisfação)"
+      - "NÃO busque culpado — busque o que aconteceu"
+      - "Output = backlog de melhorias, nunca punição"
+      - "Emita relatório de melhoria para não repetir"
+    speaker: Guilherme Lippert
+    episode: "#119 O Ciclo de Vida da Campanha"
+    domain: [retencao, processos]
+
+  - id: RH-MET-352
+    name: "Documentação Estratégica em 3 Camadas"
+    steps:
+      - "Camada 1 — PROCESSO: Documente o passo a passo de cada atividade (SOP)"
+      - "Camada 2 — PLAYBOOK: Agrupe processos por contexto — quando usar cada um"
+      - "Camada 3 — CONSCIÊNCIA: Documente os 'covenants' — dado esse contexto, o que importa?"
+      - "Exemplo: 'Durante lançamento, o que importa é volume de leads, não CPL'"
+      - "Compartilhe consciência com o time para que tomem decisões autônomas"
+      - "Mantenha tudo em Notion ou ferramenta centralizada com busca"
+    speaker: Guilherme Lippert
+    episode: "#122 Por que sua empresa deveria ESCREVER MAIS"
+    domain: [gestao, processos]
+
+  - id: RH-MET-353
+    name: "Forecast de Marketing V4"
+    steps:
+      - "Levante dados históricos: CAC, ROAS, Churn, LTV, margem de contribuição"
+      - "Defina o resultado desejado (faturamento anual/mensal)"
+      - "Calcule budget = faturamento desejado ÷ ROAS histórico"
+      - "Simule cenários: se ROAS cair 20%, quanto preciso de budget extra?"
+      - "Calcule impacto no fluxo de caixa (payback period x volume de aquisição)"
+      - "Defina alavancas: qual métrica melhorar para o maior impacto? (CAC? Churn? Ticket?)"
+      - "Cruze com capacidade operacional: time aguenta entregar?"
+      - "Revise mensalmente: forecast vs realizado, ajuste alavancas"
+    speaker: Dener Lippert
+    episode: "#173 Marketing Forecast"
+    domain: [planejamento, financeiro, marketing]
+
+  - id: RH-MET-354
+    name: "Implementação de Programa de Referral"
+    steps:
+      - "Escolha ferramenta (UpViral, sistema próprio)"
+      - "Substitua thank-you page por convite de indicação"
+      - "Defina sistema de premiação escalonado (adesivos → camisetas → prêmios)"
+      - "Gere link único por lead para rastrear indicações"
+      - "Meça: cada lead trouxe quantos novos leads?"
+      - "Se média > 1 indicação por lead, custo por lead caiu pela metade"
+      - "Aplique em lançamentos, newsletters, programas de estágio"
+    speaker: Dener Lippert
+    episode: "#128 5 Ferramentas Digitais"
+    domain: [growth, aquisicao]
+
+  - id: RH-MET-355
+    name: "Aplicação do RFM para Retenção"
+    steps:
+      - "Extraia dados de todos os clientes: data última compra, total de compras, valor total"
+      - "Classifique cada dimensão em 1-5 (quintis)"
+      - "R5F5M5 = seu melhor cliente (comprou recente, compra sempre, gasta muito)"
+      - "R1F1M1 = cliente perdido (não compra há tempo, comprou pouco, gastou pouco)"
+      - "Priorize retenção e upsell nos R4-5, F3-5 (clientes ativos e frequentes)"
+      - "Crie campanha de reativação para R1-2 (clientes que sumiram)"
+      - "Use como critério para saber se vale o custo de reter"
+    speaker: Guilherme Lippert
+    episode: "#149 RFM para o cliente ideal"
+    domain: [crm, segmentacao, retencao]
+
+  - id: RH-MET-356
+    name: "Abstração de Conhecimento (Como Aprender Melhor)"
+    steps:
+      - "Ao consumir conteúdo, não pergunte 'o que ele fez?'"
+      - "Pergunte 'COMO ele fez? Qual o mecanismo?'"
+      - "Isole o mecanismo do contexto específico (separe G4 do princípio)"
+      - "Teste se o mecanismo se generaliza: funciona no MEU contexto?"
+      - "Se sim, adapte e aplique. Se não, descarte"
+      - "Releia 5-10 livros fundamentais várias vezes ao invés de ler 50 novos"
+      - "Aplique dentro de 24h ou perderá 70% da informação"
+    speaker: Dener Lippert
+    episode: "#180 Como Aprender Melhor"
+    domain: [aprendizado, mindset]
+
+# ============================================================================
+# SUMMARY
+# ============================================================================
+
+summary:
+  total_elements: 80
+  by_layer:
+    L1_philosophies: 15
+    L2_mental_models: 14
+    L3_heuristics: 21
+    L4_frameworks: 11
+    L5_methodologies: 7
+  corrupted_files: 3
+  low_value_files: 1
+  usable_files: 16
+  key_themes:
+    - unit-economics (ARPU, LTV/CAC, ROAS vs lucro líquido)
+    - retencao-churn (5 Es, RFM, investigação acidente aéreo)
+    - melhoria-incremental (retrospectiva, reativação, empilhamento)
+    - documentacao-processos (3 níveis, consciência compartilhada)
+    - growth-mindset (abstração, hábitos, generalista vs especialista)
+    - forecast-planejamento (forecast reverso, payback period)
+  dominant_speakers:
+    - Dener Lippert (host, V4 Company CEO — maioria dos insights de negócio)
+    - Guilherme Lippert (co-host — processos, growth, hábitos)
+    - João Vitor (co-host — métricas, finanças)
+    - Ricardo Dominguez (co-host — jornada do cliente, retenção)

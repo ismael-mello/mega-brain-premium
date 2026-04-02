@@ -1,0 +1,893 @@
+# =============================================================================
+# ROI HUNTERS DNA — WAVE 3, BATCH AA
+# Episodes #118-#147 (30 files, 22 with extractable content)
+# Hosts: Dener Lippert, Guilherme Lippert, Joao Vitor, Ricardo M. Dominguez
+# Extracted: 2026-04-01
+# IDs: RH-PHI-600+, RH-MM-600+, RH-HEUR-600+, RH-FW-600+, RH-MET-600+
+# =============================================================================
+
+metadata:
+  wave: 3
+  batch: AA
+  episodes_scanned: 30
+  episodes_with_content: 22
+  episodes_corrupted_or_empty: 8  # 121, 146 (corrupted), PROIBIDO (thin), 118 (partially corrupted), 120, 128, 129, 132 (thin/lifestyle)
+  id_range:
+    philosophies: "RH-PHI-600 to RH-PHI-618"
+    mental_models: "RH-MM-600 to RH-MM-618"
+    heuristics: "RH-HEUR-600 to RH-HEUR-630"
+    frameworks: "RH-FW-600 to RH-FW-620"
+    methodologies: "RH-MET-600 to RH-MET-612"
+  total_elements: 89
+
+# =============================================================================
+# L1: PHILOSOPHIES
+# =============================================================================
+philosophies:
+
+  - id: RH-PHI-600
+    title: "Melhoria incremental constroi negocios solidos no longo prazo"
+    description: "A grande vantagem de um negocio pensando no longo prazo e melhoria incremental. Se todo dia tu observar e melhorar um pouquinho, vai ter um negocio que vai empilhar receita e se tornar grande. Quem quebra tudo e comeca do zero nao constroi algo solido."
+    tags: [growth, melhoria-continua, longo-prazo]
+    speaker: "Dener Lippert"
+    source_file: "transcription__119_-_O_Ciclo_de_Vida_da_Campanha.md"
+
+  - id: RH-PHI-601
+    title: "Escala versus rentabilidade — resultado liquido importa mais que ROAS"
+    description: "O pessoal ve ROAS caindo e desespera. Mas um ROAS 3 sobre 1 milhao de investimento (500k liquido) e infinitamente melhor que ROAS 10 sobre mil reais (4k liquido). O resultado financeiro liquido e o que importa, nao a eficiencia percentual."
+    tags: [escala, rentabilidade, roas, metricas]
+    speaker: "Dener Lippert / Guilherme Lippert"
+    source_file: "transcription__119_-_O_Ciclo_de_Vida_da_Campanha.md"
+
+  - id: RH-PHI-602
+    title: "A culpa e sempre sua — responsabilidade total"
+    description: "Independente do que aconteceu, a culpa e sempre sua. Nem que seja voce falar: fui incompetente em escolher quem ia trabalhar comigo. Fui incompetente em ter aceitado fazer isso. Trazer responsabilidade pra voce de tudo que existiu."
+    tags: [responsabilidade, lideranca, mindset]
+    speaker: "Dener Lippert"
+    source_file: "transcription__119_-_O_Ciclo_de_Vida_da_Campanha.md"
+
+  - id: RH-PHI-603
+    title: "Boca a boca pode ser digitalizado e controlado — marketing de indicacao"
+    description: "O boca a boca organico e passivo. Mas o comportamento natural do ser humano de indicar pode ser incentivado. Se voce estimular da forma certa, cria um canal de vendas previsivel, escalavel e lucrativo. Nao e mais boca a boca, e marketing de indicacao."
+    tags: [indicacao, referral, growth, previsibilidade]
+    speaker: "Rodrigo Noll"
+    source_file: "transcription__123_-_O_Boca___Boca_4_0___Rodrigo_Noll.md"
+
+  - id: RH-PHI-604
+    title: "CRM nao e email marketing — CRM e a melhor estrategia de marketing"
+    description: "CRM e muito mais que email marketing. E gestao de relacionamento com cliente em todas as fases. A maioria das empresas confunde CRM com disparo de email, quando deveria ser a espinha dorsal de toda a estrategia de retencao e monetizacao."
+    tags: [crm, retencao, lifecycle, estrategia]
+    speaker: "Augusto Rocha"
+    source_file: "transcription__139_-_CRM_n_o___E-mail_de_Marketing_.md"
+
+  - id: RH-PHI-605
+    title: "Processo e documentacao e padronizacao sao tres coisas diferentes"
+    description: "Tudo que voce faz e por definicao um processo. O processo padronizado e aquilo feito sempre da mesma forma com regras. E documentacao e descrever e guardar em algum lugar o que foi feito e como. Voce pode ter tudo padronizado sem documentacao e vice-versa."
+    tags: [processos, documentacao, padronizacao, gestao]
+    speaker: "Dener Lippert / Guilherme Lippert"
+    source_file: "transcription__122_-_Por_que_sua_empresa_deveria_ESCREVER_MAIS_.md"
+
+  - id: RH-PHI-606
+    title: "Empresas que escrevem vencem — documentar tudo muda o jogo"
+    description: "O diferencial do Notion no G4 foi quando a gente saiu de ficar so documentando Playbook para tudo. A empresa escreve TUDO que faz. Nao so processos, tudo. Esse foi o game changer da adocao real."
+    tags: [documentacao, notion, gestao-conhecimento, cultura]
+    speaker: "Dener Lippert"
+    source_file: "transcription__122_-_Por_que_sua_empresa_deveria_ESCREVER_MAIS_.md"
+
+  - id: RH-PHI-607
+    title: "Expectativa versus experiencia — gerencie expectativa, nao entrega"
+    description: "O maior churn vem pela expectativa desalinhada, nao pela entrega. Gestores culpam funcionarios pela entrega, mas a maior responsabilidade e alinhamento de expectativa. Se eu disser que vai demorar 1h e entregar em 30min, o cliente sai feliz."
+    tags: [experiencia-cliente, expectativa, cx, retencao]
+    speaker: "Carlos Busch"
+    source_file: "transcription__126_-_A_experi_ncia_do_cliente_SEM_tecnologia_com_Carlos_Busch.md"
+
+  - id: RH-PHI-608
+    title: "Adquirir, reter e monetizar — tres coisas que realmente importam"
+    description: "Tres coisas que realmente importam para qualquer negocio: adquirir cliente, reter cliente e monetizar cliente. Cliente nao e so quem paga — e quem esta te dando atencao. Voce pode estruturar uma empresa inteira em torno desses tres pilares."
+    tags: [saas, retencao, monetizacao, aquisicao, metricas]
+    speaker: "Dener Lippert"
+    source_file: "transcription__137_-_M_tricas_para_escalar_o_seu_neg_cio.md"
+
+  - id: RH-PHI-609
+    title: "Modelo de negocio importa mais que marketing — distribuicao vence"
+    description: "Todos os negocios de sucesso fizeram muita diferenca pelo modelo de negocio. Spotify e nada mais que Limewire com esteroides — o produto e comodite, a magia esta no modelo de distribuicao. Quando o modelo de negocio e certinho, o trafego fica facil."
+    tags: [modelo-negocio, distribuicao, estrategia, diferenciacao]
+    speaker: "Dener Lippert / Ricardo Dominguez"
+    source_file: "transcription__136_-_7_de_55_Modelos_de_neg_cios_para_alavancar_o_seu_faturamento.md"
+
+  - id: RH-PHI-610
+    title: "A segunda compra e a mais importante — jornada pos-aquisicao"
+    description: "A jornada do cliente e muito mais que aquisicao e primeira compra. O foco tem que ser na segunda compra, no upsell. A maioria gasta toda energia na aquisicao e negligencia completamente o que vem depois."
+    tags: [jornada-cliente, segunda-compra, ltv, retencao]
+    speaker: "Guilherme Lippert / Ricardo Dominguez"
+    source_file: "transcription__145_-_A_segunda_compra___a_mais_importante_.md"
+
+  - id: RH-PHI-611
+    title: "Investigacao de churn como acidente aereo — buscar melhoria, nao culpado"
+    description: "Investigacao de acidente de aviao nao busca culpado, ela busca entender o que aconteceu para nao repetir. O output nao e punicao, o output e backlog de melhorias. Todo cancelamento tem motivo, e esse motivo e uma melhoria para nao repetir."
+    tags: [churn, melhoria, investigacao, processos]
+    speaker: "Dener Lippert"
+    source_file: "transcription__119_-_O_Ciclo_de_Vida_da_Campanha.md"
+
+  - id: RH-PHI-612
+    title: "Generalistas vencem no longo prazo, especialistas no inicio de carreira"
+    description: "No inicio da carreira e conveniente ser especialista. Mas o generalista que conecta pontos, que vem com horas de voo, e quem constroi negocios. O T-Shaped e o ideal: profundo em uma coisa, largo em varias."
+    tags: [carreira, generalista, especialista, t-shaped]
+    speaker: "Guilherme Lippert / Ricardo Dominguez"
+    source_file: "transcription__135_-_Generalista_ou_Especialista__O_Criativo_Vence_.md"
+
+  - id: RH-PHI-613
+    title: "Base passiva e negligenciada — seus leads antigos sao ouro"
+    description: "A base de leads passiva costuma ser muito negligenciada. Voce empreendedor digital, esta tentando extrair o maximo ou engajar sua base de leads? Normalmente nao. Essa base passiva e uma das maiores oportunidades de monetizacao."
+    tags: [leads, base-passiva, monetizacao, email]
+    speaker: "Dener Lippert"
+    source_file: "transcription__137_-_M_tricas_para_escalar_o_seu_neg_cio.md"
+
+  - id: RH-PHI-614
+    title: "Web analytics e a area mais negligenciada do marketing digital brasileiro"
+    description: "Dentro de todas as disciplinas do marketing digital, analytics e onde existe o maior gap. Poucos profissionais dominam, a maioria faz nas coxas ou nao sabe fazer. Especialmente no Brasil, o gap e enorme."
+    tags: [analytics, dados, gap, marketing-digital]
+    speaker: "Ricardo Dominguez / Gustavo Esteves"
+    source_file: "transcription__130_-Web_Analytics___MUITO_MAIS_que_um_gr_fico_bonitinho_.md"
+
+  - id: RH-PHI-615
+    title: "Nao precisa passar na prova de contabilidade — busque o insight"
+    description: "A galera fica perguntando como calcula isso ou aquilo com rigor contabil. Nao precisa passar na prova de contabilidade. O objetivo e gerar um insight que te ajude a tomar decisao. Bota o custo do time de marketing no CAC se isso te da uma resposta util."
+    tags: [metricas, pragmatismo, insight, gestao]
+    speaker: "Dener Lippert"
+    source_file: "transcription__142_-_ARPU_X_Gross_Margin___CAC___ROI.md"
+
+  - id: RH-PHI-616
+    title: "Servico e sempre a quatro maos — mas nao duas da agencia e duas de Deus"
+    description: "O servico de marketing funciona a quatro maos: prestador + cliente. Nao adianta tratar o time terceirizado como se fosse obrigacao deles resolver tudo sozinho. O cliente precisa participar ativamente."
+    tags: [servico, agencia, colaboracao, expectativa]
+    speaker: "Guilherme Lippert"
+    source_file: "transcription__131_-_Gest_o_de_times_Marketing_e_Growth.md"
+
+  - id: RH-PHI-617
+    title: "Todo ser humano deve estudar copywriting — muda a vida"
+    description: "Copywriter exige um perfil especial para ser senior. Mas todo ser humano deveria estudar copy. Sua vida vai ser muito mais rica. E como academia: qualquer um pode treinar, mas ser Mr. Olympia exige ser especial."
+    tags: [copywriting, estudo, carreira, comunicacao]
+    speaker: "Rocky Vega"
+    source_file: "transcription__134_-_Copywriting___BEM_MAIS_SIMPLES_do_que_voc__pensa__Com_Rocky_Vega.md"
+
+  - id: RH-PHI-618
+    title: "Teoria so vira valor quando vira acao — insight precisa de judu"
+    description: "Estudar sem aplicar e desperdicio. Todo insight precisa ter um 'o que fazer' (judu). Nao e todo conhecimento que tem judu, mas o processo de separar insight de acao e o que transforma teoria em pratica."
+    tags: [estudo, aplicacao, judu, produtividade]
+    speaker: "Joao Vitor"
+    source_file: "transcription__147_-_Voc__consegue_praticar_aquilo_que_estuda_.md"
+
+# =============================================================================
+# L2: MENTAL MODELS
+# =============================================================================
+mental_models:
+
+  - id: RH-MM-600
+    title: "Ciclo de vida da campanha — tudo tem curva de ascensao e declinio"
+    description: "Criativos, campanhas e conteudos seguem um ciclo de vida: ascensao, pico, declinio. Mas o declinio nao e morte — apos 3 meses parado, a mesma campanha pode reviver com nova curva. Publicos se renovam, memoria e curta."
+    tags: [campanha, ciclo-vida, criativo, reativacao]
+    speaker: "Guilherme Lippert / Dener Lippert"
+    source_file: "transcription__119_-_O_Ciclo_de_Vida_da_Campanha.md"
+
+  - id: RH-MM-601
+    title: "Builder vs Keeper — dois perfis essenciais no negocio"
+    description: "Tem momento para ser Builder (construtor) e momento para ser Keeper (mantenedor/melhorador). Se voce for so um dos dois, dificilmente constroi um grande negocio. Precisa ter os dois no time ou saber alternar."
+    tags: [gestao, perfis, builder, keeper]
+    speaker: "Dener Lippert"
+    source_file: "transcription__119_-_O_Ciclo_de_Vida_da_Campanha.md"
+
+  - id: RH-MM-602
+    title: "Pareto do programa de indicacao — 80% indica 0 ou 1"
+    description: "No programa de indicacao, 80% das pessoas vao indicar zero ou um. Sua missao e tirar as pessoas do zero e levar para um, do um para dois. A maior parte nao entra no funil — entao facilite a entrada."
+    tags: [indicacao, pareto, referral, conversao]
+    speaker: "Rodrigo Noll"
+    source_file: "transcription__123_-_O_Boca___Boca_4_0___Rodrigo_Noll.md"
+
+  - id: RH-MM-603
+    title: "Economia compartilhada de time — pagar por dedicacao necessaria"
+    description: "Um gestor de trafego senior dedicado custa 20k. Compartilhado com 10 empresas, 2k. Com 5, 4k. Com 3, 7k. Quanto menos compartilhado, mais caro. Decida quanta dedicacao precisa. Comece compartilhado, evolua para dedicado conforme resultado."
+    tags: [time, custo, compartilhado, dedicado, agencia]
+    speaker: "Guilherme Lippert"
+    source_file: "transcription__125_-_Os_Fundamentos_de_um_Time_de_Growth.md"
+
+  - id: RH-MM-604
+    title: "Miopia do marketing — customer-centric vence product-centric"
+    description: "Empresas da revolucao industrial eram orientadas ao produto: desenvolviam algo e pensavam como vender. Normalmente fracassavam. O negocio precisa ser customer-centric: pensar no mercado, ver o que quer e desenvolver assim."
+    tags: [marketing, produto, customer-centric, estrategia]
+    speaker: "Ricardo Dominguez"
+    source_file: "transcription__136_-_7_de_55_Modelos_de_neg_cios_para_alavancar_o_seu_faturamento.md"
+
+  - id: RH-MM-605
+    title: "Estrategia do Outback — confrontar expectativa para surpreender"
+    description: "Outback te faz esperar 40-60min na fila. Quando senta, pao quente na mesa e atendimento rapido. A expectativa de demora e confrontada com rapidez. O cliente sai feliz nao porque tudo foi perfeito, mas porque surpreendeu nos momentos certos."
+    tags: [cx, expectativa, surpresa, momentos-cruciais]
+    speaker: "Carlos Busch"
+    source_file: "transcription__126_-_A_experi_ncia_do_cliente_SEM_tecnologia_com_Carlos_Busch.md"
+
+  - id: RH-MM-606
+    title: "Rituais de cliente — tribo, nao transacao"
+    description: "Criar rituais para o cliente se sentir parte de uma tribo, nao de uma transacao. Rituais encapsulam varios elementos: quando entra, quando atinge resultado, quando completa etapa. O cliente se sente parte de um ecossistema, nao um comprador."
+    tags: [cx, rituais, comunidade, retencao]
+    speaker: "Carlos Busch"
+    source_file: "transcription__126_-_A_experi_ncia_do_cliente_SEM_tecnologia_com_Carlos_Busch.md"
+
+  - id: RH-MM-607
+    title: "Tres visoes de metricas — contabil, gerencial e de insight"
+    description: "Voce tem tres visoes: 1) Contabil (lei, FRS/GAAP, obrigatorio perante Estado). 2) Gerencial (como voce monta internamente para gestao). 3) De insight (pragmatica, o que te da informacao para decidir). A terceira e a mais importante no dia a dia."
+    tags: [metricas, contabilidade, gestao, pragmatismo]
+    speaker: "Joao Vitor / Dener Lippert"
+    source_file: "transcription__142_-_ARPU_X_Gross_Margin___CAC___ROI.md"
+
+  - id: RH-MM-608
+    title: "Commodizacao vs descommodizacao — padrao vira comodite"
+    description: "Quando tudo fica muito igual e padronizado, vira comodidade e clientes param de pagar premium. O desafio e descommodizar: criar algo que se destaque. Artigos sobre interdependencia vs modularidade e inovacao disruptiva vs incremental completam o modelo."
+    tags: [diferenciacao, comodite, pricing, inovacao]
+    speaker: "Joao Vitor"
+    source_file: "transcription__143_-_5_Es_para_diminuir_o_Churn_.md"
+
+  - id: RH-MM-609
+    title: "Cohort analysis — o melhor pulso da qualidade do cliente"
+    description: "Graficos de safra (cohort) sao o melhor indicador de qualidade do cliente. Compare o primeiro mes do cliente de hoje com o de 2 anos atras. Lei dos grandes numeros: tire a media. Se a safra melhora consistentemente, o negocio esta saudavel."
+    tags: [cohort, safra, retencao, metricas, qualidade]
+    speaker: "Dener Lippert / Guilherme Lippert"
+    source_file: "transcription__137_-_M_tricas_para_escalar_o_seu_neg_cio.md"
+
+  - id: RH-MM-610
+    title: "Nao existe consciente coletivo sobre marketing — oportunidade"
+    description: "Quando fala carro, todo mundo sabe do que esta falando. Quando fala marketing, cada um pensa algo diferente. Nao e universal ainda. Isso cria expectativas discrepantes de todos os lados. Quem resolver essa clareza domina o setor."
+    tags: [marketing, educacao, mercado, oportunidade]
+    speaker: "Dener Lippert"
+    source_file: "transcription__131_-_Gest_o_de_times_Marketing_e_Growth.md"
+
+  - id: RH-MM-611
+    title: "Insight + O que fazer = Judu — formato de anotacao que gera acao"
+    description: "Ao estudar, separar: o Insight (o que aprendi), e o O Que Fazer (judu — acao concreta). Nem todo insight tem judu, mas o processo de separar os dois e o que transforma estudo em resultado. Usar Notion/ferramenta para catalogar."
+    tags: [estudo, judu, acao, produtividade, notion]
+    speaker: "Joao Vitor"
+    source_file: "transcription__147_-_Voc__consegue_praticar_aquilo_que_estuda_.md"
+
+  - id: RH-MM-612
+    title: "Analise de composicao de canais — problema pode ser organico, nao midia"
+    description: "Cliente faturou menos e culpa a agencia. Mas usando analytics, descobre que midia estava ok — o que caiu 50% foi organico. Sem analytics configurado, nao teria descoberto. Analise de composicao de canais e essencial para diagnostico correto."
+    tags: [analytics, diagnostico, canais, organico, midia]
+    speaker: "Guilherme Lippert / Gustavo Esteves"
+    source_file: "transcription__130_-Web_Analytics___MUITO_MAIS_que_um_gr_fico_bonitinho_.md"
+
+  - id: RH-MM-613
+    title: "Profissional dedicado vs cavalo de 10 segundos vs 10 horas"
+    description: "Desenha um cavalo em 10 segundos = sai zoado. Desenha em 10 horas = 8h estudando anatomia, 2h desenhando, sai top. Profissional dedicado tem tempo de estudar o contexto e fazer melhor. Freelancer com muitos projetos e o cavalo de 10 segundos."
+    tags: [dedicacao, qualidade, tempo, freelancer, agencia]
+    speaker: "Guilherme Lippert"
+    source_file: "transcription__134_-_Copywriting___BEM_MAIS_SIMPLES_do_que_voc__pensa__Com_Rocky_Vega.md"
+
+  - id: RH-MM-614
+    title: "PROFE — cliente de alto valor na V4"
+    description: "PROFE = cliente com ticket medio alto, margem de contribuicao alta, volume de investimento para contratar V4, e LTV elevado. Analisar cohort por tipo de cliente (ecommerce vs infoproduto) para mirar forcas de venda no ICP com melhor retencao."
+    tags: [icp, segmentacao, profe, retencao, v4]
+    speaker: "Vinicius Colli / Gustavo Figueiredo"
+    source_file: "transcription__144_-_Como_encontrar_bons_clientes__Com_Vinicius_Colli_e_Gustavo_Figueiredo.md"
+
+  - id: RH-MM-615
+    title: "Trust Advisory — transformar vendedor em consultor confiavel do cliente"
+    description: "O cara que faz follow-up pos-venda, pergunta como ficou, pede fotos. Nao e so pos-venda, e se tornar o consultor confiavel do cliente. Funcao chamada Trust Advisory na V4: quem cuida da confianca do cliente na jornada."
+    tags: [cx, trust, advisory, pos-venda, retencao]
+    speaker: "Guilherme Lippert"
+    source_file: "transcription__141_-_Neg_cio_familiar__como_escalar_no_varejo_.md"
+
+  - id: RH-MM-616
+    title: "Negativacao na jornada — nao oferecer o que o cliente ja comprou"
+    description: "O cliente acabou de comprar dois tenis de corrida. Nao mande oferta de outro tenis. Negative esse cliente da jornada de tenis. Jornadas massificadas ignoram isso e geram percepcao de empresa burra ou gananciosa."
+    tags: [jornada, crm, personalizacao, cx]
+    speaker: "Ricardo Dominguez / Guilherme Lippert"
+    source_file: "transcription__145_-_A_segunda_compra___a_mais_importante_.md"
+
+  - id: RH-MM-617
+    title: "XP como modelo: multiplas marcas para multiplos ICPs"
+    description: "XP percebeu que seu produto nao atendia todos os clientes e criou Rico, Clear. Customer-centric: eu nao mudo o cliente, mudo minha oferta. AmBev nao faz cerveja ruim para vender barato — vende cerveja que as pessoas querem e cria marcas novas para outros gostos."
+    tags: [multi-marca, icp, segmentacao, customer-centric]
+    speaker: "Ricardo Dominguez"
+    source_file: "transcription__136_-_7_de_55_Modelos_de_neg_cios_para_alavancar_o_seu_faturamento.md"
+
+  - id: RH-MM-618
+    title: "Academia Smart Fit como modelo de negocio — mesmo produto, modelo diferente"
+    description: "Academia tradicional e dificil de escalar com marketing. Smart Fit pegou o mesmo produto e mudou o modelo: low cost, self-service, escala. O trafego fica facil quando o modelo de negocio e diferenciado."
+    tags: [modelo-negocio, smart-fit, low-cost, diferenciacao]
+    speaker: "Dener Lippert"
+    source_file: "transcription__136_-_7_de_55_Modelos_de_neg_cios_para_alavancar_o_seu_faturamento.md"
+
+# =============================================================================
+# L3: HEURISTICS
+# =============================================================================
+heuristics:
+
+  - id: RH-HEUR-600
+    title: "ROAS alto (>5x) = provavelmente esta investindo pouco"
+    description: "Se o ROAS e muito grande, acima de 3, 4, 5, provavelmente esta investindo pouco. Um ROAS 2 sobre 1M de investimento gera 1M de margem. Um ROAS 10 sobre 1k gera 4k. O ROAS alto e sinal de oportunidade de escalar, nao de sucesso."
+    value: ">5x ROAS = investindo pouco"
+    tags: [roas, escala, investimento, midia]
+    speaker: "Guilherme Lippert"
+    source_file: "transcription__119_-_O_Ciclo_de_Vida_da_Campanha.md"
+
+  - id: RH-HEUR-601
+    title: "Reativar criativos a cada 3 meses — ciclo de vida do criativo"
+    description: "Criativo entrou em declinio ha 3 meses? Reative. O publico se renovou, novos seguidores chegaram, ninguem lembra. Antes de criar algo novo, verifique o historico. Literalmente ativar o mesmo criativo pode funcionar."
+    value: "A cada 3 meses revisar criativos inativos"
+    tags: [criativos, reativacao, ciclo-vida, performance]
+    speaker: "Dener Lippert"
+    source_file: "transcription__119_-_O_Ciclo_de_Vida_da_Campanha.md"
+
+  - id: RH-HEUR-602
+    title: "Retrospectiva mensal obrigatoria — evento recorrente de 1h"
+    description: "A cada 30 dias, marcar na agenda um evento recorrente de 1 hora chamado Retrospectiva. Olhar historico: o que deu certo para expandir ou reativar? O que deu errado para nao repetir? E o jeito facil de sair da inercia."
+    value: "1h/mes de retrospectiva obrigatoria"
+    tags: [processo, retrospectiva, melhoria, ritmo]
+    speaker: "Dener Lippert"
+    source_file: "transcription__119_-_O_Ciclo_de_Vida_da_Campanha.md"
+
+  - id: RH-HEUR-603
+    title: "Estresse o canal que funciona antes de abrir outro"
+    description: "Google esta dando certo? Coloca mais, coloca mais, coloca mais, ate comecar a dar indicios de saturacao ou declinio. So depois tente outro canal. A galera dispersa energia tentando multiplos canais sem esgotar o que ja funciona."
+    value: "Escalar canal atual ate saturacao antes de diversificar"
+    tags: [canais, escala, foco, performance]
+    speaker: "Dener Lippert"
+    source_file: "transcription__119_-_O_Ciclo_de_Vida_da_Campanha.md"
+
+  - id: RH-HEUR-604
+    title: "90% do tempo as pessoas ficam no feed — so 10% entra no perfil"
+    description: "Com 39k seguidores, so 3k visitas no perfil por semana. Menos de 10% entra no perfil. 90% fica no feed/stories. Implicacao: nao dependa do perfil pra converter, use o feed."
+    value: "<10% dos seguidores visitam perfil por semana"
+    tags: [instagram, metricas, comportamento, feed]
+    speaker: "Guilherme Lippert"
+    source_file: "transcription__119_-_O_Ciclo_de_Vida_da_Campanha.md"
+
+  - id: RH-HEUR-605
+    title: "Primeira recompensa na primeira indicacao — baixa barreira de entrada"
+    description: "Nunca coloque a primeira recompensa depois de 5 indicacoes. Coloque na primeira. Dobrei resultado de programa de indicacao apenas mudando de 2 indicacoes para 1 como gatilho da primeira recompensa."
+    value: "Primeira recompensa = primeira indicacao (nao segunda)"
+    tags: [indicacao, referral, gamification, conversao]
+    speaker: "Rodrigo Noll"
+    source_file: "transcription__123_-_O_Boca___Boca_4_0___Rodrigo_Noll.md"
+
+  - id: RH-HEUR-606
+    title: "Melhor recompensa no meio da escada, nao no topo"
+    description: "Contraintuitivo: a recompensa mais desejada deve vir no MEIO da escada de premios, nao no topo. 80% indica 0 ou 1. Se a melhor recompensa esta la em cima, desmotiva a massa. A missao e tirar do zero para um."
+    value: "Melhor premio no meio da escada, nao no topo"
+    tags: [indicacao, gamification, escada-premios, psicologia]
+    speaker: "Rodrigo Noll"
+    source_file: "transcription__123_-_O_Boca___Boca_4_0___Rodrigo_Noll.md"
+
+  - id: RH-HEUR-607
+    title: "Copy e mais importante que recompensa em programa de indicacao"
+    description: "A copia (como voce comunica o programa) e a coisa mais importante. A recompensa e a segunda. Ao contrario do que as pessoas pensam, nao e a recompensa que faz o programa funcionar, e como voce pede a indicacao."
+    value: "Copy > Recompensa em programa de indicacao"
+    tags: [indicacao, copy, comunicacao, referral]
+    speaker: "Rodrigo Noll"
+    source_file: "transcription__123_-_O_Boca___Boca_4_0___Rodrigo_Noll.md"
+
+  - id: RH-HEUR-608
+    title: "4 disciplinas base de growth — trafego, design, copy, BI"
+    description: "Na V4, as 4 disciplinas base de um time de growth sao: trafego (midia), design (visual), copywriting (texto) e BI (dados/analytics). Gestor de projetos entra em projetos dedicados mais complexos."
+    value: "4 disciplinas: trafego + design + copy + BI"
+    tags: [time, growth, disciplinas, estrutura]
+    speaker: "Guilherme Lippert / Ricardo Dominguez"
+    source_file: "transcription__125_-_Os_Fundamentos_de_um_Time_de_Growth.md"
+
+  - id: RH-HEUR-609
+    title: "Gestor de trafego senior dedicado custa ~20k/mes"
+    description: "Para ter um gestor de trafego senior, dedicado, internamente, vai custar na casa de 20 mil reais por mes com todos os custos trabalhistas. O custo de oportunidade e muito alto — por isso a economia compartilhada faz sentido."
+    value: "~R$20k/mes para gestor de trafego senior dedicado"
+    tags: [custo, contratacao, trafego, time]
+    speaker: "Guilherme Lippert"
+    source_file: "transcription__125_-_Os_Fundamentos_de_um_Time_de_Growth.md"
+
+  - id: RH-HEUR-610
+    title: "ARPU x Gross Margin / CAC = ROI — formula definitiva"
+    description: "A formula que a V4 usa no topo da piramide para julgar um bom negocio: ARPU (receita media por usuario) vezes Gross Margin (margem bruta) dividido por CAC (custo de aquisicao) = ROI do negocio. Nao e rigor contabil, e insight gerencial."
+    value: "ARPU x Gross Margin / CAC = ROI"
+    tags: [metricas, roi, formula, unit-economics]
+    speaker: "Dener Lippert"
+    source_file: "transcription__142_-_ARPU_X_Gross_Margin___CAC___ROI.md"
+
+  - id: RH-HEUR-611
+    title: "Investir 1k com ROI 10 < Investir 1M com ROI 2"
+    description: "ROI 10 sobre 1k = 9k de margem. ROI 2 sobre 1M = 1M de margem de contribuicao. O resultado liquido de ROI 2 sobre investimento alto e 100x melhor. Pare de otimizar ROAS percentual e otimize resultado absoluto."
+    value: "Resultado liquido absoluto > eficiencia percentual"
+    tags: [roi, escala, investimento, resultado-liquido]
+    speaker: "Guilherme Lippert / Dener Lippert"
+    source_file: "transcription__142_-_ARPU_X_Gross_Margin___CAC___ROI.md"
+
+  - id: RH-HEUR-612
+    title: "Contabilidade para 400 reais de LTV — calcule na simplicidade"
+    description: "Cliente de contabilidade paga R$400/mes. Fica 15 meses (LTV = R$6k). Se CAC foi R$500, o LTV/CAC e 12x. Margem de 50% = R$3k de margem no lifetime. Sobre R$500 de CAC = 6x de retorno. Simples, direto."
+    value: "LTV/CAC simples: ticket x meses x margem / CAC"
+    tags: [ltv, cac, unit-economics, exemplo]
+    speaker: "Dener Lippert"
+    source_file: "transcription__137_-_M_tricas_para_escalar_o_seu_neg_cio.md"
+
+  - id: RH-HEUR-613
+    title: "Infoproduto tem retencao baixa — ecommerce retencao de 8-10 meses"
+    description: "Na V4, infoproduto nunca teve retencao alta: faz lancamento, toma churn. Ecommerce tem lifetime de 8-9-10 meses na base. Conclusao: mirar forcas de venda para ecommerce aumenta LTV automaticamente."
+    value: "Ecommerce ~8-10 meses retencao vs infoproduto muito menor"
+    tags: [retencao, cohort, ecommerce, infoproduto, v4]
+    speaker: "Vinicius Colli"
+    source_file: "transcription__144_-_Como_encontrar_bons_clientes__Com_Vinicius_Colli_e_Gustavo_Figueiredo.md"
+
+  - id: RH-HEUR-614
+    title: "XP tem mais de 100 jornadas micro de CRM"
+    description: "A XP tem mais de 100 jornadas micro de CRM configuradas. Nao e uma jornada so. Sao dezenas de micro-jornadas personalizadas por comportamento, produto, momento. Isso e o que gera retencao de verdade."
+    value: ">100 jornadas de CRM na XP"
+    tags: [crm, jornada, personalizacao, escala]
+    speaker: "Ricardo Dominguez"
+    source_file: "transcription__145_-_A_segunda_compra___a_mais_importante_.md"
+
+  - id: RH-HEUR-615
+    title: "20% do tempo no Instagram ja e dedicado a Reels"
+    description: "Meta declarou que 20% do tempo das pessoas no Instagram e dedicado a Reels e 50% a video. Implicacao: alocacao de budget de anuncios deveria refletir isso — proximo de 20% ou mais em Reels."
+    value: "20% tempo Instagram = Reels; 50% = video"
+    tags: [instagram, reels, alocacao, midia]
+    speaker: "Joao Vitor"
+    source_file: "transcription__147_-_Voc__consegue_praticar_aquilo_que_estuda_.md"
+
+  - id: RH-HEUR-616
+    title: "Frequencia de exposicao importa mais que alcancar mais gente"
+    description: "Melhor comprar 10 insercoes no programa mais barato do que 1 insercao no Jornal da Globo. Voce nao consegue fazer o cara lembrar com uma so exposicao. Frequencia > alcance unico."
+    value: "10 exposicoes baratas > 1 exposicao cara"
+    tags: [frequencia, midia, exposicao, recall]
+    speaker: "Guilherme Lippert"
+    source_file: "transcription__119_-_O_Ciclo_de_Vida_da_Campanha.md"
+
+  - id: RH-HEUR-617
+    title: "Mapear historico de acoes — playbook de reciclagem"
+    description: "Growth Checklist item: mapear historico de pelo menos 3-6 meses de tudo que fez, deu certo e deu errado. Proxima vez que precisar de resultado, voltar nessa lista. Quase sempre da pra replicar algo que ja funcionou."
+    value: "Manter lista historica 3-6 meses de acoes + resultados"
+    tags: [growth, checklist, historico, playbook]
+    speaker: "Dener Lippert"
+    source_file: "transcription__119_-_O_Ciclo_de_Vida_da_Campanha.md"
+
+  - id: RH-HEUR-618
+    title: "Ponto de breakeven de caixa em bar/restaurante: ~8 meses"
+    description: "Bar conceitual com ticket alto e sem marketing digital tradicional (membro indica membro) conseguiu virar a chave de caixa negativo para positivo em mais ou menos 8 meses. Referencia para negocios experienciais."
+    value: "~8 meses para breakeven em negocio experiencial"
+    tags: [breakeven, restaurante, caixa, timeline]
+    speaker: "Convidado (bar)"
+    source_file: "transcription___PROIBIDO_USAR_O_CELULAR_NESTE_BAR_.md"
+
+  - id: RH-HEUR-619
+    title: "Custo por uso e a metrica real de qualidade de produto"
+    description: "Camiseta que dura 3x mais tem custo por uso muito menor, mesmo custando mais. Aplicar logica de custo por uso a qualquer produto ou servico — nao e o preco absoluto, e o valor por uso no tempo."
+    value: "Custo por uso = preco / numero de usos no tempo"
+    tags: [pricing, valor, custo-por-uso, produto]
+    speaker: "Guilherme Lippert"
+    source_file: "transcription__145_-_A_segunda_compra___a_mais_importante_.md"
+
+  - id: RH-HEUR-620
+    title: "McDonald's: 66 franqueados, nenhum com menos de 15 anos"
+    description: "McDonald's Brasil tem 66 franqueados, todos com mais de 15 anos de experiencia. Franqueados nao sao descartaveis — sao parceiros de longo prazo. Qualidade > quantidade no modelo de franquias premium."
+    value: "66 franqueados, 15+ anos cada no McDonalds BR"
+    tags: [franquias, mcdonalds, longo-prazo, qualidade]
+    speaker: "Joao Branco (CMO McDonalds)"
+    source_file: "transcription__138_-_Muito_al_m_do_Big_Mac__Com_Jo_o_Branco.md"
+
+# =============================================================================
+# L4: FRAMEWORKS
+# =============================================================================
+frameworks:
+
+  - id: RH-FW-600
+    title: "Framework Retrospectiva + Documentacao para Melhoria Continua"
+    description: |
+      1. Documentar TUDO (nao so playbooks — reunioes, decisoes, resultados)
+      2. A cada 30 dias: retrospectiva de 1h (o que deu certo, o que nao)
+      3. Ter uma lista historica de acoes + resultados (3-6 meses)
+      4. Proxima acao = primeiro buscar na lista o que ja funcionou
+      5. So criar algo novo se nada da lista se aplica
+      Inspiracao: processo de investigacao de acidentes aereos
+    steps: ["Documentar tudo", "Retrospectiva mensal 1h", "Lista historica 3-6 meses", "Buscar replicaveis primeiro", "Criar novo so se necessario"]
+    tags: [melhoria-continua, documentacao, retrospectiva, processos]
+    speaker: "Dener Lippert"
+    source_file: "transcription__119_-_O_Ciclo_de_Vida_da_Campanha.md"
+
+  - id: RH-FW-601
+    title: "Programa de Indicacao — 3 Pilares de Rodrigo Noll"
+    description: |
+      Pilar 1: MECANICA — tipo (unitario ou escada), gatilho (lead ou venda), baixa barreira de entrada
+      Pilar 2: RECOMPENSAS — pesquisa quantitativa com clientes, melhor premio no meio da escada, nao no topo
+      Pilar 3: ATIVACAO — como comunicar o programa (copy > recompensa)
+      Tripe: Momento certo x Mensagem certa x Canal certo
+      Regra: primeira recompensa na primeira indicacao
+    steps: ["Definir mecanica (tipo + gatilho)", "Pesquisar recompensas com base", "Posicionar melhor premio no meio", "Ativar com copy certa no momento certo"]
+    tags: [indicacao, referral, programa, mecanica, recompensa]
+    speaker: "Rodrigo Noll"
+    source_file: "transcription__123_-_O_Boca___Boca_4_0___Rodrigo_Noll.md"
+
+  - id: RH-FW-602
+    title: "4 Disciplinas do Time de Growth (V4)"
+    description: |
+      1. TRAFEGO (Midia Paga) — aquisicao de visitantes
+      2. DESIGN — visual, LP, criativos
+      3. COPYWRITING — textos persuasivos, headlines, scripts
+      4. BI (Analytics) — dados, metricas, otimizacao
+      + Gestor de Projetos para contas dedicadas complexas
+      Niveis: V1 (compartilhado) → V2 (semi-dedicado) → V3 (dedicado)
+    steps: ["Trafego", "Design", "Copywriting", "BI", "Gestor de Projetos (grandes contas)"]
+    tags: [time, growth, estrutura, v4, disciplinas]
+    speaker: "Guilherme Lippert / Ricardo Dominguez"
+    source_file: "transcription__125_-_Os_Fundamentos_de_um_Time_de_Growth.md"
+
+  - id: RH-FW-603
+    title: "5 Es para Diminuir o Churn"
+    description: |
+      1. EXPECTATION (Expectativa) — alinhar expectativa desde a venda
+      2. EDUCATION (Educacao) — educar o cliente continuamente, nao so no onboarding
+      3. EDITION (Edicao/Personalizacao) — personalizar entrega para cada cliente
+      4. EXPERIENCE (Experiencia) — criar rituais e momentos cruciais
+      5. EVOLUTION (Evolucao) — melhoria continua baseada em feedback
+      Conceitos relacionados: interdependencia vs modularidade, commodizacao vs descommodizacao, inovacao disruptiva vs incremental
+    steps: ["Expectation", "Education", "Edition", "Experience", "Evolution"]
+    tags: [churn, retencao, 5es, framework, cx]
+    speaker: "Dener Lippert / Guilherme Lippert / Joao Vitor"
+    source_file: "transcription__143_-_5_Es_para_diminuir_o_Churn_.md"
+
+  - id: RH-FW-604
+    title: "Formula ARPU x Gross Margin / CAC = ROI"
+    description: |
+      Nao e rigor contabil — e insight gerencial.
+      ARPU = receita media por usuario (pode ser ticket medio ou LTV)
+      Gross Margin = margem bruta (% que sobra apos custos variaveis)
+      CAC = custo de aquisicao do cliente (inclui midia + time + comissao)
+      ROI = retorno sobre investimento
+
+      Exemplo: R$10k ARPU x 50% margem / R$1k CAC = ROI 5x
+
+      Se ROI muito alto (>5x) = provavelmente investindo pouco, escalar
+      Se ROI negativo mas investimento baixo = testar com mais investimento
+    steps: ["Calcular ARPU", "Calcular Gross Margin %", "Calcular CAC total", "Dividir: (ARPU x GM) / CAC", "Decidir: escalar ou otimizar"]
+    tags: [metricas, roi, formula, unit-economics, decisao]
+    speaker: "Dener Lippert / Guilherme Lippert / Joao Vitor"
+    source_file: "transcription__142_-_ARPU_X_Gross_Margin___CAC___ROI.md"
+
+  - id: RH-FW-605
+    title: "Jornada do Cliente — Desenho de Micro-Jornadas"
+    description: |
+      1. Comece pelos dados: quais jornadas reais ocorrem?
+      2. Identifique: o que gera melhor LTV? O que traz melhores clientes?
+      3. Fomentar as jornadas que performam melhor
+      4. Desenhar no Miro → virar fluxo de CRM (Salesforce, etc.)
+      5. Criar micro-jornadas complementares (XP tem 100+)
+      6. Negativar clientes: nao oferecer o que ja comprou
+      7. Mapear momentos cruciais (killer points) da experiencia
+    steps: ["Analisar dados historicos", "Mapear jornadas existentes", "Priorizar por LTV", "Desenhar em Miro", "Implementar em CRM", "Criar micro-jornadas", "Negativar quando apropriado"]
+    tags: [jornada, crm, ltv, micro-jornadas, personalizacao]
+    speaker: "Ricardo Dominguez / Guilherme Lippert"
+    source_file: "transcription__145_-_A_segunda_compra___a_mais_importante_.md"
+
+  - id: RH-FW-606
+    title: "7 Modelos de Negocio para Alavancar Faturamento"
+    description: |
+      Discussao de 7 dos 55 modelos mapeados:
+      1. FRANQUIAS (V4, McDonalds) — escala via operadores
+      2. ASSINATURA/RECORRENCIA (Spotify, Minimal Club) — previsibilidade
+      3. MARKETPLACE (Airbnb, Uber) — conectar oferta e demanda
+      4. FREEMIUM (Spotify free → premium) — base grande, conversao parcial
+      5. LOW COST / SELF-SERVICE (Smart Fit) — volume com margem menor
+      6. ASSESSOR/REPRESENTANTE (XP Investimentos) — distribuicao via pessoas
+      7. MULTI-MARCA (AmBev, XP/Rico/Clear) — mesmo dono, marcas diferentes para ICPs diferentes
+
+      Principio: modelo de negocio importa mais que marketing. O produto pode ser comodite — o modelo diferencia.
+    steps: ["Mapear modelo atual", "Identificar gaps de distribuicao", "Avaliar modelos alternativos", "Testar novo modelo como perna adicional"]
+    tags: [modelo-negocio, franquias, assinatura, marketplace, estrategia]
+    speaker: "Dener Lippert / Ricardo Dominguez / Guilherme Lippert"
+    source_file: "transcription__136_-_7_de_55_Modelos_de_neg_cios_para_alavancar_o_seu_faturamento.md"
+
+  - id: RH-FW-607
+    title: "Framework de Analytics para Decisao — Gustavo Esteves"
+    description: |
+      1. CONFIGURAR corretamente (GTM, GA4, eventos)
+      2. Separar analise MACRO (negocio, composicao de canais) de MICRO (otimizacao por criativo)
+      3. Composicao de canais: se faturamento caiu, qual canal caiu? Organico? Pago? Direto?
+      4. Nao confundir correlacao com causalidade
+      5. Usar DUAS agendas: uma de performance macro, outra operacional micro
+      6. Modelo de atribuicao: deixar algoritmo priorizar, mas olhar no analytics a composicao real
+    steps: ["Configurar tracking", "Analisar composicao de canais", "Separar macro de micro", "Diagnosticar raiz do problema", "Duas agendas de analise"]
+    tags: [analytics, dados, framework, diagnostico, canais]
+    speaker: "Gustavo Esteves / Guilherme Lippert"
+    source_file: "transcription__130_-Web_Analytics___MUITO_MAIS_que_um_gr_fico_bonitinho_.md"
+
+  - id: RH-FW-608
+    title: "Gestao de Time de Marketing — Economia Compartilhada"
+    description: |
+      Niveis de dedicacao:
+      - V1 (compartilhado, 5-6 profissionais): ~R$4.5k/mes — para inicio, pouco investimento
+      - V2 (semi-dedicado): ~R$7-12k/mes — medio investimento
+      - V3 (dedicado): ~R$20k+/mes — alto investimento, projetos complexos
+
+      Regra: quanto menos compartilhado, mais caro.
+      Analogia: estudio de podcast — nao compra R$500k de equipamento pra gravar 1x/mes, aluga.
+
+      Evolucao natural: compartilhado → semi → dedicado conforme resultados.
+    steps: ["Avaliar investimento atual", "Comecar compartilhado", "Escalar dedicacao conforme resultado", "Avaliar custo de oportunidade"]
+    tags: [time, custo, agencia, dedicacao, compartilhado]
+    speaker: "Guilherme Lippert / Dener Lippert"
+    source_file: "transcription__131_-_Gest_o_de_times_Marketing_e_Growth.md"
+
+  - id: RH-FW-609
+    title: "Piramide de Carreira do Copywriter (Rocky Vega)"
+    description: |
+      6 niveis:
+      1. APRENDIZ — estudando, sem clientes
+      2. JUNIOR — primeiros projetos, supervisao
+      3. PLENO — executa independente
+      4. SENIOR — lidera copy, direciona estrategia
+      5. COPY CHIEF — gere time de copies
+      6. FREELANCER — categoria transversal (pode ser junior a senior)
+
+      Diferencial: todo mundo pode treinar, mas ser senior exige algo especial (analogia Mr. Olympia).
+      Regra: freelancer com muitos projetos = cavalo de 10 segundos. Dedicado = cavalo de 10 horas.
+    steps: ["Aprendiz", "Junior", "Pleno", "Senior", "Copy Chief", "Freelancer (transversal)"]
+    tags: [copywriting, carreira, niveis, profissional]
+    speaker: "Rocky Vega"
+    source_file: "transcription__134_-_Copywriting___BEM_MAIS_SIMPLES_do_que_voc__pensa__Com_Rocky_Vega.md"
+
+  - id: RH-FW-610
+    title: "Framework de Estudo Aplicado — Insight + Judu"
+    description: |
+      Ao estudar qualquer material:
+      1. Anotar INSIGHTS (o que aprendi de relevante)
+      2. Para cada insight, perguntar: tem JUDU? (o que fazer com isso?)
+      3. Se tem judu: anotar acao concreta
+      4. Se nao tem: catalogar como conhecimento (valido, mas sem acao imediata)
+      5. Organizar em Notion com categorias (por tema, por fonte)
+      6. Revisitar periodicamente
+
+      Exemplo: Conference call do Facebook → Insight: 20% do tempo e Reels → Judu: alocar 20%+ do budget em Reels
+    steps: ["Estudar material", "Extrair insights", "Perguntar: tem judu?", "Anotar acao concreta", "Catalogar em ferramenta", "Revisitar"]
+    tags: [estudo, produtividade, judu, notion, aplicacao]
+    speaker: "Joao Vitor"
+    source_file: "transcription__147_-_Voc__consegue_praticar_aquilo_que_estuda_.md"
+
+  - id: RH-FW-611
+    title: "Investigacao de Cancelamento estilo Acidente Aereo"
+    description: |
+      Inspirado no processo de investigacao de acidentes aereos:
+      1. Ir do INICIO para o fim (nao do efeito para a causa)
+      2. Quem eram os envolvidos? Como foi a formacao?
+      3. O que aconteceu durante a jornada?
+      4. Revisar gravacoes: reuniao de venda, qualificacao, check-ins
+      5. Output NAO e punicao, output e BACKLOG de melhorias
+      6. Emitir relatorio de melhoria para nao repetir
+
+      Chave: nao buscar culpado, buscar entender para melhorar.
+    steps: ["Revisar desde primeiro contato", "Analisar gravacoes", "Mapear timeline", "Identificar pontos de falha", "Gerar backlog de melhorias"]
+    tags: [churn, investigacao, melhoria, processos, backlog]
+    speaker: "Dener Lippert"
+    source_file: "transcription__119_-_O_Ciclo_de_Vida_da_Campanha.md"
+
+  - id: RH-FW-612
+    title: "Escalada de Canal — Quando ir para o proximo"
+    description: |
+      1. Canal dando resultado? ESCALAR (mais investimento)
+      2. Monitorar: ROAS cai mas resultado liquido SOBE = continuar
+      3. Ponto critico: quando resultado liquido ABSOLUTO comeca a cair
+      4. So nesse ponto considerar proximo canal
+      5. Nao confundir queda de ROAS com ineficiencia — pode ser escala saudavel
+      6. Antes de tentar canal novo: voltar ao historico de acoes que funcionaram
+    steps: ["Investir mais no canal atual", "Monitorar resultado liquido absoluto", "Ignorar queda de ROAS se liquido sobe", "Parar quando liquido cai", "So entao abrir novo canal"]
+    tags: [escala, canais, investimento, roas, decisao]
+    speaker: "Dener Lippert / Guilherme Lippert"
+    source_file: "transcription__119_-_O_Ciclo_de_Vida_da_Campanha.md"
+
+# =============================================================================
+# L5: METHODOLOGIES
+# =============================================================================
+methodologies:
+
+  - id: RH-MET-600
+    title: "Metodo V4 de Onboarding — Estrategias Vencedoras do Cliente"
+    description: |
+      Na V4, todo cliente novo passa por:
+      1. Avaliar ESTRATEGIAS VENCEDORAS: o que o cliente ja fez e deu certo
+      2. Selecionar caminhos que ja funcionaram
+      3. Estressar esses caminhos (escalar o que funciona)
+      4. So depois de esgotar o historico, criar estrategias novas
+      5. Documentar TUDO para proxima retrospectiva
+    steps: ["Levantar historico do cliente", "Identificar estrategias vencedoras", "Estressar as que funcionam", "Criar novas so se necessario", "Documentar resultados"]
+    tags: [onboarding, v4, estrategia, historico]
+    speaker: "Dener Lippert"
+    source_file: "transcription__119_-_O_Ciclo_de_Vida_da_Campanha.md"
+
+  - id: RH-MET-601
+    title: "Metodo de Pesquisa de Recompensas para Programa de Indicacao"
+    description: |
+      Rodrigo Noll — antes de criar programa de indicacao:
+      1. PESQUISA QUANTITATIVA com base de clientes
+      2. Perguntar: "Se voce indicar e a pessoa comprar, o que voce gostaria de receber?"
+      3. Listar opcoes com preco estimado
+      4. Ranking por desejabilidade
+      5. Posicionar: melhor premio no MEIO da escada (nao no topo)
+      6. Primeira recompensa na primeira indicacao (baixa barreira)
+      7. Definir gatilho: gerar lead OU gerar venda
+      8. Quando bate topo da escada: reiniciar ou criar experiencia VIP
+    steps: ["Pesquisa quanti com clientes", "Listar recompensas por desejo", "Melhor premio no meio", "Primeira recompensa na 1a indicacao", "Definir gatilho", "Ativar com copy certa"]
+    tags: [indicacao, pesquisa, recompensa, escada, programa]
+    speaker: "Rodrigo Noll"
+    source_file: "transcription__123_-_O_Boca___Boca_4_0___Rodrigo_Noll.md"
+
+  - id: RH-MET-602
+    title: "Metodo de Diagnostico V4 — Composicao de Canais com Analytics"
+    description: |
+      Quando resultado cai:
+      1. NAO culpar agencia/midia automaticamente
+      2. Abrir analytics: composicao de canais
+      3. Verificar CADA canal: organico, pago, direto, social, email
+      4. Identificar QUAL canal caiu
+      5. Se midia ok mas organico caiu = problema e SEO, nao performance
+      6. Apresentar diagnostico com dados ao cliente
+      7. Criar plano de acao para o canal real do problema
+
+      Caso real: cliente caiu 40% faturamento. Midia estava ok. Organico caiu 50%.
+    steps: ["Nao culpar midia", "Abrir analytics", "Composicao de canais", "Identificar canal problema", "Diagnosticar raiz", "Plano de acao especifico"]
+    tags: [analytics, diagnostico, canais, v4, problema]
+    speaker: "Guilherme Lippert"
+    source_file: "transcription__130_-Web_Analytics___MUITO_MAIS_que_um_gr_fico_bonitinho_.md"
+
+  - id: RH-MET-603
+    title: "Metodo de Anotacao Conference Call (Joao Vitor)"
+    description: |
+      Para conference calls de empresas (Meta, Google, etc.):
+      1. Ouvir/ler a call
+      2. Anotar INSIGHTS (fatos, numeros, declaracoes)
+      3. Para cada insight, definir O QUE FAZER (judu)
+      4. Exemplo: "20% tempo = Reels" → judu: "Alocar 20%+ budget em Reels"
+      5. Catalogar no Notion por empresa/tema
+      6. Revisitar antes de tomar decisoes de alocacao
+
+      Formato: INSIGHT + O QUE FAZER + FONTE
+    steps: ["Ouvir conference call", "Anotar insights", "Definir judu para cada", "Catalogar no Notion", "Revisitar antes de decisoes"]
+    tags: [estudo, conference-call, judu, notion, processo]
+    speaker: "Joao Vitor"
+    source_file: "transcription__147_-_Voc__consegue_praticar_aquilo_que_estuda_.md"
+
+  - id: RH-MET-604
+    title: "Metodo de Escalada de Time — Compartilhado para Dedicado"
+    description: |
+      Progressao natural de time de growth:
+      1. INICIO: time compartilhado (agencia/V4) ~R$4.5k/mes
+         - 4-6 profissionais compartilhados entre clientes
+         - Ideal para quem investe pouco em midia
+      2. CRESCIMENTO: semi-dedicado ~R$7-12k/mes
+         - Mais horas dedicadas, menos clientes por profissional
+      3. MATURIDADE: dedicado ~R$20k+/mes
+         - Profissional 100% no seu projeto
+         - Gestor de projetos adicional
+      4. INTERNALIZACAO: time interno
+         - So quando volume justifica custo fixo
+         - Cuidado: custo de oportunidade alto para senior
+    steps: ["Comecar compartilhado", "Escalar para semi-dedicado", "Evoluir para dedicado", "Internalizar quando volume justifica"]
+    tags: [time, growth, escalada, custo, agencia, v4]
+    speaker: "Guilherme Lippert"
+    source_file: "transcription__125_-_Os_Fundamentos_de_um_Time_de_Growth.md"
+
+  - id: RH-MET-605
+    title: "Metodo CRM de Augusto Rocha — Muito Alem de Email"
+    description: |
+      CRM como estrategia completa:
+      1. CRM nao e ferramenta de email = e gestao de relacionamento
+      2. Integrar dados de TODOS os touchpoints
+      3. Criar segmentacoes por comportamento (cohort, compra, engajamento)
+      4. Automatizar jornadas por segmento
+      5. Medir: retencao, LTV, NPS por cohort
+      6. CRM e mais importante que aquisicao para negocios maduros
+      7. PMWeb cresceu 70%+ focando nessa abordagem
+    steps: ["Redefinir CRM como gestao de relacionamento", "Integrar touchpoints", "Segmentar por comportamento", "Automatizar jornadas", "Medir por cohort"]
+    tags: [crm, estrategia, retencao, jornada, segmentacao]
+    speaker: "Augusto Rocha"
+    source_file: "transcription__139_-_CRM_n_o___E-mail_de_Marketing_.md"
+
+  - id: RH-MET-606
+    title: "Metodo Growth Machine — Outbound B2B com Thiago Reis"
+    description: |
+      Estrutura de vendas B2B outbound:
+      1. PRE-VENDEDOR HUNTER (BDR): prospeccao ativa, gera contato
+      2. PRE-VENDEDOR (SDR): qualifica lead
+      3. CLOSER: faz a venda
+      4. Separar funcoes = maior eficiencia na jornada
+      5. Nao deixar vendedor prospectar, qualificar E fechar ao mesmo tempo
+
+      Performance sem separacao = lapis sozinho. Com separacao = mais eficiente.
+    steps: ["BDR faz prospeccao ativa", "SDR qualifica", "Closer fecha", "Cada um foca em sua etapa"]
+    tags: [outbound, b2b, vendas, growth-machine, estrutura]
+    speaker: "Thiago Reis"
+    source_file: "transcription__140_-_Conhe_a_a_Growth_Machine___Com_Thiago_Reis.md"
+
+  - id: RH-MET-607
+    title: "Metodo Varejo Familiar — Escalar com Conteudo e Arquitetos"
+    description: |
+      Para negocio de varejo familiar (acabamentos):
+      1. Posicionar time de vendas como CONSULTORES (treinamento em design)
+      2. Criar programa de conteudo com ARQUITETOS parceiros
+      3. Arquitetos fazem conteudo no SEU canal (reciprocidade)
+      4. Trust Advisory: pos-venda que pergunta como ficou e pede fotos
+      5. Transformar arquitetos em EMBAIXADORES (nao so indicadores)
+      6. Estrategia de conteudo = longo prazo, mas compounding
+    steps: ["Treinar vendedores como consultores", "Programa com arquitetos", "Conteudo conjunto", "Trust Advisory pos-venda", "Construir embaixadores"]
+    tags: [varejo, conteudo, arquitetos, trust-advisory, familiar]
+    speaker: "Guilherme Lippert / Dener Lippert"
+    source_file: "transcription__141_-_Neg_cio_familiar__como_escalar_no_varejo_.md"
+
+  - id: RH-MET-608
+    title: "Metodo Documentacao V4 — De Playbook para Tudo"
+    description: |
+      Evolucao de documentacao na V4:
+      1. FASE 1: Playbooks (como fazer algo especifico) — basico
+      2. FASE 2: Atas de reuniao e decisoes — intermediario
+      3. FASE 3: TUDO — a empresa escreve tudo que faz (Notion)
+      4. Padronizacao: definir como cada coisa e feita, com regras
+      5. Documentacao: registrar o que foi feito e como
+      6. Revisitacao: revisitar periodicamente (nem sempre acontece)
+      7. Game changer: quando saiu de so playbook para documentar TUDO
+    steps: ["Playbooks basicos", "Atas e decisoes", "Documentar TUDO", "Padronizar processos", "Revisitar periodicamente"]
+    tags: [documentacao, notion, processos, v4, padronizacao]
+    speaker: "Dener Lippert / Guilherme Lippert"
+    source_file: "transcription__122_-_Por_que_sua_empresa_deveria_ESCREVER_MAIS_.md"
+
+  - id: RH-MET-609
+    title: "Metodo de Analise de Safra (Cohort) para Decisao"
+    description: |
+      1. Agrupar clientes por MES DE ENTRADA (safra/cohort)
+      2. Medir retencao de cada safra ao longo dos meses (1, 3, 6, 12)
+      3. Comparar safras: a de hoje e melhor ou pior que 2 anos atras?
+      4. Segmentar por TIPO: ecommerce vs infoproduto vs servico
+      5. Se cohort de ecommerce retencao 8-10 meses vs infoproduto 2-3 meses → mirar vendas em ecommerce
+      6. Usar para decidir: escalar aquisicao (se safras melhoram) ou corrigir (se pioram)
+    steps: ["Agrupar por mes de entrada", "Medir retencao mensal", "Comparar safras no tempo", "Segmentar por tipo de cliente", "Decidir: escalar ou corrigir"]
+    tags: [cohort, safra, retencao, metricas, decisao]
+    speaker: "Dener Lippert / Guilherme Lippert"
+    source_file: "transcription__137_-_M_tricas_para_escalar_o_seu_neg_cio.md"
+
+  - id: RH-MET-610
+    title: "Metodo PROFE — Identificar Cliente Ideal por Dados"
+    description: |
+      Na V4:
+      1. Analisar HISTORICO de retencao por segmento (cohort)
+      2. Mapear: quem tem ticket alto + margem alta + volume?
+      3. Sigla PROFE (alto valor, alto margem, volume adequado)
+      4. Mirar forcas de venda nesse ICP especifico
+      5. Analisar PERSONA: mentalidade do gestor, comportamento em adversidade
+      6. Resultado: mais LTV, menos churn, melhor unit economics
+    steps: ["Analisar cohort por segmento", "Identificar PROFE", "Mirar vendas nesse ICP", "Avaliar persona do gestor", "Monitorar LTV por cohort"]
+    tags: [icp, profe, segmentacao, vendas, v4]
+    speaker: "Vinicius Colli / Gustavo Figueiredo"
+    source_file: "transcription__144_-_Como_encontrar_bons_clientes__Com_Vinicius_Colli_e_Gustavo_Figueiredo.md"
+
+  - id: RH-MET-611
+    title: "Metodo de Escalar Varejo — Negocio Familiar para Multicanal"
+    description: |
+      Caso Verderose Acabamentos:
+      1. Posicionar como CONSULTOR (nao so vendedor)
+      2. Treinar time em design/tendencias
+      3. Criar conteudo YouTube + Instagram
+      4. Programa com arquitetos: eles criam conteudo no seu canal
+      5. Gatekeeper strategy: arquiteto como canal de aquisicao
+      6. Investir em midia paga (comecou com zero)
+      7. Trust Advisory pos-venda: follow-up com fotos
+    steps: ["Posicionar como consultor", "Treinar time", "Conteudo multicanal", "Programa arquitetos", "Midia paga", "Trust Advisory"]
+    tags: [varejo, familiar, escala, conteudo, arquiteto]
+    speaker: "Guilherme Lippert / Dener Lippert / Andre Verderose"
+    source_file: "transcription__141_-_Neg_cio_familiar__como_escalar_no_varejo_.md"
+
+  - id: RH-MET-612
+    title: "Metodo Gustavo Borges — Tratar Marketeiro como Atleta Olimpico"
+    description: |
+      Principios do atleta olimpico aplicados ao marketing:
+      1. PLANEJAMENTO DE LONGO PRAZO — ciclos de 4 anos, nao meses
+      2. MELHORIA INCREMENTAL — 1% todo dia
+      3. DISCIPLINA DE ROTINA — rituais diarios nao negociaveis
+      4. PERIODIZACAO — fases de construcao, pico, recuperacao
+      5. METRICAS OBJETIVAS — tempo, splits, performance mensuravel
+      6. EQUIPE DE SUPORTE — ninguem vence sozinho
+      7. ANTECIPACAO — se preparar antes da competicao, nao durante
+    steps: ["Planejar longo prazo", "Melhoria incremental diaria", "Disciplina de rotina", "Periodizar esforcos", "Medir objetivamente", "Montar equipe de suporte"]
+    tags: [atleta, disciplina, rotina, melhoria, longo-prazo]
+    speaker: "Gustavo Borges"
+    source_file: "transcription__132_-_Marketeiro__Trate-se_como_um_atleta_ol_mpico__Com_GUSTAVO_BORGES_.md"
