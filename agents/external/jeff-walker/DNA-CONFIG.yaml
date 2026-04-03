@@ -1,0 +1,288 @@
+# DNA-CONFIG.yaml - Jeff Walker (PERSON Agent)
+#
+# Versao: 1.0.0
+# Data: 2026-04-03
+# Proposito: Configuracao de DNA para agente SOLO de Jeff Walker
+# Integrado com: AGENT-COGNITION-PROTOCOL (FASE 1.5), AGENT-INTEGRITY-PROTOCOL
+#
+# ═══════════════════════════════════════════════════════════════════════════════
+# REGRA INQUEBRAVEL: RASTREABILIDADE 100%
+# ═══════════════════════════════════════════════════════════════════════════════
+#
+# Todo DNA deve ter paths verificaveis ate inbox
+# Navegacao: DNA-CONFIG -> DNA.yaml -> inbox
+#
+# ═══════════════════════════════════════════════════════════════════════════════
+
+# ═══════════════════════════════════════════════════════════════════════════════
+# METADADOS DO AGENTE
+# ═══════════════════════════════════════════════════════════════════════════════
+
+cargo: "JEFF-WALKER"
+versao: "1.0.0"
+nivel: "PERSON"
+natureza: "SOLO"
+data_criacao: "2026-04-03"
+ultima_atualizacao: "2026-04-03"
+
+# ═══════════════════════════════════════════════════════════════════════════════
+# CONSTITUICAO (Layer 1 - Principios compartilhados)
+# ═══════════════════════════════════════════════════════════════════════════════
+
+constituicao:
+  path: "/agents/constitution/BASE-CONSTITUTION.md"
+  descricao: "Principios eticos e operacionais base para todos os agentes"
+
+# ═══════════════════════════════════════════════════════════════════════════════
+# MEMORIA DO AGENTE
+# ═══════════════════════════════════════════════════════════════════════════════
+
+memoria:
+  path: "./MEMORY.md"
+  versao: "1.0.0"
+  descricao: "Experiencia acumulada deste agente Jeff Walker"
+
+# ═══════════════════════════════════════════════════════════════════════════════
+# SOUL DO AGENTE
+# ═══════════════════════════════════════════════════════════════════════════════
+
+soul:
+  path: "./SOUL.md"
+  versao: "1.0.0"
+  descricao: "Identidade e consciencia viva do agente Jeff Walker"
+
+# ═══════════════════════════════════════════════════════════════════════════════
+# FONTES DE DNA - COM RASTREABILIDADE COMPLETA
+# ═══════════════════════════════════════════════════════════════════════════════
+#
+# AGENTE SOLO: Fonte unica = peso 1.0 (100%)
+# Sem conflitos entre fontes. Sem resolucao de conflitos necessaria.
+#
+# ═══════════════════════════════════════════════════════════════════════════════
+
+dna_sources:
+
+  # ───────────────────────────────────────────────────────────────────────────
+  # FONTE UNICA: Jeff Walker (peso 1.0)
+  # ───────────────────────────────────────────────────────────────────────────
+
+  pessoa:
+    - nome: "Jeff Walker"
+      peso: 1.0
+      path: "/knowledge/external/dna/persons/jeff-walker/DNA.yaml"
+      raiz: "/inbox/Jeff Walker/"
+      total_elementos: 437
+      versao_dna: "1.0.0"
+
+      dominios_usados:
+        - "launch-methodology"
+        - "webinar-funnels"
+        - "seed-launches"
+        - "list-building"
+        - "offer-creation"
+        - "jv-partnerships"
+        - "evergreen-automation"
+        - "prelaunch-content"
+        - "mental-triggers"
+        - "avatar-development"
+        - "niche-selection"
+        - "storytelling"
+        - "pricing"
+        - "authority-building"
+        - "community-building"
+
+      materiais_fonte:
+        - id: "JW-WFF"
+          titulo: "Webinar Funnel Formula (with Don Crowther)"
+          tipo: "COURSE"
+          chunks: 344
+          raiz: "/inbox/Jeff Walker/Jeff Walker & Don Crowther - Webinar Funnel Formula/"
+          modulos:
+            - "Module 0: Getting Started (Foundation & Market Research)"
+            - "Module 1: Profitable Webinar Funnel (6 Key Decisions)"
+            - "Module 2: Maximizing Webinar Registration"
+            - "Module 3: Getting People to Show Up"
+            - "Module 4: Designing Your Webinar Part 1 (Content)"
+            - "Module 5: Designing Your Webinar Part 2 (Offer)"
+            - "Module 6: Delivering Your Webinar"
+            - "Module 7: Doubling After-Webinar Sales"
+            - "Module 8: Building Your Webinar Business"
+            - "Bonuses: Big Idea Crowdsource Call, Webinar Tech Quickstart"
+            - "Promo Webinar"
+          speakers:
+            - "Jeff Walker (primary)"
+            - "Don Crowther (co-instructor, tech & strategy)"
+          dominios:
+            - "webinar-funnels"
+            - "registration-optimization"
+            - "show-rate-optimization"
+            - "webinar-offer-design"
+            - "after-webinar-sales"
+            - "webinar-business-model"
+
+        - id: "JW-PLF15"
+          titulo: "Product Launch Formula 2015"
+          tipo: "COURSE"
+          chunks: 401
+          raiz: "/inbox/Jeff Walker/Jeff Walker - Product Launch Formula 2015/"
+          modulos:
+            - "1 Welcome"
+            - "2 PLF Core (Intro, Roadmap, Path, Resources)"
+            - "3 Module 1 (15 sections: Mental Triggers, Sideways Sales Letter, Circle of Awesome, Launch Types, Stories, Avatar)"
+            - "4 Module 2 (Launch Story)"
+            - "5 Module 3 (Pre-Prelaunch)"
+            - "6 Module 4 (Prelaunch)"
+            - "7 Module 5 (Launch)"
+            - "8 Module 6 (Scaling)"
+            - "Bonus: Evergreen Module"
+            - "Case Studies: Tennis Ninja, Brilliant Recalls, Tara Marino, Barry Friedman, John Gallagher"
+          speakers:
+            - "Jeff Walker (primary)"
+          dominios:
+            - "product-launch"
+            - "sideways-sales-letter"
+            - "mental-triggers"
+            - "circle-of-awesome"
+            - "launch-stories"
+            - "avatar-development"
+
+        - id: "JW-PLF18"
+          titulo: "Product Launch Formula 2018"
+          tipo: "COURSE"
+          chunks: 535
+          raiz: "/inbox/Jeff Walker/Jeff Walker - Product Launch Formula 2018/"
+          modulos:
+            - "Stage 1: Niche Selection"
+            - "Stage 2: Build Your List"
+            - "Stage 3: Module 1 (Launch Foundation) + Module 2 (Launch Story)"
+            - "Stage 4: Seed Launch & Advanced Launches"
+            - "Stage 5: Advanced Launches + Swipe Files"
+            - "Stage 6: Advanced Topics"
+            - "Launch Workshops (Seed, First Big, Quick)"
+            - "Case Studies: 15+ real launches"
+            - "Coaching Calls (15+ sessions)"
+            - "Swipe File Vault (184KB+ sequences)"
+          speakers:
+            - "Jeff Walker (primary)"
+          dominios:
+            - "niche-selection"
+            - "list-building"
+            - "launch-foundation"
+            - "launch-stacking"
+            - "swipe-files"
+            - "case-studies"
+
+        - id: "JW-PLF19"
+          titulo: "Product Launch Formula 2019"
+          tipo: "COURSE"
+          chunks: 323
+          raiz: "/inbox/Jeff Walker/Jeff Walker - Product Launch Formula 2019/"
+          modulos:
+            - "Module 1: Launch Foundation (5 Types, Circle of Awesome, Mental Triggers, Sideways Sales Letter)"
+            - "Module 2: Launch Plan (Niche, Research, Avatar, Testing, Competition)"
+            - "Module 3: Pre-Prelaunch"
+            - "Module 4: Prelaunch Content (PLC1-4 walkthroughs, Will Hamilton case study)"
+            - "Module 5: Open Cart"
+            - "Module 6: Internal & Seed Launches (Tara Marino case study)"
+            - "Module 7: Joint Venture Launch"
+            - "Module 8: Evergreen Launch"
+            - "Module 9: Business Launch Formula"
+            - "8 Bonuses: Operation Quickstart, Secrets of Leverage & Scale, Launch Partnership, Quick Launch, Promoting Others, Book Launch, Lead Magnet Crowdsource, Sparta Launch"
+          speakers:
+            - "Jeff Walker (primary)"
+          dominios:
+            - "five-launch-types"
+            - "circle-of-awesome"
+            - "prelaunch-content"
+            - "jv-launches"
+            - "evergreen-launches"
+            - "business-launch-formula"
+
+        - id: "JW-SLDD"
+          titulo: "Seed Launch Deep Dive"
+          tipo: "COURSE"
+          chunks: 55
+          raiz: "/inbox/Jeff Walker/Jeff Walker - Seed Launch Deep Dive/"
+          modulos:
+            - "Module 0: Welcome & Introduction"
+            - "Module 1: Seed List"
+            - "Module 2: Seed Offer"
+            - "Module 3: Product Creation"
+            - "Module 4: Selling"
+            - "Module 5: Moving Forward"
+          speakers:
+            - "Jeff Walker (primary)"
+          dominios:
+            - "seed-launch"
+            - "first-product-creation"
+            - "transformation-offer"
+            - "avatar-deep-dive"
+
+# ═══════════════════════════════════════════════════════════════════════════════
+# CONEXOES COM OUTROS AGENTES
+# ═══════════════════════════════════════════════════════════════════════════════
+
+conexoes:
+  complementos:
+    - pessoa: "Russell Brunson"
+      em: "Funnel architecture and offer stacking"
+      nota: "Brunson foca em mecanica de funil; Walker foca em psicologia de launch e sequencias"
+    - pessoa: "Ryan Deiss"
+      em: "Customer value journey"
+      nota: "Deiss fez $3.6M launch usando PLF — valida o sistema de Walker"
+    - pessoa: "Frank Kern"
+      em: "Launch copywriting and storytelling"
+      nota: "Kern tem copy mais profundo; Walker tem arquitetura de launch mais ampla"
+    - pessoa: "Todd Brown"
+      em: "Marketing campaigns and offer engineering"
+      nota: "Brown foca em mecanica de campanha; Walker em sequencias de lancamento"
+    - pessoa: "Dan Kennedy"
+      em: "Direct response marketing foundations"
+      nota: "Walker reconhece influencia de DK no framework list/offer/copy"
+
+  tensoes:
+    - pessoa: "Alex Hormozi"
+      em: "Organic vs Launch-based customer acquisition"
+      nota: "Hormozi favorece conteudo diario + ofertas; Walker favorece launches event-based"
+
+  alinhamentos:
+    - pessoa: "Stu McLaren"
+      em: "Membership site launches"
+      nota: "McLaren usou PLF para TRIBE — valida para modelos de membership"
+    - pessoa: "Amy Porterfield"
+      em: "Course launch methodology"
+      nota: "Porterfield construiu negocio inteiro sobre framework PLF"
+
+# ═══════════════════════════════════════════════════════════════════════════════
+# AGENTES QUE CONSOMEM ESTE DNA
+# ═══════════════════════════════════════════════════════════════════════════════
+
+agentes_consumidores:
+  - path: "/agents/external/jeff-walker/"
+    peso: 1.0
+    tipo: "PERSON (SOLO)"
+    nota: "Agente principal — fonte unica 100%"
+
+# ═══════════════════════════════════════════════════════════════════════════════
+# METRICAS DE QUALIDADE
+# ═══════════════════════════════════════════════════════════════════════════════
+
+metricas:
+  total_elementos: 437
+  por_camada:
+    L1_FILOSOFIAS: 52
+    L2_MODELOS_MENTAIS: 68
+    L3_HEURISTICAS: 127
+    L4_FRAMEWORKS: 108
+    L5_METODOLOGIAS: 82
+  total_insights_processados: 2627
+  total_chunks_referenciados: 1658
+  peso_medio: 0.91
+  itens_alto_peso: 380
+  percentual_alto_peso: 87
+  fontes_processadas: 5
+  data_ultima_atualizacao: "2026-04-03"
+
+# ═══════════════════════════════════════════════════════════════════════════════
+# FIM DO DNA-CONFIG
+# ═══════════════════════════════════════════════════════════════════════════════
