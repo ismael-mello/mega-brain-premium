@@ -1,0 +1,13 @@
+# DNA-CONFIG (Agent Reference) — THIAGO ROAS
+# This is a pointer to the main DNA-CONFIG
+
+person:
+  name: "Thiago Roas"
+  slug: "thiago-roas"
+
+dna_sources:
+  - person: "thiago-roas"
+    weight: 1.0
+    dna_path: "knowledge/external/dna/persons/thiago-roas/DNA.yaml"
+    config_path: "knowledge/external/dna/persons/thiago-roas/DNA-CONFIG.yaml"
+    raiz: "inbox/Thiago Roas/youtube/"

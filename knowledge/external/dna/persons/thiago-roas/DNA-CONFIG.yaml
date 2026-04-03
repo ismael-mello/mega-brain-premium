@@ -1,0 +1,88 @@
+# DNA-CONFIG — THIAGO ROAS
+# Version: 1.0.0
+# Last Updated: 2026-04-03
+
+person:
+  name: "Thiago Roas"
+  slug: "thiago-roas"
+  nickname: "Roas"
+  nationality: "Brasileiro"
+  expertise:
+    - "Perpétuo para público frio"
+    - "Funis de VSL"
+    - "Gestão de tráfego pago (Meta)"
+    - "Marketing de resposta direta"
+    - "Escala horizontal"
+    - "Coprodução de infoprodutos"
+  background: |
+    15 anos de experiência com digital. Ex-dono de e-commerce que quebrou com R$500k+ de dívida.
+    Descobriu o perpétuo em 2018 via Chris Franklin. Mentorou 400+ alunos.
+    Faturou R$7M+ como gestor de tráfego e estrategista. Especialista em nichos white.
+    Trabalha 100% white, sem contingência.
+  known_for:
+    - "Converter público frio em escala"
+    - "Funil VSL de R$297 (ticket ouro)"
+    - "Perpétuo entrelaçado com marketing de resposta direta"
+    - "Escala horizontal vs vertical"
+    - "Diagnóstico de funil antes de diagnóstico de tráfego"
+
+dna_sources:
+  - person: "thiago-roas"
+    weight: 1.0
+    dna_path: "knowledge/external/dna/persons/thiago-roas/DNA.yaml"
+    raiz: "inbox/Thiago Roas/youtube/"
+
+sources:
+  - id: "TR-YT-001"
+    title: "Como Criar FUNIL DE VENDAS EFICIENTE para PÚBLICO FRIO"
+    type: "PODCAST"
+    platform: "YouTube - Hotmart Cast"
+    duration: "40:22"
+    language: "pt-BR"
+    file: "inbox/Thiago Roas/youtube/transcription_Como_Criar_FUNIL_DE_VENDAS_EFICIENTE_para_P_BLICO_FRIO___Thiago_Roas_-_Hotmart_C.md"
+    size_bytes: 41138
+    status: "PROCESSED"
+
+  - id: "TR-YT-002"
+    title: "Ele Fez Mais De R$7 Milhões No Digital Como Gestor De Tráfego"
+    type: "PODCAST"
+    platform: "YouTube - KiwiFi Cast"
+    duration: "1:27:56"
+    language: "pt-BR"
+    file: "inbox/Thiago Roas/youtube/transcription_Ele_Fez_Mais_De_R_7_Milh_es_No_Digital_Como_Gestor_De_Tr_fego___Thiago_Roas_-_Ki.md"
+    size_bytes: 89737
+    status: "PROCESSED"
+
+  - id: "TR-YT-003"
+    title: "Lucrando Múltiplos 7D/Mês Com Perpétuo Para Público Frio"
+    type: "PODCAST"
+    platform: "YouTube - Segredos da Escala (VTurb)"
+    duration: "3:01:41"
+    language: "pt-BR"
+    file: "inbox/Thiago Roas/youtube/transcription_Lucrando_M_ltiplos_7D_M_s_Com_Perp_tuo_Para_P_blico_Frio___Thiago_ROAS_-_Segredo.md"
+    size_bytes: 181057
+    status: "PROCESSED"
+
+summary:
+  total_elements: 187
+  by_layer:
+    filosofias: 33
+    modelos_mentais: 28
+    heuristicas: 52
+    frameworks: 26
+    metodologias: 10
+  domains:
+    - perpétuo
+    - tráfego-pago
+    - funis-de-venda
+    - conversão-público-frio
+    - vsl
+    - criativos
+    - otimização-de-funil
+    - escala-horizontal
+    - precificação
+    - coprodução
+    - nicho-selection
+    - lançamento-pago
+    - diagnóstico
+    - ética-white-hat
