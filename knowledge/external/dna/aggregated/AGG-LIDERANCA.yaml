@@ -14,10 +14,10 @@
 # ═══════════════════════════════════════════════════════════════════════════════
 
 dominio: "lideranca"
-versao: "2.0.0"  # Gym Launch Owner Training added (AH + Leila — 270 leadership elements)
+versao: "3.0.0"  # Vinh Giang YouTube added (peso 0.60, 20 leadership elements). 5-Step Feedback Formula, MBS Coaching Framework, Leadership=Teaching+Coaching, Interruption Management (3 levels), Meet Them Where They Are, handling difficult conversations with caring tonality.
 data_criacao: "2026-03-15"
-ultima_atualizacao: "2026-03-19"
-total_elementos: 347
+ultima_atualizacao: "2026-04-03"
+total_elementos: 367
 peso_global: 0.90
 
 fontes_consolidadas:
@@ -48,6 +48,16 @@ fontes_consolidadas:
     tipo_fonte: "PRIMARY (Alex Hormozi + Leila Hormozi — Gym Launch Owner Training + Presentations)"
     speakers: ["Alex Hormozi", "Leila Hormozi", "Alex Charfen", "Mimi (COO)"]
     source_id: "AH-GL"
+
+  - fonte: "vinh-giang-yt"
+    path: "knowledge/external/dna/persons/vinh-giang/"
+    raw_path: "knowledge/external/sources/vinh-giang/raw/youtube/"
+    peso_dominio: 0.60
+    elementos_contribuidos: 20
+    especialidade: "5-Step Feedback Formula (setting, frame, praise, I-statements, remind progress), handling difficult conversations (caring tonality, I-statements), MBS Coaching Framework (What's on your mind → What else → Main problem → How can I help), Leadership = Teaching + Coaching philosophy, handling intense boss situations, Interruption Management (3 levels), leading through communication (inspire through voice), Meet Them Where They Are (then take them where you want to go)"
+    tipo_fonte: "SECONDARY (communication expert with leadership application)"
+    batches: ["VG-YT (Vinh Giang YouTube — 20 lideranca-relevant — 2026-04-03)"]
+    nota: "Added 2026-04-03. Vinh Giang YouTube contribution to leadership is through COMMUNICATION-BASED LEADERSHIP — how leaders give feedback, coach, handle difficult conversations, and inspire through voice. The 5-Step Feedback Formula is a practical alternative to FLCR's CVIICS. MBS Coaching Framework provides a structured coaching conversation model. 'Meet Them Where They Are' principle aligns with situational leadership. Interruption Management (3 levels) addresses a practical leadership gap. Complements FLCR (systematic leadership) and Hormozi (operational leadership) with the communication delivery layer of leadership."
 
 # ═══════════════════════════════════════════════════════════════════════════════
 # EXPERTS

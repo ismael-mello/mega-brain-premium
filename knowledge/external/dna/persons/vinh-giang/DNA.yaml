@@ -1,29 +1,29 @@
 # ╔══════════════════════════════════════════════════════════════════════════════╗
 # ║                    VINH GIANG — DNA COGNITIVO                               ║
-# ║                    Stage Academy | Communication Mastery                     ║
+# ║                    Stage Academy + YouTube (365 videos)                      ║
 # ╠══════════════════════════════════════════════════════════════════════════════╣
-# ║  Versão: 1.0.0 | Elementos: 105 | Fontes: 1 | Data: 2026-03-25            ║
+# ║  Versão: 2.0.0 | Elementos: 437 | Fontes: 2 | Data: 2026-04-02            ║
 # ╚══════════════════════════════════════════════════════════════════════════════╝
 
-version: "1.0.0"
+version: "2.0.0"
 person: "Vinh Giang"
-total_elements: 105
-sources: 1
-extraction_date: "2026-03-25"
+total_elements: 437
+sources: 2
+extraction_date: "2026-04-02"
 
 element_counts:
-  L1_PHILOSOPHIES: 23
-  L2_MENTAL_MODELS: 18
-  L3_HEURISTICS: 34
-  L4_FRAMEWORKS: 20
-  L5_METHODOLOGIES: 10
+  L1_PHILOSOPHIES: 80
+  L2_MENTAL_MODELS: 55
+  L3_HEURISTICS: 120
+  L4_FRAMEWORKS: 102
+  L5_METHODOLOGIES: 80
 
 next_ids:
-  FIL: "FIL-VG-024"
-  MM: "MM-VG-019"
-  HEUR: "HEUR-VG-035"
-  FW: "FW-VG-021"
-  MET: "MET-VG-011"
+  FIL: "FIL-VG-081"
+  MM: "MM-VG-056"
+  HEUR: "HEUR-VG-121"
+  FW: "FW-VG-103"
+  MET: "MET-VG-081"
 
 domains:
   - communication-skills
@@ -38,10 +38,24 @@ domains:
   - vocal-coaching
   - personal-branding
   - influence
+  - confidence
+  - conversation-skills
+  - humor
+  - leadership
+  - persuasion
+  - networking
+  - impromptu-speaking
+  - fear-management
+  - personal-development
+  - life-philosophy
+  - creativity
+  - mastery
+  - emotional-intelligence
 
 layers:
 
   L1_PHILOSOPHIES:
+    # ── Stage Academy (FIL-VG-001 to FIL-VG-023) ──────────────────────────────
     - id: "FIL-VG-001"
       title: "Best Communicator Wins"
       content: "It's not the best idea or product or service that wins. It's the person who communicates the best that wins."
@@ -180,7 +194,351 @@ layers:
       domain: personal-branding
       source: "SA/00-Introduction/Welcome"
 
+    # ── YouTube (FIL-VG-024 to FIL-VG-080) ────────────────────────────────────
+    - id: "FIL-VG-024"
+      title: "Career Capped by Communication"
+      content: "Your career will never outgrow your communication."
+      domain: communication-skills
+      source: "YT/4_Levels_of_Speaking"
+
+    - id: "FIL-VG-025"
+      title: "Communication = Essential Skill"
+      content: "Communication is not a soft skill — it's an essential skill. The only thing that becomes more valuable as everything gets automated."
+      domain: communication-skills
+      source: "YT/While_AI_Takes_Over"
+
+    - id: "FIL-VG-026"
+      title: "Applied Knowledge Is Power"
+      content: "Knowledge is not power. Applied knowledge is power. If you just keep consuming, you become a library."
+      domain: personal-development
+      source: "YT/3_Lessons_From_10000_Hours"
+
+    - id: "FIL-VG-027"
+      title: "Communication = Emotional Transference"
+      content: "Communication is emotional transference. Audiences don't just feel your words, they feel your state of being."
+      domain: communication-skills
+      source: "YT/10_Speaking_Techniques"
+
+    - id: "FIL-VG-028"
+      title: "Can't Give What You Don't Have"
+      content: "I can't give what I don't have. If I want to create joy, I need to feel joy."
+      domain: self-awareness
+      source: "YT/10_Speaking_Techniques"
+
+    - id: "FIL-VG-029"
+      title: "Head + Heart = Transformation"
+      content: "If you only speak from the head, you inform. From the heart, you inspire. From both, you transform."
+      domain: communication-skills
+      source: "YT/10_Speaking_Techniques"
+
+    - id: "FIL-VG-030"
+      title: "Confidence Is a Choice"
+      content: "Confidence isn't something you wait to feel. It's something you choose to show."
+      domain: confidence
+      source: "YT/10_Communication_Skills"
+
+    - id: "FIL-VG-031"
+      title: "Masters Can't Get It Wrong"
+      content: "Amateurs practice until they get it right. Masters practice until they can't get it wrong."
+      domain: mastery
+      source: "YT/3_Lessons_10000_Hours"
+
+    - id: "FIL-VG-032"
+      title: "Feedback = Oxygen"
+      content: "The best don't see feedback as criticism. They see it as oxygen."
+      domain: mastery
+      source: "YT/3_Lessons_10000_Hours"
+
+    - id: "FIL-VG-033"
+      title: "Natural = Rehearsed"
+      content: "Natural isn't natural. It's rehearsed so many times it finally looks effortless."
+      domain: mastery
+      source: "YT/3_Lessons_10000_Hours"
+
+    - id: "FIL-VG-034"
+      title: "AI Era Values Human Communication"
+      content: "The more artificial everything becomes, the more people will value communication that feels earned, real, deeply human."
+      domain: communication-skills
+      source: "YT/While_AI_Takes_Over"
+
+    - id: "FIL-VG-035"
+      title: "Fear Is Not Real"
+      content: "Fear is not real. Danger is very real, but fear is just an illusion."
+      domain: fear-management
+      source: "YT/43_minutes_straight"
+
+    - id: "FIL-VG-036"
+      title: "Connect With Struggle"
+      content: "People can't connect with your success. They connect with your struggle."
+      domain: storytelling
+      source: "YT/Never_Tell_Stories_Like_This"
+
+    - id: "FIL-VG-037"
+      title: "Scars Over Wounds"
+      content: "Scars tell better stories than wounds."
+      domain: storytelling
+      source: "YT/Never_Tell_Stories_Like_This"
+
+    - id: "FIL-VG-038"
+      title: "Goal = Understanding Not Impressing"
+      content: "The goal of communication isn't to impress others. The goal is to help others understand."
+      domain: communication-skills
+      source: "YT/5_Speaking_Traps"
+
+    - id: "FIL-VG-039"
+      title: "Fear + Action = Courage"
+      content: "Courageous people feel the fear and do it anyway. Fear + Action = Courage."
+      domain: confidence
+      source: "YT/If_public_speaking_TERRIFIES_you"
+
+    - id: "FIL-VG-040"
+      title: "Act Your Way Into Feeling"
+      content: "You don't think your way into feeling better. You act your way into it."
+      domain: personal-development
+      source: "YT/If_public_speaking_TERRIFIES_you"
+
+    - id: "FIL-VG-041"
+      title: "World's a Stage"
+      content: "All of the world's a stage. We step onto many different stages playing many different roles."
+      domain: self-awareness
+      source: "YT/5_communication_hacks"
+
+    - id: "FIL-VG-042"
+      title: "Clear = Simple"
+      content: "Good communication is clear communication, and clear communication is simple to understand."
+      domain: communication-skills
+      source: "YT/5_Speaking_Traps"
+
+    - id: "FIL-VG-043"
+      title: "Big Kids Pretending"
+      content: "There's no such thing as adults. We're all just big kids pretending to be adults."
+      domain: humor
+      source: "YT/Why_Nobody_Listens_To_You"
+
+    - id: "FIL-VG-044"
+      title: "Net Worth = Network"
+      content: "Your net worth is directly correlated to your network."
+      domain: networking
+      source: "YT/How_to_Network_Top_1%"
+
+    - id: "FIL-VG-045"
+      title: "Power of I Don't Know"
+      content: "The most powerful words you can say are: I don't know."
+      domain: confidence
+      source: "YT/3_ways_impromptu_speaking"
+
+    - id: "FIL-VG-046"
+      title: "Apology as Skill"
+      content: "Getting good at apologies isn't weakness. It's a skill that deepens relationships."
+      domain: emotional-intelligence
+      source: "YT/5_Steps_Heartfelt_Apology"
+
+    - id: "FIL-VG-047"
+      title: "Laughter Opens Ears"
+      content: "When people laugh, they listen. And when they listen, they learn."
+      domain: humor
+      source: "YT/How_I_INNOVATED_Keynote"
+
+    - id: "FIL-VG-048"
+      title: "Content From Play"
+      content: "Content should be birthed from play and creativity, not from ROI and maximized profits."
+      domain: creativity
+      source: "YT/5_Secrets_Energy_Confidence"
+
+    - id: "FIL-VG-049"
+      title: "Price of Greatness"
+      content: "The price you have to pay to become great is you first have to be a little bit shit."
+      domain: mastery
+      source: "YT/Simple_Framework_Conversations"
+
+    - id: "FIL-VG-050"
+      title: "Power of the Pause"
+      content: "A pausing is powerful. It's only awkward if you make it awkward."
+      domain: communication-skills
+      source: "YT/5_Second_Trick_Stop_Rambling"
+
+    - id: "FIL-VG-051"
+      title: "Speak in All Colors"
+      content: "When you only speak in your own color, you only truly connect with people like you."
+      domain: influence
+      source: "YT/How_to_Talk_to_ANYONE_Color"
+
+    - id: "FIL-VG-052"
+      title: "Energy Over Perfection"
+      content: "My goal is not to be perfect. My goal is to show up with as much energy as possible and add as much value as possible."
+      domain: personal-development
+      source: "YT/Why_Nobody_Listens"
+
+    - id: "FIL-VG-053"
+      title: "Luminary = Source of Light"
+      content: "A luminary is a source of light. Use your instrument to spread more love, kindness, and compassion."
+      domain: personal-development
+      source: "YT/Why_Nobody_Listens"
+
+    - id: "FIL-VG-054"
+      title: "Inspiration = Energy Transfer"
+      content: "Inspiration is the transfer of energy, the transfer of vibes."
+      domain: communication-skills
+      source: "YT/Why_Nobody_Listens"
+
+    - id: "FIL-VG-055"
+      title: "Reality Is Negotiable"
+      content: "Reality is negotiable. So many rules we think are true, aren't."
+      domain: life-philosophy
+      source: "YT/Vinh_Ali_4_Hour_Work_Week_EP3"
+
+    - id: "FIL-VG-056"
+      title: "Live the Story You Want to Tell"
+      content: "Live the story you want to tell — don't wait for life to happen."
+      domain: life-philosophy
+      source: "YT/Vinh_Ali_25_Life_Lessons"
+
+    - id: "FIL-VG-057"
+      title: "Author of Your Own Story"
+      content: "You are the author of your own story. Take your pen back."
+      domain: life-philosophy
+      source: "YT/Vinh_Ali_25_Life_Lessons"
+
+    - id: "FIL-VG-058"
+      title: "Don't Fear Being Too Much"
+      content: "Don't fear being too much — fear going through this entire life being too small."
+      domain: confidence
+      source: "YT/Vinh_Ali_25_Life_Lessons"
+
+    - id: "FIL-VG-059"
+      title: "Create Your Purpose"
+      content: "I don't think you discover your purpose, I think you create your purpose."
+      domain: life-philosophy
+      source: "YT/Vinh_Ali_Think_Grow_Rich_EP15"
+
+    - id: "FIL-VG-060"
+      title: "Purpose Includes Joy"
+      content: "A huge part of my purpose is to have a good time."
+      domain: life-philosophy
+      source: "YT/Vinh_Ali_Think_Grow_Rich_EP15"
+
+    - id: "FIL-VG-061"
+      title: "Enjoy Your Garden"
+      content: "You've worked so hard to build such a beautiful garden yet you rarely sit and enjoy it."
+      domain: life-philosophy
+      source: "YT/Vinh_Ali_Alchemist_EP1"
+
+    - id: "FIL-VG-062"
+      title: "Be So Good They Can't Ignore You"
+      content: "Be so good they can't ignore you."
+      domain: mastery
+      source: "YT/Vinh_Ali_So_Good_EP2"
+
+    - id: "FIL-VG-063"
+      title: "Mastery Never Loses Value"
+      content: "Mastery will never lose its value. We live in a world where good enough is good enough, but mastery has its own league."
+      domain: mastery
+      source: "YT/Vinh_Ali_So_Good_EP2"
+
+    - id: "FIL-VG-064"
+      title: "Deliberate Practice = Guaranteed Failure"
+      content: "The process of mastery is not enjoyable — deliberate practice is when you push yourself where you're guaranteed to fail."
+      domain: mastery
+      source: "YT/Vinh_Ali_So_Good_EP2"
+
+    - id: "FIL-VG-065"
+      title: "Become, Don't Just Achieve"
+      content: "Don't just focus on outcomes, focus on the person you want to become."
+      domain: personal-development
+      source: "YT/Vinh_Ali_Atomic_Habits_EP10"
+
+    - id: "FIL-VG-066"
+      title: "Dollar Cost Average Your Actions"
+      content: "Dollar cost average your actions — constantly invest tiny daily actions towards a vision that makes you feel a little bit scared."
+      domain: personal-development
+      source: "YT/Vinh_Ali_Be_Useful_EP43"
+
+    - id: "FIL-VG-067"
+      title: "Version 1.0 Freedom"
+      content: "I used to go for perfection. Then version 1.0 unlocked the freedom."
+      domain: creativity
+      source: "YT/Vinh_Ali_Creative_Act_EP39"
+
+    - id: "FIL-VG-068"
+      title: "Only You Can Create This"
+      content: "There are things that only you can create — the world is missing out on things only you can do."
+      domain: creativity
+      source: "YT/Vinh_Ali_Creative_Act_EP39"
+
+    - id: "FIL-VG-069"
+      title: "Communication = Greatest Cumulative Advantage"
+      content: "Communication skills are the greatest cumulative advantage I've ever had in my life."
+      domain: communication-skills
+      source: "YT/Vinh_Ali_Outliers_EP44"
+
+    - id: "FIL-VG-070"
+      title: "Live for Me First"
+      content: "In order to live for others, I have to actually live for me first."
+      domain: life-philosophy
+      source: "YT/Vinh_Ali_Die_With_Zero_EP45"
+
+    - id: "FIL-VG-071"
+      title: "The Self-Story Loop"
+      content: "The self-story loop: your story creates thoughts, which lead to actions, which create evidence, which feeds the story."
+      domain: personal-development
+      source: "YT/Vinh_Ali_33_Laws_EP41"
+
+    - id: "FIL-VG-072"
+      title: "Everything Becomes Sheep"
+      content: "Everything eventually becomes sheep — the moment you monetize something with intensity, you accelerate monotony."
+      domain: life-philosophy
+      source: "YT/Vinh_Ali_Alchemist_EP1"
+
+    - id: "FIL-VG-073"
+      title: "Learn Through Action Only"
+      content: "The only way to learn is through action — you cannot follow someone else's exact path."
+      domain: personal-development
+      source: "YT/Vinh_Ali_Alchemist_EP1"
+
+    - id: "FIL-VG-074"
+      title: "Invisible Compounding"
+      content: "Slow progress is invisible until it starts to compound."
+      domain: mastery
+      source: "YT/10_Communication_Skills"
+
+    - id: "FIL-VG-075"
+      title: "People Buy People"
+      content: "People do business with people they like. Once you like me, it's infinitely harder to pick somebody else."
+      domain: influence
+      source: "YT/43_minutes_straight"
+
+    - id: "FIL-VG-076"
+      title: "Meaningful Specific Over Wandering Generality"
+      content: "Don't become a wandering generality. Become a meaningful specific."
+      domain: personal-branding
+      source: "YT/10_Communication_Skills"
+
+    - id: "FIL-VG-077"
+      title: "Unfamiliarity Mistaken for Fear"
+      content: "We mistake a lack of familiarity for fear — it's not that you're afraid, you're just unfamiliar."
+      domain: fear-management
+      source: "YT/Vinh_Ali_25_Life_Lessons"
+
+    - id: "FIL-VG-078"
+      title: "Playfulness as Competitive Advantage"
+      content: "The willingness to be playful is one of the rarest and most powerful competitive advantages in adults."
+      domain: humor
+      source: "YT/Vinh_Ali_25_Life_Lessons"
+
+    - id: "FIL-VG-079"
+      title: "Clarity Comes From Doing"
+      content: "When you're young, clarity only comes from doing — you can't start with the end in mind at 18."
+      domain: life-philosophy
+      source: "YT/Vinh_Ali_7_Habits_EP3"
+
+    - id: "FIL-VG-080"
+      title: "Honor the Moment"
+      content: "You can't step into the same stream twice — honor the moments because the you right now can only create what you can create right now."
+      domain: creativity
+      source: "YT/Vinh_Ali_Creative_Act_EP39"
+
   L2_MENTAL_MODELS:
+    # ── Stage Academy (MM-VG-001 to MM-VG-018) ────────────────────────────────
     - id: "MM-VG-001"
       title: "88 Keys Piano Model"
       content: "Voice as piano with full range of 88 keys. Familiar keys = comfort zone. Unfamiliar keys = growth zone. Using all keys = authentic expression, not fakeness."
@@ -289,6 +647,229 @@ layers:
       domain: vocal-coaching
       source: "SA/06-Module6/Respiration+Phonation+Resonation+Articulation"
 
+    # ── YouTube (MM-VG-019 to MM-VG-055) ──────────────────────────────────────
+    - id: "MM-VG-019"
+      title: "Visual-Vocal Image Conversion"
+      content: "Visual Image → Assumptions → Vocal Image → Beliefs: People see you (visual) and form assumptions. When you speak (vocal), assumptions convert into beliefs about competence and authority."
+      domain: communication-skills
+      source: "YT/13_Years"
+
+    - id: "MM-VG-020"
+      title: "Four Stages of Learning"
+      content: "Four Stages of Learning: (1) Unconscious Incompetence, (2) Conscious Incompetence, (3) Conscious Competence, (4) Unconscious Competence. Most people stuck at 2-3."
+      domain: mastery
+      source: "YT/10_Communication_Skills"
+
+    - id: "MM-VG-021"
+      title: "Head vs Heart Communicator"
+      content: "Head vs Heart Communicator: Head = facts/frameworks. Heart = stories/emotion. Magic lives in the mix. Head informs, heart inspires, both transform."
+      domain: communication-skills
+      source: "YT/10_Speaking_Techniques"
+
+    - id: "MM-VG-022"
+      title: "The Influence Diamond"
+      content: "The Influence Diamond: True influence requires shifting four things — how people Think, Feel, Behave, and their Beliefs."
+      domain: influence
+      source: "YT/5_Communication_Secrets"
+
+    - id: "MM-VG-023"
+      title: "Software vs Hardware (Speech)"
+      content: "Software vs Hardware (Speech): Software = thinking/translating/grammar processing. Hardware = physical mouth movements/articulation. Diagnosis determines fix."
+      domain: vocal-mastery
+      source: "YT/13_Years"
+
+    - id: "MM-VG-024"
+      title: "The Talent Myth"
+      content: "The Talent Myth: What looks like talent is often relentless repetition. People mistake familiarity for competence."
+      domain: mastery
+      source: "YT/3_Lessons_10000_Hours"
+
+    - id: "MM-VG-025"
+      title: "Neutral Ears Concept"
+      content: "Neutral Ears Concept: Practice new behaviors with strangers who have no preconceived ideas about you, because known people push you back into your mold."
+      domain: self-awareness
+      source: "YT/43_minutes"
+
+    - id: "MM-VG-026"
+      title: "The Mold Effect"
+      content: "The Mold Effect: People create a mold of who you are. When you try something different, they push you back. Find new environments to break free."
+      domain: self-awareness
+      source: "YT/13_Years"
+
+    - id: "MM-VG-027"
+      title: "Benign Violation Theory of Humor"
+      content: "Benign Violation Theory of Humor: Humor requires both a benign element (safe) and a violation element (unexpected). Pure benign = not funny. Pure violation = offensive."
+      domain: humor
+      source: "YT/13_Years"
+
+    - id: "MM-VG-028"
+      title: "Value Shifts in the AI Era"
+      content: "Value Shifts in the AI Era: (1) Value moves from doing to translating the work. (2) Human influence more valuable as AI handles execution. (3) Trust = scarcest resource."
+      domain: communication-skills
+      source: "YT/While_AI_Takes_Over"
+
+    - id: "MM-VG-029"
+      title: "The Chef Analogy"
+      content: "The Chef Analogy: Find 5 communicators. Study their ingredients. Copy recipes. After mastering (10-30 reps), add your own lemon — your personal flavor."
+      domain: mastery
+      source: "YT/13_Years"
+
+    - id: "MM-VG-030"
+      title: "Self-Conscious vs Audience-Conscious"
+      content: "Self-Conscious vs Audience-Conscious: The more you focus on yourself, the more nervous you get. Shift consciousness outward — no capacity left to be self-conscious."
+      domain: fear-management
+      source: "YT/Delete_Fear_Public_Speaking"
+
+    - id: "MM-VG-031"
+      title: "Wound vs Scar Storytelling"
+      content: "Wound vs Scar Storytelling: Speaking from a wound turns listeners into therapists. Speaking from a scar allows clarity, perspective, and emotional control."
+      domain: storytelling
+      source: "YT/Never_Tell_Stories_Like_This"
+
+    - id: "MM-VG-032"
+      title: "50/50 Attention Split"
+      content: "50/50 Attention Split: Most people put 100% into WHAT they say and 0% into HOW. Split 50/50 between content and delivery."
+      domain: communication-skills
+      source: "YT/5_Speaking_Traps"
+
+    - id: "MM-VG-033"
+      title: "Volume for Free vs Expensive Volume"
+      content: "Volume for Free vs Expensive Volume: Straining throat = expensive (unsustainable). Lifting soft palate for resonance = free (sustainable all day)."
+      domain: vocal-mastery
+      source: "YT/Daily_Routine_Deeper_Voice"
+
+    - id: "MM-VG-034"
+      title: "Story Is the Door, Meaning Is the Room"
+      content: "The Story Is the Door, the Meaning Is the Room: The story is just the doorway. The meaning you share after is what you lead people into."
+      domain: storytelling
+      source: "YT/ONLY_3_Ingredients"
+
+    - id: "MM-VG-035"
+      title: "Content Shield"
+      content: "Content Shield: Hiding behind complexity because you think it equals credibility. 'If I sound smart enough, no one will question me.'"
+      domain: communication-skills
+      source: "YT/5_Speaking_Traps"
+
+    - id: "MM-VG-036"
+      title: "Conversational Threading"
+      content: "Conversational Threading: Every answer contains threads you can pull on. Ask a key question, follow up on one thread. Each answer reveals more threads."
+      domain: conversation-skills
+      source: "YT/5_communication_hacks"
+
+    - id: "MM-VG-037"
+      title: "Four Color Communication"
+      content: "Four Color Communication (Thomas Erickson): Red = power/results. Yellow = fun/connection. Green = peace/stability. Blue = logic/structure. Master all four to connect with 95% of people."
+      domain: influence
+      source: "YT/How_to_Talk_ANYONE_Color"
+
+    - id: "MM-VG-038"
+      title: "Three Forms of Rambling"
+      content: "Three Forms of Rambling: (1) Detail rambling. (2) Sequence rambling (beginning to end). (3) Repetition rambling (same thing over and over)."
+      domain: communication-skills
+      source: "YT/PARA_Method"
+
+    - id: "MM-VG-039"
+      title: "Be As Big As The Room"
+      content: "Be As Big As The Room: Match energy to audience size. Camera = imagine 10-20 people. 10,000 people = big energy. One-on-one = dial down."
+      domain: presentation-skills
+      source: "YT/Why_Nobody_Listens"
+
+    - id: "MM-VG-040"
+      title: "Cognitive Overload Model"
+      content: "Cognitive Overload Model: Working memory holds 4-7 items. Extra question pushes past limit, causing freeze. Frameworks provide retrieval cues."
+      domain: impromptu-speaking
+      source: "YT/Why_You_Freeze"
+
+    - id: "MM-VG-041"
+      title: "Fight-Flight-Freeze Response"
+      content: "Fight-Flight-Freeze Response: Amygdala doesn't distinguish bear from boardroom. Adrenaline floods, prefrontal cortex shuts down."
+      domain: fear-management
+      source: "YT/Why_You_Freeze"
+
+    - id: "MM-VG-042"
+      title: "Staccato vs Legato Speech"
+      content: "Staccato vs Legato Speech: Staccato = disconnected words (causes stuttering). Legato = linked words like connected notes (creates flow)."
+      domain: vocal-mastery
+      source: "YT/3_Simple_Exercises_Fix_Stutter"
+
+    - id: "MM-VG-043"
+      title: "The Sheep Trap"
+      content: "The Sheep Trap: Every goal you pursue will eventually become monotonous if you don't keep evolving."
+      domain: life-philosophy
+      source: "YT/Vinh_Ali_Alchemist_EP1"
+
+    - id: "MM-VG-044"
+      title: "Rigidity vs Fluidity"
+      content: "Rigidity vs Fluidity: Life requires knowing when to be rigid (discipline) and when to be fluid (adapt). Too rigid = break. Too fluid = potato."
+      domain: life-philosophy
+      source: "YT/Vinh_Ali_Alchemist_EP1"
+
+    - id: "MM-VG-045"
+      title: "Career Capital Stack"
+      content: "Career Capital Stack: Your rare skills are currency. Mastery of rare skill combination buys autonomy, competence, relatedness."
+      domain: personal-development
+      source: "YT/Vinh_Ali_So_Good_EP2"
+
+    - id: "MM-VG-046"
+      title: "The Bamboo Tree"
+      content: "The Bamboo Tree: Months of invisible watering then explosive growth in weeks. There's a tipping point where overnight success happens after invisible effort."
+      domain: mastery
+      source: "YT/Vinh_Ali_Atomic_Habits_EP10"
+
+    - id: "MM-VG-047"
+      title: "Create Your Own Game"
+      content: "Create Your Own Game: Don't try to be best at someone else's game. Create your own where your unique combination gives you the unfair advantage."
+      domain: personal-development
+      source: "YT/Vinh_Ali_Atomic_Habits_EP10"
+
+    - id: "MM-VG-048"
+      title: "Burning the Boats"
+      content: "Burning the Boats: Having responsibility removes quitting as an option. Creating obligations that only allow forward movement."
+      domain: personal-development
+      source: "YT/Vinh_Ali_Think_Grow_Rich_EP15"
+
+    - id: "MM-VG-049"
+      title: "The Self-Story Loop"
+      content: "The Self-Story Loop: Identity story → thoughts/feelings → actions → evidence → reinforces story. Can spiral positively outward or negatively inward."
+      domain: personal-development
+      source: "YT/Vinh_Ali_33_Laws_EP41"
+
+    - id: "MM-VG-050"
+      title: "Recalibration Frequency"
+      content: "Recalibration Frequency: Course correct every 6-12 months instead of every 10 years. Small deviations become massive errors when left unchecked."
+      domain: life-philosophy
+      source: "YT/Vinh_Ali_33_Laws_EP41"
+
+    - id: "MM-VG-051"
+      title: "The Cup Problem"
+      content: "The Cup Problem: Not solving root problems by changing external circumstances — same person, different cup, same suffering."
+      domain: life-philosophy
+      source: "YT/Vinh_Ali_Power_of_Now_EP30"
+
+    - id: "MM-VG-052"
+      title: "Solve It, Accept It, or Leave It"
+      content: "Solve It, Accept It, or Leave It: For any problem, you have only three options. Choose one and commit."
+      domain: life-philosophy
+      source: "YT/Vinh_Ali_Power_of_Now_EP30"
+
+    - id: "MM-VG-053"
+      title: "The Matthew Effect for Skills"
+      content: "The Matthew Effect for Skills: Communication is the highest-compounding cumulative advantage. Once developed, it multiplies returns across every domain."
+      domain: communication-skills
+      source: "YT/Vinh_Ali_Outliers_EP44"
+
+    - id: "MM-VG-054"
+      title: "Version 1.0 Mindset"
+      content: "Version 1.0 Mindset: Release without perfection. Each iteration allows improvement with real feedback rather than imagined perfection."
+      domain: creativity
+      source: "YT/Vinh_Ali_Creative_Act_EP39"
+
+    - id: "MM-VG-055"
+      title: "The Two Arrows (Buddhist)"
+      content: "The Two Arrows (Buddhist): First arrow = unavoidable event. Second arrow = beating yourself up about it. Minimize second arrows."
+      domain: life-philosophy
+      source: "YT/Vinh_Ali_25_Life_Lessons"
+
   L3_HEURISTICS:
     - id: "HEUR-VG-001"
       title: "Volume 7/10 Default for Presentations"
@@ -319,181 +900,733 @@ layers:
       title: "More Pauses for Complex Topics"
       content: "When teaching something new or complex, increase pauses significantly. Pauses = processing time for the audience."
       domain: vocal-mastery
-      source: "SA/03-Module3/Educator"
+      source: "SA/02-Module2/Rate-of-Speech"
 
     - id: "HEUR-VG-006"
-      title: "Legato for Motivator"
-      content: "Use legato (words linking together) when in Motivator archetype. Creates flowing, inspiring energy."
-      domain: vocal-archetypes
-      source: "SA/03-Module3/Motivator"
+      title: "Hands in Pockets = Closed Off"
+      content: "Hands in pockets = closed off, hiding, lacking confidence. Default position should be Placator (palms visible, open)."
+      domain: body-language
+      source: "SA/05-Module5/Hand-Gestures"
 
     - id: "HEUR-VG-007"
-      title: "Staccato for Coach"
-      content: "Use staccato (punchy, separated words) when in Coach archetype. Creates directness and urgency."
-      domain: vocal-archetypes
-      source: "SA/03-Module3/Coach"
-
-    - id: "HEUR-VG-008"
-      title: "Volume 7+ for Motivator and Coach"
-      content: "Both Motivator and Coach archetypes require volume 7/10 or higher. Strong volume is essential for inspiring and directing."
-      domain: vocal-archetypes
-      source: "SA/03-Module3/Motivator+Coach"
-
-    - id: "HEUR-VG-009"
-      title: "Conversational + Melody = Friend"
-      content: "Friend archetype requires conversational language, lots of melody, relaxed body language. Filler words are OK in Friend mode."
-      domain: vocal-archetypes
-      source: "SA/03-Module3/Friend"
-
-    - id: "HEUR-VG-010"
-      title: "4MAT Sequence Rule"
-      content: "Start with FRIEND (connect) → MOTIVATOR (why) → EDUCATOR (what) → COACH (how) → FRIEND (reconnect). Never start with content (what) — start with why."
-      domain: presentation-skills
-      source: "SA/03-Module3/Enhanced"
-
-    - id: "HEUR-VG-011"
-      title: "Dopamine = Curiosity/Suspense"
-      content: "Share stories with curiosity gaps and suspense to trigger Dopamine. Make them WANT to know what happens next."
-      domain: storytelling
-      source: "SA/04-Module4/Dopamine"
-
-    - id: "HEUR-VG-012"
-      title: "Oxytocin = Vulnerability/Empathy"
-      content: "Share vulnerable moments to trigger Oxytocin. When you're vulnerable, audience connects empathetically."
-      domain: storytelling
-      source: "SA/04-Module4/Oxytocin"
-
-    - id: "HEUR-VG-013"
-      title: "Endorphins = Humor/Relief"
-      content: "Use humor strategically to trigger Endorphins. Laughter = relief, bonding, openness to message."
-      domain: storytelling
-      source: "SA/04-Module4/Endorphins"
-
-    - id: "HEUR-VG-014"
-      title: "Cortisol = Tension/Urgency"
-      content: "Create tension and urgency to trigger Cortisol. Makes audience feel stakes and importance of action."
-      domain: storytelling
-      source: "SA/04-Module4/Cortisol"
-
-    - id: "HEUR-VG-015"
-      title: "Filler Words Always Distract"
-      content: "Filler words (um, uh, like) ALWAYS distract from the message. They are always a problem per the Golden Rule."
-      domain: vocal-mastery
-      source: "SA/01-Module1/Golden-Rule"
-
-    - id: "HEUR-VG-016"
-      title: "Record and Review Method"
-      content: "Record yourself speaking. Review the recording. Identify your defaults. This is the fastest path to self-awareness."
-      domain: self-awareness
-      source: "SA/02-Module2/Self-Awareness-Technique"
-
-    - id: "HEUR-VG-017"
-      title: "Neutral Ears Before Familiar"
-      content: "Practice new techniques with strangers first (coffee shops, gas stations). They have no bias. Family will react negatively to change."
-      domain: self-awareness
-      source: "SA/01-Module1/Universal-Laws"
-
-    - id: "HEUR-VG-018"
-      title: "Prime Before Practice"
-      content: "Tell family/colleagues: 'I'm working on improving my communication skills, please support me.' This prevents pushback when you sound different."
-      domain: self-awareness
-      source: "SA/01-Module1/Universal-Laws"
-
-    - id: "HEUR-VG-019"
-      title: "Door Frame Posture Anchor"
-      content: "Every time you walk through a door frame, use it as anchor to reset your posture. Shoulders back, head aligned."
-      domain: body-language
-      source: "SA/05-Module5/Posture"
-
-    - id: "HEUR-VG-020"
-      title: "Face = Remote Control"
-      content: "Your face is the remote control that injects emotion into words. Same words with blank face = creepy/suspicious. Add facial expression to add context."
+      title: "Selfie Test for Facial Expressions"
+      content: "Take selfies of each of the 7 facial expression foundations. If YOUR face can't tell what the emotion is, neither can your audience."
       domain: body-language
       source: "SA/05-Module5/Facial-Expressions"
 
+    - id: "HEUR-VG-008"
+      title: "3-5 Seconds Eye Contact Rule"
+      content: "Hold eye contact for 3-5 seconds per person before naturally moving to next. Shorter = shifty. Longer = intense/creepy."
+      domain: body-language
+      source: "SA/05-Module5/Eye-Contact"
+      type: numeric
+
+    - id: "HEUR-VG-009"
+      title: "Motivator Archetype for WHY"
+      content: "Use Motivator archetype when answering WHY something matters. Legato delivery, high volume, open face, energy. Make them THIRSTY for the content."
+      domain: vocal-archetypes
+      source: "SA/03-Module3/Motivator"
+
+    - id: "HEUR-VG-010"
+      title: "Educator Archetype for WHAT"
+      content: "Use Educator archetype when delivering WHAT (the content). Slower rate, more pauses, lower pitch endings, minimal movement. Give them TIME to process."
+      domain: vocal-archetypes
+      source: "SA/03-Module3/Educator"
+
+    - id: "HEUR-VG-011"
+      title: "Coach Archetype for HOW"
+      content: "Use Coach archetype when directing HOW to do something. Staccato delivery, strong volume, finger out okay, direct language. Push them to ACTION."
+      domain: vocal-archetypes
+      source: "SA/03-Module3/Coach"
+
+    - id: "HEUR-VG-012"
+      title: "Friend Archetype for Connection"
+      content: "Use Friend archetype to connect and build rapport. Conversational tone, lots of melody, relaxed body, filler words acceptable. Creates TRUST."
+      domain: vocal-archetypes
+      source: "SA/03-Module3/Friend"
+
+    - id: "HEUR-VG-013"
+      title: "Don't Over-Describe the Incident"
+      content: "In storytelling, keep the incident tight. The audience doesn't need every detail — they need enough to FEEL it. Over-description kills momentum."
+      domain: storytelling
+      source: "SA/04-Module4/Storytelling-Tips"
+
+    - id: "HEUR-VG-014"
+      title: "Relive Don't Report"
+      content: "When telling stories, RELIVE the moment — use present tense, body language, facial expressions. Don't REPORT it like a news anchor."
+      domain: storytelling
+      source: "SA/04-Module4/Storytelling-Formula"
+
+    - id: "HEUR-VG-015"
+      title: "Bridge with AND THE REASON"
+      content: "Always bridge your story to the audience with 'And the reason I tell this story is...' Without this bridge, the story is just entertainment."
+      domain: storytelling
+      source: "SA/04-Module4/Linking"
+
+    - id: "HEUR-VG-016"
+      title: "VAKS Sensory Detail"
+      content: "Add Visual, Auditory, Kinesthetic, Smell details to stories. The more senses engaged, the more vivid the experience for the listener."
+      domain: storytelling
+      source: "SA/04-Module4/Storytelling-Formula"
+
+    - id: "HEUR-VG-017"
+      title: "Dopamine = Curiosity Driver"
+      content: "Dopamine is released when the brain detects something NEW or unexpected. Vary your delivery to trigger constant micro-doses of curiosity."
+      domain: audience-engagement
+      source: "SA/06-Module6/Chemical-Framework"
+
+    - id: "HEUR-VG-018"
+      title: "Oxytocin = Trust Builder"
+      content: "Oxytocin is released through stories, vulnerability, and connection. Use personal stories and the Friend archetype to build trust."
+      domain: audience-engagement
+      source: "SA/06-Module6/Chemical-Framework"
+
+    - id: "HEUR-VG-019"
+      title: "Endorphins = Humor Reward"
+      content: "Endorphins are released through laughter and play. Humor is NOT comedy — it's lightness, play, and unexpected moments."
+      domain: audience-engagement
+      source: "SA/06-Module6/Chemical-Framework"
+
+    - id: "HEUR-VG-020"
+      title: "Serotonin = Status Recognition"
+      content: "Serotonin is released when someone feels acknowledged, important, valued. Call people by name. Recognize contributions publicly."
+      domain: audience-engagement
+      source: "SA/06-Module6/Chemical-Framework"
+
     - id: "HEUR-VG-021"
-      title: "Placator = Open but Weak Authority"
-      content: "Palms up (Placator) = inviting, non-threatening, open. But lacks authority. Use for openings and friendly moments."
+      title: "Power Sphere Rule"
+      content: "Keep hand gestures within the Power Sphere — from belly to eyes, shoulder width. Outside this zone, gestures look erratic or weak."
       domain: body-language
       source: "SA/05-Module5/Hand-Gestures"
 
     - id: "HEUR-VG-022"
-      title: "Leveler = Authority"
-      content: "Palms down (Leveler) = authority, control, credibility. Use when you need to be taken seriously."
-      domain: body-language
-      source: "SA/05-Module5/Hand-Gestures"
+      title: "Walk TO Not AWAY"
+      content: "When moving on stage, walk TOWARD the audience to emphasize key points. Walking AWAY signals retreat or disengagement."
+      domain: stage-presence
+      source: "SA/05-Module5/Movement"
 
     - id: "HEUR-VG-023"
-      title: "Blamer = Emphasis (Use Sparingly)"
-      content: "Pointing (Blamer) = drive a point home. Extremely powerful but use sparingly. Full finger point is softer alternative."
+      title: "Posture = First Impression"
+      content: "Fix posture FIRST before anything else in body language. Shoulders back, head aligned. Use door frame anchor daily to reset."
       domain: body-language
-      source: "SA/05-Module5/Hand-Gestures"
+      source: "SA/05-Module5/Posture"
 
     - id: "HEUR-VG-024"
-      title: "Computer = Active Listening"
-      content: "Chin rest (Computer) = shows you're processing, computing what they said. Use while listening, especially on video calls."
-      domain: body-language
-      source: "SA/05-Module5/Hand-Gestures"
+      title: "Filler Words = Processing Sounds"
+      content: "Filler words (um, uh, like) are the brain's processing sounds. Replace with SILENCE. Pause is more powerful than filler."
+      domain: vocal-mastery
+      source: "SA/02-Module2/Pause"
 
     - id: "HEUR-VG-025"
-      title: "Distractor = Pattern Break"
-      content: "Auditory clap + redirect (Distractor) = pattern break when losing audience. Must include sound. Use rarely."
-      domain: body-language
-      source: "SA/05-Module5/Hand-Gestures"
-
-    - id: "HEUR-VG-026"
-      title: "Open Face for Motivator"
-      content: "Motivator archetype requires open facial expressions, high energy, legato voice, and purposeful movement."
-      domain: vocal-archetypes
+      title: "Legato for Inspiration"
+      content: "Legato (connected, flowing speech) is the delivery style of the Motivator archetype. Words flow into each other for emotional momentum."
+      domain: vocal-mastery
       source: "SA/03-Module3/Motivator"
 
-    - id: "HEUR-VG-027"
-      title: "Minimal Movement for Educator"
-      content: "Educator archetype requires minimal movement (reduces visual clutter), slower rate, more pauses, matter-of-fact pitch."
-      domain: vocal-archetypes
-      source: "SA/03-Module3/Educator"
-
-    - id: "HEUR-VG-028"
-      title: "Strong Body for Coach"
-      content: "Coach archetype requires strong body language, finger out (blamer gesture), staccato voice, direct/punchy language."
-      domain: vocal-archetypes
+    - id: "HEUR-VG-026"
+      title: "Staccato for Direction"
+      content: "Staccato (punchy, separated words) is the delivery style of the Coach archetype. Creates urgency and call to action."
+      domain: vocal-mastery
       source: "SA/03-Module3/Coach"
 
+    - id: "HEUR-VG-027"
+      title: "Energy = Generosity"
+      content: "High energy in delivery is an act of generosity to your audience. Low energy is selfish — you're protecting yourself at their expense."
+      domain: communication-skills
+      source: "SA/01-Module1/Universal-Laws"
+
+    - id: "HEUR-VG-028"
+      title: "Neutral Ears First"
+      content: "Practice new communication behaviors with strangers FIRST (Uber drivers, coffee shops). Family and colleagues have preconceived ideas about your voice."
+      domain: self-awareness
+      source: "SA/01-Module1/Universal-Laws"
+
     - id: "HEUR-VG-029"
-      title: "Relaxed Body for Friend"
-      content: "Friend archetype requires relaxed body language, conversational language, lots of melody, filler words OK."
+      title: "Default Archetype Trap"
+      content: "Most people have ONE default archetype. This creates predictability. The audience's brain disengages because it knows what's coming."
       domain: vocal-archetypes
-      source: "SA/03-Module3/Friend"
+      source: "SA/03-Module3"
 
     - id: "HEUR-VG-030"
-      title: "3-Step Story: Incident → Transformation → Life Lesson"
-      content: "Every great story has 3 steps: Incident (who/where/what/when + VAKS + characters alive), Transformation (what changed), Life Lesson (connect to audience)."
+      title: "Dialogue Brings Characters Alive"
+      content: "In stories, don't describe what someone said — BECOME them. Change voice, posture, gestures. Dialogue is the engine of vivid storytelling."
       domain: storytelling
       source: "SA/04-Module4/Storytelling-Formula"
 
     - id: "HEUR-VG-031"
-      title: "VAKS for Story Color"
-      content: "Add color with VAKS: Visual (describe what you see), Auditory (sounds), Kinesthetic (feelings/touch), Smell. This transforms flat reporting into vivid reliving."
-      domain: storytelling
-      source: "SA/04-Module4/Storytelling-Formula"
+      title: "Prime Your Inner Circle"
+      content: "Before using new vocal behaviors with family/friends, TELL them you're working on communication skills. Otherwise they think something is wrong."
+      domain: self-awareness
+      source: "SA/01-Module1/Universal-Laws"
 
     - id: "HEUR-VG-032"
-      title: "Characters Alive = Body + Dialogue"
-      content: "Bring characters to life through body language (physically become the character) AND dialogue (use their voice/tone). This = reliving, not reporting."
-      domain: storytelling
-      source: "SA/04-Module4/Storytelling-Formula"
+      title: "Record Monthly for Progress"
+      content: "Record yourself at least monthly and compare to previous recordings. Progress in communication is invisible without playback evidence."
+      domain: self-awareness
+      source: "SA/02-Module2/Self-Awareness-Technique"
 
     - id: "HEUR-VG-033"
-      title: "Diaphragmatic Breathing = Foundation"
-      content: "Diaphragmatic breathing is the fuel of all vocal power. Belly expands on inhale, contracts on exhale. Foundation of the voice pipeline."
-      domain: vocal-coaching
-      source: "SA/06-Module6/Respiration"
+      title: "7 Facial Expression Foundations"
+      content: "Master 7 facial expressions: Happy, Sad, Angry, Fearful, Surprised, Disgusted, Contemptuous. These are the FOUNDATIONS — combine and vary for complexity."
+      domain: body-language
+      source: "SA/05-Module5/Facial-Expressions"
 
     - id: "HEUR-VG-034"
-      title: "Power Sphere Zone"
-      content: "Keep hand gestures between belly button and eyes for maximum effectiveness. Below = weak. Above = bizarre."
+      title: "Blamer Gesture Strategically"
+      content: "The Blamer gesture (pointing finger) is powerful but divisive. Use sparingly and only for dramatic emphasis — never at specific individuals."
       domain: body-language
       source: "SA/05-Module5/Hand-Gestures"
+
+    # === YouTube Elements (HEUR-VG-035 through HEUR-VG-120) ===
+
+    - id: "HEUR-VG-035"
+      title: "Volume 6-7 Scale Default"
+      content: "Volume 1-10 scale: Default speaking should be 6-7/10. Most people speak at 3. At 6-7 you project confidence, authority, vitality."
+      domain: vocal-mastery
+      source: "YT/13_Years"
+      type: numeric
+
+    - id: "HEUR-VG-036"
+      title: "Copy 3-5 Communicators"
+      content: "Find 3-5 communicators you admire. Copy their posture, tone, gestures. This develops your range."
+      domain: mastery
+      source: "YT/10_Communication_Skills"
+
+    - id: "HEUR-VG-037"
+      title: "24-Hour Review Delay"
+      content: "Record 5-10 min video, wait 24 hours before reviewing. Too self-critical immediately after."
+      domain: self-awareness
+      source: "YT/30_Day_Plan"
+
+    - id: "HEUR-VG-038"
+      title: "80% of Wit is Prepared"
+      content: "80% of witty responses aren't spontaneous — people have experienced that situation before and repeat a line that works."
+      domain: humor
+      source: "YT/13_Years"
+      type: numeric
+
+    - id: "HEUR-VG-039"
+      title: "Daily Social Anxiety KPI"
+      content: "Daily KPI for social anxiety: Say hello to 3 new people. Level up from hello to hello+compliment to hello+compliment+question."
+      domain: confidence
+      source: "YT/33_Minutes"
+      type: numeric
+
+    - id: "HEUR-VG-040"
+      title: "Face = Remote Control for Voice"
+      content: "Face = remote control for voice. Move your face to move your voice. Blank face = no emotion."
+      domain: body-language
+      source: "YT/13_Years"
+
+    - id: "HEUR-VG-041"
+      title: "Low Pitch Endings for Authority"
+      content: "End sentences on LOW pitch for authority. High pitch = sounds like a question = kills credibility."
+      domain: vocal-mastery
+      source: "YT/10_Speaking_Techniques"
+
+    - id: "HEUR-VG-042"
+      title: "Siren Technique 5 Min Daily"
+      content: "Siren technique: 5 min/day, go low to high to falsetto and back. Expands vocal range."
+      domain: vocal-mastery
+      source: "YT/13_Years"
+      type: numeric
+
+    - id: "HEUR-VG-043"
+      title: "3% Reach Level 3 Communication"
+      content: "Only 3% of people reach Level 3 (conscious competence) in communication."
+      domain: mastery
+      source: "YT/4_Levels"
+      type: numeric
+
+    - id: "HEUR-VG-044"
+      title: "6 Core Facial Emotions"
+      content: "6 core emotions attached to facial expressions: Happy, Sad, Disgust, Angry, Surprise, Fearful. Must show all 6 tonalities."
+      domain: body-language
+      source: "YT/13_Years"
+      type: numeric
+
+    - id: "HEUR-VG-045"
+      title: "3 Tweaks Transform Perception"
+      content: "Tweaking just 3 things can completely transform how people perceive you."
+      domain: communication-skills
+      source: "YT/47_Minutes_LIVE"
+      type: numeric
+
+    - id: "HEUR-VG-046"
+      title: "Music Matching Before Speaking"
+      content: "Before speaking: play a song matching desired energy. Fun = upbeat. Epic = focused. Lo-fi = calm."
+      domain: presentation-skills
+      source: "YT/10_Speaking_Techniques"
+
+    - id: "HEUR-VG-047"
+      title: "$300 Accent Diagnostic"
+      content: "For accent fix: Record 20min improvised video. Send to speech pathologist ($150) + ESL teacher ($150). $300 total diagnostic."
+      domain: vocal-mastery
+      source: "YT/43_minutes"
+      type: numeric
+
+    - id: "HEUR-VG-048"
+      title: "50-50 vs 70-30 Conversation Split"
+      content: "Good conversationalist gives 50-50 time. To hold space, aim for other person to speak 70%+."
+      domain: conversation-skills
+      source: "YT/5_Communication_Secrets"
+      type: numeric
+
+    - id: "HEUR-VG-049"
+      title: "Pre-Speaking Nerve Management"
+      content: "When nervous: (1) Wim Hof breathing 2-3 cycles, (2) Brisk walk/star jumps/10 pushups to burn adrenaline."
+      domain: fear-management
+      source: "YT/43_minutes"
+
+    - id: "HEUR-VG-050"
+      title: "Move On If Wit Doesn't Land"
+      content: "If wit doesn't land, don't spend 30 seconds explaining. Just move on. If you don't make a big deal, they won't."
+      domain: humor
+      source: "YT/13_Years"
+
+    - id: "HEUR-VG-051"
+      title: "5-10% Rapport in Interviews"
+      content: "In job interviews, invest 5-10% building connection/rapport before diving into qualifications."
+      domain: influence
+      source: "YT/43_minutes"
+      type: numeric
+
+    - id: "HEUR-VG-052"
+      title: "15+ Min = Tell a Story"
+      content: "If 15+ minutes and want to be memorable, tell a story. If less, give a straight precise answer."
+      domain: storytelling
+      source: "YT/ONLY_3_Ingredients"
+      type: numeric
+
+    - id: "HEUR-VG-053"
+      title: "70% Vocal Practice Transfer"
+      content: "Only 70% of vocal practice follows through to everyday voice. Practice at 150% intensity."
+      domain: vocal-mastery
+      source: "YT/Daily_Routine_Deeper_Voice"
+      type: numeric
+
+    - id: "HEUR-VG-054"
+      title: "Gesture Frequency Rule"
+      content: "Repetitive gesture every 30 min = fine. Every 20 seconds = visual clutter, must reduce."
+      domain: body-language
+      source: "YT/3_Powerful_Ways_Stories"
+      type: numeric
+
+    - id: "HEUR-VG-055"
+      title: "9 Min Daily Vocal Routine"
+      content: "3 min per vocal exercise, 3 exercises = 9 min daily routine. Commit 3-6 months for transformation."
+      domain: vocal-mastery
+      source: "YT/Daily_Routine_Deeper_Voice"
+      type: numeric
+
+    - id: "HEUR-VG-056"
+      title: "Wim Hof Fixes 80% of Nerves"
+      content: "Wim Hof breathing 2-3 cycles (2-3 min each) before speaking fixes ~80% of nerves."
+      domain: fear-management
+      source: "YT/Delete_Fear"
+      type: numeric
+
+    - id: "HEUR-VG-057"
+      title: "Stories = 93% Recall"
+      content: "Stanford study: stories = 93% recall vs 13% for facts alone."
+      domain: storytelling
+      source: "YT/ONLY_3_Ingredients"
+      type: numeric
+
+    - id: "HEUR-VG-058"
+      title: "Headline First Then Detail"
+      content: "Say headline first — one clean sentence. Then add detail only if asked."
+      domain: communication-skills
+      source: "YT/5_Speaking_Traps"
+
+    - id: "HEUR-VG-059"
+      title: "3-4 Min Daily Reading Fix"
+      content: "Read book 3-4 min daily with exaggerated mouth movements to fix mumbling."
+      domain: vocal-mastery
+      source: "YT/Speak_10X_Clearer"
+      type: numeric
+
+    - id: "HEUR-VG-060"
+      title: "10-15 Yawns Daily for Resonance"
+      content: "Do 10-15 yawns each day to build soft palate awareness and resonance."
+      domain: vocal-mastery
+      source: "YT/5_communication_hacks"
+      type: numeric
+
+    - id: "HEUR-VG-061"
+      title: "Finish Low Then Pause"
+      content: "Finish sentences low pitch then pause, rather than ending high or micro-checking (right? does that make sense?)."
+      domain: vocal-mastery
+      source: "YT/5_Speaking_Traps"
+
+    - id: "HEUR-VG-062"
+      title: "Volume + Melody = Confident"
+      content: "Volume + No Melody = Sounds angry. Volume + Melody = Confident and warm."
+      domain: vocal-mastery
+      source: "YT/How_Speak_Louder"
+
+    - id: "HEUR-VG-063"
+      title: "Box Breathing 4-4-4-4"
+      content: "Box breathing: In 4, hold 4, out 4, hold 4. Used by Navy SEALs."
+      domain: fear-management
+      source: "YT/NEVER_Feel_Anxiety"
+      type: numeric
+
+    - id: "HEUR-VG-064"
+      title: "Present Tense in Stories"
+      content: "Use present tense in stories ('I'm standing there') vs past tense ('I was standing there'). Present = reliving."
+      domain: storytelling
+      source: "YT/ONLY_3_Ingredients"
+
+    - id: "HEUR-VG-065"
+      title: "Pair Wins with Cost"
+      content: "When sharing a win, pair it with the cost/struggle. Never share just the outcome."
+      domain: storytelling
+      source: "YT/Never_Tell_Stories"
+
+    - id: "HEUR-VG-066"
+      title: "Top 5 Go-To Questions"
+      content: "Prepare top 5 go-to conversation questions. In high-pressure moments, won't have to think on spot."
+      domain: conversation-skills
+      source: "YT/5_communication_hacks"
+
+    - id: "HEUR-VG-067"
+      title: "Credibility in 30-60 Seconds"
+      content: "Audiences decide credibility within 30-60 seconds of your presentation."
+      domain: presentation-skills
+      source: "YT/3_Remarkable_First_Impression"
+      type: numeric
+
+    - id: "HEUR-VG-068"
+      title: "Hands by Sides as Default"
+      content: "If no reason to use hands, have them by sides. Default to neutral, not fidgeting."
+      domain: body-language
+      source: "YT/3_Remarkable_First_Impression"
+
+    - id: "HEUR-VG-069"
+      title: "5 Eye Contact Don'ts"
+      content: "5 Eye Contact Don'ts: (1) Don't dart. (2) Don't scan. (3) Don't go sequential L-C-R. (4) Don't look over heads. (5) Don't stare one person too long."
+      domain: body-language
+      source: "YT/5_things_NOT_eye_contact"
+
+    - id: "HEUR-VG-070"
+      title: "Virtual Eye Contact Rule"
+      content: "Virtual eye contact: When speaking, camera 100%. When listening, camera 80%. Hide self-view."
+      domain: presentation-skills
+      source: "YT/13_Years"
+      type: numeric
+
+    - id: "HEUR-VG-071"
+      title: "Optimal Keynote Mix"
+      content: "Optimal keynote: 30% education + 30% entertainment + 30% inspiration + 10% X-factor."
+      domain: presentation-skills
+      source: "YT/Why_Nobody_Listens"
+      type: numeric
+
+    - id: "HEUR-VG-072"
+      title: "Stand for Virtual Calls"
+      content: "For virtual calls: stand, don't sit. Better access to instrument, energy, breathing."
+      domain: presentation-skills
+      source: "YT/13_Years"
+
+    - id: "HEUR-VG-073"
+      title: "Volume 6-7 Projects CABV"
+      content: "Volume 6-7/10 as default projects confidence, authority, vitality, belief."
+      domain: vocal-mastery
+      source: "YT/13_Years"
+      type: numeric
+
+    - id: "HEUR-VG-074"
+      title: "Energy Drops 50-70% on Camera"
+      content: "Energy drops 50-70% on camera vs in person. Must deliberately amp up for virtual."
+      domain: presentation-skills
+      source: "YT/Why_Nobody_Listens"
+      type: numeric
+
+    - id: "HEUR-VG-075"
+      title: "5 Seconds to Think = Ask Question"
+      content: "If need more than 5 seconds to think, ask clarifying question — buys 10-15 extra seconds."
+      domain: impromptu-speaking
+      source: "YT/5_Second_Trick"
+      type: numeric
+
+    - id: "HEUR-VG-076"
+      title: "Feedback in Private Only"
+      content: "Give feedback in private, never in front of peers. Leave time between event and feedback."
+      domain: leadership
+      source: "YT/Difficult_Conversation_EASY_Mode"
+
+    - id: "HEUR-VG-077"
+      title: "Keep Feedback Tonality Caring"
+      content: "Keep feedback tonality caring throughout. Shift from warm to critical signals attack."
+      domain: leadership
+      source: "YT/Difficult_Conversation"
+
+    - id: "HEUR-VG-078"
+      title: "3 Levels to Stop Talker"
+      content: "To stop never-ending talker: Level 1 = visual (raise palm). Level 2 = visual + auditory. Level 3 = talk over them."
+      domain: conversation-skills
+      source: "YT/3_Strategies_Interrupt"
+
+    - id: "HEUR-VG-079"
+      title: "Use I-Statements for Feedback"
+      content: "Use 'I statements' for feedback. 'I noticed that...' not 'You did this wrong.'"
+      domain: leadership
+      source: "YT/5_Steps_Feedback_PRO"
+
+    - id: "HEUR-VG-080"
+      title: "Humor is Not Comedy"
+      content: "Humor ≠ comedy. Humor = lightness + smile + melody + volume."
+      domain: humor
+      source: "YT/3_Powerful_Stories"
+
+    - id: "HEUR-VG-081"
+      title: "Camera Energy for 10-20 People"
+      content: "On camera, imagine audience of 10-20 people and bring that energy level."
+      domain: presentation-skills
+      source: "YT/Why_Nobody_Listens"
+
+    - id: "HEUR-VG-082"
+      title: "Pattern Interrupts Mid-Speech"
+      content: "Pattern Interrupts: Drop volume mid-sentence, pause unexpectedly, move location, inject humor in serious moments."
+      domain: presentation-skills
+      source: "YT/10_Speaking_Techniques"
+
+    - id: "HEUR-VG-083"
+      title: "Pause Before AND After Big Point"
+      content: "Pause BEFORE and AFTER big point. Before = anticipation. After = weight."
+      domain: presentation-skills
+      source: "YT/10_Speaking_Techniques"
+
+    - id: "HEUR-VG-084"
+      title: "Mirror and Match Slowly"
+      content: "Mirror and match slowly — too fast is detectable and feels manipulative."
+      domain: influence
+      source: "YT/10_Speaking_Techniques"
+
+    - id: "HEUR-VG-085"
+      title: "Empathy Echo Technique"
+      content: "The Empathy Echo: Echo their last words back ('Overwhelmed?'). Signals 'you get me,' deepens trust."
+      domain: emotional-intelligence
+      source: "YT/10_Speaking_Techniques"
+
+    - id: "HEUR-VG-086"
+      title: "9 out of 10 Welcome You"
+      content: "9 out of 10 people welcome you at networking if you say 'Do you mind if I join?'"
+      domain: networking
+      source: "YT/Network_Top_1%"
+      type: numeric
+
+    - id: "HEUR-VG-087"
+      title: "Ask Free Time Not Job"
+      content: "Don't ask 'What's your job?' Ask 'What do you do in free time?' — you learn far more."
+      domain: conversation-skills
+      source: "YT/5_Questions_Continue"
+
+    - id: "HEUR-VG-088"
+      title: "10 Improv Classes Life-Changing"
+      content: "10 improv classes will change your life for breaking comfort zone."
+      domain: confidence
+      source: "YT/13_Years"
+      type: numeric
+
+    - id: "HEUR-VG-089"
+      title: "Brain 400 vs Mouth 150 Words/Min"
+      content: "Brain thinks 400+ words/min; mouth speaks ~150 words/min. Gap = root of stuttering."
+      domain: vocal-mastery
+      source: "YT/3_Simple_Fix_Stutter"
+      type: numeric
+
+    - id: "HEUR-VG-090"
+      title: "2-3 Second Pause Feels Natural"
+      content: "2-3 second pause feels natural to others. Gives brain breathing room."
+      domain: communication-skills
+      source: "YT/Why_You_Freeze"
+      type: numeric
+
+    - id: "HEUR-VG-091"
+      title: "Add 10-15% More Volume"
+      content: "Add 10-15% more volume than feels natural. You self-assess 7/10 but audience perceives 3/10."
+      domain: vocal-mastery
+      source: "YT/7_Communication_Cheat_Codes"
+      type: numeric
+
+    - id: "HEUR-VG-092"
+      title: "Nose Breathing 20% Better O2"
+      content: "Nose breathing improves O2 efficiency 20%, hydrates vocal cords, activates parasympathetic."
+      domain: vocal-mastery
+      source: "YT/9_Habits_Clearer_Speaking"
+      type: numeric
+
+    - id: "HEUR-VG-093"
+      title: "Exhale 1 Second Before Speaking"
+      content: "When stuttering: exhale 1 second first, THEN start speaking. Extra second relaxes body."
+      domain: vocal-mastery
+      source: "YT/5_Secrets_Stop_Stuttering"
+
+    - id: "HEUR-VG-094"
+      title: "Conviction Formula"
+      content: "Conviction formula: Short declarative sentences + 10-15% more volume + Power Drop = instant authority."
+      domain: communication-skills
+      source: "YT/7_Communication_Cheat_Codes"
+
+    - id: "HEUR-VG-095"
+      title: "Weekly Experience Documentation"
+      content: "Every week document one real work moment that taught you something. Builds experience library AI can't fake."
+      domain: personal-development
+      source: "YT/While_AI_Takes_Over"
+
+    - id: "HEUR-VG-096"
+      title: "Networking Pre-Research"
+      content: "Networking: research attendee list, connect LinkedIn 2 weeks before, study posts. Never attend blind."
+      domain: networking
+      source: "YT/Network_Top_1%"
+
+    - id: "HEUR-VG-097"
+      title: "Networking Goal = Give First"
+      content: "Networking goal: Primary = form connection. Secondary = find how to help them. Give first, ask later."
+      domain: networking
+      source: "YT/Network_Top_1%"
+
+    - id: "HEUR-VG-098"
+      title: "Never Abandon Idea from Expression"
+      content: "When sensing resistance mid-idea, pause, breathe, slow down. Never abandon idea based on a facial expression."
+      domain: confidence
+      source: "YT/5_Speaking_Traps"
+
+    - id: "HEUR-VG-099"
+      title: "Fast+Loud vs Slow+Soft"
+      content: "Faster rate + more volume = charisma/enthusiasm. Slow + soft = sincerity/calmness. Master both."
+      domain: vocal-mastery
+      source: "YT/2_simple_changes_ENERGETIC"
+
+    - id: "HEUR-VG-100"
+      title: "Don't Over-Monetize Passion"
+      content: "If monetizing passion too aggressively, you accelerate monotony. Be conscious."
+      domain: life-philosophy
+      source: "YT/Vinh_Ali_Alchemist_EP1"
+
+    - id: "HEUR-VG-101"
+      title: "Say That's Interesting First"
+      content: "When you hear challenging idea, say 'that's interesting' and sit with it before dismissing."
+      domain: life-philosophy
+      source: "YT/Vinh_Ali_4_Hour_EP3"
+
+    - id: "HEUR-VG-102"
+      title: "1 Month Energy Audit"
+      content: "Spend 1 month documenting daily what gives peak experiences and what drains you."
+      domain: personal-development
+      source: "YT/Vinh_Ali_4_Hour_EP3"
+
+    - id: "HEUR-VG-103"
+      title: "1-2 Dreams with Obsessive Focus"
+      content: "Don't have 50 dreams. Have 1-2 and fill in all details with obsessive focus."
+      domain: personal-development
+      source: "YT/Vinh_Ali_Be_Useful_EP43"
+
+    - id: "HEUR-VG-104"
+      title: "Time-Melting Activities = Omens"
+      content: "Pursue time-melting activities — when time melts, that's an omen toward your personal legend."
+      domain: life-philosophy
+      source: "YT/Vinh_Ali_Alchemist_EP1"
+
+    - id: "HEUR-VG-105"
+      title: "Practice Where You Fail"
+      content: "Schedule deliberate practice that is uncomfortable — practice where you're guaranteed to fail."
+      domain: mastery
+      source: "YT/Vinh_Ali_So_Good_EP2"
+
+    - id: "HEUR-VG-106"
+      title: "Set Due Dates to Force Action"
+      content: "Set due dates to force action. Without deadlines, productivity is stifled."
+      domain: personal-development
+      source: "YT/Vinh_Ali_Think_Grow_Rich_EP15"
+
+    - id: "HEUR-VG-107"
+      title: "1700 Actions/Year = 5/Day"
+      content: "Track with Asana: 1,700 actions/year = only 5/day. After 12 months the compound story is visible."
+      domain: personal-development
+      source: "YT/Vinh_Ali_Be_Useful_EP43"
+      type: numeric
+
+    - id: "HEUR-VG-108"
+      title: "Recalibrate Every 6 Months"
+      content: "Recalibrate every 6 months: Where am I? Am I happy? Where am I headed? Do I still want to go there?"
+      domain: life-philosophy
+      source: "YT/Vinh_Ali_Die_With_Zero_EP45"
+
+    - id: "HEUR-VG-109"
+      title: "3+ Negatives = Recalibrate Signal"
+      content: "If 3+ negative things consuming mind, it's signal to recalibrate — ignoring warning lights."
+      domain: life-philosophy
+      source: "YT/Vinh_Ali_Die_With_Zero_EP45"
+      type: numeric
+
+    - id: "HEUR-VG-110"
+      title: "Protect Morning Creative Hours"
+      content: "Limit email/social/Slack until midday. Protect morning creative hours."
+      domain: creativity
+      source: "YT/Vinh_Ali_Creative_Act_EP39"
+
+    - id: "HEUR-VG-111"
+      title: "Hans Zimmer Visualization Trick"
+      content: "Hans Zimmer playlist trick: Play cinematic music during sunrise, visualize dream life, convert to actions."
+      domain: personal-development
+      source: "YT/Vinh_Ali_Be_Useful_EP43"
+
+    - id: "HEUR-VG-112"
+      title: "Create New Evidence for New Story"
+      content: "When negative self-stories spiral, create new evidence backing a new story."
+      domain: personal-development
+      source: "YT/Vinh_Ali_33_Laws_EP41"
+
+    - id: "HEUR-VG-113"
+      title: "Pre-Networking Research Protocol"
+      content: "Before networking function: research list, identify targets, LinkedIn 2 weeks before, research posts."
+      domain: networking
+      source: "YT/Network_Top_1%"
+
+    - id: "HEUR-VG-114"
+      title: "7 Presentation Tools"
+      content: "7 Presentation Tools: Content, Questions, Props, Activities, Video, Storytelling, Analogies. Pick 1-2 beyond content."
+      domain: presentation-skills
+      source: "YT/In_7_Minutes_Better_Presentations"
+
+    - id: "HEUR-VG-115"
+      title: "Slow = Important, Fast = Less"
+      content: "Speak important things slow (verbal highlight). Less important things, speed up."
+      domain: vocal-mastery
+      source: "YT/13_Years"
+
+    - id: "HEUR-VG-116"
+      title: "Stand to Prevent Interruptions"
+      content: "Stand up to speak in team environments — signals 'I'm still going' and prevents interruptions."
+      domain: leadership
+      source: "YT/5_Steps_Feedback_PRO"
+
+    - id: "HEUR-VG-117"
+      title: "5-Min Timer for Serial Interrupters"
+      content: "For serial interrupters: Set 5-min timer, ask for floor explicitly, promise input after."
+      domain: leadership
+      source: "YT/47_Minutes_LIVE"
+
+    - id: "HEUR-VG-118"
+      title: "Golden Rule of Errors"
+      content: "Golden rule of errors (from theater): If you don't make big deal, they won't."
+      domain: presentation-skills
+      source: "YT/Why_Nobody_Listens"
+
+    - id: "HEUR-VG-119"
+      title: "Delayed Detailed Feedback"
+      content: "When someone says 'how was it?' post-stage, give love now, schedule detailed feedback 3-4 days later."
+      domain: leadership
+      source: "YT/5_Steps_Feedback_PRO"
+
+    - id: "HEUR-VG-120"
+      title: "Three-Step Minimum Warm-Up"
+      content: "Lip trills for 1 minute, then lip trill favorite song, then short bursts. Three-step minimum warm-up."
+      domain: vocal-mastery
+      source: "YT/9_Habits_Clearer_Speaking"
 
   L4_FRAMEWORKS:
     - id: "FW-VG-001"
@@ -522,99 +1655,593 @@ layers:
 
     - id: "FW-VG-005"
       title: "Golden Rule Framework"
-      content: "Universal filter for all communication behaviors: 'If it distracts people from the message, it's a problem.' Apply to accent, movement, filler words, everything."
-      domain: communication-skills
-      source: "SA/01-Module1/Golden-Rule"
+      content: "Identify most powerful sentence → Deliver it slowly with low pitch ending → Add dramatic pause before AND after → Volume slightly elevated → No filler words near it"
+      domain: vocal-mastery
+      source: "SA/02-Module2/Golden-Rule"
 
     - id: "FW-VG-006"
-      title: "Visual Image + Vocal Image"
-      content: "Visual Image = body language + clothing → creates ASSUMPTIONS from afar. Vocal Image = how you sound when speaking → converts assumptions into BELIEFS. Vocal > Visual."
-      domain: communication-skills
-      source: "SA/01-Module1/Visual-Vocal-Image"
+      title: "Storytelling Formula (3-Part)"
+      content: "Part 1 INCIDENT: Who/Where/What/When + VAKS + Dialogue. Part 2 TRANSFORMATION: Turning point, what changed. Part 3 LIFE LESSON: 'And the reason I tell this story...' + Bridge to audience."
+      domain: storytelling
+      source: "SA/04-Module4/Storytelling-Formula"
 
     - id: "FW-VG-007"
-      title: "4MAT Archetype Sequencing"
-      content: "Adapted from Bernice McCarthy: FRIEND (connect first) → MOTIVATOR (the WHY) → EDUCATOR (the WHAT) → COACH (the HOW) → FRIEND (reconnect). Start AND end with connection."
-      domain: presentation-skills
-      source: "SA/03-Module3/Enhanced"
-
-    - id: "FW-VG-008"
-      title: "3-Step Storytelling Formula"
-      content: "Step 1: INCIDENT (who, where, what, when + VAKS color + characters alive via body language and dialogue) Step 2: TRANSFORMATION (what changed as a result) Step 3: LIFE LESSON (connect the story to the audience's world)"
-      domain: storytelling
-      source: "SA/04-Module4/Storytelling-Formula"
-
-    - id: "FW-VG-009"
-      title: "4 Chemical Storytelling Framework"
-      content: "4 neurochemicals triggered by stories: DOPAMINE (curiosity/suspense stories), OXYTOCIN (vulnerability/empathy stories), ENDORPHINS (humor/relief stories), CORTISOL (tension/urgency stories). Master all 4."
-      domain: storytelling
-      source: "SA/04-Module4/Dopamine+Oxytocin+Endorphins+Cortisol"
-
-    - id: "FW-VG-010"
-      title: "VAKS Color System"
-      content: "Add sensory detail to stories: V=Visual (describe the scene), A=Auditory (sounds), K=Kinesthetic (feelings, touch, temperature), S=Smell. Makes stories vivid and memorable."
-      domain: storytelling
-      source: "SA/04-Module4/Storytelling-Formula"
-
-    - id: "FW-VG-011"
-      title: "Satir Hand Gesture Categories"
-      content: "Virginia Satir's 5 foundational gestures: 1. PLACATOR (palms up — inviting/open) 2. LEVELER (palms down — authority) 3. BLAMER (pointing — emphasis) 4. COMPUTER (chin — processing) 5. DISTRACTOR (clap+redirect — pattern break)"
-      domain: body-language
-      source: "SA/05-Module5/Hand-Gestures"
-
-    - id: "FW-VG-012"
-      title: "Power Sphere Framework"
-      content: "Mark Bowden's Power Sphere: the zone between belly button and eyes where hand gestures are most effective and influential."
-      domain: body-language
-      source: "SA/05-Module5/Hand-Gestures"
-
-    - id: "FW-VG-013"
-      title: "Storytelling Linking System"
-      content: "Method for connecting ANY story to ANY point: Tell the story → Pause → Ask 'How does this relate?' → Bridge with 'And the reason I tell this story is...' → Connect to key message."
+      title: "Story Linking Method"
+      content: "Step 1: Finish story. Step 2: Say 'And the reason I tell this story is...' Step 3: Connect to the audience's world/problem/opportunity. The LINK is the most important part of any story."
       domain: storytelling
       source: "SA/04-Module4/Linking"
 
-    - id: "FW-VG-014"
-      title: "Library of Stories Method"
-      content: "Pre-organize stories by theme/emotion. Have a catalog of ready-to-deploy stories for different situations. Build library over time. Never be caught without a relevant story."
-      domain: storytelling
-      source: "SA/04-Module4/Library-of-Stories"
+    - id: "FW-VG-008"
+      title: "4MAT Archetype Sequencing"
+      content: "Open with FRIEND (warmth, rapport) → MOTIVATOR (WHY this matters, make them thirsty) → EDUCATOR (WHAT, the content) → COACH (HOW, call to action) → Close with FRIEND (reconnect, warmth)"
+      domain: vocal-archetypes
+      source: "SA/03-Module3/Enhanced"
 
-    - id: "FW-VG-015"
-      title: "Body Language 5 Pillars"
-      content: "1. POSTURE (foundation — shoulders back, head aligned, door frame anchor) 2. HAND GESTURES (Satir 5 categories + power sphere) 3. FACIAL EXPRESSIONS (7 foundations — remote control for emotion) 4. EYE CONTACT (connection + credibility) 5. MOVEMENT (purposeful, never aimless pacing)"
+    - id: "FW-VG-009"
+      title: "4 Chemical Framework"
+      content: "1. DOPAMINE (curiosity — vary delivery, pattern interrupts) 2. OXYTOCIN (trust — personal stories, vulnerability) 3. ENDORPHINS (joy — humor, play, lightness) 4. SEROTONIN (status — recognize others, call by name)"
+      domain: audience-engagement
+      source: "SA/06-Module6/Chemical-Framework"
+
+    - id: "FW-VG-010"
+      title: "5 Satir Hand Gestures"
+      content: "1. PLACATOR (palms up/open — openness, receiving) 2. LEVELER (palms down flat — authority, certainty, 'this is how it is') 3. BLAMER (pointing finger — use sparingly, creates division) 4. COMPUTER (chin stroke, thinking — analytical, cerebral) 5. DISTRACTOR (hands moving randomly — shows excitement but can be chaotic)"
       domain: body-language
-      source: "SA/05-Module5"
+      source: "SA/05-Module5/Hand-Gestures"
 
-    - id: "FW-VG-016"
-      title: "7 Foundational Facial Expressions"
-      content: "Happy, Sad, Surprise, Angry, Disgust, Fearful, Contempt. (20 total combinations exist but these 7 cover everyday communication.)"
+    - id: "FW-VG-011"
+      title: "7 Facial Expression Foundations Framework"
+      content: "7 universal expressions: Happy, Sad, Angry, Fearful, Surprised, Disgusted, Contemptuous. Practice each in isolation → Take selfies to verify → Combine for complexity → Your face is the REMOTE CONTROL for your voice."
       domain: body-language
       source: "SA/05-Module5/Facial-Expressions"
 
-    - id: "FW-VG-017"
-      title: "Powerful Rapport Technique"
-      content: "Build rapid rapport through vocal mirroring: match the other person's rate of speech, volume level, and energy. Then gradually lead them to where you want."
+    - id: "FW-VG-012"
+      title: "Storytelling Tips Framework"
+      content: "1. If you've told it more than twice, audiences have heard something LIKE it. Add unique twist. 2. Relive don't report. 3. Always use DIALOGUE. 4. Add a MAGIC detail — one specific unique thing. 5. Humor goes with almost every story."
+      domain: storytelling
+      source: "SA/04-Module4/Storytelling-Tips"
+
+    - id: "FW-VG-013"
+      title: "Vocal Warm-Up Framework"
+      content: "1. Lip Trills (loosen facial muscles) 2. Humming (warm up vocal cords) 3. Tongue Twisters (articulation) 4. Siren (range expansion — low to high and back) 5. Volume Ladder (1 to 10 and back down)"
+      domain: vocal-mastery
+      source: "SA/02-Module2"
+
+    - id: "FW-VG-014"
+      title: "Eye Contact System"
+      content: "Virtual: Look at CAMERA when speaking, look at SCREEN when listening. In-person: 3-5 second holds per person. Large audience: Section by section, treat each section as one person."
+      domain: body-language
+      source: "SA/05-Module5/Eye-Contact"
+
+    - id: "FW-VG-015"
+      title: "Movement Framework"
+      content: "Stand still for key points → Move with PURPOSE (transition between ideas = physical transition) → Walk TO audience for emphasis → Avoid pacing/rocking/weight shifting."
+      domain: stage-presence
+      source: "SA/05-Module5/Movement"
+
+    - id: "FW-VG-016"
+      title: "Dopamine Triggering Techniques"
+      content: "1. Vary rate of speech unpredictably 2. Change volume mid-sentence 3. Shift archetype without warning 4. Use unexpected props or visuals 5. Pattern interrupt with silence 6. Physical position change. Goal: Never let the brain predict what's next."
       domain: audience-engagement
-      source: "SA/02-Module2/Rapport-Technique"
+      source: "SA/06-Module6/Chemical-Framework"
+
+    - id: "FW-VG-017"
+      title: "Oxytocin Building Techniques"
+      content: "1. Share personal vulnerability 2. Use FRIEND archetype 3. Make eye contact 4. Use audience's names 5. Reference shared experiences 6. Tell personal stories (not hypothetical). Goal: Create deep trust and connection."
+      domain: audience-engagement
+      source: "SA/06-Module6/Chemical-Framework"
 
     - id: "FW-VG-018"
-      title: "Vocal Coach Pipeline"
-      content: "Voice production pipeline: RESPIRATION (diaphragmatic breathing = fuel) → PHONATION (vocal cord vibration = sound creation) → RESONATION (chest/head/nasal = amplification) → ARTICULATION (tongue/lips = clarity)"
-      domain: vocal-coaching
-      source: "SA/06-Module6"
+      title: "Endorphin Release Techniques"
+      content: "1. Humor (NOT comedy — lightness, play) 2. Physical engagement (activities, standing) 3. Surprising analogies 4. Self-deprecating stories 5. Unexpected callbacks. Goal: Create joy and energy."
+      domain: audience-engagement
+      source: "SA/06-Module6/Chemical-Framework"
 
     - id: "FW-VG-019"
-      title: "Story Shortening Framework"
-      content: "Keep stories tight: 1. Don't over-describe the Incident (biggest mistake) 2. Get to the Transformation quickly 3. Life Lesson should be concise 4. If listener says 'get to the point' — your Incident is too long"
-      domain: storytelling
-      source: "SA/04-Module4/Tips-Keep-Stories-Short"
+      title: "Serotonin Trigger Techniques"
+      content: "1. Call people by name 2. Acknowledge contributions publicly 3. Give specific praise 4. Ask for their expertise 5. Validate their experience. Goal: Make them feel valued and recognized."
+      domain: audience-engagement
+      source: "SA/06-Module6/Chemical-Framework"
 
     - id: "FW-VG-020"
-      title: "Pitch Ending Authority Scale"
-      content: "Sentence ending pitch determines perceived authority: HIGH ending = questioning/unsure/low credibility. LOW ending = declarative/confident/high authority. Matter-of-fact pitch = educator credibility."
+      title: "Power Drop Technique"
+      content: "Key sentence → Deliver with slightly elevated volume → Drop pitch at end → Hold pause after → Let it land. The combination of volume UP + pitch DOWN + pause = maximum impact and authority."
       domain: vocal-mastery
       source: "SA/03-Module3/Educator"
+
+    # === YouTube Elements (FW-VG-021 through FW-VG-102) ===
+
+    - id: "FW-VG-021"
+      title: "STAR Framework"
+      content: "Situation → Task → Action → Result. For answering questions under pressure."
+      domain: impromptu-speaking
+      source: "YT/10_Communication_Skills"
+
+    - id: "FW-VG-022"
+      title: "PREP Framework"
+      content: "Point → Reason → Example → Point (reiterate). For clear on-the-spot communication."
+      domain: impromptu-speaking
+      source: "YT/While_AI_Takes_Over"
+
+    - id: "FW-VG-023"
+      title: "Five Vocal Foundations (YT)"
+      content: "(1) Rate of Speech, (2) Volume, (3) Pitch/Melody, (4) Tonality, (5) Pause."
+      domain: vocal-mastery
+      source: "YT/13_Years"
+
+    - id: "FW-VG-024"
+      title: "Three-Part Communication Image"
+      content: "Visual Image + Vocal Image + Verbal Image. All three must align."
+      domain: communication-skills
+      source: "YT/4_Levels"
+
+    - id: "FW-VG-025"
+      title: "Record and Review (3 Reviews)"
+      content: "(1) Auditory — sound up, phone face down. (2) Visual — sound off. (3) Verbal — transcribe, highlight fillers red."
+      domain: self-awareness
+      source: "YT/13_Years"
+
+    - id: "FW-VG-026"
+      title: "Mastery Cycle"
+      content: "Try/Apply → Review/Reflect → Plan/Improve → Repeat. More cycles = faster mastery."
+      domain: mastery
+      source: "YT/3_Lessons_10000_Hours"
+
+    - id: "FW-VG-027"
+      title: "Five Energy Buckets"
+      content: "(1) Health Triangle, (2) Alignment, (3) Fulfillment, (4) Creativity, (5) Play. All five must be full."
+      domain: self-awareness
+      source: "YT/5_Secrets_Energy"
+
+    - id: "FW-VG-028"
+      title: "321 Framework"
+      content: "3 Steps / 2 Types / 1 Thing. Pick any constraint to prevent rambling."
+      domain: impromptu-speaking
+      source: "YT/43_minutes"
+
+    - id: "FW-VG-029"
+      title: "MBS Coaching Framework"
+      content: "(1) 'What's on your mind?' (2) 'What else?' until done. (3) 'What's the main problem?' (4) 'How can I help?'"
+      domain: leadership
+      source: "YT/47_Minutes_LIVE"
+
+    - id: "FW-VG-030"
+      title: "Four-Week Communication Plan"
+      content: "Pick 4 things from Record/Review diagnosis. 1 behavior per week."
+      domain: mastery
+      source: "YT/30_Day_Plan"
+
+    - id: "FW-VG-031"
+      title: "Rule of Three"
+      content: "Say once = information. Twice = recognition. Three times = truth."
+      domain: persuasion
+      source: "YT/10_Speaking_Techniques"
+
+    - id: "FW-VG-032"
+      title: "Pattern Interrupts Framework"
+      content: "Drop volume, unexpected pause, move location, inject humor in serious moments."
+      domain: presentation-skills
+      source: "YT/10_Speaking_Techniques"
+
+    - id: "FW-VG-033"
+      title: "Looping (Open/Close Loops)"
+      content: "Open early with mystery. Don't close until later. Brain stays alert."
+      domain: storytelling
+      source: "YT/10_Speaking_Techniques"
+
+    - id: "FW-VG-034"
+      title: "Meet Them Where They Are"
+      content: "Match audience emotional state first, then redirect where you want."
+      domain: influence
+      source: "YT/10_Communication_Skills"
+
+    - id: "FW-VG-035"
+      title: "Empathy Echo"
+      content: "Echo last words back. 'Overwhelmed.' Simple but signals 'you get me.'"
+      domain: emotional-intelligence
+      source: "YT/10_Speaking_Techniques"
+
+    - id: "FW-VG-036"
+      title: "Dirty Sock Reframe + Micro Kindness"
+      content: "(1) Refuse 'gift' of negativity. (2) Say 'nope' in silly voice. (3) Do micro kindness."
+      domain: emotional-intelligence
+      source: "YT/5_Communication_Secrets"
+
+    - id: "FW-VG-037"
+      title: "Negative Practice"
+      content: "Intentionally overdo wrong behavior to bring to conscious mind. Then practice correct behavior."
+      domain: mastery
+      source: "YT/47_Minutes_LIVE"
+
+    - id: "FW-VG-038"
+      title: "Overcoming Fear of Judgment"
+      content: "(1) Learn the truth (nobody thinks about you). (2) Experience the truth. (3) Understand the truth."
+      domain: confidence
+      source: "YT/47_Minutes_LIVE"
+
+    - id: "FW-VG-039"
+      title: "Desensitization Levels"
+      content: "Level 1 = hello. Level 2 = hello + how are you. Level 3 = hello + compliment. Level 4 = hello + compliment + question."
+      domain: confidence
+      source: "YT/33_Minutes"
+
+    - id: "FW-VG-040"
+      title: "Conversational Hook Opening"
+      content: "Start as if mid-conversation. 'I wasn't planning to share this, but...' Disarms from lecture mode."
+      domain: presentation-skills
+      source: "YT/10_Speaking_Techniques"
+
+    - id: "FW-VG-041"
+      title: "Five/Six Senses Storytelling"
+      content: "Sight, Sound, Smell, Taste, Touch + Emotion. Each adds brushstroke."
+      domain: storytelling
+      source: "YT/ONLY_3_Ingredients"
+
+    - id: "FW-VG-042"
+      title: "Three Ways to Shorten Story"
+      content: "(1) Peak action. (2) Peak emotion. (3) Where lesson learned."
+      domain: storytelling
+      source: "YT/3_Powerful_Stories"
+
+    - id: "FW-VG-043"
+      title: "PREP Point-Reason-Example-Point"
+      content: "Delivers meaningful communication under 1 minute."
+      domain: communication-skills
+      source: "YT/PREP_Framework"
+
+    - id: "FW-VG-044"
+      title: "TSL (Test-Stabilize-Lead) for Vulnerable Stories"
+      content: "Test in safe environments. Stabilize until not overwhelmed. Lead with lesson focus."
+      domain: storytelling
+      source: "YT/Never_Tell_Stories"
+
+    - id: "FW-VG-045"
+      title: "Story Before/After Checklist"
+      content: "(1) Relevant to audience? (2) Culturally appropriate? (3) Enough time (15+ min)? (4) Setting relaxed or tense?"
+      domain: storytelling
+      source: "YT/3_Situations_NEVER_Stories"
+
+    - id: "FW-VG-046"
+      title: "Look-Feel-Sound Confidence"
+      content: "Focus on Look and Sound first (easier). Feel follows."
+      domain: confidence
+      source: "YT/How_Become_Dangerously_Confident"
+
+    - id: "FW-VG-047"
+      title: "Eye Contact Challenge (3 Levels)"
+      content: "L1 = catch eyes + smile + 'morning'. L2 = eyes + compliment. L3 = greeting + compliment + question."
+      domain: confidence
+      source: "YT/5_communication_hacks"
+
+    - id: "FW-VG-048"
+      title: "Triangle Technique for Eye Contact"
+      content: "Left eye → right eye → nose bridge. Gives anxious brain something to do."
+      domain: body-language
+      source: "YT/5_communication_hacks"
+
+    - id: "FW-VG-049"
+      title: "Anchor and Invite"
+      content: "'I believe this because...' (Anchor) '...and I'm open to hearing your perspectives.' (Invite)"
+      domain: persuasion
+      source: "YT/5_Speaking_Traps"
+
+    - id: "FW-VG-050"
+      title: "5 Storytelling Traps"
+      content: "(1) Audience Blindness. (2) Achievement Dumping. (3) Wound not Scar. (4) All About You. (5) Preaching not Sharing."
+      domain: storytelling
+      source: "YT/Never_Tell_Stories"
+
+    - id: "FW-VG-051"
+      title: "5 Smart People Communication Traps"
+      content: "(1) Delivery Blind Spot. (2) Imposter Disclaimer. (3) Content Shield. (4) Micro-Checking Loop. (5) Disappearing Spine."
+      domain: communication-skills
+      source: "YT/5_Speaking_Traps"
+
+    - id: "FW-VG-052"
+      title: "Story-Link Method"
+      content: "(1) Have back-pocket stories. (2) Identify trait needed. (3) Tell brief story. (4) Link: 'I share this because...'"
+      domain: storytelling
+      source: "YT/3_Powerful_Stories"
+
+    - id: "FW-VG-053"
+      title: "YOU-THEM-VALUE Storytelling"
+      content: "YOU in story + THEM (universal moments) + VALUE (lesson they take away)."
+      domain: storytelling
+      source: "YT/Never_Tell_Stories"
+
+    - id: "FW-VG-054"
+      title: "The Magical Link"
+      content: "'The reason I'm telling you this story is because...' — the most important part of storytelling."
+      domain: storytelling
+      source: "YT/ONLY_3_Ingredients"
+
+    - id: "FW-VG-055"
+      title: "Pre-Speaking Ritual (5 Steps)"
+      content: "(1) Wim Hof breathing. (2) Exercise to burn adrenaline. (3) Focus on serving audience. (4) Watch funny videos. (5) Skip to stage."
+      domain: fear-management
+      source: "YT/Delete_Fear"
+
+    - id: "FW-VG-056"
+      title: "Desensitization Ladder"
+      content: "L1 = 30-sec toast seated. L2 = stand and toast. L3 = stand during Zoom. Progressive exposure."
+      domain: fear-management
+      source: "YT/NEVER_Feel_Anxiety"
+
+    - id: "FW-VG-057"
+      title: "3 Controls for Nerves"
+      content: "(1) Control body (breathing/exercise). (2) Control mind (service mindset). (3) Control what you can (body language/voice, NOT thoughts/feelings)."
+      domain: fear-management
+      source: "YT/If_public_speaking_TERRIFIES"
+
+    - id: "FW-VG-058"
+      title: "PARA Framework"
+      content: "Point → Action → Result → Ask. Stops oversharing in conversations."
+      domain: conversation-skills
+      source: "YT/PARA_Method"
+
+    - id: "FW-VG-059"
+      title: "High Low Buffalo"
+      content: "High (great) + Low (not great) + Buffalo (interesting). Creates 6 threads between 2 people."
+      domain: conversation-skills
+      source: "YT/Simple_Framework_Conversations"
+
+    - id: "FW-VG-060"
+      title: "One Thing Framework"
+      content: "Start with 'The one thing...' — creates constraint forcing prioritization."
+      domain: impromptu-speaking
+      source: "YT/5_Second_Trick"
+
+    - id: "FW-VG-061"
+      title: "FORD Networking"
+      content: "Family, Occupation, Recreation, Dreams."
+      domain: networking
+      source: "YT/Network_Top_1%"
+
+    - id: "FW-VG-062"
+      title: "5 Humorous Energy Components"
+      content: "(1) Light on feet. (2) Smile. (3) Lots of melody. (4) Show excitement. (5) Open body language."
+      domain: humor
+      source: "YT/3_Remarkable_First_Impression"
+
+    - id: "FW-VG-063"
+      title: "Feedback Sandwich"
+      content: "(1) Genuine compliment. (2) Ask permission. (3) Specific feedback + caring tone + I-statements. (4) Remind how far they've come."
+      domain: leadership
+      source: "YT/Difficult_Conversation"
+
+    - id: "FW-VG-064"
+      title: "Four Color Adaptation"
+      content: "Red = direct/decisive. Yellow = enthusiastic/light. Green = calm/patient. Blue = precise/structured."
+      domain: influence
+      source: "YT/Talk_to_ANYONE_Color"
+
+    - id: "FW-VG-065"
+      title: "3-Question Color ID"
+      content: "(1) Intro/Extrovert? (2) Logical/Emotional? (3) Deliberate/Quick? Process of elimination."
+      domain: influence
+      source: "YT/Talk_to_ANYONE_Color"
+
+    - id: "FW-VG-066"
+      title: "5-Second Anti-Freeze (3 Parts)"
+      content: "(1) Psychological — 5-sec pause + thinker pose. (2) Physiological — breath + drop shoulders. (3) Structural — apply framework."
+      domain: impromptu-speaking
+      source: "YT/5_Second_Trick"
+
+    - id: "FW-VG-067"
+      title: "4 Stages of Learning Applied"
+      content: "(1) Unconscious Incompetence → education. (2) Conscious Incompetence → awareness. (3) Conscious Competence → practice. (4) Unconscious Competence → mastery."
+      domain: mastery
+      source: "YT/4_Stages"
+
+    - id: "FW-VG-068"
+      title: "Record/Review Triple Audit"
+      content: "(1) Sound only — audit vocal. (2) Mute, video only — audit body language. (3) Transcribe — highlight fillers red."
+      domain: self-awareness
+      source: "YT/13_Years"
+
+    - id: "FW-VG-069"
+      title: "Vocal-Visual-Verbal (VVV)"
+      content: "Vocally = add melody. Visually = match expressions. Verbally = simplify words."
+      domain: communication-skills
+      source: "YT/5_Speaking_Traps"
+
+    - id: "FW-VG-070"
+      title: "CCC Framework"
+      content: "Context → Core (ONE main idea) → Connect (why it matters to them)."
+      domain: communication-skills
+      source: "YT/9_Habits_Clearer"
+
+    - id: "FW-VG-071"
+      title: "VAKS Storytelling"
+      content: "Visual, Auditory, Kinesthetic, Smell. All senses engaged."
+      domain: storytelling
+      source: "YT/7_Communication_Cheat_Codes"
+
+    - id: "FW-VG-072"
+      title: "5-Step Heartfelt Apology"
+      content: "(1) 'I'm sorry' (no excuses). (2) What you're sorry for. (3) Why it was wrong. (4) Why it won't recur. (5) Offer reparations."
+      domain: emotional-intelligence
+      source: "YT/5_Steps_Heartfelt_Apology"
+
+    - id: "FW-VG-073"
+      title: "4 Rules for Compliments"
+      content: "(1) Specificity (not generic). (2) Personalize with name. (3) Authenticity. (4) Don't ask favors after."
+      domain: emotional-intelligence
+      source: "YT/4_Rules_Genuine_Compliments"
+
+    - id: "FW-VG-074"
+      title: "Active Listening 3-Step"
+      content: "(1) Pause extra beats after finish. (2) Reflect back word/emotion. (3) Follow-up question."
+      domain: conversation-skills
+      source: "YT/7_Communication_Cheat_Codes"
+
+    - id: "FW-VG-075"
+      title: "Engagement Equation"
+      content: "Volume Variety + Pitch Variety + Pace Control + Tonality = Engagement."
+      domain: vocal-mastery
+      source: "YT/7_Cheat_Codes"
+
+    - id: "FW-VG-076"
+      title: "Speak and Grow Rich 10 Chapters"
+      content: "(1) Intent, (2) Emotion, (3) Confidence, (4) Repetition, (5) Storytelling, (6) Frameworks, (7) Mastermind, (8) Persistence, (9) Read Room, (10) Unconscious Competence."
+      domain: communication-skills
+      source: "YT/10_Communication_Skills"
+
+    - id: "FW-VG-077"
+      title: "3 AI-Proof Communication Skills"
+      content: "(1) Synthesis on Feet, (2) Emotional Intelligence, (3) Communicating from Lived Experience."
+      domain: communication-skills
+      source: "YT/While_AI_Takes_Over"
+
+    - id: "FW-VG-078"
+      title: "7 Engagement Tools"
+      content: "Content, Questions, Props, Activities, Video, Storytelling, Analogies."
+      domain: presentation-skills
+      source: "YT/In_7_Minutes_Better"
+
+    - id: "FW-VG-079"
+      title: "30-30-30-10 Keynote Formula"
+      content: "30% education + 30% entertainment + 30% inspiration + 10% X-factor."
+      domain: presentation-skills
+      source: "YT/Why_Nobody_Listens"
+
+    - id: "FW-VG-080"
+      title: "5-Step Social Anxiety Ladder"
+      content: "(1) Voice messages. (2) Video messages. (3) Talk to clerks. (4) Greet 10 people in 30 min. (5) Present 5 min at work."
+      domain: confidence
+      source: "YT/Defeat_Social_Anxiety"
+
+    - id: "FW-VG-081"
+      title: "Networking Due Diligence"
+      content: "(1) Research list. (2) LinkedIn 2 weeks before. (3) Study posts. (4) Prepare questions. (5) Goal = connection. (6) Listen. (7) How can I help?"
+      domain: networking
+      source: "YT/Network_Top_1%"
+
+    - id: "FW-VG-082"
+      title: "Energy Transference Pre-Talk"
+      content: "(1) Play matching music. (2) Physical state change (skip for playful). Music bypasses logic."
+      domain: presentation-skills
+      source: "YT/10_Speaking_Techniques"
+
+    - id: "FW-VG-083"
+      title: "Personal Legend Evolution"
+      content: "(1) Identify current 'sheep.' (2) Look for omens. (3) Take action. (4) Accept challenges are normal. (5) Allow legend to evolve."
+      domain: life-philosophy
+      source: "YT/Vinh_Ali_Alchemist_EP1"
+
+    - id: "FW-VG-084"
+      title: "Career Capital Stack"
+      content: "(1) Identify rare skills. (2) Connect dots for unique combination. (3) Deploy in marketplace. (4) Mastery buys autonomy."
+      domain: personal-development
+      source: "YT/Vinh_Ali_So_Good_EP2"
+
+    - id: "FW-VG-085"
+      title: "OAK Habit Integration"
+      content: "O(utcome) + A(ction) + K(nowledge). Most define only O. Habits live inside A."
+      domain: personal-development
+      source: "YT/Vinh_Ali_Atomic_Habits_EP10"
+
+    - id: "FW-VG-086"
+      title: "Self-Examination Process"
+      content: "Document daily for 30+ days what energizes/drains you. Analyze patterns. Build life around patterns."
+      domain: personal-development
+      source: "YT/Vinh_Ali_4_Hour_EP3"
+
+    - id: "FW-VG-087"
+      title: "Solve-Accept-Leave"
+      content: "For any problem — (1) Take action. (2) Make peace. (3) Walk away. Choose one, commit."
+      domain: life-philosophy
+      source: "YT/Vinh_Ali_Power_of_Now_EP30"
+
+    - id: "FW-VG-088"
+      title: "Dollar Cost Averaging of Actions"
+      content: "(1) Vision that scares you. (2) Break into daily actions. (3) Execute 5 tracked/day. (4) Recalibrate 6 months. (5) Trust compound."
+      domain: personal-development
+      source: "YT/Vinh_Ali_Be_Useful_EP43"
+
+    - id: "FW-VG-089"
+      title: "Dream-to-Action (Arnold Method)"
+      content: "(1) Cinematic music + visualize. (2) Dance in imagination. (3) Write with specifics. (4) Convert to actionable steps. (5) Dollar cost average daily."
+      domain: personal-development
+      source: "YT/Vinh_Ali_Be_Useful_EP43"
+
+    - id: "FW-VG-090"
+      title: "Passion Pursuit Assessment"
+      content: "(1) What don't you like? (2) What result to emulate? (3) Top 3-5 skills? (4) 3-5 role models? (5) Milestones? (6) Risks? (7) Don't let failure pressure hamper passion."
+      domain: personal-development
+      source: "YT/Vinh_Ali_So_Good_EP2"
+
+    - id: "FW-VG-091"
+      title: "Recalibration Check-in"
+      content: "Every 6 months — (1) Where am I? (2) Happy? (3) Headed where? (4) Still want to? (5) Have I changed? (6) What am I neglecting? (7) Course correct."
+      domain: life-philosophy
+      source: "YT/Vinh_Ali_33_Laws_EP41"
+
+    - id: "FW-VG-092"
+      title: "Version 1.0 Creative Process"
+      content: "(1) Create purest expression. (2) Release without perfection. (3) Allow feedback. (4) Create v2.0. (5) Never let audience fully dictate."
+      domain: creativity
+      source: "YT/Vinh_Ali_Creative_Act_EP39"
+
+    - id: "FW-VG-093"
+      title: "3 Storytelling Ingredients"
+      content: "(1) Be Specific (5 senses). (2) Relive don't Report (present tense). (3) Share Meaning ('reason I'm telling you...')."
+      domain: storytelling
+      source: "YT/ONLY_3_Ingredients"
+
+    - id: "FW-VG-094"
+      title: "Confidence Display"
+      content: "Visual — tall posture, bigger gestures, strong eye contact. Vocal — more volume, pitch variety, power drop. Brain follows body."
+      domain: confidence
+      source: "YT/How_Become_Confident"
+
+    - id: "FW-VG-095"
+      title: "Energy Communication"
+      content: "(1) Assess default rate. (2) Increase rate + volume. (3) Fast+loud = charisma. (4) Slow+soft = sincerity. Master both."
+      domain: vocal-mastery
+      source: "YT/2_simple_changes_ENERGETIC"
+
+    - id: "FW-VG-096"
+      title: "9 Habits for Clearer Speaking"
+      content: "Delivery: Pause/Slow/Declarative. Vocal: Warmup/Nose-breathe/Volume. Cognitive: One-thought/Frameworks/Analogies."
+      domain: communication-skills
+      source: "YT/9_Habits_Clearer"
+
+    - id: "FW-VG-097"
+      title: "Color Adaptation Protocol"
+      content: "(1) ID color via 3 questions. (2) Red=direct. (3) Yellow=enthusiastic. (4) Green=calm. (5) Blue=precise. Not changing who you are — adjusting delivery."
+      domain: influence
+      source: "YT/Talk_ANYONE_Color"
+
+    - id: "FW-VG-098"
+      title: "5-Step Feedback"
+      content: "(1) Right setting. (2) Frame with love. (3) Praise first. (4) I-statements. (5) Remind of progress."
+      domain: leadership
+      source: "YT/5_Steps_Feedback"
+
+    - id: "FW-VG-099"
+      title: "Storytelling Peak Moment"
+      content: "Tell around either Peak Emotional Moment, Peak Action Moment, or Where Lesson Learned."
+      domain: storytelling
+      source: "YT/7_POWERFUL_Storytelling"
+
+    - id: "FW-VG-100"
+      title: "Holding Space"
+      content: "(1) Replace advice with curiosity. (2) Pause extra beats. (3) Reflect don't redirect."
+      domain: emotional-intelligence
+      source: "YT/5_Communication_Secrets"
+
+    - id: "FW-VG-101"
+      title: "Peanut Allergy Model"
+      content: "Lack of social exposure creates social anxiety. Cure = gradual exposure therapy."
+      domain: confidence
+      source: "YT/Defeat_Social_Anxiety"
+
+    - id: "FW-VG-102"
+      title: "Fear Snake Method (Exposure)"
+      content: "(1) Education. (2) Passive observation. (3) Consistent 12+ months. (4) Gradual physical exposure. (5) Show yourself nothing to fear."
+      domain: fear-management
+      source: "YT/Defeat_Social_Anxiety"
 
   L5_METHODOLOGIES:
     - id: "MET-VG-001"
@@ -643,21 +2270,21 @@ layers:
 
     - id: "MET-VG-005"
       title: "Volume Calibration Method"
-      content: "Step 1: Rate your current default volume (1-10 scale). Step 2: Practice at 3/10 (whisper — for dramatic effect). Step 3: Practice at 7/10 (presentation default). Step 4: Practice at 9/10 (coach/motivator energy). Step 5: Practice transitioning between volumes in same speech. Step 6: Rule: whisper to grab attention, strong to project authority. Never stay at one level."
+      content: "Step 1: Record yourself — identify your default volume. Step 2: Practice 1-10 scale (whisper to shout). Step 3: Set presentation default at 7/10. Step 4: Practice dropping to 2-3 for dramatic effect. Step 5: Practice jumping to 8-9 for enthusiasm. Step 6: Golden Rule — deliver key sentence at elevated volume + lower pitch + pause."
       domain: vocal-mastery
       source: "SA/02-Module2/Volume"
 
     - id: "MET-VG-006"
-      title: "Storytelling Library Method"
-      content: "Step 1: Create categories (vulnerability, humor, triumph, failure, lesson learned). Step 2: Write down 3-5 personal stories per category. Step 3: For each story, identify the Life Lesson. Step 4: Practice telling each story in under 2 minutes. Step 5: Practice LINKING any story to any topic. Step 6: Build library continuously from daily life experiences."
-      domain: storytelling
-      source: "SA/04-Module4/Library-of-Stories"
+      title: "Pitch and Melody Method"
+      content: "Step 1: Record — identify if monotone or melodic. Step 2: Practice Siren (low to high to low). Step 3: Practice reading sentences with EXAGGERATED melody. Step 4: Read children's books aloud (forces extreme variation). Step 5: Apply to real conversations. Step 6: Use melody to signal emotion — more melody = more warmth."
+      domain: vocal-mastery
+      source: "SA/02-Module2/Melody"
 
     - id: "MET-VG-007"
-      title: "Vocal Coach 4-Step Method"
-      content: "Step 1 RESPIRATION: Practice diaphragmatic breathing (belly expands on inhale). Step 2 PHONATION: Practice vocal cord engagement (humming exercises, siren sounds). Step 3 RESONATION: Practice chest resonance vs head resonance (feel vibrations). Step 4 ARTICULATION: Practice tongue twisters, consonant clarity, vowel openness."
-      domain: vocal-coaching
-      source: "SA/06-Module6"
+      title: "Facial Expression Training Method"
+      content: "Step 1: Learn the 7 foundations (Happy, Sad, Angry, Fearful, Surprised, Disgusted, Contemptuous). Step 2: Practice each in mirror. Step 3: Take selfie of each — verify recognition. Step 4: Practice combining (excited = happy + surprised). Step 5: Remember: face = remote control for voice. Step 6: Before important moments, 'warm up' face with exaggerated expressions."
+      domain: body-language
+      source: "SA/05-Module5/Facial-Expressions"
 
     - id: "MET-VG-008"
       title: "Hand Gesture Mastery Method"
@@ -676,3 +2303,425 @@ layers:
       content: "Step 1: Open with FRIEND archetype (connect, rapport, warmth). Step 2: Move to MOTIVATOR (WHY this matters to them — make them thirsty). Step 3: Deliver content in EDUCATOR (WHAT — the information). Step 4: Push to action in COACH (HOW — direct them). Step 5: Close with FRIEND (reconnect, warmth, call to community). Throughout: Weave stories using 4 Chemical Framework. Use VAKS. Relive, don't report."
       domain: presentation-skills
       source: "SA/03-Module3/Enhanced+04-Module4"
+
+    # === YouTube Elements (MET-VG-011 through MET-VG-080) ===
+
+    - id: "MET-VG-011"
+      title: "30-Day Communication Transformation"
+      content: "Record → Wait 24h → Auditory review → Visual review → Verbal review → Pick 5 descriptor words → Select top 4 improvements → 1 behavior/week → Daily check → Repeat."
+      domain: mastery
+      source: "YT/30_Day_Plan"
+
+    - id: "MET-VG-012"
+      title: "Speak and Grow Rich 10-Chapter Method"
+      content: "(1) Clear intent. (2) Emotion via face. (3) Confidence via posture/volume. (4) Repetition. (5) Storytelling. (6) Frameworks (STAR/PREP). (7) Surround with great communicators. (8) Get reps everywhere. (9) Read the room. (10) Keep going until mastery."
+      domain: communication-skills
+      source: "YT/10_Communication_Skills"
+
+    - id: "MET-VG-013"
+      title: "Chef Method"
+      content: "(1) Pick 5 admired communicators. (2) List their ingredients. (3) Imitate precisely. (4) Practice 10-30 reps. (5) Add your own flavor. (6) Unique style emerges from combination."
+      domain: mastery
+      source: "YT/13_Years"
+
+    - id: "MET-VG-014"
+      title: "Accent Improvement"
+      content: "(1) Record 20min. (2) Send to speech pathologist ($150). (3) Send to ESL teacher ($150). (4) Get corrections. (5) Work on one at a time."
+      domain: vocal-mastery
+      source: "YT/43_minutes"
+
+    - id: "MET-VG-015"
+      title: "Fear of Rejection Desensitization"
+      content: "(1) Set goal: 20 rejections in one outing. (2) Approach strangers. (3) Don't take 'no' personally. (4) ~3/10 say yes. (5) After 12 months, fear fully desensitized."
+      domain: confidence
+      source: "YT/33_Minutes"
+
+    - id: "MET-VG-016"
+      title: "Pre-Stage Nerve Management"
+      content: "(1) 2-3 cycles Wim Hof. (2) Star jumps/pushups. (3) Song matching energy. (4) Skip backstage for playful energy. (5) Focus outward on serving audience."
+      domain: fear-management
+      source: "YT/43_minutes"
+
+    - id: "MET-VG-017"
+      title: "Multi-Question Overload"
+      content: "(1) Listen to all. (2) 'Sounds like 4 questions here.' (3) 'Which most important?' (4) Let THEM prioritize. (5) Answer top. (6) 'What's next?' (7) Repeat."
+      domain: impromptu-speaking
+      source: "YT/47_Minutes_LIVE"
+
+    - id: "MET-VG-018"
+      title: "3 AI-Proof Skills"
+      content: "(1) Synthesis on Feet — distill messy info real-time using frameworks. (2) Emotional Intelligence — sense what's unsaid, read body language. (3) Lived Experience Communication — what AI can't fake."
+      domain: communication-skills
+      source: "YT/While_AI_Takes_Over"
+
+    - id: "MET-VG-019"
+      title: "Non-Functional Behavior Elimination"
+      content: "(1) ID via Record/Review. (2) Isolate behavior. (3) If persistent, use Negative Practice. (4) Practice correct behavior. (5) Sticky note reminders. (6) Daily check-in."
+      domain: mastery
+      source: "YT/30_Day_Plan"
+
+    - id: "MET-VG-020"
+      title: "Holding Space Method"
+      content: "(1) Listen without interrupting/judging/advising. (2) Pause extra beats after they finish. (3) Reflect emotions. (4) Replace advice with curiosity. (5) Psychological safety."
+      domain: emotional-intelligence
+      source: "YT/5_Communication_Secrets"
+
+    - id: "MET-VG-021"
+      title: "5-Step Vocal Warm-Up"
+      content: "(1) Tongue relaxation + happy birthday. (2) Tongue-out lip trills. (3) Hiss 10s in/out cycles. (4) VVV vibration. (5) Lip trills to favorite song."
+      domain: vocal-mastery
+      source: "YT/5_Easy_Vocal_Exercises"
+
+    - id: "MET-VG-022"
+      title: "Daily 9-Min Voice Transformation"
+      content: "3min Siren technique + 3min Lip trills + 3min Yawning. Do for 3-6 months."
+      domain: vocal-mastery
+      source: "YT/Daily_Routine_Voice"
+
+    - id: "MET-VG-023"
+      title: "Lip Flutter 5-Step"
+      content: "(1) Full breath flutter 3x. (2) Flutter in spurts. (3) Flutter + constant pitch 3x. (4) Low-to-high pitch. (5) Favorite song. Record today, re-record 3-6 months."
+      domain: vocal-mastery
+      source: "YT/5_vocal_exercises"
+
+    - id: "MET-VG-024"
+      title: "Storytelling Workshop"
+      content: "(1) Tell raw story. (2) ID peak moment. (3) Add specificity/names/senses. (4) Add dialogue with voices. (5) Find LINK. (6) Retell improved. (7) Push for more play."
+      domain: storytelling
+      source: "YT/7_POWERFUL_Storytelling"
+
+    - id: "MET-VG-025"
+      title: "3-Step Articulation Fix"
+      content: "(1) Read book 3-4min/day exaggerated mouth. (2) Yawn → soft palate → 'volume for free.' (3) Lip trills: hold note + favorite song."
+      domain: vocal-mastery
+      source: "YT/Speak_10X_Clearer"
+
+    - id: "MET-VG-026"
+      title: "Facial Warm-Up (3 Steps)"
+      content: "(1) Lip trills 1-2min. (2) Make face big then small. (3) Pretend chewing huge gum."
+      domain: vocal-mastery
+      source: "YT/5_communication_hacks"
+
+    - id: "MET-VG-027"
+      title: "Conversational Threading"
+      content: "(1) Ask key question. (2) They give 2-3 threads. (3) Follow up 3 questions on ONE thread. (4) Each answer reveals new threads. (5) They ask 'What about you?' — have 3 threads ready."
+      domain: conversation-skills
+      source: "YT/5_communication_hacks"
+
+    - id: "MET-VG-028"
+      title: "Interview Storytelling"
+      content: "(1) ID trait role requires. (2) Pull documented story. (3) Tell brief snapshot. (4) Link explicitly: 'I share this because...'"
+      domain: storytelling
+      source: "YT/3_Powerful_Stories"
+
+    - id: "MET-VG-029"
+      title: "Nervousness to Excitement Relabeling"
+      content: "(1) Notice symptoms. (2) Recognize = identical to excitement. (3) Tell yourself 'This is excitement.' (4) Redirect into performance."
+      domain: fear-management
+      source: "YT/If_public_speaking_TERRIFIES"
+
+    - id: "MET-VG-030"
+      title: "Storytelling in 3 Ingredients"
+      content: "(1) Be Specific (5+1 senses). (2) Relive Don't Report (present tense, body joins). (3) Share Meaning ('reason I'm telling you...')."
+      domain: storytelling
+      source: "YT/ONLY_3_Ingredients"
+
+    - id: "MET-VG-031"
+      title: "Adrenaline Management Pre-Stage"
+      content: "(1) 5-min walk/20 star jumps. (2) Facial warm-up. (3) 2-3 cycles Wim Hof. (4) Funny videos from saved folder. (5) Skip to stage entrance."
+      domain: fear-management
+      source: "YT/Delete_Fear"
+
+    - id: "MET-VG-032"
+      title: "How to Land Story Meaning"
+      content: "(1) Listen/tell story. (2) 'What else does this symbolize?' (3) Find universal experience. (4) Use 'imagine.' (5) Build to peak. (6) 'Reason I tell you...' (7) Connect to listener's life."
+      domain: storytelling
+      source: "YT/7_POWERFUL_Storytelling"
+
+    - id: "MET-VG-033"
+      title: "Exposure Therapy Social Anxiety"
+      content: "L1 = 'good morning' to strangers (days 1-5). L2 = greeting + compliment (2 weeks). L3 = greeting + compliment + question (2 weeks). After 3 months, minimal nervousness."
+      domain: confidence
+      source: "YT/Why_Nobody_Listens"
+
+    - id: "MET-VG-034"
+      title: "ChatGPT Impromptu Practice"
+      content: "(1) Give context. (2) Get 20 questions. (3) Camera on, answer each. (4) Watch back: ID gaps. (5) Repeat cycle."
+      domain: impromptu-speaking
+      source: "YT/How_Answer_Unexpected_Questions"
+
+    - id: "MET-VG-035"
+      title: "Table Read Rehearsal"
+      content: "Don't read silently. Perform full presentation with energy, gestures, volume as if real audience. 'How you rehearse = how you present.'"
+      domain: presentation-skills
+      source: "YT/13_Years"
+
+    - id: "MET-VG-036"
+      title: "Story Documentation System"
+      content: "Document hundreds of stories. Categorize by theme. Review regularly. Pull right story for any situation like a library."
+      domain: storytelling
+      source: "YT/3_Remarkable_First_Impression"
+
+    - id: "MET-VG-037"
+      title: "Breaking Shy Mold"
+      content: "(1) ID shy behaviors. (2) List confident behaviors. (3) Practice 3-4 confident (look+sound). (4) Brain receives confidence signals → gives feeling."
+      domain: confidence
+      source: "YT/How_Become_Confident"
+
+    - id: "MET-VG-038"
+      title: "5-Chef Development"
+      content: "(1) Pick 5 admired. (2) ID their ingredients. (3) Imitate each recipe. (4) After mastering, add own flavors. (5) Unique style emerges."
+      domain: mastery
+      source: "YT/13_Years"
+
+    - id: "MET-VG-039"
+      title: "Networking Execution"
+      content: "(1) Research list. (2) ID targets. (3) LinkedIn 2 weeks before. (4) Research posts. (5) Approach with curiosity. (6) Find common ground. (7) ID how to help. (8) Give first."
+      domain: networking
+      source: "YT/Network_Top_1%"
+
+    - id: "MET-VG-040"
+      title: "Storytelling 7 Secrets"
+      content: "(1) Dialogue between characters. (2) Be specific. (3) Give character a name. (4) Use 'imagine.' (5) Tell around peak moment. (6) Relive don't report. (7) Deliver meaning at end."
+      domain: storytelling
+      source: "YT/7_POWERFUL_Storytelling"
+
+    - id: "MET-VG-041"
+      title: "Virtual Communication Setup"
+      content: "(1) Eye contact — look at camera, hide self-view. (2) Social space — head-to-waist visible. (3) Stand — never sit."
+      domain: presentation-skills
+      source: "YT/13_Years"
+
+    - id: "MET-VG-042"
+      title: "Stutter Reduction"
+      content: "(1) Reduce anxiety (prep + Wim Hof + exercise). (2) Simple language. (3) Slow + keep melody. (4) Lip mechanics (legato linking). (5) Breath control (speak on exhale)."
+      domain: vocal-mastery
+      source: "YT/5_Secrets_Stop_Stuttering"
+
+    - id: "MET-VG-043"
+      title: "Communication Level-Up"
+      content: "L1 Unaware → Education. L2 Aware → Record/Review. L3 Skilled → Mastery Cycle 1 behavior at a time. L4 Mastery → Unconscious Competence."
+      domain: mastery
+      source: "YT/4_Levels"
+
+    - id: "MET-VG-044"
+      title: "9 Habits Clearer Speaking"
+      content: "Delivery: (1) Pause more, (2) Slow to highlight, (3) Declarative statements. Vocal: (4) Warm up, (5) Nose breathe, (6) More volume. Cognitive: (7) One thought at a time, (8) Use frameworks, (9) Use analogies."
+      domain: communication-skills
+      source: "YT/9_Habits"
+
+    - id: "MET-VG-045"
+      title: "Impromptu Fix (3 Reasons)"
+      content: "(1) Don't understand → seek clarity. (2) Don't know answer → say 'I don't know.' (3) Nerves → build confidence meeting more strangers."
+      domain: impromptu-speaking
+      source: "YT/3_ways_impromptu"
+
+    - id: "MET-VG-046"
+      title: "Anti-Rambling (5-Second 3-Part)"
+      content: "(1) Psychological — 5-sec pause + thinker pose. (2) Physiological — breath + drop shoulders + unclench jaw. (3) Structural — apply framework."
+      domain: communication-skills
+      source: "YT/5_Second_Trick"
+
+    - id: "MET-VG-047"
+      title: "Handling Criticism (Dirty Sock + Tai Chi)"
+      content: "(1) Don't accept gift of negativity. (2) Say 'nope' in silly voice. (3) Micro act of kindness to transmute."
+      domain: emotional-intelligence
+      source: "YT/5_Communication_Secrets"
+
+    - id: "MET-VG-048"
+      title: "Intense Boss Method"
+      content: "Method A (in-moment): Mirror intensity briefly → de-escalate. Method B (delayed): Wait next day, approach calmly, reference specific moment."
+      domain: leadership
+      source: "YT/2_ways_INTENSE_boss"
+
+    - id: "MET-VG-049"
+      title: "High-Low-Buffalo Conversation"
+      content: "(1) Share your H/L/B. (2) They share theirs (6 threads total). (3) Pull thread most interested in. (4) Deep conversation instantly."
+      domain: conversation-skills
+      source: "YT/Simple_Framework"
+
+    - id: "MET-VG-050"
+      title: "Read the Room"
+      content: "Meet people where they are THEN slowly take them where you want to go. Don't impose your energy."
+      domain: influence
+      source: "YT/10_Communication_Skills"
+
+    - id: "MET-VG-051"
+      title: "Playfulness Integration"
+      content: "(1) Light curious questions. (2) Gentle exaggerations/playful metaphors. (3) Lean into awkwardness with humor."
+      domain: humor
+      source: "YT/5_Communication_Secrets"
+
+    - id: "MET-VG-052"
+      title: "Pre-Speaking Energy Calibration"
+      content: "(1) ID target energy. (2) Play matching music. (3) Physical state change. (4) Redirect self-consciousness outward. (5) Open with conversational hook."
+      domain: presentation-skills
+      source: "YT/10_Speaking_Techniques"
+
+    - id: "MET-VG-053"
+      title: "20 Email Method (Building Speaking Career)"
+      content: "(1) Spend years mastering craft. (2) Send 20+ cold emails. (3) When one responds, commit fully. (4) Get any event, even free. (5) Perform at highest level. (6) Let network unlock next level."
+      domain: personal-development
+      source: "YT/Vinh_Ali_So_Good_EP2"
+
+    - id: "MET-VG-054"
+      title: "Deliberate Practice Protocol"
+      content: "(1) ID specific skill. (2) Schedule uncomfortable practice. (3) Practice faster/harder than current level. (4) Guarantee failure each session. (5) Track progress. (6) Separate 'showing off' from 'deliberate' practice."
+      domain: mastery
+      source: "YT/Vinh_Ali_So_Good_EP2"
+
+    - id: "MET-VG-055"
+      title: "Napoleon Hill 6-Step Desire"
+      content: "(1) Exact amount wanted. (2) Service in return. (3) Definite date. (4) Plan + begin at once. (5) Clear written statement. (6) Read aloud 2x daily."
+      domain: personal-development
+      source: "YT/Vinh_Ali_Think_Grow_Rich_EP15"
+
+    - id: "MET-VG-056"
+      title: "Habit Identity Shift"
+      content: "(1) Define who to become. (2) Create one habit as evidence. (3) Make obvious/attractive/easy/satisfying. (4) Each rep = vote for new identity. (5) After enough votes, shift happens."
+      domain: personal-development
+      source: "YT/Vinh_Ali_Atomic_Habits_EP10"
+
+    - id: "MET-VG-057"
+      title: "Sunrise Creativity Protocol"
+      content: "(1) Wake before sunrise. (2) No phone/email. (3) Observe sunrise with full senses. (4) Unstructured thought space. (5) Only after, engage reactive world."
+      domain: creativity
+      source: "YT/Vinh_Ali_Creative_Act_EP39"
+
+    - id: "MET-VG-058"
+      title: "Annual Action Tracking"
+      content: "(1) Map vision + strategies at year start. (2) Track every action in tool. (3) 5 actions/day average. (4) Year-end review 1700+ actions. (5) ID what achieved, nourished, failed. (6) Refine next year."
+      domain: personal-development
+      source: "YT/Vinh_Ali_Be_Useful_EP43"
+
+    - id: "MET-VG-059"
+      title: "Color Communication Adaptation"
+      content: "(1) ID their color via 3 questions. (2) Red: direct/decisive. (3) Yellow: enthusiastic/light. (4) Green: calm/patient/slow. (5) Blue: precise/structured."
+      domain: influence
+      source: "YT/Talk_ANYONE_Color"
+
+    - id: "MET-VG-060"
+      title: "Fear Snake Exposure"
+      content: "(1) Education (research). (2) Passive observation (safe distance). (3) Consistent 12+ months. (4) Gradual physical exposure. (5) Each level shows 'nothing to fear.'"
+      domain: fear-management
+      source: "YT/Defeat_Social_Anxiety"
+
+    - id: "MET-VG-061"
+      title: "Apology Method"
+      content: "(1) 'I'm sorry' full stop. (2) Say what for specifically. (3) Show understanding of WHY it was wrong. (4) Explain why won't recur. (5) Offer reparations."
+      domain: emotional-intelligence
+      source: "YT/5_Steps_Heartfelt_Apology"
+
+    - id: "MET-VG-062"
+      title: "Feedback Delivery"
+      content: "(1) Right setting/timing. (2) Frame with kindness/growth. (3) Praise what went well. (4) Specific feedback with I-statements. (5) End reminding of progress."
+      domain: leadership
+      source: "YT/5_Steps_Feedback"
+
+    - id: "MET-VG-063"
+      title: "Interview Storytelling Full"
+      content: "(1) ID required trait. (2) Search story library. (3) Brief snapshot. (4) Link: 'I share this because it shows...' (5) Connect to why you're perfect for role."
+      domain: storytelling
+      source: "YT/3_Powerful_Stories"
+
+    - id: "MET-VG-064"
+      title: "Bringing Vibes to Interviews"
+      content: "(1) YOU bring the vibe. (2) Exercise before. (3) Open with informal question. (4) Sustain energy beginning to end. (5) Win on likeability."
+      domain: confidence
+      source: "YT/5_communication_hacks"
+
+    - id: "MET-VG-065"
+      title: "Mind Map Book Review"
+      content: "(1) Read + note standouts. (2) Mind map hierarchy. (3) Two colors per person. (4) Mind map = discussion agenda. (5) Add personal stories. (6) 1+1=3 insights."
+      domain: personal-development
+      source: "YT/Vinh_Ali_Alchemist_EP1"
+
+    - id: "MET-VG-066"
+      title: "Storytelling Link Process"
+      content: "(1) Listen to story. (2) 'What else does this symbolize?' (3) ID metaphorical link. (4) 'Reason I'm telling you...' to bridge."
+      domain: storytelling
+      source: "YT/7_POWERFUL_Storytelling"
+
+    - id: "MET-VG-067"
+      title: "Communication Exploration for Shy"
+      content: "(1) ID shy behaviors (vocal + visual). (2) List confident behaviors. (3) Practice 3-4 confident behaviors. (4) Brain signals confidence → feeling follows."
+      domain: confidence
+      source: "YT/How_Become_Confident"
+
+    - id: "MET-VG-068"
+      title: "Story 3 Ingredients Process"
+      content: "(1) Specific (5+1 senses). (2) Relive don't report (present tense, body joins). (3) Meaning ('reason I'm telling you...')."
+      domain: storytelling
+      source: "YT/ONLY_3_Ingredients"
+
+    - id: "MET-VG-069"
+      title: "Accent Fix Full"
+      content: "(1) Record 20min improvised. (2) Speech pathologist ($150) for pronunciation. (3) ESL teacher ($150) for grammar. (4) Work ONE correction at a time."
+      domain: vocal-mastery
+      source: "YT/3_steps_improve_accent"
+
+    - id: "MET-VG-070"
+      title: "Confidence Building"
+      content: "(1) List vocal+visual behaviors of shy vs confident. (2) Focus Look+Sound (easy). (3) Practice looking confident. (4) Practice sounding confident. (5) Brain grants feeling."
+      domain: confidence
+      source: "YT/How_Become_Confident"
+
+    - id: "MET-VG-071"
+      title: "Record/Review Full"
+      content: "(1) Record 10min improvised. (2) Wait 24h. (3) Vocal review sound only. (4) Visual review muted. (5) Verbal review: transcribe + red highlight fillers. (6) Customized improvement list."
+      domain: self-awareness
+      source: "YT/4_Levels"
+
+    - id: "MET-VG-072"
+      title: "Conversational Threading Full"
+      content: "(1) Key question. (2) 2-3 threads given. (3) 3 follow-ups on one thread. (4) Each answer = new threads. (5) They ask you → prepared 3 threads."
+      domain: conversation-skills
+      source: "YT/5_communication_hacks"
+
+    - id: "MET-VG-073"
+      title: "Pre-Presentation Full"
+      content: "(1) Wim Hof 2-3 cycles. (2) Star jumps/exercise. (3) Orchestral war music. (4) Optional: funny videos for endorphins."
+      domain: fear-management
+      source: "YT/Why_Nobody_Listens"
+
+    - id: "MET-VG-074"
+      title: "Virtual Comm 3-Point"
+      content: "(1) Camera eye contact (PlexiCam, hide self-view). (2) Social space (head-to-waist visible). (3) Stand (never sit)."
+      domain: presentation-skills
+      source: "YT/13_Years"
+
+    - id: "MET-VG-075"
+      title: "Siren Vocal Expansion"
+      content: "Read text starting low → really high → falsetto → back down. 5min daily. Expand vocal range."
+      domain: vocal-mastery
+      source: "YT/13_Years"
+
+    - id: "MET-VG-076"
+      title: "Vocal Warm-Up 5-Step"
+      content: "(1) Tongue relax + happy birthday. (2) Lip trills. (3) Hiss cycles. (4) VVV vibration. (5) Lip trills favorite song."
+      domain: vocal-mastery
+      source: "YT/5_Easy_Vocal"
+
+    - id: "MET-VG-077"
+      title: "4-Week Plan"
+      content: "Pick 4 improvements from review. 1 per week. Daily check: 'Did I practice?' Tick each day."
+      domain: mastery
+      source: "YT/30_Day_Plan"
+
+    - id: "MET-VG-078"
+      title: "Mastery Spiral"
+      content: "Not linear — spirals through same fundamentals discovering new layers each time."
+      domain: mastery
+      source: "YT/3_Lessons_10000_Hours"
+
+    - id: "MET-VG-079"
+      title: "Recalibration Method"
+      content: "(1) Journal top 3 problems. (2) For each: solving, accepting, or leaving? (3) Choose and commit. (4) Frees mental bandwidth."
+      domain: life-philosophy
+      source: "YT/Vinh_Ali_Power_of_Now_EP30"
+
+    - id: "MET-VG-080"
+      title: "Compliment Method"
+      content: "(1) Be specific (not 'nice dress' but 'that color brings out your eyes'). (2) Use their name. (3) Be genuine. (4) No favor after — gift not transaction."
+      domain: emotional-intelligence
+      source: "YT/4_Rules_Compliments"

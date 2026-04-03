@@ -2,7 +2,7 @@
 # DNA Agregado - Domínio: STORYTELLING
 # Consolidação de elementos de storytelling, narrativa e estrutura dramática
 #
-# Versão: 1.0.0
+# Versão: 11.0.0
 # Criado: 2026-03-11
 # Tipo: AGGREGATED DNA (single-source: AIOS Storytelling Squad)
 # Fonte: knowledge/external/sources/aios-squads/04-STORYTELLING-SQUAD.md
@@ -13,10 +13,10 @@
 # ═══════════════════════════════════════════════════════════════════════════════
 
 dominio: "storytelling"
-versao: "10.0.0"  # Vinh Giang Stage Academy added — vocal storytelling, 4 Chemical Framework, 3-Step Formula, VAKS, Storytelling Library
+versao: "11.0.0"  # Vinh Giang YouTube added — 3 Storytelling Ingredients, 5 Storytelling Traps, TSL Framework, YOU-THEM-VALUE, Story-Link Method, Peak Moment storytelling
 data_criacao: "2026-03-11"
-ultima_atualizacao: "2026-03-25"
-total_elementos: 718
+ultima_atualizacao: "2026-04-02"
+total_elementos: 763
 peso_global: 0.70
 
 fontes_consolidadas:
@@ -35,6 +35,28 @@ fontes_consolidadas:
       - "Story Shortening Framework (tight incident, quick transformation)"
       - "Reporting vs Reliving (characters alive with body+dialogue)"
       - "4MAT Story Sequencing (why→what→how with connection bookends)"
+
+  - fonte: "vinh-giang-yt"
+    path: "knowledge/external/dna/persons/vinh-giang/"
+    raw_path: "knowledge/external/sources/vinh-giang/raw/youtube/"
+    peso_dominio: 0.90
+    elementos_contribuidos: 45
+    especialidade: "3 Storytelling Ingredients (Specific + Relive + Meaning), 5 Storytelling Traps (Audience Blindness, Achievement Dumping, Wound vs Scar, All About You, Preaching), TSL Framework (Test-Stabilize-Lead for vulnerable stories), YOU-THEM-VALUE framework, The Magical Link phrase, Story-Link Method, Peak Moment storytelling (action/emotion/lesson), Reporting vs Reliving distinction (present tense), Six Senses storytelling (VAKS + emotion + smell), Story Documentation System, Storytelling Workshop Method (7 steps), Interview Storytelling Method, back-pocket stories concept, Looping technique (open/close loops), conversational hook openings"
+    tipo_fonte: "PRIMARY (direct from expert - 365 YouTube videos)"
+    key_frameworks:
+      - "3 Storytelling Ingredients (Specific + Relive + Meaning)"
+      - "5 Storytelling Traps (Audience Blindness, Achievement Dumping, Wound vs Scar, All About You, Preaching)"
+      - "TSL Framework (Test-Stabilize-Lead for vulnerable stories)"
+      - "YOU-THEM-VALUE Framework (audience-first story structure)"
+      - "The Magical Link Phrase (bridge story to audience meaning)"
+      - "Story-Link Method (seamless transitions between stories)"
+      - "Peak Moment Storytelling (action/emotion/lesson)"
+      - "Six Senses Storytelling (VAKS + emotion + smell)"
+      - "Story Documentation System (catalog and retrieve stories)"
+      - "Storytelling Workshop Method (7 steps)"
+      - "Interview Storytelling Method"
+      - "Looping Technique (open/close loops for engagement)"
+    nota: "Added 2026-04-02. VG YouTube (365 videos) expands significantly on Stage Academy foundations. While SA focused on vocal delivery and the 4 Chemical Framework, YouTube adds STRUCTURAL storytelling frameworks — the 3 Ingredients, 5 Traps, TSL, and Peak Moment methods. Together SA+YT = 95 elements making Vinh Giang the second-largest storytelling contributor after Dan Kennedy."
 
   - fonte: "dan-kennedy-iww"
     path: "knowledge/external/dna/persons/dan-kennedy/"

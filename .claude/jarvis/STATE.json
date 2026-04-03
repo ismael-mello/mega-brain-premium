@@ -1,6 +1,6 @@
 {
   "version": "2.7.0",
-  "updated_at": "2026-04-02T15:30:00Z",
+  "updated_at": "2026-04-03T09:30:00Z",
   "system": {
     "status": "OPERATIONAL",
     "health_score": 100,
@@ -484,10 +484,17 @@
       "status": "COMPLETE",
       "dna": true,
       "agent": true,
-      "dna_version": 1,
-      "elements": 105,
-      "sources_count": 1,
-      "note": "Stage Academy (42 files). Communication mastery."
+      "dna_version": 2,
+      "elements": 437,
+      "layers": "L1:80 L2:55 L3:120 L4:102 L5:80",
+      "sources_count": 2,
+      "sources": [
+        "SA — stage-academy (105 elements, 42 files)",
+        "YTCH — youtube-channel (332 elements, 365 videos)"
+      ],
+      "cargo_enriched": [],
+      "next_ids": "FIL-VG-081 MM-VG-056 HEUR-VG-121 FW-VG-103 MET-VG-081",
+      "note": "YouTube pipeline complete (2026-04-03). 365 videos. Communication mastery. v2.0.0. AGG-STORYTELLING, AGG-VENDAS, AGG-LIDERANCA enriched."
     },
     "depesh-mandalia": {
       "status": "COMPLETE",
@@ -595,8 +602,8 @@
   },
   "mis": {
     "session_id": "",
-    "prompt_count": 122,
+    "prompt_count": 138,
     "bracket": "CRITICAL",
-    "context_percent": 8.5
+    "context_percent": 0.0
   }
 }

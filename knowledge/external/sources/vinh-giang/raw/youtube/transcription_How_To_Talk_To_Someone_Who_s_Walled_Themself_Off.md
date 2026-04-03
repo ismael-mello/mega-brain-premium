@@ -1,0 +1,12 @@
+# Transcrição: How_To_Talk_To_Someone_Who's_Walled_Themself_Off
+
+- **Fonte:** How_To_Talk_To_Someone_Who's_Walled_Themself_Off
+- **Duração:** 02:13
+- **Idioma:** en
+- **Modelo:** small
+
+---
+
+## [00:00 - 02:13]
+
+Here's how to connect with someone who has completely walled themselves off. But let's first create a scenario so you can learn and see how walls are built. Hey, Vin. Great dinner. I think it's your turn to pay for this one, my man. No, last time we had steak and that's way more expensive. We're just having macs tonight. It's not my turn to pay. You're still paying for this one. Man, I swear you do this every time. I'm always paying for it. You never go and offer to pay for dinner. Well, I can't offer to pay because every single time we have a meal, you're always the first one to pay. I didn't even get a chance to pay. That is so BS. You never take the initiative to step up and just go and pay for dinner, ever. Like I said to you, man, I would try if you'd give me the opportunity to, but you never give me the damn opportunity. And then now you're blaming me. Did you see what happened there? The moment I get defensive, I start building a wall. And the moment that wall is there, there's no communication. There's no empathy. There's no connection. If you want to break down that wall or prevent walls from being built, here's what to do instead. Okay, here's what we should do. Number one, acknowledge them. Number two, show empathy. Number three, validate them. So, Dan, let's reset the scene. Hey, man, so you got dinner tonight, right? Actually, I think you're right. We probably should talk about this. Listen, I'm just so sick of having to pay for dinner all the time and just no one seems to chip in. Oh, man, thanks for explaining it to me. I didn't know you felt that way. Yeah, listen, I've been saving for a house for a while. I just don't seem to be getting anywhere. And listen, I love catching up, but, you know, one other people just kind of chip in here and there. Hey, man, I understand. I can understand that. Why you've been so conscious about money as of late. Regardless of how this communication ends, the important thing to realize here is this is how to effectively communicate in order to tear down the walls, especially the walls that we sometimes unnecessarily build. And he also doesn't know it, but he's going to be paying for dinner this evening. Dan, what do you say? Come on.

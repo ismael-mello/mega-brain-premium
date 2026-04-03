@@ -1,0 +1,12 @@
+# Transcrição: Watch_this_if_you_want_to_IMPROVE_the_way_you_sound...
+
+- **Fonte:** Watch_this_if_you_want_to_IMPROVE_the_way_you_sound...
+- **Duração:** 01:57
+- **Idioma:** en
+- **Modelo:** small
+
+---
+
+## [00:00 - 01:57]
+
+I don't really like listening to my own voice and I think a lot of people feel quite self-conscious. It's quite tricky because I have a podcast. Does anyone else hate the sound of their own voice? No, I can't relate. Can't relate. Love the sound of my voice. Let me share with you why. First of all, let's address the big thing here, which is you're saying you don't like the sound of your own voice and all of you don't like the sound of your own voice. Do you know why you don't like the sound of your own voice? How you sound to you is not how you sound to others. Because when I open my mouth and I speak, my voice is creating vibrations through the air that then reach the ears of others. Whereas when you hear yourself, you hear yourself through the vibrations of your bones. You're hearing vibrations through a denser object. The sound sounds deeper. So when you hear yourself through a recording, you are now hearing your voice through airwaves, which is different. It's like the way you look in the mirror. That's not how you look. Everyone sees you the other way around. That's why when we see ourselves in photos, we're like, oh, no, I don't like it. I don't like it. It's the same thing. It's because you look at yourself in the mirror every day. You don't look at yourself in photos every day. So you've got to understand that it requires time for you to become more comfortable with that sound. And reception and perception starts to recalibrate. And soon the voice you hear in here and the voice you hear in here, it starts to become the same. But if you keep avoiding it and keep avoiding it, the difference in the sound will always be like this. And here's the reality to all my friends here. When you see a video of yourself, that's how you look. And when you hear yourself, that's how you sound. Let's flaunt what we have and enjoy what we have. Let's learn to embrace that. That is you. You're a unique individual with a unique instrument, with unique experiences, with unique stories, and unique value. Be you, do you? So don't be afraid of that. And that takes time, and it requires you to listen to your podcast all the time. OK, what's the name of your podcast? All about you with Dr. Shauna Wapp. I'll make sure I download one of the episodes and listen.

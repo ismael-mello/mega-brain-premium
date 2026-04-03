@@ -1,0 +1,12 @@
+# Transcrição: How_to_Speak_Louder_Without_Sounding_Angry
+
+- **Fonte:** How_to_Speak_Louder_Without_Sounding_Angry
+- **Duração:** 02:04
+- **Idioma:** en
+- **Modelo:** small
+
+---
+
+## [00:00 - 02:04]
+
+I noticed from yesterday when I raised my volume to level 10, I feel like I'm angry. Yes. I feel like I'm angry or something. Yeah, you sound angry. That's right. That's correct. Good observation. What's interesting about volume, and this is important for women, and I have to call out this for women too. It's so difficult for women a lot of the times in the workplace. Because when you try some of these techniques for men, we get away with it, and they go, oh, that person's, well, look at them, take control of the situation. Often when women do it, they go, oh, that woman's being a bit bitchy. They immediately get that, which is really difficult. So I just want to acknowledge as well for women, you're walking a much more difficult line. It is possible though, and here's one of the techniques for it. So what happens is, and this is for women and men, because men can also be bitchy. I can't be a total bitch too. So here's the thing. When it comes to increasing volume without increasing bitchiness, you just need to add melody to that. Because if I increase volume, for example, I sound like a wanker too. Are you ready to get through day one? You ready? Great. All of a sudden, it sounds terrible, right? Hey, are you ready to start day one? Great, I am too. All of a sudden, it takes the anger out of it. So increase the more melody. So now I want you to try. So just do it. Hi, everyone, are you ready to begin day one? But no melody. It sounds angry. Hi, everyone, are you ready to start day one? Good, you're still smiling. You're a very smiley person. It's great. But again, like you said, you sounded angry because you didn't have melody. So try again with no melody. Hi, everyone, are you ready to start day one? That sounds pissy. Good. So try and try it again. Now try it with melody. Hi, everyone, are you ready to start day one? Perfect. Now here's the thing. All I'll say is, don't end on a high pitch. End on a low pitch. Because you lose credibility with that. And then sometimes people go, oh, this person is in the authority. End on a low pitch. But it's a question. Yes. But always still, you're ready to start day one. Hi, everyone, are you ready to start day one? Big round of applause. Thank you. All right, you're good. You're good.

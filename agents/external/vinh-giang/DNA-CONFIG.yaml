@@ -2,7 +2,7 @@
 # ║                    VINH GIANG — DNA CONFIGURATION                           ║
 # ╚══════════════════════════════════════════════════════════════════════════════╝
 
-version: "1.0.0"
+version: "2.0.0"
 person: "Vinh Giang"
 type: "SOLO"
 weight: 1.0
@@ -46,6 +46,101 @@ dna_sources:
         - name: "Ken Robinson"
           contribution: "Example of Educator archetype"
 
+  - id: "YT"
+    name: "YouTube Channel"
+    type: "YOUTUBE"
+    files: 365
+    content_files: 365
+    size_bytes: 6460855
+    videos: 365
+    extraction_date: "2026-04-02"
+    raiz: "knowledge/external/sources/vinh-giang/raw/youtube/"
+    domains:
+      - communication-skills
+      - vocal-mastery
+      - storytelling
+      - body-language
+      - presentation-skills
+      - confidence
+      - conversation-skills
+      - humor
+      - leadership
+      - persuasion
+      - networking
+      - impromptu-speaking
+      - fear-management
+      - personal-development
+      - life-philosophy
+      - creativity
+      - mastery
+      - emotional-intelligence
+      - influence
+      - personal-branding
+    speakers:
+      primary: "Vinh Giang"
+      co_host: "Ali Jafarian (Vinh & Ali Show podcast)"
+      referenced:
+        - name: "Napoleon Hill"
+          contribution: "Think and Grow Rich principles adapted for communication"
+        - name: "Maya Angelou"
+          contribution: "'People forget what you said but not how you made them feel'"
+        - name: "Thomas Erickson"
+          contribution: "Four Color Communication Model (Surrounded by Idiots)"
+        - name: "Dale Carnegie"
+          contribution: "How to Win Friends principles"
+        - name: "Steven Spielberg"
+          contribution: "'A movie is just life without the boring bits'"
+        - name: "Bruce Lee"
+          contribution: "'Be formless, shapeless, like water' applied to communication"
+        - name: "Zig Ziglar"
+          contribution: "'Don't become a wandering generality, become a meaningful specific'"
+        - name: "Mark Twain"
+          contribution: "'You worry less about what people think when you realize how seldom they do'"
+        - name: "Cal Newport"
+          contribution: "Be So Good They Can't Ignore You + Career Capital"
+        - name: "James Clear"
+          contribution: "Atomic Habits identity-based habit change"
+        - name: "Arnold Schwarzenegger"
+          contribution: "Be Useful — dream visualization + action tracking"
+        - name: "David Goggins"
+          contribution: "Can't Hurt Me — mental toughness"
+        - name: "Rick Rubin"
+          contribution: "The Creative Act — Version 1.0 mindset"
+        - name: "Eckhart Tolle"
+          contribution: "The Power of Now — Solve/Accept/Leave"
+        - name: "Steven Bartlett"
+          contribution: "33 Laws — Self-Story Loop + Recalibration"
+        - name: "Bill Perkins"
+          contribution: "Die With Zero — living fully, recalibration"
+    content_categories:
+      - category: "Communication Skills Core"
+        estimated_videos: 80
+        key_topics: "vocal foundations, body language, storytelling, frameworks"
+      - category: "Storytelling & Voice"
+        estimated_videos: 50
+        key_topics: "vocal exercises, storytelling techniques, siren technique"
+      - category: "Confidence & Fear"
+        estimated_videos: 40
+        key_topics: "public speaking fear, social anxiety, desensitization"
+      - category: "Conversation & Networking"
+        estimated_videos: 35
+        key_topics: "small talk, FORD, High-Low-Buffalo, networking"
+      - category: "Leadership & Feedback"
+        estimated_videos: 25
+        key_topics: "feedback formula, difficult conversations, influence"
+      - category: "Vinh & Ali Show (Podcast)"
+        estimated_videos: 45
+        key_topics: "book reviews, life philosophy, mastery, creativity"
+      - category: "Impromptu Speaking"
+        estimated_videos: 20
+        key_topics: "PREP, STAR, 3-2-1, anti-freeze, thinking on feet"
+      - category: "Personal Development"
+        estimated_videos: 40
+        key_topics: "life lessons, charisma, energy, career building"
+      - category: "Shorts & Quick Tips"
+        estimated_videos: 30
+        key_topics: "bite-sized communication tips"
+
 materiais_fonte:
   - path: "knowledge/external/sources/vinh-giang/raw/stage-academy/00-Introduction/"
     files: 2
@@ -71,18 +166,21 @@ materiais_fonte:
   - path: "knowledge/external/sources/vinh-giang/raw/stage-academy/07-The Journey Beyond STAGE/"
     files: 1
     key_content: "Closing message and continuation path"
+  - path: "knowledge/external/sources/vinh-giang/raw/youtube/"
+    files: 365
+    key_content: "365 YouTube videos: communication tutorials, Vinh & Ali Show podcast, workshops, shorts"
 
 element_counts:
-  total: 105
-  L1_PHILOSOPHIES: 23
-  L2_MENTAL_MODELS: 18
-  L3_HEURISTICS: 34
-  L4_FRAMEWORKS: 20
-  L5_METHODOLOGIES: 10
+  total: 437
+  L1_PHILOSOPHIES: 80
+  L2_MENTAL_MODELS: 55
+  L3_HEURISTICS: 120
+  L4_FRAMEWORKS: 102
+  L5_METHODOLOGIES: 80
 
 next_ids:
-  FIL: "FIL-VG-024"
-  MM: "MM-VG-019"
-  HEUR: "HEUR-VG-035"
-  FW: "FW-VG-021"
-  MET: "MET-VG-011"
+  FIL: "FIL-VG-081"
+  MM: "MM-VG-056"
+  HEUR: "HEUR-VG-121"
+  FW: "FW-VG-103"
+  MET: "MET-VG-081"

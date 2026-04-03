@@ -1,0 +1,12 @@
+# Transcrição: Do_what_you_love_or_safe_career__
+
+- **Fonte:** Do_what_you_love_or_safe_career__
+- **Duração:** 01:56
+- **Idioma:** en
+- **Modelo:** small
+
+---
+
+## [00:00 - 01:56]
+
+I did work experience at one of the big four firms. They liked me, so they kept me on board. And every day after work, I'd perform magic for every single department in the accounting firm. I loved it. And one day, one of the partners came out. And I remember this curtain, because this partner always had a hand in his pocket. And I always thought this was super weird. I'm like, why do you keep your hand in your pocket all the time? And one day he comes out, he pulls his hand out of his pocket, and he goes, Vin, before I show you my hand, I have to tell you that in six months' time, two things will happen. I'm either gonna fire you, or you can quit. It's up to you. And I'm like, my dad's gonna kill me, man. And then he goes, well, let me show you my hand. And he pulls out his hand, and he had really bad arthritis. And he goes, Vin, I love piano. I gave it up when I was in my late 20s to build this firm. I had the opportunity to play in orchestras all over the world. I'd give this all up to have your youth again to make the right decision. I can never play piano again. You need to do what you love, you're in the wrong career. And I remember, you know, there was this beautifully long pause. And I said to him, can you come home and tell my dad the same thing he just told me? That's a bloody brilliant. And bless his heart. He came home and had dinner with my family. He did? Yeah, absolutely. He helped my dad see something in me that my dad was afraid to see. My dad knew that I had magical talents, but he was afraid to see it. My dad has known so much adversity in his life that to him he clung to security. Whereas doing what you love is something that, my dad never had the luxury of being able to do that because of that fear. That night, my dad was able to put fear aside because someone else who was successful in his eyes validated his son. Wow. And then from that day on, my dad and my mom became my biggest fans and my biggest supporters. And one line my dad said that I'd never forget that I share at every keynote I do. It's from that day on, my dad said, son, look, you owe me one thing, you know this boy. You actually owe me one thing. You have to jump as high as you can in this life. And as long as I'm alive, I'll forever be your net from this point on. Oh. Yeah. So that made that hit home. Wow.
