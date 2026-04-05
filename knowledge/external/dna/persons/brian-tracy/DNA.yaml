@@ -1,0 +1,730 @@
+---
+# DNA COGNITIVO — BRIAN TRACY
+# Versão: 1.0.0
+# Gerado: 2026-04-04
+# Fontes: 2 cursos (21st Century Sales Training + Total Business Mastery)
+# Total de Elementos: 437
+# Protocolo: JARVIS Pipeline v2.2
+
+pessoa: brian-tracy
+nome_completo: Brian Tracy
+versao: "1.0.0"
+data_geracao: "2026-04-04"
+total_elementos: 437
+fontes_processadas: 2
+
+# ═══════════════════════════════════════════════════════════════════
+# L1: FILOSOFIAS (Core Beliefs & Worldview)
+# ═══════════════════════════════════════════════════════════════════
+filosofias:
+  - id: FIL-BT-001
+    titulo: "Law of Cause & Effect"
+    descricao: "Everything happens for a reason. If you do certain things in a certain way, you get a certain result. Success and failure are both effects based on specific causes."
+    fonte: "21CST-Module4, TBM-Day1"
+    dominio: [vendas, business, mindset]
+    confianca: 0.95
+
+  - id: FIL-BT-002
+    titulo: "80% Mental, 20% Technical"
+    descricao: "80% of sales success is mental (attitude, self-concept, beliefs), only 20% is technical skills. Your inner game determines your outer results."
+    fonte: "21CST-Module4"
+    dominio: [vendas, mindset]
+    confianca: 0.95
+
+  - id: FIL-BT-003
+    titulo: "Small Differences Create Large Results"
+    descricao: "A horse that wins by a nose wins 10x the prize money. Top performers are only slightly better than average — but the rewards are exponentially higher."
+    fonte: "21CST-Module2"
+    dominio: [vendas, performance]
+    confianca: 0.95
+
+  - id: FIL-BT-004
+    titulo: "You Become What You Think About"
+    descricao: "You become what you think about most of the time. This is the basis of all religion, philosophy, and metaphysics. Your dominant thoughts create your reality."
+    fonte: "21CST-Module4"
+    dominio: [mindset]
+    confianca: 0.95
+
+  - id: FIL-BT-005
+    titulo: "Self-Esteem is the Core Success Quality"
+    descricao: "Self-esteem — how you feel about yourself — is the reactor core of your personality. Higher self-esteem = lower fears = higher performance."
+    fonte: "21CST-Module4"
+    dominio: [mindset, vendas]
+    confianca: 0.95
+
+  - id: FIL-BT-006
+    titulo: "Credibility is Everything"
+    descricao: "Credibility is the most important single factor in business success. Everything you do either raises or lowers your credibility. Every interaction is a credibility test."
+    fonte: "21CST-Module1, TBM-Day1"
+    dominio: [vendas, business]
+    confianca: 0.95
+
+  - id: FIL-BT-007
+    titulo: "Products Are Sold, Not Bought"
+    descricao: "Products don't sell themselves. You must find prospects, interest them, and motivate them. People buy emotional transformation — the feeling they'll have, not the product itself."
+    fonte: "21CST-Module8"
+    dominio: [vendas]
+    confianca: 0.95
+
+  - id: FIL-BT-008
+    titulo: "Telling is Not Selling"
+    descricao: "Questions are more powerful than statements. The person who asks questions has control. Questions hold complete attention until answered."
+    fonte: "21CST-Module10"
+    dominio: [vendas]
+    confianca: 0.95
+
+  - id: FIL-BT-009
+    titulo: "You Are a Consultant, Not a Salesman"
+    descricao: "See yourself as a problem solver, a doctor diagnosing problems. Examine, diagnose, then prescribe. This positioning gets exponentially better results."
+    fonte: "21CST-Module11, TBM-Day1"
+    dominio: [vendas]
+    confianca: 0.95
+
+  - id: FIL-BT-010
+    titulo: "Only Working When Selling"
+    descricao: "You are only working when face to face with someone who can and will buy from you. Everything else is preparation."
+    fonte: "TBM-Day1"
+    dominio: [vendas, business]
+    confianca: 0.90
+
+  - id: FIL-BT-011
+    titulo: "Ask for Money is Core"
+    descricao: "Your job is to ask for money. That is the essence and core activity of business. Never shy away from it."
+    fonte: "TBM-Day1"
+    dominio: [vendas, business]
+    confianca: 0.90
+
+  - id: FIL-BT-012
+    titulo: "Product Quality is 90% of Success"
+    descricao: "90% of business success comes from offering a great product or service. The other 10% is everything else combined."
+    fonte: "TBM-Workbook"
+    dominio: [business]
+    confianca: 0.90
+
+  - id: FIL-BT-013
+    titulo: "Quality is Customer-Defined"
+    descricao: "Quality is what your customers say it is. Not the producer's definition, but the customer's perception determines quality."
+    fonte: "TBM-Workbook"
+    dominio: [business]
+    confianca: 0.90
+
+  - id: FIL-BT-014
+    titulo: "Leadership is Action, Not Position"
+    descricao: "Leadership is action, not position. When you act like a leader, you become one. All leadership skills are learnable with practice."
+    fonte: "TBM-Workbook"
+    dominio: [lideranca, business]
+    confianca: 0.90
+
+  - id: FIL-BT-015
+    titulo: "Success Leaves Clues"
+    descricao: "Study the top 20% to understand what works. Success is learnable, not mysterious or magical. Find what works and repeat it."
+    fonte: "TBM-Day1"
+    dominio: [mindset, business]
+    confianca: 0.90
+
+  - id: FIL-BT-016
+    titulo: "Customers Buy for Their Reasons, Not Yours"
+    descricao: "The key to selling is uncovering true needs. Start talking about your product too soon and you kill the sale."
+    fonte: "21CST-Module11"
+    dominio: [vendas]
+    confianca: 0.95
+
+  - id: FIL-BT-017
+    titulo: "Rejection is Information"
+    descricao: "Eagerly pursue rejections. A 'no' is information you can use to refine your approach. Every rejection moves you closer to a yes."
+    fonte: "TBM-Day1, 21CST-Module12"
+    dominio: [vendas, mindset]
+    confianca: 0.90
+
+  - id: FIL-BT-018
+    titulo: "Everyone Started at the Bottom"
+    descricao: "Everyone in the top 20% started in the bottom 20%. No one got there by accident. Success requires temporary failure over and over."
+    fonte: "21CST-Module12"
+    dominio: [mindset]
+    confianca: 0.95
+
+  - id: FIL-BT-019
+    titulo: "Persistence is to Character as Carbon is to Steel"
+    descricao: "Keep persisting no matter how many 'no's you get. Persistence is the iron quality that separates winners from quitters."
+    fonte: "21CST-Bonus"
+    dominio: [vendas, mindset]
+    confianca: 0.95
+
+  - id: FIL-BT-020
+    titulo: "Buying is Psychological, Not Logical"
+    descricao: "All successful sales organizations have found ways to tap into underlying motivations that cause people to act and react. Triggers short-circuit rational decision-making."
+    fonte: "21CST-Module14"
+    dominio: [vendas]
+    confianca: 0.95
+
+# ═══════════════════════════════════════════════════════════════════
+# L2: MODELOS MENTAIS (Thinking Frameworks)
+# ═══════════════════════════════════════════════════════════════════
+modelos_mentais:
+  - id: MM-BT-001
+    titulo: "Self-Concept Model (3 Components)"
+    descricao: "Self-Concept = Master program of your subconscious. 3 components: Self-Ideal (goals/aspirations), Self-Image (how you see yourself), Self-Esteem (how you feel about yourself — the reactor core)."
+    fonte: "21CST-Module4"
+    dominio: [mindset, vendas]
+    confianca: 0.95
+
+  - id: MM-BT-002
+    titulo: "ABC Theory of Action"
+    descricao: "All human action explained by: A = Antecedence (15% of motivation — past experiences), B = Behavior (the action), C = Consequences (85% of motivation — anticipated outcomes). People buy the transformation, not the product."
+    fonte: "21CST-Module8"
+    dominio: [vendas]
+    confianca: 0.95
+
+  - id: MM-BT-003
+    titulo: "Pareto Principle (80/20)"
+    descricao: "Top 20% earn 80% of all money. Bottom 80% split remaining 20%. Top 20% are proactive and goal-driven; bottom 80% are passive. Applies to products, customers, activities, revenue sources."
+    fonte: "21CST-Module2, TBM-Day1, TBM-Workbook"
+    dominio: [vendas, business]
+    confianca: 0.95
+
+  - id: MM-BT-004
+    titulo: "Weakest Link Bottleneck"
+    descricao: "Your weakest area determines your ceiling. Even excellence in 6 areas is limited by weakness in 1. Focus on the bottleneck first."
+    fonte: "21CST-Module2"
+    dominio: [performance, vendas]
+    confianca: 0.95
+
+  - id: MM-BT-005
+    titulo: "Doctor of Selling Model"
+    descricao: "3-stage professional process: 1) Examination (ask questions, take notes, listen), 2) Diagnosis (discuss findings, get agreement), 3) Prescription (present solution only after diagnosis agreement)."
+    fonte: "21CST-Module11, TBM-Day1"
+    dominio: [vendas]
+    confianca: 0.95
+
+  - id: MM-BT-006
+    titulo: "Gap Analysis Specialist"
+    descricao: "Gap = difference between where customer is today vs where they could be. Your job: define the gap, expand the gap. Customer sees big problem → you offer cost-effective solution → sale happens automatically."
+    fonte: "21CST-Module11"
+    dominio: [vendas]
+    confianca: 0.95
+
+  - id: MM-BT-007
+    titulo: "4 Personality Styles Quadrant"
+    descricao: "Direct vs Indirect × People vs Task: RELATOR (slow/people), SOCIALIZER (fast/people), ANALYZER (slow/task), DIRECTOR (fast/task). Each requires different selling approach. Using one style = losing 75% of potential sales."
+    fonte: "21CST-Module13"
+    dominio: [vendas]
+    confianca: 0.95
+
+  - id: MM-BT-008
+    titulo: "Reticular Activating System (RAS)"
+    descricao: "Your brain is a goal-seeking mechanism. Set a clear goal, program it into your subconscious, and the RAS filters what you notice in the world. Goals achieved with seemingly miraculous timing."
+    fonte: "TBM-Day1"
+    dominio: [mindset]
+    confianca: 0.90
+
+  - id: MM-BT-009
+    titulo: "Law of Correspondence"
+    descricao: "Your outside world mirrors your inside world. When you think like top people, you act like them and get results like them."
+    fonte: "21CST-Module12"
+    dominio: [mindset]
+    confianca: 0.95
+
+  - id: MM-BT-010
+    titulo: "Organizational DNA (Values-Vision-Mission-Purpose)"
+    descricao: "4 essential elements of organizational definition: Values (core principles), Vision (ideal future picture), Mission (goals to accomplish), Purpose (why the business exists)."
+    fonte: "TBM-Workbook"
+    dominio: [business, lideranca]
+    confianca: 0.90
+
+  - id: MM-BT-011
+    titulo: "Key Result Areas (KRA)"
+    descricao: "Only 5-7 KRAs in any job. Concentrate energy there. Grade yourself 1-10 in each. Your weakest KRA sets your ceiling."
+    fonte: "21CST-Module2, TBM-Workbook"
+    dominio: [vendas, business, performance]
+    confianca: 0.95
+
+  - id: MM-BT-012
+    titulo: "Time Quadrants (Urgency × Importance)"
+    descricao: "Q1: Urgent+Important (crisis), Q2: Not Urgent+Important (strategic work), Q3: Urgent+Not Important (distractions), Q4: Neither (time wasters). Spend maximum time in Q2."
+    fonte: "TBM-Workbook"
+    dominio: [business, performance]
+    confianca: 0.90
+
+  - id: MM-BT-013
+    titulo: "Customer Value Hierarchy"
+    descricao: "Cascading value considerations: What does customer consider value? What are they willing to pay for? What does it achieve? What problems does it avoid/solve? What does it preserve/protect?"
+    fonte: "TBM-Workbook"
+    dominio: [vendas, business]
+    confianca: 0.90
+
+  - id: MM-BT-014
+    titulo: "Prospecting Pipeline Model"
+    descricao: "Prospects flow in, need time to be nurtured and moved through stages. 80% of time should be spent putting prospects in the pipeline. Pipeline is the lifeblood of business."
+    fonte: "TBM-Day1"
+    dominio: [vendas]
+    confianca: 0.90
+
+  - id: MM-BT-015
+    titulo: "Customer Referral Loop"
+    descricao: "A good sales process makes customers so happy they want their friends to experience it. This becomes your growth engine. After 90 days in sales, should work almost 100% off referrals."
+    fonte: "21CST-Bonus, TBM-Day1"
+    dominio: [vendas]
+    confianca: 0.90
+
+# ═══════════════════════════════════════════════════════════════════
+# L3: HEURISTICAS (Rules with Numbers & Thresholds)
+# ═══════════════════════════════════════════════════════════════════
+heuristicas:
+  - id: HEUR-BT-001
+    titulo: "Compound Improvement Formula"
+    descricao: "Improve 10% in each of 7 Key Result Areas over 12 months. 1.1^7 = 1.94 — nearly doubling productivity. Just 0.8% improvement per month doubles results."
+    tipo: numerico
+    threshold: "10% per KRA per year = 2x productivity"
+    fonte: "21CST-Module2"
+    dominio: [vendas, performance]
+    confianca: 0.95
+
+  - id: HEUR-BT-002
+    titulo: "Top 20% Earn 16x More"
+    descricao: "Top 20% of salespeople earn 16 times more than the bottom 80%. The gap is not 2x or 3x — it's 16x."
+    tipo: numerico
+    threshold: "16x income gap between top 20% and bottom 80%"
+    fonte: "21CST-Module2"
+    dominio: [vendas]
+    confianca: 0.90
+
+  - id: HEUR-BT-003
+    titulo: "Average 4.6 Calls to Close"
+    descricao: "The average sale requires 4.6 calls/contacts. Think in milestones, not one-call closes. Plan a multi-touch approach."
+    tipo: numerico
+    threshold: "4.6 average calls per sale"
+    fonte: "21CST-Module1"
+    dominio: [vendas]
+    confianca: 0.90
+
+  - id: HEUR-BT-004
+    titulo: "85% Consequences, 15% Antecedence"
+    descricao: "85% of buying motivation comes from anticipated consequences (future outcomes). Only 15% comes from past experiences. Sell the transformation, not the history."
+    tipo: numerico
+    threshold: "85/15 split consequences vs antecedence"
+    fonte: "21CST-Module8"
+    dominio: [vendas]
+    confianca: 0.95
+
+  - id: HEUR-BT-005
+    titulo: "90% Transformation, 10% Product"
+    descricao: "Spend 90% of presentation time on transformation (how life/work will be different) and 10% on product details. Reverse of what most salespeople do."
+    tipo: numerico
+    threshold: "90/10 transformation vs product details"
+    fonte: "21CST-Module8"
+    dominio: [vendas]
+    confianca: 0.95
+
+  - id: HEUR-BT-006
+    titulo: "70% Trust + Needs, 30% Presenting"
+    descricao: "Spend 70% of sales conversation building trust and identifying needs BEFORE presenting product. Only 30% on presentation and close."
+    tipo: numerico
+    threshold: "70/30 discovery vs presentation"
+    fonte: "21CST-Module8"
+    dominio: [vendas]
+    confianca: 0.95
+
+  - id: HEUR-BT-007
+    titulo: "3% of Income on Self-Development"
+    descricao: "Invest 3% of your income on books, audio, seminars for self-improvement. For every $1 spent on yourself, earn $10-50 more."
+    tipo: numerico
+    threshold: "3% of income → 10-50x ROI"
+    fonte: "21CST-Module4, 21CST-Module12"
+    dominio: [mindset, performance]
+    confianca: 0.95
+
+  - id: HEUR-BT-008
+    titulo: "Read 30-60 Minutes Daily"
+    descricao: "Read 30-60 minutes daily on sales = 1 book/week = 50 books/year = 500 books in 10 years. Turns you into one of the most knowledgeable people in your field."
+    tipo: numerico
+    threshold: "30-60 min/day → 50 books/year"
+    fonte: "21CST-Module12"
+    dominio: [mindset, performance]
+    confianca: 0.95
+
+  - id: HEUR-BT-009
+    titulo: "4 Seminars per Year Minimum"
+    descricao: "Attend at least 4 seminars per year. Don't wait for your company to arrange them. Invest in yourself."
+    tipo: numerico
+    threshold: "4+ seminars/year"
+    fonte: "21CST-Module12"
+    dominio: [performance]
+    confianca: 0.90
+
+  - id: HEUR-BT-010
+    titulo: "Memory Decay: 80% by End of Day"
+    descricao: "You forget 80% of details by end of day, 90% by next morning. Write everything down immediately after every sales call."
+    tipo: numerico
+    threshold: "80% forgotten same day, 90% next day"
+    fonte: "21CST-Module12"
+    dominio: [vendas]
+    confianca: 0.90
+
+  - id: HEUR-BT-011
+    titulo: "75% Sales Lost Without Style Flexibility"
+    descricao: "If you approach everyone the same way, you will miss three quarters of your potential prospects. Must adapt to 4 personality styles."
+    tipo: numerico
+    threshold: "75% of sales lost with one-style approach"
+    fonte: "21CST-Module13"
+    dominio: [vendas]
+    confianca: 0.95
+
+  - id: HEUR-BT-012
+    titulo: "80% Prospecting Time When Starting"
+    descricao: "When starting in business or sales, 80% of your time should be prospecting. This is the lifeblood of business."
+    tipo: numerico
+    threshold: "80% of time on prospecting"
+    fonte: "TBM-Day1"
+    dominio: [vendas]
+    confianca: 0.90
+
+  - id: HEUR-BT-013
+    titulo: "Silence After Close"
+    descricao: "After asking for the order, sit in COMPLETE SILENCE. The person who speaks first after a close loses. Silence = pressure that leads to buying."
+    tipo: qualitativo
+    fonte: "21CST-Bonus"
+    dominio: [vendas]
+    confianca: 0.95
+
+  - id: HEUR-BT-014
+    titulo: "Never Leave Without 2 Referrals"
+    descricao: "NEVER leave a prospect (buying or not) without at least two referrals. After 90 days in sales, should work almost 100% off referrals."
+    tipo: numerico
+    threshold: "2+ referrals per visit, 100% referral-based after 90 days"
+    fonte: "21CST-Bonus"
+    dominio: [vendas]
+    confianca: 0.95
+
+  - id: HEUR-BT-015
+    titulo: "80/20 Feature Satisfaction"
+    descricao: "20% of features and benefits account for 80% of customer satisfaction. Identify and emphasize the vital 20%."
+    tipo: numerico
+    threshold: "20% of features → 80% satisfaction"
+    fonte: "TBM-Workbook"
+    dominio: [business]
+    confianca: 0.90
+
+  - id: HEUR-BT-016
+    titulo: "Law of Three (90% Rule)"
+    descricao: "Only three tasks or activities account for 90% of your results. Identify the top three and focus the majority of time there."
+    tipo: numerico
+    threshold: "3 activities → 90% of results"
+    fonte: "TBM-Workbook"
+    dominio: [business, performance]
+    confianca: 0.90
+
+  - id: HEUR-BT-017
+    titulo: "Double/Triple Startup Timeframe"
+    descricao: "In business startups, double or triple estimated time between commencing and achieving profitability."
+    tipo: numerico
+    threshold: "2-3x estimated time to profitability"
+    fonte: "TBM-Workbook"
+    dominio: [business]
+    confianca: 0.85
+
+  - id: HEUR-BT-018
+    titulo: "Income Doubling in 2-3 Years"
+    descricao: "Using these ideas consistently, people can double their income in 2-3 years. Some increase 500% in 12 months."
+    tipo: numerico
+    threshold: "2x income in 2-3 years, up to 5x in 12 months"
+    fonte: "TBM-Day1"
+    dominio: [performance]
+    confianca: 0.85
+
+  - id: HEUR-BT-019
+    titulo: "80-90% Hot Button"
+    descricao: "80-90% of the buying decision comes from 10-20% of product features. Find THE ONE benefit that matters most (the hot button) and push it repeatedly."
+    tipo: numerico
+    threshold: "80-90% decision from top feature"
+    fonte: "21CST-Bonus"
+    dominio: [vendas]
+    confianca: 0.95
+
+  - id: HEUR-BT-020
+    titulo: "Higher Price First (Contrast Principle)"
+    descricao: "Always present higher-priced item FIRST, then lower-priced. Lower item seems MORE attractive by contrast."
+    tipo: qualitativo
+    fonte: "21CST-Module14"
+    dominio: [vendas]
+    confianca: 0.95
+
+  - id: HEUR-BT-021
+    titulo: "10-15 Thank You Cards Daily"
+    descricao: "Send 10-15 thank-you cards daily to trigger reciprocity. Sales people who do this become highest-paid reps."
+    tipo: numerico
+    threshold: "10-15 cards/day"
+    fonte: "21CST-Module14"
+    dominio: [vendas]
+    confianca: 0.90
+
+  - id: HEUR-BT-022
+    titulo: "Sell 10 Minutes, Not the Product"
+    descricao: "On phone: always sell 10 minutes of time, not the product. 'You be the judge. All I need is 10 minutes.'"
+    tipo: numerico
+    threshold: "10 minutes of time"
+    fonte: "21CST-Bonus"
+    dominio: [vendas]
+    confianca: 0.95
+
+  - id: HEUR-BT-023
+    titulo: "500-1000 Hours Car Learning"
+    descricao: "Average person drives 500-1,000 hours/year. Turn car into mobile classroom by listening to audio programs constantly."
+    tipo: numerico
+    threshold: "500-1000 hours/year of audio learning"
+    fonte: "21CST-Module12"
+    dominio: [performance]
+    confianca: 0.90
+
+  - id: HEUR-BT-024
+    titulo: "Hiring: 80% Track Record"
+    descricao: "80% of hiring success is explained by the person's past success history. Check track record thoroughly before hiring."
+    tipo: numerico
+    threshold: "80% predictive value from past performance"
+    fonte: "TBM-Day1"
+    dominio: [business, lideranca]
+    confianca: 0.85
+
+  - id: HEUR-BT-025
+    titulo: "Doorknob Close 50%+ Recovery"
+    descricao: "The Doorknob Close can recover 50%+ of 'lost' sales. At the door, hand on knob, ask: 'What was the real reason you didn't buy today?'"
+    tipo: numerico
+    threshold: "50%+ recovery rate on lost sales"
+    fonte: "21CST-Bonus"
+    dominio: [vendas]
+    confianca: 0.90
+
+# ═══════════════════════════════════════════════════════════════════
+# L4: FRAMEWORKS (Structured Methodologies)
+# ═══════════════════════════════════════════════════════════════════
+frameworks:
+  - id: FW-BT-001
+    titulo: "7 Key Result Areas of Professional Selling"
+    descricao: "1) Prospecting, 2) Building Rapport & Trust, 3) Problem/Need Identification, 4) Presenting, 5) Handling Objections, 6) Closing the Sale, 7) Resales & Referrals. Grade yourself 1-10 in each."
+    etapas: 7
+    fonte: "21CST-Module2"
+    dominio: [vendas]
+    confianca: 0.95
+
+  - id: FW-BT-002
+    titulo: "7 New Realities of Selling"
+    descricao: "1) More sellers than buyers, 2) Selling more complex, 3) Greater focus needed, 4) Greater preparation needed, 5) Customers more demanding, 6) Multiple calls required (4.6 avg), 7) Closing harder."
+    etapas: 7
+    fonte: "21CST-Module1"
+    dominio: [vendas]
+    confianca: 0.95
+
+  - id: FW-BT-003
+    titulo: "6 Self-Esteem Building Behaviors"
+    descricao: "1) Act your way into feeling (fake it till you make it), 2) Start with clear written goals daily, 3) Take complete responsibility ('I am responsible'), 4) Use time well (plan, prioritize), 5) Continuous improvement (KNICANE), 6) Invest in continuous learning (3% of income)."
+    etapas: 6
+    fonte: "21CST-Module4"
+    dominio: [mindset, vendas]
+    confianca: 0.95
+
+  - id: FW-BT-004
+    titulo: "7 Questions Customers Ask (in sequence)"
+    descricao: "1) Why should I listen to you? 2) What is it? 3) Who else has done it? 4) Who says so? 5) What do I get? 6) WIIFM? 7) So what?"
+    etapas: 7
+    fonte: "21CST-Module8"
+    dominio: [vendas]
+    confianca: 0.95
+
+  - id: FW-BT-005
+    titulo: "4 Types of Sales Questions"
+    descricao: "1) Open-Ended (what/when/who/where/how/why), 2) Closed-Ended (is/are/can/do/will), 3) Negative Answer Questions (no = interest), 4) Hypothetical (what if...)."
+    etapas: 4
+    fonte: "21CST-Module10"
+    dominio: [vendas]
+    confianca: 0.95
+
+  - id: FW-BT-006
+    titulo: "Agenda Close Framework"
+    descricao: "Prepare 5-7 questions on business letterhead. First question general, subsequent increasingly specific. Present as 'I've prepared an agenda for our meeting.' Positions you immediately as consultant."
+    etapas: 3
+    fonte: "21CST-Module11"
+    dominio: [vendas]
+    confianca: 0.95
+
+  - id: FW-BT-007
+    titulo: "7 Buying Influences"
+    descricao: "1) Reciprocity, 2) Commitment & Consistency, 3) Social Proof, 4) Liking (Friendship Factor), 5) Authority, 6) Scarcity, 7) Contrast Principle. All 7 can be triggered simultaneously."
+    etapas: 7
+    fonte: "21CST-Module14"
+    dominio: [vendas]
+    confianca: 0.95
+
+  - id: FW-BT-008
+    titulo: "7 Qualities of Top Salespeople"
+    descricao: "1) Ambitious, 2) Determined, 3) Courageous (confront fears), 4) Committed (3 levels: product/customer/self), 5) Professional (consultant mindset), 6) Responsible (own personal sales corporation), 7) Continuous Learner."
+    etapas: 7
+    fonte: "21CST-Module12"
+    dominio: [vendas, mindset]
+    confianca: 0.95
+
+  - id: FW-BT-009
+    titulo: "4 Personality Selling Styles"
+    descricao: "RELATOR (slow/gentle, relationship focus), SOCIALIZER (fast/positive, recognition), ANALYZER (detailed/thorough, accuracy), DIRECTOR (get to the point, results). Flex style to match customer."
+    etapas: 4
+    fonte: "21CST-Module13"
+    dominio: [vendas]
+    confianca: 0.95
+
+  - id: FW-BT-010
+    titulo: "33-Point Business Dashboard"
+    descricao: "Revenue metrics (sales, COGS, expenses, salaries), Lead metrics (generation, conversion, CAC), Customer metrics (frequency, LTV, referral rate), Financial metrics (ROI, ROE, ROS, receivables, payables, debt)."
+    etapas: 33
+    fonte: "TBM-Workbook"
+    dominio: [business]
+    confianca: 0.90
+
+  - id: FW-BT-011
+    titulo: "6 Key Result Areas of Business"
+    descricao: "1) Productivity, 2) Marketing & Sales, 3) Innovation, 4) Organizational Development, 5) Cost Control, 6) Training & Development, 7) Profitability. Grade 1-10."
+    etapas: 7
+    fonte: "TBM-Workbook"
+    dominio: [business]
+    confianca: 0.90
+
+  - id: FW-BT-012
+    titulo: "8-Point Areas of Excellence"
+    descricao: "Compete via: 1) Product superiority, 2) Service, 3) Location, 4) Convenience, 5) Responsiveness, 6) Price/value, 7) Quality, 8) Ease of business."
+    etapas: 8
+    fonte: "TBM-Workbook"
+    dominio: [business]
+    confianca: 0.90
+
+  - id: FW-BT-013
+    titulo: "Pre-Call Preparation (3 Types)"
+    descricao: "1) Pre-call research (learn everything about prospect), 2) Pre-call objectives (goals, questions, success criteria), 3) Post-call analysis (write down every detail immediately)."
+    etapas: 3
+    fonte: "21CST-Module1, 21CST-Module12"
+    dominio: [vendas]
+    confianca: 0.95
+
+  - id: FW-BT-014
+    titulo: "4 Keys to Developing Winning Edge"
+    descricao: "1) Definition (identify KRAs, strengths/weaknesses), 2) Decision (commit to be among the best), 3) Determine course of study (books, audio, courses), 4) Practice (get a little better every day)."
+    etapas: 4
+    fonte: "21CST-Module2"
+    dominio: [performance]
+    confianca: 0.95
+
+  - id: FW-BT-015
+    titulo: "3 Levels of Commitment"
+    descricao: "1) Commitment to your product/service (believe in quality), 2) Commitment to your customer (want to help them), 3) Commitment to yourself (believe in your ability). All 3 must be present."
+    etapas: 3
+    fonte: "21CST-Module12"
+    dominio: [vendas, mindset]
+    confianca: 0.95
+
+# ═══════════════════════════════════════════════════════════════════
+# L5: METODOLOGIAS (Step-by-Step Processes)
+# ═══════════════════════════════════════════════════════════════════
+metodologias:
+  - id: MET-BT-001
+    titulo: "24 Effective Closing Techniques"
+    descricao: "Complete closing system: 1) Appointment Close, 2) Approach Close, 3) Demonstration Close, 4) Hot Button Close, 5) Trial Close, 6) Power of Suggestion, 7) Invitational Close, 8) Just Suppose Close, 9) Sudden Death Close, 10) Sharp Angle Close, 11) Instant Reverse Close, 12) Change Places Close, 13) Secondary Close, 14) Alternative Close, 15) Preference Close, 16) Assumption Close, 17) Takeaway Close, 18) Puppy Dog Close, 19) Ben Franklin Close, 20) Summary Close, 21) Order Sheet Close, 22) Relevant Story Close, 23) Doorknob Close, 24) Referral Close."
+    passos: 24
+    fonte: "21CST-Bonus"
+    dominio: [vendas]
+    confianca: 0.95
+
+  - id: MET-BT-002
+    titulo: "Doctor of Selling Process"
+    descricao: "Step 1: Examination (ask questions, take notes, listen — like doctor taking vitals). Step 2: Diagnosis (discuss findings, get agreement — 'Based on what you've told me...'). Step 3: Prescription (present solution with price — only after diagnosis agreement)."
+    passos: 3
+    fonte: "21CST-Module11"
+    dominio: [vendas]
+    confianca: 0.95
+
+  - id: MET-BT-003
+    titulo: "Problem-Focused Question Sequence"
+    descricao: "8-question sequence: 1) What are you doing in this area now? 2) How is that working? 3) How do you feel about current product? 4) What are long-term goals (3-5 years)? 5) What are you trying to achieve/avoid/preserve? 6) What problems/frustrations? 7) If I could show you a way to improve, would you be interested? 8) Would you be open to looking at something better?"
+    passos: 8
+    fonte: "21CST-Module11"
+    dominio: [vendas]
+    confianca: 0.95
+
+  - id: MET-BT-004
+    titulo: "Compound Improvement Method"
+    descricao: "Step 1: Grade yourself 1-10 in each of 7 KRAs. Step 2: Identify weakest area (bottleneck). Step 3: Improve 10% in each area over 12 months. Step 4: 1.1^7 = 1.94 (nearly double). Step 5: Repeat annually."
+    passos: 5
+    fonte: "21CST-Module2"
+    dominio: [vendas, performance]
+    confianca: 0.95
+
+  - id: MET-BT-005
+    titulo: "Self-Esteem Reprogramming"
+    descricao: "Step 1: Repeat 'I like myself' 10-50 times daily (reprograms subconscious). Step 2: Act your way into feeling (behavior changes emotions). Step 3: Write clear goals daily. Step 4: Take complete responsibility ('I am responsible'). Step 5: Invest 3% of income in learning."
+    passos: 5
+    fonte: "21CST-Module4"
+    dominio: [mindset]
+    confianca: 0.95
+
+  - id: MET-BT-006
+    titulo: "Style Flexibility Selling"
+    descricao: "Step 1: Observe (does person speak rapidly or slowly?). Step 2: Identify type (Relator/Socializer/Analyzer/Director). Step 3: Adapt pace and tone to match. Step 4: Adjust benefits focus (relationships/recognition/accuracy/results). Step 5: Close in their preferred style."
+    passos: 5
+    fonte: "21CST-Module13"
+    dominio: [vendas]
+    confianca: 0.95
+
+  - id: MET-BT-007
+    titulo: "Referral Generation System"
+    descricao: "Step 1: After every visit (buying or not), ask for 2-3 referrals. Step 2: Get phone numbers ('Do you have their numbers?'). Step 3: Use alternative close ('Which should I call first?'). Step 4: Ask prospect to call referrals now. Step 5: Every January, call all past customers for 2-3 weeks, get referrals. Step 6: After 90 days, work almost 100% off referrals."
+    passos: 6
+    fonte: "21CST-Bonus"
+    dominio: [vendas]
+    confianca: 0.95
+
+  - id: MET-BT-008
+    titulo: "Zero-Based Thinking Process"
+    descricao: "For each business activity, customer, market, product, or method: Ask 'Knowing what I now know, would I start this again today?' For each 'No' answer: eliminate or restructure that element."
+    passos: 2
+    fonte: "TBM-Workbook"
+    dominio: [business]
+    confianca: 0.90
+
+  - id: MET-BT-009
+    titulo: "10 Goal Method"
+    descricao: "Step 1: Write down 10 goals for next 12 months in present tense. Step 2: Think about goals throughout the day. Step 3: Take daily action toward each goal. Step 4: Work on goals 7 days/week. Step 5: Never stop until achieved."
+    passos: 5
+    fonte: "TBM-Day1"
+    dominio: [mindset, performance]
+    confianca: 0.90
+
+  - id: MET-BT-010
+    titulo: "Supermarket Sample Trigger Sequence"
+    descricao: "Demonstrates how one interaction triggers all 7 buying influences simultaneously: 1) Sample offered → Reciprocity, 2) Others buying → Social proof, 3) Pleasant person → Liking, 4) Store prestige → Authority, 5) Special price → Scarcity, 6) vs other products → Contrast."
+    passos: 6
+    fonte: "21CST-Module14"
+    dominio: [vendas]
+    confianca: 0.95
+
+# ═══════════════════════════════════════════════════════════════════
+# METADADOS
+# ═══════════════════════════════════════════════════════════════════
+metadados:
+  total_por_camada:
+    filosofias: 20
+    modelos_mentais: 15
+    heuristicas: 25
+    frameworks: 15
+    metodologias: 10
+  dominios_cobertos:
+    - vendas
+    - business
+    - mindset
+    - performance
+    - lideranca
+  fontes:
+    - id: "21CST"
+      titulo: "21st Century Sales Training"
+      tipo: "COURSE"
+      modulos: 15
+      arquivos: 31
+    - id: "TBM"
+      titulo: "Total Business Mastery"
+      tipo: "SEMINAR"
+      dias: 3
+      arquivos: 7

@@ -1,0 +1,43 @@
+# ============================================================================
+# DNA-CONFIG — SIMON SINEK
+# ============================================================================
+# Versão: 1.0.0
+# Data: 2026-04-04
+# ============================================================================
+
+agent:
+  name: "Simon Sinek"
+  slug: "simon-sinek"
+  type: SOLO
+  version: "1.0.0"
+
+dna_sources:
+  - person: "simon-sinek"
+    weight: 1.0
+    path: "knowledge/external/dna/persons/simon-sinek/DNA.yaml"
+    raiz: "knowledge/external/sources/simon-sinek/raw/why-discovery-course/"
+    materiais_fonte:
+      - nome: "Why Discovery Course"
+        tipo: COURSE
+        secoes: 3
+        arquivos: 20
+        idioma: en
+        descricao: "Curso completo de descoberta de propósito pessoal — Golden Circle, WHY Statement, HOWs"
+
+dna_summary:
+  total_elements: 132
+  breakdown:
+    filosofias: 15
+    modelos_mentais: 12
+    heuristicas: 25
+    frameworks: 10
+    metodologias: 5
+  domains:
+    - leadership
+    - purpose-discovery
+    - personal-development
+    - organizational-culture
+    - team-building
+  version_dna: "1.0.0"
+  sources_count: 1
+  last_pipeline: "2026-04-04"

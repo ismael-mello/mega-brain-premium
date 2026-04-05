@@ -1,0 +1,1328 @@
+# ============================================================================
+# DNA COGNITIVO: JAMES CLEAR
+# ============================================================================
+# Versão: 2.0.0
+# Fontes: The Habits Academy (40 lições) + Atomic Habits (book, 256 pages)
+# Elementos: 137 (95 course + 42 book)
+# Data: 2026-04-04
+# ============================================================================
+
+metadata:
+  person: "James Clear"
+  slug: "james-clear"
+  version: "2.0.0"
+  total_elements: 137
+  sources:
+    - id: "JC-THA"
+      name: "The Habits Academy"
+      type: "COURSE"
+      files: 40
+      date_processed: "2026-04-04"
+    - id: "JC-AH"
+      name: "Atomic Habits"
+      type: "BOOK"
+      pages: 256
+      date_processed: "2026-04-04"
+  domains:
+    - habit-formation
+    - behavior-change
+    - personal-development
+    - psychology
+    - performance
+    - productivity
+    - identity-change
+    - mastery
+
+# ============================================================================
+# L1: PHILOSOPHIES (Core Beliefs & Worldview)
+# ============================================================================
+philosophies:
+  - id: "FIL-JC-001"
+    title: "Aggregation of Marginal Gains"
+    content: "1% improvements in nearly everything you do compound into extraordinary results. Small habits are not a cherry on top — they are the difference between world-class and average."
+    source: "JC-THA:Lesson02"
+    confidence: 1.0
+    domain: ["habit-formation", "performance"]
+
+  - id: "FIL-JC-002"
+    title: "Systems Over Goals"
+    content: "You do not rise to the level of your goals, you fall to the level of your systems. Goals are about the results you want to achieve. Systems are about the processes that lead to those results."
+    source: "JC-THA:Lesson05"
+    confidence: 1.0
+    domain: ["habit-formation", "productivity"]
+
+  - id: "FIL-JC-003"
+    title: "Identity-Based Habits"
+    content: "The most effective way to change your habits is to focus not on what you want to achieve, but on who you wish to become. Every action is a vote for the type of person you wish to become."
+    source: "JC-THA:Lesson22"
+    confidence: 1.0
+    domain: ["behavior-change", "personal-development"]
+
+  - id: "FIL-JC-004"
+    title: "Environment > Willpower"
+    content: "People who appear to have tremendous self-control are not actually better at resisting temptation — they are better at structuring their lives so they don't need willpower in the first place."
+    source: "JC-THA:Lesson15"
+    confidence: 1.0
+    domain: ["behavior-change", "psychology"]
+
+  - id: "FIL-JC-005"
+    title: "Motivation Follows Action"
+    content: "Motivation is not something you need before starting. Motivation often comes after starting a behavior, not before. Start small and trust the cascade."
+    source: "JC-THA:Lesson09"
+    confidence: 1.0
+    domain: ["behavior-change", "productivity"]
+
+  - id: "FIL-JC-006"
+    title: "Ancient Brain, Modern World"
+    content: "We come into this world with an ancient mind but live in a modern space. Our immediate-return brain is living in a delayed-return society. This mismatch causes chronic stress and poor habit choices."
+    source: "JC-THA:Lesson25"
+    confidence: 1.0
+    domain: ["psychology", "behavior-change"]
+
+  - id: "FIL-JC-007"
+    title: "Never Miss Twice"
+    content: "Missing once is an accident. Missing twice is the start of a new habit. The difference between successful people and unsuccessful people is not that they never fail — it's that they get back on track quickly."
+    source: "JC-THA:Lesson29"
+    confidence: 1.0
+    domain: ["habit-formation", "performance"]
+
+  - id: "FIL-JC-008"
+    title: "Standardize Before You Optimize"
+    content: "You can't improve a habit that doesn't exist. First make it the standard, then worry about making it better. Establish the behavior first, optimize later."
+    source: "JC-THA:Lesson10"
+    confidence: 1.0
+    domain: ["habit-formation", "productivity"]
+
+  - id: "FIL-JC-009"
+    title: "Get To vs Have To"
+    content: "Shift your language from 'I have to go to the gym' to 'I get to go to the gym.' Reframing obligations as opportunities changes your relationship with the habit entirely."
+    source: "JC-THA:Lesson21"
+    confidence: 1.0
+    domain: ["personal-development", "psychology"]
+
+  - id: "FIL-JC-010"
+    title: "Behavior Is a Lagging Indicator"
+    content: "Your outcomes are a lagging measure of your habits. Your net worth is a lagging measure of your financial habits. Your weight is a lagging measure of your eating habits. Your knowledge is a lagging measure of your learning habits."
+    source: "JC-THA:Lesson02"
+    confidence: 1.0
+    domain: ["habit-formation", "performance"]
+
+  - id: "FIL-JC-011"
+    title: "Repetition Over Perfection"
+    content: "Habits are not formed by time but by repetition. It's not about how long it takes — it's about how many times you perform the behavior. Frequency is more important than duration."
+    source: "JC-THA:Lesson04"
+    confidence: 1.0
+    domain: ["habit-formation"]
+
+  - id: "FIL-JC-012"
+    title: "Culture Is the Ultimate Environment"
+    content: "One of the most effective things you can do to build better habits is to join a culture where your desired behavior is the normal behavior. Nothing sustains motivation better than belonging to the tribe."
+    source: "JC-THA:Lesson35"
+    confidence: 1.0
+    domain: ["behavior-change", "psychology"]
+
+  - id: "FIL-JC-013"
+    title: "The Boring Solution"
+    content: "The greatest threat to success is not failure. It's boredom. We get bored with habits because they stop delighting us. The ability to keep going when work isn't exciting is what separates professionals from amateurs."
+    source: "JC-THA:Lesson11"
+    confidence: 1.0
+    domain: ["performance", "personal-development"]
+
+  - id: "FIL-JC-014"
+    title: "Process Identity"
+    content: "True behavior change is identity change. When a behavior becomes part of who you are, you no longer pursue the behavior — you embody it. The goal is not to read a book, the goal is to become a reader."
+    source: "JC-THA:Lesson22"
+    confidence: 1.0
+    domain: ["personal-development", "behavior-change"]
+
+  - id: "FIL-JC-015"
+    title: "Simplicity Enables Execution"
+    content: "Reduce the number of steps between you and your good habits and increase the number of steps between you and your bad habits. Friction is the secret weapon of behavior design."
+    source: "JC-THA:Lesson16"
+    confidence: 1.0
+    domain: ["behavior-change", "productivity"]
+
+  - id: "FIL-JC-016"
+    title: "Measure Backward Not Forward"
+    content: "Instead of measuring how far you have to go, measure how far you've come. Looking backward shows you the progress you've already made, which fuels motivation to continue."
+    source: "JC-THA:Lesson28"
+    confidence: 1.0
+    domain: ["performance", "personal-development"]
+
+  - id: "FIL-JC-017"
+    title: "Master One Thing"
+    content: "Many people try to build too many habits at once. Pick one thing. Master it. Then add the next. Trying to change everything at once means nothing gets your full attention."
+    source: "JC-THA:Lesson36"
+    confidence: 1.0
+    domain: ["habit-formation", "productivity"]
+
+  - id: "FIL-JC-018"
+    title: "Constraints Breed Creativity"
+    content: "Adding constraints — like the 2-minute rule — forces creativity and simplification. When you narrow the scope, you expand the likelihood of execution."
+    source: "JC-THA:Lesson37"
+    confidence: 1.0
+    domain: ["productivity", "behavior-change"]
+
+  - id: "FIL-JC-019"
+    title: "Awareness Is the First Step"
+    content: "Before you can change a habit, you have to become aware of it. Most habits operate below the level of consciousness. The pointing-and-calling method of Japanese railway systems is about making the unconscious conscious."
+    source: "JC-THA:Lesson39"
+    confidence: 1.0
+    domain: ["psychology", "behavior-change"]
+
+  - id: "FIL-JC-020"
+    title: "The Overlap Principle"
+    content: "Attack the same habit from multiple angles. Have three different approaches to the same behavior so if one fails, you have backup routes. Resilience comes from redundancy."
+    source: "JC-THA:Lesson40"
+    confidence: 1.0
+    domain: ["habit-formation", "performance"]
+
+  - id: "FIL-JC-021"
+    title: "Habits Are the Compound Interest of Self-Improvement"
+    content: "The effects of your habits multiply as you repeat them. They seem to make little difference on any given day and yet the impact over months and years can be enormous. It's only when looking back that the value of good habits and the cost of bad ones becomes strikingly apparent."
+    source: "JC-THA:Lesson02"
+    confidence: 1.0
+    domain: ["habit-formation", "personal-development"]
+
+  - id: "FIL-JC-022"
+    title: "The Plateau of Latent Potential"
+    content: "In the early and middle stages of habit formation, there is often a valley of disappointment. You expect to make progress in a linear fashion but the results of your efforts are delayed. It's not until much later that the full value of previous efforts is revealed."
+    source: "JC-THA:Lesson12"
+    confidence: 1.0
+    domain: ["performance", "habit-formation"]
+
+  - id: "FIL-JC-023"
+    title: "Genes Don't Determine Destiny"
+    content: "Genes do not determine your destiny. They determine your areas of opportunity. Your genetic makeup tells you which game to play, not whether you'll win. Choose habits that align with your natural abilities."
+    source: "JC-THA:Lesson19"
+    confidence: 1.0
+    domain: ["psychology", "personal-development"]
+
+  - id: "FIL-JC-024"
+    title: "Self-Justification Is the Enemy"
+    content: "We rationalize our poor choices to maintain a positive self-image. The moment you start making exceptions, you start building justification loops that make the exceptions feel reasonable."
+    source: "JC-THA:Lesson38"
+    confidence: 1.0
+    domain: ["psychology", "behavior-change"]
+
+  - id: "FIL-JC-025"
+    title: "The 4 Laws of Behavior Change"
+    content: "Every habit follows a predictable cycle: Make it obvious (cue), Make it attractive (craving), Make it easy (response), Make it satisfying (reward). Invert these to break bad habits."
+    source: "JC-THA:Lesson03"
+    confidence: 1.0
+    domain: ["habit-formation", "behavior-change"]
+
+  # --- NEW FROM ATOMIC HABITS (Book) ---
+
+  - id: "FIL-JC-026"
+    title: "Habits Do Not Restrict Freedom — They Create It"
+    content: "People who don't have their habits handled are often the ones with the least amount of freedom. Without good financial habits, you will always struggle. Without good health habits, you will always be short on energy. Building habits in the present allows you to do more of what you want in the future."
+    source: "JC-AH:Ch03:p41"
+    confidence: 1.0
+    domain: ["habit-formation", "personal-development"]
+
+  - id: "FIL-JC-027"
+    title: "The Sorites Paradox of Improvement"
+    content: "Can one tiny change transform your life? Unlikely. But what if you made another? And another? At some point, you will have to admit that your life was transformed by one small change. The holy grail of habit change is not a single 1 percent improvement, but a thousand of them."
+    source: "JC-AH:Conclusion:p193"
+    confidence: 1.0
+    domain: ["habit-formation", "personal-development"]
+
+  - id: "FIL-JC-028"
+    title: "Keep Your Identity Small"
+    content: "The more you let a single belief define you, the less capable you are of adapting when life challenges you. If you're a vegan and then develop a health condition that forces you to change your diet, you'll have an identity crisis. Redefine yourself broadly so you get to keep important aspects even if your particular role changes."
+    source: "JC-AH:Ch20:p190"
+    confidence: 1.0
+    domain: ["personal-development", "identity-change"]
+
+  - id: "FIL-JC-029"
+    title: "Success Is a System, Not a Finish Line"
+    content: "Success is not a goal to reach or a finish line to cross. It is a system to improve, an endless process to refine. The secret to getting results that last is to never stop making improvements."
+    source: "JC-AH:Conclusion:p194"
+    confidence: 1.0
+    domain: ["performance", "habit-formation"]
+
+  - id: "FIL-JC-030"
+    title: "Small Habits Don't Add Up — They Compound"
+    content: "It's remarkable what you can build if you just don't stop. Small habits don't add up. They compound. That's the power of atomic habits. Tiny changes. Remarkable results."
+    source: "JC-AH:Conclusion:p195"
+    confidence: 1.0
+    domain: ["habit-formation", "performance"]
+
+  - id: "FIL-JC-031"
+    title: "Lack of Self-Awareness Is Poison"
+    content: "A lack of self-awareness is poison. Reflection and review is the antidote. Without reflection, we can make excuses, create rationalizations, and lie to ourselves. We have no process for determining whether we are performing better or worse compared to yesterday."
+    source: "JC-AH:Ch20:p191"
+    confidence: 1.0
+    domain: ["personal-development", "mastery"]
+
+# ============================================================================
+# L2: MENTAL MODELS (Thinking & Decision Frameworks)
+# ============================================================================
+mental_models:
+  - id: "MM-JC-001"
+    title: "The Habit Loop"
+    content: "Every habit follows a four-step pattern: Cue → Craving → Response → Reward. The cue triggers a craving, which motivates a response, which provides a reward, which satisfies the craving and becomes associated with the cue. Understanding this loop is the key to building any habit."
+    source: "JC-THA:Lesson03"
+    confidence: 1.0
+    domain: ["habit-formation", "psychology"]
+
+  - id: "MM-JC-002"
+    title: "Immediate Return vs Delayed Return Environment"
+    content: "For 200,000 years, humans lived in immediate return environments (hungry → eat → satisfied). Modern life is delayed return (invest → wait 40 years → retire). Our brain is wired for immediate rewards, creating a mismatch that drives bad habits."
+    source: "JC-THA:Lesson25"
+    confidence: 1.0
+    domain: ["psychology", "behavior-change"]
+
+  - id: "MM-JC-003"
+    title: "Explore/Exploit Strategy"
+    content: "In the beginning of any pursuit, explore widely to find what works for you. Then shift to exploiting your best option. The key is knowing when to switch from exploration to exploitation. Applies to habits: try many approaches, then double down on what sticks."
+    source: "JC-THA:Lesson20"
+    confidence: 1.0
+    domain: ["personal-development", "performance"]
+
+  - id: "MM-JC-004"
+    title: "The Inversion Principle"
+    content: "To break a bad habit, invert the 4 Laws: Make it invisible (remove cue), Make it unattractive (reframe craving), Make it difficult (add friction), Make it unsatisfying (add consequence). The opposite of every law for building is a law for breaking."
+    source: "JC-THA:Lesson30"
+    confidence: 1.0
+    domain: ["behavior-change", "habit-formation"]
+
+  - id: "MM-JC-005"
+    title: "Minimum Viable Effort"
+    content: "The most effective form of learning is practice, not planning. The key is to reduce the scope of behavior until it's trivially easy to start. Energy is better spent starting than planning the perfect approach."
+    source: "JC-THA:Lesson09"
+    confidence: 1.0
+    domain: ["productivity", "behavior-change"]
+
+  - id: "MM-JC-006"
+    title: "Social Default"
+    content: "We imitate the habits of three groups: The close (family/friends), The many (the tribe), The powerful (status holders). When changing habits, align with a group where the desired behavior is the default."
+    source: "JC-THA:Lesson35"
+    confidence: 1.0
+    domain: ["psychology", "behavior-change"]
+
+  - id: "MM-JC-007"
+    title: "Acute vs Chronic Stress"
+    content: "Animals in nature face acute stress (predator → run → safe). Humans in modern environments face chronic stress (career → retirement → decades of uncertainty). Feedback loops resolve acute stress; delayed returns create chronic stress."
+    source: "JC-THA:Lesson25"
+    confidence: 1.0
+    domain: ["psychology"]
+
+  - id: "MM-JC-008"
+    title: "Task-Positive vs Default Network"
+    content: "Your brain has two modes: Task-Positive Network (focused, engaged in activity) and Default Mode Network (mind-wandering, ruminating). Rumination on delayed outcomes creates anxiety. Starting a habit activates the task-positive network, reducing anxiety."
+    source: "JC-THA:Lesson26"
+    confidence: 1.0
+    domain: ["psychology", "productivity"]
+
+  - id: "MM-JC-009"
+    title: "Goldilocks Zone of Motivation"
+    content: "Maximum motivation occurs when working on challenges of just manageable difficulty — not too easy (boring), not too hard (overwhelming). About 4% beyond current ability is the sweet spot."
+    source: "JC-THA:Lesson11"
+    confidence: 1.0
+    domain: ["performance", "psychology"]
+
+  - id: "MM-JC-010"
+    title: "The Breakthrough Moment"
+    content: "Success is not linear — it's exponential with a long flat period. Like ice melting at 32°F after heating from 25°F, all the energy is being stored. The breakthrough seems sudden but it's the result of all the work that preceded it."
+    source: "JC-THA:Lesson12"
+    confidence: 1.0
+    domain: ["performance", "personal-development"]
+
+  - id: "MM-JC-011"
+    title: "Friction as Design Tool"
+    content: "Every reduction in friction makes a behavior more likely. Every increase in friction makes it less likely. You can design your entire life around friction: reduce it for good habits, increase it for bad ones."
+    source: "JC-THA:Lesson16"
+    confidence: 1.0
+    domain: ["behavior-change", "productivity"]
+
+  - id: "MM-JC-012"
+    title: "Hot Triggers vs Cold Triggers"
+    content: "Hot triggers appear when you can act on them immediately (alarm goes off → get up). Cold triggers require future action (book on shelf → read later). Hot triggers drive action; cold triggers get forgotten. Design your habits around hot triggers."
+    source: "JC-THA:Lesson06"
+    confidence: 1.0
+    domain: ["habit-formation", "behavior-change"]
+
+  - id: "MM-JC-013"
+    title: "Scope vs Schedule"
+    content: "When you miss a habit, reduce the scope but stick to the schedule. It's better to do a 5-minute workout than skip entirely. Maintaining the schedule preserves the identity; changing scope is just adaptation."
+    source: "JC-THA:Lesson33"
+    confidence: 1.0
+    domain: ["habit-formation", "performance"]
+
+  - id: "MM-JC-014"
+    title: "Pointing and Calling"
+    content: "Japanese railway system technique: physically point at each signal and call out its status. Making unconscious processes conscious dramatically reduces errors. Apply to habits: verbalize what you're about to do to bring awareness."
+    source: "JC-THA:Lesson39"
+    confidence: 1.0
+    domain: ["psychology", "behavior-change"]
+
+  - id: "MM-JC-015"
+    title: "Keystone Habits"
+    content: "Some habits trigger a cascade of other good behaviors. Exercise often leads to better eating, better sleep, more productivity. Identify and focus on your keystone habit — the one that creates a positive domino effect."
+    source: "JC-THA:Lesson24"
+    confidence: 1.0
+    domain: ["habit-formation", "personal-development"]
+
+  - id: "MM-JC-016"
+    title: "The Chemistry of Habits"
+    content: "Habits are driven by neurochemistry. Dopamine drives craving and anticipation, not just reward. The anticipation of reward is often more pleasurable than the reward itself. Use temptation bundling to link habits to dopamine-rich activities."
+    source: "JC-THA:Lesson37"
+    confidence: 1.0
+    domain: ["psychology", "habit-formation"]
+
+  - id: "MM-JC-017"
+    title: "Paper Clip Strategy"
+    content: "Visual progress tracking creates immediate satisfaction in a delayed-return world. Like moving paper clips from one jar to another for each sales call, visual measurement bridges the gap between immediate gratification and long-term goals."
+    source: "JC-THA:Lesson26"
+    confidence: 1.0
+    domain: ["performance", "productivity"]
+
+  - id: "MM-JC-018"
+    title: "Automaticity Threshold"
+    content: "After enough repetitions, habits become automatic — the behavior requires less conscious thought and willpower. The goal is to push past the automaticity threshold where the habit runs on autopilot."
+    source: "JC-THA:Lesson17"
+    confidence: 1.0
+    domain: ["habit-formation", "psychology"]
+
+  - id: "MM-JC-019"
+    title: "Self-Fulfilling Prophecy of Identity"
+    content: "The labels you give yourself shape the habits you maintain. If you believe 'I'm not a morning person,' you'll never build morning habits. Change the label first: 'I'm becoming a morning person.' Each action is evidence for the new identity."
+    source: "JC-THA:Lesson23"
+    confidence: 1.0
+    domain: ["psychology", "personal-development"]
+
+  - id: "MM-JC-020"
+    title: "Division Approach"
+    content: "Instead of trying to eliminate a bad habit entirely, divide it into progressively better versions. Smoking 20/day → 15/day → 10/day → 5/day → 0. Each division is a manageable improvement that builds momentum."
+    source: "JC-THA:Lesson32"
+    confidence: 1.0
+    domain: ["behavior-change", "habit-formation"]
+
+  # --- NEW FROM ATOMIC HABITS (Book) ---
+
+  - id: "MM-JC-021"
+    title: "Three Layers of Behavior Change"
+    content: "Change occurs at three levels like layers of an onion: (1) Outcomes — what you get (results), (2) Processes — what you do (habits/systems), (3) Identity — what you believe (worldview/self-image). Most people start with outcomes. Start with identity instead."
+    source: "JC-AH:Ch02:p28"
+    confidence: 1.0
+    domain: ["behavior-change", "identity-change"]
+
+  - id: "MM-JC-022"
+    title: "The Diderot Effect"
+    content: "Obtaining a new possession often creates a spiral of consumption that leads to additional purchases. One behavior leads to the next. This applies to habits too: each action becomes a cue that triggers the next behavior. Use this for good via habit stacking."
+    source: "JC-AH:Ch05:p61"
+    confidence: 1.0
+    domain: ["behavior-change", "psychology"]
+
+  - id: "MM-JC-023"
+    title: "Decisive Moments"
+    content: "Every day, there are a handful of moments that deliver outsized impact — choosing between takeout or cooking, gym or couch, homework or video games. These decisive moments set the options available to your future self. Master these and you master your day."
+    source: "JC-AH:Ch13:p128"
+    confidence: 1.0
+    domain: ["habit-formation", "productivity"]
+
+  - id: "MM-JC-024"
+    title: "Wanting vs Liking"
+    content: "The brain has far more neural circuitry for wanting rewards than for liking them. 100% of the nucleus accumbens is activated during wanting; only 10% during liking. It is the anticipation of a reward — not the fulfillment of it — that gets us to take action."
+    source: "JC-AH:Ch08:p88-89"
+    confidence: 1.0
+    domain: ["psychology", "behavior-change"]
+
+  - id: "MM-JC-025"
+    title: "Habits + Deliberate Practice = Mastery"
+    content: "Habits are necessary but not sufficient for mastery. The upside of habits is doing things without thinking. The downside is you stop paying attention to errors. Mastery requires layering automatic habits with deliberate practice on the next frontier."
+    source: "JC-AH:Ch20:p184"
+    confidence: 1.0
+    domain: ["mastery", "performance"]
+
+  - id: "MM-JC-026"
+    title: "Goodhart's Law Applied to Habits"
+    content: "When a measure becomes a target, it ceases to be a good measure. We optimize for what we measure. When we choose the wrong measurement, we get the wrong behavior. Just because you can measure something doesn't mean it's the most important thing."
+    source: "JC-AH:Ch16:p157"
+    confidence: 1.0
+    domain: ["performance", "productivity"]
+
+  - id: "MM-JC-027"
+    title: "Commitment Device"
+    content: "A choice you make in the present that controls your actions in the future. Victor Hugo locked away his clothes to force himself to write. Nir Eyal uses an outlet timer to cut internet at 10pm. Make good habits inevitable and bad habits impossible."
+    source: "JC-AH:Ch14:p135"
+    confidence: 1.0
+    domain: ["behavior-change", "habit-formation"]
+
+  - id: "MM-JC-028"
+    title: "The Big Five Personality → Habit Alignment"
+    content: "Build habits that work with your personality (Openness, Conscientiousness, Extroversion, Agreeableness, Neuroticism). People high in agreeableness might build thank-you note habits naturally. Those low in conscientiousness need more environmental structure."
+    source: "JC-AH:Ch18:p170"
+    confidence: 1.0
+    domain: ["psychology", "personal-development"]
+
+  - id: "MM-JC-029"
+    title: "Addition by Subtraction"
+    content: "Japanese lean production sought to remove waste from every step. When we remove points of friction that sap time and energy, we achieve more with less effort. Sometimes the best optimization is elimination."
+    source: "JC-AH:Ch12:p122"
+    confidence: 1.0
+    domain: ["productivity", "behavior-change"]
+
+  - id: "MM-JC-030"
+    title: "Variable Reward and Boredom"
+    content: "Variable rewards amplify cravings because they reduce boredom. The sweet spot of desire is a 50/50 split between success and failure. But not all habits need variable rewards — some need reliability. The key is knowing which is which."
+    source: "JC-AH:Ch19:p180"
+    confidence: 1.0
+    domain: ["psychology", "performance"]
+
+# ============================================================================
+# L3: HEURISTICS (Practical Rules & Decision Shortcuts)
+# ============================================================================
+heuristics:
+  - id: "HEUR-JC-001"
+    title: "The Two-Minute Rule"
+    content: "When you start a new habit, it should take less than two minutes to do. 'Read before bed' becomes 'Read one page.' 'Do yoga' becomes 'Take out my yoga mat.' Scale down until the habit is trivially easy to start."
+    source: "JC-THA:Lesson09"
+    confidence: 1.0
+    domain: ["habit-formation"]
+    type: "quantitative"
+    threshold: "2 minutes"
+
+  - id: "HEUR-JC-002"
+    title: "Never Miss Twice"
+    content: "If you miss one day, get back on track immediately. Never miss twice in a row. Missing once is an accident; missing twice is the beginning of a new (bad) habit."
+    source: "JC-THA:Lesson29"
+    confidence: 1.0
+    domain: ["habit-formation", "performance"]
+    type: "quantitative"
+    threshold: "max 1 miss"
+
+  - id: "HEUR-JC-003"
+    title: "Set Upper Bounds"
+    content: "Don't just set a minimum for your habit — set a maximum too. Instead of 'at least 30 min of exercise,' try 'between 30-60 min.' Upper bounds prevent burnout and make habits sustainable."
+    source: "JC-THA:Lesson10"
+    confidence: 1.0
+    domain: ["habit-formation"]
+    type: "qualitative"
+
+  - id: "HEUR-JC-004"
+    title: "Habit Stacking Formula"
+    content: "After/Before [CURRENT HABIT], I will [NEW HABIT]. Link new behaviors to existing ones. The current habit becomes the cue for the new one."
+    source: "JC-THA:Lesson07"
+    confidence: 1.0
+    domain: ["habit-formation"]
+    type: "qualitative"
+
+  - id: "HEUR-JC-005"
+    title: "Implementation Intention Formula"
+    content: "I will [BEHAVIOR] on [DAY] at [TIME] in [LOCATION]. People who fill in these four variables are 2-3x more likely to follow through than those who don't."
+    source: "JC-THA:Lesson08"
+    confidence: 1.0
+    domain: ["habit-formation", "productivity"]
+    type: "quantitative"
+    threshold: "2-3x improvement"
+
+  - id: "HEUR-JC-006"
+    title: "If/Then Planning"
+    content: "Write at least 5 If/Then statements for your habit. 'If I miss my morning workout, then I'll do 10 pushups at lunch.' Contingency planning prevents total failure."
+    source: "JC-THA:Lesson29"
+    confidence: 1.0
+    domain: ["habit-formation"]
+    type: "quantitative"
+    threshold: "minimum 5 statements"
+
+  - id: "HEUR-JC-007"
+    title: "66 Days Average for Habit Formation"
+    content: "Research by Philippa Lally found it takes an average of 66 days for a new behavior to become automatic. Not 21 days. Range: 18 to 254 days depending on complexity."
+    source: "JC-THA:Lesson04"
+    confidence: 1.0
+    domain: ["habit-formation", "psychology"]
+    type: "quantitative"
+    threshold: "66 days average (18-254 range)"
+
+  - id: "HEUR-JC-008"
+    title: "Hot Trigger Placement"
+    content: "Place the trigger for your habit in a location where you will see it at the moment you need to act. Medication next to toothbrush. Gym clothes by the bed. Guitar in the middle of the room."
+    source: "JC-THA:Lesson06"
+    confidence: 1.0
+    domain: ["habit-formation", "behavior-change"]
+    type: "qualitative"
+
+  - id: "HEUR-JC-009"
+    title: "Reduce Steps to Good Habits"
+    content: "Count the number of steps between you and your desired behavior. Then eliminate as many as possible. Fewer steps = higher likelihood of execution."
+    source: "JC-THA:Lesson15"
+    confidence: 1.0
+    domain: ["behavior-change"]
+    type: "qualitative"
+
+  - id: "HEUR-JC-010"
+    title: "Increase Steps to Bad Habits"
+    content: "Add friction to bad habits. Move the TV remote to another room. Delete social media from phone (keep on desktop only). Unplug the TV after each use. More steps = lower likelihood."
+    source: "JC-THA:Lesson15"
+    confidence: 1.0
+    domain: ["behavior-change"]
+    type: "qualitative"
+
+  - id: "HEUR-JC-011"
+    title: "Don't Break the Chain"
+    content: "Use a visual calendar. Mark an X for every day you perform your habit. Your only job is to not break the chain. The visual streak creates its own motivation."
+    source: "JC-THA:Lesson28"
+    confidence: 1.0
+    domain: ["habit-formation", "performance"]
+    type: "qualitative"
+
+  - id: "HEUR-JC-012"
+    title: "Root Cause Analysis for Bad Habits"
+    content: "For one week, carry notecards. Every time you do the bad habit, record: Who you were with, What you were doing, When it happened, Where you were. Patterns will emerge."
+    source: "JC-THA:Lesson31"
+    confidence: 1.0
+    domain: ["behavior-change", "psychology"]
+    type: "quantitative"
+    threshold: "1 week tracking"
+
+  - id: "HEUR-JC-013"
+    title: "Three Divisions for Bad Habits"
+    content: "Break a bad habit into 3 progressive divisions. Division 1: Incredibly easy to keep. Division 2: Slight improvement. Division 3: Another step forward. Gradual reduction beats cold turkey."
+    source: "JC-THA:Lesson32"
+    confidence: 1.0
+    domain: ["behavior-change"]
+    type: "quantitative"
+    threshold: "3 divisions"
+
+  - id: "HEUR-JC-014"
+    title: "4% Beyond Current Ability"
+    content: "Peak motivation occurs when working on tasks approximately 4% beyond your current ability. Too easy = boredom. Too hard = anxiety. The Goldilocks zone maintains engagement."
+    source: "JC-THA:Lesson11"
+    confidence: 1.0
+    domain: ["performance", "psychology"]
+    type: "quantitative"
+    threshold: "4% beyond ability"
+
+  - id: "HEUR-JC-015"
+    title: "10 Hot Triggers Per Habit"
+    content: "List 10 examples of how you can place reminders and hot triggers throughout your normal day that prompt the habit you want to build."
+    source: "JC-THA:Lesson17"
+    confidence: 1.0
+    domain: ["habit-formation"]
+    type: "quantitative"
+    threshold: "10 triggers"
+
+  - id: "HEUR-JC-016"
+    title: "Anchor Task"
+    content: "Choose one task as your anchor — the task that, if completed, makes the rest of the day feel successful regardless of what else happens. Your anchor task is non-negotiable."
+    source: "JC-THA:Lesson07"
+    confidence: 1.0
+    domain: ["productivity", "habit-formation"]
+    type: "qualitative"
+
+  - id: "HEUR-JC-017"
+    title: "Reduce Scope, Stick to Schedule"
+    content: "When life gets in the way, reduce the scope of the habit but maintain the schedule. A 5-minute meditation is better than no meditation. The schedule is sacred; the scope is flexible."
+    source: "JC-THA:Lesson33"
+    confidence: 1.0
+    domain: ["habit-formation", "performance"]
+    type: "qualitative"
+
+  - id: "HEUR-JC-018"
+    title: "Three Approaches to Same Habit"
+    content: "The Overlap Principle: develop at least 3 different ways to do the same habit. If running is impossible (injury), have cycling and swimming as backups. Redundancy creates resilience."
+    source: "JC-THA:Lesson40"
+    confidence: 1.0
+    domain: ["habit-formation"]
+    type: "quantitative"
+    threshold: "minimum 3 approaches"
+
+  - id: "HEUR-JC-019"
+    title: "Checklist for Error Reduction"
+    content: "Michigan hospital ICU checklists cut infection rates by 60%, saved $75M and 1,500 lives in 18 months. Simple feedback loops (checklists) create massive outcomes. Apply to habits: make a checklist."
+    source: "JC-THA:Lesson27"
+    confidence: 1.0
+    domain: ["performance", "productivity"]
+    type: "quantitative"
+    threshold: "60% error reduction"
+
+  - id: "HEUR-JC-020"
+    title: "Visual Measurement Bridges Delayed Returns"
+    content: "In a delayed-return environment, visual tracking (paper clips, calendar X's, progress bars) creates immediate satisfaction. The visual proof of progress becomes its own reward."
+    source: "JC-THA:Lesson26"
+    confidence: 1.0
+    domain: ["performance", "habit-formation"]
+    type: "qualitative"
+
+  - id: "HEUR-JC-021"
+    title: "Pair Habits with Existing Triggers"
+    content: "The most effective cues are events that already happen: waking up, meals, commute, arriving at work. Pair new habits with these reliable anchor points."
+    source: "JC-THA:Lesson07"
+    confidence: 1.0
+    domain: ["habit-formation"]
+    type: "qualitative"
+
+  - id: "HEUR-JC-022"
+    title: "Environment Audit"
+    content: "Walk through your space and identify what each item triggers. The couch triggers Netflix. The phone triggers scrolling. Redesign the space so visible items trigger desired behaviors."
+    source: "JC-THA:Lesson14"
+    confidence: 1.0
+    domain: ["behavior-change"]
+    type: "qualitative"
+
+  - id: "HEUR-JC-023"
+    title: "One Space, One Use"
+    content: "Dedicate each space to a single purpose. The desk is for work only. The bed is for sleep only. When contexts mix, habits get muddled. Clarity of space = clarity of behavior."
+    source: "JC-THA:Lesson18"
+    confidence: 1.0
+    domain: ["behavior-change", "productivity"]
+    type: "qualitative"
+
+  - id: "HEUR-JC-024"
+    title: "Rank and Master Sequentially"
+    content: "List all habits you want to build. Rank them by importance. Focus on #1 until it's automatic. Then move to #2. Sequential mastery beats parallel attempts."
+    source: "JC-THA:Lesson36"
+    confidence: 1.0
+    domain: ["habit-formation", "productivity"]
+    type: "qualitative"
+
+  - id: "HEUR-JC-025"
+    title: "Question the Exception"
+    content: "When you catch yourself making an exception ('just this once'), ask: Is this truly a one-time thing, or am I building a justification loop? If you can't answer honestly, don't make the exception."
+    source: "JC-THA:Lesson38"
+    confidence: 1.0
+    domain: ["behavior-change", "psychology"]
+    type: "qualitative"
+
+  - id: "HEUR-JC-026"
+    title: "Habit Scorecard"
+    content: "List every habit in your daily routine. Mark each as positive (+), negative (-), or neutral (=). This creates awareness before any change attempt. You can't change what you don't measure."
+    source: "JC-THA:Lesson05"
+    confidence: 1.0
+    domain: ["habit-formation", "behavior-change"]
+    type: "qualitative"
+
+  - id: "HEUR-JC-027"
+    title: "Genetic Alignment Test"
+    content: "When struggling with a habit, ask: Is this an environmental battle or a genetic battle? If genetic (e.g., 5'6\" trying to play pro basketball), redirect energy to where your genetics work with you, not against you."
+    source: "JC-THA:Lesson19"
+    confidence: 1.0
+    domain: ["personal-development", "psychology"]
+    type: "qualitative"
+
+  - id: "HEUR-JC-028"
+    title: "Identity Question"
+    content: "For any goal, ask: 'Who is the type of person that could achieve this?' Then focus on casting votes for that identity through small actions."
+    source: "JC-THA:Lesson22"
+    confidence: 1.0
+    domain: ["personal-development", "habit-formation"]
+    type: "qualitative"
+
+  - id: "HEUR-JC-029"
+    title: "Constraints List"
+    content: "List all constraints preventing your habit. Then find 3 ways to simplify the habit given those constraints. Constraints aren't barriers — they're design parameters."
+    source: "JC-THA:Lesson37"
+    confidence: 1.0
+    domain: ["productivity", "habit-formation"]
+    type: "quantitative"
+    threshold: "3 simplifications"
+
+  - id: "HEUR-JC-030"
+    title: "Temptation Bundling"
+    content: "Link an action you WANT to do with an action you NEED to do. Only listen to podcasts while exercising. Only watch Netflix while on the treadmill. Bundle pleasure with productive habits."
+    source: "JC-THA:Lesson37"
+    confidence: 1.0
+    domain: ["habit-formation", "behavior-change"]
+    type: "qualitative"
+
+  # --- NEW FROM ATOMIC HABITS (Book) ---
+
+  - id: "HEUR-JC-031"
+    title: "The 1% Compound Math"
+    content: "1% better every day for one year: 1.01^365 = 37.78. 1% worse every day for one year: 0.99^365 = 0.03. Small daily improvements compound to remarkable results; small daily declines compound to near-zero."
+    source: "JC-AH:Ch01:p17"
+    confidence: 1.0
+    domain: ["habit-formation", "performance"]
+    type: "quantitative"
+    threshold: "1.01^365 = 37.78x improvement"
+
+  - id: "HEUR-JC-032"
+    title: "Airplane Heading Analogy"
+    content: "If a pilot leaving LAX adjusts the heading just 3.5 degrees south, you land in Washington DC instead of New York. A slight change in daily habits can guide your life to a very different destination."
+    source: "JC-AH:Ch01:p18"
+    confidence: 1.0
+    domain: ["habit-formation"]
+    type: "quantitative"
+    threshold: "3.5 degrees = hundreds of miles"
+
+  - id: "HEUR-JC-033"
+    title: "91% vs 35% Implementation Intention"
+    content: "In the British exercise study, 91% of the group that wrote implementation intentions exercised at least once per week, versus 35-38% of control/motivation groups. Writing when/where you'll act more than doubles follow-through."
+    source: "JC-AH:Ch05:p59"
+    confidence: 1.0
+    domain: ["habit-formation"]
+    type: "quantitative"
+    threshold: "91% vs 35% adherence"
+
+  - id: "HEUR-JC-034"
+    title: "Pointing-and-Calling Error Reduction"
+    content: "The Japanese railway Pointing-and-Calling system reduces errors by up to 85% and cuts accidents by 30%. NYC subway's point-only version reduced incorrectly berthed subways by 57% within two years."
+    source: "JC-AH:Ch04:p54"
+    confidence: 1.0
+    domain: ["performance", "psychology"]
+    type: "quantitative"
+    threshold: "85% error reduction, 30% accident reduction"
+
+  - id: "HEUR-JC-035"
+    title: "Habit Stacking + Temptation Bundling Combo"
+    content: "Combine both: (1) After [CURRENT HABIT], I will [HABIT I NEED]. (2) After [HABIT I NEED], I will [HABIT I WANT]. Example: After lunch break, call 3 clients (need). After 3 calls, check ESPN (want)."
+    source: "JC-AH:Ch08:p91"
+    confidence: 1.0
+    domain: ["habit-formation", "behavior-change"]
+    type: "qualitative"
+
+  - id: "HEUR-JC-036"
+    title: "Habit Shaping Phases"
+    content: "Scale habits progressively through phases. Becoming an Early Riser: Phase 1: Home by 10pm → Phase 2: Devices off by 10pm → Phase 3: In bed by 10pm → Phase 4: Lights off by 10pm → Phase 5: Wake at 6am."
+    source: "JC-AH:Ch13:p131-132"
+    confidence: 1.0
+    domain: ["habit-formation"]
+    type: "qualitative"
+
+  - id: "HEUR-JC-037"
+    title: "The Habit Contract"
+    content: "Write a verbal or written agreement stating your commitment and the punishment for failure. Get 1-2 accountability partners to sign. Example: Bryan Harris lost weight by committing to pay $200 and dress up for work if he missed logging food."
+    source: "JC-AH:Ch17:p162"
+    confidence: 1.0
+    domain: ["behavior-change", "habit-formation"]
+    type: "qualitative"
+
+  - id: "HEUR-JC-038"
+    title: "Annual Review Questions"
+    content: "Three questions for annual review: (1) What went well this year? (2) What didn't go so well this year? (3) What did I learn? Separately, Integrity Report: (1) What are my core values? (2) How am I living with integrity? (3) How can I set a higher standard?"
+    source: "JC-AH:Ch20:p188-189"
+    confidence: 1.0
+    domain: ["personal-development", "mastery"]
+    type: "qualitative"
+
+  - id: "HEUR-JC-039"
+    title: "Career Best Effort (CBE) System"
+    content: "Pat Riley's Lakers system: track each player's performance metrics, divide by minutes played, ask for 1% improvement over the season. Compare month-over-month and year-over-year. Result: back-to-back NBA championships."
+    source: "JC-AH:Ch20:p186-187"
+    confidence: 1.0
+    domain: ["performance", "mastery"]
+    type: "quantitative"
+    threshold: "1% improvement per season"
+
+  - id: "HEUR-JC-040"
+    title: "Lost Days Hurt More Than Successful Days Help"
+    content: "Start with $100. A 50% gain takes you to $150. But only a 33% loss takes you back to $100. Avoiding a 33% loss is as valuable as achieving a 50% gain. As Charlie Munger says: 'The first rule of compounding: Never interrupt it unnecessarily.'"
+    source: "JC-AH:Ch16:p156"
+    confidence: 1.0
+    domain: ["performance", "habit-formation"]
+    type: "quantitative"
+    threshold: "33% loss = 50% gain in value"
+
+  - id: "HEUR-JC-041"
+    title: "Reset the Room"
+    content: "When you finish using a space, reset it to its optimal state. After watching TV: remote on stand, pillows arranged, blanket folded. The purpose is not to clean up after the last action, but to prepare for the next action. Proactive laziness."
+    source: "JC-AH:Ch12:p123"
+    confidence: 1.0
+    domain: ["behavior-change", "productivity"]
+    type: "qualitative"
+
+  - id: "HEUR-JC-042"
+    title: "Habit Stacking + Habit Tracking Combo"
+    content: "After [CURRENT HABIT], I will [TRACK MY HABIT]. After I hang up a sales call, move one paper clip. After I finish a gym set, record it in my journal. After putting plate in dishwasher, write down what I ate."
+    source: "JC-AH:Ch16:p154"
+    confidence: 1.0
+    domain: ["habit-formation", "performance"]
+    type: "qualitative"
+
+# ============================================================================
+# L4: FRAMEWORKS (Structured Methodologies & Processes)
+# ============================================================================
+frameworks:
+  - id: "FW-JC-001"
+    title: "The Three A's of Building New Behaviors"
+    content: |
+      Three qualities every habit needs:
+      1. ACHIEVABLE — Make it easy enough to actually do (2-minute rule)
+      2. APPEALING — Make it attractive enough to want to do (temptation bundling)
+      3. ACTIVATED — Set up triggers so you remember to do it (hot triggers, habit stacking)
+      If any of the three is missing, the habit will fail.
+    source: "JC-THA:Lesson05"
+    confidence: 1.0
+    domain: ["habit-formation"]
+
+  - id: "FW-JC-002"
+    title: "Environment Design Framework"
+    content: |
+      Two-directional environment design:
+      POSITIVE HABITS: Reduce steps/friction between you and the behavior
+      NEGATIVE HABITS: Increase steps/friction between you and the behavior
+
+      Process:
+      1. Audit current environment (what does each visible item trigger?)
+      2. Remove cues for bad habits (out of sight, out of mind)
+      3. Add cues for good habits (make them visible and accessible)
+      4. Separate spaces by function (one space, one use)
+      5. Review and adjust weekly
+    source: "JC-THA:Lesson14,15,16,18"
+    confidence: 1.0
+    domain: ["behavior-change"]
+
+  - id: "FW-JC-003"
+    title: "Don't Break the Chain System"
+    content: |
+      Habit tracking system (Seinfeld Method):
+      1. Get a visual calendar (wall calendar, app, etc.)
+      2. Define ONE habit to track
+      3. Each day you complete the habit, mark an X
+      4. Your only job: don't break the chain
+      5. If you break it: apply Never Miss Twice rule
+      6. Measure backward (count total X's, not remaining days)
+
+      Power: Creates immediate visual feedback in delayed-return world
+    source: "JC-THA:Lesson28"
+    confidence: 1.0
+    domain: ["habit-formation", "performance"]
+
+  - id: "FW-JC-004"
+    title: "Keystone Habits Identification Framework"
+    content: |
+      Find the habit that creates positive cascading effects:
+      1. Journal: What do I do on my BEST days?
+      2. Find commonalities across best days
+      3. Identify the one habit that appears most frequently
+      4. Test: Does doing this habit make other good behaviors easier?
+      5. If yes → This is your keystone habit → Make it your #1 priority
+
+      Examples: Exercise → better eating + sleep + focus
+               Morning routine → productive day
+    source: "JC-THA:Lesson24"
+    confidence: 1.0
+    domain: ["habit-formation", "personal-development"]
+
+  - id: "FW-JC-005"
+    title: "Habit Stacking Protocol"
+    content: |
+      Build new habits on top of existing ones:
+
+      Formula: "After/Before [CURRENT HABIT], I will [NEW HABIT]"
+
+      Steps:
+      1. List all current habits you do daily (wake up, brush teeth, coffee, etc.)
+      2. List all habits you want to start
+      3. Match new habits to appropriate anchor points
+      4. Fill in the formula for each pair
+      5. Start with just ONE stack
+      6. Add more stacks only after the first is automatic
+
+      Example: "After I pour my morning coffee, I will meditate for 2 minutes"
+    source: "JC-THA:Lesson07"
+    confidence: 1.0
+    domain: ["habit-formation"]
+
+  - id: "FW-JC-006"
+    title: "Bad Habit Root Cause Analysis"
+    content: |
+      Week-long observation protocol:
+      1. Carry index cards for one week
+      2. Every time bad habit occurs, record:
+         - WHO: Who were you with?
+         - WHAT: What were you doing just before?
+         - WHEN: What time was it?
+         - WHERE: Where were you?
+      3. After one week, look for patterns
+      4. Identify the primary trigger (usually environment or emotion)
+      5. Design intervention at the trigger point, not the behavior
+    source: "JC-THA:Lesson31"
+    confidence: 1.0
+    domain: ["behavior-change"]
+
+  - id: "FW-JC-007"
+    title: "Progressive Overload for Habit Breaking"
+    content: |
+      Three-Division approach to break bad habits:
+      1. DIVISION 1: Incredibly easy rule (e.g., "I won't smoke before noon")
+      2. DIVISION 2: Slight improvement (e.g., "I won't smoke before 3pm")
+      3. DIVISION 3: Another step (e.g., "I won't smoke before 6pm")
+
+      Rules:
+      - Each division must be maintainable before advancing
+      - Never skip divisions
+      - If you slip back, return to previous division (not start)
+      - Celebrate each division as a win
+    source: "JC-THA:Lesson32"
+    confidence: 1.0
+    domain: ["behavior-change"]
+
+  - id: "FW-JC-008"
+    title: "Feedback Loop Design"
+    content: |
+      Build measurement systems that bridge immediate/delayed gap:
+      1. MEASURE: Track the behavior (not the outcome)
+      2. INFORM: Make the measurement visible (charts, calendars, jars)
+      3. TRIGGER: Let the measurement prompt the next action
+
+      Examples:
+      - Paper clip strategy (move clip per completed call)
+      - Don't Break the Chain calendar
+      - GlowCap medication lid (visual + text reminders)
+      - Weekly review of habit tracker
+    source: "JC-THA:Lesson26,27"
+    confidence: 1.0
+    domain: ["performance", "productivity"]
+
+  - id: "FW-JC-009"
+    title: "Identity-Based Habit Change"
+    content: |
+      Three layers of behavior change (outside-in):
+      1. OUTCOMES: What you get (lose weight, publish a book)
+      2. PROCESSES: What you do (gym routine, writing schedule)
+      3. IDENTITY: What you believe (I am a healthy person, I am a writer)
+
+      Most people start with outcomes. Start with identity instead:
+      Step 1: Decide who you want to be
+      Step 2: Prove it with small wins
+      Each action is a vote for your new identity
+    source: "JC-THA:Lesson22,23"
+    confidence: 1.0
+    domain: ["personal-development", "behavior-change"]
+
+  - id: "FW-JC-010"
+    title: "The Overlap Principle"
+    content: |
+      Build resilience through redundancy:
+      1. Choose your target habit (e.g., "exercise daily")
+      2. Develop 3+ different approaches:
+         - Approach A: Go to gym (primary)
+         - Approach B: Run outdoors (backup)
+         - Approach C: Bodyweight at home (failsafe)
+      3. If Approach A is blocked, switch to B or C
+      4. The habit never breaks because you always have alternatives
+
+      Key: The habit is the commitment, not the specific method
+    source: "JC-THA:Lesson40"
+    confidence: 1.0
+    domain: ["habit-formation", "performance"]
+
+  - id: "FW-JC-011"
+    title: "If/Then Contingency Framework"
+    content: |
+      Pre-plan responses to obstacles:
+      Write minimum 5 If/Then statements:
+      - If [OBSTACLE], then [ALTERNATIVE BEHAVIOR]
+
+      Examples:
+      - If I miss my morning run, then I'll walk at lunch
+      - If the gym is closed, then I'll do pushups at home
+      - If I feel too tired, then I'll do just 5 minutes
+      - If I'm traveling, then I'll use hotel gym or run outside
+      - If I get injured, then I'll do upper body only
+
+      Writing these in advance removes decision fatigue in the moment
+    source: "JC-THA:Lesson29"
+    confidence: 1.0
+    domain: ["habit-formation"]
+
+  - id: "FW-JC-012"
+    title: "All-or-Nothing Escape Framework"
+    content: |
+      Combat perfectionist thinking that derails habits:
+      1. RECOGNIZE: "I missed one day, might as well give up" = all-or-nothing trap
+      2. REDUCE SCOPE: What's the smallest version I can still do?
+      3. STICK TO SCHEDULE: The date with the habit is non-negotiable
+      4. SEPARATE IDENTITY FROM PERFORMANCE: One bad day doesn't erase your identity
+      5. NEVER MISS TWICE: The recovery IS the habit
+
+      "Bad workouts count more than no workouts"
+    source: "JC-THA:Lesson33"
+    confidence: 1.0
+    domain: ["habit-formation", "personal-development"]
+
+  - id: "FW-JC-013"
+    title: "Habit Overhaul Plan"
+    content: |
+      5-step plan from Lesson 5 to overhaul any habit:
+      1. Choose ONE habit to focus on for the entire program
+      2. Make it ACHIEVABLE: Apply 2-minute rule
+      3. Make it APPEALING: Add temptation bundling or reward
+      4. Make it ACTIVATED: Set up hot triggers and habit stacks
+      5. Track and iterate: Use visual feedback systems
+
+      Duration: Focus on this single habit for 30-66 days minimum
+    source: "JC-THA:Lesson05"
+    confidence: 1.0
+    domain: ["habit-formation"]
+
+  - id: "FW-JC-014"
+    title: "Self-Awareness Protocol"
+    content: |
+      Increase awareness of unconscious habits:
+      1. HABIT SCORECARD: List every daily behavior, mark +/-/=
+      2. POINTING AND CALLING: Verbalize actions before doing them
+      3. JOURNALING: End of day, review what you did and why
+      4. ENVIRONMENT AUDIT: Map what triggers what in your space
+      5. WEEKLY REVIEW: What worked? What didn't? What to adjust?
+
+      "Until you make the unconscious conscious, it will direct your life and you will call it fate"
+    source: "JC-THA:Lesson39"
+    confidence: 1.0
+    domain: ["behavior-change", "personal-development"]
+
+  - id: "FW-JC-015"
+    title: "Motivation Maintenance System"
+    content: |
+      How to stay motivated long-term:
+      1. VARIABLE REWARD: Introduce small unpredictable rewards
+      2. GOLDILOCKS ZONE: Keep challenges at 4% above current level
+      3. VISUAL PROGRESS: Track streaks and milestones
+      4. SOCIAL ACCOUNTABILITY: Join a group where the behavior is normal
+      5. IDENTITY REINFORCEMENT: Regularly remind yourself who you're becoming
+      6. NEVER MISS TWICE: The streak survives one miss, not two
+    source: "JC-THA:Lesson11,28,35"
+    confidence: 1.0
+    domain: ["performance", "psychology"]
+
+  # --- NEW FROM ATOMIC HABITS (Book) ---
+
+  - id: "FW-JC-016"
+    title: "The Four Laws of Behavior Change — Complete Cheat Sheet"
+    content: |
+      HOW TO CREATE A GOOD HABIT:
+      1st Law (Cue): Make it obvious
+        1.1 Fill out Habits Scorecard
+        1.2 Implementation intentions: "I will [X] at [TIME] in [LOCATION]"
+        1.3 Habit stacking: "After [CURRENT], I will [NEW]"
+        1.4 Design environment — make cues visible
+      2nd Law (Craving): Make it attractive
+        2.1 Temptation bundling — pair want with need
+        2.2 Join culture where behavior is normal
+        2.3 Motivation ritual before difficult habits
+      3rd Law (Response): Make it easy
+        3.1 Reduce friction — fewer steps to good habits
+        3.2 Prime environment for next action
+        3.3 Master decisive moments
+        3.4 Two-Minute Rule — downscale to 2 min
+        3.5 Automate with technology and one-time purchases
+      4th Law (Reward): Make it satisfying
+        4.1 Immediate reward after completing habit
+        4.2 Make "doing nothing" enjoyable when avoiding bad habits
+        4.3 Habit tracker — don't break the chain
+        4.4 Never miss twice
+
+      HOW TO BREAK A BAD HABIT (Inversions):
+        1.5 Make it invisible — remove cues
+        2.4 Make it unattractive — reframe benefits
+        3.6 Make it difficult — increase friction
+        3.7 Commitment device — restrict future choices
+        4.5 Accountability partner
+        4.6 Habit contract — public and painful costs
+    source: "JC-AH:Ch03+Ch17:p47-48,p164-165"
+    confidence: 1.0
+    domain: ["habit-formation", "behavior-change"]
+
+  - id: "FW-JC-017"
+    title: "Onetime Actions That Lock In Good Habits"
+    content: |
+      NUTRITION: Buy water filter, use smaller plates
+      SLEEP: Buy good mattress, get blackout curtains, remove TV from bedroom
+      PRODUCTIVITY: Unsubscribe from emails, turn off notifications, set phone to silent, email filters
+      HAPPINESS: Get a dog, move to social neighborhood
+      HEALTH: Get vaccinated, buy good shoes, supportive chair/standing desk
+      FINANCE: Automatic savings plan, automatic bill pay, cut cable
+
+      These are investments that pay dividends forever. One decision, permanent improvement.
+    source: "JC-AH:Ch14:p137"
+    confidence: 1.0
+    domain: ["behavior-change", "productivity"]
+
+  - id: "FW-JC-018"
+    title: "Reflection and Review System"
+    content: |
+      TWO MODES OF REVIEW:
+      1. ANNUAL REVIEW (December):
+         - Tally habits for the year (articles, workouts, places)
+         - Answer: What went well? What didn't? What did I learn?
+
+      2. INTEGRITY REPORT (June):
+         - Revisit core values
+         - Answer: What are my core values? How am I living with integrity? How can I set a higher standard?
+
+      PURPOSE: Prevent gradual slide, remain conscious of performance,
+      revisit desired identity, course-correct when necessary.
+      "The mirror at a conversational distance" — not too close, not too far.
+    source: "JC-AH:Ch20:p188-189"
+    confidence: 1.0
+    domain: ["personal-development", "mastery"]
+
+# ============================================================================
+# L5: METHODOLOGIES (Step-by-Step Implementations)
+# ============================================================================
+methodologies:
+  - id: "MET-JC-001"
+    title: "The Complete Habit Building Methodology"
+    content: |
+      PHASE 1: AWARENESS (Week 1)
+      - Complete Habit Scorecard (list all current habits)
+      - Mark each as +, -, or =
+      - Choose ONE habit to build
+      - Answer: "Who is the type of person who does this?"
+
+      PHASE 2: DESIGN (Week 1-2)
+      - Apply 2-Minute Rule: Scale down to trivially easy version
+      - Write Implementation Intention: "I will [X] on [DAY] at [TIME] in [PLACE]"
+      - Create Habit Stack: "After [CURRENT], I will [NEW]"
+      - Design Environment: Remove bad cues, add good cues
+      - Place 10 Hot Triggers throughout your day
+      - Set Upper and Lower Bounds for the habit
+
+      PHASE 3: EXECUTE (Weeks 2-10)
+      - Start with 2-minute version only
+      - Track with Don't Break the Chain calendar
+      - Apply Never Miss Twice rule
+      - Write 5 If/Then contingency plans
+      - Do weekly review: What worked? Adjust what didn't
+
+      PHASE 4: EXPAND (Weeks 10+)
+      - Gradually increase scope (not schedule)
+      - Stay in Goldilocks Zone (4% harder)
+      - Add Overlap approaches (3 ways to do same habit)
+      - Join a group where habit is normal
+      - Identity is now established: you ARE this person
+    source: "JC-THA:Full Course"
+    confidence: 1.0
+    domain: ["habit-formation"]
+
+  - id: "MET-JC-002"
+    title: "The Bad Habit Elimination Methodology"
+    content: |
+      STEP 1: AWARENESS (1 week)
+      - Carry index cards
+      - Every time bad habit occurs, record WHO/WHAT/WHEN/WHERE
+      - End of week: identify primary trigger pattern
+
+      STEP 2: INVERSION (Design)
+      - Make it INVISIBLE: Remove cues from environment
+      - Make it UNATTRACTIVE: Reframe the cost (what does this habit actually cost you?)
+      - Make it DIFFICULT: Add friction (more steps between you and the behavior)
+      - Make it UNSATISFYING: Add accountability partner or consequence
+
+      STEP 3: DIVISION (Execution)
+      - Define 3 progressive divisions for reduction
+      - Master Division 1 before moving to Division 2
+      - If slip: return to previous division (not to zero)
+
+      STEP 4: REPLACEMENT (Substitution)
+      - Identify the underlying need the bad habit fulfills
+      - Find a healthier behavior that meets the same need
+      - Apply Habit Stacking to link replacement behavior to the old trigger
+
+      STEP 5: MAINTENANCE
+      - Apply Never Miss Twice to the replacement habit
+      - Question every exception before making it
+      - Review weekly: Am I rationalizing?
+    source: "JC-THA:Lessons30-33,38"
+    confidence: 1.0
+    domain: ["behavior-change"]
+
+  - id: "MET-JC-003"
+    title: "Environment Redesign Methodology"
+    content: |
+      AUDIT:
+      1. Walk through each room/space you use daily
+      2. For each visible item, ask: "What behavior does this trigger?"
+      3. List all positive, negative, and neutral triggers
+
+      REDESIGN:
+      4. Remove/hide items that trigger bad habits
+      5. Place items that trigger good habits in visible locations
+      6. Apply "One Space, One Use" where possible
+      7. Create a dedicated space for your target habit
+
+      OPTIMIZE:
+      8. Count steps between you and good habits — minimize
+      9. Count steps between you and bad habits — maximize
+      10. Set up hot triggers at decision points
+
+      MAINTAIN:
+      11. Reset environment each evening (prepare for tomorrow)
+      12. Weekly audit: Any new negative triggers crept in?
+      13. Adjust as habits evolve
+    source: "JC-THA:Lessons13-18"
+    confidence: 1.0
+    domain: ["behavior-change"]
+
+  - id: "MET-JC-004"
+    title: "Feedback Loop Implementation Methodology"
+    content: |
+      STEP 1: Choose your measurement
+      - Must measure BEHAVIOR (not outcome)
+      - Must be instantaneous (not delayed)
+      - Must be visual (paper clips, calendar, progress bar)
+
+      STEP 2: Set up the system
+      - Physical tracking (Don't Break the Chain calendar on wall)
+      - Digital backup (app if physical not possible)
+      - Place tracker where you'll see it daily
+
+      STEP 3: Establish the ritual
+      - Track immediately after completing the behavior
+      - Never postpone tracking to "later"
+      - Make tracking part of the habit (the final step)
+
+      STEP 4: Review and adjust
+      - Weekly: Look at the visual record
+      - Monthly: Count total completions (measure backward)
+      - Quarterly: Assess if habit is becoming automatic
+      - If automatic: Consider adding next habit
+    source: "JC-THA:Lessons26-28"
+    confidence: 1.0
+    domain: ["performance"]
+
+  - id: "MET-JC-005"
+    title: "Identity-Based Change Methodology"
+    content: |
+      STEP 1: Define your desired identity
+      - Not "I want to lose weight" but "I am a healthy person"
+      - Not "I want to write a book" but "I am a writer"
+      - Ask: "Who is the type of person that could achieve this?"
+
+      STEP 2: Cast small votes
+      - Every action is a vote for your identity
+      - Write one sentence → vote for "I am a writer"
+      - Do one pushup → vote for "I am an active person"
+      - You don't need a majority, just enough votes to shift
+
+      STEP 3: Reinforce through language
+      - Shift "I have to" to "I get to"
+      - When offered something against your identity: "No thanks, I'm not a smoker" (not "I'm trying to quit")
+      - Labels stick: use them intentionally
+
+      STEP 4: Build evidence
+      - Track your votes visually
+      - Review evidence regularly
+      - Each repetition strengthens the identity
+      - Eventually the habit IS you, not something you DO
+    source: "JC-THA:Lessons21-23"
+    confidence: 1.0
+    domain: ["personal-development"]
+
+# ============================================================================
+# SUMMARY
+# ============================================================================
+summary:
+  total_philosophies: 31
+  total_mental_models: 30
+  total_heuristics: 42
+  total_frameworks: 18
+  total_methodologies: 5
+  grand_total: 126
+  sources_count: 2
+  sources:
+    - "JC-THA: The Habits Academy (40 lessons) — 95 elements"
+    - "JC-AH: Atomic Habits (256 pages) — 31 new elements"
+  primary_domains:
+    - habit-formation
+    - behavior-change
+    - psychology
+    - performance
+    - personal-development
+    - productivity
+    - identity-change
+    - mastery

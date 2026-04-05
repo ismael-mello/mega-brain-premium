@@ -1,0 +1,118 @@
+# Extracao: transcription_pdf_04-TERESA_MM_-_M03_-_L03_-_P05_-_Event_Logistics_1
+
+- **Fonte:** transcription_pdf_04-TERESA_MM_-_M03_-_L03_-_P05_-_Event_Logistics_1.txt
+- **Tipo:** TXT
+- **Tamanho:** 0.01 MB
+
+---
+
+This transcript was exported on Apr 05, 2019 - view latest version here.
+TC1054924706
+Transcript by Rev.com
+Page 1 of 3
+Speaker 1: In this video, I'm going to be talking about event logistics and just some of the planning
+details to create the perfect event. To begin planning for your event, you'll be booking
+multiple vendors to do various services. In this video, I'm just going to be going over a
+few options, some tips and tricks when sourcing them and choosing, and booking, or
+ordering these items.
+When planning your event you'll want to decide what items you'll be providing your
+attendees. This will include if you're going to be providing certain meals like breakfast,
+lunch, snacks, mixers, or dinners, and any beverages as well. If you choose to do your
+event at your office or at a space that's not tied to a catering restriction, then you can
+begin getting quotes from multiple caterers or restaurants in the area that can
+accommodate your event and your attendees.
+A quick tip here, you'll want to make sure that not only can your caterer feed your guest
+but also be flexible with any serious food allergies or restrictions that your guests have.
+This can really put a damper for one of your attendees or guests at the event if they're
+not able to eat lunch with everybody or network in something just because of a food
+restriction.
+Another tip on here is to just be transparent. If you have two caterers that have similar
+services, but their pricing seem to be different, don't be afraid to say that you've
+received a better quote elsewhere and ask them why you should choose them over the
+other. Sometimes you might learn something about a caterer or a service that you didn't
+know, and it might sway your opinion a little bit to either purchase the higher package
+that might have a better service attached to it or go with a lower one because you know
+and you value that company. Also, just like the venue that you search, if you're planning
+to have a recurring event, make sure that you tell them. A lot of services and companies
+love recurring customers and clients. You can potentially get an event package deal for
+multiple dates.
+When booking your caterer just keep in mind any gratuities that need to be paid either
+during or after the event. This may be something that's built into the catering contract,
+or you might need to tip out of hand or at the event afterwards. Don't forget to think
+through some of the small details of your even too. Some common items that can be
+missed include dinnerware, cutlery, drinkware, serving utensils and napkins, servicing
+busing, and some clean up. The last thing you want is an attendee distracted from your
+speaker just because they still have spilled food or drink in front of them and at their
+place.
+In providing snacks and beverages to your attendees, check on if the venue can maintain
+the station. Usually, they'll be placed at the back side walls of the event and available
+during the entire event. If you are in a venue or a hotel that's providing this, you can
+source your snacks and beverages through your local grocery or make it easy on you and
+your team by ordering all of these items online and having it delivered directly to the
+space. Typically, we provide a wide variety of beverages, but the key basics are tea,
+coffee, water, and some form of an iced tea. Another quick tip on this is to just keep
+your brand and your style in mind when choosing these items. For example, with all of
+www.getwsodo.com	www.getwsodo.com
+
+-- 1 of 3 --
+
+This transcript was exported on Apr 05, 2019 - view latest version here.
+TC1054924706
+Transcript by Rev.com
+Page 2 of 3
+Dean's events, we reflect what he would choose to eat and drink, which is promoting a
+healthy eating lifestyle with all gluten-free, low in sugar and high-protein based items. If
+your company or brand also reflects anything health conscious, be sure to keep that in
+mind when you're providing items to your attendees.
+In the process of planning your event, you'll need to discuss with your team and the
+expert what AV needs you'll have. If the venue can handle providing all of the items that
+you need, and you already have them, then that's great. If you don't have this already,
+you can easily do a Google search in your area for an audio/visual company that has the
+items that you need. Again, get a quote from at least two of these companies, so you
+can understand the industry pricing before fully committing. When thinking through the
+AV needs keep in mind that the event set up as well is something that they may be able
+to provide. If you'll need a stage, a backdrop, or items at the front of the room such as a
+projector, a screen, laser pointer, mirror display, lighting, cameras, mics, I could go on
+and on about this, but just do your research with them and see what items they can
+provide for you.
+If the event is in-house, you'll want to be sure someone is taking care of the event
+housekeeping. This can either be done by someone on your team or sourced through a
+local vendor. These responsibilities include bathroom refresh, beverage and snack
+restocking, table busing, and so on. Keep in mind if you have a multiple-day event at a
+location without a cleaning service. You may want them to clean in the evening between
+event times. If you're planning to do this event again and have someone taking photos
+to promote, you won't want dirty dishes, or trash on the table, or in the background of
+your photos that you're going to be using to market to sell this event later.
+Another logistic of your event will be the layout. Typically, we design our mastermind in
+a U shape formation. This provides a more intimate setting for the attendees to see
+each other, communicate, and share ideas without having to shift in their seat. Along
+with the U shape, you can also assign seats to your attendees using place cards or simply
+printed table [inaudible]. Through this, you can control further your attendees'
+experience by placing them next to like-minded individuals or similarities that may
+directly reflect their review of the event. At the back of the room, you'll place a table for
+staff and event materials. You'll also want to think through any meal spaces you'll need
+for your attendees, whether they will eat in a different room at separate tables, or
+simply at their event seat.
+When it comes to ordering the materials for your event we'll provide you with a list of
+items that we typically use including pens, lanyards, badge holders, journals, bonding
+books, and gifts, place cards, and table templates, and binders, and covers, or any rental
+items that you might need including tables and chairs that you can bring into your own
+space. With a lot of these items, if you can order them in bulk from a reputable
+company like 4imprint or a larger scale distributor in the US, you can get them for a
+cheaper price. Otherwise, all or most of these items can be found at your local Office
+Max or Office Depot, or you can get them customized from a local printer as well. Just
+do your research. Find something that really is going to reflect what you would like. If
+www.getwsodo.com	www.getwsodo.com
+
+-- 2 of 3 --
+
+This transcript was exported on Apr 05, 2019 - view latest version here.
+TC1054924706
+Transcript by Rev.com
+Page 3 of 3
+you have any questions, just be sure to ask away in the private Facebook group, and
+myself, or someone on our team will be more than happy to help.
+www.getwsodo.com	www.getwsodo.com
+
+-- 3 of 3 --
+

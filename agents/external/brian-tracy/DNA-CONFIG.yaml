@@ -1,0 +1,52 @@
+---
+# DNA-CONFIG — Brian Tracy
+# Versão: 1.0.0
+# Data: 2026-04-04
+
+tipo: SOLO
+pessoa: brian-tracy
+nome_completo: "Brian Tracy"
+peso: 1.0
+
+dna_path: "knowledge/external/dna/persons/brian-tracy/DNA.yaml"
+sources_path: "knowledge/external/sources/brian-tracy/"
+
+raiz: "inbox/Brian Tracy/"
+
+dominios:
+  vendas: 0.85
+  business: 0.70
+  mindset: 0.65
+  performance: 0.55
+  lideranca: 0.40
+
+dna_sources:
+  - id: "21CST"
+    titulo: "21st Century Sales Training"
+    tipo: "COURSE"
+    modulos: 15
+    peso: 0.60
+    raiz: "inbox/Brian Tracy/Brian Tracy - 21st Century Sales Training/"
+    materiais_fonte:
+      - "14 módulos (FLV + PDF transcriptions)"
+      - "Bonus: 24 Effective Techniques for Closing the Sale (8 FLV)"
+
+  - id: "TBM"
+    titulo: "Total Business Mastery"
+    tipo: "SEMINAR"
+    dias: 3
+    peso: 0.40
+    raiz: "inbox/Brian Tracy/Brian Tracy - Total Business Mastery/"
+    materiais_fonte:
+      - "6 DVDs (Day 1-3, Disk 1-2)"
+      - "1 Workbook PDF (148KB)"
+
+estatisticas:
+  total_elementos: 85
+  filosofias: 20
+  modelos_mentais: 15
+  heuristicas: 25
+  frameworks: 15
+  metodologias: 10
+  versao_dna: "1.0.0"
+  data_geracao: "2026-04-04"

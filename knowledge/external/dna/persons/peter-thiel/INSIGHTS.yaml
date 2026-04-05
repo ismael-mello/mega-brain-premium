@@ -1,0 +1,286 @@
+# INSIGHTS — Peter Thiel
+# Fonte: Zero to One (2014)
+# Versao: 1.0.0
+# Total: 25 insights
+# Extraido: 2026-04-04
+
+pessoa: peter-thiel
+versao: "1.0.0"
+total_insights: 25
+fonte_principal: PT-ZTO
+
+insights:
+
+  - id: INS-PT-001
+    texto: >
+      A pergunta mais importante em negocios nao e 'como melhorar o que existe?' mas sim
+      'que verdade importante quase ninguem concorda comigo?' — porque respostas a essa
+      pergunta revelam segredos que podem fundamentar empresas monopolistas. A maioria das
+      pessoas evita pensar em segredos por medo de estar errada, preguica intelectual, ou
+      conformismo social.
+    dna_refs: [FIL-PT-006, MM-PT-006, MET-PT-001]
+    fonte: PT-ZTO
+    contexto: "Capitulo 1 e 8 — pergunta que abre o livro e tese central sobre segredos"
+
+  - id: INS-PT-002
+    texto: >
+      Competicao e a ideologia dominante da sociedade moderna, mas e destrutiva para
+      negocios. Capitalismo e competicao sao opostos: sob competicao perfeita, lucros vao
+      a zero. Empresas devem buscar monopolio, nao competicao. A guerra por rivais consome
+      recursos que deveriam ir para inovacao — Thiel cita sua propria experiencia competindo
+      com Elon Musk no PayPal antes de perceberem que fundir era melhor que competir.
+    dna_refs: [FIL-PT-002, MM-PT-004, MM-PT-010]
+    fonte: PT-ZTO
+    contexto: "Capitulos 3 e 4 — analise de competicao vs monopolio e caso PayPal vs X.com"
+
+  - id: INS-PT-003
+    texto: >
+      A power law governa retornos de investimento e de negocios. O melhor investimento de
+      um fundo de VC supera TODOS os outros combinados. Isso implica que diversificacao
+      excessiva e lutar contra a matematica do universo. Aplica-se nao apenas a investimentos,
+      mas a carreira, mercados, e decisoes estrategicas: foque intensamente no que pode ser
+      exponencialmente melhor.
+    dna_refs: [FIL-PT-010, MM-PT-003]
+    fonte: PT-ZTO
+    contexto: "Capitulo 7 — Follow the Money — analise de retornos de VC e power law"
+
+  - id: INS-PT-004
+    texto: >
+      Tecnologia proprietaria precisa ser 10x melhor que o substituto mais proximo para
+      criar vantagem monopolistica real. Melhorias incrementais (20-50%) nao sao percebidas
+      como diferentes pelos clientes. A maneira mais facil de ser 10x melhor e criar algo
+      completamente novo — o salto de 0 para algo e infinitamente melhor que de algo para
+      algo marginalmente melhor.
+    dna_refs: [HEUR-PT-001, FW-PT-002, FIL-PT-001]
+    fonte: PT-ZTO
+    contexto: "Capitulo 5 — criterio quantitativo para vantagem tecnologica"
+
+  - id: INS-PT-005
+    texto: >
+      O erro mais comum de startups e mirar em mercados grandes demais. O mercado ideal para
+      comecar e minusculo — um grupo concentrado de pessoas servidas por poucos ou nenhum
+      concorrente. Amazon comecou com livros, PayPal com PowerSellers do eBay, Facebook com
+      Harvard. Depois de dominar o nicho, escale para adjacentes. Nunca comece tentando
+      dominar um mercado grande.
+    dna_refs: [HEUR-PT-002, FW-PT-005, MET-PT-005]
+    fonte: PT-ZTO
+    contexto: "Capitulo 5 — estrategia de entrada no mercado com exemplos de Amazon, PayPal, Facebook"
+
+  - id: INS-PT-006
+    texto: >
+      A zona morta de distribuicao ($1K-$10K por deal) mata mais startups do que produto
+      ruim. E muito caro para marketing de escala e muito barato para justificar equipe de
+      vendas dedicada. Se voce conseguir fazer UM canal de distribuicao funcionar, tem um
+      bom negocio. Se tentar varios sem dominar nenhum, esta acabado. Distribuicao fraca
+      e a causa mais comum de fracasso.
+    dna_refs: [FW-PT-003, HEUR-PT-007, HEUR-PT-015, FIL-PT-009]
+    fonte: PT-ZTO
+    contexto: "Capitulo 11 — continuo de distribuicao e dead zone"
+
+  - id: INS-PT-007
+    texto: >
+      O otimismo indefinido domina a America moderna: todos esperam que o futuro seja melhor,
+      mas ninguem planeja como. Finanças substituiram engenharia como profissao de prestigio.
+      Banqueiros rearranjam capital, nao criam coisas. Advogados resolvem disputas, nao
+      constroem. Apenas o otimismo definido — ter um plano especifico e executa-lo — cria
+      progresso real. Voce nao e um bilhete de loteria.
+    dna_refs: [FIL-PT-003, FIL-PT-004, MM-PT-002, FW-PT-004]
+    fonte: PT-ZTO
+    contexto: "Capitulo 6 — critica ao otimismo indefinido e defesa do planejamento"
+
+  - id: INS-PT-008
+    texto: >
+      Uma startup estragada na fundacao nao pode ser consertada (Thiel's Law). Escolher
+      o co-fundador errado e como um casamento ruim: divorcio e terrivel. Decisoes sobre
+      equity, board, responsabilidades e estrutura sao quase impossiveis de mudar depois. O
+      inicio e como o Big Bang — as regras sao estabelecidas e se cristalizam. Fundadores
+      devem acertar o fundamental desde o primeiro dia.
+    dna_refs: [FIL-PT-013, HEUR-PT-004, FW-PT-006]
+    fonte: PT-ZTO
+    contexto: "Capitulo 9 — analogia do Big Bang para fundacao de empresas"
+
+  - id: INS-PT-009
+    texto: >
+      Equity ensina pessoas a CRIAR valor; cash ensina a EXTRAIR valor. CEO de startup com
+      salario alto ($300K+) se torna politico — defende status quo. CEO com salario baixo
+      ($150K max) tem skin in the game e busca crescimento. Mantenha detalhes de alocacao
+      de equity em segredo — transparencia total neste assunto destroi equipes com
+      ressentimento.
+    dna_refs: [HEUR-PT-003, HEUR-PT-012, HEUR-PT-013]
+    fonte: PT-ZTO
+    contexto: "Capitulo 9 — compensacao e alinhamento de incentivos"
+
+  - id: INS-PT-010
+    texto: >
+      Os melhores vendedores sao invisiveis. A melhor venda nao parece venda. Nerds
+      subestimam distribuicao porque a consideram superficial, mas essa e exatamente a
+      razao pela qual tantas empresas de tecnologia falham. Se um CEO de tech aparece de
+      terno, provavelmente nao entende de tecnologia e esta compensando com aparencias.
+      A maestria em vendas esta em parecer natural.
+    dna_refs: [FIL-PT-009, HEUR-PT-005, HEUR-PT-015]
+    fonte: PT-ZTO
+    contexto: "Capitulo 11 — vendas escondidas e preconceito contra distribuicao"
+
+  - id: INS-PT-011
+    texto: >
+      Computadores e humanos sao fundamentalmente complementares, nao substitutos. As
+      empresas mais valiosas do futuro perguntarao 'como computadores podem AJUDAR humanos?'
+      nao 'como substituir humanos por computadores?' O Palantir exemplifica: software
+      sinaliza padroes, humanos julgam e decidem. LinkedIn: algoritmos sugerem, humanos
+      avaliam. O hibrido supera qualquer abordagem pura.
+    dna_refs: [FIL-PT-008, FW-PT-007, MET-PT-004]
+    fonte: PT-ZTO
+    contexto: "Capitulo 12 — tese de complementaridade homem-maquina"
+
+  - id: INS-PT-012
+    texto: >
+      A PayPal pagou $20/signup e $20/referral para crescimento viral. Resultado: 7% de
+      crescimento diario, base dobrando a cada 10 dias. A chave foi mirar no nicho de maior
+      velocidade (PowerSellers do eBay) onde o produto era imediatamente util E visivel para
+      outros potenciais usuarios. Crescimento viral pago funciona quando voce pode projetar
+      o breakeven de LTV vs CAC.
+    dna_refs: [HEUR-PT-006, MET-PT-003, HEUR-PT-014]
+    fonte: PT-ZTO
+    contexto: "Capitulo 11 — caso PayPal como exemplo de distribuicao viral paga"
+
+  - id: INS-PT-013
+    texto: >
+      Tesla respondeu todas as 7 perguntas criticas corretamente — unica empresa de energia
+      limpa a fazer isso. Comecou com Roadster ($109K) num nicho minusculo de carros
+      esportivos eletricos de luxo, depois escalou para Model S, Model X. Controlou
+      distribuicao com lojas proprias. A liccao: responda TODAS as 7 perguntas, nao apenas
+      uma ou duas. Empresas de energia limpa que falharam erraram em multiplas.
+    dna_refs: [FW-PT-001, MET-PT-002, FW-PT-005]
+    fonte: PT-ZTO
+    contexto: "Capitulo 13 — Tesla como unico 7-for-7 vs dezenas de empresas cleantech falidas"
+
+  - id: INS-PT-014
+    texto: >
+      Cada funcionario deve ser responsavel por uma unica coisa, e cada tarefa deve ter um
+      unico dono. Thiel implementou isso na PayPal. A maioria dos conflitos internos vem de
+      colegas competindo pelas mesmas responsabilidades. Papeis claros eliminam competicao
+      interna, aumentam ownership e facilitam avaliacao de performance sem ambiguidade.
+    dna_refs: [HEUR-PT-009, HEUR-PT-008]
+    fonte: PT-ZTO
+    contexto: "Capitulo 10 — gestao interna da PayPal e reducao de conflitos"
+
+  - id: INS-PT-015
+    texto: >
+      Fundadores encarnam paradoxos: insider/outsider, pobre/rico, heroi/vilao. A mesma
+      singularidade que os faz brilhar os torna alvos. A sociedade eleva fundadores a
+      status de celebridade e depois os destrói — Steve Jobs expulso da Apple, Elon Musk
+      ridicularizado pela midia. Este padrao e milenar (reis sacrificados) e nao depende
+      do merito do fundador. Fundadores devem estar cientes desta dinamica.
+    dna_refs: [FIL-PT-007, MM-PT-007, MM-PT-008]
+    fonte: PT-ZTO
+    contexto: "Capitulo 14 — analise dos fundadores como figuras mitologicas modernas"
+
+  - id: INS-PT-016
+    texto: >
+      Existem dois tipos de segredos: da natureza (como o mundo fisico funciona) e sobre
+      pessoas (o que escondem ou nao sabem sobre si). Segredos sobre pessoas sao mais faceis
+      de encontrar: pergunte com o que as pessoas nao concordam, que convencoes ninguem
+      questiona. Toda empresa valiosa que ninguem esta construindo e um segredo esperando
+      ser descoberto.
+    dna_refs: [FIL-PT-006, FIL-PT-011, MM-PT-005]
+    fonte: PT-ZTO
+    contexto: "Capitulo 8 — taxonomia de segredos e como encontra-los"
+
+  - id: INS-PT-017
+    texto: >
+      Monopolios tem quatro alavancas: tecnologia proprietaria, efeitos de rede, economias
+      de escala e branding. Branding e a mais perigosa — Apple tem marca forte PORQUE tem
+      produtos superiores, nao o contrario. Startups que tentam construir marca antes de ter
+      substancia falham (Marissa Mayer tentou recriar Apple no Yahoo — fracasso total).
+      Nenhuma empresa pode comecar com branding como estrategia.
+    dna_refs: [FW-PT-002, HEUR-PT-001]
+    fonte: PT-ZTO
+    contexto: "Capitulo 5 — analise das 4 caracteristicas de monopolio com caso Yahoo/Apple"
+
+  - id: INS-PT-018
+    texto: >
+      Ser o last mover importa mais do que ser o first mover. O objetivo nao e ser o primeiro
+      a entrar — e fazer o ultimo grande desenvolvimento e desfrutar de monopolio duradouro.
+      First mover advantage e uma tatica, nao objetivo. O que importa e gerar fluxos de caixa
+      no FUTURO. E muito melhor ser o produto definitivo de uma categoria do que ser o
+      primeiro que foi ultrapassado.
+    dna_refs: [MM-PT-009, FW-PT-005]
+    fonte: PT-ZTO
+    contexto: "Capitulo 5 — inversao do mito de first mover advantage"
+
+  - id: INS-PT-019
+    texto: >
+      Sem avancos tecnologicos, globalizacao sozinha e insustentavel. Se toda a China e India
+      replicassem o padrao de consumo americano sem nova tecnologia, seria catastrofico para
+      o planeta. Copiar praticas existentes (1 para n) nao resolve problemas fundamentais.
+      Apenas inovacao tecnologica (0 para 1) permite fazer mais com menos e sustentar
+      progresso real.
+    dna_refs: [FIL-PT-005, FIL-PT-001, MM-PT-001]
+    fonte: PT-ZTO
+    contexto: "Capitulo 1 — argumento para priorizar tecnologia sobre globalizacao"
+
+  - id: INS-PT-020
+    texto: >
+      Os quatro mandamentos contraintuitivos de Thiel: (1) e melhor arriscar ousadia que
+      trivialidade, (2) um plano ruim e melhor que nenhum plano, (3) mercados competitivos
+      destroem lucros, (4) receitas de vendas importam tanto quanto produto. Cada um desses
+      e o oposto da sabedoria convencional do mundo de startups que prega: incrementalismo,
+      lean/iteracao, mercados grandes, e 'o produto se vende sozinho'.
+    dna_refs: [FIL-PT-014, FIL-PT-009, FIL-PT-002, FIL-PT-003]
+    fonte: PT-ZTO
+    contexto: "Prefacio — as 4 teses centrais do livro vs sabedoria convencional"
+
+  - id: INS-PT-021
+    texto: >
+      A coisa mais contraria nao e se opor a multidao — e pensar por si mesmo. Oposicao
+      automatica ao mainstream e tao preguicosa quanto conformismo — e apenas inversao das
+      crencas populares, nao pensamento independente. A verdadeira independencia intelectual
+      pode ou nao concordar com a maioria, dependendo do caso.
+    dna_refs: [FIL-PT-015, MM-PT-006]
+    fonte: PT-ZTO
+    contexto: "Capitulo 1 — distincao entre contrarian verdadeiro e oposicionismo reativo"
+
+  - id: INS-PT-022
+    texto: >
+      A melhor razao para o 20o funcionario se juntar a uma startup nao sao perks ou salario
+      (corporacoes sempre vencem nessa guerra) — sao respostas sobre MISSAO e EQUIPE. 'Voce
+      trabalhara em um problema unico que ninguem mais esta resolvendo' e 'essas sao as
+      pessoas com quem voce quer trabalhar'. Nao entre na guerra de perks contra Google.
+      Ofereça o que nenhuma empresa grande pode: impacto insubstituivel.
+    dna_refs: [HEUR-PT-008, HEUR-PT-011]
+    fonte: PT-ZTO
+    contexto: "Capitulo 10 — recrutamento em startups e a 'PayPal Mafia' como exemplo"
+
+  - id: INS-PT-023
+    texto: >
+      Tres conceitos de controle empresarial — propriedade, posse e controle — devem estar
+      alinhados. Conflitos surgem quando o fundador (ownership) perde o controle para um
+      board que contrata um CEO externo (possession). Startups devem manter os tres o mais
+      proximos possivel — idealmente na mesma pessoa: fundador que e CEO, que tem equity
+      significativo e assento no board.
+    dna_refs: [FW-PT-006, FIL-PT-013, HEUR-PT-004]
+    fonte: PT-ZTO
+    contexto: "Capitulo 9 — framework de governanca e analogia com governo (DMV vs startups)"
+
+  - id: INS-PT-024
+    texto: >
+      Vendas complexas ($1M-$100M+ por deal) exigem que o CEO seja o vendedor principal e
+      crescimento de 50-100% ao ano ao longo de uma decada e considerado excelente. Nao ha
+      atalhos: nao se pode substituir relacionamento pessoal por marketing ou viralidade.
+      SpaceX e Palantir comecaram com 1-2 clientes e cresceram metodicamente. A paciencia
+      estrategica e essencial neste segmento.
+    dna_refs: [HEUR-PT-010, FW-PT-003]
+    fonte: PT-ZTO
+    contexto: "Capitulo 11 — vendas complexas com exemplos de SpaceX e Palantir"
+
+  - id: INS-PT-025
+    texto: >
+      A dominacao sequencial de mercados e a unica forma sustentavel de construir um monopolio
+      massivo. Amazon: livros → CDs → eletronicos → tudo. eBay: vendedores obsessivos de
+      Beanie Babies → todos os colecionadores → todo tipo de vendedor. A sequencia e sempre
+      a mesma: nicho minusculo → dominacao completa → adjacente → adjacente. E crucialmente:
+      nunca anuncie 'disruption' cedo demais — fique invisivel ate ser grande demais para
+      ser detido.
+    dna_refs: [MET-PT-005, FW-PT-005, HEUR-PT-002]
+    fonte: PT-ZTO
+    contexto: "Capitulo 5 — exemplos de Amazon, eBay e sequencia de expansao"

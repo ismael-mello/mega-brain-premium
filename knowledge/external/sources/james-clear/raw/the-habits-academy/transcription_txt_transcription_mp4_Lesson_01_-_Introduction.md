@@ -1,0 +1,9 @@
+# Extracao: transcription_mp4_Lesson_01_-_Introduction
+
+- **Fonte:** transcription_mp4_Lesson_01_-_Introduction.txt
+- **Tipo:** TXT
+- **Tamanho:** 0 MB
+
+---
+
+Hello and welcome to the course. As you probably guessed, I'm James Clear. Thank you so much for signing up. It's great to have you here. In this course, I've finally taken the writing and research that I've done for the last five years and synthesized it into one cohesive program that builds upon itself. My sincere hope is that you'll find this to be the best course that you've ever taken on how to build better habits and understand human behavior and performance. It's a bold statement, but I feel confident in the concepts that we're going to talk about. We'll discuss things like how habits form and the different forces that shape them. The things that underlie our psychology and neuroscience, as well as our habits and behaviors on a daily basis. And so as we get into the science, I'd like you to keep one thing in mind. This course builds on a logical progression, and it makes the most sense if we have one habit or behavior that we're thinking about throughout that course. And while I'm certainly confident that the ideas and concepts that we'll talk about can be applied to a variety of habits and behaviors, I think it's best if you keep coming back to the same one over and over again so you can see how these concepts layer upon one another and build into a powerful habit building program. Now, of course, if you'd like to build a second or third or fourth habit, you can always skim the lessons again or think about the concepts and how they apply to this additional behavior. But I do think it's best to have one core behavior front and center as you're thinking about the concepts and how they apply to your situation. So with that in mind, thank you so much for signing up. I'm excited to get started and I'll see you in the next lesson.

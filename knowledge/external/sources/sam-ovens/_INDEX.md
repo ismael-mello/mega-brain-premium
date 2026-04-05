@@ -1,14 +1,37 @@
 # SAM OVENS — Índice de Sources
 
-[[HOME|← Home]] | [[MOC-SOURCES|📚 Sources]] | [[MOC-PESSOAS|👤 Pessoas]]
-
-> **Fundador:** Setterlun University (anteriormente Consulting.com)
-> **Especialidade:** Ofertas, Posicionamento, Purple Ocean, Business Models
-> **Total de Sources:** 2 (+ 25 transcrições pendentes)
+> **Fundador:** Consulting.com / Setterlun University
+> **Especialidade:** Consulting, Sales, Facebook Ads, Mindset, Scaling, Offers, Purple Ocean
+> **Total de Sources:** 4 processadas (+ 25 Setterlun pendentes)
+> **Total DNA Elements:** 453
+> **Última atualização:** 2026-04-04
 
 ---
 
-## Arquivos Disponíveis
+## Fontes Processadas
+
+| ID | Título | Tipo | Elementos | Status |
+|----|--------|------|-----------|--------|
+| CA-2018 | Consulting Accelerator 2018 | Curso (57 aulas, 7 semanas + DM Bonus) | 432 | ✅ Processado |
+| SETTERLUN-OC | Offer Creation Module | Curso | ~7 | ✅ Processado |
+| SETTERLUN-PO | Purple Ocean Positioning | Curso | ~7 | ✅ Processado |
+| SETTERLUN-BD | Business Model Design | Curso | ~7 | ✅ Processado |
+
+### Consulting Accelerator 2018 — Breakdown
+
+| Semana | Tema | Aulas | Elementos | Raw Path |
+|--------|------|-------|-----------|----------|
+| Week 1 | Foundations & Niche | 7 | 43 | `raw/consulting-accelerator-2018/Week 1/` |
+| Week 2 | Mindset & Alchemy of Self | 7 | 63 | `raw/consulting-accelerator-2018/Week 2/` |
+| Week 3 | Sales & Conversion | 5 | 62 | `raw/consulting-accelerator-2018/Week 3/` |
+| Week 4 | Client Attraction | 7 | 46 | `raw/consulting-accelerator-2018/Week 4/` |
+| Week 5 | Facebook Ads Strategy | 13 | 107 | `raw/consulting-accelerator-2018/Week 5/` |
+| Week 6 | Service Delivery & Scale | 7 | 51 | `raw/consulting-accelerator-2018/Week 6/` |
+| Week 7 + DM | Uplevel + DM Bonus | 11 | 60 | `raw/consulting-accelerator-2018/Week 7/` + `DM Bonus/` |
+
+---
+
+## Arquivos Source Disponíveis
 
 | Arquivo | Tema | Densidade |
 |---------|------|-----------|
@@ -17,89 +40,51 @@
 
 ---
 
-## Fontes Originais
-
-### Processadas
-| ID | Título | Status |
-|----|--------|--------|
-| SO001 | The Offer Code (compilação) | ✅ Processado |
-| SO002 | Purple Ocean (compilação) | ✅ Processado |
-
-### Pendentes (25 arquivos em inbox)
-
-**BUSINESS-DNA (7 módulos):**
-| Módulo | Título |
-|--------|--------|
-| 2 | Understanding Business Archetypes |
-| 3 | Proximity to Proof |
-| 4 | Choosing the Right Client-Customer Model |
-| 5 | Offer Model Matching |
-| 6 | Monetization Frameworks |
-| 7 | Picking Your Model - The Decision Flow |
-| 8 | Final Considerations Resources |
-
-**OFFER-CODE (11 módulos):**
-| Módulo | Título |
-|--------|--------|
-| 1 | Start Here |
-| 2 | The DNA of a Winning Offer |
-| 3 | Setting the Scene |
-| 4 | Mapping the Gap |
-| 5 | Laying the Foundation |
-| 6 | Desired Outcomes |
-| 7 | Fighting the Troll |
-| 8 | Pricing Your Offer |
-| 9 | Outshining Other Bridges |
-| 10 | The Final Walk |
-| 11 | DFY Offer Generator Live |
-
-**PURPLE-OCEAN (7 módulos):**
-| Módulo | Título |
-|--------|--------|
-| 1 | Intro |
-| 2 | The Purple Ocean Method |
-| 3 | The Purple Ocean Formula |
-| 4 | The Pizza Strategy |
-| 5 | Pineapple On Pizza Explained |
-| 6 | 4-Step Framework |
-| 7 | Market Domination |
-
----
-
 ## Conceitos-Chave de Sam Ovens
 
-### Frameworks Principais
-- **Bridge Analogy** - Oferta = ponte do Current State ao Desired State
-- **Purple Ocean** - Red Ocean (validação) + Blue Ocean (diferenciação)
-- **Pizza Strategy** - Mesmo produto, linguagem diferente, percepção premium
-- **Outcome-Driven Offer** - Venda transformação, não atividade
-- **3 Modelos de Entrega** - DFY (maior preço), DWY (equilíbrio), DIY (maior escala)
+### Frameworks Principais (Top 10)
+1. **Bridge Analogy** — Oferta = ponte do Current State ao Desired State
+2. **Purple Ocean** — Red Ocean (validação) + Blue Ocean (diferenciação)
+3. **Alchemic Conversion Script** — 12-part one-call close methodology
+4. **Golden Mean Architecture** — 600 Facebook ad variations (5 angles × 4 images × 30 audiences)
+5. **Fragmentation Funnel** — Natural selection engine for client attraction
+6. **Alchemy of Self** — 7-step identity transformation process
+7. **Natural Law Equation** — C + PE^T = D (exponential compounding)
+8. **Consulting Equation** — Niche × Offer = Result
+9. **3 Business Archetypes** — DFY, DWY, DIY
+10. **Pizza Strategy** — Progressive tweaks from Red to Purple Ocean
 
 ### Filosofia Central
-> "Não seja diferente demais. Seja diferente o suficiente."
-> "Você não vende serviço. Vende resultado."
+> "Clients buy results, not services."
+> "The enemy is you."
+> "Truly masterful salesmen don't sell things. They sell futures."
+> "Prescription before diagnosis is malpractice."
+> "It doesn't matter what is true, only what you believe is true."
 
 ### Métricas-Chave
 - Margem target: 30-40% net profit
-- Sweet spot: DWY (Done With You) para escalar
+- Close rate baseline: 25% (strategy sessions)
+- Facebook ROI target: 100-200% (2:1 to 3:1)
+- Proof of concept: 3+ paying clients minimum
+- 3% rule: only 3% of market ready to buy at any time
+- Golden Mean: 5 angles × 4 images × 30 audiences = 600 variations
+- Garden of Eden: 4-day incubation, hands off
 
 ---
 
-## Próximos Passos
+## Pendentes (25 transcrições Setterlun)
 
-- [ ] Processar 25 transcrições via Pipeline Jarvis
-- [ ] Criar SOURCES: 06-FUNIL.md (Offer Code)
-- [ ] Criar SOURCES: 10-CULTURA.md (Business DNA)
-- [ ] Aumentar densidade dos SOURCES existentes
+- BUSINESS-DNA: 7 módulos
+- OFFER-CODE: 11 módulos
+- PURPLE-OCEAN: 7 módulos
 
 ---
 
 ## Links Relacionados
 
-- [Dossiê: Sam Ovens](../../dossiers/persons/DOSSIER-SAM-OVEN.md)
-- [Tema: Pricing e Ofertas](../../dossiers/THEMES/DOSSIER-07-PRICING.md)
+- [DNA: Sam Ovens](/knowledge/external/dna/persons/sam-ovens/DNA.yaml)
+- [Agent: Sam Ovens](/agents/external/sam-ovens/)
 
 ---
 
-*Última atualização: 2025-12-30*
-*Mega Brain System v3.33.0*
+*Última atualização: 2026-04-04 | Pipeline: JARVIS Full Auto (8 parallel agents)*

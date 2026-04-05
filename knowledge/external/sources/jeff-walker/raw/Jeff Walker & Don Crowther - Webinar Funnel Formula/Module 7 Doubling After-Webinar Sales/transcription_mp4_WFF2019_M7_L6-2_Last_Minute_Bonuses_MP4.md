@@ -1,0 +1,12 @@
+# Transcrição: WFF2019_M7_L6-2_Last_Minute_Bonuses_MP4
+
+- **Fonte:** WFF2019_M7_L6-2_Last_Minute_Bonuses_MP4
+- **Duração:** 02:43
+- **Idioma:** en
+- **Modelo:** small
+
+---
+
+## [00:00 - 02:43]
+
+Hi, this is Don Crowley with a video about adding last minute bonuses. So one of the best things you can do during the card open period is to add an additional bonus or hey, maybe even a couple as long as those bonuses are something that they really really want. Doing so gives you an additional viable reason to mail. So oftentimes people mail frequently during their card open period, especially just when their cart is just about ready to close, but there's not a lot of real reasons to have to mail that the recipient will say, oh, well, I can understand why they mailed me this time as opposed to just mail me a bunch of times reminding me to buy. But this is actually a viable reason to mail and it gets people who had said no to go back and reconsider, especially if they really really want that bonus and it pushes people who are on the fence to decide. So I've found the most success here in offering a whipped cream bonus. So what in the world is a whipped cream bonus? Well, I can drink hot chocolate without it, but whipped cream on the top, it seals the deal, especially when I see that the person in front of me just got it. I tend to change my order in order to be able to get that. That's what these bonuses are. So they're not something that's overcoming an objection. They're not something that you're just adding something. You're giving them something that is something on top of. This specifically designed to get them to change their order in order to be able to get it. So examples. Something that's not essential, but so nice that I just can't resist it. So this is a great time to add an extra time with you or maybe something done for them. Or maybe access to a killer program or a tool that they'll need to be able to have in order to be able to do what they're trying to do. For free. Keys here. First one, make it clear that everybody who's already purchased gets this one too. And as I said, this is probably not an overcoming objection bonus. The more desirable this bonus is, the more success you're going to have with it. This is probably offered just before, like the day before cart close, maybe two days before cart close, but it can be an incredibly powerful tool to kick your cells up at that particular point in time.

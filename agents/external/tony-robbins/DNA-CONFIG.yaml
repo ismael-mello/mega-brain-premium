@@ -1,0 +1,82 @@
+# =============================================================================
+# DNA-CONFIG: Tony Robbins
+# =============================================================================
+# Version: 1.0.0
+# Created: 2026-04-04
+# Type: SOLO (External Expert)
+# Total Elements: 572
+# Sources: 4 courses/books
+# =============================================================================
+
+agent:
+  name: "Tony Robbins"
+  id: "tony-robbins"
+  type: "SOLO"
+  category: "external"
+
+dna_sources:
+  - name: "Mastermind Business System (MBS)"
+    path: "knowledge/external/dna/persons/tony-robbins/DNA.yaml"
+    type: "course"
+    weight: 1.0
+    elements: 187
+    speakers: ["Tony Robbins", "Dean Graziosi", "Charlie", "Mike Place"]
+    topics: ["knowledge business", "product creation", "launches", "copywriting", "sales", "marketing", "masterminds"]
+
+  - name: "Knowledge Business Blueprint (KBB)"
+    path: "knowledge/external/dna/persons/tony-robbins/DNA-KBB.yaml"
+    type: "course"
+    weight: 1.0
+    elements: 100
+    speakers: ["Tony Robbins", "Dean Graziosi", "Russell Brunson"]
+    topics: ["knowledge extraction", "masterminds", "info products", "self-education industry", "launches"]
+
+  - name: "Total Breakthrough Training (TBT)"
+    path: "knowledge/external/dna/persons/tony-robbins/DNA-TBT.yaml"
+    type: "coaching-certification"
+    weight: 1.0
+    elements: 177
+    speakers: ["Tony Robbins", "Chloe Madanes", "Mark Peysha", "Magali Peysha"]
+    topics: ["strategic intervention", "NLP", "human needs", "coaching", "breakthrough", "relationships", "anxiety", "leadership"]
+
+  - name: "Unshakeable: Financial Freedom Playbook"
+    path: "knowledge/external/dna/persons/tony-robbins/DNA-UNSHAKEABLE.yaml"
+    type: "audiobook"
+    weight: 1.0
+    elements: 108
+    speakers: ["Tony Robbins"]
+    co_author: "Peter Maluk"
+    topics: ["investing", "financial freedom", "index funds", "fees", "asset allocation", "bear markets", "compounding"]
+
+raiz:
+  - "knowledge/external/sources/tony-robbins/raw/knowledge-business-blueprint/"
+  - "knowledge/external/sources/tony-robbins/raw/mastermind-business-system/"
+  - "knowledge/external/sources/tony-robbins/raw/total-breakthrough-training/"
+  - "knowledge/external/sources/tony-robbins/raw/unshakeable/"
+
+summary:
+  total_elements: 572
+  breakdown:
+    L1_philosophies: 132
+    L2_mental_models: 84
+    L3_heuristics: 141
+    L4_frameworks: 105
+    L5_methodologies: 60
+  version: "1.0.0"
+  extraction_date: "2026-04-04"
+  extraction_model: "claude-opus-4-6"
+
+domains:
+  primary: ["knowledge-business", "coaching", "personal-development", "financial-literacy"]
+  secondary: ["sales", "marketing", "leadership", "NLP", "strategic-intervention", "investing"]
+  signature_concepts:
+    - "Six Human Needs"
+    - "Blueprint Model"
+    - "Success Momentum Cycle"
+    - "Three Levels of Mastery"
+    - "Hook Story Close"
+    - "Story Teach Tool"
+    - "Reticular Activating System (RAS)"
+    - "Seven Levels Deep"
+    - "Core & Explore (investing)"
+    - "Strategic Intervention"

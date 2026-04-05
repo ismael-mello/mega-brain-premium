@@ -1,0 +1,16 @@
+# Transcrição: PLF_Stage5_M4_10_PrePrelaunch_Quickstart_Guide_MP4
+
+- **Fonte:** PLF_Stage5_M4_10_PrePrelaunch_Quickstart_Guide_MP4
+- **Duração:** 03:27
+- **Idioma:** en
+- **Modelo:** small
+
+---
+
+## [00:00 - 03:00]
+
+Okay, so the pre-pre-launch, this is your quick start guide. This is just a quick guide on what you want to think about with your pre-pre. The pre-pre-launch, as you see right here in this diagram, is what comes before your pre-launch, before your pre-launch content, before your three videos, or what a, you know, you don't have to do videos. I've expressed that over and over, but it comes before PLC one PLC two PLC three, your pre-pre-launch. It's what I call the shot across the bow, which is this old naval term, for a warning shot. If you want to let another ship know that you mean business, you fire a shot, but you shoot it in front of them, and that's what the pre-pre-launch is. It's just a sort of a way of letting your prospects, your market know that something is coming. I, you don't have to do the pre-pre, but I really like to do it because it's usually not involved, not complicated. It's often a single email, maybe it's a single email, and a survey, but it's just simple. It's easy, but it has some very effective things that I can do for you. And here's a list. It can warm your list, it almost always will serve that purpose. It helps you figure out some of the primary objections in your market. It helps you craft and refine your product and offer. This is most applicable if you have an information-based product, and you can easily tweak that, even as you go into your launch. But even if you have a physical widget, you're doing e-commerce, something like that, or you have an offer that's really locked in, you can often add things, tweak things, add information-based components to it, even as you're into your launch. And the pre-pre can help you refine what you want to offer. And also, my famous testimonial cruncher is part of this. This isn't something you have to do, but it's been very, very, very effective. And it just helps you judge the market, judge how interested they are. And this is a big one. It creates anticipation and buzz. Before you're even selling anything, before you're even in pre-launch. And it might even help you attract JV partners. This isn't a principal reason to do a pre-pre, but just sort of that shot across the aisle can tend to attract people. So in this quick start guide, we sort of walk through some of the basics for you. Definitely you should download this and check it out. It's just a great intro to it. And also, we give you this big checklist. Now, this is really, really, really important. You do not need to do all these things. In fact, you don't have to do a pre-pre, but you do not have to do all these things every time. I just wanted to give you a big list of things you
+
+## [03:00 - 03:27]
+
+could possibly do. So that's the checklist. So this is the pre-pre. Again, it doesn't have to be complicated. It shouldn't be complicated. It's something I really like to do. You don't have to do, but it can really, it gives you a lot of warm, fuzzy feelings going into your pre-launch. It can be super effective, and it's really easy to do. So this is your quick start guide. Definitely check it out. And I look forward to hearing what you do with it.

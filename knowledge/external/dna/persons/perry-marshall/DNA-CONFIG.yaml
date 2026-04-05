@@ -1,0 +1,120 @@
+# DNA-CONFIG — Perry Marshall
+# Version: 1.0.0
+# Created: 2026-04-05
+# Pipeline: JARVIS FULL (Opus)
+
+person:
+  name: "Perry Marshall"
+  slug: "perry-marshall"
+  expertise:
+    - "80/20 Principle (Power Laws) Applied to Business"
+    - "Google Ads / PPC Advertising"
+    - "Marketing Strategy & USP Development"
+    - "Productivity & Life Design"
+    - "Consulting & High-Ticket Positioning"
+    - "RFM Lead Scoring & Database Marketing"
+    - "Market Selection & Sizing"
+    - "Lean Startup / Execution Frameworks"
+  known_for:
+    - "Ultimate Guide to Google Ads (book, 5 editions)"
+    - "80/20 Sales and Marketing (book)"
+    - "80/20 Curve Tool (8020curve.com)"
+    - "Marketing DNA Test"
+    - "Rack the Shotgun concept"
+    - "Peel and Stick method for Google Ads"
+    - "Star Principle application"
+    - "Evolution 2.0 (biology/information theory)"
+
+dna_version: "v1.1.0"
+dna_elements_total: 339
+dna_layers:
+  philosophies: 90
+  mental_models: 65
+  heuristics: 114
+  frameworks: 47
+  methodologies: 25
+
+dna_sources:
+  - id: "PM-SRC-001"
+    name: "80/20 Masterclass 2024"
+    type: "COURSE"
+    files: 26
+    elements: 106
+    weight: 1.0
+    raiz: "knowledge/external/sources/perry-marshall/raw/80-20-masterclass-2024/"
+    speakers:
+      - "Perry Marshall (primary)"
+      - "John McGee (co-host)"
+
+  - id: "PM-SRC-002"
+    name: "Google Ads Mastery (with Mike Rhodes)"
+    type: "COURSE"
+    files: 13
+    elements: 100
+    weight: 1.0
+    raiz: "knowledge/external/sources/perry-marshall/raw/google-ads-mastery/"
+    speakers:
+      - "Perry Marshall (co-author)"
+      - "Mike Rhodes (primary instructor)"
+      - "Bryan Todd (co-author)"
+    includes_book: true
+    book_title: "Ultimate Guide to Google AdWords (2017)"
+
+  - id: "PM-SRC-003"
+    name: "New Renaissance Club"
+    type: "COURSE"
+    files: 21
+    elements: 108
+    weight: 1.0
+    raiz: "knowledge/external/sources/perry-marshall/raw/new-renaissance-club/"
+    speakers:
+      - "Perry Marshall (primary)"
+      - "Bryan Todd (Module 2)"
+      - "Jack Born (Module 3)"
+      - "Laura Marshall (interview)"
+      - "Cuyler Marshall (walkthrough)"
+
+  - id: "PM-SRC-004"
+    name: "Newsletter Archive"
+    type: "MIXED"
+    files: 426
+    elements: 25
+    weight: 0.5
+    raiz: "knowledge/external/sources/perry-marshall/raw/newsletter-archive/"
+    note: "426 files — interviews, tips, case studies. Many third-party speakers."
+
+dna_path: "knowledge/external/dna/persons/perry-marshall/"
+agent_path: "agents/external/perry-marshall/"
+source_path: "knowledge/external/sources/perry-marshall/"
+
+themes:
+  primary:
+    - "80/20 Power Laws & Fractal Mathematics"
+    - "Google Ads & PPC Mastery"
+    - "Profit by Subtraction (20/120)"
+    - "Productivity & $1000/Hour Work"
+    - "Marketing DNA & Unique Capability"
+    - "RFM Database Marketing"
+    - "Consulting & Authority Positioning"
+  secondary:
+    - "Market Selection & Sizing"
+    - "USP Development"
+    - "Espresso Machine Upsells"
+    - "Lean Startup Execution"
+    - "Push vs Pull Motivation"
+    - "Renaissance Entrepreneurship"
+    - "Email Marketing Strategy"
+
+cross_references:
+  related_persons:
+    - "dan-kennedy"      # Direct copywriting influence
+    - "russell-brunson"  # Funnel strategies overlap
+    - "jay-abraham"      # Strategic marketing overlap
+    - "todd-brown"       # Offer architecture
+  related_aggs:
+    - "AGG-TRAFFIC"
+    - "AGG-VENDAS"
+    - "AGG-OFFERS"
+    - "AGG-COPYWRITING"
+    - "AGG-DATA-GROWTH"
+    - "AGG-EXECUTIVE-LEADERSHIP"

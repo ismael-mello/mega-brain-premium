@@ -19,11 +19,11 @@
 # ═══════════════════════════════════════════════════════════════════════════════
 
 cargo: "SAM-OVENS"
-versao: "1.0.0"
+versao: "2.0.0"
 nivel: "PERSON"
 natureza: "SOLO"
 data_criacao: "2026-03-02"
-ultima_atualizacao: "2026-03-02"
+ultima_atualizacao: "2026-04-04"
 
 # ═══════════════════════════════════════════════════════════════════════════════
 # CONSTITUICAO (Layer 1 - Principios compartilhados)
@@ -74,16 +74,35 @@ dna_sources:
 
   primario:
     - pessoa: "sam-ovens"
-      path: "/knowledge/external/dna/persons/sam-oven"
+      path: "/knowledge/external/dna/persons/sam-ovens"
       dominios_usados:
         - "ofertas"
         - "posicionamento"
         - "modelos-de-negocio"
         - "pricing"
+        - "vendas"
+        - "mindset"
+        - "facebook-ads"
+        - "client-attraction"
+        - "service-delivery"
+        - "scaling"
+        - "finance"
+        - "hiring"
+        - "marketing-automation"
       peso: 1.0
 
       # Fontes processadas com rastreabilidade
       materiais_fonte:
+        - source_id: "CA-2018"
+          titulo: "Consulting Accelerator 2018"
+          tipo: "course"
+          modulos: 57
+          semanas: 7
+          bonus: "DM Bonus (7 lessons)"
+          elementos: 432
+          status: "processado"
+          raiz: "/knowledge/external/sources/sam-ovens/raw/consulting-accelerator-2018/"
+
         - source_id: "SETTERLUN-OC"
           titulo: "Offer Creation Module"
           tipo: "course"
@@ -102,7 +121,7 @@ dna_sources:
           chunks: ["SETTERLUN-BD_001", "SETTERLUN-BD_002", "SETTERLUN-BD_003"]
           status: "processado"
 
-      # Materiais pendentes (25 transcricoes)
+      # Materiais pendentes (25 transcricoes Setterlun)
       materiais_pendentes:
         - grupo: "BUSINESS-DNA"
           modulos: 7
@@ -119,14 +138,15 @@ dna_sources:
 # ═══════════════════════════════════════════════════════════════════════════════
 
 estatisticas:
-  total_elementos: 21
+  total_elementos: 453
   por_camada:
-    L1_FILOSOFIAS: 5
-    L2_MODELOS_MENTAIS: 4
-    L3_HEURISTICAS: 6
-    L4_FRAMEWORKS: 4
-    L5_METODOLOGIAS: 2
-  chunks_totais: 25
+    L1_FILOSOFIAS: 92
+    L2_MODELOS_MENTAIS: 81
+    L3_HEURISTICAS: 130
+    L4_FRAMEWORKS: 74
+    L5_METODOLOGIAS: 76
+  fontes_processadas: 4
+  versao_dna: "2.0.0"
   peso_medio: 0.88
   percentual_alta_confianca: 100.0
 
@@ -173,3 +193,7 @@ changelog:
     acao: "Criacao inicial do DNA-CONFIG"
     fonte: "knowledge/external/dna/persons/sam-oven/CONFIG.yaml"
     versao: "1.0.0"
+  - data: "2026-04-04"
+    acao: "Massive expansion: Consulting Accelerator 2018 (57 lessons, 432 elements). Total: 453 elements across 4 sources."
+    fonte: "/knowledge/external/sources/sam-ovens/raw/consulting-accelerator-2018/"
+    versao: "2.0.0"

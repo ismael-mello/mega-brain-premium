@@ -1,0 +1,449 @@
+# Extração: Video Transcript
+
+- **Fonte:** Video Transcript.docx
+- **Tipo:** DOCX
+
+---
+
+# Extração: Video Transcript
+
+- **Fonte:** Video Transcript.docx
+- **Tipo:** DOCX
+- **Tamanho:** 25.5 KB
+
+---
+
+Hey, everyone. Sam Ovens here and welcome to this training module called Unveiling the Facebook Algorithm. In this training module, I’m going to discuss Facebook’s algorithm, how it works, what it is and really take you on an in-depth look at exactly how it thinks and how it makes all of its decisions so that you can work really well with it. Most people don’t actually know this but the algorithm really accounts for 90 to 95% of your results when using Facebook ads. You only really account for about 5% to 10% max.
+
+
+
+
+
+Now, most people when they use Facebook, they believe they’re in control and they wonder why their ads don’t work. Well, the algorithm has far more say in everything that you do and you need to understand it, you need to know how it works and you need to be able to work well with it if you want to achieve success. This video is crucially important to your success with Facebook ads. Let’s jump right in to it.
+
+
+
+
+
+Here’s what we’re going to cover on today’s training. First off, we’re going to discuss teaching a cat to bark and why everybody has Facebook all wrong. Why pretty much everyone out there has it wrong like I haven’t really met many people that thoroughly understand this. Most people, even people that create Facebook courses, even so-called Facebook experts who charge tens of thousands of dollars a month, they don’t even know this either. I mean, this is a very in-depth understanding of it.
+
+
+
+
+
+Then understanding the eye, the network and the invisible hand which is the three things that the Facebook algorithm is made up of. Then the Tao of the Eye: How Facebook’s Algorithm Thinks. Then understanding initial conditions which account for 90% of your results but nobody even knows this. Then Hacking the Garden of Eden: The Missing Key to the Evolution of your Facebook ads and then finally, Variation: The Secret to Facebook Advertising Success and Survival.
+
+
+
+
+
+We’re going to discuss all of these things and by the end of this training module, you’re going to have a thorough understanding of the algorithm and you will actually have more of an understanding of the algorithm than most people who charge $10,000 a month or more for Facebook ads. You’re going to be right at the forefront of everyone with this. Let’s get to it.
+
+
+
+
+
+The first part, Teaching a Cat to Bark: Why Everyone has Facebook All Wrong. This is how most people use Facebook. They select a laser targeted audience. They go on to the Facebook platform and they’re like I know I’m going for these people. They start adding on layers, and layers, and layers of targeting like 100 grand income, they’re in this state, they like this person, and this person, and they’re this and that, and they just layer on all of the targeting and they end up finding a laser target audience of 10,000 people and they’re like, “This is where the people are.”
+
+
+
+
+
+Then what they do is they create a Facebook ad. Then what they do is they launch it and then their Facebook ads work well, sometimes for three to four days or two to three days and then their ads fail and they just break. The costs go through the roof and most of the time, Facebook stops delivering traffic to their ads and they just go completely dead. Then they create new ads and just do it all over again.
+
+
+
+
+
+They think that, “Oh, the ad must be tired. I hear this all the time is with Facebook you just need to refresh the creative.” These three words, refresh the creative are just plain dead wrong. Anyone who tells you that, run, because that means that the person who’s doing it doesn’t know what they’re really talking about. With Facebook, you only need to really refresh the creative every three to four days if you don’t know what you’re doing and when you do know what you’re doing, your Facebook ads and your creative can last for a year. I’ve had ads that have run for more than a year like 18 months and sometimes they get better.
+
+
+
+
+
+This is how most people use Facebook and it’s a constant cycle of boom and bust and a never-ending cycle of new ads, new audiences and dealing with the unknown. Most people have no idea why their ads just keep bombing like, “Why does it work for three days and then why does it not?” Most people just have no idea. They’re just drowning in a sea of unknown variables. Here’s what everybody has wrong. They set their audience targeting, hence they go laser targeted for 10,000 people and most people think everybody in that audience targeting will see their ad. They zoom it right in and they’re like, “Okay. These people are going to see my ad.”
+
+
+
+
+
+Then they create their ad and they think, “Okay. I see my audience and okay, I created my ad so therefore everyone in this audience should see my ad,” but that doesn’t happen. Only a small segment of the audience sees the ad. If they selected an audience of 10,000, then probably only 1,000 people or even 100 people are actually going to see that ad. It really zooms in on one little segment of the audience you set.
+
+
+
+
+
+A lot of people think when they’re zooming right in on it, they’re doing Facebook’s job for it and then Facebook doesn’t have to zoom but then when Facebook goes and starts optimizing, it zooms even if you have zoomed. It’s like zooming on a zoom and it’s going to take you right into 100 people. This is what happens. If you set the targeting and create the ads how come everyone doesn’t see your ad?
+
+
+
+
+
+If you set the targeting and you created the ads then what’s going on here? What’s this other thing that’s happening? We didn’t tell it to just select, just target a small group of those people but who’s doing this? It’s like there’s an invisible hand that determines who sees your ad and who doesn’t. Understanding the invisible hand is the single most important thing when it comes to Facebook ads. Let’s unveil it right now.
+
+
+
+
+
+Unveiling the Facebook algorithm. We’re going to understand the eye, the network and the invisible hand that is controlling all of those Facebook stuff because a lot of people think it’s all in their control but really they only have about 5% in their control. First of all, what’s an algorithm? Just really plain and simple. Facebook’s algorithm. An algorithm is a procedure or formula for solving a problem based on conducting a sequence of specified actions. It has real-time access to everybody on the Facebook platform and it knows all of their data for their entire user history.
+
+
+
+
+
+You want to think of it as a well networked friend with two billion connections because that’s how many users are on Facebook right now, two billion active. It knows everything about all of them and it can call them all at one time. By this, I mean, it can show an ad to them so Facebook’s algorithm is way, way, way smarter than you when it comes to advertising. It knows everything about everyone. When you can work with it properly, you will have an awesome time with Facebook, however when you don’t work with it properly, you will just constantly … Your ads will never work or they will work and you’ll have to create new ads every three to four days.
+
+
+
+
+
+What’s the invisible hand? This is the way I like to describe and understand Facebook. You’ve got the network and this is Facebook’s branch and node system of two billion users. In the background image, here’s an actual mapping of Facebook users active at one point in time. You can see how they all connect to each other all over the world. It’s like this huge web. This is the network, Facebook’s network, two billion users.
+
+
+
+
+
+Then you’ve got the all-seeing eye and this is what you refer to as the algorithm. We call it the all-seeing eye because it has visibility into everything. It can see everything that everyone is doing all the time, all over the world across two billion users. A human being can’t do that only a machine and a computer can do that because it’s impossible to keep track of all of that stuff. This is why we call it the all-seeing eye.
+
+
+
+
+
+Then we have the invisible hand. This is the algorithms decision-making mechanism for displaying people’s ads. It determines who sees them, when, where, how often, et cetera. When you set an audience of 10,000 people and then it zooms in and starts focusing on 1,000 people, well, that's a movement from the invisible hand. That’s the algorithm changing things and you’re not really having a say in that and most people don’t understand this but this is how Facebook ads work.
+
+
+
+
+
+Remember how most people use Facebook? I explained it just a couple minutes ago. They set the audience targeting like they laser target it to, say, 10,000 people and then they create their ad and they think that that’s going to work but here’s how it actually works. They set the audience targeting then they create the ad and then Facebook’s algorithm determines who you actually reach within that audience that you set.
+
+
+
+
+
+You set the audience of 10,000 or more. Well, then Facebook’s algorithm starts optimizing and it finds a smaller group of people within that audience and it starts showing your ad to them. That’s what it does. It’s optimizing all of the time. Even if you think you’ve optimized for it, it’s still going to optimize and this is a crucial thing to understand. This is something else which is in the mix that most people don’t understand is in the mix.
+
+
+
+
+
+It’s not just you, your ad and your targeting, it’s you, your ad, your targeting and then Facebook’s algorithm. That is the invisible hand that chooses the segment that’s going to see your ad. How much say does the algorithm have? Just how much say does it have? Is it powerful, do we have more say? Does it have more say? What’s the breakdown of this? You set the audience and the ad and this accounts for only 10% of your advertising success or the results that you get. I’ve been generous here.
+
+
+
+
+
+It could be 5% or less. Then you’ve got the Facebook algorithm and it sets something called initial conditions. This accounts for 90% or 95%, somewhere in there so huge. Most of it is actually on the algorithm side not on your side. If you don’t understand it, I mean you’re playing with ones and it's playing with 10s. I don't know about you but I always want to play with 10s instead of ones and that’s what you do when you understand the algorithm. Yes, you heard that correctly. 90% or even 95% of your results with Facebook ads are in the hands of the algorithm and the initial conditions which it sets and determines.
+
+
+
+
+
+How does Facebook’s algorithm work? If it’s so important, if it really accounts for 90 to 95% of the results that we get on Facebook ads, then how does it work? How can we understand it? This is what I call the Tao of the Eye: How Facebook’s Algorithm Thinks. How is this thing made up? How does it make its decisions How is it categorizing who’s ads show to who in all of that. That’s what we’re going to discuss?
+
+
+
+
+
+Facebook’s algorithm cares about three things. One is ensuring Facebook users have a good experience and keep using the platform and this is actually number one. This is its number one priority, more than making money. Most people think that Facebook just wants to make money. That’s not true because it prefers that every user will have a good experience over money and if you don’t believe me, well, just try running some ads that annoy people and watch how quickly Facebook bans you and refuses to take your money.
+
+
+
+
+
+Then number two is making money provided that its users are happy and they keep using the platform then Facebook’s next goal after that is to make money. It does that by choosing the ads which you’re getting the most clicks. If one advertiser is advertising in your niche and they’re getting twice as many clicks as you, if they click through rate is twice as high as yours, then Facebook is going to optimize their ad to show over your ad because Facebook can make more money showing the other person’s ad compared to your ad.
+
+
+
+
+
+It’s like a survival of the fittest when it comes to ads. That’s how it works. Facebook is always optimizing for the most money provided its users of having a good experience. Then three is it wants to make sure that Facebook advertisers have success with their ads so it needs to make sure that the advertisers are happy too because people need to be seeing results with their advertising dollars otherwise they’re probably not going to keep spending dollars on the Facebook platform so these are the algorithm’s three main objectives and they are in order of its preference and priorities.
+
+
+
+
+
+Obviously, the algorithm has a lot more things that it's actually optimizing for but I’ve simplified this right down and these are the main three that you just want to get your head around. It’s plain and simple and once you understand this, then you pretty much understand most of the work that the algorithm is actually doing. It’s constantly optimizing for the perfect combination of those three things.
+
+
+
+
+
+When you set your audience targeting and launch your ads, the algorithm is optimizing who sees your ad based on the use of preferences so the people using the Facebook platform, are they liking the ad? Are they liking it, sharing it, commenting? Are they clicking on it and are they not clicking on the little arrow on it and complaining. If lots of people complain on your ad, then Facebook is not going to show that ad because people are getting pissed off and that Facebook doesn’t want that because then those people stop using the platform.
+
+
+
+
+
+Then Facebook is interested if that first thing is satisfied, its profitability and its advertisers profitability. Those three things. It’s constantly optimizing for the best of those. You want to picture it like this. Just like in week one, how we talked about natural law and the equation and we talked about how we can optimize our niche offer result, hypothesis by testing and going out to the market and collecting feedback. Really a successful consulting business is the most optimized and most potent combination of niche offer result variables.
+
+
+
+
+
+When it comes to Facebook ads, the algorithm is constantly shuffling through different audiences with the different ads based on who’s going to click the most and how much the advertiser is willing to pay per click. Facebook’s algorithm is constantly shuffling through audience and advertisement variations to try and find the ones that users are going to click on the most because when a user clicks on it, Facebook makes money and Facebook also connects a user to a business and a business to a user.
+
+
+
+
+
+That’s good and it makes money and so that’s what it’s geared up to do. That’s how it’s programmed. You basically want to think about it like this. Just imagine the algorithm is that little red dot and it’s going through and it’s just shuffling around all of these different ads. If you’ve got all of these different advertisers targeting all of these different people, it’s showing one advertisers ads, then another advertisers ads then if an advertiser has multiple ads, it’s showing different ads, they’ve got to different audiences and it’s constantly keying through hundreds of millions of variables trying to find the right optimization of ad to audience so that users are happy, Facebook gets paid and the business gets connected with the user and the user gets connected with the business.
+
+
+
+
+
+It’s moving so fast, shuffling through all of these variables trying to find the perfect combination for the current environment. If the algorithm is so good at optimizing, how come we only reach a fragment of the audience that we actually set? We set the audience for 10,000. If it’s so good at optimizing, why does it only target 100 or a thousand of those people?
+
+
+
+
+
+Here’s how it works. You set the audience targeting then you create your ad and then the algorithm goes in and starts optimizing and it determines the reach and it zooms right in on a specific group. How come it does that? If it’s so good at optimizing, why isn’t it just target the whole 10,000? This is due to something called initial conditions. Now, we’re going to discuss initial conditions. I’m going to give you a brief overview so that you can understand initial conditions. This is something which absolutely no one understands when it comes to Facebook ads and it is crucial because when you understand initial conditions, it will help you just run laps around everyone else using Facebook ads. This is an understanding like no one else has when it comes to ads.
+
+
+
+
+
+What are initial conditions? Initial conditions are when you launch a Facebook ad and people start to click on it, opt-in on your landing page, et cetera. Facebook’s algorithm observes what type of people are clicking and opting it and then it starts to optimize to show your ad to more of those people. You may sit an audience size of, say, 100,000 people but once Facebook optimizes, it will narrow that down to say 10,000 people or less based on who’s taking action.
+
+
+
+
+
+The first few days of action uses take on your ads determine their performance more than anything else. This is what we refer to as initial conditions. When you launch an ad on Facebook, the first few people that click on that ad or opt-in or what Facebook will do is it will start to look at who did that and then it will start to optimize four people who are similar to that within their audience. Facebook just doesn’t show your ad to everyone you tell it to. You tell it a ring fence of where you think your customers are and then starts optimizing and looking around within that.
+
+
+
+
+
+Once some people will start taking actions on your ad, Facebook starts optimizing for those people or people who are similar to that within that audience that you specified for. That’s what it does, that’s its behavior and it starts to optimize fast. The initial conditions really are set in the first 48 hours to four days. The first two to four days are crucial. Those initial conditions determine the evolutionary stream that your ads are going to take in the future. If the wrong click on it in the beginning, then it’s going to go the wrong way. However, if the right people click on it in the beginning then it’s going to go the right way. This is huge. This is more important than the ad itself and the audience itself, the initial conditions and nobody knows about this.
+
+
+
+
+
+The best way to understand it is with this simple diagram here. We’ve got a whole bunch of dots and here’s imagine there’s 10,000 dots in there. Let’s say this is the audience which we set our targeting for, for Facebook and most people think that when they set an audience, and it’s 10,000 that Facebook is going to show those 10,000 people their ads. Well, that’s wrong. What will happen one person or it’s not really one but let’s say the first 10, 20 people that start clicking on the ad or opting in and taking action, well, Facebook is going to observe those people and then it’s going to look at them and say, “Well, these people click on the ad and they opted in.”
+
+
+
+
+
+Well, who within this audience is similar to that person clicked and opted in? If someone does click or if someone does opt-in, then that means that they’re somewhat interested and if they’re somewhat interested Facebook wants to prioritize and it wants to see, well, who else within this audience looks like that person or has similar attributes or similar interest to that person and then it’s going to show the ads to them and it’s going to ignore really the rest of the people within that audience that you set for.
+
+
+
+
+
+Most people set it up to do … They think it’s just going to show to everyone and that couldn’t be further from the truth. It’s going to optimize and zoom right in on a specific group. Based on the first few people that take action, it’s going to start optimizing. When it optimizes, it looks like this. At first, it might just draw a ring fence around this many people, 9,000 people within the audience. Then 8,000 people, then 7, then 6, then 5, then 4, then, 3, then it’s on 2,000 people.
+
+
+
+
+
+The algorithm will really optimize and zoom right in on that many people in a four-day period. The first four days are crucial and that’s what we call the initial conditions and even the people that act on your ad within your first day, those are crucial and this is what we call the initial conditions because the initial conditions that your ad is exposed to in the Facebook advertising environment is more important than anything else. Just like the evolution of any species in nature. The initial conditions are crucial.
+
+
+
+
+
+It will set the evolutionary stream for the rest of that species’ future and the same with your ads. If your ads have good initial conditions then that’s really going to help them because the algorithm is going to start clamping down and optimizing on the right people. However, if they have bad initial conditions then it’s going to start optimizing on the wrong people and it’s going to pull you further and further away from the people you want to be targeting.
+
+
+
+
+
+No one really understands this but this is what happens and you don’t really have any say in the initial conditions. There’s nothing you can really do to change it. However, I have a method and a strategy for really getting around this and optimizing for the perfect initial conditions which I’m going to share with you in this training. This is just an understanding of how it works. It starts out at the 10,000, then 9, 8, 7, 6, 5, 4, 3, boom. Set on that group of people and that typically happens around the two to three to four day mark and that’s when most people’s ads die and they have to create new ads and just repeat this process all over again.
+
+
+
+
+
+They just create new ads and they just go [inaudible 00:24:54] and then they’re back when they started again. New ad, [inaudible 00:24:59]. New ad and they just keep doing that. It’s really madness. The initial conditions your ads experience determine more of your advertising results than the actual audience and ad you create yourself. That’s correct. The ad you write and the audience skills that you have at selecting audiences matter less than actually the initial conditions.
+
+
+
+
+
+Most people think it’s the other way around. They don’t even know initial conditions exist. Not just as little bit more but we’re talking 10 times more. It’s like 10 times more impact the initial conditions have than your ads and yet everyone is out there creating new ads but initial conditions are more important than ads. Everyone has got it backwards. Everyone is literally just hanging upside down. Initial conditions impact results 10 times as much as targeting and ads. The first four days of initial conditions your ads experience a crucial and that sets the evolutionary stream for the future of the ads.
+
+
+
+
+
+I’ll refer to this four-day period of initial conditions as the Garden of Eden and this is where really everything takes place for the evolution of your ads. Now, I want to talk about hacking the Garden of Eden. This is the secret to the evolution of successful profitable ads.
+
+
+
+
+
+Remember how most people use Facebook ads. They set a laser targeted audience then they create a Facebook ad then their ads work for three to four days and then their ads break and they either become unprofitable or they just … Facebook stops serving them traffic. Then they create new ads and then they go again. Then the same thing happens and it’s just repeat, rinse and repeat. Just keep doing it, keep creating new ads every to four to three days, refreshing that creative.
+
+
+
+
+
+Well, why does this break after three to four days? Here’s how it breaks. Someone sets the targeting for, say, 10,000 people then they create their ad and here we have 10,000 people in one times audience. We’ve only got one audience and there’s only 10,000 people in it and then most people create one ad. And then they only have one image for that ad. We’ve got one audience and with hardly anyone in it and then one ad when just one image.
+
+
+
+
+
+Within four days the algorithm locks in on 500 people. They only see one ad with one image. Now, we’ve got 500 people, seeing one ad with one image. It’s two little people seeing one ad too many times and what they do is they stop clicking and then before you know it, Facebook’s algorithm has given your position to another advertiser who has an ad users are more interested in because if you just show an ad again, and again, and again to a small group of people, they’re going to get sick of it.
+
+
+
+
+
+Once a user sees an ad more than two times in a day, they’re pretty much have been a blindness to it. They’re not going to click on it. When people stop clicking on your ad, that means Facebook isn’t making money anymore. When Facebook isn’t making money anymore, then it’s not going to run your ad. It’s going to run somebody else’s ad and that’s why your ad will stop receiving traffic or if you do receive traffic, it’ll be at an extremely high price because so little people are clicking it that Facebook now has to charge you this much just to make it worth it and that’s what happens. That is why everyone’s Facebook ads run out of steam every three to four days.
+
+
+
+
+
+Working one day, gone the next. Poof. What do most advertisers do? They create new ads and they do it all over again. This is absolute madness. This is what I’ve observed in the industry for [inaudible 00:29:20] since Facebook ads really was created. There’s still people out there that charge 10,000 or more for ads and they do the stuff and it’s madness but it doesn’t have to be this way. After spending multiple millions of dollars on Facebook ads and consistently making ROI for years.
+
+
+
+
+
+This isn’t just small millions, this is in the big millions like up around $10 million and more. This is really big ad spend so not just small ad spend. Some people when they talk about spending $1 million on Facebook ads, they’re talking about doing it for 30 clients. I’m talking about doing an online one ad account for one ad, my own one too. My own dollars, everything so not clients’ one, this is my own stuff.
+
+
+
+
+
+I figured out how to run single ads for six months to a year even 18 months when everyone else said that you had to refresh the creative every three to four days. How was I able to spend millions of dollars on ads with only a few ads and run them for such long periods of time when other people’s ran out every three days? While most people’s ads died after 50,000 impressions, I ran over 100 million impressions to single ads and they improved.
+
+
+
+
+
+Now, while others died after 50,000, why are we getting stronger at 100 million? This is what I call hacking the Garden of Eden. What I want you to do right now is think back to week one of this training program. How do we find a good niche-offer-result combination? When it comes to picking your 2.0 niche and then crafting your minimum viable offer and resonating your message and all of that stuff, how do we get a really powerful offer and a really powerful message and how do we really get an awesome consulting business?
+
+
+
+
+
+It comes from shuffling through lots of variables and what we do is we shuffle through lots of niche-offer-result variables by testing. We see the hypothesis, we go to the market and we test. We try different stuff, we iterate and we get better and better and better with iteration. What we’re doing there is we’re adding variation. We’re going out and we’re testing and we‘re trying variations. That’s what iterations are. This is the secret to success and survival not only in nature but on the Facebook platform when using Facebook ads.
+
+
+
+
+
+The secret too successful evolution is variation. In nature, when a specifies wants to survive, its best option is variation, trying lots of different variables and if you have a pure breed animal and then if you have a crossbred animal, a crossbred animal is always a lot stronger than a purebred one. Often purebred animals get sick and everything but crossbreeds are a lot tougher and they’re a lot stronger. Really when things are crossbred like that, they get stronger and this is because of the variation that is there.
+
+
+
+
+
+Variation really is the secret to all of evolution. In a forever changing and competitive environment such as Facebook ads, variation is the key to success and survival for your business and for your ads and your advertising campaign and Facebook account. Variation is the key. This is why most people have Facebook all wrong. They have one ad with one image. That’s just one thing. That’s just one times variation. Then they have 10,000 people in one audience.
+
+
+
+
+
+It’s like hardly any variation at all that’s pretty much just one and one and when this one in one, you can’t optimize. One in one, there’s nothing to optimize there, that’s it. This is why people fail with Facebook ads. Facebook's algorithm is a natural selection machine that’s constantly optimizing and in order to optimize the algorithm it needs variation. It needs variance, it needs to iterate and it needs to look at different combinations of different things and see what works and what doesn’t.
+
+
+
+
+
+Without the variation, the algorithm will jam and your ads will stop getting traffic and fail faster than you can imagine. This is why everyone fails with Facebook ads. This is why people’s ads work for two or three days and then stop because they don’t feed it enough variation and it just starts zooming on a small group of people. They see the ad too many times, they stop clicking Facebook’s algorithm gives that position to another advertiser and you’re out, boom. Done.
+
+
+
+
+
+What’s the answer? We understand the problem, we understand the reasoning behind all of it so what’s the answer? The answer is obviously variation. What we want to do is instead of having one laser targeted audience, we want to have multiple large audiences so most people try and create those laser targeted audiences of 10,000 people. I’ve even seen people choose audiences of 1,000 people.
+
+
+
+
+
+My word, 1,000 people. That’s a recipe for nothing. We try and choose audiences that are like hundreds of thousands. We tried to get them at like 100, 200, 300, 400,000 plus and then we want to have lots of them so like 30 or more of them even though they’re that big. If we have 20 audiences or 500,000 people, that’s 15 million. That means that we’ve got 15 million possible people. Instead most people choose one laser targeted audience of 1,000 or 10,000. There’s a massive difference between 15 million and 10,000.
+
+
+
+
+
+There’s even a bigger difference between 15 million and 1,000. That’s totally flipping the model on its head and that’s what we want to do. Then most people just write one and that’s really it. We want to have multiple angles. We want to have at least four or five ad angles that we really advertising the same thing but we’re taking completely different angles at it, trying to appeal to different people, trying to appeal to a totally different way of looking at what we’re actually doing. We call these ad, angles.
+
+
+
+
+
+Then within each ad, we want to have multiple ad images per ad. If we had one ad angle, then we might want to have four images just for that one ad angle. Then for another add angle, we might want to have four images. What happens here is you can do the math here. If we have five ads and each of them have four images each, that means that possible combinations of ads we have 20 whereas most people just have one. 20 is a lot better than one. If we have 30 audiences that we’re working through, then that means that the possible combinations of audience to ad is huge. It’s like 600. This is 600 possible combinations here whereas before, we had one possible combination. There’s a big difference between 600 and 1, but really it goes way further than this because within each audience, we have hundreds of thousands of people. It’s just like it’s going to their audience, it’s going to show to people within that audience.
+
+
+
+
+
+If we were to multiple that by, say, 100,000, we’re looking at 60 million possible combinations. 60 million possible variations here of person, image ad and once we start to get up in those possible combinations and variations, that’s when Facebook’s algorithm thrives. I can tell you what, there’s a huge difference between 60 million combinations and one combination. There’s 59,999,000 combinations, difference and this is the reason why most people’s ads suck is because that’s just too much difference.
+
+
+
+
+
+You’re going to have a way bit of chance when you give the algorithm all of this variation and it can go in and optimize. We want to load up Facebook’s algorithm with multiple audiences, multiple ad angles and multiple ad images so that it can optimize to find the perfect combinations for the current environment. When I say the current environment, I mean just right now. Right now, the world is a certain way, different niches, a certain way.
+
+
+
+
+
+People have certain problems and there’s different advertisers on the platform and everything but every single minute of every day the environment is changing. Preferences for people change, niches change, market, environment changes, everything changes all the time. It’s always changing and Facebook’s algorithm is always optimizing for what fits best for the current environment. This is an important thing to understand.
+
+
+
+
+
+This is the way you want to think about it. You want to have multiple audiences, multiple ad angles and then multiple ad images and then you’ve got Facebook’s algorithm which is optimizing for the perfect combination in the current environment. Imagine it like this little red dot in the screen here that’s just going around changing all these possible combinations. It’s moving through and it’s optimizing hundreds of millions of variations a second.
+
+
+
+
+
+You can imagine this thing has got access to two billion people. I don't know how many advertisers are advertising. I bet there’s hundreds of thousands. They could be millions and then there is … Each advertiser has how many different ads, how many different images I mean it’s shuffling all of those variables trying to find the best image with the best angle with the best placement at the best time showing to the best person and it’s mind-boggling. That’s really what that algorithm is doing and it does it really well when you set it up correctly.
+
+
+
+
+
+When you feed it one ad and one audience, with hardly anyone with a net audience, you’re starving the algorithm of variation. It can’t do anything. It can’t do what it does. This thing has access to two billion people and you’re giving it access to a thousand. It just jams and it shows it to those people but then those people stop clicking because they’ve seen it more than two times and then Facebook stops showing your ads. Just as simple as that.
+
+
+
+
+
+This is the key. We need to load it up with variation and in this Facebook training, I’m going to show you exactly how to load it up. There’re a special way to do it. You can load it up with too much and you can do it totally wrong. It’s very important that you know how to load up the algorithm and I call this Facebook’s golden mean and it’s like the perfect architecture for loading the algorithm up and we’re going to cover that not in this module but in some of the upcoming modules where we actually jump into it and get our hands dirty and set up some ads live.
+
+
+
+
+
+Variation is the key. Just like variation is the key to species in nature, variation is the key to your ads and you need to load the algorithm up with variation so variation of audiences then variation of people within audiences which means nice large audiences instead of these small, laser targeted things. Then variation in ad angles and then variation of images per ad angle. That way we can get lots of different variations here and we don’t need to worry about what's best because that’s what the algorithm does and that what it’s going to do for us when we know how to work with it properly.
+
+
+
+
+
+Here is a pinup that I have provided beneath this video for download that you can download, printout, put in your wall or whatever, and it’s important to understand when it comes to Facebook advertising. I call it Hacking the Garden of Eden. The initial condition your ads experience determine more of your advertising results than the actual audience and ad you create yourself. Most people can’t get the hit around that.
+
+
+
+
+
+Initial conditions impact results 10 times as much as targeting in ads so when people keep creating new ads every four days, they’re not really doing anything. They’re only playing with ones when they could play with 10s instead and they wouldn’t have to keep creating new ads. I’ve been playing with 10s for years and I haven’t had to create new ads and that’s how I’ve made so many millions more than other people with this platform.
+
+
+
+
+
+The first four days of initial conditions your ads experience are crucial and set the evolutionary stream for the future of the ads. I refer to this four-day period of initial conditions as the Garden of Eden. You want to create a variation of audiences ad, angles and ad images for the perfect campaign at genesis. This is an important thing to understand when it comes to Facebook ads. It might sound simple but honestly, no one understands this and a lot of people might think they understand the algorithm but they really don’t. This is a huge important lesson.
+
+
+
+
+
+That’s it for this video, hopefully that has helped you to understand the algorithm, how it works and what not and really get your head around it. Now, that you’ve done that, we can start progressing through some of the next content. We’re going to go over in the next video, Facebook’s book of law and that next video is going to show you the rules for advertising on Facebook because the last thing that you want is to get kicked off the Facebook platform so we need to know its laws. We need to know its rules so that we can be compliant. That’s the next video, module number three and I will see you in that video right now. Thanks for watching.
+

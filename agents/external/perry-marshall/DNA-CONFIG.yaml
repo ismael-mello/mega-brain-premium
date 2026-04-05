@@ -1,0 +1,28 @@
+# DNA-CONFIG — Perry Marshall Agent
+# Symlink to knowledge DNA-CONFIG
+
+person:
+  name: "Perry Marshall"
+  slug: "perry-marshall"
+
+dna_source: "knowledge/external/dna/persons/perry-marshall/"
+agent_type: "SOLO"
+weight: 1.0
+
+dna_files:
+  config: "knowledge/external/dna/persons/perry-marshall/DNA-CONFIG.yaml"
+  dna: "knowledge/external/dna/persons/perry-marshall/DNA.yaml"
+
+source_files:
+  - path: "knowledge/external/sources/perry-marshall/raw/80-20-masterclass-2024/"
+    type: "COURSE"
+    files: 26
+  - path: "knowledge/external/sources/perry-marshall/raw/google-ads-mastery/"
+    type: "COURSE"
+    files: 13
+  - path: "knowledge/external/sources/perry-marshall/raw/new-renaissance-club/"
+    type: "COURSE"
+    files: 21
+  - path: "knowledge/external/sources/perry-marshall/raw/newsletter-archive/"
+    type: "MIXED"
+    files: 426

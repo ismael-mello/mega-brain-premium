@@ -1,0 +1,11 @@
+# Extracao: Descrição
+
+- **Fonte:** Descrição.html
+- **Tipo:** HTML
+- **Tamanho:** 0 MB
+
+---
+
+```html
+<p>​​Para mais detalhes e sobre como adquirir o treinamento complementar sobre framework SMART, acesse o link&nbsp;abaixo.</p><p><span data-verified="redactor" data-redactor-tag="span"><span data-verified="redactor" data-redactor-tag="span"><strong data-redactor-tag="strong" data-verified="redactor">Planejamento SMART: da ideia ao projeto concreto</strong><span class="redactor-invisible-space" data-verified="redactor" data-redactor-tag="span" data-redactor-class="redactor-invisible-space"></span></span></span><br><span class="redactor-invisible-space" data-verified="redactor" data-redactor-tag="span" data-redactor-class="redactor-invisible-space"><a href="https://pay.hotmart.com/V103035120W?offDiscount=ca-30.00-j94coj90&amp;_gl=1*1f1y8qy*_gcl_aw*R0NMLjE3NjMwMjc2MDYuQ2p3S0NBaUFvTmJJQmhCNUVpd0FaRmJZR0d6OUprMktzcDZHazU2aEsyM1VxcUNzRTZuQjFqbTZxQ3lBbHQzT01FRnJ5UTBTNmJ4clBSb0NNdHdRQXZEX0J3RQ..*_gcl_au*NzYwODAwMTIuMTc2MjY0ODY2MS42NjMzMjgwNDcuMTc2NDU5NzQwNy4xNzY0NTk3NDA3*FPAU*NzYwODAwMTIuMTc2MjY0ODY2MQ..*_ga*MTI1MzgwMDA3OC4xNzYzMDI3NDY1*_ga_GQH2V1F11Q*czE3NjQ2MTQxOTIkbzU5JGcxJHQxNzY0NjI0MjM0JGo1OSRsMCRoMTY1MTAwOTExNg.." target="_blank">https://pay.hotmart.com/V103035120W?offDiscount=ca...</a><span class="redactor-invisible-space" data-verified="redactor" data-redactor-tag="span" data-redactor-class="redactor-invisible-space">​</span>​</span><br></p><p><span class="redactor-invisible-space" data-verified="redactor" data-redactor-tag="span" data-redactor-class="redactor-invisible-space"><strong data-redactor-tag="strong" data-verified="redactor">Lista de espera para o "planner" Arcabouço de Projeto:</strong><br><a href="https://espera.designfromhuman.com/arcabouco" target="_blank">https://espera.designfromhuman.com/arcabouco</a><span class="redactor-invisible-space" data-verified="redactor" data-redactor-tag="span" data-redactor-class="redactor-invisible-space">​</span><br></span></p>
+```

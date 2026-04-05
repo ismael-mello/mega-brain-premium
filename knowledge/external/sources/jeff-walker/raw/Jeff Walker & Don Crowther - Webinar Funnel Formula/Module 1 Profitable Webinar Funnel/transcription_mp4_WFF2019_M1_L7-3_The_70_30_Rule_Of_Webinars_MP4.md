@@ -1,0 +1,16 @@
+# Transcrição: WFF2019_M1_L7-3_The_70_30_Rule_Of_Webinars_MP4
+
+- **Fonte:** WFF2019_M1_L7-3_The_70_30_Rule_Of_Webinars_MP4
+- **Duração:** 03:25
+- **Idioma:** en
+- **Modelo:** small
+
+---
+
+## [00:00 - 03:03]
+
+Hi, this is Don Crowther. Let's talk about the 70-30 rule of webinars. So I recently had a shocking experience. A friend of mine showed me their Evergreen webinar funnel. They were spending about $3,000 per week on Facebook ads to drive people into a webinar sign-up page. In the end, they were making about $2.31 for every dollar they spent in advertising. They were thrilled. They had a program. They just... it was running and making money day in, day out. And the cool thing was this webinar was selling them into a program that literally was the top of the funnel for a bunch of other programs. And so it was just very, very cool. And the funnel was quite impressive. They had very nice ads, a beautiful webinar registration page, a set of questions that segmented everyone. They registered into four different audience segment buckets, a series of five emails for each of those four buckets to get them to attend the webinar, replay emails and sell pages and more. They had a lot of stuff. And it was all nicely drawn out in a beautiful flow chart that outlined the whole thing. And they were really proud of it. And I was proud of them for creating it. Now here's where the shocking part came in. And I asked them a simple question. Where in all of this do you sell to those who don't register for the webinar? And the look on his face was something like this. And sure enough, when we drilled down into his numbers, we found out that they were almost spot on with what I normally see. That only 30% of people will even register for a webinar. But here's the problem. The webinar is in their funnel and many other people's funnel. It's the key to the entire webinar sales method. If people don't register for the webinar and you don't have some kind of funnel to get those cells afterwards, they're never even going to see your offer. Much less by your product. Yet most marketers never create any kind of funnel to get the other 70% to buy their product. So here was my friend, an accomplished internet marketer who made more than $4 million in sales last year, totally left that out of his funnel. He's not alone. There seems to be a presumption in the online marketing world that if someone's interested enough to buy a product, they'll be willing to register for the webinar marketing it. But I got to tell you, that's absolutely false. And it's costing marketers millions of dollars every single year. In my experience, the fastest way to increase webinar profitability is to run those who don't register for the webinar through a funnel designed to sell them the product without them having to watch the webinar. Now, fortunately, that funnel is very similar to the one we take people through who don't buy on the webinar.
+
+## [03:03 - 03:25]
+
+So it doesn't take a lot of extra work to do this. So I beg you, please don't be like my friend. By the way, he's now put in place a non-register funnel and his sales have increased substantially. And no, he didn't give me a commission, but he should have.

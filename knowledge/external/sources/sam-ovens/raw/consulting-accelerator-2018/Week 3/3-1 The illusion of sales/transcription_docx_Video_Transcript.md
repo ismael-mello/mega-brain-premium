@@ -1,0 +1,145 @@
+# Extração: Video Transcript
+
+- **Fonte:** Video Transcript.docx
+- **Tipo:** DOCX
+
+---
+
+# Extração: Video Transcript
+
+- **Fonte:** Video Transcript.docx
+- **Tipo:** DOCX
+- **Tamanho:** 20.5 KB
+
+---
+
+Hey everybody, Sam Ovens here. Welcome to week three of the consulting accelerator program. Now in week three, we're going to be discussing the alchemy of client conversion. Now what that means is how to, basically, turn someone from a total stranger, who's never met you before, never heard about you, doesn't know anything about you, so how to take a total stranger and convert them into a high paying customer. That's what the alchemy of client conversion is. In week three, we're going to take you through a series of training videos and we're going to teach you how to sell. We're going to teach you the art and the science to salesmanship. We're not just going to teach you how to sell. We're going to teach you how to sell extremely fucking well. I really mean that. I've put a ton of effort into mastering the art of sales, and I've really taken sales and refined it and boiled it down and turned it into a precise, exact science. That's exactly what I'm going to be sharing with you in week three's training.
+
+
+
+So I'm super excited to share all of this stuff with you, and I'm super excited to turn you into a absolute beast when it comes to sales, because I've taught so many people sales. Now I've seen the most shy, most awkward, most introverted people who have never sold anything before in their entire life, I've seen them totally transform themself into someone who is just systemically and reliably closing sales every single day. Anyone can become a master salesman. It's just a decision, and then it's just doing the work. In week three, we're going to show you exactly how to do that.
+
+
+
+Now this first video in week three is called the illusion of sales. In this video, we're going to discuss all of the different rumors and myths and illusions that are out there about the art and the science of sales. Because there's a lot of people shouting a lot of different messages about how to sell and what makes a good salesman, what makes a bad salesman. There's so much stuff out there, I don't blame you. I got super confused as well. I thought I wasn't cut out for sales. I thought salesmen were really tall, really out there, extroverted people or they were just born with it. All of these different things. We just need to get rid of all that. We need to debunk all of the myths and all of the illusions that surround the art of salesmanship, and then we need to get down to business and teach you the real stuff. Before we teach you the real stuff, we need to remove all of the myths and the illusions that surround sales, because I'm sure a lot of you have these in your mind right now and it's going to play havoc with your ability to learn how to be a salesman. It's also going to play havoc with your ability to be able to sell and make money and profit in your consulting business. So let's jump right to it.
+
+
+
+Here's what we're going to cover in this training video right here. We're going to start off with what we're going to cover in this week's sales training. What I mean by this is we're going to explain each different module inside of week three, and what we're going to do in each module and how that's important. It's important to watch this one first because we're going to explain how to go about learning all of this information and how to go about putting it into practice. Then we're going to debunk the myths and illusion that ... Sorry. We're going to debunk the myths and illusions that surround salesmanship as a practice. Then I'm going to show you how I went from being terrified and useless at sales to one of the worlds best in a really short amount of time. Then I'm going to show you how you can become a master at sales even faster than I did. I'm going to show you important things to remember going into this week's training.
+
+
+
+What we're going to cover in this week's training. Let's talk about the different modules and what is in each one and why it's important, what we're going to do and how you should go about completing week three's training. Here's what we're going to cover. This video right here is the illusion of sales, and we're going to cover debunking myths, shrouding the art of salesmanship and important things to remember. So we're going to really debunk all of that mythology. Then we're going to talk about the alchemy of client conversion. This is the art of converting a total stranger into a paying customer with one magic call. I know that might sound like pretty hype-y and not true, but I'm [diddily 00:04:46] serious.
+
+
+
+I've been able to refine the art of sales down to an exact science where we can actually convert a total stranger, who has never heard of us before, doesn't know anything, how to convert that person on one call. One phone call. That's what we're going to do in the alchemy of client conversion. I'm going to show you the science and the art, how we go about it, why it works, the theory around it, and I'm even going to show you my script. Word for word the script that I use and have honed and refined over time to make it this good. Just the script alone, just the sales training alone, is worth at least 10 times the price of admission into this program alone. Learning how to be a master salesman is so, so, so important, because if you can sell, you're never going to go hungry ever. It doesn't matter what happens in your life, what happens in your business, doesn't matter if you run out of money or anything. If you know how to sell, you know you've always got yourself covered because it's a skill that will serve you for life and pay dividends for life.
+
+
+
+Then we're going to talk about crafting your script. In the alchemy of client conversion, I'm going to show you my script and I'm going to show you the science, the theory and everything behind it. But then you're going to take my script and you're going to hone it and refine it for yourself and your niche and your offer. Now my script works really well, but you yourself might have some words in there that you're not comfortable using. Or you might want to say some sentences a little bit different. Or maybe in your local market, people speak a little bit different than me. Or your niche might be different than me. Chances are, your niche is definitely different, and your offer is going to be different. I'm going to show you how to take my script and then how to hone it and refine it to really make it your own. When you do this, when you really hone it and refine it to make it your own, it's going to feel like a part of you. It won't really feel like my script anymore, it's going to be your script and something that's really yours. That's important if you're going to have confidence on the phone and if you're going to make a lot of money in sales.
+
+
+
+Then we're going to discuss the pendulum of doubt. Now in salesmanship, one of the most important things is managing self doubt sales slumps and this really is salesman biggest issue. It's just managing himself and keeping his head in check, because if you have one bad call, that can quickly become two, three, four, five, six. You can get yourself into a real slump. Part of being an awesome salesman is keeping your head in check and managing self doubt. Just really feeding those feedback loops so that you're feeding the ups and starving the downs so you can have a nice even keel.
+
+
+
+Then we're going to discuss igniting your flame. That is how to get started making sales today. I'm going to show you all the theory, all of the art and science to sales. Then we're going to make my script your own script, then we're going to get you to start practicing. We're going to get you to start reading it out loud. You're going to read it in front the mirror. You might even want to pair up with other people in the community and start practicing sales with them so you can get comfortable using the script and doing role play. Then once you're comfortable, then we're going to get you on real, live sales calls. We're going to actually get you talking to real people, real prospects, and closing them. Getting the deal, getting their credit card info, charging it, making some money. This is where the rubber really meets the road in this consulting accelerator training program. This is where your business is really going to ignite and it's really going to start taking off. This is going to be awesome.
+
+
+
+First of all, debunking the myths and illusions that surround salesmanship as a practice. Because like I said, there's a lot of information out there and there's a lot of rumors and ideas and everything that are just plain wrong. They scare everyone away from sales. I've got on the screen here a picture of the Sea of Galilee, which is a really rough sea. That's really what sales is like for a lot of entrepreneurs. They feel like it's totally out of their control and the sea is just rocking them around and that sales is just something they can't master. Now a lot of that is just myth. I'm going to show you how we can debunk a lot of those myths right now.
+
+
+
+Debunking the myths and illusions of sales. The first one; Salesmen are born, not made. This is one of the best, and it is not true. I was useless at sales, and then I taught myself to be dangerous at sales. I wasn't born good at sales. I was the worst person at sales you've ever seen. I was too anxious to even get on the phone and make a call. I couldn't even get on the phone. I couldn't even be in the same room as a phone, let alone use it and, let alone, make a sale. If you think you don't know how to sell, believe me, when I got started I was worse than you. If you heard my sales calls when I got started, you would cringe. Armed with this training here in week three, and armed with the sales script I'm going to provide you with, your years ahead of where I even began. Don't think, "I'm not a salesman. I'm not good at sales." That's not true. You're not good at sales because you haven't decided to be good at sales. You haven't learned how to sell and you haven't practiced, you haven't trained. That is the first myth that we are debunking.
+
+
+
+The second one is that sales is only for smooth-talking, extroverted people. Not true. I'm an introvert and I beat the extroverts at sales. Everyone's out there saying you have to be all hyped up and pumped up. It's pretty much like salesmen these days, everyone thinks they have to be on steroids and shouting at everybody, and that couldn't further from the truth. The truth is, is that if you're very calm and collected and quiet, you actually make a better salesmen than one of these all hyped up, steroided salesmen. I routinely beat, and I routinely eat the lunch, of extroverted salesmen because I maneuver myself with more grace and with more sophistication and I understand the dynamics of the conversation better than anybody else. So I can really just dance through the sales call without being an extrovert and really just pivot it towards the close. It's a masterful way of doing sales, and I'm going to show you exactly how to do it.
+
+
+
+One of the myths is sales is high-energy, fast-taking and aggressive. Well, that's not true. I'm calm, collected and I'm quietly spoken, and it works for me and it works really well. Another one, sales is all about the follow-up. Well, that's not true. Sales is about closing on the first call and forgetting everything else. Everyone's out there saying, "Sales is all about doing 20 follow-ups, 30 follow-ups, 100 follow-ups. You've got to follow-up for six months." Well, why would you if you could close on the first call? Why would you want to worry about all of that stuff if you could close on the first call? I believe that people who make a big deal about follow-up just don't know how to sell very well, because if you knew how to sell well, you wouldn't have to follow-up. That's the truth.
+
+
+
+In this training, you're not going to learn about how to follow-up and how to do any of that dancing around because following up is for people that don't know how to close. In this training, you're going to learn how to close and forget about following up because the absence of a yes is a no, and in this training, all you're going to get is yeses. If you get a maybe or anything else, or a let me think about it, we're just going to let it go, because we're going to be able to get enough yeses that we won't need to worry about it.
+
+
+
+Another myth is sales is only for outgoing men. This is not true. I've trained quiet, shy men and women to sell like masters. Like I've said, I've seen it all. I've seen people who have stutters. I've seen people where English is their second language. I've seen people who have awkward, shy voices. I've seen introverts. I've seen people of all different types, shapes, everything, from all over the world, men and women, and I've seen them become sales masters with this training. If you don't think you're a salesman, or if you don't think you can become a salesman, just let go of it all because it's just practice. You just need to do the work and you just need to have a methodology and some good training. That's what you're going to get in week three here. I'm going to give you the best methodology that you can possibly find in the world to close like a master.
+
+
+
+Sales is absolutely mandatory in business. Like I said, sales is the most important thing because you can have the most awesome service or product in the world, but if you don't know how to sell, that thing isn't going to be moving off the shelf. Sales is extremely important. I'd go as far as saying it is the most important thing in business because if you're not selling a product or service, you're selling investors. You're selling the bank. You're selling everyone in life. Every time you talk to someone and you want to influence their decision, you're selling, and sales is absolutely mandatory in business.
+
+
+
+Without strong salesmanship, you and your business will experience nothing but rough seas. I've got this animation on the screen here because this is what sales is like for most businesses. It's just they're constantly battling the elements and they're getting rocked around and everything's getting thrown at them. It's a state of disaster. That's what it's like when you don't know how to sell. In week three of this training program, I'm going to show you how. I'm going to show you exactly how.
+
+
+
+Now let's discuss how I went from being terrified and useless at sales to one of the world's best in a really short amount of time. Here's how I transformed myself into a master salesman: I decided to become a master salesmen. I know that sounds simple, but that's the first step. If you're not good at sales right now or if you're freaked out at sales, you don't think you're going to be good at it, the first step is to just decide that you're going to become a master salesman. So you want to do that right now. Just make that commitment to yourself. Just think to yourself, "That's right. I'm going to decide to become a master salesman. Sam and this consulting.com program right here, this program's going to show me how to become a master salesman. Everything's laid out in front of me here, and I know it can be done because it's been done with so many thousands of other people and Sam was able to do it to himself, so I can do it too. All I need to do is decide to become a master salesman." Do that right now. Boom.
+
+
+
+The second one is I worked on my mindset and everything we covered in week two. Like I said, business is just as much about the tactics and the strategies and the action as it is your mindset and your paradigm and your world view. As we're working on sales, you also want to work on your mindset. If you start to notice that you're not comfortable talking to strangers, we probably want to put that into your mindset document and into your affirmations. You want to have some affirmations around you being really comfortable talking to strangers. If you have lots of negative emotions surrounding money and asking other people for money, then we probably want to put some money things in your mindset so that we can start having some affirmations about that. Because if you start to notice yourself being uncomfortable in different situations when it comes to sales, well think about that. Write it down and put it into your mindset work so we can start programing your mind so that you're not uncomfortable around these topics.
+
+
+
+When we're turning you into a master salesman, we're going to be working on learning the script and learning the science and the art of sales. But at the same time, we're also going to be working on reprogramming your brain so that you don't have any of these issues, which a lot of people have. You know, a lot of people have issues about money. Talking about money, asking people for money. A lot of people have a feeling like they're unworthy. A lot of people have feelings like they shouldn't be talking to strangers. All of this different stuff. That's totally fine. We'll reprogram your mind with all of our mindset training, which we covered in week two, and we'll also get you to start mastering the art of sales. Both of these things will be happening at the same time.
+
+
+
+So the third thing I did is I researched the art of salesmanship and figured out how it works. I read probably ... How many books? I actually don't know how many books, so I can't say a number. If I was to give a range, it would be in between 30 and ... No, 30 and 40 books on salesmanship. I made sure I read the best books, and I did a lot of training and I really dug into sales and figured out how it works. In this training, you're going to get just the absolute best sales training there is. I took everything that is really out there on sales and I really boiled it down and distilled it and turned into this training. You don't have to do all this research, which I went through. I've made the process a massive shortcut for you. So you can just go through what's in week three, and you will know the best of the best information when it comes to selling.
+
+
+
+Now this is a big one, the fourth one. I did over 1,600 sales calls. I just did a lot of sales calls. I was doing like six sales calls every single day Monday to Sunday. I was even doing sales calls on the weekend. I just did them again, and again, and again, and again, and again. I kept working on my script and I just kept getting better, and better, and better. If you're thinking, "I'm no good at sales." Well, how many sales calls have you done? Because it takes practice and it takes action to get good.
+
+
+
+I also recorded my calls, listened to them and figured out how to improve. I used call recording software, and I'm going to talk to you about that and how to use it and how it works, all that stuff, throughout week three's sales training. But I would record all of my calls and then I'd save it to my computer and I'd listen to them after the call and I'd think, "What did I say that made that go well?" Or, "What did I say that really made that call go bad?" I figured out what not to say, and I figure out what to say. It was an iterative process where I really listened to my calls and I did a lot of research, I worked on my mindset and I started to get really good.
+
+
+
+If you're thinking, "I'm not good at sales." If you're thinking, "I don't know how to sell." Or, "Sales isn't me. I'm definitely not a salesman." Answer me this: How many sales calls have you done? Seriously. How many sales calls have you made? That's exactly my point. If you haven't made more than 30 sales calls, well of course you're no good. Of course you're no good at sales if you've only made ... Well, if you've made zero sales calls, of course you're no good at it. I mean, how could you ever be good at riding a bike without ever riding a bike? That's exactly my point. Salesmen aren't born, they're created. In week three, I'm going to show you how to become a master salesmen. Sales takes training and practice. If you're wondering how I got good at sales, I did 1,600 sales calls. I might have done more than that. Week three of this program is going to provide everything you need to become a sales master, but you have to be willing to practice and do the work.
+
+
+
+Now let's discuss important things to remember going into this week's sales training. First of all, nobody is a natural salesmen. Salesmen are made through practice and training. In this program, I'm going to give you the training and I'm going to show you how you can practice. You can learn how to become a dangerously effective salesmen using week three of this training. That is a fact. You must be willing to practice, you must be willing to take action, and you must be willing to do the work. Like everything in this training program, nothing is going to work for you unless you do the work. You've got to watch the videos, you've got to complete the worksheets, you've got to understand everything, and then you've got to do the work. You've got to put in the action.
+
+
+
+Sales is a combination of mindset work and real world practice. As you're doing the real world practice and you're practicing with other members, you're reading your script in the mirror and you're actually doing live sales calls with people and you're closing deals, you want to be aware of the parts where you get uncomfortable. The parts where you get uncomfortable are probably mindset issues. You want to write those down and then work on removing that bad programing with your mindset. Like I said, it took me 1,600 calls to get to my skill level. You'll have to do multiple calls, too. Now I'm not saying you have to do 1,600 calls before you actually start making money. I mean, you'll start closing people within your first five, 10 calls. There's people in the program who close customers on their first call. Now that is not normal. Most people bomb their first sales call, but it happens. So don't feel like you have to do 1,600 of them before it's going to work. It's going to start working very quickly, but don't be surprised if you're not totally fluent and totally comfortable and just totally an amazing salesmen until you start getting some calls under your belt, until you start getting some practice.
+
+
+
+Now let's discuss ways to practice sales and become a absolute master. First and foremost, come back and watch week three's training again and again. I always say, the sales training, you can watch it once, you can watch it in a day. However, mastery takes a lifetime. You're going to come back and watch this training again, and again, and again. Most successful people watch the alchemy of conversion video, which is the next video in week three, most successful people watch that video like five to 10 times. Then they tell me that they keep coming back every single week and watching it again, and again, and again. They just make it a repetitive pattern. They really want to understand the alchemy of client conversion so well that it just becomes a part of them and it becomes second in nature. That's what you're going to want to do, too.
+
+
+
+You want to come back and constantly refer to this training, because you'll go through this training and then you'll go out and make sales calls, and then if you come back to it, you'll notice that there's things you missed because you've evolved and you've had your sales calls go a couple of different ways. Then you come back to the training and you pick up on different parts, which you didn't pick up on the first time. Make it a habit and a duty to come back and watch this training again, and again, and again. Especially the second video, the alchemy of client conversion.
+
+
+
+Now the second one is to print out the sales script and read it over and over every single day. You want to make it a part of you. When I discussed the alchemy of client conversion, I'm going to give you my exact script. Then you're going to take my script and you're going to make it your own. When you make it your own, read it every single day. Make it a part of you. Also, say your script in front of the mirror. I used to do this. I used to have my script in front of me and I'd just say the different phrases and the different words in front of the mirror. I'd just look at myself and I'd get to the point where I could say the words really strongly with a lot of power and a lot of conviction. I got the sentences running smoothly out of my mouth. It's like kind of practicing lines for a movie script. You want to treat it like that. You just want to get really comfortable using it.
+
+
+
+Then you're going to want to pair up with others in the consulting community so that you can role play and help each other get better. Now this is a common practice of really successful students. What they do is they go through week three's training, they practice on their own, but then they post in the Facebook group and they pair up with others. They say, "Hey, look, I'm looking to practice the sales training. Is anyone free tonight or tomorrow to jump on a call and practice?" What they do is they role play. Someone takes the part of being the buyer, and someone takes the part of being the seller. They role play and they practice. Practice makes perfect. The people who practice in front of the mirror, read it every day and then they practice with other people, they get really good.
+
+
+
+Then record all of your sales calls, and then listen to them after each call so you can learn and improve. When you're doing real world sales calls, make sure you record them because you want to listen to your calls afterwards and think, "Ah, that's where I messed that up." Or, "Oh, I said that word and it really evoked a lot of emotion in him. The conversation totally changed dynamics when I said that one thing. Okay, well I'm going to remember that one thing and I'm going to make sure to use it next time, because this is a powerful little word or powerful little sentence to use. However, I said this and it took the conversation off onto a totally different tangent and the guy didn't buy. Okay. Well I want to circle this. Remember, I'm not going to say this again. I'm not going to use this word, or I'm not going to use that sentence." That's an optimization process. You're going to listen to your calls and figure out what works and what doesn't work and do more of what works and do less of what doesn't work. Sounds really simple, but most people don't do it. However, the people that make millions, and the people that make lots and lots of millions, they do this. So make sure you do it, too.
+
+
+
+That's it for this introductory video called the illusion of sales. This is just a real quick video to tell you what's going to happen in week three of this training program, and also to really debunk a lot of the myths and a lot of the illusions that shroud the topic of salesmanship. Because a lot of these different things, which people say about sales, are just flat out wrong. Anyone can become a master salesman. Salesmen are made, they are not born. There's no such thing as a natural salesman. A natural salesman just did a lot of practice and did the work. So you can become a sales master, and you can become a sales master in an extremely short amount of time. You'll be surprised at how little amount of time it takes before you can run laps around your competition.
+
+
+
+In week three of this training, I'm going to show you exactly how to become a sales master, regardless of your background and regardless of if you've never sold anything in your entire life. It doesn't matter. Week three is going to show you how to become a master. That's what we're going to do in week three. Now let's get to work. I'll see you in this next training video, which is number two, which is the alchemy of client conversion. Let's do it.
+

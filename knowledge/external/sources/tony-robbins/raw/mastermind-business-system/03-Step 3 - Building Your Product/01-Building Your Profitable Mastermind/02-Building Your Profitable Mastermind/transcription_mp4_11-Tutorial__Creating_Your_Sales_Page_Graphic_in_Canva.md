@@ -1,0 +1,12 @@
+# Transcrição: 11-Tutorial_ Creating Your Sales Page Graphic in Canva
+
+- **Fonte:** 11-Tutorial_ Creating Your Sales Page Graphic in Canva
+- **Duração:** 02:14
+- **Idioma:** en
+- **Modelo:** small
+
+---
+
+## [00:00 - 02:14]
+
+Hey, this is Lane with the Mastermind Team and in this short tutorial I am going to show you how you can create a graphic for your sales page using the free design software called Canva. So before we get started you're going to want to couple things on hand. One, you're going to want to make sure you've already created your free Canva account. Again that's Canva. Two, you are going to want this template which is linked below this video. And the third thing you're going to need is a thumbnail graphic for your coaching program, for your mastermind or for your course. We've already created a tutorial on how to create that thumbnail if you don't have one already and we'll link that below this video as well to make it really easy for you. So when you click on the link for the template you're going to get this screen open up and it says a template was created for you. Start designing now. So scroll down and click on use template for new design. When you do that it's going to automatically open up in Canva and watch how simple this is. What we're going to do is we're going to replace this nice little cartoon landscape here that's highlighted in purple with the thumbnail for our course. So we're going to navigate over to the desktop. I am going to grab my course thumbnail that I already created and I'm going to drag that into the sidebar in Canva and it's going to upload it. You can see it's uploading right here. Once it's uploaded you're going to click on it and drag it over to the canvas and drop it right in that purple frame. When you do that it's going to snap to the right size and then you are done. You're literally finished. That is all you have to do. Now we're going to download it to our desktop so we can add it to our mastermind business hub and get it on our sales page. Click the share button in the upper right. You're going to go to download. Leave it as a PNG. That's perfect. Click download and then it's going to start downloading and it will ask us where on our desktop we want to save it. I am going to rename this as sales page graphic so that way I can easily find it and then when I want to upload it to my mastermind business hub I'm ready to go. That's all you have to do. It's that easy. Now go over and add that to your sales page and you're ready to go.

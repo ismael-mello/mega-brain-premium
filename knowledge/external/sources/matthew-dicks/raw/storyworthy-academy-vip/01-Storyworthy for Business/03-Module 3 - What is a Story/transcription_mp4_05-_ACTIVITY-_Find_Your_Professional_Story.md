@@ -1,0 +1,12 @@
+# Transcrição: 05- ACTIVITY- Find Your Professional Story
+
+- **Fonte:** 05- ACTIVITY- Find Your Professional Story
+- **Duração:** 02:11
+- **Idioma:** en
+- **Modelo:** small
+
+---
+
+## [00:00 - 02:11]
+
+All right, now that you have your personal story in place, I want you to find your business story as well. The story you're going to begin crafting using all of the skills and strategies I'm about to teach you. That story could be anything related to the business you're engaged in or hoping to engage in someday. Maybe it's the origin story of your company. That is work I do with companies quite often. You launch a company, you're five years into that company, but you haven't really figured out how to tell the story of your company because you've been so busy plowing ahead that you've never taken a moment to look behind. Maybe you're running a company or you're running a department in your company, but you've never really been able to articulate the story of that. Maybe that's your story. Maybe it's your personal business story. How did you manage to land in the position you are in today? How did you manage to ascend that corporate ladder? How did you manage to overcome obstacles? We all have stories that explain how we ended up in the job we're in today. Maybe that will be your business story. Maybe you have a new product or a service coming online. You're getting ready to pitch your company to investors and you want to be able to tell that story. If you have a marketing, a sales story, or an investment story, maybe that's going to be the story you tell. Maybe you're interviewing. Maybe you're actually looking for your next job and you're trying to figure out what you're going to say in that interview that will convince your new employer that this is the position for you. Or maybe you're trying to ascend that corporate ladder within the organization you already belong and you're trying to convince that next rung that that's where you belong. Maybe that will be your business story. Choose one. Again, if possible, choose one that you've never addressed before, one that you've never really put a lot of thought into. Choose one that will be helpful to you in the future, a real story that when you're done crafting it will have some value to you. So that as you begin teaching you the strategies and the skills to put it together, you'll have that story to work with as well. Okay. Go ahead and choose that professional story now.

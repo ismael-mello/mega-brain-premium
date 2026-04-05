@@ -1,0 +1,37 @@
+---
+agent: rian-dutra
+type: SOLO
+version: 1.0.0
+created: "2026-04-03"
+
+dna_sources:
+  - person: rian-dutra
+    weight: 1.0
+    path: "knowledge/external/dna/persons/rian-dutra/DNA.yaml"
+    domains:
+      - behavioral-design
+      - ux-psychology
+      - cognitive-biases
+      - choice-architecture
+      - design-strategy
+      - consumer-behavior
+      - applied-psychology
+
+raiz: "knowledge/external/sources/rian-dutra/raw/"
+
+materiais_fonte:
+  - name: "Linguagem Secreta"
+    type: COURSE
+    modules: 3
+    files: 44
+    size_kb: 304
+    language: "pt-BR"
+    path: "inbox/Rian Dutra  - Linguagem Secreta/"
+
+element_counts:
+  L1_PHILOSOPHIES: 10
+  L2_MENTAL_MODELS: 10
+  L3_HEURISTICS: 10
+  L4_FRAMEWORKS: 7
+  L5_METHODOLOGIES: 2
+  total: 39

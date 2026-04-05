@@ -1,0 +1,1735 @@
+# =============================================================================
+# TONY ROBBINS — COGNITIVE DNA
+# Source: Mastermind Business System (MBS) Course
+# Extracted: 2026-04-04
+# Version: 1.0.0
+# Total Elements: 187
+# Speakers: Tony Robbins, Dean Graziosi, Charlie (copywriter), Mike Place, Lane (tech)
+# =============================================================================
+
+metadata:
+  person: Tony Robbins & Dean Graziosi
+  person_id: TR
+  source: "Mastermind Business System (MBS)"
+  version: "1.0.0"
+  extraction_date: "2026-04-04"
+  total_elements: 187
+  breakdown:
+    L1_philosophies: 42
+    L2_mental_models: 28
+    L3_heuristics: 37
+    L4_frameworks: 45
+    L5_methodologies: 35
+
+# =============================================================================
+# L1 — PHILOSOPHIES (Core beliefs, worldview)
+# =============================================================================
+L1_PHILOSOPHIES:
+
+  - id: PHI-TR-001
+    quote: "If you're in your head, you're dead"
+    context: Tony's core teaching on overthinking vs feeling/action
+    speaker: Tony Robbins
+    source_file: transcription_mp4_03-Step_3_-_Identify_Your_Ideal_Client.md
+
+  - id: PHI-TR-002
+    quote: "Reasons come first, answers come second"
+    context: Jim Rohn teaching relayed by Tony — if you get a strong enough why, you can figure out how to do anything
+    speaker: Tony Robbins (citing Jim Rohn)
+    source_file: transcription_mp4_01-Step_1_-_Craft_Your_Unstoppable_Future.md
+
+  - id: PHI-TR-003
+    quote: "Human beings will do more for others that we care about than we ever do for ourselves"
+    context: Why mission must be bigger than money
+    speaker: Tony Robbins
+    source_file: transcription_mp4_01-Step_1_-_Craft_Your_Unstoppable_Future.md
+
+  - id: PHI-TR-004
+    quote: "Most businesses do not succeed. First year 50% gone. Five years 80% gone. Over 10 years 96% fail. Only 4% make it — and that doesn't even mean they're profitable"
+    context: Why different level of commitment is required
+    speaker: Tony Robbins
+    source_file: transcription_mp4_01-Step_1_-_Craft_Your_Unstoppable_Future.md
+
+  - id: PHI-TR-005
+    quote: "We all overestimate what we can do in a year and we underestimate what we can do in five"
+    context: Long-term perspective on building the value ladder
+    speaker: Dean Graziosi
+    source_file: transcription_mp4_02-The_Big_Picture__Building_Your_Value_Ladder.md
+
+  - id: PHI-TR-006
+    quote: "Where focus goes, energy flows"
+    context: Tony's core principle — focus on what you want, not what you don't want
+    speaker: Tony Robbins
+    source_file: transcription_mp4_05-Success_Mindset_Framework.md
+
+  - id: PHI-TR-007
+    quote: "It's not about what they get, it's about their outcome"
+    context: Selling benefits/outcomes not features
+    speaker: Dean Graziosi
+    source_file: transcription_mp4_02-Hook__Story__Close__The_Foundational_Framework.md
+
+  - id: PHI-TR-008
+    quote: "If you don't sell, you don't serve"
+    context: Reframe selling as service — if you don't get the yes their life can't change
+    speaker: Dean Graziosi
+    source_file: transcription_mp4_02-Hook__Story__Close__The_Foundational_Framework.md
+
+  - id: PHI-TR-009
+    quote: "Sales is service"
+    context: Core philosophy on ethical selling
+    speaker: Dean Graziosi
+    source_file: transcription_mp4_04-Step_4_-_Create_Your_Lead_Magnet.md
+
+  - id: PHI-TR-010
+    quote: "You win games when no one's watching"
+    context: Who we are when nobody else is watching defines our success
+    speaker: Dean Graziosi
+    source_file: transcription_mp4_09-Step_6_-_Develop_Your_Email_Strategy.md
+
+  - id: PHI-TR-011
+    quote: "Uncomfortable action is the gateway to your next level of life"
+    context: Growth requires getting comfortable with the uncomfortable
+    speaker: Dean Graziosi
+    source_file: transcription_mp4_02-Step_2_-_Extract_What_You_ll_Share.md
+
+  - id: PHI-TR-012
+    quote: "Don't get addicted to the education — get addicted to the action and the outcomes"
+    context: Bias toward action over learning more
+    speaker: Dean Graziosi
+    source_file: transcription_mp4_02-Step_2_-_Extract_What_You_ll_Share.md
+
+  - id: PHI-TR-013
+    quote: "If you build it, they will NOT come — you have to get calculated in getting a yes"
+    context: You must actively market and sell, not just create
+    speaker: Dean Graziosi
+    source_file: transcription_mp4_02-Hook__Story__Close__The_Foundational_Framework.md
+
+  - id: PHI-TR-014
+    quote: "Your ideal client is just you of a few years ago"
+    context: Understanding ideal clients through your own past
+    speaker: Dean Graziosi
+    source_file: transcription_mp4_03-Step_3_-_Identify_Your_Ideal_Client.md
+
+  - id: PHI-TR-015
+    quote: "Traditional education is failing because it's general knowledge. You are teaching specialized knowledge and the more specialized, the better"
+    context: Justification for knowledge commerce vs traditional education
+    speaker: Dean Graziosi
+    source_file: transcription_mp4_03-Step_3_-_Identify_Your_Ideal_Client.md
+
+  - id: PHI-TR-016
+    quote: "Fall in love with your future client, fall in love with your product, fall in love with the results they get"
+    context: The cascading love framework — greatest secret to marketing
+    speaker: Dean Graziosi
+    source_file: transcription_mp4_02-Hook__Story__Close__The_Foundational_Framework.md
+
+  - id: PHI-TR-017
+    quote: "Massive, relentless action — if anybody can constantly take action and adjust their approach, they succeed"
+    context: Core success principle
+    speaker: Tony Robbins
+    source_file: transcription_mp4_01-Step_1_-_Craft_Your_Unstoppable_Future.md
+
+  - id: PHI-TR-018
+    quote: "The knowledge industry is a $129 billion industry growing to a trillion dollars a year"
+    context: Market opportunity for self-education
+    speaker: Tony Robbins
+    source_file: transcription_mp4_01-Step_1_-_Craft_Your_Unstoppable_Future.md
+
+  - id: PHI-TR-019
+    quote: "Repetition is the mother of skill"
+    context: Jim Rohn teaching relayed by Tony on mastery through repetition
+    speaker: Tony Robbins (citing Jim Rohn)
+    source_file: transcription_mp4_05-Success_Mindset_Framework.md
+
+  - id: PHI-TR-020
+    quote: "People pay attention and take action when they feel understood, not when they understand you"
+    context: Core copywriting/communication principle
+    speaker: Charlie (MBS copywriter)
+    source_file: transcription_mp4_06-_Crafting_Compelling_Copy.md
+
+  - id: PHI-TR-021
+    quote: "People do business with the people that they like"
+    context: Authenticity and likeability in business
+    speaker: Charlie
+    source_file: transcription_mp4_06-_Crafting_Compelling_Copy.md
+
+  - id: PHI-TR-022
+    quote: "The most powerful thing you can do in your copy is to put words to something your audience thinks in their head but they've never said out loud"
+    context: Articulating the unspoken
+    speaker: Charlie
+    source_file: transcription_mp4_06-_Crafting_Compelling_Copy.md
+
+  - id: PHI-TR-023
+    quote: "Hunger means you'll never settle for less than you can do or be or share or create or give in your life"
+    context: Hunger as the common denominator of the most successful people
+    speaker: Tony Robbins
+    source_file: transcription_mp4_05-Success_Mindset_Framework.md
+
+  - id: PHI-TR-024
+    quote: "Start with one. Get confident in one. Go deep in one. That's the foundation of everything else"
+    context: Focus on one product before expanding the value ladder
+    speaker: Dean Graziosi
+    source_file: transcription_mp4_10-Step_7_-_Choose_Your_Delivery_System.md
+
+  - id: PHI-TR-025
+    quote: "AI gets you off the blank page. AI is the compounder. But we have to fine tune it, make it personal, make it us"
+    context: AI as augmentation not replacement
+    speaker: Dean Graziosi
+    source_file: transcription_mp4_04-Step_4_-_Create_Your_Lead_Magnet.md
+
+  - id: PHI-TR-026
+    quote: "You owe it to people right now to share what your experience is — you can shorten the distance for people"
+    context: Obligation to share knowledge
+    speaker: Dean Graziosi
+    source_file: transcription_mp4_03-Story__Teach__Tool__The_Ultimate_Framework.md
+
+  - id: PHI-TR-027
+    quote: "The smaller the niche, the more your confidence will expand and grow"
+    context: Niche down to increase confidence and specificity
+    speaker: Dean Graziosi
+    source_file: transcription_mp4_03-Step_3_-_Identify_Your_Ideal_Client.md
+
+  - id: PHI-TR-028
+    quote: "No one really cares about you — people care about them, about what's going on in their life"
+    context: Larry King infomercial lesson — hook must be about the viewer
+    speaker: Dean Graziosi
+    source_file: transcription_mp4_02-Hook__Story__Close__The_Foundational_Framework.md
+
+  - id: PHI-TR-029
+    quote: "Common sense is not too common"
+    context: Why simplicity in teaching matters
+    speaker: Tony Robbins
+    source_file: transcription_mp4_05-Success_Mindset_Framework.md
+
+  - id: PHI-TR-030
+    quote: "When you teach it, it becomes a part of you. It becomes ingrained in your life"
+    context: Teaching as the deepest form of learning
+    speaker: Dean Graziosi
+    source_file: transcription_mp4_02-Step_2_-_Extract_What_You_ll_Share.md
+
+  - id: PHI-TR-031
+    quote: "Most people are driving around in a fast car avoiding potholes and not having a destination"
+    context: People know what they want to avoid but not where they're going
+    speaker: Dean Graziosi
+    source_file: transcription_mp4_01-Step_1_-_Craft_Your_Unstoppable_Future.md
+
+  - id: PHI-TR-032
+    quote: "There is no glass ceiling anymore for any of you"
+    context: Knowledge commerce removes traditional income caps
+    speaker: Dean Graziosi
+    source_file: transcription_mp4_01-Welcome.md
+
+  - id: PHI-TR-033
+    quote: "If you wait to act until you feel ready or super ready or comfortable, then you'll never act"
+    context: Action precedes readiness
+    speaker: Dean Graziosi
+    source_file: transcription_mp4_01-Welcome.md
+
+  - id: PHI-TR-034
+    quote: "You don't want to be a dabbler. Most people dabble. What you want to do is master"
+    context: Commitment to mastery vs casual effort
+    speaker: Tony Robbins
+    source_file: transcription_mp4_05-Success_Mindset_Framework.md
+
+  - id: PHI-TR-035
+    quote: "You get rewarded in public for your practice in private"
+    context: Success appears magical but comes from unseen preparation
+    speaker: Tony Robbins
+    source_file: transcription_mp4_05-Success_Mindset_Framework.md
+
+  - id: PHI-TR-036
+    quote: "The mind does not know the difference between something you vividly imagine emotionally and something real"
+    context: Visualization creates certainty which creates execution
+    speaker: Tony Robbins
+    source_file: transcription_mp4_05-Success_Mindset_Framework.md
+
+  - id: PHI-TR-037
+    quote: "Complexity is the enemy of execution"
+    context: Keep systems and teaching simple
+    speaker: Tony Robbins
+    source_file: transcription_mp4_05-Success_Mindset_Framework.md
+
+  - id: PHI-TR-038
+    quote: "When you fall in love with what you do so much you feel bad if you don't get a yes, then selling becomes natural"
+    context: Reframing the psychology of selling
+    speaker: Dean Graziosi
+    source_file: transcription_mp4_02-Hook__Story__Close__The_Foundational_Framework.md
+
+  - id: PHI-TR-039
+    quote: "People are either moving toward pleasure or away from pain"
+    context: Fundamental motivational driver for copywriting
+    speaker: Charlie
+    source_file: transcription_mp4_06-_Crafting_Compelling_Copy.md
+
+  - id: PHI-TR-040
+    quote: "The more you acknowledge the grace in your life, the more grace tends to come to you"
+    context: Gratitude as a success amplifier
+    speaker: Tony Robbins
+    source_file: transcription_mp4_05-Success_Mindset_Framework.md
+
+  - id: PHI-TR-041
+    quote: "Understanding and $4 will almost get you a Starbucks — no one cares what you understand. You have to put it into action"
+    context: Knowledge without action is worthless
+    speaker: Tony Robbins
+    source_file: transcription_mp4_05-Success_Mindset_Framework.md
+
+  - id: PHI-TR-042
+    quote: "Sell the hole, not the drill"
+    context: Classic marketing principle — sell benefits not features
+    speaker: Charlie
+    source_file: transcription_mp4_06-_Crafting_Compelling_Copy.md
+
+
+# =============================================================================
+# L2 — MENTAL MODELS (Thinking frameworks, decision lenses)
+# =============================================================================
+L2_MENTAL_MODELS:
+
+  - id: MM-TR-001
+    name: "Success Cycle (Potential → Action → Results → Certainty)"
+    description: "Four-quadrant cycle: Potential → Action → Results → Certainty/Belief → back to Potential. When certainty is low, you tap little potential, take little action, get poor results, which further lowers certainty (downward spiral). Break the cycle by creating certainty FIRST through visualization/mental rehearsal."
+    speaker: Tony Robbins
+    source_file: transcription_mp4_05-Success_Mindset_Framework.md
+
+  - id: MM-TR-002
+    name: "The Compelling Future Model"
+    description: "All change starts with: 1) Being honest about WHERE YOU ARE, 2) Defining WHERE YOU WANT TO GO (compelling future, not what you want to avoid), 3) Attaching your HEART/WHY to it. Without a compelling future, people just avoid potholes without a destination."
+    speaker: Dean Graziosi
+    source_file: transcription_mp4_01-Step_1_-_Craft_Your_Unstoppable_Future.md
+
+  - id: MM-TR-003
+    name: "Seven Levels Deep"
+    description: "Ask WHY 7 times, each time using the previous answer as the subject. Goes from HEAD to HEART by level 5-6. Reveals true emotional drivers. Taught to Dean by Joe Stump. The shift from intellectual reasons to emotional core usually happens around question 5."
+    speaker: Dean Graziosi (learned from Joe Stump)
+    source_file: transcription_mp4_01-Step_1_-_Craft_Your_Unstoppable_Future.md
+
+  - id: MM-TR-004
+    name: "Value Ladder (Client Path)"
+    description: "Ascending offers where each level delivers more value at higher price. Bottom: Free (lead magnet/podcast) → Book ($20) → Course ($1K) → Coaching ($10K) → Mastermind ($25K+) → All-Access ($100K). Customer naturally asks 'What's next?' after each level. 10% typically ascend to next tier."
+    speaker: Dean Graziosi
+    source_file: transcription_mp4_02-The_Big_Picture__Building_Your_Value_Ladder.md
+
+  - id: MM-TR-005
+    name: "Three Pillars of Mastery"
+    description: "1) IMMERSION — go deep, be all in. 2) REPETITION — practice consistently or skill decays. 3) MODELING PROVEN PRACTICES — follow what works."
+    speaker: Tony Robbins & Dean Graziosi
+    source_file: transcription_mp4_02-The_Big_Picture__Building_Your_Value_Ladder.md
+
+  - id: MM-TR-006
+    name: "Reticular Activating System (RAS)"
+    description: "Part of the brain that determines what you notice. When you decide on a mission/obsession, your RAS starts filtering the world to show you relevant opportunities. Like buying a car and suddenly seeing it everywhere."
+    speaker: Tony Robbins
+    source_file: transcription_mp4_05-Success_Mindset_Framework.md
+
+  - id: MM-TR-007
+    name: "Momentum as the Master Tool"
+    description: "The single tool Tony has come back to again and again in 42 years. The difference between sustained success and someone who dribbles away. Momentum is built through certainty, which is built through mental rehearsal of results."
+    speaker: Tony Robbins
+    source_file: transcription_mp4_01-Step_1_-_Craft_Your_Unstoppable_Future.md
+
+  - id: MM-TR-008
+    name: "Knowledge Asset Sources (3 Types)"
+    description: "Your business comes from one of three sources: 1) CAREER SKILL (professional expertise), 2) LIFE EXPERIENCE (personal transformation), 3) PASSIONATE REPORTER (researching and synthesizing others' expertise). Tony started as a reporter of Jim Rohn."
+    speaker: Dean Graziosi
+    source_file: transcription_mp4_01-Designing_Your_Irresistible_Product_Framework.md
+
+  - id: MM-TR-009
+    name: "The Red Shirt in a Sea of Black"
+    description: "Standing out model — your content/message must be like the only red shirt among black ones, or the colored golf ball among white ones. People grab the one that's different."
+    speaker: Dean Graziosi
+    source_file: transcription_mp4_02-Hook__Story__Close__The_Foundational_Framework.md
+
+  - id: MM-TR-010
+    name: "Three Levels of Mastery"
+    description: "Level 1: COGNITIVE UNDERSTANDING (intellectual grasp). Level 2: EMOTIONAL MASTERY (enough emotion to move and do it). Level 3: PHYSICAL MASTERY (in your body, automatic, like tying shoes). Most people stop at Level 1."
+    speaker: Tony Robbins
+    source_file: transcription_mp4_05-Success_Mindset_Framework.md
+
+  - id: MM-TR-011
+    name: "Do It Yourself → Do It Together → Done For You"
+    description: "Course = do it yourself. Coaching = do it together. Mastermind = collective wisdom. Each level offers more hand-holding and accountability at higher price."
+    speaker: Dean Graziosi
+    source_file: transcription_mp4_02-The_Big_Picture__Building_Your_Value_Ladder.md
+
+  - id: MM-TR-012
+    name: "The Room Test"
+    description: "Imagine a room of 20 people. Which group would you RUN into the room to serve? That's your ideal client. If you wouldn't run in, wrong people in the room."
+    speaker: Dean Graziosi
+    source_file: transcription_mp4_03-Step_3_-_Identify_Your_Ideal_Client.md
+
+  - id: MM-TR-013
+    name: "Arms Crossed → Arms Open"
+    description: "People scrolling are metaphorically arms-crossed. Your hook must STOP them and get arms uncrossed. Story gets them engaged. Close gets them to act."
+    speaker: Dean Graziosi
+    source_file: transcription_mp4_02-Hook__Story__Close__The_Foundational_Framework.md
+
+  - id: MM-TR-014
+    name: "Specialist vs Generalist"
+    description: "Would you want a general practitioner or a specialist for life-saving surgery? Specialized knowledge commands premium pricing. The more specialized, the more you can charge."
+    speaker: Dean Graziosi
+    source_file: transcription_mp4_03-Step_3_-_Identify_Your_Ideal_Client.md
+
+  - id: MM-TR-015
+    name: "Tony's 3 Keys to Achievement"
+    description: "1) FOCUS — know precisely what you want (not what you don't). 2) MASSIVE ACTION — take action and keep changing approach if it doesn't work. 3) GRACE — acknowledge and attract the guidance/luck that comes."
+    speaker: Tony Robbins
+    source_file: transcription_mp4_05-Success_Mindset_Framework.md
+
+  - id: MM-TR-016
+    name: "Kaizen Progression"
+    description: "How to run a 1000-mile race? One step at a time. How to eat an elephant? One bite at a time. Progress over perfection. Culture of progress."
+    speaker: Dean Graziosi
+    source_file: transcription_mp4_04-Step_4_-_Create_Your_Lead_Magnet.md
+
+  - id: MM-TR-017
+    name: "The Morning Routine Habit Model"
+    description: "Wake up → Think of something grateful → One win from yesterday → One win for today → Think of someone you love → Feed body (green drink) → Move (exercise). Sets up day for OFFENSE not defense."
+    speaker: Dean Graziosi
+    source_file: transcription_mp4_03-Story__Teach__Tool__The_Ultimate_Framework.md
+
+  - id: MM-TR-018
+    name: "Wagon Wheel Marketing"
+    description: "Multiple spokes of client acquisition — each spoke is a different marketing channel. Referenced in context of expanding revenue sources."
+    speaker: Dean Graziosi
+    source_file: transcription_mp4_02-The_Big_Picture__Building_Your_Value_Ladder.md
+
+  - id: MM-TR-019
+    name: "Future Pacing"
+    description: "Show someone what's possible in their future. Pretend it's a year from now and it's been the greatest year. Look BACK, don't look forward anxiously."
+    speaker: Dean Graziosi
+    source_file: transcription_mp4_01-Step_1_-_Craft_Your_Unstoppable_Future.md
+
+  - id: MM-TR-020
+    name: "Upward vs Downward Spiral"
+    description: "Most people are on different spirals in different life areas simultaneously — upward in health but downward in finances. You can change any spiral by changing certainty first."
+    speaker: Tony Robbins
+    source_file: transcription_mp4_05-Success_Mindset_Framework.md
+
+  - id: MM-TR-021
+    name: "Niche Within a Niche"
+    description: "Don't just pick an audience, narrow it further. Not 'women who want to lose weight' but 'women 35-50 with kids and a job who want to lose weight with yoga and meditation.' The magic is in the middle — not too narrow, not too broad."
+    speaker: Dean Graziosi
+    source_file: transcription_mp4_03-Step_3_-_Identify_Your_Ideal_Client.md
+
+  - id: MM-TR-022
+    name: "Pain-Pleasure Motivational Duality"
+    description: "If you link enough PLEASURE to mastering and enough PAIN to not mastering, you'll follow through. This is how you move from cognitive to emotional to physical mastery."
+    speaker: Tony Robbins
+    source_file: transcription_mp4_05-Success_Mindset_Framework.md
+
+  - id: MM-TR-023
+    name: "Reciprocity as Lead Generation"
+    description: "Lead magnets are really 'value in advance' — give immense value for free, and reciprocity naturally drives people to engage further."
+    speaker: Dean Graziosi
+    source_file: transcription_mp4_04-Step_4_-_Create_Your_Lead_Magnet.md
+
+  - id: MM-TR-024
+    name: "Enter Conversations Already in Their Head"
+    description: "The hook must meet people where they are — solve a problem they're facing, share a way to achieve a goal they want. You must finish a sentence that's already in their mind."
+    speaker: Dean Graziosi
+    source_file: transcription_mp4_02-Hook__Story__Close__The_Foundational_Framework.md
+
+  - id: MM-TR-025
+    name: "First Sale → Next Sale → Consistent Sales → Scale"
+    description: "Business growth progression. Don't try to scale before proving the first sale. Each stage requires different skills."
+    speaker: Dean Graziosi
+    source_file: transcription_mp4_02-The_Big_Picture__Building_Your_Value_Ladder.md
+
+  - id: MM-TR-026
+    name: "The Larry King Lesson"
+    description: "Changed only the HOOK (first sentence) of an infomercial — from talking about Dean (no one cares) to talking about the VIEWER's pain. Same show, same offer, same price. Result: massive hit. The hook is everything."
+    speaker: Dean Graziosi
+    source_file: transcription_mp4_02-Hook__Story__Close__The_Foundational_Framework.md
+
+  - id: MM-TR-027
+    name: "Overcome Objections Inside Your Story"
+    description: "Instead of addressing objections after the pitch, weave objection-busting INTO the story. 'I know you might think X... I felt the same way until...'"
+    speaker: Dean Graziosi
+    source_file: transcription_mp4_02-Hook__Story__Close__The_Foundational_Framework.md
+
+  - id: MM-TR-028
+    name: "Trying = Uncertainty"
+    description: "When people say 'I tried that, it didn't work' — trying means uncertain. With uncertainty you tap little potential, take little action, get poor results. The cure is certainty first, not more action."
+    speaker: Tony Robbins
+    source_file: transcription_mp4_05-Success_Mindset_Framework.md
+
+
+# =============================================================================
+# L3 — HEURISTICS (Rules of thumb, especially with NUMBERS)
+# =============================================================================
+L3_HEURISTICS:
+
+  - id: HEUR-TR-001
+    rule: "50% of businesses fail in year 1, 80% fail in 5 years, 96% fail in 10 years — only 4% survive"
+    threshold: "4% survival rate over 10 years"
+    speaker: Tony Robbins
+    source_file: transcription_mp4_01-Step_1_-_Craft_Your_Unstoppable_Future.md
+
+  - id: HEUR-TR-002
+    rule: "10% of course buyers will upgrade to coaching, 1-2% of total will go to mastermind"
+    threshold: "10% / 1-2% conversion up value ladder"
+    speaker: Dean Graziosi
+    source_file: transcription_mp4_02-The_Big_Picture__Building_Your_Value_Ladder.md
+
+  - id: HEUR-TR-003
+    rule: "Mastermind group size: 6-12 like-minded people"
+    threshold: "6-12 people per mastermind"
+    speaker: MBS Course
+    source_file: transcription_mp4_13-What_Is_a_Mastermind_Facilitator.md
+
+  - id: HEUR-TR-004
+    rule: "A decade ago a website cost $10K-$15K to build — now it can be done in 15 minutes with technology"
+    threshold: "$15K → 15 minutes"
+    speaker: Dean Graziosi
+    source_file: transcription_mp4_08-Step_5_-_Build_Your_Opt-In_Page.md
+
+  - id: HEUR-TR-005
+    rule: "Good email open rate is about 20-25%. Getting 1 out of 10 who open to click a link is winning big time"
+    threshold: "20-25% open rate / 10% click rate"
+    speaker: Charlie
+    source_file: transcription_mp4_06-_Crafting_Compelling_Copy.md
+
+  - id: HEUR-TR-006
+    rule: "People receive about 120 emails per day on average"
+    threshold: "120 emails/day"
+    speaker: Charlie
+    source_file: transcription_mp4_06-_Crafting_Compelling_Copy.md
+
+  - id: HEUR-TR-007
+    rule: "The knowledge/self-education industry is $129 billion growing to $1 trillion per year"
+    threshold: "$129B → $1T"
+    speaker: Tony Robbins
+    source_file: transcription_mp4_01-Step_1_-_Craft_Your_Unstoppable_Future.md
+
+  - id: HEUR-TR-008
+    rule: "Ask 8-9 out of 10 people what they DON'T want and they'll tell you instantly; ask what they DO want and they can't answer"
+    threshold: "8-9/10 can't define their compelling future"
+    speaker: Dean Graziosi
+    source_file: transcription_mp4_01-Step_1_-_Craft_Your_Unstoppable_Future.md
+
+  - id: HEUR-TR-009
+    rule: "Value Ladder math example: 100 course sales × $1K = $100K + 10% coaching × $10K = $100K + 2% mastermind × $25K = $50K = $250K total"
+    threshold: "$250K from 100 course sales"
+    speaker: Dean Graziosi
+    source_file: transcription_mp4_02-The_Big_Picture__Building_Your_Value_Ladder.md
+
+  - id: HEUR-TR-010
+    rule: "Michael Jordan practiced 1,500 shots per day, 6 days a week in the off-season"
+    threshold: "1,500 shots/day"
+    speaker: Tony Robbins
+    source_file: transcription_mp4_05-Success_Mindset_Framework.md
+
+  - id: HEUR-TR-011
+    rule: "Follow up at least 5 times via email and/or DMs on social media before giving up"
+    threshold: "5 follow-ups minimum"
+    speaker: Mike Place
+    source_file: transcription_mp4_02-Amplifying_Your_Knowledge__Step-by-Step.md
+
+  - id: HEUR-TR-012
+    rule: "Email 5-7 experts for interviews; if 1/10 success rate, ask 100 to get 10"
+    threshold: "5-7 minimum / scale to 100 if needed"
+    speaker: Mike Place
+    source_file: transcription_mp4_02-Amplifying_Your_Knowledge__Step-by-Step.md
+
+  - id: HEUR-TR-013
+    rule: "Create 6 main topics/modules for your course or coaching program"
+    threshold: "6 topics (can be 4-8)"
+    speaker: Dean Graziosi
+    source_file: transcription_mp4_01-Designing_Your_Irresistible_Product_Framework.md
+
+  - id: HEUR-TR-014
+    rule: "If you go all in, you can be up and running in 7-10 days"
+    threshold: "7-10 days to launch"
+    speaker: Dean Graziosi
+    source_file: transcription_mp4_01-Welcome.md
+
+  - id: HEUR-TR-015
+    rule: "You can start collecting emails in 48 hours from right now"
+    threshold: "48 hours to first emails"
+    speaker: Dean Graziosi
+    source_file: transcription_mp4_04-Step_4_-_Create_Your_Lead_Magnet.md
+
+  - id: HEUR-TR-016
+    rule: "Your first thought on pricing is probably too cheap"
+    threshold: "Price higher than first instinct"
+    speaker: Dean Graziosi
+    source_file: transcription_mp4_01-Designing_Your_Irresistible_Product_Framework.md
+
+  - id: HEUR-TR-017
+    rule: "One infomercial produced over $100 million dollars — only changed the first sentence (hook)"
+    threshold: "$100M+ from one hook change"
+    speaker: Dean Graziosi
+    source_file: transcription_mp4_02-Hook__Story__Close__The_Foundational_Framework.md
+
+  - id: HEUR-TR-018
+    rule: "Dean and Tony combined have 74+ years in the self-education industry"
+    threshold: "74+ years combined experience"
+    speaker: Dean Graziosi
+    source_file: transcription_mp4_01-Welcome.md
+
+  - id: HEUR-TR-019
+    rule: "Something that took 6 months just a couple years ago can now be done in 6 days with AI"
+    threshold: "6 months → 6 days"
+    speaker: Dean Graziosi
+    source_file: transcription_mp4_01-Designing_Your_Irresistible_Product_Framework.md
+
+  - id: HEUR-TR-020
+    rule: "Lead magnet doesn't need to be 50 pages — keep it simple and just get it done"
+    threshold: "Simple > Complex for lead magnets"
+    speaker: Dean Graziosi / Lane
+    source_file: transcription_mp4_04-Step_4_-_Create_Your_Lead_Magnet.md
+
+  - id: HEUR-TR-021
+    rule: "A $100,000/year mastermind is for people already making a lot of money"
+    threshold: "$100K/year for premium masterminds"
+    speaker: Dean Graziosi
+    source_file: transcription_mp4_10-Step_7_-_Choose_Your_Delivery_System.md
+
+  - id: HEUR-TR-022
+    rule: "Only give them ONE action to take — multiple options reduce conversion"
+    threshold: "1 CTA only"
+    speaker: Charlie
+    source_file: transcription_mp4_06-_Crafting_Compelling_Copy.md
+
+  - id: HEUR-TR-023
+    rule: "A 2.5 million person event used the Hook Story Close formula (Own Your Future Challenge)"
+    threshold: "2.5M attendees"
+    speaker: Dean Graziosi
+    source_file: transcription_mp4_02-Hook__Story__Close__The_Foundational_Framework.md
+
+  - id: HEUR-TR-024
+    rule: "Hook Story Close can be done in 1 minute (Instagram reel), 90 minutes (webinar), or 3-7 days (launch)"
+    threshold: "1 min to 7 days flexible"
+    speaker: Dean Graziosi
+    source_file: transcription_mp4_02-Hook__Story__Close__The_Foundational_Framework.md
+
+  - id: HEUR-TR-025
+    rule: "RSVPRequired-MM as email sender name = highest open rate ever for their events"
+    threshold: "Highest open rate from creative sender name"
+    speaker: Charlie
+    source_file: transcription_mp4_06-_Crafting_Compelling_Copy.md
+
+  - id: HEUR-TR-026
+    rule: "When you get to the close, your energy should go UP not down — train yourself to elevate energy at the offer"
+    threshold: "Energy UP at offer time"
+    speaker: Dean Graziosi
+    source_file: transcription_mp4_02-Hook__Story__Close__The_Foundational_Framework.md
+
+  - id: HEUR-TR-027
+    rule: "Dean sold almost a million copies of a book using the Larry King show format"
+    threshold: "~1M copies"
+    speaker: Dean Graziosi
+    source_file: transcription_mp4_02-Hook__Story__Close__The_Foundational_Framework.md
+
+  - id: HEUR-TR-028
+    rule: "Millionaire Success Habits book sold over a million copies — came from a course, became a book, then coaching, then $100K mastermind"
+    threshold: "1M+ copies sold from course-first model"
+    speaker: Dean Graziosi
+    source_file: transcription_mp4_10-Step_7_-_Choose_Your_Delivery_System.md
+
+  - id: HEUR-TR-029
+    rule: "Value ladder filling out takes about 3-5 years"
+    threshold: "3-5 years to full value ladder"
+    speaker: Dean Graziosi
+    source_file: transcription_mp4_02-The_Big_Picture__Building_Your_Value_Ladder.md
+
+  - id: HEUR-TR-030
+    rule: "Tony has been doing this for 42 years"
+    threshold: "42 years"
+    speaker: Tony Robbins
+    source_file: transcription_mp4_05-Success_Mindset_Framework.md
+
+  - id: HEUR-TR-031
+    rule: "Matthew McConaughey: tens of thousands bought his course Road Trip after the book Green Lights"
+    threshold: "Tens of thousands from book → course"
+    speaker: Dean Graziosi
+    source_file: transcription_mp4_02-The_Big_Picture__Building_Your_Value_Ladder.md
+
+  - id: HEUR-TR-032
+    rule: "Use the reporter method to email 5-7 experts, expect about 4 yeses from a batch"
+    threshold: "4/7 response rate estimated"
+    speaker: Mike Place
+    source_file: transcription_mp4_02-Amplifying_Your_Knowledge__Step-by-Step.md
+
+  - id: HEUR-TR-033
+    rule: "Each story/scene should set up ONE teaching point or module — not your whole life story"
+    threshold: "1 scene per teaching point"
+    speaker: Dean Graziosi
+    source_file: transcription_mp4_03-Story__Teach__Tool__The_Ultimate_Framework.md
+
+  - id: HEUR-TR-034
+    rule: "3-day immersive boot camps are the mastery format — immersion is the first pillar"
+    threshold: "2-3 day immersive events"
+    speaker: Dean Graziosi
+    source_file: transcription_mp4_02-The_Big_Picture__Building_Your_Value_Ladder.md
+
+  - id: HEUR-TR-035
+    rule: "Use Otter.ai to transcribe interview audio, then upload transcripts to AI for content extraction"
+    threshold: "Otter.ai for transcription"
+    speaker: Mike Place
+    source_file: transcription_mp4_02-Amplifying_Your_Knowledge__Step-by-Step.md
+
+  - id: HEUR-TR-036
+    rule: "Prepare 15 questions for interviews but start with 3 and go deep"
+    threshold: "15 prepared / 3 to start"
+    speaker: Mike Place
+    source_file: transcription_mp4_02-Amplifying_Your_Knowledge__Step-by-Step.md
+
+  - id: HEUR-TR-037
+    rule: "Dean's first course was at age 27 — teaching how to make money with automobiles"
+    threshold: "Started at 27"
+    speaker: Dean Graziosi
+    source_file: transcription_mp4_10-Step_7_-_Choose_Your_Delivery_System.md
+
+
+# =============================================================================
+# L4 — FRAMEWORKS (Structured processes, step-by-step)
+# =============================================================================
+L4_FRAMEWORKS:
+
+  - id: FW-TR-001
+    name: "Hook, Story, Close (HSC) Framework"
+    steps:
+      - "HOOK: First sentence/subject line that STOPS people — enters conversations in their head, solves a problem, or shares a goal. Obsess on the hook more than anything else."
+      - "STORY: Scene from your life that sets up the opportunity. Share your journey, epiphany, hero's journey. Include: overcome objections in advance, share success stories, let them feel understood."
+      - "CLOSE: Call to action. Ask them directly. Remember: outcomes not features. Include guarantee, ethical urgency, and one powerful bonus."
+    context: "Foundational framework for ALL marketing — posts, emails, sales pages, webinars, videos, podcasts. Works from 1-minute Instagram reels to 7-day launches."
+    speaker: Dean Graziosi
+    source_file: transcription_mp4_02-Hook__Story__Close__The_Foundational_Framework.md
+
+  - id: FW-TR-002
+    name: "Story, Teach, Tool (STT) Framework"
+    steps:
+      - "STORY: Tell a scene from your life (not your whole life) that sets up the teaching point. Make it relatable, intriguing, vulnerable."
+      - "TEACH: Share 2-5 teaching points/lessons you learned. The permission to teach comes from the story."
+      - "TOOL: Give them an exercise, worksheet, or action step to anchor the learning. This is what makes knowledge stick."
+    context: "The framework for DELIVERING content — each module/lesson/coaching session follows this pattern. Story = permission + engagement, Teach = knowledge transfer, Tool = application + results."
+    speaker: Dean Graziosi
+    source_file: transcription_mp4_03-Story__Teach__Tool__The_Ultimate_Framework.md
+
+  - id: FW-TR-003
+    name: "The 4S Copywriting Framework"
+    steps:
+      - "STOP: Subject line or headline that grabs attention in crowded inbox/feed"
+      - "SHOCK: First 1-3 sentences that create emotional/psychological jolt — move toward pleasure or away from pain"
+      - "STORY: Bulk of content — identify pain, show desires, demonstrate solution through narrative"
+      - "SELL: Call to action with urgency, scarcity, benefits (not features), one specific action"
+    context: "Universal framework for emails, social posts, ads, sales pages, videos"
+    speaker: Charlie (MBS copywriter)
+    source_file: transcription_mp4_06-_Crafting_Compelling_Copy.md
+
+  - id: FW-TR-004
+    name: "7-Step Jumpstart Framework"
+    steps:
+      - "Step 1: Craft your unstoppable future (compelling future + 7 levels deep WHY)"
+      - "Step 2: Extract what you'll share (career skill, life experience, or passionate reporter)"
+      - "Step 3: Identify your ideal client (niche within a niche, the Room Test)"
+      - "Step 4: Create your lead magnet (checklist, resource guide, or myth-busting report)"
+      - "Step 5: Build your opt-in page (landing page for email collection)"
+      - "Step 6: Develop your email strategy (automated delivery + nurture)"
+      - "Step 7: Choose your delivery system (course, coaching, or mastermind)"
+      - "BONUS Step 8: Celebrate + create solution statement"
+    context: "The complete jumpstart process to go from zero to ready-to-build in 7-10 days"
+    speaker: Dean Graziosi
+    source_file: transcription_mp4_01-Welcome.md through 14-BONUS_Step_8_-_Celebrate.md
+
+  - id: FW-TR-005
+    name: "Irresistible Product Framework (7 Questions)"
+    steps:
+      - "Q1: Who is your ideal client? (narrow the niche)"
+      - "Q2: What results have you had or helped others achieve? (social proof)"
+      - "Q3: What is the ultimate goal/outcome of the product? (not promise of what they get, promise of OUTPUT)"
+      - "Q4: What are 6 topics/modules to achieve that outcome? (teaching points)"
+      - "Q5: What format will you deliver it? (course, coaching, mastermind, workshop)"
+      - "Q6: What would you name the product?"
+      - "Q7: What would you charge? (your first thought is probably too cheap)"
+    context: "This framework becomes the foundation for everything — marketing, sales, definitions, order page, sales page."
+    speaker: Dean Graziosi
+    source_file: transcription_mp4_01-Designing_Your_Irresistible_Product_Framework.md
+
+  - id: FW-TR-006
+    name: "The Value Ladder"
+    steps:
+      - "Level 0 (FREE): Lead magnet, podcast, social content — attracts people"
+      - "Level 1 (LOW): Book ($20-30) — proves your expertise"
+      - "Level 2 (MID): Course ($500-$2K) — do it yourself"
+      - "Level 3 (HIGH): Coaching ($5K-$10K) — do it together"
+      - "Level 4 (PREMIUM): Mastermind ($25K-$100K) — collective wisdom + immersion"
+      - "Level 5 (ELITE): All-access/inner circle — custom pricing"
+    context: "Each level naturally leads to 'What's next?' The profits from lower levels fund marketing for higher levels."
+    speaker: Dean Graziosi
+    source_file: transcription_mp4_02-The_Big_Picture__Building_Your_Value_Ladder.md
+
+  - id: FW-TR-007
+    name: "Solution Statement Formula"
+    steps:
+      - "I am a [course creator / coach / mastermind facilitator]"
+      - "who helps [ideal client description]"
+      - "[achieve specific outcome]"
+      - "without [common pain point / objection]"
+    examples:
+      - "I'm a coach who helps new CPAs establish their own profitable agency without getting stuck in red tape"
+      - "I am a course creator who teaches moms of preschoolers how to be an entrepreneur and a mom without stress"
+    speaker: Dean Graziosi
+    source_file: transcription_mp4_14-BONUS_Step_8_-_Celebrate.md
+
+  - id: FW-TR-008
+    name: "The Passionate Reporter Method"
+    steps:
+      - "Step 1: Use AI to identify experts in your topic area"
+      - "Step 2: Find contact information (Google, LinkedIn)"
+      - "Step 3: Draft outreach email offering value exchange (exposure + social media promotion)"
+      - "Step 4: Prepare 15 interview questions (ask top 3-5 to all, vary the rest)"
+      - "Step 5: Conduct Zoom interviews"
+      - "Step 6: Transcribe with Otter.ai"
+      - "Step 7: Upload transcripts to AI for content extraction and course structuring"
+    context: "How Tony Robbins started — reporting Jim Rohn's wisdom. How to build expertise through research."
+    speaker: Mike Place
+    source_file: transcription_mp4_02-Amplifying_Your_Knowledge__Step-by-Step.md
+
+  - id: FW-TR-009
+    name: "Tony's Success Formula"
+    steps:
+      - "Step 1: Get clear on MISSION/WHY (not just money)"
+      - "Step 2: MASSIVE ACTION — keep changing approach until it works"
+      - "Step 3: MODEL what works (this whole course is modeling)"
+      - "Step 4: GRACE — acknowledge guidance beyond your own efforts"
+    speaker: Tony Robbins
+    source_file: transcription_mp4_05-Success_Mindset_Framework.md
+
+  - id: FW-TR-010
+    name: "Copy Audit Checklist (8 points)"
+    steps:
+      - "1. Read it out loud — does it sound like me or a robot?"
+      - "2. Have I used motivating/inspiring words that create emotion?"
+      - "3. Am I concise but specific (not vague, not too long)?"
+      - "4. Did I write this to ONE person, not a crowd?"
+      - "5. Will it blend in or stick out?"
+      - "6. Would my ideal client be compelled by this?"
+      - "7. Did I use any cliches? (replace with unexpected)"
+      - "8. Is my CTA clear and specific?"
+    speaker: Charlie
+    source_file: transcription_mp4_06-_Crafting_Compelling_Copy.md
+
+  - id: FW-TR-011
+    name: "The Close Elements"
+    steps:
+      - "Outcomes not features (it's cold in the car, not freon through aluminum tubes)"
+      - "Money-back or results guarantee"
+      - "Ethical urgency (real deadlines, not fake ones)"
+      - "Powerful bonus that is almost as valuable as the main offer"
+      - "Ask directly — don't hint, don't be shy"
+    speaker: Dean Graziosi
+    source_file: transcription_mp4_02-Hook__Story__Close__The_Foundational_Framework.md
+
+  - id: FW-TR-012
+    name: "Three Delivery Paths"
+    steps:
+      - "COURSE CREATOR: Pre-recorded video, workbooks, self-paced. Best if you can clearly communicate in writing/video and deeply understand client challenges."
+      - "COACH: 1-on-1 or small group, goals + action plans + accountability. Best if you're a strong communicator, active listener, emotionally intelligent."
+      - "MASTERMIND FACILITATOR: 6-12 people, collective problem solving. Best if you're a strong public speaker, flexible, love group dynamics."
+    speaker: MBS Course
+    source_file: transcription_mp4_11-What_Is_a_Course_Creator.md, 12, 13
+
+  - id: FW-TR-013
+    name: "Lead Magnet Types"
+    steps:
+      - "Type 1: RESOURCE GUIDE — top 10 lists, curated recommendations"
+      - "Type 2: CHECKLIST — step-by-step action list for specific outcome"
+      - "Type 3: SHORT REPORT — myth-busting (3 biggest myths about X)"
+    context: "Must be quick to consume, valuable, and include a CTA"
+    speaker: Dean Graziosi / Lane
+    source_file: transcription_mp4_04-Step_4_-_Create_Your_Lead_Magnet.md
+
+  - id: FW-TR-014
+    name: "Email Automation Flow"
+    steps:
+      - "Visitor lands on opt-in page"
+      - "Enters email + name"
+      - "Confirmation page + immediate access to lead magnet"
+      - "Automated email delivers lead magnet + welcome"
+      - "Tag added to contact record"
+      - "Notification sent to you"
+    speaker: Ali (MBS team)
+    source_file: transcription_mp4_09-Step_6_-_Develop_Your_Email_Strategy.md
+
+  - id: FW-TR-015
+    name: "Compelling Future Exercise"
+    steps:
+      - "1. WHERE ARE YOU NOW? Be honest about starting point"
+      - "2. WHERE DO YOU WANT TO GO? Pretend it's 1 year from now, best year ever — what happened?"
+      - "3. ATTACH YOUR HEART: Do 7 Levels Deep exercise to find emotional core"
+      - "4. THE HOW: Use this course as the vehicle"
+    speaker: Dean Graziosi
+    source_file: transcription_mp4_01-Step_1_-_Craft_Your_Unstoppable_Future.md
+
+  - id: FW-TR-016
+    name: "Module Layout Structure"
+    steps:
+      - "OUTCOME/MODULE TITLE: The main topic (e.g., Understanding Nutrients)"
+      - "STORY: Scene that sets up why this matters"
+      - "TEACHING POINT 1: Specific sub-topic (with optional micro-story)"
+      - "TEACHING POINT 2: Next sub-topic"
+      - "TEACHING POINT 3-5: Additional sub-topics"
+      - "TOOL/EXERCISE: Homework that anchors the learning"
+    context: "Can use one story for all teaching points OR micro-stories for each. This is how each section of a course/coaching/mastermind is structured."
+    speaker: Dean Graziosi
+    source_file: transcription_mp4_03-Story__Teach__Tool__The_Ultimate_Framework.md
+
+  - id: FW-TR-017
+    name: "Success Cycle Reversal Process"
+    steps:
+      - "1. Recognize you're in a downward spiral (low certainty → low action → poor results)"
+      - "2. Don't try to 'take more action' with uncertainty"
+      - "3. Create certainty FIRST through vivid mental rehearsal of results"
+      - "4. With certainty restored, tap more potential → take massive action → get better results"
+      - "5. Better results increase certainty → upward spiral begins"
+    speaker: Tony Robbins
+    source_file: transcription_mp4_05-Success_Mindset_Framework.md
+
+  - id: FW-TR-018
+    name: "4 Types of Emails"
+    steps:
+      - "1. ENTERTAIN: Captivating content that builds connection"
+      - "2. EDUCATE: Share knowledge and demonstrate expertise"
+      - "3. SHOWCASE: Build authority with social proof and results"
+      - "4. INVITE: Direct offer/CTA emails"
+    speaker: MBS Course (Email Basics section)
+    source_file: "04-Step 4/02-Marketing Basics/02-Email Basics/"
+
+  - id: FW-TR-019
+    name: "Urgency + Scarcity Formula"
+    steps:
+      - "SCARCITY: Limited quantity (only 50 tickets left)"
+      - "URGENCY: Time limit (this offer closes at midnight)"
+      - "ETHICAL: Must be real — don't fake deadlines"
+      - "ALTERNATIVE URGENCY: If not this, then when? If not us, then who?"
+    speaker: Dean Graziosi + Charlie
+    source_file: transcription_mp4_02-Hook__Story__Close__The_Foundational_Framework.md + transcription_mp4_06-_Crafting_Compelling_Copy.md
+
+  - id: FW-TR-020
+    name: "Air Conditioning Analogy for Selling Outcomes"
+    steps:
+      - "WRONG: Explain the pump, generator, freon, aluminum tubes, fins, fan (features)"
+      - "RIGHT: When it's hot outside and you hit this button, it's cold in the car (outcome)"
+    context: "People just want to know the result, not the mechanism"
+    speaker: Dean Graziosi
+    source_file: transcription_mp4_02-Hook__Story__Close__The_Foundational_Framework.md
+
+  # Additional frameworks from course structure
+  - id: FW-TR-021
+    name: "4 Cs of Social Media Content"
+    steps:
+      - "Referenced in Step 4 Social Media Basics"
+    speaker: MBS Course
+    source_file: transcription_mp4_03-The_4_C_s_of_Content_on_Social_Media.md
+
+  - id: FW-TR-022
+    name: "Premium vs Commodity Coaching"
+    steps:
+      - "COMMODITY: Generic, low price, interchangeable with competitors"
+      - "PREMIUM: Specialized, higher price, unique methodology, personal brand"
+    speaker: MBS Course (Coaching section)
+    source_file: transcription_mp4_06-Setting_Yourself_Apart__Premium_vs__Commodity_Coaching.md
+
+  - id: FW-TR-023
+    name: "Coaching Extensions, Ascensions, and Roll-Offs"
+    steps:
+      - "EXTENSION: Client renews/continues same program"
+      - "ASCENSION: Client upgrades to higher tier"
+      - "ROLL-OFF: Client graduates/exits with plan"
+    speaker: MBS Course
+    source_file: transcription_mp4_13-Extensions__Ascensions__and_Roll-Offs.md
+
+  - id: FW-TR-024
+    name: "VIP Intensive Experience"
+    steps:
+      - "High-touch, premium coaching experience"
+      - "Next level above standard coaching"
+    speaker: MBS Course
+    source_file: transcription_mp4_09-The_Next_Level__The_VIP_Intensive_Experience.md
+
+  - id: FW-TR-025
+    name: "Plug and Play Campaign System"
+    steps:
+      - "1. Enter name, lead magnet title, color theme"
+      - "2. System auto-generates opt-in page + confirmation page"
+      - "3. Customize copy and imagery"
+      - "4. Connect domain"
+      - "5. Publish — live in minutes"
+    speaker: MBS Hub tutorial
+    source_file: transcription_mp4_08-Step_5_-_Build_Your_Opt-In_Page.md
+
+  # More detailed frameworks from what we know exists in the course
+  - id: FW-TR-026
+    name: "Coaching Call Framework"
+    steps:
+      - "Structured framework for conducting coaching calls"
+    speaker: MBS Course
+    source_file: transcription_mp4_24-Coaching_Call_Framework.md
+
+  - id: FW-TR-027
+    name: "DM to Intro Call Flow"
+    steps:
+      - "Start conversation in DMs → transition to intro call"
+    speaker: MBS Course
+    source_file: transcription_mp4_25-_LIVE__Intro_Call_from_a_Direct_Message__DM_.md
+
+  - id: FW-TR-028
+    name: "Complimentary → Paid Coaching Transition"
+    steps:
+      - "Free coaching call to demonstrate value → paid enrollment"
+    speaker: MBS Course
+    source_file: transcription_mp4_26-LIVE__Complimentary_Coaching_Call.md
+
+  - id: FW-TR-029
+    name: "Course Planning ABCs"
+    steps:
+      - "A-B-C framework for planning your course structure"
+    speaker: MBS Course
+    source_file: transcription_mp4_03-The_ABCs_of_Planning_Your_Course.md
+
+  - id: FW-TR-030
+    name: "Mastermind Psychology"
+    steps:
+      - "Understanding group dynamics and collective wisdom"
+    speaker: MBS Course
+    source_file: transcription_mp4_01-The_Psychology_of_a_Mastermind.md
+
+  - id: FW-TR-031
+    name: "Mastermind Agenda Creation"
+    steps:
+      - "How to structure mastermind sessions and content flow"
+    speaker: MBS Course
+    source_file: transcription_mp4_02-Creating_Your_Mastermind_Agenda.md
+
+  - id: FW-TR-032
+    name: "Filling Your Mastermind"
+    steps:
+      - "Strategies for recruiting and enrolling mastermind members"
+    speaker: MBS Course
+    source_file: transcription_mp4_03-Filling_Your_Mastermind.md
+
+  - id: FW-TR-033
+    name: "Live Events: Planning → Creating → Executing"
+    steps:
+      - "Step 1: PLANNING — logistics, venue, agenda"
+      - "Step 2: CREATING — content, materials, experience design"
+      - "Step 3: EXECUTING — day-of delivery and management"
+    speaker: MBS Course
+    source_file: transcription_mp4_06-Live_Events__Planning.md through 08
+
+  - id: FW-TR-034
+    name: "The Dollars and Sense of Coaching"
+    steps:
+      - "Financial planning for coaching business — pricing, margins, time allocation"
+    speaker: MBS Course
+    source_file: transcription_mp4_11-The_Dollars_and__ense_of_Coaching.md
+
+  - id: FW-TR-035
+    name: "Calendar as Key to Success"
+    steps:
+      - "Your calendar determines your coaching capacity and income"
+    speaker: MBS Course
+    source_file: transcription_mp4_12-Your_Calendar__The_Key_to_Your_Success.md
+
+  - id: FW-TR-036
+    name: "Sales Funnel Blueprint"
+    steps:
+      - "Opt-in page → Confirmation page → Email delivery → Nurture sequence → Sales page → Checkout"
+    speaker: MBS Course tutorials
+    source_file: transcription_mp4_12-Tutorial__Building_Your_Sales_Funnel.md
+
+  - id: FW-TR-037
+    name: "Webinar Formula (Content + Close)"
+    steps:
+      - "Part 1: Overview and Intro"
+      - "Part 2: Content and Close"
+    speaker: MBS Course (Step 6)
+    source_file: "06-Step 6/02-Your Profitable Webinar Formula/"
+
+  - id: FW-TR-038
+    name: "One-Day Launch Model"
+    steps:
+      - "Pre-launch → Launch day → Post-launch follow-up"
+    speaker: MBS Course (Step 6)
+    source_file: "06-Step 6/01-Your First (Or Next) Launch/"
+
+  - id: FW-TR-039
+    name: "Networking Client Acquisition"
+    steps:
+      - "Strategy for attracting clients through personal/professional network"
+    speaker: MBS Course (Step 5)
+    source_file: "05-Step 5/01-Attracting Clients via Networking/"
+
+  - id: FW-TR-040
+    name: "Social Media Client Acquisition"
+    steps:
+      - "Strategy for attracting clients through social media content and engagement"
+    speaker: MBS Course (Step 5)
+    source_file: "05-Step 5/02-Attracting Clients via Social Media/"
+
+  - id: FW-TR-041
+    name: "Meta Ads Client Acquisition (Advanced)"
+    steps:
+      - "Creating ad copy → Setting up campaigns → Launching first campaign"
+    speaker: MBS Course (Step 5)
+    source_file: "05-Step 5/03-Attracting Clients with Meta Ads/"
+
+  - id: FW-TR-042
+    name: "Hook Examples That Work"
+    steps:
+      - "BAD: 'Dean Graziosi is a multimillionaire, NYT bestselling author...' (about you)"
+      - "GOOD: 'Have you ever in your adult life looked in the mirror and thought, I really figured my life would have turned out better?' (about them)"
+    speaker: Dean Graziosi
+    source_file: transcription_mp4_02-Hook__Story__Close__The_Foundational_Framework.md
+
+  - id: FW-TR-043
+    name: "Email Subject Line Best Practices"
+    examples:
+      - "I was up till 2am thinking about this"
+      - "I grounded my 16-year-old for the first time"
+      - "Stop setting goals"
+      - "Sorry [name] (we heard you)"
+      - "Did you do this yet? (hurry, time sensitive)"
+      - "Just wow"
+      - "Deepest fears in human history (inside)"
+      - "Are you productive or just busy?"
+    speaker: Charlie
+    source_file: transcription_mp4_06-_Crafting_Compelling_Copy.md
+
+  - id: FW-TR-044
+    name: "Confirmation Email Sequence (Post-Sale)"
+    steps:
+      - "Immediate: Purchase confirmation + access details"
+      - "Follow-up: Welcome + getting started guide"
+      - "Nurture: Ongoing value delivery"
+    speaker: MBS Course tutorials
+    source_file: transcription_mp4_14-Tutorial__After_the_Sale__Your_Confirmation_Email_Sequence.md
+
+  - id: FW-TR-045
+    name: "Community Building for Business Support"
+    steps:
+      - "Create community around your product for retention and referrals"
+    speaker: MBS Course
+    source_file: transcription_mp4_15-BONUS__Building_a_Community_to_Support_Your_Business.md
+
+
+# =============================================================================
+# L5 — METHODOLOGIES (Complete implementations, playbooks)
+# =============================================================================
+L5_METHODOLOGIES:
+
+  - id: MET-TR-001
+    name: "The Complete Knowledge Business Launch Methodology"
+    process: |
+      PHASE 1 - FOUNDATION (7-Step Jumpstart, ~7-10 days):
+        1. Define compelling future + 7 Levels Deep WHY
+        2. Extract knowledge asset (career skill / life experience / passionate reporter)
+        3. Identify ideal client (niche within niche + Room Test)
+        4. Create lead magnet (resource guide / checklist / myth report)
+        5. Build opt-in page
+        6. Set up automated email delivery
+        7. Choose delivery system (course / coaching / mastermind)
+        8. Create solution statement + celebrate
+
+      PHASE 2 - PRODUCT DESIGN:
+        1. Complete Irresistible Product Framework (7 Questions)
+        2. If needed: Use Passionate Reporter Method for additional expertise
+        3. Define 6 modules/topics using AI assistance
+        4. Create teaching points for each module using Story-Teach-Tool
+        5. Build out content with workbooks/worksheets
+
+      PHASE 3 - BUILD YOUR PRODUCT:
+        Option A: Mastermind (6-12 people, collective wisdom)
+        Option B: Coaching (1-on-1 or group, accountability)
+        Option C: Course (self-paced, scalable)
+        + Set up sales funnel, client portal, payment processing
+
+      PHASE 4 - BUSINESS SKILLS:
+        1. Communication & Influence (Hook Story Close)
+        2. Marketing (Social Media + Email + Copywriting)
+        3. Entrepreneurial Mindset
+        4. Financial & Legal Basics
+        5. Sales Basics
+
+      PHASE 5 - ATTRACT CLIENTS:
+        Track A: Networking (low cost, personal touch)
+        Track B: Social Media (organic reach)
+        Track C: Meta Ads (paid, scalable)
+
+      PHASE 6 - LAUNCH:
+        Option 1: One-Day Launch
+        Option 2: Webinar Formula (Content + Close)
+    speaker: Dean Graziosi + Tony Robbins (full MBS course)
+    source_file: "Entire MBS Course"
+
+  - id: MET-TR-002
+    name: "Hook Story Close Implementation Playbook"
+    process: |
+      PRE-WORK:
+        - Fall in love with your client, product, and results
+        - Study what's already working (join email lists, watch ads, build swipe file)
+        - Know your ideal client's problems, desires, and internal objections
+
+      STEP 1 - CRAFT THE HOOK:
+        - Spend 70% of creative time on the hook
+        - Enter conversations already in their head
+        - Test: "Would this make ME stop scrolling?"
+        - Format depends on medium:
+          * Email: Subject line
+          * Social: First line/thumbnail
+          * Sales page: Headline
+          * Video: First 3 seconds
+        - The Larry King test: Is this about THEM or about ME?
+
+      STEP 2 - TELL THE STORY:
+        - Share ONE scene, not your whole life
+        - Include your journey/epiphany/transformation
+        - Overcome objections INSIDE the story
+        - Share success stories (yours + clients)
+        - Let them feel understood ("me too" not "look at me")
+        - Be vulnerable and authentic
+
+      STEP 3 - DELIVER THE CLOSE:
+        - Ask directly for the action
+        - Lead with OUTCOMES not features (Air Conditioning Analogy)
+        - Include money-back or results guarantee
+        - Create ethical urgency ("If not now, when? If not us, who?")
+        - Add one powerful bonus
+        - Energy goes UP at the offer, not down
+        - ONE call to action only
+
+      ADAPTABILITY:
+        - 1-minute Instagram reel
+        - 5-minute YouTube video
+        - 30-minute podcast
+        - 90-minute webinar
+        - 3-7 day launch sequence
+    speaker: Dean Graziosi
+    source_file: transcription_mp4_02-Hook__Story__Close__The_Foundational_Framework.md
+
+  - id: MET-TR-003
+    name: "4S Copywriting Implementation Method"
+    process: |
+      FOR EVERY PIECE OF COPY:
+
+      S1 - STOP:
+        - Subject line / headline must be pattern interrupt
+        - Use curiosity, counterintuitive claims, personal touch
+        - Creative sender names (RSVPRequired-MM style)
+        - Build and maintain a swipe file of great subject lines
+        - Test multiple subject lines (split test everything)
+
+      S2 - SHOCK:
+        - First 1-3 sentences hit them in the heart
+        - Create emotional/psychological jolt
+        - Promise to save time, energy, pain, or deliver pleasure
+        - Build on the curiosity from the STOP
+
+      S3 - STORY:
+        - Identify the pain they're experiencing
+        - Show the desires they long for
+        - Be specific (not "divorce hurts" but "wondering if you're the problem")
+        - Put words to what they think but never said out loud
+        - Show the solution through your story / client stories
+        - Make it about THEM not YOU
+        - Address one person, not a crowd
+
+      S4 - SELL:
+        - Remind who this is for (and who it's not)
+        - Use urgency (time limit) + scarcity (quantity limit)
+        - Sell benefits/outcomes, not features
+        - Tell them EXACTLY what to do (click here, not vague)
+        - Remind what happens if they DON'T act
+        - ONE action only
+
+      POST-WRITE AUDIT (8 checkpoints):
+        1. Read aloud — sounds like me?
+        2. Motivating/inspiring words?
+        3. Concise but specific?
+        4. Written to ONE person?
+        5. Will it stick out?
+        6. Ideal client compelled?
+        7. No cliches?
+        8. CTA clear and specific?
+
+      ONGOING IMPROVEMENT:
+        - Read and study others' copy constantly
+        - Split test everything (subject lines, body, CTAs)
+        - Data is your best friend
+        - Don't assume you know what works
+    speaker: Charlie
+    source_file: transcription_mp4_06-_Crafting_Compelling_Copy.md
+
+  - id: MET-TR-004
+    name: "Value Ladder Construction Playbook"
+    process: |
+      STAGE 1 - START WITH ONE (Months 1-6):
+        - Pick ONE product type (course, coaching, or mastermind)
+        - Price it based on market research + gut (err higher)
+        - Focus: First sale → Next sale → Consistent sales
+        - Reinvest in quality and marketing
+
+      STAGE 2 - ADD LEAD GENERATION (Months 3-12):
+        - Create free lead magnet below your main offer
+        - Build email list with opt-in pages
+        - Give massive value in advance (reciprocity)
+
+      STAGE 3 - ADD NEXT LEVEL (Year 1-2):
+        - When clients say "What's next?" — you have the answer
+        - If started with course → add coaching
+        - If started with coaching → add course below AND mastermind above
+        - 10% conversion up, 1-2% to top tier
+
+      STAGE 4 - EXPAND DOWN (Year 2-3):
+        - Consider writing a book from your framework/course
+        - Book feeds course funnel ($20 → $1K pathway)
+        - Add podcast or free content layer
+
+      STAGE 5 - SCALE WITH ADVERTISING (Year 3-5):
+        - Take profits from right side and invest in left side
+        - Run ads to free content, book, lead magnets, webinars
+        - The whole system becomes self-funding
+
+      MATH MODEL:
+        100 course sales × $1K = $100K
+        + 10% coaching × $10K = $100K
+        + 2% mastermind × $25K = $50K
+        = $250K from 100 initial course sales
+    speaker: Dean Graziosi
+    source_file: transcription_mp4_02-The_Big_Picture__Building_Your_Value_Ladder.md
+
+  - id: MET-TR-005
+    name: "Momentum Building Methodology (Success Cycle)"
+    process: |
+      WHEN IN A DOWNWARD SPIRAL:
+
+      STEP 1 - RECOGNIZE:
+        - Low certainty → little potential tapped → little action → poor results
+        - "I tried that, it didn't work" = you were uncertain
+
+      STEP 2 - CREATE CERTAINTY FIRST:
+        - Don't just take more action with uncertainty
+        - Vivid mental rehearsal: see yourself succeeding emotionally + visually
+        - The mind cannot tell the difference between vividly imagined and real
+        - Do this repeatedly until you FEEL certain
+
+      STEP 3 - ESTABLISH MISSION:
+        - Write down your real mission (what am I here to serve/give/deliver?)
+        - This activates the RAS (Reticular Activating System)
+        - You start noticing opportunities others miss
+
+      STEP 4 - TAKE MASSIVE ACTION:
+        - With certainty, you tap full potential
+        - Keep changing approach if something doesn't work
+        - "How long do you give your child to learn to walk?"
+        - Fortune is in the follow-up (5+ times)
+
+      STEP 5 - MODEL:
+        - Speed up results by following proven practices
+        - Don't reinvent — model what works
+
+      STEP 6 - ACKNOWLEDGE GRACE:
+        - Recognize what's beyond your own effort
+        - Gratitude attracts more grace
+
+      THREE LEVELS TO REACH:
+        1. Cognitive understanding (know it)
+        2. Emotional mastery (feel it enough to act)
+        3. Physical mastery (in your body, automatic)
+        Key: Repetition is the mother of skill
+    speaker: Tony Robbins
+    source_file: transcription_mp4_05-Success_Mindset_Framework.md
+
+  - id: MET-TR-006
+    name: "Passionate Reporter Execution Playbook"
+    process: |
+      PHASE 1 - IDENTIFY EXPERTS:
+        - Use AI (Gigi/ChatGPT) to find experts in your topic
+        - Get specific categories (instructors, therapists, educators, parents)
+        - Ask AI for specific names in each category
+        - Find contact info via Google/LinkedIn
+
+      PHASE 2 - OUTREACH:
+        - Draft personalized email offering value exchange:
+          * 30-minute Zoom interview
+          * Include their business info in your course resources
+          * Promote them on social media
+        - Use AI to draft and shorten emails
+        - Send to 5-7+ experts
+        - Follow up 5+ times if no response
+        - Try LinkedIn (less crowded)
+        - Go local if big names don't respond
+
+      PHASE 3 - CONDUCT INTERVIEWS:
+        - Prepare 15 questions with AI
+        - Start with top 3-5, vary the rest by expertise
+        - Record on Zoom
+        - Send confirmation emails, calendar invites, reminders
+
+      PHASE 4 - EXTRACT & BUILD:
+        - Transcribe with Otter.ai
+        - Upload transcripts to AI
+        - Extract key points and structure content
+        - Layer with your own perspective and personality
+
+      IF NO ONE RESPONDS:
+        - Review your ask email (too long? not specific enough?)
+        - Personalize more
+        - Go local (state/city experts)
+        - Ask for referrals on social media
+        - Keep asking — persist until you succeed
+    speaker: Mike Place
+    source_file: transcription_mp4_02-Amplifying_Your_Knowledge__Step-by-Step.md
+
+  - id: MET-TR-007
+    name: "Story, Teach, Tool Content Creation Methodology"
+    process: |
+      FOR EACH MODULE/LESSON/SESSION:
+
+      PREPARATION:
+        - Write down all stories/scenes from your life related to your topic
+        - Identify which scene sets up which teaching point
+        - Use AI to generate and refine teaching points
+
+      DELIVERY STRUCTURE:
+        1. STORY (30% of time):
+           - ONE scene, not whole life story
+           - Make it relatable and intriguing
+           - Show vulnerability
+           - Set up WHY this topic matters
+
+        2. TEACH (40% of time):
+           - 2-5 teaching points per module
+           - Can use ONE story for all points OR micro-stories for each
+           - Be specific and actionable
+           - Share what you learned, what changed
+
+        3. TOOL (30% of time):
+           - Exercise, worksheet, or action step
+           - Must anchor the learning
+           - Can be custom-created or adapted from existing tools
+           - This is what makes knowledge STICK
+
+      EXAMPLE (Weight Loss Module):
+        STORY: "Before I understood nutrients, I thought skipping bread was enough..."
+        TEACH: 1) Understanding calories/energy 2) Meal planning for deficit 3) Sustainable habits
+        TOOL: "Fill out this meal planner for the next week"
+
+      SCALING:
+        - 6 modules × Story + 3-5 teaching points + Tool = complete course
+        - Same framework works for coaching sessions, mastermind topics, workshops
+    speaker: Dean Graziosi
+    source_file: transcription_mp4_03-Story__Teach__Tool__The_Ultimate_Framework.md
+
+  - id: MET-TR-008
+    name: "Lead Magnet to Email List Building Playbook"
+    process: |
+      STEP 1 - CREATE LEAD MAGNET:
+        - Choose type: Resource guide / Checklist / Myth-busting report
+        - Use AI to draft content based on your expertise
+        - Customize and personalize (AI gets you off blank page, YOU make it yours)
+        - Design in Canva (free, drag-and-drop)
+        - Download as PDF
+
+      STEP 2 - BUILD OPT-IN PAGE:
+        - Use platform templates (plug-and-play)
+        - Enter name, lead magnet title, color theme
+        - Customize copy and imagery
+        - Include popup reminder
+        - Connect to domain
+
+      STEP 3 - SET UP AUTOMATION:
+        - Create email workflow: opt-in triggers automated email
+        - Email delivers lead magnet link
+        - Tag contact record
+        - Send yourself notification
+
+      STEP 4 - START COLLECTING:
+        - Share opt-in page URL on social media
+        - Add to email signature
+        - Tell everyone about your free resource
+        - Can start in 48 hours
+
+      STEP 5 - NURTURE:
+        - Follow up with value-adding emails
+        - Eventually offer your paid product
+        - Build trust before selling
+    speaker: Dean Graziosi + Lane + Ali
+    source_file: Steps 4-6 of Jumpstart
+
+  - id: MET-TR-009
+    name: "Dean's Morning Routine Protocol"
+    process: |
+      IMMEDIATELY UPON WAKING:
+        1. Think of something you're grateful for (can be small)
+        2. Think of ONE win from yesterday
+        3. Think of ONE win you want to accomplish today
+        4. Think of someone you love
+
+      FEED YOUR BODY:
+        5. Big green drink (green powder + MCT oil + apple cider vinegar)
+
+      MOVE YOUR BODY:
+        6. Walk, run, stair master, weights — any movement
+
+      RESULT: Sets your day up for OFFENSE (not defense)
+      DURATION: 25+ years of practice
+    speaker: Dean Graziosi
+    source_file: transcription_mp4_03-Story__Teach__Tool__The_Ultimate_Framework.md
+
+  - id: MET-TR-010
+    name: "Seven Levels Deep Methodology"
+    process: |
+      PURPOSE: Go from HEAD to HEART to find true emotional drivers
+
+      PROCESS:
+        Q1: Why do you want to [goal]?
+        → Answer 1
+
+        Q2: Why do you want [Answer 1]?
+        → Answer 2
+
+        Q3: Why do you want [Answer 2]?
+        → Answer 3
+
+        Q4: Why do you want [Answer 3]?
+        → Answer 4
+
+        Q5: Why do you want [Answer 4]?
+        → Answer 5 ← Usually the SHIFT from head to heart happens here
+
+        Q6: Why do you want [Answer 5]?
+        → Answer 6
+
+        Q7: Why do you want [Answer 6]?
+        → Answer 7 ← Deepest emotional truth
+
+      KEY SIGNS:
+        - Around Q5, people feel a "thump" in their heart
+        - Tears often appear
+        - Answers shift from intellectual to emotional
+        - Final answer reveals true motivation (control, safety, love, legacy)
+
+      DEAN'S EXAMPLE:
+        Q1: Why help students? → I want people to live their potential
+        Q2: Why potential? → I want to leave a legacy
+        Q3: Why legacy? → Self-education should be the new norm
+        Q4: Why new norm? → ...
+        Q5: SHIFT → "I never want to go backwards" (childhood poverty)
+        Q6: → "I want my kids to have choices"
+        Q7: → "I need to be in control of my decisions"
+
+      USE: Do monthly for first year. Do with partner/family.
+    speaker: Dean Graziosi (learned from Joe Stump)
+    source_file: transcription_mp4_01-Step_1_-_Craft_Your_Unstoppable_Future.md
+
+  # Additional methodologies referenced in course
+  - id: MET-TR-011
+    name: "One-Day Launch Implementation"
+    process: "Complete methodology covered in Step 6 — creating and executing a one-day launch event"
+    speaker: MBS Course (Step 6)
+    source_file: "06-Step 6/01-Your First (Or Next) Launch/"
+
+  - id: MET-TR-012
+    name: "Profitable Webinar Formula"
+    process: "Two-part webinar: Overview/Intro + Content/Close — complete webinar delivery system"
+    speaker: MBS Course (Step 6)
+    source_file: "06-Step 6/02-Your Profitable Webinar Formula/"
+
+  - id: MET-TR-013
+    name: "Meta Ads Campaign Launch Process"
+    process: |
+      Step 1: Before You Start (prerequisites)
+      Step 2: Understanding the Meta Ads platform
+      Step 3: Creating Your Ad Copy (using 4S framework)
+      Step 4: Setting Up Your Account
+      Step 5: Building Your Campaign
+      Step 6: Launching Your First Campaign
+    speaker: MBS Course (Step 5)
+    source_file: "05-Step 5/03-Attracting Clients with Meta Ads/"
+
+  - id: MET-TR-014
+    name: "Mastermind Business Construction"
+    process: |
+      1. Understand Psychology of a Mastermind
+      2. Create Your Mastermind Agenda
+      3. Fill Your Mastermind (enrollment strategies)
+      4. Best Practices for Virtual Events
+      5. Live Events: Planning → Creating → Executing
+      6. Build Client Portal
+      7. Build Sales Funnel
+      8. Set Up Confirmation Email Sequence
+      9. Build Community
+    speaker: MBS Course (Step 3, Part 1)
+    source_file: "03-Step 3/01-Building Your Profitable Mastermind/"
+
+  - id: MET-TR-015
+    name: "Coaching Business Construction"
+    process: |
+      1. Decide to be a coach (mindset commitment)
+      2. Understanding why people hire coaches
+      3. Why they'll hire YOU specifically
+      4. Premium vs Commodity positioning
+      5. Product Framework as coaching basis
+      6. Write Irresistible Program Description
+      7. Create VIP Intensive Experience
+      8. Dollars & Sense (financial planning)
+      9. Calendar as key to success
+      10. Extensions, Ascensions, Roll-Offs
+      11. Group Coaching expansion
+      12. Build client portal + sales funnel
+    speaker: MBS Course (Step 3, Part 2)
+    source_file: "03-Step 3/02-Building Your Profitable Coaching Program/"
+
+  - id: MET-TR-016
+    name: "Course Creation Construction"
+    process: |
+      1. The World of Course Creation (overview)
+      2. ABCs of Planning Your Course
+      3. Laying Out Your Lessons (using Story-Teach-Tool)
+      4. Beyond the Basics (advanced elements)
+      5. Course Q&As
+      6. Recording Your Course
+      7. Customize in platform
+      8. Build sales funnel
+    speaker: MBS Course (Step 3, Part 3)
+    source_file: "03-Step 3/03-Building Your Profitable Course/"
+
+  - id: MET-TR-017
+    name: "Email Marketing Mastery System"
+    process: |
+      1. Email Marketing 101 (fundamentals)
+      2. Why Business Success Depends on Email
+      3. Anatomy of an Email
+      4. Four Types of Emails: Entertain / Educate / Showcase / Invite
+      5. Captivating Content Emails
+      6. Knowledge-Sharing Emails
+      7. Expertise-Building Emails
+      8. Invitation/Sales Emails
+      9. Keys to Ongoing Email Success
+      10. List-Building with Lead Magnets
+      11. Writing and Scheduling Emails
+      12. Nurturing and Converting Your List
+    speaker: MBS Course (Step 4)
+    source_file: "04-Step 4/02-Marketing Basics/02-Email Basics/"
+
+  - id: MET-TR-018
+    name: "Networking Client Acquisition Method"
+    process: "Systematic approach to attracting first clients through personal and professional network"
+    speaker: MBS Course (Step 5)
+    source_file: "05-Step 5/01-Attracting Clients via Networking/"
+
+  - id: MET-TR-019
+    name: "Social Media Client Acquisition Method"
+    process: |
+      1. Social Media 101
+      2. Setting Up Your Profile
+      3. The 4 Cs of Content
+      4. Using AI to repurpose one piece of content many ways
+      5. Social Media Planning
+    speaker: MBS Course (Step 4)
+    source_file: "04-Step 4/02-Marketing Basics/01-Social Media Basics/"
+
+  - id: MET-TR-020
+    name: "Belief-Busting Workshop"
+    process: "Tony Robbins' workshop on identifying and overcoming limiting beliefs — longest content piece in the Tony Collection"
+    speaker: Tony Robbins
+    source_file: transcription_mp4_04-Belief-Busting_Workshop.md
+
+  # Additional from Tony's Collection
+  - id: MET-TR-021
+    name: "Tony's Unstoppable Mindset Training"
+    process: "Referenced repeatedly as foundational mindset training. Covers the tool of momentum."
+    speaker: Tony Robbins
+    source_file: "08-Extras - Tony Collection/"
+
+  - id: MET-TR-022
+    name: "Tony's Three Pillars of Success"
+    process: "Referenced by Dean as 'incredible training' that he took notes on"
+    speaker: Tony Robbins
+    source_file: "08-Extras - Tony Collection/"
+
+  - id: MET-TR-023
+    name: "Tony on Language and Identity"
+    process: "How language creates identity — referenced in context of solution statements becoming who you ARE"
+    speaker: Tony Robbins
+    source_file: "08-Extras - Tony Collection/"
+
+  - id: MET-TR-024
+    name: "Effective Speaking Methodology"
+    process: |
+      1. Speaking with Confidence
+      2. Developing Your Central Message
+      3. Mastering Your Delivery
+      4. Embracing Your Speaking Style
+    speaker: MBS Course (Step 4)
+    source_file: "04-Step 4/01-Communication/02-Effective Speaking/"
+
+  - id: MET-TR-025
+    name: "Communicating to Convince and Convert"
+    process: "Advanced communication techniques for persuasion"
+    speaker: MBS Course
+    source_file: transcription_mp4_03-Communicating_to_Convince_and_Convert.md
+
+  - id: MET-TR-026
+    name: "Storytelling 101 + Structure"
+    process: |
+      1. Storytelling fundamentals
+      2. Your Storytelling Structure (hero's journey adaptation)
+    speaker: MBS Course
+    source_file: transcription_mp4_04-Storytelling_101.md + 05-Your_Storytelling_Structure.md
+
+  - id: MET-TR-027
+    name: "Sales Page Walkthrough"
+    process: "Complete walkthrough of how to build an effective sales page"
+    speaker: MBS Course
+    source_file: transcription_mp4_07-Sales_Page_Walkthrough.md
+
+  - id: MET-TR-028
+    name: "Market Research Basics"
+    process: "How to research your market, competitors, and ideal client"
+    speaker: MBS Course (Step 4)
+    source_file: "04-Step 4/02-Marketing Basics/03-Market Research Basics/"
+
+  - id: MET-TR-029
+    name: "The Entrepreneurial Mindset"
+    process: "Mindset training specific to entrepreneurship"
+    speaker: MBS Course (Step 4)
+    source_file: "04-Step 4/03-The Entrepreneurial Mindset/"
+
+  - id: MET-TR-030
+    name: "Financial + Legal Basics"
+    process: "Business finance and legal fundamentals for knowledge entrepreneurs"
+    speaker: MBS Course (Step 4)
+    source_file: "04-Step 4/04-Financial + Legal Basics/"
+
+  - id: MET-TR-031
+    name: "Sales Basics"
+    process: "Fundamental sales skills for knowledge business owners"
+    speaker: MBS Course (Step 4)
+    source_file: "04-Step 4/05-Sales Basics/"
+
+  - id: MET-TR-032
+    name: "Group Coaching Basics"
+    process: "How to transition from 1-on-1 to group coaching format"
+    speaker: MBS Course
+    source_file: transcription_mp4_14-Group_Coaching_Basics.md
+
+  - id: MET-TR-033
+    name: "Best Practices for Virtual Events"
+    process: "How to run effective virtual/Zoom events"
+    speaker: MBS Course
+    source_file: transcription_mp4_04-Best_Practices_for_Your_Virtual_Event.md
+
+  - id: MET-TR-034
+    name: "Irresistible Program Description Writing"
+    process: "How to write a coaching program description that sells"
+    speaker: MBS Course
+    source_file: transcription_mp4_08-Writing_An_Irresistible_Program_Description.md
+
+  - id: MET-TR-035
+    name: "Community Building for Business"
+    process: "How to create and maintain a community that supports your knowledge business"
+    speaker: MBS Course
+    source_file: transcription_mp4_15-BONUS__Building_a_Community_to_Support_Your_Business.md

@@ -1,0 +1,2575 @@
+# Sam Ovens - Cognitive DNA v2.0.0 (Unified)
+# Source: Consulting Accelerator 2018 (57 lessons) + Setterlun (3 modules)
+# Total elements: 441 | Created: 2026-04-04
+
+person:
+  name: "Sam Ovens"
+  empresa: "Consulting.com / Setterlun University"
+  source: "Consulting Accelerator 2018 (7 weeks + DM Bonus) + Setterlun University (3 modules)"
+  modules_processed: 60
+  total_elements: 441
+  version: "2.0.0"
+  sintese: |
+    Sam Ovens built Consulting.com from his parents garage in New Zealand into a $30M+ business.
+    His cognitive DNA spans the full consulting lifecycle: mindset foundations (W1-W2), sales as
+    diagnosis (W3), client acquisition organic and paid (W4-W5), service delivery and operations
+    (W6), and productization for exponential scale (W7). Core philosophy: every offer is a Bridge
+    between Current State and Desired State. Purple Ocean positioning combines Red Ocean validation
+    with Blue Ocean differentiation. Deeply influenced by first-principles thinking, pattern
+    recognition from nature, and the belief that identity transformation precedes business success.
+    Favors DWY (Done With You) models, minimum viable service delivery, and systematic productization.
+
+layers:
+
+  L1_PHILOSOPHIES:
+    count: 92
+    items:
+      # --- SETTERLUN (5) ---
+      - id: "SO-FIL-001"
+        title: "Outcome-Driven Selling"
+        statement: "Clients buy results not services -- sell the transformation not the activity."
+        source: "SETTERLUN-OC"
+        weight: 0.90
+      - id: "SO-FIL-002"
+        title: "Bridge Philosophy"
+        statement: "Every business is a bridge between current state and desired state."
+        source: "SETTERLUN-OC"
+        weight: 0.95
+      - id: "SO-FIL-003"
+        title: "Purple Ocean Mindset"
+        statement: "Combine proven demand (Red) with unique differentiation (Blue) for Purple Ocean."
+        source: "SETTERLUN-PO"
+        weight: 0.90
+      - id: "SO-FIL-004"
+        title: "Productizable Business"
+        statement: "If you customize everything per client you have a job not a business."
+        source: "SETTERLUN-BD"
+        weight: 0.85
+      - id: "SO-FIL-005"
+        title: "High-Leverage Focus"
+        statement: "80/20 applied to everything -- focus only on what moves the needle."
+        source: "SETTERLUN-BD"
+        weight: 0.85
+      # --- CA WEEK 1: Foundations (12) ---
+      - id: "SO-PHI-001"
+        title: "Four Pillars of Foundation"
+        statement: "Success requires mastering mindset model market and message."
+        threshold: "CA-W1"
+        source: "0.9"
+        weight: 0.85
+      - id: "SO-PHI-002"
+        title: "Natural Law Governs Business"
+        statement: "Business operates under natural laws -- you cannot hack physics."
+        threshold: "CA-W1"
+        source: "0.9"
+        weight: 0.85
+      - id: "SO-PHI-003"
+        title: "The Equation of Consulting"
+        statement: "Revenue = people helped x value delivered x price."
+        threshold: "CA-W1"
+        source: "0.9"
+        weight: 0.85
+      - id: "SO-PHI-004"
+        title: "Evolution Is Non-Negotiable"
+        statement: "Evolve from technician to strategist to visionary or die at each stage."
+        threshold: "CA-W1"
+        source: "0.9"
+        weight: 0.85
+      - id: "SO-PHI-005"
+        title: "Market View Precedes Action"
+        statement: "Form a clear thesis about market direction before choosing niche."
+        threshold: "CA-W1"
+        source: "0.9"
+        weight: 0.85
+      - id: "SO-PHI-006"
+        title: "Niche Is a Hypothesis"
+        statement: "Niche is a hypothesis to test and refine through market contact."
+        threshold: "CA-W1"
+        source: "0.9"
+        weight: 0.85
+      - id: "SO-PHI-007"
+        title: "The MVO Principle"
+        statement: "Start with smallest version delivering core transformation."
+        threshold: "CA-W1"
+        source: "0.9"
+        weight: 0.85
+      - id: "SO-PHI-008"
+        title: "Signal Over Noise"
+        statement: "Message must cut through noise by resonating with painful reality."
+        threshold: "CA-W1"
+        source: "0.9"
+        weight: 0.85
+      - id: "SO-PHI-009"
+        title: "Truth Is the Only Strategy"
+        statement: "Look at reality rather than believing comfortable lies."
+        threshold: "CA-W1"
+        source: "0.9"
+        weight: 0.85
+      - id: "SO-PHI-010"
+        title: "Raw Math Does Not Lie"
+        statement: "Calculate raw math before starting -- clients x price = income goal."
+        threshold: "CA-W1"
+        source: "0.9"
+        weight: 0.85
+      - id: "SO-PHI-011"
+        title: "Chart of Truth"
+        statement: "Document beliefs about market and revisit against evidence."
+        threshold: "CA-W1"
+        source: "0.88"
+        weight: 0.85
+      - id: "SO-PHI-012"
+        title: "Client Avatar Depth"
+        statement: "Know your ideal client more deeply than they know themselves."
+        threshold: "CA-W1"
+        source: "0.88"
+        weight: 0.85
+      # --- CA WEEK 2: Mindset (14) ---
+      - id: "SO-PHI-050"
+        title: "The Dark Force"
+        statement: "Fear self-doubt and comfort are the dark forces -- confront directly."
+        threshold: "CA-W2"
+        source: "0.88"
+        weight: 0.85
+      - id: "SO-PHI-051"
+        title: "Face the Devil"
+        statement: "Face deepest fears head-on rather than avoiding them."
+        threshold: "CA-W2"
+        source: "0.88"
+        weight: 0.85
+      - id: "SO-PHI-052"
+        title: "Duality of Man"
+        statement: "Higher self seeks growth lower self seeks comfort -- choose higher."
+        threshold: "CA-W2"
+        source: "0.88"
+        weight: 0.85
+      - id: "SO-PHI-053"
+        title: "Conflict Is Internal"
+        statement: "Primary battlefield is your own mind and its conflicting desires."
+        threshold: "CA-W2"
+        source: "0.88"
+        weight: 0.85
+      - id: "SO-PHI-054"
+        title: "Seeing for the First Time"
+        statement: "True sight requires stripping away assumptions."
+        threshold: "CA-W2"
+        source: "0.88"
+        weight: 0.85
+      - id: "SO-PHI-055"
+        title: "Beliefs Become Reality"
+        statement: "Beliefs construct reality -- change belief change outcome."
+        threshold: "CA-W2"
+        source: "0.9"
+        weight: 0.85
+      - id: "SO-PHI-056"
+        title: "Alchemy of Self"
+        statement: "Turn weaknesses into strengths through conscious effort."
+        threshold: "CA-W2"
+        source: "0.88"
+        weight: 0.85
+      - id: "SO-PHI-057"
+        title: "Paradigm Determines Perception"
+        statement: "Shift paradigm shift everything."
+        threshold: "CA-W2"
+        source: "0.88"
+        weight: 0.85
+      - id: "SO-PHI-058"
+        title: "New World View Required"
+        statement: "New business requires new worldview not just new tactics."
+        threshold: "CA-W2"
+        source: "0.88"
+        weight: 0.85
+      - id: "SO-PHI-059"
+        title: "Rolling Gods Loaded Dice"
+        statement: "Luck favors the prepared mind."
+        threshold: "CA-W2"
+        source: "0.85"
+        weight: 0.85
+      - id: "SO-PHI-060"
+        title: "Alchemy Planner"
+        statement: "Plan transformation as carefully as business."
+        threshold: "CA-W2"
+        source: "0.85"
+        weight: 0.85
+      - id: "SO-PHI-061"
+        title: "Environment Shapes Identity"
+        statement: "Curate environment ruthlessly to support transformation."
+        threshold: "CA-W2"
+        source: "0.85"
+        weight: 0.85
+      - id: "SO-PHI-062"
+        title: "Pattern Recognition Over Information"
+        statement: "Seeing patterns is more valuable than accumulating info."
+        threshold: "CA-W2"
+        source: "0.88"
+        weight: 0.85
+      - id: "SO-PHI-063"
+        title: "Daily Discipline Over Motivation"
+        statement: "Motivation is unreliable; discipline through habit is the path."
+        threshold: "CA-W2"
+        source: "0.9"
+        weight: 0.85
+      # --- CA WEEK 3: Sales (13) ---
+      - id: "SO-PHI-100"
+        title: "Illusion of Sales"
+        statement: "Real selling is diagnosis and prescription not persuasion."
+        threshold: "CA-W3"
+        source: "0.92"
+        weight: 0.85
+      - id: "SO-PHI-101"
+        title: "Alchemy of Conversion"
+        statement: "Convert skepticism into trust through structured dialogue."
+        threshold: "CA-W3"
+        source: "0.9"
+        weight: 0.85
+      - id: "SO-PHI-102"
+        title: "Selling Is Serving"
+        statement: "Not selling your helpful offer is a disservice."
+        threshold: "CA-W3"
+        source: "0.9"
+        weight: 0.85
+      - id: "SO-PHI-103"
+        title: "Script Is Structure"
+        statement: "Sales script provides structure for genuine conversation."
+        threshold: "CA-W3"
+        source: "0.88"
+        weight: 0.85
+      - id: "SO-PHI-104"
+        title: "Doubt Is Natural"
+        statement: "The pendulum of doubt swings in every prospect -- acknowledge it."
+        threshold: "CA-W3"
+        source: "0.85"
+        weight: 0.85
+      - id: "SO-PHI-105"
+        title: "Flame Must Be Ignited"
+        statement: "Prospects have dormant desire ignited through right questions."
+        threshold: "CA-W3"
+        source: "0.88"
+        weight: 0.85
+      - id: "SO-PHI-106"
+        title: "Questions Over Statements"
+        statement: "Asking questions controls conversation and builds trust."
+        threshold: "CA-W3"
+        source: "0.9"
+        weight: 0.85
+      - id: "SO-PHI-107"
+        title: "Pain Is the Catalyst"
+        statement: "People change when pain of staying same exceeds pain of change."
+        threshold: "CA-W3"
+        source: "0.92"
+        weight: 0.85
+      - id: "SO-PHI-108"
+        title: "Prescription Requires Diagnosis"
+        statement: "Never prescribe before fully diagnosing -- premature prescription kills trust."
+        threshold: "CA-W3"
+        source: "0.92"
+        weight: 0.85
+      - id: "SO-PHI-109"
+        title: "Objections Are Symptoms"
+        statement: "Objections are symptoms not rejections."
+        threshold: "CA-W3"
+        source: "0.88"
+        weight: 0.85
+      - id: "SO-PHI-110"
+        title: "Tonality Over Words"
+        statement: "How you say it matters more than what you say."
+        threshold: "CA-W3"
+        source: "0.85"
+        weight: 0.85
+      - id: "SO-PHI-111"
+        title: "Detachment From Outcome"
+        statement: "Best salespeople are detached -- neediness repels."
+        threshold: "CA-W3"
+        source: "0.88"
+        weight: 0.85
+      - id: "SO-PHI-112"
+        title: "Sales Is Learnable"
+        statement: "Sales is a systematic skill anyone can learn."
+        threshold: "CA-W3"
+        source: "0.85"
+        weight: 0.85
+      # --- CA WEEK 4: Client Attraction (9) ---
+      - id: "SO-PHI-150"
+        title: "Trap of Tactics"
+        statement: "Most fall for tactical traps instead of understanding principles."
+        threshold: "CA-W4"
+        source: "0.85"
+        weight: 0.85
+      - id: "SO-PHI-151"
+        title: "Alchemy of Client Attraction"
+        statement: "Transform expertise into magnetic positioning."
+        threshold: "CA-W4"
+        source: "0.85"
+        weight: 0.85
+      - id: "SO-PHI-152"
+        title: "Organic Before Paid"
+        statement: "Master organic methods before spending on paid."
+        threshold: "CA-W4"
+        source: "0.88"
+        weight: 0.85
+      - id: "SO-PHI-153"
+        title: "Paid Amplifies What Works"
+        statement: "Paid should amplify proven organic message."
+        threshold: "CA-W4"
+        source: "0.88"
+        weight: 0.85
+      - id: "SO-PHI-154"
+        title: "War Machine Mentality"
+        statement: "Client acquisition is a machine assembled systematically."
+        threshold: "CA-W4"
+        source: "0.85"
+        weight: 0.85
+      - id: "SO-PHI-155"
+        title: "30-Day Attack Mindset"
+        statement: "Intensive 30-day sprint for initial traction."
+        threshold: "CA-W4"
+        source: "0.85"
+        weight: 0.85
+      - id: "SO-PHI-156"
+        title: "Paralysis Is the Enemy"
+        statement: "Action with imperfect info beats inaction."
+        threshold: "CA-W4"
+        source: "0.88"
+        weight: 0.85
+      - id: "SO-PHI-157"
+        title: "Consistency Compounds"
+        statement: "Daily consistent action compounds into unstoppable pipeline."
+        threshold: "CA-W4"
+        source: "0.88"
+        weight: 0.85
+      - id: "SO-PHI-158"
+        title: "Value First Then Ask"
+        statement: "Give value before asking -- reciprocity is powerful."
+        threshold: "CA-W4"
+        source: "0.85"
+        weight: 0.85
+      # --- CA WEEK 5a: FB Ads Foundations (11) ---
+      - id: "SO-PHI-200"
+        title: "Fractal Facebook Evolution"
+        statement: "Advertising patterns repeat at every scale."
+        threshold: "CA-W5"
+        source: "0.85"
+        weight: 0.85
+      - id: "SO-PHI-201"
+        title: "Algorithm as Living System"
+        statement: "Facebook algorithm is a living system with natural laws."
+        threshold: "CA-W5"
+        source: "0.88"
+        weight: 0.85
+      - id: "SO-PHI-202"
+        title: "Book of Law"
+        statement: "Facebook has unwritten rules -- learn them or be punished."
+        threshold: "CA-W5"
+        source: "0.85"
+        weight: 0.85
+      - id: "SO-PHI-203"
+        title: "New Epoch Playbook"
+        statement: "Algorithm updates create new epochs requiring new playbooks."
+        threshold: "CA-W5"
+        source: "0.85"
+        weight: 0.85
+      - id: "SO-PHI-204"
+        title: "Hypothesis-Driven Advertising"
+        statement: "Every ad is a hypothesis to test not a certainty."
+        threshold: "CA-W5"
+        source: "0.88"
+        weight: 0.85
+      - id: "SO-PHI-205"
+        title: "Audience Hypothesis"
+        statement: "Target audience requires data validation not assumptions."
+        threshold: "CA-W5"
+        source: "0.85"
+        weight: 0.85
+      - id: "SO-PHI-206"
+        title: "Track the Swans"
+        statement: "Identify outlier results -- they reveal what works."
+        threshold: "CA-W5"
+        source: "0.85"
+        weight: 0.85
+      - id: "SO-PHI-207"
+        title: "Polaris Star Metric"
+        statement: "Choose one north-star metric and optimize toward it."
+        threshold: "CA-W5"
+        source: "0.88"
+        weight: 0.85
+      - id: "SO-PHI-208"
+        title: "Omnipresence Principle"
+        statement: "Being seen everywhere creates authority."
+        threshold: "CA-W5"
+        source: "0.85"
+        weight: 0.85
+      - id: "SO-PHI-209"
+        title: "Templates Accelerate"
+        statement: "Use proven templates as starting points."
+        threshold: "CA-W5"
+        source: "0.82"
+        weight: 0.85
+      - id: "SO-PHI-210"
+        title: "Test Small Scale Fast"
+        statement: "Test at smallest viable budget to learn fast."
+        threshold: "CA-W5"
+        source: "0.85"
+        weight: 0.85
+      # --- CA WEEK 5b: FB Ads Scaling (8) ---
+      - id: "SO-PHI-250"
+        title: "Campaign Genesis"
+        statement: "Initial conditions determine long-term trajectory."
+        threshold: "CA-W5"
+        source: "0.85"
+        weight: 0.85
+      - id: "SO-PHI-251"
+        title: "Governing Initial Conditions"
+        statement: "Audience creative and offer determine evolutionary path."
+        threshold: "CA-W5"
+        source: "0.85"
+        weight: 0.85
+      - id: "SO-PHI-252"
+        title: "Daily Workflow of the King"
+        statement: "Disciplined daily workflow separates profitable from wasteful."
+        threshold: "CA-W5"
+        source: "0.85"
+        weight: 0.85
+      - id: "SO-PHI-253"
+        title: "Ratcheting Up the Kingdom"
+        statement: "Scale through small incremental increases not sudden jumps."
+        threshold: "CA-W5"
+        source: "0.85"
+        weight: 0.85
+      - id: "SO-PHI-254"
+        title: "Data Over Emotion"
+        statement: "Make ad decisions on data never on feelings."
+        threshold: "CA-W5"
+        source: "0.88"
+        weight: 0.85
+      - id: "SO-PHI-255"
+        title: "Creative Fatigue Is Inevitable"
+        statement: "Build continuous creative refresh system."
+        threshold: "CA-W5"
+        source: "0.82"
+        weight: 0.85
+      - id: "SO-PHI-256"
+        title: "Pixel Intelligence"
+        statement: "Your pixel learns over time -- protect and feed it."
+        threshold: "CA-W5"
+        source: "0.82"
+        weight: 0.85
+      - id: "SO-PHI-257"
+        title: "Budget Is Fuel Not Strategy"
+        statement: "Budget amplifies strategy but never replaces it."
+        threshold: "CA-W5"
+        source: "0.85"
+        weight: 0.85
+      # --- CA WEEK 6: Delivery (8) ---
+      - id: "SO-PHI-300"
+        title: "Minimum Viable Service Delivery"
+        statement: "Start with MVS and improve from client feedback."
+        threshold: "CA-W6"
+        source: "0.88"
+        weight: 0.85
+      - id: "SO-PHI-301"
+        title: "Client Expectations Are Everything"
+        statement: "Clear expectations prevent 90% of client problems."
+        threshold: "CA-W6"
+        source: "0.9"
+        weight: 0.85
+      - id: "SO-PHI-302"
+        title: "Top 1% Contractors"
+        statement: "Hire only top 1% -- mediocre is more expensive long term."
+        threshold: "CA-W6"
+        source: "0.88"
+        weight: 0.85
+      - id: "SO-PHI-303"
+        title: "Project Management Is Freedom"
+        statement: "Systematic workflows give freedom not working harder."
+        threshold: "CA-W6"
+        source: "0.85"
+        weight: 0.85
+      - id: "SO-PHI-304"
+        title: "Finance and Cashflow Mastery"
+        statement: "Profitable businesses die from poor cashflow management."
+        threshold: "CA-W6"
+        source: "0.9"
+        weight: 0.85
+      - id: "SO-PHI-305"
+        title: "Platform Growth Over Linear"
+        statement: "Think exponential not one client at a time."
+        threshold: "CA-W6"
+        source: "0.88"
+        weight: 0.85
+      - id: "SO-PHI-306"
+        title: "Marketing Automation Liberates"
+        statement: "Automate repetitive tasks for high-leverage work."
+        threshold: "CA-W6"
+        source: "0.82"
+        weight: 0.85
+      - id: "SO-PHI-307"
+        title: "Systems Before Scale"
+        statement: "Build systems before scaling -- scaling chaos is bigger chaos."
+        threshold: "CA-W6"
+        source: "0.9"
+        weight: 0.85
+      # --- CA WEEK 7 + DM Bonus (12) ---
+      - id: "SO-PHI-350"
+        title: "Secrets of Exponential Scale"
+        statement: "Exponential scale comes from productizing knowledge into systems."
+        threshold: "CA-W7"
+        source: "0.9"
+        weight: 0.85
+      - id: "SO-PHI-351"
+        title: "Productizing Your Services"
+        statement: "Transform custom services into standardized offerings."
+        threshold: "CA-W7"
+        source: "0.9"
+        weight: 0.85
+      - id: "SO-PHI-352"
+        title: "Uplevel Consulting"
+        statement: "Move from selling time to selling system and methodology."
+        threshold: "CA-W7"
+        source: "0.88"
+        weight: 0.85
+      - id: "SO-PHI-353"
+        title: "DM Overview Philosophy"
+        statement: "Digital marketing is a vehicle for value at scale."
+        threshold: "CA-W7-DM"
+        source: "0.82"
+        weight: 0.85
+      - id: "SO-PHI-354"
+        title: "Niche Flexibility"
+        statement: "Pivot quickly based on data not clinging to failing hypothesis."
+        threshold: "CA-W7-DM"
+        source: "0.85"
+        weight: 0.85
+      - id: "SO-PHI-355"
+        title: "Consulting Origin Story"
+        statement: "Personal origin story is your most powerful sales asset."
+        threshold: "CA-W7-DM"
+        source: "0.85"
+        weight: 0.85
+      - id: "SO-PHI-356"
+        title: "Websites as DM Retainers"
+        statement: "Website services as reliable recurring revenue stream."
+        threshold: "CA-W7-DM"
+        source: "0.8"
+        weight: 0.85
+      - id: "SO-PHI-357"
+        title: "Education About DM Products"
+        statement: "Educating clients builds trust and positions you as expert."
+        threshold: "CA-W7-DM"
+        source: "0.8"
+        weight: 0.85
+      - id: "SO-PHI-358"
+        title: "Hiring DM Contractors Wisely"
+        statement: "Hire based on proven results not certifications."
+        threshold: "CA-W7-DM"
+        source: "0.82"
+        weight: 0.85
+      - id: "SO-PHI-359"
+        title: "Setting DM Expectations"
+        statement: "Crystal-clear expectations about timelines and outcomes."
+        threshold: "CA-W7-DM"
+        source: "0.82"
+        weight: 0.85
+      - id: "SO-PHI-360"
+        title: "Leverage Through Knowledge Products"
+        statement: "Package expertise into courses templates and tools."
+        threshold: "CA-W7"
+        source: "0.88"
+        weight: 0.85
+      - id: "SO-PHI-361"
+        title: "Identity-Level Transformation"
+        statement: "Lasting success requires identity-level transformation."
+        threshold: "CA-W7"
+        source: "0.9"
+        weight: 0.85
+
+  L2_MENTAL_MODELS:
+    count: 81
+    items:
+      # --- SETTERLUN (4) ---
+      - id: "SO-MM-001"
+        title: "Bridge Analogy Lens"
+        statement: "See every offer as bridge: Current State -> Bridge -> Desired State with Trolls and Toll."
+        source: "SETTERLUN-OC"
+        weight: 0.95
+      - id: "SO-MM-002"
+        title: "Purple Ocean Analysis"
+        statement: "Analyze positioning as Red Blue or Purple."
+        source: "SETTERLUN-PO"
+        weight: 0.90
+      - id: "SO-MM-003"
+        title: "Business Archetype Selection"
+        statement: "Classify delivery as DFY DWY or DIY with distinct tradeoffs."
+        source: "SETTERLUN-BD"
+        weight: 0.85
+      - id: "SO-MM-004"
+        title: "Unique Mechanism Differentiation"
+        statement: "Why YOUR bridge is better than competitors."
+        source: "SETTERLUN-OC"
+        weight: 0.85
+      # --- W1 (8) ---
+      - id: "SO-MM-005"
+        title: "Four Pillars Lens"
+        statement: "Evaluate business through mindset model market message."
+        source: "CA-W1"
+        weight: 0.85
+      - id: "SO-MM-006"
+        title: "Natural Law Lens"
+        statement: "View outcomes as governed by immutable natural laws."
+        source: "CA-W1"
+        weight: 0.85
+      - id: "SO-MM-007"
+        title: "Consultant Evolution Stages"
+        statement: "Map yourself to technician strategist or visionary."
+        source: "CA-W1"
+        weight: 0.85
+      - id: "SO-MM-008"
+        title: "Market View Telescope"
+        statement: "Look at market trends before zooming into niche tactics."
+        source: "CA-W1"
+        weight: 0.85
+      - id: "SO-MM-009"
+        title: "Niche Hypothesis Testing"
+        statement: "Treat niche as scientific hypothesis requiring validation."
+        source: "CA-W1"
+        weight: 0.85
+      - id: "SO-MM-010"
+        title: "MVO Thinking"
+        statement: "Think Minimum Viable Offer to reduce risk accelerate learning."
+        source: "CA-W1"
+        weight: 0.85
+      - id: "SO-MM-011"
+        title: "Signal-to-Noise Filter"
+        statement: "Filter messaging through signal-to-noise ratio."
+        source: "CA-W1"
+        weight: 0.85
+      - id: "SO-MM-012"
+        title: "Raw Math Reality Check"
+        statement: "Run raw math on any idea before investing emotion."
+        source: "CA-W1"
+        weight: 0.85
+      # --- W2 (11) ---
+      - id: "SO-MM-050"
+        title: "Dark Force Identification"
+        statement: "Identify specific fears and comfort patterns holding you back."
+        source: "CA-W2"
+        weight: 0.85
+      - id: "SO-MM-051"
+        title: "Devil Confrontation"
+        statement: "Face worst-case scenarios directly to strip their power."
+        source: "CA-W2"
+        weight: 0.85
+      - id: "SO-MM-052"
+        title: "Higher vs Lower Self"
+        statement: "Ask which self is making the choice."
+        source: "CA-W2"
+        weight: 0.85
+      - id: "SO-MM-053"
+        title: "Belief Audit"
+        statement: "Audit beliefs to find which ones create current reality."
+        source: "CA-W2"
+        weight: 0.85
+      - id: "SO-MM-054"
+        title: "First Principles Seeing"
+        statement: "Strip assumptions to see with fresh eyes."
+        source: "CA-W2"
+        weight: 0.85
+      - id: "SO-MM-055"
+        title: "Paradigm Shift Detector"
+        statement: "Recognize when paradigm shift vs optimization is needed."
+        source: "CA-W2"
+        weight: 0.85
+      - id: "SO-MM-056"
+        title: "Alchemy Transformation Map"
+        statement: "Map process of transforming weaknesses into strengths."
+        source: "CA-W2"
+        weight: 0.85
+      - id: "SO-MM-057"
+        title: "Loaded Dice Probability"
+        statement: "Stack probabilities through preparation not gambling."
+        source: "CA-W2"
+        weight: 0.85
+      - id: "SO-MM-058"
+        title: "Environment Audit"
+        statement: "Audit environment for supporting or undermining elements."
+        source: "CA-W2"
+        weight: 0.85
+      - id: "SO-MM-059"
+        title: "Pattern vs Noise Detection"
+        statement: "Distinguish genuine patterns from random noise."
+        source: "CA-W2"
+        weight: 0.85
+      - id: "SO-MM-060"
+        title: "Discipline Compound Calculator"
+        statement: "Calculate compound effect of daily discipline over years."
+        source: "CA-W2"
+        weight: 0.85
+      # --- W3 (12) ---
+      - id: "SO-MM-100"
+        title: "Sales as Diagnosis"
+        statement: "Reframe every sales conversation as diagnostic session."
+        threshold: "CA-W3"
+        source: "0.92"
+        weight: 0.85
+      - id: "SO-MM-101"
+        title: "Conversion Alchemy"
+        statement: "View conversion as transformation of skepticism into trust."
+        threshold: "CA-W3"
+        source: "0.9"
+        weight: 0.85
+      - id: "SO-MM-102"
+        title: "Script as Scaffolding"
+        statement: "Use script as scaffolding for genuine conversation."
+        source: "CA-W3"
+        weight: 0.85
+      - id: "SO-MM-103"
+        title: "Pendulum of Doubt"
+        statement: "Recognize prospect oscillation between desire and doubt."
+        source: "CA-W3"
+        weight: 0.85
+      - id: "SO-MM-104"
+        title: "Flame Ignition Timing"
+        statement: "Identify right moment to ignite dormant desire."
+        source: "CA-W3"
+        weight: 0.85
+      - id: "SO-MM-105"
+        title: "Pain Threshold Calculator"
+        statement: "Assess if pain has crossed threshold where change is inevitable."
+        source: "CA-W3"
+        weight: 0.85
+      - id: "SO-MM-106"
+        title: "Question Hierarchy"
+        statement: "Structure questions from surface to deep."
+        threshold: "CA-W3"
+        source: "0.88"
+        weight: 0.85
+      - id: "SO-MM-107"
+        title: "Prescription-Diagnosis Sequence"
+        statement: "Complete diagnosis before offering prescription."
+        threshold: "CA-W3"
+        source: "0.9"
+        weight: 0.85
+      - id: "SO-MM-108"
+        title: "Objection Decoder"
+        statement: "Decode objections as symptoms pointing to real concern."
+        source: "CA-W3"
+        weight: 0.85
+      - id: "SO-MM-109"
+        title: "Tonality Calibration"
+        statement: "Calibrate tonality to match needed emotional state."
+        source: "CA-W3"
+        weight: 0.85
+      - id: "SO-MM-110"
+        title: "Outcome Detachment"
+        statement: "Detach from outcome to reduce neediness increase trust."
+        source: "CA-W3"
+        weight: 0.85
+      - id: "SO-MM-111"
+        title: "Skill Acquisition Lens"
+        statement: "View sales as learnable skill with practice curves."
+        source: "CA-W3"
+        weight: 0.85
+      # --- W4 (8) ---
+      - id: "SO-MM-150"
+        title: "Tactic vs Principle Filter"
+        statement: "Filter methods through principles before adopting tactics."
+        source: "CA-W4"
+        weight: 0.85
+      - id: "SO-MM-151"
+        title: "Attraction Alchemy"
+        statement: "View attraction as transformation of expertise into positioning."
+        source: "CA-W4"
+        weight: 0.85
+      - id: "SO-MM-152"
+        title: "Organic-First Ladder"
+        statement: "Climb from organic proof to paid amplification."
+        source: "CA-W4"
+        weight: 0.85
+      - id: "SO-MM-153"
+        title: "War Machine Assembly"
+        statement: "Assemble acquisition as systematic machine."
+        source: "CA-W4"
+        weight: 0.85
+      - id: "SO-MM-154"
+        title: "30-Day Sprint Lens"
+        statement: "View initial traction as focused sprint."
+        source: "CA-W4"
+        weight: 0.85
+      - id: "SO-MM-155"
+        title: "Paralysis Cost Calculator"
+        statement: "Calculate real cost of analysis paralysis."
+        source: "CA-W4"
+        weight: 0.85
+      - id: "SO-MM-156"
+        title: "Consistency Compound Effect"
+        statement: "Model compound effect of daily action on pipeline."
+        source: "CA-W4"
+        weight: 0.85
+      - id: "SO-MM-157"
+        title: "Value-First Reciprocity"
+        statement: "Map reciprocity effect of providing value first."
+        source: "CA-W4"
+        weight: 0.85
+      # --- W5a (9) ---
+      - id: "SO-MM-200"
+        title: "Fractal Pattern Recognition"
+        statement: "Identify self-similar patterns at every FB ads scale."
+        source: "CA-W5"
+        weight: 0.85
+      - id: "SO-MM-201"
+        title: "Algorithm as Organism"
+        statement: "Model algorithm as living organism with feedback loops."
+        source: "CA-W5"
+        weight: 0.85
+      - id: "SO-MM-202"
+        title: "Epoch Detection"
+        statement: "Detect when new advertising epoch requires strategy overhaul."
+        source: "CA-W5"
+        weight: 0.85
+      - id: "SO-MM-203"
+        title: "Ad Hypothesis Framework"
+        statement: "Structure every ad as testable hypothesis."
+        source: "CA-W5"
+        weight: 0.85
+      - id: "SO-MM-204"
+        title: "Audience Hypothesis Framework"
+        statement: "Structure every audience as testable hypothesis."
+        source: "CA-W5"
+        weight: 0.85
+      - id: "SO-MM-205"
+        title: "Black Swan Tracking"
+        statement: "Track outlier results to find what actually works."
+        source: "CA-W5"
+        weight: 0.85
+      - id: "SO-MM-206"
+        title: "North Star Navigation"
+        statement: "Navigate all optimization toward single metric."
+        source: "CA-W5"
+        weight: 0.85
+      - id: "SO-MM-207"
+        title: "Omnipresence Halo"
+        statement: "Model halo effect of being seen everywhere."
+        source: "CA-W5"
+        weight: 0.85
+      - id: "SO-MM-208"
+        title: "Template Acceleration"
+        statement: "Use templates as acceleration not zero-start."
+        source: "CA-W5"
+        weight: 0.85
+      # --- W5b (9) ---
+      - id: "SO-MM-250"
+        title: "Campaign Genesis Conditions"
+        statement: "Initial conditions are deterministic of trajectory."
+        source: "CA-W5"
+        weight: 0.85
+      - id: "SO-MM-251"
+        title: "Initial Conditions Sensitivity"
+        statement: "Assess sensitivity to audience creative offer choices."
+        source: "CA-W5"
+        weight: 0.85
+      - id: "SO-MM-252"
+        title: "Daily Workflow Discipline"
+        statement: "Model daily management as disciplined workflow."
+        source: "CA-W5"
+        weight: 0.85
+      - id: "SO-MM-253"
+        title: "Ratcheting Scale Model"
+        statement: "Scale through small ratchets not dramatic jumps."
+        source: "CA-W5"
+        weight: 0.85
+      - id: "SO-MM-254"
+        title: "Data vs Emotion Filter"
+        statement: "Filter decisions through data overriding emotions."
+        source: "CA-W5"
+        weight: 0.85
+      - id: "SO-MM-255"
+        title: "Creative Lifecycle Model"
+        statement: "Model creatives as having birth peak decay death."
+        source: "CA-W5"
+        weight: 0.85
+      - id: "SO-MM-256"
+        title: "Pixel as Learning Engine"
+        statement: "Pixel improves with more quality data."
+        source: "CA-W5"
+        weight: 0.85
+      - id: "SO-MM-257"
+        title: "Budget as Fuel Gauge"
+        statement: "Budget amplifies direction not creates it."
+        source: "CA-W5"
+        weight: 0.85
+      - id: "SO-MM-258"
+        title: "Diminishing Returns Detector"
+        statement: "Detect when scaling hits diminishing returns."
+        source: "CA-W5"
+        weight: 0.85
+      # --- W6 (8) ---
+      - id: "SO-MM-300"
+        title: "MVS Delivery Lens"
+        statement: "What is the least to do to deliver the result."
+        source: "CA-W6"
+        weight: 0.85
+      - id: "SO-MM-301"
+        title: "Expectation Gap Analysis"
+        statement: "Gaps between expectations and delivery cause churn."
+        source: "CA-W6"
+        weight: 0.85
+      - id: "SO-MM-302"
+        title: "Top 1% Talent Filter"
+        statement: "Accept no less than top-1% in hiring."
+        source: "CA-W6"
+        weight: 0.85
+      - id: "SO-MM-303"
+        title: "Workflow as Liberation"
+        statement: "Systematic workflows are path to freedom."
+        source: "CA-W6"
+        weight: 0.85
+      - id: "SO-MM-304"
+        title: "Cashflow Heartbeat"
+        statement: "Monitor cashflow as the heartbeat -- irregular beats signal danger."
+        source: "CA-W6"
+        weight: 0.85
+      - id: "SO-MM-305"
+        title: "Platform vs Linear Growth"
+        statement: "Distinguish exponential from additive strategies."
+        source: "CA-W6"
+        weight: 0.85
+      - id: "SO-MM-306"
+        title: "Automation ROI Calculator"
+        statement: "Calculate ROI of automating: time saved x frequency."
+        source: "CA-W6"
+        weight: 0.85
+      - id: "SO-MM-307"
+        title: "Systems-First Scaling"
+        statement: "Evaluate scaling readiness by systems maturity."
+        source: "CA-W6"
+        weight: 0.85
+      # --- W7+DM (12) ---
+      - id: "SO-MM-350"
+        title: "Exponential Leverage Detector"
+        statement: "Identify where small inputs create large outputs."
+        source: "CA-W7"
+        weight: 0.85
+      - id: "SO-MM-351"
+        title: "Productization Spectrum"
+        statement: "Map service from fully custom to fully productized."
+        source: "CA-W7"
+        weight: 0.85
+      - id: "SO-MM-352"
+        title: "Uplevel Readiness Assessment"
+        statement: "Assess readiness to move from time to system consulting."
+        source: "CA-W7"
+        weight: 0.85
+      - id: "SO-MM-353"
+        title: "DM Vehicle Assessment"
+        statement: "Evaluate DM as vehicle for consulting value at scale."
+        source: "CA-W7-DM"
+        weight: 0.85
+      - id: "SO-MM-354"
+        title: "Niche Pivot Decision Tree"
+        statement: "When to pivot persist or abandon a niche."
+        source: "CA-W7-DM"
+        weight: 0.85
+      - id: "SO-MM-355"
+        title: "Origin Story Power"
+        statement: "Assess power of personal origin story as sales asset."
+        source: "CA-W7-DM"
+        weight: 0.85
+      - id: "SO-MM-356"
+        title: "Retainer Recurring Revenue"
+        statement: "Model services as recurring retainers for cashflow."
+        source: "CA-W7-DM"
+        weight: 0.85
+      - id: "SO-MM-357"
+        title: "Education-Based Selling"
+        statement: "Use education to position as trusted advisor."
+        source: "CA-W7-DM"
+        weight: 0.85
+      - id: "SO-MM-358"
+        title: "Contractor Portfolio Filter"
+        statement: "Filter by portfolio results not credentials."
+        source: "CA-W7-DM"
+        weight: 0.85
+      - id: "SO-MM-359"
+        title: "Expectation Setting Framework"
+        statement: "Structured timeline and deliverable frameworks."
+        source: "CA-W7-DM"
+        weight: 0.85
+      - id: "SO-MM-360"
+        title: "Knowledge Product Leverage"
+        statement: "Assess opportunities for scalable knowledge products."
+        source: "CA-W7"
+        weight: 0.85
+      - id: "SO-MM-361"
+        title: "Identity Transformation Depth"
+        statement: "Skill level (shallow) vs identity level (deep lasting)."
+        source: "CA-W7"
+        weight: 0.85
+
+  L3_HEURISTICS:
+    count: 130
+    items:
+      # --- SETTERLUN (6) ---
+      - id: "SO-HEU-001"
+        title: "80/20 Rule"
+        statement: "20% activities generate 80% results."
+        threshold: "20% = 80% results"
+        source: "SETTERLUN-BD"
+        weight: 0.90
+      - id: "SO-HEU-002"
+        title: "Net Profit Margin Target"
+        statement: "Below 30% signals pricing or cost problem."
+        threshold: "30-40% net profit"
+        source: "SETTERLUN-BD"
+        weight: 0.90
+      - id: "SO-HEU-003"
+        title: "Fulfillment Cost Allocation"
+        statement: "Revenue allocation for delivery costs."
+        threshold: "60-70% revenue"
+        source: "SETTERLUN-BD"
+        weight: 0.85
+      - id: "SO-HEU-004"
+        title: "Marketing/Sales Budget"
+        statement: "Revenue allocation for marketing and sales."
+        threshold: "20-30% revenue"
+        source: "SETTERLUN-BD"
+        weight: 0.85
+      - id: "SO-HEU-005"
+        title: "Client Break-even Timeline"
+        statement: "Time for client to recoup investment."
+        threshold: "1-3 months"
+        source: "SETTERLUN-BD"
+        weight: 0.80
+      - id: "SO-HEU-006"
+        title: "University Pricing Model"
+        statement: "High upfront justified by lifetime ROI."
+        threshold: "$40-80k upfront 1-2yr"
+        source: "SETTERLUN-OC"
+        weight: 0.85
+      # --- W1 (11) ---
+      - id: "SO-HEU-007"
+        title: "Revenue Equation"
+        statement: "Revenue = People x Value x Price."
+        threshold: "Maximize all 3"
+        source: "CA-W1"
+        weight: 0.85
+      - id: "SO-HEU-008"
+        title: "Niche Specificity Test"
+        statement: "Describe ideal client in one sentence."
+        threshold: "1-sentence test"
+        source: "CA-W1"
+        weight: 0.85
+      - id: "SO-HEU-009"
+        title: "MVO Launch Timeline"
+        statement: "Launch MVO within 7 days of choosing niche."
+        threshold: "7 days"
+        source: "CA-W1"
+        weight: 0.85
+      - id: "SO-HEU-010"
+        title: "Message Resonance Test"
+        statement: "Test with 10 prospects min 3 positive."
+        threshold: "3/10 positive"
+        source: "CA-W1"
+        weight: 0.85
+      - id: "SO-HEU-011"
+        title: "Market Research Minimum"
+        statement: "Ask at least 10 smart market questions."
+        threshold: "10 questions"
+        source: "CA-W1"
+        weight: 0.85
+      - id: "SO-HEU-012"
+        title: "Chart of Truth Review"
+        statement: "Review monthly against evidence."
+        threshold: "Monthly review"
+        source: "CA-W1"
+        weight: 0.85
+      - id: "SO-HEU-013"
+        title: "Client Avatar Depth Score"
+        statement: "Rate depth 1-10 minimum 7."
+        threshold: "7/10 minimum"
+        source: "CA-W1"
+        weight: 0.85
+      - id: "SO-HEU-014"
+        title: "Raw Math Viability"
+        statement: "If math needs 20+ clients/month rethink."
+        threshold: "Max 20 clients/mo"
+        source: "CA-W1"
+        weight: 0.85
+      - id: "SO-HEU-015"
+        title: "Foundation Before Tactics"
+        statement: "80% foundation 20% tactics in Week 1."
+        threshold: "80/20 split"
+        source: "CA-W1"
+        weight: 0.85
+      - id: "SO-HEU-016"
+        title: "Email Response Rate"
+        statement: "Minimum 5% response rate."
+        threshold: "5% minimum"
+        source: "CA-W1"
+        weight: 0.85
+      - id: "SO-HEU-017"
+        title: "Niche Pivot Threshold"
+        statement: "0 clients in 30 conversations = pivot."
+        threshold: "30 convos 0 clients"
+        source: "CA-W1"
+        weight: 0.85
+      # --- W2 (10) ---
+      - id: "SO-HEU-050"
+        title: "Fear Confrontation Rule"
+        statement: "What you most avoid is what you most need to do."
+        threshold: "Avoidance = signal"
+        source: "CA-W2"
+        weight: 0.85
+      - id: "SO-HEU-051"
+        title: "Belief Replacement Ratio"
+        statement: "For every limiting belief install one empowering."
+        threshold: "1:1 ratio"
+        source: "CA-W2"
+        weight: 0.85
+      - id: "SO-HEU-052"
+        title: "Higher Self Decision"
+        statement: "When conflicted choose higher self option."
+        threshold: "Higher self wins"
+        source: "CA-W2"
+        weight: 0.85
+      - id: "SO-HEU-053"
+        title: "Paradigm Shift Indicator"
+        statement: "3+ failures = paradigm shift needed."
+        threshold: "3 failures"
+        source: "CA-W2"
+        weight: 0.85
+      - id: "SO-HEU-054"
+        title: "Environment Toxicity Test"
+        statement: "3+ negative people = change environment."
+        threshold: "3+ negative"
+        source: "CA-W2"
+        weight: 0.85
+      - id: "SO-HEU-055"
+        title: "Daily Discipline Minimum"
+        statement: "One high-leverage action daily 7 days/week."
+        threshold: "1 action 7 days"
+        source: "CA-W2"
+        weight: 0.85
+      - id: "SO-HEU-056"
+        title: "Alchemy Planner Review"
+        statement: "Review planner weekly."
+        threshold: "Weekly review"
+        source: "CA-W2"
+        weight: 0.85
+      - id: "SO-HEU-057"
+        title: "Comfort Zone Expansion"
+        statement: "Push past comfort zone meaningfully daily."
+        threshold: "1 push per day"
+        source: "CA-W2"
+        weight: 0.85
+      - id: "SO-HEU-058"
+        title: "Pattern Validation"
+        statement: "See pattern 3 times before treating as real."
+        threshold: "3 occurrences"
+        source: "CA-W2"
+        weight: 0.85
+      - id: "SO-HEU-059"
+        title: "Morning Routine Duration"
+        statement: "60 minutes mindset before business tools."
+        threshold: "60-minute minimum"
+        source: "CA-W2"
+        weight: 0.85
+      # --- W3 (15) ---
+      - id: "SO-HEU-100"
+        title: "Diagnosis Time Allocation"
+        statement: "60% diagnosis 40% prescription on sales call."
+        threshold: "60/40 split"
+        source: "CA-W3"
+        weight: 0.85
+      - id: "SO-HEU-101"
+        title: "Question Depth Minimum"
+        statement: "10 deep questions before presenting solution."
+        threshold: "10 questions"
+        source: "CA-W3"
+        weight: 0.85
+      - id: "SO-HEU-102"
+        title: "Pain Quantification"
+        statement: "Help prospect quantify pain in dollars."
+        threshold: "Quantifiable in $"
+        source: "CA-W3"
+        weight: 0.85
+      - id: "SO-HEU-103"
+        title: "Objection Root Cause"
+        statement: "Dig 2 levels deeper than surface objection."
+        threshold: "2 levels deeper"
+        source: "CA-W3"
+        weight: 0.85
+      - id: "SO-HEU-104"
+        title: "Tonality Match Rate"
+        statement: "Match tonality in first 60 seconds."
+        threshold: "60 seconds"
+        source: "CA-W3"
+        weight: 0.85
+      - id: "SO-HEU-105"
+        title: "Script Practice Minimum"
+        statement: "Practice script 20 times before real prospect."
+        threshold: "20 practice runs"
+        source: "CA-W3"
+        weight: 0.85
+      - id: "SO-HEU-106"
+        title: "Close Rate Baseline"
+        statement: "Well-executed script should close 20% of qualified."
+        threshold: "20% close rate"
+        source: "CA-W3"
+        weight: 0.85
+      - id: "SO-HEU-107"
+        title: "Follow-Up Persistence"
+        statement: "Follow up 5 times before considering dead."
+        threshold: "5 follow-ups"
+        source: "CA-W3"
+        weight: 0.85
+      - id: "SO-HEU-108"
+        title: "Call Duration Sweet Spot"
+        statement: "30-45 minutes optimal sales call."
+        threshold: "30-45 min"
+        source: "CA-W3"
+        weight: 0.85
+      - id: "SO-HEU-109"
+        title: "Silence Power"
+        statement: "5 seconds silence after key question."
+        threshold: "5-second silence"
+        source: "CA-W3"
+        weight: 0.85
+      - id: "SO-HEU-110"
+        title: "Certainty Scale Self-Check"
+        statement: "Rate certainty 1-10 below 8 work on conviction."
+        threshold: "8/10 certainty"
+        source: "CA-W3"
+        weight: 0.85
+      - id: "SO-HEU-111"
+        title: "Detachment Test"
+        statement: "If losing deal ruins day too attached."
+        threshold: "Deal loss no ruin"
+        source: "CA-W3"
+        weight: 0.85
+      - id: "SO-HEU-112"
+        title: "Conversion Rate Tracking"
+        statement: "10% drop triggers script review."
+        threshold: "10% drop"
+        source: "CA-W3"
+        weight: 0.85
+      - id: "SO-HEU-113"
+        title: "Prospect Qualification Time"
+        statement: "Qualify in first 5 minutes."
+        threshold: "5-minute window"
+        source: "CA-W3"
+        weight: 0.85
+      - id: "SO-HEU-114"
+        title: "Sales Skill Practice"
+        statement: "30 minutes daily sales development."
+        threshold: "30 min daily"
+        source: "CA-W3"
+        weight: 0.85
+      # --- W4 (13) ---
+      - id: "SO-HEU-150"
+        title: "Organic Proof Minimum"
+        statement: "5 paying clients before paid ads."
+        threshold: "5 clients organic"
+        source: "CA-W4"
+        weight: 0.85
+      - id: "SO-HEU-151"
+        title: "Daily Outreach Volume"
+        statement: "10 outreach actions daily."
+        threshold: "10 daily"
+        source: "CA-W4"
+        weight: 0.85
+      - id: "SO-HEU-152"
+        title: "Content Consistency"
+        statement: "3 posts/week minimum on primary platform."
+        threshold: "3 posts/week"
+        source: "CA-W4"
+        weight: 0.85
+      - id: "SO-HEU-153"
+        title: "Paid Ad Minimum Budget"
+        statement: "$20/day per campaign for meaningful data."
+        threshold: "$20/day minimum"
+        source: "CA-W4"
+        weight: 0.85
+      - id: "SO-HEU-154"
+        title: "30-Day Attack Commitment"
+        statement: "4+ hours daily for 30 consecutive days."
+        threshold: "4 hrs/day 30 days"
+        source: "CA-W4"
+        weight: 0.85
+      - id: "SO-HEU-155"
+        title: "Response Time Maximum"
+        statement: "Respond to leads within 5 minutes."
+        threshold: "5-minute max"
+        source: "CA-W4"
+        weight: 0.85
+      - id: "SO-HEU-156"
+        title: "Pipeline Minimum"
+        statement: "10 active conversations at all times."
+        threshold: "10 active convos"
+        source: "CA-W4"
+        weight: 0.85
+      - id: "SO-HEU-157"
+        title: "Booking Rate Target"
+        statement: "30% booking rate from outreach."
+        threshold: "30% booking"
+        source: "CA-W4"
+        weight: 0.85
+      - id: "SO-HEU-158"
+        title: "Show Rate Target"
+        statement: "70% show rate for booked calls."
+        threshold: "70% show rate"
+        source: "CA-W4"
+        weight: 0.85
+      - id: "SO-HEU-159"
+        title: "Value Post Ratio"
+        statement: "4:1 value to promotional posts."
+        threshold: "4:1 ratio"
+        source: "CA-W4"
+        weight: 0.85
+      - id: "SO-HEU-160"
+        title: "Channel Focus Rule"
+        statement: "Master one channel before adding second."
+        threshold: "1 channel first"
+        source: "CA-W4"
+        weight: 0.85
+      - id: "SO-HEU-161"
+        title: "Paralysis Detection Timer"
+        statement: "2 hours deciding without acting = paralysis."
+        threshold: "2-hour max"
+        source: "CA-W4"
+        weight: 0.85
+      - id: "SO-HEU-162"
+        title: "Warm-Up Period"
+        statement: "2 weeks consistent activity before judging channel."
+        threshold: "2-week warmup"
+        source: "CA-W4"
+        weight: 0.85
+      # --- W5a (17) ---
+      - id: "SO-HEU-200"
+        title: "Ad Hypothesis Budget"
+        statement: "Test each ad with $50-100."
+        threshold: "$50-100 per test"
+        source: "CA-W5"
+        weight: 0.85
+      - id: "SO-HEU-201"
+        title: "Audience Size Sweet Spot"
+        statement: "500K-2M for optimal algorithm."
+        threshold: "500K-2M"
+        source: "CA-W5"
+        weight: 0.85
+      - id: "SO-HEU-202"
+        title: "Creative Testing Minimum"
+        statement: "3 creatives per audience before judging."
+        threshold: "3 per audience"
+        source: "CA-W5"
+        weight: 0.85
+      - id: "SO-HEU-203"
+        title: "CTR Benchmark"
+        statement: "Below 1% signals mismatch."
+        threshold: "1% CTR minimum"
+        source: "CA-W5"
+        weight: 0.85
+      - id: "SO-HEU-204"
+        title: "CPL Ceiling"
+        statement: "CPL below 10% of client value."
+        threshold: "CPL < 10% value"
+        source: "CA-W5"
+        weight: 0.85
+      - id: "SO-HEU-205"
+        title: "Tracking Setup First"
+        statement: "Complete tracking before any launch."
+        threshold: "100% tracking"
+        source: "CA-W5"
+        weight: 0.85
+      - id: "SO-HEU-206"
+        title: "Outlier Identification"
+        statement: "3x above/below average = investigate."
+        threshold: "3x variance"
+        source: "CA-W5"
+        weight: 0.85
+      - id: "SO-HEU-207"
+        title: "North Star Metric Rule"
+        statement: "Exactly one north star metric."
+        threshold: "Exactly 1"
+        source: "CA-W5"
+        weight: 0.85
+      - id: "SO-HEU-208"
+        title: "Omnipresence Touchpoints"
+        statement: "3 different places before sales conversation."
+        threshold: "3 touchpoints"
+        source: "CA-W5"
+        weight: 0.85
+      - id: "SO-HEU-209"
+        title: "Template Customization Limit"
+        statement: "Change max 30% of proven template."
+        threshold: "Max 30% change"
+        source: "CA-W5"
+        weight: 0.85
+      - id: "SO-HEU-210"
+        title: "Minimum Test Duration"
+        statement: "3 days minimum per test."
+        threshold: "3 days"
+        source: "CA-W5"
+        weight: 0.85
+      - id: "SO-HEU-211"
+        title: "Ad Frequency Cap"
+        statement: "Above 3.0 frequency = fatigue likely."
+        threshold: "3.0 cap"
+        source: "CA-W5"
+        weight: 0.85
+      - id: "SO-HEU-212"
+        title: "Landing Page Load Time"
+        statement: "Under 3 seconds or conversion drops."
+        threshold: "3-second max"
+        source: "CA-W5"
+        weight: 0.85
+      - id: "SO-HEU-213"
+        title: "Video Ad Length"
+        statement: "60-120 seconds optimal."
+        threshold: "60-120 sec"
+        source: "CA-W5"
+        weight: 0.85
+      - id: "SO-HEU-214"
+        title: "Headline Testing Priority"
+        statement: "Headline = 80% of ad performance."
+        threshold: "80% importance"
+        source: "CA-W5"
+        weight: 0.85
+      - id: "SO-HEU-215"
+        title: "Retargeting Window"
+        statement: "Retarget within 7 days for highest conversion."
+        threshold: "7-day window"
+        source: "CA-W5"
+        weight: 0.85
+      - id: "SO-HEU-216"
+        title: "Campaign Structure Limit"
+        statement: "Max 5 active campaigns per account."
+        threshold: "Max 5 campaigns"
+        source: "CA-W5"
+        weight: 0.85
+      # --- W5b (20) ---
+      - id: "SO-HEU-250"
+        title: "Genesis Budget"
+        statement: "$20-50/day hold 3 days before adjusting."
+        threshold: "$20-50/day 3 days"
+        source: "CA-W5"
+        weight: 0.85
+      - id: "SO-HEU-251"
+        title: "Initial Conditions Lock"
+        statement: "Change one variable at a time."
+        threshold: "1 variable only"
+        source: "CA-W5"
+        weight: 0.85
+      - id: "SO-HEU-252"
+        title: "Daily Review Time"
+        statement: "30 minutes daily ad review."
+        threshold: "30 min daily"
+        source: "CA-W5"
+        weight: 0.85
+      - id: "SO-HEU-253"
+        title: "Ratchet Increment"
+        statement: "Max 20% daily budget increase."
+        threshold: "Max 20%/day"
+        source: "CA-W5"
+        weight: 0.85
+      - id: "SO-HEU-254"
+        title: "Kill Threshold"
+        statement: "Kill after 2x target CPA with no conversion."
+        threshold: "2x CPA = kill"
+        source: "CA-W5"
+        weight: 0.85
+      - id: "SO-HEU-255"
+        title: "Winner Scaling Rule"
+        statement: "3+ conversions at target CPA = winner."
+        threshold: "3+ at CPA"
+        source: "CA-W5"
+        weight: 0.85
+      - id: "SO-HEU-256"
+        title: "Creative Refresh Cycle"
+        statement: "Refresh creatives every 2-3 weeks."
+        threshold: "2-3 weeks"
+        source: "CA-W5"
+        weight: 0.85
+      - id: "SO-HEU-257"
+        title: "Pixel Maturity Threshold"
+        statement: "50 conversions/week for optimal ML."
+        threshold: "50/week"
+        source: "CA-W5"
+        weight: 0.85
+      - id: "SO-HEU-258"
+        title: "Budget Waste Limit"
+        statement: "5x CPA no results = revise thesis."
+        threshold: "5x CPA"
+        source: "CA-W5"
+        weight: 0.85
+      - id: "SO-HEU-259"
+        title: "Lookalike Quality"
+        statement: "100+ converters for quality lookalikes."
+        threshold: "100+ converters"
+        source: "CA-W5"
+        weight: 0.85
+      - id: "SO-HEU-260"
+        title: "Account Warm-Up"
+        statement: "2 weeks low spend for new accounts."
+        threshold: "2-week warmup"
+        source: "CA-W5"
+        weight: 0.85
+      - id: "SO-HEU-261"
+        title: "ROAS Target"
+        statement: "Minimum 3x ROAS for sustainability."
+        threshold: "3x ROAS"
+        source: "CA-W5"
+        weight: 0.85
+      - id: "SO-HEU-262"
+        title: "Split Test Duration"
+        statement: "7 days or 100 conversions per variant."
+        threshold: "7d or 100 conv"
+        source: "CA-W5"
+        weight: 0.85
+      - id: "SO-HEU-263"
+        title: "Copy Length by Awareness"
+        statement: "Long copy cold short copy warm."
+        threshold: "Long cold short warm"
+        source: "CA-W5"
+        weight: 0.85
+      - id: "SO-HEU-264"
+        title: "Placement Optimization"
+        statement: "3 days auto then analyze and refine."
+        threshold: "3-day auto"
+        source: "CA-W5"
+        weight: 0.85
+      - id: "SO-HEU-265"
+        title: "Dayparting Analysis"
+        statement: "1000+ clicks before dayparting."
+        threshold: "1000 clicks"
+        source: "CA-W5"
+        weight: 0.85
+      - id: "SO-HEU-266"
+        title: "Scaling Plateau"
+        statement: "ROAS below 2x = plateau add new creative."
+        threshold: "ROAS < 2x"
+        source: "CA-W5"
+        weight: 0.85
+      - id: "SO-HEU-267"
+        title: "Reporting Cadence"
+        statement: "Daily scaling weekly maintenance monthly strategy."
+        threshold: "D/W/M cadence"
+        source: "CA-W5"
+        weight: 0.85
+      - id: "SO-HEU-268"
+        title: "Attribution Window"
+        statement: "7-day click 1-day view for consulting."
+        threshold: "7d click 1d view"
+        source: "CA-W5"
+        weight: 0.85
+      - id: "SO-HEU-269"
+        title: "Budget Allocation Rule"
+        statement: "70% winners 20% tests 10% experiments."
+        threshold: "70/20/10"
+        source: "CA-W5"
+        weight: 0.85
+      # --- W6 (20) ---
+      - id: "SO-HEU-300"
+        title: "MVS Definition Time"
+        statement: "Define MVS in 2 hours or less."
+        threshold: "2 hours max"
+        source: "CA-W6"
+        weight: 0.85
+      - id: "SO-HEU-301"
+        title: "Onboarding Timeline"
+        statement: "Complete within 48 hours of payment."
+        threshold: "48 hours"
+        source: "CA-W6"
+        weight: 0.85
+      - id: "SO-HEU-302"
+        title: "Expectation Document"
+        statement: "Written expectations before any work."
+        threshold: "Written doc"
+        source: "CA-W6"
+        weight: 0.85
+      - id: "SO-HEU-303"
+        title: "Contractor Trial Period"
+        statement: "Paid trial before committing."
+        threshold: "Paid trial"
+        source: "CA-W6"
+        weight: 0.85
+      - id: "SO-HEU-304"
+        title: "Contractor Pay Premium"
+        statement: "20-30% above market for top 1%."
+        threshold: "20-30% above"
+        source: "CA-W6"
+        weight: 0.85
+      - id: "SO-HEU-305"
+        title: "Project Check-In"
+        statement: "Every 48 hours on active projects."
+        threshold: "48-hour cycle"
+        source: "CA-W6"
+        weight: 0.85
+      - id: "SO-HEU-306"
+        title: "Cashflow Forecast Horizon"
+        statement: "90-day rolling forecast weekly update."
+        threshold: "90-day rolling"
+        source: "CA-W6"
+        weight: 0.85
+      - id: "SO-HEU-307"
+        title: "Cash Reserve Minimum"
+        statement: "3 months operating expenses."
+        threshold: "3 months"
+        source: "CA-W6"
+        weight: 0.85
+      - id: "SO-HEU-308"
+        title: "Client Communication"
+        statement: "Weekly written progress updates."
+        threshold: "Weekly written"
+        source: "CA-W6"
+        weight: 0.85
+      - id: "SO-HEU-309"
+        title: "Refund Window"
+        statement: "30-day refund window builds trust."
+        threshold: "30 days"
+        source: "CA-W6"
+        weight: 0.85
+      - id: "SO-HEU-310"
+        title: "Churn Rate Target"
+        statement: "Below 5% monthly for recurring."
+        threshold: "< 5% monthly"
+        source: "CA-W6"
+        weight: 0.85
+      - id: "SO-HEU-311"
+        title: "NPS Score Target"
+        statement: "50+ from clients quarterly."
+        threshold: "NPS 50+"
+        source: "CA-W6"
+        weight: 0.85
+      - id: "SO-HEU-312"
+        title: "Automation Before Hiring"
+        statement: "Automate if < 15 min and daily."
+        threshold: "< 15 min daily"
+        source: "CA-W6"
+        weight: 0.85
+      - id: "SO-HEU-313"
+        title: "Platform Feature Priority"
+        statement: "Features that reduce support tickets first."
+        threshold: "Reduce tickets"
+        source: "CA-W6"
+        weight: 0.85
+      - id: "SO-HEU-314"
+        title: "Client Capacity Planning"
+        statement: "80% capacity max for quality."
+        threshold: "80% max"
+        source: "CA-W6"
+        weight: 0.85
+      - id: "SO-HEU-315"
+        title: "SOW Clarity Score"
+        statement: "8/10 minimum before sending."
+        threshold: "8/10 clarity"
+        source: "CA-W6"
+        weight: 0.85
+      - id: "SO-HEU-316"
+        title: "Scope Creep Prevention"
+        statement: "Change order within 24 hours of out-scope request."
+        threshold: "24-hour response"
+        source: "CA-W6"
+        weight: 0.85
+      - id: "SO-HEU-317"
+        title: "Testimonial Collection"
+        statement: "Request within 7 days of result."
+        threshold: "7 days"
+        source: "CA-W6"
+        weight: 0.85
+      - id: "SO-HEU-318"
+        title: "Referral Ask Timing"
+        statement: "Ask at peak satisfaction not contract end."
+        threshold: "Peak satisfaction"
+        source: "CA-W6"
+        weight: 0.85
+      - id: "SO-HEU-319"
+        title: "Revenue Per Employee"
+        statement: "$200K minimum per head."
+        threshold: "$200K/head"
+        source: "CA-W6"
+        weight: 0.85
+      # --- W7+DM (18) ---
+      - id: "SO-HEU-350"
+        title: "Productization Readiness"
+        statement: "10+ clients with consistent process."
+        threshold: "10+ clients"
+        source: "CA-W7"
+        weight: 0.85
+      - id: "SO-HEU-351"
+        title: "Exponential Scale Indicator"
+        statement: "1 client = 1 person means linear -- productize."
+        threshold: "1:1 = linear"
+        source: "CA-W7"
+        weight: 0.85
+      - id: "SO-HEU-352"
+        title: "Uplevel Pricing Multiple"
+        statement: "2-5x hourly equivalent for productized."
+        threshold: "2-5x hourly"
+        source: "CA-W7"
+        weight: 0.85
+      - id: "SO-HEU-353"
+        title: "DM Retainer Duration"
+        statement: "Minimum 6 months for results."
+        threshold: "6 months min"
+        source: "CA-W7-DM"
+        weight: 0.85
+      - id: "SO-HEU-354"
+        title: "Niche Pivot Speed"
+        statement: "90 days consistent effort then pivot if failing."
+        threshold: "90 days"
+        source: "CA-W7-DM"
+        weight: 0.85
+      - id: "SO-HEU-355"
+        title: "Origin Story Length"
+        statement: "90 seconds spoken 300 words written."
+        threshold: "90sec/300words"
+        source: "CA-W7-DM"
+        weight: 0.85
+      - id: "SO-HEU-356"
+        title: "Website Retainer Pricing"
+        statement: "$1-3K/month based on scope."
+        threshold: "$1-3K/month"
+        source: "CA-W7-DM"
+        weight: 0.85
+      - id: "SO-HEU-357"
+        title: "DM Education Content"
+        statement: "5 educational pieces before pitching."
+        threshold: "5 pieces"
+        source: "CA-W7-DM"
+        weight: 0.85
+      - id: "SO-HEU-358"
+        title: "Contractor Portfolio Minimum"
+        statement: "5 case studies minimum."
+        threshold: "5 case studies"
+        source: "CA-W7-DM"
+        weight: 0.85
+      - id: "SO-HEU-359"
+        title: "DM Timeline Setting"
+        statement: "90-day milestones: setup optimize results."
+        threshold: "90-day milestones"
+        source: "CA-W7-DM"
+        weight: 0.85
+      - id: "SO-HEU-360"
+        title: "Knowledge Product Pricing"
+        statement: "$500-5000 depending on depth."
+        threshold: "$500-5000"
+        source: "CA-W7"
+        weight: 0.85
+      - id: "SO-HEU-361"
+        title: "Course Completion Rate"
+        statement: "Design for 60%+ completion."
+        threshold: "60% completion"
+        source: "CA-W7"
+        weight: 0.85
+      - id: "SO-HEU-362"
+        title: "Identity Shift Indicator"
+        statement: "Language change within 30 days or deeper work needed."
+        threshold: "30-day language"
+        source: "CA-W7"
+        weight: 0.85
+      - id: "SO-HEU-363"
+        title: "Leverage Ratio"
+        statement: "Revenue per hour should increase monthly."
+        threshold: "Monthly increase"
+        source: "CA-W7"
+        weight: 0.85
+      - id: "SO-HEU-364"
+        title: "Product Market Fit Signal"
+        statement: "40% very disappointed = PMF."
+        threshold: "40% disappointed"
+        source: "CA-W7"
+        weight: 0.85
+      - id: "SO-HEU-365"
+        title: "Testimonial Video Length"
+        statement: "60-120 seconds maximum impact."
+        threshold: "60-120 sec"
+        source: "CA-W7"
+        weight: 0.85
+      - id: "SO-HEU-366"
+        title: "Scale vs Quality Balance"
+        statement: "Never let quality drop below 7/10 while scaling."
+        threshold: "7/10 minimum"
+        source: "CA-W7"
+        weight: 0.85
+      - id: "SO-HEU-367"
+        title: "Consulting to Product Transition"
+        statement: "50+ clients before product transition."
+        threshold: "50+ clients"
+        source: "CA-W7"
+        weight: 0.85
+
+  L4_FRAMEWORKS:
+    count: 74
+    items:
+      # --- SETTERLUN (4) ---
+      - id: "SO-FW-001"
+        title: "Bridge Analogy Framework"
+        statement: "Current State Bridge Desired State Troll Toll Booth Competitors Unique Mechanism."
+        source: "SETTERLUN-OC"
+        weight: 0.95
+      - id: "SO-FW-002"
+        title: "Purple Ocean Framework"
+        statement: "Red Ocean validation + Blue Ocean differentiation = Purple Ocean."
+        source: "SETTERLUN-PO"
+        weight: 0.90
+      - id: "SO-FW-003"
+        title: "3 Business Archetypes"
+        statement: "DFY DWY DIY with price-scale-freedom tradeoffs; DWY recommended."
+        source: "SETTERLUN-BD"
+        weight: 0.90
+      - id: "SO-FW-004"
+        title: "Pizza Strategy"
+        statement: "Progressive tweaking from Red to Purple avoiding Blue."
+        source: "SETTERLUN-PO"
+        weight: 0.80
+      # --- W1 (11) ---
+      - id: "SO-FW-005"
+        title: "Four Pillars Foundation"
+        statement: "Build foundations across mindset model market message."
+        source: "CA-W1"
+        weight: 0.85
+      - id: "SO-FW-006"
+        title: "Natural Law Business Equation"
+        statement: "Revenue = People x Value x Price modeling framework."
+        source: "CA-W1"
+        weight: 0.85
+      - id: "SO-FW-007"
+        title: "Consultant Evolution Framework"
+        statement: "Technician to Strategist to Visionary transition criteria."
+        source: "CA-W1"
+        weight: 0.85
+      - id: "SO-FW-008"
+        title: "Market View Framework"
+        statement: "Forming documenting and validating market thesis."
+        source: "CA-W1"
+        weight: 0.85
+      - id: "SO-FW-009"
+        title: "Niche Definition Worksheet"
+        statement: "Market problem and solution intersection worksheet."
+        source: "CA-W1"
+        weight: 0.85
+      - id: "SO-FW-010"
+        title: "MVO Worksheet"
+        statement: "Crafting Minimum Viable Offer from niche hypothesis."
+        source: "CA-W1"
+        weight: 0.85
+      - id: "SO-FW-011"
+        title: "Message Hypothesis Framework"
+        statement: "Creating and testing resonating messages."
+        source: "CA-W1"
+        weight: 0.85
+      - id: "SO-FW-012"
+        title: "Signal vs Noise Framework"
+        statement: "Evaluating message effectiveness through S/N ratio."
+        source: "CA-W1"
+        weight: 0.85
+      - id: "SO-FW-013"
+        title: "Client Avatar Worksheet"
+        statement: "Deep avatar with demographics psychographics and pain."
+        source: "CA-W1"
+        weight: 0.85
+      - id: "SO-FW-014"
+        title: "Chart of Truth"
+        statement: "Living document tracking market beliefs vs evidence."
+        source: "CA-W1"
+        weight: 0.85
+      - id: "SO-FW-015"
+        title: "10 Smart Market Questions"
+        statement: "10-question framework for rapid market validation."
+        source: "CA-W1"
+        weight: 0.85
+      # --- W2 (6) ---
+      - id: "SO-FW-050"
+        title: "Dark Force Identification Framework"
+        statement: "Cataloguing fears and comfort patterns."
+        source: "CA-W2"
+        weight: 0.85
+      - id: "SO-FW-051"
+        title: "Devil Confrontation Protocol"
+        statement: "Facing fears through graduated exposure and reframing."
+        source: "CA-W2"
+        weight: 0.85
+      - id: "SO-FW-052"
+        title: "Duality Decision Framework"
+        statement: "Choosing between higher and lower self."
+        source: "CA-W2"
+        weight: 0.85
+      - id: "SO-FW-053"
+        title: "Belief Audit Framework"
+        statement: "Auditing and replacing limiting beliefs."
+        source: "CA-W2"
+        weight: 0.85
+      - id: "SO-FW-054"
+        title: "Alchemy Planner"
+        statement: "Weekly tool tracking personal transformation alongside business."
+        source: "CA-W2"
+        weight: 0.85
+      - id: "SO-FW-055"
+        title: "Environment Design Framework"
+        statement: "Auditing and redesigning environment for success."
+        source: "CA-W2"
+        weight: 0.85
+      # --- W3 (13) ---
+      - id: "SO-FW-100"
+        title: "Diagnosis-Prescription Sales Framework"
+        statement: "Selling as diagnosis then prescription."
+        source: "CA-W3"
+        weight: 0.92
+      - id: "SO-FW-101"
+        title: "Conversion Alchemy Framework"
+        statement: "Transforming skepticism into trust sequentially."
+        source: "CA-W3"
+        weight: 0.90
+      - id: "SO-FW-102"
+        title: "Sales Script Structure"
+        statement: "Opening diagnosis prescription objection handling close."
+        source: "CA-W3"
+        weight: 0.90
+      - id: "SO-FW-103"
+        title: "Pendulum Management Framework"
+        statement: "Managing prospect doubt oscillation."
+        source: "CA-W3"
+        weight: 0.85
+      - id: "SO-FW-104"
+        title: "Flame Ignition Framework"
+        statement: "Identifying and igniting dormant desire."
+        source: "CA-W3"
+        weight: 0.85
+      - id: "SO-FW-105"
+        title: "Pain Quantification Framework"
+        statement: "Quantifying prospect pain in financial terms."
+        source: "CA-W3"
+        weight: 0.85
+      - id: "SO-FW-106"
+        title: "Question Hierarchy Framework"
+        statement: "Layered questioning from surface to deep."
+        source: "CA-W3"
+        weight: 0.88
+      - id: "SO-FW-107"
+        title: "Objection Handling Framework"
+        statement: "Decode acknowledge and resolve objections."
+        source: "CA-W3"
+        weight: 0.88
+      - id: "SO-FW-108"
+        title: "Tonality Calibration Framework"
+        statement: "Matching tonality to emotional state per stage."
+        source: "CA-W3"
+        weight: 0.85
+      - id: "SO-FW-109"
+        title: "Detachment Protocol"
+        statement: "Developing genuine outcome detachment."
+        source: "CA-W3"
+        weight: 0.85
+      - id: "SO-FW-110"
+        title: "Sales Practice Framework"
+        statement: "Daily practice regimen for sales mastery."
+        source: "CA-W3"
+        weight: 0.85
+      - id: "SO-FW-111"
+        title: "Qualification Framework"
+        statement: "5-minute qualification assessment."
+        source: "CA-W3"
+        weight: 0.85
+      - id: "SO-FW-112"
+        title: "Follow-Up Sequence Framework"
+        statement: "5-touch follow-up with timing and messaging."
+        source: "CA-W3"
+        weight: 0.85
+      # --- W4 (7) ---
+      - id: "SO-FW-150"
+        title: "Organic Attraction Playbook"
+        statement: "Attracting clients through organic channels."
+        source: "CA-W4"
+        weight: 0.85
+      - id: "SO-FW-151"
+        title: "Paid Attraction Playbook"
+        statement: "Paid acquisition with budget and channel selection."
+        source: "CA-W4"
+        weight: 0.85
+      - id: "SO-FW-152"
+        title: "War Machine Assembly Blueprint"
+        statement: "Systematic client acquisition machine."
+        source: "CA-W4"
+        weight: 0.85
+      - id: "SO-FW-153"
+        title: "30-Day Attack Plan"
+        statement: "Day-by-day intensive acquisition sprint."
+        source: "CA-W4"
+        weight: 0.85
+      - id: "SO-FW-154"
+        title: "Anti-Paralysis Decision Framework"
+        statement: "Fast decisions with imperfect information."
+        source: "CA-W4"
+        weight: 0.85
+      - id: "SO-FW-155"
+        title: "Value-First Content Framework"
+        statement: "Creating value content that generates leads."
+        source: "CA-W4"
+        weight: 0.85
+      - id: "SO-FW-156"
+        title: "Pipeline Management Framework"
+        statement: "Managing conversations from outreach to close."
+        source: "CA-W4"
+        weight: 0.85
+      # --- W5a (8) ---
+      - id: "SO-FW-200"
+        title: "Facebook Algorithm Map"
+        statement: "How algorithm evaluates distributes and optimizes ads."
+        source: "CA-W5"
+        weight: 0.85
+      - id: "SO-FW-201"
+        title: "Ad Hypothesis Testing Framework"
+        statement: "Creating testing evaluating ad hypotheses."
+        source: "CA-W5"
+        weight: 0.85
+      - id: "SO-FW-202"
+        title: "Audience Hypothesis Framework"
+        statement: "Building testing refining audience targeting."
+        source: "CA-W5"
+        weight: 0.85
+      - id: "SO-FW-203"
+        title: "Swan Tracking Dashboard"
+        statement: "Identifying tracking outlier results."
+        source: "CA-W5"
+        weight: 0.85
+      - id: "SO-FW-204"
+        title: "Omnipresence Campaign Blueprint"
+        statement: "Multi-placement campaigns for omnipresence."
+        source: "CA-W5"
+        weight: 0.85
+      - id: "SO-FW-205"
+        title: "Ad Template Library"
+        statement: "Proven ad templates by objective and audience temp."
+        source: "CA-W5"
+        weight: 0.85
+      - id: "SO-FW-206"
+        title: "Audience Template Library"
+        statement: "Proven audience templates by niche and funnel stage."
+        source: "CA-W5"
+        weight: 0.85
+      - id: "SO-FW-207"
+        title: "Tracking Setup Checklist"
+        statement: "Complete tracking before campaign launch."
+        source: "CA-W5"
+        weight: 0.85
+      # --- W5b (8) ---
+      - id: "SO-FW-250"
+        title: "Campaign Genesis Protocol"
+        statement: "Launching with optimal initial conditions."
+        source: "CA-W5"
+        weight: 0.85
+      - id: "SO-FW-251"
+        title: "Daily Ad Management Workflow"
+        statement: "Structured daily review adjust optimize routine."
+        source: "CA-W5"
+        weight: 0.85
+      - id: "SO-FW-252"
+        title: "Ratcheting Scale Protocol"
+        statement: "Incrementally scaling while maintaining performance."
+        source: "CA-W5"
+        weight: 0.85
+      - id: "SO-FW-253"
+        title: "Kill or Scale Decision Framework"
+        statement: "Quick kill/scale/hold decisions on ad sets."
+        source: "CA-W5"
+        weight: 0.85
+      - id: "SO-FW-254"
+        title: "Creative Refresh System"
+        statement: "Continuous creative development and rotation."
+        source: "CA-W5"
+        weight: 0.85
+      - id: "SO-FW-255"
+        title: "Pixel Optimization Framework"
+        statement: "Feeding and protecting the pixel for ML."
+        source: "CA-W5"
+        weight: 0.85
+      - id: "SO-FW-256"
+        title: "Budget Allocation Framework"
+        statement: "70/20/10 across winners tests experiments."
+        source: "CA-W5"
+        weight: 0.85
+      - id: "SO-FW-257"
+        title: "Scaling Troubleshooting Framework"
+        statement: "Diagnosing rising CPAs declining ROAS."
+        source: "CA-W5"
+        weight: 0.85
+      # --- W6 (8) ---
+      - id: "SO-FW-300"
+        title: "Minimum Viable Service Blueprint"
+        statement: "Simplest service version that produces results."
+        source: "CA-W6"
+        weight: 0.85
+      - id: "SO-FW-301"
+        title: "Client Expectation Setting Framework"
+        statement: "Setting documenting managing expectations."
+        source: "CA-W6"
+        weight: 0.85
+      - id: "SO-FW-302"
+        title: "Top 1% Contractor Hiring Framework"
+        statement: "Identifying evaluating retaining top contractors."
+        source: "CA-W6"
+        weight: 0.85
+      - id: "SO-FW-303"
+        title: "Project Management Workflow System"
+        statement: "Managing multiple client projects simultaneously."
+        source: "CA-W6"
+        weight: 0.85
+      - id: "SO-FW-304"
+        title: "Cashflow Mastery Framework"
+        statement: "Forecasting managing protecting cashflow."
+        source: "CA-W6"
+        weight: 0.85
+      - id: "SO-FW-305"
+        title: "Platform Growth Framework"
+        statement: "Transitioning from linear to platform growth."
+        source: "CA-W6"
+        weight: 0.85
+      - id: "SO-FW-306"
+        title: "Marketing Automation Stack"
+        statement: "Recommended automation stack for consultants."
+        source: "CA-W6"
+        weight: 0.85
+      - id: "SO-FW-307"
+        title: "Service Delivery Quality Framework"
+        statement: "Maintaining quality while scaling."
+        source: "CA-W6"
+        weight: 0.85
+      # --- W7+DM (9) ---
+      - id: "SO-FW-350"
+        title: "Exponential Scale Blueprint"
+        statement: "Identifying activating leverage points."
+        source: "CA-W7"
+        weight: 0.85
+      - id: "SO-FW-351"
+        title: "Service Productization Framework"
+        statement: "Converting custom services to standard products."
+        source: "CA-W7"
+        weight: 0.85
+      - id: "SO-FW-352"
+        title: "Uplevel Consulting Model"
+        statement: "Transitioning from time to system consulting."
+        source: "CA-W7"
+        weight: 0.85
+      - id: "SO-FW-353"
+        title: "DM Service Offering Framework"
+        statement: "Structuring DM services as consulting retainers."
+        source: "CA-W7-DM"
+        weight: 0.85
+      - id: "SO-FW-354"
+        title: "Niche Pivot Decision Framework"
+        statement: "Evaluating pivot persist or abandon."
+        source: "CA-W7-DM"
+        weight: 0.85
+      - id: "SO-FW-355"
+        title: "Origin Story Framework"
+        statement: "Crafting and deploying origin story."
+        source: "CA-W7-DM"
+        weight: 0.85
+      - id: "SO-FW-356"
+        title: "DM Retainer Structure"
+        statement: "Structuring retainer contracts scope pricing deliverables."
+        source: "CA-W7-DM"
+        weight: 0.85
+      - id: "SO-FW-357"
+        title: "Knowledge Product Launch Framework"
+        statement: "Packaging expertise into scalable products."
+        source: "CA-W7"
+        weight: 0.85
+      - id: "SO-FW-358"
+        title: "Identity Transformation Framework"
+        statement: "Facilitating identity-level client transformation."
+        source: "CA-W7"
+        weight: 0.85
+
+  L5_METHODOLOGIES:
+    count: 64
+    items:
+      # --- SETTERLUN (2) ---
+      - id: "SO-MET-001"
+        title: "Offer Creation via Bridge Analogy"
+        statement: "6 steps: Current State Desired State Bridge Troll Toll Unique Mechanism."
+        source: "SETTERLUN-OC"
+        weight: 0.90
+      - id: "SO-MET-002"
+        title: "Purple Ocean Positioning Process"
+        statement: "4 steps: Identify Red Apply Pizza Verify Purple Avoid Blue."
+        source: "SETTERLUN-PO"
+        weight: 0.85
+      # --- W1 (8) ---
+      - id: "SO-MET-003"
+        title: "Foundation Setting Methodology"
+        statement: "Establishing four pillars in correct sequence."
+        source: "CA-W1"
+        weight: 0.85
+      - id: "SO-MET-004"
+        title: "Natural Law Application"
+        statement: "Identifying and applying natural laws to decisions."
+        source: "CA-W1"
+        weight: 0.85
+      - id: "SO-MET-005"
+        title: "Consultant Evolution Assessment"
+        statement: "Assessing current stage mapping path to next."
+        source: "CA-W1"
+        weight: 0.85
+      - id: "SO-MET-006"
+        title: "Market View Documentation"
+        statement: "Forming documenting validating market thesis."
+        source: "CA-W1"
+        weight: 0.85
+      - id: "SO-MET-007"
+        title: "Niche Selection Process"
+        statement: "Selecting validating refining consulting niche."
+        source: "CA-W1"
+        weight: 0.85
+      - id: "SO-MET-008"
+        title: "MVO Crafting Process"
+        statement: "Designing MVO from hypothesis to launch."
+        source: "CA-W1"
+        weight: 0.85
+      - id: "SO-MET-009"
+        title: "Message Resonance Testing"
+        statement: "Testing message with real prospects iterating."
+        source: "CA-W1"
+        weight: 0.85
+      - id: "SO-MET-010"
+        title: "Client Avatar Deep Dive"
+        statement: "Building deep avatars through interviews."
+        source: "CA-W1"
+        weight: 0.85
+      # --- W2 (7) ---
+      - id: "SO-MET-050"
+        title: "Dark Force Confrontation Process"
+        statement: "Identifying confronting transforming inner resistance."
+        source: "CA-W2"
+        weight: 0.85
+      - id: "SO-MET-051"
+        title: "Devil Face-Off Protocol"
+        statement: "Facing fears through graduated exposure."
+        source: "CA-W2"
+        weight: 0.85
+      - id: "SO-MET-052"
+        title: "Self-Alchemy Daily Practice"
+        statement: "Daily transformation through journaling and action."
+        source: "CA-W2"
+        weight: 0.85
+      - id: "SO-MET-053"
+        title: "Paradigm Shift Methodology"
+        statement: "Recognizing outdated paradigms installing new worldviews."
+        source: "CA-W2"
+        weight: 0.85
+      - id: "SO-MET-054"
+        title: "Belief Replacement Process"
+        statement: "Identifying limiting beliefs installing empowering ones."
+        source: "CA-W2"
+        weight: 0.85
+      - id: "SO-MET-055"
+        title: "Environment Redesign Process"
+        statement: "Auditing and redesigning environment for success."
+        source: "CA-W2"
+        weight: 0.85
+      - id: "SO-MET-056"
+        title: "Loaded Dice Preparation"
+        statement: "Preparing across all dimensions for maximum probability."
+        source: "CA-W2"
+        weight: 0.85
+      # --- W3 (9) ---
+      - id: "SO-MET-100"
+        title: "Sales Diagnosis Process"
+        statement: "Conducting diagnostic conversations with structured questioning."
+        source: "CA-W3"
+        weight: 0.92
+      - id: "SO-MET-101"
+        title: "Conversion Alchemy Steps"
+        statement: "Transforming stranger to prospect to client."
+        source: "CA-W3"
+        weight: 0.90
+      - id: "SO-MET-102"
+        title: "Script Crafting Methodology"
+        statement: "Creating scripts through template customization practice."
+        source: "CA-W3"
+        weight: 0.85
+      - id: "SO-MET-103"
+        title: "Doubt Management Process"
+        statement: "Recognizing managing doubt pendulum during sales."
+        source: "CA-W3"
+        weight: 0.85
+      - id: "SO-MET-104"
+        title: "Flame Ignition Process"
+        statement: "Identifying dormant desire and igniting it."
+        source: "CA-W3"
+        weight: 0.85
+      - id: "SO-MET-105"
+        title: "Objection Resolution Process"
+        statement: "Decoding root causes and resolving objections."
+        source: "CA-W3"
+        weight: 0.85
+      - id: "SO-MET-106"
+        title: "Sales Mastery Training Program"
+        statement: "Daily training through practice cycles."
+        source: "CA-W3"
+        weight: 0.85
+      - id: "SO-MET-107"
+        title: "Follow-Up Execution Process"
+        statement: "5-touch follow-up with timing and channel per touch."
+        source: "CA-W3"
+        weight: 0.85
+      - id: "SO-MET-108"
+        title: "Qualification Assessment Process"
+        statement: "5-minute rapid qualification with scoring."
+        source: "CA-W3"
+        weight: 0.85
+      # --- W4 (8) ---
+      - id: "SO-MET-150"
+        title: "Organic Client Acquisition Process"
+        statement: "Content outreach and relationship-building methodology."
+        source: "CA-W4"
+        weight: 0.85
+      - id: "SO-MET-151"
+        title: "Paid Acquisition Launch Process"
+        statement: "Launching paid campaigns with proper setup."
+        source: "CA-W4"
+        weight: 0.85
+      - id: "SO-MET-152"
+        title: "War Machine Assembly Process"
+        statement: "Assembling complete acquisition machine."
+        source: "CA-W4"
+        weight: 0.85
+      - id: "SO-MET-153"
+        title: "30-Day Attack Execution"
+        statement: "Day-by-day intensive acquisition sprint."
+        source: "CA-W4"
+        weight: 0.85
+      - id: "SO-MET-154"
+        title: "Anti-Paralysis Execution Protocol"
+        statement: "Breaking through paralysis with time-boxed action."
+        source: "CA-W4"
+        weight: 0.85
+      - id: "SO-MET-155"
+        title: "Content Creation Workflow"
+        statement: "Weekly workflow for consistent content."
+        source: "CA-W4"
+        weight: 0.85
+      - id: "SO-MET-156"
+        title: "Pipeline Management Process"
+        statement: "Daily process for advancing prospects."
+        source: "CA-W4"
+        weight: 0.85
+      - id: "SO-MET-157"
+        title: "Channel Mastery Process"
+        statement: "Selecting mastering optimizing one channel."
+        source: "CA-W4"
+        weight: 0.85
+      # --- W5a (5) ---
+      - id: "SO-MET-200"
+        title: "Facebook Campaign Setup Process"
+        statement: "Setting up campaigns with proper structure."
+        source: "CA-W5"
+        weight: 0.85
+      - id: "SO-MET-201"
+        title: "Ad Hypothesis Testing Process"
+        statement: "Creating launching evaluating iterating hypotheses."
+        source: "CA-W5"
+        weight: 0.85
+      - id: "SO-MET-202"
+        title: "Audience Research Process"
+        statement: "Researching building testing audience hypotheses."
+        source: "CA-W5"
+        weight: 0.85
+      - id: "SO-MET-203"
+        title: "Omnipresence Campaign Build"
+        statement: "Creating multi-placement omnipresence campaigns."
+        source: "CA-W5"
+        weight: 0.85
+      - id: "SO-MET-204"
+        title: "Swan Tracking and Response"
+        statement: "Identifying investigating replicating outliers."
+        source: "CA-W5"
+        weight: 0.85
+      # --- W5b (9) ---
+      - id: "SO-MET-250"
+        title: "Campaign Genesis Execution"
+        statement: "Launching with optimal conditions and monitoring."
+        source: "CA-W5"
+        weight: 0.85
+      - id: "SO-MET-251"
+        title: "Daily Ad Management Routine"
+        statement: "30-minute daily review adjust optimize routine."
+        source: "CA-W5"
+        weight: 0.85
+      - id: "SO-MET-252"
+        title: "Ratcheting Scale Execution"
+        statement: "Incrementally scaling through controlled increases."
+        source: "CA-W5"
+        weight: 0.85
+      - id: "SO-MET-253"
+        title: "Kill/Scale Decision Process"
+        statement: "Rapid kill/scale/hold decisions on ad sets."
+        source: "CA-W5"
+        weight: 0.85
+      - id: "SO-MET-254"
+        title: "Creative Refresh Execution"
+        statement: "Creating new creatives on 2-3 week rotation."
+        source: "CA-W5"
+        weight: 0.85
+      - id: "SO-MET-255"
+        title: "Pixel Feeding Process"
+        statement: "Strategically feeding pixel quality data."
+        source: "CA-W5"
+        weight: 0.85
+      - id: "SO-MET-256"
+        title: "Budget Reallocation Process"
+        statement: "Reallocating across winners tests experiments."
+        source: "CA-W5"
+        weight: 0.85
+      - id: "SO-MET-257"
+        title: "Scaling Troubleshooting Process"
+        statement: "Diagnosing and resolving scaling issues."
+        source: "CA-W5"
+        weight: 0.85
+      - id: "SO-MET-258"
+        title: "Campaign Lifecycle Management"
+        statement: "End-to-end from genesis through scaling to sunset."
+        source: "CA-W5"
+        weight: 0.85
+      # --- W6 (7) ---
+      - id: "SO-MET-300"
+        title: "MVS Definition Process"
+        statement: "Defining minimum viable service delivery."
+        source: "CA-W6"
+        weight: 0.85
+      - id: "SO-MET-301"
+        title: "Client Onboarding Process"
+        statement: "48-hour onboarding from payment to active."
+        source: "CA-W6"
+        weight: 0.85
+      - id: "SO-MET-302"
+        title: "Contractor Hiring Process"
+        statement: "Finding evaluating trial-testing onboarding top 1%."
+        source: "CA-W6"
+        weight: 0.85
+      - id: "SO-MET-303"
+        title: "Project Workflow Setup"
+        statement: "Setting up workflows for concurrent clients."
+        source: "CA-W6"
+        weight: 0.85
+      - id: "SO-MET-304"
+        title: "Cashflow Management Process"
+        statement: "Weekly forecasting monitoring protecting cashflow."
+        source: "CA-W6"
+        weight: 0.85
+      - id: "SO-MET-305"
+        title: "Platform Growth Implementation"
+        statement: "Transitioning from linear to platform growth."
+        source: "CA-W6"
+        weight: 0.85
+      - id: "SO-MET-306"
+        title: "Marketing Automation Setup"
+        statement: "Selecting configuring deploying automation tools."
+        source: "CA-W6"
+        weight: 0.85
+      # --- W7+DM (9) ---
+      - id: "SO-MET-350"
+        title: "Service Productization Process"
+        statement: "Converting custom services into standard products."
+        source: "CA-W7"
+        weight: 0.85
+      - id: "SO-MET-351"
+        title: "Exponential Scale Planning"
+        statement: "Identifying leverage points planning transition."
+        source: "CA-W7"
+        weight: 0.85
+      - id: "SO-MET-352"
+        title: "Uplevel Transition Process"
+        statement: "Transitioning from time to system consulting in 90 days."
+        source: "CA-W7"
+        weight: 0.85
+      - id: "SO-MET-353"
+        title: "DM Service Setup Process"
+        statement: "Setting up DM offerings as consulting retainers."
+        source: "CA-W7-DM"
+        weight: 0.85
+      - id: "SO-MET-354"
+        title: "Niche Pivot Execution"
+        statement: "Executing clean pivot retaining existing clients."
+        source: "CA-W7-DM"
+        weight: 0.85
+      - id: "SO-MET-355"
+        title: "Origin Story Crafting"
+        statement: "Developing refining deploying origin story."
+        source: "CA-W7-DM"
+        weight: 0.85
+      - id: "SO-MET-356"
+        title: "Knowledge Product Development"
+        statement: "From expertise extraction to product launch."
+        source: "CA-W7"
+        weight: 0.85
+      - id: "SO-MET-357"
+        title: "DM Contractor Management"
+        statement: "Hiring managing quality-controlling DM contractors."
+        source: "CA-W7-DM"
+        weight: 0.85
+      - id: "SO-MET-358"
+        title: "Identity Transformation Facilitation"
+        statement: "Facilitating deep identity-level client transformation."
+        source: "CA-W7"
+        weight: 0.85
+
+# ==========================================================================
+# METADATA
+# ==========================================================================
+metadata:
+  format: "unified-dna-v2"
+  version: "2.0.0"
+  created: "2026-04-04"
+  protocol: "DNA-EXTRACTION-PROTOCOL v2.0"
+  pipeline: "Jarvis v3.0 + Opus batch extraction"
+  element_counts:
+    L1_PHILOSOPHIES: 92
+    L2_MENTAL_MODELS: 81
+    L3_HEURISTICS: 130
+    L4_FRAMEWORKS: 74
+    L5_METHODOLOGIES: 64
+    TOTAL: 441
+  sources:
+    - id: "CA-2018"
+      title: "Consulting Accelerator 2018"
+      type: "course"
+      weeks: 7
+      lessons: 57
+      bonus: "DM Bonus (7 lessons)"
+      elements: 420
+    - id: "SETTERLUN-OC"
+      title: "Offer Creation Module"
+      type: "course"
+      elements: 8
+    - id: "SETTERLUN-PO"
+      title: "Purple Ocean Positioning"
+      type: "course"
+      elements: 6
+    - id: "SETTERLUN-BD"
+      title: "Business Model Design"
+      type: "course"
+      elements: 7
+  id_ranges:
+    setterlun: "SO-FIL-001..005, SO-MM-001..004, SO-HEU-001..006, SO-FW-001..004, SO-MET-001..002"
+    ca_week1: "SO-PHI-001..012, SO-MM-005..012, SO-HEU-007..017, SO-FW-005..015, SO-MET-003..010"
+    ca_week2: "SO-PHI-050..063, SO-MM-050..060, SO-HEU-050..059, SO-FW-050..055, SO-MET-050..056"
+    ca_week3: "SO-PHI-100..112, SO-MM-100..111, SO-HEU-100..114, SO-FW-100..112, SO-MET-100..108"
+    ca_week4: "SO-PHI-150..158, SO-MM-150..157, SO-HEU-150..162, SO-FW-150..156, SO-MET-150..157"
+    ca_week5a: "SO-PHI-200..210, SO-MM-200..208, SO-HEU-200..216, SO-FW-200..207, SO-MET-200..204"
+    ca_week5b: "SO-PHI-250..257, SO-MM-250..258, SO-HEU-250..269, SO-FW-250..257, SO-MET-250..258"
+    ca_week6: "SO-PHI-300..307, SO-MM-300..307, SO-HEU-300..319, SO-FW-300..307, SO-MET-300..306"
+    ca_week7_dm: "SO-PHI-350..361, SO-MM-350..361, SO-HEU-350..367, SO-FW-350..358, SO-MET-350..358"
+  overlaps:
+    - note: "SO-MM-001..004 (Setterlun) overlap with CA-W1 mental models in same domain"
+    - note: "SO-FIL-001 (Outcome-Driven) reinforced by SO-PHI-001..012 (CA-W1 foundations)"
+    - note: "SO-FW-001 (Bridge Analogy) is canonical; CA-W1 frameworks expand upon it"
+  tensions:
+    - source: "Alex Hormozi"
+      topic: "Preferred delivery model"
+      sam_ovens: "DWY (Done With You)"
+      other: "DFY (Done For You)"
+      type: "COMPLEMENTAR"
+    - source: "Alex Hormozi"
+      topic: "Offer framework"
+      sam_ovens: "Bridge Analogy"
+      other: "Grand Slam Offer"
+      type: "COMPLEMENTAR"

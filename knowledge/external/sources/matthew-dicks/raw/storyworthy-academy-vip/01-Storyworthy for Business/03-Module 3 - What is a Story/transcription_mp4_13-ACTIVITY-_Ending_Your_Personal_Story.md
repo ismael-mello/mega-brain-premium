@@ -1,0 +1,16 @@
+# Transcrição: 13-ACTIVITY- Ending Your Personal Story
+
+- **Fonte:** 13-ACTIVITY- Ending Your Personal Story
+- **Duração:** 03:30
+- **Idioma:** en
+- **Modelo:** small
+
+---
+
+## [00:00 - 03:00]
+
+Now it's time to figure out the ending of that personal story that you're working on. For this one, I actually want you to write the ending out. I want you to be able to see it on paper. I want you to see a physical manifestation of the ending that you may end up just speaking aloud. The reason for this is I want you to be able to manipulate the information in a physical way by asking yourself some questions. The first question is this. When I show my transformation and realization, what do I also need to state it as well? The best stories tend to be those where showing that change is enough. It's not always the case though. Sometimes you have to say it too. I set it in both of my stories, both in the spoon of power and the bad blood draw. I show you the change and then I explain the change. Sometimes that's necessary. Let's see if you can avoid it. Ask yourself, I showed my transformation or realization. Do I think my audience is going to get it? Or do I need to then explain it a little more clearly? Ask other people. Ask them if they understand what the change was. Ask them if they understood what your transformation or realization was. If not, then maybe you have to explain it too. Next ask yourself, do I have to say all of this? That's why I want it on the page. Can I cross off some of the things that I was going to say and have the story still hold together? In other words, can I leave some things off the bottom of the story so that the audience continues to wonder? That policy of ending a little early, ending before the audience wants me to end, is something I use in novels too. I try to end my novels about 10 pages before the reader would want me to end. And the result is emails all the time from readers who ask me, what happened to Martin? Where is Budo today? Is Caroline married? Is she still with her husband? One of my books was recently used in a high school in Mexico City. So I had 16-year-old Mexican girls emailing me to find out what happened to Martin and Laura at the end of something missing. Think about that for a minute. 16-year-old girls had to use email, which is basically an arcane version of communication for them, to find the address for a middle-aged white guy in America so that they could write an email to him about a fictional made-up story, translate that Spanish to English, and then send it to him so that they could find out if fictional characters who don't exist and they know don't exist end up married. That's the power of leaving a little bit off at the end.
+
+## [03:00 - 03:30]
+
+So look at your story on the paper. What can I leave off so that the story still says what I wanted to say but causes my audience to wonder just a little bit more? Do that now. Find a way to show your ending and then say your ending and figure out what doesn't need to be said. What can cause the audience to keep thinking about you three days, three months, or three years from now? Those are oftentimes the best stories we can tell. Go ahead and do that now.

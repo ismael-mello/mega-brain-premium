@@ -1,0 +1,259 @@
+# Extração: PLF Mod5 Brilliant Recalls Launch3 v1
+
+- **Fonte:** PLF Mod5 Brilliant Recalls Launch3 v1.pdf
+- **Tipo:** PDF
+- **Páginas:** 0
+- **Tamanho:** 0.65 MB
+
+---
+
+!
+!
+!
+!
+!
+Module 5
+Brilliant Recalls Launch PLC 3
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+Copyright © All Rights Reserved Internet Alchemy, Inc. 2014 -2015 	Page ! 1
+PLF_Module5v1.0
+GROUPINSIDERS.COM EXCLUSIVE
+
+-- 1 of 6 --
+
+Brilliant Recalls Launch PLC 3
+Jeff Walker: 	Now we're going to look at pre-launch content video number three
+from Susan Garrett for her brilliant recalls course. Just a quick a review, I
+covered this when I covered our first video. She's in the dog agility
+training market. This was Susan's “Recaller’s” course. She had a relatively
+small list of under 20,000 people but this was one of the most success
+internal launches I have ever heard of. It was incredibly successful.
+Susan first joined PLF in August 2008, and in the years since then her
+business has grown by a factor of 77 times. At the same time she has
+gone from having to travel between 20 and 25 times per year and now
+she only travels four to five times per year to go to competitions. PLF has
+made a huge impact on her life. This is the third video. Go watch those
+first two videos to see lots and lots and lots of really high value teaching
+throughout her pre-launch, but it also is naturally leading to the sale.
+Susan Garrett: 	Hi, welcome back to Say Yes and to my third episode in-
+Jeff Walker: 	She's going to start off with a pretty lengthy review of the first two
+videos. Takes about over a minute to really go through a little more in-
+depth review of the first two videos before she really delivers the hook at
+the 1:12 mark. It's just a hook really for the coming sales. It's a hook for
+this video but it also really sets the hook for the upcoming sale. I let you
+look at this first little bit here.
+Susan Garrett: 	Hi, welcome back to Say Yes and to my third episode in our latest
+complimentary online dog training webinars. In my first video I ask you to
+become more consciously aware of any of the times that management
+was taking you away from really good dog training opportunities. I
+suggested that you become more conscious of the decisions that you are
+making when you are managing your dog's unwanted responses.
+Now looking at us humans from your dog's point of view, even though we
+may think it's completely disgusting when our dogs choose to roll in some
+nasty-smelling carcass they found in a field, we need to consider that from
+our dog's point of view, maybe they think that we're the weird ones when
+we freak out at the site of them doing something that comes completely
+natural to them. It's a classic clash of desires.
+In the second video we learned how to get away from the simplistic role
+of using food only as a bribe or a prompt with your dog, to the energizing
+way that choice should be used to supercharge the value of those rewards
+and empower your dog to participate in the whole process with you.
+Jeff Walker: 	That was really the review of the first two videos. Now she's really
+going to set the hook for this coming video.
+Copyright © All Rights Reserved Internet Alchemy, Inc. 2014 -2015 	Page ! 2
+PLF_Module5v1.0
+GROUPINSIDERS.COM EXCLUSIVE
+
+-- 2 of 6 --
+
+Susan Garrett: 	What we really have to do as dog lovers is to seek a common
+ground where we fit into each other's lives more harmoniously. Stepping
+away from the potentially combative relationship of blame and moving
+towards a place where our wants align with our dog's wants. This leads to
+a more effective, less stressful life together with your and your dog.
+Jeff Walker: 	Now she's going to start to talk about do-land. In this next minute
+and a half to two minutes, she really draws a picture of a much more
+desirable future. That's what she's doing; she's painting a picture of a
+much better future for the dog owner and for the dog as well.
+Susan Garrett: 	By now you'll have already set a goal moving away from managing
+and scolding towards living a life that we like to call do-land. Do-land is a
+place where the focus of all training is to reward good choices you want to
+be repeated in your dog. The land of don't is managing the dog's poor
+choices with stern reprimands like no, don't, leave it, ah. Here in do-land
+training is built in strategic layers where choice and high value
+reinforcement work to create that clarity I've been talking about all long.
+It's a place where we constantly strive to synchronize our dog's desires
+with those of our own.
+Jeff Walker: 	You can see as she talks about do-land she's painting this picture of
+this much brighter place. She's talking about the strategic layers that get
+to do-land. This is very, very compelling here and I definitely invite you to
+watch this whole entire section. If you look down below this video you'll
+see Susan's entire video and you can go through the entire thing. I'm
+going to skip ahead here to where at 3:20 and she really tells another
+story here. You can see in each one of her videos she's done this. She
+does this over and over, tells you stories that pull people in.
+Susan Garrett: 	Now when I was younger, a teenager, I had certain housework
+chores that I had to do every week. I'm sure you had the same. You got
+the lure of an allowance for doing them. Think it would have been difficult
+to have made scrubbing the kitchen floor addictive, but I actually grew to
+really hate not just those chores but anything to do with housework. I was
+told that I had to do them.
+By way of contrast, when I was about the same age I started
+experimenting with cooking. My mum, who herself was not a massive of
+cooking, loved my experimenting and made a big deal anytime I decided
+to cook dinner for the family. She gave me the reward not only of the
+attention, raving about the food I prepare and how I did it, but giving me
+the added bonus of no chores that night because I cooked supper. Is it
+any wonder that today I have a house cleaner and I've had one from the
+moment I could afford to hire one, but I rarely go out to a restaurant
+because I much prefer home-cooked meals?
+Copyright © All Rights Reserved Internet Alchemy, Inc. 2014 -2015 	Page ! 3
+PLF_Module5v1.0
+GROUPINSIDERS.COM EXCLUSIVE
+
+-- 3 of 6 --
+
+Jeff Walker: 	That story just naturally ties into the whole idea that she keeps on
+repeating of managing vs. training and rewards. Again, it just reinforces
+the overall story arc of her launch. Now throughout here there is just
+massive, massive training as you go through this video. At 4:24 she really
+starts to ... I'm going to get there. Lots and lots of great content through
+this entire video. I'm going to skip ahead to 6:20. This is really where she
+really delivers the hook for this entire video. This is pretty deep in. Usually
+we like to hook people early on but this is so seamless how she's built the
+story and added layers and layers of this story. Here she really hooks
+people hard.
+Susan Garrett: 	…Your desires. Today I'm going to lead you through my five keys to
+creating a framework that puts choice at the center of all of your inspired
+training. Point number one: You have to know exactly what you want.
+Document it in great detail exactly what you want to see for your dog. Not
+in general, vague terms like I want a well trained dog, but in really specific
+details such as I want my dog to come when he's called. I only call his
+name one time, under any distractions, regardless of how far away I am
+or what he's doing at the time he hears me.
+Jeff Walker: 	The amazing thing that Susan's doing in here is that she is teaching
+... In this next section she's going to go real deep and teach just great
+stuff. She's also setting this hook for what people want. It's like know
+what you want in a well trained dog. Visualize the outcome that you want.
+She's doing a lot of great teaching but she's also painting this picture of
+the viewer's future if they actually follow through with this training. Watch
+this next section. It's really remarkable because she talks about really
+visualizing what a well trained dog is and getting very, very exact, and
+then even writing down exactly what it is. It's part of her training that
+people do this, but it's also really powerful because it's cementing in the
+results that she's going to give people when they buy her course. She's
+really cementing that into their minds.
+Susan Garrett: 	I want him to race back to me as if he was chasing a squirrel. Have
+that goal in mind exactly the behavior, or if there's a lot of things that you
+want to change, the behaviors that you want to see made different than
+what you've got right now. Point number two: Visualize the benefits for
+creating this outcome for yourself. Write them down on a piece of paper
+as if you were on your way to already achieving them. Again, be very
+specific.
+For example, you might write "Once my dog learns to always come when
+he's called he's going to be able to enjoy more freedom on our walks in
+the woods. I'm going to be more relaxed when walking with him near
+traffic and I'll be content knowing I can recall him away from any danger
+in his life if the need ever arises. Once you have this list of all those
+Copyright © All Rights Reserved Internet Alchemy, Inc. 2014 -2015 	Page ! 4
+PLF_Module5v1.0
+GROUPINSIDERS.COM EXCLUSIVE
+
+-- 4 of 6 --
+
+benefits, stick it up somewhere so that it will be on your daily radar to
+review ongoing.
+Jeff Walker: 	Do you see how this can be so powerful? Getting people to
+visualize the end results that they're going to get and even write them
+down, and even post them some place that they can see. It's an
+important part of her training and Susan truly believes in this, but it's also
+really powerful to get people visualizing these outcomes. These are the
+outcomes that you're going to give them when they sign up and they
+purchase your course. Very, very powerful. Now I'm going to let this roll a
+little bit because she continues to do this. I want you to notice at 8:26
+how she just slips in a little piece, when I'm lecturing around the world.
+That's just real authority-building. She's very subtle as she does that
+throughout here, but just watch how she does that.
+Susan Garrett: 	Those are the reasons you're putting in the extra time to come up
+with fun games to get you where you want to be with your dog. Point
+number three: Be aware of the role of stress or distractions in your
+training. When I'm lecturing around the world people often freak out
+when they hear the term stress.
+Jeff Walker: 	In this next section there's about a nine or almost ten minute
+section here where Susan goes deep in the teaching and she provides
+huge value. I'm going to skip through this because it is a nine minute
+section, but as she goes through there, watch how she not only does this
+great teaching, builds huge value, builds reciprocity, builds authority, but
+what she's teaching also naturally builds towards her offer. Then I'm going
+to skip ahead towards the end of the video at 18:40. This is where she
+pivots towards the offer. This is where she starts talking a little bit about
+the offer and sets up the next video, which is going to be the sales video.
+Now this is an important piece that a lot of people miss. They'll give three
+pieces of pre-launch content and they'll be great, and then it will just sort
+of end and all of a sudden the next video is like boom, here's your sales
+video. It's like you're giving, giving, giving. You're their best friend and all
+of a sudden you're asking for the money. That can create quite a
+disconnect, so you always want to pivot towards the offer and start talking
+about the offer at the end of the third video. She does it in her last minute
+or so within the last video. That's all it takes. It's very simple and it's not a
+huge, big thing. It can be a very subtle thing like this, but it's the way you
+start to transition towards that sale. Watch how she does that here.
+Susan Garrett: 	Your job as a dog trainer will never seem like work to either of you
+again. This is a powerful formula for making a change to any unwanted
+behavior, something that your dog has right now that you're concerned
+about. But if you share my ultimate goal of synchronized desires, imagine
+what an amazing working relationship you can have built into every new
+Copyright © All Rights Reserved Internet Alchemy, Inc. 2014 -2015 	Page ! 5
+PLF_Module5v1.0
+GROUPINSIDERS.COM EXCLUSIVE
+
+-- 5 of 6 --
+
+skill you train with your dog. That is the power of my upcoming online
+Recaller’s program. Here we are going to strategically elements that help
+to make training addictive to the dog, which ultimately helps to make you
+his drug of choice. Synchronize desires.
+I'm going to have more on Recaller’s and the program later this week. We
+are going to open up registration at the end of the week. I look forward to
+reading your comments and answering any questions that you have about
+this one of a kind relationship building program. Thank you for watching
+and here's to you synchronizing your desires.
+Jeff Walker: 	That's an example of a three video series that does a lot of
+teaching, that isn't slimy in any way, isn't hypey, isn't big sales pitch. It's
+just three great pieces of pre-launch content that naturally lead towards
+going deeper. She gives a lot of framework and someone could take this
+and certainly train their dog and have better success with their dog, but to
+really build the relationship that she's shown that she has with her dogs
+and have that kind of success that Susan has demonstrated, it's time to
+step up and go deeper and sign up for the training. It's just an example of
+a really high value training that then leads into a high value course and
+did just amazing, amazing numbers in terms of sales and also created
+huge benefits for the people that stepped up and joined her in the
+training.
+Copyright © All Rights Reserved Internet Alchemy, Inc. 2014 -2015 	Page ! 6
+PLF_Module5v1.0
+GROUPINSIDERS.COM EXCLUSIVE
+
+-- 6 of 6 --
+

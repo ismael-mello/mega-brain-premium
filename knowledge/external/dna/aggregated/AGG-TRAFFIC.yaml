@@ -13,11 +13,10 @@
 # ═══════════════════════════════════════════════════════════════════════════════
 
 dominio: "traffic"
-versao: "20.0.0"  # Meta Ads API v25.0 added (peso 0.95, 84 elements) — Official Meta Marketing API documentation. CBO limits (200 ad sets), audience framework (Custom→Lookalike→Dynamic→Broad), attribution windows (1d/7d/28d), CAPI, compliance (DSA, CCPA/LGPD), rate limiting, Insights API.
-# v19.0.0 (prev): Dan Koe added (peso 0.80, 75 organic traffic elements). 3-Point Content Ecosystem (newsletter→threads→tweets), Twitter as foundation platform, Non-Needy Networking, engagement groups, newsletter-first organic traffic, content repurposing across platforms, $0.50-$1/follower/month economics.
+versao: "22.0.0"  # Perry Marshall added (peso 0.95, 100 elements). Google Ads PIONEER — Peel & Stick Method, Quality Score optimization, Deep 80/20 applied to AdWords, Bullseye GDN Targeting, RLSA, YouTube ABCD framework, Shopping campaigns, Ongoing Optimization Process, Complete Campaign Launch Sequence. THE definitive Google Ads source. Co-authored with Mike Rhodes.
 data_criacao: "2026-03-11"
-ultima_atualizacao: "2026-03-28"
-total_elementos: 1915
+ultima_atualizacao: "2026-04-05"
+total_elementos: 2122
 peso_global: 0.70
 
 fontes_consolidadas:
@@ -195,6 +194,49 @@ fontes_consolidadas:
       - "Meta Marketing API Documentation (84 elementos — 29 files, 212KB, API reference v25.0)"
     note: "Official Meta Marketing API v25.0 documentation — technical reference. Not a practitioner source but THE authoritative platform documentation. Essential for understanding platform capabilities, limits, and compliance requirements. Complements all practitioner sources (Jeremy Haynes, Cat Howell, Lucio Artes, Depesh Mandalia, Frank Kern, Molly Pittman) with official API-level technical reference."
 
+  - fonte: "perry-marshall"
+    path: "knowledge/external/dna/persons/perry-marshall/"
+    raw_path: "knowledge/external/sources/perry-marshall/raw/google-ads-mastery/"
+    peso_dominio: 0.95
+    elementos_contribuidos: 100
+    especialidade: "Google Ads PIONEER — Peel & Stick Method (keyword isolation for CTR improvement), Quality Score Optimization Process, Deep 80/20 applied to AdWords (fractal keyword/ad/campaign analysis), Bullseye GDN Targeting Sequence (remarketing→customer match→in-market→custom intent→contextual→affinity), RLSA (Remarketing Lists for Search Ads), YouTube ABCD Framework, Shopping Campaign Architecture, Negative Keywords as CTR Multiplier, Auto-Rules Failsafe System, Complete Campaign Launch Sequence, Benefits-First Ad Copy (3600% CTR improvement), Display Grid Framework, Profit Curve Model (maximum profit != lowest CPA), Centaur Model (human+machine > machine), 70-20-10 Budget Allocation"
+    tipo_fonte: "PRIMARY"
+    fontes_incluidas:
+      - "Google Ads Mastery (13 files — Fundamentals 3-part series, Live Modules 1-5, Training Module 6)"
+      - "Ultimate Guide to Google AdWords Book (2017 — 665KB, 36 chapters)"
+    key_benchmarks:
+      - "QS 8-10: ignore; QS 5-6: warning; QS 3-4: penalized; QS 1-2: critical"
+      - "100+ conversions/month before automated bidding"
+      - "Actual CPC = 50-90% of bid"
+      - "Exclude ALL mobile apps from GDN (80%+ doesn't convert)"
+      - "In-market audiences: 20x+ more likely to convert"
+      - "Benefits first vs features first = 36x CTR improvement"
+      - "2 ads per ad group always, continuous split testing"
+      - "Peel & Stick: bid 10-20% more in new ad group"
+      - "Frequency cap: 2-3/day for Display image ads"
+      - "Experiments: 30+ conv/month, 2-4 weeks minimum"
+    note: "Added 2026-04-05. Perry Marshall is THE Google Ads pioneer — co-authored the world's best-selling book on Google Ads (5 editions). With Mike Rhodes and Bryan Todd, created the definitive system for Google Ads mastery. Peel & Stick method, Quality Score optimization, and Deep 80/20 applied to AdWords are FOUNDATIONAL concepts. The Bullseye GDN Targeting Sequence and Auto-Rules Failsafe provide systematic Display Network management. The Profit Curve Model (max profit != lowest CPA) is a critical insight that most advertisers miss. Perry Marshall also bridges traffic to his 80/20 fractal mathematics — EVERY metric in Google Ads follows power laws. Complements all Facebook-focused sources with THE authoritative Google/YouTube Ads methodology."
+
+  - fonte: "sam-ovens"
+    path: "knowledge/external/dna/persons/sam-ovens/"
+    raw_path: "knowledge/external/sources/sam-ovens/raw/consulting-accelerator-2018/Week 5/"
+    peso_dominio: 0.85
+    elementos_contribuidos: 107
+    especialidade: "Fractal Facebook Ads, Golden Mean Architecture (5×4×30=600 variations), Blue Swan/Red Swan classification, Garden of Eden (4-day incubation), DNA String Model (Audience-Message-Image), Initial Conditions theory, Algorithm's 3 Priorities, Anti-Fragile Architecture, Fragmentation Funnel, Paid Attraction Metrics Dashboard, Omnipresence Retargeting, Scaling via Tranches (duplication not budget hiking), Cashflow Trough Model"
+    tipo_fonte: "PRIMARY"
+    fontes_incluidas:
+      - "Consulting Accelerator 2018 Week 5 (13 lessons — 107 elements: PHI 19, MM 18, HEU 37, FW 16, MET 14)"
+    key_benchmarks:
+      - "CTR: 0.5-1%, CPC: $1-3, LPC: 20-30%, CPL: $5-15"
+      - "Video Conv: 5%, Show-up: 80-90%, Call Conv: 10-20%"
+      - "CPA: $275-$3,300, ROI target: 100-200% (2:1 to 3:1)"
+      - "Testing budget: $1,500 minimum, 10-day minimum test"
+      - "Golden Mean: 5 angles × 4 images × 30 audiences = 600 combinations"
+      - "Garden of Eden: 4-day hands-off incubation"
+      - "$10/day per 10,000 people max spend ratio"
+      - "Audience minimum: 50,000+ per interest"
+    note: "Added 2026-04-04. Sam Ovens — FRACTAL FACEBOOK ADS SYSTEM. Unique biology-inspired approach to Facebook advertising: ads as organisms with DNA strings, blue/red swan classification, natural selection through variation. The Golden Mean Architecture (600 variations vs typical 1) is the most systematically structured campaign architecture in the knowledge base. Initial Conditions theory (Garden of Eden 4-day rule) provides crucial understanding of algorithm behavior. Complements Kern (systematic scaling), Mandalia (BPM method), Burns (creative lab), Pittman (traffic temperature), with the BIOLOGICAL SYSTEMS approach — viewing Facebook campaigns as evolving ecosystems rather than mechanical processes."
+
 # ═══════════════════════════════════════════════════════════════════════════════
 # EXPERTS (8 real persons + 8 functional agents)
 # ═══════════════════════════════════════════════════════════════════════════════
@@ -212,6 +254,9 @@ experts:
       key_framework: "Graduation Testing GT1-GT3"
 
   tier_1b:
+    - nome: "Perry Marshall"
+      especialidade: "Google Ads pioneer, Peel & Stick, Deep 80/20 for AdWords, Quality Score"
+      key_framework: "Peel & Stick + Bullseye GDN + 80/20 Curve"
     - nome: "Nicholas Kusmich"
       especialidade: "Contextual Congruence, Give-Give-Give-Ask, Four Ms, 4% Rule"
       key_framework: "Reverse Funnel + Give-Give-Give-Ask"

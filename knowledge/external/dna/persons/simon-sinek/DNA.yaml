@@ -1,0 +1,721 @@
+# ============================================================================
+# DNA COGNITIVO — SIMON SINEK
+# ============================================================================
+# Versão: 1.0.0
+# Fonte: Why Discovery Course (3 Parts, ~20 video lessons)
+# Elementos: 132
+# Data: 2026-04-04
+# ============================================================================
+
+metadata:
+  person: Simon Sinek
+  slug: simon-sinek
+  version: "1.0.0"
+  total_elements: 132
+  sources:
+    - name: "Why Discovery Course"
+      type: COURSE
+      sections: 3
+      files: 20
+      language: en
+  domains:
+    - leadership
+    - purpose-discovery
+    - personal-development
+    - organizational-culture
+    - team-building
+  last_updated: "2026-04-04"
+
+# ============================================================================
+# L1: FILOSOFIAS (Core Beliefs)
+# ============================================================================
+philosophies:
+  # --- PURPOSE & FULFILLMENT ---
+  - id: FIL-SS-001
+    title: "Fulfillment Is a Right, Not a Luxury"
+    content: "I believe fulfillment is a right, not a luxury. It's not just for the chosen few who get to say, I love my job. We all deserve that."
+    source: "Part 1/01-Introduction"
+    domain: purpose-discovery
+
+  - id: FIL-SS-002
+    title: "We Need to Build a World That Does Not Yet Exist"
+    content: "We need to build a world in which the vast majority of people wake up every single morning inspired to go to work, feel safe when they're there, and return home fulfilled at the end of each day."
+    source: "Part 1/01-Introduction"
+    domain: leadership
+
+  - id: FIL-SS-003
+    title: "People Are Inspired by WHY, Not WHAT"
+    content: "People are not inspired by what you do, people are inspired by why you do it. Keep things like your job title, function or industry out of your WHY."
+    source: "Part 2/11-How to Create a WHY Statement"
+    domain: purpose-discovery
+
+  - id: FIL-SS-004
+    title: "WHY Is Rooted in the Past, Not Aspirational"
+    content: "A WHY is rooted in our past. We are products of our upbringing. Rather than being something aspirational that we hope to become, it's who we already are at our natural best."
+    source: "Part 1/02-Where We're Going"
+    domain: purpose-discovery
+
+  - id: FIL-SS-005
+    title: "Fulfillment Comes from Service to Others"
+    content: "If you want to be happy, do something for yourself. If you want to be fulfilled, do something for someone else. When we take what we value most and make it available to others, it is immensely fulfilling."
+    source: "Part 2/11-How to Create a WHY Statement"
+    domain: personal-development
+
+  - id: FIL-SS-006
+    title: "Together Is Better"
+    content: "Something we know is that together is better. You went on this journey with a partner. As you find a greater sense of fulfillment in your own life, you may just inspire others to do the same."
+    source: "Part 3/06-Commitment"
+    domain: team-building
+
+  - id: FIL-SS-007
+    title: "We Are Who We Are Wherever We Are"
+    content: "Our WHY is constant. It goes beyond our work or who we are at home. We are who we are wherever we are. Over time, what we do can and likely will change. Our WHY remains the same."
+    source: "Part 2/11-How to Create a WHY Statement"
+    domain: purpose-discovery
+
+  - id: FIL-SS-008
+    title: "Consistency Is Just as Important as Intensity"
+    content: "Consistency is just as important as intensity. If you work out for 10 hours straight, you won't get in shape. But if you go to the gym every day for 20 minutes, you will. It's all the small, purposeful actions that produce meaningful results."
+    source: "Part 3/06-Commitment"
+    domain: personal-development
+
+  - id: FIL-SS-009
+    title: "Vision Without Execution Is Hallucination"
+    content: "Thomas Edison said, vision without execution is hallucination. It's not enough just to put our WHY and HOWs into words. We must put them into action."
+    source: "Part 3/05-Consistency of What"
+    domain: leadership
+
+  - id: FIL-SS-010
+    title: "Knowing Your WHY Gives Clarity to Attract the Right People"
+    content: "Knowing our WHY enhances our ability to attract people who believe what we believe. To find people we trust, people willing to help us, and people we want to help."
+    source: "Part 1/01-Introduction"
+    domain: leadership
+
+  - id: FIL-SS-011
+    title: "Fulfillment Comes from Contributing to Something Larger"
+    content: "Fulfillment comes in large part from contributing to something larger than ourselves, from having a reason to do what we do beyond our need to make money or provide for our families."
+    source: "Part 1/01-Introduction"
+    domain: purpose-discovery
+
+  - id: FIL-SS-012
+    title: "Everyone Has a WHY"
+    content: "We assure you everyone has a WHY. For some, it may take months to find the perfect words that match who you are. The goal is to have a WHY that's actionable, rather than one that's perfect."
+    source: "Part 2/08.1-How to Get Unstuck"
+    domain: purpose-discovery
+
+  - id: FIL-SS-013
+    title: "Being a Victim Only Makes Things Worse"
+    content: "Being a victim of my situation was only going to make things worse. I needed to start focusing on the future instead of the past. I learned the value of determination, grit, and gratitude."
+    source: "Part 1/06.1-Peaks and Valleys Method (David's story)"
+    domain: personal-development
+
+  - id: FIL-SS-014
+    title: "Moving Forward, Even a Small Step, Brings Fulfillment"
+    content: "Moving forward, even a small step at a time, is what brings me a lot of fulfillment."
+    source: "Part 1/06.1-Peaks and Valleys Method (David's story)"
+    domain: personal-development
+
+  - id: FIL-SS-015
+    title: "Objective Perspective Must Come from Someone Else"
+    content: "To find a WHY, we need an objective perspective, which is something that has to come from someone else. Trust us — we've guided thousands through this process."
+    source: "Part 1/04-Finding and Working with a Partner"
+    domain: purpose-discovery
+
+# ============================================================================
+# L2: MODELOS MENTAIS (Mental Models)
+# ============================================================================
+mental_models:
+  - id: MM-SS-001
+    title: "The Golden Circle: WHY → HOW → WHAT"
+    content: "Three pieces make us who we are: WHY (purpose/cause/belief), HOW (guiding principles/values), and WHAT (tangible actions/proof). When all three are in balance, we find fulfillment. The power of starting with WHY is that it helps us choose the WHATs that act as proof."
+    source: "Part 1/01-Introduction + Part 3/05-Consistency of What"
+    domain: leadership
+    application: "Use as lens for all personal/organizational decisions — start with WHY, discipline HOW, consistency of WHAT."
+
+  - id: MM-SS-002
+    title: "The Supermarket Filter"
+    content: "Imagine getting snack advice from everyone at a party. Without a WHY, you buy everything — potato chips, candy, fruit. With a WHY focused on health, you only buy fruit and veggies. People can then SEE what you believe just by what's in your cart. That's scale."
+    source: "Part 3/05-Consistency of What"
+    domain: purpose-discovery
+    application: "Use WHY as a decision filter. When WHATs align with WHY, you attract people who share your values without explanation."
+
+  - id: MM-SS-003
+    title: "Riding a Bike = Starting With WHY"
+    content: "Starting with WHY is like riding a bike. At first we're unsure and unsteady. We may fall over and scrape our knees. But we get back on. Eventually it becomes natural and we just ride."
+    source: "Part 3/01-Start With WHY"
+    domain: purpose-discovery
+    application: "Set expectations that WHY articulation feels awkward at first. Practice in low-stakes contexts (e.g., conversations on planes) before high-stakes ones."
+
+  - id: MM-SS-004
+    title: "Themes = Recurring Patterns in Stories"
+    content: "An idea becomes a THEME when it occurs in two or more stories. Themes are not single events — they are the underlying patterns that define who you are at your natural best."
+    source: "Part 2/03-Organizing Your Themes + 04-Identifying Overarching Themes"
+    domain: purpose-discovery
+    application: "When analyzing anyone's stories, look for repetition. The real insight is in what keeps showing up across different contexts."
+
+  - id: MM-SS-005
+    title: "Negative Themes Conceal Positive Truths"
+    content: "If a negative theme like isolation emerges, there's more exploring to do. The goal is to find the positive lesson buried within. Isolation likely means community or belonging is important. The positive to isolation could be belonging."
+    source: "Part 2/03-Organizing Your Themes"
+    domain: purpose-discovery
+    application: "Always flip negative patterns to find what the person truly values. Frustration reveals what matters most."
+
+  - id: MM-SS-006
+    title: "Contribution + Impact = WHY Statement"
+    content: "A WHY has two components: CONTRIBUTION (what you give/do when at your best) and IMPACT (the desired end state you strive for). Contributions are ACTIONS. Impacts are STATES. Combined: 'To [contribution] so that [impact].'"
+    source: "Part 2/08-How to Select Primary Themes + 11-How to Create a WHY Statement"
+    domain: purpose-discovery
+    application: "Separate actions from outcomes when crafting purpose statements. The contribution is the verb, the impact is the vision."
+
+  - id: MM-SS-007
+    title: "HOWs = Values as Verbs, Not Nouns"
+    content: "Many individuals or organizations communicate their values as nouns — authentic, integrity. But we can't DO nouns. We can only DO verbs. Instead of 'authentic,' use 'say and do the things you actually believe.' Instead of 'integrity,' use 'do the right thing, even when no one is looking.'"
+    source: "Part 3/03-Discipline of How"
+    domain: leadership
+    application: "Convert all values/principles into actionable verb phrases. If you can't act on it, it's not a useful HOW."
+
+  - id: MM-SS-008
+    title: "The Interview Model for Partner Discovery"
+    content: "Think of the WHY discovery session as being more like an interview than a two-way exchange. You'll be using your ears way more than your voice. The art of being a great partner is knowing when to ask questions and when to stay quiet."
+    source: "Part 2/02-How to be a Good Partner"
+    domain: purpose-discovery
+    application: "In any discovery/coaching context, the facilitator's job is to create space, not fill it. Silence is a tool, not a gap to fill."
+
+  - id: MM-SS-009
+    title: "Panning for Gold in the River of Your Past"
+    content: "Finding your WHY is like panning for gold in the river of your past. Only you can retrieve those stories from your memory, but when it comes to interpreting them, a second set of eyes is invaluable."
+    source: "Part 1/04-Finding and Working with a Partner"
+    domain: purpose-discovery
+    application: "Self-discovery requires both internal recall AND external interpretation. Neither alone is sufficient."
+
+  - id: MM-SS-010
+    title: "30% Information = Decision Ready"
+    content: "Colin Powell said, 'I can make a decision with 30% of the information. Anything more than 80% is too much.' The goal is to have a WHY that's actionable, rather than one that's perfect."
+    source: "Part 2/08.1-How to Get Unstuck"
+    domain: leadership
+    application: "Don't wait for perfection. A WHY that's 70% right and in use beats a perfect WHY that's never articulated."
+
+  - id: MM-SS-011
+    title: "Leading the Witness = Harming the Process"
+    content: "You'll be tempted to put words in their mouth or suggest answers. This is 'leading the witness.' Your goal is to create space for them to find their own words. They must discover who they are rather than who you think they are."
+    source: "Part 2/02-How to be a Good Partner"
+    domain: purpose-discovery
+    application: "In coaching, mentoring, or discovery: never complete someone's sentence. Their struggle to find words IS the discovery process."
+
+  - id: MM-SS-012
+    title: "Same Words, Different Meanings"
+    content: "Sometimes two people may use different words but mean the same thing. And sometimes two people may say the same word but mean different things. Rather than assume, ask what they meant by the words they chose."
+    source: "Part 2/02-How to be a Good Partner"
+    domain: leadership
+    application: "Always clarify meaning, never assume shared definitions. This is essential in team building, hiring, and culture work."
+
+# ============================================================================
+# L3: HEURÍSTICAS (Practical Rules)
+# ============================================================================
+heuristics:
+  # --- WHY STATEMENT RULES ---
+  - id: HEUR-SS-001
+    title: "WHY Statement Format"
+    content: "To [CONTRIBUTION] so that [IMPACT]. Always begins with contribution, ends with impact."
+    source: "Part 2/11-How to Create a WHY Statement"
+    domain: purpose-discovery
+    type: structural
+
+  - id: HEUR-SS-002
+    title: "4 Criteria for Good WHY Statement"
+    content: "1) Simple and clear. 2) Free of WHAT (no job titles, functions, industries). 3) In service of others (not selfish). 4) Affirmative language (standing FOR, not against)."
+    source: "Part 2/11-How to Create a WHY Statement"
+    domain: purpose-discovery
+    type: qualitative
+
+  - id: HEUR-SS-003
+    title: "Maximum 5 HOWs"
+    content: "There are always 5 or fewer HOWs. If you list more than 5, either one is already expressed in your WHY, or some can be combined."
+    source: "Part 3/03-Discipline of How"
+    domain: purpose-discovery
+    type: numeric
+    threshold: "≤ 5"
+
+  - id: HEUR-SS-004
+    title: "Minimum 6 Themes Required"
+    content: "You need at least 6 distinct themes from your stories before proceeding to WHY drafting. If struggling, share more stories until you find 6."
+    source: "Part 2/03-Organizing Your Themes"
+    domain: purpose-discovery
+    type: numeric
+    threshold: "≥ 6"
+
+  - id: HEUR-SS-005
+    title: "Minimum 3 Stories for Discovery"
+    content: "Share at least 3 specific stories. The more the better. Openly and honestly."
+    source: "Part 2/02-How to be a Good Partner"
+    domain: purpose-discovery
+    type: numeric
+    threshold: "≥ 3"
+
+  - id: HEUR-SS-006
+    title: "3 Hours Uninterrupted for Partner Session"
+    content: "Partner should expect to give around 3 uninterrupted hours of time. Arrange to meet in a place where you can focus."
+    source: "Part 1/04-Finding and Working with a Partner + Part 1/08-Getting Ready for Part 2"
+    domain: purpose-discovery
+    type: numeric
+    threshold: "~3 hours"
+
+  - id: HEUR-SS-007
+    title: "Theme = 2+ Story Occurrences"
+    content: "An idea becomes a theme when it occurs in 2 or more stories. If it only appears once, it's an event, not a theme."
+    source: "Part 2/03-Organizing Your Themes + 04-Identifying Overarching Themes"
+    domain: purpose-discovery
+    type: numeric
+    threshold: "≥ 2 stories"
+
+  - id: HEUR-SS-008
+    title: "Avoid Partners Who Know You Too Well"
+    content: "Avoid selecting a partner who knows you too well. Spouses, close relatives, and best friends have a hard time being objective. They may tell your stories for you or correct the ones you tell."
+    source: "Part 1/04-Finding and Working with a Partner"
+    domain: purpose-discovery
+    type: qualitative
+
+  - id: HEUR-SS-009
+    title: "Best Partners Are Innately Curious"
+    content: "The best partners are innately curious, great at listening and asking follow-up questions. Someone trying to get to know you better will ask more probing, unexpected, thoughtful questions."
+    source: "Part 1/04-Finding and Working with a Partner"
+    domain: purpose-discovery
+    type: qualitative
+
+  - id: HEUR-SS-010
+    title: "5 Potential Partners Shortlist"
+    content: "Write down the names of 5 people you would say yes to if they asked you for the same favor. That's your shortlist of potential partners."
+    source: "Part 1/04-Finding and Working with a Partner"
+    domain: purpose-discovery
+    type: numeric
+    threshold: "5 names"
+
+  - id: HEUR-SS-011
+    title: "Stories Must Be Specific, Not General"
+    content: "Your stories need to be specific. The more specific, the better. Choose moments of real significance. They can be big or small, from childhood to yesterday."
+    source: "Part 1/06-How to Gather Your Stories + 06.1-Peaks and Valleys"
+    domain: purpose-discovery
+    type: qualitative
+
+  - id: HEUR-SS-012
+    title: "When You Hear 'Extraordinary' — You Found Your People"
+    content: "People who believe what you believe only hear one word in your WHY. When they do, you end up talking about shared beliefs for the next two hours and they ask for the website."
+    source: "Part 3/01-Start With WHY"
+    domain: purpose-discovery
+    type: qualitative
+
+  - id: HEUR-SS-013
+    title: "Live With Your WHY Before Refining"
+    content: "Before refining, take some time to live with your WHY. Put it on sticky notes — mirror, nightstand, desk. Share it in conversations with strangers."
+    source: "Part 2/13-Getting Ready for Part 3"
+    domain: purpose-discovery
+    type: qualitative
+
+  - id: HEUR-SS-014
+    title: "Confidentiality Commitment Before Starting"
+    content: "Before starting the discovery process, partner and storyteller must commit that everything shared will remain confidential. Pause and make that commitment. It's important."
+    source: "Part 2/02-How to be a Good Partner"
+    domain: purpose-discovery
+    type: qualitative
+
+  - id: HEUR-SS-015
+    title: "Watch Body Language and Tone"
+    content: "Pay close attention to body language and tone of voice. Talking in animated tone, getting choked up, or going quiet — all subtle clues give context to significance."
+    source: "Part 2/02-How to be a Good Partner"
+    domain: purpose-discovery
+    type: qualitative
+
+  - id: HEUR-SS-016
+    title: "Silence Is a Key Part of the Process"
+    content: "Silence is a key part of this process. Allow the storyteller to find their own words. Instead of interjecting, write down your questions and circle back."
+    source: "Part 2/02-How to be a Good Partner"
+    domain: purpose-discovery
+    type: qualitative
+
+  - id: HEUR-SS-017
+    title: "Focus on Feelings, Not Logistics"
+    content: "After getting some logistical details, focus on the emotions and feelings. 'How did that make you feel?' is more valuable than 'What happened next?'"
+    source: "Part 2/02.2-Partner Demonstration"
+    domain: purpose-discovery
+    type: qualitative
+
+  - id: HEUR-SS-018
+    title: "All Roads Lead to WHY"
+    content: "There's no such thing as a right question. All roads lead to WHY. The important thing is to follow your gut and be curious."
+    source: "Part 2/02.2-Partner Demonstration"
+    domain: purpose-discovery
+    type: qualitative
+
+  - id: HEUR-SS-019
+    title: "Flip Negative to Find Value"
+    content: "If isolation comes up as theme, the positive flip is belonging. Always explore the positive lesson buried in negative themes."
+    source: "Part 2/03-Organizing Your Themes"
+    domain: purpose-discovery
+    type: qualitative
+
+  - id: HEUR-SS-020
+    title: "WHY Must Be For Something, Not Against"
+    content: "Instead of 'to fight against evil so that we can live in a peaceful world,' explore: 'to stand for good so that we can live in a peaceful world.' A simple shift gives something to stand FOR."
+    source: "Part 2/11-How to Create a WHY Statement"
+    domain: purpose-discovery
+    type: qualitative
+
+  - id: HEUR-SS-021
+    title: "Selfish WHY → Service WHY Transform"
+    content: "'To recognize the value I bring so that I can accomplish more than I thought possible' is selfish. Change to: 'To recognize the value people bring so that together we can accomplish more than we thought possible.'"
+    source: "Part 2/11-How to Create a WHY Statement"
+    domain: purpose-discovery
+    type: qualitative
+
+  - id: HEUR-SS-022
+    title: "Use Environment as Filter"
+    content: "When you feel you don't belong or aren't thriving, use WHY and HOWs as filters. The cause could be your environment or how you're showing up in your environment."
+    source: "Part 3/05-Consistency of What"
+    domain: personal-development
+    type: qualitative
+
+  - id: HEUR-SS-023
+    title: "WHY Discovery Is Data-Driven"
+    content: "The WHY discovery process is a data-driven process. If stuck, get more data — share more stories. As you share more, primary themes will stand out above the rest."
+    source: "Part 2/08.1-How to Get Unstuck"
+    domain: purpose-discovery
+    type: qualitative
+
+  - id: HEUR-SS-024
+    title: "Circle Key Words as You Listen"
+    content: "As you take notes, circle or underline words, phrases, or ideas that come up more than once. Leave analysis of themes until AFTER all storytelling is complete."
+    source: "Part 2/02-How to be a Good Partner"
+    domain: purpose-discovery
+    type: qualitative
+
+  - id: HEUR-SS-025
+    title: "Withhold Judgment During Discovery"
+    content: "Your storyteller may share something you disagree with — a sports team, religion, politics. Withhold your judgment and opinions. Stay focused on helping them identify their themes."
+    source: "Part 2/02-How to be a Good Partner"
+    domain: purpose-discovery
+    type: qualitative
+
+# ============================================================================
+# L4: FRAMEWORKS (Structured Methodologies)
+# ============================================================================
+frameworks:
+  - id: FW-SS-001
+    title: "The Golden Circle Framework"
+    content: |
+      Three concentric circles defining personal/organizational identity:
+      - OUTER: WHAT (tangible actions, products, job titles)
+      - MIDDLE: HOW (guiding principles, differentiating values)
+      - INNER: WHY (purpose, cause, belief)
+      Balance requires: Clarity of WHY + Discipline of HOW + Consistency of WHAT.
+      Start from the inside out. Most people start from WHAT (outside in) — this is backwards.
+    source: "Part 1/01-Introduction + Part 3/03-Discipline of How + Part 3/05-Consistency of What"
+    domain: leadership
+    steps:
+      - "Discover your WHY (purpose/belief)"
+      - "Define your HOWs (guiding principles as verbs, ≤5)"
+      - "Align your WHATs (actions that prove your WHY)"
+
+  - id: FW-SS-002
+    title: "WHY Discovery Course Framework (3-Part)"
+    content: |
+      Complete structured process for individual WHY discovery:
+      Part 1 — GATHER: Collect specific, impactful stories from your past
+      Part 2 — DISCOVER: Work with a partner to identify themes and draft WHY
+      Part 3 — REFINE: Polish WHY statement, define HOWs, align WHATs
+    source: "Part 1/02-Where We're Going"
+    domain: purpose-discovery
+    steps:
+      - "Part 1: Gather stories (6+ stories using prompts or peaks/valleys)"
+      - "Part 2: Share with partner → identify themes → select primary contribution + impact → draft WHY"
+      - "Part 3: Revise WHY → define HOWs (≤5 as verbs) → align WHATs → commit to consistency"
+
+  - id: FW-SS-003
+    title: "Peaks & Valleys Story Gathering"
+    content: |
+      Visual method for identifying most significant life stories:
+      Draw horizontal line across paper. Above = positive/fulfilling. Below = challenging/difficult.
+      Higher above = more fulfilling. Lower below = more challenging.
+      Write headlines for each story. Don't overthink — if it carries impact, write it down.
+      Pick the BEST of the best and WORST of the worst for maximum signal.
+    source: "Part 1/06.1-Peaks and Valleys Method"
+    domain: purpose-discovery
+    steps:
+      - "Draw horizontal line on blank paper"
+      - "Plot positive stories above line (higher = more positive)"
+      - "Plot challenging stories below line (lower = more difficult)"
+      - "Write headline for each story"
+      - "Select the most extreme peaks and valleys for sharing"
+
+  - id: FW-SS-004
+    title: "Partner Protocol (Facilitation Guide)"
+    content: |
+      How to be an effective WHY discovery partner:
+      1. Listen carefully, take detailed notes
+      2. Circle/underline recurring words and themes
+      3. Watch body language and tone of voice
+      4. Use silence as a tool — don't fill gaps
+      5. Ask open-ended clarifying questions
+      6. Never lead the witness or complete their sentences
+      7. Withhold judgment and personal opinions
+      8. Commit to confidentiality before starting
+      9. Focus on feelings/emotions after getting logistics
+      10. It's an interview, not a conversation
+    source: "Part 2/02-How to be a Good Partner + 02.2-Partner Demonstration"
+    domain: purpose-discovery
+    steps:
+      - "Commit to confidentiality"
+      - "Open with: 'Which story is forefront of your mind?'"
+      - "Get brief logistics, then pivot to emotions/feelings"
+      - "Circle recurring themes in notes"
+      - "Use silence — let them struggle with words"
+      - "Ask clarifying questions, not leading ones"
+      - "Save theme analysis for AFTER all stories are shared"
+
+  - id: FW-SS-005
+    title: "Theme Extraction Framework"
+    content: |
+      Process for moving from raw stories to organized themes:
+      1. Record all themes that emerge from stories (10+ is normal)
+      2. Combine overlapping themes into one (unify + break barriers = bring together)
+      3. Separate into CONTRIBUTIONS (actions/verbs) and IMPACTS (outcomes/states)
+      4. Ensure each theme links to ≥2 stories
+      5. Flip negative themes to find positive values
+      6. Select PRIMARY contribution and PRIMARY impact for WHY
+      7. Remaining contributions become HOW candidates
+    source: "Part 2/03-Organizing Your Themes + 05-How to Categorize Your Themes + 08-How to Select Primary Themes"
+    domain: purpose-discovery
+    steps:
+      - "List all themes (expect 10+)"
+      - "Combine overlapping themes"
+      - "Verify each theme appears in ≥2 stories"
+      - "Flip any negative themes to positive values"
+      - "Categorize as contributions (actions) vs impacts (outcomes)"
+      - "Select 1 primary contribution + 1 primary impact"
+      - "Use remaining contributions as HOW candidates"
+
+  - id: FW-SS-006
+    title: "WHY Statement Drafting Framework"
+    content: |
+      Three-draft approach to crafting a WHY statement:
+      1. Storyteller drafts independently
+      2. Partner drafts independently
+      3. Collaborate to combine into one that feels right
+      Format: "To [contribution] so that [impact]"
+      Validate: Simple? Free of WHAT? Service to others? Affirmative language?
+      Simon's WHY: "To inspire people to do the things that inspire them so that together we can change our world."
+    source: "Part 2/11-How to Create a WHY Statement"
+    domain: purpose-discovery
+    steps:
+      - "Storyteller writes WHY draft independently"
+      - "Partner writes WHY draft independently"
+      - "Combine ideas into collaborative draft"
+      - "Check: Simple & clear?"
+      - "Check: Free of WHAT (no job titles)?"
+      - "Check: In service of others?"
+      - "Check: Affirmative language (for, not against)?"
+      - "Iterate until it feels right to storyteller"
+
+  - id: FW-SS-007
+    title: "HOW Definition Framework"
+    content: |
+      Process for defining your guiding principles:
+      1. Review remaining contribution themes (those not in WHY)
+      2. Express each as a VERB or short action phrase
+      3. Combine overlapping HOWs
+      4. Limit to ≤5 distinct HOWs
+      5. Each HOW should enable you to live your WHY
+      Example: "integrity" → "do the right thing, even when no one is looking"
+      Example: "connection" → "connect with people in meaningful ways"
+      Example: "always learned from others" → "learn something from everyone"
+    source: "Part 3/03-Discipline of How"
+    domain: purpose-discovery
+    steps:
+      - "List remaining contribution themes not in WHY"
+      - "Convert nouns to verbs/action phrases"
+      - "Combine overlapping HOWs"
+      - "Narrow to ≤5 distinct HOWs"
+      - "Verify each HOW helps bring WHY to life"
+
+  - id: FW-SS-008
+    title: "Unstuck Protocol"
+    content: |
+      When stuck in WHY discovery:
+      1. Take a pause (cup of tea, walk, sleep on it)
+      2. Share more stories (more data = clearer themes)
+      3. Invite a different perspective (new partner)
+      4. Remember: actionable beats perfect
+      5. WHY can be tweaked over time — it's art AND science
+    source: "Part 2/08.1-How to Get Unstuck"
+    domain: purpose-discovery
+    steps:
+      - "Pause and take a break"
+      - "Share additional stories"
+      - "Consider a fresh partner for different perspective"
+      - "Accept 70% right and actionable over 100% perfect"
+      - "Plan to iterate over time"
+
+  - id: FW-SS-009
+    title: "WHY Integration Protocol (Bringing WHY to Life)"
+    content: |
+      Daily practice for living your WHY:
+      1. Write WHY on sticky notes (mirror, nightstand, desk)
+      2. Practice sharing WHY in low-stakes conversations
+      3. Use WHY as filter for opportunities and decisions
+      4. Use HOWs to evaluate environment fit
+      5. When feeling unfulfilled, check: is environment aligned? Am I showing up aligned?
+      6. Consistency of small daily actions > intensity of one-time effort
+    source: "Part 2/13-Getting Ready for Part 3 + Part 3/01-Start With WHY + 05-Consistency of What + 06-Commitment"
+    domain: personal-development
+    steps:
+      - "Post WHY visibly in daily spaces"
+      - "Practice articulating WHY with strangers"
+      - "Use WHY to filter decisions (supermarket test)"
+      - "Use HOWs to evaluate opportunity fit"
+      - "Diagnose misalignment: environment or self?"
+      - "Take consistent daily micro-actions"
+
+  - id: FW-SS-010
+    title: "Peter's Real-World WHY Filter"
+    content: |
+      Example of using HOWs as opportunity filter:
+      Company says: "We believe what you believe. Can we hire you?"
+      → Good start (shared WHY).
+      Company says: "Develop a workshop just for middle managers."
+      → Red flag against HOW "look at the big picture."
+      → Need to understand full context before committing.
+      → Filter: Does this opportunity let me live my HOWs?
+    source: "Part 3/03-Discipline of How"
+    domain: purpose-discovery
+    steps:
+      - "Check: Does the opportunity align with my WHY?"
+      - "Check: Can I live my HOWs within this context?"
+      - "If HOW conflict detected: negotiate or decline"
+      - "When HOWs align: higher probability of success for all"
+
+# ============================================================================
+# L5: METODOLOGIAS (Step-by-Step Implementations)
+# ============================================================================
+methodologies:
+  - id: MET-SS-001
+    title: "Complete WHY Discovery Methodology"
+    content: |
+      Full end-to-end process from zero to articulated WHY + HOWs:
+
+      PHASE 1: PREPARATION (Solo, ~1-2 hours)
+      1. Reflect on what makes this journey important to you
+      2. Identify and invite a partner (not too close, innately curious)
+      3. Share Partner Guide link for their preparation
+      4. Gather stories using prompts OR Peaks & Valleys method
+      5. Title each story, write detailed description
+      6. Aim for 6+ diverse stories (childhood to yesterday, peaks AND valleys)
+      7. Schedule 3-hour uninterrupted session with partner
+
+      PHASE 2: DISCOVERY (With Partner, ~3 hours)
+      1. Settle in comfortable, quiet space with internet
+      2. Commit to confidentiality
+      3. Storyteller shares 3+ stories openly
+      4. Partner listens, takes notes, circles recurring words
+      5. Partner watches body language/tone for significance cues
+      6. Partner uses silence, asks open-ended follow-ups
+      7. After stories: Partner plays back themes heard
+      8. Together: List all themes (expect 10+)
+      9. Combine overlapping themes
+      10. Ensure each links to ≥2 stories
+      11. Flip negative themes to positive values
+      12. Categorize: contributions (actions) vs impacts (outcomes)
+      13. Select 1 primary contribution + 1 primary impact
+      14. Both draft WHY statements independently
+      15. Combine into collaborative draft
+      16. Validate: Simple? No WHAT? Service? Affirmative?
+
+      PHASE 3: INTEGRATION (Solo + Practice, ongoing)
+      1. Live with WHY before refining (sticky notes, conversations)
+      2. Revise WHY if language needs tweaking
+      3. Define ≤5 HOWs from remaining contributions
+      4. Express HOWs as verbs, not nouns
+      5. Use WHY + HOWs as decision filters
+      6. Practice in daily interactions
+      7. Diagnose misalignment when feeling unfulfilled
+      8. Commit to consistent small daily actions
+    source: "Full course: Parts 1-3"
+    domain: purpose-discovery
+
+  - id: MET-SS-002
+    title: "Story Gathering Using Prompts"
+    content: |
+      Structured prompts for recalling significant life stories:
+      1. Think of someone who helped shape who you are. When did they exemplify what you admire most?
+      2. What experience taught you a valuable life lesson or changed how you look at the world?
+      3. When did you collaborate on something impactful?
+      4. What is the first childhood memory that comes to mind?
+      5. What was a day at work where you could say 'I would have done that for free'? What about it did you love?
+      6. What challenging experience helped shape who you are?
+      7. What have you done that makes you feel proud?
+      8. What was a pivotal moment when you realized nothing would be the same again?
+
+      For each: Give it a TITLE, then write the DETAILS.
+    source: "Part 1/07-Gather Your Stories (PNG slide content)"
+    domain: purpose-discovery
+
+  - id: MET-SS-003
+    title: "Partner Demonstration Method (Peter & Kim)"
+    content: |
+      Real demonstration of effective WHY discovery facilitation:
+
+      OPENING: "Which story is forefront of your mind that you'd like to share?"
+      → Open-ended, lets storyteller choose direction
+
+      LOGISTICS PHASE (brief):
+      "Your brother's name?" "When was he born?" "What year was that?"
+      → Quick facts to ground the story
+
+      EMOTION PHASE (majority of time):
+      "What was it about that event that was so important for you?"
+      "What was it about having a sibling that was going to be wildly exciting?"
+      "Say some more about the show and tell..."
+      "You said you can't remember what you said, but you remember how it made you feel. Can you say more?"
+      → Always steering toward FEELINGS, not events
+
+      SILENCE: When Kim struggled to find words about responsibility for her brother,
+      Peter waited quietly. Her struggle to articulate = the discovery happening.
+
+      THEME IDENTIFIED: Nurturing and helping others to shine
+      → WHY: "To support and encourage others so that they can revel in who they are"
+    source: "Part 2/02.2-Partner Demonstration"
+    domain: purpose-discovery
+
+  - id: MET-SS-004
+    title: "Simon Sinek's Plane Conversation Method"
+    content: |
+      How to practice sharing your WHY in real conversations:
+
+      Context: Someone asks "What do you do?" (e.g., on a plane)
+
+      INSTEAD OF leading with WHAT (job title):
+      → Lead with WHY: "I enable people to be extraordinary so that they can do extraordinary things."
+      → THEN bridge to HOW: "One of the ways I do this is to teach leaders and organizations how to create cultures where everyone has an opportunity to make their greatest contribution."
+
+      RESULT: People who believe what you believe hear one key word.
+      They connect on shared beliefs. Two hours of conversation. They ask for website.
+      "It certainly helps the flights pass quickly."
+
+      PRACTICE: Low-stakes first (planes, parties), then higher-stakes (interviews, pitches).
+    source: "Part 3/01-Start With WHY"
+    domain: purpose-discovery
+
+  - id: MET-SS-005
+    title: "David's 2008 Valley Story (Template)"
+    content: |
+      Example of a Valley story that teaches values through adversity:
+
+      CONTEXT: 2008 — Started business dependent on real estate market the year before
+      EVENT: Lost business, home, rental property, all but $800. Wife pregnant, starting MBA.
+      EMOTION: "Lying in bed crying, completely unsure what to do to support my family"
+      LOW POINT: "Felt miserable for a few months"
+      TURNING POINT: "Realized being a victim was only going to make things worse"
+      LESSON: Value of determination, grit, and gratitude
+      THEME: "Moving forward, even a small step at a time, is what brings fulfillment"
+
+      This is a model Valley story: specific, emotional, transformative, and theme-revealing.
+    source: "Part 1/06.1-Peaks and Valleys Method"
+    domain: personal-development

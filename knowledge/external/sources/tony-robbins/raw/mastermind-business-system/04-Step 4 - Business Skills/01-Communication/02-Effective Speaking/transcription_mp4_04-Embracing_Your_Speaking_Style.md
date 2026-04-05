@@ -1,0 +1,16 @@
+# Transcrição: 04-Embracing Your Speaking Style
+
+- **Fonte:** 04-Embracing Your Speaking Style
+- **Duração:** 03:48
+- **Idioma:** en
+- **Modelo:** small
+
+---
+
+## [00:00 - 03:02]
+
+A limiting belief that is shared by so many people is, I can't speak in front of a group, even online. I know, you might be feeling that rumble in your stomach right now. Let's talk about it. I recall one of my students, she was a masterful speaker, working in the public speaking needs for over eight years. Her challenge was, let's hear this, speaking on camera to create her course videos. Imagine that. And as we worked together, I suggested she could step into her strength and indeed deliver her program live via Zoom, which would then record the full presentation for a program and done. She was relieved that all she needed to do was to be herself. Listen, the right choice is always worth the effort. And the right choice is always being you. This is actually an unfair advantage. A huge way to shine and stand out. Giving your audience your personal touch. When you embrace who you are, instead of trying to be someone else, it's easier, it's more fun and people connect with the real you. Let's go forward. Think about two very opposite people like Oprah and Joe Rogan, for example, polar opposites, right? They each possess different styles, but both are very popular. They don't try to be someone else. They step fully into who they are and what their strengths are. Which would you say resonates most with your natural style? Humor versus just the facts or direct? Are you able to simplify complex topics? Are you great with visual storytelling? Or on the spot speaking, fielding live interactions versus scripting everything out? Find your sweet spot and move into that. This posture carries you into your personal style, your wardrobe choices, where you record, etc. Your perceived weaknesses can actually become an advantage. You don't have to be perfect to speak. For instance, we work with a lot of students who think their accent is a detriment. It actually makes them memorable and many people find an accent quite cool. Think about this. You can communicate with your ideal client, not only in English, but your native tongue as well. Now embracing your unique style doesn't mean anything, goals now. Still maintain professionalism. Treat your audience with respect. Know what you want to say and match your audience. For example, if you are a fitness professional and you are in a three-piece suit on a video, stop it now. Work on becoming the very best version of yourself.
+
+## [03:02 - 03:48]
+
+Dig into each lesson in this program and in the wealth of support already available on Mastermind.com and take the uncomfortable action to grow even a little bit each month. Dig the best of who you are, refine it and focus on it. That is all that's required. I'll wrap it up like this. Have fun with it. The beauty of today's business, this industry in particular, is that there's a place for everyone. Figure out where you fit in and embrace it. Keep working to improve your skills. You guys, give yourself grace. You're not only enough. You're more than enough. Remember you're beautifully and wonderfully made.

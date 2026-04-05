@@ -1,0 +1,205 @@
+# Extração: WFF2019_M3_L5_Post_Registration_Email_Strategy_Exercise
+
+- **Fonte:** WFF2019_M3_L5_Post_Registration_Email_Strategy_Exercise.pdf
+- **Tipo:** PDF
+- **Páginas:** 0
+- **Tamanho:** 0.19 MB
+
+---
+
+M3_ L5. Post-Registration Email
+EXERCISE
+www.getwsodo.com	www.getwsodo.com
+
+-- 1 of 6 --
+
+EXERCISE / MODULE 3 / LESSON 5: POST-REGISTRATION EMAIL
+STRATEGY
+POST-REGISTRATION EMAIL STRATEGY
+Use this exercise to create a post-registration email sequence that shifts
+negativity and skepticism into anticipation (thus leading to higher
+attendance on your webinar). You can create a solid post-registration email
+strategy by employing the 5 key communications. The 5 key
+communications are a series anticipatory communications that are designed
+to move prospects towards the mindset they have to have to be willing to buy
+from you on the webinar:
+1. 	Personalization Promise
+2. 	Transformational Content
+3. 	Trust Builder
+4. Transformational Content
+5. 	Transformational Content
+In each of those communications you want to remind, inform and build
+relationships.
+✓ 	Remind them of the date, time and benefits of the webinar
+✓ 	Inform them by giving valuable content and a preview of the content of
+the webinar
+✓ 	Build relationships by writing in a light, chatty, relatable style and sharing
+stories
+PERSONALIZATION PROMISE
+The personalization promise is usually sent 1 hr after a prospect registers for
+your webinar. In your personalization promise email, you want to
+communicate:
+“I’m working on the script, but want to make sure that I include what’s most
+important to you”… send them to a short (3-question) survey “so I make sure I
+cover your specific question/issue… and of course, I’ll be answering all your
+questions in the webinar itself.” Suggested survey questions:
+• 	What’s your biggest question about_____? (feel free to ask more than one)
+• 	What’s your biggest challenge with achieving_______?
+• 	What will change in your life when this issue is solved?
+© Internet Alchemy, Inc. 	of	2 	6
+www.getwsodo.com	www.getwsodo.com
+
+-- 2 of 6 --
+
+EXERCISE / MODULE 3 / LESSON 5: POST-REGISTRATION EMAIL
+STRATEGY
+Your Personalization Promise Email:
+______________________________________________________________________________
+______________________________________________________________________________
+______________________________________________________________________________
+______________________________________________________________________________
+______________________________________________________________________________
+______________________________________________________________________________
+______________________________________________________________________________
+______________________________________________________________________________
+______________________________________________________________________________
+______________________________________________________________________________
+______________________________________________________________________________
+______________________________________________________________________________
+______________________________________________________________________________
+______________________________________________________________________________
+______________________________________________________________________________
+______________________________________________________________________________
+Does your Personalization Promise email do the following?
+✓ 	Remind
+✓ 	Inform
+✓ 	Build Relationships
+TRANSFORMATIONAL CONTENT
+The better these are, the better your attendance, so don’t skimp, but don’t
+totally solve their problem. Don’t let them think they don’t need to attend/
+buy because you’ve already solved it for them.
+Ideally this is content that deals with objections to purchase. One way to do
+it is to send a video along with an exercise, and prompt them to report their
+results in the Facebook group.
+In the transformational content emails, you want to communicate:
+✓ 	3 significant solutions for issues they face that hold them back from
+achieving the transformation
+✓ 	Quick fixes (they can see this will instantly make a difference, can execute
+now and achieve results in 24 hours)
+© Internet Alchemy, Inc. 	of	3 	6
+www.getwsodo.com	www.getwsodo.com
+
+-- 3 of 6 --
+
+EXERCISE / MODULE 3 / LESSON 5: POST-REGISTRATION EMAIL
+STRATEGY
+Your Transformational Content Email #1:
+______________________________________________________________________________
+______________________________________________________________________________
+______________________________________________________________________________
+______________________________________________________________________________
+______________________________________________________________________________
+______________________________________________________________________________
+______________________________________________________________________________
+______________________________________________________________________________
+______________________________________________________________________________
+______________________________________________________________________________
+______________________________________________________________________________
+______________________________________________________________________________
+______________________________________________________________________________
+______________________________________________________________________________
+______________________________________________________________________________
+______________________________________________________________________________
+Your Transformational Content Email #2:
+______________________________________________________________________________
+______________________________________________________________________________
+______________________________________________________________________________
+______________________________________________________________________________
+______________________________________________________________________________
+______________________________________________________________________________
+______________________________________________________________________________
+______________________________________________________________________________
+______________________________________________________________________________
+______________________________________________________________________________
+______________________________________________________________________________
+______________________________________________________________________________
+______________________________________________________________________________
+______________________________________________________________________________
+______________________________________________________________________________
+______________________________________________________________________________
+Your Transformational Content Email #3:
+______________________________________________________________________________
+______________________________________________________________________________
+______________________________________________________________________________
+______________________________________________________________________________
+© Internet Alchemy, Inc. 	of	4 	6
+www.getwsodo.com	www.getwsodo.com
+
+-- 4 of 6 --
+
+EXERCISE / MODULE 3 / LESSON 5: POST-REGISTRATION EMAIL
+STRATEGY
+______________________________________________________________________________
+______________________________________________________________________________
+______________________________________________________________________________
+______________________________________________________________________________
+______________________________________________________________________________
+______________________________________________________________________________
+______________________________________________________________________________
+______________________________________________________________________________
+______________________________________________________________________________
+______________________________________________________________________________
+______________________________________________________________________________
+______________________________________________________________________________
+Do your Transformational Content emails do the following?
+✓ 	Remind
+✓ 	Inform
+✓ 	Build Relationships
+TRUST BUILDER
+The trust builder email is usually sent early in the morning on Day 2 of your
+sequence; two days after a prospect registers for your webinar and one day
+before your webinar. Ideally, the trust builder is in the form of a short face to
+camera video of you talking with them. In your trust builder email, you want
+to communicate:
+✓ 	Your desire to serve them and help them achieve the transformation
+you’ve promised and show how you’ve already helped others to achieve it
+✓ 	Testimonials (ideally of the webinar, otherwise for you personally, but NOT
+for the product)
+✓ 	Restatement of the transformation you’ll provide
+✓ 	A promise to answer their questions
+✓ 	“Look forward to seeing you on the webinar”
+© Internet Alchemy, Inc. 	of	5 	6
+www.getwsodo.com	www.getwsodo.com
+
+-- 5 of 6 --
+
+EXERCISE / MODULE 3 / LESSON 5: POST-REGISTRATION EMAIL
+STRATEGY
+Your Trust Builder Email:
+______________________________________________________________________________
+______________________________________________________________________________
+______________________________________________________________________________
+______________________________________________________________________________
+______________________________________________________________________________
+______________________________________________________________________________
+______________________________________________________________________________
+______________________________________________________________________________
+______________________________________________________________________________
+______________________________________________________________________________
+______________________________________________________________________________
+______________________________________________________________________________
+______________________________________________________________________________
+______________________________________________________________________________
+______________________________________________________________________________
+______________________________________________________________________________
+Does your Trust Builder email do the following?
+✓ 	Remind
+✓ 	Inform
+✓ 	Build Relationships
+Remember, you can super-charge your email strategy by segmenting your
+list and sending different emails based on those segments.
+© Internet Alchemy, Inc. 	of	6 	6
+www.getwsodo.com	www.getwsodo.com
+
+-- 6 of 6 --
+

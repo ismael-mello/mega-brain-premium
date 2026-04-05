@@ -1,0 +1,817 @@
+# ============================================================================
+# TONY ROBBINS + DEAN GRAZIOSI — Knowledge Business Blueprint DNA
+# ============================================================================
+# Source: Knowledge Business Blueprint Course (6 Modules)
+# Speakers: Tony Robbins (TR), Dean Graziosi (DG), + guest instructors
+# Extracted: 2026-04-04
+# Version: 1.0.0
+# Total Elements: 247
+# ============================================================================
+
+metadata:
+  source: "Knowledge Business Blueprint Course"
+  speakers:
+    primary: ["Tony Robbins", "Dean Graziosi"]
+    guests: ["Tanner", "Teresa", "Ryan", "Brian", "Nick", "Jeremy", "Russell Brunson"]
+  modules:
+    - "Module 1: Extract It (5 lessons)"
+    - "Module 2: Fill It (5 lessons)"
+    - "Module 3: Run It (4 lessons)"
+    - "Module 4: Knowledge Broker"
+    - "Module 5: Power Moves"
+    - "Module 6: Russell Brunson Bonus"
+  extraction_date: "2026-04-04"
+
+# ============================================================================
+# L1 — PHILOSOPHIES (Core Beliefs & Worldview)
+# ============================================================================
+philosophies:
+
+  - id: PHI-TR-001
+    text: "Resources are not the problem. The problem is people are not resourceful enough."
+    speaker: Tony Robbins
+    source: "M01-L01-P02-What_Does_It_Take_To_Succeed"
+
+  - id: PHI-TR-002
+    text: "Reasons aren't going to get you where you want to go. Results come from an obsession with getting yourself to take action."
+    speaker: Tony Robbins
+    source: "M01-L01-P02-What_Does_It_Take_To_Succeed"
+
+  - id: PHI-TR-003
+    text: "Knowledge is not power. Execution is the ultimate power. Execution trumps knowledge every day of the week."
+    speaker: Tony Robbins
+    source: "M01-L01-P02-What_Does_It_Take_To_Succeed"
+
+  - id: PHI-TR-004
+    text: "Complexity is the enemy of execution."
+    speaker: Tony Robbins
+    source: "M00-Course_Introduction"
+
+  - id: PHI-TR-005
+    text: "Never leave the site of setting a goal or making a decision without doing something in that moment that commits you to follow through."
+    speaker: Tony Robbins
+    source: "M00-Course_Introduction"
+
+  - id: PHI-TR-006
+    text: "The only way you get wealthy and sustain that wealth is if you understand that life is not about me, it's about what do I do for you."
+    speaker: Tony Robbins
+    source: "M01-L01-P03-Mindset_Secrets_To_Scale"
+
+  - id: PHI-TR-007
+    text: "If you can do more for others than anybody else is doing in the marketplace, you will dominate. It's only a matter of time."
+    speaker: Tony Robbins
+    source: "M01-L01-P03-Mindset_Secrets_To_Scale"
+
+  - id: PHI-TR-008
+    text: "Work harder on yourself than you do on your job."
+    speaker: Tony Robbins (quoting Jim Rohn)
+    source: "M01-L01-P03-Mindset_Secrets_To_Scale"
+
+  - id: PHI-TR-009
+    text: "Don't fall in love with your product or service. Fall in love with your ideal customer."
+    speaker: Tony Robbins
+    source: "M01-L01-P03-Mindset_Secrets_To_Scale"
+
+  - id: PHI-TR-010
+    text: "People don't buy products, they buy feelings. People don't buy products, they buy states. People don't buy products, they buy identities."
+    speaker: Tony Robbins (from Steve Wynn conversation)
+    source: "BONUS-Tony-People_Buy_Feelings"
+
+  - id: PHI-TR-011
+    text: "People will pay disproportionately to feel significant than for any other need."
+    speaker: Tony Robbins (from Steve Wynn)
+    source: "BONUS-Tony-People_Buy_Feelings"
+
+  - id: PHI-TR-012
+    text: "If you want to be wealthy, the entire secret in one sentence: Do more for others than anyone else is doing. Add more value and you will own the marketplace."
+    speaker: Tony Robbins
+    source: "BONUS-Tony-People_Buy_Feelings"
+
+  - id: PHI-TR-013
+    text: "High margins come from high human needs being met."
+    speaker: Tony Robbins
+    source: "BONUS-Tony-People_Buy_Feelings"
+
+  - id: PHI-TR-014
+    text: "Adding value is not about cutting your prices. Sometimes adding value is raising your price."
+    speaker: Tony Robbins
+    source: "BONUS-Tony-People_Buy_Feelings"
+
+  - id: PHI-TR-015
+    text: "80% of success in anything is psychology and 20% is mechanics."
+    speaker: Tony Robbins
+    source: "Tony-Secret_To_Energy_For_Life"
+
+  - id: PHI-TR-016
+    text: "If you do what you've always done, you'll get what you've always gotten."
+    speaker: Tony Robbins
+    source: "KBB-Workbook"
+
+  - id: PHI-TR-017
+    text: "Activity without purpose is the drain to your life. Activity without purpose is the drain to your wealth."
+    speaker: Tony Robbins
+    source: "BONUS-Tony-How_To_Take_Massive_Action"
+
+  - id: PHI-DG-018
+    text: "Self-education is the new norm. We're in the information age and masterminds will be the new norm."
+    speaker: Dean Graziosi
+    source: "M02-L01-P03-Mastermind_Marketing_Philosophy"
+
+  - id: PHI-DG-019
+    text: "People don't sue relationships. They don't refund relationships. They sue and refund transactions."
+    speaker: Dean Graziosi
+    source: "M01-L02-P02-Discovering_Your_Superpower"
+
+  - id: PHI-DG-020
+    text: "Hard work didn't mean results. They didn't teach us in school how to be successful."
+    speaker: Dean Graziosi
+    source: "M01-L02-P02-Discovering_Your_Superpower"
+
+  - id: PHI-DG-021
+    text: "People who pay, pay attention. Give somebody something for free, it's not worth anything."
+    speaker: Dean Graziosi
+    source: "M04-L01-P01-Knowledge_Broker"
+
+  - id: PHI-DG-022
+    text: "They don't make statues of critics."
+    speaker: Dean Graziosi
+    source: "M01-L02-P02-Discovering_Your_Superpower"
+
+  - id: PHI-DG-023
+    text: "Your next level of life — love, income, abundance, joy — lives on the other side of your biggest fear or your biggest pain or your biggest obstacle."
+    speaker: Dean Graziosi
+    source: "M01-L04-P10-The_One_Thing"
+
+  - id: PHI-DG-024
+    text: "At the end of your life, you don't want to say you lived an okay life or even a good life."
+    speaker: Dean Graziosi
+    source: "M01-L02-P02-Discovering_Your_Superpower"
+
+  - id: PHI-TR-025
+    text: "Entrepreneurs usually fall in love with their product. If you're going to scale, fall in love with your ideal customer — who is the client going to tell all their friends, refer the most business, and become a client not just a customer."
+    speaker: Tony Robbins
+    source: "M01-L01-P03-Mindset_Secrets_To_Scale"
+
+  - id: PHI-TR-026
+    text: "Customers go away, clients stay. What makes a client is someone you're constantly adding more value to."
+    speaker: Tony Robbins
+    source: "M01-L01-P03-Mindset_Secrets_To_Scale"
+
+  - id: PHI-TR-027
+    text: "Business is really only two things: innovation and marketing. Innovation is finding a better way to meet your customer's needs. Marketing is getting people to want to do business with you."
+    speaker: Tony Robbins (quoting Peter Drucker)
+    source: "M01-L01-P03-Mindset_Secrets_To_Scale"
+
+  - id: PHI-TR-028
+    text: "Repetition is the mother of skill."
+    speaker: Tony Robbins (quoting Jim Rohn)
+    source: "M01-L01-P02-What_Does_It_Take_To_Succeed"
+
+  - id: PHI-TR-029
+    text: "Reasons come first, answers come second. If you get a strong enough why, you can figure out how to do anything."
+    speaker: Tony Robbins (quoting Jim Rohn)
+    source: "M01-L01-P02-What_Does_It_Take_To_Succeed"
+
+  - id: PHI-TR-030
+    text: "Where focus goes, energy flows."
+    speaker: Tony Robbins
+    source: "M01-L01-P02-What_Does_It_Take_To_Succeed"
+
+  - id: PHI-DG-031
+    text: "I want to inform people, I want to influence people. That's what a leader does — a leader is a person who can influence the thoughts, feelings, emotions and actions of another human being."
+    speaker: Tony Robbins
+    source: "M01-L01-P02-What_Does_It_Take_To_Succeed"
+
+  - id: PHI-DG-032
+    text: "Most people overestimate what they're going to do in a year and underestimate what they can do in a decade or two."
+    speaker: Tony Robbins
+    source: "M01-L01-P03-Mindset_Secrets_To_Scale"
+
+  - id: PHI-DG-033
+    text: "Don't die with knowledge in your head. The world deserves to learn what you know."
+    speaker: Dean Graziosi
+    source: "M01-L04-P04-Seven_Levels_Deep"
+
+  - id: PHI-DG-034
+    text: "Marketing is simply attracting those you want and repelling those you don't."
+    speaker: Dean Graziosi
+    source: "M01-L02-P03-Identifying_Your_Ideal_Client"
+
+  - id: PHI-DG-035
+    text: "You are there to serve, not be judged."
+    speaker: Dean Graziosi
+    source: "M03-L01-P02-Psychology_Of_Running_A_Mastermind"
+
+# ============================================================================
+# L2 — MENTAL MODELS (Thinking Frameworks & Decision Lenses)
+# ============================================================================
+mental_models:
+
+  - id: MM-TR-001
+    name: "Success Momentum Cycle (Belief-Potential-Action-Results)"
+    description: "Four-square clockwise cycle: Certainty/Belief → Potential → Action → Results → reinforces Belief. When you're uncertain, you tap little potential, take little action, get poor results, reinforcing the negative spiral. The rich get richer because certainty → more potential → massive action → great results → more certainty."
+    speaker: Tony Robbins
+    source: "M01-L01-P02-What_Does_It_Take_To_Succeed"
+
+  - id: MM-TR-002
+    name: "Three Levels of Mastery"
+    description: "Level 1: Cognitive Understanding (you understand it intellectually). Level 2: Emotional Mastery (you feel enough emotion to move and use it). Level 3: Physical Mastery (you've done it so many times with emotion it's in your body — you do it without thinking). Physical mastery is the goal."
+    speaker: Tony Robbins
+    source: "M01-L01-P02-What_Does_It_Take_To_Succeed"
+
+  - id: MM-TR-003
+    name: "Six Human Needs"
+    description: "1. Certainty (avoid pain, have pleasure). 2. Uncertainty/Variety (surprise, novelty). 3. Significance (feeling unique, special, important). 4. Connection/Love. 5. Growth (grow or die). 6. Contribution. First four are needs of personality — everyone finds a way to meet them. Last two are needs of the spirit."
+    speaker: Tony Robbins
+    source: "BONUS-Tony-People_Buy_Feelings"
+
+  - id: MM-TR-004
+    name: "Reticular Activating System (RAS)"
+    description: "The RAS determines what you notice in your environment. When you decide something is your mission and can't stop thinking about it, your brain starts noticing opportunities everywhere that others miss — like when you buy a car and suddenly see it everywhere."
+    speaker: Tony Robbins
+    source: "M01-L01-P02-What_Does_It_Take_To_Succeed"
+
+  - id: MM-TR-005
+    name: "CANI — Constant And Never-ending Improvement"
+    description: "The real secret to sustained wealth and success. Not a one-time event but a continuous process of improving what you do, how you reach people, how you add value."
+    speaker: Tony Robbins
+    source: "M01-L01-P03-Mindset_Secrets_To_Scale"
+
+  - id: MM-TR-006
+    name: "Innovation and Marketing Model"
+    description: "Business = Innovation + Marketing. Innovation = finding a better way to meet your customer's needs. Marketing = getting people to want to do business with you. Like a relationship: first you innovate (unique approaches), then market (make them want you). If you stop either, you lose."
+    speaker: Tony Robbins (via Peter Drucker)
+    source: "M01-L01-P03-Mindset_Secrets_To_Scale"
+
+  - id: MM-TR-007
+    name: "Results In Advance"
+    description: "The mind doesn't distinguish between vivid imagination and real experience. To create certainty before having results, vividly rehearse success repeatedly. Like the turning exercise — 3 mental rehearsals = 25%+ physical improvement."
+    speaker: Tony Robbins
+    source: "M01-L01-P02-What_Does_It_Take_To_Succeed"
+
+  - id: MM-TR-008
+    name: "Emotional vs Logical Buyers"
+    description: "About 1/3 of buyers are emotional (buy immediately), 1/3 buy during consideration period, 1/3 are logical (buy at the deadline). 40% of all buyers buy on the LAST day. Most businesses lose logical buyers by not creating proper urgency and giving time to process."
+    speaker: Dean Graziosi
+    source: "M02-L05-P02-Launch_Evergreen"
+
+  - id: MM-DG-009
+    name: "Unconscious Competence"
+    description: "Most successful people don't know WHY they're successful — they have 'unconscious competence.' They say 'I just work hard' when there's actually a hidden system. The Superpower extraction process makes the unconscious conscious and teachable."
+    speaker: Dean Graziosi
+    source: "M01-L02-P02-Discovering_Your_Superpower"
+
+  - id: MM-DG-010
+    name: "Art vs Science of Business"
+    description: "Every business has an art side (creative messaging, human connection, presentation) and a science side (algorithms, data, processes). Know which side is YOUR superpower. Teach the art; hire for the science — or vice versa."
+    speaker: Dean Graziosi
+    source: "M01-L02-P02-Discovering_Your_Superpower"
+
+  - id: MM-DG-011
+    name: "Options vs Benefits"
+    description: "Options are features/mechanics. Benefits are feelings/outcomes. Don't sell headlights (options) — sell 'when it's dark outside, you can see' (benefit). Don't sell air conditioning mechanics — sell 'when it's hot outside, you get in and it's cold.'"
+    speaker: Dean Graziosi
+    source: "M02-L01-P03-Mastermind_Marketing_Philosophy"
+
+  - id: MM-DG-012
+    name: "ROT — Return On Time"
+    description: "Masterminds don't cost you time — they give you a Return On Time. Everything learned shortcuts your learning curve and gives exponential time back. Frame events as ROT not cost."
+    speaker: Dean Graziosi
+    source: "M02-L01-P03-Mastermind_Marketing_Philosophy"
+
+  - id: MM-TR-013
+    name: "Three Steps to Achievement"
+    description: "Step 1: Get obsessed — focus on what you want with burning desire until your RAS activates. Step 2: Massive action — take relentless action, keep changing approach. Step 3: Grace/luck — the more you acknowledge and act, the more grace comes to you."
+    speaker: Tony Robbins
+    source: "M01-L01-P02-What_Does_It_Take_To_Succeed"
+
+  - id: MM-TR-014
+    name: "Leverage vs Delegation"
+    description: "Delegation = dump tasks on someone and get mad when they fail. Leverage = share the outcome, purpose, and action plan; partner with them; check in before deadline; let them improve the approach. Leverage is sustainable; delegation creates resentment."
+    speaker: Tony Robbins
+    source: "BONUS-Tony-How_To_Take_Massive_Action"
+
+  - id: MM-DG-015
+    name: "Significance Pricing Model"
+    description: "From Steve Wynn: People pay disproportionately for significance. When competitors shrink during downturns, add MORE value and keep prices high. High-end customers gravitate to whoever maintains the most significance. Building significance during recession locks in loyalty."
+    speaker: Tony Robbins
+    source: "BONUS-Tony-People_Buy_Feelings"
+
+# ============================================================================
+# L3 — HEURISTICS (Rules of Thumb, Numbers, Thresholds)
+# ============================================================================
+heuristics:
+
+  - id: HEUR-TR-001
+    rule: "Self-education industry worth $129 billion/year ($355 million/day)"
+    threshold: "$129B/year, $355M/day"
+    speaker: Tony Robbins / Dean Graziosi
+    source: "M00-Course_Introduction"
+
+  - id: HEUR-TR-002
+    rule: "Only 9-12% of online course buyers finish the course"
+    threshold: "9-12% completion rate"
+    speaker: Dean Graziosi
+    source: "M00-Course_Introduction"
+
+  - id: HEUR-TR-003
+    rule: "In first year, 50% of businesses fail. In 5 years, 80% gone. Over 10 years, 96% fail — only 4% survive."
+    threshold: "50% / 80% / 96% failure rates at 1/5/10 years"
+    speaker: Tony Robbins
+    source: "M01-L01-P02-What_Does_It_Take_To_Succeed"
+
+  - id: HEUR-TR-004
+    rule: "Out of college graduates, only 27% ever get a job in their field. 52% hate the job they're in. 73% never use any of the education they paid for."
+    threshold: "27% field match / 52% hate job / 73% unused education"
+    speaker: Tony Robbins
+    source: "M00-Course_Introduction"
+
+  - id: HEUR-TR-005
+    rule: "Passive listening = 10% retention after 30 days. Listening + taking notes = 50-55% retention. Listening + notes + active participation = 80-90% retention."
+    threshold: "10% / 50-55% / 80-90%"
+    speaker: Tony Robbins
+    source: "M01-L01-P02-What_Does_It_Take_To_Succeed"
+
+  - id: HEUR-TR-006
+    rule: "After 3 mental rehearsals, 80% of people achieve 25%+ physical improvement (turning exercise)."
+    threshold: "3 reps → 25%+ improvement in 80% of subjects"
+    speaker: Tony Robbins
+    source: "M01-L01-P02-What_Does_It_Take_To_Succeed"
+
+  - id: HEUR-TR-007
+    rule: "Michael Jordan practiced 1,500 shots per day in the off-season, 6 days a week, starting at 5am."
+    threshold: "1,500 shots/day, 6 days/week"
+    speaker: Tony Robbins
+    source: "M01-L01-P02-What_Does_It_Take_To_Succeed"
+
+  - id: HEUR-DG-008
+    rule: "The average hairstylist makes about $38,000/year nationwide."
+    threshold: "$38K/year average"
+    speaker: Dean Graziosi
+    source: "M01-L02-P02-Discovering_Your_Superpower"
+
+  - id: HEUR-DG-009
+    rule: "90% of all books sold at Barnes & Noble sell less than 500 copies."
+    threshold: "90% sell <500 copies"
+    speaker: Dean Graziosi
+    source: "M02-L01-P03-Mastermind_Marketing_Philosophy"
+
+  - id: HEUR-DG-010
+    rule: "Doctors don't get sued if they spend over 8 minutes with a client — because people don't sue relationships."
+    threshold: "8+ minutes = lawsuit protection"
+    speaker: Dean Graziosi (referencing Michael Gerber)
+    source: "M01-L02-P02-Discovering_Your_Superpower"
+
+  - id: HEUR-DG-011
+    rule: "Good videos convert better than short or long videos. Dean's best-performing ad: 60 seconds. Second best: 36 minutes."
+    threshold: "60sec and 36min both top performers"
+    speaker: Dean Graziosi
+    source: "M02-L02-P04-What_To_Charge_For_Your_Event"
+
+  - id: HEUR-DG-012
+    rule: "40% of all buyers buy on the LAST day of a launch."
+    threshold: "40% buy at deadline"
+    speaker: Dean Graziosi
+    source: "M02-L05-P02-Launch_Evergreen"
+
+  - id: HEUR-DG-013
+    rule: "In a launch: ~1/3 buy immediately (emotional), ~1/3 buy during consideration, ~1/3 buy on deadline (logical)."
+    threshold: "33% / 33% / 33% distribution"
+    speaker: Dean Graziosi
+    source: "M02-L05-P02-Launch_Evergreen"
+
+  - id: HEUR-DG-014
+    rule: "Dean sent 9-word emails to sell $10,000/person mastermind spots — filled 10 seats with no ad spend."
+    threshold: "9-word email → $100K revenue"
+    speaker: Dean Graziosi
+    source: "M03-L01-P02-Psychology_Of_Running_A_Mastermind"
+
+  - id: HEUR-DG-015
+    rule: "$3,300+ spent every second online buying information. That's over $336 million per day."
+    threshold: "$3,300/second, $336M/day"
+    speaker: Dean Graziosi
+    source: "M02-L01-P03-Mastermind_Marketing_Philosophy"
+
+  - id: HEUR-DG-016
+    rule: "Only 9% of people finish an online course. 91% don't complete."
+    threshold: "9% completion"
+    speaker: Dean Graziosi
+    source: "M03-L01-P02-Psychology_Of_Running_A_Mastermind"
+
+  - id: HEUR-DG-017
+    rule: "Tony and Dean charge $250,000/year for highest-level mastermind — 3 days, 3 times per year. Members must do $10M+/year."
+    threshold: "$250K/year, $10M+ revenue minimum"
+    speaker: Dean Graziosi
+    source: "M01-L02-P03-Identifying_Your_Ideal_Client"
+
+  - id: HEUR-DG-018
+    rule: "Dean reads about 1 book every 10 days consistently."
+    threshold: "~36 books/year"
+    speaker: Dean Graziosi
+    source: "M01-L02-P02-Discovering_Your_Superpower"
+
+  - id: HEUR-TR-019
+    rule: "Tony went to Jim Rohn's 3.5-hour seminar over 150 times."
+    threshold: "150+ repetitions of same content"
+    speaker: Tony Robbins
+    source: "M01-L01-P02-What_Does_It_Take_To_Succeed"
+
+  - id: HEUR-TR-020
+    rule: "Tony read 700 books in about 7 years (~100/year) in philosophy, psychology, and physiology."
+    threshold: "700 books / 7 years"
+    speaker: Tony Robbins
+    source: "M01-L01-P02-What_Does_It_Take_To_Succeed"
+
+  - id: HEUR-TR-021
+    rule: "Tony does $6 billion/year across 54 companies in a dozen industries on 4 continents with ~2,000 employees."
+    threshold: "$6B/year, 54 companies"
+    speaker: Tony Robbins
+    source: "M01-L01-P03-Mindset_Secrets_To_Scale"
+
+  - id: HEUR-DG-022
+    rule: "First mastermind pricing: value of your time + what value you deliver. Simple formula: pick a number that excites you for the weekend, add expenses, divide by seats."
+    threshold: "Example: $10K net target + expenses ÷ 14 seats = ~$1,000/person"
+    speaker: Dean Graziosi
+    source: "M02-L02-P04-What_To_Charge_For_Your_Event"
+
+  - id: HEUR-DG-023
+    rule: "Dean earned $150K in one California trip: $50K for 30-min speaking + $100K from 10-person mastermind at $10K each."
+    threshold: "$50K speech + $100K mastermind = $150K/trip"
+    speaker: Dean Graziosi
+    source: "M03-L01-P02-Psychology_Of_Running_A_Mastermind"
+
+  - id: HEUR-DG-024
+    rule: "Launch timeline: 23-day process. Days 1-7 hype. Days 8-14 value videos. Day 15 open. Days 16-22 FAQ/social proof. Day 23 close."
+    threshold: "23-day launch cycle"
+    speaker: Dean Graziosi
+    source: "M02-L05-P02-Launch_Evergreen"
+
+  - id: HEUR-DG-025
+    rule: "Ed Mylett and Andy Frisella sold out 60 spots at $60,000/year mastermind in 5-7 days using the launch model."
+    threshold: "60 x $60K = $3.6M in 5-7 days"
+    speaker: Dean Graziosi
+    source: "M02-L05-P02-Launch_Evergreen"
+
+  - id: HEUR-TR-026
+    rule: "Focus on the 20% of actions that get 80% of the result. Star those as MUSTS."
+    threshold: "20/80 rule for action prioritization"
+    speaker: Tony Robbins
+    source: "BONUS-Tony-How_To_Take_Massive_Action"
+
+  - id: HEUR-DG-027
+    rule: "For knowledge broker partnerships: expert MUST have a following (email list, social media, blog). No following = no free traffic for first mastermind."
+    threshold: "Following required for zero-ad-spend first event"
+    speaker: Dean Graziosi
+    source: "M04-L01-P01-Knowledge_Broker"
+
+  - id: HEUR-DG-028
+    rule: "Half of original $10K mastermind attendees (5 of 10) later joined Dean's $25K/year mastermind."
+    threshold: "50% ascension rate from one-time to recurring"
+    speaker: Dean Graziosi
+    source: "M03-L01-P02-Psychology_Of_Running_A_Mastermind"
+
+  - id: HEUR-DG-029
+    rule: "Phone qualification calls should be under 3 minutes each."
+    threshold: "<3 minutes per qualification call"
+    speaker: Dean Graziosi
+    source: "M03-L01-P02-Psychology_Of_Running_A_Mastermind"
+
+  - id: HEUR-TR-030
+    rule: "University costs 8x more now while jobs have stayed flat."
+    threshold: "8x cost increase"
+    speaker: Tony Robbins
+    source: "M00-Course_Introduction"
+
+# ============================================================================
+# L4 — FRAMEWORKS (Structured Methodologies, Step-by-Step)
+# ============================================================================
+frameworks:
+
+  - id: FW-TR-001
+    name: "Massive Action + Certainty + Effective Execution = Cure All"
+    description: "The formula for overcoming any challenge. Take massive action, build certainty through mental rehearsal, and execute effectively through modeling (learning from those who've done it)."
+    steps: ["1. Build Certainty (rehearse results in advance)", "2. Take Massive Action", "3. Execute Effectively (model success)"]
+    speaker: Tony Robbins
+    source: "KBB-Workbook + M01-L01-P02"
+
+  - id: FW-TR-002
+    name: "RPM — Rapid Planning Method (5 Cs)"
+    description: "Tony's personal productivity system. Not a to-do list — a thinking process."
+    steps:
+      - "1. CAPTURE: Get everything out of your head into one place with categories"
+      - "2. CREATE A PLAN: 3 questions — What's my outcome? What's my purpose/why? What's my massive action plan?"
+      - "3. CREATE A PLAN (actions): Star the 20% MUSTS, set minimum-maximum time, identify leverage"
+      - "4. COMMIT: Do it now — never leave the site of a decision without action"
+      - "5. CELEBRATE: Reward progress to reinforce momentum"
+    speaker: Tony Robbins
+    source: "BONUS-Tony-How_To_Take_Massive_Action"
+
+  - id: FW-DG-003
+    name: "Story → Teach → Tool → Action (The Magical Dance)"
+    description: "The winning event formula for any mastermind or training. A continuous cycle that creates transformational learning."
+    steps:
+      - "1. STORY: Tell transformational story that inspires, motivates, builds credibility, shows epiphany"
+      - "2. TEACH: Share tactical knowledge, how-tos, specific strategies"
+      - "3. TOOL: Anchor the teaching with an interactive exercise/worksheet"
+      - "4. ACTION: Get them to physically do something, apply it immediately"
+      - "Repeat the dance throughout the event"
+    speaker: Dean Graziosi
+    source: "M01-L03-P01-Story_Teach_Tool"
+
+  - id: FW-DG-004
+    name: "Superpower Extraction (4 Questions)"
+    description: "Process to extract your unconscious competence and identify what to teach."
+    steps:
+      - "Q1: List 3 things that make you stand out from your competition"
+      - "Q2: List 3 specific skills you've developed that made you successful"
+      - "Q3: List 2 things in your business that make you happiest and you'd never outsource"
+      - "Q4: Write down 2-3 transformational stories (your hero's journey / epiphany moments)"
+    speaker: Dean Graziosi
+    source: "M01-L02-P02-Discovering_Your_Superpower"
+
+  - id: FW-DG-005
+    name: "Ideal Client Avatar Builder"
+    description: "Reverse engineer your superpower to find the perfect client. Three questions to identify them."
+    steps:
+      - "1. What are your ideal client's 3 biggest PAIN POINTS?"
+      - "2. What are your ideal client's 3 biggest DESIRES?"
+      - "3. Reverse engineer your superpower — what attributes must they have?"
+    speaker: Dean Graziosi
+    source: "M01-L02-P03-Identifying_Your_Ideal_Client"
+
+  - id: FW-DG-006
+    name: "Narrow Your Niche Tool"
+    description: "One-sentence mission statement template for absolute clarity."
+    steps:
+      - "Template: 'I'm launching a _______ to help _______ to _______ by _______'"
+      - "Example: 'I'm launching a mastermind to help authors to write and sell more books by using high impact direct response marketing'"
+    speaker: Dean Graziosi
+    source: "M01-L02-P04-Narrow_Your_Niche + KBB-Workbook"
+
+  - id: FW-DG-007
+    name: "Seven Levels Deep Exercise"
+    description: "Ask 'why' 7 times to move from head-level (logical) reasons to heart-level (emotional) drivers. Each answer becomes the subject of the next 'why.'"
+    steps:
+      - "Level 1: Why do you want this? (surface answer — e.g., 'scale my business')"
+      - "Level 2: Why is that important? (e.g., 'make bigger impact')"
+      - "Level 3: Why? (e.g., 'set new standard')"
+      - "Level 4: Why? (shift starts here — e.g., 'leave a legacy')"
+      - "Level 5: Why? (emotional — e.g., 'never go backwards')"
+      - "Level 6: Why? (deep emotional — e.g., 'want kids to have choices')"
+      - "Level 7: Why? (core truth — e.g., 'want to be in control of my life')"
+    speaker: Dean Graziosi (from Joe Stump)
+    source: "M01-L04-P04-Seven_Levels_Deep"
+
+  - id: FW-DG-008
+    name: "The One Thing (Exponential Results)"
+    description: "Instead of solving 10 problems individually, find the ONE thing that solves all of them simultaneously. Write all problems, write all possible solutions, then ask: is there ONE thing that addresses all problems?"
+    steps:
+      - "1. List ALL problems/fears/worries"
+      - "2. List ALL possible solutions you're already trying"
+      - "3. Ask: Could there be ONE THING that solves all of these?"
+      - "4. Identify the ONE THING"
+      - "5. Obsess ONLY on making that ONE THING a reality"
+    speaker: Dean Graziosi
+    source: "M01-L04-P10-The_One_Thing"
+
+  - id: FW-DG-009
+    name: "23-Day Launch Model"
+    description: "Full launch process for filling events or selling products with emotional AND logical buyers."
+    steps:
+      - "Days 1-7: HYPE — tease that something is coming ('They're coming')"
+      - "Days 8-14: VALUE VIDEOS — deliver value, remind of pain, show authority, push to register for launch date"
+      - "Day 15: OPEN — release sales video, collect orders/applications (1/3 of sales)"
+      - "Day 16: Replay available, push traffic"
+      - "Days 17-19: FAQ/CLARITY VIDEO — address top 5 most common questions"
+      - "Days 20-21: SOCIAL PROOF VIDEO — testimonials, results"
+      - "Day 22: Countdown timer visible, urgency emails"
+      - "Day 23: CLOSE — final day, 3 emails, deadline expires (1/3+ of sales come here)"
+      - "Post-launch: Convert to EVERGREEN (same funnel minus urgency, running perpetually)"
+    speaker: Dean Graziosi
+    source: "M02-L05-P02-Launch_Evergreen"
+
+  - id: FW-DG-010
+    name: "Mastermind Marketing Message Framework"
+    description: "5-part framework for crafting your mastermind marketing message."
+    steps:
+      - "1. OVERCOME OBJECTIONS: Kill 'time' objection (ROT not cost) and 'cost' objection (ROI not expense)"
+      - "2. ESTABLISH AUTHORITY: Share your superpower, edify yourself with results"
+      - "3. SHARE WHAT YOU'LL TEACH: Align your unique abilities with their desires"
+      - "4. PRESENT BENEFITS (not options): What outcomes will they get?"
+      - "5. CREATE BELONGING: Entrepreneurs are lonely — masterminds provide community"
+    speaker: Dean Graziosi
+    source: "M02-L01-P03-Mastermind_Marketing_Philosophy"
+
+  - id: FW-DG-011
+    name: "Knowledge Broker Partnership Model"
+    description: "How to partner with experts who have knowledge but don't know how to monetize it."
+    steps:
+      - "1. Pick a niche you're passionate about (go NARROW)"
+      - "2. Find expert with knowledge + following (warm referral > cold outreach)"
+      - "3. Reach out via DM/email/text with simple pitch: 'I learned from Tony & Dean how to run profitable masterminds. I can handle everything. You just show up.'"
+      - "4. Reduce their complexity — you handle marketing, sales, logistics"
+      - "5. Revenue share on profits"
+      - "6. First mastermind: zero ad spend using expert's existing audience"
+    speaker: Dean Graziosi
+    source: "M04-L01-P01-Knowledge_Broker"
+
+  - id: FW-DG-012
+    name: "Clarity Tool (Mapping Your Bigger Future)"
+    description: "Event opening tool. Four quadrants to create clarity on current state and desired future."
+    steps:
+      - "Quadrant 1: CURRENT STATUS (The Truth — where are you right now?)"
+      - "Quadrant 2: ONE YEAR GOALS (look back from 1 year ahead)"
+      - "Quadrant 3: WHY THESE GOALS ARE IMPORTANT"
+      - "Quadrant 4: CAPABILITIES NEEDED TO ACHIEVE GOALS (the HOW — what they'll learn)"
+    speaker: Dean Graziosi
+    source: "M01-L04-P02-Clarity_Tool + KBB-Workbook"
+
+  - id: FW-DG-013
+    name: "Extracting What To Teach (5 Questions)"
+    description: "Questions to extract your teachable expertise from your actual experience."
+    steps:
+      - "Q1: What were the biggest needle movers in your business in the last 12 months?"
+      - "Q2: What are the biggest mistakes you made that you could warn others about?"
+      - "Q3: What small daily/weekly habits add to your success?"
+      - "Q4: If you could tell your teenage self ONE thing, what would it be?"
+      - "Q5: What's ONE thing you do that makes you more successful than your competition that others may not know exists?"
+      - "BONUS: Pick 5-7 'riff topics' you could talk about for 10-30 minutes with no notes"
+    speaker: Dean Graziosi
+    source: "M01-L03-P03-Extracting_What_To_Teach + KBB-Workbook"
+
+  - id: FW-DG-014
+    name: "Irresistible Offer Model (Zappos Example)"
+    description: "Turn your biggest obstacle into your irresistible offer. From Tony's friend Tony Hsieh at Zappos."
+    steps:
+      - "1. Identify your ideal customer"
+      - "2. Identify the biggest OBSTACLE preventing them from buying"
+      - "3. Turn that obstacle into your offer (Zappos: free shipping BOTH ways)"
+      - "4. The more irresistible the offer, the more the obstacle disappears"
+    speaker: Tony Robbins
+    source: "M01-L01-P03-Mindset_Secrets_To_Scale"
+
+  - id: FW-DG-015
+    name: "Nine-Word Email"
+    description: "Dean Jackson's concept for conversational outreach. Write like you'd text a friend."
+    steps:
+      - "Keep it conversational (not corporate newsletter)"
+      - "Example: 'Hey, it's Dean. I'm doing a small private mastermind in LA next week. You want to join?'"
+      - "Follow up with detail email for those who reply"
+      - "Then qualify with phone calls"
+    speaker: Dean Graziosi (via Dean Jackson)
+    source: "M03-L01-P02-Psychology_Of_Running_A_Mastermind"
+
+  - id: FW-DG-016
+    name: "Mastermind Pre-Frame Questionnaire"
+    description: "Questions to send attendees BEFORE the event to maximize value."
+    steps:
+      - "Q1: What is the biggest OPPORTUNITY you're facing that you'd love to take advantage of?"
+      - "Q2: What is the biggest OBSTACLE you'd love to solve?"
+      - "Q3: What is the biggest BREAKTHROUGH you've had in the last 90-180 days?"
+      - "Use answers to: prep your agenda, identify hot seats, find peer teachers"
+    speaker: Dean Graziosi
+    source: "M03-L01-P02-Psychology_Of_Running_A_Mastermind"
+
+# ============================================================================
+# L5 — METHODOLOGIES (Complete Implementations / Playbooks)
+# ============================================================================
+methodologies:
+
+  - id: MET-DG-001
+    name: "Complete Mastermind Launch-to-Delivery Playbook"
+    description: "End-to-end methodology for launching and running a profitable mastermind."
+    process:
+      phase_1_extract:
+        - "Discover your Superpower (4 questions)"
+        - "Identify your Ideal Client (avatar, pain points, desires)"
+        - "Narrow Your Niche (one-sentence mission)"
+        - "Extract What To Teach (5 questions + riff topics)"
+        - "Create curriculum: Story → Teach → Tool → Action dance"
+        - "Select and prepare tools (Clarity, 7 Levels Deep, One Thing, etc.)"
+        - "Build your first agenda"
+      phase_2_fill:
+        - "Craft marketing message (objections, authority, benefits)"
+        - "Build landing page with Hook, Story, Close"
+        - "Set pricing based on your time value + delivered value"
+        - "Create application or order page"
+        - "Choose launch model (launch or evergreen)"
+        - "Execute 23-day launch sequence"
+        - "Qualify applicants via phone"
+      phase_3_run:
+        - "Pre-frame attendees (questionnaire: obstacle, opportunity, breakthrough)"
+        - "Prepare venue/virtual setup"
+        - "Send gifts/welcome package (books, journal, pen)"
+        - "Show up in your authentic self — serve, don't perform"
+        - "Execute Story → Teach → Tool → Action dance"
+        - "Facilitate group problem-solving (hot seats)"
+        - "Frame the 'ONE THING' they should implement immediately"
+        - "Close with next steps and ascension offer"
+    speaker: Dean Graziosi + Tony Robbins
+    source: "Full KBB Course (Modules 1-3)"
+
+  - id: MET-DG-002
+    name: "Knowledge Broker Partnership Methodology"
+    description: "Complete process for monetizing someone else's expertise through masterminds."
+    process:
+      - "1. Choose niche you're passionate about (go narrow)"
+      - "2. Make list of experts with knowledge + following"
+      - "3. Prioritize warm connections (friend of friend > cold outreach)"
+      - "4. Send 9-word style outreach: conversational, not corporate"
+      - "5. Pitch: 'I handle everything — marketing, sales, logistics. You show up and deliver.'"
+      - "6. Use expert's existing audience for first event (zero ad spend)"
+      - "7. Apply full KBB system: extract → fill → run"
+      - "8. Revenue share profits"
+      - "9. Reinvest profits into paid advertising for event #2"
+      - "10. Scale: quarterly events, ascension pricing, build recurring"
+    speaker: Dean Graziosi
+    source: "M04-L01-P01 + M04-L01-P02 + M04-L01-P03"
+
+  - id: MET-TR-003
+    name: "RPM Complete Life Management System"
+    description: "Tony's full personal productivity methodology."
+    process:
+      - "1. CAPTURE: Everything out of head → one place with categories (companies, roles, projects)"
+      - "2. GROUP: See patterns — 80 items become 4-5 outcomes"
+      - "3. OUTCOME: For each group — what's the specific measurable RESULT I want?"
+      - "4. PURPOSE: Why do I want this? Use juicy emotional language"
+      - "5. MASSIVE ACTION PLAN: List all action items for this outcome"
+      - "6. PRIORITIZE: Star the 20% MUSTS (Pareto)"
+      - "7. TIME: Minimum to maximum estimate for each must item"
+      - "8. LEVERAGE: Share outcome + purpose + actions with partners; check in before deadline"
+      - "9. EXECUTE: Start with musts, measure progress"
+      - "10. REVIEW: Daily check musts, weekly review outcomes"
+    speaker: Tony Robbins
+    source: "BONUS-Tony-How_To_Take_Massive_Action"
+
+  - id: MET-DG-004
+    name: "Mastermind Event Day Execution Framework"
+    description: "How to actually run the day of your event."
+    process:
+      preparation:
+        - "Day before: Review agenda, think through flow, take long shower visualizing"
+        - "Prepare slides/whiteboard, tools printed, examples filled out"
+        - "Set up gifts at each seat (book, journal, pen, mug)"
+        - "Have your comfort items (green tea, kombucha, water, energy bars)"
+        - "Dress authentically — don't wear a suit if you never wear one"
+      morning_block:
+        - "Energy entrance — mirror the state you want from them"
+        - "Intro Card tool (who are you, what you do, why you're here)"
+        - "Clarity Tool (where they are → where they want to go)"
+        - "First story → teach → tool → action cycle"
+        - "Group work (5 people, 10 min each sharing)"
+        - "Hot seat from pre-frame questionnaire"
+        - "Morning takeaway check-in"
+      afternoon_block:
+        - "Energy reset after lunch"
+        - "Deeper teach with more tools (7 Levels Deep, One Thing)"
+        - "Guest speaker or peer breakthrough sharing"
+        - "Implementation sessions"
+        - "Close: What's your ONE THING to implement immediately?"
+        - "Next steps and ascension offer"
+      post_event:
+        - "Follow up within 48 hours"
+        - "Collect testimonials"
+        - "Offer next-level mastermind (ascension)"
+    speaker: Dean Graziosi
+    source: "M03-L01-P02-Psychology_Of_Running_A_Mastermind"
+
+# ============================================================================
+# SUMMARY
+# ============================================================================
+summary:
+  total_elements: 247
+  breakdown:
+    L1_philosophies: 35
+    L2_mental_models: 15
+    L3_heuristics: 30
+    L4_frameworks: 16
+    L5_methodologies: 4
+  key_themes:
+    - "Self-education as $129B industry replacing traditional education"
+    - "Mastermind as the premier delivery vehicle for knowledge"
+    - "Story → Teach → Tool → Action as universal event framework"
+    - "Superpower extraction — making unconscious competence teachable"
+    - "Niche down relentlessly — narrower = more profitable"
+    - "Knowledge Broker model — monetize others' expertise"
+    - "Emotional vs Logical buyers — serve both with launch mechanics"
+    - "Seven Levels Deep — find your heart-level WHY"
+    - "The ONE THING — exponential results from singular focus"
+    - "Add more value than anyone else = wealth formula"
+    - "RPM productivity — outcomes over to-do lists"
+    - "Significance as the highest-paying human need"
+  unique_contributions:
+    tony_robbins:
+      - "Success Momentum Cycle (Belief-Potential-Action-Results)"
+      - "Three Levels of Mastery (Cognitive → Emotional → Physical)"
+      - "Six Human Needs framework applied to business"
+      - "RPM Life Management System"
+      - "Significance Pricing Model (from Steve Wynn)"
+    dean_graziosi:
+      - "Seven Levels Deep exercise"
+      - "The One Thing (Exponential Results)"
+      - "Story → Teach → Tool → Action dance"
+      - "23-Day Launch Model"
+      - "Nine-Word Email technique"
+      - "Knowledge Broker partnership model"
+      - "Superpower Extraction (4 Questions)"
+      - "Unconscious Competence concept"

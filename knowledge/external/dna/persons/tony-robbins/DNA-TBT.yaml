@@ -1,0 +1,715 @@
+# ============================================================================
+# TONY ROBBINS - COGNITIVE DNA
+# Source: Total Breakthrough Training (TBT) Course
+# Version: 1.0.0 | Date: 2026-04-04 | Elements: 197
+# Extraction Model: claude-opus-4-6 (1M context)
+# ============================================================================
+metadata:
+  person: Tony Robbins
+  person_id: TR
+  source: "Total Breakthrough Training (TBT)"
+  source_type: "coaching certification course"
+  sections_covered:
+    - "TOTAL BREAKTHROUGH - Mastery Units 1-7"
+    - "Breakthrough DVD rip (Episodes 1-6)"
+    - "STRATEGIC ADVANTAGE - Practice Sessions + SI Solutions"
+    - "MARKETING BONUS"
+    - "Interview with RMT and Tony Robbins"
+  files_processed: 147
+  total_elements: 197
+  version: "1.0.0"
+  extraction_date: "2026-04-04"
+  co_teachers: ["Chloe Madanes", "Mark Peysha", "Magali Peysha"]
+  tradition: "Strategic Intervention (SI) + NLP + Ericksonian Therapy"
+  breakdown:
+    L1_philosophies: 42
+    L2_mental_models: 32
+    L3_heuristics: 40
+    L4_frameworks: 43
+    L5_methodologies: 20
+
+# ============================================================================
+# L1 - PHILOSOPHIES (42 elements)
+# ============================================================================
+L1_PHILOSOPHIES:
+  - id: PHI-TR-TBT-001
+    quote: "Progress equals happiness. Even if you're not where you want to be yet, if you're on the road, if you're improving, if you're making progress, you're going to love it."
+    source: "MU1-Module-2-TonysChallenge.md"
+  - id: PHI-TR-TBT-002
+    quote: "It doesn't matter how successful you are, if you stop growing, you start dying inside."
+    source: "MU1-Module-2-TonysChallenge.md"
+  - id: PHI-TR-TBT-003
+    quote: "Two things in life make you feel alive: growing and giving."
+    source: "MU1-Module-2-TonysChallenge.md"
+  - id: PHI-TR-TBT-004
+    quote: "The secret to living is giving."
+    source: "Tony_Interview_Replay.md"
+  - id: PHI-TR-TBT-005
+    quote: "The quality of your life is the quality of your relationships."
+    source: "Notes_-_Week_6.md"
+  - id: PHI-TR-TBT-006
+    quote: "Life doesn't happen to you, it happens for you."
+    source: "MU1-Module-2-TonysChallenge.md"
+  - id: PHI-TR-TBT-007
+    quote: "Suffering doesn't come from facts, it comes from the meaning you give it."
+    source: "Notes_-_Week_2.md"
+  - id: PHI-TR-TBT-008
+    quote: "See it as it is, but not worse than it is."
+    source: "Notes_-_Week_2.md"
+  - id: PHI-TR-TBT-009
+    quote: "Your worth is not tied to what you do. But it is tied to being the man in your family and taking care of them."
+    source: "MU1-Module-1-Breakthrough_Hawkins.md"
+  - id: PHI-TR-TBT-010
+    quote: "We get so caught up in the story that it takes over our bodies, our minds and our emotions."
+    source: "MU1-Module-1-Breakthrough_Hawkins.md"
+  - id: PHI-TR-TBT-011
+    quote: "Having resentment in your soul is like drinking poison and hoping your enemy will die."
+    source: "MU1-Module-2-TonysChallenge.md"
+  - id: PHI-TR-TBT-012
+    quote: "Sometimes failing to get your goal gives you your destiny."
+    source: "MU1-Module-2-TonysChallenge.md"
+  - id: PHI-TR-TBT-013
+    quote: "It's not about the game. It's about who you become."
+    source: "Notes_-_Week_2.md"
+  - id: PHI-TR-TBT-014
+    quote: "You can be a warning or an example. You are an archetype."
+    source: "Notes_-_Week_2.md"
+  - id: PHI-TR-TBT-015
+    quote: "Emotion is the invisible force. It is the force that changes people."
+    source: "Tony_Interview_Replay.md"
+  - id: PHI-TR-TBT-016
+    quote: "80% of changing a business is changing the emotions of those leaders."
+    source: "Tony_Interview_Replay.md"
+  - id: PHI-TR-TBT-017
+    quote: "All real change - somebody can have the right strategy and still not do it. The only reason is the emotional content."
+    source: "Tony_Interview_Replay.md"
+  - id: PHI-TR-TBT-018
+    quote: "Meaning creates emotion. Emotion creates the quality of life."
+    source: "Tony_Interview_Replay.md"
+  - id: PHI-TR-TBT-019
+    quote: "The fastest way to transform your life is trade your expectations for appreciation."
+    source: "Tony_Interview_Replay.md"
+  - id: PHI-TR-TBT-020
+    quote: "It's not what you get, it's who you become and how you live."
+    source: "Tony_Interview_Replay.md"
+  - id: PHI-TR-TBT-021
+    quote: "A breakthrough is when the impossible becomes possible."
+    source: "Notes_-_Week_6.md"
+  - id: PHI-TR-TBT-022
+    quote: "How you deal with stress determines the quality of your life."
+    source: "Notes_-_Week_6.md"
+  - id: PHI-TR-TBT-023
+    quote: "Positive thinking does not work long term. Telling a person to change negatives to positives makes them feel more misunderstood."
+    source: "SISolutionsAnxiety.md"
+  - id: PHI-TR-TBT-024
+    quote: "Love and compassion are the antidote for anxiety and stress."
+    source: "SISolutionsAnxiety.md"
+  - id: PHI-TR-TBT-025
+    quote: "Instead of trying to tell somebody, give them an experience and then it's true for them."
+    source: "BREAKTHROUGH_EP1_Title1_1.md"
+  - id: PHI-TR-TBT-026
+    quote: "All a breakthrough is, is a moment when the veil disappears and you take back control of your life."
+    source: "BREAKTHROUGH_EP1_Title1_1.md"
+  - id: PHI-TR-TBT-027
+    quote: "Physical stress and emotional stress are experienced in the same way by the body."
+    source: "Notes_-_Week_6.md"
+  - id: PHI-TR-TBT-028
+    quote: "Fears everyone experiences: 1) We aren't enough. 2) If I'm not enough, I won't be loved."
+    source: "Notes_-_Week_2.md"
+  - id: PHI-TR-TBT-029
+    quote: "Growth equals shift in standards. Standards are what we demand of ourselves."
+    source: "Notes_-_Week_5.md"
+  - id: PHI-TR-TBT-030
+    quote: "Living in blame is a cheap way to meet needs. Truth and responsibility set you free."
+    source: "Notes_-_Week_5.md"
+  - id: PHI-TR-TBT-031
+    quote: "You can only believe something that you don't question."
+    source: "Notes_-_Week_6.md"
+  - id: PHI-TR-TBT-032
+    quote: "Pleasures are in the body. Happiness is in the mind. Joy is in the spirit."
+    source: "Tony_Interview_Replay.md"
+  - id: PHI-TR-TBT-033
+    quote: "A person who can worry deeply can also love deeply. The darker the fear the brighter the hope."
+    source: "SISolutionsAnxiety.md"
+  - id: PHI-TR-TBT-034
+    quote: "One of the most powerful ways to make a difference to yourself is to make a difference to others."
+    source: "TBT_Orientation_Week_1.md"
+  - id: PHI-TR-TBT-035
+    quote: "Where life puts us, there is winter for everyone."
+    source: "Notes_-_Week_2.md"
+  - id: PHI-TR-TBT-036
+    quote: "The only lasting happiness comes from growth and contribution - the spiritual needs regardless of religion."
+    source: "Tony_Interview_Replay.md"
+  - id: PHI-TR-TBT-037
+    quote: "Strategies can compress decades into days."
+    source: "Tony_Interview_Replay.md"
+  - id: PHI-TR-TBT-038
+    quote: "Sympathy feels ok for a while then it feels disgusting."
+    source: "Notes_-_Week_2.md"
+  - id: PHI-TR-TBT-039
+    quote: "The real challenges that choke hold business growth are the psychology and skill sets of the leader."
+    source: "Tony_Interview_Replay.md"
+  - id: PHI-TR-TBT-040
+    quote: "Anytime you conform to rules someone else came up with, you bump up against limitations."
+    source: "Tony_Interview_Replay.md"
+  - id: PHI-TR-TBT-041
+    quote: "When you're angry, you feel strong for the moment, even though it's fake strength."
+    source: "MU1-Module-2-TonysChallenge.md"
+  - id: PHI-TR-TBT-042
+    quote: "After you break through the worst, there's a psychological immunity - I'm ready for whatever life gives me."
+    source: "MU1-Module-2-TonysChallenge.md"
+
+# ============================================================================
+# L2 - MENTAL MODELS (32 elements)
+# ============================================================================
+L2_MENTAL_MODELS:
+  - id: MM-TR-TBT-001
+    name: "The Blueprint Model"
+    description: "Happy = Life Conditions match Blueprint. Unhappy = gap. Suffering = gap + helplessness. Change life, change blueprint, or both."
+    source: "MU1-Module-2-TonysChallenge.md"
+  - id: MM-TR-TBT-002
+    name: "Three Choices When Suffering"
+    description: "1) Blame (doesn't work). 2) Change life. 3) Change blueprint. Usually both 2 and 3."
+    source: "MU1-Module-2-TonysChallenge.md"
+  - id: MM-TR-TBT-003
+    name: "Six Human Needs"
+    description: "1) Certainty 2) Variety 3) Love/Connection 4) Significance 5) Growth 6) Contribution. 1-4 personality; 5-6 spiritual."
+    source: "Six_Human_Needs.md"
+  - id: MM-TR-TBT-004
+    name: "Surface vs Deep Problem"
+    description: "Every problem has surface symptom and deeper unmet need. Coach must dig beneath."
+    source: "Notes_-_Week_6.md"
+  - id: MM-TR-TBT-005
+    name: "The Holdback (Bottleneck)"
+    description: "Any complex system has ONE thing holding it back. Fix that ONE thing first."
+    source: "TBT_Orientation_Week_1.md"
+  - id: MM-TR-TBT-006
+    name: "Mode of Being"
+    description: "Preferred way of engaging: Team Player, Leader, Observer, Creative, Critic, Learner, Philosopher, Romantic."
+    source: "Notes_-_Week_4.md"
+  - id: MM-TR-TBT-007
+    name: "Post-Traumatic Growth"
+    description: "Push through trauma: 1) Realize true strength 2) Deepen relationships 3) Build psychological immunity."
+    source: "MU1-Module-2-TonysChallenge.md"
+  - id: MM-TR-TBT-008
+    name: "Triad of State Change"
+    description: "Change state via: 1) Physiology 2) Focus 3) Language/Meaning."
+    source: "Tony_Interview_Replay.md"
+  - id: MM-TR-TBT-009
+    name: "Shock and Learned Helplessness"
+    description: "In shock: wait for reset, focus on past, shut down. Where still operational = what holding out for."
+    source: "TBT_Week_1_Teleclass.md"
+  - id: MM-TR-TBT-010
+    name: "Four Theories of Happiness"
+    description: "1) Rock Star (get all, doesn't last) 2) Lower Expectations 3) Flow State 4) Growth + Contribution (only lasting)."
+    source: "Tony_Interview_Replay.md"
+  - id: MM-TR-TBT-011
+    name: "Flow Test for Love"
+    description: "3 tests: 1) Time disappears 2) You disappear 3) You need nothing else."
+    source: "Tony_Interview_Replay.md"
+  - id: MM-TR-TBT-012
+    name: "Addiction to a Problem"
+    description: "Problems meet needs. How does it meet Variety, Certainty, Significance, Love, Growth?"
+    source: "Notes_-_Week_5.md"
+  - id: MM-TR-TBT-013
+    name: "Anxiety as Propeller vs Blocker"
+    description: "Anxiety either drives action (Propeller) or immobilizes (Blocker)."
+    source: "SISolutionsAnxiety.md"
+  - id: MM-TR-TBT-014
+    name: "Key Decisions Model"
+    description: "Broad decisions that shape entire life. Finding and examining them unlocks change."
+    source: "Notes_-_Week_4.md"
+  - id: MM-TR-TBT-015
+    name: "Life Stages Framework"
+    description: "All coaching occurs within a life stage. Each has 1-3 key priorities."
+    source: "Notes_-_Week_4.md"
+  - id: MM-TR-TBT-016
+    name: "The Farmer and the Maybe"
+    description: "Parable: events alternate good/bad, farmer always says 'Maybe.' We cannot judge in the moment."
+    source: "Notes_-_Week_2.md"
+  - id: MM-TR-TBT-017
+    name: "Blame Triangle"
+    description: "When helpless, blame: 1) Past 2) Absent people 3) World/systems. All external."
+    source: "Notes_-_Week_5.md"
+  - id: MM-TR-TBT-018
+    name: "Focus Imbalance"
+    description: "Focus on others' problems, experience only own feelings. Fix: remember what YOU did and said."
+    source: "Notes_-_Week_5.md"
+  - id: MM-TR-TBT-019
+    name: "Relationship Stress Triggers"
+    description: "4 triggers: Rules, Expectations, Judgments, Shoulds."
+    source: "Notes_-_Week_6.md"
+  - id: MM-TR-TBT-020
+    name: "CULPRITS (Anxiety Assessment)"
+    description: "Coping, Usefulness, Longevity, Precedes, Ritual, Intensity, Timing, Strategies."
+    source: "SISolutionsAnxiety.md"
+  - id: MM-TR-TBT-021
+    name: "Anxiety Personality"
+    description: "Internal/external refs, relationship/self-focused, guilt(in)/blame(out), past/future oriented."
+    source: "SISolutionsAnxiety.md"
+  - id: MM-TR-TBT-022
+    name: "Anxiety Loop vs Healthy Cycle"
+    description: "Loop: pain > memory > replay > stress > label. Healthy: break > compassion > humor > practice > control."
+    source: "SISolutionsAnxiety.md"
+  - id: MM-TR-TBT-023
+    name: "Secondary Gain"
+    description: "Problems have hidden benefits. Who rescues? Who's hurt? Child involved? Guilt?"
+    source: "SISolutionsAnxiety.md"
+  - id: MM-TR-TBT-024
+    name: "Leaving Home Priorities"
+    description: "3 priorities: 1) Life skills 2) Social life 3) Learning direction."
+    source: "Notes_-_Week_4.md"
+  - id: MM-TR-TBT-025
+    name: "Identity Dissociation"
+    description: "Describe 'the guy in the chair' from outside. What does he get? What is he really? Contrast."
+    source: "Notes_-_Week_2.md"
+  - id: MM-TR-TBT-026
+    name: "Elevation Strategy"
+    description: "Find strength in everything client reveals. Build positive intent, identity, history, possibilities."
+    source: "Notes_-_Week_4.md"
+  - id: MM-TR-TBT-027
+    name: "Bright Spot Strategy"
+    description: "Find when needs were met more fully. Understand what made it work."
+    source: "Notes_-_Week_4.md"
+  - id: MM-TR-TBT-028
+    name: "Finding the Spark"
+    description: "Every client has resources. Look for enthusiasm, desire, humor, passion, anger."
+    source: "Notes_-_Week_4.md"
+  - id: MM-TR-TBT-029
+    name: "The Muscle Metaphor"
+    description: "Muscle comes from doing hard things. You keep physical muscle but give up faith/work muscle. Why?"
+    source: "Notes_-_Week_2.md"
+  - id: MM-TR-TBT-030
+    name: "Karikari Principle"
+    description: "What's mine is yours, yours is mine. Everyone pulls weight. Family as team."
+    source: "MU1-Module-1-Breakthrough_Hawkins.md"
+  - id: MM-TR-TBT-031
+    name: "Breakthroughs Look Like"
+    description: "An insight. Tired of being tired. Change state, take action, or assign new meaning."
+    source: "Notes_-_Week_6.md"
+  - id: MM-TR-TBT-032
+    name: "Rejection as Drug"
+    description: "Using rejection as excuse. Meets certainty and significance through victim identity."
+    source: "Notes_-_Week_5.md"
+
+# ============================================================================
+# L3 - HEURISTICS (40 elements)
+# ============================================================================
+L3_HEURISTICS:
+  - id: HEUR-TR-TBT-001
+    rule: "In shock: check which life areas operational vs shut down - operational = holding out for"
+    source: "TBT_Week_1_Teleclass.md"
+  - id: HEUR-TR-TBT-002
+    rule: "If not acting, look at the STORY preventing action, not the action itself"
+    source: "MU1-Module-1-Breakthrough_Hawkins.md"
+  - id: HEUR-TR-TBT-003
+    rule: "Interrupt victim story within 10 minutes - reorient to yesterday or next week"
+    threshold: "10 min"
+    source: "TBT_Orientation_Week_1.md"
+  - id: HEUR-TR-TBT-004
+    rule: "90% of interventions covered by 6 family archetypes"
+    threshold: "90%"
+    source: "TBT_Orientation_Week_1.md"
+  - id: HEUR-TR-TBT-005
+    rule: "Round table: 1/3 background, 1/3 identify holdback, 1/3 creative work"
+    source: "TBT_Orientation_Week_1.md"
+  - id: HEUR-TR-TBT-006
+    rule: "Public commitment leaves no direction to go backwards"
+    source: "MU1-Module-1-Breakthrough_Hawkins.md"
+  - id: HEUR-TR-TBT-007
+    rule: "30-day bounded commitment with clear consequence"
+    threshold: "30 days"
+    source: "MU1-Module-1-Breakthrough_Hawkins.md"
+  - id: HEUR-TR-TBT-008
+    rule: "Business coaching: 30-130% growth in 6-12 months"
+    threshold: "30-130% / 6-12 mo"
+    source: "Tony_Interview_Replay.md"
+  - id: HEUR-TR-TBT-009
+    rule: "Find Mode of Being first, create challenges that engage it in new context"
+    source: "TBT_Week_1_Teleclass.md"
+  - id: HEUR-TR-TBT-010
+    rule: "Shock assessment: bills, friendships, sex, exercise, cooking, cleaning, reading, email"
+    source: "TBT_Week_1_Teleclass.md"
+  - id: HEUR-TR-TBT-011
+    rule: "Change meaning = instantly transform feeling"
+    source: "Notes_-_Week_6.md"
+  - id: HEUR-TR-TBT-012
+    rule: "'Who do you get pissed at?' activates anger over pity - anger has more energy"
+    source: "Notes_-_Week_2.md"
+  - id: HEUR-TR-TBT-013
+    rule: "Embody 'This is my time' then 'What if that doesn't work?' until unshakeable"
+    source: "Notes_-_Week_2.md"
+  - id: HEUR-TR-TBT-014
+    rule: "A baby never stops until they walk - giving up is learned"
+    source: "Notes_-_Week_2.md"
+  - id: HEUR-TR-TBT-015
+    rule: "Remember WORDS not FEELINGS - feelings enable blame, words enable accountability"
+    source: "Notes_-_Week_5.md"
+  - id: HEUR-TR-TBT-016
+    rule: "Helplessness turns pain into suffering"
+    source: "MU1-Module-2-TonysChallenge.md"
+  - id: HEUR-TR-TBT-017
+    rule: "Separate couple to grow individually, reunite - people in love neglect own needs"
+    source: "BREAKTHROUGH_EP1_Title1_1.md"
+  - id: HEUR-TR-TBT-018
+    rule: "Give challenge first, explain after - mystery creates engagement"
+    source: "TBT_Week_1_Teleclass.md"
+  - id: HEUR-TR-TBT-019
+    rule: "Be mysterious: 'This has worked for hundreds and will work for you'"
+    source: "TBT_Week_1_Teleclass.md"
+  - id: HEUR-TR-TBT-020
+    rule: "Don't replace what was lost - engage Mode of Being in completely different circumstances"
+    source: "TBT_Week_1_Teleclass.md"
+  - id: HEUR-TR-TBT-021
+    rule: "Anxiety: check caffeine, exercise, sugar, hormones, sleep, time of day"
+    source: "SISolutionsAnxiety.md"
+  - id: HEUR-TR-TBT-022
+    rule: "Anxiety directly linked to ability to change task and focus"
+    source: "SISolutionsAnxiety.md"
+  - id: HEUR-TR-TBT-023
+    rule: "Positive thinkers may be blinding themselves - great contributors were NOT optimists"
+    source: "TBT_Orientation_Week_1.md"
+  - id: HEUR-TR-TBT-024
+    rule: "General happiness goal too vague - cut to 10 min/day of joy or a great half hour"
+    threshold: "10-30 min"
+    source: "TBT_Orientation_Week_1.md"
+  - id: HEUR-TR-TBT-025
+    rule: "Track 3-5 client characteristics: tendencies, enthusiasms, blocks, desires"
+    threshold: "3-5"
+    source: "TBT_Week_1_Teleclass.md"
+  - id: HEUR-TR-TBT-026
+    rule: "Family is a team - use team rituals to open/close sessions"
+    source: "TBT_Week_1_Teleclass.md"
+  - id: HEUR-TR-TBT-027
+    rule: "Elevation: 'I took care of my sister' > 'You must have been really mature'"
+    source: "Notes_-_Week_4.md"
+  - id: HEUR-TR-TBT-028
+    rule: "Contact everyone who cares about client - bring many into the solution"
+    source: "Notes_-_Week_2.md"
+  - id: HEUR-TR-TBT-029
+    rule: "Depression check: medical? real injustice? community contacts? family helping?"
+    source: "Notes_-_Week_2.md"
+  - id: HEUR-TR-TBT-030
+    rule: "Align: 'I relate to you more than you know' + stories about others, self, science, stats"
+    source: "Notes_-_Week_2.md"
+  - id: HEUR-TR-TBT-031
+    rule: "Couples: surface problem rarely equals deep problem"
+    source: "Notes_-_Week_6.md"
+  - id: HEUR-TR-TBT-032
+    rule: "Full needs analysis: 2 sessions x 1.5 hours minimum"
+    threshold: "2 x 1.5h"
+    source: "Six_Human_Needs.md"
+  - id: HEUR-TR-TBT-033
+    rule: "Help clients meet OWN needs - ask directly, don't expect mind-reading"
+    source: "Six_Human_Needs.md"
+  - id: HEUR-TR-TBT-034
+    rule: "Byron Katie 4Q: 1) True? 2) Absolutely? 3) How feel believing it? 4) Without it?"
+    threshold: "4 questions"
+    source: "Notes_-_Week_6.md"
+  - id: HEUR-TR-TBT-035
+    rule: "Turnaround: 'He shouldn't be angry' > 'I shouldn't be angry'"
+    source: "Notes_-_Week_6.md"
+  - id: HEUR-TR-TBT-036
+    rule: "Daily: How feel believing? What if didn't exist? What's opposite?"
+    threshold: "3 daily"
+    source: "Notes_-_Week_6.md"
+  - id: HEUR-TR-TBT-037
+    rule: "5 judgmental statements > question > letter > share breakthrough"
+    threshold: "5"
+    source: "Notes_-_Week_6.md"
+  - id: HEUR-TR-TBT-038
+    rule: "If stuck 10+ years ago, interrupt kindly to yesterday/next week"
+    source: "TBT_Orientation_Week_1.md"
+  - id: HEUR-TR-TBT-039
+    rule: "Everyone has an area they feel good about. Start there."
+    source: "MU1-Module-2-TonysChallenge.md"
+  - id: HEUR-TR-TBT-040
+    rule: "5-15 min conversations with key people in client's life can shift everything"
+    threshold: "5-15 min"
+    source: "TBT_Week_1_Teleclass.md"
+
+# ============================================================================
+# L4 - FRAMEWORKS (43 elements)
+# ============================================================================
+L4_FRAMEWORKS:
+  - id: FW-TR-TBT-001
+    name: "Total Breakthrough Intervention Sequence"
+    steps: ["Round Table", "Challenge Video", "Physical Challenges", "Community Intervention", "Reunion", "Public Declaration"]
+    source: "TBT_Orientation_Week_1.md"
+  - id: FW-TR-TBT-002
+    name: "Round Table Structure"
+    steps: ["1/3 Background", "1/3 Identify holdback", "1/3 Creative work"]
+    source: "TBT_Orientation_Week_1.md"
+  - id: FW-TR-TBT-003
+    name: "SI 7-Step Anxiety Coaching"
+    steps: ["Emotional Understanding", "Get Facts", "Physiology", "Beneath Symptom", "Patterns", "Secondary Gain", "Goals"]
+    source: "SISolutionsAnxiety.md"
+  - id: FW-TR-TBT-004
+    name: "8 SI Anxiety Strategies"
+    items: ["Swallow the Frog", "Practice the Symptom", "Cover Problem", "Solo Executive Meeting", "Crazy Eight", "Emotional Presence", "Compassion for Self", "Pretend"]
+    source: "SISolutionsAnxiety.md"
+  - id: FW-TR-TBT-005
+    name: "Life Story Session (11 stages)"
+    steps: ["Intro", "Family", "Younger years theme", "Wisdom figures", "Key decisions", "Mode of being", "College/work transition", "Twenties relationships", "Love story", "Forward transitions", "Middle years"]
+    source: "Notes_-_Week_4.md"
+  - id: FW-TR-TBT-006
+    name: "Life Story Scramble"
+    steps: ["1 min with body", "On one foot with music", "30 sec", "15 sec", "Reverse"]
+    source: "Notes_-_Week_4.md"
+  - id: FW-TR-TBT-007
+    name: "Blueprint Shift Process"
+    steps: ["ID unhappy area", "Define blueprint", "ID gap", "Find underlying need", "Only way?", "Change life and/or blueprint"]
+    source: "MU1-Module-2-TonysChallenge.md"
+  - id: FW-TR-TBT-008
+    name: "Blame Meeting Protocol"
+    steps: ["Acknowledge courage", "Importance of truth", "Hear words/intentions", "Value over relationship course"]
+    source: "Notes_-_Week_5.md"
+  - id: FW-TR-TBT-009
+    name: "Redo Hurtful Conversation"
+    steps: ["Soul-level want", "What you needed when hurtful", "Restate with love", "Or commit to return with truth"]
+    source: "Notes_-_Week_5.md"
+  - id: FW-TR-TBT-010
+    name: "Physical Challenge Intervention"
+    steps: ["Remove from comfort", "Challenging situation", "Discover strengths", "Stay until lesson lands", "Reconnect from strength"]
+    source: "MU1-Module-1-Breakthrough_Hawkins.md"
+  - id: FW-TR-TBT-011
+    name: "Getting Out of Story"
+    steps: ["Dissociate from defeat story", "Posture of respected person", "New identity asks about real person", "Does he have it?", "How help him?"]
+    source: "Notes_-_Week_2.md"
+  - id: FW-TR-TBT-012
+    name: "5 Anxiety Coaching Goals"
+    items: ["Emotional Mastery", "State Mobility", "Trigger Recognition", "Transitional Actions", "Underlying Connection"]
+    source: "SISolutionsAnxiety.md"
+  - id: FW-TR-TBT-013
+    name: "Byron Katie's The Work + Turnaround"
+    steps: ["True?", "Absolutely?", "How feel?", "Without that thought?", "FLIP to yourself"]
+    source: "Notes_-_Week_6.md"
+  - id: FW-TR-TBT-014
+    name: "6 Human Needs Protocol"
+    steps: ["Introduce", "Client picks", "What has to happen? (vehicles)", "Make easier", "Meet own needs", "Balance all 6"]
+    source: "Six_Human_Needs.md"
+  - id: FW-TR-TBT-015
+    name: "Design Compelling Future"
+    steps: ["Family meeting for plan+fear", "Appreciation shown", "Support given", "Decisions together", "Public commitment"]
+    source: "Notes_-_Week_6.md"
+  - id: FW-TR-TBT-016
+    name: "Key Truths for Couples"
+    items: ["Problem is solvable", "My pattern is ___", "My optional pattern is ___"]
+    source: "Notes_-_Week_6.md"
+  - id: FW-TR-TBT-017
+    name: "Couples State Change"
+    steps: ["Negative state fully", "Say out loud", "Other feels STRONG", "Emotional presence", "Celebrate shift"]
+    source: "BREAKTHROUGH_EP1_Title1_1.md"
+  - id: FW-TR-TBT-018
+    name: "Extreme Challenge Framework"
+    steps: ["Lay groundwork", "Real risk", "Frame as new beginning", "Execute together", "Debrief"]
+    source: "BREAKTHROUGH_EP1_Title1_1.md"
+  - id: FW-TR-TBT-019
+    name: "Mastery Unit Learning"
+    steps: ["Episode", "Story Behind Story", "Challenge Video", "Full Interventions", "Teleclass", "Action Forms", "Study Buddy", "Real Clients"]
+    source: "TBT_Orientation_Week_1.md"
+  - id: FW-TR-TBT-020
+    name: "Power of One Word"
+    steps: ["Listen for weighted word", "What word shifts meaning?", "Invite helper for truth", "Coach examines own truth"]
+    source: "Notes_-_Week_5.md"
+  - id: FW-TR-TBT-021
+    name: "Challenge-Based Coaching"
+    steps: ["Don't pacify", "Engage Mode of Being in new context", "Client connects through identity", "No direct connections", "Shift via identity not content"]
+    source: "TBT_Week_1_Teleclass.md"
+  - id: FW-TR-TBT-022
+    name: "Ericksonian Directive Coaching"
+    steps: ["Be mysterious", "Design for Mode", "Different context", "Don't replace", "Follow up", "Let client connect"]
+    source: "TBT_Week_1_Teleclass.md"
+  - id: FW-TR-TBT-023
+    name: "5 Types of Anxiety"
+    items: ["Generalized worry", "Recurring memories", "Trigger attacks", "Random panic", "Insomnia"]
+    source: "SISolutionsAnxiety.md"
+  - id: FW-TR-TBT-024
+    name: "Anxiety Ripple Effect"
+    questions: ["How many affected?", "Who benefits?", "Who rescues?", "Who's hurt?", "Child?", "Guilt?"]
+    source: "SISolutionsAnxiety.md"
+  - id: FW-TR-TBT-025
+    name: "Systemic Approach"
+    items: ["Bring many into solution", "Contact everyone who cares", "Family+friends+community", "Brief conversations work", "One key person at a time"]
+    source: "Notes_-_Week_2.md"
+  - id: FW-TR-TBT-026
+    name: "Joaquin's Breakthrough (7 steps)"
+    steps: ["Round Table", "Church (faith)", "Village (hardship)", "Coach confrontation (truth)", "Family meeting", "Waste Management (humble work)", "Theater declaration"]
+    source: "MU1-Module-1-Breakthrough_Hawkins.md"
+  - id: FW-TR-TBT-027
+    name: "Frank & Kristen's Breakthrough"
+    steps: ["Round Table", "State Change", "Skydiving", "Separation", "Wheelchair rugby", "Reunion"]
+    source: "BREAKTHROUGH_EP1_Title1_1.md"
+  - id: FW-TR-TBT-028
+    name: "Stegner Family Breakthrough"
+    steps: ["ID surface+deep", "Fighter jet", "Homeless shelter", "Compelling Future", "New work"]
+    source: "Notes_-_Week_6.md"
+  - id: FW-TR-TBT-029
+    name: "Judgment Release Exercise"
+    steps: ["5 statements", "4 Questions each", "Process answers", "Letter to person", "Share breakthrough"]
+    source: "Notes_-_Week_6.md"
+  - id: FW-TR-TBT-030
+    name: "Needs Vehicles Assessment"
+    steps: ["What has to happen?", "Answer = vehicle", "Make easier", "Which life area?", "Provide yourself"]
+    source: "Six_Human_Needs.md"
+  - id: FW-TR-TBT-031
+    name: "Rapport Building"
+    steps: ["Let full story", "Align: 'I relate' + stories", "On their side while honest"]
+    source: "Notes_-_Week_2.md"
+  - id: FW-TR-TBT-032
+    name: "6 Life Story Strategies"
+    items: ["Elevation", "Life Stages", "Key Decisions", "Find Spark", "Bright Spot", "Mode of Being"]
+    source: "Notes_-_Week_4.md"
+  - id: FW-TR-TBT-033
+    name: "Depression Checklist"
+    items: ["Medical?", "Real injustice?", "Community?", "Family?", "Still operational?"]
+    source: "Notes_-_Week_2.md"
+  - id: FW-TR-TBT-034
+    name: "Assignment Debrief"
+    steps: ["Clear terms/timeline", "Check in during", "Messages for family", "Bring home when ready", "Reconnect", "Commit to new standards"]
+    source: "MU1-Module-1-Breakthrough_Hawkins.md"
+  - id: FW-TR-TBT-035
+    name: "Truthfulness Assessment"
+    areas: ["Self", "Partner", "Children", "Extended family", "Community"]
+    source: "TBT_Week_1_Teleclass.md"
+  - id: FW-TR-TBT-036
+    name: "4 Ways to Use Six Needs"
+    methods: ["Quick Intro (pick 1)", "Full Analysis (all 6)", "Chloe's Quiz", "Single Need Deep Dive"]
+    source: "Six_Human_Needs.md"
+  - id: FW-TR-TBT-037
+    name: "TBT Action Learning"
+    types: ["Action Forms", "Study Buddy", "Reading Erickson", "5 Real Clients"]
+    source: "TBT_Orientation_Week_1.md"
+  - id: FW-TR-TBT-038
+    name: "Anxiety Environment Assessment"
+    description: "Where DO and DON'T experience anxiety? Find relaxation space. Design interventions."
+    source: "SISolutionsAnxiety.md"
+  - id: FW-TR-TBT-039
+    name: "SI Coach Self-Assessment"
+    items: ["Mode?", "Surface vs deep?", "Top 2 needs?", "Life stage?", "Key decisions?", "Spark?", "Key players?", "Alternatives?"]
+    source: "Multiple TBT files"
+  - id: FW-TR-TBT-040
+    name: "Community Engagement (Budget)"
+    steps: ["Local resources", "Match to Mode", "Brief outreach", "Don't replace", "Include contribution"]
+    source: "TBT_Week_1_Teleclass.md"
+  - id: FW-TR-TBT-041
+    name: "3 Video Types"
+    items: ["Breakthrough Episodes (edited TV)", "Story & Challenge (direct teaching)", "Full Interventions (uncut)"]
+    source: "TBT_Orientation_Week_1.md"
+  - id: FW-TR-TBT-042
+    name: "SI Solutions Areas"
+    items: ["Managing state", "Workplace", "Relationships", "Families", "Inner conflict + goals"]
+    source: "TBT_Orientation_Week_1.md"
+  - id: FW-TR-TBT-043
+    name: "Patience as Strategy"
+    description: "Use patience for long challenges. Recognize when it becomes avoidance."
+    source: "TBT_Week_1_Teleclass.md"
+
+# ============================================================================
+# L5 - METHODOLOGIES (20 elements)
+# ============================================================================
+L5_METHODOLOGIES:
+  - id: MET-TR-TBT-001
+    name: "Strategic Intervention Complete Methodology"
+    components: ["Six Human Needs", "Mode of Being", "Life Story Session", "Challenge-based interventions", "Systemic approach", "Blueprint Model", "State management"]
+    source: "Multiple TBT files"
+  - id: MET-TR-TBT-002
+    name: "30-Day Breakthrough Process"
+    phases: ["Assessment", "Faith Restoration", "Environmental Challenge", "Confrontation", "Community Integration", "New Identity Action", "Public Declaration"]
+    source: "Multiple MU files"
+  - id: MET-TR-TBT-003
+    name: "Mastery Unit Study Protocol"
+    weeks: ["Wk1: Episode+Challenge+half Round Table", "Wk2: Rest of Round Table+Teleclass", "Wk3-4: Interventions+Forms", "Wk5: Integration+Buddy"]
+    source: "TBT_Orientation_Week_1.md"
+  - id: MET-TR-TBT-004
+    name: "Needs Vehicle Analysis"
+    protocol: ["Introduce needs", "What has to happen?", "Evaluate vehicles", "Make positive easier", "Replace unhealthy", "Shift to giving", "Client takes responsibility"]
+    source: "Six_Human_Needs.md"
+  - id: MET-TR-TBT-005
+    name: "Blame to Breakthrough"
+    steps: ["ID blame target", "Secondary gain", "Dissociate", "State change", "Present truth", "Words not feelings", "4 Questions", "New decision", "Public commit"]
+    source: "Notes_-_Week_5.md"
+  - id: MET-TR-TBT-006
+    name: "Ericksonian Directive Coaching"
+    principles: ["Don't explain", "Match Mode of Being", "Different context", "Don't replace lost thing", "Follow up", "Debrief", "Identity activates"]
+    source: "TBT_Week_1_Teleclass.md"
+  - id: MET-TR-TBT-007
+    name: "Couples Breakthrough"
+    protocol: ["Surface+deep problem", "Unmet needs per partner", "Couple's words for problem", "Shared stress challenge", "Separate", "Reunite stronger", "Compelling future", "Key Truths"]
+    source: "Notes_-_Week_6.md"
+  - id: MET-TR-TBT-008
+    name: "Business Leaders via Emotional Mastery"
+    protocol: ["80% psychology shift", "20% skills", "Find unconscious limits", "Meaning>emotion>action>results"]
+    source: "Tony_Interview_Replay.md"
+  - id: MET-TR-TBT-009
+    name: "SI Anxiety Complete Protocol"
+    phases: ["Assessment (emotional+facts+physiology)", "Exploration (beneath+patterns+gain)", "Intervention (8 strategies)", "Integration (new cycle)"]
+    source: "SISolutionsAnxiety.md"
+  - id: MET-TR-TBT-010
+    name: "Family Session Protocol"
+    steps: ["Team ritual open", "Each shares", "Truth-telling", "ID helpers", "Brief conversations", "Coach directs", "Team ritual close"]
+    source: "TBT_Week_1_Teleclass.md"
+  - id: MET-TR-TBT-011
+    name: "Impossible Practice Protocol"
+    principles: ["Help whatever it takes", "No orthodoxy", "Right emotional lever = speed", "Love people + hate suffering"]
+    source: "Tony_Interview_Replay.md"
+  - id: MET-TR-TBT-012
+    name: "TBT Program Structure"
+    components: ["7 Mastery Units", "Strategic Advantage", "Marketing Bonus", "Study Buddy + 5 clients", "Reading Erickson", "100-hour certificate"]
+    source: "TBT_Orientation_Week_1.md"
+  - id: MET-TR-TBT-013
+    name: "Life Conditions Assessment"
+    areas: ["Body", "Finances", "Relationship", "Children", "Spiritual", "Family", "Contribution"]
+    for_each: ["Blueprint?", "Reality?", "Gap?", "Helpless?", "Change life or blueprint?"]
+    source: "MU1-Module-2-TonysChallenge.md"
+  - id: MET-TR-TBT-014
+    name: "Rejection Drug Intervention"
+    protocol: ["Diagnose rejection as drug", "Challenge directly", "Name real recovery sources", "Shift blame to ownership", "What can you do?"]
+    source: "Notes_-_Week_5.md"
+  - id: MET-TR-TBT-015
+    name: "Happiness Equation Implementation"
+    steps: ["Happy area + why?", "Reveal LC=Blueprint", "Unhappy area + why?", "Reveal gap", "Helpless = suffering", "3 choices", "Both change life+blueprint", "Find underlying need", "Alternative ways"]
+    source: "MU1-Module-2-TonysChallenge.md"
+  - id: MET-TR-TBT-016
+    name: "Couples State Anchor"
+    steps: ["Partner enters negative state", "Full volume words", "Other feels STRONG", "Notice new things", "Emotional presence", "Celebrate", "Anchor", "Build bigger"]
+    source: "BREAKTHROUGH_EP1_Title1_1.md"
+  - id: MET-TR-TBT-017
+    name: "Post-Traumatic Growth Cultivation"
+    protocol: ["Same stress, different outcome - why?", "Push through don't avoid", "3 outcomes: strength, relationships, immunity", "Frame: nothing scares you anymore"]
+    source: "MU1-Module-2-TonysChallenge.md"
+  - id: MET-TR-TBT-018
+    name: "Unanswered Prayers Reframe"
+    protocol: ["Garth Brooks story", "Not getting blueprint = best thing", "Disappointment drives deeper discovery", "Life happens FOR you"]
+    source: "MU1-Module-2-TonysChallenge.md"
+  - id: MET-TR-TBT-019
+    name: "Community Engagement (Budget)"
+    protocol: ["Local resources", "Match Mode of Being", "Brief outreach", "Don't replace", "Include contribution"]
+    source: "TBT_Week_1_Teleclass.md"
+  - id: MET-TR-TBT-020
+    name: "SI Coach Self-Assessment"
+    questions: ["Mode?", "Surface vs deep?", "Top 2 needs?", "Life stage?", "Key decisions?", "Spark?", "Key players?", "Alternatives?"]
+    source: "Multiple TBT files"
+
+# ============================================================================
+# SUMMARY
+# ============================================================================
+summary:
+  total_elements: 197
+  signature_concepts:
+    - "Blueprint Model (Life Conditions vs Blueprint)"
+    - "Six Human Needs"
+    - "Mode of Being"
+    - "Post-Traumatic Growth"
+    - "Challenge-Based Coaching (Ericksonian Directives)"
+    - "Strategic Intervention (SI)"
+    - "The Holdback (System Bottleneck)"
+    - "Progress = Happiness"
+    - "The Secret to Living is Giving"
+    - "Trade Expectations for Appreciation"
+  intellectual_lineage:
+    - "Milton Erickson (directive therapy)"
+    - "NLP (Neuro-Linguistic Programming)"
+    - "Chloe Madanes (Strategic Family Therapy)"
+    - "Byron Katie (The Work)"
+    - "Jim Rohn (personal development)"

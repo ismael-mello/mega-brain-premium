@@ -1,0 +1,16 @@
+# Transcrição: 01. Introduction
+
+- **Fonte:** 01. Introduction
+- **Duração:** 03:22
+- **Idioma:** en
+- **Modelo:** small
+
+---
+
+## [00:00 - 03:03]
+
+I believe fulfillment is a right, not a luxury. It's not just for the chosen few who get to say, I love my job. We all deserve that. Gallup studies report that the vast majority of people do not feel fulfilled by the work they do. They may like their jobs, but they don't love their jobs. We need to build a world that does not yet exist. We need to build a world in which the vast majority of people wake up every single morning inspired to go to work, feel safe when they're there, and return home fulfilled at the end of each day. We know that fulfillment comes in large part from contributing to something larger than ourselves, from having a reason to do what we do beyond our need to make money or provide for our families. Knowledge comes from having a clear sense of purpose for what we do, from knowing why we do what we do. Knowing our why enhances our ability to attract people who believe what we believe. To find people we trust, people willing to help us, and people we want to help. When we have a clear sense of why we do what we do, we are better able to make decisions that steer our lives in ways that contribute directly towards our purpose, cause, or belief. Understanding our why gives us the clarity we need to find the jobs, the relationships, and the communities that allow us to operate at our natural best. At the end of this course, you will be able to articulate your why in clear and inspiring terms and have an understanding of what further steps you can take to bring your why to life. In order for us to be successful in bringing our why to life, we need balance. We must have clarity of our why, be disciplined about how we do things, and consistent in what we do. When all three of those pieces are in balance, we will be better able to find fulfillment in all the things that we do. In total, those three pieces, why, how, and what, make us who we are. Peter Docher and David Mead joined me on this journey because they are inspired by the world I imagine. Both have a unique skill set in helping bring my vision, our vision, to reality. David knows how to make things work. In 2009, he joined the Start With Why team to develop the content to help me share my ideas. Now, he speaks and facilitates workshops all over the world to help shift people's perceptions about leadership and culture. Peter retired from the Royal Air Force and wanted to continue a life of service. Since joining the Start With Why team in 2011, he has combined my ideas with the work he was already doing to amplify the impact. For years, Peter and David have traveled the world, working closely with individuals and organizations to help them understand and use these concepts.
+
+## [03:03 - 03:22]
+
+They've heard the questions, they've discovered the roadblocks, and found even better ways to advance our vision. Their collective genius has taken my work and made it even better. These guys are the how to my why, and I love that they are here to share their expertise with you.

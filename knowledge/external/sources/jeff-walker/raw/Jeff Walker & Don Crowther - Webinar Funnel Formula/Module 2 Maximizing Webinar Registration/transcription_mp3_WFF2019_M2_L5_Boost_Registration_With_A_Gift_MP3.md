@@ -1,0 +1,16 @@
+# Transcrição: WFF2019_M2_L5_Boost_Registration_With_A_Gift_MP3
+
+- **Fonte:** WFF2019_M2_L5_Boost_Registration_With_A_Gift_MP3
+- **Duração:** 03:48
+- **Idioma:** en
+- **Modelo:** small
+
+---
+
+## [00:00 - 03:00]
+
+Hi, this is Don Crowther with a video about adding a registration gift to your webinar registration page. So, you should know that good registration gifts do increase webinar signups sometimes significantly. And I invite you to choose one that they really, really want. So, here's the thing that I find whenever I'm looking at people's opt-in forms and registration gifts and all these things. People tend to produce opt-in incentives or registration gifts that have one of two problems. Number one, and this is the biggest one, the people don't really care about them. People don't really want them. Or number two, they tend to produce ones that promise for nothing to solve their biggest problems that they've been struggling with. Here's the challenge with that second one. People just don't believe it. They don't believe that a single free report that you're going to give them in exchange for just their opt-in is going to create world peace, perfect health, a skinny, beautiful body, the love relationship they've always wanted. It simply doesn't pass the test of believability. So, I recommend that you focus down, solve one problem that is a real problem that they really, really want to have solved, but doesn't solve their entire problem. Secondly, choose one that really contributes to the transformation that they desire. Notice the keyword there, contributes. It doesn't solve the transformation they desire. It contributes to it and that moves them towards the mindset they need to be in in order to purchase on the webinar. I recommend that you offer this registration gift below the sign up button, usually below the fold. It usually helps to have a description of the registration gift as well as an image. So, one to two sentences describing it and a picture of it. Now, if it's something that you can't picture like a phone call with you or something like that, come up with something that illustrates that. So, they clearly can see it. It looks like it's a book. Don't go get one of those three dimensional books that make it look like you're giving them 150 page book because you're not. You and I both know and your audience knows you're not giving them 150 page book for free. So, just use a flat 2D representation of a front cover of whatever it is that you're giving or something that represents what they might be getting.
+
+## [03:00 - 03:48]
+
+And be sure to emphasize it in your emails promoting registering for the webinar. So, it registration gift is much more powerful if in the emails that you're sending out encouraging people to register for the webinar, you talk about it and talk about how great it is. That will cause people to come and register for the webinar so they can get that. And you may want to also consider running an ad offering that just make it make it clear that it's a gift for registering for the webinar, not just advertising this gift alone. It needs to be tied to registering for the webinar so that people understand what they're getting before they click on your ad so you don't waste the money for an ad click for someone that's not even going to sign up for your webinar.

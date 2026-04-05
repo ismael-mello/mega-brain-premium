@@ -1,0 +1,41 @@
+# Extracao: transcription_pdf_06-TERESA_MM_-_M03_-_L03_-_P07_-_Day_Of_1
+
+- **Fonte:** transcription_pdf_06-TERESA_MM_-_M03_-_L03_-_P07_-_Day_Of_1.txt
+- **Tipo:** TXT
+- **Tamanho:** 0 MB
+
+---
+
+This transcript was exported on Apr 05, 2019 - view latest version here.
+TC1054924706
+Transcript by Rev.com
+Page 1 of 1
+Speaker 1: In this video, I'm going to be talking about the day of your event, and just a few helpful
+tricks that can keep it going smoothly, and just some things for you to remember.
+Congratulations. By this point, you should have all of the items that you need to provide
+an incredible event to your attendees. As attendees start arriving, they will follow the
+signs to arrive at check-in. We suggest having someone greet your attendees here.
+Again, just make sure that this individual cannot only kindly direct the attendee, but also
+properly represent the message that you want to convey.
+The greeter will check them in, have them sign the registration form, hand them their
+name badge, and direct them into the event space where they can find their seat. If you
+have someone else available to also stay in the room and point out beverages,
+restrooms, and available snacks, that's a great option as well, and it can also help the
+attendees feel more comfortable as there's another warm, friendly face creating
+conversation between people that may or may not know each other.
+Once the event starts, try to follow the schedule as closely as possible, but just
+remember that you're there delivering amazing content to attendees that really want to
+be there, and really want to learn directly from you. That being said, if an awesome
+speaker goes over time, or if the attendees' questions are taking longer than you
+planned, that's totally okay. The schedule can shift if needed, and you can find time later
+in a break, or a shorter lunch.
+The purpose of this event is really to deliver amazing content, so don't forget about
+that, and we can always move around the event logistics, or your attendees will just
+have to come back. Don't forget to be yourself. Make it yours, and remember that
+you're here to serve. If you have any questions, just be sure to ask away in the private
+Facebook group, and either myself or someone on our team will be more than happy to
+help.
+www.getwsodo.com	www.getwsodo.com
+
+-- 1 of 1 --
+

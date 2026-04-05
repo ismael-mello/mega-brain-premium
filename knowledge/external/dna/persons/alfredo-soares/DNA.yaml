@@ -1,0 +1,520 @@
+# ============================================================================
+# DNA COGNITIVO — ALFREDO SOARES
+# ============================================================================
+# Versão: 1.0.0
+# Elementos: 64
+# Fontes: 1 (Livro "Bora Vender", 2019)
+# Data: 2026-04-05
+# Método: Extração manual de livro
+# ============================================================================
+
+meta:
+  person: "Alfredo Soares"
+  slug: "alfredo-soares"
+  version: "1.0.0"
+  total_elements: 64
+  sources:
+    - id: "AS-BV"
+      name: "Bora Vender — A Melhor Estratégia é Atitude"
+      type: "BOOK"
+      year: 2019
+      elements_from_source: 64
+      date_processed: "2026-04-05"
+  domains:
+    - vendas
+    - empreendedorismo
+    - e-commerce
+    - marketing
+    - lideranca
+
+# ============================================================================
+# L1: FILOSOFIAS (20 elementos)
+# ============================================================================
+filosofias:
+  - id: "FIL-AS-001"
+    text: "Empreender não é profissão, é um estado de espírito. É sobre atitude, não sobre cargo."
+    domain: "empreendedorismo"
+    source: "AS-BV"
+
+  - id: "FIL-AS-002"
+    text: "Execução vale mais que ideia. Sucesso é questão de execução, não de ideia brilhante. O empreendedor não é inventor, é executor."
+    domain: "empreendedorismo"
+    source: "AS-BV"
+
+  - id: "FIL-AS-003"
+    text: "Vender é encantamento, não troca de produtos por dinheiro. Venda é sobre criar valor percebido e conexão."
+    domain: "vendas"
+    source: "AS-BV"
+
+  - id: "FIL-AS-004"
+    text: "Muito risco, pouco ego. Empreender exige correr riscos calculados sem deixar o ego atrapalhar as decisões."
+    domain: "empreendedorismo"
+    source: "AS-BV"
+
+  - id: "FIL-AS-005"
+    text: "Dinheiro é consequência de fazer algo bem-feito. Foque no valor entregue, o dinheiro vem como resultado."
+    domain: "empreendedorismo"
+    source: "AS-BV"
+
+  - id: "FIL-AS-006"
+    text: "Todos somos vendedores. Não importa o cargo — todo mundo vende o tempo inteiro, seja uma ideia, um produto ou a si mesmo."
+    domain: "vendas"
+    source: "AS-BV"
+
+  - id: "FIL-AS-007"
+    text: "Ganhar dinheiro é fazer os outros ganharem dinheiro. Quanto mais você ajuda os outros a prosperarem, mais você prospera."
+    domain: "empreendedorismo"
+    source: "AS-BV"
+
+  - id: "FIL-AS-008"
+    text: "O ser é que faz o ter. Focar no ser, não no ter. Quem você se torna é mais importante do que o que você acumula."
+    domain: "empreendedorismo"
+    source: "AS-BV"
+
+  - id: "FIL-AS-009"
+    text: "Pensamento não gera fluxo de caixa. Só ação gera resultado. Planejar demais e executar de menos é o caminho para o fracasso."
+    domain: "empreendedorismo"
+    source: "AS-BV"
+
+  - id: "FIL-AS-010"
+    text: "A melhor mídia da empresa é o cliente. Cliente satisfeito vende mais que qualquer campanha de marketing."
+    domain: "marketing"
+    source: "AS-BV"
+
+  - id: "FIL-AS-011"
+    text: "A vida é a reação das suas ações. Cada resultado que você tem é reflexo direto do que você fez ou deixou de fazer."
+    domain: "empreendedorismo"
+    source: "AS-BV"
+
+  - id: "FIL-AS-012"
+    text: "Sorte e sucesso são o encontro da oportunidade com o preparo. Quem se prepara cria as condições para a sorte aparecer."
+    domain: "empreendedorismo"
+    source: "AS-BV"
+
+  - id: "FIL-AS-013"
+    text: "Não existe atalho, tem que manter a constância. Resultados duradouros vêm de disciplina e consistência, não de hacks."
+    domain: "empreendedorismo"
+    source: "AS-BV"
+
+  - id: "FIL-AS-014"
+    text: "A técnica vence a forma, mas o espírito vence a técnica. Atitude e mentalidade superam qualquer metodologia."
+    domain: "empreendedorismo"
+    source: "AS-BV"
+
+  - id: "FIL-AS-015"
+    text: "Seja mais importante que a sua cadeira. Seu valor deve estar em quem você é, não no cargo que ocupa."
+    domain: "lideranca"
+    source: "AS-BV"
+
+  - id: "FIL-AS-016"
+    text: "Feito é melhor que perfeito. Lançar imperfeito e iterar é superior a esperar a perfeição que nunca chega."
+    domain: "empreendedorismo"
+    source: "AS-BV"
+
+  - id: "FIL-AS-017"
+    text: "O segredo do fracasso é querer agradar a todo mundo. Tentar ser tudo para todos é a receita para não ser nada para ninguém."
+    domain: "empreendedorismo"
+    source: "AS-BV"
+
+  - id: "FIL-AS-018"
+    text: "Inovação está mais ligada a mindset e cultura que a tecnologia. Ferramentas mudam, mas a mentalidade inovadora permanece."
+    domain: "empreendedorismo"
+    source: "AS-BV"
+
+  - id: "FIL-AS-019"
+    text: "Um bom negócio é sempre ganha-ganha. Se só um lado ganha, o negócio não é sustentável no longo prazo."
+    domain: "vendas"
+    source: "AS-BV"
+
+  - id: "FIL-AS-020"
+    text: "O empreendedor não é inventor, é executor. Não precisa inventar a roda — precisa executar melhor que os outros."
+    domain: "empreendedorismo"
+    source: "AS-BV"
+
+# ============================================================================
+# L2: MODELOS MENTAIS (11 elementos)
+# ============================================================================
+modelos_mentais:
+  - id: "MM-AS-001"
+    text: "Empreender é dirigir no escuro. Você só enxerga 30 metros à frente, mas não pode parar. Tem que seguir em frente mesmo sem ver o destino completo."
+    domain: "empreendedorismo"
+    source: "AS-BV"
+
+  - id: "MM-AS-002"
+    text: "Empresas que crescem reinventam, não inventam. O segredo não é criar algo do zero, é pegar o que existe e fazer melhor ou diferente."
+    domain: "empreendedorismo"
+    source: "AS-BV"
+
+  - id: "MM-AS-003"
+    text: "O canal de distribuição define as regras, não o produto. Quem controla a distribuição tem o poder. O produto sem distribuição não existe."
+    domain: "e-commerce"
+    source: "AS-BV"
+
+  - id: "MM-AS-004"
+    text: "Foco no SER, não no TER. Modelo mental de identidade — investir em quem você se torna gera resultados maiores do que perseguir bens materiais."
+    domain: "empreendedorismo"
+    source: "AS-BV"
+
+  - id: "MM-AS-005"
+    text: "Bootstrap vs Investidor — o cliente é o melhor investidor. Em vez de buscar capital externo, use receita de vendas reais para financiar o crescimento."
+    domain: "empreendedorismo"
+    source: "AS-BV"
+
+  - id: "MM-AS-006"
+    text: "Day One — existem dias que mudam a história da empresa. Reconhecer e capitalizar esses momentos-chave é o que separa empresas medíocres das extraordinárias."
+    domain: "empreendedorismo"
+    source: "AS-BV"
+
+  - id: "MM-AS-007"
+    text: "Era do Intangível — ecossistema e audiência valem mais que ativos tangíveis. No mundo digital, a rede de valor que você constrói supera qualquer ativo físico."
+    domain: "e-commerce"
+    source: "AS-BV"
+
+  - id: "MM-AS-008"
+    text: "Marketing de Percepção — parecer grande para competir com grandes. A percepção de mercado é tão importante quanto a realidade. Posicione-se como líder antes de ser."
+    domain: "marketing"
+    source: "AS-BV"
+
+  - id: "MM-AS-009"
+    text: "Dark Social — 75% dos compartilhamentos são privados. A maioria das indicações acontece no WhatsApp, DM e mensagens privadas, não em posts públicos."
+    domain: "marketing"
+    source: "AS-BV"
+
+  - id: "MM-AS-010"
+    text: "Vendedor invisível — cercar o cliente com presença antes de vender. Esteja presente em todos os pontos de contato para que quando o cliente decidir comprar, você seja a escolha óbvia."
+    domain: "vendas"
+    source: "AS-BV"
+
+  - id: "MM-AS-011"
+    text: "Give First — oferecer antes de pedir. Filosofia do Vale do Silício aplicada a vendas: entregue valor gratuito, construa confiança, depois monetize."
+    domain: "vendas"
+    source: "AS-BV"
+
+# ============================================================================
+# L3: HEURÍSTICAS (15 elementos)
+# ============================================================================
+heuristicas:
+  - id: "HEUR-AS-001"
+    text: "LTV deve ser pelo menos 3x o CAC. Se o lifetime value não for 3 vezes o custo de aquisição, o modelo de negócio não é sustentável."
+    domain: "vendas"
+    source: "AS-BV"
+    tipo: "numerico"
+    threshold: "LTV >= 3x CAC"
+
+  - id: "HEUR-AS-002"
+    text: "CAC deve retornar em no máximo 12 meses. Se leva mais de 12 meses para recuperar o custo de aquisição, o fluxo de caixa vai sufocar a operação."
+    domain: "vendas"
+    source: "AS-BV"
+    tipo: "numerico"
+    threshold: "payback <= 12 meses"
+
+  - id: "HEUR-AS-003"
+    text: "Uma pessoa gerencia no máximo 400 leads por mês, ou 20 por dia. Acima disso, a qualidade do atendimento despenca."
+    domain: "vendas"
+    source: "AS-BV"
+    tipo: "numerico"
+    threshold: "max 400 leads/mês por vendedor"
+
+  - id: "HEUR-AS-004"
+    text: "80% das vendas são feitas entre o 5º e o 12º contato. A maioria dos vendedores desiste antes disso."
+    domain: "vendas"
+    source: "AS-BV"
+    tipo: "numerico"
+    threshold: "5-12 contatos para fechar"
+
+  - id: "HEUR-AS-005"
+    text: "48% dos vendedores não fazem sequer um follow-up. Quase metade da força de vendas perde negócios por simplesmente não retornar o contato."
+    domain: "vendas"
+    source: "AS-BV"
+    tipo: "numerico"
+    threshold: "48% sem follow-up"
+
+  - id: "HEUR-AS-006"
+    text: "Após 5 minutos, a chance de contato com um lead cai 10x. Velocidade de resposta é o fator mais crítico na conversão de leads inbound."
+    domain: "vendas"
+    source: "AS-BV"
+    tipo: "numerico"
+    threshold: "responder em < 5 minutos"
+
+  - id: "HEUR-AS-007"
+    text: "55% das empresas leva até 5 dias para responder um lead. Isso representa uma oportunidade enorme para quem responde rápido."
+    domain: "vendas"
+    source: "AS-BV"
+    tipo: "numerico"
+    threshold: "55% leva 5+ dias para responder"
+
+  - id: "HEUR-AS-008"
+    text: "6 de cada 10 negócios falham antes de completar 5 anos. A taxa de mortalidade empresarial exige preparo e resiliência."
+    domain: "empreendedorismo"
+    source: "AS-BV"
+    tipo: "numerico"
+    threshold: "60% de falência em 5 anos"
+
+  - id: "HEUR-AS-009"
+    text: "De cada 10 leads, converter 10% e redirecionar 30%+ para parceiros. Os leads que não servem para você podem ser ouro para o ecossistema."
+    domain: "vendas"
+    source: "AS-BV"
+    tipo: "numerico"
+    threshold: "10% conversão + 30% redirecionamento"
+
+  - id: "HEUR-AS-010"
+    text: "Inside sales tem custo 40-90% menor que field sales. Vendas internas são dramaticamente mais baratas que vendas presenciais."
+    domain: "vendas"
+    source: "AS-BV"
+    tipo: "numerico"
+    threshold: "inside sales 40-90% mais barato"
+
+  - id: "HEUR-AS-011"
+    text: "Automatizar régua de e-mails requer escrever pelo menos 17 e-mails. Menos que isso e a régua não cobre o ciclo completo de nutrição."
+    domain: "marketing"
+    source: "AS-BV"
+    tipo: "numerico"
+    threshold: "mínimo 17 e-mails na régua"
+
+  - id: "HEUR-AS-012"
+    text: "Não depender de um único canal — diversificar sempre. Concentrar aquisição em um canal é risco existencial para o negócio."
+    domain: "marketing"
+    source: "AS-BV"
+    tipo: "qualitativo"
+
+  - id: "HEUR-AS-013"
+    text: "20% dos clientes mais valiosos definem o perfil ideal. Analise seus melhores clientes para encontrar mais iguais a eles."
+    domain: "vendas"
+    source: "AS-BV"
+    tipo: "numerico"
+    threshold: "top 20% clientes = ICP"
+
+  - id: "HEUR-AS-014"
+    text: "Enviar top 5 mensagens diárias para parceiros + 10 para lojistas como rotina de prospecção. Consistência nas mensagens gera pipeline previsível."
+    domain: "vendas"
+    source: "AS-BV"
+    tipo: "numerico"
+    threshold: "5 msg/dia parceiros + 10 msg/dia lojistas"
+
+  - id: "HEUR-AS-015"
+    text: "Ticket alto tem ciclo de venda de 6-12 meses. Vendas enterprise exigem paciência e nutrição de longo prazo."
+    domain: "vendas"
+    source: "AS-BV"
+    tipo: "numerico"
+    threshold: "6-12 meses ciclo ticket alto"
+
+# ============================================================================
+# L4: FRAMEWORKS (12 elementos)
+# ============================================================================
+frameworks:
+  - id: "FW-AS-001"
+    name: "Funil XTECH"
+    description: "Funil completo de vendas da XTECH COMMERCE, do primeiro contato à retenção do cliente."
+    steps:
+      - "1. Atração — gerar leads via conteúdo, ads, ecossistema"
+      - "2. Nutrição — educar e engajar com conteúdo de valor"
+      - "3. Conversão — fechar a venda com oferta irresistível"
+      - "4. Retenção — manter o cliente ativo e gerando recorrência"
+    domain: "vendas"
+    source: "AS-BV"
+
+  - id: "FW-AS-002"
+    name: "Máquina de Vendas Previsível"
+    description: "Framework inspirado em Aaron Ross para criar previsibilidade na geração de receita, separando papéis de prospecção e fechamento."
+    steps:
+      - "1. Separar prospecção (SDR/BDR) de fechamento (Closer)"
+      - "2. Definir meta diária de prospecção por canal"
+      - "3. Qualificar leads antes de passar para closers"
+      - "4. Medir taxa de conversão em cada etapa"
+      - "5. Escalar o que funciona mantendo a previsibilidade"
+    domain: "vendas"
+    source: "AS-BV"
+
+  - id: "FW-AS-003"
+    name: "Estratégia War — Conquista por Região"
+    description: "Modelo de expansão territorial onde se domina uma região antes de avançar para a próxima, garantindo densidade e referência local."
+    steps:
+      - "1. Escolher região-alvo com maior potencial"
+      - "2. Concentrar recursos para dominar a região"
+      - "3. Criar cases de sucesso locais"
+      - "4. Usar cases para expandir para região adjacente"
+      - "5. Repetir até cobertura nacional"
+    domain: "vendas"
+    source: "AS-BV"
+
+  - id: "FW-AS-004"
+    name: "CHA de Vendas"
+    description: "Três pilares fundamentais de um vendedor de alta performance: Conhecimento, Habilidades e Atitudes."
+    steps:
+      - "1. Conhecimento — saber sobre produto, mercado, cliente e concorrência"
+      - "2. Habilidades — técnicas de comunicação, negociação e fechamento"
+      - "3. Atitudes — proatividade, resiliência, disciplina e mentalidade de crescimento"
+    domain: "vendas"
+    source: "AS-BV"
+
+  - id: "FW-AS-005"
+    name: "9 Gatilhos para Ofertas Irresistíveis"
+    description: "Nove gatilhos mentais para construir ofertas que o cliente não consegue recusar."
+    steps:
+      - "1. Reciprocidade — dar antes de pedir"
+      - "2. Escassez — limitar disponibilidade"
+      - "3. Autoridade — demonstrar expertise e credibilidade"
+      - "4. Comprometimento — gerar micro-compromissos progressivos"
+      - "5. Medo — mostrar o custo de não agir"
+      - "6. Prova Social — cases, depoimentos, números"
+      - "7. Afinidade — criar conexão genuína"
+      - "8. Emoção — vender transformação, não features"
+      - "9. Polêmica — posicionamento forte que polariza e atrai"
+    domain: "vendas"
+    source: "AS-BV"
+
+  - id: "FW-AS-006"
+    name: "SPIN Selling Aplicado"
+    description: "Adaptação do framework SPIN de Neil Rackham para vendas consultivas no contexto brasileiro."
+    steps:
+      - "1. Situação — entender o cenário atual do prospect"
+      - "2. Problema — identificar as dores e desafios"
+      - "3. Implicação — mostrar as consequências de não resolver"
+      - "4. Necessidade — fazer o prospect verbalizar a necessidade da solução"
+    domain: "vendas"
+    source: "AS-BV"
+
+  - id: "FW-AS-007"
+    name: "Jornada do Consumidor em 4 Estágios"
+    description: "Mapeamento dos estágios de consciência do comprador para alinhar comunicação e oferta."
+    steps:
+      - "1. Aprendizado — cliente não sabe que tem o problema"
+      - "2. Reconhecimento — cliente identifica que tem o problema"
+      - "3. Consideração — cliente pesquisa soluções possíveis"
+      - "4. Decisão — cliente escolhe entre as opções disponíveis"
+    domain: "marketing"
+    source: "AS-BV"
+
+  - id: "FW-AS-008"
+    name: "Gestão do Funil Completo"
+    description: "Framework de gestão end-to-end que conecta aquisição, onboarding, sucesso do cliente e retenção."
+    steps:
+      - "1. Growth — aquisição de leads qualificados"
+      - "2. Onboarding — ativação e primeira experiência de valor"
+      - "3. Customer Success — garantir resultado do cliente"
+      - "4. Produto — iteração baseada em feedback real"
+      - "5. Retenção — manter cliente ativo e expandir conta"
+    domain: "vendas"
+    source: "AS-BV"
+
+  - id: "FW-AS-009"
+    name: "3 Pilares XTECH"
+    description: "Os três pilares que sustentaram o crescimento bootstrap da XTECH COMMERCE até ser adquirida pela VTEX."
+    steps:
+      - "1. Ecossistema — construir rede de parceiros que vendem por você"
+      - "2. Marketing Educacional — educar o mercado para criar demanda"
+      - "3. Escalabilidade Bootstrap — crescer com receita própria, sem investidor"
+    domain: "e-commerce"
+    source: "AS-BV"
+
+  - id: "FW-AS-010"
+    name: "Marketing de Engenharia"
+    description: "Criar ferramentas ou soluções genéricas gratuitas para captar a base de clientes dos concorrentes."
+    steps:
+      - "1. Identificar dor comum no mercado que concorrentes não resolvem gratuitamente"
+      - "2. Criar ferramenta/solução gratuita que resolve essa dor"
+      - "3. Captar leads da base de concorrentes com a ferramenta"
+      - "4. Nutrir com conteúdo educacional"
+      - "5. Converter para produto pago com oferta premium"
+    domain: "marketing"
+    source: "AS-BV"
+
+  - id: "FW-AS-011"
+    name: "Meta SMART Aplicada a Vendas"
+    description: "Desdobramento de meta de faturamento até investimento em marketing usando cálculo reverso."
+    steps:
+      - "1. Definir faturamento desejado no período"
+      - "2. Definir prazo (tempo)"
+      - "3. Calcular número de vendas necessárias (faturamento / ticket médio)"
+      - "4. Calcular número de leads necessários (vendas / taxa de conversão)"
+      - "5. Calcular investimento em marketing (leads × CAC)"
+    domain: "vendas"
+    source: "AS-BV"
+
+  - id: "FW-AS-012"
+    name: "Kanban Prospect (Thiago Reis)"
+    description: "Fluxo visual de prospecção inspirado em kanban, citado por Alfredo como referência para gestão de pipeline."
+    steps:
+      - "1. Prospectar — identificar e listar potenciais clientes"
+      - "2. Qualificar — filtrar por ICP e potencial"
+      - "3. Nutrir — enviar conteúdo e manter contato"
+      - "4. Propor — apresentar oferta personalizada"
+      - "5. Fechar — negociar e converter"
+      - "6. Reter — pós-venda e upsell"
+    domain: "vendas"
+    source: "AS-BV"
+
+# ============================================================================
+# L5: METODOLOGIAS (6 elementos)
+# ============================================================================
+metodologias:
+  - id: "MET-AS-001"
+    name: "Metodologia Bootstrap de Crescimento"
+    description: "Processo de crescimento orgânico sem investidor externo, usando cliente como fonte de financiamento."
+    steps:
+      - "1. Cliente = investidor — vender antes de construir, usar receita para financiar"
+      - "2. Validar produto com venda real — se alguém paga, o produto tem valor"
+      - "3. Reinvestir 100% no negócio — lucro volta para crescimento"
+      - "4. Escalar organicamente — cada cliente financia o próximo"
+    domain: "empreendedorismo"
+    source: "AS-BV"
+
+  - id: "MET-AS-002"
+    name: "Definição do Cliente Ideal"
+    description: "Processo estruturado para identificar o ICP (Ideal Customer Profile) a partir da base existente."
+    steps:
+      - "1. Mapear base atual de clientes com dados completos"
+      - "2. Extrair top 20% por LTV (clientes mais valiosos)"
+      - "3. Encontrar correlações — setor, porte, dor, canal de aquisição"
+      - "4. Fazer 8 perguntas-chave: Quem? Onde? Como encontra? Qual dor? Quanto paga? Por que comprou? Quanto tempo levou? O que quase impediu?"
+      - "5. Escalar investimento no segmento que concentra os melhores clientes"
+    domain: "vendas"
+    source: "AS-BV"
+
+  - id: "MET-AS-003"
+    name: "Prospecção por Rotina"
+    description: "Metodologia de prospecção baseada em disciplina diária em vez de automação, priorizando personalização."
+    steps:
+      - "1. Definir meta diária de contatos por colaborador (ex: 5 parceiros + 10 lojistas)"
+      - "2. Segmentar contatos por canal (LinkedIn, WhatsApp, e-mail, telefone)"
+      - "3. Personalizar cada cold outreach — nunca mandar mensagem genérica"
+      - "4. Medir taxa de conversão por canal e por mensagem"
+      - "5. Escalar o canal e abordagem que mais converte"
+    domain: "vendas"
+    source: "AS-BV"
+
+  - id: "MET-AS-004"
+    name: "Pivotagem Estruturada"
+    description: "Processo para pivotar o negócio mantendo o público-alvo quando o produto não resolve a dor."
+    steps:
+      - "1. Identificar a dor real do público (ouvir, não assumir)"
+      - "2. Reconhecer honestamente que o produto atual não resolve essa dor"
+      - "3. Reformular a oferta mantendo o mesmo público-alvo"
+      - "4. Executar rápido — lançar MVP da nova oferta"
+      - "5. Medir e ajustar — iterar com feedback real do mercado"
+    domain: "empreendedorismo"
+    source: "AS-BV"
+
+  - id: "MET-AS-005"
+    name: "Ecossistema como Motor de Vendas"
+    description: "Metodologia para criar rede de parceiros que funciona como canal de aquisição autossustentável."
+    steps:
+      - "1. Criar parceiros estratégicos — empresas complementares, não concorrentes"
+      - "2. Cada parceiro vira canal de vendas — indicação mútua formalizada"
+      - "3. Leads não convertidos são redirecionados para parceiros do ecossistema"
+      - "4. Parceiros redirecionam seus leads não convertidos de volta"
+      - "5. Ciclo infinito de geração de leads com custo marginal tendendo a zero"
+    domain: "vendas"
+    source: "AS-BV"
+
+  - id: "MET-AS-006"
+    name: "Processo de M&A para Startups"
+    description: "Metodologia para preparar e executar a venda de uma startup, baseada na experiência da venda da XTECH para VTEX."
+    steps:
+      - "1. Construir marca forte — percepção de mercado supera métricas financeiras"
+      - "2. Criar percepção de valor — ecossistema, audiência e intangíveis valem mais que receita"
+      - "3. Alinhar interesses — encontrar compradores onde a sinergia é óbvia"
+      - "4. Negociar com mentores e advogados — nunca negociar sozinho"
+      - "5. Não perder o timing — janelas de oportunidade fecham rápido"
+    domain: "empreendedorismo"
+    source: "AS-BV"

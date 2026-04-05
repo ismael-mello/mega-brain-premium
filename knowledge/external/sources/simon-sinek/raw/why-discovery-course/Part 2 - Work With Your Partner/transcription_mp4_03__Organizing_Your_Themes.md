@@ -1,0 +1,12 @@
+# Transcrição: 03. Organizing Your Themes
+
+- **Fonte:** 03. Organizing Your Themes
+- **Duração:** 02:18
+- **Idioma:** en
+- **Modelo:** small
+
+---
+
+## [00:00 - 02:18]
+
+Welcome back. Partner, it's your turn to lead the conversation. As you do, refer back to your notes in the Partner Guide. Reflect on the stories that were shared and ask about anything that's unclear. Play back to the storyteller the themes you heard from the stories they told. If an idea, an emotion, or anything you feel as significant has come up more than once, it's worth discussing. Themes should feel important and represent who they are at their best. Now that being said, you may write down a theme that seems negative, like a feeling of isolation or not feeling heard. When this happens, there's a little more exploring to do. Your goal is to try to find the positive lesson or experience buried deep within the story they shared. So, for example, if there's a theme of isolation or loneliness that left them feeling unfulfilled, it's likely that community or togetherness is really important to them. In other words, have they felt included or surrounded by those they care about? It would have been a positive experience rather than a negative one. So, the positive to isolation could be belonging. Once you find that, write down that positive theme. Capture as many themes as you can in the Partner Guide. Now, at this stage, it's quite normal to have 10 or more. That said, if any of the themes you've listed seem to overlap, try to combine them. For example, in a recent wide discovery, one theme that came out was to unify, while a similar theme was to break down barriers. When we looked at the stories behind those themes, we decided they basically meant the same thing. So, we combined them into one to bring together. This phrase, these words really resonated with that person. At this point, the goal is just to have a handful of distinct themes that represent the essence of who the storyteller is at their best, rather than the perfect words. That will come later. Create a list of themes that feels comprehensive to both of you. You'll need at least six themes for the next step. If you're struggling to find six distinct themes, go back and share more stories until you do.

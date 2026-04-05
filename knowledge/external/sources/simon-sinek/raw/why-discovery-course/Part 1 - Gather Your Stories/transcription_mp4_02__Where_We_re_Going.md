@@ -1,0 +1,12 @@
+# Transcrição: 02. Where We're Going
+
+- **Fonte:** 02. Where We're Going
+- **Duração:** 02:25
+- **Idioma:** en
+- **Modelo:** small
+
+---
+
+## [00:00 - 02:25]
+
+Hi, I'm Peter. And I'm David. Together we will be leading you step by step through this Y Discovery course. Before we dive into the process, let's talk a little bit about the experience you're about to embark on. A Y is rooted in our past. We are products of our upbringing. Our family, friends, and experiences we had growing up all helped form who we are today, and so inform our Y. Rather than being something aspirational that we hope to become, it's who we already are at our natural best. The goal is to discover it and put it into words. This is the reason throughout this course we will ask you to draw on your past experiences. The course has three parts. In part one, you will gather specific impactful stories from your history. The times when you loved what you were doing. And the times that were perhaps more challenging, yet helped shape who you are. Comparing these diverse experiences will help you identify the conditions that put you at your natural best. You'll also be asked about some of the specific people who have really mattered in your life. The information you'll collect in part one will serve as the foundation for discovering your Y. You'll be typing your stories into the course and all of your work will be saved automatically. In part two, you'll need a partner. Your partner's outside perspective will help you identify the patterns that emerge from your stories, which will help you go on to express your Y in the form of a Y statement. We'll share more about finding and working with a partner in our next video. Finally, part three is decided to help you get your Y statement clear and actionable. We'll give you some tips and offer some ideas to ensure your Y is front and center in everything you do. The information you share in this course is private. It's only available to you and anyone else you choose to share it with. During the course, if your browser crashes or you lose connection, don't worry. Everything you wrote will be right where you left it when you come back. As you progress through the course, it's best to go through the experience in a way that feels right and effective to you. Some people like to complete each part in its entirety, and some people like to spread it out over time so they can pause to let things sink in. The choice is yours.

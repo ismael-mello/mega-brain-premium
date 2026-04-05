@@ -1,0 +1,212 @@
+# Extração: PLF_Stage5_M5_11_How_To_Sell_Transcript_PDF
+
+- **Fonte:** PLF_Stage5_M5_11_How_To_Sell_Transcript_PDF.pdf
+- **Tipo:** PDF
+- **Páginas:** 0
+- **Tamanho:** 0.38 MB
+
+---
+
+www.getwsodo.com	www.getwsodo.com
+
+-- 1 of 7 --
+
+2
+© 2017 Internet Alchemy, Inc. I www.ProductLaunchFormula.com
+Key Takeaways:
+• Note: This is a very important topic and video (highly recommend that you watch)
+• It’s now time to talk about your Sales Video or letter. There’s one absolute thing
+that you must do, and this is the most important thing:
+o You need to focus on the transformation
+• What is the impact going to be on their life once they purchase your product?
+• In the end, it’s all about the transformation, it’s not about the stuff. When I sell
+Product Launch Formula, I don’t talk about getting a bunch of videos – I talk about
+how it’s going to change their business and/or life.
+• Examples of Transformation:
+o If you’re going to teach them how to train their dog, it’s about having this
+dog that will come instantly when you call them every time
+o If you’re teaching people how to play songs on a guitar, you’re giving them
+the ability to be able to play songs for themselves and for their friends
+o If you’re going to teach them how to play tennis, it’s the ability to walk on
+the court and have the confidence to win that match
+• Another important thing: don’t assume that everyone who’s going to see your
+sales video has seen your prelaunch content.
+o You have to open with the big promise
+o You have to grab their attention and revisit that overall promise and launch
+theme
+• Sales video length: make it as long as it needs to be and not one second longer
+www.getwsodo.com	www.getwsodo.com
+
+-- 2 of 7 --
+
+3
+© 2017 Internet Alchemy, Inc. I www.ProductLaunchFormula.com
+• You need to tell the whole story of your product:
+o The promise
+o The story of your product
+o Why it’s going to change their lives
+o How it’s going to transform their lives
+• There’s an old saying in copywriting that your Sales Letter/video can never be too
+long, it can only be too boring. It has to be interesting to the people that you’re
+selling to - don’t ask the wrong people for advice or feedback.
+• As you shoot the sales video, you have to keep your avatar in mind. Try to really
+identify with them and their reality before you shoot or write.
+• You do not want to sell from your heels - you want to be selling from a power
+position. Before you shoot the sales video, I want you to meditate or get in the state
+of mind of your avatar.
+• Prepare for selling by thinking about:
+o How’s it going to impact their life?
+o Think about who they are going to become
+o Think about all the ripples throughout their life and the ripples that they’ll
+have on other people
+• You want to be selling from certainty and power. You get there by focusing on the
+transformation, and thinking about the points above.
+www.getwsodo.com	www.getwsodo.com
+
+-- 3 of 7 --
+
+4
+© 2017 Internet Alchemy, Inc. I www.ProductLaunchFormula.com
+Now I want to talk about your Sales Video or it could be a Sales Letter but we’re
+mostly going to talk about Sales Video. There’s one absolute thing that you must do and
+this is the most important thing. This is probably the biggest mistake I see in Sales
+Letters and Sales Videos so I’m going to walk you through the whole thing.
+We’re going to give you step by step on how to do this. The most important thing
+if you get this right, then it’s game over you win, is you need to focus on the
+transformation. What I mean by that is your prospect when they step up and
+purchase from you then they’re life is going to change in some way. That’s why you’re
+selling them something. There’s going to be some transformation in their life. If you
+don’t like that word think about a change. How is your life going to change?
+What is the impact that’s going to be on their life once they purchase your
+product? It’s all about the transformation. It’s not about the stuff, it’s not
+about whatever they get, the goop or the DVD’s or the CD’s or the widget or whatever, it’s
+about how their life’s actually going to change. That’s really what they want.
+If you look at Product Launch Formula, when I sold this product whenever I sell
+Product Launch Formula I don’t talk about you’re going to get a bunch of videos, you’re
+going to get a bunch of modules, you’re going to get this, you’re going to get that. I talk
+about how it’s going to change their life. They’re going to be able to launch a business.
+They’re going to be able to launch a product and have that instant momentum. They’re
+not going to really be dependent on hope marketing. That’s what I mean about the
+transformation.
+If you’re teaching people how to play signs on a guitar, it’s not that you’re going to
+send them a book and a DVD, you’re going to give them the ability to be able to play
+songs for themselves and for their friends. Their ability to entertain people, to be the
+center of a party. The self-worth that they’re going to have from being able to play songs.
+If you’re going to teach them how to train their dog, again it’s not some DVD’s, it’s not
+some videos, it’s not a forum, it’s having this dog that will come instantly when you call
+them every time. That greater joy that they’ll have in their life because of their better
+relationship with their dog. If you’re going to teach them how to play tennis it’s again,
+not about what the actual stuff is, it’s the ability to walk on the court and have the
+confidence and win that match.
+www.getwsodo.com	www.getwsodo.com
+
+-- 4 of 7 --
+
+5
+© 2017 Internet Alchemy, Inc. I www.ProductLaunchFormula.com
+The stuff doesn’t matter or it might matter a little bit but it only matters 10%.
+You’ve got to focus on the transformation. If you forget everything else but you get this
+right then you’re going to end up with a great sales message, a great Sales Video.
+Another thing is don’t assume that everyone who’s going to see your Sales Video
+has seen your Prelaunch Content -that they’ve been actually through your launch. In an
+ideal world they will have watched all your pieces of Prelaunch Content, they’ll have
+watched them twice. They’ll have memorized them but the reality is people are busy and
+they don’t always watch every single one of your prelaunch videos. Or they might not
+remember them or they’ll skip through them or they’ll see a beginning and they’ll turn it
+off.
+You can’t assume, don’t go into the Sales Letter or the Sales Video and just start
+making the sale. You have to open with the big promise. If you go back to your first piece
+of Prelaunch Content, hopefully you open up that with a big promise and you grab their
+attention. You have to do the same thing with your Sales Video. You don’t just come into
+the Sales Video and say well you saw my Prelaunch Content, this is great stuff and this is
+what it costs. You have to grab their attention and you have to revisit that overall promise
+and the overall launch theme. That doesn’t mean you’re going to completely repeat your
+Prelaunch Content. This isn’t like you did three 18 minute videos and now you’re going
+to just repeat them and then ask for their money. This is a Sales Video, I’m going to walk
+you through the process, but you can’t assume they’ve seen that promise, they’ve seen
+that theme that you had in your prelaunch.
+You don’t want to get overly complicated. It’s really easy to get way too complex
+with these things and you don’t want to be too boring. In fact, you don’t want to be
+boring at all. In terms of length a lot of times people worry about the length, how long
+should it be and this might sound a little simplistic but you need to make it as long as it
+needs to be and not one second longer. You need to tell your whole story, the whole story
+of your product. You need to tell that promise, the story of your product, why it’s going to
+change their lives, how it’s going to transform their lives and so you have to be very
+complete there but you’ve got to make it as short as you can within that context.
+I’ve had Sales Videos myself that were 30, 40 maybe even close to 50 minutes
+long and I still sweat every single second and every single minute. I’m trying to make it
+as short as possible even if it’s 47 minutes long.
+In that case it was a product that needed that length of Sales Video. On the other
+hand, I’m going to show you some examples here of Sales Videos that were more like in
+that 10-minute, 12-minute range and they were very effective. There’s an old saying in
+www.getwsodo.com	www.getwsodo.com
+
+-- 5 of 7 --
+
+6
+© 2017 Internet Alchemy, Inc. I www.ProductLaunchFormula.com
+copy writing that your Sales Letter, and we’re going to say Sales Video in this case, your
+Sales Video can never be too long it can only be too boring. You got to make it as long as
+it needs to be and not any longer, don’t be boring. If you’re teaching about how to play
+golf and your best friend is not a golfer, don’t run the Sales Video by them for their
+feedback. Don’t run it by your spouse if your spouse is not a golfer, it has to be interesting
+to the people that you’re selling to. I’ll guarantee you, a really good Sales Video for a
+product about golf to a non-golfer is going to put them to sleep immediately and they’ll
+tell you it’s absolutely too long but they’re not interested in the market.
+You have to keep your avatar in mind. Finally, as a bit of a warm up here, you do
+not want to sell from you heels. By that I mean leaning back, deer in the headlights,
+you’re scared about it. You don’t want to be selling from there; you want to be selling
+from power. First of all, you’ve got to have a great product. If you don’t have a great
+product you don’t need to bother. Make sure it’s a great product and if you do it like the
+seed launch taught you, you’re going to have a great product. If you were very interactive
+in your product and always tap into the market and what the market needs, then you
+have a great product. We’re going to assume you’ve got that great product what you need
+to do before you shoot the Sales Video, this is really important.
+Before you shoot the Sales Video, I want you to meditate. (I use that term because
+that’s something I do in my life, I meditate.) But if you don’t like that word, just think
+about how your product is going to change your avatars live. Think about the impact you
+are going to have on them. Really get real, think about a real person, your real avatar.
+o How’s it going to impact their life?
+o How’s it going to impact your life now, immediately when they get your
+product?
+o How’s it going to impact their life in three months? In one year? In five
+years?
+o How’s it going to change their life?
+o Think about who they’re going to become.
+The change is throughout the entire length. Even if you teach him how to play
+tennis, if all of a sudden they became a more confident tennis player they become a more
+confident person.
+www.getwsodo.com	www.getwsodo.com
+
+-- 6 of 7 --
+
+7
+© 2017 Internet Alchemy, Inc. I www.ProductLaunchFormula.com
+Think about the big impact it’s going to have on them.
+o Who are they going to become?
+o Think about how their life will change.
+o Think about the positive impact they’re going to have on other people.
+o If all of a sudden they become a better tennis player and a more confident
+person maybe they become a better parent, a better friend, a better
+spouse.
+o Think about all the ripples throughout their life and the ripples that they’ll
+have on other people.
+o Then think about what will happen if they don’t get your product.
+o If they don’t become that tennis player, if they don’t become a more
+confident person; think about what it will cost them.
+o Then think about what if they get someone else’s lousy product that’s
+nowhere near as good as yours?
+o How will that mess up their life?
+o How will that set them back?
+You really want to think about those things and really get super clear on that and
+spend five minutes, ten minutes really … I’m going to say it again, meditating on that;
+really focusing on those things before you shoot your video. Then you’re going to be able
+to sell from a place of power. That is the place you want to be selling from, not from your
+heels, you want to be selling from certainty and from power. You do that, you get there by
+focusing on that transformation that your product is going to have. Make it real in your
+mind and then you’re going to be able to step in front of the camera and just knock it out
+of the park.
+www.getwsodo.com	www.getwsodo.com
+
+-- 7 of 7 --
+

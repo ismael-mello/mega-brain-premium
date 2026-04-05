@@ -32,8 +32,8 @@
 # ═══════════════════════════════════════════════════════════════════════════════
 
 dominio: "offers"
-versao: "26.0.0"  # Gary Bencivenga added (peso 0.80, 35 offer elements). Joseph Siegel Method (shopping for proof elements, not products — Franklin Mint model), Magic Wand Technique (premium as hero), Zeigarnik Effect for recurring revenue (collections), Hot Hand Strategy (shell product for serial proof elements), Product Evaluation via Persuasion Equation (4-step product test), Product Naming Rules (Hopkins), King Gillette Annuity Model (handle/blade), blockbuster proof element procurement.
-total_elementos: 1338
+versao: "28.0.0"  # Sam Ovens added (peso 0.90, ~80 offer elements). Bridge Analogy, Purple Ocean, MVO (Minimum Viable Offer), Consulting Equation (Niche×Offer=Result), 3 Business Archetypes (DFY/DWY/DIY), Pizza Strategy, Niche Selection Venn Diagram, Message Equation, Productization Process, Sell-Before-Build, 6-8 week course sweet spot.
+total_elementos: 1468
 criado_em: "2026-01-10T19:30:00Z"
 atualizado_em: "2026-03-28"
 
@@ -242,6 +242,44 @@ fontes_consolidadas:
     fontes_incluidas:
       - "7 Master Secrets of Wealth Creation (35 offer-relevant elementos — product creation, premium strategy, recurring revenue, annuity models, proof element procurement, naming strategy)"
     nota: "Added 2026-03-28. Gary Bencivenga's offer contribution is PRODUCT CREATION via proof elements — not just packaging (Hormozi), but FINDING/CREATING the product by identifying what proof elements exist in the marketplace and building around them. Joseph Siegel built the Franklin Mint (billions in revenue) by shopping for proof elements (passionate fan bases + exclusive endorsement), not products. The Zeigarnik Effect (completion drive) creates automatic recurring revenue via collections. The Magic Wand Technique inverts the product-premium relationship — make the premium the hero. King Gillette Model creates lifetime customers through initial giveaway. Complements Hormozi (value equation), Brown (offer engineering), and Brunson (stacking) with the proof-first PRODUCT CREATION layer."
+
+  - fonte: "tony-robbins"
+    peso_dominio: 0.75  # Knowledge product creation with Dean Graziosi
+    path: "/knowledge/external/dna/persons/tony-robbins/"
+    contribuicao_principal: "Value Ladder (free→$47→$997→$10K→$250K), Irresistible Product (7 Questions framework), mastermind/coaching/course product design, Knowledge Broker partnership model, $129B self-education industry thesis"
+    elementos_relevantes: 50
+    sources: ["KBB (Knowledge Broker Blueprint)", "MBS (Mastermind Business System)"]
+    fontes_incluidas:
+      - "KBB (25 offer elementos — Value Ladder architecture, Knowledge Broker model, Irresistible Product 7 Questions, mastermind product design, self-education industry positioning)"
+      - "MBS (25 offer elementos — coaching product design, course product design, pricing tiers for knowledge products, group coaching offer architecture, certification/licensing model)"
+    key_frameworks:
+      - "Value Ladder (free→$47→$997→$10K→$250K — progressive commitment pricing architecture)"
+      - "Irresistible Product via 7 Questions (systematic product validation before creation)"
+      - "Three Product Types (mastermind vs coaching vs course — when to use each)"
+      - "Knowledge Broker Model (expert + broker partnership for product creation)"
+      - "$129B Self-Education Industry (market sizing for knowledge products)"
+    nota: "Added 2026-04-04. Tony Robbins + Dean Graziosi (KBB + MBS) — knowledge product creation. Value Ladder as pricing architecture maps the complete customer journey from free to $250K. Irresistible Product via 7 Questions provides systematic product validation. Three Product Types (mastermind/coaching/course) define the knowledge business product mix. Knowledge Broker partnership model (expert provides content, broker handles marketing/fulfillment). Complements Hormozi (Grand Slam value equation), Brown (offer engineering), Brunson (offer stacking), and Benson (written offer presentation) with the KNOWLEDGE PRODUCT CREATION layer."
+
+  - fonte: "sam-ovens"
+    peso_dominio: 0.90  # Offer creation specialist — Bridge Analogy, MVO, Purple Ocean
+    path: "/knowledge/external/dna/persons/sam-ovens/"
+    contribuicao_principal: "Bridge Analogy (offer as bridge between states), Purple Ocean (proven market + unique differentiation), MVO (Minimum Viable Offer — least amount of you to achieve result), Consulting Equation (Niche×Offer=Result), 3 Business Archetypes (DFY/DWY/DIY), Pizza Strategy (progressive differentiation tweaks), Productization Process, Sell-Before-Build methodology, 6-8 week course sweet spot"
+    elementos_relevantes: 80
+    sources: ["Consulting Accelerator 2018 (Weeks 1,3,6,7)", "Setterlun University (Offer Creation, Purple Ocean, Business Model Design)"]
+    fontes_incluidas:
+      - "CA-2018 Week 1 (Consulting Equation, MVO, Message Equation, Niche Selection Venn, 2.0 Niche Categorization)"
+      - "CA-2018 Week 6 (MVSD Process, Offer Analysis Worksheet 5-Tab System, 80/20 Offer Refinement)"
+      - "CA-2018 Week 7 (Productization, Sell-Before-Build, Course Structure Projects-Processes-Steps, Flywheel vs Anti-Flywheel)"
+      - "Setterlun (Bridge Analogy, Purple Ocean, 3 Business Archetypes, Pizza Strategy)"
+    key_frameworks:
+      - "Bridge Analogy (Current State → Bridge/Offer → Desired State, with Troll=objections, Toll=price, Unique Mechanism=differentiation)"
+      - "Purple Ocean (Red Ocean validation + Blue Ocean differentiation = Purple Ocean sweet spot)"
+      - "MVO — Minimum Viable Offer (minimum amount of you to achieve the result — no proposals, no reports, no deliverables)"
+      - "Consulting Equation (Niche × Offer = Result — optimize for profound result in least time)"
+      - "3 Business Archetypes (DFY highest price/lowest scale, DWY balanced/recommended, DIY highest scale/lowest price)"
+      - "Pizza Strategy (progressive tweaks: generic=Red → tweaked=Purple → over-tweaked=Blue)"
+      - "Offer Analysis Worksheet (P-Score, F-Score, S-Score, E-Score — systematic offer dissection and 80/20 refinement)"
+    nota: "Added 2026-04-04. Sam Ovens — CONSULTING OFFER SPECIALIST. The Bridge Analogy is the most intuitive offer framework in the knowledge base — takes 30 seconds to explain, applies to any offer. Purple Ocean is the definitive positioning framework for niching. MVO philosophy (minimum viable service) directly opposes the common instinct to over-deliver. Consulting Equation (Niche×Offer=Result) provides a simple grading system for any consulting business. Complements Hormozi (Grand Slam value stacking), Brown (offer engineering depth), Brunson (offer stacking/funnels), with the CONSULTING-SPECIFIC OFFER ARCHITECTURE — specifically designed for $1,500-$80K consulting and coaching services."
 
 # ═══════════════════════════════════════════════════════════════════════════════
 # FILOSOFIAS CONSOLIDADAS (Cross-Source)

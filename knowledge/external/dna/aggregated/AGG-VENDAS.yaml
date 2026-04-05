@@ -11,10 +11,10 @@
 # ═══════════════════════════════════════════════════════════════════════════════
 
 dominio: "vendas"
-versao: "35.0.0"  # Vinh Giang YouTube added (peso 0.55, 25 vendas elements). Communication-in-sales: Influence Diamond (Think/Feel/Behave/Beliefs), vocal persuasion for pitches, Read the Room (match then lead), 4 Color Communication for buyer types, STAR/PREP for sales storytelling, likeability as closing advantage, Look-Feel-Sound confidence for high-ticket conversations, pre-call nerve management.
+versao: "39.0.0"  # Alfredo Soares added (peso 0.75, ~40 vendas elements). Bora Vender, CHA de Vendas, Funil XTECH (Atração→Nutrição→Conversão→Retenção), Máquina de Vendas Previsível, Estratégia War, SPIN Selling aplicado, 9 Gatilhos para Ofertas, Inside Sales, Rotina vs Automação, Kanban Prospect, Cliente como Melhor Mídia, LTV≥3xCAC, 80% vendas no 5º-12º contato.
 data_criacao: "2026-01-10"
-ultima_atualizacao: "2026-04-03"
-total_elementos: 3516
+ultima_atualizacao: "2026-04-05"
+total_elementos: 3801
 
 fontes_consolidadas:
   - fonte: "cole-gordon"
@@ -189,6 +189,46 @@ fontes_consolidadas:
     tipo_fonte: "SECONDARY (communication expert, not sales specialist)"
     batches: ["VG-YT (Vinh Giang YouTube — 25 vendas-relevant — 2026-04-03)"]
     nota: "Added 2026-04-03. Vinh Giang YouTube channel contribution to sales is through COMMUNICATION DELIVERY in sales contexts — how to present, pitch, and persuade using vocal mastery and body language. Influence Diamond (Think/Feel/Behave/Beliefs) provides a framework for understanding buyer psychology. Read the Room (match energy then lead) is directly applicable to sales calls. 4 Color Communication (Red/Yellow/Green/Blue) maps to adapting sales approach per buyer type. STAR framework for sales storytelling. 'People do business with people they like' — likeability as closing advantage. Complements Stage Academy (VG-SA) with YouTube-specific content focused on everyday sales conversations rather than stage presentations."
+
+  - fonte: "brian-tracy"
+    path: "knowledge/external/dna/persons/brian-tracy/"
+    raw_path: "inbox/Brian Tracy/"
+    peso_dominio: 0.80
+    elementos_contribuidos: 65
+    especialidade: "Complete sales system: 24 Closing Techniques, 7 KRAs of Professional Selling, Doctor of Selling (Examine-Diagnose-Prescribe), 7 Buying Influences (Cialdini-style), ABC Theory (85% Consequences/15% Antecedence), 4 Personality Styles selling, Compound Improvement (1.1^7=1.94), Problem-Focused Question Sequence (8 steps), Referral Generation System, 7 Qualities of Top Salespeople, Gap Analysis, Agenda Close, Style Flexibility"
+    tipo_fonte: "PRIMARY (direct courses)"
+    sources: ["21st Century Sales Training (14 modules + Bonus: 24 Closing Techniques)", "Total Business Mastery (3-day seminar + workbook)"]
+    batches: ["BT-FULL (Brian Tracy — 85 total elements, 65 vendas-relevant — 2026-04-04)"]
+    nota: "Added 2026-04-04. Brian Tracy has trained 2M+ salespeople in 75 countries. His contribution to vendas is the SYSTEMATIC SALES DEVELOPMENT approach — every skill is learnable, every area is gradable. His 24 Closing Techniques is the most comprehensive closing system in the knowledge base. Key unique contributions: Doctor of Selling Model (consultant positioning), Compound Improvement Formula (1.1^7=1.94 — 10% improvement in 7 KRAs nearly doubles results), ABC Theory of Action (85% consequences-driven buying), Style Flexibility (4 personality types — losing 75% without it), Doorknob Close (50%+ recovery), and the 33-Point Business Dashboard. Complements Gordon (7 Beliefs), Miner (NEPQ questions), Belfort (Straight Line), Cardone (conviction), with the SYSTEMATIC DEVELOPMENT approach — not just what to do, but how to improve at doing it."
+
+  - fonte: "tony-robbins"
+    path: "/knowledge/external/dna/persons/tony-robbins"
+    peso_dominio: 0.70
+    elementos_contribuidos: 60
+    especialidade: "Hook Story Close (HSC), Value Ladder, 4S Copywriting, Close Elements, 40% sales on last day heuristic, sales psychology from coaching perspective, state management before selling, webinar selling, launch-based selling"
+    tipo_fonte: "PRIMARY (KBB + MBS courses)"
+    sources: ["KBB (Knowledge Broker Blueprint)", "MBS (Mastermind Business System)"]
+    nota: "Added 2026-04-04. Tony Robbins (via KBB + MBS) — primarily knowledge business sales: launch-based selling, webinar selling, Hook Story Close, Value Ladder pricing. Unique angle: psychology-first approach (80% psychology, 20% mechanics), state management before selling. Complements Gordon (systematic closing), Miner (question-based), Belfort (straight-line), Cardone (conviction) with the PSYCHOLOGY-FIRST approach — manage your state and the prospect's emotional state before attempting to sell."
+
+  - fonte: "sam-ovens"
+    path: "/knowledge/external/dna/persons/sam-ovens"
+    peso_dominio: 0.85
+    elementos_contribuidos: 120
+    especialidade: "Alchemic Conversion Script (12-part one-call close), Self-Inflicted Pain Questioning, Silence Method, Incentive-Based Pricing, Doctor Diagnosis Model (diagnose don't prescribe), Alpha-Beta Dynamic, Option-Hunting Prevention, Tempo Flip Method, Pendulum of Doubt framework, Proof of Concept progression, Sales Tracking (8 data points), Strategy Session methodology"
+    tipo_fonte: "PRIMARY (Consulting Accelerator 2018 — Week 3 Sales + Week 4 Attraction)"
+    sources: ["Consulting Accelerator 2018 (Week 3: Sales & Conversion, Week 4: Client Attraction)"]
+    batches: ["SO-CA2018 (Sam Ovens — 441 total elements, ~120 vendas-relevant — 2026-04-04)"]
+    nota: "Added 2026-04-04. Sam Ovens — the CONSULTANT'S SALES SYSTEM. Unlike Gordon (team-oriented), Miner (question-based for cold calls), or Belfort (straight-line aggression), Ovens teaches a DIAGNOSTIC sales model specifically designed for consultants selling $1,500-$10,000+ services via 45-minute strategy sessions. Key unique contributions: (1) Alchemic Conversion Script — 12-part framework where prospect designs own offer through questions (Part 10 Tempo Flip), (2) Self-Inflicted Pain — prospect causes own pain through honest self-assessment, not external pressure, (3) Silence Method — 2+ minute silence after price, (4) Incentive-Based Pricing — everyday price vs today-only discount, (5) Pendulum of Doubt — understanding regression to mean prevents emotional decisions, (6) 'Absence of yes is a no' — zero tolerance for maybes. Heuristics: 25% baseline close rate, 30-call minimum before judging, 1,600 calls to mastery, 45-min one-call close, 20%+ close rate = ready to scale. Complements Gordon (7 Beliefs), Miner (NEPQ), Belfort (Straight Line), Cardone (conviction) with the DIAGNOSTIC CONSULTANT approach — sales as medical diagnosis, not persuasion."
+
+  - fonte: "alfredo-soares"
+    path: "/knowledge/external/dna/persons/alfredo-soares"
+    peso_dominio: 0.75
+    elementos_contribuidos: 40
+    especialidade: "E-commerce sales for SMBs, Predictable Revenue Machine (XTECH adaptation), CHA de Vendas (Conhecimento-Habilidades-Atitudes), Funil XTECH (Atração→Nutrição→Conversão→Retenção), Estratégia War (territorial conquest), SPIN Selling aplicado ao e-commerce, 9 Gatilhos para Ofertas, Inside Sales vs Field Sales, Rotina vs Automação, Kanban Prospect, Cliente como Melhor Mídia, Bootstrap growth, Ecossistema como motor de vendas"
+    tipo_fonte: "PRIMARY (Livro Bora Vender 2019)"
+    sources: ["Bora Vender — A Melhor Estratégia é Atitude (2019, livro)"]
+    batches: ["AS-BV (Alfredo Soares — 64 total elements, ~40 vendas-relevant — 2026-04-05)"]
+    nota: "Added 2026-04-05. Alfredo Soares — BRAZILIAN E-COMMERCE SALES EXPERT. Founded XTECH COMMERCE (R$547M in 3 years, sold to VTEX 2017) and Socialrocket (150K+ users, 7 countries). Unique perspective: bootstrap growth without investors, marketing de percepção (brand hacking to appear bigger), execution-first philosophy. Key unique contributions: (1) Funil XTECH — 4-stage funnel for SMBs, (2) Estratégia War — regional territory conquest before scaling, (3) Lead Monetization — redirecting unconverted leads to partners, (4) Palestrantes como Canal — 50+ speakers as sales channel, (5) Rotina > Automação — daily personalized outreach beats automated campaigns for SMB segment. Key heuristics: LTV≥3xCAC, CAC payback ≤12mo, 400 leads/person/month max, 80% vendas no 5-12º contato. Complements Gordon (high-ticket closing), Miner (NEPQ questions), Belfort (straight-line), with BRAZILIAN SMB E-COMMERCE perspective — bootstrapped, execution-obsessed, networking-driven."
 
 # ═══════════════════════════════════════════════════════════════════════════════
 # FILOSOFIAS CONSOLIDADAS (Top 15)

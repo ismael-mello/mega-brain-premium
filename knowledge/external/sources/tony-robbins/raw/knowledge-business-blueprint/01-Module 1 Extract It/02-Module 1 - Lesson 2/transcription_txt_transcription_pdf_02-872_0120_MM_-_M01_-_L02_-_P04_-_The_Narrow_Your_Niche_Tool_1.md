@@ -1,0 +1,56 @@
+# Extracao: transcription_pdf_02-872_0120_MM_-_M01_-_L02_-_P04_-_The_Narrow_Your_Niche_Tool_1
+
+- **Fonte:** transcription_pdf_02-872_0120_MM_-_M01_-_L02_-_P04_-_The_Narrow_Your_Niche_Tool_1.txt
+- **Tipo:** TXT
+- **Tamanho:** 0 MB
+
+---
+
+This transcript was exported on Apr 05, 2019 - view latest version here.
+TC1054924706
+Transcript by Rev.com
+Page 1 of 1
+Speaker 1: So now if you think about it, if you reverse engineer what your super power is, right, and
+you start defining who's your ideal client, who should be sitting in that room? It's a
+mirror image of what they want. Something you have, you've already gone through the
+woods, you've already created the path. You want to show them the route in a way that
+aligns with who you are and what you've done, right? That's 30,000 foot. Narrowing it
+down is what are their three biggest pain points and going look for those because that'll
+be part of your marketing when we get there, and then what's the three biggest
+pleasure? Where do they want to go? Pain and pleasure. That's the whole world, right?
+You're gonna want to know that when we go to marketing, everybody makes decisions
+because of pain and pleasure. That's the two things we shared, and then you could start
+thinking through before we get to actually what you're going to teach. You can start
+thinking through, okay, I'm going to have these people in the room. I'm going to teach
+what I'm good at. I know their pain. I know where they want to go. How can I take them
+on a journey to go from less pain and more pleasure? How can I take them on a journey
+from where they are to where it is they want to go? And you start thinking of who that
+ideal client is.
+And now if you want to sit and reflect, you can, but I want you to fill out the narrow
+your niche tool. Yeah, it's not even a tool. It's a sentence. This sentence could be your
+mission statement. This could be the focus that you have, right? In life, when you get rid
+of the clutter in life and you have clarity on where you want to go, things get less
+confusing.
+Did you ever say no to a whole bunch of stuff and then you were like, "Oh my God, all
+this time opened up. I feel so good." That's what we're doing here is how can one
+sentence narrow your niche?
+So let me give you an example. On this page you can grab the tool, this one sentence
+that we want you to fill out, and it is simply this. I'm launching a mastermind to help,
+insert your niche, to what results you want to get them, and you're doing this because
+of my superpowers. So let me give you an example and you're going to stop this video in
+a moment and you're going to fill this out. Let me give you my example of just one.
+I'm watching a mastermind to help authors to write and sell more books by using high
+impact direct response marketing. That's one of my superpowers. I know high impact
+direct response marketing, and I'm going to help authors who want to write and sell
+more books. That's it. That's my mission. If I was doing a mastermind just on that, that
+would be my mission statement. I'm launching a mastermind to help authors. So now
+I'm just looking for authors and I'm looking for authors who want to write and sell more
+books by using direct response marketing.
+Some might say, "Hey, I just want to learn how to get a publishing deal." That's not my
+gig. I've done publishing deals. I make more money by self publishing and doing direct
+response marketing. That's what you want, I'm not your guy. So take the time right now
+and do these exercises if you didn't, and if not, let's move right on to the next section.
+www.getwsodo.com	www.getwsodo.com
+
+-- 1 of 1 --
+

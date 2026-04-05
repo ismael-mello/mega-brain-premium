@@ -1,0 +1,44 @@
+# ============================================================================
+# DNA-CONFIG — MATTHEW DICKS
+# ============================================================================
+# Versão: 1.0.0
+# Data: 2026-04-04
+# ============================================================================
+
+agent:
+  name: "Matthew Dicks"
+  slug: "matthew-dicks"
+  type: SOLO
+  version: "1.0.0"
+
+dna_sources:
+  - person: "matthew-dicks"
+    weight: 1.0
+    path: "knowledge/external/dna/persons/matthew-dicks/DNA.yaml"
+    raiz: "knowledge/external/sources/matthew-dicks/raw/storyworthy-academy-vip/"
+    materiais_fonte:
+      - nome: "Storyworthy Academy VIP"
+        tipo: COURSE
+        secoes: 20
+        arquivos: 302
+        idioma: en
+        descricao: "Curso completo de storytelling para negócios, liderança, humor e comunicação"
+
+dna_summary:
+  total_elements: 437
+  breakdown:
+    filosofias: 35
+    modelos_mentais: 20
+    heuristicas: 45
+    frameworks: 20
+    metodologias: 12
+  domains:
+    - storytelling
+    - business-communication
+    - leadership
+    - humor
+    - presentation-design
+    - personal-development
+  version_dna: "1.0.0"
+  sources_count: 1
+  last_pipeline: "2026-04-04"

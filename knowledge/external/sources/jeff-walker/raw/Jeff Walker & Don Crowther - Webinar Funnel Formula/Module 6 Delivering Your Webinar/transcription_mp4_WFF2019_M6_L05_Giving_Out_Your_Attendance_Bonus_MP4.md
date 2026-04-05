@@ -1,0 +1,16 @@
+# Transcrição: WFF2019_M6_L05_Giving_Out_Your_Attendance_Bonus_MP4
+
+- **Fonte:** WFF2019_M6_L05_Giving_Out_Your_Attendance_Bonus_MP4
+- **Duração:** 03:04
+- **Idioma:** en
+- **Modelo:** small
+
+---
+
+## [00:00 - 03:01]
+
+Hi, this is Don Crowther with a video about giving your attendance bonus to the people who are actually attending your webinar. So you promised them something for attending. When do you give it to them? This is another controversial subject in this particular industry because some people argue that you should hold it out to the very end hoping that they'll actually, because they're forced to stay to the very end to get that bonus that they'll actually buy. Frankly, I don't like to blatantly manipulate people. I realize that some of the things that I taught you in the sales offer portion, it can be seen as slightly manipulative, but there's a line between manipulating, you know, getting somebody to the process where they're ready to buy and just like, if you don't do this, if you don't stay until the end of the webinar, you don't get this. That's a much more blatant manipulation to me. And I just don't like the feeling that that gives. Plus, the other problem is it just doesn't make sense to give this thing away during the sales presentation or right at the end. It just sort of like you're going along one track and all of a sudden you have to jump off that track and do this other thing and then try to get back on the track and you might be successful in doing that. You might not. And so I just don't like waiting until the very end. To me, if they're not interested in buying what it is you have to sell, they're going to leave and I want to allow them to do that. So what I propose is that you give it where it makes the most sense. So you're probably teaching on the subject of the thing that you're giving away as your attendance bonus at some point during the webinar. And so my proposal is you give it where it makes sense during your presentation and that you don't dirty up your sales offer was having to give it away at that point in your webinar. Take care of it earlier. So it's just off your plate and you're done with it. So how to give it. I like to use language like this. Remember that thing that I promised to give you during the webinar? Here it is. And then this is key. You give them a download URL, a URL that does not take them to any other page because they've already opted into your list. They had to do that to get on your webinar. You don't need to do any of that. You don't need to do any pre-sell of it. They already know what it is. Give them a button that when they click, it downloads a PDF or downloads a video or whatever it is that you're giving them so that URL doesn't take them to any other page when they click at the file, just downloads to their computer. And then you make sure you tell them, Hey, I'm giving this to you. It's great additional information that you'll want to look at after this webinar, but not right now. Right now, stay focused on this because I've got some really cool to tell you right now. And then you start telling them about it. So that way they're not distracted by it. You get it over with. They've gotten what they wanted to come to the webinar and you don't have to worry about
+
+## [03:01 - 03:04]
+
+trying to work it in at the end of your webinar.

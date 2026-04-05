@@ -1,0 +1,340 @@
+---
+person: Rian Dutra
+slug: rian-dutra
+version: 1.0.0
+source_count: 1
+source_names:
+  - "Linguagem Secreta (Course - 3 modules, 44 files)"
+total_elements: 39
+domains:
+  - behavioral-design
+  - ux-psychology
+  - cognitive-biases
+  - choice-architecture
+  - design-strategy
+  - consumer-behavior
+  - applied-psychology
+last_updated: "2026-04-03"
+
+layers:
+  L1_PHILOSOPHIES:
+    - id: FIL-RD-001
+      title: "Vieses cognitivos são ciência, não gatilhos mentais"
+      content: "Viés cognitivo é padrão observável de julgamento, com contextos e limitações, não é botão mágico de conversão. A expressão 'gatilho mental' deve ser evitada. Viés é ciência - registrada em décadas de pesquisa. Gatilho mental é só um apelido ruim para vender promessa falsa."
+      domain: applied-psychology
+      source: "Linguagem Secreta - Módulo 1 - Aula 8"
+
+    - id: FIL-RD-002
+      title: "Design a partir do humano, não da interface"
+      content: "Negócios ficam mais fortes quando deixam de desenhar com foco nas telas e passam a desenhar com foco na decisão do consumidor. O design deve nascer da cachola do humano que decide. A decisão nasce em percepção, atenção, memória, esforço percebido e emoção."
+      domain: design-strategy
+      source: "Linguagem Secreta - Módulo 1 - Aula 5"
+
+    - id: FIL-RD-003
+      title: "Ferramenta é meio, não fim"
+      content: "Ser especialista em ferramenta te fará projetar qualquer interface. Mas ser especialista em humanos te fará capaz de projetar qualquer ferramenta. O pensamento do design permanece independente da ferramenta."
+      domain: design-strategy
+      source: "Linguagem Secreta - Módulo 1 - Aula 10"
+
+    - id: FIL-RD-004
+      title: "Influenciar ≠ manipular"
+      content: "Psicologia aplicada não é para confundir ou manipular. É para esclarecer caminhos, reduzir atritos e facilitar escolhas melhores para ambos os lados. Linguagem honesta é persuasiva, não manipuladora. Manipular é errado, fora da lei, antiético."
+      domain: applied-psychology
+      source: "Linguagem Secreta - Módulo 1 - Aula 3"
+
+    - id: FIL-RD-005
+      title: "Resultados honestos são incrementais"
+      content: "Resultados honestos costumam ser incrementais, acumulativos. Pequenas melhorias em clareza, relevância, timing, redução de esforço somam um efeito final. Não tem grã-mú, mas tem consistência quando mede direito e aprende a cada ciclo."
+      domain: behavioral-design
+      source: "Linguagem Secreta - Módulo 1 - Aula 9"
+
+    - id: FIL-RD-006
+      title: "Sem contexto, qualquer técnica perde eficácia"
+      content: "Viés é gerado no humano quando o contexto ativa isso na cachola dele. O design não injeta vieses - configura o ambiente, sinais e sequências que podem disparar heurísticas já existentes na mente. O efeito depende do momento, tarefa, contexto, cansaço, motivação."
+      domain: cognitive-biases
+      source: "Linguagem Secreta - Módulo 1 - Aula 9"
+
+    - id: FIL-RD-007
+      title: "O poder de síntese indica domínio do conhecimento"
+      content: "Se um humano não tem poder de síntese alto sobre algo, se não consegue sintetizar em poucas palavras, é porque ainda não domina o que pensa dominar. Se precisa pensar muito e usar palavras rebuscadas para chegar num ponto central, ainda não domina com clareza."
+      domain: applied-psychology
+      source: "Linguagem Secreta - Módulo 1 - Aula 15"
+
+    - id: FIL-RD-008
+      title: "Enganar nunca vale a pena a longo prazo"
+      content: "Enganar pode até parecer vantagem no curtíssimo prazo, mas é tiro no pé no longo e médio prazo. Consumidor reclama, marca sofre dano reputacional, queda de brand equity, enxurrada de reclamações. Transparência sustenta confiança de longo prazo."
+      domain: consumer-behavior
+      source: "Linguagem Secreta - Módulo 2 - Aula 5"
+
+    - id: FIL-RD-009
+      title: "Decisões são produtos do contexto"
+      content: "A pergunta não é 'quem decide', mas 'onde e em quais condições essa decisão acontece'. Decisões acontecem na interação direta entre processos mentais e estímulos do ambiente, não apenas dentro da cachola."
+      domain: choice-architecture
+      source: "Linguagem Secreta - Módulo 1 - Aula 2"
+
+    - id: FIL-RD-010
+      title: "Respeito ao consumidor começa por respeito à ciência"
+      content: "Não vamos usar psicologia para confundir, para manipular. Vamos usar psicologia para esclarecer caminhos, reduzir atritos e facilitar escolhas melhores para ambos os lados, consumidor e negócio. Ciência aplicada é clara, testável, replicável."
+      domain: applied-psychology
+      source: "Linguagem Secreta - Módulo 1 - Aula 8"
+
+  L2_MENTAL_MODELS:
+    - id: MM-RD-001
+      title: "Sistema 1 e Sistema 2 (Kahneman)"
+      content: "Sistema rápido (intuitivo, automático, emocional) resolve quase tudo com pistas de familiaridade, fluência, saliência. Sistema lento (deliberado, analítico) revisa mas custa mais esforço. A combinação cria ambiente propício para vieses cognitivos."
+      domain: cognitive-biases
+      source: "Linguagem Secreta - Módulo 1 - Aulas 2, 3, 7"
+
+    - id: MM-RD-002
+      title: "Arquitetura de Escolha"
+      content: "Mudar a apresentação, opção padrão, ordem dos elementos pode alterar a preferência mesmo quando alternativas são as mesmas. Posicionamento, ordem e destaque mudam o que salta aos olhos e tem efeitos mensuráveis no comportamento."
+      domain: choice-architecture
+      source: "Linguagem Secreta - Módulo 1 - Aula 2"
+
+    - id: MM-RD-003
+      title: "Viés de Enquadramento (Framing Effect)"
+      content: "Pequenas mudanças em como informação é apresentada podem mudar totalmente a decisão. Ganho vs perda, percentual vs absoluto, mensal vs anual - o conteúdo é idêntico mas a percepção muda. Emoção é ativada antes da racionalidade (amígdala antes do pré-frontal)."
+      domain: cognitive-biases
+      source: "Linguagem Secreta - Módulo 2 - Aulas 1-6"
+
+    - id: MM-RD-004
+      title: "Paradoxo da Escolha"
+      content: "Quanto mais opções, mais esforço, mais comparação e muitas vezes menos satisfação. Pode gerar paralisia decisória. A solução é organizar, agrupar, mostrar o essencial sem empobrecer opções."
+      domain: behavioral-design
+      source: "Linguagem Secreta - Módulo 1 - Aula 2"
+
+    - id: MM-RD-005
+      title: "Aversão à Perda"
+      content: "Sentimentos sobre ganhos e perdas são assimétricos. 'Evite perder R$200/ano' costuma performar melhor que 'Economize R$200/ano'. A perda percebida gera ação mais imediata que o ganho equivalente."
+      domain: consumer-behavior
+      source: "Linguagem Secreta - Módulo 2 - Aula 3"
+
+    - id: MM-RD-006
+      title: "Nudge (empurrão psicológico)"
+      content: "Intervenções sutis que estimulam continuidade sem impor nada agressivamente. Microintervenções estratégicas no momento certo. Exemplo: Gmail lembrete de anexo, botão 'desfazer', notificações inteligentes."
+      domain: behavioral-design
+      source: "Linguagem Secreta - Módulo 1 - Aula 4"
+
+    - id: MM-RD-007
+      title: "Cegueira por Desatenção"
+      content: "Atenção é recurso muito limitado. Focamos em poucas coisas por vez e ficamos cegos para coisas óbvias. Distrações + muitas opções = esforço mental aumenta exponencialmente. Interfaces simples e objetivas tendem a funcionar melhor."
+      domain: cognitive-biases
+      source: "Linguagem Secreta - Módulo 1 - Aula 2"
+
+    - id: MM-RD-008
+      title: "Design Ético vs Dark Patterns"
+      content: "O mesmo conhecimento pode ser usado para explorar vieses e prender o usuário OU para ajudá-lo a tomar decisões melhores. A pergunta é: está ajudando a decidir melhor ou apenas acelerando decisão em favor do lucro?"
+      domain: design-strategy
+      source: "Linguagem Secreta - Módulo 1 - Aula 4"
+
+    - id: MM-RD-009
+      title: "Defaults (opções padrão)"
+      content: "Opções pré-selecionadas decidem por nós quando não decidimos. Não decidir parece neutro mas é escolha com consequências. Defaults éticos ajudam quem decide e reduzem arrependimento."
+      domain: choice-architecture
+      source: "Linguagem Secreta - Módulo 1 - Aula 3"
+
+    - id: MM-RD-010
+      title: "Pré-suasão (Cialdini)"
+      content: "O que vem antes pode moldar o que vem depois. Preparar o terreno antes da mensagem aumenta chance de aceitação. Sinais de prova social, autoridade, escassez influenciam julgamento."
+      domain: consumer-behavior
+      source: "Linguagem Secreta - Módulo 1 - Aula 3"
+
+  L3_HEURISTICS:
+    - id: HEUR-RD-001
+      title: "35 mil decisões conscientes por dia"
+      content: "Tomamos por volta de 35 mil decisões conscientes por dia. O volume obriga a mente a criar atalhos. Esses atalhos economizam tempo e energia mas podem gerar vieses previsíveis."
+      domain: cognitive-biases
+      source: "Linguagem Secreta - Módulo 1 - Aula 2"
+      numeric: true
+      threshold: "35000 decisões/dia"
+
+    - id: HEUR-RD-002
+      title: "Incremento de 2-5% sustentado > 20% pontual"
+      content: "Um incremento de 2-5% sustentado e replicável pode fazer muita diferença nos resultados do negócio. 'Aumento de 20% numa só semana' costuma esconder troca de métrica, funil forçado, sazonalidade ou números escondidos."
+      domain: behavioral-design
+      source: "Linguagem Secreta - Módulo 1 - Aula 9"
+      numeric: true
+      threshold: "2-5% sustentado"
+
+    - id: HEUR-RD-003
+      title: "3-4 conversas por perfil = saturação em pesquisa"
+      content: "Entre 3 e 4 conversas por perfil já começa a dar boa base. As coisas já começam a se repetir. Parar quando respostas começam a se repetir e não trazem nada novo."
+      domain: ux-psychology
+      source: "Linguagem Secreta - Bônus - Aula 2"
+      numeric: true
+      threshold: "3-4 conversas/perfil"
+
+    - id: HEUR-RD-004
+      title: "Teste A/B mínimo: 2 semanas"
+      content: "Geralmente teste A/B eficaz é feito por duas semanas, não menos nem mais. Não adianta 3 dias. Não adianta 6 meses. Testar uma mudança por vez mantendo o resto igual."
+      domain: behavioral-design
+      source: "Linguagem Secreta - Módulo 2 - Aula 6"
+      numeric: true
+      threshold: "2 semanas"
+
+    - id: HEUR-RD-005
+      title: "Se não consegue explicar em 3 frases, não domina"
+      content: "Se um humano não consegue sintetizar conhecimento em poucas palavras, é porque ainda não domina o que pensa dominar. Critério do telefone sem fio: se alguém explicaria para terceiro sem confusão."
+      domain: applied-psychology
+      source: "Linguagem Secreta - Módulo 1 - Aula 15"
+      numeric: true
+      threshold: "3 frases"
+
+    - id: HEUR-RD-006
+      title: "Perda percebida > ganho percebido"
+      content: "'Evite perder X' costuma ter performance melhor que 'Economize X'. O enquadramento de perda ativa atenção e gera ação mais imediata sem mudar o valor."
+      domain: consumer-behavior
+      source: "Linguagem Secreta - Módulo 2 - Aula 3"
+      numeric: false
+
+    - id: HEUR-RD-007
+      title: "Síntese em 15-20 minutos após a aula"
+      content: "Síntese deve ser rápida, 15-20 minutos após a aula. Se demora uma hora para reescrever, não está sintetizando - está reestudando. Post-its são ótimos para treinar poder de síntese pelo espaço limitado."
+      domain: applied-psychology
+      source: "Linguagem Secreta - Módulo 1 - Aula 12"
+      numeric: true
+      threshold: "15-20 min"
+
+    - id: HEUR-RD-008
+      title: "Ausência de dúvida = sinal de aprendizado superficial"
+      content: "Se não tem dúvida nenhuma após completar um módulo pode ser mau sinal. Significa que não refletiu o suficiente, aceitou tudo automaticamente sem questionar."
+      domain: applied-psychology
+      source: "Linguagem Secreta - Módulo 1 - Aula 15"
+      numeric: false
+
+    - id: HEUR-RD-009
+      title: "200K palavras = IA alucina sem projeto dedicado"
+      content: "20 entrevistas de 90 min = ~200K palavras. Se joga tudo de uma vez na IA, ela alucina. Usar projetos/gems/GPTs customizados para grandes volumes. IA acessa quando precisar em vez de guardar na memória."
+      domain: ux-psychology
+      source: "Linguagem Secreta - Bônus - Aula 3"
+      numeric: true
+      threshold: "200000 palavras"
+
+    - id: HEUR-RD-010
+      title: "Rótulo 75% magro > 25% gordura"
+      content: "Rótulo positivo gera avaliações mais positivas mesmo após experiência direta. O texto na embalagem/prateleira já guia a percepção na primeira leitura. Priorizar molduras positivas sem omitir informações."
+      domain: cognitive-biases
+      source: "Linguagem Secreta - Módulo 2 - Aula 3 (Levin & Gaeth, 1988)"
+      numeric: true
+      threshold: "75% vs 25%"
+
+  L4_FRAMEWORKS:
+    - id: FW-RD-001
+      title: "Método S.O.F.R.A."
+      content: "Ciclo de aprendizado e aplicação: S(intetiza) - recontar com próprias palavras, conectar com exemplos próprios. O(bserva) - escolher problema real, observar contexto de uso. F(alseia) - questionar soluções existentes, testar limites. R(esolve) - formular hipótese, prototipar, medir. A(utoavalia) - verificar o que funcionou, ajustar próximo ciclo."
+      domain: applied-psychology
+      source: "Linguagem Secreta - Módulo 1 - Aulas 11-13"
+      steps:
+        - "S - Sintetiza: Recontar com próprias palavras, conectar com exemplos seus"
+        - "O - Observa: Escolher problema real, observar contexto de uso, evidências"
+        - "F - Falseia: Questionar soluções existentes, testar limites, contra-exemplos"
+        - "R - Resolve: Formular hipótese, prototipar mínimo, definir métrica, testar"
+        - "A - Autoavalia: O que funcionou, o que não, ajustar para próximo ciclo"
+
+    - id: FW-RD-002
+      title: "Método M.E.N.T.E."
+      content: "Autoavaliação de aprendizado com 5 verificações: M(ensagem central) - 3 ideias principais de memória. E(ntendimento lógico) - explicar conceito em 3 frases como se ensinasse a leigo. N(exo prático) - caso real ou hipotético onde conceito se aplica. T(este de dúvida) - identificar lacunas, pontos não claros. E(volução cognitiva) - o que mudou no modo de pensar."
+      domain: applied-psychology
+      source: "Linguagem Secreta - Módulo 1 - Aula 15"
+      steps:
+        - "M - Mensagem central: Escrever 3 ideias principais de memória, sem consultar"
+        - "E - Entendimento lógico: Explicar principal conceito em 3 frases como para leigo"
+        - "N - Nexo prático: Caso real ou hipotético onde conceito se aplica"
+        - "T - Teste de dúvida: Identificar lacunas, pontos não claros, contra-intuitivos"
+        - "E - Evolução cognitiva: O que mudou no modo de pensar e decidir"
+
+    - id: FW-RD-003
+      title: "Funil de Ação para Design"
+      content: "Framework para entender cada etapa da decisão do usuário e identificar onde o processo falha: Gatilho → Reação → Avaliação → Habilidade percebida → Tempo → Experiência recente. Criar soluções de design específicas para corrigir cada falha."
+      domain: behavioral-design
+      source: "Linguagem Secreta - Módulo 1 - Aula 5"
+      steps:
+        - "Gatilho: O que desperta atenção? Se fraco, ajustar comunicação visual/textual"
+        - "Reação: Qual resposta emocional imediata?"
+        - "Avaliação: Como avalia custo vs benefício?"
+        - "Habilidade percebida: Sente que consegue completar a ação?"
+        - "Tempo: Quanto esforço temporal percebe?"
+        - "Experiência recente: Experiências passadas influenciam?"
+
+    - id: FW-RD-004
+      title: "Duplo Enquadramento"
+      content: "Quando decisão compromete orçamento por muitos meses, apresentar: ganho imediato + economia acumulada + valor total confirmado. Exemplo: 'Economize 2 meses pagando à vista' (ganho) + mostrar preço mensal E anual lado a lado."
+      domain: choice-architecture
+      source: "Linguagem Secreta - Módulo 2 - Aula 5"
+      steps:
+        - "Mostrar ganho imediato (o que ganha agora)"
+        - "Mostrar economia acumulada (quanto economiza no total)"
+        - "Confirmar valor total integral (transparência)"
+
+    - id: FW-RD-005
+      title: "Teste A/B Rigoroso"
+      content: "Metodologia científica para validar enquadramento: grupo controle (versão atual) vs variação (nova moldura). Mesmo público, mesmo volume, mesmo período. Uma mudança por vez. Mínimo 2 semanas. Métrica principal + métricas de segurança."
+      domain: behavioral-design
+      source: "Linguagem Secreta - Módulo 2 - Aula 6"
+      steps:
+        - "Definir ação exata e momento de decisão a influenciar"
+        - "Estabelecer métrica principal + métricas de segurança"
+        - "Coletar baseline (versão de controle)"
+        - "Criar variação com UMA mudança (manter resto igual)"
+        - "Rodar por 2 semanas, mesmo público, mesmo volume"
+        - "Analisar considerando fatores externos (sazonalidade)"
+        - "Validar se melhora resultado SEM piorar experiência"
+
+    - id: FW-RD-006
+      title: "Pesquisa com IA para Decisões de Negócio"
+      content: "Usar LLMs (Claude, Gemini, ChatGPT) como acelerador de pesquisa qualitativa: criar roteiro com IA, testar com personas sintéticas, conversar com pessoas reais, transcrever, analisar com projeto dedicado, identificar vieses nas respostas, apresentar de forma interativa."
+      domain: ux-psychology
+      source: "Linguagem Secreta - Bônus - Aulas 1-4"
+      steps:
+        - "Criar roteiro de perguntas abertas com IA"
+        - "Testar roteiro com personas sintéticas (calibrar)"
+        - "Conversar com pessoas reais (3-4 por perfil até saturação)"
+        - "Transcrever (ElevenLabs, Otter.ai)"
+        - "Analisar individualmente, depois em escala (projeto dedicado)"
+        - "Identificar vieses nas respostas (racionalização, etc)"
+        - "Apresentar via NotebookLM, V0, ou Lovable"
+
+    - id: FW-RD-007
+      title: "Mapa de Decisão"
+      content: "Documento que liga barreira real do usuário à solução de design e ao teste que vai validar. Mostra de forma simples como cada mudança resolve uma barreira real. Ajuda o time a falar mesma língua e tomar decisões baseadas em evidência."
+      domain: design-strategy
+      source: "Linguagem Secreta - Módulo 1 - Aula 5"
+      steps:
+        - "Identificar barreira real (ex: abandono por falta de confiança)"
+        - "Propor solução de design (ex: avaliações visíveis, selos de segurança)"
+        - "Definir teste de validação"
+        - "Registrar resultado e compartilhar com time"
+
+  L5_METHODOLOGIES:
+    - id: MET-RD-001
+      title: "Processo de Design Centrado na Decisão"
+      content: "Metodologia completa de design que começa pela decisão do humano: 1) Compreender qual decisão gera resultado e qual barreira existe. 2) Reduzir atritos visíveis e invisíveis. 3) Alinhar texto, mensagem, oferta, visual ao próximo passo. 4) Explicitar benefício no momento certo. 5) Ajustar ordem e padrões pré-selecionados. 6) Considerar contexto e pré-contexto. 7) Prototipar cedo com textos reais. 8) Observar uso. 9) Comparar o que dizem vs o que fazem. 10) Testar pequenas mudanças, medir efeito real."
+      domain: design-strategy
+      source: "Linguagem Secreta - Módulo 1 - Aula 5"
+      steps:
+        - "Compreender qual decisão gera resultado e a principal barreira"
+        - "Reduzir atritos visíveis e invisíveis"
+        - "Alinhar texto, mensagem, oferta, visual ao próximo passo"
+        - "Explicitar benefício no momento certo sem sobrecarregar"
+        - "Ajustar ordem e padrões pré-selecionados"
+        - "Considerar contexto e pré-contexto"
+        - "Prototipar cedo com textos reais, observar uso"
+        - "Comparar o que dizem vs o que fazem"
+        - "Testar pequenas mudanças importantes, medir efeito real"
+        - "Registrar aprendizados e iterar"
+
+    - id: MET-RD-002
+      title: "Aplicação Prática do Viés de Enquadramento"
+      content: "Metodologia step-by-step para aplicar framing em design/marketing: definir ação exata, identificar ponto crítico de decisão, coletar baseline, construir hipóteses de moldura (ganho vs perda com números idênticos), ajustar microtextos/rótulos/ordem, alinhar ética, testar A/B por 2 semanas, validar."
+      domain: choice-architecture
+      source: "Linguagem Secreta - Módulo 2 - Aulas 5-6"
+      steps:
+        - "Definir ação exata a provocar e momento de decisão"
+        - "Identificar ponto crítico (onde há custo percebido)"
+        - "Coletar baseline: mensagem atual, rótulos, ordem, números"
+        - "Construir hipóteses: versão ganho vs versão perda (números idênticos)"
+        - "Ajustar cenário: microtextos, rótulos, ordem, defaults"
+        - "Verificar ética: facilita ou distorce a decisão?"
+        - "Testar A/B por 2 semanas, mesmo público, mesmo volume"
+        - "Validar: melhora resultado SEM piorar experiência?"
+        - "Registrar e replicar em outros cenários"

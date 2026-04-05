@@ -13,10 +13,10 @@
 # ═══════════════════════════════════════════════════════════════════════════════
 
 dominio: "storytelling"
-versao: "11.0.0"  # Vinh Giang YouTube added — 3 Storytelling Ingredients, 5 Storytelling Traps, TSL Framework, YOU-THEM-VALUE, Story-Link Method, Peak Moment storytelling
+versao: "14.0.0"  # Tony Robbins added (peso 0.80, ~40 storytelling elements). Hook Story Close, Story Teach Tool, celebrity reference pattern, contrast technique, physical engagement in storytelling.
 data_criacao: "2026-03-11"
-ultima_atualizacao: "2026-04-02"
-total_elementos: 763
+ultima_atualizacao: "2026-04-04"
+total_elementos: 1255
 peso_global: 0.70
 
 fontes_consolidadas:
@@ -169,6 +169,49 @@ fontes_consolidadas:
       - "FHAT — Future History As Truth (describe prospect's future as if it already happened — story from the future)"
     nota: "Added 2026-03-19. RB storytelling is SELLING-SPECIFIC — every story serves a belief installation purpose. His Story Inventory and Story Stacking methodologies are the most systematic approaches to story-as-sales-tool. The Epiphany Bridge is the most copied story framework in online marketing. Priorizar person DNA (weight 0.95) sobre este AGG (weight 0.85) em caso de conflito direto."
 
+  - fonte: "tony-robbins"
+    path: "knowledge/external/dna/persons/tony-robbins/"
+    raw_path: "knowledge/external/sources/tony-robbins/raw/"
+    peso_dominio: 0.80
+    elementos_contribuidos: 40
+    especialidade: "Persuasive storytelling, Hook Story Close as universal framework, Story Teach Tool Action methodology, celebrity reference pattern (Oprah, Jordan, Buffett, Branson) as credibility anchors, contrast technique, physical engagement in storytelling, stories as teaching vehicle"
+    tipo_fonte: "PRIMARY (KBB + MBS courses)"
+    key_frameworks:
+      - "Hook Story Close (HSC — Hook attention, Story to build rapport/credibility, Close with offer/CTA)"
+      - "Story Teach Tool Action (STTA — Story to illustrate, Teach the principle, Tool to implement, Action to take)"
+      - "Celebrity Reference Pattern (name-drop credibility anchors: Oprah, Jordan, Buffett, Branson)"
+      - "Contrast Technique (before/after transformation storytelling)"
+      - "Physical Engagement Storytelling (movement + gesture + vocal variation during story delivery)"
+    nota: "Added 2026-04-04. Tony Robbins (KBB + MBS) — master of persuasive storytelling. Hook Story Close as universal framework applicable to sales, marketing, and presentations. Story Teach Tool Action as educational storytelling methodology. Uses celebrity stories (Oprah, Jordan, Buffett, Branson) as credibility anchors — unique pattern not seen in other storytelling sources. Physical engagement during storytelling (movement, gesture, vocal dynamics) complements Vinh Giang (vocal delivery) and Dicks (story structure) with the PERSUASION-FIRST storytelling approach."
+
+  - fonte: "matthew-dicks-sav"
+    path: "knowledge/external/dna/persons/matthew-dicks/"
+    raw_path: "knowledge/external/sources/matthew-dicks/raw/storyworthy-academy-vip/"
+    peso_dominio: 0.95
+    elementos_contribuidos: 437
+    especialidade: "Personal storytelling craft, story structure, finding stories, humor in storytelling, business communication, presentation design, leadership storytelling, origin stories. Homework for Life (daily practice), Five-Second Moment (story pivot), 12 Humor Strategies, Speaking Through Adjacency (story-first business presentations), Picture Book Method (deck building), Origin Story Assembly, 48+ performed stories documented"
+    tipo_fonte: "PRIMARY (direct from expert — Storyworthy Academy VIP, 20 sections, 302 files)"
+    key_frameworks:
+      - "Homework for Life (daily 5-min practice — THE most important thing he teaches)"
+      - "Five-Second Moment (every story pivots on ~5 seconds of change)"
+      - "Story Thesis Statement ('I used to X, stuff happened, now I Y')"
+      - "Beginning Rules (Location + Action, zero exposition)"
+      - "Ending Rules (Show Then Tell, end in heart not humor)"
+      - "The 3 S's (Stakes, Suspense, Surprise)"
+      - "12 Humor Strategies (Nostalgia, One of These Things, Definitions, Exaggeration, Metaphor, Prediction, Specificity, Internal Dialogue, Act-Outs, Lists, Regroup, Distraction)"
+      - "Speaking Through Adjacency (personal story BEFORE business message — aha! pivot)"
+      - "Picture Book Method (words first, visuals second, 5-8 words/slide, multiple clicks)"
+      - "11 Steve Jobs Presentation Lessons"
+      - "3 Leadership Storytelling Strategies (Moments from Mundane, Honor Through Artifacts, Make Yourself Known)"
+      - "Origin Story Assembly (25+ slices, Swiss Army Knife approach)"
+      - "5 Story-Finding Games (HFL, First/Last/Best/Worst, 3-2-1, Where Oh Where, Lost and Found)"
+      - "Surprise Protection System (hide info in laughs, lists, false reasons)"
+      - "Emotional Mapping (scene-by-scene emotion planning)"
+      - "3 Story Chronologies (ABC, B-A-bC, C-A-BC)"
+      - "Subtle Sharing Inventory (strategic self-disclosure with addressable market analysis)"
+      - "Business Storytelling Process (mine stories → find underneath → extract big ideas)"
+    nota: "Added 2026-04-04. Matthew Dicks is NOW the #1 storytelling contributor in the system with 437 elements from 302 files (20 sections of Storyworthy Academy VIP). His expertise is PERSONAL STORYTELLING CRAFT — the actual mechanics of finding, structuring, and telling stories. Complements Dan Kennedy (story in copy), Vinh Giang (story in speaking), Donald Miller (story in branding), and Russell Brunson (story in selling). Dicks is the PUREST storytelling source — story for story's sake, then applied to business. His Homework for Life methodology is unique in the system."
+
   - fonte: "robert-cialdini"
     path: "knowledge/external/dna/persons/robert-cialdini/"
     raw_path: "knowledge/external/sources/robert-cialdini/raw/"
@@ -207,8 +250,9 @@ experts:
 
   personal_business_story:
     - nome: "Matthew Dicks"
-      especialidade: "Personal Storytelling & Moth-Style Performance"
-      key_framework: "Five-Second Moment, Homework for Life, 5 Stakes Tools, But/Therefore rule"
+      especialidade: "Personal Storytelling Craft & Moth-Style Performance — #1 STORYTELLING SOURCE (437 elements)"
+      key_framework: "Five-Second Moment, Homework for Life, Story Thesis Statement, 12 Humor Strategies, Speaking Through Adjacency, Picture Book Method, Origin Story Assembly, 3 S's, 5 Story-Finding Games"
+      status: "PRIMARY SOURCE — Storyworthy Academy VIP (20 sections, 302 files)"
     - nome: "Kindra Hall"
       especialidade: "Business Storytelling & Brand Narrative"
       key_framework: "4 Stories Every Business Needs, Story Gap, Normal-Explosion-New Normal, Self-Stories CACI"

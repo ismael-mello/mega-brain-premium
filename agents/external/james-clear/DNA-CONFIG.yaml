@@ -1,0 +1,73 @@
+# ============================================================================
+# DNA-CONFIG: JAMES CLEAR
+# ============================================================================
+# Versão: 1.0.0
+# Tipo: SOLO (fonte única = peso 1.0)
+# Data: 2026-04-04
+# ============================================================================
+
+agent:
+  name: "James Clear"
+  slug: "james-clear"
+  type: "SOLO"
+  version: "2.0.0"
+
+dna_sources:
+  - person: "james-clear"
+    weight: 1.0
+    path: "knowledge/external/dna/persons/james-clear/DNA.yaml"
+    raiz: "knowledge/external/sources/james-clear/raw/"
+    domains:
+      - habit-formation
+      - behavior-change
+      - psychology
+      - performance
+      - personal-development
+      - productivity
+      - identity-change
+      - mastery
+    materiais_fonte:
+      - id: "JC-THA"
+        name: "The Habits Academy"
+        type: "COURSE"
+        lessons: 40
+        worksheets: 11
+        modules: 8
+        total_files: 216
+        date_processed: "2026-04-04"
+      - id: "JC-AH"
+        name: "Atomic Habits"
+        type: "BOOK"
+        pages: 256
+        chapters: 20
+        date_processed: "2026-04-04"
+
+dna_summary:
+  total_elements: 126
+  breakdown:
+    philosophies: 31
+    mental_models: 30
+    heuristics: 42
+    frameworks: 18
+    methodologies: 5
+  primary_domains:
+    - habit-formation
+    - behavior-change
+    - psychology
+    - performance
+    - personal-development
+    - identity-change
+    - mastery
+
+conflict_resolution:
+  strategy: "N/A ��� SOLO agent, single source (same author: course + book), no conflicts"
+
+navigation:
+  agent: "agents/external/james-clear/AGENT.md"
+  soul: "agents/external/james-clear/SOUL.md"
+  memory: "agents/external/james-clear/MEMORY.md"
+  dna: "knowledge/external/dna/persons/james-clear/DNA.yaml"
+  sources: "knowledge/external/sources/james-clear/"
+  raw: "knowledge/external/sources/james-clear/raw/"
+  inbox_course: "inbox/James Clear/James Clear - The Habits Academy/"
+  inbox_book: "inbox/James Clear/transcription_pdf_Atomic_habits_-_James_Clear.md"

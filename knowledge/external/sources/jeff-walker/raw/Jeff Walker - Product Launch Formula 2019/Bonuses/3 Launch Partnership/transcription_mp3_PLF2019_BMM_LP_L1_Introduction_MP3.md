@@ -1,0 +1,16 @@
+# Transcrição: PLF2019_BMM_LP_L1_Introduction_MP3
+
+- **Fonte:** PLF2019_BMM_LP_L1_Introduction_MP3
+- **Duração:** 03:23
+- **Idioma:** en
+- **Modelo:** small
+
+---
+
+## [00:00 - 03:03]
+
+So this is all about how to be a launch manager. How to help other people with their launches. How to take your knowledge of the product launch formula process and not launch your product but help someone else. So this is a thing it's a very real thing. Lots of people have done it. I've done it. It's something I did I think for the first time probably around 2004 2005 and then I continue to do it through 2008. I personally have made hundreds of thousands of dollars doing it and so I'm going to share this with you. Now there's three primary models that I've used that I've seen people use. I don't know maybe you could invent a new one but the three primary models is where you first of all one is where you actually partner with someone and you build a business with them. The other one is where you just act as a consultant or a coach and the third is where you're actually manage the project. Actually you're the product launch manager we call it the PLM. So all of these can be really good models. They can all be lucrative. They could be a way for you to get started in this world. You know if you don't have your first you know you haven't built your first product yet or it's the way you could build a serious business and I've seen people build a serious business and actually build teams around this. So it's a very real thing. It can be super lucrative. The thing is is there are some serious serious potential pitfalls things that could really mess you up and I've experienced most all of them and so what I'm going to be teaching you here in this in this series of videos is as much about the things to avoid as the things to do because really the model to use is product launch formula. We know that model works really really well. We've hundreds and thousands of people have launched success after success after success. So really this video series is not teaching you how to do PLF how to do product launch formula. You can go get that training from product launch formula. This is about how to work with other people in their launches and do it in a way so you create success for them and so you don't get burned and so that you actually get paid. Now as I sat down to work through this this presentation for you I just it went deeper and deeper and deeper. I just started to think about more and more and more lessons that I learned along the way and the things that worked and didn't work and so I ended up with this huge outline here so I'm going to I will be referring to my notes. This isn't going to be all off the top of my head because it gets it gets pretty dense in here so I'll be going back to my notes as we go through this so let me take a look and yeah like I
+
+## [03:03 - 03:23]
+
+said it's a great business. You can bring in thousands or tens of thousands or even hundreds of thousands of dollars in a relatively short period of time but you got to get it right. So in the next video I'm going to be talking about probably the number one most important thing which is client selection.

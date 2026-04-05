@@ -1,0 +1,1072 @@
+# ============================================================================
+# DNA COGNITIVO — MATTHEW DICKS
+# ============================================================================
+# Versão: 1.0.0
+# Fonte: Storyworthy Academy VIP (20 seções, ~302 arquivos)
+# Elementos: 437
+# Data: 2026-04-04
+# ============================================================================
+
+metadata:
+  person: Matthew Dicks
+  slug: matthew-dicks
+  version: "1.0.0"
+  total_elements: 437
+  sources:
+    - name: "Storyworthy Academy VIP"
+      type: COURSE
+      sections: 20
+      files: 302
+      language: en
+  domains:
+    - storytelling
+    - business-communication
+    - leadership
+    - humor
+    - presentation-design
+    - personal-development
+  last_updated: "2026-04-04"
+
+# ============================================================================
+# L1: FILOSOFIAS (Core Beliefs)
+# ============================================================================
+philosophies:
+  # --- STORYTELLING FUNDAMENTALS ---
+  - id: FIL-MD-001
+    title: "Story = Change Over Time"
+    content: "A story is about one thing: change. Change over time. Either transformation (I used to be one kind of person, now I'm different) or realization (I used to think one thing, now I think a new thing). A mere accounting of events is NOT a story."
+    source: "01-Storyworthy for Business/Module 3"
+    domain: storytelling
+
+  - id: FIL-MD-002
+    title: "Storytelling Is a Craft, Not an Art"
+    content: "Storytelling is not an art. It is a craft. It is a learned craft. What one man can do, another can do. You don't need a crazy life, special talent, or great facility with language."
+    source: "01-Storyworthy for Business/Module 1"
+    domain: storytelling
+
+  - id: FIL-MD-003
+    title: "Content Is King — Right Story > Well-Told Story"
+    content: "I would rather hear the right story told poorly than the wrong story told well. Finding stories is MORE important than telling them well. The storyteller with the most stories wins."
+    source: "01-Storyworthy for Business/Module 2"
+    domain: storytelling
+
+  - id: FIL-MD-004
+    title: "Nobody Wants to Hear You"
+    content: "Nobody cares about you. Customers operate on the principle that nobody wants to hear anything we have to say. The onus is always on us to give them a reason to want the next sentence."
+    source: "01-Storyworthy for Business/Module 1 + Module 3"
+    domain: storytelling
+
+  - id: FIL-MD-005
+    title: "Small Stories Are the Best Stories"
+    content: "The small moments of our lives, absent arrests and trials and car chases, are some of the best stories we can tell. Small moments are relatable moments. You don't need dinosaurs or Darth Vader."
+    source: "01-Storyworthy for Business/Module 1"
+    domain: storytelling
+
+  - id: FIL-MD-006
+    title: "Zig While Everyone Else Zags"
+    content: "Storytelling asks you to zig when everyone else is zagging. Corporate stories get shaved down until they become round, white, and flavorless. When you do what everyone else does, you will be forgettable."
+    source: "01-Storyworthy for Business/Module 1"
+    domain: storytelling
+
+  - id: FIL-MD-007
+    title: "Vulnerability Is the Secret Weapon"
+    content: "The hard thing and the right thing are almost always the same thing. People are craving truth in a world of idealized Instagram versions. It's when we're vulnerable that people connect with us, trust us, feel like they know us."
+    source: "01-Storyworthy for Business/Module 3"
+    domain: storytelling
+
+  - id: FIL-MD-008
+    title: "Stories Create Movies in the Mind"
+    content: "When we tell stories, what we're really trying to do is create a movie in the mind of our audience. We want the audience to forget who they are and where they are."
+    source: "01-Storyworthy for Business/Module 3"
+    domain: storytelling
+
+  - id: FIL-MD-009
+    title: "Don't Be Your Content — Be Yourself"
+    content: "People are not inspired by content. They're inspired by people. Don't be your content. Be yourself. You cannot afford to be round, white, and tasteless."
+    source: "01-Storyworthy for Business/Module 4"
+    domain: storytelling
+
+  - id: FIL-MD-010
+    title: "If It Means Something to You, It Can Mean Something to Others"
+    content: "I have a rule in storytelling: if it means something to you, it can mean something to other people. People walk through life filled with stories believing no one wants to hear them. This is a tragedy."
+    source: "01-Storyworthy for Business/Module 2"
+    domain: storytelling
+
+  - id: FIL-MD-011
+    title: "Storytelling Is a Life Skill, Not Just Business"
+    content: "This is not a business skill, this is a life skill. Employee buy-in is easy because people quickly see storytelling changes ALL aspects of their lives."
+    source: "01-Storyworthy for Business/Module 1"
+    domain: storytelling
+
+  - id: FIL-MD-012
+    title: "Storytelling Is Economically Cheap but Profoundly Valuable"
+    content: "Storytelling is cheap. No buildings, software, or new personnel needed. Everyone is already a storyteller — just doing it imperfectly. You want an army of employees telling great stories about your company."
+    source: "01-Storyworthy for Business/Module 1"
+    domain: storytelling
+
+  - id: FIL-MD-013
+    title: "Every Day We Don't Collect a Story, We Lose a Story"
+    content: "Every day that you live and you don't collect a story, you lose a story. We treat our days like they're worthless. We'll pick a quarter up off the ground but let meaningful moments go."
+    source: "01-Storyworthy for Business/Module 2"
+    domain: storytelling
+
+  # --- DEEPER PHILOSOPHY ---
+  - id: FIL-MD-014
+    title: "You Are Your Own Most Important Audience"
+    content: "The most important person we tell stories to is ourselves. The most important audience you have ever had in your entire life for the stories you tell is yourself."
+    source: "03-Finding Stories"
+    domain: personal-development
+
+  - id: FIL-MD-015
+    title: "Your Days Are Worth Holding Onto"
+    content: "The tragedy of our lives is this: we live our lives as if the days don't matter. We toss them away like they're meaningless."
+    source: "03-Finding Stories"
+    domain: personal-development
+
+  - id: FIL-MD-016
+    title: "Time Does Not Fly — We Let It Slip"
+    content: "Time does not fly by. Ask someone in prison if time flies. It slips through our fingers because we make no attempt to hold on to it."
+    source: "03-Finding Stories"
+    domain: personal-development
+
+  - id: FIL-MD-017
+    title: "You Are Not Special (and That's Liberating)"
+    content: "I'm not a unicorn. I don't live a more interesting life than anyone. You're just not that special. You live a life filled with stories and you've simply failed to see them."
+    source: "03-Finding Stories"
+    domain: personal-development
+
+  - id: FIL-MD-018
+    title: "Stories Define Who We Are"
+    content: "Citing Yuval Noah Harari: The self too is an imaginary story. We construct our lives, our understanding of our lives, and the meaning of our lives through the stories we have and tell."
+    source: "03-Finding Stories"
+    domain: personal-development
+
+  - id: FIL-MD-019
+    title: "Storytelling Is Decision Making, Not Talent"
+    content: "Storytelling is about decision making. It has nothing to do with your vocabulary, experience with stories, or writing ability."
+    source: "04-Anatomy of a Story Course"
+    domain: storytelling
+
+  - id: FIL-MD-020
+    title: "Reporting Is Not Storytelling"
+    content: "Most people don't understand what constitutes a story. Most often, instead of telling a story, people report on their lives."
+    source: "04-Anatomy of a Story Course"
+    domain: storytelling
+
+  - id: FIL-MD-021
+    title: "We Tell Bad Stories Because Our Audience Loves Us"
+    content: "99.999% of all stories you've ever told have been told to people who like and love you. As you tell a story poorly, you receive positive feedback."
+    source: "04-Anatomy of a Story Course"
+    domain: storytelling
+
+  - id: FIL-MD-022
+    title: "Imagination Is More Powerful Than Description"
+    content: "The power of your imagination will always be more powerful than any assemblage of words I can offer."
+    source: "04-Anatomy of a Story Course"
+    domain: storytelling
+
+  - id: FIL-MD-023
+    title: "Humor Is a Skill That Can Be Learned"
+    content: "I can teach you to be funny. Humor is a skill that can be learned."
+    source: "06-Humor Course Volume 1"
+    domain: humor
+
+  - id: FIL-MD-024
+    title: "Never End on a Laugh — End on Meaning"
+    content: "Don't end with a laugh. Do you want them thinking you can put words together cleverly? Or that you understand them, understand the world, taught them something?"
+    source: "06-Humor Course Volume 1"
+    domain: humor
+
+  - id: FIL-MD-025
+    title: "Laughter Changes Brain Chemistry"
+    content: "When you cause someone to laugh, their brain releases three chemicals that make them feel good, improve cognition, and make them feel better. The brain then attributes that good feeling to YOU."
+    source: "06-Humor Course Volume 1"
+    domain: humor
+
+  # --- LEADERSHIP & BUSINESS ---
+  - id: FIL-MD-026
+    title: "We Are Walking Hard Drives"
+    content: "Every person is an enormous pack of information. When we fail to share that information with people we love, we deny them the opportunity to know us. If we pass on, that information is lost forever."
+    source: "07-Storytelling for Parents Workshop"
+    domain: personal-development
+
+  - id: FIL-MD-027
+    title: "Children's Memories Are Our Responsibility"
+    content: "Most adults can't tell more than half a dozen memories before age 10. If we are not the preservers of our children's stories on their behalf, their childhood becomes scant and insubstantial."
+    source: "07-Storytelling for Parents Workshop"
+    domain: personal-development
+
+  - id: FIL-MD-028
+    title: "People Believe in People, Not Ideas"
+    content: "People don't believe in ideas; they believe in people who have ideas. If your talk is so bereft of YOU that it could be delivered by anyone, it might as well be delivered by no one."
+    source: "09-Perform Like Steve Jobs"
+    domain: business-communication
+
+  - id: FIL-MD-029
+    title: "Imperfection Is Authentic"
+    content: "Audiences prefer live, imperfect performances over sonically flawless pre-recorded ones. We are drawn to vulnerability and the bravery it requires."
+    source: "09-Perform Like Steve Jobs"
+    domain: business-communication
+
+  - id: FIL-MD-030
+    title: "Moments Become Stories; Stories Build Culture"
+    content: "Leaders who miss opportunities to make moments out of mundane events miss the chance to build organizational culture."
+    source: "15-Storytelling Strategies for Leadership"
+    domain: leadership
+
+  - id: FIL-MD-031
+    title: "Performances, Not Presentations"
+    content: "No one has ever wanted to attend a presentation. Everyone wants to attend a performance. A performance requires rehearsal."
+    source: "14-Building Impactful Decks"
+    domain: presentation-design
+
+  - id: FIL-MD-032
+    title: "Words First, Visuals Second"
+    content: "9 times out of 1,000, I have watched a team put together the words first and then determine what visuals are required. Everyone else builds slides first — that's backwards."
+    source: "14-Building Impactful Decks"
+    domain: presentation-design
+
+  - id: FIL-MD-033
+    title: "Every Product Lends Itself to Storytelling"
+    content: "If you can do it with a thumbtack, you can do it with anything. If anyone can pitch it, then no one should be pitching it."
+    source: "17-Business Time Archive"
+    domain: business-communication
+
+  - id: FIL-MD-034
+    title: "You Don't Have ONE Origin Story — You Have MANY"
+    content: "No one wants to eat a loaf of bread. They want a slice. Your mother is the only person who wants the whole story. Slice your origin story as thin as possible."
+    source: "20-The Origin Story Webinar"
+    domain: storytelling
+
+  - id: FIL-MD-035
+    title: "Stakes Are Necessary in ALL Stories"
+    content: "Without something at stake, it's just reporting on something anodyne. If the power goes out during your presentation and nobody cares, you have no stakes."
+    source: "18-Storytelling Q&A Archive"
+    domain: storytelling
+
+# ============================================================================
+# L2: MODELOS MENTAIS (Thinking Frameworks)
+# ============================================================================
+mental_models:
+  - id: MM-MD-001
+    title: "The Five-Second Moment"
+    content: "Almost every single moment of change in our lives happens in approximately five seconds. One second you think one thing, the next you think a new thing. This moment is ALWAYS the end of the story."
+    source: "01-Module 3 + 04-Anatomy"
+    domain: storytelling
+
+  - id: MM-MD-002
+    title: "Story as Puzzle Building"
+    content: "Telling true stories is puzzle building, not creation. I have an enormous pile of facts and must choose which to include, exclude, and what order to tell them in."
+    source: "01-Module 3"
+    domain: storytelling
+
+  - id: MM-MD-003
+    title: "The Coat Metaphor (Story Stickiness)"
+    content: "Stories are coats. When we tell a story, we're putting a coat on our audience. The sooner they can take it off, the sooner they forget you. Leave unanswered questions = hard to remove the coat."
+    source: "01-Module 3"
+    domain: storytelling
+
+  - id: MM-MD-004
+    title: "The Laser vs. The Net"
+    content: "Broad prompts cast a wide net and you tell the same old story. Specific/narrow prompts act as a laser pointer through your life, revealing NEW stories hidden in your past."
+    source: "01-Module 2 + 03-Finding Stories"
+    domain: storytelling
+
+  - id: MM-MD-005
+    title: "The High Dive Model"
+    content: "You can watch 1,000 people go off a high dive safely, but it's still terrifying when it's your turn. Fear of storytelling is normal and human."
+    source: "01-Module 1"
+    domain: storytelling
+
+  - id: MM-MD-006
+    title: "Takeoff and Landing"
+    content: "Storytelling is like flying. The two moments you're most afraid of is the takeoff and the landing. If you nail the beginning and the end, the middle can be messy and people will forget."
+    source: "01-Module 3"
+    domain: storytelling
+
+  - id: MM-MD-007
+    title: "Stories as Arguments"
+    content: "I often describe stories as arguments. Each emotional beat is an argument you're making to the audience. I'm arguing that I'm sad. I want to argue so strongly that you kind of feel sad too."
+    source: "01-Module 4"
+    domain: storytelling
+
+  - id: MM-MD-008
+    title: "You're Not Steve Jobs (Unknown Quantity)"
+    content: "Steve Jobs could present without personal stories because he was a KNOWN quantity. You are a mystery. You must make yourself known first. Only then will people believe in what you offer."
+    source: "01-Module 4"
+    domain: business-communication
+
+  - id: MM-MD-009
+    title: "The Curse of Knowledge"
+    content: "You know things your audience doesn't. Identify blind spots — areas of expertise that create disconnection. Either eliminate jargon or mitigate with metaphors."
+    source: "01-Module 7"
+    domain: business-communication
+
+  - id: MM-MD-010
+    title: "Maximum Optionality = Maximum Humor"
+    content: "Humor hides in places of greatest choice. Where you have the most options about what to say (description, backstory, internal dialogue, lists), humor is easiest to find."
+    source: "06-Humor Course"
+    domain: humor
+
+  - id: MM-MD-011
+    title: "The Power Goes Out Test"
+    content: "If the power went out in the middle of your story, would the audience come back tomorrow to hear the rest? If not, you have failed to keep them in suspense."
+    source: "04-Anatomy of a Story"
+    domain: storytelling
+
+  - id: MM-MD-012
+    title: "Stories as Living Beings"
+    content: "A story is never truly finished. It changes through audience feedback, through being told to different groups. Think about your story as a living being."
+    source: "04-Anatomy of a Story"
+    domain: storytelling
+
+  - id: MM-MD-013
+    title: "Nouns Over Adjectives"
+    content: "I despise adjectives and avoid them whenever possible. Instead, I rely on clear nouns and allow the audience to envision them on their own. Location nouns come pre-loaded with thousands of automatic adjectives."
+    source: "04-Anatomy + 01-Module 3"
+    domain: storytelling
+
+  - id: MM-MD-014
+    title: "Drone's Eye View vs. Narrow Lens"
+    content: "Bad storytelling uses drone's eye view ('Charlie and I are in a sporting goods store'). Good storytelling uses narrow lens ('I'm walking down a linoleum aisle with a hand in my hand') that slowly expands."
+    source: "16-Story Time Archive"
+    domain: storytelling
+
+  - id: MM-MD-015
+    title: "The Elephant (Changing Colors)"
+    content: "The audience's perception of what the story is about can be deliberately shifted. You trick the audience into agreeing with you, then show them they're wrong because you were wrong."
+    source: "16-Story Time Archive"
+    domain: storytelling
+
+  - id: MM-MD-016
+    title: "6-to-1 Ratio"
+    content: "Science says you need 6 positive statements to counteract 1 negative. Our prehistoric brains are wired to remember negative far more than positive. Deliberately flood the zone with positive stories."
+    source: "07-Parents Workshop"
+    domain: leadership
+
+  - id: MM-MD-017
+    title: "Protagonist/Antagonist in Business"
+    content: "Protagonist = us/customer. Antagonist = the problem we're fighting (not always the competitor). For thumbtacks: gravity. For lawnmowers: 'lawnmowing sucks.' For French fries: parents who prevent kids from eating them."
+    source: "17-Business Time Archive"
+    domain: business-communication
+
+  - id: MM-MD-018
+    title: "The Swiss Army Knife of Origin Stories"
+    content: "Having a multitude of origin story slices means you can reassemble them differently for every audience. The person with $5,000 to invest gets a different story than the person with $15 million."
+    source: "20-Origin Story Webinar"
+    domain: business-communication
+
+  - id: MM-MD-019
+    title: "Black Box vs. Transparent Leader"
+    content: "Black box leaders talk only about work, never reveal personal details — they're monoliths. Transparent leaders share stories about themselves and inspire trust."
+    source: "15-Leadership Strategies"
+    domain: leadership
+
+  - id: MM-MD-020
+    title: "The Moment-Making Lens"
+    content: "Before any routine task, ask: Which one of these can be made into something special, something meaningful, something people will never forget?"
+    source: "15-Leadership Strategies"
+    domain: leadership
+
+# ============================================================================
+# L3: HEURISTICAS (Practical Rules)
+# ============================================================================
+heuristics:
+  # --- HOMEWORK FOR LIFE ---
+  - id: HEUR-MD-001
+    title: "8% Rule"
+    content: "~8% of homework for life entries become full stage-ready stories. The other 92% are still valuable as anecdotes, jokes, memories, or pattern-revealing data points."
+    source: "01-Module 2"
+    domain: storytelling
+    numeric: true
+    threshold: "8%"
+
+  - id: HEUR-MD-002
+    title: "5 Minutes Per Day"
+    content: "Homework for life takes approximately 5 minutes per day. You'll give over an hour to some TV show you'll forget, but you won't give me five minutes to change your life."
+    source: "01-Module 2"
+    domain: storytelling
+    numeric: true
+    threshold: "5 min/day"
+
+  - id: HEUR-MD-003
+    title: "~100 Entries Per Spreadsheet"
+    content: "Write approximately 100 entries before starting a new spreadsheet, then review old ones with distance."
+    source: "01-Module 2"
+    domain: storytelling
+    numeric: true
+    threshold: "100 entries"
+
+  - id: HEUR-MD-004
+    title: "1.2 to 7.3 Moments Per Day (Growth)"
+    content: "In 2015: 1.2 moments/day. By 2021: 7.3 moments/day. Goal: 15/day in 10 years. The lens sharpens with practice."
+    source: "03-Finding Stories"
+    domain: storytelling
+    numeric: true
+    threshold: "1.2 → 7.3/day"
+
+  - id: HEUR-MD-005
+    title: "6-Month Faith Horizon"
+    content: "Homework for life requires approximately 6 months before you see transformational results."
+    source: "01-Module 2"
+    domain: storytelling
+    numeric: true
+    threshold: "6 months"
+
+  - id: HEUR-MD-006
+    title: "3-5 Sentences Maximum Per Entry"
+    content: "Write no more than 3-5 sentences per homework for life entry. If it's not simple, you'll skip a day."
+    source: "03-Finding Stories"
+    domain: storytelling
+    numeric: true
+    threshold: "3-5 sentences"
+
+  - id: HEUR-MD-007
+    title: "Wait 200-300 Entries Before Reviewing"
+    content: "Let 200-300 entries accumulate before reviewing for stage-worthy stories. Time shows what's important."
+    source: "03-Finding Stories"
+    domain: storytelling
+    numeric: true
+    threshold: "200-300 entries"
+
+  - id: HEUR-MD-008
+    title: "700+ Untold Stories Backlog"
+    content: "Matthew's current backlog of uncrafted story ideas is 700+ items long."
+    source: "03-Finding Stories"
+    domain: storytelling
+    numeric: true
+    threshold: "700+"
+
+  - id: HEUR-MD-009
+    title: "~10% Stage / ~35% Conversational / 55%+ Private"
+    content: "Less than 10% of entries end up on stage. 30-40% become conversational stories. More than 50% are never shared."
+    source: "03-Finding Stories"
+    domain: storytelling
+    numeric: true
+    threshold: "10/35/55"
+
+  # --- STORY STRUCTURE ---
+  - id: HEUR-MD-010
+    title: "10-Minute Buy-In Rule"
+    content: "Within 10 minutes of a storytelling presentation, even the most skeptical, arms-folded audience members are leaning forward."
+    source: "01-Module 1"
+    domain: storytelling
+    numeric: true
+    threshold: "10 min"
+
+  - id: HEUR-MD-011
+    title: "2-Hour vs 5-Hour Movie Test"
+    content: "Given two A+ movies — one 2 hours, one 5 hours — people ALWAYS choose shorter. They want the 5-hour movie packed into 2 hours."
+    source: "01-Module 3"
+    domain: storytelling
+    numeric: true
+    threshold: "shorter = better"
+
+  - id: HEUR-MD-012
+    title: "Start As Close to the End As Possible"
+    content: "Kurt Vonnegut's rule: Start as close to the end as possible. It shortens the story, heightens drama, eliminates irrelevant content."
+    source: "01-Module 3 + 04-Anatomy"
+    domain: storytelling
+
+  - id: HEUR-MD-013
+    title: "Location + Action Opens Every Story"
+    content: "Every story must begin with exactly two elements: LOCATION (activates mind's eye) + ACTION (something happening). Never start with exposition."
+    source: "01-Module 3 + 04-Anatomy"
+    domain: storytelling
+
+  - id: HEUR-MD-014
+    title: "End with See-Feel-Think (In That Order)"
+    content: "At the five-second moment: describe what you SEE, tell what you FEEL, tell what you THINK. All three, in that order."
+    source: "04-Anatomy"
+    domain: storytelling
+
+  - id: HEUR-MD-015
+    title: "Leave a Little Unsaid at the End"
+    content: "Stories wrapped in perfect bows allow the audience to disengage entirely. Leave some rope frayed. The coat stays on longer."
+    source: "04-Anatomy"
+    domain: storytelling
+
+  - id: HEUR-MD-016
+    title: "Third Person = Last Resort"
+    content: "Third person is the ugly stepchild. First person > second person > third person. Limit third person only to objects."
+    source: "01-Module 5"
+    domain: storytelling
+
+  - id: HEUR-MD-017
+    title: "Be the Last Person to Speak"
+    content: "When in a room, try to be the last person to speak. Purpose: (1) control your mouth, (2) gather information to choose the most connecting thing to say."
+    source: "01-Module 4 + 13-Subtle Storytelling"
+    domain: storytelling
+
+  - id: HEUR-MD-018
+    title: "Never Say 'Little Did I Know'"
+    content: "Never say 'little did I know that four years later' because we tell stories about moments, not moments where we have vision to the future."
+    source: "04-Anatomy"
+    domain: storytelling
+
+  - id: HEUR-MD-019
+    title: "Kill Your Darlings"
+    content: "Details personally relevant to you but irrelevant to the thesis statement must be cut. If they don't serve the thesis, they go."
+    source: "04-Anatomy"
+    domain: storytelling
+
+  - id: HEUR-MD-020
+    title: "Remember, Don't Memorize"
+    content: "Memorized word-chains break when you forget one link. Instead memorize: first few lines, tricky transitions, key jokes, last few lines. Remember scenes."
+    source: "04-Anatomy + 16-Story Time"
+    domain: storytelling
+
+  # --- HUMOR ---
+  - id: HEUR-MD-021
+    title: "First 30-60 Seconds Must Include a Laugh"
+    content: "Making people laugh in the first 30-60 seconds signals competence, puts audience at ease, triggers dopamine/trust response."
+    source: "06-Humor Course"
+    domain: humor
+    numeric: true
+    threshold: "30-60 sec"
+
+  - id: HEUR-MD-022
+    title: "Exaggeration Only When Audience Knows"
+    content: "Exaggeration = humor only when the audience KNOWS you're exaggerating. 'He's nine feet tall' = funny (obviously false). If they might believe it, it's just a lie."
+    source: "01-Module 6 + 06-Humor Course"
+    domain: humor
+
+  - id: HEUR-MD-023
+    title: "Humor Before Pain, Humor After Pain"
+    content: "Make them laugh just before something terrible happens (heightens the pain). Make them laugh just after (permission to breathe)."
+    source: "06-Humor Course"
+    domain: humor
+
+  - id: HEUR-MD-024
+    title: "Never End on a Laugh"
+    content: "Nobody starts a story hoping to get a pun at the end. They want to feel something. End on meaning."
+    source: "06-Humor + 10-Story Breakdown + 16-Story Time"
+    domain: humor
+
+  # --- BUSINESS & PRESENTATION ---
+  - id: HEUR-MD-025
+    title: "5 Words or Less Per Slide"
+    content: "Steve Jobs standard: 5 words or less per slide. Slides support the story, they don't tell it."
+    source: "09-Steve Jobs + 14-Impactful Decks"
+    domain: presentation-design
+    numeric: true
+    threshold: "5 words/slide"
+
+  - id: HEUR-MD-026
+    title: "Multiple Clicks Per Slide"
+    content: "Bring elements in one at a time. Never reveal everything at once. Never fear clicking."
+    source: "14-Impactful Decks"
+    domain: presentation-design
+
+  - id: HEUR-MD-027
+    title: "If Slides Can Be Shuffled, You're Not Telling a Story"
+    content: "As soon as you can shuffle the order of slides in your deck, you're no longer telling a story. You're doing a book report."
+    source: "14-Impactful Decks"
+    domain: presentation-design
+
+  - id: HEUR-MD-028
+    title: "6:1 Positive to Negative Ratio"
+    content: "Six positive statements needed to counteract one negative. Apply when giving feedback: 5 positive comments, then couch the critique as a 'maybe.'"
+    source: "07-Parents Workshop"
+    domain: leadership
+    numeric: true
+    threshold: "6:1"
+
+  - id: HEUR-MD-029
+    title: "Don't Judge What You Write Down"
+    content: "We don't deem entries as boring or unstoryworthy. The barbecue that seemed boring became the opening scene of a powerful divorce story."
+    source: "03-Finding Stories"
+    domain: storytelling
+
+  - id: HEUR-MD-030
+    title: "Never Open with a Quote or Epigraph"
+    content: "Nobody remembers it by the end. Wasted words."
+    source: "18-Q&A Archive"
+    domain: storytelling
+
+  - id: HEUR-MD-031
+    title: "Never Open with 'I'm Going to Tell You a Story About...'"
+    content: "Just tell the story. Immerse them immediately."
+    source: "16-Story Time + 18-Q&A"
+    domain: storytelling
+
+  - id: HEUR-MD-032
+    title: "The Most Important Word Goes Last"
+    content: "'The first person to arrive at the hospital that day was my best friend Benji' — not 'Benji was the first person.'"
+    source: "10-Story Breakdown"
+    domain: storytelling
+
+  - id: HEUR-MD-033
+    title: "First and Last Names Make People Real"
+    content: "A first and last name makes a person feel alive and real. 'Linda Diaz' vs 'a coworker.'"
+    source: "10-Story Breakdown"
+    domain: storytelling
+
+  - id: HEUR-MD-034
+    title: "The Shortest Version Is Always the Best Version"
+    content: "Always. No exceptions."
+    source: "16-Story Time + 18-Q&A"
+    domain: storytelling
+
+  - id: HEUR-MD-035
+    title: "Never Say the Word 'Stuff'"
+    content: "It leaves the audience wondering what it actually was. Use specificity."
+    source: "16-Story Time"
+    domain: storytelling
+
+  - id: HEUR-MD-036
+    title: "Callbacks Create Recognition Laughs"
+    content: "Bring back a character/detail from earlier. The laugh of recognition is powerful."
+    source: "10-Story Breakdown"
+    domain: humor
+
+  - id: HEUR-MD-037
+    title: "Hide Critical Information in a Laugh"
+    content: "When people laugh at something, they don't think it's important. They absorb it but don't place importance upon it."
+    source: "10-Story Breakdown"
+    domain: storytelling
+
+  - id: HEUR-MD-038
+    title: "Hide Information in a List"
+    content: "Place the critical element as one of many, not one of one. Surround it with other items so it doesn't stand out."
+    source: "10-Story Breakdown"
+    domain: storytelling
+
+  - id: HEUR-MD-039
+    title: "Low Addressable Market + High Intensity = Deepest Connections"
+    content: "Golf, running, CrossFit, unusual life events. High market + high intensity = safest connections (parenting, marriage)."
+    source: "13-Subtle Storytelling"
+    domain: business-communication
+
+  - id: HEUR-MD-040
+    title: "Nostalgia Is Always Powerful"
+    content: "Nostalgia is so powerful — use it all the time. Easy way to make people feel good and want something."
+    source: "17-Business Time"
+    domain: business-communication
+
+  - id: HEUR-MD-041
+    title: "Contrast Is Super Powerful"
+    content: "Say what something is NOT, rather than what it IS. 'He could be this, but instead he's that.'"
+    source: "17-Business Time"
+    domain: storytelling
+
+  - id: HEUR-MD-042
+    title: "Slow Down at the End"
+    content: "We speak slowly at the end of every story, like a train slowing into the station. Signals the most important thing is coming."
+    source: "10-Story Breakdown"
+    domain: storytelling
+
+  - id: HEUR-MD-043
+    title: "Lists of 20+, Choose 3"
+    content: "Make lists of 20+ examples, then strategically choose 3. First = weird, Second = sentimental, Third = hilarious."
+    source: "16-Story Time"
+    domain: storytelling
+
+  - id: HEUR-MD-044
+    title: "Practice Out Loud"
+    content: "Speaking out loud engages the brain more meaningfully. Primary rehearsal: shower, car, bike."
+    source: "16-Story Time + 04-Anatomy"
+    domain: storytelling
+
+  - id: HEUR-MD-045
+    title: "30 Minutes of Workday for Recognition"
+    content: "Carve out 30 minutes for honoring/recognition ceremonies. Culture is built in these moments."
+    source: "15-Leadership"
+    domain: leadership
+    numeric: true
+    threshold: "30 min/day"
+
+# ============================================================================
+# L4: FRAMEWORKS (Structured Processes)
+# ============================================================================
+frameworks:
+  # --- CORE STORY STRUCTURE ---
+  - id: FW-MD-001
+    title: "The Story Thesis Statement"
+    content: |
+      Formula: "I used to be [X] / think [X] and then some stuff happened and now I am [Y] / think [Y]."
+      Steps:
+      1. Find the five-second moment of change (= END)
+      2. Ask: "What is the OPPOSITE of the end?" (= BEGINNING)
+      3. Beginning and end are in conversation/opposition
+      4. Everything in the middle must serve this frame
+    source: "01-Module 3 + 04-Anatomy"
+    domain: storytelling
+
+  - id: FW-MD-002
+    title: "Beginning Rules (Location + Action)"
+    content: |
+      Every story beginning needs exactly two elements:
+      1. LOCATION — Activates mind's eye, brings 1,000 free adjectives
+      2. ACTION — Something is happening (never start with exposition)
+      AVOID: Exposition before the story starts
+      RULE: Start as close to the end as possible (Vonnegut)
+    source: "01-Module 3 + 04-Anatomy"
+    domain: storytelling
+
+  - id: FW-MD-003
+    title: "Ending Rules (Show Then Tell)"
+    content: |
+      1. Show it before you say it — let audience experience the moment
+      2. End in the heart of the storyteller — always internal
+      3. Create wonder — leave some questions unanswered
+      4. Signal the ending — slow pacing, quieter voice
+      5. Reestablish location before delivering final meaning
+    source: "01-Module 3 + 04-Anatomy + 18-Q&A"
+    domain: storytelling
+
+  - id: FW-MD-004
+    title: "Scene-Based Storytelling"
+    content: |
+      Structure stories as a sequence of physical locations:
+      - At EVERY moment, audience must identify physical location
+      - Each scene starts with location + action
+      - Use scenes to REMEMBER your story (not memorize)
+      - Each scene should start as close to its end as possible
+      - Even single-room stories can have multiple scenes
+    source: "01-Module 3"
+    domain: storytelling
+
+  - id: FW-MD-005
+    title: "The Surprise Protection System"
+    content: |
+      Setup Phase (hide info in plain sight):
+      1. Give critical info a REASON to be in the story (not the real reason)
+      2. Put it in a LIST of other things
+      3. Make it FUNNY (laughed-at things seem unimportant)
+      Delivery Phase:
+      4. LIE first, then tell truth — confirm expectation, then upend it
+      5. Allow surprise to SETTLE — let audience put it together
+    source: "01-Module 4"
+    domain: storytelling
+
+  - id: FW-MD-006
+    title: "Emotional Mapping"
+    content: |
+      Before telling any story:
+      1. Identify how YOU felt at each scene/beat
+      2. Ask: "How can I convince my audience to feel the same?"
+      3. Map emotions scene by scene (sad → annoyed → joyful → hopeful)
+      4. Treat each emotional beat as an "argument" you must win
+    source: "01-Module 4"
+    domain: storytelling
+
+  - id: FW-MD-007
+    title: "The Subtle Sharing Inventory"
+    content: |
+      1. Identify relatable traits (parent, pet owner, sports fan, hometown)
+      2. Take each trait through MULTIPLE LEVELS of depth
+      3. In any room, be SILENT first — gather information
+      4. Choose what to share based on what you've LEARNED
+      5. Drip personal data naturally into every interaction
+      Categories: family, pets, hobbies, hometown, sports, fears, quirks
+    source: "01-Module 4 + 13-Subtle Storytelling"
+    domain: business-communication
+
+  - id: FW-MD-008
+    title: "Five Humor Techniques for Storytelling"
+    content: |
+      1. Nostalgia — Reference how things used to be done
+      2. One of These Things — 2 matching items + 1 wildly different
+      3. Definitions — Distill something to unexpected essence
+      4. Exaggeration — Make something so outlandish audience knows it's false
+      5. Metaphor — Describe something in a way it's never been described
+    source: "01-Module 6 + 06-Humor Course"
+    domain: humor
+
+  - id: FW-MD-009
+    title: "Extended Humor Arsenal (12 Strategies)"
+    content: |
+      Core 5: Nostalgia, One of These Things, Definitions, Exaggeration, Metaphor
+      Extended:
+      6. Prediction — Predict a plausible but funny false future
+      7. Specificity — More specific = funnier (even if nobody laughs, you're just describing)
+      8. Internal Dialogue — Maximum optionality, can report "thinking" anything
+      9. Act-Outs — Reenact intense moments rather than narrating
+      10. Humor in Lists — Insert one funny item into required lists
+      11. Regroup — Pause to summarize, picking funny skeletal remains
+      12. Humor as Distraction — Use laughter to make info seem throwaway
+    source: "04-Anatomy + 05-Humor Workshop + 06-Humor Course"
+    domain: humor
+
+  - id: FW-MD-010
+    title: "Four Delivery Requirements for Humor"
+    content: |
+      1. Confidence — If you don't believe it's funny, they won't
+      2. Armor — Not everything will land. Thick skin required
+      3. Disdain — When it IS funny and they don't laugh, hate them and move on
+      4. Ears — Listen to when people laugh and ask "what caused that?"
+    source: "06-Humor Course"
+    domain: humor
+
+  - id: FW-MD-011
+    title: "Three Story Chronologies"
+    content: |
+      1. ABC — Chronological (beginning to end). For short stories. Used 50%+ of time.
+      2. B-A-bC — Start in middle, go back to beginning, return to middle, proceed to end. For long stories.
+      3. C-A-BC — Start at end, go to beginning, proceed to end. Only when ending is compelling enough. ~10% of time.
+    source: "04-Anatomy"
+    domain: storytelling
+
+  - id: FW-MD-012
+    title: "The 3 S's (Stakes, Suspense, Surprise)"
+    content: |
+      Stakes — What's at risk? Must escalate throughout the story
+      Suspense — Strategic inclusion + exclusion of information (say some but not all)
+      Surprise — Reproduce your surprise for the audience (don't spoil it)
+    source: "04-Anatomy"
+    domain: storytelling
+
+  # --- BUSINESS & LEADERSHIP ---
+  - id: FW-MD-013
+    title: "Speaking Through Adjacency (STA)"
+    content: |
+      1. Identify theme/meaning/message of your content
+      2. Find a personal story that matches the theme (not the content directly)
+      3. Tell the story FIRST without explaining why
+      4. Audience is entertained, wondering "where is this going?"
+      5. Pivot — connect the story to the message (aha! moment)
+      CRITICAL: Story BEFORE Message (not after)
+    source: "12-Speaking Through Adjacency"
+    domain: business-communication
+
+  - id: FW-MD-014
+    title: "11 Steve Jobs Presentation Lessons"
+    content: |
+      1. Demonstrate confidence from the start
+      2. Set stakes early, build stakes
+      3. Use "I" stories (not "we")
+      4. Prepare for mistakes and recovery
+      5. Historical journey (universe building)
+      6. Utilize repetition
+      7. Content ordering matters
+      8. Minimalist slides (5 words or less)
+      9. Leverage surprise and suspense
+      10. Make 'em laugh
+      11. Use everyday language
+    source: "09-Perform Like Steve Jobs"
+    domain: presentation-design
+
+  - id: FW-MD-015
+    title: "Deck Building (Picture Book Method)"
+    content: |
+      1. Start with text/story, then add visuals (never reverse)
+      2. Study children's picture books for attention management
+      3. Every slide must make audience want to see the next
+      4. 5-8 words max per slide
+      5. Multiple clicks per slide (reveal elements one at a time)
+      6. Create mental schemas/buckets ("I have four reasons...")
+      7. Slides must be sequential (if shuffleable, not a story)
+      8. Use humor (changes brain chemistry)
+      9. Put yourself into the presentation
+      10. Close personally and full circle
+    source: "14-Building Impactful Decks"
+    domain: presentation-design
+
+  - id: FW-MD-016
+    title: "3 Leadership Storytelling Strategies"
+    content: |
+      1. Make Moments from the Mundane — Turn ordinary tasks into memorable events with ceremony, surprise, suspense
+      2. Honor People Through Artifacts — Name rooms, plaques, parking spots after people. Create physical markers for stories
+      3. Make Yourself Known — T-chart: left = what employees know about you; right = what they don't. Tell stories from the right column
+    source: "15-Leadership Strategies"
+    domain: leadership
+
+  - id: FW-MD-017
+    title: "Business Storytelling Process"
+    content: |
+      1. Mine personal stories about the product/service
+      2. Identify stakes — who's the enemy? What misconception?
+      3. Tell stories (yours and others') to find the "underneath"
+      4. Extract big ideas (typically 2-3 themes emerge)
+      5. Pick strongest theme or test all three
+      6. Remove yourself for generic campaigns, or keep for personal pitches
+      7. Add suspense, surprise, humor from storytelling toolkit
+    source: "17-Business Time Archive"
+    domain: business-communication
+
+  - id: FW-MD-018
+    title: "3 Origin Story Strategies"
+    content: |
+      1. Chronological Expansion — Trace back as far as possible. Early stories = best.
+      2. Context Switching — Find other universes where you used the same skills.
+      3. Interview Others — Ask people: "Tell me things about myself I don't know."
+      Then: Slice as thin as possible. 25+ moments. Assemble differently for each audience.
+    source: "20-Origin Story Webinar"
+    domain: business-communication
+
+  - id: FW-MD-019
+    title: "Subtle Storytelling 3 Strategies"
+    content: |
+      1. Strategic Listening — Be last to speak, listen for theme beneath content, match empathy not content
+      2. Personal Interest Inventory — Spreadsheet: Topic | Status | Addressable Market | Intensity. Drip personal data.
+      3. Subtext — Clothing choices, signage, email tone, workspace design all send messages.
+    source: "13-The Art of Subtle Storytelling"
+    domain: business-communication
+
+  - id: FW-MD-020
+    title: "Legacy Creation System (for Parents)"
+    content: |
+      1. Greetings Little One (daily blog/journal to children)
+      2. Photos on the Fridge (rotating every 3 months)
+      3. Electronic Photo Frames (constantly updating)
+      4. Moments of Note (running list per season/year)
+      5. Ice Cream Adventures (documented family outings)
+      6. Best Part of Your Day (dinner ritual)
+    source: "07-Parents Workshop"
+    domain: personal-development
+
+# ============================================================================
+# L5: METODOLOGIAS (Step-by-Step Approaches)
+# ============================================================================
+methodologies:
+  - id: MET-MD-001
+    title: "Homework for Life"
+    content: |
+      THE single most important practice in the entire system.
+      1. Create spreadsheet (2 columns: Date | Moment)
+      2. End of each day: "What was the most story-worthy moment today?"
+      3. Write ONLY enough to remember (3-5 sentences, NOT a journal)
+      4. Mental prompt: "Someone kidnapped my family — tell a story about today"
+      5. Do this EVERY DAY for the rest of your life
+      6. Review after ~100 entries (with distance)
+      7. Over time, record throughout the day (phone → spreadsheet at night)
+      Results: Develops "lens" in ~6 months. Reveals patterns. Cracks open past memories.
+      Goal: 1 story/month. Actual: hundreds/year. 8% become stage stories.
+    source: "01-Module 2 + 03-Finding Stories"
+    domain: storytelling
+
+  - id: MET-MD-002
+    title: "First, Last, Best, Worst"
+    content: |
+      1. Take a PROMPT word (kiss, teacher, pet, injury, boss, friend, or ANY)
+      2. For each prompt: identify FIRST [X], LAST [X], BEST [X], WORST [X]
+      3. Fill boxes (multiple per box OK, blanks OK)
+      4. Circle any item you could talk about for 20 sec to 20 min
+      5. Key: "Did you recover a memory from the past?"
+      6. Items in MORE THAN ONE box = likely story
+      7. Play anytime: meetings, driving, idle moments
+    source: "01-Module 2 + 03-Finding Stories"
+    domain: storytelling
+
+  - id: MET-MD-003
+    title: "3-2-1 (Story Discovery Game)"
+    content: |
+      1. Get 3 random tangible nouns (perchance.org/object or audience)
+      2. 1 minute to prepare
+      3. 2 minutes max to tell a story
+      4. Start with HARDEST prompt (most likely to surface new story)
+      5. Use First/Last/Best/Worst to scan life through each prompt
+      6. Check multiple meanings of each word
+      7. Open with location + action, know your ending before starting
+    source: "01-Module 2 + 19-3-2-1 Archive"
+    domain: storytelling
+
+  - id: MET-MD-004
+    title: "Where Oh Where (Location Mining)"
+    content: |
+      1. Choose a location type (kitchen, post office, school, bedroom)
+      2. List every specific instance of that location you've ever occupied
+      3. Mentally place yourself inside each location. Look around.
+      4. Ask: "What ever happened here that might be story-worthy?"
+      5. Record stories found. Add to Homework for Life.
+    source: "01-Module 2 + 03-Finding Stories"
+    domain: storytelling
+
+  - id: MET-MD-005
+    title: "Lost and Found (Objects as Story Keys)"
+    content: |
+      1. List all objects you have lost, misplaced, thrown away, or wish you still had
+      2. For each object, notice the story attached to it
+      3. Spend a week building the list
+      4. Accept most will be bittersweet or heartbreaking
+      5. Add to Homework for Life
+    source: "01-Module 2 + 03-Finding Stories"
+    domain: storytelling
+
+  - id: MET-MD-006
+    title: "Why Do You Do the Things You Do?"
+    content: |
+      1. Notice when you do something odd, habitual, inexplicable
+      2. PAUSE and ask: "Why do I do the things that I do?"
+      3. The answer is almost always a story — often deeply personal
+      4. These are "stories you have to tell yourself first"
+      5. Daily practice: 10 minutes sitting alone, thinking about yourself
+    source: "01-Module 2"
+    domain: personal-development
+
+  - id: MET-MD-007
+    title: "Story Crafting Process (Full 12-Step)"
+    content: |
+      1. Identify five-second moment (instant of change/realization)
+      2. Write thesis: "I used to [X], now I [Y]"
+      3. Find opposite of ending = beginning
+      4. Apply Vonnegut: start as close to end as possible
+      5. Open with location + action. Zero exposition.
+      6. Choose chronology (ABC, B-A-bC, or C-A-BC)
+      7. Break into scenes (each with physical location)
+      8. Map stakes (escalating), suspense, surprise on worksheet
+      9. Kill darlings — cut anything not serving thesis
+      10. Add humor in areas of maximum optionality
+      11. Speak aloud first, then write. Record. Listen while doing chores.
+      12. Tell to kind person first. Iterate based on reactions.
+    source: "04-Anatomy of a Story"
+    domain: storytelling
+
+  - id: MET-MD-008
+    title: "Storyboard Panels Method"
+    content: |
+      1. Use blank comic book page templates
+      2. Draw each SCENE as a panel (stick figures fine)
+      3. Identify location and characters in each panel
+      4. Write key phrases you don't want to forget
+      5. Write transitions BETWEEN panels
+      Result: Single-page visual representation of entire story
+    source: "01-Module 3"
+    domain: storytelling
+
+  - id: MET-MD-009
+    title: "Personal-to-Business Story Bridge"
+    content: |
+      1. Find personal stories through HFL / FLBW / 3-2-1 / Why
+      2. When facing business need (pitch, presentation, marketing): "Do I have a personal story that connects?"
+      3. Use personal story as entry point/metaphor
+      4. Bridge to business content
+      5. Key: "You already have the stories. We find ways to integrate them."
+    source: "01-Module 2"
+    domain: business-communication
+
+  - id: MET-MD-010
+    title: "Origin Story Assembly"
+    content: |
+      1. Expand time horizon (go as far back as possible)
+      2. List EVERY moment/step on the path (aim for 25+)
+      3. Context switch across all life roles and environments
+      4. Interview 3+ people who know you well
+      5. For each audience, select 2-3 slices matching their needs
+      6. Connect slices in different orders for different audiences
+      7. Practice each slice as standalone 2-3 minute story
+      8. Your origin story is a LIVING narrative that evolves
+    source: "20-Origin Story Webinar"
+    domain: business-communication
+
+  - id: MET-MD-011
+    title: "T-Chart Leadership Exercise"
+    content: |
+      1. Draw T-chart: left = what employees know about you; right = what they don't
+      2. Identify gaps
+      3. Begin sharing stories from the right column
+      4. Focus on: struggles, failures, embarrassments, hobbies, family
+    source: "15-Leadership Strategies"
+    domain: leadership
+
+  - id: MET-MD-012
+    title: "Business Anthropologist Approach"
+    content: |
+      1. Go into a company and dig up all possible stories
+      2. Ask everyone their stories about the product
+      3. Through collective storytelling, find the kernel
+      4. Identify 2-3 big themes from the stories
+      5. Test strongest theme or all three
+    source: "17-Business Time Archive"
+    domain: business-communication

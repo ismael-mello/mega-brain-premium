@@ -1,0 +1,12 @@
+# Transcrição: 08.1. How to Get Unstuck
+
+- **Fonte:** 08.1. How to Get Unstuck
+- **Duração:** 01:44
+- **Idioma:** en
+- **Modelo:** small
+
+---
+
+## [00:00 - 01:44]
+
+You and your partner have just been through an intense and immersive experience. If you feel that your primary contribution and impact lack clarity, that's okay. If you feel frustrated or tired, it's completely normal. Although it may take a few iterations to make it feel just right, we assure you everyone has a why. For some, it may take months to find the perfect words that match who you are. The American general Colin Powell said, I can make a decision with 30% of the information. Anything more than 80% is too much. In other words, the goal is to have a why that's actionable, rather than one that's perfect. Absolutely. My why has guided me for quite some years now, and both David and I have tweaked the words in our why along the way. This is as much an art as it is science. You'll get there. If you're stuck, try taking a pause, sharing more stories, or inviting another perspective. Taking some time away can also help reignite the process. You could go for a cup of tea or take a walk. A cup of tea approach always works for me. Or you could sleep on it for a night or two. When you come back, you'll have a fresh perspective. If you're struggling, remember that the why discovery process is a data-driven process. If the primary contribution and impact are eluding you a bit, get some more data. Share a few more stories. As you share more stories, your primary themes will stand out above the rest. If you still feel stuck, it may be necessary to seek out another point of view. While you and your partner have come a long way together, sharing a few stories with a different partner may just provide the additional perspective you need.

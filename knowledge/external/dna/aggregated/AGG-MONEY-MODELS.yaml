@@ -9,9 +9,10 @@
 # ═══════════════════════════════════════════════════════════════════════════════
 
 domain: "money-models"
-versao: "1.0.0"
+versao: "3.0.0"  # Sam Ovens added (peso 0.85, ~45 business model + financial elements). 3 Business Archetypes (DFY/DWY/DIY), Evolutionary Stages (6 stages), Flywheel vs Anti-Flywheel, Financial Tracking 6-Tab, Bulk & Cut Cycles, War Chest Mindset, Cashflow Trough Model, Archimedes Lever.
 data_criacao: "2026-03-11"
-ultima_atualizacao: "2026-03-11"
+ultima_atualizacao: "2026-04-04"
+total_elementos: 338
 
 descricao: |
   Frameworks de arquitetura de receita, modelos de negócio, upsell/downsell,
@@ -25,6 +26,22 @@ fontes:
     material: "ACQ Scale Advisory $18k Upsell ($100M Money Models + Workshops)"
     path: "/knowledge/external/sources/alex-hormozi/raw/acq-scale-advisory/"
     elementos: 185
+
+  - pessoa: "tony-robbins"
+    source_id: "TR-UNSHAKEABLE"
+    peso: 0.85
+    material: "Unshakeable (book — financial freedom playbook)"
+    path: "/knowledge/external/dna/persons/tony-robbins"
+    elementos: 108
+    note: "Added 2026-04-04. Tony Robbins (Unshakeable) — democratizing institutional-grade financial wisdom. Key data: 96% active managers lose to index over 15 years, fees can eat 70% of lifetime returns, missing 10 best days halves returns, bear markets every 3-5 years. Core & Explore strategy (index core + selective satellite), 7 Freedom Facts, financial advisor vetting framework. Interviews with Dalio, Buffett, Bogle, Swenson, Icahn inform the investment philosophy. Complements Hormozi's revenue architecture with PERSONAL FINANCIAL MANAGEMENT — what to do with the money once you make it."
+
+  - pessoa: "sam-ovens"
+    source_id: "SO-CA2018"
+    peso: 0.85
+    material: "Consulting Accelerator 2018 (Week 6: Finance, Week 7: Scale)"
+    path: "/knowledge/external/dna/persons/sam-ovens"
+    elementos: 45
+    note: "Added 2026-04-04. Sam Ovens — CONSULTING BUSINESS MODELS & FINANCIAL ENGINEERING. Key contributions: (1) 3 Business Archetypes (DFY/DWY/DIY) with trade-offs for each, (2) Evolutionary Stages of a Consultant (6 stages from generalist to online programs with income ceilings), (3) Flywheel vs Anti-Flywheel (why service businesses hit ceilings), (4) Financial Tracking Sheet (6-tab system), (5) Bulk & Cut Cycles (2-month growth + 1-day review), (6) War Chest Mindset (reinvest, don't spend), (7) Corporate Raiding Your Own Company, (8) Cashflow Trough Model (survive the negative before scaling positive), (9) Archimedes Lever (credit card cashflow engineering for <30 day cycles), (10) $200K/mo DFY ceiling vs $350K/mo solo new-model ceiling. Heuristics: 30-40% net margin target, 60-70% fulfillment cost, $1,500/mo minimum pricing, 50% upfront/50% completion. Complements Hormozi (revenue architecture), Robbins (personal finance) with CONSULTING-SPECIFIC BUSINESS MODEL EVOLUTION — how to grow from $0 to $10M+ through systematic model transitions."
 
 # ═══════════════════════════════════════════════════════════════════════════════
 # LAYER 1: FILOSOFIAS

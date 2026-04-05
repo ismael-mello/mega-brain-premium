@@ -1,0 +1,538 @@
+# Extracao: transcription_docx_Video_Transcript
+
+- **Fonte:** transcription_docx_Video_Transcript.txt
+- **Tipo:** TXT
+- **Tamanho:** 0.09 MB
+
+---
+
+Hey, everyone. Sam Ovens here, and welcome to this training video on picking your 2.0 niche. You're probably thinking, "What is a 2.0 niche? Like I know what a niche is, but what's a 2.0 niche?" It's a very good question, and in this training video, I'm going to introduce a new idea, which is that traditional niches, they're old, and it's time for a new way to pick niches, and it's time for a new way of categorization and a new way of niching, so that we can end up coming up with unique businesses, unique propositions, unique solutions, and really evolving the marketplace as much as possible, because things have gotten stagnant. When I look outside and I look at things, it's just too many people in too many classical niches, all just monkey see, monkey do, just copying each other, and it's a massive problem. No one can stand out from each other. Everyone thinks they're targeting the same people, and it's just pretty crazy, really.
+
+
+
+In this video, I'm going to show you how to pick your 2.0 niche. I'm going to explain what a 2.0 niche is, and then we're going to go, and we're actually going to start doing some work in this video. In the other videos, in week one, leading up to this, we have been talking a lot about the theory of things and getting you thinking right, understanding, conceptually, how a consulting business works. Well, now we're going to start taking some action. We're going to start doing some exercisers, and we're going to actually pick your niche. You want to have a pen and paper handy, and you want to pay close attention to this video. Let's get to work.
+
+
+
+Why pick a niche? Why not just target everyone? I mean, wouldn't it be better to target the whole world instead of just a small, little group? Well, here's why you should pick a niche. My first point is the man who chases two rabbits catches none, and the man who catches every rabbit certainly catches none. So if you go and target the whole world, then I guarantee you, you won't get anyone. However, if you were just to target a specific group of people, then you're going to get a lot of people. It's kind of the reverse to what most people think. Everyone thinks they should make their audience as big as it could possibly be, however, in doing that, they get nobody.
+
+
+
+You just imagine this, for example. Let's say you're at a train station, and you're trying to get people's attention, you're trying to get someone's attention. You're standing over on the side of everyone walking past, and you're just yelling out, "Hey, everybody! Hey, everybody! Hey, everybody, can I get your attention, everybody?" Everyone's just walking past, and they ain't looking at you. However, then you were just like, "There must be someone in this crowd called Henry." So you're just like, "Hey, Henry!" Someone is the crowd is like, "Oh, what's that?" He turns over to you, and he looks at you, and you've got his attention. Well, that's how it works. Or if you said, "Hey, is there a doctor in here?" The doctors are probably going to look. This is what happens. When you target everyone, you get no one. However, when you're specific, you get people's attention. That is why it's so important to pick a niche. The man who chases two rabbits catches none, always remember that.
+
+
+
+Specialists earn more money, and they get more respect, and they have more fun. That's a fact. I tell the story all the time about the general practitioner versus the brain surgeon. A general practitioner, a GP, like a doctor who sees a whole bunch of patients and is a generalist doctor. Typically, they sit in an office which is very small. It usually has no windows. It's a pretty depressing little office, and they work very long hours, and they just see back-to-back patients all day long, for like 15 minutes at a time. It's a numbers game. They're just seeing as many patients as they can, just rolling them through. A patient comes in, they diagnose their problem, and then it's onto the next one, onto the next one.
+
+
+
+They have to see a lot of patients. They have to work long hours. They get worn out. They work in a very small, not a very nice office, at all, and they don't get very much respect. You never hear about a general practitioner getting praised for their work in the newspaper and magazines. You don't hear about them being geniuses or anything like that. They don't get paid very much, either. That's the general practitioner, the generalist.
+
+
+
+Then, you've got the brain surgeon. So the brain surgeon is still a doctor, but this time, it's a doctor with a specialty. The brain surgeon typically works in an awesome office. It's designer. Everything's laid out nicely. It looks amazing. Then, they only have to see a couple of patients each week. Sometimes, it's only two patients a week. They don't have to work as many hours. They just come in for those two surgeries, and that's it. They come in, work their magic, then they're out. They are often praised as geniuses and celebrities. They get write-ups in the news. They get put in the newspaper. They get put on the news. Everyone respects them for their work and their craft. They think that they're just a total genius. They get paid, on average, 30 times as much money as the general practitioner. Imagine that, 30 times. We're not talking about a small little pay rise here. We're talking about someone making 30 times as much money.
+
+
+
+They're both doctors. Both of them went to med school. Both of them are doctors. They've both got the D-R thing in front of their name, so why is there such a massive difference? The difference is because one's a generalist and one's a specialist. A general practitioner is a generalist, and a brain surgeon is a specialist. In business and in life, specialists earn more money, they get more respect, and they have more fun.
+
+
+
+This is a really important thing to understand, because when I got started in business, I thought that it was best to just cast my net as wide as possible. I was just like, "Well, the more people I target, the better, 'cause it's the more possible people I could get." However, I ended up getting no one because of that. Your marketing is more powerful, your conversations are more meaningful, and it's much easier to get clients when you know exactly who you should be talking to. When you choose a niche, your marketing gets 10 times more powerful.
+
+
+
+If you go onto Facebook, and you run an ad, and the headline of the ad says, "Hey, everybody," it's not going to work very well. However, if you write an ad on Facebook, and you're like, "Are you a doctor?" and then you target doctors, it's already, just by picking that niche, it's already 100 times more powerful. By picking a niche, you actually get everything in your favor. Everything is going to start skewing towards you, and things are going to get a lot, lot better for you.
+
+
+
+It's hard to be the best in the world at multiple things, however, it's surprisingly easy to become the best in the world at something specific. A lot of people, they look at experts, like they look at someone who's really good at something, and they're like, "Oh, that person must be gifted or something." Well, that person just focused on one thing and forgot about other things.
+
+
+
+If you want to know how I got so good at consulting and teaching consulting and everything, it's because I didn't do a whole bunch of other stuff. If you go and look at my social media profiles, they're barely existent. I don't post a lot on social media. I'm not a social butterfly that posts all sorts of photos and comments on things. I don't even have a Snapchat account. I refuse to install that app on my phone. I don't have any posts on Instagram. I don't have anything. The reason is because I focused on this. I was like, "I'm just going to master the craft of consulting. That's what I'm going to do." I didn't master Snapchat. I had to say no to a lot of things in order to focus on this. That's not really picking a niche by choosing not to do Snapchat, but it's the same sort of thinking. It's not doing everything. It's doing something specific, so that you can be really good at that, and letting go of the other stuff. You're sacrificing everything to be good at something.
+
+
+
+That's what you have to do in life. You have to sacrifice everything in order to be good at something. Everyone's like, "Well, I don't want to sacrifice everything." Well, it's like if you don't sacrifice everything, then you're going to get nothing. But if you sacrifice everything, and you get something, at least you get something. It's a different kind of way of thinking. If you go out and you try and target everyone, and if you make everyone your customer, you're going to end up with no business and no money, and you're going to end up an expert at nothing. However, if you focus on something, you will get it.
+
+
+
+That is like the same story of the man who chases two rabbits, catches none. The man who sets out trying to chase both rabbits, he's like, "Screw just having one rabbit. I want all those rabbits." He ends up getting no rabbits, and he's like, "Damn, should've just chased one of them." The same thing happens in life, same thing happens in business. It's very, very, very important to think like this, and this is why we pick a niche, and this is why we are very focused with what we do.
+
+
+
+Let's remember why people hire consultants. We covered this in the previous videos here in week one, and if you haven't watched those videos, go back and watch them right now. Just pause this video, go back and watch them, because seriously, this video is not going to make any sense unless you've watched the other videos in full, so don't be that person. Believe me, it's not going to make sense.
+
+
+
+Remember why people hire consultants. Why people hire consultants is because they want ... They have a current situation, which is where they are now. This is their current situation, their current self. They're like, "This is me. This is my situation. This is where I'm at now." Then, they have their desired situation, which is where they want to be in the future. This is their desired self, their desired version of themself, their desired situation. Then, there's a gap between these two things. The gap is what creates all desire, all demand, all everything. A consultant is an expert at solving a particular problem and helping somebody make a particular transformation in their life or business. A consultant is someone who helps someone go from their current situation to their desired situation, or their current self to their desired self. They're pretty much the same thing. Remember that's why people hire consultants.
+
+
+
+To start a successful consulting business and help people make a transformation, you must pick a niche. Everyone in the world doesn't want the same things. Not everyone wants the same thing. Some people want to make a lot of money. Some people want to give away a lot of money. Some people want to be fit and focus on having abs, and they don't care about how much money they have. Everyone's got totally different wants, totally different desires, totally different problems. People are different. They just have different desires.
+
+
+
+So when you target everyone, you can't get their desire right, and you can't get their problem right, because all of them have different problems. You'll see one client today, and they're going to tell you that life's like this. Then, you'll see a different client the next day. They're going to be totally different again, and you're going to be like, "Man, this thing is so complicated, because everyone is so different, and everyone's so unique, and we have to offer such bespoke things." But it all changes when you pick a niche. When you pick a niche, everyone falls into line, and all of them have similarities. What their desired outcome is pretty much the same as everyone else, and this means that you now have focus.
+
+
+
+Now, I need to warn you of some things first, because this is a major hangup point for most people, and it doesn't need to be. When we go to pick a niche, it's quite funny, because it's ... Well, it's not really funny for the people who can't pick their niche, but I've observed that people have never really been forced to make a decision on things. They've kind of been told it's all right to be in limbo all the time on every single decision all the time as they go through life, and now all of a sudden, they need to pick something. It just destroys them, because they can't pick something. It's so simple. You just need to pick something. It doesn't matter if it's right or wrong. This why I'm going to just give you a brief warning. When you're picking your niche, I want to warn you of some things first, because a lot of people get hung up here, and they don't need to get hung up here. There's simply no reason to.
+
+
+
+Don't fall victim to these niche mistakes. Number one is don't think that you're marrying your choice of niche for the rest of your life. This decision which you make for your niche, you're not married to it. If you pick plumbing, you're not stuck with plumbing for the rest of your life. If we choose plumbing, and then in a month or two, we find that this other niche is better, we can just change it. It's easy. Don't think that you're marrying your choice of niche for the rest of your life.
+
+
+
+Don't fall victim to not being able to decide and being torn between multiple things. Everyone can come up with four or five ideas for a niche, and then they can pick one from those five. There's absolutely no reason why someone can't pick one, because it doesn't matter if you get it wrong. You can always change it later, but you need to pick something to start.
+
+
+
+Then, feeling like you have nothing to give and no ability to create value. Don't even think about whether you can help the niche or not now. When you're picking a niche now, you don't want to think, "Can I help them or not?" You don't want to think, "Am I able to create value for these guys?" or, "What solution am I going to offer?" or, "Will they pay me money?" You're already thinking too far ahead. All you need to do is pick a niche. There is absolutely nothing else to it. You just pick one.
+
+
+
+Then, copying what other people are doing or have done, instead of owning this decision yourself. I notice a lot of people, whenever they can't make a decision, they try and offload it onto someone else. They're like, "Hey, man. Do you have any suggestions for good niches? Does anyone know what a good niche is?" You're probably wondering, "Wow, Sam gives us so many things in this program. He tells us exactly what to do, but how come he doesn't give us a list of niches?" Or, "How come he doesn't tell us what niche we should pick? Why does he leave this one kind of up to us?" It's a very good question. If I was to give people a list of niches, what do you think would happen? Everyone would go in and choose those niches, and then everyone would be marketing, and it would be totally distorted, and they wouldn't work, and everyone would just be furiously competing in those niches for no reason, other than I just told people to do it.
+
+
+
+This is how things have gotten distorted. People have said, "This niche is where everyone should be," or, "This is what everyone should be doing," or, "This is a good niche. This is a bad niche." It's not like that, at all. The grass isn't greener on the other side. The grass is greener where you water it, and that's true when you pick a niche. It doesn't matter what niche you pick. You can create opportunity in that niche. It's really important that I leave this one thing up to you to be able to choose, because otherwise, I'll create distortion in the marketplace. I don't want to create distortion. I need to make sure that we have variation between our different businesses. Otherwise, I've got so many people in my programs. If I told everyone what niche to pick, I would end up distorting the marketplace, big-time, and no one would be able to make any money.
+
+
+
+Don't think you have to copy what other people are doing. Don't look at what others are doing in the Facebook group. Don't look at what other people are doing in different places. Own this decision yourself. If you're wanting to become a businessman and an entrepreneur, now is the time to start taking some responsibility and owning some decisions yourself. I'm going to give you pretty much every single thing you need to start your consulting business, but there's a few key decision you're going to have to do on your own.
+
+
+
+Being too afraid to be you and do what you know you want to do just to conform and fit in. A lot of the time, people know what they want to do. They know what niche they want to choose. They know it. However, they don't do that, and they pick something else, just because they want to conform with everyone and fit in. Sometimes, someone might really want to do something in the health and fitness niche, but because everyone else is doing something to do with digital marketing, they go and do digital marketing. I've noticed that the people that do the best, they don't just conform and fit it. They don't do what everyone else is doing. They think for themselves, and they conduct their own analysis, and they choose their own niche, and they provide their own offer, and they're unique. So don't be too afraid to be you.
+
+
+
+Seriously, it doesn't matter whether you pick the wrong niche or not, and I'm being totally serious here. Let me tell you a story of how I got started, so that you understand how things evolve. I'll tell you how I picked the wrong niche like a hundred times, and how it doesn't matter, because I still ended up here. Here's the journey I went through to get here. I started an online job board for job seekers, and that failed. Then, I started an online lunch delivery business that failed. Started property inspection for property managers. That was successful.
+
+
+
+Look at all these niches. I started off with the job seekers niche. Then, I was in the lunch delivery business or lunch delivery niche. Then, I was in the property inspection niche. Then, I was helping local businesses, so that's not really even a niche. That's like I was a just a generalist. Then, that evolved to doing digital marketing for different types of businesses, no niche. Then, I kind of went into service-based businesses, which is a kind of niche, and then, that evolved into doing digital trainings on how to start the digital marketing business, and now, I was in the digital marketing niche. Then, that evolved into helping people start a consulting business, and that's when it evolved into the consulting niche.
+
+
+
+Then, since then, it's evolved 10 times, probably more like 20 times, and I've improved the programs. I've improved the methods. I've really refined my niche again, and again, and again, and again, and again. It's gotten to the point now where it's really razor-sharp, crystal clear. I know my niche better than anyone else on the face of this earth. Not only that, but I understand their problems better than they do themself. I could write a day in their diary, and they could pick that up, and they would be like, "Oh my God, something ... This is spooky. This person must be a psychic." I understand their current situation and their desired situation better than they do themself. I know that niche so well.
+
+
+
+Look at how I got here. I picked the wrong thing, and it didn't matter. I eventually ended up getting closer and closer to what I was good at, and I ended up in the right spot eventually. The key here is that you have to start. If I had never picked anything, if I hadn't started a business, if I didn't start my job seekers website, I would have never ended up here. I would still be back at the starting line, looking forward and thinking, "Oh my God, there's so many different choices. What niche should I pick?" I would still be there.
+
+
+
+Truthfully, I had a few friends who I met, who were starting their own business back then, and they were paralyzed with the decision, too. They were like, "Oo, I can't really make a decision on which niche to pick or which idea to pursue." I've looked them up recently. It's been like five years since then, and guess what? They're still trying to pick the perfect thing. These guys are still trying to think, what's that perfect thing to pick? They haven't even started. I've gone and pick 10 of the wrong things, gone through them all, ended up finding the right one, and ended up making more than $20 million. These guys still haven't even chosen anything.
+
+
+
+You can see that the key is that you have to start. It doesn't matter if you pick the wrong thing. You have to choose something. It doesn't matter where that is, you just have to start, because you'll never know things for sure until you get in motion and start moving forward. I like to think about it like a car. If you're sitting in the car, and you turn on the steering wheel, and you turn left, or you turn right, or whatever, it ain't going to be able to move. It can't turn left or it can't turn right. The car has to be in motion for the steering system to work. The car has to be moving forward in order to move left or move right.
+
+
+
+That's true with business. A lot of people think that they can move left and move right, and get their decision perfect before they start, but you need to start moving in order to be able to use the steering system. The steering system doesn't work until you're in motion. That's why it's so important to pick something, start moving forward, and it doesn't matter if it's wrong. You can change it.
+
+
+
+What is a 2.0 niche? Right now, we've talked about why you need a niche. I've driven that point home. You know you need a niche, because the man who chases two rabbits catches none. You want to be the brain surgeon, not the general practitioner, because you want to work in a nice office. You want to get praise. You want to be considered the genius, and you want to make a ton of money and have a lot of fun. Why wouldn't you? You want to pick a niche. you want to be a specialist, and you know why that's important. You know that in order to pick a niche, you can't get paralyzed by the decision. You can't think, "Well, what if I pick the wrong one?" Who cares? It doesn't matter. Picking the wrong one is better than not picking anything, because in the act of picking the wrong one, you're going to pick the right one. Think about it like that.
+
+
+
+Now, I want to introduce a new idea to you called a 2.0 stage niche. This is something totally new. You definitely would not have heard about it anywhere else, because no one else has ever talked about this. No one else has ever done any sort of training or anything like this. Everyone thinks that niches are niches, and that if you go out there and you pick a niche, like accounting, or go out there and you pick a niche like lawyers, and that's it. Well, that's really, really, really dumb thinking, and I'm going to show you why the world has gotten distorted, and why we need new ways of thinking and new ways of categorizing business industries and niches.
+
+
+
+Here's the classical definition of a niche. Traditionally, niches were thought of as industries and industry verticals. You could scatter all of these different people onto a chart, and the people that came together like this, you'd be like, "Okay. Well, these are the accountants, because they have accounting degrees, and then they work in accounting firms, and these are lawyers." People defined them as things as they currently are with no regard of what they want to become. It's kind of like things with defined static. It's like in order to define a niche, we would just freeze things in a moment of time, and then we would look at things as they are, and we wouldn't really look at what they're becoming.
+
+
+
+We had two different ways that people looked at businesses and niches. They were called B2B and B2C, business to business, and business to consumer. This caused a lot ... This still causes a lot of chaos in the market, because a lot of people, who think they're a B2B business, think that Facebook ads doesn't work for business to business. They're like, "Well, I'm B2B. Facebook ads doesn't work for B2B." Then, a lot of people are like, "Ah, no. We've been asked. That won't work for B2B," or, "Ah, no. That is too personal for B2B. In B2B, we wear suits and ties, and we go and visit the client in person, and we charge per hour."
+
+
+
+You see, this thinking of B2B and B2C has really, really deluded everyone. Some different examples of classical niches, so accountants, lawyers, plastic surgeons, dentists, insurance, real estate, just really cut-and-dry, black-and-white things. This is how people think of niches. Now, the problem is if you just think like this, then you're going to end up in a market with a ton of competition, and you're always going to end up just copying what everyone else is doing, because you're just thinking the same way everyone else is thinking.
+
+
+
+Classical niche categorization assumed that the only way to cut a cross-section was vertically or horizontally, which assumed linear binary systems that are static. Categorization is assumed B2B or B2C, and in verticals or horizontals using one criteria. What I mean by one criteria is we're like, "Well, are they accountants? Okay, well they're accountants." That's how you chose a niche, were like, "Well, we're in the accounting niche," and that was it, or "We're in the legal niche," and that was it. This binary way of categorizing complex data resulted in a limited number of possible categories, and overcrowded industries, lack of innovation, poor advertising, and lifeless, stagnant businesses that just did what everybody else was doing.
+
+
+
+I want to introduce the 2.0 stage niche. This is a new thing which I'm introducing. I invented this thing, and I'm bringing it in here, into this new way of thinking, to help people break free of all of these old ways of thinking, which is just limiting everyone and turning everyone mad. 2.0 stage niches, or 2.0 niche categorization assumes complex, non-linear systems that are ever-evolving. Instead of asking what is something, we ask what is it becoming? Because let's think about this all of a sudden. B2B and B2C, it's really quite mad. People think, "Well, I'm in B2B, and so Facebook ads doesn't work for me," or, "I'm in B2B, and we have to wear a suit and tie." But if someone was in B2C, they're like, "Oh, well I'm in B2C, so Facebook will work for me."
+
+
+
+Well, people have just gotten pretty crazy, because in my understanding of niches and what I'm bringing forth in this 2.0 stage niche categorization is we're merging B2B and B2C together, and we're considering it B2P, which is business to people. Really, we're not even really a business. We're really just people, too, so it's really P2P, people to people, because that's how you've got to think of it. As soon as you start thinking of yourself as a business talking to a business, well, you're not actually talking to a business. You're a person talking to a person. People say, "Well, we do B2B, and so Facebook doesn't work for B2B." I'm like, "What?" I'm like, "Who owns the business?" They're like, "Well, people." I'm like, "So you don't think there's people on Facebook?" This is people have gotten pretty crazy.
+
+
+
+We don't assume B2B or B2C. We just call it B2P, business to people, and this allows us to have ... We can think more clearly. Then, we use clusters instead of cross-sections to categorize different industries and niches, and we do this with an infinite number of criteria, meaning there are infinite possible combinations and mutations. This might sound a little bit confusing right now, but trust me, it's really simple. I'll give you a couple of examples in just a minute.
+
+
+
+Let's look at some examples, classical niches versus 2.0 niches. Classical niche examples, as they are with limited categories, the classical school of thought is business to business or business to consumer. In business to business, we'd have accountants, lawyers, insurance, printing, manufacturing, shipping, really cut-and-dry boring stuff. Then, we'd have business to consumer, and people would categorize them as high income, low income, teenagers, adults, couples, families, just frozen. It's static things.
+
+
+
+Now, with 2.0 niche categorization, we look at things as what are they becoming? We have infinite categories. We look at things as not static, but evolving, because people, consumers aren't the same, and they're evolving. We've also got businesses. They're evolving, too. Sometimes, someone wants to be in a niche, but they're not in a niche. If we just use the traditional niche categorization, if we're targeting accountants, then what about the people who want to be accountants? It's kind of like they just fall outside of that.
+
+
+
+With 2.0 stage niche categorization, we're looking at something as where they are now, and then where they want to be. We're looking at their trajectory. We're looking at their evolution and their movement, and where they're trending. We're looking at things as they are evolving, and that's how we're categorizing things. We're not just looking at a dot on a map and saying, "This is what it is." We're looking at a dot on a map, and then a desired dot on a map, and we're grouping people by desired outcomes. We're looking at desired evolution, instead of where they are right now.
+
+
+
+Now, let me give you an example of this. So we just throw away, we totally throw it in the trash, business to business and business to consumer, stupidity. Throw that in the bin. It's business to people, and really, it's just people to people. We're just some people here with a business that are talking to some other people with a business, or we're people talking to other people, real simple. It helps you get out of that overly formal business to business sort of thing, where people start writing ... They start typing things like they're typing some sort of Shakespearean letter to someone, because they think that they're a business. They're like, "Well, just 'cause I'm B2B, I have to speak all formally and put all of these ridiculous words in here that no one else can read." But it's like no, it's a person that's reading that on the other end.
+
+
+
+This is how advertising and everything gets really distorted. People need to understand that they're always writing to people. They're always selling to people. With business to people, with 2.0 stage niche categorization, we could have these different examples, people who want to become accountants, accountants that want to do things differently. With classical niche categorization, if someone targeted accountants, then they would probably just sell accountants what every other accountant's doing, so they'd be like, "Okay, well, we're going to help you make more cold calls, and we're going to help you do more billable hours," right? Because that's probably what most accountants are doing. They're like, "Well, this is the accounting niche, and this is what the accounting niche is doing, so I'm going to enter this niche, and I'm going to help them do more of what they're already doing." That is old thinking. That's the thinking which I'm getting us, as a community and as a group, to leave in the gutter, because that's where it belongs.
+
+
+
+You could come in with 2.0 stage niche categorization. You could say accountants that want to do things differently. You could target accountants, and you could help them escape charging per hour, so accountants that don't want to charge per hour, or accountants that want to work virtually, or accountants that want to work for themself instead of for their firm, all sorts of different things based on people who want to become something and escape the standard way of doing things.
+
+
+
+When we think of things binary, which we used to in classical niche categorization, all we end up doing is helping people do more of what they're already doing. We pick a niche, accounting, and we're just helping someone become a better accountant using ... But what that means is we're going in there and we're just helping them do more of what they're already doing. However, sometimes, people might want to actually do things differently.
+
+
+
+Then, we could have low income earners who want to be high income earners. With 1.0 stage niches, classical niche categorization, we would say, "Oh, someone's low income, therefore we don't target them, because they're low income, therefore they're always low income." Well, it's like, "Well, what if they want to be high income?"
+
+
+
+I'll give you a really good example of this. An example of this would be Apple and the iPhone. When Apple first was coming up with the iPhone, they had lots of meetings and everything, and they said that the iPhone was going to cost $1,000. Everyone was like, "You guys are stupid." They were like, "No one is going to pay a thousand dollars for a phone." They were like, "We've done the tests. We've looked at the market, and you know, the only people who buy a thousand dollar phones are like princes in Dubai, who buy these solid gold phones with all these diamonds on them." They're like, "No one else spends a thousand dollars on a phone. No one has a thousand dollars to spend on a phone." They were like, "You guys, this is going to flop. This won't work."
+
+
+
+That thinking is thinking of things as they are, like at the current state of the market, before, no one spent a thousand dollars on a phone. It wasn't normal. People had very cheap phones, like a couple of hundred dollars. If someone said to you, "Are you going to buy this phone? It costs a thousand bucks," everyone would be like, "Hell, no. There's no way I'm buying this phone for a thousand bucks." It's just like coffees. They used to be like 50 cents or something, and if you went to someone and you asked them, "Would you pay $5.50 for a coffee?" They'd be like, "No. Are you stupid?" Now, look what's happening. Everyone's spending that for a coffee.
+
+
+
+Using the old thinking, we just say things are the way they are. However, Apple knew that if they created a product and a phone that could be as beneficial as the one which they created, they knew people would find the money, and they knew people would buy it. They made a product so spectacular, and that had so many benefits, that even people that didn't have a thousand dollars started finding a thousand dollars to come up with it and buy it. Now, pretty much everyone has a iPhone, and pretty much everyone spends a thousand dollars on a phone. Who was right there, the people how used the old, classical way of thinking, or the new way of thinking?
+
+
+
+Just like when Starbucks came in and revolutionized America with fancy coffee, now every American's lining up ... I live in New York. If you go into New York, I swear there is a Starbucks on every second block, and they're always jammed. All these Americans are just queued up out the door to spend five bucks on a coffee, but if you'd asked them this a couple of years ago, no one would have spent that much money on a coffee.
+
+
+
+This is the difference. This is the difference in thinking. You're not looking at something as it is. You're looking at something as what it is becoming. We're using two different ways to categorize. We're saying where are they now, and where do they want to be? We're looking at the evolution of it. Low income earners who want to be high income earners, adults who want to live like children, couples who do yoga and want to be rich, single people who want to have families, these are the different ways to think. What do people want to become? This will start to unlock different possible niches for you.
+
+
+
+Classical niches are static, plain, and limited. They look like this. It's a bunch of dots on a screen, and we're just freezing them. We're like, "People are who they are. They never change. Businesses are what they are. They never change. And people always want to do things the way they've always done them." We're just like, "That's it, static." However, 2.0 stage niches are evolving, new, interesting, and infinite, things are moving around.
+
+
+
+So why not just keep it simple and plain? Why am I telling you to start thinking like this instead of just picking ... I could just hand you accounting, and be like, "Here you go. Accounting's the niche to go for." This is why we need to think differently about niches. Imagine there's 7.4 billion people on earth, which there is. There's probably than that by now. Then, imagine there's 125 million businesses, then 16 classical industries. Now imagine that there are 7.8 million businesses per niche. Now imagine trying to stand out and get customers. Classical niches say there's only this many industries. There's accountants, lawyers, dentists, plastic surgeons, they say there's these different things, and that you've just got to pick one, and then compete with the other 7.8 million people in there. That's because people are thinking wrong. We need to think of niches in different ways.
+
+
+
+Admittedly, it would be much easier for me, in creating this training, to just hand you a niche like accountants and say, "Here's a good niche. Go for it." However, that would be wrong for me to do, because it would put you in a market that seriously limits your ability to make exponential profits. I'm going out on a limb with this training and getting you to think for yourself in ways which have never been done, so that you can get massive results.
+
+
+
+Now, let's talk about how to pick your niche. You've got the skills that you have or can learn, the industries that you know, and the market's needs and desires. We've got these three things. We've talked about these three things before, the skills that you have or can learn, the industries that you know, and the market's needs and desires. You've got these three circles. Your niche is really the perfect overlap of these three things. It's the spot in the middle which perfectly combines all of these variables. It's like where your skills can add value to an industry, and where the value that you're adding is actually solving a problem or helping achieve some desire.
+
+
+
+Out of all three of these different things, most people, with the traditional school of thought, they think that the most important thing out of all of these is the skills. They think that the better your skills, the more money you're going to make. Most people are out there just trying to get really skilled. We see this all the time. Most people go to college, and they're getting 10 degrees. They're getting 2 MBAs, they've got all these letters behind their name, and they're just getting more skilled, more skilled, more skilled. They're getting more certificates. They're doing so many workshops. They've got so many degrees that they can't even remember what degrees they got. Then, they wonder why they don't have any money. They wonder why no one's hiring them, and they're like, "Everyone's so stupid. If only everyone knew how smart I was." Whenever someone says that, there's quite a funny thing. If only everyone knew how smart I was. That's when someone's got things around the wrong way.
+
+
+
+It's not about the skills, and it's not even really about the niche. Most people think the niche or the industry is really important, or they think their skills are really important. Truthfully, the most important out of all three of these things is the market's needs and desires, this one I've got the arrow pointing to right now. The market's needs and desires are more important than anything else.
+
+
+
+You can choose hedge funds, and you know that's going to be one big, rich niche. They've got a lot of money, hedge funds. In your skills, you could have a Harvard MBA with first class honors in every single paper you've ever done, right? Now you've got pretty good skills, and you've got the best niche there is. However, if you just ... I mean, you go try. Go try pitching your services to hedge funds with just a Harvard MBA. No one's going to even take a meeting with you. You can see the traditional way of thinking is wrong, because we could take the most skilled person there is, and we could take the richest industry and niche there is, and still, they can't get any business or get any clients.
+
+
+
+That means that the most important element, by far, is the market's needs and desire. When we do this correctly, we could take someone with no skills, and we could put someone in an industry which supposedly isn't even that great, and they could get clients. This is how it works. I don't have any degrees. I didn't finish my university degree, so I have no letters to put behind my name. I don't even have any certificates. I don't have any qualification, at all. I'm not certified to do anything. Somehow, I am in the consulting industry, which is where there is more MBAs from Harvard, and Yale, and all of those things, than you could possibly imagine. Somehow, I still beat them. Somehow, I still make a whole bunch more money. How does that happen? How does some young person with no degrees, no qualifications, go out and beat the other people in this industry which they're supposed to know and conquer?
+
+
+
+Well, it's because I look at the market. I look at what the market wants, I look at what the market needs, and I see the current situation and the desired situation. I see where people want to go, and I see that desire in there, and I just focus on that. It's not about me, at all. I don't think about how I can get better certificates and everything. I just think about how can I solve my customer's problem better than anybody else? That's what you want to start thinking like. You've got to stop thinking about yourself, and you've got to stop thinking about picking the perfect niche, and you've got to start thinking about finding out what the people in this niche really want. What is their desire? What problems are they facing? Because this is the most important element, by far.
+
+
+
+We've covered a lot of theory by now, and this has been really important, because a lot of people, when they come in, and they want to start a consulting business, they have no idea what makes up a consulting business. What are the forces at play that make a consulting business successful or unsuccessful? A lot of people just think, "Well, it's because they use Facebook ads," or, "It's because they use Sam's sales script." Those things are powerful, but believe me, if you mess up your foundations, it's not going to do anything. If you have a business with poor foundations, it doesn't matter if you're the best salesman in the world, it doesn't matter if you have five million dollars in your bank account that you can spend on Facebook ads. It's all going to go in the trash. You're going to get wiped out.
+
+
+
+It's all about the foundations, and then Facebook ads, and sales scripts, and things like that, that just adds fuel to the fire. It's like pouring gas on a fire. If we get a strong flame going by getting your foundation set correctly, then when we get into sales, and Facebook ads, and stuff like that, it's just like we're opening a firehouse of gasoline onto that fire, and it's just going to go boof. That's how you get awesome results. You get your foundation solid, you get a really strong flame burning, and then you add the accelerant to the fire.
+
+
+
+We've covered the theory now, and that was important stuff to do. Hopefully now we've got you thinking clear, how a consulting business is made up, and how it works, and what the dynamics are. Now, it's time to actually do some work. Now, let's get to work and find your niche, but I'm going to remind you once again, don't fall victim to these niche mistakes. Don't think that you're marrying your first choice of niche, and don't get torn in between some decision, and don't the feel like you have nothing to give this niche or no ability to create value. Don't even think about that. You just need to pick something right now. And don't look at what other people are doing and be tempted to copy them. Don't be too afraid to be you. Don't just try and conform with everyone else. Do what you know you should be doing.
+
+
+
+Step one, really easy, this is super easy. Now, don't think about your niche, at all. This is just listing five things that you're good at. This can be anything. Forget about whether it's business related or not, just write down five things. I don't even care if you write down surfing, cooking. I don't care what it is, just write down five things that you're good at. Pause this video right now, grab a pen and paper, and write down five things. It could be something like math, accounting, engineering, snowboarding, personal training. Just do it, write down five things. We're just getting you taking action, and we're just getting you warmed up. Most people never actually stop and think about what they're good at, so write these down. Do it right now.
+
+
+
+All right, step two, ask five to 10 people what they think. This step is extremely important as we often can't identify our own strengths because we tend to undervalue them and take them for granted. This is why we need to step outside of ourself and gain an objective view from a group of other people, so we can hear what they think. Let's do this right now together, and don't delay it. It's a simple five minute exercise that will get you surprising results that can help you find your niche. This has unlocked the gates for a lot of people. A lot of people, when they do this, it's like boof, they've got it, so make sure you do this exercise.
+
+
+
+First step is list five to 10 friends. They could be family members, friends, or just anyone that knows you well. Pause this video right now, grab a pen and paper, write down five to 10 friends. Now, open up your email account, whether that's Gmail or whatever, and let's send these emails right now. Don't delay it until tomorrow. Don't delay it until anything. We're doing it right now. Here's the email template. I've put in the resources section a document where you can just copy paste this. It's simple. You can just copy paste it, so it'll say email template. It should be in the resources section. Download that, copy paste this, go into Gmail, and then you just need to change the name, and that's it.
+
+
+
+You'll say something like this, "Hi, David. I'm attending a training program that's helping me figure out my own unique abilities, and the person who was directing the training encouraged us to ask a close friend to provide some feedback on what you believe I'm skilled at and not skilled at. Here's the questions, number one, what are my strengths? What can you count on me for? Please state three to four things," real simple. "What are my weaknesses? What can you not count on me for? Please state three to four things. And what is my unique ability? What am I the best in the world at?" That's it. That's all the email is. You just need to copy paste this into Gmail, send it to those five to 10 people, and the only thing you need to change out is the name, so hi, Bob. Hi, David. Hi, Ben. Hi, Ashley. Hi, whatever. Go ahead and do that right now. Pause the video and do it. I'm not joking around with this email. It's seriously powerful, and if you don't send it right now, you're only hurting yourself and your results. You're only letting yourself down.
+
+
+
+Now it's step two. Now, we want to list five industries, niches, or groups that you know. This can be anything. Forget about whether you can add value to the niche or not. Just write some things down and get into the habit of taking action. Grab a pen and paper, pause this video right now, and write down five industries, niches, or groups that you know. This could plumbers. It could be newlywed couples, young women experiencing binge eating issues. It could be anything. It doesn't matter if it's business related, consumer related, none of that matters. Remember I said we're doing business to people. We are in the business of dealing with people. We don't deal with businesses or consumers. Both of those people are people. Just write some things down.
+
+
+
+Now, ways to think of this is, throughout your life and your career, you might know some different industries because of your job, so a lot of people, they might have worked in advertising for a long time, so they know advertising. They might know aviation. They might know the snow removal industry. They might know the hospitality industry. They might know the casino industry. Based on your life experiences so far, you're going to have learned a few things, so write down those niches. Or you might be really interested in some niches, like you might work as a lawyer, but you might be fascinated with this other niche and research it all the time, even though you work as a lawyer. You might just be interested in it.
+
+
+
+Or you might know a lot about a niche because your parents have been in a niche, and at home, you've just observed them. Quite a lot of the time, someone has ended up wondering what their niche is, and then all of a sudden, they realize, "Oh my God, both my parents are dentists, and I know everything about dental industry, because I hear about it every day. My dad's one of the most successful dentists and most respected dentists in the industry, and I know everything about dentists, and I used to work at the dentist when I was a kid, so I've even worked there. I fully understand this thing." I'm like, "Okay. Well, it's probably a good idea to pick as your niche, because you already know quite a lot about it, so let's just choose that one, and let's start doing some research in it." It doesn't have to be that scientific. You just pick something. Right now, we're not even picking something. We're just writing down five niches. You're just writing down some niches.
+
+
+
+Now, to the third step. The industries that you know, the market's needs and desires, and the skills that you have or can learn, these three things. The most important element, by far, is the market's needs and desires. This is the most important paragraph that you will ever read, and it goes like this. Let's get to the heart of the matter. The power, the force, the overwhelming urge to own that makes advertising work comes from the market itself and not from the copy. Copy cannot create desire for a product. It can only take the hopes, dreams, fears, desires that already exist in the hearts of millions of people and focus those already existing desires onto a particular product. This is the copywriter's task, not to create this mass desire, but to channel and direct it.
+
+
+
+I talked about this in one of the previous videos, that all desire comes from the market itself and not from the business owner, not from the person who creates the marketing, not from the person who's selling it, not the salesman. All the desire comes from the market itself, and that's why the market's needs and desires are the most important thing out of all of these forces.
+
+
+
+Step three is researching the market's problems, needs, and desires. Once you've listed your industries and skills, it's time to start getting inside their heads and figuring out what makes them tick. To do this, you need to do some research and get outside of your own head, because you're not them. When we're researching another industry, we need to get out of our head, because we're not our industry. I see this time and time again. Entrepreneurs, they sit down at their computer, and they just rack their brain again and again. They're racking their brain. They're going back and forth, back and forth. They're like, "What do people want? What do these guys want?" I'm like, "You don't know. How could possibly know? You are not them."
+
+
+
+Let's say we've got Suzy, and Suzy's across the road, and she's sitting at the bus stop. We're on the other side of the road, and we're like, "Hmm, I wonder what Suzy wants for lunch." It's like, "Dude, we can think about this as much as we want. We could go into some seriously intense thought. We could consult every expert in the world on psychology and thought, and we could use every model. We could research for years, and we're not going to get it. We're not going to get it right. We don't know what Suzy wants for lunch, because we're not Suzy."
+
+
+
+This is what entrepreneurs do. They come up with a market, and then they try and guess what Suzy wants for lunch, and they don't know. A smart entrepreneur just walks over and just goes, "Hey, Suzy. What do you want for lunch?" Then, Suzy says, she's like, "I want Japanese." It's like, "Okay, cool. Now I know." This is how you do it. It might seem like, "How could this be so simple?" Well, everything is always this simple. It's you that makes things complicated. So when you are picking your niche, and when you are researching your niche, you need to get outside of your own head, because you're not them. You're not Suzy. You don't know what she wants for lunch. You can think you're as smart ... You could be Albert Einstein. You ain't going to guess what Suzy wants for lunch, believe me.
+
+
+
+You now know ... Sorry, I read that wrong. You know you have done this exercise properly when you can accurately write a day in your prospect's diary. This is what I mean when you really understand this niche well. When you really understand a niche well, you can write a day in their diary based on what you know about them, and if a person within that niche picked up that page, they'd be like, "Oh my God, this person knows me better than I know myself." That is when you know your niche well, and it doesn't come from thinking inside your own head. It comes from talking to the market, and getting outside of your own head, and seeing what people want, and seeing what people need.
+
+
+
+There's an exercise I like to complete for researching any niche, and let's look at that now. We've got the 10 Smart Market Questions worksheet and the chart of truth. Let's start off with the 10 smart market questions. Below this video, in the resources section, you can grab the download, which is called 10 Smart Market Questions. It's a PDF you can grab, and here's what it looks like. It's 10 simple questions which you can answer that get you inside the heads of this market. It's like starting to think what they're thinking. First question, what keeps them awake at night, indigestion boiling up in their esophagus, eyes open, staring at the ceiling? What is really bugging these people? What is keeping them up at night? You want to start researching this.
+
+
+
+What are they afraid of? What are their deepest fears? What are they angry about? Who are they angry at? What are their top three daily frustrations? What trends are occurring and will occur in their business or lives? What do they secretly ardently desire the most? Is there a built-in bias to the way they make decisions? Example, engineers are exceptionally analytical. Do they have their own language, or do they have their own jargon which they use?
+
+
+
+Who else is selling something similar to them and how? Is anyone else selling things to this niche? If I'm choosing accountants, who else is selling things to accountants? Or if I'm choosing yoga, people who are into yoga, who else is selling things to people who are into yoga? Who else has tried selling them something similar, and how has the effort failed? If someone's been trying to sell something to people in yoga, has it failed, or has it been successful? What do the failures look like, and then what do the successes look like? We want to start to get an understanding of how people can get in touch with this niche, how people can get in touch with this market and get their attention. That's how you complete that exercise.
+
+
+
+Then, we've got the chart of truth. This will make sense to you if you watched the Taking A View On The Market video, which was in week one. It won't make any sense to you if you didn't watch that video, so you want to go back and watch that video. Now here, we want to complete the chart of truth, the beliefs and trends. We want to get a really good idea of objective reality and subjective reality. We want to understand what are the beliefs and trends of this niche? If we're choosing accounting, what are their beliefs and trends, and are these beliefs distorting away from truth, or are they distorting it back towards truth? Which way are things trending? You want to plot this on here, kind of like the body building example, how I had the really scrawny dude at the bottom, and then the overly bulky dude at the top, and then the happy medium in the middle, and how the market's kind of pushing or pulling away between these things.
+
+
+
+Now, where do we get this information from? You're probably thinking, "Oh, I'd love to complete these exercises, but where do I get this info?" Well, here's some ideas where you can get information from. Start by reading the top 10 blogs in this niche. You can use a tool called buzzsumo.com, B-U-Z-Z-S-U-M-O, url's on the screen. If you use that, BuzzSumo, it'll tell you what the most popular blogs are in a niche, so you can type in, for example, accounting. It'll tell you the top 10. Then, you can start looking at those top 10 blogs, like what do they have in common? Then, you can look at the most popular posts on those blogs, so the most popular posts on the most popular blogs. What do these things have in common? Now, we'll go to the comments section of these blogs. What are people saying? What things are people agreeing with people on? What things do people say, "I don't agree with that." Are people taking sides? If people are taking sides, how are those sides positioned? What arguments are being started, if any?
+
+
+
+What are the top 10 books in this niche? What do they say? What you want to do is you can go to amazon.com, and you can go to the books section, and you can search for your industry, and you can see what the top 10 books are in the niche. Then, you can see what they have in common. Are these top 10 books, are they kind of on similar topics? Or look at the table of contents, like are the different chapters and topics inside these books, do they similarities with the other books?
+
+
+
+Then, who are the top 10 influencers in this niche? Who are the gurus or the thought leaders, or the people who other people look up in this niche as leaders? Who are they? What are they saying? Look at their Facebook or their Twitter. What things are they saying? What things are getting the most likes? What things are getting the least likes? What things are getting the most comments? We can start to get an idea of what things people say which strike nerves, and what things people say that don't really strike any nerves.
+
+
+
+Then, what are the top 10 most popular books in this niche? Oh, we've already talked about that. We've already talked about the top 10 most popular books. We've already looked at all of these things, and now what you want to do is start thinking like, "What sort of trends are happening here?" Because I'll give you a massive piece of insight right now, which will totally change the way you look at everything from now on. When things get popular, when a book reaches the top 10 bestsellers list, or when a blog gets in the top 10 blogs, or when a tweet gets a lot of tweets, or when an argument starts to form in comments, it always means that the topic has struck a nerve. Good authors and experts, and people who write blogs, good authors, good news presenters, people who really know how to create good content, they know that it needs to strike a nerve in the market. If it doesn't strike a nerve, then they know that no one's going to read the content, and it's just going to go unnoticed. People know that they need to strike nerve.
+
+
+
+What you'll notice is things that are popular in any niche, whether that's a blog, a book, an influencer, whatever, you'll notice that they strike nerves with their topics in their books, with the posts, with the angles of their posts, with everything. When something strikes a nerve, it means that it's related to their fear, or their problem, or their desire. Remember what creates desire in a marketplace. Someone has a current situation and a desired situation, and they're just wanting to bridge that gap. They're wanting to evolve into their desired situation and into their desired self. If someone's going to create good content that strikes a nerve, it's going to be about that transformation. Popular information on the internet, like this, can give us really good clues and insights into what the fears, problems, and desires of the marketplace are.
+
+
+
+But sometimes it's not that easy. Some niches don't have much information available on them when you search online using BuzzSumo, et cetera. If you pick some different niches, they don't have a bunch of content online, like there isn't a lot of blogs. There isn't a lot of gurus. I'm totally aware of that, so don't worry if the niche you pick doesn't have a whole bunch of information available online. It's okay.
+
+
+
+What you want to do is you want to consider emailing 50 to 100 people in the niche personally and asking them some questions to thoroughly understand their situation and what problems they face, as well as what desires they have. You can even meet them in person for coffee or lunch, or ask them what problems and desires they have. Sometimes, there's no better way than to get offline and out of your head, and go talk to somebody in person, because sometimes, you ... Well, actually, all the time, you can't find the answer in your own head, and sometimes you even go onto the internet, and you can't find the right answer. Seriously, you need to go and talk to people. You need to ask the market what they want.
+
+
+
+When I tell you about how most of my businesses failed, my first business, it failed because it was online job board, and I came up with the idea. My second business failed, is because it was an office lunch delivery business, and I came up with the idea. I was thinking, "What do people want?" And I was like, "Ah-ha, I know what people want." Then, I was like, "I got it wrong. Actually, I didn't know know what people wanted." So I sobered myself up with that. It was a sobering experience. I thought I knew everything, and I found out that I knew nothing.
+
+
+
+Then, I decided, "Well, I'm not going to take that gamble again. Why don't I go out and I talk to people and find out what they want?" Then, I went out, and I started talking to property managers. I just chose that as a niche, started speaking to them, and I was like, "Hey, I'm just trying to do some research. Tell me what's the most painful problems that you have on a day-to-day basis?" They would tell me. They would just tell me their problems. It didn't take long before I realized that most property managers hated property inspections, and that they were doing them manually by pen and paper. Then, I thought, "Well, I could make an app." Then, I did, and that was my first successful business.
+
+
+
+Then, I went out, and I wanted to start a business with consulting, and instead of coming up with a service, I thought, "Well, why don't I go and ask people what they want?" So I started talking to different business owners, and they told me that they wanted more customers, and they told me that they didn't understand digital marketing. They told me that it used to be as simple as taking a Yellow Pages ad up, or buying a space on the local radio station, and that's what they'd always done, and the customers just showed up. Then, they were telling me how that doesn't work anymore, and they don't understand digital marketing, and they want more customers. So I thought, "Okay, well I'll become a digital marketing consultant, helping these people get more customers."
+
+
+
+Every time I've tried to think what the market wants, I've failed, and I've lost money. Every time I think that I know something, I find out that I don't know. Every time I go and talk to someone else, and actually figure out what they want, I get it right. I know it sounds pretty simple, but it really is. It is like that. It's just like trying to guess what Suzy wants for lunch. You don't know. There's no amount of thought that you could possibly do that could ever figure out what Suzy wants for lunch. The best way is just to go and ask her.
+
+
+
+Now, I'll tell you about my plumbing story. This will help you understand a lot about having a good niche. The plumbing story, how it happened is I basically had a broken tap or something at my apartment, I forget what it was, and it was basically ... I remember what it was. It was actually the water feeder thing for the dishwasher, like the pipe had split open, and it was leaking, and we had to shut off the water. We needed a plumber. I hired a plumber online. I found one, called him up, said, "Can you come out here and fix my tap?" He came out and he was fixing it, and while he was fixing it, I was just really curious. I'm always curious. I always ask lots of questions, because I really want to understand people, and I really want to get inside people's heads and understand how things are for people.
+
+
+
+He was fixing my tap, and I started talking to him. I was like, "How do you guys get customers? How do you go about growing your business and everything?" He was telling me, he was saying that, "Oh, we use different things. We'll use AdWords. We've tried AdWords. We've tried Facebook. These things didn't work." He said, "Most of it's just through referral." Then, he started talking to me about how ... He was like, "Most of these guys, they just get us random jobs." They were like, we've tried different marketing companies, but they just get us these random jobs. Like they'll get us a leaky tap, which is out in this area, or ... It's all these leaky tap jobs, or these jobs which are really, they don't pay much money, and they're not really what they want. The previous companies he had worked with just got him random jobs, and he didn't want that.
+
+
+
+I was like, "Okay. Well, what jobs do you want? What is it that you guys actually want?" He started telling me, he was like, "Oh, hot water cylinder repairs." He was like, "That is the holy grail of plumbing." He was like, "Those things are everything." He said that, for a hot water cylinder repair job, he said, they're real easy to do, and he said they make a lot of money on them. He said that what he would prefer to do is just hot water cylinder repair jobs and nothing else.
+
+
+
+I started thinking, and I was like, "I wonder why hot water cylinder repairs." Then, I asked him, and he said, "Well, it's real simple. When someone has a hot water cylinder that blows at their house, they don't have any hot water left. Now, their whole house has got cold water running." He was like, "Imagine if you've got a family, and the whole family needs to have a shower, and the whole family needs to continue with their life, like they need to go to work. They need to wake up in the morning. They need to go to school, and all of these different things, and then imagine there's no hot water. This is a serious situation."
+
+
+
+He said that they're the best jobs, because when someone calls up and they need their hot water cylinder repair fixed, they're not going to price shop. They're not going to go and call every other plumber and compare all the prices and choose the cheapest one. He said, "They need that thing fixed now, and they don't really care how much it costs, because they can't wait multiple days or anything." He said that they make decisions quickly. He said that they pay a lot of money to have it fixed urgently, and he said that they're actually quite simple jobs for plumbers to do. I was like, "Wow, this is amazing."
+
+
+
+So plumbers really want hot water cylinder repair jobs. I knew some things about digital marketing and stuff, so I just told him, I was like, "Hey, I know some things about digital marketing. I've got a digital marketing consulting business." I was like, "Can I try, help you get some clients, some hot water cylinder repair clients using what I know?" He was like, "Yeah, sure," and then paid me for it. Then, I went to work figuring out how to get hot water cylinder repair clients for this particular plumber. I figured out how to get hot water cylinder repair clients for this plumber, and then he ended up getting clients. He loved it.
+
+
+
+Then, I ended up going out to the other plumbers in the industry, and I said, "Hey, look. I know how to get hot water cylinder repair clients." They just looked at me, like their eyes just lit up, and they're like, "Really?" I was like, "Yep," and I signed them up. Then, I ended up signing up a whole bunch of plumbers back in Auckland, and we even ended up signing up some that weren't in Auckland, in New Zealand, because we understood what made plumbers tick. I understood, because I took the time to talk to one of them. I understood more about plumbers than anyone else who was doing digital marketing in New Zealand, because most other people who were doing digital marketing in New Zealand, they just helped plumbers get jobs. They never took the time to understand what plumbers wanted, and so they just got them jobs. They thought that's what they want. They're like, "Oh, they just want more clients, more business, more jobs."
+
+
+
+Then, they would get them more jobs, but that's not what plumbers wanted, at all. They didn't want more leaky tap jobs. They wanted more hot water cylinder repair jobs, and no one else took the time to figure that out, but because I figured that out, I won. I could take anyone's client off them. It didn't matter if someone had a contract. People would cancel their contracts to come work with me. It didn't matter whether some other company was voted Google this or that, or had a fancy office. It didn't matter what any other company did. There was nothing that could beat me, because I understood the most powerful force that there is, and that's the marketplace's needs and desires.
+
+
+
+It doesn't matter if some dude has a Harvard MBA and has a helicopter that he goes to meetings in, right? I'm using an extreme example here. Let's imagine there's a dude who has a Harvard MBA, and he goes to visit clients in his helicopter, right? He's this fancy dude. He could have all of this fancy stuff, but if he doesn't understand that plumbers want hot water cylinder repair clients, I'm always going to win, and I don't need to have a Harvard MBA, and I don't need to have a helicopter. I just understand the client better than he does.
+
+
+
+This is how we've gotten things wrong a lot of the time, is we think it's about us. We think we need to be fancier, we need to do different things, but it's never about you. No one cares about you. All the client cares about is themself, and when you're in business, all you want to care about is your client and their problem, and solving their problem, and getting them their desired situation.
+
+
+
+Really, when you pick your niche, you're looking for the perfect storm of variables, so these three things, a niche market, which is a specific group of people, a painful problem or a powerful desire, and a skillset which you have or can learn. You can see here, I've underlined or can learn, because you don't have to have the skills right now. If you find a niche market, like let's say you pick plumbers. Then you find their powerful problem or desire is that they want more hot water cylinder repair clients. You don't have to know how to get them more hot water cylinder repair clients, because you can figure that out. Don't get scared just because you don't know how to do something right now. You can always figure out how to do it. It's quite easy, and I'm going to show you how.
+
+
+
+The most important two things really are the niche market and the powerful problem or powerful desire. If you have those two, you can always figure out the other one, which is how to solve the problem for them. You can either posses those skills right now, or you can go out and learn them. It doesn't matter. Skillset you have or can easily learn, so you want to take inventory of your current skillset first, to see if you can use them to solve people's problems. But don't stress out if you don't currently have the skillset, because when you focus on solving one problem, it's amazing how easy it is to solve it and acquire the skills necessarily to do so. You want to find a niche, find a painful problem or powerful desire, and then believe in your ability to figure it out and acquire the skills necessarily to do it.
+
+
+
+The key to this is to believe in your ability to figure it out. That is really the key to everything in life. When you find opportunity, or when opportunity knocks on the door, you're not going to be ready for it. You never are. That's always how opportunity comes. Most people are hit in the face with opportunity every single day, and they just, because they think that everything should be perfect, and they should already be ready for it, that it just passes them by. But when you find out a perfect niche, and when you find out a problem, quite often, you're not going to know how to solve the problem. The most important thing is that you believe in your ability to figure it out. You want to take a screenshot of this, and you want to print this out and put it on your wall, because you have to start believing in your ability to figure things out.
+
+
+
+If business was a game of people already knowing how to do things, then no one would be able to start a business, because no one knows how to do things from ... I think a lot of people think that in order to start a business, you need to know how to start a business, but the only way you learn how to start a business is by starting a business. It doesn't really make sense, does it? People think that people already know how to do things, but quite often, how people learn how to do things is by doing them. All that the people who are successful have, that the people who are unsuccessful don't, is they believe in their ability to figure things out. They see something they want, they start the journey towards it, and then they figure things out along the way. They don't paralyze themself with fear, and they don't just stand at the starting line thinking of every possible situation ahead.
+
+
+
+Now, let's do some work. We've got some different worksheets now. We've got some things which we're going to print out. We've got some things which we're going to start completing. We're going to get into action mode now. We've got these worksheets, the Niche Definition worksheet, the 10 Smart Market Questions, the Client Avatar worksheet, and something which I called A List Building Exercise. Let's jump into this right now.
+
+
+
+The first thing we'll do is the Niche Definition worksheet. It's available for download below this video in the resources section. It's a PDF, so you can grab it, download it, print it off, and this is what it looks like, Niche Definition Worksheet. Step one is to list five industries which you know or are passionate about. List them down here. You should've done this before during the video, so just list them out, one to five. Don't think too much about it. Step two, list five skillsets which you currently have. You might have taken an inventory of yourself and come up with some skills you have, or your friends and family, because we sent out that email, remember, what did people say back to that email? What did they identify your skills as? Then, what you did you identify your skills as? Write them down here, five things.
+
+
+
+Then, list the problems, fears, and desires of the industries which you selected. The industries which you found, and when you did your research and talked to people, what are their problems? What are their fears? What are their desires? Write them down. Now, the most important factor is the problems and desires, remember? Out of all of the problems and desires you identified in step three, which one do you believe is most powerful? From here, which one do you think is most powerful? If you had to give it a rating out of 10, which one has the highest rating? Which one was the biggest urgency? Which niche has the biggest hunger and appetite for their desired situation? Pick that one.
+
+
+
+Step five, now take the problem or desire from step four and define how this looks on the transformation chart. What's their current situation, and then what's their desired situation? We need to get some separation here. We need to define these things. Where are they right now? Let's clearly describe that. Then, where do they want to go? We could say, if we were using binge eating, we could say young women who have binge eating issues which they can't seem to break. Then, desired situation is to be free from binge eating habits. Or it could be accountants who want to escape the time trade for money. Current situation would be accountants who are currently charging per hour, and desired situation is accountants who have escaped time for money and are now charging on value. Or it could be accountants who want to quit their job and start their own practice. You could say they're currently accountants what work at accounting firms. The desired situation is that they work on their own from home, virtually, and they have enough clients so that their income exceeds what they made at their firm. Current situation, desired situation.
+
+
+
+Step six, do you currently have the skills and knowledge to solve this problem and help this person make this transformation? We know the niche, and then we know their problem, and now, we know their desired situation. Do you currently have the skills necessarily to do this? I'll use an example. I picked the plumbing niche, and then I did some research, and I found out that they wanted more hot water cylinder repair clients. At that stage, I didn't possess the skill to help them get more hot water cylinder repair clients. I didn't know how to do that. If you do, if you do currently possess the skill, awesome. Now, you have your niche selected. If you don't, if you select no, don't stress. Most problems, when clearly defined and isolated on their own, are very easy to solve and the knowledge needed to do so can be easily acquired. If you selected no, please continue to the next step. If you selected yes, you are done with this exercise.
+
+
+
+Step seven, let's start working on solving this problem and acquiring the skills and knowledge necessary. Let's start by writing the problem down in one or two sentences. Most people get overwhelmed. They're like, "Oh, I can't solve this." They don't even write it down. It's way simpler than you think. Trust me. You have to just write it down. What is the problem? I could write down plumbers want to get more hot water cylinder repair clients, and they've tried things like AdWords and different marketing companies, and they just get them a whole bunch of additional jobs, but they don't get them hot water cylinder repair clients. Or we could write down the problem, most young women who have binge eating issues have tried to quit it on their, and they can do so for a certain amount of time, but then they relapse. You could just write it down. What's the problem?
+
+
+
+Now, you can think, "Has anybody solved this problem, anybody on the face of this earth?" Because truthfully, pretty much everyone has solved a problem. They don't have to be from the same industry. They don't have to be someone you know, but most of the time, someone has solved a problem. For Brittany in her binge eating niche, has anyone on the face of the earth quit their binge eating habit? Of course there has been, so she can start looking at those different sources. Has any plumber in the world figured out how to get hot cylinder repair clients? Of course there is, so we start looking for them. Has any accountant who works at a firm been able to quit his job and start his own practice? Of course. Has any accountant in the world been able to go from charging per hour to charging on value? Of course. These people exist. You just need to look.
+
+
+
+You write down the problem. Has this problem been solved by someone else? Then, how have they solved this problem? What are they doing? Start looking at what they are doing. If some girl has figured out how to stop binge eating, what has she done? Read her book. Read her blog and her resources. How does she do it? If someone was able to quit his job at an accounting firm and start his own practice, how? We want to figure out how. Do they have a book on it? Do they talk about it on the internet? Are we able to ask them? Are we able to talk to them? Are we able to interview them or send them an email? We need to figure this stuff out.
+
+
+
+Now, can you copy this to solve the problem for your clients? Are you able to do what they do in order to solve this problem for your clients, yes or no? Now, you want to make a list of the things you need to learn in order to copy the winning solution from people who have already figured this out. You want to write down the different things you need to learn, list them out. Like if we're going to teach an accountant how to quit his job and start his own accounting practice, we're probably going to need to teach him how to sell. We're going to need to teach him all sorts of things, and that means we're probably going to need to learn how to sell to accountants. We're going to need to learn all these different things. You want to write them down. We might need to learn Facebook ads. We might need to learn landing pages, or funnels, or whatever.
+
+
+
+Then, what steps are you going to take over the next seven to 14 days to learn this? Now that we've defined what we need to learn, now let's make a commitment to learn it, because I'm not joking. This stuff is really as simple as I'm making it out to be here. A lot of people find a niche, and then they find a desire in the niche, and then they're like, "Oh, but I don't have the skills to help them." They're like, "Oh, I can't do this one. I give up." That's pathetic. Pretty much every opportunity you find, you're not going to have the perfect capabilities and skillsets right now. It doesn't happen like that. When opportunity comes knocking, it's hard work that opens the door. Don't think that when opportunity comes knocking, it's just going to open the door itself and let itself in, and just give you a whole bunch of money. It's work, and it's figuring out how to take advantage of that opportunity.
+
+
+
+When you find an awesome opportunity by selecting a niche and finding out what their current situation is and their desired situation, you want to write it down, and then you want to figure out, do you have the skills to solve this or not? If you don't, then write the problem down. Has somebody else in the world solved this? I'm sure somebody has. You just have to look. Then, how have they solved this? How are they doing it? Write it down. Can you copy this, yes or no? Then, make a list of the things you need to learn in order to copy the winning solution, what's involved, and then just make a commitment to learn it, because you would be surprised. When you define something specific, you'd be amazed at how quickly you can learn it.
+
+
+
+Like when I defined the problem as helping plumbers get hot water cylinder repair clients with digital marketing, man, it was pretty easy to figure that out, because it was so specific. It wasn't like I was helping plumbers with everything. I was just helping them with one very micro specific thing. I was able to look at what other plumbers were doing. I was able to specifically focus my ads and everything on hot water cylinder repair clients, hot water cylinder repairs. It was laser focused, and I could pick up the skill real quick.
+
+
+
+Remember what I said, the most important thing is, in entrepreneurship, and something which you really want to write down, is the key to this is to believe in your ability to figure it out. You want to write that one down. You don't want to forget that, because that is the key.
+
+
+
+Now, we've got the 10 smart market questions. I showed you this worksheet before, so I won't go through it in full detail, because we've already walked through it. Once you've found your niche, and you've picked it, you want to define these things. You want to really understand your niche. You want to get inside their head, and you want to understand what makes them tick. When you understand your niche properly, you should be able to write a day in their diary, and it should be spooky. If your niche found that random page on their desk, they should think, "Wow, this person understands me better than I understand myself."
+
+
+
+Then, we've got the Client Avatar worksheet. This is a worksheet that I like to complete, available for downland. This puts a name and a face to your ideal customer. I call this Aaron Avatar, and what we do is we give an avatar to our customer and our niche, so that we can clearly understand who they are. We write down where do they live, how old are they, what is their level of education. We give them a name. You can make the name up. I can be anything, but you kind of what to describe who this person is. Accountants, they have their quirks, and accountants have their things which accountants have. Then, girls who have binge eating issues, I'm sure they have their things which are noticeable, as well. Plumbers, they have their things.
+
+
+
+I find that most people, they think that every single person is totally unique. They go and talk to someone, and they're like, "Whoa, this person's so much more different than this person." When you pick a niche, if you zoom out, and you look from a distance, pretty much everyone has a lot in common. You want to kind of encapsulate that similarity which everyone has here. You want to tell us about your avatar. What do they do? How do they spend their week? What do they do outside of work? Where do they get their news? How much money do they make? How do they feel about their job? What are their concerns about life? What aspects of their life or personality affect how you market your product to them? Really take some time to define who your market is. Give them an avatar. Complete this worksheet here.
+
+
+
+Now, whenever you're doing your business, whenever you're working on your business, or writing an ad, or doing anything like this, you can pull this sheet back up. You can be like, "Oh, okay. This is my avatar." When you're creating your ads, or when you're doing anything, you've got a picture of who you're talking to and who your ideal customer is. Because if you don't create an avatar, and if you don't understand who your customer is, then you will never be able to speak to them properly. This is a crucial exercise which you definitely want to take the time to complete.
+
+
+
+We've got these three worksheets, Niche Definition, 10 Smart Market, and the Client Avatar, and then we have this final exercise, which I call a List Building Exercise. This one's important. If your ideal client is a business, can you start searching through Google right now and building a list of potential customers? If you've chosen plumbers, can you just go to Google and start searching for plumbers, and find a whole bunch of different plumbers? If you can, awesome. Now, you want to think, "Do these plumbers match my avatar?" You want to start making a list of these people.
+
+
+
+Or are there any ideal clients in your current network of friends? Now that we've got our avatar defined, is there anyone in our friends list, on Facebook or on anywhere, that fits this description? If there is, you want to make a list. You want to start making a list of people who are in your market. If you can't start building a list of your ideal clients right now, don't stress. Individuals are a bit harder to locate at this stage for list building, but we have many methods for building lists of them, which we will get to later in this training program.
+
+
+
+For now, this is just an exercise to put things in motion, build confidence, and get you thinking. You want to start making a list of these people, because it starts to get your brain ticking. Once we start looking at real people, real businesses out there in the world that match our avatar description, we're starting to connect the dots in our brain, and we're putting things in motion. It's a really, really, really important exercise to do. I'm not saying you have to reach out to these people. I'm just saying you have to make a list. Start looking. If you've got a consumer market, start looking just on Facebook for people who kind of fit your description, or start looking on Instagram for people who fit your description. Or if you're in the business side of things, then you want to start looking for businesses on Google.
+
+
+
+Now, I know that I usually say that B2B and B2C, it's the exact same thing. It is 100% accurate. However, often people, they don't go and create a website or rank in Google for different things, because people are a bit more private than businesses. The way we market to them is still the same, but for this list building exercise, we have to do things a little bit differently. This is a really crucial exercise. I don't want you to skip this one. I want you to make your list of 10 people or 10 businesses who fit your ideal client avatar worksheet.
+
+
+
+Then, I want you to list them. Write them down, one to 10. Let's make a list, because creating this list is putting things in motion. I know it doesn't seem like much of an action to take right now, but believe me, this one action, putting things in motion right now at the beginning of this program is going to compound. Remember how I told you about cause and effect, and how it compounds over time? Just doing something as small as this right now is going to start compounding over the next few weeks, and it's really going to impact the results that you're able to get with this program, so don't skip this one out.
+
+
+
+That pretty much concludes this exercise on how to pick your niche, so you need to have completed your Niche Definition worksheet. You must do that. You need to have completed your 10 Smart Market Questions. You need to have completed your Client Avatar worksheet, and you need to have built a list of at least 10 people or businesses that match your ideal client avatar. Now, don't cheat yourself on this stuff. By not completing these exercises, by not taking the action, you're only cheating yourself. Just like I told you in the beginning of this program, it doesn't matter if you listen to me and go through this whole course. You could listen to this course a hundred times, you could understand it off by heart, but if you don't take any action, you're not going to get anything.
+
+
+
+I could sign a letter that personally guarantees that. If you don't do any action, you ain't going to get anything. You're not going to have a business. You're not going to have money. You're not going to have clients. So don't fool yourself. Don't cheat yourself. Take the action. Do the work. Make sure you complete all of these exercises and be decisive when you pick your niche. Remember, you're not marrying it. It's not the end of the world if you pick the wrong one. The person who picks the wrong one is still going to end up finding the right one faster than the person who doesn't pick anything, just remember that. That wraps up this training video. Thanks for watching. Make sure you complete these exercises, and I'll see you in the next video right now.
+

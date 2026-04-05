@@ -1,0 +1,12 @@
+# Transcrição: WFF2019_M1_L8_4_Weeks_To_An_Effective_Webinar_MP3
+
+- **Fonte:** WFF2019_M1_L8_4_Weeks_To_An_Effective_Webinar_MP3
+- **Duração:** 03:01
+- **Idioma:** en
+- **Modelo:** small
+
+---
+
+## [00:00 - 03:01]
+
+Hi, this is Don Crowther. Let's talk about four weeks to a great webinar. So I have to be totally transparent and come clean here. I've been repeatedly guilty of a key webinar mistake. Which is spending about two days to create a webinar. So I've done a lot of these. I got a lot of confidence in my ability to turn out content fairly quickly. And so I consistently find myself under budgeting the amount of time that it creates takes to create a great webinar. And so this whole thing about two days to create a great web to create a webinar and you know what? Those webinars when I do that they generally don't do very well. One of the things that you're going to learn in this program is that great webinars aren't just some content followed by making your offer. A great webinar is a complex psychological masterwork with multiple techniques being used to prepare people to buy. And oftentimes those techniques are actually overlay each other. So you're working on this psychological strategy at the same time you're working on something else and at the same time there's an open loop that we open at the beginning this going to get closed in about 20 minutes. There are multiple layers of motivating psychology happening in a great webinar. And even if you're really good at creating webinars you're not going to knock out a great webinar in a day or two. So I'm just going to say it this way you can create a good webinar in about two weeks of full-time work. To create a great webinar it's going to take about a month. And so once you understand all the principles of great webinar funnel design that I'm giving you in this program you'll be able then to create one in about four weeks. So now included in this time is the creation of all the other webinar assets. So your emails and your web pages and your sales pages and your webinar registration gifts and your ad copy. All that can happen within that month. But I just want to warn you of this in advance that you know what to expect and what to budget for. You can do a webinar in less time. As I said I've done a number of them in two days. But you can't expect the same results that you can expect from a webinar that you really put the time and effort into creating.
