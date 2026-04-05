@@ -13,10 +13,10 @@
 # ═══════════════════════════════════════════════════════════════════════════════
 
 dominio: "traffic"
-versao: "22.0.0"  # Perry Marshall added (peso 0.95, 100 elements). Google Ads PIONEER — Peel & Stick Method, Quality Score optimization, Deep 80/20 applied to AdWords, Bullseye GDN Targeting, RLSA, YouTube ABCD framework, Shopping campaigns, Ongoing Optimization Process, Complete Campaign Launch Sequence. THE definitive Google Ads source. Co-authored with Mike Rhodes.
+versao: "23.0.0"  # Tom Breeze added (peso 0.90, 53 elements). YouTube Ads SPECIALIST — ADUCATE scripting framework, Schema Violation psychology, Customer Moment Theory (window/in-store/checkout shoppers), Targeting Hierarchy (placements→keywords→custom intent→affinity), Three-Tier Ad Structure (one video → three ads), Rapid Research Method. Agency running YouTube ads for Frank Kern ($100K/mo), Neil Patel, Russell Brunson, Amy Porterfield.
 data_criacao: "2026-03-11"
 ultima_atualizacao: "2026-04-05"
-total_elementos: 2122
+total_elementos: 2175
 peso_global: 0.70
 
 fontes_consolidadas:
@@ -216,6 +216,26 @@ fontes_consolidadas:
       - "Frequency cap: 2-3/day for Display image ads"
       - "Experiments: 30+ conv/month, 2-4 weeks minimum"
     note: "Added 2026-04-05. Perry Marshall is THE Google Ads pioneer — co-authored the world's best-selling book on Google Ads (5 editions). With Mike Rhodes and Bryan Todd, created the definitive system for Google Ads mastery. Peel & Stick method, Quality Score optimization, and Deep 80/20 applied to AdWords are FOUNDATIONAL concepts. The Bullseye GDN Targeting Sequence and Auto-Rules Failsafe provide systematic Display Network management. The Profit Curve Model (max profit != lowest CPA) is a critical insight that most advertisers miss. Perry Marshall also bridges traffic to his 80/20 fractal mathematics — EVERY metric in Google Ads follows power laws. Complements all Facebook-focused sources with THE authoritative Google/YouTube Ads methodology."
+
+  - fonte: "tom-breeze"
+    path: "knowledge/external/dna/persons/tom-breeze/"
+    raw_path: "knowledge/external/sources/tom-breeze/raw/youtube-ad-workshop/"
+    peso_dominio: 0.90
+    elementos_contribuidos: 53
+    especialidade: "YouTube Ads SPECIALIST — ADUCATE scripting framework (Aim-Difficulty-Understand-Credibility-ActionPlan-Teach-Exit), Schema Violation psychology (attention + learning portal), Customer Moment Theory (window/in-store/checkout shoppers), Perfect Video Ad Structure, Three-Tier Ad Structure (one video → three ads for cold/warm/hot), Targeting Hierarchy (placements→keywords→custom intent→in-market→affinity), Rapid Research Method (Pareto 80/20), Customer Moment Mapping, 5½ Power Statements, TrueView billing mechanics"
+    tipo_fonte: "PRIMARY"
+    fontes_incluidas:
+      - "YouTube Ad Workshop (25 valid files from 130 — 105 were binary video data)"
+    key_benchmarks:
+      - "YouTube CPA: $16/book buyer (vs $23 on Facebook — Frank Kern case)"
+      - "Start campaigns at $10-20/day"
+      - "Session-based keyword targeting: 30-60 minute window"
+      - "Similar Audiences = 10x uploaded list size"
+      - "Custom Affinity can scale to $20K/day"
+      - "Script target: 90 seconds or less"
+      - "Quick credibility: 1-2 sentences max"
+      - "Video ads: under 4 minutes for full structure"
+    note: "Added 2026-04-05. Tom Breeze is THE YouTube Ads specialist — runs agency (Viewability) doing YouTube ads for Frank Kern, Neil Patel, Amy Porterfield, Russell Brunson, Brendan Burchard. Psychology background (master's) underpins his creative methodology — Schema Violation is a neuroscience-backed attention mechanism. ADUCATE framework is the gold standard for YouTube ad scripting. Customer Moment Theory maps beautifully to the cold/warm/hot traffic paradigm. Complements Perry Marshall's Google Ads depth with YouTube-SPECIFIC creative + targeting methodology. The Three-Tier Ad Structure (one video → three ads) is uniquely efficient."
 
   - fonte: "sam-ovens"
     path: "knowledge/external/dna/persons/sam-ovens/"

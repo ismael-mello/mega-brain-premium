@@ -1,0 +1,62 @@
+##############################################################################
+#  TOM BREEZE — DNA-CONFIG v1.0.0
+#  Tipo: SOLO (pessoa única, peso 1.0)
+##############################################################################
+
+metadata:
+  agent_type: SOLO
+  person: Tom Breeze
+  slug: tom-breeze
+  version: "1.0.0"
+  last_updated: "2026-04-05"
+
+dna_sources:
+  - person: tom-breeze
+    weight: 1.0
+    path: "knowledge/external/dna/persons/tom-breeze/DNA.yaml"
+    domains:
+      - youtube-advertising
+      - video-marketing
+      - paid-media
+      - ad-creative
+      - audience-targeting
+      - video-scripting
+    raiz: "knowledge/external/sources/tom-breeze/raw/youtube-ad-workshop/"
+    materiais_fonte:
+      - name: "YouTube Ad Workshop"
+        type: COURSE
+        modules: 7
+        valid_files: 25
+        note: "105 files were binary video data (not transcriptions). 25 valid text files processed."
+        submodules:
+          - "1 Introduction (1 valid: Targeting Your Customers)"
+          - "2 Research (4 valid: Brainstorm, Keywords, Targeting, Placements)"
+          - "3 Video (0 valid — all binary)"
+          - "4 Setting Up (0 valid — all binary)"
+          - "5 Campaign Blueprints (0 valid — all binary)"
+          - "6 Bonus (3 valid: Frank Kern Strategy, Russell Brunson Strategy, Elizabeth Halford Ideation)"
+          - "7 Coaching Calls (0 valid — all binary)"
+          - "Root docs (4 valid: Scripting Process, Drafting, Storyboarding, Getting Creative)"
+
+element_counts:
+  philosophies: 10
+  mental_models: 10
+  heuristics: 20
+  frameworks: 8
+  methodologies: 5
+  total: 53
+
+insights_summary:
+  top_themes:
+    - "YouTube ad targeting (keywords, placements, custom audiences)"
+    - "Video ad scripting (ADUCATE framework, schema violation)"
+    - "Customer moment theory (window/in-store/checkout shoppers)"
+    - "YouTube vs Facebook advertising comparison"
+    - "Funnel strategy with YouTube traffic (book funnel case study)"
+  notable_case_studies:
+    - "Frank Kern book funnel: $100K/month with YouTube ads at $16/buyer"
+    - "Russell Brunson ClickFunnels: YouTube strategy walkthrough"
+  known_limitations:
+    - "105 of 130 inbox files were binary video data, not transcriptions"
+    - "Modules 3-5 and 7 had zero valid text content"
+    - "DNA limited to available transcribed content only"
